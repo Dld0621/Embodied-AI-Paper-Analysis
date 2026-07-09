@@ -31,7 +31,6 @@ desktop.ini
 # 论文 PDF 不纳入版本管理（版权敏感，仅本地保存）
 *.pdf
 PAPER/
-papers/
 
 # 大型数据/模型权重
 *.pth
