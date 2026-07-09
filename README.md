@@ -2,8 +2,6 @@
 
 > 一个系统化拆解具身智能（Embodied AI）前沿论文的阅读笔记仓库：从感知、操作、运动到世界模型，用统一的框架沉淀每一篇论文的问题、方法、创新与可复现细节。
 
-Maintained by [Gangwei Li](https://www.linkedin.com/in/gangwei-li) | Research focus: Embodied AI, Dexterous Manipulation, Teleoperation, Retargeting
-
 具身智能研究正以前所未有的速度膨胀——视觉-语言-动作模型、人形机器人全身控制、灵巧手抓取、可微仿真与世界模型彼此交织，单篇论文往往横跨多个子领域。仅靠逐篇通读很难建立结构化的认知，读完即忘是常态。本仓库的目标是为这个难题提供一个落地的解法：用一套固定的分析框架逐篇拆解论文，再把拆解结果按主题归档，最终拼出一张可检索、可对照、可复用的知识地图。
 
 ## 论文索引
