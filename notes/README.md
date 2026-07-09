@@ -1,6 +1,6 @@
 # 笔记索引
 
-> 本文件由 `scripts/generate_index.py` 自动生成，请勿手动编辑。如需新增主题或调整顺序，编辑 `scripts/generate_index.py` 中的 SECTIONS 后重新运行。
+> 本文件由 `scripts/generate_index.js` 自动生成，请勿手动编辑。如需新增主题或调整顺序，编辑 `scripts/generate_index.js` 中的 SECTIONS 后重新运行。
 
 ## 感知与表示
 ### foundation-models · 基础模型
