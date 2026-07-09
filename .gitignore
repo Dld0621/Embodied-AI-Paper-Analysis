@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 论文 PDF 不纳入版本管理（版权敏感，仅本地保存）
+*.pdf
+PAPER/
+papers/
+
+# 大型数据/模型权重
+*.pth
+*.ckpt
+*.safetensors
+*.npy
+*.npz
+*.h5
+
+# 临时文件
+*.tmp
+*.log
