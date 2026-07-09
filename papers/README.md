@@ -1,6 +1,6 @@
 # Embodied AI Paper Collection by Topic
 > 按主题分类的论文索引，每个主题内按年份降序排列。
-> 总计: 929 篇唯一论文 | 生成时间: 2026-07-09
+> 总计: 930 篇唯一论文 | 生成时间: 2026-07-09
 > 标注: [arXiv] 在线论文 | [Code] 代码/项目页 | [Google Scholar] 搜索链接
 
 ## Foundation Models (20 篇)
@@ -442,23 +442,23 @@
 
 | # | Title | Links |
 |---|-------|-------|
-| 1 | Hand-in-the-Loop: Improving VLA Policies for Dexterous Manipulation | [Google Scholar](https://scholar.google.com/scholar?q=Hand-in-the-Loop) |
-| 2 | MM-Hand: A 21-DOF Multi-modal Modular Dexterous Robotic Hand with Remote Actuation | [Google Scholar](https://scholar.google.com/scholar?q=MM-Hand) |
-| 3 | Vision-Based Hand Shadowing for Robotic Manipulation via Inverse Kinematics | [Code](https://github.com/chichonnade/Vision-Based-Hand-Shadowing) | [Google Scholar](https://scholar.google.com/scholar?q=Vision-Based%20Hand%20Shadowing%20for%20Robotic%20Manipulation%20via%20Inverse%20Kinematics) |
+| 1 | Hand-in-the-Loop: Improving VLA Policies for Dexterous Manipulation via Seamless Hand-Arm Intervention | [arXiv](https://arxiv.org/abs/2605.15157) |
+| 2 | MM-Hand: A 21-DOF Multi-modal Modular Dexterous Robotic Hand with Remote Actuation | [arXiv](https://arxiv.org/abs/2604.17245) |
+| 3 | Vision-Based Hand Shadowing for Robotic Manipulation via Inverse Kinematics | [arXiv](https://arxiv.org/abs/2603.11383) | [Code](https://github.com/chichonnade/Vision-Based-Hand-Shadowing) |
 
 ### 2025
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy | [arXiv](https://arxiv.org/abs/2504.18829) | [Code](https://github.com/JYChen18/Dexonomy) |
-| 2 | Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm | [Code](https://github.com/facebookresearch/GeoRT) | [Google Scholar](https://scholar.google.com/scholar?q=Geometric%20Retargeting) |
+| 2 | Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm | [arXiv](https://arxiv.org/abs/2503.07541) | [Code](https://github.com/facebookresearch/GeoRT) |
 | 3 | Kinematic Motion Retargeting for Contact-Rich Anthropomorphic Manipulations | [Google Scholar](https://scholar.google.com/scholar?q=Kinematic%20Motion%20Retargeting%20for%20Contact-Rich%20Anthropomorphic%20Manipulations) |
 
 ### 2022
 
 | # | Title | Links |
 |---|-------|-------|
-| 1 | Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation | [Code](https://github.com/Mingrui-Yu/retargeting) | [Google Scholar](https://scholar.google.com/scholar?q=Analyzing%20Key%20Objectives%20in%20Human-to-Robot%20Retargeting%20for%20Dexterous%20Manipulation) |
+| 1 | Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation | [arXiv](https://arxiv.org/abs/2506.09384) | [Code](https://github.com/Mingrui-Yu/retargeting) |
 | 2 | DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation | [arXiv](https://arxiv.org/abs/2210.02697) | [Code](https://github.com/PKU-EPIC/DexGraspNet) |
 
 ## Humanoid Robotics (17 篇)
@@ -548,7 +548,13 @@
 | 1 | High-speed control and navigation for quadrupedal robots on complex and discrete terrain | [Google Scholar](https://scholar.google.com/scholar?q=High-speed%20control%20and%20navigation%20for%20quadrupedal%20robots%20on%20complex%20and%20discrete%20terrain) |
 | 2 | Vid2Sim Realistic and Interactive Simulation from Video for Urban Navigation | [Google Scholar](https://scholar.google.com/scholar?q=Vid2Sim%20Realistic%20and%20Interactive%20Simulation%20from%20Video%20for%20Urban%20Navigation) |
 
-## Teleoperation (1 篇)
+## Teleoperation (2 篇)
+
+### 2023
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System | [arXiv](https://arxiv.org/abs/2307.04577) | [Code](https://github.com/anyteleop/anyteleop) |
 
 ### 年份未知
 
