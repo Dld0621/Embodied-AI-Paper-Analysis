@@ -4,6 +4,36 @@
 
 具身智能研究正以前所未有的速度膨胀——视觉-语言-动作模型、人形机器人全身控制、灵巧手抓取、可微仿真与世界模型彼此交织，单篇论文往往横跨多个子领域。仅靠逐篇通读很难建立结构化的认知，读完即忘是常态。本仓库的目标是为这个难题提供一个落地的解法：用一套固定的分析框架逐篇拆解论文，再把拆解结果按主题归档，最终拼出一张可检索、可对照、可复用的知识地图。
 
+## 论文索引
+
+本仓库收录 **970 篇** 具身智能领域论文，所有论文已整理并去重，按**七条主线**分类：
+
+| 主线 | 主题 | 论文数 |
+| --- | --- | --- |
+| **感知与表示** | [基础模型](papers/README.md#foundation-models) | 20 |
+| | [3D 视觉与感知](papers/README.md#3d-vision--perception) | 68 |
+| | [高斯泼溅](papers/README.md#gaussian-splatting) | 17 |
+| | [运动追踪](papers/README.md#motion-tracking) | 9 |
+| | [触觉感知](papers/README.md#tactile-sensing) | 31 |
+| **操作与抓取** | [操作](papers/README.md#manipulation) | 64 |
+| | [抓取](papers/README.md#grasping) | 26 |
+| | [重定向/运动映射](papers/README.md#retargeting) | 2 |
+| **运动与导航** | [人形机器人](papers/README.md#humanoid-robotics) | 30 |
+| | [运动控制](papers/README.md#locomotion) | 20 |
+| | [导航](papers/README.md#navigation) | 9 |
+| **策略学习** | [扩散策略](papers/README.md#diffusion-policy) | 60 |
+| | [强化学习](papers/README.md#reinforcement-learning) | 93 |
+| | [VLA (视觉-语言-动作)](papers/README.md#vla-vision-language-action) | 4 |
+| **仿真与数据** | [仿真](papers/README.md#simulation) | 14 |
+| | [数据生成](papers/README.md#data-generation) | 17 |
+| **世界模型与生成** | [世界模型](papers/README.md#world-models) | 5 |
+| | [视频生成](papers/README.md#video-generation) | 10 |
+| **遥操作与硬件** | [遥操作](papers/README.md#teleoperation) | 12 |
+| | [硬件](papers/README.md#hardware) | 16 |
+| **其他** | [Uncategorized](papers/README.md#uncategorized) | 455 |
+
+**完整索引：[papers/README.md](papers/README.md)** — 按主题组织，每个主题内按年份降序排列，每篇带 arXiv 链接和 GitHub 代码链接（如果能找到）。
+
 ## 这个仓库适合谁
 
 - 正在做具身智能方向研究、需要快速建立领域全局观的研究者与研究生
@@ -50,16 +80,19 @@
 
 ```
 Embodied-AI-Paper-Analysis/
-├── README.md                  # 本文件
+├── README.md                  # 本文件（含论文索引总览）
 ├── LICENSE
 ├── CONTRIBUTING.md
 ├── .gitignore
+├── papers/                    # 按主题分类的论文索引（970 篇）
+│   ├── README.md              # 主题分类索引，含 arXiv 与代码链接
+│   └── index.md               # 按年份分类索引
 ├── docs/
 │   ├── paper-analysis-template.md   # 论文分析模板
 │   ├── reading-methodology.md       # 阅读方法论
 │   └── taxonomy.md                  # 话题分类说明
 ├── notes/                     # 论文分析笔记（按主题归档）
-│   ├── README.md              # 笔记索引
+│   ├── README.md              # 自动生成的笔记索引
 │   ├── 01-foundation-models/
 │   ├── 06-manipulation/
 │   ├── 08-retargeting/
