@@ -1,9 +1,9 @@
 # Embodied AI Paper Collection by Year
 > 按年份分类的论文索引，每篇论文提供在线链接和本地 PDF 链接。
-> 总计: 921 篇唯一论文 | 生成时间: 2026-07-09
+> 总计: 929 篇唯一论文 | 生成时间: 2026-07-09
 > 标注: [PDF] 打开本地文件 | [arXiv] arXiv 在线阅读 | [Code] 代码/项目页 | [Google Scholar] 搜索该论文
 
-## 2026 (25 篇)
+## 2026 (28 篇)
 
 | # | Title | Links |
 |---|-------|-------|
@@ -19,53 +19,60 @@
 | 10 | GRAIL Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors | [arXiv](https://arxiv.org/abs/2606.05160) |
 | 11 | Generating Robot Hands from Human Demonstrations | [arXiv](https://arxiv.org/abs/2606.20549) |
 | 12 | Generating Robot Hands from Human Demonstrations | [Google Scholar](https://scholar.google.com/scholar?q=Generating%20Robot%20Hands%20from%20Human%20Demonstrations) |
-| 13 | Human Universal Grasping | [arXiv](https://arxiv.org/abs/2606.17054) |
-| 14 | Human Universal Grasping | [Google Scholar](https://scholar.google.com/scholar?q=Human%20Universal%20Grasping) |
-| 15 | MotionDisco: Motion Discovery for Extreme Humanoid Loco-Manipulation | [arXiv](https://arxiv.org/abs/2606.06139v1) |
-| 16 | ORCA Open-Source | [arXiv](https://arxiv.org/abs/2606.14561) |
-| 17 | OmniContact Chaining Meta-Skills via Contact Flow for Generalizable Humanoid Loco-Manipulation | [arXiv](https://arxiv.org/abs/2606.26201) |
-| 18 | OmniContact: Chaining Meta-Skills via Contact Flow for Generalizable Humanoid Loco-Manipulation | [arXiv](https://arxiv.org/abs/2606.26201v1) |
-| 19 | Text2CAD-Bench A Benchmark for LLM-based Text-to-Param | [arXiv](https://arxiv.org/abs/2605.18430) |
-| 20 | TopoRetarget: Interaction-Preserving Retargeting for Dexterous Manipulation | [arXiv](https://arxiv.org/abs/2606.16272v2) |
-| 21 | Universal Manipulation Exoskeleton Learning Compliant Whole-body Policies with Real-time Torque Feed | [arXiv](https://arxiv.org/abs/2606.14218) |
-| 22 | VLK Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes | [arXiv](https://arxiv.org/abs/2606.30645) |
-| 23 | VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes | [arXiv](https://arxiv.org/abs/2606.30645v1) |
-| 24 | Value Bonuses using Ensemble Errors for Exploration in Reinforcement Learning | [arXiv](https://arxiv.org/abs/2602.12375v1) |
-| 25 | WARP: Whole-Body Retargeting for Learning from Offline Human Demonstrations | [arXiv](https://arxiv.org/abs/2606.29940v1) |
+| 13 | Hand-in-the-Loop: Improving VLA Policies for Dexterous Manipulation | [Google Scholar](https://scholar.google.com/scholar?q=Hand-in-the-Loop%3A%20Improving%20VLA%20Policies%20for%20Dexterous%20Manipulation) |
+| 14 | Human Universal Grasping | [arXiv](https://arxiv.org/abs/2606.17054) |
+| 15 | Human Universal Grasping | [Google Scholar](https://scholar.google.com/scholar?q=Human%20Universal%20Grasping) |
+| 16 | MM-Hand: A 21-DOF Multi-modal Modular Robotic Hand | [Google Scholar](https://scholar.google.com/scholar?q=MM-Hand%3A%20A%2021-DOF%20Multi-modal%20Modular%20Robotic%20Hand) |
+| 17 | MotionDisco: Motion Discovery for Extreme Humanoid Loco-Manipulation | [arXiv](https://arxiv.org/abs/2606.06139v1) |
+| 18 | ORCA Open-Source | [arXiv](https://arxiv.org/abs/2606.14561) |
+| 19 | OmniContact Chaining Meta-Skills via Contact Flow for Generalizable Humanoid Loco-Manipulation | [arXiv](https://arxiv.org/abs/2606.26201) |
+| 20 | OmniContact: Chaining Meta-Skills via Contact Flow for Generalizable Humanoid Loco-Manipulation | [arXiv](https://arxiv.org/abs/2606.26201v1) |
+| 21 | Text2CAD-Bench A Benchmark for LLM-based Text-to-Param | [arXiv](https://arxiv.org/abs/2605.18430) |
+| 22 | TopoRetarget: Interaction-Preserving Retargeting for Dexterous Manipulation | [arXiv](https://arxiv.org/abs/2606.16272v2) |
+| 23 | Universal Manipulation Exoskeleton Learning Compliant Whole-body Policies with Real-time Torque Feed | [arXiv](https://arxiv.org/abs/2606.14218) |
+| 24 | VLK Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes | [arXiv](https://arxiv.org/abs/2606.30645) |
+| 25 | VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes | [arXiv](https://arxiv.org/abs/2606.30645v1) |
+| 26 | Value Bonuses using Ensemble Errors for Exploration in Reinforcement Learning | [arXiv](https://arxiv.org/abs/2602.12375v1) |
+| 27 | Vision-Based Hand Shadowing via IK | [Google Scholar](https://scholar.google.com/scholar?q=Vision-Based%20Hand%20Shadowing%20via%20IK) |
+| 28 | WARP: Whole-Body Retargeting for Learning from Offline Human Demonstrations | [arXiv](https://arxiv.org/abs/2606.29940v1) |
 
-## 2025 (29 篇)
+## 2025 (33 篇)
 
 | # | Title | Links |
 |---|-------|-------|
-| 1 | Beyond Sight Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding | [arXiv](https://arxiv.org/abs/2501.04693) |
-| 2 | Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation | [arXiv](https://arxiv.org/abs/2502.10894) |
-| 3 | Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation | [Google Scholar](https://scholar.google.com/scholar?q=Bridging%20the%20Sim-to-Real%20Gap%20for%20Athletic%20Loco-Manipulation) |
-| 4 | CuriousBot Interactive Mobile Exploration via Actionable 3D Relational Object Graph | [arXiv](https://arxiv.org/abs/2501.13338) |
-| 5 | Depth Any Camera Zero-Shot Metric Depth Estimation from Any Camera | [arXiv](https://arxiv.org/abs/2501.02464) |
-| 6 | Discrete-Time Hybrid Automata Learning: Legged Locomotion Meets Skateboarding | [arXiv](https://arxiv.org/abs/2503.01842) |
-| 7 | FP3 A 3D Foundation Policy for Robotic Manipulation | [arXiv](https://arxiv.org/abs/2503.08950) | [Code](https://fp3.site) |
-| 8 | Fast-FoundationStereo Real-Time Zero-Shot Stereo Match | [arXiv](https://arxiv.org/abs/2512.11130) |
-| 9 | Feel the Force Contact-Driven Learning from Humans | [arXiv](https://arxiv.org/abs/2506.01944) |
-| 10 | Feel the Force Contact-Driven Learning from Humans | [Google Scholar](https://scholar.google.com/scholar?q=Feel%20the%20Force%20Contact-Driven%20Learning%20from%20Humans) |
-| 11 | GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models | [arXiv](https://arxiv.org/abs/2501.01428) |
-| 12 | Improving Vision-Language-Action Model with Online Reinforcement Learning | [arXiv](https://arxiv.org/abs/2501.16664) |
-| 13 | Improving Vision-Language-Action Model with Online Reinforcement Learning | [Google Scholar](https://scholar.google.com/scholar?q=Improving%20Vision-Language-Action%20Model%20with%20Online%20Reinforcement%20Learning) |
-| 14 | InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions | [arXiv](https://arxiv.org/abs/2502.20390) |
-| 15 | ManipTrans Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning | [arXiv](https://arxiv.org/abs/2503.21860) |
-| 16 | MotionStreamer Streaming Motion Generation via Diffusion-based Autoregressive Model in Causal Latent | [arXiv](https://arxiv.org/abs/2503.15451) |
-| 17 | Physics IQ Benchmark Do generative video models learn physical principles from watching videos | [arXiv](https://arxiv.org/abs/2501.09038) |
-| 18 | Predicting 4D Hand Trajectory from Monocular Videos | [arXiv](https://arxiv.org/abs/2501.08329) |
-| 19 | Psychologically Enhanced AI Agents | [arXiv](https://arxiv.org/abs/2509.04343) |
-| 20 | Psychologically Enhanced AI Agents | [Google Scholar](https://scholar.google.com/scholar?q=Psychologically%20Enhanced%20AI%20Agents) |
-| 21 | Reinforcement Learning with Action Chunking | [arXiv](https://arxiv.org/abs/2507.07969) |
-| 22 | Reinforcement Learning with Action Chunking | [Google Scholar](https://scholar.google.com/scholar?q=Reinforcement%20Learning%20with%20Action%20Chunking) |
-| 23 | RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets | [arXiv](https://arxiv.org/abs/2502.09615) |
-| 24 | Scalable Real2Sim Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups | [arXiv](https://arxiv.org/abs/2503.00370) |
-| 25 | TD-M(PC)2 Improving Temporal Difference MPC Through Policy Constraint | [arXiv](https://arxiv.org/abs/2502.03550) |
-| 26 | UniT Unified Tactile Representation for Robot Learning | [arXiv](https://arxiv.org/abs/2502.12191) |
-| 27 | Unified Video Action Model | [arXiv](https://arxiv.org/abs/2503.00200) |
-| 28 | Versatile Loco-Manipulation through Flexible Interlimb Coordination | [arXiv](https://arxiv.org/abs/2506.07876) |
-| 29 | Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models | [arXiv](https://arxiv.org/abs/2504.11054v1) |
+| 1 | Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation | [Google Scholar](https://scholar.google.com/scholar?q=Analyzing%20Key%20Objectives%20in%20Human-to-Robot%20Retargeting%20for%20Dexterous%20Manipulation) |
+| 2 | Beyond Sight Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding | [arXiv](https://arxiv.org/abs/2501.04693) |
+| 3 | Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation | [arXiv](https://arxiv.org/abs/2502.10894) |
+| 4 | Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation | [Google Scholar](https://scholar.google.com/scholar?q=Bridging%20the%20Sim-to-Real%20Gap%20for%20Athletic%20Loco-Manipulation) |
+| 5 | CuriousBot Interactive Mobile Exploration via Actionable 3D Relational Object Graph | [arXiv](https://arxiv.org/abs/2501.13338) |
+| 6 | Depth Any Camera Zero-Shot Metric Depth Estimation from Any Camera | [arXiv](https://arxiv.org/abs/2501.02464) |
+| 7 | Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy | [arXiv](https://arxiv.org/abs/2504.18829) |
+| 8 | Discrete-Time Hybrid Automata Learning: Legged Locomotion Meets Skateboarding | [arXiv](https://arxiv.org/abs/2503.01842) |
+| 9 | FP3 A 3D Foundation Policy for Robotic Manipulation | [arXiv](https://arxiv.org/abs/2503.08950) | [Code](https://fp3.site) |
+| 10 | Fast-FoundationStereo Real-Time Zero-Shot Stereo Match | [arXiv](https://arxiv.org/abs/2512.11130) |
+| 11 | Feel the Force Contact-Driven Learning from Humans | [arXiv](https://arxiv.org/abs/2506.01944) |
+| 12 | Feel the Force Contact-Driven Learning from Humans | [Google Scholar](https://scholar.google.com/scholar?q=Feel%20the%20Force%20Contact-Driven%20Learning%20from%20Humans) |
+| 13 | GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models | [arXiv](https://arxiv.org/abs/2501.01428) |
+| 14 | Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm | [Google Scholar](https://scholar.google.com/scholar?q=Geometric%20Retargeting%3A%20A%20Principled%2C%20Ultrafast%20Neural%20Hand%20Retargeting%20Algorithm) |
+| 15 | Improving Vision-Language-Action Model with Online Reinforcement Learning | [arXiv](https://arxiv.org/abs/2501.16664) |
+| 16 | Improving Vision-Language-Action Model with Online Reinforcement Learning | [Google Scholar](https://scholar.google.com/scholar?q=Improving%20Vision-Language-Action%20Model%20with%20Online%20Reinforcement%20Learning) |
+| 17 | InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions | [arXiv](https://arxiv.org/abs/2502.20390) |
+| 18 | Kinematic Motion Retargeting | [Google Scholar](https://scholar.google.com/scholar?q=Kinematic%20Motion%20Retargeting) |
+| 19 | ManipTrans Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning | [arXiv](https://arxiv.org/abs/2503.21860) |
+| 20 | MotionStreamer Streaming Motion Generation via Diffusion-based Autoregressive Model in Causal Latent | [arXiv](https://arxiv.org/abs/2503.15451) |
+| 21 | Physics IQ Benchmark Do generative video models learn physical principles from watching videos | [arXiv](https://arxiv.org/abs/2501.09038) |
+| 22 | Predicting 4D Hand Trajectory from Monocular Videos | [arXiv](https://arxiv.org/abs/2501.08329) |
+| 23 | Psychologically Enhanced AI Agents | [arXiv](https://arxiv.org/abs/2509.04343) |
+| 24 | Psychologically Enhanced AI Agents | [Google Scholar](https://scholar.google.com/scholar?q=Psychologically%20Enhanced%20AI%20Agents) |
+| 25 | Reinforcement Learning with Action Chunking | [arXiv](https://arxiv.org/abs/2507.07969) |
+| 26 | Reinforcement Learning with Action Chunking | [Google Scholar](https://scholar.google.com/scholar?q=Reinforcement%20Learning%20with%20Action%20Chunking) |
+| 27 | RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets | [arXiv](https://arxiv.org/abs/2502.09615) |
+| 28 | Scalable Real2Sim Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups | [arXiv](https://arxiv.org/abs/2503.00370) |
+| 29 | TD-M(PC)2 Improving Temporal Difference MPC Through Policy Constraint | [arXiv](https://arxiv.org/abs/2502.03550) |
+| 30 | UniT Unified Tactile Representation for Robot Learning | [arXiv](https://arxiv.org/abs/2502.12191) |
+| 31 | Unified Video Action Model | [arXiv](https://arxiv.org/abs/2503.00200) |
+| 32 | Versatile Loco-Manipulation through Flexible Interlimb Coordination | [arXiv](https://arxiv.org/abs/2506.07876) |
+| 33 | Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models | [arXiv](https://arxiv.org/abs/2504.11054v1) |
 
 ## 2024 (223 篇)
 
@@ -506,7 +513,7 @@
 | 205 | [The Wisdom of Hindsight Makes Language Models Better Instruction Followers](httpsarxiv.orgabs | [arXiv](https://arxiv.org/abs/2302.0) |
 | 206 | pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction | [arXiv](https://arxiv.org/abs/2312.12337) |
 
-## 2022 (71 篇)
+## 2022 (72 篇)
 
 | # | Title | Links |
 |---|-------|-------|
@@ -522,65 +529,66 @@
 | 10 | CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning | [arXiv](https://arxiv.org/abs/2207.01780) |
 | 11 | DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps | [arXiv](https://arxiv.org/abs/2206.00927) |
 | 12 | Data-Driven Feature Tracking for Event Cameras With and Without Frames | [arXiv](https://arxiv.org/abs/2211.12826) |
-| 13 | Differentiable Point-Based Radiance Fields for Efficient View Synthesis | [arXiv](https://arxiv.org/abs/2205.14330) |
-| 14 | Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning | [arXiv](https://arxiv.org/abs/2208.06193) |
-| 15 | Diffusion-LM Improves Controllable Text Generation | [arXiv](https://arxiv.org/abs/2205.14217) |
-| 16 | Diffusion-LM Improves Controllable Text Generation | [Google Scholar](https://scholar.google.com/scholar?q=Diffusion-LM%20Improves%20Controllable%20Text%20Generation) |
-| 17 | Does Self-supervised Learning Really Improve Reinforcement Learning from Pixels | [Google Scholar](https://scholar.google.com/scholar?q=Does%20Self-supervised%20Learning%20Really%20Improve%20Reinforcement%20Learning%20from%20Pixels) |
-| 18 | Does Self-supervised Learning Really Improve Reinforcement Learning from Pixels? | [arXiv](https://arxiv.org/abs/2206.05266) |
-| 19 | Elucidating the Design Space of Diffusion-Based Generative Models | [arXiv](https://arxiv.org/abs/2206.00364) |
-| 20 | Emergent Abilities of Large Language Models | [arXiv](https://arxiv.org/abs/2206.07682) |
-| 21 | Fast Sampling of Diffusion Models with Exponential Integrator | [arXiv](https://arxiv.org/abs/2204.13902) |
-| 22 | Flamingo: a Visual Language Model for Few-Shot Learning | [arXiv](https://arxiv.org/abs/2204.14198) |
-| 23 | FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness | [arXiv](https://arxiv.org/abs/2205.14135) |
-| 24 | Imagen Video: High Definition Video Generation with Diffusion Models | [arXiv](https://arxiv.org/abs/2210.02303) |
-| 25 | In-Hand Object Rotation via Rapid Motor Adaptation | [arXiv](https://arxiv.org/abs/2210.04887) |
-| 26 | In-Hand Object Rotation via Rapid Motor Adaptation | [Google Scholar](https://scholar.google.com/scholar?q=In-Hand%20Object%20Rotation%20via%20Rapid%20Motor%20Adaptation) |
-| 27 | InternVideo: General Video Foundation Models via Generative and Discriminative Learning | [arXiv](https://arxiv.org/abs/2212.03191) |
-| 28 | Is Conditional Generative Modeling all you need for Decision-Making? | [arXiv](https://arxiv.org/abs/2211.15657) |
-| 29 | Iterative Residual Policy: for Goal-Conditioned Dynamic Manipulation of Deformable Objects | [arXiv](https://arxiv.org/abs/2203.00663) |
-| 30 | Language Control Diffusion: Efficiently Scaling through Space, Time, and Tasks | [arXiv](https://arxiv.org/abs/2210.15629) |
-| 31 | Language-driven Semantic Segmentation | [arXiv](https://arxiv.org/abs/2201.03546) |
-| 32 | Learning Continuous Grasping Function with a Dexterous Hand from Human Demonstrations | [arXiv](https://arxiv.org/abs/2207.05053) |
-| 33 | Learning to Use Chopsticks in Diverse Gripping Styles | [arXiv](https://arxiv.org/abs/2205.14313) |
-| 34 | Learning to use chopsticks in diverse gripping styles | [Google Scholar](https://scholar.google.com/scholar?q=Learning%20to%20use%20chopsticks%20in%20diverse%20gripping%20styles) |
-| 35 | MoDem: Accelerating Visual Model-Based Reinforcement Learning with Demonstrations | [arXiv](https://arxiv.org/abs/2212.05698) |
-| 36 | NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields | [arXiv](https://arxiv.org/abs/2210.04932) |
-| 37 | On Distillation of Guided Diffusion Models | [arXiv](https://arxiv.org/abs/2210.03142) |
-| 38 | On the Power of Foundation Models | [arXiv](https://arxiv.org/abs/2211.16327) |
-| 39 | On the power of foundation models | [Google Scholar](https://scholar.google.com/scholar?q=On%20the%20power%20of%20foundation%20models) |
-| 40 | PartSLIP: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models | [arXiv](https://arxiv.org/abs/2212.01558) |
-| 41 | Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding | [arXiv](https://arxiv.org/abs/2205.11487) |
-| 42 | Planning with Diffusion for Flexible Behavior Synthesis | [arXiv](https://arxiv.org/abs/2205.09991) |
-| 43 | Point Transformer V2: Grouped Vector Attention and Partition-based Pooling | [arXiv](https://arxiv.org/abs/2210.05666) |
-| 44 | Point-E: A System for Generating 3D Point Clouds from Complex Prompts | [arXiv](https://arxiv.org/abs/2212.08751) |
-| 45 | PointCLIP V2: Prompting CLIP and GPT for Powerful 3D Open-world Learning | [arXiv](https://arxiv.org/abs/2211.11682) |
-| 46 | PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies | [arXiv](https://arxiv.org/abs/2206.04670) |
-| 47 | Pre-Trained Language Models for Interactive Decision-Making | [arXiv](https://arxiv.org/abs/2202.01771) |
-| 48 | Predictive Sampling: Real-time Behaviour Synthesis with MuJoCo | [arXiv](https://arxiv.org/abs/2212.00541) |
-| 49 | Prompt-to-Prompt Image Editing with Cross Attention Control | [arXiv](https://arxiv.org/abs/2208.01626) |
-| 50 | R3M: A Universal Visual Representation for Robot Manipulation | [arXiv](https://arxiv.org/abs/2203.12601) |
-| 51 | SAM-RL: Sensing-Aware Model-Based Reinforcement Learning via Differentiable Physics-Based Simulation and Rendering | [arXiv](https://arxiv.org/abs/2210.15185) |
-| 52 | SE(3)-DiffusionFields: Learning smooth cost functions for joint grasp and motion optimization through diffusion | [arXiv](https://arxiv.org/abs/2209.03855) |
-| 53 | SeedFormer: Patch Seeds based Point Cloud Completion with Upsample Transformer | [arXiv](https://arxiv.org/abs/2207.10315) |
-| 54 | Siggraph Asia 2022, [Differentiable Point-Based Radiance Fields for Efficient View Synthesis](httpsa | [Google Scholar](https://scholar.google.com/scholar?q=Siggraph%20Asia%202022%2C%20%5BDifferentiable%20Point-Based%20Radiance%20Fields%20for%20Efficient%20View%20Synthesis%5D%28httpsa) |
-| 55 | Simplicial Embeddings in Self-Supervised Learning and Downstream Classification | [arXiv](https://arxiv.org/abs/2204.00616) |
-| 56 | Simplicial Embeddings in Self-Supervised Learning and Downstream Classification | [Google Scholar](https://scholar.google.com/scholar?q=Simplicial%20Embeddings%20in%20Self-Supervised%20Learning%20and%20Downstream%20Classification) |
-| 57 | SparsePose: Sparse-View Camera Pose Regression and Refinement | [arXiv](https://arxiv.org/abs/2211.16991) |
-| 58 | StructDiffusion: Language-Guided Creation of Physically-Valid Structures using Unseen Objects | [arXiv](https://arxiv.org/abs/2211.04604) |
-| 59 | Temporal Difference Learning for Model Predictive Control | [arXiv](https://arxiv.org/abs/2203.04955) |
-| 60 | The Primacy Bias in Deep Reinforcement Learning | [arXiv](https://arxiv.org/abs/2205.07802) |
-| 61 | The primacy bias in deep reinforcement learning | [Google Scholar](https://scholar.google.com/scholar?q=The%20primacy%20bias%20in%20deep%20reinforcement%20learning) |
-| 62 | Training Compute-Optimal Large Language Models | [arXiv](https://arxiv.org/abs/2203.15556) |
-| 63 | Training Compute-Optimal Large Language Models | [Google Scholar](https://scholar.google.com/scholar?q=Training%20Compute-Optimal%20Large%20Language%20Models) |
-| 64 | Understanding Diffusion Models: A Unified Perspective | [arXiv](https://arxiv.org/abs/2208.11970) |
-| 65 | VRL3: A Data-Driven Framework for Visual Deep Reinforcement Learning | [arXiv](https://arxiv.org/abs/2202.10324) |
-| 66 | Visual Prompting via Image Inpainting | [arXiv](https://arxiv.org/abs/2209.00647) |
-| 67 | Visual Prompting via Image Inpainting | [Google Scholar](https://scholar.google.com/scholar?q=Visual%20Prompting%20via%20Image%20Inpainting) |
-| 68 | best paper, Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable O | [Google Scholar](https://scholar.google.com/scholar?q=Iterative%20Residual%20Policy%20for%20Goal-Conditioned%20Dynamic%20Manipulation%20of%20Deformable%20O) |
-| 69 | best student paper, AK Attentive Kernel for Information Gathering | [Google Scholar](https://scholar.google.com/scholar?q=best%20student%20paper%2C%20AK%20Attentive%20Kernel%20for%20Information%20Gathering) |
-| 70 | best system paper, Autonomously Untangling Long Cables | [Google Scholar](https://scholar.google.com/scholar?q=best%20system%20paper%2C%20Autonomously%20Untangling%20Long%20Cables) |
-| 71 | gDDIM: Generalized denoising diffusion implicit models | [arXiv](https://arxiv.org/abs/2206.05564) |
+| 13 | DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation | [arXiv](https://arxiv.org/abs/2210.02697) | [Code](https://github.com/PKU-EPIC/DexGraspNet) |
+| 14 | Differentiable Point-Based Radiance Fields for Efficient View Synthesis | [arXiv](https://arxiv.org/abs/2205.14330) |
+| 15 | Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning | [arXiv](https://arxiv.org/abs/2208.06193) |
+| 16 | Diffusion-LM Improves Controllable Text Generation | [arXiv](https://arxiv.org/abs/2205.14217) |
+| 17 | Diffusion-LM Improves Controllable Text Generation | [Google Scholar](https://scholar.google.com/scholar?q=Diffusion-LM%20Improves%20Controllable%20Text%20Generation) |
+| 18 | Does Self-supervised Learning Really Improve Reinforcement Learning from Pixels | [Google Scholar](https://scholar.google.com/scholar?q=Does%20Self-supervised%20Learning%20Really%20Improve%20Reinforcement%20Learning%20from%20Pixels) |
+| 19 | Does Self-supervised Learning Really Improve Reinforcement Learning from Pixels? | [arXiv](https://arxiv.org/abs/2206.05266) |
+| 20 | Elucidating the Design Space of Diffusion-Based Generative Models | [arXiv](https://arxiv.org/abs/2206.00364) |
+| 21 | Emergent Abilities of Large Language Models | [arXiv](https://arxiv.org/abs/2206.07682) |
+| 22 | Fast Sampling of Diffusion Models with Exponential Integrator | [arXiv](https://arxiv.org/abs/2204.13902) |
+| 23 | Flamingo: a Visual Language Model for Few-Shot Learning | [arXiv](https://arxiv.org/abs/2204.14198) |
+| 24 | FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness | [arXiv](https://arxiv.org/abs/2205.14135) |
+| 25 | Imagen Video: High Definition Video Generation with Diffusion Models | [arXiv](https://arxiv.org/abs/2210.02303) |
+| 26 | In-Hand Object Rotation via Rapid Motor Adaptation | [arXiv](https://arxiv.org/abs/2210.04887) |
+| 27 | In-Hand Object Rotation via Rapid Motor Adaptation | [Google Scholar](https://scholar.google.com/scholar?q=In-Hand%20Object%20Rotation%20via%20Rapid%20Motor%20Adaptation) |
+| 28 | InternVideo: General Video Foundation Models via Generative and Discriminative Learning | [arXiv](https://arxiv.org/abs/2212.03191) |
+| 29 | Is Conditional Generative Modeling all you need for Decision-Making? | [arXiv](https://arxiv.org/abs/2211.15657) |
+| 30 | Iterative Residual Policy: for Goal-Conditioned Dynamic Manipulation of Deformable Objects | [arXiv](https://arxiv.org/abs/2203.00663) |
+| 31 | Language Control Diffusion: Efficiently Scaling through Space, Time, and Tasks | [arXiv](https://arxiv.org/abs/2210.15629) |
+| 32 | Language-driven Semantic Segmentation | [arXiv](https://arxiv.org/abs/2201.03546) |
+| 33 | Learning Continuous Grasping Function with a Dexterous Hand from Human Demonstrations | [arXiv](https://arxiv.org/abs/2207.05053) |
+| 34 | Learning to Use Chopsticks in Diverse Gripping Styles | [arXiv](https://arxiv.org/abs/2205.14313) |
+| 35 | Learning to use chopsticks in diverse gripping styles | [Google Scholar](https://scholar.google.com/scholar?q=Learning%20to%20use%20chopsticks%20in%20diverse%20gripping%20styles) |
+| 36 | MoDem: Accelerating Visual Model-Based Reinforcement Learning with Demonstrations | [arXiv](https://arxiv.org/abs/2212.05698) |
+| 37 | NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields | [arXiv](https://arxiv.org/abs/2210.04932) |
+| 38 | On Distillation of Guided Diffusion Models | [arXiv](https://arxiv.org/abs/2210.03142) |
+| 39 | On the Power of Foundation Models | [arXiv](https://arxiv.org/abs/2211.16327) |
+| 40 | On the power of foundation models | [Google Scholar](https://scholar.google.com/scholar?q=On%20the%20power%20of%20foundation%20models) |
+| 41 | PartSLIP: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models | [arXiv](https://arxiv.org/abs/2212.01558) |
+| 42 | Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding | [arXiv](https://arxiv.org/abs/2205.11487) |
+| 43 | Planning with Diffusion for Flexible Behavior Synthesis | [arXiv](https://arxiv.org/abs/2205.09991) |
+| 44 | Point Transformer V2: Grouped Vector Attention and Partition-based Pooling | [arXiv](https://arxiv.org/abs/2210.05666) |
+| 45 | Point-E: A System for Generating 3D Point Clouds from Complex Prompts | [arXiv](https://arxiv.org/abs/2212.08751) |
+| 46 | PointCLIP V2: Prompting CLIP and GPT for Powerful 3D Open-world Learning | [arXiv](https://arxiv.org/abs/2211.11682) |
+| 47 | PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies | [arXiv](https://arxiv.org/abs/2206.04670) |
+| 48 | Pre-Trained Language Models for Interactive Decision-Making | [arXiv](https://arxiv.org/abs/2202.01771) |
+| 49 | Predictive Sampling: Real-time Behaviour Synthesis with MuJoCo | [arXiv](https://arxiv.org/abs/2212.00541) |
+| 50 | Prompt-to-Prompt Image Editing with Cross Attention Control | [arXiv](https://arxiv.org/abs/2208.01626) |
+| 51 | R3M: A Universal Visual Representation for Robot Manipulation | [arXiv](https://arxiv.org/abs/2203.12601) |
+| 52 | SAM-RL: Sensing-Aware Model-Based Reinforcement Learning via Differentiable Physics-Based Simulation and Rendering | [arXiv](https://arxiv.org/abs/2210.15185) |
+| 53 | SE(3)-DiffusionFields: Learning smooth cost functions for joint grasp and motion optimization through diffusion | [arXiv](https://arxiv.org/abs/2209.03855) |
+| 54 | SeedFormer: Patch Seeds based Point Cloud Completion with Upsample Transformer | [arXiv](https://arxiv.org/abs/2207.10315) |
+| 55 | Siggraph Asia 2022, [Differentiable Point-Based Radiance Fields for Efficient View Synthesis](httpsa | [Google Scholar](https://scholar.google.com/scholar?q=Siggraph%20Asia%202022%2C%20%5BDifferentiable%20Point-Based%20Radiance%20Fields%20for%20Efficient%20View%20Synthesis%5D%28httpsa) |
+| 56 | Simplicial Embeddings in Self-Supervised Learning and Downstream Classification | [arXiv](https://arxiv.org/abs/2204.00616) |
+| 57 | Simplicial Embeddings in Self-Supervised Learning and Downstream Classification | [Google Scholar](https://scholar.google.com/scholar?q=Simplicial%20Embeddings%20in%20Self-Supervised%20Learning%20and%20Downstream%20Classification) |
+| 58 | SparsePose: Sparse-View Camera Pose Regression and Refinement | [arXiv](https://arxiv.org/abs/2211.16991) |
+| 59 | StructDiffusion: Language-Guided Creation of Physically-Valid Structures using Unseen Objects | [arXiv](https://arxiv.org/abs/2211.04604) |
+| 60 | Temporal Difference Learning for Model Predictive Control | [arXiv](https://arxiv.org/abs/2203.04955) |
+| 61 | The Primacy Bias in Deep Reinforcement Learning | [arXiv](https://arxiv.org/abs/2205.07802) |
+| 62 | The primacy bias in deep reinforcement learning | [Google Scholar](https://scholar.google.com/scholar?q=The%20primacy%20bias%20in%20deep%20reinforcement%20learning) |
+| 63 | Training Compute-Optimal Large Language Models | [arXiv](https://arxiv.org/abs/2203.15556) |
+| 64 | Training Compute-Optimal Large Language Models | [Google Scholar](https://scholar.google.com/scholar?q=Training%20Compute-Optimal%20Large%20Language%20Models) |
+| 65 | Understanding Diffusion Models: A Unified Perspective | [arXiv](https://arxiv.org/abs/2208.11970) |
+| 66 | VRL3: A Data-Driven Framework for Visual Deep Reinforcement Learning | [arXiv](https://arxiv.org/abs/2202.10324) |
+| 67 | Visual Prompting via Image Inpainting | [arXiv](https://arxiv.org/abs/2209.00647) |
+| 68 | Visual Prompting via Image Inpainting | [Google Scholar](https://scholar.google.com/scholar?q=Visual%20Prompting%20via%20Image%20Inpainting) |
+| 69 | best paper, Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable O | [Google Scholar](https://scholar.google.com/scholar?q=Iterative%20Residual%20Policy%20for%20Goal-Conditioned%20Dynamic%20Manipulation%20of%20Deformable%20O) |
+| 70 | best student paper, AK Attentive Kernel for Information Gathering | [Google Scholar](https://scholar.google.com/scholar?q=best%20student%20paper%2C%20AK%20Attentive%20Kernel%20for%20Information%20Gathering) |
+| 71 | best system paper, Autonomously Untangling Long Cables | [Google Scholar](https://scholar.google.com/scholar?q=best%20system%20paper%2C%20Autonomously%20Untangling%20Long%20Cables) |
+| 72 | gDDIM: Generalized denoising diffusion implicit models | [arXiv](https://arxiv.org/abs/2206.05564) |
 
 ## 2021 (30 篇)
 

@@ -1,6 +1,6 @@
 # Embodied AI Paper Collection by Topic
 > 按主题分类的论文索引，每篇论文提供在线链接（arXiv / Google Scholar）和本地 PDF 链接。
-> 总计: 921 篇唯一论文 | 生成时间: 2026-07-09
+> 总计: 929 篇唯一论文 | 生成时间: 2026-07-09
 > 标注: [PDF] 打开本地文件 | [arXiv] arXiv 在线阅读 | [Code] 代码/项目页 | [Google Scholar] 搜索该论文
 
 ## Foundation Models (20 篇)
@@ -435,6 +435,31 @@
 | 12 | Omnigrasp Grasping Diverse Objects with Simulated Humanoids | [Google Scholar](https://scholar.google.com/scholar?q=Omnigrasp%20Grasping%20Diverse%20Objects%20with%20Simulated%20Humanoids) |
 | 13 | The GRASP Taxonomy of Human Grasp Types | [Google Scholar](https://scholar.google.com/scholar?q=The%20GRASP%20Taxonomy%20of%20Human%20Grasp%20Types) |
 | 14 | TopoRetarget Interaction-Preserving Retargeting for Dexterous Manipulation | [Google Scholar](https://scholar.google.com/scholar?q=TopoRetarget%20Interaction-Preserving%20Retargeting%20for%20Dexterous%20Manipulation) |
+
+## Retargeting (8 篇)
+
+### 2026
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Hand-in-the-Loop: Improving VLA Policies for Dexterous Manipulation | [Google Scholar](https://scholar.google.com/scholar?q=Hand-in-the-Loop%3A%20Improving%20VLA%20Policies%20for%20Dexterous%20Manipulation) |
+| 2 | MM-Hand: A 21-DOF Multi-modal Modular Robotic Hand | [Google Scholar](https://scholar.google.com/scholar?q=MM-Hand%3A%20A%2021-DOF%20Multi-modal%20Modular%20Robotic%20Hand) |
+| 3 | Vision-Based Hand Shadowing via IK | [Google Scholar](https://scholar.google.com/scholar?q=Vision-Based%20Hand%20Shadowing%20via%20IK) |
+
+### 2025
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation | [Google Scholar](https://scholar.google.com/scholar?q=Analyzing%20Key%20Objectives%20in%20Human-to-Robot%20Retargeting%20for%20Dexterous%20Manipulation) |
+| 2 | Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy | [arXiv](https://arxiv.org/abs/2504.18829) |
+| 3 | Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm | [Google Scholar](https://scholar.google.com/scholar?q=Geometric%20Retargeting%3A%20A%20Principled%2C%20Ultrafast%20Neural%20Hand%20Retargeting%20Algorithm) |
+| 4 | Kinematic Motion Retargeting | [Google Scholar](https://scholar.google.com/scholar?q=Kinematic%20Motion%20Retargeting) |
+
+### 2022
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation | [arXiv](https://arxiv.org/abs/2210.02697) | [Code](https://github.com/PKU-EPIC/DexGraspNet) |
 
 ## Humanoid Robotics (17 篇)
 
