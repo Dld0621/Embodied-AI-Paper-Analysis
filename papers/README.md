@@ -1,7 +1,7 @@
 # Embodied AI Paper Collection by Topic
-> 按主题分类的论文索引，每篇论文提供在线链接（arXiv / Google Scholar）和本地 PDF 链接。
+> 按主题分类的论文索引，每个主题内按年份降序排列。
 > 总计: 929 篇唯一论文 | 生成时间: 2026-07-09
-> 标注: [PDF] 打开本地文件 | [arXiv] arXiv 在线阅读 | [Code] 代码/项目页 | [Google Scholar] 搜索该论文
+> 标注: [arXiv] 在线论文 | [Code] 代码/项目页 | [Google Scholar] 搜索链接
 
 ## Foundation Models (20 篇)
 
@@ -9,12 +9,12 @@
 
 | # | Title | Links |
 |---|-------|-------|
-| 1 | LLARVA Vision-Action Instruction Tuning Enhances Robot | [arXiv](https://arxiv.org/abs/2406.11815) | [Code](https://llarva.dev) |
+| 1 | LLARVA Vision-Action Instruction Tuning Enhances Robot | [arXiv](https://arxiv.org/abs/2406.11815) |
 | 2 | Octo An Open-Source Generalist Robot Policy, [websie]( | [arXiv](https://arxiv.org/abs/2405.12213) | [Code](https://github.com/octo-models/octo) |
 | 3 | OpenVLA An Open-Source Vision-Language-Action Model | [arXiv](https://arxiv.org/abs/2406.09246) | [Code](https://github.com/openvla/openvla) |
 | 4 | Predictive Inverse Dynamics Models are Scalable Learne | [arXiv](https://arxiv.org/abs/2412.15109) |
 | 5 | RLDG Robotic Generalist Policy Distillation via Reinforcement Learning | [arXiv](https://arxiv.org/abs/2412.09858) |
-| 6 | RoboMIND Benchmark on Multi-embodiment Intelligence No | [arXiv](https://arxiv.org/abs/2412.13877) | [Code](https://robomind.github.io) |
+| 6 | RoboMIND Benchmark on Multi-embodiment Intelligence No | [arXiv](https://arxiv.org/abs/2412.13877) |
 | 7 | Towards Generalist Robot Policies What Matters in Buil | [arXiv](https://arxiv.org/abs/2412.14058) |
 | 8 | Video Prediction Policy A Generalist Robot Policy with | [arXiv](https://arxiv.org/abs/2412.14803) |
 
@@ -41,8 +41,8 @@
 | 5 | Meta Motivo Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models | [Google Scholar](https://scholar.google.com/scholar?q=Meta%20Motivo%20Zero-Shot%20Whole-Body%20Humanoid%20Control%20via%20Behavioral%20Foundation%20Models) |
 | 6 | OmniGlue Generalizable Feature Matching with Foundation Model Guidance | [Google Scholar](https://scholar.google.com/scholar?q=OmniGlue%20Generalizable%20Feature%20Matching%20with%20Foundation%20Model%20Guidance) |
 | 7 | SwAV [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](httpsarxiv.orgabs | [Google Scholar](https://scholar.google.com/scholar?q=SwAV%20%5BUnsupervised%20Learning%20of%20Visual%20Features%20by%20Contrasting%20Cluster%20Assignments%5D%28httpsarxiv.orgabs) |
-| 8 | [InternVideo General Video Foundation Models via Generative and Discriminative Learning](httpsarxiv. | [Google Scholar](https://scholar.google.com/scholar?q=%28httpsarxiv.) |
-| 9 | [Keypoints into the future Self-supervised correspondence in model-based reinforcement learning](htt | - |
+| 8 | [InternVideo General Video Foundation Models via Generative and Discriminative Learning](httpsarxiv. | [Google Scholar](https://scholar.google.com/scholar?q=%5BInternVideo%20General%20Video%20Foundation%20Models%20via%20Generative%20and%20Discriminative%20Learning%5D%28httpsarxiv.) |
+| 9 | [Keypoints into the future Self-supervised correspondence in model-based reinforcement learning](htt | [Google Scholar](https://scholar.google.com/scholar?q=%5BKeypoints%20into%20the%20future%20Self-supervised%20correspondence%20in%20model-based%20reinforcement%20learning%5D%28htt) |
 | 10 | articulate-anything Automatic Modeling of Articulated Objects via a Vision-Language Foundation Model | [Google Scholar](https://scholar.google.com/scholar?q=articulate-anything%20Automatic%20Modeling%20of%20Articulated%20Objects%20via%20a%20Vision-Language%20Foundation%20Model) |
 
 ## VLA (Vision-Language-Action) (3 篇)
@@ -74,7 +74,7 @@
 |---|-------|-------|
 | 1 | CuriousBot Interactive Mobile Exploration via Actionable 3D Relational Object Graph | [arXiv](https://arxiv.org/abs/2501.13338) |
 | 2 | Depth Any Camera Zero-Shot Metric Depth Estimation from Any Camera | [arXiv](https://arxiv.org/abs/2501.02464) |
-| 3 | FP3 A 3D Foundation Policy for Robotic Manipulation | [arXiv](https://arxiv.org/abs/2503.08950) | [Code](https://fp3.site) |
+| 3 | FP3 A 3D Foundation Policy for Robotic Manipulation | [arXiv](https://arxiv.org/abs/2503.08950) |
 | 4 | Predicting 4D Hand Trajectory from Monocular Videos | [arXiv](https://arxiv.org/abs/2501.08329) |
 
 ### 2024
@@ -146,10 +146,10 @@
 | 34 | VLM-Grounder A VLM Agent for Zero-Shot 3D Visual Grounding | [Google Scholar](https://scholar.google.com/scholar?q=VLM-Grounder%20A%20VLM%20Agent%20for%20Zero-Shot%203D%20Visual%20Grounding) |
 | 35 | Vision Transformer [An Image is Worth 16x16 Words Transformers for Image Recognition at Scale](https | [Google Scholar](https://scholar.google.com/scholar?q=Vision%20Transformer%20%5BAn%20Image%20is%20Worth%2016x16%20Words%20Transformers%20for%20Image%20Recognition%20at%20Scale%5D%28https) |
 | 36 | Zero123++ a Single Image to Consistent Multi-view Diffusion Base Model | [Google Scholar](https://scholar.google.com/scholar?q=Zero123%2B%2B%20a%20Single%20Image%20to%20Consistent%20Multi-view%20Diffusion%20Base%20Model) |
-| 37 | [FrankMocap A Monocular 3D Whole-Body Pose Estimation System via Regression and Integration](httpsar | - |
-| 38 | [Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation](httpsarxiv.orgabs2303. | [Google Scholar](https://scholar.google.com/scholar?q=%28httpsarxiv.orgabs2303.) |
-| 39 | [NeRF2Real Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields](ht | - |
-| 40 | [PointNet Deep Learning on Point Sets for 3D Classification and Segmentation](httpsarxiv.orgabs1612. | [Google Scholar](https://scholar.google.com/scholar?q=%28httpsarxiv.orgabs1612.) |
+| 37 | [FrankMocap A Monocular 3D Whole-Body Pose Estimation System via Regression and Integration](httpsar | [Google Scholar](https://scholar.google.com/scholar?q=%5BFrankMocap%20A%20Monocular%203D%20Whole-Body%20Pose%20Estimation%20System%20via%20Regression%20and%20Integration%5D%28httpsar) |
+| 38 | [Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation](httpsarxiv.orgabs2303. | [Google Scholar](https://scholar.google.com/scholar?q=%5BLet%202D%20Diffusion%20Model%20Know%203D-Consistency%20for%20Robust%20Text-to-3D%20Generation%5D%28httpsarxiv.orgabs2303.) |
+| 39 | [NeRF2Real Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields](ht | [Google Scholar](https://scholar.google.com/scholar?q=%5BNeRF2Real%20Sim2real%20Transfer%20of%20Vision-guided%20Bipedal%20Motion%20Skills%20using%20Neural%20Radiance%20Fields%5D%28ht) |
+| 40 | [PointNet Deep Learning on Point Sets for 3D Classification and Segmentation](httpsarxiv.orgabs1612. | [Google Scholar](https://scholar.google.com/scholar?q=%5BPointNet%20Deep%20Learning%20on%20Point%20Sets%20for%203D%20Classification%20and%20Segmentation%5D%28httpsarxiv.orgabs1612.) |
 | 41 | illusion3d 3D Multiview Illusion with 2D Diffusion Priors | [Google Scholar](https://scholar.google.com/scholar?q=illusion3d%203D%20Multiview%20Illusion%20with%202D%20Diffusion%20Priors) |
 
 ## Diffusion Policy (51 篇)
@@ -385,7 +385,7 @@
 | 7 | MPI Learning Manipulation by Predicting Interaction | [Google Scholar](https://scholar.google.com/scholar?q=MPI%20Learning%20Manipulation%20by%20Predicting%20Interaction) |
 | 8 | Position Scaling Simulation is Neither Necessary Nor Sufficient for In-the-Wild Robot Manipulation | [Google Scholar](https://scholar.google.com/scholar?q=Position%20Scaling%20Simulation%20is%20Neither%20Necessary%20Nor%20Sufficient%20for%20In-the-Wild%20Robot%20Manipulation) |
 | 9 | ReKep Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation | [Google Scholar](https://scholar.google.com/scholar?q=ReKep%20Spatio-Temporal%20Reasoning%20of%20Relational%20Keypoint%20Constraints%20for%20Robotic%20Manipulation) |
-| 10 | [QT-Opt Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](httpsarxiv.orgab | [Google Scholar](https://scholar.google.com/scholar?q=%28httpsarxiv.orgab) |
+| 10 | [QT-Opt Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](httpsarxiv.orgab | [Google Scholar](https://scholar.google.com/scholar?q=%5BQT-Opt%20Scalable%20Deep%20Reinforcement%20Learning%20for%20Vision-Based%20Robotic%20Manipulation%5D%28httpsarxiv.orgab) |
 
 ## Grasping (22 篇)
 
@@ -409,7 +409,7 @@
 | # | Title | Links |
 |---|-------|-------|
 | 1 | Learning a Universal Human Prior for Dexterous Manipulation from Human Preference | [Google Scholar](https://scholar.google.com/scholar?q=Learning%20a%20Universal%20Human%20Prior%20for%20Dexterous%20Manipulation%20from%20Human%20Preference) |
-| 2 | RA-L 2023, Learning Continuous Grasping Function with a Dexterous Hand from Human Demonstrations | [Google Scholar](https://scholar.google.com/scholar?q=Learning%20Continuous%20Grasping%20Function%20with%20a%20Dexterous%20Hand%20from%20Human%20Demonstrations) |
+| 2 | RA-L 2023, Learning Continuous Grasping Function with a Dexterous Hand from Human Demonstrations | [Google Scholar](https://scholar.google.com/scholar?q=RA-L%202023%2C%20Learning%20Continuous%20Grasping%20Function%20with%20a%20Dexterous%20Hand%20from%20Human%20Demonstrations) |
 
 ### 2022
 
@@ -442,24 +442,24 @@
 
 | # | Title | Links |
 |---|-------|-------|
-| 1 | Hand-in-the-Loop: Improving VLA Policies for Dexterous Manipulation | [Google Scholar](https://scholar.google.com/scholar?q=Hand-in-the-Loop%3A%20Improving%20VLA%20Policies%20for%20Dexterous%20Manipulation) |
-| 2 | MM-Hand: A 21-DOF Multi-modal Modular Robotic Hand | [Google Scholar](https://scholar.google.com/scholar?q=MM-Hand%3A%20A%2021-DOF%20Multi-modal%20Modular%20Robotic%20Hand) |
-| 3 | Vision-Based Hand Shadowing via IK | [Google Scholar](https://scholar.google.com/scholar?q=Vision-Based%20Hand%20Shadowing%20via%20IK) |
+| 1 | Hand-in-the-Loop: Improving VLA Policies for Dexterous Manipulation | [Google Scholar](https://scholar.google.com/scholar?q=Hand-in-the-Loop) |
+| 2 | MM-Hand: A 21-DOF Multi-modal Modular Dexterous Robotic Hand with Remote Actuation | [Google Scholar](https://scholar.google.com/scholar?q=MM-Hand) |
+| 3 | Vision-Based Hand Shadowing for Robotic Manipulation via Inverse Kinematics | [Code](https://github.com/chichonnade/Vision-Based-Hand-Shadowing) | [Google Scholar](https://scholar.google.com/scholar?q=Vision-Based%20Hand%20Shadowing%20for%20Robotic%20Manipulation%20via%20Inverse%20Kinematics) |
 
 ### 2025
 
 | # | Title | Links |
 |---|-------|-------|
-| 1 | Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation | [Google Scholar](https://scholar.google.com/scholar?q=Analyzing%20Key%20Objectives%20in%20Human-to-Robot%20Retargeting%20for%20Dexterous%20Manipulation) |
-| 2 | Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy | [arXiv](https://arxiv.org/abs/2504.18829) |
-| 3 | Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm | [Google Scholar](https://scholar.google.com/scholar?q=Geometric%20Retargeting%3A%20A%20Principled%2C%20Ultrafast%20Neural%20Hand%20Retargeting%20Algorithm) |
-| 4 | Kinematic Motion Retargeting | [Google Scholar](https://scholar.google.com/scholar?q=Kinematic%20Motion%20Retargeting) |
+| 1 | Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy | [arXiv](https://arxiv.org/abs/2504.18829) | [Code](https://github.com/JYChen18/Dexonomy) |
+| 2 | Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm | [Code](https://github.com/facebookresearch/GeoRT) | [Google Scholar](https://scholar.google.com/scholar?q=Geometric%20Retargeting) |
+| 3 | Kinematic Motion Retargeting for Contact-Rich Anthropomorphic Manipulations | [Google Scholar](https://scholar.google.com/scholar?q=Kinematic%20Motion%20Retargeting%20for%20Contact-Rich%20Anthropomorphic%20Manipulations) |
 
 ### 2022
 
 | # | Title | Links |
 |---|-------|-------|
-| 1 | DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation | [arXiv](https://arxiv.org/abs/2210.02697) | [Code](https://github.com/PKU-EPIC/DexGraspNet) |
+| 1 | Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation | [Code](https://github.com/Mingrui-Yu/retargeting) | [Google Scholar](https://scholar.google.com/scholar?q=Analyzing%20Key%20Objectives%20in%20Human-to-Robot%20Retargeting%20for%20Dexterous%20Manipulation) |
+| 2 | DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation | [arXiv](https://arxiv.org/abs/2210.02697) | [Code](https://github.com/PKU-EPIC/DexGraspNet) |
 
 ## Humanoid Robotics (17 篇)
 
@@ -515,7 +515,7 @@
 | 2 | Helpful DoggyBot Open-World Object Fetching using Legged Robots and Vision-Language Models | [arXiv](https://arxiv.org/abs/2410.00231) |
 | 3 | Learning Force Control for Legged Manipulation | [Google Scholar](https://scholar.google.com/scholar?q=Learning%20Force%20Control%20for%20Legged%20Manipulation) |
 | 4 | Learning Humanoid Locomotion over Challenging Terrain | [Google Scholar](https://scholar.google.com/scholar?q=Learning%20Humanoid%20Locomotion%20over%20Challenging%20Terrain) |
-| 5 | RA-L 2024, SLoMo A General System for Legged Robot Motion Imitation from Casual Videos | [Code](https://slomo-legs.github.io) | [Google Scholar](https://scholar.google.com/scholar?q=SLoMo%20A%20General%20System%20for%20Legged%20Robot%20Motion%20Imitation%20from%20Casual%20Videos) |
+| 5 | RA-L 2024, SLoMo A General System for Legged Robot Motion Imitation from Casual Videos | [Google Scholar](https://scholar.google.com/scholar?q=RA-L%202024%2C%20SLoMo%20A%20General%20System%20for%20Legged%20Robot%20Motion%20Imitation%20from%20Casual%20Videos) |
 
 ### 2023
 
@@ -720,10 +720,10 @@
 | 33 | The Platonic Representation Hypothesis | [Google Scholar](https://scholar.google.com/scholar?q=The%20Platonic%20Representation%20Hypothesis) |
 | 34 | Transparent Image Layer Diffusion using Latent Transparency | [Google Scholar](https://scholar.google.com/scholar?q=Transparent%20Image%20Layer%20Diffusion%20using%20Latent%20Transparency) |
 | 35 | Visual Whole-Body Control for Legged Loco-Manipulation | [Google Scholar](https://scholar.google.com/scholar?q=Visual%20Whole-Body%20Control%20for%20Legged%20Loco-Manipulation) |
-| 36 | best manipulation paper, SARA-RT Scaling up Robotics Transformers with Self-Adaptive Robust Att | [Code](https://robotics-transformer-x.github.io) | [Google Scholar](https://scholar.google.com/scholar?q=paper%2C%20SARA-RT%20Scaling%20up%20Robotics%20Transformers%20with%20Self-Adaptive%20Robust%20Att) |
-| 37 | best paper, Goal Masked Diffusion Policies for Unified Navigation and Exploration | [Code](https://gmdp-navigation.github.io) | [Google Scholar](https://scholar.google.com/scholar?q=Goal%20Masked%20Diffusion%20Policies%20for%20Unified%20Navigation%20and%20Exploration) |
-| 38 | best paper, Open X-Embodiment Robotic Learning Datasets and RT-X | [Code](https://github.com/google-deepmind/open_x_embodiment) | [Google Scholar](https://scholar.google.com/scholar?q=Open%20X-Embodiment%20Robotic%20Learning%20Datasets%20and%20RT-X) |
-| 39 | best paper, PoliFormer Scaling On-Policy RL with Transformers Results in Masterful Navigators | [Code](https://poliformer.github.io) | [Google Scholar](https://scholar.google.com/scholar?q=PoliFormer%20Scaling%20On-Policy%20RL%20with%20Transformers%20Results%20in%20Masterful%20Navigators) |
+| 36 | best manipulation paper, SARA-RT Scaling up Robotics Transformers with Self-Adaptive Robust Att | [Google Scholar](https://scholar.google.com/scholar?q=best%20manipulation%20paper%2C%20SARA-RT%20Scaling%20up%20Robotics%20Transformers%20with%20Self-Adaptive%20Robust%20Att) |
+| 37 | best paper, Goal Masked Diffusion Policies for Unified Navigation and Exploration | [Google Scholar](https://scholar.google.com/scholar?q=best%20paper%2C%20Goal%20Masked%20Diffusion%20Policies%20for%20Unified%20Navigation%20and%20Exploration) |
+| 38 | best paper, Open X-Embodiment Robotic Learning Datasets and RT-X | [Code](https://github.com/google-deepmind/open_x_embodiment) | [Google Scholar](https://scholar.google.com/scholar?q=best%20paper%2C%20Open%20X-Embodiment%20Robotic%20Learning%20Datasets%20and%20RT-X) |
+| 39 | best paper, PoliFormer Scaling On-Policy RL with Transformers Results in Masterful Navigators | [Google Scholar](https://scholar.google.com/scholar?q=best%20paper%2C%20PoliFormer%20Scaling%20On-Policy%20RL%20with%20Transformers%20Results%20in%20Masterful%20Navigators) |
 
 ### 2023
 
@@ -742,7 +742,7 @@
 | 11 | Improved Techniques for Training Consistency Models | [Google Scholar](https://scholar.google.com/scholar?q=Improved%20Techniques%20for%20Training%20Consistency%20Models) |
 | 12 | Improving Long-Horizon Imitation Through Instruction Prediction | [Google Scholar](https://scholar.google.com/scholar?q=Improving%20Long-Horizon%20Imitation%20Through%20Instruction%20Prediction) |
 | 13 | Initializing Models with Larger Ones | [Google Scholar](https://scholar.google.com/scholar?q=Initializing%20Models%20with%20Larger%20Ones) |
-| 14 | L4DC 2023, Agile Catching with Whole-Body MPC and Blackbox Policy Learning | [Google Scholar](https://scholar.google.com/scholar?q=Agile%20Catching%20with%20Whole-Body%20MPC%20and%20Blackbox%20Policy%20Learning) |
+| 14 | L4DC 2023, Agile Catching with Whole-Body MPC and Blackbox Policy Learning | [Google Scholar](https://scholar.google.com/scholar?q=L4DC%202023%2C%20Agile%20Catching%20with%20Whole-Body%20MPC%20and%20Blackbox%20Policy%20Learning) |
 | 15 | Learning Vision from Models Rivals Learning Vision from Data | [Google Scholar](https://scholar.google.com/scholar?q=Learning%20Vision%20from%20Models%20Rivals%20Learning%20Vision%20from%20Data) |
 | 16 | Learning from One Continuous Video Stream | [Google Scholar](https://scholar.google.com/scholar?q=Learning%20from%20One%20Continuous%20Video%20Stream) |
 | 17 | Learning to (Learn at Test Time) | [Google Scholar](https://scholar.google.com/scholar?q=Learning%20to%20%28Learn%20at%20Test%20Time%29) |
@@ -772,7 +772,7 @@
 | 4 | The primacy bias in deep reinforcement learning | [Google Scholar](https://scholar.google.com/scholar?q=The%20primacy%20bias%20in%20deep%20reinforcement%20learning) |
 | 5 | Training Compute-Optimal Large Language Models | [Google Scholar](https://scholar.google.com/scholar?q=Training%20Compute-Optimal%20Large%20Language%20Models) |
 | 6 | Visual Prompting via Image Inpainting | [Google Scholar](https://scholar.google.com/scholar?q=Visual%20Prompting%20via%20Image%20Inpainting) |
-| 7 | best paper, Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable O | [Google Scholar](https://scholar.google.com/scholar?q=Iterative%20Residual%20Policy%20for%20Goal-Conditioned%20Dynamic%20Manipulation%20of%20Deformable%20O) |
+| 7 | best paper, Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable O | [Google Scholar](https://scholar.google.com/scholar?q=best%20paper%2C%20Iterative%20Residual%20Policy%20for%20Goal-Conditioned%20Dynamic%20Manipulation%20of%20Deformable%20O) |
 | 8 | best student paper, AK Attentive Kernel for Information Gathering | [Google Scholar](https://scholar.google.com/scholar?q=best%20student%20paper%2C%20AK%20Attentive%20Kernel%20for%20Information%20Gathering) |
 | 9 | best system paper, Autonomously Untangling Long Cables | [Google Scholar](https://scholar.google.com/scholar?q=best%20system%20paper%2C%20Autonomously%20Untangling%20Long%20Cables) |
 
@@ -891,7 +891,7 @@
 | 94 | Yell At Your Robot Improving On-the-Fly from Language Corrections | [Google Scholar](https://scholar.google.com/scholar?q=Yell%20At%20Your%20Robot%20Improving%20On-the-Fly%20from%20Language%20Corrections) |
 | 95 | candidate, Data-driven Feature Tracking for Event Cameras | [Google Scholar](https://scholar.google.com/scholar?q=candidate%2C%20Data-driven%20Feature%20Tracking%20for%20Event%20Cameras) |
 | 96 | candidate, On Distillation of Guided Diffusion Models | [Google Scholar](https://scholar.google.com/scholar?q=candidate%2C%20On%20Distillation%20of%20Guided%20Diffusion%20Models) |
-| 97 | code | - |
+| 97 | code | [Google Scholar](https://scholar.google.com/scholar?q=code) |
 | 98 | paper, Deep Reinforcement Learning at the Edge of the Statistical Precipice | [Google Scholar](https://scholar.google.com/scholar?q=paper%2C%20Deep%20Reinforcement%20Learning%20at%20the%20Edge%20of%20the%20Statistical%20Precipice) |
 | 99 | website  github | [Google Scholar](https://scholar.google.com/scholar?q=website%20%20github) |
 | 100 | π0 A Vision-Language-Action Flow Model for General Robot Control | [Google Scholar](https://scholar.google.com/scholar?q=%CF%800%20A%20Vision-Language-Action%20Flow%20Model%20for%20General%20Robot%20Control) |
@@ -1021,7 +1021,7 @@
 | 91 | Pedipulate: Enabling Manipulation Skills using a Quadruped Robot's Leg | [arXiv](https://arxiv.org/abs/2402.10837) |
 | 92 | Physically Embodied Gaussian Splatting: A Realtime Correctable World Model for Robotics | [arXiv](https://arxiv.org/abs/2406.10788) |
 | 93 | Point Cloud Mamba: Point Cloud Learning via State Space Model | [arXiv](https://arxiv.org/abs/2403.00762) |
-| 94 | PoliFormer: Scaling On-Policy RL with Transformers Results in Masterful Navigators | [arXiv](https://arxiv.org/abs/2406.20083) | [Code](https://poliformer.github.io) |
+| 94 | PoliFormer: Scaling On-Policy RL with Transformers Results in Masterful Navigators | [arXiv](https://arxiv.org/abs/2406.20083) |
 | 95 | Policy-Guided Diffusion | [arXiv](https://arxiv.org/abs/2404.06356) |
 | 96 | Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning | [arXiv](https://arxiv.org/abs/2410.21845v3) |
 | 97 | Probing the 3D Awareness of Visual Foundation Models | [arXiv](https://arxiv.org/abs/2404.08636) |
@@ -1165,7 +1165,7 @@
 | 91 | Mosaic-SDF for 3D Generative Models | [arXiv](https://arxiv.org/abs/2312.09222) |
 | 92 | Multimodal Chain-of-Thought Reasoning in Language Models | [arXiv](https://arxiv.org/abs/2302.00923) |
 | 93 | Neural Radiance Field Codebooks | [arXiv](https://arxiv.org/abs/2301.04101) |
-| 94 | NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration | [arXiv](https://arxiv.org/abs/2310.07896) | [Code](https://gmdp-navigation.github.io) |
+| 94 | NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration | [arXiv](https://arxiv.org/abs/2310.07896) |
 | 95 | Non-parametric regression for robot learning on manifolds | [arXiv](https://arxiv.org/abs/2310.19561) |
 | 96 | On Bringing Robots Home | [arXiv](https://arxiv.org/abs/2311.16098) |
 | 97 | On the Utility of Koopman Operator Theory in Learning Dexterous Manipulation Skills | [arXiv](https://arxiv.org/abs/2303.13446) |
@@ -1194,8 +1194,8 @@
 | 120 | Robotic Offline RL from Internet Videos via Value-Function Pre-Training | [arXiv](https://arxiv.org/abs/2309.13041) |
 | 121 | Robust and Versatile Bipedal Jumping Control through Reinforcement Learning | [arXiv](https://arxiv.org/abs/2302.09450) |
 | 122 | SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding | [arXiv](https://arxiv.org/abs/2310.15308) |
-| 123 | SARA-RT: Scaling up Robotics Transformers with Self-Adaptive Robust Attention | [arXiv](https://arxiv.org/abs/2312.01990) | [Code](https://robotics-transformer-x.github.io) |
-| 124 | SLoMo: A General System for Legged Robot Motion Imitation from Casual Videos | [arXiv](https://arxiv.org/abs/2304.14389) | [Code](https://slomo-legs.github.io) |
+| 123 | SARA-RT: Scaling up Robotics Transformers with Self-Adaptive Robust Attention | [arXiv](https://arxiv.org/abs/2312.01990) |
+| 124 | SLoMo: A General System for Legged Robot Motion Imitation from Casual Videos | [arXiv](https://arxiv.org/abs/2304.14389) |
 | 125 | SPRING: Studying the Paper and Reasoning to Play Games | [arXiv](https://arxiv.org/abs/2305.15486) |
 | 126 | SafeDiffuser: Safe Planning with Diffusion Probabilistic Models | [arXiv](https://arxiv.org/abs/2306.00148) |
 | 127 | Sampling-based Model Predictive Control Leveraging Parallelizable Physics Simulations | [arXiv](https://arxiv.org/abs/2307.09105) |
