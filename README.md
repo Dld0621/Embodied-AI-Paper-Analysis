@@ -17,7 +17,7 @@ This repository provides a structured framework for analyzing frontier papers in
 
 ### Paper Index
 
-All 920+ papers are organized by topic in [`papers/README.md`](papers/README.md), with each entry including arXiv links and GitHub code links where available. An interactive web version is available at [`index.html`](index.html).
+All 920+ papers are organized by topic in [`papers/README.md`](papers/README.md), with each entry including arXiv links and GitHub code links where available. An interactive web version is available at **[dld0621.github.io/Embodied-AI-Paper-Analysis](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)**.
 
 | Category | Topics | Link |
 | :--- | :--- | :--- |
