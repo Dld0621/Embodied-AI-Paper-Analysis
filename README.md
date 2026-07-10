@@ -5,6 +5,8 @@
 [![Papers](https://img.shields.io/badge/Papers-920%2B-blue?style=flat-square)](papers/README.md)
 [![Topics](https://img.shields.io/badge/Topics-21-green?style=flat-square)](papers/README.md)
 [![Years](https://img.shields.io/badge/Years-2015--2026-orange?style=flat-square)](papers/index.md)
+[![Website](https://img.shields.io/badge/Website-Online-brightgreen?logo=github&style=flat-square)](https://dld0621.github.io/Embodied-AI-Paper-Analysis/index.html)
+[![Deploy](https://img.shields.io/github/actions/workflow/status/Dld0621/Embodied-AI-Paper-Analysis/pages.yml?branch=main&label=Pages&style=flat-square)](https://github.com/Dld0621/Embodied-AI-Paper-Analysis/actions)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square)](LICENSE)
 
 **[English](#overview) | [中文](#概览)**
@@ -17,7 +19,7 @@ This repository provides a structured framework for analyzing frontier papers in
 
 ### Paper Index
 
-All 920+ papers are organized by topic in [`papers/README.md`](papers/README.md), with each entry including arXiv links and GitHub code links where available. An interactive web version is available at **[Embodied-AI-Paper-Analysis/index.html](https://dld0621.github.io/Embodied-AI-Paper-Analysis/index.html)**.
+All 920+ papers are organized by topic in [`papers/README.md`](papers/README.md), with each entry including arXiv links and GitHub code links where available. An interactive web version is available at **[dld0621.github.io/Embodied-AI-Paper-Analysis](https://dld0621.github.io/Embodied-AI-Paper-Analysis/index.html)**.
 
 | Category | Topics | Link |
 | :--- | :--- | :--- |
@@ -38,6 +40,7 @@ All 920+ papers are organized by topic in [`papers/README.md`](papers/README.md)
 ├── notes/              # Analysis notes (21 topic dirs)
 ├── docs/               # Templates & methodology
 ├── scripts/            # Index generator (Node.js)
+├── .github/            # CI/CD workflows
 └── summaries/          # One-line paper summaries
 ```
 
@@ -62,7 +65,7 @@ npm run generate
 
 ### 论文索引
 
-共收录 **920+ 篇**论文，按主题归档于 [`papers/README.md`](papers/README.md)，每个主题内按年份降序排列，每篇附 arXiv 链接与代码链接。交互式网页版见 [`index.html`](index.html)。
+共收录 **920+ 篇**论文，按主题归档于 [`papers/README.md`](papers/README.md)，每个主题内按年份降序排列，每篇附 arXiv 链接与代码链接。交互式网页版见 **[dld0621.github.io/Embodied-AI-Paper-Analysis](https://dld0621.github.io/Embodied-AI-Paper-Analysis/index.html)**。
 
 ### 分析方法
 
