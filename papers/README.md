@@ -1,9 +1,9 @@
 # Embodied AI Paper Collection by Topic
 > 按主题分类的论文索引，每个主题内按年份降序排列。
-> 总计: 920 篇论文 | 生成时间: 2026-07-13
+> 总计: 985 篇论文 | 生成时间: 2026-07-13
 > 标注: [arXiv] 在线论文 | [Code] 代码/项目页 | [Google Scholar] 搜索链接
 
-## Foundation Models (19 篇)
+## Foundation Models (21 篇)
 
 ### 2025
 
@@ -25,6 +25,8 @@
 | 7 | Video Prediction Policy A Generalist Robot Policy with | [arXiv](https://arxiv.org/abs/2412.14803) |
 | 8 | OmniGlue Generalizable Feature Matching with Foundation Model Guidance | [arXiv](https://arxiv.org/abs/2405.12979) |
 | 9 | articulate-anything Automatic Modeling of Articulated Objects via a... | [arXiv](https://arxiv.org/abs/2410.13882) |
+| 10 | Theia: Distilling Diverse Vision Foundation Models for Robot Learning | [arXiv](https://arxiv.org/abs/2407.20179) |
+| 11 | DecisionNCE: Embodied Multimodal Representations via Implicit Prefe... | [arXiv](https://arxiv.org/abs/2402.18137) |
 
 ### 2022
 
@@ -50,7 +52,7 @@
 | 5 | Keypoints into the future Self-supervised correspondence in model-b... | [arXiv](https://arxiv.org/abs/2011.01975) |
 
 
-## VLA (Vision-Language-Action) (3 篇)
+## VLA (Vision-Language-Action) (6 篇)
 
 ### 2026
 
@@ -58,15 +60,23 @@
 |---|-------|-------|
 | 1 | Dexora Open-source VLA for High-DoF Bimanual Dexterity | [Google Scholar](https://scholar.google.com/scholar?q=Dexora%20Open-source%20VLA%20for%20High-DoF%20Bimanual%20Dexterity) |
 
+### 2025
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Chain-of-Modality: Learning Manipulation Programs from Multimodal H... | [arXiv](https://arxiv.org/abs/2504.13351) |
+
 ### 2024
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | HandsOnVLM Vision-Language Models for Hand-Object Interaction Predi... | [arXiv](https://arxiv.org/abs/2412.13187) |
 | 2 | Run-time Observation Interventions Make Vision-Language-Action Mode... | [arXiv](https://arxiv.org/abs/2410.01971) |
+| 3 | RT-H: Action Hierarchies using Language | [arXiv](https://arxiv.org/abs/2403.01823) |
+| 4 | ManipLLM: Embodied Multimodal Large Language Model for Object-Centr... | [arXiv](https://arxiv.org/abs/2312.16217) |
 
 
-## 3D Vision & Perception (60 篇)
+## 3D Vision & Perception (78 篇)
 
 ### 2026
 
@@ -88,6 +98,14 @@
 | 7 | RigAnything Template-Free Autoregressive Rigging for Diverse 3D Assets | [arXiv](https://arxiv.org/abs/2406.04572) |
 | 8 | RoboGSim A Real2Sim2Real Robotic Gaussian Splatting Simulator | [arXiv](https://arxiv.org/abs/2411.11839) |
 | 9 | SOLAMI Social Vision-Language-Action Modeling for Immersive Interac... | [arXiv](https://arxiv.org/abs/2412.07285) |
+| 10 | AutoOcc: Automatic Open-Ended Semantic Occupancy Annotation via Vis... | [arXiv](https://arxiv.org/abs/2502.04981) |
+| 11 | PHD: Personalized 3D Human Body Fitting with Diffusion Model Prior | [arXiv](https://arxiv.org/abs/2508.21257) |
+| 12 | RobustSplat: Decoupling Densification and Dynamics for Transient-Fr... | [arXiv](https://arxiv.org/abs/2506.02751) |
+| 13 | MVAR: Exploring Multi-View Autoregressive Generation | [arXiv](https://arxiv.org/abs/2506.18527) |
+| 14 | CAST: Component-Aligned 3D Scene Reconstruction From an RGB Image | [arXiv](https://arxiv.org/abs/2502.12894) |
+| 15 | LAM: Large Avatar Model for One-shot Animatable Gaussian Head | [arXiv](https://arxiv.org/abs/2502.17796) |
+| 16 | DoRA: Facial Appearance Capture at Home with Patch-Level Reflectanc... | [arXiv](https://arxiv.org/abs/2506.03478) |
+| 17 | VideoPainter: Plug-and-Play Context Control | [arXiv](https://arxiv.org/abs/2503.05639) |
 
 ### 2024
 
@@ -118,6 +136,16 @@
 | 23 | Unifying 3D Representation and Control of Diverse Robots with a Sin... | [Google Scholar](https://scholar.google.com/scholar?q=Unifying%203D%20Representation%20and%20Control%20of%20Diverse%20Robots%20with%20a%20Single%20Camera) |
 | 24 | VLM-Grounder A VLM Agent for Zero-Shot 3D Visual Grounding | [arXiv](https://arxiv.org/abs/2410.13860) |
 | 25 | illusion3d 3D Multiview Illusion with 2D Diffusion Priors | [arXiv](https://arxiv.org/abs/2412.09625) |
+| 26 | FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Ob... | [arXiv](https://arxiv.org/abs/2312.08344) |
+| 27 | SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction | [arXiv](https://arxiv.org/abs/2311.12754) |
+| 28 | GauHuman: Articulated Gaussian Splatting from Monocular Human Videos | [arXiv](https://arxiv.org/abs/2312.02973) |
+| 29 | SurMo: Surface-based 4D Motion Modeling for Dynamic Human Rendering | [arXiv](https://arxiv.org/abs/2404.01225) |
+| 30 | BiTT: Bi-directional Texture Reconstruction of Interacting Two Hand... | [arXiv](https://arxiv.org/abs/2403.08262) |
+| 31 | UFORecon: Generalizable Sparse-View Surface Reconstruction | [arXiv](https://arxiv.org/abs/2403.05086) |
+| 32 | RTG-SLAM: Real-time 3D Reconstruction at Scale Using Gaussian Splat... | [arXiv](https://arxiv.org/abs/2404.19706) |
+| 33 | SMERF: Streamable Memory Efficient Radiance Fields for Real-Time La... | [arXiv](https://arxiv.org/abs/2312.07541) |
+| 34 | DressCode: Autoregressively Sewing and Generating Garments From Tex... | [arXiv](https://arxiv.org/abs/2401.16465) |
+| 35 | Motion-I2V: Consistent and Controllable Image-to-Video Generation w... | [arXiv](https://arxiv.org/abs/2401.15977) |
 
 ### 2023
 
@@ -169,13 +197,16 @@
 | 1 | PointNet: Deep Learning on Point Sets for 3D Classification and Seg... | [arXiv](https://arxiv.org/abs/1612.00593) |
 
 
-## Diffusion Policy (51 篇)
+## Diffusion Policy (58 篇)
 
 ### 2025
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | MotionStreamer Streaming Motion Generation via Diffusion-based Auto... | [arXiv](https://arxiv.org/abs/2503.15451) |
+| 2 | Discrete Policy: Learning Disentangled Action Space for Multi-Task ... | [arXiv](https://arxiv.org/abs/2409.18707) |
+| 3 | This&That: Language-Gesture Controlled Video Generation for Robot P... | [arXiv](https://arxiv.org/abs/2407.05530) |
+| 4 | ET-SEED: Efficient Trajectory-Level SE(3) Equivariant Diffusion Policy | [arXiv](https://arxiv.org/abs/2411.03990) |
 
 ### 2024
 
@@ -187,6 +218,10 @@
 | 4 | Learning to Read Braille Bridging the Tactile | [arXiv](https://arxiv.org/abs/2304.01182) |
 | 5 | Diffusion Co-Policy for Synergistic Human-Robot Collab | [arXiv](https://arxiv.org/abs/2406.05216) |
 | 6 | Sparse Diffusion Policy A Sparse | [arXiv](https://arxiv.org/abs/2307.01531) | [Code](https://github.com/real-stanford/diffusion_policy) |
+| 7 | Equivariant Diffusion Policy | [arXiv](https://arxiv.org/abs/2407.01812) |
+| 8 | Render and Diffuse: Aligning Image and Action Spaces for Diffusion-... |  |
+| 9 | Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning |  |
+| 10 | Learning an Actionable Discrete Diffusion Policy via Large-Scale Ac... | [arXiv](https://arxiv.org/abs/2402.14407) |
 
 ### 2023
 
@@ -253,7 +288,7 @@
 | 3 | DDIM Denoising Diffusion Implicit Models | [arXiv](https://arxiv.org/abs/2010.02502) |
 
 
-## Reinforcement Learning (31 篇)
+## Reinforcement Learning (37 篇)
 
 ### 2025
 
@@ -278,6 +313,12 @@
 | 7 | CBIL Collective Behavior Imitation Learning for Fish from Real Videos | [arXiv](https://arxiv.org/abs/2504.00234) |
 | 8 | DigiRL Training In-The-Wild Device-Control Agents with Autonomous R... | [arXiv](https://arxiv.org/abs/2406.11896) |
 | 9 | From Imitation to Refinement Residual RL for Precise Visual Assembl... | [arXiv](https://arxiv.org/abs/2407.16677) |
+| 10 | HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers | [arXiv](https://arxiv.org/abs/2410.05273) |
+| 11 | Learning to Manipulate Anywhere: A Visual Generalizable Framework F... | [arXiv](https://arxiv.org/abs/2407.15815) |
+| 12 | Re-Mix: Optimizing Data Mixtures for Large Scale Imitation Learning | [arXiv](https://arxiv.org/abs/2408.14037) |
+| 13 | List-wise Reward Estimation for Offline Preference-Based Reinforcem... | [arXiv](https://arxiv.org/abs/2408.04190) |
+| 14 | RIME: Robust Preference-based Reinforcement Learning with Noisy Pre... | [arXiv](https://arxiv.org/abs/2402.17257) |
+| 15 | TRACER: Uncertainty-based Offline Variational Bayesian Reinforcemen... | [arXiv](https://arxiv.org/abs/2411.00465) |
 
 ### 2023
 
@@ -322,7 +363,7 @@
 | 1 | DDPGfD Leveraging Demonstrations for Deep Reinforcement Learning on... | [arXiv](https://arxiv.org/abs/1707.08817) |
 
 
-## World Models (5 篇)
+## World Models (6 篇)
 
 ### 2025
 
@@ -338,9 +379,10 @@
 |---|-------|-------|
 | 1 | Generative World Explorer | [arXiv](https://arxiv.org/abs/2411.11844) |
 | 2 | Pandora Towards General World Model with Natural Language Actions a... | [arXiv](https://arxiv.org/abs/2406.09455) |
+| 3 | PIVOT-R: Waypoint-Aware World Model for Language-Guided Robotic Man... | [arXiv](https://arxiv.org/abs/2410.10394) |
 
 
-## Manipulation (17 篇)
+## Manipulation (29 篇)
 
 ### 2025
 
@@ -350,6 +392,13 @@
 | 2 | ManipTrans Efficient Dexterous Bimanual Manipulation Transfer via R... | [arXiv](https://arxiv.org/abs/2503.21860) |
 | 3 | BUMBLE Unifying Reasoning and Acting with Vision-Language Models fo... | [arXiv](https://arxiv.org/abs/2410.06237) |
 | 4 | CogACT A Foundational Vision-Language-Action Model for Synergizing ... | [arXiv](https://arxiv.org/abs/2411.19650) |
+| 5 | PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-Rich Man... | [arXiv](https://arxiv.org/abs/2504.19341) |
+| 6 | Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integr... | [arXiv](https://arxiv.org/abs/2506.05168) |
+| 7 | Learning from Imperfect Demonstrations with Self-Supervision for Ro... | [arXiv](https://arxiv.org/abs/2401.08957) |
+| 8 | LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and... | [arXiv](https://arxiv.org/abs/2409.20560) |
+| 9 | OmniManip: Towards General Robotic Manipulation via Object-Centric ... | [arXiv](https://arxiv.org/abs/2501.03841) |
+| 10 | G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizabl... | [arXiv](https://arxiv.org/abs/2411.18369) |
+| 11 | AR-VRM: Imitating Human Motions for Visual Robot Manipulation with ... | [arXiv](https://arxiv.org/abs/2508.07626) |
 
 ### 2024
 
@@ -365,6 +414,11 @@
 | 8 | MPI Learning Manipulation by Predicting Interaction | [arXiv](https://arxiv.org/abs/2406.00439) |
 | 9 | Position Scaling Simulation is Neither Necessary Nor Sufficient for... | [Google Scholar](https://scholar.google.com/scholar?q=Position%20Scaling%20Simulation%20is%20Neither%20Necessary%20Nor%20Sufficient%20for%20In-the-Wild%20Robot%20Manipulation) |
 | 10 | ReKep Spatio-Temporal Reasoning of Relational Keypoint Constraints ... | [arXiv](https://arxiv.org/abs/2409.01652) |
+| 11 | GraspSplats: Efficient Manipulation with 3D Feature Splatting | [arXiv](https://arxiv.org/abs/2409.02084) |
+| 12 | RiEMann: Near Real-Time SE(3)-Equivariant Robot Manipulation withou... | [arXiv](https://arxiv.org/abs/2403.19460) |
+| 13 | SAGE: Bridging Semantic and Actionable Parts for Generalizable Arti... |  |
+| 14 | RVT-2: Learning Precise Manipulation from Few Demonstrations |  |
+| 15 | CooHOI: Learning Cooperative Human-Object Interaction with Manipula... | [arXiv](https://arxiv.org/abs/2406.14558) |
 
 ### 2023
 
@@ -385,7 +439,7 @@
 | 1 | The Kinematics of Manipulators Under Computer Control | [Google Scholar](https://scholar.google.com/scholar?q=The%20Kinematics%20of%20Manipulators%20Under%20Computer%20Control) |
 
 
-## Grasping (22 篇)
+## Grasping (24 篇)
 
 ### 2026
 
@@ -398,6 +452,7 @@
 | # | Title | Links |
 |---|-------|-------|
 | 1 | A Careful Examination of Large Behavior Models for Multitask Dexter... | [arXiv](https://arxiv.org/abs/2507.05331) |
+| 2 | D(R,O) Grasp: A Unified Representation of Robot and Object Interact... | [arXiv](https://arxiv.org/abs/2410.01702) |
 
 ### 2024
 
@@ -418,6 +473,7 @@
 | 13 | Omnigrasp Grasping Diverse Objects with Simulated Humanoids | [arXiv](https://arxiv.org/abs/2407.11385) |
 | 14 | The GRASP Taxonomy of Human Grasp Types | [Google Scholar](https://scholar.google.com/scholar?q=The%20GRASP%20Taxonomy%20of%20Human%20Grasp%20Types) |
 | 15 | TopoRetarget Interaction-Preserving Retargeting for Dexterous Manip... | [arXiv](https://arxiv.org/abs/2606.16272) |
+| 16 | DeliGrasp: Inferring Object Properties with LLMs for Adaptive Grasp... |  |
 
 ### 2023
 
@@ -480,7 +536,7 @@
 | 1 | Sim-to-Real Learning for Humanoid Box Loco-Manipulation | [arXiv](https://arxiv.org/abs/2310.03191) |
 
 
-## Locomotion (17 篇)
+## Locomotion (20 篇)
 
 ### 2025
 
@@ -488,6 +544,7 @@
 |---|-------|-------|
 | 1 | Generalized Animal Imitator Agile Locomotion with Versatile Motion ... | [arXiv](https://arxiv.org/abs/2310.01408) |
 | 2 | NaVILA Legged Robot Vision-Language-Action Model for Navigation | [arXiv](https://arxiv.org/abs/2411.19650) |
+| 3 | Gait-Conditioned Reinforcement Learning with Multi-Phase Curriculum... | [arXiv](https://arxiv.org/abs/2505.20619) |
 
 ### 2024
 
@@ -502,6 +559,8 @@
 | 7 | Learning Robotic Locomotion Affordances and Photorealistic Simulato... | [Google Scholar](https://scholar.google.com/scholar?q=Learning%20Robotic%20Locomotion%20Affordances%20and%20Photorealistic%20Simulators%20from%20Human-Captured%20Data) |
 | 8 | Learning coordinated badminton skills for legged manipulators | [Google Scholar](https://scholar.google.com/scholar?q=Learning%20coordinated%20badminton%20skills%20for%20legged%20manipulators) |
 | 9 | LucidSim Learning Agile Visual Locomotion from Generated Images | [Google Scholar](https://scholar.google.com/scholar?q=LucidSim%20Learning%20Agile%20Visual%20Locomotion%20from%20Generated%20Images) |
+| 10 | Advancing Humanoid Locomotion: Mastering Challenging Terrains with ... |  |
+| 11 | Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion |  |
 
 ### 2023
 
@@ -553,13 +612,14 @@
 | 1 | Open-TeleVision Teleoperation with Immersive Active Visual Feedback | [arXiv](https://arxiv.org/abs/2407.01512) |
 
 
-## Navigation (2 篇)
+## Navigation (3 篇)
 
 ### 2024
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | Vid2Sim Realistic and Interactive Simulation from Video for Urban N... | [Google Scholar](https://scholar.google.com/scholar?q=Vid2Sim%20Realistic%20and%20Interactive%20Simulation%20from%20Video%20for%20Urban%20Navigation) |
+| 2 | LeLaN: Learning A Language-Conditioned Navigation Policy from In-th... |  |
 
 ### 2023
 
@@ -568,7 +628,7 @@
 | 1 | High-speed control and navigation for quadrupedal robots on complex... | [Google Scholar](https://scholar.google.com/scholar?q=High-speed%20control%20and%20navigation%20for%20quadrupedal%20robots%20on%20complex%20and%20discrete%20terrain) |
 
 
-## Simulation (6 篇)
+## Simulation (10 篇)
 
 ### 2025
 
@@ -576,6 +636,7 @@
 |---|-------|-------|
 | 1 | Scalable Real2Sim Physics-Aware Asset Generation Via Robotic Pick-a... | [arXiv](https://arxiv.org/abs/2503.00370) |
 | 2 | Genesis A Generative and Universal Physics Engine for Robotics and ... | [Google Scholar](https://scholar.google.com/scholar?q=Genesis%20A%20Generative%20and%20Universal%20Physics%20Engine%20for%20Robotics%20and%20Beyond) |
+| 3 | UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI | [arXiv](https://arxiv.org/abs/2412.20977) |
 
 ### 2024
 
@@ -584,6 +645,9 @@
 | 1 | DrEureka Language Model Guided Sim-To-Real Transfer | [arXiv](https://arxiv.org/abs/2406.01967) |
 | 2 | RoboCasa Large-Scale Simulation of Everyday Tasks for Generalist Ro... | [arXiv](https://arxiv.org/abs/2306.14426) |
 | 3 | TRANSIC Sim-to-Real Policy Transfer by Learning from Online Correction | [arXiv](https://arxiv.org/abs/2404.13026) |
+| 4 | GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoni... | [arXiv](https://arxiv.org/abs/2410.03645) |
+| 5 | RoboGen: Towards Unleashing Infinite Data for Automated Robot Learn... | [arXiv](https://arxiv.org/abs/2311.01455) |
+| 6 | GarmentLab: A Unified Simulation and Benchmark for Garment Manipula... | [arXiv](https://arxiv.org/abs/2411.01200) |
 
 ### 2023
 
@@ -1431,4 +1495,23 @@
 | # | Title | Links |
 |---|-------|-------|
 | 1 | Model Predictive Path Integral Control using Covariance Variable Im... | [arXiv](https://arxiv.org/abs/1509.01149) |
+
+
+## Humanoid & Bimanual (6 篇)
+
+### 2025
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Visual Imitation Enables Contextual Humanoid Control | [arXiv](https://arxiv.org/abs/2505.03729) |
+
+### 2024
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleo... | [arXiv](https://arxiv.org/abs/2406.08858) |
+| 2 | HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomoti... | [arXiv](https://arxiv.org/abs/2403.10506) |
+| 3 | WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts |  |
+| 4 | Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation (H2O | [arXiv](https://arxiv.org/abs/2403.04436) |
+| 5 | HumanPlus: Humanoid Shadowing and Imitation from Humans | [arXiv](https://arxiv.org/abs/2406.10454) |
 
