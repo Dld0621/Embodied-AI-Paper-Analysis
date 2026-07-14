@@ -1,6 +1,6 @@
 # Embodied AI Paper Collection by Topic
 > 按主题分类的论文索引，一级分类为大类，二级分类为子类，每个分类内按年份降序排列。
-> 总计: 993 篇论文 | 生成时间: 2026-07-14
+> 总计: 1022 篇论文 | 生成时间: 2026-07-14
 > 标注: [arXiv] 在线论文 | [Code] 代码/项目页 | [Google Scholar] 搜索链接
 
 ## 快速导航
@@ -15,7 +15,7 @@
 | [Others](#others) | [Uncategorized](#uncategorized) | |
 
 <a id="hand-retargeting"></a>
-## Hand Retargeting (10 篇)
+## Hand Retargeting (39 篇)
 
 **2026**
 
@@ -26,6 +26,16 @@
 | 3 | DexTwist: Dexterous Hand Retargeting for Twist Motion via Mixed Rea... | [arXiv](https://arxiv.org/abs/2605.12182) |
 | 4 | Kilohertz-Safe: A Scalable Framework for Constrained Dexterous Reta... | [arXiv](https://arxiv.org/abs/2603.29213) |
 | 5 | Vision-Based Hand Shadowing for Robotic Manipulation via Inverse Ki... | [arXiv](https://arxiv.org/abs/2603.11383) |
+| 6 | Retargeting Matters: General Motion Retargeting for Humanoid Motion... | [arXiv](https://arxiv.org/abs/2510.02252) | [Code](https://github.com/YanjieZe/GMR) |
+| 7 | Functional Force-Aware Retargeting from Virtual Human Demos to Soft... | [arXiv](https://arxiv.org/abs/2604.01224) | [Code](https://soft-act.github.io/) |
+| 8 | DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation | [arXiv](https://arxiv.org/abs/2505.24853) | [Code](https://project-dexmachina.github.io/) |
+| 9 | Beyond Mimicry: Learning Whole-Body Human-Humanoid Interaction from... | [arXiv](https://arxiv.org/abs/2601.09518) |
+| 10 | Cross-Hand Latent Representation for Vision-Language-Action Models | [arXiv](https://arxiv.org/abs/2603.10158) | [Code](https://xl-vla.github.io/) |
+| 11 | DexImit: Learning Bimanual Dexterous Manipulation from Monocular Hu... | [arXiv](https://arxiv.org/abs/2602.10105) | [Code](https://github.com/mujc2021/DexImit-Open) |
+| 12 | TactAlign: Human-to-Robot Policy Transfer via Tactile Alignment | [arXiv](https://arxiv.org/abs/2602.13579) |
+| 13 | HoMMI: Learning Whole-Body Mobile Manipulation from Human Demonstra... | [arXiv](https://arxiv.org/abs/2603.03243) | [Code](https://github.com/xxm19/hommi) |
+| 14 | Mimic Intent, Not Just Trajectories | [arXiv](https://arxiv.org/abs/2602.08602) | [Code](https://github.com/RenMing-Huang/MINT) |
+| 15 | HumDex: Humanoid Dexterous Manipulation Made Easy | [arXiv](https://arxiv.org/abs/2603.12260) | [Code](https://github.com/physical-superintelligence-lab/HumDex) |
 
 **2025**
 
@@ -35,12 +45,41 @@
 | 2 | Geometric Retargeting: A Principled, Ultrafast Neural Hand Retarget... | [arXiv](https://arxiv.org/abs/2503.07541) | [Code](https://github.com/facebookresearch/GeoRT) |
 | 3 | Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterou... | [arXiv](https://arxiv.org/abs/2506.09384) | [Code](https://mingrui-yu.github.io/retargeting/) |
 | 4 | Kinematic Motion Retargeting for Contact-Rich Anthropomorphic Manip... | [arXiv](https://arxiv.org/abs/2402.04820) | [Code](https://github.com/lakshmipathyarjun6/kinematic-motion-retargeting) |
+| 5 | Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body... | [arXiv](https://arxiv.org/abs/2412.07773) | [Code](https://mobile-tv.github.io/) |
+| 6 | ViViDex: Learning Vision-Based Dexterous Manipulation from Human Vi... | [arXiv](https://arxiv.org/abs/2404.15709) | [Code](https://github.com/zerchen/vividex_mujoco) |
+| 7 | Robust and Expressive Humanoid Motion Retargeting via Optimization-... |  |
+| 8 | Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imi... | [arXiv](https://arxiv.org/abs/2407.03162) | [Code](https://github.com/Dingry/BunnyVisionPro) |
+| 9 | DexUMI: Using Human Hand as the Universal Manipulation Interface fo... | [arXiv](https://arxiv.org/abs/2505.21864) | [Code](https://github.com/real-stanford/DexUMI) |
+| 10 | DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic ... | [arXiv](https://arxiv.org/abs/2502.07730) | [Code](https://github.com/TEA-Lab/DOGlove/) |
+| 11 | DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies | [arXiv](https://arxiv.org/abs/2505.07813) | [Code](https://github.com/dexwild/dexwild-training) |
+| 12 | Physics-Driven Data Generation for Contact-Rich Manipulation via Tr... | [arXiv](https://arxiv.org/abs/2502.20382) | [Code](https://lujieyang.github.io/physicsgen/) |
+| 13 | DexH2R: Task-Oriented Dexterous Manipulation from Human to Robots | [arXiv](https://arxiv.org/abs/2411.04428) |
+| 14 | Learning to Transfer Human Hand Skills for Robot Manipulations | [arXiv](https://arxiv.org/abs/2501.04169) |
+| 15 | DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and... | [arXiv](https://arxiv.org/abs/2505.01083) |
+| 16 | TWIST: Teleoperated Whole-Body Imitation System | [arXiv](https://arxiv.org/abs/2505.02833) | [Code](https://humanoid-teleop.github.io/) |
+| 17 | TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection S... | [arXiv](https://arxiv.org/abs/2511.02832) | [Code](https://twist-data.github.io/) |
+| 18 | CLONE: Closed-Loop Whole-Body Humanoid Teleoperation with Long-Hori... | [arXiv](https://arxiv.org/abs/2506.08931) |
 
 **2024**
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | TopoRetarget Interaction-Preserving Retargeting for Dexterous Manip... | [arXiv](https://arxiv.org/abs/2606.16272) |
+| 2 | Tilde: Teleoperation for Dexterous In-Hand Manipulation Learning wi... | [arXiv](https://arxiv.org/abs/2405.18804) | [Code](https://github.com/iamlab-cmu/DeltaHands) |
+| 3 | Twisting Lids Off with Two Hands | [arXiv](https://arxiv.org/abs/2403.02338) | [Code](https://github.com/ToruOwO/twisting-lids) |
+| 4 | Unsupervised Neural Motion Retargeting for Humanoid Teleoperation | [arXiv](https://arxiv.org/abs/2406.00727) |
+
+**2023**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoper... | [arXiv](https://arxiv.org/abs/2307.04577) | [Code](https://github.com/dexsuite/dex-retargeting) |
+
+**2020**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | DexPilot: Vision-Based Teleoperation of Dexterous Robotic Hand-Arm ... | [arXiv](https://arxiv.org/abs/1910.03135) | [Code](https://yzqin.github.io/dexpilot/) |
 
 
 <a id="foundation-models"></a>
