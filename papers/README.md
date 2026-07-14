@@ -1,5 +1,5 @@
 # Embodied AI Paper Collection by Topic
-> 按主题分类的论文索引，每个主题内按年份降序排列。
+> 按主题分类的论文索引，一级分类为大类，二级分类为子类，每个分类内按年份降序排列。
 > 总计: 993 篇论文 | 生成时间: 2026-07-14
 > 标注: [arXiv] 在线论文 | [Code] 代码/项目页 | [Google Scholar] 搜索链接
 
@@ -7,26 +7,53 @@
 
 | 主题 | 主题 | 主题 |
 |------|------|------|
-| [Foundation Models](#foundation-models) | [VLA (Vision-Language-Action)](#vla-vision-language-action) | [3D Vision & Perception](#3d-vision-perception) |
-| [Diffusion Policy](#diffusion-policy) | [Reinforcement Learning](#reinforcement-learning) | [World Models](#world-models) |
-| [Manipulation](#manipulation) | [Grasping](#grasping) | [Humanoid Robotics](#humanoid-robotics) |
-| [Locomotion](#locomotion) | [Motion Tracking](#motion-tracking) | [Tactile Sensing](#tactile-sensing) |
-| [Teleoperation](#teleoperation) | [Navigation](#navigation) | [Simulation](#simulation) |
-| [Data Generation](#data-generation) | [Video Generation](#video-generation) | [Hardware](#hardware) |
-| [Others](#others) | [Uncategorized](#uncategorized) | [Humanoid & Bimanual](#humanoid-bimanual) |
+| [Hand Retargeting](#hand-retargeting) | [Foundation Models](#foundation-models) | [VLA (Vision-Language-Action)](#vla-vision-language-action) |
+| [3D Vision & Perception](#3d-vision--perception) | [Manipulation](#manipulation) | [Grasping](#grasping) |
+| [Humanoid Robotics](#humanoid-robotics) | [Humanoid & Bimanual](#humanoid--bimanual) | [Locomotion](#locomotion) |
+| [Policy Learning](#policy-learning) | [Simulation & World Models](#simulation--world-models) | [Navigation & Tracking](#navigation--tracking) |
+| [Hardware & Sensing](#hardware--sensing) | [Data Generation](#data-generation) | [Video Generation](#video-generation) |
+| [Others](#others) | [Uncategorized](#uncategorized) | |
+
+<a id="hand-retargeting"></a>
+## Hand Retargeting (10 篇)
+
+**2026**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | TopoRetarget: Interaction-Preserving Retargeting for Dexterous Mani... | [arXiv](https://arxiv.org/abs/2606.16272) |
+| 2 | AnyDexRT: Calibration-Free Dexterous Hand Retargeting with Few-Shot... | [arXiv](https://arxiv.org/abs/2607.08341) | [Code](https://chenxi-wang.github.io/projects/anydexrt/) |
+| 3 | DexTwist: Dexterous Hand Retargeting for Twist Motion via Mixed Rea... | [arXiv](https://arxiv.org/abs/2605.12182) |
+| 4 | Kilohertz-Safe: A Scalable Framework for Constrained Dexterous Reta... | [arXiv](https://arxiv.org/abs/2603.29213) |
+| 5 | Vision-Based Hand Shadowing for Robotic Manipulation via Inverse Ki... | [arXiv](https://arxiv.org/abs/2603.11383) |
+
+**2025**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | SPIDER: Scalable Physics-Informed Dexterous Retargeting | [arXiv](https://arxiv.org/abs/2511.09484) | [Code](https://jc-bao.github.io/spider-project/) |
+| 2 | Geometric Retargeting: A Principled, Ultrafast Neural Hand Retarget... | [arXiv](https://arxiv.org/abs/2503.07541) | [Code](https://github.com/facebookresearch/GeoRT) |
+| 3 | Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterou... | [arXiv](https://arxiv.org/abs/2506.09384) | [Code](https://mingrui-yu.github.io/retargeting/) |
+| 4 | Kinematic Motion Retargeting for Contact-Rich Anthropomorphic Manip... | [arXiv](https://arxiv.org/abs/2402.04820) | [Code](https://github.com/lakshmipathyarjun6/kinematic-motion-retargeting) |
+
+**2024**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | TopoRetarget Interaction-Preserving Retargeting for Dexterous Manip... | [arXiv](https://arxiv.org/abs/2606.16272) |
 
 
 <a id="foundation-models"></a>
 ## Foundation Models (21 篇)
 
-### 2025
+**2025**
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | LiDAR Registration with Visual Foundation Models | [arXiv](https://arxiv.org/abs/2502.19374) |
 | 2 | Meta Motivo Zero-Shot Whole-Body Humanoid Control via Behavioral Fo... | [arXiv](https://arxiv.org/abs/2504.11054) |
 
-### 2024
+**2024**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -42,20 +69,20 @@
 | 10 | Theia: Distilling Diverse Vision Foundation Models for Robot Learning | [arXiv](https://arxiv.org/abs/2407.20179) |
 | 11 | DecisionNCE: Embodied Multimodal Representations via Implicit Prefe... | [arXiv](https://arxiv.org/abs/2402.18137) |
 
-### 2022
+**2022**
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | InternVideo: General Video Foundation Models via Generative and Dis... | [arXiv](https://arxiv.org/abs/2212.03191) |
 
-### 2021
+**2021**
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | CLIP: Learning Transferable Visual Models From Natural Language Sup... | [arXiv](https://arxiv.org/abs/2103.00020) |
 | 2 | HOP Hand-object interaction pretraining from videos | [arXiv](https://arxiv.org/abs/2409.08273) |
 
-### 2020
+**2020**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -69,19 +96,19 @@
 <a id="vla-vision-language-action"></a>
 ## VLA (Vision-Language-Action) (6 篇)
 
-### 2026
+**2026**
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | Dexora Open-source VLA for High-DoF Bimanual Dexterity | [Google Scholar](https://scholar.google.com/scholar?q=Dexora%20Open-source%20VLA%20for%20High-DoF%20Bimanual%20Dexterity) |
 
-### 2025
+**2025**
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | Chain-of-Modality: Learning Manipulation Programs from Multimodal H... | [arXiv](https://arxiv.org/abs/2504.13351) |
 
-### 2024
+**2024**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -91,17 +118,17 @@
 | 4 | ManipLLM: Embodied Multimodal Large Language Model for Object-Centr... | [arXiv](https://arxiv.org/abs/2312.16217) |
 
 
-<a id="3d-vision-perception"></a>
+<a id="3d-vision--perception"></a>
 ## 3D Vision & Perception (78 篇)
 
-### 2026
+**2026**
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | GRAIL Generating Humanoid Loco-Manipulation from 3D Assets and Vide... | [arXiv](https://arxiv.org/abs/2606.05160) |
 | 2 | Articraft An Agentic System for Scalable Articulated 3D Asset Gener... | [Google Scholar](https://scholar.google.com/scholar?q=Articraft%20An%20Agentic%20System%20for%20Scalable%20Articulated%203D%20Asset%20Generation) |
 
-### 2025
+**2025**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -123,7 +150,7 @@
 | 16 | DoRA: Facial Appearance Capture at Home with Patch-Level Reflectanc... | [arXiv](https://arxiv.org/abs/2506.03478) |
 | 17 | VideoPainter: Plug-and-Play Context Control | [arXiv](https://arxiv.org/abs/2503.05639) |
 
-### 2024
+**2024**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -163,7 +190,7 @@
 | 34 | DressCode: Autoregressively Sewing and Generating Garments From Tex... | [arXiv](https://arxiv.org/abs/2401.16465) |
 | 35 | Motion-I2V: Consistent and Controllable Image-to-Video Generation w... | [arXiv](https://arxiv.org/abs/2401.15977) |
 
-### 2023
+**2023**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -183,7 +210,7 @@
 | 14 | Zero123++ a Single Image to Consistent Multi-view Diffusion Base Model | [arXiv](https://arxiv.org/abs/2310.15110) |
 | 15 | Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Ge... | [arXiv](https://arxiv.org/abs/2303.07937) |
 
-### 2022
+**2022**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -193,30 +220,248 @@
 | 4 | PointNeXt Revisiting PointNet++ with Improved Training and Scaling ... | [arXiv](https://arxiv.org/abs/2206.04670) |
 | 5 | NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills... | [arXiv](https://arxiv.org/abs/2210.04932) |
 
-### 2020
+**2020**
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | Vision Transformer An Image is Worth 16x16 Words Transformers for I... | [arXiv](https://arxiv.org/abs/2010.11929) |
 | 2 | FrankMocap: A Monocular 3D Whole-Body Pose Estimation System via Re... | [arXiv](https://arxiv.org/abs/2008.08324) |
 
-### 2018
+**2018**
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | ChainQueen A Real-Time Differentiable Physical Simulator for Soft R... | [arXiv](https://arxiv.org/abs/1811.06020) |
 
-### 2017
+**2017**
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | PointNet: Deep Learning on Point Sets for 3D Classification and Seg... | [arXiv](https://arxiv.org/abs/1612.00593) |
 
 
-<a id="diffusion-policy"></a>
-## Diffusion Policy (58 篇)
+<a id="manipulation"></a>
+## Manipulation (29 篇)
 
-### 2025
+**2025**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation | [arXiv](https://arxiv.org/abs/2502.10894) |
+| 2 | ManipTrans Efficient Dexterous Bimanual Manipulation Transfer via R... | [arXiv](https://arxiv.org/abs/2503.21860) |
+| 3 | BUMBLE Unifying Reasoning and Acting with Vision-Language Models fo... | [arXiv](https://arxiv.org/abs/2410.06237) |
+| 4 | CogACT A Foundational Vision-Language-Action Model for Synergizing ... | [arXiv](https://arxiv.org/abs/2411.19650) |
+| 5 | PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-Rich Man... | [arXiv](https://arxiv.org/abs/2504.19341) |
+| 6 | Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integr... | [arXiv](https://arxiv.org/abs/2506.05168) |
+| 7 | Learning from Imperfect Demonstrations with Self-Supervision for Ro... | [arXiv](https://arxiv.org/abs/2401.08957) |
+| 8 | LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and... | [arXiv](https://arxiv.org/abs/2409.20560) |
+| 9 | OmniManip: Towards General Robotic Manipulation via Object-Centric ... | [arXiv](https://arxiv.org/abs/2501.03841) |
+| 10 | G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizabl... | [arXiv](https://arxiv.org/abs/2411.18369) |
+| 11 | AR-VRM: Imitating Human Motions for Visual Robot Manipulation with ... | [arXiv](https://arxiv.org/abs/2508.07626) |
+
+**2024**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Evaluating Real-World Robot Manipulation Policies in Simulation | [arXiv](https://arxiv.org/abs/2405.05941) |
+| 2 | Flow as the Cross-Domain Manipulation Interface | [arXiv](https://arxiv.org/abs/2407.15208) |
+| 3 | Track2Act Predicting Point Tracks from Internet Videos enables Dive... | [arXiv](https://arxiv.org/abs/2405.01527) |
+| 4 | Continuously Improving Mobile Manipulation with Autonomous Real-Wor... | [arXiv](https://arxiv.org/abs/2409.20568) |
+| 5 | CrossFormer Scaling Cross-Embodied Learning for Manipulation | [arXiv](https://arxiv.org/abs/2408.11812) |
+| 6 | HIL-SERL Precise and Dexterous Robotic Manipulation via Human-in-th... | [arXiv](https://arxiv.org/abs/2405.02287) |
+| 7 | Learning to Transfer Human Hand Skills for Robot Manipulations | [Google Scholar](https://scholar.google.com/scholar?q=Learning%20to%20Transfer%20Human%20Hand%20Skills%20for%20Robot%20Manipulations) |
+| 8 | MPI Learning Manipulation by Predicting Interaction | [arXiv](https://arxiv.org/abs/2406.00439) |
+| 9 | Position Scaling Simulation is Neither Necessary Nor Sufficient for... | [Google Scholar](https://scholar.google.com/scholar?q=Position%20Scaling%20Simulation%20is%20Neither%20Necessary%20Nor%20Sufficient%20for%20In-the-Wild%20Robot%20Manipulation) |
+| 10 | ReKep Spatio-Temporal Reasoning of Relational Keypoint Constraints ... | [arXiv](https://arxiv.org/abs/2409.01652) |
+| 11 | GraspSplats: Efficient Manipulation with 3D Feature Splatting | [arXiv](https://arxiv.org/abs/2409.02084) |
+| 12 | RiEMann: Near Real-Time SE(3)-Equivariant Robot Manipulation withou... | [arXiv](https://arxiv.org/abs/2403.19460) |
+| 13 | SAGE: Bridging Semantic and Actionable Parts for Generalizable Arti... |  |
+| 14 | RVT-2: Learning Precise Manipulation from Few Demonstrations |  |
+| 15 | CooHOI: Learning Cooperative Human-Object Interaction with Manipula... | [arXiv](https://arxiv.org/abs/2406.14558) |
+
+**2023**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | On Bringing Robots Home | [arXiv](https://arxiv.org/abs/2311.16098) |
+
+**2018**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robot... | [arXiv](https://arxiv.org/abs/1806.10293) |
+
+**1968**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | The Kinematics of Manipulators Under Computer Control | [Google Scholar](https://scholar.google.com/scholar?q=The%20Kinematics%20of%20Manipulators%20Under%20Computer%20Control) |
+
+
+<a id="grasping"></a>
+## Grasping (23 篇)
+
+**2026**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Human Universal Grasping | [arXiv](https://arxiv.org/abs/2606.17054) |
+
+**2025**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | A Careful Examination of Large Behavior Models for Multitask Dexter... | [arXiv](https://arxiv.org/abs/2507.05331) |
+| 2 | D(R,O) Grasp: A Unified Representation of Robot and Object Interact... | [arXiv](https://arxiv.org/abs/2410.01702) |
+
+**2024**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Complementarity-Free Multi-Contact Modeling and Optimization for De... | [arXiv](https://arxiv.org/abs/2408.07855) |
+| 2 | Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipula... | [arXiv](https://arxiv.org/abs/2411.13148) |
+| 3 | Object-Centric Dexterous Manipulation from Human Motion Data | [arXiv](https://arxiv.org/abs/2411.04005) |
+| 4 | SpringGrasp Synthesizing Compliant Dexterous Grasps under Shape Unc... | [arXiv](https://arxiv.org/abs/2404.13532) |
+| 5 | AnyDexGrasp Learning General Dexterous Grasping for Any Hands with ... | [arXiv](https://arxiv.org/abs/2309.06038) |
+| 6 | DexCatch Learning to Catch Arbitrary Objects with Dexterous Hands | [arXiv](https://arxiv.org/abs/2310.08809) |
+| 7 | DexSinGrasp Learning a Unified Policy for Dexterous Object Singulat... | [arXiv](https://arxiv.org/abs/2504.04516) |
+| 8 | DextrAH-RGB Visuomotor Policies to Grasp Anything with Dexterous Hands | [arXiv](https://arxiv.org/abs/2412.01791) |
+| 9 | Do as I Do Dexterous Manipulation Data from Everyday Human Videos | [arXiv](https://arxiv.org/abs/2606.19333) |
+| 10 | EyeSight Hand Design of a Fully-Actuated Dexterous Robot Hand with ... | [arXiv](https://arxiv.org/abs/2408.06265) |
+| 11 | Grasp Multiple Objects with One Hand | [arXiv](https://arxiv.org/abs/2310.15599) |
+| 12 | KODex On the Utility of Koopman Operator Theory in Learning Dextero... | [arXiv](https://arxiv.org/abs/2303.13446) |
+| 13 | Omnigrasp Grasping Diverse Objects with Simulated Humanoids | [arXiv](https://arxiv.org/abs/2407.11385) |
+| 14 | The GRASP Taxonomy of Human Grasp Types | [Google Scholar](https://scholar.google.com/scholar?q=The%20GRASP%20Taxonomy%20of%20Human%20Grasp%20Types) |
+| 15 | DeliGrasp: Inferring Object Properties with LLMs for Adaptive Grasp... |  |
+
+**2023**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Learning a Universal Human Prior for Dexterous Manipulation from Hu... | [arXiv](https://arxiv.org/abs/2304.04602) |
+| 2 | RA-L 2023, Learning Continuous Grasping Function with a Dexterous H... | [arXiv](https://arxiv.org/abs/2207.05053) |
+| 3 | GraspGF Learning Score-based Grasping Primitive for Human-assisting... | [arXiv](https://arxiv.org/abs/2309.06038) |
+
+**2022**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Learning to use chopsticks in diverse gripping styles | [arXiv](https://arxiv.org/abs/2205.14313) |
+
+**2020**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | DexRes Physics-Based Dexterous Manipulations with Estimated Hand Po... | [Google Scholar](https://scholar.google.com/scholar?q=DexRes%20Physics-Based%20Dexterous%20Manipulations%20with%20Estimated%20Hand%20Poses%20and%20Residual%20Reinforcement%20Le) |
+
+
+<a id="humanoid-robotics"></a>
+## Humanoid Robotics (17 篇)
+
+**2026**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | OmniContact Chaining Meta-Skills via Contact Flow for Generalizable... | [arXiv](https://arxiv.org/abs/2606.26201) |
+
+**2025**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation | [arXiv](https://arxiv.org/abs/2502.10894) |
+| 2 | Versatile Loco-Manipulation through Flexible Interlimb Coordination | [arXiv](https://arxiv.org/abs/2506.07876) |
+| 3 | ExtremControl Low-Latency Humanoid Teleoperation with Direct Extrem... | [arXiv](https://arxiv.org/abs/2602.11321) |
+| 4 | I-CTRL Imitation to Control Humanoid Robots Through Constrained Rei... | [arXiv](https://arxiv.org/abs/2405.08726) |
+| 5 | InterMimic Towards Universal Whole-Body Control for Physics-Based H... | [arXiv](https://arxiv.org/abs/2502.20390) |
+| 6 | MotionDisco Motion Discovery for Extreme Humanoid Loco-Manipulation | [arXiv](https://arxiv.org/abs/2606.06139) |
+| 7 | Opt2Skill Imitating Dynamically-feasible Whole-Body Trajectories fo... | [arXiv](https://arxiv.org/abs/2409.20514) |
+| 8 | WildLMA Long Horizon Loco-MAnipulation in the Wild | [arXiv](https://arxiv.org/abs/2411.15131) |
+
+**2024**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Fusing uncalibrated IMUs and handheld smartphone video to reconstru... | [arXiv](https://arxiv.org/abs/2405.17368) |
+| 2 | Humanoid Locomotion as Next Token Prediction | [arXiv](https://arxiv.org/abs/2402.19469) |
+| 3 | Humanoid Parkour Learning | [arXiv](https://arxiv.org/abs/2406.10759) |
+| 4 | Learning Humanoid Locomotion over Challenging Terrain | [arXiv](https://arxiv.org/abs/2410.03654) |
+| 5 | OKAMI Teaching Humanoid Robots Manipulation Skills through Single V... | [arXiv](https://arxiv.org/abs/2410.11792) |
+| 6 | CoorDex Coordinating Body and Hand Priors for Continuous Dexterous ... | [arXiv](https://arxiv.org/abs/2606.23680) |
+| 7 | WARP Whole-Body Retargeting for Learning from Offline Human Demonst... | [arXiv](https://arxiv.org/abs/2606.29940) |
+
+**2023**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Sim-to-Real Learning for Humanoid Box Loco-Manipulation | [arXiv](https://arxiv.org/abs/2310.03191) |
+
+
+<a id="humanoid--bimanual"></a>
+## Humanoid & Bimanual (6 篇)
+
+**2025**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Visual Imitation Enables Contextual Humanoid Control | [arXiv](https://arxiv.org/abs/2505.03729) |
+
+**2024**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleo... | [arXiv](https://arxiv.org/abs/2406.08858) |
+| 2 | HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomoti... | [arXiv](https://arxiv.org/abs/2403.10506) |
+| 3 | WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts |  |
+| 4 | Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation (H2O | [arXiv](https://arxiv.org/abs/2403.04436) |
+| 5 | HumanPlus: Humanoid Shadowing and Imitation from Humans | [arXiv](https://arxiv.org/abs/2406.10454) |
+
+
+<a id="locomotion"></a>
+## Locomotion (20 篇)
+
+**2025**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Generalized Animal Imitator Agile Locomotion with Versatile Motion ... | [arXiv](https://arxiv.org/abs/2310.01408) |
+| 2 | NaVILA Legged Robot Vision-Language-Action Model for Navigation | [arXiv](https://arxiv.org/abs/2411.19650) |
+| 3 | Gait-Conditioned Reinforcement Learning with Multi-Phase Curriculum... | [arXiv](https://arxiv.org/abs/2505.20619) |
+
+**2024**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Full-Order Sampling-Based MPC for Torque-Level Locomotion Control v... | [arXiv](https://arxiv.org/abs/2409.15610) |
+| 2 | Helpful DoggyBot Open-World Object Fetching using Legged Robots and... | [arXiv](https://arxiv.org/abs/2410.00231) |
+| 3 | Learning Force Control for Legged Manipulation | [arXiv](https://arxiv.org/abs/2405.01402) |
+| 4 | Learning Humanoid Locomotion over Challenging Terrain | [arXiv](https://arxiv.org/abs/2410.03654) |
+| 5 | RA-L 2024, SLoMo A General System for Legged Robot Motion Imitation... | [arXiv](https://arxiv.org/abs/2304.14389) | [Code](https://slomo-legs.github.io) |
+| 6 | Grow Your Limits Continuous Improvement with Real-World RL for Robo... | [arXiv](https://arxiv.org/abs/2310.17634) |
+| 7 | Learning Robotic Locomotion Affordances and Photorealistic Simulato... | [Google Scholar](https://scholar.google.com/scholar?q=Learning%20Robotic%20Locomotion%20Affordances%20and%20Photorealistic%20Simulators%20from%20Human-Captured%20Data) |
+| 8 | Learning coordinated badminton skills for legged manipulators | [Google Scholar](https://scholar.google.com/scholar?q=Learning%20coordinated%20badminton%20skills%20for%20legged%20manipulators) |
+| 9 | LucidSim Learning Agile Visual Locomotion from Generated Images | [Google Scholar](https://scholar.google.com/scholar?q=LucidSim%20Learning%20Agile%20Visual%20Locomotion%20from%20Generated%20Images) |
+| 10 | Advancing Humanoid Locomotion: Mastering Challenging Terrains with ... |  |
+| 11 | Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion |  |
+
+**2023**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Extreme Parkour with Legged Robots | [arXiv](https://arxiv.org/abs/2309.14341) |
+| 2 | Learning Vision-Based Bipedal Locomotion for Challenging Terrain  T... | [arXiv](https://arxiv.org/abs/2309.14594) |
+| 3 | Learning Vision-based Pursuit-Evasion Robot Policies | [arXiv](https://arxiv.org/abs/2308.16185) |
+| 4 | Prompt a Robot to Walk with Large Language Models | [arXiv](https://arxiv.org/abs/2309.09969) |
+| 5 | Robust and Versatile Bipedal Jumping Control through Reinforcement ... | [arXiv](https://arxiv.org/abs/2302.09450) |
+| 6 | Barkour Benchmarking Animal-level Agility with Quadruped Robots | [arXiv](https://arxiv.org/abs/2305.14654) |
+
+
+<a id="policy-learning"></a>
+## Policy Learning (95 篇)
+
+<a id="policy-learning-diffusion-policy"></a>
+### Diffusion Policy (58 篇)
+
+**2025**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -225,7 +470,7 @@
 | 3 | This&That: Language-Gesture Controlled Video Generation for Robot P... | [arXiv](https://arxiv.org/abs/2407.05530) |
 | 4 | ET-SEED: Efficient Trajectory-Level SE(3) Equivariant Diffusion Policy | [arXiv](https://arxiv.org/abs/2411.03990) |
 
-### 2024
+**2024**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -240,7 +485,7 @@
 | 9 | Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning |  |
 | 10 | Learning an Actionable Discrete Diffusion Policy via Large-Scale Ac... | [arXiv](https://arxiv.org/abs/2402.14407) |
 
-### 2023
+**2023**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -269,7 +514,7 @@
 | 23 | LAD Language Augmented Diffusion for Reinforcement Learning.](https... | [arXiv](https://arxiv.org/abs/2305.18278) |
 | 24 | MADiff Offline Multi-agent Learning with Diffusion Models.](httpsar... | [arXiv](https://arxiv.org/abs/2305.12322) |
 
-### 2022
+**2022**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -289,14 +534,14 @@
 | 14 | dpm-solver | [arXiv](https://arxiv.org/abs/2206.00927) |
 | 15 | k-diffusion Elucidating the Design Space of Diffusion-Based Generat... | [arXiv](https://arxiv.org/abs/2206.00364) |
 
-### 2021
+**2021**
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | Guided Diffusion Diffusion Models Beat GANS on Image Synthesis | [arXiv](https://arxiv.org/abs/2105.05233) |
 | 2 | iDDPM Improved Denoising Diffusion Probabilistic Models | [arXiv](https://arxiv.org/abs/2006.11239) |
 
-### 2020
+**2020**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -304,11 +549,10 @@
 | 2 | Denoising Diffusion Probabilistic Models | [arXiv](https://arxiv.org/abs/2006.11239) |
 | 3 | DDIM Denoising Diffusion Implicit Models | [arXiv](https://arxiv.org/abs/2010.02502) |
 
+<a id="policy-learning-reinforcement-learning"></a>
+### Reinforcement Learning (37 篇)
 
-<a id="reinforcement-learning"></a>
-## Reinforcement Learning (37 篇)
-
-### 2025
+**2025**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -318,7 +562,7 @@
 | 4 | Body Transformer Leveraging Robot Embodiment for Policy Learning | [arXiv](https://arxiv.org/abs/2408.06316) |
 | 5 | FACTR Force-Attending Curriculum Training for Contact-Rich Policy L... | [arXiv](https://arxiv.org/abs/2502.17432) |
 
-### 2024
+**2024**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -338,7 +582,7 @@
 | 14 | RIME: Robust Preference-based Reinforcement Learning with Noisy Pre... | [arXiv](https://arxiv.org/abs/2402.17257) |
 | 15 | TRACER: Uncertainty-based Offline Variational Bayesian Reinforcemen... | [arXiv](https://arxiv.org/abs/2411.00465) |
 
-### 2023
+**2023**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -347,7 +591,7 @@
 | 3 | Action Space Design in Reinforcement Learning for Robot Motor Skills | [Google Scholar](https://scholar.google.com/scholar?q=Action%20Space%20Design%20in%20Reinforcement%20Learning%20for%20Robot%20Motor%20Skills) |
 | 4 | DreamerV3 Mastering Diverse Domains through World Models | [arXiv](https://arxiv.org/abs/2301.04104) |
 
-### 2022
+**2022**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -356,7 +600,7 @@
 | 3 | R3M A Universal Visual Representation for Robot Manipulation | [arXiv](https://arxiv.org/abs/2203.12601) |
 | 4 | VRL3 A Data-Driven Framework for Visual Deep Reinforcement Learning | [arXiv](https://arxiv.org/abs/2202.10324) |
 
-### 2021
+**2021**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -368,310 +612,26 @@
 | 6 | IQL Offline Reinforcement Learning with Implicit Q-Learning | [arXiv](https://arxiv.org/abs/2110.06169) |
 | 7 | RRL Resnet as representation for Reinforcement Learning | [arXiv](https://arxiv.org/abs/2107.03316) |
 
-### 2019
+**2019**
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | Self-Supervised Correspondence in Visuomotor Policy Learning | [arXiv](https://arxiv.org/abs/1909.06933) |
 
-### 2017
+**2017**
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | DDPGfD Leveraging Demonstrations for Deep Reinforcement Learning on... | [arXiv](https://arxiv.org/abs/1707.08817) |
 
 
-<a id="world-models"></a>
-## World Models (6 篇)
+<a id="simulation--world-models"></a>
+## Simulation & World Models (16 篇)
 
-### 2025
+<a id="simulation--world-models-simulation"></a>
+### Simulation (10 篇)
 
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Cosmos 3 Omnimodal World Models for Physical AI | [arXiv](https://arxiv.org/abs/2606.02800) |
-| 2 | Strengthening Generative Robot Policies through Predictive World Mo... | [Google Scholar](https://scholar.google.com/scholar?q=Strengthening%20Generative%20Robot%20Policies%20through%20Predictive%20World%20Modeling) |
-| 3 | The Matrix Infinite-Horizon World Generation with Real-Time Moving ... | [arXiv](https://arxiv.org/abs/2412.03568) |
-
-### 2024
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Generative World Explorer | [arXiv](https://arxiv.org/abs/2411.11844) |
-| 2 | Pandora Towards General World Model with Natural Language Actions a... | [arXiv](https://arxiv.org/abs/2406.09455) |
-| 3 | PIVOT-R: Waypoint-Aware World Model for Language-Guided Robotic Man... | [arXiv](https://arxiv.org/abs/2410.10394) |
-
-
-<a id="manipulation"></a>
-## Manipulation (37 篇)
-
-### 2026
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | AnyDexRT: Calibration-Free Dexterous Hand Retargeting with Few-Shot... | [arXiv](https://arxiv.org/abs/2607.08341) | [Code](https://chenxi-wang.github.io/projects/anydexrt/) |
-| 2 | DexTwist: Dexterous Hand Retargeting for Twist Motion via Mixed Rea... | [arXiv](https://arxiv.org/abs/2605.12182) |
-| 3 | Kilohertz-Safe: A Scalable Framework for Constrained Dexterous Reta... | [arXiv](https://arxiv.org/abs/2603.29213) |
-| 4 | Vision-Based Hand Shadowing for Robotic Manipulation via Inverse Ki... | [arXiv](https://arxiv.org/abs/2603.11383) |
-
-### 2025
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation | [arXiv](https://arxiv.org/abs/2502.10894) |
-| 2 | ManipTrans Efficient Dexterous Bimanual Manipulation Transfer via R... | [arXiv](https://arxiv.org/abs/2503.21860) |
-| 3 | BUMBLE Unifying Reasoning and Acting with Vision-Language Models fo... | [arXiv](https://arxiv.org/abs/2410.06237) |
-| 4 | CogACT A Foundational Vision-Language-Action Model for Synergizing ... | [arXiv](https://arxiv.org/abs/2411.19650) |
-| 5 | PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-Rich Man... | [arXiv](https://arxiv.org/abs/2504.19341) |
-| 6 | Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integr... | [arXiv](https://arxiv.org/abs/2506.05168) |
-| 7 | Learning from Imperfect Demonstrations with Self-Supervision for Ro... | [arXiv](https://arxiv.org/abs/2401.08957) |
-| 8 | LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and... | [arXiv](https://arxiv.org/abs/2409.20560) |
-| 9 | OmniManip: Towards General Robotic Manipulation via Object-Centric ... | [arXiv](https://arxiv.org/abs/2501.03841) |
-| 10 | G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizabl... | [arXiv](https://arxiv.org/abs/2411.18369) |
-| 11 | AR-VRM: Imitating Human Motions for Visual Robot Manipulation with ... | [arXiv](https://arxiv.org/abs/2508.07626) |
-| 12 | SPIDER: Scalable Physics-Informed Dexterous Retargeting | [arXiv](https://arxiv.org/abs/2511.09484) | [Code](https://jc-bao.github.io/spider-project/) |
-| 13 | Geometric Retargeting: A Principled, Ultrafast Neural Hand Retarget... | [arXiv](https://arxiv.org/abs/2503.07541) | [Code](https://github.com/facebookresearch/GeoRT) |
-| 14 | Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterou... | [arXiv](https://arxiv.org/abs/2506.09384) | [Code](https://mingrui-yu.github.io/retargeting/) |
-| 15 | Kinematic Motion Retargeting for Contact-Rich Anthropomorphic Manip... | [arXiv](https://arxiv.org/abs/2402.04820) | [Code](https://github.com/lakshmipathyarjun6/kinematic-motion-retargeting) |
-
-### 2024
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Evaluating Real-World Robot Manipulation Policies in Simulation | [arXiv](https://arxiv.org/abs/2405.05941) |
-| 2 | Flow as the Cross-Domain Manipulation Interface | [arXiv](https://arxiv.org/abs/2407.15208) |
-| 3 | Track2Act Predicting Point Tracks from Internet Videos enables Dive... | [arXiv](https://arxiv.org/abs/2405.01527) |
-| 4 | Continuously Improving Mobile Manipulation with Autonomous Real-Wor... | [arXiv](https://arxiv.org/abs/2409.20568) |
-| 5 | CrossFormer Scaling Cross-Embodied Learning for Manipulation | [arXiv](https://arxiv.org/abs/2408.11812) |
-| 6 | HIL-SERL Precise and Dexterous Robotic Manipulation via Human-in-th... | [arXiv](https://arxiv.org/abs/2405.02287) |
-| 7 | Learning to Transfer Human Hand Skills for Robot Manipulations | [Google Scholar](https://scholar.google.com/scholar?q=Learning%20to%20Transfer%20Human%20Hand%20Skills%20for%20Robot%20Manipulations) |
-| 8 | MPI Learning Manipulation by Predicting Interaction | [arXiv](https://arxiv.org/abs/2406.00439) |
-| 9 | Position Scaling Simulation is Neither Necessary Nor Sufficient for... | [Google Scholar](https://scholar.google.com/scholar?q=Position%20Scaling%20Simulation%20is%20Neither%20Necessary%20Nor%20Sufficient%20for%20In-the-Wild%20Robot%20Manipulation) |
-| 10 | ReKep Spatio-Temporal Reasoning of Relational Keypoint Constraints ... | [arXiv](https://arxiv.org/abs/2409.01652) |
-| 11 | GraspSplats: Efficient Manipulation with 3D Feature Splatting | [arXiv](https://arxiv.org/abs/2409.02084) |
-| 12 | RiEMann: Near Real-Time SE(3)-Equivariant Robot Manipulation withou... | [arXiv](https://arxiv.org/abs/2403.19460) |
-| 13 | SAGE: Bridging Semantic and Actionable Parts for Generalizable Arti... |  |
-| 14 | RVT-2: Learning Precise Manipulation from Few Demonstrations |  |
-| 15 | CooHOI: Learning Cooperative Human-Object Interaction with Manipula... | [arXiv](https://arxiv.org/abs/2406.14558) |
-
-### 2023
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | On Bringing Robots Home | [arXiv](https://arxiv.org/abs/2311.16098) |
-
-### 2018
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robot... | [arXiv](https://arxiv.org/abs/1806.10293) |
-
-### 1968
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | The Kinematics of Manipulators Under Computer Control | [Google Scholar](https://scholar.google.com/scholar?q=The%20Kinematics%20of%20Manipulators%20Under%20Computer%20Control) |
-
-
-<a id="grasping"></a>
-## Grasping (24 篇)
-
-### 2026
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Human Universal Grasping | [arXiv](https://arxiv.org/abs/2606.17054) |
-
-### 2025
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | A Careful Examination of Large Behavior Models for Multitask Dexter... | [arXiv](https://arxiv.org/abs/2507.05331) |
-| 2 | D(R,O) Grasp: A Unified Representation of Robot and Object Interact... | [arXiv](https://arxiv.org/abs/2410.01702) |
-
-### 2024
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Complementarity-Free Multi-Contact Modeling and Optimization for De... | [arXiv](https://arxiv.org/abs/2408.07855) |
-| 2 | Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipula... | [arXiv](https://arxiv.org/abs/2411.13148) |
-| 3 | Object-Centric Dexterous Manipulation from Human Motion Data | [arXiv](https://arxiv.org/abs/2411.04005) |
-| 4 | SpringGrasp Synthesizing Compliant Dexterous Grasps under Shape Unc... | [arXiv](https://arxiv.org/abs/2404.13532) |
-| 5 | AnyDexGrasp Learning General Dexterous Grasping for Any Hands with ... | [arXiv](https://arxiv.org/abs/2309.06038) |
-| 6 | DexCatch Learning to Catch Arbitrary Objects with Dexterous Hands | [arXiv](https://arxiv.org/abs/2310.08809) |
-| 7 | DexSinGrasp Learning a Unified Policy for Dexterous Object Singulat... | [arXiv](https://arxiv.org/abs/2504.04516) |
-| 8 | DextrAH-RGB Visuomotor Policies to Grasp Anything with Dexterous Hands | [arXiv](https://arxiv.org/abs/2412.01791) |
-| 9 | Do as I Do Dexterous Manipulation Data from Everyday Human Videos | [arXiv](https://arxiv.org/abs/2606.19333) |
-| 10 | EyeSight Hand Design of a Fully-Actuated Dexterous Robot Hand with ... | [arXiv](https://arxiv.org/abs/2408.06265) |
-| 11 | Grasp Multiple Objects with One Hand | [arXiv](https://arxiv.org/abs/2310.15599) |
-| 12 | KODex On the Utility of Koopman Operator Theory in Learning Dextero... | [arXiv](https://arxiv.org/abs/2303.13446) |
-| 13 | Omnigrasp Grasping Diverse Objects with Simulated Humanoids | [arXiv](https://arxiv.org/abs/2407.11385) |
-| 14 | The GRASP Taxonomy of Human Grasp Types | [Google Scholar](https://scholar.google.com/scholar?q=The%20GRASP%20Taxonomy%20of%20Human%20Grasp%20Types) |
-| 15 | TopoRetarget Interaction-Preserving Retargeting for Dexterous Manip... | [arXiv](https://arxiv.org/abs/2606.16272) |
-| 16 | DeliGrasp: Inferring Object Properties with LLMs for Adaptive Grasp... |  |
-
-### 2023
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Learning a Universal Human Prior for Dexterous Manipulation from Hu... | [arXiv](https://arxiv.org/abs/2304.04602) |
-| 2 | RA-L 2023, Learning Continuous Grasping Function with a Dexterous H... | [arXiv](https://arxiv.org/abs/2207.05053) |
-| 3 | GraspGF Learning Score-based Grasping Primitive for Human-assisting... | [arXiv](https://arxiv.org/abs/2309.06038) |
-
-### 2022
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Learning to use chopsticks in diverse gripping styles | [arXiv](https://arxiv.org/abs/2205.14313) |
-
-### 2020
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | DexRes Physics-Based Dexterous Manipulations with Estimated Hand Po... | [Google Scholar](https://scholar.google.com/scholar?q=DexRes%20Physics-Based%20Dexterous%20Manipulations%20with%20Estimated%20Hand%20Poses%20and%20Residual%20Reinforcement%20Le) |
-
-
-<a id="humanoid-robotics"></a>
-## Humanoid Robotics (17 篇)
-
-### 2026
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | OmniContact Chaining Meta-Skills via Contact Flow for Generalizable... | [arXiv](https://arxiv.org/abs/2606.26201) |
-
-### 2025
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation | [arXiv](https://arxiv.org/abs/2502.10894) |
-| 2 | Versatile Loco-Manipulation through Flexible Interlimb Coordination | [arXiv](https://arxiv.org/abs/2506.07876) |
-| 3 | ExtremControl Low-Latency Humanoid Teleoperation with Direct Extrem... | [arXiv](https://arxiv.org/abs/2602.11321) |
-| 4 | I-CTRL Imitation to Control Humanoid Robots Through Constrained Rei... | [arXiv](https://arxiv.org/abs/2405.08726) |
-| 5 | InterMimic Towards Universal Whole-Body Control for Physics-Based H... | [arXiv](https://arxiv.org/abs/2502.20390) |
-| 6 | MotionDisco Motion Discovery for Extreme Humanoid Loco-Manipulation | [arXiv](https://arxiv.org/abs/2606.06139) |
-| 7 | Opt2Skill Imitating Dynamically-feasible Whole-Body Trajectories fo... | [arXiv](https://arxiv.org/abs/2409.20514) |
-| 8 | WildLMA Long Horizon Loco-MAnipulation in the Wild | [arXiv](https://arxiv.org/abs/2411.15131) |
-
-### 2024
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Fusing uncalibrated IMUs and handheld smartphone video to reconstru... | [arXiv](https://arxiv.org/abs/2405.17368) |
-| 2 | Humanoid Locomotion as Next Token Prediction | [arXiv](https://arxiv.org/abs/2402.19469) |
-| 3 | Humanoid Parkour Learning | [arXiv](https://arxiv.org/abs/2406.10759) |
-| 4 | Learning Humanoid Locomotion over Challenging Terrain | [arXiv](https://arxiv.org/abs/2410.03654) |
-| 5 | OKAMI Teaching Humanoid Robots Manipulation Skills through Single V... | [arXiv](https://arxiv.org/abs/2410.11792) |
-| 6 | CoorDex Coordinating Body and Hand Priors for Continuous Dexterous ... | [arXiv](https://arxiv.org/abs/2606.23680) |
-| 7 | WARP Whole-Body Retargeting for Learning from Offline Human Demonst... | [arXiv](https://arxiv.org/abs/2606.29940) |
-
-### 2023
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Sim-to-Real Learning for Humanoid Box Loco-Manipulation | [arXiv](https://arxiv.org/abs/2310.03191) |
-
-
-<a id="locomotion"></a>
-## Locomotion (20 篇)
-
-### 2025
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Generalized Animal Imitator Agile Locomotion with Versatile Motion ... | [arXiv](https://arxiv.org/abs/2310.01408) |
-| 2 | NaVILA Legged Robot Vision-Language-Action Model for Navigation | [arXiv](https://arxiv.org/abs/2411.19650) |
-| 3 | Gait-Conditioned Reinforcement Learning with Multi-Phase Curriculum... | [arXiv](https://arxiv.org/abs/2505.20619) |
-
-### 2024
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Full-Order Sampling-Based MPC for Torque-Level Locomotion Control v... | [arXiv](https://arxiv.org/abs/2409.15610) |
-| 2 | Helpful DoggyBot Open-World Object Fetching using Legged Robots and... | [arXiv](https://arxiv.org/abs/2410.00231) |
-| 3 | Learning Force Control for Legged Manipulation | [arXiv](https://arxiv.org/abs/2405.01402) |
-| 4 | Learning Humanoid Locomotion over Challenging Terrain | [arXiv](https://arxiv.org/abs/2410.03654) |
-| 5 | RA-L 2024, SLoMo A General System for Legged Robot Motion Imitation... | [arXiv](https://arxiv.org/abs/2304.14389) | [Code](https://slomo-legs.github.io) |
-| 6 | Grow Your Limits Continuous Improvement with Real-World RL for Robo... | [arXiv](https://arxiv.org/abs/2310.17634) |
-| 7 | Learning Robotic Locomotion Affordances and Photorealistic Simulato... | [Google Scholar](https://scholar.google.com/scholar?q=Learning%20Robotic%20Locomotion%20Affordances%20and%20Photorealistic%20Simulators%20from%20Human-Captured%20Data) |
-| 8 | Learning coordinated badminton skills for legged manipulators | [Google Scholar](https://scholar.google.com/scholar?q=Learning%20coordinated%20badminton%20skills%20for%20legged%20manipulators) |
-| 9 | LucidSim Learning Agile Visual Locomotion from Generated Images | [Google Scholar](https://scholar.google.com/scholar?q=LucidSim%20Learning%20Agile%20Visual%20Locomotion%20from%20Generated%20Images) |
-| 10 | Advancing Humanoid Locomotion: Mastering Challenging Terrains with ... |  |
-| 11 | Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion |  |
-
-### 2023
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Extreme Parkour with Legged Robots | [arXiv](https://arxiv.org/abs/2309.14341) |
-| 2 | Learning Vision-Based Bipedal Locomotion for Challenging Terrain  T... | [arXiv](https://arxiv.org/abs/2309.14594) |
-| 3 | Learning Vision-based Pursuit-Evasion Robot Policies | [arXiv](https://arxiv.org/abs/2308.16185) |
-| 4 | Prompt a Robot to Walk with Large Language Models | [arXiv](https://arxiv.org/abs/2309.09969) |
-| 5 | Robust and Versatile Bipedal Jumping Control through Reinforcement ... | [arXiv](https://arxiv.org/abs/2302.09450) |
-| 6 | Barkour Benchmarking Animal-level Agility with Quadruped Robots | [arXiv](https://arxiv.org/abs/2305.14654) |
-
-
-<a id="motion-tracking"></a>
-## Motion Tracking (3 篇)
-
-### 2024
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Learning-based Trajectory Tracking for Bird-inspired Flapping-Wing ... | [arXiv](https://arxiv.org/abs/2411.15130) |
-| 2 | Model-based Diffusion for Trajectory Optimization | [arXiv](https://arxiv.org/abs/2407.01573) |
-| 3 | Motion Prompting Controlling Video Generation with Motion Trajectories | [Google Scholar](https://scholar.google.com/scholar?q=Motion%20Prompting%20Controlling%20Video%20Generation%20with%20Motion%20Trajectories) |
-
-
-<a id="tactile-sensing"></a>
-## Tactile Sensing (5 篇)
-
-### 2025
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Feel the Force Contact-Driven Learning from Humans | [arXiv](https://arxiv.org/abs/2506.01944) |
-| 2 | UniT Unified Tactile Representation for Robot Learning | [arXiv](https://arxiv.org/abs/2502.12191) |
-
-### 2024
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | AnySkin Plug-and-play Skin Sensing for Robotic Touch | [Google Scholar](https://scholar.google.com/scholar?q=AnySkin%20Plug-and-play%20Skin%20Sensing%20for%20Robotic%20Touch) |
-| 2 | Intrinsic sense of touch for intuitive physical human-robot interac... | [Google Scholar](https://scholar.google.com/scholar?q=Intrinsic%20sense%20of%20touch%20for%20intuitive%20physical%20human-robot%20interaction) |
-| 3 | RoboPack Learning Tactile-Informed Dynamics Models for Dense Packing | [Google Scholar](https://scholar.google.com/scholar?q=RoboPack%20Learning%20Tactile-Informed%20Dynamics%20Models%20for%20Dense%20Packing) |
-
-
-<a id="teleoperation"></a>
-## Teleoperation (1 篇)
-
-### 2024
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Open-TeleVision Teleoperation with Immersive Active Visual Feedback | [arXiv](https://arxiv.org/abs/2407.01512) |
-
-
-<a id="navigation"></a>
-## Navigation (3 篇)
-
-### 2024
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Vid2Sim Realistic and Interactive Simulation from Video for Urban N... | [Google Scholar](https://scholar.google.com/scholar?q=Vid2Sim%20Realistic%20and%20Interactive%20Simulation%20from%20Video%20for%20Urban%20Navigation) |
-| 2 | LeLaN: Learning A Language-Conditioned Navigation Policy from In-th... |  |
-
-### 2023
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | High-speed control and navigation for quadrupedal robots on complex... | [Google Scholar](https://scholar.google.com/scholar?q=High-speed%20control%20and%20navigation%20for%20quadrupedal%20robots%20on%20complex%20and%20discrete%20terrain) |
-
-
-<a id="simulation"></a>
-## Simulation (10 篇)
-
-### 2025
+**2025**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -679,7 +639,7 @@
 | 2 | Genesis A Generative and Universal Physics Engine for Robotics and ... | [Google Scholar](https://scholar.google.com/scholar?q=Genesis%20A%20Generative%20and%20Universal%20Physics%20Engine%20for%20Robotics%20and%20Beyond) |
 | 3 | UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI | [arXiv](https://arxiv.org/abs/2412.20977) |
 
-### 2024
+**2024**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -690,23 +650,133 @@
 | 5 | RoboGen: Towards Unleashing Infinite Data for Automated Robot Learn... | [arXiv](https://arxiv.org/abs/2311.01455) |
 | 6 | GarmentLab: A Unified Simulation and Benchmark for Garment Manipula... | [arXiv](https://arxiv.org/abs/2411.01200) |
 
-### 2023
+**2023**
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | IndustReal Transferring Contact-Rich Assembly Tasks from Simulation... | [arXiv](https://arxiv.org/abs/2305.17110) |
 
+<a id="simulation--world-models-world-models"></a>
+### World Models (6 篇)
+
+**2025**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Cosmos 3 Omnimodal World Models for Physical AI | [arXiv](https://arxiv.org/abs/2606.02800) |
+| 2 | Strengthening Generative Robot Policies through Predictive World Mo... | [Google Scholar](https://scholar.google.com/scholar?q=Strengthening%20Generative%20Robot%20Policies%20through%20Predictive%20World%20Modeling) |
+| 3 | The Matrix Infinite-Horizon World Generation with Real-Time Moving ... | [arXiv](https://arxiv.org/abs/2412.03568) |
+
+**2024**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Generative World Explorer | [arXiv](https://arxiv.org/abs/2411.11844) |
+| 2 | Pandora Towards General World Model with Natural Language Actions a... | [arXiv](https://arxiv.org/abs/2406.09455) |
+| 3 | PIVOT-R: Waypoint-Aware World Model for Language-Guided Robotic Man... | [arXiv](https://arxiv.org/abs/2410.10394) |
+
+
+<a id="navigation--tracking"></a>
+## Navigation & Tracking (7 篇)
+
+<a id="navigation--tracking-motion-tracking"></a>
+### Motion Tracking (3 篇)
+
+**2024**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Learning-based Trajectory Tracking for Bird-inspired Flapping-Wing ... | [arXiv](https://arxiv.org/abs/2411.15130) |
+| 2 | Model-based Diffusion for Trajectory Optimization | [arXiv](https://arxiv.org/abs/2407.01573) |
+| 3 | Motion Prompting Controlling Video Generation with Motion Trajectories | [Google Scholar](https://scholar.google.com/scholar?q=Motion%20Prompting%20Controlling%20Video%20Generation%20with%20Motion%20Trajectories) |
+
+<a id="navigation--tracking-navigation"></a>
+### Navigation (3 篇)
+
+**2024**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Vid2Sim Realistic and Interactive Simulation from Video for Urban N... | [Google Scholar](https://scholar.google.com/scholar?q=Vid2Sim%20Realistic%20and%20Interactive%20Simulation%20from%20Video%20for%20Urban%20Navigation) |
+| 2 | LeLaN: Learning A Language-Conditioned Navigation Policy from In-th... |  |
+
+**2023**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | High-speed control and navigation for quadrupedal robots on complex... | [Google Scholar](https://scholar.google.com/scholar?q=High-speed%20control%20and%20navigation%20for%20quadrupedal%20robots%20on%20complex%20and%20discrete%20terrain) |
+
+<a id="navigation--tracking-teleoperation"></a>
+### Teleoperation (1 篇)
+
+**2024**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Open-TeleVision Teleoperation with Immersive Active Visual Feedback | [arXiv](https://arxiv.org/abs/2407.01512) |
+
+
+<a id="hardware--sensing"></a>
+## Hardware & Sensing (11 篇)
+
+<a id="hardware--sensing-hardware"></a>
+### Hardware (6 篇)
+
+**2026**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Universal Manipulation Exoskeleton Learning Compliant Whole-body Po... | [arXiv](https://arxiv.org/abs/2606.14218) |
+
+**2025**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Shape Your Body Value Gradients for Multi-Embodiment Robot Design | [Google Scholar](https://scholar.google.com/scholar?q=Shape%20Your%20Body%20Value%20Gradients%20for%20Multi-Embodiment%20Robot%20Design) |
+
+**2024**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | ART-Glove Articulated Tactile Glove for Contact-Grounded Dexterous ... | [Google Scholar](https://scholar.google.com/scholar?q=ART-Glove%20Articulated%20Tactile%20Glove%20for%20Contact-Grounded%20Dexterous%20Interaction%20Capture) |
+| 2 | DexWrist A Robotic Wrist for Constrained and Dynamic Manipulation | [Google Scholar](https://scholar.google.com/scholar?q=DexWrist%20A%20Robotic%20Wrist%20for%20Constrained%20and%20Dynamic%20Manipulation) |
+| 3 | HATO Learning Visuotactile Skills with Two Multifingered Hands | [Google Scholar](https://scholar.google.com/scholar?q=HATO%20Learning%20Visuotactile%20Skills%20with%20Two%20Multifingered%20Hands) |
+
+**2023**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Dynamic Pen Spinning Using a High-speed Multifingered Hand with Hig... | [Google Scholar](https://scholar.google.com/scholar?q=Dynamic%20Pen%20Spinning%20Using%20a%20High-speed%20Multifingered%20Hand%20with%20High-speed%20Tactile%20Sensor) |
+
+<a id="hardware--sensing-tactile-sensing"></a>
+### Tactile Sensing (5 篇)
+
+**2025**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Feel the Force Contact-Driven Learning from Humans | [arXiv](https://arxiv.org/abs/2506.01944) |
+| 2 | UniT Unified Tactile Representation for Robot Learning | [arXiv](https://arxiv.org/abs/2502.12191) |
+
+**2024**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | AnySkin Plug-and-play Skin Sensing for Robotic Touch | [Google Scholar](https://scholar.google.com/scholar?q=AnySkin%20Plug-and-play%20Skin%20Sensing%20for%20Robotic%20Touch) |
+| 2 | Intrinsic sense of touch for intuitive physical human-robot interac... | [Google Scholar](https://scholar.google.com/scholar?q=Intrinsic%20sense%20of%20touch%20for%20intuitive%20physical%20human-robot%20interaction) |
+| 3 | RoboPack Learning Tactile-Informed Dynamics Models for Dense Packing | [Google Scholar](https://scholar.google.com/scholar?q=RoboPack%20Learning%20Tactile-Informed%20Dynamics%20Models%20for%20Dense%20Packing) |
+
 
 <a id="data-generation"></a>
 ## Data Generation (12 篇)
 
-### 2026
+**2026**
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | VLK Learning Humanoid Loco-Manipulation from Synthetic Interactions... | [arXiv](https://arxiv.org/abs/2606.30645) |
 
-### 2025
+**2025**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -718,7 +788,7 @@
 | 6 | Robot Data Curation with Mutual Information Estimators | [Google Scholar](https://scholar.google.com/scholar?q=Robot%20Data%20Curation%20with%20Mutual%20Information%20Estimators) |
 | 7 | VLABench A Large-Scale Benchmark for Language-Conditioned Robotics ... | [Google Scholar](https://scholar.google.com/scholar?q=VLABench%20A%20Large-Scale%20Benchmark%20for%20Language-Conditioned%20Robotics%20Manipulation%20with%20Long-Horizon%20Re) |
 
-### 2024
+**2024**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -726,7 +796,7 @@
 | 2 | BiGym A Demo-Driven Mobile Bi-Manual Manipulation Benchmark | [Google Scholar](https://scholar.google.com/scholar?q=BiGym%20A%20Demo-Driven%20Mobile%20Bi-Manual%20Manipulation%20Benchmark) |
 | 3 | DemoGen Synthetic Demonstration Generation for Data-Efficient Visuo... | [Google Scholar](https://scholar.google.com/scholar?q=DemoGen%20Synthetic%20Demonstration%20Generation%20for%20Data-Efficient%20Visuomotor%20Policy%20Learning) |
 
-### 2023
+**2023**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -736,7 +806,7 @@
 <a id="video-generation"></a>
 ## Video Generation (5 篇)
 
-### 2025
+**2025**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -744,53 +814,23 @@
 | 2 | Generative Image as Action Models | [Google Scholar](https://scholar.google.com/scholar?q=Generative%20Image%20as%20Action%20Models) |
 | 3 | One-Minute Video Generation with Test-Time Training | [Google Scholar](https://scholar.google.com/scholar?q=One-Minute%20Video%20Generation%20with%20Test-Time%20Training) |
 
-### 2023
+**2023**
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | Generative Image Dynamics | [arXiv](https://arxiv.org/abs/2309.07906) |
 
-### 2018
+**2018**
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | StyleGAN A Style-Based Generator Architecture for Generative Advers... | [arXiv](https://arxiv.org/abs/1812.04948) |
 
 
-<a id="hardware"></a>
-## Hardware (6 篇)
-
-### 2026
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Universal Manipulation Exoskeleton Learning Compliant Whole-body Po... | [arXiv](https://arxiv.org/abs/2606.14218) |
-
-### 2025
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Shape Your Body Value Gradients for Multi-Embodiment Robot Design | [Google Scholar](https://scholar.google.com/scholar?q=Shape%20Your%20Body%20Value%20Gradients%20for%20Multi-Embodiment%20Robot%20Design) |
-
-### 2024
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | ART-Glove Articulated Tactile Glove for Contact-Grounded Dexterous ... | [Google Scholar](https://scholar.google.com/scholar?q=ART-Glove%20Articulated%20Tactile%20Glove%20for%20Contact-Grounded%20Dexterous%20Interaction%20Capture) |
-| 2 | DexWrist A Robotic Wrist for Constrained and Dynamic Manipulation | [Google Scholar](https://scholar.google.com/scholar?q=DexWrist%20A%20Robotic%20Wrist%20for%20Constrained%20and%20Dynamic%20Manipulation) |
-| 3 | HATO Learning Visuotactile Skills with Two Multifingered Hands | [Google Scholar](https://scholar.google.com/scholar?q=HATO%20Learning%20Visuotactile%20Skills%20with%20Two%20Multifingered%20Hands) |
-
-### 2023
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Dynamic Pen Spinning Using a High-speed Multifingered Hand with Hig... | [Google Scholar](https://scholar.google.com/scholar?q=Dynamic%20Pen%20Spinning%20Using%20a%20High-speed%20Multifingered%20Hand%20with%20High-speed%20Tactile%20Sensor) |
-
-
 <a id="others"></a>
 ## Others (202 篇)
 
-### 2026
+**2026**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -804,7 +844,7 @@
 | 8 | ORCA Open-Source | [arXiv](https://arxiv.org/abs/2606.14561) |
 | 9 | Text2CAD-Bench A Benchmark for LLM-based Text-to-Param | [arXiv](https://arxiv.org/abs/2605.18430) |
 
-### 2025
+**2025**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -821,7 +861,7 @@
 | 11 | LocoMan Advancing Versatile Quadrupedal Dexterity with Lightweight ... | [Google Scholar](https://scholar.google.com/scholar?q=LocoMan%20Advancing%20Versatile%20Quadrupedal%20Dexterity%20with%20Lightweight%20Loco-Manipulators) |
 | 12 | MonST3R A Simple Approach for Estimating Geometry in the Presence o... | [Google Scholar](https://scholar.google.com/scholar?q=MonST3R%20A%20Simple%20Approach%20for%20Estimating%20Geometry%20in%20the%20Presence%20of%20Motion) |
 
-### 2024
+**2024**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -908,7 +948,7 @@
 | 81 | Awesome Robot Learning Resources | [Google Scholar](https://scholar.google.com/scholar?q=website%20%20github) |
 | 82 | π0 A Vision-Language-Action Flow Model for General Robot Control | [arXiv](https://arxiv.org/abs/2410.24164) |
 
-### 2023
+**2023**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -980,7 +1020,7 @@
 | 66 | True Self-Supervised Novel View Synthesis is Transferable | [Google Scholar](https://scholar.google.com/scholar?q=True%20Self-Supervised%20Novel%20View%20Synthesis%20is%20Transferable) |
 | 67 | VQ-BeT Behavior Generation with Latent Actions | [Google Scholar](https://scholar.google.com/scholar?q=VQ-BeT%20Behavior%20Generation%20with%20Latent%20Actions) |
 
-### 2022
+**2022**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -1000,7 +1040,7 @@
 | 14 | Data-driven Feature Tracking for Event Cameras | [arXiv](https://arxiv.org/abs/2302.01234) |
 | 15 | On Distillation of Guided Diffusion Models | [Google Scholar](https://scholar.google.com/scholar?q=candidate%2C%20On%20Distillation%20of%20Guided%20Diffusion%20Models) |
 
-### 2021
+**2021**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -1012,7 +1052,7 @@
 | 6 | StARformer Transformer with State-Action-Reward Representations for... | [Google Scholar](https://scholar.google.com/scholar?q=StARformer%20Transformer%20with%20State-Action-Reward%20Representations%20for%20Visual%20Reinforcement%20Learning) |
 | 7 | paper, Deep Reinforcement Learning at the Edge of the Statistical P... | [arXiv](https://arxiv.org/abs/2108.13264) |
 
-### 2020
+**2020**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -1020,20 +1060,20 @@
 | 2 | Scaling Laws for Neural Language Models | [arXiv](https://arxiv.org/abs/2001.08361) |
 | 3 | Stochastic Solutions for Linear Inverse Problems using the Prior Im... | [arXiv](https://arxiv.org/abs/2006.09011) |
 
-### 2019
+**2019**
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | Neural-Guided RANSAC Learning Where to Sample Model Hypotheses | [Google Scholar](https://scholar.google.com/scholar?q=Neural-Guided%20RANSAC%20Learning%20Where%20to%20Sample%20Model%20Hypotheses) |
 | 2 | T5 Exploring the Limits of Transfer Learning with a Unified Text-to... | [arXiv](https://arxiv.org/abs/1910.10683) |
 
-### 2018
+**2018**
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | Geometric Fabrics Generalizing Classical Mechanics to Capture the P... | [Google Scholar](https://scholar.google.com/scholar?q=Geometric%20Fabrics%20Generalizing%20Classical%20Mechanics%20to%20Capture%20the%20Physics%20of%20Behavior) |
 
-### 2017
+**2017**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -1044,9 +1084,9 @@
 
 
 <a id="uncategorized"></a>
-## Uncategorized (436 篇)
+## Uncategorized (435 篇)
 
-### 2026
+**2026**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -1056,12 +1096,11 @@
 | 4 | Do as I Do: Dexterous Manipulation Data from Everyday Human Videos | [arXiv](https://arxiv.org/abs/2606.19333) |
 | 5 | MotionDisco: Motion Discovery for Extreme Humanoid Loco-Manipulation | [arXiv](https://arxiv.org/abs/2606.06139) |
 | 6 | OmniContact: Chaining Meta-Skills via Contact Flow for Generalizabl... | [arXiv](https://arxiv.org/abs/2606.26201) |
-| 7 | TopoRetarget: Interaction-Preserving Retargeting for Dexterous Mani... | [arXiv](https://arxiv.org/abs/2606.16272) |
-| 8 | VLK: Learning Humanoid Loco-Manipulation from Synthetic Interaction... | [arXiv](https://arxiv.org/abs/2606.30645) |
-| 9 | Value Bonuses using Ensemble Errors for Exploration in Reinforcemen... | [arXiv](https://arxiv.org/abs/2602.12375) |
-| 10 | WARP: Whole-Body Retargeting for Learning from Offline Human Demons... | [arXiv](https://arxiv.org/abs/2606.29940) |
+| 7 | VLK: Learning Humanoid Loco-Manipulation from Synthetic Interaction... | [arXiv](https://arxiv.org/abs/2606.30645) |
+| 8 | Value Bonuses using Ensemble Errors for Exploration in Reinforcemen... | [arXiv](https://arxiv.org/abs/2602.12375) |
+| 9 | WARP: Whole-Body Retargeting for Learning from Offline Human Demons... | [arXiv](https://arxiv.org/abs/2606.29940) |
 
-### 2025
+**2025**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -1072,7 +1111,7 @@
 | 5 | RigAnything: Template-Free Autoregressive Rigging for Diverse 3D As... | [arXiv](https://arxiv.org/abs/2502.09615) |
 | 6 | Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models | [arXiv](https://arxiv.org/abs/2504.11054) |
 
-### 2024
+**2024**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -1218,7 +1257,7 @@
 | 140 | Download Log | [Google Scholar](https://scholar.google.com/scholar?q=download_log) |
 | 141 | Download Log v2 | [Google Scholar](https://scholar.google.com/scholar?q=download_log_v2) |
 
-### 2023
+**2023**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -1378,7 +1417,7 @@
 | 154 | Zero123++: a Single Image to Consistent Multi-view Diffusion Base M... | [arXiv](https://arxiv.org/abs/2310.15110) |
 | 155 | pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Genera... | [arXiv](https://arxiv.org/abs/2312.12337) |
 
-### 2022
+**2022**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -1440,7 +1479,7 @@
 | 56 | Visual Prompting via Image Inpainting | [arXiv](https://arxiv.org/abs/2209.00647) |
 | 57 | gDDIM: Generalized denoising diffusion implicit models | [arXiv](https://arxiv.org/abs/2206.05564) |
 
-### 2021
+**2021**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -1471,7 +1510,7 @@
 | 25 | Synergies Between Affordance and Geometry: 6-DoF Grasp Detection vi... | [arXiv](https://arxiv.org/abs/2104.01542) |
 | 26 | Vision Transformers for Dense Prediction | [arXiv](https://arxiv.org/abs/2103.13413) |
 
-### 2020
+**2020**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -1490,7 +1529,7 @@
 | 13 | Training data-efficient image transformers & distillation through a... | [arXiv](https://arxiv.org/abs/2012.12877) |
 | 14 | Unsupervised Learning of Visual Features by Contrasting Cluster Ass... | [arXiv](https://arxiv.org/abs/2006.09882) |
 
-### 2019
+**2019**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -1500,7 +1539,7 @@
 | 4 | Normalized Object Coordinate Space for Category-Level 6D Object Pos... | [arXiv](https://arxiv.org/abs/1901.02970) |
 | 5 | Self-Supervised Correspondence in Visuomotor Policy Learning | [arXiv](https://arxiv.org/abs/1909.06933) |
 
-### 2018
+**2018**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -1510,7 +1549,7 @@
 | 4 | QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robot... | [arXiv](https://arxiv.org/abs/1806.10293) |
 | 5 | Videos as Space-Time Region Graphs | [arXiv](https://arxiv.org/abs/1806.01810) |
 
-### 2017
+**2017**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -1527,7 +1566,7 @@
 | 11 | Self-Normalizing Neural Networks | [arXiv](https://arxiv.org/abs/1706.02515) |
 | 12 | Third-Person Imitation Learning | [arXiv](https://arxiv.org/abs/1703.01703) |
 
-### 2016
+**2016**
 
 | # | Title | Links |
 |---|-------|-------|
@@ -1536,29 +1575,9 @@
 | 3 | PointNet: Deep Learning on Point Sets for 3D Classification and Seg... | [arXiv](https://arxiv.org/abs/1612.00593) |
 | 4 | Variational Graph Auto-Encoders | [arXiv](https://arxiv.org/abs/1611.07308) |
 
-### 2015
+**2015**
 
 | # | Title | Links |
 |---|-------|-------|
 | 1 | Model Predictive Path Integral Control using Covariance Variable Im... | [arXiv](https://arxiv.org/abs/1509.01149) |
-
-
-<a id="humanoid-bimanual"></a>
-## Humanoid & Bimanual (6 篇)
-
-### 2025
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | Visual Imitation Enables Contextual Humanoid Control | [arXiv](https://arxiv.org/abs/2505.03729) |
-
-### 2024
-
-| # | Title | Links |
-|---|-------|-------|
-| 1 | OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleo... | [arXiv](https://arxiv.org/abs/2406.08858) |
-| 2 | HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomoti... | [arXiv](https://arxiv.org/abs/2403.10506) |
-| 3 | WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts |  |
-| 4 | Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation (H2O | [arXiv](https://arxiv.org/abs/2403.04436) |
-| 5 | HumanPlus: Humanoid Shadowing and Imitation from Humans | [arXiv](https://arxiv.org/abs/2406.10454) |
 
