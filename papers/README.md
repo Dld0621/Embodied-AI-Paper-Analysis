@@ -3,6 +3,20 @@
 > 总计: 993 篇论文 | 生成时间: 2026-07-14
 > 标注: [arXiv] 在线论文 | [Code] 代码/项目页 | [Google Scholar] 搜索链接
 
+## 快速导航
+
+| 主题 | 主题 | 主题 |
+|------|------|------|
+| [Foundation Models](#foundation-models) | [VLA (Vision-Language-Action)](#vla-vision-language-action) | [3D Vision & Perception](#3d-vision-perception) |
+| [Diffusion Policy](#diffusion-policy) | [Reinforcement Learning](#reinforcement-learning) | [World Models](#world-models) |
+| [Manipulation](#manipulation) | [Grasping](#grasping) | [Humanoid Robotics](#humanoid-robotics) |
+| [Locomotion](#locomotion) | [Motion Tracking](#motion-tracking) | [Tactile Sensing](#tactile-sensing) |
+| [Teleoperation](#teleoperation) | [Navigation](#navigation) | [Simulation](#simulation) |
+| [Data Generation](#data-generation) | [Video Generation](#video-generation) | [Hardware](#hardware) |
+| [Others](#others) | [Uncategorized](#uncategorized) | [Humanoid & Bimanual](#humanoid-bimanual) |
+
+
+<a id="foundation-models"></a>
 ## Foundation Models (21 篇)
 
 ### 2025
@@ -52,6 +66,7 @@
 | 5 | Keypoints into the future Self-supervised correspondence in model-b... | [arXiv](https://arxiv.org/abs/2011.01975) |
 
 
+<a id="vla-vision-language-action"></a>
 ## VLA (Vision-Language-Action) (6 篇)
 
 ### 2026
@@ -76,6 +91,7 @@
 | 4 | ManipLLM: Embodied Multimodal Large Language Model for Object-Centr... | [arXiv](https://arxiv.org/abs/2312.16217) |
 
 
+<a id="3d-vision-perception"></a>
 ## 3D Vision & Perception (78 篇)
 
 ### 2026
@@ -197,6 +213,7 @@
 | 1 | PointNet: Deep Learning on Point Sets for 3D Classification and Seg... | [arXiv](https://arxiv.org/abs/1612.00593) |
 
 
+<a id="diffusion-policy"></a>
 ## Diffusion Policy (58 篇)
 
 ### 2025
@@ -288,6 +305,7 @@
 | 3 | DDIM Denoising Diffusion Implicit Models | [arXiv](https://arxiv.org/abs/2010.02502) |
 
 
+<a id="reinforcement-learning"></a>
 ## Reinforcement Learning (37 篇)
 
 ### 2025
@@ -363,6 +381,7 @@
 | 1 | DDPGfD Leveraging Demonstrations for Deep Reinforcement Learning on... | [arXiv](https://arxiv.org/abs/1707.08817) |
 
 
+<a id="world-models"></a>
 ## World Models (6 篇)
 
 ### 2025
@@ -382,6 +401,7 @@
 | 3 | PIVOT-R: Waypoint-Aware World Model for Language-Guided Robotic Man... | [arXiv](https://arxiv.org/abs/2410.10394) |
 
 
+<a id="manipulation"></a>
 ## Manipulation (37 篇)
 
 ### 2026
@@ -452,6 +472,7 @@
 | 1 | The Kinematics of Manipulators Under Computer Control | [Google Scholar](https://scholar.google.com/scholar?q=The%20Kinematics%20of%20Manipulators%20Under%20Computer%20Control) |
 
 
+<a id="grasping"></a>
 ## Grasping (24 篇)
 
 ### 2026
@@ -509,6 +530,7 @@
 | 1 | DexRes Physics-Based Dexterous Manipulations with Estimated Hand Po... | [Google Scholar](https://scholar.google.com/scholar?q=DexRes%20Physics-Based%20Dexterous%20Manipulations%20with%20Estimated%20Hand%20Poses%20and%20Residual%20Reinforcement%20Le) |
 
 
+<a id="humanoid-robotics"></a>
 ## Humanoid Robotics (17 篇)
 
 ### 2026
@@ -549,6 +571,7 @@
 | 1 | Sim-to-Real Learning for Humanoid Box Loco-Manipulation | [arXiv](https://arxiv.org/abs/2310.03191) |
 
 
+<a id="locomotion"></a>
 ## Locomotion (20 篇)
 
 ### 2025
@@ -587,6 +610,7 @@
 | 6 | Barkour Benchmarking Animal-level Agility with Quadruped Robots | [arXiv](https://arxiv.org/abs/2305.14654) |
 
 
+<a id="motion-tracking"></a>
 ## Motion Tracking (3 篇)
 
 ### 2024
@@ -598,6 +622,7 @@
 | 3 | Motion Prompting Controlling Video Generation with Motion Trajectories | [Google Scholar](https://scholar.google.com/scholar?q=Motion%20Prompting%20Controlling%20Video%20Generation%20with%20Motion%20Trajectories) |
 
 
+<a id="tactile-sensing"></a>
 ## Tactile Sensing (5 篇)
 
 ### 2025
@@ -616,6 +641,7 @@
 | 3 | RoboPack Learning Tactile-Informed Dynamics Models for Dense Packing | [Google Scholar](https://scholar.google.com/scholar?q=RoboPack%20Learning%20Tactile-Informed%20Dynamics%20Models%20for%20Dense%20Packing) |
 
 
+<a id="teleoperation"></a>
 ## Teleoperation (1 篇)
 
 ### 2024
@@ -625,6 +651,7 @@
 | 1 | Open-TeleVision Teleoperation with Immersive Active Visual Feedback | [arXiv](https://arxiv.org/abs/2407.01512) |
 
 
+<a id="navigation"></a>
 ## Navigation (3 篇)
 
 ### 2024
@@ -641,6 +668,7 @@
 | 1 | High-speed control and navigation for quadrupedal robots on complex... | [Google Scholar](https://scholar.google.com/scholar?q=High-speed%20control%20and%20navigation%20for%20quadrupedal%20robots%20on%20complex%20and%20discrete%20terrain) |
 
 
+<a id="simulation"></a>
 ## Simulation (10 篇)
 
 ### 2025
@@ -669,6 +697,7 @@
 | 1 | IndustReal Transferring Contact-Rich Assembly Tasks from Simulation... | [arXiv](https://arxiv.org/abs/2305.17110) |
 
 
+<a id="data-generation"></a>
 ## Data Generation (12 篇)
 
 ### 2026
@@ -704,6 +733,7 @@
 | 1 | ARCTIC A Dataset for Dexterous Bimanual Hand-Object Manipulation | [Google Scholar](https://scholar.google.com/scholar?q=ARCTIC%20A%20Dataset%20for%20Dexterous%20Bimanual%20Hand-Object%20Manipulation) |
 
 
+<a id="video-generation"></a>
 ## Video Generation (5 篇)
 
 ### 2025
@@ -727,6 +757,7 @@
 | 1 | StyleGAN A Style-Based Generator Architecture for Generative Advers... | [arXiv](https://arxiv.org/abs/1812.04948) |
 
 
+<a id="hardware"></a>
 ## Hardware (6 篇)
 
 ### 2026
@@ -756,6 +787,7 @@
 | 1 | Dynamic Pen Spinning Using a High-speed Multifingered Hand with Hig... | [Google Scholar](https://scholar.google.com/scholar?q=Dynamic%20Pen%20Spinning%20Using%20a%20High-speed%20Multifingered%20Hand%20with%20High-speed%20Tactile%20Sensor) |
 
 
+<a id="others"></a>
 ## Others (202 篇)
 
 ### 2026
@@ -1011,6 +1043,7 @@
 | 4 | Network Dissection Quantifying Interpretability of Deep Visual Repr... | [arXiv](https://arxiv.org/abs/1704.05796) |
 
 
+<a id="uncategorized"></a>
 ## Uncategorized (436 篇)
 
 ### 2026
@@ -1510,6 +1543,7 @@
 | 1 | Model Predictive Path Integral Control using Covariance Variable Im... | [arXiv](https://arxiv.org/abs/1509.01149) |
 
 
+<a id="humanoid-bimanual"></a>
 ## Humanoid & Bimanual (6 篇)
 
 ### 2025
