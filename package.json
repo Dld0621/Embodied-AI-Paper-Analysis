@@ -1,8 +1,0 @@
-{
-  "name": "embodied-ai-index",
-  "version": "1.0.0",
-  "description": "扫描 notes/ 目录下的 .md 笔记，自动生成 notes/README.md 索引",
-  "scripts": {
-    "generate": "node scripts/generate_index.js"
-  }
-}

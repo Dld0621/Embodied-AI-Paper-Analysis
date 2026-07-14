@@ -1,11 +1,12 @@
 # Embodied AI Paper Analysis
 
-> 1099 篇具身智能论文 · 7 大研究方向 · 20 个子方向 · 2015–2026 · arXiv 覆盖率 88%
+> 1099 篇具身智能论文 · 7 大研究方向 · 20 个子方向 · 2015–2026
 
 [![Papers](https://img.shields.io/badge/Papers-1099-blue?style=flat-square)](papers/README.md)
 [![Directions](https://img.shields.io/badge/Directions-7-green?style=flat-square)](#方向地图)
 [![Topics](https://img.shields.io/badge/Topics-20-green?style=flat-square)](papers/README.md)
 [![arXiv](https://img.shields.io/badge/arXiv%20Coverage-88%25-red?style=flat-square)](papers/README.md)
+[![Venue](https://img.shields.io/badge/Formal%20Venue-834%20%28A%3A719%29-yellow?style=flat-square)](papers/README.md)
 [![Website](https://img.shields.io/badge/Live%20Site-Online-brightgreen?logo=github&style=flat-square)](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square)](LICENSE)
 
@@ -21,7 +22,7 @@
 
 ### 在线访问
 
-**[dld0621.github.io/Embodied-AI-Paper-Analysis](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)** — 支持方向导航、子方向筛选、年份分布图、关键词搜索和深色模式。
+**[dld0621.github.io/Embodied-AI-Paper-Analysis](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)** — 支持方向导航、子方向筛选、顶会过滤、年份分布图、关键词搜索和深色模式。
 
 ### 数据概览
 
@@ -30,9 +31,10 @@
 | 论文总数 | 1,099 |
 | arXiv 链接 | 976 篇（88%） |
 | 代码开源 | 74 篇 |
+| 正式发表 | 834 篇（A: 719 · B: 8 · C: 37 · D: 269） |
 | 研究方向 | 7 个一级 · 20 个二级 |
 | 年份跨度 | 2015–2026 |
-| 顶会覆盖 | RSS · CoRL · ICRA · ICLR · ICML · CVPR · NeurIPS · SIGGRAPH |
+| 顶会覆盖 | RSS · CoRL · ICRA · IROS · ICLR · ICML · CVPR · NeurIPS · ECCV · SIGGRAPH |
 
 ### 方向地图
 
@@ -46,42 +48,45 @@
 | **World Models & Generation** 世界模型与生成 | World Models · Video Generation | 14 | 用可交互世界模型预测未来、规划动作，并通过视频生成学习物理与时序先验 |
 | **Hardware & Systems** 硬件与系统 | Hardware | 9 | 灵巧手、传感器、硬件平台与遥操作系统 |
 
-> 另有 637 篇待分类论文（Uncategorized / Others），持续整理中。
-
 ### 特色内容
 
-**Hand Retargeting 专题分析**（45 篇）— 对灵巧手重定向领域进行三级分类（L1 姿态重定向 / L2 可执行重定向 / L3 功能意图重定向），包含覆盖度评分、成熟度总览和重点研究路线。详见 [`papers/README.md`](papers/README.md) 和 [`docs/tactile-paper-analysis.md`](docs/tactile-paper-analysis.md)。
+**Hand Retargeting 专题分析**（45 篇）— 对灵巧手重定向领域进行三级分类（L1 姿态重定向 / L2 可执行重定向 / L3 功能意图重定向），包含覆盖度评分、成熟度总览和重点研究路线。详见 [`papers/README.md`](papers/README.md)。
 
-**触觉与接触优化论文深度分析**（11 篇）— 按 5 个维度（现有问题 → 根因 → 提出方法 → 与 baseline 区别 → 效果提升）分析 SpringGrasp、Dexonomy、GraspQP、DexGrasp Anything、Complementarity-Free Multi-Contact、IMPACT、Semantic Contact Fields、Contact-Grounded Policy、Force Policy、TACTIC 等 RSS/CVPR/CoRL 顶会论文。详见 [`docs/tactile-paper-analysis.md`](docs/tactile-paper-analysis.md)。
+**触觉与接触优化论文深度分析**（11 篇）— 按 5 个维度（现有问题 → 根因 → 提出方法 → 与 baseline 区别 → 效果提升）分析 SpringGrasp、Dexonomy、GraspQP 等 RSS/CVPR/CoRL 顶会论文。详见 [`docs/tactile-paper-analysis.md`](docs/tactile-paper-analysis.md)。
 
 ### 仓库结构
 
 ```
 ├── index.html              # 交互式论文索引（GitHub Pages）
 ├── papers/
-│   ├── README.md           # 按主题分类的完整论文列表
-│   └── index.md            # 年份索引
-├── notes/                  # 21 个主题目录的阅读笔记
+│   └── README.md           # 按主题 + 顶会分类的完整论文列表
+├── notes/                  # 7 方向 · 20 子方向的论文笔记
+│   ├── perception/          #   感知与表征
+│   ├── manipulation/        #   操作与抓取
+│   ├── locomotion/         #   移动与导航
+│   ├── policy/              #   策略学习
+│   ├── simulation/          #   仿真与数据
+│   ├── world-models/       #   世界模型与生成
+│   └── hardware/           #   硬件与系统
 ├── docs/
 │   ├── paper-analysis-template.md   # 论文分析模板（9 维度）
 │   ├── reading-methodology.md       # 阅读方法论
-│   ├── taxonomy.md                  # 分类体系说明
 │   └── tactile-paper-analysis.md    # 触觉论文深度分析
-├── scripts/                # 索引生成脚本
-├── summaries/              # 一句话论文摘要
 ├── .github/workflows/      # GitHub Pages 自动部署
 └── assets/                 # 图片资源
 ```
 
 ### 阅读路线
 
-围绕 **感知 → 操作 → 运动 → 策略 → 世界模型** 的能力栈：
+围绕 **感知 → 操作 → 运动 → 策略 → 仿真 → 世界模型 → 硬件** 的能力栈：
 
-1. **打地基** — Foundation Models → 3D Vision → Gaussian Splatting
-2. **进操作** — Manipulation → Grasping → Hand Retargeting → Diffusion Policy
-3. **上身体** — Humanoid Robotics → Locomotion → Navigation
-4. **学策略** — Reinforcement Learning → VLA
-5. **看未来** — World Models → Video Generation → Simulation
+1. **感知表征** — Foundation Models → 3D Vision → Gaussian Splatting → Motion Tracking → Tactile
+2. **操作抓取** — Manipulation → Grasping → Retargeting
+3. **移动导航** — Humanoid → Locomotion → Navigation → Teleoperation
+4. **策略学习** — Diffusion Policy → Reinforcement Learning → VLA
+5. **仿真数据** — Simulation → Data Generation
+6. **世界模型** — World Models → Video Generation
+7. **硬件系统** — Hardware
 
 ### 快速开始
 
@@ -96,7 +101,7 @@ open index.html
 cat papers/README.md
 
 # 使用论文分析模板
-cp docs/paper-analysis-template.md notes/06-manipulation/2025-xxx.md
+cp docs/paper-analysis-template.md notes/manipulation/2025-xxx.md
 ```
 
 ---
@@ -109,7 +114,7 @@ A systematic collection of frontier papers in Embodied AI, organized across 7 re
 
 ### Live Site
 
-**[dld0621.github.io/Embodied-AI-Paper-Analysis](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)** — Features direction navigation, sub-topic filtering, year distribution charts, keyword search, and dark mode.
+**[dld0621.github.io/Embodied-AI-Paper-Analysis](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)** — Features direction navigation, sub-topic filtering, conference filtering, year distribution charts, keyword search, and dark mode.
 
 ### Key Stats
 
@@ -118,9 +123,10 @@ A systematic collection of frontier papers in Embodied AI, organized across 7 re
 | Total Papers | 1,099 |
 | arXiv Links | 976 (88%) |
 | Open Code | 74 |
+| Formal Venue | 834 (A: 719 · B: 8 · C: 37 · D: 269) |
 | Directions | 7 L1 · 20 L2 |
 | Year Range | 2015–2026 |
-| Top Venues | RSS · CoRL · ICRA · ICLR · ICML · CVPR · NeurIPS · SIGGRAPH |
+| Top Venues | RSS · CoRL · ICRA · IROS · ICLR · ICML · CVPR · NeurIPS · ECCV · SIGGRAPH |
 
 ### Direction Map
 

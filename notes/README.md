@@ -1,74 +1,57 @@
-# 笔记索引
+# Notes · 论文笔记
 
-> 本文件由 `scripts/generate_index.js` 自动生成，请勿手动编辑。如需新增主题或调整顺序，编辑 `scripts/generate_index.js` 中的 SECTIONS 后重新运行。
+> 按研究方向分类的论文阅读笔记。使用 [`docs/paper-analysis-template.md`](../docs/paper-analysis-template.md) 的 9 维度分析模板。
 
-## 感知与表示
-### foundation-models · 基础模型
-_暂无笔记_
+## 阅读路线
 
-### 3d-vision · 3D视觉
-_暂无笔记_
+围绕 **感知 → 操作 → 运动 → 策略 → 仿真 → 世界模型 → 硬件** 的能力栈：
 
-### gaussian-splatting · 高斯泼溅
-_暂无笔记_
+1. **感知表征** — Foundation Models → 3D Vision → Gaussian Splatting → Motion Tracking → Tactile
+2. **操作抓取** — Manipulation → Grasping → Retargeting
+3. **移动导航** — Humanoid → Locomotion → Navigation → Teleoperation
+4. **策略学习** — Diffusion Policy → Reinforcement Learning → VLA
+5. **仿真数据** — Simulation → Data Generation
+6. **世界模型** — World Models → Video Generation
+7. **硬件系统** — Hardware
 
-### motion-tracking · 运动追踪
-_暂无笔记_
+## Perception & Representation · 感知与表征
 
-### tactile · 触觉感知
-_暂无笔记_
+- [✓] [foundation-models](./perception\foundation-models/)
+- [—] [3d-vision](./perception\3d-vision/)
+- [—] [gaussian-splatting](./perception\gaussian-splatting/)
+- [—] [motion-tracking](./perception\motion-tracking/)
+- [—] [tactile](./perception\tactile/)
 
-## 操作与抓取
-### manipulation · 操作
-_暂无笔记_
+## Manipulation & Grasping · 操作与抓取
 
-### grasping · 抓取
-_暂无笔记_
+- [✓] [manipulation](./manipulation\manipulation/)
+- [—] [grasping](./manipulation\grasping/)
+- [—] [retargeting](./manipulation\retargeting/)
 
-### retargeting · 重定向/运动映射
-_暂无笔记_
+## Locomotion & Navigation · 移动与导航
 
-## 运动与导航
-### locomotion · 运动控制
-_暂无笔记_
+- [—] [humanoid](./locomotion\humanoid/)
+- [—] [locomotion](./locomotion\locomotion/)
+- [—] [navigation](./locomotion\navigation/)
+- [✓] [teleoperation](./locomotion\teleoperation/)
 
-### humanoid · 人形机器人
-_暂无笔记_
+## Policy Learning · 策略学习
 
-### navigation · 导航
-_暂无笔记_
+- [✓] [diffusion-policy](./policy\diffusion-policy/)
+- [—] [reinforcement-learning](./policy\reinforcement-learning/)
+- [✓] [vla](./policy\vla/)
 
-## 策略学习
-### diffusion-policy · 扩散策略
-- [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](notes/12-diffusion-policy/2023-diffusion-policy.md)
+## Simulation & Data · 仿真与数据
 
-### rl · 强化学习
-_暂无笔记_
+- [—] [simulation](./simulation\simulation/)
+- [—] [data-generation](./simulation\data-generation/)
 
-### vla · VLA
-_暂无笔记_
+## World Models & Generation · 世界模型与生成
 
-## 仿真与数据
-### simulation · 仿真
-_暂无笔记_
+- [—] [world-models](./world-models\world-models/)
+- [—] [video-generation](./world-models\video-generation/)
 
-### data-generation · 数据生成
-_暂无笔记_
+## Hardware & Systems · 硬件与系统
 
-## 世界模型与生成
-### world-model · 世界模型
-_暂无笔记_
+- [—] [hardware](./hardware\hardware/)
 
-### video-generation · 视频生成
-_暂无笔记_
-
-## 遥操作与硬件
-### teleoperation · 遥操作
-_暂无笔记_
-
-### hardware · 硬件
-_暂无笔记_
-
-## 其他
-### others · 其他
-_暂无笔记_
