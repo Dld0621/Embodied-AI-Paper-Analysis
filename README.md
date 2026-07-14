@@ -1,85 +1,149 @@
 # Embodied AI Paper Analysis
 
-> A systematic paper reading repository for Embodied AI — covering 920+ papers across 21 topics, from perception and manipulation to world models and humanoid robotics.
+> 1099 篇具身智能论文 · 7 大研究方向 · 20 个子方向 · 2015–2026 · arXiv 覆盖率 88%
 
-[![Papers](https://img.shields.io/badge/Papers-920%2B-blue?style=flat-square)](papers/README.md)
-[![Topics](https://img.shields.io/badge/Topics-21-green?style=flat-square)](papers/README.md)
-[![Years](https://img.shields.io/badge/Years-2015--2026-orange?style=flat-square)](papers/index.md)
-[![Website](https://img.shields.io/badge/Website-Online-brightgreen?logo=github&style=flat-square)](https://dld0621.github.io/Embodied-AI-Paper-Analysis/index.html)
-[![Deploy](https://img.shields.io/github/actions/workflow/status/Dld0621/Embodied-AI-Paper-Analysis/pages.yml?branch=main&label=Pages&style=flat-square)](https://github.com/Dld0621/Embodied-AI-Paper-Analysis/actions)
+[![Papers](https://img.shields.io/badge/Papers-1099-blue?style=flat-square)](papers/README.md)
+[![Directions](https://img.shields.io/badge/Directions-7-green?style=flat-square)](#方向地图)
+[![Topics](https://img.shields.io/badge/Topics-20-green?style=flat-square)](papers/README.md)
+[![arXiv](https://img.shields.io/badge/arXiv%20Coverage-88%25-red?style=flat-square)](papers/README.md)
+[![Website](https://img.shields.io/badge/Live%20Site-Online-brightgreen?logo=github&style=flat-square)](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square)](LICENSE)
 
-**[English](#overview) | [中文](#概览)**
+**[中文](#中文) | [English](#english)**
 
 ---
 
-## Overview
+<a id="中文"></a>
 
-This repository provides a structured framework for analyzing frontier papers in Embodied AI. Each paper is broken down using a unified template covering motivation, method, innovation, experiments, and reproducibility notes.
+## 中文
 
-### Paper Index
+系统化收录和分类具身智能领域的前沿论文，覆盖感知表征、操作抓取、移动导航、策略学习、仿真数据、世界模型与硬件系统七大方向，提供两级分类导航、交互式搜索和深度分析文档。
 
-All 920+ papers are organized by topic in [`papers/README.md`](papers/README.md), with each entry including arXiv links and GitHub code links where available. An interactive web version is available at **[dld0621.github.io/Embodied-AI-Paper-Analysis](https://dld0621.github.io/Embodied-AI-Paper-Analysis/index.html)**.
+### 在线访问
 
-| Category | Topics | Link |
-| :--- | :--- | :--- |
-| **Perception & Representation** | Foundation Models · 3D Vision · Gaussian Splatting · Motion Tracking · Tactile Sensing | [Browse](papers/README.md#3d-vision--perception) |
-| **Manipulation & Grasping** | Manipulation · Grasping · Retargeting | [Browse](papers/README.md#manipulation) |
-| **Locomotion & Navigation** | Humanoid Robotics · Locomotion · Navigation | [Browse](papers/README.md#humanoid-robotics) |
-| **Policy Learning** | Diffusion Policy · Reinforcement Learning · VLA | [Browse](papers/README.md#diffusion-policy) |
-| **Simulation & Data** | Simulation · Data Generation | [Browse](papers/README.md#simulation) |
-| **World Models & Generation** | World Models · Video Generation | [Browse](papers/README.md#world-models) |
-| **Teleoperation & Hardware** | Teleoperation · Hardware | [Browse](papers/README.md#teleoperation) |
-| **Others** | Others · Uncategorized | [Browse](papers/README.md#others) |
+**[dld0621.github.io/Embodied-AI-Paper-Analysis](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)** — 支持方向导航、子方向筛选、年份分布图、关键词搜索和深色模式。
 
-### Repository Structure
+### 数据概览
+
+| 指标 | 数值 |
+|------|------|
+| 论文总数 | 1,099 |
+| arXiv 链接 | 976 篇（88%） |
+| 代码开源 | 74 篇 |
+| 研究方向 | 7 个一级 · 20 个二级 |
+| 年份跨度 | 2015–2026 |
+| 顶会覆盖 | RSS · CoRL · ICRA · ICLR · ICML · CVPR · NeurIPS · SIGGRAPH |
+
+### 方向地图
+
+| 一级方向 | 二级方向 | 论文数 | 主要问题 |
+|---------|---------|-------|---------|
+| **Perception & Representation** 感知与表征 | Foundation Models · 3D Vision · Gaussian Splatting · Motion Tracking · Tactile Sensing | 132 | 从通用视觉语义、三维结构、动态跟踪到触觉表征，为后续规划与控制提供可迁移的状态表示 |
+| **Manipulation & Grasping** 操作与抓取 | Manipulation · Grasping · Retargeting | 102 | 从语言与几何约束的操作，走向接触丰富抓取、跨形态迁移和功能保持重定向 |
+| **Locomotion & Navigation** 移动与导航 | Humanoid Robotics · Locomotion · Navigation · Teleoperation | 54 | 从全身模仿与敏捷运动，连接到开放环境导航和语言条件目标搜索 |
+| **Policy Learning** 策略学习 | Diffusion Policy · Reinforcement Learning · VLA | 124 | 覆盖扩散策略、强化学习和 VLA 三条主线 |
+| **Simulation & Data** 仿真与数据 | Simulation · Data Generation | 27 | 通过可扩展仿真、任务基准和真实多机器人数据降低训练与评测成本 |
+| **World Models & Generation** 世界模型与生成 | World Models · Video Generation | 14 | 用可交互世界模型预测未来、规划动作，并通过视频生成学习物理与时序先验 |
+| **Hardware & Systems** 硬件与系统 | Hardware | 9 | 灵巧手、传感器、硬件平台与遥操作系统 |
+
+> 另有 637 篇待分类论文（Uncategorized / Others），持续整理中。
+
+### 特色内容
+
+**Hand Retargeting 专题分析**（45 篇）— 对灵巧手重定向领域进行三级分类（L1 姿态重定向 / L2 可执行重定向 / L3 功能意图重定向），包含覆盖度评分、成熟度总览和重点研究路线。详见 [`papers/README.md`](papers/README.md) 和 [`docs/tactile-paper-analysis.md`](docs/tactile-paper-analysis.md)。
+
+**触觉与接触优化论文深度分析**（11 篇）— 按 5 个维度（现有问题 → 根因 → 提出方法 → 与 baseline 区别 → 效果提升）分析 SpringGrasp、Dexonomy、GraspQP、DexGrasp Anything、Complementarity-Free Multi-Contact、IMPACT、Semantic Contact Fields、Contact-Grounded Policy、Force Policy、TACTIC 等 RSS/CVPR/CoRL 顶会论文。详见 [`docs/tactile-paper-analysis.md`](docs/tactile-paper-analysis.md)。
+
+### 仓库结构
 
 ```
-├── index.html          # Interactive paper index (web)
-├── papers/             # Paper index by topic & year
-├── notes/              # Analysis notes (21 topic dirs)
-├── docs/               # Templates & methodology
-├── scripts/            # Index generator (Node.js)
-├── .github/            # CI/CD workflows
-└── summaries/          # One-line paper summaries
+├── index.html              # 交互式论文索引（GitHub Pages）
+├── papers/
+│   ├── README.md           # 按主题分类的完整论文列表
+│   └── index.md            # 年份索引
+├── notes/                  # 21 个主题目录的阅读笔记
+├── docs/
+│   ├── paper-analysis-template.md   # 论文分析模板（9 维度）
+│   ├── reading-methodology.md       # 阅读方法论
+│   ├── taxonomy.md                  # 分类体系说明
+│   └── tactile-paper-analysis.md    # 触觉论文深度分析
+├── scripts/                # 索引生成脚本
+├── summaries/              # 一句话论文摘要
+├── .github/workflows/      # GitHub Pages 自动部署
+└── assets/                 # 图片资源
 ```
-
-### Quick Start
-
-```bash
-git clone https://github.com/Dld0621/Embodied-AI-Paper-Analysis.git
-cd Embodied-AI-Paper-Analysis
-
-# Create a new note from template
-cp docs/paper-analysis-template.md notes/06-manipulation/2025-xxx.md
-
-# Regenerate the notes index
-npm run generate
-```
-
----
-
-## 概览
-
-系统化拆解具身智能前沿论文的阅读笔记仓库，覆盖感知、操作、运动、策略学习到世界模型，用统一框架沉淀每篇论文的问题、方法、创新与复现细节。
-
-### 论文索引
-
-共收录 **920+ 篇**论文，按主题归档于 [`papers/README.md`](papers/README.md)，每个主题内按年份降序排列，每篇附 arXiv 链接与代码链接。交互式网页版见 **[dld0621.github.io/Embodied-AI-Paper-Analysis](https://dld0621.github.io/Embodied-AI-Paper-Analysis/index.html)**。
-
-### 分析方法
-
-每篇论文使用统一模板拆解（见 [`docs/paper-analysis-template.md`](docs/paper-analysis-template.md)），覆盖 9 个维度：元信息、一句话总结、研究问题、核心方法、关键创新、实验结果、局限与未来工作、可迁移性、复现笔记。
 
 ### 阅读路线
 
 围绕 **感知 → 操作 → 运动 → 策略 → 世界模型** 的能力栈：
 
-1. **打地基** — 基础模型与视觉表征 → 3D 视觉与高斯泼溅
-2. **进操作** — 操作与抓取 → 重定向 → 扩散策略
-3. **上身体** — 人形机器人与运动控制
-4. **学策略** — 强化学习 → VLA
-5. **看未来** — 世界模型与视频生成
+1. **打地基** — Foundation Models → 3D Vision → Gaussian Splatting
+2. **进操作** — Manipulation → Grasping → Hand Retargeting → Diffusion Policy
+3. **上身体** — Humanoid Robotics → Locomotion → Navigation
+4. **学策略** — Reinforcement Learning → VLA
+5. **看未来** — World Models → Video Generation → Simulation
+
+### 快速开始
+
+```bash
+git clone https://github.com/Dld0621/Embodied-AI-Paper-Analysis.git
+cd Embodied-AI-Paper-Analysis
+
+# 在线浏览论文索引
+open index.html
+
+# 按主题查看论文列表
+cat papers/README.md
+
+# 使用论文分析模板
+cp docs/paper-analysis-template.md notes/06-manipulation/2025-xxx.md
+```
+
+---
+
+<a id="english"></a>
+
+## English
+
+A systematic collection of frontier papers in Embodied AI, organized across 7 research directions and 20 sub-topics — from perception and manipulation to world models and hardware systems, with interactive search, filtering, and in-depth analysis.
+
+### Live Site
+
+**[dld0621.github.io/Embodied-AI-Paper-Analysis](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)** — Features direction navigation, sub-topic filtering, year distribution charts, keyword search, and dark mode.
+
+### Key Stats
+
+| Metric | Value |
+|--------|-------|
+| Total Papers | 1,099 |
+| arXiv Links | 976 (88%) |
+| Open Code | 74 |
+| Directions | 7 L1 · 20 L2 |
+| Year Range | 2015–2026 |
+| Top Venues | RSS · CoRL · ICRA · ICLR · ICML · CVPR · NeurIPS · SIGGRAPH |
+
+### Direction Map
+
+| Direction | Sub-topics | Papers | Focus |
+|-----------|-----------|--------|-------|
+| **Perception & Representation** | Foundation Models · 3D Vision · Gaussian Splatting · Motion Tracking · Tactile Sensing | 132 | Transferable state representations for planning and control |
+| **Manipulation & Grasping** | Manipulation · Grasping · Retargeting | 102 | Contact-rich grasping, cross-embodiment transfer, function-preserving retargeting |
+| **Locomotion & Navigation** | Humanoid Robotics · Locomotion · Navigation · Teleoperation | 54 | Whole-body imitation, agile locomotion, open-world navigation |
+| **Policy Learning** | Diffusion Policy · Reinforcement Learning · VLA | 124 | Three mainlines: diffusion, RL, and vision-language-action models |
+| **Simulation & Data** | Simulation · Data Generation | 27 | Scalable simulation, benchmarks, and real multi-robot data |
+| **World Models & Generation** | World Models · Video Generation | 14 | Interactive world models and video generation for physical priors |
+| **Hardware & Systems** | Hardware | 9 | Dexterous hands, sensors, and teleoperation platforms |
+
+### Featured Analysis
+
+- **Hand Retargeting Special** (45 papers) — Three-level taxonomy (L1 pose / L2 executable / L3 functional), coverage scoring, and maturity assessment. See [`papers/README.md`](papers/README.md).
+- **Tactile & Contact Optimization Deep Dive** (11 papers) — Structured analysis of RSS/CVPR/CoRL papers across 5 dimensions. See [`docs/tactile-paper-analysis.md`](docs/tactile-paper-analysis.md).
+
+### Analysis Template
+
+Each paper is analyzed using a 9-dimension unified template (see [`docs/paper-analysis-template.md`](docs/paper-analysis-template.md)):
+
+1. Metadata · 2. One-sentence Summary · 3. Research Question · 4. Core Method · 5. Key Innovation · 6. Experiments · 7. Limitations & Future Work · 8. Transferability · 9. Reproduction Notes
 
 ---
 
@@ -87,6 +151,17 @@ npm run generate
 
 Contributions are welcome! Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) before submitting a PR.
 
+### How to Contribute
+
+- Add new papers to the collection
+- Write analysis notes using the template
+- Improve classification and metadata
+- Fix broken links or incorrect venues
+
 ## License
 
 Content is licensed under [CC BY-NC-SA 4.0](LICENSE). Paper copyrights belong to their respective authors; this repository does not distribute PDFs.
+
+## Acknowledgments
+
+Paper metadata is sourced from arXiv, Google Scholar, and official conference proceedings. Classification taxonomy is inspired by the Embodied AI literature guide covering 2023–2026 top-tier venues.
