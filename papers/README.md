@@ -12,7 +12,7 @@
 | [Humanoid Robotics](#humanoid-robotics) | [Humanoid & Bimanual](#humanoid--bimanual) | [Locomotion](#locomotion) |
 | [Policy Learning](#policy-learning) | [Simulation & World Models](#simulation--world-models) | [Navigation & Tracking](#navigation--tracking) |
 | [Hardware & Sensing](#hardware--sensing) | [Data Generation](#data-generation) | [Video Generation](#video-generation) |
-| [Others](#others) | [Uncategorized](#uncategorized) | [Contact Optimization](#contact-optimization) |
+| [Others](#others) | [Uncategorized](#uncategorized) | [Tactile](#tactile) |
 
 <a id="hand-retargeting"></a>
 ## Hand Retargeting (45 篇)
@@ -147,30 +147,6 @@
 | # | 论文 | 覆盖度 | 核心解法与效果 | 链接 |
 |--:|------|-------:|---------------|------|
 | 1 | Robust and Expressive Humanoid Motion Retargeting via Optimization-... | — |  |  |
-
----
-
-### B. 纯接触优化方法（15 篇）
-
-> 这些论文不直接做人手→机器人重定向，但可作为 **IK后第二阶段 contact optimizer** 的方法来源。
-
-| # | 论文 | 链接 |
-|--:|------|------|
-| 1 | SpringGrasp: Synthesizing Compliant, Dexterous Grasps Under Shape U... | [Code](https://www.roboticsproceedings.org/rss20/p042.pdf) |
-| 2 | Complementarity-Free Multi-Contact Modeling and Optimization for De... | [Code](https://www.roboticsproceedings.org/rss21/p111.html) |
-| 3 | Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy | [Code](https://pku-epic.github.io/Dexonomy/) |
-| 4 | GraspQP: Differentiable Optimization of Force Closure for Diverse a... | [arXiv](https://arxiv.org/abs/2508.15002) | [Code](https://github.com/leggedrobotics/graspqp) |
-| 5 | DexGrasp Anything: Towards Universal Robotic Dexterous Grasping wit... |  |
-| 6 | Semantic Contact Fields for Category-Level Generalizable Tool Manip... | [Code](https://roboticsconference.org/program/papers/4/) |
-| 7 | Contact-Grounded Policy: Dexterous Visuotactile Policy with Generat... | [arXiv](https://arxiv.org/abs/2603.05687) | [Code](https://contact-grounded-policy.github.io/) |
-| 8 | Force Policy: Learning Hybrid Force-Position Control Policy under I... | [arXiv](https://arxiv.org/abs/2602.22088) | [Code](https://github.com/force-policy/ForcePolicy) |
-| 9 | TACTIC: Tactile and Vision Conditioned Contact-Centric Control for ... | [Code](https://roboticsconference.org/program/papers/60/) |
-| 10 | IMPACT: An Implicit Active-Set Augmented Lagrangian for Fast Contac... | [Code](https://roboticsconference.org/program/papers/163/) |
-| 11 | Certifiable Gradient-Based Contact-Rich Manipulation via Smoothing-... | [Code](https://roboticsconference.org/program/papers/190/) |
-| 12 | Push Anything: Single and Multi-Object Pushing from First Sight wit... | [Code](https://2026.ieee-icra.org/awards/) |
-| 13 | Distributionally Robust Control via Stein Variational Inference for... |  |
-| 14 | Contact-Anchored Policies: Contact Conditioning Creates Strong Robo... |  |
-| 15 | DexEvolve: Evolutionary Optimization for Robust and Diverse Dextero... |  |
 
 
 <a id="foundation-models"></a>
@@ -1710,4 +1686,38 @@
 | # | Title | Links |
 |---|-------|-------|
 | 1 | Model Predictive Path Integral Control using Covariance Variable Im... | [arXiv](https://arxiv.org/abs/1509.01149) |
+
+
+<a id="tactile"></a>
+## Tactile (15 篇)
+
+**2026**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Semantic Contact Fields for Category-Level Generalizable Tool Manip... | [Code](https://roboticsconference.org/program/papers/4/) |
+| 2 | Contact-Grounded Policy: Dexterous Visuotactile Policy with Generat... | [arXiv](https://arxiv.org/abs/2603.05687) | [Code](https://contact-grounded-policy.github.io/) |
+| 3 | Force Policy: Learning Hybrid Force-Position Control Policy under I... | [arXiv](https://arxiv.org/abs/2602.22088) | [Code](https://github.com/force-policy/ForcePolicy) |
+| 4 | TACTIC: Tactile and Vision Conditioned Contact-Centric Control for ... | [Code](https://roboticsconference.org/program/papers/60/) |
+| 5 | IMPACT: An Implicit Active-Set Augmented Lagrangian for Fast Contac... | [Code](https://roboticsconference.org/program/papers/163/) |
+| 6 | Certifiable Gradient-Based Contact-Rich Manipulation via Smoothing-... | [Code](https://roboticsconference.org/program/papers/190/) |
+| 7 | Push Anything: Single and Multi-Object Pushing from First Sight wit... | [Code](https://2026.ieee-icra.org/awards/) |
+| 8 | Distributionally Robust Control via Stein Variational Inference for... |  |
+| 9 | Contact-Anchored Policies: Contact Conditioning Creates Strong Robo... |  |
+| 10 | DexEvolve: Evolutionary Optimization for Robust and Diverse Dextero... |  |
+
+**2025**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | Complementarity-Free Multi-Contact Modeling and Optimization for De... | [Code](https://www.roboticsproceedings.org/rss21/p111.html) |
+| 2 | Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy | [Code](https://pku-epic.github.io/Dexonomy/) |
+| 3 | GraspQP: Differentiable Optimization of Force Closure for Diverse a... | [arXiv](https://arxiv.org/abs/2508.15002) | [Code](https://github.com/leggedrobotics/graspqp) |
+| 4 | DexGrasp Anything: Towards Universal Robotic Dexterous Grasping wit... |  |
+
+**2024**
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | SpringGrasp: Synthesizing Compliant, Dexterous Grasps Under Shape U... | [Code](https://www.roboticsproceedings.org/rss20/p042.pdf) |
 
