@@ -1,6 +1,6 @@
 # Embodied AI Paper Collection by Topic
 > 按主题分类的论文索引，一级分类为大类，二级分类为子类，每个分类内按年份降序排列。
-> 总计: 1022 篇论文 | 生成时间: 2026-07-14
+> 总计: 1021 篇论文 | 生成时间: 2026-07-14
 > 标注: [arXiv] 在线论文 | [Code] 代码/项目页 | [Google Scholar] 搜索链接
 
 ## 快速导航
@@ -15,71 +15,131 @@
 | [Others](#others) | [Uncategorized](#uncategorized) | |
 
 <a id="hand-retargeting"></a>
-## Hand Retargeting (39 篇)
+## Hand Retargeting (38 篇)
 
-**2026**
+### 核心结论
 
-| # | Title | Links |
-|---|-------|-------|
-| 1 | TopoRetarget: Interaction-Preserving Retargeting for Dexterous Mani... | [arXiv](https://arxiv.org/abs/2606.16272) |
-| 2 | AnyDexRT: Calibration-Free Dexterous Hand Retargeting with Few-Shot... | [arXiv](https://arxiv.org/abs/2607.08341) | [Code](https://chenxi-wang.github.io/projects/anydexrt/) |
-| 3 | DexTwist: Dexterous Hand Retargeting for Twist Motion via Mixed Rea... | [arXiv](https://arxiv.org/abs/2605.12182) |
-| 4 | Kilohertz-Safe: A Scalable Framework for Constrained Dexterous Reta... | [arXiv](https://arxiv.org/abs/2603.29213) |
-| 5 | Vision-Based Hand Shadowing for Robotic Manipulation via Inverse Ki... | [arXiv](https://arxiv.org/abs/2603.11383) |
-| 6 | Retargeting Matters: General Motion Retargeting for Humanoid Motion... | [arXiv](https://arxiv.org/abs/2510.02252) | [Code](https://github.com/YanjieZe/GMR) |
-| 7 | Functional Force-Aware Retargeting from Virtual Human Demos to Soft... | [arXiv](https://arxiv.org/abs/2604.01224) | [Code](https://soft-act.github.io/) |
-| 8 | DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation | [arXiv](https://arxiv.org/abs/2505.24853) | [Code](https://project-dexmachina.github.io/) |
-| 9 | Beyond Mimicry: Learning Whole-Body Human-Humanoid Interaction from... | [arXiv](https://arxiv.org/abs/2601.09518) |
-| 10 | Cross-Hand Latent Representation for Vision-Language-Action Models | [arXiv](https://arxiv.org/abs/2603.10158) | [Code](https://xl-vla.github.io/) |
-| 11 | DexImit: Learning Bimanual Dexterous Manipulation from Monocular Hu... | [arXiv](https://arxiv.org/abs/2602.10105) | [Code](https://github.com/mujc2021/DexImit-Open) |
-| 12 | TactAlign: Human-to-Robot Policy Transfer via Tactile Alignment | [arXiv](https://arxiv.org/abs/2602.13579) |
-| 13 | HoMMI: Learning Whole-Body Mobile Manipulation from Human Demonstra... | [arXiv](https://arxiv.org/abs/2603.03243) | [Code](https://github.com/xxm19/hommi) |
-| 14 | Mimic Intent, Not Just Trajectories | [arXiv](https://arxiv.org/abs/2602.08602) | [Code](https://github.com/RenMing-Huang/MINT) |
-| 15 | HumDex: Humanoid Dexterous Manipulation Made Easy | [arXiv](https://arxiv.org/abs/2603.12260) | [Code](https://github.com/physical-superintelligence-lab/HumDex) |
+目前重定向最前沿已经不再是单纯追求"机器人姿态像人手"，而是追求：
 
-**2025**
+> 在机器人结构不同、关节受限、存在碰撞和接触的情况下，仍能保持人的操作意图，并真正完成任务。
 
-| # | Title | Links |
-|---|-------|-------|
-| 1 | SPIDER: Scalable Physics-Informed Dexterous Retargeting | [arXiv](https://arxiv.org/abs/2511.09484) | [Code](https://jc-bao.github.io/spider-project/) |
-| 2 | Geometric Retargeting: A Principled, Ultrafast Neural Hand Retarget... | [arXiv](https://arxiv.org/abs/2503.07541) | [Code](https://github.com/facebookresearch/GeoRT) |
-| 3 | Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterou... | [arXiv](https://arxiv.org/abs/2506.09384) | [Code](https://mingrui-yu.github.io/retargeting/) |
-| 4 | Kinematic Motion Retargeting for Contact-Rich Anthropomorphic Manip... | [arXiv](https://arxiv.org/abs/2402.04820) | [Code](https://github.com/lakshmipathyarjun6/kinematic-motion-retargeting) |
-| 5 | Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body... | [arXiv](https://arxiv.org/abs/2412.07773) | [Code](https://mobile-tv.github.io/) |
-| 6 | ViViDex: Learning Vision-Based Dexterous Manipulation from Human Vi... | [arXiv](https://arxiv.org/abs/2404.15709) | [Code](https://github.com/zerchen/vividex_mujoco) |
-| 7 | Robust and Expressive Humanoid Motion Retargeting via Optimization-... |  |
-| 8 | Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imi... | [arXiv](https://arxiv.org/abs/2407.03162) | [Code](https://github.com/Dingry/BunnyVisionPro) |
-| 9 | DexUMI: Using Human Hand as the Universal Manipulation Interface fo... | [arXiv](https://arxiv.org/abs/2505.21864) | [Code](https://github.com/real-stanford/DexUMI) |
-| 10 | DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic ... | [arXiv](https://arxiv.org/abs/2502.07730) | [Code](https://github.com/TEA-Lab/DOGlove/) |
-| 11 | DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies | [arXiv](https://arxiv.org/abs/2505.07813) | [Code](https://github.com/dexwild/dexwild-training) |
-| 12 | Physics-Driven Data Generation for Contact-Rich Manipulation via Tr... | [arXiv](https://arxiv.org/abs/2502.20382) | [Code](https://lujieyang.github.io/physicsgen/) |
-| 13 | DexH2R: Task-Oriented Dexterous Manipulation from Human to Robots | [arXiv](https://arxiv.org/abs/2411.04428) |
-| 14 | Learning to Transfer Human Hand Skills for Robot Manipulations | [arXiv](https://arxiv.org/abs/2501.04169) |
-| 15 | DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and... | [arXiv](https://arxiv.org/abs/2505.01083) |
-| 16 | TWIST: Teleoperated Whole-Body Imitation System | [arXiv](https://arxiv.org/abs/2505.02833) | [Code](https://humanoid-teleop.github.io/) |
-| 17 | TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection S... | [arXiv](https://arxiv.org/abs/2511.02832) | [Code](https://twist-data.github.io/) |
-| 18 | CLONE: Closed-Loop Whole-Body Humanoid Teleoperation with Long-Hori... | [arXiv](https://arxiv.org/abs/2506.08931) |
+最强方案通常是混合架构：
 
-**2024**
+**人体关键点/视频/VR → 快速几何映射 → 约束优化 → 接触与物体状态修正 → RL/残差策略补偿 → 视觉/触觉闭环**
 
-| # | Title | Links |
-|---|-------|-------|
-| 1 | TopoRetarget Interaction-Preserving Retargeting for Dexterous Manip... | [arXiv](https://arxiv.org/abs/2606.16272) |
-| 2 | Tilde: Teleoperation for Dexterous In-Hand Manipulation Learning wi... | [arXiv](https://arxiv.org/abs/2405.18804) | [Code](https://github.com/iamlab-cmu/DeltaHands) |
-| 3 | Twisting Lids Off with Two Hands | [arXiv](https://arxiv.org/abs/2403.02338) | [Code](https://github.com/ToruOwO/twisting-lids) |
-| 4 | Unsupervised Neural Motion Retargeting for Humanoid Teleoperation | [arXiv](https://arxiv.org/abs/2406.00727) |
+### 三级分类标准
 
-**2023**
+"级别"表示方法解决问题的深度，不等于论文质量。
 
-| # | Title | Links |
-|---|-------|-------|
-| 1 | AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoper... | [arXiv](https://arxiv.org/abs/2307.04577) | [Code](https://github.com/dexsuite/dex-retargeting) |
+| 等级 | 定义 | 能解决什么 | 主要局限 |
+|------|------|-----------|---------|
+| **L1** | 姿态/轨迹重定向 | 关节角、指尖位置、手掌姿态、身体关键点映射。 | 看起来像，但不一定接触稳定或完成任务。 |
+| **L2** | 可执行重定向 | 加入关节限位、碰撞、接触、平滑、安全、物理可行性。 | 能执行，但通常仍依赖已知任务和环境。 |
+| **L3** | 功能/意图重定向 | 保持物体运动、接触拓扑、旋拧轴、力、触觉、任务阶段和策略能力。 | 尚不能做到任意机器人、任意任务零样本迁移。 |
 
-**2020**
+**分布：** L1：6 篇（平均覆盖度 70.8%）｜ L2：8 篇（平均覆盖度 81.6%）｜ L3：23 篇（平均覆盖度 85.5%）
 
-| # | Title | Links |
-|---|-------|-------|
-| 1 | DexPilot: Vision-Based Teleoperation of Dexterous Robotic Hand-Arm ... | [arXiv](https://arxiv.org/abs/1910.03135) | [Code](https://yzqin.github.io/dexpilot/) |
+### 覆盖度评分方法
+
+`S = 0.20K + 0.20P + 0.15R + 0.15G + 0.20T + 0.10E`
+
+| 因子 | 含义 |
+|------|------|
+| **K** | 运动学精度与平滑性 |
+| **P** | 接触、物理可行性与安全性 |
+| **R** | 实时、闭环和真机部署 |
+| **G** | 跨机器人、免标定和跨形态能力 |
+| **T** | 新物体、新任务、双手和长时序泛化 |
+| **E** | 实验规模、真机数量和证据完整性 |
+
+> 评分误差约为±5%；2026年尚未正式同行评审的工作约为±8%。
+
+### 场景成熟度总览
+
+| 场景 | 前沿成熟度 | 当前能力 |
+|------|----------|---------|
+| 受控环境下手部姿态实时映射 | **90–95%** | 已经非常成熟，可达到数百Hz至1kHz |
+| 关节限位、自碰撞和基本安全 | **90–95%** | QP、CBF等方法可以提供显式约束 |
+| 已知物体的抓取、搬运、开合 | **80–90%** | 结构化环境中较稳定 |
+| 接触保持、旋拧、手内操作 | **70–85%** | 能处理特定接触模式，但仍需任务模型 |
+| 双手协同和全身操作 | **65–82%** | 能完成长时序任务，但泛化和稳定性仍有限 |
+| 新机器人形态的少样本迁移 | **65–80%** | 人形灵巧手较好，非人形手仍困难 |
+| 单目视频到可执行机器人数据 | **55–75%** | 重建误差、遮挡和尺度误差仍明显 |
+| 任意新任务、新物体零样本执行 | **35–55%** | 尚未真正解决 |
+| 纯视觉开放环境持续遥操作 | **30–60%** | 遮挡仍是最大瓶颈之一 |
+
+> 一个典型例子：视觉IK方案在结构化桌面任务中达到86.7%，但进入杂乱真实环境后，因为遮挡，成功率降至9.3%。
+> 说明现在限制系统的往往已经不是IK本身，而是感知、接触和闭环修正。
+
+### 重点研究路线
+
+| 研究目标 | 最值得参考的论文 |
+|---------|----------------|
+| **高频实时姿态重定向** | GeoRT、AnyDexRT |
+| **安全约束与碰撞处理** | Kilohertz-Safe |
+| **接触保持** | TopoRetarget、DexFlow |
+| **旋拧与手内操作** | DexTwist |
+| **力和触觉重定向** | SoftAct、TactAlign |
+| **可执行数据与策略迁移** | SPIDER、Physics-Driven Data Generation、DexH2R |
+
+---
+
+### 论文列表（按等级 & 覆盖度排序）
+
+#### L1 姿态/轨迹重定向
+
+| # | 论文 | 覆盖度 | 核心解法与效果 | 链接 |
+|--:|------|-------:|---------------|------|
+| 1 | Geometric Retargeting: A Principled, Ultrafast Neural Hand Retarget... | **85%** | 自监督几何网络，优化运动保真、C-space覆盖、捏合和自碰撞；达到1kHz，但主要解决运动学层面 | [arXiv](https://arxiv.org/abs/2503.07541) [Code](https://github.com/facebookresearch/GeoRT) |
+| 2 | Tilde: Teleoperation for Dexterous In-Hand Manipulation Learning wi... | **73%** | 使用与机器人同构的TeleHand直接一对一控制；7个任务策略平均成功率90%，但跨形态能力弱 | [arXiv](https://arxiv.org/abs/2405.18804) [Code](https://github.com/iamlab-cmu/DeltaHands) |
+| 3 | Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterou... | **72%** | 系统分析指尖、方向、掌指距离等不同loss；研究价值高，但不是新的完整功能重定向框架 | [arXiv](https://arxiv.org/abs/2506.09384) [Code](https://mingrui-yu.github.io/retargeting/) |
+| 4 | DexPilot: Vision-Based Teleoperation of Dexterous Robotic Hand-Arm ... | **72%** | 基于人手关键向量的优化式重定向，控制23-DoA臂手系统；奠基性强，但接触和跨形态能力有限 | [arXiv](https://arxiv.org/abs/1910.03135) [Code](https://yzqin.github.io/dexpilot/) |
+| 5 | Unsupervised Neural Motion Retargeting for Humanoid Teleoperation | **65%** | 无配对GAN上肢重定向；验证动作数量和任务范围有限 | [arXiv](https://arxiv.org/abs/2406.00727) |
+| 6 | Vision-Based Hand Shadowing for Robotic Manipulation via Inverse Ki... | **58%** | RGB-D 21点＋阻尼最小二乘IK；受控任务86.7%，开放环境受遮挡影响降至9.3% | [arXiv](https://arxiv.org/abs/2603.11383) |
+#### L2 可执行重定向
+
+| # | 论文 | 覆盖度 | 核心解法与效果 | 链接 |
+|--:|------|-------:|---------------|------|
+| 7 | Kilohertz-Safe: A Scalable Framework for Constrained Dexterous Reta... | **86%** | 差分空间凸QP＋控制障碍函数；平均9.05 ms，超过95%的帧满足安全条件 | [arXiv](https://arxiv.org/abs/2603.29213) |
+| 8 | Retargeting Matters: General Motion Retargeting for Humanoid Motion... | **86%** | 解决足部滑动、自穿透和不可执行全身动作；策略追踪效果接近高质量闭源数据 | [arXiv](https://arxiv.org/abs/2510.02252) [Code](https://github.com/YanjieZe/GMR) |
+| 9 | AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoper... | **82%** | 通用视觉遥操作框架，支持不同手、臂、相机、仿真与真机；RSS 2023 | [arXiv](https://arxiv.org/abs/2307.04577) [Code](https://github.com/dexsuite/dex-retargeting) |
+| 10 | AnyDexRT: Calibration-Free Dexterous Hand Retargeting with Few-Shot... | **81%** | 自监督指尖对应＋少量人工引导＋捏合接触分类器；重点解决不同手型和坐标未标定问题 | [arXiv](https://arxiv.org/abs/2607.08341) [Code](https://chenxi-wang.github.io/projects/anydexrt/) |
+| 11 | Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imi... | **80%** | 双手VR、触觉反馈、碰撞与奇异位形规避；提升遥操作成功率和数据质量 | [arXiv](https://arxiv.org/abs/2407.03162) [Code](https://github.com/Dingry/BunnyVisionPro) |
+| 12 | DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and... | **80%** | 差分时间一致性loss＋接触图修正；改善穿透、自然度和跨手型数据生成 | [arXiv](https://arxiv.org/abs/2505.01083) |
+| 13 | Kinematic Motion Retargeting for Contact-Rich Anthropomorphic Manip... | **79%** | 表面接触＋非等距形状匹配＋IK；验证5种手型、6种动作 | [arXiv](https://arxiv.org/abs/2402.04820) [Code](https://github.com/lakshmipathyarjun6/kinematic-motion-retargeting) |
+| 14 | DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic ... | **79%** | 21-DoF动作捕捉＋力反馈＋动作/触觉重定向；硬件成本低于600美元 | [arXiv](https://arxiv.org/abs/2502.07730) [Code](https://github.com/TEA-Lab/DOGlove/) |
+#### L3 功能/意图重定向
+
+| # | 论文 | 覆盖度 | 核心解法与效果 | 链接 |
+|--:|------|-------:|---------------|------|
+| 15 | SPIDER: Scalable Physics-Informed Dexterous Retargeting | **92%** | 当前综合能力最强之一；物理采样＋虚拟接触课程，覆盖9种机器人、6个数据集，成功率提高18%，比RL基线快10倍 | [arXiv](https://arxiv.org/abs/2511.09484) [Code](https://jc-bao.github.io/spider-project/) |
+| 16 | TopoRetarget Interaction-Preserving Retargeting for Dexterous Manip... | **90%** | 接触图＋拉普拉斯形变＋穿透处理；Pen-Spin训练成功率比基线提高40.6个百分点，并实现Wuji Hand零样本真机迁移 | [arXiv](https://arxiv.org/abs/2606.16272) |
+| 17 | DexUMI: Using Human Hand as the Universal Manipulation Interface fo... | **89%** | 外骨骼减少运动学差距，图像修复减少视觉差距；两种灵巧手平均任务成功率86% | [arXiv](https://arxiv.org/abs/2505.21864) [Code](https://github.com/real-stanford/DexUMI) |
+| 18 | Physics-Driven Data Generation for Contact-Rich Manipulation via Tr... | **89%** | 几何重定向＋轨迹优化＋物理参数变化；生成跨形态数据并零样本部署到双臂真机 | [arXiv](https://arxiv.org/abs/2502.20382) [Code](https://lujieyang.github.io/physicsgen/) |
+| 19 | DexImit: Learning Bimanual Dexterous Manipulation from Monocular Hu... | **88%** | 单目视频重建、子任务分解、双手调度、机器人轨迹合成和数据增强一体化 | [arXiv](https://arxiv.org/abs/2602.10105) [Code](https://github.com/mujc2021/DexImit-Open) |
+| 20 | DexH2R: Task-Oriented Dexterous Manipulation from Human to Robots | **88%** | 重定向基础动作＋任务残差策略＋测试时人手/物体轨迹引导；比此前方法提高约40% | [arXiv](https://arxiv.org/abs/2411.04428) |
+| 21 | TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection S... | **88%** | 便携VR全身采集＋层级视觉策略；15分钟采集100次演示，遥操作采集成功率接近100% | [arXiv](https://arxiv.org/abs/2511.02832) [Code](https://twist-data.github.io/) |
+| 22 | Functional Force-Aware Retargeting from Virtual Human Demos to Soft... | **87%** | 接触力分配＋几何接触修正；轨迹RMSE最高下降55%，方差最高下降69% | [arXiv](https://arxiv.org/abs/2604.01224) [Code](https://soft-act.github.io/) |
+| 23 | TactAlign: Human-to-Robot Policy Transfer via Tactile Alignment | **87%** | 用Rectified Flow对齐人手与机器人触觉潜空间；少于5分钟人类数据即可迁移到新物体和新任务 | [arXiv](https://arxiv.org/abs/2602.13579) |
+| 24 | CLONE: Closed-Loop Whole-Body Humanoid Teleoperation with Long-Hori... | **87%** | MoE全身控制＋实时位置误差闭环；主要解决长距离、长时序漂移 | [arXiv](https://arxiv.org/abs/2506.08931) |
+| 25 | DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies | **86%** | 人手数据与机器人数据联合训练；未知环境成功率68.5%，跨形态泛化提升5.8倍，RSS 2025 | [arXiv](https://arxiv.org/abs/2505.07813) [Code](https://github.com/dexwild/dexwild-training) |
+| 26 | Beyond Mimicry: Learning Whole-Body Human-Humanoid Interaction from... | **85%** | 接触中心的物理重定向＋时空解耦策略；能保持人–人交互中的接触语义，但主要是仿真验证 | [arXiv](https://arxiv.org/abs/2601.09518) |
+| 27 | TWIST: Teleoperated Whole-Body Imitation System | **85%** | MoCap重定向＋RL/BC全身控制器；统一完成行走、全身操作和表达动作 | [arXiv](https://arxiv.org/abs/2505.02833) [Code](https://humanoid-teleop.github.io/) |
+| 28 | DexTwist: Dexterous Hand Retargeting for Twist Motion via Mixed Rea... | **84%** | 不直接复制手指轨迹，而是估计旋拧轴、角度和三指几何关系；适合开盖、拧钥匙和螺栓 | [arXiv](https://arxiv.org/abs/2605.12182) |
+| 29 | DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation | **84%** | 虚拟物体控制器逐渐衰减，让策略逐步接管；面向双手、关节物体和长时序任务 | [arXiv](https://arxiv.org/abs/2505.24853) [Code](https://project-dexmachina.github.io/) |
+| 30 | Cross-Hand Latent Representation for Vision-Language-Action Models | **84%** | 将不同机器人手动作编码进统一潜空间，使不同手型的数据可以共同训练VLA | [arXiv](https://arxiv.org/abs/2603.10158) [Code](https://xl-vla.github.io/) |
+| 31 | HumDex: Humanoid Dexterous Manipulation Made Easy | **84%** | IMU全身追踪＋学习式手部重定向＋人类数据预训练/机器人数据微调 | [arXiv](https://arxiv.org/abs/2603.12260) [Code](https://github.com/physical-superintelligence-lab/HumDex) |
+| 32 | ViViDex: Learning Vision-Based Dexterous Manipulation from Human Vi... | **84%** | 用轨迹引导RL把噪声视频轨迹修复为物理可行轨迹，再训练视觉策略；ICRA 2025 | [arXiv](https://arxiv.org/abs/2404.15709) [Code](https://github.com/zerchen/vividex_mujoco) |
+| 33 | HoMMI: Learning Whole-Body Mobile Manipulation from Human Demonstra... | **83%** | 跨形态手眼表示＋全身控制器；将无机器人参与的人类演示迁移到移动操作机器人 | [arXiv](https://arxiv.org/abs/2603.03243) [Code](https://github.com/xxm19/hommi) |
+| 34 | Learning to Transfer Human Hand Skills for Robot Manipulations | **82%** | 学习人手、机器人手和物体运动的联合流形；比单纯关键点重定向更关注交互合理性 | [arXiv](https://arxiv.org/abs/2501.04169) |
+| 35 | Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body... | **81%** | 上肢IK保持精度，下肢RL保持稳定，CVAE预测运动先验协调全身；ICRA 2025 | [arXiv](https://arxiv.org/abs/2412.07773) [Code](https://mobile-tv.github.io/) |
+| 36 | Mimic Intent, Not Just Trajectories | **80%** | 将低频任务意图与高频执行细节分开编码；实现一次示范技能迁移，但不是传统IK重定向 | [arXiv](https://arxiv.org/abs/2602.08602) [Code](https://github.com/RenMing-Huang/MINT) |
+| 37 | Twisting Lids Off with Two Hands | **79%** | 双手开盖的接触建模、感知和RL；任务效果强，但重定向不是核心贡献 | [arXiv](https://arxiv.org/abs/2403.02338) [Code](https://github.com/ToruOwO/twisting-lids) |
+#### 未评级
+
+| # | 论文 | 覆盖度 | 核心解法与效果 | 链接 |
+|--:|------|-------:|---------------|------|
+| 38 | Robust and Expressive Humanoid Motion Retargeting via Optimization-... | **—** |  |  |
 
 
 <a id="foundation-models"></a>
