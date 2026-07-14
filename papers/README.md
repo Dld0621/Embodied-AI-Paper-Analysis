@@ -1695,7 +1695,7 @@
 
 | # | Title | Links |
 |---|-------|-------|
-| 1 | Semantic Contact Fields for Category-Level Generalizable Tool Manip... | [Code](https://roboticsconference.org/program/papers/4/) |
+| 1 | Semantic Contact Fields for Category-Level Generalizable Tool Manip... | [arXiv](https://arxiv.org/abs/2602.13833) | [Code](https://roboticsconference.org/program/papers/4/) |
 | 2 | Contact-Grounded Policy: Dexterous Visuotactile Policy with Generat... | [arXiv](https://arxiv.org/abs/2603.05687) | [Code](https://contact-grounded-policy.github.io/) |
 | 3 | Force Policy: Learning Hybrid Force-Position Control Policy under I... | [arXiv](https://arxiv.org/abs/2602.22088) | [Code](https://github.com/force-policy/ForcePolicy) |
 | 4 | TACTIC: Tactile and Vision Conditioned Contact-Centric Control for ... | [Code](https://roboticsconference.org/program/papers/60/) |
@@ -1711,9 +1711,9 @@
 | # | Title | Links |
 |---|-------|-------|
 | 1 | Complementarity-Free Multi-Contact Modeling and Optimization for De... | [Code](https://www.roboticsproceedings.org/rss21/p111.html) |
-| 2 | Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy | [Code](https://pku-epic.github.io/Dexonomy/) |
+| 2 | Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy | [arXiv](https://arxiv.org/abs/2504.18829) | [Code](https://pku-epic.github.io/Dexonomy/) |
 | 3 | GraspQP: Differentiable Optimization of Force Closure for Diverse a... | [arXiv](https://arxiv.org/abs/2508.15002) | [Code](https://github.com/leggedrobotics/graspqp) |
-| 4 | DexGrasp Anything: Towards Universal Robotic Dexterous Grasping wit... |  |
+| 4 | DexGrasp Anything: Towards Universal Robotic Dexterous Grasping wit... | [arXiv](https://arxiv.org/abs/2503.08257) | [Code](https://github.com/4DVLab/DexGrasp-Anything) |
 
 **2024**
 
