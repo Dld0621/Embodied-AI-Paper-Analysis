@@ -1,6 +1,6 @@
 # Embodied AI Paper Collection by Topic
 > 按主题分类的论文索引，一级分类为大类，二级分类为子类，每个分类内按年份降序排列。
-> 总计: 1043 篇论文 | 生成时间: 2026-07-14
+> 总计: 1099 篇论文 | 生成时间: 2026-07-14
 > 标注: [arXiv] 在线论文 | [Code] 代码/项目页 | [Google Scholar] 搜索链接
 
 ## 快速导航
@@ -13,6 +13,10 @@
 | [Policy Learning](#policy-learning) | [Simulation & World Models](#simulation--world-models) | [Navigation & Tracking](#navigation--tracking) |
 | [Hardware & Sensing](#hardware--sensing) | [Data Generation](#data-generation) | [Video Generation](#video-generation) |
 | [Others](#others) | [Uncategorized](#uncategorized) | [Tactile](#tactile) |
+| [3D Vision](#3d-vision) | [Gaussian Splatting](#gaussian-splatting) | [Motion Tracking](#motion-tracking) |
+| [Tactile Sensing](#tactile-sensing) | [Navigation](#navigation) | [Reinforcement Learning](#reinforcement-learning) |
+| [VLA](#vla) | [Simulation](#simulation) | [World Models](#world-models) |
+| [Teleoperation](#teleoperation) | [Hardware](#hardware) | |
 
 <a id="hand-retargeting"></a>
 ## Hand Retargeting (45 篇)
@@ -150,7 +154,7 @@
 
 
 <a id="foundation-models"></a>
-## Foundation Models (21 篇)
+## Foundation Models (22 篇)
 
 **2025**
 
@@ -174,6 +178,12 @@
 | 9 | articulate-anything Automatic Modeling of Articulated Objects via a... | arXiv 2024 | [arXiv](https://arxiv.org/abs/2410.13882) |
 | 10 | Theia: Distilling Diverse Vision Foundation Models for Robot Learning | arXiv 2024 | [arXiv](https://arxiv.org/abs/2407.20179) |
 | 11 | DecisionNCE: Embodied Multimodal Representations via Implicit Prefe... | arXiv 2024 | [arXiv](https://arxiv.org/abs/2402.18137) |
+
+**2023**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robot... | CoRL | [arXiv](https://arxiv.org/abs/2307.15818) |
 
 **2022**
 
@@ -347,7 +357,7 @@
 
 
 <a id="manipulation"></a>
-## Manipulation (29 篇)
+## Manipulation (31 篇)
 
 **2025**
 
@@ -391,6 +401,13 @@
 |---|-------|-------|-------|
 | 1 | On Bringing Robots Home | arXiv 2023 | [arXiv](https://arxiv.org/abs/2311.16098) |
 
+**2023**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | MimicPlay: Long-Horizon Imitation Learning by Watching Human Play | CoRL | [arXiv](https://arxiv.org/abs/2302.12488) |
+| 2 | VoxPoser: Composable 3D Value Maps for Robotic Manipulation with La... | CoRL | [arXiv](https://arxiv.org/abs/2307.05973) |
+
 **2018**
 
 | # | Title | Venue | Links |
@@ -405,7 +422,7 @@
 
 
 <a id="grasping"></a>
-## Grasping (23 篇)
+## Grasping (26 篇)
 
 **2026**
 
@@ -440,6 +457,12 @@
 | 14 | The GRASP Taxonomy of Human Grasp Types | RSS / ICRA / IROS | [Google Scholar](https://scholar.google.com/scholar?q=The%20GRASP%20Taxonomy%20of%20Human%20Grasp%20Types) |
 | 15 | DeliGrasp: Inferring Object Properties with LLMs for Adaptive Grasp... | RSS / ICRA / IROS |  |
 
+**2024**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | DexGraspNet 2.0: Learning Generative Dexterous Grasping in Large-sc... | CoRL | [arXiv](https://arxiv.org/abs/2410.12658) |
+
 **2023**
 
 | # | Title | Venue | Links |
@@ -447,6 +470,13 @@
 | 1 | Learning a Universal Human Prior for Dexterous Manipulation from Hu... | arXiv 2023 | [arXiv](https://arxiv.org/abs/2304.04602) |
 | 2 | RA-L 2023, Learning Continuous Grasping Function with a Dexterous H... | arXiv 2023 | [arXiv](https://arxiv.org/abs/2207.05053) |
 | 3 | GraspGF Learning Score-based Grasping Primitive for Human-assisting... | arXiv 2023 | [arXiv](https://arxiv.org/abs/2309.06038) |
+
+**2023**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | Geometry Matching for Multi-Embodiment Grasping | CoRL | [arXiv](https://arxiv.org/abs/2312.08642) |
+| 2 | Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesi... | CoRL | [arXiv](https://arxiv.org/abs/2311.17879) |
 
 **2022**
 
@@ -523,7 +553,7 @@
 
 
 <a id="locomotion"></a>
-## Locomotion (20 篇)
+## Locomotion (21 篇)
 
 **2025**
 
@@ -559,6 +589,12 @@
 | 4 | Prompt a Robot to Walk with Large Language Models | arXiv 2023 | [arXiv](https://arxiv.org/abs/2309.09969) |
 | 5 | Robust and Versatile Bipedal Jumping Control through Reinforcement ... | arXiv 2023 | [arXiv](https://arxiv.org/abs/2302.09450) |
 | 6 | Barkour Benchmarking Animal-level Agility with Quadruped Robots | arXiv 2023 | [arXiv](https://arxiv.org/abs/2305.14654) |
+
+**2023**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | Robot Parkour Learning | CoRL | [arXiv](https://arxiv.org/abs/2309.05665) |
 
 
 <a id="policy-learning"></a>
@@ -874,7 +910,7 @@
 
 
 <a id="data-generation"></a>
-## Data Generation (12 篇)
+## Data Generation (14 篇)
 
 **2026**
 
@@ -888,7 +924,7 @@
 |---|-------|-------|-------|
 | 1 | Physics IQ Benchmark Do generative video models learn physical prin... | arXiv 2025 | [arXiv](https://arxiv.org/abs/2501.09038) |
 | 2 | DiffuseLoco Real-Time Legged Locomotion Control with Diffusion from... | RSS / CoRL / ICRA | [Google Scholar](https://scholar.google.com/scholar?q=DiffuseLoco%20Real-Time%20Legged%20Locomotion%20Control%20with%20Diffusion%20from%20Offline%20Datasets) |
-| 3 | HumanoidMimicGen Data Generation for Loco-Manipulation via Whole-Bo... | RSS / CoRL / ICRA | [Google Scholar](https://scholar.google.com/scholar?q=HumanoidMimicGen%20Data%20Generation%20for%20Loco-Manipulation%20via%20Whole-Body%20Planning%20and%20Adaptation) |
+| 3 | HumanoidMimicGen Data Generation for Loco-Manipulation via Whole-Bo... | RSS / CoRL / ICRA | [arXiv](https://arxiv.org/abs/2310.17596) |
 | 4 | IntervenGen Interventional Data Generation for Robust and Data-Effi... | RSS / CoRL / ICRA | [Google Scholar](https://scholar.google.com/scholar?q=IntervenGen%20Interventional%20Data%20Generation%20for%20Robust%20and%20Data-Efficient%20Robot%20Imitation%20Learning) |
 | 5 | ManiBox Enhancing Spatial Grasping Generalization via Scalable Simu... | RSS / CoRL / ICRA | [Google Scholar](https://scholar.google.com/scholar?q=ManiBox%20Enhancing%20Spatial%20Grasping%20Generalization%20via%20Scalable%20Simulation%20Data%20Generation) |
 | 6 | Robot Data Curation with Mutual Information Estimators | RSS / CoRL / ICRA | [Google Scholar](https://scholar.google.com/scholar?q=Robot%20Data%20Curation%20with%20Mutual%20Information%20Estimators) |
@@ -902,15 +938,27 @@
 | 2 | BiGym A Demo-Driven Mobile Bi-Manual Manipulation Benchmark | RSS / CoRL / ICRA | [Google Scholar](https://scholar.google.com/scholar?q=BiGym%20A%20Demo-Driven%20Mobile%20Bi-Manual%20Manipulation%20Benchmark) |
 | 3 | DemoGen Synthetic Demonstration Generation for Data-Efficient Visuo... | RSS / CoRL / ICRA | [Google Scholar](https://scholar.google.com/scholar?q=DemoGen%20Synthetic%20Demonstration%20Generation%20for%20Data-Efficient%20Visuomotor%20Policy%20Learning) |
 
+**2024**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset | RSS | [arXiv](https://arxiv.org/abs/2403.12945) |
+
 **2023**
 
 | # | Title | Venue | Links |
 |---|-------|-------|-------|
 | 1 | ARCTIC A Dataset for Dexterous Bimanual Hand-Object Manipulation | RSS / CoRL / ICRA | [Google Scholar](https://scholar.google.com/scholar?q=ARCTIC%20A%20Dataset%20for%20Dexterous%20Bimanual%20Hand-Object%20Manipulation) |
 
+**2023**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | MimicGen: A Data Generation System for Scalable Robot Learning usin... | CoRL | [arXiv](https://arxiv.org/abs/2310.17596) |
+
 
 <a id="video-generation"></a>
-## Video Generation (5 篇)
+## Video Generation (7 篇)
 
 **2025**
 
@@ -919,6 +967,13 @@
 | 1 | CAT4D Create Anything in 4D with Multi-View Video Diffusion Models | CVPR / ICCV / SIGGRAPH | [Google Scholar](https://scholar.google.com/scholar?q=CAT4D%20Create%20Anything%20in%204D%20with%20Multi-View%20Video%20Diffusion%20Models) |
 | 2 | Generative Image as Action Models | CVPR / ICCV / SIGGRAPH | [Google Scholar](https://scholar.google.com/scholar?q=Generative%20Image%20as%20Action%20Models) |
 | 3 | One-Minute Video Generation with Test-Time Training | CVPR / ICCV / SIGGRAPH | [Google Scholar](https://scholar.google.com/scholar?q=One-Minute%20Video%20Generation%20with%20Test-Time%20Training) |
+
+**2024**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | Lumiere: A Space-Time Diffusion Model for Video Generation | ACM TOG | [arXiv](https://arxiv.org/abs/2401.12945) |
+| 2 | VideoCrafter2: Overcoming Data Limitations for High-Quality Video D... | CVPR | [arXiv](https://arxiv.org/abs/2401.09047) |
 
 **2023**
 
@@ -1720,4 +1775,198 @@
 | # | Title | Venue | Links |
 |---|-------|-------|-------|
 | 1 | SpringGrasp: Synthesizing Compliant, Dexterous Grasps Under Shape U... | RSS 2024 | [arXiv](https://www.roboticsproceedings.org/rss20/p042.pdf) | [Code](https://www.roboticsproceedings.org/rss20/p042.pdf) |
+
+
+<a id="3d-vision"></a>
+## 3D Vision (4 篇)
+
+**2024**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Em... | CVPR | [arXiv](https://arxiv.org/abs/2312.16170) |
+
+**2023**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | OVIR-3D: Open-Vocabulary 3D Instance Retrieval Without Training on ... | CoRL | [arXiv](https://arxiv.org/abs/2311.15884) |
+| 2 | SayPlan: Grounding Large Language Models using 3D Scene Graphs for ... | CoRL | [arXiv](https://arxiv.org/abs/2307.11503) |
+| 3 | OpenShape: Scaling Up 3D Shape Representation Towards Open-World Un... | NeurIPS | [arXiv](https://arxiv.org/abs/2305.10745) |
+
+
+<a id="gaussian-splatting"></a>
+## Gaussian Splatting (3 篇)
+
+**2024**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | 2D Gaussian Splatting for Geometrically Accurate Radiance Fields | ACM TOG | [arXiv](https://arxiv.org/abs/2403.17888) |
+| 2 | SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM | CVPR | [arXiv](https://arxiv.org/abs/2312.02126) |
+
+**2023**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | 3D Gaussian Splatting for Real-Time Radiance Field Rendering | ACM TOG | [arXiv](https://arxiv.org/abs/2308.04079) |
+
+
+<a id="motion-tracking"></a>
+## Motion Tracking (4 篇)
+
+**2024**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | BootsTAP: Bootstrapped Training for Tracking-Any-Point | CVPR | [arXiv](https://arxiv.org/abs/2402.04824) |
+| 2 | CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling R... | ECCV | [arXiv](https://arxiv.org/abs/2410.12680) |
+
+**2023**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | TAPIR: Tracking Any Point with Per-Frame Initialization and Tempora... | ICCV | [arXiv](https://arxiv.org/abs/2306.08637) |
+| 2 | CoTracker: It is Better to Track Together | NeurIPS | [arXiv](https://arxiv.org/abs/2307.07635) |
+
+
+<a id="tactile-sensing"></a>
+## Tactile Sensing (1 篇)
+
+**2024**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | Sparsh: Self-supervised Touch Representations for Vision-based Tact... | CoRL | [arXiv](https://arxiv.org/abs/2410.24090) |
+
+
+<a id="navigation"></a>
+## Navigation (2 篇)
+
+**2024**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | Lifelong Autonomous Improvement of Navigation Foundation Models in ... | CoRL | [arXiv](https://arxiv.org/abs/2405.15795) |
+
+**2023**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | ViNT: A Foundation Model for Visual Navigation | CoRL | [arXiv](https://arxiv.org/abs/2306.14846) |
+
+
+<a id="reinforcement-learning"></a>
+## Reinforcement Learning (3 篇)
+
+**2024**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | Autonomous Improvement of Instruction Following Skills via Foundati... | CoRL | [arXiv](https://arxiv.org/abs/2407.20635) |
+
+**2023**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | Action-Quantized Offline Reinforcement Learning for Robotic Skill L... | CoRL | [arXiv](https://arxiv.org/abs/2310.12903) |
+| 2 | Autonomous Robotic Reinforcement Learning with Asynchronous Human F... | CoRL | [arXiv](https://arxiv.org/abs/2306.11695) |
+
+
+<a id="vla"></a>
+## VLA (20 篇)
+
+**2026**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | FASTer: Toward Powerful and Efficient Autoregressive Vision--Langua... | ICLR | [arXiv](https://arxiv.org/abs/2512.04795) |
+| 2 | From Spatial to Actions: Grounding Vision-Language-Action Model in ... | ICLR | [arXiv](https://arxiv.org/abs/2510.08395) |
+| 3 | HAMLET: Switch Your Vision-Language-Action Model into a History-Awa... | ICLR | [arXiv](https://arxiv.org/abs/2510.10111) |
+| 4 | HybridVLA: Collaborative Diffusion and Autoregression in a Unified ... | ICLR | [arXiv](https://arxiv.org/abs/2503.10631) |
+| 5 | OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Rea... | ICLR | [arXiv](https://arxiv.org/abs/2505.09593) |
+| 6 | PixelVLA: Advancing Pixel-level Understanding in Vision-Language-Ac... | ICLR | [arXiv](https://arxiv.org/abs/2511.01571) |
+| 7 | Self-Improving Vision-Language-Action Models with Data Generation v... | ICLR | [arXiv](https://arxiv.org/abs/2511.01617) |
+| 8 | SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning | ICLR | [arXiv](https://arxiv.org/abs/2509.05240) |
+| 9 | Unified Diffusion VLA: Vision-Language-Action Model via Joint Discr... | ICLR | [arXiv](https://arxiv.org/abs/2511.01563) |
+| 10 | VLM4VLA: Revisiting Vision-Language-Models in Vision-Language-Actio... | ICLR | [arXiv](https://arxiv.org/abs/2601.01234) |
+| 11 | X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Visio... | ICLR | [arXiv](https://arxiv.org/abs/2510.05506) |
+
+**2025**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation | ICLR | [arXiv](https://arxiv.org/abs/2410.07864) |
+| 2 | TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awarenes... | ICLR | [arXiv](https://arxiv.org/abs/2412.16756) |
+| 3 | ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consiste... | RSS | [arXiv](https://arxiv.org/abs/2502.05450) |
+| 4 | Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Suc... | RSS | [arXiv](https://arxiv.org/abs/2502.19645) |
+| 5 | SpatialVLA: Exploring Spatial Representations for Visual-Language-A... | RSS | [arXiv](https://arxiv.org/abs/2501.12168) |
+
+**2024**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | Unleashing Large-Scale Video Generative Pre-training for Visual Rob... | ICLR | [arXiv](https://arxiv.org/abs/2312.09845) |
+| 2 | Vision-Language Foundation Models as Effective Robot Imitators | ICLR | [arXiv](https://arxiv.org/abs/2311.13840) |
+| 3 | 3D-VLA: A 3D Vision-Language-Action Generative World Model | ICML | [arXiv](https://arxiv.org/abs/2403.01288) |
+
+**2023**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | RT-1: Robotics Transformer for Real-World Control at Scale | RSS | [arXiv](https://arxiv.org/abs/2212.06817) |
+
+
+<a id="simulation"></a>
+## Simulation (3 篇)
+
+**2024**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | UBSoft: A Simulation Platform for Robotic Skill Learning in Unbound... | CoRL | [arXiv](https://arxiv.org/abs/2411.13943) |
+
+**2023**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills | ICLR | [arXiv](https://arxiv.org/abs/2302.04659) |
+| 2 | Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots | NeurIPS | [arXiv](https://arxiv.org/abs/2310.13724) |
+
+
+<a id="world-models"></a>
+## World Models (1 篇)
+
+**2024**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | RoboDreamer: Learning Compositional World Models for Robot Imagination | ICML | [arXiv](https://arxiv.org/abs/2404.12377) |
+
+
+<a id="teleoperation"></a>
+## Teleoperation (1 篇)
+
+**2024**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | ACE: A Cross-platform and visual-Exoskeletons System for Low-Cost D... | CoRL | [arXiv](https://arxiv.org/abs/2408.12200) |
+
+
+<a id="hardware"></a>
+## Hardware (3 篇)
+
+**2024**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | Universal Manipulation Interface: In-The-Wild Robot Teaching Withou... | RSS | [arXiv](https://arxiv.org/abs/2402.10329) |
+
+**2023**
+
+| # | Title | Venue | Links |
+|---|-------|-------|-------|
+| 1 | LEAP Hand: Low-Cost, Efficient, and Anthropomorphic Hand for Robot ... | RSS | [arXiv](https://arxiv.org/abs/2309.06440) |
+| 2 | Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware | RSS | [arXiv](https://arxiv.org/abs/2304.13705) |
 
