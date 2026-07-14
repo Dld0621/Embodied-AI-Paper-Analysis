@@ -1,6 +1,6 @@
 # Embodied AI Paper Collection by Topic
 > 按主题分类的论文索引，每个主题内按年份降序排列。
-> 总计: 985 篇论文 | 生成时间: 2026-07-13
+> 总计: 993 篇论文 | 生成时间: 2026-07-14
 > 标注: [arXiv] 在线论文 | [Code] 代码/项目页 | [Google Scholar] 搜索链接
 
 ## Foundation Models (21 篇)
@@ -382,7 +382,16 @@
 | 3 | PIVOT-R: Waypoint-Aware World Model for Language-Guided Robotic Man... | [arXiv](https://arxiv.org/abs/2410.10394) |
 
 
-## Manipulation (29 篇)
+## Manipulation (37 篇)
+
+### 2026
+
+| # | Title | Links |
+|---|-------|-------|
+| 1 | AnyDexRT: Calibration-Free Dexterous Hand Retargeting with Few-Shot... | [arXiv](https://arxiv.org/abs/2607.08341) | [Code](https://chenxi-wang.github.io/projects/anydexrt/) |
+| 2 | DexTwist: Dexterous Hand Retargeting for Twist Motion via Mixed Rea... | [arXiv](https://arxiv.org/abs/2605.12182) |
+| 3 | Kilohertz-Safe: A Scalable Framework for Constrained Dexterous Reta... | [arXiv](https://arxiv.org/abs/2603.29213) |
+| 4 | Vision-Based Hand Shadowing for Robotic Manipulation via Inverse Ki... | [arXiv](https://arxiv.org/abs/2603.11383) |
 
 ### 2025
 
@@ -399,6 +408,10 @@
 | 9 | OmniManip: Towards General Robotic Manipulation via Object-Centric ... | [arXiv](https://arxiv.org/abs/2501.03841) |
 | 10 | G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizabl... | [arXiv](https://arxiv.org/abs/2411.18369) |
 | 11 | AR-VRM: Imitating Human Motions for Visual Robot Manipulation with ... | [arXiv](https://arxiv.org/abs/2508.07626) |
+| 12 | SPIDER: Scalable Physics-Informed Dexterous Retargeting | [arXiv](https://arxiv.org/abs/2511.09484) | [Code](https://jc-bao.github.io/spider-project/) |
+| 13 | Geometric Retargeting: A Principled, Ultrafast Neural Hand Retarget... | [arXiv](https://arxiv.org/abs/2503.07541) | [Code](https://github.com/facebookresearch/GeoRT) |
+| 14 | Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterou... | [arXiv](https://arxiv.org/abs/2506.09384) | [Code](https://mingrui-yu.github.io/retargeting/) |
+| 15 | Kinematic Motion Retargeting for Contact-Rich Anthropomorphic Manip... | [arXiv](https://arxiv.org/abs/2402.04820) | [Code](https://github.com/lakshmipathyarjun6/kinematic-motion-retargeting) |
 
 ### 2024
 
