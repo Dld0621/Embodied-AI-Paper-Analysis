@@ -97,7 +97,7 @@ $$J(\pi) = \mathbb{E}\left[\sum_t \gamma^t (r_{env}(s_t, a_t) + r_{human}(s_t, a
 ```bibtex
 @inproceedings{luo2024hilserl,
   title={Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning},
-  author={Luo, Jianlan and Xu, Charles and Zhu, Xinyuan and Jang, Eric and Nasiriany, Soroush and and others},
+  author={Luo, Jianlan and Xu, Charles and Zhu, Xinyuan and Jang, Eric and Nasiriany, Soroush and others},
   booktitle={RSS},
   year={2024}
 }
