@@ -7,8 +7,8 @@
 1. 从模板复制一份：`cp docs/paper-analysis-template.md notes/<主题目录>/<文件名>.md`
 2. 文件名统一为 `YYYY-简短标题.md`，全小写连字符，例如 `2025-diffusion-policy.md`。同名论文若有多篇分析，加作者首字母：`2025-retargeting-yan.md`
 3. 逐节填写，至少完成"元信息""一句话总结""研究问题""核心方法""与本项目的关联"五节
-4. 主题归属参照 `docs/taxonomy.md`，跨主题论文归到核心贡献所在目录，其余主题写入"主题标签"
-5. 运行 `python scripts/generate_index.py` 更新 `notes/README.md` 索引
+4. 主题归属参照 README.md 中的方向地图，跨主题论文归到核心贡献所在目录，其余主题写入"主题标签"
+5. 更新 `notes/README.md` 中的 ✓ 标记
 
 ## 提交规范
 
@@ -25,7 +25,7 @@
 
 ## 扩展分类
 
-当某主题笔记超过 15 篇，可在其目录下开子目录细分，并在 `docs/taxonomy.md` 与主 `README.md` 的分类表同步更新。新增一级主题需联系维护者讨论。
+当某主题笔记超过 15 篇，可在其目录下开子目录细分，并在主 `README.md` 的分类表同步更新。新增一级主题需联系维护者讨论。
 
 ## Issue 与讨论
 

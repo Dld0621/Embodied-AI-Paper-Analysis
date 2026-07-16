@@ -16,42 +16,45 @@
 
 ## Perception & Representation · 感知与表征
 
-- [✓] [foundation-models](./perception\foundation-models/)
-- [—] [3d-vision](./perception\3d-vision/)
-- [—] [gaussian-splatting](./perception\gaussian-splatting/)
-- [—] [motion-tracking](./perception\motion-tracking/)
-- [—] [tactile](./perception\tactile/)
+- [✓] [foundation-models](./perception/foundation-models/)
+- [—] [3d-vision](./perception/3d-vision/)
+- [—] [gaussian-splatting](./perception/gaussian-splatting/)
+- [—] [motion-tracking](./perception/motion-tracking/)
+- [—] [tactile](./perception/tactile/)
 
 ## Manipulation & Grasping · 操作与抓取
 
-- [✓] [manipulation](./manipulation\manipulation/)
-- [—] [grasping](./manipulation\grasping/)
-- [—] [retargeting](./manipulation\retargeting/)
+- [✓] [manipulation](./manipulation/manipulation/)
+- [—] [grasping](./manipulation/grasping/)
+- [—] [retargeting](./manipulation/retargeting/)
 
 ## Locomotion & Navigation · 移动与导航
 
-- [—] [humanoid](./locomotion\humanoid/)
-- [—] [locomotion](./locomotion\locomotion/)
-- [—] [navigation](./locomotion\navigation/)
-- [✓] [teleoperation](./locomotion\teleoperation/)
+- [—] [humanoid](./locomotion/humanoid/)
+- [—] [locomotion](./locomotion/locomotion/)
+- [—] [navigation](./locomotion/navigation/)
+- [✓] [teleoperation](./locomotion/teleoperation/)
 
 ## Policy Learning · 策略学习
 
-- [✓] [diffusion-policy](./policy\diffusion-policy/)
-- [—] [reinforcement-learning](./policy\reinforcement-learning/)
-- [✓] [vla](./policy\vla/)
+- [✓] [diffusion-policy](./policy/diffusion-policy/)
+- [—] [reinforcement-learning](./policy/reinforcement-learning/)
+- [✓] [vla](./policy/vla/)
 
 ## Simulation & Data · 仿真与数据
 
-- [—] [simulation](./simulation\simulation/)
-- [—] [data-generation](./simulation\data-generation/)
+- [—] [simulation](./simulation/simulation/)
+- [—] [data-generation](./simulation/data-generation/)
 
 ## World Models & Generation · 世界模型与生成
 
-- [—] [world-models](./world-models\world-models/)
-- [—] [video-generation](./world-models\video-generation/)
+- [—] [world-models](./world-models/world-models/)
+- [—] [video-generation](./world-models/video-generation/)
 
 ## Hardware & Systems · 硬件与系统
 
-- [—] [hardware](./hardware\hardware/)
+- [—] [hardware](./hardware/hardware/)
 
+---
+
+> **笔记进度**: 已完成深度笔记 7 篇，覆盖 5/20 子方向。持续更新中。
