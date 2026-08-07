@@ -44,12 +44,13 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
     papers = catalog.get("papers", [])
     venues = catalog.get("venues", [])
     tracks = catalog.get("tracks", [])
+    track_meta = catalog.get("track_meta", {})
     window = catalog.get("window", {})
     start = window.get("start")
     end = window.get("end")
 
-    if catalog.get("schema_version") != 1:
-        errors.append("schema_version must be 1")
+    if catalog.get("schema_version") != 2:
+        errors.append("schema_version must be 2")
     if not isinstance(start, int) or not isinstance(end, int) or start > end:
         errors.append("window must define a valid integer start/end")
     if not isinstance(papers, list) or not papers:
@@ -57,6 +58,15 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
         return errors, {}
     if len(papers) > 100:
         errors.append("catalog is no longer curated: more than 100 core papers")
+    if set(track_meta) != set(tracks):
+        errors.append("track_meta must define every research track exactly once")
+    for track in tracks:
+        meta = track_meta.get(track, {})
+        for field in ("name_zh", "question", "question_zh", "pipeline", "pipeline_zh"):
+            if not meta.get(field):
+                errors.append(f"{track}: missing track metadata field {field}")
+        if len(meta.get("pipeline", [])) != 4 or len(meta.get("pipeline_zh", [])) != 4:
+            errors.append(f"{track}: pipelines must contain exactly four stages")
 
     title_counts: Counter[str] = Counter()
     venue_counts: Counter[str] = Counter()
@@ -118,11 +128,20 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
     missing_tracks = [track for track in tracks if track_counts[track] == 0]
     if missing_tracks:
         errors.append(f"tracks without coverage: {missing_tracks}")
+    expected_years = set(range(start, end + 1))
+    for track in tracks:
+        track_papers = [paper for paper in papers if paper.get("track") == track]
+        track_years = {paper["year"] for paper in track_papers}
+        track_venues = {paper["venue"] for paper in track_papers}
+        if track_years != expected_years:
+            errors.append(f"{track}: must cover every year from {start} through {end}")
+        if len(track_venues) < 3:
+            errors.append(f"{track}: must include papers from at least three major venues")
 
     for relative, markers in {
-        "README.md": ("2022–2026", "66", "formally accepted"),
-        "index.html": ("data/papers.json", "paper-grid", "Accepted papers only"),
-        "papers/README.md": ("2022–2026", "66 curated papers"),
+        "README.md": ("2022–2026", "74", "formally accepted"),
+        "index.html": ("data/papers.json", "direction-grid", "Accepted papers only", "74"),
+        "papers/README.md": ("2022–2026", "74 curated papers", "Direction coverage"),
     }.items():
         text = (ROOT / relative).read_text(encoding="utf-8")
         for marker in markers:
@@ -137,6 +156,10 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
         "official_source_hosts": len(
             {urlparse(paper["official_url"]).hostname for paper in papers}
         ),
+        "direction_year_coverage": {
+            track: len({paper["year"] for paper in papers if paper["track"] == track})
+            for track in tracks
+        },
     }
     return errors, stats
 

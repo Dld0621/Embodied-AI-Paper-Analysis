@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "as_of": "2026-08-07",
   "window": {
     "start": 2022,
@@ -27,6 +27,57 @@
     "Perception & World Models",
     "Simulation, Data & Evaluation"
   ],
+  "track_meta": {
+    "Foundation Models & VLA": {
+      "name_zh": "基础模型与 VLA",
+      "question": "How do multimodal foundation models turn perception and language into general robot actions?",
+      "question_zh": "多模态基础模型如何把感知与语言转化为可泛化的机器人动作？",
+      "pipeline": ["Images + language + state", "Multimodal representation", "Action generation", "Robot execution"],
+      "pipeline_zh": ["图像、语言与状态", "多模态表征", "动作生成", "机器人执行"]
+    },
+    "Manipulation & Imitation": {
+      "name_zh": "操作与模仿学习",
+      "question": "How can robots acquire precise, robust manipulation skills from demonstrations and interaction?",
+      "question_zh": "机器人如何从示范与交互中获得精确、稳健的操作技能？",
+      "pipeline": ["Demonstrations + observations", "Policy learning", "Action sequence", "Closed-loop execution"],
+      "pipeline_zh": ["示范与观测", "策略学习", "动作序列", "闭环执行"]
+    },
+    "Dexterity & Teleoperation": {
+      "name_zh": "灵巧操作与遥操作",
+      "question": "How do hands, tactile signals, and teleoperation interfaces support contact-rich control?",
+      "question_zh": "灵巧手、触觉信号与遥操作接口如何支撑接触丰富的控制？",
+      "pipeline": ["Human / vision / touch", "Retargeting or contact model", "Hand-arm control", "Task outcome"],
+      "pipeline_zh": ["人体、视觉与触觉", "重定向或接触模型", "手臂协同控制", "任务结果"]
+    },
+    "Navigation & Embodied Agents": {
+      "name_zh": "导航与具身智能体",
+      "question": "How do agents build spatial memory, plan, and act over long horizons in open environments?",
+      "question_zh": "智能体如何在开放环境中建立空间记忆、规划并完成长时程行动？",
+      "pipeline": ["Egocentric sensing + goal", "World state / memory", "Planning", "Navigation and interaction"],
+      "pipeline_zh": ["第一视角感知与目标", "世界状态与记忆", "规划", "导航与交互"]
+    },
+    "Humanoids & Locomotion": {
+      "name_zh": "人形机器人与运动控制",
+      "question": "How can whole-body policies achieve agile, stable, and transferable motion?",
+      "question_zh": "全身策略如何实现敏捷、稳定且可迁移的运动？",
+      "pipeline": ["Motion reference + command", "Retargeting / reinforcement learning", "Whole-body control", "Sim-to-real deployment"],
+      "pipeline_zh": ["动作参考与指令", "重定向或强化学习", "全身控制", "仿真到现实部署"]
+    },
+    "Perception & World Models": {
+      "name_zh": "感知与世界模型",
+      "question": "How do robots estimate task-relevant state and predict the consequences of action?",
+      "question_zh": "机器人如何估计任务相关状态并预测动作后果？",
+      "pipeline": ["Vision + touch + proprioception", "State representation", "World prediction", "Policy conditioning"],
+      "pipeline_zh": ["视觉、触觉与本体感知", "状态表征", "世界预测", "策略条件"]
+    },
+    "Simulation, Data & Evaluation": {
+      "name_zh": "仿真、数据与评测",
+      "question": "How should embodied systems be trained, stress-tested, and compared reproducibly?",
+      "question_zh": "如何可复现地训练、压力测试并比较具身智能系统？",
+      "pipeline": ["Assets + task definitions", "Simulation / data generation", "Benchmark protocol", "Metrics and error analysis"],
+      "pipeline_zh": ["资产与任务定义", "仿真与数据生成", "评测协议", "指标与误差分析"]
+    }
+  },
   "papers": [
     {
       "title": "R3M: A Universal Visual Representation for Robot Manipulation",
@@ -105,6 +156,25 @@
       "paper_url": "https://arxiv.org/abs/2206.06994",
       "official_url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/27c546ab1e4f1d7d638e6a8dfbad9a07-Abstract-Conference.html",
       "code_url": "https://github.com/allenai/procthor"
+    },
+    {
+      "title": "Human-to-Robot Imitation in the Wild",
+      "year": 2022,
+      "venue": "RSS",
+      "track": "Manipulation & Imitation",
+      "topic": "Learning from human video",
+      "paper_url": "https://www.roboticsproceedings.org/rss18/p026.pdf",
+      "official_url": "https://www.roboticsproceedings.org/rss18/p026.html"
+    },
+    {
+      "title": "Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior",
+      "year": 2022,
+      "venue": "CoRL",
+      "track": "Humanoids & Locomotion",
+      "topic": "Legged locomotion",
+      "paper_url": "https://proceedings.mlr.press/v205/margolis23a/margolis23a.pdf",
+      "official_url": "https://proceedings.mlr.press/v205/margolis23a.html",
+      "code_url": "https://gmargo11.github.io/walk-these-ways"
     },
     {
       "title": "RT-1: Robotics Transformer for Real-World Control at Scale",
@@ -230,6 +300,15 @@
       "paper_url": "https://arxiv.org/abs/2302.04659",
       "official_url": "https://openreview.net/forum?id=b_CQDy9vrD1",
       "code_url": "https://github.com/haosulab/ManiSkill"
+    },
+    {
+      "title": "Learning and Adapting Agile Locomotion Skills by Transferring Experience",
+      "year": 2023,
+      "venue": "RSS",
+      "track": "Humanoids & Locomotion",
+      "topic": "Agile locomotion",
+      "paper_url": "https://www.roboticsproceedings.org/rss19/p051.pdf",
+      "official_url": "https://www.roboticsproceedings.org/rss19/p051.html"
     },
     {
       "title": "Open X-Embodiment: Robotic Learning Datasets and RT-X Models",
@@ -435,6 +514,15 @@
       "code_url": "https://github.com/eureka-research/Eureka"
     },
     {
+      "title": "OpenEQA: Embodied Question Answering in the Era of Foundation Models",
+      "year": 2024,
+      "venue": "CVPR",
+      "track": "Navigation & Embodied Agents",
+      "topic": "Embodied question answering",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.pdf",
+      "official_url": "https://openaccess.thecvf.com/content/CVPR2024/html/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.html"
+    },
+    {
       "title": "RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation",
       "year": 2025,
       "venue": "ICLR",
@@ -555,6 +643,34 @@
       "official_url": "https://www.roboticsproceedings.org/rss21/p052.html"
     },
     {
+      "title": "ImagineNav: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination",
+      "year": 2025,
+      "venue": "ICLR",
+      "track": "Navigation & Embodied Agents",
+      "topic": "Visual navigation",
+      "paper_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/eb261df4322a8bd0a73093c4d8a0d02d-Paper-Conference.pdf",
+      "official_url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/eb261df4322a8bd0a73093c4d8a0d02d-Abstract-Conference.html"
+    },
+    {
+      "title": "ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills",
+      "year": 2025,
+      "venue": "RSS",
+      "track": "Humanoids & Locomotion",
+      "topic": "Humanoid sim-to-real",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p066.pdf",
+      "official_url": "https://www.roboticsproceedings.org/rss21/p066.html",
+      "code_url": "https://github.com/LeCAR-Lab/ASAP"
+    },
+    {
+      "title": "MetaUrban: An Embodied AI Simulation Platform for Urban Micromobility",
+      "year": 2025,
+      "venue": "ICLR",
+      "track": "Simulation, Data & Evaluation",
+      "topic": "Urban simulation",
+      "paper_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/ad63cdaffe7c95c5f9c12276cdd893f9-Paper-Conference.pdf",
+      "official_url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/ad63cdaffe7c95c5f9c12276cdd893f9-Abstract-Conference.html"
+    },
+    {
       "title": "From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation",
       "year": 2026,
       "venue": "ICLR",
@@ -603,10 +719,19 @@
       "title": "SaPaVe: Towards Active Perception and Manipulation in Vision-Language Action Models for Robotics",
       "year": 2026,
       "venue": "CVPR",
-      "track": "Foundation Models & VLA",
+      "track": "Perception & World Models",
       "topic": "Active perception",
       "paper_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Liu_SaPaVe_Towards_Active_Perception_and_Manipulation_in_Vision-Language_Action_Models_CVPR_2026_paper.html",
       "official_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Liu_SaPaVe_Towards_Active_Perception_and_Manipulation_in_Vision-Language_Action_Models_CVPR_2026_paper.html"
+    },
+    {
+      "title": "UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos",
+      "year": 2026,
+      "venue": "CVPR",
+      "track": "Dexterity & Teleoperation",
+      "topic": "Cross-hand dexterous control",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_UniDex_A_Robot_Foundation_Suite_for_Universal_Dexterous_Hand_Control_CVPR_2026_paper.pdf",
+      "official_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_UniDex_A_Robot_Foundation_Suite_for_Universal_Dexterous_Hand_Control_CVPR_2026_paper.html"
     },
     {
       "title": "RoboAgent: Chaining Basic Capabilities for Embodied Task Planning",

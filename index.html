@@ -7,7 +7,7 @@
   <meta name="theme-color" content="#f6f7fb">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Embodied AI · Five-Year Paper Map">
-  <meta property="og:description" content="66 source-backed papers · 10 major venues · 7 research tracks · 2022–2026">
+  <meta property="og:description" content="74 source-backed papers · 10 major venues · 7 research tracks · every direction covers 2022–2026">
   <meta property="og:image" content="https://dld0621.github.io/Embodied-AI-Paper-Analysis/assets/social-preview.jpg">
   <meta property="og:url" content="https://dld0621.github.io/Embodied-AI-Paper-Analysis/">
   <meta name="twitter:card" content="summary_large_image">
@@ -25,6 +25,7 @@
         <span>Embodied AI Papers</span>
       </a>
       <nav class="header-actions" aria-label="Utility navigation">
+        <a href="#directions" data-i18n="navDirections">Directions</a>
         <a href="#policy" data-i18n="navPolicy">Policy</a>
         <a href="https://github.com/Dld0621/Embodied-AI-Paper-Analysis" target="_blank" rel="noopener">GitHub</a>
         <button class="icon-button" id="language-toggle" type="button" aria-label="Switch language">中文</button>
@@ -53,12 +54,12 @@
       </div>
       <aside class="scope-card" aria-label="Catalog status">
         <div class="scope-top"><span data-i18n="scope">Research scope</span><strong data-i18n="verified">VERIFIED</strong></div>
-        <div class="scope-total"><strong id="paper-count">66</strong><span data-i18n="curatedPapers">curated papers</span></div>
+        <div class="scope-total"><strong id="paper-count">74</strong><span data-i18n="curatedPapers">curated papers</span></div>
         <div class="scope-rail" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
         <dl>
           <div><dt data-i18n="venues">Major venues</dt><dd id="venue-count">10</dd></div>
           <div><dt data-i18n="tracks">Research tracks</dt><dd id="track-count">7</dd></div>
-          <div><dt data-i18n="latest">2026 accepted</dt><dd id="latest-count">11</dd></div>
+          <div><dt data-i18n="latest">2026 accepted</dt><dd id="latest-count">12</dd></div>
           <div><dt data-i18n="sourceRule">Official source</dt><dd>100%</dd></div>
         </dl>
         <a href="#policy"><span data-i18n="seePolicy">See selection policy</span><span aria-hidden="true">↘</span></a>
@@ -67,6 +68,17 @@
 
     <section class="signal-strip" aria-label="Research tracks">
       <div class="shell track-ticker" id="track-ticker"></div>
+    </section>
+
+    <section class="direction-map shell" id="directions" aria-labelledby="direction-title">
+      <div class="section-heading direction-heading">
+        <div>
+          <p class="section-kicker" data-i18n="directionKicker">Seven research directions</p>
+          <h2 id="direction-title" data-i18n="directionTitle">Every direction. Every year. Direct links.</h2>
+        </div>
+        <p data-i18n="directionLead">Each direction covers 2022–2026 with formally accepted papers from at least three major venues. Open a direction to filter the complete catalog.</p>
+      </div>
+      <div class="direction-grid" id="direction-grid"></div>
     </section>
 
     <section class="spotlight shell" aria-labelledby="spotlight-title">
@@ -112,7 +124,7 @@
       </div>
 
       <div class="results-bar">
-        <p><strong id="result-count">66</strong> <span data-i18n="results">papers in view</span></p>
+        <p><strong id="result-count">74</strong> <span data-i18n="results">papers in view</span></p>
         <button id="clear-filters" type="button" data-i18n="clear">Clear filters</button>
       </div>
       <div class="paper-grid" id="paper-grid" aria-live="polite"></div>

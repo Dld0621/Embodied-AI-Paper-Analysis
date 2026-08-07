@@ -1,11 +1,14 @@
 const I18N = {
   en: {
-    navPolicy: "Policy", eyebrow: "Curated research index · updated 2026-08-07",
+    navDirections: "Directions", navPolicy: "Policy", eyebrow: "Curated research index · updated 2026-08-07",
     heroLineOne: "Five years.", heroLineTwo: "One research map.",
     heroLead: "A precise, source-backed path through the papers shaping embodied perception, reasoning, action, and physical systems.",
     acceptedOnly: "Accepted papers only", selective: "Selective, not exhaustive", explore: "Explore catalog", readMarkdown: "Read on GitHub",
     scope: "Research scope", verified: "VERIFIED", curatedPapers: "curated papers", venues: "Major venues", tracks: "Research tracks",
     latest: "2026 accepted", sourceRule: "Official source", seePolicy: "See selection policy",
+    directionKicker: "Seven research directions", directionTitle: "Every direction. Every year. Direct links.",
+    directionLead: "Each direction covers 2022–2026 with formally accepted papers from at least three major venues. Open a direction to filter the complete catalog.",
+    pipeline: "Pipeline", papersAcross: "papers across", venuePlural: "venues", browseDirection: "Browse all papers",
     latestKicker: "Latest verified layer", spotlightTitle: "2026 conference papers", spotlightLead: "Only decisions already visible on official conference or proceedings pages as of August 7.",
     catalogKicker: "Five-year index", catalogTitle: "Find the paper that moves your work forward.", catalogLead: "Search complete titles, then narrow by conference year, venue, or research track.",
     searchPlaceholder: "Search papers or topics", sort: "Sort", sortLatest: "Latest first", sortOldest: "Oldest first", sortTitle: "Title A–Z",
@@ -19,12 +22,15 @@ const I18N = {
     footerLine: "Curated for research, not for vanity metrics.", contribute: "Contribute", paper: "Paper", official: "Official", code: "Code", open: "Open paper"
   },
   zh: {
-    navPolicy: "规则", eyebrow: "精选研究索引 · 更新于 2026-08-07",
+    navDirections: "研究方向", navPolicy: "规则", eyebrow: "精选研究索引 · 更新于 2026-08-07",
     heroLineOne: "五年论文。", heroLineTwo: "一张研究地图。",
     heroLead: "用可核验来源连接塑造具身感知、推理、行动与物理系统的关键论文。",
     acceptedOnly: "仅正式录用论文", selective: "精选而非穷举", explore: "浏览论文目录", readMarkdown: "在 GitHub 阅读",
     scope: "研究范围", verified: "已核验", curatedPapers: "篇精选论文", venues: "主要顶会", tracks: "研究主线",
     latest: "2026 已录用", sourceRule: "官方来源", seePolicy: "查看收录规则",
+    directionKicker: "七大研究方向", directionTitle: "每个方向，覆盖五年，直达论文。",
+    directionLead: "每个方向均覆盖 2022–2026，并包含至少三个主要顶会的正式录用论文；点击方向可筛选完整目录。",
+    pipeline: "研究流程", papersAcross: "篇论文，覆盖", venuePlural: "个顶会", browseDirection: "浏览全部论文",
     latestKicker: "最新核验层", spotlightTitle: "2026 顶会论文", spotlightLead: "只包含截至 8 月 7 日已在官方会议或论文集页面确认的录用结果。",
     catalogKicker: "近五年索引", catalogTitle: "找到真正推动研究的论文。", catalogLead: "搜索完整标题，再按会议年份、顶会或研究主线收敛。",
     searchPlaceholder: "搜索论文或主题", sort: "排序", sortLatest: "最新优先", sortOldest: "最早优先", sortTitle: "标题 A–Z",
@@ -63,6 +69,29 @@ function renderStats() {
   $("#latest-count").textContent = state.papers.filter((paper) => paper.year === state.catalog.window.end).length;
   const trackCounts = counts(state.papers, "track");
   $("#track-ticker").innerHTML = state.catalog.tracks.map((track) => `<div class="ticker-item"><strong title="${escapeHtml(track)}">${escapeHtml(track)}</strong><span>${trackCounts.get(track) || 0} ${state.language === "zh" ? "篇" : "papers"}</span></div>`).join("");
+}
+
+function renderDirections() {
+  const years = Array.from({ length: state.catalog.window.end - state.catalog.window.start + 1 }, (_, index) => state.catalog.window.start + index);
+  $("#direction-grid").innerHTML = state.catalog.tracks.map((track, index) => {
+    const meta = state.catalog.track_meta[track];
+    const papers = state.papers.filter((paper) => paper.track === track);
+    const paperYears = new Set(papers.map((paper) => paper.year));
+    const venues = Array.from(new Set(papers.map((paper) => paper.venue))).sort();
+    const stages = state.language === "zh" ? meta.pipeline_zh : meta.pipeline;
+    const name = state.language === "zh" ? meta.name_zh : track;
+    const question = state.language === "zh" ? meta.question_zh : meta.question;
+    const latest = [...papers].sort((a, b) => b.year - a.year || a.title.localeCompare(b.title)).slice(0, 2);
+    return `<article class="direction-card" style="--direction-index:${index}">
+      <div class="direction-card-top"><span>0${index + 1}</span><div class="year-coverage" aria-label="Year coverage">${years.map((year) => `<i class="${paperYears.has(year) ? "covered" : ""}">${year}</i>`).join("")}</div></div>
+      <h3>${escapeHtml(name)}</h3>
+      <p>${escapeHtml(question)}</p>
+      <div class="direction-stats"><strong>${papers.length}</strong> ${label("papersAcross")} <strong>${venues.length}</strong> ${label("venuePlural")}<span>${escapeHtml(venues.join(" · "))}</span></div>
+      <div class="pipeline"><span>${label("pipeline")}</span><ol>${stages.map((stage) => `<li>${escapeHtml(stage)}</li>`).join("")}</ol></div>
+      <div class="direction-papers">${latest.map((paper) => `<a href="${escapeHtml(paper.paper_url)}" target="_blank" rel="noopener"><span><small>${paper.year} · ${escapeHtml(paper.venue)}</small>${escapeHtml(paper.title)}</span><b aria-hidden="true">↗</b></a>`).join("")}</div>
+      <button type="button" data-direction="${escapeHtml(track)}">${label("browseDirection")} <span aria-hidden="true">→</span></button>
+    </article>`;
+  }).join("");
 }
 
 function renderSpotlight() {
@@ -110,6 +139,7 @@ function renderPapers() {
 function renderAll() {
   if (!state.catalog) return;
   renderStats();
+  renderDirections();
   renderSpotlight();
   renderFilters();
   renderPapers();
@@ -137,6 +167,15 @@ async function initialize() {
 }
 
 document.addEventListener("click", (event) => {
+  const directionButton = event.target.closest("[data-direction]");
+  if (directionButton) {
+    Object.assign(state, { track: directionButton.dataset.direction, year: "all", venue: "all", query: "" });
+    $("#paper-search").value = "";
+    renderFilters();
+    renderPapers();
+    $("#catalog").scrollIntoView({ behavior: "smooth", block: "start" });
+    return;
+  }
   const chipButton = event.target.closest("[data-filter]");
   if (chipButton) {
     state[chipButton.dataset.filter] = chipButton.dataset.value;

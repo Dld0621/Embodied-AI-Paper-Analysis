@@ -124,11 +124,51 @@ h1 em { color: transparent; font-style: normal; background: linear-gradient(95de
 .ticker-item strong { display: block; overflow: hidden; font-size: .72rem; text-overflow: ellipsis; white-space: nowrap; }
 .ticker-item span { color: var(--subtle); font-size: .68rem; }
 
-.spotlight, .catalog, .policy { padding-block: clamp(5rem, 9vw, 8rem); }
+.direction-map, .spotlight, .catalog, .policy { padding-block: clamp(5rem, 9vw, 8rem); }
 .section-heading { display: grid; grid-template-columns: minmax(0, 1fr) minmax(17rem, 28rem); align-items: end; gap: 3rem; margin-bottom: 2.4rem; }
 .section-heading .section-kicker, .policy .section-kicker { margin-bottom: .85rem; }
 h2 { margin: 0; font-size: clamp(2.3rem, 4.6vw, 4.4rem); letter-spacing: -.055em; line-height: 1.02; }
 .section-heading > p, .policy-copy > p:last-child { margin: 0; color: var(--muted); line-height: 1.7; }
+.direction-map { border-bottom: 1px solid var(--line); }
+.direction-heading h2 { max-width: 14ch; }
+.direction-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .9rem; }
+.direction-card {
+  --accent: var(--blue);
+  position: relative;
+  overflow: hidden;
+  padding: 1.5rem;
+  border: 1px solid var(--line);
+  border-radius: 1.45rem;
+  background: linear-gradient(145deg, color-mix(in srgb, var(--surface-solid) 96%, var(--accent) 4%), var(--surface));
+}
+.direction-card:nth-child(2), .direction-card:nth-child(6) { --accent: var(--violet); }
+.direction-card:nth-child(3), .direction-card:nth-child(7) { --accent: var(--cyan); }
+.direction-card:nth-child(4) { --accent: var(--green); }
+.direction-card:nth-child(5) { --accent: var(--orange); }
+.direction-card:last-child:nth-child(odd) { grid-column: 1 / -1; }
+.direction-card::before { content: ""; position: absolute; inset: 0 auto auto 0; width: 100%; height: .2rem; background: linear-gradient(90deg, var(--accent), transparent 72%); }
+.direction-card-top { display: flex; align-items: center; justify-content: space-between; gap: 1rem; color: var(--subtle); font-size: .66rem; font-weight: 780; }
+.year-coverage { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: .3rem; }
+.year-coverage i { padding: .18rem .36rem; border: 1px solid var(--line); border-radius: 99px; color: var(--subtle); font-style: normal; font-size: .6rem; }
+.year-coverage i.covered { border-color: color-mix(in srgb, var(--accent) 32%, var(--line)); background: color-mix(in srgb, var(--accent) 9%, transparent); color: var(--accent); }
+.direction-card h3 { margin: 1.35rem 0 .55rem; font-size: clamp(1.35rem, 2vw, 1.8rem); letter-spacing: -.035em; }
+.direction-card > p { max-width: 46rem; min-height: 3.2rem; margin: 0; color: var(--muted); font-size: .85rem; }
+.direction-stats { margin-top: 1.15rem; color: var(--muted); font-size: .7rem; }
+.direction-stats strong { color: var(--ink); font-size: .8rem; }
+.direction-stats > span { display: block; margin-top: .25rem; color: var(--accent); font-weight: 700; }
+.pipeline { margin-top: 1.2rem; padding: 1rem; border: 1px solid var(--line); border-radius: 1rem; background: color-mix(in srgb, var(--surface-soft) 72%, transparent); }
+.pipeline > span { color: var(--subtle); font-size: .62rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
+.pipeline ol { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: .4rem; margin: .65rem 0 0; padding: 0; counter-reset: stage; list-style: none; }
+.pipeline li { position: relative; padding: .58rem .5rem; border-radius: .65rem; background: var(--surface); color: var(--muted); font-size: .66rem; line-height: 1.35; counter-increment: stage; }
+.pipeline li::before { content: "0" counter(stage); display: block; margin-bottom: .25rem; color: var(--accent); font-size: .58rem; font-weight: 800; }
+.direction-papers { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .45rem; margin-top: 1rem; }
+.direction-papers a { display: flex; align-items: center; justify-content: space-between; gap: .75rem; min-width: 0; padding: .75rem; border: 1px solid var(--line); border-radius: .75rem; background: color-mix(in srgb, var(--surface) 78%, transparent); font-size: .68rem; font-weight: 680; line-height: 1.4; transition: border-color .2s ease, transform .2s ease; }
+.direction-papers a:hover { transform: translateY(-2px); border-color: color-mix(in srgb, var(--accent) 45%, var(--line)); }
+.direction-papers a span { min-width: 0; }
+.direction-papers small { display: block; margin-bottom: .18rem; color: var(--accent); font-size: .58rem; }
+.direction-papers b { color: var(--accent); font-size: .75rem; }
+.direction-card > button { display: flex; align-items: center; justify-content: space-between; width: 100%; margin-top: 1rem; padding: .75rem 0 0; border: 0; border-top: 1px solid var(--line); background: transparent; color: var(--ink); cursor: pointer; font-size: .72rem; font-weight: 760; }
+.direction-card > button span { color: var(--accent); font-size: 1rem; }
 .spotlight-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .85rem; }
 .spotlight-card { display: flex; min-height: 15rem; flex-direction: column; justify-content: space-between; padding: 1.35rem; border: 1px solid var(--line); border-radius: 1.3rem; background: var(--surface); transition: transform .2s ease, border-color .2s ease; }
 .spotlight-card:hover { transform: translateY(-3px); border-color: var(--line-strong); }
@@ -190,6 +230,8 @@ kbd { padding: .18rem .42rem; border: 1px solid var(--line); border-radius: .35r
   .scope-card { max-width: 38rem; }
   .track-ticker { grid-template-columns: repeat(4, minmax(0, 1fr)); }
   .ticker-item:nth-child(5) { border-left: 1px solid var(--line); }
+  .direction-grid { grid-template-columns: 1fr; }
+  .direction-card:last-child:nth-child(odd) { grid-column: auto; }
   .spotlight-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 
@@ -209,6 +251,9 @@ kbd { padding: .18rem .42rem; border: 1px solid var(--line); border-radius: .35r
   .ticker-item:nth-child(odd) { border-left: 1px solid var(--line); }
   .section-heading { grid-template-columns: 1fr; gap: 1.15rem; }
   h2 { font-size: clamp(2.2rem, 11vw, 3.2rem); }
+  .direction-card { padding: 1.2rem; }
+  .direction-card > p { min-height: 0; }
+  .pipeline ol, .direction-papers { grid-template-columns: 1fr; }
   .spotlight-grid, .paper-grid { grid-template-columns: 1fr; }
   .spotlight-card { min-height: 13rem; }
   .control-panel { grid-template-columns: 1fr; }

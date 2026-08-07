@@ -10,6 +10,7 @@ A core paper must meet every requirement:
 - formally accepted by RSS, CoRL, ICRA, IROS, ICLR, ICML, NeurIPS, CVPR, ICCV, or ECCV;
 - directly relevant to embodied perception, reasoning, action, control, evaluation, or robot systems;
 - supported by an official venue source;
+- linked through HTTPS in both `paper_url` and `official_url`;
 - assigned to exactly one venue, one research track, and one concise topic;
 - not already present under another spelling.
 
@@ -20,13 +21,14 @@ Do not add workshop-only, withdrawn, under-review, or arXiv-only papers to the c
 1. Edit `data/papers.json`.
 2. Use the conference year, not the arXiv upload year.
 3. Put the reading link in `paper_url` and the acceptance evidence in `official_url`.
-4. Regenerate the Markdown catalog:
+4. Keep each research track represented in every year from 2022 through 2026 and across at least three major venues. If a direction's framing changes, update its bilingual `track_meta` question and four-stage pipeline as well.
+5. Regenerate the Markdown catalog:
 
    ```bash
    python scripts/render_catalog.py
    ```
 
-5. Run all repository checks:
+6. Run all repository checks:
 
    ```bash
    python scripts/audit_catalog.py

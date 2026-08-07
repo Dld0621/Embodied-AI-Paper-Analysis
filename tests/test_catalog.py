@@ -4,6 +4,7 @@ import importlib.util
 import json
 import unittest
 from pathlib import Path
+from urllib.parse import urlparse
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -32,6 +33,7 @@ class CatalogContractTests(unittest.TestCase):
         self.assertLessEqual(len(self.papers), 100)
 
     def test_rolling_five_year_window(self) -> None:
+        self.assertEqual(self.catalog["schema_version"], 2)
         self.assertEqual(self.catalog["window"], {"start": 2022, "end": 2026})
         self.assertEqual({paper["year"] for paper in self.papers}, set(range(2022, 2027)))
 
@@ -52,6 +54,24 @@ class CatalogContractTests(unittest.TestCase):
         for paper in self.papers:
             if paper["year"] == 2026:
                 self.assertNotIn("arxiv.org", paper["official_url"])
+
+    def test_every_direction_spans_all_five_years(self) -> None:
+        expected = set(range(2022, 2027))
+        for track in self.catalog["tracks"]:
+            years = {paper["year"] for paper in self.papers if paper["track"] == track}
+            self.assertEqual(years, expected, track)
+
+    def test_every_direction_spans_multiple_major_venues(self) -> None:
+        for track in self.catalog["tracks"]:
+            venues = {paper["venue"] for paper in self.papers if paper["track"] == track}
+            self.assertGreaterEqual(len(venues), 3, track)
+
+    def test_every_paper_has_online_paper_and_acceptance_links(self) -> None:
+        for paper in self.papers:
+            for field in ("paper_url", "official_url"):
+                parsed = urlparse(paper[field])
+                self.assertEqual(parsed.scheme, "https", f"{paper['title']} {field}")
+                self.assertTrue(parsed.netloc, f"{paper['title']} {field}")
 
 
 if __name__ == "__main__":

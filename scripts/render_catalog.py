@@ -46,6 +46,22 @@ def render() -> str:
     lines.extend(
         [
             "",
+            "## Direction coverage · 方向覆盖",
+            "",
+            "| Research direction | Papers | Years | Major venues |",
+            "|---|---:|---|---|",
+        ]
+    )
+    for track in catalog["tracks"]:
+        track_papers = [paper for paper in papers if paper["track"] == track]
+        years = ", ".join(str(year) for year in sorted({paper["year"] for paper in track_papers}))
+        track_venues = " · ".join(sorted({paper["venue"] for paper in track_papers}))
+        zh_name = catalog["track_meta"][track]["name_zh"]
+        lines.append(f"| {track} · {zh_name} | {len(track_papers)} | {years} | {track_venues} |")
+
+    lines.extend(
+        [
+            "",
             "## Selection boundary · 收录边界",
             "",
             "- Core window: 2022–2026, inclusive.",
@@ -56,26 +72,37 @@ def render() -> str:
         ]
     )
 
-    for year in range(end, start - 1, -1):
-        year_papers = sorted(
-            (paper for paper in papers if paper["year"] == year),
-            key=lambda paper: (paper["venue"], paper["title"].casefold()),
+    for track in catalog["tracks"]:
+        meta = catalog["track_meta"][track]
+        track_papers = sorted(
+            (paper for paper in papers if paper["track"] == track),
+            key=lambda paper: (-paper["year"], paper["venue"], paper["title"].casefold()),
         )
+        pipeline = " → ".join(meta["pipeline"])
+        pipeline_zh = " → ".join(meta["pipeline_zh"])
         lines.extend(
             [
                 "",
-                f"## {year} ({len(year_papers)})",
+                f"## {track} · {meta['name_zh']} ({len(track_papers)})",
                 "",
-                "| Paper | Venue | Research track | Links |",
-                "|---|---|---|---|",
+                meta["question"],
+                "",
+                meta["question_zh"],
+                "",
+                f"**Pipeline:** `{pipeline}`",
+                "",
+                f"**流程：** `{pipeline_zh}`",
+                "",
+                "| Year | Paper | Venue / topic | Online links |",
+                "|---:|---|---|---|",
             ]
         )
-        for paper in year_papers:
+        for paper in track_papers:
             links = [f"[Paper]({paper['paper_url']})", f"[Official]({paper['official_url']})"]
             if paper.get("code_url"):
                 links.append(f"[Code]({paper['code_url']})")
             lines.append(
-                f"| {paper['title']} | {paper['venue']} | {paper['track']} · {paper['topic']} | {' · '.join(links)} |"
+                f"| {paper['year']} | {paper['title']} | {paper['venue']} · {paper['topic']} | {' · '.join(links)} |"
             )
 
     lines.extend(

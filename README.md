@@ -1,8 +1,8 @@
 # Embodied AI Paper Analysis
 
-> 66 curated papers · 10 major venues · 7 research tracks · 2022–2026
+> 74 curated papers · 10 major venues · 7 research tracks · every direction covers 2022–2026
 
-[![Catalog](https://img.shields.io/badge/Core%20catalog-66-111827?style=flat-square)](papers/README.md)
+[![Catalog](https://img.shields.io/badge/Core%20catalog-74-111827?style=flat-square)](papers/README.md)
 [![Window](https://img.shields.io/badge/Window-2022--2026-2563eb?style=flat-square)](data/papers.json)
 [![Policy](https://img.shields.io/badge/Policy-formally%20accepted-16a34a?style=flat-square)](#selection-policy--收录规则)
 [![Website](https://img.shields.io/badge/Live%20index-open-7c3aed?style=flat-square)](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)
@@ -14,7 +14,7 @@
 
 ## 中文
 
-这是一个面向研究入门和方向判断的 **近五年具身智能顶会论文导航**。仓库从宽泛的千篇聚合收敛为 66 篇正式录用论文，以官方会议或出版页面作为 venue 证据，并将预印本日期与正式会议年份分开。
+这是一个面向研究入门和方向判断的 **近五年具身智能顶会论文导航**。仓库从宽泛的千篇聚合收敛为 74 篇正式录用论文，以官方会议或出版页面作为 venue 证据，并将预印本日期与正式会议年份分开。七个研究方向现在都覆盖 2022–2026，每篇论文都提供在线论文与正式录用来源。
 
 ### 为什么收敛
 
@@ -28,12 +28,13 @@
 
 | 指标 | 当前状态 |
 |---|---:|
-| 精选论文 | 66 |
+| 精选论文 | 74 |
 | 年份窗口 | 2022–2026 |
 | 正式会议 | 10 |
 | 研究主线 | 7 |
-| 2026 论文 | 11（截至 2026-08-07） |
+| 2026 论文 | 12（截至 2026-08-07） |
 | 官方来源 | 每篇必填 |
+| 方向年份覆盖 | 7 个方向均为 5/5 年 |
 
 ### 顶会范围
 
@@ -45,15 +46,15 @@
 
 ### 七条研究主线
 
-| 主线 | 数量 | 关注问题 |
-|---|---:|---|
-| Foundation Models & VLA | 22 | 通用策略、VLA、多模态推理、跨本体学习 |
-| Manipulation & Imitation | 10 | 模仿学习、扩散策略、约束与视频动作迁移 |
-| Dexterity & Teleoperation | 9 | 灵巧手、双臂操作、遥操作与数据采集接口 |
-| Navigation & Embodied Agents | 5 | 开放世界、移动操作与具身任务规划 |
-| Humanoids & Locomotion | 3 | 人形全身控制、模仿与 loco-manipulation |
-| Perception & World Models | 8 | 表征学习、触觉、三维状态与世界模型 |
-| Simulation, Data & Evaluation | 9 | 仿真、数据生成、基准与评测协议 |
+| 主线 | 数量 | 年份 | 关注问题 |
+|---|---:|---|---|
+| Foundation Models & VLA | 21 | 2022–2026 | 通用策略、VLA、多模态推理、跨本体学习 |
+| Manipulation & Imitation | 11 | 2022–2026 | 模仿学习、扩散策略、约束与视频动作迁移 |
+| Dexterity & Teleoperation | 10 | 2022–2026 | 灵巧手、双臂操作、遥操作与数据采集接口 |
+| Navigation & Embodied Agents | 7 | 2022–2026 | 开放世界、移动操作与具身任务规划 |
+| Humanoids & Locomotion | 6 | 2022–2026 | 人形全身控制、模仿与 loco-manipulation |
+| Perception & World Models | 9 | 2022–2026 | 表征学习、触觉、三维状态与世界模型 |
+| Simulation, Data & Evaluation | 10 | 2022–2026 | 仿真、数据生成、基准与评测协议 |
 
 ### 推荐阅读顺序
 
@@ -77,7 +78,7 @@
 
 ## English
 
-This repository is a **curated five-year map of Embodied AI research**, centered on 66 formally accepted papers from major robotics, machine-learning, and vision venues. It replaces an unbounded paper dump with a smaller catalog whose conference labels are backed by official proceedings or conference pages.
+This repository is a **curated five-year map of Embodied AI research**, centered on 74 formally accepted papers from major robotics, machine-learning, and vision venues. Every research direction now spans 2022–2026, and every paper includes a direct online paper link plus an official acceptance source.
 
 ### What this repository optimizes for
 
