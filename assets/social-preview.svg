@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Embodied AI Five-Year Paper Map</title>
+  <desc id="desc">66 curated papers across 10 major venues and 7 research tracks from 2022 to 2026.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7f8fc"/>
+      <stop offset="1" stop-color="#eef1f8"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#6d5dfc" stop-opacity=".30"/>
+      <stop offset="1" stop-color="#6d5dfc" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="22" stdDeviation="34" flood-color="#101425" flood-opacity=".12"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="640" rx="32" fill="url(#bg)"/>
+  <circle cx="1080" cy="100" r="310" fill="url(#orb)"/>
+  <circle cx="1040" cy="520" r="260" fill="url(#orb)" opacity=".75"/>
+  <g opacity=".24" stroke="#6d5dfc" fill="none">
+    <path d="M850 115 1010 80l142 91-22 176-169 57-143-100Z"/>
+    <path d="m850 115 280 232M1010 80 961 404m191-233L818 304"/>
+    <circle cx="850" cy="115" r="7" fill="#6d5dfc"/><circle cx="1010" cy="80" r="7" fill="#6d5dfc"/>
+    <circle cx="1152" cy="171" r="7" fill="#6d5dfc"/><circle cx="1130" cy="347" r="7" fill="#6d5dfc"/>
+    <circle cx="961" cy="404" r="7" fill="#6d5dfc"/><circle cx="818" cy="304" r="7" fill="#6d5dfc"/>
+  </g>
+  <g transform="translate(82 76)">
+    <rect width="76" height="76" rx="22" fill="#111524"/>
+    <text x="38" y="49" text-anchor="middle" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">EA</text>
+  </g>
+  <text x="82" y="225" fill="#111524" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="650" letter-spacing="3">CURATED RESEARCH INDEX</text>
+  <text x="82" y="315" fill="#111524" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="68" font-weight="760">Five years.</text>
+  <text x="82" y="390" fill="#6354e8" font-family="Georgia,Times New Roman,serif" font-size="72" font-style="italic">One research map.</text>
+  <text x="82" y="457" fill="#596070" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23">Embodied perception · reasoning · action · physical systems</text>
+  <g transform="translate(82 512)" filter="url(#shadow)" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect width="610" height="78" rx="22" fill="#fff"/>
+    <text x="30" y="48" fill="#111524" font-size="27" font-weight="730">66 papers</text>
+    <circle cx="187" cy="39" r="4" fill="#aeb4c1"/>
+    <text x="210" y="48" fill="#111524" font-size="27" font-weight="730">10 venues</text>
+    <circle cx="382" cy="39" r="4" fill="#aeb4c1"/>
+    <text x="405" y="48" fill="#111524" font-size="27" font-weight="730">2022–2026</text>
+  </g>
+</svg>

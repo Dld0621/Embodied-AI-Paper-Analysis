@@ -15,7 +15,26 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Audit curated catalog
+        run: python scripts/audit_catalog.py
+      - name: Check generated catalog
+        run: python scripts/render_catalog.py --check
+      - name: Check repository links
+        run: python scripts/check_local_links.py
+      - name: Run catalog contracts
+        run: python -m unittest discover -s tests -v
+
   deploy:
+    needs: validate
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

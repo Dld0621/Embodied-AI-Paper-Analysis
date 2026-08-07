@@ -1,108 +1,75 @@
 # Embodied AI Paper Analysis
 
-> 1099 篇具身智能论文 · 7 大研究方向 · 20 个子方向 · 2015–2026
+> 66 curated papers · 10 major venues · 7 research tracks · 2022–2026
 
-[![Papers](https://img.shields.io/badge/Papers-1099-blue?style=flat-square)](papers/README.md)
-[![Directions](https://img.shields.io/badge/Directions-7-green?style=flat-square)](#方向地图)
-[![Topics](https://img.shields.io/badge/Topics-20-green?style=flat-square)](papers/README.md)
-[![arXiv](https://img.shields.io/badge/arXiv%20Coverage-88%25-red?style=flat-square)](papers/README.md)
-[![Venue](https://img.shields.io/badge/Formal%20Venue-834%20%28A%3A719%29-yellow?style=flat-square)](papers/README.md)
-[![Website](https://img.shields.io/badge/Live%20Site-Online-brightgreen?logo=github&style=flat-square)](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)
-[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square)](LICENSE)
+[![Catalog](https://img.shields.io/badge/Core%20catalog-66-111827?style=flat-square)](papers/README.md)
+[![Window](https://img.shields.io/badge/Window-2022--2026-2563eb?style=flat-square)](data/papers.json)
+[![Policy](https://img.shields.io/badge/Policy-formally%20accepted-16a34a?style=flat-square)](#selection-policy--收录规则)
+[![Website](https://img.shields.io/badge/Live%20index-open-7c3aed?style=flat-square)](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-64748b?style=flat-square)](LICENSE)
 
-**[中文](#中文) | [English](#english)**
+**[中文](#中文) · [English](#english)**
 
 ---
 
-<a id="中文"></a>
-
 ## 中文
 
-系统化收录和分类具身智能领域的前沿论文，覆盖感知表征、操作抓取、移动导航、策略学习、仿真数据、世界模型与硬件系统七大方向，提供两级分类导航、交互式搜索和深度分析文档。
+这是一个面向研究入门和方向判断的 **近五年具身智能顶会论文导航**。仓库从宽泛的千篇聚合收敛为 66 篇正式录用论文，以官方会议或出版页面作为 venue 证据，并将预印本日期与正式会议年份分开。
 
-### 在线访问
+### 为什么收敛
 
-**[dld0621.github.io/Embodied-AI-Paper-Analysis](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)** — 支持方向导航、子方向筛选、顶会过滤、年份分布图、关键词搜索和深色模式。
+原目录规模大，但包含重复标题、旧年份、仅 arXiv 论文、模糊的多会标签以及会议年份错误。新版优先解决三个问题：
+
+1. **能否确认被哪一个会议正式录用？**
+2. **是否属于当前 2022–2026 五年窗口？**
+3. **是否直接服务于具身智能的感知、决策、控制或系统研究？**
 
 ### 数据概览
 
-| 指标 | 数值 |
-|------|------|
-| 论文总数 | 1,099 |
-| arXiv 链接 | 976 篇（88%） |
-| 代码开源 | 74 篇 |
-| 正式发表 | 834 篇（A: 719 · B: 8 · C: 37 · D: 269） |
-| 研究方向 | 7 个一级 · 20 个二级 |
-| 年份跨度 | 2015–2026 |
-| 顶会覆盖 | RSS · CoRL · ICRA · IROS · ICLR · ICML · CVPR · NeurIPS · ECCV · SIGGRAPH |
+| 指标 | 当前状态 |
+|---|---:|
+| 精选论文 | 66 |
+| 年份窗口 | 2022–2026 |
+| 正式会议 | 10 |
+| 研究主线 | 7 |
+| 2026 论文 | 11（截至 2026-08-07） |
+| 官方来源 | 每篇必填 |
 
-### 方向地图
+### 顶会范围
 
-| 一级方向 | 二级方向 | 论文数 | 主要问题 |
-|---------|---------|-------|---------|
-| **Perception & Representation** 感知与表征 | Foundation Models · 3D Vision · Gaussian Splatting · Motion Tracking · Tactile Sensing | 132 | 从通用视觉语义、三维结构、动态跟踪到触觉表征，为后续规划与控制提供可迁移的状态表示 |
-| **Manipulation & Grasping** 操作与抓取 | Manipulation · Grasping · Retargeting | 102 | 从语言与几何约束的操作，走向接触丰富抓取、跨形态迁移和功能保持重定向 |
-| **Locomotion & Navigation** 移动与导航 | Humanoid Robotics · Locomotion · Navigation · Teleoperation | 54 | 从全身模仿与敏捷运动，连接到开放环境导航和语言条件目标搜索 |
-| **Policy Learning** 策略学习 | Diffusion Policy · Reinforcement Learning · VLA | 124 | 覆盖扩散策略、强化学习和 VLA 三条主线 |
-| **Simulation & Data** 仿真与数据 | Simulation · Data Generation | 27 | 通过可扩展仿真、任务基准和真实多机器人数据降低训练与评测成本 |
-| **World Models & Generation** 世界模型与生成 | World Models · Video Generation | 14 | 用可交互世界模型预测未来、规划动作，并通过视频生成学习物理与时序先验 |
-| **Hardware & Systems** 硬件与系统 | Hardware | 9 | 灵巧手、传感器、硬件平台与遥操作系统 |
+- **Robotics**：RSS · CoRL · ICRA · IROS
+- **Machine Learning**：ICLR · ICML · NeurIPS
+- **Computer Vision**：CVPR · ICCV · ECCV
 
-### 特色内容
+这是一份精选研究地图，不是会议论文全集。会议覆盖不代表每个会议都按相同数量收录。
 
-**Hand Retargeting 专题分析**（45 篇）— 对灵巧手重定向领域进行三级分类（L1 姿态重定向 / L2 可执行重定向 / L3 功能意图重定向），包含覆盖度评分、成熟度总览和重点研究路线。详见 [`papers/README.md`](papers/README.md)。
+### 七条研究主线
 
-**触觉与接触优化论文深度分析**（11 篇）— 按 5 个维度（现有问题 → 根因 → 提出方法 → 与 baseline 区别 → 效果提升）分析 SpringGrasp、Dexonomy、GraspQP 等 RSS/CVPR/CoRL 顶会论文。详见 [`docs/tactile-paper-analysis.md`](docs/tactile-paper-analysis.md)。
+| 主线 | 数量 | 关注问题 |
+|---|---:|---|
+| Foundation Models & VLA | 22 | 通用策略、VLA、多模态推理、跨本体学习 |
+| Manipulation & Imitation | 10 | 模仿学习、扩散策略、约束与视频动作迁移 |
+| Dexterity & Teleoperation | 9 | 灵巧手、双臂操作、遥操作与数据采集接口 |
+| Navigation & Embodied Agents | 5 | 开放世界、移动操作与具身任务规划 |
+| Humanoids & Locomotion | 3 | 人形全身控制、模仿与 loco-manipulation |
+| Perception & World Models | 8 | 表征学习、触觉、三维状态与世界模型 |
+| Simulation, Data & Evaluation | 9 | 仿真、数据生成、基准与评测协议 |
 
-### 仓库结构
+### 推荐阅读顺序
 
-```
-├── index.html              # 交互式论文索引（GitHub Pages）
-├── papers/
-│   └── README.md           # 按主题 + 顶会分类的完整论文列表
-├── notes/                  # 7 方向 · 20 子方向的论文笔记
-│   ├── perception/          #   感知与表征
-│   ├── manipulation/        #   操作与抓取
-│   ├── locomotion/         #   移动与导航
-│   ├── policy/              #   策略学习
-│   ├── simulation/          #   仿真与数据
-│   ├── world-models/       #   世界模型与生成
-│   └── hardware/           #   硬件与系统
-├── docs/
-│   ├── paper-analysis-template.md   # 论文分析模板（9 维度）
-│   ├── reading-methodology.md       # 阅读方法论
-│   └── tactile-paper-analysis.md    # 触觉论文深度分析
-├── .github/workflows/      # GitHub Pages 自动部署
-└── assets/                 # 图片资源
-```
+1. **表征与环境**：R3M → BEHAVIOR-1K → ManiSkill2 → DROID
+2. **策略学习**：RT-1 → Diffusion Policy → Octo → OpenVLA
+3. **语言与行动**：SayCan → PaLM-E → RT-2 → π0.5
+4. **灵巧与数据采集**：ALOHA → AnyTeleop → UMI → FastUMI
+5. **最新前沿**：RDT-1B → HAMSTER → MemoryVLA → SaPaVe → LAST
 
-### 阅读路线
+### 入口
 
-围绕 **感知 → 操作 → 运动 → 策略 → 仿真 → 世界模型 → 硬件** 的能力栈：
-
-1. **感知表征** — Foundation Models → 3D Vision → Gaussian Splatting → Motion Tracking → Tactile
-2. **操作抓取** — Manipulation → Grasping → Retargeting
-3. **移动导航** — Humanoid → Locomotion → Navigation → Teleoperation
-4. **策略学习** — Diffusion Policy → Reinforcement Learning → VLA
-5. **仿真数据** — Simulation → Data Generation
-6. **世界模型** — World Models → Video Generation
-7. **硬件系统** — Hardware
-
-### 快速开始
-
-```bash
-git clone https://github.com/Dld0621/Embodied-AI-Paper-Analysis.git
-cd Embodied-AI-Paper-Analysis
-
-# 在线浏览论文索引
-open index.html
-
-# 按主题查看论文列表
-cat papers/README.md
-
-# 使用论文分析模板
-cp docs/paper-analysis-template.md notes/manipulation/2025-xxx.md
-```
+- **[交互式论文索引](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)**：按年份、会议、主线和关键词筛选。
+- **[完整精选目录](papers/README.md)**：由 JSON 自动生成，适合 GitHub 内浏览。
+- **[论文分析模板](docs/paper-analysis-template.md)**：统一记录问题、方法、证据与限制。
+- **[阅读方法](docs/reading-methodology.md)**：建立可复现、可对比的阅读习惯。
+- **[深度笔记](notes/README.md)**：少量重点论文的结构化分析。
 
 ---
 
@@ -110,64 +77,71 @@ cp docs/paper-analysis-template.md notes/manipulation/2025-xxx.md
 
 ## English
 
-A systematic collection of frontier papers in Embodied AI, organized across 7 research directions and 20 sub-topics — from perception and manipulation to world models and hardware systems, with interactive search, filtering, and in-depth analysis.
+This repository is a **curated five-year map of Embodied AI research**, centered on 66 formally accepted papers from major robotics, machine-learning, and vision venues. It replaces an unbounded paper dump with a smaller catalog whose conference labels are backed by official proceedings or conference pages.
 
-### Live Site
+### What this repository optimizes for
 
-**[dld0621.github.io/Embodied-AI-Paper-Analysis](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)** — Features direction navigation, sub-topic filtering, conference filtering, year distribution charts, keyword search, and dark mode.
+- **Precision over volume** — every core entry has one unambiguous venue.
+- **Recency with context** — the rolling window is 2022–2026.
+- **Embodied relevance** — papers must connect perception or reasoning to action, control, evaluation, or physical systems.
+- **Auditable provenance** — official venue evidence is required separately from the paper or arXiv link.
 
-### Key Stats
+### Coverage
 
-| Metric | Value |
-|--------|-------|
-| Total Papers | 1,099 |
-| arXiv Links | 976 (88%) |
-| Open Code | 74 |
-| Formal Venue | 834 (A: 719 · B: 8 · C: 37 · D: 269) |
-| Directions | 7 L1 · 20 L2 |
-| Year Range | 2015–2026 |
-| Top Venues | RSS · CoRL · ICRA · IROS · ICLR · ICML · CVPR · NeurIPS · ECCV · SIGGRAPH |
+| Area | Venues |
+|---|---|
+| Robotics | RSS · CoRL · ICRA · IROS |
+| Machine Learning | ICLR · ICML · NeurIPS |
+| Computer Vision | CVPR · ICCV · ECCV |
 
-### Direction Map
+The catalog is selective rather than exhaustive. 2026 coverage is frozen at **2026-08-07** and only includes acceptances already visible on official sources.
 
-| Direction | Sub-topics | Papers | Focus |
-|-----------|-----------|--------|-------|
-| **Perception & Representation** | Foundation Models · 3D Vision · Gaussian Splatting · Motion Tracking · Tactile Sensing | 132 | Transferable state representations for planning and control |
-| **Manipulation & Grasping** | Manipulation · Grasping · Retargeting | 102 | Contact-rich grasping, cross-embodiment transfer, function-preserving retargeting |
-| **Locomotion & Navigation** | Humanoid Robotics · Locomotion · Navigation · Teleoperation | 54 | Whole-body imitation, agile locomotion, open-world navigation |
-| **Policy Learning** | Diffusion Policy · Reinforcement Learning · VLA | 124 | Three mainlines: diffusion, RL, and vision-language-action models |
-| **Simulation & Data** | Simulation · Data Generation | 27 | Scalable simulation, benchmarks, and real multi-robot data |
-| **World Models & Generation** | World Models · Video Generation | 14 | Interactive world models and video generation for physical priors |
-| **Hardware & Systems** | Hardware | 9 | Dexterous hands, sensors, and teleoperation platforms |
+### Repository structure
 
-### Featured Analysis
+```text
+├── index.html                 # responsive bilingual research index
+├── assets/
+│   ├── app.js                 # search, filters, language and theme
+│   └── styles.css             # visual system
+├── data/
+│   └── papers.json            # single source of truth
+├── papers/
+│   └── README.md              # generated human-readable catalog
+├── notes/                     # selected deep-dive notes
+├── docs/                      # methodology and analysis templates
+├── scripts/
+│   ├── audit_catalog.py       # schema, source and scope validation
+│   ├── check_local_links.py   # repository-link validation
+│   └── render_catalog.py      # deterministic catalog renderer
+└── tests/
+    └── test_catalog.py        # repository contracts
+```
 
-- **Hand Retargeting Special** (45 papers) — Three-level taxonomy (L1 pose / L2 executable / L3 functional), coverage scoring, and maturity assessment. See [`papers/README.md`](papers/README.md).
-- **Tactile & Contact Optimization Deep Dive** (11 papers) — Structured analysis of RSS/CVPR/CoRL papers across 5 dimensions. See [`docs/tactile-paper-analysis.md`](docs/tactile-paper-analysis.md).
+### Local validation
 
-### Analysis Template
+```bash
+python scripts/audit_catalog.py
+python scripts/render_catalog.py --check
+python scripts/check_local_links.py
+python -m unittest discover -s tests -v
+```
 
-Each paper is analyzed using a 9-dimension unified template (see [`docs/paper-analysis-template.md`](docs/paper-analysis-template.md)):
+## Selection policy · 收录规则
 
-1. Metadata · 2. One-sentence Summary · 3. Research Question · 4. Core Method · 5. Key Innovation · 6. Experiments · 7. Limitations & Future Work · 8. Transferability · 9. Reproduction Notes
+Core entries must satisfy all of the following:
 
----
+1. Conference year is between 2022 and 2026, inclusive.
+2. The paper is formally accepted to a listed venue or official conference track.
+3. An official proceedings, conference, OpenReview acceptance, IEEE, CVF, ECVA, RSS, or PMLR link verifies the venue.
+4. The title is complete and unique, and the venue is a single conference rather than an ambiguous label such as `RSS/CoRL/ICRA`.
+5. Workshops, withdrawn submissions, under-review work, generic non-embodied papers, and arXiv-only preprints are excluded from the core count.
+
+Older classics and important preprints may be discussed in notes, but they must be labeled outside the core catalog.
 
 ## Contributing
 
-Contributions are welcome! Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) before submitting a PR.
-
-### How to Contribute
-
-- Add new papers to the collection
-- Write analysis notes using the template
-- Improve classification and metadata
-- Fix broken links or incorrect venues
+Read [CONTRIBUTING.md](CONTRIBUTING.md). Add catalog data to [`data/papers.json`](data/papers.json), regenerate the Markdown index, and run all three local checks before opening a pull request.
 
 ## License
 
-Content is licensed under [CC BY-NC-SA 4.0](LICENSE). Paper copyrights belong to their respective authors; this repository does not distribute PDFs.
-
-## Acknowledgments
-
-Paper metadata is sourced from arXiv, Google Scholar, and official conference proceedings. Classification taxonomy is inspired by the Embodied AI literature guide covering 2023–2026 top-tier venues.
+Repository-authored content is licensed under [CC BY-NC-SA 4.0](LICENSE). Paper copyrights remain with their authors and publishers; this repository links to papers and does not redistribute PDFs.

@@ -1,0 +1,658 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-08-07",
+  "window": {
+    "start": 2022,
+    "end": 2026
+  },
+  "scope": "Curated, non-exhaustive selection of formally accepted Embodied AI papers from major robotics, machine learning, and vision conferences.",
+  "venues": [
+    "RSS",
+    "CoRL",
+    "ICRA",
+    "IROS",
+    "ICLR",
+    "ICML",
+    "NeurIPS",
+    "CVPR",
+    "ICCV",
+    "ECCV"
+  ],
+  "tracks": [
+    "Foundation Models & VLA",
+    "Manipulation & Imitation",
+    "Dexterity & Teleoperation",
+    "Navigation & Embodied Agents",
+    "Humanoids & Locomotion",
+    "Perception & World Models",
+    "Simulation, Data & Evaluation"
+  ],
+  "papers": [
+    {
+      "title": "R3M: A Universal Visual Representation for Robot Manipulation",
+      "year": 2022,
+      "venue": "CoRL",
+      "track": "Perception & World Models",
+      "topic": "Visual representation",
+      "paper_url": "https://arxiv.org/abs/2203.12601",
+      "official_url": "https://proceedings.mlr.press/v205/nair23a.html",
+      "code_url": "https://github.com/facebookresearch/r3m"
+    },
+    {
+      "title": "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances",
+      "year": 2022,
+      "venue": "CoRL",
+      "track": "Foundation Models & VLA",
+      "topic": "Language-grounded planning",
+      "paper_url": "https://arxiv.org/abs/2204.01691",
+      "official_url": "https://proceedings.mlr.press/v205/ichter23a.html",
+      "code_url": "https://say-can.github.io/"
+    },
+    {
+      "title": "BEHAVIOR-1K: A Benchmark for Embodied AI with 1,000 Everyday Activities and Realistic Simulation",
+      "year": 2022,
+      "venue": "CoRL",
+      "track": "Simulation, Data & Evaluation",
+      "topic": "Household benchmark",
+      "paper_url": "https://proceedings.mlr.press/v205/li23a.html",
+      "official_url": "https://proceedings.mlr.press/v205/li23a.html",
+      "code_url": "https://github.com/StanfordVL/OmniGibson"
+    },
+    {
+      "title": "Masked World Models for Visual Control",
+      "year": 2022,
+      "venue": "CoRL",
+      "track": "Perception & World Models",
+      "topic": "Visual world models",
+      "paper_url": "https://proceedings.mlr.press/v205/seo23a.html",
+      "official_url": "https://proceedings.mlr.press/v205/seo23a.html"
+    },
+    {
+      "title": "In-Hand Object Rotation via Rapid Motor Adaptation",
+      "year": 2022,
+      "venue": "CoRL",
+      "track": "Dexterity & Teleoperation",
+      "topic": "Dexterous control",
+      "paper_url": "https://arxiv.org/abs/2210.04887",
+      "official_url": "https://proceedings.mlr.press/v205/qi23a.html",
+      "code_url": "https://haozhi.io/hora/"
+    },
+    {
+      "title": "MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge",
+      "year": 2022,
+      "venue": "NeurIPS",
+      "track": "Navigation & Embodied Agents",
+      "topic": "Open-ended agents",
+      "paper_url": "https://arxiv.org/abs/2206.08853",
+      "official_url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/74a67268c5cc5910f64938cac4526a90-Abstract.html",
+      "code_url": "https://github.com/MineDojo/MineDojo"
+    },
+    {
+      "title": "VLMbench: A Compositional Benchmark for Vision-and-Language Manipulation",
+      "year": 2022,
+      "venue": "NeurIPS",
+      "track": "Simulation, Data & Evaluation",
+      "topic": "Language manipulation benchmark",
+      "paper_url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/04543a88eae2683133c1acbef5a6bf77-Abstract-Datasets_and_Benchmarks.html",
+      "official_url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/04543a88eae2683133c1acbef5a6bf77-Abstract-Datasets_and_Benchmarks.html"
+    },
+    {
+      "title": "ProcTHOR: Large-Scale Embodied AI Using Procedural Generation",
+      "year": 2022,
+      "venue": "NeurIPS",
+      "track": "Navigation & Embodied Agents",
+      "topic": "Procedural environments",
+      "paper_url": "https://arxiv.org/abs/2206.06994",
+      "official_url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/27c546ab1e4f1d7d638e6a8dfbad9a07-Abstract-Conference.html",
+      "code_url": "https://github.com/allenai/procthor"
+    },
+    {
+      "title": "RT-1: Robotics Transformer for Real-World Control at Scale",
+      "year": 2023,
+      "venue": "RSS",
+      "track": "Foundation Models & VLA",
+      "topic": "Generalist robot policy",
+      "paper_url": "https://arxiv.org/abs/2212.06817",
+      "official_url": "https://roboticsproceedings.org/rss19/p025.html"
+    },
+    {
+      "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+      "year": 2023,
+      "venue": "CoRL",
+      "track": "Foundation Models & VLA",
+      "topic": "Vision-language-action",
+      "paper_url": "https://arxiv.org/abs/2307.15818",
+      "official_url": "https://proceedings.mlr.press/v229/zitkovich23a.html"
+    },
+    {
+      "title": "Diffusion Policy: Visuomotor Policy Learning via Action Diffusion",
+      "year": 2023,
+      "venue": "RSS",
+      "track": "Manipulation & Imitation",
+      "topic": "Diffusion policy",
+      "paper_url": "https://arxiv.org/abs/2303.04137",
+      "official_url": "https://roboticsproceedings.org/rss19/p026.html",
+      "code_url": "https://github.com/real-stanford/diffusion_policy"
+    },
+    {
+      "title": "PaLM-E: An Embodied Multimodal Language Model",
+      "year": 2023,
+      "venue": "ICML",
+      "track": "Foundation Models & VLA",
+      "topic": "Embodied multimodal model",
+      "paper_url": "https://arxiv.org/abs/2303.03378",
+      "official_url": "https://proceedings.mlr.press/v202/driess23a.html"
+    },
+    {
+      "title": "VIMA: Robot Manipulation with Multimodal Prompts",
+      "year": 2023,
+      "venue": "ICML",
+      "track": "Foundation Models & VLA",
+      "topic": "Multimodal prompting",
+      "paper_url": "https://arxiv.org/abs/2210.03094",
+      "official_url": "https://proceedings.mlr.press/v202/jiang23b.html",
+      "code_url": "https://github.com/vimalabs/VIMA"
+    },
+    {
+      "title": "Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware",
+      "year": 2023,
+      "venue": "RSS",
+      "track": "Dexterity & Teleoperation",
+      "topic": "Bimanual imitation",
+      "paper_url": "https://arxiv.org/abs/2304.13705",
+      "official_url": "https://roboticsproceedings.org/rss19/index.html",
+      "code_url": "https://github.com/tonyzhaozh/aloha"
+    },
+    {
+      "title": "LEAP Hand: Low-Cost, Efficient, and Anthropomorphic Hand for Robot Learning",
+      "year": 2023,
+      "venue": "RSS",
+      "track": "Dexterity & Teleoperation",
+      "topic": "Dexterous hardware",
+      "paper_url": "https://arxiv.org/abs/2309.06440",
+      "official_url": "https://roboticsproceedings.org/rss19/index.html",
+      "code_url": "https://github.com/leap-hand/LEAP_Hand_API"
+    },
+    {
+      "title": "AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System",
+      "year": 2023,
+      "venue": "RSS",
+      "track": "Dexterity & Teleoperation",
+      "topic": "Teleoperation",
+      "paper_url": "https://arxiv.org/abs/2307.04577",
+      "official_url": "https://roboticsproceedings.org/rss19/p015.html",
+      "code_url": "https://github.com/dexsuite/dex-retargeting"
+    },
+    {
+      "title": "MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations",
+      "year": 2023,
+      "venue": "CoRL",
+      "track": "Simulation, Data & Evaluation",
+      "topic": "Demonstration generation",
+      "paper_url": "https://arxiv.org/abs/2310.17596",
+      "official_url": "https://proceedings.mlr.press/v229/",
+      "code_url": "https://github.com/NVlabs/mimicgen"
+    },
+    {
+      "title": "HomeRobot: Open-Vocabulary Mobile Manipulation",
+      "year": 2023,
+      "venue": "CoRL",
+      "track": "Navigation & Embodied Agents",
+      "topic": "Mobile manipulation",
+      "paper_url": "https://arxiv.org/abs/2306.11565",
+      "official_url": "https://proceedings.mlr.press/v229/",
+      "code_url": "https://github.com/facebookresearch/home-robot"
+    },
+    {
+      "title": "Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents",
+      "year": 2023,
+      "venue": "NeurIPS",
+      "track": "Navigation & Embodied Agents",
+      "topic": "Grounded planning",
+      "paper_url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/bb3cfcb0284642a973dd631ec9184f2f-Abstract-Conference.html",
+      "official_url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/bb3cfcb0284642a973dd631ec9184f2f-Abstract-Conference.html"
+    },
+    {
+      "title": "Multi-View Masked World Models for Visual Robotic Manipulation",
+      "year": 2023,
+      "venue": "ICML",
+      "track": "Perception & World Models",
+      "topic": "Multi-view world models",
+      "paper_url": "https://proceedings.mlr.press/v202/seo23a.html",
+      "official_url": "https://proceedings.mlr.press/v202/seo23a.html"
+    },
+    {
+      "title": "ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills",
+      "year": 2023,
+      "venue": "ICLR",
+      "track": "Simulation, Data & Evaluation",
+      "topic": "Manipulation benchmark",
+      "paper_url": "https://arxiv.org/abs/2302.04659",
+      "official_url": "https://openreview.net/forum?id=b_CQDy9vrD1",
+      "code_url": "https://github.com/haosulab/ManiSkill"
+    },
+    {
+      "title": "Open X-Embodiment: Robotic Learning Datasets and RT-X Models",
+      "year": 2024,
+      "venue": "ICRA",
+      "track": "Foundation Models & VLA",
+      "topic": "Cross-embodiment data",
+      "paper_url": "https://arxiv.org/abs/2310.08864",
+      "official_url": "https://ieeexplore.ieee.org/abstract/document/10611477",
+      "code_url": "https://github.com/google-deepmind/open_x_embodiment"
+    },
+    {
+      "title": "GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators",
+      "year": 2024,
+      "venue": "IROS",
+      "track": "Dexterity & Teleoperation",
+      "topic": "Low-cost teleoperation",
+      "paper_url": "https://arxiv.org/abs/2309.13037",
+      "official_url": "https://doi.org/10.1109/IROS58592.2024.10801581",
+      "code_url": "https://github.com/wuphilipp/gello_software"
+    },
+    {
+      "title": "Track2Act: Predicting Point Tracks from Internet Videos enables Generalizable Robot Manipulation",
+      "year": 2024,
+      "venue": "ECCV",
+      "track": "Manipulation & Imitation",
+      "topic": "Learning from video",
+      "paper_url": "https://arxiv.org/abs/2405.01527",
+      "official_url": "https://eccv.ecva.net/virtual/2024/poster/2120"
+    },
+    {
+      "title": "Octo: An Open-Source Generalist Robot Policy",
+      "year": 2024,
+      "venue": "RSS",
+      "track": "Foundation Models & VLA",
+      "topic": "Generalist robot policy",
+      "paper_url": "https://arxiv.org/abs/2405.12213",
+      "official_url": "https://doi.org/10.15607/RSS.2024.XX.090",
+      "code_url": "https://github.com/octo-models/octo"
+    },
+    {
+      "title": "Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots",
+      "year": 2024,
+      "venue": "RSS",
+      "track": "Dexterity & Teleoperation",
+      "topic": "Portable data collection",
+      "paper_url": "https://arxiv.org/abs/2402.10329",
+      "official_url": "https://roboticsproceedings.org/rss20/index.html",
+      "code_url": "https://github.com/real-stanford/universal_manipulation_interface"
+    },
+    {
+      "title": "DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset",
+      "year": 2024,
+      "venue": "RSS",
+      "track": "Simulation, Data & Evaluation",
+      "topic": "Robot dataset",
+      "paper_url": "https://arxiv.org/abs/2403.12945",
+      "official_url": "https://doi.org/10.15607/RSS.2024.XX.120",
+      "code_url": "https://github.com/droid-dataset/droid"
+    },
+    {
+      "title": "3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations",
+      "year": 2024,
+      "venue": "RSS",
+      "track": "Manipulation & Imitation",
+      "topic": "3D diffusion policy",
+      "paper_url": "https://arxiv.org/abs/2403.03954",
+      "official_url": "https://www.roboticsproceedings.org/rss20/p067.html",
+      "code_url": "https://github.com/YanjieZe/3D-Diffusion-Policy"
+    },
+    {
+      "title": "RoboCasa: Large-Scale Simulation of Household Tasks for Generalist Robots",
+      "year": 2024,
+      "venue": "RSS",
+      "track": "Simulation, Data & Evaluation",
+      "topic": "Household simulation",
+      "paper_url": "https://arxiv.org/abs/2306.14426",
+      "official_url": "https://roboticsproceedings.org/rss20/index.html",
+      "code_url": "https://github.com/ARISE-Initiative/robocasa"
+    },
+    {
+      "title": "RT-H: Action Hierarchies using Language",
+      "year": 2024,
+      "venue": "RSS",
+      "track": "Foundation Models & VLA",
+      "topic": "Action hierarchy",
+      "paper_url": "https://arxiv.org/abs/2403.01823",
+      "official_url": "https://roboticsproceedings.org/rss20/index.html"
+    },
+    {
+      "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+      "year": 2024,
+      "venue": "CoRL",
+      "track": "Foundation Models & VLA",
+      "topic": "Vision-language-action",
+      "paper_url": "https://arxiv.org/abs/2406.09246",
+      "official_url": "https://proceedings.mlr.press/v270/",
+      "code_url": "https://github.com/openvla/openvla"
+    },
+    {
+      "title": "HumanPlus: Humanoid Shadowing and Imitation from Humans",
+      "year": 2024,
+      "venue": "CoRL",
+      "track": "Humanoids & Locomotion",
+      "topic": "Humanoid imitation",
+      "paper_url": "https://arxiv.org/abs/2406.10454",
+      "official_url": "https://proceedings.mlr.press/v270/",
+      "code_url": "https://github.com/MarkFzp/humanplus"
+    },
+    {
+      "title": "OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning",
+      "year": 2024,
+      "venue": "CoRL",
+      "track": "Humanoids & Locomotion",
+      "topic": "Whole-body teleoperation",
+      "paper_url": "https://arxiv.org/abs/2406.08858",
+      "official_url": "https://proceedings.mlr.press/v270/",
+      "code_url": "https://github.com/LeCAR-Lab/human2humanoid"
+    },
+    {
+      "title": "Open-TeleVision: Teleoperation with Immersive Active Visual Feedback",
+      "year": 2024,
+      "venue": "CoRL",
+      "track": "Dexterity & Teleoperation",
+      "topic": "Immersive teleoperation",
+      "paper_url": "https://arxiv.org/abs/2407.01512",
+      "official_url": "https://proceedings.mlr.press/v270/",
+      "code_url": "https://github.com/OpenTeleVision/TeleVision"
+    },
+    {
+      "title": "ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation",
+      "year": 2024,
+      "venue": "CoRL",
+      "track": "Manipulation & Imitation",
+      "topic": "Constraint-based manipulation",
+      "paper_url": "https://arxiv.org/abs/2409.01652",
+      "official_url": "https://proceedings.mlr.press/v270/",
+      "code_url": "https://github.com/huangwl18/ReKep"
+    },
+    {
+      "title": "CrossFormer: Scaling Cross-Embodied Learning for Manipulation",
+      "year": 2024,
+      "venue": "CoRL",
+      "track": "Foundation Models & VLA",
+      "topic": "Cross-embodiment learning",
+      "paper_url": "https://arxiv.org/abs/2408.11812",
+      "official_url": "https://proceedings.mlr.press/v270/"
+    },
+    {
+      "title": "Theia: Distilling Diverse Vision Foundation Models for Robot Learning",
+      "year": 2024,
+      "venue": "CoRL",
+      "track": "Perception & World Models",
+      "topic": "Representation distillation",
+      "paper_url": "https://arxiv.org/abs/2407.20179",
+      "official_url": "https://proceedings.mlr.press/v270/",
+      "code_url": "https://github.com/bdaiinstitute/theia"
+    },
+    {
+      "title": "3D-VLA: A 3D Vision-Language-Action Generative World Model",
+      "year": 2024,
+      "venue": "ICML",
+      "track": "Perception & World Models",
+      "topic": "3D world model",
+      "paper_url": "https://arxiv.org/abs/2403.01288",
+      "official_url": "https://proceedings.mlr.press/v235/zhen24a.html"
+    },
+    {
+      "title": "DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning",
+      "year": 2024,
+      "venue": "ICML",
+      "track": "Perception & World Models",
+      "topic": "Multimodal representation",
+      "paper_url": "https://arxiv.org/abs/2402.18137",
+      "official_url": "https://proceedings.mlr.press/v235/"
+    },
+    {
+      "title": "RoboDreamer: Learning Compositional World Models for Robot Imagination",
+      "year": 2024,
+      "venue": "ICML",
+      "track": "Perception & World Models",
+      "topic": "Robot world models",
+      "paper_url": "https://arxiv.org/abs/2404.12377",
+      "official_url": "https://proceedings.mlr.press/v235/"
+    },
+    {
+      "title": "Vision-Language Foundation Models as Effective Robot Imitators",
+      "year": 2024,
+      "venue": "ICLR",
+      "track": "Foundation Models & VLA",
+      "topic": "Vision-language imitation",
+      "paper_url": "https://arxiv.org/abs/2311.13840",
+      "official_url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/71639c317fb0bf398835627b4418693e-Abstract-Conference.html"
+    },
+    {
+      "title": "Eureka: Human-Level Reward Design via Coding Large Language Models",
+      "year": 2024,
+      "venue": "ICLR",
+      "track": "Simulation, Data & Evaluation",
+      "topic": "Reward generation",
+      "paper_url": "https://arxiv.org/abs/2310.12931",
+      "official_url": "https://openreview.net/forum?id=IEduRUO55F",
+      "code_url": "https://github.com/eureka-research/Eureka"
+    },
+    {
+      "title": "RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation",
+      "year": 2025,
+      "venue": "ICLR",
+      "track": "Foundation Models & VLA",
+      "topic": "Bimanual foundation model",
+      "paper_url": "https://arxiv.org/abs/2410.07864",
+      "official_url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/49f80e4d2471ad4f2edf4f5f1ab62339-Abstract-Conference.html",
+      "code_url": "https://github.com/thu-ml/RoboticsDiffusionTransformer"
+    },
+    {
+      "title": "HAMSTER: Hierarchical Action Models for Open-World Robot Manipulation",
+      "year": 2025,
+      "venue": "ICLR",
+      "track": "Foundation Models & VLA",
+      "topic": "Hierarchical VLA",
+      "paper_url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/3bfee3bc6639c36e6e7b058db909f760-Abstract-Conference.html",
+      "official_url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/3bfee3bc6639c36e6e7b058db909f760-Abstract-Conference.html"
+    },
+    {
+      "title": "Latent Action Pretraining from Videos",
+      "year": 2025,
+      "venue": "ICLR",
+      "track": "Foundation Models & VLA",
+      "topic": "Learning from video",
+      "paper_url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/45d74e190008c7bff2845ffc8e3facd3-Abstract-Conference.html",
+      "official_url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/45d74e190008c7bff2845ffc8e3facd3-Abstract-Conference.html"
+    },
+    {
+      "title": "π0.5: a Vision-Language-Action Model with Open-World Generalization",
+      "year": 2025,
+      "venue": "CoRL",
+      "track": "Foundation Models & VLA",
+      "topic": "Open-world VLA",
+      "paper_url": "https://proceedings.mlr.press/v305/black25a.html",
+      "official_url": "https://proceedings.mlr.press/v305/black25a.html",
+      "code_url": "https://github.com/Physical-Intelligence/openpi"
+    },
+    {
+      "title": "FastUMI: A Scalable and Hardware-Independent Universal Manipulation Interface with Dataset",
+      "year": 2025,
+      "venue": "CoRL",
+      "track": "Dexterity & Teleoperation",
+      "topic": "Scalable data collection",
+      "paper_url": "https://proceedings.mlr.press/v305/zhaxizhuoma25a.html",
+      "official_url": "https://proceedings.mlr.press/v305/zhaxizhuoma25a.html"
+    },
+    {
+      "title": "Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation",
+      "year": 2025,
+      "venue": "CoRL",
+      "track": "Perception & World Models",
+      "topic": "Tactile representation",
+      "paper_url": "https://proceedings.mlr.press/v305/",
+      "official_url": "https://proceedings.mlr.press/v305/"
+    },
+    {
+      "title": "OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints",
+      "year": 2025,
+      "venue": "CVPR",
+      "track": "Manipulation & Imitation",
+      "topic": "Open-vocabulary manipulation",
+      "paper_url": "https://arxiv.org/abs/2501.03841",
+      "official_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Pan_OmniManip_Towards_General_Robotic_Manipulation_via_Object-Centric_Interaction_Primitives_as_CVPR_2025_paper.html"
+    },
+    {
+      "title": "G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation",
+      "year": 2025,
+      "venue": "CVPR",
+      "track": "Manipulation & Imitation",
+      "topic": "3D semantic flow",
+      "paper_url": "https://arxiv.org/abs/2411.18369",
+      "official_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Chen_G3Flow_Generative_3D_Semantic_Flow_for_Pose-aware_and_Generalizable_Object_CVPR_2025_paper.html"
+    },
+    {
+      "title": "ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning",
+      "year": 2025,
+      "venue": "CVPR",
+      "track": "Dexterity & Teleoperation",
+      "topic": "Bimanual skill transfer",
+      "paper_url": "https://arxiv.org/abs/2503.21860",
+      "official_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Li_ManipTrans_Efficient_Dexterous_Bimanual_Manipulation_Transfer_via_Residual_Learning_CVPR_2025_paper.html"
+    },
+    {
+      "title": "RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete",
+      "year": 2025,
+      "venue": "CVPR",
+      "track": "Foundation Models & VLA",
+      "topic": "Robot multimodal model",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Ji_RoboBrain_A_Unified_Brain_Model_for_Robotic_Manipulation_from_Abstract_CVPR_2025_paper.html",
+      "official_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Ji_RoboBrain_A_Unified_Brain_Model_for_Robotic_Manipulation_from_Abstract_CVPR_2025_paper.html"
+    },
+    {
+      "title": "EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow",
+      "year": 2025,
+      "venue": "ICCV",
+      "track": "Manipulation & Imitation",
+      "topic": "Learning from video",
+      "paper_url": "https://openaccess.thecvf.com/content/ICCV2025/html/Chen_EC-Flow_Enabling_Versatile_Robotic_Manipulation_from_Action-Unlabeled_Videos_via_Embodiment-Centric_ICCV_2025_paper.html",
+      "official_url": "https://openaccess.thecvf.com/content/ICCV2025/html/Chen_EC-Flow_Enabling_Versatile_Robotic_Manipulation_from_Action-Unlabeled_Videos_via_Embodiment-Centric_ICCV_2025_paper.html"
+    },
+    {
+      "title": "AR-VRM: Imitating Human Motions for Visual Robot Manipulation with Analogical Reasoning",
+      "year": 2025,
+      "venue": "ICCV",
+      "track": "Manipulation & Imitation",
+      "topic": "Human-video transfer",
+      "paper_url": "https://openaccess.thecvf.com/content/ICCV2025/html/Yang_AR-VRM_Imitating_Human_Motions_for_Visual_Robot_Manipulation_with_Analogical_ICCV_2025_paper.html",
+      "official_url": "https://openaccess.thecvf.com/content/ICCV2025/html/Yang_AR-VRM_Imitating_Human_Motions_for_Visual_Robot_Manipulation_with_Analogical_ICCV_2025_paper.html",
+      "code_url": "https://github.com/idejie/ar"
+    },
+    {
+      "title": "Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation",
+      "year": 2025,
+      "venue": "RSS",
+      "track": "Manipulation & Imitation",
+      "topic": "Visual-tactile policy",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p052.html",
+      "official_url": "https://www.roboticsproceedings.org/rss21/p052.html"
+    },
+    {
+      "title": "From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation",
+      "year": 2026,
+      "venue": "ICLR",
+      "track": "Foundation Models & VLA",
+      "topic": "Spatial reasoning",
+      "paper_url": "https://openreview.net/forum?id=yngvAamNQi",
+      "official_url": "https://openreview.net/forum?id=yngvAamNQi"
+    },
+    {
+      "title": "Hybrid Training for Vision-Language-Action Models",
+      "year": 2026,
+      "venue": "ICLR",
+      "track": "Foundation Models & VLA",
+      "topic": "Reasoning and action",
+      "paper_url": "https://openreview.net/forum?id=IBJtOltTbx",
+      "official_url": "https://openreview.net/forum?id=IBJtOltTbx"
+    },
+    {
+      "title": "MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation",
+      "year": 2026,
+      "venue": "ICLR",
+      "track": "Foundation Models & VLA",
+      "topic": "Memory-augmented VLA",
+      "paper_url": "https://proceedings.iclr.cc/papers/search?q=MemoryVLA",
+      "official_url": "https://proceedings.iclr.cc/papers/search?q=MemoryVLA"
+    },
+    {
+      "title": "WholeBodyVLA: Towards Unified Latent VLA for Whole-body Loco-manipulation Control",
+      "year": 2026,
+      "venue": "ICLR",
+      "track": "Humanoids & Locomotion",
+      "topic": "Whole-body VLA",
+      "paper_url": "https://proceedings.iclr.cc/papers/search?q=WholeBodyVLA",
+      "official_url": "https://proceedings.iclr.cc/papers/search?q=WholeBodyVLA"
+    },
+    {
+      "title": "Vision-Language-Action Instruction Tuning: From Understanding to Manipulation",
+      "year": 2026,
+      "venue": "ICLR",
+      "track": "Foundation Models & VLA",
+      "topic": "Instruction tuning",
+      "paper_url": "https://proceedings.iclr.cc/papers/search?q=Vision-Language-Action+Instruction+Tuning",
+      "official_url": "https://proceedings.iclr.cc/papers/search?q=Vision-Language-Action+Instruction+Tuning"
+    },
+    {
+      "title": "SaPaVe: Towards Active Perception and Manipulation in Vision-Language Action Models for Robotics",
+      "year": 2026,
+      "venue": "CVPR",
+      "track": "Foundation Models & VLA",
+      "topic": "Active perception",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Liu_SaPaVe_Towards_Active_Perception_and_Manipulation_in_Vision-Language_Action_Models_CVPR_2026_paper.html",
+      "official_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Liu_SaPaVe_Towards_Active_Perception_and_Manipulation_in_Vision-Language_Action_Models_CVPR_2026_paper.html"
+    },
+    {
+      "title": "RoboAgent: Chaining Basic Capabilities for Embodied Task Planning",
+      "year": 2026,
+      "venue": "CVPR",
+      "track": "Navigation & Embodied Agents",
+      "topic": "Embodied planning",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Xu_RoboAgent_Chaining_Basic_Capabilities_for_Embodied_Task_Planning_CVPR_2026_paper.html",
+      "official_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Xu_RoboAgent_Chaining_Basic_Capabilities_for_Embodied_Task_Planning_CVPR_2026_paper.html"
+    },
+    {
+      "title": "FM-Steer: Enhance Generalist Policies with Value-Guided Cascaded Denoising",
+      "year": 2026,
+      "venue": "CVPR",
+      "track": "Manipulation & Imitation",
+      "topic": "Test-time policy steering",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Song_FM-Steer_Enhance_Generalist_Policies_with_Value-Guided_Cascaded_Denoising_CVPR_2026_paper.html",
+      "official_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Song_FM-Steer_Enhance_Generalist_Policies_with_Value-Guided_Cascaded_Denoising_CVPR_2026_paper.html",
+      "code_url": "https://hume-vla.github.io/"
+    },
+    {
+      "title": "LAST: Bridging Vision-Language and Action Manifolds via Gromov-Wasserstein Alignment",
+      "year": 2026,
+      "venue": "ICML",
+      "track": "Foundation Models & VLA",
+      "topic": "Representation alignment",
+      "paper_url": "https://openreview.net/forum?id=gIkOQkb4fU",
+      "official_url": "https://openreview.net/forum?id=gIkOQkb4fU"
+    },
+    {
+      "title": "FlatLab: A Unified Methodology Framework and Simulation-Based Benchmark for Robotic Manipulation of Flat Objects",
+      "year": 2026,
+      "venue": "ICML",
+      "track": "Simulation, Data & Evaluation",
+      "topic": "Manipulation benchmark",
+      "paper_url": "https://openreview.net/forum?id=1dWG9PJSVp",
+      "official_url": "https://openreview.net/forum?id=1dWG9PJSVp"
+    },
+    {
+      "title": "RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation",
+      "year": 2026,
+      "venue": "ICML",
+      "track": "Simulation, Data & Evaluation",
+      "topic": "Synthetic data benchmark",
+      "paper_url": "https://openreview.net/forum?id=itonej9GIV",
+      "official_url": "https://openreview.net/forum?id=itonej9GIV"
+    }
+  ]
+}

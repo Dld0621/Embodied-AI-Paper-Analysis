@@ -1,34 +1,53 @@
-# 贡献指南
+# Contributing
 
-欢迎为本仓库补充笔记、修正错误或扩展分类。以下约定确保笔记可检索、可对照。
+Thanks for improving the Embodied AI research map. The goal is a small, defensible catalog—not the largest possible list.
 
-## 新增一篇笔记
+## Before adding a paper
 
-1. 从模板复制一份：`cp docs/paper-analysis-template.md notes/<主题目录>/<文件名>.md`
-2. 文件名统一为 `YYYY-简短标题.md`，全小写连字符，例如 `2025-diffusion-policy.md`。同名论文若有多篇分析，加作者首字母：`2025-retargeting-yan.md`
-3. 逐节填写，至少完成"元信息""一句话总结""研究问题""核心方法""与本项目的关联"五节
-4. 主题归属参照 README.md 中的方向地图，跨主题论文归到核心贡献所在目录，其余主题写入"主题标签"
-5. 更新 `notes/README.md` 中的 ✓ 标记
+A core paper must meet every requirement:
 
-## 提交规范
+- conference year is within the active 2022–2026 window;
+- formally accepted by RSS, CoRL, ICRA, IROS, ICLR, ICML, NeurIPS, CVPR, ICCV, or ECCV;
+- directly relevant to embodied perception, reasoning, action, control, evaluation, or robot systems;
+- supported by an official venue source;
+- assigned to exactly one venue, one research track, and one concise topic;
+- not already present under another spelling.
 
-- 一个 Pull Request 只涉及一篇笔记或一处分类调整，便于审阅
-- Commit message 格式：`add: 2025-diffusion-policy`、`fix: retargeting 索引缺失`、`docs: 补充 taxonomy 说明`
-- 笔记中引用的图片放入 `assets/`，以笔记文件名为前缀命名
+Do not add workshop-only, withdrawn, under-review, or arXiv-only papers to the core catalog. Important preprints can be discussed in `notes/` with their status stated explicitly.
 
-## 内容要求
+## Catalog workflow
 
-- **原创**：笔记为自己理解后的产出，禁止整段复制论文摘要。引用原文须注明出处
-- **可验证**：实验数字与论文一致，超参记录到具体数值，不写"效果不错"这类模糊表述
-- **关联显式**："与本项目的关联"一节必须填，哪怕结论是"暂无可借鉴之处"
-- **不分发 PDF**：仓库不收录论文原文，仅在元信息记录 arXiv 链接
+1. Edit `data/papers.json`.
+2. Use the conference year, not the arXiv upload year.
+3. Put the reading link in `paper_url` and the acceptance evidence in `official_url`.
+4. Regenerate the Markdown catalog:
 
-## 扩展分类
+   ```bash
+   python scripts/render_catalog.py
+   ```
 
-当某主题笔记超过 15 篇，可在其目录下开子目录细分，并在主 `README.md` 的分类表同步更新。新增一级主题需联系维护者讨论。
+5. Run all repository checks:
 
-## Issue 与讨论
+   ```bash
+   python scripts/audit_catalog.py
+   python scripts/render_catalog.py --check
+   python -m unittest discover -s tests -v
+   ```
 
-- 发现笔记有误，开 Issue 说明错误位置与正确信息
-- 建议新增主题或调整分类，在 Issue 中给出划分理由与至少 3 篇代表性论文
-- 欢迎讨论"与本项目的关联"中提出的待验证想法
+## Analysis notes
+
+Use [`docs/paper-analysis-template.md`](docs/paper-analysis-template.md). Separate:
+
+- claims made by the paper;
+- evidence shown in experiments;
+- limitations acknowledged by the authors;
+- your own inference or recommendation.
+
+Do not convert simulation, offline metrics, or visualization results into real-robot success claims.
+
+## Pull requests
+
+- Keep each pull request focused.
+- Explain why the paper belongs in the curated map.
+- Include the official acceptance source.
+- Do not commit downloaded PDFs or large generated assets.
