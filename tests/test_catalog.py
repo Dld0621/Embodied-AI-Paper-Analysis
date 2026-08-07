@@ -28,12 +28,12 @@ class CatalogContractTests(unittest.TestCase):
         errors, _ = AUDIT.validate_catalog(self.catalog)
         self.assertEqual(errors, [])
 
-    def test_catalog_is_deliberately_curated(self) -> None:
-        self.assertGreaterEqual(len(self.papers), 50)
-        self.assertLessEqual(len(self.papers), 100)
+    def test_catalog_is_a_large_bounded_census(self) -> None:
+        self.assertGreaterEqual(len(self.papers), 3000)
+        self.assertLessEqual(len(self.papers), 5000)
 
     def test_rolling_five_year_window(self) -> None:
-        self.assertEqual(self.catalog["schema_version"], 2)
+        self.assertEqual(self.catalog["schema_version"], 3)
         self.assertEqual(self.catalog["window"], {"start": 2022, "end": 2026})
         self.assertEqual({paper["year"] for paper in self.papers}, set(range(2022, 2027)))
 
@@ -72,6 +72,20 @@ class CatalogContractTests(unittest.TestCase):
                 parsed = urlparse(paper[field])
                 self.assertEqual(parsed.scheme, "https", f"{paper['title']} {field}")
                 self.assertTrue(parsed.netloc, f"{paper['title']} {field}")
+
+    def test_every_paper_declares_source_provenance(self) -> None:
+        allowed = {"official", "publisher", "bibliographic"}
+        for paper in self.papers:
+            self.assertIn(paper["source_type"], allowed, paper["title"])
+            self.assertTrue(paper["discovery_source"], paper["title"])
+
+    def test_census_records_every_venue_query(self) -> None:
+        census = self.catalog["census"]
+        self.assertEqual(census["query"], "robot")
+        self.assertEqual(set(census["venue_discovery"]), set(self.catalog["venues"]))
+        for venue, stats in census["venue_discovery"].items():
+            self.assertGreaterEqual(stats["matched_records"], stats["classified_records"], venue)
+            self.assertGreater(stats["included_records"], 0, venue)
 
 
 if __name__ == "__main__":

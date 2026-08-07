@@ -206,6 +206,9 @@ kbd { padding: .18rem .42rem; border: 1px solid var(--line); border-radius: .35r
 .paper-links a { padding: .36rem .62rem; border: 1px solid var(--line); border-radius: .5rem; color: var(--muted); font-size: .68rem; font-weight: 720; transition: .2s ease; }
 .paper-links a:first-child { border-color: color-mix(in srgb, var(--blue) 40%, var(--line)); color: var(--blue); }
 .paper-links a:hover { color: var(--ink); border-color: var(--line-strong); }
+.load-more-wrap { display: flex; justify-content: center; margin-top: 2rem; }
+.load-more-wrap .button { min-width: 12rem; cursor: pointer; }
+.load-more-wrap .button[hidden] { display: none; }
 .empty-state { padding: 4rem 1rem; border: 1px dashed var(--line-strong); border-radius: 1.2rem; text-align: center; }
 .empty-state p { margin-bottom: 0; color: var(--muted); }
 

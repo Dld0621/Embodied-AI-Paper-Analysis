@@ -1,51 +1,52 @@
 const I18N = {
   en: {
-    navDirections: "Directions", navPolicy: "Policy", eyebrow: "Curated research index · updated 2026-08-07",
+    navDirections: "Directions", navPolicy: "Method", eyebrow: "Systematic conference census · updated 2026-08-07",
     heroLineOne: "Five years.", heroLineTwo: "One research map.",
     heroLead: "A precise, source-backed path through the papers shaping embodied perception, reasoning, action, and physical systems.",
-    acceptedOnly: "Accepted papers only", selective: "Selective, not exhaustive", explore: "Explore catalog", readMarkdown: "Read on GitHub",
-    scope: "Research scope", verified: "VERIFIED", curatedPapers: "curated papers", venues: "Major venues", tracks: "Research tracks",
-    latest: "2026 accepted", sourceRule: "Official source", seePolicy: "See selection policy",
+    acceptedOnly: "Systematic census", selective: "Explicit, auditable boundary", explore: "Explore catalog", readMarkdown: "Read on GitHub",
+    scope: "Census scope", verified: "AUDITED", curatedPapers: "conference papers", venues: "Major venues", tracks: "Research tracks",
+    latest: "2026 snapshot", sourceRule: "Online sources", seePolicy: "See census method",
     directionKicker: "Seven research directions", directionTitle: "Every direction. Every year. Direct links.",
-    directionLead: "Each direction covers 2022–2026 with formally accepted papers from at least three major venues. Open a direction to filter the complete catalog.",
+    directionLead: "Every direction contains all records admitted by the fixed venue, year, query, title-taxonomy, and exclusion rules. Open a direction to search the full census.",
     pipeline: "Pipeline", papersAcross: "papers across", venuePlural: "venues", browseDirection: "Browse all papers",
-    latestKicker: "Latest verified layer", spotlightTitle: "2026 conference papers", spotlightLead: "Only decisions already visible on official conference or proceedings pages as of August 7.",
+    latestKicker: "Current-year layer", spotlightTitle: "2026 indexed papers", spotlightLead: "An in-progress snapshot frozen on August 7; future 2026 proceedings are not projected.",
     catalogKicker: "Five-year index", catalogTitle: "Find the paper that moves your work forward.", catalogLead: "Search complete titles, then narrow by conference year, venue, or research track.",
     searchPlaceholder: "Search papers or topics", sort: "Sort", sortLatest: "Latest first", sortOldest: "Oldest first", sortTitle: "Title A–Z",
-    year: "Year", venue: "Venue", track: "Track", all: "All", results: "papers in view", clear: "Clear filters",
+    year: "Year", venue: "Venue", track: "Track", all: "All", results: "matching papers", clear: "Clear filters", showing: "showing", loadMore: "Load 120 more",
     emptyTitle: "No papers match this view.", emptyLead: "Try a broader year, venue, track, or search term.",
-    policyKicker: "Selection contract", policyTitle: "Small enough to trust. Broad enough to navigate.", policyLead: "A paper enters the core map only when its year, venue, embodied relevance, and official acceptance source are explicit.",
+    policyKicker: "Census contract", policyTitle: "Large enough to cover. Explicit enough to audit.", policyLead: "Completeness is measured against a published operational boundary—not an undefined claim to every paper anyone might call Embodied AI.",
     policyOneTitle: "Rolling five-year window", policyOneBody: "Conference years 2022 through 2026, inclusive.",
-    policyTwoTitle: "Formal acceptance", policyTwoBody: "Main conference or official conference track—not workshop, withdrawn, under review, or arXiv-only.",
-    policyThreeTitle: "One paper, one venue", policyThreeBody: "No ambiguous labels such as RSS/CoRL/ICRA and no duplicate title variants.",
-    policyFourTitle: "Official provenance", policyFourBody: "Every row carries a proceedings, conference, publisher, or accepted OpenReview source.",
-    footerLine: "Curated for research, not for vanity metrics.", contribute: "Contribute", paper: "Paper", official: "Official", code: "Code", open: "Open paper"
+    policyTwoTitle: "Reproducible discovery", policyTwoBody: "Ten fixed venues are searched through conference-indexed metadata with the query ‘robot’.",
+    policyThreeTitle: "Deterministic admission", policyThreeBody: "Title taxonomy, medical exclusions, normalized-title deduplication, and one primary direction per paper.",
+    policyFourTitle: "Tiered provenance", policyFourBody: "Every row links a paper plus an official, publisher, or bibliographic source whose tier is shown honestly.",
+    footerLine: "A reproducible census, not a vanity count.", contribute: "Contribute", paper: "Paper", official: "Official", publisher: "Publisher", index: "Index", code: "Code", open: "Open paper"
   },
   zh: {
-    navDirections: "研究方向", navPolicy: "规则", eyebrow: "精选研究索引 · 更新于 2026-08-07",
+    navDirections: "研究方向", navPolicy: "方法", eyebrow: "系统性顶会论文普查 · 更新于 2026-08-07",
     heroLineOne: "五年论文。", heroLineTwo: "一张研究地图。",
     heroLead: "用可核验来源连接塑造具身感知、推理、行动与物理系统的关键论文。",
-    acceptedOnly: "仅正式录用论文", selective: "精选而非穷举", explore: "浏览论文目录", readMarkdown: "在 GitHub 阅读",
-    scope: "研究范围", verified: "已核验", curatedPapers: "篇精选论文", venues: "主要顶会", tracks: "研究主线",
-    latest: "2026 已录用", sourceRule: "官方来源", seePolicy: "查看收录规则",
+    acceptedOnly: "系统性论文普查", selective: "边界明确且可审计", explore: "浏览论文目录", readMarkdown: "在 GitHub 阅读",
+    scope: "普查范围", verified: "已审计", curatedPapers: "篇顶会论文", venues: "主要顶会", tracks: "研究主线",
+    latest: "2026 快照", sourceRule: "在线来源", seePolicy: "查看普查方法",
     directionKicker: "七大研究方向", directionTitle: "每个方向，覆盖五年，直达论文。",
-    directionLead: "每个方向均覆盖 2022–2026，并包含至少三个主要顶会的正式录用论文；点击方向可筛选完整目录。",
+    directionLead: "每个方向包含固定顶会、年份、检索词、标题分类和排除规则下的全部命中记录；点击方向可检索完整普查目录。",
     pipeline: "研究流程", papersAcross: "篇论文，覆盖", venuePlural: "个顶会", browseDirection: "浏览全部论文",
-    latestKicker: "最新核验层", spotlightTitle: "2026 顶会论文", spotlightLead: "只包含截至 8 月 7 日已在官方会议或论文集页面确认的录用结果。",
+    latestKicker: "本年度快照", spotlightTitle: "2026 已索引论文", spotlightLead: "快照冻结于 8 月 7 日；不会提前推测尚未公布的 2026 会议结果。",
     catalogKicker: "近五年索引", catalogTitle: "找到真正推动研究的论文。", catalogLead: "搜索完整标题，再按会议年份、顶会或研究主线收敛。",
     searchPlaceholder: "搜索论文或主题", sort: "排序", sortLatest: "最新优先", sortOldest: "最早优先", sortTitle: "标题 A–Z",
-    year: "年份", venue: "会议", track: "主线", all: "全部", results: "篇论文", clear: "清除筛选",
+    year: "年份", venue: "会议", track: "主线", all: "全部", results: "篇匹配论文", clear: "清除筛选", showing: "当前显示", loadMore: "再加载 120 篇",
     emptyTitle: "当前条件下没有论文。", emptyLead: "尝试放宽年份、会议、主线或搜索词。",
-    policyKicker: "收录契约", policyTitle: "足够精简，才能可信；覆盖主线，才能导航。", policyLead: "只有年份、会议、具身相关性和正式录用来源都明确，论文才进入核心目录。",
+    policyKicker: "普查契约", policyTitle: "规模足够覆盖，边界足够审计。", policyLead: "完整性以公开的操作性边界衡量，而不是声称覆盖所有人可能称为具身智能的论文。",
     policyOneTitle: "滚动五年窗口", policyOneBody: "会议年份限定为 2022 至 2026。",
-    policyTwoTitle: "正式录用", policyTwoBody: "仅主会或官方会议赛道；不含 workshop、撤稿、在审或纯 arXiv。",
-    policyThreeTitle: "一篇论文，一个会议", policyThreeBody: "不使用 RSS/CoRL/ICRA 等模糊标签，也不保留标题变体重复项。",
-    policyFourTitle: "官方来源", policyFourBody: "每条记录都包含论文集、会议、出版社或已录用 OpenReview 页面。",
-    footerLine: "为研究判断而精选，不为数量指标堆积。", contribute: "参与贡献", paper: "论文", official: "录用来源", code: "代码", open: "打开论文"
+    policyTwoTitle: "可复现发现", policyTwoBody: "通过会议索引元数据，以 robot 为查询词检索固定十个顶会。",
+    policyThreeTitle: "确定性纳入", policyThreeBody: "采用标题分类、医学排除、归一化标题去重，并为每篇论文分配一个主方向。",
+    policyFourTitle: "分层来源", policyFourBody: "每条记录同时链接论文和官方、出版社或文献索引来源，并如实显示来源层级。",
+    footerLine: "可复现的论文普查，而非数量包装。", contribute: "参与贡献", paper: "论文", official: "官方", publisher: "出版社", index: "文献索引", code: "代码", open: "打开论文"
   }
 };
 
-const state = { papers: [], catalog: null, language: localStorage.getItem("language") || "en", year: "all", venue: "all", track: "all", query: "", sort: "latest" };
+const PAGE_SIZE = 120;
+const state = { papers: [], catalog: null, language: localStorage.getItem("language") || "en", year: "all", venue: "all", track: "all", query: "", sort: "latest", visible: PAGE_SIZE };
 const $ = (selector) => document.querySelector(selector);
 const escapeHtml = (value) => String(value).replace(/[&<>"]/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[char]));
 const label = (key) => I18N[state.language][key] || key;
@@ -126,13 +127,23 @@ function filteredPapers() {
   });
 }
 
+function provenanceLabel(paper) {
+  if (paper.source_type === "publisher") return label("publisher");
+  if (paper.source_type === "bibliographic") return label("index");
+  return label("official");
+}
+
 function renderPapers() {
   const items = filteredPapers();
   $("#result-count").textContent = items.length;
+  const visibleItems = items.slice(0, state.visible);
+  $("#showing-count").textContent = visibleItems.length;
+  $("#load-more").hidden = visibleItems.length >= items.length;
+  $("#load-more").textContent = label("loadMore");
   $("#empty-state").hidden = items.length !== 0;
-  $("#paper-grid").innerHTML = items.map((paper) => {
+  $("#paper-grid").innerHTML = visibleItems.map((paper) => {
     const code = paper.code_url ? `<a href="${escapeHtml(paper.code_url)}" target="_blank" rel="noopener">${label("code")} ↗</a>` : "";
-    return `<article class="paper-card"><div class="paper-meta"><span class="venue-badge">${escapeHtml(paper.venue)}</span><span class="year-badge">${paper.year}</span><span class="paper-topic">${escapeHtml(paper.track)} · ${escapeHtml(paper.topic)}</span></div><h3>${escapeHtml(paper.title)}</h3><div class="paper-links"><a href="${escapeHtml(paper.paper_url)}" target="_blank" rel="noopener">${label("paper")} ↗</a><a href="${escapeHtml(paper.official_url)}" target="_blank" rel="noopener">${label("official")} ↗</a>${code}</div></article>`;
+    return `<article class="paper-card"><div class="paper-meta"><span class="venue-badge">${escapeHtml(paper.venue)}</span><span class="year-badge">${paper.year}</span><span class="paper-topic">${escapeHtml(paper.track)} · ${escapeHtml(paper.topic)}</span></div><h3>${escapeHtml(paper.title)}</h3><div class="paper-links"><a href="${escapeHtml(paper.paper_url)}" target="_blank" rel="noopener">${label("paper")} ↗</a><a href="${escapeHtml(paper.official_url)}" target="_blank" rel="noopener">${provenanceLabel(paper)} ↗</a>${code}</div></article>`;
   }).join("");
 }
 
@@ -146,7 +157,7 @@ function renderAll() {
 }
 
 function clearFilters() {
-  Object.assign(state, { year: "all", venue: "all", track: "all", query: "" });
+  Object.assign(state, { year: "all", venue: "all", track: "all", query: "", visible: PAGE_SIZE });
   $("#paper-search").value = "";
   renderAll();
 }
@@ -169,7 +180,7 @@ async function initialize() {
 document.addEventListener("click", (event) => {
   const directionButton = event.target.closest("[data-direction]");
   if (directionButton) {
-    Object.assign(state, { track: directionButton.dataset.direction, year: "all", venue: "all", query: "" });
+    Object.assign(state, { track: directionButton.dataset.direction, year: "all", venue: "all", query: "", visible: PAGE_SIZE });
     $("#paper-search").value = "";
     renderFilters();
     renderPapers();
@@ -179,13 +190,15 @@ document.addEventListener("click", (event) => {
   const chipButton = event.target.closest("[data-filter]");
   if (chipButton) {
     state[chipButton.dataset.filter] = chipButton.dataset.value;
+    state.visible = PAGE_SIZE;
     renderFilters();
     renderPapers();
   }
 });
-$("#paper-search").addEventListener("input", (event) => { state.query = event.target.value; renderPapers(); });
-$("#sort-select").addEventListener("change", (event) => { state.sort = event.target.value; renderPapers(); });
+$("#paper-search").addEventListener("input", (event) => { state.query = event.target.value; state.visible = PAGE_SIZE; renderPapers(); });
+$("#sort-select").addEventListener("change", (event) => { state.sort = event.target.value; state.visible = PAGE_SIZE; renderPapers(); });
 $("#clear-filters").addEventListener("click", clearFilters);
+$("#load-more").addEventListener("click", () => { state.visible += PAGE_SIZE; renderPapers(); });
 $("#language-toggle").addEventListener("click", () => { state.language = state.language === "en" ? "zh" : "en"; localStorage.setItem("language", state.language); applyLanguage(); });
 $("#theme-toggle").addEventListener("click", () => { const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark"; document.documentElement.dataset.theme = next; localStorage.setItem("theme", next); });
 document.addEventListener("keydown", (event) => { if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === "k") { event.preventDefault(); $("#paper-search").focus(); } });

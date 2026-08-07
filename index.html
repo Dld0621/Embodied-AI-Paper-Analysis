@@ -3,15 +3,15 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="A curated five-year map of formally accepted Embodied AI papers from major robotics, machine-learning, and vision venues.">
+  <meta name="description" content="A systematic 2022–2026 census of Embodied AI papers across 10 major robotics, machine-learning, and vision venues.">
   <meta name="theme-color" content="#f6f7fb">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Embodied AI · Five-Year Paper Map">
-  <meta property="og:description" content="74 source-backed papers · 10 major venues · 7 research tracks · every direction covers 2022–2026">
+  <meta property="og:title" content="Embodied AI · Five-Year Conference Census">
+  <meta property="og:description" content="3,724 conference papers · 10 major venues · 7 research directions · 2022–2026">
   <meta property="og:image" content="https://dld0621.github.io/Embodied-AI-Paper-Analysis/assets/social-preview.jpg">
   <meta property="og:url" content="https://dld0621.github.io/Embodied-AI-Paper-Analysis/">
   <meta name="twitter:card" content="summary_large_image">
-  <title>Embodied AI · Five-Year Paper Map</title>
+  <title>Embodied AI · Five-Year Conference Census</title>
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="assets/styles.css">
   <script src="assets/app.js" defer></script>
@@ -22,11 +22,11 @@
     <div class="shell header-inner">
       <a class="brand" href="#top" aria-label="Embodied AI Paper Analysis home">
         <span class="brand-mark" aria-hidden="true">EA</span>
-        <span>Embodied AI Papers</span>
+        <span>Embodied AI Census</span>
       </a>
       <nav class="header-actions" aria-label="Utility navigation">
         <a href="#directions" data-i18n="navDirections">Directions</a>
-        <a href="#policy" data-i18n="navPolicy">Policy</a>
+        <a href="#policy" data-i18n="navPolicy">Method</a>
         <a href="https://github.com/Dld0621/Embodied-AI-Paper-Analysis" target="_blank" rel="noopener">GitHub</a>
         <button class="icon-button" id="language-toggle" type="button" aria-label="Switch language">中文</button>
         <button class="icon-button theme-button" id="theme-toggle" type="button" aria-label="Switch color theme">
@@ -39,13 +39,13 @@
   <main id="top">
     <section class="hero shell" aria-labelledby="hero-title">
       <div class="hero-copy">
-        <p class="eyebrow"><span></span><span data-i18n="eyebrow">Curated research index · updated 2026-08-07</span></p>
+        <p class="eyebrow"><span></span><span data-i18n="eyebrow">Systematic conference census · updated 2026-08-07</span></p>
         <h1 id="hero-title"><span data-i18n="heroLineOne">Five years.</span><br><em data-i18n="heroLineTwo">One research map.</em></h1>
         <p class="hero-lead" data-i18n="heroLead">A precise, source-backed path through the papers shaping embodied perception, reasoning, action, and physical systems.</p>
         <div class="hero-pills" aria-label="Collection scope">
-          <span><i class="status-dot"></i><span data-i18n="acceptedOnly">Accepted papers only</span></span>
+          <span><i class="status-dot"></i><span data-i18n="acceptedOnly">Systematic census</span></span>
           <span>2022–2026</span>
-          <span data-i18n="selective">Selective, not exhaustive</span>
+          <span data-i18n="selective">Explicit, auditable boundary</span>
         </div>
         <div class="hero-actions">
           <a class="button button-primary" href="#catalog" data-i18n="explore">Explore catalog</a>
@@ -53,14 +53,14 @@
         </div>
       </div>
       <aside class="scope-card" aria-label="Catalog status">
-        <div class="scope-top"><span data-i18n="scope">Research scope</span><strong data-i18n="verified">VERIFIED</strong></div>
-        <div class="scope-total"><strong id="paper-count">74</strong><span data-i18n="curatedPapers">curated papers</span></div>
+        <div class="scope-top"><span data-i18n="scope">Census scope</span><strong data-i18n="verified">AUDITED</strong></div>
+        <div class="scope-total"><strong id="paper-count">3724</strong><span data-i18n="curatedPapers">conference papers</span></div>
         <div class="scope-rail" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
         <dl>
           <div><dt data-i18n="venues">Major venues</dt><dd id="venue-count">10</dd></div>
           <div><dt data-i18n="tracks">Research tracks</dt><dd id="track-count">7</dd></div>
-          <div><dt data-i18n="latest">2026 accepted</dt><dd id="latest-count">12</dd></div>
-          <div><dt data-i18n="sourceRule">Official source</dt><dd>100%</dd></div>
+          <div><dt data-i18n="latest">2026 snapshot</dt><dd id="latest-count">12</dd></div>
+          <div><dt data-i18n="sourceRule">Online sources</dt><dd>100%</dd></div>
         </dl>
         <a href="#policy"><span data-i18n="seePolicy">See selection policy</span><span aria-hidden="true">↘</span></a>
       </aside>
@@ -76,7 +76,7 @@
           <p class="section-kicker" data-i18n="directionKicker">Seven research directions</p>
           <h2 id="direction-title" data-i18n="directionTitle">Every direction. Every year. Direct links.</h2>
         </div>
-        <p data-i18n="directionLead">Each direction covers 2022–2026 with formally accepted papers from at least three major venues. Open a direction to filter the complete catalog.</p>
+        <p data-i18n="directionLead">Every direction contains all records admitted by the fixed venue, year, query, title-taxonomy, and exclusion rules. Open a direction to search the full census.</p>
       </div>
       <div class="direction-grid" id="direction-grid"></div>
     </section>
@@ -84,10 +84,10 @@
     <section class="spotlight shell" aria-labelledby="spotlight-title">
       <div class="section-heading">
         <div>
-          <p class="section-kicker" data-i18n="latestKicker">Latest verified layer</p>
-          <h2 id="spotlight-title" data-i18n="spotlightTitle">2026 conference papers</h2>
+          <p class="section-kicker" data-i18n="latestKicker">Current-year layer</p>
+          <h2 id="spotlight-title" data-i18n="spotlightTitle">2026 indexed papers</h2>
         </div>
-        <p data-i18n="spotlightLead">Only decisions already visible on official conference or proceedings pages as of August 7.</p>
+        <p data-i18n="spotlightLead">An in-progress snapshot frozen on August 7; future 2026 proceedings are not projected.</p>
       </div>
       <div class="spotlight-grid" id="spotlight-grid" aria-live="polite"></div>
     </section>
@@ -124,10 +124,11 @@
       </div>
 
       <div class="results-bar">
-        <p><strong id="result-count">74</strong> <span data-i18n="results">papers in view</span></p>
+        <p><strong id="result-count">3724</strong> <span data-i18n="results">matching papers</span> · <span data-i18n="showing">showing</span> <strong id="showing-count">120</strong></p>
         <button id="clear-filters" type="button" data-i18n="clear">Clear filters</button>
       </div>
       <div class="paper-grid" id="paper-grid" aria-live="polite"></div>
+      <div class="load-more-wrap"><button class="button" id="load-more" type="button" data-i18n="loadMore">Load 120 more</button></div>
       <div class="empty-state" id="empty-state" hidden>
         <strong data-i18n="emptyTitle">No papers match this view.</strong>
         <p data-i18n="emptyLead">Try a broader year, venue, track, or search term.</p>
@@ -136,22 +137,22 @@
 
     <section class="policy shell" id="policy" aria-labelledby="policy-title">
       <div class="policy-copy">
-        <p class="section-kicker" data-i18n="policyKicker">Selection contract</p>
-        <h2 id="policy-title" data-i18n="policyTitle">Small enough to trust. Broad enough to navigate.</h2>
-        <p data-i18n="policyLead">A paper enters the core map only when its year, venue, embodied relevance, and official acceptance source are explicit.</p>
+        <p class="section-kicker" data-i18n="policyKicker">Census contract</p>
+        <h2 id="policy-title" data-i18n="policyTitle">Large enough to cover. Explicit enough to audit.</h2>
+        <p data-i18n="policyLead">Completeness is measured against a published operational boundary—not an undefined claim to every paper anyone might call Embodied AI.</p>
       </div>
       <ol class="policy-list">
         <li><span>01</span><div><strong data-i18n="policyOneTitle">Rolling five-year window</strong><p data-i18n="policyOneBody">Conference years 2022 through 2026, inclusive.</p></div></li>
-        <li><span>02</span><div><strong data-i18n="policyTwoTitle">Formal acceptance</strong><p data-i18n="policyTwoBody">Main conference or official conference track—not workshop, withdrawn, under review, or arXiv-only.</p></div></li>
-        <li><span>03</span><div><strong data-i18n="policyThreeTitle">One paper, one venue</strong><p data-i18n="policyThreeBody">No ambiguous labels such as RSS/CoRL/ICRA and no duplicate title variants.</p></div></li>
-        <li><span>04</span><div><strong data-i18n="policyFourTitle">Official provenance</strong><p data-i18n="policyFourBody">Every row carries a proceedings, conference, publisher, or accepted OpenReview source.</p></div></li>
+        <li><span>02</span><div><strong data-i18n="policyTwoTitle">Reproducible discovery</strong><p data-i18n="policyTwoBody">Ten fixed venues are searched through conference-indexed metadata with the query ‘robot’.</p></div></li>
+        <li><span>03</span><div><strong data-i18n="policyThreeTitle">Deterministic admission</strong><p data-i18n="policyThreeBody">Title taxonomy, medical exclusions, normalized-title deduplication, and one primary direction per paper.</p></div></li>
+        <li><span>04</span><div><strong data-i18n="policyFourTitle">Tiered provenance</strong><p data-i18n="policyFourBody">Every row links a paper plus an official, publisher, or bibliographic source whose tier is shown honestly.</p></div></li>
       </ol>
     </section>
   </main>
 
   <footer class="site-footer">
     <div class="shell footer-inner">
-      <p><strong>Embodied AI Paper Analysis</strong><span data-i18n="footerLine">Curated for research, not for vanity metrics.</span></p>
+      <p><strong>Embodied AI Paper Analysis</strong><span data-i18n="footerLine">A reproducible census, not a vanity count.</span></p>
       <div><a href="https://github.com/Dld0621/Embodied-AI-Paper-Analysis#readme" target="_blank" rel="noopener">README</a><a href="https://github.com/Dld0621/Embodied-AI-Paper-Analysis/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener" data-i18n="contribute">Contribute</a><a href="data/papers.json">JSON</a></div>
     </div>
   </footer>

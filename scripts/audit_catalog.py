@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate the curated five-year Embodied AI paper catalog."""
+"""Validate the systematic five-year Embodied AI conference census."""
 
 from __future__ import annotations
 
@@ -29,6 +29,8 @@ OFFICIAL_HOSTS = {
     "www.ecva.net",
     "www.roboticsproceedings.org",
 }
+BIBLIOGRAPHIC_HOSTS = {"dblp.org", "www.semanticscholar.org"}
+SOURCE_TYPES = {"official", "publisher", "bibliographic"}
 
 
 def load_catalog() -> dict:
@@ -49,15 +51,19 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
     start = window.get("start")
     end = window.get("end")
 
-    if catalog.get("schema_version") != 2:
-        errors.append("schema_version must be 2")
+    if catalog.get("schema_version") != 3:
+        errors.append("schema_version must be 3")
     if not isinstance(start, int) or not isinstance(end, int) or start > end:
         errors.append("window must define a valid integer start/end")
     if not isinstance(papers, list) or not papers:
         errors.append("papers must be a non-empty list")
         return errors, {}
-    if len(papers) > 100:
-        errors.append("catalog is no longer curated: more than 100 core papers")
+    census = catalog.get("census", {})
+    for field in ("discovery_source", "query", "classification", "taxonomy_version", "snapshot_date", "venue_discovery"):
+        if not census.get(field):
+            errors.append(f"census missing metadata field {field}")
+    if set(census.get("venue_discovery", {})) != set(venues):
+        errors.append("census venue_discovery must cover every declared venue")
     if set(track_meta) != set(tracks):
         errors.append("track_meta must define every research track exactly once")
     for track in tracks:
@@ -72,8 +78,12 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
     venue_counts: Counter[str] = Counter()
     track_counts: Counter[str] = Counter()
     year_counts: Counter[int] = Counter()
+    source_type_counts: Counter[str] = Counter()
 
-    required = {"title", "year", "venue", "track", "topic", "paper_url", "official_url"}
+    required = {
+        "title", "year", "venue", "track", "topic", "paper_url",
+        "official_url", "source_type", "discovery_source",
+    }
     for index, paper in enumerate(papers, start=1):
         label = f"paper {index}"
         missing = sorted(required - set(paper))
@@ -89,6 +99,8 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
         venue_counts[venue] += 1
         track_counts[track] += 1
         year_counts[year] += 1
+        source_type = paper["source_type"]
+        source_type_counts[source_type] += 1
 
         if not title or title.endswith("...") or title.endswith("…"):
             errors.append(f"{label} has an empty or truncated title")
@@ -109,10 +121,14 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
             if parsed.scheme != "https" or not parsed.netloc:
                 errors.append(f"{title}: {field} must be an absolute HTTPS URL")
 
-        official_host = urlparse(paper["official_url"]).hostname or ""
-        if official_host not in OFFICIAL_HOSTS:
-            errors.append(f"{title}: non-official venue source {official_host!r}")
-        if year == end and official_host == "arxiv.org":
+        source_host = urlparse(paper["official_url"]).hostname or ""
+        if source_type not in SOURCE_TYPES:
+            errors.append(f"{title}: unsupported source_type {source_type!r}")
+        elif source_type in {"official", "publisher"} and source_host not in OFFICIAL_HOSTS:
+            errors.append(f"{title}: non-publisher source {source_host!r}")
+        elif source_type == "bibliographic" and source_host not in BIBLIOGRAPHIC_HOSTS:
+            errors.append(f"{title}: unsupported bibliographic source {source_host!r}")
+        if year == end and source_host == "arxiv.org":
             errors.append(f"{title}: newest-year entry cannot use arXiv as venue evidence")
 
     for title, count in title_counts.items():
@@ -128,6 +144,15 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
     missing_tracks = [track for track in tracks if track_counts[track] == 0]
     if missing_tracks:
         errors.append(f"tracks without coverage: {missing_tracks}")
+    for venue, discovery in census.get("venue_discovery", {}).items():
+        required_discovery = {"matched_records", "classified_records", "new_records", "included_records"}
+        if set(discovery) != required_discovery:
+            errors.append(f"{venue}: incomplete venue discovery ledger")
+            continue
+        if discovery["matched_records"] < discovery["classified_records"]:
+            errors.append(f"{venue}: classified records exceed query matches")
+        if discovery["included_records"] != venue_counts[venue]:
+            errors.append(f"{venue}: discovery ledger does not match final catalog count")
     expected_years = set(range(start, end + 1))
     for track in tracks:
         track_papers = [paper for paper in papers if paper.get("track") == track]
@@ -139,9 +164,9 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
             errors.append(f"{track}: must include papers from at least three major venues")
 
     for relative, markers in {
-        "README.md": ("2022–2026", "74", "formally accepted"),
-        "index.html": ("data/papers.json", "direction-grid", "Accepted papers only", "74"),
-        "papers/README.md": ("2022–2026", "74 curated papers", "Direction coverage"),
+        "README.md": ("2022–2026", "3,724", "systematic conference census"),
+        "index.html": ("data/papers.json", "direction-grid", "Systematic census", "3724"),
+        "papers/README.md": ("2022–2026", "3,724 papers", "Direction coverage"),
     }.items():
         text = (ROOT / relative).read_text(encoding="utf-8")
         for marker in markers:
@@ -155,6 +180,11 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
         "tracks": dict(sorted(track_counts.items())),
         "official_source_hosts": len(
             {urlparse(paper["official_url"]).hostname for paper in papers}
+        ),
+        "source_types": dict(sorted(source_type_counts.items())),
+        "discovery_records": sum(
+            stats.get("matched_records", 0)
+            for stats in census.get("venue_discovery", {}).values()
         ),
         "direction_year_coverage": {
             track: len({paper["year"] for paper in papers if paper["track"] == track})
@@ -175,7 +205,7 @@ def main() -> int:
     print("Catalog audit: OK")
     for key, value in stats.items():
         print(f"- {key}: {value}")
-    print("Boundary: curated accepted-paper index; not an exhaustive literature census.")
+    print("Boundary: systematic census under explicit venue, query, title-taxonomy, and exclusion rules; not a universal semantic definition.")
     return 0
 
 
