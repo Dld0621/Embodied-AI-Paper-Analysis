@@ -1,6 +1,6 @@
 # Embodied AI Conference Census · 具身智能顶会论文普查
 
-> 3,724 papers · 2022–2026 · 10 major venues · 7 research directions · updated 2026-08-07
+> 3,724 conference papers · 21,411 recent arXiv papers · 7 research directions · updated 2026-08-07
 
 这是一份按明确规则生成的系统性会议普查：固定顶会、年份、检索词、标题分类规则和排除项均可审计。它覆盖规则边界内的全部命中记录，但不把主观的“具身智能”包装成不存在争议的数学全集。
 
@@ -18,15 +18,15 @@ This is a systematic conference census under explicit venue, year, query, title-
 
 ## Direction coverage · 方向覆盖
 
-| Research direction | Papers | Years | Venues | Complete catalog |
-|---|---:|---|---:|---|
-| Foundation Models & VLA · 基础模型与 VLA | 318 | 2022 · 2023 · 2024 · 2025 · 2026 | 10 | [Open](tracks/foundation-models-vla.md) |
-| Manipulation & Imitation · 操作与模仿学习 | 941 | 2022 · 2023 · 2024 · 2025 · 2026 | 10 | [Open](tracks/manipulation-imitation.md) |
-| Dexterity & Teleoperation · 灵巧操作与遥操作 | 339 | 2022 · 2023 · 2024 · 2025 · 2026 | 10 | [Open](tracks/dexterity-teleoperation.md) |
-| Navigation & Embodied Agents · 导航与具身智能体 | 807 | 2022 · 2023 · 2024 · 2025 · 2026 | 9 | [Open](tracks/navigation-embodied-agents.md) |
-| Humanoids & Locomotion · 人形机器人与运动控制 | 670 | 2022 · 2023 · 2024 · 2025 · 2026 | 8 | [Open](tracks/humanoids-locomotion.md) |
-| Perception & World Models · 感知与世界模型 | 317 | 2022 · 2023 · 2024 · 2025 · 2026 | 10 | [Open](tracks/perception-world-models.md) |
-| Simulation, Data & Evaluation · 仿真、数据与评测 | 332 | 2022 · 2023 · 2024 · 2025 · 2026 | 10 | [Open](tracks/simulation-data-evaluation.md) |
+| Research direction | Conference | arXiv 2024–2026 | Years | Direction catalogs |
+|---|---:|---:|---|---|
+| Foundation Models & VLA · 基础模型与 VLA | 318 | 3,276 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024–2026 | [Conference](tracks/foundation-models-vla.md) · [arXiv](arxiv/foundation-models-vla/README.md) |
+| Manipulation & Imitation · 操作与模仿学习 | 941 | 3,817 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024–2026 | [Conference](tracks/manipulation-imitation.md) · [arXiv](arxiv/manipulation-imitation/README.md) |
+| Dexterity & Teleoperation · 灵巧操作与遥操作 | 339 | 935 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024–2026 | [Conference](tracks/dexterity-teleoperation.md) · [arXiv](arxiv/dexterity-teleoperation/README.md) |
+| Navigation & Embodied Agents · 导航与具身智能体 | 807 | 5,989 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024–2026 | [Conference](tracks/navigation-embodied-agents.md) · [arXiv](arxiv/navigation-embodied-agents/README.md) |
+| Humanoids & Locomotion · 人形机器人与运动控制 | 670 | 2,317 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024–2026 | [Conference](tracks/humanoids-locomotion.md) · [arXiv](arxiv/humanoids-locomotion/README.md) |
+| Perception & World Models · 感知与世界模型 | 317 | 2,154 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024–2026 | [Conference](tracks/perception-world-models.md) · [arXiv](arxiv/perception-world-models/README.md) |
+| Simulation, Data & Evaluation · 仿真、数据与评测 | 332 | 2,923 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024–2026 | [Conference](tracks/simulation-data-evaluation.md) · [arXiv](arxiv/simulation-data-evaluation/README.md) |
 
 ## Provenance · 来源层级
 
@@ -35,6 +35,7 @@ This is a systematic conference census under explicit venue, year, query, title-
 | Official | 74 | Manually verified proceedings or conference page |
 | Publisher | 3,577 | DOI or publisher record |
 | Bibliographic | 73 | DBLP or Semantic Scholar index when no publisher URL is exposed |
+| arXiv | 21,411 | Official arXiv abstract and PDF pages; preprints are not presented as conference acceptances |
 
 ## Discovery ledger · 检索账本
 
@@ -59,7 +60,9 @@ This is a systematic conference census under explicit venue, year, query, title-
 - Admission: deterministic title taxonomy in `scripts/sync_conference_census.py`; medical and rehabilitation terms are excluded.
 - Deduplication: normalized title; the 74 manually verified seed records override discovered duplicates.
 - Every entry has an online paper link and a provenance link. Provenance tiers are shown explicitly instead of calling every bibliographic index an official acceptance page.
+- Recent arXiv layer: all 27,597 cs.RO candidates submitted from 2024-01-01 through 2026-08-07 were evaluated; 21,411 were admitted by the same seven-direction taxonomy.
+- arXiv papers remain a separate preprint layer. A title appearing in both layers is not evidence of conference acceptance unless the conference record supplies that provenance.
 
 ---
 
-Source of truth: [`data/papers.json`](../data/papers.json). Rebuild with `python scripts/sync_conference_census.py`, then run `python scripts/audit_catalog.py`.
+Sources of truth: [`data/papers.json`](../data/papers.json) and [`data/arxiv_recent.json`](../data/arxiv_recent.json). Rebuild with the two sync scripts, then run `python scripts/audit_catalog.py`.

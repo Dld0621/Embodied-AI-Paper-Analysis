@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="An international research workbench for a systematic 2022–2026 census of Embodied AI papers across 10 major venues.">
+  <meta name="description" content="An international Embodied AI research workbench combining a five-year conference census with a systematic three-year arXiv cs.RO layer.">
   <meta name="theme-color" content="#f4f5f7">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Embodied AI · Research Workbench">
-  <meta property="og:description" content="3,724 conference papers · 10 major venues · 7 research directions · 2022–2026">
+  <meta property="og:description" content="3,724 conference papers · 21,411 recent arXiv papers · 7 research directions">
   <meta property="og:image" content="https://dld0621.github.io/Embodied-AI-Paper-Analysis/assets/social-preview.jpg">
   <meta property="og:url" content="https://dld0621.github.io/Embodied-AI-Paper-Analysis/">
   <meta name="twitter:card" content="summary_large_image">
@@ -56,11 +56,13 @@
 
       <aside class="scope-panel" aria-label="Catalog scope">
         <div class="scope-heading"><span data-i18n="scope">Research corpus</span><strong data-i18n="audited">AUDITED</strong></div>
-        <div class="scope-primary"><strong id="paper-count">3724</strong><span data-i18n="papers">papers</span></div>
+        <div class="scope-primary"><strong id="paper-count">23735</strong><span data-i18n="researchRecords">unique research records</span></div>
         <div class="scope-grid">
+          <div><strong id="conference-count">3724</strong><span data-i18n="conferencePapers">conference papers</span></div>
+          <div><strong id="arxiv-count">21411</strong><span data-i18n="arxivPapers">arXiv 2024–2026</span></div>
           <div><strong id="venue-count">10</strong><span data-i18n="venues">major venues</span></div>
           <div><strong id="track-count">7</strong><span data-i18n="tracks">research tracks</span></div>
-          <div><strong id="latest-count">12</strong><span data-i18n="latest">2026 records</span></div>
+          <div><strong>27,597</strong><span data-i18n="arxivCandidates">arXiv candidates audited</span></div>
           <div><strong>100%</strong><span data-i18n="linked">source linked</span></div>
         </div>
         <div class="scope-provenance" id="scope-provenance" aria-label="Source distribution"></div>
@@ -96,6 +98,8 @@
         <aside class="filter-panel" aria-label="Catalog filters">
           <div class="filter-panel-head"><strong data-i18n="filters">Filters</strong><button id="clear-filters" type="button" data-i18n="reset">Reset</button></div>
 
+          <fieldset class="filter-group corpus-group"><legend data-i18n="corpus">Research layer</legend><div class="chip-list stacked" id="corpus-filters"></div></fieldset>
+
           <label class="search-box" for="paper-search">
             <span aria-hidden="true">⌕</span>
             <input id="paper-search" type="search" autocomplete="off" data-i18n-placeholder="searchPlaceholder" placeholder="Search title, topic, venue">
@@ -124,6 +128,7 @@
               <span><i class="tier-dot official"></i><span data-i18n="official">Official</span></span>
               <span><i class="tier-dot publisher"></i><span data-i18n="publisher">Publisher</span></span>
               <span><i class="tier-dot bibliographic"></i><span data-i18n="index">Index</span></span>
+              <span><i class="tier-dot arxiv"></i><span data-i18n="arxiv">arXiv</span></span>
             </div>
           </div>
 
@@ -133,7 +138,7 @@
             <strong data-i18n="emptyTitle">No papers match this view.</strong>
             <p data-i18n="emptyLead">Broaden the filters or return to the complete catalog.</p>
           </div>
-          <p class="export-note" data-i18n="exportNote">Exports contain only verified catalog fields; unavailable author metadata is never inferred.</p>
+          <p class="export-note" data-i18n="exportNote">Exports include authors when supplied by arXiv; unavailable conference-author metadata is never inferred.</p>
         </div>
       </div>
     </section>
@@ -170,7 +175,7 @@
   <footer class="site-footer">
     <div class="shell footer-inner">
       <p><strong>Embodied AI Research Index</strong><span data-i18n="footerLine">Open infrastructure for rigorous literature work.</span></p>
-      <div><a href="README.md">README</a><a href="CONTRIBUTING.md" data-i18n="contribute">Contribute</a><a href="data/papers.json">JSON</a><a href="mailto:Steven.LI@connect.hku.hk">Contact</a></div>
+      <div><a href="README.md">README</a><a href="CONTRIBUTING.md" data-i18n="contribute">Contribute</a><a href="data/papers.json">Conference JSON</a><a href="data/arxiv_recent.json">arXiv JSON</a><a href="mailto:Steven.LI@connect.hku.hk">Contact</a></div>
     </div>
   </footer>
 

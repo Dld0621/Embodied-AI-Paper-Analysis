@@ -2,7 +2,7 @@
 
 [← Conference census](../README.md)
 
-> 318 papers · 2022–2026 · 10 venues
+> 318 conference papers · 3,276 recent arXiv papers · 2022–2026
 
 How do multimodal foundation models turn perception and language into general robot actions?
 
@@ -13,6 +13,8 @@ How do multimodal foundation models turn perception and language into general ro
 **流程：** `图像、语言与状态 → 多模态表征 → 动作生成 → 机器人执行`
 
 **Venues:** CVPR · CoRL · ECCV · ICCV · ICLR · ICML · ICRA · IROS · NeurIPS · RSS
+
+**Recent arXiv layer:** [3,276 papers from 2024–2026](../arxiv/foundation-models-vla/README.md)
 
 ## 2026 (5)
 
@@ -359,4 +361,4 @@ How do multimodal foundation models turn perception and language into general ro
 
 ---
 
-Generated from [`data/papers.json`](../../data/papers.json). Inclusion rules are defined in [`scripts/sync_conference_census.py`](../../scripts/sync_conference_census.py).
+Conference records are generated from [`data/papers.json`](../../data/papers.json). The separate [Foundation Models & VLA recent arXiv catalog](../arxiv/foundation-models-vla/README.md) is generated from [`data/arxiv_recent.json`](../../data/arxiv_recent.json).

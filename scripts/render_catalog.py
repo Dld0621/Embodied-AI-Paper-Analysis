@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Render the overview and seven direction catalogs from data/papers.json."""
+"""Render conference and recent-arXiv direction catalogs from source data."""
 
 from __future__ import annotations
 
@@ -13,8 +13,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "data" / "papers.json"
+ARXIV_PATH = ROOT / "data" / "arxiv_recent.json"
 PAPERS_DIR = ROOT / "papers"
 TRACK_DIR = PAPERS_DIR / "tracks"
+ARXIV_DIR = PAPERS_DIR / "arxiv"
 
 
 def slugify(value: str) -> str:
@@ -30,11 +32,13 @@ def source_label(paper: dict) -> str:
         "official": "Official",
         "publisher": "Publisher",
         "bibliographic": "Index",
+        "arxiv": "arXiv",
     }[paper["source_type"]]
 
 
-def render_overview(catalog: dict) -> str:
+def render_overview(catalog: dict, arxiv: dict) -> str:
     papers = catalog["papers"]
+    arxiv_papers = arxiv["papers"]
     start = catalog["window"]["start"]
     end = catalog["window"]["end"]
     venue_counts = Counter(paper["venue"] for paper in papers)
@@ -42,7 +46,7 @@ def render_overview(catalog: dict) -> str:
     lines = [
         "# Embodied AI Conference Census · 具身智能顶会论文普查",
         "",
-        f"> {len(papers):,} papers · {start}–{end} · 10 major venues · 7 research directions · updated {catalog['as_of']}",
+        f"> {len(papers):,} conference papers · {len(arxiv_papers):,} recent arXiv papers · 7 research directions · updated {catalog['as_of']}",
         "",
         "这是一份按明确规则生成的系统性会议普查：固定顶会、年份、检索词、标题分类规则和排除项均可审计。它覆盖规则边界内的全部命中记录，但不把主观的“具身智能”包装成不存在争议的数学全集。",
         "",
@@ -62,17 +66,19 @@ def render_overview(catalog: dict) -> str:
         "",
         "## Direction coverage · 方向覆盖",
         "",
-        "| Research direction | Papers | Years | Venues | Complete catalog |",
-        "|---|---:|---|---:|---|",
+        "| Research direction | Conference | arXiv 2024–2026 | Years | Direction catalogs |",
+        "|---|---:|---:|---|---|",
     ])
     for track in catalog["tracks"]:
         track_papers = [paper for paper in papers if paper["track"] == track]
         years = " · ".join(str(year) for year in sorted({paper["year"] for paper in track_papers}))
         venue_total = len({paper["venue"] for paper in track_papers})
+        arxiv_total = sum(paper["track"] == track for paper in arxiv_papers)
         meta = catalog["track_meta"][track]
         path = f"tracks/{slugify(track)}.md"
+        arxiv_path = f"arxiv/{slugify(track)}/README.md"
         lines.append(
-            f"| {track} · {meta['name_zh']} | {len(track_papers):,} | {years} | {venue_total} | [Open]({path}) |"
+            f"| {track} · {meta['name_zh']} | {len(track_papers):,} | {arxiv_total:,} | {years} · arXiv 2024–2026 | [Conference]({path}) · [arXiv]({arxiv_path}) |"
         )
 
     lines.extend([
@@ -84,6 +90,7 @@ def render_overview(catalog: dict) -> str:
         f"| Official | {source_counts['official']:,} | Manually verified proceedings or conference page |",
         f"| Publisher | {source_counts['publisher']:,} | DOI or publisher record |",
         f"| Bibliographic | {source_counts['bibliographic']:,} | DBLP or Semantic Scholar index when no publisher URL is exposed |",
+        f"| arXiv | {len(arxiv_papers):,} | Official arXiv abstract and PDF pages; preprints are not presented as conference acceptances |",
         "",
         "## Discovery ledger · 检索账本",
         "",
@@ -106,28 +113,32 @@ def render_overview(catalog: dict) -> str:
         "- Admission: deterministic title taxonomy in `scripts/sync_conference_census.py`; medical and rehabilitation terms are excluded.",
         "- Deduplication: normalized title; the 74 manually verified seed records override discovered duplicates.",
         "- Every entry has an online paper link and a provenance link. Provenance tiers are shown explicitly instead of calling every bibliographic index an official acceptance page.",
+        f"- Recent arXiv layer: all {arxiv['source']['candidate_records']:,} cs.RO candidates submitted from 2024-01-01 through 2026-08-07 were evaluated; {len(arxiv_papers):,} were admitted by the same seven-direction taxonomy.",
+        "- arXiv papers remain a separate preprint layer. A title appearing in both layers is not evidence of conference acceptance unless the conference record supplies that provenance.",
         "",
         "---",
         "",
-        "Source of truth: [`data/papers.json`](../data/papers.json). Rebuild with `python scripts/sync_conference_census.py`, then run `python scripts/audit_catalog.py`.",
+        "Sources of truth: [`data/papers.json`](../data/papers.json) and [`data/arxiv_recent.json`](../data/arxiv_recent.json). Rebuild with the two sync scripts, then run `python scripts/audit_catalog.py`.",
         "",
     ])
     return "\n".join(lines)
 
 
-def render_track(catalog: dict, track: str) -> str:
+def render_track(catalog: dict, arxiv: dict, track: str) -> str:
     meta = catalog["track_meta"][track]
     papers = sorted(
         (paper for paper in catalog["papers"] if paper["track"] == track),
         key=lambda paper: (-paper["year"], paper["venue"], paper["title"].casefold()),
     )
     venues = sorted({paper["venue"] for paper in papers})
+    arxiv_papers = [paper for paper in arxiv["papers"] if paper["track"] == track]
+    arxiv_path = f"../arxiv/{slugify(track)}/README.md"
     lines = [
         f"# {track} · {meta['name_zh']}",
         "",
         "[← Conference census](../README.md)",
         "",
-        f"> {len(papers):,} papers · 2022–2026 · {len(venues)} venues",
+        f"> {len(papers):,} conference papers · {len(arxiv_papers):,} recent arXiv papers · 2022–2026",
         "",
         meta["question"],
         "",
@@ -138,6 +149,8 @@ def render_track(catalog: dict, track: str) -> str:
         f"**流程：** `{' → '.join(meta['pipeline_zh'])}`",
         "",
         f"**Venues:** {' · '.join(venues)}",
+        "",
+        f"**Recent arXiv layer:** [{len(arxiv_papers):,} papers from 2024–2026]({arxiv_path})",
     ]
     for year in range(catalog["window"]["end"], catalog["window"]["start"] - 1, -1):
         year_papers = [paper for paper in papers if paper["year"] == year]
@@ -162,7 +175,116 @@ def render_track(catalog: dict, track: str) -> str:
         "",
         "---",
         "",
-        "Generated from [`data/papers.json`](../../data/papers.json). Inclusion rules are defined in [`scripts/sync_conference_census.py`](../../scripts/sync_conference_census.py).",
+        f"Conference records are generated from [`data/papers.json`](../../data/papers.json). The separate [{track} recent arXiv catalog]({arxiv_path}) is generated from [`data/arxiv_recent.json`](../../data/arxiv_recent.json).",
+        "",
+    ])
+    return "\n".join(lines)
+
+
+def display_authors(authors: list[str], limit: int = 6) -> str:
+    shown = authors[:limit]
+    suffix = " et al." if len(authors) > limit else ""
+    return escape_cell(", ".join(shown) + suffix)
+
+
+def render_arxiv_track(catalog: dict, arxiv: dict, track: str) -> str:
+    meta = catalog["track_meta"][track]
+    papers = [paper for paper in arxiv["papers"] if paper["track"] == track]
+    year_counts = Counter(paper["year"] for paper in papers)
+    slug = slugify(track)
+    lines = [
+        f"# {track} · {meta['name_zh']} · Recent arXiv",
+        "",
+        f"[← Direction conference catalog](../../tracks/{slug}.md) · [All directions](../../README.md)",
+        "",
+        f"> {len(papers):,} arXiv papers · 2024–2026 · frozen {arxiv['as_of']}",
+        "",
+        meta["question"],
+        "",
+        meta["question_zh"],
+        "",
+        "## Year indexes · 年份索引",
+        "",
+        "| Year | Papers | Complete list |",
+        "|---:|---:|---|",
+    ]
+    for year in (2026, 2025, 2024):
+        lines.append(f"| {year} | {year_counts[year]:,} | [Open](./{year}.md) |")
+    lines.extend([
+        "",
+        "## Scope · 范围",
+        "",
+        f"This direction is the deterministic subset of the {arxiv['source']['candidate_records']:,}-record arXiv cs.RO census submitted between {arxiv['window']['start']} and {arxiv['window']['end']}. It is a preprint index, not a conference-acceptance list.",
+        "",
+        f"本方向来自 arXiv cs.RO 近三年 {arxiv['source']['candidate_records']:,} 条候选的确定性分类结果；这是预印本索引，不代表顶会录用。",
+        "",
+        "Generated from [`data/arxiv_recent.json`](../../../data/arxiv_recent.json) with [`scripts/sync_arxiv_recent.py`](../../../scripts/sync_arxiv_recent.py).",
+        "",
+    ])
+    return "\n".join(lines)
+
+
+def render_arxiv_year(
+    arxiv: dict,
+    track: str,
+    year: int,
+    selected_papers: list[dict] | None = None,
+    period: str | None = None,
+) -> str:
+    papers = sorted(
+        selected_papers
+        if selected_papers is not None
+        else (paper for paper in arxiv["papers"] if paper["track"] == track and paper["year"] == year),
+        key=lambda paper: (paper["published"], paper["title"].casefold()),
+        reverse=True,
+    )
+    label = period or str(year)
+    back_link = f"./{year}.md" if period else "./README.md"
+    back_label = f"{year} index" if period else "Three-year direction index"
+    lines = [
+        f"# {track} · arXiv {label}",
+        "",
+        f"[← {back_label}]({back_link}) · [All directions](../../README.md)",
+        "",
+        f"> {len(papers):,} papers · official arXiv links · snapshot {arxiv['as_of']}",
+        "",
+        "| Paper | Authors | Date / topic | Links |",
+        "|---|---|---|---|",
+    ]
+    for paper in papers:
+        lines.append(
+            f"| {escape_cell(paper['title'])} | {display_authors(paper['authors'])} | {paper['published']} · {escape_cell(paper['topic'])} | [Abstract]({paper['paper_url']}) · [PDF]({paper['pdf_url']}) |"
+        )
+    lines.extend([
+        "",
+        "---",
+        "",
+        "Preprints are indexed from arXiv and are not labeled as conference papers without separate acceptance provenance.",
+        "",
+    ])
+    return "\n".join(lines)
+
+
+def render_arxiv_year_index(
+    arxiv: dict, track: str, year: int, halves: list[tuple[str, list[dict]]]
+) -> str:
+    lines = [
+        f"# {track} · arXiv {year}",
+        "",
+        "[← Three-year direction index](./README.md) · [All directions](../../README.md)",
+        "",
+        f"> {sum(len(papers) for _, papers in halves):,} papers · split for reliable GitHub rendering · snapshot {arxiv['as_of']}",
+        "",
+        "| Period | Papers | Complete list |",
+        "|---|---:|---|",
+    ]
+    for period, papers in halves:
+        suffix = period.casefold()
+        date_range = f"{year}-01-01 → {year}-06-30" if period == "H1" else f"{year}-07-01 → {year}-12-31"
+        lines.append(f"| {period} · {date_range} | {len(papers):,} | [Open](./{year}-{suffix}.md) |")
+    lines.extend([
+        "",
+        "Every record remains available in the interactive workbench and in `data/arxiv_recent.json`.",
         "",
     ])
     return "\n".join(lines)
@@ -170,9 +292,32 @@ def render_track(catalog: dict, track: str) -> str:
 
 def render_outputs() -> dict[Path, str]:
     catalog = json.loads(DATA_PATH.read_text(encoding="utf-8"))
-    outputs = {PAPERS_DIR / "README.md": render_overview(catalog)}
+    arxiv = json.loads(ARXIV_PATH.read_text(encoding="utf-8"))
+    outputs = {PAPERS_DIR / "README.md": render_overview(catalog, arxiv)}
     for track in catalog["tracks"]:
-        outputs[TRACK_DIR / f"{slugify(track)}.md"] = render_track(catalog, track)
+        slug = slugify(track)
+        outputs[TRACK_DIR / f"{slug}.md"] = render_track(catalog, arxiv, track)
+        outputs[ARXIV_DIR / slug / "README.md"] = render_arxiv_track(catalog, arxiv, track)
+        for year in (2026, 2025, 2024):
+            year_path = ARXIV_DIR / slug / f"{year}.md"
+            rendered_year = render_arxiv_year(arxiv, track, year)
+            if len(rendered_year.encode("utf-8")) <= 400_000:
+                outputs[year_path] = rendered_year
+                continue
+            year_papers = [
+                paper
+                for paper in arxiv["papers"]
+                if paper["track"] == track and paper["year"] == year
+            ]
+            halves = [
+                ("H1", [paper for paper in year_papers if paper["published"] <= f"{year}-06-30"]),
+                ("H2", [paper for paper in year_papers if paper["published"] >= f"{year}-07-01"]),
+            ]
+            outputs[year_path] = render_arxiv_year_index(arxiv, track, year, halves)
+            for period, papers in halves:
+                outputs[ARXIV_DIR / slug / f"{year}-{period.casefold()}.md"] = render_arxiv_year(
+                    arxiv, track, year, papers, f"{year} {period}"
+                )
     return outputs
 
 

@@ -23,6 +23,10 @@ class CatalogContractTests(unittest.TestCase):
             (ROOT / "data" / "papers.json").read_text(encoding="utf-8")
         )
         cls.papers = cls.catalog["papers"]
+        cls.arxiv = json.loads(
+            (ROOT / "data" / "arxiv_recent.json").read_text(encoding="utf-8")
+        )
+        cls.arxiv_papers = cls.arxiv["papers"]
 
     def test_full_audit(self) -> None:
         errors, _ = AUDIT.validate_catalog(self.catalog)
@@ -31,6 +35,47 @@ class CatalogContractTests(unittest.TestCase):
     def test_catalog_is_a_large_bounded_census(self) -> None:
         self.assertGreaterEqual(len(self.papers), 3000)
         self.assertLessEqual(len(self.papers), 5000)
+
+    def test_recent_arxiv_full_audit(self) -> None:
+        errors, _ = AUDIT.validate_arxiv(self.catalog, self.arxiv)
+        self.assertEqual(errors, [])
+
+    def test_recent_arxiv_snapshot_contract(self) -> None:
+        source = self.arxiv["source"]
+        self.assertEqual(source["candidate_records"], 27597)
+        self.assertEqual(len(self.arxiv_papers), 21411)
+        self.assertEqual(source["unclassified_records"], 6186)
+        self.assertEqual(source["conference_title_duplicates"], 1393)
+        self.assertEqual(source["conference_unique_title_overlap"], 1392)
+        self.assertEqual(source["arxiv_normalized_title_duplicates"], 8)
+        self.assertEqual(source["combined_unique_records"], 23735)
+        self.assertEqual(
+            self.arxiv["window"],
+            {"start": "2024-01-01", "end": "2026-08-07", "years": [2024, 2025, 2026]},
+        )
+
+    def test_recent_arxiv_covers_every_direction_and_year(self) -> None:
+        expected_years = {2024, 2025, 2026}
+        for track in self.catalog["tracks"]:
+            years = {
+                paper["year"]
+                for paper in self.arxiv_papers
+                if paper["track"] == track
+            }
+            self.assertEqual(years, expected_years, track)
+
+    def test_combined_view_prefers_conference_records(self) -> None:
+        conference_titles = {
+            AUDIT._combined_title_key(paper["title"]) for paper in self.papers
+        }
+        arxiv_titles = {
+            AUDIT._combined_title_key(paper["title"]) for paper in self.arxiv_papers
+        }
+        self.assertEqual(len(conference_titles | arxiv_titles), 23735)
+
+    def test_generated_arxiv_indexes_remain_github_renderable(self) -> None:
+        for path in (ROOT / "papers" / "arxiv").rglob("*.md"):
+            self.assertLessEqual(path.stat().st_size, 400000, str(path.relative_to(ROOT)))
 
     def test_rolling_five_year_window(self) -> None:
         self.assertEqual(self.catalog["schema_version"], 3)
@@ -92,6 +137,7 @@ class CatalogContractTests(unittest.TestCase):
         app = (ROOT / "assets" / "app.js").read_text(encoding="utf-8")
         for marker in (
             'id="research-workbench"',
+            'id="corpus-filters"',
             'id="source-filters"',
             'id="saved-count"',
             'id="export-markdown"',
@@ -100,6 +146,9 @@ class CatalogContractTests(unittest.TestCase):
         ):
             self.assertIn(marker, index)
         for marker in (
+            "data/arxiv_recent.json",
+            "combinedUniquePapers",
+            "data-corpus",
             "URLSearchParams",
             "localStorage",
             "exportMarkdown",

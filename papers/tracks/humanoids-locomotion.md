@@ -2,7 +2,7 @@
 
 [← Conference census](../README.md)
 
-> 670 papers · 2022–2026 · 8 venues
+> 670 conference papers · 2,317 recent arXiv papers · 2022–2026
 
 How can whole-body policies achieve agile, stable, and transferable motion?
 
@@ -13,6 +13,8 @@ How can whole-body policies achieve agile, stable, and transferable motion?
 **流程：** `动作参考与指令 → 重定向或强化学习 → 全身控制 → 仿真到现实部署`
 
 **Venues:** CVPR · CoRL · ICCV · ICLR · ICRA · IROS · NeurIPS · RSS
+
+**Recent arXiv layer:** [2,317 papers from 2024–2026](../arxiv/humanoids-locomotion/README.md)
 
 ## 2026 (1)
 
@@ -711,4 +713,4 @@ How can whole-body policies achieve agile, stable, and transferable motion?
 
 ---
 
-Generated from [`data/papers.json`](../../data/papers.json). Inclusion rules are defined in [`scripts/sync_conference_census.py`](../../scripts/sync_conference_census.py).
+Conference records are generated from [`data/papers.json`](../../data/papers.json). The separate [Humanoids & Locomotion recent arXiv catalog](../arxiv/humanoids-locomotion/README.md) is generated from [`data/arxiv_recent.json`](../../data/arxiv_recent.json).

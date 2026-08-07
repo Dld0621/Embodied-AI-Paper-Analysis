@@ -2,7 +2,7 @@
 
 [← Conference census](../README.md)
 
-> 807 papers · 2022–2026 · 9 venues
+> 807 conference papers · 5,989 recent arXiv papers · 2022–2026
 
 How do agents build spatial memory, plan, and act over long horizons in open environments?
 
@@ -13,6 +13,8 @@ How do agents build spatial memory, plan, and act over long horizons in open env
 **流程：** `第一视角感知与目标 → 世界状态与记忆 → 规划 → 导航与交互`
 
 **Venues:** CVPR · CoRL · ICCV · ICLR · ICML · ICRA · IROS · NeurIPS · RSS
+
+**Recent arXiv layer:** [5,989 papers from 2024–2026](../arxiv/navigation-embodied-agents/README.md)
 
 ## 2026 (1)
 
@@ -848,4 +850,4 @@ How do agents build spatial memory, plan, and act over long horizons in open env
 
 ---
 
-Generated from [`data/papers.json`](../../data/papers.json). Inclusion rules are defined in [`scripts/sync_conference_census.py`](../../scripts/sync_conference_census.py).
+Conference records are generated from [`data/papers.json`](../../data/papers.json). The separate [Navigation & Embodied Agents recent arXiv catalog](../arxiv/navigation-embodied-agents/README.md) is generated from [`data/arxiv_recent.json`](../../data/arxiv_recent.json).

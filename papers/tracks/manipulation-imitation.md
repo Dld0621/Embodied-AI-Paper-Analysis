@@ -2,7 +2,7 @@
 
 [← Conference census](../README.md)
 
-> 941 papers · 2022–2026 · 10 venues
+> 941 conference papers · 3,817 recent arXiv papers · 2022–2026
 
 How can robots acquire precise, robust manipulation skills from demonstrations and interaction?
 
@@ -13,6 +13,8 @@ How can robots acquire precise, robust manipulation skills from demonstrations a
 **流程：** `示范与观测 → 策略学习 → 动作序列 → 闭环执行`
 
 **Venues:** CVPR · CoRL · ECCV · ICCV · ICLR · ICML · ICRA · IROS · NeurIPS · RSS
+
+**Recent arXiv layer:** [3,817 papers from 2024–2026](../arxiv/manipulation-imitation/README.md)
 
 ## 2026 (1)
 
@@ -982,4 +984,4 @@ How can robots acquire precise, robust manipulation skills from demonstrations a
 
 ---
 
-Generated from [`data/papers.json`](../../data/papers.json). Inclusion rules are defined in [`scripts/sync_conference_census.py`](../../scripts/sync_conference_census.py).
+Conference records are generated from [`data/papers.json`](../../data/papers.json). The separate [Manipulation & Imitation recent arXiv catalog](../arxiv/manipulation-imitation/README.md) is generated from [`data/arxiv_recent.json`](../../data/arxiv_recent.json).

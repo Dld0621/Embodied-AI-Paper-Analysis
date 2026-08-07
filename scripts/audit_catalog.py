@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import re
 import sys
 from collections import Counter
 from pathlib import Path
@@ -12,6 +13,7 @@ from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG_PATH = ROOT / "data" / "papers.json"
+ARXIV_PATH = ROOT / "data" / "arxiv_recent.json"
 
 OFFICIAL_HOSTS = {
     "2024.ieee-icra.org",
@@ -37,8 +39,17 @@ def load_catalog() -> dict:
     return json.loads(CATALOG_PATH.read_text(encoding="utf-8"))
 
 
+def load_arxiv() -> dict:
+    return json.loads(ARXIV_PATH.read_text(encoding="utf-8"))
+
+
 def _normalized_title(title: str) -> str:
     return " ".join(title.casefold().replace("π", "pi").split())
+
+
+def _combined_title_key(title: str) -> str:
+    """Mirror the browser's punctuation-insensitive combined-view key."""
+    return re.sub(r"[^a-z0-9]+", " ", title.casefold().replace("π", "pi")).strip()
 
 
 def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
@@ -164,24 +175,35 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
             errors.append(f"{track}: must include papers from at least three major venues")
 
     for relative, markers in {
-        "README.md": ("2022–2026", "3,724", "systematic conference census"),
+        "README.md": ("2022–2026", "3,724", "21,411", "systematic conference census"),
         "index.html": (
             "data/papers.json",
             "direction-grid",
             "Systematic census",
-            "3724",
+            "23735",
             "research-workbench",
+            "corpus-filters",
             "source-filters",
             "saved-count",
             "export-markdown",
             "share-view",
         ),
-        "papers/README.md": ("2022–2026", "3,724 papers", "Direction coverage"),
+        "papers/README.md": (
+            "2022–2026",
+            "3,724 conference papers",
+            "21,411 recent arXiv papers",
+            "Direction coverage",
+        ),
     }.items():
         text = (ROOT / relative).read_text(encoding="utf-8")
         for marker in markers:
             if marker not in text:
                 errors.append(f"{relative} missing catalog marker: {marker}")
+
+    app = (ROOT / "assets" / "app.js").read_text(encoding="utf-8")
+    for marker in ("data/arxiv_recent.json", "combinedUniquePapers", "data-corpus"):
+        if marker not in app:
+            errors.append(f"assets/app.js missing dual-layer marker: {marker}")
 
     stats: dict[str, object] = {
         "papers": len(papers),
@@ -204,8 +226,114 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
     return errors, stats
 
 
+def validate_arxiv(catalog: dict, arxiv: dict) -> tuple[list[str], dict[str, object]]:
+    errors: list[str] = []
+    papers = arxiv.get("papers", [])
+    source = arxiv.get("source", {})
+    window = arxiv.get("window", {})
+    tracks = catalog.get("tracks", [])
+    if arxiv.get("schema_version") != 1:
+        errors.append("arXiv schema_version must be 1")
+    if window != {
+        "start": "2024-01-01",
+        "end": "2026-08-07",
+        "years": [2024, 2025, 2026],
+    }:
+        errors.append("arXiv window must define the frozen 2024-2026 snapshot")
+    if arxiv.get("tracks") != tracks:
+        errors.append("arXiv tracks must match the conference catalog")
+    if source.get("category") != "cs.RO" or "submittedDate" not in source.get("query", ""):
+        errors.append("arXiv source must declare the cs.RO submitted-date query")
+    if source.get("candidate_records") != 27597:
+        errors.append("arXiv candidate ledger must match the frozen API snapshot")
+    if source.get("classified_records") != len(papers):
+        errors.append("arXiv classified ledger must match papers")
+    if source.get("unclassified_records") != source.get("candidate_records", 0) - len(papers):
+        errors.append("arXiv unclassified ledger is inconsistent")
+
+    conference_titles = {
+        _combined_title_key(paper["title"]) for paper in catalog.get("papers", [])
+    }
+    arxiv_title_keys = [_combined_title_key(paper["title"]) for paper in papers]
+    arxiv_unique_titles = set(arxiv_title_keys)
+    expected_overlap_records = sum(key in conference_titles for key in arxiv_title_keys)
+    expected_unique_overlap = len(conference_titles & arxiv_unique_titles)
+    expected_arxiv_duplicates = len(arxiv_title_keys) - len(arxiv_unique_titles)
+    expected_combined = len(conference_titles | arxiv_unique_titles)
+    for field, expected in {
+        "conference_title_duplicates": expected_overlap_records,
+        "conference_unique_title_overlap": expected_unique_overlap,
+        "arxiv_normalized_title_duplicates": expected_arxiv_duplicates,
+        "combined_unique_records": expected_combined,
+    }.items():
+        if source.get(field) != expected:
+            errors.append(f"arXiv {field} ledger mismatch")
+
+    ids: Counter[str] = Counter()
+    track_counts: Counter[str] = Counter()
+    year_counts: Counter[int] = Counter()
+    required = {
+        "arxiv_id", "title", "authors", "published", "year", "venue", "track",
+        "topic", "paper_url", "pdf_url", "official_url", "source_type",
+        "discovery_source", "primary_category",
+    }
+    for index, paper in enumerate(papers, start=1):
+        label = f"arXiv paper {index}"
+        missing = sorted(required - set(paper))
+        if missing:
+            errors.append(f"{label} missing fields: {', '.join(missing)}")
+            continue
+        ids[paper["arxiv_id"]] += 1
+        track_counts[paper["track"]] += 1
+        year_counts[paper["year"]] += 1
+        if paper["track"] not in tracks:
+            errors.append(f"{paper['title']}: unsupported arXiv track")
+        if paper["year"] not in {2024, 2025, 2026}:
+            errors.append(f"{paper['title']}: arXiv year outside recent window")
+        if not window["start"] <= paper["published"] <= window["end"]:
+            errors.append(f"{paper['title']}: arXiv published date outside window")
+        if paper["year"] != int(paper["published"][:4]):
+            errors.append(f"{paper['title']}: arXiv year does not match published date")
+        if paper["venue"] != "arXiv" or paper["source_type"] != "arxiv":
+            errors.append(f"{paper['title']}: preprint must be labeled arXiv")
+        if not paper["authors"] or not all(isinstance(author, str) and author for author in paper["authors"]):
+            errors.append(f"{paper['title']}: arXiv authors must be declared")
+        for field in ("paper_url", "pdf_url", "official_url"):
+            parsed = urlparse(paper[field])
+            if parsed.scheme != "https" or parsed.hostname != "arxiv.org":
+                errors.append(f"{paper['title']}: {field} must use arxiv.org HTTPS")
+    duplicate_ids = [arxiv_id for arxiv_id, count in ids.items() if count > 1]
+    if duplicate_ids:
+        errors.append(f"duplicate arXiv ids: {len(duplicate_ids)}")
+    expected_years = {2024, 2025, 2026}
+    for track in tracks:
+        years = {paper["year"] for paper in papers if paper.get("track") == track}
+        if years != expected_years:
+            errors.append(f"{track}: recent arXiv layer must cover 2024, 2025, and 2026")
+        if track_counts[track] != source.get("track_counts", {}).get(track):
+            errors.append(f"{track}: arXiv track ledger mismatch")
+    for year in expected_years:
+        if year_counts[year] != source.get("year_counts", {}).get(str(year)):
+            errors.append(f"{year}: arXiv year ledger mismatch")
+
+    stats: dict[str, object] = {
+        "arxiv_candidates": source.get("candidate_records"),
+        "arxiv_papers": len(papers),
+        "arxiv_unclassified": source.get("unclassified_records"),
+        "arxiv_conference_title_duplicates": source.get("conference_title_duplicates"),
+        "combined_unique_records": source.get("combined_unique_records"),
+        "arxiv_years": dict(sorted(year_counts.items())),
+        "arxiv_tracks": dict(sorted(track_counts.items())),
+    }
+    return errors, stats
+
+
 def main() -> int:
-    errors, stats = validate_catalog(load_catalog())
+    catalog = load_catalog()
+    errors, stats = validate_catalog(catalog)
+    arxiv_errors, arxiv_stats = validate_arxiv(catalog, load_arxiv())
+    errors.extend(arxiv_errors)
+    stats.update(arxiv_stats)
     if errors:
         print("Catalog audit: FAILED")
         for error in errors:

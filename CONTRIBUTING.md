@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for improving the Embodied AI conference census. The goal is systematic coverage under a defensible, reproducible boundary—not an untraceable paper dump.
+Thanks for improving the Embodied AI Research Index. The project maintains two evidence layers: an accepted-conference census and a separately labeled recent-arXiv census. The goal is systematic coverage under defensible, reproducible boundaries—not an untraceable paper dump.
 
 ## Before adding a paper
 
@@ -15,7 +15,7 @@ A core paper must meet every requirement:
 - assigned to exactly one venue, one research track, and one concise topic;
 - not already present under another spelling.
 
-Do not add workshop-only, withdrawn, under-review, or arXiv-only papers to the core catalog. Important preprints can be discussed in `notes/` with their status stated explicitly.
+Do not add workshop-only, withdrawn, under-review, or arXiv-only papers to the conference catalog. Preprints belong only in `data/arxiv_recent.json`; the interface never presents them as conference acceptances.
 
 ## Catalog workflow
 
@@ -29,13 +29,21 @@ Do not add workshop-only, withdrawn, under-review, or arXiv-only papers to the c
 3. Review random samples from every direction and compare venue discovery counts before accepting the generated diff.
 4. For a hand-verified exception, edit `data/papers.json`, use the conference year rather than the arXiv upload year, set `discovery_source` to `hand-verified seed`, and cite the best available source tier.
 5. Keep every research direction represented in every year from 2022 through 2026. If a direction's framing changes, update its bilingual `track_meta` question and four-stage pipeline as well.
-6. Regenerate the split Markdown catalogs:
+6. Refresh the three-year arXiv layer through the official API. Do not hand-edit bulk preprint records:
+
+   ```bash
+   python scripts/sync_arxiv_recent.py
+   ```
+
+   The synchronization evaluates every `cs.RO` candidate inside the frozen date window, applies the published title/abstract taxonomy, records admitted and unclassified counts, and uses resumable rate-limited requests.
+
+7. Regenerate the split Markdown catalogs:
 
    ```bash
    python scripts/render_catalog.py
    ```
 
-7. Run all repository checks:
+8. Run all repository checks:
 
    ```bash
    python scripts/audit_catalog.py
@@ -60,5 +68,6 @@ Do not convert simulation, offline metrics, or visualization results into real-r
 - Keep each pull request focused.
 - Explain why the paper belongs inside the published census boundary.
 - Explain whether the source is official, publisher, or bibliographic.
+- For arXiv changes, report the query window, total candidates, admitted records, unclassified records, and conference-title overlap.
 - For taxonomy changes, report how many records move into and out of every affected direction.
 - Do not commit downloaded PDFs or large generated assets.

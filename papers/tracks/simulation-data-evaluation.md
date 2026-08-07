@@ -2,7 +2,7 @@
 
 [← Conference census](../README.md)
 
-> 332 papers · 2022–2026 · 10 venues
+> 332 conference papers · 2,923 recent arXiv papers · 2022–2026
 
 How should embodied systems be trained, stress-tested, and compared reproducibly?
 
@@ -13,6 +13,8 @@ How should embodied systems be trained, stress-tested, and compared reproducibly
 **流程：** `资产与任务定义 → 仿真与数据生成 → 评测协议 → 指标与误差分析`
 
 **Venues:** CVPR · CoRL · ECCV · ICCV · ICLR · ICML · ICRA · IROS · NeurIPS · RSS
+
+**Recent arXiv layer:** [2,923 papers from 2024–2026](../arxiv/simulation-data-evaluation/README.md)
 
 ## 2026 (2)
 
@@ -373,4 +375,4 @@ How should embodied systems be trained, stress-tested, and compared reproducibly
 
 ---
 
-Generated from [`data/papers.json`](../../data/papers.json). Inclusion rules are defined in [`scripts/sync_conference_census.py`](../../scripts/sync_conference_census.py).
+Conference records are generated from [`data/papers.json`](../../data/papers.json). The separate [Simulation, Data & Evaluation recent arXiv catalog](../arxiv/simulation-data-evaluation/README.md) is generated from [`data/arxiv_recent.json`](../../data/arxiv_recent.json).

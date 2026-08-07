@@ -2,7 +2,7 @@
 
 [← Conference census](../README.md)
 
-> 317 papers · 2022–2026 · 10 venues
+> 317 conference papers · 2,154 recent arXiv papers · 2022–2026
 
 How do robots estimate task-relevant state and predict the consequences of action?
 
@@ -13,6 +13,8 @@ How do robots estimate task-relevant state and predict the consequences of actio
 **流程：** `视觉、触觉与本体感知 → 状态表征 → 世界预测 → 策略条件`
 
 **Venues:** CVPR · CoRL · ECCV · ICCV · ICLR · ICML · ICRA · IROS · NeurIPS · RSS
+
+**Recent arXiv layer:** [2,154 papers from 2024–2026](../arxiv/perception-world-models/README.md)
 
 ## 2026 (1)
 
@@ -358,4 +360,4 @@ How do robots estimate task-relevant state and predict the consequences of actio
 
 ---
 
-Generated from [`data/papers.json`](../../data/papers.json). Inclusion rules are defined in [`scripts/sync_conference_census.py`](../../scripts/sync_conference_census.py).
+Conference records are generated from [`data/papers.json`](../../data/papers.json). The separate [Perception & World Models recent arXiv catalog](../arxiv/perception-world-models/README.md) is generated from [`data/arxiv_recent.json`](../../data/arxiv_recent.json).

@@ -1,11 +1,11 @@
 # Embodied AI Paper Analysis
 
-> 3,724 papers · 10 major venues · 7 research directions · systematic conference census · 2022–2026
+> 3,724 conference papers · 21,411 recent arXiv papers · 23,735 unique research records · 7 directions
 
-[![Catalog](https://img.shields.io/badge/Conference%20census-3%2C724-111827?style=flat-square)](papers/README.md)
-[![Window](https://img.shields.io/badge/Window-2022--2026-2563eb?style=flat-square)](data/papers.json)
-[![Method](https://img.shields.io/badge/Method-reproducible-16a34a?style=flat-square)](scripts/sync_conference_census.py)
-[![Website](https://img.shields.io/badge/Live%20index-open-7c3aed?style=flat-square)](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)
+[![Conference](https://img.shields.io/badge/Conference%20census-3%2C724-111827?style=flat-square)](data/papers.json)
+[![arXiv](https://img.shields.io/badge/arXiv%202024--2026-21%2C411-b31b1b?style=flat-square)](data/arxiv_recent.json)
+[![Directions](https://img.shields.io/badge/Directions-7-2563eb?style=flat-square)](papers/README.md)
+[![Website](https://img.shields.io/badge/Research%20workbench-open-7c3aed?style=flat-square)](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-64748b?style=flat-square)](LICENSE)
 
 **[中文](#中文) · [English](#english)**
@@ -14,60 +14,43 @@
 
 ## 中文
 
-这是一个面向具身智能研究的 **近五年顶会论文系统性普查**。目录不再只挑选少量代表论文，而是固定顶会、年份、检索词、标题分类规则和排除规则，收录该操作性边界内的全部命中记录。
+这是一个面向具身智能科研工作的双层论文索引：
 
-“全部”必须有可验证的定义。本仓库中的完整性具体指：
+1. **近五年顶会普查**：3,724 篇，覆盖 RSS、CoRL、ICRA、IROS、ICLR、ICML、NeurIPS、CVPR、ICCV、ECCV，会议年份为 2022–2026。
+2. **近三年 arXiv 层**：对 2024-01-01 至 2026-08-07 的全部 27,597 条 `cs.RO` 候选执行确定性标题/摘要分类，七方向共纳入 21,411 篇。
 
-1. 固定 10 个顶会：RSS、CoRL、ICRA、IROS、ICLR、ICML、NeurIPS、CVPR、ICCV、ECCV。
-2. 固定会议窗口：2022–2026。
-3. 通过 Semantic Scholar 会议索引，以 `robot` 查询完整会议元数据。
-4. 使用仓库内公开的标题分类词表映射到七个研究方向，并排除医学、手术和康复类记录。
-5. 对标题归一化去重；74 篇人工核验种子优先覆盖自动发现的同名记录。
+两个层级严格分开。arXiv 条目始终标记为预印本；即使它与顶会层标题相同，也不会被当成会议录用证据。合并工作台优先保留具有正式会议来源的记录，按归一化标题得到 23,735 条去重结果。
 
-这意味着仓库覆盖 **上述规则下的全部论文**，但不会把有争议的“什么算具身智能”包装成不存在的绝对全集。任何漏收或误收都可以通过 [同步脚本](scripts/sync_conference_census.py) 和 [`census.venue_discovery`](data/papers.json) 复现、定位和修正。
+### 七个方向
 
-### 数据概览
+| 研究方向 | 顶会 2022–2026 | arXiv 2024–2026 | 方向入口 |
+|---|---:|---:|---|
+| Foundation Models & VLA | 318 | 3,276 | [顶会](papers/tracks/foundation-models-vla.md) · [arXiv](papers/arxiv/foundation-models-vla/README.md) |
+| Manipulation & Imitation | 941 | 3,817 | [顶会](papers/tracks/manipulation-imitation.md) · [arXiv](papers/arxiv/manipulation-imitation/README.md) |
+| Dexterity & Teleoperation | 339 | 935 | [顶会](papers/tracks/dexterity-teleoperation.md) · [arXiv](papers/arxiv/dexterity-teleoperation/README.md) |
+| Navigation & Embodied Agents | 807 | 5,989 | [顶会](papers/tracks/navigation-embodied-agents.md) · [arXiv](papers/arxiv/navigation-embodied-agents/README.md) |
+| Humanoids & Locomotion | 670 | 2,317 | [顶会](papers/tracks/humanoids-locomotion.md) · [arXiv](papers/arxiv/humanoids-locomotion/README.md) |
+| Perception & World Models | 317 | 2,154 | [顶会](papers/tracks/perception-world-models.md) · [arXiv](papers/arxiv/perception-world-models/README.md) |
+| Simulation, Data & Evaluation | 332 | 2,923 | [顶会](papers/tracks/simulation-data-evaluation.md) · [arXiv](papers/arxiv/simulation-data-evaluation/README.md) |
 
-| 指标 | 当前状态 |
-|---|---:|
-| 论文总数 | 3,724 |
-| 会议索引候选 | 9,572 |
-| 年份窗口 | 2022–2026 |
-| 顶会 | 10 |
-| 研究方向 | 7 |
-| 在线论文链接 | 100% |
-| 在线来源链接 | 100% |
-| 2026 论文 | 12（截至 2026-08-07） |
+每个 arXiv 方向继续拆分为 2024、2025、2026 三个完整年份目录，避免超长页面影响 GitHub 阅读。
 
-### 七个完整方向
+### 完整性的可审计定义
 
-| 研究方向 | 论文 | 年份 | 顶会覆盖 |
-|---|---:|---|---:|
-| Foundation Models & VLA | 318 | 2022–2026 | 10 |
-| Manipulation & Imitation | 941 | 2022–2026 | 10 |
-| Dexterity & Teleoperation | 339 | 2022–2026 | 10 |
-| Navigation & Embodied Agents | 807 | 2022–2026 | 9 |
-| Humanoids & Locomotion | 670 | 2022–2026 | 8 |
-| Perception & World Models | 317 | 2022–2026 | 10 |
-| Simulation, Data & Evaluation | 332 | 2022–2026 | 10 |
+- 顶会层是固定会议、年份、`robot` 检索词、标题分类和排除规则下的 **systematic conference census**。
+- arXiv 层从官方 [arXiv API](https://info.arxiv.org/help/api/user-manual.html) 收集完整 `cs.RO` 日期窗口，再使用公开词表进行标题/摘要分类。
+- 27,597 条候选中，21,411 条进入七方向，6,186 条未满足分类边界；所有数字均写入数据检索账本。
+- 医学、手术与康复类术语被明确排除；每篇论文只分配一个主方向。
+- “最全”指完整覆盖上述可复现边界，不代表学术界对“具身智能”存在无争议的语义全集。
 
-每个方向都有独立 GitHub 目录，按 2026 → 2022 排列全部论文，并提供 `Paper` 与来源链接。来源被明确区分为人工核验的 `Official`、出版社/DOI 的 `Publisher` 和文献数据库的 `Index`，不会把所有数据库页面误称为官方录用页。
+### 科研工作台
 
-### 入口
+[在线工作台](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)支持：
 
-- **[双语科研工作台](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)**：搜索全部 3,724 篇论文，按年份、会议、方向和来源层级筛选。
-- **[方向总览与检索账本](papers/README.md)**：查看每个顶会从候选到最终收录的数量。
-- **[七个方向完整目录](papers/tracks/)**：拆分后的 GitHub 友好目录。
-- **[同步与分类规则](scripts/sync_conference_census.py)**：完整性定义的可执行来源。
-- **[论文分析模板](docs/paper-analysis-template.md)**：区分论文主张、实验证据、限制与个人判断。
-
-### 面向科研工作者的界面
-
-- 中英文即时切换、浅色/深色主题，以及桌面与移动端自适应布局。
-- 全语料检索与年份、顶会、研究方向、来源层级联合筛选；链接参数可复现当前检索视图。
-- 本地阅读清单，无账号、无跟踪；阅读集合只保存在当前浏览器。
-- 当前结果或阅读清单可导出为 Markdown / CSV。数据中没有的作者信息不会被推测或补造。
-- 紧凑论文列表同时呈现研究方向、主题、会议、年份与来源层级，适合快速横向比较。
+- 首页七方向直接进入顶会层、arXiv 层或合并去重层。
+- 标题、作者、主题、年份、会议、方向与来源层级联合检索。
+- 可分享 URL、本地阅读清单、Markdown / CSV 导出、中英文和深浅主题。
+- arXiv 作者与精确提交日期可见；顶会层缺失的作者信息不会被推测。
 
 ---
 
@@ -75,63 +58,57 @@
 
 ## English
 
-This repository is a **systematic five-year conference census for Embodied AI**. It no longer means “a small representative reading list.” It includes every record admitted by a fixed and reproducible operational boundary:
+This repository is a two-layer research index for Embodied AI:
 
-1. Ten venues: RSS, CoRL, ICRA, IROS, ICLR, ICML, NeurIPS, CVPR, ICCV, and ECCV.
-2. Conference years 2022–2026.
-3. Semantic Scholar bulk venue discovery with the query `robot`.
-4. Deterministic title taxonomy into seven research directions, with medical, surgical, and rehabilitation exclusions.
-5. Normalized-title deduplication, with 74 manually verified seed records taking precedence.
+1. A **systematic conference census** of 3,724 papers from ten major venues, 2022–2026.
+2. A recent arXiv layer built from every `cs.RO` candidate submitted from 2024-01-01 through 2026-08-07: 27,597 candidates evaluated and 21,411 admitted by the published seven-direction taxonomy.
 
-Under that published boundary, the census is exhaustive. It does not claim that the research community has a universally agreed semantic definition of Embodied AI. The discovery ledger and classifier make disagreements inspectable instead of hiding them behind a vague “all papers” claim.
+The layers remain provenance-safe. An arXiv paper is a preprint, not evidence of conference acceptance. The combined workbench prefers formal conference records for normalized-title duplicates and exposes 23,735 unique records.
 
-### Researcher-first interface
+### Operational boundary
 
-The [bilingual research workbench](https://dld0621.github.io/Embodied-AI-Paper-Analysis/) is designed for literature work rather than passive browsing:
-
-- Search the full corpus and combine year, venue, direction, and provenance-tier filters.
-- Preserve an exact query as a shareable URL and restore it on reload.
-- Build a private reading list in local browser storage; no account or tracking is required.
-- Export the current result set or reading list as Markdown or CSV.
-- Compare paper topic, direction, venue, year, and provenance in a compact research table.
-
-Exports contain only catalog fields. Author metadata is not currently part of schema v3 and is therefore never fabricated.
+- Conference discovery: Semantic Scholar bulk venue metadata with the query `robot`, followed by deterministic title admission and explicit exclusions.
+- arXiv discovery: the official [arXiv API](https://info.arxiv.org/help/api/user-manual.html), complete `cs.RO` date-window harvesting, and deterministic title/abstract classification.
+- Deduplication: normalized title in the combined view; both source records remain available in their separate layers.
+- Coverage claims are relative to these declared rules, not to an undefined universal ontology of Embodied AI.
 
 ### Provenance
 
-| Tier | Records | Meaning |
+| Layer / tier | Records | Meaning |
 |---|---:|---|
-| Official | 74 | Manually verified proceedings or conference pages |
-| Publisher | 3,577 | DOI or publisher records |
-| Bibliographic | 73 | DBLP or Semantic Scholar records when no publisher URL is exposed |
-
-Every record includes an online paper link and a provenance link. The UI displays the provenance tier explicitly.
+| Conference · Official | 74 | Manually verified proceedings or conference pages |
+| Conference · Publisher | 3,577 | DOI or publisher records |
+| Conference · Bibliographic | 73 | DBLP or Semantic Scholar when no publisher URL is exposed |
+| arXiv | 21,411 | Official arXiv abstract and PDF pages; not labeled as conference acceptances |
 
 ### Repository structure
 
 ```text
-├── index.html                         # responsive bilingual research workbench
+├── index.html                         # bilingual research workbench
 ├── assets/
-│   ├── app.js                         # search, shareable filters, reading list and exports
-│   └── styles.css                     # international research UI system
+│   ├── app.js                         # direction entry, corpus switching, search and exports
+│   └── styles.css                     # responsive research UI
 ├── data/
-│   └── papers.json                    # schema v3 source of truth + discovery ledger
+│   ├── papers.json                    # schema v3 conference census + ledger
+│   └── arxiv_recent.json              # schema v1 recent-arXiv layer + ledger
 ├── papers/
-│   ├── README.md                      # generated overview
-│   └── tracks/                        # seven generated complete direction catalogs
+│   ├── README.md                      # generated cross-layer overview
+│   ├── tracks/                        # seven conference direction catalogs
+│   └── arxiv/                         # seven directions × three year indexes
 ├── scripts/
-│   ├── sync_conference_census.py      # venue discovery, classification and deduplication
-│   ├── audit_catalog.py               # schema, coverage, provenance and scope validation
-│   ├── check_local_links.py           # repository-link validation
-│   └── render_catalog.py              # deterministic split-catalog renderer
+│   ├── sync_conference_census.py      # conference discovery and classification
+│   ├── sync_arxiv_recent.py           # rate-limited, resumable arXiv synchronization
+│   ├── render_catalog.py              # deterministic split-catalog renderer
+│   └── audit_catalog.py               # schema, coverage, ledger and provenance audit
 └── tests/
-    └── test_catalog.py                # census contracts
+    └── test_catalog.py                # conference, arXiv and UI contracts
 ```
 
 ### Rebuild and validate
 
 ```bash
 python scripts/sync_conference_census.py
+python scripts/sync_arxiv_recent.py
 python scripts/render_catalog.py
 python scripts/audit_catalog.py
 python scripts/render_catalog.py --check
@@ -139,17 +116,11 @@ python scripts/check_local_links.py
 python -m unittest discover -s tests -v
 ```
 
-## Census policy · 普查规则
-
-- The census is complete relative to its declared venue/query/taxonomy boundary, not relative to an undefined universal ontology.
-- One normalized title appears once and is assigned one primary venue and one primary research direction.
-- 2026 is an in-progress snapshot frozen at **2026-08-07**; unpublished future proceedings are never projected.
-- New records must keep both `paper_url` and provenance `official_url` as HTTPS links and declare `source_type`.
-- Workshops or records not represented as papers in the selected venue index are outside this snapshot.
+The arXiv synchronizer follows the API paging guidance, waits between requests, retries transient failures, and resumes from an ignored local checkpoint.
 
 ## Contributing
 
-Read [CONTRIBUTING.md](CONTRIBUTING.md). For systematic updates, change the declared rules and rerun the census rather than manually inserting untraceable bulk records.
+Read [CONTRIBUTING.md](CONTRIBUTING.md). Change declared discovery or taxonomy rules and rerun the pipeline instead of inserting untraceable bulk records.
 
 ## License
 

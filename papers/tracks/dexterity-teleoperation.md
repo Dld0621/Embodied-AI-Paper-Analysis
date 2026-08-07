@@ -2,7 +2,7 @@
 
 [← Conference census](../README.md)
 
-> 339 papers · 2022–2026 · 10 venues
+> 339 conference papers · 935 recent arXiv papers · 2022–2026
 
 How do hands, tactile signals, and teleoperation interfaces support contact-rich control?
 
@@ -13,6 +13,8 @@ How do hands, tactile signals, and teleoperation interfaces support contact-rich
 **流程：** `人体、视觉与触觉 → 重定向或接触模型 → 手臂协同控制 → 任务结果`
 
 **Venues:** CVPR · CoRL · ECCV · ICCV · ICLR · ICML · ICRA · IROS · NeurIPS · RSS
+
+**Recent arXiv layer:** [935 papers from 2024–2026](../arxiv/dexterity-teleoperation/README.md)
 
 ## 2026 (1)
 
@@ -380,4 +382,4 @@ How do hands, tactile signals, and teleoperation interfaces support contact-rich
 
 ---
 
-Generated from [`data/papers.json`](../../data/papers.json). Inclusion rules are defined in [`scripts/sync_conference_census.py`](../../scripts/sync_conference_census.py).
+Conference records are generated from [`data/papers.json`](../../data/papers.json). The separate [Dexterity & Teleoperation recent arXiv catalog](../arxiv/dexterity-teleoperation/README.md) is generated from [`data/arxiv_recent.json`](../../data/arxiv_recent.json).
