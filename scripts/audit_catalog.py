@@ -165,7 +165,17 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
 
     for relative, markers in {
         "README.md": ("2022–2026", "3,724", "systematic conference census"),
-        "index.html": ("data/papers.json", "direction-grid", "Systematic census", "3724"),
+        "index.html": (
+            "data/papers.json",
+            "direction-grid",
+            "Systematic census",
+            "3724",
+            "research-workbench",
+            "source-filters",
+            "saved-count",
+            "export-markdown",
+            "share-view",
+        ),
         "papers/README.md": ("2022–2026", "3,724 papers", "Direction coverage"),
     }.items():
         text = (ROOT / relative).read_text(encoding="utf-8")

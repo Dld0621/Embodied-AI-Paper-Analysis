@@ -1,43 +1,100 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
-  <title id="title">Embodied AI Five-Year Conference Census</title>
-  <desc id="desc">3,724 conference papers across 10 major venues and 7 research directions from 2022 to 2026.</desc>
+  <title id="title">Embodied AI Research Workbench</title>
+  <desc id="desc">A bilingual research interface for 3,724 conference papers across 10 major venues and 7 research directions from 2022 to 2026.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#f7f8fc"/>
-      <stop offset="1" stop-color="#eef1f8"/>
+      <stop offset="0" stop-color="#f7f8fa"/>
+      <stop offset="1" stop-color="#eef1f5"/>
     </linearGradient>
-    <radialGradient id="orb" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#6d5dfc" stop-opacity=".30"/>
-      <stop offset="1" stop-color="#6d5dfc" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="22" stdDeviation="34" flood-color="#101425" flood-opacity=".12"/>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="20" stdDeviation="28" flood-color="#121826" flood-opacity=".10"/>
     </filter>
   </defs>
-  <rect width="1280" height="640" rx="32" fill="url(#bg)"/>
-  <circle cx="1080" cy="100" r="310" fill="url(#orb)"/>
-  <circle cx="1040" cy="520" r="260" fill="url(#orb)" opacity=".75"/>
-  <g opacity=".24" stroke="#6d5dfc" fill="none">
-    <path d="M850 115 1010 80l142 91-22 176-169 57-143-100Z"/>
-    <path d="m850 115 280 232M1010 80 961 404m191-233L818 304"/>
-    <circle cx="850" cy="115" r="7" fill="#6d5dfc"/><circle cx="1010" cy="80" r="7" fill="#6d5dfc"/>
-    <circle cx="1152" cy="171" r="7" fill="#6d5dfc"/><circle cx="1130" cy="347" r="7" fill="#6d5dfc"/>
-    <circle cx="961" cy="404" r="7" fill="#6d5dfc"/><circle cx="818" cy="304" r="7" fill="#6d5dfc"/>
+  <rect width="1280" height="640" rx="30" fill="url(#bg)"/>
+  <g opacity=".55" stroke="#dfe3e9">
+    <path d="M0 92h1280M0 184h1280M0 276h1280M0 368h1280M0 460h1280M0 552h1280"/>
+    <path d="M160 0v640M320 0v640M480 0v640M640 0v640M800 0v640M960 0v640M1120 0v640"/>
   </g>
-  <g transform="translate(82 76)">
-    <rect width="76" height="76" rx="22" fill="#111524"/>
-    <text x="38" y="49" text-anchor="middle" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">EA</text>
+
+  <g transform="translate(76 66)" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <circle cx="8" cy="9" r="7" fill="#2558d9" opacity=".14"/>
+    <circle cx="8" cy="9" r="3.5" fill="#2558d9"/>
+    <text x="26" y="15" fill="#101217" font-size="18" font-weight="720">Embodied AI</text>
+    <text x="26" y="34" fill="#6b7380" font-size="10" font-weight="700" letter-spacing="1.4">RESEARCH INDEX</text>
   </g>
-  <text x="82" y="225" fill="#111524" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="650" letter-spacing="3">SYSTEMATIC CONFERENCE CENSUS</text>
-  <text x="82" y="315" fill="#111524" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="68" font-weight="760">Five years.</text>
-  <text x="82" y="390" fill="#6354e8" font-family="Georgia,Times New Roman,serif" font-size="72" font-style="italic">One research map.</text>
-  <text x="82" y="457" fill="#596070" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23">Embodied perception · reasoning · action · physical systems</text>
-  <g transform="translate(82 512)" filter="url(#shadow)" font-family="Inter,Segoe UI,Arial,sans-serif">
-    <rect width="680" height="78" rx="22" fill="#fff"/>
-    <text x="30" y="48" fill="#111524" font-size="27" font-weight="730">3,724 papers</text>
-    <circle cx="215" cy="39" r="4" fill="#aeb4c1"/>
-    <text x="238" y="48" fill="#111524" font-size="27" font-weight="730">10 venues</text>
-    <circle cx="410" cy="39" r="4" fill="#aeb4c1"/>
-    <text x="433" y="48" fill="#111524" font-size="27" font-weight="730">2022–2026</text>
+
+  <text x="76" y="202" fill="#697386" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="760" letter-spacing="2.4">SYSTEMATIC CENSUS · 2022–2026</text>
+  <text x="76" y="285" fill="#101217" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-3">Research the field.</text>
+  <text x="76" y="356" fill="#2558d9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-3">Not the feed.</text>
+  <text x="76" y="411" fill="#697386" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">Search · compare · save · share · export</text>
+
+  <g transform="translate(76 474)" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect width="470" height="88" rx="15" fill="#fff" stroke="#dfe3e9"/>
+    <g transform="translate(26 21)">
+      <text y="22" fill="#101217" font-size="25" font-weight="720">3,724</text><text y="44" fill="#7b8492" font-size="11">papers</text>
+      <path d="M97 0v47" stroke="#e2e5ea"/>
+      <text x="122" y="22" fill="#101217" font-size="25" font-weight="720">10</text><text x="122" y="44" fill="#7b8492" font-size="11">venues</text>
+      <path d="M208 0v47" stroke="#e2e5ea"/>
+      <text x="233" y="22" fill="#101217" font-size="25" font-weight="720">7</text><text x="233" y="44" fill="#7b8492" font-size="11">directions</text>
+      <path d="M319 0v47" stroke="#e2e5ea"/>
+      <text x="344" y="22" fill="#118a55" font-size="15" font-weight="760">AUDITED</text><text x="344" y="44" fill="#7b8492" font-size="11">source-aware</text>
+    </g>
+  </g>
+
+  <g transform="translate(690 82)" filter="url(#shadow)" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect width="510" height="478" rx="18" fill="#fff" stroke="#d9dde4"/>
+    <path d="M0 62h510M138 62v416" stroke="#e2e5ea"/>
+    <g transform="translate(18 18)">
+      <rect width="102" height="28" rx="7" fill="#f5f7fa" stroke="#e1e4e9"/>
+      <text x="14" y="19" fill="#101217" font-size="9" font-weight="700">All papers</text>
+      <rect x="320" width="72" height="28" rx="7" fill="#fff" stroke="#e1e4e9"/>
+      <text x="331" y="19" fill="#697386" font-size="8" font-weight="700">Share view</text>
+      <rect x="400" width="72" height="28" rx="7" fill="#fff" stroke="#e1e4e9"/>
+      <text x="415" y="19" fill="#697386" font-size="8" font-weight="700">Export</text>
+    </g>
+    <g transform="translate(16 82)">
+      <text fill="#101217" font-size="9" font-weight="750">FILTERS</text>
+      <rect y="17" width="106" height="34" rx="7" fill="#fff" stroke="#d8dde5"/>
+      <text x="12" y="38" fill="#8a93a0" font-size="7">Search papers</text>
+      <text y="76" fill="#8a93a0" font-size="7" font-weight="700">YEAR</text>
+      <g transform="translate(0 87)">
+        <rect width="48" height="24" rx="5" fill="#e9efff" stroke="#85a3fa"/><text x="12" y="16" fill="#2558d9" font-size="7" font-weight="700">All</text>
+        <rect x="54" width="52" height="24" rx="5" fill="#fff" stroke="#e1e4e9"/><text x="65" y="16" fill="#697386" font-size="7">2026</text>
+      </g>
+      <text y="139" fill="#8a93a0" font-size="7" font-weight="700">VENUE</text>
+      <g transform="translate(0 150)" fill="#fff" stroke="#e1e4e9"><rect width="48" height="24" rx="5"/><rect x="54" width="52" height="24" rx="5"/><rect y="30" width="48" height="24" rx="5"/><rect x="54" y="30" width="52" height="24" rx="5"/></g>
+      <g transform="translate(0 150)" fill="#697386" font-size="7"><text x="11" y="16">RSS</text><text x="65" y="16">CoRL</text><text x="11" y="46">ICRA</text><text x="65" y="46">IROS</text></g>
+      <text y="233" fill="#8a93a0" font-size="7" font-weight="700">SOURCE TIER</text>
+      <g transform="translate(0 245)"><circle cx="5" cy="5" r="3" fill="#2558d9"/><text x="14" y="8" fill="#697386" font-size="7">Official</text><circle cx="5" cy="26" r="3" fill="#7759e8"/><text x="14" y="29" fill="#697386" font-size="7">Publisher</text></g>
+    </g>
+    <g transform="translate(158 84)">
+      <text fill="#101217" font-size="13" font-weight="750">3,724</text><text x="43" fill="#697386" font-size="8">matching papers</text>
+      <path d="M0 28h326" stroke="#dfe3e9"/>
+      <g transform="translate(0 50)">
+        <circle cx="8" cy="15" r="8" fill="#fff" stroke="#cfd5de"/><circle cx="8" cy="15" r="2" fill="#2558d9"/>
+        <text x="28" y="8" fill="#101217" font-size="8" font-weight="700">Vision-Language-Action Models</text><text x="28" y="21" fill="#7b8492" font-size="6">Foundation Models &amp; VLA · 2026 · ICLR</text><circle cx="278" cy="10" r="3" fill="#2558d9"/><text x="286" y="13" fill="#697386" font-size="6">Official</text>
+        <path d="M0 40h326" stroke="#e6e8ec"/>
+      </g>
+      <g transform="translate(0 112)">
+        <circle cx="8" cy="15" r="8" fill="#fff" stroke="#cfd5de"/>
+        <text x="28" y="8" fill="#101217" font-size="8" font-weight="700">Robot Learning from Demonstrations</text><text x="28" y="21" fill="#7b8492" font-size="6">Manipulation &amp; Imitation · 2025 · CoRL</text><circle cx="278" cy="10" r="3" fill="#7759e8"/><text x="286" y="13" fill="#697386" font-size="6">Publisher</text>
+        <path d="M0 40h326" stroke="#e6e8ec"/>
+      </g>
+      <g transform="translate(0 174)">
+        <circle cx="8" cy="15" r="8" fill="#e9efff" stroke="#2558d9"/><circle cx="8" cy="15" r="3" fill="#2558d9"/>
+        <text x="28" y="8" fill="#101217" font-size="8" font-weight="700">Dexterous Tactile Manipulation</text><text x="28" y="21" fill="#7b8492" font-size="6">Dexterity &amp; Teleoperation · 2025 · RSS</text><circle cx="278" cy="10" r="3" fill="#2558d9"/><text x="286" y="13" fill="#697386" font-size="6">Official</text>
+        <path d="M0 40h326" stroke="#e6e8ec"/>
+      </g>
+      <g transform="translate(0 236)">
+        <circle cx="8" cy="15" r="8" fill="#fff" stroke="#cfd5de"/>
+        <text x="28" y="8" fill="#101217" font-size="8" font-weight="700">Embodied Navigation with Memory</text><text x="28" y="21" fill="#7b8492" font-size="6">Navigation &amp; Agents · 2024 · CVPR</text><circle cx="278" cy="10" r="3" fill="#7759e8"/><text x="286" y="13" fill="#697386" font-size="6">Publisher</text>
+        <path d="M0 40h326" stroke="#e6e8ec"/>
+      </g>
+      <g transform="translate(0 298)">
+        <circle cx="8" cy="15" r="8" fill="#fff" stroke="#cfd5de"/>
+        <text x="28" y="8" fill="#101217" font-size="8" font-weight="700">World Models for Robot Control</text><text x="28" y="21" fill="#7b8492" font-size="6">Perception &amp; World Models · 2024 · NeurIPS</text><circle cx="278" cy="10" r="3" fill="#b86912"/><text x="286" y="13" fill="#697386" font-size="6">Index</text>
+        <path d="M0 40h326" stroke="#e6e8ec"/>
+      </g>
+    </g>
   </g>
 </svg>

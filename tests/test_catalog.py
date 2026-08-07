@@ -87,6 +87,27 @@ class CatalogContractTests(unittest.TestCase):
             self.assertGreaterEqual(stats["matched_records"], stats["classified_records"], venue)
             self.assertGreater(stats["included_records"], 0, venue)
 
+    def test_research_workbench_contract(self) -> None:
+        index = (ROOT / "index.html").read_text(encoding="utf-8")
+        app = (ROOT / "assets" / "app.js").read_text(encoding="utf-8")
+        for marker in (
+            'id="research-workbench"',
+            'id="source-filters"',
+            'id="saved-count"',
+            'id="export-markdown"',
+            'id="export-csv"',
+            'id="share-view"',
+        ):
+            self.assertIn(marker, index)
+        for marker in (
+            "URLSearchParams",
+            "localStorage",
+            "exportMarkdown",
+            "exportCsv",
+            "navigator.clipboard",
+        ):
+            self.assertIn(marker, app)
+
 
 if __name__ == "__main__":
     unittest.main()

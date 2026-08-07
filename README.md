@@ -55,11 +55,19 @@
 
 ### 入口
 
-- **[交互式论文普查](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)**：搜索全部 3,724 篇论文，按年份、会议和方向筛选。
+- **[双语科研工作台](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)**：搜索全部 3,724 篇论文，按年份、会议、方向和来源层级筛选。
 - **[方向总览与检索账本](papers/README.md)**：查看每个顶会从候选到最终收录的数量。
 - **[七个方向完整目录](papers/tracks/)**：拆分后的 GitHub 友好目录。
 - **[同步与分类规则](scripts/sync_conference_census.py)**：完整性定义的可执行来源。
 - **[论文分析模板](docs/paper-analysis-template.md)**：区分论文主张、实验证据、限制与个人判断。
+
+### 面向科研工作者的界面
+
+- 中英文即时切换、浅色/深色主题，以及桌面与移动端自适应布局。
+- 全语料检索与年份、顶会、研究方向、来源层级联合筛选；链接参数可复现当前检索视图。
+- 本地阅读清单，无账号、无跟踪；阅读集合只保存在当前浏览器。
+- 当前结果或阅读清单可导出为 Markdown / CSV。数据中没有的作者信息不会被推测或补造。
+- 紧凑论文列表同时呈现研究方向、主题、会议、年份与来源层级，适合快速横向比较。
 
 ---
 
@@ -77,6 +85,18 @@ This repository is a **systematic five-year conference census for Embodied AI**.
 
 Under that published boundary, the census is exhaustive. It does not claim that the research community has a universally agreed semantic definition of Embodied AI. The discovery ledger and classifier make disagreements inspectable instead of hiding them behind a vague “all papers” claim.
 
+### Researcher-first interface
+
+The [bilingual research workbench](https://dld0621.github.io/Embodied-AI-Paper-Analysis/) is designed for literature work rather than passive browsing:
+
+- Search the full corpus and combine year, venue, direction, and provenance-tier filters.
+- Preserve an exact query as a shareable URL and restore it on reload.
+- Build a private reading list in local browser storage; no account or tracking is required.
+- Export the current result set or reading list as Markdown or CSV.
+- Compare paper topic, direction, venue, year, and provenance in a compact research table.
+
+Exports contain only catalog fields. Author metadata is not currently part of schema v3 and is therefore never fabricated.
+
 ### Provenance
 
 | Tier | Records | Meaning |
@@ -90,10 +110,10 @@ Every record includes an online paper link and a provenance link. The UI display
 ### Repository structure
 
 ```text
-├── index.html                         # responsive bilingual census UI
+├── index.html                         # responsive bilingual research workbench
 ├── assets/
-│   ├── app.js                         # full-corpus search, filters and incremental rendering
-│   └── styles.css                     # visual system
+│   ├── app.js                         # search, shareable filters, reading list and exports
+│   └── styles.css                     # international research UI system
 ├── data/
 │   └── papers.json                    # schema v3 source of truth + discovery ledger
 ├── papers/

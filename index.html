@@ -3,147 +3,164 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="A systematic 2022–2026 census of Embodied AI papers across 10 major robotics, machine-learning, and vision venues.">
-  <meta name="theme-color" content="#f6f7fb">
+  <meta name="description" content="An international research workbench for a systematic 2022–2026 census of Embodied AI papers across 10 major venues.">
+  <meta name="theme-color" content="#f4f5f7">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Embodied AI · Five-Year Conference Census">
+  <meta property="og:title" content="Embodied AI · Research Workbench">
   <meta property="og:description" content="3,724 conference papers · 10 major venues · 7 research directions · 2022–2026">
   <meta property="og:image" content="https://dld0621.github.io/Embodied-AI-Paper-Analysis/assets/social-preview.jpg">
   <meta property="og:url" content="https://dld0621.github.io/Embodied-AI-Paper-Analysis/">
   <meta name="twitter:card" content="summary_large_image">
-  <title>Embodied AI · Five-Year Conference Census</title>
+  <title>Embodied AI · Research Workbench</title>
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="assets/styles.css">
   <script src="assets/app.js" defer></script>
 </head>
 <body>
-  <a class="skip-link" href="#catalog">Skip to catalog</a>
+  <a class="skip-link" href="#research-workbench" data-i18n="skip">Skip to research workbench</a>
+
   <header class="site-header">
     <div class="shell header-inner">
-      <a class="brand" href="#top" aria-label="Embodied AI Paper Analysis home">
-        <span class="brand-mark" aria-hidden="true">EA</span>
-        <span>Embodied AI Census</span>
+      <a class="brand" href="#top" aria-label="Embodied AI Research Index home">
+        <span class="brand-signal" aria-hidden="true"></span>
+        <span class="brand-copy"><strong>Embodied AI</strong><small>Research Index</small></span>
       </a>
-      <nav class="header-actions" aria-label="Utility navigation">
-        <a href="#directions" data-i18n="navDirections">Directions</a>
+      <nav class="primary-nav" aria-label="Primary navigation">
+        <a href="#research-workbench" data-i18n="navWorkbench">Workbench</a>
+        <a href="#directions" data-i18n="navDirections">Research map</a>
         <a href="#policy" data-i18n="navPolicy">Method</a>
-        <a href="https://github.com/Dld0621/Embodied-AI-Paper-Analysis" target="_blank" rel="noopener">GitHub</a>
-        <button class="icon-button" id="language-toggle" type="button" aria-label="Switch language">中文</button>
-        <button class="icon-button theme-button" id="theme-toggle" type="button" aria-label="Switch color theme">
-          <span aria-hidden="true">◐</span>
-        </button>
       </nav>
+      <div class="header-actions">
+        <button class="header-reading-list" id="header-saved" type="button">
+          <span aria-hidden="true">⌑</span><span data-i18n="readingList">Reading list</span><strong id="saved-count">0</strong>
+        </button>
+        <a class="github-link" href="https://github.com/Dld0621/Embodied-AI-Paper-Analysis" target="_blank" rel="noopener">GitHub ↗</a>
+        <button class="icon-button language-button" id="language-toggle" type="button" aria-label="Switch language">中文</button>
+        <button class="icon-button" id="theme-toggle" type="button" aria-label="Switch color theme"><span aria-hidden="true">◐</span></button>
+      </div>
     </div>
   </header>
 
   <main id="top">
     <section class="hero shell" aria-labelledby="hero-title">
       <div class="hero-copy">
-        <p class="eyebrow"><span></span><span data-i18n="eyebrow">Systematic conference census · updated 2026-08-07</span></p>
-        <h1 id="hero-title"><span data-i18n="heroLineOne">Five years.</span><br><em data-i18n="heroLineTwo">One research map.</em></h1>
-        <p class="hero-lead" data-i18n="heroLead">A precise, source-backed path through the papers shaping embodied perception, reasoning, action, and physical systems.</p>
-        <div class="hero-pills" aria-label="Collection scope">
-          <span><i class="status-dot"></i><span data-i18n="acceptedOnly">Systematic census</span></span>
-          <span>2022–2026</span>
-          <span data-i18n="selective">Explicit, auditable boundary</span>
-        </div>
+        <p class="eyebrow"><span aria-hidden="true"></span><span data-i18n="eyebrow">Systematic census · 2022–2026 · updated 2026-08-07</span></p>
+        <h1 id="hero-title"><span data-i18n="heroLineOne">Research the field.</span><em data-i18n="heroLineTwo">Not the feed.</em></h1>
+        <p class="hero-lead" data-i18n="heroLead">A bilingual, source-aware workbench for tracing the papers, pipelines, and research directions shaping embodied intelligence.</p>
         <div class="hero-actions">
-          <a class="button button-primary" href="#catalog" data-i18n="explore">Explore catalog</a>
-          <a class="button" href="https://github.com/Dld0621/Embodied-AI-Paper-Analysis/blob/main/papers/README.md" target="_blank" rel="noopener" data-i18n="readMarkdown">Read on GitHub</a>
+          <a class="button button-primary" href="#research-workbench" data-i18n="openWorkbench">Open research workbench</a>
+          <a class="button" href="papers/README.md" data-i18n="browseMarkdown">Browse Markdown index</a>
         </div>
+        <p class="hero-note"><span class="status-dot" aria-hidden="true"></span><span data-i18n="heroNote">Systematic census under an explicit, auditable boundary. Every record includes an online paper and provenance link.</span></p>
       </div>
-      <aside class="scope-card" aria-label="Catalog status">
-        <div class="scope-top"><span data-i18n="scope">Census scope</span><strong data-i18n="verified">AUDITED</strong></div>
-        <div class="scope-total"><strong id="paper-count">3724</strong><span data-i18n="curatedPapers">conference papers</span></div>
-        <div class="scope-rail" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
-        <dl>
-          <div><dt data-i18n="venues">Major venues</dt><dd id="venue-count">10</dd></div>
-          <div><dt data-i18n="tracks">Research tracks</dt><dd id="track-count">7</dd></div>
-          <div><dt data-i18n="latest">2026 snapshot</dt><dd id="latest-count">12</dd></div>
-          <div><dt data-i18n="sourceRule">Online sources</dt><dd>100%</dd></div>
-        </dl>
-        <a href="#policy"><span data-i18n="seePolicy">See selection policy</span><span aria-hidden="true">↘</span></a>
+
+      <aside class="scope-panel" aria-label="Catalog scope">
+        <div class="scope-heading"><span data-i18n="scope">Research corpus</span><strong data-i18n="audited">AUDITED</strong></div>
+        <div class="scope-primary"><strong id="paper-count">3724</strong><span data-i18n="papers">papers</span></div>
+        <div class="scope-grid">
+          <div><strong id="venue-count">10</strong><span data-i18n="venues">major venues</span></div>
+          <div><strong id="track-count">7</strong><span data-i18n="tracks">research tracks</span></div>
+          <div><strong id="latest-count">12</strong><span data-i18n="latest">2026 records</span></div>
+          <div><strong>100%</strong><span data-i18n="linked">source linked</span></div>
+        </div>
+        <div class="scope-provenance" id="scope-provenance" aria-label="Source distribution"></div>
       </aside>
     </section>
 
-    <section class="signal-strip" aria-label="Research tracks">
+    <section class="signal-strip" aria-label="Research track summary">
       <div class="shell track-ticker" id="track-ticker"></div>
     </section>
 
-    <section class="direction-map shell" id="directions" aria-labelledby="direction-title">
-      <div class="section-heading direction-heading">
+    <section class="workbench shell" id="research-workbench" aria-labelledby="catalog-title">
+      <div class="workbench-heading">
         <div>
-          <p class="section-kicker" data-i18n="directionKicker">Seven research directions</p>
-          <h2 id="direction-title" data-i18n="directionTitle">Every direction. Every year. Direct links.</h2>
+          <p class="section-kicker" data-i18n="workbenchKicker">Research workbench</p>
+          <h2 id="catalog-title" data-i18n="catalogTitle">Move from discovery to a usable reading set.</h2>
         </div>
-        <p data-i18n="directionLead">Every direction contains all records admitted by the fixed venue, year, query, title-taxonomy, and exclusion rules. Open a direction to search the full census.</p>
+        <p data-i18n="catalogLead">Search the full corpus, inspect provenance, save a local reading list, and export the exact view you are using.</p>
       </div>
-      <div class="direction-grid" id="direction-grid"></div>
+
+      <div class="workbench-toolbar" aria-label="Research utilities">
+        <div class="view-switch" role="group" aria-label="Catalog view">
+          <button type="button" data-view="all" aria-pressed="true"><span data-i18n="allPapers">All papers</span></button>
+          <button type="button" data-view="saved" aria-pressed="false"><span data-i18n="savedPapers">Reading list</span><strong id="toolbar-saved-count">0</strong></button>
+        </div>
+        <div class="utility-actions">
+          <button id="share-view" type="button"><span aria-hidden="true">↗</span><span data-i18n="shareView">Share view</span></button>
+          <button id="export-markdown" type="button"><span aria-hidden="true">↓</span><span>Markdown</span></button>
+          <button id="export-csv" type="button"><span aria-hidden="true">↓</span><span>CSV</span></button>
+        </div>
+      </div>
+
+      <div class="workbench-layout">
+        <aside class="filter-panel" aria-label="Catalog filters">
+          <div class="filter-panel-head"><strong data-i18n="filters">Filters</strong><button id="clear-filters" type="button" data-i18n="reset">Reset</button></div>
+
+          <label class="search-box" for="paper-search">
+            <span aria-hidden="true">⌕</span>
+            <input id="paper-search" type="search" autocomplete="off" data-i18n-placeholder="searchPlaceholder" placeholder="Search title, topic, venue">
+            <kbd>/</kbd>
+          </label>
+
+          <label class="sort-control" for="sort-select">
+            <span data-i18n="sort">Sort order</span>
+            <select id="sort-select">
+              <option value="latest" data-i18n="sortLatest">Latest first</option>
+              <option value="oldest" data-i18n="sortOldest">Oldest first</option>
+              <option value="title" data-i18n="sortTitle">Title A–Z</option>
+            </select>
+          </label>
+
+          <fieldset class="filter-group"><legend data-i18n="year">Year</legend><div class="chip-list" id="year-filters"></div></fieldset>
+          <fieldset class="filter-group"><legend data-i18n="venue">Venue</legend><div class="chip-list" id="venue-filters"></div></fieldset>
+          <fieldset class="filter-group"><legend data-i18n="track">Research track</legend><div class="chip-list stacked" id="track-filters"></div></fieldset>
+          <fieldset class="filter-group" id="source-filters"><legend data-i18n="sourceTier">Source tier</legend><div class="chip-list stacked" id="source-type-filters"></div></fieldset>
+        </aside>
+
+        <div class="results-panel">
+          <div class="results-bar">
+            <p aria-live="polite"><strong id="result-count">3724</strong> <span data-i18n="results">matching papers</span><span class="result-divider">·</span><span data-i18n="showing">showing</span> <strong id="showing-count">120</strong></p>
+            <div class="source-legend" aria-label="Source tier legend">
+              <span><i class="tier-dot official"></i><span data-i18n="official">Official</span></span>
+              <span><i class="tier-dot publisher"></i><span data-i18n="publisher">Publisher</span></span>
+              <span><i class="tier-dot bibliographic"></i><span data-i18n="index">Index</span></span>
+            </div>
+          </div>
+
+          <div class="paper-table" id="paper-grid" role="table" aria-label="Paper results" aria-live="polite"></div>
+          <div class="load-more-wrap"><button class="button" id="load-more" type="button" data-i18n="loadMore">Load 120 more</button></div>
+          <div class="empty-state" id="empty-state" hidden>
+            <strong data-i18n="emptyTitle">No papers match this view.</strong>
+            <p data-i18n="emptyLead">Broaden the filters or return to the complete catalog.</p>
+          </div>
+          <p class="export-note" data-i18n="exportNote">Exports contain only verified catalog fields; unavailable author metadata is never inferred.</p>
+        </div>
+      </div>
     </section>
 
-    <section class="spotlight shell" aria-labelledby="spotlight-title">
-      <div class="section-heading">
-        <div>
-          <p class="section-kicker" data-i18n="latestKicker">Current-year layer</p>
-          <h2 id="spotlight-title" data-i18n="spotlightTitle">2026 indexed papers</h2>
+    <section class="direction-map" id="directions" aria-labelledby="direction-title">
+      <div class="shell">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker" data-i18n="directionKicker">Research map</p>
+            <h2 id="direction-title" data-i18n="directionTitle">Seven directions, each expressed as a research pipeline.</h2>
+          </div>
+          <p data-i18n="directionLead">Use the map to move from a scientific question to the relevant five-year literature, with coverage visible before you open the catalog.</p>
         </div>
-        <p data-i18n="spotlightLead">An in-progress snapshot frozen on August 7; future 2026 proceedings are not projected.</p>
-      </div>
-      <div class="spotlight-grid" id="spotlight-grid" aria-live="polite"></div>
-    </section>
-
-    <section class="catalog shell" id="catalog" aria-labelledby="catalog-title">
-      <div class="section-heading catalog-heading">
-        <div>
-          <p class="section-kicker" data-i18n="catalogKicker">Five-year index</p>
-          <h2 id="catalog-title" data-i18n="catalogTitle">Find the paper that moves your work forward.</h2>
-        </div>
-        <p data-i18n="catalogLead">Search complete titles, then narrow by conference year, venue, or research track.</p>
-      </div>
-
-      <div class="control-panel">
-        <label class="search-box" for="paper-search">
-          <span aria-hidden="true">⌕</span>
-          <input id="paper-search" type="search" autocomplete="off" data-i18n-placeholder="searchPlaceholder" placeholder="Search papers or topics">
-          <kbd>⌘ K</kbd>
-        </label>
-        <label class="sort-control" for="sort-select">
-          <span data-i18n="sort">Sort</span>
-          <select id="sort-select">
-            <option value="latest" data-i18n="sortLatest">Latest first</option>
-            <option value="oldest" data-i18n="sortOldest">Oldest first</option>
-            <option value="title" data-i18n="sortTitle">Title A–Z</option>
-          </select>
-        </label>
-      </div>
-
-      <div class="filter-stack">
-        <div class="filter-row"><span data-i18n="year">Year</span><div class="chip-list" id="year-filters"></div></div>
-        <div class="filter-row"><span data-i18n="venue">Venue</span><div class="chip-list" id="venue-filters"></div></div>
-        <div class="filter-row"><span data-i18n="track">Track</span><div class="chip-list" id="track-filters"></div></div>
-      </div>
-
-      <div class="results-bar">
-        <p><strong id="result-count">3724</strong> <span data-i18n="results">matching papers</span> · <span data-i18n="showing">showing</span> <strong id="showing-count">120</strong></p>
-        <button id="clear-filters" type="button" data-i18n="clear">Clear filters</button>
-      </div>
-      <div class="paper-grid" id="paper-grid" aria-live="polite"></div>
-      <div class="load-more-wrap"><button class="button" id="load-more" type="button" data-i18n="loadMore">Load 120 more</button></div>
-      <div class="empty-state" id="empty-state" hidden>
-        <strong data-i18n="emptyTitle">No papers match this view.</strong>
-        <p data-i18n="emptyLead">Try a broader year, venue, track, or search term.</p>
+        <div class="direction-grid" id="direction-grid"></div>
       </div>
     </section>
 
     <section class="policy shell" id="policy" aria-labelledby="policy-title">
       <div class="policy-copy">
         <p class="section-kicker" data-i18n="policyKicker">Census contract</p>
-        <h2 id="policy-title" data-i18n="policyTitle">Large enough to cover. Explicit enough to audit.</h2>
+        <h2 id="policy-title" data-i18n="policyTitle">Transparent enough to inspect. Stable enough to reproduce.</h2>
         <p data-i18n="policyLead">Completeness is measured against a published operational boundary—not an undefined claim to every paper anyone might call Embodied AI.</p>
+        <a href="https://github.com/Dld0621/Embodied-AI-Paper-Analysis#census-policy--普查规则" target="_blank" rel="noopener"><span data-i18n="readMethod">Read the full methodology</span> ↗</a>
       </div>
       <ol class="policy-list">
         <li><span>01</span><div><strong data-i18n="policyOneTitle">Rolling five-year window</strong><p data-i18n="policyOneBody">Conference years 2022 through 2026, inclusive.</p></div></li>
-        <li><span>02</span><div><strong data-i18n="policyTwoTitle">Reproducible discovery</strong><p data-i18n="policyTwoBody">Ten fixed venues are searched through conference-indexed metadata with the query ‘robot’.</p></div></li>
+        <li><span>02</span><div><strong data-i18n="policyTwoTitle">Reproducible discovery</strong><p data-i18n="policyTwoBody">Ten fixed venues are searched through conference-indexed metadata with the query “robot”.</p></div></li>
         <li><span>03</span><div><strong data-i18n="policyThreeTitle">Deterministic admission</strong><p data-i18n="policyThreeBody">Title taxonomy, medical exclusions, normalized-title deduplication, and one primary direction per paper.</p></div></li>
         <li><span>04</span><div><strong data-i18n="policyFourTitle">Tiered provenance</strong><p data-i18n="policyFourBody">Every row links a paper plus an official, publisher, or bibliographic source whose tier is shown honestly.</p></div></li>
       </ol>
@@ -152,9 +169,11 @@
 
   <footer class="site-footer">
     <div class="shell footer-inner">
-      <p><strong>Embodied AI Paper Analysis</strong><span data-i18n="footerLine">A reproducible census, not a vanity count.</span></p>
-      <div><a href="https://github.com/Dld0621/Embodied-AI-Paper-Analysis#readme" target="_blank" rel="noopener">README</a><a href="https://github.com/Dld0621/Embodied-AI-Paper-Analysis/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener" data-i18n="contribute">Contribute</a><a href="data/papers.json">JSON</a></div>
+      <p><strong>Embodied AI Research Index</strong><span data-i18n="footerLine">Open infrastructure for rigorous literature work.</span></p>
+      <div><a href="README.md">README</a><a href="CONTRIBUTING.md" data-i18n="contribute">Contribute</a><a href="data/papers.json">JSON</a><a href="mailto:Steven.LI@connect.hku.hk">Contact</a></div>
     </div>
   </footer>
+
+  <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
 </body>
 </html>
