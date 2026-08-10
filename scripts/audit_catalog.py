@@ -10,6 +10,12 @@ from collections import Counter
 from pathlib import Path
 from urllib.parse import urlparse
 
+SCRIPT_DIR = Path(__file__).resolve().parent
+if str(SCRIPT_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_DIR))
+
+from taxonomy import GENERAL_SPECIALTY, hierarchy_counts, taxonomy_metadata
+
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG_PATH = ROOT / "data" / "papers.json"
@@ -52,6 +58,55 @@ def _combined_title_key(title: str) -> str:
     return re.sub(r"[^a-z0-9]+", " ", title.casefold().replace("π", "pi")).strip()
 
 
+def validate_taxonomy_layer(layer: dict, label: str) -> tuple[list[str], dict[str, int]]:
+    errors: list[str] = []
+    papers = layer.get("papers", [])
+    expected = taxonomy_metadata()
+    if layer.get("taxonomy") != expected:
+        errors.append(f"{label}: published taxonomy metadata differs from scripts/taxonomy.py")
+    if layer.get("taxonomy_counts") != hierarchy_counts(papers):
+        errors.append(f"{label}: taxonomy count ledger is inconsistent")
+
+    declared_level_2 = {
+        (track, subcategory)
+        for track, track_meta in expected["tracks"].items()
+        for subcategory in track_meta["subcategories"]
+    }
+    observed_level_2: set[tuple[str, str]] = set()
+    general_count = 0
+    fallback_count = 0
+    for index, paper in enumerate(papers, start=1):
+        path_label = f"{label} paper {index}"
+        track = paper.get("track")
+        subcategory = paper.get("subcategory")
+        specialty = paper.get("specialty")
+        evidence = paper.get("taxonomy_evidence")
+        subcategory_meta = expected["tracks"].get(track, {}).get("subcategories", {}).get(subcategory)
+        if not subcategory_meta:
+            errors.append(f"{path_label}: unsupported level-2 taxonomy path")
+            continue
+        if specialty not in subcategory_meta["specialties"]:
+            errors.append(f"{path_label}: unsupported level-3 taxonomy path")
+        if not isinstance(evidence, str) or not evidence:
+            errors.append(f"{path_label}: missing taxonomy evidence")
+        elif evidence.split(":", 1)[0] not in {"title", "topic", "abstract", "fallback"}:
+            errors.append(f"{path_label}: unsupported taxonomy evidence source")
+        observed_level_2.add((track, subcategory))
+        general_count += specialty == GENERAL_SPECIALTY
+        fallback_count += evidence == "fallback"
+    if observed_level_2 != declared_level_2:
+        missing = sorted(declared_level_2 - observed_level_2)
+        errors.append(f"{label}: level-2 subfields without records: {missing}")
+    if papers and general_count / len(papers) > 0.65:
+        errors.append(f"{label}: more than 65% of papers lack named level-3 evidence")
+    return errors, {
+        "level_2_subfields": len(observed_level_2),
+        "named_level_3_specialties": expected["specialty_count"],
+        "general_cross_cutting_records": general_count,
+        "fallback_records": fallback_count,
+    }
+
+
 def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
     errors: list[str] = []
     papers = catalog.get("papers", [])
@@ -62,8 +117,8 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
     start = window.get("start")
     end = window.get("end")
 
-    if catalog.get("schema_version") != 3:
-        errors.append("schema_version must be 3")
+    if catalog.get("schema_version") != 4:
+        errors.append("schema_version must be 4")
     if not isinstance(start, int) or not isinstance(end, int) or start > end:
         errors.append("window must define a valid integer start/end")
     if not isinstance(papers, list) or not papers:
@@ -94,6 +149,7 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
     required = {
         "title", "year", "venue", "track", "topic", "paper_url",
         "official_url", "source_type", "discovery_source",
+        "subcategory", "specialty", "taxonomy_evidence",
     }
     for index, paper in enumerate(papers, start=1):
         label = f"paper {index}"
@@ -184,6 +240,8 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
             "research-workbench",
             "corpus-filters",
             "source-filters",
+            "subcategory-filters",
+            "specialty-filters",
             "saved-count",
             "export-markdown",
             "share-view",
@@ -193,7 +251,9 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
             "3,724 conference papers",
             "21,411 recent arXiv papers",
             "Direction coverage",
+            "Three-level taxonomy",
         ),
+        "papers/taxonomy/README.md": ("7 directions", "40 level-2 subfields", "160 named level-3 specialties"),
     }.items():
         text = (ROOT / relative).read_text(encoding="utf-8")
         for marker in markers:
@@ -201,7 +261,7 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
                 errors.append(f"{relative} missing catalog marker: {marker}")
 
     app = (ROOT / "assets" / "app.js").read_text(encoding="utf-8")
-    for marker in ("data/arxiv_recent.json", "combinedUniquePapers", "data-corpus"):
+    for marker in ("data/arxiv_recent.json", "combinedUniquePapers", "data-corpus", "subcategoryName", "specialtyName", "taxonomy_evidence"):
         if marker not in app:
             errors.append(f"assets/app.js missing dual-layer marker: {marker}")
 
@@ -223,6 +283,9 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
             for track in tracks
         },
     }
+    taxonomy_errors, taxonomy_stats = validate_taxonomy_layer(catalog, "conference")
+    errors.extend(taxonomy_errors)
+    stats["taxonomy"] = taxonomy_stats
     return errors, stats
 
 
@@ -232,8 +295,8 @@ def validate_arxiv(catalog: dict, arxiv: dict) -> tuple[list[str], dict[str, obj
     source = arxiv.get("source", {})
     window = arxiv.get("window", {})
     tracks = catalog.get("tracks", [])
-    if arxiv.get("schema_version") != 1:
-        errors.append("arXiv schema_version must be 1")
+    if arxiv.get("schema_version") != 2:
+        errors.append("arXiv schema_version must be 2")
     if window != {
         "start": "2024-01-01",
         "end": "2026-08-07",
@@ -275,7 +338,8 @@ def validate_arxiv(catalog: dict, arxiv: dict) -> tuple[list[str], dict[str, obj
     required = {
         "arxiv_id", "title", "authors", "published", "year", "venue", "track",
         "topic", "paper_url", "pdf_url", "official_url", "source_type",
-        "discovery_source", "primary_category",
+        "discovery_source", "primary_category", "subcategory", "specialty",
+        "taxonomy_evidence",
     }
     for index, paper in enumerate(papers, start=1):
         label = f"arXiv paper {index}"
@@ -325,6 +389,9 @@ def validate_arxiv(catalog: dict, arxiv: dict) -> tuple[list[str], dict[str, obj
         "arxiv_years": dict(sorted(year_counts.items())),
         "arxiv_tracks": dict(sorted(track_counts.items())),
     }
+    taxonomy_errors, taxonomy_stats = validate_taxonomy_layer(arxiv, "arXiv")
+    errors.extend(taxonomy_errors)
+    stats["arxiv_taxonomy"] = taxonomy_stats
     return errors, stats
 
 

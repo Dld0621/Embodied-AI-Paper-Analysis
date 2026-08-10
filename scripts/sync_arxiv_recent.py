@@ -28,6 +28,7 @@ from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
 
 from sync_conference_census import EXCLUDED_TERMS, TRACK_RULES, normalized_title
+from taxonomy import annotate_paper, hierarchy_counts, taxonomy_metadata
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -217,7 +218,7 @@ def parse_entry(entry: ET.Element) -> dict[str, Any] | None:
     primary = entry.find("arxiv:primary_category", NS)
     primary_category = primary.attrib.get("term", "") if primary is not None else ""
     abs_url = f"https://arxiv.org/abs/{arxiv_id}"
-    return {
+    return annotate_paper({
         "arxiv_id": arxiv_id,
         "title": title,
         "authors": [author for author in authors if author],
@@ -232,7 +233,7 @@ def parse_entry(entry: ET.Element) -> dict[str, Any] | None:
         "source_type": "arxiv",
         "discovery_source": "arXiv API cs.RO census",
         "primary_category": primary_category,
-    }
+    }, abstract)
 
 
 def save_cache(
@@ -341,6 +342,9 @@ def fetch_records(page_size: int, max_records: int | None = None) -> tuple[list[
 
 
 def build_payload(records: list[dict[str, Any]], candidate_count: int) -> dict[str, Any]:
+    for paper in records:
+        if not all(paper.get(field) for field in ("subcategory", "specialty", "taxonomy_evidence")):
+            annotate_paper(paper)
     conference = json.loads(CONFERENCE_PATH.read_text(encoding="utf-8"))
     conference_titles = {normalized_title(paper["title"]) for paper in conference["papers"]}
     arxiv_titles = [normalized_title(paper["title"]) for paper in records]
@@ -355,7 +359,7 @@ def build_payload(records: list[dict[str, Any]], candidate_count: int) -> dict[s
     track_counts = Counter(paper["track"] for paper in records)
     year_counts = Counter(paper["year"] for paper in records)
     return {
-        "schema_version": 1,
+        "schema_version": 2,
         "as_of": END_DATE,
         "window": {"start": START_DATE, "end": END_DATE, "years": [2024, 2025, 2026]},
         "scope": (
@@ -376,6 +380,8 @@ def build_payload(records: list[dict[str, Any]], candidate_count: int) -> dict[s
             "conference_unique_title_overlap": conference_unique_overlap,
             "arxiv_normalized_title_duplicates": arxiv_title_duplicates,
             "combined_unique_records": combined_unique_records,
+            "taxonomy_version": taxonomy_metadata()["version"],
+            "classification": "Level 1 uses the title/abstract admission rules in scripts/sync_arxiv_recent.py; levels 2 and 3 use scripts/taxonomy.py.",
             "classification": "Deterministic title/abstract taxonomy in scripts/sync_arxiv_recent.py",
             "taxonomy_version": 1,
             "snapshot_date": END_DATE,
@@ -383,6 +389,8 @@ def build_payload(records: list[dict[str, Any]], candidate_count: int) -> dict[s
             "year_counts": {str(year): count for year, count in sorted(year_counts.items())},
         },
         "tracks": conference["tracks"],
+        "taxonomy": taxonomy_metadata(),
+        "taxonomy_counts": hierarchy_counts(records),
         "papers": records,
     }
 

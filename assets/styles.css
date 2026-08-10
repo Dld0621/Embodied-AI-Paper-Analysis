@@ -193,6 +193,8 @@ kbd { padding: .1rem .32rem; border: 1px solid var(--line); border-radius: .28re
 .filter-chip[aria-pressed="true"] { border-color: color-mix(in srgb, var(--blue) 45%, var(--line)); background: var(--blue-soft); color: var(--blue); }
 .filter-chip small { color: var(--subtle); font-size: .53rem; font-weight: 680; }
 .filter-chip[aria-pressed="true"] small { color: currentColor; }
+.filter-hint { margin: 0; padding: .65rem .7rem; border: 1px dashed var(--line); border-radius: .55rem; color: var(--subtle); font-size: .57rem; line-height: 1.45; }
+.taxonomy-filter legend { color: var(--blue); }
 
 .results-panel { min-width: 0; padding: 0 1.15rem 1.15rem; }
 .results-bar { display: flex; min-height: 4rem; align-items: center; justify-content: space-between; gap: 1rem; border-bottom: 1px solid var(--line); }
@@ -216,6 +218,8 @@ kbd { padding: .1rem .32rem; border: 1px solid var(--line); border-radius: .28re
 .paper-identity > a:hover strong { color: var(--blue); }
 .paper-identity > span { display: flex; min-width: 0; flex-wrap: wrap; align-items: center; gap: .35rem; margin-top: .35rem; overflow: hidden; color: var(--subtle); font-size: .56rem; text-overflow: ellipsis; white-space: nowrap; }
 .paper-identity i { font-style: normal; }
+.paper-identity > .paper-taxonomy { color: var(--blue); font-weight: 680; }
+.paper-identity > .paper-detail { margin-top: .22rem; }
 .paper-authors { overflow: hidden; text-overflow: ellipsis; }
 .paper-year, .paper-venue { color: var(--muted); font-size: .65rem; }
 .paper-venue strong { color: var(--ink); font-size: .64rem; }
@@ -257,6 +261,13 @@ kbd { padding: .1rem .32rem; border: 1px solid var(--line); border-radius: .28re
 .pipeline ol { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: .35rem; margin: .5rem 0 0; padding: 0; counter-reset: stage; list-style: none; }
 .pipeline li { position: relative; padding: .48rem; border-radius: .45rem; background: var(--surface); color: var(--muted); font-size: .55rem; line-height: 1.35; counter-increment: stage; }
 .pipeline li::before { content: "0" counter(stage); display: block; margin-bottom: .18rem; color: var(--blue); font-size: .48rem; font-weight: 800; }
+.direction-subfields { margin-top: .85rem; }
+.direction-subfields > span { color: var(--subtle); font-size: .52rem; font-weight: 780; letter-spacing: .09em; text-transform: uppercase; }
+.direction-subfields > div { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .35rem; margin-top: .5rem; }
+.direction-subfields button { display: flex; min-width: 0; align-items: center; justify-content: space-between; gap: .5rem; padding: .48rem .55rem; border: 1px solid var(--line); border-radius: .5rem; background: transparent; color: var(--muted); cursor: pointer; text-align: left; }
+.direction-subfields button:hover { border-color: color-mix(in srgb, var(--blue) 42%, var(--line)); background: var(--blue-soft); color: var(--blue); }
+.direction-subfields b { overflow: hidden; font-size: .55rem; font-weight: 660; line-height: 1.35; text-overflow: ellipsis; white-space: nowrap; }
+.direction-subfields small { flex: none; color: var(--subtle); font-size: .5rem; }
 .direction-actions { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .45rem; margin-top: .85rem; padding-top: .7rem; border-top: 1px solid var(--line); }
 .direction-actions button { display: flex; min-width: 0; align-items: center; justify-content: space-between; gap: .5rem; padding: .62rem .68rem; border: 1px solid var(--line); border-radius: .55rem; background: var(--surface-soft); color: var(--ink); cursor: pointer; font-size: .57rem; font-weight: 720; text-align: left; }
 .direction-actions button:hover { border-color: color-mix(in srgb, var(--blue) 42%, var(--line)); color: var(--blue); }
@@ -340,6 +351,7 @@ kbd { padding: .1rem .32rem; border: 1px solid var(--line); border-radius: .28re
   .direction-card { padding: 1.05rem; }
   .direction-card > p { min-height: 0; }
   .pipeline ol { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .direction-subfields > div { grid-template-columns: 1fr; }
   .direction-actions { grid-template-columns: 1fr; }
   .policy { grid-template-columns: 1fr; gap: 2.5rem; }
   .policy-copy { position: static; }

@@ -1,10 +1,16 @@
 # Embodied AI Conference Census · 具身智能顶会论文普查
 
-> 3,724 conference papers · 21,411 recent arXiv papers · 7 research directions · updated 2026-08-07
+> 3,724 conference papers · 21,411 recent arXiv papers · 7 directions · 40 subfields · 160 specialties · updated 2026-08-07
 
 这是一份按明确规则生成的系统性会议普查：固定顶会、年份、检索词、标题分类规则和排除项均可审计。它覆盖规则边界内的全部命中记录，但不把主观的“具身智能”包装成不存在争议的数学全集。
 
 This is a systematic conference census under explicit venue, year, query, title-taxonomy, and exclusion rules. It includes every record admitted by that reproducible boundary; it does not pretend that Embodied AI has a universally agreed semantic perimeter.
+
+## Three-level taxonomy · 三级研究分类
+
+Every record is organized as **research direction → subfield → specialty**. Open the [complete bilingual taxonomy](taxonomy/README.md), or use any subfield link to open the exact interactive view.
+
+每条记录均按**一级研究方向 → 二级子领域 → 三级专题**组织。可查看[完整双语分类图谱](taxonomy/README.md)，并从任一子领域直接进入对应交互视图。
 
 ## Coverage
 

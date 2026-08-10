@@ -1,10 +1,11 @@
 # Embodied AI Paper Analysis
 
-> 3,724 conference papers · 21,411 recent arXiv papers · 23,735 unique research records · 7 directions
+> 3,724 conference papers · 21,411 recent arXiv papers · 23,735 unique research records · 7 directions · 40 subfields · 160 specialties
 
 [![Conference](https://img.shields.io/badge/Conference%20census-3%2C724-111827?style=flat-square)](data/papers.json)
 [![arXiv](https://img.shields.io/badge/arXiv%202024--2026-21%2C411-b31b1b?style=flat-square)](data/arxiv_recent.json)
 [![Directions](https://img.shields.io/badge/Directions-7-2563eb?style=flat-square)](papers/README.md)
+[![Taxonomy](https://img.shields.io/badge/Taxonomy-7%20%E2%86%92%2040%20%E2%86%92%20160-0891b2?style=flat-square)](papers/taxonomy/README.md)
 [![Website](https://img.shields.io/badge/Research%20workbench-open-7c3aed?style=flat-square)](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-64748b?style=flat-square)](LICENSE)
 
@@ -20,6 +21,17 @@
 2. **近三年 arXiv 层**：对 2024-01-01 至 2026-08-07 的全部 27,597 条 `cs.RO` 候选执行确定性标题/摘要分类，七方向共纳入 21,411 篇。
 
 两个层级严格分开。arXiv 条目始终标记为预印本；即使它与顶会层标题相同，也不会被当成会议录用证据。合并工作台优先保留具有正式会议来源的记录，按归一化标题得到 23,735 条去重结果。
+
+### 三级研究分类
+
+全部论文均采用一条主要的 **一级方向 → 二级子领域 → 三级专题** 路径组织：
+
+- 7 个一级研究方向；
+- 40 个二级子领域；
+- 160 个明确三级专题；
+- 每个二级领域另设“综合与交叉研究”，只用于现有标题、主题或摘要不足以支持更细判断的记录。
+
+分类规则集中在 [`scripts/taxonomy.py`](scripts/taxonomy.py)，每条记录包含 `subcategory`、`specialty` 与 `taxonomy_evidence`。可直接浏览[完整中英双语分类图谱](papers/taxonomy/README.md)，或在首页按三级条件级联筛选。
 
 ### 七个方向
 
@@ -40,7 +52,7 @@
 - 顶会层是固定会议、年份、`robot` 检索词、标题分类和排除规则下的 **systematic conference census**。
 - arXiv 层从官方 [arXiv API](https://info.arxiv.org/help/api/user-manual.html) 收集完整 `cs.RO` 日期窗口，再使用公开词表进行标题/摘要分类。
 - 27,597 条候选中，21,411 条进入七方向，6,186 条未满足分类边界；所有数字均写入数据检索账本。
-- 医学、手术与康复类术语被明确排除；每篇论文只分配一个主方向。
+- 医学、手术与康复类术语被明确排除；每篇论文只分配一条主要三级路径。
 - “最全”指完整覆盖上述可复现边界，不代表学术界对“具身智能”存在无争议的语义全集。
 
 ### 科研工作台
@@ -48,7 +60,7 @@
 [在线工作台](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)支持：
 
 - 首页七方向直接进入顶会层、arXiv 层或合并去重层。
-- 标题、作者、主题、年份、会议、方向与来源层级联合检索。
+- 标题、作者、主题、年份、会议、一级方向、二级子领域、三级专题与来源层级联合检索。
 - 可分享 URL、本地阅读清单、Markdown / CSV 导出、中英文和深浅主题。
 - arXiv 作者与精确提交日期可见；顶会层缺失的作者信息不会被推测。
 
@@ -64,6 +76,12 @@ This repository is a two-layer research index for Embodied AI:
 2. A recent arXiv layer built from every `cs.RO` candidate submitted from 2024-01-01 through 2026-08-07: 27,597 candidates evaluated and 21,411 admitted by the published seven-direction taxonomy.
 
 The layers remain provenance-safe. An arXiv paper is a preprint, not evidence of conference acceptance. The combined workbench prefers formal conference records for normalized-title duplicates and exposes 23,735 unique records.
+
+### Three-level taxonomy
+
+Every paper receives one primary **direction → subfield → specialty** path: 7 level-1 directions, 40 level-2 subfields, and 160 named level-3 specialties. A scoped General / Cross-cutting leaf is retained when the available title, topic, or abstract does not support a narrower claim.
+
+The bilingual ontology is published in the [taxonomy map](papers/taxonomy/README.md). Each record exposes `subcategory`, `specialty`, and `taxonomy_evidence`; the homepage provides cascading filters and direct subfield entry.
 
 ### Operational boundary
 
@@ -89,15 +107,18 @@ The layers remain provenance-safe. An arXiv paper is a preprint, not evidence of
 │   ├── app.js                         # direction entry, corpus switching, search and exports
 │   └── styles.css                     # responsive research UI
 ├── data/
-│   ├── papers.json                    # schema v3 conference census + ledger
-│   └── arxiv_recent.json              # schema v1 recent-arXiv layer + ledger
+│   ├── papers.json                    # schema v4 conference census + three-level taxonomy
+│   └── arxiv_recent.json              # schema v2 recent-arXiv layer + three-level taxonomy
 ├── papers/
 │   ├── README.md                      # generated cross-layer overview
+│   ├── taxonomy/                      # bilingual 7 → 40 → 160 research map
 │   ├── tracks/                        # seven conference direction catalogs
 │   └── arxiv/                         # seven directions × three year indexes
 ├── scripts/
 │   ├── sync_conference_census.py      # conference discovery and classification
 │   ├── sync_arxiv_recent.py           # rate-limited, resumable arXiv synchronization
+│   ├── taxonomy.py                    # deterministic level-2/level-3 classifier
+│   ├── apply_taxonomy.py              # reproducible annotation migration/check
 │   ├── render_catalog.py              # deterministic split-catalog renderer
 │   └── audit_catalog.py               # schema, coverage, ledger and provenance audit
 └── tests/
@@ -109,6 +130,7 @@ The layers remain provenance-safe. An arXiv paper is a preprint, not evidence of
 ```bash
 python scripts/sync_conference_census.py
 python scripts/sync_arxiv_recent.py
+python scripts/apply_taxonomy.py --check
 python scripts/render_catalog.py
 python scripts/audit_catalog.py
 python scripts/render_catalog.py --check

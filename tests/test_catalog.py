@@ -78,7 +78,8 @@ class CatalogContractTests(unittest.TestCase):
             self.assertLessEqual(path.stat().st_size, 400000, str(path.relative_to(ROOT)))
 
     def test_rolling_five_year_window(self) -> None:
-        self.assertEqual(self.catalog["schema_version"], 3)
+        self.assertEqual(self.catalog["schema_version"], 4)
+        self.assertEqual(self.arxiv["schema_version"], 2)
         self.assertEqual(self.catalog["window"], {"start": 2022, "end": 2026})
         self.assertEqual({paper["year"] for paper in self.papers}, set(range(2022, 2027)))
 
@@ -89,6 +90,26 @@ class CatalogContractTests(unittest.TestCase):
         self.assertEqual(
             {paper["track"] for paper in self.papers}, set(self.catalog["tracks"])
         )
+
+    def test_three_level_taxonomy_contract(self) -> None:
+        taxonomy = self.catalog["taxonomy"]
+        self.assertEqual(taxonomy, self.arxiv["taxonomy"])
+        self.assertEqual(taxonomy["subcategory_count"], 40)
+        self.assertEqual(taxonomy["specialty_count"], 160)
+        declared_level_2 = {
+            (track, subcategory)
+            for track, track_meta in taxonomy["tracks"].items()
+            for subcategory in track_meta["subcategories"]
+        }
+        for layer in (self.papers, self.arxiv_papers):
+            observed_level_2 = {
+                (paper["track"], paper["subcategory"]) for paper in layer
+            }
+            self.assertEqual(observed_level_2, declared_level_2)
+            for paper in layer:
+                subcategory_meta = taxonomy["tracks"][paper["track"]]["subcategories"][paper["subcategory"]]
+                self.assertIn(paper["specialty"], subcategory_meta["specialties"])
+                self.assertTrue(paper["taxonomy_evidence"])
 
     def test_no_ambiguous_venue_labels(self) -> None:
         for paper in self.papers:
@@ -139,6 +160,8 @@ class CatalogContractTests(unittest.TestCase):
             'id="research-workbench"',
             'id="corpus-filters"',
             'id="source-filters"',
+            'id="subcategory-filters"',
+            'id="specialty-filters"',
             'id="saved-count"',
             'id="export-markdown"',
             'id="export-csv"',
@@ -149,6 +172,9 @@ class CatalogContractTests(unittest.TestCase):
             "data/arxiv_recent.json",
             "combinedUniquePapers",
             "data-corpus",
+            "subcategoryName",
+            "specialtyName",
+            "taxonomy_evidence",
             "URLSearchParams",
             "localStorage",
             "exportMarkdown",

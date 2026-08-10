@@ -8,6 +8,16 @@ How can robots acquire precise, robust manipulation skills from demonstrations a
 
 机器人如何从示范与交互中获得精确、稳健的操作技能？
 
+## Subfield coverage · 二级子领域覆盖
+
+| Level-2 subfield | Papers | Named level-3 specialties |
+|---|---:|---|
+| [Grasping & Object Interaction · 抓取与物体交互](../../../?corpus=arxiv&track=Manipulation%20%26%20Imitation&subcategory=Grasping%20%26%20Object%20Interaction#research-workbench) | 654 | Grasp Detection & Synthesis · 抓取检测与生成<br>Grasp Stability & Force Control · 抓取稳定性与力控制<br>Grippers, Suction & End-effectors · 夹爪、吸盘与末端执行器<br>Pick-place & Object Rearrangement · 拾放与物体重排 |
+| [Contact-rich & Deformable Manipulation · 接触丰富与可变形操作](../../../?corpus=arxiv&track=Manipulation%20%26%20Imitation&subcategory=Contact-rich%20%26%20Deformable%20Manipulation#research-workbench) | 534 | Insertion, Assembly & Precision Tasks · 插入、装配与精密任务<br>Pushing, Sliding & Non-prehensile Skills · 推、滑与非抓取技能<br>Tool Use & Articulated Objects · 工具使用与关节物体<br>Cloth, Rope & Soft Objects · 布料、绳索与软体物体 |
+| [Imitation & Demonstration Learning · 模仿与示范学习](../../../?corpus=arxiv&track=Manipulation%20%26%20Imitation&subcategory=Imitation%20%26%20Demonstration%20Learning#research-workbench) | 482 | Behavior Cloning & Sequence Modeling · 行为克隆与序列建模<br>Learning from Demonstration · 从示范中学习<br>One-shot, Few-shot & Skill Transfer · 单样本、少样本与技能迁移<br>Skill Discovery & Demonstration Segmentation · 技能发现与示范分段 |
+| [Manipulation Policy Learning · 操作策略学习](../../../?corpus=arxiv&track=Manipulation%20%26%20Imitation&subcategory=Manipulation%20Policy%20Learning#research-workbench) | 1,976 | Reinforcement & Offline RL · 强化学习与离线强化学习<br>Visuomotor & Closed-loop Policies · 视觉运动与闭环策略<br>Generative & Diffusion Policies · 生成式与扩散策略<br>Model-based Control & Trajectory Optimization · 基于模型的控制与轨迹优化 |
+| [Long-horizon & Mobile Manipulation · 长时程与移动操作](../../../?corpus=arxiv&track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation#research-workbench) | 171 | Long-horizon Task Execution · 长时程任务执行<br>Mobile Manipulation · 移动操作<br>Task-and-motion Planning · 任务与运动规划<br>Household, Industrial & Open-world Tasks · 家居、工业与开放世界任务 |
+
 ## Year indexes · 年份索引
 
 | Year | Papers | Complete list |

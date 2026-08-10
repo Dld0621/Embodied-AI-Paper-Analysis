@@ -26,6 +26,8 @@ jobs:
           python-version: "3.12"
       - name: Audit curated catalog
         run: python scripts/audit_catalog.py
+      - name: Check three-level taxonomy annotations
+        run: python scripts/apply_taxonomy.py --check
       - name: Check generated catalog
         run: python scripts/render_catalog.py --check
       - name: Check repository links

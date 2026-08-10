@@ -23,6 +23,8 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
+from taxonomy import annotate_paper, hierarchy_counts, taxonomy_metadata
+
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG_PATH = ROOT / "data" / "papers.json"
@@ -258,7 +260,7 @@ def build_catalog(catalog: dict[str, Any]) -> tuple[dict[str, Any], dict[str, in
                 continue
             track, topic = classification
             paper_url, source_url, source_type = online_links(record)
-            paper = {
+            paper = annotate_paper({
                 "title": title,
                 "year": year,
                 "venue": venue,
@@ -268,7 +270,7 @@ def build_catalog(catalog: dict[str, Any]) -> tuple[dict[str, Any], dict[str, in
                 "official_url": source_url,
                 "source_type": source_type,
                 "discovery_source": "Semantic Scholar bulk API",
-            }
+            }, record.get("abstract") or "")
             by_title[key] = paper
             stats["added"] += 1
             venue_added += 1
@@ -278,6 +280,9 @@ def build_catalog(catalog: dict[str, Any]) -> tuple[dict[str, Any], dict[str, in
             "new_records": venue_added,
         }
 
+    for paper in by_title.values():
+        if not all(paper.get(field) for field in ("subcategory", "specialty", "taxonomy_evidence")):
+            annotate_paper(paper)
     papers = sorted(
         by_title.values(),
         key=lambda paper: (-paper["year"], paper["track"], paper["venue"], paper["title"].casefold()),
@@ -287,7 +292,7 @@ def build_catalog(catalog: dict[str, Any]) -> tuple[dict[str, Any], dict[str, in
         venue_discovery[venue]["included_records"] = included_by_venue[venue]
     catalog.update(
         {
-            "schema_version": 3,
+            "schema_version": 4,
             "scope": (
                 "Systematic conference census under the repository's explicit venue, year, "
                 "Embodied AI keyword, and exclusion rules; semantically bounded rather than universal."
@@ -295,12 +300,14 @@ def build_catalog(catalog: dict[str, Any]) -> tuple[dict[str, Any], dict[str, in
             "census": {
                 "discovery_source": "Semantic Scholar bulk search API",
                 "query": "robot",
-                "classification": "Deterministic title taxonomy with title/abstract medical exclusions in scripts/sync_conference_census.py",
-                "taxonomy_version": 1,
+                "classification": "Level 1 uses the title/abstract admission rules in scripts/sync_conference_census.py; levels 2 and 3 use scripts/taxonomy.py.",
+                "taxonomy_version": taxonomy_metadata()["version"],
                 "seed_policy": "Hand-verified records override discovered duplicates",
                 "snapshot_date": catalog["as_of"],
                 "venue_discovery": venue_discovery,
             },
+            "taxonomy": taxonomy_metadata(),
+            "taxonomy_counts": hierarchy_counts(papers),
             "papers": papers,
         }
     )

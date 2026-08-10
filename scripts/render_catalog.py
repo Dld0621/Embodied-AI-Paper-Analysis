@@ -9,6 +9,7 @@ import re
 import sys
 from collections import Counter
 from pathlib import Path
+from urllib.parse import quote
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -17,6 +18,7 @@ ARXIV_PATH = ROOT / "data" / "arxiv_recent.json"
 PAPERS_DIR = ROOT / "papers"
 TRACK_DIR = PAPERS_DIR / "tracks"
 ARXIV_DIR = PAPERS_DIR / "arxiv"
+TAXONOMY_DIR = PAPERS_DIR / "taxonomy"
 
 
 def slugify(value: str) -> str:
@@ -36,6 +38,72 @@ def source_label(paper: dict) -> str:
     }[paper["source_type"]]
 
 
+def taxonomy_subcategories(catalog: dict, track: str) -> dict:
+    return catalog["taxonomy"]["tracks"][track]["subcategories"]
+
+
+def specialty_list(subcategory_meta: dict) -> str:
+    specialties = [
+        f"{name} · {meta['name_zh']}"
+        for name, meta in subcategory_meta["specialties"].items()
+        if name != "General / Cross-cutting"
+    ]
+    return "<br>".join(escape_cell(item) for item in specialties)
+
+
+def render_taxonomy(catalog: dict, arxiv: dict) -> str:
+    conference = catalog["papers"]
+    preprints = arxiv["papers"]
+    taxonomy = catalog["taxonomy"]
+    lines = [
+        "# Three-level Research Taxonomy · 三级研究分类",
+        "",
+        "[← Paper index](../README.md) · [Interactive workbench](../../#research-workbench)",
+        "",
+        f"> 7 directions · {taxonomy['subcategory_count']} level-2 subfields · {taxonomy['specialty_count']} named level-3 specialties",
+        "",
+        "Every paper receives one primary `direction → subfield → specialty` path. Classification is deterministic and evidence-bearing. When the stored title, topic, or abstract does not justify a named level-3 topic, the record remains **General / Cross-cutting · 综合与交叉研究** instead of receiving false precision.",
+        "",
+        "每篇论文只有一条主要“一级方向 → 二级子领域 → 三级专题”路径。分类规则确定且保留证据；若现有标题、主题或摘要不足以支持具体三级专题，则诚实保留为“综合与交叉研究”，避免虚假精细化。",
+        "",
+    ]
+    for track in catalog["tracks"]:
+        meta = catalog["track_meta"][track]
+        lines.extend([
+            f"## {track} · {meta['name_zh']}",
+            "",
+            "| Level-2 subfield · 二级子领域 | Conference | arXiv | Named level-3 specialties · 三级专题 |",
+            "|---|---:|---:|---|",
+        ])
+        for subcategory, subcategory_meta in taxonomy_subcategories(catalog, track).items():
+            conference_count = sum(
+                paper["track"] == track and paper["subcategory"] == subcategory
+                for paper in conference
+            )
+            arxiv_count = sum(
+                paper["track"] == track and paper["subcategory"] == subcategory
+                for paper in preprints
+            )
+            params = f"track={quote(track)}&subcategory={quote(subcategory)}"
+            name = f"[{subcategory} · {subcategory_meta['name_zh']}](../../?{params}#research-workbench)"
+            lines.append(
+                f"| {name} | {conference_count:,} | {arxiv_count:,} | {specialty_list(subcategory_meta)} |"
+            )
+        lines.append("")
+    lines.extend([
+        "## Classification contract · 分类契约",
+        "",
+        "- Level 1 follows each corpus layer's published admission rules.",
+        "- Levels 2 and 3 use weighted title, topic, and abstract terms in [`scripts/taxonomy.py`](../../scripts/taxonomy.py).",
+        "- `taxonomy_evidence` records the strongest source location and matched phrase for each paper.",
+        "- Conference records and arXiv preprints remain separate provenance layers.",
+        "",
+        "Generated from [`data/papers.json`](../../data/papers.json) and [`data/arxiv_recent.json`](../../data/arxiv_recent.json).",
+        "",
+    ])
+    return "\n".join(lines)
+
+
 def render_overview(catalog: dict, arxiv: dict) -> str:
     papers = catalog["papers"]
     arxiv_papers = arxiv["papers"]
@@ -46,11 +114,17 @@ def render_overview(catalog: dict, arxiv: dict) -> str:
     lines = [
         "# Embodied AI Conference Census · 具身智能顶会论文普查",
         "",
-        f"> {len(papers):,} conference papers · {len(arxiv_papers):,} recent arXiv papers · 7 research directions · updated {catalog['as_of']}",
+        f"> {len(papers):,} conference papers · {len(arxiv_papers):,} recent arXiv papers · 7 directions · {catalog['taxonomy']['subcategory_count']} subfields · {catalog['taxonomy']['specialty_count']} specialties · updated {catalog['as_of']}",
         "",
         "这是一份按明确规则生成的系统性会议普查：固定顶会、年份、检索词、标题分类规则和排除项均可审计。它覆盖规则边界内的全部命中记录，但不把主观的“具身智能”包装成不存在争议的数学全集。",
         "",
         "This is a systematic conference census under explicit venue, year, query, title-taxonomy, and exclusion rules. It includes every record admitted by that reproducible boundary; it does not pretend that Embodied AI has a universally agreed semantic perimeter.",
+        "",
+        "## Three-level taxonomy · 三级研究分类",
+        "",
+        "Every record is organized as **research direction → subfield → specialty**. Open the [complete bilingual taxonomy](taxonomy/README.md), or use any subfield link to open the exact interactive view.",
+        "",
+        "每条记录均按**一级研究方向 → 二级子领域 → 三级专题**组织。可查看[完整双语分类图谱](taxonomy/README.md)，并从任一子领域直接进入对应交互视图。",
         "",
         "## Coverage",
         "",
@@ -152,14 +226,29 @@ def render_track(catalog: dict, arxiv: dict, track: str) -> str:
         "",
         f"**Recent arXiv layer:** [{len(arxiv_papers):,} papers from 2024–2026]({arxiv_path})",
     ]
+    lines.extend([
+        "",
+        "## Subfield map · 二级子领域",
+        "",
+        "| Level-2 subfield | Conference | arXiv | Named level-3 specialties |",
+        "|---|---:|---:|---|",
+    ])
+    for subcategory, subcategory_meta in taxonomy_subcategories(catalog, track).items():
+        conference_count = sum(paper["subcategory"] == subcategory for paper in papers)
+        arxiv_count = sum(paper["subcategory"] == subcategory for paper in arxiv_papers)
+        params = f"track={quote(track)}&subcategory={quote(subcategory)}"
+        name = f"[{subcategory} · {subcategory_meta['name_zh']}](../../?{params}#research-workbench)"
+        lines.append(
+            f"| {name} | {conference_count:,} | {arxiv_count:,} | {specialty_list(subcategory_meta)} |"
+        )
     for year in range(catalog["window"]["end"], catalog["window"]["start"] - 1, -1):
         year_papers = [paper for paper in papers if paper["year"] == year]
         lines.extend([
             "",
             f"## {year} ({len(year_papers):,})",
             "",
-            "| Paper | Venue / topic | Online links |",
-            "|---|---|---|",
+            "| Paper | Venue | Subfield → specialty | Online links |",
+            "|---|---|---|---|",
         ])
         for paper in year_papers:
             links = [
@@ -169,7 +258,7 @@ def render_track(catalog: dict, arxiv: dict, track: str) -> str:
             if paper.get("code_url"):
                 links.append(f"[Code]({paper['code_url']})")
             lines.append(
-                f"| {escape_cell(paper['title'])} | {paper['venue']} · {escape_cell(paper['topic'])} | {' · '.join(links)} |"
+                f"| {escape_cell(paper['title'])} | {paper['venue']} | {escape_cell(paper['subcategory'])} → {escape_cell(paper['specialty'])} | {' · '.join(links)} |"
             )
     lines.extend([
         "",
@@ -203,11 +292,25 @@ def render_arxiv_track(catalog: dict, arxiv: dict, track: str) -> str:
         "",
         meta["question_zh"],
         "",
+        "## Subfield coverage · 二级子领域覆盖",
+        "",
+        "| Level-2 subfield | Papers | Named level-3 specialties |",
+        "|---|---:|---|",
+    ]
+    for subcategory, subcategory_meta in taxonomy_subcategories(catalog, track).items():
+        subfield_count = sum(paper["subcategory"] == subcategory for paper in papers)
+        params = f"corpus=arxiv&track={quote(track)}&subcategory={quote(subcategory)}"
+        name = f"[{subcategory} · {subcategory_meta['name_zh']}](../../../?{params}#research-workbench)"
+        lines.append(
+            f"| {name} | {subfield_count:,} | {specialty_list(subcategory_meta)} |"
+        )
+    lines.extend([
+        "",
         "## Year indexes · 年份索引",
         "",
         "| Year | Papers | Complete list |",
         "|---:|---:|---|",
-    ]
+    ])
     for year in (2026, 2025, 2024):
         lines.append(f"| {year} | {year_counts[year]:,} | [Open](./{year}.md) |")
     lines.extend([
@@ -230,6 +333,7 @@ def render_arxiv_year(
     year: int,
     selected_papers: list[dict] | None = None,
     period: str | None = None,
+    include_authors: bool = True,
 ) -> str:
     papers = sorted(
         selected_papers
@@ -248,13 +352,28 @@ def render_arxiv_year(
         "",
         f"> {len(papers):,} papers · official arXiv links · snapshot {arxiv['as_of']}",
         "",
-        "| Paper | Authors | Date / topic | Links |",
-        "|---|---|---|---|",
     ]
+    if include_authors:
+        lines.extend([
+            "| Paper | Authors | Date | Subfield → specialty | Links |",
+            "|---|---|---|---|---|",
+        ])
+    else:
+        lines.extend([
+            "| Paper | Date | Subfield → specialty | Links |",
+            "|---|---|---|---|",
+        ])
     for paper in papers:
-        lines.append(
-            f"| {escape_cell(paper['title'])} | {display_authors(paper['authors'])} | {paper['published']} · {escape_cell(paper['topic'])} | [Abstract]({paper['paper_url']}) · [PDF]({paper['pdf_url']}) |"
-        )
+        taxonomy = f"{escape_cell(paper['subcategory'])} → {escape_cell(paper['specialty'])}"
+        links = f"[Abstract]({paper['paper_url']}) · [PDF]({paper['pdf_url']})"
+        if include_authors:
+            lines.append(
+                f"| {escape_cell(paper['title'])} | {display_authors(paper['authors'])} | {paper['published']} | {taxonomy} | {links} |"
+            )
+        else:
+            lines.append(
+                f"| {escape_cell(paper['title'])} | {paper['published']} | {taxonomy} | {links} |"
+            )
     lines.extend([
         "",
         "---",
@@ -293,7 +412,10 @@ def render_arxiv_year_index(
 def render_outputs() -> dict[Path, str]:
     catalog = json.loads(DATA_PATH.read_text(encoding="utf-8"))
     arxiv = json.loads(ARXIV_PATH.read_text(encoding="utf-8"))
-    outputs = {PAPERS_DIR / "README.md": render_overview(catalog, arxiv)}
+    outputs = {
+        PAPERS_DIR / "README.md": render_overview(catalog, arxiv),
+        TAXONOMY_DIR / "README.md": render_taxonomy(catalog, arxiv),
+    }
     for track in catalog["tracks"]:
         slug = slugify(track)
         outputs[TRACK_DIR / f"{slug}.md"] = render_track(catalog, arxiv, track)
@@ -316,7 +438,7 @@ def render_outputs() -> dict[Path, str]:
             outputs[year_path] = render_arxiv_year_index(arxiv, track, year, halves)
             for period, papers in halves:
                 outputs[ARXIV_DIR / slug / f"{year}-{period.casefold()}.md"] = render_arxiv_year(
-                    arxiv, track, year, papers, f"{year} {period}"
+                    arxiv, track, year, papers, f"{year} {period}", include_authors=False
                 )
     return outputs
 

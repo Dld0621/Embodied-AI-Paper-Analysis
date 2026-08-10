@@ -12,14 +12,14 @@ A core paper must meet every requirement:
 - supported by an official, publisher, or explicitly labeled bibliographic source;
 - linked through HTTPS in both `paper_url` and `official_url`;
 - labeled with `source_type` and `discovery_source`;
-- assigned to exactly one venue, one research track, and one concise topic;
+- assigned to exactly one venue and one auditable `track → subcategory → specialty` path;
 - not already present under another spelling.
 
 Do not add workshop-only, withdrawn, under-review, or arXiv-only papers to the conference catalog. Preprints belong only in `data/arxiv_recent.json`; the interface never presents them as conference acceptances.
 
 ## Catalog workflow
 
-1. For bulk coverage changes, edit the auditable venue, taxonomy, or exclusion rules in `scripts/sync_conference_census.py`.
+1. For bulk coverage changes, edit the venue/admission rules in `scripts/sync_conference_census.py` or the level-2/level-3 rules in `scripts/taxonomy.py`.
 2. Rebuild the conference snapshot:
 
    ```bash
@@ -46,6 +46,7 @@ Do not add workshop-only, withdrawn, under-review, or arXiv-only papers to the c
 8. Run all repository checks:
 
    ```bash
+   python scripts/apply_taxonomy.py --check
    python scripts/audit_catalog.py
    python scripts/render_catalog.py --check
    python scripts/check_local_links.py
@@ -69,5 +70,5 @@ Do not convert simulation, offline metrics, or visualization results into real-r
 - Explain why the paper belongs inside the published census boundary.
 - Explain whether the source is official, publisher, or bibliographic.
 - For arXiv changes, report the query window, total candidates, admitted records, unclassified records, and conference-title overlap.
-- For taxonomy changes, report how many records move into and out of every affected direction.
+- For taxonomy changes, report how many records move into and out of every affected direction, subfield, and specialty, plus any change to the General / Cross-cutting rate.
 - Do not commit downloaded PDFs or large generated assets.
