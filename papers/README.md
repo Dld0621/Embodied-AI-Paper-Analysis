@@ -8,9 +8,9 @@ This is a systematic conference census under explicit venue, year, query, title-
 
 ## Three-level taxonomy · 三级研究分类
 
-Every record is organized as **research direction → subfield → specialty**. Open the [complete bilingual taxonomy](taxonomy/README.md), or use any subfield link to open the exact interactive view.
+Every record is organized as **research direction → subfield → specialty**. Open the [complete bilingual taxonomy and 200 leaf paper catalogs](taxonomy/README.md), or use any subfield link to open the exact interactive view.
 
-每条记录均按**一级研究方向 → 二级子领域 → 三级专题**组织。可查看[完整双语分类图谱](taxonomy/README.md)，并从任一子领域直接进入对应交互视图。
+每条记录均按**一级研究方向 → 二级子领域 → 三级专题**组织。可查看[完整双语分类图谱与 200 个最细论文目录](taxonomy/README.md)，并从任一子领域直接进入对应交互视图。
 
 ## Coverage
 

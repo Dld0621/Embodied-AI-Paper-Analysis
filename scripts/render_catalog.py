@@ -19,6 +19,7 @@ PAPERS_DIR = ROOT / "papers"
 TRACK_DIR = PAPERS_DIR / "tracks"
 ARXIV_DIR = PAPERS_DIR / "arxiv"
 TAXONOMY_DIR = PAPERS_DIR / "taxonomy"
+MAX_RENDER_BYTES = 390_000
 
 
 def slugify(value: str) -> str:
@@ -42,13 +43,343 @@ def taxonomy_subcategories(catalog: dict, track: str) -> dict:
     return catalog["taxonomy"]["tracks"][track]["subcategories"]
 
 
-def specialty_list(subcategory_meta: dict) -> str:
-    specialties = [
-        f"{name} · {meta['name_zh']}"
-        for name, meta in subcategory_meta["specialties"].items()
-        if name != "General / Cross-cutting"
+def taxonomy_leaf_path(
+    track: str, subcategory: str, specialty: str, prefix: str = ""
+) -> str:
+    return (
+        f"{prefix}{slugify(track)}/{slugify(subcategory)}/"
+        f"{slugify(specialty)}/README.md"
+    )
+
+
+def taxonomy_query(track: str, subcategory: str, specialty: str) -> str:
+    return (
+        f"track={quote(track)}&subcategory={quote(subcategory)}&"
+        f"specialty={quote(specialty)}"
+    )
+
+
+def specialty_list(
+    track: str,
+    subcategory: str,
+    subcategory_meta: dict,
+    conference_papers: list[dict],
+    arxiv_papers: list[dict],
+    prefix: str = "",
+) -> str:
+    rendered: list[str] = []
+    for specialty, specialty_meta in subcategory_meta["specialties"].items():
+        conference_count = sum(
+            paper["track"] == track
+            and paper["subcategory"] == subcategory
+            and paper["specialty"] == specialty
+            for paper in conference_papers
+        )
+        arxiv_count = sum(
+            paper["track"] == track
+            and paper["subcategory"] == subcategory
+            and paper["specialty"] == specialty
+            for paper in arxiv_papers
+        )
+        path = taxonomy_leaf_path(track, subcategory, specialty, prefix)
+        label = escape_cell(f"{specialty} · {specialty_meta['name_zh']}")
+        rendered.append(
+            f"[{label}]({path}) — C {conference_count:,} · A {arxiv_count:,}"
+        )
+    return "<br>".join(rendered)
+
+
+def taxonomy_leaf_header(
+    catalog: dict,
+    track: str,
+    subcategory: str,
+    specialty: str,
+    conference_count: int,
+    arxiv_count: int,
+) -> list[str]:
+    track_zh = catalog["track_meta"][track]["name_zh"]
+    subcategory_meta = taxonomy_subcategories(catalog, track)[subcategory]
+    specialty_meta = subcategory_meta["specialties"][specialty]
+    query = taxonomy_query(track, subcategory, specialty)
+    return [
+        f"# {specialty} · {specialty_meta['name_zh']}",
+        "",
+        "[← Three-level taxonomy](../../../README.md)"
+        f" · [Interactive workbench](../../../../../?{query}#research-workbench)",
+        "",
+        f"> {conference_count:,} conference papers · {arxiv_count:,} recent arXiv papers",
+        "",
+        "| Level | Classification |",
+        "|---|---|",
+        f"| 1 · Direction | {escape_cell(track)} · {escape_cell(track_zh)} |",
+        f"| 2 · Subfield | {escape_cell(subcategory)} · {escape_cell(subcategory_meta['name_zh'])} |",
+        f"| 3 · Specialty | {escape_cell(specialty)} · {escape_cell(specialty_meta['name_zh'])} |",
+        "",
+        "Conference records and arXiv preprints remain separate provenance layers. "
+        "Every paper below is assigned to this single primary taxonomy path.",
+        "",
+        "顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。",
+        "",
     ]
-    return "<br>".join(escape_cell(item) for item in specialties)
+
+
+def render_leaf_conference_rows(papers: list[dict]) -> list[str]:
+    if not papers:
+        return ["No conference papers currently map to this specialty.", ""]
+    lines = [
+        "| Year | Paper | Venue / topic | Online links |",
+        "|---:|---|---|---|",
+    ]
+    for paper in sorted(
+        papers,
+        key=lambda item: (-item["year"], item["venue"], item["title"].casefold()),
+    ):
+        links = [
+            f"[Paper]({paper['paper_url']})",
+            f"[{source_label(paper)}]({paper['official_url']})",
+        ]
+        if paper.get("code_url"):
+            links.append(f"[Code]({paper['code_url']})")
+        lines.append(
+            f"| {paper['year']} | {escape_cell(paper['title'])} | "
+            f"{paper['venue']} · {escape_cell(paper['topic'])} | {' · '.join(links)} |"
+        )
+    lines.append("")
+    return lines
+
+
+def render_leaf_arxiv_rows(papers: list[dict]) -> list[str]:
+    if not papers:
+        return ["No recent arXiv papers currently map to this specialty.", ""]
+    lines = [
+        "| Date | Paper | Authors | Online links |",
+        "|---|---|---|---|",
+    ]
+    for paper in sorted(
+        papers,
+        key=lambda item: (item["published"], item["title"].casefold()),
+        reverse=True,
+    ):
+        lines.append(
+            f"| {paper['published']} | {escape_cell(paper['title'])} | "
+            f"{display_authors(paper['authors'], limit=4)} | "
+            f"[Abstract]({paper['paper_url']}) · [PDF]({paper['pdf_url']}) |"
+        )
+    lines.append("")
+    return lines
+
+
+def render_taxonomy_leaf_full(
+    catalog: dict,
+    track: str,
+    subcategory: str,
+    specialty: str,
+    conference_papers: list[dict],
+    arxiv_papers: list[dict],
+) -> str:
+    lines = taxonomy_leaf_header(
+        catalog,
+        track,
+        subcategory,
+        specialty,
+        len(conference_papers),
+        len(arxiv_papers),
+    )
+    lines.extend([
+        f"## Conference papers ({len(conference_papers):,})",
+        "",
+    ])
+    lines.extend(render_leaf_conference_rows(conference_papers))
+    lines.extend([
+        f"## Recent arXiv papers ({len(arxiv_papers):,})",
+        "",
+    ])
+    lines.extend(render_leaf_arxiv_rows(arxiv_papers))
+    lines.extend([
+        "---",
+        "",
+        "Generated from the repository's audited conference and arXiv data layers.",
+        "",
+    ])
+    return "\n".join(lines)
+
+
+def render_taxonomy_leaf_partition(
+    catalog: dict,
+    track: str,
+    subcategory: str,
+    specialty: str,
+    layer: str,
+    period: str,
+    papers: list[dict],
+    part_label: str = "",
+) -> str:
+    specialty_meta = taxonomy_subcategories(catalog, track)[subcategory]["specialties"][specialty]
+    suffix = f" · {part_label}" if part_label else ""
+    lines = [
+        f"# {specialty} · {specialty_meta['name_zh']} · {layer} {period}{suffix}",
+        "",
+        "[← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)",
+        "",
+        f"> {len(papers):,} papers · complete list for this taxonomy leaf",
+        "",
+    ]
+    if layer == "Conference":
+        lines.extend(render_leaf_conference_rows(papers))
+    else:
+        lines.extend(render_leaf_arxiv_rows(papers))
+    return "\n".join(lines)
+
+
+def partition_leaf_page(
+    catalog: dict,
+    track: str,
+    subcategory: str,
+    specialty: str,
+    layer: str,
+    period: str,
+    papers: list[dict],
+) -> list[tuple[str, str, list[dict], str]]:
+    chunks = [papers]
+    while True:
+        next_chunks: list[list[dict]] = []
+        changed = False
+        for chunk in chunks:
+            preview = render_taxonomy_leaf_partition(
+                catalog, track, subcategory, specialty, layer, period, chunk
+            )
+            if len(preview.encode("utf-8")) > MAX_RENDER_BYTES and len(chunk) > 1:
+                midpoint = len(chunk) // 2
+                next_chunks.extend((chunk[:midpoint], chunk[midpoint:]))
+                changed = True
+            else:
+                next_chunks.append(chunk)
+        chunks = next_chunks
+        if not changed:
+            break
+
+    stem = f"{layer.casefold()}-{slugify(period)}"
+    rendered_pages: list[tuple[str, str, list[dict], str]] = []
+    for index, chunk in enumerate(chunks, start=1):
+        part_label = f"Part {index}" if len(chunks) > 1 else ""
+        filename = f"{stem}-part-{index}.md" if part_label else f"{stem}.md"
+        display = f"{layer} {period}" + (f" · {part_label}" if part_label else "")
+        rendered = render_taxonomy_leaf_partition(
+            catalog,
+            track,
+            subcategory,
+            specialty,
+            layer,
+            period,
+            chunk,
+            part_label,
+        )
+        if len(rendered.encode("utf-8")) > MAX_RENDER_BYTES:
+            raise ValueError(f"Taxonomy leaf page remains too large: {filename}")
+        rendered_pages.append((filename, display, chunk, rendered))
+    return rendered_pages
+
+
+def render_taxonomy_leaf_index(
+    catalog: dict,
+    track: str,
+    subcategory: str,
+    specialty: str,
+    conference_count: int,
+    arxiv_count: int,
+    partitions: list[tuple[str, str, int]],
+) -> str:
+    lines = taxonomy_leaf_header(
+        catalog,
+        track,
+        subcategory,
+        specialty,
+        conference_count,
+        arxiv_count,
+    )
+    lines.extend([
+        "This high-volume specialty is split into smaller complete lists so every page remains reliably renderable on GitHub.",
+        "",
+        "该专题论文较多，已拆分为多个完整列表，确保每个 GitHub 页面均可稳定渲染。",
+        "",
+        "## Complete paper lists · 完整论文列表",
+        "",
+        "| Layer / period | Papers | List |",
+        "|---|---:|---|",
+    ])
+    for filename, display, count in partitions:
+        lines.append(f"| {display} | {count:,} | [Open](./{filename}) |")
+    lines.append("")
+    return "\n".join(lines)
+
+
+def render_taxonomy_leaf_outputs(catalog: dict, arxiv: dict) -> dict[Path, str]:
+    outputs: dict[Path, str] = {}
+    for track in catalog["tracks"]:
+        for subcategory, subcategory_meta in taxonomy_subcategories(catalog, track).items():
+            for specialty in subcategory_meta["specialties"]:
+                conference_papers = [
+                    paper
+                    for paper in catalog["papers"]
+                    if paper["track"] == track
+                    and paper["subcategory"] == subcategory
+                    and paper["specialty"] == specialty
+                ]
+                arxiv_papers = [
+                    paper
+                    for paper in arxiv["papers"]
+                    if paper["track"] == track
+                    and paper["subcategory"] == subcategory
+                    and paper["specialty"] == specialty
+                ]
+                leaf_dir = (
+                    TAXONOMY_DIR
+                    / slugify(track)
+                    / slugify(subcategory)
+                    / slugify(specialty)
+                )
+                full = render_taxonomy_leaf_full(
+                    catalog,
+                    track,
+                    subcategory,
+                    specialty,
+                    conference_papers,
+                    arxiv_papers,
+                )
+                if len(full.encode("utf-8")) <= MAX_RENDER_BYTES:
+                    outputs[leaf_dir / "README.md"] = full
+                    continue
+
+                partition_links: list[tuple[str, str, int]] = []
+                for layer, papers, years in (
+                    ("Conference", conference_papers, range(catalog["window"]["end"], catalog["window"]["start"] - 1, -1)),
+                    ("arXiv", arxiv_papers, (2026, 2025, 2024)),
+                ):
+                    for year in years:
+                        year_papers = [paper for paper in papers if paper["year"] == year]
+                        if not year_papers:
+                            continue
+                        for filename, display, chunk, rendered in partition_leaf_page(
+                            catalog,
+                            track,
+                            subcategory,
+                            specialty,
+                            layer,
+                            str(year),
+                            year_papers,
+                        ):
+                            outputs[leaf_dir / filename] = rendered
+                            partition_links.append((filename, display, len(chunk)))
+                outputs[leaf_dir / "README.md"] = render_taxonomy_leaf_index(
+                    catalog,
+                    track,
+                    subcategory,
+                    specialty,
+                    len(conference_papers),
+                    len(arxiv_papers),
+                    partition_links,
+                )
+    return outputs
 
 
 def render_taxonomy(catalog: dict, arxiv: dict) -> str:
@@ -60,11 +391,15 @@ def render_taxonomy(catalog: dict, arxiv: dict) -> str:
         "",
         "[← Paper index](../README.md) · [Interactive workbench](../../#research-workbench)",
         "",
-        f"> 7 directions · {taxonomy['subcategory_count']} level-2 subfields · {taxonomy['specialty_count']} named level-3 specialties",
+        f"> 7 directions · {taxonomy['subcategory_count']} level-2 subfields · {taxonomy['specialty_count']} named level-3 specialties · {taxonomy['specialty_count'] + taxonomy['fallback_specialty_count']} leaf paper catalogs",
         "",
         "Every paper receives one primary `direction → subfield → specialty` path. Classification is deterministic and evidence-bearing. When the stored title, topic, or abstract does not justify a named level-3 topic, the record remains **General / Cross-cutting · 综合与交叉研究** instead of receiving false precision.",
         "",
         "每篇论文只有一条主要“一级方向 → 二级子领域 → 三级专题”路径。分类规则确定且保留证据；若现有标题、主题或摘要不足以支持具体三级专题，则诚实保留为“综合与交叉研究”，避免虚假精细化。",
+        "",
+        "Every level-3 label below opens a leaf catalog containing all conference and arXiv papers assigned to that exact path.",
+        "",
+        "下方每个三级专题均可点击，并进入包含该路径下全部顶会与 arXiv 论文的最细目录。",
         "",
     ]
     for track in catalog["tracks"]:
@@ -72,7 +407,7 @@ def render_taxonomy(catalog: dict, arxiv: dict) -> str:
         lines.extend([
             f"## {track} · {meta['name_zh']}",
             "",
-            "| Level-2 subfield · 二级子领域 | Conference | arXiv | Named level-3 specialties · 三级专题 |",
+            "| Level-2 subfield · 二级子领域 | Conference | arXiv | Level-3 leaf catalogs · 三级论文目录 |",
             "|---|---:|---:|---|",
         ])
         for subcategory, subcategory_meta in taxonomy_subcategories(catalog, track).items():
@@ -87,7 +422,8 @@ def render_taxonomy(catalog: dict, arxiv: dict) -> str:
             params = f"track={quote(track)}&subcategory={quote(subcategory)}"
             name = f"[{subcategory} · {subcategory_meta['name_zh']}](../../?{params}#research-workbench)"
             lines.append(
-                f"| {name} | {conference_count:,} | {arxiv_count:,} | {specialty_list(subcategory_meta)} |"
+                f"| {name} | {conference_count:,} | {arxiv_count:,} | "
+                f"{specialty_list(track, subcategory, subcategory_meta, conference, preprints)} |"
             )
         lines.append("")
     lines.extend([
@@ -122,9 +458,9 @@ def render_overview(catalog: dict, arxiv: dict) -> str:
         "",
         "## Three-level taxonomy · 三级研究分类",
         "",
-        "Every record is organized as **research direction → subfield → specialty**. Open the [complete bilingual taxonomy](taxonomy/README.md), or use any subfield link to open the exact interactive view.",
+        "Every record is organized as **research direction → subfield → specialty**. Open the [complete bilingual taxonomy and 200 leaf paper catalogs](taxonomy/README.md), or use any subfield link to open the exact interactive view.",
         "",
-        "每条记录均按**一级研究方向 → 二级子领域 → 三级专题**组织。可查看[完整双语分类图谱](taxonomy/README.md)，并从任一子领域直接进入对应交互视图。",
+        "每条记录均按**一级研究方向 → 二级子领域 → 三级专题**组织。可查看[完整双语分类图谱与 200 个最细论文目录](taxonomy/README.md)，并从任一子领域直接进入对应交互视图。",
         "",
         "## Coverage",
         "",
@@ -230,7 +566,7 @@ def render_track(catalog: dict, arxiv: dict, track: str) -> str:
         "",
         "## Subfield map · 二级子领域",
         "",
-        "| Level-2 subfield | Conference | arXiv | Named level-3 specialties |",
+        "| Level-2 subfield | Conference | arXiv | Level-3 leaf catalogs |",
         "|---|---:|---:|---|",
     ])
     for subcategory, subcategory_meta in taxonomy_subcategories(catalog, track).items():
@@ -239,7 +575,8 @@ def render_track(catalog: dict, arxiv: dict, track: str) -> str:
         params = f"track={quote(track)}&subcategory={quote(subcategory)}"
         name = f"[{subcategory} · {subcategory_meta['name_zh']}](../../?{params}#research-workbench)"
         lines.append(
-            f"| {name} | {conference_count:,} | {arxiv_count:,} | {specialty_list(subcategory_meta)} |"
+            f"| {name} | {conference_count:,} | {arxiv_count:,} | "
+            f"{specialty_list(track, subcategory, subcategory_meta, papers, arxiv_papers, '../taxonomy/')} |"
         )
     for year in range(catalog["window"]["end"], catalog["window"]["start"] - 1, -1):
         year_papers = [paper for paper in papers if paper["year"] == year]
@@ -279,6 +616,9 @@ def display_authors(authors: list[str], limit: int = 6) -> str:
 def render_arxiv_track(catalog: dict, arxiv: dict, track: str) -> str:
     meta = catalog["track_meta"][track]
     papers = [paper for paper in arxiv["papers"] if paper["track"] == track]
+    conference_papers = [
+        paper for paper in catalog["papers"] if paper["track"] == track
+    ]
     year_counts = Counter(paper["year"] for paper in papers)
     slug = slugify(track)
     lines = [
@@ -294,7 +634,7 @@ def render_arxiv_track(catalog: dict, arxiv: dict, track: str) -> str:
         "",
         "## Subfield coverage · 二级子领域覆盖",
         "",
-        "| Level-2 subfield | Papers | Named level-3 specialties |",
+        "| Level-2 subfield | Papers | Level-3 leaf catalogs |",
         "|---|---:|---|",
     ]
     for subcategory, subcategory_meta in taxonomy_subcategories(catalog, track).items():
@@ -302,7 +642,8 @@ def render_arxiv_track(catalog: dict, arxiv: dict, track: str) -> str:
         params = f"corpus=arxiv&track={quote(track)}&subcategory={quote(subcategory)}"
         name = f"[{subcategory} · {subcategory_meta['name_zh']}](../../../?{params}#research-workbench)"
         lines.append(
-            f"| {name} | {subfield_count:,} | {specialty_list(subcategory_meta)} |"
+            f"| {name} | {subfield_count:,} | "
+            f"{specialty_list(track, subcategory, subcategory_meta, conference_papers, papers, '../../taxonomy/')} |"
         )
     lines.extend([
         "",
@@ -416,6 +757,7 @@ def render_outputs() -> dict[Path, str]:
         PAPERS_DIR / "README.md": render_overview(catalog, arxiv),
         TAXONOMY_DIR / "README.md": render_taxonomy(catalog, arxiv),
     }
+    outputs.update(render_taxonomy_leaf_outputs(catalog, arxiv))
     for track in catalog["tracks"]:
         slug = slugify(track)
         outputs[TRACK_DIR / f"{slug}.md"] = render_track(catalog, arxiv, track)
@@ -449,18 +791,46 @@ def main() -> int:
     args = parser.parse_args()
     outputs = render_outputs()
     stale = [path for path, rendered in outputs.items() if not path.exists() or path.read_text(encoding="utf-8") != rendered]
+    expected_taxonomy = {
+        path for path in outputs if path.is_relative_to(TAXONOMY_DIR)
+    }
+    extra_taxonomy = (
+        [
+            path
+            for path in TAXONOMY_DIR.rglob("*.md")
+            if path not in expected_taxonomy
+        ]
+        if TAXONOMY_DIR.exists()
+        else []
+    )
     if args.check:
-        if stale:
+        if stale or extra_taxonomy:
             print("Generated catalogs are stale:")
             for path in stale:
                 print(f"- {path.relative_to(ROOT)}")
+            for path in extra_taxonomy:
+                print(f"- unexpected {path.relative_to(ROOT)}")
             return 1
         print(f"Generated catalog is current ({len(outputs)} files).")
         return 0
     for path, rendered in outputs.items():
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(rendered, encoding="utf-8", newline="\n")
-        print(f"Rendered {path.relative_to(ROOT)}")
+    for path in extra_taxonomy:
+        path.unlink()
+    for directory in sorted(
+        (path for path in TAXONOMY_DIR.rglob("*") if path.is_dir()),
+        key=lambda path: len(path.parts),
+        reverse=True,
+    ):
+        try:
+            directory.rmdir()
+        except OSError:
+            pass
+    print(
+        f"Rendered {len(outputs)} files "
+        f"({len(expected_taxonomy) - 1} level-3 taxonomy pages)."
+    )
     return 0
 
 

@@ -1,0 +1,61 @@
+# Dynamics, MPC & Whole-body Optimization · 动力学、MPC 与全身优化
+
+[← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Balance%2C%20Dynamics%20%26%20Recovery&specialty=Dynamics%2C%20MPC%20%26%20Whole-body%20Optimization#research-workbench)
+
+> 5 conference papers · 27 recent arXiv papers
+
+| Level | Classification |
+|---|---|
+| 1 · Direction | Humanoids & Locomotion · 人形机器人与运动控制 |
+| 2 · Subfield | Balance, Dynamics & Recovery · 平衡、动力学与恢复 |
+| 3 · Specialty | Dynamics, MPC & Whole-body Optimization · 动力学、MPC 与全身优化 |
+
+Conference records and arXiv preprints remain separate provenance layers. Every paper below is assigned to this single primary taxonomy path.
+
+顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
+
+## Conference papers (5)
+
+| Year | Paper | Venue / topic | Online links |
+|---:|---|---|---|
+| 2025 | Kinodynamic Model Predictive Control for Energy Efficient Locomotion of Legged Robots with Parallel Elasticity | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2503.05666) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128416) |
+| 2025 | Thruster-Enhanced Locomotion: A Decoupled Model Predictive Control with Learned Contact Residuals | IROS · Locomotion | [Paper](https://arxiv.org/abs/2508.03003) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247214) |
+| 2024 | Adaptive Model Predictive Control with Data-driven Error Model for Quadrupedal Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2407.10124) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611302) |
+| 2024 | Robustifying Model-Based Locomotion by Zero-order Stochastic Nonlinear Model Predictive Control with Guard Saltation Matrix | IROS · Locomotion | [Paper](https://arxiv.org/abs/2403.14159) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801470) |
+| 2022 | A Linearization of Centroidal Dynamics for the Model-Predictive Control of Quadruped Robots | ICRA · Quadruped | [Paper](https://doi.org/10.1109/icra46639.2022.9812433) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812433) |
+
+## Recent arXiv papers (27)
+
+| Date | Paper | Authors | Online links |
+|---|---|---|---|
+| 2026-07-03 | Strouhal-Aware Model Predictive Control for Efficient Multi-Fin Flapping Locomotion | Yuya Hamamatsu, Zixi Chen, Maarja Kruusmaa, Asko Ristolainen | [Abstract](https://arxiv.org/abs/2607.03216) · [PDF](https://arxiv.org/pdf/2607.03216) |
+| 2026-06-23 | TurboMPC: Fast, Scalable, and Differentiable Model Predictive Control on the GPU | Gabriel Bravo-Palacios, Jianghan Zhang, Zachary Pestrikov, Brian Plancher et al. | [Abstract](https://arxiv.org/abs/2606.24039) · [PDF](https://arxiv.org/pdf/2606.24039) |
+| 2026-05-29 | Batched Differentiable Rigid Body Dynamics in PyTorch for GPU-Accelerated Robot Learning | Yue Wang, Yanran Xu, Wenbo Wu, Chuanhang Qiu et al. | [Abstract](https://arxiv.org/abs/2605.31481) · [PDF](https://arxiv.org/pdf/2605.31481) |
+| 2025-11-24 | Reference-Free Sampling-Based Model Predictive Control | Fabian Schramm, Pierre Fabre, Nicolas Perrin-Gilbert, Justin Carpentier | [Abstract](https://arxiv.org/abs/2511.19204) · [PDF](https://arxiv.org/pdf/2511.19204) |
+| 2025-11-03 | Stein-based Optimization of Sampling Distributions in Model Predictive Path Integral Control | Jace Aldrich, Odest Chadwicke Jenkins | [Abstract](https://arxiv.org/abs/2511.02015) · [PDF](https://arxiv.org/pdf/2511.02015) |
+| 2025-10-27 | Full-Dynamics Real-Time Nonlinear Model Predictive Control of Heavy-Duty Hydraulic Manipulator for Trajectory Tracking Tasks | Alvaro Paz, Mahdi Hejrati, Pauli Mustalahti, Jouni Mattila | [Abstract](https://arxiv.org/abs/2510.23386) · [PDF](https://arxiv.org/pdf/2510.23386) |
+| 2025-10-23 | Real-Time Gait Adaptation for Quadrupeds using Model Predictive Control and Reinforcement Learning | Prakrut Kotecha, Ganga Nair B, Shishir Kolathaya | [Abstract](https://arxiv.org/abs/2510.20706) · [PDF](https://arxiv.org/pdf/2510.20706) |
+| 2025-10-14 | Residual MPC: Blending Reinforcement Learning with GPU-Parallelized Model Predictive Control | Se Hwan Jeon, Ho Jae Lee, Seungwoo Hong, Sangbae Kim | [Abstract](https://arxiv.org/abs/2510.12717) · [PDF](https://arxiv.org/pdf/2510.12717) |
+| 2025-10-05 | Flexible Locomotion Learning with Diffusion Model Predictive Control | Runhan Huang, Haldun Balim, Heng Yang, Yilun Du | [Abstract](https://arxiv.org/abs/2510.04234) · [PDF](https://arxiv.org/pdf/2510.04234) |
+| 2025-08-18 | Adaptive Model-Predictive Control of a Soft Continuum Robot Using a Physics-Informed Neural Network Based on Cosserat Rod Theory | Johann Licher, Max Bartholdt, Henrik Krauss, Tim-Lukas Habich et al. | [Abstract](https://arxiv.org/abs/2508.12681) · [PDF](https://arxiv.org/pdf/2508.12681) |
+| 2025-08-17 | Semi-Infinite Programming for Collision-Avoidance in Optimal and Model Predictive Control | Yunfan Gao, Florian Messerer, Niels van Duijkeren, Rashmi Dabir et al. | [Abstract](https://arxiv.org/abs/2508.12335) · [PDF](https://arxiv.org/pdf/2508.12335) |
+| 2025-08-05 | Thruster-Enhanced Locomotion: A Decoupled Model Predictive Control with Learned Contact Residuals | Chenghao Wang, Alireza Ramezani | [Abstract](https://arxiv.org/abs/2508.03003) · [PDF](https://arxiv.org/pdf/2508.03003) |
+| 2025-07-17 | Humanoid Robot Acrobatics Utilizing Complete Articulated Rigid Body Dynamics | Gerald Brantner | [Abstract](https://arxiv.org/abs/2508.08258) · [PDF](https://arxiv.org/pdf/2508.08258) |
+| 2025-06-11 | Locomotion on Constrained Footholds via Layered Architectures and Model Predictive Control | Zachary Olkin, Aaron D. Ames | [Abstract](https://arxiv.org/abs/2506.09979) · [PDF](https://arxiv.org/pdf/2506.09979) |
+| 2025-04-25 | Robust Push Recovery on Bipedal Robots: Leveraging Multi-Domain Hybrid Systems with Reduced-Order Model Predictive Control | Min Dai, Aaron D. Ames | [Abstract](https://arxiv.org/abs/2504.18698) · [PDF](https://arxiv.org/pdf/2504.18698) |
+| 2025-03-20 | Ground and Flight Locomotion for Two-Wheeled Drones via Model Predictive Path Integral Control | Gosuke Kojima, Kohei Honda, Satoshi Nakano, Manabu Yamada | [Abstract](https://arxiv.org/abs/2503.16715) · [PDF](https://arxiv.org/pdf/2503.16715) |
+| 2025-03-13 | LP-MPPI: Low-Pass Filtering for Efficient Model Predictive Path Integral Control | Piotr Kicki | [Abstract](https://arxiv.org/abs/2503.11717) · [PDF](https://arxiv.org/pdf/2503.11717) |
+| 2025-03-07 | Kinodynamic Model Predictive Control for Energy Efficient Locomotion of Legged Robots with Parallel Elasticity | Yulun Zhuang, Yichen Wang, Yanran Ding | [Abstract](https://arxiv.org/abs/2503.05666) · [PDF](https://arxiv.org/pdf/2503.05666) |
+| 2024-12-13 | Distributed Inverse Dynamics Control for Quadruped Robots using Geometric Optimization | Nimesh Khandelwal, Amritanshu Manu, Shakti S. Gupta, Mangal Kothari et al. | [Abstract](https://arxiv.org/abs/2412.09816) · [PDF](https://arxiv.org/pdf/2412.09816) |
+| 2024-10-23 | ImDy: Human Inverse Dynamics from Imitated Observations | Xinpeng Liu, Junxuan Liang, Zili Lin, Haowen Hou et al. | [Abstract](https://arxiv.org/abs/2410.17610) · [PDF](https://arxiv.org/pdf/2410.17610) |
+| 2024-10-07 | Goal-Conditioned Terminal Value Estimation for Real-time and Multi-task Model Predictive Control | Mitsuki Morita, Satoshi Yamamori, Satoshi Yagi, Norikazu Sugimoto et al. | [Abstract](https://arxiv.org/abs/2410.04929) · [PDF](https://arxiv.org/pdf/2410.04929) |
+| 2024-09-22 | Adapting Gait Frequency for Posture-regulating Humanoid Push-recovery via Hierarchical Model Predictive Control | Junheng Li, Zhanhao Le, Junchao Ma, Quan Nguyen | [Abstract](https://arxiv.org/abs/2409.14342) · [PDF](https://arxiv.org/pdf/2409.14342) |
+| 2024-07-14 | Adaptive Model Predictive Control with Data-driven Error Model for Quadrupedal Locomotion | Xuanqi Zeng, Hongbo Zhang, Linzhu Yue, Zhitao Song et al. | [Abstract](https://arxiv.org/abs/2407.10124) · [PDF](https://arxiv.org/pdf/2407.10124) |
+| 2024-06-21 | Multi-Model Predictive Attitude Control of Quadrotors | Mohammadreza Izadi, Zeinab Shayan, Reza Faieghi | [Abstract](https://arxiv.org/abs/2406.15610) · [PDF](https://arxiv.org/pdf/2406.15610) |
+| 2024-06-02 | Accelerating Hybrid Model Predictive Control using Warm-Started Generalized Benders Decomposition | Xuan Lin | [Abstract](https://arxiv.org/abs/2406.00780) · [PDF](https://arxiv.org/pdf/2406.00780) |
+| 2024-03-21 | Robustifying Model-Based Locomotion by Zero-order Stochastic Nonlinear Model Predictive Control with Guard Saltation Matrix | Sotaro Katayama, Noriaki Takasugi, Mitsuhisa Kaneko, Norio Nagatsuka et al. | [Abstract](https://arxiv.org/abs/2403.14159) · [PDF](https://arxiv.org/pdf/2403.14159) |
+| 2024-01-26 | Neuromorphic quadratic programming for efficient and scalable model predictive control | Ashish Rao Mangalore, Gabriel Andres Fonseca Guerra, Sumedh R. Risbud, Philipp Stratmann et al. | [Abstract](https://arxiv.org/abs/2401.14885) · [PDF](https://arxiv.org/pdf/2401.14885) |
+
+---
+
+Generated from the repository's audited conference and arXiv data layers.

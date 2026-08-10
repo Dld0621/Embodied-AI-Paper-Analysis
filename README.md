@@ -1,6 +1,6 @@
 # Embodied AI Paper Analysis
 
-> 3,724 conference papers · 21,411 recent arXiv papers · 23,735 unique research records · 7 directions · 40 subfields · 160 specialties
+> 3,724 conference papers · 21,411 recent arXiv papers · 23,735 unique research records · 7 directions · 40 subfields · 160 named specialties · 200 leaf catalogs
 
 [![Conference](https://img.shields.io/badge/Conference%20census-3%2C724-111827?style=flat-square)](data/papers.json)
 [![arXiv](https://img.shields.io/badge/arXiv%202024--2026-21%2C411-b31b1b?style=flat-square)](data/arxiv_recent.json)
@@ -29,9 +29,10 @@
 - 7 个一级研究方向；
 - 40 个二级子领域；
 - 160 个明确三级专题；
-- 每个二级领域另设“综合与交叉研究”，只用于现有标题、主题或摘要不足以支持更细判断的记录。
+- 每个二级领域另设“综合与交叉研究”，只用于现有标题、主题或摘要不足以支持更细判断的记录；
+- 共形成 200 个可点击的最细论文目录，每篇顶会或 arXiv 论文恰好挂载到其中一个目录。
 
-分类规则集中在 [`scripts/taxonomy.py`](scripts/taxonomy.py)，每条记录包含 `subcategory`、`specialty` 与 `taxonomy_evidence`。可直接浏览[完整中英双语分类图谱](papers/taxonomy/README.md)，或在首页按三级条件级联筛选。
+分类规则集中在 [`scripts/taxonomy.py`](scripts/taxonomy.py)，每条记录包含 `subcategory`、`specialty` 与 `taxonomy_evidence`。可直接浏览[完整中英双语分类图谱](papers/taxonomy/README.md)，继续点击任一三级专题查看其完整论文列表，或在首页按三级条件级联筛选。
 
 ### 七个方向
 
@@ -79,9 +80,9 @@ The layers remain provenance-safe. An arXiv paper is a preprint, not evidence of
 
 ### Three-level taxonomy
 
-Every paper receives one primary **direction → subfield → specialty** path: 7 level-1 directions, 40 level-2 subfields, and 160 named level-3 specialties. A scoped General / Cross-cutting leaf is retained when the available title, topic, or abstract does not support a narrower claim.
+Every paper receives one primary **direction → subfield → specialty** path: 7 level-1 directions, 40 level-2 subfields, and 160 named level-3 specialties. A scoped General / Cross-cutting leaf is retained when the available title, topic, or abstract does not support a narrower claim, producing 200 navigable leaf catalogs in total.
 
-The bilingual ontology is published in the [taxonomy map](papers/taxonomy/README.md). Each record exposes `subcategory`, `specialty`, and `taxonomy_evidence`; the homepage provides cascading filters and direct subfield entry.
+The bilingual ontology is published in the [taxonomy map](papers/taxonomy/README.md). Every conference and arXiv record is listed exactly once beneath its finest leaf catalog. Each record exposes `subcategory`, `specialty`, and `taxonomy_evidence`; the homepage provides cascading filters and direct subfield entry.
 
 ### Operational boundary
 
@@ -111,7 +112,7 @@ The bilingual ontology is published in the [taxonomy map](papers/taxonomy/README
 │   └── arxiv_recent.json              # schema v2 recent-arXiv layer + three-level taxonomy
 ├── papers/
 │   ├── README.md                      # generated cross-layer overview
-│   ├── taxonomy/                      # bilingual 7 → 40 → 160 research map
+│   ├── taxonomy/                      # 200 leaf catalogs with complete paper lists
 │   ├── tracks/                        # seven conference direction catalogs
 │   └── arxiv/                         # seven directions × three year indexes
 ├── scripts/

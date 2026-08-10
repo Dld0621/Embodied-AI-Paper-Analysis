@@ -111,6 +111,20 @@ class CatalogContractTests(unittest.TestCase):
                 self.assertIn(paper["specialty"], subcategory_meta["specialties"])
                 self.assertTrue(paper["taxonomy_evidence"])
 
+    def test_every_paper_is_attached_to_one_leaf_catalog(self) -> None:
+        errors, stats = AUDIT.validate_taxonomy_leaf_catalogs(
+            self.catalog, self.arxiv
+        )
+        self.assertEqual(errors, [])
+        self.assertEqual(stats["leaf_catalogs"], 200)
+        self.assertEqual(
+            stats["conference_leaf_attachments"], len(self.papers)
+        )
+        self.assertEqual(
+            stats["arxiv_leaf_attachments"], len(self.arxiv_papers)
+        )
+        self.assertLessEqual(stats["max_taxonomy_page_bytes"], 400000)
+
     def test_no_ambiguous_venue_labels(self) -> None:
         for paper in self.papers:
             self.assertNotIn("/", paper["venue"])

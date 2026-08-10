@@ -20,6 +20,9 @@ from taxonomy import GENERAL_SPECIALTY, hierarchy_counts, taxonomy_metadata
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG_PATH = ROOT / "data" / "papers.json"
 ARXIV_PATH = ROOT / "data" / "arxiv_recent.json"
+TAXONOMY_DIR = ROOT / "papers" / "taxonomy"
+CONFERENCE_LEAF_LINK = re.compile(r"\[Paper\]\((https://[^)]+)\)")
+ARXIV_LEAF_LINK = re.compile(r"\[Abstract\]\((https://[^)]+)\)")
 
 OFFICIAL_HOSTS = {
     "2024.ieee-icra.org",
@@ -56,6 +59,68 @@ def _normalized_title(title: str) -> str:
 def _combined_title_key(title: str) -> str:
     """Mirror the browser's punctuation-insensitive combined-view key."""
     return re.sub(r"[^a-z0-9]+", " ", title.casefold().replace("π", "pi")).strip()
+
+
+def _taxonomy_slug(value: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "-", value.casefold()).strip("-")
+
+
+def validate_taxonomy_leaf_catalogs(
+    catalog: dict, arxiv: dict
+) -> tuple[list[str], dict[str, int]]:
+    errors: list[str] = []
+    taxonomy = catalog["taxonomy"]
+    expected_leaf_paths: set[Path] = set()
+    for track, track_meta in taxonomy["tracks"].items():
+        for subcategory, subcategory_meta in track_meta["subcategories"].items():
+            for specialty in subcategory_meta["specialties"]:
+                expected_leaf_paths.add(
+                    TAXONOMY_DIR
+                    / _taxonomy_slug(track)
+                    / _taxonomy_slug(subcategory)
+                    / _taxonomy_slug(specialty)
+                    / "README.md"
+                )
+    missing = sorted(path for path in expected_leaf_paths if not path.exists())
+    if missing:
+        errors.append(f"taxonomy leaf catalogs missing: {len(missing)}")
+
+    markdown_files = sorted(TAXONOMY_DIR.rglob("*.md"))
+    oversized = [path for path in markdown_files if path.stat().st_size > 400_000]
+    if oversized:
+        errors.append(f"taxonomy Markdown files over 400 KB: {len(oversized)}")
+
+    conference_links: Counter[str] = Counter()
+    arxiv_links: Counter[str] = Counter()
+    for path in markdown_files:
+        if path == TAXONOMY_DIR / "README.md":
+            continue
+        text = path.read_text(encoding="utf-8")
+        conference_links.update(CONFERENCE_LEAF_LINK.findall(text))
+        arxiv_links.update(ARXIV_LEAF_LINK.findall(text))
+    expected_conference = Counter(
+        paper["paper_url"] for paper in catalog["papers"]
+    )
+    expected_arxiv = Counter(paper["paper_url"] for paper in arxiv["papers"])
+    if conference_links != expected_conference:
+        errors.append("conference papers are not attached exactly once to taxonomy leaves")
+    if arxiv_links != expected_arxiv:
+        errors.append("arXiv papers are not attached exactly once to taxonomy leaves")
+
+    expected_count = (
+        taxonomy["specialty_count"] + taxonomy["fallback_specialty_count"]
+    )
+    if len(expected_leaf_paths) != expected_count:
+        errors.append("taxonomy leaf path count does not match published metadata")
+    return errors, {
+        "leaf_catalogs": len(expected_leaf_paths),
+        "taxonomy_markdown_files": len(markdown_files),
+        "conference_leaf_attachments": sum(conference_links.values()),
+        "arxiv_leaf_attachments": sum(arxiv_links.values()),
+        "max_taxonomy_page_bytes": max(
+            (path.stat().st_size for path in markdown_files), default=0
+        ),
+    }
 
 
 def validate_taxonomy_layer(layer: dict, label: str) -> tuple[list[str], dict[str, int]]:
@@ -253,7 +318,7 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
             "Direction coverage",
             "Three-level taxonomy",
         ),
-        "papers/taxonomy/README.md": ("7 directions", "40 level-2 subfields", "160 named level-3 specialties"),
+        "papers/taxonomy/README.md": ("7 directions", "40 level-2 subfields", "160 named level-3 specialties", "200 leaf paper catalogs"),
     }.items():
         text = (ROOT / relative).read_text(encoding="utf-8")
         for marker in markers:
@@ -398,9 +463,13 @@ def validate_arxiv(catalog: dict, arxiv: dict) -> tuple[list[str], dict[str, obj
 def main() -> int:
     catalog = load_catalog()
     errors, stats = validate_catalog(catalog)
-    arxiv_errors, arxiv_stats = validate_arxiv(catalog, load_arxiv())
+    arxiv = load_arxiv()
+    arxiv_errors, arxiv_stats = validate_arxiv(catalog, arxiv)
     errors.extend(arxiv_errors)
     stats.update(arxiv_stats)
+    leaf_errors, leaf_stats = validate_taxonomy_leaf_catalogs(catalog, arxiv)
+    errors.extend(leaf_errors)
+    stats["taxonomy_leaf_catalogs"] = leaf_stats
     if errors:
         print("Catalog audit: FAILED")
         for error in errors:
