@@ -10,10 +10,10 @@ const I18N = {
     corpus: "Research layer", combined: "Combined unique", conference: "Conference census", recentArxiv: "Recent arXiv", unique: "unique",
     searchPlaceholder: "Search title, author, field, specialty, topic, venue", sort: "Sort order", sortLatest: "Latest first", sortOldest: "Oldest first", sortTitle: "Title A–Z",
     year: "Year", venue: "Venue", track: "Research track", subcategory: "Subfield · Level 2", specialty: "Specialty · Level 3", chooseTrack: "Select a research track to reveal its subfields.", chooseSubcategory: "Select a subfield to reveal its specialties.", sourceTier: "Source tier", all: "All", results: "matching papers", showing: "showing", loadMore: "Load 120 more",
-    official: "Official", publisher: "Publisher", index: "Index", arxiv: "arXiv", paper: "Paper", abstract: "Abstract", source: "Source", pdf: "PDF", code: "Code", save: "Save paper", remove: "Remove from reading list",
+    official: "Official", publisher: "Publisher", index: "Index", arxiv: "arXiv", paper: "Paper", abstract: "Abstract", source: "Source", pdf: "PDF", code: "Code", leafCatalog: "Leaf catalog", save: "Save paper", remove: "Remove from reading list",
     emptyTitle: "No papers match this view.", emptyLead: "Broaden the filters or return to the complete catalog.", exportNote: "Exports include authors when supplied by arXiv; unavailable conference-author metadata is never inferred.",
-    directionKicker: "Research map", directionTitle: "Seven directions. Forty subfields. Direct entry.", directionLead: "Each direction exposes its level-2 subfields and links into the exact conference, arXiv, or combined research view.",
-    pipeline: "Research pipeline", subfieldMap: "Subfields", conferenceLayer: "Conference", arxivLayer: "arXiv 3 years", openConference: "Open conference papers", openArxiv: "Open recent arXiv",
+    directionKicker: "Research map", directionTitle: "Seven directions. Forty subfields. Two hundred paper destinations.", directionLead: "Expand any level-2 subfield to inspect its level-3 specialties, then open the papers assigned to that exact taxonomy path.",
+    pipeline: "Research pipeline", subfieldMap: "Level-2 → level-3 map", specialtyCount: "leaf catalogs", conferenceLayer: "Conference", arxivLayer: "arXiv 3 years", openConference: "Open conference papers", openArxiv: "Open recent arXiv",
     policyKicker: "Census contract", policyTitle: "Transparent enough to inspect. Stable enough to reproduce.", policyLead: "Completeness is measured against published operational boundaries—not an undefined claim to every paper anyone might call Embodied AI.", readMethod: "Read the full methodology",
     policyOneTitle: "Two frozen windows", policyOneBody: "Conference years 2022–2026; arXiv submissions from 2024-01-01 through 2026-08-07.",
     policyTwoTitle: "Reproducible discovery", policyTwoBody: "Ten conference indexes are paired with a complete arXiv cs.RO candidate harvest.",
@@ -33,10 +33,10 @@ const I18N = {
     corpus: "研究层", combined: "合并去重", conference: "顶会普查", recentArxiv: "近三年 arXiv", unique: "条去重",
     searchPlaceholder: "搜索标题、作者、方向、专题、主题或会议", sort: "排序方式", sortLatest: "最新优先", sortOldest: "最早优先", sortTitle: "标题 A–Z",
     year: "年份", venue: "会议", track: "一级研究方向", subcategory: "二级子领域", specialty: "三级研究专题", chooseTrack: "请先选择一级研究方向，再查看二级子领域。", chooseSubcategory: "请选择二级子领域，再查看三级专题。", sourceTier: "来源层级", all: "全部", results: "篇匹配论文", showing: "当前显示", loadMore: "再加载 120 篇",
-    official: "官方", publisher: "出版社", index: "文献索引", arxiv: "arXiv", paper: "论文", abstract: "摘要页", source: "来源", pdf: "PDF", code: "代码", save: "加入阅读清单", remove: "从阅读清单移除",
+    official: "官方", publisher: "出版社", index: "文献索引", arxiv: "arXiv", paper: "论文", abstract: "摘要页", source: "来源", pdf: "PDF", code: "代码", leafCatalog: "最细目录", save: "加入阅读清单", remove: "从阅读清单移除",
     emptyTitle: "当前视图没有匹配论文。", emptyLead: "请放宽筛选条件，或返回完整目录。", exportNote: "arXiv 提供作者时会随结果导出；顶会层缺失的作者信息不会被推测或补造。",
-    directionKicker: "研究地图", directionTitle: "七个一级方向，四十个二级子领域，精确进入。", directionLead: "每个方向直接展开二级子领域，并可进入对应的顶会、arXiv 或合并研究视图。",
-    pipeline: "研究流程", subfieldMap: "二级子领域", conferenceLayer: "顶会", arxivLayer: "arXiv 近三年", openConference: "打开顶会论文", openArxiv: "打开近三年 arXiv",
+    directionKicker: "研究地图", directionTitle: "七个一级方向，四十个二级子领域，两百个论文落点。", directionLead: "展开任一二级子领域即可查看三级专题，并直接打开精确归入该路径的论文。",
+    pipeline: "研究流程", subfieldMap: "二级 → 三级分类图", specialtyCount: "个最细目录", conferenceLayer: "顶会", arxivLayer: "arXiv 近三年", openConference: "打开顶会论文", openArxiv: "打开近三年 arXiv",
     policyKicker: "普查契约", policyTitle: "足够透明以供审查，足够稳定以便复现。", policyLead: "完整性以公开的操作性边界衡量，而不是声称覆盖所有人可能称为具身智能的论文。", readMethod: "阅读完整方法",
     policyOneTitle: "两个冻结窗口", policyOneBody: "顶会年份为 2022–2026；arXiv 原始提交日期为 2024-01-01 至 2026-08-07。",
     policyTwoTitle: "可复现发现", policyTwoBody: "十个固定顶会索引与 arXiv cs.RO 全部候选收集并行维护。",
@@ -54,6 +54,7 @@ const escapeHtml = (value) => String(value).replace(/[&<>\"]/g, (char) => ({ "&"
 const label = (key) => I18N[state.language][key] || key;
 const paperKey = (paper) => `${paper.year}::${paper.venue}::${paper.title}`;
 const normalizedTitle = (title) => String(title).toLocaleLowerCase().replaceAll("π", "pi").replace(/[^a-z0-9]+/g, " ").trim();
+const slugify = (value) => String(value).toLocaleLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 
 function loadSaved() {
   try {
@@ -99,6 +100,17 @@ function sourceName(sourceType) {
   if (sourceType === "bibliographic") return label("index");
   if (sourceType === "arxiv") return label("arxiv");
   return label("official");
+}
+
+function taxonomyHref(paper, depth = 3) {
+  const params = new URLSearchParams({ corpus: paper.corpus, track: paper.track, lang: state.language });
+  if (depth >= 2) params.set("subcategory", paper.subcategory);
+  if (depth >= 3) params.set("specialty", paper.specialty);
+  return `?${params.toString()}#research-workbench`;
+}
+
+function leafCatalogHref(paper) {
+  return `papers/taxonomy/${slugify(paper.track)}/${slugify(paper.subcategory)}/${slugify(paper.specialty)}/`;
 }
 
 function counts(items, field) {
@@ -163,7 +175,8 @@ function renderDirections() {
     const paperYears = new Set(conferencePapers.map((paper) => paper.year));
     const stages = state.language === "zh" ? meta.pipeline_zh : meta.pipeline;
     const question = state.language === "zh" ? meta.question_zh : meta.question;
-    const subcategories = Object.keys(trackTaxonomy(track));
+    const taxonomy = trackTaxonomy(track);
+    const subcategories = Object.keys(taxonomy);
     const combined = [...conferencePapers, ...arxivPapers];
     const subcategoryCounts = counts(combined, "subcategory");
     return `<article class="direction-card">
@@ -172,7 +185,15 @@ function renderDirections() {
       <p>${escapeHtml(question)}</p>
       <div class="direction-layer-stats"><span>${label("conferenceLayer")}<strong>${number(conferencePapers.length)}</strong><small>2022–2026</small></span><span>${label("arxivLayer")}<strong>${number(arxivPapers.length)}</strong><small>2024–2026</small></span></div>
       <div class="pipeline"><span>${label("pipeline")}</span><ol>${stages.map((stage) => `<li>${escapeHtml(stage)}</li>`).join("")}</ol></div>
-      <div class="direction-subfields"><span>${label("subfieldMap")}</span><div>${subcategories.map((subcategory) => `<button type="button" data-direction="${escapeHtml(track)}" data-subcategory="${escapeHtml(subcategory)}" data-corpus="all"><b>${escapeHtml(subcategoryName(track, subcategory))}</b><small>${number(subcategoryCounts.get(subcategory) || 0)}</small></button>`).join("")}</div></div>
+      <div class="direction-subfields"><span>${label("subfieldMap")}</span><div>${subcategories.map((subcategory) => {
+        const subfieldPapers = combined.filter((paper) => paper.subcategory === subcategory);
+        const specialtyCounts = counts(subfieldPapers, "specialty");
+        const specialties = Object.keys(taxonomy[subcategory].specialties);
+        return `<details class="direction-subfield">
+          <summary><b>${escapeHtml(subcategoryName(track, subcategory))}</b><small>${number(subcategoryCounts.get(subcategory) || 0)} · ${specialties.length} ${label("specialtyCount")}</small></summary>
+          <div class="direction-specialties">${specialties.map((specialty) => `<button type="button" data-direction="${escapeHtml(track)}" data-subcategory="${escapeHtml(subcategory)}" data-specialty="${escapeHtml(specialty)}" data-corpus="all"><b>${escapeHtml(specialtyName(track, subcategory, specialty))}</b><small>${number(specialtyCounts.get(specialty) || 0)}</small></button>`).join("")}</div>
+        </details>`;
+      }).join("")}</div></div>
       <div class="direction-actions"><button type="button" data-direction="${escapeHtml(track)}" data-corpus="conference">${label("openConference")} <span aria-hidden="true">→</span></button><button type="button" data-direction="${escapeHtml(track)}" data-corpus="arxiv">${label("openArxiv")} <span aria-hidden="true">→</span></button></div>
     </article>`;
   }).join("");
@@ -271,7 +292,7 @@ function renderPapers() {
     const key = paperKey(paper);
     const saved = state.saved.has(key);
     const authors = paper.authors?.length ? `<i>·</i><span class="paper-authors">${escapeHtml(paper.authors.slice(0, 5).join(", "))}${paper.authors.length > 5 ? " et al." : ""}</span>` : "";
-    const taxonomy = `${escapeHtml(trackName(paper.track))}<i>›</i>${escapeHtml(subcategoryName(paper.track, paper.subcategory))}<i>›</i>${escapeHtml(specialtyName(paper.track, paper.subcategory, paper.specialty))}`;
+    const taxonomy = `<a href="${escapeHtml(taxonomyHref(paper, 1))}">${escapeHtml(trackName(paper.track))}</a><i>›</i><a href="${escapeHtml(taxonomyHref(paper, 2))}">${escapeHtml(subcategoryName(paper.track, paper.subcategory))}</a><i>›</i><a href="${escapeHtml(taxonomyHref(paper, 3))}">${escapeHtml(specialtyName(paper.track, paper.subcategory, paper.specialty))}</a>`;
     const code = paper.code_url ? `<a href="${escapeHtml(paper.code_url)}" target="_blank" rel="noopener">${label("code")} ↗</a>` : "";
     const links = paper.source_type === "arxiv"
       ? `<a class="primary-link" href="${escapeHtml(paper.paper_url)}" target="_blank" rel="noopener">${label("abstract")} ↗</a><a href="${escapeHtml(paper.pdf_url)}" target="_blank" rel="noopener">${label("pdf")} ↗</a>`
@@ -282,7 +303,7 @@ function renderPapers() {
       <div class="paper-year" role="cell"><span class="mobile-label">${label("year")}</span>${paper.published || paper.year}</div>
       <div class="paper-venue" role="cell"><span class="mobile-label">${label("venue")}</span><strong>${escapeHtml(paper.venue)}</strong></div>
       <div class="paper-source" role="cell"><span class="mobile-label">${label("sourceTier")}</span><a href="${escapeHtml(paper.official_url)}" target="_blank" rel="noopener"><i class="tier-dot ${escapeHtml(paper.source_type)}"></i>${sourceName(paper.source_type)}</a></div>
-      <div class="paper-links" role="cell">${links}</div>
+      <div class="paper-links" role="cell"><a href="${escapeHtml(leafCatalogHref(paper))}">${label("leafCatalog")} ↗</a>${links}</div>
     </article>`;
   }).join("");
   $("#paper-grid").innerHTML = header + rows;
@@ -446,7 +467,7 @@ async function initialize() {
 document.addEventListener("click", (event) => {
   const directionButton = event.target.closest("[data-direction]");
   if (directionButton) {
-    Object.assign(state, { corpus: directionButton.dataset.corpus || "all", track: directionButton.dataset.direction, subcategory: directionButton.dataset.subcategory || "all", specialty: "all", year: "all", venue: "all", source: "all", query: "", view: "all", visible: PAGE_SIZE });
+    Object.assign(state, { corpus: directionButton.dataset.corpus || "all", track: directionButton.dataset.direction, subcategory: directionButton.dataset.subcategory || "all", specialty: directionButton.dataset.specialty || "all", year: "all", venue: "all", source: "all", query: "", view: "all", visible: PAGE_SIZE });
     $("#paper-search").value = "";
     renderFilters();
     renderPapers();

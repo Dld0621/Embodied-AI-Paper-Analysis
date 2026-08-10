@@ -219,6 +219,8 @@ kbd { padding: .1rem .32rem; border: 1px solid var(--line); border-radius: .28re
 .paper-identity > span { display: flex; min-width: 0; flex-wrap: wrap; align-items: center; gap: .35rem; margin-top: .35rem; overflow: hidden; color: var(--subtle); font-size: .56rem; text-overflow: ellipsis; white-space: nowrap; }
 .paper-identity i { font-style: normal; }
 .paper-identity > .paper-taxonomy { color: var(--blue); font-weight: 680; }
+.paper-taxonomy a { color: inherit; text-decoration: none; }
+.paper-taxonomy a:hover { text-decoration: underline; text-underline-offset: .16rem; }
 .paper-identity > .paper-detail { margin-top: .22rem; }
 .paper-authors { overflow: hidden; text-overflow: ellipsis; }
 .paper-year, .paper-venue { color: var(--muted); font-size: .65rem; }
@@ -263,11 +265,21 @@ kbd { padding: .1rem .32rem; border: 1px solid var(--line); border-radius: .28re
 .pipeline li::before { content: "0" counter(stage); display: block; margin-bottom: .18rem; color: var(--blue); font-size: .48rem; font-weight: 800; }
 .direction-subfields { margin-top: .85rem; }
 .direction-subfields > span { color: var(--subtle); font-size: .52rem; font-weight: 780; letter-spacing: .09em; text-transform: uppercase; }
-.direction-subfields > div { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .35rem; margin-top: .5rem; }
-.direction-subfields button { display: flex; min-width: 0; align-items: center; justify-content: space-between; gap: .5rem; padding: .48rem .55rem; border: 1px solid var(--line); border-radius: .5rem; background: transparent; color: var(--muted); cursor: pointer; text-align: left; }
-.direction-subfields button:hover { border-color: color-mix(in srgb, var(--blue) 42%, var(--line)); background: var(--blue-soft); color: var(--blue); }
+.direction-subfields > div { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start; gap: .35rem; margin-top: .5rem; }
+.direction-subfield { min-width: 0; border: 1px solid var(--line); border-radius: .55rem; background: color-mix(in srgb, var(--surface-soft) 72%, transparent); }
+.direction-subfield[open] { border-color: color-mix(in srgb, var(--blue) 32%, var(--line)); background: var(--surface-soft); }
+.direction-subfield summary { display: flex; min-height: 2.35rem; align-items: center; justify-content: space-between; gap: .5rem; padding: .48rem .55rem; color: var(--muted); cursor: pointer; list-style: none; }
+.direction-subfield summary::-webkit-details-marker { display: none; }
+.direction-subfield summary::after { content: "+"; flex: none; color: var(--blue); font-size: .7rem; font-weight: 700; }
+.direction-subfield[open] summary::after { content: "–"; }
+.direction-subfield summary:hover { color: var(--blue); }
 .direction-subfields b { overflow: hidden; font-size: .55rem; font-weight: 660; line-height: 1.35; text-overflow: ellipsis; white-space: nowrap; }
-.direction-subfields small { flex: none; color: var(--subtle); font-size: .5rem; }
+.direction-subfields small { flex: none; color: var(--subtle); font-size: .48rem; }
+.direction-subfield summary small { margin-left: auto; }
+.direction-specialties { display: grid; gap: .28rem; padding: 0 .42rem .42rem; border-top: 1px solid var(--line); }
+.direction-specialties button { display: flex; min-width: 0; align-items: center; justify-content: space-between; gap: .5rem; padding: .44rem .48rem; border: 0; border-radius: .4rem; background: var(--surface); color: var(--muted); cursor: pointer; text-align: left; }
+.direction-specialties button:first-child { margin-top: .4rem; }
+.direction-specialties button:hover { background: var(--blue-soft); color: var(--blue); }
 .direction-actions { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .45rem; margin-top: .85rem; padding-top: .7rem; border-top: 1px solid var(--line); }
 .direction-actions button { display: flex; min-width: 0; align-items: center; justify-content: space-between; gap: .5rem; padding: .62rem .68rem; border: 1px solid var(--line); border-radius: .55rem; background: var(--surface-soft); color: var(--ink); cursor: pointer; font-size: .57rem; font-weight: 720; text-align: left; }
 .direction-actions button:hover { border-color: color-mix(in srgb, var(--blue) 42%, var(--line)); color: var(--blue); }

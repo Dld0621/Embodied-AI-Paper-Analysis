@@ -20,6 +20,7 @@ TRACK_DIR = PAPERS_DIR / "tracks"
 ARXIV_DIR = PAPERS_DIR / "arxiv"
 TAXONOMY_DIR = PAPERS_DIR / "taxonomy"
 MAX_RENDER_BYTES = 390_000
+WORKBENCH_URL = "https://dld0621.github.io/Embodied-AI-Paper-Analysis/"
 
 
 def slugify(value: str) -> str:
@@ -750,10 +751,349 @@ def render_arxiv_year_index(
     return "\n".join(lines)
 
 
+def root_specialty_links(
+    catalog: dict,
+    arxiv: dict,
+    track: str,
+    subcategory: str,
+    language: str,
+) -> str:
+    subcategory_meta = taxonomy_subcategories(catalog, track)[subcategory]
+    links: list[str] = []
+    for specialty, specialty_meta in subcategory_meta["specialties"].items():
+        conference_count = sum(
+            paper["track"] == track
+            and paper["subcategory"] == subcategory
+            and paper["specialty"] == specialty
+            for paper in catalog["papers"]
+        )
+        arxiv_count = sum(
+            paper["track"] == track
+            and paper["subcategory"] == subcategory
+            and paper["specialty"] == specialty
+            for paper in arxiv["papers"]
+        )
+        label = specialty_meta["name_zh"] if language == "zh" else specialty
+        path = taxonomy_leaf_path(
+            track, subcategory, specialty, "papers/taxonomy/"
+        )
+        links.append(
+            f"[{escape_cell(label)}]({path}) — C {conference_count:,} · A {arxiv_count:,}"
+        )
+    return "<br>".join(links)
+
+
+def render_root_taxonomy_sections(
+    catalog: dict, arxiv: dict, language: str
+) -> list[str]:
+    is_zh = language == "zh"
+    lines: list[str] = []
+    for index, track in enumerate(catalog["tracks"], start=1):
+        meta = catalog["track_meta"][track]
+        conference_papers = [
+            paper for paper in catalog["papers"] if paper["track"] == track
+        ]
+        arxiv_papers = [
+            paper for paper in arxiv["papers"] if paper["track"] == track
+        ]
+        subcategories = taxonomy_subcategories(catalog, track)
+        leaf_count = sum(
+            len(subcategory_meta["specialties"])
+            for subcategory_meta in subcategories.values()
+        )
+        title = (
+            f"{meta['name_zh']} · {track}" if is_zh else f"{track} · {meta['name_zh']}"
+        )
+        summary = (
+            f"{len(conference_papers):,} 篇顶会 · {len(arxiv_papers):,} 篇 arXiv · "
+            f"{len(subcategories)} 个二级子领域 · {leaf_count} 个最细目录"
+            if is_zh
+            else f"{len(conference_papers):,} conference · {len(arxiv_papers):,} arXiv · "
+            f"{len(subcategories)} subfields · {leaf_count} leaf catalogs"
+        )
+        question = meta["question_zh"] if is_zh else meta["question"]
+        pipeline = meta["pipeline_zh"] if is_zh else meta["pipeline"]
+        combined_query = f"?track={quote(track)}#research-workbench"
+        direction_slug = slugify(track)
+        lines.extend([
+            "<details>",
+            f"<summary><strong>{index:02d} · {title}</strong><br><sub>{summary}</sub></summary>",
+            "",
+            question,
+            "",
+            ("**研究流程：** " if is_zh else "**Research pipeline:** ")
+            + " → ".join(pipeline),
+            "",
+            (
+                f"[打开合并论文视图]({WORKBENCH_URL}{combined_query}) · "
+                f"[顶会目录](papers/tracks/{direction_slug}.md) · "
+                f"[arXiv 目录](papers/arxiv/{direction_slug}/README.md)"
+                if is_zh
+                else f"[Open combined paper view]({WORKBENCH_URL}{combined_query}) · "
+                f"[Conference catalog](papers/tracks/{direction_slug}.md) · "
+                f"[arXiv catalog](papers/arxiv/{direction_slug}/README.md)"
+            ),
+            "",
+            (
+                "| 二级子领域 | 顶会 | arXiv | 三级专题与论文目录 |"
+                if is_zh
+                else "| Level-2 subfield | Conference | arXiv | Level-3 specialty paper catalogs |"
+            ),
+            "|---|---:|---:|---|",
+        ])
+        for subcategory, subcategory_meta in subcategories.items():
+            conference_count = sum(
+                paper["subcategory"] == subcategory for paper in conference_papers
+            )
+            arxiv_count = sum(
+                paper["subcategory"] == subcategory for paper in arxiv_papers
+            )
+            subcategory_label = (
+                f"{subcategory_meta['name_zh']}<br><sub>{subcategory}</sub>"
+                if is_zh
+                else f"{subcategory}<br><sub>{subcategory_meta['name_zh']}</sub>"
+            )
+            lines.append(
+                f"| {subcategory_label} | {conference_count:,} | {arxiv_count:,} | "
+                f"{root_specialty_links(catalog, arxiv, track, subcategory, language)} |"
+            )
+        lines.extend(["", "</details>", ""])
+    return lines
+
+
+def render_root_readme(catalog: dict, arxiv: dict, language: str) -> str:
+    is_zh = language == "zh"
+    conference_count = len(catalog["papers"])
+    arxiv_count = len(arxiv["papers"])
+    unique_count = arxiv["source"]["combined_unique_records"]
+    taxonomy = catalog["taxonomy"]
+    leaf_count = taxonomy["specialty_count"] + taxonomy["fallback_specialty_count"]
+    arxiv_start = arxiv["window"]["start"]
+    arxiv_end = arxiv["window"]["end"]
+    conference_badge = f"{conference_count:,}".replace(",", "%2C")
+    arxiv_badge = f"{arxiv_count:,}".replace(",", "%2C")
+    taxonomy_badge = f"7%E2%86%92{taxonomy['subcategory_count']}%E2%86%92{leaf_count}"
+
+    if is_zh:
+        lines = [
+            "# Embodied AI Paper Analysis · 具身智能论文研究地图",
+            "",
+            "**[English](README.md) · 简体中文**",
+            "",
+            f"> 面向科研工作者的可审计论文工作台：{conference_count:,} 篇近五年顶会论文、{arxiv_count:,} 篇近三年 arXiv 预印本，按 7 个一级方向、{taxonomy['subcategory_count']} 个二级子领域和 {leaf_count} 个最细论文目录组织。",
+            "",
+            "[![在线工作台](https://img.shields.io/badge/在线科研工作台-打开-2563eb?style=flat-square)](https://dld0621.github.io/Embodied-AI-Paper-Analysis/?lang=zh)",
+            f"[![顶会论文](https://img.shields.io/badge/顶会论文-{conference_badge}-111827?style=flat-square)](data/papers.json)",
+            f"[![arXiv](https://img.shields.io/badge/arXiv-{arxiv_badge}-b31b1b?style=flat-square)](data/arxiv_recent.json)",
+            f"[![三级分类](https://img.shields.io/badge/分类-{taxonomy_badge}-0891b2?style=flat-square)](papers/taxonomy/README.md)",
+            "",
+            "## 快速入口",
+            "",
+            "| 目标 | 入口 |",
+            "|---|---|",
+            "| 搜索、筛选、保存与导出论文 | [在线科研工作台](https://dld0621.github.io/Embodied-AI-Paper-Analysis/?lang=zh#research-workbench) |",
+            "| 从 7 个方向逐级浏览到最细专题 | [三级研究分类图](papers/taxonomy/README.md) |",
+            "| 浏览近五年顶会层 | [顶会论文总览](papers/README.md) |",
+            "| 使用机器可读数据 | [`papers.json`](data/papers.json) · [`arxiv_recent.json`](data/arxiv_recent.json) |",
+            "",
+            "## 项目解决什么问题",
+            "",
+            "本项目不是简单的论文链接集合，而是一套可复现的具身智能文献定位系统。每篇论文同时回答四个问题：它属于哪个一级研究方向、位于哪个二级子领域、落在哪个三级专题，以及这一判断来自标题、主题还是摘要中的什么证据。",
+            "",
+            "顶会记录与 arXiv 预印本严格分层。标题重复不会被解释为会议录用；合并视图只用于阅读去重，原始来源仍分别保留。",
+            "",
+            "## 两个证据层",
+            "",
+            "| 层级 | 时间窗口 | 记录数 | 学术含义 |",
+            "|---|---|---:|---|",
+            f"| 顶会普查 | {catalog['window']['start']}–{catalog['window']['end']} | {conference_count:,} | RSS、CoRL、ICRA、IROS、ICLR、ICML、NeurIPS、CVPR、ICCV、ECCV；记录附正式来源层级 |",
+            f"| arXiv 预印本 | {arxiv_start} 至 {arxiv_end} | {arxiv_count:,} | 对完整 `cs.RO` 候选窗口进行分类；不代表顶会录用 |",
+            f"| 合并去重视图 | 同上 | {unique_count:,} | 按归一化标题去重，优先显示已有会议来源的记录 |",
+            "",
+            "## 七方向三级研究地图",
+            "",
+            f"每篇论文只拥有一条主要的 **一级方向 → 二级子领域 → 三级专题** 路径。当前分类包含 160 个明确专题，并为 40 个二级子领域各保留一个“综合与交叉研究”落点，共 {leaf_count} 个最细目录。展开下方任一方向即可查看全部二级、三级分类及其论文数量。",
+            "",
+        ]
+        lines.extend(render_root_taxonomy_sections(catalog, arxiv, language))
+        lines.extend([
+            "## 每篇论文如何定位",
+            "",
+            "以 `AnyDexRT` 为例，其主要路径为：",
+            "",
+            "> 灵巧操作与遥操作 → 重定向与人体动作 → [手部姿态重定向](papers/taxonomy/dexterity-teleoperation/retargeting-human-motion/hand-pose-retargeting/README.md)",
+            "",
+            "| 字段 | 作用 |",
+            "|---|---|",
+            "| `track` | 一级方向，决定论文处于七方向中的哪一条主线 |",
+            "| `subcategory` | 二级子领域，用于区分该方向内的研究问题 |",
+            "| `specialty` | 三级专题，也是论文实际挂载的最细目录 |",
+            "| `taxonomy_evidence` | 记录最强匹配来自标题、主题或摘要以及对应短语 |",
+            "| `source_type` | 区分官方、出版社、文献索引或 arXiv 来源 |",
+            "",
+            "在线工作台的每一行论文都显示可点击的完整分类路径，并提供“最细目录”入口。CSV 与 Markdown 导出也保留三级分类和分类证据。",
+            "",
+            "## 分类与完整性边界",
+            "",
+            f"- 顶会层在固定会议、年份、`robot` 检索词、确定性纳入词表和排除规则下构建。",
+            f"- arXiv 层审计 {arxiv['source']['candidate_records']:,} 条 `cs.RO` 候选，其中 {arxiv_count:,} 条进入七方向，{arxiv['source']['unclassified_records']:,} 条未满足分类边界。",
+            "- 证据不足时使用“综合与交叉研究”，不制造虚假的三级精度。",
+            "- 每篇顶会论文和每篇 arXiv 论文在最细目录树中恰好出现一次。",
+            "- “完整”指覆盖公开、可复现的操作性边界，不声称具身智能存在无争议的语义全集。",
+            "",
+            "## 科研工作台能力",
+            "",
+            "- 7 个一级方向、40 个二级子领域和 200 个最细目录逐级导航；",
+            "- 顶会、arXiv 与合并去重三种研究层切换；",
+            "- 标题、作者、年份、会议、方向、子领域、专题与来源联合筛选；",
+            "- 可分享 URL、阅读清单、Markdown / CSV 导出、中英文与深浅主题；",
+            "- 每篇论文均提供在线论文页和来源链接，缺失作者信息不会被推测。",
+            "",
+            "## 仓库结构",
+            "",
+            "```text",
+            "├── index.html                         # 双语在线科研工作台",
+            "├── README.md / README.zh-CN.md         # 详细英文 / 中文首页",
+            "├── data/                               # 顶会层与 arXiv 层机器可读数据",
+            "├── papers/taxonomy/                    # 200 个最细目录及完整论文列表",
+            "├── papers/tracks/                      # 七方向顶会目录",
+            "├── papers/arxiv/                       # 七方向 × 年份 arXiv 目录",
+            "├── scripts/taxonomy.py                 # 二级/三级确定性分类规则",
+            "├── scripts/render_catalog.py           # README 与论文目录生成器",
+            "└── scripts/audit_catalog.py            # 数据、来源与挂载完整性审计",
+            "```",
+            "",
+            "## 复现与验证",
+            "",
+            "```bash",
+            "python scripts/apply_taxonomy.py --check",
+            "python scripts/render_catalog.py",
+            "python scripts/audit_catalog.py",
+            "python scripts/render_catalog.py --check",
+            "python scripts/check_local_links.py",
+            "python -m unittest discover -s tests -v",
+            "```",
+            "",
+            "## 贡献与许可",
+            "",
+            "提交数据或分类改进前请阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。仓库自有内容采用 [CC BY-NC-SA 4.0](LICENSE)；论文版权归作者和出版方所有，本项目仅提供在线链接，不重新分发 PDF。",
+            "",
+        ])
+    else:
+        lines = [
+            "# Embodied AI Paper Analysis",
+            "",
+            "**English · [简体中文](README.zh-CN.md)**",
+            "",
+            f"> An auditable research workbench for {conference_count:,} five-year conference papers and {arxiv_count:,} recent arXiv preprints, organized into 7 directions, {taxonomy['subcategory_count']} level-2 subfields, and {leaf_count} finest-grained paper catalogs.",
+            "",
+            "[![Workbench](https://img.shields.io/badge/Research_workbench-open-2563eb?style=flat-square)](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)",
+            f"[![Conference](https://img.shields.io/badge/Conference-{conference_badge}-111827?style=flat-square)](data/papers.json)",
+            f"[![arXiv](https://img.shields.io/badge/arXiv-{arxiv_badge}-b31b1b?style=flat-square)](data/arxiv_recent.json)",
+            f"[![Taxonomy](https://img.shields.io/badge/Taxonomy-{taxonomy_badge}-0891b2?style=flat-square)](papers/taxonomy/README.md)",
+            "",
+            "## Start here",
+            "",
+            "| Goal | Entry point |",
+            "|---|---|",
+            "| Search, filter, save, and export papers | [Interactive research workbench](https://dld0621.github.io/Embodied-AI-Paper-Analysis/#research-workbench) |",
+            "| Browse from seven directions to the finest specialty | [Three-level taxonomy](papers/taxonomy/README.md) |",
+            "| Browse the five-year conference layer | [Conference paper overview](papers/README.md) |",
+            "| Use machine-readable data | [`papers.json`](data/papers.json) · [`arxiv_recent.json`](data/arxiv_recent.json) |",
+            "",
+            "## What this project provides",
+            "",
+            "This is not a flat list of paper links. It combines a systematic conference census with a reproducible literature-positioning system: every paper states its level-1 direction, level-2 subfield, level-3 specialty, and the title/topic/abstract evidence supporting that assignment.",
+            "",
+            "Conference records and arXiv preprints remain separate evidence layers. A duplicate title never implies conference acceptance; deduplication is used only for the combined reading view while both source records remain available.",
+            "",
+            "## Two evidence layers",
+            "",
+            "| Layer | Window | Records | Research meaning |",
+            "|---|---|---:|---|",
+            f"| Conference census | {catalog['window']['start']}–{catalog['window']['end']} | {conference_count:,} | RSS, CoRL, ICRA, IROS, ICLR, ICML, NeurIPS, CVPR, ICCV, and ECCV with explicit provenance tiers |",
+            f"| arXiv preprints | {arxiv_start} to {arxiv_end} | {arxiv_count:,} | Classified from the complete `cs.RO` candidate window; not evidence of conference acceptance |",
+            f"| Combined unique view | Same windows | {unique_count:,} | Normalized-title deduplication, preferring an available conference record for display |",
+            "",
+            "## Seven-direction research map",
+            "",
+            f"Every paper receives one primary **direction → subfield → specialty** path. The ontology contains 160 named specialties plus one scoped General / Cross-cutting leaf for each of 40 subfields, producing {leaf_count} paper destinations. Expand any direction below to inspect every level-2 and level-3 category with live paper counts.",
+            "",
+        ]
+        lines.extend(render_root_taxonomy_sections(catalog, arxiv, language))
+        lines.extend([
+            "## How each paper is positioned",
+            "",
+            "For example, `AnyDexRT` is positioned at:",
+            "",
+            "> Dexterity & Teleoperation → Retargeting & Human Motion → [Hand-pose Retargeting](papers/taxonomy/dexterity-teleoperation/retargeting-human-motion/hand-pose-retargeting/README.md)",
+            "",
+            "| Field | Role |",
+            "|---|---|",
+            "| `track` | Level 1: one of the seven primary research directions |",
+            "| `subcategory` | Level 2: the research problem inside that direction |",
+            "| `specialty` | Level 3: the finest catalog where the paper is actually listed |",
+            "| `taxonomy_evidence` | Strongest matched location and phrase from title, topic, or abstract |",
+            "| `source_type` | Official, publisher, bibliographic, or arXiv provenance |",
+            "",
+            "Every workbench paper row exposes a clickable taxonomy breadcrumb and a direct leaf-catalog link. Markdown and CSV exports retain the three-level path and classification evidence.",
+            "",
+            "## Classification and completeness boundary",
+            "",
+            "- The conference layer uses fixed venues, years, the `robot` query, deterministic admission terms, and explicit exclusions.",
+            f"- The arXiv layer audits {arxiv['source']['candidate_records']:,} `cs.RO` candidates: {arxiv_count:,} enter the seven directions and {arxiv['source']['unclassified_records']:,} remain outside the declared boundary.",
+            "- When evidence is insufficient, a paper remains General / Cross-cutting instead of receiving false fine-grained precision.",
+            "- Every conference record and every arXiv record appears exactly once in the leaf-catalog tree.",
+            "- Completeness is relative to the published operational boundary, not an undefined universal ontology of Embodied AI.",
+            "",
+            "## Research workbench capabilities",
+            "",
+            "- Progressive navigation across 7 directions, 40 subfields, and 200 leaf catalogs;",
+            "- conference, arXiv, and combined-unique research layers;",
+            "- joint filtering by title, author, year, venue, direction, subfield, specialty, and provenance;",
+            "- shareable URLs, local reading lists, Markdown / CSV export, English / Chinese, and light / dark themes;",
+            "- online paper and source links for every record, without inventing missing author metadata.",
+            "",
+            "## Repository structure",
+            "",
+            "```text",
+            "├── index.html                         # bilingual interactive workbench",
+            "├── README.md / README.zh-CN.md         # detailed English / Chinese homepages",
+            "├── data/                               # machine-readable conference and arXiv layers",
+            "├── papers/taxonomy/                    # 200 leaf catalogs with complete paper lists",
+            "├── papers/tracks/                      # seven conference direction catalogs",
+            "├── papers/arxiv/                       # seven directions × yearly arXiv indexes",
+            "├── scripts/taxonomy.py                 # deterministic level-2/level-3 rules",
+            "├── scripts/render_catalog.py           # README and catalog generator",
+            "└── scripts/audit_catalog.py            # data, provenance, and attachment audit",
+            "```",
+            "",
+            "## Rebuild and validate",
+            "",
+            "```bash",
+            "python scripts/apply_taxonomy.py --check",
+            "python scripts/render_catalog.py",
+            "python scripts/audit_catalog.py",
+            "python scripts/render_catalog.py --check",
+            "python scripts/check_local_links.py",
+            "python -m unittest discover -s tests -v",
+            "```",
+            "",
+            "## Contributing and license",
+            "",
+            "Read [CONTRIBUTING.md](CONTRIBUTING.md) before changing data or taxonomy rules. Repository-authored content uses [CC BY-NC-SA 4.0](LICENSE); paper copyrights remain with their authors and publishers, and this project links to papers without redistributing PDFs.",
+            "",
+        ])
+
+    return "\n".join(lines)
+
+
 def render_outputs() -> dict[Path, str]:
     catalog = json.loads(DATA_PATH.read_text(encoding="utf-8"))
     arxiv = json.loads(ARXIV_PATH.read_text(encoding="utf-8"))
     outputs = {
+        ROOT / "README.md": render_root_readme(catalog, arxiv, "en"),
+        ROOT / "README.zh-CN.md": render_root_readme(catalog, arxiv, "zh"),
         PAPERS_DIR / "README.md": render_overview(catalog, arxiv),
         TAXONOMY_DIR / "README.md": render_taxonomy(catalog, arxiv),
     }

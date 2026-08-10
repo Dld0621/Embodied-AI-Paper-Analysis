@@ -43,7 +43,7 @@ Do not add workshop-only, withdrawn, under-review, or arXiv-only papers to the c
    python scripts/render_catalog.py
    ```
 
-   The renderer owns every page under `papers/taxonomy/`. Do not hand-edit leaf catalogs: each paper must be generated exactly once beneath its level-3 specialty, and oversized leaves are split automatically.
+   The renderer owns `README.md`, `README.zh-CN.md`, and every page under `papers/taxonomy/`. Do not hand-edit generated homepages or leaf catalogs: both language versions must stay synchronized with the seven-direction taxonomy, each paper must be generated exactly once beneath its level-3 specialty, and oversized leaves are split automatically.
 
 8. Run all repository checks:
 

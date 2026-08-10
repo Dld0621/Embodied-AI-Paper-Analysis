@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import importlib.util
 import json
+import re
 import unittest
 from pathlib import Path
 from urllib.parse import urlparse
@@ -125,6 +126,36 @@ class CatalogContractTests(unittest.TestCase):
         )
         self.assertLessEqual(stats["max_taxonomy_page_bytes"], 400000)
 
+    def test_detailed_root_readmes_cover_every_taxonomy_leaf(self) -> None:
+        english = (ROOT / "README.md").read_text(encoding="utf-8")
+        chinese = (ROOT / "README.zh-CN.md").read_text(encoding="utf-8")
+        self.assertIn("[简体中文](README.zh-CN.md)", english)
+        self.assertIn("[English](README.md)", chinese)
+        self.assertIn("Seven-direction research map", english)
+        self.assertIn("七方向三级研究地图", chinese)
+
+        slugify = lambda value: re.sub(
+            r"[^a-z0-9]+", "-", value.casefold()
+        ).strip("-")
+        expected_leaf_paths = set()
+        for track, track_meta in self.catalog["taxonomy"]["tracks"].items():
+            self.assertIn(track, english)
+            self.assertIn(self.catalog["track_meta"][track]["name_zh"], chinese)
+            for subcategory, subcategory_meta in track_meta["subcategories"].items():
+                self.assertIn(subcategory, english)
+                self.assertIn(subcategory_meta["name_zh"], chinese)
+                for specialty, specialty_meta in subcategory_meta["specialties"].items():
+                    leaf_path = (
+                        "papers/taxonomy/"
+                        f"{slugify(track)}/{slugify(subcategory)}/{slugify(specialty)}/README.md"
+                    )
+                    expected_leaf_paths.add(leaf_path)
+                    self.assertIn(leaf_path, english)
+                    self.assertIn(leaf_path, chinese)
+                    self.assertIn(specialty, english)
+                    self.assertIn(specialty_meta["name_zh"], chinese)
+        self.assertEqual(len(expected_leaf_paths), 200)
+
     def test_no_ambiguous_venue_labels(self) -> None:
         for paper in self.papers:
             self.assertNotIn("/", paper["venue"])
@@ -189,6 +220,9 @@ class CatalogContractTests(unittest.TestCase):
             "subcategoryName",
             "specialtyName",
             "taxonomy_evidence",
+            "taxonomyHref",
+            "leafCatalogHref",
+            "data-specialty",
             "URLSearchParams",
             "localStorage",
             "exportMarkdown",
