@@ -2,7 +2,7 @@
 
 [← Direction conference catalog](../../tracks/manipulation-imitation.md) · [All directions](../../README.md)
 
-> 3,817 arXiv papers · 2024–2026 · frozen 2026-08-07
+> 3,817 arXiv papers · 2024-01-01–2026-08-07 · frozen 2026-08-07
 
 How can robots acquire precise, robust manipulation skills from demonstrations and interaction?
 

@@ -14,7 +14,7 @@ How can whole-body policies achieve agile, stable, and transferable motion?
 
 **Venues:** CVPR · CoRL · ICCV · ICLR · ICRA · IROS · NeurIPS · RSS
 
-**Recent arXiv layer:** [2,317 papers from 2024–2026](../arxiv/humanoids-locomotion/README.md)
+**Recent arXiv layer:** [2,317 papers from 2024-01-01–2026-08-07](../arxiv/humanoids-locomotion/README.md)
 
 ## Subfield map · 二级子领域
 

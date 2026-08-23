@@ -1,0 +1,68 @@
+name: Refresh rolling arXiv catalog
+
+on:
+  # Temporary branch trigger used to validate the first rolling refresh on a
+  # GitHub-hosted runner. It is removed before publication to main.
+  push:
+    branches: ["codex/converge-five-year-top-venues"]
+  schedule:
+    - cron: "10 2 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: arxiv-weekly-main
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verify the checked-out main tip
+        shell: bash
+        run: |
+          git fetch origin "${GITHUB_REF_NAME}"
+          test "$(git rev-parse HEAD)" = "$(git rev-parse "origin/${GITHUB_REF_NAME}")"
+
+      - name: Refresh the rolling three-year cs.RO census
+        run: python scripts/sync_arxiv_recent.py
+
+      - name: Rebuild generated catalogs
+        run: python scripts/render_catalog.py
+
+      - name: Audit data, taxonomy, generated pages, and links
+        shell: bash
+        run: |
+          python scripts/audit_catalog.py
+          python scripts/apply_taxonomy.py --check
+          python scripts/render_catalog.py --check
+          python scripts/check_local_links.py
+          python -m unittest discover -s tests -v
+          git diff --check
+
+      - name: Commit and push a complete snapshot
+        shell: bash
+        run: |
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "No catalog change to publish."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: refresh rolling arXiv snapshot $(date -u +%F)"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

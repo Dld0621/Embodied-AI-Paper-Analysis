@@ -7,6 +7,7 @@ import json
 import re
 import sys
 from collections import Counter
+from datetime import date, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -296,12 +297,11 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
             errors.append(f"{track}: must include papers from at least three major venues")
 
     for relative, markers in {
-        "README.md": ("2022–2026", "3,724", "21,411", "systematic conference census"),
+        "README.md": ("2022–2026", "3,724", "systematic conference census"),
         "index.html": (
             "data/papers.json",
             "direction-grid",
-            "Systematic census",
-            "23735",
+            "Research the field",
             "research-workbench",
             "corpus-filters",
             "source-filters",
@@ -314,7 +314,6 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
         "papers/README.md": (
             "2022–2026",
             "3,724 conference papers",
-            "21,411 recent arXiv papers",
             "Direction coverage",
             "Three-level taxonomy",
         ),
@@ -362,18 +361,32 @@ def validate_arxiv(catalog: dict, arxiv: dict) -> tuple[list[str], dict[str, obj
     tracks = catalog.get("tracks", [])
     if arxiv.get("schema_version") != 2:
         errors.append("arXiv schema_version must be 2")
-    if window != {
-        "start": "2024-01-01",
-        "end": "2026-08-07",
-        "years": [2024, 2025, 2026],
-    }:
-        errors.append("arXiv window must define the frozen 2024-2026 snapshot")
+    try:
+        start_date = date.fromisoformat(window["start"])
+        end_date = date.fromisoformat(window["end"])
+        try:
+            expected_start = end_date.replace(year=end_date.year - 3)
+        except ValueError:
+            expected_start = end_date.replace(year=end_date.year - 3, day=28)
+        expected_years = set(range(start_date.year, end_date.year + 1))
+        if start_date != expected_start:
+            errors.append("arXiv window must span exactly three rolling years")
+        if end_date > date.today() or date.today() - end_date > timedelta(days=8):
+            errors.append("arXiv snapshot must be no more than eight days old")
+        if window.get("years") != sorted(expected_years):
+            errors.append("arXiv window years must match its inclusive calendar years")
+        if arxiv.get("as_of") != window["end"] or source.get("snapshot_date") != window["end"]:
+            errors.append("arXiv snapshot dates must match the rolling-window end")
+    except (KeyError, TypeError, ValueError):
+        start_date = end_date = date.min
+        expected_years = set()
+        errors.append("arXiv window must contain valid ISO start/end dates and years")
     if arxiv.get("tracks") != tracks:
         errors.append("arXiv tracks must match the conference catalog")
     if source.get("category") != "cs.RO" or "submittedDate" not in source.get("query", ""):
         errors.append("arXiv source must declare the cs.RO submitted-date query")
-    if source.get("candidate_records") != 27597:
-        errors.append("arXiv candidate ledger must match the frozen API snapshot")
+    if not isinstance(source.get("candidate_records"), int) or source.get("candidate_records", 0) < len(papers):
+        errors.append("arXiv candidate ledger must contain at least all classified papers")
     if source.get("classified_records") != len(papers):
         errors.append("arXiv classified ledger must match papers")
     if source.get("unclassified_records") != source.get("candidate_records", 0) - len(papers):
@@ -417,7 +430,7 @@ def validate_arxiv(catalog: dict, arxiv: dict) -> tuple[list[str], dict[str, obj
         year_counts[paper["year"]] += 1
         if paper["track"] not in tracks:
             errors.append(f"{paper['title']}: unsupported arXiv track")
-        if paper["year"] not in {2024, 2025, 2026}:
+        if paper["year"] not in expected_years:
             errors.append(f"{paper['title']}: arXiv year outside recent window")
         if not window["start"] <= paper["published"] <= window["end"]:
             errors.append(f"{paper['title']}: arXiv published date outside window")
@@ -434,11 +447,10 @@ def validate_arxiv(catalog: dict, arxiv: dict) -> tuple[list[str], dict[str, obj
     duplicate_ids = [arxiv_id for arxiv_id, count in ids.items() if count > 1]
     if duplicate_ids:
         errors.append(f"duplicate arXiv ids: {len(duplicate_ids)}")
-    expected_years = {2024, 2025, 2026}
     for track in tracks:
         years = {paper["year"] for paper in papers if paper.get("track") == track}
         if years != expected_years:
-            errors.append(f"{track}: recent arXiv layer must cover 2024, 2025, and 2026")
+            errors.append(f"{track}: recent arXiv layer must cover {sorted(expected_years)}")
         if track_counts[track] != source.get("track_counts", {}).get(track):
             errors.append(f"{track}: arXiv track ledger mismatch")
     for year in expected_years:

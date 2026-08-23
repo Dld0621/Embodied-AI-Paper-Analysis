@@ -14,7 +14,7 @@ How do multimodal foundation models turn perception and language into general ro
 
 **Venues:** CVPR · CoRL · ECCV · ICCV · ICLR · ICML · ICRA · IROS · NeurIPS · RSS
 
-**Recent arXiv layer:** [3,276 papers from 2024–2026](../arxiv/foundation-models-vla/README.md)
+**Recent arXiv layer:** [3,276 papers from 2024-01-01–2026-08-07](../arxiv/foundation-models-vla/README.md)
 
 ## Subfield map · 二级子领域
 

@@ -2,7 +2,7 @@
 
 [← Direction conference catalog](../../tracks/dexterity-teleoperation.md) · [All directions](../../README.md)
 
-> 935 arXiv papers · 2024–2026 · frozen 2026-08-07
+> 935 arXiv papers · 2024-01-01–2026-08-07 · frozen 2026-08-07
 
 How do hands, tactile signals, and teleoperation interfaces support contact-rich control?
 

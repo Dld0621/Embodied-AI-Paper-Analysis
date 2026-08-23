@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Build the recent arXiv layer from the complete cs.RO category window.
+"""Build the rolling three-year arXiv layer from the complete cs.RO window.
 
 The discovery boundary is every arXiv record whose primary or cross-listed
-category matches cs.RO and whose original submission date is in calendar years
-2024-2026 through the repository snapshot date. Records are assigned to one of
-the seven research directions by a deterministic title/abstract taxonomy.
+category matches cs.RO and whose original submission date falls in the three
+years ending on the execution date. Records are assigned to one of the seven
+research directions by a deterministic title/abstract taxonomy.
 
 The arXiv API is paged conservatively and requests are separated by at least
 three seconds, following the API manual. This script is intentionally separate
@@ -16,6 +16,7 @@ from __future__ import annotations
 
 import argparse
 from collections import Counter
+from datetime import date, timedelta
 from http.client import IncompleteRead
 import json
 import re
@@ -36,18 +37,36 @@ OUTPUT_PATH = ROOT / "data" / "arxiv_recent.json"
 CACHE_PATH = ROOT / "data" / "arxiv_recent.sync.tmp"
 CONFERENCE_PATH = ROOT / "data" / "papers.json"
 API = "https://export.arxiv.org/api/query"
-START_DATE = "2024-01-01"
-END_DATE = "2026-08-07"
+
+
+def subtract_years(value: date, years: int) -> date:
+    """Return the same calendar date ``years`` earlier, clamping leap day."""
+    try:
+        return value.replace(year=value.year - years)
+    except ValueError:
+        return value.replace(year=value.year - years, day=28)
+
+
+def half_year_segments(start: date, end: date) -> tuple[tuple[str, str], ...]:
+    """Split an inclusive date window into bounded ascending API slices."""
+    segments: list[tuple[str, str]] = []
+    cursor = start
+    while cursor <= end:
+        boundary = date(cursor.year, 6, 30) if cursor.month <= 6 else date(cursor.year, 12, 31)
+        segment_end = min(boundary, end)
+        segments.append((cursor.isoformat(), segment_end.isoformat()))
+        cursor = segment_end + timedelta(days=1)
+    return tuple(segments)
+
+
+SNAPSHOT_DATE = date.today()
+WINDOW_START = subtract_years(SNAPSHOT_DATE, 3)
+START_DATE = WINDOW_START.isoformat()
+END_DATE = SNAPSHOT_DATE.isoformat()
+WINDOW_YEARS = list(range(WINDOW_START.year, SNAPSHOT_DATE.year + 1))
 PAGE_SIZE = 1000
 REQUEST_DELAY_SECONDS = 3.1
-SEGMENTS = (
-    ("2024-01-01", "2024-06-30"),
-    ("2024-07-01", "2024-12-31"),
-    ("2025-01-01", "2025-06-30"),
-    ("2025-07-01", "2025-12-31"),
-    ("2026-01-01", "2026-06-30"),
-    ("2026-07-01", END_DATE),
-)
+SEGMENTS = half_year_segments(WINDOW_START, SNAPSHOT_DATE)
 
 ATOM = "http://www.w3.org/2005/Atom"
 OPEN_SEARCH = "http://a9.com/-/spec/opensearch/1.1/"
@@ -361,9 +380,9 @@ def build_payload(records: list[dict[str, Any]], candidate_count: int) -> dict[s
     return {
         "schema_version": 2,
         "as_of": END_DATE,
-        "window": {"start": START_DATE, "end": END_DATE, "years": [2024, 2025, 2026]},
+        "window": {"start": START_DATE, "end": END_DATE, "years": WINDOW_YEARS},
         "scope": (
-            "Every arXiv cs.RO record submitted from 2024-01-01 through 2026-08-07 "
+            f"Every arXiv cs.RO record submitted from {START_DATE} through {END_DATE} "
             "that is admitted by the repository's deterministic seven-direction title/abstract taxonomy."
         ),
         "source": {
@@ -372,7 +391,10 @@ def build_payload(records: list[dict[str, Any]], candidate_count: int) -> dict[s
             "api_documentation": "https://info.arxiv.org/help/api/user-manual.html",
             "query": query_string(),
             "category": "cs.RO",
-            "harvest_strategy": "Six ascending half-year slices to remain below arXiv's unstable deep-pagination boundary",
+            "harvest_strategy": (
+                f"{len(SEGMENTS)} ascending half-year slices to remain below "
+                "arXiv's unstable deep-pagination boundary"
+            ),
             "candidate_records": candidate_count,
             "classified_records": len(records),
             "unclassified_records": candidate_count - len(records),
@@ -380,10 +402,11 @@ def build_payload(records: list[dict[str, Any]], candidate_count: int) -> dict[s
             "conference_unique_title_overlap": conference_unique_overlap,
             "arxiv_normalized_title_duplicates": arxiv_title_duplicates,
             "combined_unique_records": combined_unique_records,
+            "classification": (
+                "Level 1 uses the title/abstract admission rules in "
+                "scripts/sync_arxiv_recent.py; levels 2 and 3 use scripts/taxonomy.py."
+            ),
             "taxonomy_version": taxonomy_metadata()["version"],
-            "classification": "Level 1 uses the title/abstract admission rules in scripts/sync_arxiv_recent.py; levels 2 and 3 use scripts/taxonomy.py.",
-            "classification": "Deterministic title/abstract taxonomy in scripts/sync_arxiv_recent.py",
-            "taxonomy_version": 1,
             "snapshot_date": END_DATE,
             "track_counts": dict(sorted(track_counts.items())),
             "year_counts": {str(year): count for year, count in sorted(year_counts.items())},

@@ -24,15 +24,15 @@ Every record is organized as **research direction → subfield → specialty**. 
 
 ## Direction coverage · 方向覆盖
 
-| Research direction | Conference | arXiv 2024–2026 | Years | Direction catalogs |
+| Research direction | Conference | arXiv 2024-01-01–2026-08-07 | Years | Direction catalogs |
 |---|---:|---:|---|---|
-| Foundation Models & VLA · 基础模型与 VLA | 318 | 3,276 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024–2026 | [Conference](tracks/foundation-models-vla.md) · [arXiv](arxiv/foundation-models-vla/README.md) |
-| Manipulation & Imitation · 操作与模仿学习 | 941 | 3,817 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024–2026 | [Conference](tracks/manipulation-imitation.md) · [arXiv](arxiv/manipulation-imitation/README.md) |
-| Dexterity & Teleoperation · 灵巧操作与遥操作 | 339 | 935 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024–2026 | [Conference](tracks/dexterity-teleoperation.md) · [arXiv](arxiv/dexterity-teleoperation/README.md) |
-| Navigation & Embodied Agents · 导航与具身智能体 | 807 | 5,989 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024–2026 | [Conference](tracks/navigation-embodied-agents.md) · [arXiv](arxiv/navigation-embodied-agents/README.md) |
-| Humanoids & Locomotion · 人形机器人与运动控制 | 670 | 2,317 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024–2026 | [Conference](tracks/humanoids-locomotion.md) · [arXiv](arxiv/humanoids-locomotion/README.md) |
-| Perception & World Models · 感知与世界模型 | 317 | 2,154 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024–2026 | [Conference](tracks/perception-world-models.md) · [arXiv](arxiv/perception-world-models/README.md) |
-| Simulation, Data & Evaluation · 仿真、数据与评测 | 332 | 2,923 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024–2026 | [Conference](tracks/simulation-data-evaluation.md) · [arXiv](arxiv/simulation-data-evaluation/README.md) |
+| Foundation Models & VLA · 基础模型与 VLA | 318 | 3,276 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024-01-01–2026-08-07 | [Conference](tracks/foundation-models-vla.md) · [arXiv](arxiv/foundation-models-vla/README.md) |
+| Manipulation & Imitation · 操作与模仿学习 | 941 | 3,817 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024-01-01–2026-08-07 | [Conference](tracks/manipulation-imitation.md) · [arXiv](arxiv/manipulation-imitation/README.md) |
+| Dexterity & Teleoperation · 灵巧操作与遥操作 | 339 | 935 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024-01-01–2026-08-07 | [Conference](tracks/dexterity-teleoperation.md) · [arXiv](arxiv/dexterity-teleoperation/README.md) |
+| Navigation & Embodied Agents · 导航与具身智能体 | 807 | 5,989 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024-01-01–2026-08-07 | [Conference](tracks/navigation-embodied-agents.md) · [arXiv](arxiv/navigation-embodied-agents/README.md) |
+| Humanoids & Locomotion · 人形机器人与运动控制 | 670 | 2,317 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024-01-01–2026-08-07 | [Conference](tracks/humanoids-locomotion.md) · [arXiv](arxiv/humanoids-locomotion/README.md) |
+| Perception & World Models · 感知与世界模型 | 317 | 2,154 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024-01-01–2026-08-07 | [Conference](tracks/perception-world-models.md) · [arXiv](arxiv/perception-world-models/README.md) |
+| Simulation, Data & Evaluation · 仿真、数据与评测 | 332 | 2,923 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2024-01-01–2026-08-07 | [Conference](tracks/simulation-data-evaluation.md) · [arXiv](arxiv/simulation-data-evaluation/README.md) |
 
 ## Provenance · 来源层级
 
@@ -60,7 +60,7 @@ Every record is organized as **research direction → subfield → specialty**. 
 
 ## Census boundary · 普查边界
 
-- Window: 2022–2026, inclusive; 2026 is an in-progress snapshot frozen at 2026-08-07.
+- Window: 2022–2026, inclusive; the final year is an in-progress snapshot frozen at 2026-08-07.
 - Venues: RSS, CoRL, ICRA, IROS, ICLR, ICML, NeurIPS, CVPR, ICCV, and ECCV.
 - Discovery: Semantic Scholar bulk venue search with the query `robot`.
 - Admission: deterministic title taxonomy in `scripts/sync_conference_census.py`; medical and rehabilitation terms are excluded.

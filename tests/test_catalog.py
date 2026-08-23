@@ -4,6 +4,7 @@ import importlib.util
 import json
 import re
 import unittest
+from datetime import date, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -43,20 +44,24 @@ class CatalogContractTests(unittest.TestCase):
 
     def test_recent_arxiv_snapshot_contract(self) -> None:
         source = self.arxiv["source"]
-        self.assertEqual(source["candidate_records"], 27597)
-        self.assertEqual(len(self.arxiv_papers), 21411)
-        self.assertEqual(source["unclassified_records"], 6186)
-        self.assertEqual(source["conference_title_duplicates"], 1393)
-        self.assertEqual(source["conference_unique_title_overlap"], 1392)
-        self.assertEqual(source["arxiv_normalized_title_duplicates"], 8)
-        self.assertEqual(source["combined_unique_records"], 23735)
-        self.assertEqual(
-            self.arxiv["window"],
-            {"start": "2024-01-01", "end": "2026-08-07", "years": [2024, 2025, 2026]},
-        )
+        self.assertGreater(source["candidate_records"], 20_000)
+        self.assertGreater(len(self.arxiv_papers), 15_000)
+        self.assertEqual(source["classified_records"], len(self.arxiv_papers))
+        self.assertEqual(source["unclassified_records"], source["candidate_records"] - len(self.arxiv_papers))
+        start = date.fromisoformat(self.arxiv["window"]["start"])
+        end = date.fromisoformat(self.arxiv["window"]["end"])
+        try:
+            expected_start = end.replace(year=end.year - 3)
+        except ValueError:
+            expected_start = end.replace(year=end.year - 3, day=28)
+        self.assertEqual(start, expected_start)
+        self.assertLessEqual(date.today() - end, timedelta(days=8))
+        self.assertEqual(self.arxiv["window"]["years"], list(range(start.year, end.year + 1)))
+        self.assertEqual(self.arxiv["as_of"], self.arxiv["window"]["end"])
+        self.assertEqual(source["snapshot_date"], self.arxiv["window"]["end"])
 
     def test_recent_arxiv_covers_every_direction_and_year(self) -> None:
-        expected_years = {2024, 2025, 2026}
+        expected_years = set(self.arxiv["window"]["years"])
         for track in self.catalog["tracks"]:
             years = {
                 paper["year"]
@@ -72,7 +77,10 @@ class CatalogContractTests(unittest.TestCase):
         arxiv_titles = {
             AUDIT._combined_title_key(paper["title"]) for paper in self.arxiv_papers
         }
-        self.assertEqual(len(conference_titles | arxiv_titles), 23735)
+        self.assertEqual(
+            len(conference_titles | arxiv_titles),
+            self.arxiv["source"]["combined_unique_records"],
+        )
 
     def test_generated_arxiv_indexes_remain_github_renderable(self) -> None:
         for path in (ROOT / "papers" / "arxiv").rglob("*.md"):
@@ -129,8 +137,10 @@ class CatalogContractTests(unittest.TestCase):
     def test_detailed_root_readmes_cover_every_taxonomy_leaf(self) -> None:
         english = (ROOT / "README.md").read_text(encoding="utf-8")
         chinese = (ROOT / "README.zh-CN.md").read_text(encoding="utf-8")
-        self.assertIn("[简体中文](README.zh-CN.md)", english)
-        self.assertIn("[English](README.md)", chinese)
+        self.assertIn('href="README.zh-CN.md"', english)
+        self.assertIn('href="README.md"', chinese)
+        self.assertIn('src="assets/research-map.svg"', english)
+        self.assertIn('src="assets/research-map.svg"', chinese)
         self.assertIn("Seven-direction research map", english)
         self.assertIn("七方向三级研究地图", chinese)
 

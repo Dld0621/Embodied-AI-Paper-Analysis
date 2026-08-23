@@ -14,7 +14,7 @@ How should embodied systems be trained, stress-tested, and compared reproducibly
 
 **Venues:** CVPR · CoRL · ECCV · ICCV · ICLR · ICML · ICRA · IROS · NeurIPS · RSS
 
-**Recent arXiv layer:** [2,923 papers from 2024–2026](../arxiv/simulation-data-evaluation/README.md)
+**Recent arXiv layer:** [2,923 papers from 2024-01-01–2026-08-07](../arxiv/simulation-data-evaluation/README.md)
 
 ## Subfield map · 二级子领域
 

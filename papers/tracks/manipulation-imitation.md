@@ -14,7 +14,7 @@ How can robots acquire precise, robust manipulation skills from demonstrations a
 
 **Venues:** CVPR · CoRL · ECCV · ICCV · ICLR · ICML · ICRA · IROS · NeurIPS · RSS
 
-**Recent arXiv layer:** [3,817 papers from 2024–2026](../arxiv/manipulation-imitation/README.md)
+**Recent arXiv layer:** [3,817 papers from 2024-01-01–2026-08-07](../arxiv/manipulation-imitation/README.md)
 
 ## Subfield map · 二级子领域
 

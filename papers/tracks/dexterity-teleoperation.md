@@ -14,7 +14,7 @@ How do hands, tactile signals, and teleoperation interfaces support contact-rich
 
 **Venues:** CVPR · CoRL · ECCV · ICCV · ICLR · ICML · ICRA · IROS · NeurIPS · RSS
 
-**Recent arXiv layer:** [935 papers from 2024–2026](../arxiv/dexterity-teleoperation/README.md)
+**Recent arXiv layer:** [935 papers from 2024-01-01–2026-08-07](../arxiv/dexterity-teleoperation/README.md)
 
 ## Subfield map · 二级子领域
 

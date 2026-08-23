@@ -14,7 +14,7 @@ How do agents build spatial memory, plan, and act over long horizons in open env
 
 **Venues:** CVPR · CoRL · ICCV · ICLR · ICML · ICRA · IROS · NeurIPS · RSS
 
-**Recent arXiv layer:** [5,989 papers from 2024–2026](../arxiv/navigation-embodied-agents/README.md)
+**Recent arXiv layer:** [5,989 papers from 2024-01-01–2026-08-07](../arxiv/navigation-embodied-agents/README.md)
 
 ## Subfield map · 二级子领域
 

@@ -2,7 +2,7 @@
 
 [← Direction conference catalog](../../tracks/humanoids-locomotion.md) · [All directions](../../README.md)
 
-> 2,317 arXiv papers · 2024–2026 · frozen 2026-08-07
+> 2,317 arXiv papers · 2024-01-01–2026-08-07 · frozen 2026-08-07
 
 How can whole-body policies achieve agile, stable, and transferable motion?
 

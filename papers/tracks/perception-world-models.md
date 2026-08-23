@@ -14,7 +14,7 @@ How do robots estimate task-relevant state and predict the consequences of actio
 
 **Venues:** CVPR · CoRL · ECCV · ICCV · ICLR · ICML · ICRA · IROS · NeurIPS · RSS
 
-**Recent arXiv layer:** [2,154 papers from 2024–2026](../arxiv/perception-world-models/README.md)
+**Recent arXiv layer:** [2,154 papers from 2024-01-01–2026-08-07](../arxiv/perception-world-models/README.md)
 
 ## Subfield map · 二级子领域
 

@@ -1,13 +1,20 @@
-# Embodied AI Paper Analysis
+<div align="center">
+<h1>Embodied AI Paper Analysis</h1>
+<p><strong>Map the literature. Trace the evidence.</strong></p>
+<p>Bilingual, auditable literature infrastructure for Embodied AI researchers</p>
+<p><strong>English · <a href="README.zh-CN.md">简体中文</a></strong></p>
+</div>
 
-**English · [简体中文](README.zh-CN.md)**
+<p align="center"><img src="assets/research-map.svg" width="100%" alt="Two evidence layers connected to a seven-direction Embodied AI research map"></p>
 
 > An auditable research workbench for 3,724 five-year conference papers and 21,411 recent arXiv preprints, organized into 7 directions, 40 level-2 subfields, and 200 finest-grained paper catalogs.
 
-[![Workbench](https://img.shields.io/badge/Research_workbench-open-2563eb?style=flat-square)](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)
-[![Conference](https://img.shields.io/badge/Conference-3%2C724-111827?style=flat-square)](data/papers.json)
-[![arXiv](https://img.shields.io/badge/arXiv-21%2C411-b31b1b?style=flat-square)](data/arxiv_recent.json)
-[![Taxonomy](https://img.shields.io/badge/Taxonomy-7%E2%86%9240%E2%86%92200-0891b2?style=flat-square)](papers/taxonomy/README.md)
+<p align="center">
+<a href="https://dld0621.github.io/Embodied-AI-Paper-Analysis/"><img src="https://img.shields.io/badge/Research_workbench-open-2563eb?style=flat-square" alt="Research workbench"></a>
+<a href="data/papers.json"><img src="https://img.shields.io/badge/Conference-3%2C724-111827?style=flat-square" alt="Conference papers"></a>
+<a href="data/arxiv_recent.json"><img src="https://img.shields.io/badge/arXiv-21%2C411-b31b1b?style=flat-square" alt="arXiv preprints"></a>
+<a href="papers/taxonomy/README.md"><img src="https://img.shields.io/badge/Taxonomy-7%E2%86%9240%E2%86%92200-0891b2?style=flat-square" alt="Three-level taxonomy"></a>
+</p>
 
 ## Start here
 

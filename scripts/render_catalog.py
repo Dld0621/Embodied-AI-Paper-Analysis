@@ -27,6 +27,15 @@ def slugify(value: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", value.casefold()).strip("-")
 
 
+def arxiv_years(arxiv: dict) -> list[int]:
+    """Return every calendar year touched by the rolling date window, newest first."""
+    return sorted((int(year) for year in arxiv["window"]["years"]), reverse=True)
+
+
+def arxiv_window_label(arxiv: dict) -> str:
+    return f"{arxiv['window']['start']}–{arxiv['window']['end']}"
+
+
 def escape_cell(value: object) -> str:
     return str(value).replace("|", "&#124;").replace("\n", " ")
 
@@ -354,7 +363,7 @@ def render_taxonomy_leaf_outputs(catalog: dict, arxiv: dict) -> dict[Path, str]:
                 partition_links: list[tuple[str, str, int]] = []
                 for layer, papers, years in (
                     ("Conference", conference_papers, range(catalog["window"]["end"], catalog["window"]["start"] - 1, -1)),
-                    ("arXiv", arxiv_papers, (2026, 2025, 2024)),
+                    ("arXiv", arxiv_papers, arxiv_years(arxiv)),
                 ):
                     for year in years:
                         year_papers = [paper for paper in papers if paper["year"] == year]
@@ -477,7 +486,7 @@ def render_overview(catalog: dict, arxiv: dict) -> str:
         "",
         "## Direction coverage · 方向覆盖",
         "",
-        "| Research direction | Conference | arXiv 2024–2026 | Years | Direction catalogs |",
+        f"| Research direction | Conference | arXiv {arxiv_window_label(arxiv)} | Years | Direction catalogs |",
         "|---|---:|---:|---|---|",
     ])
     for track in catalog["tracks"]:
@@ -489,7 +498,7 @@ def render_overview(catalog: dict, arxiv: dict) -> str:
         path = f"tracks/{slugify(track)}.md"
         arxiv_path = f"arxiv/{slugify(track)}/README.md"
         lines.append(
-            f"| {track} · {meta['name_zh']} | {len(track_papers):,} | {arxiv_total:,} | {years} · arXiv 2024–2026 | [Conference]({path}) · [arXiv]({arxiv_path}) |"
+            f"| {track} · {meta['name_zh']} | {len(track_papers):,} | {arxiv_total:,} | {years} · arXiv {arxiv_window_label(arxiv)} | [Conference]({path}) · [arXiv]({arxiv_path}) |"
         )
 
     lines.extend([
@@ -518,13 +527,13 @@ def render_overview(catalog: dict, arxiv: dict) -> str:
         "",
         "## Census boundary · 普查边界",
         "",
-        "- Window: 2022–2026, inclusive; 2026 is an in-progress snapshot frozen at 2026-08-07.",
+        f"- Window: {catalog['window']['start']}–{catalog['window']['end']}, inclusive; the final year is an in-progress snapshot frozen at {catalog['as_of']}.",
         "- Venues: RSS, CoRL, ICRA, IROS, ICLR, ICML, NeurIPS, CVPR, ICCV, and ECCV.",
         "- Discovery: Semantic Scholar bulk venue search with the query `robot`.",
         "- Admission: deterministic title taxonomy in `scripts/sync_conference_census.py`; medical and rehabilitation terms are excluded.",
         "- Deduplication: normalized title; the 74 manually verified seed records override discovered duplicates.",
         "- Every entry has an online paper link and a provenance link. Provenance tiers are shown explicitly instead of calling every bibliographic index an official acceptance page.",
-        f"- Recent arXiv layer: all {arxiv['source']['candidate_records']:,} cs.RO candidates submitted from 2024-01-01 through 2026-08-07 were evaluated; {len(arxiv_papers):,} were admitted by the same seven-direction taxonomy.",
+        f"- Recent arXiv layer: all {arxiv['source']['candidate_records']:,} cs.RO candidates submitted from {arxiv['window']['start']} through {arxiv['window']['end']} were evaluated; {len(arxiv_papers):,} were admitted by the same seven-direction taxonomy.",
         "- arXiv papers remain a separate preprint layer. A title appearing in both layers is not evidence of conference acceptance unless the conference record supplies that provenance.",
         "",
         "---",
@@ -561,7 +570,7 @@ def render_track(catalog: dict, arxiv: dict, track: str) -> str:
         "",
         f"**Venues:** {' · '.join(venues)}",
         "",
-        f"**Recent arXiv layer:** [{len(arxiv_papers):,} papers from 2024–2026]({arxiv_path})",
+        f"**Recent arXiv layer:** [{len(arxiv_papers):,} papers from {arxiv_window_label(arxiv)}]({arxiv_path})",
     ]
     lines.extend([
         "",
@@ -627,7 +636,7 @@ def render_arxiv_track(catalog: dict, arxiv: dict, track: str) -> str:
         "",
         f"[← Direction conference catalog](../../tracks/{slug}.md) · [All directions](../../README.md)",
         "",
-        f"> {len(papers):,} arXiv papers · 2024–2026 · frozen {arxiv['as_of']}",
+        f"> {len(papers):,} arXiv papers · {arxiv_window_label(arxiv)} · frozen {arxiv['as_of']}",
         "",
         meta["question"],
         "",
@@ -653,7 +662,7 @@ def render_arxiv_track(catalog: dict, arxiv: dict, track: str) -> str:
         "| Year | Papers | Complete list |",
         "|---:|---:|---|",
     ])
-    for year in (2026, 2025, 2024):
+    for year in arxiv_years(arxiv):
         lines.append(f"| {year} | {year_counts[year]:,} | [Open](./{year}.md) |")
     lines.extend([
         "",
@@ -876,16 +885,23 @@ def render_root_readme(catalog: dict, arxiv: dict, language: str) -> str:
 
     if is_zh:
         lines = [
-            "# Embodied AI Paper Analysis · 具身智能论文研究地图",
+            "<div align=\"center\">",
+            "<h1>Embodied AI Paper Analysis</h1>",
+            "<p><strong>构建文献地图，追溯研究证据。</strong></p>",
+            "<p>面向具身智能科研工作者的双语、可审计文献基础设施</p>",
+            "<p><strong><a href=\"README.md\">English</a> · 简体中文</strong></p>",
+            "</div>",
             "",
-            "**[English](README.md) · 简体中文**",
+            "<p align=\"center\"><img src=\"assets/research-map.svg\" width=\"100%\" alt=\"具身智能双层证据与七方向研究地图\"></p>",
             "",
             f"> 面向科研工作者的可审计论文工作台：{conference_count:,} 篇近五年顶会论文、{arxiv_count:,} 篇近三年 arXiv 预印本，按 7 个一级方向、{taxonomy['subcategory_count']} 个二级子领域和 {leaf_count} 个最细论文目录组织。",
             "",
-            "[![在线工作台](https://img.shields.io/badge/在线科研工作台-打开-2563eb?style=flat-square)](https://dld0621.github.io/Embodied-AI-Paper-Analysis/?lang=zh)",
-            f"[![顶会论文](https://img.shields.io/badge/顶会论文-{conference_badge}-111827?style=flat-square)](data/papers.json)",
-            f"[![arXiv](https://img.shields.io/badge/arXiv-{arxiv_badge}-b31b1b?style=flat-square)](data/arxiv_recent.json)",
-            f"[![三级分类](https://img.shields.io/badge/分类-{taxonomy_badge}-0891b2?style=flat-square)](papers/taxonomy/README.md)",
+            "<p align=\"center\">",
+            "<a href=\"https://dld0621.github.io/Embodied-AI-Paper-Analysis/?lang=zh\"><img src=\"https://img.shields.io/badge/在线科研工作台-打开-2563eb?style=flat-square\" alt=\"在线科研工作台\"></a>",
+            f"<a href=\"data/papers.json\"><img src=\"https://img.shields.io/badge/顶会论文-{conference_badge}-111827?style=flat-square\" alt=\"顶会论文\"></a>",
+            f"<a href=\"data/arxiv_recent.json\"><img src=\"https://img.shields.io/badge/arXiv-{arxiv_badge}-b31b1b?style=flat-square\" alt=\"arXiv 预印本\"></a>",
+            f"<a href=\"papers/taxonomy/README.md\"><img src=\"https://img.shields.io/badge/分类-{taxonomy_badge}-0891b2?style=flat-square\" alt=\"三级分类\"></a>",
+            "</p>",
             "",
             "## 快速入口",
             "",
@@ -981,16 +997,23 @@ def render_root_readme(catalog: dict, arxiv: dict, language: str) -> str:
         ])
     else:
         lines = [
-            "# Embodied AI Paper Analysis",
+            "<div align=\"center\">",
+            "<h1>Embodied AI Paper Analysis</h1>",
+            "<p><strong>Map the literature. Trace the evidence.</strong></p>",
+            "<p>Bilingual, auditable literature infrastructure for Embodied AI researchers</p>",
+            "<p><strong>English · <a href=\"README.zh-CN.md\">简体中文</a></strong></p>",
+            "</div>",
             "",
-            "**English · [简体中文](README.zh-CN.md)**",
+            "<p align=\"center\"><img src=\"assets/research-map.svg\" width=\"100%\" alt=\"Two evidence layers connected to a seven-direction Embodied AI research map\"></p>",
             "",
             f"> An auditable research workbench for {conference_count:,} five-year conference papers and {arxiv_count:,} recent arXiv preprints, organized into 7 directions, {taxonomy['subcategory_count']} level-2 subfields, and {leaf_count} finest-grained paper catalogs.",
             "",
-            "[![Workbench](https://img.shields.io/badge/Research_workbench-open-2563eb?style=flat-square)](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)",
-            f"[![Conference](https://img.shields.io/badge/Conference-{conference_badge}-111827?style=flat-square)](data/papers.json)",
-            f"[![arXiv](https://img.shields.io/badge/arXiv-{arxiv_badge}-b31b1b?style=flat-square)](data/arxiv_recent.json)",
-            f"[![Taxonomy](https://img.shields.io/badge/Taxonomy-{taxonomy_badge}-0891b2?style=flat-square)](papers/taxonomy/README.md)",
+            "<p align=\"center\">",
+            "<a href=\"https://dld0621.github.io/Embodied-AI-Paper-Analysis/\"><img src=\"https://img.shields.io/badge/Research_workbench-open-2563eb?style=flat-square\" alt=\"Research workbench\"></a>",
+            f"<a href=\"data/papers.json\"><img src=\"https://img.shields.io/badge/Conference-{conference_badge}-111827?style=flat-square\" alt=\"Conference papers\"></a>",
+            f"<a href=\"data/arxiv_recent.json\"><img src=\"https://img.shields.io/badge/arXiv-{arxiv_badge}-b31b1b?style=flat-square\" alt=\"arXiv preprints\"></a>",
+            f"<a href=\"papers/taxonomy/README.md\"><img src=\"https://img.shields.io/badge/Taxonomy-{taxonomy_badge}-0891b2?style=flat-square\" alt=\"Three-level taxonomy\"></a>",
+            "</p>",
             "",
             "## Start here",
             "",
@@ -1102,7 +1125,7 @@ def render_outputs() -> dict[Path, str]:
         slug = slugify(track)
         outputs[TRACK_DIR / f"{slug}.md"] = render_track(catalog, arxiv, track)
         outputs[ARXIV_DIR / slug / "README.md"] = render_arxiv_track(catalog, arxiv, track)
-        for year in (2026, 2025, 2024):
+        for year in arxiv_years(arxiv):
             year_path = ARXIV_DIR / slug / f"{year}.md"
             rendered_year = render_arxiv_year(arxiv, track, year)
             if len(rendered_year.encode("utf-8")) <= 400_000:

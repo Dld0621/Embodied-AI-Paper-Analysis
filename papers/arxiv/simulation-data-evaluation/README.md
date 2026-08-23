@@ -2,7 +2,7 @@
 
 [← Direction conference catalog](../../tracks/simulation-data-evaluation.md) · [All directions](../../README.md)
 
-> 2,923 arXiv papers · 2024–2026 · frozen 2026-08-07
+> 2,923 arXiv papers · 2024-01-01–2026-08-07 · frozen 2026-08-07
 
 How should embodied systems be trained, stress-tested, and compared reproducibly?
 
