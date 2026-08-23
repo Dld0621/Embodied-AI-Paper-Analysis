@@ -19,7 +19,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 330
     steps:
       - name: Checkout main
         uses: actions/checkout@v4
@@ -38,8 +38,32 @@ jobs:
           git fetch origin "${GITHUB_REF_NAME}"
           test "$(git rev-parse HEAD)" = "$(git rev-parse "origin/${GITHUB_REF_NAME}")"
 
+      - name: Restore an interrupted arXiv harvest
+        uses: actions/cache/restore@v4
+        with:
+          path: data/arxiv_recent.sync.tmp
+          key: arxiv-sync-${{ github.ref_name }}-${{ github.run_id }}
+          restore-keys: |
+            arxiv-sync-${{ github.ref_name }}-
+
       - name: Refresh the rolling three-year cs.RO census
-        run: python scripts/sync_arxiv_recent.py
+        shell: bash
+        run: |
+          for attempt in 1 2 3; do
+            if python scripts/sync_arxiv_recent.py; then
+              exit 0
+            fi
+            echo "Harvest attempt ${attempt} was interrupted; resuming from its page cache in 180 seconds."
+            sleep 180
+          done
+          exit 1
+
+      - name: Save an interrupted arXiv harvest
+        if: ${{ always() && hashFiles('data/arxiv_recent.sync.tmp') != '' }}
+        uses: actions/cache/save@v4
+        with:
+          path: data/arxiv_recent.sync.tmp
+          key: arxiv-sync-${{ github.ref_name }}-${{ github.run_id }}
 
       - name: Rebuild generated catalogs
         run: python scripts/render_catalog.py

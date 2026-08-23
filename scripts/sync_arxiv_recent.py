@@ -64,8 +64,8 @@ WINDOW_START = subtract_years(SNAPSHOT_DATE, 3)
 START_DATE = WINDOW_START.isoformat()
 END_DATE = SNAPSHOT_DATE.isoformat()
 WINDOW_YEARS = list(range(WINDOW_START.year, SNAPSHOT_DATE.year + 1))
-PAGE_SIZE = 1000
-REQUEST_DELAY_SECONDS = 3.1
+PAGE_SIZE = 2000
+REQUEST_DELAY_SECONDS = 10.0
 SEGMENTS = half_year_segments(WINDOW_START, SNAPSHOT_DATE)
 
 ATOM = "http://www.w3.org/2005/Atom"
@@ -192,9 +192,10 @@ def segment_query(start_date: str) -> str:
     return f"cat:cs.RO AND submittedDate:[{start} TO {end}]"
 
 
-def fetch_xml(params: dict[str, str | int], retries: int = 8) -> ET.Element:
+def fetch_xml(params: dict[str, str | int], retries: int = 12) -> ET.Element:
     url = f"{API}?{urlencode(params)}"
     for attempt in range(retries):
+        retry_delay = min(10 * (attempt + 1), 60)
         try:
             request = Request(
                 url,
@@ -203,15 +204,26 @@ def fetch_xml(params: dict[str, str | int], retries: int = 8) -> ET.Element:
                     "Accept": "application/atom+xml",
                 },
             )
-            with urlopen(request, timeout=180) as response:
+            with urlopen(request, timeout=240) as response:
                 return ET.fromstring(response.read())
         except HTTPError as error:
             if error.code not in {429, 500, 502, 503, 504} or attempt == retries - 1:
                 raise
+            if error.code == 429:
+                retry_after = error.headers.get("Retry-After")
+                retry_delay = (
+                    max(float(retry_after), 60.0)
+                    if retry_after and retry_after.replace(".", "", 1).isdigit()
+                    else min(60 * (attempt + 1), 180)
+                )
         except (ET.ParseError, IncompleteRead, TimeoutError, URLError):
             if attempt == retries - 1:
                 raise
-        time.sleep(min(5 * (attempt + 1), 30))
+        print(
+            f"arXiv request retry {attempt + 1}/{retries} after {retry_delay:.0f}s",
+            flush=True,
+        )
+        time.sleep(retry_delay)
     raise RuntimeError("unreachable")
 
 
