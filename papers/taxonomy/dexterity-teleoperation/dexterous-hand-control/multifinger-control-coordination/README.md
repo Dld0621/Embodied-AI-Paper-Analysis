@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Dexterous%20Hand%20Control&specialty=Multifinger%20Control%20%26%20Coordination#research-workbench)
 
-> 14 conference papers · 18 recent arXiv papers
+> 14 conference papers · 33 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,19 +33,29 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | A Two-stage Learning Architecture that Generates High-Quality Grasps for a Multi-Fingered Hand | IROS · Multi Finger | [Paper](https://elib.dlr.de/191780/1/winkelbauer2022.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981133) |
 | 2022 | Multi-Finger Grasping Like Humans | IROS · Multi Finger | [Paper](https://inria.hal.science/hal-04323199) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981805) |
 
-## Recent arXiv papers (18)
+## Recent arXiv papers (33)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-16 | ReForce: Learning Force-aware Retargeting for Dexterous Manipulation | Yuhang Wu, Lingqi Zeng, Changwei Jing, Jianglong Ye et al. | [Abstract](https://arxiv.org/abs/2608.15560) · [PDF](https://arxiv.org/pdf/2608.15560) |
+| 2026-06-13 | DragMesh-2: Physically Plausible Dexterous Hand-Object Interaction with Articulated Objects | Tianshan Zhang, Yijia Duan, Yanjun Li, Zeyu Zhang et al. | [Abstract](https://arxiv.org/abs/2606.15133) · [PDF](https://arxiv.org/pdf/2606.15133) |
 | 2026-06-09 | PLUME: Probabilistic Latent Unified World Modeling and Parameter Estimation for Multi-Finger Manipulation | Abhinav Kumar, Soshi Iba, Rana Soltani Zarrin, Dmitry Berenson | [Abstract](https://arxiv.org/abs/2606.11396) · [PDF](https://arxiv.org/pdf/2606.11396) |
 | 2026-03-12 | A Generalized Theory of Load Distribution in Redundantly-actuated Robotic Systems | Joshua Flight, Clément Gosselin | [Abstract](https://arxiv.org/abs/2603.11431) · [PDF](https://arxiv.org/pdf/2603.11431) |
 | 2026-03-09 | Multifingered force-aware control for humanoid robots | Pasquale Marra, Gabriele M. Caddeo, Ugo Pattacini, Lorenzo Natale | [Abstract](https://arxiv.org/abs/2603.08142) · [PDF](https://arxiv.org/pdf/2603.08142) |
+| 2026-03-05 | Contact-Grounded Policy: Dexterous Visuotactile Policy with Generative Contact Grounding | Zhengtong Xu, Yeping Wang, Ben Abbatematteo, Jom Preechayasomboon et al. | [Abstract](https://arxiv.org/abs/2603.05687) · [PDF](https://arxiv.org/pdf/2603.05687) |
+| 2026-02-10 | SERNF: Sample-Efficient Real-World Dexterous Policy Fine-Tuning via Action-Chunked Critics and Normalizing Flows | Chenyu Yang, Denis Tarasov, Davide Liconti, Romain Guntz et al. | [Abstract](https://arxiv.org/abs/2602.09580) · [PDF](https://arxiv.org/pdf/2602.09580) |
+| 2026-02-09 | Dexterous Manipulation Policies from RGB Human Videos via 3D Hand-Object Trajectory Reconstruction | Hongyi Chen, Tony Dong, Tiancheng Wu, Liquan Wang et al. | [Abstract](https://arxiv.org/abs/2602.09013) · [PDF](https://arxiv.org/pdf/2602.09013) |
+| 2025-12-03 | House of Dextra: Cross-embodied Co-design for Dexterous Hands | Kehlani Fay, Darin Anthony Djapri, Anya Zorin, James Clinton et al. | [Abstract](https://arxiv.org/abs/2512.03743) · [PDF](https://arxiv.org/pdf/2512.03743) |
 | 2025-11-21 | Leveraging CVAE for Joint Configuration Estimation of Multifingered Grippers from Point Cloud Data | Julien Merand, Boris Meden, Mathieu Grossard | [Abstract](https://arxiv.org/abs/2511.17276) · [PDF](https://arxiv.org/pdf/2511.17276) |
 | 2025-11-20 | Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations | Irmak Guzey, Haozhi Qi, Julen Urain, Changhao Wang et al. | [Abstract](https://arxiv.org/abs/2511.16661) · [PDF](https://arxiv.org/pdf/2511.16661) |
 | 2025-11-17 | From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands | Jianglong Ye, Lai Wei, Guangqi Jiang, Changwei Jing et al. | [Abstract](https://arxiv.org/abs/2511.13710) · [PDF](https://arxiv.org/pdf/2511.13710) |
+| 2025-10-19 | RAPID Hand Prototype: Design of an Affordable, Fully-Actuated Biomimetic Hand for Dexterous Teleoperation | Zhaoliang Wan, Zida Zhou, Zetong Bi, Zehui Yang et al. | [Abstract](https://arxiv.org/abs/2510.16931) · [PDF](https://arxiv.org/pdf/2510.16931) |
 | 2025-09-30 | ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm | Benjamin A. Richardson, Felix Grüninger, Lukas Mack, Joerg Stueckler et al. | [Abstract](https://arxiv.org/abs/2509.26236) · [PDF](https://arxiv.org/pdf/2509.26236) |
 | 2025-07-09 | Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand | Wei Xu, Yanchao Zhao, Weichao Guo, Xinjun Sheng | [Abstract](https://arxiv.org/abs/2507.06822) · [PDF](https://arxiv.org/pdf/2507.06822) |
+| 2025-06-20 | Learning Dexterous Object Handover | Daniel Frau-Alfaro, Julio Castaño-Amoros, Santiago Puente, Pablo Gil et al. | [Abstract](https://arxiv.org/abs/2506.16822) · [PDF](https://arxiv.org/pdf/2506.16822) |
+| 2025-05-04 | Prompt-responsive Object Retrieval with Memory-augmented Student-Teacher Learning | Malte Mosbach, Sven Behnke | [Abstract](https://arxiv.org/abs/2505.02232) · [PDF](https://arxiv.org/pdf/2505.02232) |
 | 2025-03-10 | Focused Blind Switching Manipulation Based on Constrained and Regional Touch States of Multi-Fingered Hand Using Deep Learning | Satoshi Funabashi, Atsumu Hiramoto, Naoya Chiba, Alexander Schmitz et al. | [Abstract](https://arxiv.org/abs/2503.07757) · [PDF](https://arxiv.org/pdf/2503.07757) |
+| 2024-11-06 | Object-Centric Dexterous Manipulation from Human Motion Data | Yuanpei Chen, Chen Wang, Yaodong Yang, C. Karen Liu | [Abstract](https://arxiv.org/abs/2411.04005) · [PDF](https://arxiv.org/pdf/2411.04005) |
 | 2024-10-31 | Get a Grip: Multi-Finger Grasp Evaluation at Scale Enables Robust Sim-to-Real Transfer | Tyler Ga Wei Lum, Albert H. Li, Preston Culbertson, Krishnan Srinivasan et al. | [Abstract](https://arxiv.org/abs/2410.23701) · [PDF](https://arxiv.org/pdf/2410.23701) |
 | 2024-10-17 | Language Conditioned Multi-Finger Dexterous Manipulation Enabled by Physical Compliance and Switching of Controllers | Cheng Pan, Kai Junge, Benhui Dai, Qinghua Guan et al. | [Abstract](https://arxiv.org/abs/2410.14022) · [PDF](https://arxiv.org/pdf/2410.14022) |
 | 2024-09-21 | The Foundational Pose as a Selection Mechanism for the Design of Tool-Wielding Multi-Finger Robotic Hands | Sunyu Wang, Jean Oh, Nancy S. Pollard | [Abstract](https://arxiv.org/abs/2409.14158) · [PDF](https://arxiv.org/pdf/2409.14158) |
@@ -55,6 +65,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-04-12 | ContactDexNet: Multi-fingered Robotic Hand Grasping in Cluttered Environments through Hand-object Contact Semantic Mapping | Lei Zhang, Kaixin Bai, Guowen Huang, Zhenshan Bing et al. | [Abstract](https://arxiv.org/abs/2404.08844) · [PDF](https://arxiv.org/pdf/2404.08844) |
 | 2024-01-29 | Print-N-Grip: A Disposable, Compliant, Scalable and One-Shot 3D-Printed Multi-Fingered Robotic Hand | Alon Laron, Eran Sne, Yaron Perets, Avishai Sintov | [Abstract](https://arxiv.org/abs/2401.16463) · [PDF](https://arxiv.org/pdf/2401.16463) |
 | 2024-01-26 | RESPRECT: Speeding-up Multi-fingered Grasping with Residual Reinforcement Learning | Federico Ceola, Lorenzo Rosasco, Lorenzo Natale | [Abstract](https://arxiv.org/abs/2401.14858) · [PDF](https://arxiv.org/pdf/2401.14858) |
+| 2023-11-07 | Self-Contained and Automatic Calibration of a Multi-Fingered Hand Using Only Pairwise Contact Measurements | Johannes Tenhumberg, Leon Sievers, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2311.03957) · [PDF](https://arxiv.org/pdf/2311.03957) |
+| 2023-10-31 | Combining Shape Completion and Grasp Prediction for Fast and Versatile Grasping with a Multi-Fingered Hand | Matthias Humt, Dominik Winkelbauer, Ulrich Hillenbrand, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2310.20350) · [PDF](https://arxiv.org/pdf/2310.20350) |
+| 2023-10-27 | Multi-fingered Dynamic Grasping for Unknown Objects | Yannick Burkhardt, Qian Feng, Jianxiang Feng, Karan Sharma et al. | [Abstract](https://arxiv.org/abs/2310.17923) · [PDF](https://arxiv.org/pdf/2310.17923) |
+| 2023-09-29 | MORPH: Design Co-optimization with Reinforcement Learning via a Differentiable Hardware Model Proxy | Zhanpeng He, Matei Ciocarlie | [Abstract](https://arxiv.org/abs/2309.17227) · [PDF](https://arxiv.org/pdf/2309.17227) |
+| 2023-08-26 | TeleFMG: A Wearable Force-Myography Device for Natural Teleoperation of Multi-finger Robotic Hands | Alon Mizrahi, Avishai Sintov | [Abstract](https://arxiv.org/abs/2308.13929) · [PDF](https://arxiv.org/pdf/2308.13929) |
 
 ---
 

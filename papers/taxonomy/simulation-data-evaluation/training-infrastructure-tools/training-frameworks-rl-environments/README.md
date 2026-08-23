@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Training%20Infrastructure%20%26%20Tools&specialty=Training%20Frameworks%20%26%20RL%20Environments#research-workbench)
 
-> 0 conference papers · 13 recent arXiv papers
+> 0 conference papers · 17 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,14 +18,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (13)
+## Recent arXiv papers (17)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-07-05 | Geometry-Aware Infrastructure-Anchored Denoiser for UWB Sensing and Work-Zone Reconstruction | Weizhe Tang, Jiaxi Liu, Junwei you, Steven T. Parker et al. | [Abstract](https://arxiv.org/abs/2607.05449) · [PDF](https://arxiv.org/pdf/2607.05449) |
+| 2026-05-15 | Task-Semantic Graph-Driven Distributed Agent Networking for Underwater Target Tracking | Shengchao Zhu, Guangjie Han, Chuan Lin, Yu He | [Abstract](https://arxiv.org/abs/2605.15528) · [PDF](https://arxiv.org/pdf/2605.15528) |
 | 2026-03-26 | CROSS: A Mixture-of-Experts Reinforcement Learning Framework for Generalizable Large-Scale Traffic Signal Control | Xibei Chen, Yifeng Zhang, Yuxiang Xiao, Mingfeng Fan et al. | [Abstract](https://arxiv.org/abs/2603.24930) · [PDF](https://arxiv.org/pdf/2603.24930) |
 | 2026-03-11 | MAVEN: A Meta-Reinforcement Learning Framework for Varying-Dynamics Expertise in Agile Quadrotor Maneuvers | Jin Zhou, Dongcheng Cao, Xian Wang, Shuo Li | [Abstract](https://arxiv.org/abs/2603.10714) · [PDF](https://arxiv.org/pdf/2603.10714) |
-| 2026-01-06 | FIRE-VLM: A Vision-Language-Driven Reinforcement Learning Framework for UAV Wildfire Tracking in a Physics-Grounded Fire Digital Twin | Chris Webb, Mobin Habibpour, Mayamin Hamid Raha, Ali Reza Tavakkoli et al. | [Abstract](https://arxiv.org/abs/2601.03449) · [PDF](https://arxiv.org/pdf/2601.03449) |
 | 2025-11-06 | A Multi-Drone Multi-View Dataset and Deep Learning Framework for Pedestrian Detection and Tracking | Kosta Dakic, Kanchana Thilakarathna, Rodrigo N. Calheiros, Teng Joon Lim | [Abstract](https://arxiv.org/abs/2511.08615) · [PDF](https://arxiv.org/pdf/2511.08615) |
+| 2025-05-13 | Automatic Curriculum Learning for Driving Scenarios: Towards Robust and Efficient Reinforcement Learning | Ahmed Abouelazm, Tim Weinstein, Tim Joseph, Philip Schörner et al. | [Abstract](https://arxiv.org/abs/2505.08264) · [PDF](https://arxiv.org/pdf/2505.08264) |
 | 2025-03-11 | V-Max: A Reinforcement Learning Framework for Autonomous Driving | Valentin Charraut, Waël Doulazmi, Thomas Tournaire, Thibault Buhet | [Abstract](https://arxiv.org/abs/2503.08388) · [PDF](https://arxiv.org/pdf/2503.08388) |
 | 2025-02-23 | MetaSym: A Symplectic Meta-learning Framework for Physical Intelligence | Pranav Vaidhyanathan, Aristotelis Papatheodorou, Mark T. Mitchison, Natalia Ares et al. | [Abstract](https://arxiv.org/abs/2502.16667) · [PDF](https://arxiv.org/pdf/2502.16667) |
 | 2024-11-01 | Phenology-based learning framework for yield estimation and harvest forecasting of raspberry fruits | Parham Jafary, Lesley G. Campbell, Anna Bazangeya, Michelle Pham et al. | [Abstract](https://arxiv.org/abs/2411.00967) · [PDF](https://arxiv.org/pdf/2411.00967) |
@@ -35,6 +37,8 @@ No conference papers currently map to this specialty.
 | 2024-07-01 | FedRC: A Rapid-Converged Hierarchical Federated Learning Framework in Street Scene Semantic Understanding | Wei-Bin Kou, Qingfeng Lin, Ming Tang, Shuai Wang et al. | [Abstract](https://arxiv.org/abs/2407.01103) · [PDF](https://arxiv.org/pdf/2407.01103) |
 | 2024-06-05 | Dynamically Expanding Capacity of Autonomous Driving with Near-Miss Focused Training Framework | Ziyuan Yang, Zhaoyang Li, Jianming Hu, Yi Zhang | [Abstract](https://arxiv.org/abs/2406.02865) · [PDF](https://arxiv.org/pdf/2406.02865) |
 | 2024-03-19 | Digital Twin-Driven Reinforcement Learning for Obstacle Avoidance in Robot Manipulators: A Self-Improving Online Training Framework | Yuzhu Sun, Mien Van, Stephen McIlvanna, Nguyen Minh Nhat et al. | [Abstract](https://arxiv.org/abs/2403.13090) · [PDF](https://arxiv.org/pdf/2403.13090) |
+| 2023-12-08 | Datasets, Models, and Algorithms for Multi-Sensor, Multi-agent Autonomy Using AVstack | R. Spencer Hallyburton, Miroslav Pajic | [Abstract](https://arxiv.org/abs/2312.04970) · [PDF](https://arxiv.org/pdf/2312.04970) |
+| 2023-10-22 | Learning to bag with a simulation-free reinforcement learning framework for robots | Francisco Munguia-Galeano, Jihong Zhu, Juan David Hernández, Ze Ji | [Abstract](https://arxiv.org/abs/2310.14398) · [PDF](https://arxiv.org/pdf/2310.14398) |
 
 ---
 

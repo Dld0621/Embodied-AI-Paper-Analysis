@@ -1,10 +1,6 @@
 name: Refresh rolling arXiv catalog
 
 on:
-  # Temporary branch trigger used to validate the first rolling refresh on a
-  # GitHub-hosted runner. It is removed before publication to main.
-  push:
-    branches: ["codex/converge-five-year-top-venues"]
   schedule:
     - cron: "10 2 * * 1"
   workflow_dispatch:
@@ -21,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 330
     steps:
-      - name: Checkout main
+      - name: Checkout target branch
         uses: actions/checkout@v4
         with:
           ref: ${{ github.ref_name }}
@@ -32,7 +28,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Verify the checked-out main tip
+      - name: Verify the checked-out branch tip
         shell: bash
         run: |
           git fetch origin "${GITHUB_REF_NAME}"

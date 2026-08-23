@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Bimanual%20Coordination&specialty=Dual-arm%20Planning%20%26%20Control#research-workbench)
 
-> 0 conference papers · 0 recent arXiv papers
+> 0 conference papers · 1 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,9 +18,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (0)
+## Recent arXiv papers (1)
 
-No recent arXiv papers currently map to this specialty.
+| Date | Paper | Authors | Online links |
+|---|---|---|---|
+| 2026-03-14 | Vision-guided Autonomous Dual-arm Extraction Robot for Bell Pepper Harvesting | Kshitij Madhav Bhat, Tom Gao, Abhishek Mathur, Rohit Satishkumar et al. | [Abstract](https://arxiv.org/abs/2603.13987) · [PDF](https://arxiv.org/pdf/2603.13987) |
 
 ---
 

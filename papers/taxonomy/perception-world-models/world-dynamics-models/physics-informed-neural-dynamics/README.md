@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=World%20%26%20Dynamics%20Models&specialty=Physics-informed%20%26%20Neural%20Dynamics#research-workbench)
 
-> 5 conference papers · 45 recent arXiv papers
+> 5 conference papers · 46 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,7 +24,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Efficient Preference-Based Reinforcement Learning Using Learned Dynamics Models | ICRA · Dynamics Model | [Paper](https://arxiv.org/abs/2301.04741) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161081) |
 | 2022 | Efficient Learning of Inverse Dynamics Models for Adaptive Computed Torque Control | IROS · Dynamics Model | [Paper](https://www.research.ed.ac.uk/en/publications/a1a4a26e-1956-479e-838d-3637173b0316) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981744) |
 
-## Recent arXiv papers (45)
+## Recent arXiv papers (46)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -73,6 +73,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-03-13 | Analytical Forward Dynamics Modeling of Linearly Actuated Heavy-Duty Parallel-Serial Manipulators | Paz Alvaro, Jouni Mattila | [Abstract](https://arxiv.org/abs/2403.08524) · [PDF](https://arxiv.org/pdf/2403.08524) |
 | 2024-02-11 | Towards Robust Car Following Dynamics Modeling via Blackbox Models: Methodology, Analysis, and Recommendations | Muhammad Bilal Shahid, Cody Fleming | [Abstract](https://arxiv.org/abs/2402.07139) · [PDF](https://arxiv.org/pdf/2402.07139) |
 | 2024-01-08 | Task-Oriented Active Learning of Model Preconditions for Inaccurate Dynamics Models | Alex LaGrassa, Moonyoung Lee, Oliver Kroemer | [Abstract](https://arxiv.org/abs/2401.04007) · [PDF](https://arxiv.org/pdf/2401.04007) |
+| 2023-12-07 | Deep Dynamics: Vehicle Dynamics Modeling with a Physics-Constrained Neural Network for Autonomous Racing | John Chrosniak, Jingyun Ning, Madhur Behl | [Abstract](https://arxiv.org/abs/2312.04374) · [PDF](https://arxiv.org/pdf/2312.04374) |
 
 ---
 

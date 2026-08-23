@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Object%2C%20Pose%20%26%20Affordance%20Perception&specialty=Affordance%20%26%20Interaction%20Prediction#research-workbench)
 
-> 31 conference papers · 64 recent arXiv papers
+> 31 conference papers · 72 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -50,10 +50,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | AssistQ: Affordance-centric Question-driven Task Completion for Egocentric Assistant | ECCV · Affordance | [Paper](https://arxiv.org/abs/2203.04203) · [Publisher](https://doi.org/10.48550/arXiv.2203.04203) |
 | 2022 | Affordance Learning from Play for Sample-Efficient Policy Learning | ICRA · Affordance | [Paper](https://arxiv.org/abs/2203.00352) · [Publisher](https://doi.org/10.48550/arXiv.2203.00352) |
 
-## Recent arXiv papers (64)
+## Recent arXiv papers (72)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-18 | Reproducible Multimodal Affordance Prediction | Tommaso Apicella, Alessio Xompero, Andrea Cavallaro | [Abstract](https://arxiv.org/abs/2608.18317) · [PDF](https://arxiv.org/pdf/2608.18317) |
+| 2026-08-13 | FUSE: Active Functional Affordance Grounding through Adaptive Semantic-Geometric Evidence Acquisition | Zhou Chen, Sathyanarayanan N. Aakur | [Abstract](https://arxiv.org/abs/2608.12683) · [PDF](https://arxiv.org/pdf/2608.12683) |
 | 2026-07-30 | Filling the Pareto-Optimal Front for Affordance Segmentation on Embedded Devices Using RGB-D Cameras | Edoardo Ragusa, Giovanni Paolo Canuti, Simone Lugani, Rodolfo Zunino et al. | [Abstract](https://arxiv.org/abs/2607.28293) · [PDF](https://arxiv.org/pdf/2607.28293) |
 | 2026-07-20 | Distilling Global Traversability Priors for Image-based Affordance Prediction in Off-road Environments | Matthew Sivaprakasam, Samuel Triest, Micah Nye, Deegan Atha et al. | [Abstract](https://arxiv.org/abs/2607.17984) · [PDF](https://arxiv.org/pdf/2607.17984) |
 | 2026-07-08 | Agent-Exploitation Affordances: From Basic to Complex Representation Patterns | Bastien Dussard, Aurélie Clodic, Guillaume Sarthou | [Abstract](https://arxiv.org/abs/2607.07475) · [PDF](https://arxiv.org/pdf/2607.07475) |
@@ -99,12 +101,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-10-25 | Semantics in Robotics: Environmental Data Can't Yield Conventions of Human Behaviour | Jamie Milton Freestone | [Abstract](https://arxiv.org/abs/2410.19308) · [PDF](https://arxiv.org/pdf/2410.19308) |
 | 2024-10-23 | Incremental Learning of Affordances using Markov Logic Networks | George Potter, Gertjan Burghouts, Joris Sijs | [Abstract](https://arxiv.org/abs/2410.17624) · [PDF](https://arxiv.org/pdf/2410.17624) |
 | 2024-09-18 | SpotLight: Robotic Scene Understanding through Interaction and Affordance Detection | Tim Engelbracht, René Zurbrügg, Marc Pollefeys, Hermann Blum et al. | [Abstract](https://arxiv.org/abs/2409.11870) · [PDF](https://arxiv.org/pdf/2409.11870) |
-| 2024-09-18 | Gradient-Driven 3D Segmentation and Affordance Transfer in Gaussian Splatting Using 2D Masks | Joji Joseph, Bharadwaj Amrutur, Shalabh Bhatnagar | [Abstract](https://arxiv.org/abs/2409.11681) · [PDF](https://arxiv.org/pdf/2409.11681) |
 | 2024-09-18 | GauTOAO: Gaussian-based Task-Oriented Affordance of Objects | Jiawen Wang, Dingsheng Luo | [Abstract](https://arxiv.org/abs/2409.11941) · [PDF](https://arxiv.org/pdf/2409.11941) |
 | 2024-09-18 | Discovering Conceptual Knowledge with Analytic Ontology Templates for Articulated Objects | Jianhua Sun, Yuxuan Li, Longfei Xu, Jiude Wei et al. | [Abstract](https://arxiv.org/abs/2409.11702) · [PDF](https://arxiv.org/pdf/2409.11702) |
 | 2024-09-16 | 3D-TAFS: A Training-free Framework for 3D Affordance Segmentation | Meng Chu, Xuan Zhang, Zhedong Zheng, Tat-Seng Chua | [Abstract](https://arxiv.org/abs/2409.10078) · [PDF](https://arxiv.org/pdf/2409.10078) |
 | 2024-09-09 | Leveraging Computation of Expectation Models for Commonsense Affordance Estimation on 3D Scene Graphs | Mario A. V. Saucedo, Nikolaos Stathoulopoulos, Akash Patel, Christoforos Kanellakis et al. | [Abstract](https://arxiv.org/abs/2409.05392) · [PDF](https://arxiv.org/pdf/2409.05392) |
 | 2024-08-31 | DAP: Diffusion-based Affordance Prediction for Multi-modality Storage | Haonan Chang, Kowndinya Boyalakuntla, Yuhan Liu, Xinyu Zhang et al. | [Abstract](https://arxiv.org/abs/2409.00499) · [PDF](https://arxiv.org/pdf/2409.00499) |
+| 2024-08-22 | LLM-enhanced Scene Graph Learning for Household Rearrangement | Wenhao Li, Zhiyuan Yu, Qijin She, Zhinan Yu et al. | [Abstract](https://arxiv.org/abs/2408.12093) · [PDF](https://arxiv.org/pdf/2408.12093) |
 | 2024-08-04 | EqvAfford: SE(3) Equivariance for Point-Level Affordance Learning | Yue Chen, Chenrui Tie, Ruihai Wu, Hao Dong | [Abstract](https://arxiv.org/abs/2408.01953) · [PDF](https://arxiv.org/pdf/2408.01953) |
 | 2024-08-04 | A Value Function Space Approach for Hierarchical Planning with Signal Temporal Logic Tasks | Peiran Liu, Yiting He, Yihao Qin, Hang Zhou et al. | [Abstract](https://arxiv.org/abs/2408.01923) · [PDF](https://arxiv.org/pdf/2408.01923) |
 | 2024-07-26 | HRP: Human Affordances for Robotic Pre-Training | Mohan Kumar Srirama, Sudeep Dasari, Shikhar Bahl, Abhinav Gupta | [Abstract](https://arxiv.org/abs/2407.18911) · [PDF](https://arxiv.org/pdf/2407.18911) |
@@ -118,6 +120,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-08 | Gaussian Mixture Models for Affordance Learning using Bayesian Networks | Pedro Osório, Alexandre Bernardino, Ruben Martinez-Cantin, José Santos-Victor | [Abstract](https://arxiv.org/abs/2402.06078) · [PDF](https://arxiv.org/pdf/2402.06078) |
 | 2024-02-08 | An Optimal Control Formulation of Tool Affordance Applied to Impact Tasks | Boyang Ti, Yongsheng Gao, Jie Zhao, Sylvain Calinon | [Abstract](https://arxiv.org/abs/2402.05502) · [PDF](https://arxiv.org/pdf/2402.05502) |
 | 2024-01-21 | General Flow as Foundation Affordance for Scalable Robot Learning | Chengbo Yuan, Chuan Wen, Tong Zhang, Yang Gao | [Abstract](https://arxiv.org/abs/2401.11439) · [PDF](https://arxiv.org/pdf/2401.11439) |
+| 2023-12-20 | Shared Affordance-awareness via Augmented Reality for Proactive Assistance in Human-robot Collaboration | Drake Moore, Mark Zolotas, Taskin Padir | [Abstract](https://arxiv.org/abs/2312.13410) · [PDF](https://arxiv.org/pdf/2312.13410) |
+| 2023-12-11 | One Size Does not Fit All: Personalised Affordance Design for Social Robots | Guanyu Huang, Roger K. Moore | [Abstract](https://arxiv.org/abs/2312.06566) · [PDF](https://arxiv.org/pdf/2312.06566) |
+| 2023-11-27 | Towards Designing Spatial Robots that are Architecturally Motivated | Binh Vinh Duc Nguyen, Andrew Vande Moere | [Abstract](https://arxiv.org/abs/2311.16314) · [PDF](https://arxiv.org/pdf/2311.16314) |
+| 2023-09-19 | Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation | Tuan Van Vo, Minh Nhat Vu, Baoru Huang, Toan Nguyen et al. | [Abstract](https://arxiv.org/abs/2309.10932) · [PDF](https://arxiv.org/pdf/2309.10932) |
+| 2023-09-19 | Multi-Object Graph Affordance Network: Goal-Oriented Planning through Learned Compound Object Affordances | Tuba Girgin, Emre Ugur | [Abstract](https://arxiv.org/abs/2309.10426) · [PDF](https://arxiv.org/pdf/2309.10426) |
+| 2023-09-14 | Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects | Chuanruo Ning, Ruihai Wu, Haoran Lu, Kaichun Mo et al. | [Abstract](https://arxiv.org/abs/2309.07473) · [PDF](https://arxiv.org/pdf/2309.07473) |
 
 ---
 

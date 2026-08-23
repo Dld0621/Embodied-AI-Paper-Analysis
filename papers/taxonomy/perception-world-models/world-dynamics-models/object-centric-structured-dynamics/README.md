@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=World%20%26%20Dynamics%20Models&specialty=Object-centric%20%26%20Structured%20Dynamics#research-workbench)
 
-> 1 conference papers · 1 recent arXiv papers
+> 1 conference papers · 3 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,11 +20,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2024 | Learning to Walk from Three Minutes of Real-World Data with Semi-structured Dynamics Models | CoRL · Dynamics Model | [Paper](https://arxiv.org/abs/2410.09163) · [Publisher](https://doi.org/10.48550/arXiv.2410.09163) |
 
-## Recent arXiv papers (1)
+## Recent arXiv papers (3)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2025-10-06 | StaMo: Unsupervised Learning of Generalizable Robot Motion from Compact State Representation | Mingyu Liu, Jiuhe Shu, Hui Chen, Zeju Li et al. | [Abstract](https://arxiv.org/abs/2510.05057) · [PDF](https://arxiv.org/pdf/2510.05057) |
 | 2024-10-11 | Learning to Walk from Three Minutes of Real-World Data with Semi-structured Dynamics Models | Jacob Levy, Tyler Westenbroek, David Fridovich-Keil | [Abstract](https://arxiv.org/abs/2410.09163) · [PDF](https://arxiv.org/pdf/2410.09163) |
+| 2023-10-06 | SlotGNN: Unsupervised Discovery of Multi-Object Representations and Visual Dynamics | Alireza Rezazadeh, Athreyi Badithela, Karthik Desingh, Changhyun Choi | [Abstract](https://arxiv.org/abs/2310.04617) · [PDF](https://arxiv.org/pdf/2310.04617) |
 
 ---
 

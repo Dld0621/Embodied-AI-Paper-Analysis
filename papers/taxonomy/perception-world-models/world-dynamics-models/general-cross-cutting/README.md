@@ -22,11 +22,11 @@ No conference papers currently map to this specialty.
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-07-31 | AquaJEPA: An Action-Conditioned Multimodal JEPA Family for Underwater Robot Dynamics | Alan-Barsag Gazzaev, Alexey Gavrilov, Sergey Muravyov | [Abstract](https://arxiv.org/abs/2607.29393) · [PDF](https://arxiv.org/pdf/2607.29393) |
 | 2026-07-01 | Structured 4D Latent Predictive Model for Robot Planning | Zhiyi Li, Peilin Wu, Xiaoshen Han, Ruojin Cai et al. | [Abstract](https://arxiv.org/abs/2607.01166) · [PDF](https://arxiv.org/pdf/2607.01166) |
 | 2026-04-22 | A Systematic Review and Taxonomy of Reinforcement Learning-Model Predictive Control Integration for Linear Systems | Mohsen Jalaeian Farimani, Roya Khalili Amirabadi, Davoud Nikkhouy, Malihe Abdolbaghi et al. | [Abstract](https://arxiv.org/abs/2604.21030) · [PDF](https://arxiv.org/pdf/2604.21030) |
 | 2026-04-21 | Autonomous UAV Pipeline Near-proximity Inspection via Disturbance-Aware Predictive Visual Servoing | Wen Li, Hui Wang, Jinya Su, Cunjia Liu et al. | [Abstract](https://arxiv.org/abs/2604.19618) · [PDF](https://arxiv.org/pdf/2604.19618) |
 | 2026-02-12 | Human-Like Gaze Behavior in Social Robots: A Deep Learning Approach Integrating Human and Non-Human Stimuli | Faezeh Vahedi, Morteza Memari, Ramtin Tabatabaei, Alireza Taheri | [Abstract](https://arxiv.org/abs/2602.11648) · [PDF](https://arxiv.org/pdf/2602.11648) |
-| 2026-01-31 | LatentTrack: Sequential Weight Generation via Latent Filtering | Omer Haq | [Abstract](https://arxiv.org/abs/2602.00458) · [PDF](https://arxiv.org/pdf/2602.00458) |
 | 2025-12-19 | Learning Safe Autonomous Driving Policies Using Predictive Safety Representations | Mahesh Keswani, Raunak Bhattacharyya | [Abstract](https://arxiv.org/abs/2512.17586) · [PDF](https://arxiv.org/pdf/2512.17586) |
 | 2025-11-29 | Data-Driven Modeling and Correction of Vehicle Dynamics | Nguyen Ly, Caroline Tatsuoka, Jai Nagaraj, Jacob Levy et al. | [Abstract](https://arxiv.org/abs/2512.00289) · [PDF](https://arxiv.org/pdf/2512.00289) |
 | 2025-07-20 | From Kicking to Causality: Simulating Infant Agency Detection with a Robust Intrinsic Reward | Xia Xu, Jochen Triesch | [Abstract](https://arxiv.org/abs/2507.15106) · [PDF](https://arxiv.org/pdf/2507.15106) |

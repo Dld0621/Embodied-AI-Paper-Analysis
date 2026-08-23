@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Visual%20%26%20Language%20Navigation&specialty=Vision-language%20Navigation#research-workbench)
 
-> 4 conference papers · 89 recent arXiv papers
+> 4 conference papers · 103 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,10 +23,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | MG-VLN: Benchmarking Multi-Goal and Long-Horizon Vision-Language Navigation with Language Enhanced Memory Map | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801689) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801689) |
 | 2024 | Multimodal Evolutionary Encoder for Continuous Vision-Language Navigation | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802484) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802484) |
 
-## Recent arXiv papers (89)
+## Recent arXiv papers (103)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-18 | If, Then, Otherwise: Diagnosing Conditional Branching in Vision-Language Navigation | Seoyoung Lee, Neel P. Bhatt, Pranay Samineni, Cong Liu et al. | [Abstract](https://arxiv.org/abs/2608.17318) · [PDF](https://arxiv.org/pdf/2608.17318) |
+| 2026-08-13 | AirForesight: Current-to-Future Spatial Map Imagination with Cross-Space Planning Consistency for UAV-VLN | Yutong Liu, Xiaojie Li, Mingzhu Xu, Jianlong Wu | [Abstract](https://arxiv.org/abs/2608.12835) · [PDF](https://arxiv.org/pdf/2608.12835) |
+| 2026-08-07 | WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN | Yuehao Huang, Yunzi Wu, Xiaotao Zhang, Xinhai Li et al. | [Abstract](https://arxiv.org/abs/2608.07267) · [PDF](https://arxiv.org/pdf/2608.07267) |
 | 2026-08-02 | FreqNav: Stage-Wise Frequency Routing for Object-Oriented Aerial Vision-Language Navigation | Yin Tang, Jiawei Ma, Jiahao Li, Hao Zhang et al. | [Abstract](https://arxiv.org/abs/2608.00970) · [PDF](https://arxiv.org/pdf/2608.00970) |
 | 2026-07-31 | HAM-VLN: Harnessing Hierarchical Agentic Memory for Zero-Shot Vision-and-Language Navigation | An Liu, Bingxi Liu, Hongyu Ding, Yixuan Jiang et al. | [Abstract](https://arxiv.org/abs/2607.29600) · [PDF](https://arxiv.org/pdf/2607.29600) |
 | 2026-07-29 | BioVLN: A Simulation Platform for Visual Language Navigation in Biomedical Laboratories | Zhe Liu, Quan Lu, Zhaohui Du, Zhe Wang et al. | [Abstract](https://arxiv.org/abs/2607.26914) · [PDF](https://arxiv.org/pdf/2607.26914) |
@@ -42,6 +45,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-04 | LH-AVLN: A Benchmark for Long-Horizon Audio-Visual-Language Navigation | Rufeng Chen, Yue Chang, Zili Shao, Zhaofan Zhang et al. | [Abstract](https://arxiv.org/abs/2607.03920) · [PDF](https://arxiv.org/pdf/2607.03920) |
 | 2026-07-01 | DART-VLN: Test-Time Memory Decay and Anti-Loop Regularization for Discrete Vision-Language Navigation | Shaoheng Zhang, Zhichen Li, Jie Mei | [Abstract](https://arxiv.org/abs/2607.01043) · [PDF](https://arxiv.org/pdf/2607.01043) |
 | 2026-06-30 | DynFly: Dynamic-Aware Continuous Trajectory Generation for UAV Vision-Language Navigation in Urban Environments | Wen Jiang, Hanfang Liang, Li Wang, Kangyao Huang et al. | [Abstract](https://arxiv.org/abs/2606.31654) · [PDF](https://arxiv.org/pdf/2606.31654) |
+| 2026-06-29 | Automating the Design of Embodied Agent Architectures | Jian Zhou, Sihao Lin, Jin Li, Shuai Fu et al. | [Abstract](https://arxiv.org/abs/2606.30111) · [PDF](https://arxiv.org/pdf/2606.30111) |
+| 2026-06-08 | SpaceVLN: A Zero-Shot Vision-and-Language Navigation Agent with Online Spatial Cognitive Memory and Reasoning | Yucheng Deng, Pingrui Lai, Xinhai Li, Chenjia Bai et al. | [Abstract](https://arxiv.org/abs/2606.08992) · [PDF](https://arxiv.org/pdf/2606.08992) |
 | 2026-06-05 | Beyond Waypoints: A Trajectory-Centric Waypointing Paradigm for Vision-Language Navigation | Haoxiang Shi, Xiang Deng, Haoyu Zhang, Qiaohui Chu et al. | [Abstract](https://arxiv.org/abs/2606.07244) · [PDF](https://arxiv.org/pdf/2606.07244) |
 | 2026-06-02 | GN0: Toward a Unified Paradigm for Generation, Evaluation, and Policy Learning in Visual-Language Navigation | Xinhai Li, Xiaotao Zhang, Yuehao Huang, Jiankun Dong et al. | [Abstract](https://arxiv.org/abs/2606.03682) · [PDF](https://arxiv.org/pdf/2606.03682) |
 | 2026-06-01 | Hierarchical Semantic-Augmented Navigation: Optimal Transport and Graph-Driven Reasoning for Vision-Language Navigation | Xiang Fang, Wanlong Fang, Changshuo Wang | [Abstract](https://arxiv.org/abs/2606.01565) · [PDF](https://arxiv.org/pdf/2606.01565) |
@@ -66,6 +71,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-19 | Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation | Swagat Padhan, Lakshya Jain, Bhavya Minesh Shah, Omkar Patil et al. | [Abstract](https://arxiv.org/abs/2603.19166) · [PDF](https://arxiv.org/pdf/2603.19166) |
 | 2026-03-18 | OmniVLN: Omnidirectional 3D Perception and Token-Efficient LLM Reasoning for Visual-Language Navigation across Air and Ground Platforms | Zhongyuang Liu, Min He, Shaonan Yu, Xinhang Xu et al. | [Abstract](https://arxiv.org/abs/2603.17351) · [PDF](https://arxiv.org/pdf/2603.17351) |
 | 2026-03-18 | FloorPlan-VLN: A New Paradigm for Floor Plan Guided Vision-Language Navigation | Kehan Chen, Yan Huang, Dong An, Jiawei He et al. | [Abstract](https://arxiv.org/abs/2603.17437) · [PDF](https://arxiv.org/pdf/2603.17437) |
+| 2026-03-16 | HiMemVLN: Enhancing Reliability of Open-Source Zero-Shot Vision-and-Language Navigation with Hierarchical Memory System | Kailin Lyu, Kangyi Wu, Pengna Li, Xiuyu Hu et al. | [Abstract](https://arxiv.org/abs/2603.14807) · [PDF](https://arxiv.org/pdf/2603.14807) |
 | 2026-03-13 | HaltNav: Reactive Visual Halting over Lightweight Topological Priors for Robust Vision-Language Navigation | Zihui Yu, Pingcong Li, Bichi Zhang, Sören Schwertfeger | [Abstract](https://arxiv.org/abs/2603.12696) · [PDF](https://arxiv.org/pdf/2603.12696) |
 | 2026-03-11 | OnFly: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency | Guiyong Zheng, Yueting Ban, Mingjie Zhang, Juepeng Zheng et al. | [Abstract](https://arxiv.org/abs/2603.10682) · [PDF](https://arxiv.org/pdf/2603.10682) |
 | 2026-03-10 | SPAN-Nav: Generalized Spatial Awareness for Versatile Vision-Language Navigation | Jiahang Liu, Tianyu Xu, Jiawei Chen, Lu Yue et al. | [Abstract](https://arxiv.org/abs/2603.09163) · [PDF](https://arxiv.org/pdf/2603.09163) |
@@ -84,6 +90,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-12-31 | VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation agents | Xunyi Zhao, Gengze Zhou, Qi Wu | [Abstract](https://arxiv.org/abs/2512.24851) · [PDF](https://arxiv.org/pdf/2512.24851) |
 | 2025-12-24 | ETP-R1: Evolving Topological Planning with Reinforcement Fine-tuning for Vision-Language Navigation in Continuous Environments | Shuhao Ye, Sitong Mao, Yuxiang Cui, Xuan Yu et al. | [Abstract](https://arxiv.org/abs/2512.20940) · [PDF](https://arxiv.org/pdf/2512.20940) |
 | 2025-12-19 | Embodied4C: Measuring What Matters for Embodied Vision-Language Navigation | Tin Stribor Sohn, Maximilian Dillitzer, Jason J. Corso, Eric Sax | [Abstract](https://arxiv.org/abs/2512.18028) · [PDF](https://arxiv.org/pdf/2512.18028) |
+| 2025-12-11 | CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation | Liuyi Wang, Zongtao He, Jinlong Li, Ruihao Xia et al. | [Abstract](https://arxiv.org/abs/2512.10360) · [PDF](https://arxiv.org/pdf/2512.10360) |
 | 2025-11-21 | Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation | Shuo Wang, Yucheng Wang, Guoxin Lian, Yongcai Wang et al. | [Abstract](https://arxiv.org/abs/2511.17097) · [PDF](https://arxiv.org/pdf/2511.17097) |
 | 2025-11-09 | OpenVLN: Open-world Aerial Vision-Language Navigation | Peican Lin, Gan Sun, Chenxi Liu, Fazeng Li et al. | [Abstract](https://arxiv.org/abs/2511.06182) · [PDF](https://arxiv.org/pdf/2511.06182) |
 | 2025-10-22 | LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments | Hongyu Ding, Ziming Xu, Yudong Fang, You Wu et al. | [Abstract](https://arxiv.org/abs/2510.19655) · [PDF](https://arxiv.org/pdf/2510.19655) |
@@ -91,6 +98,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-09-29 | AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation | Xin Ding, Jianyu Wei, Yifan Yang, Shiqi Jiang et al. | [Abstract](https://arxiv.org/abs/2509.24387) · [PDF](https://arxiv.org/pdf/2509.24387) |
 | 2025-09-26 | JanusVLN: Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation | Shuang Zeng, Dekang Qi, Xinyuan Chang, Feng Xiong et al. | [Abstract](https://arxiv.org/abs/2509.22548) · [PDF](https://arxiv.org/pdf/2509.22548) |
 | 2025-09-24 | Boosting Zero-Shot VLN via Abstract Obstacle Map-Based Waypoint Prediction with TopoGraph-and-VisitInfo-Aware Prompting | Boqi Li, Siyuan Li, Weiyi Wang, Anran Li et al. | [Abstract](https://arxiv.org/abs/2509.20499) · [PDF](https://arxiv.org/pdf/2509.20499) |
+| 2025-09-23 | VLN-Zero: Rapid Exploration and Cache-Enabled Neurosymbolic Vision-Language Planning for Zero-Shot Transfer in Robot Navigation | Neel P. Bhatt, Yunhao Yang, Rohan Siva, Pranay Samineni et al. | [Abstract](https://arxiv.org/abs/2509.18592) · [PDF](https://arxiv.org/pdf/2509.18592) |
 | 2025-09-23 | SINGER: An Onboard Generalist Vision-Language Navigation Policy for Drones | Maximilian Adang, JunEn Low, Ola Shorinwa, Mac Schwager | [Abstract](https://arxiv.org/abs/2509.18610) · [PDF](https://arxiv.org/pdf/2509.18610) |
 | 2025-09-17 | FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph | Xiaolin Zhou, Tingyang Xiao, Liu Liu, Yucheng Wang et al. | [Abstract](https://arxiv.org/abs/2509.13733) · [PDF](https://arxiv.org/pdf/2509.13733) |
 | 2025-09-12 | GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation | Hang Yin, Haoyu Wei, Xiuwei Xu, Wenxuan Guo et al. | [Abstract](https://arxiv.org/abs/2509.10454) · [PDF](https://arxiv.org/pdf/2509.10454) |
@@ -103,7 +111,10 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-05-17 | Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation | Shuo Wang, Yongcai Wang, Wanting Li, Xudong Cai et al. | [Abstract](https://arxiv.org/abs/2505.11886) · [PDF](https://arxiv.org/pdf/2505.11886) |
 | 2025-05-06 | LogisticsVLN: Vision-Language Navigation For Low-Altitude Terminal Delivery Based on Agentic UAVs | Xinyuan Zhang, Yonglin Tian, Fei Lin, Yue Liu et al. | [Abstract](https://arxiv.org/abs/2505.03460) · [PDF](https://arxiv.org/pdf/2505.03460) |
 | 2025-05-06 | Automated Data Curation Using GPS & NLP to Generate Instruction-Action Pairs for Autonomous Vehicle Vision-Language Navigation Datasets | Guillermo Roque, Erika Maquiling, Jose Giovanni Tapia Lopez, Ross Greer | [Abstract](https://arxiv.org/abs/2505.03174) · [PDF](https://arxiv.org/pdf/2505.03174) |
+| 2025-04-30 | UAV-VLN: End-to-End Vision Language guided Navigation for UAVs | Pranav Saxena, Nishant Raghuvanshi, Neena Goveas | [Abstract](https://arxiv.org/abs/2504.21432) · [PDF](https://arxiv.org/pdf/2504.21432) |
+| 2025-03-13 | PanoGen++: Domain-Adapted Text-Guided Panoramic Environment Generation for Vision-and-Language Navigation | Sen Wang, Dongliang Zhou, Liang Xie, Chao Xu et al. | [Abstract](https://arxiv.org/abs/2503.09938) · [PDF](https://arxiv.org/pdf/2503.09938) |
 | 2025-02-25 | Openfly: A comprehensive platform for aerial vision-language navigation | Yunpeng Gao, Chenhui Li, Zhongrui You, Junli Liu et al. | [Abstract](https://arxiv.org/abs/2502.18041) · [PDF](https://arxiv.org/pdf/2502.18041) |
+| 2025-02-11 | TRAVEL: Training-Free Retrieval and Alignment for Vision-and-Language Navigation | Navid Rajabi, Jana Kosecka | [Abstract](https://arxiv.org/abs/2502.07306) · [PDF](https://arxiv.org/pdf/2502.07306) |
 | 2025-02-02 | VL-Nav: Neuro-Symbolic Reasoning-based Vision-Language Navigation | Yi Du, Taimeng Fu, Zhipeng Zhao, Shaoshu Su et al. | [Abstract](https://arxiv.org/abs/2502.00931) · [PDF](https://arxiv.org/pdf/2502.00931) |
 | 2024-12-13 | Constraint-Aware Zero-Shot Vision-Language Navigation in Continuous Environments | Kehan Chen, Dong An, Yan Huang, Rongtao Xu et al. | [Abstract](https://arxiv.org/abs/2412.10137) · [PDF](https://arxiv.org/pdf/2412.10137) |
 | 2024-11-27 | AdaVLN: Towards Visual Language Navigation in Continuous Indoor Environments with Moving Humans | Dillon Loh, Tomasz Bednarz, Xinxing Xia, Frank Guan | [Abstract](https://arxiv.org/abs/2411.18539) · [PDF](https://arxiv.org/pdf/2411.18539) |
@@ -116,6 +127,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-04-15 | AIGeN: An Adversarial Approach for Instruction Generation in VLN | Niyati Rawal, Roberto Bigazzi, Lorenzo Baraldi, Rita Cucchiara | [Abstract](https://arxiv.org/abs/2404.10054) · [PDF](https://arxiv.org/pdf/2404.10054) |
 | 2024-04-02 | Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation | Zihan Wang, Xiangyang Li, Jiahao Yang, Yeqi Liu et al. | [Abstract](https://arxiv.org/abs/2404.01943) · [PDF](https://arxiv.org/pdf/2404.01943) |
 | 2024-02-22 | Vision-Language Navigation with Embodied Intelligence: A Survey | Peng Gao, Peng Wang, Feng Gao, Fei Wang et al. | [Abstract](https://arxiv.org/abs/2402.14304) · [PDF](https://arxiv.org/pdf/2402.14304) |
+| 2023-12-02 | Planning as In-Painting: A Diffusion-Based Embodied Task Planning Framework for Environments under Uncertainty | Cheng-Fu Yang, Haoyang Xu, Te-Lin Wu, Xiaofeng Gao et al. | [Abstract](https://arxiv.org/abs/2312.01097) · [PDF](https://arxiv.org/pdf/2312.01097) |
+| 2023-09-20 | Discuss Before Moving: Visual Language Navigation via Multi-expert Discussions | Yuxing Long, Xiaoqi Li, Wenzhe Cai, Hao Dong | [Abstract](https://arxiv.org/abs/2309.11382) · [PDF](https://arxiv.org/pdf/2309.11382) |
+| 2023-09-10 | What Is Near?: Room Locality Learning for Enhanced Robot Vision-Language-Navigation in Indoor Living Environments | Muraleekrishna Gopinathan, Jumana Abu-Khalaf, David Suter, Sidike Paheding et al. | [Abstract](https://arxiv.org/abs/2309.05036) · [PDF](https://arxiv.org/pdf/2309.05036) |
 
 ---
 

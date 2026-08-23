@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Multimodal%20Grounding&specialty=Language-conditioned%20Control#research-workbench)
 
-> 18 conference papers · 58 recent arXiv papers
+> 18 conference papers · 73 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -37,10 +37,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Embodied Concept Learner: Self-supervised Learning of Concepts and Mapping through Instruction Following | CoRL · Instruction Following | [Paper](https://arxiv.org/abs/2304.03767) · [Publisher](https://doi.org/10.48550/arXiv.2304.03767) |
 | 2022 | Modularity through Attention: Efficient Training and Transfer of Language-Conditioned Policies for Robot Manipulation | CoRL · Language Conditioned | [Paper](https://arxiv.org/abs/2212.04573) · [Publisher](https://doi.org/10.48550/arXiv.2212.04573) |
 
-## Recent arXiv papers (58)
+## Recent arXiv papers (73)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-08 | Action- and Language-Conditioned Video Assessment for Embodied Control | Hwanhee Kim, Jaehyun Jang, Seungmin Cha, Hyeonseo Yun et al. | [Abstract](https://arxiv.org/abs/2608.08273) · [PDF](https://arxiv.org/pdf/2608.08273) |
 | 2026-07-31 | Towards General Language-Conditioned Latent Safety Filters | Ihab Tabbara, Yuxuan Yang, Hussein Sibai | [Abstract](https://arxiv.org/abs/2608.00315) · [PDF](https://arxiv.org/pdf/2608.00315) |
 | 2026-07-26 | Memory for Attention: Language-Conditioned Re-Perception with a Vision--Language--Motion Map | Dibyendu Ghosh | [Abstract](https://arxiv.org/abs/2607.23797) · [PDF](https://arxiv.org/pdf/2607.23797) |
 | 2026-07-26 | A Few Words Go a Long Way: Language Guided Robot Policy Synthesis | Daphne Chen, Archit Ritesh Jain, Eric Goossen, Emma Romig et al. | [Abstract](https://arxiv.org/abs/2607.23784) · [PDF](https://arxiv.org/pdf/2607.23784) |
@@ -51,7 +52,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-12 | Optimality-Preserving Decomposition for Scalable QAOA in Natural-Language-Guided Multi-Drone Assignment | Junyeop Bang, Byongho Lee, Dohyun An, Hwangnam Kim | [Abstract](https://arxiv.org/abs/2606.14252) · [PDF](https://arxiv.org/pdf/2606.14252) |
 | 2026-05-25 | RePlan-Bot: Multi-Level Replanning for Embodied Instruction Following | Xicheng Gong, Guozheng Sun, Peiran Xu, Yadong Mu | [Abstract](https://arxiv.org/abs/2605.25851) · [PDF](https://arxiv.org/pdf/2605.25851) |
 | 2026-04-21 | AeroBridge-TTA: Test-Time Adaptive Language-Conditioned Control for UAVs | Lingxue Lyu | [Abstract](https://arxiv.org/abs/2604.19059) · [PDF](https://arxiv.org/pdf/2604.19059) |
-| 2026-04-17 | Semantic Area Graph Reasoning for Multi-Robot Language-Guided Search | Ruiyang Wang, Hao-Lun Hsu, Jiwoo Kim, Miroslav Pajic | [Abstract](https://arxiv.org/abs/2604.16263) · [PDF](https://arxiv.org/pdf/2604.16263) |
 | 2026-03-26 | LILAC: Language-Conditioned Object-Centric Optical Flow for Open-Loop Trajectory Generation | Motonari Kambara, Koki Seno, Tomoya Kaichi, Yanan Wang et al. | [Abstract](https://arxiv.org/abs/2603.25481) · [PDF](https://arxiv.org/pdf/2603.25481) |
 | 2026-03-10 | BEACON: Language-Conditioned Navigation Affordance Prediction under Occlusion | Xinyu Gao, Gang Chen, Javier Alonso-Mora | [Abstract](https://arxiv.org/abs/2603.09961) · [PDF](https://arxiv.org/pdf/2603.09961) |
 | 2026-03-03 | CoFL: Continuous Flow Fields for Language-Conditioned Navigation | Haokun Liu, Zhaoqi Ma, Yicheng Chen, Masaki Kitagawa et al. | [Abstract](https://arxiv.org/abs/2603.02854) · [PDF](https://arxiv.org/pdf/2603.02854) |
@@ -59,15 +59,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-02-07 | LCLA: Language-Conditioned Latent Alignment for Vision-Language Navigation | Nitesh Subedi, Adam Haroon, Samuel Tetteh, Prajwal Koirala et al. | [Abstract](https://arxiv.org/abs/2602.07629) · [PDF](https://arxiv.org/pdf/2602.07629) |
 | 2026-02-01 | SkySim: A ROS2-based Simulation Environment for Natural Language Control of Drone Swarms using Large Language Models | Aditya Shibu, Marah Saleh, Mohamed Al-Musleh, Nidhal Abdulaziz | [Abstract](https://arxiv.org/abs/2602.01226) · [PDF](https://arxiv.org/pdf/2602.01226) |
 | 2026-01-18 | UAVGENT: A Language-Guided Distributed Control Framework | Ziyi Zhang, Xiyu Deng, Guannan Qu, Yorie Nakahira | [Abstract](https://arxiv.org/abs/2602.13212) · [PDF](https://arxiv.org/pdf/2602.13212) |
+| 2026-01-09 | SceneFoundry: Generating Interactive Infinite 3D Worlds | ChunTeng Chen, YiChen Hsu, YiWen Liu, WeiFang Sun et al. | [Abstract](https://arxiv.org/abs/2601.05810) · [PDF](https://arxiv.org/pdf/2601.05810) |
 | 2025-12-24 | Fast Navigation Through Occluded Spaces via Language-Conditioned Map Prediction | Rahul Moorthy Mahesh, Oguzhan Goktug Poyrazoglu, Yukang Cao, Volkan Isler | [Abstract](https://arxiv.org/abs/2512.21398) · [PDF](https://arxiv.org/pdf/2512.21398) |
 | 2025-12-19 | Neuro-Symbolic Control with Large Language Models for Language-Guided Spatial Tasks | Momina Liaqat Ali, Muhammad Abid, Muhammad Saqlain, Jose M. Merigo | [Abstract](https://arxiv.org/abs/2512.17321) · [PDF](https://arxiv.org/pdf/2512.17321) |
 | 2025-12-09 | Language-Conditioned Safe Trajectory Generation for Spacecraft Rendezvous | Yuji Takubo, Arpit Dwivedi, Sukeerth Ramkumar, Luis A. Pabon et al. | [Abstract](https://arxiv.org/abs/2512.09111) · [PDF](https://arxiv.org/pdf/2512.09111) |
+| 2025-11-18 | Masked IRL: LLM-Guided Reward Disambiguation from Demonstrations and Language | Minyoung Hwang, Alexandra Forsey-Smerek, Nathaniel Dennler, Andreea Bobu | [Abstract](https://arxiv.org/abs/2511.14565) · [PDF](https://arxiv.org/pdf/2511.14565) |
 | 2025-11-07 | SIL: Symbiotic Interactive Learning for Language-Conditioned Human-Agent Co-Adaptation | Linus Nwankwo, Bjoern Ellensohn, Christian Rauch, Elmar Rueckert | [Abstract](https://arxiv.org/abs/2511.05203) · [PDF](https://arxiv.org/pdf/2511.05203) |
 | 2025-10-14 | Robot Learning: A Tutorial | Francesco Capuano, Caroline Pascal, Adil Zouitine, Thomas Wolf et al. | [Abstract](https://arxiv.org/abs/2510.12403) · [PDF](https://arxiv.org/pdf/2510.12403) |
+| 2025-10-12 | Asset-Centric Metric-Semantic Maps of Indoor Environments | Christopher D. Hsu, Pratik Chaudhari | [Abstract](https://arxiv.org/abs/2510.10778) · [PDF](https://arxiv.org/pdf/2510.10778) |
+| 2025-09-17 | Language Conditioning Improves Accuracy of Aircraft Goal Prediction in Non-Towered Airspace | Sundhar Vinodh Sangeetha, Chih-Yuan Chiu, Sarah H. Q. Li, Shreyas Kousik | [Abstract](https://arxiv.org/abs/2509.14063) · [PDF](https://arxiv.org/pdf/2509.14063) |
 | 2025-07-23 | Language-Conditioned Open-Vocabulary Mobile Manipulation with Pretrained Models | Shen Tan, Dong Zhou, Xiangyu Shao, Junqiao Wang et al. | [Abstract](https://arxiv.org/abs/2507.17379) · [PDF](https://arxiv.org/pdf/2507.17379) |
 | 2025-07-07 | LERa: Replanning with Visual Feedback in Instruction Following | Svyatoslav Pchelintsev, Maxim Patratskiy, Anatoly Onishchenko, Alexandr Korchemnyi et al. | [Abstract](https://arxiv.org/abs/2507.05135) · [PDF](https://arxiv.org/pdf/2507.05135) |
 | 2025-06-09 | Taking Flight with Dialogue: Enabling Natural Language Control for PX4-based Drone Agent | Shoon Kit Lim, Melissa Jia Ying Chong, Jing Huey Khor, Ting Yang Ling | [Abstract](https://arxiv.org/abs/2506.07509) · [PDF](https://arxiv.org/pdf/2506.07509) |
+| 2025-06-03 | Language-Guided Generation for Personalized Inspection Planning | Xingpeng Sun, Zherong Pan, Xifeng Gao, Kui Wu et al. | [Abstract](https://arxiv.org/abs/2506.02917) · [PDF](https://arxiv.org/pdf/2506.02917) |
 | 2025-05-15 | NVSPolicy: Adaptive Novel-View Synthesis for Generalizable Language-Conditioned Policy Learning | Le Shi, Yifei Shi, Xin Xu, Tenglong Liu et al. | [Abstract](https://arxiv.org/abs/2505.10359) · [PDF](https://arxiv.org/pdf/2505.10359) |
+| 2025-05-14 | Air-Ground Collaboration for Language-Specified Missions in Unknown Environments | Fernando Cladera, Zachary Ravichandran, Jason Hughes, Varun Murali et al. | [Abstract](https://arxiv.org/abs/2505.09108) · [PDF](https://arxiv.org/pdf/2505.09108) |
 | 2025-03-17 | Mitigating Cross-Modal Distraction and Ensuring Geometric Feasibility via Affordance-Guided and Self-Consistent MLLMs for Task Planning in Instruction-Following Manipulation | Yu-Hong Shen, Chuan-Yu Wu, Yi-Ru Yang, Yen-Ling Tai et al. | [Abstract](https://arxiv.org/abs/2503.13055) · [PDF](https://arxiv.org/pdf/2503.13055) |
 | 2025-03-15 | ICCO: Learning an Instruction-conditioned Coordinator for Language-guided Task-aligned Multi-robot Control | Yoshiki Yano, Kazuki Shibata, Maarten Kokshoorn, Takamitsu Matsubara | [Abstract](https://arxiv.org/abs/2503.12122) · [PDF](https://arxiv.org/pdf/2503.12122) |
 | 2025-03-12 | Efficient Alignment of Unconditioned Action Prior for Language-conditioned Pick and Place in Clutter | Kechun Xu, Xunlong Xia, Kaixuan Wang, Yifei Yang et al. | [Abstract](https://arxiv.org/abs/2503.09423) · [PDF](https://arxiv.org/pdf/2503.09423) |
@@ -78,13 +84,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-02-08 | Temporal Representation Alignment: Successor Features Enable Emergent Compositionality in Robot Instruction Following | Vivek Myers, Bill Chunyuan Zheng, Anca Dragan, Kuan Fang et al. | [Abstract](https://arxiv.org/abs/2502.05454) · [PDF](https://arxiv.org/pdf/2502.05454) |
 | 2025-01-30 | Learn from the Past: Language-conditioned Object Rearrangement with Large Language Models | Guanqun Cao, Ryan Mckenna, Erich Graf, John Oyekan | [Abstract](https://arxiv.org/abs/2501.18516) · [PDF](https://arxiv.org/pdf/2501.18516) |
 | 2024-12-27 | Hindsight Planner: A Closed-Loop Few-Shot Planner for Embodied Instruction Following | Yuxiao Yang, Shenao Zhang, Zhihan Liu, Huaxiu Yao et al. | [Abstract](https://arxiv.org/abs/2412.19562) · [PDF](https://arxiv.org/pdf/2412.19562) |
+| 2024-12-11 | Multi-GraspLLM: A Multimodal LLM for Multi-Hand Semantic Guided Grasp Generation | Haosheng Li, Weixin Mao, Weipeng Deng, Chenyu Meng et al. | [Abstract](https://arxiv.org/abs/2412.08468) · [PDF](https://arxiv.org/pdf/2412.08468) |
 | 2024-12-07 | GROOT-2: Weakly Supervised Multi-Modal Instruction Following Agents | Shaofei Cai, Bowei Zhang, Zihao Wang, Haowei Lin et al. | [Abstract](https://arxiv.org/abs/2412.10410) · [PDF](https://arxiv.org/pdf/2412.10410) |
+| 2024-12-07 | Can Large Language Models Help Developers with Robotic Finite State Machine Modification? | Xiangyu Robin Gan, Yuxin Ray Song, Nick Walker, Maya Cakmak | [Abstract](https://arxiv.org/abs/2412.05625) · [PDF](https://arxiv.org/pdf/2412.05625) |
 | 2024-11-12 | Zero-shot Object-Centric Instruction Following: Integrating Foundation Models with Traditional Navigation | Sonia Raychaudhuri, Duy Ta, Katrina Ashton, Angel X. Chang et al. | [Abstract](https://arxiv.org/abs/2411.07848) · [PDF](https://arxiv.org/pdf/2411.07848) |
 | 2024-11-01 | CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision | Gi-Cheon Kang, Junghyun Kim, Kyuhwan Shim, Jun Ki Lee et al. | [Abstract](https://arxiv.org/abs/2411.00508) · [PDF](https://arxiv.org/pdf/2411.00508) |
 | 2024-10-10 | SPA: 3D Spatial-Awareness Enables Effective Embodied Representation | Haoyi Zhu, Honghui Yang, Yating Wang, Jiange Yang et al. | [Abstract](https://arxiv.org/abs/2410.08208) · [PDF](https://arxiv.org/pdf/2410.08208) |
 | 2024-10-10 | G$^{2}$TR: Generalized Grounded Temporal Reasoning for Robot Instruction Following by Combining Large Pre-trained Models | Riya Arora, Niveditha Narendranath, Aman Tambi, Sandeep S. Zachariah et al. | [Abstract](https://arxiv.org/abs/2410.07494) · [PDF](https://arxiv.org/pdf/2410.07494) |
 | 2024-10-04 | LeLaN: Learning A Language-Conditioned Navigation Policy from In-the-Wild Videos | Noriaki Hirose, Catherine Glossop, Ajay Sridhar, Dhruv Shah et al. | [Abstract](https://arxiv.org/abs/2410.03603) · [PDF](https://arxiv.org/pdf/2410.03603) |
 | 2024-09-17 | Pragmatic Embodied Spoken Instruction Following in Human-Robot Collaboration with Theory of Mind | Lance Ying, Xinyi Li, Shivam Aarya, Yizirui Fang et al. | [Abstract](https://arxiv.org/abs/2409.10849) · [PDF](https://arxiv.org/pdf/2409.10849) |
+| 2024-09-05 | Game On: Towards Language Models as RL Experimenters | Jingwei Zhang, Thomas Lampe, Abbas Abdolmaleki, Jost Tobias Springenberg et al. | [Abstract](https://arxiv.org/abs/2409.03402) · [PDF](https://arxiv.org/pdf/2409.03402) |
 | 2024-08-02 | Astra: Efficient Transformer Architecture and Contrastive Dynamics Learning for Embodied Instruction Following | Yueen Ma, Dafeng Chi, Shiguang Wu, Yuecheng Liu et al. | [Abstract](https://arxiv.org/abs/2408.01147) · [PDF](https://arxiv.org/pdf/2408.01147) |
 | 2024-07-30 | Autonomous Improvement of Instruction Following Skills via Foundation Models | Zhiyuan Zhou, Pranav Atreya, Abraham Lee, Homer Walke et al. | [Abstract](https://arxiv.org/abs/2407.20635) · [PDF](https://arxiv.org/pdf/2407.20635) |
 | 2024-07-23 | HAPFI: History-Aware Planning based on Fused Information | Sujin Jeon, Suyeon Shin, Byoung-Tak Zhang | [Abstract](https://arxiv.org/abs/2407.16533) · [PDF](https://arxiv.org/pdf/2407.16533) |
@@ -99,6 +108,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-03-04 | RT-H: Action Hierarchies Using Language | Suneel Belkhale, Tianli Ding, Ted Xiao, Pierre Sermanet et al. | [Abstract](https://arxiv.org/abs/2403.01823) · [PDF](https://arxiv.org/pdf/2403.01823) |
 | 2024-02-09 | Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following | Brian Yang, Huangyuan Su, Nikolaos Gkanatsios, Tsung-Wei Ke et al. | [Abstract](https://arxiv.org/abs/2402.06559) · [PDF](https://arxiv.org/pdf/2402.06559) |
 | 2024-02-02 | LINGO-Space: Language-Conditioned Incremental Grounding for Space | Dohyun Kim, Nayoung Oh, Deokmin Hwang, Daehyung Park | [Abstract](https://arxiv.org/abs/2402.01183) · [PDF](https://arxiv.org/pdf/2402.01183) |
+| 2023-12-14 | Holodeck: Language Guided Generation of 3D Embodied AI Environments | Yue Yang, Fan-Yun Sun, Luca Weihs, Eli VanderBilt et al. | [Abstract](https://arxiv.org/abs/2312.09067) · [PDF](https://arxiv.org/pdf/2312.09067) |
+| 2023-12-12 | LMDrive: Closed-Loop End-to-End Driving with Large Language Models | Hao Shao, Yuxuan Hu, Letian Wang, Steven L. Waslander et al. | [Abstract](https://arxiv.org/abs/2312.07488) · [PDF](https://arxiv.org/pdf/2312.07488) |
+| 2023-10-18 | LoHoRavens: A Long-Horizon Language-Conditioned Benchmark for Robotic Tabletop Manipulation | Shengqiang Zhang, Philipp Wicke, Lütfi Kerem Şenel, Luis Figueredo et al. | [Abstract](https://arxiv.org/abs/2310.12020) · [PDF](https://arxiv.org/pdf/2310.12020) |
+| 2023-09-13 | Language-Conditioned Observation Models for Visual Object Search | Thao Nguyen, Vladislav Hrosinkov, Eric Rosen, Stefanie Tellex | [Abstract](https://arxiv.org/abs/2309.07276) · [PDF](https://arxiv.org/pdf/2309.07276) |
+| 2023-09-01 | Language-Conditioned Change-point Detection to Identify Sub-Tasks in Robotics Domains | Divyanshu Raj, Chitta Baral, Nakul Gopalan | [Abstract](https://arxiv.org/abs/2309.00743) · [PDF](https://arxiv.org/pdf/2309.00743) |
+| 2023-08-31 | Language-Conditioned Path Planning | Amber Xie, Youngwoon Lee, Pieter Abbeel, Stephen James | [Abstract](https://arxiv.org/abs/2308.16893) · [PDF](https://arxiv.org/pdf/2308.16893) |
 
 ---
 

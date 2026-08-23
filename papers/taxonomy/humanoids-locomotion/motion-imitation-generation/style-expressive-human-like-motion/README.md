@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Motion%20Imitation%20%26%20Generation&specialty=Style%2C%20Expressive%20%26%20Human-like%20Motion#research-workbench)
 
-> 1 conference papers · 9 recent arXiv papers
+> 1 conference papers · 12 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,7 +20,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | Think on Your Feet: Seamless Transition Between Human-Like Locomotion in Response to Changing Commands | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2502.18901) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127948) |
 
-## Recent arXiv papers (9)
+## Recent arXiv papers (12)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -33,6 +33,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-01 | Transferring human emotions to robot motions using Neural Policy Style Transfer | Raul Fernandez-Fernandez, Bartek Łukawski, Juan G. Victores, Claudio Pacchierotti | [Abstract](https://arxiv.org/abs/2402.00663) · [PDF](https://arxiv.org/pdf/2402.00663) |
 | 2024-02-01 | Neural Policy Style Transfer | Raul Fernandez-Fernandez, Juan G. Victores, Jennifer J. Gago, David Estevez et al. | [Abstract](https://arxiv.org/abs/2402.00677) · [PDF](https://arxiv.org/pdf/2402.00677) |
 | 2024-02-01 | Deep Robot Sketching: An application of Deep Q-Learning Networks for human-like sketching | Raul Fernandez-Fernandez, Juan G. Victores, Carlos Balaguer | [Abstract](https://arxiv.org/abs/2402.00676) · [PDF](https://arxiv.org/pdf/2402.00676) |
+| 2023-11-29 | Method for robotic motion compensation during PET imaging of mobile subjects | Junxiang Wang, Iulian I. Iordachita, Peter Kazanzides | [Abstract](https://arxiv.org/abs/2311.17861) · [PDF](https://arxiv.org/pdf/2311.17861) |
+| 2023-11-29 | Evaluation of a motion measurement system for PET imaging studies | Junxiang Wang, Ti Wu, Iulian I. Iordachita, Peter Kazanzides | [Abstract](https://arxiv.org/abs/2311.17863) · [PDF](https://arxiv.org/pdf/2311.17863) |
+| 2023-11-29 | Calibration and evaluation of a motion measurement system for PET imaging studies | Junxiang Wang, Ti Wu, Iulian I. Iordachita, Peter Kazanzides | [Abstract](https://arxiv.org/abs/2311.18009) · [PDF](https://arxiv.org/pdf/2311.18009) |
 
 ---
 

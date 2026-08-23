@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Balance%2C%20Dynamics%20%26%20Recovery&specialty=Fall%20Prevention%20%26%20Recovery#research-workbench)
 
-> 3 conference papers · 10 recent arXiv papers
+> 3 conference papers · 12 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -22,7 +22,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | HiFAR: Multi-Stage Curriculum Learning for High-Dynamics Humanoid Fall Recovery | IROS · Humanoid | [Paper](https://arxiv.org/abs/2502.20061) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245953) |
 | 2022 | Reactive Stepping for Humanoid Robots using Reinforcement Learning: Application to Standing Push Recovery on the Exoskeleton Atalante | IROS · Humanoid | [Paper](https://hal.science/hal-04155863) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982234) |
 
-## Recent arXiv papers (10)
+## Recent arXiv papers (12)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -33,9 +33,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-10-25 | Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and Morphology for Fall Recovery | Bo Yue, Sheng Xu, Kui Jia, Guiliang Liu | [Abstract](https://arxiv.org/abs/2510.22336) · [PDF](https://arxiv.org/pdf/2510.22336) |
 | 2025-05-16 | Bracing for Impact: Robust Humanoid Push Recovery and Locomotion with Reduced Order Models | Lizhi Yang, Blake Werner, Adrian B. Ghansah, Aaron D. Ames | [Abstract](https://arxiv.org/abs/2505.11495) · [PDF](https://arxiv.org/pdf/2505.11495) |
 | 2025-02-27 | HiFAR: Multi-Stage Curriculum Learning for High-Dynamics Humanoid Fall Recovery | Penghui Chen, Yushi Wang, Changsheng Luo, Wenhan Cai et al. | [Abstract](https://arxiv.org/abs/2502.20061) · [PDF](https://arxiv.org/pdf/2502.20061) |
+| 2025-02-13 | Variable Stiffness for Robust Locomotion through Reinforcement Learning | Dario Spoljaric, Yashuai Yan, Dongheui Lee | [Abstract](https://arxiv.org/abs/2502.09436) · [PDF](https://arxiv.org/pdf/2502.09436) |
 | 2024-12-22 | Learning an Adaptive Fall Recovery Controller for Quadrupeds on Complex Terrains | Yidan Lu, Yinzhao Dong, Ji Ma, Jiahui Zhang et al. | [Abstract](https://arxiv.org/abs/2412.16924) · [PDF](https://arxiv.org/pdf/2412.16924) |
 | 2024-11-01 | Enhancing Model-Based Step Adaptation for Push Recovery through Reinforcement Learning of Step Timing and Region | Tobias Egle, Yashuai Yan, Dongheui Lee, Christian Ott | [Abstract](https://arxiv.org/abs/2411.01000) · [PDF](https://arxiv.org/pdf/2411.01000) |
 | 2024-10-11 | FRASA: An End-to-End Reinforcement Learning Agent for Fall Recovery and Stand Up of Humanoid Robots | Clément Gaspard, Marc Duclusaud, Grégoire Passault, Mélodie Daniel et al. | [Abstract](https://arxiv.org/abs/2410.08655) · [PDF](https://arxiv.org/pdf/2410.08655) |
+| 2024-09-22 | Adapting Gait Frequency for Posture-regulating Humanoid Push-recovery via Hierarchical Model Predictive Control | Junheng Li, Zhanhao Le, Junchao Ma, Quan Nguyen | [Abstract](https://arxiv.org/abs/2409.14342) · [PDF](https://arxiv.org/pdf/2409.14342) |
 
 ---
 

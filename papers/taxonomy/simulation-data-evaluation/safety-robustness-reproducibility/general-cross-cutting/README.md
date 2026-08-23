@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Safety%2C%20Robustness%20%26%20Reproducibility&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 1 conference papers · 41 recent arXiv papers
+> 1 conference papers · 29 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,7 +20,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | Failure Forecasting Boosts Robustness of Sim2Real Rhythmic Insertion Policies | IROS · Sim2Real | [Paper](https://arxiv.org/abs/2507.06519) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247676) |
 
-## Recent arXiv papers (41)
+## Recent arXiv papers (29)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -30,41 +30,29 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-05-21 | Understanding Multimodal Failure in Action-Chunking Behavioral Cloning | Lorenzo Mazza, Massimiliano Datres, Ariel Rodriguez, Sebastian Bodenstedt et al. | [Abstract](https://arxiv.org/abs/2605.22493) · [PDF](https://arxiv.org/pdf/2605.22493) |
 | 2026-05-17 | Generating Realistic Safety-Critical Scenarios for Vehicle-Pedestrian Interactions | Qingwen Pu, Kun Xie, Yuan Zhu, Guocong Zhai | [Abstract](https://arxiv.org/abs/2605.17229) · [PDF](https://arxiv.org/pdf/2605.17229) |
 | 2026-05-06 | Conditional Flow-VAE for Safety-Critical Traffic Scenario Generation | Zimu Gong, Brian Zhaoning Zhang, Chris Zhang, Kelvin Wong et al. | [Abstract](https://arxiv.org/abs/2605.04366) · [PDF](https://arxiv.org/pdf/2605.04366) |
-| 2026-04-14 | Boundary Sampling to Learn Predictive Safety Filters via Pontryagin's Maximum Principle | James Dallas, Thomas Lew, John Talbot, Jonathan DeCastro et al. | [Abstract](https://arxiv.org/abs/2604.13325) · [PDF](https://arxiv.org/pdf/2604.13325) |
 | 2025-11-13 | Attentive Feature Aggregation or: How Policies Learn to Stop Worrying about Robustness and Attend to Task-Relevant Visual Cues | Nikolaos Tsagkas, Andreas Sochopoulos, Duolikun Danier, Sethu Vijayakumar et al. | [Abstract](https://arxiv.org/abs/2511.10762) · [PDF](https://arxiv.org/pdf/2511.10762) |
 | 2025-09-16 | TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving | Jiawei Wang, Haowei Sun, Xintao Yan, Shuo Feng et al. | [Abstract](https://arxiv.org/abs/2509.13164) · [PDF](https://arxiv.org/pdf/2509.13164) |
 | 2025-09-11 | A Hybrid Hinge-Beam Continuum Robot with Passive Safety Capping for Real-Time Fatigue Awareness | Tongshun Chen, Zezhou Sun, Yanhan Sun, Yuhao Wang et al. | [Abstract](https://arxiv.org/abs/2509.09404) · [PDF](https://arxiv.org/pdf/2509.09404) |
-| 2025-09-02 | Improving the Resilience of Quadrotors in Underground Environments by Combining Learning-based and Safety Controllers | Isaac Ronald Ward, Mark Paral, Kristopher Riordan, Mykel J. Kochenderfer | [Abstract](https://arxiv.org/abs/2509.02808) · [PDF](https://arxiv.org/pdf/2509.02808) |
-| 2025-08-12 | How Safe Will I Be Given What I Saw? Calibrated Prediction of Safety Chances for Image-Controlled Autonomy | Zhenjiang Mao, Mrinall Eashaan Umasudhan, Ivan Ruchkin | [Abstract](https://arxiv.org/abs/2508.09346) · [PDF](https://arxiv.org/pdf/2508.09346) |
 | 2025-07-23 | Optimizing Delivery Logistics: Enhancing Speed and Safety with Drone Technology | Maharshi Shastri, Ujjval Shrivastav | [Abstract](https://arxiv.org/abs/2507.17253) · [PDF](https://arxiv.org/pdf/2507.17253) |
 | 2025-07-09 | Failure Forecasting Boosts Robustness of Sim2Real Rhythmic Insertion Policies | Yuhan Liu, Xinyu Zhang, Haonan Chang, Abdeslam Boularias | [Abstract](https://arxiv.org/abs/2507.06519) · [PDF](https://arxiv.org/pdf/2507.06519) |
-| 2025-06-10 | Perception Characteristics Distance: Measuring Stability and Robustness of Perception System in Dynamic Conditions under a Certain Decision Rule | Boyu Jiang, Liang Shi, Zhengzhi Lin, Lanxin Xiang et al. | [Abstract](https://arxiv.org/abs/2506.09217) · [PDF](https://arxiv.org/pdf/2506.09217) |
 | 2025-05-15 | Evaluating Robustness of Deep Reinforcement Learning for Autonomous Surface Vehicle Control in Field Tests | Luis F. W. Batista, Stéphanie Aravecchia, Seth Hutchinson, Cédric Pradalier | [Abstract](https://arxiv.org/abs/2505.10033) · [PDF](https://arxiv.org/pdf/2505.10033) |
-| 2025-05-06 | Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid | Parv Kapoor, Ian Higgins, Nikhil Keetha, Jay Patrikar et al. | [Abstract](https://arxiv.org/abs/2505.03694) · [PDF](https://arxiv.org/pdf/2505.03694) |
-| 2025-04-15 | Safe-Construct: Redefining Construction Safety Violation Recognition as 3D Multi-View Engagement Task | Aviral Chharia, Tianyu Ren, Tomotake Furuhata, Kenji Shimada | [Abstract](https://arxiv.org/abs/2504.10880) · [PDF](https://arxiv.org/pdf/2504.10880) |
 | 2025-03-31 | Towards Benchmarking and Assessing the Safety and Robustness of Autonomous Driving on Safety-critical Scenarios | Jingzheng Li, Xianglong Liu, Shikui Wei, Zhijun Chen et al. | [Abstract](https://arxiv.org/abs/2503.23708) · [PDF](https://arxiv.org/pdf/2503.23708) |
-| 2025-03-27 | Design optimization and robustness analysis of rigid-link flapping mechanisms | Shyam Sunder Nishad, Anupam Saxena | [Abstract](https://arxiv.org/abs/2503.21204) · [PDF](https://arxiv.org/pdf/2503.21204) |
 | 2025-03-11 | Generating Robot Constitutions & Benchmarks for Semantic Safety | Pierre Sermanet, Anirudha Majumdar, Alex Irpan, Dmitry Kalashnikov et al. | [Abstract](https://arxiv.org/abs/2503.08663) · [PDF](https://arxiv.org/pdf/2503.08663) |
 | 2025-03-05 | Enhancing Autonomous Driving Safety with Collision Scenario Integration | Zi Wang, Shiyi Lan, Xinglong Sun, Nadine Chang et al. | [Abstract](https://arxiv.org/abs/2503.03957) · [PDF](https://arxiv.org/pdf/2503.03957) |
-| 2025-02-27 | Navigating the Edge with the State-of-the-Art Insights into Corner Case Identification and Generation for Enhanced Autonomous Vehicle Safety | Gabriel Kenji Godoy Shimanuki, Alexandre Moreira Nascimento, Lucio Flavio Vismari, Joao Batista Camargo Junior et al. | [Abstract](https://arxiv.org/abs/2503.00077) · [PDF](https://arxiv.org/pdf/2503.00077) |
-| 2025-02-20 | Building reliable sim driving agents by scaling self-play | Daphne Cornelisse, Aarav Pandya, Kevin Joseph, Joseph Suárez et al. | [Abstract](https://arxiv.org/abs/2502.14706) · [PDF](https://arxiv.org/pdf/2502.14706) |
 | 2025-01-24 | Learning more with the same effort: how randomization improves the robustness of a robotic deep reinforcement learning agent | Lucía Güitta-López, Jaime Boal, Álvaro J. López-López | [Abstract](https://arxiv.org/abs/2501.14443) · [PDF](https://arxiv.org/pdf/2501.14443) |
-| 2024-12-16 | Sonar-based Deep Learning in Underwater Robotics: Overview, Robustness and Challenges | Martin Aubard, Ana Madureira, Luís Teixeira, José Pinto | [Abstract](https://arxiv.org/abs/2412.11840) · [PDF](https://arxiv.org/pdf/2412.11840) |
 | 2024-11-26 | CRASH: Challenging Reinforcement-Learning Based Adversarial Scenarios For Safety Hardening | Amar Kulkarni, Shangtong Zhang, Madhur Behl | [Abstract](https://arxiv.org/abs/2411.16996) · [PDF](https://arxiv.org/pdf/2411.16996) |
 | 2024-10-11 | TřiVis: Versatile, Reliable, and High-Performance Tool for Computing Visibility in Polygonal Environments | Jan Mikula, Miroslav Kulich, Libor Přeučil | [Abstract](https://arxiv.org/abs/2410.08752) · [PDF](https://arxiv.org/pdf/2410.08752) |
 | 2024-10-11 | Failure Prediction from Limited Hardware Demonstrations | Anjali Parashar, Kunal Garg, Joseph Zhang, Chuchu Fan | [Abstract](https://arxiv.org/abs/2410.09249) · [PDF](https://arxiv.org/pdf/2410.09249) |
 | 2024-10-11 | AdvDiffuser: Generating Adversarial Safety-Critical Driving Scenarios via Guided Diffusion | Yuting Xie, Xianda Guo, Cong Wang, Kunhua Liu et al. | [Abstract](https://arxiv.org/abs/2410.08453) · [PDF](https://arxiv.org/pdf/2410.08453) |
 | 2024-10-07 | Data-driven Diffusion Models for Enhancing Safety in Autonomous Vehicle Traffic Simulations | Jinxiong Lu, Shoaib Azam, Gokhan Alcan, Ville Kyrki | [Abstract](https://arxiv.org/abs/2410.04809) · [PDF](https://arxiv.org/pdf/2410.04809) |
-| 2024-09-23 | A Generalized Control Revision Method for Autonomous Driving Safety | Zehang Zhu, Yuning Wang, Tianqi Ke, Zeyu Han et al. | [Abstract](https://arxiv.org/abs/2409.14688) · [PDF](https://arxiv.org/pdf/2409.14688) |
 | 2024-09-12 | ReGentS: Real-World Safety-Critical Driving Scenario Generation Made Stable | Yuan Yin, Pegah Khayatan, Éloi Zablocki, Alexandre Boulch et al. | [Abstract](https://arxiv.org/abs/2409.07830) · [PDF](https://arxiv.org/pdf/2409.07830) |
-| 2024-08-20 | Towards reliable real-time trajectory optimization | Fatemeh Rastgar | [Abstract](https://arxiv.org/abs/2408.10731) · [PDF](https://arxiv.org/pdf/2408.10731) |
 | 2024-08-06 | Adversarial Safety-Critical Scenario Generation using Naturalistic Human Driving Priors | Kunkun Hao, Yonggang Luo, Wen Cui, Yuqiao Bai et al. | [Abstract](https://arxiv.org/abs/2408.03200) · [PDF](https://arxiv.org/pdf/2408.03200) |
 | 2024-07-18 | Risk-Aware Vehicle Trajectory Prediction Under Safety-Critical Scenarios | Qingfan Wang, Dongyang Xu, Gaoyuan Kuang, Chen Lv et al. | [Abstract](https://arxiv.org/abs/2407.13480) · [PDF](https://arxiv.org/pdf/2407.13480) |
 | 2024-07-05 | JaywalkerVR: A VR System for Collecting Safety-Critical Pedestrian-Vehicle Interactions | Kenta Mukoya, Erica Weng, Rohan Choudhury, Kris Kitani | [Abstract](https://arxiv.org/abs/2407.04843) · [PDF](https://arxiv.org/pdf/2407.04843) |
-| 2024-05-01 | Enhance Planning with Physics-informed Safety Controller for End-to-end Autonomous Driving | Hang Zhou, Haichao Liu, Hongliang Lu, Dan Xu et al. | [Abstract](https://arxiv.org/abs/2405.00316) · [PDF](https://arxiv.org/pdf/2405.00316) |
-| 2024-03-27 | GENESIS-RL: GEnerating Natural Edge-cases with Systematic Integration of Safety considerations and Reinforcement Learning | Hsin-Jung Yang, Joe Beck, Md Zahid Hasan, Ekin Beyazit et al. | [Abstract](https://arxiv.org/abs/2403.19062) · [PDF](https://arxiv.org/pdf/2403.19062) |
 | 2024-03-12 | RobotCycle: Assessing Cycling Safety in Urban Environments | Efimia Panagiotaki, Tyler Reinmund, Stephan Mouton, Luke Pitt et al. | [Abstract](https://arxiv.org/abs/2403.07789) · [PDF](https://arxiv.org/pdf/2403.07789) |
 | 2024-03-04 | Offline Goal-Conditioned Reinforcement Learning for Safety-Critical Tasks with Recovery Policy | Chenyang Cao, Zichen Yan, Renhao Lu, Junbo Tan et al. | [Abstract](https://arxiv.org/abs/2403.01734) · [PDF](https://arxiv.org/pdf/2403.01734) |
+| 2023-09-21 | SAVME: Efficient Safety Validation for Autonomous Systems Using Meta-Learning | Marc R. Schlichting, Nina V. Boord, Anthony L. Corso, Mykel J. Kochenderfer | [Abstract](https://arxiv.org/abs/2309.12474) · [PDF](https://arxiv.org/pdf/2309.12474) |
+| 2023-09-01 | Suicidal Pedestrian: Generation of Safety-Critical Scenarios for Autonomous Vehicles | Yuhang Yang, Kalle Kujanpaa, Amin Babadi, Joni Pajarinen et al. | [Abstract](https://arxiv.org/abs/2309.00249) · [PDF](https://arxiv.org/pdf/2309.00249) |
 
 ---
 

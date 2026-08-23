@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Bimanual%20Coordination&specialty=Bimanual%20Assembly%20%26%20Deformables#research-workbench)
 
-> 4 conference papers · 2 recent arXiv papers
+> 4 conference papers · 3 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,11 +23,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Bimanual Rope Manipulation Skill Synthesis through Context Dependent Correction Policy Learning from Human Demonstration | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2209.13850) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160895) |
 | 2022 | SpeedFolding: Learning Efficient Bimanual Folding of Garments | IROS · Bimanual | [Paper](https://arxiv.org/abs/2208.10552) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981402) |
 
-## Recent arXiv papers (2)
+## Recent arXiv papers (3)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
 | 2026-05-15 | Learning Sim-Grounded Policies for Bimanual Rope Manipulation from Human Teleoperation Data | Gina Wigginghaus, Tim Missal, Berk Guler, Simon Manschitz et al. | [Abstract](https://arxiv.org/abs/2605.16043) · [PDF](https://arxiv.org/pdf/2605.16043) |
+| 2026-03-11 | SUBTA: A Framework for Supported User-Guided Bimanual Teleoperation in Structured Assembly | Xiao Liu, Prakash Baskaran, Songpo Li, Simon Manschitz et al. | [Abstract](https://arxiv.org/abs/2603.10459) · [PDF](https://arxiv.org/pdf/2603.10459) |
 | 2025-10-16 | VT-Refine: Learning Bimanual Assembly with Visuo-Tactile Feedback via Simulation Fine-Tuning | Binghao Huang, Jie Xu, Iretiayo Akinola, Wei Yang et al. | [Abstract](https://arxiv.org/abs/2510.14930) · [PDF](https://arxiv.org/pdf/2510.14930) |
 
 ---

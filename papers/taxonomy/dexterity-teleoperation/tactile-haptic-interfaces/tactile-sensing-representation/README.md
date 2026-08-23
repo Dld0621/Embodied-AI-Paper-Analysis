@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Tactile%20%26%20Haptic%20Interfaces&specialty=Tactile%20Sensing%20%26%20Representation#research-workbench)
 
-> 7 conference papers · 38 recent arXiv papers
+> 7 conference papers · 55 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,16 +26,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | FingerTac - An Interchangeable and Wearable Tactile Sensor for the Fingertips of Human and Robot Hands | IROS · Robot Hand | [Paper](https://arxiv.org/pdf/2310.09201) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342285) |
 | 2022 | Load-sensitive Data Acquisition for a Tactile Sensor System of Multi-fingered Robotic Hands | ICRA · Multi Finger | [Paper](https://doi.org/10.1109/icra46639.2022.9812260) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812260) |
 
-## Recent arXiv papers (38)
+## Recent arXiv papers (55)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-19 | ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning | Jayjun Lee, Jessica Yin, Asif Rana, Nicholas Blauch et al. | [Abstract](https://arxiv.org/abs/2608.19182) · [PDF](https://arxiv.org/pdf/2608.19182) |
+| 2026-08-14 | Effect of Twisted-Yarn Architecture on Pressure and Proximity Sensing Characteristics of Textile Capacitive Sensors for Robotic Skin | Ishtia Zahir, Eslam Saleh, Maryam Rezayati, Güunter Grabher et al. | [Abstract](https://arxiv.org/abs/2608.14406) · [PDF](https://arxiv.org/pdf/2608.14406) |
+| 2026-08-07 | A Haptic Robot Finger Designed for Guqin Instrument Playing | Tianwei Zhang, Hanming Yan, Yang Yang. Ziya Wang | [Abstract](https://arxiv.org/abs/2608.07002) · [PDF](https://arxiv.org/pdf/2608.07002) |
 | 2026-07-17 | Towards Artificial Nerves: Biomimetic Optical-Fiber Tactile Sensing for Robots | Laura E. Butcher, Chris J. Ford, Nathan F. Lepora, Efi Psomopoulou | [Abstract](https://arxiv.org/abs/2607.15746) · [PDF](https://arxiv.org/pdf/2607.15746) |
 | 2026-06-20 | Geometric Reconstruction of Extrinsic Contact Trajectories using Tactile Sensing and Proprioception for Tool Manipulation | Seojung Min, Yoonjin Kim, Jeong-Jung Kim, Jung Kim | [Abstract](https://arxiv.org/abs/2606.22251) · [PDF](https://arxiv.org/pdf/2606.22251) |
 | 2026-06-11 | Scalable Dynamic Tactile Sensing Enabled by Passive and Flexible Acoustic Waveguides | Guimin Long, Changhong Linghu, Chuanping Liu, Ke Xu et al. | [Abstract](https://arxiv.org/abs/2606.13746) · [PDF](https://arxiv.org/pdf/2606.13746) |
 | 2026-04-30 | FlexiTac: A Low-Cost, Open-Source, Scalable Tactile Sensing Solution for Robotic Systems | Binghao Huang, Yunzhu Li | [Abstract](https://arxiv.org/abs/2604.28156) · [PDF](https://arxiv.org/pdf/2604.28156) |
 | 2026-04-22 | FingerEye: Learning Dexterous Manipulation with Continuous Vision-Tactile Sensing | Zhixuan Xu, Yichen Li, Xuanye Wu, Tianyu Qiu et al. | [Abstract](https://arxiv.org/abs/2604.20689) · [PDF](https://arxiv.org/pdf/2604.20689) |
+| 2026-04-01 | How to Train your Tactile Model: Tactile Perception with Multi-fingered Robot Hands | Christopher J. Ford, Kaichen Shi, Laura Butcher, Nathan F. Lepora et al. | [Abstract](https://arxiv.org/abs/2604.00744) · [PDF](https://arxiv.org/pdf/2604.00744) |
 | 2026-03-20 | Zero Shot Deformation Reconstruction for Soft Robots Using a Flexible Sensor Array and Cage Based 3D Gaussian Modeling | Linrui Shou, Zilang Chen, Wenjia Xu, Yiyue Luo et al. | [Abstract](https://arxiv.org/abs/2603.19543) · [PDF](https://arxiv.org/pdf/2603.19543) |
+| 2026-03-19 | Contact Status Recognition and Slip Detection with a Bio-inspired Tactile Hand | Chengxiao He, Wenhui Yang, Hongliang Zhao, Jiacheng Lv et al. | [Abstract](https://arxiv.org/abs/2603.18370) · [PDF](https://arxiv.org/pdf/2603.18370) |
 | 2026-03-11 | Learning Bimanual Cloth Manipulation with Vision-based Tactile Sensing via Single Robotic Arm | Dongmyoung Lee, Wei Chen, Xiaoshuai Chen, Rui Zong et al. | [Abstract](https://arxiv.org/abs/2603.10609) · [PDF](https://arxiv.org/pdf/2603.10609) |
 | 2026-03-10 | MuxGel: Simultaneous Dual-Modal Visuo-Tactile Sensing via Spatially Multiplexing and Deep Reconstruction | Zhixian Hu, Zhengtong Xu, Sheeraz Athar, Juan Wachs et al. | [Abstract](https://arxiv.org/abs/2603.09761) · [PDF](https://arxiv.org/pdf/2603.09761) |
 | 2026-02-18 | Sound of Touch: Active Acoustic Tactile Sensing via String Vibrations | Xili Yi, Ying Xing, Zachary Manchester, Nima Fazeli | [Abstract](https://arxiv.org/abs/2602.16846) · [PDF](https://arxiv.org/pdf/2602.16846) |
@@ -53,6 +58,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-04-19 | Collision Induced Binding and Transport of Shape Changing Robot Pairs | Akash Vardhan, Ram Avinery, Hosain Bagheri, Velin Kojohourav et al. | [Abstract](https://arxiv.org/abs/2504.14170) · [PDF](https://arxiv.org/pdf/2504.14170) |
 | 2025-04-08 | Learning-enhanced electronic skin for tactile sensing on deformable surface based on electrical impedance tomography | Huazhi Dong, Xiaopeng Wu, Delin Hu, Zhe Liu et al. | [Abstract](https://arxiv.org/abs/2504.05987) · [PDF](https://arxiv.org/pdf/2504.05987) |
 | 2025-03-31 | Enhancing Physical Human-Robot Interaction: Recognizing Digits via Intrinsic Robot Tactile Sensing | Teresa Sinico, Giovanni Boschetti, Pedro Neto | [Abstract](https://arxiv.org/abs/2504.00167) · [PDF](https://arxiv.org/pdf/2504.00167) |
+| 2025-03-21 | Shear-based Grasp Control for Multi-fingered Underactuated Tactile Robotic Hands | Christopher J. Ford, Haoran Li, Manuel G. Catalano, Matteo Bianchi et al. | [Abstract](https://arxiv.org/abs/2503.17501) · [PDF](https://arxiv.org/pdf/2503.17501) |
 | 2025-03-18 | Adaptive Drift Compensation for Soft Sensorized Finger Using Continual Learning | Nilay Kushawaha, Radan Pathan, Niccolò Pagliarani, Matteo Cianchetti et al. | [Abstract](https://arxiv.org/abs/2503.16540) · [PDF](https://arxiv.org/pdf/2503.16540) |
 | 2025-03-17 | Multi-Touch and Bending Perception Using Electrical Impedance Tomography for Robotics | Haofeng Chen, Bedrich Himmel, Bin Li, Xiaojie Wang et al. | [Abstract](https://arxiv.org/abs/2503.13048) · [PDF](https://arxiv.org/pdf/2503.13048) |
 | 2025-03-15 | Train Robots in a JIF: Joint Inverse and Forward Dynamics with Human and Robot Demonstrations | Gagan Khandate, Boxuan Wang, Sarah Park, Weizhe Ni et al. | [Abstract](https://arxiv.org/abs/2503.12297) · [PDF](https://arxiv.org/pdf/2503.12297) |
@@ -67,7 +73,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-08-05 | Large-scale Deployment of Vision-based Tactile Sensors on Multi-fingered Grippers | Meng Wang, Wanlin Li, Hao Liang, Boren Li et al. | [Abstract](https://arxiv.org/abs/2408.02206) · [PDF](https://arxiv.org/pdf/2408.02206) |
 | 2024-06-07 | A Modular Framework for Flexible Planning in Human-Robot Collaboration | Valerio Belcamino, Mariya Kilina, Linda Lastrico, Alessandro Carfì et al. | [Abstract](https://arxiv.org/abs/2406.04907) · [PDF](https://arxiv.org/pdf/2406.04907) |
 | 2024-04-30 | Integrating and Evaluating Visuo-tactile Sensing with Haptic Feedback for Teleoperated Robot Manipulation | Noah Becker, Kyrylo Sovailo, Chunyao Zhu, Erik Gattung et al. | [Abstract](https://arxiv.org/abs/2404.19585) · [PDF](https://arxiv.org/pdf/2404.19585) |
+| 2024-02-29 | TEXterity -- Tactile Extrinsic deXterity: Simultaneous Tactile Estimation and Control for Extrinsic Dexterity | Sangwoon Kim, Antonia Bronars, Parag Patre, Alberto Rodriguez | [Abstract](https://arxiv.org/abs/2403.00049) · [PDF](https://arxiv.org/pdf/2403.00049) |
 | 2024-01-30 | Optical Tactile Sensing for Aerial Multi-Contact Interaction: Design, Integration, and Evaluation | Emanuele Aucone, Carmelo Sferrazza, Manuel Gregor, Raffaello D'Andrea et al. | [Abstract](https://arxiv.org/abs/2401.17149) · [PDF](https://arxiv.org/pdf/2401.17149) |
+| 2024-01-23 | DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity | Kang-Won Lee, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim | [Abstract](https://arxiv.org/abs/2401.12496) · [PDF](https://arxiv.org/pdf/2401.12496) |
+| 2023-11-07 | Cyclic Fusion of Measuring Information in Curved Elastomer Contact via Vision-Based Tactile Sensing | Zilan Li, Zhibin Zou, Weiliang Xu, Yuanzhi Zhou et al. | [Abstract](https://arxiv.org/abs/2311.04002) · [PDF](https://arxiv.org/pdf/2311.04002) |
+| 2023-11-06 | A multi-modal approach to continuous material identification through tactile sensing | Augusto Gómez Eguíluz, Ignacio Rañó, Sonya A. Coleman, T. Martin McGinnity | [Abstract](https://arxiv.org/abs/2311.03090) · [PDF](https://arxiv.org/pdf/2311.03090) |
+| 2023-10-13 | FingerTac -- An Interchangeable and Wearable Tactile Sensor for the Fingertips of Human and Robot Hands | Prathamesh Sathe, Alexander Schmitz, Satoshi Funabashi, Tito Pradhono Tomo et al. | [Abstract](https://arxiv.org/abs/2310.09201) · [PDF](https://arxiv.org/pdf/2310.09201) |
+| 2023-10-03 | A Vision-Based Tactile Sensing System for Multimodal Contact Information Perception via Neural Network | Weiliang Xu, Guoyuan Zhou, Yuanzhi Zhou, Zhibin Zou et al. | [Abstract](https://arxiv.org/abs/2310.01986) · [PDF](https://arxiv.org/pdf/2310.01986) |
+| 2023-09-30 | An Investigation of Multi-feature Extraction and Super-resolution with Fast Microphone Arrays | Eric T. Chang, Runsheng Wang, Peter Ballentine, Jingxi Xu et al. | [Abstract](https://arxiv.org/abs/2310.00206) · [PDF](https://arxiv.org/pdf/2310.00206) |
+| 2023-09-29 | Aerial Interaction with Tactile Sensing | Xiaofeng Guo, Guanqi He, Mohammadreza Mousaei, Junyi Geng et al. | [Abstract](https://arxiv.org/abs/2310.00142) · [PDF](https://arxiv.org/pdf/2310.00142) |
+| 2023-09-21 | See to Touch: Learning Tactile Dexterity through Visual Incentives | Irmak Guzey, Yinlong Dai, Ben Evans, Soumith Chintala et al. | [Abstract](https://arxiv.org/abs/2309.12300) · [PDF](https://arxiv.org/pdf/2309.12300) |
+| 2023-09-18 | Design and Development of a Novel Soft and Inflatable Tactile Sensing Balloon for Early Diagnosis of Colorectal Cancer Polyps | Ozdemir Can Kara, Han Soul Kim, Jiaqi Xue, Tarunraj G. Mohanraj et al. | [Abstract](https://arxiv.org/abs/2309.09651) · [PDF](https://arxiv.org/pdf/2309.09651) |
+| 2023-09-18 | A Smart Handheld Edge Device for On-Site Diagnosis and Classification of Texture and Stiffness of Excised Colorectal Cancer Polyps | Ozdemir Can Kara, Jiaqi Xue, Nethra Venkatayogi, Tarunraj G. Mohanraj et al. | [Abstract](https://arxiv.org/abs/2309.09642) · [PDF](https://arxiv.org/pdf/2309.09642) |
 
 ---
 

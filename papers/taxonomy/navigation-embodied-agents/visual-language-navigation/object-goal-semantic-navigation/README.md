@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Visual%20%26%20Language%20Navigation&specialty=Object-goal%20%26%20Semantic%20Navigation#research-workbench)
 
-> 7 conference papers · 46 recent arXiv papers
+> 7 conference papers · 52 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Self-Supervised Object Goal Navigation with In-Situ Finetuning | IROS · Navigation | [Paper](https://arxiv.org/pdf/2212.05923) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341959) |
 | 2022 | ZSON: Zero-Shot Object-Goal Navigation using Multimodal Goal Embeddings | NeurIPS · Navigation | [Paper](https://arxiv.org/pdf/2206.12403) · [Publisher](https://doi.org/10.48550/arXiv.2206.12403) |
 
-## Recent arXiv papers (46)
+## Recent arXiv papers (52)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-13 | Graph-MambaNav: Spatial-Temporal Graph Mamba Leveraging Object-Relation Knowledge for Object-Goal Navigation | Leyuan Sun, Genxin Chen, Linwei Ye, Yan Zhang et al. | [Abstract](https://arxiv.org/abs/2608.13723) · [PDF](https://arxiv.org/pdf/2608.13723) |
+| 2026-08-10 | Hierarchical Fast-Slow ReAct Agent for Zero-Shot Object-Goal Navigation | Zhaochen Lan, Zhi Yang, Yuxiang Fu, Mengxiang Lin | [Abstract](https://arxiv.org/abs/2608.09816) · [PDF](https://arxiv.org/pdf/2608.09816) |
 | 2026-07-21 | Beyond Transformers: Linear Attention Policy for Open-Vocabulary Object Goal Navigation | Jiahong Zhang, Yifan Lin, Yandong Zhang, Sijun Shen et al. | [Abstract](https://arxiv.org/abs/2607.18794) · [PDF](https://arxiv.org/pdf/2607.18794) |
 | 2026-07-17 | SkillNav: Score-Level Skill Intervention for Zero-Shot Object Goal Navigation | Ruijie Sang, Yiqun Duan, Pinhan Fu, Ruilin Wang et al. | [Abstract](https://arxiv.org/abs/2607.15758) · [PDF](https://arxiv.org/pdf/2607.15758) |
 | 2026-07-17 | Difference-Based Relational Learning for Zero-Shot Object-Goal Visual Navigation With Direct Sim-to-Real Transfer | Guolei Qi, Feitian Zhang | [Abstract](https://arxiv.org/abs/2607.15642) · [PDF](https://arxiv.org/pdf/2607.15642) |
@@ -44,6 +46,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-02-05 | MerNav: A Highly Generalizable Memory-Execute-Review Framework for Zero-Shot Object Goal Navigation | Dekang Qi, Shuang Zeng, Xinyuan Chang, Feng Xiong et al. | [Abstract](https://arxiv.org/abs/2602.05467) · [PDF](https://arxiv.org/pdf/2602.05467) |
 | 2026-01-31 | APEX: A Decoupled Memory-based Explorer for Asynchronous Aerial Object Goal Navigation | Daoxuan Zhang, Ping Chen, Xiaobo Xia, Xiu Su et al. | [Abstract](https://arxiv.org/abs/2602.00551) · [PDF](https://arxiv.org/pdf/2602.00551) |
 | 2026-01-22 | AION: Aerial Indoor Object-Goal Navigation Using Dual-Policy Reinforcement Learning | Zichen Yan, Yuchen Hou, Shenao Wang, Yichao Gao et al. | [Abstract](https://arxiv.org/abs/2601.15614) · [PDF](https://arxiv.org/pdf/2601.15614) |
+| 2025-12-30 | RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Visual Contextual Adaptation | Ming-Ming Yu, Yi Chen, Börje F. Karlsson, Wenjun Wu | [Abstract](https://arxiv.org/abs/2512.24212) · [PDF](https://arxiv.org/pdf/2512.24212) |
 | 2025-11-30 | FOM-Nav: Frontier-Object Maps for Object Goal Navigation | Thomas Chabal, Shizhe Chen, Jean Ponce, Cordelia Schmid | [Abstract](https://arxiv.org/abs/2512.01009) · [PDF](https://arxiv.org/pdf/2512.01009) |
 | 2025-11-12 | Think, Remember, Navigate: Zero-Shot Object-Goal Navigation with VLM-Powered Reasoning | Mobin Habibpour, Fatemeh Afghah | [Abstract](https://arxiv.org/abs/2511.08942) · [PDF](https://arxiv.org/pdf/2511.08942) |
 | 2025-10-21 | EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval | Zebin Yang, Sunjian Zheng, Tong Xie, Tianshi Xu et al. | [Abstract](https://arxiv.org/abs/2510.18546) · [PDF](https://arxiv.org/pdf/2510.18546) |
@@ -76,6 +79,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-03-15 | Advancing Object Goal Navigation Through LLM-enhanced Object Affinities Transfer | Mengying Lin, Shugao Liu, Dingxi Zhang, Yaran Chen et al. | [Abstract](https://arxiv.org/abs/2403.09971) · [PDF](https://arxiv.org/pdf/2403.09971) |
 | 2024-02-29 | Aligning Knowledge Graph with Visual Perception for Object-goal Navigation | Nuo Xu, Wen Wang, Rong Yang, Mengjie Qin et al. | [Abstract](https://arxiv.org/abs/2402.18892) · [PDF](https://arxiv.org/pdf/2402.18892) |
 | 2024-02-07 | Language-Based Augmentation to Address Shortcut Learning in Object Goal Navigation | Dennis Hoftijzer, Gertjan Burghouts, Luuk Spreeuwers | [Abstract](https://arxiv.org/abs/2402.05090) · [PDF](https://arxiv.org/pdf/2402.05090) |
+| 2023-12-06 | VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation | Naoki Yokoyama, Sehoon Ha, Dhruv Batra, Jiuguang Wang et al. | [Abstract](https://arxiv.org/abs/2312.03275) · [PDF](https://arxiv.org/pdf/2312.03275) |
+| 2023-11-14 | Probable Object Location (POLo) Score Estimation for Efficient Object Goal Navigation | Jiaming Wang, Harold Soh | [Abstract](https://arxiv.org/abs/2311.07992) · [PDF](https://arxiv.org/pdf/2311.07992) |
+| 2023-10-15 | Zero-Shot Object Goal Visual Navigation With Class-Independent Relationship Network | Xinting Li, Shiguang Zhang, Yue LU, Kerry Dang et al. | [Abstract](https://arxiv.org/abs/2310.09883) · [PDF](https://arxiv.org/pdf/2310.09883) |
 
 ---
 

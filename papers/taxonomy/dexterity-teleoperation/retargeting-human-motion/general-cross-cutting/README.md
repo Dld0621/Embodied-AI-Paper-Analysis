@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Retargeting%20%26%20Human%20Motion&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 5 conference papers · 14 recent arXiv papers
+> 5 conference papers · 9 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,22 +24,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | GenAug: Retargeting behaviors to unseen situations via Generative Augmentation | RSS · Retargeting | [Paper](https://arxiv.org/abs/2302.06671) · [Publisher](https://doi.org/10.48550/arXiv.2302.06671) |
 | 2022 | A Riemannian Take on Human Motion Analysis and Retargeting | IROS · Retargeting | [Paper](https://arxiv.org/pdf/2208.01372) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982127) |
 
-## Recent arXiv papers (14)
+## Recent arXiv papers (9)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
 | 2026-08-04 | DigitCode: Symbolic Tokenization of Hand Motion by Anatomical Units | Haoyu Gu, Haotian Lu, Jingrun Du, Xiao-Ping Zhang | [Abstract](https://arxiv.org/abs/2608.03127) · [PDF](https://arxiv.org/pdf/2608.03127) |
 | 2026-07-13 | Automated Synthesis of Facial Mechanisms for Conversational Animatronic Robots | Zongzheng Zhang, Zi Lin, Jiawen Yang, Ziqiao Peng et al. | [Abstract](https://arxiv.org/abs/2607.11688) · [PDF](https://arxiv.org/pdf/2607.11688) |
-| 2026-06-16 | EgoInfinity: A Web-Scale 4D Hand-Object Interaction Data Engine for Any-View Robot Retargeting and Video-to-Action Robot Learning | Gaotian Wang, Kejia Ren, Andrew Morgan, Yiting Chen et al. | [Abstract](https://arxiv.org/abs/2606.17385) · [PDF](https://arxiv.org/pdf/2606.17385) |
 | 2026-04-01 | Functional Force-Aware Retargeting from Virtual Human Demos to Soft Robot Policies | Uksang Yoo, Mengjia Zhu, Evan Pezent, Jom Preechayasomboon et al. | [Abstract](https://arxiv.org/abs/2604.01224) · [PDF](https://arxiv.org/pdf/2604.01224) |
 | 2026-02-06 | DynaRetarget: Dynamically-Feasible Retargeting using Sampling-Based Trajectory Optimization | Victor Dhedin, Ilyass Taouil, Shafeef Omar, Dian Yu et al. | [Abstract](https://arxiv.org/abs/2602.06827) · [PDF](https://arxiv.org/pdf/2602.06827) |
 | 2026-01-27 | Task-Centric Policy Optimization from Misaligned Motion Priors | Ziang Zheng, Kai Feng, Yi Nie, Shentao Qin | [Abstract](https://arxiv.org/abs/2601.19411) · [PDF](https://arxiv.org/pdf/2601.19411) |
-| 2026-01-18 | XR$^3$: An Extended Reality Platform for Social-Physical Human-Robot Interaction | Chao Wang, Anna Belardinelli, Michael Gienger | [Abstract](https://arxiv.org/abs/2601.12395) · [PDF](https://arxiv.org/pdf/2601.12395) |
 | 2025-09-21 | HOGraspFlow: Taxonomy-Aware Hand-Object Retargeting for Multi-Modal SE(3) Grasp Generation | Yitian Shi, Zicheng Guo, Rosa Wolf, Edgar Welte et al. | [Abstract](https://arxiv.org/abs/2509.16871) · [PDF](https://arxiv.org/pdf/2509.16871) |
 | 2025-08-11 | PCHands: PCA-based Hand Pose Synergy Representation on Manipulators with N-DoF | En Yen Puang, Federico Ceola, Giulia Pasquale, Lorenzo Natale | [Abstract](https://arxiv.org/abs/2508.07945) · [PDF](https://arxiv.org/pdf/2508.07945) |
-| 2025-07-13 | Visuo-Acoustic Hand Pose and Contact Estimation | Yuemin Mao, Uksang Yoo, Yunchao Yao, Shahram Najam Syed et al. | [Abstract](https://arxiv.org/abs/2508.00852) · [PDF](https://arxiv.org/pdf/2508.00852) |
-| 2025-05-27 | Multi-Embodiment Robotic Retargeting via Guided Diffusion Model | Zhefeng Cao, Ben Liu, Shunpeng Yang, Sen Li et al. | [Abstract](https://arxiv.org/abs/2505.20857) · [PDF](https://arxiv.org/pdf/2505.20857) |
-| 2025-05-06 | PyRoki: A Modular Toolkit for Robot Kinematic Optimization | Chung Min Kim, Brent Yi, Hongsuk Choi, Yi Ma et al. | [Abstract](https://arxiv.org/abs/2505.03728) · [PDF](https://arxiv.org/pdf/2505.03728) |
 | 2025-03-01 | Enhancing Context-Aware Human Motion Prediction for Efficient Robot Handovers | Gerard Gómez-Izquierdo, Javier Laplaza, Alberto Sanfeliu, Anaís Garrell | [Abstract](https://arxiv.org/abs/2503.00576) · [PDF](https://arxiv.org/pdf/2503.00576) |
 | 2024-03-19 | Driving Animatronic Robot Facial Expression From Speech | Boren Li, Hang Li, Hangxin Liu | [Abstract](https://arxiv.org/abs/2403.12670) · [PDF](https://arxiv.org/pdf/2403.12670) |
 

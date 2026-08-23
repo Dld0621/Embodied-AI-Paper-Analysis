@@ -24,7 +24,7 @@ const I18N = {
   },
   zh: {
     skip: "跳转到科研工作台", navWorkbench: "科研工作台", navDirections: "研究地图", navPolicy: "方法", readingList: "阅读清单",
-    eyebrow: "顶会普查 + 滚动 arXiv 普查", heroLineOne: "研究整个领域。", heroLineTwo: "不被信息流裹挟。",
+    eyebrow: "顶会普查 + 滚动 arXiv 普查", heroLineOne: "研究整个领域。", heroLineTwo: "超越信息流。",
     heroLead: "面向科研工作者的双语、来源透明工作台，连接近五年顶会普查、近三年 arXiv 论文层与可审计的三级研究分类。",
     openWorkbench: "进入科研工作台", browseMarkdown: "浏览 Markdown 索引", heroNote: "顶会录用来源与 arXiv 预印本严格分层；合并视图按标题去重，不会把预印本重复误写成录用证据。",
     scope: "科研语料库", audited: "已审计", papers: "篇论文", researchRecords: "条去重研究记录", conferencePapers: "篇顶会论文", arxivPapers: "篇 arXiv 近三年论文", arxivCandidates: "条 arXiv 候选已审计", venues: "个主要顶会", tracks: "条一级方向", subfields: "个二级子领域", specialties: "个三级专题", linked: "来源已链接",

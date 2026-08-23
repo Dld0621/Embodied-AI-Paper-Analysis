@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Visual%20%26%20Language%20Navigation&specialty=Image-goal%2C%20Point-goal%20%26%20Retrieval%20Navigation#research-workbench)
 
-> 4 conference papers · 18 recent arXiv papers
+> 4 conference papers · 29 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,15 +23,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | RGBD-based Image Goal Navigation with Pose Drift: A Topo-metric Graph based Approach | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610727) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610727) |
 | 2022 | Topological Semantic Graph Memory for Image-Goal Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2209.08274) · [Publisher](https://doi.org/10.48550/arXiv.2209.08274) |
 
-## Recent arXiv papers (18)
+## Recent arXiv papers (29)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-19 | DevGRU: Depth-guided Visual Navigation using a Collision-aware Recurrent Model | Kyung Min Han, Eunsom Kim, Young J. Kim | [Abstract](https://arxiv.org/abs/2608.18470) · [PDF](https://arxiv.org/pdf/2608.18470) |
+| 2026-08-10 | Latent World Models with Monotone Planning Costs for Image-Goal Navigation | Amirhosein Chahe, Siwei Cai, Lifeng Zhou | [Abstract](https://arxiv.org/abs/2608.09073) · [PDF](https://arxiv.org/pdf/2608.09073) |
+| 2026-08-07 | Unordered Landmark Visual Navigation | Hao Ren, Junzhe Zhu, Yihan Li, Zetong Bi et al. | [Abstract](https://arxiv.org/abs/2608.06833) · [PDF](https://arxiv.org/pdf/2608.06833) |
+| 2026-07-13 | Learning to Navigate Efficiently with Only 0.58M Trainable Parameters | Edward Beng Wai Tan, Siew-Kei Lam | [Abstract](https://arxiv.org/abs/2607.11029) · [PDF](https://arxiv.org/pdf/2607.11029) |
 | 2026-06-29 | RoamFlow: Reinforcement-Aligned One-Step Action MeanFlow Policy for Image-Goal Navigation | Zixuan Zhang, Yuqi Chen, Junjie Gao, Siyuan Song et al. | [Abstract](https://arxiv.org/abs/2606.29934) · [PDF](https://arxiv.org/pdf/2606.29934) |
+| 2026-06-03 | WAM-Nav: Asymmetric Latent World-Action Modeling for Unified Visual Navigation | Ning Yang, Yan Huang, Kaiwen Peng, Ziheng He et al. | [Abstract](https://arxiv.org/abs/2606.04907) · [PDF](https://arxiv.org/pdf/2606.04907) |
 | 2026-04-19 | Think before Go: Hierarchical Reasoning for Image-goal Navigation | Pengna Li, Kangyi Wu, Shaoqing Xu, Fang Li et al. | [Abstract](https://arxiv.org/abs/2604.17407) · [PDF](https://arxiv.org/pdf/2604.17407) |
 | 2026-04-07 | AnyImageNav: Any-View Geometry for Precise Last-Meter Image-Goal Navigation | Yijie Deng, Shuaihang Yuan, Yi Fang | [Abstract](https://arxiv.org/abs/2604.05351) · [PDF](https://arxiv.org/pdf/2604.05351) |
 | 2026-03-27 | 120 Minutes and a Laptop: Minimalist Image-goal Navigation via Unsupervised Exploration and Offline RL | Xiaoming Liu, Borong Zhang, Qingbiao Li, Steven Morad | [Abstract](https://arxiv.org/abs/2603.26441) · [PDF](https://arxiv.org/pdf/2603.26441) |
 | 2026-01-23 | Insect-inspired Visual Point-goal Navigation | Yihe Lu, Barbara Webb | [Abstract](https://arxiv.org/abs/2601.16806) · [PDF](https://arxiv.org/pdf/2601.16806) |
+| 2026-01-18 | OpenNavMap: Multi-Session Appearance-Based Topometric Mapping for Scalable Visual Navigation | Jianhao Jiao, Changkun Liu, Jingwen Yu, Boyi Liu et al. | [Abstract](https://arxiv.org/abs/2601.12291) · [PDF](https://arxiv.org/pdf/2601.12291) |
+| 2025-11-27 | MG-Nav: Dual-Scale Visual Navigation via Sparse Spatial Memory | Bo Wang, Jiehong Lin, Chenzhi Liu, Xinting Hu et al. | [Abstract](https://arxiv.org/abs/2511.22609) · [PDF](https://arxiv.org/pdf/2511.22609) |
 | 2025-11-17 | SplatSearch: Instance Image Goal Navigation for Mobile Robots using 3D Gaussian Splatting and Diffusion Models | Siddarth Narasimhan, Matthew Lisondra, Haitong Wang, Goldie Nejat | [Abstract](https://arxiv.org/abs/2511.12972) · [PDF](https://arxiv.org/pdf/2511.12972) |
 | 2025-11-14 | Efficient Image-Goal Navigation with Representative Latent World Model | Zhiwei Zhang, Hui Zhang, Kaihong Huang, Chenghao Shi et al. | [Abstract](https://arxiv.org/abs/2511.11011) · [PDF](https://arxiv.org/pdf/2511.11011) |
 | 2025-08-17 | SIGN: Safety-Aware Image-Goal Navigation for Autonomous Drones via Reinforcement Learning | Zichen Yan, Rui Huang, Lei He, Shao Guo et al. | [Abstract](https://arxiv.org/abs/2508.12394) · [PDF](https://arxiv.org/pdf/2508.12394) |
@@ -40,11 +47,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-07-02 | What does really matter in image goal navigation? | Gianluca Monaci, Philippe Weinzaepfel, Christian Wolf | [Abstract](https://arxiv.org/abs/2507.01667) · [PDF](https://arxiv.org/pdf/2507.01667) |
 | 2025-06-09 | Hierarchical Scoring with 3D Gaussian Splatting for Instance Image-Goal Navigation | Yijie Deng, Shuaihang Yuan, Geeta Chandra Raju Bethala, Anthony Tzes et al. | [Abstract](https://arxiv.org/abs/2506.07338) · [PDF](https://arxiv.org/pdf/2506.07338) |
 | 2025-04-25 | RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation | Zheng Qin, Le Wang, Yabing Wang, Sanping Zhou et al. | [Abstract](https://arxiv.org/abs/2504.17991) · [PDF](https://arxiv.org/pdf/2504.17991) |
+| 2025-03-14 | Image-Goal Navigation Using Refined Feature Guidance and Scene Graph Enhancement | Zhicheng Feng, Xieyuanli Chen, Chenghao Shi, Lun Luo et al. | [Abstract](https://arxiv.org/abs/2503.10986) · [PDF](https://arxiv.org/pdf/2503.10986) |
+| 2025-03-07 | GSplatVNM: Point-of-View Synthesis for Visual Navigation Models Using Gaussian Splatting | Kohei Honda, Takeshi Ishita, Yasuhiro Yoshimura, Ryo Yonetani | [Abstract](https://arxiv.org/abs/2503.05152) · [PDF](https://arxiv.org/pdf/2503.05152) |
 | 2024-12-23 | LMD-PGN: Cross-Modal Knowledge Distillation from First-Person-View Images to Third-Person-View BEV Maps for Universal Point Goal Navigation | Riku Uemura, Kanji Tanaka, Kenta Tsukahara, Daiki Iwata | [Abstract](https://arxiv.org/abs/2412.17282) · [PDF](https://arxiv.org/pdf/2412.17282) |
-| 2024-10-06 | LiteVLoc: Map-Lite Visual Localization for Image Goal Navigation | Jianhao Jiao, Jinhao He, Changkun Liu, Sebastian Aegidius et al. | [Abstract](https://arxiv.org/abs/2410.04419) · [PDF](https://arxiv.org/pdf/2410.04419) |
+| 2024-11-05 | Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation | Yichen Wang, Qiming Liu, Zhe Liu, Hesheng Wang | [Abstract](https://arxiv.org/abs/2411.03487) · [PDF](https://arxiv.org/pdf/2411.03487) |
 | 2024-09-16 | BEINGS: Bayesian Embodied Image-goal Navigation with Gaussian Splatting | Wugang Meng, Tianfu Wu, Huan Yin, Fumin Zhang | [Abstract](https://arxiv.org/abs/2409.10216) · [PDF](https://arxiv.org/pdf/2409.10216) |
 | 2024-05-23 | Transformers for Image-Goal Navigation | Nikhilanj Pelluri | [Abstract](https://arxiv.org/abs/2405.14128) · [PDF](https://arxiv.org/pdf/2405.14128) |
+| 2024-04-16 | SCALE: Self-Correcting Visual Navigation for Mobile Robots via Anti-Novelty Estimation | Chang Chen, Yuecheng Liu, Yuzheng Zhuang, Sitong Mao et al. | [Abstract](https://arxiv.org/abs/2404.10675) · [PDF](https://arxiv.org/pdf/2404.10675) |
 | 2024-04-15 | Real-world Instance-specific Image Goal Navigation: Bridging Domain Gaps via Contrastive Learning | Taichi Sakaguchi, Akira Taniguchi, Yoshinobu Hagiwara, Lotfi El Hafi et al. | [Abstract](https://arxiv.org/abs/2404.09645) · [PDF](https://arxiv.org/pdf/2404.09645) |
+| 2023-10-11 | FGPrompt: Fine-grained Goal Prompting for Image-goal Navigation | Xinyu Sun, Peihao Chen, Jugang Fan, Thomas H. Li et al. | [Abstract](https://arxiv.org/abs/2310.07473) · [PDF](https://arxiv.org/pdf/2310.07473) |
 
 ---
 

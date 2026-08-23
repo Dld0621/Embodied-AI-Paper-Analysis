@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Motion%20Imitation%20%26%20Generation&specialty=Language-conditioned%20Motion%20Generation#research-workbench)
 
-> 0 conference papers · 51 recent arXiv papers
+> 0 conference papers · 58 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (51)
+## Recent arXiv papers (58)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -27,6 +27,8 @@ No conference papers currently map to this specialty.
 | 2026-07-15 | ConFlow: Constraints-Guided Learning with Flow Matching for Motion Generation | Nutan Chen, Jianxiang Feng, Marvin Alles, Botond Cseke | [Abstract](https://arxiv.org/abs/2607.14424) · [PDF](https://arxiv.org/pdf/2607.14424) |
 | 2026-07-09 | ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation | Kaifeng Zhao, Mathis Petrovich, Haotian Zhang, Tingwu Wang et al. | [Abstract](https://arxiv.org/abs/2607.08741) · [PDF](https://arxiv.org/pdf/2607.08741) |
 | 2026-07-08 | Compositional Motion Generation from Demonstration with Object-Centric Neural Fields | Ahmet Ercan Tekden, Yasemin Bekiroglu | [Abstract](https://arxiv.org/abs/2607.07129) · [PDF](https://arxiv.org/pdf/2607.07129) |
+| 2026-06-29 | X-Morph: Human Motion Priors for Scalable Robot Learning Across Morphologies | Ritwik Sharma, Shivam Sood, Arhaan Jain, Shyam Charan Kesavamoorthi et al. | [Abstract](https://arxiv.org/abs/2606.30290) · [PDF](https://arxiv.org/pdf/2606.30290) |
+| 2026-06-19 | Odoriko: A Shape-Aware Multimodal Diffusion Framework for Human Motion | Dongseok Shim, Julian Tanke, Kengo Uchida, Christian Simon et al. | [Abstract](https://arxiv.org/abs/2606.21135) · [PDF](https://arxiv.org/pdf/2606.21135) |
 | 2026-06-10 | G-MAPP: GPU-accelerated Multi-Agent Planning and Perception for Reactive Motion Generation | Tanmay Bishnoi, Riddhiman Laha, Tobias Löw, Jose Alex Chandy et al. | [Abstract](https://arxiv.org/abs/2606.12579) · [PDF](https://arxiv.org/pdf/2606.12579) |
 | 2026-06-07 | Safe, Fluent and Acceptable Motion Generation and Execution for Human--Robot Interaction in Manufacturing Environments | Thibaut Lopez, Olivier Aycard, Pierre-Brice Wieber, Mohamed Boua et al. | [Abstract](https://arxiv.org/abs/2606.08741) · [PDF](https://arxiv.org/pdf/2606.08741) |
 | 2026-06-02 | Extreme Motion Generation via Hybrid Null-Space Control for Straight-Line Path Following | Xinyi Yuan, Weiwei Wan, Kensuke Harada | [Abstract](https://arxiv.org/abs/2606.03390) · [PDF](https://arxiv.org/pdf/2606.03390) |
@@ -35,6 +37,7 @@ No conference papers currently map to this specialty.
 | 2026-04-02 | Realistic Lip Motion Generation Based on 3D Dynamic Viseme and Coarticulation Modeling for Human-Robot Interaction | Sheng Li, Jingcheng Huang, Min Li | [Abstract](https://arxiv.org/abs/2604.01756) · [PDF](https://arxiv.org/pdf/2604.01756) |
 | 2026-03-19 | Empathetic Motion Generation for Humanoid Educational Robots via Reasoning-Guided Vision--Language--Motion Diffusion Architecture | Fuze Sun, Lingyu Li, Lekan Dai, Xinyu Fan | [Abstract](https://arxiv.org/abs/2603.18771) · [PDF](https://arxiv.org/pdf/2603.18771) |
 | 2026-03-16 | Kimodo: Scaling Controllable Human Motion Generation | Davis Rempe, Mathis Petrovich, Ye Yuan, Haotian Zhang et al. | [Abstract](https://arxiv.org/abs/2603.15546) · [PDF](https://arxiv.org/pdf/2603.15546) |
+| 2026-03-13 | InterEdit: Navigating Text-Guided 3D Dyadic Human Motion Editing | Yebin Yang, Di Wen, Lei Qi, Weitong Kong et al. | [Abstract](https://arxiv.org/abs/2603.13082) · [PDF](https://arxiv.org/pdf/2603.13082) |
 | 2026-03-05 | cuRoboV2: Dynamics-Aware Motion Generation with Depth-Fused Distance Fields for High-DoF Robots | Balakumar Sundaralingam, Adithyavairavan Murali, Stan Birchfield | [Abstract](https://arxiv.org/abs/2603.05493) · [PDF](https://arxiv.org/pdf/2603.05493) |
 | 2026-02-18 | Reactive Motion Generation With Particle-Based Perception in Dynamic Environments | Xiyuan Zhao, Huijun Li, Lifeng Zhu, Zhikai Wei et al. | [Abstract](https://arxiv.org/abs/2602.16462) · [PDF](https://arxiv.org/pdf/2602.16462) |
 | 2026-02-03 | Hierarchical Proportion Models for Motion Generation via Integration of Motion Primitives | Yu-Han Shu, Toshiaki Tsuji, Sho Sakaino | [Abstract](https://arxiv.org/abs/2602.03188) · [PDF](https://arxiv.org/pdf/2602.03188) |
@@ -54,6 +57,7 @@ No conference papers currently map to this specialty.
 | 2025-06-05 | Realizing Text-Driven Motion Generation on NAO Robot: A Reinforcement Learning-Optimized Control Pipeline | Zihan Xu, Mengxian Hu, Kaiyan Xiao, Qin Fang et al. | [Abstract](https://arxiv.org/abs/2506.05117) · [PDF](https://arxiv.org/pdf/2506.05117) |
 | 2025-06-02 | Hierarchical Intention-Aware Expressive Motion Generation for Humanoid Robots | Lingfan Bao, Yan Pan, Tianhu Peng, Dimitrios Kanoulas et al. | [Abstract](https://arxiv.org/abs/2506.01563) · [PDF](https://arxiv.org/pdf/2506.01563) |
 | 2025-06-02 | Captivity-Escape Games as a Means for Safety in Online Motion Generation | Christopher Bohn, Manuel Hess, Sören Hohmann | [Abstract](https://arxiv.org/abs/2506.01399) · [PDF](https://arxiv.org/pdf/2506.01399) |
+| 2025-05-02 | GENMO: A GENeralist Model for Human MOtion | Jiefeng Li, Jinkun Cao, Haotian Zhang, Davis Rempe et al. | [Abstract](https://arxiv.org/abs/2505.01425) · [PDF](https://arxiv.org/pdf/2505.01425) |
 | 2025-04-28 | Motion Generation for Food Topping Challenge 2024: Serving Salmon Roe Bowl and Picking Fried Chicken | Koki Inami, Masashi Konosu, Koki Yamane, Nozomu Masuya et al. | [Abstract](https://arxiv.org/abs/2504.19498) · [PDF](https://arxiv.org/pdf/2504.19498) |
 | 2025-04-14 | KeyMPs: One-Shot Vision-Language Guided Motion Generation by Sequencing DMPs for Occlusion-Rich Tasks | Edgar Anarossi, Yuhwan Kwon, Hirotaka Tahara, Shohei Tanaka et al. | [Abstract](https://arxiv.org/abs/2504.10011) · [PDF](https://arxiv.org/pdf/2504.10011) |
 | 2025-04-09 | Interactive Expressive Motion Generation Using Dynamic Movement Primitives | Till Hielscher, Andreas Bulling, Kai O. Arras | [Abstract](https://arxiv.org/abs/2504.06735) · [PDF](https://arxiv.org/pdf/2504.06735) |
@@ -73,6 +77,9 @@ No conference papers currently map to this specialty.
 | 2024-05-10 | Robotic Stroke Motion Following the Shape of the Human Back: Motion Generation and Psychological Effects | Akishige Yuguchi, Tomoki Ishikura, Sung-Gwi Cho, Jun Takamatsu et al. | [Abstract](https://arxiv.org/abs/2405.06588) · [PDF](https://arxiv.org/pdf/2405.06588) |
 | 2024-03-22 | Guided Decoding for Robot On-line Motion Generation and Adaption | Nutan Chen, Botond Cseke, Elie Aljalbout, Alexandros Paraschos et al. | [Abstract](https://arxiv.org/abs/2403.15239) · [PDF](https://arxiv.org/pdf/2403.15239) |
 | 2024-03-20 | Motion Generation from Fine-grained Textual Descriptions | Kunhang Li, Yansong Feng | [Abstract](https://arxiv.org/abs/2403.13518) · [PDF](https://arxiv.org/pdf/2403.13518) |
+| 2023-12-28 | InsActor: Instruction-driven Physics-based Characters | Jiawei Ren, Mingyuan Zhang, Cunjun Yu, Xiao Ma et al. | [Abstract](https://arxiv.org/abs/2312.17135) · [PDF](https://arxiv.org/pdf/2312.17135) |
+| 2023-12-19 | MotionScript: Natural Language Descriptions for Expressive 3D Human Motions | Payam Jome Yazdian, Rachel Lagasse, Hamid Mohammadi, Eric Liu et al. | [Abstract](https://arxiv.org/abs/2312.12634) · [PDF](https://arxiv.org/pdf/2312.12634) |
+| 2023-10-26 | cuRobo: Parallelized Collision-Free Minimum-Jerk Robot Motion Generation | Balakumar Sundaralingam, Siva Kumar Sastry Hari, Adam Fishman, Caelan Garrett et al. | [Abstract](https://arxiv.org/abs/2310.17274) · [PDF](https://arxiv.org/pdf/2310.17274) |
 
 ---
 

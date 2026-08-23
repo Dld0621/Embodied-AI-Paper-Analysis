@@ -460,7 +460,7 @@ def render_overview(catalog: dict, arxiv: dict) -> str:
     lines = [
         "# Embodied AI Conference Census · 具身智能顶会论文普查",
         "",
-        f"> {len(papers):,} conference papers · {len(arxiv_papers):,} recent arXiv papers · 7 directions · {catalog['taxonomy']['subcategory_count']} subfields · {catalog['taxonomy']['specialty_count']} specialties · updated {catalog['as_of']}",
+        f"> {len(papers):,} conference papers · {len(arxiv_papers):,} recent arXiv papers · 7 directions · {catalog['taxonomy']['subcategory_count']} subfields · {catalog['taxonomy']['specialty_count']} specialties · conference snapshot {catalog['as_of']} · arXiv snapshot {arxiv['as_of']}",
         "",
         "这是一份按明确规则生成的系统性会议普查：固定顶会、年份、检索词、标题分类规则和排除项均可审计。它覆盖规则边界内的全部命中记录，但不把主观的“具身智能”包装成不存在争议的数学全集。",
         "",
@@ -1201,7 +1201,8 @@ def main() -> int:
             pass
     print(
         f"Rendered {len(outputs)} files "
-        f"({len(expected_taxonomy) - 1} level-3 taxonomy pages)."
+        f"({sum(path.is_relative_to(TAXONOMY_DIR) for path in expected_generated) - 1} "
+        "level-3 taxonomy pages)."
     )
     return 0
 

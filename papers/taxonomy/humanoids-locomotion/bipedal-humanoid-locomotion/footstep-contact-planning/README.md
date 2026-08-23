@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Footstep%20%26%20Contact%20Planning#research-workbench)
 
-> 6 conference papers · 8 recent arXiv papers
+> 6 conference papers · 9 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,17 +25,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Quadrupedal Footstep Planning Using Learned Motion Models of a Black-Box Controller | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2307.12292) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342440) |
 | 2022 | Real-time Footstep Planning and Control of the Solo Quadruped Robot in 3D Environments | IROS · Quadruped | [Paper](https://laas.hal.science/hal-03594629) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981539) |
 
-## Recent arXiv papers (8)
+## Recent arXiv papers (9)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
-| 2026-03-08 | Perceptive Variable-Timing Footstep Planning for Humanoid Locomotion on Disconnected Footholds | Zhaoyang Xiang, Upama Pant, Ayonga Hereid | [Abstract](https://arxiv.org/abs/2603.07400) · [PDF](https://arxiv.org/pdf/2603.07400) |
 | 2026-03-03 | CASSR: Continuous A-Star Search through Reachability for real time footstep planning | Jiayi Wang, Steve Tonneau | [Abstract](https://arxiv.org/abs/2603.02989) · [PDF](https://arxiv.org/pdf/2603.02989) |
 | 2025-11-11 | Dual-MPC Footstep Planning for Robust Quadruped Locomotion | Byeong-Il Ham, Hyun-Bin Kim, Jeonguk Kang, Keun Ha Choi et al. | [Abstract](https://arxiv.org/abs/2511.07921) · [PDF](https://arxiv.org/pdf/2511.07921) |
+| 2025-02-26 | Diffusion-based Planning with Learned Viability Filters | Nicholas Ioannidis, Daniele Reda, Setareh Cohan, Michiel van de Panne | [Abstract](https://arxiv.org/abs/2502.19564) · [PDF](https://arxiv.org/pdf/2502.19564) |
 | 2024-09-16 | Real-time Coupled Centroidal Motion and Footstep Planning for Biped Robots | Tara Bartlett, Ian R. Manchester | [Abstract](https://arxiv.org/abs/2409.09939) · [PDF](https://arxiv.org/pdf/2409.09939) |
-| 2024-08-05 | Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion | Ho Jae Lee, Seungwoo Hong, Sangbae Kim | [Abstract](https://arxiv.org/abs/2408.02662) · [PDF](https://arxiv.org/pdf/2408.02662) |
 | 2024-07-17 | NAS: N-step computation of All Solutions to the footstep planning problem | Jiayi Wang, Saeid Samadi, Hefan Wang, Pierre Fernbach et al. | [Abstract](https://arxiv.org/abs/2407.12962) · [PDF](https://arxiv.org/pdf/2407.12962) |
 | 2024-07-16 | Learning feasible transitions for efficient contact planning | Rikhat Akizhanov, Victor Dhédin, Majid Khadiv, Ivan Laptev | [Abstract](https://arxiv.org/abs/2407.11788) · [PDF](https://arxiv.org/pdf/2407.11788) |
+| 2024-06-24 | Socially Acceptable Bipedal Robot Navigation via Social Zonotope Network Model Predictive Control | Abdulaziz Shamsah, Krishanu Agarwal, Nigam Katta, Abirath Raju et al. | [Abstract](https://arxiv.org/abs/2406.17151) · [PDF](https://arxiv.org/pdf/2406.17151) |
+| 2024-03-25 | Real-time Model Predictive Control with Zonotope-Based Neural Networks for Bipedal Social Navigation | Abdulaziz Shamsah, Krishanu Agarwal, Shreyas Kousik, Ye Zhao | [Abstract](https://arxiv.org/abs/2403.16485) · [PDF](https://arxiv.org/pdf/2403.16485) |
 | 2024-03-19 | FootstepNet: an Efficient Actor-Critic Method for Fast On-line Bipedal Footstep Planning and Forecasting | Clément Gaspard, Grégoire Passault, Mélodie Daniel, Olivier Ly | [Abstract](https://arxiv.org/abs/2403.12589) · [PDF](https://arxiv.org/pdf/2403.12589) |
 
 ---

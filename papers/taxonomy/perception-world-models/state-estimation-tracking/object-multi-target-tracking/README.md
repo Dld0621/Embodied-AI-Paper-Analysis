@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=State%20Estimation%20%26%20Tracking&specialty=Object%20%26%20Multi-target%20Tracking#research-workbench)
 
-> 1 conference papers · 64 recent arXiv papers
+> 1 conference papers · 82 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,26 +20,36 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | Stretchable and High-Precision Optical Tactile Sensor for Trajectory Tracking of Parallel Mechanisms | IROS · Tactile | [Paper](https://arxiv.org/abs/2512.20888) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246642) |
 
-## Recent arXiv papers (64)
+## Recent arXiv papers (82)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-11 | JitTrack: Onboard Multi-Object Tracking Against Viewpoint Jitter for Agile UAVs | Yachun Shan, Feitian Zhang | [Abstract](https://arxiv.org/abs/2608.10485) · [PDF](https://arxiv.org/pdf/2608.10485) |
+| 2026-08-10 | GenTrack3: Hybrid Stochastic-Deterministic Online Multi-Object Tracking with Cluster-Aware Association | Toan Van Nguyen, Rasmus G. K. Christiansen, Dirk Kraft, Leon Bodenhagen | [Abstract](https://arxiv.org/abs/2608.09581) · [PDF](https://arxiv.org/pdf/2608.09581) |
+| 2026-06-30 | Machine Learning-based Feedback Linearization Control of Quadrotor Subject to Unmodeled Dynamics | Amos Alwala, Gabriel da Silva Lima, Wallace Moreira Bessa | [Abstract](https://arxiv.org/abs/2606.31199) · [PDF](https://arxiv.org/pdf/2606.31199) |
+| 2026-06-29 | Wind and State Estimation on SE(3): Comparative Evaluation of EKF and UKF with Continuous and Discrete Quadrotor Models | Hiranya Udagedara, Adam Bigsby, Mahdis Bisheban | [Abstract](https://arxiv.org/abs/2606.30804) · [PDF](https://arxiv.org/pdf/2606.30804) |
 | 2026-06-29 | PS-MOT: Cultivating Instance Awareness from Point Seeds for Multi-Object Tracking | Kai Luo, Fei Teng, Mengfei Duan, Wanjun Jia et al. | [Abstract](https://arxiv.org/abs/2606.30476) · [PDF](https://arxiv.org/pdf/2606.30476) |
 | 2026-06-29 | CylindTrack: Depth-Aware Cylindrical Motion Modeling for Panoramic Multi-Object Tracking | Buyin Deng, Kai Luo, Lingxin Huang, Xinqi Liu et al. | [Abstract](https://arxiv.org/abs/2606.30097) · [PDF](https://arxiv.org/pdf/2606.30097) |
 | 2026-06-02 | CANMOT: Class-Aware Noise Modeling for Multi-Object Tracking in Autonomous Driving | Timo Osterburg, Stefan Schütte, Torsten Bertram | [Abstract](https://arxiv.org/abs/2606.03590) · [PDF](https://arxiv.org/pdf/2606.03590) |
+| 2026-05-05 | Sensorless State Estimation and Control for Agile Cable-Suspended Payload Transport by Quadrotors | Ana Maria Nascimento, Augusto Sales, Antonio Marcus Lima, Tiago Nascimento | [Abstract](https://arxiv.org/abs/2605.03666) · [PDF](https://arxiv.org/pdf/2605.03666) |
+| 2026-04-15 | Neuromorphic Spiking Ring Attractor for Proprioceptive Joint-State Estimation | Federica Ferrari, Flavia Davidhi, Bernard Maacaron, Alberto Motta et al. | [Abstract](https://arxiv.org/abs/2604.14021) · [PDF](https://arxiv.org/pdf/2604.14021) |
 | 2026-04-02 | A Graph Neural Network Approach for Solving the Ranked Assignment Problem in Multi-Object Tracking | Robin Dehler, Martin Herrmann, Jan Strohbeck, Michael Buchholz | [Abstract](https://arxiv.org/abs/2604.01696) · [PDF](https://arxiv.org/pdf/2604.01696) |
 | 2026-03-29 | S3KF: Spherical State-Space Kalman Filtering for Panoramic 3D Multi-Object Tracking | Zhongyuan Liu, Shaonan Yu, Jianping Li, Pengfei Wan et al. | [Abstract](https://arxiv.org/abs/2603.27534) · [PDF](https://arxiv.org/pdf/2603.27534) |
 | 2026-03-29 | E-TIDE: Fast, Structure-Preserving Motion Forecasting from Event Sequences | Biswadeep Sen, Benoit R. Cottereau, Nicolas Cuperlier, Terence Sim | [Abstract](https://arxiv.org/abs/2603.27757) · [PDF](https://arxiv.org/pdf/2603.27757) |
 | 2026-03-18 | Sparse3DTrack: Monocular 3D Object Tracking Using Sparse Supervision | Nikhil Gosala, B. Ravi Kiran, Senthil Yogamani, Abhinav Valada | [Abstract](https://arxiv.org/abs/2603.18298) · [PDF](https://arxiv.org/pdf/2603.18298) |
 | 2026-03-09 | Fusion-Poly: A Polyhedral Framework Based on Spatial-Temporal Fusion for 3D Multi-Object Tracking | Xian Wu, Yitao Wu, Xiaoyu Li, Zijia Li et al. | [Abstract](https://arxiv.org/abs/2603.08199) · [PDF](https://arxiv.org/pdf/2603.08199) |
 | 2026-03-06 | NOVA: Next-step Open-Vocabulary Autoregression for 3D Multi-Object Tracking in Autonomous Driving | Kai Luo, Xu Wang, Rui Fan, Kailun Yang | [Abstract](https://arxiv.org/abs/2603.06254) · [PDF](https://arxiv.org/pdf/2603.06254) |
+| 2026-03-05 | Safe-SAGE: Social-Semantic Adaptive Guidance for Safe Engagement through Laplace-Modulated Poisson Safety Functions | Lizhi Yang, Ryan M. Bena, Meg Wilkinson, Gilbert Bahati et al. | [Abstract](https://arxiv.org/abs/2603.05497) · [PDF](https://arxiv.org/pdf/2603.05497) |
+| 2026-03-04 | Distributed State Estimation for Vision-Based Cooperative Slung Load Transportation in GPS-Denied Environments | Jack R. Pence, Jackson Fezell, Jack W. Langelaan, Junyi Geng | [Abstract](https://arxiv.org/abs/2603.04571) · [PDF](https://arxiv.org/pdf/2603.04571) |
+| 2026-02-03 | Control and State Estimation of Vehicle-Mounted Aerial Systems in GPS-Denied, Non-Inertial Environments | Riming Xu, Obadah Wali, Yasmine Marani, Eric Feron | [Abstract](https://arxiv.org/abs/2602.04057) · [PDF](https://arxiv.org/pdf/2602.04057) |
 | 2025-12-31 | CropTrack: A Tracking with Re-Identification Framework for Precision Agriculture | Md Ahmed Al Muzaddid, Jordan A. James, William J. Beksi | [Abstract](https://arxiv.org/abs/2512.24838) · [PDF](https://arxiv.org/pdf/2512.24838) |
 | 2025-12-24 | Stretchable and High-Precision Optical Tactile Sensor for Trajectory Tracking of Parallel Mechanisms | Yiding Nie, Dongliang Fan, Jiatai Huang, Chunyu Liu et al. | [Abstract](https://arxiv.org/abs/2512.20888) · [PDF](https://arxiv.org/pdf/2512.20888) |
-| 2025-12-16 | Quadratic Kalman Filter for Elliptical Extended Object Tracking based on Decoupling State Components | Simon Steuernagel, Marcus Baum | [Abstract](https://arxiv.org/abs/2512.14426) · [PDF](https://arxiv.org/pdf/2512.14426) |
+| 2025-12-16 | Decoupled Quadratic Kalman Filter for Elliptical Extended Object Tracking with Log-normal Axis Modeling | Simon Steuernagel, Marcus Baum | [Abstract](https://arxiv.org/abs/2512.14426) · [PDF](https://arxiv.org/pdf/2512.14426) |
 | 2025-11-26 | AerialMind: Towards Referring Multi-Object Tracking in UAV Scenarios | Chenglizhao Chen, Shaofeng Liang, Runwei Guan, Xiaolou Sun et al. | [Abstract](https://arxiv.org/abs/2511.21053) · [PDF](https://arxiv.org/pdf/2511.21053) |
 | 2025-11-01 | OmniTrack++: Omnidirectional Multi-Object Tracking by Learning Large-FoV Trajectory Feedback | Kai Luo, Hao Shi, Kunyu Peng, Fei Teng et al. | [Abstract](https://arxiv.org/abs/2511.00510) · [PDF](https://arxiv.org/pdf/2511.00510) |
 | 2025-10-28 | GenTrack: A New Generation of Multi-Object Tracking | Toan Van Nguyen, Rasmus G. K. Christiansen, Dirk Kraft, Leon Bodenhagen | [Abstract](https://arxiv.org/abs/2510.24399) · [PDF](https://arxiv.org/pdf/2510.24399) |
 | 2025-10-28 | GenTrack2: An Improved Hybrid Approach for Multi-Object Tracking | Toan Van Nguyen, Rasmus G. K. Christiansen, Dirk Kraft, Leon Bodenhagen | [Abstract](https://arxiv.org/abs/2510.24410) · [PDF](https://arxiv.org/pdf/2510.24410) |
+| 2025-10-27 | End-to-End Design and Validation of a Low-Cost Stewart Platform with Nonlinear Estimation and Control | Benedictus C. G. Cinun, Tua A. Tamba, Immanuel R. Santjoko, Xiaofeng Wang et al. | [Abstract](https://arxiv.org/abs/2510.22949) · [PDF](https://arxiv.org/pdf/2510.22949) |
 | 2025-09-22 | DepTR-MOT: Unveiling the Potential of Depth-Informed Trajectory Refinement for Multi-Object Tracking | Buyin Deng, Lingxin Huang, Kai Luo, Fei Teng et al. | [Abstract](https://arxiv.org/abs/2509.17323) · [PDF](https://arxiv.org/pdf/2509.17323) |
 | 2025-08-29 | Observability-driven Assignment of Heterogeneous Sensors for Multi-Target Tracking | Seyed Ali Rakhshan, Mehdi Golestani, He Kong | [Abstract](https://arxiv.org/abs/2508.21309) · [PDF](https://arxiv.org/pdf/2508.21309) |
 | 2025-08-15 | Towards Fully Onboard State Estimation and Trajectory Tracking for UAVs with Suspended Payloads | Martin Jiroušek, Tomáš Báča, Martin Saska | [Abstract](https://arxiv.org/abs/2508.11547) · [PDF](https://arxiv.org/pdf/2508.11547) |
@@ -80,14 +90,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-04-19 | A comparison between single-stage and two-stage 3D tracking algorithms for greenhouse robotics | David Rapado-Rincon, Akshay K. Burusa, Eldert J. van Henten, Gert Kootstra | [Abstract](https://arxiv.org/abs/2404.12963) · [PDF](https://arxiv.org/pdf/2404.12963) |
 | 2024-04-18 | Inverse Neural Rendering for Explainable Multi-Object Tracking | Julian Ost, Tanushree Banerjee, Mario Bijelic, Felix Heide | [Abstract](https://arxiv.org/abs/2404.12359) · [PDF](https://arxiv.org/pdf/2404.12359) |
 | 2024-04-02 | Perfecting Periodic Trajectory Tracking: Model Predictive Control with a Periodic Observer ($Π$-MPC) | Luis Pabon, Johannes Köhler, John Irvin Alora, Patrick Benito Eberhard et al. | [Abstract](https://arxiv.org/abs/2404.01550) · [PDF](https://arxiv.org/pdf/2404.01550) |
+| 2024-03-25 | Trajectory Optimization with Global Yaw Parameterization for Field-of-View Constrained Autonomous Flight | Yuwei Wu, Yuezhan Tao, Igor Spasojevic, Vijay Kumar | [Abstract](https://arxiv.org/abs/2403.17067) · [PDF](https://arxiv.org/pdf/2403.17067) |
 | 2024-03-23 | PNAS-MOT: Multi-Modal Object Tracking with Pareto Neural Architecture Search | Chensheng Peng, Zhaoyu Zeng, Jinling Gao, Jundong Zhou et al. | [Abstract](https://arxiv.org/abs/2403.15712) · [PDF](https://arxiv.org/pdf/2403.15712) |
 | 2024-03-20 | Fast-Poly: A Fast Polyhedral Framework For 3D Multi-Object Tracking | Xiaoyu Li, Dedong Liu, Yitao Wu, Xian Wu et al. | [Abstract](https://arxiv.org/abs/2403.13443) · [PDF](https://arxiv.org/pdf/2403.13443) |
+| 2024-03-19 | TON-VIO: Online Time Offset Modeling Networks for Robust Temporal Alignment in High Dynamic Motion VIO | Chaoran Xiong, Guoqing Liu, Qi Wu, Songpengcheng Xia et al. | [Abstract](https://arxiv.org/abs/2403.12504) · [PDF](https://arxiv.org/pdf/2403.12504) |
 | 2024-03-06 | Multi-Object Tracking with Camera-LiDAR Fusion for Autonomous Driving | Riccardo Pieroni, Simone Specchia, Matteo Corno, Sergio Matteo Savaresi | [Abstract](https://arxiv.org/abs/2403.04112) · [PDF](https://arxiv.org/pdf/2403.04112) |
 | 2024-02-28 | EchoTrack: Auditory Referring Multi-Object Tracking for Autonomous Driving | Jiacheng Lin, Jiajun Chen, Kunyu Peng, Xuan He et al. | [Abstract](https://arxiv.org/abs/2402.18302) · [PDF](https://arxiv.org/pdf/2402.18302) |
 | 2024-02-27 | SWTrack: Multiple Hypothesis Sliding Window 3D Multi-Object Tracking | Sandro Papais, Robert Ren, Steven Waslander | [Abstract](https://arxiv.org/abs/2402.17892) · [PDF](https://arxiv.org/pdf/2402.17892) |
 | 2024-02-19 | UncertaintyTrack: Exploiting Detection and Localization Uncertainty in Multi-Object Tracking | Chang Won Lee, Steven L. Waslander | [Abstract](https://arxiv.org/abs/2402.12303) · [PDF](https://arxiv.org/pdf/2402.12303) |
 | 2024-02-13 | LDTrack: Dynamic People Tracking by Service Robots using Diffusion Models | Angus Fung, Beno Benhabib, Goldie Nejat | [Abstract](https://arxiv.org/abs/2402.08774) · [PDF](https://arxiv.org/pdf/2402.08774) |
 | 2024-01-29 | A comparison of RL-based and PID controllers for 6-DOF swimming robots: hybrid underwater object tracking | Faraz Lotfi, Khalil Virji, Nicholas Dudek, Gregory Dudek | [Abstract](https://arxiv.org/abs/2401.16618) · [PDF](https://arxiv.org/pdf/2401.16618) |
+| 2023-12-18 | Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking | Shihao Feng, Pengpeng Liang, Jin Gao, Erkang Cheng | [Abstract](https://arxiv.org/abs/2312.11051) · [PDF](https://arxiv.org/pdf/2312.11051) |
+| 2023-12-11 | System-level Safety Guard: Safe Tracking Control through Uncertain Neural Network Dynamics Models | Xiao Li, Yutong Li, Anouck Girard, Ilya Kolmanovsky | [Abstract](https://arxiv.org/abs/2312.06810) · [PDF](https://arxiv.org/pdf/2312.06810) |
+| 2023-11-06 | Obstacle- and Occlusion-Responsive Visual Tracking Control for Redundant Manipulators using Reachability Measure | Mincheul Kang, Junhyoung Ha | [Abstract](https://arxiv.org/abs/2311.03029) · [PDF](https://arxiv.org/pdf/2311.03029) |
+| 2023-10-12 | Multi-Modal Sensor Fusion and Object Tracking for Autonomous Racing | Phillip Karle, Felix Fent, Sebastian Huch, Florian Sauerbeck et al. | [Abstract](https://arxiv.org/abs/2310.08114) · [PDF](https://arxiv.org/pdf/2310.08114) |
+| 2023-09-13 | Transparent Object Tracking with Enhanced Fusion Module | Kalyan Garigapati, Erik Blasch, Jie Wei, Haibin Ling | [Abstract](https://arxiv.org/abs/2309.06701) · [PDF](https://arxiv.org/pdf/2309.06701) |
+| 2023-08-27 | End-to-end Autonomous Driving using Deep Learning: A Systematic Review | Apoorv Singh | [Abstract](https://arxiv.org/abs/2311.18636) · [PDF](https://arxiv.org/pdf/2311.18636) |
 
 ---
 

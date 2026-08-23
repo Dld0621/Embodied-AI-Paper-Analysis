@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Quadruped%20%26%20Legged%20Locomotion&specialty=Agility%2C%20Recovery%20%26%20Dynamic%20Maneuvers#research-workbench)
 
-> 8 conference papers · 6 recent arXiv papers
+> 8 conference papers · 11 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,16 +27,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Learning and Adapting Agile Locomotion Skills by Transferring Experience | RSS · Agile locomotion | [Paper](https://www.roboticsproceedings.org/rss19/p051.pdf) · [Official](https://www.roboticsproceedings.org/rss19/p051.html) |
 | 2022 | Rapid locomotion via reinforcement learning | RSS · Locomotion | [Paper](https://arxiv.org/pdf/2205.02824) · [Publisher](https://doi.org/10.1177/02783649231224053) |
 
-## Recent arXiv papers (6)
+## Recent arXiv papers (11)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
 | 2026-05-27 | S-Cheetah: A Novel Quadrupedal Robot with a 3-DOF Active Spine Learning Agile Locomotion | Zimu Li, Weibang Bai | [Abstract](https://arxiv.org/abs/2605.27909) · [PDF](https://arxiv.org/pdf/2605.27909) |
-| 2026-01-30 | ZEST: Zero-shot Embodied Skill Transfer for Athletic Robot Control | Jean Pierre Sleiman, He Li, Alphonsus Adu-Bredu, Robin Deits et al. | [Abstract](https://arxiv.org/abs/2602.00401) · [PDF](https://arxiv.org/pdf/2602.00401) |
-| 2025-10-11 | ATRos: Learning Energy-Efficient Agile Locomotion for Wheeled-legged Robots | Jingyuan Sun, Hongyu Ji, Zihan Qu, Chaoran Wang et al. | [Abstract](https://arxiv.org/abs/2510.09980) · [PDF](https://arxiv.org/pdf/2510.09980) |
 | 2025-08-12 | Unsupervised Skill Discovery as Exploration for Learning Agile Locomotion | Seungeun Rho, Kartik Garg, Morgan Byrd, Sehoon Ha | [Abstract](https://arxiv.org/abs/2508.08982) · [PDF](https://arxiv.org/pdf/2508.08982) |
+| 2025-05-23 | HACL: History-Aware Curriculum Learning for Fast Locomotion | Prakhar Mishra, Amir Hossain Raj, Xuesu Xiao, Dinesh Manocha | [Abstract](https://arxiv.org/abs/2505.18429) · [PDF](https://arxiv.org/pdf/2505.18429) |
+| 2025-04-01 | Optimal Control of Walkers with Parallel Actuation | Ludovic de Matteis, Virgile Batto, Justin Carpentier, Nicolas Mansard | [Abstract](https://arxiv.org/abs/2504.00642) · [PDF](https://arxiv.org/pdf/2504.00642) |
 | 2024-09-11 | Robust Robot Walker: Learning Agile Locomotion over Tiny Traps | Shaoting Zhu, Runhan Huang, Linzhan Mou, Hang Zhao | [Abstract](https://arxiv.org/abs/2409.07409) · [PDF](https://arxiv.org/pdf/2409.07409) |
+| 2024-05-06 | Meta-Evolve: Continuous Robot Evolution for One-to-many Policy Transfer | Xingyu Liu, Deepak Pathak, Ding Zhao | [Abstract](https://arxiv.org/abs/2405.03534) · [PDF](https://arxiv.org/pdf/2405.03534) |
 | 2024-03-06 | Diffusion-based learning of contact plans for agile locomotion | Victor Dhédin, Adithya Kumar Chinnakkonda Ravi, Armand Jordana, Huaijiang Zhu et al. | [Abstract](https://arxiv.org/abs/2403.03639) · [PDF](https://arxiv.org/pdf/2403.03639) |
+| 2023-11-17 | Learning Agile Locomotion on Risky Terrains | Chong Zhang, Nikita Rudin, David Hoeller, Marco Hutter | [Abstract](https://arxiv.org/abs/2311.10484) · [PDF](https://arxiv.org/pdf/2311.10484) |
+| 2023-11-04 | LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Locomotion | Firas Al-Hafez, Guoping Zhao, Jan Peters, Davide Tateo | [Abstract](https://arxiv.org/abs/2311.02496) · [PDF](https://arxiv.org/pdf/2311.02496) |
+| 2023-10-13 | Learning Agile Locomotion and Adaptive Behaviors via RL-augmented MPC | Yiyu Chen, Quan Nguyen | [Abstract](https://arxiv.org/abs/2310.09442) · [PDF](https://arxiv.org/pdf/2310.09442) |
+| 2023-10-07 | Guardians as You Fall: Active Mode Transition for Safe Falling | Yikai Wang, Mengdi Xu, Guanya Shi, Ding Zhao | [Abstract](https://arxiv.org/abs/2310.04828) · [PDF](https://arxiv.org/pdf/2310.04828) |
 
 ---
 

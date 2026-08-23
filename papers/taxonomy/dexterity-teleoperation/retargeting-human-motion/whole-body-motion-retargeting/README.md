@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Retargeting%20%26%20Human%20Motion&specialty=Whole-body%20%26%20Motion%20Retargeting#research-workbench)
 
-> 3 conference papers · 17 recent arXiv papers
+> 3 conference papers · 20 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -22,7 +22,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Redefining Data Pairing for Motion Retargeting Leveraging a Human Body Prior | IROS · Retargeting | [Paper](https://arxiv.org/abs/2409.13208) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801789) |
 | 2023 | Robust Real-Time Motion Retargeting via Neural Latent Prediction | IROS · Retargeting | [Paper](https://doi.org/10.1109/IROS55552.2023.10342022) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342022) |
 
-## Recent arXiv papers (17)
+## Recent arXiv papers (20)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -33,12 +33,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-02 | Human2Humanoid: Physics-Aware Cross-Morphology Motion Retargeting for Humanoid Robots | Tianchen Huang, Feiyang Yuan, Junchi Gu, Shurui Fang et al. | [Abstract](https://arxiv.org/abs/2606.03476) · [PDF](https://arxiv.org/pdf/2606.03476) |
 | 2026-05-07 | ReActor: Reinforcement Learning for Physics-Aware Motion Retargeting | David Müller, Agon Serifi, Sammy Christen, Ruben Grandia et al. | [Abstract](https://arxiv.org/abs/2605.06593) · [PDF](https://arxiv.org/pdf/2605.06593) |
 | 2026-04-30 | Simulating Infant First-Person Sensorimotor Experience via Motion Retargeting from Babies to Humanoids | Francisco M. López, Hoshinori Kanazawa, Ondrej Fiala, Yakov Balashov et al. | [Abstract](https://arxiv.org/abs/2604.27583) · [PDF](https://arxiv.org/pdf/2604.27583) |
+| 2026-01-18 | XR$^3$: An Extended Reality Platform for Social-Physical Human-Robot Interaction | Chao Wang, Anna Belardinelli, Michael Gienger | [Abstract](https://arxiv.org/abs/2601.12395) · [PDF](https://arxiv.org/pdf/2601.12395) |
 | 2026-01-12 | AdaMorph: Unified Motion Retargeting via Embodiment-Aware Adaptive Transformers | Haoyu Zhang, Shibo Jin, Lusong Li, Jun Li et al. | [Abstract](https://arxiv.org/abs/2601.07284) · [PDF](https://arxiv.org/pdf/2601.07284) |
 | 2025-12-25 | World-Coordinate Human Motion Retargeting via SAM 3D Body | Zhangzheng Tu, Kailun Su, Shaolong Zhu, Yukun Zheng | [Abstract](https://arxiv.org/abs/2512.21573) · [PDF](https://arxiv.org/pdf/2512.21573) |
 | 2025-09-29 | MoReFlow: Motion Retargeting Learning through Unsupervised Flow Matching | Wontaek Kim, Tianyu Li, Sehoon Ha | [Abstract](https://arxiv.org/abs/2509.25600) · [PDF](https://arxiv.org/pdf/2509.25600) |
 | 2025-09-18 | A Scalable Whole-body Motion Transfer via Implicit Kinodynamic Motion Retargeting | Xingyu Chen, Hanyu Wu, Sikai Wu, Mingliang Zhou et al. | [Abstract](https://arxiv.org/abs/2509.15443) · [PDF](https://arxiv.org/pdf/2509.15443) |
 | 2025-07-04 | Dexterous Teleoperation of 20-DoF ByteDexter Hand via Human Motion Retargeting | Ruoshi Wen, Jiajun Zhang, Guangzeng Chen, Zhongren Cui et al. | [Abstract](https://arxiv.org/abs/2507.03227) · [PDF](https://arxiv.org/pdf/2507.03227) |
+| 2025-05-27 | Multi-Embodiment Robotic Retargeting via Guided Diffusion Model | Zhefeng Cao, Ben Liu, Shunpeng Yang, Sen Li et al. | [Abstract](https://arxiv.org/abs/2505.20857) · [PDF](https://arxiv.org/pdf/2505.20857) |
 | 2025-05-19 | Disentangling Coordiante Frames for Task Specific Motion Retargeting in Teleoperation using Shared Control and VR Controllers | Max Grobbel, Daniel Flögel, Philipp Rigoll, Sören Hohmann | [Abstract](https://arxiv.org/abs/2505.13054) · [PDF](https://arxiv.org/pdf/2505.13054) |
+| 2025-05-06 | PyRoki: A Modular Toolkit for Robot Kinematic Optimization | Chung Min Kim, Brent Yi, Hongsuk Choi, Yi Ma et al. | [Abstract](https://arxiv.org/abs/2505.03728) · [PDF](https://arxiv.org/pdf/2505.03728) |
 | 2024-09-20 | Redefining Data Pairing for Motion Retargeting Leveraging a Human Body Prior | Xiyana Figuera, Soogeun Park, Hyemin Ahn | [Abstract](https://arxiv.org/abs/2409.13208) · [PDF](https://arxiv.org/pdf/2409.13208) |
 | 2024-06-02 | Unsupervised Neural Motion Retargeting for Humanoid Teleoperation | Satoshi Yagi, Mitsunori Tada, Eiji Uchibe, Suguru Kanoga et al. | [Abstract](https://arxiv.org/abs/2406.00727) · [PDF](https://arxiv.org/pdf/2406.00727) |
 | 2024-04-17 | Spatio-Temporal Motion Retargeting for Quadruped Robots | Taerim Yoon, Dongho Kang, Seungmin Kim, Jin Cheng et al. | [Abstract](https://arxiv.org/abs/2404.11557) · [PDF](https://arxiv.org/pdf/2404.11557) |
