@@ -137,10 +137,8 @@ class CatalogContractTests(unittest.TestCase):
     def test_detailed_root_readmes_cover_every_taxonomy_leaf(self) -> None:
         english = (ROOT / "README.md").read_text(encoding="utf-8")
         chinese = (ROOT / "README.zh-CN.md").read_text(encoding="utf-8")
-        self.assertIn('href="README.zh-CN.md"', english)
-        self.assertIn('href="README.md"', chinese)
-        self.assertIn('src="assets/research-map.svg"', english)
-        self.assertIn('src="assets/research-map.svg"', chinese)
+        self.assertIn("[简体中文](README.zh-CN.md)", english)
+        self.assertIn("[English](README.md)", chinese)
         self.assertIn("Seven-direction research map", english)
         self.assertIn("七方向三级研究地图", chinese)
 

@@ -1,20 +1,13 @@
-<div align="center">
-<h1>Embodied AI Paper Analysis</h1>
-<p><strong>Map the literature. Trace the evidence.</strong></p>
-<p>Bilingual, auditable literature infrastructure for Embodied AI researchers</p>
-<p><strong>English · <a href="README.zh-CN.md">简体中文</a></strong></p>
-</div>
+# Embodied AI Paper Analysis
 
-<p align="center"><img src="assets/research-map.svg" width="100%" alt="Two evidence layers connected to a seven-direction Embodied AI research map"></p>
+**English · [简体中文](README.zh-CN.md)**
 
 > An auditable research workbench for 3,724 five-year conference papers and 23,823 recent arXiv preprints, organized into 7 directions, 40 level-2 subfields, and 200 finest-grained paper catalogs.
 
-<p align="center">
-<a href="https://dld0621.github.io/Embodied-AI-Paper-Analysis/"><img src="https://img.shields.io/badge/Research_workbench-open-2563eb?style=flat-square" alt="Research workbench"></a>
-<a href="data/papers.json"><img src="https://img.shields.io/badge/Conference-3%2C724-111827?style=flat-square" alt="Conference papers"></a>
-<a href="data/arxiv_recent.json"><img src="https://img.shields.io/badge/arXiv-23%2C823-b31b1b?style=flat-square" alt="arXiv preprints"></a>
-<a href="papers/taxonomy/README.md"><img src="https://img.shields.io/badge/Taxonomy-7%E2%86%9240%E2%86%92200-0891b2?style=flat-square" alt="Three-level taxonomy"></a>
-</p>
+[![Workbench](https://img.shields.io/badge/Research_workbench-open-2563eb?style=flat-square)](https://dld0621.github.io/Embodied-AI-Paper-Analysis/)
+[![Conference](https://img.shields.io/badge/Conference-3%2C724-111827?style=flat-square)](data/papers.json)
+[![arXiv](https://img.shields.io/badge/arXiv-23%2C823-b31b1b?style=flat-square)](data/arxiv_recent.json)
+[![Taxonomy](https://img.shields.io/badge/Taxonomy-7%E2%86%9240%E2%86%92200-0891b2?style=flat-square)](papers/taxonomy/README.md)
 
 ## Start here
 
@@ -237,10 +230,6 @@ python scripts/render_catalog.py --check
 python scripts/check_local_links.py
 python -m unittest discover -s tests -v
 ```
-
-## Weekly automation
-
-[`.github/workflows/arxiv-weekly.yml`](.github/workflows/arxiv-weekly.yml) rebuilds the execution-date-driven three-year `cs.RO` window every Monday at 02:10 UTC. The harvester resumes from a page cache after rate limits, and writes to `main` only after the data audit, taxonomy check, generated-output check, link audit, unit tests, and `git diff --check` all pass. arXiv preprints remain separate from conference-acceptance provenance.
 
 ## Contributing and license
 

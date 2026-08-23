@@ -1,20 +1,13 @@
-<div align="center">
-<h1>Embodied AI Paper Analysis</h1>
-<p><strong>构建文献地图，追溯研究证据。</strong></p>
-<p>面向具身智能科研工作者的双语、可审计文献基础设施</p>
-<p><strong><a href="README.md">English</a> · 简体中文</strong></p>
-</div>
+# Embodied AI Paper Analysis · 具身智能论文研究地图
 
-<p align="center"><img src="assets/research-map.svg" width="100%" alt="具身智能双层证据与七方向研究地图"></p>
+**[English](README.md) · 简体中文**
 
 > 面向科研工作者的可审计论文工作台：3,724 篇近五年顶会论文、23,823 篇近三年 arXiv 预印本，按 7 个一级方向、40 个二级子领域和 200 个最细论文目录组织。
 
-<p align="center">
-<a href="https://dld0621.github.io/Embodied-AI-Paper-Analysis/?lang=zh"><img src="https://img.shields.io/badge/在线科研工作台-打开-2563eb?style=flat-square" alt="在线科研工作台"></a>
-<a href="data/papers.json"><img src="https://img.shields.io/badge/顶会论文-3%2C724-111827?style=flat-square" alt="顶会论文"></a>
-<a href="data/arxiv_recent.json"><img src="https://img.shields.io/badge/arXiv-23%2C823-b31b1b?style=flat-square" alt="arXiv 预印本"></a>
-<a href="papers/taxonomy/README.md"><img src="https://img.shields.io/badge/分类-7%E2%86%9240%E2%86%92200-0891b2?style=flat-square" alt="三级分类"></a>
-</p>
+[![在线工作台](https://img.shields.io/badge/在线科研工作台-打开-2563eb?style=flat-square)](https://dld0621.github.io/Embodied-AI-Paper-Analysis/?lang=zh)
+[![顶会论文](https://img.shields.io/badge/顶会论文-3%2C724-111827?style=flat-square)](data/papers.json)
+[![arXiv](https://img.shields.io/badge/arXiv-23%2C823-b31b1b?style=flat-square)](data/arxiv_recent.json)
+[![三级分类](https://img.shields.io/badge/分类-7%E2%86%9240%E2%86%92200-0891b2?style=flat-square)](papers/taxonomy/README.md)
 
 ## 快速入口
 
@@ -237,10 +230,6 @@ python scripts/render_catalog.py --check
 python scripts/check_local_links.py
 python -m unittest discover -s tests -v
 ```
-
-## 每周自动更新
-
-[`.github/workflows/arxiv-weekly.yml`](.github/workflows/arxiv-weekly.yml) 每周一 02:10 UTC（北京时间 10:10）重新采集截至执行日的滚动三年 `cs.RO` 窗口。同步器在限流后保留逐页缓存并恢复抓取；仅当数据审计、分类检查、生成一致性、链接检查、单元测试和 `git diff --check` 全部通过时才提交到 `main`。arXiv 预印本始终与顶会录用层分开。
 
 ## 贡献与许可
 
