@@ -253,6 +253,7 @@ def parse_entry(entry: ET.Element) -> dict[str, Any] | None:
         "arxiv_id": arxiv_id,
         "title": title,
         "authors": [author for author in authors if author],
+        "abstract": abstract,
         "published": published[:10],
         "year": int(published[:4]),
         "venue": "arXiv",
@@ -294,6 +295,7 @@ def load_cache() -> tuple[int, int, int, list[dict[str, Any]]]:
     except (json.JSONDecodeError, OSError):
         return 0, 0, 0, []
     if payload.get("version") != 2 or payload.get("query") != query_string():
+        CACHE_PATH.unlink(missing_ok=True)
         return 0, 0, 0, []
     records = payload.get("records")
     if not isinstance(records, list):
@@ -416,7 +418,8 @@ def build_payload(records: list[dict[str, Any]], candidate_count: int) -> dict[s
             "combined_unique_records": combined_unique_records,
             "classification": (
                 "Level 1 uses the title/abstract admission rules in "
-                "scripts/sync_arxiv_recent.py; levels 2 and 3 use scripts/taxonomy.py."
+                "scripts/sync_arxiv_recent.py. Levels 2 and 3 use the stored title, "
+                "topic, and abstract evidence in scripts/taxonomy.py."
             ),
             "taxonomy_version": taxonomy_metadata()["version"],
             "snapshot_date": END_DATE,

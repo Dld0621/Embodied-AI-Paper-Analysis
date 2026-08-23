@@ -47,6 +47,7 @@ jobs:
             arxiv-sync-${{ github.ref_name }}-
 
       - name: Refresh the rolling three-year cs.RO census
+        id: harvest
         shell: bash
         run: |
           for attempt in 1 2 3; do
@@ -57,6 +58,15 @@ jobs:
             sleep 180
           done
           exit 1
+
+      - name: Preserve the completed source snapshot
+        if: ${{ steps.harvest.outcome == 'success' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: arxiv-source-${{ github.run_id }}
+          path: data/arxiv_recent.json
+          retention-days: 2
+          compression-level: 9
 
       - name: Save an interrupted arXiv harvest
         if: ${{ always() && hashFiles('data/arxiv_recent.sync.tmp') != '' }}

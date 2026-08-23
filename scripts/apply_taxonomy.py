@@ -17,7 +17,7 @@ ARXIV_PATH = ROOT / "data" / "arxiv_recent.json"
 
 def annotate_records(records: list[dict]) -> None:
     for paper in records:
-        annotate_paper(paper)
+        annotate_paper(paper, paper.get("abstract", ""))
 
 
 def build_outputs() -> dict[Path, str]:
@@ -43,8 +43,8 @@ def build_outputs() -> dict[Path, str]:
     arxiv["source"]["taxonomy_version"] = metadata["version"]
     arxiv["source"]["classification"] = (
         "Level 1 uses the title/abstract admission rules in "
-        "scripts/sync_arxiv_recent.py. Levels 2 and 3 use scripts/taxonomy.py; "
-        "this frozen backfill uses stored title and topic evidence."
+        "scripts/sync_arxiv_recent.py. Levels 2 and 3 use the stored title, "
+        "topic, and abstract evidence in scripts/taxonomy.py."
     )
 
     return {

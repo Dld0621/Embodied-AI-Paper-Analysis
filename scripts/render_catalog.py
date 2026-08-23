@@ -990,6 +990,10 @@ def render_root_readme(catalog: dict, arxiv: dict, language: str) -> str:
             "python -m unittest discover -s tests -v",
             "```",
             "",
+            "## 每周自动更新",
+            "",
+            "[`.github/workflows/arxiv-weekly.yml`](.github/workflows/arxiv-weekly.yml) 每周一 02:10 UTC（北京时间 10:10）重新采集截至执行日的滚动三年 `cs.RO` 窗口。同步器在限流后保留逐页缓存并恢复抓取；仅当数据审计、分类检查、生成一致性、链接检查、单元测试和 `git diff --check` 全部通过时才提交到 `main`。arXiv 预印本始终与顶会录用层分开。",
+            "",
             "## 贡献与许可",
             "",
             "提交数据或分类改进前请阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。仓库自有内容采用 [CC BY-NC-SA 4.0](LICENSE)；论文版权归作者和出版方所有，本项目仅提供在线链接，不重新分发 PDF。",
@@ -1102,6 +1106,10 @@ def render_root_readme(catalog: dict, arxiv: dict, language: str) -> str:
             "python -m unittest discover -s tests -v",
             "```",
             "",
+            "## Weekly automation",
+            "",
+            "[`.github/workflows/arxiv-weekly.yml`](.github/workflows/arxiv-weekly.yml) rebuilds the execution-date-driven three-year `cs.RO` window every Monday at 02:10 UTC. The harvester resumes from a page cache after rate limits, and writes to `main` only after the data audit, taxonomy check, generated-output check, link audit, unit tests, and `git diff --check` all pass. arXiv preprints remain separate from conference-acceptance provenance.",
+            "",
             "## Contributing and license",
             "",
             "Read [CONTRIBUTING.md](CONTRIBUTING.md) before changing data or taxonomy rules. Repository-authored content uses [CC BY-NC-SA 4.0](LICENSE); paper copyrights remain with their authors and publishers, and this project links to papers without redistributing PDFs.",
@@ -1154,24 +1162,25 @@ def main() -> int:
     args = parser.parse_args()
     outputs = render_outputs()
     stale = [path for path, rendered in outputs.items() if not path.exists() or path.read_text(encoding="utf-8") != rendered]
-    expected_taxonomy = {
-        path for path in outputs if path.is_relative_to(TAXONOMY_DIR)
+    generated_roots = (TAXONOMY_DIR, ARXIV_DIR)
+    expected_generated = {
+        path
+        for path in outputs
+        if any(path.is_relative_to(root) for root in generated_roots)
     }
-    extra_taxonomy = (
-        [
-            path
-            for path in TAXONOMY_DIR.rglob("*.md")
-            if path not in expected_taxonomy
-        ]
-        if TAXONOMY_DIR.exists()
-        else []
-    )
+    extra_generated = [
+        path
+        for root in generated_roots
+        if root.exists()
+        for path in root.rglob("*.md")
+        if path not in expected_generated
+    ]
     if args.check:
-        if stale or extra_taxonomy:
+        if stale or extra_generated:
             print("Generated catalogs are stale:")
             for path in stale:
                 print(f"- {path.relative_to(ROOT)}")
-            for path in extra_taxonomy:
+            for path in extra_generated:
                 print(f"- unexpected {path.relative_to(ROOT)}")
             return 1
         print(f"Generated catalog is current ({len(outputs)} files).")
@@ -1179,7 +1188,7 @@ def main() -> int:
     for path, rendered in outputs.items():
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(rendered, encoding="utf-8", newline="\n")
-    for path in extra_taxonomy:
+    for path in extra_generated:
         path.unlink()
     for directory in sorted(
         (path for path in TAXONOMY_DIR.rglob("*") if path.is_dir()),

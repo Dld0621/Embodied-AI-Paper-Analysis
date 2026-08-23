@@ -414,7 +414,7 @@ def validate_arxiv(catalog: dict, arxiv: dict) -> tuple[list[str], dict[str, obj
     track_counts: Counter[str] = Counter()
     year_counts: Counter[int] = Counter()
     required = {
-        "arxiv_id", "title", "authors", "published", "year", "venue", "track",
+        "arxiv_id", "title", "authors", "abstract", "published", "year", "venue", "track",
         "topic", "paper_url", "pdf_url", "official_url", "source_type",
         "discovery_source", "primary_category", "subcategory", "specialty",
         "taxonomy_evidence",
@@ -440,6 +440,8 @@ def validate_arxiv(catalog: dict, arxiv: dict) -> tuple[list[str], dict[str, obj
             errors.append(f"{paper['title']}: preprint must be labeled arXiv")
         if not paper["authors"] or not all(isinstance(author, str) and author for author in paper["authors"]):
             errors.append(f"{paper['title']}: arXiv authors must be declared")
+        if not isinstance(paper["abstract"], str) or not paper["abstract"].strip():
+            errors.append(f"{paper['title']}: arXiv abstract must be declared")
         for field in ("paper_url", "pdf_url", "official_url"):
             parsed = urlparse(paper[field])
             if parsed.scheme != "https" or parsed.hostname != "arxiv.org":
