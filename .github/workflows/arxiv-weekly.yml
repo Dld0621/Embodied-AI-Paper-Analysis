@@ -1,15 +1,16 @@
-name: Refresh rolling arXiv catalog
+name: Refresh weekly conference and arXiv catalogs
 
 on:
   schedule:
-    - cron: "10 2 * * 1"
+    # 02:00 UTC is 10:00 Asia/Shanghai.
+    - cron: "0 2 * * 1"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: arxiv-weekly-main
+  group: paper-catalog-weekly-main
   cancel-in-progress: false
 
 jobs:
@@ -20,7 +21,7 @@ jobs:
       - name: Checkout target branch
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.ref_name }}
+          ref: main
           fetch-depth: 0
 
       - name: Setup Python
@@ -31,16 +32,28 @@ jobs:
       - name: Verify the checked-out branch tip
         shell: bash
         run: |
-          git fetch origin "${GITHUB_REF_NAME}"
-          test "$(git rev-parse HEAD)" = "$(git rev-parse "origin/${GITHUB_REF_NAME}")"
+          git fetch origin main
+          test "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)"
 
       - name: Restore an interrupted arXiv harvest
         uses: actions/cache/restore@v4
         with:
           path: data/arxiv_recent.sync.tmp
-          key: arxiv-sync-${{ github.ref_name }}-${{ github.run_id }}
+          key: arxiv-sync-main-${{ github.run_id }}
           restore-keys: |
-            arxiv-sync-${{ github.ref_name }}-
+            arxiv-sync-main-
+
+      - name: Refresh the rolling five-year conference census
+        shell: bash
+        run: |
+          for attempt in 1 2 3; do
+            if python scripts/sync_conference_census.py; then
+              exit 0
+            fi
+            echo "Conference harvest attempt ${attempt} failed; retrying in 60 seconds."
+            sleep 60
+          done
+          exit 1
 
       - name: Refresh the rolling three-year cs.RO census
         id: harvest
@@ -55,12 +68,14 @@ jobs:
           done
           exit 1
 
-      - name: Preserve the completed source snapshot
+      - name: Preserve the completed source snapshots
         if: ${{ steps.harvest.outcome == 'success' }}
         uses: actions/upload-artifact@v4
         with:
-          name: arxiv-source-${{ github.run_id }}
-          path: data/arxiv_recent.json
+          name: paper-sources-${{ github.run_id }}
+          path: |
+            data/papers.json
+            data/arxiv_recent.json
           retention-days: 2
           compression-level: 9
 
@@ -69,7 +84,7 @@ jobs:
         uses: actions/cache/save@v4
         with:
           path: data/arxiv_recent.sync.tmp
-          key: arxiv-sync-${{ github.ref_name }}-${{ github.run_id }}
+          key: arxiv-sync-main-${{ github.run_id }}
 
       - name: Rebuild generated catalogs
         run: python scripts/render_catalog.py
@@ -94,5 +109,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "chore: refresh rolling arXiv snapshot $(date -u +%F)"
-          git push origin "HEAD:${GITHUB_REF_NAME}"
+          git commit -m "chore: refresh weekly paper snapshots $(date -u +%F)"
+          git push origin HEAD:main

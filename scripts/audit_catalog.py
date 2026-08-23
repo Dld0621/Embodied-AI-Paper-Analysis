@@ -187,6 +187,14 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
         errors.append("schema_version must be 4")
     if not isinstance(start, int) or not isinstance(end, int) or start > end:
         errors.append("window must define a valid integer start/end")
+    elif end - start != 4:
+        errors.append("conference window must span exactly five calendar years")
+    try:
+        snapshot_date = date.fromisoformat(catalog["as_of"])
+        if snapshot_date.year != end:
+            errors.append("conference snapshot year must match the window end year")
+    except (KeyError, TypeError, ValueError):
+        errors.append("conference as_of must be a valid ISO date")
     if not isinstance(papers, list) or not papers:
         errors.append("papers must be a non-empty list")
         return errors, {}
@@ -196,6 +204,8 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
             errors.append(f"census missing metadata field {field}")
     if set(census.get("venue_discovery", {})) != set(venues):
         errors.append("census venue_discovery must cover every declared venue")
+    if census.get("snapshot_date") != catalog.get("as_of"):
+        errors.append("conference census snapshot date must match catalog as_of")
     if set(track_meta) != set(tracks):
         errors.append("track_meta must define every research track exactly once")
     for track in tracks:
@@ -268,7 +278,9 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
         if count > 1:
             errors.append(f"duplicate title: {title} ({count})")
 
-    missing_years = [year for year in range(start, end + 1) if year_counts[year] == 0]
+    # The current calendar year is an in-progress conference snapshot and may
+    # legitimately be empty before official programs are published.
+    missing_years = [year for year in range(start, end) if year_counts[year] == 0]
     if missing_years:
         errors.append(f"years without coverage: {missing_years}")
     missing_venues = [venue for venue in venues if venue_counts[venue] == 0]
@@ -286,13 +298,13 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
             errors.append(f"{venue}: classified records exceed query matches")
         if discovery["included_records"] != venue_counts[venue]:
             errors.append(f"{venue}: discovery ledger does not match final catalog count")
-    expected_years = set(range(start, end + 1))
+    expected_completed_years = set(range(start, end))
     for track in tracks:
         track_papers = [paper for paper in papers if paper.get("track") == track]
         track_years = {paper["year"] for paper in track_papers}
         track_venues = {paper["venue"] for paper in track_papers}
-        if track_years != expected_years:
-            errors.append(f"{track}: must cover every year from {start} through {end}")
+        if not expected_completed_years.issubset(track_years):
+            errors.append(f"{track}: must cover every completed year from {start} through {end - 1}")
         if len(track_venues) < 3:
             errors.append(f"{track}: must include papers from at least three major venues")
 

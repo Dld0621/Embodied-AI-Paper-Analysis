@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import argparse
 from collections import Counter
+from datetime import date
 import json
 import re
 import time
@@ -226,6 +227,7 @@ def build_catalog(catalog: dict[str, Any]) -> tuple[dict[str, Any], dict[str, in
     seeds = [
         paper for paper in catalog["papers"]
         if paper.get("discovery_source") != "Semantic Scholar bulk API"
+        and start <= paper["year"] <= end
     ]
     for paper in seeds:
         paper.setdefault("source_type", "official")
@@ -317,8 +319,16 @@ def build_catalog(catalog: dict[str, Any]) -> tuple[dict[str, Any], dict[str, in
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--check", action="store_true", help="build and compare without writing")
+    parser.add_argument(
+        "--as-of",
+        type=date.fromisoformat,
+        default=date.today(),
+        help="snapshot date in YYYY-MM-DD form (defaults to today)",
+    )
     args = parser.parse_args()
     original = json.loads(CATALOG_PATH.read_text(encoding="utf-8"))
+    original["as_of"] = args.as_of.isoformat()
+    original["window"] = {"start": args.as_of.year - 4, "end": args.as_of.year}
     catalog, stats = build_catalog(original)
     rendered = json.dumps(catalog, ensure_ascii=False, indent=2) + "\n"
     if args.check:

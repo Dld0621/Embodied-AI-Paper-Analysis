@@ -89,8 +89,20 @@ class CatalogContractTests(unittest.TestCase):
     def test_rolling_five_year_window(self) -> None:
         self.assertEqual(self.catalog["schema_version"], 4)
         self.assertEqual(self.arxiv["schema_version"], 2)
-        self.assertEqual(self.catalog["window"], {"start": 2022, "end": 2026})
-        self.assertEqual({paper["year"] for paper in self.papers}, set(range(2022, 2027)))
+        snapshot_year = date.fromisoformat(self.catalog["as_of"]).year
+        expected_window = {"start": snapshot_year - 4, "end": snapshot_year}
+        self.assertEqual(self.catalog["window"], expected_window)
+        observed_years = {paper["year"] for paper in self.papers}
+        full_window = set(range(expected_window["start"], expected_window["end"] + 1))
+        completed_years = set(range(expected_window["start"], expected_window["end"]))
+        self.assertTrue(completed_years.issubset(observed_years))
+        self.assertTrue(observed_years.issubset(full_window))
+
+    def test_weekly_workflow_refreshes_both_evidence_layers(self) -> None:
+        workflow = (ROOT / ".github" / "workflows" / "arxiv-weekly.yml").read_text(encoding="utf-8")
+        self.assertIn('cron: "0 2 * * 1"', workflow)
+        self.assertIn("python scripts/sync_conference_census.py", workflow)
+        self.assertIn("python scripts/sync_arxiv_recent.py", workflow)
 
     def test_every_venue_and_track_is_represented(self) -> None:
         self.assertEqual(
@@ -170,15 +182,18 @@ class CatalogContractTests(unittest.TestCase):
             self.assertFalse(paper["venue"].lower().startswith("arxiv"))
 
     def test_latest_year_uses_official_acceptance_sources(self) -> None:
+        latest_year = self.catalog["window"]["end"]
         for paper in self.papers:
-            if paper["year"] == 2026:
+            if paper["year"] == latest_year:
                 self.assertNotIn("arxiv.org", paper["official_url"])
 
-    def test_every_direction_spans_all_five_years(self) -> None:
-        expected = set(range(2022, 2027))
+    def test_every_direction_spans_all_completed_years(self) -> None:
+        start = self.catalog["window"]["start"]
+        end = self.catalog["window"]["end"]
+        expected = set(range(start, end))
         for track in self.catalog["tracks"]:
             years = {paper["year"] for paper in self.papers if paper["track"] == track}
-            self.assertEqual(years, expected, track)
+            self.assertTrue(expected.issubset(years), track)
 
     def test_every_direction_spans_multiple_major_venues(self) -> None:
         for track in self.catalog["tracks"]:
