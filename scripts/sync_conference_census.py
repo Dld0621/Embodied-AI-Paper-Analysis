@@ -303,7 +303,11 @@ def build_catalog(catalog: dict[str, Any]) -> tuple[dict[str, Any], dict[str, in
             "census": {
                 "discovery_source": "Semantic Scholar bulk search API",
                 "query": "robot",
-                "classification": "Level 1 uses the title/abstract admission rules in scripts/sync_conference_census.py; levels 2 and 3 use the stored title, topic, and abstract evidence in scripts/taxonomy.py.",
+                "classification": (
+                    "Level 1 is assigned by the conference admission rules in "
+                    "scripts/sync_conference_census.py. Levels 2 and 3 use the stored title, "
+                    "topic, and abstract evidence in scripts/taxonomy.py."
+                ),
                 "taxonomy_version": taxonomy_metadata()["version"],
                 "seed_policy": "Hand-verified records override discovered duplicates",
                 "snapshot_date": catalog["as_of"],
