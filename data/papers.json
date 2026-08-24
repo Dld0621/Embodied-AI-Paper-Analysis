@@ -52323,7 +52323,7 @@
   "census": {
     "discovery_source": "Semantic Scholar bulk search API",
     "query": "robot",
-    "classification": "Level 1 is assigned by the conference admission rules in scripts/sync_conference_census.py. Levels 2 and 3 use the weighted, deterministic title/topic taxonomy in scripts/taxonomy.py.",
+    "classification": "Level 1 is assigned by the conference admission rules in scripts/sync_conference_census.py. Levels 2 and 3 use the stored title, topic, and abstract evidence in scripts/taxonomy.py.",
     "taxonomy_version": 2,
     "seed_policy": "Hand-verified records override discovered duplicates",
     "snapshot_date": "2026-08-07",

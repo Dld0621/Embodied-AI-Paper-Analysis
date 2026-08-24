@@ -32,8 +32,8 @@ def build_outputs() -> dict[Path, str]:
     conference["census"]["taxonomy_version"] = metadata["version"]
     conference["census"]["classification"] = (
         "Level 1 is assigned by the conference admission rules in "
-        "scripts/sync_conference_census.py. Levels 2 and 3 use the weighted, "
-        "deterministic title/topic taxonomy in scripts/taxonomy.py."
+        "scripts/sync_conference_census.py. Levels 2 and 3 use the stored title, "
+        "topic, and abstract evidence in scripts/taxonomy.py."
     )
 
     annotate_records(arxiv["papers"])
