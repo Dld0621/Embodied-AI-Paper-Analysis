@@ -308,8 +308,10 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
         if len(track_venues) < 3:
             errors.append(f"{track}: must include papers from at least three major venues")
 
+    conference_window = f"{start}–{end}"
+    conference_count = f"{len(papers):,}"
     for relative, markers in {
-        "README.md": ("2022–2026", "3,724", "systematic conference census"),
+        "README.md": (conference_window, conference_count, "systematic conference census"),
         "index.html": (
             "data/papers.json",
             "direction-grid",
@@ -324,8 +326,8 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
             "share-view",
         ),
         "papers/README.md": (
-            "2022–2026",
-            "3,724 conference papers",
+            conference_window,
+            f"{conference_count} conference papers",
             "Direction coverage",
             "Three-level taxonomy",
         ),
