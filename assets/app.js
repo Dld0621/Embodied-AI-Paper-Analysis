@@ -1,10 +1,10 @@
 const I18N = {
   en: {
     skip: "Skip to research workbench", navWorkbench: "Workbench", navDirections: "Research map", navPolicy: "Method", readingList: "Reading list",
-    eyebrow: "Conference + arXiv census · updated 2026-08-23", heroLineOne: "Research the field.", heroLineTwo: "Not the feed.",
+    eyebrow: "Conference + arXiv census", heroLineOne: "Research the field.", heroLineTwo: "Not the feed.",
     heroLead: "A bilingual, source-aware workbench connecting a five-year top-conference census with a systematic three-year arXiv layer and an auditable three-level research taxonomy.",
     openWorkbench: "Open research workbench", browseMarkdown: "Browse Markdown index", heroNote: "Two explicit layers: formal conference provenance and recent arXiv preprints. Duplicate titles are resolved in the combined view, never used to imply acceptance.",
-    scope: "Research corpus", audited: "AUDITED", papers: "papers", researchRecords: "unique research records", conferencePapers: "conference papers", arxivPapers: "arXiv 2023–2026", arxivCandidates: "arXiv candidates audited", venues: "major venues", tracks: "research tracks", subfields: "level-2 subfields", specialties: "level-3 specialties", linked: "source linked",
+    scope: "Research corpus", audited: "AUDITED", papers: "papers", researchRecords: "unique research records", conferencePapers: "conference papers", arxivPapers: "recent arXiv", arxivCandidates: "arXiv candidates audited", venues: "major venues", tracks: "research tracks", subfields: "level-2 subfields", specialties: "level-3 specialties", linked: "source linked",
     workbenchKicker: "Research workbench", catalogTitle: "Move from a direction to its complete research layer.", catalogLead: "Enter any direction directly, switch between conference and arXiv evidence, save a reading list, and export the exact view you are using.",
     allPapers: "All papers", savedPapers: "Reading list", shareView: "Share view", filters: "Filters", reset: "Reset",
     corpus: "Research layer", combined: "Combined unique", conference: "Conference census", recentArxiv: "Recent arXiv", unique: "unique",
@@ -15,7 +15,7 @@ const I18N = {
     directionKicker: "Research map", directionTitle: "Seven directions. Forty subfields. Two hundred paper destinations.", directionLead: "Expand any level-2 subfield to inspect its level-3 specialties, then open the papers assigned to that exact taxonomy path.",
     pipeline: "Research pipeline", subfieldMap: "Level-2 → level-3 map", specialtyCount: "leaf catalogs", conferenceLayer: "Conference", arxivLayer: "arXiv 3 years", openConference: "Open conference papers", openArxiv: "Open recent arXiv",
     policyKicker: "Census contract", policyTitle: "Transparent enough to inspect. Stable enough to reproduce.", policyLead: "Completeness is measured against published operational boundaries—not an undefined claim to every paper anyone might call Embodied AI.", readMethod: "Read the full methodology",
-    policyOneTitle: "Two explicit windows", policyOneBody: "Conference years 2022–2026; arXiv submissions from 2023-08-23 through 2026-08-23.",
+    policyOneTitle: "Two explicit windows", policyOneBody: "A rolling five-year conference census and a rolling three-year arXiv window.",
     policyTwoTitle: "Reproducible discovery", policyTwoBody: "Ten conference indexes are paired with a complete arXiv cs.RO candidate harvest.",
     policyThreeTitle: "Deterministic classification", policyThreeBody: "Published rules assign one auditable direction → subfield → specialty path; unsupported fine-grained claims remain General / Cross-cutting.",
     policyFourTitle: "Separated provenance", policyFourBody: "Official, publisher, index, and arXiv records remain visibly distinct; preprints are never presented as acceptances.",
@@ -24,7 +24,7 @@ const I18N = {
   },
   zh: {
     skip: "跳转到科研工作台", navWorkbench: "科研工作台", navDirections: "研究地图", navPolicy: "方法", readingList: "阅读清单",
-    eyebrow: "顶会 + arXiv 系统普查 · 更新于 2026-08-23", heroLineOne: "研究整个领域。", heroLineTwo: "不被信息流裹挟。",
+    eyebrow: "顶会 + arXiv 系统普查", heroLineOne: "研究整个领域。", heroLineTwo: "不被信息流裹挟。",
     heroLead: "面向科研工作者的双语、来源透明工作台，连接近五年顶会普查、近三年 arXiv 论文层与可审计的三级研究分类。",
     openWorkbench: "进入科研工作台", browseMarkdown: "浏览 Markdown 索引", heroNote: "顶会录用来源与 arXiv 预印本严格分层；合并视图按标题去重，不会把预印本重复误写成录用证据。",
     scope: "科研语料库", audited: "已审计", papers: "篇论文", researchRecords: "条去重研究记录", conferencePapers: "篇顶会论文", arxivPapers: "篇 arXiv 近三年论文", arxivCandidates: "条 arXiv 候选已审计", venues: "个主要顶会", tracks: "条一级方向", subfields: "个二级子领域", specialties: "个三级专题", linked: "来源已链接",
@@ -38,7 +38,7 @@ const I18N = {
     directionKicker: "研究地图", directionTitle: "七个一级方向，四十个二级子领域，两百个论文落点。", directionLead: "展开任一二级子领域即可查看三级专题，并直接打开精确归入该路径的论文。",
     pipeline: "研究流程", subfieldMap: "二级 → 三级分类图", specialtyCount: "个最细目录", conferenceLayer: "顶会", arxivLayer: "arXiv 近三年", openConference: "打开顶会论文", openArxiv: "打开近三年 arXiv",
     policyKicker: "普查契约", policyTitle: "足够透明以供审查，足够稳定以便复现。", policyLead: "完整性以公开的操作性边界衡量，而不是声称覆盖所有人可能称为具身智能的论文。", readMethod: "阅读完整方法",
-    policyOneTitle: "两个明确窗口", policyOneBody: "顶会年份为 2022–2026；arXiv 原始提交日期为 2023-08-23 至 2026-08-23。",
+    policyOneTitle: "两个明确窗口", policyOneBody: "滚动五年顶会普查，以及滚动三年 arXiv 日期窗口。",
     policyTwoTitle: "可复现发现", policyTwoBody: "十个固定顶会索引与 arXiv cs.RO 全部候选收集并行维护。",
     policyThreeTitle: "确定性分类", policyThreeBody: "公开规则为每篇论文分配“方向 → 子领域 → 专题”路径；证据不足时诚实保留为“综合与交叉研究”。",
     policyFourTitle: "来源严格分层", policyFourBody: "官方、出版社、文献索引与 arXiv 始终分别显示；预印本不会被包装成顶会录用。",
@@ -102,6 +102,18 @@ function sourceName(sourceType) {
   return label("official");
 }
 
+function refreshSnapshotLabels() {
+  const conferenceWindow = `${state.catalog.window.start}–${state.catalog.window.end}`;
+  const arxivWindow = `${state.arxivCatalog.window.start}–${state.arxivCatalog.window.end}`;
+  const updated = [state.catalog.as_of, state.arxivCatalog.as_of].sort().at(-1);
+  I18N.en.eyebrow = `Conference + arXiv census · updated ${updated}`;
+  I18N.zh.eyebrow = `顶会 + arXiv 系统普查 · 更新于 ${updated}`;
+  I18N.en.arxivPapers = `arXiv ${arxivWindow}`;
+  I18N.zh.arxivPapers = `篇 arXiv · ${arxivWindow}`;
+  I18N.en.policyOneBody = `Conference years ${conferenceWindow}; arXiv submissions from ${state.arxivCatalog.window.start} through ${state.arxivCatalog.window.end}.`;
+  I18N.zh.policyOneBody = `顶会年份为 ${conferenceWindow}；arXiv 原始提交日期为 ${state.arxivCatalog.window.start} 至 ${state.arxivCatalog.window.end}。`;
+}
+
 function taxonomyHref(paper, depth = 3) {
   const params = new URLSearchParams({ corpus: paper.corpus, track: paper.track, lang: state.language });
   if (depth >= 2) params.set("subcategory", paper.subcategory);
@@ -151,6 +163,7 @@ function renderStats() {
   $("#paper-count").textContent = number(state.papers.length);
   $("#conference-count").textContent = number(state.conferencePapers.length);
   $("#arxiv-count").textContent = number(state.arxivPapers.length);
+  $("#arxiv-candidate-count").textContent = number(state.arxivCatalog.source.candidate_records);
   $("#venue-count").textContent = number(state.catalog.venues.length);
   $("#track-count").textContent = number(state.catalog.tracks.length);
   $("#subcategory-count").textContent = number(state.catalog.taxonomy.subcategory_count);
@@ -183,7 +196,7 @@ function renderDirections() {
       <div class="direction-card-top"><span>0${index + 1}</span><div class="year-coverage">${years.map((year) => `<i class="${paperYears.has(year) ? "covered" : ""}">${year}</i>`).join("")}</div></div>
       <h3>${escapeHtml(trackName(track))}</h3>
       <p>${escapeHtml(question)}</p>
-      <div class="direction-layer-stats"><span>${label("conferenceLayer")}<strong>${number(conferencePapers.length)}</strong><small>2022–2026</small></span><span>${label("arxivLayer")}<strong>${number(arxivPapers.length)}</strong><small>2023–2026</small></span></div>
+      <div class="direction-layer-stats"><span>${label("conferenceLayer")}<strong>${number(conferencePapers.length)}</strong><small>${state.catalog.window.start}–${state.catalog.window.end}</small></span><span>${label("arxivLayer")}<strong>${number(arxivPapers.length)}</strong><small>${state.arxivCatalog.window.years.at(0)}–${state.arxivCatalog.window.years.at(-1)}</small></span></div>
       <div class="pipeline"><span>${label("pipeline")}</span><ol>${stages.map((stage) => `<li>${escapeHtml(stage)}</li>`).join("")}</ol></div>
       <div class="direction-subfields"><span>${label("subfieldMap")}</span><div>${subcategories.map((subcategory) => {
         const subfieldPapers = combined.filter((paper) => paper.subcategory === subcategory);
@@ -457,6 +470,7 @@ async function initialize() {
     state.conferencePapers = state.catalog.papers.map((paper) => ({ ...paper, corpus: "conference" }));
     state.arxivPapers = state.arxivCatalog.papers.map((paper) => ({ ...paper, corpus: "arxiv" }));
     state.papers = combinedUniquePapers();
+    refreshSnapshotLabels();
     readUrlState();
     applyLanguage();
   } catch (error) {
