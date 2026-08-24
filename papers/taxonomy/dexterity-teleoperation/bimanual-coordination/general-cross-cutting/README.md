@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Bimanual%20Coordination&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 19 conference papers · 49 recent arXiv papers
+> 13 conference papers · 49 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,29 +14,23 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (19)
+## Conference papers (13)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | Spatial-Temporal Graph Diffusion Policy with Kinematic Modeling for Bimanual Robotic Manipulation | CVPR · Bimanual | [Paper](https://figshare.com/articles/conference_contribution/Spatial-Temporal_Graph_Diffusion_Policy_with_Kinematic_Modeling_for_Bimanual_Robotic_Manipulation/30268675) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01621) |
 | 2025 | 2HandedAfforder: Learning Precise Actionable Bimanual Affordances from Human Videos | ICCV · Bimanual | [Paper](https://arxiv.org/pdf/2503.09320) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01368) |
-| 2025 | Rethinking Bimanual Robotic Manipulation: Learning with Decoupled Interaction Framework | ICCV · Bimanual | [Paper](https://arxiv.org/pdf/2503.09186) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01155) |
-| 2025 | BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly | ICML · Bimanual | [Paper](https://arxiv.org/abs/2506.06221) · [Publisher](https://doi.org/10.48550/arXiv.2506.06221) |
 | 2025 | Active Vision Might Be All You Need: Exploring Active Vision in Bimanual Robotic Manipulation | ICRA · Bimanual | [Paper](https://arxiv.org/abs/2409.17435) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128253) |
 | 2025 | Force-Conditioned Diffusion Policies for Compliant Sheet Separation Tasks in Bimanual Robotic Cells | ICRA · Bimanual | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127816) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127816) |
-| 2025 | Bimanual Robot-Assisted Dressing: A Spherical Coordinate-Based Strategy for Tight-Fitting Garments | IROS · Bimanual | [Paper](https://arxiv.org/abs/2508.12274) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246012) |
 | 2025 | GeT-USE: Learning Generalized Tool Usage for Bimanual Mobile Manipulation via Simulated Embodiment Extensions | IROS · Bimanual | [Paper](https://arxiv.org/abs/2510.25754) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245978) |
 | 2025 | Imitation-Guided Bimanual Planning for Stable Manipulation under Changing External Forces | IROS · Bimanual | [Paper](https://arxiv.org/abs/2509.19261) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246712) |
 | 2025 | Integrating Ergonomics and Manipulability for Upper Limb Postural Optimization in Bimanual Human-Robot Collaboration | IROS · Bimanual | [Paper](https://arxiv.org/abs/2511.04009) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246359) |
 | 2024 | Bimanual Dexterity for Complex Tasks | CoRL · Bimanual | [Paper](https://arxiv.org/abs/2411.13677) · [Publisher](https://doi.org/10.48550/arXiv.2411.13677) |
 | 2024 | Mobile ALOHA: Learning Bimanual Mobile Manipulation using Low-Cost Whole-Body Teleoperation | CoRL · Bimanual | [Paper](https://www.semanticscholar.org/paper/8918ed27489ab267be3ee75573540dce4476b981) · [Index](https://dblp.org/rec/conf/corl/FuZF24) |
 | 2024 | Constrained Bimanual Planning with Analytic Inverse Kinematics | ICRA · Bimanual | [Paper](https://arxiv.org/abs/2309.08770) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610675) |
-| 2024 | Learning Symbolic and Subsymbolic Temporal Task Constraints from Bimanual Human Demonstrations | IROS · Bimanual | [Paper](https://arxiv.org/abs/2403.16953) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802525) |
 | 2024 | Real-time Coordinated Motion Generation: A Hierarchical Deep Predictive Learning Model for Bimanual Tasks | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS58592.2024.10801317) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801317) |
 | 2024 | Simulation-Assisted Learning for Efficient Bin-Packing of Deformable Packages in a Bimanual Robotic Cell | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS58592.2024.10802246) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802246) |
-| 2024 | ScrewMimic: Bimanual Imitation from Human Videos with Screw Space Projection | RSS · Bimanual | [Paper](https://arxiv.org/abs/2405.03666) · [Publisher](https://doi.org/10.48550/arXiv.2405.03666) |
 | 2022 | Learning Bimanual Scooping Policies for Food Acquisition | CoRL · Bimanual | [Paper](https://arxiv.org/abs/2211.14652) · [Publisher](https://doi.org/10.48550/arXiv.2211.14652) |
-| 2022 | Learning Temporal Task Models from Human Bimanual Demonstrations | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS47612.2022.9981068) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981068) |
 
 ## Recent arXiv papers (49)
 

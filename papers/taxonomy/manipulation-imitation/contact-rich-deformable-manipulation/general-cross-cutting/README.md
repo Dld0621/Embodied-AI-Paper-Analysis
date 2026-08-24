@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Contact-rich%20%26%20Deformable%20Manipulation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 34 conference papers · 158 recent arXiv papers
+> 19 conference papers · 158 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,44 +14,29 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (34)
+## Conference papers (19)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | Geometry-aware RL for Manipulation of Varying Shapes and Deformable Objects | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2502.07005) · [Publisher](https://doi.org/10.48550/arXiv.2502.07005) |
 | 2025 | ForceMimic: Force-Centric Imitation Learning with Force-Motion Capture System for Contact-Rich Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2410.07554) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128061) |
 | 2025 | Hierarchical Contact-Rich Trajectory Optimization for Multi-Modal Manipulation Using Tight Convex Relaxations | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2503.07963) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127667) |
 | 2025 | Is Linear Feedback on Smoothed Dynamics Sufficient for Stabilizing Contact-Rich Plans? | ICRA · Contact Rich | [Paper](https://arxiv.org/abs/2411.06542) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127776) |
-| 2025 | LEMMo-Plan: LLM-Enhanced Learning from Multi-Modal Demonstration for Planning Sequential Contact-Rich Manipulation Tasks | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2409.11863) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127842) |
-| 2025 | PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-Rich Manipulation Using Tactile-Diffusion Policies | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2504.19341) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128816) |
 | 2025 | Shape-Space Deformer: Unified Visuo-Tactile Representations for Robotic Manipulation of Deformable Objects | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2409.12419) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127499) |
+| 2025 | Force Aware Branch Manipulation To Assist Agricultural Tasks | IROS · Manipulation | [Paper](https://arxiv.org/abs/2503.07497) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246611) |
+| 2025 | Occupancy-belief Planning of Plant Manipulation for Staking | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11245961) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245961) |
+| 2025 | OpAC: An Optimization-Augmented Control Framework for Single and Coordinated Multi-Arm Robotic Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/abs/2506.16555) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247324) |
 | 2025 | Optimization Based Human-Guided Variable-Stiffness Visual Impedance Control for Contact-Rich Tasks | IROS · Contact Rich | [Paper](https://doi.org/10.1109/IROS60139.2025.11247255) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247255) |
-| 2025 | VibeCheck: Using Active Acoustic Tactile Sensing for Contact-Rich Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/abs/2504.15535) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246133) |
-| 2025 | Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections | NeurIPS · Manipulation | [Paper](https://arxiv.org/abs/2506.16685) · [Publisher](https://doi.org/10.48550/arXiv.2506.16685) |
-| 2025 | ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation | NeurIPS · Manipulation | [Paper](https://arxiv.org/abs/2505.22159) · [Publisher](https://doi.org/10.48550/arXiv.2505.22159) |
-| 2024 | MimicTouch: Leveraging Multi-modal Human Tactile Demonstrations for Contact-rich Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2310.16917) · [Index](https://dblp.org/rec/conf/corl/YuHWSX024) |
 | 2024 | DoughNet: A Visual Predictive Model for Topological Manipulation of Deformable Objects | ECCV · Manipulation | [Paper](https://arxiv.org/abs/2404.12524) · [Publisher](https://doi.org/10.48550/arXiv.2404.12524) |
 | 2024 | DIFFTACTILE: A Physics-based Differentiable Tactile Simulator for Contact-rich Robotic Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2403.08716) · [Publisher](https://doi.org/10.48550/arXiv.2403.08716) |
-| 2024 | Collaborative Manipulation of Deformable Objects with Predictive Obstacle Avoidance | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2401.16560) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10609995) |
 | 2024 | Hearing Touch: Audio-Visual Pretraining for Contact-Rich Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2405.08576) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611305) |
+| 2024 | Towards Robotic Tree Manipulation: Leveraging Graph Representations | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2311.07479) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611327) |
 | 2024 | A Contact Model based on Denoising Diffusion to Learn Variable Impedance Control for Contact-rich Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/abs/2403.13221) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801976) |
 | 2024 | Combining Sampling- and Gradient-based Planning for Contact-rich Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2310.04822) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802369) |
-| 2024 | GenCHiP: Generating Robot Policy Code for High-Precision and Contact-Rich Manipulation Tasks | IROS · Manipulation | [Paper](https://arxiv.org/abs/2404.06645) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801525) |
-| 2024 | Harnessing with Twisting: Single-Arm Deformable Linear Object Manipulation for Industrial Harnessing Task | IROS · Manipulation | [Paper](https://arxiv.org/abs/2410.10729) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802801) |
 | 2024 | Learning-based Adaptive Admittance Controller for Efficient and Safe pHRI in Contact-rich Manufacturing Tasks | IROS · Contact Rich | [Paper](https://doi.org/10.1109/IROS58592.2024.10802530) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802530) |
-| 2024 | RTTF: Rapid Tactile Transfer Framework for Contact-Rich Manipulation Tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801764) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801764) |
-| 2024 | Towards Tight Convex Relaxations for Contact-Rich Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2402.10312) · [Publisher](https://doi.org/10.48550/arXiv.2402.10312) |
-| 2023 | Autonomous Manipulation Learning for Similar Deformable Objects via Only One Demonstration | CVPR · Manipulation | [Paper](https://doi.org/10.1109/CVPR52729.2023.01637) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.01637) |
+| 2024 | CraterGrader: Autonomous Robotic Terrain Manipulation for Lunar Site Preparation and Earthmoving | RSS · Manipulation | [Paper](https://arxiv.org/abs/2311.01697) · [Publisher](https://doi.org/10.48550/arXiv.2311.01697) |
 | 2023 | CALAMARI: Contact-Aware and Language conditioned spatial Action MApping for contact-RIch manipulation | CoRL · Manipulation | [Paper](https://www.semanticscholar.org/paper/75b86a1f6e9b740adc26f1404af52a538b7dd72a) · [Index](https://dblp.org/rec/conf/corl/WiMFZF23) |
-| 2023 | Efficient Sim-to-real Transfer of Contact-Rich Manipulation Skills with Online Admittance Residual Learning | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2310.10509) · [Publisher](https://doi.org/10.48550/arXiv.2310.10509) |
-| 2023 | Learning Tool Morphology for Contact-Rich Manipulation Tasks with Differentiable Simulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2211.02201) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161453) |
-| 2022 | Learning Preconditions of Hybrid Force-Velocity Controllers for Contact-Rich Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2206.12728) · [Publisher](https://doi.org/10.48550/arXiv.2206.12728) |
-| 2022 | Manipulation via Membranes: High-Resolution and Highly Deformable Tactile Sensing and Control | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2209.13432) · [Publisher](https://doi.org/10.48550/arXiv.2209.13432) |
-| 2022 | Symbolic State Estimation with Predicates for Contact-Rich Manipulation Tasks | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2203.02468) · [Publisher](https://doi.org/10.48550/arXiv.2203.02468) |
-| 2022 | A Contact-Safe Reinforcement Learning Framework for Contact-Rich Robot Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2207.13438) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981185) |
-| 2022 | A System for Imitation Learning of Contact-Rich Bimanual Manipulation Policies | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2208.00596) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981802) |
+| 2023 | Demonstrating Large-Scale Package Manipulation via Learned Metrics of Pick Success | RSS · Manipulation | [Paper](https://doi.org/10.15607/rss.2023.xix.023) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.023) |
 | 2022 | Simultaneous Contact-Rich Grasping and Locomotion via Distributed Optimization Enabling Free-Climbing for Multi-Limbed Robots | IROS · Grasp | [Paper](https://arxiv.org/pdf/2207.01418) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981579) |
-| 2022 | Slip Anticipation for Grasping Deformable Objects Using a Soft Force Sensor | IROS · Grasp | [Paper](https://infoscience.epfl.ch/handle/20.500.14299/192207) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981174) |
 
 ## Recent arXiv papers (158)
 

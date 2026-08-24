@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Balance%2C%20Dynamics%20%26%20Recovery&specialty=Dynamics%2C%20MPC%20%26%20Whole-body%20Optimization#research-workbench)
 
-> 5 conference papers · 52 recent arXiv papers
+> 13 conference papers · 52 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,15 +14,23 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (5)
+## Conference papers (13)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2409.15610) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127320) |
 | 2025 | Kinodynamic Model Predictive Control for Energy Efficient Locomotion of Legged Robots with Parallel Elasticity | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2503.05666) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128416) |
+| 2025 | Online Nonlinear MPC for Multimodal Locomotion | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127343) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127343) |
+| 2025 | Enhancing the Flexibility of a Quadruped Robot with a 2-DOF Active Spine Using Nonlinear Model Predictive Control | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS60139.2025.11246577) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246577) |
+| 2025 | Optimal Trajectory Planning in a Vertically Undulating Snake Locomotion using Contact-implicit Optimization | IROS · Locomotion | [Paper](https://arxiv.org/abs/2508.02953) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247246) |
 | 2025 | Thruster-Enhanced Locomotion: A Decoupled Model Predictive Control with Learned Contact Residuals | IROS · Locomotion | [Paper](https://arxiv.org/abs/2508.03003) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247214) |
 | 2024 | Adaptive Model Predictive Control with Data-driven Error Model for Quadrupedal Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2407.10124) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611302) |
 | 2024 | Robustifying Model-Based Locomotion by Zero-order Stochastic Nonlinear Model Predictive Control with Guard Saltation Matrix | IROS · Locomotion | [Paper](https://arxiv.org/abs/2403.14159) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801470) |
+| 2023 | Dynamic Locomotion of a Quadruped Robot with Active Spine via Model Predictive Control | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160896) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160896) |
+| 2023 | Enhanced Balance for Legged Robots Using Reaction Wheels | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160833) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160833) |
 | 2022 | A Linearization of Centroidal Dynamics for the Model-Predictive Control of Quadruped Robots | ICRA · Quadruped | [Paper](https://doi.org/10.1109/icra46639.2022.9812433) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812433) |
+| 2022 | Convex Model Predictive Control of Single Rigid Body Model on SO(3) for Versatile Dynamic Legged Motions | ICRA · Legged | [Paper](https://doi.org/10.1109/icra46639.2022.9811926) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811926) |
+| 2022 | Online Non-linear Centroidal MPC for Humanoid Robot Locomotion with Step Adjustment | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2203.04489) · [Publisher](https://doi.org/10.48550/arXiv.2203.04489) |
 
 ## Recent arXiv papers (52)
 

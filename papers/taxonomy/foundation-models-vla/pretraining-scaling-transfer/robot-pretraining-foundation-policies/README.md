@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Pretraining%2C%20Scaling%20%26%20Transfer&specialty=Robot%20Pretraining%20%26%20Foundation%20Policies#research-workbench)
 
-> 3 conference papers · 59 recent arXiv papers
+> 6 conference papers · 59 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,11 +14,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (3)
+## Conference papers (6)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | DiffusionVLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression | ICML · Vla | [Paper](https://www.semanticscholar.org/paper/f0d17501c051e4c7220affd296a307763741bada) · [Index](https://dblp.org/rec/conf/icml/WenZZTLZL0PF25) |
+| 2025 | PAC Bench: Do Foundation Models Understand Prerequisites for Executing Manipulation Policies? | NeurIPS · Foundation Model | [Paper](https://arxiv.org/abs/2506.23725) · [Publisher](https://doi.org/10.48550/arXiv.2506.23725) |
+| 2024 | Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance | CoRL · Foundation Model | [Paper](https://arxiv.org/abs/2410.13816) · [Publisher](https://doi.org/10.48550/arXiv.2410.13816) |
+| 2024 | Adapt2Reward: Adapting Video-Language Models to Generalizable Robotic Rewards via Failure Prompts | ECCV · Language Model | [Paper](https://arxiv.org/abs/2407.14872) · [Publisher](https://doi.org/10.48550/arXiv.2407.14872) |
 | 2024 | Octo: An Open-Source Generalist Robot Policy | RSS · Generalist robot policy | [Paper](https://arxiv.org/abs/2405.12213) · [Official](https://doi.org/10.15607/RSS.2024.XX.090) · [Code](https://github.com/octo-models/octo) |
 | 2023 | RT-1: Robotics Transformer for Real-World Control at Scale | RSS · Generalist robot policy | [Paper](https://arxiv.org/abs/2212.06817) · [Official](https://roboticsproceedings.org/rss19/p025.html) |
 

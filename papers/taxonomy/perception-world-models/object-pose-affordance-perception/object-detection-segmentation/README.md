@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Object%2C%20Pose%20%26%20Affordance%20Perception&specialty=Object%20Detection%20%26%20Segmentation#research-workbench)
 
-> 0 conference papers · 256 recent arXiv papers
+> 1 conference papers · 256 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,14 +14,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (0)
+## Conference papers (1)
 
-No conference papers currently map to this specialty.
+| Year | Paper | Venue / topic | Online links |
+|---:|---|---|---|
+| 2024 | Making the Flow Glow – Robot Perception under Severe Lighting Conditions using Normalizing Flow Gradients | IROS · Robot Perception | [Paper](https://arxiv.org/abs/2412.07565) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801601) |
 
 ## Recent arXiv papers (256)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-21 | Multi-Modal Traffic Sign Detection with Semantic Attributes for Autonomous Driving | Meda Lazar, Sourab Sridhar, Shashwata Gupta, Alexandra Tripcea et al. | [Abstract](https://arxiv.org/abs/2608.20874) · [PDF](https://arxiv.org/pdf/2608.20874) |
 | 2026-08-09 | Anchor-Based AI Approach for Pre-Crash Object Detection Utilizing Micro-Doppler Signatures in Automotive Radar | Patrick Zaumseil, Rainer Engert, Dagmar Steinhauser, Jonathan Wache et al. | [Abstract](https://arxiv.org/abs/2608.08701) · [PDF](https://arxiv.org/pdf/2608.08701) |
 | 2026-08-06 | Shape-Aware Oriented Bounding Box (OBB) to Horizontal Bounding Box (HBB) Conversion | Badha Rathna Sabhapathy, Gotam Dahiya, Vishesh Vatsal | [Abstract](https://arxiv.org/abs/2608.05858) · [PDF](https://arxiv.org/pdf/2608.05858) |
 | 2026-08-05 | From Transparent Labware Segmentation to Collision Avoidance: A Real-Time Edge-Aware Perception Pipeline | Shijun Ding, Chen Qian, Weiwei Shang, Junlin Xiong | [Abstract](https://arxiv.org/abs/2608.04769) · [PDF](https://arxiv.org/pdf/2608.04769) |
@@ -277,7 +280,6 @@ No conference papers currently map to this specialty.
 | 2023-09-02 | S$^3$-MonoDETR: Supervised Shape&Scale-perceptive Deformable Transformer for Monocular 3D Object Detection | Xuan He, Jin Yuan, Kailun Yang, Zhenchao Zeng et al. | [Abstract](https://arxiv.org/abs/2309.00928) · [PDF](https://arxiv.org/pdf/2309.00928) |
 | 2023-08-25 | SVQNet: Sparse Voxel-Adjacent Query Network for 4D Spatio-Temporal LiDAR Semantic Segmentation | Xuechao Chen, Shuangjie Xu, Xiaoyi Zou, Tongyi Cao et al. | [Abstract](https://arxiv.org/abs/2308.13323) · [PDF](https://arxiv.org/pdf/2308.13323) |
 | 2023-08-24 | On Offline Evaluation of 3D Object Detection for Autonomous Driving | Tim Schreier, Katrin Renz, Andreas Geiger, Kashyap Chitta | [Abstract](https://arxiv.org/abs/2308.12779) · [PDF](https://arxiv.org/pdf/2308.12779) |
-| 2023-08-23 | Multi-object Detection, Tracking and Prediction in Rugged Dynamic Environments | Shixing Huang, Zhihao Wang, Junyuan Ouyang, Haoyao Chen | [Abstract](https://arxiv.org/abs/2308.11870) · [PDF](https://arxiv.org/pdf/2308.11870) |
 
 ---
 

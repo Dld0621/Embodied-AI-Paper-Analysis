@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Multi-agent%20%26%20Social%20Navigation&specialty=Swarm%20Navigation%20%26%20Formation#research-workbench)
 
-> 3 conference papers · 44 recent arXiv papers
+> 4 conference papers · 44 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (3)
+## Conference papers (4)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2024 | Fast and Communication-Efficient Multi-UAV Exploration Via Voronoi Partition on Dynamic Topological Graph | IROS · Exploration | [Paper](https://arxiv.org/abs/2408.05808) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801613) |
 | 2024 | Highly Efficient Observation Process Based on FFT Filtering for Robot Swarm Collaborative Navigation in Unknown Environments* | IROS · Navigation | [Paper](https://arxiv.org/abs/2405.07687) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801770) |
 | 2024 | Robot Swarm Control Based on Smoothed Particle Hydrodynamics for Obstacle-Unaware Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2404.16309) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801800) |
 | 2022 | Barrier Function-based Safe Reinforcement Learning for Formation Control of Mobile Robots | ICRA · Mobile Robot | [Paper](https://repository.tudelft.nl/islandora/object/uuid%3Af4e1f94d-0ec8-4f4a-82be-07b1cd2385e2/datastream/OBJ/download) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811604) |

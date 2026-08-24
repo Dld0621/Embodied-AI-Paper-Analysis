@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Imitation%20%26%20Demonstration%20Learning&specialty=Learning%20from%20Demonstration#research-workbench)
 
-> 2 conference papers · 127 recent arXiv papers
+> 18 conference papers · 127 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,12 +14,28 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (2)
+## Conference papers (18)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation | CVPR · Manipulation | [Paper](https://arxiv.org/abs/2406.14235) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02100) |
+| 2025 | Chain-of-Modality: Learning Manipulation Programs from Multimodal Human Videos with Vision-Language-Models | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2504.13351) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128270) |
+| 2025 | Enhanced View Planning for Robotic Harvesting: Tackling Occlusions with Imitation Learning | ICRA · Imitation Learning | [Paper](https://research.rug.nl/en/publications/60b6d600-ec48-4bd3-b8b1-80bf93c88a17) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127892) |
+| 2025 | KALM: Keypoint Abstraction Using Large Models for Object-Relative Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2410.23254) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128681) |
+| 2024 | Flow as the Cross-Domain Manipulation Interface | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2407.15208) · [Publisher](https://doi.org/10.48550/arXiv.2407.15208) |
+| 2024 | Hierarchical Human-to-Robot Imitation Learning for Long-Horizon Tasks via Cross-Domain Skill Alignment | ICRA · Imitation Learning | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610084) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610084) |
 | 2024 | Enabling Maintainablity of Robot Programs in Assembly by Extracting Compositions of Force- and Position-Based Robot Skills from Learning-from-Demonstration Models | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS58592.2024.10802802) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802802) |
+| 2024 | JUICER: Data-Efficient Imitation Learning for Robotic Assembly | IROS · Assembly | [Paper](https://arxiv.org/pdf/2404.03729) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802498) |
+| 2024 | Self Supervised Detection of Incorrect Human Demonstrations: A Path Toward Safe Imitation Learning by Robots in the Wild | IROS · Imitation Learning | [Paper](https://doi.org/10.1109/IROS58592.2024.10802106) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802106) |
+| 2024 | Visual Imitation Learning of Task-Oriented Object Grasping and Rearrangement | IROS · Grasp | [Paper](https://arxiv.org/pdf/2403.14000) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801466) |
+| 2023 | Learning Robot Manipulation from Cross-Morphology Demonstration | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2304.03833) · [Index](https://dblp.org/rec/conf/corl/SalhotraLS23) |
 | 2023 | Model-based Adversarial Imitation Learning from Demonstrations and Human Reward | IROS · Imitation Learning | [Paper](https://doi.org/10.1109/IROS55552.2023.10341411) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341411) |
+| 2023 | Using Single Demonstrations to Define Autonomous Manipulation Contact Tasks in Unstructured Environments via Object Affordances | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342493) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342493) |
+| 2022 | Disturbance-injected Robust Imitation Learning with Task Achievement | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2205.04195) · [Publisher](https://doi.org/10.48550/arXiv.2205.04195) |
+| 2022 | Interactive Human-in-the-loop Coordination of Manipulation Skills Learned from Demonstration | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2203.00210) · [Publisher](https://doi.org/10.48550/arXiv.2203.00210) |
+| 2022 | Optimizing Demonstrated Robot Manipulation Skills for Temporal Logic Constraints | IROS · Manipulation | [Paper](https://iris.uniroma1.it/bitstream/11573/1708191/2/Dhonthi_preprint_Optimizing_2022.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981384) |
+| 2022 | Understanding Acoustic Patterns of Human Teachers Demonstrating Manipulation Tasks to Robots | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2211.00352) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981053) |
+| 2022 | Use of Action Label in Deep Predictive Learning for Robot Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982091) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982091) |
 
 ## Recent arXiv papers (127)
 

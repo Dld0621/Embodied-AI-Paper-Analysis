@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 81 conference papers · 1,016 recent arXiv papers
+> 71 conference papers · 1,016 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,7 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (81)
+## Conference papers (71)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -33,21 +33,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Robotic Colonoscopy: Can High Fidelity Simulation Optimize Robot Design and Validation? | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128805) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128805) |
 | 2025 | Robotic Space Simulator: Controls Implementation for Auxiliary Axes and Zero-G Dynamics | ICRA · Simulator | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128455) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128455) |
 | 2025 | The Radiance of Neural Fields: Democratizing Photorealistic and Dynamic Robotic Simulation | ICRA · Simulation | [Paper](https://arxiv.org/abs/2411.16940) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128250) |
-| 2025 | Accurate Simulation and Parameter Identification of Deformable Linear Objects using Discrete Elastic Rods in Generalized Coordinates | IROS · Simulation | [Paper](https://arxiv.org/abs/2310.00911) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247160) |
 | 2025 | Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning | IROS · Simulation | [Paper](https://arxiv.org/abs/2503.23835) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246513) |
-| 2025 | DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments | IROS · Simulation | [Paper](https://arxiv.org/abs/2507.21981) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247559) |
 | 2025 | Eagle-Scale Flapping-Wing Robot with Aggressive Roll Maneuverability: Bio-Inspired Actuation, Fluid-Structure Interaction Simulation and Flight Experiment | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11247591) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247591) |
 | 2025 | Exploring Stiffness Gradient Effects in Magnetically Induced Metamorphic Materials via Continuum Simulation and Validation | IROS · Simulation | [Paper](https://arxiv.org/abs/2508.01810) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246208) |
 | 2025 | GRIP: A General Robotic Incremental Potential Contact Simulation Dataset for Unified Deformable-Rigid Coupled Grasping | IROS · Simulation | [Paper](https://arxiv.org/abs/2503.05020) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247903) |
 | 2025 | Online Iterative Learning with Forward Simulation for Sub-minimum End-effector Displacement Positioning | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11247711) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247711) |
-| 2025 | SimLauncher: Launching Sample-Efficient Real-World Robotic Reinforcement Learning via Simulation Pre-Training | IROS · Simulation | [Paper](https://arxiv.org/abs/2507.04452) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246668) |
-| 2024 | Evaluating Real-World Robot Manipulation Policies in Simulation | CoRL · Simulation | [Paper](https://arxiv.org/abs/2405.05941) · [Publisher](https://doi.org/10.48550/arXiv.2405.05941) |
 | 2024 | FetchBench: A Simulation Benchmark for Robot Fetching | CoRL · Simulation | [Paper](https://arxiv.org/abs/2406.11793) · [Publisher](https://doi.org/10.48550/arXiv.2406.11793) |
 | 2024 | ScissorBot: Learning Generalizable Scissor Skill for Paper Cutting via Simulation, Imitation, and Sim2Real | CoRL · Simulation | [Paper](https://arxiv.org/abs/2409.13966) · [Publisher](https://doi.org/10.48550/arXiv.2409.13966) |
 | 2024 | SoftManiSim: A Fast Simulation Framework for Multi-Segment Continuum Manipulators Tailored for Robot Learning | CoRL · Simulation | [Paper](https://www.semanticscholar.org/paper/3f67bc1b1479b983fd0a4e9588276331a90fd3de) · [Index](https://dblp.org/rec/conf/corl/Kasaei0K24) |
 | 2024 | Position: Scaling Simulation is Neither Necessary Nor Sufficient for In-the-Wild Robot Manipulation | ICML · Simulation | [Paper](https://www.semanticscholar.org/paper/3b0e5fc30fdd112c7084d2642234bfaea8ae5b95) · [Index](https://dblp.org/rec/conf/icml/Bharadhwaj24) |
 | 2024 | RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation | ICML · Simulation | [Paper](https://arxiv.org/abs/2311.01455) · [Publisher](https://doi.org/10.48550/arXiv.2311.01455) |
-| 2024 | Augmenting Tactile Simulators with Real-like and Zero-Shot Capabilities | ICRA · Simulator | [Paper](https://arxiv.org/abs/2309.10409) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610442) |
 | 2024 | Close the Sim2real Gap via Physically-based Structured Light Synthetic Data Simulation | ICRA · Simulation | [Paper](https://arxiv.org/abs/2407.12449) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611401) |
 | 2024 | Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models | ICRA · Simulation | [Paper](https://arxiv.org/abs/2310.18308) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610566) |
 | 2024 | Improving Offline Reinforcement Learning with Inaccurate Simulators | ICRA · Simulator | [Paper](https://arxiv.org/abs/2405.04307) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610833) |
@@ -57,16 +52,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | SliceIt! - A Dual Simulator Framework for Learning Robot Food Slicing | ICRA · Simulator | [Paper](https://arxiv.org/abs/2404.02569) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611596) |
 | 2024 | STARK: A Unified Framework for Strongly Coupled Simulation of Rigid and Deformable Bodies with Frictional Contact | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610574) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610574) |
 | 2024 | Construction of Musculoskeletal Simulation for Shoulder Complex with Ligaments and Its Validation via Model Predictive Control | IROS · Simulation | [Paper](https://arxiv.org/abs/2410.05931) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802465) |
-| 2024 | Immersive Human-in-the-Loop Control: Real-Time 3D Surface Meshing and Physics Simulation | IROS · Simulation | [Paper](https://arxiv.org/abs/2412.13752) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802748) |
 | 2024 | Leveraging Simulation-Based Model Preconditions for Fast Action Parameter Optimization with Multiple Models | IROS · Simulation | [Paper](https://arxiv.org/pdf/2403.11313) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801532) |
-| 2024 | SoftMAC: Differentiable Soft Body Simulation with Forecast-based Contact Model and Two-way Coupling with Articulated Rigid Bodies and Clothes | IROS · Simulation | [Paper](https://arxiv.org/abs/2312.03297) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801308) |
 | 2024 | Zero-Shot Transfer of a Tactile-based Continuous Force Control Policy from Simulation to Robot | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802386) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802386) |
 | 2024 | GarmentLab: A Unified Simulation and Benchmark for Garment Manipulation | NeurIPS · Simulation | [Paper](https://arxiv.org/abs/2411.01200) · [Publisher](https://doi.org/10.48550/arXiv.2411.01200) |
-| 2024 | From Compliant to Rigid Contact Simulation: a Unified and Efficient Approach | RSS · Simulation | [Paper](https://arxiv.org/abs/2405.17020) · [Publisher](https://doi.org/10.48550/arXiv.2405.17020) |
 | 2024 | URDFormer: A Pipeline for Constructing Articulated Simulation Environments from Real-World Images | RSS · Simulation | [Paper](https://arxiv.org/abs/2405.11656) · [Publisher](https://doi.org/10.48550/arXiv.2405.11656) |
 | 2023 | SCALE: Causal Learning and Discovery of Robot Manipulation Skills using Simulation | CoRL · Simulation | [Paper](https://www.semanticscholar.org/paper/94281b197c56d3f2bd5be885dc76e6fd17d3d54f) · [Index](https://dblp.org/rec/conf/corl/LeeVGK23) |
 | 2023 | BITS: Bi-level Imitation for Traffic Simulation | ICRA · Simulation | [Paper](https://arxiv.org/abs/2208.12403) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161167) |
-| 2023 | DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation | ICRA · Simulation | [Paper](https://arxiv.org/abs/2210.02697) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160982) |
 | 2023 | From Concept to Field Tests: Accelerated Development of Multi-AUV Missions Using a High-Fidelity Faster-than-Real-Time Simulator | ICRA · Simulator | [Paper](https://arxiv.org/pdf/2311.10377) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160447) |
 | 2023 | Hardware-in-the-Loop Simulator with Low-Thrust Actuator for Free-Flying Robot's Omni-Directional Control | ICRA · Simulator | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161499) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161499) |
 | 2023 | Hazard Analysis of Collaborative Automation Systems: A Two-layer Approach based on Supervisory Control and Simulation | ICRA · Simulation | [Paper](https://arxiv.org/abs/2209.12560) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161338) |
@@ -90,9 +81,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | FishGym: A High-Performance Physics-based Simulation Framework for Underwater Robot Learning | ICRA · Simulation | [Paper](https://arxiv.org/abs/2206.01683) · [Publisher](https://doi.org/10.48550/arXiv.2206.01683) |
 | 2022 | HandoverSim: A Simulation Framework and Benchmark for Human-to-Robot Object Handovers | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2205.09747) · [Publisher](https://doi.org/10.48550/arXiv.2205.09747) |
 | 2022 | HoloOcean: An Underwater Robotics Simulator | ICRA · Simulator | [Paper](https://doi.org/10.1109/icra46639.2022.9812353) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812353) |
-| 2022 | Scalable Simulation and Demonstration of Jumping Piezoelectric 2-D Soft Robots | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2202.13521) · [Publisher](https://doi.org/10.1109/ICRA46639.2022.9811927) |
 | 2022 | Simulation and Fabrication of Soft Robots with Embedded Skeletons | ICRA · Simulation | [Paper](https://doi.org/10.1109/icra46639.2022.9811844) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811844) |
-| 2022 | Collision-Aware Fast Simulation for Soft Robots by Optimization-Based Geometric Computing | IROS · Simulation | [Paper](https://repository.tudelft.nl/islandora/object/uuid%3Ab26686ea-717d-4686-b2b1-0b233d369bfc/datastream/OBJ/download) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981870) |
+| 2022 | Collision-Aware Fast Simulation for Soft Robots by Optimization-Based Geometric Computing | IROS · Simulation | [Paper](https://arxiv.org/abs/2203.02054) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981870) |
 | 2022 | HoloOcean: Realistic Sonar Simulation | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981119) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981119) |
 | 2022 | Learning physics-informed simulation models for soft robotic manipulation: A case study with dielectric elastomer actuators | IROS · Simulation | [Paper](https://biblio.ugent.be/publication/8770984/file/8770988.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981373) |
 | 2022 | Parallel Monte Carlo Tree Search with Batched Rigid-body Simulations for Speeding up Long-Horizon Episodic Robot Planning | IROS · Simulation | [Paper](https://arxiv.org/abs/2207.06649) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981962) |
@@ -104,6 +94,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-21 | Scalable Distributed Simulation-Based Testing for Automated Driving Systems | Christian Geller, Benedikt Haas, Lutz Eckstein | [Abstract](https://arxiv.org/abs/2608.20904) · [PDF](https://arxiv.org/pdf/2608.20904) |
+| 2026-08-21 | NeSAM: Neuro-Symbolic Kinodynamics with Soil Adaptation for Off-Road Mobility | Chenhui Pan, Tong Xu, Francesco Cancelliere, Xuesu Xiao | [Abstract](https://arxiv.org/abs/2608.21330) · [PDF](https://arxiv.org/pdf/2608.21330) |
 | 2026-08-19 | Learning the Right Abstraction: Neural Reduced Dynamics for Complex Robot Control | Harry Zhang, Dan Negrut | [Abstract](https://arxiv.org/abs/2608.19375) · [PDF](https://arxiv.org/pdf/2608.19375) |
 | 2026-08-17 | Lambda-Hold Control: Human-Like Movement Emerges from a Minimal Task Reward in Predictive Musculoskeletal Simulation | Jun Hyuk Lee, Chihyeong Lee, Jooeun Ahn | [Abstract](https://arxiv.org/abs/2608.17030) · [PDF](https://arxiv.org/pdf/2608.17030) |
 | 2026-08-16 | Tactile Sim2Real without Tactile Simulation via Bottlenecked Latent Reconstruction | Fan Yang, Youngsun Wi, Jinhao Yu, Nima Fazeli et al. | [Abstract](https://arxiv.org/abs/2608.15897) · [PDF](https://arxiv.org/pdf/2608.15897) |
@@ -1118,8 +1110,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-08-30 | High Performance Networking Layer for Simulation Applications | Amir Mohammad Zarif Shahsavan Nejad, Amir Mahdi Zarif Shahsavan Nejad, Amirali Setayeshi, Soroush Sadeghnejad | [Abstract](https://arxiv.org/abs/2308.15950) · [PDF](https://arxiv.org/pdf/2308.15950) |
 | 2023-08-29 | R^3: On-device Real-Time Deep Reinforcement Learning for Autonomous Robotics | Zexin Li, Aritra Samanta, Yufei Li, Andrea Soltoggio et al. | [Abstract](https://arxiv.org/abs/2308.15039) · [PDF](https://arxiv.org/pdf/2308.15039) |
 | 2023-08-24 | Reinforcement Learning Informed Evolutionary Search for Autonomous Systems Testing | Dmytro Humeniuk, Foutse Khomh, Giuliano Antoniol | [Abstract](https://arxiv.org/abs/2308.12762) · [PDF](https://arxiv.org/pdf/2308.12762) |
-| 2023-08-23 | Towards Safe Autonomy in Hybrid Traffic: Detecting Unpredictable Abnormal Behaviors of Human Drivers via Information Sharing | Jiangwei Wang, Lili Su, Songyang Han, Dongjin Song et al. | [Abstract](https://arxiv.org/abs/2309.16716) · [PDF](https://arxiv.org/pdf/2309.16716) |
-| 2023-08-23 | Advance Simulation Method for Wheel-Terrain Interactions of Space Rovers: A Case Study on the UAE Rashid Rover | Ahmad Abubakar, Ruqqayya Alhammadi, Yahya Zweiri, Lakmal Seneviratne | [Abstract](https://arxiv.org/abs/2308.12431) · [PDF](https://arxiv.org/pdf/2308.12431) |
 
 ---
 

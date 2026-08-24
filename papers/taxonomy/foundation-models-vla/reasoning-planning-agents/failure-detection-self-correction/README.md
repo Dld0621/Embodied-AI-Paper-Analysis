@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=Failure%20Detection%20%26%20Self-correction#research-workbench)
 
-> 1 conference papers · 67 recent arXiv papers
+> 3 conference papers · 67 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,11 +14,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (1)
+## Conference papers (3)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | L3M+P: Lifelong Planning with Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2508.01917) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247529) |
 | 2025 | VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots | IROS · Llm | [Paper](https://arxiv.org/abs/2507.05118) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246320) |
+| 2024 | CoPAL: Corrective Planning of Robot Actions with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2310.07263) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610434) |
 
 ## Recent arXiv papers (67)
 

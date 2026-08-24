@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Humanoid%20Whole-body%20Control&specialty=Humanoid%20Loco-manipulation#research-workbench)
 
-> 22 conference papers · 155 recent arXiv papers
+> 24 conference papers · 155 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,7 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (22)
+## Conference papers (24)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -26,6 +26,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Efficient Learning of A Unified Policy For Whole-body Manipulation and Locomotion Skills | IROS · Locomotion | [Paper](https://arxiv.org/abs/2507.04229) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246644) |
 | 2025 | Env-Mani: Quadrupedal Robot Loco-Manipulation with Environment-in-the-Loop | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS60139.2025.11246108) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246108) |
 | 2025 | Generalizable Humanoid Manipulation with 3D Diffusion Policies | IROS · Humanoid | [Paper](https://arxiv.org/abs/2410.10803) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246340) |
+| 2025 | Learning Accurate Whole-body Throwing with High-frequency Residual Policy and Pullback Tube Acceleration | IROS · Whole Body | [Paper](https://arxiv.org/abs/2506.16986) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246279) |
 | 2025 | Preferenced Oracle Guided Multi-mode Policies for Dynamic Bipedal Loco-Manipulation | IROS · Biped | [Paper](https://arxiv.org/abs/2410.01030) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246602) |
 | 2025 | Vision-Guided Loco-Manipulation with a Snake Robot | IROS · Loco Manipulation | [Paper](https://arxiv.org/abs/2503.18308) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247207) |
 | 2024 | Guided Reinforcement Learning for Robust Multi-Contact Loco-Manipulation | CoRL · Loco Manipulation | [Paper](https://arxiv.org/abs/2410.13817) · [Publisher](https://doi.org/10.48550/arXiv.2410.13817) |
@@ -37,6 +38,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Learning Visual Quadrupedal Loco-Manipulation from Demonstrations | IROS · Quadruped | [Paper](https://arxiv.org/abs/2403.20328) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802742) |
 | 2024 | Loco-Manipulation with Nonimpulsive Contact-Implicit Planning in a Slithering Robot | IROS · Loco Manipulation | [Paper](https://arxiv.org/abs/2404.08174) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802450) |
 | 2024 | Physically Consistent Online Inertial Adaptation for Humanoid Loco-manipulation | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2405.07901) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802012) |
+| 2024 | HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation | RSS · Humanoid | [Paper](https://arxiv.org/abs/2403.10506) · [Publisher](https://doi.org/10.48550/arXiv.2403.10506) |
 | 2023 | Contact Optimization for Non-Prehensile Loco-Manipulation via Hierarchical Model Predictive Control | ICRA · Loco Manipulation | [Paper](https://arxiv.org/pdf/2210.03442) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160507) |
 | 2023 | Hierarchical Adaptive Loco-manipulation Control for Quadruped Robots | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2209.13145) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160523) |
 | 2023 | Centralized Model Predictive Control for Collaborative Loco-Manipulation | RSS · Loco Manipulation | [Paper](https://doi.org/10.15607/rss.2023.xix.050) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.050) |

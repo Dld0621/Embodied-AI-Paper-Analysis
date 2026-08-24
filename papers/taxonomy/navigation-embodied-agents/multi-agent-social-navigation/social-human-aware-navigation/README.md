@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Multi-agent%20%26%20Social%20Navigation&specialty=Social%20%26%20Human-aware%20Navigation#research-workbench)
 
-> 8 conference papers · 37 recent arXiv papers
+> 9 conference papers · 37 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,18 +14,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (8)
+## Conference papers (9)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | CrowdSurfer: Sampling Optimization Augmented with Vector-Quantized Variational AutoEncoder for Dense Crowd Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.16011) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128132) |
 | 2025 | PathCluster: Pedestrian Group-Adaptive Social Navigation in Dense Crowds | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246339) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246339) |
-| 2024 | Hyp2Nav: Hyperbolic Planning and Curiosity for Crowd Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2407.13567) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801513) |
+| 2024 | Hyp2Nav: Hyperbolic Planning and Curiosity for Crowd Navigation | IROS · Navigation | [Paper](https://pure.uva.nl/ws/files/235395532/Hyp2Nav.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801513) |
 | 2023 | Intention Aware Robot Crowd Navigation with Attention-Based Interaction Graph | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2203.01821) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160660) |
 | 2023 | Occlusion-Aware Crowd Navigation Using People as Sensors | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2210.00552) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160715) |
 | 2023 | Human-Aware Navigation in Crowded Environments Using Adaptive Proxemic Area and Group Detection | IROS · Navigation | [Paper](https://idus.us.es/handle//11441/155219) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342385) |
 | 2023 | SiT Dataset: Socially Interactive Pedestrian Trajectory Dataset for Social Navigation Robots | NeurIPS · Navigation | [Paper](https://doi.org/10.52202/075280-1067) · [Publisher](https://doi.org/10.52202/075280-1067) |
-| 2022 | Pedestrian-Robot Interactions on Autonomous Crowd Navigation: Reactive Control Methods and Evaluation Metrics | IROS · Navigation | [Paper](https://infoscience.epfl.ch/record/295707/files/Reactive%20navigation%20on%20crowds%20Qolo%20Evaluation%20-%20Accepted_version.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981705) |
+| 2022 | Learning Crowd-Aware Robot Navigation from Challenging Environments via Distributed Deep Reinforcement Learning | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9812011) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812011) |
+| 2022 | Pedestrian-Robot Interactions on Autonomous Crowd Navigation: Reactive Control Methods and Evaluation Metrics | IROS · Navigation | [Paper](https://github.com/epfl-lasa/crowdbot-evaluation-tools) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981705) |
 
 ## Recent arXiv papers (37)
 

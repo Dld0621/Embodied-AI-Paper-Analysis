@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Hardware%20%26%20Morphology&specialty=Morphology%20%26%20Co-design#research-workbench)
 
-> 2 conference papers · 26 recent arXiv papers
+> 3 conference papers · 26 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,11 +14,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (2)
+## Conference papers (3)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | SRL-Gym: A Morphology and Controller Co-Optimization Framework for Supernumerary Robotic Limbs in Load-Bearing Locomotion | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128597) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128597) |
+| 2024 | From CAD to URDF: Co-Design of a Jet-Powered Humanoid Robot Including CAD Geometry | IROS · Humanoid | [Paper](https://arxiv.org/abs/2410.07963) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802023) |
 | 2023 | SoftZoo: A Soft Robot Co-design Benchmark For Locomotion In Diverse Environments | ICLR · Locomotion | [Paper](https://arxiv.org/abs/2303.09555) · [Publisher](https://doi.org/10.48550/arXiv.2303.09555) |
 
 ## Recent arXiv papers (26)

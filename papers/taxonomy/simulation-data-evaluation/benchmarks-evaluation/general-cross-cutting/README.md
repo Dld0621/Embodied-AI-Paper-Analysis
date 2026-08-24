@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Evaluation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 28 conference papers · 121 recent arXiv papers
+> 22 conference papers · 121 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,7 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (28)
+## Conference papers (22)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -24,26 +24,20 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | RAGNet: Large-Scale Reasoning-Based Affordance Segmentation Benchmark Towards General Grasping | ICCV · Benchmark | [Paper](https://arxiv.org/pdf/2507.23734) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01114) |
 | 2025 | OoDIS: Anomaly Instance Segmentation and Detection Benchmark | ICRA · Benchmark | [Paper](https://arxiv.org/abs/2406.11835) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128111) |
 | 2025 | Benchmark for Evaluating Long-Term Localization in Indoor Environments under Substantial Static and Dynamic Scene Changes | IROS · Benchmark | [Paper](https://doi.org/10.1109/IROS60139.2025.11246416) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246416) |
-| 2025 | FLAME: A Federated Learning Benchmark for Robotic Manipulation | IROS · Benchmark | [Paper](https://arxiv.org/abs/2503.01729) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245937) |
 | 2025 | Robotic Grasping for Automated Sorting of Complex, Highly Contaminated Industrial Food Waste: A Benchmark Study | IROS · Benchmark | [Paper](https://doi.org/10.1109/IROS60139.2025.11246594) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246594) |
-| 2025 | RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2506.06677) · [Publisher](https://doi.org/10.48550/arXiv.2506.06677) |
 | 2024 | BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark | CoRL · Benchmark | [Paper](https://arxiv.org/abs/2407.07788) · [Publisher](https://doi.org/10.48550/arXiv.2407.07788) |
 | 2024 | Eureka: Human-Level Reward Design via Coding Large Language Models | ICLR · Reward generation | [Paper](https://arxiv.org/abs/2310.12931) · [Official](https://openreview.net/forum?id=IEduRUO55F) · [Code](https://github.com/eureka-research/Eureka) |
 | 2024 | ManiSkill-HAB: A Benchmark for Low-Level Manipulation in Home Rearrangement Tasks | ICLR · Benchmark | [Paper](https://arxiv.org/abs/2412.13211) · [Publisher](https://doi.org/10.48550/arXiv.2412.13211) |
 | 2024 | CoBRA: A Composable Benchmark for Robotics Applications | ICRA · Benchmark | [Paper](https://mediatum.ub.tum.de/1745610) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610776) |
 | 2024 | Toward Self-Righting and Recovery in the Wild: Challenges and Benchmarks | ICRA · Benchmark | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611544) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611544) |
 | 2024 | VBR: A Vision Benchmark in Rome | ICRA · Benchmark | [Paper](https://arxiv.org/abs/2404.11322) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611395) |
-| 2024 | The Design of the Barkour Benchmark for Robot Agility | IROS · Benchmark | [Paper](https://doi.org/10.1109/IROS58592.2024.10801377) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801377) |
-| 2024 | THE COLOSSEUM: A Benchmark for Evaluating Generalization for Robotic Manipulation | RSS · Benchmark | [Paper](https://arxiv.org/abs/2402.08191) · [Publisher](https://doi.org/10.48550/arXiv.2402.08191) |
 | 2023 | ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills | ICLR · Manipulation benchmark | [Paper](https://arxiv.org/abs/2302.04659) · [Official](https://openreview.net/forum?id=b_CQDy9vrD1) · [Code](https://github.com/haosulab/ManiSkill) |
-| 2023 | A Benchmark for Multi-Robot Planning in Realistic, Complex and Cluttered Environments | ICRA · Benchmark | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161005) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161005) |
 | 2023 | Household Clothing Set and Benchmarks for Characterising End-Effector Cloth Manipulation | ICRA · Benchmark | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161398) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161398) |
 | 2023 | Parameter Optimization for Manipulator Motion Planning using a Novel Benchmark Set | ICRA · Benchmark | [Paper](https://arxiv.org/pdf/2302.14422) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160694) |
 | 2023 | Train Offline, Test Online: A Real Robot Learning Benchmark | ICRA · Benchmark | [Paper](https://arxiv.org/pdf/2306.00942) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160594) |
 | 2023 | FurnitureBench: Reproducible real-world benchmark for long-horizon complex manipulation | RSS · Benchmark | [Paper](https://arxiv.org/abs/2305.12821) · [Publisher](https://doi.org/10.1177/02783649241304789) |
 | 2022 | BEHAVIOR-1K: A Benchmark for Embodied AI with 1,000 Everyday Activities and Realistic Simulation | CoRL · Household benchmark | [Paper](https://proceedings.mlr.press/v205/li23a.html) · [Official](https://proceedings.mlr.press/v205/li23a.html) · [Code](https://github.com/StanfordVL/OmniGibson) |
 | 2022 | Fast and Optimal Trajectory Planning for Multiple Vehicles in a Nonconvex and Cluttered Environment: Benchmarks, Methodology, and Experiments | ICRA · Benchmark | [Paper](https://doi.org/10.1109/icra46639.2022.9812126) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812126) |
-| 2022 | DGBench: An Open-Source, Reproducible Benchmark for Dynamic Grasping | IROS · Benchmark | [Paper](https://arxiv.org/pdf/2204.13879) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981670) |
 | 2022 | Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2201.09863) · [Index](https://dblp.org/rec/conf/nips/BhatiaJTXM21) |
 | 2022 | VLMbench: A Compositional Benchmark for Vision-and-Language Manipulation | NeurIPS · Language manipulation benchmark | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/04543a88eae2683133c1acbef5a6bf77-Abstract-Datasets_and_Benchmarks.html) · [Official](https://proceedings.neurips.cc/paper_files/paper/2022/hash/04543a88eae2683133c1acbef5a6bf77-Abstract-Datasets_and_Benchmarks.html) |
 

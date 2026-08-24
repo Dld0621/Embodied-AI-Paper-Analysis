@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Motion%20Imitation%20%26%20Generation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 0 conference papers · 30 recent arXiv papers
+> 1 conference papers · 30 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,9 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (0)
+## Conference papers (1)
 
-No conference papers currently map to this specialty.
+| Year | Paper | Venue / topic | Online links |
+|---:|---|---|---|
+| 2025 | LocoVR: Multiuser Indoor Locomotion Dataset in Virtual Reality | ICLR · Locomotion | [Paper](https://arxiv.org/abs/2410.06437) · [Publisher](https://doi.org/10.48550/arXiv.2410.06437) |
 
 ## Recent arXiv papers (30)
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Visual%20%26%20Language%20Navigation&specialty=Image-goal%2C%20Point-goal%20%26%20Retrieval%20Navigation#research-workbench)
 
-> 4 conference papers · 29 recent arXiv papers
+> 8 conference papers · 29 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,13 +14,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (4)
+## Conference papers (8)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | IGL-Nav: Incremental 3D Gaussian Localization for Image-Goal Navigation | ICCV · Navigation | [Paper](https://arxiv.org/pdf/2508.00823) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00640) |
 | 2025 | BEINGS: Bayesian Embodied Image-Goal Navigation With Gaussian Splatting | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.10216) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127919) |
+| 2025 | GSplatVNM: Point-of-View Synthesis for Visual Navigation Models Using Gaussian Splatting | IROS · Navigation | [Paper](https://arxiv.org/abs/2503.05152) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246997) |
 | 2024 | RGBD-based Image Goal Navigation with Pose Drift: A Topo-metric Graph based Approach | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610727) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610727) |
+| 2024 | SCALE: Self-Correcting Visual Navigation for Mobile Robots via Anti-Novelty Estimation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2404.10675) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610847) |
+| 2024 | Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation | IROS · Navigation | [Paper](https://arxiv.org/abs/2411.03487) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801778) |
+| 2023 | Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation | ICCV · Navigation | [Paper](https://arxiv.org/abs/2308.10306) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.01009) |
 | 2022 | Topological Semantic Graph Memory for Image-Goal Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2209.08274) · [Publisher](https://doi.org/10.48550/arXiv.2209.08274) |
 
 ## Recent arXiv papers (29)

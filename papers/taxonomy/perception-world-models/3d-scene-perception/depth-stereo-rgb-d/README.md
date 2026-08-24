@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=Depth%2C%20Stereo%20%26%20RGB-D#research-workbench)
 
-> 1 conference papers · 111 recent arXiv papers
+> 4 conference papers · 111 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,11 +14,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (1)
+## Conference papers (4)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | 3D Vision-tactile Reconstruction from Infrared and Visible Images for Robotic Fine-grained Tactile Perception | IROS · Tactile | [Paper](https://arxiv.org/abs/2506.15087) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246893) |
 | 2024 | GelRoller: A Rolling Vision-based Tactile Sensor for Large Surface Reconstruction Using Self-Supervised Photometric Stereo Method | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610417) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610417) |
+| 2024 | CompdVision: Combining Near-Field 3D Visual and Tactile Sensing Using a Compact Compound-Eye Imaging System | IROS · Tactile | [Paper](https://arxiv.org/abs/2312.07146) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801461) |
+| 2022 | f-Cal: Aleatoric uncertainty quantification for robot perception via calibrated neural regression | ICRA · Robot Perception | [Paper](https://doi.org/10.1109/icra46639.2022.9811903) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811903) |
 
 ## Recent arXiv papers (111)
 

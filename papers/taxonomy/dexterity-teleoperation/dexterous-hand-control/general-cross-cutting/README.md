@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Dexterous%20Hand%20Control&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 107 conference papers · 235 recent arXiv papers
+> 87 conference papers · 235 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,7 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (107)
+## Conference papers (87)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -23,36 +23,28 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping | CVPR · Dexterous | [Paper](https://arxiv.org/abs/2412.02699) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01139) |
 | 2025 | FastUMI: A Scalable and Hardware-Independent Universal Manipulation Interface with Dataset | CoRL · Scalable data collection | [Paper](https://proceedings.mlr.press/v305/zhaxizhuoma25a.html) · [Official](https://proceedings.mlr.press/v305/zhaxizhuoma25a.html) |
 | 2025 | DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-To-Robot Handover | ICCV · Dexterous | [Paper](https://arxiv.org/abs/2506.23152) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01180) |
-| 2025 | DexVLG: Dexterous Vision-Language-Grasp Model at Scale | ICCV · Dexterous | [Paper](https://arxiv.org/pdf/2507.02747) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01322) |
 | 2025 | DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References | ICLR · Dexterous | [Paper](https://arxiv.org/abs/2502.09614) · [Publisher](https://doi.org/10.48550/arXiv.2502.09614) |
 | 2025 | $\mathcal{D}(\mathcal{R}, \mathcal{O})$ Grasp: A Unified Representation of Robot and Object Interaction for Cross-Embodiment Dexterous Grasping | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127754) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127754) |
 | 2025 | Canonical Representation and Force-Based Pretraining of 3D Tactile for Dexterous Visuo-Tactile Policy Learning | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2409.17549) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128094) |
 | 2025 | Catch It! Learning to Catch in Flight with Mobile Dexterous Hands | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2409.10319) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127596) |
 | 2025 | D3-ARM: High-Dynamic, Dexterous and Fully Decoupled Cable-Driven Robotic Arm | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2502.12963) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127687) |
 | 2025 | DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2410.24185) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127809) |
-| 2025 | DROP: Dexterous Reorientation via Online Planning | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2409.14562) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128433) |
 | 2025 | Learning Dexterous Bimanual Catch Skills Through Adversarial-Cooperative Heterogeneous-Agent Reinforcement Learning | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2502.11437) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127559) |
 | 2025 | MuST: Multi-Head Skill Transformer for Long-Horizon Dexterous Manipulation with Skill Progress | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2502.02753) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127280) |
 | 2025 | SCU-Hand: Soft Conical Universal Robotic Hand for Scooping Granular Media from Containers of Various Sizes | ICRA · Robotic Hand | [Paper](https://arxiv.org/abs/2505.04162) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128802) |
 | 2025 | UpViTaL: Unpaired Visual-Tactile Self-Supervised Representation Learning for Dexterous Robotic Manipulation | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127230) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127230) |
 | 2025 | ViViDex: Learning Vision-Based Dexterous Manipulation from Human Videos | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2404.15709) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127358) |
-| 2025 | VSB - Variable Stiffness Based on Bowden Cables: A Simple Mechanism for Soft Robotic Hands | ICRA · Robotic Hand | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127353) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127353) |
 | 2025 | A Bionic Robotic Hand Designed with Multiple Grasping Modes and Magnetic-tactile Perception | IROS · Robotic Hand | [Paper](https://doi.org/10.1109/IROS60139.2025.11246752) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246752) |
 | 2025 | A Multi-modal Hand Imitation Dataset for Dexterous Hand | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS60139.2025.11246058) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246058) |
-| 2025 | A Novel Robot Hand with Hoeckens Linkages and Soft Phalanges for Scooping and Self-Adaptive Grasping in Environmental Constraints | IROS · Robot Hand | [Paper](https://arxiv.org/abs/2510.13535) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246074) |
 | 2025 | Adaptive Visuo-Tactile Fusion with Predictive Force Attention for Dexterous Manipulation | IROS · Dexterous | [Paper](https://arxiv.org/abs/2505.13982) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246476) |
 | 2025 | Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning | IROS · Dexterous | [Paper](https://arxiv.org/abs/2407.03162) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247017) |
-| 2025 | Design of an Affordable, Fully-Actuated Biomimetic Hand for Dexterous Teleoperation Systems | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS60139.2025.11245814) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245814) |
 | 2025 | DexPour: Effective and Efficient High-DoF Robotic Hand Liquid Pouring via Hierarchical Reward with Approximated Proxy Abstraction | IROS · Robotic Hand | [Paper](https://doi.org/10.1109/IROS60139.2025.11247170) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247170) |
-| 2025 | Exploiting Policy Idling for Dexterous Manipulation | IROS · Dexterous | [Paper](https://arxiv.org/abs/2508.15669) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246124) |
 | 2025 | Grasping and Alignment of Stacked Fabrics by Robot Hands with Sticky Fingers | IROS · Robot Hand | [Paper](https://doi.org/10.1109/IROS60139.2025.11247692) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247692) |
 | 2025 | GRASPLAT: Enabling dexterous grasping through novel view synthesis | IROS · Dexterous | [Paper](https://arxiv.org/abs/2510.19200) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246749) |
-| 2025 | LDexMM: Language-Guided Dexterous Multi-Task Manipulation with Reinforcement Learning | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS60139.2025.11247524) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247524) |
 | 2025 | Learning Adaptive Dexterous Grasping from Single Demonstrations | IROS · Dexterous | [Paper](https://arxiv.org/abs/2503.20208) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246731) |
 | 2025 | LensDFF: Language-enhanced Sparse Feature Distillation for Efficient Few-Shot Dexterous Manipulation | IROS · Dexterous | [Paper](https://arxiv.org/abs/2503.03890) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247703) |
 | 2025 | MuxHand: A Cost-Effective and Compact Dexterous Robotic Hand Using Time-Division Multiplexing Mechanism | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS60139.2025.11246361) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246361) |
 | 2025 | Open-World Task Planning for Humanoid Bimanual Dexterous Manipulation via Vision-Language Models | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS60139.2025.11247026) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247026) |
-| 2025 | ORCA: An Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning | IROS · Dexterous | [Paper](https://arxiv.org/abs/2504.04259) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246681) |
 | 2025 | Refer and Grasp: Vision-Language Guided Continuous Dexterous Grasping | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS60139.2025.11247415) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247415) |
 | 2025 | Robotic Hand Tool Use with Contact-Based Demonstration: The Case of Cucumber Peeling | IROS · Robotic Hand | [Paper](https://doi.org/10.1109/IROS60139.2025.11247573) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247573) |
 | 2025 | Sequential Multi-Object Grasping with One Dexterous Hand | IROS · Dexterous | [Paper](https://arxiv.org/abs/2503.09078) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246620) |
@@ -66,45 +58,34 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2407.02274) · [Publisher](https://doi.org/10.48550/arXiv.2407.02274) |
 | 2024 | Jacta: A Versatile Planner for Learning Dexterous and Whole-body Manipulation | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2408.01258) · [Publisher](https://doi.org/10.48550/arXiv.2408.01258) |
 | 2024 | Neural Attention Field: Emerging Point Relevance in 3D Scenes for One-Shot Dexterous Grasping | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2410.23039) · [Publisher](https://doi.org/10.48550/arXiv.2410.23039) |
-| 2024 | Object-Centric Dexterous Manipulation from Human Motion Data | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2411.04005) · [Publisher](https://doi.org/10.48550/arXiv.2411.04005) |
 | 2024 | PianoMime: Learning a Generalist, Dexterous Piano Player from Internet Demonstrations | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2407.18178) · [Publisher](https://doi.org/10.48550/arXiv.2407.18178) |
 | 2024 | RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2408.11048) · [Publisher](https://doi.org/10.48550/arXiv.2408.11048) |
 | 2024 | QuasiSim: Parameterized Quasi-Physical Simulators for Dexterous Manipulations Transfer | ECCV · Dexterous | [Paper](https://arxiv.org/abs/2404.07988) · [Publisher](https://doi.org/10.48550/arXiv.2404.07988) |
 | 2024 | Cross-Embodiment Dexterous Grasping with Reinforcement Learning | ICLR · Dexterous | [Paper](https://arxiv.org/abs/2410.02479) · [Publisher](https://doi.org/10.48550/arXiv.2410.02479) |
 | 2024 | Efficient Residual Learning with Mixture-of-Experts for Universal Dexterous Grasping | ICLR · Dexterous | [Paper](https://arxiv.org/abs/2410.02475) · [Publisher](https://doi.org/10.48550/arXiv.2410.02475) |
 | 2024 | A Wearable Robotic Hand for Hand-over-Hand Imitation Learning | ICRA · Robotic Hand | [Paper](https://arxiv.org/abs/2309.14860) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610516) |
-| 2024 | Direct Self-Identification of Inverse Jacobians for Dexterous Manipulation Through Particle Filtering | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611052) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611052) |
 | 2024 | Directly 3D Printed, Pneumatically Actuated Multi-Material Robotic Hand | ICRA · Robotic Hand | [Paper](https://arxiv.org/abs/2310.16280) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610016) |
-| 2024 | Sensorized Soft Skin for Dexterous Robotic Hands | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2404.19448) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611404) |
 | 2024 | WARABI Hand: Five-fingered Robotic Hand with Flexible Skin and Force Sensors for Social Interaction | ICRA · Robotic Hand | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610697) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610697) |
 | 2024 | A Novel Geometrical Structure Robot Hand for Linear-parallel Pinching and Coupled Self-adaptive Hybrid Grasping | IROS · Robot Hand | [Paper](https://doi.org/10.1109/IROS58592.2024.10802602) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802602) |
 | 2024 | An Active and Dexterous Bionic Torso for a Quadruped Robot* | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS58592.2024.10801439) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801439) |
 | 2024 | DexDribbler: Learning Dexterous Soccer Manipulation via Dynamic Supervision | IROS · Dexterous | [Paper](https://arxiv.org/abs/2403.14300) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802022) |
 | 2024 | Meta-Learning for Fast Adaptation in Intent Inferral on a Robotic Hand Orthosis for Stroke | IROS · Robotic Hand | [Paper](https://arxiv.org/pdf/2403.13147) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801596) |
 | 2024 | MultiGripperGrasp: A Dataset for Robotic Grasping from Parallel Jaw Grippers to Dexterous Hands | IROS · Dexterous | [Paper](https://arxiv.org/pdf/2403.09841) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801708) |
-| 2024 | Passive Underwater Robot Hand Utilizing Water Resistance | IROS · Robot Hand | [Paper](https://doi.org/10.1109/IROS58592.2024.10802745) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802745) |
 | 2024 | Real-time Dexterous Telemanipulation with an End-Effect-Oriented Learning-based Approach | IROS · Dexterous | [Paper](https://arxiv.org/abs/2408.00853) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801694) |
 | 2024 | Safe multi-agent reinforcement learning for bimanual dexterous manipulation | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS58592.2024.10801490) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801490) |
 | 2024 | Demonstrating Learning from Humans on Open-Source Dexterous Robot Hands | RSS · Dexterous | [Paper](https://doi.org/10.15607/rss.2024.xx.014) · [Publisher](https://doi.org/10.15607/rss.2024.xx.014) |
 | 2024 | DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation | RSS · Dexterous | [Paper](https://arxiv.org/abs/2403.07788) · [Publisher](https://doi.org/10.48550/arXiv.2403.07788) |
-| 2024 | SpringGrasp: Synthesizing Compliant, Dexterous Grasps under Shape Uncertainty | RSS · Dexterous | [Paper](https://arxiv.org/abs/2404.13532) · [Publisher](https://doi.org/10.48550/arXiv.2404.13532) |
 | 2024 | Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots | RSS · Portable data collection | [Paper](https://arxiv.org/abs/2402.10329) · [Official](https://roboticsproceedings.org/rss20/index.html) · [Code](https://github.com/real-stanford/universal_manipulation_interface) |
-| 2023 | DexArt: Benchmarking Generalizable Dexterous Manipulation with Articulated Objects | CVPR · Dexterous | [Paper](https://arxiv.org/pdf/2305.05706) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.02030) |
-| 2023 | UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy | CVPR · Dexterous | [Paper](https://arxiv.org/pdf/2303.00938) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.00459) |
 | 2023 | DEFT: Dexterous Fine-Tuning for Hand Policies | CoRL · Dexterous | [Paper](https://www.semanticscholar.org/paper/14eacfe3790636ab44a5685df72171c86532977a) · [Index](https://dblp.org/rec/conf/corl/KannanSBMP23) |
 | 2023 | DexCatch: Learning to Catch Arbitrary Objects with Dexterous Hands | CoRL · Dexterous | [Paper](https://arxiv.org/pdf/2310.08809) · [Publisher](https://doi.org/10.48550/arXiv.2310.08809) |
 | 2023 | Dexterous Functional Grasping | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2312.02975) · [Publisher](https://doi.org/10.48550/arXiv.2312.02975) |
 | 2023 | On the Utility of Koopman Operator Theory in Learning Dexterous Manipulation Skills | CoRL · Dexterous | [Paper](https://arxiv.org/pdf/2303.13446) · [Publisher](https://doi.org/10.48550/arXiv.2303.13446) |
 | 2023 | REBOOT: Reuse Data for Bootstrapping Efficient Real-World Dexterous Manipulation | CoRL · Dexterous | [Paper](https://arxiv.org/pdf/2309.03322) · [Publisher](https://doi.org/10.48550/arXiv.2309.03322) |
-| 2023 | RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2304.04150) · [Index](https://dblp.org/rec/conf/corl/ZakkaWSGHPSTFZA23) |
 | 2023 | Sequential Dexterity: Chaining Dexterous Policies for Long-Horizon Manipulation | CoRL · Dexterous | [Paper](https://arxiv.org/pdf/2309.00987) · [Publisher](https://doi.org/10.48550/arXiv.2309.00987) |
 | 2023 | SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation | ICLR · Dexterous | [Paper](https://arxiv.org/abs/2310.16838) · [Publisher](https://doi.org/10.48550/arXiv.2310.16838) |
 | 2023 | An Analysis of Unified Manipulation with Robot Arms and Dexterous Hands via Optimization-based Motion Synthesis | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161325) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161325) |
 | 2023 | Anthropomorphic robot hand using the principle of sweat and fingerprints of human hands | ICRA · Robot Hand | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161390) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161390) |
 | 2023 | Comparison of Model-Based and Model-Free Reinforcement Learning for Real-World Dexterous Robotic Manipulation Tasks | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160983) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160983) |
-| 2023 | Dexterous Imitation Made Easy: A Learning-Based Framework for Efficient Dexterous Manipulation | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2203.13251) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160275) |
-| 2023 | Dexterous Manipulation from Images: Autonomous Real-World RL via Substep Guidance | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2212.09902) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161493) |
-| 2023 | GenDexGrasp: Generalizable Dexterous Grasping | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2210.00722) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160667) |
 | 2023 | Linear Delta Arrays for Compliant Dexterous Distributed Manipulation | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2206.04596) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160578) |
 | 2023 | The New Dexterity Adaptive Humanlike Robot Hand: Employing a Reconfigurable Palm for Robust Grasping and Dexterous Manipulation | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161369) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161369) |
 | 2023 | A Unified Trajectory Generation Algorithm for Dynamic Dexterous Manipulation | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS55552.2023.10342095) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342095) |
@@ -122,7 +103,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Development and Control of Robot Hand with Finger Camera for Garment Handling Tasks | IROS · Robot Hand | [Paper](https://doi.org/10.1109/IROS47612.2022.9982134) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982134) |
 | 2022 | On Robotic Manipulation of Flexible Flat Cables: Employing a Multi-Modal Gripper with Dexterous Tips, Active Nails, and a Reconfigurable Suction Cup Module | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS47612.2022.9981313) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981313) |
 | 2022 | Rigid Skeleton Enhanced Dexterous Soft Finger Possessing Proprioception | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS47612.2022.9981292) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981292) |
-| 2022 | Toward Dexterous Flapping Flight: Effective Large Yaw Torque Generation by $2\times 2$-Degrees-of-Freedom Flapping Wings | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS47612.2022.9981990) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981990) |
 | 2022 | Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning | NeurIPS · Dexterous | [Paper](https://arxiv.org/abs/2206.08686) · [Publisher](https://doi.org/10.48550/arXiv.2206.08686) |
 | 2022 | Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on Youtube | RSS · Robotic Hand | [Paper](https://doi.org/10.15607/rss.2022.xviii.023) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.023) |
 

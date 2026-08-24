@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=World%20%26%20Dynamics%20Models&specialty=Physics-informed%20%26%20Neural%20Dynamics#research-workbench)
 
-> 5 conference papers · 46 recent arXiv papers
+> 6 conference papers · 46 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,7 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (5)
+## Conference papers (6)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -22,7 +22,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Dynamics Modeling Using Visual Terrain Features for High-Speed Autonomous Off-Road Driving | ICRA · Dynamics Model | [Paper](https://arxiv.org/abs/2412.00581) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128031) |
 | 2024 | Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling | CoRL · Dynamics Model | [Paper](https://arxiv.org/abs/2410.18912) · [Publisher](https://doi.org/10.48550/arXiv.2410.18912) |
 | 2023 | Efficient Preference-Based Reinforcement Learning Using Learned Dynamics Models | ICRA · Dynamics Model | [Paper](https://arxiv.org/abs/2301.04741) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161081) |
-| 2022 | Efficient Learning of Inverse Dynamics Models for Adaptive Computed Torque Control | IROS · Dynamics Model | [Paper](https://www.research.ed.ac.uk/en/publications/a1a4a26e-1956-479e-838d-3637173b0316) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981744) |
+| 2022 | Efficient Learning of Inverse Dynamics Models for Adaptive Computed Torque Control | IROS · Dynamics Model | [Paper](https://hdl.handle.net/20.500.11820/a1a4a26e-1956-479e-838d-3637173b0316) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981744) |
+| 2022 | End-to-End Learning of Hybrid Inverse Dynamics Models for Precise and Compliant Impedance Control | RSS · Dynamics Model | [Paper](https://arxiv.org/pdf/2205.13804) · [Publisher](https://doi.org/10.48550/arXiv.2205.13804) |
 
 ## Recent arXiv papers (46)
 

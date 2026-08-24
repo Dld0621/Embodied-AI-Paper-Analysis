@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=World%20%26%20Dynamics%20Models&specialty=Latent%20World%20Models#research-workbench)
 
-> 25 conference papers · 285 recent arXiv papers
+> 27 conference papers · 286 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,7 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (25)
+## Conference papers (27)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -24,11 +24,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | SR-AIF: Solving Sparse-Reward Robotic Tasks From Pixels with Active Inference and World Models | ICRA · World Model | [Paper](https://arxiv.org/abs/2409.14216) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127713) |
 | 2025 | Bounding Distributional Shifts in World Modeling through Novelty Detection | IROS · World Model | [Paper](https://arxiv.org/abs/2508.06096) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247183) |
 | 2025 | World Models for Anomaly Detection during Model-Based Reinforcement Learning Inference | IROS · World Model | [Paper](https://arxiv.org/abs/2503.02552) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245876) |
-| 2025 | Agents Robust to Distribution Shifts Learn Causal World Models Even Under Mediation | NeurIPS · World Model | [Paper](https://www.semanticscholar.org/paper/d596d97ad80bf36d15b673cb3a6aa73f29581aef) · [Index](https://dblp.org/rec/conf/nips/CeriscioliM25) |
+| 2025 | Agents Robust to Distribution Shifts Learn Causal World Models Even Under Mediation | NeurIPS · World Model | [Paper](https://doi.org/10.52202/085713-2602) · [Publisher](https://doi.org/10.52202/085713-2602) |
 | 2025 | Learning Interactive World Model for Object-Centric Reinforcement Learning | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2511.02225) · [Publisher](https://doi.org/10.48550/arXiv.2511.02225) |
-| 2025 | Martian World Model: Controllable Video Synthesis with Physically Accurate 3D Reconstructions | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2507.07978) · [Index](https://dblp.org/rec/conf/nips/LiFCLYFPYWWZPW25) |
+| 2025 | Martian World Model: Controllable Video Synthesis with Physically Accurate 3D Reconstructions | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2507.07978) · [Publisher](https://doi.org/10.52202/085713-5046) |
 | 2025 | RLVR-World: Training World Models with Reinforcement Learning | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2505.13934) · [Publisher](https://doi.org/10.48550/arXiv.2505.13934) |
+| 2025 | RoboScape: Physics-informed Embodied World Model | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2506.23135) · [Publisher](https://doi.org/10.48550/arXiv.2506.23135) |
 | 2025 | SAMPO:Scale-wise Autoregression with Motion PrOmpt for generative world models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2509.15536) · [Publisher](https://doi.org/10.48550/arXiv.2509.15536) |
+| 2025 | WorldModelBench: Judging Video Generation Models As World Models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2502.20694) · [Publisher](https://doi.org/10.48550/arXiv.2502.20694) |
 | 2024 | ReCoRe: Regularized Contrastive Representation Learning of World Model | CVPR · World Model | [Paper](https://arxiv.org/pdf/2312.09056) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.02161) |
 | 2024 | Multi-Task Interactive Robot Fleet Learning with Visual World Models | CoRL · World Model | [Paper](https://arxiv.org/abs/2410.22689) · [Publisher](https://doi.org/10.48550/arXiv.2410.22689) |
 | 2024 | Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion | ICLR · World Model | [Paper](https://arxiv.org/abs/2311.01017) · [Index](https://dblp.org/rec/conf/iclr/ZhangX000U24) |
@@ -44,10 +46,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Structured World Models from Human Videos | RSS · World Model | [Paper](https://doi.org/10.15607/rss.2023.xix.012) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.012) |
 | 2022 | DayDreamer: World Models for Physical Robot Learning | CoRL · World Model | [Paper](https://arxiv.org/abs/2206.14176) · [Index](https://dblp.org/rec/conf/corl/WuEHAG22) |
 
-## Recent arXiv papers (285)
+## Recent arXiv papers (286)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-21 | Graph-Operator World Models for Morphology-Parameter Generalization in Continuous Control | Xu Yang, Yiqin Yang, Qianchuan Zhao | [Abstract](https://arxiv.org/abs/2608.20936) · [PDF](https://arxiv.org/pdf/2608.20936) |
 | 2026-08-19 | DA-WAM: Decision-Aligned Future Latents for Driving World Models | Ruiguo Zhong, Benshan Ma, Xiaolong Chen, Lang Zhang et al. | [Abstract](https://arxiv.org/abs/2608.19085) · [PDF](https://arxiv.org/pdf/2608.19085) |
 | 2026-08-18 | Hydra-0: Action Flow for Generalist World Modeling and Control | Hongyu Li, Bowen Wen, Xinghao Zhu, Yixuan Wang et al. | [Abstract](https://arxiv.org/abs/2608.18077) · [PDF](https://arxiv.org/pdf/2608.18077) |
 | 2026-08-17 | Orbit-Planner: Towards Latent World Models for On-Orbit Obstacle Avoidance of Satellite Agents | Zhijian Li, Chao Ren, Peijin Wang, Xian Sun | [Abstract](https://arxiv.org/abs/2608.16651) · [PDF](https://arxiv.org/pdf/2608.16651) |

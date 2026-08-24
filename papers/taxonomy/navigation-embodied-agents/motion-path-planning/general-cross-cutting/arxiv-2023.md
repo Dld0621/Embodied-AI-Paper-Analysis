@@ -2,7 +2,7 @@
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 207 papers · complete list for this taxonomy leaf
+> 205 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -211,5 +211,3 @@
 | 2023-08-25 | UWB Ranging and IMU Data Fusion: Overview and Nonlinear Stochastic Filter for Inertial Navigation | Hashim A. Hashim, Abdelrahman E. E. Eltoukhy, Kyriakos G. Vamvoudakis | [Abstract](https://arxiv.org/abs/2308.13393) · [PDF](https://arxiv.org/pdf/2308.13393) |
 | 2023-08-24 | Racing Towards Reinforcement Learning based control of an Autonomous Formula SAE Car | Aakaash Salvaji, Harry Taylor, David Valencia, Trevor Gee et al. | [Abstract](https://arxiv.org/abs/2308.13088) · [PDF](https://arxiv.org/pdf/2308.13088) |
 | 2023-08-24 | Actuator Trajectory Planning for UAVs with Overhead Manipulator using Reinforcement Learning | Hazim Alzorgan, Abolfazl Razi, Ata Jahangir Moshayedi | [Abstract](https://arxiv.org/abs/2308.12843) · [PDF](https://arxiv.org/pdf/2308.12843) |
-| 2023-08-23 | Value of Assistance for Mobile Agents | Adi Amuzig, David Dovrat, Sarah Keren | [Abstract](https://arxiv.org/abs/2308.11961) · [PDF](https://arxiv.org/pdf/2308.11961) |
-| 2023-08-23 | Multi-Modal Multi-Task (3MT) Road Segmentation | Erkan Milli, Özgür Erkent, Asım Egemen Yılmaz | [Abstract](https://arxiv.org/abs/2308.11983) · [PDF](https://arxiv.org/pdf/2308.11983) |

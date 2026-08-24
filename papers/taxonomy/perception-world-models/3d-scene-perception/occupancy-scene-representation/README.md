@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=Occupancy%20%26%20Scene%20Representation#research-workbench)
 
-> 1 conference papers · 73 recent arXiv papers
+> 6 conference papers · 73 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (1)
+## Conference papers (6)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding | IROS · 3D Scene | [Paper](https://arxiv.org/abs/2503.08474) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245861) |
+| 2025 | Domain-Conditioned Scene Graphs for State-Grounded Task Planning | IROS · Scene Graph | [Paper](https://arxiv.org/abs/2504.06661) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247213) |
+| 2025 | Generating Actionable Robot Knowledge Bases by Combining 3D Scene Graphs with Robot Ontologies | IROS · 3D Scene | [Paper](https://arxiv.org/abs/2507.11770) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245658) |
+| 2024 | QueSTMaps: Queryable Semantic Topological Maps for 3D Scene Understanding | IROS · 3D Scene | [Paper](https://arxiv.org/abs/2404.06442) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801814) |
+| 2022 | Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization | RSS · 3D Scene | [Paper](https://hdl.handle.net/1721.1/145300) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.050) |
 | 2022 | iSDF: Real-Time Neural Signed Distance Fields for Robot Perception | RSS · Robot Perception | [Paper](https://arxiv.org/abs/2204.02296) · [Publisher](https://doi.org/10.48550/arXiv.2204.02296) |
 
 ## Recent arXiv papers (73)

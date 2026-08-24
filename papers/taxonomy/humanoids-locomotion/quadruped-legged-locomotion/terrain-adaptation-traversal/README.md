@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Quadruped%20%26%20Legged%20Locomotion&specialty=Terrain%20Adaptation%20%26%20Traversal#research-workbench)
 
-> 2 conference papers · 5 recent arXiv papers
+> 4 conference papers · 5 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,12 +14,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (2)
+## Conference papers (4)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2024 | Tension Feedback Control for Musculoskeletal Quadrupedal Locomotion over Uneven Terrain | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS58592.2024.10801663) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801663) |
+| 2024 | Rolling with Planar Parametric Curves for Real-time Robot Locomotion Algorithms | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610524) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610524) |
+| 2023 | Efficient Learning of Locomotion Skills through the Discovery of Diverse Environmental Trajectory Generator Priors | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2210.04819) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161267) |
 | 2022 | Anisotropic-Stiffness Belt in Mono wheeled Flexible Track for Rough Terrain Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9981247) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981247) |
+| 2022 | Elevation Mapping for Locomotion and Navigation using GPU | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2204.12876) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981507) |
 
 ## Recent arXiv papers (5)
 

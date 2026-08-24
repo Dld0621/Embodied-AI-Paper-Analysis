@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=State%20Estimation%20%26%20Tracking&specialty=Calibration%20%26%20Sensor%20Fusion#research-workbench)
 
-> 1 conference papers · 81 recent arXiv papers
+> 1 conference papers · 80 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,7 +20,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2023 | AI-Based Multi-Object Relative State Estimation with Self-Calibration Capabilities | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2303.00371) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161375) |
 
-## Recent arXiv papers (81)
+## Recent arXiv papers (80)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -104,7 +104,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-22 | To Fuse or Not to Fuse: Measuring Consistency in Multi-Sensor Fusion for Aerial Robots | Christian Lanegger, Helen Oleynikova, Michael Pantic, Lionel Ott et al. | [Abstract](https://arxiv.org/abs/2312.14730) · [PDF](https://arxiv.org/pdf/2312.14730) |
 | 2023-12-03 | Smart safety watch for elderly people and pregnant women | Balachandra D S, Maithreyee M S, Saipavan B M, Shashank S et al. | [Abstract](https://arxiv.org/abs/2312.01302) · [PDF](https://arxiv.org/pdf/2312.01302) |
 | 2023-09-02 | Online Targetless Radar-Camera Extrinsic Calibration Based on the Common Features of Radar and Camera | Lei Cheng, Siyang Cao | [Abstract](https://arxiv.org/abs/2309.00787) · [PDF](https://arxiv.org/pdf/2309.00787) |
-| 2023-08-23 | Path-Constrained State Estimation for Rail Vehicles | Cornelius von Einem, Andrei Cramariuc, Roland Siegwart, Cesar Cadena et al. | [Abstract](https://arxiv.org/abs/2308.12082) · [PDF](https://arxiv.org/pdf/2308.12082) |
 
 ---
 

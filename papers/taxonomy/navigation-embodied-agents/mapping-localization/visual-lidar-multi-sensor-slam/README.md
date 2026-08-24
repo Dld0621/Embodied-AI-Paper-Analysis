@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Mapping%20%26%20Localization&specialty=Visual%2C%20LiDAR%20%26%20Multi-sensor%20SLAM#research-workbench)
 
-> 3 conference papers · 603 recent arXiv papers
+> 10 conference papers · 603 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,11 +14,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (3)
+## Conference papers (10)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | MNE-SLAM: Multi-Agent Neural SLAM for Mobile Robots | CVPR · Mobile Robot | [Paper](https://doi.org/10.1109/CVPR52734.2025.00146) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.00146) |
+| 2025 | Real-Time 3D Reconstruction via Camera-Lidar (2D) Fusion for Mobile Robots: A Gaussian Splatting Approach | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128228) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128228) |
 | 2025 | MobiExo: GPS-SLAM Fusion for Seamless Indoor-Outdoor Mobile Manipulation with Hand-Foot Coordination | IROS · Mobile Manipulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246254) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246254) |
+| 2025 | OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions | IROS · Semantic Mapping | [Paper](https://arxiv.org/pdf/2503.10331) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247603) |
+| 2025 | Task-driven SLAM Benchmarking for Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2409.16573) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246415) |
+| 2024 | Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration | IROS · Exploration | [Paper](https://arxiv.org/abs/2408.14726) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802821) |
+| 2024 | Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2407.06077) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801936) |
+| 2024 | Online Tree Reconstruction and Forest Inventory on a Mobile Robotic System | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2403.17622) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802455) |
 | 2023 | RVWO: A Robust Visual-Wheel SLAM System for Mobile Robots in Dynamic Environments | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS55552.2023.10342183) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342183) |
 | 2023 | Trajectory-Based SLAM for Indoor Mobile Robots with Limited Sensing Capabilities | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS55552.2023.10341518) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341518) |
 

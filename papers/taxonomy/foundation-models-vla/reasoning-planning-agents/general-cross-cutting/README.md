@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 18 conference papers · 208 recent arXiv papers
+> 22 conference papers · 208 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,28 +14,32 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (18)
+## Conference papers (22)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2026 | From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation | ICLR · Spatial reasoning | [Paper](https://openreview.net/forum?id=yngvAamNQi) · [Official](https://openreview.net/forum?id=yngvAamNQi) |
+| 2025 | Automatic Behavior Tree Expansion with LLMs for Robotic Manipulation | ICRA · Llm | [Paper](https://arxiv.org/abs/2409.13356) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127942) |
+| 2025 | COLLAGE: Collaborative Human-Agent Interaction Generation Using Hierarchical Latent Diffusion and Language Models | ICRA · Language Model | [Paper](https://arxiv.org/abs/2409.20502) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128777) |
 | 2025 | Generalized Mission Planning for Heterogeneous Multi-Robot Teams via LLM-Constructed Hierarchical Trees | ICRA · Llm | [Paper](https://arxiv.org/abs/2501.16539) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128711) |
 | 2025 | HBTP: Heuristic Behavior Tree Planning with Large Language Model Reasoning | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2406.00965) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127999) |
+| 2025 | Jailbreaking LLM-Controlled Robots | ICRA · Llm | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128119) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128119) |
 | 2025 | Leveraging LLMs for Mission Planning in Precision Agriculture | ICRA · Llm | [Paper](https://arxiv.org/abs/2506.10093) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128633) |
-| 2025 | Building Knowledge from Interactions: An LLM-Based Architecture for Adaptive Tutoring and Social Reasoning | IROS · Llm | [Paper](https://arxiv.org/abs/2504.01588) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246882) |
-| 2025 | L3M+P: Lifelong Planning with Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2508.01917) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247529) |
-| 2025 | LLM-CBT: LLM-Driven Closed-Loop Behavior Tree Planning for Heterogeneous UAV-UGV Swarm Collaboration | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11246793) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246793) |
+| 2025 | Exploring Spontaneous Social Interaction Swarm Robotics Powered by Large Language Models | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246362) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246362) |
 | 2025 | LLM-Informed Iterative Planning for Object Search and Relocation in Indoor Environments | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11246196) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246196) |
-| 2025 | Enhancing LLM Planning for Robotics Manipulation through Hierarchical Procedural Knowledge Graphs | NeurIPS · Llm | [Paper](https://www.semanticscholar.org/paper/f0f151a23bf6a045369eb42468685dc2dfffdae2) · [Index](https://dblp.org/rec/conf/nips/ZhouMWY25) |
-| 2025 | Towards Reliable LLM-based Robots Planning via Combined Uncertainty Estimation | NeurIPS · Llm | [Paper](https://www.semanticscholar.org/paper/68ed0bdcc5036073a0ec35b7ce5d66af3123e373) · [Index](https://dblp.org/rec/conf/nips/YinBZJZZL25) |
-| 2024 | GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs | CoRL · Llm | [Paper](https://arxiv.org/abs/2410.03645) · [Publisher](https://doi.org/10.48550/arXiv.2410.03645) |
-| 2024 | AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers | ICRA · Llm | [Paper](https://arxiv.org/abs/2306.06531) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611163) |
-| 2024 | CoPAL: Corrective Planning of Robot Actions with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2310.07263) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610434) |
-| 2024 | From Cooking Recipes to Robot Task Trees – Improving Planning Correctness and Task Efficiency by Leveraging LLMs with a Knowledge Network | ICRA · Llm | [Paper](https://arxiv.org/abs/2309.09181) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611369) |
-| 2024 | Interactive Planning Using Large Language Models for Partially Observable Robotic Tasks | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2312.06876) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610981) |
+| 2025 | Socially-Aware Robot Navigation Enhanced by Bidirectional Natural Language Conversations Using Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2409.04965) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246738) |
+| 2025 | Towards Reliable LLM-based Robots Planning via Combined Uncertainty Estimation | NeurIPS · Llm | [Paper](https://doi.org/10.52202/085713-2600) · [Publisher](https://doi.org/10.52202/085713-2600) |
+| 2024 | RoboMP2: A Robotic Multimodal Perception-Planning Framework with Multimodal Large Language Models | ICML · Large Language Model | [Paper](https://arxiv.org/abs/2404.04929) · [Publisher](https://doi.org/10.48550/arXiv.2404.04929) |
+| 2024 | Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs | ICRA · Llm | [Paper](https://arxiv.org/abs/2404.04869) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611614) |
+| 2024 | Are Large Language Models Aligned with People’s Social Intuitions for Human–Robot Interactions? | IROS · Large Language Model | [Paper](https://kclpure.kcl.ac.uk/ws/files/364787654/IROS_LLMs_for_Social_HRI.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801325) |
+| 2024 | From LLMs to Actions: Latent Codes as Bridges in Hierarchical Robot Control | IROS · Llm | [Paper](https://arxiv.org/abs/2405.04798) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801683) |
 | 2024 | RT-Grasp: Reasoning Tuning Robotic Grasping via Multi-modal Large Language Model | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2411.05212) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801718) |
+| 2024 | To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions | IROS · Llm | [Paper](https://arxiv.org/pdf/2403.12533) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801517) |
 | 2023 | Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning | CoRL · Large Language Model | [Paper](https://arxiv.org/abs/2310.10103) · [Publisher](https://doi.org/10.48550/arXiv.2310.10103) |
+| 2023 | Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners | CoRL · Large Language Model | [Paper](https://arxiv.org/pdf/2307.01928) · [Publisher](https://doi.org/10.48550/arXiv.2307.01928) |
+| 2023 | Semantic Mechanical Search with Large Vision and Language Models | CoRL · Language Model | [Paper](https://arxiv.org/abs/2302.12915) · [Index](https://dblp.org/rec/conf/corl/SharmaHSCHIG23) |
 | 2023 | Task and Motion Planning with Large Language Models for Object Rearrangement | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.06247) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342169) |
+| 2023 | Demonstrating Large Language Models on Robots | RSS · Large Language Model | [Paper](https://doi.org/10.15607/rss.2023.xix.024) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.024) |
 
 ## Recent arXiv papers (208)
 

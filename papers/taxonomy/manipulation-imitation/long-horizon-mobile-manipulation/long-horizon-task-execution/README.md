@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=Long-horizon%20Task%20Execution#research-workbench)
 
-> 10 conference papers · 143 recent arXiv papers
+> 14 conference papers · 143 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,13 +14,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (10)
+## Conference papers (14)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | Efficient Cross-Boundary Grasping in Stacked Clutter with Single-Visual Mapping Multi-Step | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127976) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127976) |
 | 2025 | Local Policies Enable Zero-Shot Long-Horizon Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2410.22332) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128407) |
+| 2025 | RACER: Rich Language-Guided Failure Recovery Policies for Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2409.14674) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127799) |
+| 2025 | AgiBot World Colosseo: A Large-Scale Manipulation Platform for Scalable and Intelligent Embodied Systems | IROS · Manipulation | [Paper](https://arxiv.org/abs/2503.06669) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247088) |
 | 2025 | RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/abs/2506.22007) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246352) |
+| 2024 | Generative Factor Chaining: Coordinated Manipulation with Diffusion-based Factor Graph | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2409.16275) · [Publisher](https://doi.org/10.48550/arXiv.2409.16275) |
 | 2024 | Splat-MOVER: Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2405.04378) · [Publisher](https://doi.org/10.48550/arXiv.2405.04378) |
 | 2024 | Universal Visual Decomposer: Long-Horizon Manipulation Made Easy | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2310.08581) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611125) |
 | 2024 | Neural ODE-based Imitation Learning (NODE-IL): Data-Efficient Imitation Learning for Long-Horizon Multi-Skill Robot Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802736) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802736) |
@@ -28,6 +31,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | RoboCook: Long-Horizon Elasto-Plastic Object Manipulation with Diverse Tools | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2306.14447) · [Publisher](https://doi.org/10.48550/arXiv.2306.14447) |
 | 2023 | Structured Motion Generation with Predictive Learning: Proposing Subgoal for Long-Horizon Manipulation | ICRA · Manipulation | [Paper](https://www.pure.ed.ac.uk/ws/files/330016610/Structured_Motion_SAITO_DOA02032023_AFV_CC_BY.pdf) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161046) |
 | 2022 | Learning Multi-step Robotic Manipulation Policies from Visual Observation of Scene and Q-value Predictions of Previous Action | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2202.11280) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812251) |
+| 2022 | Relationship Oriented Semantic Scene Understanding for Daily Manipulation Tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981960) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981960) |
 
 ## Recent arXiv papers (143)
 

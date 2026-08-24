@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Visuotactile%20%26%20Multisensory%20Fusion#research-workbench)
 
-> 9 conference papers · 34 recent arXiv papers
+> 12 conference papers · 34 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,13 +14,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (9)
+## Conference papers (12)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation | CoRL · Tactile representation | [Paper](https://proceedings.mlr.press/v305/) · [Official](https://proceedings.mlr.press/v305/) |
 | 2025 | High-Precision Object Pose Estimation Using Visual-Tactile Information for Dynamic Interactions in Robotic Grasping | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128649) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128649) |
+| 2025 | HumanFT: A Human-Like Fingertip Multimodal Visuo-Tactile Sensor | ICRA · Tactile | [Paper](https://arxiv.org/abs/2410.10353) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128300) |
+| 2025 | Tool-Mediated Robot Perception of Granular Substances Using Multiple Sensory Modalities | ICRA · Robot Perception | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127366) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127366) |
 | 2025 | ConViTac: Aligning Visual-Tactile Fusion with Contrastive Representations | IROS · Tactile | [Paper](https://arxiv.org/abs/2506.20757) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245928) |
+| 2025 | VET: A Visual-Electronic Tactile System for Immersive Human-Machine Interaction | IROS · Tactile | [Paper](https://arxiv.org/abs/2503.23440) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247401) |
 | 2024 | Touch-GS: Visual-Tactile Supervised 3D Gaussian Splatting | IROS · Tactile | [Paper](https://arxiv.org/abs/2403.09875) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802412) |
 | 2023 | Visuotactile Sensor Enabled Pneumatic Device Towards Compliant Oropharyngeal Swab Sampling | IROS · Tactile | [Paper](https://arxiv.org/pdf/2305.06537) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342266) |
 | 2022 | Visuotactile Affordances for Cloth Manipulation with Local Control | CoRL · Tactile | [Paper](https://arxiv.org/abs/2212.05108) · [Publisher](https://doi.org/10.48550/arXiv.2212.05108) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Physics%20Engines%20%26%20Robot%20Simulators#research-workbench)
 
-> 7 conference papers · 165 recent arXiv papers
+> 12 conference papers · 165 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,16 +14,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (7)
+## Conference papers (12)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | MetaUrban: An Embodied AI Simulation Platform for Urban Micromobility | ICLR · Urban simulation | [Paper](https://proceedings.iclr.cc/paper_files/paper/2025/file/ad63cdaffe7c95c5f9c12276cdd893f9-Paper-Conference.pdf) · [Official](https://proceedings.iclr.cc/paper_files/paper/2025/hash/ad63cdaffe7c95c5f9c12276cdd893f9-Abstract-Conference.html) |
 | 2025 | Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics | ICRA · Simulation | [Paper](https://arxiv.org/abs/2504.05330) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127627) |
+| 2025 | Accurate Simulation and Parameter Identification of Deformable Linear Objects using Discrete Elastic Rods in Generalized Coordinates | IROS · Simulation | [Paper](https://arxiv.org/abs/2310.00911) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247160) |
 | 2025 | Heterogeneous Multi-Agent Learning in Isaac Lab: Scalable Simulation for Robotic Collaboration | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11247098) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247098) |
 | 2024 | UBSoft: A Simulation Platform for Robotic Skill Learning in Unbounded Soft Environments | CoRL · Simulation | [Paper](https://arxiv.org/abs/2411.12711) · [Publisher](https://doi.org/10.48550/arXiv.2411.12711) |
 | 2024 | Demonstrating HumanTHOR: A Simulation Platform and Benchmark for Human-Robot Collaboration in a Shared Workspace | RSS · Simulation | [Paper](https://arxiv.org/abs/2406.06498) · [Publisher](https://doi.org/10.48550/arXiv.2406.06498) |
+| 2024 | From Compliant to Rigid Contact Simulation: a Unified and Efficient Approach | RSS · Simulation | [Paper](https://arxiv.org/abs/2405.17020) · [Publisher](https://doi.org/10.48550/arXiv.2405.17020) |
+| 2023 | DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation | ICRA · Simulation | [Paper](https://arxiv.org/abs/2210.02697) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160982) |
+| 2023 | Real2Sim2Real Transfer for Control of Cable-Driven Robots Via a Differentiable Physics Engine | IROS · Sim2Real | [Paper](https://arxiv.org/pdf/2209.06261) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341811) |
 | 2023 | Demonstrating RFUniverse: A Multiphysics Simulation Platform for Embodied AI | RSS · Simulation | [Paper](https://doi.org/10.15607/rss.2023.xix.087) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.087) |
+| 2022 | Scalable Simulation and Demonstration of Jumping Piezoelectric 2-D Soft Robots | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2202.13521) · [Publisher](https://doi.org/10.1109/ICRA46639.2022.9811927) |
 | 2022 | Gazebo Fluids: SPH-based simulation of fluid interaction with articulated rigid body dynamics | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982036) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982036) |
 
 ## Recent arXiv papers (165)

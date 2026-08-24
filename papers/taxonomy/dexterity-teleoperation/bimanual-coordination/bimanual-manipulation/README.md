@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Bimanual%20Coordination&specialty=Bimanual%20Manipulation#research-workbench)
 
-> 16 conference papers · 36 recent arXiv papers
+> 21 conference papers · 37 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,15 +14,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (16)
+## Conference papers (21)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning | CVPR · Bimanual skill transfer | [Paper](https://arxiv.org/abs/2503.21860) · [Official](https://openaccess.thecvf.com/content/CVPR2025/html/Li_ManipTrans_Efficient_Dexterous_Bimanual_Manipulation_Transfer_via_Residual_Learning_CVPR_2025_paper.html) |
 | 2025 | Diffusion-Based Imaginative Coordination for Bimanual Manipulation | ICCV · Bimanual | [Paper](https://arxiv.org/pdf/2507.11296) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01067) |
+| 2025 | Rethinking Bimanual Robotic Manipulation: Learning with Decoupled Interaction Framework | ICCV · Bimanual | [Paper](https://arxiv.org/pdf/2503.09186) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01155) |
 | 2025 | Learning Coordinated Bimanual Manipulation Policies Using State Diffusion and Inverse Dynamics Models | ICRA · Bimanual | [Paper](https://arxiv.org/abs/2503.23271) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127387) |
 | 2025 | TWIN: Two-handed Intelligent Benchmark for Bimanual Manipulation | ICRA · Bimanual | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128527) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128527) |
 | 2025 | Ag2x2: Robust Agent-Agnostic Visual Representations for Zero-Shot Bimanual Manipulation | IROS · Bimanual | [Paper](https://arxiv.org/abs/2507.19817) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246626) |
+| 2025 | Bimanual Robot-Assisted Dressing: A Spherical Coordinate-Based Strategy for Tight-Fitting Garments | IROS · Bimanual | [Paper](https://arxiv.org/abs/2508.12274) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246012) |
 | 2025 | ManiDP: Manipulability-Aware Diffusion Policy for Posture-Dependent Bimanual Manipulation | IROS · Bimanual | [Paper](https://arxiv.org/abs/2510.23016) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246034) |
 | 2025 | ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model | IROS · Bimanual | [Paper](https://arxiv.org/abs/2506.19842) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246564) |
 | 2024 | InterACT: Inter-dependency Aware Action Chunking with Hierarchical Attention Transformers for Bimanual Manipulation | CoRL · Bimanual | [Paper](https://arxiv.org/abs/2409.07914) · [Publisher](https://doi.org/10.48550/arXiv.2409.07914) |
@@ -30,15 +32,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Towards Unifying Human Likeness: Evaluating Metrics for Human-Like Motion Retargeting on Bimanual Manipulation Tasks | ICRA · Bimanual | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611024) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611024) |
 | 2024 | Formalization of Temporal and Spatial Constraints of Bimanual Manipulation Categories | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS58592.2024.10801861) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801861) |
 | 2024 | Learning Bimanual Manipulation Policies for Bathing Bed-bound People | IROS · Bimanual | [Paper](https://hdl.handle.net/10044/1/118859) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801478) |
+| 2024 | Learning Symbolic and Subsymbolic Temporal Task Constraints from Bimanual Human Demonstrations | IROS · Bimanual | [Paper](https://arxiv.org/abs/2403.16953) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802525) |
+| 2024 | ScrewMimic: Bimanual Imitation from Human Videos with Screw Space Projection | RSS · Bimanual | [Paper](https://arxiv.org/abs/2405.03666) · [Publisher](https://doi.org/10.48550/arXiv.2405.03666) |
 | 2023 | Stabilize to Act: Learning to Coordinate for Bimanual Manipulation | CoRL · Bimanual | [Paper](https://arxiv.org/pdf/2309.01087) · [Publisher](https://doi.org/10.48550/arXiv.2309.01087) |
 | 2023 | An Evaluation of Action Segmentation Algorithms on Bimanual Manipulation Datasets | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS55552.2023.10341956) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341956) |
 | 2023 | Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware | RSS · Bimanual imitation | [Paper](https://arxiv.org/abs/2304.13705) · [Official](https://roboticsproceedings.org/rss19/index.html) · [Code](https://github.com/tonyzhaozh/aloha) |
 | 2022 | A Proprioceptive Haptic Device Design for Teaching Bimanual Manipulation | ICRA · Bimanual | [Paper](https://doi.org/10.1109/icra46639.2022.9811694) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811694) |
+| 2022 | Learning Temporal Task Models from Human Bimanual Demonstrations | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS47612.2022.9981068) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981068) |
 
-## Recent arXiv papers (36)
+## Recent arXiv papers (37)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-21 | Fast Coordinated Bimanual Motion Planning With Hard Constraints | Borna Paro, Luka Petrović, Ivan Marković | [Abstract](https://arxiv.org/abs/2608.20946) · [PDF](https://arxiv.org/pdf/2608.20946) |
 | 2026-06-26 | PA-BiCoop: A Primary-Auxiliary Cooperative Framework for General Bimanual Manipulation | Bai Qicheng, Wang Ziru, Ma Teli, Dai Guang et al. | [Abstract](https://arxiv.org/abs/2606.28192) · [PDF](https://arxiv.org/pdf/2606.28192) |
 | 2026-05-28 | MonoDuo: Using One Robot Arm to Learn Bimanual Policies | Sandeep Bajamahal, Lawrence Yunliang Chen, Toru Lin, Zehan Ma et al. | [Abstract](https://arxiv.org/abs/2605.29298) · [PDF](https://arxiv.org/pdf/2605.29298) |
 | 2026-05-18 | Dexora: Open-source VLA for High-DoF Bimanual Dexterity | Zongzheng Zhang, Jingrui Pang, Zhuo Yang, Kun Li et al. | [Abstract](https://arxiv.org/abs/2605.18722) · [PDF](https://arxiv.org/pdf/2605.18722) |

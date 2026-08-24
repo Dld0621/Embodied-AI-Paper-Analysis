@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Evaluation&specialty=Task%20%26%20Capability%20Benchmarks#research-workbench)
 
-> 23 conference papers · 231 recent arXiv papers
+> 24 conference papers · 231 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,18 +14,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (23)
+## Conference papers (24)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | CheckManual: A New Challenge and Benchmark for Manual-based Appliance Manipulation | CVPR · Benchmark | [Paper](https://arxiv.org/abs/2506.09343) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02104) |
 | 2025 | Evaluating Human-Robot Skill Gaps in Electrical Circuit Inspection: A New Electronic Task Board for Benchmarking Manipulation | ICRA · Benchmark | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128714) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128714) |
-| 2025 | Towards Autonomous Data Annotation and System-Agnostic Robotic Grasping Benchmarking with 3D-Printed Fixtures | ICRA · Benchmark | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127593) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127593) |
+| 2025 | Towards Autonomous Data Annotation and System-Agnostic Robotic Grasping Benchmarking with 3D-Printed Fixtures | ICRA · Benchmark | [Paper](https://elib.dlr.de/214540/1/ICRA25_2693_FI_compressed.pdf) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127593) |
 | 2025 | Benchmarking Shortcutting Techniques for Multi-Robot-Arm Motion Planning | IROS · Benchmark | [Paper](https://arxiv.org/abs/2508.05027) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246427) |
 | 2025 | QBIT: Quality-Aware Cloud-Based Benchmarking for Robotic Insertion Tasks | IROS · Benchmark | [Paper](https://arxiv.org/abs/2503.07479) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246437) |
 | 2025 | Towards the Benchmarking of Embodied Sensors for Pose Tracking in Octopus-inspired Robotic Arms | IROS · Benchmark | [Paper](https://doi.org/10.1109/IROS60139.2025.11246390) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246390) |
 | 2024 | Benchmarking Multi-Robot Coordination in Realistic, Unstructured Human-Shared Environments | ICRA · Benchmark | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611005) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611005) |
-| 2024 | CloudGripper: An Open Source Cloud Robotics Testbed for Robotic Manipulation Research, Benchmarking and Data Collection at Scale | ICRA · Benchmark | [Paper](https://arxiv.org/abs/2309.12786) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611548) |
 | 2024 | GSL-Bench: High Fidelity Gas Source Localization Benchmarking Tool | ICRA · Benchmark | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610755) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610755) |
 | 2024 | Human-Robot Gym: Benchmarking Reinforcement Learning in Human-Robot Collaboration | ICRA · Benchmark | [Paper](https://arxiv.org/abs/2310.06208) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610705) |
 | 2024 | RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance | ICRA · Benchmark | [Paper](https://arxiv.org/abs/2309.09212) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610841) |
@@ -36,10 +35,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | A Retrospective on the Robot Air Hockey Challenge: Benchmarking Robust, Reliable, and Safe Learning Techniques for Real-world Robotics | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2411.05718) · [Publisher](https://doi.org/10.48550/arXiv.2411.05718) |
 | 2023 | Benchmarking Offline Reinforcement Learning on Real-Robot Hardware | ICLR · Benchmark | [Paper](https://arxiv.org/pdf/2307.15690) · [Publisher](https://doi.org/10.48550/arXiv.2307.15690) |
 | 2023 | FluidLab: A Differentiable Environment for Benchmarking Complex Fluid Manipulation | ICLR · Benchmark | [Paper](https://arxiv.org/abs/2303.02346) · [Publisher](https://doi.org/10.48550/arXiv.2303.02346) |
+| 2023 | A Benchmark for Multi-Robot Planning in Realistic, Complex and Cluttered Environments | ICRA · Benchmark | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161005) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161005) |
 | 2023 | The SLAM Hive Benchmarking Suite | ICRA · Benchmark | [Paper](https://arxiv.org/pdf/2303.11854) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160302) |
 | 2023 | Labelling Lightweight Robot Energy Consumption: A Mechatronics-Based Benchmarking Metric Set | IROS · Benchmark | [Paper](https://findresearcher.sdu.dk/ws/files/253742432/IROS_2023_Energy_Benchmarking_5_.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341484) |
 | 2023 | RMBench: Benchmarking Deep Reinforcement Learning for Robotic Manipulator Control | IROS · Benchmark | [Paper](https://arxiv.org/pdf/2210.11262) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342479) |
 | 2023 | LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2306.03310) · [Publisher](https://doi.org/10.48550/arXiv.2306.03310) |
+| 2022 | DGBench: An Open-Source, Reproducible Benchmark for Dynamic Grasping | IROS · Benchmark | [Paper](https://arxiv.org/pdf/2204.13879) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981670) |
 | 2022 | Manual Maneuverability: Metrics for Analysing and Benchmarking Kinesthetic Robot Guidance | IROS · Benchmark | [Paper](https://doi.org/10.1109/IROS47612.2022.9981864) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981864) |
 
 ## Recent arXiv papers (231)

@@ -18,9 +18,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | Realtime Limb Trajectory Optimization for Humanoid Running Through Centroidal Angular Momentum Dynamics | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2501.17351) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127382) |
 | 2025 | SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2505.11494) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247065) |
 | 2024 | Terrestrial Locomotion of PogoX: From Hardware Design to Energy Shaping and Step-to-step Dynamics Based Control | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2309.13737) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611545) |
+| 2024 | Heading Control for Obstacle Avoidance using Dynamic Posture Manipulation during Tumbling Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS58592.2024.10801515) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801515) |
 | 2022 | Online Learning of Centroidal Angular Momentum towards Enhancing DCM-based Locomotion | ICRA · Locomotion | [Paper](https://elib.dlr.de/186198/1/Schuller2022_Online_Learning_of_Centroidal_Angular_Momentum_Towards_Enhancing_DCM-Based_Locomotion.pdf) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811708) |
 
 ## Recent arXiv papers (46)

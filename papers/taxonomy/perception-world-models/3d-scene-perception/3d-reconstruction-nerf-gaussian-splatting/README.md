@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=3D%20Reconstruction%2C%20NeRF%20%26%20Gaussian%20Splatting#research-workbench)
 
-> 2 conference papers · 107 recent arXiv papers
+> 3 conference papers · 107 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (2)
+## Conference papers (3)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation | IROS · Scene Graph | [Paper](https://arxiv.org/abs/2502.15309) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246569) |
 | 2024 | OpenOcc: Open Vocabulary 3D Scene Reconstruction via Occupancy Representation | IROS · 3D Scene | [Paper](https://arxiv.org/abs/2403.11796) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801860) |
 | 2022 | Touching a NeRF: Leveraging Neural Radiance Fields for Tactile Sensory Data Generation | CoRL · Tactile | [Paper](https://www.semanticscholar.org/paper/52ad7e7133b19adf85e49478fe17229fc893cd8f) · [Index](https://dblp.org/rec/conf/corl/ZhongAJMP22) |
 

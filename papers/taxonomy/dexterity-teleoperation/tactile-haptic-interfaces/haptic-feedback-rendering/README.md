@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Tactile%20%26%20Haptic%20Interfaces&specialty=Haptic%20Feedback%20%26%20Rendering#research-workbench)
 
-> 4 conference papers · 54 recent arXiv papers
+> 6 conference papers · 54 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,13 +14,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (4)
+## Conference papers (6)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | Design, Implementation, and Validation of an Ungrounded Visuo-Tactile Haptic Interface for Robotic Teleoperation in High-Risk Steel Production | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128864) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128864) |
 | 2025 | A Natural Human-Robot Interaction System for Teleoperation Based on Noncontact Haptic Feedback | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246054) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246054) |
 | 2025 | Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning | IROS · Dexterous | [Paper](https://arxiv.org/abs/2503.01543) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246287) |
 | 2024 | Learning Variable Compliance Control From a Few Demonstrations for Bimanual Robot with Haptic Feedback Teleoperation System | IROS · Bimanual | [Paper](https://arxiv.org/abs/2406.14990) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801731) |
+| 2023 | HaPPArray: Haptic Pneumatic Pouch Array for Feedback in handheld Robots | ICRA · In Hand | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160648) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160648) |
 | 2022 | Collaborative Teleoperation with Haptic Feedback for Collision-Free Navigation of Ground Robots | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981426) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981426) |
 
 ## Recent arXiv papers (54)

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Field%2C%20Aerial%20%26%20Marine%20Robotics&specialty=Aerial%20%26%20UAV%20Navigation#research-workbench)
 
-> 0 conference papers · 99 recent arXiv papers
+> 2 conference papers · 99 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,9 +14,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (0)
+## Conference papers (2)
 
-No conference papers currently map to this specialty.
+| Year | Paper | Venue / topic | Online links |
+|---:|---|---|---|
+| 2024 | Drones Guiding Drones: Cooperative Navigation of a Less-Equipped Micro Aerial Vehicle in Cluttered Environments | IROS · Navigation | [Paper](https://arxiv.org/abs/2312.09786) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802770) |
+| 2022 | UAV-miniUGV Hybrid System for Hidden Area Exploration and Manipulation | IROS · Exploration | [Paper](https://arxiv.org/pdf/2209.11704) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981957) |
 
 ## Recent arXiv papers (99)
 

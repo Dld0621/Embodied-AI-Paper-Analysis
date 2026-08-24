@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=Mobile%20Manipulation#research-workbench)
 
-> 3 conference papers · 53 recent arXiv papers
+> 5 conference papers · 53 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (3)
+## Conference papers (5)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2024 | An Open-Source Soft Robotic Platform for Autonomous Aerial Manipulation in the Wild | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2409.07662) · [Publisher](https://doi.org/10.48550/arXiv.2409.07662) |
+| 2024 | How to Prompt Your Robot: A PromptBook for Manipulation Skills with Code as Policies | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610784) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610784) |
 | 2024 | Revolutionizing Battery Disassembly: The Design and Implementation of a Battery Disassembly Autonomous Mobile Manipulator Robot(BEAM-1) | IROS · Assembly | [Paper](https://arxiv.org/abs/2407.06590) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802225) |
 | 2022 | Bayesian Imitation Learning for End-to-End Mobile Manipulation | ICML · Manipulation | [Paper](https://arxiv.org/abs/2202.07600) · [Index](https://dblp.org/rec/journals/corr/abs-2202-07600) |
 | 2022 | Learning Symbolic Failure Detection for Grasping and Mobile Manipulation Tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982223) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982223) |

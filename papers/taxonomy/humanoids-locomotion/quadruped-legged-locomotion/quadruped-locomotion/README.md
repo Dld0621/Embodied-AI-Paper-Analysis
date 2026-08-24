@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Quadruped%20%26%20Legged%20Locomotion&specialty=Quadruped%20Locomotion#research-workbench)
 
-> 144 conference papers · 355 recent arXiv papers
+> 148 conference papers · 355 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,7 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (144)
+## Conference papers (148)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -48,14 +48,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Adaptive Model-Based Control of Quadrupeds via Online System Identification using Kalman Filter | IROS · Quadruped | [Paper](https://arxiv.org/abs/2506.13432) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246753) |
 | 2025 | Bridge the Gap: Enhancing Quadruped Locomotion with Vertical Ground Perturbations | IROS · Locomotion | [Paper](https://arxiv.org/abs/2510.13488) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247549) |
 | 2025 | Design of Q8bot: A Miniature, Low-Cost, Dynamic Quadruped Built with Zero Wires | IROS · Quadruped | [Paper](https://arxiv.org/abs/2508.01149) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246322) |
-| 2025 | Dynamic Quadrupedal Legged and Aerial Locomotion via Structure Repurposing | IROS · Locomotion | [Paper](https://arxiv.org/abs/2510.09526) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246685) |
 | 2025 | Efficient Navigation for Quadruped Robots in Post-Disaster Scenarios | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS60139.2025.11246824) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246824) |
-| 2025 | Enhancing the Flexibility of a Quadruped Robot with a 2-DOF Active Spine Using Nonlinear Model Predictive Control | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS60139.2025.11246577) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246577) |
 | 2025 | Gait in Eight: Efficient On-Robot Learning for Omnidirectional Quadruped Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/abs/2503.08375) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246447) |
 | 2025 | HAC-LOCO: Learning Hierarchical Active Compliance Control for Quadruped Locomotion under Continuous External Disturbances | IROS · Locomotion | [Paper](https://arxiv.org/abs/2507.02447) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247775) |
 | 2025 | KLEIYN : A Quadruped Robot with an Active Waist for Both Locomotion and Wall Climbing | IROS · Locomotion | [Paper](https://arxiv.org/abs/2507.06562) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245909) |
 | 2025 | Learning Distributed End-to-End Hunting Locomotion for Multiple Quadruped Robots | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11247461) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247461) |
-| 2025 | Learning Robust and Flexible Locomotion of Wheel-Legged Quadruped Robots in Complex Terrains | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11247698) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247698) |
 | 2025 | Learning-Based Quadruped Robot Framework for Locomotion on Dynamic Rigid Platforms | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11247628) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247628) |
 | 2025 | LiMo-Calib: On-Site Fast LiDAR-Motor Calibration for Quadruped Robot-Based Panoramic 3D Sensing System | IROS · Quadruped | [Paper](https://arxiv.org/abs/2502.12655) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247335) |
 | 2025 | Long-horizon Locomotion and Manipulation on a Quadrupedal Robot with Large Language Models | IROS · Locomotion | [Paper](https://arxiv.org/abs/2404.05291) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246632) |
@@ -68,9 +65,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Robust Ladder Climbing with a Quadrupedal Robot | IROS · Quadruped | [Paper](https://arxiv.org/abs/2409.17731) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247166) |
 | 2025 | Robust Model Predictive Control for Quadruped Locomotion Under Model Uncertainties and External Disturbances | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11246673) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246673) |
 | 2024 | Gaitor: Learning a Unified Representation Across Gaits for Real-World Quadruped Locomotion | CoRL · Locomotion | [Paper](https://arxiv.org/abs/2405.19452) · [Publisher](https://doi.org/10.48550/arXiv.2405.19452) |
+| 2024 | Learning H-Infinity Locomotion Control | CoRL · Locomotion | [Paper](https://arxiv.org/abs/2404.14405) · [Publisher](https://doi.org/10.48550/arXiv.2404.14405) |
 | 2024 | Learning Quadruped Locomotion Using Differentiable Simulation | CoRL · Locomotion | [Paper](https://arxiv.org/abs/2403.14864) · [Publisher](https://doi.org/10.48550/arXiv.2403.14864) |
 | 2024 | MBC: Multi-Brain Collaborative Control for Quadruped Robots | CoRL · Quadruped | [Paper](https://arxiv.org/abs/2409.16460) · [Publisher](https://doi.org/10.48550/arXiv.2409.16460) |
 | 2024 | SLR: Learning Quadruped Locomotion without Privileged Information | CoRL · Locomotion | [Paper](https://arxiv.org/abs/2406.04835) · [Publisher](https://doi.org/10.48550/arXiv.2406.04835) |
+| 2024 | SoloParkour: Constrained Reinforcement Learning for Visual Locomotion from Privileged Experience | CoRL · Locomotion | [Paper](https://arxiv.org/abs/2409.13678) · [Publisher](https://doi.org/10.48550/arXiv.2409.13678) |
 | 2024 | A Control Barrier Function-based Motion Planning Scheme for a Quadruped Robot | ICRA · Quadruped | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610210) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610210) |
 | 2024 | Expert Composer Policy: Scalable Skill Repertoire for Quadruped Robots | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2403.11412) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611039) |
 | 2024 | Hierarchical Experience-informed Navigation for Multi-modal Quadrupedal Rebar Grid Traversal | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2311.08354) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610248) |
@@ -107,17 +106,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | LocoMan: Advancing Versatile Quadrupedal Dexterity with Lightweight Loco-Manipulators | IROS · Quadruped | [Paper](https://arxiv.org/abs/2403.18197) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801980) |
 | 2024 | Modeling and Analysis of Passive Quadruped Walker with Compliant Torso on Low-friction Surface | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS58592.2024.10802724) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802724) |
 | 2024 | MQE: Unleashing the Power of Interaction with Multi-agent Quadruped Environment | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2403.16015) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801682) |
-| 2024 | Online Optimization of Central Pattern Generators for Quadruped Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/abs/2410.16417) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802762) |
+| 2024 | Online Optimization of Central Pattern Generators for Quadruped Locomotion | IROS · Locomotion | [Paper](https://infoscience.epfl.ch/handle/20.500.14299/247054) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802762) |
 | 2024 | PA-LOCO: Learning Perturbation-Adaptive Locomotion for Quadruped Robots | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2407.04224) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801753) |
 | 2024 | PACC: A Passive-Arm Approach for High-Payload Collaborative Carrying with Quadruped Robots Using Model Predictive Control | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2403.19862) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801456) |
 | 2024 | Quadruped robot traversing 3D complex environments with limited perception | IROS · Quadruped | [Paper](https://arxiv.org/abs/2404.18225) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801507) |
 | 2024 | Safety-critical Autonomous Inspection of Distillation Columns using Quadrupedal Robots Equipped with Roller Arms | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2404.10938) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802679) |
 | 2024 | SLIP Embodied Robust Quadruped Robot Control | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS58592.2024.10802545) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802545) |
+| 2024 | Tension Feedback Control for Musculoskeletal Quadrupedal Locomotion over Uneven Terrain | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS58592.2024.10801663) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801663) |
 | 2024 | Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers | RSS · Locomotion | [Paper](https://arxiv.org/abs/2405.12424) · [Publisher](https://doi.org/10.48550/arXiv.2405.12424) |
 | 2023 | SayTap: Language to Quadrupedal Locomotion | CoRL · Locomotion | [Paper](https://arxiv.org/pdf/2306.07580) · [Publisher](https://doi.org/10.48550/arXiv.2306.07580) |
 | 2023 | Seeing-Eye Quadruped Navigation with Force Responsive Locomotion Control | CoRL · Locomotion | [Paper](https://arxiv.org/pdf/2309.04370) · [Publisher](https://doi.org/10.48550/arXiv.2309.04370) |
 | 2023 | Transforming a Quadruped into a Guide Robot for the Visually Impaired: Formalizing Wayfinding, Interaction Modeling, and Safety Mechanism | CoRL · Quadruped | [Paper](https://arxiv.org/abs/2306.14055) · [Publisher](https://doi.org/10.48550/arXiv.2306.14055) |
 | 2023 | Distributed Model Predictive Formation Control with Gait Synchronization for Multiple Quadruped Robots | ICRA · Quadruped | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161260) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161260) |
+| 2023 | DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2301.10602) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161144) |
 | 2023 | Event-based Agile Object Catching with a Quadrupedal Robot | ICRA · Quadruped | [Paper](https://arxiv.org/pdf/2303.17479) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161392) |
 | 2023 | Force control for Robust Quadruped Locomotion: A Linear Policy Approach | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161080) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161080) |
 | 2023 | GPF-BG: A Hierarchical Vision-Based Planning Framework for Safe Quadrupedal Navigation | ICRA · Quadruped | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160804) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160804) |
@@ -130,6 +131,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Towards Safe Landing of Falling Quadruped Robots Using a 3-DoF Morphable Inertial Tail | ICRA · Quadruped | [Paper](https://arxiv.org/pdf/2209.15337) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161422) |
 | 2023 | Twisting Spine or Rigid Torso: Exploring Quadrupedal Morphology via Trajectory Optimization | ICRA · Quadruped | [Paper](https://repository.upenn.edu/bitstreams/24a4de27-11e4-416b-aee6-89c4bcbff10f/download) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160450) |
 | 2023 | A Composite Control Strategy for Quadruped Robot by Integrating Reinforcement Learning and Model-Based Control | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS55552.2023.10341908) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341908) |
+| 2023 | A Novel Lockable Spring-Loaded Prismatic Spine to Support Agile Quadrupedal Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/abs/2308.00923) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341427) |
 | 2023 | ARMP: Autoregressive Motion Planning for Quadruped Locomotion and Navigation in Complex Indoor Environments | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2303.15900) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341389) |
 | 2023 | Can Quadruped Guide Robots be Used as Guide Dogs? | IROS · Quadruped | [Paper](https://arxiv.org/abs/2210.08727) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341792) |
 | 2023 | Creating a Dynamic Quadrupedal Robotic Goalkeeper with Reinforcement Learning | IROS · Quadruped | [Paper](https://arxiv.org/abs/2210.04435) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341936) |
@@ -145,6 +147,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Load Awareness: Sensorless Body Payload Sensing and Localization for Heavy Quadruped Robot | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS55552.2023.10342158) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342158) |
 | 2023 | Proprioception and Tail Control Enable Extreme Terrain Traversal by Quadruped Robots | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2303.04781) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342384) |
 | 2023 | Run and Catch: Dynamic Object-Catching of Quadrupedal Robots | IROS · Quadruped | [Paper](https://discovery.ucl.ac.uk/10188120/1/_IROS2023_Dynamic_Catch_of_Quadrupedal_Robot%20%282%29.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341977) |
+| 2023 | Walking in Narrow Spaces: Safety-Critical Locomotion Control for Quadrupedal Robots with Duality-Based Optimization | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2212.14199) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341896) |
 | 2022 | GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots | CoRL · Locomotion | [Paper](https://arxiv.org/abs/2209.05309) · [Publisher](https://doi.org/10.48550/arXiv.2209.05309) |
 | 2022 | Design of KAIST HOUND, a Quadruped Robot Platform for Fast and Efficient Locomotion with Mixed-Integer Nonlinear Optimization of a Gear Train | ICRA · Locomotion | [Paper](https://doi.org/10.1109/icra46639.2022.9811755) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811755) |
 | 2022 | Foothold Evaluation Criterion for Dynamic Transition Feasibility for Quadruped Robots | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2203.04434) · [Publisher](https://doi.org/10.48550/arXiv.2203.04434) |
@@ -152,6 +155,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | QuadRunner: A Transformable Quasi-Wheel Quadruped | ICRA · Quadruped | [Paper](https://doi.org/10.1109/icra46639.2022.9811839) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811839) |
 | 2022 | Systematic Development of a Novel, Dynamic, Reduced Complexity Quadruped Robot Platform for Robotic Tail Research | ICRA · Quadruped | [Paper](https://doi.org/10.1109/icra46639.2022.9811871) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811871) |
 | 2022 | A Novel Design and Evaluation of a Dactylus-Equipped Quadruped Robot for Mobile Manipulation | IROS · Quadruped | [Paper](https://www.research.ed.ac.uk/files/286842188/A_Novel_Design_TSVETKOV_DOA30062022_AFV.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982229) |
+| 2022 | Advanced Skills by Learning Locomotion and Local Navigation End-to-End | IROS · Locomotion | [Paper](https://www.research-collection.ethz.ch/bitstream/20.500.11850/572835/1/Moving_away_from_velocity_commands%282%29.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981198) |
 | 2022 | An Online Interactive Approach for Crowd Navigation of Quadrupedal Robots | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981697) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981697) |
 | 2022 | An Optimal Motion Planning Framework for Quadruped Jumping | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2207.12002) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981642) |
 | 2022 | Enhanced Quadruped Locomotion of a Rat Robot Based on the Lateral Flexion of a Soft Actuated Spine | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9981674) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981674) |

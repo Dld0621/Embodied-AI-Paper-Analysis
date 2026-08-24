@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Training%20Infrastructure%20%26%20Tools&specialty=Open-source%20Libraries%20%26%20Toolkits#research-workbench)
 
-> 0 conference papers · 42 recent arXiv papers
+> 1 conference papers · 42 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,9 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (0)
+## Conference papers (1)
 
-No conference papers currently map to this specialty.
+| Year | Paper | Venue / topic | Online links |
+|---:|---|---|---|
+| 2024 | CloudGripper: An Open Source Cloud Robotics Testbed for Robotic Manipulation Research, Benchmarking and Data Collection at Scale | ICRA · Benchmark | [Paper](https://arxiv.org/abs/2309.12786) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611548) |
 
 ## Recent arXiv papers (42)
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Multi-agent%20%26%20Social%20Navigation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 3 conference papers · 37 recent arXiv papers
+> 2 conference papers · 37 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,13 +14,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (3)
+## Conference papers (2)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | MNE-SLAM: Multi-Agent Neural SLAM for Mobile Robots | CVPR · Mobile Robot | [Paper](https://doi.org/10.1109/CVPR52734.2025.00146) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.00146) |
 | 2024 | Multi-Agent Behavior Retrieval: Retrieval-Augmented Policy Training for Cooperative Push Manipulation by Mobile Robots | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2312.02008) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801334) |
-| 2023 | CAMETA: Conflict-Aware Multi-Agent Estimated Time of Arrival Prediction for Mobile Robots | IROS · Mobile Robot | [Paper](https://pure.au.dk/portal/en/publications/58667a3e-6ef1-4966-bb2b-8c93436bbb6b) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341937) |
+| 2023 | CAMETA: Conflict-Aware Multi-Agent Estimated Time of Arrival Prediction for Mobile Robots | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2503.00074) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341937) |
 
 ## Recent arXiv papers (37)
 

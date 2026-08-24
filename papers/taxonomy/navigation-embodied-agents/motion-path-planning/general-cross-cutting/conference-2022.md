@@ -2,11 +2,10 @@
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 63 papers · complete list for this taxonomy leaf
+> 49 papers · complete list for this taxonomy leaf
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2022 | Is Mapping Necessary for Realistic PointGoal Navigation? | CVPR · Navigation | [Paper](https://arxiv.org/pdf/2206.00997) · [Publisher](https://doi.org/10.1109/CVPR52688.2022.01672) |
 | 2022 | Last-Mile Embodied Visual Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2211.11746) · [Publisher](https://doi.org/10.48550/arXiv.2211.11746) |
 | 2022 | LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action | CoRL · Navigation | [Paper](https://arxiv.org/abs/2207.04429) · [Publisher](https://doi.org/10.48550/arXiv.2207.04429) |
 | 2022 | Offline Reinforcement Learning for Visual Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2212.08244) · [Publisher](https://doi.org/10.48550/arXiv.2212.08244) |
@@ -16,41 +15,28 @@
 | 2022 | Confidence-Based Robot Navigation Under Sensor Occlusion with Deep Reinforcement Learning | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9812090) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812090) |
 | 2022 | Depth-Aware Vision-and-Language Navigation using Scene Query Attention Network | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811921) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811921) |
 | 2022 | Development of a Collaborative Wheeled Mobile Robot: Design Considerations, Drive Unit Torque Control, and Preliminary Result | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/icra46639.2022.9812006) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812006) |
-| 2022 | Driving Swarm: A Swarm Robotics Framework for Intelligent Navigation in a Self-organized World | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811852) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811852) |
 | 2022 | Exact-likelihood User Intention Estimation for Scene-compliant Shared-control Navigation | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811913) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811913) |
 | 2022 | Generalized Affordance Templates for Mobile Manipulation | ICRA · Mobile Manipulation | [Paper](https://doi.org/10.1109/icra46639.2022.9812082) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812082) |
-| 2022 | Learning Crowd-Aware Robot Navigation from Challenging Environments via Distributed Deep Reinforcement Learning | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9812011) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812011) |
 | 2022 | Learning to Listen and Move: An Implementation of Audio-Aware Mobile Robot Navigation in Complex Indoor Environment | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9812193) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812193) |
 | 2022 | Model Identification and Control of a Low-cost Mobile Robot with Omnidirectional Wheels using Differentiable Physics | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/icra46639.2022.9812454) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812454) |
-| 2022 | Motion Primitives-based Navigation Planning using Deep Collision Prediction | ICRA · Navigation | [Paper](https://arxiv.org/abs/2201.03254) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812231) |
 | 2022 | Multi-view object pose distribution tracking for pre-grasp planning on mobile robots | ICRA · Mobile Robot | [Paper](https://public-pages-files-2025.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1683931/pdf) · [Publisher](https://doi.org/10.3389/frobt.2025.1683931) |
 | 2022 | On the Role of Hyperdimensional Computing for Behavioral Prioritization in Reactive Robot Navigation Tasks | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811939) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811939) |
-| 2022 | Parametric Path Optimization for Wheeled Robots Navigation | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9812167) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812167) |
 | 2022 | Towards Broad Learning Networks on Unmanned Mobile Robot for Semantic Segmentation | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/icra46639.2022.9812204) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812204) |
-| 2022 | Unfreezing Social Navigation: Dynamical Systems based Compliance for Contact Control in Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2203.01053) · [Publisher](https://doi.org/10.1109/ICRA46639.2022.9811772) |
 | 2022 | Visually Grounded Task and Motion Planning for Mobile Manipulation | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2202.10667) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812055) |
 | 2022 | 3D Lidar Reconstruction with Probabilistic Depth Completion for Robotic Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2207.12520) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981531) |
-| 2022 | A Novel Perceptive Robotic Cane with Haptic Navigation for Enabling Vision-Independent Participation in the Social Dynamics of Seat Choice | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981219) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981219) |
 | 2022 | A Robust Sidewalk Navigation Method for Mobile Robots Based on Sparse Semantic Point Cloud | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981281) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981281) |
 | 2022 | Adaptive Gradient-Descent Extended Kalman Filter for Pose Estimation of Mobile Robots with Sparse Reference Signals | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981893) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981893) |
 | 2022 | Audio-Visual Depth and Material Estimation for Robot Navigation | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981549) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981549) |
-| 2022 | CGLR: Dense Multi-Agent Navigation Using Voronoi Cells and Congestion Metric-based Replanning | IROS · Navigation | [Paper](https://arxiv.org/abs/2202.11334) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982110) |
 | 2022 | Collaborative Navigation-Aware Coverage in Feature-Poor Environments | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981547) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981547) |
-| 2022 | Colonoscopy Navigation using End-to-End Deep Visuomotor Control: A User Study | IROS · Navigation | [Paper](https://arxiv.org/abs/2206.15086) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981480) |
-| 2022 | CoMBiNED: Multi-Constrained Model Based Planning for Navigation in Dynamic Environments | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981479) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981479) |
+| 2022 | Colonoscopy Navigation using End-to-End Deep Visuomotor Control: A User Study | IROS · Navigation | [Paper](https://upcommons.upc.edu/bitstream/2117/383710/3/IROS_final_revised.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981480) |
 | 2022 | Containerization and Orchestration of Software for Autonomous Mobile Robots: a Case Study of Mixed-Criticality Tasks across Edge-Cloud Computing Platforms | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981581) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981581) |
-| 2022 | db-A*: Discontinuity-bounded Search for Kinodynamic Mobile Robot Motion Planning | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2203.11108) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981577) |
 | 2022 | Deep Reinforcement Learning based Robot Navigation in Dynamic Environments using Occupancy Values of Motion Primitives | IROS · Navigation | [Paper](https://arxiv.org/pdf/2208.08034) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982133) |
 | 2022 | Domain Invariant Siamese Attention Mask for Small Object Change Detection via Everyday Indoor Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.15362) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982196) |
-| 2022 | Elevation State-Space: Surfel-Based Navigation in Uneven Environments for Mobile Robots | IROS · Navigation | [Paper](https://arxiv.org/pdf/2208.08202) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981647) |
 | 2022 | Fast 3D Sparse Topological Skeleton Graph Generation for Mobile Robot Global Planning | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2208.04248) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981397) |
 | 2022 | Feedback-efficient Active Preference Learning for Socially Aware Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2201.00469) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981616) |
 | 2022 | FlowBot: Flow-based Modeling for Robot Navigation | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981407) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981407) |
 | 2022 | Model-free Neural Lyapunov Control for Safe Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.01190) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981632) |
 | 2022 | NavDreams: Towards Camera-Only RL Navigation Among Humans | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.12299) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982045) |
-| 2022 | Navigation Among Movable Obstacles with Object Localization using Photorealistic Simulation | IROS · Navigation | [Paper](https://discovery.ucl.ac.uk/10152290/1/P39__Ellis__2022__IROS.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981587) |
-| 2022 | Non-Parametric Modeling of Spatio-Temporal Human Activity Based on Mobile Robot Observations | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2203.06911) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982067) |
-| 2022 | PUTN: A Plane-fitting based Uneven Terrain Navigation Framework | IROS · Navigation | [Paper](https://arxiv.org/abs/2203.04541) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981038) |
 | 2022 | Ranging-Aided Ground Robot Navigation Using UWB Nodes at Unknown Locations | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981186) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981186) |
 | 2022 | RCA: Ride Comfort-Aware Visual Navigation via Self-Supervised Learning | IROS · Navigation | [Paper](https://arxiv.org/pdf/2207.14460) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981494) |
 | 2022 | Self-Propelled Soft Everting Toroidal Robot for Navigation and Climbing in Confined Spaces | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.14455) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981175) |

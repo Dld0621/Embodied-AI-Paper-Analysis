@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Hardware%20%26%20Morphology&specialty=Actuators%2C%20Joints%20%26%20Transmission#research-workbench)
 
-> 0 conference papers · 28 recent arXiv papers
+> 1 conference papers · 28 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,9 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (0)
+## Conference papers (1)
 
-No conference papers currently map to this specialty.
+| Year | Paper | Venue / topic | Online links |
+|---:|---|---|---|
+| 2025 | JiAo: A Versatile Snake Robot with Elliptical Wheels for Multimodal Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11247509) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247509) |
 
 ## Recent arXiv papers (28)
 

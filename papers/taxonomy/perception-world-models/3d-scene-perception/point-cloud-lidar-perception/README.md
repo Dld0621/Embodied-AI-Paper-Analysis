@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=Point-cloud%20%26%20LiDAR%20Perception#research-workbench)
 
-> 1 conference papers · 356 recent arXiv papers
+> 4 conference papers · 356 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (1)
+## Conference papers (4)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency | CVPR · Affordance | [Paper](https://arxiv.org/abs/2412.09511) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.00164) |
+| 2024 | SUGAR : Pre-training 3D Visual Representations for Robotics | CVPR · Visual Representation | [Paper](https://arxiv.org/pdf/2404.01491) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01709) |
+| 2024 | Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning | ICRA · Scene Graph | [Paper](https://arxiv.org/abs/2309.08914) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610206) |
 | 2023 | Open-Vocabulary Affordance Detection in 3D Point Clouds | IROS · Affordance | [Paper](https://arxiv.org/pdf/2303.02401) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341553) |
 
 ## Recent arXiv papers (356)

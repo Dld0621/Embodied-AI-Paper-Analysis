@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Memory%20%26%20World%20Knowledge&specialty=World-Action%20%26%20Predictive%20Models#research-workbench)
 
-> 1 conference papers · 50 recent arXiv papers
+> 1 conference papers · 51 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | Latent Action Pretraining from Videos | ICLR · Learning from video | [Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/45d74e190008c7bff2845ffc8e3facd3-Abstract-Conference.html) · [Official](https://proceedings.iclr.cc/paper_files/paper/2025/hash/45d74e190008c7bff2845ffc8e3facd3-Abstract-Conference.html) |
 
-## Recent arXiv papers (50)
+## Recent arXiv papers (51)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-21 | ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulation | Siyuan Ma, Yutian Zhang, Boshi Zhang, Qinglian Wu et al. | [Abstract](https://arxiv.org/abs/2608.20735) · [PDF](https://arxiv.org/pdf/2608.20735) |
 | 2026-08-11 | StageWAM: Joint-Embedding Stage Prediction for World-Action Models in Robot Manipulation | Xiao Liu, Yuguang Yang, Xi Wang, Kai Jiang et al. | [Abstract](https://arxiv.org/abs/2608.10780) · [PDF](https://arxiv.org/pdf/2608.10780) |
 | 2026-08-11 | Flex-$π$: A Multi-Stream World-Action Model with Compute Flexibility | Ge Yan, Jinghao Liu, Yuzhi Fan, Lei Cai et al. | [Abstract](https://arxiv.org/abs/2608.10860) · [PDF](https://arxiv.org/pdf/2608.10860) |
 | 2026-08-10 | FACT: Failure-Aware Causal Training for World-Action Models | Quanquan Peng, Yutong Liang, Rui Yan, Nicklas Hansen et al. | [Abstract](https://arxiv.org/abs/2608.10232) · [PDF](https://arxiv.org/pdf/2608.10232) |

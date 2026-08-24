@@ -18,9 +18,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | IRef-VLA: A Benchmark for Interactive Referential Grounding with Imperfect Language in 3D Scenes | ICRA · Vla | [Paper](https://arxiv.org/abs/2503.17406) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127464) |
 | 2025 | SORT3D: Spatial Object-centric Reasoning Toolbox for Zero-Shot 3D Grounding Using Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2504.18684) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246145) |
 | 2024 | Tag Map: A Text-Based Map for Spatial Reasoning and Navigation with Large Language Models | CoRL · Large Language Model | [Paper](https://arxiv.org/abs/2409.15451) · [Publisher](https://doi.org/10.48550/arXiv.2409.15451) |
-| 2024 | Optimal Scene Graph Planning with Large Language Model Guidance | ICRA · Large Language Model | [Paper](https://escholarship.org/content/qt0q94c5zp/qt0q94c5zp.pdf?t=sj0yt4) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610599) |
 | 2023 | SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Task Planning | CoRL · Large Language Model | [Paper](https://arxiv.org/pdf/2307.06135) · [Publisher](https://doi.org/10.48550/arXiv.2307.06135) |
 
 ## Recent arXiv papers (33)

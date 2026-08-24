@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Digital%20Twins%20%26%20Real-to-sim%20Reconstruction#research-workbench)
 
-> 11 conference papers · 214 recent arXiv papers
+> 15 conference papers · 214 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,7 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (11)
+## Conference papers (15)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -22,8 +22,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Automatic Real-to-Sim-to-Real System through Iterative Interactions for Robust Robot Manipulation Policy Learning with Unseen Objects | IROS · Sim To Real | [Paper](https://doi.org/10.1109/IROS60139.2025.11247488) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247488) |
 | 2025 | Botany-Bot: Digital Twin Monitoring of Occluded and Underleaf Plant Structures with Gaussian Splats | IROS · Digital Twin | [Paper](https://arxiv.org/abs/2510.17783) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247474) |
 | 2025 | ReBot: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis | IROS · Sim To Real | [Paper](https://arxiv.org/abs/2503.14526) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246305) |
+| 2025 | SimLauncher: Launching Sample-Efficient Real-World Robotic Reinforcement Learning via Simulation Pre-Training | IROS · Simulation | [Paper](https://arxiv.org/abs/2507.04452) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246668) |
 | 2025 | TwinTac: A Wide-Range, Highly Sensitive Tactile Sensor with Real-To-Sim Digital Twin Sensor Model | IROS · Digital Twin | [Paper](https://arxiv.org/abs/2509.10063) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247002) |
+| 2024 | Evaluating Real-World Robot Manipulation Policies in Simulation | CoRL · Simulation | [Paper](https://arxiv.org/abs/2405.05941) · [Publisher](https://doi.org/10.48550/arXiv.2405.05941) |
 | 2024 | TieBot: Learning to Knot a Tie from Visual Demonstration through a Real-to-Sim-to-Real Approach | CoRL · Sim To Real | [Paper](https://arxiv.org/abs/2407.03245) · [Publisher](https://doi.org/10.48550/arXiv.2407.03245) |
+| 2024 | Augmenting Tactile Simulators with Real-like and Zero-Shot Capabilities | ICRA · Simulator | [Paper](https://arxiv.org/abs/2309.10409) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610442) |
+| 2024 | Immersive Human-in-the-Loop Control: Real-Time 3D Surface Meshing and Physics Simulation | IROS · Simulation | [Paper](https://arxiv.org/abs/2412.13752) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802748) |
 | 2024 | Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation | RSS · Simulation | [Paper](https://arxiv.org/abs/2403.03949) · [Publisher](https://doi.org/10.48550/arXiv.2403.03949) |
 | 2023 | Neuro-Adaptive Dynamic Control with Edge-Computing for Collaborative Digital Twin of an Industrial Robotic Manipulator | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161113) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161113) |
 | 2023 | Skill-based Robot Programming in Mixed Reality with Ad-hoc Validation Using a Force-enabled Digital Twin | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161095) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161095) |

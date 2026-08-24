@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Multimodal%20Grounding&specialty=Audio%2C%20Touch%20%26%20Multisensory%20Models#research-workbench)
 
-> 1 conference papers · 71 recent arXiv papers
+> 4 conference papers · 71 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (1)
+## Conference papers (4)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | EIC Framework for Hand Exoskeletons Based on a Multimodal Large Language Model | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246670) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246670) |
+| 2025 | Multimodal Human Activity Recognition with a Large Language Model for Enhanced Human-Robot Interaction | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11247147) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247147) |
+| 2025 | Towards Emotion Co-regulation with LLM-powered Socially Assistive Robots: Integrating LLM Prompts and Robotic Behaviors to Support Parent-Neurodivergent Child Dyads | IROS · Llm | [Paper](https://research.tue.nl/en/publications/dc2e3607-4e01-4b21-84b9-19b6225f8828) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246217) |
 | 2024 | Octopi: Object Property Reasoning with Large Tactile-Language Models | RSS · Language Model | [Paper](https://arxiv.org/abs/2405.02794) · [Publisher](https://doi.org/10.48550/arXiv.2405.02794) |
 
 ## Recent arXiv papers (71)

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Mapping%20%26%20Localization&specialty=Semantic%2C%20Metric%20%26%20Neural%20Maps#research-workbench)
 
-> 8 conference papers · 58 recent arXiv papers
+> 13 conference papers · 58 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,18 +14,23 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (8)
+## Conference papers (13)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | Deep Learning Based Topography Aware Gas Source Localization with Mobile Robot | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128134) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128134) |
+| 2025 | One Map to Find Them All: Real-time Open-Vocabulary Mapping for Zero-shot Multi-Object Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.11764) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128393) |
 | 2025 | Bio-Inspired Hybrid Map: Spatial Implicit Local Frames and Topological Map for Mobile Cobot Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2507.04649) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247357) |
 | 2025 | Experimental Evaluation of Radio-aware Semantic Map with 5G-Enabled Mobile Robots | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS60139.2025.11246785) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246785) |
 | 2025 | RMMI: Reactive Mobile Manipulation using an Implicit Neural Map | IROS · Mobile Manipulation | [Paper](https://arxiv.org/abs/2408.16206) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245922) |
 | 2024 | Context-Aware Replanning with Pre-explored Semantic Map for Object Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2409.04837) · [Publisher](https://doi.org/10.48550/arXiv.2409.04837) |
 | 2024 | RoboHop: Segment-based Topological Map Representation for Open-World Visual Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2405.05792) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610234) |
+| 2024 | EVSMap: An Efficient Volumetric-Semantic Mapping Approach for Embedded Systems | IROS · Semantic Mapping | [Paper](https://doi.org/10.1109/IROS58592.2024.10801849) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801849) |
 | 2024 | Multiple Visual Features in Topological Map for Vision-and-Language Navigation | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10803061) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10803061) |
 | 2023 | Learning Navigational Visual Representations with Semantic Map Supervision | ICCV · Navigation | [Paper](https://arxiv.org/pdf/2307.12335) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.00284) |
 | 2023 | ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.04177) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341435) |
+| 2023 | Robust Fusion for Bayesian Semantic Mapping | IROS · Semantic Mapping | [Paper](https://arxiv.org/pdf/2303.07836) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342253) |
+| 2022 | Robust Semantic Mapping and Localization on a Free-Flying Robot in Microgravity | ICRA · Semantic Mapping | [Paper](https://doi.org/10.1109/icra46639.2022.9811862) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811862) |
 
 ## Recent arXiv papers (58)
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Retargeting%20%26%20Human%20Motion&specialty=Cross-embodiment%20Demonstration%20Transfer#research-workbench)
 
-> 8 conference papers · 81 recent arXiv papers
+> 7 conference papers · 81 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,7 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (8)
+## Conference papers (7)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -24,7 +24,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | SynH2R: Synthesizing Hand-Object Motions for Learning Human-to-Robot Handovers | ICRA · Robot Hand | [Paper](https://arxiv.org/abs/2311.05599) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610694) |
 | 2023 | Learning Human-to-Robot Handovers from Point Clouds | CVPR · Robot Hand | [Paper](https://arxiv.org/abs/2303.17592) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.00931) |
 | 2023 | Expressing and Inferring Action Carefulness in Human-to-Robot Handovers | IROS · Robot Hand | [Paper](https://arxiv.org/pdf/2310.00465) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342111) |
-| 2023 | Scalable. Intuitive Human to Robot Skill Transfer with Wearable Human Machine Interfaces: On Complex, Dexterous Tasks | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS55552.2023.10341661) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341661) |
 | 2022 | Model Predictive Control for Fluid Human-to-Robot Handovers | ICRA · Robot Hand | [Paper](https://arxiv.org/abs/2204.00134) · [Publisher](https://doi.org/10.48550/arXiv.2204.00134) |
 
 ## Recent arXiv papers (81)

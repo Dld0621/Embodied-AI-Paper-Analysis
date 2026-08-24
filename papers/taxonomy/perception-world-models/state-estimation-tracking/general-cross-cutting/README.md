@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=State%20Estimation%20%26%20Tracking&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 18 conference papers · 110 recent arXiv papers
+> 14 conference papers · 110 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,7 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (18)
+## Conference papers (14)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -22,18 +22,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Mixing Data-Driven and Geometric Models for Satellite Docking Port State Estimation Using an Rgb or Event Camera | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2409.15581) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128225) |
 | 2025 | RaggeDi: Diffusion-Based State Estimation of Disordered Rags, Sheets, Towels and Blankets | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2409.11831) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128504) |
 | 2025 | Simultaneous Ground Reaction Force and State Estimation Via Constrained Moving Horizon Estimation | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2411.12047) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127398) |
-| 2025 | Uncertainty-Aware Multi-Robot Flocking via Learned State Estimation and Control Barrier Functions | IROS · State Estimation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246962) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246962) |
-| 2024 | Adaptive State Estimation with Constant-Curvature Dynamics Using Force-Torque Sensors with Application to a Soft Pneumatic Actuator | ICRA · State Estimation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610370) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610370) |
-| 2024 | CoLRIO: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2402.11790) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611672) |
+| 2024 | Adaptive State Estimation with Constant-Curvature Dynamics Using Force-Torque Sensors with Application to a Soft Pneumatic Actuator | ICRA · State Estimation | [Paper](https://repo.uni-hannover.de/handle/123456789/20230) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610370) |
 | 2024 | Particle Filter with Stable Embedding for State Estimation of the Rigid Body Attitude System on the Set of Unit Quaternions | ICRA · State Estimation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610922) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610922) |
 | 2024 | Real-time Contact State Estimation in Shape Control of Deformable Linear Objects under Small Environmental Constraints | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2401.17154) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611558) |
 | 2024 | Demonstrating Agile Flight from Pixels without State Estimation | RSS · State Estimation | [Paper](https://arxiv.org/abs/2406.12505) · [Publisher](https://doi.org/10.48550/arXiv.2406.12505) |
 | 2023 | LEARNEST: LEARNing Enhanced Model-based State ESTimation for Robots using Knowledge-based Neural Ordinary Differential Equations | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2209.08185) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161211) |
 | 2023 | On the Use of Torque Measurement in Centroidal State Estimation | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2202.12574) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160823) |
 | 2023 | Towards Consistent Batch State Estimation Using a Time-Correlated Measurement Noise Model | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2303.06507) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160257) |
-| 2023 | Enhancing State Estimation in Robots: A Data-Driven Approach with Differentiable Ensemble Kalman Filters | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2308.09870) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341617) |
 | 2023 | navlie: A Python Package for State Estimation on Lie Groups | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2310.15774) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342362) |
-| 2022 | GPS-Denied Global Visual-Inertial Ground Vehicle State Estimation via Image Registration | ICRA · State Estimation | [Paper](https://doi.org/10.1109/icra46639.2022.9812364) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812364) |
 | 2022 | STEADY: Simultaneous State Estimation and Dynamics Learning from Indirect Observations | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2203.01299) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981279) |
 | 2022 | The Uncertainty Aware Salted Kalman Filter: State Estimation for Hybrid Systems with Uncertain Guards | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2202.12729) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981218) |
 

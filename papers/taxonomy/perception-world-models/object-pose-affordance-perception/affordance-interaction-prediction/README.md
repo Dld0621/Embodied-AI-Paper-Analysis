@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Object%2C%20Pose%20%26%20Affordance%20Perception&specialty=Affordance%20%26%20Interaction%20Prediction#research-workbench)
 
-> 31 conference papers · 72 recent arXiv papers
+> 30 conference papers · 72 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,12 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (31)
+## Conference papers (30)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | AffordDP: Generalizable Diffusion Policy with Transferable Affordance | CVPR · Affordance | [Paper](https://arxiv.org/abs/2412.03142) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.00654) |
-| 2025 | GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency | CVPR · Affordance | [Paper](https://arxiv.org/abs/2412.09511) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.00164) |
 | 2025 | GREAT: Geometry-Intention Collaborative Inference for Open-Vocabulary 3D Object Affordance Grounding | CVPR · Affordance | [Paper](https://arxiv.org/abs/2411.19626) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01615) |
 | 2025 | Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions | CVPR · Affordance | [Paper](https://arxiv.org/abs/2504.04744) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01616) |
 | 2025 | OVA-Fields: Weakly Supervised Open-Vocabulary Affordance Fields for Robot Operational Part Detection | ICCV · Affordance | [Paper](https://doi.org/10.1109/ICCV51701.2025.00602) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00602) |

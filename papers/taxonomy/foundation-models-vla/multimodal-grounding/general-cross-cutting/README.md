@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Multimodal%20Grounding&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 23 conference papers · 98 recent arXiv papers
+> 15 conference papers · 98 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,29 +14,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (23)
+## Conference papers (15)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete | CVPR · Robot multimodal model | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Ji_RoboBrain_A_Unified_Brain_Model_for_Robotic_Manipulation_from_Abstract_CVPR_2025_paper.html) · [Official](https://openaccess.thecvf.com/content/CVPR2025/html/Ji_RoboBrain_A_Unified_Brain_Model_for_Robotic_Manipulation_from_Abstract_CVPR_2025_paper.html) |
-| 2025 | SayComply: Grounding Field Robotic Tasks in Operational Compliance Through Retrieval-Based Language Models | ICRA · Language Model | [Paper](https://arxiv.org/abs/2411.11323) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128684) |
-| 2025 | EIC Framework for Hand Exoskeletons Based on a Multimodal Large Language Model | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246670) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246670) |
-| 2025 | HeStIa: Asynchronous Embodied Dynamic Locomotion Learning for Walking Robots through Multimodal Large Language Models | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11247288) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247288) |
 | 2025 | Hyperbolic Transformers with LLMs for Multimodal Human Activity Recognition | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11247069) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247069) |
-| 2025 | IDAGC: Adaptive Generalized Human-Robot Collaboration via Human Intent Estimation and Multimodal Policy Learning | IROS · Multimodal Policy | [Paper](https://arxiv.org/abs/2507.04620) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246003) |
-| 2025 | Multimodal Human Activity Recognition with a Large Language Model for Enhanced Human-Robot Interaction | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11247147) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247147) |
-| 2025 | OpenNav: Open-World Navigation with Multimodal Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2507.18033) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247593) |
 | 2025 | Semantic Enhancement for Object SLAM with Heterogeneous Multimodal Large Language Model Agents | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2411.06752) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246672) |
-| 2025 | NavBench: Probing Multimodal Large Language Models for Embodied Navigation | NeurIPS · Large Language Model | [Paper](https://arxiv.org/abs/2506.01031) · [Publisher](https://doi.org/10.48550/arXiv.2506.01031) |
-| 2025 | OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model | NeurIPS · Large Language Model | [Paper](https://arxiv.org/abs/2505.18947) · [Publisher](https://doi.org/10.48550/arXiv.2505.18947) |
 | 2024 | ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation | CVPR · Large Language Model | [Paper](https://arxiv.org/pdf/2312.16217) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01710) |
-| 2024 | Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs | CoRL · Vla | [Paper](https://arxiv.org/abs/2407.07775) · [Publisher](https://doi.org/10.48550/arXiv.2407.07775) |
 | 2024 | Reasoning Grasping via Multimodal Large Language Model | CoRL · Large Language Model | [Paper](https://arxiv.org/abs/2402.06798) · [Publisher](https://doi.org/10.48550/arXiv.2402.06798) |
 | 2024 | Navigation Instruction Generation with BEV Perception and Large Language Models | ECCV · Large Language Model | [Paper](https://arxiv.org/abs/2407.15087) · [Publisher](https://doi.org/10.48550/arXiv.2407.15087) |
-| 2024 | RoboMP2: A Robotic Multimodal Perception-Planning Framework with Multimodal Large Language Models | ICML · Large Language Model | [Paper](https://arxiv.org/abs/2404.04929) · [Publisher](https://doi.org/10.48550/arXiv.2404.04929) |
+| 2024 | Cook2LTL: Translating Cooking Recipes to LTL Formulae using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2310.00163) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611086) |
 | 2024 | Grounding Conversational Robots on Vision Through Dense Captioning and Large Language Models | ICRA · Large Language Model | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611232) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611232) |
 | 2024 | RoboLLM: Robotic Vision Tasks Grounded on Multimodal Large Language Models | ICRA · Large Language Model | [Paper](https://eprints.gla.ac.uk/320032/3/320032.pdf) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610797) |
-| 2024 | DoReMi: Grounding Language Model by Detecting and Recovering from Plan-Execution Misalignment | IROS · Language Model | [Paper](https://arxiv.org/abs/2307.00329) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802284) |
+| 2024 | Self-Assessment of Robotic Laboratory and Equipment Readiness Using Large Language Models and Robotic Data Capture | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS58592.2024.10802667) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802667) |
+| 2024 | Sensorimotor Attention and Language-based Regressions in Shared Latent Variables for Integrating Robot Motion Learning and LLM | IROS · Llm | [Paper](https://arxiv.org/pdf/2407.09044) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802349) |
 | 2023 | PaLM-E: An Embodied Multimodal Language Model | ICML · Embodied multimodal model | [Paper](https://arxiv.org/abs/2303.03378) · [Official](https://proceedings.mlr.press/v202/driess23a.html) |
 | 2023 | VIMA: Robot Manipulation with Multimodal Prompts | ICML · Multimodal prompting | [Paper](https://arxiv.org/abs/2210.03094) · [Official](https://proceedings.mlr.press/v202/jiang23b.html) · [Code](https://github.com/vimalabs/VIMA) |
 | 2023 | Chat with the Environment: Interactive Multimodal Perception Using Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.08268) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342363) |

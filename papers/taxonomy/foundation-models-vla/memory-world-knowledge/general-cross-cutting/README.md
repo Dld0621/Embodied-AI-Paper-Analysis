@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Memory%20%26%20World%20Knowledge&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 2 conference papers · 79 recent arXiv papers
+> 5 conference papers · 79 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,12 +14,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (2)
+## Conference papers (5)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | GRACE: Generating Socially Appropriate Robot Actions Leveraging LLMs and Human Explanations | ICRA · Llm | [Paper](https://repository.bilkent.edu.tr/bitstreams/88e30304-4676-49b3-bd3c-2fbc3703eab2/download) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127826) |
+| 2025 | Building Knowledge from Interactions: An LLM-Based Architecture for Adaptive Tutoring and Social Reasoning | IROS · Llm | [Paper](https://arxiv.org/abs/2504.01588) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246882) |
 | 2025 | ContextCache: Task-Aware Lifecycle Management for Memory-Efficient LLM Agent Deployment | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11247595) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247595) |
-| 2024 | Combining Ontological Knowledge and Large Language Model for User-Friendly Service Robots | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2410.16804) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802273) |
+| 2024 | Learning Reward for Robot Skills Using Large Language Models via Self-Alignment | ICML · Large Language Model | [Paper](https://arxiv.org/abs/2405.07162) · [Publisher](https://doi.org/10.48550/arXiv.2405.07162) |
+| 2024 | SiSCo: Signal Synthesis for Effective Human-Robot Communication Via Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2409.13927) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802561) |
 
 ## Recent arXiv papers (79)
 

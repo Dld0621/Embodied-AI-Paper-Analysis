@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=VLA%20Architectures&specialty=Diffusion%20%26%20Flow%20Policies#research-workbench)
 
-> 0 conference papers · 109 recent arXiv papers
+> 1 conference papers · 110 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,14 +14,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (0)
+## Conference papers (1)
 
-No conference papers currently map to this specialty.
+| Year | Paper | Venue / topic | Online links |
+|---:|---|---|---|
+| 2025 | VideoVLA: Video Generators Can Be Generalizable Robot Manipulators | NeurIPS · Vla | [Paper](https://arxiv.org/abs/2512.06963) · [Publisher](https://doi.org/10.48550/arXiv.2512.06963) |
 
-## Recent arXiv papers (109)
+## Recent arXiv papers (110)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-20 | Logic-VLA: A Temporal Logic Conditioned Vision-Language-Action Model | Celina Shiyu Wang, Yiqi Zhao, Junjie Ye, Yue Wang et al. | [Abstract](https://arxiv.org/abs/2608.20556) · [PDF](https://arxiv.org/pdf/2608.20556) |
 | 2026-08-17 | Unified Condition-Action Modeling for Accurate One-Step Action Generation | Xinyu Zhou, Zikun Cai, Kuangji Zuo, Gen Li et al. | [Abstract](https://arxiv.org/abs/2608.16153) · [PDF](https://arxiv.org/pdf/2608.16153) |
 | 2026-08-07 | GWM-VLA: Geometry-Aware Latent World Modeling for Vision-Language-Action Learning | Yanping Zhao, Hang Yu, Yiwei Wang, Chen Ye et al. | [Abstract](https://arxiv.org/abs/2608.07619) · [PDF](https://arxiv.org/pdf/2608.07619) |
 | 2026-08-07 | Cross-View Action Consistency for Camera-Robust Vision-Language-Action Policies | Bingqi Huang, Bingchuan Wei, Xuan Wang, Yingkai Cai et al. | [Abstract](https://arxiv.org/abs/2608.06965) · [PDF](https://arxiv.org/pdf/2608.06965) |

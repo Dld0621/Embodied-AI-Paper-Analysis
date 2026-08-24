@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Balance%2C%20Dynamics%20%26%20Recovery&specialty=Balance%20%26%20Stability%20Control#research-workbench)
 
-> 2 conference papers · 34 recent arXiv papers
+> 6 conference papers · 34 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,12 +14,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (2)
+## Conference papers (6)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | Realtime Limb Trajectory Optimization for Humanoid Running Through Centroidal Angular Momentum Dynamics | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2501.17351) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127382) |
 | 2024 | Trajectory Optimization Strategy That Considers Body Tip-Over Stability, Limb Dynamics, and Motion Continuity in Legged Robots | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611365) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611365) |
+| 2023 | A Novel Approximation for the Spring Loaded Inverted Pendulum Model of Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS55552.2023.10341418) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341418) |
 | 2023 | ZMP Feedback Balance Control of Humanoid in Response to Ground Acceleration | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS55552.2023.10341851) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341851) |
+| 2022 | Planning Natural Locomotion for Articulated Soft Quadrupeds | ICRA · Locomotion | [Paper](https://repository.tudelft.nl/file/File_f16c5fa1-d118-4982-a499-fecb7f9da5aa) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812416) |
+| 2022 | The concept of rod-driven locomotion for spherical lunar exploration robots | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9981887) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981887) |
 
 ## Recent arXiv papers (34)
 

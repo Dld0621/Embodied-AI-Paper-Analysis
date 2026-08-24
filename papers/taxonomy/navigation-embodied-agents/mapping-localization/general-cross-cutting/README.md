@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Mapping%20%26%20Localization&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 23 conference papers · 518 recent arXiv papers
+> 19 conference papers · 517 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,20 +14,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (23)
+## Conference papers (19)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | Active Semantic Mapping with Mobile Manipulator in Horticultural Environments | ICRA · Semantic Mapping | [Paper](https://arxiv.org/abs/2412.10515) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127547) |
-| 2025 | One Map to Find Them All: Real-time Open-Vocabulary Mapping for Zero-shot Multi-Object Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.11764) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128393) |
+| 2025 | Dynamem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/abs/2411.04999) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127619) |
 | 2025 | A Robust Distributed Odometry for Mobile Robots with Steerable Wheels | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS60139.2025.11246800) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246800) |
-| 2025 | OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions | IROS · Semantic Mapping | [Paper](https://arxiv.org/pdf/2503.10331) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247603) |
 | 2025 | Single-Microphone-Based Sound Source Localization for Mobile Robots in Reverberant Environments | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2506.16173) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246992) |
 | 2024 | Covariance Based Terrain Mapping for Autonomous Mobile Robots | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610010) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610010) |
 | 2024 | Sense in Motion with Belief Clustering: Efficient Gas Source Localization with Mobile Robots | ICRA · Mobile Robot | [Paper](https://infoscience.epfl.ch/bitstreams/2abb588a-b524-4612-bc8d-22f5fa9a1434/download) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611440) |
 | 2024 | Evidential Semantic Mapping in Off-road Environments with Uncertainty-aware Bayesian Kernel Inference | IROS · Semantic Mapping | [Paper](https://arxiv.org/pdf/2403.14138) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802766) |
-| 2024 | EVSMap: An Efficient Volumetric-Semantic Mapping Approach for Embedded Systems | IROS · Semantic Mapping | [Paper](https://doi.org/10.1109/IROS58592.2024.10801849) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801849) |
-| 2024 | Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2407.06077) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801936) |
 | 2024 | Text2Map: From Navigational Instructions to Graph-Based Indoor Map Representations Using LLMs | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802370) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802370) |
 | 2024 | Volumetric Mapping with Panoptic Refinement using Kernel Density Estimation for Mobile Robots | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2412.11241) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802224) |
 | 2023 | Active Metric-Semantic Mapping by Multiple Aerial Robots | ICRA · Semantic Mapping | [Paper](https://arxiv.org/pdf/2209.08465) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161564) |
@@ -35,17 +32,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Portable Multi-Hypothesis Monte Carlo Localization for Mobile Robots | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2209.07586) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160957) |
 | 2023 | Semantic Mapping with Confidence Scores through Metric Embeddings and Gaussian Process Classification | ICRA · Semantic Mapping | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161342) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161342) |
 | 2023 | Autonomous Exploration and Mapping for Mobile Robots via Cumulative Curriculum Reinforcement Learning | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2302.13025) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342066) |
+| 2023 | High-Accuracy Injection Using a Mobile Manipulation Robot for Chemistry Lab Automation | IROS · Mobile Manipulation | [Paper](https://doi.org/10.1109/IROS55552.2023.10341743) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341743) |
 | 2023 | Range-based GP Maps: Local Surface Mapping for Mobile Robots using Gaussian Process Regression in Range Space | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS55552.2023.10341949) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341949) |
-| 2023 | Robust Fusion for Bayesian Semantic Mapping | IROS · Semantic Mapping | [Paper](https://arxiv.org/pdf/2303.07836) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342253) |
 | 2022 | Efficient and Robust Semantic Mapping for Indoor Environments | ICRA · Semantic Mapping | [Paper](https://arxiv.org/abs/2203.05836) · [Publisher](https://doi.org/10.48550/arXiv.2203.05836) |
-| 2022 | Robust Semantic Mapping and Localization on a Free-Flying Robot in Microgravity | ICRA · Semantic Mapping | [Paper](https://doi.org/10.1109/icra46639.2022.9811862) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811862) |
 | 2022 | Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration | IROS · Exploration | [Paper](https://arxiv.org/pdf/2202.09631) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981251) |
 | 2022 | Mapping of Spatiotemporal Scalar Fields by Mobile Robots using Gaussian Process Regression | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981548) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981548) |
 
-## Recent arXiv papers (518)
+## Recent arXiv papers (517)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-21 | The Coastline as a Structural Constraint: Harnessing Scene Geometry for Autonomous Surface Vessel Localization | Derek R. Benham, Joshua G. Mangelson | [Abstract](https://arxiv.org/abs/2608.21276) · [PDF](https://arxiv.org/pdf/2608.21276) |
 | 2026-08-18 | OVIP-SG: Open-Vocabulary Instance-Preserving Scene Graphs for Mapping and Retrieval of Small, Fine-Grained Objects | Tianjing Hao, Haiyu Lan, Angsong Li, Cheng Chen et al. | [Abstract](https://arxiv.org/abs/2608.17633) · [PDF](https://arxiv.org/pdf/2608.17633) |
 | 2026-08-17 | X$^2$Localizer: Cross-grained Alignment for Progressive Cross-view Video Geo-localization | Zichao Zeng, Weijia Fan, Yufan Chen, June Moh Goo et al. | [Abstract](https://arxiv.org/abs/2608.16658) · [PDF](https://arxiv.org/pdf/2608.16658) |
 | 2026-08-17 | Multi-Observer Vehicle Localization Case Study with Roadside Radar and Connected Vehicle Sensing | Aleksi Pippuri, Nilusha Jayawickrama, Risto Ojala | [Abstract](https://arxiv.org/abs/2608.16966) · [PDF](https://arxiv.org/pdf/2608.16966) |
@@ -562,8 +559,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-08 | Toward Certifying Maps for Safe Registration-based Localization Under Adverse Conditions | Johann Laconte, Daniil Lisus, Timothy D. Barfoot | [Abstract](https://arxiv.org/abs/2309.04251) · [PDF](https://arxiv.org/pdf/2309.04251) |
 | 2023-09-01 | Learning State-Space Models for Mapping Spatial Motion Patterns | Junyi Shi, Tomasz Piotr Kucner | [Abstract](https://arxiv.org/abs/2309.00333) · [PDF](https://arxiv.org/pdf/2309.00333) |
 | 2023-08-25 | Correcting Motion Distortion for LIDAR HD-Map Localization | Matthew McDermott, Jason Rife | [Abstract](https://arxiv.org/abs/2308.13694) · [PDF](https://arxiv.org/pdf/2308.13694) |
-| 2023-08-23 | Operational requirements for localization in autonomous vehicles | Arpan Kusari, Satabdi Saha | [Abstract](https://arxiv.org/abs/2308.12277) · [PDF](https://arxiv.org/pdf/2308.12277) |
-| 2023-08-23 | Bayesian Online Learning for Human-assisted Target Localization | Min-Won Seo, Solmaz S. Kia | [Abstract](https://arxiv.org/abs/2308.11839) · [PDF](https://arxiv.org/pdf/2308.11839) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=VLA%20Architectures&specialty=Real-time%20%26%20On-device%20VLA#research-workbench)
 
-> 4 conference papers · 249 recent arXiv papers
+> 9 conference papers · 250 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,19 +14,25 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (4)
+## Conference papers (9)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | Quart-Online: Latency-Free Multimodal Large Language Model for Quadruped Robot Learning | ICRA · Large Language Model | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127693) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127693) |
+| 2025 | CLGA: A Collaborative LLM Framework for Dynamic Goal Assignment in Multi-Robot Systems | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11246692) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246692) |
 | 2025 | Computationally Efficient FPGA-based Large Language Model Inference for Real-Time Decision-Making in Robotic Systems | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11247019) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247019) |
-| 2024 | MResT: Multi-Resolution Sensing for Real-Time Control with Vision-Language Models | CoRL · Language Model | [Paper](https://arxiv.org/abs/2401.14502) · [Publisher](https://doi.org/10.48550/arXiv.2401.14502) |
+| 2025 | TR-LLM: Integrating Trajectory Data for Scene-Aware LLM-Based Human Action Prediction | IROS · Llm | [Paper](https://arxiv.org/abs/2410.03993) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246714) |
+| 2025 | Fast-in-Slow: A Dual-System VLA Model Unifying Fast Manipulation within Slow Reasoning | NeurIPS · Vla | [Paper](https://doi.org/10.52202/085713-3276) · [Publisher](https://doi.org/10.52202/085713-3276) |
+| 2025 | VLA-Cache: Efficient Vision-Language-Action Manipulation via Adaptive Token Caching | NeurIPS · Vision Language Action | [Paper](https://arxiv.org/abs/2502.02175) · [Publisher](https://doi.org/10.52202/085713-5484) |
+| 2024 | Fly by Book: How to Train a Humanoid Robot to Fly an Airplane using Large Language Models | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS58592.2024.10802288) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802288) |
+| 2024 | DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution | NeurIPS · Vla | [Paper](https://arxiv.org/abs/2411.02359) · [Publisher](https://doi.org/10.48550/arXiv.2411.02359) |
 | 2024 | Real-Time Anomaly Detection and Reactive Planning with Large Language Models | RSS · Large Language Model | [Paper](https://arxiv.org/abs/2407.08735) · [Publisher](https://doi.org/10.48550/arXiv.2407.08735) |
 
-## Recent arXiv papers (249)
+## Recent arXiv papers (250)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-21 | Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models | Zhuoyuan Li, Rui Zhao, Jin Wang, Hanwei Zhu et al. | [Abstract](https://arxiv.org/abs/2608.21247) · [PDF](https://arxiv.org/pdf/2608.21247) |
 | 2026-08-16 | ViTaR: Visuo-Tactile Residual Adaptation for Foundation VLA Manipulation | Yi Wang, Renjun Wu, Jinyan Liu, Xuesong Li | [Abstract](https://arxiv.org/abs/2608.15816) · [PDF](https://arxiv.org/pdf/2608.15816) |
 | 2026-08-16 | EcoVLA: Energy-Efficient Device-Edge Co-Inference for Vision-Language-Action Models under Real-Time Constraints | Ao Zhou, Bo Dai, Le Yu, Xingyu Liu et al. | [Abstract](https://arxiv.org/abs/2608.15502) · [PDF](https://arxiv.org/pdf/2608.15502) |
 | 2026-08-16 | Algorithm-Architecture Co-Design for Efficient VLA Inference via Speculative Inference and Verification | Chunyu Qi, Zhuoran Song, Jian Weng, Haozhe Jiang et al. | [Abstract](https://arxiv.org/abs/2608.15636) · [PDF](https://arxiv.org/pdf/2608.15636) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 121 conference papers · 177 recent arXiv papers
+> 99 conference papers · 177 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,41 +14,30 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (121)
+## Conference papers (99)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | AnyTouch: Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors | ICLR · Tactile | [Paper](https://arxiv.org/abs/2502.12191) · [Publisher](https://doi.org/10.48550/arXiv.2502.12191) |
-| 2025 | ACROSS: A Deformation-Based Cross-Modal Representation for Robotic Tactile Perception | ICRA · Tactile | [Paper](https://arxiv.org/abs/2411.08533) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127851) |
 | 2025 | Enhancing Adaptivity of Two-Fingered Object Reorientation Using Tactile-Based Online Optimization of Deconstructed Actions | ICRA · Tactile | [Paper](https://arxiv.org/abs/2503.11041) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127901) |
 | 2025 | FeelAnyForce: Estimating Contact Force Feedback from Tactile Sensation for Vision-Based Tactile Sensors | ICRA · Tactile | [Paper](https://arxiv.org/abs/2410.02048) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127723) |
 | 2025 | High-Resolution Reconstruction of Non-Planar Tactile Patterns From Low-Resolution Taxel-Based Tactile Sensors | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127544) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127544) |
-| 2025 | HumanFT: A Human-Like Fingertip Multimodal Visuo-Tactile Sensor | ICRA · Tactile | [Paper](https://arxiv.org/abs/2410.10353) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128300) |
 | 2025 | Learning Active Tactile Perception Through Belief-Space Control | ICRA · Tactile | [Paper](https://arxiv.org/abs/2312.00215) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127425) |
-| 2025 | Self-Mixing Laser Interferometry for Robotic Tactile Sensing | ICRA · Tactile | [Paper](https://arxiv.org/abs/2502.15390) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128331) |
 | 2025 | ShadowTac: Dense Measurement of Shear and Normal Deformation of a Tactile Membrane from Colored Shadows | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128441) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128441) |
 | 2025 | Shared Control for Cable Routing with Tactile Sensing | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127322) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127322) |
-| 2025 | TransForce: Transferable Force Prediction for Vision-Based Tactile Sensors with Sequential Image Translation | ICRA · Tactile | [Paper](https://arxiv.org/abs/2409.09870) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127381) |
 | 2025 | Whisker-Based Active Tactile Perception for Contour Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/abs/2507.23305) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128114) |
 | 2025 | A Lightweight 3-axis Permanent Magnetic Sponge-based Self-Adapting Tactile Sensor | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11247580) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247580) |
-| 2025 | Bio-Skin: A Cost-Effective Thermostatic Tactile Sensor with Multi-Modal Force and Temperature Detection | IROS · Tactile | [Paper](https://arxiv.org/abs/2503.07989) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246501) |
 | 2025 | Design of scalable orthogonal digital encoding architecture for large-area flexible tactile sensing in robotics | IROS · Tactile | [Paper](https://arxiv.org/abs/2509.10888) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245974) |
 | 2025 | DTactive: A Vision-Based Tactile Sensor with Active Surface | IROS · Tactile | [Paper](https://arxiv.org/abs/2410.08337) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247152) |
 | 2025 | Dynamic Layer Detection of Thin Materials using DenseTact Optical Tactile Sensors | IROS · Tactile | [Paper](https://arxiv.org/abs/2409.09849) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246688) |
 | 2025 | Enhancing Tactile Sensing in Robotics Using Null-Space Diffusion Model with EIT-based Sensors | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11246967) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246967) |
 | 2025 | Exploratory Movement Strategies for Texture Discrimination with a Neuromorphic Tactile Sensor | IROS · Tactile | [Paper](https://arxiv.org/abs/2509.14954) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247467) |
-| 2025 | Flexible Electronic Device with Multifunctional Tactile Perception for Enhanced Robotic Interaction | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11247251) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247251) |
-| 2025 | Learning Force Distribution Estimation for the GelSight Mini Optical Tactile Sensor Based on Finite Element Analysis | IROS · Tactile | [Paper](https://arxiv.org/abs/2411.03315) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246486) |
-| 2025 | R-Tac0: A Rounded High-Frequency Transferable Monochrome Vision-based Tactile Sensor for Shape Reconstruction | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11246144) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246144) |
-| 2025 | Sensing Differently: Unifying Vision, Language, Posture and Tactile in Robotic Perception | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11247209) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247209) |
 | 2025 | SMA-TENG Actuator with Tactile Sensing Capability | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11246367) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246367) |
 | 2025 | Soft Tactile Sensors for Robot Grippers Using Acoustic Sensing | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11245838) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245838) |
 | 2025 | SuperMag: Vision-based Tactile Data Guided High-resolution Tactile Shape Reconstruction for Magnetic Tactile Sensors | IROS · Tactile | [Paper](https://arxiv.org/abs/2507.20002) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246193) |
 | 2025 | Tactile-based force estimation for interaction control with robot fingers | IROS · Tactile | [Paper](https://arxiv.org/abs/2411.13335) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246923) |
-| 2025 | VET: A Visual-Electronic Tactile System for Immersive Human-Machine Interaction | IROS · Tactile | [Paper](https://arxiv.org/abs/2503.23440) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247401) |
 | 2025 | ViaTac: A High-Resolution Piezoresistive Tactile Sensor Array with Conformal Contact Surface for Shape Reconstruction | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11246894) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246894) |
 | 2025 | Vibrotactile Sensing for Detecting Misalignments in Precision Manufacturing | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11246759) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246759) |
-| 2025 | Enhancing Tactile-based Reinforcement Learning for Robotic Control | NeurIPS · Tactile | [Paper](https://arxiv.org/abs/2510.21609) · [Publisher](https://doi.org/10.48550/arXiv.2510.21609) |
 | 2024 | Binding Touch to Everything: Learning Unified Multimodal Tactile Representations | CVPR · Tactile | [Paper](https://arxiv.org/pdf/2401.18084) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.02488) |
 | 2024 | Sparsh: Self-supervised touch representations for vision-based tactile sensing | CoRL · Tactile | [Paper](https://arxiv.org/abs/2410.24090) · [Publisher](https://doi.org/10.48550/arXiv.2410.24090) |
 | 2024 | 1 kHz Behavior Tree for Self-adaptable Tactile Insertion | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610835) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610835) |
@@ -62,8 +51,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Learning Motion Reconstruction from Demonstration via Multi-Modal Soft Tactile Sensing | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610135) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610135) |
 | 2024 | Leveraging Compliant Tactile Perception for Haptic Blind Surface Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/abs/2402.18511) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610162) |
 | 2024 | MagicTac: A Novel High-Resolution 3D Multi-layer Grid-Based Tactile Sensor | ICRA · Tactile | [Paper](https://arxiv.org/abs/2402.01366) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610615) |
-| 2024 | Optimizing Multi-Touch Textile and Tactile Skin Sensing Through Circuit Parameter Estimation | ICRA · Tactile | [Paper](https://arxiv.org/abs/2404.15131) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610053) |
-| 2024 | Probabilistic Spiking Neural Network for Robotic Tactile Continual Learning | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610553) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610553) |
 | 2024 | RainbowSight: A Family of Generalizable, Curved, Camera-Based Tactile Sensors For Shape Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/abs/2409.13649) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10609863) |
 | 2024 | SATac: A Thermoluminescence Enabled Tactile Sensor for Concurrent Perception of Temperature, Pressure, and Shear | ICRA · Tactile | [Paper](https://arxiv.org/abs/2402.00585) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610373) |
 | 2024 | See to Touch: Learning Tactile Dexterity through Visual Incentives | ICRA · Tactile | [Paper](https://arxiv.org/abs/2309.12300) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611407) |
@@ -71,18 +58,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Tactile Embeddings for Multi-Task Learning | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611419) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611419) |
 | 2024 | Tactile Estimation of Extrinsic Contact Patch for Stable Placement | ICRA · Tactile | [Paper](https://arxiv.org/abs/2309.14552) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611504) |
 | 2024 | Tactile Robot Programming: Transferring Task Constraints into Constraint-Based Unified Force-Impedance Control | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610054) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610054) |
-| 2024 | Tactile-Informed Action Primitives Mitigate Jamming in Dense Clutter | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2402.09564) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610224) |
 | 2024 | TactileAR: Active Tactile Pattern Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2410.08619) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610669) |
 | 2024 | TEXterity: Tactile Extrinsic deXterity | ICRA · Tactile | [Paper](https://arxiv.org/abs/2401.10230) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610622) |
 | 2024 | Thermoformed electronic skins for conformal tactile sensor arrays | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610733) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610733) |
 | 2024 | ViTacTip: Design and Verification of a Novel Biomimetic Physical Vision-Tactile Fusion Sensor | ICRA · Tactile | [Paper](https://arxiv.org/abs/2402.00199) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611186) |
 | 2024 | What Matters for Active Texture Recognition With Vision-Based Tactile Sensors | ICRA · Tactile | [Paper](https://arxiv.org/abs/2403.13701) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610274) |
-| 2024 | 3D Localization of Objects Buried within Granular Material Using a Distributed 3-Axis Tactile Sensor | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS58592.2024.10802276) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802276) |
 | 2024 | A Case Study on Visual-Audio-Tactile Cross-Modal Retrieval | IROS · Tactile | [Paper](https://kclpure.kcl.ac.uk/portal/en/publications/1b4d6c16-6cfb-455c-823d-eac7d2defd0e) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802105) |
 | 2024 | A Novel Variable Stiffness Suspension System for Improved Stability and Control of Tactile Mobile Manipulators | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS58592.2024.10802223) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802223) |
 | 2024 | A Proxy-Tactile Reactive Control for Robots Moving in Clutter | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS58592.2024.10802341) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802341) |
 | 2024 | A Soft Robotic Finger Inspired by Biological Perception Models for Tactile Sensing | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS58592.2024.10802272) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802272) |
-| 2024 | CompdVision: Combining Near-Field 3D Visual and Tactile Sensing Using a Compact Compound-Eye Imaging System | IROS · Tactile | [Paper](https://arxiv.org/abs/2312.07146) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801461) |
 | 2024 | Contact Stability Control of Stepping Over Partial Footholds Using Plantar Tactile Feedback | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS58592.2024.10802686) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802686) |
 | 2024 | Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors | IROS · Tactile | [Paper](https://arxiv.org/abs/2407.14380) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801904) |
 | 2024 | Development of Permanent Magnet Elastomer-based Tactile Sensor with Adjustable Compliance and Sensitivity | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS58592.2024.10801819) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801819) |
@@ -98,11 +82,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Precise Robotic Needle-Threading with Tactile Perception and Reinforcement Learning | CoRL · Tactile | [Paper](https://arxiv.org/abs/2311.02396) · [Publisher](https://doi.org/10.48550/arXiv.2311.02396) |
 | 2023 | A Tactile Feedback Insertion Strategy for Peg-in-Hole Tasks | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160879) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160879) |
 | 2023 | Adaptive Optimal Electrical Resistance Tomography for Large-Area Tactile Sensing | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161048) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161048) |
-| 2023 | DenseTact 2.0: Optical Tactile Sensor for Shape and Force Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2209.10122) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161150) |
 | 2023 | DTact: A Vision-Based Tactile Sensor that Measures High-Resolution 3D Geometry Directly from Darkness | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2209.13916) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160796) |
 | 2023 | Enable Natural Tactile Interaction for Robot Dog based on Large-format Distributed Flexible Pressure Sensors | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2303.07595) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161049) |
 | 2023 | Estimating Tactile Models of Heterogeneous Deformable Objects in Real Time | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160731) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160731) |
-| 2023 | RobotSweater: Scalable, Generalizable, and Customizable Machine-Knitted Tactile Skins for Robots | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2303.02858) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161321) |
 | 2023 | Safe Self-Supervised Learning in Real of Visuo-Tactile Feedback Policies for Industrial Insertion | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2210.01340) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160763) |
 | 2023 | Tac-VGNN: A Voronoi Graph Neural Network for Pose-Based Tactile Servoing | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2303.02708) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160288) |
 | 2023 | Tactile based robotic skills for cable routing operations | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160729) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160729) |
@@ -112,13 +94,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Content Estimation Through Tactile Interactions with Deformable Containers | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS55552.2023.10342436) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342436) |
 | 2023 | Deep Functional Predictive Control (deep-FPC): Robot Pushing 3-D Cluster Using Tactile Prediction | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS55552.2023.10342410) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342410) |
 | 2023 | On the Potentials of Surface Tactile Imaging and Dilated Residual Networks for Early Detection of Colorectal Cancer Polyps | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS55552.2023.10342161) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342161) |
-| 2023 | Placing by Touching: An Empirical Study on the Importance of Tactile Sensing for Precise Object Placing | IROS · Tactile | [Paper](https://digital.csic.es/bitstream/10261/355082/1/IROS2023_Tactile_Placing.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342340) |
 | 2023 | Polymer-Based Self-Calibrated Optical Fiber Tactile Sensor | IROS · Tactile | [Paper](https://arxiv.org/pdf/2303.00619) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341656) |
 | 2023 | Push to Know! - Visuo-Tactile Based Active Object Parameter Inference with Dual Differentiable Filtering | IROS · Tactile | [Paper](https://arxiv.org/pdf/2308.01001) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341832) |
 | 2023 | Re-Evaluating Parallel Finger-Tip Tactile Sensing for Inferring Object Adjectives: An Empirical Study | IROS · Tactile | [Paper](https://arxiv.org/pdf/2303.06656) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342262) |
 | 2023 | Robotic Defect Inspection with Visual and Tactile Perception for Large-Scale Components | IROS · Tactile | [Paper](https://arxiv.org/pdf/2309.04590) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341590) |
-| 2023 | Touch if it's Transparent! ACTOR: Active Tactile-Based Category-Level Transparent Object Reconstruction | IROS · Tactile | [Paper](https://arxiv.org/abs/2307.16254) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341680) |
-| 2023 | Self-Supervised Visuo-Tactile Pretraining to Locate and Follow Garment Features | RSS · Tactile | [Paper](https://doi.org/10.15607/rss.2023.xix.018) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.018) |
+| 2023 | Touch if it's Transparent! ACTOR: Active Tactile-Based Category-Level Transparent Object Reconstruction | IROS · Tactile | [Paper](https://eprints.gla.ac.uk/315591/1/315591.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341680) |
 | 2022 | Learning the Dynamics of Compliant Tool-Environment Interaction for Visuo-Tactile Contact Servoing | CoRL · Tactile | [Paper](https://arxiv.org/abs/2210.03836) · [Publisher](https://doi.org/10.48550/arXiv.2210.03836) |
 | 2022 | VIRDO++: Real-World, Visuo-tactile Dynamics and Perception of Deformable Objects | CoRL · Tactile | [Paper](https://arxiv.org/abs/2210.03701) · [Publisher](https://doi.org/10.48550/arXiv.2210.03701) |
 | 2022 | A Robotic Lower Limb With Eight DoFs and Whole-Foot Tactile Perception for Anthropomorphic Behavior Performance* | ICRA · Tactile | [Paper](https://doi.org/10.1109/icra46639.2022.9811690) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811690) |
@@ -128,15 +108,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Design of a Biomimetic Tactile Sensor for Material Classification | ICRA · Tactile | [Paper](https://arxiv.org/abs/2203.15941) · [Publisher](https://doi.org/10.48550/arXiv.2203.15941) |
 | 2022 | Learning to Detect Slip with Barometric Tactile Sensors and a Temporal Convolutional Neural Network | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2202.09549) · [Publisher](https://doi.org/10.1109/ICRA46639.2022.9811592) |
 | 2022 | Learning to Synthesize Volumetric Meshes from Vision-based Tactile Imprints | ICRA · Tactile | [Paper](https://arxiv.org/abs/2203.15155) · [Publisher](https://doi.org/10.48550/arXiv.2203.15155) |
-| 2022 | Online Payload Identification for Tactile Robots Using the Momentum Observer | ICRA · Tactile | [Paper](https://doi.org/10.1109/icra46639.2022.9811691) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811691) |
 | 2022 | VIRDO: Visio-tactile Implicit Representations of Deformable Objects | ICRA · Tactile | [Paper](https://arxiv.org/abs/2202.00868) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812097) |
 | 2022 | Learning to Singulate Layers of Cloth using Tactile Feedback | IROS · Tactile | [Paper](https://arxiv.org/abs/2207.11196) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981341) |
 | 2022 | Semi-Supervised Disentanglement of Tactile Contact Geometry from Sliding-Induced Shear | IROS · Tactile | [Paper](https://arxiv.org/pdf/2208.12500) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982165) |
 | 2022 | Soft Tactile Contour Following for Robot-Assisted Wiping and Bathing | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS47612.2022.9982071) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982071) |
 | 2022 | Tactile Pattern Super Resolution with Taxel-based Sensors | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS47612.2022.9981062) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981062) |
-| 2022 | Tactile Perception for Growing Robots via Discrete Curvature Measurements | IROS · Tactile | [Paper](https://escholarship.org/content/qt7770v9w6/qt7770v9w6.pdf?t=rer14c) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981273) |
+| 2022 | Tactile Perception for Growing Robots via Discrete Curvature Measurements | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS47612.2022.9981273) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981273) |
 | 2022 | Tactile-Sensitive NewtonianVAE for High-Accuracy Industrial Connector Insertion | IROS · Tactile | [Paper](https://arxiv.org/pdf/2203.05955) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981610) |
-| 2022 | Whisker-Inspired Tactile Sensing for Contact Localization on Robot Manipulators | IROS · Tactile | [Paper](https://arxiv.org/pdf/2210.12387) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982122) |
 | 2022 | Action Conditioned Tactile Prediction: a case study on slip prediction | RSS · Tactile | [Paper](https://arxiv.org/pdf/2205.09430) · [Publisher](https://doi.org/10.48550/arXiv.2205.09430) |
 | 2022 | Understanding Dynamic Tactile Sensing for Liquid Property Estimation | RSS · Tactile | [Paper](https://arxiv.org/pdf/2205.08771) · [Publisher](https://doi.org/10.48550/arXiv.2205.08771) |
 

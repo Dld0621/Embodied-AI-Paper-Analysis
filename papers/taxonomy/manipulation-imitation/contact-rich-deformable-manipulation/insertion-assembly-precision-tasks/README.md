@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Contact-rich%20%26%20Deformable%20Manipulation&specialty=Insertion%2C%20Assembly%20%26%20Precision%20Tasks#research-workbench)
 
-> 77 conference papers · 329 recent arXiv papers
+> 95 conference papers · 329 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,7 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (77)
+## Conference papers (95)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -36,21 +36,32 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Context-Based Meta Reinforcement Learning for Robust and Adaptable Peg-in-Hole Assembly Tasks | IROS · Assembly | [Paper](https://arxiv.org/abs/2409.16208) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247014) |
 | 2025 | Dynamic planning and assembly for constructing mortar-joint multi-leaf stone masonry walls with a robotic arm | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS60139.2025.11246708) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246708) |
 | 2025 | Edit Distance Based Intention Estimation for Teleoperated Assembly | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS60139.2025.11247673) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247673) |
+| 2025 | eXplainable Intention Estimation in Teleoperated Manipulation Using Deep Dynamic Graph Neural Networks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11247376) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247376) |
 | 2025 | Eye-In-Finger: Smart Fingers for Delicate Assembly and Disassembly of LEGO | IROS · Assembly | [Paper](https://arxiv.org/abs/2503.06848) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246710) |
 | 2025 | GEAR: Gaze-Enabled Human-Robot Collaborative Assembly | IROS · Assembly | [Paper](https://arxiv.org/abs/2507.18947) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247310) |
 | 2025 | Hybrid Control Approach for Walking-Assembly Integrated Space Robots in On-Orbit Assembly* | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS60139.2025.11246896) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246896) |
 | 2025 | Multi-Robot Assembly of Deformable Linear Objects Using Multi-Modal Perception | IROS · Assembly | [Paper](https://arxiv.org/abs/2506.22034) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246285) |
+| 2025 | On the Role of Jacobians in Robust Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11247725) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247725) |
 | 2025 | Peg-in-hole assembly method based on visual reinforcement learning and tactile pose estimation | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS60139.2025.11246004) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246004) |
 | 2025 | Robust Robotic Assembly of Reusable, Rectangular Blocks | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS60139.2025.11246360) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246360) |
 | 2025 | Self-Assembly Planning for Modular Robots via Multi-Agent Path Finding on Time-Expanded Networks | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS60139.2025.11246674) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246674) |
+| 2025 | VDTF-ACT: ACT-based Multimodal Space Fine Manipulation Method with Visual Depth Tactile Fusion | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246342) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246342) |
+| 2025 | VibeCheck: Using Active Acoustic Tactile Sensing for Contact-Rich Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/abs/2504.15535) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246133) |
+| 2025 | Blindfolded Experts Generalize Better: Insights from Robotic Manipulation and Videogames | NeurIPS · Manipulation | [Paper](https://arxiv.org/abs/2510.24194) · [Publisher](https://doi.org/10.48550/arXiv.2510.24194) |
+| 2025 | Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections | NeurIPS · Manipulation | [Paper](https://arxiv.org/abs/2506.16685) · [Publisher](https://doi.org/10.48550/arXiv.2506.16685) |
+| 2025 | ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation | NeurIPS · Manipulation | [Paper](https://arxiv.org/abs/2505.22159) · [Publisher](https://doi.org/10.48550/arXiv.2505.22159) |
+| 2024 | MimicTouch: Leveraging Multi-modal Human Tactile Demonstrations for Contact-rich Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2310.16917) · [Index](https://dblp.org/rec/conf/corl/YuHWSX024) |
+| 2024 | Play to the Score: Stage-Guided Dynamic Multi-Sensory Fusion for Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2408.01366) · [Publisher](https://doi.org/10.48550/arXiv.2408.01366) |
 | 2024 | ASAP: Automated Sequence Planning for Complex Robotic Assembly with Physical Feasibility | ICRA · Assembly | [Paper](https://arxiv.org/abs/2309.16909) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611595) |
 | 2024 | Automated Assembly by Two-Fingered Microhand for Fabrication of Soft Magnetic Microrobots | ICRA · Assembly | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611042) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611042) |
+| 2024 | Constant-time Motion Planning with Anytime Refinement for Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2311.00837) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611675) |
 | 2024 | Generalize by Touching: Tactile Ensemble Skill Transfer for Robotic Furniture Assembly | ICRA · Assembly | [Paper](https://arxiv.org/abs/2404.17684) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610567) |
 | 2024 | Generalized Partially Destructive Disassembly Planning for Robotic Disassembly | ICRA · Assembly | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610546) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610546) |
 | 2024 | Hierarchical Deep Learning for Intention Estimation of Teleoperation Manipulation in Assembly Tasks | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2403.19770) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610388) |
 | 2024 | Human-Robot Complementary Collaboration for Flexible and Precision Assembly | ICRA · Assembly | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610825) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610825) |
 | 2024 | Multi-level Reasoning for Robotic Assembly: From Sequence Inference to Contact Selection | ICRA · Assembly | [Paper](https://arxiv.org/abs/2312.10571) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611259) |
 | 2024 | Self-Reconfigurable Robots for Collaborative Discrete Lattice Assembly | ICRA · Assembly | [Paper](https://doi.org/10.1109/ICRA57147.2024.10609866) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10609866) |
+| 2024 | Skill Learning in Robot-Assisted Micro-Manipulation Through Human Demonstrations with Attention Guidance | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610945) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610945) |
 | 2024 | Symmetry-aware Reinforcement Learning for Robotic Assembly under Partial Observability with a Soft Wrist | ICRA · Assembly | [Paper](https://arxiv.org/abs/2402.18002) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610103) |
 | 2024 | Toward Automated Programming for Robotic Assembly Using ChatGPT | ICRA · Assembly | [Paper](https://arxiv.org/abs/2405.08216) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610554) |
 | 2024 | Towards Safer and More Efficient Construction - The Development of a Multi-Robotic System for Heavy Block Assembly | ICRA · Assembly | [Paper](https://www.iaarc.org/./publications/fulltext/04_ICRA_2024_Paper_58.pdf) · [Publisher](https://doi.org/10.22260/icra2024/0006) |
@@ -58,7 +69,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Beyond Feasibility: Efficiently Planning Robotic Assembly Sequences That Minimize Assembly Path Lengths | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS58592.2024.10801475) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801475) |
 | 2024 | DECAF: a Discrete-Event based Collaborative Human-Robot Framework for Furniture Assembly | IROS · Assembly | [Paper](https://arxiv.org/abs/2408.16125) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802728) |
 | 2024 | DuCAS: a knowledge-enhanced dual-hand compositional action segmentation method for human-robot collaborative assembly | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS58592.2024.10802758) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802758) |
-| 2024 | JUICER: Data-Efficient Imitation Learning for Robotic Assembly | IROS · Assembly | [Paper](https://arxiv.org/pdf/2404.03729) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802498) |
+| 2024 | GenCHiP: Generating Robot Policy Code for High-Precision and Contact-Rich Manipulation Tasks | IROS · Manipulation | [Paper](https://arxiv.org/abs/2404.06645) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801525) |
+| 2024 | Harnessing with Twisting: Single-Arm Deformable Linear Object Manipulation for Industrial Harnessing Task | IROS · Manipulation | [Paper](https://arxiv.org/abs/2410.10729) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802801) |
 | 2024 | Knowledge-based Programming by Demonstration using semantic action models for industrial assembly | IROS · Assembly | [Paper](https://mediatum.ub.tum.de/1755316) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802511) |
 | 2024 | Ontology Based AI Planning and Scheduling for Robotic Assembly | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS58592.2024.10802295) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802295) |
 | 2024 | Optimal Robotic Assembly Sequence Planning (ORASP): A Sequential Decision-Making Approach | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS58592.2024.10802475) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802475) |
@@ -67,6 +79,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Sensor-agnostic Visuo-Tactile Robot Calibration Exploiting Assembly-Precision Model Geometries | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS58592.2024.10801647) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801647) |
 | 2024 | Using Augmented Reality in Human-Robot Assembly: A Comparative Study of Eye-Gaze and Hand-Ray Pointing Methods | IROS · Assembly | [Paper](https://www.repository.cam.ac.uk/bitstreams/11d9a52b-e984-46c0-97f0-33be5e52f13b/download) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802282) |
 | 2024 | AutoMate: Specialist and Generalist Assembly Policies over Diverse Geometries | RSS · Assembly | [Paper](https://arxiv.org/abs/2407.08028) · [Publisher](https://doi.org/10.48550/arXiv.2407.08028) |
+| 2023 | Efficient Sim-to-real Transfer of Contact-Rich Manipulation Skills with Online Admittance Residual Learning | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2310.10509) · [Publisher](https://doi.org/10.48550/arXiv.2310.10509) |
 | 2023 | Rearrangement Planning for General Part Assembly | CoRL · Assembly | [Paper](https://arxiv.org/abs/2307.00206) · [Index](https://dblp.org/rec/conf/corl/LiZS23) |
 | 2023 | A Non-planar Assembly of Modular Tetrahedral-shaped Aerial Robots | ICRA · Assembly | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161301) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161301) |
 | 2023 | Auto-Assembly: a framework for automated robotic assembly directly from CAD | ICRA · Assembly | [Paper](https://arxiv.org/pdf/2301.02643) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161376) |
@@ -79,21 +92,26 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Towards Generalized Robot Assembly through Compliance-Enabled Contact Formations | ICRA · Assembly | [Paper](https://arxiv.org/pdf/2303.05565) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161073) |
 | 2023 | Efficient and Feasible Robotic Assembly Sequence Planning via Graph Representation Learning | IROS · Assembly | [Paper](https://arxiv.org/pdf/2303.10135) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342352) |
 | 2023 | Flexible Gear Assembly with Visual Servoing and Force Feedback | IROS · Assembly | [Paper](https://arxiv.org/pdf/2303.03153) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341833) |
-| 2023 | Learning Contact-Based State Estimation for Assembly Tasks | IROS · Assembly | [Paper](https://www.research-collection.ethz.ch/bitstream/20.500.11850/624399/1/contact_based_state_estimation.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342219) |
+| 2023 | I2mpedance - A Passivity Based Integrative Impedance Controller for Precise and Compliant Manipulation and Interaction | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342370) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342370) |
+| 2023 | Learning Contact-Based State Estimation for Assembly Tasks | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS55552.2023.10342219) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342219) |
 | 2023 | Learning Robotic Assembly by Leveraging Physical Softness and Tactile Sensing | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS55552.2023.10341471) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341471) |
+| 2023 | Manipulation of Optical Force-Induced Micro-Assemblies at the Air-Liquid Interface | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS55552.2023.10341939) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341939) |
 | 2023 | Optimal Decision Making in Robotic Assembly and Other Trial-and-Error Tasks | IROS · Assembly | [Paper](https://arxiv.org/pdf/2301.10846) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341863) |
 | 2023 | SOLL-E: A Module Transport and Placement Robot for Autonomous Assembly of Discrete Lattice Structures | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS55552.2023.10341479) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341479) |
 | 2023 | Time-Optimal Point-To-Point Motion Planning and Assembly Mode Change of Cuspidal Manipulators: Application to 3R and 6R Robots | IROS · Assembly | [Paper](https://hal.science/hal-04472473/document) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341420) |
 | 2023 | IndustReal: Transferring Contact-Rich Assembly Tasks from Simulation to Reality | RSS · Assembly | [Paper](https://arxiv.org/abs/2305.17110) · [Publisher](https://doi.org/10.48550/arXiv.2305.17110) |
 | 2022 | Model-driven reinforcement learning and action dimension extension method for efficient asymmetric assembly | ICRA · Assembly | [Paper](https://doi.org/10.1109/icra46639.2022.9811792) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811792) |
+| 2022 | Symbolic State Estimation with Predicates for Contact-Rich Manipulation Tasks | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2203.02468) · [Publisher](https://doi.org/10.48550/arXiv.2203.02468) |
 | 2022 | 6D Robotic Assembly Based on RGB-only Object Pose Estimation | IROS · Assembly | [Paper](https://arxiv.org/pdf/2208.12986) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982262) |
 | 2022 | A General Method for Autonomous Assembly of Arbitrary Parts in the Presence of Uncertainty | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS47612.2022.9981276) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981276) |
-| 2022 | A Hierarchical Finite-State Machine-Based Task Allocation Framework for Human-Robot Collaborative Assembly Tasks | IROS · Assembly | [Paper](https://hdl.handle.net/11572/390954) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981618) |
+| 2022 | A Hierarchical Finite-State Machine-Based Task Allocation Framework for Human-Robot Collaborative Assembly Tasks | IROS · Assembly | [Paper](https://iris.unitn.it/bitstream/11572/390954/1/IROS_2022___A_Hierarchical_Finite_State_Machine_Based_Task_Allocation_Framework_for_Human_Robot_Collaborative_Assembly_Tasks.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981618) |
+| 2022 | A System for Imitation Learning of Contact-Rich Bimanual Manipulation Policies | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2208.00596) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981802) |
 | 2022 | Assembly Planning from Observations under Physical Constraints | IROS · Assembly | [Paper](https://arxiv.org/pdf/2204.09616) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981623) |
+| 2022 | Can we reach human expert programming performance? A tactile manipulation case study in learning time and task performance | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982025) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982025) |
 | 2022 | Flexible and Precision Snap-Fit Peg-in-Hole Assembly Based on Multiple Sensations and Damping Identification | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS47612.2022.9981639) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981639) |
 | 2022 | GoferBot: A Visual Guided Human-Robot Collaborative Assembly System | IROS · Assembly | [Paper](https://arxiv.org/pdf/2304.08840) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981122) |
-| 2022 | Graph-based Reinforcement Learning meets Mixed Integer Programs: An application to 3D robot assembly discovery | IROS · Assembly | [Paper](https://arxiv.org/pdf/2203.04120) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981784) |
 | 2022 | On CAD Informed Adaptive Robotic Assembly | IROS · Assembly | [Paper](https://arxiv.org/pdf/2208.01773) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982242) |
+| 2022 | Slip Anticipation for Grasping Deformable Objects Using a Soft Force Sensor | IROS · Grasp | [Paper](https://infoscience.epfl.ch/handle/20.500.14299/192207) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981174) |
 | 2022 | Factory: Fast Contact for Robotic Assembly | RSS · Assembly | [Paper](https://arxiv.org/abs/2205.03532) · [Publisher](https://doi.org/10.48550/arXiv.2205.03532) |
 
 ## Recent arXiv papers (329)

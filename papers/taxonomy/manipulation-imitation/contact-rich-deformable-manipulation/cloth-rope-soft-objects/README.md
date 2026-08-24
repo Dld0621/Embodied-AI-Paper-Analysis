@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Contact-rich%20%26%20Deformable%20Manipulation&specialty=Cloth%2C%20Rope%20%26%20Soft%20Objects#research-workbench)
 
-> 23 conference papers · 121 recent arXiv papers
+> 35 conference papers · 121 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,30 +14,42 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (23)
+## Conference papers (35)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | Geometry-aware RL for Manipulation of Varying Shapes and Deformable Objects | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2502.07005) · [Publisher](https://doi.org/10.48550/arXiv.2502.07005) |
 | 2025 | Learning Efficient Robotic Garment Manipulation with Standardization | ICML · Manipulation | [Paper](https://arxiv.org/abs/2506.22769) · [Publisher](https://doi.org/10.48550/arXiv.2506.22769) |
 | 2025 | Deformpam: Data-Efficient Learning for Long-Horizon Deformable Object Manipulation Via Preference-Based Action Alignment | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2410.11584) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127926) |
+| 2025 | General-Purpose Clothes Manipulation with Semantic Keypoints | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2408.08160) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128573) |
 | 2025 | Robust Optical Transceiver Manipulation in Cluttered Cable Environments Using 3D Scene Understanding and Planning | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127450) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127450) |
 | 2025 | Can Real-to-Sim Approaches Capture Dynamic Fabric Behavior for Robotic Fabric Manipulation? | IROS · Manipulation | [Paper](https://eprints.gla.ac.uk/view/author/67853.html>,) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245811) |
 | 2025 | DarkSeg: Infrared-Driven Semantic Segmentation for Garment Grasping Detection in Low-Light Conditions | IROS · Grasp | [Paper](https://pure-oai.bham.ac.uk/ws/files/285929291/IROS25_2609_FI.pdf) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247198) |
+| 2025 | Manipulation of Elasto-Flexible Cables with Single or Multiple UAVs | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2503.04304) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246978) |
 | 2024 | UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence | CVPR · Manipulation | [Paper](https://arxiv.org/pdf/2405.06903) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01546) |
 | 2024 | A Collision-Aware Cable Grasping Method in Cluttered Environment | ICRA · Grasp | [Paper](https://arxiv.org/abs/2402.14498) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610559) |
 | 2024 | Attention-Based Cloth Manipulation from Model-free Topological Representation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610241) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610241) |
+| 2024 | Collaborative Manipulation of Deformable Objects with Predictive Obstacle Avoidance | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2401.16560) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10609995) |
 | 2024 | DeformNet: Latent Space Modeling and Dynamics Prediction for Deformable Object Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2402.07648) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611243) |
 | 2024 | Force-based semantic representation and estimation of feature points for robotic cable manipulation with environmental contacts | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610686) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610686) |
 | 2024 | Learning Fabric Manipulation in the Real World with Human Videos | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2211.02832) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610062) |
 | 2024 | SculptBot: Pre-Trained Models for 3D Deformable Object Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2309.08728) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610899) |
 | 2024 | Standardization of Cloth Objects and its Relevance in Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2403.04608) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610630) |
 | 2024 | Cooperative Modular Manipulation with Numerous Cable-Driven Robots for Assistive Construction and Gap Crossing | IROS · Manipulation | [Paper](https://arxiv.org/abs/2403.13124) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801616) |
+| 2024 | MANIP: A Modular Architecture for Integrating Interactive Perception for Robot Manipulation | IROS · Manipulation | [Paper](https://escholarship.org/uc/item/0qk2269m) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801746) |
+| 2024 | Task-Driven Manipulation with Reconfigurable Parallel Robots | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2403.10768) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801313) |
+| 2024 | AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2407.07889) · [Publisher](https://doi.org/10.48550/arXiv.2407.07889) |
+| 2023 | Autonomous Manipulation Learning for Similar Deformable Objects via Only One Demonstration | CVPR · Manipulation | [Paper](https://doi.org/10.1109/CVPR52729.2023.01637) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.01637) |
+| 2023 | HANDLOOM: Learned Tracing of One-Dimensional Objects for Inspection and Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2303.08975) · [Index](https://dblp.org/rec/conf/corl/ViswanathSPAKIC23) |
+| 2023 | Bi-Manual Manipulation of Multi-Component Garments towards Robot-Assisted Dressing | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161335) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161335) |
 | 2023 | Goal-Conditioned Action Space Reduction for Deformable Object Manipulation | ICRA · Manipulation | [Paper](https://eprints.whiterose.ac.uk/197058/1/ICRA23_1884_FI.pdf) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161541) |
 | 2023 | Goal-Image Conditioned Dynamic Cable Manipulation through Bayesian Inference and Multi-Objective Black-Box Optimization | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2301.11538) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160884) |
+| 2023 | Learning to Grasp Clothing Structural Regions for Garment Manipulation Tasks | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2306.14553) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342086) |
 | 2023 | Multi-Dimensional Deformable Object Manipulation Using Equivariant Models | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS55552.2023.10341618) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341618) |
 | 2023 | Quadratic Dynamic Matrix Control for Fast Cloth Manipulation | IROS · Manipulation | [Paper](https://upcommons.upc.edu/bitstreams/14be0a3b-9c7e-4595-9989-7cdcbf746561/download) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341850) |
 | 2023 | Rapid Grasping of Fabric Using Bionic Soft Grippers with Elastic Instability | IROS · Grasp | [Paper](https://arxiv.org/pdf/2301.09688) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341428) |
 | 2023 | SoftGPT: Learn Goal-Oriented Soft Object Manipulation Skills by Generative Pre-Trained Heterogeneous Graph Transformer | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2306.12677) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341846) |
+| 2022 | ToolFlowNet: Robotic Manipulation with Tools via Predicting Tool Flow from Point Clouds | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2211.09006) · [Publisher](https://doi.org/10.48550/arXiv.2211.09006) |
 | 2022 | DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object Manipulations with Tools | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2203.17275) · [Publisher](https://doi.org/10.48550/arXiv.2203.17275) |
 | 2022 | Reactive Motion Planning for Rope Manipulation and Collision Avoidance using Aerial Robots | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981658) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981658) |
 | 2022 | Mesh-based Dynamics with Occlusion Reasoning for Cloth Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/pdf/2206.02881) · [Publisher](https://doi.org/10.48550/arXiv.2206.02881) |

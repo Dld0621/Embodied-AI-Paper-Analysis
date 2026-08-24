@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Exploration%20%26%20Active%20Mapping&specialty=Active%20Mapping%20%26%20Reconstruction#research-workbench)
 
-> 0 conference papers · 11 recent arXiv papers
+> 1 conference papers · 11 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,9 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (0)
+## Conference papers (1)
 
-No conference papers currently map to this specialty.
+| Year | Paper | Venue / topic | Online links |
+|---:|---|---|---|
+| 2022 | Exploration with Global Consistency Using Real-Time Re-integration and Active Loop Closure | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2204.02693) · [Publisher](https://doi.org/10.48550/arXiv.2204.02693) |
 
 ## Recent arXiv papers (11)
 

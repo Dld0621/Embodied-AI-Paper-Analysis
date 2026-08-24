@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=Task%20%26%20Long-horizon%20Planning#research-workbench)
 
-> 29 conference papers · 228 recent arXiv papers
+> 47 conference papers · 228 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,39 +14,57 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (29)
+## Conference papers (47)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks | ICCV · Vla | [Paper](https://arxiv.org/abs/2412.18194) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01037) |
-| 2025 | AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement | ICRA · Llm | [Paper](https://arxiv.org/abs/2502.02067) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128062) |
+| 2025 | BadRobot: Jailbreaking Embodied LLM Agents in the Physical World | ICLR · Llm | [Paper](https://arxiv.org/abs/2407.20242) · [Index](https://dblp.org/rec/conf/iclr/ZhangZ00YLXWHLG25) |
 | 2025 | AlignBot: Aligning VLM-Powered Customized Task Planning with User Reminders Through Fine-Tuning for Household Robots | ICRA · Vlm | [Paper](https://arxiv.org/abs/2409.11905) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128775) |
+| 2025 | COHERENT: Collaboration of Heterogeneous Multi-Robot System with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2409.15146) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127808) |
 | 2025 | ConceptAgent: LLM-Driven Precondition Grounding and Tree Search for Robust Task Planning and Execution | ICRA · Llm | [Paper](https://arxiv.org/abs/2410.06108) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128414) |
 | 2025 | DELTA: Decomposed Efficient Long-Term Robot Task Planning Using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2404.03275) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127838) |
 | 2025 | Fast and Accurate Task Planning using Neuro-Symbolic Language Models and Multi-Level Goal Decomposition | ICRA · Language Model | [Paper](https://arxiv.org/abs/2409.19250) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127617) |
 | 2025 | Guiding Long-Horizon Task and Motion Planning with Vision Language Models | ICRA · Language Model | [Paper](https://arxiv.org/abs/2410.02193) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128705) |
 | 2025 | Large Language Model Based Autonomous Task Planning for Abstract Commands | ICRA · Large Language Model | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128343) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128343) |
 | 2025 | LLM-as-BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning | ICRA · Llm | [Paper](https://arxiv.org/abs/2409.10444) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128454) |
-| 2025 | Retrieval-Augmented Hierarchical in-Context Reinforcement Learning and Hindsight Modular Reflections for Task Planning with LLMs | ICRA · Llm | [Paper](https://arxiv.org/abs/2408.06520) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128105) |
+| 2025 | MultiTalk: Introspective and Extrospective Dialogue for Human-Environment-LLM Alignment | ICRA · Llm | [Paper](https://arxiv.org/abs/2409.16455) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128486) |
 | 2025 | Self-Corrective Task Planning by Inverse Prompting with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2503.07317) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128028) |
+| 2025 | SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2409.19471) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128420) |
+| 2025 | DEXTER-LLM: Dynamic and Explainable Coordination of Multi-Robot Systems in Unknown Environments via Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2508.14387) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247301) |
 | 2025 | DRP: A Decomposition-Reflection-Prediction Framework for Long-Horizon Robot Task Planning using Large Language Models | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11245900) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245900) |
 | 2025 | FCRF: Flexible Constructivism Reflection for Long-Horizon Robotic Task Planning with Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2507.14975) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246083) |
+| 2025 | Interactive Object Detection by Mitigating Uncertainty of Robot Task Plans using Large Language Model | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246834) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246834) |
 | 2025 | Large Language Model-Based Robot Task Planning from Voice Command Transcriptions | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246378) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246378) |
 | 2025 | LightPlanner: Unleashing the Reasoning Capabilities of Lightweight Large Language Models in Task Planning | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2503.08508) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247436) |
+| 2025 | LLM-CBT: LLM-Driven Closed-Loop Behavior Tree Planning for Heterogeneous UAV-UGV Swarm Collaboration | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11246793) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246793) |
 | 2025 | LLM-Driven Hierarchical Planning: Long-horizon Task Allocation for Multi-Robot Systems in Cross-Regional Environments | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11247013) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247013) |
 | 2025 | Multimodal Autonomous Robotic Long-Horizon Task Planning via Embodied Language Model and Behavior Trees | IROS · Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246018) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246018) |
 | 2025 | RoboDexVLM: Visual Language Model-Enabled Task Planning and Motion Control for Dexterous Robot Manipulation | IROS · Language Model | [Paper](https://arxiv.org/abs/2503.01616) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247714) |
 | 2025 | Safety Aware Task Planning via Large Language Models in Robotics | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2503.15707) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246041) |
 | 2025 | Triple-S: A Collaborative Multi-LLM Framework for Solving Long-Horizon Implicative Tasks in Robotics | IROS · Llm | [Paper](https://arxiv.org/abs/2508.07421) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246810) |
+| 2025 | ROVER: Recursive Reasoning Over Videos with Vision-Language Models for Embodied Tasks | NeurIPS · Language Model | [Paper](https://arxiv.org/abs/2508.01943) · [Publisher](https://doi.org/10.48550/arXiv.2508.01943) |
 | 2024 | APRICOT: Active Preference Learning and Constraint-Aware Task Planning with LLMs | CoRL · Llm | [Paper](https://arxiv.org/abs/2410.19656) · [Publisher](https://doi.org/10.48550/arXiv.2410.19656) |
+| 2024 | GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs | CoRL · Llm | [Paper](https://arxiv.org/abs/2410.03645) · [Publisher](https://doi.org/10.48550/arXiv.2410.03645) |
+| 2024 | SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment | CoRL · Llm | [Paper](https://arxiv.org/abs/2410.18907) · [Publisher](https://doi.org/10.48550/arXiv.2410.18907) |
 | 2024 | Trust the PRoC3S: Solving Long-Horizon Robotics Problems with LLMs and Constraint Satisfaction | CoRL · Llm | [Paper](https://arxiv.org/abs/2406.05572) · [Publisher](https://doi.org/10.48550/arXiv.2406.05572) |
 | 2024 | Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks | ICLR · Language Model | [Paper](https://arxiv.org/abs/2405.01534) · [Publisher](https://doi.org/10.48550/arXiv.2405.01534) |
+| 2024 | AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers | ICRA · Llm | [Paper](https://arxiv.org/abs/2306.06531) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611163) |
 | 2024 | FLTRNN: Faithful Long-Horizon Task Planning for Robotics with Large Language Models | ICRA · Large Language Model | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611663) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611663) |
+| 2024 | From Cooking Recipes to Robot Task Trees – Improving Planning Correctness and Task Efficiency by Leveraging LLMs with a Knowledge Network | ICRA · Llm | [Paper](https://arxiv.org/abs/2309.09181) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611369) |
 | 2024 | GG-LLM: Geometrically Grounding Large Language Models for Zero-shot Human Activity Forecasting in Human-Aware Task Planning | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2310.20034) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611090) |
 | 2024 | ISR-LLM: Iterative Self-Refined Large Language Model for Long-Horizon Sequential Task Planning | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2308.13724) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610065) |
+| 2024 | Optimal Scene Graph Planning with Large Language Model Guidance | ICRA · Large Language Model | [Paper](https://escholarship.org/content/qt0q94c5zp/qt0q94c5zp.pdf) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610599) |
 | 2024 | PlanCollabNL: Leveraging Large Language Models for Adaptive Plan Generation in Human-Robot Collaboration | ICRA · Large Language Model | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610055) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610055) |
+| 2024 | Scalable Multi-Robot Collaboration with Large Language Models: Centralized or Decentralized Systems? | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2309.15943) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610676) |
+| 2024 | CoPa: General Robotic Manipulation through Spatial Constraints of Parts with Foundation Models | IROS · Foundation Model | [Paper](https://arxiv.org/abs/2403.08248) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801352) |
+| 2024 | DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences | IROS · Llm | [Paper](https://arxiv.org/pdf/2406.03008) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802555) |
+| 2024 | Ensuring Safety in LLM-Driven Robotics: A Cross-Layer Sequence Supervision Mechanism | IROS · Llm | [Paper](https://doi.org/10.1109/IROS58592.2024.10801576) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801576) |
 | 2024 | SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2309.10062) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802322) |
 | 2024 | Task Planning for Long-Horizon Cooking Tasks Based on Large Language Models | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS58592.2024.10801687) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801687) |
+| 2023 | GenSim: Generating Robotic Simulation Tasks via Large Language Models | ICLR · Large Language Model | [Paper](https://arxiv.org/pdf/2310.01361) · [Publisher](https://doi.org/10.48550/arXiv.2310.01361) |
+| 2023 | ProgPrompt: Generating Situated Robot Task Plans using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2209.11302) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161317) |
+| 2023 | Generating Executable Action Plans with Environmentally-Aware Language Models | IROS · Language Model | [Paper](https://arxiv.org/pdf/2210.04964) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341989) |
 
 ## Recent arXiv papers (228)
 

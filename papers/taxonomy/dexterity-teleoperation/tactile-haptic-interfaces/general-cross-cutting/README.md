@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Tactile%20%26%20Haptic%20Interfaces&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 3 conference papers · 2 recent arXiv papers
+> 2 conference papers · 2 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,11 +14,10 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (3)
+## Conference papers (2)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | Design, Implementation, and Validation of an Ungrounded Visuo-Tactile Haptic Interface for Robotic Teleoperation in High-Risk Steel Production | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128864) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128864) |
 | 2025 | Touch-Linked Sleeve: A Haptic Interface for Augmented Tactile Perception in Robotic Teleoperation | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS60139.2025.11245835) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245835) |
 | 2022 | Multi-fingered Tactile Servoing for Grasping Adjustment under Partial Observation | IROS · Multi Finger | [Paper](https://doi.org/10.1109/IROS47612.2022.9981464) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981464) |
 

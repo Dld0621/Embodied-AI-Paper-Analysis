@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Grasping%20%26%20Object%20Interaction&specialty=Pick-place%20%26%20Object%20Rearrangement#research-workbench)
 
-> 36 conference papers · 163 recent arXiv papers
+> 59 conference papers · 163 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,44 +14,67 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (36)
+## Conference papers (59)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | IntelliRMS: A Robotic Manipulation System for Domain-Specific Tasks Using Vision and Language Foundational Models | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127298) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127298) |
 | 2025 | ORLA*: Mobile Manipulator-Based Object Rearrangement with Lazy A* | ICRA · Object Rearrangement | [Paper](https://arxiv.org/abs/2309.13707) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127569) |
 | 2025 | Planning for Tabletop Object Rearrangement | ICRA · Object Rearrangement | [Paper](https://arxiv.org/abs/2411.10899) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127905) |
+| 2025 | Synthesizing Grasps and Regrasps for Complex Manipulation Tasks | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2501.18075) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128212) |
+| 2025 | ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2503.23877) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128283) |
+| 2025 | B4P: Simultaneous Grasp and Motion Planning for Object Placement via Parallelized Bidirectional Forests and Path Repair | IROS · Grasp | [Paper](https://arxiv.org/abs/2504.04598) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246350) |
 | 2025 | Collision Avoidance with Differentiable Occupancy Functions in Object Rearrangement | IROS · Object Rearrangement | [Paper](https://doi.org/10.1109/IROS60139.2025.11245806) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245806) |
 | 2025 | Data-Bootstrapped, Physics-Informed Framework for Object Rearrangement | IROS · Object Rearrangement | [Paper](https://doi.org/10.1109/IROS60139.2025.11247659) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247659) |
+| 2025 | Disentangled Object-Centric Image Representation for Robotic Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/abs/2503.11565) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246704) |
+| 2025 | Haptic-ACT: Bridging Human Intuition with Compliant Robotic Manipulation via Immersive VR | IROS · Manipulation | [Paper](https://arxiv.org/abs/2409.11925) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247471) |
+| 2025 | Investigating the Fitness of Finger Grippers for Dynamic Tactile Manipulation Under Static Object Conditions | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11247504) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247504) |
+| 2025 | JENGA: Object selection and pose estimation for robotic grasping from a stack | IROS · Grasp | [Paper](https://arxiv.org/abs/2506.13425) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245828) |
 | 2025 | Language-Guided Hierarchical Planning with Scene Graphs for Tabletop Object Rearrangement | IROS · Object Rearrangement | [Paper](https://doi.org/10.1109/IROS60139.2025.11247525) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247525) |
 | 2025 | Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups | IROS · Pick And Place | [Paper](https://arxiv.org/abs/2503.00370) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246653) |
 | 2025 | Simultaneous Pick and Place Detection by Combining SE(3) Diffusion Models with Differential Kinematics | IROS · Pick And Place | [Paper](https://arxiv.org/abs/2504.19502) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247030) |
+| 2024 | Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2401.12046) · [Publisher](https://doi.org/10.48550/arXiv.2401.12046) |
+| 2024 | Amortized Inference for Efficient Grasp Model Adaptation | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610789) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610789) |
 | 2024 | Efficient End-to-End Detection of 6-DoF Grasps for Robotic Bin Picking | ICRA · Grasp | [Paper](https://arxiv.org/abs/2405.06336) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611417) |
 | 2024 | Efficient Object Rearrangement via Multi-view Fusion | ICRA · Object Rearrangement | [Paper](https://arxiv.org/abs/2309.08994) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611213) |
+| 2024 | Improved M4M: Faster and Richer Planning for Manipulation Among Movable Objects in Cluttered 3D Workspaces | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611234) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611234) |
 | 2024 | Language-guided Active Sensing of Confined, Cluttered Environments via Object Rearrangement Planning | ICRA · Object Rearrangement | [Paper](https://arxiv.org/abs/2402.02308) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610296) |
 | 2024 | Learning Dual-arm Object Rearrangement for Cartesian Robots | ICRA · Object Rearrangement | [Paper](https://arxiv.org/abs/2402.13634) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610573) |
+| 2024 | Object-Centric Instruction Augmentation for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2401.02814) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10609992) |
 | 2024 | Pseudo Labeling and Contextual Curriculum Learning for Online Grasp Learning in Robotic Bin Picking | ICRA · Grasp | [Paper](https://arxiv.org/abs/2403.02495) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611348) |
 | 2024 | SG-Bot: Object Rearrangement via Coarse-to-Fine Robotic Imagination on Scene Graphs | ICRA · Object Rearrangement | [Paper](https://arxiv.org/abs/2309.12188) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610792) |
 | 2024 | Toward Optimal Tabletop Rearrangement with Multiple Manipulation Primitives | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2310.00167) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610565) |
+| 2024 | Avoiding Object Damage in Robotic Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801408) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801408) |
 | 2024 | Multi-Stage Monte Carlo Tree Search for Non-Monotone Object Rearrangement Planning in Narrow Confined Environments | IROS · Object Rearrangement | [Paper](https://arxiv.org/abs/2305.17175) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801607) |
 | 2024 | Precise Pick-and-Place using Score-Based Diffusion Networks | IROS · Pick And Place | [Paper](https://arxiv.org/abs/2409.09725) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801772) |
 | 2024 | Seg2Grasp: A Robust Modular Suction Grasping in Bin Picking | IROS · Grasp | [Paper](https://arxiv.org/pdf/2607.17757) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801644) |
 | 2024 | Time-Optimal TCP and Robot Base Placement for Pick-and-Place Tasks in Highly Constrained Environments | IROS · Pick And Place | [Paper](https://doi.org/10.1109/IROS58592.2024.10801373) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801373) |
-| 2024 | Visual Imitation Learning of Task-Oriented Object Grasping and Rearrangement | IROS · Grasp | [Paper](https://arxiv.org/pdf/2403.14000) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801466) |
+| 2023 | KITE: Keypoint-Conditioned Policies for Semantic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2306.16605) · [Publisher](https://doi.org/10.48550/arXiv.2306.16605) |
 | 2023 | M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place | CoRL · Pick And Place | [Paper](https://arxiv.org/abs/2311.00926) · [Publisher](https://doi.org/10.48550/arXiv.2311.00926) |
+| 2023 | Manipulate by Seeing: Creating Manipulation Controllers from Pre-Trained Representations | ICCV · Manipulation | [Paper](https://arxiv.org/abs/2303.08135) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.00357) |
 | 2023 | A Bioinspired Synthetic Nervous System Controller for Pick-and-Place Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2305.10954) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161198) |
 | 2023 | CabiNet: Scaling Neural Collision Detection for Object Rearrangement with Procedural Scene Generation | ICRA · Object Rearrangement | [Paper](https://arxiv.org/pdf/2304.09302) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161528) |
+| 2023 | Pick2Place: Task-aware 6DoF Grasp Estimation via Object-Centric Perspective Affordance | ICRA · Grasp | [Paper](https://arxiv.org/abs/2304.04100) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160736) |
+| 2023 | Planning for Multi-Object Manipulation with Graph Neural Network Relational Classifiers | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2209.11943) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161204) |
 | 2023 | Train What You Know – Precise Pick-and-Place with Transporter Networks | ICRA · Pick And Place | [Paper](https://arxiv.org/abs/2302.09000) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161242) |
+| 2023 | A Cartesian Platform for Cooperative Multi-Robot Manipulation Tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342469) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342469) |
 | 2023 | Adversarial Object Rearrangement in Constrained Environments with Heterogeneous Graph Neural Networks | IROS · Object Rearrangement | [Paper](https://arxiv.org/pdf/2309.15378) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342412) |
+| 2023 | Autonomous Marker-Less Rapid Aerial Grasping | IROS · Grasp | [Paper](https://arxiv.org/pdf/2211.13093) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342033) |
 | 2023 | ConSOR: A Context-Aware Semantic Object Rearrangement Framework for Partially Arranged Scenes | IROS · Object Rearrangement | [Paper](https://arxiv.org/pdf/2310.00371) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341873) |
+| 2023 | Constrained Generative Sampling of 6-DoF Grasps | IROS · Grasp | [Paper](https://arxiv.org/pdf/2302.10745) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341344) |
 | 2023 | Generating Scenarios from High-Level Specifications for Object Rearrangement Tasks | IROS · Object Rearrangement | [Paper](https://kth.diva-portal.org/smash/get/diva2:1831236/FULLTEXT01) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341369) |
-| 2023 | Model-Free Grasping with Multi-Suction Cup Grippers for Robotic Bin Picking | IROS · Grasp | [Paper](https://arxiv.org/pdf/2307.16488) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341555) |
+| 2023 | Human Preferred Augmented Reality Visual Cues for Remote Robot Manipulation Assistance: from Direct to Supervisory Control | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS55552.2023.10341969) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341969) |
+| 2023 | Multi-Modal Planning on Regrasping for Stable Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2309.15283) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341842) |
 | 2023 | Object Rearrangement Planning for Target Retrieval in a Confined Space with Lateral View | IROS · Object Rearrangement | [Paper](https://doi.org/10.1109/IROS55552.2023.10341865) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341865) |
 | 2023 | Optimal and Stable Multi-Layer Object Rearrangement on a Tabletop | IROS · Object Rearrangement | [Paper](https://arxiv.org/pdf/2306.14251) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342446) |
 | 2023 | Towards Safe and Aggressive Motion Generation for Dynamic Targets Pick-and-Place | IROS · Pick And Place | [Paper](https://doi.org/10.1109/IROS55552.2023.10341580) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341580) |
 | 2022 | IFOR: Iterative Flow Minimization for Robotic Object Rearrangement | CVPR · Object Rearrangement | [Paper](https://arxiv.org/pdf/2202.00732) · [Publisher](https://doi.org/10.1109/CVPR52688.2022.01437) |
+| 2022 | Learning Dense Visual Descriptors using Image Augmentations for Robot Manipulation Tasks | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2209.05213) · [Publisher](https://doi.org/10.48550/arXiv.2209.05213) |
 | 2022 | Selective Object Rearrangement in Clutter | CoRL · Object Rearrangement | [Paper](https://www.semanticscholar.org/paper/b0bfdb66a81565e9f54898e56f4938618b243eb7) · [Index](https://dblp.org/rec/conf/corl/TangS22) |
 | 2022 | Learning to Pick by Digging: Data-Driven Dig-Grasping for Bin Picking from Clutter | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra46639.2022.9811736) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811736) |
 | 2022 | Using Eye Gaze to Forecast Human Pose in Everyday Pick and Place Actions | ICRA · Pick And Place | [Paper](https://doi.org/10.1109/icra46639.2022.9812079) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812079) |
+| 2022 | Intention estimation from gaze and motion features for human-robot shared-control object manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2208.08688) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982249) |
+| 2022 | Metal Wire Manipulation Planning for 3D Curving - A Low Payload Robot that Uses a Bending Machine to Bend High-Stiffness Wire | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981672) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981672) |
 | 2022 | Rearrangement-Based Manipulation via Kinodynamic Planning and Dynamic Planning Horizons | IROS · Manipulation | [Paper](https://arxiv.org/abs/2208.02312) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981599) |
 | 2022 | Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement | IROS · Object Rearrangement | [Paper](https://arxiv.org/pdf/2207.08078) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981715) |
 

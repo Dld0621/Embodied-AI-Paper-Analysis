@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Stairs%2C%20Terrain%20%26%20Rough-ground%20Traversal#research-workbench)
 
-> 12 conference papers · 63 recent arXiv papers
+> 22 conference papers · 63 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,22 +14,32 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (12)
+## Conference papers (22)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | Robust Reinforcement Learning-Based Locomotion for Resource-Constrained Quadrupeds with Exteroceptive Sensing | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2505.12537) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128474) |
 | 2025 | Terrain-Aware Model Predictive Control of Heterogeneous Bipedal and Aerial Robot Coordination for Search and Rescue Tasks | ICRA · Biped | [Paper](https://arxiv.org/abs/2409.15174) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128808) |
+| 2025 | A Ribbed Hybrid Rigid-Flexible Tail with Graded Stiffness and Anisotropic Friction for Enhanced Robot Locomotion and Fall Damage Prevention | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11247392) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247392) |
 | 2025 | BeeTLe: Blind Terrain-aware Learned Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11246775) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246775) |
+| 2025 | Design and Control of SeparaTrek: A Hybrid Aerial-Ground Robot with Separable and Combinative Locomotion Parts | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11246756) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246756) |
 | 2025 | FlipWalker: Jacob’s Ladder toy-inspired robot for locomotion across diverse, complex terrain | IROS · Locomotion | [Paper](https://arxiv.org/abs/2508.19380) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247396) |
 | 2025 | Learning Perceptive Humanoid Locomotion over Challenging Terrain | IROS · Humanoid | [Paper](https://arxiv.org/abs/2503.00692) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247685) |
 | 2025 | Learning to Exploit Leg Odometry Enables Terrain-Aware Quadrupedal Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11247127) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247127) |
+| 2025 | MoE-Loco: Mixture of Experts for Multitask Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/abs/2503.08564) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246585) |
+| 2025 | Prototypes, Mathematical Modeling and Motion Analysis of Heptagonal Passive Rotating Locomotion Robots with Elastic Elements Arranged on Diagonal Lines | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11246716) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246716) |
 | 2025 | Teacher Motion Priors: Enhancing Robot Locomotion over Challenging Terrain | IROS · Locomotion | [Paper](https://arxiv.org/abs/2504.10390) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247486) |
 | 2025 | VMTS: Vision-Assisted Teacher-Student Reinforcement Learning for Multi-Terrain Locomotion in Bipedal Robots | IROS · Locomotion | [Paper](https://arxiv.org/abs/2503.07049) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245927) |
+| 2024 | Learning Decentralized Multi-Biped Control for Payload Transport | CoRL · Biped | [Paper](https://arxiv.org/abs/2406.17279) · [Publisher](https://doi.org/10.48550/arXiv.2406.17279) |
 | 2024 | A Fast Motion and Foothold Planning Framework for Legged Robots on Discrete Terrain | IROS · Legged | [Paper](https://doi.org/10.1109/IROS58592.2024.10802606) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802606) |
 | 2024 | Bipedal Safe Navigation over Uncertain Rough Terrain: Unifying Terrain Mapping and Locomotion Stability | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2403.16356) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802816) |
-| 2023 | DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2301.10602) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161144) |
+| 2023 | Neural Volumetric Memory for Visual Locomotion Control | CVPR · Locomotion | [Paper](https://arxiv.org/pdf/2304.01201) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.00144) |
+| 2023 | Learning Modular Robot Visual-motor Locomotion Policies | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2210.17486) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160845) |
+| 2023 | Mobility Analysis of Screw-Based Locomotion and Propulsion in Various Media | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2301.10878) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160777) |
+| 2023 | Learning Terrain-Adaptive Locomotion with Agile Behaviors by Imitating Animals | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2308.03273) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342271) |
 | 2023 | Locomotion Planning of a Truss Robot on Irregular Terrain | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS55552.2023.10341447) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341447) |
 | 2023 | mCLARI: A Shape-Morphing Insect-Scale Robot Capable of Omnidirectional Terrain-Adaptive Locomotion in Laterally Confined Spaces | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2310.04538) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341588) |
+| 2022 | PI-ARS: Accelerating Evolution-Learned Visual-Locomotion with Predictive Information Representations | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2207.13224) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981952) |
 
 ## Recent arXiv papers (63)
 

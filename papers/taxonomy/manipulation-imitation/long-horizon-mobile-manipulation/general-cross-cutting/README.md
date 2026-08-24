@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 17 conference papers · 70 recent arXiv papers
+> 19 conference papers · 70 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,27 +14,29 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (17)
+## Conference papers (19)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | $A_{0}$: An Affordance-Aware Hierarchical Model for General Robotic Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/abs/2504.12636) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01253) |
 | 2025 | AR-VRM: Imitating Human Motions for Visual Robot Manipulation with Analogical Reasoning | ICCV · Human-video transfer | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_AR-VRM_Imitating_Human_Motions_for_Visual_Robot_Manipulation_with_Analogical_ICCV_2025_paper.html) · [Official](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_AR-VRM_Imitating_Human_Motions_for_Visual_Robot_Manipulation_with_Analogical_ICCV_2025_paper.html) · [Code](https://github.com/idejie/ar) |
 | 2025 | GraspCoT: Integrating Physical Property Reasoning for 6-DoF Grasping Under Flexible Language Instructions | ICCV · Grasp | [Paper](https://arxiv.org/abs/2503.16013) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00944) |
-| 2025 | AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2410.00371) · [Publisher](https://doi.org/10.48550/arXiv.2410.00371) |
 | 2025 | A Parameter-Efficient Tuning Framework for Language-Guided Object Grounding and Robot Grasping | ICRA · Grasp | [Paper](https://arxiv.org/abs/2409.19457) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128679) |
 | 2025 | AffordGrasp: In-Context Affordance Reasoning for Open-Vocabulary Task-Oriented Grasping in Clutter | IROS · Grasp | [Paper](https://arxiv.org/abs/2503.00778) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245995) |
 | 2025 | Free-form language-based robotic reasoning and grasping | IROS · Grasp | [Paper](https://arxiv.org/abs/2503.13082) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246686) |
+| 2025 | Keypoint-Aware RAG for Robotic Manipulation: In-Context Constraint Learning via Large-Scale Retrieval | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246507) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246507) |
 | 2025 | PACR: Point-Axis Constraint Reasoning for Enhanced Robotic Manipulation with Dexterity and Compliance | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246460) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246460) |
 | 2025 | SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation | NeurIPS · Manipulation | [Paper](https://arxiv.org/abs/2502.13143) · [Publisher](https://doi.org/10.48550/arXiv.2502.13143) |
 | 2024 | Generate Subgoal Images Before Act: Unlocking the Chain-of-Thought Reasoning in Diffusion Model for Robot Manipulation with Multimodal Prompts | CVPR · Manipulation | [Paper](https://doi.org/10.1109/CVPR52733.2024.01327) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01327) |
-| 2024 | Contrastive Imitation Learning for Language-guided Multi-Task Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2406.09738) · [Publisher](https://doi.org/10.48550/arXiv.2406.09738) |
 | 2024 | ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation | CoRL · Constraint-based manipulation | [Paper](https://arxiv.org/abs/2409.01652) · [Official](https://proceedings.mlr.press/v270/) · [Code](https://github.com/huangwl18/ReKep) |
 | 2024 | Visual Preference Inference: An Image Sequence-Based Preference Reasoning in Tabletop Object Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2403.11513) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801806) |
+| 2023 | A Universal Semantic-Geometric Representation for Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2306.10474) · [Publisher](https://doi.org/10.48550/arXiv.2306.10474) |
+| 2023 | Learning Reusable Manipulation Strategies | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2311.03293) · [Publisher](https://doi.org/10.48550/arXiv.2311.03293) |
 | 2023 | PolarNet: 3D Point Clouds for Language-Guided Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2309.15596) · [Publisher](https://doi.org/10.48550/arXiv.2309.15596) |
 | 2023 | Learning Neuro-symbolic Programs for Language Guided Robot Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2211.06652) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160545) |
 | 2023 | GVCCI: Lifelong Learning of Visual Grounding for Language-Guided Robotic Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2307.05963) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342021) |
 | 2023 | Language Guided Robotic Grasping with Fine-Grained Instructions | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS55552.2023.10342331) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342331) |
-| 2023 | Spatial Reasoning via Deep Vision Models for Robotic Sequential Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2306.17053) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342010) |
+| 2022 | Sequential Manipulation Planning on Scene Graph | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2207.04364) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981735) |
 
 ## Recent arXiv papers (70)
 

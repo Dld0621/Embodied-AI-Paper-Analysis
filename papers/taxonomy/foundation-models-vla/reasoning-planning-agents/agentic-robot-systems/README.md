@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=Agentic%20Robot%20Systems#research-workbench)
 
-> 3 conference papers · 177 recent arXiv papers
+> 8 conference papers · 177 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,13 +14,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (3)
+## Conference papers (8)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environments | IROS · Llm | [Paper](https://arxiv.org/abs/2409.17655) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246901) |
+| 2025 | Automatic MILP Model Construction for Multi-Robot Task Allocation and Scheduling Based on Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2503.13813) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246517) |
 | 2025 | AutoMisty: A Multi-Agent LLM Framework for Automated Code Generation in the Misty Social Robot | IROS · Llm | [Paper](https://arxiv.org/abs/2503.06791) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247695) |
 | 2025 | Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation | IROS · Foundation Model | [Paper](https://arxiv.org/abs/2503.01700) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247174) |
 | 2025 | MALMM: Multi-Agent Large Language Models for Zero-Shot Robotic Manipulation | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2411.17636) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247340) |
+| 2024 | Eurekaverse: Environment Curriculum Generation via Large Language Models | CoRL · Large Language Model | [Paper](https://arxiv.org/abs/2411.01775) · [Publisher](https://doi.org/10.48550/arXiv.2411.01775) |
+| 2024 | RoCo: Dialectic Multi-Robot Collaboration with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2307.04738) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610855) |
+| 2024 | Leveraging Large Language Model for Heterogeneous Ad Hoc Teamwork Collaboration | RSS · Large Language Model | [Paper](https://arxiv.org/abs/2406.12224) · [Publisher](https://doi.org/10.48550/arXiv.2406.12224) |
 
 ## Recent arXiv papers (177)
 

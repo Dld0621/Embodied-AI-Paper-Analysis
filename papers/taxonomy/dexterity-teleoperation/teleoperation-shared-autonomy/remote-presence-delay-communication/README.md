@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Autonomy&specialty=Remote%20Presence%2C%20Delay%20%26%20Communication#research-workbench)
 
-> 1 conference papers · 37 recent arXiv papers
+> 2 conference papers · 36 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,13 +14,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (1)
+## Conference papers (2)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2024 | Autonomous and Teleoperation Control of a Drawing Robot Avatar | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2407.20156) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610310) |
 | 2024 | Exploring Cognitive Load Dynamics in Human-Machine Interaction for Teleoperation: A User-Centric Perspective on Remote Operation System Design | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802226) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802226) |
 
-## Recent arXiv papers (37)
+## Recent arXiv papers (36)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -60,7 +61,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-08 | Intelligent Mode-switching Framework for Teleoperation | Burak Kizilkaya, Changyang She, Guodong Zhao, Muhammad Ali Imran | [Abstract](https://arxiv.org/abs/2402.06047) · [PDF](https://arxiv.org/pdf/2402.06047) |
 | 2024-01-10 | Analysis and Perspectives on the ANA Avatar XPRIZE Competition | Kris Hauser, Eleanor Watson, Joonbum Bae, Josh Bankston et al. | [Abstract](https://arxiv.org/abs/2401.05290) · [PDF](https://arxiv.org/pdf/2401.05290) |
 | 2023-12-15 | Attention-Based VR Facial Animation with Visual Mouth Camera Guidance for Immersive Telepresence Avatars | Andre Rochow, Max Schwarz, Sven Behnke | [Abstract](https://arxiv.org/abs/2312.09750) · [PDF](https://arxiv.org/pdf/2312.09750) |
-| 2023-08-23 | NimbRo wins ANA Avatar XPRIZE Immersive Telepresence Competition: Human-Centric Evaluation and Lessons Learned | Christian Lenz, Max Schwarz, Andre Rochow, Bastian Pätzold et al. | [Abstract](https://arxiv.org/abs/2308.12238) · [PDF](https://arxiv.org/pdf/2308.12238) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Humanoid%20Whole-body%20Control&specialty=Upper-body%20Skills%20%26%20Coordination#research-workbench)
 
-> 2 conference papers · 30 recent arXiv papers
+> 3 conference papers · 30 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,11 +14,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (2)
+## Conference papers (3)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2022 | Humanoid Arm Motion Planning for Improved Disturbance Recovery Using Model Hierarchy Predictive Control | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra46639.2022.9811878) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811878) |
+| 2024 | Joint-Level IS-MPC: a Whole-Body MPC with Centroidal Feasibility for Humanoid Locomotion | IROS · Humanoid | [Paper](https://hal.science/hal-04773996v1/file/IROS_Joint_Level_IS_MPC.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801628) |
+| 2023 | Proprioceptive External Torque Learning for Floating Base Robot and its Applications to Humanoid Locomotion | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2309.04138) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342530) |
 | 2022 | Introducing RH5 Manus: A Powerful Humanoid Upper Body Design for Dynamic Movements | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra46639.2022.9811843) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811843) |
 
 ## Recent arXiv papers (30)

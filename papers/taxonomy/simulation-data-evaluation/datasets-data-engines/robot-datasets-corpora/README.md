@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engines&specialty=Robot%20Datasets%20%26%20Corpora#research-workbench)
 
-> 90 conference papers · 635 recent arXiv papers
+> 92 conference papers · 636 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,7 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (90)
+## Conference papers (92)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -24,11 +24,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets | ICLR · Dataset | [Paper](https://arxiv.org/abs/2410.22325) · [Publisher](https://doi.org/10.48550/arXiv.2410.22325) |
 | 2025 | What Matters in Learning from Large-Scale Datasets for Robot Manipulation | ICLR · Dataset | [Paper](https://arxiv.org/abs/2506.13536) · [Publisher](https://doi.org/10.48550/arXiv.2506.13536) |
 | 2025 | A Dataset and Benchmark for Shape Completion of Fruits for Agricultural Robotics | ICRA · Dataset | [Paper](https://arxiv.org/abs/2407.13304) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127685) |
-| 2025 | Digiforests: a Longitudinal Lidar Dataset for Forestry Robotics | ICRA · Dataset | [Paper](https://www.dora.lib4ri.ch/wsl/item/wsl:41470) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128697) |
+| 2025 | Digiforests: a Longitudinal Lidar Dataset for Forestry Robotics | ICRA · Dataset | [Paper](https://www.dora.lib4ri.ch/wsl/dload/wsl:41470/PDF2/view) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128697) |
 | 2025 | DiTer++: Diverse Terrain and Multi-Modal Dataset for Multi-Robot SLAM in Multi-Session Environments | ICRA · Dataset | [Paper](https://arxiv.org/abs/2412.05839) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128593) |
 | 2025 | EnvoDat: A Large-Scale Multisensory Dataset for Robotic Spatial Awareness and Semantic Reasoning in Heterogeneous Environments | ICRA · Dataset | [Paper](https://arxiv.org/abs/2410.22200) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127594) |
 | 2025 | Excavating in the Wild: The GOOSE-Ex Dataset for Semantic Segmentation | ICRA · Dataset | [Paper](https://arxiv.org/abs/2409.18788) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127604) |
-| 2025 | Flat'n'Fold: A Diverse Multi-Modal Dataset for Garment Perception and Manipulation | ICRA · Dataset | [Paper](https://eprints.gla.ac.uk/view/author/69698.html>,) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127794) |
+| 2025 | Flat'n'Fold: A Diverse Multi-Modal Dataset for Garment Perception and Manipulation | ICRA · Dataset | [Paper](https://eprints.gla.ac.uk/349229/1/349229.pdf) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127794) |
 | 2025 | HeRCULES: Heterogeneous Radar Dataset in Complex Urban Environment for Multi-Session Radar SLAM | ICRA · Dataset | [Paper](https://arxiv.org/abs/2502.01946) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128678) |
 | 2025 | M3DSS: A Multi-Platform, Multi-Sensor, and Multi-Scenario Dataset for SLAM System | ICRA · Dataset | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128631) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128631) |
 | 2025 | MBE-ARI: A Multimodal Dataset Mapping Bi-Directional Engagement in Animal-Robot Interaction | ICRA · Dataset | [Paper](https://arxiv.org/abs/2504.08646) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127962) |
@@ -56,16 +56,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | JRDB-Social: A Multifaceted Robotic Dataset for Understanding of Context and Dynamics of Human Interactions Within Social Groups | CVPR · Dataset | [Paper](https://arxiv.org/pdf/2404.04458) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.02085) |
 | 2024 | MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception | CVPR · Dataset | [Paper](https://arxiv.org/pdf/2403.11496) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.02105) |
 | 2024 | A Dual Approach to Imitation Learning from Observations with Offline Datasets | CoRL · Dataset | [Paper](https://arxiv.org/abs/2406.08805) · [Publisher](https://doi.org/10.48550/arXiv.2406.08805) |
+| 2024 | So You Think You Can Scale Up Autonomous Robot Data Collection? | CoRL · Data Collection | [Paper](https://arxiv.org/abs/2411.01813) · [Publisher](https://doi.org/10.48550/arXiv.2411.01813) |
 | 2024 | A Multimodal Handover Failure Detection Dataset and Baselines | ICRA · Dataset | [Paper](https://arxiv.org/abs/2402.18319) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610143) |
 | 2024 | Campus Map: A Large-Scale Dataset to Support Multi-View VO, SLAM and BEV Estimation | ICRA · Dataset | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610656) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610656) |
 | 2024 | HabitatDyn 2.0: Dataset for Spatial Anticipation and Dynamic Object Localization | ICRA · Dataset | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610719) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610719) |
-| 2024 | Introducing CEA-IMSOLD: an Industrial Multi-Scale Object Localization Dataset | ICRA · Dataset | [Paper](https://doi.org/10.1109/ICRA57147.2024.10609999) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10609999) |
+| 2024 | Introducing CEA-IMSOLD: an Industrial Multi-Scale Object Localization Dataset | ICRA · Dataset | [Paper](https://cea.hal.science/cea-04683509v1/document) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10609999) |
 | 2024 | Jacquard V2: Refining Datasets using the Human In the Loop Data Correction Method | ICRA · Dataset | [Paper](https://arxiv.org/abs/2402.05747) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611652) |
 | 2024 | NYC-Indoor-VPR: A Long-Term Indoor Visual Place Recognition Dataset with Semi-Automatic Annotation | ICRA · Dataset | [Paper](https://arxiv.org/abs/2404.00504) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610564) |
 | 2024 | Open X-Embodiment: Robotic Learning Datasets and RT-X Models : Open X-Embodiment Collaboration | ICRA · Dataset | [Paper](https://www.semanticscholar.org/paper/5fc3830322f7eae2934c912c391ee5edded86a15) · [Index](https://dblp.org/rec/conf/icra/ONeillRMGPLPGMJ24) |
 | 2024 | Open X-Embodiment: Robotic Learning Datasets and RT-X Models : Open X-Embodiment Collaboration0 | ICRA · Dataset | [Paper](https://arxiv.org/abs/2310.08864) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611477) |
 | 2024 | RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot | ICRA · Dataset | [Paper](https://arxiv.org/abs/2307.00595) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611615) |
 | 2024 | RTS-GT: Robotic Total Stations Ground Truthing dataset | ICRA · Dataset | [Paper](https://arxiv.org/abs/2309.11935) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610998) |
+| 2024 | TBD Pedestrian Data Collection: Towards Rich, Portable, and Large-Scale Natural Pedestrian Data | ICRA · Data Collection | [Paper](https://arxiv.org/abs/2309.17187) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610335) |
 | 2024 | The GOOSE Dataset for Perception in Unstructured Environments | ICRA · Dataset | [Paper](https://arxiv.org/abs/2310.16788) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611298) |
 | 2024 | The LuViRA Dataset: Synchronized Vision, Radio, and Audio Sensors for Indoor Localization | ICRA · Dataset | [Paper](https://arxiv.org/abs/2302.05309) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610237) |
 | 2024 | Toward Wheeled Mobility on Vertically Challenging Terrain: Platforms, Datasets, and Algorithms | ICRA · Dataset | [Paper](https://arxiv.org/abs/2303.00998) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610079) |
@@ -109,10 +111,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Fisheye object detection based on standard image datasets with 24-points regression strategy | IROS · Dataset | [Paper](https://doi.org/10.1109/IROS47612.2022.9981891) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981891) |
 | 2022 | FusionPortable: A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms | IROS · Dataset | [Paper](https://arxiv.org/pdf/2208.11865) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982119) |
 
-## Recent arXiv papers (635)
+## Recent arXiv papers (636)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-21 | TaPeR: Probabilistic Recovery of Sparse Task Precedence Graphs from a Handful of Demonstrations | Adrian Röfer, Karla Stepanova, Abhinav Valada | [Abstract](https://arxiv.org/abs/2608.21035) · [PDF](https://arxiv.org/pdf/2608.21035) |
 | 2026-08-14 | NARRATE: A Multimodal Real-World Australian Driving Dataset for Human-Centred Explanations in Automated Driving | Ashkan Yousefi Zadeh, Zishuo Zhu, Xiaomeng Li, Andry Rakotonirainy et al. | [Abstract](https://arxiv.org/abs/2608.14767) · [PDF](https://arxiv.org/pdf/2608.14767) |
 | 2026-08-08 | Auditing Instruction-Trajectory Mismatches in Multimodal Robot Demonstrations | Simon Holk, Ryosuke Takanami, Tatsuya Matsushima, Yusuke Iwasawa et al. | [Abstract](https://arxiv.org/abs/2608.07895) · [PDF](https://arxiv.org/pdf/2608.07895) |
 | 2026-08-05 | A Multi-Sensor Dataset for Monitoring the Operational Environment of Rail Vehicles | Claudio Diotallevi, Rodrigo Gudiño, Zaharia Pachalieva, Philipp Neumaier et al. | [Abstract](https://arxiv.org/abs/2608.04704) · [PDF](https://arxiv.org/pdf/2608.04704) |

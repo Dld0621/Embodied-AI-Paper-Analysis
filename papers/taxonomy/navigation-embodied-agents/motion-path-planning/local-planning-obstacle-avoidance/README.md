@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Motion%20%26%20Path%20Planning&specialty=Local%20Planning%20%26%20Obstacle%20Avoidance#research-workbench)
 
-> 12 conference papers · 365 recent arXiv papers
+> 41 conference papers · 365 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,21 +14,50 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (12)
+## Conference papers (41)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | Differentiable Composite Neural Signed Distance Fields for Robot Navigation in Dynamic Indoor Environments | ICRA · Navigation | [Paper](https://arxiv.org/abs/2502.02664) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128172) |
+| 2025 | Key-Scan-Based Mobile Robot Navigation: Integrated Mapping, Planning, and Control Using Graphs of Scan Regions | ICRA · Navigation | [Paper](https://pure.tue.nl/ws/files/374212621/Key-Scan-Based_Mobile_Robot_Navigation_Integrated_Mapping_Planning_and_Control_Using_Graphs_of_Scan_Regions.pdf) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128158) |
+| 2025 | Learning Wheelchair Tennis Navigation from Broadcast Videos with Domain Knowledge Transfer and Diffusion Motion Planning | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.19771) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127909) |
+| 2025 | Optimizing Underwater Robot Navigation: A Study of DRL Algorithms and Multi-Modal Sensor Fusion | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127836) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127836) |
 | 2025 | Reactive Collision Avoidance for Safe Agile Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.11962) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127284) |
-| 2025 | Safe Corridor-Based MPC for Follow-Ahead and Obstacle Avoidance of Mobile Robot in Cluttered Environments | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS60139.2025.11247286) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247286) |
+| 2025 | Relative Velocity-Based Reward Model for Socially-Aware Navigation with Deep Reinforcement Learning | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127606) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127606) |
+| 2025 | SafePCA: Enhancing Autonomous Robot Navigation in Dynamic Crowds Using Proximal Policy Optimization and Cellular Automata | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127802) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127802) |
+| 2025 | Safety-Critical Control with Saliency Detection for Mobile Robots in Dynamic Multi-Obstacle Environments | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128721) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128721) |
+| 2025 | Decremental Dynamics Planning for Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2503.20521) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246580) |
+| 2025 | Demonstration-Enhanced Adaptable Multi-Objective Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2404.04857) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246392) |
+| 2025 | DGVO: A Dynamically Constrained Gradient Velocity Obstacle Approach for Mobile Robots in Dynamic Environments | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS60139.2025.11247136) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247136) |
+| 2025 | Disentangling Uncertainty for Safe Social Navigation using Deep Reinforcement Learning | IROS · Navigation | [Paper](https://arxiv.org/abs/2409.10655) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247153) |
+| 2025 | Efficient Swept Volume-Based Trajectory Generation for Arbitrary-Shaped Ground Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2504.07554) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247085) |
+| 2025 | Inverse Attention-Weighted Model with Heterogeneous Spatio-Temporal Interaction Graph for Autonomous Navigation Systems | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246086) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246086) |
 | 2025 | SEB-Naver: A SE(2)-based Local Navigation Framework for Car-like Robots on Uneven Terrain | IROS · Navigation | [Paper](https://arxiv.org/abs/2503.02412) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247560) |
+| 2024 | Perceive with confidence: Statistical safety assurances for navigation with learning-based perception | CoRL · Navigation | [Paper](https://arxiv.org/abs/2403.08185) · [Publisher](https://doi.org/10.1177/02783649251378151) |
 | 2024 | Collision Avoidance and Navigation for a Quadrotor Swarm Using End-to-end Deep Reinforcement Learning | ICRA · Navigation | [Paper](https://arxiv.org/abs/2309.13285) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611499) |
 | 2024 | Learning Diverse Skills for Local Navigation under Multi-constraint Optimality | ICRA · Navigation | [Paper](https://arxiv.org/abs/2310.02440) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611629) |
 | 2024 | Online-Learning-Based Distributionally Robust Motion Control with Collision Avoidance for Mobile Robots | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610765) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610765) |
+| 2024 | Robot Navigation in Unseen Environments using Coarse Maps | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611256) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611256) |
+| 2024 | Robustified Time-optimal Collision-free Motion Planning for Autonomous Mobile Robots under Disturbance Conditions | ICRA · Mobile Robot | [Paper](https://lirias.kuleuven.be/retrieve/57505599-262e-48d6-ab29-bb23c06dcc2e) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610134) |
+| 2024 | Spatial Assisted Human-Drone Collaborative Navigation and Interaction through Immersive Mixed Reality | ICRA · Navigation | [Paper](https://arxiv.org/abs/2402.04070) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611351) |
 | 2024 | ViPlanner: Visual Semantic Imperative Learning for Local Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2310.00982) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610025) |
+| 2024 | HabiCrowd: A High Performance Simulator for Crowd-Aware Visual Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2306.11377) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801823) |
 | 2024 | LDP: A Local Diffusion Planner for Efficient Robot Navigation and Collision Avoidance | IROS · Navigation | [Paper](https://arxiv.org/abs/2407.01950) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802009) |
+| 2024 | Online Efficient Safety-Critical Control for Mobile Robots in Unknown Dynamic Multi-Obstacle Environments | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2402.16449) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802727) |
+| 2024 | Socially Integrated Navigation: A Social Acting Robot with Deep Reinforcement Learning | IROS · Navigation | [Paper](https://arxiv.org/abs/2403.09793) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801998) |
+| 2024 | TopoNav: Topological Navigation for Efficient Exploration in Sparse Reward Environments | IROS · Navigation | [Paper](https://mdsoar.org/bitstreams/b8d6da48-b52b-485c-bc7a-3f7677158f45/download) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802380) |
+| 2024 | Unsupervised Multiple Proactive Behavior Learning of Mobile Robots for Smooth and Safe Navigation | IROS · Navigation | [Paper](https://findresearcher.sdu.dk/ws/files/286071011/UnsupervisedIROS24_0444_FI.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802071) |
 | 2023 | A real-time dynamic obstacle tracking and mapping system for UAV navigation and collision avoidance with an RGB-D camera | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2209.08258) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161194) |
+| 2023 | An Open Approach to Energy-Efficient Autonomous Mobile Robots | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161110) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161110) |
 | 2023 | Dynamic Control Barrier Function-based Model Predictive Control to Safety-Critical Obstacle-Avoidance of Mobile Robot | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2209.08539) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160857) |
+| 2023 | Real-Time Decentralized Navigation of Nonholonomic Agents Using Shifted Yielding Areas | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2303.09139) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160902) |
+| 2023 | Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2502.09556) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160595) |
 | 2023 | Vision-aided UAV Navigation and Dynamic Obstacle Avoidance using Gradient-based B-spline Trajectory Optimization | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2209.07003) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160638) |
+| 2023 | A Shared Autonomous Nursing Robot Assistant with Dynamic Workspace for Versatile Mobile Manipulation | IROS · Mobile Manipulation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342401) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342401) |
+| 2023 | DAMON: Dynamic Amorphous Obstacle Navigation using Topological Manifold Learning and Variational Autoencoding | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.13282) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342035) |
+| 2022 | Driving Swarm: A Swarm Robotics Framework for Intelligent Navigation in a Self-organized World | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811852) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811852) |
+| 2022 | Unfreezing Social Navigation: Dynamical Systems based Compliance for Contact Control in Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2203.01053) · [Publisher](https://doi.org/10.1109/ICRA46639.2022.9811772) |
+| 2022 | CoMBiNED: Multi-Constrained Model Based Planning for Navigation in Dynamic Environments | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981479) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981479) |
 | 2022 | Reactive Neural Path Planning with Dynamic Obstacle Avoidance in a Condensed Configuration Space | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2207.03959) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981453) |
 
 ## Recent arXiv papers (365)

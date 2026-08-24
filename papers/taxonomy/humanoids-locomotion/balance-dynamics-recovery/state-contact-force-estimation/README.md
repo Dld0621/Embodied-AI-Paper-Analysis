@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Balance%2C%20Dynamics%20%26%20Recovery&specialty=State%2C%20Contact%20%26%20Force%20Estimation#research-workbench)
 
-> 1 conference papers · 11 recent arXiv papers
+> 2 conference papers · 11 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (1)
+## Conference papers (2)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | A Data-Driven Contact Estimation Method for Wheeled-Biped Robots | ICRA · Biped | [Paper](https://arxiv.org/pdf/2410.12345) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128254) |
 | 2025 | Simultaneous Collision Detection and Force Estimation for Dynamic Quadrupedal Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2504.17201) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128205) |
 
 ## Recent arXiv papers (11)

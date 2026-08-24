@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Running%2C%20Jumping%20%26%20Agile%20Skills#research-workbench)
 
-> 18 conference papers · 141 recent arXiv papers
+> 21 conference papers · 141 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,27 +14,30 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (18)
+## Conference papers (21)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | Explosive Jumping with Rigid and Articulated Soft Quadrupeds via Example Guided Reinforcement Learning | IROS · Quadruped | [Paper](https://arxiv.org/abs/2503.16197) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247079) |
 | 2025 | Integrating Trajectory Optimization and Reinforcement Learning for Quadrupedal Jumping with Terrain-Adaptive Landing | IROS · Quadruped | [Paper](https://arxiv.org/abs/2509.12776) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246445) |
 | 2025 | Playful DoggyBot: Learning Agile and Precise Quadrupedal Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/abs/2409.19920) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245880) |
+| 2025 | Reference-Steering via Data-Driven Predictive Control for Hyper-Accurate Robotic Flying-Hopping Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/abs/2411.18793) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245973) |
 | 2025 | SF-TIM: A Simple Framework for Enhancing Quadrupedal Robot Jumping Agility by Combining Terrain Imagination and Measurement | IROS · Quadruped | [Paper](https://arxiv.org/abs/2408.00486) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247064) |
+| 2024 | Generalized Animal Imitator: Agile Locomotion with Versatile Motion Prior | CoRL · Locomotion | [Paper](https://arxiv.org/pdf/2310.01408) · [Publisher](https://doi.org/10.48550/arXiv.2310.01408) |
 | 2024 | Learning Visual Parkour from Generated Images | CoRL · Parkour | [Paper](https://arxiv.org/abs/2411.00083) · [Publisher](https://doi.org/10.48550/arXiv.2411.00083) |
 | 2024 | Efficient, Dynamic Locomotion through Step Placement with Straight Legs and Rolling Contacts | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2310.13134) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611056) |
 | 2024 | Learning Agile Bipedal Motions on a Quadrupedal Robot | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2311.05818) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611442) |
+| 2024 | Design and Control of a Bipedal Robotic Character | RSS · Biped | [Paper](https://arxiv.org/pdf/2501.05204) · [Publisher](https://doi.org/10.15607/RSS.2024.XX.103) |
 | 2023 | Robot Parkour Learning | CoRL · Parkour | [Paper](https://arxiv.org/pdf/2309.05665) · [Publisher](https://doi.org/10.48550/arXiv.2309.05665) |
 | 2023 | Agile and Versatile Robot Locomotion via Kernel-based Residual Learning | ICRA · Locomotion | [Paper](https://www.pure.ed.ac.uk/ws/files/404861275/agile_and_versatile_robotic_locomotion_via_kernel_based_residual_learning_V2.pdf) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160704) |
-| 2023 | Dynamic Locomotion of a Quadruped Robot with Active Spine via Model Predictive Control | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160896) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160896) |
+| 2023 | Efficiently Learning Small Policies for Locomotion and Manipulation | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2210.00140) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160791) |
 | 2023 | Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2210.08065) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160293) |
+| 2023 | Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2209.14887) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160357) |
 | 2023 | Visual-Inertial and Leg Odometry Fusion for Dynamic Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2210.02127) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160898) |
-| 2023 | A Novel Lockable Spring-Loaded Prismatic Spine to Support Agile Quadrupedal Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/abs/2308.00923) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341427) |
 | 2023 | Design of a Jumping Control Framework with Heuristic Landing for Bipedal Robots | IROS · Biped | [Paper](https://arxiv.org/pdf/2304.00536) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342265) |
-| 2023 | Dynamic Hybrid Locomotion and Jumping for Wheeled-Legged Quadrupeds | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS55552.2023.10341824) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341824) |
-| 2023 | Learning Terrain-Adaptive Locomotion with Agile Behaviors by Imitating Animals | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2308.03273) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342271) |
+| 2023 | Real-time Dynamic Bipedal Avoidance | IROS · Biped | [Paper](https://doi.org/10.1109/IROS55552.2023.10341951) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341951) |
 | 2023 | Robust and Versatile Bipedal Jumping Control through Reinforcement Learning | RSS · Biped | [Paper](https://doi.org/10.15607/rss.2023.xix.052) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.052) |
+| 2022 | SMORS: A soft multirotor UAV for multimodal locomotion and robust interaction | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2204.02165) · [Publisher](https://doi.org/10.48550/arXiv.2204.02165) |
 | 2022 | Three-Dimensional Dynamic Running with a Point-Foot Biped based on Differentially Flat SLIP | IROS · Biped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981516) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981516) |
 
 ## Recent arXiv papers (141)

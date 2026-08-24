@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Memory%20%26%20World%20Knowledge&specialty=Knowledge%20Graphs%20%26%20Structured%20Knowledge#research-workbench)
 
-> 0 conference papers · 24 recent arXiv papers
+> 6 conference papers · 24 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,9 +14,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (0)
+## Conference papers (6)
 
-No conference papers currently map to this specialty.
+| Year | Paper | Venue / topic | Online links |
+|---:|---|---|---|
+| 2025 | AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement | ICRA · Llm | [Paper](https://arxiv.org/abs/2502.02067) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128062) |
+| 2025 | CurricuLLM: Automatic Task Curricula Design for Learning Complex Robot Skills Using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2409.18382) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128783) |
+| 2025 | LBAP: Improved Uncertainty Alignment of LLM Planners using Bayesian Inference | IROS · Llm | [Paper](https://arxiv.org/abs/2403.13198) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245905) |
+| 2025 | Enhancing LLM Planning for Robotics Manipulation through Hierarchical Procedural Knowledge Graphs | NeurIPS · Llm | [Paper](https://doi.org/10.52202/085713-4246) · [Publisher](https://doi.org/10.52202/085713-4246) |
+| 2024 | Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents | ICRA · Llm | [Paper](https://arxiv.org/abs/2309.09919) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611447) |
+| 2024 | Combining Ontological Knowledge and Large Language Model for User-Friendly Service Robots | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2410.16804) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802273) |
 
 ## Recent arXiv papers (24)
 

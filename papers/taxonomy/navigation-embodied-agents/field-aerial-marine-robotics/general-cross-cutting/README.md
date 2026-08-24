@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2024 | Drones Guiding Drones: Cooperative Navigation of a Less-Equipped Micro Aerial Vehicle in Cluttered Environments | IROS · Navigation | [Paper](https://arxiv.org/abs/2312.09786) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802770) |
+| 2025 | MORE: Mobile Manipulation Rearrangement Through Grounded Language Reasoning | IROS · Mobile Manipulation | [Paper](https://arxiv.org/abs/2505.03035) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247596) |
 
 ## Recent arXiv papers (54)
 

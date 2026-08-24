@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Manipulation%20Policy%20Learning&specialty=Visuomotor%20%26%20Closed-loop%20Policies#research-workbench)
 
-> 19 conference papers · 238 recent arXiv papers
+> 25 conference papers · 238 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,18 +14,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (19)
+## Conference papers (25)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction | ICCV · Visuomotor | [Paper](https://arxiv.org/pdf/2412.06782) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01250) |
 | 2025 | PASG: A Closed-Loop Framework for Automated Geometric Primitive Extraction and Semantic Anchoring in Robotic Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/pdf/2508.05976) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00837) |
 | 2025 | Spatial-Temporal Aware Visuomotor Diffusion Policy Learning | ICCV · Visuomotor | [Paper](https://arxiv.org/pdf/2507.06710) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00669) |
+| 2025 | GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2502.09268) · [Publisher](https://doi.org/10.48550/arXiv.2502.09268) |
 | 2025 | Falcon: Fast Visuomotor Policies via Partial Denoising | ICML · Visuomotor | [Paper](https://arxiv.org/abs/2503.00339) · [Publisher](https://doi.org/10.48550/arXiv.2503.00339) |
-| 2025 | One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation | ICML · Visuomotor | [Paper](https://arxiv.org/abs/2410.21257) · [Publisher](https://doi.org/10.48550/arXiv.2410.21257) |
 | 2025 | Closed Loop Interactive Embodied Reasoning for Robot Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2404.15194) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127480) |
+| 2025 | ArtGS: 3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects | IROS · Manipulation | [Paper](https://arxiv.org/abs/2507.02600) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246522) |
 | 2025 | Fast Policy: Accelerating Visuomotor Policies without Re-training | IROS · Visuomotor | [Paper](https://doi.org/10.1109/IROS60139.2025.11246259) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246259) |
+| 2025 | High-dynamic Tactile Sensing for Tactile Servo Manipulation: Let Robots Swing a Hammer | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246617) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246617) |
 | 2025 | Out-of-Distribution Recovery with Object-Centric Keypoint Inverse Policy for Visuomotor Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/abs/2411.03294) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246616) |
+| 2025 | FreqPolicy: Frequency Autoregressive Visuomotor Policy with Continuous Tokens | NeurIPS · Visuomotor | [Paper](https://arxiv.org/abs/2506.01583) · [Publisher](https://doi.org/10.48550/arXiv.2506.01583) |
 | 2024 | Dreamitate: Real-World Visuomotor Policy Learning via Video Generation | CoRL · Visuomotor | [Paper](https://arxiv.org/abs/2406.16862) · [Publisher](https://doi.org/10.48550/arXiv.2406.16862) |
 | 2024 | Task-Oriented Hierarchical Object Decomposition for Visuomotor Control | CoRL · Visuomotor | [Paper](https://arxiv.org/abs/2411.01284) · [Publisher](https://doi.org/10.48550/arXiv.2411.01284) |
 | 2024 | EquivAct: SIM(3)-Equivariant Visuomotor Policies beyond Rigid Object Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2310.16050) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611491) |
@@ -33,7 +36,10 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Any2Policy: Learning Visuomotor Policy with Any-Modality | NeurIPS · Visuomotor | [Paper](https://doi.org/10.52202/079017-4244) · [Publisher](https://doi.org/10.52202/079017-4244) |
 | 2024 | Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation | NeurIPS · Manipulation | [Paper](https://arxiv.org/abs/2409.09016) · [Publisher](https://doi.org/10.48550/arXiv.2409.09016) |
 | 2024 | Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation | RSS · Visuomotor | [Paper](https://arxiv.org/abs/2405.07503) · [Publisher](https://doi.org/10.48550/arXiv.2405.07503) |
+| 2024 | Learning Manipulation by Predicting Interaction | RSS · Manipulation | [Paper](https://arxiv.org/abs/2406.00439) · [Publisher](https://doi.org/10.48550/arXiv.2406.00439) |
+| 2023 | PLEX: Making the Most of the Available Data for Robotic Manipulation Pretraining | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2303.08789) · [Publisher](https://doi.org/10.48550/arXiv.2303.08789) |
 | 2023 | Self-Improving Robots: End-to-End Autonomous Visuomotor Reinforcement Learning | CoRL · Visuomotor | [Paper](https://arxiv.org/abs/2303.01488) · [Publisher](https://doi.org/10.48550/arXiv.2303.01488) |
+| 2023 | Noncontact Particle Manipulation on Water Surface with Ultrasonic Phased Array System and Microscopic Vision | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160724) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160724) |
 | 2023 | Visuomotor Control in Multi-Object Scenes Using Object-Aware Representations | ICRA · Visuomotor | [Paper](https://arxiv.org/abs/2205.06333) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160888) |
 | 2022 | Generalization with Lossy Affordances: Leveraging Broad Offline Data for Learning Visuomotor Tasks | CoRL · Visuomotor | [Paper](https://arxiv.org/abs/2210.06601) · [Publisher](https://doi.org/10.48550/arXiv.2210.06601) |
 | 2022 | Closed-Loop Next-Best-View Planning for Target-Driven Grasping | IROS · Grasp | [Paper](https://arxiv.org/pdf/2207.10543) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981472) |

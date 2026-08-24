@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Dexterous%20Hand%20Control&specialty=Multifinger%20Control%20%26%20Coordination#research-workbench)
 
-> 14 conference papers · 33 recent arXiv papers
+> 22 conference papers · 33 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,18 +14,26 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (14)
+## Conference papers (22)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2026 | UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos | CVPR · Cross-hand dexterous control | [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_UniDex_A_Robot_Foundation_Suite_for_Universal_Dexterous_Hand_Control_CVPR_2026_paper.pdf) · [Official](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_UniDex_A_Robot_Foundation_Suite_for_Universal_Dexterous_Hand_Control_CVPR_2026_paper.html) |
 | 2025 | DemoStart: Demonstration-Led Auto-Curriculum Applied to Sim-to-Real with Multi-Fingered Robots | ICRA · Multi Finger | [Paper](https://arxiv.org/abs/2409.06613) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127813) |
 | 2025 | ContactDexNet: Multi-fingered Robotic Hand Grasping in Cluttered Environments through Hand-Object Contact Semantic Mapping | IROS · Multi Finger | [Paper](https://arxiv.org/abs/2404.08844) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247756) |
+| 2025 | Design of an Affordable, Fully-Actuated Biomimetic Hand for Dexterous Teleoperation Systems | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS60139.2025.11245814) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245814) |
+| 2025 | Exploiting Policy Idling for Dexterous Manipulation | IROS · Dexterous | [Paper](https://arxiv.org/abs/2508.15669) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246124) |
 | 2025 | Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand | IROS · Multifinger | [Paper](https://arxiv.org/abs/2507.06822) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246691) |
+| 2024 | Object-Centric Dexterous Manipulation from Human Motion Data | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2411.04005) · [Publisher](https://doi.org/10.48550/arXiv.2411.04005) |
 | 2024 | A Surprisingly Efficient Representation for Multi-Finger Grasping | ICRA · Multi Finger | [Paper](https://arxiv.org/abs/2408.02455) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611424) |
 | 2024 | Touch-Based Manipulation with Multi-Fingered Robot using Off-policy RL and Temporal Contrastive Learning | ICRA · Multi Finger | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610239) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610239) |
 | 2024 | Enhancing Object Grasping Efficiency with Deep Learning and Post-processing for Multi-finger Robotic Hands | IROS · Multi Finger | [Paper](https://doi.org/10.1109/IROS58592.2024.10801496) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801496) |
+| 2024 | Passive Underwater Robot Hand Utilizing Water Resistance | IROS · Robot Hand | [Paper](https://doi.org/10.1109/IROS58592.2024.10802745) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802745) |
+| 2023 | DexArt: Benchmarking Generalizable Dexterous Manipulation with Articulated Objects | CVPR · Dexterous | [Paper](https://arxiv.org/pdf/2305.05706) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.02030) |
+| 2023 | RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2304.04150) · [Index](https://dblp.org/rec/conf/corl/ZakkaWSGHPSTFZA23) |
 | 2023 | CMG-Net: An End-to-End Contact-based Multi-Finger Dexterous Grasping Network | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2303.13182) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161481) |
+| 2023 | Dexterous Imitation Made Easy: A Learning-Based Framework for Efficient Dexterous Manipulation | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2203.13251) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160275) |
+| 2023 | Fast-Grasp'D: Dexterous Multi-finger Grasp Generation Through Differentiable Simulation | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2306.08132) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160314) |
 | 2023 | A Grasp Pose is All You Need: Learning Multi-Fingered Grasping with Deep Reinforcement Learning from Vision and Touch | IROS · Multi Finger | [Paper](https://arxiv.org/pdf/2306.03484) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341776) |
 | 2023 | Learning-Based Real-Time Torque Prediction for Grasping Unknown Objects with a Multi-Fingered Hand | IROS · Multi Finger | [Paper](https://elib.dlr.de/197492/1/winkelbauer23_copyright.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341970) |
 | 2023 | Sliding Touch-Based Exploration for Modeling Unknown Object Shape with Multi-Fingered Hands | IROS · Multi Finger | [Paper](https://research.chalmers.se/publication/539513/file/539513_Fulltext.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342303) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=In-hand%20Manipulation&specialty=In-hand%20Sensing%20%26%20State%20Estimation#research-workbench)
 
-> 1 conference papers · 1 recent arXiv papers
+> 3 conference papers · 1 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,11 +14,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (1)
+## Conference papers (3)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2024 | Robust In-Hand Manipulation with Extrinsic Contacts | ICRA · In Hand | [Paper](https://arxiv.org/abs/2403.18960) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611664) |
 | 2023 | PoseFusion: Robust Object-in-Hand Pose Estimation with SelectLSTM | IROS · In Hand | [Paper](https://arxiv.org/pdf/2304.04523) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341688) |
+| 2022 | Learning a State Estimator for Tactile In-Hand Manipulation | IROS · In Hand | [Paper](https://elib.dlr.de/190608/1/IROS22_LearningTactileEstimator.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981730) |
 
 ## Recent arXiv papers (1)
 

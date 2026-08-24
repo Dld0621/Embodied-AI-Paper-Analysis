@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=In-hand%20Manipulation&specialty=Slip%2C%20Stability%20%26%20Contact%20Maintenance#research-workbench)
 
-> 1 conference papers · 4 recent arXiv papers
+> 3 conference papers · 4 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,11 +14,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (1)
+## Conference papers (3)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2024 | Incipient Slip-Based Rotation Measurement via Visuotactile Sensing During In-Hand Object Pivoting | ICRA · In Hand | [Paper](https://arxiv.org/abs/2309.05366) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610988) |
+| 2023 | Rotating Objects via in-Hand Pivoting Using Vision, Force and Touch | IROS · In Hand | [Paper](https://arxiv.org/pdf/2303.10865) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341505) |
+| 2022 | In-Hand Gravitational Pivoting Using Tactile Sensing | CoRL · In Hand | [Paper](https://arxiv.org/abs/2210.05068) · [Publisher](https://doi.org/10.48550/arXiv.2210.05068) |
 
 ## Recent arXiv papers (4)
 

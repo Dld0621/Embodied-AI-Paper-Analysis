@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=Household%2C%20Industrial%20%26%20Open-world%20Tasks#research-workbench)
 
-> 3 conference papers · 37 recent arXiv papers
+> 7 conference papers · 37 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,13 +14,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (3)
+## Conference papers (7)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2024 | Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation | ECCV · Manipulation | [Paper](https://arxiv.org/abs/2401.07487) · [Publisher](https://doi.org/10.48550/arXiv.2401.07487) |
 | 2024 | MOKA: Open-World Robotic Manipulation through Mark-Based Visual Prompting | RSS · Manipulation | [Paper](https://arxiv.org/abs/2403.03174) · [Publisher](https://doi.org/10.15607/rss.2024.xx.062) |
+| 2024 | RVT-2: Learning Precise Manipulation from Few Demonstrations | RSS · Manipulation | [Paper](https://arxiv.org/abs/2406.08545) · [Publisher](https://doi.org/10.48550/arXiv.2406.08545) |
+| 2023 | Local Neural Descriptor Fields: Locally Conditioned Object Representations for Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2302.03573) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160423) |
 | 2023 | Towards Open-World Interactive Disambiguation for Robotic Grasping | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161333) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161333) |
 | 2022 | RoboTube: Learning Household Manipulation from Human Videos with Simulated Twin Environments | CoRL · Manipulation | [Paper](https://www.semanticscholar.org/paper/6d2718d173b771edddbfae13ba8ec24c480363d3) · [Index](https://dblp.org/rec/conf/corl/XiongFZBZHXGL22) |
+| 2022 | A Method For Automated Drone Viewpoints to Support Remote Robot Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2208.04391) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982063) |
 
 ## Recent arXiv papers (37)
 

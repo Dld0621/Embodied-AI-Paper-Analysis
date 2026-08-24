@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Grasping%20%26%20Object%20Interaction&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 141 conference papers · 259 recent arXiv papers
+> 87 conference papers · 260 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,33 +14,23 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (141)
+## Conference papers (87)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping | CVPR · Grasp | [Paper](https://arxiv.org/abs/2504.10857) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01622) |
+| 2025 | Learning Precise Affordances From Egocentric Videos for Robotic Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/abs/2408.10123) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00985) |
 | 2025 | A Magnetic-Actuated Vision-Based Whisker Array for Contact Perception and Grasping | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2503.00133) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128051) |
-| 2025 | Adaptive Grasping of Moving Objects in Dense Clutter via Global-to-Local Detection and Static-to-Dynamic Planning | ICRA · Grasp | [Paper](https://arxiv.org/abs/2502.05916) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127936) |
-| 2025 | Aerial Grasping by Multi-Limbed Flying Robot SPIDAR Based on Vectored Thrust Control | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128075) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128075) |
-| 2025 | Efficient 7-DoF Grasp for Target-Driven Object in Dense Cluttered Scenes | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127394) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127394) |
-| 2025 | Learning Dual-Arm Coordination for Grasping Large Flat Objects | ICRA · Grasp | [Paper](https://arxiv.org/abs/2504.03500) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127654) |
 | 2025 | NeRF-Based Transparent Object Grasping Enhanced by Shape Priors | ICRA · Grasp | [Paper](https://arxiv.org/abs/2504.09868) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127580) |
 | 2025 | Occlusion-Aware 6D Pose Estimation with Depth-Guided Graph Encoding and Cross-Semantic Fusion for Robotic Grasping | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128248) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128248) |
-| 2025 | Online Trajectory Replanner for Dynamically Grasping Irregular Objects | ICRA · Grasp | [Paper](https://arxiv.org/abs/2501.17968) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128477) |
-| 2025 | Patch Tree: Exploiting the Gauss Map and Principal Component Analysis for Robotic Grasping | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127440) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127440) |
-| 2025 | Point Cloud Decomposition for Task-Oriented Grasping | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127703) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127703) |
+| 2025 | Persistent Object Gaussian Splat (POGS) for Tracking Human and Robot Manipulation of Irregularly Shaped Objects | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2503.05189) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127328) |
 | 2025 | PUGS: Perceptual Uncertainty for Grasp Selection in Underwater Environments | ICRA · Grasp | [Paper](https://arxiv.org/abs/2502.09824) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128019) |
 | 2025 | RTAGrasp: Learning Task-Oriented Grasping from Human Videos via Retrieval, Transfer, and Alignment | ICRA · Grasp | [Paper](https://arxiv.org/abs/2409.16033) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128140) |
 | 2025 | The Role of Tactile Sensing for Learning Reach and Grasp | ICRA · Grasp | [Paper](https://arxiv.org/abs/2502.20367) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127409) |
-| 2025 | vMF-Contact: Uncertainty-Aware Evidential Learning for Probabilistic Contact-Grasp in Noisy Clutter | ICRA · Grasp | [Paper](https://arxiv.org/abs/2411.03591) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127888) |
 | 2025 | Aerial Grasping via Maximizing Delta-Arm Workspace Utilization | IROS · Grasp | [Paper](https://arxiv.org/abs/2506.15539) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247296) |
 | 2025 | An Inflatable Deployable Origami Grasper for Adaptive and High-Load Grasping | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS60139.2025.11247090) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247090) |
-| 2025 | B4P: Simultaneous Grasp and Motion Planning for Object Placement via Parallelized Bidirectional Forests and Path Repair | IROS · Grasp | [Paper](https://arxiv.org/abs/2504.04598) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246350) |
-| 2025 | Beyond Anthropomorphism: Enhancing Grasping and Eliminating a Degree of Freedom by Fusing the Abduction of Digits Four and Five | IROS · Grasp | [Paper](https://arxiv.org/abs/2509.13074) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245941) |
 | 2025 | Consensus-Driven Uncertainty for Robotic Grasping based on RGB Perception | IROS · Grasp | [Paper](https://arxiv.org/abs/2506.20045) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247333) |
 | 2025 | GAT-Grasp: Gesture-Driven Affordance Transfer for Task-Aware Robotic Grasping | IROS · Grasp | [Paper](https://arxiv.org/abs/2503.06227) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246111) |
 | 2025 | Generalizable Category-Level Topological Structure Learning for Clothing Recognition in Robotic Grasping | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS60139.2025.11246489) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246489) |
-| 2025 | JENGA: Object selection and pose estimation for robotic grasping from a stack | IROS · Grasp | [Paper](https://arxiv.org/abs/2506.13425) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245828) |
 | 2025 | KARL: Kalman-Filter Assisted Reinforcement Learner for Dynamic Object Tracking and Grasping | IROS · Grasp | [Paper](https://arxiv.org/abs/2506.15945) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245879) |
 | 2025 | KGN-Pro: Keypoint-Based Grasp Prediction through Probabilistic 2D-3D Correspondence Learning | IROS · Grasp | [Paper](https://arxiv.org/abs/2507.14820) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246850) |
 | 2025 | Learning Object Compliance via Young’s Modulus from Single Grasps using Camera-Based Tactile Sensors | IROS · Grasp | [Paper](https://arxiv.org/abs/2406.15304) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247434) |
@@ -49,121 +39,78 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | PartGrasp: Generalizable Part-level Grasping via Semantic-Geometric Alignment | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS60139.2025.11246282) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246282) |
 | 2025 | PhyGrasp: Generalizing Robotic Grasping with Physics-informed Large Multimodal Models | IROS · Grasp | [Paper](https://arxiv.org/abs/2402.16836) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246481) |
 | 2025 | SkB-Hand: A Skeleton Bionic Hand with Dual-Tendon for General Purpose Robotic Grasping Tasks | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS60139.2025.11245858) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245858) |
-| 2025 | SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping | IROS · Grasp | [Paper](https://arxiv.org/abs/2505.24305) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247370) |
 | 2025 | Tendon-driven Grasper Design for Aerial Robot Perching on Tree Branches | IROS · Grasp | [Paper](https://arxiv.org/abs/2503.00214) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247040) |
 | 2025 | Towards Extrinsic Dexterity Grasping in Unrestricted Environments | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS60139.2025.11246419) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246419) |
 | 2025 | TransSoft: The Low-Cost, Adaptable, and Radial Reconfigurable Soft Hand for Diverse Object Grasping | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS60139.2025.11247145) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247145) |
 | 2024 | MANUS: Markerless Grasp Capture Using Articulated 3D Gaussians | CVPR · Grasp | [Paper](https://arxiv.org/pdf/2312.02137) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.00214) |
 | 2024 | Implicit Grasp Diffusion: Bridging the Gap between Dense Prediction and Sampling-based Grasping | CoRL · Grasp | [Paper](https://www.semanticscholar.org/paper/0aabefe37b36fc84f33290d454fa4ec359eb66cc) · [Index](https://dblp.org/rec/conf/corl/SongLD24) |
-| 2024 | OrbitGrasp: SE(3)-Equivariant Grasp Learning | CoRL · Grasp | [Paper](https://arxiv.org/abs/2407.03531) · [Publisher](https://doi.org/10.48550/arXiv.2407.03531) |
-| 2024 | Region-aware Grasp Framework with Normalized Grasp Space for Efficient 6-DoF Grasping | CoRL · Grasp | [Paper](https://arxiv.org/abs/2406.01767) · [Index](https://dblp.org/rec/conf/corl/ChenXTHDW24) |
 | 2024 | ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter | CoRL · Grasp | [Paper](https://arxiv.org/abs/2407.11298) · [Publisher](https://doi.org/10.48550/arXiv.2407.11298) |
 | 2024 | Learning Cross-Hand Policies of High-DOF Reaching and Grasping | ECCV · Grasp | [Paper](https://doi.org/10.1007/978-3-031-73404-5_16) · [Publisher](https://doi.org/10.1007/978-3-031-73404-5_16) |
 | 2024 | Local Occupancy-Enhanced Object Grasping with Multiple Triplanar Projection | ECCV · Grasp | [Paper](https://arxiv.org/abs/2407.15771) · [Publisher](https://doi.org/10.48550/arXiv.2407.15771) |
-| 2024 | Amortized Inference for Efficient Grasp Model Adaptation | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610789) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610789) |
 | 2024 | An Electromagnetism-Inspired Method for Estimating In-Grasp Torque from Visuotactile Sensors | ICRA · Grasp | [Paper](https://arxiv.org/abs/2404.15626) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611429) |
 | 2024 | Bionic Soft Fingers with Hybrid Variable Stiffness Mechanisms for Multimode Grasping | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611680) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611680) |
 | 2024 | DenseTact-Mini: An Optical Tactile Sensor for Grasping Multi-Scale Objects From Flat Surfaces | ICRA · Grasp | [Paper](https://arxiv.org/abs/2309.08860) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610583) |
 | 2024 | Design and Modeling of a Nested Bi-cavity-based Soft Growing Robot for Grasping in Constrained Environments | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610986) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610986) |
 | 2024 | Grasp Anything: Combining Teacher-Augmented Policy Gradient Learning with Instance Segmentation to Grasp Arbitrary Objects | ICRA · Grasp | [Paper](https://arxiv.org/abs/2403.10187) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610700) |
 | 2024 | Grasp Manipulation Relationship Detection based on Graph Sample and Aggregation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611627) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611627) |
-| 2024 | HAGrasp: Hybrid Action Grasp Control in Cluttered Scenes using Deep Reinforcement Learning | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610852) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610852) |
-| 2024 | ICGNet: A Unified Approach for Instance-Centric Grasping | ICRA · Grasp | [Paper](https://arxiv.org/abs/2401.09939) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611725) |
 | 2024 | InterRep: A Visual Interaction Representation for Robotic Grasping | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610870) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610870) |
 | 2024 | Learning to estimate incipient slip with tactile sensing to gently grasp objects | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611517) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611517) |
 | 2024 | Learning to Grasp in Clutter with Interactive Visual Failure Prediction | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611363) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611363) |
 | 2024 | PROGrasp: Pragmatic Human-Robot Communication for Object Grasping | ICRA · Grasp | [Paper](https://arxiv.org/abs/2309.07759) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610543) |
-| 2024 | Robotic Grasping of Harvested Tomato Trusses Using Vision and Online Learning | ICRA · Grasp | [Paper](https://arxiv.org/abs/2309.17170) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610089) |
-| 2024 | The Fractal Hand-II: Reviving a Classic Mechanism for Contemporary Grasping Challenges | ICRA · Grasp | [Paper](https://arxiv.org/abs/2309.08766) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611267) |
-| 2024 | The Grasp Reset Mechanism: An Automated Apparatus for Conducting Grasping Trials | ICRA · Grasp | [Paper](https://arxiv.org/abs/2402.18650) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610892) |
-| 2024 | Towards Feasible Dynamic Grasping: Leveraging Gaussian Process Distance Field, SE(3) Equivariance, and Riemannian Mixture Models | ICRA · Grasp | [Paper](https://arxiv.org/abs/2311.02576) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611601) |
-| 2024 | Unknown Object Grasping for Assistive Robotics | ICRA · Grasp | [Paper](https://arxiv.org/abs/2404.15001) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611347) |
-| 2024 | VFAS-Grasp: Closed Loop Grasping with Visual Feedback and Adaptive Sampling | ICRA · Grasp | [Paper](https://arxiv.org/abs/2310.18459) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611183) |
+| 2024 | Residual-NeRF: Learning Residual NeRFs for Transparent Object Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2405.06181) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611224) |
+| 2024 | Robotic Manipulation of Hand Tools: The Case of Screwdriving | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610831) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610831) |
 | 2024 | Visual Feedback Control of an Underactuated Hand for Grasping Brittle and Soft Foods | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610649) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610649) |
-| 2024 | You Only Scan Once: A Dynamic Scene Reconstruction Pipeline for 6-DoF Robotic Grasping of Novel Objects | ICRA · Grasp | [Paper](https://arxiv.org/abs/2404.03462) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611371) |
-| 2024 | Adapting Skills to Novel Grasps: A Self-Supervised Approach | IROS · Grasp | [Paper](https://arxiv.org/abs/2408.00178) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802112) |
-| 2024 | Bridging the Gap to Natural Language-based Grasp Predictions through Semantic Information Extraction | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS58592.2024.10802058) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802058) |
-| 2024 | Click to Grasp: Zero-Shot Precise Manipulation via Visual Diffusion Descriptors | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2403.14526) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801488) |
-| 2024 | Efficient Tactile Sensing-based Learning from Limited Real-world Demonstrations for Dual-arm Fine Pinch-Grasp Skills | IROS · Grasp | [Paper](https://discovery.ucl.ac.uk/10210062/1/Tactip_LfD_RAL%20%281%29.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802651) |
+| 2024 | Bridging the Gap to Natural Language-based Grasp Predictions through Semantic Information Extraction | IROS · Grasp | [Paper](https://doi.org/10.22028/d291-48542) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802058) |
+| 2024 | Efficient Tactile Sensing-based Learning from Limited Real-world Demonstrations for Dual-arm Fine Pinch-Grasp Skills | IROS · Grasp | [Paper](https://discovery.ucl.ac.uk/id/eprint/10210062/1/Tactip_LfD_RAL%20%281%29.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802651) |
 | 2024 | KOSMOS-E : Learning to Follow Instruction for Robotic Grasping | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS58592.2024.10802219) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802219) |
 | 2024 | LAC-Net: Linear-Fusion Attention-Guided Convolutional Network for Accurate Robotic Grasping Under the Occlusion | IROS · Grasp | [Paper](https://arxiv.org/abs/2408.03238) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802054) |
-| 2024 | Learning a Pre-Grasp Manipulation Policy to Effectively Retrieve a Target in Dense Clutter | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801734) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801734) |
 | 2024 | Modeling of Hydraulic Soft Hand with Rubber Sheet Reservoir and Evaluation of its Grasping Flexibility and Control | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS58592.2024.10802355) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802355) |
 | 2024 | MPGNet: Learning Move-Push-Grasping Synergy for Target-Oriented Grasping in Occluded Scenes | IROS · Grasp | [Paper](https://arxiv.org/abs/2408.10525) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802784) |
-| 2024 | Origami Actuator with Tunable Limiting Layer for Reconfigurable Soft Robotic Grasping | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS58592.2024.10802452) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802452) |
 | 2024 | OVGNet: A Unified Visual-Linguistic Framework for Open-Vocabulary Robotic Grasping | IROS · Grasp | [Paper](https://arxiv.org/abs/2407.13175) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802654) |
 | 2024 | PGA: Personalizing Grasping Agents with Single Human-Robot Interaction | IROS · Grasp | [Paper](https://arxiv.org/pdf/2310.12547) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801347) |
 | 2024 | PreAfford: Universal Affordance-Based Pre-Grasping for Diverse Objects and Environments | IROS · Grasp | [Paper](https://arxiv.org/abs/2404.03634) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802523) |
 | 2024 | Soft finger rotational stability for precision grasps | IROS · Grasp | [Paper](https://arxiv.org/pdf/2310.04846) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802720) |
-| 2024 | Speeding up 6-DoF Grasp Sampling with Quality-Diversity | IROS · Grasp | [Paper](https://arxiv.org/pdf/2403.06173) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801391) |
 | 2023 | FLEX: Full-Body Grasping Without Full-Body Grasps | CVPR · Grasp | [Paper](https://arxiv.org/abs/2211.11903) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.02029) |
-| 2023 | Target-referenced Reactive Grasping for Dynamic Objects | CVPR · Grasp | [Paper](https://doi.org/10.1109/CVPR52729.2023.00852) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.00852) |
-| 2023 | Affordance-Driven Next-Best-View Planning for Robotic Grasping | CoRL · Grasp | [Paper](https://arxiv.org/pdf/2309.09556) · [Publisher](https://doi.org/10.48550/arXiv.2309.09556) |
 | 2023 | Geometry Matching for Multi-Embodiment Grasping | CoRL · Grasp | [Paper](https://arxiv.org/abs/2312.03864) · [Publisher](https://doi.org/10.48550/arXiv.2312.03864) |
 | 2023 | 3DSGrasp: 3D Shape-Completion for Robotic Grasp | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2301.00866) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160350) |
 | 2023 | Clothes Grasping and Unfolding Based on RGB-D Semantic Segmentation | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2305.03259) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160268) |
 | 2023 | FOGL: Federated Object Grasping Learning | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161191) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161191) |
-| 2023 | GraspAda: Deep Grasp Adaptation through Domain Transfer | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160213) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160213) |
-| 2023 | Learning Pre-Grasp Manipulation of Flat Objects in Cluttered Environments using Sliding Primitives | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160869) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160869) |
+| 2023 | MMRDN: Consistent Representation for Multi-View Manipulation Relationship Detection in Object-Stacked Scenes | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2304.12592) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161450) |
 | 2023 | MonoGraspNet: 6-DoF Grasping with a Single RGB Image | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2209.13036) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160779) |
-| 2023 | Motion Planning for a Climbing Robot with Stochastic Grasps | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2209.10687) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160218) |
-| 2023 | Neural Grasp Distance Fields for Robot Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2211.02647) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160217) |
-| 2023 | Online Tool Selection with Learned Grasp Prediction Models | ICRA · Grasp | [Paper](https://arxiv.org/abs/2302.07940) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160952) |
-| 2023 | Pick2Place: Task-aware 6DoF Grasp Estimation via Object-Centric Perspective Affordance | ICRA · Grasp | [Paper](https://arxiv.org/abs/2304.04100) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160736) |
-| 2023 | Real-Time Generative Grasping with Spatio-temporal Sparse Convolution | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161529) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161529) |
-| 2023 | SE(3)-DiffusionFields: Learning smooth cost functions for joint grasp and motion optimization through diffusion | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2209.03855) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161569) |
-| 2023 | SonicFinger: Pre-touch and Contact Detection Tactile Sensor for Reactive Pregrasping | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161074) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161074) |
 | 2023 | Tactile-Driven Gentle Grasping for Human-Robot Collaborative Tasks | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2303.09346) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161036) |
 | 2023 | Towards Robust Autonomous Grasping with Reflexes Using High-Bandwidth Sensing and Actuation | ICRA · Grasp | [Paper](https://arxiv.org/abs/2209.11367) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160930) |
-| 2023 | Autonomous Marker-Less Rapid Aerial Grasping | IROS · Grasp | [Paper](https://arxiv.org/pdf/2211.13093) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342033) |
-| 2023 | Constrained Generative Sampling of 6-DoF Grasps | IROS · Grasp | [Paper](https://arxiv.org/pdf/2302.10745) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341344) |
 | 2023 | EARL: Eye-on-Hand Reinforcement Learner for Dynamic Grasping with Active Pose Estimation | IROS · Grasp | [Paper](https://arxiv.org/pdf/2310.06751) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341988) |
-| 2023 | Employing Multi-Layer, Sensorised Kirigami Grippers for Single-Grasp Based Identification of Objects and Force Exertion Estimation | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS55552.2023.10341390) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341390) |
 | 2023 | Flexible Handover with Real-Time Robust Dynamic Grasp Trajectory Generation | IROS · Grasp | [Paper](https://arxiv.org/pdf/2308.15622) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341777) |
 | 2023 | Grasp State Classification in Agricultural Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS55552.2023.10341881) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341881) |
 | 2023 | IOSG: Image-Driven Object Searching and Grasping | IROS · Grasp | [Paper](https://arxiv.org/pdf/2308.05821) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342009) |
 | 2023 | Learning Bifunctional Push-Grasping Synergistic Strategy for Goal-Agnostic and Goal-Oriented Tasks | IROS · Grasp | [Paper](https://arxiv.org/pdf/2212.01763) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342533) |
-| 2023 | Learning to Grasp Clothing Structural Regions for Garment Manipulation Tasks | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2306.14553) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342086) |
-| 2023 | Multi-Source Fusion for Voxel-Based 7-DoF Grasping Pose Estimation | IROS · Grasp | [Paper](https://infoscience.epfl.ch/handle/20.500.14299/206311) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341840) |
-| 2023 | Refining 6-DoF Grasps with Context-Specific Classifiers | IROS · Grasp | [Paper](https://arxiv.org/pdf/2308.06928) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341671) |
+| 2023 | Prioritized Planning for Target-Oriented Manipulation via Hierarchical Stacking Relationship Prediction | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2303.07828) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342196) |
 | 2023 | Self-Supervised Instance Segmentation by Grasping | IROS · Grasp | [Paper](https://arxiv.org/pdf/2305.06305) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342432) |
 | 2023 | Task-Oriented Grasp Prediction with Visual-Language Inputs | IROS · Grasp | [Paper](https://arxiv.org/abs/2302.14355) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342268) |
-| 2023 | Two-Fingered Hand with Gear-Type Synchronization Mechanism with Magnet for Improved Small and Offset Objects Grasping: F2 Hand | IROS · Grasp | [Paper](https://arxiv.org/pdf/2309.08312) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342060) |
-| 2023 | VL-Grasp: a 6-Dof Interactive Grasp Policy for Language-Oriented Objects in Cluttered Indoor Scenes | IROS · Grasp | [Paper](https://arxiv.org/abs/2308.00640) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341379) |
 | 2023 | Wireless Capacitive Tactile Sensor Arrays for Sensitive/Delicate Robot Grasping | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS55552.2023.10342163) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342163) |
 | 2022 | Evo-NeRF: Evolving NeRF for Sequential Robot Grasping of Transparent Objects | CoRL · Grasp | [Paper](https://www.semanticscholar.org/paper/b62ee8223006c9b78db6a000078308dc83767a1a) · [Index](https://dblp.org/rec/conf/corl/KerrFHATIKG22) |
 | 2022 | Learning Generalizable Dexterous Manipulation from Human Grasp Affordance | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2204.02320) · [Publisher](https://doi.org/10.48550/arXiv.2204.02320) |
-| 2022 | Learning to Grasp the Ungraspable with Emergent Extrinsic Dexterity | CoRL · Grasp | [Paper](https://arxiv.org/pdf/2211.01500) · [Publisher](https://doi.org/10.48550/arXiv.2211.01500) |
-| 2022 | Volumetric-based Contact Point Detection for 7-DoF Grasping | CoRL · Grasp | [Paper](https://arxiv.org/abs/2209.06675) · [Publisher](https://doi.org/10.48550/arXiv.2209.06675) |
-| 2022 | Self-Supervised Interactive Object Segmentation Through a Singulation-and-Grasping Approach | ECCV · Grasp | [Paper](https://arxiv.org/abs/2207.09314) · [Publisher](https://doi.org/10.48550/arXiv.2207.09314) |
-| 2022 | Automatic Acquisition of a Repertoire of Diverse Grasping Trajectories through Behavior Shaping and Novelty Search | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2205.08189) · [Publisher](https://doi.org/10.48550/arXiv.2205.08189) |
-| 2022 | Grasp Transfer for Deformable Objects by Functional Map Correspondence | ICRA · Grasp | [Paper](https://arxiv.org/abs/2203.00776) · [Publisher](https://doi.org/10.48550/arXiv.2203.00776) |
-| 2022 | HGC-Net: Deep Anthropomorphic Hand Grasping in Clutter | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra46639.2022.9811756) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811756) |
 | 2022 | Integrated Learning of Robot Motion and Sentences: Real-Time Prediction of Grasping Motion and Attention based on Language Instructions | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra46639.2022.9811815) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811815) |
 | 2022 | Interactive Robotic Grasping with Attribute-Guided Disambiguation | ICRA · Grasp | [Paper](https://arxiv.org/abs/2203.08037) · [Publisher](https://doi.org/10.48550/arXiv.2203.08037) |
 | 2022 | Learning 6-DoF Object Poses to Grasp Category-Level Objects by Language Instructions | ICRA · Grasp | [Paper](https://arxiv.org/abs/2205.04028) · [Publisher](https://doi.org/10.48550/arXiv.2205.04028) |
-| 2022 | Learning Object Relations with Graph Neural Networks for Target-Driven Grasping in Dense Clutter | ICRA · Grasp | [Paper](https://arxiv.org/abs/2203.00875) · [Publisher](https://doi.org/10.48550/arXiv.2203.00875) |
 | 2022 | Learning-based Ellipse Detection for Robotic Grasps of Cylinders and Ellipsoids | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra46639.2022.9812363) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812363) |
 | 2022 | Multi-Object Grasping - Types and Taxonomy | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2205.15276) · [Publisher](https://doi.org/10.48550/arXiv.2205.15276) |
 | 2022 | Robot Grasping through a Joint-Initiative Supervised Autonomy Framework | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra46639.2022.9811721) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811721) |
-| 2022 | Uncertainty-based Exploring Strategy in Densely Cluttered Scenes for Vacuum Cup Grasping | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra46639.2022.9811599) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811599) |
-| 2022 | Bio-Inspired Grasping Controller for Sensorized 2-DoF Grippers | IROS · Grasp | [Paper](https://arxiv.org/pdf/2311.07257) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981819) |
+| 2022 | “The World Is Its Own Best Model”: Robust Real-World Manipulation Through Online Behavior Selection | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2205.04172) · [Publisher](https://doi.org/10.48550/arXiv.2205.04172) |
 | 2022 | Computation and Selection of Secure Gravity Based Caging Grasps of Planar Objects | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9982151) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982151) |
-| 2022 | CPQNet: Contact Points Quality Network for Robotic Grasping | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9981372) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981372) |
-| 2022 | Designing Underactuated Graspers with Dynamically Variable Geometry Using Potential Energy Map Based Analysis | IROS · Grasp | [Paper](https://arxiv.org/pdf/2203.07456) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982148) |
-| 2022 | Fixture-Aware DDQN for Generalized Environment-Enabled Grasping | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9982182) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982182) |
+| 2022 | Designing Underactuated Graspers with Dynamically Variable Geometry Using Potential Energy Map Based Analysis | IROS · Grasp | [Paper](https://arxiv.org/abs/2203.07456) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982148) |
 | 2022 | GE-Grasp: Efficient Target-Oriented Grasping in Dense Clutter | IROS · Grasp | [Paper](https://arxiv.org/pdf/2207.11941) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981499) |
-| 2022 | Learning to Grasp on the Moon from 3D Octree Observations with Deep Reinforcement Learning | IROS · Grasp | [Paper](https://arxiv.org/pdf/2208.00818) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981661) |
 | 2022 | Leveraging Publicly Available Textual Object Descriptions for Anthropomorphic Robotic Grasp Predictions | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9981541) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981541) |
 | 2022 | MasKGrasp: Mask-based Grasping for Scenes with Multiple General Real-world Objects | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9982130) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982130) |
 | 2022 | Predicting fruit-pick success using a grasp classifier trained on a physical proxy | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9981716) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981716) |
+| 2022 | Visual Manipulation Relationship Detection based on Gated Graph Neural Network for Robotic Grasping | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981077) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981077) |
 | 2022 | Visual-tactile Sensing for Real-time Liquid Volume Estimation in Grasping | IROS · Grasp | [Paper](https://arxiv.org/pdf/2202.11503) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981153) |
-| 2022 | Sample Efficient Grasp Learning Using Equivariant Models | RSS · Grasp | [Paper](https://doi.org/10.15607/rss.2022.xviii.071) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.071) |
 
-## Recent arXiv papers (259)
+## Recent arXiv papers (260)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-21 | ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations | Yiwen Liu, Yujun Zhu, Kui Jia, Zhao Liao et al. | [Abstract](https://arxiv.org/abs/2608.21355) · [PDF](https://arxiv.org/pdf/2608.21355) |
 | 2026-08-19 | RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience | Yaowei Guo, Zeng Tao, Yuxin Jiang, Yunuo Chen et al. | [Abstract](https://arxiv.org/abs/2608.18948) · [PDF](https://arxiv.org/pdf/2608.18948) |
 | 2026-08-15 | GUIDER: Evaluating Goal-Free Human Intent Inference for Teleoperated Manipulation on Real-Robot Data | Nicholas Kenny, Cesar Alan Contreras, Basile Ouedraogo, Rustam Stolkin et al. | [Abstract](https://arxiv.org/abs/2608.15446) · [PDF](https://arxiv.org/pdf/2608.15446) |
 | 2026-08-10 | Removing Infrastructure Barriers in Human-Robot Collaboration Through Wireless Reconfigurable Cells | Emma Takács, Mátyás Hajós, Ádám Juniki, Ádám Fischer et al. | [Abstract](https://arxiv.org/abs/2608.09658) · [PDF](https://arxiv.org/pdf/2608.09658) |

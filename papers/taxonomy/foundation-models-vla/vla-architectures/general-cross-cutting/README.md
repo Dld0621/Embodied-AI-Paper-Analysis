@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=VLA%20Architectures&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 102 conference papers · 799 recent arXiv papers
+> 31 conference papers · 800 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,7 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (102)
+## Conference papers (31)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -24,107 +24,37 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | π0.5: a Vision-Language-Action Model with Open-World Generalization | CoRL · Open-world VLA | [Paper](https://proceedings.mlr.press/v305/black25a.html) · [Official](https://proceedings.mlr.press/v305/black25a.html) · [Code](https://github.com/Physical-Intelligence/openpi) |
 | 2025 | CoA-VLA: Improving Vision-Language-Action Models via Visual-Textual Chain-of-Affordance | ICCV · Vision Language Action | [Paper](https://arxiv.org/abs/2412.20451) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00910) |
 | 2025 | Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics | ICCV · Vision Language Action | [Paper](https://arxiv.org/pdf/2411.13587) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00653) |
-| 2025 | BadRobot: Jailbreaking Embodied LLM Agents in the Physical World | ICLR · Llm | [Paper](https://arxiv.org/abs/2407.20242) · [Index](https://dblp.org/rec/conf/iclr/ZhangZ00YLXWHLG25) |
 | 2025 | HAMSTER: Hierarchical Action Models for Open-World Robot Manipulation | ICLR · Hierarchical VLA | [Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/3bfee3bc6639c36e6e7b058db909f760-Abstract-Conference.html) · [Official](https://proceedings.iclr.cc/paper_files/paper/2025/hash/3bfee3bc6639c36e6e7b058db909f760-Abstract-Conference.html) |
 | 2025 | LASeR: Towards Diversified and Generalizable Robot Design with Large Language Models | ICLR · Large Language Model | [Paper](https://www.semanticscholar.org/paper/17621b2a91a7dd47ea217dc7d8b04e2568f4e177) · [Index](https://dblp.org/rec/conf/iclr/SongYXPYW25) |
 | 2025 | VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation | ICLR · Vision Language Action | [Paper](https://arxiv.org/abs/2502.13508) · [Publisher](https://doi.org/10.48550/arXiv.2502.13508) |
-| 2025 | 3D Spatial Understanding in MLLMs: Disambiguation and Evaluation | ICRA · Llm | [Paper](https://arxiv.org/abs/2412.06613) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128559) |
 | 2025 | Automated Hybrid Reward Scheduling Via Large Language Models for Robotic Skill Learning | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2505.02483) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127726) |
-| 2025 | Automatic Behavior Tree Expansion with LLMs for Robotic Manipulation | ICRA · Llm | [Paper](https://arxiv.org/abs/2409.13356) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127942) |
-| 2025 | COHERENT: Collaboration of Heterogeneous Multi-Robot System with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2409.15146) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127808) |
-| 2025 | COLLAGE: Collaborative Human-Agent Interaction Generation Using Hierarchical Latent Diffusion and Language Models | ICRA · Language Model | [Paper](https://arxiv.org/abs/2409.20502) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128777) |
-| 2025 | CurricuLLM: Automatic Task Curricula Design for Learning Complex Robot Skills Using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2409.18382) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128783) |
-| 2025 | Discovering Object Attributes by Prompting Large Language Models With Perception-Action Apis | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2409.15505) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127632) |
-| 2025 | ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2403.09583) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127622) |
-| 2025 | GRACE: Generating Socially Appropriate Robot Actions Leveraging LLMs and Human Explanations | ICRA · Llm | [Paper](https://arxiv.org/abs/2409.16879) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127826) |
-| 2025 | Hey Robot! Personalizing Robot Navigation Through Model Predictive Control with a Large Language Model | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2409.13393) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128826) |
 | 2025 | Improving Vision-Language-Action Model with Online Reinforcement Learning | ICRA · Vision Language Action | [Paper](https://arxiv.org/abs/2501.16664) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127299) |
-| 2025 | IRef-VLA: A Benchmark for Interactive Referential Grounding with Imperfect Language in 3D Scenes | ICRA · Vla | [Paper](https://arxiv.org/abs/2503.17406) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127464) |
-| 2025 | Jailbreaking LLM-Controlled Robots | ICRA · Llm | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128119) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128119) |
-| 2025 | MultiTalk: Introspective and Extrospective Dialogue for Human-Environment-LLM Alignment | ICRA · Llm | [Paper](https://arxiv.org/abs/2409.16455) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128486) |
-| 2025 | Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2502.06419) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127665) |
 | 2025 | ReVLA: Reverting Visual Domain Limitation of Robotic Foundation Models | ICRA · Vla | [Paper](https://arxiv.org/abs/2409.15250) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128823) |
 | 2025 | Run-time Observation Interventions Make Vision-Language-Action Models More Visually Robust | ICRA · Vision Language Action | [Paper](https://arxiv.org/abs/2410.01971) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128017) |
 | 2025 | SAS-Prompt: Large Language Models as Numerical Optimizers for Robot Self-Improvement | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2504.20459) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127882) |
-| 2025 | SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2409.19471) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128420) |
-| 2025 | AnyBipe: An Automated End-to-End Framework for Training and Deploying Bipedal Robots Powered by Large Language Models | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246492) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246492) |
-| 2025 | AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environments | IROS · Llm | [Paper](https://arxiv.org/abs/2409.17655) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246901) |
-| 2025 | Automatic MILP Model Construction for Multi-Robot Task Allocation and Scheduling Based on Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2503.13813) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246517) |
 | 2025 | ChatBuilder: LLM-assisted Modular Robot Creation | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11247761) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247761) |
-| 2025 | CLGA: A Collaborative LLM Framework for Dynamic Goal Assignment in Multi-Robot Systems | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11246692) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246692) |
 | 2025 | Closing the intent-to-behavior gap via Fulfillment Priority Logic | IROS · Llm | [Paper](https://arxiv.org/abs/2503.05818) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247623) |
-| 2025 | DEXTER-LLM: Dynamic and Explainable Coordination of Multi-Robot Systems in Unknown Environments via Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2508.14387) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247301) |
-| 2025 | Exploring Spontaneous Social Interaction Swarm Robotics Powered by Large Language Models | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246362) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246362) |
-| 2025 | Human-in-the-loop Learning for Adaptive Robot Manipulation using Large Language Models and Behavior Trees | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246114) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246114) |
-| 2025 | Interactive Object Detection by Mitigating Uncertainty of Robot Task Plans using Large Language Model | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246834) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246834) |
 | 2025 | LangGrasp: Leveraging Fine-Tuned LLMs for Language Interactive Robot Grasping with Ambiguous Instructions | IROS · Llm | [Paper](https://arxiv.org/abs/2510.02104) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246661) |
-| 2025 | LBAP: Improved Uncertainty Alignment of LLM Planners using Bayesian Inference | IROS · Llm | [Paper](https://arxiv.org/abs/2403.13198) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245905) |
-| 2025 | LLplace: Embodied 3D Indoor Layout Synthesis Framework with Large Language Model | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246995) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246995) |
 | 2025 | PD-VLA: Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding | IROS · Vision Language Action | [Paper](https://arxiv.org/abs/2503.02310) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247519) |
-| 2025 | Socially-Aware Robot Navigation Enhanced by Bidirectional Natural Language Conversations Using Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2409.04965) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246738) |
-| 2025 | Towards Emotion Co-regulation with LLM-powered Socially Assistive Robots: Integrating LLM Prompts and Robotic Behaviors to Support Parent-Neurodivergent Child Dyads | IROS · Llm | [Paper](https://arxiv.org/abs/2507.10427) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246217) |
-| 2025 | TR-LLM: Integrating Trajectory Data for Scene-Aware LLM-Based Human Action Prediction | IROS · Llm | [Paper](https://arxiv.org/abs/2410.03993) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246714) |
 | 2025 | Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization | NeurIPS · Vision Language Action | [Paper](https://arxiv.org/abs/2505.15660) · [Publisher](https://doi.org/10.48550/arXiv.2505.15660) |
-| 2025 | Fast-in-Slow: A Dual-System VLA Model Unifying Fast Manipulation within Slow Reasoning | NeurIPS · Vla | [Paper](https://www.semanticscholar.org/paper/ab26852ff7b582e4ecdc89300518f6578e4eb23c) · [Index](https://dblp.org/rec/conf/nips/ChenLGLZLHGFZH25) |
-| 2025 | VideoVLA: Video Generators Can Be Generalizable Robot Manipulators | NeurIPS · Vla | [Paper](https://arxiv.org/abs/2512.06963) · [Publisher](https://doi.org/10.48550/arXiv.2512.06963) |
-| 2025 | VLA-Cache: Efficient Vision-Language-Action Manipulation via Adaptive Token Caching | NeurIPS · Vision Language Action | [Paper](https://arxiv.org/abs/2502.02175) · [Index](https://dblp.org/rec/conf/nips/XuWXZHX25) |
-| 2024 | AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation | CoRL · Llm | [Paper](https://arxiv.org/abs/2406.11548) · [Publisher](https://doi.org/10.48550/arXiv.2406.11548) |
-| 2024 | DeliGrasp: Inferring Object Properties with LLMs for Adaptive Grasp Policies | CoRL · Llm | [Paper](https://arxiv.org/abs/2403.07832) · [Publisher](https://doi.org/10.48550/arXiv.2403.07832) |
-| 2024 | Eurekaverse: Environment Curriculum Generation via Large Language Models | CoRL · Large Language Model | [Paper](https://arxiv.org/abs/2411.01775) · [Publisher](https://doi.org/10.48550/arXiv.2411.01775) |
 | 2024 | OpenVLA: An Open-Source Vision-Language-Action Model | CoRL · Vision-language-action | [Paper](https://arxiv.org/abs/2406.09246) · [Official](https://proceedings.mlr.press/v270/) · [Code](https://github.com/openvla/openvla) |
-| 2024 | SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment | CoRL · Llm | [Paper](https://arxiv.org/abs/2410.18907) · [Publisher](https://doi.org/10.48550/arXiv.2410.18907) |
-| 2024 | Adapt2Reward: Adapting Video-Language Models to Generalizable Robotic Rewards via Failure Prompts | ECCV · Language Model | [Paper](https://arxiv.org/abs/2407.14872) · [Publisher](https://doi.org/10.48550/arXiv.2407.14872) |
 | 2024 | QUAR-VLA: Vision-Language-Action Model for Quadruped Robots | ECCV · Vision Language Action | [Paper](https://arxiv.org/abs/2312.14457) · [Publisher](https://doi.org/10.48550/arXiv.2312.14457) |
-| 2024 | Learning Reward for Robot Skills Using Large Language Models via Self-Alignment | ICML · Large Language Model | [Paper](https://arxiv.org/abs/2405.07162) · [Publisher](https://doi.org/10.48550/arXiv.2405.07162) |
-| 2024 | CAPE: Corrective Actions from Precondition Errors using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2211.09935) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611376) |
-| 2024 | Conditionally Combining Robot Skills using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2310.17019) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611275) |
-| 2024 | Cook2LTL: Translating Cooking Recipes to LTL Formulae using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2310.00163) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611086) |
-| 2024 | Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs | ICRA · Llm | [Paper](https://arxiv.org/abs/2311.02847) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610744) |
 | 2024 | Large Language Models for Robot Task Allocation | ICRA · Large Language Model | [Paper](https://www.iaarc.org/./publications/fulltext/05_ICRA_2024_Paper_61.pdf) · [Publisher](https://doi.org/10.22260/icra2024/0007) |
-| 2024 | Lifelong Robot Library Learning: Bootstrapping Composable and Generalizable Skills for Embodied Control with Language Models | ICRA · Language Model | [Paper](https://research.rug.nl/en/publications/2ddda900-980a-4418-88ee-44f0cdee4b2e) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611448) |
 | 2024 | LLM-BT: Performing Robotic Adaptive Tasks based on Large Language Models and Behavior Trees | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2404.05134) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610183) |
-| 2024 | Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents | ICRA · Llm | [Paper](https://arxiv.org/abs/2309.09919) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611447) |
-| 2024 | Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs | ICRA · Llm | [Paper](https://arxiv.org/abs/2404.04869) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611614) |
-| 2024 | RoCo: Dialectic Multi-Robot Collaboration with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2307.04738) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610855) |
-| 2024 | Scalable Multi-Robot Collaboration with Large Language Models: Centralized or Decentralized Systems? | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2309.15943) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610676) |
 | 2024 | Using Large Language Models to Generate and Apply Contingency Handling Procedures in Collaborative Assembly Applications | ICRA · Large Language Model | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610875) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610875) |
-| 2024 | A Language-Driven Navigation Strategy Integrating Semantic Maps and Large Language Models | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS58592.2024.10802631) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802631) |
-| 2024 | Are Large Language Models Aligned with People’s Social Intuitions for Human–Robot Interactions? | IROS · Large Language Model | [Paper](https://kclpure.kcl.ac.uk/portal/en/publications/acb7e53b-d793-4c93-b269-a810d23cc107) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801325) |
-| 2024 | BTGenBot: Behavior Tree Generation for Robotic Tasks with Lightweight LLMs | IROS · Llm | [Paper](https://arxiv.org/abs/2403.12761) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802304) |
 | 2024 | Design of a Multi-robot Coordination System based on Functional Expressions using Large Language Models | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS58592.2024.10802571) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802571) |
-| 2024 | DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences | IROS · Llm | [Paper](https://arxiv.org/pdf/2406.03008) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802555) |
-| 2024 | Ensuring Safety in LLM-Driven Robotics: A Cross-Layer Sequence Supervision Mechanism | IROS · Llm | [Paper](https://doi.org/10.1109/IROS58592.2024.10801576) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801576) |
-| 2024 | Fly by Book: How to Train a Humanoid Robot to Fly an Airplane using Large Language Models | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS58592.2024.10802288) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802288) |
-| 2024 | From LLMs to Actions: Latent Codes as Bridges in Hierarchical Robot Control | IROS · Llm | [Paper](https://arxiv.org/abs/2405.04798) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801683) |
-| 2024 | ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2403.11289) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801993) |
-| 2024 | Self-Assessment of Robotic Laboratory and Equipment Readiness Using Large Language Models and Robotic Data Capture | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS58592.2024.10802667) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802667) |
 | 2024 | Semantic Layering in Room Segmentation via LLMs | IROS · Llm | [Paper](https://arxiv.org/pdf/2403.12920) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801361) |
-| 2024 | Sensorimotor Attention and Language-based Regressions in Shared Latent Variables for Integrating Robot Motion Learning and LLM | IROS · Llm | [Paper](https://arxiv.org/pdf/2407.09044) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802349) |
-| 2024 | SiSCo: Signal Synthesis for Effective Human-Robot Communication Via Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2409.13927) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802561) |
-| 2024 | To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions | IROS · Llm | [Paper](https://arxiv.org/pdf/2403.12533) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801517) |
 | 2024 | TriLoc-NetVLAD: Enhancing Long-term Place Recognition in Orchards with a Novel LiDAR-Based Approach | IROS · Vla | [Paper](https://doi.org/10.1109/IROS58592.2024.10802261) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802261) |
-| 2024 | DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution | NeurIPS · Vla | [Paper](https://arxiv.org/abs/2411.02359) · [Publisher](https://doi.org/10.48550/arXiv.2411.02359) |
 | 2024 | RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation | NeurIPS · Vision Language Action | [Paper](https://arxiv.org/abs/2406.04339) · [Publisher](https://doi.org/10.52202/079017-1266) |
-| 2024 | Leveraging Large Language Model for Heterogeneous Ad Hoc Teamwork Collaboration | RSS · Large Language Model | [Paper](https://arxiv.org/abs/2406.12224) · [Publisher](https://doi.org/10.48550/arXiv.2406.12224) |
 | 2024 | RT-H: Action Hierarchies using Language | RSS · Action hierarchy | [Paper](https://arxiv.org/abs/2403.01823) · [Official](https://roboticsproceedings.org/rss20/index.html) |
-| 2023 | Large Language Models as General Pattern Machines | CoRL · Large Language Model | [Paper](https://arxiv.org/pdf/2307.04721) · [Publisher](https://doi.org/10.48550/arXiv.2307.04721) |
-| 2023 | Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners | CoRL · Large Language Model | [Paper](https://arxiv.org/pdf/2307.01928) · [Publisher](https://doi.org/10.48550/arXiv.2307.01928) |
 | 2023 | RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control | CoRL · Vision-language-action | [Paper](https://arxiv.org/abs/2307.15818) · [Official](https://proceedings.mlr.press/v229/zitkovich23a.html) |
-| 2023 | Semantic Mechanical Search with Large Vision and Language Models | CoRL · Language Model | [Paper](https://arxiv.org/abs/2302.12915) · [Index](https://dblp.org/rec/conf/corl/SharmaHSCHIG23) |
-| 2023 | VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models | CoRL · Language Model | [Paper](https://arxiv.org/pdf/2307.05973) · [Publisher](https://doi.org/10.48550/arXiv.2307.05973) |
-| 2023 | GenSim: Generating Robotic Simulation Tasks via Large Language Models | ICLR · Large Language Model | [Paper](https://arxiv.org/pdf/2310.01361) · [Publisher](https://doi.org/10.48550/arXiv.2310.01361) |
-| 2023 | A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2302.12610) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161041) |
 | 2023 | Code as Policies: Language Model Programs for Embodied Control | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2209.07753) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160591) |
-| 2023 | ProgPrompt: Generating Situated Robot Task Plans using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2209.11302) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161317) |
-| 2023 | Generating Executable Action Plans with Environmentally-Aware Language Models | IROS · Language Model | [Paper](https://arxiv.org/pdf/2210.04964) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341989) |
-| 2023 | L3MVN: Leveraging Large Language Models for Visual Target Navigation | IROS · Large Language Model | [Paper](https://research.rug.nl/en/publications/f18be2e4-7aa4-4d6e-8cfd-516654f76104) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342512) |
-| 2023 | TidyBot: Personalized Robot Assistance with Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2305.05658) · [Publisher](https://doi.org/10.1007/s10514-023-10139-z) |
-| 2023 | Demonstrating Large Language Models on Robots | RSS · Large Language Model | [Paper](https://doi.org/10.15607/rss.2023.xix.024) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.024) |
 
-## Recent arXiv papers (799)
+## Recent arXiv papers (800)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-21 | A Collaborative Multi-Modality Interaction for VLA-based End-to-End Autonomous Driving | Jingtao Sun, Xiaohai He, Yike Zhang, Dong Huang et al. | [Abstract](https://arxiv.org/abs/2608.20890) · [PDF](https://arxiv.org/pdf/2608.20890) |
 | 2026-08-18 | Prism-GRPO: Faster VLA Policy Optimization via Splitting Same-outcome Groups | Zeyun Deng, Yuzhe Lu, Yawei Wang, Linbo Liu et al. | [Abstract](https://arxiv.org/abs/2608.17423) · [PDF](https://arxiv.org/pdf/2608.17423) |
 | 2026-08-18 | LIBERO-VIFO: Benchmarking the Capability and Safety of Visual Cue Following in Vision-Language-Action Models | Zhengyan Qian, Rui Yan, Alex Jinpeng Wang, Jinhui Tang | [Abstract](https://arxiv.org/abs/2608.17600) · [PDF](https://arxiv.org/pdf/2608.17600) |
 | 2026-08-18 | EATR-Stereo: Embodiment-Aware Token Routing of Paired Stereo Evidence for Humanoid Vision-Language-Action Control | Songwei Wu, Rui Zhao, Fan Yang, Zhongqiang Nie et al. | [Abstract](https://arxiv.org/abs/2608.17453) · [PDF](https://arxiv.org/pdf/2608.17453) |

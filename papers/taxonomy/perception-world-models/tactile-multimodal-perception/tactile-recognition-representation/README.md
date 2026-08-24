@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Tactile%20Recognition%20%26%20Representation#research-workbench)
 
-> 6 conference papers · 21 recent arXiv papers
+> 9 conference papers · 21 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,16 +14,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (6)
+## Conference papers (9)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | Sensor-Invariant Tactile Representation | ICLR · Tactile | [Paper](https://arxiv.org/abs/2502.19638) · [Publisher](https://doi.org/10.48550/arXiv.2502.19638) |
+| 2025 | ACROSS: A Deformation-Based Cross-Modal Representation for Robotic Tactile Perception | ICRA · Tactile | [Paper](https://arxiv.org/abs/2411.08533) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127851) |
 | 2025 | UniTac-NV: A Unified Tactile Representation For Non-Vision-Based Tactile Sensors * | IROS · Tactile | [Paper](https://arxiv.org/abs/2506.19699) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247617) |
 | 2024 | Multimodal Visual-Tactile Representation Learning through Self-Supervised Contrastive Pre-Training | ICRA · Tactile | [Paper](https://arxiv.org/abs/2401.12024) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610228) |
+| 2024 | Probabilistic Spiking Neural Network for Robotic Tactile Continual Learning | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610553) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610553) |
 | 2024 | X-Tacformer : Spatio-tempral Attention Model for Tactile Recognition | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610365) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610365) |
 | 2024 | Exploratory Motion Guided Tactile Learning for Shape-Consistent Robotic Insertion | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS58592.2024.10801550) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801550) |
 | 2023 | Learn from Incomplete Tactile Data: Tactile Representation Learning with Masked Autoencoders | IROS · Tactile | [Paper](https://arxiv.org/pdf/2307.07358) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341788) |
+| 2023 | Self-Supervised Visuo-Tactile Pretraining to Locate and Follow Garment Features | RSS · Tactile | [Paper](https://doi.org/10.15607/rss.2023.xix.018) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.018) |
 
 ## Recent arXiv papers (21)
 

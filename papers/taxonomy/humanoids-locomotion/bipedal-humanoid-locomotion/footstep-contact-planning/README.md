@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Footstep%20%26%20Contact%20Planning#research-workbench)
 
-> 6 conference papers · 9 recent arXiv papers
+> 5 conference papers · 9 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,16 +14,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (6)
+## Conference papers (5)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2024 | Efficient Terrain Map Using Planar Regions for Footstep Planning on Humanoid Robots | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610879) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610879) |
-| 2024 | FootstepNet: an Efficient Actor-Critic Method for Fast On-line Bipedal Footstep Planning and Forecasting | IROS · Biped | [Paper](https://arxiv.org/abs/2403.12589) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802320) |
-| 2024 | Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/abs/2408.02662) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801468) |
+| 2024 | Robust Balancing Control of Biped Robots for External Forces | ICRA · Biped | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611281) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611281) |
+| 2024 | FootstepNet: an Efficient Actor-Critic Method for Fast On-line Bipedal Footstep Planning and Forecasting | IROS · Biped | [Paper](https://hal.science/hal-04938915v1/file/2403.12589v2.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802320) |
 | 2024 | Real-time Coupled Centroidal Motion and Footstep Planning for Biped Robots | IROS · Biped | [Paper](https://arxiv.org/abs/2409.09939) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802557) |
-| 2023 | Quadrupedal Footstep Planning Using Learned Motion Models of a Black-Box Controller | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2307.12292) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342440) |
-| 2022 | Real-time Footstep Planning and Control of the Solo Quadruped Robot in 3D Environments | IROS · Quadruped | [Paper](https://laas.hal.science/hal-03594629) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981539) |
+| 2024 | Real-time Model Predictive Control with Zonotope-Based Neural Networks for Bipedal Social Navigation | IROS · Biped | [Paper](https://arxiv.org/pdf/2403.16485) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801435) |
+| 2022 | Real-time Footstep Planning and Control of the Solo Quadruped Robot in 3D Environments | IROS · Quadruped | [Paper](https://www.research.ed.ac.uk/files/641319880/RisbourgEtalIROS2022Real-timeFootstepPlanning.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981539) |
 
 ## Recent arXiv papers (9)
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Autonomy&specialty=VR%2C%20XR%20%26%20Immersive%20Teleoperation#research-workbench)
 
-> 7 conference papers · 43 recent arXiv papers
+> 13 conference papers · 43 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,16 +14,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (7)
+## Conference papers (13)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | DART: Dexterous Augmented Reality Teleoperation Platform for Large-Scale Robot Data Collection in Simulation | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128299) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128299) |
+| 2025 | NuExo: A Wearable Exoskeleton Covering all Upper Limb ROM for Outdoor Data Collection and Teleoperation of Humanoid Robots | IROS · Teleoperation | [Paper](https://arxiv.org/abs/2503.10554) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247718) |
+| 2024 | OPEN TEACH: A Versatile Teleoperation System for Robotic Manipulation | CoRL · Teleoperation | [Paper](https://arxiv.org/abs/2403.07870) · [Publisher](https://doi.org/10.48550/arXiv.2403.07870) |
 | 2024 | Open-TeleVision: Teleoperation with Immersive Active Visual Feedback | CoRL · Immersive teleoperation | [Paper](https://arxiv.org/abs/2407.01512) · [Official](https://proceedings.mlr.press/v270/) · [Code](https://github.com/OpenTeleVision/TeleVision) |
+| 2024 | 3D Autocomplete: Enhancing UAV Teleoperation with AI in the Loop | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610932) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610932) |
 | 2024 | Self-supervised 6-DoF Robot Grasping by Demonstration via Augmented Reality Teleoperation System | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2404.03067) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611721) |
+| 2024 | TELESIM: A Modular and Plug-and-Play Framework for Robotic Arm Teleoperation using a Digital Twin | ICRA · Teleoperation | [Paper](https://eprints.gla.ac.uk/322280/2/322280.pdf) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610935) |
+| 2024 | Radiance Fields for Robotic Teleoperation | IROS · Teleoperation | [Paper](https://arxiv.org/abs/2407.20194) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801345) |
 | 2024 | Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion | IROS · Teleoperation | [Paper](https://arxiv.org/abs/2408.01225) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802431) |
 | 2024 | User-customizable Shared Control for Robot Teleoperation via Virtual Reality | IROS · Teleoperation | [Paper](https://arxiv.org/abs/2403.13177) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802544) |
-| 2023 | Evaluating Immersive Teleoperation Interfaces: Coordinating Robot Radiation Monitoring Tasks in Nuclear Facilities | ICRA · Teleoperation | [Paper](https://discovery.ucl.ac.uk/10177392/1/ICRA_2022__VR_Nuclear.pdf) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161011) |
+| 2023 | Evaluating Immersive Teleoperation Interfaces: Coordinating Robot Radiation Monitoring Tasks in Nuclear Facilities | ICRA · Teleoperation | [Paper](https://www.dora.lib4ri.ch/empa/dload/empa:35887/PDF2/view) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161011) |
+| 2023 | Orbital Head-Mounted Display: A Novel Interface for Viewpoint Control during Robot Teleoperation in Cluttered Environments | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS55552.2023.10341733) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341733) |
 | 2022 | Tactile Classification of Object Materials for Virtual Reality based Robot Teleoperation | ICRA · Teleoperation | [Paper](https://hal.archives-ouvertes.fr/hal-03644224/file/Tactile%20Classification%20of%20Object%20Materialsfor%20Virtual%20Reality%20based%20Robot%20Teleoperation.pdf) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811825) |
 
 ## Recent arXiv papers (43)

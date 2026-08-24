@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Contact-rich%20%26%20Deformable%20Manipulation&specialty=Pushing%2C%20Sliding%20%26%20Non-prehensile%20Skills#research-workbench)
 
-> 21 conference papers · 86 recent arXiv papers
+> 33 conference papers · 86 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,30 +14,42 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (21)
+## Conference papers (33)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | DyWA: Dynamics-Adaptive World Action Model for Generalizable Non-Prehensile Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/pdf/2503.16806) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01029) |
+| 2025 | FLEX: A Framework for Learning Robot-Agnostic Force-Based Skills Involving Sustained Contact Object Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2503.13418) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127866) |
 | 2025 | Goal-Driven Robotic Pushing Manipulation Under Uncertain Object Properties | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127379) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127379) |
 | 2025 | Implicit Physics-aware Policy for Dynamic Manipulation of Rigid Objects via Soft Body Tools | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2502.05696) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127880) |
 | 2025 | Non-Prehensile Shape Manipulation of Elastoplastic Objects With Reinforcement Learning | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127639) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127639) |
 | 2024 | Learning Visuotactile Estimation and Control for Non-prehensile Manipulation under Occlusions | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2412.13157) · [Publisher](https://doi.org/10.48550/arXiv.2412.13157) |
-| 2024 | Harnessing the Synergy between Pushing, Grasping, and Throwing to Enhance Object Manipulation in Cluttered Scenarios | ICRA · Manipulation | [Paper](https://hdl.handle.net/20.500.11820/43dd4d43-71d2-4d39-a3e4-f10caa3dfa4b) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610548) |
-| 2024 | Self-supervised Learning for Joint Pushing and Grasping Policies in Highly Cluttered Environments | ICRA · Grasp | [Paper](https://arxiv.org/abs/2203.02511) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611650) |
+| 2024 | Harnessing the Synergy between Pushing, Grasping, and Throwing to Enhance Object Manipulation in Cluttered Scenarios | ICRA · Manipulation | [Paper](https://www.research.ed.ac.uk/en/publications/43dd4d43-71d2-4d39-a3e4-f10caa3dfa4b) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610548) |
+| 2024 | Self-supervised Learning for Joint Pushing and Grasping Policies in Highly Cluttered Environments | ICRA · Grasp | [Paper](https://research.rug.nl/en/publications/f920f16d-e2a7-49cf-92d5-e3f6e711bea0) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611650) |
 | 2024 | Dynamic Manipulation of Deformable Objects using Imitation Learning with Adaptation to Hardware Constraints | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2403.12685) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802478) |
 | 2024 | Exploring How Non-Prehensile Manipulation Expands Capability in Robots Experiencing Multi-Joint Failure | IROS · Manipulation | [Paper](https://arxiv.org/abs/2410.01102) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801883) |
 | 2024 | How Physics and Background Attributes Impact Video Transformers in Robotic Manipulation: A Case Study on Planar Pushing | IROS · Manipulation | [Paper](https://arxiv.org/abs/2310.02044) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802583) |
+| 2024 | Learned Slip-Detection-Severity Framework using Tactile Deformation Field Feedback for Robotic Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/abs/2411.07442) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802687) |
+| 2024 | Motion Planning for Object Manipulation by Edge-Rolling | IROS · Manipulation | [Paper](https://arxiv.org/abs/2410.09301) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802581) |
 | 2024 | On performing non-prehensile rolling manipulations: Stabilizing synchronous motions of Butterfly robots⋆ | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801522) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801522) |
+| 2024 | RTTF: Rapid Tactile Transfer Framework for Contact-Rich Manipulation Tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801764) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801764) |
 | 2024 | Tactile-Driven Non-Prehensile Object Manipulation via Extrinsic Contact Mode Control | RSS · Manipulation | [Paper](https://arxiv.org/abs/2405.18214) · [Publisher](https://doi.org/10.48550/arXiv.2405.18214) |
-| 2023 | Learning Hybrid Actor-Critic Maps for 6D Non-Prehensile Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2305.03942) · [Publisher](https://doi.org/10.48550/arXiv.2305.03942) |
+| 2024 | Towards Tight Convex Relaxations for Contact-Rich Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2402.10312) · [Publisher](https://doi.org/10.48550/arXiv.2402.10312) |
 | 2023 | Demonstration-guided Optimal Control for Long-term Non-prehensile Planar Manipulation | ICRA · Manipulation | [Paper](https://infoscience.epfl.ch/handle/20.500.14299/206267) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161496) |
+| 2023 | Learning Tool Morphology for Contact-Rich Manipulation Tasks with Differentiable Simulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2211.02201) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161453) |
 | 2023 | A Minimal Collision Strategy of Synergy Between Pushing and Grasping for Large Clusters of Objects | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS55552.2023.10341452) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341452) |
 | 2023 | Predicting Center of Mass by Iterative Pushing for Object Transportation and Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS55552.2023.10341534) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341534) |
+| 2023 | Probabilistic Slide-support Manipulation Planning in Clutter | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2306.12649) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342030) |
 | 2023 | QDP: Learning to Sequentially Optimise Quasi-Static and Dynamic Manipulation Primitives for Robotic Cloth Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2303.13320) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342002) |
+| 2022 | Learning Preconditions of Hybrid Force-Velocity Controllers for Contact-Rich Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2206.12728) · [Publisher](https://doi.org/10.48550/arXiv.2206.12728) |
+| 2022 | Manipulation via Membranes: High-Resolution and Highly Deformable Tactile Sensing and Control | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2209.13432) · [Publisher](https://doi.org/10.48550/arXiv.2209.13432) |
 | 2022 | SE(2)-Equivariant Pushing Dynamics Models for Tabletop Object Manipulations | CoRL · Manipulation | [Paper](https://www.semanticscholar.org/paper/77caf708541c3bf513d032f9c0b57aaa2d4e850b) · [Index](https://dblp.org/rec/conf/corl/KimLL022) |
+| 2022 | That Sounds Right: Auditory Self-Supervision for Dynamic Robot Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2210.01116) · [Publisher](https://doi.org/10.48550/arXiv.2210.01116) |
 | 2022 | Persistent Homology for Effective Non-Prehensile Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2202.02937) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811848) |
 | 2022 | Push-to-See: Learning Non-Prehensile Manipulation to Enhance Instance Segmentation via Deep Q-Learning | ICRA · Manipulation | [Paper](https://nottingham-repository.worktribe.com/output/7534992) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811645) |
+| 2022 | Tactile-Guided Dynamic Object Planar Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981270) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981270) |
+| 2022 | To ask for help or not to ask: A predictive approach to human-in-the-loop motion planning for robot manipulation tasks | IROS · Manipulation | [Paper](https://eprints.whiterose.ac.uk/189268/1/root.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981679) |
+| 2022 | Data Augmentation for Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2205.02886) · [Publisher](https://doi.org/10.48550/arXiv.2205.02886) |
 | 2022 | Iterative residual policy: For goal-conditioned dynamic manipulation of deformable objects | RSS · Manipulation | [Paper](https://arxiv.org/abs/2203.00663) · [Publisher](https://doi.org/10.1177/02783649231201201) |
 
 ## Recent arXiv papers (86)

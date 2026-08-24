@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Motion%20%26%20Path%20Planning&specialty=Sampling%2C%20Learning%20%26%20Safety-aware%20Planning#research-workbench)
 
-> 9 conference papers · 234 recent arXiv papers
+> 19 conference papers · 234 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,19 +14,29 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (9)
+## Conference papers (19)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.09868) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128723) |
 | 2025 | Certificated Actor-Critic: Hierarchical Reinforcement Learning with Control Barrier Functions for Safe Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2501.17424) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127225) |
-| 2025 | Data-Driven Sampling Based Stochastic MPC for Skid-Steer Mobile Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2411.03289) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127456) |
 | 2025 | Safe Quadrotor Navigation Using Composite Control Barrier Functions | ICRA · Navigation | [Paper](https://arxiv.org/abs/2502.04101) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127368) |
 | 2025 | Soft Actor-Critic-Based Control Barrier Adaptation for Robust Autonomous Navigation in Unknown Environments | ICRA · Navigation | [Paper](https://arxiv.org/abs/2503.08479) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128470) |
+| 2025 | Online Hierarchical Policy Learning using Physics Priors for Robot Navigation in Unknown Environments | IROS · Navigation | [Paper](https://arxiv.org/abs/2510.01519) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247318) |
 | 2025 | Safety-Guided RRT*: Hyperoctant Sampling-based Path Planning with SDF-based Robotic Representation | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS60139.2025.11246907) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246907) |
+| 2024 | A CBF-Adaptive Control Architecture for Visual Navigation for UAV in the Presence of Uncertainties | ICRA · Navigation | [Paper](https://arxiv.org/abs/2402.10729) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611530) |
+| 2024 | Gaussian Process-based Traversability Analysis for Terrain Mapless Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2403.19010) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610106) |
+| 2024 | NNgTL: Neural Network Guided Optimal Temporal Logic Task Planning for Mobile Robots | ICRA · Mobile Robot | [Paper](https://arxiv.org/abs/2309.14050) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611699) |
 | 2024 | RBI-RRT*: Efficient Sampling-based Path Planning for High-dimensional State Space | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610975) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610975) |
+| 2024 | Learning-informed Long-Horizon Navigation under Uncertainty for Vehicles with Dynamics | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801880) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801880) |
 | 2024 | Neural Control Barrier Functions for Safe Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2407.19907) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802694) |
+| 2024 | Reward-field Guided Motion Planner for Navigation with Limited Sensing Range | IROS · Navigation | [Paper](https://doi.org/10.5281/zenodo.14249693) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801843) |
+| 2023 | Safety-Critical Ergodic Exploration in Cluttered Environments via Control Barrier Functions | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2211.04310) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161032) |
+| 2023 | Control Transformer: Robot Navigation in Unknown Environments Through PRM-Guided Return-Conditioned Sequence Modeling | IROS · Navigation | [Paper](https://arxiv.org/pdf/2211.06407) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341628) |
+| 2023 | Learning Whom to Trust in Navigation: Dynamically Switching Between Classical and Neural Planning | IROS · Navigation | [Paper](https://arxiv.org/pdf/2307.16710) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342308) |
+| 2023 | Reactive and Safe Co-Navigation with Haptic Guidance | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342042) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342042) |
 | 2022 | Learning-Guided Exploration for Efficient Sampling-Based Motion Planning in High Dimensions | ICRA · Exploration | [Paper](https://doi.org/10.1109/icra46639.2022.9812184) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812184) |
+| 2022 | Elevation State-Space: Surfel-Based Navigation in Uneven Environments for Mobile Robots | IROS · Navigation | [Paper](https://arxiv.org/pdf/2208.08202) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981647) |
 
 ## Recent arXiv papers (234)
 

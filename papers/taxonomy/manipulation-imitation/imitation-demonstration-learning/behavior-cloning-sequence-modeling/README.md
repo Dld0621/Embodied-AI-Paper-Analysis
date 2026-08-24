@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Imitation%20%26%20Demonstration%20Learning&specialty=Behavior%20Cloning%20%26%20Sequence%20Modeling#research-workbench)
 
-> 6 conference papers · 97 recent arXiv papers
+> 13 conference papers · 97 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,16 +14,23 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (6)
+## Conference papers (13)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | Rethinking Latent Redundancy in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation | ICML · Manipulation | [Paper](https://arxiv.org/abs/2502.02853) · [Index](https://dblp.org/rec/conf/icml/BaiZDZWC25) |
 | 2025 | Diffusion-Based Self-Supervised Imitation Learning from Imperfect Visual Servoing Demonstrations for Robotic Glass Installation | ICRA · Imitation Learning | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127752) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127752) |
+| 2025 | Feasibility-Aware Imitation Learning from Observations Through a Hand-Mounted Demonstration Interface | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2503.09018) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127364) |
+| 2025 | SAFE-GIL: SAFEty Guided Imitation Learning for Robotic Systems | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2404.05249) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128298) |
+| 2025 | Self-Improving Autonomous Underwater Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2410.18969) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128759) |
 | 2025 | Constrained Behavior Cloning for Robotic Learning | IROS · Behavior Cloning | [Paper](https://doi.org/10.1109/IROS60139.2025.11246164) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246164) |
+| 2024 | Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2412.15109) · [Publisher](https://doi.org/10.48550/arXiv.2412.15109) |
 | 2024 | Data Efficient Behavior Cloning for Fine Manipulation via Continuity-based Corrective Labels | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2405.19307) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801414) |
+| 2024 | Offline Imitation Learning Through Graph Search and Retrieval | RSS · Imitation Learning | [Paper](https://arxiv.org/abs/2407.15403) · [Publisher](https://doi.org/10.48550/arXiv.2407.15403) |
 | 2024 | Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning | RSS · Behaviour Cloning | [Paper](https://arxiv.org/abs/2405.18196) · [Publisher](https://doi.org/10.48550/arXiv.2405.18196) |
 | 2023 | A Framework for Few-Shot Policy Transfer Through Observation Mapping and Behavior Cloning | IROS · Behavior Cloning | [Paper](https://arxiv.org/pdf/2310.08836) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342477) |
+| 2023 | From Temporal-Evolving to Spatial-Fixing: A Keypoints-Based Learning Paradigm for Visual Robotic Manipulation | IROS · Manipulation | [Paper](https://hal.science/hal-04265635/document) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341397) |
+| 2022 | Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2209.05451) · [Publisher](https://doi.org/10.48550/arXiv.2209.05451) |
 
 ## Recent arXiv papers (97)
 

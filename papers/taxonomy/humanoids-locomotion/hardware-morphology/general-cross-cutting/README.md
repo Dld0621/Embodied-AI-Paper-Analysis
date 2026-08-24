@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Hardware%20%26%20Morphology&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 0 conference papers · 16 recent arXiv papers
+> 4 conference papers · 16 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,9 +14,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (0)
+## Conference papers (4)
 
-No conference papers currently map to this specialty.
+| Year | Paper | Venue / topic | Online links |
+|---:|---|---|---|
+| 2025 | Development of a Soft Robotic Fish with Stiffness Modulation and Wriggling Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11247223) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247223) |
+| 2025 | Transformable Modular Robots: A CPG-Based Approach to Independent and Collective Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/abs/2503.13674) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246141) |
+| 2023 | MMIC-I: A Robotic Platform for Assembly Integration and Internal Locomotion through Mechanical Meta-Material Structures | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161263) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161263) |
+| 2022 | Torque-Actuated Multimodal Locomotion of Ferrofluid Robot With Environment and Task Adaptability | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9981041) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981041) |
 
 ## Recent arXiv papers (16)
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Multi-agent%20%26%20Social%20Navigation&specialty=Multi-robot%20Coordination#research-workbench)
 
-> 54 conference papers · 251 recent arXiv papers
+> 55 conference papers · 251 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,7 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (54)
+## Conference papers (55)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -61,12 +61,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Learning Perceptual Hallucination for Multi-Robot Navigation in Narrow Hallways | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2209.13641) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161327) |
 | 2023 | Optimal Multi-Robot Coverage Path Planning for Agricultural Fields using Motion Dynamics | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160265) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160265) |
 | 2023 | Counterexample Guided Abstraction Refinement with Non-Refined Abstractions for Multi-Goal Multi-Robot Path Planning | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS55552.2023.10341952) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341952) |
-| 2023 | Decentralised Multi-Robot Exploration Using Monte Carlo Tree Search | IROS · Exploration | [Paper](https://www.research-collection.ethz.ch/bitstream/20.500.11850/624905/1/dmce_iros2023.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341485) |
+| 2023 | Decentralised Multi-Robot Exploration Using Monte Carlo Tree Search | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS55552.2023.10341485) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341485) |
 | 2023 | Efficient Heuristics for Multi-Robot Path Planning in Crowded Environments | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2306.14409) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341800) |
 | 2023 | SEAL: Simultaneous Exploration and Localization for Multi-Robot Systems | IROS · Exploration | [Paper](https://arxiv.org/pdf/2306.12623) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342157) |
 | 2023 | Social Triangles and Aggressive Lines: Multi-Robot Formations Impact Navigation and Approach | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342372) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342372) |
 | 2022 | Enhancing Deep Reinforcement Learning Approaches for Multi-Robot Navigation via Single-Robot Evolutionary Policy Search | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9812341) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812341) |
 | 2022 | On the Convergence of Multi-robot Constrained Navigation: A Parametric Control Lyapunov Function Approach | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811807) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811807) |
+| 2022 | AB-Mapper: Attention and BicNet based Multi-agent Path Planning for Dynamic Environment | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981513) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981513) |
 | 2022 | DC-MRTA: Decentralized Multi-Robot Task Allocation and Navigation in Complex Environments | IROS · Navigation | [Paper](https://arxiv.org/pdf/2209.02865) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981353) |
 | 2022 | Polynomial Time Near-Time-Optimal Multi-Robot Path Planning in Three Dimensions with Applications to Large-Scale UAV Coordination | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2207.02735) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982231) |
 | 2022 | Scalable Online Coverage Path Planning for Multi-Robot Systems | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981213) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981213) |

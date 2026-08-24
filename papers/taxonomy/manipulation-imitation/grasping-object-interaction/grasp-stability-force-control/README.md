@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Grasping%20%26%20Object%20Interaction&specialty=Grasp%20Stability%20%26%20Force%20Control#research-workbench)
 
-> 6 conference papers · 59 recent arXiv papers
+> 13 conference papers · 59 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,15 +14,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (6)
+## Conference papers (13)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | Adaptive Perching and Grasping by Aerial Robot with Light-Weight and High Grip-Force Tendon-Driven Three-Fingered Hand Using Single Actuator | ICRA · Grasp | [Paper](https://arxiv.org/abs/2503.17711) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128377) |
+| 2025 | PseudoTouch: Efficiently Imaging the Surface Feel of Objects for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2403.15107) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128208) |
 | 2025 | Real-Time Grasp Quality in Boundary-Constrained Granular Swarm Robots | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128071) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128071) |
+| 2025 | Beyond Anthropomorphism: Enhancing Grasping and Eliminating a Degree of Freedom by Fusing the Abduction of Digits Four and Five | IROS · Grasp | [Paper](https://arxiv.org/abs/2509.13074) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245941) |
+| 2025 | Manip4Care: Robotic Manipulation of Human Limbs for Solving Assistive Tasks | IROS · Manipulation | [Paper](https://arxiv.org/abs/2508.02649) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245972) |
 | 2025 | Measuring Uncertainty in Shape Completion to Improve Grasp Quality | IROS · Grasp | [Paper](https://arxiv.org/abs/2504.16183) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245992) |
 | 2024 | Physical and Digital Adversarial Attacks on Grasp Quality Networks | ICRA · Grasp | [Paper](https://kclpure.kcl.ac.uk/ws/files/248921202/icra2024_grasp_pixel_attacks.pdf) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610886) |
+| 2024 | VFAS-Grasp: Closed Loop Grasping with Visual Feedback and Adaptive Sampling | ICRA · Grasp | [Paper](https://arxiv.org/abs/2310.18459) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611183) |
+| 2023 | Affordance-Driven Next-Best-View Planning for Robotic Grasping | CoRL · Grasp | [Paper](https://arxiv.org/pdf/2309.09556) · [Publisher](https://doi.org/10.48550/arXiv.2309.09556) |
 | 2023 | Grasp Stability Assessment Through Attention-Guided Cross-Modality Fusion and Transfer Learning | IROS · Grasp | [Paper](https://arxiv.org/pdf/2308.00980) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342411) |
+| 2022 | Volumetric-based Contact Point Detection for 7-DoF Grasping | CoRL · Grasp | [Paper](https://arxiv.org/abs/2209.06675) · [Publisher](https://doi.org/10.48550/arXiv.2209.06675) |
+| 2022 | Grasp Transfer for Deformable Objects by Functional Map Correspondence | ICRA · Grasp | [Paper](https://arxiv.org/abs/2203.00776) · [Publisher](https://doi.org/10.48550/arXiv.2203.00776) |
 | 2022 | The Good Grasp, the Bad Grasp, and the Plateau in Tactile-Based Grasp Stability Prediction | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9981360) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981360) |
 
 ## Recent arXiv papers (59)

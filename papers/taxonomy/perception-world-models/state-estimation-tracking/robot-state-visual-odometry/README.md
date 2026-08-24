@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=State%20Estimation%20%26%20Tracking&specialty=Robot%20State%20%26%20Visual%20Odometry#research-workbench)
 
-> 6 conference papers · 75 recent arXiv papers
+> 10 conference papers · 76 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,21 +14,26 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (6)
+## Conference papers (10)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | Cascade IPG Observer for Underwater Robot State Estimation | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2504.15235) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128435) |
+| 2025 | Uncertainty-Aware Multi-Robot Flocking via Learned State Estimation and Control Barrier Functions | IROS · State Estimation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246962) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246962) |
 | 2024 | A Group Theoretic Metric for Robot State Estimation Leveraging Chebyshev Interpolation | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2401.17463) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611072) |
+| 2024 | CoLRIO: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2402.11790) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611672) |
 | 2024 | Multi-Radar Inertial Odometry for 3D State Estimation using mmWave Imaging Radar | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2311.08608) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611194) |
 | 2024 | Online Calibration of a Single-Track Ground Vehicle Dynamics Model by Tight Fusion with Visual-Inertial Odometry | ICRA · Dynamics Model | [Paper](https://arxiv.org/abs/2309.11148) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610157) |
 | 2023 | α-MDF: An Attention-based Multimodal Differentiable Filter for Robot State Estimation | CoRL · State Estimation | [Paper](https://www.semanticscholar.org/paper/464731f9d52ac253d96c9ed60479e2181bacf279) · [Index](https://dblp.org/rec/conf/corl/LiuZIA23) |
 | 2023 | SM/VIO: Robust Underwater State Estimation Switching Between Model-based and Visual Inertial Odometry | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2304.01988) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161407) |
+| 2023 | Enhancing State Estimation in Robots: A Data-Driven Approach with Differentiable Ensemble Kalman Filters | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2308.09870) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341617) |
+| 2022 | GPS-Denied Global Visual-Inertial Ground Vehicle State Estimation via Image Registration | ICRA · State Estimation | [Paper](https://doi.org/10.1109/icra46639.2022.9812364) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812364) |
 
-## Recent arXiv papers (75)
+## Recent arXiv papers (76)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-20 | Learning-Based Measurement-Robust Control Barrier Functions for Obstacle Avoidance under State Estimation Error | Nicholas Rober, Yixuan Jia, Jonathan P. How | [Abstract](https://arxiv.org/abs/2608.20467) · [PDF](https://arxiv.org/pdf/2608.20467) |
 | 2026-07-24 | DB-VIO: Dual-Branch Visual Inertial Odometry with Enhanced Visual-Inertial Representation | Ziyu Wan, Lin Zhao | [Abstract](https://arxiv.org/abs/2607.22123) · [PDF](https://arxiv.org/pdf/2607.22123) |
 | 2026-07-20 | Does Robust VIO Need More Learning? Geometry-Verified Visual Measurements under Distribution Shift | Yangyang Ning, Shu Liang, Quanbo Ge, Tianchen Deng et al. | [Abstract](https://arxiv.org/abs/2607.17956) · [PDF](https://arxiv.org/pdf/2607.17956) |
 | 2026-06-29 | Cross-Spectral Stereo Inertial Odometry | Seungsang Yun, Hyunsoo Jang, Tai Hyoung Rhee, Hyunho Song et al. | [Abstract](https://arxiv.org/abs/2606.29757) · [PDF](https://arxiv.org/pdf/2606.29757) |

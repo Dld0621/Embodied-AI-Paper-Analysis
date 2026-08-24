@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Autonomy&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 46 conference papers · 106 recent arXiv papers
+> 35 conference papers · 106 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,7 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (46)
+## Conference papers (35)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -26,18 +26,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | A Hybrid Mapping Method: Balancing Efficiency and Intuitiveness in Lateral Teleoperation | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246972) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246972) |
 | 2025 | A Monocular Vision-based Robotic Arm Teleoperation Method for Human Arm Configuration Imitation | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246483) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246483) |
 | 2025 | AirTouch: A Low-Cost Versatile Visuotactile Feedback System for Enhanced Robotic Teleoperation | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS60139.2025.11247770) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247770) |
-| 2025 | HACTS: a Human-As-Copilot Teleoperation System for Robot Learning | IROS · Teleoperation | [Paper](https://arxiv.org/pdf/2503.24070) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247309) |
-| 2025 | NuExo: A Wearable Exoskeleton Covering all Upper Limb ROM for Outdoor Data Collection and Teleoperation of Humanoid Robots | IROS · Teleoperation | [Paper](https://arxiv.org/abs/2503.10554) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247718) |
 | 2025 | Real-time Photorealistic Mapping for Situational Awareness in Robot Teleoperation | IROS · Teleoperation | [Paper](https://arxiv.org/abs/2509.06433) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246001) |
 | 2025 | Robot Teleoperation Design Requirements from End Users in Nuclear Facilities | IROS · Teleoperation | [Paper](https://doi.org/10.5281/zenodo.20801732) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246717) |
 | 2025 | Six-DoF Hand-Based Teleoperation for Omnidirectional Aerial Robots | IROS · Teleoperation | [Paper](https://arxiv.org/abs/2506.15009) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247292) |
-| 2024 | OPEN TEACH: A Versatile Teleoperation System for Robotic Manipulation | CoRL · Teleoperation | [Paper](https://arxiv.org/abs/2403.07870) · [Publisher](https://doi.org/10.48550/arXiv.2403.07870) |
-| 2024 | 3D Autocomplete: Enhancing UAV Teleoperation with AI in the Loop | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610932) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610932) |
 | 2024 | Adaptive Haptic Control Interface for Safeguarding Robotic Teleoperation in Hazardous Steelmaking Environments | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611107) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611107) |
-| 2024 | Autonomous and Teleoperation Control of a Drawing Robot Avatar | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2407.20156) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610310) |
 | 2024 | SPOTS: Stable Placement of Objects with Reasoning in Semi-Autonomous Teleoperation Systems | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2309.13937) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611613) |
 | 2024 | Stable, Safe, and Passive Teleoperation of Multi-Robot Systems | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610937) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610937) |
-| 2024 | TELESIM: A Modular and Plug-and-Play Framework for Robotic Arm Teleoperation using a Digital Twin | ICRA · Teleoperation | [Paper](https://eprints.gla.ac.uk/322280/2/322280.pdf) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610935) |
 | 2024 | Wearable Haptics for a Marionette-inspired Teleoperation of Highly Redundant Robotic Systems | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2503.15998) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610788) |
 | 2024 | Adaptive Smith Predictor Fractional Control of a Tele-operated Flexible Link Robot * | IROS · Tele Operated | [Paper](https://doi.org/10.1109/IROS58592.2024.10802381) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802381) |
 | 2024 | Demonstrating Trustworthiness in Open-Loop Model Mediated Teleoperation for Collecting Lunar Regolith Simulant* | IROS · Teleoperation | [Paper](https://research-information.bris.ac.uk/files/427902707/Demonstrating_Trustworthiness_in_Model_Mediated_Teleoperation_for_Collecting_Lunar_Regolith_Simulant.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801837) |
@@ -45,10 +39,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators | IROS · Low-cost teleoperation | [Paper](https://arxiv.org/abs/2309.13037) · [Official](https://doi.org/10.1109/IROS58592.2024.10801581) · [Code](https://github.com/wuphilipp/gello_software) |
 | 2024 | Is a Simulation better than Teleoperation for Acquiring Human Manipulation Skill Data? | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801865) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801865) |
 | 2024 | Local Linearity is All You Need (in Data-Driven Teleoperation) | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802052) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802052) |
-| 2024 | Radiance Fields for Robotic Teleoperation | IROS · Teleoperation | [Paper](https://arxiv.org/abs/2407.20194) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801345) |
 | 2024 | Reducing Performance Variability and Overcoming Limited Spatial Ability: Targeted Training for Remote Robot Teleoperation | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801973) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801973) |
 | 2024 | Conformalized Teleoperation: Confidently Mapping Human Inputs to High-Dimensional Robot Actions | RSS · Teleoperation | [Paper](https://arxiv.org/abs/2406.07767) · [Publisher](https://doi.org/10.48550/arXiv.2406.07767) |
-| 2023 | A Force-Sensitive Exoskeleton for Teleoperation: An Application in Elderly Care Robotics | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161175) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161175) |
 | 2023 | Dual quaternion based dynamic movement primitives to learn industrial tasks using teleoperation | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160970) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160970) |
 | 2023 | Evaluation of Performance and Mental Workload during Time Delayed Teleoperation for the Lunar Surface Construction | ICRA · Teleoperation | [Paper](https://doi.org/10.22260/icra2023/0005) · [Publisher](https://doi.org/10.22260/icra2023/0005) |
 | 2023 | HAT: Head-Worn Assistive Teleoperation of Mobile Manipulators | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2209.13097) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160431) |
@@ -56,12 +48,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Visual Backtracking Teleoperation: A Data Collection Protocol for Offline Image-Based Reinforcement Learning | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2210.02343) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161096) |
 | 2023 | Adaptive PD Control Using Deep Reinforcement Learning for Local-Remote Teleoperation with Stochastic Time Delays | IROS · Teleoperation | [Paper](https://arxiv.org/pdf/2305.16979) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341953) |
 | 2023 | Anytime, Anywhere: Human Arm Pose from Smartwatch Data for Ubiquitous Robot Control and Teleoperation | IROS · Teleoperation | [Paper](https://arxiv.org/pdf/2306.13192) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341624) |
-| 2023 | Orbital Head-Mounted Display: A Novel Interface for Viewpoint Control during Robot Teleoperation in Cluttered Environments | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS55552.2023.10341733) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341733) |
-| 2023 | Performance Comparison of Teleoperation Interfaces for Ultra-Lightweight Anthropomorphic Arms | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342484) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342484) |
 | 2023 | AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System | RSS · Teleoperation | [Paper](https://arxiv.org/abs/2307.04577) · [Official](https://roboticsproceedings.org/rss19/p015.html) · [Code](https://github.com/dexsuite/dex-retargeting) |
 | 2022 | Incremental Learning for Enhanced Personalization of Autocomplete Teleoperation | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/icra46639.2022.9812108) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812108) |
 | 2022 | The effect of challenging work environment on human-robot interaction and cognitive load during teleoperation: a case study of teleoperated excavator in a virtual experiment | ICRA · Teleoperation | [Paper](https://doi.org/10.22260/icra2022/0017) · [Publisher](https://doi.org/10.22260/icra2022/0017) |
-| 2022 | Haptic Teleoperation of High-dimensional Robotic Systems Using a Feedback MPC Framework | IROS · Teleoperation | [Paper](https://arxiv.org/pdf/2207.14635) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981290) |
 | 2022 | Manipulability-Aware Shared Locomanipulation Motion Generation for Teleoperation of Mobile Manipulators | IROS · Teleoperation | [Paper](https://zenodo.org/records/7035640/files/main.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982220) |
 | 2022 | The Predictive Kinematic Control Tree: Enhancing Teleoperation of Redundant Robots through Probabilistic User Models | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982150) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982150) |
 

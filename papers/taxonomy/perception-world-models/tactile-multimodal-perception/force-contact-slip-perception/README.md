@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Force%2C%20Contact%20%26%20Slip%20Perception#research-workbench)
 
-> 7 conference papers · 12 recent arXiv papers
+> 17 conference papers · 13 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,22 +14,33 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (7)
+## Conference papers (17)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | Self-Mixing Laser Interferometry for Robotic Tactile Sensing | ICRA · Tactile | [Paper](https://arxiv.org/abs/2502.15390) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128331) |
+| 2025 | TransForce: Transferable Force Prediction for Vision-Based Tactile Sensors with Sequential Image Translation | ICRA · Tactile | [Paper](https://arxiv.org/abs/2409.09870) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127381) |
+| 2025 | Bio-Skin: A Cost-Effective Thermostatic Tactile Sensor with Multi-Modal Force and Temperature Detection | IROS · Tactile | [Paper](https://arxiv.org/abs/2503.07989) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246501) |
+| 2025 | Flexible Electronic Device with Multifunctional Tactile Perception for Enhanced Robotic Interaction | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11247251) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247251) |
+| 2025 | Learning Force Distribution Estimation for the GelSight Mini Optical Tactile Sensor Based on Finite Element Analysis | IROS · Tactile | [Paper](https://arxiv.org/abs/2411.03315) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246486) |
 | 2025 | M3D-skin: Multi-material 3D-printed Tactile Sensor with Hierarchical Infill Structures for Pressure Sensing | IROS · Tactile | [Paper](https://arxiv.org/abs/2510.12419) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247774) |
 | 2025 | Object Extrinsic Contact Surface Reconstruction through Extrinsic Contact Sensing from Visuo-tactile Measurements | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11247448) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247448) |
+| 2025 | R-Tac0: A Rounded High-Frequency Transferable Monochrome Vision-based Tactile Sensor for Shape Reconstruction | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11246144) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246144) |
 | 2025 | The Foundation for Tactile Robots: Approaching the Holistic Analysis of a Robot’s Force Sensing Capabilities | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11246184) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246184) |
 | 2025 | Vision-Based Tactile Sensor Using Light-Conductive Plate for Enhanced Force Sensing Capability | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11247202) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247202) |
 | 2024 | A Large-area Tactile Sensor for Distributed Force Sensing Using Highly Sensitive Piezoresistive Sponge | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610739) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610739) |
+| 2024 | Optimizing Multi-Touch Textile and Tactile Skin Sensing Through Circuit Parameter Estimation | ICRA · Tactile | [Paper](https://arxiv.org/abs/2404.15131) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610053) |
 | 2024 | STNet: Spatio-Temporal Fusion-Based SelfAttention for Slip Detection in Visuo-Tactile Sensors | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610734) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610734) |
-| 2024 | Multidirectional slip detection and avoidance using dynamic 3D tactile meshes from visuotactile sensors | IROS · Tactile | [Paper](https://hal.science/hal-05410157/document) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802378) |
+| 2024 | 3D Localization of Objects Buried within Granular Material Using a Distributed 3-Axis Tactile Sensor | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS58592.2024.10802276) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802276) |
+| 2024 | Multidirectional slip detection and avoidance using dynamic 3D tactile meshes from visuotactile sensors | IROS · Tactile | [Paper](https://hal.science/hal-05410157v1/file/Peng_Song_IROS2024_v2.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802378) |
+| 2023 | DenseTact 2.0: Optical Tactile Sensor for Shape and Force Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2209.10122) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161150) |
+| 2023 | RobotSweater: Scalable, Generalizable, and Customizable Machine-Knitted Tactile Skins for Robots | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2303.02858) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161321) |
 
-## Recent arXiv papers (12)
+## Recent arXiv papers (13)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-21 | GhostTac: Manipulating Tactile Sensors without Physical Contact | Kun Wang, Xuancun Lu, Ruochen Zhou, Kai Wang et al. | [Abstract](https://arxiv.org/abs/2608.20817) · [PDF](https://arxiv.org/pdf/2608.20817) |
 | 2026-07-17 | A Model-Based Decoupling Strategy for Proprioception and Contact Sensing in an Architected Soft Manipulator | Francesco Stella, Annan Zhang, Cosimo Della Santina, Josie Hughes et al. | [Abstract](https://arxiv.org/abs/2607.15582) · [PDF](https://arxiv.org/pdf/2607.15582) |
 | 2025-12-24 | Multimodal Sensing for Robot-Assisted Sub-Tissue Feature Detection in Physiotherapy Palpation | Tian-Ao Ren, Jorge Garcia, Seongheon Hong, Jared Grinberg et al. | [Abstract](https://arxiv.org/abs/2512.20992) · [PDF](https://arxiv.org/pdf/2512.20992) |
 | 2025-10-14 | M3D-skin: Multi-material 3D-printed Tactile Sensor with Hierarchical Infill Structures for Pressure Sensing | Shunnosuke Yoshimura, Kento Kawaharazuka, Kei Okada | [Abstract](https://arxiv.org/abs/2510.12419) · [PDF](https://arxiv.org/pdf/2510.12419) |

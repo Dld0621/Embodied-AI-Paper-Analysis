@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Evaluation&specialty=Metrics%20%26%20Evaluation%20Protocols#research-workbench)
 
-> 1 conference papers · 57 recent arXiv papers
+> 4 conference papers · 57 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,11 +14,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (1)
+## Conference papers (4)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2025 | FLAME: A Federated Learning Benchmark for Robotic Manipulation | IROS · Benchmark | [Paper](https://arxiv.org/abs/2503.01729) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245937) |
 | 2025 | Region-Aware 6D Grasping for Industrial Bin-Picking: A Sim2Real Label Self-Generation and Hybrid Evaluation Framework | IROS · Sim2Real | [Paper](https://doi.org/10.1109/IROS60139.2025.11247129) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247129) |
+| 2025 | RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2506.06677) · [Publisher](https://doi.org/10.48550/arXiv.2506.06677) |
+| 2024 | The Design of the Barkour Benchmark for Robot Agility | IROS · Benchmark | [Paper](https://doi.org/10.1109/IROS58592.2024.10801377) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801377) |
 
 ## Recent arXiv papers (57)
 

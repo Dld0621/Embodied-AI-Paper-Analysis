@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=State%20Estimation%20%26%20Tracking&specialty=Scene%20Flow%20%26%20Dynamic-state%20Estimation#research-workbench)
 
-> 1 conference papers · 28 recent arXiv papers
+> 1 conference papers · 29 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2023 | Cross-Modality Time-Variant Relation Learning for Generating Dynamic Scene Graphs | ICRA · Scene Graph | [Paper](https://arxiv.org/pdf/2305.08522) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161478) |
 
-## Recent arXiv papers (28)
+## Recent arXiv papers (29)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-21 | IMU-Free Body-Frame State Estimation with Sparse Scene Flow for Quadcopters | Daniel Grønhaug, Sofie Markeset, Mathias Kolberg | [Abstract](https://arxiv.org/abs/2608.20891) · [PDF](https://arxiv.org/pdf/2608.20891) |
 | 2026-07-31 | CorrelationFlow: A Training-Free Geometric Approach for LiDAR Scene Flow Estimation | Minh-Quan Dao, Yancong Lin, Julie Stephany Berrio Perez, Holger Caesar | [Abstract](https://arxiv.org/abs/2607.29237) · [PDF](https://arxiv.org/pdf/2607.29237) |
 | 2026-07-29 | Dense Soft Weighting for Radar Ego-Velocity Estimation | Atar Babgei, Chenyu Zhao, Michael Breza, Julie A. McCann | [Abstract](https://arxiv.org/abs/2607.26980) · [PDF](https://arxiv.org/pdf/2607.26980) |
 | 2026-06-26 | Embodiment Meets Environment: Toward Context-Aware, Safe Physical Caregiving Robots | Zhanxin Wu, Ruofei Tong, Jiaying Fang, Tapomayukh Bhattacharjee | [Abstract](https://arxiv.org/abs/2606.28592) · [PDF](https://arxiv.org/pdf/2606.28592) |
