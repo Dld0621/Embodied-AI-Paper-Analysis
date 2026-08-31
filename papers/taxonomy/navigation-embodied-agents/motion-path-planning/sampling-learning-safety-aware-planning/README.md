@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Motion%20%26%20Path%20Planning&specialty=Sampling%2C%20Learning%20%26%20Safety-aware%20Planning#research-workbench)
 
-> 19 conference papers · 234 recent arXiv papers
+> 19 conference papers · 232 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -38,7 +38,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Learning-Guided Exploration for Efficient Sampling-Based Motion Planning in High Dimensions | ICRA · Exploration | [Paper](https://doi.org/10.1109/icra46639.2022.9812184) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812184) |
 | 2022 | Elevation State-Space: Surfel-Based Navigation in Uneven Environments for Mobile Robots | IROS · Navigation | [Paper](https://arxiv.org/pdf/2208.08202) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981647) |
 
-## Recent arXiv papers (234)
+## Recent arXiv papers (232)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -274,8 +274,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-20 | Multi-Risk-RRT: An Efficient Motion Planning Algorithm for Robotic Autonomous Luggage Trolley Collection at Airports | Zhirui Sun, Boshu Lei, Peijia Xie, Fugang Liu et al. | [Abstract](https://arxiv.org/abs/2309.11032) · [PDF](https://arxiv.org/pdf/2309.11032) |
 | 2023-09-19 | HAS-RRT: RRT-based Motion Planning using Topological Guidance | Diane Uwacu, Ananya Yammanuru, Keerthana Nallamotu, Vasu Chalasani et al. | [Abstract](https://arxiv.org/abs/2309.10801) · [PDF](https://arxiv.org/pdf/2309.10801) |
 | 2023-09-15 | PRIEST: Projection Guided Sampling-Based Optimization For Autonomous Navigation | Fatemeh Rastgar, Houman Masnavi, Basant Sharma, Alvo Aabloo et al. | [Abstract](https://arxiv.org/abs/2309.08235) · [PDF](https://arxiv.org/pdf/2309.08235) |
-| 2023-08-29 | Collision-Free Inverse Kinematics Through QP Optimization (iKinQP) | Julia Ashkanazy, Ariana Spalter, Joe Hays, Laura Hiatt et al. | [Abstract](https://arxiv.org/abs/2308.15268) · [PDF](https://arxiv.org/pdf/2308.15268) |
-| 2023-08-26 | Motion Planning as Online Learning: A Multi-Armed Bandit Approach to Kinodynamic Sampling-Based Planning | Marco Faroni, Dmitry Berenson | [Abstract](https://arxiv.org/abs/2308.13949) · [PDF](https://arxiv.org/pdf/2308.13949) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Motion%20Imitation%20%26%20Generation&specialty=Reference-motion%20Imitation#research-workbench)
 
-> 0 conference papers · 18 recent arXiv papers
+> 0 conference papers · 19 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,10 +18,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (18)
+## Recent arXiv papers (19)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-24 | Progressively Learning Heterogeneous Skills in a Unified Latent Space | Yue-Yi Zhang, Ming Gong, Linpu He, Wei-Shi Zheng et al. | [Abstract](https://arxiv.org/abs/2608.23258) · [PDF](https://arxiv.org/pdf/2608.23258) |
 | 2026-07-27 | Learning Reusable Hybrid Motion Priors for Humanoid Locomotion from Motion Imitation | Valerio Belli, Valerio Modugno, Enrico Mingo Hoffman, Fabio Amadio | [Abstract](https://arxiv.org/abs/2607.24083) · [PDF](https://arxiv.org/pdf/2607.24083) |
 | 2026-06-02 | MARIO: Motion-Augmented Real-Time Multi-Sensor Inertial Odometry | Yiquan Li, Taeyoung Yeon, Chenfeng Gao, Vasco Xu et al. | [Abstract](https://arxiv.org/abs/2606.02996) · [PDF](https://arxiv.org/pdf/2606.02996) |
 | 2026-05-25 | HumanFlow -- Diffusion-Driven MAV Navigation Among Humans via Tightly-Coupled Motion Tracking, Forecasting, and Control | Simon Schaefer, Joshua Näf, Stefan Leutenegger | [Abstract](https://arxiv.org/abs/2605.25685) · [PDF](https://arxiv.org/pdf/2605.25685) |

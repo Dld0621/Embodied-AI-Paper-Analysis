@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=VLA%20Architectures&specialty=Real-time%20%26%20On-device%20VLA#research-workbench)
 
-> 9 conference papers · 250 recent arXiv papers
+> 9 conference papers · 255 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution | NeurIPS · Vla | [Paper](https://arxiv.org/abs/2411.02359) · [Publisher](https://doi.org/10.48550/arXiv.2411.02359) |
 | 2024 | Real-Time Anomaly Detection and Reactive Planning with Large Language Models | RSS · Large Language Model | [Paper](https://arxiv.org/abs/2407.08735) · [Publisher](https://doi.org/10.48550/arXiv.2407.08735) |
 
-## Recent arXiv papers (250)
+## Recent arXiv papers (255)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-27 | Decoupling Planning and Control for Instructable Agents | Zineng Tang, Kelsey R. Allen, Sjoerd van Steenkiste, Ishita Dasgupta et al. | [Abstract](https://arxiv.org/abs/2608.26788) · [PDF](https://arxiv.org/pdf/2608.26788) |
+| 2026-08-25 | Hierarchical Skill Retrieval for Data-Efficient Adaptation of Vision-Language-Action Models | Haoran Hao, Shahram Najam Syed, Jeff Schneider, Jeffrey Ichnowski | [Abstract](https://arxiv.org/abs/2608.24042) · [PDF](https://arxiv.org/pdf/2608.24042) |
+| 2026-08-23 | Robust Bimanual Vision-Language-Action Models via Embarrassingly Simple Modality Masking | Dongzhou Cheng, Ziang Li, Yixiao Zhou, Haojuan Li et al. | [Abstract](https://arxiv.org/abs/2608.22419) · [PDF](https://arxiv.org/pdf/2608.22419) |
+| 2026-08-21 | Model-Free Adaptive Parameter Tuning for Efficient Multi-Robot Warehouse Operations | Pratap Tokekar, Mouhacine Benosman, Rahul Chandan, Alexandre Ormiga Galvao Barbosa et al. | [Abstract](https://arxiv.org/abs/2608.21533) · [PDF](https://arxiv.org/pdf/2608.21533) |
 | 2026-08-21 | Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models | Zhuoyuan Li, Rui Zhao, Jin Wang, Hanwei Zhu et al. | [Abstract](https://arxiv.org/abs/2608.21247) · [PDF](https://arxiv.org/pdf/2608.21247) |
 | 2026-08-16 | ViTaR: Visuo-Tactile Residual Adaptation for Foundation VLA Manipulation | Yi Wang, Renjun Wu, Jinyan Liu, Xuesong Li | [Abstract](https://arxiv.org/abs/2608.15816) · [PDF](https://arxiv.org/pdf/2608.15816) |
 | 2026-08-16 | EcoVLA: Energy-Efficient Device-Edge Co-Inference for Vision-Language-Action Models under Real-Time Constraints | Ao Zhou, Bo Dai, Le Yu, Xingyu Liu et al. | [Abstract](https://arxiv.org/abs/2608.15502) · [PDF](https://arxiv.org/pdf/2608.15502) |
@@ -40,6 +44,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-08-13 | BrainWAM: Action-Space Coordination of Semantic Priors and Predictive Dynamics for Autonomous Driving | Bing Zhan, Shuyao Shang, Shuo Lu, Yuan Xu et al. | [Abstract](https://arxiv.org/abs/2608.12854) · [PDF](https://arxiv.org/pdf/2608.12854) |
 | 2026-08-12 | StellaVLA: In-Context Structured Demonstration for Generalizable Vision-Language-Action Models | Siyu Xu, Yunke Wang, Zijian Wang, Dihao Zhu et al. | [Abstract](https://arxiv.org/abs/2608.11671) · [PDF](https://arxiv.org/pdf/2608.11671) |
 | 2026-08-11 | Neural Introspection Gating for Adaptive KV-Cache Reuse in Vision-Language-Action Models | Zhijie Wu, Kento Kawaharazuka, Kei Okada | [Abstract](https://arxiv.org/abs/2608.10824) · [PDF](https://arxiv.org/pdf/2608.10824) |
+| 2026-08-10 | Mamba-based Selective State Space Modeling Improves the Accuracy-Complexity Tradeoff of SmolVLA Vision-Language-Action Experts | Farida Mohsen, Thowayba Elkaffash, Mohammad Reza Chalak Qazani, Mohamed Mabrok et al. | [Abstract](https://arxiv.org/abs/2608.21407) · [PDF](https://arxiv.org/pdf/2608.21407) |
 | 2026-08-06 | In-Context VLA: Endowing Vision-Language-Action Models with Language via In-Context Post-Training and Agentic Tool Use | Jiarui Yang, Wen Huang, Jiale Zhang, Maowei Hu et al. | [Abstract](https://arxiv.org/abs/2608.05738) · [PDF](https://arxiv.org/pdf/2608.05738) |
 | 2026-08-06 | Fast and Accurate: An Adaptive VLA Inference Framework through Environment-aware Model Selection | Yuewei Sun, Lang Qin, Zechuan Tian, Jingwen Li et al. | [Abstract](https://arxiv.org/abs/2608.06434) · [PDF](https://arxiv.org/pdf/2608.06434) |
 | 2026-08-04 | PhyAI: Real-Time Physical AI at the Edge, Scalable Rollouts in the Cloud | Chenghua Wang, Daliang Xu, Dongqi Cai, Duojin Sun et al. | [Abstract](https://arxiv.org/abs/2608.03682) · [PDF](https://arxiv.org/pdf/2608.03682) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Hardware%20%26%20Morphology&specialty=Morphology%20%26%20Co-design#research-workbench)
 
-> 3 conference papers · 26 recent arXiv papers
+> 3 conference papers · 27 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -22,7 +22,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | From CAD to URDF: Co-Design of a Jet-Powered Humanoid Robot Including CAD Geometry | IROS · Humanoid | [Paper](https://arxiv.org/abs/2410.07963) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802023) |
 | 2023 | SoftZoo: A Soft Robot Co-design Benchmark For Locomotion In Diverse Environments | ICLR · Locomotion | [Paper](https://arxiv.org/abs/2303.09555) · [Publisher](https://doi.org/10.48550/arXiv.2303.09555) |
 
-## Recent arXiv papers (26)
+## Recent arXiv papers (27)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -31,6 +31,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-05 | Rapid co-design of Buoyancy-assisted robots for Challenging Locomotion using Gaussian Evolutionary Specialists | Ankit Sinha, Nitish Sontakke, Dennis Hong, Yusuke Tanaka et al. | [Abstract](https://arxiv.org/abs/2606.07424) · [PDF](https://arxiv.org/pdf/2606.07424) |
 | 2026-05-30 | Shape Your Body: Value Gradients for Multi-Embodiment Robot Design | Nico Bohlinger, Jan Peters | [Abstract](https://arxiv.org/abs/2606.00702) · [PDF](https://arxiv.org/pdf/2606.00702) |
 | 2026-05-12 | COSMIC: Concurrent Optimization of Structure, Material, and Integrated Control for robotic systems | Qinsong Guo, Liwei Wang | [Abstract](https://arxiv.org/abs/2605.12654) · [PDF](https://arxiv.org/pdf/2605.12654) |
+| 2026-04-22 | Benefits of Low-Cost Bio-Inspiration in the Age of Overparametrization | Kevin Godin-Dubois, Anil Yaman, Anna V. Kononova | [Abstract](https://arxiv.org/abs/2604.20365) · [PDF](https://arxiv.org/pdf/2604.20365) |
 | 2026-04-14 | Evolving the Complete Muscle: Efficient Morphology-Control Co-design for Musculoskeletal Locomotion | Lidong Sun, Wentao Zhao, Ye Wang, Huaping Liu et al. | [Abstract](https://arxiv.org/abs/2604.12855) · [PDF](https://arxiv.org/pdf/2604.12855) |
 | 2026-04-13 | Identifying and Exploiting Structure in Robot Co-Design | Apoorv Vaish, Oliver Brock | [Abstract](https://arxiv.org/abs/2604.11768) · [PDF](https://arxiv.org/pdf/2604.11768) |
 | 2026-04-07 | A Co-Design Framework for High-Performance Jumping of a Five-Bar Monoped with Actuator Optimization | Aastha Mishra, Aman Singh, Shishir Kolathaya | [Abstract](https://arxiv.org/abs/2604.06025) · [PDF](https://arxiv.org/pdf/2604.06025) |

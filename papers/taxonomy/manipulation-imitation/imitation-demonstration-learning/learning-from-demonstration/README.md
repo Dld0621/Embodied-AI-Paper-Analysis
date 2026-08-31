@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Imitation%20%26%20Demonstration%20Learning&specialty=Learning%20from%20Demonstration#research-workbench)
 
-> 18 conference papers · 127 recent arXiv papers
+> 18 conference papers · 129 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -37,10 +37,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Understanding Acoustic Patterns of Human Teachers Demonstrating Manipulation Tasks to Robots | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2211.00352) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981053) |
 | 2022 | Use of Action Label in Deep Predictive Learning for Robot Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982091) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982091) |
 
-## Recent arXiv papers (127)
+## Recent arXiv papers (129)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-25 | One-Shot Learning from Demonstration of Contact-Rich Robotic Manipulation by Identifying Physical Interactions | A. H. G. Overbeek, H. van der Kooij, M. Vlutters | [Abstract](https://arxiv.org/abs/2608.24741) · [PDF](https://arxiv.org/pdf/2608.24741) |
+| 2026-08-25 | Longitudinal Robot Learning from Demonstration with Care Providers in a Home Environment | Nina Moorman, Julianna Schalkwyk, Vriksha Srihari, Qingyu Xiao et al. | [Abstract](https://arxiv.org/abs/2608.25196) · [PDF](https://arxiv.org/pdf/2608.25196) |
 | 2026-08-13 | H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models | Dingyi Rong, Yue Shi, Chaofan Ma, Jiezhang Cao et al. | [Abstract](https://arxiv.org/abs/2608.13049) · [PDF](https://arxiv.org/pdf/2608.13049) |
 | 2026-08-04 | SiMDex: Mining Similar Egocentric Videos for Cross-Embodiment Dexterous Manipulation | Nie Lin, Takehiko Ohkawa, Sijin Chen, Ruoshi Wen et al. | [Abstract](https://arxiv.org/abs/2608.04196) · [PDF](https://arxiv.org/pdf/2608.04196) |
 | 2026-08-01 | Self Supervised Learning from Automatically Generated Demonstrations for Visual Robotic Manipulation | Andres Rivas, Anselmo R. Cukla, Rodrigo S. Guerra, Bruna V. Guterres et al. | [Abstract](https://arxiv.org/abs/2608.07553) · [PDF](https://arxiv.org/pdf/2608.07553) |

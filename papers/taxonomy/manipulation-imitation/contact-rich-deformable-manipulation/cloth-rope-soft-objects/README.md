@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Contact-rich%20%26%20Deformable%20Manipulation&specialty=Cloth%2C%20Rope%20%26%20Soft%20Objects#research-workbench)
 
-> 35 conference papers · 121 recent arXiv papers
+> 35 conference papers · 122 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -54,10 +54,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Reactive Motion Planning for Rope Manipulation and Collision Avoidance using Aerial Robots | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981658) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981658) |
 | 2022 | Mesh-based Dynamics with Occlusion Reasoning for Cloth Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/pdf/2206.02881) · [Publisher](https://doi.org/10.48550/arXiv.2206.02881) |
 
-## Recent arXiv papers (121)
+## Recent arXiv papers (122)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-27 | MeshPriorDiT: Hierarchical Modeling for Action-Conditioned Cloth Dynamics | Zihang Wang, Jianming Hu, Shang Su, Hao Huang et al. | [Abstract](https://arxiv.org/abs/2608.26766) · [PDF](https://arxiv.org/pdf/2608.26766) |
 | 2026-08-19 | SoftVTBench: A Deformation-Aware Visuo-Tactile Dataset and Benchmark for Deformable-Object Manipulation | Bowen Jing, Mingxin Wang, Ruiyang Hao, Chenchen Ge et al. | [Abstract](https://arxiv.org/abs/2608.18701) · [PDF](https://arxiv.org/pdf/2608.18701) |
 | 2026-08-11 | TCAM for Autonomous Deformable Manipulation: The RMC2 Champion System for WBCD 2026 Track 4 | Guangrui Shen, Zhili He, Shigang Wang, Yuanjun Sun et al. | [Abstract](https://arxiv.org/abs/2608.10718) · [PDF](https://arxiv.org/pdf/2608.10718) |
 | 2026-08-11 | Precise Top-Layer Fabric Segmentation for Fabric Destacking with Edge- and Shape-Aware Deep Networks | Wenbo Dong, Dipankar Bhattacharya, Akinari Kobayashi, Akira Seino et al. | [Abstract](https://arxiv.org/abs/2608.10648) · [PDF](https://arxiv.org/pdf/2608.10648) |

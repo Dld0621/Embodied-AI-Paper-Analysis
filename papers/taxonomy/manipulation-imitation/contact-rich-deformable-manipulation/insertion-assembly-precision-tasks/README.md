@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Contact-rich%20%26%20Deformable%20Manipulation&specialty=Insertion%2C%20Assembly%20%26%20Precision%20Tasks#research-workbench)
 
-> 95 conference papers · 329 recent arXiv papers
+> 95 conference papers · 332 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,7 +21,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation | CVPR · Manipulation | [Paper](https://arxiv.org/abs/2504.06961) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01620) |
 | 2025 | SRSA: Skill Retrieval and Adaptation for Robotic Assembly Tasks | ICLR · Assembly | [Paper](https://arxiv.org/abs/2503.04538) · [Publisher](https://doi.org/10.48550/arXiv.2503.04538) |
 | 2025 | A Full-Cycle Assembly Operation: From Digital Planning to Trajectory Execution Using a Robotic Arm | ICRA · Assembly | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128356) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128356) |
-| 2025 | Assembly Order Planning for Modular Structures by Autonomous Multi-Robot Systems | ICRA · Assembly | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127644) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127644) |
+| 2025 | Assembly Order Planning for Modular Structures by Autonomous Multi-Robot Systems | ICRA · Assembly | [Paper](https://pure.tue.nl/ws/files/379280955/Assembly_Order_Planning_for_Modular_Structures_by_Autonomous_Multi-Robot_Systems.pdf) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127644) |
 | 2025 | From Imitation to Refinement - Residual Rl for Precise Assembly | ICRA · Assembly | [Paper](https://arxiv.org/abs/2407.16677) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127442) |
 | 2025 | Geometry and Force-Informed Robotic Assembly with Small Relative Initial Deviations for Circular Electrical Connectors | ICRA · Assembly | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127385) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127385) |
 | 2025 | Master Rules from Chaos: Learning to Reason, Plan, and Interact from Chaos for Tangram Assembly | ICRA · Assembly | [Paper](https://arxiv.org/abs/2505.11818) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127610) |
@@ -67,7 +67,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Towards Safer and More Efficient Construction - The Development of a Multi-Robotic System for Heavy Block Assembly | ICRA · Assembly | [Paper](https://www.iaarc.org/./publications/fulltext/04_ICRA_2024_Paper_58.pdf) · [Publisher](https://doi.org/10.22260/icra2024/0006) |
 | 2024 | Autonomous Robotic Assembly: From Part Singulation to Precise Assembly | IROS · Assembly | [Paper](https://arxiv.org/pdf/2406.05331) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802423) |
 | 2024 | Beyond Feasibility: Efficiently Planning Robotic Assembly Sequences That Minimize Assembly Path Lengths | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS58592.2024.10801475) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801475) |
-| 2024 | DECAF: a Discrete-Event based Collaborative Human-Robot Framework for Furniture Assembly | IROS · Assembly | [Paper](https://arxiv.org/abs/2408.16125) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802728) |
+| 2024 | DECAF: a Discrete-Event based Collaborative Human-Robot Framework for Furniture Assembly | IROS · Assembly | [Paper](https://hdl.handle.net/11577/3549492) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802728) |
 | 2024 | DuCAS: a knowledge-enhanced dual-hand compositional action segmentation method for human-robot collaborative assembly | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS58592.2024.10802758) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802758) |
 | 2024 | GenCHiP: Generating Robot Policy Code for High-Precision and Contact-Rich Manipulation Tasks | IROS · Manipulation | [Paper](https://arxiv.org/abs/2404.06645) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801525) |
 | 2024 | Harnessing with Twisting: Single-Arm Deformable Linear Object Manipulation for Industrial Harnessing Task | IROS · Manipulation | [Paper](https://arxiv.org/abs/2410.10729) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802801) |
@@ -114,10 +114,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Slip Anticipation for Grasping Deformable Objects Using a Soft Force Sensor | IROS · Grasp | [Paper](https://infoscience.epfl.ch/handle/20.500.14299/192207) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981174) |
 | 2022 | Factory: Fast Contact for Robotic Assembly | RSS · Assembly | [Paper](https://arxiv.org/abs/2205.03532) · [Publisher](https://doi.org/10.48550/arXiv.2205.03532) |
 
-## Recent arXiv papers (329)
+## Recent arXiv papers (332)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-27 | Planning a Shared Modular Fixture Layout Across Robotic Disassembly Stages | Haohui Pan, Takuya Kiyokawa, Kensuke Harada | [Abstract](https://arxiv.org/abs/2608.27151) · [PDF](https://arxiv.org/pdf/2608.27151) |
+| 2026-08-21 | Why Personalization Matters: Cross-Subject Challenges in EMG-IMU-based HRI Activity Recognition | Ruan Rithelle Chagas de Faria Carminati, Giovanni Braglia, Luigi Biagiotti, Ronnier Frates Rohrich et al. | [Abstract](https://arxiv.org/abs/2608.21620) · [PDF](https://arxiv.org/pdf/2608.21620) |
+| 2026-08-21 | GOLEM: Modular Humanoid Autonomy Towards Electric Vehicle Battery Disassembly | Max Conway, William Xie, Allen Devaraj, Yutong Zhang et al. | [Abstract](https://arxiv.org/abs/2608.21550) · [PDF](https://arxiv.org/pdf/2608.21550) |
+| 2026-08-21 | Force/Torque-Based Kinematic Adaptation for Robotic Manipulation Tasks | Carl Glen Henshaw | [Abstract](https://arxiv.org/abs/2608.21592) · [PDF](https://arxiv.org/pdf/2608.21592) |
 | 2026-08-20 | PVRA: A Pointwise Key-point Voting Framework for Robotic Assembly | Kulunu Samarawickrama, Roel Pieters | [Abstract](https://arxiv.org/abs/2608.19968) · [PDF](https://arxiv.org/pdf/2608.19968) |
 | 2026-08-20 | HiTac-WAM: A Hierarchical Tactile World Action Model for Contact-Rich Robot Manipulation | Chao Xue, Chaofan Zhang, Wenxuan Ma, Guocai Yao et al. | [Abstract](https://arxiv.org/abs/2608.19574) · [PDF](https://arxiv.org/pdf/2608.19574) |
 | 2026-08-19 | Backward Layout Search for Sequence-Constrained Robotic Assembly | Xi Zhang, Jiancong Dai, Hao Chen, Zhengtao Hu et al. | [Abstract](https://arxiv.org/abs/2608.18454) · [PDF](https://arxiv.org/pdf/2608.18454) |
@@ -446,7 +450,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-24 | A Systematic Literature Review of Computer Vision Applications in Robotized Wire Harness Assembly | Hao Wang, Omkar Salunkhe, Walter Quadrini, Dan Lämkull et al. | [Abstract](https://arxiv.org/abs/2309.13744) · [PDF](https://arxiv.org/pdf/2309.13744) |
 | 2023-09-15 | i-Octree: A Fast, Lightweight, and Dynamic Octree for Proximity Search | Jun Zhu, Hongyi Li, Zhepeng Wang, Shengjie Wang et al. | [Abstract](https://arxiv.org/abs/2309.08315) · [PDF](https://arxiv.org/pdf/2309.08315) |
 | 2023-09-08 | Optical Fiber-Based Needle Shape Sensing in Real Tissue: Single Core vs. Multicore Approaches | Dimitri A. Lezcano, Yernar Zhetpissov, Alexandra Cheng, Jin Seob Kim et al. | [Abstract](https://arxiv.org/abs/2309.04407) · [PDF](https://arxiv.org/pdf/2309.04407) |
-| 2023-08-29 | Contact-rich SE(3)-Equivariant Robot Manipulation Task Learning via Geometric Impedance Control | Joohwan Seo, Nikhil Potu Surya Prakash, Xiang Zhang, Changhao Wang et al. | [Abstract](https://arxiv.org/abs/2308.14984) · [PDF](https://arxiv.org/pdf/2308.14984) |
 
 ---
 

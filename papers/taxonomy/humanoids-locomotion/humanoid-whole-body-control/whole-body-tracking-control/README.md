@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Humanoid%20Whole-body%20Control&specialty=Whole-body%20Tracking%20%26%20Control#research-workbench)
 
-> 26 conference papers · 198 recent arXiv papers
+> 26 conference papers · 199 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -45,10 +45,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Whole-Body Control of Series-Parallel Hybrid Robots | ICRA · Whole Body | [Paper](https://doi.org/10.1109/icra46639.2022.9811616) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811616) |
 | 2022 | An Adaptive Approach to Whole-Body Balance Control of Wheel-Bipedal Robot Ollie | IROS · Biped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981985) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981985) |
 
-## Recent arXiv papers (198)
+## Recent arXiv papers (199)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-26 | LAC: Linear and Angular Compliance for Humanoid Whole-body Control | Yang Liu, Zhongkai Gu, Wei Zhu, Mitsuhiro Hayashibe | [Abstract](https://arxiv.org/abs/2608.25405) · [PDF](https://arxiv.org/pdf/2608.25405) |
 | 2026-08-21 | Demonstration-Guided Humanoid Stand-Up on an Emulated Deformable Surface | Aniruddh Kushwah, Vyankatesh Ashtekar, Ashish Dutta | [Abstract](https://arxiv.org/abs/2608.20852) · [PDF](https://arxiv.org/pdf/2608.20852) |
 | 2026-08-20 | DECOWAM: Decoupled Whole-Body World-Action Model for Legged Mobile Manipulation | Siyuan Ma, Boshi Zhang, Yutian Zhang, Qinglian Wu et al. | [Abstract](https://arxiv.org/abs/2608.20114) · [PDF](https://arxiv.org/pdf/2608.20114) |
 | 2026-08-18 | GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction | Ziyang Cheng, Tianshu Tang, Jinxin Lan, Xinze Chen et al. | [Abstract](https://arxiv.org/abs/2608.18234) · [PDF](https://arxiv.org/pdf/2608.18234) |

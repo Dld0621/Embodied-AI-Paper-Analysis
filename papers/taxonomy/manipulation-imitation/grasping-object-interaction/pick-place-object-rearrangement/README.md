@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Grasping%20%26%20Object%20Interaction&specialty=Pick-place%20%26%20Object%20Rearrangement#research-workbench)
 
-> 59 conference papers · 163 recent arXiv papers
+> 59 conference papers · 166 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -78,10 +78,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Rearrangement-Based Manipulation via Kinodynamic Planning and Dynamic Planning Horizons | IROS · Manipulation | [Paper](https://arxiv.org/abs/2208.02312) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981599) |
 | 2022 | Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement | IROS · Object Rearrangement | [Paper](https://arxiv.org/pdf/2207.08078) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981715) |
 
-## Recent arXiv papers (163)
+## Recent arXiv papers (166)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-28 | Picking Bins Empty: A Hierarchical Hybrid Approach with Online Self-Learning of Grasp Points for Reliable Industrial Bin-Picking | Florian Töper, Samarth Kishor Yelvande, Jan Niklas Ewertz, Rudolph Triebel et al. | [Abstract](https://arxiv.org/abs/2608.28175) · [PDF](https://arxiv.org/pdf/2608.28175) |
+| 2026-08-27 | Embodied Scene Rearrangement Planning | Canzhi Chen, Zan Wang, Siqi Zhu, Qi Wu et al. | [Abstract](https://arxiv.org/abs/2608.27371) · [PDF](https://arxiv.org/pdf/2608.27371) |
+| 2026-08-24 | InstructMove: A Text-Indispensable Benchmark for Instruction-Following Manipulation | Mengao Zhao, Ziang Li, Chaodong Huang, Mengchen Ma et al. | [Abstract](https://arxiv.org/abs/2608.22990) · [PDF](https://arxiv.org/pdf/2608.22990) |
 | 2026-07-27 | NEO: NeRF It Once, Edit It Many Times for Continuous Object Manipulation | Mikołaj Zieliński, David Hall, Dominik Belter, Peyman Moghadam | [Abstract](https://arxiv.org/abs/2607.24538) · [PDF](https://arxiv.org/pdf/2607.24538) |
 | 2026-07-23 | TableVerse: A Large-scale Tabletop Dataset with Real-world Grounded Layouts for Generalizable Manipulation | Boyuan Wang, Yue Zhang, Xutao Xue, Xueyu Song et al. | [Abstract](https://arxiv.org/abs/2607.21017) · [PDF](https://arxiv.org/pdf/2607.21017) |
 | 2026-07-20 | Seg2Grasp: A Robust Modular Suction Grasping in Bin Picking | Hye-Jung Yoon, Juno Kim, Yesol Park, Jun-Ki Lee et al. | [Abstract](https://arxiv.org/abs/2607.17757) · [PDF](https://arxiv.org/pdf/2607.17757) |

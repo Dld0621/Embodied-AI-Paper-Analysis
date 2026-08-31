@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Grasping%20%26%20Object%20Interaction&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 87 conference papers · 260 recent arXiv papers
+> 87 conference papers · 259 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -73,7 +73,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | FLEX: Full-Body Grasping Without Full-Body Grasps | CVPR · Grasp | [Paper](https://arxiv.org/abs/2211.11903) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.02029) |
 | 2023 | Geometry Matching for Multi-Embodiment Grasping | CoRL · Grasp | [Paper](https://arxiv.org/abs/2312.03864) · [Publisher](https://doi.org/10.48550/arXiv.2312.03864) |
 | 2023 | 3DSGrasp: 3D Shape-Completion for Robotic Grasp | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2301.00866) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160350) |
-| 2023 | Clothes Grasping and Unfolding Based on RGB-D Semantic Segmentation | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2305.03259) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160268) |
+| 2023 | Clothes Grasping and Unfolding Based on RGB-D Semantic Segmentation | ICRA · Grasp | [Paper](https://pure-oai.bham.ac.uk/ws/files/193283562/ZhuX2023Clothes.pdf) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160268) |
 | 2023 | FOGL: Federated Object Grasping Learning | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161191) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161191) |
 | 2023 | MMRDN: Consistent Representation for Multi-View Manipulation Relationship Detection in Object-Stacked Scenes | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2304.12592) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161450) |
 | 2023 | MonoGraspNet: 6-DoF Grasping with a Single RGB Image | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2209.13036) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160779) |
@@ -106,7 +106,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Visual Manipulation Relationship Detection based on Gated Graph Neural Network for Robotic Grasping | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981077) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981077) |
 | 2022 | Visual-tactile Sensing for Real-time Liquid Volume Estimation in Grasping | IROS · Grasp | [Paper](https://arxiv.org/pdf/2202.11503) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981153) |
 
-## Recent arXiv papers (260)
+## Recent arXiv papers (259)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -369,7 +369,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-09 | DeRi-IGP: Learning to Manipulate Rigid Objects Using Deformable Objects via Iterative Grasp-Pull | Zixing Wang, Ahmed H. Qureshi | [Abstract](https://arxiv.org/abs/2309.04843) · [PDF](https://arxiv.org/pdf/2309.04843) |
 | 2023-09-07 | ArtiGrasp: Physically Plausible Synthesis of Bi-Manual Dexterous Grasping and Articulation | Hui Zhang, Sammy Christen, Zicong Fan, Luocheng Zheng et al. | [Abstract](https://arxiv.org/abs/2309.03891) · [PDF](https://arxiv.org/pdf/2309.03891) |
 | 2023-09-07 | A Food Package Recognition and Sorting System Based on Structured Light and Deep Learning | Xuanzhi Liu, Jixin Liang, Yuping Ye, Zhan Song et al. | [Abstract](https://arxiv.org/abs/2309.03704) · [PDF](https://arxiv.org/pdf/2309.03704) |
-| 2023-08-29 | Flexible Handover with Real-Time Robust Dynamic Grasp Trajectory Generation | Gu Zhang, Hao-Shu Fang, Hongjie Fang, Cewu Lu | [Abstract](https://arxiv.org/abs/2308.15622) · [PDF](https://arxiv.org/pdf/2308.15622) |
 
 ---
 

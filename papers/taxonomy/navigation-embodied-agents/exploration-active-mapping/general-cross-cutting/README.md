@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Exploration%20%26%20Active%20Mapping&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 74 conference papers · 233 recent arXiv papers
+> 74 conference papers · 235 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,7 +29,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Can Real-Time Lipreading Improve Speech Recognition? A Systematic Exploration Using Human-Robot Interaction Data | IROS · Exploration | [Paper](https://research.vu.nl/en/publications/ddaf60ad-b4cd-42f3-9b41-32331626b411) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246474) |
 | 2025 | P2 Explore: Efficient Exploration in Unknown Cluttered Environment with Floor Plan Prediction | IROS · Exploration | [Paper](https://arxiv.org/abs/2409.10878) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247205) |
 | 2025 | RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration | IROS · Exploration | [Paper](https://arxiv.org/abs/2504.06994) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245813) |
-| 2025 | REALMS2 - Resilient Exploration And Lunar Mapping System 2 – A Comprehensive Approach | IROS · Exploration | [Paper](https://arxiv.org/abs/2510.26638) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246516) |
+| 2025 | REALMS2 - Resilient Exploration And Lunar Mapping System 2 – A Comprehensive Approach | IROS · Exploration | [Paper](https://orbilu.uni.lu/handle/10993/66190) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246516) |
 | 2025 | SENIOR: Efficient Query Selection and Preference-Guided Exploration in Preference-based Reinforcement Learning | IROS · Exploration | [Paper](https://arxiv.org/abs/2506.14648) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247094) |
 | 2025 | SIME: Enhancing Policy Self-Improvement with Modal-level Exploration | IROS · Exploration | [Paper](https://arxiv.org/abs/2505.01396) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245841) |
 | 2024 | Continuously Improving Mobile Manipulation with Autonomous Real-World RL | CoRL · Mobile Manipulation | [Paper](https://arxiv.org/abs/2409.20568) · [Publisher](https://doi.org/10.48550/arXiv.2409.20568) |
@@ -86,19 +86,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Impact Makes a Sound and Sound Makes an Impact: Sound Guides Representations and Explorations | IROS · Exploration | [Paper](https://arxiv.org/pdf/2208.02680) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981510) |
 | 2022 | Multi-Robot Unknown Area Exploration Using Frontier Trees | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS47612.2022.9981914) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981914) |
 | 2022 | Multimodal aerial-tethered robot for tree canopy exploration | IROS · Exploration | [Paper](https://www.dora.lib4ri.ch/wsl/islandora/object/wsl%3A35537/datastream/PDF2/Kirchgeorg-2022-Multimodal_aerial-tethered_robot_for_tree-%28accepted_version%29.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981121) |
-| 2022 | Online Localisation and Colored Mesh Reconstruction Architecture for 3D Visual Feedback in Robotic Exploration Missions | IROS · Exploration | [Paper](https://arxiv.org/pdf/2207.10489) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981137) |
-| 2022 | Optimal and Risk-Aware Path Planning considering Localization Uncertainty for Space Exploration Rovers | IROS · Exploration | [Paper](https://orbilu.uni.lu/bitstream/10993/57807/1/IROS22_planning.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981179) |
+| 2022 | Online Localisation and Colored Mesh Reconstruction Architecture for 3D Visual Feedback in Robotic Exploration Missions | IROS · Exploration | [Paper](https://hal.science/hal-03856358) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981137) |
+| 2022 | Optimal and Risk-Aware Path Planning considering Localization Uncertainty for Space Exploration Rovers | IROS · Exploration | [Paper](https://orbilu.uni.lu/handle/10993/57807) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981179) |
 | 2022 | PrePARE: Predictive Proprioception for Agile Failure Event Detection in Robotic Exploration of Extreme Terrains | IROS · Exploration | [Paper](https://resolver.sub.uni-goettingen.de/purl?gro-2/135588) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981660) |
 | 2022 | Safe and Efficient Exploration of Human Models During Human-Robot Interaction | IROS · Exploration | [Paper](https://arxiv.org/pdf/2208.01103) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981085) |
 | 2022 | Smart Explorer: Recognizing Objects in Dense Clutter via Interactive Exploration | IROS · Exploration | [Paper](https://arxiv.org/pdf/2208.03496) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981813) |
 | 2022 | Resilient Multi-Sensor Exploration of Multifarious Environments with a Team of Aerial Robots | RSS · Exploration | [Paper](https://doi.org/10.15607/rss.2022.xviii.004) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.004) |
 
-## Recent arXiv papers (233)
+## Recent arXiv papers (235)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-26 | RAEM: Robust Autonomous Exploration for Multi-Floor Environments with a Quadruped Robot | Zikang Yuan, Yuan Ren, Yian Wang, Yixue Wang et al. | [Abstract](https://arxiv.org/abs/2608.25366) · [PDF](https://arxiv.org/pdf/2608.25366) |
+| 2026-08-24 | Concept-Guided Exploration: Building Persistent, Actionable Scene Graphs | Noé Zapata, Gerardo Pérez, Alejandro Torrejón, Pedro Núñez et al. | [Abstract](https://arxiv.org/abs/2608.23650) · [PDF](https://arxiv.org/pdf/2608.23650) |
 | 2026-08-21 | PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration | Chen-Yu Lin, Jing-Wen Chen, Hsueh-En Chang, Hung-An Chen et al. | [Abstract](https://arxiv.org/abs/2608.21031) · [PDF](https://arxiv.org/pdf/2608.21031) |
 | 2026-08-21 | Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction | Dong Li, Dujun Nie, Xiaotong Zhang, Ruilin Wang et al. | [Abstract](https://arxiv.org/abs/2608.21358) · [PDF](https://arxiv.org/pdf/2608.21358) |
+| 2026-08-21 | ExploreAI: Agentic Exploration Knowledge Bases for Reproducible Observable-Regression Testing of Black-Box VR and 3D Applications | Jiajie Wang, Kebin Peng, Wei Wang, Xiaoyin Wang et al. | [Abstract](https://arxiv.org/abs/2608.21628) · [PDF](https://arxiv.org/pdf/2608.21628) |
 | 2026-08-17 | Zetta $ζ$: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence | Xin Ding, Liang Mi, Mingzhe Huang, Zixuan Wang et al. | [Abstract](https://arxiv.org/abs/2608.16590) · [PDF](https://arxiv.org/pdf/2608.16590) |
 | 2026-08-17 | Planner-Conditioned Diffusion for Coordinated Multi-Agent Exploration | Marcus Yu Siong Teo, Jeric Lew, Tanishq Duhan, Guillaume Sartoretti | [Abstract](https://arxiv.org/abs/2608.16229) · [PDF](https://arxiv.org/pdf/2608.16229) |
 | 2026-08-17 | Neurosymbolic Embodied Agents | Mohammad Albinhassan, Yuming Feng, Alessandra Russo, Pranava Madhyastha | [Abstract](https://arxiv.org/abs/2608.16794) · [PDF](https://arxiv.org/pdf/2608.16794) |
@@ -329,7 +332,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-13 | Energy-Constrained Active Exploration Under Incremental-Resolution Symbolic Perception | Disha Kamale, Sofie Haesaert, Cristian-Ioan Vasile | [Abstract](https://arxiv.org/abs/2309.07347) · [PDF](https://arxiv.org/pdf/2309.07347) |
 | 2023-09-12 | GVD-Exploration: An Efficient Autonomous Robot Exploration Framework Based on Fast Generalized Voronoi Diagram Extraction | Dingfeng Chen, Anxing Xiao, Meiyuan Zou, Wenzheng Chi et al. | [Abstract](https://arxiv.org/abs/2309.06041) · [PDF](https://arxiv.org/pdf/2309.06041) |
 | 2023-09-06 | tinySLAM-based exploration with a swarm of nano-UAVs | Johan Markdahl, Mattias Vikgren | [Abstract](https://arxiv.org/abs/2309.02834) · [PDF](https://arxiv.org/pdf/2309.02834) |
-| 2023-08-25 | Small Celestial Body Exploration with CubeSat Swarms | Emmanuel Blazquez, Dario Izzo, Francesco Biscani, Roger Walker et al. | [Abstract](https://arxiv.org/abs/2308.13333) · [PDF](https://arxiv.org/pdf/2308.13333) |
 
 ---
 

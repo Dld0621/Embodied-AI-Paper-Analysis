@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engines&specialty=Robot%20Datasets%20%26%20Corpora#research-workbench)
 
-> 92 conference papers · 636 recent arXiv papers
+> 92 conference papers · 635 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -111,10 +111,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Fisheye object detection based on standard image datasets with 24-points regression strategy | IROS · Dataset | [Paper](https://doi.org/10.1109/IROS47612.2022.9981891) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981891) |
 | 2022 | FusionPortable: A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms | IROS · Dataset | [Paper](https://arxiv.org/pdf/2208.11865) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982119) |
 
-## Recent arXiv papers (636)
+## Recent arXiv papers (635)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-25 | RoG-DAgger: Rollout-Guided Post-Training for End-to-End Driving | Liangyu Zhong, Joachim Sicking, Fabian Hueger, Hanno Gottschalk | [Abstract](https://arxiv.org/abs/2608.24525) · [PDF](https://arxiv.org/pdf/2608.24525) |
+| 2026-08-23 | MotionDLO: Hybrid Event- and Frame-Based Tracking of Deformable Linear Objects | Annalena Hartmann, Priyamvada Ajithkumar, Patrick Bründl, Jörg Franke | [Abstract](https://arxiv.org/abs/2608.22398) · [PDF](https://arxiv.org/pdf/2608.22398) |
 | 2026-08-21 | TaPeR: Probabilistic Recovery of Sparse Task Precedence Graphs from a Handful of Demonstrations | Adrian Röfer, Karla Stepanova, Abhinav Valada | [Abstract](https://arxiv.org/abs/2608.21035) · [PDF](https://arxiv.org/pdf/2608.21035) |
 | 2026-08-14 | NARRATE: A Multimodal Real-World Australian Driving Dataset for Human-Centred Explanations in Automated Driving | Ashkan Yousefi Zadeh, Zishuo Zhu, Xiaomeng Li, Andry Rakotonirainy et al. | [Abstract](https://arxiv.org/abs/2608.14767) · [PDF](https://arxiv.org/pdf/2608.14767) |
 | 2026-08-08 | Auditing Instruction-Trajectory Mismatches in Multimodal Robot Demonstrations | Simon Holk, Ryosuke Takanami, Tatsuya Matsushima, Yusuke Iwasawa et al. | [Abstract](https://arxiv.org/abs/2608.07895) · [PDF](https://arxiv.org/pdf/2608.07895) |
@@ -208,7 +210,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-04-01 | VRUD: A Drone Dataset for Complex Vehicle-VRU Interactions within Mixed Traffic | Ziyu Wang, Hongrui Kou, Cheng Wang, Ruochen Li et al. | [Abstract](https://arxiv.org/abs/2604.01134) · [PDF](https://arxiv.org/pdf/2604.01134) |
 | 2026-03-30 | SHOW3D: Capturing Scenes of 3D Hands and Objects in the Wild | Patrick Rim, Kevin Harris, Braden Copple, Shangchen Han et al. | [Abstract](https://arxiv.org/abs/2603.28760) · [PDF](https://arxiv.org/pdf/2603.28760) |
 | 2026-03-25 | Towards Safe Learning-Based Non-Linear Model Predictive Control through Recurrent Neural Network Modeling | Mihaela-Larisa Clement, Mónika Farsang, Agnes Poks, Johannes Edelmann et al. | [Abstract](https://arxiv.org/abs/2603.24503) · [PDF](https://arxiv.org/pdf/2603.24503) |
-| 2026-03-24 | LongTail Driving Scenarios with Reasoning Traces: The KITScenes LongTail Dataset | Royden Wagner, Omer Sahin Tas, Jaime Villa, Felix Hauser et al. | [Abstract](https://arxiv.org/abs/2603.23607) · [PDF](https://arxiv.org/pdf/2603.23607) |
+| 2026-03-24 | Reasoning models do not yet follow their reasoning in autonomous driving: The KITScenes LongTail Dataset | Royden Wagner, Omer Sahin Tas, Jaime Villa, Felix Hauser et al. | [Abstract](https://arxiv.org/abs/2603.23607) · [PDF](https://arxiv.org/pdf/2603.23607) |
 | 2026-03-20 | HortiMulti: A Multi-Sensor Dataset for Localisation and Mapping in Horticultural Polytunnels | Shuoyuan Xu, Zhipeng Zhong, Tiago Barros, Matthew Coombes et al. | [Abstract](https://arxiv.org/abs/2603.20150) · [PDF](https://arxiv.org/pdf/2603.20150) |
 | 2026-03-18 | HRI-SA: A Multimodal Dataset for Online Assessment of Human Situational Awareness during Remote Human-Robot Teaming | Hashini Senaratne, Richard Attfield, Samith Widhanapathirana, David Howard et al. | [Abstract](https://arxiv.org/abs/2603.18344) · [PDF](https://arxiv.org/pdf/2603.18344) |
 | 2026-03-17 | TrackDeform3D: Markerless and Autonomous 3D Keypoint Tracking and Dataset Collection for Deformable Objects | Yeheng Zong, Yizhou Chen, Alexander Bowler, Chia-Tung Yang et al. | [Abstract](https://arxiv.org/abs/2603.17068) · [PDF](https://arxiv.org/pdf/2603.17068) |
@@ -298,7 +300,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-11-14 | Phys-Liquid: A Physics-Informed Dataset for Estimating 3D Geometry and Volume of Transparent Deformable Liquids | Ke Ma, Yizhou Fang, Jean-Baptiste Weibel, Shuai Tan et al. | [Abstract](https://arxiv.org/abs/2511.11077) · [PDF](https://arxiv.org/pdf/2511.11077) |
 | 2025-11-12 | Diffusion Policies with Value-Conditional Optimization for Offline Reinforcement Learning | Yunchang Ma, Tenglong Liu, Yixing Lan, Xin Yin et al. | [Abstract](https://arxiv.org/abs/2511.08922) · [PDF](https://arxiv.org/pdf/2511.08922) |
 | 2025-11-10 | PlanT 2.0: Exposing Biases and Structural Flaws in Closed-Loop Driving | Simon Gerstenecker, Andreas Geiger, Katrin Renz | [Abstract](https://arxiv.org/abs/2511.07292) · [PDF](https://arxiv.org/pdf/2511.07292) |
-| 2025-11-10 | On Accurate and Robust Estimation of 3D and 2D Circular Center: Method and Application to Camera-Lidar Calibration | Jiajun Jiang, Xiao Hu, Wancheng Liu, Wei Jiang | [Abstract](https://arxiv.org/abs/2511.06611) · [PDF](https://arxiv.org/pdf/2511.06611) |
 | 2025-11-07 | Multi-agent Coordination via Flow Matching | Dongsu Lee, Daehee Lee, Amy Zhang | [Abstract](https://arxiv.org/abs/2511.05005) · [PDF](https://arxiv.org/pdf/2511.05005) |
 | 2025-11-04 | EvtSlowTV -- A Large and Diverse Dataset for Event-Based Depth Estimation | Sadiq Layi Macaulay, Nimet Kaygusuz, Simon Hadfield | [Abstract](https://arxiv.org/abs/2511.02953) · [PDF](https://arxiv.org/pdf/2511.02953) |
 | 2025-11-02 | XFlowMP: Task-Conditioned Motion Fields for Generative Robot Planning with Schrodinger Bridges | Khang Nguyen, Minh Nhat Vu | [Abstract](https://arxiv.org/abs/2512.00022) · [PDF](https://arxiv.org/pdf/2512.00022) |
@@ -749,8 +750,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-11 | CitDet: A Benchmark Dataset for Citrus Fruit Detection | Jordan A. James, Heather K. Manching, Matthew R. Mattia, Kim D. Bowman et al. | [Abstract](https://arxiv.org/abs/2309.05645) · [PDF](https://arxiv.org/pdf/2309.05645) |
 | 2023-09-04 | Dataset Generation for Drone Optimal Placement Using Machine Learning | Jialin Hao | [Abstract](https://arxiv.org/abs/2310.00009) · [PDF](https://arxiv.org/pdf/2310.00009) |
 | 2023-08-31 | E3CM: Epipolar-Constrained Cascade Correspondence Matching | Chenbo Zhou, Shuai Su, Qijun Chen, Rui Fan | [Abstract](https://arxiv.org/abs/2308.16555) · [PDF](https://arxiv.org/pdf/2308.16555) |
-| 2023-08-26 | A Conflict Resolution Dataset Derived from Argoverse-2: Analysis of the Safety and Efficiency Impacts of Autonomous Vehicles at Intersections | Guopeng Li, Yiru Jiao, Simeon C. Calvert, J. W. C. van Lint | [Abstract](https://arxiv.org/abs/2308.13839) · [PDF](https://arxiv.org/pdf/2308.13839) |
-| 2023-08-24 | BridgeData V2: A Dataset for Robot Learning at Scale | Homer Walke, Kevin Black, Abraham Lee, Moo Jin Kim et al. | [Abstract](https://arxiv.org/abs/2308.12952) · [PDF](https://arxiv.org/pdf/2308.12952) |
 
 ---
 

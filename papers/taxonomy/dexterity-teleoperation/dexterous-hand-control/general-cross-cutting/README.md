@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Dexterous%20Hand%20Control&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 87 conference papers · 235 recent arXiv papers
+> 87 conference papers · 237 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -106,10 +106,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning | NeurIPS · Dexterous | [Paper](https://arxiv.org/abs/2206.08686) · [Publisher](https://doi.org/10.48550/arXiv.2206.08686) |
 | 2022 | Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on Youtube | RSS · Robotic Hand | [Paper](https://doi.org/10.15607/rss.2022.xviii.023) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.023) |
 
-## Recent arXiv papers (235)
+## Recent arXiv papers (237)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-27 | Task-space model-based control of pneumatic soft actuators | Nithin S. Kumar, Joshua Gaston, D. Caleb Rucker, Eric J. Barth | [Abstract](https://arxiv.org/abs/2608.27186) · [PDF](https://arxiv.org/pdf/2608.27186) |
+| 2026-08-25 | Fiber Optic Sensing Glove for High Performance Dexterous Manipulation Capture | J. D. Peiffer, Taylor Niehues, Li Guan, Ziyi Kou et al. | [Abstract](https://arxiv.org/abs/2608.24572) · [PDF](https://arxiv.org/pdf/2608.24572) |
 | 2026-08-17 | ViHaTeleop: A Low-Cost, Lightweight Visual-Haptic Teleoperation System for Dexterous Manipulation Learning | Fucai Zhu, Yanhou Lai, Paul Maestre, Koichi Hashimoto | [Abstract](https://arxiv.org/abs/2608.16572) · [PDF](https://arxiv.org/pdf/2608.16572) |
 | 2026-08-16 | Pre-training Visual Dexterity in Simulation | Sarthak Kamat, Adam Rashid, Satvik Sharma, Aseem Doriwala et al. | [Abstract](https://arxiv.org/abs/2608.15917) · [PDF](https://arxiv.org/pdf/2608.15917) |
 | 2026-08-16 | Contact Modes Are Strata: What Geometric Structure Buys in Discrete-Continuous Planning | Phone Thiha Kyaw, Jonathan Kelly | [Abstract](https://arxiv.org/abs/2608.15541) · [PDF](https://arxiv.org/pdf/2608.15541) |

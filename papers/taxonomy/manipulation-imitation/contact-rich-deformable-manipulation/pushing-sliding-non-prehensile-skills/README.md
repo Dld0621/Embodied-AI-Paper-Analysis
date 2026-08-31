@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Contact-rich%20%26%20Deformable%20Manipulation&specialty=Pushing%2C%20Sliding%20%26%20Non-prehensile%20Skills#research-workbench)
 
-> 33 conference papers · 86 recent arXiv papers
+> 33 conference papers · 87 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -52,10 +52,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Data Augmentation for Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2205.02886) · [Publisher](https://doi.org/10.48550/arXiv.2205.02886) |
 | 2022 | Iterative residual policy: For goal-conditioned dynamic manipulation of deformable objects | RSS · Manipulation | [Paper](https://arxiv.org/abs/2203.00663) · [Publisher](https://doi.org/10.1177/02783649231201201) |
 
-## Recent arXiv papers (86)
+## Recent arXiv papers (87)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-28 | Contact-Guided Exploration for Non-Prehensile Locomanipulation with Multi-Critic RL | Simone Tolomei, Mayank Mittal, Franco Angelini, Manolo Garabini et al. | [Abstract](https://arxiv.org/abs/2608.28140) · [PDF](https://arxiv.org/pdf/2608.28140) |
 | 2026-08-03 | Hybrid Impedance-Admittance Control with Multi-Link Aerial Robot for Contact-Rich Surface Sliding Task | Zicheng Luo, Maolin Lei, Jinjie Li, Yicheng Chen et al. | [Abstract](https://arxiv.org/abs/2608.01800) · [PDF](https://arxiv.org/pdf/2608.01800) |
 | 2026-08-02 | DynamicManip: Enabling Dynamic Manipulation from a Single Static Demonstration | Haoran Liao, Pengyue Wang, Shuoyu Chen, Kehan Cheng et al. | [Abstract](https://arxiv.org/abs/2608.01452) · [PDF](https://arxiv.org/pdf/2608.01452) |
 | 2026-07-24 | One Hand Watches The Other: Dynamic Multi-Agent Cooperation for Sample-Efficient Bimanual Manipulation in Dynamic Environments | Jan Ole von Hartz, Abhinav Valada, Joschka Boedecker | [Abstract](https://arxiv.org/abs/2607.22119) · [PDF](https://arxiv.org/pdf/2607.22119) |

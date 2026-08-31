@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Running%2C%20Jumping%20%26%20Agile%20Skills#research-workbench)
 
-> 21 conference papers · 141 recent arXiv papers
+> 21 conference papers · 139 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -40,7 +40,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | SMORS: A soft multirotor UAV for multimodal locomotion and robust interaction | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2204.02165) · [Publisher](https://doi.org/10.48550/arXiv.2204.02165) |
 | 2022 | Three-Dimensional Dynamic Running with a Point-Foot Biped based on Differentially Flat SLIP | IROS · Biped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981516) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981516) |
 
-## Recent arXiv papers (141)
+## Recent arXiv papers (139)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -183,8 +183,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-21 | On-the-Fly SfM: What you capture is What you get | Zongqian Zhan, Rui Xia, Yifei Yu, Yibo Xu et al. | [Abstract](https://arxiv.org/abs/2309.11883) · [PDF](https://arxiv.org/pdf/2309.11883) |
 | 2023-09-15 | BANSAC: A dynamic BAyesian Network for adaptive SAmple Consensus | Valter Piedade, Pedro Miraldo | [Abstract](https://arxiv.org/abs/2309.08690) · [PDF](https://arxiv.org/pdf/2309.08690) |
 | 2023-09-11 | Robot Parkour Learning | Ziwen Zhuang, Zipeng Fu, Jianren Wang, Christopher Atkeson et al. | [Abstract](https://arxiv.org/abs/2309.05665) · [PDF](https://arxiv.org/pdf/2309.05665) |
-| 2023-08-30 | DRL-Based Trajectory Tracking for Motion-Related Modules in Autonomous Driving | Yinda Xu, Lidong Yu | [Abstract](https://arxiv.org/abs/2308.15991) · [PDF](https://arxiv.org/pdf/2308.15991) |
-| 2023-08-25 | Design and Control of a Bio-inspired Wheeled Bipedal Robot | Haizhou Zhao, Lei Yu, Siying Qin, Gumin Jin et al. | [Abstract](https://arxiv.org/abs/2308.13205) · [PDF](https://arxiv.org/pdf/2308.13205) |
 
 ---
 

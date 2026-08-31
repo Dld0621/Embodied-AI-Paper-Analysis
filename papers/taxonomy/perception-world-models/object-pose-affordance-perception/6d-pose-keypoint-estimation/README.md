@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Object%2C%20Pose%20%26%20Affordance%20Perception&specialty=6D%20Pose%20%26%20Keypoint%20Estimation#research-workbench)
 
-> 23 conference papers · 222 recent arXiv papers
+> 23 conference papers · 221 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -42,7 +42,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | TP-AE: Temporally Primed 6D Object Pose Tracking with Auto-Encoders | ICRA · Object Pose | [Paper](https://doi.org/10.1109/icra46639.2022.9811890) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811890) |
 | 2022 | SLAM-Supported Self-Training for 6D Object Pose Estimation | IROS · Object Pose | [Paper](https://arxiv.org/pdf/2203.04424) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981145) |
 
-## Recent arXiv papers (222)
+## Recent arXiv papers (221)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -267,7 +267,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-11 | ViHOPE: Visuotactile In-Hand Object 6D Pose Estimation with Shape Completion | Hongyu Li, Snehal Dikhale, Soshi Iba, Nawid Jamali | [Abstract](https://arxiv.org/abs/2309.05662) · [PDF](https://arxiv.org/pdf/2309.05662) |
 | 2023-09-11 | Towards Intuitive HMI for UAV Control | Filip Zoric, Goran Vasiljevic, Matko Orsag, Zdenko Kovacic | [Abstract](https://arxiv.org/abs/2309.05460) · [PDF](https://arxiv.org/pdf/2309.05460) |
 | 2023-09-05 | DR-Pose: A Two-stage Deformation-and-Registration Pipeline for Category-level 6D Object Pose Estimation | Lei Zhou, Zhiyang Liu, Runze Gan, Haozhe Wang et al. | [Abstract](https://arxiv.org/abs/2309.01925) · [PDF](https://arxiv.org/pdf/2309.01925) |
-| 2023-08-28 | Active Pose Refinement for Textureless Shiny Objects using the Structured Light Camera | Jun Yang, Jian Yao, Steven L. Waslander | [Abstract](https://arxiv.org/abs/2308.14665) · [PDF](https://arxiv.org/pdf/2308.14665) |
 
 ---
 

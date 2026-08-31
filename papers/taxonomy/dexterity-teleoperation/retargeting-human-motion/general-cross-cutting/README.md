@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | Enhancing Context-Aware Human Motion Prediction for Efficient Robot Handovers | IROS · Robot Hand | [Paper](https://arxiv.org/abs/2503.00576) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246683) |
+| 2025 | Enhancing Context-Aware Human Motion Prediction for Efficient Robot Handovers | IROS · Robot Hand | [Paper](https://hdl.handle.net/2117/459520) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246683) |
 | 2024 | One-Shot Transfer of Long-Horizon Extrinsic Manipulation Through Contact Retargeting | IROS · Retargeting | [Paper](https://arxiv.org/pdf/2404.07468) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801356) |
 | 2024 | Retargeting Human Facial Expression to Human-like Robotic Face through Neural Network Surrogate-based Optimization | IROS · Retargeting | [Paper](https://doi.org/10.1109/IROS58592.2024.10801759) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801759) |
 | 2023 | GenAug: Retargeting behaviors to unseen situations via Generative Augmentation | RSS · Retargeting | [Paper](https://arxiv.org/abs/2302.06671) · [Publisher](https://doi.org/10.48550/arXiv.2302.06671) |

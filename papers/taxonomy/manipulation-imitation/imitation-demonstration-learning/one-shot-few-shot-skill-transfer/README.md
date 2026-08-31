@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Imitation%20%26%20Demonstration%20Learning&specialty=One-shot%2C%20Few-shot%20%26%20Skill%20Transfer#research-workbench)
 
-> 19 conference papers · 74 recent arXiv papers
+> 19 conference papers · 73 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -38,7 +38,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Demonstrate Once, Imitate Immediately (DOME): Learning Visual Servoing for One-Shot Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2204.02863) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981982) |
 | 2022 | Using human gaze in few-shot imitation learning for robot manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981706) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981706) |
 
-## Recent arXiv papers (74)
+## Recent arXiv papers (73)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -115,7 +115,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-20 | Cloud-Based Hierarchical Imitation Learning for Scalable Transfer of Construction Skills from Human Workers to Assisting Robots | Hongrui Yu, Vineet R. Kamat, Carol C. Menassa | [Abstract](https://arxiv.org/abs/2309.11619) · [PDF](https://arxiv.org/pdf/2309.11619) |
 | 2023-09-08 | Few-Shot Learning of Force-Based Motions From Demonstration Through Pre-training of Haptic Representation | Marina Y. Aoyama, João Moura, Namiko Saito, Sethu Vijayakumar | [Abstract](https://arxiv.org/abs/2309.04640) · [PDF](https://arxiv.org/pdf/2309.04640) |
 | 2023-08-31 | SA6D: Self-Adaptive Few-Shot 6D Pose Estimator for Novel and Occluded Objects | Ning Gao, Ngo Anh Vien, Hanna Ziesche, Gerhard Neumann | [Abstract](https://arxiv.org/abs/2308.16528) · [PDF](https://arxiv.org/pdf/2308.16528) |
-| 2023-08-30 | RoboTAP: Tracking Arbitrary Points for Few-Shot Visual Imitation | Mel Vecerik, Carl Doersch, Yi Yang, Todor Davchev et al. | [Abstract](https://arxiv.org/abs/2308.15975) · [PDF](https://arxiv.org/pdf/2308.15975) |
 
 ---
 

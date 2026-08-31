@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Field%2C%20Aerial%20%26%20Marine%20Robotics&specialty=Marine%20%26%20Underwater%20Autonomy#research-workbench)
 
-> 2 conference papers · 39 recent arXiv papers
+> 2 conference papers · 40 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,11 +21,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Towards Centimeter-Scale Underwater Mobile Robots: An Architecture for Capable µAUVs | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610474) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610474) |
 | 2023 | Weakly Supervised Caveline Detection for AUV Navigation Inside Underwater Caves | IROS · Navigation | [Paper](https://arxiv.org/pdf/2303.03670) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342435) |
 
-## Recent arXiv papers (39)
+## Recent arXiv papers (40)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
 | 2026-08-05 | A Vision-based Control Framework for Real-time Autonomous UUV Operations | Erik Tjærand Frøland, Marco Job, Md Ether Deowan, Eleni Kelasidi | [Abstract](https://arxiv.org/abs/2608.04723) · [PDF](https://arxiv.org/pdf/2608.04723) |
+| 2026-07-27 | On the Optimized Use of Non-Orthonormality Constraints for the Quasi-Static INS Alignment of Autonomous Underwater and Surface Vehicles | Carlos Renato C. Durao, Felipe O. Silva, Itzik Klein, Vinıcius M. G. B. Cavalcanti et al. | [Abstract](https://arxiv.org/abs/2608.21390) · [PDF](https://arxiv.org/pdf/2608.21390) |
 | 2026-05-06 | AI-Aided Advancements in Autonomous Underwater Vehicle Navigation | Guy Damari, Zeev Yampolsky, Nadav Cohen, Arup Kumar Sahoo et al. | [Abstract](https://arxiv.org/abs/2605.04672) · [PDF](https://arxiv.org/pdf/2605.04672) |
 | 2026-04-13 | ReefMapGS: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting | Daniel Yang, Jungseok Hong, John J. Leonard, Yogesh Girdhar | [Abstract](https://arxiv.org/abs/2604.11992) · [PDF](https://arxiv.org/pdf/2604.11992) |
 | 2026-02-28 | Validation of Space Robotics in Underwater Environments via Disturbance Robustness Equivalency | Joris Verhagen, Elias Krantz, Chelsea Sidrane, David Dörner et al. | [Abstract](https://arxiv.org/abs/2603.00628) · [PDF](https://arxiv.org/pdf/2603.00628) |

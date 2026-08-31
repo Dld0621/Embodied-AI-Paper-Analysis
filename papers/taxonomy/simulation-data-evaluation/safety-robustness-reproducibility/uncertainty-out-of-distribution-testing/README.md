@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Safety%2C%20Robustness%20%26%20Reproducibility&specialty=Uncertainty%20%26%20Out-of-distribution%20Testing#research-workbench)
 
-> 0 conference papers · 40 recent arXiv papers
+> 0 conference papers · 41 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (40)
+## Recent arXiv papers (41)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -27,13 +27,14 @@ No conference papers currently map to this specialty.
 | 2026-05-18 | Confidence-Gated Robot Autonomy: When Does Uncertainty Actually Help? | Johannes A. Gaus, Jhon P. F. Charaja, Daniel Haeufle | [Abstract](https://arxiv.org/abs/2605.18045) · [PDF](https://arxiv.org/pdf/2605.18045) |
 | 2026-05-06 | Optimal Uncertainty-Aware Calibration for the AX=YB Problem | Yanjia Chen, Xiangfei Li, Huan Zhao, Yiyuan Hong et al. | [Abstract](https://arxiv.org/abs/2605.04809) · [PDF](https://arxiv.org/pdf/2605.04809) |
 | 2026-04-26 | Learning to Identify Out-of-Distribution Objects for 3D LiDAR Anomaly Segmentation | Simone Mosco, Daniel Fusaro, Alberto Pretto | [Abstract](https://arxiv.org/abs/2604.23604) · [PDF](https://arxiv.org/pdf/2604.23604) |
+| 2026-04-15 | UNRIO: Uncertainty-Aware Velocity Learning for Radar-Inertial Odometry | Jui-Te Huang, Tianshu Huang, Anthony Rowe, Michael Kaess | [Abstract](https://arxiv.org/abs/2604.13584) · [PDF](https://arxiv.org/pdf/2604.13584) |
 | 2026-04-13 | Robust Adversarial Policy Optimization Under Dynamics Uncertainty | Mintae Kim, Koushil Sreenath | [Abstract](https://arxiv.org/abs/2604.10974) · [PDF](https://arxiv.org/pdf/2604.10974) |
 | 2026-02-17 | Hybrid Model Predictive Control with Physics-Informed Neural Network for Satellite Attitude Control | Carlo Cena, Mauro Martini, Marcello Chiaberge | [Abstract](https://arxiv.org/abs/2602.15954) · [PDF](https://arxiv.org/pdf/2602.15954) |
 | 2026-02-02 | RAPT: Model-Predictive Out-of-Distribution Detection and Failure Diagnosis for Sim-to-Real Humanoid Deployment | Humphrey Munn, Brendan Tidd, Peter Bohm, Marcus Gallagher et al. | [Abstract](https://arxiv.org/abs/2602.01515) · [PDF](https://arxiv.org/pdf/2602.01515) |
+| 2026-01-27 | Analytical Covariance Propagation for DVL-Aided Loosely Coupled SINS Under Attitude Uncertainty | Jin Huang, Zichen Liu, Haoda Li, Zhikun Wang et al. | [Abstract](https://arxiv.org/abs/2601.19509) · [PDF](https://arxiv.org/pdf/2601.19509) |
 | 2025-12-08 | Mimir: Hierarchical Goal-Driven Diffusion with Uncertainty Propagation for End-to-End Autonomous Driving | Zebin Xing, Yupeng Zheng, Qichao Zhang, Zhixing Ding et al. | [Abstract](https://arxiv.org/abs/2512.07130) · [PDF](https://arxiv.org/pdf/2512.07130) |
 | 2025-11-13 | LongComp: Long-Tail Compositional Zero-Shot Generalization for Robust Trajectory Prediction | Benjamin Stoler, Jonathan Francis, Jean Oh | [Abstract](https://arxiv.org/abs/2511.10411) · [PDF](https://arxiv.org/pdf/2511.10411) |
 | 2025-09-30 | DiSA-IQL: Offline Reinforcement Learning for Robust Soft Robot Control under Distribution Shifts | Linjin He, Xinda Qi, Dong Chen, Zhaojian Li et al. | [Abstract](https://arxiv.org/abs/2510.00358) · [PDF](https://arxiv.org/pdf/2510.00358) |
-| 2025-09-16 | Dynamic Aware: Adaptive Multi-Mode Out-of-Distribution Detection for Trajectory Prediction in Autonomous Vehicles | Tongfei Guo, Lili Su | [Abstract](https://arxiv.org/abs/2509.13577) · [PDF](https://arxiv.org/pdf/2509.13577) |
 | 2025-09-15 | Deceptive Risk Minimization: Out-of-Distribution Generalization by Deceiving Distribution Shift Detectors | Anirudha Majumdar | [Abstract](https://arxiv.org/abs/2509.12081) · [PDF](https://arxiv.org/pdf/2509.12081) |
 | 2025-09-02 | Improving the Resilience of Quadrotors in Underground Environments by Combining Learning-based and Safety Controllers | Isaac Ronald Ward, Mark Paral, Kristopher Riordan, Mykel J. Kochenderfer | [Abstract](https://arxiv.org/abs/2509.02808) · [PDF](https://arxiv.org/pdf/2509.02808) |
 | 2025-08-12 | How Safe Will I Be Given What I Saw? Calibrated Prediction of Safety Chances for Image-Controlled Autonomy | Zhenjiang Mao, Mrinall Eashaan Umasudhan, Ivan Ruchkin | [Abstract](https://arxiv.org/abs/2508.09346) · [PDF](https://arxiv.org/pdf/2508.09346) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Dexterous%20Hand%20Control&specialty=Hand%20Design%2C%20Actuation%20%26%20Morphology#research-workbench)
 
-> 12 conference papers · 61 recent arXiv papers
+> 12 conference papers · 62 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -31,10 +31,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | LEAP Hand: Low-Cost, Efficient, and Anthropomorphic Hand for Robot Learning | RSS · Dexterous hardware | [Paper](https://arxiv.org/abs/2309.06440) · [Official](https://roboticsproceedings.org/rss19/index.html) · [Code](https://github.com/leap-hand/LEAP_Hand_API) |
 | 2022 | Toward Dexterous Flapping Flight: Effective Large Yaw Torque Generation by $2\times 2$-Degrees-of-Freedom Flapping Wings | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS47612.2022.9981990) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981990) |
 
-## Recent arXiv papers (61)
+## Recent arXiv papers (62)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-26 | A Tendon-Driven Five-Fingered Hand with Distributed Tactile Perception for Dexterous Manipulation | Huayang Chen, Longhui Qin | [Abstract](https://arxiv.org/abs/2608.25547) · [PDF](https://arxiv.org/pdf/2608.25547) |
 | 2026-08-19 | An Experimental Study of Downwash Effects on a Continuum Manipulator Integrated with a Multirotor UAV | Anuraj Uthayasooriyan, Krishna Manaswi Digumarti, ernando Vanegas, Felipe Gonzalez | [Abstract](https://arxiv.org/abs/2608.18507) · [PDF](https://arxiv.org/pdf/2608.18507) |
 | 2026-08-17 | H-PAC Hand: Control-Oriented Modeling and Tendon-Elasticity Compensation for an Underactuated Robotic Hand | Teng Yan, Jiongxu Chen, Teng Wang, Yue Yu et al. | [Abstract](https://arxiv.org/abs/2608.16712) · [PDF](https://arxiv.org/pdf/2608.16712) |
 | 2026-07-17 | Handroid: Bridging Dexterous Hand and Humanoid | Ruogu Li, Chenyang Ma, Sikai Li, Zhenyu Wei et al. | [Abstract](https://arxiv.org/abs/2607.16187) · [PDF](https://arxiv.org/pdf/2607.16187) |

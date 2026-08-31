@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Safety%2C%20Robustness%20%26%20Reproducibility&specialty=Reproducibility%20%26%20Standardization#research-workbench)
 
-> 0 conference papers · 20 recent arXiv papers
+> 0 conference papers · 21 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,10 +18,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (20)
+## Recent arXiv papers (21)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-24 | Reproducible Vision-Guided 6-DoF Robotic Manipulator with a Mixed Stepper-Driver Architecture and Browser-Native Control | Lasan Perera, Deneth Priyadarshana, Dulana Pitiwaduge, Isitha Dinujaya et al. | [Abstract](https://arxiv.org/abs/2608.22799) · [PDF](https://arxiv.org/pdf/2608.22799) |
 | 2026-08-07 | Exact Thrust-Reversal Limits of Bidirectional Propellers under Bounded Motor Inputs | Ahmed Ali, Chiara Gabellieri, Antonio Franchi | [Abstract](https://arxiv.org/abs/2608.06991) · [PDF](https://arxiv.org/pdf/2608.06991) |
 | 2026-08-04 | Scheduling and Routing with Degradation-Triggered Job Arrivals: An Application to Forest Firefighting with an Unmanned Aerial Vehicle Fleet | Erdi Dasdemir, Esther Jose, Rajan Batta | [Abstract](https://arxiv.org/abs/2608.18140) · [PDF](https://arxiv.org/pdf/2608.18140) |
 | 2025-11-13 | From Framework to Reliable Practice: End-User Perspectives on Social Robots in Public Spaces | Samson Oruma, Ricardo Colomo-Palacios, Vasileios Gkioulos | [Abstract](https://arxiv.org/abs/2511.10770) · [PDF](https://arxiv.org/pdf/2511.10770) |

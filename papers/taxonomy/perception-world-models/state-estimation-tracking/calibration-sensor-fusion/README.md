@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=State%20Estimation%20%26%20Tracking&specialty=Calibration%20%26%20Sensor%20Fusion#research-workbench)
 
-> 1 conference papers · 80 recent arXiv papers
+> 1 conference papers · 81 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2023 | AI-Based Multi-Object Relative State Estimation with Self-Calibration Capabilities | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2303.00371) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161375) |
 
-## Recent arXiv papers (80)
+## Recent arXiv papers (81)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-17 | The Setting of IMU Parameters in Kalman Filtering-based Information Fusion | Qiang Hu, Yanhua Zou, Shuaiyi Huo, Haibo Ge et al. | [Abstract](https://arxiv.org/abs/2608.21433) · [PDF](https://arxiv.org/pdf/2608.21433) |
 | 2026-07-08 | Dynamic Object Detection and Tracking in Construction: A Fisheye Camera and LiDAR Sensor Fusion Model | Yilong Chen, Huili Huang, Yong K. Cho | [Abstract](https://arxiv.org/abs/2607.06896) · [PDF](https://arxiv.org/pdf/2607.06896) |
 | 2026-06-23 | ADM-Fusion: Adaptive Deep Multi-Sensor Fusion for Robust Ego-Motion Estimation in Diverse Conditions | Hasan Moughnieh, Ibrahim Ghaddar, Hadi Elham, Imad H. Elhajj et al. | [Abstract](https://arxiv.org/abs/2606.25111) · [PDF](https://arxiv.org/pdf/2606.25111) |
 | 2026-06-20 | Decentralized Geometric Control for Cable-Suspended Payload Transport with Adaptive Mass Estimation | Hadi Hajieghrary, Benedikt Walter, Paul Schmitt, Miguel Hurtado | [Abstract](https://arxiv.org/abs/2607.00024) · [PDF](https://arxiv.org/pdf/2607.00024) |

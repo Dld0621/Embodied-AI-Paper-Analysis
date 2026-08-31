@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=Point-cloud%20%26%20LiDAR%20Perception#research-workbench)
 
-> 4 conference papers · 356 recent arXiv papers
+> 4 conference papers · 354 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,7 +23,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning | ICRA · Scene Graph | [Paper](https://arxiv.org/abs/2309.08914) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610206) |
 | 2023 | Open-Vocabulary Affordance Detection in 3D Point Clouds | IROS · Affordance | [Paper](https://arxiv.org/pdf/2303.02401) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341553) |
 
-## Recent arXiv papers (356)
+## Recent arXiv papers (354)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -34,6 +34,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-30 | RaDiVe: Robust 4D Radar Odometry with Distance-Bounded NDT and Velocity-Discrepancy Point Uncertainty | Sangwoo Jung, Dongjae Lee, Chiyun Noh, Ayoung Kim | [Abstract](https://arxiv.org/abs/2607.28045) · [PDF](https://arxiv.org/pdf/2607.28045) |
 | 2026-07-20 | Two-Stage Extrinsic Calibration of a Static Line-Scanning Lidar with a Rotary Platform | Vikram Shree, Hike Danakian, Long Nguyen, Rajanish Gokidi et al. | [Abstract](https://arxiv.org/abs/2607.18578) · [PDF](https://arxiv.org/pdf/2607.18578) |
 | 2026-07-19 | DeeperRadar: End-to-End MIMO Radar Design and Multi-Modal Fusion for Autonomous Vehicle Perception | Eli Goldenshluger, Barak Pinkovich, Chaim Baskin | [Abstract](https://arxiv.org/abs/2607.17351) · [PDF](https://arxiv.org/pdf/2607.17351) |
+| 2026-07-16 | RoboShape: Information-Theoretic Point Cloud Representations for Privacy-Aware Robot Perception | Oguzhan Baser, Mirac Sozen, Kaan Kale, Sandeep Chinchali et al. | [Abstract](https://arxiv.org/abs/2608.21380) · [PDF](https://arxiv.org/pdf/2608.21380) |
 | 2026-07-16 | Image-to-Point Cloud Registration Made Easy with Rectified Flow-based LiDAR Upsampling | Reon Tabata, Kenji Koide, Shuji Oishi, Masashi Yokozuka et al. | [Abstract](https://arxiv.org/abs/2607.14639) · [PDF](https://arxiv.org/pdf/2607.14639) |
 | 2026-07-12 | SLIDER: Sparse History-Guided Aerial Robot Target Search using Sliding Local Maps | Xiaolei Hou, Zheng Pan, Hua Lan, Zhenghao Zou et al. | [Abstract](https://arxiv.org/abs/2607.10553) · [PDF](https://arxiv.org/pdf/2607.10553) |
 | 2026-07-10 | Hydra++: Real-Time Hierarchical 3D Scene Graph Construction With Object-Level Shape Estimation | Hyungtae Lim, Nathan Hughes, Xihang Yu, Ruihan Xu et al. | [Abstract](https://arxiv.org/abs/2607.09455) · [PDF](https://arxiv.org/pdf/2607.09455) |
@@ -380,9 +381,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-12 | Collaborative Dynamic 3D Scene Graphs for Automated Driving | Elias Greve, Martin Büchner, Niclas Vödisch, Wolfram Burgard et al. | [Abstract](https://arxiv.org/abs/2309.06635) · [PDF](https://arxiv.org/pdf/2309.06635) |
 | 2023-09-08 | Weakly Supervised Point Clouds Transformer for 3D Object Detection | Zuojin Tang, Bo Sun, Tongwei Ma, Daosheng Li et al. | [Abstract](https://arxiv.org/abs/2309.04105) · [PDF](https://arxiv.org/pdf/2309.04105) |
 | 2023-08-31 | Test-Time Adaptation for Point Cloud Upsampling Using Meta-Learning | Ahmed Hatem, Yiming Qian, Yang Wang | [Abstract](https://arxiv.org/abs/2308.16484) · [PDF](https://arxiv.org/pdf/2308.16484) |
-| 2023-08-29 | Ego-Motion Estimation and Dynamic Motion Separation from 3D Point Clouds for Accumulating Data and Improving 3D Object Detection | Patrick Palmer, Martin Krueger, Richard Altendorfer, Torsten Bertram | [Abstract](https://arxiv.org/abs/2308.15357) · [PDF](https://arxiv.org/pdf/2308.15357) |
-| 2023-08-28 | Attention-Guided Lidar Segmentation and Odometry Using Image-to-Point Cloud Saliency Transfer | Guanqun Ding, Nevrez Imamoglu, Ali Caglayan, Masahiro Murakawa et al. | [Abstract](https://arxiv.org/abs/2308.14332) · [PDF](https://arxiv.org/pdf/2308.14332) |
-| 2023-08-24 | Joint Intrinsic and Extrinsic LiDAR-Camera Calibration in Targetless Environments Using Plane-Constrained Bundle Adjustment | Liang Li, Haotian Li, Xiyuan Liu, Dongjiao He et al. | [Abstract](https://arxiv.org/abs/2308.12629) · [PDF](https://arxiv.org/pdf/2308.12629) |
 
 ---
 

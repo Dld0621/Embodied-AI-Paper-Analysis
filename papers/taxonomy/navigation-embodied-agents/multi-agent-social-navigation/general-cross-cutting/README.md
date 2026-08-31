@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Multi-agent%20%26%20Social%20Navigation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 2 conference papers · 37 recent arXiv papers
+> 2 conference papers · 38 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,10 +21,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Multi-Agent Behavior Retrieval: Retrieval-Augmented Policy Training for Cooperative Push Manipulation by Mobile Robots | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2312.02008) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801334) |
 | 2023 | CAMETA: Conflict-Aware Multi-Agent Estimated Time of Arrival Prediction for Mobile Robots | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2503.00074) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341937) |
 
-## Recent arXiv papers (37)
+## Recent arXiv papers (38)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-27 | Dynamic Haven Selection for Multi-Agent Pickup and Delivery in Constrained Warehouses | Taisei Hirayama, Kohei Yoshida, Hiroki Sakaji, Itsuki Noda | [Abstract](https://arxiv.org/abs/2608.26939) · [PDF](https://arxiv.org/pdf/2608.26939) |
 | 2026-08-12 | Scalable Multi-Agent Maze Traversal with Local Communication | Julian Rau, Jahir Argote-Gerald, Grace McFassel, Genki Miyauchi et al. | [Abstract](https://arxiv.org/abs/2608.11895) · [PDF](https://arxiv.org/pdf/2608.11895) |
 | 2026-08-06 | Plan-and-Avoid: Real-Time Aircraft Trajectory Coordination in a Multi-Agent Environment | Huseyin Emre Tekaslan, Ella M. Atkins, Natasha Neogi | [Abstract](https://arxiv.org/abs/2608.06648) · [PDF](https://arxiv.org/pdf/2608.06648) |
 | 2026-06-04 | Merging model-based control with multi-agent reinforcement learning for multi-agent cooperative teaming strategies | Christian Llanes, Spencer W. Jensen, Samuel Coogan | [Abstract](https://arxiv.org/abs/2606.06011) · [PDF](https://arxiv.org/pdf/2606.06011) |

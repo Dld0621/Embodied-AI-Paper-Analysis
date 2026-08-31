@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Manipulation%20Policy%20Learning&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 142 conference papers · 603 recent arXiv papers
+> 142 conference papers · 605 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -40,7 +40,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Cage: Causal Attention Enables Data-Efficient Generalizable Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2410.14974) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127739) |
 | 2025 | Match Policy: A Simple Pipeline from Point Cloud Registration to Manipulation Policies | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2409.15517) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128725) |
 | 2025 | Model Q-II: An Underactuated Hand with Enhanced Grasping Modes and Primitives for Dexterous Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127291) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127291) |
-| 2025 | Optimize and Coordinate Multiple DMPs Under Constraints to Achieve a Collaborative Manipulation Task | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127511) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127511) |
+| 2025 | Optimize and Coordinate Multiple DMPs Under Constraints to Achieve a Collaborative Manipulation Task | ICRA · Manipulation | [Paper](https://orbilu.uni.lu/handle/10993/66139) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127511) |
 | 2025 | Robot Manipulation in Salient Vision Through Referring Image Segmentation and Geometric Constraints | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2409.11518) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128563) |
 | 2025 | RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2411.02704) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127525) |
 | 2025 | Safe Leaf Manipulation for Accurate Shape and Pose Estimation of Occluded Fruits | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2409.17389) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128788) |
@@ -161,10 +161,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Real-time Acoustic Holography with Physics-based Deep Learning for Acoustic Robotic Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981395) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981395) |
 | 2022 | Variable Impedance Control for Safety and Usability in Telemanipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982118) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982118) |
 
-## Recent arXiv papers (603)
+## Recent arXiv papers (605)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-27 | Rapid On-Robot Learning for Dynamic Manipulation Skills: Robot Juggling | Taeyoon Lee, Chunpeng Wang, Christopher G. Atkeson, Alfred A. Rizzi et al. | [Abstract](https://arxiv.org/abs/2608.26800) · [PDF](https://arxiv.org/pdf/2608.26800) |
+| 2026-08-27 | GRAFT: Grounded and Efficient Online Reinforcement Adaptation for Fine-Grained Robot Manipulation | Yibo Qiu, Haoliang Ye, Shu'ang Sun, Zan Huang et al. | [Abstract](https://arxiv.org/abs/2608.27079) · [PDF](https://arxiv.org/pdf/2608.27079) |
+| 2026-08-26 | One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation | Xiaomi Embodied Intelligence Team, University of Macau, :, Shaoqing Xu et al. | [Abstract](https://arxiv.org/abs/2608.26058) · [PDF](https://arxiv.org/pdf/2608.26058) |
+| 2026-08-25 | A Durable Vision-Based Tactile Fingertip for Robotic Manipulation | F. Richard Cottrell, Megha H. Tippur, Edward H. Adelson | [Abstract](https://arxiv.org/abs/2608.24242) · [PDF](https://arxiv.org/pdf/2608.24242) |
+| 2026-08-24 | DreamLedger: Where to Refuse World-Model Imagination Using Execution-Settled Credit | Xianyao Li, Ruitong Tian, Rui Min, Fang Xu et al. | [Abstract](https://arxiv.org/abs/2608.23863) · [PDF](https://arxiv.org/pdf/2608.23863) |
+| 2026-08-23 | EMPIRE: Explicit Manipulation Planning as a Learnable Intermediate Representation for Egocentric Hand-Motion Forecasting | Wen Wang, Ruibing Hou, Hong Chang, Shiguang Shan et al. | [Abstract](https://arxiv.org/abs/2608.22449) · [PDF](https://arxiv.org/pdf/2608.22449) |
 | 2026-08-21 | VT-MUSE: Multimodal Unified Sequential Visuotactile Representation Learning for Manipulation | Congsheng Xu, Qiaochu Yang, Fangyuan Shi, Yifan Han et al. | [Abstract](https://arxiv.org/abs/2608.21290) · [PDF](https://arxiv.org/pdf/2608.21290) |
 | 2026-08-19 | Multi-Tool Robotics Enables In-Situ Sample Manipulation for Time-Resolved Synchrotron Measurements | Aditya Bondada, Elizabeth M. Wall, Eric Yuan Xiao, Quinn C. Burlingame et al. | [Abstract](https://arxiv.org/abs/2608.19280) · [PDF](https://arxiv.org/pdf/2608.19280) |
 | 2026-08-19 | Dream2Reward: Transition-Alignment Reward Models from Positive Demonstrations for Robotic Manipulation | Haoyu Zhang, Zecui Zeng, Bin Wang, Lusong Li et al. | [Abstract](https://arxiv.org/abs/2608.18787) · [PDF](https://arxiv.org/pdf/2608.18787) |
@@ -764,10 +770,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-05 | A Lightweight and Transferable Design for Robust LEGO Manipulation | Ruixuan Liu, Yifan Sun, Changliu Liu | [Abstract](https://arxiv.org/abs/2309.02354) · [PDF](https://arxiv.org/pdf/2309.02354) |
 | 2023-09-04 | Experimental method for perching flapping-wing aerial robots | Raphael Zufferey, Daniel Feliu-Talegon, Saeed Rafee Nekoo, Jose-Angel Acosta et al. | [Abstract](https://arxiv.org/abs/2309.01447) · [PDF](https://arxiv.org/pdf/2309.01447) |
 | 2023-08-31 | GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields | Yanjie Ze, Ge Yan, Yueh-Hua Wu, Annabella Macaluso et al. | [Abstract](https://arxiv.org/abs/2308.16891) · [PDF](https://arxiv.org/pdf/2308.16891) |
-| 2023-08-29 | Enhancing Robot Learning through Learned Human-Attention Feature Maps | Daniel Scheuchenstuhl, Stefan Ulmer, Felix Resch, Luigi Berducci et al. | [Abstract](https://arxiv.org/abs/2308.15327) · [PDF](https://arxiv.org/pdf/2308.15327) |
-| 2023-08-28 | Symmetric Models for Visual Force Policy Learning | Colin Kohler, Anuj Shrivatsav Srikanth, Eshan Arora, Robert Platt | [Abstract](https://arxiv.org/abs/2308.14670) · [PDF](https://arxiv.org/pdf/2308.14670) |
-| 2023-08-28 | Information-driven Affordance Discovery for Efficient Robotic Manipulation | Pietro Mazzaglia, Taco Cohen, Daniel Dijkman | [Abstract](https://arxiv.org/abs/2308.14915) · [PDF](https://arxiv.org/pdf/2308.14915) |
-| 2023-08-27 | Research Report -- Persistent Autonomy and Robot Learning Lab | S. Reza Ahmadzadeh | [Abstract](https://arxiv.org/abs/2308.14232) · [PDF](https://arxiv.org/pdf/2308.14232) |
 
 ---
 

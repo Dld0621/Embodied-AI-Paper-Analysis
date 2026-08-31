@@ -35,6 +35,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-24 | RoboRacer Arena: Scaling High-Fidelity Autonomous Racing in Isaac Sim | Mihaela-Larisa Clement, Agnes Poks, Ezio Bartocci | [Abstract](https://arxiv.org/abs/2608.23040) · [PDF](https://arxiv.org/pdf/2608.23040) |
 | 2026-08-13 | Semantic Radiance Fields as Simulators for Spatial Reasoning in Real-World Scenes | Nico Heider, Michał Jan Włodarczyk, Katarzyna Wasielewska-Michniewska, Przemysław Hołda et al. | [Abstract](https://arxiv.org/abs/2608.13095) · [PDF](https://arxiv.org/pdf/2608.13095) |
 | 2026-08-13 | HumanoidVLN: A Physics-Grounded Simulator and Benchmark for Vision-Language Navigation Across Diverse Humanoid Embodiments | Quan-Dung Pham, Anh Dao, The-Anh Nguyen, Minh Nguyen-Dinh et al. | [Abstract](https://arxiv.org/abs/2608.12860) · [PDF](https://arxiv.org/pdf/2608.12860) |
 | 2026-08-12 | D3D-GEN: Robot-Aware Domain-Grounded Interactive 3D World Generation for Social Robotics | Anh Duc Do, Volodymyr Scherbyna, Tai Duc Nguyen, Spaarsh Thakkar et al. | [Abstract](https://arxiv.org/abs/2608.11876) · [PDF](https://arxiv.org/pdf/2608.11876) |
@@ -199,7 +200,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-18 | Simulation of Sensor Spoofing Attacks on Unmanned Aerial Vehicles Using the Gazebo Simulator | Irdin Pekaric, David Arnold, Michael Felderer | [Abstract](https://arxiv.org/abs/2309.09648) · [PDF](https://arxiv.org/pdf/2309.09648) |
 | 2023-09-16 | OmniLRS: A Photorealistic Simulator for Lunar Robotics | Antoine Richard, Junnosuke Kamohara, Kentaro Uno, Shreya Santra et al. | [Abstract](https://arxiv.org/abs/2309.08997) · [PDF](https://arxiv.org/pdf/2309.08997) |
 | 2023-09-09 | Jade: A Differentiable Physics Engine for Articulated Rigid Bodies with Intersection-Free Frictional Contact | Gang Yang, Siyuan Luo, Lin Shao | [Abstract](https://arxiv.org/abs/2309.04710) · [PDF](https://arxiv.org/pdf/2309.04710) |
-| 2023-08-28 | Distributionally Robust Statistical Verification with Imprecise Neural Networks | Souradeep Dutta, Michele Caprio, Vivian Lin, Matthew Cleaveland et al. | [Abstract](https://arxiv.org/abs/2308.14815) · [PDF](https://arxiv.org/pdf/2308.14815) |
 
 ---
 

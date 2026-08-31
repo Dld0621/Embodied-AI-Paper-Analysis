@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | FRASA: An End-to-End Reinforcement Learning Agent for Fall Recovery and Stand Up of Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2410.08655) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128664) |
+| 2025 | FRASA: An End-to-End Reinforcement Learning Agent for Fall Recovery and Stand Up of Humanoid Robots | ICRA · Humanoid | [Paper](https://hal.science/hal-05302582) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128664) |
 | 2025 | HiFAR: Multi-Stage Curriculum Learning for High-Dynamics Humanoid Fall Recovery | IROS · Humanoid | [Paper](https://arxiv.org/abs/2502.20061) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245953) |
 | 2022 | Humanoid Arm Motion Planning for Improved Disturbance Recovery Using Model Hierarchy Predictive Control | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra46639.2022.9811878) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811878) |
 | 2022 | Reactive Stepping for Humanoid Robots using Reinforcement Learning: Application to Standing Push Recovery on the Exoskeleton Atalante | IROS · Humanoid | [Paper](https://hal.science/hal-04155863) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982234) |

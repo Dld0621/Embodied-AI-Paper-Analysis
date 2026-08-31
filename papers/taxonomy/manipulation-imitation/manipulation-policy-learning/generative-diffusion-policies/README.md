@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Manipulation%20Policy%20Learning&specialty=Generative%20%26%20Diffusion%20Policies#research-workbench)
 
-> 18 conference papers · 248 recent arXiv papers
+> 18 conference papers · 250 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -37,15 +37,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | ChainedDiffuser: Unifying Trajectory Diffusion and Keypose Prediction for Robotic Manipulation | CoRL · Manipulation | [Paper](https://www.semanticscholar.org/paper/c36f3635e090aba84e5e83b904a7697e83730be6) · [Index](https://dblp.org/rec/conf/corl/XianGGKF23) |
 | 2023 | Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | RSS · Diffusion policy | [Paper](https://arxiv.org/abs/2303.04137) · [Official](https://roboticsproceedings.org/rss19/p026.html) · [Code](https://github.com/real-stanford/diffusion_policy) |
 
-## Recent arXiv papers (248)
+## Recent arXiv papers (250)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-27 | PredVLA: A Sub-Million-Parameter Predictive-Coding Policy for Robot Manipulation | Hiroki Sawada, Shunichi Kasahara | [Abstract](https://arxiv.org/abs/2608.26673) · [PDF](https://arxiv.org/pdf/2608.26673) |
+| 2026-08-22 | Contact-Rich Robotic Manipulation in Construction via Zero-Shot Learning: A Diffusion Policy-Guided Adaptive Control | Roman Ibrahimov, Salma Mozaffari, Arash Adel | [Abstract](https://arxiv.org/abs/2608.22100) · [PDF](https://arxiv.org/pdf/2608.22100) |
 | 2026-08-06 | VIDP: Variable Impedance Diffusion Policy for Compliant Robot Manipulation from Diverse Demonstrations | Hisham Khalil, Neil Fernandes, Thomas M. Kwok, Hsiu-Chin Lin et al. | [Abstract](https://arxiv.org/abs/2608.06210) · [PDF](https://arxiv.org/pdf/2608.06210) |
 | 2026-08-06 | SkillMemo: Expert-guided Skill Memory Framework for Compositional Embodied Manipulation | Changyuan Wang, Chubin Zhang, Zhenyu Wu, Runhao Li et al. | [Abstract](https://arxiv.org/abs/2608.05970) · [PDF](https://arxiv.org/pdf/2608.05970) |
 | 2026-08-04 | Bimanual Manipulation Within an 8 GB Budget: Zero-Copy Sensing and Quantized ACT on an Entry-Level Jetson | Ekansh Singh, Eva Samuel, Alessandra Reneau, Ryan Schmeelk et al. | [Abstract](https://arxiv.org/abs/2608.03938) · [PDF](https://arxiv.org/pdf/2608.03938) |
 | 2026-07-30 | FA-RDP: A Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation | Lifeng Zhuo, Wendi Chen, Han Xue, Shirun Tang et al. | [Abstract](https://arxiv.org/abs/2607.28596) · [PDF](https://arxiv.org/pdf/2607.28596) |
-| 2026-07-29 | Temporally Centered SIGReg Improves Multi-Task LeWorldModel Learning: From Analysis to Method | Chang Liu, Fei Suo, Yanzhou Jin, Yusuke Iwasawa et al. | [Abstract](https://arxiv.org/abs/2607.26924) · [PDF](https://arxiv.org/pdf/2607.26924) |
+| 2026-07-29 | Temporally Centered SIGReg Improves LeWorldModel Representations for Robot Policy Learning | Chang Liu, Fei Suo, Yanzhou Jin, Zeyu Ping et al. | [Abstract](https://arxiv.org/abs/2607.26924) · [PDF](https://arxiv.org/pdf/2607.26924) |
 | 2026-07-28 | $π\mathbf{R}^2$: Reactive Real-time Flow Policies | Sungjae Park, Shubham Tulsiani | [Abstract](https://arxiv.org/abs/2607.26055) · [PDF](https://arxiv.org/pdf/2607.26055) |
 | 2026-07-27 | PAC-DP: PAC-Bayesian Diffusion Policy Learning | Mohammad Hasan Yeganegi, Dian Yu, Andrea Del Prete, Majid Khadiv et al. | [Abstract](https://arxiv.org/abs/2607.24296) · [PDF](https://arxiv.org/pdf/2607.24296) |
 | 2026-07-22 | GRACE: Gradient-Free Robot Action Generation via Combined Diffusion-MPPI Posterior Mean Estimation | Leesai Park, Jiho HOng, Sanghyun Kim | [Abstract](https://arxiv.org/abs/2607.21661) · [PDF](https://arxiv.org/pdf/2607.21661) |
@@ -159,7 +161,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-12-02 | Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling | Yueru Jia, Jiaming Liu, Shengbang Liu, Rui Zhou et al. | [Abstract](https://arxiv.org/abs/2512.03044) · [PDF](https://arxiv.org/pdf/2512.03044) |
 | 2025-12-01 | EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI | Jianlei Chang, Ruofeng Mei, Wei Ke, Xiangyu Xu | [Abstract](https://arxiv.org/abs/2512.02020) · [PDF](https://arxiv.org/pdf/2512.02020) |
 | 2025-11-27 | CAPE: Context-Aware Diffusion Policy Via Proximal Mode Expansion for Collision Avoidance | Rui Heng Yang, Xuan Zhao, Leo Maxime Brunswic, Montgomery Alban et al. | [Abstract](https://arxiv.org/abs/2511.22773) · [PDF](https://arxiv.org/pdf/2511.22773) |
-| 2025-11-21 | Contact-Rich Robotic Assembly in Construction via Diffusion Policy Learning | Salma Mozaffari, Daniel Ruan, William van den Bogert, Nima Fazeli et al. | [Abstract](https://arxiv.org/abs/2511.17774) · [PDF](https://arxiv.org/pdf/2511.17774) |
+| 2025-11-21 | Learning Diffusion Policies for Robotic Manipulation of Timber Joinery under Fabrication Uncertainty | Salma Mozaffari, Daniel Ruan, William van den Bogert, Nima Fazeli et al. | [Abstract](https://arxiv.org/abs/2511.17774) · [PDF](https://arxiv.org/pdf/2511.17774) |
 | 2025-11-19 | Theoretical Closed-loop Stability Bounds for Dynamical System Coupled with Diffusion Policies | Gabriel Lauzier, Alexandre Girard, François Ferland | [Abstract](https://arxiv.org/abs/2511.15520) · [PDF](https://arxiv.org/pdf/2511.15520) |
 | 2025-11-14 | MATT-Diff: Multimodal Active Target Tracking by Diffusion Policy | Saida Liu, Nikolay Atanasov, Shumon Koga | [Abstract](https://arxiv.org/abs/2511.11931) · [PDF](https://arxiv.org/pdf/2511.11931) |
 | 2025-11-07 | MoE-DP: An MoE-Enhanced Diffusion Policy for Robust Long-Horizon Robotic Manipulation with Skill Decomposition and Failure Recovery | Baiye Cheng, Tianhai Liang, Suning Huang, Maanping Shao et al. | [Abstract](https://arxiv.org/abs/2511.05007) · [PDF](https://arxiv.org/pdf/2511.05007) |

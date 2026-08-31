@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=VLA%20Architectures&specialty=Action%20Tokenization%20%26%20Decoding#research-workbench)
 
-> 0 conference papers · 63 recent arXiv papers
+> 0 conference papers · 64 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,10 +18,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (63)
+## Recent arXiv papers (64)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-27 | FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference | Zekai Li, Jiaming Tang, Zhijian Liu | [Abstract](https://arxiv.org/abs/2608.27384) · [PDF](https://arxiv.org/pdf/2608.27384) |
 | 2026-08-17 | SparkVLA: Stop-Aware Hierarchical VLA with Adaptive Action Chunking for Long-Horizon Manipulation | Xunyao Lei, Renjun Wu, Tianlin Huo, Xuesong Li | [Abstract](https://arxiv.org/abs/2608.16172) · [PDF](https://arxiv.org/pdf/2608.16172) |
 | 2026-08-15 | PhaseLoRA: Control-Regime-Conditioned Low-Rank Adaptation for Continuous-Action Vision-Language-Action Policies | Yufei Guo, Yinan Wu, Haoran Duan, Guiguang Ding et al. | [Abstract](https://arxiv.org/abs/2608.15285) · [PDF](https://arxiv.org/pdf/2608.15285) |
 | 2026-08-14 | BICPO-VLA: Behavior-Identified Continuation Preference Optimization for Smooth Asynchronous Vision-Language-Action Control | Ming Shang, Yuchen Huang, Jiaoyang Chen, Haoyuan Hu et al. | [Abstract](https://arxiv.org/abs/2608.13924) · [PDF](https://arxiv.org/pdf/2608.13924) |

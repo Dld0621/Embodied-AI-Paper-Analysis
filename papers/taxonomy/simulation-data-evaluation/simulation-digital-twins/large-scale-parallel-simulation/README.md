@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Large-scale%20Parallel%20Simulation#research-workbench)
 
-> 4 conference papers · 21 recent arXiv papers
+> 4 conference papers · 20 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,7 +23,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation | NeurIPS · Simulation | [Paper](https://arxiv.org/abs/2504.12908) · [Publisher](https://doi.org/10.48550/arXiv.2504.12908) |
 | 2024 | RoboCasa: Large-Scale Simulation of Household Tasks for Generalist Robots | RSS · Household simulation | [Paper](https://arxiv.org/abs/2306.14426) · [Official](https://roboticsproceedings.org/rss20/index.html) · [Code](https://github.com/ARISE-Initiative/robocasa) |
 
-## Recent arXiv papers (21)
+## Recent arXiv papers (20)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -47,7 +47,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-05-23 | Evolution and learning in differentiable robots | Luke Strgar, David Matthews, Tyler Hummer, Sam Kriegman | [Abstract](https://arxiv.org/abs/2405.14712) · [PDF](https://arxiv.org/pdf/2405.14712) |
 | 2024-05-03 | Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning | Dhruva Tirumala, Markus Wulfmeier, Ben Moran, Sandy Huang et al. | [Abstract](https://arxiv.org/abs/2405.02425) · [PDF](https://arxiv.org/pdf/2405.02425) |
 | 2023-10-12 | Waymax: An Accelerated, Data-Driven Simulator for Large-Scale Autonomous Driving Research | Cole Gulino, Justin Fu, Wenjie Luo, George Tucker et al. | [Abstract](https://arxiv.org/abs/2310.08710) · [PDF](https://arxiv.org/pdf/2310.08710) |
-| 2023-08-24 | Potato: A Data-Oriented Programming 3D Simulator for Large-Scale Heterogeneous Swarm Robotics | Jinjie Li, Liang Han, Haoyang Yu, Zhaotian Wang et al. | [Abstract](https://arxiv.org/abs/2308.12698) · [PDF](https://arxiv.org/pdf/2308.12698) |
 
 ---
 

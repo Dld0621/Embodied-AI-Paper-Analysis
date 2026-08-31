@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Grasping%20%26%20Object%20Interaction&specialty=Grippers%2C%20Suction%20%26%20End-effectors#research-workbench)
 
-> 71 conference papers · 301 recent arXiv papers
+> 71 conference papers · 303 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -90,10 +90,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | On a Balanced Delta Robot for Precise Aerial Manipulation: Implementation, Testing, and Lessons for Future Designs | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981736) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981736) |
 | 2022 | Recognizing object surface material from impact sounds for robot manipulation | IROS · Manipulation | [Paper](https://upcommons.upc.edu/bitstream/2117/385200/1/2619-Recognizing-object-surface-material-from-impact-sounds-for-robot-manipulation.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981578) |
 
-## Recent arXiv papers (301)
+## Recent arXiv papers (303)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-27 | Relaxation-Aware Multimodal Sensing of Soft Gripper Driven by Structure-Perception-Learning | Yanzhe Wang, Hao Wu, Ziyi Zheng, Huixu Dong | [Abstract](https://arxiv.org/abs/2608.26622) · [PDF](https://arxiv.org/pdf/2608.26622) |
+| 2026-08-27 | Active Surface-Driven Reconfigurable Gripper: Robust Grasping and Sequential Manipulation of Thin Objects | Ziyi Zheng, Keqi Zhu, Hao Wu, Yanzhe Wang et al. | [Abstract](https://arxiv.org/abs/2608.26883) · [PDF](https://arxiv.org/pdf/2608.26883) |
 | 2026-08-21 | Hybrid Roller-Jamming Gripper for Object Acquisition and Retention Under Pose Uncertainty | Yijie Ren, Guillaume Gourmelen, Hiroyasu Iwata | [Abstract](https://arxiv.org/abs/2608.20962) · [PDF](https://arxiv.org/pdf/2608.20962) |
 | 2026-08-20 | Koala Gripper: Co-designing Robotic Grippers and Data-Capture Devices for Scaling Dexterous Manipulation Learning | Amar Hajj-Ahmad, Zubin Kremer Guha, Tim Fofonoff, Zhi Ern Teoh et al. | [Abstract](https://arxiv.org/abs/2608.20546) · [PDF](https://arxiv.org/pdf/2608.20546) |
 | 2026-08-20 | GOAG: Generative and Object-Agnostic Grasp Planner for Dexterous Robotic Manipulation | Julien Merand, Boris Meden, Mathieu Grossard, Liming Chen | [Abstract](https://arxiv.org/abs/2608.19759) · [PDF](https://arxiv.org/pdf/2608.19759) |

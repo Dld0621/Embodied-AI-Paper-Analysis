@@ -2,7 +2,7 @@
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 205 papers · complete list for this taxonomy leaf
+> 199 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -205,9 +205,3 @@
 | 2023-09-05 | Magnetic Navigation using Attitude-Invariant Magnetic Field Information for Loop Closure Detection | Natalia Pavlasek, Charles Champagne Cossette, David Roy-Guay, James Richard Forbes | [Abstract](https://arxiv.org/abs/2309.02394) · [PDF](https://arxiv.org/pdf/2309.02394) |
 | 2023-09-01 | Spiking based Cellular Learning Automata (SCLA) algorithm for mobile robot motion formulation | Vahid Pashaei Rad, Vahid Azimi Rad, Saleh Valizadeh Sotubadi | [Abstract](https://arxiv.org/abs/2309.00241) · [PDF](https://arxiv.org/pdf/2309.00241) |
 | 2023-09-01 | Learning-based NLOS Detection and Uncertainty Prediction of GNSS Observations with Transformer-Enhanced LSTM Network | Haoming Zhang, Zhanxin Wang, Heike Vallery | [Abstract](https://arxiv.org/abs/2309.00480) · [PDF](https://arxiv.org/pdf/2309.00480) |
-| 2023-08-30 | The HAPPY HEDGEHOG Project | Oliver Bendel, Emanuel Graf, Kevin Bollier | [Abstract](https://arxiv.org/abs/2401.03358) · [PDF](https://arxiv.org/pdf/2401.03358) |
-| 2023-08-29 | Stochastic Motion Planning as Gaussian Variational Inference: Theory and Algorithms | Hongzhe Yu, Yongxin Chen | [Abstract](https://arxiv.org/abs/2308.14985) · [PDF](https://arxiv.org/pdf/2308.14985) |
-| 2023-08-29 | Improving Generalization in Reinforcement Learning Training Regimes for Social Robot Navigation | Adam Sigal, Hsiu-Chin Lin, AJung Moon | [Abstract](https://arxiv.org/abs/2308.14947) · [PDF](https://arxiv.org/pdf/2308.14947) |
-| 2023-08-25 | UWB Ranging and IMU Data Fusion: Overview and Nonlinear Stochastic Filter for Inertial Navigation | Hashim A. Hashim, Abdelrahman E. E. Eltoukhy, Kyriakos G. Vamvoudakis | [Abstract](https://arxiv.org/abs/2308.13393) · [PDF](https://arxiv.org/pdf/2308.13393) |
-| 2023-08-24 | Racing Towards Reinforcement Learning based control of an Autonomous Formula SAE Car | Aakaash Salvaji, Harry Taylor, David Valencia, Trevor Gee et al. | [Abstract](https://arxiv.org/abs/2308.13088) · [PDF](https://arxiv.org/pdf/2308.13088) |
-| 2023-08-24 | Actuator Trajectory Planning for UAVs with Overhead Manipulator using Reinforcement Learning | Hazim Alzorgan, Abolfazl Razi, Ata Jahangir Moshayedi | [Abstract](https://arxiv.org/abs/2308.12843) · [PDF](https://arxiv.org/pdf/2308.12843) |

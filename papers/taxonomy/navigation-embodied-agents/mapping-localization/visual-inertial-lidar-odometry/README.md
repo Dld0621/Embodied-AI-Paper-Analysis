@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Mapping%20%26%20Localization&specialty=Visual-inertial%20%26%20LiDAR%20Odometry#research-workbench)
 
-> 8 conference papers · 254 recent arXiv papers
+> 8 conference papers · 255 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,10 +27,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Tightly-Coupled Visual- DVL- Inertial Odometry for Robot-Based Ice-Water Boundary Exploration | IROS · Exploration | [Paper](https://arxiv.org/pdf/2303.17005) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342024) |
 | 2022 | Is Mapping Necessary for Realistic PointGoal Navigation? | CVPR · Navigation | [Paper](https://arxiv.org/pdf/2206.00997) · [Publisher](https://doi.org/10.1109/CVPR52688.2022.01672) |
 
-## Recent arXiv papers (254)
+## Recent arXiv papers (255)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-27 | Contact-Aided Factor-Graph Localization for Underwater Sampling | Michele Grimaldi, Yosaku Maeda, Hitoshi Kakami, Ignacio Carlucho et al. | [Abstract](https://arxiv.org/abs/2608.26932) · [PDF](https://arxiv.org/pdf/2608.26932) |
 | 2026-08-13 | ASPIRE-VINS: Adaptive Spline-based Visual-inertial Navigation System With Robust 3D Measurement Residuals | Kwangyik Jung, Eungchang Mason Lee, Taekjun Oh, Hyun Myung | [Abstract](https://arxiv.org/abs/2608.12840) · [PDF](https://arxiv.org/pdf/2608.12840) |
 | 2026-08-10 | ROEVO: Robust Organized Edge Feature-based Visual Odometry Using RGB-D Cameras | Mingrui Liu, Xingxing Zuo, Renlang Huang, Minglei Zhao et al. | [Abstract](https://arxiv.org/abs/2608.09112) · [PDF](https://arxiv.org/pdf/2608.09112) |
 | 2026-08-03 | TANGO-VIO: Triangulation-Aware Navigation with Guaranteed Feature-Observability for Visual-Inertial Odometry | Abdülbaki Şanlan, Ege C. Altunkaya, Hasan T. Bağci, Emre Koyuncu et al. | [Abstract](https://arxiv.org/abs/2608.02079) · [PDF](https://arxiv.org/pdf/2608.02079) |

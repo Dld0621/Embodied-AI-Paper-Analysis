@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Mapping%20%26%20Localization&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 19 conference papers · 517 recent arXiv papers
+> 19 conference papers · 518 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -38,10 +38,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration | IROS · Exploration | [Paper](https://arxiv.org/pdf/2202.09631) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981251) |
 | 2022 | Mapping of Spatiotemporal Scalar Fields by Mobile Robots using Gaussian Process Regression | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981548) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981548) |
 
-## Recent arXiv papers (517)
+## Recent arXiv papers (518)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-28 | When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI | Sihan Jia, Oliver Lemon | [Abstract](https://arxiv.org/abs/2608.28518) · [PDF](https://arxiv.org/pdf/2608.28518) |
+| 2026-08-28 | MaCoPlanner: LLM-Assisted Manual-Compiled Task Planning with Proactive Safety Verification for Robotic Industrial Panel Operation | Guipeng Xin, Jiahe Xua, Mohammad Deghat, Chenhui Wan et al. | [Abstract](https://arxiv.org/abs/2608.28300) · [PDF](https://arxiv.org/pdf/2608.28300) |
 | 2026-08-21 | The Coastline as a Structural Constraint: Harnessing Scene Geometry for Autonomous Surface Vessel Localization | Derek R. Benham, Joshua G. Mangelson | [Abstract](https://arxiv.org/abs/2608.21276) · [PDF](https://arxiv.org/pdf/2608.21276) |
 | 2026-08-18 | OVIP-SG: Open-Vocabulary Instance-Preserving Scene Graphs for Mapping and Retrieval of Small, Fine-Grained Objects | Tianjing Hao, Haiyu Lan, Angsong Li, Cheng Chen et al. | [Abstract](https://arxiv.org/abs/2608.17633) · [PDF](https://arxiv.org/pdf/2608.17633) |
 | 2026-08-17 | X$^2$Localizer: Cross-grained Alignment for Progressive Cross-view Video Geo-localization | Zichao Zeng, Weijia Fan, Yufan Chen, June Moh Goo et al. | [Abstract](https://arxiv.org/abs/2608.16658) · [PDF](https://arxiv.org/pdf/2608.16658) |
@@ -162,7 +164,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-01-28 | AI-Augmented Density-Driven Optimal Control (D2OC) for Decentralized Environmental Mapping | Kooktae Lee, Julian Martinez | [Abstract](https://arxiv.org/abs/2601.21126) · [PDF](https://arxiv.org/pdf/2601.21126) |
 | 2026-01-28 | A Taylor Series Approach to Correct Localization Errors in Robotic Field Mapping using Gaussian Processes | Muzaffar Qureshi, Tochukwu Elijah Ogri, Kyle Volle, Rushikesh Kamalapurkar | [Abstract](https://arxiv.org/abs/2601.20149) · [PDF](https://arxiv.org/pdf/2601.20149) |
 | 2026-01-27 | Enhancing Inverse Perspective Mapping for Automatic Vectorized Road Map Generation | Hongji Liu, Linwei Zheng, Yongjian Li, Mingkai Tang et al. | [Abstract](https://arxiv.org/abs/2601.19536) · [PDF](https://arxiv.org/pdf/2601.19536) |
-| 2026-01-27 | A DVL Aided Loosely Coupled Inertial Navigation Strategy for AUVs with Attitude Error Modeling and Variance Propagation | Jin Huang, Zichen Liu, Haoda Li, Zhikun Wang et al. | [Abstract](https://arxiv.org/abs/2601.19509) · [PDF](https://arxiv.org/pdf/2601.19509) |
 | 2026-01-23 | GPA-VGGT:Adapting VGGT to Large Scale Localization by Self-Supervised Learning with Geometry and Physics Aware Loss | Yangfan Xu, Lilian Zhang, Xiaofeng He, Pengdong Wu et al. | [Abstract](https://arxiv.org/abs/2601.16885) · [PDF](https://arxiv.org/pdf/2601.16885) |
 | 2026-01-19 | Event-based Heterogeneous Information Processing for Online Vision-based Obstacle Detection and Localization | Reza Ahmadvand, Sarah Safura Sharif, Yaser Mike Banad | [Abstract](https://arxiv.org/abs/2601.13451) · [PDF](https://arxiv.org/pdf/2601.13451) |
 | 2026-01-19 | Active Informative Planning for UAV-based Weed Mapping using Discrete Gaussian Process Representations | Jacob Swindell, Marija Popović, Riccardo Polvara | [Abstract](https://arxiv.org/abs/2601.13196) · [PDF](https://arxiv.org/pdf/2601.13196) |
@@ -291,6 +292,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-03-31 | A Concise Survey on Lane Topology Reasoning for HD Mapping | Yi Yao, Miao Fan, Shengtong Xu, Haoyi Xiong et al. | [Abstract](https://arxiv.org/abs/2504.01989) · [PDF](https://arxiv.org/pdf/2504.01989) |
 | 2025-03-28 | Robust simultaneous UWB-anchor calibration and robot localization for emergency situations | Xinghua Liu, Ming Cao | [Abstract](https://arxiv.org/abs/2503.22272) · [PDF](https://arxiv.org/pdf/2503.22272) |
 | 2025-03-27 | A Data-Driven Method for INS/DVL Alignment | Guy Damari, Itzik Klein | [Abstract](https://arxiv.org/abs/2503.21350) · [PDF](https://arxiv.org/pdf/2503.21350) |
+| 2025-03-17 | Pneumatic-Tomographic Tactile Skin for Multicontact Localization and Force Estimation | Haofeng Chen, Jiri Kubik, Bedrich Himmel, Matej Hoffmann et al. | [Abstract](https://arxiv.org/abs/2503.13036) · [PDF](https://arxiv.org/pdf/2503.13036) |
 | 2025-03-13 | Autonomous Robotic Radio Source Localization via a Novel Gaussian Mixture Filtering Approach | Sukkeun Kim, Sangwoo Moon, Ivan Petrunin, Hyo-Sang Shin et al. | [Abstract](https://arxiv.org/abs/2503.10349) · [PDF](https://arxiv.org/pdf/2503.10349) |
 | 2025-03-12 | Distributionally Robust Multi-Agent Reinforcement Learning for Dynamic Chute Mapping | Guangyi Liu, Suzan Iloglu, Michael Caldara, Joseph W. Durham et al. | [Abstract](https://arxiv.org/abs/2503.09755) · [PDF](https://arxiv.org/pdf/2503.09755) |
 | 2025-03-10 | PoseLess: Depth-Free Vision-to-Joint Control via Direct Image Mapping with VLM | Alan Dao, Dinh Bach Vu, Tuan Le Duc Anh, Bui Quang Huy | [Abstract](https://arxiv.org/abs/2503.07111) · [PDF](https://arxiv.org/pdf/2503.07111) |
@@ -558,7 +560,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-11 | Undergraduate Research of Decentralized Localization of Roombas Through Usage of Wall-Finding Software | Madeline Corvin, Johnathan McDowell, Timothy Anglea, Yongqiang Wang | [Abstract](https://arxiv.org/abs/2309.05583) · [PDF](https://arxiv.org/pdf/2309.05583) |
 | 2023-09-08 | Toward Certifying Maps for Safe Registration-based Localization Under Adverse Conditions | Johann Laconte, Daniil Lisus, Timothy D. Barfoot | [Abstract](https://arxiv.org/abs/2309.04251) · [PDF](https://arxiv.org/pdf/2309.04251) |
 | 2023-09-01 | Learning State-Space Models for Mapping Spatial Motion Patterns | Junyi Shi, Tomasz Piotr Kucner | [Abstract](https://arxiv.org/abs/2309.00333) · [PDF](https://arxiv.org/pdf/2309.00333) |
-| 2023-08-25 | Correcting Motion Distortion for LIDAR HD-Map Localization | Matthew McDermott, Jason Rife | [Abstract](https://arxiv.org/abs/2308.13694) · [PDF](https://arxiv.org/pdf/2308.13694) |
 
 ---
 

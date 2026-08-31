@@ -25,7 +25,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Dynamic Handover: Throw and Catch with Bimanual Hands | CoRL · Bimanual | [Paper](https://arxiv.org/pdf/2309.05655) · [Publisher](https://doi.org/10.48550/arXiv.2309.05655) |
 | 2023 | Efficient Bimanual Handover and Rearrangement via Symmetry-Aware Actor-Critic Learning | ICRA · Bimanual | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160739) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160739) |
 | 2022 | Context and Intention aware 3D Human Body Motion Prediction using an Attention Deep Learning model in Handover Tasks | IROS · In Hand | [Paper](https://doi.org/10.1109/IROS47612.2022.9981465) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981465) |
-| 2022 | Nonlinear Model Predictive Control for Human-Robot Handover with Application to the Aerial Case | IROS · Robot Hand | [Paper](https://ris.utwente.nl/ws/files/313957388/Nonlinear_Model_Predictive_Control_for_Human_Robot_Handover_with_Application_to_the_Aerial_Case.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981045) |
+| 2022 | Nonlinear Model Predictive Control for Human-Robot Handover with Application to the Aerial Case | IROS · Robot Hand | [Paper](https://research.utwente.nl/en/publications/25534c1a-5730-44e9-b308-4af17f0fba87) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981045) |
 
 ## Recent arXiv papers (12)
 

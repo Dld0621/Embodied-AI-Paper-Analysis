@@ -19,7 +19,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | Touch-Linked Sleeve: A Haptic Interface for Augmented Tactile Perception in Robotic Teleoperation | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS60139.2025.11245835) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245835) |
-| 2022 | Multi-fingered Tactile Servoing for Grasping Adjustment under Partial Observation | IROS · Multi Finger | [Paper](https://doi.org/10.1109/IROS47612.2022.9981464) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981464) |
+| 2022 | Multi-fingered Tactile Servoing for Grasping Adjustment under Partial Observation | IROS · Multi Finger | [Paper](https://uwe-repository.worktribe.com/preview/10552154/Multi-fingered%20tactile%20servoing%20for%20grasping%20adjustment%20under%20partial%20observation.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981464) |
 
 ## Recent arXiv papers (2)
 

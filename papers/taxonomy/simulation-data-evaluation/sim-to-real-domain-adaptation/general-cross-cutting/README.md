@@ -53,12 +53,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-21 | Betting for Sim-to-Real Performance Certificates | Yujia Chen, Bowen Weng | [Abstract](https://arxiv.org/abs/2608.21572) · [PDF](https://arxiv.org/pdf/2608.21572) |
 | 2026-08-13 | RGB-D Video Generation for Improving Human-to-Robot Object Handover Prediction | Tianyu Sun, Zhoujie Fu, Zihui Gao, Bang Zhang et al. | [Abstract](https://arxiv.org/abs/2608.13028) · [PDF](https://arxiv.org/pdf/2608.13028) |
 | 2026-08-03 | Certifying Plans under Model Mismatch: A Trilemma for Reachability from Scarce Data | Yanliang Huang, Zhen Zhang, Ahmad Hafez, Wenyuan Wu et al. | [Abstract](https://arxiv.org/abs/2608.02453) · [PDF](https://arxiv.org/pdf/2608.02453) |
 | 2026-07-27 | Effective Parameters, Real Behavior: Renormalization for Robotics -- From Infinite Electron Mass to Sim-to-Real Gap | Youran Sun, Jiaxuan Guo, Xingyu Ren, Chugang Yi et al. | [Abstract](https://arxiv.org/abs/2607.24079) · [PDF](https://arxiv.org/pdf/2607.24079) |
 | 2026-07-25 | Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline | Qing Yang, Xun Wang, Ziguan Wang, Zhenjiang Li et al. | [Abstract](https://arxiv.org/abs/2607.22997) · [PDF](https://arxiv.org/pdf/2607.22997) |
 | 2026-07-20 | World Translation: Minimizing Sim-to-Real Gap with Backward Dynamics Extraction and Unpaired Domain Translation | Xinchen Yao, Leixin Chang, Hua Chen | [Abstract](https://arxiv.org/abs/2607.18154) · [PDF](https://arxiv.org/pdf/2607.18154) |
-| 2026-07-16 | SUFLECA: Scaling Up Feature Learning for CAD-to-image Alignment | Saad Ejaz, Miguel Fernandez-Cortizas, Javier Civera, Holger Voos et al. | [Abstract](https://arxiv.org/abs/2607.15058) · [PDF](https://arxiv.org/pdf/2607.15058) |
 | 2026-07-05 | Mask2Real-WM: Segmentation Masks as a Sim-to-Real Bridge for Controllable Dexterous World Models | Riccardo O. Feingold, Davide Liconti, Chenyu Yang, Robert K. Katzschmann | [Abstract](https://arxiv.org/abs/2607.04546) · [PDF](https://arxiv.org/pdf/2607.04546) |
 | 2026-06-23 | Sim-to-Real Betting on the E-Process: Bringing "simulators" to anytime-valid confidence sequences | Yujia Chen, Bowen Weng | [Abstract](https://arxiv.org/abs/2606.24038) · [PDF](https://arxiv.org/pdf/2606.24038) |
 | 2026-05-30 | Too Much of a Good Thing: When sim2real Efforts Impede Policy Learning (And What to Do About It) | Kyle Morgenstein, Bharath Masetty, Stephen Welch, Luis Sentis | [Abstract](https://arxiv.org/abs/2606.02636) · [PDF](https://arxiv.org/pdf/2606.02636) |

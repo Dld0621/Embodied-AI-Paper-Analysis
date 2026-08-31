@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Autonomy&specialty=Bilateral%20%26%20Master-slave%20Control#research-workbench)
 
-> 7 conference papers · 18 recent arXiv papers
+> 7 conference papers · 19 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Towards 6DoF Bilateral Teleoperation of an Omnidirectional Aerial Vehicle for Aerial Physical Interaction | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2203.03177) · [Publisher](https://doi.org/10.48550/arXiv.2203.03177) |
 | 2022 | Haptic Teleoperation of High-dimensional Robotic Systems Using a Feedback MPC Framework | IROS · Teleoperation | [Paper](https://arxiv.org/pdf/2207.14635) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981290) |
 
-## Recent arXiv papers (18)
+## Recent arXiv papers (19)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-22 | Safety-Critical Bilateral Teleoperation for Omnidirectional Aerial Manipulation Using Force-Sensorless Haptic Feedback | Yubin Kim, Jinwoo Lee, Yongjun You, H. Jin Kim et al. | [Abstract](https://arxiv.org/abs/2608.21735) · [PDF](https://arxiv.org/pdf/2608.21735) |
 | 2026-08-20 | Wave-Based Bilateral Teleoperation between Nonlinear Manipulators with Direct Contact Force Feedback | G. Q. Bao Tran, Takanori Miyoshi, Ho Duc Tho | [Abstract](https://arxiv.org/abs/2608.20043) · [PDF](https://arxiv.org/pdf/2608.20043) |
 | 2026-08-06 | A Master-Slave Robot Manipulator for Needle-Based Teleoperation in MRI Chamber | Omar Curiel, Jing-Yuan Huang, Po-Chih Chen, Ji Ma et al. | [Abstract](https://arxiv.org/abs/2608.06354) · [PDF](https://arxiv.org/pdf/2608.06354) |
 | 2026-08-04 | A Wearable Stiffness-Rendering Haptic Device with a Honeycomb Jamming Mechanism for Bilateral Teleoperation | Thomas M. Kwok, Bohan Zhang, Wai Tuck Chow | [Abstract](https://arxiv.org/abs/2608.03002) · [PDF](https://arxiv.org/pdf/2608.03002) |

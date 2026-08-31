@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=Failure%20Detection%20%26%20Self-correction#research-workbench)
 
-> 3 conference papers · 67 recent arXiv papers
+> 3 conference papers · 68 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -22,7 +22,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots | IROS · Llm | [Paper](https://arxiv.org/abs/2507.05118) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246320) |
 | 2024 | CoPAL: Corrective Planning of Robot Actions with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2310.07263) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610434) |
 
-## Recent arXiv papers (67)
+## Recent arXiv papers (68)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -50,6 +50,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-02-10 | Synthesizing the Kill Chain: A Zero-Shot Framework for Target Verification and Tactical Reasoning on the Edge | Jesse Barkley, Abraham George, Amir Barati Farimani | [Abstract](https://arxiv.org/abs/2602.13324) · [PDF](https://arxiv.org/pdf/2602.13324) |
 | 2026-02-04 | Integrated Exploration and Sequential Manipulation on Scene Graph with LLM-based Situated Replanning | Heqing Yang, Ziyuan Jiao, Shu Wang, Yida Niu et al. | [Abstract](https://arxiv.org/abs/2602.04419) · [PDF](https://arxiv.org/pdf/2602.04419) |
 | 2026-02-04 | Applying Ground Robot Fleets in Urban Search: Understanding Professionals' Operational Challenges and Design Opportunities | Puqi Zhou, Charles R. Twardy, Cynthia Lum, Myeong Lee et al. | [Abstract](https://arxiv.org/abs/2602.04992) · [PDF](https://arxiv.org/pdf/2602.04992) |
+| 2025-12-01 | Guardian: Detecting Robotic Planning and Execution Errors with Vision-Language Models | Paul Pacaud, Ricardo Garcia, Shizhe Chen, Cordelia Schmid | [Abstract](https://arxiv.org/abs/2512.01946) · [PDF](https://arxiv.org/pdf/2512.01946) |
 | 2025-11-27 | LLM-Based Generalizable Hierarchical Task Planning and Execution for Heterogeneous Robot Teams with Event-Driven Replanning | Suraj Borate, Bhavish Rai B, Vipul Pardeshi, Madhu Vadali | [Abstract](https://arxiv.org/abs/2511.22354) · [PDF](https://arxiv.org/pdf/2511.22354) |
 | 2025-10-20 | Intent-Driven LLM Ensemble Planning for Flexible Multi-Robot Disassembly: Demonstration on EV Batteries | Cansu Erdogan, Cesar Alan Contreras, Alireza Rastegarpanah, Manolis Chiou et al. | [Abstract](https://arxiv.org/abs/2510.17576) · [PDF](https://arxiv.org/pdf/2510.17576) |
 | 2025-10-20 | Can VLMs Unlock Semantic Anomaly Detection? A Framework for Structured Reasoning | Roberto Brusnicki, David Pop, Yuan Gao, Mattia Piccinini et al. | [Abstract](https://arxiv.org/abs/2510.18034) · [PDF](https://arxiv.org/pdf/2510.18034) |

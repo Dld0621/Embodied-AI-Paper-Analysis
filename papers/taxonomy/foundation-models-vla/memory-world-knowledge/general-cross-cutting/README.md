@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Memory%20%26%20World%20Knowledge&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 5 conference papers · 79 recent arXiv papers
+> 5 conference papers · 82 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,16 +24,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Learning Reward for Robot Skills Using Large Language Models via Self-Alignment | ICML · Large Language Model | [Paper](https://arxiv.org/abs/2405.07162) · [Publisher](https://doi.org/10.48550/arXiv.2405.07162) |
 | 2024 | SiSCo: Signal Synthesis for Effective Human-Robot Communication Via Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2409.13927) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802561) |
 
-## Recent arXiv papers (79)
+## Recent arXiv papers (82)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-25 | GaussianWAM: Distilling Geometry and Semantics from 3D Gaussian Fields into World-Action Models | Zijian Zhang, Yuqing Jiang, Weitao Zhou, Minglei Li et al. | [Abstract](https://arxiv.org/abs/2608.24714) · [PDF](https://arxiv.org/pdf/2608.24714) |
+| 2026-08-23 | LD4WAM: Learning Latent Dynamics from Human Videos for World Action Models | Zhenhao Shen, Jiaqi Liang, Jasper Lu, Feng Jiang et al. | [Abstract](https://arxiv.org/abs/2608.22403) · [PDF](https://arxiv.org/pdf/2608.22403) |
 | 2026-08-19 | APPROVE: Visual End-User-in-the-Loop Robot Programming with LLMs | Bijan Kavousian, Miray Özakkas, Josefine Monnet, Oliver Petrovic et al. | [Abstract](https://arxiv.org/abs/2608.19281) · [PDF](https://arxiv.org/pdf/2608.19281) |
 | 2026-08-15 | Remember Smarter: Visual History Compressor and Hyperbolic Experience Space for Robotic Memory | Dai Zhou, Jiexi Yan, Tong Li, Yuxuan Wang et al. | [Abstract](https://arxiv.org/abs/2608.15269) · [PDF](https://arxiv.org/pdf/2608.15269) |
 | 2026-08-12 | Keep the Future, Drop the Rollout: RIFT for World Action Models | Chushan Zhang, Jinguang Tong, Xuesong Li, Yikai Wang et al. | [Abstract](https://arxiv.org/abs/2608.11521) · [PDF](https://arxiv.org/pdf/2608.11521) |
 | 2026-08-10 | Rethink Before You Execute: Adaptive Execution for World Action Models | Feng Ye, Yiming Zhao, Yong Yu, Hongxu Zhou et al. | [Abstract](https://arxiv.org/abs/2608.09492) · [PDF](https://arxiv.org/pdf/2608.09492) |
 | 2026-08-10 | HarnessWAM: Bridging Prediction and Deliberation in World Action Models | Zhaopeng Gu, Bingke Zhu, Tianxi Lin, Guibo Zhu et al. | [Abstract](https://arxiv.org/abs/2608.09516) · [PDF](https://arxiv.org/pdf/2608.09516) |
 | 2026-08-08 | 4D-WAM: Infusing Spatiotemporal Awareness into World Action Models through Trajectory Fields | Lishan Yang, Wenxuan Song, Xi Wang, Pingyue Sheng et al. | [Abstract](https://arxiv.org/abs/2608.08023) · [PDF](https://arxiv.org/pdf/2608.08023) |
+| 2026-08-07 | Selective Cross-View Consistency for World Action Models: Held-Out Viewpoint Robustness Without Test-Time Camera Information | Bingqi Huang, Bingchuan Wei, Yingkai Cai, Zhaokui Wang | [Abstract](https://arxiv.org/abs/2608.21402) · [PDF](https://arxiv.org/pdf/2608.21402) |
 | 2026-08-07 | Decoupling Intention from Trajectory: A Representational Deduction Framework for World Action Models | Xiangkai Ma, Yue Ma, Junjie Wang, Sheng Xu et al. | [Abstract](https://arxiv.org/abs/2608.06994) · [PDF](https://arxiv.org/pdf/2608.06994) |
 | 2026-08-06 | Robust-WAM: Bridging Generative Pretraining and Semantic Foresight in World-Action Models | Haodong Yan, Junfeng Li, Junjie He, Zhide Zhong et al. | [Abstract](https://arxiv.org/abs/2608.05903) · [PDF](https://arxiv.org/pdf/2608.05903) |
 | 2026-08-03 | Faster-WAM: Do World Action Models Need Deep Action Modules? | Liheng Ma, Rui Heng Yang, Zhanguang Zhang, Mateo Clemente et al. | [Abstract](https://arxiv.org/abs/2608.02365) · [PDF](https://arxiv.org/pdf/2608.02365) |

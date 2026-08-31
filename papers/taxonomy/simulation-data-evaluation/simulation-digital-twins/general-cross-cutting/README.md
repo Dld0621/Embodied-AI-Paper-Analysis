@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 71 conference papers · 1,016 recent arXiv papers
+> 71 conference papers · 1,023 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -90,10 +90,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Realistic Real-Time Simulation of RGB and Depth Sensors for Dynamic Scenarios using Augmented Image Based Rendering | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982014) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982014) |
 | 2022 | Simulation-based Learning of the Peg-in-Hole Process Using Robot-Skills | IROS · Simulation | [Paper](https://eprints.sztaki.hu/10435/1/Lammle_9340_33588502_ny.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982212) |
 
-## Recent arXiv papers (1,016)
+## Recent arXiv papers (1,023)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-28 | PanelShield: Verifiable Closed-Loop Safe Planning for Robotic Industrial Panel Operation | Guipeng Xin, Jiahe Xu, Chenhui Wan, Jie Liu et al. | [Abstract](https://arxiv.org/abs/2608.28305) · [PDF](https://arxiv.org/pdf/2608.28305) |
+| 2026-08-28 | Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning | Nan Wang, Mohit Yadav, Jonathan Wulff, Aidan Rosenbaum et al. | [Abstract](https://arxiv.org/abs/2608.28578) · [PDF](https://arxiv.org/pdf/2608.28578) |
+| 2026-08-27 | Marine Autonomous Vehicle Fleet Scheduling to Maximise Scientific Impact | Mehdi El Krari, Jonathan Smith, Maria Fox | [Abstract](https://arxiv.org/abs/2608.27271) · [PDF](https://arxiv.org/pdf/2608.27271) |
+| 2026-08-27 | Beyond Shallow-Water Photorealism: Physically and Sensor-Grounded Simulation for Deep-Sea Robotics | Michele Grimaldi, Enrico Di Maria, Ignacio Carlucho, Yvan R. Petillot | [Abstract](https://arxiv.org/abs/2608.26888) · [PDF](https://arxiv.org/pdf/2608.26888) |
+| 2026-08-27 | 4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation | Zehao Qi, Haochen Luo, Jia-Wang Bian, Zeyu Ma et al. | [Abstract](https://arxiv.org/abs/2608.26947) · [PDF](https://arxiv.org/pdf/2608.26947) |
+| 2026-08-26 | Constraint-Aware Physics-Informed Neural Networks for Static Shape Estimation of Co-Manipulative Continuum Robots | Rana Danesh, Pari Qarehdaghi, Farrokh Janabi-Sharifi | [Abstract](https://arxiv.org/abs/2608.26273) · [PDF](https://arxiv.org/pdf/2608.26273) |
+| 2026-08-24 | MIVIFI: Bridging Perspective and Fisheye Domains for Training Multi-View Fisheye Image Generation Models | Matthias Neuwirth-Trapp, Begüm Altunbas, Jiayi Wang, Yan Xia et al. | [Abstract](https://arxiv.org/abs/2608.23140) · [PDF](https://arxiv.org/pdf/2608.23140) |
+| 2026-08-22 | Vision Guided Target Conditioned Control for Autonomous Excavation | Shuai Zhao, Ji-An Pan, Junwei Li, Xun Tang et al. | [Abstract](https://arxiv.org/abs/2608.21778) · [PDF](https://arxiv.org/pdf/2608.21778) |
 | 2026-08-21 | Scalable Distributed Simulation-Based Testing for Automated Driving Systems | Christian Geller, Benedikt Haas, Lutz Eckstein | [Abstract](https://arxiv.org/abs/2608.20904) · [PDF](https://arxiv.org/pdf/2608.20904) |
 | 2026-08-21 | NeSAM: Neuro-Symbolic Kinodynamics with Soil Adaptation for Off-Road Mobility | Chenhui Pan, Tong Xu, Francesco Cancelliere, Xuesu Xiao | [Abstract](https://arxiv.org/abs/2608.21330) · [PDF](https://arxiv.org/pdf/2608.21330) |
 | 2026-08-19 | Learning the Right Abstraction: Neural Reduced Dynamics for Complex Robot Control | Harry Zhang, Dan Negrut | [Abstract](https://arxiv.org/abs/2608.19375) · [PDF](https://arxiv.org/pdf/2608.19375) |
@@ -105,6 +113,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-08-14 | FlatLab: A Unified Methodology Framework and Simulation-Based Benchmark for Robotic Manipulation of Flat Objects | Xingyu Zhu, Wenshuo Han, Zhouyu Wang, Yuran Wang et al. | [Abstract](https://arxiv.org/abs/2608.14049) · [PDF](https://arxiv.org/pdf/2608.14049) |
 | 2026-08-14 | Communication in modular robotic motor control: Bilateral controllers under realistic constraints | Jingwen Li, Levin Kuhlmann, Jason Friedman, Gideon Kowadlo | [Abstract](https://arxiv.org/abs/2608.13904) · [PDF](https://arxiv.org/pdf/2608.13904) |
 | 2026-08-14 | AgilePE: Autonomous UAV Pursuit-Evasion via Self-Play Reinforcement Learning | Wenhao Tang, Tianyang Chen, Zhejun Cui, Boyuan An et al. | [Abstract](https://arxiv.org/abs/2608.14135) · [PDF](https://arxiv.org/pdf/2608.14135) |
+| 2026-08-13 | Retrieval-grounded robot program generation and simulation-based correction via Model Context Protocol | Zhichao Zhou, Siyuan Chen, Omkar Salunkhe, Ebru Turanoglu Bekar et al. | [Abstract](https://arxiv.org/abs/2608.21417) · [PDF](https://arxiv.org/pdf/2608.21417) |
 | 2026-08-12 | RoadWeaver: Large-Scale Lane-Level HD Map Generation from Scratch for Autonomous Driving Simulation | Yueyuan Li, Zexi Chen, Weijie Xi, Mingyang Jiang et al. | [Abstract](https://arxiv.org/abs/2608.11580) · [PDF](https://arxiv.org/pdf/2608.11580) |
 | 2026-08-11 | Top-down Traffic Scenario Generation via Joint Initial-Goal Diffusion and Trajectory Infilling | Da Saem Lee, Yash Vardhan Pant, Sebastian Fischmeister | [Abstract](https://arxiv.org/abs/2608.11407) · [PDF](https://arxiv.org/pdf/2608.11407) |
 | 2026-08-10 | WorldSimProbe: Diagnosing Simulator Faithfulness in Action-Conditioned World Models for Embodied Manipulation | Peterson Co, Sicheng Hu, Chunxuan Jiao, Hongyang Cheng et al. | [Abstract](https://arxiv.org/abs/2608.09298) · [PDF](https://arxiv.org/pdf/2608.09298) |
@@ -440,6 +449,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-10-28 | Which LiDAR scanning pattern is better for roadside perception: Repetitive or Non-repetitive? | Zhiqi Qi, Runxin Zhao, Hanyang Zhuang, Chunxiang Wang et al. | [Abstract](https://arxiv.org/abs/2511.00060) · [PDF](https://arxiv.org/pdf/2511.00060) |
 | 2025-10-26 | SPIRAL: Self-Play Incremental Racing Algorithm for Learning in Multi-Drone Competitions | Onur Akgün | [Abstract](https://arxiv.org/abs/2510.22568) · [PDF](https://arxiv.org/pdf/2510.22568) |
 | 2025-10-26 | Forward Kinematics Solution For A General Stewart Platform Through Iteration Based Simulation | Sourabh Karmakar, Cameron J. Turner | [Abstract](https://arxiv.org/abs/2510.22465) · [PDF](https://arxiv.org/pdf/2510.22465) |
+| 2025-10-24 | AURASeg: Attention-Guided Upsampling with Residual-Assisted Boundary Refinement for Drivable-Area Segmentation | Narendhiran Vijayakumar | [Abstract](https://arxiv.org/abs/2510.21536) · [PDF](https://arxiv.org/pdf/2510.21536) |
 | 2025-10-23 | RubbleSim: A Photorealistic Structural Collapse Simulator for Confined Space Mapping | Constantine Frost, Chad Council, Margaret McGuinness, Nathaniel Hanson | [Abstract](https://arxiv.org/abs/2510.20529) · [PDF](https://arxiv.org/pdf/2510.20529) |
 | 2025-10-21 | Efficient Model-Based Reinforcement Learning for Robot Control via Online Optimization | Fang Nan, Hao Ma, Qinghua Guan, Josie Hughes et al. | [Abstract](https://arxiv.org/abs/2510.18518) · [PDF](https://arxiv.org/pdf/2510.18518) |
 | 2025-10-20 | Integrating Trustworthy Artificial Intelligence with Energy-Efficient Robotic Arms for Waste Sorting | Halima I. Kure, Jishna Retnakumari, Augustine O. Nwajana, Umar M. Ismail et al. | [Abstract](https://arxiv.org/abs/2510.17408) · [PDF](https://arxiv.org/pdf/2510.17408) |
@@ -528,6 +538,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-07-08 | Solving the Constrained Random Disambiguation Path Problem via Lagrangian Relaxation and Graph Reduction | Li Zhou, Elvan Ceyhan | [Abstract](https://arxiv.org/abs/2507.06346) · [PDF](https://arxiv.org/pdf/2507.06346) |
 | 2025-07-08 | A Physics-Based Continuum Model for Versatile, Scalable, and Fast Terramechanics Simulation | Huzaifa Unjhawala, Luning Bakke, Harry Zhang, Michael Taylor et al. | [Abstract](https://arxiv.org/abs/2507.05643) · [PDF](https://arxiv.org/pdf/2507.05643) |
 | 2025-07-07 | Accelerated Online Reinforcement Learning using Auxiliary Start State Distributions | Aman Mehra, Alexandre Capone, Jeff Schneider | [Abstract](https://arxiv.org/abs/2507.04606) · [PDF](https://arxiv.org/pdf/2507.04606) |
+| 2025-07-05 | Human vs. Teleoperated Robots in Vineyard Management: A Simulation-Based Analysis of Travel Speed, Routing, and Task Performance | Daniel Udekwe, Hasan Seyyedhasani, Muhammad Ali Qadri | [Abstract](https://arxiv.org/abs/2507.04167) · [PDF](https://arxiv.org/pdf/2507.04167) |
 | 2025-07-05 | Driver-Net: Multi-Camera Fusion for Assessing Driver Take-Over Readiness in Automated Vehicles | Mahdi Rezaei, Mohsen Azarmi | [Abstract](https://arxiv.org/abs/2507.04139) · [PDF](https://arxiv.org/pdf/2507.04139) |
 | 2025-07-01 | A Survey: Learning Embodied Intelligence from Physical Simulators and World Models | Xiaoxiao Long, Qingrui Zhao, Kaiwen Zhang, Zihao Zhang et al. | [Abstract](https://arxiv.org/abs/2507.00917) · [PDF](https://arxiv.org/pdf/2507.00917) |
 | 2025-06-30 | Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving | Guizhe Jin, Zhuoren Li, Bo Leng, Ran Yu et al. | [Abstract](https://arxiv.org/abs/2506.23771) · [PDF](https://arxiv.org/pdf/2506.23771) |
@@ -1106,10 +1117,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-01 | Reinforcement Learning with Human Feedback for Realistic Traffic Simulation | Yulong Cao, Boris Ivanovic, Chaowei Xiao, Marco Pavone | [Abstract](https://arxiv.org/abs/2309.00709) · [PDF](https://arxiv.org/pdf/2309.00709) |
 | 2023-08-31 | RePo: Resilient Model-Based Reinforcement Learning by Regularizing Posterior Predictability | Chuning Zhu, Max Simchowitz, Siri Gadipudi, Abhishek Gupta | [Abstract](https://arxiv.org/abs/2309.00082) · [PDF](https://arxiv.org/pdf/2309.00082) |
 | 2023-08-31 | Learning Driver Models for Automated Vehicles via Knowledge Sharing and Personalization | Wissam Kontar, Xinzhi Zhong, Soyoung Ahn | [Abstract](https://arxiv.org/abs/2308.16870) · [PDF](https://arxiv.org/pdf/2308.16870) |
-| 2023-08-30 | Learning the References of Online Model Predictive Control for Urban Self-Driving | Yubin Wang, Zengqi Peng, Yusen Xie, Yulin Li et al. | [Abstract](https://arxiv.org/abs/2308.15808) · [PDF](https://arxiv.org/pdf/2308.15808) |
-| 2023-08-30 | High Performance Networking Layer for Simulation Applications | Amir Mohammad Zarif Shahsavan Nejad, Amir Mahdi Zarif Shahsavan Nejad, Amirali Setayeshi, Soroush Sadeghnejad | [Abstract](https://arxiv.org/abs/2308.15950) · [PDF](https://arxiv.org/pdf/2308.15950) |
-| 2023-08-29 | R^3: On-device Real-Time Deep Reinforcement Learning for Autonomous Robotics | Zexin Li, Aritra Samanta, Yufei Li, Andrea Soltoggio et al. | [Abstract](https://arxiv.org/abs/2308.15039) · [PDF](https://arxiv.org/pdf/2308.15039) |
-| 2023-08-24 | Reinforcement Learning Informed Evolutionary Search for Autonomous Systems Testing | Dmytro Humeniuk, Foutse Khomh, Giuliano Antoniol | [Abstract](https://arxiv.org/abs/2308.12762) · [PDF](https://arxiv.org/pdf/2308.12762) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Digital%20Twins%20%26%20Real-to-sim%20Reconstruction#research-workbench)
 
-> 15 conference papers · 214 recent arXiv papers
+> 15 conference papers · 215 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -34,10 +34,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Digital Twin with Integrated Robot-Human/Environment Interaction Dynamics for an Industrial Mobile Manipulator | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/icra46639.2022.9812004) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812004) |
 | 2022 | Dynamic Modeling and Digital Twin of a Harmonic Drive Based Collaborative Robot Joint | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/icra46639.2022.9812458) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812458) |
 
-## Recent arXiv papers (214)
+## Recent arXiv papers (215)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-12 | Operational digital twin clinics enable task-based evaluation of embodied AI | Xinyuan Wu, Jingrao Zhang, Mengdi Xu, Henry K. Chu et al. | [Abstract](https://arxiv.org/abs/2608.21416) · [PDF](https://arxiv.org/pdf/2608.21416) |
 | 2026-08-07 | R2S-EGO: Dual-Proxy Refinement for Sparse-Capture Real-to-Sim | Shuai Fang, Xin Deng, Yuchen Kang, Zhenjiang Li et al. | [Abstract](https://arxiv.org/abs/2608.06827) · [PDF](https://arxiv.org/pdf/2608.06827) |
 | 2026-08-05 | RORA: Realistic Object Reconstruction with Articulation | Hyesung Lee, Youngseon Lee, Kyutae Lee, Dongjun Lee et al. | [Abstract](https://arxiv.org/abs/2608.04842) · [PDF](https://arxiv.org/pdf/2608.04842) |
 | 2026-08-01 | LOCUS-DT: Localization via Observation-Conditioned Uncertainty Scoring with Digital Twins | Haozhe Lei, Roberto Bomfin, Marwa Chafii, Sundeep Rangan | [Abstract](https://arxiv.org/abs/2608.00406) · [PDF](https://arxiv.org/pdf/2608.00406) |

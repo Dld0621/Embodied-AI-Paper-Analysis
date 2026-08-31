@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Motion%20%26%20Path%20Planning&specialty=Global%20Search%20%26%20Path%20Planning#research-workbench)
 
-> 112 conference papers · 601 recent arXiv papers
+> 112 conference papers · 599 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -68,7 +68,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | 3D Global Path Planning for Walking Robots on Sparse Volumetric Maps | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS58592.2024.10802767) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802767) |
 | 2024 | A Heterogeneous System of Systems Framework for Proactive Path Planning of a UAV-assisted UGV in Uncertain Environments | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS58592.2024.10801791) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801791) |
 | 2024 | A Two-Stage Reinforcement Learning Approach for Robot Navigation in Long-range Indoor Dense Crowd Environments | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801711) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801711) |
-| 2024 | Efficient Path Planning for Modular Reconfigurable Robots | IROS · Path Planning | [Paper](https://mediatum.ub.tum.de/doc/1755469/document.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801534) |
+| 2024 | Efficient Path Planning for Modular Reconfigurable Robots | IROS · Path Planning | [Paper](https://mediatum.ub.tum.de/1755469) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801534) |
 | 2024 | GSRM: Building Roadmaps for Query-Efficient and Near-Optimal Path Planning Using a Reaction Diffusion System | IROS · Path Planning | [Paper](https://arxiv.org/abs/2410.11024) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801293) |
 | 2024 | IN-Sight: Interactive Navigation through Sight | IROS · Navigation | [Paper](https://arxiv.org/abs/2408.00343) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801928) |
 | 2024 | Learning Social Cost Functions for Human-Aware Path Planning | IROS · Path Planning | [Paper](https://arxiv.org/abs/2407.10547) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802768) |
@@ -131,10 +131,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Temporal Logic Path Planning under Localization Uncertainty | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981624) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981624) |
 | 2022 | TIGRIS: An Informed Sampling-based Algorithm for Informative Path Planning | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2203.12830) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981992) |
 
-## Recent arXiv papers (601)
+## Recent arXiv papers (599)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-28 | LUCID: An Agentic AI Framework on Digital-Twin in the Loop for QoS-Guaranteeing Robotic Control | Hyeonsu Lyu, Minwoo Kim, Sehyun Ryu, Hyun Jong Yang | [Abstract](https://arxiv.org/abs/2608.28437) · [PDF](https://arxiv.org/pdf/2608.28437) |
+| 2026-08-26 | AGRO-Nav: Autonomous Graph-based Orchard Navigation | Ho Young Yun, Jaemin Yu, Duksu Kim | [Abstract](https://arxiv.org/abs/2608.25799) · [PDF](https://arxiv.org/pdf/2608.25799) |
 | 2026-08-18 | Dijkstra as an Oracle for Online Stochastic Shortest Path Navigation with Provable Guarantees | Mansur M. Arief, Ali Akarma, Ahmad Alfan Alfian Irfan | [Abstract](https://arxiv.org/abs/2608.17703) · [PDF](https://arxiv.org/pdf/2608.17703) |
 | 2026-08-17 | Terrain-Aware Local Path Planning with Global DEM Data Integration for Autonomous UGV Navigation | Devender Singh, Issah Nazif Suleiman, Paul Mitten, Glenn Cutler et al. | [Abstract](https://arxiv.org/abs/2608.17038) · [PDF](https://arxiv.org/pdf/2608.17038) |
 | 2026-08-05 | Unified Planning-Learning Framework for Robust UUV Navigation Under Partial Observability | Md Ether Deowan, Eleni Kelasidi | [Abstract](https://arxiv.org/abs/2608.05365) · [PDF](https://arxiv.org/pdf/2608.05365) |
@@ -345,7 +347,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-07-14 | Prompt Informed Reinforcement Learning for Visual Coverage Path Planning | Venkat Margapuri | [Abstract](https://arxiv.org/abs/2507.10284) · [PDF](https://arxiv.org/pdf/2507.10284) |
 | 2025-07-12 | Informed Hybrid Zonotope-based Motion Planning Algorithm | Peng Xie, Johannes Betz, Amr Alanwar | [Abstract](https://arxiv.org/abs/2507.09309) · [PDF](https://arxiv.org/pdf/2507.09309) |
 | 2025-07-08 | Comparison of Path Planning Algorithms for Autonomous Vehicle Navigation Using Satellite and Airborne LiDAR Data | Chang Liu, Zhexiong Xue, Tamas Sziranyi | [Abstract](https://arxiv.org/abs/2507.05884) · [PDF](https://arxiv.org/pdf/2507.05884) |
-| 2025-07-05 | Comparative Evaluation of VR-Enabled Robots and Human Operators for Targeted Disease Management in Vineyards | Hasan Seyyedhasani, Daniel Udekwe, Muhammad Ali Qadri | [Abstract](https://arxiv.org/abs/2507.04167) · [PDF](https://arxiv.org/pdf/2507.04167) |
 | 2025-07-03 | Path Planning using a One-shot-sampling Skeleton Map | Gabriel O. Flores-Aquino, Octavio Gutierrez-Frias, Juan Irving Vasquez | [Abstract](https://arxiv.org/abs/2507.02328) · [PDF](https://arxiv.org/pdf/2507.02328) |
 | 2025-07-03 | Integrating path-planning and control for robotic unicycles | Máté B. Vizi, Dénes Tákács, Gábor Stépán, Gábor Orosz | [Abstract](https://arxiv.org/abs/2507.02700) · [PDF](https://arxiv.org/pdf/2507.02700) |
 | 2025-07-02 | Quantum-Assisted Automatic Path-Planning for Robotic Quality Inspection in Industry 4.0 | Eneko Osaba, Estibaliz Garrote, Pablo Miranda-Rodriguez, Alessia Ciacco et al. | [Abstract](https://arxiv.org/abs/2507.01462) · [PDF](https://arxiv.org/pdf/2507.01462) |
@@ -733,9 +734,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-07 | Hybrid of representation learning and reinforcement learning for dynamic and complex robotic motion planning | Chengmin Zhou, Xin Lu, Jiapeng Dai, Bingding Huang et al. | [Abstract](https://arxiv.org/abs/2309.03758) · [PDF](https://arxiv.org/pdf/2309.03758) |
 | 2023-09-06 | Learning to Recharge: UAV Coverage Path Planning through Deep Reinforcement Learning | Mirco Theile, Harald Bayerlein, Marco Caccamo, Alberto L. Sangiovanni-Vincentelli | [Abstract](https://arxiv.org/abs/2309.03157) · [PDF](https://arxiv.org/pdf/2309.03157) |
 | 2023-09-03 | An Iterative Approach for Collision Feee Routing and Scheduling in Multirobot Stations | Domenico Spensieri, Johan S. Carlson, Fredrik Ekstedt, Robert Bohlin | [Abstract](https://arxiv.org/abs/2309.01149) · [PDF](https://arxiv.org/pdf/2309.01149) |
-| 2023-08-30 | Sparse Waypoint Validity Checking for Self-Entanglement-Free Tethered Path Planning | Tong Yang, Jiangpin Liu, Yue Wang, Rong Xiong | [Abstract](https://arxiv.org/abs/2308.15931) · [PDF](https://arxiv.org/pdf/2308.15931) |
-| 2023-08-29 | Dynamic Collaborative Path Planning for Remote Assistance of Highly-Automated Vehicles | Domagoj Majstorovic, Frank Diermeyer | [Abstract](https://arxiv.org/abs/2308.15167) · [PDF](https://arxiv.org/pdf/2308.15167) |
-| 2023-08-26 | Towards Autonomous Multi-Modal Mobility Morphobot (M4) Robot: Traversability Estimation and 3D Path Planning | Rohit Hiraman Rajput | [Abstract](https://arxiv.org/abs/2308.13972) · [PDF](https://arxiv.org/pdf/2308.13972) |
 
 ---
 

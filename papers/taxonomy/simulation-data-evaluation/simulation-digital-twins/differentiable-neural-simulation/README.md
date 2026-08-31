@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Differentiable%20%26%20Neural%20Simulation#research-workbench)
 
-> 7 conference papers · 41 recent arXiv papers
+> 7 conference papers · 42 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,7 +26,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Rethinking Optimization with Differentiable Simulation from a Global Perspective | CoRL · Simulation | [Paper](https://arxiv.org/abs/2207.00167) · [Publisher](https://doi.org/10.48550/arXiv.2207.00167) |
 | 2022 | SAM-RL: Sensing-aware model-based reinforcement learning via differentiable physics-based simulation and rendering | RSS · Simulation | [Paper](https://arxiv.org/pdf/2210.15185) · [Publisher](https://doi.org/10.1177/02783649241284653) |
 
-## Recent arXiv papers (41)
+## Recent arXiv papers (42)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -45,6 +45,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-02-23 | Smoothly Differentiable and Efficiently Vectorizable Contact Manifold Generation | Onur Beker, Andreas René Geist, Anselm Paulus, Nico Gürtler et al. | [Abstract](https://arxiv.org/abs/2602.20304) · [PDF](https://arxiv.org/pdf/2602.20304) |
 | 2025-11-14 | Autonomous Vehicle Path Planning by Searching With Differentiable Simulation | Asen Nachkov, Jan-Nico Zaech, Danda Pani Paudel, Xi Wang et al. | [Abstract](https://arxiv.org/abs/2511.11043) · [PDF](https://arxiv.org/pdf/2511.11043) |
 | 2025-10-20 | DDBot: Differentiable Physics-based Digging Robot for Unknown Granular Materials | Xintong Yang, Minglun Wei, Yu-Kun Lai, Ze Ji | [Abstract](https://arxiv.org/abs/2510.17335) · [PDF](https://arxiv.org/pdf/2510.17335) |
+| 2025-09-19 | Differentiable Dynamics and Fast Simulation of Continuous Elastic Robotic Fish | Zhiheng Chen, Jiayi Jin, Wei Wang | [Abstract](https://arxiv.org/abs/2509.16145) · [PDF](https://arxiv.org/pdf/2509.16145) |
 | 2025-09-17 | StableTracker: Learning to Stably Track Target via Differentiable Simulation | Fanxing Li, Shengyang Wang, Fangyu Sun, Shuyu Wu et al. | [Abstract](https://arxiv.org/abs/2509.14147) · [PDF](https://arxiv.org/pdf/2509.14147) |
 | 2025-08-28 | Learning on the Fly: Rapid Policy Adaptation via Differentiable Simulation | Jiahe Pan, Jiaxu Xing, Rudolf Reiter, Yifan Zhai et al. | [Abstract](https://arxiv.org/abs/2508.21065) · [PDF](https://arxiv.org/pdf/2508.21065) |
 | 2025-08-12 | DiffPhysCam: Differentiable Physics-Based Camera Simulation for Inverse Rendering and Embodied AI | Bo-Hsun Chen, Nevindu M. Batagoda, Dan Negrut | [Abstract](https://arxiv.org/abs/2508.08831) · [PDF](https://arxiv.org/pdf/2508.08831) |

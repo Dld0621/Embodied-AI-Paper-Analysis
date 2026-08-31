@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Quadruped%20%26%20Legged%20Locomotion&specialty=Quadruped%20Locomotion#research-workbench)
 
-> 148 conference papers · 355 recent arXiv papers
+> 148 conference papers · 354 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -167,10 +167,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Vision-Assisted Localization and Terrain Reconstruction with Quadruped Robots | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981897) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981897) |
 | 2022 | Zero-Shot Retargeting of Learned Quadruped Locomotion Policies Using Hybrid Kinodynamic Model Predictive Control | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2209.14123) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981967) |
 
-## Recent arXiv papers (355)
+## Recent arXiv papers (354)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-25 | CARO: Contact-Agnostic Residual Observation for Zero-Shot Robust Quadruped Locomotion | Zihan Yang, Shixuan Han, Kexin Guo, Xiang Yu | [Abstract](https://arxiv.org/abs/2608.24217) · [PDF](https://arxiv.org/pdf/2608.24217) |
 | 2026-08-20 | Learning Highly Dynamic Skills Transition for Quadruped Jumping Through Constrained Space | Zeren Luo, Jiahui Zhang, Yimin Han, Ji Ma et al. | [Abstract](https://arxiv.org/abs/2608.19977) · [PDF](https://arxiv.org/pdf/2608.19977) |
 | 2026-08-07 | Spatiotemporal Agility: Time-Constrained Reinforcement Learning for Vision-Guided Dynamic Quadrupedal Interception | Yidong Zhu, Zibo Dai, Tongning Zhang, Leixin Chang et al. | [Abstract](https://arxiv.org/abs/2608.06907) · [PDF](https://arxiv.org/pdf/2608.06907) |
 | 2026-08-03 | Situation Aware Frontier Prioritization for Quadruped Search and Rescue | Kevin Farias, Santiago Martin, Barbara Flores, Vinicio Melgar et al. | [Abstract](https://arxiv.org/abs/2608.02571) · [PDF](https://arxiv.org/pdf/2608.02571) |
@@ -524,8 +525,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-14 | A Unified Perspective on Multiple Shooting In Differential Dynamic Programming | He Li, Wenhao Yu, Tingnan Zhang, Patrick M. Wensing | [Abstract](https://arxiv.org/abs/2309.07872) · [PDF](https://arxiv.org/pdf/2309.07872) |
 | 2023-09-13 | A Real-World Quadrupedal Locomotion Benchmark for Offline Reinforcement Learning | Hongyin Zhang, Shuyu Yang, Donglin Wang | [Abstract](https://arxiv.org/abs/2309.16718) · [PDF](https://arxiv.org/pdf/2309.16718) |
 | 2023-09-08 | Seeing-Eye Quadruped Navigation with Force Responsive Locomotion Control | David DeFazio, Eisuke Hirota, Shiqi Zhang | [Abstract](https://arxiv.org/abs/2309.04370) · [PDF](https://arxiv.org/pdf/2309.04370) |
-| 2023-08-30 | Learning Vision-based Pursuit-Evasion Robot Policies | Andrea Bajcsy, Antonio Loquercio, Ashish Kumar, Jitendra Malik | [Abstract](https://arxiv.org/abs/2308.16185) · [PDF](https://arxiv.org/pdf/2308.16185) |
-| 2023-08-29 | Lifelike Agility and Play in Quadrupedal Robots using Reinforcement Learning and Generative Pre-trained Models | Lei Han, Qingxu Zhu, Jiapeng Sheng, Chong Zhang et al. | [Abstract](https://arxiv.org/abs/2308.15143) · [PDF](https://arxiv.org/pdf/2308.15143) |
 
 ---
 

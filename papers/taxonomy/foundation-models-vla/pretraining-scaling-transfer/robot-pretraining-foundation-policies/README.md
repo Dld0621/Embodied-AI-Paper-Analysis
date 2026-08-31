@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Pretraining%2C%20Scaling%20%26%20Transfer&specialty=Robot%20Pretraining%20%26%20Foundation%20Policies#research-workbench)
 
-> 6 conference papers · 59 recent arXiv papers
+> 6 conference papers · 61 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,10 +25,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Octo: An Open-Source Generalist Robot Policy | RSS · Generalist robot policy | [Paper](https://arxiv.org/abs/2405.12213) · [Official](https://doi.org/10.15607/RSS.2024.XX.090) · [Code](https://github.com/octo-models/octo) |
 | 2023 | RT-1: Robotics Transformer for Real-World Control at Scale | RSS · Generalist robot policy | [Paper](https://arxiv.org/abs/2212.06817) · [Official](https://roboticsproceedings.org/rss19/p025.html) |
 
-## Recent arXiv papers (59)
+## Recent arXiv papers (61)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-26 | LM-X: Explainable Action Modeling with Progress, Event, and Uncertainty Prediction for Generalist Robot Manipulation | Jin Lou, Zhiyuan Jing, Andong Chen, Xupeng Wang et al. | [Abstract](https://arxiv.org/abs/2608.25757) · [PDF](https://arxiv.org/pdf/2608.25757) |
+| 2026-08-24 | Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency | Brian Zhu, Momen Khalil, E Harrison, Emanuele Poggi et al. | [Abstract](https://arxiv.org/abs/2608.23831) · [PDF](https://arxiv.org/pdf/2608.23831) |
 | 2026-08-19 | The Embodiment Gap in Robot Foundation Models | Yukiyasu Domae, Keisuke Shirai, Hanbit Oh, Ryoichi Nakajo et al. | [Abstract](https://arxiv.org/abs/2608.18433) · [PDF](https://arxiv.org/pdf/2608.18433) |
 | 2026-08-17 | $τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation | Xiaowei Cai, Yunuo Cai, Bingao Chen, Jingxiao Chen et al. | [Abstract](https://arxiv.org/abs/2608.16885) · [PDF](https://arxiv.org/pdf/2608.16885) |
 | 2026-08-11 | Adaptation of Generalist Robot Policies with Minimal Data | Shreyas Kowshik, Sreyas Venkataraman, Leo Wang, Niharika Pant et al. | [Abstract](https://arxiv.org/abs/2608.11363) · [PDF](https://arxiv.org/pdf/2608.11363) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Stairs%2C%20Terrain%20%26%20Rough-ground%20Traversal#research-workbench)
 
-> 22 conference papers · 63 recent arXiv papers
+> 22 conference papers · 65 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -41,10 +41,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | mCLARI: A Shape-Morphing Insect-Scale Robot Capable of Omnidirectional Terrain-Adaptive Locomotion in Laterally Confined Spaces | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2310.04538) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341588) |
 | 2022 | PI-ARS: Accelerating Evolution-Learned Visual-Locomotion with Predictive Information Representations | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2207.13224) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981952) |
 
-## Recent arXiv papers (63)
+## Recent arXiv papers (65)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-27 | SOLO: Stable Omni-terrain Long-Horizon Perceptive Humanoid Locomotion | Pihai Sun, Gang Han, Jingkai Sun, Jiahao Ma et al. | [Abstract](https://arxiv.org/abs/2608.26583) · [PDF](https://arxiv.org/pdf/2608.26583) |
+| 2026-08-22 | DELTA: Deformable Elevation-Based Local Terrain Attention Encoder for Sparse-Terrain Quadrupedal Locomotion | Sanghyun Park, Moonkyu Jung, Jemin Hwangbo | [Abstract](https://arxiv.org/abs/2608.22033) · [PDF](https://arxiv.org/pdf/2608.22033) |
 | 2026-08-20 | MILD: Tractable Terrain Modeling for Learning Improved Bipedal Locomotion on Deformable Surfaces | Zeren Luo, Jiahui Zhang, Zhe Xu, Wanyue Li et al. | [Abstract](https://arxiv.org/abs/2608.19955) · [PDF](https://arxiv.org/pdf/2608.19955) |
 | 2026-06-30 | Learning Locomotion on Discrete Terrain via Minimal Proximity Sensing | Jiale Fan, Connor Flynn, Tianao Xu, Junzhe He et al. | [Abstract](https://arxiv.org/abs/2606.31912) · [PDF](https://arxiv.org/pdf/2606.31912) |
 | 2026-06-24 | StairMaster: Learning to Conquer Risky Hollow Stairs for Agile Quadrupedal Robots | Xincheng Tang, Youhan Xie, Zhengjie Shu, Wanyu Li et al. | [Abstract](https://arxiv.org/abs/2606.25765) · [PDF](https://arxiv.org/pdf/2606.25765) |

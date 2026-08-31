@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Evaluation&specialty=Task%20%26%20Capability%20Benchmarks#research-workbench)
 
-> 24 conference papers · 231 recent arXiv papers
+> 24 conference papers · 234 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -43,10 +43,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | DGBench: An Open-Source, Reproducible Benchmark for Dynamic Grasping | IROS · Benchmark | [Paper](https://arxiv.org/pdf/2204.13879) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981670) |
 | 2022 | Manual Maneuverability: Metrics for Analysing and Benchmarking Kinesthetic Robot Guidance | IROS · Benchmark | [Paper](https://doi.org/10.1109/IROS47612.2022.9981864) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981864) |
 
-## Recent arXiv papers (231)
+## Recent arXiv papers (234)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-25 | SIREN-Bench: Behavior-Driven Generation and Evaluation of Emergency-Vehicle Interactions | Yicheng Zhu, Tianmu Zhao, Haoxin Leng, Fan Zuo et al. | [Abstract](https://arxiv.org/abs/2608.24094) · [PDF](https://arxiv.org/pdf/2608.24094) |
+| 2026-08-23 | The Imitator Game: Benchmarking Robot Imitative Ability Beyond Action Prediction | Xunzhe Zhou, Yiyang Cai, Fengyi Wang, Ran Ju et al. | [Abstract](https://arxiv.org/abs/2608.22301) · [PDF](https://arxiv.org/pdf/2608.22301) |
+| 2026-08-22 | GuardianBench: A Same-Scene Instruction-Contrastive Benchmark for Latent Contextual Risk in Embodied AI | Zhesheng Zhang, Jiahao Lu, Wei Liu, Cong Pan et al. | [Abstract](https://arxiv.org/abs/2608.21928) · [PDF](https://arxiv.org/pdf/2608.21928) |
 | 2026-08-17 | Benchmarking Identity-Sensitive LLM Outputs for Surveillance and Security Robots | Nneka Hyman, Jasmine Khan, Raj Korpan | [Abstract](https://arxiv.org/abs/2608.16030) · [PDF](https://arxiv.org/pdf/2608.16030) |
 | 2026-08-15 | FloodReasonBench: Benchmarking VLM Reasoning Segmentation for Embodied Flood Response at the Edge | Rajat Bhattacharjya, Yoomee Jung, Minwoo Kim, Sing-Yao Wu et al. | [Abstract](https://arxiv.org/abs/2608.15410) · [PDF](https://arxiv.org/pdf/2608.15410) |
 | 2026-08-13 | Coverage Aware Active Evaluation for Failure Discovery with Paired Systems | Anjali Parashar, Rachel Luo, Apoorva Sharma, Sushant Veer et al. | [Abstract](https://arxiv.org/abs/2608.13719) · [PDF](https://arxiv.org/pdf/2608.13719) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Motion%20%26%20Path%20Planning&specialty=Trajectory%20Optimization%20%26%20MPC#research-workbench)
 
-> 34 conference papers · 401 recent arXiv papers
+> 34 conference papers · 404 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,7 +20,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | Behav: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.16484) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127890) |
 | 2025 | Data-Driven Sampling Based Stochastic MPC for Skid-Steer Mobile Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2411.03289) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127456) |
-| 2025 | Hybrid Decision Making for Scalable Multi-Agent Navigation: Integrating Semantic Maps, Discrete Coordination, and Model Predictive Control | ICRA · Navigation | [Paper](https://arxiv.org/abs/2410.12651) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128657) |
+| 2025 | Hybrid Decision Making for Scalable Multi-Agent Navigation: Integrating Semantic Maps, Discrete Coordination, and Model Predictive Control | ICRA · Navigation | [Paper](https://pure.tue.nl/ws/files/367024050/Hybrid_Decision_Making_for_Scalable_Multi-Agent_Navigation_Integrating_Semantic_Maps_Discrete_Coordination_and_Model_Predictive_Control.pdf) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128657) |
 | 2025 | Learning Dynamic Weight Adjustment for Spatial-Temporal Trajectory Planning in Crowd Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2412.00555) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128766) |
 | 2025 | Capsizing-Guided Trajectory Optimization for Autonomous Navigation with Rough Terrain | IROS · Navigation | [Paper](https://arxiv.org/abs/2508.08108) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247440) |
 | 2025 | Dynamic Risk-Aware MPPI for Mobile Robots in Crowds via Efficient Monte Carlo Approximations | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2506.21205) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246822) |
@@ -53,11 +53,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | PUTN: A Plane-fitting based Uneven Terrain Navigation Framework | IROS · Navigation | [Paper](https://arxiv.org/abs/2203.04541) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981038) |
 | 2022 | SMS-MPC: Adversarial Learning-based Simultaneous Prediction Control with Single Model for Mobile Robots | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981289) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981289) |
 
-## Recent arXiv papers (401)
+## Recent arXiv papers (404)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-26 | Towards safe and optimal flight: Viability Kernel MPC for Fully Actuated Multirotor | Massimiliano Bertoni, Alberto Piccina, Gianni Lunardi, Elias Fontanari et al. | [Abstract](https://arxiv.org/abs/2608.25459) · [PDF](https://arxiv.org/pdf/2608.25459) |
+| 2026-08-25 | Safety-aware Model Predictive Path Integral Control with Signal Temporal Logic | Yiqi Zhao, Taekyung Kim, Hideki Okamoto, Bardh Hoxha et al. | [Abstract](https://arxiv.org/abs/2608.23972) · [PDF](https://arxiv.org/pdf/2608.23972) |
+| 2026-08-23 | GCS-Bridging: Restoring Connectivity of Disconnected Convex Sets for Graph-of-Convex-Sets Motion Planning | Xiaokai Zhou, Baoshi Cao, Yang Liu, Kui Sun et al. | [Abstract](https://arxiv.org/abs/2608.22326) · [PDF](https://arxiv.org/pdf/2608.22326) |
 | 2026-08-21 | SRL-MPC: Shape-Aware Reinforcement Learned Model Predictive Control | Ruihua Han, Rui Gao, Zhe Liu, Xinyi Wang et al. | [Abstract](https://arxiv.org/abs/2608.21175) · [PDF](https://arxiv.org/pdf/2608.21175) |
+| 2026-08-21 | OpenSCvx: An Open-Source Modular and Extensible Nonlinear Trajectory Planning Package | Christopher R. Hayner, Griffin J. Norris, Fabio Spada, Samet Uzun et al. | [Abstract](https://arxiv.org/abs/2608.21631) · [PDF](https://arxiv.org/pdf/2608.21631) |
 | 2026-08-19 | Progressive Experience Fusion for Multi-Task World Model Control in Endovascular Navigation | Harry Robertshaw, Maxence Boels, Nikola Fischer, Sebastien Ourselin et al. | [Abstract](https://arxiv.org/abs/2608.18647) · [PDF](https://arxiv.org/pdf/2608.18647) |
 | 2026-08-11 | Dual Stress: Runtime Safety Monitoring for Safety-Constrained MPC Navigation | Jamil Chahine, Wenqi Cai, John Abanes, Anthony Tzes | [Abstract](https://arxiv.org/abs/2608.10791) · [PDF](https://arxiv.org/pdf/2608.10791) |
 | 2026-08-08 | MPPI Planning with Gaussian-Based Human Cost Function for Social Navigation | Chinmay Mundane | [Abstract](https://arxiv.org/abs/2608.08323) · [PDF](https://arxiv.org/pdf/2608.08323) |
@@ -289,7 +293,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-03-26 | DBaS-Log-MPPI: Efficient and Safe Trajectory Optimization via Barrier States | Fanxin Wang, Haolong Jiang, Chuyuan Tao, Wenbin Wan et al. | [Abstract](https://arxiv.org/abs/2504.06437) · [PDF](https://arxiv.org/pdf/2504.06437) |
 | 2025-03-24 | Cooperative Control of Multi-Quadrotors for Transporting Cable-Suspended Payloads: Obstacle-Aware Planning and Event-Based Nonlinear Model Predictive Control | Tohid Kargar Tasooji, Sakineh Khodadadi, Guangjun Liu, Richard Wang | [Abstract](https://arxiv.org/abs/2503.19135) · [PDF](https://arxiv.org/pdf/2503.19135) |
 | 2025-03-18 | Variable Time-Step MPC for Agile Multi-Rotor UAV Interception of Dynamic Targets | Atharva Ghotavadekar, František Nekovář, Martin Saska, Jan Faigl | [Abstract](https://arxiv.org/abs/2503.14184) · [PDF](https://arxiv.org/pdf/2503.14184) |
-| 2025-03-14 | A High-Speed Time-Optimal Trajectory Generation Strategy via a Two-layer Planning Model | Haotian Tan, Yuan-Hua Ni | [Abstract](https://arxiv.org/abs/2503.11072) · [PDF](https://arxiv.org/pdf/2503.11072) |
+| 2025-03-14 | Receding Fixed-Horizon Optimization for Near-Time-Optimal Trajectory Planning and Control | Haotian Tan, Yuan-Hua Ni | [Abstract](https://arxiv.org/abs/2503.11072) · [PDF](https://arxiv.org/pdf/2503.11072) |
 | 2025-03-11 | Efficient Trajectory Generation Based on Traversable Planes in 3D Complex Architectural Spaces | Mengke Zhang, Zhihao Tian, Yaoguang Xia, Chao Xu et al. | [Abstract](https://arxiv.org/abs/2503.08076) · [PDF](https://arxiv.org/pdf/2503.08076) |
 | 2025-03-08 | FSDP: Fast and Safe Data-Driven Overtaking Trajectory Planning for Head-to-Head Autonomous Racing Competitions | Cheng Hu, Jihao Huang, Wule Mao, Yonghao Fu et al. | [Abstract](https://arxiv.org/abs/2503.06075) · [PDF](https://arxiv.org/pdf/2503.06075) |
 | 2025-03-06 | SAFE-TAXI: A Hierarchical Multi-UAS Safe Auto-Taxiing Framework with Runtime Safety Assurance and Conflict Resolution | Kartik A. Pant, Li-Yu Lin, Worawis Sribunma, Sabine Brunswicker et al. | [Abstract](https://arxiv.org/abs/2503.04942) · [PDF](https://arxiv.org/pdf/2503.04942) |
@@ -457,7 +461,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-16 | Distributionally Robust CVaR-Based Safety Filtering for Motion Planning in Uncertain Environments | Sleiman Safaoui, Tyler H. Summers | [Abstract](https://arxiv.org/abs/2309.08821) · [PDF](https://arxiv.org/pdf/2309.08821) |
 | 2023-09-12 | An Efficient Trajectory Planner for Car-like Robots on Uneven Terrain | Long Xu, Kaixin Chai, Zhichao Han, Hong Liu et al. | [Abstract](https://arxiv.org/abs/2309.06115) · [PDF](https://arxiv.org/pdf/2309.06115) |
 | 2023-08-31 | Wasserstein Distributionally Robust Chance Constrained Trajectory Optimization for Mobile Robots within Uncertain Safe Corridor | Shaohang Xu, Haolin Ruan, Wentao Zhang, Yian Wang et al. | [Abstract](https://arxiv.org/abs/2308.16381) · [PDF](https://arxiv.org/pdf/2308.16381) |
-| 2023-08-24 | Interaction-Aware Trajectory Prediction and Planning in Dense Highway Traffic using Distributed Model Predictive Control | Erik Börve, Nikolce Murgovski, Leo Laine | [Abstract](https://arxiv.org/abs/2308.13053) · [PDF](https://arxiv.org/pdf/2308.13053) |
 
 ---
 

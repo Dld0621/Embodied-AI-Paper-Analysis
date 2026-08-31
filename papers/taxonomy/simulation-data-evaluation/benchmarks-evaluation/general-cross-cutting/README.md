@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Evaluation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 22 conference papers · 121 recent arXiv papers
+> 22 conference papers · 123 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -41,10 +41,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2201.09863) · [Index](https://dblp.org/rec/conf/nips/BhatiaJTXM21) |
 | 2022 | VLMbench: A Compositional Benchmark for Vision-and-Language Manipulation | NeurIPS · Language manipulation benchmark | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/04543a88eae2683133c1acbef5a6bf77-Abstract-Datasets_and_Benchmarks.html) · [Official](https://proceedings.neurips.cc/paper_files/paper/2022/hash/04543a88eae2683133c1acbef5a6bf77-Abstract-Datasets_and_Benchmarks.html) |
 
-## Recent arXiv papers (121)
+## Recent arXiv papers (123)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-28 | CoCoBench: A Cooperative Coordination Benchmark for Embodied Multi-Agent Task Planning | Yang Chen, Ye-Xin Xie, Lirong Che, Danyang Peng et al. | [Abstract](https://arxiv.org/abs/2608.28266) · [PDF](https://arxiv.org/pdf/2608.28266) |
+| 2026-08-26 | A Statistical Audit of Physical AI Benchmark Redundancy | Zaruhi Navasardyan, Hrant Davtyan | [Abstract](https://arxiv.org/abs/2608.25940) · [PDF](https://arxiv.org/pdf/2608.25940) |
 | 2026-08-19 | Orienteering Problem with Uncertain Time-Varying Rewards: Framework and Benchmark for Everyday Service Robotics | Masafumi Endo, Kohei Honda, Yuu Jinnai, Ryo Yonetani | [Abstract](https://arxiv.org/abs/2608.18672) · [PDF](https://arxiv.org/pdf/2608.18672) |
 | 2026-08-18 | Repetition as Reinforcement: Enhancing Sample Efficiency via Instant Episode Repetition in Reinforcement Learning | Hoda Yamani, Yuning Xing, Koen van Rijnsoever, Bruce A. MacDonald et al. | [Abstract](https://arxiv.org/abs/2608.17347) · [PDF](https://arxiv.org/pdf/2608.17347) |
 | 2026-08-14 | Beam-Wise Statistical Background Subtraction for Static Roadside LiDAR: A Cross-Sensor Benchmark Study | Alexander Baumann, Marcel Vosshans, Thao Dang | [Abstract](https://arxiv.org/abs/2608.14868) · [PDF](https://arxiv.org/pdf/2608.14868) |

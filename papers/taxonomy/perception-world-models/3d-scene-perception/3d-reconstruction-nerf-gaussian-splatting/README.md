@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=3D%20Reconstruction%2C%20NeRF%20%26%20Gaussian%20Splatting#research-workbench)
 
-> 3 conference papers · 107 recent arXiv papers
+> 3 conference papers · 106 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -22,7 +22,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | OpenOcc: Open Vocabulary 3D Scene Reconstruction via Occupancy Representation | IROS · 3D Scene | [Paper](https://arxiv.org/abs/2403.11796) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801860) |
 | 2022 | Touching a NeRF: Leveraging Neural Radiance Fields for Tactile Sensory Data Generation | CoRL · Tactile | [Paper](https://www.semanticscholar.org/paper/52ad7e7133b19adf85e49478fe17229fc893cd8f) · [Index](https://dblp.org/rec/conf/corl/ZhongAJMP22) |
 
-## Recent arXiv papers (107)
+## Recent arXiv papers (106)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -132,7 +132,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-11 | SIM-Sync: From Certifiably Optimal Synchronization over the 3D Similarity Group to Scene Reconstruction with Learned Depth | Xihang Yu, Heng Yang | [Abstract](https://arxiv.org/abs/2309.05184) · [PDF](https://arxiv.org/pdf/2309.05184) |
 | 2023-09-11 | PAg-NeRF: Towards fast and efficient end-to-end panoptic 3D representations for agricultural robotics | Claus Smitt, Michael Halstead, Patrick Zimmer, Thomas Läbe et al. | [Abstract](https://arxiv.org/abs/2309.05339) · [PDF](https://arxiv.org/pdf/2309.05339) |
 | 2023-09-11 | A survey on real-time 3D scene reconstruction with SLAM methods in embedded systems | Quentin Picard, Stephane Chevobbe, Mehdi Darouich, Jean-Yves Didier | [Abstract](https://arxiv.org/abs/2309.05349) · [PDF](https://arxiv.org/pdf/2309.05349) |
-| 2023-08-30 | Drone-NeRF: Efficient NeRF Based 3D Scene Reconstruction for Large-Scale Drone Survey | Zhihao Jia, Bing Wang, Changhao Chen | [Abstract](https://arxiv.org/abs/2308.15733) · [PDF](https://arxiv.org/pdf/2308.15733) |
 
 ---
 

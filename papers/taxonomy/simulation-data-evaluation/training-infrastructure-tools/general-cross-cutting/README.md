@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Training%20Infrastructure%20%26%20Tools&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 1 conference papers · 48 recent arXiv papers
+> 1 conference papers · 46 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,7 +20,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | ORBiT: Optimizing Robot-Assisted Bite Transfer Leveraging a Real2Sim2Real Framework | IROS · Sim2Real | [Paper](https://doi.org/10.1109/IROS60139.2025.11247185) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247185) |
 
-## Recent arXiv papers (48)
+## Recent arXiv papers (46)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -70,8 +70,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-28 | HD Maps are Lane Detection Generalizers: A Novel Generative Framework for Single-Source Domain Generalization | Daeun Lee, Minhyeok Heo, Jiwon Kim | [Abstract](https://arxiv.org/abs/2311.16589) · [PDF](https://arxiv.org/pdf/2311.16589) |
 | 2023-11-06 | A Reactive performance-based Shared Control Framework for Assistive Robotic Manipulators | Francisco J. Ruiz-Ruiz, Cristina Urdiales, Manuel Fernández-Carmona, Jesús M. Gómez-de-Gabriel | [Abstract](https://arxiv.org/abs/2311.03232) · [PDF](https://arxiv.org/pdf/2311.03232) |
 | 2023-09-22 | H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps | Haoyi Niu, Tianying Ji, Bingqi Liu, Haocheng Zhao et al. | [Abstract](https://arxiv.org/abs/2309.12716) · [PDF](https://arxiv.org/pdf/2309.12716) |
-| 2023-08-30 | EnsembleFollower: A Hybrid Car-Following Framework Based On Reinforcement Learning and Hierarchical Planning | Xu Han, Xianda Chen, Meixin Zhu, Pinlong Cai et al. | [Abstract](https://arxiv.org/abs/2308.16008) · [PDF](https://arxiv.org/pdf/2308.16008) |
-| 2023-08-24 | TrafficMCTS: A Closed-Loop Traffic Flow Generation Framework with Group-Based Monte Carlo Tree Search | Ze Fu, Licheng Wen, Pinlong Cai, Daocheng Fu et al. | [Abstract](https://arxiv.org/abs/2308.12797) · [PDF](https://arxiv.org/pdf/2308.12797) |
 
 ---
 

@@ -25,7 +25,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Probabilistic Spiking Neural Network for Robotic Tactile Continual Learning | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610553) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610553) |
 | 2024 | X-Tacformer : Spatio-tempral Attention Model for Tactile Recognition | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610365) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610365) |
 | 2024 | Exploratory Motion Guided Tactile Learning for Shape-Consistent Robotic Insertion | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS58592.2024.10801550) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801550) |
-| 2023 | Learn from Incomplete Tactile Data: Tactile Representation Learning with Masked Autoencoders | IROS · Tactile | [Paper](https://arxiv.org/pdf/2307.07358) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341788) |
+| 2023 | Learn from Incomplete Tactile Data: Tactile Representation Learning with Masked Autoencoders | IROS · Tactile | [Paper](https://uwe-repository.worktribe.com/preview/14697028/insufficient_touch.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341788) |
 | 2023 | Self-Supervised Visuo-Tactile Pretraining to Locate and Follow Garment Features | RSS · Tactile | [Paper](https://doi.org/10.15607/rss.2023.xix.018) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.018) |
 
 ## Recent arXiv papers (21)

@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks | ICCV · Vla | [Paper](https://arxiv.org/abs/2412.18194) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01037) |
+| 2025 | VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks | ICCV · Vla | [Paper](https://arxiv.org/pdf/2412.18194) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01037) |
 | 2025 | BadRobot: Jailbreaking Embodied LLM Agents in the Physical World | ICLR · Llm | [Paper](https://arxiv.org/abs/2407.20242) · [Index](https://dblp.org/rec/conf/iclr/ZhangZ00YLXWHLG25) |
 | 2025 | AlignBot: Aligning VLM-Powered Customized Task Planning with User Reminders Through Fine-Tuning for Household Robots | ICRA · Vlm | [Paper](https://arxiv.org/abs/2409.11905) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128775) |
 | 2025 | COHERENT: Collaboration of Heterogeneous Multi-Robot System with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2409.15146) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127808) |
@@ -70,6 +70,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-27 | STEP: State-Aware Task Estimation and Planning with Multi-Modal LLMs for Human-Robot Collaboration | Maitrey Gramopadhye, Prakash Baskaran, Xiao Liu, Songpo Li et al. | [Abstract](https://arxiv.org/abs/2608.27225) · [PDF](https://arxiv.org/pdf/2608.27225) |
+| 2026-08-23 | Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints | Gwen Yidou-Weng, Edward Sun, Tianyi Ma, Metin Alp Dogan et al. | [Abstract](https://arxiv.org/abs/2608.22149) · [PDF](https://arxiv.org/pdf/2608.22149) |
 | 2026-08-20 | Evidence-Gated Task and Motion Planning with Vision-Language Models | Tsunehiko Tanaka, Matthew Stephenson, Alistair Macvicar, Edgar Simo-Serra | [Abstract](https://arxiv.org/abs/2608.20084) · [PDF](https://arxiv.org/pdf/2608.20084) |
 | 2026-08-17 | PDDL-ART: Autonomous Symbolic Abstraction From Demonstration For Long-Horizon Robotic Manipulation Using Vision-Language Models | Disha Kamale, Dmitry Berenson | [Abstract](https://arxiv.org/abs/2608.17146) · [PDF](https://arxiv.org/pdf/2608.17146) |
 | 2026-08-08 | Multi-modal Interactive Control of Robotic Arm based on Offline Large Language Models | Hanxiao Chen | [Abstract](https://arxiv.org/abs/2608.08183) · [PDF](https://arxiv.org/pdf/2608.08183) |
@@ -296,8 +298,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-17 | Optimal Scene Graph Planning with Large Language Model Guidance | Zhirui Dai, Arash Asgharivaskasi, Thai Duong, Shusen Lin et al. | [Abstract](https://arxiv.org/abs/2309.09182) · [PDF](https://arxiv.org/pdf/2309.09182) |
 | 2023-09-17 | From Cooking Recipes to Robot Task Trees -- Improving Planning Correctness and Task Efficiency by Leveraging LLMs with a Knowledge Network | Md Sadman Sakib, Yu Sun | [Abstract](https://arxiv.org/abs/2309.09181) · [PDF](https://arxiv.org/pdf/2309.09181) |
 | 2023-09-15 | Compositional Foundation Models for Hierarchical Planning | Anurag Ajay, Seungwook Han, Yilun Du, Shuang Li et al. | [Abstract](https://arxiv.org/abs/2309.08587) · [PDF](https://arxiv.org/pdf/2309.08587) |
-| 2023-08-29 | LLM-Based Human-Robot Collaboration Framework for Manipulation Tasks | Haokun Liu, Yaonan Zhu, Kenji Kato, Izumi Kondo et al. | [Abstract](https://arxiv.org/abs/2308.14972) · [PDF](https://arxiv.org/pdf/2308.14972) |
-| 2023-08-26 | ISR-LLM: Iterative Self-Refined Large Language Model for Long-Horizon Sequential Task Planning | Zhehua Zhou, Jiayang Song, Kunpeng Yao, Zhan Shu et al. | [Abstract](https://arxiv.org/abs/2308.13724) · [PDF](https://arxiv.org/pdf/2308.13724) |
 
 ---
 

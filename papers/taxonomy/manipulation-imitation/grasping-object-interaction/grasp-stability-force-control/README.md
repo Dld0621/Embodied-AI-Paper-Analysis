@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Grasping%20%26%20Object%20Interaction&specialty=Grasp%20Stability%20%26%20Force%20Control#research-workbench)
 
-> 13 conference papers · 59 recent arXiv papers
+> 13 conference papers · 61 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -32,10 +32,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Grasp Transfer for Deformable Objects by Functional Map Correspondence | ICRA · Grasp | [Paper](https://arxiv.org/abs/2203.00776) · [Publisher](https://doi.org/10.48550/arXiv.2203.00776) |
 | 2022 | The Good Grasp, the Bad Grasp, and the Plateau in Tactile-Based Grasp Stability Prediction | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9981360) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981360) |
 
-## Recent arXiv papers (59)
+## Recent arXiv papers (61)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-25 | Sensorless damage-safe grasping | Yusei Shuto, Danilo Vasconcellos Vargas | [Abstract](https://arxiv.org/abs/2608.23983) · [PDF](https://arxiv.org/pdf/2608.23983) |
+| 2026-08-22 | Vision-Guided Morphing Quadcopter for Multi-Geometry Payload Transport through Narrow Passages | Aashish Sahu, Shriram Hari, R. Prasanth Kumar | [Abstract](https://arxiv.org/abs/2608.21879) · [PDF](https://arxiv.org/pdf/2608.21879) |
 | 2026-08-08 | A Mixed-Stiffness Anthropomimetic Fingertip Broadens the Operating Range for Coin Grasping | Kaigen Go, Yinlai Jiang, Hiroshi Yokoi, Shunta Togo | [Abstract](https://arxiv.org/abs/2608.07887) · [PDF](https://arxiv.org/pdf/2608.07887) |
 | 2026-08-02 | GraRe: Grasp Candidate Re-Ranking for Frozen 6-DoF Grasp Detectors | Jibao Yuan, Yuhui Zhao, Yinzhen Lv, Chao Xu et al. | [Abstract](https://arxiv.org/abs/2608.00946) · [PDF](https://arxiv.org/pdf/2608.00946) |
 | 2026-07-22 | V2F: Vision-Informed Grasp Force Prediction for Damage-Aware Robotic Handling of Date Fruits | Shahd Shami, Obadah Wali, Eric Feron, Shinkyu Park | [Abstract](https://arxiv.org/abs/2607.19804) · [PDF](https://arxiv.org/pdf/2607.19804) |
@@ -52,7 +54,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-31 | SuperGrasp: Single-View Object Grasping via Superquadric Similarity Matching, Evaluation, and Refinement | Lijingze Xiao, Jinhong Du, Supeng Diao, Yu Ren et al. | [Abstract](https://arxiv.org/abs/2603.29254) · [PDF](https://arxiv.org/pdf/2603.29254) |
 | 2026-03-22 | Affordance-Guided Enveloping Grasp Demonstration Toward Non-destructive Disassembly of Pinch-Infeasible Mating Parts | Masaki Tsutsumi, Takuya Kiyokawa, Gen Sako, Kensuke Harada | [Abstract](https://arxiv.org/abs/2603.21143) · [PDF](https://arxiv.org/pdf/2603.21143) |
 | 2026-02-02 | Synchronized Online Friction Estimation and Adaptive Grasp Control for Robust Gentle Grasp | Zhenwei Niu, Xiaoyi Chen, Jiayu Hu, Zhaoyang Liu et al. | [Abstract](https://arxiv.org/abs/2602.02026) · [PDF](https://arxiv.org/pdf/2602.02026) |
-| 2026-01-20 | UNCLE-Grasp: Uncertainty-Aware Grasping of Leaf-Occluded Strawberries | Malak Mansour, Ali Abouzeid, Zezhou Sun, Qinbo Sun et al. | [Abstract](https://arxiv.org/abs/2601.14492) · [PDF](https://arxiv.org/pdf/2601.14492) |
+| 2026-01-20 | UNCLE-Grasp: A Task-Adapted Framework for Uncertainty-Aware Grasping of Leaf-Occluded Strawberries | Malak Mansour, Ali Abouzeid, Zezhou Sun, Qinbo Sun et al. | [Abstract](https://arxiv.org/abs/2601.14492) · [PDF](https://arxiv.org/pdf/2601.14492) |
 | 2026-01-15 | In-the-Wild Compliant Manipulation with UMI-FT | Hojung Choi, Yifan Hou, Chuer Pan, Seongheon Hong et al. | [Abstract](https://arxiv.org/abs/2601.09988) · [PDF](https://arxiv.org/pdf/2601.09988) |
 | 2025-11-12 | IFG: Internet-Scale Guidance for Functional Grasping Generation | Ray Muxin Liu, Mingxuan Li, Kenneth Shaw, Deepak Pathak | [Abstract](https://arxiv.org/abs/2511.09558) · [PDF](https://arxiv.org/pdf/2511.09558) |
 | 2025-11-03 | Phy-Tac: Toward Human-Like Grasping via Physics-Conditioned Tactile Goals | Shipeng Lyu, Lijie Sheng, Fangyuan Wang, Wenyao Zhang et al. | [Abstract](https://arxiv.org/abs/2511.01520) · [PDF](https://arxiv.org/pdf/2511.01520) |

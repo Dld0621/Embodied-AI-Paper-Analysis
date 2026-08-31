@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Proprioception%20%26%20Embodied%20Sensing#research-workbench)
 
-> 11 conference papers · 14 recent arXiv papers
+> 11 conference papers · 15 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -30,10 +30,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Simultaneous Contact Location and Object Pose Estimation Using Proprioception and Tactile Feedback | IROS · Tactile | [Paper](https://arxiv.org/pdf/2206.01245) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981762) |
 | 2022 | Whisker-Inspired Tactile Sensing for Contact Localization on Robot Manipulators | IROS · Tactile | [Paper](https://arxiv.org/pdf/2210.12387) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982122) |
 
-## Recent arXiv papers (14)
+## Recent arXiv papers (15)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-22 | Towards insect-like distributed proprioception in actuators and appendages for flapping-wing insect-scale aerial robots | Alexander Hedrick, Arvind Gupta, Kaushik Jayaram | [Abstract](https://arxiv.org/abs/2608.21699) · [PDF](https://arxiv.org/pdf/2608.21699) |
 | 2026-08-02 | Learning Physical Interaction: A Survey of Tactile- and Force-aware Robot Learning | Shilin Shan, Chuhao Zhou, Ruize Wang, Xinyan Chen et al. | [Abstract](https://arxiv.org/abs/2608.07558) · [PDF](https://arxiv.org/pdf/2608.07558) |
 | 2026-07-29 | SymmGrid: Super-Scaling On-Robot Learning with Parallelized Symmetries and Egocentric-Exocentric Visual Perception | Gabe Everett, Brice Gunter, Ryan Vander Stelt, Cleiver Ruiz-Martinez et al. | [Abstract](https://arxiv.org/abs/2607.26985) · [PDF](https://arxiv.org/pdf/2607.26985) |
 | 2026-06-30 | Distributed Multi Robot Lunar Cargo Transportation via Phase Decomposed Reinforcement Learning | Ashutosh Mishra, Elian Neppel, Shreya Santra, Antoine Jonquières et al. | [Abstract](https://arxiv.org/abs/2607.00160) · [PDF](https://arxiv.org/pdf/2607.00160) |

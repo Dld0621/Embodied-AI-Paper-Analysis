@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Humanoid%20Whole-body%20Control&specialty=Humanoid%20Loco-manipulation#research-workbench)
 
-> 24 conference papers · 155 recent arXiv papers
+> 24 conference papers · 158 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -43,10 +43,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Hierarchical Adaptive Loco-manipulation Control for Quadruped Robots | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2209.13145) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160523) |
 | 2023 | Centralized Model Predictive Control for Collaborative Loco-Manipulation | RSS · Loco Manipulation | [Paper](https://doi.org/10.15607/rss.2023.xix.050) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.050) |
 
-## Recent arXiv papers (155)
+## Recent arXiv papers (158)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-28 | Stay Seated: Learning Omnidirectional Humanoid Locomotion on a Passive Mobile Chair with Casters | Kango Yanagida, Kazuki Miyazawa, Takato Horii | [Abstract](https://arxiv.org/abs/2608.28090) · [PDF](https://arxiv.org/pdf/2608.28090) |
+| 2026-08-27 | Tensegrity Continuum Robots Enable Task-Adaptive Morphologies for Cooperative Behaviors | Mahmud Hasan Saikot, Sydney Spiegel, Sudheera Akalanka Kariyawasam, Andrew Stefka et al. | [Abstract](https://arxiv.org/abs/2608.27221) · [PDF](https://arxiv.org/pdf/2608.27221) |
+| 2026-08-23 | DreamMimic: Learning Visuomotor Whole-Body Loco-Manipulation via World Model | Jie Yin, Xingyu Lai | [Abstract](https://arxiv.org/abs/2608.22278) · [PDF](https://arxiv.org/pdf/2608.22278) |
 | 2026-08-17 | HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL | Langzhe Gu, Chengkai Hou, Meng Li, Xinhua Wang et al. | [Abstract](https://arxiv.org/abs/2608.16837) · [PDF](https://arxiv.org/pdf/2608.16837) |
 | 2026-08-17 | FetchMan: Learning Visual Humanoid Loco-Manipulation Policies from Simulated Experiences | Omar Rayyan, Zhi Li, Max Argus, Yuxin Jiang et al. | [Abstract](https://arxiv.org/abs/2608.17027) · [PDF](https://arxiv.org/pdf/2608.17027) |
 | 2026-08-12 | Learning Loco-Manipulation From SMPC Demonstrations With Sparse Offline-to-Online RL | Martin Schuck, Maks Sorokin, Simone Manni, Duy Ta et al. | [Abstract](https://arxiv.org/abs/2608.12063) · [PDF](https://arxiv.org/pdf/2608.12063) |

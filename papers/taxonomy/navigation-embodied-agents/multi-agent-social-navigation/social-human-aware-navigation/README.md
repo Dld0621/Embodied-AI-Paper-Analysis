@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Multi-agent%20%26%20Social%20Navigation&specialty=Social%20%26%20Human-aware%20Navigation#research-workbench)
 
-> 9 conference papers · 37 recent arXiv papers
+> 9 conference papers · 38 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Learning Crowd-Aware Robot Navigation from Challenging Environments via Distributed Deep Reinforcement Learning | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9812011) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812011) |
 | 2022 | Pedestrian-Robot Interactions on Autonomous Crowd Navigation: Reactive Control Methods and Evaluation Metrics | IROS · Navigation | [Paper](https://github.com/epfl-lasa/crowdbot-evaluation-tools) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981705) |
 
-## Recent arXiv papers (37)
+## Recent arXiv papers (38)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-11 | Social Graph Mamba: Forecasting Pedestrian Movements Based on Social Context | Hong-Son Nguyen, Yen-Chen Liu | [Abstract](https://arxiv.org/abs/2608.21411) · [PDF](https://arxiv.org/pdf/2608.21411) |
 | 2026-07-18 | SAGE: A Socially-Aware Generative Engine for Heterogeneous Multi-Agent Navigation | Lan Hu, Minghui Liwang, Wenbo Zhu, Xinlei Yi et al. | [Abstract](https://arxiv.org/abs/2607.16619) · [PDF](https://arxiv.org/pdf/2607.16619) |
 | 2026-07-05 | Quaternion-Averaging-Based Adaptive Complementary Filter for Pedestrian Dead Reckoning With a Foot-Mounted AHRS | Shunsei Yamagishi, Lei Jing | [Abstract](https://arxiv.org/abs/2607.05451) · [PDF](https://arxiv.org/pdf/2607.05451) |
 | 2026-06-05 | Does Appearance Help? A Systematic Study of Image-Based Re-Identification in Online 3D Multi-Pedestrian Tracking | Eduardo Borges, Luís Garrote, Urbano J. Nunes | [Abstract](https://arxiv.org/abs/2606.07233) · [PDF](https://arxiv.org/pdf/2606.07233) |

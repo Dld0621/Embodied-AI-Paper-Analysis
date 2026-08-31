@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Autonomy&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 35 conference papers · 106 recent arXiv papers
+> 35 conference papers · 105 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | A Comparative Study Between a Virtual Wand and a One-to-One Approach for the Teleoperation of a Nearby Robotic Manipulator | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127740) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127740) |
+| 2025 | A Comparative Study Between a Virtual Wand and a One-to-One Approach for the Teleoperation of a Nearby Robotic Manipulator | ICRA · Teleoperation | [Paper](https://hal.science/hal-05367775) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127740) |
 | 2025 | A Modeling and Control Strategy for the Gaze-Guided Teleoperation of Robotic Manipulators via Smart Glasses | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127772) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127772) |
 | 2025 | Automating Tension Calibration for Tendon-Driven Continuum Robots: A Low-Cost Approach Towards Consistent Teleoperation | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128689) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128689) |
 | 2025 | Sketch-MoMa: Teleoperation for Mobile Manipulator via Interpretation of Hand-Drawn Sketches | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2412.19153) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128261) |
@@ -27,7 +27,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | A Monocular Vision-based Robotic Arm Teleoperation Method for Human Arm Configuration Imitation | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246483) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246483) |
 | 2025 | AirTouch: A Low-Cost Versatile Visuotactile Feedback System for Enhanced Robotic Teleoperation | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS60139.2025.11247770) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247770) |
 | 2025 | Real-time Photorealistic Mapping for Situational Awareness in Robot Teleoperation | IROS · Teleoperation | [Paper](https://arxiv.org/abs/2509.06433) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246001) |
-| 2025 | Robot Teleoperation Design Requirements from End Users in Nuclear Facilities | IROS · Teleoperation | [Paper](https://doi.org/10.5281/zenodo.20801732) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246717) |
+| 2025 | Robot Teleoperation Design Requirements from End Users in Nuclear Facilities | IROS · Teleoperation | [Paper](https://uwe-repository.worktribe.com/preview/15619617/IROS_25_Design_Requirement.pdf) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246717) |
 | 2025 | Six-DoF Hand-Based Teleoperation for Omnidirectional Aerial Robots | IROS · Teleoperation | [Paper](https://arxiv.org/abs/2506.15009) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247292) |
 | 2024 | Adaptive Haptic Control Interface for Safeguarding Robotic Teleoperation in Hazardous Steelmaking Environments | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611107) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611107) |
 | 2024 | SPOTS: Stable Placement of Objects with Reasoning in Semi-Autonomous Teleoperation Systems | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2309.13937) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611613) |
@@ -54,7 +54,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Manipulability-Aware Shared Locomanipulation Motion Generation for Teleoperation of Mobile Manipulators | IROS · Teleoperation | [Paper](https://zenodo.org/records/7035640/files/main.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982220) |
 | 2022 | The Predictive Kinematic Control Tree: Enhancing Teleoperation of Redundant Robots through Probabilistic User Models | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982150) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982150) |
 
-## Recent arXiv papers (106)
+## Recent arXiv papers (105)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -163,7 +163,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-13 | Sensory Manipulation as a Countermeasure to Robot Teleoperation Delays: System and Evidence | Jing Du, William Vann, Tianyu Zhou, Yang Ye et al. | [Abstract](https://arxiv.org/abs/2310.08788) · [PDF](https://arxiv.org/pdf/2310.08788) |
 | 2023-09-25 | SPOTS: Stable Placement of Objects with Reasoning in Semi-Autonomous Teleoperation Systems | Joonhyung Lee, Sangbeom Park, Jeongeun Park, Kyungjae Lee et al. | [Abstract](https://arxiv.org/abs/2309.13937) · [PDF](https://arxiv.org/pdf/2309.13937) |
 | 2023-09-14 | A Delay Compensation Framework Based on Eye-Movement for Teleoperated Ground Vehicles | Qiang Zhang, Lingfang Yang, Zhi Huang, Xiaolin Song | [Abstract](https://arxiv.org/abs/2309.07464) · [PDF](https://arxiv.org/pdf/2309.07464) |
-| 2023-08-29 | Motion Priority Optimization Framework towards Automated and Teleoperated Robot Cooperation in Industrial Recovery Scenarios | Shunki Itadera, Yukiyasu Domae | [Abstract](https://arxiv.org/abs/2308.15044) · [PDF](https://arxiv.org/pdf/2308.15044) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=In-hand%20Manipulation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 40 conference papers · 93 recent arXiv papers
+> 40 conference papers · 92 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -59,7 +59,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | In-hand Manipulation Exploiting Bending and Compression Deformations of Caterpillar-Locomotion-Inspired Fingers | IROS · In Hand | [Paper](https://doi.org/10.1109/IROS47612.2022.9982281) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982281) |
 | 2022 | Optical Proximity Sensing for Pose Estimation During In-Hand Manipulation | IROS · In Hand | [Paper](https://arxiv.org/pdf/2204.02371) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981692) |
 
-## Recent arXiv papers (93)
+## Recent arXiv papers (92)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -155,7 +155,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-13 | Stable In-hand Manipulation with Finger Specific Multi-agent Shadow Reward | Lingfeng Tao, Jiucai Zhang, Xiaoli Zhang | [Abstract](https://arxiv.org/abs/2309.07349) · [PDF](https://arxiv.org/pdf/2309.07349) |
 | 2023-09-13 | Enhancing Dexterity in Confined Spaces: Real-Time Motion Planning for Multi-Fingered In-Hand Manipulation | Xiao Gao, Kunpeng Yao, Farshad Khadivar, Aude Billard | [Abstract](https://arxiv.org/abs/2309.06955) · [PDF](https://arxiv.org/pdf/2309.06955) |
 | 2023-09-13 | Curriculum-based Sensing Reduction in Simulation to Real-World Transfer for In-hand Manipulation | Lingfeng Tao, Jiucai Zhang, Qiaojie Zheng, Xiaoli Zhang | [Abstract](https://arxiv.org/abs/2309.07350) · [PDF](https://arxiv.org/pdf/2309.07350) |
-| 2023-08-29 | In-hand manipulation planning using human motion dictionary | Ali Hammoud, Valerio Belcamino, Alessandro Carfi, Veronique Perdereau et al. | [Abstract](https://arxiv.org/abs/2308.15153) · [PDF](https://arxiv.org/pdf/2308.15153) |
 
 ---
 

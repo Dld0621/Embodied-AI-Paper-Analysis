@@ -32,7 +32,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Optimizing Multi-Touch Textile and Tactile Skin Sensing Through Circuit Parameter Estimation | ICRA · Tactile | [Paper](https://arxiv.org/abs/2404.15131) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610053) |
 | 2024 | STNet: Spatio-Temporal Fusion-Based SelfAttention for Slip Detection in Visuo-Tactile Sensors | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610734) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610734) |
 | 2024 | 3D Localization of Objects Buried within Granular Material Using a Distributed 3-Axis Tactile Sensor | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS58592.2024.10802276) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802276) |
-| 2024 | Multidirectional slip detection and avoidance using dynamic 3D tactile meshes from visuotactile sensors | IROS · Tactile | [Paper](https://hal.science/hal-05410157v1/file/Peng_Song_IROS2024_v2.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802378) |
+| 2024 | Multidirectional slip detection and avoidance using dynamic 3D tactile meshes from visuotactile sensors | IROS · Tactile | [Paper](https://hal.science/hal-05410157/document) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802378) |
 | 2023 | DenseTact 2.0: Optical Tactile Sensor for Shape and Force Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2209.10122) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161150) |
 | 2023 | RobotSweater: Scalable, Generalizable, and Customizable Machine-Knitted Tactile Skins for Robots | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2303.02858) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161321) |
 
@@ -40,11 +40,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-25 | Robust Slip Detection and Material Classification via Spatiotemporal Transformers on a Uniformly-Illuminated Visuo-Tactile Sensor | Ziyang Ma, Yuhao Sun, Zichen Ai, Xiangyang Ji et al. | [Abstract](https://arxiv.org/abs/2608.24162) · [PDF](https://arxiv.org/pdf/2608.24162) |
 | 2026-08-21 | GhostTac: Manipulating Tactile Sensors without Physical Contact | Kun Wang, Xuancun Lu, Ruochen Zhou, Kai Wang et al. | [Abstract](https://arxiv.org/abs/2608.20817) · [PDF](https://arxiv.org/pdf/2608.20817) |
 | 2026-07-17 | A Model-Based Decoupling Strategy for Proprioception and Contact Sensing in an Architected Soft Manipulator | Francesco Stella, Annan Zhang, Cosimo Della Santina, Josie Hughes et al. | [Abstract](https://arxiv.org/abs/2607.15582) · [PDF](https://arxiv.org/pdf/2607.15582) |
 | 2025-12-24 | Multimodal Sensing for Robot-Assisted Sub-Tissue Feature Detection in Physiotherapy Palpation | Tian-Ao Ren, Jorge Garcia, Seongheon Hong, Jared Grinberg et al. | [Abstract](https://arxiv.org/abs/2512.20992) · [PDF](https://arxiv.org/pdf/2512.20992) |
 | 2025-10-14 | M3D-skin: Multi-material 3D-printed Tactile Sensor with Hierarchical Infill Structures for Pressure Sensing | Shunnosuke Yoshimura, Kento Kawaharazuka, Kei Okada | [Abstract](https://arxiv.org/abs/2510.12419) · [PDF](https://arxiv.org/pdf/2510.12419) |
-| 2025-03-17 | Dual-Channel Tomographic Tactile Skin with Pneumatic Pressure Sensing for Improved Force Estimation | Haofeng Chen, Jiri Kubik, Bedrich Himmel, Matej Hoffmann et al. | [Abstract](https://arxiv.org/abs/2503.13036) · [PDF](https://arxiv.org/pdf/2503.13036) |
 | 2025-03-11 | Bio-Skin: A Cost-Effective Thermostatic Tactile Sensor with Multi-Modal Force and Temperature Detection | Haoran Guo, Haoyang Wang, Zhengxiong Li, Lingfeng Tao | [Abstract](https://arxiv.org/abs/2503.07989) · [PDF](https://arxiv.org/pdf/2503.07989) |
 | 2025-03-02 | Training Tactile Sensors to Learn Force Sensing from Each Other | Zhuo Chen, Ni Ou, Xuyang Zhang, Zhiyuan Wu et al. | [Abstract](https://arxiv.org/abs/2503.01058) · [PDF](https://arxiv.org/pdf/2503.01058) |
 | 2024-10-30 | NUSense: Robust Soft Optical Tactile Sensor | Madina Yergibay, Tleukhan Mussin, Saltanat Seitzhan, Daryn Kenzhebek et al. | [Abstract](https://arxiv.org/abs/2410.23516) · [PDF](https://arxiv.org/pdf/2410.23516) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Balance%2C%20Dynamics%20%26%20Recovery&specialty=Dynamics%2C%20MPC%20%26%20Whole-body%20Optimization#research-workbench)
 
-> 13 conference papers · 52 recent arXiv papers
+> 13 conference papers · 53 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -32,10 +32,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Convex Model Predictive Control of Single Rigid Body Model on SO(3) for Versatile Dynamic Legged Motions | ICRA · Legged | [Paper](https://doi.org/10.1109/icra46639.2022.9811926) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811926) |
 | 2022 | Online Non-linear Centroidal MPC for Humanoid Robot Locomotion with Step Adjustment | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2203.04489) · [Publisher](https://doi.org/10.48550/arXiv.2203.04489) |
 
-## Recent arXiv papers (52)
+## Recent arXiv papers (53)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-24 | Guided Riemannian Optimization (GuRO): Bridging Model Predictive Control and Decision Transformers | Hossein Abdi, Satya Prakash Dash, Mingfei Sun | [Abstract](https://arxiv.org/abs/2608.23204) · [PDF](https://arxiv.org/pdf/2608.23204) |
 | 2026-08-19 | Hybrid Feedback Sampling for Sample-Efficient Model Predictive Control | Chaoyi Pan, Zeji Yi, John Zhang, Zachary Manchester et al. | [Abstract](https://arxiv.org/abs/2608.19443) · [PDF](https://arxiv.org/pdf/2608.19443) |
 | 2026-07-20 | DASH Robot: Minimalistic Design and Optimal Aerial-Terrestrial Locomotion via Contact-Implicit Control | Ryan Gomes Paiva, Conrad Ho, Jiarong Kang, Kunzhao Ren et al. | [Abstract](https://arxiv.org/abs/2607.18527) · [PDF](https://arxiv.org/pdf/2607.18527) |
 | 2026-07-03 | Strouhal-Aware Model Predictive Control for Efficient Multi-Fin Flapping Locomotion | Yuya Hamamatsu, Zixi Chen, Maarja Kruusmaa, Asko Ristolainen | [Abstract](https://arxiv.org/abs/2607.03216) · [PDF](https://arxiv.org/pdf/2607.03216) |

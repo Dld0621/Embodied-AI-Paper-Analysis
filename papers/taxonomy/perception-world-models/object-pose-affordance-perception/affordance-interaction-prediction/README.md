@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Object%2C%20Pose%20%26%20Affordance%20Perception&specialty=Affordance%20%26%20Interaction%20Prediction#research-workbench)
 
-> 30 conference papers · 72 recent arXiv papers
+> 30 conference papers · 71 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -49,7 +49,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | AssistQ: Affordance-centric Question-driven Task Completion for Egocentric Assistant | ECCV · Affordance | [Paper](https://arxiv.org/abs/2203.04203) · [Publisher](https://doi.org/10.48550/arXiv.2203.04203) |
 | 2022 | Affordance Learning from Play for Sample-Efficient Policy Learning | ICRA · Affordance | [Paper](https://arxiv.org/abs/2203.00352) · [Publisher](https://doi.org/10.48550/arXiv.2203.00352) |
 
-## Recent arXiv papers (72)
+## Recent arXiv papers (71)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -75,7 +75,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-04 | GarmentPile++: Affordance-Driven Cluttered Garments Retrieval with Vision-Language Reasoning | Mingleyang Li, Yuran Wang, Yue Chen, Tianxing Chen et al. | [Abstract](https://arxiv.org/abs/2603.04158) · [PDF](https://arxiv.org/pdf/2603.04158) |
 | 2026-02-26 | Relational Appliances: A Robot in the Refrigerator for Home-Based Health Promotion | Timothy Bickmore, Mehdi Arjmand, Yunus Terzioglu | [Abstract](https://arxiv.org/abs/2602.22542) · [PDF](https://arxiv.org/pdf/2602.22542) |
 | 2026-02-16 | Affordance Transfer Across Object Instances via Semantically Anchored Functional Map | Xiaoxiang Dong, Weiming Zhi | [Abstract](https://arxiv.org/abs/2602.14874) · [PDF](https://arxiv.org/pdf/2602.14874) |
-| 2026-02-12 | Affordance-Graphed Task Worlds: Self-Evolving Task Generation for Scalable Embodied Learning | Xiang Liu, Sen Cui, Guocai Yao, Zhong Cao et al. | [Abstract](https://arxiv.org/abs/2602.12065) · [PDF](https://arxiv.org/pdf/2602.12065) |
 | 2026-02-05 | Affordance-Aware Interactive Decision-Making and Execution for Ambiguous Instructions | Hengxuan Xu, Fengbo Lan, Zhixin Zhao, Shengjie Wang et al. | [Abstract](https://arxiv.org/abs/2602.05273) · [PDF](https://arxiv.org/pdf/2602.05273) |
 | 2026-01-28 | TRACER: Texture-Robust Affordance Chain-of-Thought for Deformable-Object Refinement | Wanjun Jia, Kang Li, Fan Yang, Mengfei Duan et al. | [Abstract](https://arxiv.org/abs/2601.20208) · [PDF](https://arxiv.org/pdf/2601.20208) |
 | 2026-01-21 | Explainable OOHRI: Communicating Robot Capabilities and Limitations as Augmented Reality Affordances | Lauren W. Wang, Mohamed Kari, Parastoo Abtahi | [Abstract](https://arxiv.org/abs/2601.14587) · [PDF](https://arxiv.org/pdf/2601.14587) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Manipulation%20Policy%20Learning&specialty=Reinforcement%20%26%20Offline%20RL#research-workbench)
 
-> 55 conference papers · 320 recent arXiv papers
+> 55 conference papers · 323 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -72,12 +72,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Graph-Structured Policy Learning for Multi-Goal Manipulation Tasks | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2207.11313) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981295) |
 | 2022 | How to Spend Your Robot Time: Bridging Kickstarting and Offline Reinforcement Learning for Vision-based Robotic Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2205.03353) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981126) |
 | 2022 | Learning Object Manipulation Skills from Video via Approximate Differentiable Physics | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2208.01960) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982084) |
-| 2022 | Learning to Grasp on the Moon from 3D Octree Observations with Deep Reinforcement Learning | IROS · Grasp | [Paper](https://arxiv.org/pdf/2208.00818) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981661) |
+| 2022 | Learning to Grasp on the Moon from 3D Octree Observations with Deep Reinforcement Learning | IROS · Grasp | [Paper](https://orbilu.uni.lu/handle/10993/51908) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981661) |
 
-## Recent arXiv papers (320)
+## Recent arXiv papers (323)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-27 | Arrive and Survive: Scaling Safe Goal-Conditioned Policy Learning from One-Bit Failure Signals | Guopeng Li, Yiyang Duan, Yiru Jiao, Chengcheng Xu | [Abstract](https://arxiv.org/abs/2608.26571) · [PDF](https://arxiv.org/pdf/2608.26571) |
+| 2026-08-26 | $R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning | Lehong Wu, Yuxiao Qu, Zheyuan Hu, Ivan Zhang et al. | [Abstract](https://arxiv.org/abs/2608.26053) · [PDF](https://arxiv.org/pdf/2608.26053) |
+| 2026-08-22 | CIDER: Continual Interactive Distillation for Embodied Reinforcement Learning | Houlin Li, Minghui Xu, Guo Xu, Xuan Du et al. | [Abstract](https://arxiv.org/abs/2608.21899) · [PDF](https://arxiv.org/pdf/2608.21899) |
 | 2026-08-21 | Decoupling Policy Extraction for Offline Reinforcement Learning | Xuyao Lin, Yixiang Shan, Jinru Duan, Tao Yang et al. | [Abstract](https://arxiv.org/abs/2608.20909) · [PDF](https://arxiv.org/pdf/2608.20909) |
 | 2026-08-21 | Beyond Imitation: Self-Improving Robot Policies via Off-Policy Q-Planning | Varun Giridhar, Anant Khandelwal, Jeremy A. Collins, Ignat Georgiev et al. | [Abstract](https://arxiv.org/abs/2608.21204) · [PDF](https://arxiv.org/pdf/2608.21204) |
 | 2026-08-20 | Learning Hierarchical Skill Policies with Offline Quality-Diversity Reinforcement Learning | Tanachai Anakewat, Takayuki Osa, Tatsuya Harada | [Abstract](https://arxiv.org/abs/2608.19684) · [PDF](https://arxiv.org/pdf/2608.19684) |
@@ -160,7 +163,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-02-04 | ReFORM: Reflected Flows for On-support Offline RL via Noise Manipulation | Songyuan Zhang, Oswin So, H. M. Sabbir Ahmad, Eric Yang Yu et al. | [Abstract](https://arxiv.org/abs/2602.05051) · [PDF](https://arxiv.org/pdf/2602.05051) |
 | 2026-02-03 | AffordanceGrasp-R1:Leveraging Reasoning-Based Affordance Segmentation with Reinforcement Learning for Robotic Grasping | Dingyi Zhou, Mu He, Zhuowei Fang, Xiangtong Yao et al. | [Abstract](https://arxiv.org/abs/2602.03547) · [PDF](https://arxiv.org/pdf/2602.03547) |
 | 2026-02-02 | RFS: Reinforcement Learning with Residual Flow Steering for Dexterous Manipulation | Entong Su, Tyler Westenbroek, Anusha Nagabandi, Abhishek Gupta | [Abstract](https://arxiv.org/abs/2602.01789) · [PDF](https://arxiv.org/pdf/2602.01789) |
-| 2026-01-27 | E2HiL: Entropy-Guided Sample Selection for Efficient Real-World Human-in-the-Loop Reinforcement Learning | Haoyuan Deng, Yuanjiang Xue, Haoyang Du, Boyang Zhou et al. | [Abstract](https://arxiv.org/abs/2601.19969) · [PDF](https://arxiv.org/pdf/2601.19969) |
+| 2026-01-27 | E2HiL: Entropy-Guided Sample Selection for Efficient Real-World Human-in-the-Loop Reinforcement Learning | Haoyuan Deng, Yudong Lin, Yuanjiang Xue, Haoyang Du et al. | [Abstract](https://arxiv.org/abs/2601.19969) · [PDF](https://arxiv.org/pdf/2601.19969) |
 | 2026-01-25 | Energy-Aware Reinforcement Learning for Robotic Manipulation of Articulated Components in Infrastructure Operation and Maintenance | Xiaowen Tao, Yinuo Wang, Haitao Ding, Yuanyang Qi et al. | [Abstract](https://arxiv.org/abs/2602.12288) · [PDF](https://arxiv.org/pdf/2602.12288) |
 | 2026-01-22 | A Mobile Magnetic Manipulation Platform for Gastrointestinal Navigation with Deep Reinforcement Learning Control | Zhifan Yan, Chang Liu, Yiyang Jiang, Wenxuan Zheng et al. | [Abstract](https://arxiv.org/abs/2601.15545) · [PDF](https://arxiv.org/pdf/2601.15545) |
 | 2026-01-12 | Failure-Aware RL: Reliable Offline-to-Online Reinforcement Learning with Self-Recovery for Real-World Manipulation | Huanyu Li, Kun Lei, Sheng Zang, Kaizhe Hu et al. | [Abstract](https://arxiv.org/abs/2601.07821) · [PDF](https://arxiv.org/pdf/2601.07821) |

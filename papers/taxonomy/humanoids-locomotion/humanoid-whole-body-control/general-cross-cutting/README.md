@@ -118,7 +118,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | A new gripper that acts as an active and passive joint to facilitate prehensile grasping and locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9981475) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981475) |
 | 2022 | A Novel Wire-driven 3D Eyebrow Design for Communication with Humanoid Robot iCub | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9981954) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981954) |
 | 2022 | A Whole-Body Controller Based on a Simplified Template for Rendering Impedances in Quadruped Manipulators | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2208.00810) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981895) |
-| 2022 | Automatic Tuning and Selection of Whole-Body Controllers | IROS · Whole Body | [Paper](https://repository.tudelft.nl/file/File_1aab6cc0-6fbd-4f42-aa22-7c5cccd9daea) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981058) |
+| 2022 | Automatic Tuning and Selection of Whole-Body Controllers | IROS · Whole Body | [Paper](https://hal.science/hal-03740361) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981058) |
 | 2022 | Bioinspired Antagonist-agonist Artificial Muscles for Humanoid Eyeball Motions | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9982226) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982226) |
 | 2022 | Comparison of EKF-Based Floating Base Estimators for Humanoid Robots with Flat Feet | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9982275) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982275) |
 | 2022 | Distributed Coach-Based Reinforcement Learning Controller for Snake Robot Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9981749) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981749) |
@@ -135,6 +135,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-28 | PAMoR: Parameterized Affective Motion Generation in Real Time for Humanoid Robots | Yan Pan, Lingfan Bao, Tianhu Peng, Chengxu Zhou | [Abstract](https://arxiv.org/abs/2608.28213) · [PDF](https://arxiv.org/pdf/2608.28213) |
 | 2026-08-20 | Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking | Tao Huang, Ruofei Liu, Xuchen Tang, Xinyin Zhang et al. | [Abstract](https://arxiv.org/abs/2608.20087) · [PDF](https://arxiv.org/pdf/2608.20087) |
 | 2026-08-20 | Humanoid Musical Robots as Experimental Interfaces for Music-Evoked Emotion | Vincent K. M. Cheung, Jia-Yeu Lin | [Abstract](https://arxiv.org/abs/2608.20433) · [PDF](https://arxiv.org/pdf/2608.20433) |
 | 2026-08-18 | HODAgent: Towards On-Demand, Responsive Humanoids for Physical World Human Interaction | Wang Warren Chen, Jiahao Zhang, Zhenjiang Li, Mingxu Wang et al. | [Abstract](https://arxiv.org/abs/2608.17584) · [PDF](https://arxiv.org/pdf/2608.17584) |
@@ -739,7 +740,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-07 | An anthropomorphic continuum robotic neck actuated by SMA spring-based multipennate muscle architecture | Ratnangshu Das, Yashaswi Sinha, Anirudha Bhattacharjee, Bishakh Bhattacharya | [Abstract](https://arxiv.org/abs/2309.03683) · [PDF](https://arxiv.org/pdf/2309.03683) |
 | 2023-09-06 | Can empathy affect the attribution of mental states to robots? | Cristina Gena, Francesca Manini, Antonio Lieto, Alberto Lillo et al. | [Abstract](https://arxiv.org/abs/2309.02897) · [PDF](https://arxiv.org/pdf/2309.02897) |
 | 2023-08-31 | Foundational Policy Acquisition via Multitask Learning for Motor Skill Generation | Satoshi Yamamori, Jun Morimoto | [Abstract](https://arxiv.org/abs/2308.16471) · [PDF](https://arxiv.org/pdf/2308.16471) |
-| 2023-08-25 | iCub Detecting Gazed Objects: A Pipeline Estimating Human Attention | Shiva Hanifi, Elisa Maiettini, Maria Lombardi, Lorenzo Natale | [Abstract](https://arxiv.org/abs/2308.13318) · [PDF](https://arxiv.org/pdf/2308.13318) |
 
 ---
 

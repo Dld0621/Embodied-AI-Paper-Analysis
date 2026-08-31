@@ -2,10 +2,34 @@
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 558 papers · complete list for this taxonomy leaf
+> 583 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-28 | STEGNav: Spatio-Temporal Event Graph Reasoning for Multimodal Lifelong Object Navigation | Yang Chen, Zhenyu Huang, Wenbo Fu, Danyang Peng et al. | [Abstract](https://arxiv.org/abs/2608.28279) · [PDF](https://arxiv.org/pdf/2608.28279) |
+| 2026-08-28 | CAVE-NAV: VLM-Based Autonomous 3D Navigation in Underwater Cave Environments | Zhenqi Wu, Yuanjie Lu, Yisheng Zhang, Miao Yu et al. | [Abstract](https://arxiv.org/abs/2608.27793) · [PDF](https://arxiv.org/pdf/2608.27793) |
+| 2026-08-27 | RTNav: Towards Real-Time Zero-Shot Object Navigation | Easop Lee, Lingyu Zhang, Boyuan Chen | [Abstract](https://arxiv.org/abs/2608.26496) · [PDF](https://arxiv.org/pdf/2608.26496) |
+| 2026-08-27 | Pass the Bucket: Efficient, Robust, Local Load Balancing for Teams of Heterogeneous Robots | Tobias Wallner, Dominik Krupke, Arne Schmidt, Sándor P. Fekete | [Abstract](https://arxiv.org/abs/2608.27085) · [PDF](https://arxiv.org/pdf/2608.27085) |
+| 2026-08-27 | Online Joint Calibration of Steering Offset and Planar LiDAR Extrinsics for Wheeled Mobile Robots | Subodh Mishra, Arindam Dhar, Suprotim Majumdar, Naveen Arulselvan | [Abstract](https://arxiv.org/abs/2608.26789) · [PDF](https://arxiv.org/pdf/2608.26789) |
+| 2026-08-27 | One year in a forest: Analyzing the challenges of autonomous navigation in subarctic environments | Matěj Boxan, Nicolas Lauzon, Veronica Vannini, Mathis Turgeon-Roy et al. | [Abstract](https://arxiv.org/abs/2608.27628) · [PDF](https://arxiv.org/pdf/2608.27628) |
+| 2026-08-27 | Coordinated Motion Planning for Multi-Arm Systems via Iterative LQ Games | Junyoung Kim, Hanwen Ren, Lei Zhang, Ahmed H. Qureshi | [Abstract](https://arxiv.org/abs/2608.27726) · [PDF](https://arxiv.org/pdf/2608.27726) |
+| 2026-08-27 | Beyond the Proving Ground: Independent Public-Road Testing of Assisted Lane Change Systems using LiDAR | Marcello Cellina, Akos Kriston, Antonio Migneco, Davide Maggi et al. | [Abstract](https://arxiv.org/abs/2608.26669) · [PDF](https://arxiv.org/pdf/2608.26669) |
+| 2026-08-27 | Active sensing to characterize the heterogeneity of plant stress | Ayman Laaroussi, Peter Hanappe, David Colliaux | [Abstract](https://arxiv.org/abs/2608.27088) · [PDF](https://arxiv.org/pdf/2608.27088) |
+| 2026-08-26 | When Obstacles Bend: Modeling Vegetation Deformation in the context of Field Robotics | Zaar Khizar, Tom Montagnon, Roland Lenain, Romuald Aufrère et al. | [Abstract](https://arxiv.org/abs/2608.26050) · [PDF](https://arxiv.org/pdf/2608.26050) |
+| 2026-08-26 | VirTooS: A ROS 2 - Unity Virtualization Toolkit for Fleet Management of Autonomous Mobile Robots | Andrea Drudi, Lorenzo Pichierri, Andrea Testa, Giuseppe Notarstefano | [Abstract](https://arxiv.org/abs/2608.26066) · [PDF](https://arxiv.org/pdf/2608.26066) |
+| 2026-08-26 | SonicNudge: Controlled Displacement of Hovering UAVs via Estimator-Controller Coupling | Shaocheng Luo, Ashir Raza, Haocheng Meng, David Hunt et al. | [Abstract](https://arxiv.org/abs/2608.25319) · [PDF](https://arxiv.org/pdf/2608.25319) |
+| 2026-08-26 | DESCENT: Directed Edge Scene Encoding for Airport Surface Movement Prediction | Alexander Prutsch, David Schinagl, Horst Possegger | [Abstract](https://arxiv.org/abs/2608.26002) · [PDF](https://arxiv.org/pdf/2608.26002) |
+| 2026-08-26 | Advantage-Driven Explicit Memory for Social Navigation | Yeonsoo Park, Mattia Racca, Guillaume Bono, Steeven Janny et al. | [Abstract](https://arxiv.org/abs/2608.25610) · [PDF](https://arxiv.org/pdf/2608.25610) |
+| 2026-08-25 | VIP: Variation-based Iterative-learning Planning for Robotic Navigation | Shuli Lv, Pengda Mao, Chen Min, Li Hong et al. | [Abstract](https://arxiv.org/abs/2608.24618) · [PDF](https://arxiv.org/pdf/2608.24618) |
+| 2026-08-25 | NeurRAFT: Robot Motion Planning via Anchor-Level Flow Matching with Clearance-Aware Preference Tuning | Sibo Tian, Chang Liu, Minghui Zheng, Xiao Liang | [Abstract](https://arxiv.org/abs/2608.24026) · [PDF](https://arxiv.org/pdf/2608.24026) |
+| 2026-08-24 | Reward-Free Continual Adaptation for Resilient Space Robots | Andrej Orsula, Miguel Olivares-Mendez, Carol Martinez | [Abstract](https://arxiv.org/abs/2608.23452) · [PDF](https://arxiv.org/pdf/2608.23452) |
+| 2026-08-24 | Resilience Matters for Embodied Agents System: New Metrics, Systematic Evaluation, and Optimization | Yapeng Liu, Yuanzhao Zhai, Xudong Gong, Dawei Feng et al. | [Abstract](https://arxiv.org/abs/2608.23839) · [PDF](https://arxiv.org/pdf/2608.23839) |
+| 2026-08-24 | Privileged Critic Training Enables Sensor-Free Thruster Fault Adaptation in End-to-End RL | Ricard Marsal I Castan, Miguel A. Olivares-Méndez | [Abstract](https://arxiv.org/abs/2608.22976) · [PDF](https://arxiv.org/pdf/2608.22976) |
+| 2026-08-24 | Macro-Action Topological Navigation under Noisy Localization using Reinforcement Learning | Simon Hakenes, Tobias Glasmachers | [Abstract](https://arxiv.org/abs/2608.23055) · [PDF](https://arxiv.org/pdf/2608.23055) |
+| 2026-08-23 | TONAV: Task-Oriented Navigation and Action-Velocity Chunk Learning for Articulated Object Quadrupedal Mobile Manipulation | Haoran Lin, Mingyu Yang, Pengfei Qi, Kehan Chen et al. | [Abstract](https://arxiv.org/abs/2608.22296) · [PDF](https://arxiv.org/pdf/2608.22296) |
+| 2026-08-23 | Macro-Operator Generation and Predicate Selection for TAMP Operator Learning | Can Emir Bora, Emre Ugur | [Abstract](https://arxiv.org/abs/2608.23629) · [PDF](https://arxiv.org/pdf/2608.23629) |
+| 2026-08-23 | A Unified Neural-Aided Alignment and Calibration Method for AUVs | Guy Damari, Zeev Yampolsky, Itzik Klein | [Abstract](https://arxiv.org/abs/2608.22496) · [PDF](https://arxiv.org/pdf/2608.22496) |
+| 2026-08-21 | In-Situ Reconstruction of the International Space Station Using 3D Gaussian Splatting and Astrobee | Hudson Kim, Ryan Soussan, Brian Coltin, Jordan Kam | [Abstract](https://arxiv.org/abs/2608.21685) · [PDF](https://arxiv.org/pdf/2608.21685) |
 | 2026-08-20 | SafeBranch: Branch-Pair Safety Alignment for Embodied Agents | Hyunse Lee, Jiwoo Jeong, Haneul Lee, Kyochul Jang et al. | [Abstract](https://arxiv.org/abs/2608.19729) · [PDF](https://arxiv.org/pdf/2608.19729) |
 | 2026-08-19 | When Automata Meet Streams: Temporal Logic Compilation for Stream-Based Robotics Task and Motion Planning | Sayem Nazmuz Zaman, Cyrus Neary | [Abstract](https://arxiv.org/abs/2608.19453) · [PDF](https://arxiv.org/pdf/2608.19453) |
 | 2026-08-19 | Autonomous Agricultural Tractor: Integrated Weed Detection and LiDAR Navigation for Precision Paddy Farming | Benjamin Merryman-Smith, Tony Nguyen, Bilal Dogutas, Krish Shah et al. | [Abstract](https://arxiv.org/abs/2608.19004) · [PDF](https://arxiv.org/pdf/2608.19004) |
@@ -46,6 +70,7 @@
 | 2026-08-03 | TravKAN: Fast and Interpretable Nonlinear Traversability Analysis with Kolmogorov-Arnold Networks | Daniel Fusaro, Simone Mosco, Wanmeng Li, Alberto Pretto | [Abstract](https://arxiv.org/abs/2608.02320) · [PDF](https://arxiv.org/pdf/2608.02320) |
 | 2026-08-03 | Towards the Harness of Embodied Agents | Qi Wang, Tianyi Wang, Chengyang Li, Shikun Ban et al. | [Abstract](https://arxiv.org/abs/2608.11246) · [PDF](https://arxiv.org/pdf/2608.11246) |
 | 2026-08-03 | The Field Knows: Cross-Dimensional Geometry from Navigation to Black Holes | Chenghao Xu | [Abstract](https://arxiv.org/abs/2608.07566) · [PDF](https://arxiv.org/pdf/2608.07566) |
+| 2026-08-03 | ODG-NoMaD: Overhead-Camera Direction-Guided NoMaD | Blossom Treesa Bastian, Keerthi S. Shetty, Manish Kolachalam, Rani Malhotra et al. | [Abstract](https://arxiv.org/abs/2608.21395) · [PDF](https://arxiv.org/pdf/2608.21395) |
 | 2026-08-03 | A Forward-Inverse Dynamic Game Framework for Enhanced Multi-Agent Trajectory Planning | Tianle Liu, Youcheng Niu, Jing Zeng, Shuo Li et al. | [Abstract](https://arxiv.org/abs/2608.01636) · [PDF](https://arxiv.org/pdf/2608.01636) |
 | 2026-08-02 | When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents | Shuaijun Liu, Feiyang You, Xingwei Chen, Ningxin Su | [Abstract](https://arxiv.org/abs/2608.01428) · [PDF](https://arxiv.org/pdf/2608.01428) |
 | 2026-08-02 | PRISM: Privileged Probabilistic Latent Supervision for End-to-End Autonomous Driving Motion Planning | Volodymyr Havrylov, Faris Janjoš, Andreas Look, Jürgen Mathes et al. | [Abstract](https://arxiv.org/abs/2608.01201) · [PDF](https://arxiv.org/pdf/2608.01201) |

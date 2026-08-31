@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Memory%20%26%20World%20Knowledge&specialty=World-Action%20%26%20Predictive%20Models#research-workbench)
 
-> 1 conference papers · 51 recent arXiv papers
+> 1 conference papers · 55 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | Latent Action Pretraining from Videos | ICLR · Learning from video | [Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/45d74e190008c7bff2845ffc8e3facd3-Abstract-Conference.html) · [Official](https://proceedings.iclr.cc/paper_files/paper/2025/hash/45d74e190008c7bff2845ffc8e3facd3-Abstract-Conference.html) |
 
-## Recent arXiv papers (51)
+## Recent arXiv papers (55)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-27 | Riemann-1.0: An Embodied World Action Model for Physical AI | Haofeng Sun, Jiangbo Pei, Fei Kang, Zexiang Liu et al. | [Abstract](https://arxiv.org/abs/2608.27033) · [PDF](https://arxiv.org/pdf/2608.27033) |
+| 2026-08-25 | Latent Action as Intention Enables Efficient Future Imagination for World Action Models | Xiang Li, Yupeng Zheng, Songen Gu, Huailiang Ma et al. | [Abstract](https://arxiv.org/abs/2608.24882) · [PDF](https://arxiv.org/pdf/2608.24882) |
+| 2026-08-24 | GeoWAM: Visual Geometry World Action Models for Autonomous Driving | Yiren Lu, Xin Ye, Jiaming Liu, Philip Jacobson et al. | [Abstract](https://arxiv.org/abs/2608.23486) · [PDF](https://arxiv.org/pdf/2608.23486) |
+| 2026-08-23 | WAM-OPD: On-Policy Distillation for World Action Models | Liuhaichen Yang, Zhuang Jiang, Chenchao Sheng, Zezhi Tang | [Abstract](https://arxiv.org/abs/2608.22364) · [PDF](https://arxiv.org/pdf/2608.22364) |
 | 2026-08-21 | ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulation | Siyuan Ma, Yutian Zhang, Boshi Zhang, Qinglian Wu et al. | [Abstract](https://arxiv.org/abs/2608.20735) · [PDF](https://arxiv.org/pdf/2608.20735) |
 | 2026-08-11 | StageWAM: Joint-Embedding Stage Prediction for World-Action Models in Robot Manipulation | Xiao Liu, Yuguang Yang, Xi Wang, Kai Jiang et al. | [Abstract](https://arxiv.org/abs/2608.10780) · [PDF](https://arxiv.org/pdf/2608.10780) |
 | 2026-08-11 | Flex-$π$: A Multi-Stream World-Action Model with Compute Flexibility | Ge Yan, Jinghao Liu, Yuzhi Fan, Lei Cai et al. | [Abstract](https://arxiv.org/abs/2608.10860) · [PDF](https://arxiv.org/pdf/2608.10860) |

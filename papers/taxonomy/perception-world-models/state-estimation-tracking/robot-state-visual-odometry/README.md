@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=State%20Estimation%20%26%20Tracking&specialty=Robot%20State%20%26%20Visual%20Odometry#research-workbench)
 
-> 10 conference papers · 76 recent arXiv papers
+> 10 conference papers · 74 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,7 +29,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Enhancing State Estimation in Robots: A Data-Driven Approach with Differentiable Ensemble Kalman Filters | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2308.09870) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341617) |
 | 2022 | GPS-Denied Global Visual-Inertial Ground Vehicle State Estimation via Image Registration | ICRA · State Estimation | [Paper](https://doi.org/10.1109/icra46639.2022.9812364) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812364) |
 
-## Recent arXiv papers (76)
+## Recent arXiv papers (74)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -40,7 +40,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-05-21 | Decoupling Ego-Motion from Target Dynamics via Dual-Interval Motion Cues for UAV Detection | Liuyang Wang, Feitian Zhang | [Abstract](https://arxiv.org/abs/2605.22605) · [PDF](https://arxiv.org/pdf/2605.22605) |
 | 2026-05-17 | MUSE: Multimodal Uncertainty Quantification of State Estimation | Minkyung Kim, Henry Che, Bhargav Chandaka, Bhumsitt Pramuanpornsatid et al. | [Abstract](https://arxiv.org/abs/2605.17421) · [PDF](https://arxiv.org/pdf/2605.17421) |
 | 2026-04-21 | Radar Odometry Subject to High Tilt Dynamics of Subarctic Environments | Matěj Boxan, William Larrivée-Hardy, François Pomerleau | [Abstract](https://arxiv.org/abs/2604.19962) · [PDF](https://arxiv.org/pdf/2604.19962) |
-| 2026-04-15 | UNRIO: Uncertainty-Aware Velocity Learning for Radar-Inertial Odometry | Jui-Te Huang, Tinashu Huang, Anthony Rowe, Michael Kaess | [Abstract](https://arxiv.org/abs/2604.13584) · [PDF](https://arxiv.org/pdf/2604.13584) |
 | 2026-04-13 | 3DRO: Lidar-level SE(3) Direct Radar Odometry Using a 2D Imaging Radar and a Gyroscope | Cedric Le Gentil, Daniil Lisus, Timothy D. Barfoot | [Abstract](https://arxiv.org/abs/2604.12027) · [PDF](https://arxiv.org/pdf/2604.12027) |
 | 2026-04-11 | Natural Gradient Gaussian Approximation Filter on Lie Groups for Robot State Estimation | Tianyi Zhang, Wenhan Cao, Chang Liu, Yao Lyu et al. | [Abstract](https://arxiv.org/abs/2604.10057) · [PDF](https://arxiv.org/pdf/2604.10057) |
 | 2026-04-05 | DINO-VO: Learning Where to Focus for Enhanced State Estimation | Qi Chen, Guanghao Li, Sijia Hu, Xin Gao et al. | [Abstract](https://arxiv.org/abs/2604.04055) · [PDF](https://arxiv.org/pdf/2604.04055) |
@@ -108,7 +107,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-18 | Learning Covariances for Estimation with Constrained Bilevel Optimization | Mohamad Qadri, Zachary Manchester, Michael Kaess | [Abstract](https://arxiv.org/abs/2309.09718) · [PDF](https://arxiv.org/pdf/2309.09718) |
 | 2023-09-10 | Certified Vision-based State Estimation for Autonomous Landing Systems using Reachability Analysis | Ulices Santa Cruz Leal, Yasser Shoukry | [Abstract](https://arxiv.org/abs/2309.05167) · [PDF](https://arxiv.org/pdf/2309.05167) |
 | 2023-09-05 | Learning Observation Models with Incremental Non-Differentiable Graph Optimizers in the Loop for Robotics State Estimation | Mohamad Qadri, Michael Kaess | [Abstract](https://arxiv.org/abs/2309.02525) · [PDF](https://arxiv.org/pdf/2309.02525) |
-| 2023-08-29 | GPS-aided Visual Wheel Odometry | Junlin Song, Pedro J. Sanchez-Cuevas, Antoine Richard, Miguel Olivares-Mendez | [Abstract](https://arxiv.org/abs/2308.15133) · [PDF](https://arxiv.org/pdf/2308.15133) |
 
 ---
 

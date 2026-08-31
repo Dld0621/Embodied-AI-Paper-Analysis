@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=State%20Estimation%20%26%20Tracking&specialty=Object%20%26%20Multi-target%20Tracking#research-workbench)
 
-> 1 conference papers · 82 recent arXiv papers
+> 1 conference papers · 81 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,7 +20,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | Stretchable and High-Precision Optical Tactile Sensor for Trajectory Tracking of Parallel Mechanisms | IROS · Tactile | [Paper](https://arxiv.org/abs/2512.20888) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246642) |
 
-## Recent arXiv papers (82)
+## Recent arXiv papers (81)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -105,7 +105,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-06 | Obstacle- and Occlusion-Responsive Visual Tracking Control for Redundant Manipulators using Reachability Measure | Mincheul Kang, Junhyoung Ha | [Abstract](https://arxiv.org/abs/2311.03029) · [PDF](https://arxiv.org/pdf/2311.03029) |
 | 2023-10-12 | Multi-Modal Sensor Fusion and Object Tracking for Autonomous Racing | Phillip Karle, Felix Fent, Sebastian Huch, Florian Sauerbeck et al. | [Abstract](https://arxiv.org/abs/2310.08114) · [PDF](https://arxiv.org/pdf/2310.08114) |
 | 2023-09-13 | Transparent Object Tracking with Enhanced Fusion Module | Kalyan Garigapati, Erik Blasch, Jie Wei, Haibin Ling | [Abstract](https://arxiv.org/abs/2309.06701) · [PDF](https://arxiv.org/pdf/2309.06701) |
-| 2023-08-27 | End-to-end Autonomous Driving using Deep Learning: A Systematic Review | Apoorv Singh | [Abstract](https://arxiv.org/abs/2311.18636) · [PDF](https://arxiv.org/pdf/2311.18636) |
 
 ---
 

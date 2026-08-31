@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Active%20%26%20Multiview%20Perception&specialty=Active%20Perception%20%26%20Information%20Gathering#research-workbench)
 
-> 7 conference papers · 25 recent arXiv papers
+> 8 conference papers · 25 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,11 +14,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (7)
+## Conference papers (8)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2026 | SaPaVe: Towards Active Perception and Manipulation in Vision-Language Action Models for Robotics | CVPR · Active perception | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_SaPaVe_Towards_Active_Perception_and_Manipulation_in_Vision-Language_Action_Models_CVPR_2026_paper.html) · [Official](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_SaPaVe_Towards_Active_Perception_and_Manipulation_in_Vision-Language_Action_Models_CVPR_2026_paper.html) |
+| 2025 | An Active Perception Game for Robust Information Gathering | ICRA · Active Perception | [Paper](https://arxiv.org/abs/2404.00769) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128798) |
 | 2025 | Heterogeneous Sensor Fusion and Active Perception for Transparent Object Reconstruction with a PDM2 Sensor and a Camera | ICRA · Active Perception | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128748) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128748) |
 | 2025 | Learning to Double Guess: An Active Perception Approach for Estimating the Center of Mass of Arbitrary Objects | ICRA · Active Perception | [Paper](https://arxiv.org/abs/2502.02663) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127607) |
 | 2024 | Perceptual Factors for Environmental Modeling in Robotic Active Perception | ICRA · Active Perception | [Paper](https://arxiv.org/abs/2309.10620) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611380) |

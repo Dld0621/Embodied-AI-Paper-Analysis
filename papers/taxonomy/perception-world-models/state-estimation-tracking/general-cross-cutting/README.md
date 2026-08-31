@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=State%20Estimation%20%26%20Tracking&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 14 conference papers · 110 recent arXiv papers
+> 14 conference papers · 112 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,10 +33,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | STEADY: Simultaneous State Estimation and Dynamics Learning from Indirect Observations | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2203.01299) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981279) |
 | 2022 | The Uncertainty Aware Salted Kalman Filter: State Estimation for Hybrid Systems with Uncertain Guards | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2202.12729) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981218) |
 
-## Recent arXiv papers (110)
+## Recent arXiv papers (112)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-26 | Transient multimode heat transfer of an industrial automated tape laying process under rapidly changing conditions | Bernhard Rameder, Hubert Gattringer, Andreas Müller, Ronald Naderer | [Abstract](https://arxiv.org/abs/2608.25470) · [PDF](https://arxiv.org/pdf/2608.25470) |
+| 2026-08-26 | Phantom Navigator: Stealthy and Precise Unmanned Aerial Vehicle Redirection with Real-Time Tracking and GPS Spoofing | Haocheng Meng, Shaocheng Luo, Songqiao Xie, Miroslav Pajic | [Abstract](https://arxiv.org/abs/2608.26011) · [PDF](https://arxiv.org/pdf/2608.26011) |
 | 2026-08-11 | Nonlinear Model Predictive Control via Sequential Convex Programming for Drone-to-Drone Docking | Neeraj Balachandar, Shriram Hari, Vishnu R. Unni | [Abstract](https://arxiv.org/abs/2608.10542) · [PDF](https://arxiv.org/pdf/2608.10542) |
 | 2026-08-05 | Sliding Sensors: Configurable Confidence in State Estimation for Continuum Robots | Ella Walsh, Spencer Teetaert, Eric Diller, Timothy D. Barfoot et al. | [Abstract](https://arxiv.org/abs/2608.05410) · [PDF](https://arxiv.org/pdf/2608.05410) |
 | 2026-07-28 | Tripody: An Overconstrained 3-SPR-like Parallel Robot for High-Reach Construction Tasks | Julien Kindle, Jakub Raczy, Riccardo Balbi, Andrea Alessandretti et al. | [Abstract](https://arxiv.org/abs/2607.25781) · [PDF](https://arxiv.org/pdf/2607.25781) |

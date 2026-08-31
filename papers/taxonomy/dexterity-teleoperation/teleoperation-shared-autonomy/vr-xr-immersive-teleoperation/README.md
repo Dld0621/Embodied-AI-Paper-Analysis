@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Autonomy&specialty=VR%2C%20XR%20%26%20Immersive%20Teleoperation#research-workbench)
 
-> 13 conference papers · 43 recent arXiv papers
+> 13 conference papers · 44 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -32,10 +32,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Orbital Head-Mounted Display: A Novel Interface for Viewpoint Control during Robot Teleoperation in Cluttered Environments | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS55552.2023.10341733) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341733) |
 | 2022 | Tactile Classification of Object Materials for Virtual Reality based Robot Teleoperation | ICRA · Teleoperation | [Paper](https://hal.archives-ouvertes.fr/hal-03644224/file/Tactile%20Classification%20of%20Object%20Materialsfor%20Virtual%20Reality%20based%20Robot%20Teleoperation.pdf) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811825) |
 
-## Recent arXiv papers (43)
+## Recent arXiv papers (44)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-27 | Remote Human and Robot Interaction for Greenhouse Gardening Using Virtual Reality | Daniel Udekwe, Hasan Seyyedhasani | [Abstract](https://arxiv.org/abs/2608.27545) · [PDF](https://arxiv.org/pdf/2608.27545) |
 | 2026-08-10 | Intuitive Directional Sense Presentation to the Torso Using McKibben-Based Surface Haptic Sensation in Immersive Space | Kenta Yokoe, Tadayoshi Aoyama, Yuki Funabora, Masaru Takeuchi et al. | [Abstract](https://arxiv.org/abs/2608.09177) · [PDF](https://arxiv.org/pdf/2608.09177) |
 | 2026-06-06 | Cybernetic Android Avatar "Yui": System Integration, Field Deployment, and Evaluation | Kaoruko Shinkawa, Mizuki Nakajima, Taisei Mogi, Yoshihiro Nakata | [Abstract](https://arxiv.org/abs/2606.08099) · [PDF](https://arxiv.org/pdf/2606.08099) |
 | 2026-06-05 | A Multi-Operator Mixed-Reality Interface for Multi-Robot Control and Coordination: Co-Located and Private Workspace Collaboration | Omotoye Shamsudeen Adekoya, Antonio Sgorbissa, Carmine Tommaso Recchiuto | [Abstract](https://arxiv.org/abs/2606.07013) · [PDF](https://arxiv.org/pdf/2606.07013) |

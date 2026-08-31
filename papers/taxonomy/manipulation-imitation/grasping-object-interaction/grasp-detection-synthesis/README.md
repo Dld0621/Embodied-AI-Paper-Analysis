@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Grasping%20%26%20Object%20Interaction&specialty=Grasp%20Detection%20%26%20Synthesis#research-workbench)
 
-> 79 conference papers · 168 recent arXiv papers
+> 79 conference papers · 169 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -98,10 +98,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | On the Importance of Label Encoding and Uncertainty Estimation for Robotic Grasp Detection | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9981866) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981866) |
 | 2022 | Sample Efficient Grasp Learning Using Equivariant Models | RSS · Grasp | [Paper](https://doi.org/10.15607/rss.2022.xviii.071) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.071) |
 
-## Recent arXiv papers (168)
+## Recent arXiv papers (169)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-26 | Fast Generative Grasping via Lie Group-Constrained MeanFlow | S. Talha Bukhari, Yi Wei, Ruiqi Ni, Zachary Kingston et al. | [Abstract](https://arxiv.org/abs/2608.26076) · [PDF](https://arxiv.org/pdf/2608.26076) |
 | 2026-08-20 | CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical Workspace Learning | Julien Merand, Boris Meden, Liming Chen, Mathieu Grossard | [Abstract](https://arxiv.org/abs/2608.19776) · [PDF](https://arxiv.org/pdf/2608.19776) |
 | 2026-08-19 | PartialBiGrasp: Inferring Hidden Local Geometry for Bimanual Grasping from Partial Views | Ayush Kaura, Vignesh Vembar, Md Faizal Karim, Keshab Patra et al. | [Abstract](https://arxiv.org/abs/2608.19188) · [PDF](https://arxiv.org/pdf/2608.19188) |
 | 2026-08-18 | Iterative Grasp Pose Refinement: A Deep Reinforcement Learning Approach for 2D Vision | Amir Arsalan Nematollahi, Shayan Ahmadi, Mehdi Tale Masouleh, Ahmad Kalhor | [Abstract](https://arxiv.org/abs/2608.17628) · [PDF](https://arxiv.org/pdf/2608.17628) |

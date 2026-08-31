@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=World%20%26%20Dynamics%20Models&specialty=Video%20%26%20Future%20Prediction#research-workbench)
 
-> 1 conference papers · 3 recent arXiv papers
+> 1 conference papers · 4 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations | ICML · Visual Representation | [Paper](https://arxiv.org/abs/2412.14803) · [Publisher](https://doi.org/10.48550/arXiv.2412.14803) |
 
-## Recent arXiv papers (3)
+## Recent arXiv papers (4)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-28 | AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction | Yafei Zhang, Nan Wu | [Abstract](https://arxiv.org/abs/2608.28491) · [PDF](https://arxiv.org/pdf/2608.28491) |
 | 2026-05-29 | IDOL: Inverse-Dynamics-Guided Future Prediction for End-to-End Autonomous Driving | Chenghao Zhang, Timin Li, Dongmei Li | [Abstract](https://arxiv.org/abs/2605.31476) · [PDF](https://arxiv.org/pdf/2605.31476) |
 | 2024-06-11 | Visual Representation Learning with Stochastic Frame Prediction | Huiwon Jang, Dongyoung Kim, Junsu Kim, Jinwoo Shin et al. | [Abstract](https://arxiv.org/abs/2406.07398) · [PDF](https://arxiv.org/pdf/2406.07398) |
 | 2024-03-08 | Spatiotemporal Predictive Pre-training for Robotic Motor Control | Jiange Yang, Bei Liu, Jianlong Fu, Bocheng Pan et al. | [Abstract](https://arxiv.org/abs/2403.05304) · [PDF](https://arxiv.org/pdf/2403.05304) |

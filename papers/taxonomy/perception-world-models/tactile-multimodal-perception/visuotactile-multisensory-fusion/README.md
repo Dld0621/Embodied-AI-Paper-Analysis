@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Visuotactile%20%26%20Multisensory%20Fusion#research-workbench)
 
-> 12 conference papers · 34 recent arXiv papers
+> 12 conference papers · 35 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -31,10 +31,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Learning-based Six-axis Force/Torque Estimation Using GelStereo Fingertip Visuotactile Sensing | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS47612.2022.9981100) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981100) |
 | 2022 | Visual-Tactile Multimodality for Following Deformable Linear Objects Using Reinforcement Learning | IROS · Tactile | [Paper](https://arxiv.org/pdf/2204.00117) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982218) |
 
-## Recent arXiv papers (34)
+## Recent arXiv papers (35)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-22 | An Interpretable Deep Learning Framework for Material Perception and Classification from Multisensory Tactile Data | Li Zou, Dave Hogendoorn, Yasemin Vardar | [Abstract](https://arxiv.org/abs/2608.21894) · [PDF](https://arxiv.org/pdf/2608.21894) |
 | 2026-08-06 | Near-sensor Computing for Rapid Visuotactile Perception | Zhengying Zhu, Ruilin Zhang, Runze Hu, Chenxi Xiao | [Abstract](https://arxiv.org/abs/2608.05725) · [PDF](https://arxiv.org/pdf/2608.05725) |
 | 2026-07-17 | VTLoc: Learning-based Tactile Contact Localization in Visual Point Clouds | Zhiyuan Wu, Zhuo Chen, Shan Luo | [Abstract](https://arxiv.org/abs/2607.16146) · [PDF](https://arxiv.org/pdf/2607.16146) |
 | 2026-07-17 | Scalable Open-Source Visuotactile Sensor for 6-Axis Contact Wrench Estimation in Tensegrity Robots | Wenzhe Tong, Jonathan Mi, Xili Yi, Nima Fazeli et al. | [Abstract](https://arxiv.org/abs/2607.15633) · [PDF](https://arxiv.org/pdf/2607.15633) |

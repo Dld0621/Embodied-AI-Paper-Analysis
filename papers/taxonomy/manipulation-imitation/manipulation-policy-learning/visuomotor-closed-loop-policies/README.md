@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Manipulation%20Policy%20Learning&specialty=Visuomotor%20%26%20Closed-loop%20Policies#research-workbench)
 
-> 25 conference papers · 238 recent arXiv papers
+> 25 conference papers · 239 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -44,10 +44,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Generalization with Lossy Affordances: Leveraging Broad Offline Data for Learning Visuomotor Tasks | CoRL · Visuomotor | [Paper](https://arxiv.org/abs/2210.06601) · [Publisher](https://doi.org/10.48550/arXiv.2210.06601) |
 | 2022 | Closed-Loop Next-Best-View Planning for Target-Driven Grasping | IROS · Grasp | [Paper](https://arxiv.org/pdf/2207.10543) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981472) |
 
-## Recent arXiv papers (238)
+## Recent arXiv papers (239)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-26 | GaussianDream++: Efficient 3D Gaussian World Modeling for Robotic Manipulation | Yuqing Jiang, Zijian Zhang, Weitao Zhou, Jiawei Wang et al. | [Abstract](https://arxiv.org/abs/2608.25659) · [PDF](https://arxiv.org/pdf/2608.25659) |
 | 2026-08-17 | VLCP: Vision Language Control Policy Closed-Loop Code Replanning for Robot Manipulation | Dhia Naouali, Minghan Wu, Claudia Wong, Abhinav Puthran et al. | [Abstract](https://arxiv.org/abs/2608.16978) · [PDF](https://arxiv.org/pdf/2608.16978) |
 | 2026-08-16 | Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies | Michael Zeng, Abhinav Agarwal, Ajay Bati, Brian Lee et al. | [Abstract](https://arxiv.org/abs/2608.15938) · [PDF](https://arxiv.org/pdf/2608.15938) |
 | 2026-08-13 | NestDex: Nested Policy Learning with Copilot Assisted Teleoperation for Dexterous Manipulation | James Zhao, Jinhe Tang, Mingyuan Ba, Weiming Zhi | [Abstract](https://arxiv.org/abs/2608.13362) · [PDF](https://arxiv.org/pdf/2608.13362) |

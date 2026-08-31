@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Pretraining%2C%20Scaling%20%26%20Transfer&specialty=Fine-tuning%2C%20Few-shot%20%26%20Adaptation#research-workbench)
 
-> 29 conference papers · 189 recent arXiv papers
+> 29 conference papers · 190 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -48,10 +48,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Large Language Models as Zero-Shot Human Models for Human-Robot Interaction | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2303.03548) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341488) |
 | 2023 | TidyBot: Personalized Robot Assistance with Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2305.05658) · [Publisher](https://doi.org/10.1007/s10514-023-10139-z) |
 
-## Recent arXiv papers (189)
+## Recent arXiv papers (190)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-26 | Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization | Jiaming Zhou, Qihang Zhang, Gangwei Xu, Cunxin Fan et al. | [Abstract](https://arxiv.org/abs/2608.26103) · [PDF](https://arxiv.org/pdf/2608.26103) |
 | 2026-08-19 | Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation | Prachi Garg, Steve Xing, Prahit Yaugand, Saurabh Gupta et al. | [Abstract](https://arxiv.org/abs/2608.19490) · [PDF](https://arxiv.org/pdf/2608.19490) |
 | 2026-08-17 | MatchingPolicy: Correspondence-Aware Policy Enables Cross-Object In-Context Learning | Qijin She, Hanyang Yu, Zeming Li, Ping Tan | [Abstract](https://arxiv.org/abs/2608.16715) · [PDF](https://arxiv.org/pdf/2608.16715) |
 | 2026-08-13 | Simulation-Aware In-Context Policy Improvement for LLM-Aided Analog Layout Refinement | Bingyang Liu, Ziming Wei, Xiaohan Gao, David Z. Pan | [Abstract](https://arxiv.org/abs/2608.13767) · [PDF](https://arxiv.org/pdf/2608.13767) |

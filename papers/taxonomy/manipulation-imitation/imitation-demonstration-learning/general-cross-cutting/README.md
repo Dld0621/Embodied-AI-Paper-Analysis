@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Imitation%20%26%20Demonstration%20Learning&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 71 conference papers · 362 recent arXiv papers
+> 71 conference papers · 363 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -49,7 +49,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Robust Offline Imitation Learning Through State-level Trajectory Stitching | IROS · Imitation Learning | [Paper](https://arxiv.org/abs/2503.22524) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246271) |
 | 2025 | Towards Safe Imitation Learning via Potential Field-Guided Flow Matching | IROS · Imitation Learning | [Paper](https://arxiv.org/abs/2508.08707) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246643) |
 | 2025 | Transferring Kinesthetic Demonstrations across Diverse Objects for Manipulation Planning | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2503.10904) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246024) |
-| 2025 | VERAGMIL: Virtual Environment for Scooping Granular Foods with Imitation Learning Models | IROS · Imitation Learning | [Paper](https://doi.org/10.48550/arxiv.2608.18258) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247362) |
+| 2025 | VERAGMIL: Virtual Environment for Scooping Granular Foods with Imitation Learning Models | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2608.18258) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247362) |
 | 2024 | Contrastive Imitation Learning for Language-guided Multi-Task Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2406.09738) · [Publisher](https://doi.org/10.48550/arXiv.2406.09738) |
 | 2024 | KOI: Accelerating Online Imitation Learning via Hybrid Key-state Guidance | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2408.02912) · [Publisher](https://doi.org/10.48550/arXiv.2408.02912) |
 | 2024 | Leveraging Locality to Boost Sample Efficiency in Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2406.10615) · [Publisher](https://doi.org/10.48550/arXiv.2406.10615) |
@@ -90,10 +90,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Human-to-Robot Imitation in the Wild | RSS · Learning from human video | [Paper](https://www.roboticsproceedings.org/rss18/p026.pdf) · [Official](https://www.roboticsproceedings.org/rss18/p026.html) |
 | 2022 | Play it by Ear: Learning Skills amidst Occlusion through Audio-Visual Imitation Learning | RSS · Imitation Learning | [Paper](https://arxiv.org/pdf/2205.14850) · [Publisher](https://doi.org/10.48550/arXiv.2205.14850) |
 
-## Recent arXiv papers (362)
+## Recent arXiv papers (363)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-25 | Dynamical System-Based Imitation Learning and Neuroadaptive Control for Trajectory Recovery in Autonomous Ships | Yeyson A. Becerra-Mora, José Ángel Acosta | [Abstract](https://arxiv.org/abs/2608.23924) · [PDF](https://arxiv.org/pdf/2608.23924) |
 | 2026-08-21 | Rethinking Demonstration Unlearning in Imitation Learning for Robotics | Jiazhuo Li, Yu Zhang, Yiming Fei, Kangkang Dong et al. | [Abstract](https://arxiv.org/abs/2608.20784) · [PDF](https://arxiv.org/pdf/2608.20784) |
 | 2026-08-21 | Neural-Primitive: An Efficient End-to-end Local Planner with Primitive-based Imitation Learning for Autonomous Flight | Zhitao Liu, Guangtong Xu, Zihan Wang, Jialiang Hou et al. | [Abstract](https://arxiv.org/abs/2608.20948) · [PDF](https://arxiv.org/pdf/2608.20948) |
 | 2026-08-18 | VERAGMIL: Virtual Environment for Scooping Granular Foods with Imitation Learning Models | Amanuel Ergogo, Diego Dall'Alba, Przemyslaw Korzeniowski | [Abstract](https://arxiv.org/abs/2608.18258) · [PDF](https://arxiv.org/pdf/2608.18258) |

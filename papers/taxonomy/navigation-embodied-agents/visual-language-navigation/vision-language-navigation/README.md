@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Visual%20%26%20Language%20Navigation&specialty=Vision-language%20Navigation#research-workbench)
 
-> 5 conference papers · 103 recent arXiv papers
+> 5 conference papers · 105 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | MG-VLN: Benchmarking Multi-Goal and Long-Horizon Vision-Language Navigation with Language Enhanced Memory Map | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801689) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801689) |
 | 2024 | Multimodal Evolutionary Encoder for Continuous Vision-Language Navigation | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802484) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802484) |
 
-## Recent arXiv papers (103)
+## Recent arXiv papers (105)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-24 | SuperMap: A Spatio-Temporal SLAM System for Visual-Language Navigation | Shibo Zhao, Guofei Chen, Honghao Zhu, Zhiheng Li et al. | [Abstract](https://arxiv.org/abs/2608.22896) · [PDF](https://arxiv.org/pdf/2608.22896) |
+| 2026-08-24 | RACO: Reliability-Aware Coarse-Goal Optimization for Inspection-Oriented UAV Vision-Language Navigation | Sen Wang, Yiming Sun, Jiaxuan He, Pengfei Zhu | [Abstract](https://arxiv.org/abs/2608.22678) · [PDF](https://arxiv.org/pdf/2608.22678) |
 | 2026-08-18 | If, Then, Otherwise: Diagnosing Conditional Branching in Vision-Language Navigation | Seoyoung Lee, Neel P. Bhatt, Pranay Samineni, Cong Liu et al. | [Abstract](https://arxiv.org/abs/2608.17318) · [PDF](https://arxiv.org/pdf/2608.17318) |
 | 2026-08-13 | AirForesight: Current-to-Future Spatial Map Imagination with Cross-Space Planning Consistency for UAV-VLN | Yutong Liu, Xiaojie Li, Mingzhu Xu, Jianlong Wu | [Abstract](https://arxiv.org/abs/2608.12835) · [PDF](https://arxiv.org/pdf/2608.12835) |
 | 2026-08-07 | WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN | Yuehao Huang, Yunzi Wu, Xiaotao Zhang, Xinhai Li et al. | [Abstract](https://arxiv.org/abs/2608.07267) · [PDF](https://arxiv.org/pdf/2608.07267) |

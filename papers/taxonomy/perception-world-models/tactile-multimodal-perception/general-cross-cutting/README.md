@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 99 conference papers · 177 recent arXiv papers
+> 99 conference papers · 176 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -118,7 +118,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Action Conditioned Tactile Prediction: a case study on slip prediction | RSS · Tactile | [Paper](https://arxiv.org/pdf/2205.09430) · [Publisher](https://doi.org/10.48550/arXiv.2205.09430) |
 | 2022 | Understanding Dynamic Tactile Sensing for Liquid Property Estimation | RSS · Tactile | [Paper](https://arxiv.org/pdf/2205.08771) · [Publisher](https://doi.org/10.48550/arXiv.2205.08771) |
 
-## Recent arXiv papers (177)
+## Recent arXiv papers (176)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -298,7 +298,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-25 | Tactile Estimation of Extrinsic Contact Patch for Stable Placement | Kei Ota, Devesh K. Jha, Krishna Murthy Jatavallabhula, Asako Kanezaki et al. | [Abstract](https://arxiv.org/abs/2309.14552) · [PDF](https://arxiv.org/pdf/2309.14552) |
 | 2023-09-11 | Seamless Integration of Tactile Sensors for Cobots | Remko Proesmans, Francis wyffels | [Abstract](https://arxiv.org/abs/2309.05792) · [PDF](https://arxiv.org/pdf/2309.05792) |
 | 2023-09-08 | Robotic Defect Inspection with Visual and Tactile Perception for Large-scale Components | Arpit Agarwal, Abhiroop Ajith, Chengtao Wen, Veniamin Stryzheus et al. | [Abstract](https://arxiv.org/abs/2309.04590) · [PDF](https://arxiv.org/pdf/2309.04590) |
-| 2023-08-25 | WSTac: Interactive Surface Perception based on Whisker-Inspired and Self-Illuminated Vision-Based Tactile Sensor | Kai Chong Lei, Kit Wa Sou, Wang Sing Chan, Jiayi Yan et al. | [Abstract](https://arxiv.org/abs/2308.13241) · [PDF](https://arxiv.org/pdf/2308.13241) |
 
 ---
 

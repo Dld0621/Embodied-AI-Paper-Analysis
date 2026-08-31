@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Dexterous%20Hand%20Control&specialty=Multifinger%20Control%20%26%20Coordination#research-workbench)
 
-> 22 conference papers · 33 recent arXiv papers
+> 22 conference papers · 32 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -41,7 +41,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | A Two-stage Learning Architecture that Generates High-Quality Grasps for a Multi-Fingered Hand | IROS · Multi Finger | [Paper](https://elib.dlr.de/191780/1/winkelbauer2022.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981133) |
 | 2022 | Multi-Finger Grasping Like Humans | IROS · Multi Finger | [Paper](https://inria.hal.science/hal-04323199) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981805) |
 
-## Recent arXiv papers (33)
+## Recent arXiv papers (32)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -77,7 +77,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-31 | Combining Shape Completion and Grasp Prediction for Fast and Versatile Grasping with a Multi-Fingered Hand | Matthias Humt, Dominik Winkelbauer, Ulrich Hillenbrand, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2310.20350) · [PDF](https://arxiv.org/pdf/2310.20350) |
 | 2023-10-27 | Multi-fingered Dynamic Grasping for Unknown Objects | Yannick Burkhardt, Qian Feng, Jianxiang Feng, Karan Sharma et al. | [Abstract](https://arxiv.org/abs/2310.17923) · [PDF](https://arxiv.org/pdf/2310.17923) |
 | 2023-09-29 | MORPH: Design Co-optimization with Reinforcement Learning via a Differentiable Hardware Model Proxy | Zhanpeng He, Matei Ciocarlie | [Abstract](https://arxiv.org/abs/2309.17227) · [PDF](https://arxiv.org/pdf/2309.17227) |
-| 2023-08-26 | TeleFMG: A Wearable Force-Myography Device for Natural Teleoperation of Multi-finger Robotic Hands | Alon Mizrahi, Avishai Sintov | [Abstract](https://arxiv.org/abs/2308.13929) · [PDF](https://arxiv.org/pdf/2308.13929) |
 
 ---
 

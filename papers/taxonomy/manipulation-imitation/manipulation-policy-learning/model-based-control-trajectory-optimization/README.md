@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Manipulation%20Policy%20Learning&specialty=Model-based%20Control%20%26%20Trajectory%20Optimization#research-workbench)
 
-> 25 conference papers · 136 recent arXiv papers
+> 25 conference papers · 137 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -44,10 +44,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Constraint-based Task Specification and Trajectory Optimization for Sequential Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2208.09219) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981909) |
 | 2022 | Robot Skill Learning with Identification of Preconditions and Postconditions via Level Set Estimation | IROS · Skill Learning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981933) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981933) |
 
-## Recent arXiv papers (136)
+## Recent arXiv papers (137)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-26 | PRISM: Projection-Integrated Sampling-Based MPC with Bayesian Cost Tuning for Bimanual Manipulation | Alinjar Dan, Iryna Hurova, Karl Kruusamäe, Arun Kumar Singh | [Abstract](https://arxiv.org/abs/2608.25666) · [PDF](https://arxiv.org/pdf/2608.25666) |
 | 2026-08-12 | RoboSynChallenge: Mastering Real-World Dexterity via Generalizing Synthesized Manipulation Skills | Runyi Zhao, Ruixin Wu, Chengkun Li, Hongrui Zhang et al. | [Abstract](https://arxiv.org/abs/2608.12416) · [PDF](https://arxiv.org/pdf/2608.12416) |
 | 2026-08-09 | Hierarchical Topology-Aware Planning and Control of Underwater Vehicle-Manipulator Systems in Confined Environments | Mohamed Abdelwahab, Ruggero Carli, Damiano Varagnolo, Alberto Dalla Libera | [Abstract](https://arxiv.org/abs/2608.08871) · [PDF](https://arxiv.org/pdf/2608.08871) |
 | 2026-08-04 | Projection-Retraction MPPI: Exact Constraint-Manifold Control for Manipulators | Seulchan Lee, Leesai Park, Minhyeong Kang, Sanghyun Kim | [Abstract](https://arxiv.org/abs/2608.07573) · [PDF](https://arxiv.org/pdf/2608.07573) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Sim-to-real%20%26%20Domain%20Adaptation&specialty=Domain%20Randomization#research-workbench)
 
-> 11 conference papers · 27 recent arXiv papers
+> 11 conference papers · 28 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -30,10 +30,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Conditional Patch-Based Domain Randomization: Improving Texture Domain Randomization Using Natural Image Patches | IROS · Domain Randomization | [Paper](https://pure-oai.bham.ac.uk/ws/files/177697714/IROS_2022_CPDR_Camera_Ready_Submitted_Version.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981381) |
 | 2022 | Transferring Multi-Agent Reinforcement Learning Policies for Autonomous Driving using Sim-to-Real | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2203.11653) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981319) |
 
-## Recent arXiv papers (27)
+## Recent arXiv papers (28)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-23 | Enhancing Sim2Real Transfer for Torque-Controlled Robots through Real2Sim Dynamics Estimation and Reinforcement Learning | Davide Bargellini, Alex Pasquali, Andrea Govoni, Riccardo Zanella et al. | [Abstract](https://arxiv.org/abs/2608.22629) · [PDF](https://arxiv.org/pdf/2608.22629) |
 | 2026-07-19 | Rethinking the Suitability of Reinforcement Learning Algorithms Under Practical Transfer Constraints | Hany Hamed, Abhishek Naik, Colin Bellinger, A. Rupam Mahmood | [Abstract](https://arxiv.org/abs/2607.17326) · [PDF](https://arxiv.org/pdf/2607.17326) |
 | 2026-03-16 | CycleRL: Sim-to-Real Deep Reinforcement Learning for Robust Autonomous Bicycle Control | Gelu Liu, Teng Wang, Zhijie Wu, Junliang Wu et al. | [Abstract](https://arxiv.org/abs/2603.15013) · [PDF](https://arxiv.org/pdf/2603.15013) |
 | 2026-02-27 | Curriculum Reinforcement Learning for Quadrotor Racing with Random Obstacles | Fangyu Sun, Fanxing Li, Yu Hu, Linzuo Zhang et al. | [Abstract](https://arxiv.org/abs/2602.24030) · [PDF](https://arxiv.org/pdf/2602.24030) |

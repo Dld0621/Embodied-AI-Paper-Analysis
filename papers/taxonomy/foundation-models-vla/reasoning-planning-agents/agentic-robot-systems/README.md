@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=Agentic%20Robot%20Systems#research-workbench)
 
-> 8 conference papers · 177 recent arXiv papers
+> 8 conference papers · 181 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,10 +27,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | RoCo: Dialectic Multi-Robot Collaboration with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2307.04738) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610855) |
 | 2024 | Leveraging Large Language Model for Heterogeneous Ad Hoc Teamwork Collaboration | RSS · Large Language Model | [Paper](https://arxiv.org/abs/2406.12224) · [Publisher](https://doi.org/10.48550/arXiv.2406.12224) |
 
-## Recent arXiv papers (177)
+## Recent arXiv papers (181)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-25 | Design-to-Plan: A Large Language Model-Based Multi-Agent Framework for Manufacturing Process Planning from 3D CAD Models and 2D Engineering Drawings | Muhammad Tayyab Khan, Lequn Chen, Wenhe Feng, Seung Ki Moon | [Abstract](https://arxiv.org/abs/2608.24039) · [PDF](https://arxiv.org/pdf/2608.24039) |
+| 2026-08-23 | Physical Agentic AI: An Architecture for Orchestrating a Robot Crew with LLMs | Xinyuan Liu, Eren Sadikoglu, Riana Chatterjee, Ransalu Senanayake | [Abstract](https://arxiv.org/abs/2608.22657) · [PDF](https://arxiv.org/pdf/2608.22657) |
+| 2026-08-22 | Ludi${}_{\scriptscriptstyle 0.1}$: An Agentic System for Socially Intelligent Robots | Wooseong Chung, William Cong, Jakub Dworakowski, Ethan Ewer et al. | [Abstract](https://arxiv.org/abs/2608.22035) · [PDF](https://arxiv.org/pdf/2608.22035) |
+| 2026-08-19 | Agentic AI for Safety-critical Multi-drone Systems: Challenges and Opportunities | Timothy Merritt, Alejandro Jarabo-Peñas, Juan Bravo-Arrabal, Maria-Theresa Bahodi et al. | [Abstract](https://arxiv.org/abs/2608.21444) · [PDF](https://arxiv.org/pdf/2608.21444) |
 | 2026-08-16 | MistyPilot: Enabling Social-Robot Control through Multi-Agent LLM Skill Orchestration | Xiao Wang, Lu Dong, Ifeoma Nwogu, Srirangaraj Setlur et al. | [Abstract](https://arxiv.org/abs/2608.15549) · [PDF](https://arxiv.org/pdf/2608.15549) |
 | 2026-08-12 | Video2Track: From Real-World Interaction Videos to Steerable Adversarial Closed-Track Testing for Automated Driving Systems | Mengjie Tian, Xinrui Zhang, Tianyu Li, Peizhi Zhang et al. | [Abstract](https://arxiv.org/abs/2608.11592) · [PDF](https://arxiv.org/pdf/2608.11592) |
 | 2026-08-12 | Do LLMs Beat Nash? Testing Decentralized Coordination in Self-Play Multi-Agent Games | Deborah Sinishaw, Qile Zhu, Edwin Meriaux, Gregory Dudek | [Abstract](https://arxiv.org/abs/2608.12547) · [PDF](https://arxiv.org/pdf/2608.12547) |

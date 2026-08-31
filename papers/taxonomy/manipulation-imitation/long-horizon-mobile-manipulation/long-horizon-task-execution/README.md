@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=Long-horizon%20Task%20Execution#research-workbench)
 
-> 14 conference papers · 143 recent arXiv papers
+> 14 conference papers · 146 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,10 +33,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Learning Multi-step Robotic Manipulation Policies from Visual Observation of Scene and Q-value Predictions of Previous Action | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2202.11280) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812251) |
 | 2022 | Relationship Oriented Semantic Scene Understanding for Daily Manipulation Tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981960) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981960) |
 
-## Recent arXiv papers (143)
+## Recent arXiv papers (146)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-27 | TemporalFlow-VLA: Learning Physically Grounded Execution History for Long-Horizon Robot Manipulation | Jiarui Yang, Yehao Lu, Yuning Su, Yu Zhong et al. | [Abstract](https://arxiv.org/abs/2608.26821) · [PDF](https://arxiv.org/pdf/2608.26821) |
+| 2026-08-25 | Trajectory-Level Continuous Action Representation for Robotic Manipulation | Tong Yang, Jingkai Jia, Yuecheng Xu, Xueyao Chen et al. | [Abstract](https://arxiv.org/abs/2608.24111) · [PDF](https://arxiv.org/pdf/2608.24111) |
+| 2026-08-24 | Triplet2Track: A Hierarchical System with Object-Centric Representations for Reliable Long-Horizon Manipulation | Jianxiang Liu, Gaojing Zhang, Chuan Wen, Qipeng Liu et al. | [Abstract](https://arxiv.org/abs/2608.22800) · [PDF](https://arxiv.org/pdf/2608.22800) |
 | 2026-08-17 | Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory | Bingxin Xu, Yuzhang Shang, Emilio Ferrara | [Abstract](https://arxiv.org/abs/2608.16889) · [PDF](https://arxiv.org/pdf/2608.16889) |
 | 2026-08-16 | Scaling Manual-Grounded Appliance Manipulation with Data Synthesis and Unified Planning | Yuxing Long, Lei Kang, Ziyan Yu, Yuzheng Gao et al. | [Abstract](https://arxiv.org/abs/2608.15863) · [PDF](https://arxiv.org/pdf/2608.15863) |
 | 2026-08-15 | PACE: Phase-Progress-Aware Credit for Long-Horizon Embodied Manipulation | Chengye Song, Jiawei Zhang, Rui Song, Shengqi Wang et al. | [Abstract](https://arxiv.org/abs/2608.15026) · [PDF](https://arxiv.org/pdf/2608.15026) |

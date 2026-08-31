@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Hardware%20%26%20Morphology&specialty=Musculoskeletal%20%26%20Bio-inspired%20Robots#research-workbench)
 
-> 9 conference papers · 53 recent arXiv papers
+> 9 conference papers · 54 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Theoretical Modeling and Bio-inspired Trajectory Optimization of A Multiple-locomotion Origami Robot | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2403.12471) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801958) |
 | 2023 | Underwater and Surface Aquatic Locomotion of Soft Biomimetic Robot Based on Bending Rolled Dielectric Elastomer Actuators | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2310.11426) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342144) |
 
-## Recent arXiv papers (53)
+## Recent arXiv papers (54)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-24 | Design of a Biomimetic Joint-Covering Skin with Tissue-Like Structure to Enhance Proprioception in a Musculoskeletal Humanoid | Akihiro Miki, Shun Hasegawa, Yoshimoto Ribayashi, Kento Kawaharazuka et al. | [Abstract](https://arxiv.org/abs/2608.23304) · [PDF](https://arxiv.org/pdf/2608.23304) |
 | 2026-06-19 | A Novel Bio-Inspired Fish Robot with Tunable Stiffness via Particle Jamming | Jack Stonecipher, Allen Gao, Wei Wang | [Abstract](https://arxiv.org/abs/2606.21771) · [PDF](https://arxiv.org/pdf/2606.21771) |
 | 2026-05-29 | Cuttlebot: a platform demonstration for complex, autonomous, bio-inspired swimmers | Alexander Nicholas White, Ang Leo Li, Alexander Yin, Derrick Roseman et al. | [Abstract](https://arxiv.org/abs/2606.00197) · [PDF](https://arxiv.org/pdf/2606.00197) |
 | 2026-05-24 | Learning, locomotion, and navigation of soft synthetic snakes in three-dimensional, heterogeneous environments | Xiaotian Zhang, Ali Albazroun, Tixian Wang, Songyuan Cui et al. | [Abstract](https://arxiv.org/abs/2605.24985) · [PDF](https://arxiv.org/pdf/2605.24985) |

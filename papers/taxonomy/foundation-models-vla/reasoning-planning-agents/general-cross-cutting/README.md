@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 22 conference papers · 208 recent arXiv papers
+> 22 conference papers · 210 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -41,10 +41,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Task and Motion Planning with Large Language Models for Object Rearrangement | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.06247) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342169) |
 | 2023 | Demonstrating Large Language Models on Robots | RSS · Large Language Model | [Paper](https://doi.org/10.15607/rss.2023.xix.024) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.024) |
 
-## Recent arXiv papers (208)
+## Recent arXiv papers (210)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-28 | Spatial-Semantic Reasoning using Large Language Models for Efficient UAV Search Operations | Marin Maletic, Marijana Peti, Tamara Petrovic, Stjepan Bogdan | [Abstract](https://arxiv.org/abs/2608.28270) · [PDF](https://arxiv.org/pdf/2608.28270) |
+| 2026-08-28 | Linear Temporal Logic Translation via Human-Inspired Self-Constrained Reasoning for Robot Task Specification | Haofei Hou, Fanxu Meng, Shunyi Zhao, Kairui Yang et al. | [Abstract](https://arxiv.org/abs/2608.28435) · [PDF](https://arxiv.org/pdf/2608.28435) |
+| 2026-08-26 | VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning | Junxiang Xu, Ruisi Wang, Fanyi Pu, Maijunxian Wang et al. | [Abstract](https://arxiv.org/abs/2608.26105) · [PDF](https://arxiv.org/pdf/2608.26105) |
 | 2026-08-20 | World-Model-Grounded LLM Planning for AUV and ASV Navigation Near Offshore Wind Farms | Markus Buchholz, Ignacio Carlucho, Yvan R. Petillot | [Abstract](https://arxiv.org/abs/2608.19661) · [PDF](https://arxiv.org/pdf/2608.19661) |
 | 2026-08-18 | GAPL: Grounded Action-effect Policy Learning for LLM-Based Trajectory Planning | Zhihong Cui, Hengyu Liu, Zhangkai Wu, Yushuai Li et al. | [Abstract](https://arxiv.org/abs/2608.18254) · [PDF](https://arxiv.org/pdf/2608.18254) |
 | 2026-08-09 | SHRIMP: Iterative Refinement of Robot Task Plans | Mya Schroder, Yuna Hwang, Callie Y. Kim, Leqian Cheng et al. | [Abstract](https://arxiv.org/abs/2608.08884) · [PDF](https://arxiv.org/pdf/2608.08884) |
@@ -252,7 +255,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-22 | A Multi-Robot Task Assignment Framework for Search and Rescue with Heterogeneous Teams | Hamid Osooli, Paul Robinette, Kshitij Jerath, S. Reza Ahmadzadeh | [Abstract](https://arxiv.org/abs/2309.12589) · [PDF](https://arxiv.org/pdf/2309.12589) |
 | 2023-09-18 | Conformal Temporal Logic Planning using Large Language Models | Jun Wang, Jiaming Tong, Kaiyuan Tan, Yevgeniy Vorobeychik et al. | [Abstract](https://arxiv.org/abs/2309.10092) · [PDF](https://arxiv.org/pdf/2309.10092) |
 | 2023-09-13 | Self-Refined Large Language Model as Automated Reward Function Designer for Deep Reinforcement Learning in Robotics | Jiayang Song, Zhehua Zhou, Jiawei Liu, Chunrong Fang et al. | [Abstract](https://arxiv.org/abs/2309.06687) · [PDF](https://arxiv.org/pdf/2309.06687) |
-| 2023-08-30 | Interactively Robot Action Planning with Uncertainty Analysis and Active Questioning by Large Language Model | Kazuki Hori, Kanata Suzuki, Tetsuya Ogata | [Abstract](https://arxiv.org/abs/2308.15684) · [PDF](https://arxiv.org/pdf/2308.15684) |
 
 ---
 

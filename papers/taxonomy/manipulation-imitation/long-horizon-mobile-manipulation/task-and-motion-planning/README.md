@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=Task-and-motion%20Planning#research-workbench)
 
-> 7 conference papers · 18 recent arXiv papers
+> 7 conference papers · 19 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,13 +23,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Human-in-the-Loop Task and Motion Planning for Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2310.16014) · [Publisher](https://doi.org/10.48550/arXiv.2310.16014) |
 | 2023 | Imitating Task and Motion Planning with Visuomotor Transformers | CoRL · Visuomotor | [Paper](https://arxiv.org/pdf/2305.16309) · [Publisher](https://doi.org/10.48550/arXiv.2305.16309) |
 | 2023 | Optimal Grasps and Placements for Task and Motion Planning in Clutter | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161455) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161455) |
-| 2023 | Simultaneous Action and Grasp Feasibility Prediction for Task and Motion Planning Through Multi-Task Learning | IROS · Grasp | [Paper](https://laas.hal.science/hal-04016581/file/IROS2023sub_AGFP-NET.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341257) |
+| 2023 | Simultaneous Action and Grasp Feasibility Prediction for Task and Motion Planning Through Multi-Task Learning | IROS · Grasp | [Paper](https://laas.hal.science/hal-04016581v1/file/IROS2023sub_AGFP-NET.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341257) |
 | 2023 | Spatial Reasoning via Deep Vision Models for Robotic Sequential Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2306.17053) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342010) |
 
-## Recent arXiv papers (18)
+## Recent arXiv papers (19)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-28 | Plan Along the Way: Event-Triggered Foundation-Model Planning for TAMP Execution in Partially Observable Manipulation | Puru Ojha, Narendhiran Vijayakumar, Nav Singhal, Girish Varma et al. | [Abstract](https://arxiv.org/abs/2608.28075) · [PDF](https://arxiv.org/pdf/2608.28075) |
 | 2026-08-06 | Coordinated Multi-Robot Disassembly for Makespan Optimization of Large-Scale Assemblies | Niklas Hargus, Andreas Orthey, Marc Toussaint | [Abstract](https://arxiv.org/abs/2608.05830) · [PDF](https://arxiv.org/pdf/2608.05830) |
 | 2026-07-28 | Decompose and Reorganize: Planning with Primitives and Visuomotor Policies Learned from Demonstrations | Yizhou Chen, Hang Xu, Dongjie Yu, Yupu Lu et al. | [Abstract](https://arxiv.org/abs/2607.25397) · [PDF](https://arxiv.org/pdf/2607.25397) |
 | 2026-06-11 | Bounding Boxes as Goals: Language-Conditioned Grasping via Neuro-Symbolic Planning | Allison Andreyev, Landon Eum, Nestor Tiglao, Romel Gomez | [Abstract](https://arxiv.org/abs/2606.12910) · [PDF](https://arxiv.org/pdf/2606.12910) |

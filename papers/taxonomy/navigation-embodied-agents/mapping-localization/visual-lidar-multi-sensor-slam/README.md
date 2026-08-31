@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Mapping%20%26%20Localization&specialty=Visual%2C%20LiDAR%20%26%20Multi-sensor%20SLAM#research-workbench)
 
-> 10 conference papers · 603 recent arXiv papers
+> 10 conference papers · 604 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,10 +29,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | RVWO: A Robust Visual-Wheel SLAM System for Mobile Robots in Dynamic Environments | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS55552.2023.10342183) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342183) |
 | 2023 | Trajectory-Based SLAM for Indoor Mobile Robots with Limited Sensing Capabilities | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS55552.2023.10341518) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341518) |
 
-## Recent arXiv papers (603)
+## Recent arXiv papers (604)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-27 | CGS-SLAM: Collaborative Gaussian Splatting based SLAM for Multi-Agent Reconstruction | Jean-Daniel de Ambrogi, Aladine Chetouani, Vincent Nguyen, Aurélien Chateigner | [Abstract](https://arxiv.org/abs/2608.26868) · [PDF](https://arxiv.org/pdf/2608.26868) |
 | 2026-08-19 | Evaluation of Monocular SLAM Systems on High-Altitude Nadir UAV Footage | Gašper Spagnolo, Matej Dobrevski, Danijel Skočaj | [Abstract](https://arxiv.org/abs/2608.18632) · [PDF](https://arxiv.org/pdf/2608.18632) |
 | 2026-08-18 | Scalix: Uncertainty-Aware Scale-Consistent Monocular SLAM | Sebastian Barbas Laina, Tianyi Zhang, Panagiotis Petropoulakis, Simon Schaefer et al. | [Abstract](https://arxiv.org/abs/2608.17553) · [PDF](https://arxiv.org/pdf/2608.17553) |
 | 2026-08-18 | Jetson-ORB-SLAM3: Accuracy-Preserving GPU Implementation for Edge Computing Devices | Rajat Roy, Aditya Arun Kumar Yadav, Hardik Jain | [Abstract](https://arxiv.org/abs/2608.17874) · [PDF](https://arxiv.org/pdf/2608.17874) |
@@ -164,7 +165,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-02-24 | RU4D-SLAM: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction | Yangfan Zhao, Hanwei Zhang, Ke Huang, Qiufeng Wang et al. | [Abstract](https://arxiv.org/abs/2602.20807) · [PDF](https://arxiv.org/pdf/2602.20807) |
 | 2026-02-24 | LST-SLAM: A Stereo Thermal SLAM System for Kilometer-Scale Dynamic Environments | Zeyu Jiang, Kuan Xu, Changhao Chen | [Abstract](https://arxiv.org/abs/2602.20925) · [PDF](https://arxiv.org/pdf/2602.20925) |
 | 2026-02-21 | IRIS-SLAM: Unified Geo-Instance Representations for Robust Semantic Localization and Mapping | Tingyang Xiao, Liu Liu, Wei Feng, Zhengyu Zou et al. | [Abstract](https://arxiv.org/abs/2602.18709) · [PDF](https://arxiv.org/pdf/2602.18709) |
-| 2026-02-19 | Multi-session Localization and Mapping Exploiting Topological Information | Lorenzo Montano-Olivan, Julio A. Placed, Luis Montano, Maria T. Lazaro | [Abstract](https://arxiv.org/abs/2602.17226) · [PDF](https://arxiv.org/pdf/2602.17226) |
+| 2026-02-19 | Topology-Aware Decision Making for Multi-Session Localization and Mapping | Lorenzo Montano-Olivan, Julio A. Placed, Luis Montano, Maria T. Lazaro | [Abstract](https://arxiv.org/abs/2602.17226) · [PDF](https://arxiv.org/pdf/2602.17226) |
 | 2026-02-18 | Markerless Robot Detection and 6D Pose Estimation for Multi-Agent SLAM | Markus Rueggeberg, Maximilian Ulmer, Maximilian Durner, Wout Boerdijk et al. | [Abstract](https://arxiv.org/abs/2602.16308) · [PDF](https://arxiv.org/pdf/2602.16308) |
 | 2026-02-12 | SceneVGGT: VGGT-based online 3D semantic SLAM for indoor scene understanding and navigation | Anna Gelencsér-Horváth, Gergely Dinya, Dorka Boglárka Erős, Péter Halász et al. | [Abstract](https://arxiv.org/abs/2602.15899) · [PDF](https://arxiv.org/pdf/2602.15899) |
 | 2026-02-12 | GSO-SLAM: Bidirectionally Coupled Gaussian Splatting and Direct Visual Odometry | Jiung Yeon, Seongbo Ha, Hyeonwoo Yu | [Abstract](https://arxiv.org/abs/2602.11714) · [PDF](https://arxiv.org/pdf/2602.11714) |
@@ -191,7 +192,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-12-28 | RGS-SLAM: Robust Gaussian Splatting SLAM with One-Shot Dense Initialization | Wei-Tse Cheng, Yen-Jen Chiou, Yuan-Fu Yang | [Abstract](https://arxiv.org/abs/2601.00705) · [PDF](https://arxiv.org/pdf/2601.00705) |
 | 2025-12-17 | NAP3D: NeRF Assisted 3D-3D Pose Alignment for Autonomous Vehicles | Gaurav Bansal | [Abstract](https://arxiv.org/abs/2512.15080) · [PDF](https://arxiv.org/pdf/2512.15080) |
 | 2025-12-10 | Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization | Zhiheng Li, Weihua Wang, Qiang Shen, Yichen Zhao et al. | [Abstract](https://arxiv.org/abs/2512.09608) · [PDF](https://arxiv.org/pdf/2512.09608) |
-| 2025-12-10 | Inertial Magnetic SLAM Systems Using Low-Cost Sensors | Chuan Huang, Gustaf Hendeby, Isaac Skog | [Abstract](https://arxiv.org/abs/2512.10128) · [PDF](https://arxiv.org/pdf/2512.10128) |
+| 2025-12-10 | MI-SLAM: Magnetic Inertial SLAM Systems | Chuan Huang, Gustaf Hendeby, Isaac Skog | [Abstract](https://arxiv.org/abs/2512.10128) · [PDF](https://arxiv.org/pdf/2512.10128) |
 | 2025-12-10 | D$^2$GSLAM: 4D Dynamic Gaussian Splatting SLAM | Siting Zhu, Yuxiang Huang, Wenhua Wu, Chaokang Jiang et al. | [Abstract](https://arxiv.org/abs/2512.09411) · [PDF](https://arxiv.org/pdf/2512.09411) |
 | 2025-12-07 | Dynamic Visual SLAM using a General 3D Prior | Xingguang Zhong, Liren Jin, Marija Popović, Jens Behley et al. | [Abstract](https://arxiv.org/abs/2512.06868) · [PDF](https://arxiv.org/pdf/2512.06868) |
 | 2025-12-04 | ARCAS: An Augmented Reality Collision Avoidance System with SLAM-Based Tracking for Enhancing VRU Safety | Ahmad Yehia, Jiseop Byeon, Tianyi Wang, Huihai Wang et al. | [Abstract](https://arxiv.org/abs/2512.05299) · [PDF](https://arxiv.org/pdf/2512.05299) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Memory%20%26%20World%20Knowledge&specialty=Retrieval-augmented%20Robotics#research-workbench)
 
-> 5 conference papers · 50 recent arXiv papers
+> 5 conference papers · 51 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Lifelong Robot Library Learning: Bootstrapping Composable and Generalizable Skills for Embodied Control with Language Models | ICRA · Language Model | [Paper](https://research.rug.nl/en/publications/2ddda900-980a-4418-88ee-44f0cdee4b2e) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611448) |
 | 2024 | RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model | RSS · Large Language Model | [Paper](https://arxiv.org/abs/2402.10828) · [Publisher](https://doi.org/10.48550/arXiv.2402.10828) |
 
-## Recent arXiv papers (50)
+## Recent arXiv papers (51)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-26 | RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation | Sanghwan Jang, Minjin Jeon, Minsoo Kim, Seongjin Choi et al. | [Abstract](https://arxiv.org/abs/2608.25585) · [PDF](https://arxiv.org/pdf/2608.25585) |
 | 2026-08-09 | RAG-Based Auto-Configuration for Industrial Fieldbus Devices | Aadil Gani Ganie, Saad Ezzini, Naveed Farooz Marazi | [Abstract](https://arxiv.org/abs/2608.08618) · [PDF](https://arxiv.org/pdf/2608.08618) |
 | 2026-07-24 | Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education | Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel et al. | [Abstract](https://arxiv.org/abs/2607.22345) · [PDF](https://arxiv.org/pdf/2607.22345) |
 | 2026-07-21 | WorldScape Policy 2.0: Empowering Steerable World Action Modeling with Reasoning-Augmented Memory | Haisheng Su, Zongdai Liu, Xin Jin, Haoxuan Dou et al. | [Abstract](https://arxiv.org/abs/2607.18840) · [PDF](https://arxiv.org/pdf/2607.18840) |

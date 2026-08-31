@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Bimanual%20Coordination&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 13 conference papers · 49 recent arXiv papers
+> 13 conference papers · 50 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,7 +24,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Force-Conditioned Diffusion Policies for Compliant Sheet Separation Tasks in Bimanual Robotic Cells | ICRA · Bimanual | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127816) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127816) |
 | 2025 | GeT-USE: Learning Generalized Tool Usage for Bimanual Mobile Manipulation via Simulated Embodiment Extensions | IROS · Bimanual | [Paper](https://arxiv.org/abs/2510.25754) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245978) |
 | 2025 | Imitation-Guided Bimanual Planning for Stable Manipulation under Changing External Forces | IROS · Bimanual | [Paper](https://arxiv.org/abs/2509.19261) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246712) |
-| 2025 | Integrating Ergonomics and Manipulability for Upper Limb Postural Optimization in Bimanual Human-Robot Collaboration | IROS · Bimanual | [Paper](https://arxiv.org/abs/2511.04009) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246359) |
+| 2025 | Integrating Ergonomics and Manipulability for Upper Limb Postural Optimization in Bimanual Human-Robot Collaboration | IROS · Bimanual | [Paper](https://uwe-repository.worktribe.com/preview/15587925/li2025preprint.pdf) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246359) |
 | 2024 | Bimanual Dexterity for Complex Tasks | CoRL · Bimanual | [Paper](https://arxiv.org/abs/2411.13677) · [Publisher](https://doi.org/10.48550/arXiv.2411.13677) |
 | 2024 | Mobile ALOHA: Learning Bimanual Mobile Manipulation using Low-Cost Whole-Body Teleoperation | CoRL · Bimanual | [Paper](https://www.semanticscholar.org/paper/8918ed27489ab267be3ee75573540dce4476b981) · [Index](https://dblp.org/rec/conf/corl/FuZF24) |
 | 2024 | Constrained Bimanual Planning with Analytic Inverse Kinematics | ICRA · Bimanual | [Paper](https://arxiv.org/abs/2309.08770) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610675) |
@@ -32,7 +32,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Simulation-Assisted Learning for Efficient Bin-Packing of Deformable Packages in a Bimanual Robotic Cell | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS58592.2024.10802246) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802246) |
 | 2022 | Learning Bimanual Scooping Policies for Food Acquisition | CoRL · Bimanual | [Paper](https://arxiv.org/abs/2211.14652) · [Publisher](https://doi.org/10.48550/arXiv.2211.14652) |
 
-## Recent arXiv papers (49)
+## Recent arXiv papers (50)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -42,6 +42,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-29 | SPINE: Bridging the Cyber-Physical Gap with Agentic AI | Minkyu Ham, Dongho Kim, Chan Lee, Jiayi Wang et al. | [Abstract](https://arxiv.org/abs/2607.13049) · [PDF](https://arxiv.org/pdf/2607.13049) |
 | 2026-06-18 | Start Right, Arrive Right: Asynchronous Execution via Initial Noise Selection | Trong-Bao Ho, Quang-Tan Nguyen, Thien-Loc Ha, Gia-Binh Nguyen et al. | [Abstract](https://arxiv.org/abs/2606.19774) · [PDF](https://arxiv.org/pdf/2606.19774) |
 | 2026-05-30 | PACE: Phase-Aware Chunk Execution for Robot Policies with Action Chunking | Junnan Nie, Jiayi Li, Jiachen Zhang, Junyi Lao et al. | [Abstract](https://arxiv.org/abs/2606.00537) · [PDF](https://arxiv.org/pdf/2606.00537) |
+| 2026-05-15 | Nori A3: A Bimanual Mobile Manipulator at the Appliance Price Point | Antonio Li | [Abstract](https://arxiv.org/abs/2605.16537) · [PDF](https://arxiv.org/pdf/2605.16537) |
 | 2026-05-13 | TouchAnything: A Dataset and Framework for Bimanual Tactile Estimation from Egocentric Video | Jianyi Zhou, Ziteng Gao, Feiyang Hong, Zirui Liu et al. | [Abstract](https://arxiv.org/abs/2605.13083) · [PDF](https://arxiv.org/pdf/2605.13083) |
 | 2026-03-10 | Cutting the Cord: System Architecture for Low-Cost, GPU-Accelerated Bimanual Mobile Manipulation | Artemis Shaw, Chen Liu, Justin Costa, Rane Gray et al. | [Abstract](https://arxiv.org/abs/2603.09051) · [PDF](https://arxiv.org/pdf/2603.09051) |
 | 2026-03-09 | DuetHOI: Language-Guided Bimanual Hand--Object Motion Generation with Articulation Planning and Contact Refinement | Zhi Wang, Yuyan Liu, Liu liu, Ruonan Liu et al. | [Abstract](https://arxiv.org/abs/2603.08390) · [PDF](https://arxiv.org/pdf/2603.08390) |

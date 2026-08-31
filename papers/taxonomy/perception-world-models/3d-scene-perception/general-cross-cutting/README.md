@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 26 conference papers · 184 recent arXiv papers
+> 26 conference papers · 182 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -45,10 +45,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Taskography: Evaluating robot task planning over large 3D scene graphs | CoRL · 3D Scene | [Paper](https://arxiv.org/abs/2207.05006) · [Publisher](https://doi.org/10.48550/arXiv.2207.05006) |
 | 2022 | DreamingV2: Reinforcement Learning with Discrete World Models without Reconstruction | IROS · World Model | [Paper](https://arxiv.org/pdf/2203.00494) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981405) |
 
-## Recent arXiv papers (184)
+## Recent arXiv papers (182)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-27 | SpatialCrafter: Single Image World Modeling with Generative 3D Proxies | Chuan Fang, Lingteng Qiu, Yixun Liang, Rui Chen et al. | [Abstract](https://arxiv.org/abs/2608.27073) · [PDF](https://arxiv.org/pdf/2608.27073) |
 | 2026-07-24 | Geometric 2D Scene Graph Generation | Christoph Jahn, Urs Waldmann, Bastian Goldluecke | [Abstract](https://arxiv.org/abs/2607.22325) · [PDF](https://arxiv.org/pdf/2607.22325) |
 | 2026-07-20 | Patch Policy: Efficient Embodied Control via Dense Visual Representations | Gaoyue Zhou, Zichen Jeff Cui, Ada Langford, Bowen Tan et al. | [Abstract](https://arxiv.org/abs/2607.18236) · [PDF](https://arxiv.org/pdf/2607.18236) |
 | 2026-07-15 | Depth-Regularized JEPA World Models Learn More Transferable Representations from Real Outdoor Robot Data | Usman M. Khan | [Abstract](https://arxiv.org/abs/2607.16314) · [PDF](https://arxiv.org/pdf/2607.16314) |
@@ -230,9 +231,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-18 | CC-SGG: Corner Case Scenario Generation using Learned Scene Graphs | George Drayson, Efimia Panagiotaki, Daniel Omeiza, Lars Kunze | [Abstract](https://arxiv.org/abs/2309.09844) · [PDF](https://arxiv.org/pdf/2309.09844) |
 | 2023-09-16 | Enhancing Visual Perception in Novel Environments via Incremental Data Augmentation Based on Style Transfer | Abhibha Gupta, Rully Agus Hendrawan, Mansur Arief | [Abstract](https://arxiv.org/abs/2309.08851) · [PDF](https://arxiv.org/pdf/2309.08851) |
 | 2023-09-11 | A Comparison between Frame-based and Event-based Cameras for Flapping-Wing Robot Perception | Raul Tapia, Juan Pablo Rodríguez-Gómez, Juan Antonio Sanchez-Diaz, Francisco Javier Gañán et al. | [Abstract](https://arxiv.org/abs/2309.05450) · [PDF](https://arxiv.org/pdf/2309.05450) |
-| 2023-08-29 | 3D Adversarial Augmentations for Robust Out-of-Domain Predictions | Alexander Lehner, Stefano Gasperini, Alvaro Marcos-Ramiro, Michael Schmidt et al. | [Abstract](https://arxiv.org/abs/2308.15479) · [PDF](https://arxiv.org/pdf/2308.15479) |
-| 2023-08-28 | 9DTact: A Compact Vision-Based Tactile Sensor for Accurate 3D Shape Reconstruction and Generalizable 6D Force Estimation | Changyi Lin, Han Zhang, Jikai Xu, Lei Wu et al. | [Abstract](https://arxiv.org/abs/2308.14277) · [PDF](https://arxiv.org/pdf/2308.14277) |
-| 2023-08-26 | Learning Human-arm Reaching Motion Using IMU in Human-Robot Collaboration | Nadav D. Kahanowich, Avishai Sintov | [Abstract](https://arxiv.org/abs/2308.13936) · [PDF](https://arxiv.org/pdf/2308.13936) |
 
 ---
 

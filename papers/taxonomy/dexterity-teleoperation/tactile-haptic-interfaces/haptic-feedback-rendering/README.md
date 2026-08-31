@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Tactile%20%26%20Haptic%20Interfaces&specialty=Haptic%20Feedback%20%26%20Rendering#research-workbench)
 
-> 6 conference papers · 54 recent arXiv papers
+> 6 conference papers · 55 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,10 +25,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | HaPPArray: Haptic Pneumatic Pouch Array for Feedback in handheld Robots | ICRA · In Hand | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160648) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160648) |
 | 2022 | Collaborative Teleoperation with Haptic Feedback for Collision-Free Navigation of Ground Robots | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981426) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981426) |
 
-## Recent arXiv papers (54)
+## Recent arXiv papers (55)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-26 | TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback | Jianbo Zhou, Boyuan Zhao, Yuzheng Zhang, Yiyang Chen et al. | [Abstract](https://arxiv.org/abs/2608.25798) · [PDF](https://arxiv.org/pdf/2608.25798) |
 | 2026-08-20 | Magnetically Self-Sealed MR Haptic Actuator With PWM-Based Excitation and High-Fidelity Torque Control | Dong Qiang, Tian Yuan, Song Yang, Kequan Xia et al. | [Abstract](https://arxiv.org/abs/2608.19635) · [PDF](https://arxiv.org/pdf/2608.19635) |
 | 2026-08-19 | The Missing Touch: Spatially Distributed Tactile Feedback Brings Teleoperation Closer to Human Dexterity | Rohan Kota, Gregory Reardon, J. Edward Colgate | [Abstract](https://arxiv.org/abs/2608.19372) · [PDF](https://arxiv.org/pdf/2608.19372) |
 | 2026-08-11 | Koopman Representation of Nonlinear Virtual Environments in Kinesthetic Haptic Systems | Yanting Zhou, Jozsef Kövecses, James Richard Forbes | [Abstract](https://arxiv.org/abs/2608.11461) · [PDF](https://arxiv.org/pdf/2608.11461) |

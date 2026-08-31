@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Motion%20%26%20Path%20Planning&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 326 conference papers · 2,164 recent arXiv papers
+> 326 conference papers · 2,183 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,7 +27,7 @@ This high-volume specialty is split into smaller complete lists so every page re
 | Conference 2024 | 92 | [Open](./conference-2024.md) |
 | Conference 2023 | 81 | [Open](./conference-2023.md) |
 | Conference 2022 | 49 | [Open](./conference-2022.md) |
-| arXiv 2026 | 558 | [Open](./arxiv-2026.md) |
+| arXiv 2026 | 583 | [Open](./arxiv-2026.md) |
 | arXiv 2025 | 771 | [Open](./arxiv-2025.md) |
 | arXiv 2024 | 630 | [Open](./arxiv-2024.md) |
-| arXiv 2023 | 205 | [Open](./arxiv-2023.md) |
+| arXiv 2023 | 199 | [Open](./arxiv-2023.md) |

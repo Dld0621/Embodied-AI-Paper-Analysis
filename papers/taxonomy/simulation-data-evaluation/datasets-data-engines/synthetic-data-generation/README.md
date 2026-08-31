@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engines&specialty=Synthetic%20Data%20Generation#research-workbench)
 
-> 7 conference papers · 118 recent arXiv papers
+> 7 conference papers · 120 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,7 +26,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | MIMIR-UW: A Multipurpose Synthetic Dataset for Underwater Navigation and Inspection | IROS · Synthetic Data | [Paper](https://doi.org/10.1109/IROS55552.2023.10341436) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341436) |
 | 2022 | ParaPose: Parameter and Domain Randomization Optimization for Pose Estimation using Synthetic Data | IROS · Synthetic Data | [Paper](https://arxiv.org/pdf/2203.00945) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981511) |
 
-## Recent arXiv papers (118)
+## Recent arXiv papers (120)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -34,6 +34,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-08-07 | Synthetic LiDAR Data Generation and Deterministic Downsampling for Point Cloud Classification on the Edge | Niclas Meyer, Stefan Reitmann | [Abstract](https://arxiv.org/abs/2608.07106) · [PDF](https://arxiv.org/pdf/2608.07106) |
 | 2026-07-26 | Towards Ultrafast Depth Sensing Via Active Event-based Stereo Vision | Jianing Li, Yunjian Zhang, Haiqian Han, Kangyao Huang et al. | [Abstract](https://arxiv.org/abs/2607.23684) · [PDF](https://arxiv.org/pdf/2607.23684) |
 | 2026-07-17 | ImprovedVBGS: Real-time Continual Variational Bayes Gaussian Splatting | Damani Mguni-Coker | [Abstract](https://arxiv.org/abs/2607.15542) · [PDF](https://arxiv.org/pdf/2607.15542) |
+| 2026-07-16 | SUFLECA: Scaling Up Feature Learning for CAD-to-image Alignment | Saad Ejaz, Miguel Fernandez-Cortizas, Javier Civera, Holger Voos et al. | [Abstract](https://arxiv.org/abs/2607.15058) · [PDF](https://arxiv.org/pdf/2607.15058) |
 | 2026-07-14 | Worlds in One Demo: A Synthetic Data Engine for Learning Open-World Mobile Manipulation | Lingxiao Guo, Huanyu Li, Guanya Shi | [Abstract](https://arxiv.org/abs/2607.13154) · [PDF](https://arxiv.org/pdf/2607.13154) |
 | 2026-07-03 | E-TraMamba: A New Paradigm for Efficient Long-Term 3D Feature Tracking with Event Cameras | Juwei Shen, Yujie Wu, Changwen Chen | [Abstract](https://arxiv.org/abs/2607.02866) · [PDF](https://arxiv.org/pdf/2607.02866) |
 | 2026-07-02 | Robust Image Processing Techniques for Construction Environment Monitoring Using Underwater Robots | Seunghee Yun, Geonmo Yang, Juhui Lee, Changbeom Park et al. | [Abstract](https://arxiv.org/abs/2607.01915) · [PDF](https://arxiv.org/pdf/2607.01915) |
@@ -60,6 +61,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-09 | Real-Time Monocular Scene Analysis for UAV in Outdoor Environments | Yara AlaaEldin | [Abstract](https://arxiv.org/abs/2603.13368) · [PDF](https://arxiv.org/pdf/2603.13368) |
 | 2026-02-24 | Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones | Rong Zou, Marco Cannici, Davide Scaramuzza | [Abstract](https://arxiv.org/abs/2602.21101) · [PDF](https://arxiv.org/pdf/2602.21101) |
 | 2026-02-21 | LaS-Comp: Zero-shot 3D Completion with Latent-Spatial Consistency | Weilong Yan, Haipeng Li, Hao Xu, Nianjin Ye et al. | [Abstract](https://arxiv.org/abs/2602.18735) · [PDF](https://arxiv.org/pdf/2602.18735) |
+| 2026-02-12 | Scene2Demo: Self-Evolving Embodied Data Generation via Object-Action Graph | Xiang Liu, Sen Cui, Guocai Yao, Zhong Cao et al. | [Abstract](https://arxiv.org/abs/2602.12065) · [PDF](https://arxiv.org/pdf/2602.12065) |
 | 2026-02-09 | Informative Object-centric Next Best View for Object-aware 3D Gaussian Splatting in Cluttered Scenes | Seunghoon Jeong, Eunho Lee, Jeongyun Kim, Ayoung Kim | [Abstract](https://arxiv.org/abs/2602.08266) · [PDF](https://arxiv.org/pdf/2602.08266) |
 | 2026-02-06 | Realistic Synthetic Household Data Generation at Scale | Siddharth Singh, Ifrah Idrees, Abraham Dauhajre | [Abstract](https://arxiv.org/abs/2602.07243) · [PDF](https://arxiv.org/pdf/2602.07243) |
 | 2026-02-03 | Depth Completion in Unseen Field Robotics Environments Using Extremely Sparse Depth Measurements | Marco Job, Thomas Stastny, Eleni Kelasidi, Roland Siegwart et al. | [Abstract](https://arxiv.org/abs/2602.03209) · [PDF](https://arxiv.org/pdf/2602.03209) |
