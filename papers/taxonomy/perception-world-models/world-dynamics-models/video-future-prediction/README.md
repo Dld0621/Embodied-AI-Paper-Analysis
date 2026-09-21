@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations | ICML · Visual Representation | [Paper](https://arxiv.org/abs/2412.14803) · [Publisher](https://doi.org/10.48550/arXiv.2412.14803) |
+| 2025 | Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations | ICML · Visual Representation | [Paper](https://arxiv.org/abs/2412.14803) · [Index](https://dblp.org/rec/conf/icml/HuGWCWZSL025) |
 
 ## Recent arXiv papers (4)
 

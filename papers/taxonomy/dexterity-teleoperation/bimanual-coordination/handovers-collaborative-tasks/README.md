@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Bimanual%20Coordination&specialty=Handovers%20%26%20Collaborative%20Tasks#research-workbench)
 
-> 8 conference papers · 12 recent arXiv papers
+> 7 conference papers · 11 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,20 +14,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (8)
+## Conference papers (7)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data | CVPR · Robot Hand | [Paper](https://arxiv.org/abs/2501.04595) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01614) |
-| 2025 | BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly | ICML · Bimanual | [Paper](https://arxiv.org/abs/2506.06221) · [Publisher](https://doi.org/10.48550/arXiv.2506.06221) |
+| 2025 | BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly | ICML · Bimanual | [Paper](https://arxiv.org/abs/2506.06221) · [Index](https://dblp.org/rec/journals/corr/abs-2506-06221) |
 | 2025 | Frozen Triumph: Lessons from GARMI’s Bimanual Trophy Handover at the Kandahar Ski World Cup – Shaping Current Research Directions | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS60139.2025.11246754) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246754) |
 | 2025 | Omni-Scan: Creating Visually-Accurate Digital Twin Object Models Using a Bimanual Robot with Handover and Gaussian Splat Merging | IROS · Bimanual | [Paper](https://arxiv.org/abs/2508.00354) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247192) |
-| 2023 | Dynamic Handover: Throw and Catch with Bimanual Hands | CoRL · Bimanual | [Paper](https://arxiv.org/pdf/2309.05655) · [Publisher](https://doi.org/10.48550/arXiv.2309.05655) |
 | 2023 | Efficient Bimanual Handover and Rearrangement via Symmetry-Aware Actor-Critic Learning | ICRA · Bimanual | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160739) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160739) |
 | 2022 | Context and Intention aware 3D Human Body Motion Prediction using an Attention Deep Learning model in Handover Tasks | IROS · In Hand | [Paper](https://doi.org/10.1109/IROS47612.2022.9981465) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981465) |
-| 2022 | Nonlinear Model Predictive Control for Human-Robot Handover with Application to the Aerial Case | IROS · Robot Hand | [Paper](https://research.utwente.nl/en/publications/25534c1a-5730-44e9-b308-4af17f0fba87) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981045) |
+| 2022 | Nonlinear Model Predictive Control for Human-Robot Handover with Application to the Aerial Case | IROS · Robot Hand | [Paper](https://hal.science/hal-03716664) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981045) |
 
-## Recent arXiv papers (12)
+## Recent arXiv papers (11)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -42,7 +41,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-04-08 | STITCH: Augmented Dexterity for Suture Throws Including Thread Coordination and Handoffs | Kush Hari, Hansoul Kim, Will Panitch, Kishore Srinivas et al. | [Abstract](https://arxiv.org/abs/2404.05151) · [PDF](https://arxiv.org/pdf/2404.05151) |
 | 2024-03-18 | Ergonomic Optimization in Worker-Robot Bimanual Object Handover: Implementing REBA Using Reinforcement Learning in Virtual Reality | Mani Amani, Reza Akhavian | [Abstract](https://arxiv.org/abs/2403.12149) · [PDF](https://arxiv.org/pdf/2403.12149) |
 | 2023-11-21 | A Study of Human-Robot Handover through Human-Human Object Transfer | Charlotte Morissette, Bobak H. Baghi, Francois R. Hogan, Gregory Dudek | [Abstract](https://arxiv.org/abs/2311.13021) · [PDF](https://arxiv.org/pdf/2311.13021) |
-| 2023-09-11 | Dynamic Handover: Throw and Catch with Bimanual Hands | Binghao Huang, Yuanpei Chen, Tianyu Wang, Yuzhe Qin et al. | [Abstract](https://arxiv.org/abs/2309.05655) · [PDF](https://arxiv.org/pdf/2309.05655) |
 
 ---
 

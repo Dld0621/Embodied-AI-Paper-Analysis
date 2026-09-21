@@ -19,7 +19,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2024 | OpenEQA: Embodied Question Answering in the Era of Foundation Models | CVPR · Embodied question answering | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.pdf) · [Official](https://openaccess.thecvf.com/content/CVPR2024/html/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.html) |
-| 2024 | Explore until Confident: Efficient Exploration for Embodied Question Answering | RSS · Exploration | [Paper](https://arxiv.org/abs/2403.15941) · [Publisher](https://doi.org/10.48550/arXiv.2403.15941) |
+| 2024 | Explore until Confident: Efficient Exploration for Embodied Question Answering | RSS · Exploration | [Paper](https://arxiv.org/abs/2403.15941) · [Index](https://dblp.org/rec/conf/rss/RenCDIMS24) |
 
 ## Recent arXiv papers (14)
 

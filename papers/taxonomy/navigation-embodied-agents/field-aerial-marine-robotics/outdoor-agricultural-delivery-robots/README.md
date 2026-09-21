@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Field%2C%20Aerial%20%26%20Marine%20Robotics&specialty=Outdoor%2C%20Agricultural%20%26%20Delivery%20Robots#research-workbench)
 
-> 4 conference papers · 5 recent arXiv papers
+> 4 conference papers · 4 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,9 +21,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | MIM: Indoor and Outdoor Navigation in Complex Environments Using Multi-Layer Intensity Maps | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610673) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610673) |
 | 2024 | MTG: Mapless Trajectory Generator with Traversability Coverage for Outdoor Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2309.08214) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611319) |
 | 2023 | Predicting Energy Consumption and Traversal Time of Ground Robots for Outdoor Navigation on Multiple Types of Terrain | IROS · Navigation | [Paper](https://arxiv.org/abs/2308.15978) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341716) |
-| 2022 | HTRON: Efficient Outdoor Navigation with Sparse Rewards via Heavy Tailed Adaptive Reinforce Algorithm | CoRL · Navigation | [Paper](https://arxiv.org/abs/2207.03694) · [Publisher](https://doi.org/10.48550/arXiv.2207.03694) |
+| 2022 | HTRON: Efficient Outdoor Navigation with Sparse Rewards via Heavy Tailed Adaptive Reinforce Algorithm | CoRL · Navigation | [Paper](https://arxiv.org/abs/2207.03694) · [Index](https://dblp.org/rec/journals/corr/abs-2207-03694) |
 
-## Recent arXiv papers (5)
+## Recent arXiv papers (4)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -31,7 +31,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-05-25 | G-DRAGON: Geospatial Reasoning and Dynamic Planning for Retrieval-Augmented Outdoor Navigation | Dongzhihan Wang, Yi Du, Jianan Sun, Yuan Xue et al. | [Abstract](https://arxiv.org/abs/2605.25646) · [PDF](https://arxiv.org/pdf/2605.25646) |
 | 2024-11-09 | Research on reinforcement learning based warehouse robot navigation algorithm in complex warehouse layout | Keqin Li, Lipeng Liu, Jiajing Chen, Dezhi Yu et al. | [Abstract](https://arxiv.org/abs/2411.06128) · [PDF](https://arxiv.org/pdf/2411.06128) |
 | 2024-03-27 | Manipulating Neural Path Planners via Slight Perturbations | Zikang Xiong, Suresh Jagannathan | [Abstract](https://arxiv.org/abs/2403.18256) · [PDF](https://arxiv.org/pdf/2403.18256) |
-| 2023-09-15 | MTG: Mapless Trajectory Generator with Traversability Coverage for Outdoor Navigation | Jing Liang, Peng Gao, Xuesu Xiao, Adarsh Jagan Sathyamoorthy et al. | [Abstract](https://arxiv.org/abs/2309.08214) · [PDF](https://arxiv.org/pdf/2309.08214) |
 
 ---
 

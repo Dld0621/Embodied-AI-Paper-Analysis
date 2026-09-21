@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=Failure%20Detection%20%26%20Self-correction#research-workbench)
 
-> 3 conference papers · 68 recent arXiv papers
+> 3 conference papers · 72 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -22,13 +22,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots | IROS · Llm | [Paper](https://arxiv.org/abs/2507.05118) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246320) |
 | 2024 | CoPAL: Corrective Planning of Robot Actions with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2310.07263) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610434) |
 
-## Recent arXiv papers (68)
+## Recent arXiv papers (72)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-16 | Causal-History Test-Time Scaling for Failure Recovery in Autoregressive World-Action Models | Lin Li, Long Chen, Kwunhang, Wong et al. | [Abstract](https://arxiv.org/abs/2609.18016) · [PDF](https://arxiv.org/pdf/2609.18016) |
+| 2026-09-04 | CoLMIN: LLM-based Multi-Decision Path Negotiation for Cooperative Autonomous Driving | Zhe Huang, Zhaoxin Fan, Shuo Wang, Wenjun Wu et al. | [Abstract](https://arxiv.org/abs/2609.04807) · [PDF](https://arxiv.org/pdf/2609.04807) |
 | 2026-08-10 | Agentic Harnesses: LLM-Driven Verification Layers for Robot Autonomy | Rohan Bhagra, Mahantesh Halapannavar, Uddhav Bhattarai | [Abstract](https://arxiv.org/abs/2608.09857) · [PDF](https://arxiv.org/pdf/2608.09857) |
 | 2026-08-05 | Structured LLM Reasoning for Zero-Shot Human--Robot Coordination Under Hidden Goals | Dong Hae Mangalindan, Anand Gokhale, Francesco Bullo, Vaibhav Srivastava | [Abstract](https://arxiv.org/abs/2608.04309) · [PDF](https://arxiv.org/pdf/2608.04309) |
 | 2026-07-26 | Mission-Level Runtime Assurance for LLM-Assisted ISR Swarms over a Verification-Aware Fabric | Nikolaos Kekatos, Panagiotis Katsaros, Alexios Lekidis, Theodoros Nestoridis et al. | [Abstract](https://arxiv.org/abs/2607.23532) · [PDF](https://arxiv.org/pdf/2607.23532) |
+| 2026-07-09 | Federated Trust for Embodied Robot Capability Marketplaces | Xue Qin, Simin Luan, Cong Yang, Zhijun Li | [Abstract](https://arxiv.org/abs/2609.00404) · [PDF](https://arxiv.org/pdf/2609.00404) |
 | 2026-07-07 | Hypothesis-driven Model Expansion under Uncertainty for Open-World Robot Planning | Anxing Xiao, Hanbo Zhang, Tianrun Hu, David Hsu | [Abstract](https://arxiv.org/abs/2607.06501) · [PDF](https://arxiv.org/pdf/2607.06501) |
 | 2026-07-06 | LLM-as-a-Verifier: A General-Purpose Verification Framework | Jacky Kwok, Shulu Li, Pranav Atreya, Yuejiang Liu et al. | [Abstract](https://arxiv.org/abs/2607.05391) · [PDF](https://arxiv.org/pdf/2607.05391) |
 | 2026-06-19 | Robot Critics that Sweat the Small Stuff | Sruthi Sudhakar, Junbang Liang, Sreehari Rammohan, Pavel Tokmakov et al. | [Abstract](https://arxiv.org/abs/2606.21572) · [PDF](https://arxiv.org/pdf/2606.21572) |
@@ -40,6 +43,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-05-04 | Semantic Risk-Aware Heuristic Planning for Robotic Navigation in Dynamic Environments: An LLM-Inspired Approach | Hamza Ahmed Durrani, Rafay Suleman Durrani | [Abstract](https://arxiv.org/abs/2605.02862) · [PDF](https://arxiv.org/pdf/2605.02862) |
 | 2026-04-05 | Precise Robot Command Understanding Using Grammar-Constrained Large Language Models | Xinyun Huo, Raghav Gnanasambandam, Xinyao Zhang | [Abstract](https://arxiv.org/abs/2604.04233) · [PDF](https://arxiv.org/pdf/2604.04233) |
 | 2026-04-03 | Open-Loop Planning, Closed-Loop Verification: Speculative Verification for VLA | Zihua Wang, Zhitao Lin, Ruibo Li, Yu Zhang et al. | [Abstract](https://arxiv.org/abs/2604.02965) · [PDF](https://arxiv.org/pdf/2604.02965) |
+| 2026-03-30 | On-Demand Human Assistance for Task Continuation under Physical Action Failures in LLM-based Planning | Shoichi Hasegawa, Akira Taniguchi, Lotfi El Hafi, Gustavo Alfonso Garcia Ricardez et al. | [Abstract](https://arxiv.org/abs/2603.28156) · [PDF](https://arxiv.org/pdf/2603.28156) |
 | 2026-03-27 | From Actions to Understanding: Conformal Interpretability of Temporal Concepts in LLM Agents | Trilok Padhi, Ramneet Kaur, Krishiv Agarwal, Adam D. Cobb et al. | [Abstract](https://arxiv.org/abs/2604.19775) · [PDF](https://arxiv.org/pdf/2604.19775) |
 | 2026-03-23 | SafePilot: A Framework for Assuring LLM-enabled Cyber-Physical Systems | Weizhe Xu, Mengyu Liu, Fanxin Kong | [Abstract](https://arxiv.org/abs/2603.21523) · [PDF](https://arxiv.org/pdf/2603.21523) |
 | 2026-03-19 | Can LLMs Prove Robotic Path Planning Optimality? A Benchmark for Research-Level Algorithm Verification | Zhengbang Yang, Md. Tasin Tazwar, Minghan Wei, Zhuangdi Zhu | [Abstract](https://arxiv.org/abs/2603.19464) · [PDF](https://arxiv.org/pdf/2603.19464) |

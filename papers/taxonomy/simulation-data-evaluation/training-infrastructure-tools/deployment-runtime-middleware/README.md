@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Training%20Infrastructure%20%26%20Tools&specialty=Deployment%2C%20Runtime%20%26%20Middleware#research-workbench)
 
-> 2 conference papers · 34 recent arXiv papers
+> 2 conference papers · 33 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -19,9 +19,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2023 | Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned | IROS · Dataset | [Paper](https://arxiv.org/pdf/2304.04362) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342377) |
-| 2022 | ROS-PyBullet Interface: A Framework for Reliable Contact Simulation and Human-Robot Interaction | CoRL · Simulation | [Paper](https://arxiv.org/abs/2210.06887) · [Publisher](https://doi.org/10.48550/arXiv.2210.06887) |
+| 2022 | ROS-PyBullet Interface: A Framework for Reliable Contact Simulation and Human-Robot Interaction | CoRL · Simulation | [Paper](https://arxiv.org/abs/2210.06887) · [Index](https://dblp.org/rec/conf/corl/MowerS0RYBGVBV22) |
 
-## Recent arXiv papers (34)
+## Recent arXiv papers (33)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -58,7 +58,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-16 | Robust Conformal Prediction for STL Runtime Verification under Distribution Shift | Yiqi Zhao, Bardh Hoxha, Georgios Fainekos, Jyotirmoy V. Deshmukh et al. | [Abstract](https://arxiv.org/abs/2311.09482) · [PDF](https://arxiv.org/pdf/2311.09482) |
 | 2023-10-02 | On Fulfilling the Exigent Need for Automating and Modernizing Logistics Infrastructure in India: Enabling AI-based Integration, Digitalization, and Smart Automation of Industrial Parks and Robotic Warehouses | Shaurya Shriyam, Prashant Palkar, Amber Srivastava | [Abstract](https://arxiv.org/abs/2310.01077) · [PDF](https://arxiv.org/pdf/2310.01077) |
 | 2023-09-23 | AgriSORT: A Simple Online Real-time Tracking-by-Detection framework for robotics in precision agriculture | Leonardo Saraceni, Ionut M. Motoi, Daniele Nardi, Thomas A. Ciarfuglia | [Abstract](https://arxiv.org/abs/2309.13393) · [PDF](https://arxiv.org/pdf/2309.13393) |
-| 2023-09-15 | Closing the Loop on Runtime Monitors with Fallback-Safe MPC | Rohan Sinha, Edward Schmerling, Marco Pavone | [Abstract](https://arxiv.org/abs/2309.08603) · [PDF](https://arxiv.org/pdf/2309.08603) |
 
 ---
 

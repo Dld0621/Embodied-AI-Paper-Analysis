@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Imitation%20%26%20Demonstration%20Learning&specialty=Learning%20from%20Demonstration#research-workbench)
 
-> 18 conference papers · 129 recent arXiv papers
+> 18 conference papers · 126 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,9 +20,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation | CVPR · Manipulation | [Paper](https://arxiv.org/abs/2406.14235) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02100) |
 | 2025 | Chain-of-Modality: Learning Manipulation Programs from Multimodal Human Videos with Vision-Language-Models | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2504.13351) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128270) |
-| 2025 | Enhanced View Planning for Robotic Harvesting: Tackling Occlusions with Imitation Learning | ICRA · Imitation Learning | [Paper](https://research.rug.nl/en/publications/60b6d600-ec48-4bd3-b8b1-80bf93c88a17) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127892) |
+| 2025 | Enhanced View Planning for Robotic Harvesting: Tackling Occlusions with Imitation Learning | ICRA · Imitation Learning | [Paper](https://hdl.handle.net/11370/60b6d600-ec48-4bd3-b8b1-80bf93c88a17) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127892) |
 | 2025 | KALM: Keypoint Abstraction Using Large Models for Object-Relative Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2410.23254) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128681) |
-| 2024 | Flow as the Cross-Domain Manipulation Interface | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2407.15208) · [Publisher](https://doi.org/10.48550/arXiv.2407.15208) |
+| 2024 | Flow as the Cross-Domain Manipulation Interface | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2407.15208) · [Index](https://dblp.org/rec/journals/corr/abs-2407-15208) |
 | 2024 | Hierarchical Human-to-Robot Imitation Learning for Long-Horizon Tasks via Cross-Domain Skill Alignment | ICRA · Imitation Learning | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610084) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610084) |
 | 2024 | Enabling Maintainablity of Robot Programs in Assembly by Extracting Compositions of Force- and Position-Based Robot Skills from Learning-from-Demonstration Models | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS58592.2024.10802802) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802802) |
 | 2024 | JUICER: Data-Efficient Imitation Learning for Robotic Assembly | IROS · Assembly | [Paper](https://arxiv.org/pdf/2404.03729) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802498) |
@@ -31,16 +31,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Learning Robot Manipulation from Cross-Morphology Demonstration | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2304.03833) · [Index](https://dblp.org/rec/conf/corl/SalhotraLS23) |
 | 2023 | Model-based Adversarial Imitation Learning from Demonstrations and Human Reward | IROS · Imitation Learning | [Paper](https://doi.org/10.1109/IROS55552.2023.10341411) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341411) |
 | 2023 | Using Single Demonstrations to Define Autonomous Manipulation Contact Tasks in Unstructured Environments via Object Affordances | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342493) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342493) |
-| 2022 | Disturbance-injected Robust Imitation Learning with Task Achievement | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2205.04195) · [Publisher](https://doi.org/10.48550/arXiv.2205.04195) |
-| 2022 | Interactive Human-in-the-loop Coordination of Manipulation Skills Learned from Demonstration | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2203.00210) · [Publisher](https://doi.org/10.48550/arXiv.2203.00210) |
+| 2022 | Disturbance-injected Robust Imitation Learning with Task Achievement | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2205.04195) · [Index](https://dblp.org/rec/conf/icra/TaharaSOMM22) |
+| 2022 | Interactive Human-in-the-loop Coordination of Manipulation Skills Learned from Demonstration | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2203.00210) · [Index](https://dblp.org/rec/journals/corr/abs-2203-00210) |
 | 2022 | Optimizing Demonstrated Robot Manipulation Skills for Temporal Logic Constraints | IROS · Manipulation | [Paper](https://iris.uniroma1.it/bitstream/11573/1708191/2/Dhonthi_preprint_Optimizing_2022.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981384) |
 | 2022 | Understanding Acoustic Patterns of Human Teachers Demonstrating Manipulation Tasks to Robots | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2211.00352) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981053) |
 | 2022 | Use of Action Label in Deep Predictive Learning for Robot Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982091) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982091) |
 
-## Recent arXiv papers (129)
+## Recent arXiv papers (126)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-18 | KnowDemo: Knowledge-Guided Robot Demonstration Generation from Human Videos | Zhiyuan Gao, Yanxiang Zhan, Mohammad Khoshnazar, Jeroen Schäfer et al. | [Abstract](https://arxiv.org/abs/2609.21229) · [PDF](https://arxiv.org/pdf/2609.21229) |
 | 2026-08-25 | One-Shot Learning from Demonstration of Contact-Rich Robotic Manipulation by Identifying Physical Interactions | A. H. G. Overbeek, H. van der Kooij, M. Vlutters | [Abstract](https://arxiv.org/abs/2608.24741) · [PDF](https://arxiv.org/pdf/2608.24741) |
 | 2026-08-25 | Longitudinal Robot Learning from Demonstration with Care Providers in a Home Environment | Nina Moorman, Julianna Schalkwyk, Vriksha Srihari, Qingyu Xiao et al. | [Abstract](https://arxiv.org/abs/2608.25196) · [PDF](https://arxiv.org/pdf/2608.25196) |
 | 2026-08-13 | H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models | Dingyi Rong, Yue Shi, Chaofan Ma, Jiezhang Cao et al. | [Abstract](https://arxiv.org/abs/2608.13049) · [PDF](https://arxiv.org/pdf/2608.13049) |
@@ -166,10 +167,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-30 | Obstacles and Opportunities for Learning from Demonstration in Practical Industrial Assembly: A Systematic Literature Review | V. Hernandez Moreno, S. Jansing, M. Polikarpov, M. G. Carmichael et al. | [Abstract](https://arxiv.org/abs/2310.00276) · [PDF](https://arxiv.org/pdf/2310.00276) |
 | 2023-09-26 | A Structured Prediction Approach for Robot Imitation Learning | Anqing Duan, Iason Batzianoulis, Raffaello Camoriano, Lorenzo Rosasco et al. | [Abstract](https://arxiv.org/abs/2309.14829) · [PDF](https://arxiv.org/pdf/2309.14829) |
 | 2023-09-22 | Robotic Handling of Compliant Food Objects by Robust Learning from Demonstration | Ekrem Misimi, Alexander Olofsson, Aleksander Eilertsen, Elling Ruud Øye et al. | [Abstract](https://arxiv.org/abs/2309.12856) · [PDF](https://arxiv.org/pdf/2309.12856) |
-| 2023-09-20 | Simulation-aided Learning from Demonstration for Robotic LEGO Construction | Ruixuan Liu, Alan Chen, Xusheng Luo, Changliu Liu | [Abstract](https://arxiv.org/abs/2309.11010) · [PDF](https://arxiv.org/pdf/2309.11010) |
-| 2023-09-16 | Learning a Stable Dynamic System with a Lyapunov Energy Function for Demonstratives Using Neural Networks | Yu Zhang, Yongxiang Zou, Haoyu Zhang, Xiuze Xia et al. | [Abstract](https://arxiv.org/abs/2309.08849) · [PDF](https://arxiv.org/pdf/2309.08849) |
-| 2023-09-07 | Instructing Robots by Sketching: Learning from Demonstration via Probabilistic Diagrammatic Teaching | Weiming Zhi, Tianyi Zhang, Matthew Johnson-Roberson | [Abstract](https://arxiv.org/abs/2309.03835) · [PDF](https://arxiv.org/pdf/2309.03835) |
-| 2023-09-05 | Task Generalization with Stability Guarantees via Elastic Dynamical System Motion Policies | Tianyu Li, Nadia Figueroa | [Abstract](https://arxiv.org/abs/2309.01884) · [PDF](https://arxiv.org/pdf/2309.01884) |
 
 ---
 

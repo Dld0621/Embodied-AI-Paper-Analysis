@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Grasping%20%26%20Object%20Interaction&specialty=Pick-place%20%26%20Object%20Rearrangement#research-workbench)
 
-> 59 conference papers · 166 recent arXiv papers
+> 59 conference papers · 167 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,7 +33,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Language-Guided Hierarchical Planning with Scene Graphs for Tabletop Object Rearrangement | IROS · Object Rearrangement | [Paper](https://doi.org/10.1109/IROS60139.2025.11247525) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247525) |
 | 2025 | Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups | IROS · Pick And Place | [Paper](https://arxiv.org/abs/2503.00370) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246653) |
 | 2025 | Simultaneous Pick and Place Detection by Combining SE(3) Diffusion Models with Differential Kinematics | IROS · Pick And Place | [Paper](https://arxiv.org/abs/2504.19502) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247030) |
-| 2024 | Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2401.12046) · [Publisher](https://doi.org/10.48550/arXiv.2401.12046) |
+| 2024 | Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2401.12046) · [Index](https://dblp.org/rec/conf/iclr/HuangH0Z0024) |
 | 2024 | Amortized Inference for Efficient Grasp Model Adaptation | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610789) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610789) |
 | 2024 | Efficient End-to-End Detection of 6-DoF Grasps for Robotic Bin Picking | ICRA · Grasp | [Paper](https://arxiv.org/abs/2405.06336) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611417) |
 | 2024 | Efficient Object Rearrangement via Multi-view Fusion | ICRA · Object Rearrangement | [Paper](https://arxiv.org/abs/2309.08994) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611213) |
@@ -49,8 +49,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Precise Pick-and-Place using Score-Based Diffusion Networks | IROS · Pick And Place | [Paper](https://arxiv.org/abs/2409.09725) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801772) |
 | 2024 | Seg2Grasp: A Robust Modular Suction Grasping in Bin Picking | IROS · Grasp | [Paper](https://arxiv.org/pdf/2607.17757) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801644) |
 | 2024 | Time-Optimal TCP and Robot Base Placement for Pick-and-Place Tasks in Highly Constrained Environments | IROS · Pick And Place | [Paper](https://doi.org/10.1109/IROS58592.2024.10801373) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801373) |
-| 2023 | KITE: Keypoint-Conditioned Policies for Semantic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2306.16605) · [Publisher](https://doi.org/10.48550/arXiv.2306.16605) |
-| 2023 | M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place | CoRL · Pick And Place | [Paper](https://arxiv.org/abs/2311.00926) · [Publisher](https://doi.org/10.48550/arXiv.2311.00926) |
+| 2023 | KITE: Keypoint-Conditioned Policies for Semantic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2306.16605) · [Index](https://dblp.org/rec/journals/corr/abs-2306-16605) |
+| 2023 | M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place | CoRL · Pick And Place | [Paper](https://arxiv.org/abs/2311.00926) · [Index](https://dblp.org/rec/journals/corr/abs-2311-00926) |
 | 2023 | Manipulate by Seeing: Creating Manipulation Controllers from Pre-Trained Representations | ICCV · Manipulation | [Paper](https://arxiv.org/abs/2303.08135) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.00357) |
 | 2023 | A Bioinspired Synthetic Nervous System Controller for Pick-and-Place Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2305.10954) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161198) |
 | 2023 | CabiNet: Scaling Neural Collision Detection for Object Rearrangement with Procedural Scene Generation | ICRA · Object Rearrangement | [Paper](https://arxiv.org/pdf/2304.09302) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161528) |
@@ -69,7 +69,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Optimal and Stable Multi-Layer Object Rearrangement on a Tabletop | IROS · Object Rearrangement | [Paper](https://arxiv.org/pdf/2306.14251) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342446) |
 | 2023 | Towards Safe and Aggressive Motion Generation for Dynamic Targets Pick-and-Place | IROS · Pick And Place | [Paper](https://doi.org/10.1109/IROS55552.2023.10341580) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341580) |
 | 2022 | IFOR: Iterative Flow Minimization for Robotic Object Rearrangement | CVPR · Object Rearrangement | [Paper](https://arxiv.org/pdf/2202.00732) · [Publisher](https://doi.org/10.1109/CVPR52688.2022.01437) |
-| 2022 | Learning Dense Visual Descriptors using Image Augmentations for Robot Manipulation Tasks | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2209.05213) · [Publisher](https://doi.org/10.48550/arXiv.2209.05213) |
+| 2022 | Learning Dense Visual Descriptors using Image Augmentations for Robot Manipulation Tasks | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2209.05213) · [Index](https://dblp.org/rec/journals/corr/abs-2209-05213) |
 | 2022 | Selective Object Rearrangement in Clutter | CoRL · Object Rearrangement | [Paper](https://www.semanticscholar.org/paper/b0bfdb66a81565e9f54898e56f4938618b243eb7) · [Index](https://dblp.org/rec/conf/corl/TangS22) |
 | 2022 | Learning to Pick by Digging: Data-Driven Dig-Grasping for Bin Picking from Clutter | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra46639.2022.9811736) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811736) |
 | 2022 | Using Eye Gaze to Forecast Human Pose in Everyday Pick and Place Actions | ICRA · Pick And Place | [Paper](https://doi.org/10.1109/icra46639.2022.9812079) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812079) |
@@ -78,10 +78,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Rearrangement-Based Manipulation via Kinodynamic Planning and Dynamic Planning Horizons | IROS · Manipulation | [Paper](https://arxiv.org/abs/2208.02312) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981599) |
 | 2022 | Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement | IROS · Object Rearrangement | [Paper](https://arxiv.org/pdf/2207.08078) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981715) |
 
-## Recent arXiv papers (166)
+## Recent arXiv papers (167)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-17 | SkipVLA: Skipping VLA Steps with Classical Planning for Fast Robot Manipulation | Kaivalya Agrawal, Md Ashiqur Rahman, Raymond A. Yeh, Zachary Kingston | [Abstract](https://arxiv.org/abs/2609.20648) · [PDF](https://arxiv.org/pdf/2609.20648) |
+| 2026-09-16 | Fetch My Beer: Synthetic-to-real Hierarchical Policy for Smooth Pick-and-place | Yingyue Li, Chenyangguang Zhang, Ruida Zhang, Bowen Fu et al. | [Abstract](https://arxiv.org/abs/2609.18119) · [PDF](https://arxiv.org/pdf/2609.18119) |
+| 2026-09-14 | Task-Distribution-Aware Counterweight Synthesis and Constrained Co-Design for Serial Manipulators | Mohammad Abbadi | [Abstract](https://arxiv.org/abs/2609.15082) · [PDF](https://arxiv.org/pdf/2609.15082) |
+| 2026-09-11 | From Transportation to Manipulation: Enabling Grasping in Magnetic Robotics | Lara Bergmann, Noah Greis, Cedric Grothues, Lisa-Marie Weigelt et al. | [Abstract](https://arxiv.org/abs/2609.12883) · [PDF](https://arxiv.org/pdf/2609.12883) |
 | 2026-08-28 | Picking Bins Empty: A Hierarchical Hybrid Approach with Online Self-Learning of Grasp Points for Reliable Industrial Bin-Picking | Florian Töper, Samarth Kishor Yelvande, Jan Niklas Ewertz, Rudolph Triebel et al. | [Abstract](https://arxiv.org/abs/2608.28175) · [PDF](https://arxiv.org/pdf/2608.28175) |
 | 2026-08-27 | Embodied Scene Rearrangement Planning | Canzhi Chen, Zan Wang, Siqi Zhu, Qi Wu et al. | [Abstract](https://arxiv.org/abs/2608.27371) · [PDF](https://arxiv.org/pdf/2608.27371) |
 | 2026-08-24 | InstructMove: A Text-Indispensable Benchmark for Instruction-Following Manipulation | Mengao Zhao, Ziang Li, Chaodong Huang, Mengchen Ma et al. | [Abstract](https://arxiv.org/abs/2608.22990) · [PDF](https://arxiv.org/pdf/2608.22990) |
@@ -96,7 +100,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-19 | VQActFlow: Vector-Quantized Action Mode Steering for Multi-Task Robot Manipulation | Zhigen Zhao, Mark Leggiero, Yipu Chen, Haoran Liu et al. | [Abstract](https://arxiv.org/abs/2606.21600) · [PDF](https://arxiv.org/pdf/2606.21600) |
 | 2026-06-15 | Abstention-Aware Personalized Object Rearrangement via Uncertainty-Guided LLM Assistance | Sam Collin, Ali Ayub | [Abstract](https://arxiv.org/abs/2606.17309) · [PDF](https://arxiv.org/pdf/2606.17309) |
 | 2026-06-11 | PhysVLA: Towards Physically-Grounded VLA for Embodied Robotic Manipulation | Namai Chandra, Shriram Damodaran, Lin Wang | [Abstract](https://arxiv.org/abs/2606.13886) · [PDF](https://arxiv.org/pdf/2606.13886) |
-| 2026-06-04 | On the Hardness of Optimal Motion on Trees | Tzvika Geft | [Abstract](https://arxiv.org/abs/2606.06686) · [PDF](https://arxiv.org/pdf/2606.06686) |
+| 2026-06-04 | Hardness of Multi-Agent Path Finding on Trees: A Unified Approach | Tzvika Geft | [Abstract](https://arxiv.org/abs/2606.06686) · [PDF](https://arxiv.org/pdf/2606.06686) |
 | 2026-06-04 | A Conversational Framework for Human-Robot Collaborative Manipulation with Distributed Generative AI models | Arash Ghasemzadeh Kakroudi, Roel Pieters | [Abstract](https://arxiv.org/abs/2606.06061) · [PDF](https://arxiv.org/pdf/2606.06061) |
 | 2026-05-18 | Virtues of Ordered Chaos: Planning with Topple Actions in Tabletop Stack Rearrangement | Hao Lu, Rahul Shome | [Abstract](https://arxiv.org/abs/2605.17815) · [PDF](https://arxiv.org/pdf/2605.17815) |
 | 2026-05-13 | Manipulation Planning for Construction Activities with Repetitive Tasks | Wangyi Liu, Dasharadhan Mahalingam, Fanru Gao, Ci-Jyun Liang et al. | [Abstract](https://arxiv.org/abs/2605.13754) · [PDF](https://arxiv.org/pdf/2605.13754) |
@@ -115,7 +119,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-11 | Vision-Based Hand Shadowing for Robotic Manipulation via Inverse Kinematics | Hendrik Chiche, Antoine Jamme, Trevor Rigoberto Martinez, Gabriel Gomes | [Abstract](https://arxiv.org/abs/2603.11383) · [PDF](https://arxiv.org/pdf/2603.11383) |
 | 2026-03-10 | TiPToP: A Modular Open-Vocabulary Robot Manipulation System That Plans | William Shen, Nishanth Kumar, Sahit Chintalapudi, Ryan Lindeborg et al. | [Abstract](https://arxiv.org/abs/2603.09971) · [PDF](https://arxiv.org/pdf/2603.09971) |
 | 2026-03-09 | Impact of Different Failures on a Robot's Perceived Reliability | Andrew Violette, Zhanxin Wu, Haruki Nishimura, Masha Itkina et al. | [Abstract](https://arxiv.org/abs/2603.08821) · [PDF](https://arxiv.org/pdf/2603.08821) |
-| 2026-02-20 | EgoPush: Learning End-to-End Egocentric Multi-Object Rearrangement for Mobile Robots | Boyuan An, Zhexiong Wang, Yipeng Wang, Jiaqi Li et al. | [Abstract](https://arxiv.org/abs/2602.18071) · [PDF](https://arxiv.org/pdf/2602.18071) |
+| 2026-02-20 | EgoPush: Egocentric Multi-Object Rearrangement for Mobile Robots via Constrained Teacher Observability | Boyuan An, Zhexiong Wang, Yipeng Wang, Jiaqi Li et al. | [Abstract](https://arxiv.org/abs/2602.18071) · [PDF](https://arxiv.org/pdf/2602.18071) |
 | 2026-02-14 | Push-Placement: A Hybrid Approach Integrating Prehensile and Non-Prehensile Manipulation for Object Rearrangement | Majid Sadeghinejad, Arman Barghi, Hamed Hosseini, Mehdi Tale Masouleh et al. | [Abstract](https://arxiv.org/abs/2602.13849) · [PDF](https://arxiv.org/pdf/2602.13849) |
 | 2026-02-10 | Instruct2Act: From Human Instruction to Actions Sequencing and Execution via Robot Action Network for Robotic Manipulation | Archit Sharma, Dharmendra Sharma, John Rebeiro, Peeyush Thakur et al. | [Abstract](https://arxiv.org/abs/2602.09940) · [PDF](https://arxiv.org/pdf/2602.09940) |
 | 2026-02-04 | Can We Redesign a Shoulder Exosuit to Enhance Comfort and Usability Without Losing Assistance? | Roberto Ferroni, Daniele Filippo Mauceri, Jacopo Carpaneto, Alessandra Pedrocchi et al. | [Abstract](https://arxiv.org/abs/2602.04625) · [PDF](https://arxiv.org/pdf/2602.04625) |
@@ -245,9 +249,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-26 | Multi-Modal Planning on Regrasping for Stable Manipulation | Jiaming Hu, Zhao Tang, Henrik I. Christensen | [Abstract](https://arxiv.org/abs/2309.15283) · [PDF](https://arxiv.org/pdf/2309.15283) |
 | 2023-09-24 | ORLA*: Mobile Manipulator-Based Object Rearrangement with Lazy A Star | Kai Gao, Zhaxizhuoma, Yan Ding, Shiqi Zhang et al. | [Abstract](https://arxiv.org/abs/2309.13707) · [PDF](https://arxiv.org/pdf/2309.13707) |
 | 2023-09-21 | SG-Bot: Object Rearrangement via Coarse-to-Fine Robotic Imagination on Scene Graphs | Guangyao Zhai, Xiaoni Cai, Dianye Huang, Yan Di et al. | [Abstract](https://arxiv.org/abs/2309.12188) · [PDF](https://arxiv.org/pdf/2309.12188) |
-| 2023-09-16 | Efficient Object Rearrangement via Multi-view Fusion | Dehao Huang, Chao Tang, Hong Zhang | [Abstract](https://arxiv.org/abs/2309.08994) · [PDF](https://arxiv.org/pdf/2309.08994) |
-| 2023-09-05 | Structural Concept Learning via Graph Attention for Multi-Level Rearrangement Planning | Manav Kulshrestha, Ahmed H. Qureshi | [Abstract](https://arxiv.org/abs/2309.02547) · [PDF](https://arxiv.org/pdf/2309.02547) |
-| 2023-09-01 | Deep Segmented DMP Networks for Learning Discontinuous Motions | Edgar Anarossi, Hirotaka Tahara, Naoto Komeno, Takamitsu Matsubara | [Abstract](https://arxiv.org/abs/2309.00320) · [PDF](https://arxiv.org/pdf/2309.00320) |
 
 ---
 

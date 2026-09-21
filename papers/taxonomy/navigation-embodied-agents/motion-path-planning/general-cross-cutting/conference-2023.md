@@ -2,7 +2,7 @@
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 81 papers · complete list for this taxonomy leaf
+> 80 papers · complete list for this taxonomy leaf
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -11,13 +11,13 @@
 | 2023 | Iterative Vision-and-Language Navigation | CVPR · Navigation | [Paper](https://arxiv.org/pdf/2210.03087) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.01433) |
 | 2023 | Context-Aware Deep Reinforcement Learning for Autonomous Robotic Navigation in Unknown Area | CoRL · Navigation | [Paper](https://www.semanticscholar.org/paper/29e11e51d01f52bb28f1d335227270806c090452) · [Index](https://dblp.org/rec/conf/corl/LiangWCCZS23) |
 | 2023 | HomeRobot: Open-Vocabulary Mobile Manipulation | CoRL · Mobile manipulation | [Paper](https://arxiv.org/abs/2306.11565) · [Official](https://proceedings.mlr.press/v229/) · [Code](https://github.com/facebookresearch/home-robot) |
-| 2023 | Tell Me Where to Go: A Composable Framework for Context-Aware Embodied Robot Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2306.09523) · [Publisher](https://doi.org/10.48550/arXiv.2306.09523) |
-| 2023 | ViNT: A Foundation Model for Visual Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2306.14846) · [Publisher](https://doi.org/10.48550/arXiv.2306.14846) |
+| 2023 | Tell Me Where to Go: A Composable Framework for Context-Aware Embodied Robot Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2306.09523) · [Index](https://dblp.org/rec/conf/corl/BiggieMWH23) |
+| 2023 | ViNT: A Foundation Model for Visual Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2306.14846) · [Index](https://dblp.org/rec/journals/corr/abs-2306-14846) |
 | 2023 | Exploiting Proximity-Aware Tasks for Embodied Social Navigation | ICCV · Navigation | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Cancelli_Exploiting_Proximity-Aware_Tasks_for_Embodied_Social_Navigation_ICCV_2023_paper.pdf) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.01006) |
 | 2023 | Multi-Object Navigation with dynamically learned neural implicit representations | ICCV · Navigation | [Paper](https://arxiv.org/pdf/2210.05129) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.01010) |
 | 2023 | Skill Transformer: A Monolithic Policy for Mobile Manipulation | ICCV · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2308.09873) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.00996) |
 | 2023 | Learning Simultaneous Navigation and Construction in Grid Worlds | ICLR · Navigation | [Paper](https://www.semanticscholar.org/paper/ae19c39923e1d7977c2c542fe262361b4182557c) · [Index](https://dblp.org/rec/conf/iclr/HanWHGPR023) |
-| 2023 | Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds | ICLR · Embodied Agent | [Paper](https://arxiv.org/abs/2310.13255) · [Publisher](https://doi.org/10.48550/arXiv.2310.13255) |
+| 2023 | Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds | ICLR · Embodied Agent | [Paper](https://arxiv.org/abs/2310.13255) · [Index](https://dblp.org/rec/journals/corr/abs-2310-13255) |
 | 2023 | Adaptive and Explainable Deployment of Navigation Skills via Hierarchical Deep Reinforcement Learning | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2305.19746) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160371) |
 | 2023 | Adaptive Risk-Tendency: Nano Drone Navigation in Cluttered Environments with Distributional Reinforcement Learning | ICRA · Navigation | [Paper](https://repository.tudelft.nl/file/File_a0ce3fb3-18f6-454c-be7e-ec52aa7f035f) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160324) |
 | 2023 | An Architecture for Reactive Mobile Manipulation On-The-Move | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/abs/2212.06991) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161021) |
@@ -62,7 +62,7 @@
 | 2023 | Enhanced Robot Navigation with Human Geometric Instruction | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342107) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342107) |
 | 2023 | Exploring Social Motion Latent Space and Human Awareness for Effective Robot Navigation in Crowded Environments | IROS · Navigation | [Paper](https://arxiv.org/pdf/2310.07335) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341721) |
 | 2023 | Extracting Dynamic Navigation Goal from Natural Language Dialogue | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342509) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342509) |
-| 2023 | Feedback Motion Prediction for Safe Unicycle Robot Navigation | IROS · Navigation | [Paper](https://pure.tue.nl/ws/files/381617296/Feedback_Motion_Prediction_for_Safe_Unicycle_Robot_Navigation_1_.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341787) |
+| 2023 | Feedback Motion Prediction for Safe Unicycle Robot Navigation | IROS · Navigation | [Paper](https://research.tue.nl/en/publications/2381fc22-acef-4346-8695-17f35f9e6d47) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341787) |
 | 2023 | Fully Proprioceptive Slip-Velocity-Aware State Estimation for Mobile Robots via Invariant Kalman Filtering and Disturbance Observer | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2209.15140) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342519) |
 | 2023 | Improving Reliable Navigation Under Uncertainty via Predictions Informed by Non-Local Information | IROS · Navigation | [Paper](https://arxiv.org/pdf/2307.14501) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342276) |
 | 2023 | Learning Depth Vision-Based Personalized Robot Navigation From Dynamic Demonstrations in Virtual Reality | IROS · Navigation | [Paper](https://arxiv.org/pdf/2210.01683) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341370) |
@@ -80,10 +80,9 @@
 | 2023 | Temporal Logic-Based Intent Monitoring for Mobile Robots | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS55552.2023.10341623) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341623) |
 | 2023 | Terrain-Aware Kinodynamic Planning with Efficiently Adaptive State Lattices for Mobile Robot Navigation in Off-Road Environments | IROS · Navigation | [Paper](https://arxiv.org/pdf/2504.17889) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341537) |
 | 2023 | Toward Human-Like Social Robot Navigation: A Large-Scale, Multi-Modal, Social Human Navigation Dataset | IROS · Navigation | [Paper](https://arxiv.org/pdf/2303.14880) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342447) |
-| 2023 | VERN: Vegetation-Aware Robot Navigation in Dense Unstructured Outdoor Environments | IROS · Navigation | [Paper](https://arxiv.org/pdf/2303.14502) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342393) |
 | 2023 | Vision-Based Vineyard Navigation Solution with Automatic Annotation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2303.14347) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341261) |
 | 2023 | Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents | NeurIPS · Grounded planning | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/bb3cfcb0284642a973dd631ec9184f2f-Abstract-Conference.html) · [Official](https://proceedings.neurips.cc/paper_files/paper/2023/hash/bb3cfcb0284642a973dd631ec9184f2f-Abstract-Conference.html) |
 | 2023 | NeRF-IBVS: Visual Servo Based on NeRF for Visual Localization and Navigation | NeurIPS · Navigation | [Paper](https://doi.org/10.52202/075280-0365) · [Publisher](https://doi.org/10.52202/075280-0365) |
 | 2023 | Autonomous Navigation, Mapping and Exploration with Gaussian Processes | RSS · Navigation | [Paper](https://doi.org/10.15607/rss.2023.xix.104) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.104) |
 | 2023 | Demonstrating Mobile Manipulation in the Wild: A Metrics-Driven Approach | RSS · Mobile Manipulation | [Paper](https://doi.org/10.15607/rss.2023.xix.055) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.055) |
-| 2023 | Fast Traversability Estimation for Wild Visual Navigation | RSS · Navigation | [Paper](https://arxiv.org/abs/2305.08510) · [Publisher](https://doi.org/10.48550/arXiv.2305.08510) |
+| 2023 | Fast Traversability Estimation for Wild Visual Navigation | RSS · Navigation | [Paper](https://arxiv.org/abs/2305.08510) · [Index](https://dblp.org/rec/journals/corr/abs-2305-08510) |

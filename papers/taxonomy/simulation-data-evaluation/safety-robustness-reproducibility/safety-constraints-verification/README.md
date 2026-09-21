@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Safety%2C%20Robustness%20%26%20Reproducibility&specialty=Safety%20Constraints%20%26%20Verification#research-workbench)
 
-> 0 conference papers · 20 recent arXiv papers
+> 0 conference papers · 19 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (20)
+## Recent arXiv papers (19)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -41,7 +41,6 @@ No conference papers currently map to this specialty.
 | 2024-04-30 | Data-Driven Permissible Safe Control with Barrier Certificates | Rayan Mazouz, John Skovbekk, Frederik Baymler Mathiesen, Eric Frew et al. | [Abstract](https://arxiv.org/abs/2405.00136) · [PDF](https://arxiv.org/pdf/2405.00136) |
 | 2023-12-28 | Control Barrier Function Based UAV Safety Controller in Autonomous Airborne Tracking and Following Systems | Promit Panja, Jesse B. Hoagg, Sabur Baidya | [Abstract](https://arxiv.org/abs/2312.17215) · [PDF](https://arxiv.org/pdf/2312.17215) |
 | 2023-10-08 | Safe Deep Policy Adaptation | Wenli Xiao, Tairan He, John Dolan, Guanya Shi | [Abstract](https://arxiv.org/abs/2310.08602) · [PDF](https://arxiv.org/pdf/2310.08602) |
-| 2023-09-20 | Safety Guaranteed Robust Multi-Agent Reinforcement Learning with Hierarchical Control for Connected and Automated Vehicles | Zhili Zhang, H M Sabbir Ahmad, Ehsan Sabouni, Yanchao Sun et al. | [Abstract](https://arxiv.org/abs/2309.11057) · [PDF](https://arxiv.org/pdf/2309.11057) |
 
 ---
 

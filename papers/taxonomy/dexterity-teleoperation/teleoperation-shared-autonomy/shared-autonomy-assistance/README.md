@@ -23,15 +23,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Landmark-Based Goal Recognition for Shared Autonomy: A Framework for Enhanced Teleoperation | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS60139.2025.11245815) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245815) |
 | 2023 | Shared Autonomy Control for Slosh-Free Teleoperation | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342234) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342234) |
 | 2022 | ASHA: Assistive Teleoperation via Human-in-the-Loop Reinforcement Learning | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2202.02465) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812442) |
-| 2022 | Blending Primitive Policies in Shared Control for Assisted Teleoperation | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2204.07026) · [Publisher](https://doi.org/10.48550/arXiv.2204.07026) |
+| 2022 | Blending Primitive Policies in Shared Control for Assisted Teleoperation | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2204.07026) · [Index](https://dblp.org/rec/journals/corr/abs-2204-07026) |
 | 2022 | Skill-CPD: Real-time Skill Refinement for Shared Autonomy in Manipulator Teleoperation | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982077) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982077) |
 | 2022 | Gaze Complements Control Input for Goal Prediction During Assisted Teleoperation | RSS · Teleoperation | [Paper](https://doi.org/10.15607/rss.2022.xviii.025) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.025) |
-| 2022 | PATO: Policy Assisted TeleOperation for Scalable Robot Data Collection | RSS · Teleoperation | [Paper](https://arxiv.org/abs/2212.04708) · [Publisher](https://doi.org/10.48550/arXiv.2212.04708) |
+| 2022 | PATO: Policy Assisted TeleOperation for Scalable Robot Data Collection | RSS · Teleoperation | [Paper](https://arxiv.org/abs/2212.04708) · [Index](https://dblp.org/rec/journals/corr/abs-2212-04708) |
 
 ## Recent arXiv papers (25)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-17 | Affective Shared Autonomy: Temporal Affect Dynamics and Subjective Evaluation in Bimanual Teleoperation Tasks | Zhengji Liang, Guiyin Tian, Sijin Qu, Hainan Liu et al. | [Abstract](https://arxiv.org/abs/2609.19802) · [PDF](https://arxiv.org/pdf/2609.19802) |
 | 2026-08-20 | Keeping the Franka Emika Panda alive: a ROS 2 stack with a reliable position interface | Antonio Langella, Davide Risi, Vincenzo Petrone, Enrico Ferrentino et al. | [Abstract](https://arxiv.org/abs/2608.19740) · [PDF](https://arxiv.org/pdf/2608.19740) |
 | 2026-07-16 | AHEAD: Anticipatory Hand-Driven Teleoperation via Human Intent Prediction | Seok Joon Kim, Junho Lee, Federica Spinola, Taein Kwon et al. | [Abstract](https://arxiv.org/abs/2607.15172) · [PDF](https://arxiv.org/pdf/2607.15172) |
 | 2026-06-22 | DexTeleop-0: Force-Aware Bimanual Dexterous Teleoperation with Ego-Centric Perception towards Shared Autonomy | Haichao Liu, Yuyao Jiang, Hyunsun Park, Yuanjiang Xue et al. | [Abstract](https://arxiv.org/abs/2606.23431) · [PDF](https://arxiv.org/pdf/2606.23431) |
@@ -56,7 +57,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-03-22 | Safe and Stable Teleoperation of Quadrotor UAVs under Haptic Shared Autonomy | Dawei Zhang, Roberto Tron | [Abstract](https://arxiv.org/abs/2403.15335) · [PDF](https://arxiv.org/pdf/2403.15335) |
 | 2024-03-08 | Safe Execution of Learned Orientation Skills with Conic Control Barrier Functions | Zheng Shen, Matteo Saveriano, Fares J. Abu-Dakka, Sami Haddadin | [Abstract](https://arxiv.org/abs/2403.05447) · [PDF](https://arxiv.org/pdf/2403.05447) |
 | 2024-01-06 | HAIM-DRL: Enhanced Human-in-the-loop Reinforcement Learning for Safe and Efficient Autonomous Driving | Zilin Huang, Zihao Sheng, Chengyuan Ma, Sikai Chen | [Abstract](https://arxiv.org/abs/2401.03160) · [PDF](https://arxiv.org/pdf/2401.03160) |
-| 2023-09-07 | Bootstrapping Adaptive Human-Machine Interfaces with Offline Reinforcement Learning | Jensen Gao, Siddharth Reddy, Glen Berseth, Anca D. Dragan et al. | [Abstract](https://arxiv.org/abs/2309.03839) · [PDF](https://arxiv.org/pdf/2309.03839) |
 
 ---
 

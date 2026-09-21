@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Multi-agent%20%26%20Social%20Navigation&specialty=Social%20%26%20Human-aware%20Navigation#research-workbench)
 
-> 9 conference papers · 38 recent arXiv papers
+> 9 conference papers · 37 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,7 +28,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Learning Crowd-Aware Robot Navigation from Challenging Environments via Distributed Deep Reinforcement Learning | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9812011) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812011) |
 | 2022 | Pedestrian-Robot Interactions on Autonomous Crowd Navigation: Reactive Control Methods and Evaluation Metrics | IROS · Navigation | [Paper](https://github.com/epfl-lasa/crowdbot-evaluation-tools) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981705) |
 
-## Recent arXiv papers (38)
+## Recent arXiv papers (37)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -69,7 +69,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-01-10 | Knowledge-aware Graph Transformer for Pedestrian Trajectory Prediction | Yu Liu, Yuexin Zhang, Kunming Li, Yongliang Qiao et al. | [Abstract](https://arxiv.org/abs/2401.04872) · [PDF](https://arxiv.org/pdf/2401.04872) |
 | 2023-12-18 | Robot Crowd Navigation in Dynamic Environment with Offline Reinforcement Learning | Shuai Zhou, Hao Fu, Haodong He, Wei Liu | [Abstract](https://arxiv.org/abs/2312.11032) · [PDF](https://arxiv.org/pdf/2312.11032) |
 | 2023-11-30 | PEOPLEx: PEdestrian Opportunistic Positioning LEveraging IMU, UWB, BLE and WiFi | Pierre-Yves Lajoie, Bobak Hamed Baghi, Sachini Herath, Francois Hogan et al. | [Abstract](https://arxiv.org/abs/2311.18182) · [PDF](https://arxiv.org/pdf/2311.18182) |
-| 2023-08-31 | On a Connection between Differential Games, Optimal Control, and Energy-based Models for Multi-Agent Interactions | Christopher Diehl, Tobias Klosek, Martin Krüger, Nils Murzyn et al. | [Abstract](https://arxiv.org/abs/2308.16539) · [PDF](https://arxiv.org/pdf/2308.16539) |
 
 ---
 

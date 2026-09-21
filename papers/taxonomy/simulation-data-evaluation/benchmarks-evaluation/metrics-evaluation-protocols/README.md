@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Evaluation&specialty=Metrics%20%26%20Evaluation%20Protocols#research-workbench)
 
-> 4 conference papers · 57 recent arXiv papers
+> 4 conference papers · 63 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,13 +20,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | FLAME: A Federated Learning Benchmark for Robotic Manipulation | IROS · Benchmark | [Paper](https://arxiv.org/abs/2503.01729) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245937) |
 | 2025 | Region-Aware 6D Grasping for Industrial Bin-Picking: A Sim2Real Label Self-Generation and Hybrid Evaluation Framework | IROS · Sim2Real | [Paper](https://doi.org/10.1109/IROS60139.2025.11247129) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247129) |
-| 2025 | RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2506.06677) · [Publisher](https://doi.org/10.48550/arXiv.2506.06677) |
+| 2025 | RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2506.06677) · [Index](https://dblp.org/rec/journals/corr/abs-2506-06677) |
 | 2024 | The Design of the Barkour Benchmark for Robot Agility | IROS · Benchmark | [Paper](https://doi.org/10.1109/IROS58592.2024.10801377) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801377) |
 
-## Recent arXiv papers (57)
+## Recent arXiv papers (63)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-17 | Signal-Centric Remote Sensing via Alternative Preprocessing and Acoustic Processing for ML-Driven Applications | Logan Luna, Sirio Jansen-Sánchez, Ilteris Demirkiran, Leo Ghelarducci | [Abstract](https://arxiv.org/abs/2609.21123) · [PDF](https://arxiv.org/pdf/2609.21123) |
+| 2026-09-16 | A3P5 NEMESIS Integrated Rover Design for Environmental Reconnaissance and Robotic Sampling with Reproducible Mobility Analysis and an External Data Machine Learning Calibration Benchmark | Shafi Bin Sultan, Sabik Bin Sultan, Safwan Sadad | [Abstract](https://arxiv.org/abs/2609.18245) · [PDF](https://arxiv.org/pdf/2609.18245) |
+| 2026-09-07 | DriftParking: Trajectory Modeling via Drifting Field for End-to-End Automated Parking | Ziyan Wang, Dong Li, Weibo Wang, Yinyin Lu et al. | [Abstract](https://arxiv.org/abs/2609.06923) · [PDF](https://arxiv.org/pdf/2609.06923) |
+| 2026-09-03 | Catalogue Photography as a Cold Start: Toward Deployable Rotary Milling Tool Recognition | Abilash Philip Madavath, Chandra Yuvesh Aubeeluck, Augustin Raju, Nicolas Pyschny et al. | [Abstract](https://arxiv.org/abs/2609.03995) · [PDF](https://arxiv.org/pdf/2609.03995) |
+| 2026-09-02 | A Physics-Consistent Benchmark for Contact-Rich Human-Robot Interaction in Assistive Care | Chengxiao He, Shanghai Yuan, Liuqun Fan, Shenzhen Zhu | [Abstract](https://arxiv.org/abs/2609.02402) · [PDF](https://arxiv.org/pdf/2609.02402) |
 | 2026-08-20 | Planning-Oriented End-to-End Autonomous Driving: Architectures, Evaluation, and Emerging Paradigms | Yanchen Guan, Xingcheng Liu, Bin Rao, Chengyue Wang et al. | [Abstract](https://arxiv.org/abs/2608.20111) · [PDF](https://arxiv.org/pdf/2608.20111) |
 | 2026-08-20 | LF-GICP: Parameter-Free Degeneracy-Aware LiDAR Odometry via a Voxel-Normal Localizability Field | Eunsoo Im | [Abstract](https://arxiv.org/abs/2608.19522) · [PDF](https://arxiv.org/pdf/2608.19522) |
 | 2026-08-16 | Not All History Helps: Velocity-Aware Selective Memory for Long-Horizon End-to-End Autonomous Driving | Yuchen Liu, Ziying Song, Shengkai Zhang, Jiannan Chen et al. | [Abstract](https://arxiv.org/abs/2608.15573) · [PDF](https://arxiv.org/pdf/2608.15573) |
@@ -35,6 +40,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-16 | ERQA-Plus: A Diagnostic Benchmark for Reasoning in Embodied AI | Hong Yang, Basura Fernando | [Abstract](https://arxiv.org/abs/2606.17639) · [PDF](https://arxiv.org/pdf/2606.17639) |
 | 2026-06-10 | Intelligent Automation for Embodied Benchmark Construction: Pipelines, Embodiments, Simulators, and Trends | Jinshan Lai, Jianwei Hu, Baoyang Jiang, Fengchun Zhang et al. | [Abstract](https://arxiv.org/abs/2606.12207) · [PDF](https://arxiv.org/pdf/2606.12207) |
 | 2026-06-03 | CADENCE: Predicting Realized MAPF Execution Time Beyond Sum of Costs | Abhishek Seetharamu, Badrikanath Praharaj, Sreeram MV | [Abstract](https://arxiv.org/abs/2606.04746) · [PDF](https://arxiv.org/pdf/2606.04746) |
+| 2026-05-20 | LiteViLNet: Lightweight Vision-LiDAR Fusion Network for Efficient Road Segmentation | Daojie Peng, Bingtao Wang, Fulong Ma, Liang Zhang et al. | [Abstract](https://arxiv.org/abs/2605.21007) · [PDF](https://arxiv.org/pdf/2605.21007) |
 | 2026-05-18 | REBAR: Reference Ethical Benchmark for Autonomy Readiness | Jonathan Diller, David Barnes, Rebekah Bogdanoff, Rhett Collier et al. | [Abstract](https://arxiv.org/abs/2605.18423) · [PDF](https://arxiv.org/pdf/2605.18423) |
 | 2026-05-02 | Assistance Without Interruption: A Benchmark and LLM-based Framework for Non-Intrusive Human-Robot Assistance | Yuedi Zhang, Shuanghao Bai, Wanqi Zhou, Haoran Zhang et al. | [Abstract](https://arxiv.org/abs/2605.01368) · [PDF](https://arxiv.org/pdf/2605.01368) |
 | 2026-04-30 | Do Open-Loop Metrics Predict Closed-Loop Driving? A Cross-Benchmark Correlation Study of NAVSIM and Bench2Drive | Yiru Wang, Anqing Jiang, Shuo Wang, Yuwen Heng et al. | [Abstract](https://arxiv.org/abs/2605.00066) · [PDF](https://arxiv.org/pdf/2605.00066) |

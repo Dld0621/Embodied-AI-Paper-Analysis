@@ -35,6 +35,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-04 | Morphology and actuation as inductive biases in robotic hand manipulation | Zalán Tari, Eszter Birtalan, Péter Polcz, Miklós Koller | [Abstract](https://arxiv.org/abs/2609.05206) · [PDF](https://arxiv.org/pdf/2609.05206) |
 | 2026-08-26 | A Tendon-Driven Five-Fingered Hand with Distributed Tactile Perception for Dexterous Manipulation | Huayang Chen, Longhui Qin | [Abstract](https://arxiv.org/abs/2608.25547) · [PDF](https://arxiv.org/pdf/2608.25547) |
 | 2026-08-19 | An Experimental Study of Downwash Effects on a Continuum Manipulator Integrated with a Multirotor UAV | Anuraj Uthayasooriyan, Krishna Manaswi Digumarti, ernando Vanegas, Felipe Gonzalez | [Abstract](https://arxiv.org/abs/2608.18507) · [PDF](https://arxiv.org/pdf/2608.18507) |
 | 2026-08-17 | H-PAC Hand: Control-Oriented Modeling and Tendon-Elasticity Compensation for an Underactuated Robotic Hand | Teng Yan, Jiongxu Chen, Teng Wang, Yue Yu et al. | [Abstract](https://arxiv.org/abs/2608.16712) · [PDF](https://arxiv.org/pdf/2608.16712) |
@@ -51,7 +52,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-05-13 | Towards Robotic Dexterous Hand Intelligence: A Survey | Weiguang Zhao, Tian Liang, Xihao Guo, Rui Zhang et al. | [Abstract](https://arxiv.org/abs/2605.13925) · [PDF](https://arxiv.org/pdf/2605.13925) |
 | 2026-05-02 | High-Speed, Scalable Sensor Readout for Dexterous Robotic Hands via Shift-Register Multiplexing | Jaehoon Kim, Lazaros Christoforidis, Michalis Papadakis, Victor Kartsch et al. | [Abstract](https://arxiv.org/abs/2605.01434) · [PDF](https://arxiv.org/pdf/2605.01434) |
 | 2026-04-30 | Function-based Parametric Co-Design Optimization of Dexterous Hands | Mohammad Amin Mirzaee, Harsh Gupta, Wenzhen Yuan | [Abstract](https://arxiv.org/abs/2604.27557) · [PDF](https://arxiv.org/pdf/2604.27557) |
-| 2026-04-22 | A Kinematic Framework for Evaluating Pinch Configurations in Robotic Hand Design without Object or Contact Models | HyoJae Kang, Joonho Lee, Hyunmok Jung, Dong Il Park | [Abstract](https://arxiv.org/abs/2604.20692) · [PDF](https://arxiv.org/pdf/2604.20692) |
+| 2026-04-22 | A Kinematic Framework for Screening Candidate Pinch Configurations in Robotic Hand Design without Object or Contact Models | HyoJae Kang, Joonho Lee, Hyunmok Jung, Dong Il Park | [Abstract](https://arxiv.org/abs/2604.20692) · [PDF](https://arxiv.org/pdf/2604.20692) |
 | 2026-04-20 | Periodic Steady-State Control of a Handkerchief-Spinning Task Using a Parallel Anti-Parallelogram Tendon-driven Wrist | Lei Liu, Haonan Zhang, Huahang Xu, Zefan Zhang et al. | [Abstract](https://arxiv.org/abs/2604.17863) · [PDF](https://arxiv.org/pdf/2604.17863) |
 | 2026-04-19 | MM-Hand: A 21-DOF Multi-modal Modular Dexterous Robotic Hand with Remote Actuation | Zhuoheng Li, Qingquan Lin, Checheng Yu, Qiangyu Chen et al. | [Abstract](https://arxiv.org/abs/2604.17245) · [PDF](https://arxiv.org/pdf/2604.17245) |
 | 2026-04-01 | SoftHand Model-W: A 3D-Printed, Anthropomorphic, Underactuated Robot Hand with Integrated Wrist and Carpal Tunnel | Dhillon B. Merritt, Christopher J. Ford, Haoran Li, Malia Smith et al. | [Abstract](https://arxiv.org/abs/2604.00738) · [PDF](https://arxiv.org/pdf/2604.00738) |
@@ -96,7 +97,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-03-15 | Design and Control Co-Optimization for Automated Design Iteration of Dexterous Anthropomorphic Soft Robotic Hands | Pragna Mannam, Xingyu Liu, Ding Zhao, Jean Oh et al. | [Abstract](https://arxiv.org/abs/2403.09933) · [PDF](https://arxiv.org/pdf/2403.09933) |
 | 2023-11-06 | Reconfigurable, Transformable Soft Pneumatic Actuator with Tunable 3D Deformations for Dexterous Soft Robotics Applications | Dickson Chiu Yu Wong, Mingtan Li, Shijie Kang, Lifan Luo et al. | [Abstract](https://arxiv.org/abs/2311.03032) · [PDF](https://arxiv.org/pdf/2311.03032) |
 | 2023-10-08 | DELTAHANDS: A Synergistic Dexterous Hand Framework Based on Delta Robots | Zilin Si, Kevin Zhang, Oliver Kroemer, F. Zeynep Temel | [Abstract](https://arxiv.org/abs/2310.05266) · [PDF](https://arxiv.org/pdf/2310.05266) |
-| 2023-09-12 | LEAP Hand: Low-Cost, Efficient, and Anthropomorphic Hand for Robot Learning | Kenneth Shaw, Ananye Agarwal, Deepak Pathak | [Abstract](https://arxiv.org/abs/2309.06440) · [PDF](https://arxiv.org/pdf/2309.06440) |
 
 ---
 

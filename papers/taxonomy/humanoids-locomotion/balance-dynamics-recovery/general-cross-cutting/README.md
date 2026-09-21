@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Balance%2C%20Dynamics%20%26%20Recovery&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 4 conference papers · 46 recent arXiv papers
+> 4 conference papers · 50 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,10 +23,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Heading Control for Obstacle Avoidance using Dynamic Posture Manipulation during Tumbling Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS58592.2024.10801515) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801515) |
 | 2022 | Online Learning of Centroidal Angular Momentum towards Enhancing DCM-based Locomotion | ICRA · Locomotion | [Paper](https://elib.dlr.de/186198/1/Schuller2022_Online_Learning_of_Centroidal_Angular_Momentum_Towards_Enhancing_DCM-Based_Locomotion.pdf) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811708) |
 
-## Recent arXiv papers (46)
+## Recent arXiv papers (50)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-17 | Dynamics-Induced Commitment in Learning-Based Robotic Penalty Kicks | Ruize Geng, Hao E. Zhang, Yisen Li, Yikai Wang et al. | [Abstract](https://arxiv.org/abs/2609.21100) · [PDF](https://arxiv.org/pdf/2609.21100) |
+| 2026-09-16 | Characterizing Replay Retention Under Dynamics Shift in Model-Based Reinforcement Learning | Everest Yang, Skye Thompson, George D. Konidaris | [Abstract](https://arxiv.org/abs/2609.18167) · [PDF](https://arxiv.org/pdf/2609.18167) |
+| 2026-09-14 | Assistance Torque Estimation via Dynamics-Aware Optimization for Lower-Limb Exoskeleton in Complex Environments | Xiao-Yin Liu, Guotao Li, Weiqun Wang, Zeng-Guang Hou | [Abstract](https://arxiv.org/abs/2609.15352) · [PDF](https://arxiv.org/pdf/2609.15352) |
+| 2026-09-10 | Pneumatic neurons for soft robots enable inflate-and-fire networks for rhythmic motion | Dongting Li, Michael Tolley, Nick Gravish | [Abstract](https://arxiv.org/abs/2609.12258) · [PDF](https://arxiv.org/pdf/2609.12258) |
+| 2026-09-10 | Amortized Low-Rank Adaptation for Model-Based Reinforcement Learning | Fernando Palafox, David Fridovich-Keil | [Abstract](https://arxiv.org/abs/2609.12278) · [PDF](https://arxiv.org/pdf/2609.12278) |
 | 2026-07-24 | Adaptive Undulatory Locomotion of Snake-like Robots in Dynamic Viscous Environments via Deep Reinforcement Learning | Tsuyoshi Kimoto, Akio Yamano, Kohei Honda, Takashi Iwasa | [Abstract](https://arxiv.org/abs/2607.21960) · [PDF](https://arxiv.org/pdf/2607.21960) |
 | 2026-07-13 | A Behavioral State Vocabulary in Sony ERS-111 R-CODE | Christopher A. Tucker | [Abstract](https://arxiv.org/abs/2607.12115) · [PDF](https://arxiv.org/pdf/2607.12115) |
 | 2026-07-07 | CaLiSym: Learning Symplectic Dynamics of Real-World Systems through Structured Canonical Lifts | Aristotelis Papatheodorou, Pranav Vaidhyanathan, Natalia Ares, Ioannis Havoutis et al. | [Abstract](https://arxiv.org/abs/2607.06824) · [PDF](https://arxiv.org/pdf/2607.06824) |
@@ -72,7 +77,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-27 | Learning Multimodal Latent Dynamics for Human-Robot Interaction | Vignesh Prasad, Lea Heitlinger, Dorothea Koert, Ruth Stock-Homburg et al. | [Abstract](https://arxiv.org/abs/2311.16380) · [PDF](https://arxiv.org/pdf/2311.16380) |
 | 2023-10-01 | Efficient Constrained Dynamics Algorithms based on an Equivalent LQR Formulation using Gauss' Principle of Least Constraint | Ajay Suresha Sathya, Herman Bruyninckx, Wilm Decre, Goele Pipeleers | [Abstract](https://arxiv.org/abs/2310.00688) · [PDF](https://arxiv.org/pdf/2310.00688) |
 | 2023-09-24 | Terrestrial Locomotion of PogoX: From Hardware Design to Energy Shaping and Step-to-step Dynamics Based Control | Yi Wang, Jiarong Kang, Zhiheng Chen, Xiaobin Xiong | [Abstract](https://arxiv.org/abs/2309.13737) · [PDF](https://arxiv.org/pdf/2309.13737) |
-| 2023-09-16 | Pedestrian Trajectory Prediction Using Dynamics-based Deep Learning | Honghui Wang, Weiming Zhi, Gustavo Batista, Rohitash Chandra | [Abstract](https://arxiv.org/abs/2309.09021) · [PDF](https://arxiv.org/pdf/2309.09021) |
 
 ---
 

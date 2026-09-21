@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Hardware%20%26%20Morphology&specialty=Morphology%20%26%20Co-design#research-workbench)
 
-> 3 conference papers · 27 recent arXiv papers
+> 3 conference papers · 30 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,12 +20,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | SRL-Gym: A Morphology and Controller Co-Optimization Framework for Supernumerary Robotic Limbs in Load-Bearing Locomotion | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128597) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128597) |
 | 2024 | From CAD to URDF: Co-Design of a Jet-Powered Humanoid Robot Including CAD Geometry | IROS · Humanoid | [Paper](https://arxiv.org/abs/2410.07963) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802023) |
-| 2023 | SoftZoo: A Soft Robot Co-design Benchmark For Locomotion In Diverse Environments | ICLR · Locomotion | [Paper](https://arxiv.org/abs/2303.09555) · [Publisher](https://doi.org/10.48550/arXiv.2303.09555) |
+| 2023 | SoftZoo: A Soft Robot Co-design Benchmark For Locomotion In Diverse Environments | ICLR · Locomotion | [Paper](https://arxiv.org/abs/2303.09555) · [Index](https://dblp.org/rec/conf/iclr/Wang0SXZTRG23) |
 
-## Recent arXiv papers (27)
+## Recent arXiv papers (30)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-16 | RecMorph: Topology-Guided Spatial Recurrence for Generalized Morphology Control | Quanrui Rao, Yong Liu, Xueming Xiao, Yingbo Luo et al. | [Abstract](https://arxiv.org/abs/2609.18359) · [PDF](https://arxiv.org/pdf/2609.18359) |
+| 2026-09-16 | GLAMDRING: Gait Learning And Morphology co-Design via Reinforcement LearnING of CPGs | Amogh Joshi, Kaushik Roy | [Abstract](https://arxiv.org/abs/2609.19452) · [PDF](https://arxiv.org/pdf/2609.19452) |
+| 2026-09-10 | GeoTrussRover: Morphological Computation with Contact-Semantic Control Primitives | Muyuan Ma, Yi Zhang, Yang Yang, Xuanyan Zheng et al. | [Abstract](https://arxiv.org/abs/2609.11361) · [PDF](https://arxiv.org/pdf/2609.11361) |
 | 2026-08-14 | Modeling and Control of an Eel-Inspired Soft Robot for Design Optimization | Zhangjingyi Jiang, Mark Campbell | [Abstract](https://arxiv.org/abs/2608.14860) · [PDF](https://arxiv.org/pdf/2608.14860) |
 | 2026-06-09 | Learning Control as Enabling Layer for Embodied Intelligence Research explored with Soft Robotic Swimming in diverse Flow Speeds | Fabian Schwab, Federico Allione, Bingcheng Wang, Mohamed El Arayshi et al. | [Abstract](https://arxiv.org/abs/2606.20660) · [PDF](https://arxiv.org/pdf/2606.20660) |
 | 2026-06-05 | Rapid co-design of Buoyancy-assisted robots for Challenging Locomotion using Gaussian Evolutionary Specialists | Ankit Sinha, Nitish Sontakke, Dennis Hong, Yusuke Tanaka et al. | [Abstract](https://arxiv.org/abs/2606.07424) · [PDF](https://arxiv.org/pdf/2606.07424) |

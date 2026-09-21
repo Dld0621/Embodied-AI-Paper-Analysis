@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=Point-cloud%20%26%20LiDAR%20Perception#research-workbench)
 
-> 4 conference papers · 354 recent arXiv papers
+> 4 conference papers · 353 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,10 +23,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning | ICRA · Scene Graph | [Paper](https://arxiv.org/abs/2309.08914) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610206) |
 | 2023 | Open-Vocabulary Affordance Detection in 3D Point Clouds | IROS · Affordance | [Paper](https://arxiv.org/pdf/2303.02401) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341553) |
 
-## Recent arXiv papers (354)
+## Recent arXiv papers (353)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-17 | FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations | Kevin Qu, Tao Sun, Massimiliano Viola, Liyuan Zhu et al. | [Abstract](https://arxiv.org/abs/2609.20817) · [PDF](https://arxiv.org/pdf/2609.20817) |
+| 2026-09-16 | PESTO: Formally Correct Registration of LiDAR Point Clouds with Limited Overlap | Valen Yamamoto, Matteo Marchi, Paulo Tabuada | [Abstract](https://arxiv.org/abs/2609.18082) · [PDF](https://arxiv.org/pdf/2609.18082) |
+| 2026-09-11 | ProClosure: Hierarchical Room-Object Assignment using Progressive Boundary Closure from Monocular Video | Vinoth Kumar Muthuraj, Soumyadeep Banik, Kushal Sharma, Hardik Jain | [Abstract](https://arxiv.org/abs/2609.12614) · [PDF](https://arxiv.org/pdf/2609.12614) |
+| 2026-09-11 | DRS-VPT: Directly Relocalizing in a Scan with Vision Point Transformers | Lanke Frank Tarimo Fu, Maurice Fallon | [Abstract](https://arxiv.org/abs/2609.12557) · [PDF](https://arxiv.org/pdf/2609.12557) |
+| 2026-09-10 | An Automated Thickness Evaluation Procedure Using an Integrated Structured Light 3D Camera in a Robotic Bioprinting Framework | Ehsan Zobeidi, Omid Rezayof, Farshid Alambeigi | [Abstract](https://arxiv.org/abs/2609.12206) · [PDF](https://arxiv.org/pdf/2609.12206) |
+| 2026-09-10 | A Physics-Based Closed-Loop Robotic Bioprinting Framework Towards Volumetric Muscle Loss Treatment | Omid Rezayof, Jerin T. Andrews, Ehsan Zobeidi, Ali Ghasemkhani et al. | [Abstract](https://arxiv.org/abs/2609.12159) · [PDF](https://arxiv.org/pdf/2609.12159) |
+| 2026-09-03 | RoughSense: Lightweight Terrain-Induced Rover Vibration Prediction Using Point Clouds and IMU Feedback | Gabriel Manuel Garcia, Stephanie Aravecchia, Miguel Angel Olivares-Mendez | [Abstract](https://arxiv.org/abs/2609.03720) · [PDF](https://arxiv.org/pdf/2609.03720) |
+| 2026-09-01 | Adaptive Depth-Map-Guided Bundle Adjustment for Correspondence-Free Multi-View Point Cloud Registration | Yiran Zhou, Yingyu Wang, Shoudong Huang, Liang Zhao | [Abstract](https://arxiv.org/abs/2609.01089) · [PDF](https://arxiv.org/pdf/2609.01089) |
 | 2026-08-17 | Cyclops: LiDAR as a Camera That Dreams in Color | Wei Gao, Jian Shu, Mingle Zhao, Maani Ghaffari et al. | [Abstract](https://arxiv.org/abs/2608.16264) · [PDF](https://arxiv.org/pdf/2608.16264) |
 | 2026-08-07 | Vernata: Self-Supervised Learning of LiDAR Point Representations | Oliver Lemke, Alexander Liniger, Abel Gawel, Marco Hutter | [Abstract](https://arxiv.org/abs/2608.06919) · [PDF](https://arxiv.org/pdf/2608.06919) |
 | 2026-08-06 | PathCover: A Fast Convex Decomposition along a Path via Randomized Iterative Space Partitioning (RISP) on Point Clouds | Kunal S. Narkhede, Abhijeet M. Kulkarni, Guoquan Huang, Ioannis Poulakakis | [Abstract](https://arxiv.org/abs/2608.05586) · [PDF](https://arxiv.org/pdf/2608.05586) |
@@ -372,15 +380,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-25 | QuadricsNet: Learning Concise Representation for Geometric Primitives in Point Clouds | Ji Wu, Huai Yu, Wen Yang, Gui-Song Xia | [Abstract](https://arxiv.org/abs/2309.14211) · [PDF](https://arxiv.org/pdf/2309.14211) |
 | 2023-09-24 | Towards Robust Robot 3D Perception in Urban Environments: The UT Campus Object Dataset | Arthur Zhang, Chaitanya Eranki, Christina Zhang, Ji-Hwan Park et al. | [Abstract](https://arxiv.org/abs/2309.13549) · [PDF](https://arxiv.org/pdf/2309.13549) |
 | 2023-09-24 | AdaMap: High-Scalable Real-Time Cooperative Perception at the Edge | Qiang Liu, Yongjie Xue, Yuru Zhang, Dawei Chen et al. | [Abstract](https://arxiv.org/abs/2309.13526) · [PDF](https://arxiv.org/pdf/2309.13526) |
-| 2023-09-20 | A real-time, hardware agnostic framework for close-up branch reconstruction using RGB data | Alexander You, Aarushi Mehta, Luke Strohbehn, Jochen Hemming et al. | [Abstract](https://arxiv.org/abs/2309.11580) · [PDF](https://arxiv.org/pdf/2309.11580) |
-| 2023-09-19 | LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation | Haizhou Zhang, Xianjia Yu, Sier Ha, Tomi Westerlund | [Abstract](https://arxiv.org/abs/2309.10436) · [PDF](https://arxiv.org/pdf/2309.10436) |
-| 2023-09-19 | Language-Conditioned Affordance-Pose Detection in 3D Point Clouds | Toan Nguyen, Minh Nhat Vu, Baoru Huang, Tuan Van Vo et al. | [Abstract](https://arxiv.org/abs/2309.10911) · [PDF](https://arxiv.org/pdf/2309.10911) |
-| 2023-09-18 | RaTrack: Moving Object Detection and Tracking with 4D Radar Point Cloud | Zhijun Pan, Fangqiang Ding, Hantao Zhong, Chris Xiaoxuan Lu | [Abstract](https://arxiv.org/abs/2309.09737) · [PDF](https://arxiv.org/pdf/2309.09737) |
-| 2023-09-16 | Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning | Pengyu Yin, Haozhi Cao, Thien-Minh Nguyen, Shenghai Yuan et al. | [Abstract](https://arxiv.org/abs/2309.08914) · [PDF](https://arxiv.org/pdf/2309.08914) |
-| 2023-09-15 | Road Boundary Estimation Using Sparse Automotive Radar Inputs | Aaron Kingery, Dezhen Song | [Abstract](https://arxiv.org/abs/2309.08341) · [PDF](https://arxiv.org/pdf/2309.08341) |
-| 2023-09-12 | Collaborative Dynamic 3D Scene Graphs for Automated Driving | Elias Greve, Martin Büchner, Niclas Vödisch, Wolfram Burgard et al. | [Abstract](https://arxiv.org/abs/2309.06635) · [PDF](https://arxiv.org/pdf/2309.06635) |
-| 2023-09-08 | Weakly Supervised Point Clouds Transformer for 3D Object Detection | Zuojin Tang, Bo Sun, Tongwei Ma, Daosheng Li et al. | [Abstract](https://arxiv.org/abs/2309.04105) · [PDF](https://arxiv.org/pdf/2309.04105) |
-| 2023-08-31 | Test-Time Adaptation for Point Cloud Upsampling Using Meta-Learning | Ahmed Hatem, Yiming Qian, Yang Wang | [Abstract](https://arxiv.org/abs/2308.16484) · [PDF](https://arxiv.org/pdf/2308.16484) |
 
 ---
 

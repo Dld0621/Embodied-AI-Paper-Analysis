@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Stairs%2C%20Terrain%20%26%20Rough-ground%20Traversal#research-workbench)
 
-> 22 conference papers · 65 recent arXiv papers
+> 22 conference papers · 68 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -30,7 +30,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Prototypes, Mathematical Modeling and Motion Analysis of Heptagonal Passive Rotating Locomotion Robots with Elastic Elements Arranged on Diagonal Lines | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11246716) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246716) |
 | 2025 | Teacher Motion Priors: Enhancing Robot Locomotion over Challenging Terrain | IROS · Locomotion | [Paper](https://arxiv.org/abs/2504.10390) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247486) |
 | 2025 | VMTS: Vision-Assisted Teacher-Student Reinforcement Learning for Multi-Terrain Locomotion in Bipedal Robots | IROS · Locomotion | [Paper](https://arxiv.org/abs/2503.07049) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245927) |
-| 2024 | Learning Decentralized Multi-Biped Control for Payload Transport | CoRL · Biped | [Paper](https://arxiv.org/abs/2406.17279) · [Publisher](https://doi.org/10.48550/arXiv.2406.17279) |
+| 2024 | Learning Decentralized Multi-Biped Control for Payload Transport | CoRL · Biped | [Paper](https://arxiv.org/abs/2406.17279) · [Index](https://dblp.org/rec/conf/corl/PanditGGJSDDF24) |
 | 2024 | A Fast Motion and Foothold Planning Framework for Legged Robots on Discrete Terrain | IROS · Legged | [Paper](https://doi.org/10.1109/IROS58592.2024.10802606) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802606) |
 | 2024 | Bipedal Safe Navigation over Uncertain Rough Terrain: Unifying Terrain Mapping and Locomotion Stability | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2403.16356) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802816) |
 | 2023 | Neural Volumetric Memory for Visual Locomotion Control | CVPR · Locomotion | [Paper](https://arxiv.org/pdf/2304.01201) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.00144) |
@@ -41,13 +41,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | mCLARI: A Shape-Morphing Insect-Scale Robot Capable of Omnidirectional Terrain-Adaptive Locomotion in Laterally Confined Spaces | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2310.04538) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341588) |
 | 2022 | PI-ARS: Accelerating Evolution-Learned Visual-Locomotion with Predictive Information Representations | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2207.13224) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981952) |
 
-## Recent arXiv papers (65)
+## Recent arXiv papers (68)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-17 | Walking on the Slope: Stable Bipedal Gaits with Genetic-Algorithm-Optimized Trajectories | Madhav Rijal | [Abstract](https://arxiv.org/abs/2609.20570) · [PDF](https://arxiv.org/pdf/2609.20570) |
+| 2026-09-14 | Understanding User Preferences of a Slope-Aware Variable-Admittance Filter for a Robot Guide Dog | Federico Esposito, Mario Selvaggio, Aaron Link, Fabio Ruggiero | [Abstract](https://arxiv.org/abs/2609.15362) · [PDF](https://arxiv.org/pdf/2609.15362) |
+| 2026-09-09 | GM-Loco: Terrain-Adaptive Humanoid Locomotion on Granular Media | Junnosuke Kamohara, Feiyang Wu, Andy Ningan Zong, Daniel I. Goldman et al. | [Abstract](https://arxiv.org/abs/2609.10286) · [PDF](https://arxiv.org/pdf/2609.10286) |
+| 2026-09-02 | World-Model-Augmented Visual Locomotion for Humanoids on Foothold-Constrained Terrain | Yuxi Liu, Lijun Han, Ziming Wang, Ao Zhang et al. | [Abstract](https://arxiv.org/abs/2609.02542) · [PDF](https://arxiv.org/pdf/2609.02542) |
 | 2026-08-27 | SOLO: Stable Omni-terrain Long-Horizon Perceptive Humanoid Locomotion | Pihai Sun, Gang Han, Jingkai Sun, Jiahao Ma et al. | [Abstract](https://arxiv.org/abs/2608.26583) · [PDF](https://arxiv.org/pdf/2608.26583) |
 | 2026-08-22 | DELTA: Deformable Elevation-Based Local Terrain Attention Encoder for Sparse-Terrain Quadrupedal Locomotion | Sanghyun Park, Moonkyu Jung, Jemin Hwangbo | [Abstract](https://arxiv.org/abs/2608.22033) · [PDF](https://arxiv.org/pdf/2608.22033) |
 | 2026-08-20 | MILD: Tractable Terrain Modeling for Learning Improved Bipedal Locomotion on Deformable Surfaces | Zeren Luo, Jiahui Zhang, Zhe Xu, Wanyue Li et al. | [Abstract](https://arxiv.org/abs/2608.19955) · [PDF](https://arxiv.org/pdf/2608.19955) |
+| 2026-07-21 | Loco-Loco-RL: Low-Cost Terrain Mapping for Humanoid Locomotion with Reinforcement Learning | Jordan Dowdy, Gryffin Reizian, Jean Chagas Vaz | [Abstract](https://arxiv.org/abs/2609.19041) · [PDF](https://arxiv.org/pdf/2609.19041) |
 | 2026-06-30 | Learning Locomotion on Discrete Terrain via Minimal Proximity Sensing | Jiale Fan, Connor Flynn, Tianao Xu, Junzhe He et al. | [Abstract](https://arxiv.org/abs/2606.31912) · [PDF](https://arxiv.org/pdf/2606.31912) |
 | 2026-06-24 | StairMaster: Learning to Conquer Risky Hollow Stairs for Agile Quadrupedal Robots | Xincheng Tang, Youhan Xie, Zhengjie Shu, Wanyu Li et al. | [Abstract](https://arxiv.org/abs/2606.25765) · [PDF](https://arxiv.org/pdf/2606.25765) |
 | 2026-06-23 | DynaWM: Dynamics-Aware Distillation with World Model and Momentum Targets for Smooth Locomotion over Continuous Stairs | Haidong Hou, Zhangguo Yu, Hengbo Qi, Jianlin Zhang | [Abstract](https://arxiv.org/abs/2606.24089) · [PDF](https://arxiv.org/pdf/2606.24089) |
@@ -108,8 +113,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-30 | Efficient, Responsive, and Robust Hopping on Deformable Terrain | Daniel J. Lynch, Jason L. Pusey, Sean W. Gart, Paul B. Umbanhowar et al. | [Abstract](https://arxiv.org/abs/2311.18685) · [PDF](https://arxiv.org/pdf/2311.18685) |
 | 2023-10-06 | mCLARI: a shape-morphing insect-scale robot capable of omnidirectional terrain-adaptive locomotion in laterally confined spaces | Heiko Kabutz, Alexander Hedrick, Parker McDonnell, Kaushik Jayaram | [Abstract](https://arxiv.org/abs/2310.04538) · [PDF](https://arxiv.org/pdf/2310.04538) |
 | 2023-09-22 | Robust self-propulsion in sand using simply controlled vibrating cubes | Bangyuan Liu, Tianyu Wang, Velin Kojouharov, Frank L. Hammond et al. | [Abstract](https://arxiv.org/abs/2309.13174) · [PDF](https://arxiv.org/pdf/2309.13174) |
-| 2023-09-20 | An Amphibious Fully-Soft Miniature Crawling Robot Powered by Electrohydraulic Fluid Kinetic Energy | Quan Xiong, Xuanyi Zhou, Jonathan William Ambrose, Raye Chen-Hua Yeow | [Abstract](https://arxiv.org/abs/2309.11020) · [PDF](https://arxiv.org/pdf/2309.11020) |
-| 2023-09-15 | Energy Efficient Foot-Shape Design for Bipedal Walkers on Granular Terrain | Xunjie Chen, Jingang Yi, Hao Wang | [Abstract](https://arxiv.org/abs/2309.16720) · [PDF](https://arxiv.org/pdf/2309.16720) |
 
 ---
 

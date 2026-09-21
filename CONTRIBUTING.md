@@ -57,6 +57,9 @@ Do not add workshop-only, withdrawn, under-review, or arXiv-only papers to the c
 
 ## Analysis notes
 
+Manual catalog refresh receipts are retained separately from paper analyses:
+[2026-09-21 refresh and evidence boundaries](docs/catalog-refresh-2026-09-21.md).
+
 Use [`docs/paper-analysis-template.md`](docs/paper-analysis-template.md). Separate:
 
 - claims made by the paper;

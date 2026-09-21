@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Autonomy&specialty=Bilateral%20%26%20Master-slave%20Control#research-workbench)
 
-> 7 conference papers · 19 recent arXiv papers
+> 7 conference papers · 20 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,13 +23,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Lightweight and Compliant Bilateral Teleoperation System with Anthropomorphic Arms for Aerial and Ground Service Operations | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611383) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611383) |
 | 2023 | A Force-Sensitive Exoskeleton for Teleoperation: An Application in Elderly Care Robotics | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161175) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161175) |
 | 2023 | Performance Comparison of Teleoperation Interfaces for Ultra-Lightweight Anthropomorphic Arms | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342484) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342484) |
-| 2022 | Towards 6DoF Bilateral Teleoperation of an Omnidirectional Aerial Vehicle for Aerial Physical Interaction | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2203.03177) · [Publisher](https://doi.org/10.48550/arXiv.2203.03177) |
+| 2022 | Towards 6DoF Bilateral Teleoperation of an Omnidirectional Aerial Vehicle for Aerial Physical Interaction | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2203.03177) · [Index](https://dblp.org/rec/conf/icra/AllenspachLTS22) |
 | 2022 | Haptic Teleoperation of High-dimensional Robotic Systems Using a Feedback MPC Framework | IROS · Teleoperation | [Paper](https://arxiv.org/pdf/2207.14635) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981290) |
 
-## Recent arXiv papers (19)
+## Recent arXiv papers (20)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-17 | Compliance for Free: Learning Identifiable Impedance via Bilateral Teleoperation | Harsha Guda, Adrià Colomé, Carme Torras | [Abstract](https://arxiv.org/abs/2609.19976) · [PDF](https://arxiv.org/pdf/2609.19976) |
+| 2026-09-11 | MR-GLi: Mixed Reality-Based Gripper-Linked Overlays for Underwater Robot Arm Teleoperation via Bilateral Control | Masashi Sasago, Masato Kobayashi, Yuki Uranishi | [Abstract](https://arxiv.org/abs/2609.16041) · [PDF](https://arxiv.org/pdf/2609.16041) |
 | 2026-08-22 | Safety-Critical Bilateral Teleoperation for Omnidirectional Aerial Manipulation Using Force-Sensorless Haptic Feedback | Yubin Kim, Jinwoo Lee, Yongjun You, H. Jin Kim et al. | [Abstract](https://arxiv.org/abs/2608.21735) · [PDF](https://arxiv.org/pdf/2608.21735) |
 | 2026-08-20 | Wave-Based Bilateral Teleoperation between Nonlinear Manipulators with Direct Contact Force Feedback | G. Q. Bao Tran, Takanori Miyoshi, Ho Duc Tho | [Abstract](https://arxiv.org/abs/2608.20043) · [PDF](https://arxiv.org/pdf/2608.20043) |
 | 2026-08-06 | A Master-Slave Robot Manipulator for Needle-Based Teleoperation in MRI Chamber | Omar Curiel, Jing-Yuan Huang, Po-Chih Chen, Ji Ma et al. | [Abstract](https://arxiv.org/abs/2608.06354) · [PDF](https://arxiv.org/pdf/2608.06354) |
@@ -45,7 +47,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-09-10 | Input-gated Bilateral Teleoperation: An Easy-to-implement Force Feedback Teleoperation Method for Low-cost Hardware | Yoshiki Kanai, Akira Kanazawa, Hideyuki Ichiwara, Hiroshi Ito et al. | [Abstract](https://arxiv.org/abs/2509.08226) · [PDF](https://arxiv.org/pdf/2509.08226) |
 | 2025-07-08 | PAPRLE (Plug-And-Play Robotic Limb Environment): A Modular Ecosystem for Robotic Limbs | Obin Kwon, Sankalp Yamsani, Noboru Myers, Sean Taylor et al. | [Abstract](https://arxiv.org/abs/2507.05555) · [PDF](https://arxiv.org/pdf/2507.05555) |
 | 2025-07-08 | Design and Experimental Validation of Sensorless 4-Channel Bilateral Teleoperation for Low-Cost Manipulators | Koki Yamane, Yunhan Li, Masashi Konosu, Koki Inami et al. | [Abstract](https://arxiv.org/abs/2507.06174) · [PDF](https://arxiv.org/pdf/2507.06174) |
-| 2025-05-20 | Robust Immersive Bilateral Teleoperation of Beyond-Human-Scale Systems with Enhanced Transparency and Sense of Embodiment | Mahdi Hejrati, Pauli Mustalahti, Jouni Mattila | [Abstract](https://arxiv.org/abs/2505.14486) · [PDF](https://arxiv.org/pdf/2505.14486) |
 | 2025-02-17 | HI-GVF: Shared Control based on Human-Influenced Guiding Vector Fields for Human-multi-robot Cooperation | Pengming Zhu, Zongtan Zhou, Weijia Yao, Wei Dai et al. | [Abstract](https://arxiv.org/abs/2502.11370) · [PDF](https://arxiv.org/pdf/2502.11370) |
 | 2024-09-19 | Perfectly Undetectable False Data Injection Attacks on Encrypted Bilateral Teleoperation System based on Dynamic Symmetry and Malleability | Hyukbin Kwon, Hiroaki Kawase, Heriberto Andres Nieves-Vazquez, Kiminaro Kogiso et al. | [Abstract](https://arxiv.org/abs/2409.13061) · [PDF](https://arxiv.org/pdf/2409.13061) |
 | 2024-05-02 | Haptic-Based Bilateral Teleoperation of Aerial Manipulator for Extracting Wedged Object with Compensation of Human Reaction Time | Jeonghyun Byun, Dohyun Eom, H. Jin Kim | [Abstract](https://arxiv.org/abs/2405.01361) · [PDF](https://arxiv.org/pdf/2405.01361) |

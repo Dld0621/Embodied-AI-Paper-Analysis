@@ -165,7 +165,9 @@ def online_links(record: dict[str, Any]) -> tuple[str, str, str]:
     else:
         paper_url = semantic
 
-    if doi:
+    # An arXiv DOI identifies a preprint, not a conference publisher record.
+    # Keep the venue attribution at the bibliographic tier in that case.
+    if doi and not doi.casefold().startswith("10.48550/arxiv."):
         source_url = f"https://doi.org/{doi}"
         source_type = "publisher"
     elif dblp:

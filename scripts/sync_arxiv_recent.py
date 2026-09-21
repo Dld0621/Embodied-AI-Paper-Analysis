@@ -200,12 +200,14 @@ def fetch_xml(params: dict[str, str | int], retries: int = 12) -> ET.Element:
             request = Request(
                 url,
                 headers={
-                    "User-Agent": "Embodied-AI-Paper-Analysis/1.0 (mailto:Steven.LI@connect.hku.hk)",
+                    "User-Agent": "Embodied-AI-Paper-Analysis/1.0",
                     "Accept": "application/atom+xml",
                 },
             )
             with urlopen(request, timeout=240) as response:
-                return ET.fromstring(response.read())
+                root = ET.fromstring(response.read())
+            validate_feed(root)
+            return root
         except HTTPError as error:
             if error.code not in {429, 500, 502, 503, 504} or attempt == retries - 1:
                 raise
@@ -225,6 +227,20 @@ def fetch_xml(params: dict[str, str | int], retries: int = 12) -> ET.Element:
         )
         time.sleep(retry_delay)
     raise RuntimeError("unreachable")
+
+
+def validate_feed(root: ET.Element) -> None:
+    """Reject error/non-feed responses instead of publishing an empty census."""
+    if root.tag != f"{{{ATOM}}}feed":
+        raise ValueError("arXiv returned a non-Atom response; snapshot was not updated")
+    for entry in root.findall("atom:entry", NS):
+        entry_id = entry.findtext("atom:id", default="", namespaces=NS)
+        if "/api/errors" in entry_id:
+            message = clean_text(entry.findtext("atom:summary", namespaces=NS))
+            raise ValueError(f"arXiv API error: {message}")
+    total = root.findtext("open:totalResults", namespaces=NS)
+    if total is None or not total.strip().isdigit():
+        raise ValueError("arXiv feed is missing a valid totalResults; snapshot was not updated")
 
 
 def parse_entry(entry: ET.Element) -> dict[str, Any] | None:

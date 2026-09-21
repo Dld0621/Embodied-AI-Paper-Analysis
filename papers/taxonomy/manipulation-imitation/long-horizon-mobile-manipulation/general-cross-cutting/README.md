@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 19 conference papers · 70 recent arXiv papers
+> 19 conference papers · 76 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,22 +26,28 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Free-form language-based robotic reasoning and grasping | IROS · Grasp | [Paper](https://arxiv.org/abs/2503.13082) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246686) |
 | 2025 | Keypoint-Aware RAG for Robotic Manipulation: In-Context Constraint Learning via Large-Scale Retrieval | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246507) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246507) |
 | 2025 | PACR: Point-Axis Constraint Reasoning for Enhanced Robotic Manipulation with Dexterity and Compliance | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246460) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246460) |
-| 2025 | SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation | NeurIPS · Manipulation | [Paper](https://arxiv.org/abs/2502.13143) · [Publisher](https://doi.org/10.48550/arXiv.2502.13143) |
+| 2025 | SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation | NeurIPS · Manipulation | [Paper](https://arxiv.org/abs/2502.13143) · [Index](https://dblp.org/rec/journals/corr/abs-2502-13143) |
 | 2024 | Generate Subgoal Images Before Act: Unlocking the Chain-of-Thought Reasoning in Diffusion Model for Robot Manipulation with Multimodal Prompts | CVPR · Manipulation | [Paper](https://doi.org/10.1109/CVPR52733.2024.01327) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01327) |
 | 2024 | ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation | CoRL · Constraint-based manipulation | [Paper](https://arxiv.org/abs/2409.01652) · [Official](https://proceedings.mlr.press/v270/) · [Code](https://github.com/huangwl18/ReKep) |
 | 2024 | Visual Preference Inference: An Image Sequence-Based Preference Reasoning in Tabletop Object Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2403.11513) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801806) |
-| 2023 | A Universal Semantic-Geometric Representation for Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2306.10474) · [Publisher](https://doi.org/10.48550/arXiv.2306.10474) |
-| 2023 | Learning Reusable Manipulation Strategies | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2311.03293) · [Publisher](https://doi.org/10.48550/arXiv.2311.03293) |
-| 2023 | PolarNet: 3D Point Clouds for Language-Guided Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2309.15596) · [Publisher](https://doi.org/10.48550/arXiv.2309.15596) |
+| 2023 | A Universal Semantic-Geometric Representation for Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2306.10474) · [Index](https://dblp.org/rec/journals/corr/abs-2306-10474) |
+| 2023 | Learning Reusable Manipulation Strategies | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2311.03293) · [Index](https://dblp.org/rec/conf/corl/MaoLTK23) |
+| 2023 | PolarNet: 3D Point Clouds for Language-Guided Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2309.15596) · [Index](https://dblp.org/rec/conf/corl/ChenPSL23) |
 | 2023 | Learning Neuro-symbolic Programs for Language Guided Robot Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2211.06652) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160545) |
 | 2023 | GVCCI: Lifelong Learning of Visual Grounding for Language-Guided Robotic Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2307.05963) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342021) |
 | 2023 | Language Guided Robotic Grasping with Fine-Grained Instructions | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS55552.2023.10342331) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342331) |
 | 2022 | Sequential Manipulation Planning on Scene Graph | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2207.04364) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981735) |
 
-## Recent arXiv papers (70)
+## Recent arXiv papers (76)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-18 | ProTracer: Proprioception-Guided Failure Diagnosis in Robot Manipulation | Chang Dong, Mehdi Hosseinzadeh, King Hang Wong, Lingqiao Liu et al. | [Abstract](https://arxiv.org/abs/2609.21369) · [PDF](https://arxiv.org/pdf/2609.21369) |
+| 2026-09-17 | SenseFuse: Label-Free Fusion of Image and Shape Encoders for Open-Vocabulary 3D Instance Segmentation | Euiseok Han, Tri Ton, Hwanhee Kim, Seungyeon Ryu et al. | [Abstract](https://arxiv.org/abs/2609.20475) · [PDF](https://arxiv.org/pdf/2609.20475) |
+| 2026-09-16 | ParticleSplat: Self-supervised Object-centric Latent Particle Splatting | Lyuxing He, Daniel Guo, Elizabeth Terveen, Deepak Pathak et al. | [Abstract](https://arxiv.org/abs/2609.19463) · [PDF](https://arxiv.org/pdf/2609.19463) |
+| 2026-09-08 | 3DWay: Generalizing Robot Manipulation via 3D Consistent Waypoints | Ziqin Huang, Yingyue Li, Chenyangguang Zhang, Ruida Zhang et al. | [Abstract](https://arxiv.org/abs/2609.08224) · [PDF](https://arxiv.org/pdf/2609.08224) |
+| 2026-09-05 | RefGuard: Identity-Aware Language-Guided Robot Manipulation via Joint Target-Anchor-Frame Grounding | Lan Wei, Kangyi Lu, Yongchen Wang, Chenmeng Bi et al. | [Abstract](https://arxiv.org/abs/2609.06221) · [PDF](https://arxiv.org/pdf/2609.06221) |
+| 2026-09-04 | LIBERO-RECOVER: Beyond Task Success Towards Failure Recovery in Robotic Manipulation Models | Lin Liu, Zhicheng Bao, Lu Zhang, Ziying Song et al. | [Abstract](https://arxiv.org/abs/2609.05178) · [PDF](https://arxiv.org/pdf/2609.05178) |
 | 2026-08-27 | Beyond Relative Geometry: Metric-Aware Geometry Perception for Robotics | Fengjun Zhong, Congjia Chen, Zhaoxu Liu, Jinyang Du et al. | [Abstract](https://arxiv.org/abs/2608.27497) · [PDF](https://arxiv.org/pdf/2608.27497) |
 | 2026-08-18 | Revisiting the "Push-T" Robot Manipulation Task with Agentic Robotics | Shuangyu Xie, Kaiyuan Chen, Ken Goldberg | [Abstract](https://arxiv.org/abs/2608.18227) · [PDF](https://arxiv.org/pdf/2608.18227) |
 | 2026-08-18 | CompCPZ: Preserving Multi-Modal Intent in Language-Guided Robot Manipulation | Zhen Zhang, Ahmad Hafez, Peng Xie, Yanliang Huang et al. | [Abstract](https://arxiv.org/abs/2608.17717) · [PDF](https://arxiv.org/pdf/2608.17717) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=State%20Estimation%20%26%20Tracking&specialty=Object%20%26%20Multi-target%20Tracking#research-workbench)
 
-> 1 conference papers · 81 recent arXiv papers
+> 1 conference papers · 83 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | Stretchable and High-Precision Optical Tactile Sensor for Trajectory Tracking of Parallel Mechanisms | IROS · Tactile | [Paper](https://arxiv.org/abs/2512.20888) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246642) |
 
-## Recent arXiv papers (81)
+## Recent arXiv papers (83)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-17 | Do Spinning Radar Doppler Velocity Measurements Improve Vehicle Detection and Tracking? | Eric Xie, Daniil Lisus, Timothy D. Barfoot | [Abstract](https://arxiv.org/abs/2609.21000) · [PDF](https://arxiv.org/pdf/2609.21000) |
+| 2026-09-10 | IMM-based Multiple Object Tracking using a State Prediction Neural Network | Chan-Bin Lim, Dong-Hee Paek, Seung-Hyun Kong | [Abstract](https://arxiv.org/abs/2609.13307) · [PDF](https://arxiv.org/pdf/2609.13307) |
+| 2026-09-05 | CST-WM: A Causally Structured World Model for Embodied Visual Tracking | Junyi Hu, Shuaihang Yuan, Yi Fang | [Abstract](https://arxiv.org/abs/2609.06302) · [PDF](https://arxiv.org/pdf/2609.06302) |
 | 2026-08-11 | JitTrack: Onboard Multi-Object Tracking Against Viewpoint Jitter for Agile UAVs | Yachun Shan, Feitian Zhang | [Abstract](https://arxiv.org/abs/2608.10485) · [PDF](https://arxiv.org/pdf/2608.10485) |
 | 2026-08-10 | GenTrack3: Hybrid Stochastic-Deterministic Online Multi-Object Tracking with Cluster-Aware Association | Toan Van Nguyen, Rasmus G. K. Christiansen, Dirk Kraft, Leon Bodenhagen | [Abstract](https://arxiv.org/abs/2608.09581) · [PDF](https://arxiv.org/pdf/2608.09581) |
 | 2026-06-30 | Machine Learning-based Feedback Linearization Control of Quadrotor Subject to Unmodeled Dynamics | Amos Alwala, Gabriel da Silva Lima, Wallace Moreira Bessa | [Abstract](https://arxiv.org/abs/2606.31199) · [PDF](https://arxiv.org/pdf/2606.31199) |
@@ -104,7 +107,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-11 | System-level Safety Guard: Safe Tracking Control through Uncertain Neural Network Dynamics Models | Xiao Li, Yutong Li, Anouck Girard, Ilya Kolmanovsky | [Abstract](https://arxiv.org/abs/2312.06810) · [PDF](https://arxiv.org/pdf/2312.06810) |
 | 2023-11-06 | Obstacle- and Occlusion-Responsive Visual Tracking Control for Redundant Manipulators using Reachability Measure | Mincheul Kang, Junhyoung Ha | [Abstract](https://arxiv.org/abs/2311.03029) · [PDF](https://arxiv.org/pdf/2311.03029) |
 | 2023-10-12 | Multi-Modal Sensor Fusion and Object Tracking for Autonomous Racing | Phillip Karle, Felix Fent, Sebastian Huch, Florian Sauerbeck et al. | [Abstract](https://arxiv.org/abs/2310.08114) · [PDF](https://arxiv.org/pdf/2310.08114) |
-| 2023-09-13 | Transparent Object Tracking with Enhanced Fusion Module | Kalyan Garigapati, Erik Blasch, Jie Wei, Haibin Ling | [Abstract](https://arxiv.org/abs/2309.06701) · [PDF](https://arxiv.org/pdf/2309.06701) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Mapping%20%26%20Localization&specialty=Semantic%2C%20Metric%20%26%20Neural%20Maps#research-workbench)
 
-> 13 conference papers · 58 recent arXiv papers
+> 13 conference papers · 59 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,7 +23,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Bio-Inspired Hybrid Map: Spatial Implicit Local Frames and Topological Map for Mobile Cobot Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2507.04649) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247357) |
 | 2025 | Experimental Evaluation of Radio-aware Semantic Map with 5G-Enabled Mobile Robots | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS60139.2025.11246785) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246785) |
 | 2025 | RMMI: Reactive Mobile Manipulation using an Implicit Neural Map | IROS · Mobile Manipulation | [Paper](https://arxiv.org/abs/2408.16206) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245922) |
-| 2024 | Context-Aware Replanning with Pre-explored Semantic Map for Object Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2409.04837) · [Publisher](https://doi.org/10.48550/arXiv.2409.04837) |
+| 2024 | Context-Aware Replanning with Pre-explored Semantic Map for Object Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2409.04837) · [Index](https://dblp.org/rec/journals/corr/abs-2409-04837) |
 | 2024 | RoboHop: Segment-based Topological Map Representation for Open-World Visual Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2405.05792) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610234) |
 | 2024 | EVSMap: An Efficient Volumetric-Semantic Mapping Approach for Embedded Systems | IROS · Semantic Mapping | [Paper](https://doi.org/10.1109/IROS58592.2024.10801849) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801849) |
 | 2024 | Multiple Visual Features in Topological Map for Vision-and-Language Navigation | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10803061) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10803061) |
@@ -32,10 +32,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Robust Fusion for Bayesian Semantic Mapping | IROS · Semantic Mapping | [Paper](https://arxiv.org/pdf/2303.07836) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342253) |
 | 2022 | Robust Semantic Mapping and Localization on a Free-Flying Robot in Microgravity | ICRA · Semantic Mapping | [Paper](https://doi.org/10.1109/icra46639.2022.9811862) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811862) |
 
-## Recent arXiv papers (58)
+## Recent arXiv papers (59)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-14 | HydroMap: Probabilistic Water Surface Elevation Mapping for Semantic Scene Representation in Inland Waterways | Zhongbi Luo, Yunjia Wang, Herman Bruyninckx, Peter Slaets | [Abstract](https://arxiv.org/abs/2609.14903) · [PDF](https://arxiv.org/pdf/2609.14903) |
 | 2026-07-28 | Leveraging Semantic Maps for City-Scale Cross-View Localization | Ethan Fahnestock, Erick Fuentes, Philip R Osteen, Nicholas Roy | [Abstract](https://arxiv.org/abs/2607.25215) · [PDF](https://arxiv.org/pdf/2607.25215) |
 | 2026-07-15 | AeroMap3D: Anchoring Monocular UAV 6-DoF Localization to Visual-Geometric-Semantic Map Priors | Zhiyun Deng, Luis Sentis | [Abstract](https://arxiv.org/abs/2607.14009) · [PDF](https://arxiv.org/pdf/2607.14009) |
 | 2026-07-07 | SASGeo: Stability-Aware Semantic Map Localization for GNSS-Denied UAVs -- A Framework and Synthetic Proof of Concept | Natalia Trukhina, Vadim Vashkelis | [Abstract](https://arxiv.org/abs/2607.07737) · [PDF](https://arxiv.org/pdf/2607.07737) |
@@ -57,10 +58,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-08-22 | Take That for Me: Multimodal Exophora Resolution with Interactive Questioning for Ambiguous Out-of-View Instructions | Akira Oyama, Shoichi Hasegawa, Akira Taniguchi, Yoshinobu Hagiwara et al. | [Abstract](https://arxiv.org/abs/2508.16143) · [PDF](https://arxiv.org/pdf/2508.16143) |
 | 2025-07-07 | Bio-Inspired Hybrid Map: Spatial Implicit Local Frames and Topological Map for Mobile Cobot Navigation | Tuan Dang, Manfred Huber | [Abstract](https://arxiv.org/abs/2507.04649) · [PDF](https://arxiv.org/pdf/2507.04649) |
 | 2025-06-24 | Robust Robotic Exploration and Mapping Using Generative Occupancy Map Synthesis | Lorin Achey, Alec Reed, Brendan Crowe, Bradley Hayes et al. | [Abstract](https://arxiv.org/abs/2506.20049) · [PDF](https://arxiv.org/pdf/2506.20049) |
-| 2025-06-09 | MapBERT: Bitwise Masked Modeling for Real-Time Semantic Mapping Generation | Yijie Deng, Shuaihang Yuan, Congcong Wen, Hao Huang et al. | [Abstract](https://arxiv.org/abs/2506.07350) · [PDF](https://arxiv.org/pdf/2506.07350) |
+| 2025-06-09 | FastMap: Real-Time Semantic Map Completion via Bitwise Masked Modeling | Yijie Deng, Shuaihang Yuan, Congcong Wen, Hao Huang et al. | [Abstract](https://arxiv.org/abs/2506.07350) · [PDF](https://arxiv.org/pdf/2506.07350) |
 | 2025-04-15 | FreeDOM: Online Dynamic Object Removal Framework for Static Map Construction Based on Conservative Free Space Estimation | Chen Li, Wanlei Li, Wenhao Liu, Yixiang Shu et al. | [Abstract](https://arxiv.org/abs/2504.11073) · [PDF](https://arxiv.org/pdf/2504.11073) |
 | 2025-04-14 | Communication-aware Hierarchical Map Compression of Time-Varying Environments for Mobile Robots | Daniel T. Larsson, Dipankar Maity | [Abstract](https://arxiv.org/abs/2504.10751) · [PDF](https://arxiv.org/pdf/2504.10751) |
 | 2025-03-30 | Improving Indoor Localization Accuracy by Using an Efficient Implicit Neural Map Representation | Haofei Kuang, Yue Pan, Xingguang Zhong, Louis Wiesmann et al. | [Abstract](https://arxiv.org/abs/2503.23480) · [PDF](https://arxiv.org/pdf/2503.23480) |
+| 2025-03-04 | L2G-Map: Local-to-Global Mapping via Hierarchical Diffusion Refinement and Elliptical Bayesian Fusion | Siyu Li, Xinying Hong, Fei Teng, Kang Zeng et al. | [Abstract](https://arxiv.org/abs/2503.02578) · [PDF](https://arxiv.org/pdf/2503.02578) |
 | 2025-02-09 | PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map | Yue Pan, Xingguang Zhong, Liren Jin, Louis Wiesmann et al. | [Abstract](https://arxiv.org/abs/2502.05752) · [PDF](https://arxiv.org/pdf/2502.05752) |
 | 2025-01-10 | Semantic Mapping in Indoor Embodied AI -- A Survey on Advances, Challenges, and Future Directions | Sonia Raychaudhuri, Angel X. Chang | [Abstract](https://arxiv.org/abs/2501.05750) · [PDF](https://arxiv.org/pdf/2501.05750) |
 | 2024-12-02 | SF-Loc: A Visual Mapping and Geo-Localization System based on Sparse Visual Structure Frames | Yuxuan Zhou, Xingxing Li, Shengyu Li, Chunxi Xia et al. | [Abstract](https://arxiv.org/abs/2412.01500) · [PDF](https://arxiv.org/pdf/2412.01500) |
@@ -93,7 +95,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-21 | FHT-Map: Feature-based Hierarchical Topological Map for Relocalization and Path Planning | Kun Song, Wenhang Liu, Gaoming Chen, Xiang Xu et al. | [Abstract](https://arxiv.org/abs/2310.13899) · [PDF](https://arxiv.org/pdf/2310.13899) |
 | 2023-10-11 | LESS-Map: Lightweight and Evolving Semantic Map in Parking Lots for Long-term Self-Localization | Mingrui Liu, Xinyang Tang, Yeqiang Qian, Jiming Chen et al. | [Abstract](https://arxiv.org/abs/2310.07390) · [PDF](https://arxiv.org/pdf/2310.07390) |
 | 2023-09-28 | MEM: Multi-Modal Elevation Mapping for Robotics and Learning | Gian Erni, Jonas Frey, Takahiro Miki, Matias Mattamala et al. | [Abstract](https://arxiv.org/abs/2309.16818) · [PDF](https://arxiv.org/pdf/2309.16818) |
-| 2023-09-15 | Object-Oriented Grid Mapping in Dynamic Environments | Matti Pekkanen, Francesco Verdoja, Ville Kyrki | [Abstract](https://arxiv.org/abs/2309.08324) · [PDF](https://arxiv.org/pdf/2309.08324) |
 
 ---
 

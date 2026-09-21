@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Hardware%20%26%20Morphology&specialty=Actuators%2C%20Joints%20%26%20Transmission#research-workbench)
 
-> 1 conference papers · 28 recent arXiv papers
+> 1 conference papers · 27 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,13 +20,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | JiAo: A Versatile Snake Robot with Elliptical Wheels for Multimodal Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11247509) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247509) |
 
-## Recent arXiv papers (28)
+## Recent arXiv papers (27)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
 | 2026-08-14 | Real-time Estimator of Actuator Control and Health (REACH) on an Eel-Inspired Soft Robot | Zhangjingyi Jiang, Myungsun Park, Michael T. Tolley, Mark Campbell | [Abstract](https://arxiv.org/abs/2608.14865) · [PDF](https://arxiv.org/pdf/2608.14865) |
 | 2026-06-14 | TO-SoFiT: Topology Optimization of Hydraulic Soft Fish Tail Design for programmable undulating locomotion | A Padmaprabhan, Amal Shaji, Prabhat Kumar | [Abstract](https://arxiv.org/abs/2606.15645) · [PDF](https://arxiv.org/pdf/2606.15645) |
-| 2026-04-02 | A Dynamic Toolkit for Transmission Characteristics of Precision Reducers with Explicit Contact Geometry | Jiacheng Miao, Chao Liu, Qiliang Wang, Yunhui Guan et al. | [Abstract](https://arxiv.org/abs/2604.02387) · [PDF](https://arxiv.org/pdf/2604.02387) |
 | 2026-03-28 | Design of an In-Pipe Robot with Contact-Angle-Guided Kinematic Decoupling for Crosstalk-Suppressed Locomotion | Min Yang, Yang Tian, Longchuang Li, Jun Ma et al. | [Abstract](https://arxiv.org/abs/2603.27245) · [PDF](https://arxiv.org/pdf/2603.27245) |
 | 2026-01-29 | Macro-Scale Electrostatic Origami Motor | Alex S. Miller, Leo McElroy, Jeffrey H. Lang | [Abstract](https://arxiv.org/abs/2601.21976) · [PDF](https://arxiv.org/pdf/2601.21976) |
 | 2026-01-27 | RhoMorph: Rhombus-shaped Deformable Modular Robots for Stable, Medium-Independent Reconfiguration Motion | Jie Gu, Yirui Sun, Zhihao Xia, Tin Lun Lam et al. | [Abstract](https://arxiv.org/abs/2601.19529) · [PDF](https://arxiv.org/pdf/2601.19529) |

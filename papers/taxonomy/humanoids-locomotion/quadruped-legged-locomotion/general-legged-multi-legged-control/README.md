@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Quadruped%20%26%20Legged%20Locomotion&specialty=General%20Legged%20%26%20Multi-legged%20Control#research-workbench)
 
-> 147 conference papers · 289 recent arXiv papers
+> 147 conference papers · 298 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -59,11 +59,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Steering Elongate Multi-legged Robots by Modulating Body Undulation Waves | IROS · Legged | [Paper](https://arxiv.org/abs/2410.01050) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246477) |
 | 2025 | Transferable Latent-To-Latent Locomotion Policy for Efficient and Versatile Motion Control of Diverse Legged Robots | IROS · Locomotion | [Paper](https://arxiv.org/abs/2503.17626) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246100) |
 | 2025 | UniLegs: Universal Multi-Legged Robot Control through Morphology-Agnostic Policy Distillation | IROS · Legged | [Paper](https://arxiv.org/abs/2507.22653) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246243) |
-| 2024 | DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Datasets | CoRL · Locomotion | [Paper](https://arxiv.org/abs/2404.19264) · [Publisher](https://doi.org/10.48550/arXiv.2404.19264) |
-| 2024 | Learning to Open and Traverse Doors with a Legged Manipulator | CoRL · Legged | [Paper](https://arxiv.org/abs/2409.04882) · [Publisher](https://doi.org/10.48550/arXiv.2409.04882) |
-| 2024 | One Policy to Run Them All: an End-to-end Learning Approach to Multi-Embodiment Locomotion | CoRL · Locomotion | [Paper](https://arxiv.org/abs/2409.06366) · [Publisher](https://doi.org/10.48550/arXiv.2409.06366) |
-| 2024 | RobotKeyframing: Learning Locomotion with High-Level Objectives via Mixture of Dense and Sparse Rewards | CoRL · Locomotion | [Paper](https://arxiv.org/abs/2407.11562) · [Publisher](https://doi.org/10.48550/arXiv.2407.11562) |
-| 2024 | TOP-Nav: Legged Navigation Integrating Terrain, Obstacle and Proprioception Estimation | CoRL · Legged | [Paper](https://arxiv.org/abs/2404.15256) · [Publisher](https://doi.org/10.48550/arXiv.2404.15256) |
+| 2024 | DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Datasets | CoRL · Locomotion | [Paper](https://arxiv.org/abs/2404.19264) · [Index](https://dblp.org/rec/journals/corr/abs-2404-19264) |
+| 2024 | Learning to Open and Traverse Doors with a Legged Manipulator | CoRL · Legged | [Paper](https://arxiv.org/abs/2409.04882) · [Index](https://dblp.org/rec/journals/corr/abs-2409-04882) |
+| 2024 | One Policy to Run Them All: an End-to-end Learning Approach to Multi-Embodiment Locomotion | CoRL · Locomotion | [Paper](https://arxiv.org/abs/2409.06366) · [Index](https://dblp.org/rec/conf/corl/BohlingerCKKW0T24) |
+| 2024 | RobotKeyframing: Learning Locomotion with High-Level Objectives via Mixture of Dense and Sparse Rewards | CoRL · Locomotion | [Paper](https://arxiv.org/abs/2407.11562) · [Index](https://dblp.org/rec/conf/corl/Zargarbashi0KSC24) |
+| 2024 | TOP-Nav: Legged Navigation Integrating Terrain, Obstacle and Proprioception Estimation | CoRL · Legged | [Paper](https://arxiv.org/abs/2404.15256) · [Index](https://dblp.org/rec/conf/corl/RenLDLW24) |
 | 2024 | CrossLoco: Human Motion Driven Control of Legged Robots via Guided Unsupervised Reinforcement Learning | ICLR · Legged | [Paper](https://www.semanticscholar.org/paper/a5df1a3d7d389d9a3d94e835b281664f90eb9e4e) · [Index](https://dblp.org/rec/conf/iclr/Li0GCH24) |
 | 2024 | Hybrid Internal Model: Learning Agile Legged Locomotion with Simulated Robot Response | ICLR · Locomotion | [Paper](https://www.semanticscholar.org/paper/c137bb987361f1ec923a2a7ebb2cf8753397612a) · [Index](https://dblp.org/rec/conf/iclr/LongWLC0P24) |
 | 2024 | Accounting for Travel Time and Arrival Time Coordination During Task Allocations in Legged-Robot Teams | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610869) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610869) |
@@ -111,9 +111,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Research on Autonomous Navigation of Dual-mode Wheel-legged Robot | IROS · Legged | [Paper](https://doi.org/10.1109/IROS58592.2024.10801460) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801460) |
 | 2024 | State Estimation Transformers for Agile Legged Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/abs/2410.13496) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802640) |
 | 2024 | Versatile Locomotion Skills for Hexapod Robots | IROS · Locomotion | [Paper](https://arxiv.org/abs/2412.10628) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801714) |
-| 2024 | Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion | RSS · Locomotion | [Paper](https://arxiv.org/abs/2401.17583) · [Publisher](https://doi.org/10.48550/arXiv.2401.17583) |
+| 2024 | Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion | RSS · Locomotion | [Paper](https://arxiv.org/abs/2401.17583) · [Index](https://dblp.org/rec/conf/rss/HeZXHLS24) |
 | 2024 | RL2AC: Reinforcement Learning-based Rapid Online Adaptive Control for Legged Robot Robust Locomotion | RSS · Locomotion | [Paper](https://doi.org/10.15607/rss.2024.xx.060) · [Publisher](https://doi.org/10.15607/rss.2024.xx.060) |
-| 2023 | Tuning Legged Locomotion Controllers via Safe Bayesian Optimization | CoRL · Locomotion | [Paper](https://arxiv.org/abs/2306.07092) · [Publisher](https://doi.org/10.48550/arXiv.2306.07092) |
+| 2023 | Tuning Legged Locomotion Controllers via Safe Bayesian Optimization | CoRL · Locomotion | [Paper](https://arxiv.org/abs/2306.07092) · [Index](https://dblp.org/rec/conf/corl/WidmerKSH0C23) |
 | 2023 | A General Locomotion Approach for a Novel Multi-legged Spherical Robot | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160881) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160881) |
 | 2023 | Contact Based Turning Gait of a Novel Legged-Wheeled Quadruped | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161241) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161241) |
 | 2023 | Design and Evaluation of an Augmented Reality Head-Mounted Display User Interface for Controlling Legged Manipulators | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161278) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161278) |
@@ -141,10 +141,10 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Safety-Critical Coordination for Cooperative Legged Locomotion via Control Barrier Functions | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2303.13630) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341987) |
 | 2023 | Towards Legged Locomotion on Steep Planetary Terrain | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS55552.2023.10341665) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341665) |
 | 2023 | Water Surface Walking of Six-Legged Robot by Controlling Attitude of Feet When It Enter Water | IROS · Legged | [Paper](https://doi.org/10.1109/IROS55552.2023.10342494) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342494) |
-| 2022 | Legged Locomotion in Challenging Terrains using Egocentric Vision | CoRL · Locomotion | [Paper](https://arxiv.org/pdf/2211.07638) · [Publisher](https://doi.org/10.48550/arXiv.2211.07638) |
+| 2022 | Legged Locomotion in Challenging Terrains using Egocentric Vision | CoRL · Locomotion | [Paper](https://arxiv.org/pdf/2211.07638) · [Index](https://dblp.org/rec/journals/corr/abs-2211-07638) |
 | 2022 | Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior | CoRL · Legged locomotion | [Paper](https://proceedings.mlr.press/v205/margolis23a/margolis23a.pdf) · [Official](https://proceedings.mlr.press/v205/margolis23a.html) · [Code](https://gmargo11.github.io/walk-these-ways) |
 | 2022 | A Novel Model of Interaction Dynamics between Legged Robots and Deformable Terrain | ICRA · Legged | [Paper](https://doi.org/10.1109/icra46639.2022.9812351) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812351) |
-| 2022 | Monte Carlo Tree Search Gait Planner for Non-Gaited Legged System Control | ICRA · Legged | [Paper](https://arxiv.org/pdf/2205.14277) · [Publisher](https://doi.org/10.48550/arXiv.2205.14277) |
+| 2022 | Monte Carlo Tree Search Gait Planner for Non-Gaited Legged System Control | ICRA · Legged | [Paper](https://arxiv.org/pdf/2205.14277) · [Index](https://dblp.org/rec/conf/icra/AmatucciKHP22) |
 | 2022 | Nonprehensile Object Transportation with a Legged Manipulator | ICRA · Legged | [Paper](https://doi.org/10.1109/icra46639.2022.9811810) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811810) |
 | 2022 | Periodic SLAM: Using Cyclic Constraints to Improve the Performance of Visual-Inertial SLAM on Legged Robots | ICRA · Legged | [Paper](https://doi.org/10.1109/icra46639.2022.9811634) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811634) |
 | 2022 | A Hybrid Primitive-Based Navigation Planner for the Wheeled-Legged Robot CENTAURO | IROS · Legged | [Paper](https://doi.org/10.1109/IROS47612.2022.9981188) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981188) |
@@ -166,10 +166,23 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Real-time Digital Double Framework to Predict Collapsible Terrains for Legged Robots | IROS · Legged | [Paper](https://discovery.ucl.ac.uk/10164223/1/2209.09508.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981613) |
 | 2022 | Safe Reinforcement Learning for Legged Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/abs/2203.02638) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982038) |
 
-## Recent arXiv papers (289)
+## Recent arXiv papers (298)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-18 | SABER: Learning Attention-based Semantic Affordance for Legged Locomotion | Hari Prasanth Palanivelu, Samuel Sze, Kennard Garrison Johannes, Albertus Hendrawan Adiwahono et al. | [Abstract](https://arxiv.org/abs/2609.21572) · [PDF](https://arxiv.org/pdf/2609.21572) |
+| 2026-09-17 | Quantifying Mechanical Intelligence in Legged Robots with Information Theory | Zach J. Patterson | [Abstract](https://arxiv.org/abs/2609.19588) · [PDF](https://arxiv.org/pdf/2609.19588) |
+| 2026-09-17 | DR-MPC: Fast and Feasible Dynamics-Relaxed Model-Predictive Control for Legged Locomotion | Run Wang, Alapati Tuerxun, Shuo Liu, Wei Xiao et al. | [Abstract](https://arxiv.org/abs/2609.20035) · [PDF](https://arxiv.org/pdf/2609.20035) |
+| 2026-09-16 | WAVE-Go: World-Model Navigation with Adaptive Execution for Wheel-Legged Robots | Mingyi Li, Ji Li, Zhihao Ouyang, Yage He et al. | [Abstract](https://arxiv.org/abs/2609.18193) · [PDF](https://arxiv.org/pdf/2609.18193) |
+| 2026-09-15 | Optimized Wrench Polytope Analysis for Real-Time Stability Control of Legged Robots in Complex Multi-Contact Configurations | Friedrich Graaf, Elias Birkefeld, Christian Eichmann, Elias Hofele et al. | [Abstract](https://arxiv.org/abs/2609.17405) · [PDF](https://arxiv.org/pdf/2609.17405) |
+| 2026-09-14 | Learning to Exploit Passive Dynamics for Energy-Efficient Target Hopping of a Spring-Legged Quadcopter | Ruigang Chen, Qi Zhang, Zhicheng Zhong, Zhuorui Yun et al. | [Abstract](https://arxiv.org/abs/2609.15447) · [PDF](https://arxiv.org/pdf/2609.15447) |
+| 2026-09-14 | JEPLO: Joint-Embedding Predictive Learning for LiDAR-Based Legged Locomotion | Qihao Yuan, Yixuan Qiu, Ziyu Cao, Ming Cao et al. | [Abstract](https://arxiv.org/abs/2609.15770) · [PDF](https://arxiv.org/pdf/2609.15770) |
+| 2026-09-13 | Skill Composition for Legged Robot Reinforcement Learning | Daniel Gigliotti, Flavio Maiorana, Fabio Patrizi, Luca Iocchi | [Abstract](https://arxiv.org/abs/2609.14647) · [PDF](https://arxiv.org/pdf/2609.14647) |
+| 2026-09-11 | Decentralized Evolution of Hexapod Gaits with Independent Leg Controllers | Gary B. Parker, John Asaro, Jim O'Connor | [Abstract](https://arxiv.org/abs/2609.12400) · [PDF](https://arxiv.org/pdf/2609.12400) |
+| 2026-09-09 | Frame-Coded Legged Locomotion over Noisy Terrain | Lav R. Varshney | [Abstract](https://arxiv.org/abs/2609.10273) · [PDF](https://arxiv.org/pdf/2609.10273) |
+| 2026-09-08 | Actuator Dynamics Curricula for Narrow-Viability Tasks in Legged Robot Learning | Kousheek Chakraborty, Chandan K. Rajendra, Ayham Alharbat, Abeje Y. Mersha | [Abstract](https://arxiv.org/abs/2609.09492) · [PDF](https://arxiv.org/pdf/2609.09492) |
+| 2026-09-07 | Open-Set Ego-Noise Separation for Legged-Robot Audition via Annotation-Free Adaptation and Pretrained-Model Transfer | Koki Shoda, Jun Younes Louhi Kasahara, Aoba Koyanagi, Qi An et al. | [Abstract](https://arxiv.org/abs/2609.07440) · [PDF](https://arxiv.org/pdf/2609.07440) |
+| 2026-09-07 | Mind the Phase: Effective Rank and Representation Health in Legged Locomotion | Felipe Tommaselli, Thiago H. Segreto, Juliano D. Negri, Ricardo V. Godoy et al. | [Abstract](https://arxiv.org/abs/2609.06958) · [PDF](https://arxiv.org/pdf/2609.06958) |
 | 2026-08-26 | SUPER ODOMETRY 2.0: Resilient Odometry via Hierarchical Adaptation | Shibo Zhao, Sifan Zhou, Yuchen Zhang, Ji Zhang et al. | [Abstract](https://arxiv.org/abs/2608.25427) · [PDF](https://arxiv.org/pdf/2608.25427) |
 | 2026-08-20 | Video2DoorTraversal: Push Door Traversal via Simulated Door Twins | Xincheng Tang, Yiji Chen, Youhan Xie, Wanyu Li et al. | [Abstract](https://arxiv.org/abs/2608.20251) · [PDF](https://arxiv.org/pdf/2608.20251) |
 | 2026-08-19 | Real-Time Control-Constrained DDP for Underactuated Balancing of Legged Robots | SeongWon Nam, Hyunyong Lee, Hansol Kang, Jiman Park et al. | [Abstract](https://arxiv.org/abs/2608.18552) · [PDF](https://arxiv.org/pdf/2608.18552) |
@@ -242,7 +255,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-02-05 | Task-Oriented Robot-Human Handovers on Legged Manipulators | Andreea Tulbure, Carmen Scheidemann, Elias Steiner, Marco Hutter | [Abstract](https://arxiv.org/abs/2602.05760) · [PDF](https://arxiv.org/pdf/2602.05760) |
 | 2026-01-26 | Attention-Based Neural-Augmented Kalman Filter for Legged Robot State Estimation | Seokju Lee, Kyung-Soo Kim | [Abstract](https://arxiv.org/abs/2601.18569) · [PDF](https://arxiv.org/pdf/2601.18569) |
 | 2026-01-17 | Learning Legged MPC with Smooth Neural Surrogates | Samuel A. Moore, Easop Lee, Boyuan Chen | [Abstract](https://arxiv.org/abs/2601.12169) · [PDF](https://arxiv.org/pdf/2601.12169) |
-| 2026-01-13 | AME-2: Agile and Generalized Legged Locomotion via Attention-Based Neural Map Encoding | Chong Zhang, Victor Klemm, Fan Yang, Marco Hutter | [Abstract](https://arxiv.org/abs/2601.08485) · [PDF](https://arxiv.org/pdf/2601.08485) |
+| 2026-01-13 | Agile and Generalized Legged Locomotion via Attention-Based Neural Map Encoding | Chong Zhang, Victor Klemm, Fan Yang, Marco Hutter | [Abstract](https://arxiv.org/abs/2601.08485) · [PDF](https://arxiv.org/pdf/2601.08485) |
 | 2026-01-12 | Large-Scale Autonomous Gas Monitoring for Volcanic Environments: A Legged Robot on Mount Etna | Julia Richter, Turcan Tuna, Manthan Patel, Takahiro Miki et al. | [Abstract](https://arxiv.org/abs/2601.07362) · [PDF](https://arxiv.org/pdf/2601.07362) |
 | 2026-01-04 | Sampling Strategy Design for Model Predictive Path Integral Control on Legged Robot Locomotion | Chuyuan Tao, Fanxin Wang, Haolong Jiang, Jia He et al. | [Abstract](https://arxiv.org/abs/2601.01409) · [PDF](https://arxiv.org/pdf/2601.01409) |
 | 2025-12-31 | Dynamic Policy Learning for Legged Robot with Simplified Model Pretraining and Model-Homotopy-Inspired Transfer | Dongyun Kang, Min-Gyu Kim, Tae-Gyu Song, Hajun Kim et al. | [Abstract](https://arxiv.org/abs/2512.24698) · [PDF](https://arxiv.org/pdf/2512.24698) |
@@ -455,10 +468,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-05 | Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End | Jin Jin, Chong Zhang, Jonas Frey, Nikita Rudin et al. | [Abstract](https://arxiv.org/abs/2310.03581) · [PDF](https://arxiv.org/pdf/2310.03581) |
 | 2023-09-27 | Evaluation of Constrained Reinforcement Learning Algorithms for Legged Locomotion | Joonho Lee, Lukas Schroth, Victor Klemm, Marko Bjelonic et al. | [Abstract](https://arxiv.org/abs/2309.15430) · [PDF](https://arxiv.org/pdf/2309.15430) |
 | 2023-09-25 | Extreme Parkour with Legged Robots | Xuxin Cheng, Kexin Shi, Ananye Agarwal, Deepak Pathak | [Abstract](https://arxiv.org/abs/2309.14341) · [PDF](https://arxiv.org/pdf/2309.14341) |
-| 2023-09-09 | A Compact Optical Six-Axis Force/Torque Sensor for Legged Robots Using a Polymorphic Calibration Method | Hyun-Bin Kim, Keun-Ha Choi, Kyung-Soo Kim | [Abstract](https://arxiv.org/abs/2309.04720) · [PDF](https://arxiv.org/pdf/2309.04720) |
-| 2023-09-08 | Multi-contact Stochastic Predictive Control for Legged Robots with Contact Locations Uncertainty | Ahmad Gazar, Majid Khadiv, Andrea Del Prete, Ludovic Righetti | [Abstract](https://arxiv.org/abs/2309.04469) · [PDF](https://arxiv.org/pdf/2309.04469) |
-| 2023-09-05 | Safe Legged Locomotion using Collision Cone Control Barrier Functions (C3BFs) | Manan Tayal, Shishir Kolathaya | [Abstract](https://arxiv.org/abs/2309.01898) · [PDF](https://arxiv.org/pdf/2309.01898) |
-| 2023-09-03 | Swing Leg Motion Strategy for Heavy-load Legged Robot Based on Force Sensing | Ze Fu, Yinghui Li, Weizhong Guo | [Abstract](https://arxiv.org/abs/2309.01112) · [PDF](https://arxiv.org/pdf/2309.01112) |
 
 ---
 

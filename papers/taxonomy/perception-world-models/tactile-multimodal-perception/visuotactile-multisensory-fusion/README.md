@@ -26,7 +26,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | VET: A Visual-Electronic Tactile System for Immersive Human-Machine Interaction | IROS · Tactile | [Paper](https://arxiv.org/abs/2503.23440) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247401) |
 | 2024 | Touch-GS: Visual-Tactile Supervised 3D Gaussian Splatting | IROS · Tactile | [Paper](https://arxiv.org/abs/2403.09875) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802412) |
 | 2023 | Visuotactile Sensor Enabled Pneumatic Device Towards Compliant Oropharyngeal Swab Sampling | IROS · Tactile | [Paper](https://arxiv.org/pdf/2305.06537) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342266) |
-| 2022 | Visuotactile Affordances for Cloth Manipulation with Local Control | CoRL · Tactile | [Paper](https://arxiv.org/abs/2212.05108) · [Publisher](https://doi.org/10.48550/arXiv.2212.05108) |
+| 2022 | Visuotactile Affordances for Cloth Manipulation with Local Control | CoRL · Tactile | [Paper](https://arxiv.org/abs/2212.05108) · [Index](https://dblp.org/rec/conf/corl/SunilWSAG22) |
 | 2022 | SpecTac: A Visual-Tactile Dual-Modality Sensor Using UV Illumination | ICRA · Tactile | [Paper](https://repository.hkust.edu.hk/ir/bitstream/1783.1-118728/1/118728-1.pdf) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812348) |
 | 2022 | Learning-based Six-axis Force/Torque Estimation Using GelStereo Fingertip Visuotactile Sensing | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS47612.2022.9981100) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981100) |
 | 2022 | Visual-Tactile Multimodality for Following Deformable Linear Objects Using Reinforcement Learning | IROS · Tactile | [Paper](https://arxiv.org/pdf/2204.00117) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982218) |
@@ -35,6 +35,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-09 | Compact Visuotactile World Models for Lifting: Prediction, Reward Alignment, and Force Constraints | Qinzhen Ma | [Abstract](https://arxiv.org/abs/2609.09597) · [PDF](https://arxiv.org/pdf/2609.09597) |
 | 2026-08-22 | An Interpretable Deep Learning Framework for Material Perception and Classification from Multisensory Tactile Data | Li Zou, Dave Hogendoorn, Yasemin Vardar | [Abstract](https://arxiv.org/abs/2608.21894) · [PDF](https://arxiv.org/pdf/2608.21894) |
 | 2026-08-06 | Near-sensor Computing for Rapid Visuotactile Perception | Zhengying Zhu, Ruilin Zhang, Runze Hu, Chenxi Xiao | [Abstract](https://arxiv.org/abs/2608.05725) · [PDF](https://arxiv.org/pdf/2608.05725) |
 | 2026-07-17 | VTLoc: Learning-based Tactile Contact Localization in Visual Point Clouds | Zhiyuan Wu, Zhuo Chen, Shan Luo | [Abstract](https://arxiv.org/abs/2607.16146) · [PDF](https://arxiv.org/pdf/2607.16146) |
@@ -69,7 +70,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-03-14 | Touch-GS: Visual-Tactile Supervised 3D Gaussian Splatting | Aiden Swann, Matthew Strong, Won Kyung Do, Gadiel Sznaier Camps et al. | [Abstract](https://arxiv.org/abs/2403.09875) · [PDF](https://arxiv.org/pdf/2403.09875) |
 | 2023-12-27 | Toward Spatial Temporal Consistency of Joint Visual Tactile Perception in VR Applications | Fuqiang Zhao, Kehan Zhang, Qian Liu, Zhuoyi Lyu | [Abstract](https://arxiv.org/abs/2312.16391) · [PDF](https://arxiv.org/pdf/2312.16391) |
 | 2023-10-17 | 3D Force and Contact Estimation for a Soft-Bubble Visuotactile Sensor Using FEM | Jing-Chen Peng, Shaoxiong Yao, Kris Hauser | [Abstract](https://arxiv.org/abs/2310.11372) · [PDF](https://arxiv.org/pdf/2310.11372) |
-| 2023-09-15 | GelSplitter: Tactile Reconstruction from Near Infrared and Visible Images | Yuankai Lin, Yulin Zhou, Kaiji Huang, Qi Zhong et al. | [Abstract](https://arxiv.org/abs/2309.08096) · [PDF](https://arxiv.org/pdf/2309.08096) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Pretraining%2C%20Scaling%20%26%20Transfer&specialty=Robot%20Pretraining%20%26%20Foundation%20Policies#research-workbench)
 
-> 6 conference papers · 61 recent arXiv papers
+> 6 conference papers · 66 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -19,17 +19,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | DiffusionVLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression | ICML · Vla | [Paper](https://www.semanticscholar.org/paper/f0d17501c051e4c7220affd296a307763741bada) · [Index](https://dblp.org/rec/conf/icml/WenZZTLZL0PF25) |
-| 2025 | PAC Bench: Do Foundation Models Understand Prerequisites for Executing Manipulation Policies? | NeurIPS · Foundation Model | [Paper](https://arxiv.org/abs/2506.23725) · [Publisher](https://doi.org/10.48550/arXiv.2506.23725) |
-| 2024 | Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance | CoRL · Foundation Model | [Paper](https://arxiv.org/abs/2410.13816) · [Publisher](https://doi.org/10.48550/arXiv.2410.13816) |
-| 2024 | Adapt2Reward: Adapting Video-Language Models to Generalizable Robotic Rewards via Failure Prompts | ECCV · Language Model | [Paper](https://arxiv.org/abs/2407.14872) · [Publisher](https://doi.org/10.48550/arXiv.2407.14872) |
+| 2025 | PAC Bench: Do Foundation Models Understand Prerequisites for Executing Manipulation Policies? | NeurIPS · Foundation Model | [Paper](https://arxiv.org/abs/2506.23725) · [Index](https://dblp.org/rec/conf/nips/GundawarSS25) |
+| 2024 | Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance | CoRL · Foundation Model | [Paper](https://arxiv.org/abs/2410.13816) · [Index](https://dblp.org/rec/journals/corr/abs-2410-13816) |
+| 2024 | Adapt2Reward: Adapting Video-Language Models to Generalizable Robotic Rewards via Failure Prompts | ECCV · Language Model | [Paper](https://arxiv.org/abs/2407.14872) · [Index](https://dblp.org/rec/conf/eccv/YangCQWWLGH24) |
 | 2024 | Octo: An Open-Source Generalist Robot Policy | RSS · Generalist robot policy | [Paper](https://arxiv.org/abs/2405.12213) · [Official](https://doi.org/10.15607/RSS.2024.XX.090) · [Code](https://github.com/octo-models/octo) |
 | 2023 | RT-1: Robotics Transformer for Real-World Control at Scale | RSS · Generalist robot policy | [Paper](https://arxiv.org/abs/2212.06817) · [Official](https://roboticsproceedings.org/rss19/p025.html) |
 
-## Recent arXiv papers (61)
+## Recent arXiv papers (66)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
-| 2026-08-26 | LM-X: Explainable Action Modeling with Progress, Event, and Uncertainty Prediction for Generalist Robot Manipulation | Jin Lou, Zhiyuan Jing, Andong Chen, Xupeng Wang et al. | [Abstract](https://arxiv.org/abs/2608.25757) · [PDF](https://arxiv.org/pdf/2608.25757) |
+| 2026-09-16 | FIERCE: From Generalist Robot Policies to Fast Specialists via Progress-Failure Feedback | Runjia Tan, Yuang Tu, Yujie Yan, Lan Yu et al. | [Abstract](https://arxiv.org/abs/2609.18651) · [PDF](https://arxiv.org/pdf/2609.18651) |
+| 2026-09-11 | Breaking the Vision-Action Shortcut: Latent Interface Training for Generalizable Robotics Foundation Models | Jianman Lin, Shailesh Shailesh, Zhongyi Luo, Jiafei Duan | [Abstract](https://arxiv.org/abs/2609.12641) · [PDF](https://arxiv.org/pdf/2609.12641) |
+| 2026-09-09 | HaWMPO: Hallucination-Aware World Model-based Policy Optimization for Generalist Robot Policy | Zengjue Chen, Peidong Liu, Jiawei Li, Qi Wang | [Abstract](https://arxiv.org/abs/2609.09941) · [PDF](https://arxiv.org/pdf/2609.09941) |
+| 2026-09-08 | Proxy Policy Steering | Chuanruo Ning, Tianrui Wang, Wei-Chiu Ma, Kuan Fang | [Abstract](https://arxiv.org/abs/2609.09148) · [PDF](https://arxiv.org/pdf/2609.09148) |
+| 2026-09-06 | Rethinking Safety for Generalist Robots | Rohan Sinha, Anushri Dixit, Ran Tian, Anirudha Majumdar et al. | [Abstract](https://arxiv.org/abs/2609.06326) · [PDF](https://arxiv.org/pdf/2609.06326) |
+| 2026-08-30 | SmoothRL: Online Reinforcement Learning During Asynchronous Execution | Guang Gao, Yuxuan Nong, Baifu Huang, Jianan Wang | [Abstract](https://arxiv.org/abs/2608.29768) · [PDF](https://arxiv.org/pdf/2608.29768) |
 | 2026-08-24 | Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency | Brian Zhu, Momen Khalil, E Harrison, Emanuele Poggi et al. | [Abstract](https://arxiv.org/abs/2608.23831) · [PDF](https://arxiv.org/pdf/2608.23831) |
 | 2026-08-19 | The Embodiment Gap in Robot Foundation Models | Yukiyasu Domae, Keisuke Shirai, Hanbit Oh, Ryoichi Nakajo et al. | [Abstract](https://arxiv.org/abs/2608.18433) · [PDF](https://arxiv.org/pdf/2608.18433) |
 | 2026-08-17 | $τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation | Xiaowei Cai, Yunuo Cai, Bingao Chen, Jingxiao Chen et al. | [Abstract](https://arxiv.org/abs/2608.16885) · [PDF](https://arxiv.org/pdf/2608.16885) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Motion%20Imitation%20%26%20Generation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 1 conference papers · 30 recent arXiv papers
+> 1 conference papers · 28 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,9 +18,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | LocoVR: Multiuser Indoor Locomotion Dataset in Virtual Reality | ICLR · Locomotion | [Paper](https://arxiv.org/abs/2410.06437) · [Publisher](https://doi.org/10.48550/arXiv.2410.06437) |
+| 2025 | LocoVR: Multiuser Indoor Locomotion Dataset in Virtual Reality | ICLR · Locomotion | [Paper](https://arxiv.org/abs/2410.06437) · [Index](https://dblp.org/rec/conf/iclr/TakeyamaLS25) |
 
-## Recent arXiv papers (30)
+## Recent arXiv papers (28)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -52,8 +52,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-01-23 | Workspace Optimization Techniques to Improve Prediction of Human Motion During Human-Robot Collaboration | Yi-Shiuan Tung, Matthew B. Luebbers, Alessandro Roncone, Bradley Hayes | [Abstract](https://arxiv.org/abs/2401.12965) · [PDF](https://arxiv.org/pdf/2401.12965) |
 | 2023-11-17 | Human motion trajectory prediction using the Social Force Model for real-time and low computational cost applications | Oscar Gil, Alberto Sanfeliu | [Abstract](https://arxiv.org/abs/2311.10582) · [PDF](https://arxiv.org/pdf/2311.10582) |
 | 2023-10-16 | A Human Motion Compensation Framework for a Supernumerary Robotic Arm | Xin Zhang, Pietro Balatti, Mattia Leonori, Arash Ajoudani | [Abstract](https://arxiv.org/abs/2310.10029) · [PDF](https://arxiv.org/pdf/2310.10029) |
-| 2023-09-13 | CLiFF-LHMP: Using Spatial Dynamics Patterns for Long-Term Human Motion Prediction | Yufei Zhu, Andrey Rudenko, Tomasz P. Kucner, Luigi Palmieri et al. | [Abstract](https://arxiv.org/abs/2309.07066) · [PDF](https://arxiv.org/pdf/2309.07066) |
-| 2023-09-12 | Self-supervised Extraction of Human Motion Structures via Frame-wise Discrete Features | Tetsuya Abe, Ryusuke Sagawa, Ko Ayusawa, Wataru Takano | [Abstract](https://arxiv.org/abs/2309.05972) · [PDF](https://arxiv.org/pdf/2309.05972) |
 
 ---
 

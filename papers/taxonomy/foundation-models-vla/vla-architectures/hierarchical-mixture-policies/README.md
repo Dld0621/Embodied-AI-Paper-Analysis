@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=VLA%20Architectures&specialty=Hierarchical%20%26%20Mixture%20Policies#research-workbench)
 
-> 1 conference papers · 22 recent arXiv papers
+> 1 conference papers · 23 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | FedVLA: Federated Vision-Language-Action Learning with Dual Gating Mixture-of-Experts for Robotic Manipulation | ICCV · Vision Language Action | [Paper](https://arxiv.org/pdf/2508.02190) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00649) |
 
-## Recent arXiv papers (22)
+## Recent arXiv papers (23)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-15 | Dense to MoE Adaptation for Compact Vision Language Action Policies | Muchun Niu, Shuang Chen, Yuzhou Wu, Xiaobing Tu et al. | [Abstract](https://arxiv.org/abs/2609.16503) · [PDF](https://arxiv.org/pdf/2609.16503) |
 | 2026-08-20 | OrthoSkillVLA: Continual Skill Learning via Gradient-Informed Skill Subspace Adaptation | Jiaqi Wang, Zhou Fang, Qiongfeng Shi, Yi Zhou | [Abstract](https://arxiv.org/abs/2608.19589) · [PDF](https://arxiv.org/pdf/2608.19589) |
 | 2026-08-06 | DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation | Junfeng Li, Junjie He, Zhide Zhong, Yangyang Zheng et al. | [Abstract](https://arxiv.org/abs/2608.06374) · [PDF](https://arxiv.org/pdf/2608.06374) |
 | 2026-07-29 | Route by Kinematics, Act by Observation: Kinematics-Supervised Expert Routing in MoE-Augmented VLA | Tianhang Yang, Yanze Zheng, Junjie Wang, Wei-Bin Kou et al. | [Abstract](https://arxiv.org/abs/2607.26807) · [PDF](https://arxiv.org/pdf/2607.26807) |

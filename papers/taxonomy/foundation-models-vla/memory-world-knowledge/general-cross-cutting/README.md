@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Memory%20%26%20World%20Knowledge&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 5 conference papers · 82 recent arXiv papers
+> 5 conference papers · 89 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,13 +21,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | GRACE: Generating Socially Appropriate Robot Actions Leveraging LLMs and Human Explanations | ICRA · Llm | [Paper](https://repository.bilkent.edu.tr/bitstreams/88e30304-4676-49b3-bd3c-2fbc3703eab2/download) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127826) |
 | 2025 | Building Knowledge from Interactions: An LLM-Based Architecture for Adaptive Tutoring and Social Reasoning | IROS · Llm | [Paper](https://arxiv.org/abs/2504.01588) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246882) |
 | 2025 | ContextCache: Task-Aware Lifecycle Management for Memory-Efficient LLM Agent Deployment | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11247595) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247595) |
-| 2024 | Learning Reward for Robot Skills Using Large Language Models via Self-Alignment | ICML · Large Language Model | [Paper](https://arxiv.org/abs/2405.07162) · [Publisher](https://doi.org/10.48550/arXiv.2405.07162) |
+| 2024 | Learning Reward for Robot Skills Using Large Language Models via Self-Alignment | ICML · Large Language Model | [Paper](https://arxiv.org/abs/2405.07162) · [Index](https://dblp.org/rec/conf/icml/ZengM024) |
 | 2024 | SiSCo: Signal Synthesis for Effective Human-Robot Communication Via Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2409.13927) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802561) |
 
-## Recent arXiv papers (82)
+## Recent arXiv papers (89)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-17 | MoWAM: Explicit Future Motion Prediction for Efficient World Action Models | Jiayu Wang, Bin Zhu, Yue Yu, Jingjing Chen | [Abstract](https://arxiv.org/abs/2609.20709) · [PDF](https://arxiv.org/pdf/2609.20709) |
+| 2026-09-16 | Predict Before You Deploy: Offline Prediction of Quantization-Induced Task Degradation for World Action Models | Jiuyi Xu, Jinjia Guo, Meida Chen, Jing Du et al. | [Abstract](https://arxiv.org/abs/2609.19441) · [PDF](https://arxiv.org/pdf/2609.19441) |
+| 2026-09-15 | Modality-Autoregressive World-Action Models | Adam Hung, Bardienus P. Duisterhof, Deva Ramanan, Jeffrey Ichnowski | [Abstract](https://arxiv.org/abs/2609.17524) · [PDF](https://arxiv.org/pdf/2609.17524) |
+| 2026-09-14 | DIDO: Distilling Interaction-Centric Dynamics into One-Step Denoising for World Action Models | Jing Lyu, Shuanghao Bai, Runze Xiao, Zhenyu Liao et al. | [Abstract](https://arxiv.org/abs/2609.15570) · [PDF](https://arxiv.org/pdf/2609.15570) |
+| 2026-09-13 | World-Action Models for Robot Learning and Control: A Survey | Zuxing Lu, Hongjia Zhai, Guanzhi Wang, Huajian Zeng et al. | [Abstract](https://arxiv.org/abs/2609.16074) · [PDF](https://arxiv.org/pdf/2609.16074) |
+| 2026-09-09 | InstantMimic: A High Performance System for Learning Physics-based Skills in Seconds | Ikjun Choi, Geonho Leem, Jungdam Won | [Abstract](https://arxiv.org/abs/2609.09821) · [PDF](https://arxiv.org/pdf/2609.09821) |
+| 2026-09-09 | AXON: A ROS 2 RMW with Shared-Memory/QUIC Transport and QKD/ML-KEM Key Establishment | Sergio Sánchez de la Fuente, Miguel Ángel González-Santamarta, Francisco Javier Rodríguez-Lera, Vicente Matellán Olivera et al. | [Abstract](https://arxiv.org/abs/2609.10024) · [PDF](https://arxiv.org/pdf/2609.10024) |
+| 2026-09-06 | Geometric Distributional Control: Learning Progress with Partial Structural Knowledge | Tong Wu | [Abstract](https://arxiv.org/abs/2609.06331) · [PDF](https://arxiv.org/pdf/2609.06331) |
 | 2026-08-25 | GaussianWAM: Distilling Geometry and Semantics from 3D Gaussian Fields into World-Action Models | Zijian Zhang, Yuqing Jiang, Weitao Zhou, Minglei Li et al. | [Abstract](https://arxiv.org/abs/2608.24714) · [PDF](https://arxiv.org/pdf/2608.24714) |
 | 2026-08-23 | LD4WAM: Learning Latent Dynamics from Human Videos for World Action Models | Zhenhao Shen, Jiaqi Liang, Jasper Lu, Feng Jiang et al. | [Abstract](https://arxiv.org/abs/2608.22403) · [PDF](https://arxiv.org/pdf/2608.22403) |
 | 2026-08-19 | APPROVE: Visual End-User-in-the-Loop Robot Programming with LLMs | Bijan Kavousian, Miray Özakkas, Josefine Monnet, Oliver Petrovic et al. | [Abstract](https://arxiv.org/abs/2608.19281) · [PDF](https://arxiv.org/pdf/2608.19281) |
@@ -39,6 +47,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-08-07 | Selective Cross-View Consistency for World Action Models: Held-Out Viewpoint Robustness Without Test-Time Camera Information | Bingqi Huang, Bingchuan Wei, Yingkai Cai, Zhaokui Wang | [Abstract](https://arxiv.org/abs/2608.21402) · [PDF](https://arxiv.org/pdf/2608.21402) |
 | 2026-08-07 | Decoupling Intention from Trajectory: A Representational Deduction Framework for World Action Models | Xiangkai Ma, Yue Ma, Junjie Wang, Sheng Xu et al. | [Abstract](https://arxiv.org/abs/2608.06994) · [PDF](https://arxiv.org/pdf/2608.06994) |
 | 2026-08-06 | Robust-WAM: Bridging Generative Pretraining and Semantic Foresight in World-Action Models | Haodong Yan, Junfeng Li, Junjie He, Zhide Zhong et al. | [Abstract](https://arxiv.org/abs/2608.05903) · [PDF](https://arxiv.org/pdf/2608.05903) |
+| 2026-08-04 | JEPA-WAM: Connecting Generated Visual Instructions to World Action Models through JEPA Latent Representations | Tianbin Liu, Jian Zhu, Taiyi Su, Jianjun Zhang et al. | [Abstract](https://arxiv.org/abs/2609.20277) · [PDF](https://arxiv.org/pdf/2609.20277) |
 | 2026-08-03 | Faster-WAM: Do World Action Models Need Deep Action Modules? | Liheng Ma, Rui Heng Yang, Zhanguang Zhang, Mateo Clemente et al. | [Abstract](https://arxiv.org/abs/2608.02365) · [PDF](https://arxiv.org/pdf/2608.02365) |
 | 2026-08-01 | DynamicWAM: Dual-Path Motion Conditioning for World-Action Models in Dynamic Manipulation | Yunfan Lou, Hewen Gao, Xiyu Zhu, Zhuoran Qiao et al. | [Abstract](https://arxiv.org/abs/2608.00793) · [PDF](https://arxiv.org/pdf/2608.00793) |
 | 2026-08-01 | Disentangling Visuo-Tactile Foresight: Oracle-Guided Interface Discovery for World Action Models | Zihang Yao, Chaoyue Ding, Yingying Yu | [Abstract](https://arxiv.org/abs/2608.00547) · [PDF](https://arxiv.org/pdf/2608.00547) |
@@ -108,8 +117,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-21 | Learning Reward for Physical Skills using Large Language Model | Yuwei Zeng, Yiqing Xu | [Abstract](https://arxiv.org/abs/2310.14092) · [PDF](https://arxiv.org/pdf/2310.14092) |
 | 2023-09-28 | DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models | Licheng Wen, Daocheng Fu, Xin Li, Xinyu Cai et al. | [Abstract](https://arxiv.org/abs/2309.16292) · [PDF](https://arxiv.org/pdf/2309.16292) |
 | 2023-09-26 | When Prolog meets generative models: a new approach for managing knowledge and planning in robotic applications | Enrico Saccon, Ahmet Tikna, Davide De Martini, Edoardo Lamon et al. | [Abstract](https://arxiv.org/abs/2309.15049) · [PDF](https://arxiv.org/pdf/2309.15049) |
-| 2023-09-20 | Text2Reward: Reward Shaping with Language Models for Reinforcement Learning | Tianbao Xie, Siheng Zhao, Chen Henry Wu, Yitao Liu et al. | [Abstract](https://arxiv.org/abs/2309.11489) · [PDF](https://arxiv.org/pdf/2309.11489) |
-| 2023-09-08 | Incremental Learning of Humanoid Robot Behavior from Natural Interaction and Large Language Models | Leonard Bärmann, Rainer Kartmann, Fabian Peller-Konrad, Jan Niehues et al. | [Abstract](https://arxiv.org/abs/2309.04316) · [PDF](https://arxiv.org/pdf/2309.04316) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Motion%20Imitation%20%26%20Generation&specialty=Reference-motion%20Imitation#research-workbench)
 
-> 0 conference papers · 19 recent arXiv papers
+> 0 conference papers · 18 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (19)
+## Recent arXiv papers (18)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -40,7 +40,6 @@ No conference papers currently map to this specialty.
 | 2025-02-19 | ModSkill: Physical Character Skill Modularization | Yiming Huang, Zhiyang Dou, Lingjie Liu | [Abstract](https://arxiv.org/abs/2502.14140) · [PDF](https://arxiv.org/pdf/2502.14140) |
 | 2024-09-16 | Know your limits! Optimize the robot's behavior through self-awareness | Esteve Valls Mascaro, Dongheui Lee | [Abstract](https://arxiv.org/abs/2409.10308) · [PDF](https://arxiv.org/pdf/2409.10308) |
 | 2023-09-29 | CrossLoco: Human Motion Driven Control of Legged Robots via Guided Unsupervised Reinforcement Learning | Tianyu Li, Hyunyoung Jung, Matthew Gombolay, Yong Kwon Cho et al. | [Abstract](https://arxiv.org/abs/2309.17046) · [PDF](https://arxiv.org/pdf/2309.17046) |
-| 2023-09-03 | BodySLAM++: Fast and Tightly-Coupled Visual-Inertial Camera and Human Motion Tracking | Dorian F. Henning, Christopher Choi, Simon Schaefer, Stefan Leutenegger | [Abstract](https://arxiv.org/abs/2309.01236) · [PDF](https://arxiv.org/pdf/2309.01236) |
 
 ---
 

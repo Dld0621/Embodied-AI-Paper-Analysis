@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Retargeting%20%26%20Human%20Motion&specialty=Cross-embodiment%20Demonstration%20Transfer#research-workbench)
 
-> 7 conference papers · 81 recent arXiv papers
+> 7 conference papers · 79 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,12 +24,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | SynH2R: Synthesizing Hand-Object Motions for Learning Human-to-Robot Handovers | ICRA · Robot Hand | [Paper](https://arxiv.org/abs/2311.05599) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610694) |
 | 2023 | Learning Human-to-Robot Handovers from Point Clouds | CVPR · Robot Hand | [Paper](https://arxiv.org/abs/2303.17592) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.00931) |
 | 2023 | Expressing and Inferring Action Carefulness in Human-to-Robot Handovers | IROS · Robot Hand | [Paper](https://arxiv.org/pdf/2310.00465) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342111) |
-| 2022 | Model Predictive Control for Fluid Human-to-Robot Handovers | ICRA · Robot Hand | [Paper](https://arxiv.org/abs/2204.00134) · [Publisher](https://doi.org/10.48550/arXiv.2204.00134) |
+| 2022 | Model Predictive Control for Fluid Human-to-Robot Handovers | ICRA · Robot Hand | [Paper](https://arxiv.org/abs/2204.00134) · [Index](https://dblp.org/rec/journals/corr/abs-2204-00134) |
 
-## Recent arXiv papers (81)
+## Recent arXiv papers (79)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-05 | A4A: Cross-Embodiment Transfer of Action-Oriented 4D Affordances from Human Demonstrations | Yifan Han, Litao Liu, Yuqi Gu, Ye Lu et al. | [Abstract](https://arxiv.org/abs/2609.05892) · [PDF](https://arxiv.org/pdf/2609.05892) |
 | 2026-08-10 | High Fidelity Capture, Reconstruction, and Transfer of Human Demonstrations for Robot-Assisted Bathing | Arjun S. Lakshmipathy, Jonathan P. King, Ethan Zuo, Rohit Satishkumar et al. | [Abstract](https://arxiv.org/abs/2608.09127) · [PDF](https://arxiv.org/pdf/2608.09127) |
 | 2026-08-06 | Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation | Alperen Kenan, Paul Bremner, Manuel Giuliani | [Abstract](https://arxiv.org/abs/2608.06221) · [PDF](https://arxiv.org/pdf/2608.06221) |
 | 2026-07-29 | Practice Makes Policies: Bootstrapping and Consolidating Robotic Capabilities from Zero Human Demonstrations | Jialiang Li, Yuhan Wang, Haojun Li, Gaojing Zhang et al. | [Abstract](https://arxiv.org/abs/2607.26809) · [PDF](https://arxiv.org/pdf/2607.26809) |
@@ -38,7 +39,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-06 | X-OP: Cross-Morphology Whole-Body Teleoperation via MPC Retargeting | Jen-Wei Wang, Sarthak Kaingade, Andrea Tagliabue, Nicholas Morozovsky | [Abstract](https://arxiv.org/abs/2606.07934) · [PDF](https://arxiv.org/pdf/2606.07934) |
 | 2026-06-03 | D$^3$-MoE:Dual Disentangled Diffusion Mixture-of-Experts for Style-Controllable End-to-End Autonomous Driving | Renju Feng, Rukang Wang, Ning Xi, Jianguo Yu et al. | [Abstract](https://arxiv.org/abs/2606.04884) · [PDF](https://arxiv.org/pdf/2606.04884) |
 | 2026-06-02 | EaDex: A Cross-Embodiment Dexterous Manipulation Framework from Low-Cost Demonstrations | Qian Zhao, Xin Tong, Chengdong Wu, Yang Yang et al. | [Abstract](https://arxiv.org/abs/2606.03268) · [PDF](https://arxiv.org/pdf/2606.03268) |
-| 2026-05-29 | Enhancing Human-Likeness in Reinforcement Learning Agents via Hierarchical Macro Action Quantization | Usman Nizamani, M. Shaheer Luqman, Fawad Javed Fateh, Ali Shah Ali et al. | [Abstract](https://arxiv.org/abs/2605.30928) · [PDF](https://arxiv.org/pdf/2605.30928) |
+| 2026-05-29 | Enhancing Human-Likeness in Reinforcement Learning Agents via Hierarchical Macro Action Quantization | M. Shaheer Luqman, Usman Nizamani, Fawad Javed Fateh, Ali Shah Ali et al. | [Abstract](https://arxiv.org/abs/2605.30928) · [PDF](https://arxiv.org/pdf/2605.30928) |
 | 2026-04-25 | BridgeACT: Bridging Human Demonstrations to Robot Actions via Unified Tool-Target Affordances | Yifan Han, Jianxiang Liu, Haoyu Zhang, Yuqi Gu et al. | [Abstract](https://arxiv.org/abs/2604.23249) · [PDF](https://arxiv.org/pdf/2604.23249) |
 | 2026-04-12 | WARPED: Wrist-Aligned Rendering for Robot Policy Learning from Egocentric Human Demonstrations | Harry Freeman, Chung Hee Kim, George Kantor | [Abstract](https://arxiv.org/abs/2604.10809) · [PDF](https://arxiv.org/pdf/2604.10809) |
 | 2026-04-09 | A Unified Multi-Layer Framework for Skill Acquisition from Imperfect Human Demonstrations | Zi-Qi Yang, Mehrdad R. Kermani | [Abstract](https://arxiv.org/abs/2604.08341) · [PDF](https://arxiv.org/pdf/2604.08341) |
@@ -108,9 +109,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-04 | Constrained Equation Learner Networks for Precision-Preserving Extrapolation of Robotic Skills | Hector Perez-Villeda, Justus Piater, Matteo Saveriano | [Abstract](https://arxiv.org/abs/2311.02475) · [PDF](https://arxiv.org/pdf/2311.02475) |
 | 2023-10-22 | Learning to Discern: Imitating Heterogeneous Human Demonstrations with Preference and Representation Learning | Sachit Kuhar, Shuo Cheng, Shivang Chopra, Matthew Bronars et al. | [Abstract](https://arxiv.org/abs/2310.14196) · [PDF](https://arxiv.org/pdf/2310.14196) |
 | 2023-09-30 | Expressing and Inferring Action Carefulness in Human-to-Robot Handovers | Linda Lastrico, Nuno Ferreira Duarte, Alessandro Carfì, Francesco Rea et al. | [Abstract](https://arxiv.org/abs/2310.00465) · [PDF](https://arxiv.org/pdf/2310.00465) |
-| 2023-09-18 | DFL-TORO: A One-Shot Demonstration Framework for Learning Time-Optimal Robotic Manufacturing Tasks | Alireza Barekatain, Hamed Habibi, Holger Voos | [Abstract](https://arxiv.org/abs/2309.09802) · [PDF](https://arxiv.org/pdf/2309.09802) |
-| 2023-09-16 | Stylized Table Tennis Robots Skill Learning with Incomplete Human Demonstrations | Xiang Zhu, Zixuan Chen, Jianyu Chen | [Abstract](https://arxiv.org/abs/2309.08904) · [PDF](https://arxiv.org/pdf/2309.08904) |
-| 2023-09-11 | ImitationNet: Unsupervised Human-to-Robot Motion Retargeting via Shared Latent Space | Yashuai Yan, Esteve Valls Mascaro, Dongheui Lee | [Abstract](https://arxiv.org/abs/2309.05310) · [PDF](https://arxiv.org/pdf/2309.05310) |
 
 ---
 

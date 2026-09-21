@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Quadruped%20%26%20Legged%20Locomotion&specialty=Terrain%20Adaptation%20%26%20Traversal#research-workbench)
 
-> 4 conference papers · 5 recent arXiv papers
+> 4 conference papers · 6 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,10 +23,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Anisotropic-Stiffness Belt in Mono wheeled Flexible Track for Rough Terrain Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9981247) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981247) |
 | 2022 | Elevation Mapping for Locomotion and Navigation using GPU | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2204.12876) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981507) |
 
-## Recent arXiv papers (5)
+## Recent arXiv papers (6)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-31 | SleepWalking: Privileged Representation Shaping for End-to-End Blind Locomotion in Legged Robots | Zheng Pan, Tenghui Wang, Peilin Li, Shiyu Zhou et al. | [Abstract](https://arxiv.org/abs/2608.30883) · [PDF](https://arxiv.org/pdf/2608.30883) |
 | 2026-07-15 | EgoHTR: Egocentric 4D Demonstrations of Human Terrain Traversal | Alex Brandes, Haig Conti Georges Sajelian, Manthan Patel, Dominik Hollidt et al. | [Abstract](https://arxiv.org/abs/2607.13472) · [PDF](https://arxiv.org/pdf/2607.13472) |
 | 2026-06-17 | CTS-MoE: Implicit Terrain Adaptation via Mixture-of-Experts for Perceptive Locomotion | Francisco Affonso, Matheus P. Angarola, Ana Luiza Mineiro, Aditya Potnis et al. | [Abstract](https://arxiv.org/abs/2606.19633) · [PDF](https://arxiv.org/pdf/2606.19633) |
 | 2025-08-16 | LocoMamba: Vision-Driven Locomotion via End-to-End Deep Reinforcement Learning with Mamba | Yinuo Wang, Gavin Tao | [Abstract](https://arxiv.org/abs/2508.11849) · [PDF](https://arxiv.org/pdf/2508.11849) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Bimanual%20Coordination&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 13 conference papers · 50 recent arXiv papers
+> 13 conference papers · 52 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,24 +18,28 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | Spatial-Temporal Graph Diffusion Policy with Kinematic Modeling for Bimanual Robotic Manipulation | CVPR · Bimanual | [Paper](https://figshare.com/articles/conference_contribution/Spatial-Temporal_Graph_Diffusion_Policy_with_Kinematic_Modeling_for_Bimanual_Robotic_Manipulation/30268675) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01621) |
+| 2025 | Spatial-Temporal Graph Diffusion Policy with Kinematic Modeling for Bimanual Robotic Manipulation | CVPR · Bimanual | [Paper](https://arxiv.org/abs/2503.10743) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01621) |
 | 2025 | 2HandedAfforder: Learning Precise Actionable Bimanual Affordances from Human Videos | ICCV · Bimanual | [Paper](https://arxiv.org/pdf/2503.09320) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01368) |
 | 2025 | Active Vision Might Be All You Need: Exploring Active Vision in Bimanual Robotic Manipulation | ICRA · Bimanual | [Paper](https://arxiv.org/abs/2409.17435) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128253) |
 | 2025 | Force-Conditioned Diffusion Policies for Compliant Sheet Separation Tasks in Bimanual Robotic Cells | ICRA · Bimanual | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127816) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127816) |
 | 2025 | GeT-USE: Learning Generalized Tool Usage for Bimanual Mobile Manipulation via Simulated Embodiment Extensions | IROS · Bimanual | [Paper](https://arxiv.org/abs/2510.25754) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245978) |
 | 2025 | Imitation-Guided Bimanual Planning for Stable Manipulation under Changing External Forces | IROS · Bimanual | [Paper](https://arxiv.org/abs/2509.19261) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246712) |
 | 2025 | Integrating Ergonomics and Manipulability for Upper Limb Postural Optimization in Bimanual Human-Robot Collaboration | IROS · Bimanual | [Paper](https://uwe-repository.worktribe.com/preview/15587925/li2025preprint.pdf) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246359) |
-| 2024 | Bimanual Dexterity for Complex Tasks | CoRL · Bimanual | [Paper](https://arxiv.org/abs/2411.13677) · [Publisher](https://doi.org/10.48550/arXiv.2411.13677) |
+| 2024 | Bimanual Dexterity for Complex Tasks | CoRL · Bimanual | [Paper](https://arxiv.org/abs/2411.13677) · [Index](https://dblp.org/rec/journals/corr/abs-2411-13677) |
 | 2024 | Mobile ALOHA: Learning Bimanual Mobile Manipulation using Low-Cost Whole-Body Teleoperation | CoRL · Bimanual | [Paper](https://www.semanticscholar.org/paper/8918ed27489ab267be3ee75573540dce4476b981) · [Index](https://dblp.org/rec/conf/corl/FuZF24) |
 | 2024 | Constrained Bimanual Planning with Analytic Inverse Kinematics | ICRA · Bimanual | [Paper](https://arxiv.org/abs/2309.08770) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610675) |
 | 2024 | Real-time Coordinated Motion Generation: A Hierarchical Deep Predictive Learning Model for Bimanual Tasks | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS58592.2024.10801317) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801317) |
 | 2024 | Simulation-Assisted Learning for Efficient Bin-Packing of Deformable Packages in a Bimanual Robotic Cell | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS58592.2024.10802246) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802246) |
-| 2022 | Learning Bimanual Scooping Policies for Food Acquisition | CoRL · Bimanual | [Paper](https://arxiv.org/abs/2211.14652) · [Publisher](https://doi.org/10.48550/arXiv.2211.14652) |
+| 2022 | Learning Bimanual Scooping Policies for Food Acquisition | CoRL · Bimanual | [Paper](https://arxiv.org/abs/2211.14652) · [Index](https://dblp.org/rec/conf/corl/GrannenWBS22) |
 
-## Recent arXiv papers (50)
+## Recent arXiv papers (52)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-16 | ULOHA: An Underwater Bimanual Robot System for Robot Learning | Masato Kobayashi, Takeru Tsunoori | [Abstract](https://arxiv.org/abs/2609.19200) · [PDF](https://arxiv.org/pdf/2609.19200) |
+| 2026-09-16 | ForwardDLO: Model-Based Bimanual Shape Matching of Unconstrained Deformable Linear Objects | Tim Missal, Berk Guler, Lucas Domingues, Simon Manschitz et al. | [Abstract](https://arxiv.org/abs/2609.18455) · [PDF](https://arxiv.org/pdf/2609.18455) |
+| 2026-09-15 | AthenaZero: A low-inertia, bimanual robot for dynamic manipulation | Andrew S. Morgan, Gregory Xie, Capprin Bass, Rachel Thomasson et al. | [Abstract](https://arxiv.org/abs/2609.19194) · [PDF](https://arxiv.org/pdf/2609.19194) |
+| 2026-08-30 | Sampling-based Certified Planning with Graphs of Convex Sets | Peng Xie, Amr Alanwar | [Abstract](https://arxiv.org/abs/2608.29770) · [PDF](https://arxiv.org/pdf/2608.29770) |
 | 2026-08-18 | UniReflex: Plug-and-Play Force Control for Pretrained Generative Policies via Fast-Slow Reflex | Yan Huang, Shoujie Li, Ziwu Song, Wenbo Ding | [Abstract](https://arxiv.org/abs/2608.17432) · [PDF](https://arxiv.org/pdf/2608.17432) |
 | 2026-07-28 | Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-design | Huy Ha, C. Karen Liu, Shuran Song | [Abstract](https://arxiv.org/abs/2607.25798) · [PDF](https://arxiv.org/pdf/2607.25798) |
 | 2026-07-21 | ModPack: An Extensible Teleoperation Interface for Bimanual Mobile Manipulation | Joshua Citron, Renee Zbizika, Zeyi Liu, Shuran Song | [Abstract](https://arxiv.org/abs/2607.19479) · [PDF](https://arxiv.org/pdf/2607.19479) |
@@ -84,8 +88,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-01-04 | Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation | Zipeng Fu, Tony Z. Zhao, Chelsea Finn | [Abstract](https://arxiv.org/abs/2401.02117) · [PDF](https://arxiv.org/pdf/2401.02117) |
 | 2023-12-11 | HoLLiE C -- A Multifunctional Bimanual Mobile Robot Supporting Versatile Care Applications | Lea Steffen, Martin Schulze, Christian Eichmann, Robin Koch et al. | [Abstract](https://arxiv.org/abs/2312.06292) · [PDF](https://arxiv.org/pdf/2312.06292) |
 | 2023-10-25 | Certifying Bimanual RRT Motion Plans in a Second | Alexandre Amice, Peter Werner, Russ Tedrake | [Abstract](https://arxiv.org/abs/2310.16603) · [PDF](https://arxiv.org/pdf/2310.16603) |
-| 2023-09-15 | Constrained Bimanual Planning with Analytic Inverse Kinematics | Thomas Cohn, Seiji Shaw, Max Simchowitz, Russ Tedrake | [Abstract](https://arxiv.org/abs/2309.08770) · [PDF](https://arxiv.org/pdf/2309.08770) |
-| 2023-09-01 | Shared Control Based on Extended Lipschitz Analysis With Application to Human-Superlimb Collaboration | Hanjun Song, H. Harry Asada | [Abstract](https://arxiv.org/abs/2309.00685) · [PDF](https://arxiv.org/pdf/2309.00685) |
 
 ---
 

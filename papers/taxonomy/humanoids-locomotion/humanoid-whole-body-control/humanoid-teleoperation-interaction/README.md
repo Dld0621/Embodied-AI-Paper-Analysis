@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Humanoid%20Whole-body%20Control&specialty=Humanoid%20Teleoperation%20%26%20Interaction#research-workbench)
 
-> 4 conference papers · 25 recent arXiv papers
+> 4 conference papers · 29 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,10 +23,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation | IROS · Humanoid | [Paper](https://arxiv.org/abs/2403.04436) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801984) |
 | 2022 | Human-Humanoid Robot Cooperative Load Transportation: Model-based Control Approach | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9981487) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981487) |
 
-## Recent arXiv papers (25)
+## Recent arXiv papers (29)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-16 | Gated Residual Body-Hand Coordination for Whole-Body Humanoid Teleoperation | Ruiming Wu, Shuang Li, Liding Zhang, Alois Knoll et al. | [Abstract](https://arxiv.org/abs/2609.18763) · [PDF](https://arxiv.org/pdf/2609.18763) |
+| 2026-09-07 | SPOT: Spatial Perception-Oriented Long-Horizon Humanoid Teleoperation | Lixing Fang, Ziyan Xiong, Sunli Chen, Zhiyang Dou et al. | [Abstract](https://arxiv.org/abs/2609.07933) · [PDF](https://arxiv.org/pdf/2609.07933) |
+| 2026-09-06 | Unifying Physics-Based Humanoid Interaction with a Context-Conditioned Interaction Prior | Jianan Li, Xiao Chen, Tien-Tsin Wong | [Abstract](https://arxiv.org/abs/2609.06591) · [PDF](https://arxiv.org/pdf/2609.06591) |
+| 2026-08-27 | RoboGesture: Real-Time Semantic-aligned Co-Speech Gestures Generation for Humanoid Interaction | Zifan Wang, Ziang Ren, Pengyang Shi, Zirui Wang et al. | [Abstract](https://arxiv.org/abs/2608.28693) · [PDF](https://arxiv.org/pdf/2608.28693) |
 | 2026-07-02 | HEFT: Heavy-Payload Full-size Humanoid Teleoperation with Privileged Motion Guidance and Windowed Payload Curriculum | Chenxin Liu, Qingzhou Lu, Guangxiao Yang, Xuanyang Shi et al. | [Abstract](https://arxiv.org/abs/2607.02332) · [PDF](https://arxiv.org/pdf/2607.02332) |
 | 2026-05-12 | Real-Time Whole-Body Teleoperation of a Humanoid Robot Using IMU-Based Motion Capture with Sim2Sim and Sim2Real Validation | Hamza Ahmed Durrani, Suleman Khan | [Abstract](https://arxiv.org/abs/2605.12347) · [PDF](https://arxiv.org/pdf/2605.12347) |
 | 2026-04-14 | Whole-Body Mobile Manipulation using Offline Reinforcement Learning on Sub-optimal Controllers | Snehal Jauhri, Vignesh Prasad, Georgia Chalvatzaki | [Abstract](https://arxiv.org/abs/2604.12509) · [PDF](https://arxiv.org/pdf/2604.12509) |

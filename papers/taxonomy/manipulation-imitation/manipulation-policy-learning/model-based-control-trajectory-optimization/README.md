@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Manipulation%20Policy%20Learning&specialty=Model-based%20Control%20%26%20Trajectory%20Optimization#research-workbench)
 
-> 25 conference papers · 137 recent arXiv papers
+> 25 conference papers · 138 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -19,13 +19,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | IRASim: A Fine-Grained World Model for Robot Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/abs/2406.14540) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00917) |
-| 2025 | 6D Object Pose Tracking in Internet Videos for Robotic Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2503.10307) · [Publisher](https://doi.org/10.48550/arXiv.2503.10307) |
+| 2025 | 6D Object Pose Tracking in Internet Videos for Robotic Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2503.10307) · [Index](https://dblp.org/rec/journals/corr/abs-2503-10307) |
 | 2025 | Gaussian Splatting Visual MPC for Granular Media Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2410.09740) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128002) |
 | 2025 | KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2503.10546) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128038) |
 | 2025 | Towards Effective Utilization of Mixed-Quality Demonstrations in Robotic Manipulation via Segment-Level Selection and Optimization | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2409.19917) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128787) |
 | 2025 | Safe, Task-Consistent Manipulation with Operational Space Control Barrier Functions | IROS · Manipulation | [Paper](https://arxiv.org/abs/2503.06736) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246389) |
-| 2024 | Robust Manipulation Primitive Learning via Domain Contraction | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2410.11600) · [Publisher](https://doi.org/10.48550/arXiv.2410.11600) |
-| 2024 | Visual Manipulation with Legs | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2410.11345) · [Publisher](https://doi.org/10.48550/arXiv.2410.11345) |
+| 2024 | Robust Manipulation Primitive Learning via Domain Contraction | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2410.11600) · [Index](https://dblp.org/rec/journals/corr/abs-2410-11600) |
+| 2024 | Visual Manipulation with Legs | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2410.11345) · [Index](https://dblp.org/rec/journals/corr/abs-2410-11345) |
 | 2024 | Efficient Model Learning and Adaptive Tracking Control of Magnetic Micro-Robots for Non-Contact Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2403.14414) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610098) |
 | 2024 | ReorientDiff: Diffusion Model based Reorientation for Object Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2303.12700) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610749) |
 | 2024 | Robust and Energy-Efficient Control for Multi-task Aerial Manipulation with Automatic Arm-switching | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610031) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610031) |
@@ -34,20 +34,23 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Collaborative Object Manipulation on the Water Surface by a UAV-USV Team Using Tethers | IROS · Manipulation | [Paper](https://arxiv.org/abs/2407.08580) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802469) |
 | 2024 | Grasping Trajectory Optimization with Point Clouds | IROS · Grasp | [Paper](https://arxiv.org/abs/2403.05466) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802826) |
 | 2023 | Multi-Object Manipulation via Object-Centric Neural Scattering Functions | CVPR · Manipulation | [Paper](https://arxiv.org/pdf/2306.08748) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.00871) |
-| 2023 | ManiCast: Collaborative Manipulation with Cost-Aware Human Forecasting | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2310.13258) · [Publisher](https://doi.org/10.48550/arXiv.2310.13258) |
+| 2023 | ManiCast: Collaborative Manipulation with Cost-Aware Human Forecasting | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2310.13258) · [Index](https://dblp.org/rec/journals/corr/abs-2310-13258) |
 | 2023 | Finding Biomechanically Safe Trajectories for Robot Manipulation of the Human Body in a Search and Rescue Scenario | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2309.15265) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342353) |
 | 2023 | Nonlinear Model Predictive Control for Cooperative Transportation and Manipulation of Cable Suspended Payloads with Multiple Quadrotors | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2303.06165) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341785) |
 | 2023 | Object-Oriented Option Framework for Robotics Manipulation in Clutter | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342335) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342335) |
 | 2023 | RAMP: Hierarchical Reactive Motion Planning for Manipulation Tasks Using Implicit Signed Distance Functions | IROS · Manipulation | [Paper](https://arxiv.org/abs/2305.10534) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342397) |
-| 2023 | Dynamic-Resolution Model Learning for Object Pile Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2306.16700) · [Publisher](https://doi.org/10.48550/arXiv.2306.16700) |
+| 2023 | Dynamic-Resolution Model Learning for Object Pile Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2306.16700) · [Index](https://dblp.org/rec/conf/rss/WangLC0023) |
 | 2022 | TOPP-MPC-Based Dual-Arm Dynamic Collaborative Manipulation for Multi-Object Nonprehensile Transportation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra46639.2022.9812424) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812424) |
 | 2022 | Constraint-based Task Specification and Trajectory Optimization for Sequential Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2208.09219) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981909) |
 | 2022 | Robot Skill Learning with Identification of Preconditions and Postconditions via Level Set Estimation | IROS · Skill Learning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981933) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981933) |
 
-## Recent arXiv papers (137)
+## Recent arXiv papers (138)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-17 | Accelerating Visual Policy Learning with Sampling-Based Model Predictive Control | Yilang Liu, Haoxiang You, Qian Wang, Daniel Rakita et al. | [Abstract](https://arxiv.org/abs/2609.20575) · [PDF](https://arxiv.org/pdf/2609.20575) |
+| 2026-09-04 | Physical Kernel: Structured Visual Latents for Dark Manipulation | Jinting Hang, Hong Li, Zhenhui Cai, Zhihao Zhao et al. | [Abstract](https://arxiv.org/abs/2609.13244) · [PDF](https://arxiv.org/pdf/2609.13244) |
+| 2026-09-02 | Real-Time Dynamics-Based Torque-Sampling MPPI for Compliant and Force Aware Manipulation | Euncheol Im, Taehyun Kim, Yonghwan Oh, Myotaeg Lim et al. | [Abstract](https://arxiv.org/abs/2609.02020) · [PDF](https://arxiv.org/pdf/2609.02020) |
 | 2026-08-26 | PRISM: Projection-Integrated Sampling-Based MPC with Bayesian Cost Tuning for Bimanual Manipulation | Alinjar Dan, Iryna Hurova, Karl Kruusamäe, Arun Kumar Singh | [Abstract](https://arxiv.org/abs/2608.25666) · [PDF](https://arxiv.org/pdf/2608.25666) |
 | 2026-08-12 | RoboSynChallenge: Mastering Real-World Dexterity via Generalizing Synthesized Manipulation Skills | Runyi Zhao, Ruixin Wu, Chengkun Li, Hongrui Zhang et al. | [Abstract](https://arxiv.org/abs/2608.12416) · [PDF](https://arxiv.org/pdf/2608.12416) |
 | 2026-08-09 | Hierarchical Topology-Aware Planning and Control of Underwater Vehicle-Manipulator Systems in Confined Environments | Mohamed Abdelwahab, Ruggero Carli, Damiano Varagnolo, Alberto Dalla Libera | [Abstract](https://arxiv.org/abs/2608.08871) · [PDF](https://arxiv.org/pdf/2608.08871) |
@@ -76,7 +79,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-29 | Spectral Decomposition of Inverse Dynamics for Fast Exploration in Model-Based Manipulation | Solvin Sigurdson, Benjamin Riviere, Joel Burdick | [Abstract](https://arxiv.org/abs/2603.27796) · [PDF](https://arxiv.org/pdf/2603.27796) |
 | 2026-03-29 | Learning Smooth and Robust Space Robotic Manipulation of Dynamic Target via Inter-frame Correlation | Siyi Lang, Hongyi Gao, Yingxin Zhang, Zihao Liu et al. | [Abstract](https://arxiv.org/abs/2603.27537) · [PDF](https://arxiv.org/pdf/2603.27537) |
 | 2026-03-14 | ToMPC: Task-oriented Model Predictive Control via ADMM for Safe Robotic Manipulation | Xinyu Jia, Wenxin Wang, Jun Yang, Yongping Pan et al. | [Abstract](https://arxiv.org/abs/2603.13944) · [PDF](https://arxiv.org/pdf/2603.13944) |
-| 2026-03-12 | COAD: Constant-Time Planning for Continuous Goal Manipulation with Compressed Library and Online Adaptation | Adil Shiyas, Zhuoyun Zhong, Constantinos Chamzas | [Abstract](https://arxiv.org/abs/2603.12488) · [PDF](https://arxiv.org/pdf/2603.12488) |
+| 2026-03-12 | CoAd: Constant-Time Planning for Continuous Goal Manipulation with Compressed Library and Online Adaptation | Adil Shiyas, Zhuoyun Zhong, Constantinos Chamzas | [Abstract](https://arxiv.org/abs/2603.12488) · [PDF](https://arxiv.org/pdf/2603.12488) |
 | 2026-03-10 | DRAFTO: Decoupled Reduced-space and Adaptive Feasibility-repair Trajectory Optimization for Robotic Manipulators | Yichang Feng, Xiao Liang, Minghui Zheng | [Abstract](https://arxiv.org/abs/2603.11074) · [PDF](https://arxiv.org/pdf/2603.11074) |
 | 2026-03-05 | EmboAlign: Aligning Video Generation with Compositional Constraints for Zero-Shot Manipulation | Gehao Zhang, Zhenyang Ni, Payal Mohapatra, Han Liu et al. | [Abstract](https://arxiv.org/abs/2603.05757) · [PDF](https://arxiv.org/pdf/2603.05757) |
 | 2026-02-22 | 3D Shape Control of Extensible Multi-Section Soft Continuum Robots via Visual Servoing | Abhinav Gandhi, Shou-Shan Chiang, Cagdas D. Onal, Berk Calli | [Abstract](https://arxiv.org/abs/2602.19273) · [PDF](https://arxiv.org/pdf/2602.19273) |
@@ -183,8 +186,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-20 | ManiCast: Collaborative Manipulation with Cost-Aware Human Forecasting | Kushal Kedia, Prithwish Dan, Atiksh Bhardwaj, Sanjiban Choudhury | [Abstract](https://arxiv.org/abs/2310.13258) · [PDF](https://arxiv.org/pdf/2310.13258) |
 | 2023-10-15 | Adaptive Contact-Implicit Model Predictive Control with Online Residual Learning | Wei-Cheng Huang, Alp Aydinoglu, Wanxin Jin, Michael Posa | [Abstract](https://arxiv.org/abs/2310.09893) · [PDF](https://arxiv.org/pdf/2310.09893) |
 | 2023-09-26 | Finding Biomechanically Safe Trajectories for Robot Manipulation of the Human Body in a Search and Rescue Scenario | Elizabeth Peiros, Zih-Yun Chiu, Yuheng Zhi, Nikhil Shinde et al. | [Abstract](https://arxiv.org/abs/2309.15265) · [PDF](https://arxiv.org/pdf/2309.15265) |
-| 2023-09-17 | Spline-Based Minimum-Curvature Trajectory Optimization for Autonomous Racing | Haoru Xue, Tianwei Yue, John M. Dolan | [Abstract](https://arxiv.org/abs/2309.09186) · [PDF](https://arxiv.org/pdf/2309.09186) |
-| 2023-09-14 | Shared Telemanipulation with VR controllers in an anti slosh scenario | Max Grobbel, Balint Varga, Sören Hohmann | [Abstract](https://arxiv.org/abs/2309.07714) · [PDF](https://arxiv.org/pdf/2309.07714) |
 
 ---
 

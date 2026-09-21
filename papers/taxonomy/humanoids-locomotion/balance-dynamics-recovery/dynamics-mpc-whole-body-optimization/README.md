@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Balance%2C%20Dynamics%20%26%20Recovery&specialty=Dynamics%2C%20MPC%20%26%20Whole-body%20Optimization#research-workbench)
 
-> 13 conference papers · 53 recent arXiv papers
+> 13 conference papers · 51 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -30,9 +30,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Enhanced Balance for Legged Robots Using Reaction Wheels | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160833) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160833) |
 | 2022 | A Linearization of Centroidal Dynamics for the Model-Predictive Control of Quadruped Robots | ICRA · Quadruped | [Paper](https://doi.org/10.1109/icra46639.2022.9812433) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812433) |
 | 2022 | Convex Model Predictive Control of Single Rigid Body Model on SO(3) for Versatile Dynamic Legged Motions | ICRA · Legged | [Paper](https://doi.org/10.1109/icra46639.2022.9811926) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811926) |
-| 2022 | Online Non-linear Centroidal MPC for Humanoid Robot Locomotion with Step Adjustment | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2203.04489) · [Publisher](https://doi.org/10.48550/arXiv.2203.04489) |
+| 2022 | Online Non-linear Centroidal MPC for Humanoid Robot Locomotion with Step Adjustment | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2203.04489) · [Index](https://dblp.org/rec/conf/icra/RomualdiDLSTP22) |
 
-## Recent arXiv papers (53)
+## Recent arXiv papers (51)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -87,8 +87,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-04 | Imitating and Finetuning Model Predictive Control for Robust and Symmetric Quadrupedal Locomotion | Donghoon Youm, Hyunyoung Jung, Hyeongjun Kim, Jemin Hwangbo et al. | [Abstract](https://arxiv.org/abs/2311.02304) · [PDF](https://arxiv.org/pdf/2311.02304) |
 | 2023-10-09 | Momentum-Aware Trajectory Optimisation using Full-Centroidal Dynamics and Implicit Inverse Kinematics | Aristotelis Papatheodorou, Wolfgang Merkt, Alexander L. Mitchell, Ioannis Havoutis | [Abstract](https://arxiv.org/abs/2310.06074) · [PDF](https://arxiv.org/pdf/2310.06074) |
 | 2023-09-27 | DTC: Deep Tracking Control | Fabian Jenelten, Junzhe He, Farbod Farshidian, Marco Hutter | [Abstract](https://arxiv.org/abs/2309.15462) · [PDF](https://arxiv.org/pdf/2309.15462) |
-| 2023-09-15 | MPCGPU: Real-Time Nonlinear Model Predictive Control through Preconditioned Conjugate Gradient on the GPU | Emre Adabag, Miloni Atal, William Gerard, Brian Plancher | [Abstract](https://arxiv.org/abs/2309.08079) · [PDF](https://arxiv.org/pdf/2309.08079) |
-| 2023-09-04 | Inverse Dynamics Trajectory Optimization for Contact-Implicit Model Predictive Control | Vince Kurtz, Alejandro Castro, Aykut Özgün Önol, Hai Lin | [Abstract](https://arxiv.org/abs/2309.01813) · [PDF](https://arxiv.org/pdf/2309.01813) |
 
 ---
 

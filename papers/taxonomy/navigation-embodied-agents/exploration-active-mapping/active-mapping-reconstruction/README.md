@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2022 | Exploration with Global Consistency Using Real-Time Re-integration and Active Loop Closure | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2204.02693) · [Publisher](https://doi.org/10.48550/arXiv.2204.02693) |
+| 2022 | Exploration with Global Consistency Using Real-Time Re-integration and Active Loop Closure | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2204.02693) · [Index](https://dblp.org/rec/conf/icra/ZhangZWS22) |
 
 ## Recent arXiv papers (11)
 

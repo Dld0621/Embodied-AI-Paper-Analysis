@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Object%2C%20Pose%20%26%20Affordance%20Perception&specialty=6D%20Pose%20%26%20Keypoint%20Estimation#research-workbench)
 
-> 23 conference papers · 221 recent arXiv papers
+> 23 conference papers · 219 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -38,14 +38,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Multi-View Keypoints for Reliable 6D Object Pose Estimation | ICRA · Object Pose | [Paper](https://arxiv.org/abs/2303.16833) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160354) |
 | 2023 | 6D Object Pose Estimation from Approximate 3D Models for Orbital Robotics | IROS · Object Pose | [Paper](https://arxiv.org/pdf/2303.13241) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341511) |
 | 2023 | Depth-Based 6DoF Object Pose Estimation Using Swin Transformer | IROS · Object Pose | [Paper](https://arxiv.org/pdf/2303.02133) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342215) |
-| 2023 | A Correct-and-Certify Approach to Self-Supervise Object Pose Estimators via Ensemble Self-Training | RSS · Object Pose | [Paper](https://arxiv.org/abs/2302.06019) · [Publisher](https://doi.org/10.48550/arXiv.2302.06019) |
+| 2023 | A Correct-and-Certify Approach to Self-Supervise Object Pose Estimators via Ensemble Self-Training | RSS · Object Pose | [Paper](https://arxiv.org/abs/2302.06019) · [Index](https://dblp.org/rec/journals/corr/abs-2302-06019) |
 | 2022 | TP-AE: Temporally Primed 6D Object Pose Tracking with Auto-Encoders | ICRA · Object Pose | [Paper](https://doi.org/10.1109/icra46639.2022.9811890) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811890) |
 | 2022 | SLAM-Supported Self-Training for 6D Object Pose Estimation | IROS · Object Pose | [Paper](https://arxiv.org/pdf/2203.04424) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981145) |
 
-## Recent arXiv papers (221)
+## Recent arXiv papers (219)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-14 | Tendon-Driven Continuum Robot with Modular Stiffness and In-Situ Self Pose Estimation | Guo Ning, Sue, Zheng Cao, Junzhe Hu et al. | [Abstract](https://arxiv.org/abs/2609.16256) · [PDF](https://arxiv.org/pdf/2609.16256) |
+| 2026-09-08 | TacClip: a clip-on sensor measures dynamic contact forces without covering the fingerpads | Yuqian Ye, Hao Li, Jingxi Xu, Haojun Feng et al. | [Abstract](https://arxiv.org/abs/2609.08214) · [PDF](https://arxiv.org/pdf/2609.08214) |
+| 2026-09-07 | Generalizable 6D Pose Estimation of Textureless Objects with Planar-based Gaussian Splatting | Jie Lu, Hengtan Zhang, Li Gong, Pengpeng Wang et al. | [Abstract](https://arxiv.org/abs/2609.07231) · [PDF](https://arxiv.org/pdf/2609.07231) |
+| 2026-09-04 | Sound-based Multi-Person 3D Pose Estimation | Yusuke Oumi, Yuto Shibata, Go Irie, Akisato Kimura et al. | [Abstract](https://arxiv.org/abs/2609.04902) · [PDF](https://arxiv.org/pdf/2609.04902) |
 | 2026-08-13 | AMR-Pose: An Active LED Marker-Based Relative Pose Estimation Framework With Probabilistic Switching PnP for Cooperative AUVs | Zeyu Sha, Xiaorui Wang, Mingyang Yang, Feitian Zhang | [Abstract](https://arxiv.org/abs/2608.12866) · [PDF](https://arxiv.org/pdf/2608.12866) |
 | 2026-08-10 | A Height-Constrained 2-Point Minimal Solver for Pose Estimation from Active LED Markers with Event Cameras | Runze Yuan, Alexander Kappler, Jun Zhang, Kuangyi Chen et al. | [Abstract](https://arxiv.org/abs/2608.09520) · [PDF](https://arxiv.org/pdf/2608.09520) |
 | 2026-08-09 | Protection Levels for Vision-Based Pose Estimation | Olivia Beyer Bruvik, Romeo Valentin, Marc R. Schlichting, Don Walker et al. | [Abstract](https://arxiv.org/abs/2608.10023) · [PDF](https://arxiv.org/pdf/2608.10023) |
@@ -65,7 +69,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-08 | Efficient Minimal Solvers for Relative Pose Estimation in Autonomous Driving Applications | Tao Li, Liang Liu, Jianli Han, Weimin Lv | [Abstract](https://arxiv.org/abs/2606.09569) · [PDF](https://arxiv.org/pdf/2606.09569) |
 | 2026-06-06 | G2G: Exploiting Intra-Group Geometry for Inter-Group Pose Estimation | Yufei Wei, Shuhao Ye, Chenxiao Hu, Yiyuan Pan et al. | [Abstract](https://arxiv.org/abs/2606.08284) · [PDF](https://arxiv.org/pdf/2606.08284) |
 | 2026-06-03 | CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation | Yurim Jeon, Dongseong Seo, Seung-Woo Seo | [Abstract](https://arxiv.org/abs/2606.05011) · [PDF](https://arxiv.org/pdf/2606.05011) |
-| 2026-06-02 | Multi-Robot Bearing-only Pose Estimation via Angle Rigidity | J. Francisco Presenza, Leonardo J. Colombo, Ignacio Mas, Juan I. Giribet | [Abstract](https://arxiv.org/abs/2606.03931) · [PDF](https://arxiv.org/pdf/2606.03931) |
+| 2026-06-02 | Multi-Robot Bearing-based Pose Estimation via Angle Rigidity | J. Francisco Presenza, Leonardo J. Colombo, Ignacio Mas, Juan I. Giribet | [Abstract](https://arxiv.org/abs/2606.03931) · [PDF](https://arxiv.org/pdf/2606.03931) |
 | 2026-05-25 | ComPose: A Unified Completion-Pose Framework for Robust Category-Level Object Pose Estimation | Huan Ren, Yihan Chen, Chuxin Wang, Nailong Liu et al. | [Abstract](https://arxiv.org/abs/2605.25553) · [PDF](https://arxiv.org/pdf/2605.25553) |
 | 2026-05-16 | Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy | Wenxiao Chen, Xueyu Yuan, Liu Liu, Di Wu et al. | [Abstract](https://arxiv.org/abs/2605.17033) · [PDF](https://arxiv.org/pdf/2605.17033) |
 | 2026-05-08 | 6D Pose Estimation via Keypoint Heatmap Regression with RGB-D Residual Neural Networks | Ismail Aljosevic, Amir Masoud Almasi, Ana Parovic, Ashkan Shafiei | [Abstract](https://arxiv.org/abs/2605.08059) · [PDF](https://arxiv.org/pdf/2605.08059) |
@@ -95,7 +99,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-01-12 | FMAC: a Fair Fiducial Marker Accuracy Comparison Software | Guillaume J. Laurent, Patrick Sandoz | [Abstract](https://arxiv.org/abs/2601.07723) · [PDF](https://arxiv.org/pdf/2601.07723) |
 | 2026-01-09 | FlyPose: Towards Robust Human Pose Estimation From Aerial Views | Hassaan Farooq, Marvin Brenner, Peter Stütz | [Abstract](https://arxiv.org/abs/2601.05747) · [PDF](https://arxiv.org/pdf/2601.05747) |
 | 2026-01-04 | VisuoTactile 6D Pose Estimation of an In-Hand Object using Vision and Tactile Sensor Data | Snehal s. Dikhale, Karankumar Patel, Daksh Dhingra, Itoshi Naramura et al. | [Abstract](https://arxiv.org/abs/2601.01675) · [PDF](https://arxiv.org/pdf/2601.01675) |
-| 2025-12-31 | CREPES-X: Hierarchical Bearing-Distance-Inertial Direct Cooperative Relative Pose Estimation System | Zhehan Li, Zheng Wang, Jiadong Lu, Qi Liu et al. | [Abstract](https://arxiv.org/abs/2512.24688) · [PDF](https://arxiv.org/pdf/2512.24688) |
+| 2025-12-31 | CREPES-X: Hierarchical Bearing-Distance-Inertial Direct Cooperative Relative Pose Estimation System | Zhehan Li, Jiadong Lu, Zheng Wang, Qi Liu et al. | [Abstract](https://arxiv.org/abs/2512.24688) · [PDF](https://arxiv.org/pdf/2512.24688) |
 | 2025-12-23 | A General Purpose Method for Robotic Interception of Non-Cooperative Dynamic Targets | Tanmay P. Patel, Erica L. Tevere, Erik H. Kramer, Rudranarayan M. Mukherjee | [Abstract](https://arxiv.org/abs/2512.20769) · [PDF](https://arxiv.org/pdf/2512.20769) |
 | 2025-12-10 | Development and Testing for Perception Based Autonomous Landing of a Long-Range QuadPlane | Ashik E Rasul, Humaira Tasnim, Ji Yu Kim, Young Hyun Lim et al. | [Abstract](https://arxiv.org/abs/2512.09343) · [PDF](https://arxiv.org/pdf/2512.09343) |
 | 2025-12-09 | SDT-6D: Fully Sparse Depth-Transformer for Staged End-to-End 6D Pose Estimation in Industrial Multi-View Bin Picking | Nico Leuze, Maximilian Hoh, Samed Doğan, Nicolas R. -Peña et al. | [Abstract](https://arxiv.org/abs/2512.08430) · [PDF](https://arxiv.org/pdf/2512.08430) |
@@ -145,7 +149,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-05-18 | SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving | Muleilan Pei, Jiayao Shan, Peiliang Li, Jieqi Shi et al. | [Abstract](https://arxiv.org/abs/2505.12246) · [PDF](https://arxiv.org/pdf/2505.12246) |
 | 2025-05-08 | An Efficient Method for Accurate Pose Estimation and Error Correction of Cuboidal Objects | Utsav Rai, Hardik Mehta, Vismay Vakharia, Aditya Choudhary et al. | [Abstract](https://arxiv.org/abs/2505.04962) · [PDF](https://arxiv.org/pdf/2505.04962) |
 | 2025-05-05 | Corr2Distrib: Making Ambiguous Correspondences an Ally to Predict Reliable 6D Pose Distributions | Asma Brazi, Boris Meden, Fabrice Mayran de Chamisso, Steve Bourgeois et al. | [Abstract](https://arxiv.org/abs/2505.02501) · [PDF](https://arxiv.org/pdf/2505.02501) |
-| 2025-04-29 | A Survey on Event-based Optical Marker Systems | Nafiseh Jabbari Tofighi, Maxime Robic, Fabio Morbidi, Pascal Vasseur | [Abstract](https://arxiv.org/abs/2504.20736) · [PDF](https://arxiv.org/pdf/2504.20736) |
+| 2025-04-29 | Event-based Optical Marker Systems: A survey | Nafiseh Jabbari Tofighi, Maxime Robic, Fabio Morbidi, Pascal Vasseur | [Abstract](https://arxiv.org/abs/2504.20736) · [PDF](https://arxiv.org/pdf/2504.20736) |
 | 2025-04-28 | Category-Level and Open-Set Object Pose Estimation for Robotics | Peter Hönig, Matthias Hirschmanner, Markus Vincze | [Abstract](https://arxiv.org/abs/2504.19572) · [PDF](https://arxiv.org/pdf/2504.19572) |
 | 2025-04-24 | Object Pose Estimation by Camera Arm Control Based on the Next Viewpoint Estimation | Tomoki Mizuno, Kazuya Yabashi, Tsuyoshi Tasaki | [Abstract](https://arxiv.org/abs/2504.17424) · [PDF](https://arxiv.org/pdf/2504.17424) |
 | 2025-04-21 | Vision6D: 3D-to-2D Interactive Visualization and Annotation Tool for 6D Pose Estimation | Yike Zhang, Eduardo Davalos, Jack Noble | [Abstract](https://arxiv.org/abs/2504.15329) · [PDF](https://arxiv.org/pdf/2504.15329) |
@@ -261,12 +265,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-30 | Diff-DOPE: Differentiable Deep Object Pose Estimation | Jonathan Tremblay, Bowen Wen, Valts Blukis, Balakumar Sundaralingam et al. | [Abstract](https://arxiv.org/abs/2310.00463) · [PDF](https://arxiv.org/pdf/2310.00463) |
 | 2023-09-28 | Off-the-shelf bin picking workcell with visual pose estimation: A case study on the world robot summit 2018 kitting task | Frederik Hagelskjær, Kasper Høj Lorenzen, Dirk Kraft | [Abstract](https://arxiv.org/abs/2309.16221) · [PDF](https://arxiv.org/pdf/2309.16221) |
 | 2023-09-27 | Analysis on Multi-robot Relative 6-DOF Pose Estimation Error Based on UWB Range | Xinran Li, Shuaikang Zheng, Pengcheng Zheng, Haifeng Zhang et al. | [Abstract](https://arxiv.org/abs/2309.15367) · [PDF](https://arxiv.org/pdf/2309.15367) |
-| 2023-09-19 | GloPro: Globally-Consistent Uncertainty-Aware 3D Human Pose Estimation & Tracking in the Wild | Simon Schaefer, Dorian F. Henning, Stefan Leutenegger | [Abstract](https://arxiv.org/abs/2309.10369) · [PDF](https://arxiv.org/pdf/2309.10369) |
-| 2023-09-18 | Hierarchical Attention and Graph Neural Networks: Toward Drift-Free Pose Estimation | Kathia Melbouci, Fawzi Nashashibi | [Abstract](https://arxiv.org/abs/2309.09934) · [PDF](https://arxiv.org/pdf/2309.09934) |
-| 2023-09-16 | Optimal Initialization Strategies for Range-Only Trajectory Estimation | Abhishek Goudar, Frederike Dümbgen, Timothy D. Barfoot, Angela P. Schoellig | [Abstract](https://arxiv.org/abs/2309.09011) · [PDF](https://arxiv.org/pdf/2309.09011) |
-| 2023-09-11 | ViHOPE: Visuotactile In-Hand Object 6D Pose Estimation with Shape Completion | Hongyu Li, Snehal Dikhale, Soshi Iba, Nawid Jamali | [Abstract](https://arxiv.org/abs/2309.05662) · [PDF](https://arxiv.org/pdf/2309.05662) |
-| 2023-09-11 | Towards Intuitive HMI for UAV Control | Filip Zoric, Goran Vasiljevic, Matko Orsag, Zdenko Kovacic | [Abstract](https://arxiv.org/abs/2309.05460) · [PDF](https://arxiv.org/pdf/2309.05460) |
-| 2023-09-05 | DR-Pose: A Two-stage Deformation-and-Registration Pipeline for Category-level 6D Object Pose Estimation | Lei Zhou, Zhiyang Liu, Runze Gan, Haozhe Wang et al. | [Abstract](https://arxiv.org/abs/2309.01925) · [PDF](https://arxiv.org/pdf/2309.01925) |
 
 ---
 

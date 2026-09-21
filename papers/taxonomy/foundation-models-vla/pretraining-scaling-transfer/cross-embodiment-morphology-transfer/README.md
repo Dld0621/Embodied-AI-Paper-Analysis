@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Pretraining%2C%20Scaling%20%26%20Transfer&specialty=Cross-embodiment%20%26%20Morphology%20Transfer#research-workbench)
 
-> 4 conference papers · 24 recent arXiv papers
+> 4 conference papers · 27 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,16 +20,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | Universal Actions for Enhanced Embodied Foundation Models | CVPR · Foundation Model | [Paper](https://arxiv.org/abs/2501.10105) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02096) |
 | 2024 | CrossFormer: Scaling Cross-Embodied Learning for Manipulation | CoRL · Cross-embodiment learning | [Paper](https://arxiv.org/abs/2408.11812) · [Official](https://proceedings.mlr.press/v270/) |
-| 2024 | EMOS: Embodiment-aware Heterogeneous Multi-robot Operating System with LLM Agents | ICLR · Llm | [Paper](https://arxiv.org/abs/2410.22662) · [Publisher](https://doi.org/10.48550/arXiv.2410.22662) |
+| 2024 | EMOS: Embodiment-aware Heterogeneous Multi-robot Operating System with LLM Agents | ICLR · Llm | [Paper](https://arxiv.org/abs/2410.22662) · [Index](https://dblp.org/rec/journals/corr/abs-2410-22662) |
 | 2024 | Open X-Embodiment: Robotic Learning Datasets and RT-X Models | ICRA · Cross-embodiment data | [Paper](https://arxiv.org/abs/2310.08864) · [Official](https://ieeexplore.ieee.org/abstract/document/10611477) · [Code](https://github.com/google-deepmind/open_x_embodiment) |
 
-## Recent arXiv papers (24)
+## Recent arXiv papers (27)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-18 | AtomEgo: Exploring Ego-Robot Integration for Embodied Foundation Model Pretraining | Di Wu, Dongchen Zheng, Junhe Sheng, Zhongxing Wei et al. | [Abstract](https://arxiv.org/abs/2609.21461) · [PDF](https://arxiv.org/pdf/2609.21461) |
+| 2026-09-17 | Improving Cross-embodiment Transfer in Latent Action Models with Action-Similarity Supervision | Maxime Alvarez, Renzo Caballero, Tatsuya Matsushima, Yusuke Iwasawa et al. | [Abstract](https://arxiv.org/abs/2609.19846) · [PDF](https://arxiv.org/pdf/2609.19846) |
+| 2026-09-16 | UAVs Meet Embodied Intelligence: Bridging Human Intents and Flying Dynamics Via Harnessing Physical-Digital AI Agents | Yonglin Tian, Weiyi Wang, Houhua Lu, Xinyi Li et al. | [Abstract](https://arxiv.org/abs/2609.18326) · [PDF](https://arxiv.org/pdf/2609.18326) |
+| 2026-09-02 | ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation | Mi Yan, Wenhao Zhang, Zhiqi Zhang, Yu Peng et al. | [Abstract](https://arxiv.org/abs/2609.02546) · [PDF](https://arxiv.org/pdf/2609.02546) |
 | 2026-08-16 | GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture | GigaBrain Team, Angen Ye, Axiang Sun, Can Jin et al. | [Abstract](https://arxiv.org/abs/2608.15875) · [PDF](https://arxiv.org/pdf/2608.15875) |
 | 2026-07-20 | RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model | Kehan Li, Bohan Hou, Minghao Zhu, Tianyi Zhang et al. | [Abstract](https://arxiv.org/abs/2607.17977) · [PDF](https://arxiv.org/pdf/2607.17977) |
-| 2026-07-12 | Artificial Foveated Perception for Mitigating Shortcut Learning in Robotic Foundation Models | Xiatao Sun, Yuan Zhuang, Mateo Sanchez Lopez Negrete, Matei-Victor Coldea et al. | [Abstract](https://arxiv.org/abs/2607.10655) · [PDF](https://arxiv.org/pdf/2607.10655) |
 | 2026-06-22 | Cloak: Zero-Shot Cross-Embodiment Manipulation by Masking the End-Effector from the VLA | Michael Piseno, Guy Tevet, C. Karen Liu | [Abstract](https://arxiv.org/abs/2606.22836) · [PDF](https://arxiv.org/pdf/2606.22836) |
 | 2026-06-15 | Unified Motion-Action Modeling for Heterogeneous Robot Learning | Yunhao Cao, Shitong Liu, Chao Feng, Meryl Zhang et al. | [Abstract](https://arxiv.org/abs/2606.16917) · [PDF](https://arxiv.org/pdf/2606.16917) |
 | 2026-06-01 | SeeTraceAct: Visibility-Aware Latent Planning from Cross-Embodiment Demonstration Videos | Jaehyeon Son, Junhyun Kim, Kyle Kam, Jeremiah Coholich et al. | [Abstract](https://arxiv.org/abs/2606.02745) · [PDF](https://arxiv.org/pdf/2606.02745) |

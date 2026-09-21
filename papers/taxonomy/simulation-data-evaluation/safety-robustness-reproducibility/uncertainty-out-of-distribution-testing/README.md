@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Safety%2C%20Robustness%20%26%20Reproducibility&specialty=Uncertainty%20%26%20Out-of-distribution%20Testing#research-workbench)
 
-> 0 conference papers · 41 recent arXiv papers
+> 0 conference papers · 40 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,10 +18,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (41)
+## Recent arXiv papers (40)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-17 | Learning Reliable Parking Policies via Offline Reinforcement Learning with Quantized Action Representations | Zewei Yang, Zengqi Peng, Jun Ma | [Abstract](https://arxiv.org/abs/2609.19894) · [PDF](https://arxiv.org/pdf/2609.19894) |
 | 2026-06-17 | UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning | Mohamed Nabail, Leo Kaixuan Cheng, Jingmin Wang, Nicholas Rhinehart | [Abstract](https://arxiv.org/abs/2606.19328) · [PDF](https://arxiv.org/pdf/2606.19328) |
 | 2026-06-01 | World-Task Factorization for Robot Learning | Eduardo Sebastián, Adrian Pfisterer, Vito Mengers, Oliver Brock et al. | [Abstract](https://arxiv.org/abs/2606.02027) · [PDF](https://arxiv.org/pdf/2606.02027) |
 | 2026-05-18 | Confidence-Gated Robot Autonomy: When Does Uncertainty Actually Help? | Johannes A. Gaus, Jhon P. F. Charaja, Daniel Haeufle | [Abstract](https://arxiv.org/abs/2605.18045) · [PDF](https://arxiv.org/pdf/2605.18045) |
@@ -61,8 +62,6 @@ No conference papers currently map to this specialty.
 | 2024-04-29 | Predicting Safety Misbehaviours in Autonomous Driving Systems using Uncertainty Quantification | Ruben Grewal, Paolo Tonella, Andrea Stocco | [Abstract](https://arxiv.org/abs/2404.18573) · [PDF](https://arxiv.org/pdf/2404.18573) |
 | 2024-04-09 | Learning Efficient and Fair Policies for Uncertainty-Aware Collaborative Human-Robot Order Picking | Igor G. Smit, Zaharah Bukhsh, Mykola Pechenizkiy, Kostas Alogariastos et al. | [Abstract](https://arxiv.org/abs/2404.08006) · [PDF](https://arxiv.org/pdf/2404.08006) |
 | 2024-02-27 | Masked Gamma-SSL: Learning Uncertainty Estimation via Masked Image Modeling | David S. W. Williams, Matthew Gadd, Paul Newman, Daniele De Martini | [Abstract](https://arxiv.org/abs/2402.17622) · [PDF](https://arxiv.org/pdf/2402.17622) |
-| 2023-09-16 | SafeShift: Safety-Informed Distribution Shifts for Robust Trajectory Prediction in Autonomous Driving | Benjamin Stoler, Ingrid Navarro, Meghdeep Jana, Soonmin Hwang et al. | [Abstract](https://arxiv.org/abs/2309.08889) · [PDF](https://arxiv.org/pdf/2309.08889) |
-| 2023-09-13 | Out of Distribution Detection via Domain-Informed Gaussian Process State Space Models | Alonso Marco, Elias Morley, Claire J. Tomlin | [Abstract](https://arxiv.org/abs/2309.06655) · [PDF](https://arxiv.org/pdf/2309.06655) |
 
 ---
 

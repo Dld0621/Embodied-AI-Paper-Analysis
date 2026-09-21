@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=State%20Estimation%20%26%20Tracking&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 14 conference papers · 112 recent arXiv papers
+> 14 conference papers · 115 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,7 +25,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Adaptive State Estimation with Constant-Curvature Dynamics Using Force-Torque Sensors with Application to a Soft Pneumatic Actuator | ICRA · State Estimation | [Paper](https://repo.uni-hannover.de/handle/123456789/20230) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610370) |
 | 2024 | Particle Filter with Stable Embedding for State Estimation of the Rigid Body Attitude System on the Set of Unit Quaternions | ICRA · State Estimation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610922) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610922) |
 | 2024 | Real-time Contact State Estimation in Shape Control of Deformable Linear Objects under Small Environmental Constraints | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2401.17154) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611558) |
-| 2024 | Demonstrating Agile Flight from Pixels without State Estimation | RSS · State Estimation | [Paper](https://arxiv.org/abs/2406.12505) · [Publisher](https://doi.org/10.48550/arXiv.2406.12505) |
+| 2024 | Demonstrating Agile Flight from Pixels without State Estimation | RSS · State Estimation | [Paper](https://arxiv.org/abs/2406.12505) · [Index](https://dblp.org/rec/journals/corr/abs-2406-12505) |
 | 2023 | LEARNEST: LEARNing Enhanced Model-based State ESTimation for Robots using Knowledge-based Neural Ordinary Differential Equations | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2209.08185) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161211) |
 | 2023 | On the Use of Torque Measurement in Centroidal State Estimation | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2202.12574) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160823) |
 | 2023 | Towards Consistent Batch State Estimation Using a Time-Correlated Measurement Noise Model | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2303.06507) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160257) |
@@ -33,10 +33,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | STEADY: Simultaneous State Estimation and Dynamics Learning from Indirect Observations | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2203.01299) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981279) |
 | 2022 | The Uncertainty Aware Salted Kalman Filter: State Estimation for Hybrid Systems with Uncertain Guards | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2202.12729) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981218) |
 
-## Recent arXiv papers (112)
+## Recent arXiv papers (115)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-15 | Bridging Learned Visual Perception and Symbolic Belief-Space Planning | Guy Azran, Michael Navat, Sarah Keren | [Abstract](https://arxiv.org/abs/2609.16884) · [PDF](https://arxiv.org/pdf/2609.16884) |
+| 2026-09-02 | Towards Effective Physical Reservoir Computing with a Pneumatic Soft Robot | Jeevan Hebbal Manjunath, Jun Wang, Suyi Li, Wenlong Zhang | [Abstract](https://arxiv.org/abs/2609.02157) · [PDF](https://arxiv.org/pdf/2609.02157) |
+| 2026-09-01 | Integrating Traffic Noise Emission Modelling into Variable Speed Limit Control | Jiawen Meng, John Pravin Arockiasamy, Alexey Vinel | [Abstract](https://arxiv.org/abs/2609.01339) · [PDF](https://arxiv.org/pdf/2609.01339) |
 | 2026-08-26 | Transient multimode heat transfer of an industrial automated tape laying process under rapidly changing conditions | Bernhard Rameder, Hubert Gattringer, Andreas Müller, Ronald Naderer | [Abstract](https://arxiv.org/abs/2608.25470) · [PDF](https://arxiv.org/pdf/2608.25470) |
 | 2026-08-26 | Phantom Navigator: Stealthy and Precise Unmanned Aerial Vehicle Redirection with Real-Time Tracking and GPS Spoofing | Haocheng Meng, Shaocheng Luo, Songqiao Xie, Miroslav Pajic | [Abstract](https://arxiv.org/abs/2608.26011) · [PDF](https://arxiv.org/pdf/2608.26011) |
 | 2026-08-11 | Nonlinear Model Predictive Control via Sequential Convex Programming for Drone-to-Drone Docking | Neeraj Balachandar, Shriram Hari, Vishnu R. Unni | [Abstract](https://arxiv.org/abs/2608.10542) · [PDF](https://arxiv.org/pdf/2608.10542) |

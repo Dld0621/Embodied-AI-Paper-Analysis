@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Imitation%20%26%20Demonstration%20Learning&specialty=One-shot%2C%20Few-shot%20%26%20Skill%20Transfer#research-workbench)
 
-> 19 conference papers · 73 recent arXiv papers
+> 19 conference papers · 71 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,30 +18,31 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination | ICLR · Imitation Learning | [Paper](https://arxiv.org/abs/2412.14957) · [Publisher](https://doi.org/10.48550/arXiv.2412.14957) |
+| 2025 | Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination | ICLR · Imitation Learning | [Paper](https://arxiv.org/abs/2412.14957) · [Index](https://dblp.org/rec/conf/iclr/BarcellonaZAPGG25) |
 | 2025 | Motion Tracks: A Unified Representation for Human-Robot Transfer in Few-Shot Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2501.06994) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128834) |
 | 2025 | One-Shot Dual-Arm Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2503.06831) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128338) |
 | 2025 | Elastic Motion Policy: An Adaptive Dynamical System for Robust and Efficient One-Shot Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/abs/2503.08029) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246142) |
 | 2025 | Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping | IROS · Grasp | [Paper](https://arxiv.org/abs/2506.17110) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247354) |
 | 2025 | One-Shot Robust Imitation Learning for Long-Horizon Visuomotor Tasks from Unsegmented Demonstrations | IROS · Imitation Learning | [Paper](https://arxiv.org/abs/2410.01630) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246635) |
 | 2025 | Semantic-Geometric-Physical-Driven Robot Manipulation Skill Transfer via Skill Library and Tactile Representation | IROS · Manipulation | [Paper](https://arxiv.org/abs/2411.11714) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246218) |
-| 2024 | FlowRetrieval: Flow-Guided Data Retrieval for Few-Shot Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2408.16944) · [Publisher](https://doi.org/10.48550/arXiv.2408.16944) |
-| 2024 | RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2407.04689) · [Publisher](https://doi.org/10.48550/arXiv.2407.04689) |
-| 2024 | Keypoint Action Tokens Enable In-Context Imitation Learning in Robotics | RSS · Imitation Learning | [Paper](https://arxiv.org/abs/2403.19578) · [Publisher](https://doi.org/10.48550/arXiv.2403.19578) |
-| 2024 | One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2405.13178) · [Publisher](https://doi.org/10.48550/arXiv.2405.13178) |
-| 2023 | Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2308.07931) · [Publisher](https://doi.org/10.48550/arXiv.2308.07931) |
-| 2023 | Few-Shot In-Context Imitation Learning via Implicit Graph Alignment | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2310.12238) · [Publisher](https://doi.org/10.48550/arXiv.2310.12238) |
-| 2023 | One-shot Imitation Learning via Interaction Warping | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2306.12392) · [Publisher](https://doi.org/10.48550/arXiv.2306.12392) |
+| 2024 | FlowRetrieval: Flow-Guided Data Retrieval for Few-Shot Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2408.16944) · [Index](https://dblp.org/rec/journals/corr/abs-2408-16944) |
+| 2024 | RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2407.04689) · [Index](https://dblp.org/rec/journals/corr/abs-2407-04689) |
+| 2024 | Keypoint Action Tokens Enable In-Context Imitation Learning in Robotics | RSS · Imitation Learning | [Paper](https://arxiv.org/abs/2403.19578) · [Index](https://dblp.org/rec/conf/rss/PaloJ24) |
+| 2024 | One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2405.13178) · [Index](https://dblp.org/rec/conf/rss/ZhangB24) |
+| 2023 | Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2308.07931) · [Index](https://dblp.org/rec/journals/corr/abs-2308-07931) |
+| 2023 | Few-Shot In-Context Imitation Learning via Implicit Graph Alignment | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2310.12238) · [Index](https://dblp.org/rec/journals/corr/abs-2310-12238) |
+| 2023 | One-shot Imitation Learning via Interaction Warping | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2306.12392) · [Index](https://dblp.org/rec/journals/corr/abs-2306-12392) |
 | 2023 | Automated Action Evaluation for Robotic Imitation Learning via Siamese Neural Networks | ICRA · Imitation Learning | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161364) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161364) |
 | 2023 | FSG-Net: a Deep Learning model for Semantic Robot Grasping through Few-Shot Learning | ICRA · Grasp | [Paper](https://www.research.unipd.it/bitstream/11577/3471248/1/ICRA2023_FSG.pdf) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160618) |
 | 2022 | Attentive One-Shot Meta-Imitation Learning From Visual Demonstration | ICRA · Imitation Learning | [Paper](https://doi.org/10.1109/icra46639.2022.9812281) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812281) |
 | 2022 | Demonstrate Once, Imitate Immediately (DOME): Learning Visual Servoing for One-Shot Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2204.02863) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981982) |
 | 2022 | Using human gaze in few-shot imitation learning for robot manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981706) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981706) |
 
-## Recent arXiv papers (73)
+## Recent arXiv papers (71)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-13 | VLBiMan++: Expanding the Generalization Boundary of Vision-Language Anchored One-Shot Bimanual Manipulation | Huayi Zhou, Wei Gao, Yiyang Han, Kui Jia et al. | [Abstract](https://arxiv.org/abs/2609.14310) · [PDF](https://arxiv.org/pdf/2609.14310) |
 | 2026-07-30 | SemAnCorr: Semantic Anchored Correspondence for Zero-Shot Manipulation Skill Transfer | Xiaoxiang Dong, William Baron, Hongyi Chen, Uksang Yoo et al. | [Abstract](https://arxiv.org/abs/2607.28382) · [PDF](https://arxiv.org/pdf/2607.28382) |
 | 2026-07-22 | HOST:Robots Acquire Manipulation Skills in Seconds from a Single Human Video | Guangyan Chen, Meiling Wang, Te Cui, Zichen Zhou et al. | [Abstract](https://arxiv.org/abs/2607.20033) · [PDF](https://arxiv.org/pdf/2607.20033) |
 | 2026-07-20 | Generalize and Guide: Decomposing Rewards for Few-Shot Inverse Reinforcement Learning | Ziyi Liu, Grace Zhang | [Abstract](https://arxiv.org/abs/2607.17760) · [PDF](https://arxiv.org/pdf/2607.17760) |
@@ -112,9 +113,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-03-28 | Keypoint Action Tokens Enable In-Context Imitation Learning in Robotics | Norman Di Palo, Edward Johns | [Abstract](https://arxiv.org/abs/2403.19578) · [PDF](https://arxiv.org/pdf/2403.19578) |
 | 2023-10-18 | Few-Shot In-Context Imitation Learning via Implicit Graph Alignment | Vitalis Vosylius, Edward Johns | [Abstract](https://arxiv.org/abs/2310.12238) · [PDF](https://arxiv.org/pdf/2310.12238) |
 | 2023-10-06 | Compositional Servoing by Recombining Demonstrations | Max Argus, Abhijeet Nayak, Martin Büchner, Silvio Galesso et al. | [Abstract](https://arxiv.org/abs/2310.04271) · [PDF](https://arxiv.org/pdf/2310.04271) |
-| 2023-09-20 | Cloud-Based Hierarchical Imitation Learning for Scalable Transfer of Construction Skills from Human Workers to Assisting Robots | Hongrui Yu, Vineet R. Kamat, Carol C. Menassa | [Abstract](https://arxiv.org/abs/2309.11619) · [PDF](https://arxiv.org/pdf/2309.11619) |
-| 2023-09-08 | Few-Shot Learning of Force-Based Motions From Demonstration Through Pre-training of Haptic Representation | Marina Y. Aoyama, João Moura, Namiko Saito, Sethu Vijayakumar | [Abstract](https://arxiv.org/abs/2309.04640) · [PDF](https://arxiv.org/pdf/2309.04640) |
-| 2023-08-31 | SA6D: Self-Adaptive Few-Shot 6D Pose Estimator for Novel and Occluded Objects | Ning Gao, Ngo Anh Vien, Hanna Ziesche, Gerhard Neumann | [Abstract](https://arxiv.org/abs/2308.16528) · [PDF](https://arxiv.org/pdf/2308.16528) |
 
 ---
 

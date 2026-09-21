@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Retargeting%20%26%20Human%20Motion&specialty=Motion%20Capture%20%26%20Wearable%20Input#research-workbench)
 
-> 1 conference papers · 5 recent arXiv papers
+> 1 conference papers · 6 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2023 | Scalable. Intuitive Human to Robot Skill Transfer with Wearable Human Machine Interfaces: On Complex, Dexterous Tasks | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS55552.2023.10341661) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341661) |
 
-## Recent arXiv papers (5)
+## Recent arXiv papers (6)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-12 | GIFT: Glove-Inferred Force Transfer: Force-Aware Human-to-Robot Skill Transfer from a Wearable Sensing Glove to a Robot Hand Without Tactile Sensors | Tzah Sarusi | [Abstract](https://arxiv.org/abs/2609.14173) · [PDF](https://arxiv.org/pdf/2609.14173) |
 | 2026-03-27 | T-800: An 800 Hz Data Glove for Precise Hand Gesture Tracking | Haoyang Luo, Zihang Zhao, Leiyao Cui, Saiyao Zhang et al. | [Abstract](https://arxiv.org/abs/2603.26403) · [PDF](https://arxiv.org/pdf/2603.26403) |
 | 2026-01-22 | Glove2UAV: A Wearable IMU-Based Glove for Intuitive Control of UAV | Amir Habel, Ivan Snegirev, Elizaveta Semenyakina, Miguel Altamirano Cabrera et al. | [Abstract](https://arxiv.org/abs/2601.15775) · [PDF](https://arxiv.org/pdf/2601.15775) |
 | 2025-07-13 | Visuo-Acoustic Hand Pose and Contact Estimation | Yuemin Mao, Uksang Yoo, Yunchao Yao, Shahram Najam Syed et al. | [Abstract](https://arxiv.org/abs/2508.00852) · [PDF](https://arxiv.org/pdf/2508.00852) |

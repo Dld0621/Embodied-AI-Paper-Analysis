@@ -22,6 +22,7 @@ No conference papers currently map to this specialty.
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-14 | A Programmable Optics Cloud Laboratory | Sachin Vaidya, Caio Silva, Seou Choi, Joshua Chen et al. | [Abstract](https://arxiv.org/abs/2609.16413) · [PDF](https://arxiv.org/pdf/2609.16413) |
 | 2026-08-24 | Reproducible Vision-Guided 6-DoF Robotic Manipulator with a Mixed Stepper-Driver Architecture and Browser-Native Control | Lasan Perera, Deneth Priyadarshana, Dulana Pitiwaduge, Isitha Dinujaya et al. | [Abstract](https://arxiv.org/abs/2608.22799) · [PDF](https://arxiv.org/pdf/2608.22799) |
 | 2026-08-07 | Exact Thrust-Reversal Limits of Bidirectional Propellers under Bounded Motor Inputs | Ahmed Ali, Chiara Gabellieri, Antonio Franchi | [Abstract](https://arxiv.org/abs/2608.06991) · [PDF](https://arxiv.org/pdf/2608.06991) |
 | 2026-08-04 | Scheduling and Routing with Degradation-Triggered Job Arrivals: An Application to Forest Firefighting with an Unmanned Aerial Vehicle Fleet | Erdi Dasdemir, Esther Jose, Rajan Batta | [Abstract](https://arxiv.org/abs/2608.18140) · [PDF](https://arxiv.org/pdf/2608.18140) |
@@ -42,7 +43,6 @@ No conference papers currently map to this specialty.
 | 2024-09-18 | Secure Control Systems for Autonomous Quadrotors against Cyber-Attacks | Samuel Belkadi | [Abstract](https://arxiv.org/abs/2409.11897) · [PDF](https://arxiv.org/pdf/2409.11897) |
 | 2024-03-18 | ForzaETH Race Stack -- Scaled Autonomous Head-to-Head Racing on Fully Commercial off-the-Shelf Hardware | Nicolas Baumann, Edoardo Ghignone, Jonas Kühne, Niklas Bastuck et al. | [Abstract](https://arxiv.org/abs/2403.11784) · [PDF](https://arxiv.org/pdf/2403.11784) |
 | 2023-10-09 | Replication of Multi-agent Reinforcement Learning for the "Hide and Seek" Problem | Haider Kamal, Muaz A. Niazi, Hammad Afzal | [Abstract](https://arxiv.org/abs/2310.05430) · [PDF](https://arxiv.org/pdf/2310.05430) |
-| 2023-09-04 | A Systematic Review on Reproducibility in Child-Robot Interaction | Micol Spitale, Rebecca Stower, Elmira Yadollahi, Maria Teresa Parreira et al. | [Abstract](https://arxiv.org/abs/2309.01822) · [PDF](https://arxiv.org/pdf/2309.01822) |
 
 ---
 

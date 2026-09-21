@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Mapping%20%26%20Localization&specialty=Place%20Recognition%20%26%20Loop%20Closure#research-workbench)
 
-> 2 conference papers · 220 recent arXiv papers
+> 2 conference papers · 218 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,10 +21,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Probabilistic Active Loop Closure for Autonomous Exploration | ICRA · Exploration | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610213) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610213) |
 | 2022 | ULSM: Underground Localization and Semantic Mapping with Salient Region Loop Closure under Perceptually-Degraded Environment | IROS · Semantic Mapping | [Paper](https://doi.org/10.1109/IROS47612.2022.9982170) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982170) |
 
-## Recent arXiv papers (220)
+## Recent arXiv papers (218)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-18 | Multi-viewpoint Geo-localization with Event Cameras | Adam D. Hines, Michael Milford, Tobias Fischer | [Abstract](https://arxiv.org/abs/2609.21219) · [PDF](https://arxiv.org/pdf/2609.21219) |
+| 2026-09-18 | Adaptive World Memory 3D Foundation Model for Scalable 3D Mapping, Localization, and Rendering | Tianchen Deng, Guole Shen, Yilin Shen, Wenhua Wu et al. | [Abstract](https://arxiv.org/abs/2609.21502) · [PDF](https://arxiv.org/pdf/2609.21502) |
+| 2026-09-16 | ReRadar: Robust Radar Global Localization via Rotation-Equivariant Descriptor Learning | Duc Manh Nguyen, Truong Giang Dao, Gia Nghiem Luong, Viet Trung Hoang et al. | [Abstract](https://arxiv.org/abs/2609.18092) · [PDF](https://arxiv.org/pdf/2609.18092) |
 | 2026-08-07 | Are Visual Place Recognition Models Recognizing Places or Conditions? Distractor-Augmented Evaluation and Condition Suppression | Beomsu Kim, Minwoo Jung, Giseop Kim | [Abstract](https://arxiv.org/abs/2608.06847) · [PDF](https://arxiv.org/pdf/2608.06847) |
 | 2026-08-06 | Topometric Autonomous Vehicle Localization by Combining Visual Embeddings and Feed-Forward 3D Models | Eulogio Quemada-Torres, Alberto Jaenal, Francisco-Angel Moreno, Javier Gonzalez-Jimenez | [Abstract](https://arxiv.org/abs/2608.06021) · [PDF](https://arxiv.org/pdf/2608.06021) |
 | 2026-07-29 | VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion | Zador Pataki, Paul-Edouard Sarlin, Marc Pollefeys | [Abstract](https://arxiv.org/abs/2607.27194) · [PDF](https://arxiv.org/pdf/2607.27194) |
@@ -95,7 +98,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-09-05 | Towards an Accurate and Effective Robot Vision (The Problem of Topological Localization for Mobile Robots) | Emanuela Boros | [Abstract](https://arxiv.org/abs/2509.04948) · [PDF](https://arxiv.org/pdf/2509.04948) |
 | 2025-09-02 | Ensemble-Based Event Camera Place Recognition Under Varying Illumination | Therese Joseph, Tobias Fischer, Michael Milford | [Abstract](https://arxiv.org/abs/2509.01968) · [PDF](https://arxiv.org/pdf/2509.01968) |
 | 2025-08-26 | SignLoc: Robust Localization using Navigation Signs and Public Maps | Nicky Zimmerman, Joel Loo, Ayush Agrawal, David Hsu | [Abstract](https://arxiv.org/abs/2508.18606) · [PDF](https://arxiv.org/pdf/2508.18606) |
-| 2025-08-19 | ROVER: Robust Loop Closure Verification with Trajectory Prior in Repetitive Environments | Jingwen Yu, Jiayi Yang, Anjun Hu, Jiankun Wang et al. | [Abstract](https://arxiv.org/abs/2508.13488) · [PDF](https://arxiv.org/pdf/2508.13488) |
+| 2025-08-19 | ROVER: Robust Loop Closure Verification with Trajectory Prior in Repetitive Environments | Jingwen Yu, Jiayi Yang, Jianhao Jiao, Anjun Hu et al. | [Abstract](https://arxiv.org/abs/2508.13488) · [PDF](https://arxiv.org/pdf/2508.13488) |
 | 2025-08-13 | WiFi-based Global Localization in Large-Scale Environments Leveraging Structural Priors from osmAG | Xu Ma, Jiajie Zhang, Fujing Xie, Sören Schwertfeger | [Abstract](https://arxiv.org/abs/2508.10144) · [PDF](https://arxiv.org/pdf/2508.10144) |
 | 2025-07-28 | Uni-Mapper: Unified Mapping Framework for Multi-modal LiDARs in Complex and Dynamic Environments | Gilhwan Kang, Hogyun Kim, Byunghee Choi, Seokhwan Jeong et al. | [Abstract](https://arxiv.org/abs/2507.20538) · [PDF](https://arxiv.org/pdf/2507.20538) |
 | 2025-07-24 | DSFormer: A Dual-Scale Cross-Learning Transformer for Visual Place Recognition | Haiyang Jiang, Songhao Piao, Chao Gao, Lei Yu et al. | [Abstract](https://arxiv.org/abs/2507.18444) · [PDF](https://arxiv.org/pdf/2507.18444) |
@@ -240,11 +243,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-09 | Collaborative Visual Place Recognition | Yiming Li, Zonglin Lyu, Mingxuan Lu, Chao Chen et al. | [Abstract](https://arxiv.org/abs/2310.05541) · [PDF](https://arxiv.org/pdf/2310.05541) |
 | 2023-09-27 | Multimodal Dataset for Localization, Mapping and Crop Monitoring in Citrus Tree Farms | Hanzhe Teng, Yipeng Wang, Xiaoao Song, Konstantinos Karydis | [Abstract](https://arxiv.org/abs/2309.15332) · [PDF](https://arxiv.org/pdf/2309.15332) |
 | 2023-09-26 | HeLiPR: Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition under Spatiotemporal Variations | Minwoo Jung, Wooseong Yang, Dongjae Lee, Hyeonjae Gil et al. | [Abstract](https://arxiv.org/abs/2309.14590) · [PDF](https://arxiv.org/pdf/2309.14590) |
-| 2023-09-19 | VPRTempo: A Fast Temporally Encoded Spiking Neural Network for Visual Place Recognition | Adam D. Hines, Peter G. Stratton, Michael Milford, Tobias Fischer | [Abstract](https://arxiv.org/abs/2309.10225) · [PDF](https://arxiv.org/pdf/2309.10225) |
-| 2023-09-18 | RaLF: Flow-based Global and Metric Radar Localization in LiDAR Maps | Abhijeet Nayak, Daniele Cattaneo, Abhinav Valada | [Abstract](https://arxiv.org/abs/2309.09875) · [PDF](https://arxiv.org/pdf/2309.09875) |
-| 2023-09-13 | RadarLCD: Learnable Radar-based Loop Closure Detection Pipeline | Mirko Usuelli, Matteo Frosi, Paolo Cudrano, Simone Mentasti et al. | [Abstract](https://arxiv.org/abs/2309.07094) · [PDF](https://arxiv.org/pdf/2309.07094) |
-| 2023-09-04 | ReLoc-PDR: Visual Relocalization Enhanced Pedestrian Dead Reckoning via Graph Optimization | Zongyang Chen, Xianfei Pan, Changhao Chen | [Abstract](https://arxiv.org/abs/2309.01646) · [PDF](https://arxiv.org/pdf/2309.01646) |
-| 2023-08-31 | Pose-Graph Attentional Graph Neural Network for Lidar Place Recognition | Milad Ramezani, Liang Wang, Joshua Knights, Zhibin Li et al. | [Abstract](https://arxiv.org/abs/2309.00168) · [PDF](https://arxiv.org/pdf/2309.00168) |
 
 ---
 

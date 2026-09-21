@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2024 | An Open-Source Soft Robotic Platform for Autonomous Aerial Manipulation in the Wild | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2409.07662) · [Publisher](https://doi.org/10.48550/arXiv.2409.07662) |
+| 2024 | An Open-Source Soft Robotic Platform for Autonomous Aerial Manipulation in the Wild | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2409.07662) · [Index](https://dblp.org/rec/conf/corl/BauerBSRCK24) |
 | 2024 | How to Prompt Your Robot: A PromptBook for Manipulation Skills with Code as Policies | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610784) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610784) |
 | 2024 | Revolutionizing Battery Disassembly: The Design and Implementation of a Battery Disassembly Autonomous Mobile Manipulator Robot(BEAM-1) | IROS · Assembly | [Paper](https://arxiv.org/abs/2407.06590) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802225) |
 | 2022 | Bayesian Imitation Learning for End-to-End Mobile Manipulation | ICML · Manipulation | [Paper](https://arxiv.org/abs/2202.07600) · [Index](https://dblp.org/rec/journals/corr/abs-2202-07600) |
@@ -28,6 +28,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-07 | M3-Tele: A Unified Multimodal Teleoperational Framework for Compliant Whole-Body Mobile Manipulation | Hengxiang Chen, Shenwen Deng, Yujian Ma, Gan Ma et al. | [Abstract](https://arxiv.org/abs/2609.07859) · [PDF](https://arxiv.org/pdf/2609.07859) |
 | 2026-08-02 | DreamTrajectory: Trajectory-Guided Action Generation with World Model Alignment for Mobile Manipulation | Zheng Yang, Wenjie Zhang, Xiangyu Chen, Wenxuan Song et al. | [Abstract](https://arxiv.org/abs/2608.01381) · [PDF](https://arxiv.org/pdf/2608.01381) |
 | 2026-06-24 | DynaMOMA: Instantaneous Prediction of Grasp Poses for Mobile Manipulation of Dynamic Objects | Zhinan Yu, Junyan Xu, Jiazhao Zhang, Zheng Qin et al. | [Abstract](https://arxiv.org/abs/2606.25295) · [PDF](https://arxiv.org/pdf/2606.25295) |
 | 2026-06-11 | WT-UMI: Tactile-based Whole-Body Manipulation via Force-Supervised Contact-Aware Planning | Jaehwi Jang, Zhaoyuan Gu, Alfred Cueva, Zimeng Chai et al. | [Abstract](https://arxiv.org/abs/2606.13232) · [PDF](https://arxiv.org/pdf/2606.13232) |
@@ -80,7 +81,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-30 | Active-Perceptive Motion Generation for Mobile Manipulation | Snehal Jauhri, Sophie Lueth, Georgia Chalvatzaki | [Abstract](https://arxiv.org/abs/2310.00433) · [PDF](https://arxiv.org/pdf/2310.00433) |
 | 2023-09-28 | Coupled Active Perception and Manipulation Planning for a Mobile Manipulator in Precision Agriculture Applications | Shuangyu Xie, Chengsong Hu, Di Wang, Joe Johnson et al. | [Abstract](https://arxiv.org/abs/2309.16778) · [PDF](https://arxiv.org/pdf/2309.16778) |
 | 2023-09-21 | ForceSight: Text-Guided Mobile Manipulation with Visual-Force Goals | Jeremy A. Collins, Cody Houff, You Liang Tan, Charles C. Kemp | [Abstract](https://arxiv.org/abs/2309.12312) · [PDF](https://arxiv.org/pdf/2309.12312) |
-| 2023-09-17 | Reactive Base Control for On-The-Move Mobile Manipulation in Dynamic Environments | Ben Burgess-Limerick, Jesse Haviland, Chris Lehnert, Peter Corke | [Abstract](https://arxiv.org/abs/2309.09393) · [PDF](https://arxiv.org/pdf/2309.09393) |
 
 ---
 

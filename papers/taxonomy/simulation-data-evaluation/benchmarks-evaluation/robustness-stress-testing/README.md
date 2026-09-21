@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2024 | THE COLOSSEUM: A Benchmark for Evaluating Generalization for Robotic Manipulation | RSS · Benchmark | [Paper](https://arxiv.org/abs/2402.08191) · [Publisher](https://doi.org/10.48550/arXiv.2402.08191) |
+| 2024 | THE COLOSSEUM: A Benchmark for Evaluating Generalization for Robotic Manipulation | RSS · Benchmark | [Paper](https://arxiv.org/abs/2402.08191) · [Index](https://dblp.org/rec/conf/rss/PumacaySDKTF24) |
 
 ## Recent arXiv papers (9)
 

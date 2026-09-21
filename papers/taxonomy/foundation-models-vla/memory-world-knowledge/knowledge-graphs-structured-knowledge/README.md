@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Memory%20%26%20World%20Knowledge&specialty=Knowledge%20Graphs%20%26%20Structured%20Knowledge#research-workbench)
 
-> 6 conference papers · 24 recent arXiv papers
+> 6 conference papers · 23 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,7 +25,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents | ICRA · Llm | [Paper](https://arxiv.org/abs/2309.09919) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611447) |
 | 2024 | Combining Ontological Knowledge and Large Language Model for User-Friendly Service Robots | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2410.16804) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802273) |
 
-## Recent arXiv papers (24)
+## Recent arXiv papers (23)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -52,7 +52,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-03-19 | LBAP: Improved Uncertainty Alignment of LLM Planners using Bayesian Inference | James F. Mullen, Dinesh Manocha | [Abstract](https://arxiv.org/abs/2403.13198) · [PDF](https://arxiv.org/pdf/2403.13198) |
 | 2023-11-07 | Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI | Song Yaoxian, Sun Penglei, Liu Haoyu, Li Zhixu et al. | [Abstract](https://arxiv.org/abs/2311.03783) · [PDF](https://arxiv.org/pdf/2311.03783) |
 | 2023-10-19 | Exploring Large Language Models as a Source of Common-Sense Knowledge for Robots | Felix Ocker, Jörg Deigmöller, Julian Eggert | [Abstract](https://arxiv.org/abs/2311.08412) · [PDF](https://arxiv.org/pdf/2311.08412) |
-| 2023-09-18 | Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents | Ziyi Yang, Shreyas S. Raman, Ankit Shah, Stefanie Tellex | [Abstract](https://arxiv.org/abs/2309.09919) · [PDF](https://arxiv.org/pdf/2309.09919) |
 
 ---
 

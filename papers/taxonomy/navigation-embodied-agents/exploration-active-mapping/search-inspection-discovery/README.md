@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Exploration%20%26%20Active%20Mapping&specialty=Search%2C%20Inspection%20%26%20Discovery#research-workbench)
 
-> 14 conference papers · 75 recent arXiv papers
+> 14 conference papers · 74 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,14 +29,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Indoor Exploration and Simultaneous Trolley Collection Through Task-Oriented Environment Partitioning | ICRA · Exploration | [Paper](https://arxiv.org/abs/2309.11107) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610500) |
 | 2024 | Privacy-Preserving Map-Free Exploration for Confirming the Absence of a Radioactive Source | IROS · Exploration | [Paper](https://arxiv.org/pdf/2402.17130) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802428) |
 | 2024 | Visuo-Tactile Exploration of Unknown Rigid 3D Curvatures by Vision-Augmented Unified Force-Impedance Control | IROS · Exploration | [Paper](https://arxiv.org/abs/2408.14219) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801386) |
-| 2024 | iHERO: Interactive Human-oriented Exploration and Supervision Under Scarce Communication | RSS · Exploration | [Paper](https://arxiv.org/abs/2405.12571) · [Publisher](https://doi.org/10.48550/arXiv.2405.12571) |
+| 2024 | iHERO: Interactive Human-oriented Exploration and Supervision Under Scarce Communication | RSS · Exploration | [Paper](https://arxiv.org/abs/2405.12571) · [Index](https://dblp.org/rec/journals/corr/abs-2405-12571) |
 | 2023 | Semantics-aware Exploration and Inspection Path Planning | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2303.07236) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160469) |
 | 2022 | Ω2: Optimal Hierarchical Planner for Object Search in Large Environments via Mobile Manipulation | IROS · Mobile Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981194) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981194) |
 
-## Recent arXiv papers (75)
+## Recent arXiv papers (74)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-16 | Pose-aware Legged Robot Semantic Exploration with Omnidirectional Perception in Confined Unknown Environments | Xiaoyang Zhan, Shiyu Chen, Kenji Shimada | [Abstract](https://arxiv.org/abs/2609.19460) · [PDF](https://arxiv.org/pdf/2609.19460) |
 | 2026-08-17 | Observation-Constrained Joint-Space Viewpoint Optimization for Robotic Inspection of Cylindrical Cavities | Yuezhong Wang, Rongshen Yin, Bichi Zhang, Sören Schwertfeger | [Abstract](https://arxiv.org/abs/2608.16442) · [PDF](https://arxiv.org/pdf/2608.16442) |
 | 2026-08-11 | PBD-AG: Persistent Baseline-Delta Active Graphs with Uncertainty-Aware Inspection for Long-Horizon Service Robots | Shuo Bao, Wei Dong, Shuyue Zhang, Ming Shang et al. | [Abstract](https://arxiv.org/abs/2608.10449) · [PDF](https://arxiv.org/pdf/2608.10449) |
 | 2026-06-22 | HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory | Xiaolin Zhou, Liu Liu, Tingyang Xiao, Wei Feng et al. | [Abstract](https://arxiv.org/abs/2606.23565) · [PDF](https://arxiv.org/pdf/2606.23565) |
@@ -49,7 +50,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-15 | Seeing Where to Deploy: Metric RGB-Based Traversability Analysis for Aerial-to-Ground Hidden Space Inspection | Seoyoung Lee, Shaekh Mohammad Shithil, Durgakant Pushp, Lantao Liu et al. | [Abstract](https://arxiv.org/abs/2603.14639) · [PDF](https://arxiv.org/pdf/2603.14639) |
 | 2026-03-15 | Architecting Autonomy for Safe Microgravity Free-Flyer Inspection | Keenan Albee, David C. Sternberg, Alexander Hansson, David Schwartz et al. | [Abstract](https://arxiv.org/abs/2603.14524) · [PDF](https://arxiv.org/pdf/2603.14524) |
 | 2026-03-10 | Caterpillar-Inspired Spring-Based Compressive Continuum Robot for Bristle-based Exploration | Zhixian Hu, Yu She, Juan Wachs | [Abstract](https://arxiv.org/abs/2603.09745) · [PDF](https://arxiv.org/pdf/2603.09745) |
-| 2026-03-04 | OmniPlanner: Universal Exploration and Inspection Path Planning across Robot Morphologies | Angelos Zacharia, Mihir Dharmadhikari, Mohit Singh, Kostas Alexis | [Abstract](https://arxiv.org/abs/2603.04284) · [PDF](https://arxiv.org/pdf/2603.04284) |
+| 2026-03-04 | OmniPlanner: Universal Exploration and Inspection Path Planning Across Robot Morphologies | Angelos Zacharia, Mihir Dharmadhikari, Mohit Singh, Kostas Alexis | [Abstract](https://arxiv.org/abs/2603.04284) · [PDF](https://arxiv.org/pdf/2603.04284) |
 | 2026-02-25 | Enhancing Cellular-enabled Collaborative Robots Planning through GNSS data for SAR Scenarios | Arnau Romero, Carmen Delgado, Jana Baguer, Raúl Suárez et al. | [Abstract](https://arxiv.org/abs/2602.21899) · [PDF](https://arxiv.org/pdf/2602.21899) |
 | 2026-02-22 | WildOS: Open-Vocabulary Object Search in the Wild | Hardik Shah, Erica Tevere, Deegan Atha, Marcel Kaufmann et al. | [Abstract](https://arxiv.org/abs/2602.19308) · [PDF](https://arxiv.org/pdf/2602.19308) |
 | 2026-02-12 | RF-Modulated Adaptive Communication Improves Multi-Agent Robotic Exploration | Lorin Achey, Breanne Crockett, Christoffer Heckman, Bradley Hayes | [Abstract](https://arxiv.org/abs/2602.12074) · [PDF](https://arxiv.org/pdf/2602.12074) |
@@ -110,8 +111,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-01-23 | Sensing environmental physical interaction to traverse cluttered obstacles | Yaqing Wang, Ling Xu, Chen Li | [Abstract](https://arxiv.org/abs/2401.13062) · [PDF](https://arxiv.org/pdf/2401.13062) |
 | 2023-11-07 | Autonomous Exploration and General Visual Inspection of Ship Ballast Water Tanks using Aerial Robots | Mihir Dharmadhikari, Paolo De Petris, Mihir Kulkarni, Nikhil Khedekar et al. | [Abstract](https://arxiv.org/abs/2311.03838) · [PDF](https://arxiv.org/pdf/2311.03838) |
 | 2023-10-14 | Energy-Aware Ergodic Search: Continuous Exploration for Multi-Agent Systems with Battery Constraints | Adam Seewald, Cameron J. Lerch, Marvin Chancán, Aaron M. Dollar et al. | [Abstract](https://arxiv.org/abs/2310.09470) · [PDF](https://arxiv.org/pdf/2310.09470) |
-| 2023-09-20 | Indoor Exploration and Simultaneous Trolley Collection Through Task-Oriented Environment Partitioning | Junjie Gao, Peijia Xie, Xuheng Gao, Zhirui Sun et al. | [Abstract](https://arxiv.org/abs/2309.11107) · [PDF](https://arxiv.org/pdf/2309.11107) |
-| 2023-09-12 | Inspection planning under execution uncertainty | Shmuel David Alpert, Kiril Solovey, Itzik Klein, Oren Salzman | [Abstract](https://arxiv.org/abs/2309.06113) · [PDF](https://arxiv.org/pdf/2309.06113) |
 
 ---
 

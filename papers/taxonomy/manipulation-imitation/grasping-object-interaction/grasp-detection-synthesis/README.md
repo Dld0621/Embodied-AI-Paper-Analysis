@@ -43,16 +43,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping | IROS · Grasp | [Paper](https://arxiv.org/abs/2505.24305) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247370) |
 | 2024 | Generalizing 6-DoF Grasp Detection via Domain Prior Knowledge | CVPR · Grasp | [Paper](https://arxiv.org/pdf/2404.01727) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01714) |
 | 2024 | Language-driven Grasp Detection | CVPR · Grasp | [Paper](https://arxiv.org/pdf/2406.09489) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01695) |
-| 2024 | OrbitGrasp: SE(3)-Equivariant Grasp Learning | CoRL · Grasp | [Paper](https://arxiv.org/abs/2407.03531) · [Publisher](https://doi.org/10.48550/arXiv.2407.03531) |
+| 2024 | OrbitGrasp: SE(3)-Equivariant Grasp Learning | CoRL · Grasp | [Paper](https://arxiv.org/abs/2407.03531) · [Index](https://dblp.org/rec/conf/corl/HuZ0DHW0024) |
 | 2024 | Region-aware Grasp Framework with Normalized Grasp Space for Efficient 6-DoF Grasping | CoRL · Grasp | [Paper](https://arxiv.org/abs/2406.01767) · [Index](https://dblp.org/rec/conf/corl/ChenXTHDW24) |
-| 2024 | An Economic Framework for 6-DoF Grasp Detection | ECCV · Grasp | [Paper](https://arxiv.org/abs/2407.08366) · [Publisher](https://doi.org/10.48550/arXiv.2407.08366) |
-| 2024 | Decomposed Vector-Quantized Variational Autoencoder for Human Grasp Generation | ECCV · Grasp | [Paper](https://arxiv.org/abs/2407.14062) · [Publisher](https://doi.org/10.48550/arXiv.2407.14062) |
-| 2024 | Language-Driven 6-DoF Grasp Detection Using Negative Prompt Guidance | ECCV · Grasp | [Paper](https://arxiv.org/abs/2407.13842) · [Publisher](https://doi.org/10.48550/arXiv.2407.13842) |
+| 2024 | An Economic Framework for 6-DoF Grasp Detection | ECCV · Grasp | [Paper](https://arxiv.org/abs/2407.08366) · [Index](https://dblp.org/rec/journals/corr/abs-2407-08366) |
+| 2024 | Decomposed Vector-Quantized Variational Autoencoder for Human Grasp Generation | ECCV · Grasp | [Paper](https://arxiv.org/abs/2407.14062) · [Index](https://dblp.org/rec/journals/corr/abs-2407-14062) |
+| 2024 | Language-Driven 6-DoF Grasp Detection Using Negative Prompt Guidance | ECCV · Grasp | [Paper](https://arxiv.org/abs/2407.13842) · [Index](https://dblp.org/rec/conf/eccv/NguyenVHVVLVN24) |
 | 2024 | 6-DoF Grasp Pose Evaluation and Optimization via Transfer Learning from NeRFs | ICRA · Grasp | [Paper](https://arxiv.org/abs/2401.07935) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610402) |
 | 2024 | ASGrasp: Generalizable Transparent Object Reconstruction and 6-DoF Grasp Detection from RGB-D Active Stereo Camera | ICRA · Grasp | [Paper](https://arxiv.org/abs/2405.05648) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611152) |
 | 2024 | GAMMA: Generalizable Articulation Modeling and Manipulation for Articulated Objects | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610652) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610652) |
 | 2024 | ICGNet: A Unified Approach for Instance-Centric Grasping | ICRA · Grasp | [Paper](https://arxiv.org/abs/2401.09939) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611725) |
-| 2024 | Learning Extrinsic Dexterity with Parameterized Manipulation Primitives | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2310.17785) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611431) |
+| 2024 | Learning Extrinsic Dexterity with Parameterized Manipulation Primitives | ICRA · Manipulation | [Paper](https://oru.diva-portal.org/smash/get/diva2:1922301/FULLTEXT02) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611431) |
 | 2024 | Robotic Grasping of Harvested Tomato Trusses Using Vision and Online Learning | ICRA · Grasp | [Paper](https://arxiv.org/abs/2309.17170) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610089) |
 | 2024 | Towards Feasible Dynamic Grasping: Leveraging Gaussian Process Distance Field, SE(3) Equivariance, and Riemannian Mixture Models | ICRA · Grasp | [Paper](https://arxiv.org/abs/2311.02576) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611601) |
 | 2024 | You Only Scan Once: A Dynamic Scene Reconstruction Pipeline for 6-DoF Robotic Grasping of Novel Objects | ICRA · Grasp | [Paper](https://arxiv.org/abs/2404.03462) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611371) |
@@ -66,9 +66,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Lightweight Language-driven Grasp Detection using Conditional Consistency Model | IROS · Grasp | [Paper](https://arxiv.org/abs/2407.17967) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802007) |
 | 2024 | RelationGrasp: Object-Oriented Prompt Learning for Simultaneously Grasp Detection and Manipulation Relationship in Open Vocabulary | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802508) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802508) |
 | 2024 | Active Perception for Grasp Detection via Neural Graspness Field | NeurIPS · Grasp | [Paper](https://doi.org/10.52202/079017-1205) · [Publisher](https://doi.org/10.52202/079017-1205) |
-| 2024 | Learning Any-View 6DoF Robotic Grasping in Cluttered Scenes via Neural Surface Rendering | RSS · Grasp | [Paper](https://arxiv.org/abs/2306.07392) · [Publisher](https://doi.org/10.48550/arXiv.2306.07392) |
+| 2024 | Learning Any-View 6DoF Robotic Grasping in Cluttered Scenes via Neural Surface Rendering | RSS · Grasp | [Paper](https://arxiv.org/abs/2306.07392) · [Index](https://dblp.org/rec/conf/rss/JauhriLC24) |
 | 2023 | Target-referenced Reactive Grasping for Dynamic Objects | CVPR · Grasp | [Paper](https://doi.org/10.1109/CVPR52729.2023.00852) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.00852) |
-| 2023 | Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter | CoRL · Grasp | [Paper](https://arxiv.org/abs/2311.05779) · [Publisher](https://doi.org/10.48550/arXiv.2311.05779) |
+| 2023 | Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter | CoRL · Grasp | [Paper](https://arxiv.org/abs/2311.05779) · [Index](https://dblp.org/rec/conf/corl/TziafasXGK0023) |
 | 2023 | CoGrasp: 6-DoF Grasp Generation for Human-Robot Collaboration | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2210.03173) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160623) |
 | 2023 | GraspAda: Deep Grasp Adaptation through Domain Transfer | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160213) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160213) |
 | 2023 | GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF | ICRA · Grasp | [Paper](https://arxiv.org/abs/2210.06575) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160842) |
@@ -84,12 +84,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | KGNv2: Separating Scale and Pose Prediction for Keypoint-Based 6-DoF Grasp Synthesis on RGB-D Input | IROS · Grasp | [Paper](https://arxiv.org/abs/2303.05617) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342514) |
 | 2023 | Refining 6-DoF Grasps with Context-Specific Classifiers | IROS · Grasp | [Paper](https://arxiv.org/pdf/2308.06928) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341671) |
 | 2023 | VL-Grasp: a 6-Dof Interactive Grasp Policy for Language-Oriented Objects in Cluttered Indoor Scenes | IROS · Grasp | [Paper](https://arxiv.org/abs/2308.00640) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341379) |
-| 2022 | Grasp'D: Differentiable Contact-rich Grasp Synthesis for Multi-fingered Hands | ECCV · Grasp | [Paper](https://arxiv.org/abs/2208.12250) · [Publisher](https://doi.org/10.48550/arXiv.2208.12250) |
-| 2022 | TransGrasp: Grasp Pose Estimation of a Category of Objects by Transferring Grasps from Only One Labeled Instance | ECCV · Grasp | [Paper](https://arxiv.org/abs/2207.07861) · [Publisher](https://doi.org/10.48550/arXiv.2207.07861) |
+| 2022 | Grasp'D: Differentiable Contact-rich Grasp Synthesis for Multi-fingered Hands | ECCV · Grasp | [Paper](https://arxiv.org/abs/2208.12250) · [Index](https://dblp.org/rec/journals/corr/abs-2208-12250) |
+| 2022 | TransGrasp: Grasp Pose Estimation of a Category of Objects by Transferring Grasps from Only One Labeled Instance | ECCV · Grasp | [Paper](https://arxiv.org/abs/2207.07861) · [Index](https://dblp.org/rec/journals/corr/abs-2207-07861) |
 | 2022 | Grasp Pose Selection Under Region Constraints for Dirty Dish Grasps Based on Inference of Grasp Success Probability through Self-Supervised Learning | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra46639.2022.9812084) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812084) |
-| 2022 | Hybrid Physical Metric For 6-DoF Grasp Pose Detection | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2206.11141) · [Publisher](https://doi.org/10.48550/arXiv.2206.11141) |
-| 2022 | I Know What You Draw: Learning Grasp Detection Conditioned on a Few Freehand Sketches | ICRA · Grasp | [Paper](https://arxiv.org/abs/2205.04026) · [Publisher](https://doi.org/10.48550/arXiv.2205.04026) |
-| 2022 | Learning Object Relations with Graph Neural Networks for Target-Driven Grasping in Dense Clutter | ICRA · Grasp | [Paper](https://arxiv.org/abs/2203.00875) · [Publisher](https://doi.org/10.48550/arXiv.2203.00875) |
+| 2022 | Hybrid Physical Metric For 6-DoF Grasp Pose Detection | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2206.11141) · [Index](https://dblp.org/rec/journals/corr/abs-2206-11141) |
+| 2022 | I Know What You Draw: Learning Grasp Detection Conditioned on a Few Freehand Sketches | ICRA · Grasp | [Paper](https://arxiv.org/abs/2205.04026) · [Index](https://dblp.org/rec/journals/corr/abs-2205-04026) |
+| 2022 | Learning Object Relations with Graph Neural Networks for Target-Driven Grasping in Dense Clutter | ICRA · Grasp | [Paper](https://arxiv.org/abs/2203.00875) · [Index](https://dblp.org/rec/conf/icra/Lou0C22) |
 | 2022 | TransGrasp: A Multi-Scale Hierarchical Point Transformer for 7-DoF Grasp Detection | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra46639.2022.9812001) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812001) |
 | 2022 | Uncertainty-based Exploring Strategy in Densely Cluttered Scenes for Vacuum Cup Grasping | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra46639.2022.9811599) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811599) |
 | 2022 | Contact-implicit Trajectory and Grasp Planning for Soft Continuum Manipulators | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9981044) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981044) |
@@ -102,6 +102,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-16 | OpenDexGrasp: Open-vocabulary Task-Oriented Dexterous Grasping | Jiyao Zhang, Junhan Wang, Tianyu Wang, Zeyuan Chen et al. | [Abstract](https://arxiv.org/abs/2609.18117) · [PDF](https://arxiv.org/pdf/2609.18117) |
+| 2026-09-16 | InterMASH: A Unified Geometric Representation for Grasp Synthesis | Xuanze Yang, Yumeng Liu, Haiyang Xin, Changhao Li et al. | [Abstract](https://arxiv.org/abs/2609.18504) · [PDF](https://arxiv.org/pdf/2609.18504) |
+| 2026-09-03 | Adaptive Vision-Language Grasping via Composable Foundation Priors and Generalizable Grasp Synthesis | Sixu Yan, Shikang Wang, Binhua Huang, Xuanlai Tang et al. | [Abstract](https://arxiv.org/abs/2609.04096) · [PDF](https://arxiv.org/pdf/2609.04096) |
 | 2026-08-26 | Fast Generative Grasping via Lie Group-Constrained MeanFlow | S. Talha Bukhari, Yi Wei, Ruiqi Ni, Zachary Kingston et al. | [Abstract](https://arxiv.org/abs/2608.26076) · [PDF](https://arxiv.org/pdf/2608.26076) |
 | 2026-08-20 | CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical Workspace Learning | Julien Merand, Boris Meden, Liming Chen, Mathieu Grossard | [Abstract](https://arxiv.org/abs/2608.19776) · [PDF](https://arxiv.org/pdf/2608.19776) |
 | 2026-08-19 | PartialBiGrasp: Inferring Hidden Local Geometry for Bimanual Grasping from Partial Views | Ayush Kaura, Vignesh Vembar, Md Faizal Karim, Keshab Patra et al. | [Abstract](https://arxiv.org/abs/2608.19188) · [PDF](https://arxiv.org/pdf/2608.19188) |
@@ -268,9 +271,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-29 | Robotic Grasping of Harvested Tomato Trusses Using Vision and Online Learning | Luuk van den Bent, Tomás Coleman, Robert Babuška | [Abstract](https://arxiv.org/abs/2309.17170) · [PDF](https://arxiv.org/pdf/2309.17170) |
 | 2023-09-28 | Implicit Articulated Robot Morphology Modeling with Configuration Space Neural Signed Distance Functions | Yiting Chen, Xiao Gao, Kunpeng Yao, Loïc Niederhauser et al. | [Abstract](https://arxiv.org/abs/2309.16085) · [PDF](https://arxiv.org/pdf/2309.16085) |
 | 2023-09-28 | GAMMA: Generalizable Articulation Modeling and Manipulation for Articulated Objects | Qiaojun Yu, Junbo Wang, Wenhai Liu, Ce Hao et al. | [Abstract](https://arxiv.org/abs/2309.16264) · [PDF](https://arxiv.org/pdf/2309.16264) |
-| 2023-09-20 | Task-Oriented Grasping with Point Cloud Representation of Objects | Aditya Patankar, Khiem Phi, Dasharadhan Mahalingam, Nilanjan Chakraborty et al. | [Abstract](https://arxiv.org/abs/2309.11689) · [PDF](https://arxiv.org/pdf/2309.11689) |
-| 2023-09-14 | Gradient based Grasp Pose Optimization on a NeRF that Approximates Grasp Success | Gergely Sóti, Björn Hein, Christian Wurll | [Abstract](https://arxiv.org/abs/2309.08040) · [PDF](https://arxiv.org/pdf/2309.08040) |
-| 2023-09-03 | Integration of Vision-based Object Detection and Grasping for Articulated Manipulator in Lunar Conditions | Camille Boucher, Gustavo H. Diaz, Shreya Santra, Kentaro Uno et al. | [Abstract](https://arxiv.org/abs/2309.01055) · [PDF](https://arxiv.org/pdf/2309.01055) |
 
 ---
 

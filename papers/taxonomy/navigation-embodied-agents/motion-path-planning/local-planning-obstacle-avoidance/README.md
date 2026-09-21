@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Motion%20%26%20Path%20Planning&specialty=Local%20Planning%20%26%20Obstacle%20Avoidance#research-workbench)
 
-> 41 conference papers · 369 recent arXiv papers
+> 41 conference papers · 371 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -19,7 +19,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | Differentiable Composite Neural Signed Distance Fields for Robot Navigation in Dynamic Indoor Environments | ICRA · Navigation | [Paper](https://arxiv.org/abs/2502.02664) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128172) |
-| 2025 | Key-Scan-Based Mobile Robot Navigation: Integrated Mapping, Planning, and Control Using Graphs of Scan Regions | ICRA · Navigation | [Paper](https://pure.tue.nl/ws/files/374212621/Key-Scan-Based_Mobile_Robot_Navigation_Integrated_Mapping_Planning_and_Control_Using_Graphs_of_Scan_Regions.pdf) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128158) |
+| 2025 | Key-Scan-Based Mobile Robot Navigation: Integrated Mapping, Planning, and Control Using Graphs of Scan Regions | ICRA · Navigation | [Paper](https://research.tue.nl/en/publications/16bca8a8-25a9-4967-91bb-69d49f844313) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128158) |
 | 2025 | Learning Wheelchair Tennis Navigation from Broadcast Videos with Domain Knowledge Transfer and Diffusion Motion Planning | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.19771) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127909) |
 | 2025 | Optimizing Underwater Robot Navigation: A Study of DRL Algorithms and Multi-Modal Sensor Fusion | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127836) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127836) |
 | 2025 | Reactive Collision Avoidance for Safe Agile Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.11962) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127284) |
@@ -60,10 +60,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | CoMBiNED: Multi-Constrained Model Based Planning for Navigation in Dynamic Environments | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981479) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981479) |
 | 2022 | Reactive Neural Path Planning with Dynamic Obstacle Avoidance in a Condensed Configuration Space | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2207.03959) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981453) |
 
-## Recent arXiv papers (369)
+## Recent arXiv papers (371)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-18 | PopNavShift: Stress-Testing Social Navigation under Behavioral Population Shift | Kaizhen Tan, Diyu Zheng, Tim Guangyu Wu, ChengHe Guan | [Abstract](https://arxiv.org/abs/2609.21838) · [PDF](https://arxiv.org/pdf/2609.21838) |
+| 2026-09-17 | Time-Efficient Iterative Learning Planning for Safety-Critical Dynamic Obstacle Avoidance | Zhiyi Chen, Shuli Lv, Chen Min, Yong Xu et al. | [Abstract](https://arxiv.org/abs/2609.20435) · [PDF](https://arxiv.org/pdf/2609.20435) |
+| 2026-09-16 | SemSafe-3DGS: Semantic Risk-Aware Active Navigation in Uncertain 3D Gaussian Splatting Maps | Amirhossein Mollaei Khass, Athanasios Cosse, Nader Motee | [Abstract](https://arxiv.org/abs/2609.19330) · [PDF](https://arxiv.org/pdf/2609.19330) |
+| 2026-09-13 | Learning-Based Dynamic Obstacle Avoidance for a UAV Using Only Three Range Sensors | Mohammad Reza Ranjbar Divkoti, A. Pedro Aguiar | [Abstract](https://arxiv.org/abs/2609.14426) · [PDF](https://arxiv.org/pdf/2609.14426) |
+| 2026-09-11 | Distributed Stochastic Optimal Control for Pattern-Oriented Swarms | Qingrui Zhang, Chenghao Yu, Feng Xue, Xintong Wang | [Abstract](https://arxiv.org/abs/2609.12959) · [PDF](https://arxiv.org/pdf/2609.12959) |
+| 2026-09-09 | PccDiffuser: Multi-solution Motion Planning for Continuum Robots | Ke Qiu, Sifan Chen, Si Wang, Rong Xiong et al. | [Abstract](https://arxiv.org/abs/2609.09745) · [PDF](https://arxiv.org/pdf/2609.09745) |
+| 2026-09-08 | DCLP++: Learning to Navigate with Footprint Clearance and Relative Motion | Shanze Wang, Wei Zhang | [Abstract](https://arxiv.org/abs/2609.08711) · [PDF](https://arxiv.org/pdf/2609.08711) |
+| 2026-09-07 | Human-Aware Target Tracking and Navigation: Fusing Kinematic State Estimation with Structural Map Constraints | Sagar Gupta, Don Gideon, Seng W. Loke, Kevin Lee et al. | [Abstract](https://arxiv.org/abs/2609.07091) · [PDF](https://arxiv.org/pdf/2609.07091) |
+| 2026-09-02 | DiffuSearch: How Hybrid Trajectory Planning Benefits from Aligned Objectives in Diffusion and Action Space | Steffen Hagedorn, Aron Distelzweig, Alexandru P. Condurache | [Abstract](https://arxiv.org/abs/2609.02252) · [PDF](https://arxiv.org/pdf/2609.02252) |
 | 2026-08-26 | EgoNav: Bridging Learned Waypoints and Geometry-Aware Local Control for Robust Indoor Navigation | Jing Wang, Shiqi Zhao, Hairong Qu, Peng Yin | [Abstract](https://arxiv.org/abs/2608.25642) · [PDF](https://arxiv.org/pdf/2608.25642) |
 | 2026-08-26 | Anytime Global Tensor Motion Planning | Sai Coumar, An T. Le, Zachary Kingston | [Abstract](https://arxiv.org/abs/2608.25830) · [PDF](https://arxiv.org/pdf/2608.25830) |
 | 2026-08-25 | Trusted Polytopic Action Sets for Fast Planning in Underactuated Systems | Akshay Jaitly, Siavash Farzan | [Abstract](https://arxiv.org/abs/2608.24019) · [PDF](https://arxiv.org/pdf/2608.24019) |
@@ -105,7 +114,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-08 | Motion planning for hundreds of floating robots | Jan Kamm, Antonio Terpin, Raffaello D'Andrea, Aswin Ramachandran | [Abstract](https://arxiv.org/abs/2606.09620) · [PDF](https://arxiv.org/pdf/2606.09620) |
 | 2026-06-02 | RSC: Decentralized Rigid Formation Flocking for Large-Scale Swarms via Hybrid Predictive Control and Online Reconfiguration | Ganyu Zou, Linhan Wang, Chen Dai, Siji Chen et al. | [Abstract](https://arxiv.org/abs/2606.04248) · [PDF](https://arxiv.org/pdf/2606.04248) |
 | 2026-06-02 | Neural Navigation Functions for Zero-Shot Generalizable Motion Planning | Benjamin D. Shaffer, Pei-An Hsieh, Brooks Kinch, Nathaniel Trask et al. | [Abstract](https://arxiv.org/abs/2606.03756) · [PDF](https://arxiv.org/pdf/2606.03756) |
-| 2026-06-02 | AgenticRL: Self-Refining Agentic Reinforcement Learning for Vision-Conditioned UAV Navigation | Roohan Ahmed Khan, Yasheerah Yaqoot, Amir Atef Habel, Muhammad Ahsan Mustafa et al. | [Abstract](https://arxiv.org/abs/2606.03963) · [PDF](https://arxiv.org/pdf/2606.03963) |
 | 2026-05-31 | OSCAR: Obstacle Survival Curves for Adaptive Robot Navigation | Hshmat Sahak, Aoran Jiao, Nicholas Rhinehart, Tim Barfoot | [Abstract](https://arxiv.org/abs/2606.00990) · [PDF](https://arxiv.org/pdf/2606.00990) |
 | 2026-05-29 | Trajectory Planning for Non-Communicating Mobile Robots using Inverse Optimal Control | Nina Majer, Yannick Epple, Xin Ye, Stefan Schwab et al. | [Abstract](https://arxiv.org/abs/2605.30906) · [PDF](https://arxiv.org/pdf/2605.30906) |
 | 2026-05-29 | Geometry-Aware Control Barrier Functions for Collision Avoidance via Bernstein Polynomial Approximations | Siwon Jo, Yanze Zhang, Yupeng Yang, Wenhao Luo | [Abstract](https://arxiv.org/abs/2605.30696) · [PDF](https://arxiv.org/pdf/2605.30696) |
@@ -115,7 +123,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-05-18 | REACT: Environment-Adaptive Architecture for Continuous Formation Navigation of Wheeled Mobile Robots | Jianghong Dong, Yifeng Zhang, Jiawei Wang, Mengchi Cai et al. | [Abstract](https://arxiv.org/abs/2605.18441) · [PDF](https://arxiv.org/pdf/2605.18441) |
 | 2026-05-15 | Reactive Robot-Centric Safety for Autonomous Navigation in Constrained and Dynamic Environments | Viswa Narayanan Sankaranarayanan, Vignesh K. Viswanathan, Akshit Saradagi, Sumeet Satpute et al. | [Abstract](https://arxiv.org/abs/2605.15782) · [PDF](https://arxiv.org/pdf/2605.15782) |
 | 2026-05-14 | Reactive Planning based Control for Mobile Robots in Obstacle-Cluttered Environments | Li Tan, Junlin Xiong, Yan Wang, Wei Ren | [Abstract](https://arxiv.org/abs/2605.14232) · [PDF](https://arxiv.org/pdf/2605.14232) |
-| 2026-05-14 | CaMeRL: Collision-Aware and Memory-Enhanced Reinforcement Learning for UAV Navigation in Multi-Scale Obstacle Environments | Hong Hong, Feiyu Liao, Yongheng Liang, Boning Zhang et al. | [Abstract](https://arxiv.org/abs/2605.14810) · [PDF](https://arxiv.org/pdf/2605.14810) |
+| 2026-05-14 | CMRL: Collision-Aware and Memory-Enhanced Reinforcement Learning for UAV Navigation in Multi-Scale Obstacle Environments | Hong Hong, Feiyu Liao, Yongheng Liang, Boning Zhang et al. | [Abstract](https://arxiv.org/abs/2605.14810) · [PDF](https://arxiv.org/pdf/2605.14810) |
 | 2026-05-13 | TinySDP: Real Time Semidefinite Optimization for Certifiable and Agile Edge Robotics | Ishaan Mahajan, Jon Arrizabalaga, Andrea Grillo, Fausto Vega et al. | [Abstract](https://arxiv.org/abs/2605.13748) · [PDF](https://arxiv.org/pdf/2605.13748) |
 | 2026-05-13 | Motion Planning for Autonomous Vehicles using Optimization over Graphs of Convex Sets | Matheus Wagner, Antônio Augusto Fröhlich | [Abstract](https://arxiv.org/abs/2605.14199) · [PDF](https://arxiv.org/pdf/2605.14199) |
 | 2026-05-12 | 3D RL-DWA: A Hybrid Reinforcement Learning and Dynamic Window Approach for Goal-Directed Local Navigation in Multi-DoF Robots | Chiara Castellani, Enrico Turco, Domenico Prattichizzo | [Abstract](https://arxiv.org/abs/2605.12689) · [PDF](https://arxiv.org/pdf/2605.12689) |
@@ -427,12 +435,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-22 | Robust Perception-Based Navigation using PAC-NMPC with a Learned Value Function | Adam Polevoy, Mark Gonzales, Marin Kobilarov, Joseph Moore | [Abstract](https://arxiv.org/abs/2309.13171) · [PDF](https://arxiv.org/pdf/2309.13171) |
 | 2023-09-22 | A Study on Learning Social Robot Navigation with Multimodal Perception | Bhabaranjan Panigrahi, Amir Hossain Raj, Mohammad Nazeri, Xuesu Xiao | [Abstract](https://arxiv.org/abs/2309.12568) · [PDF](https://arxiv.org/pdf/2309.12568) |
 | 2023-09-21 | Planning Optimal Trajectories for Mobile Manipulators under End-effector Trajectory Continuity Constraint | Quang-Nam Nguyen, Quang-Cuong Pham | [Abstract](https://arxiv.org/abs/2309.12251) · [PDF](https://arxiv.org/pdf/2309.12251) |
-| 2023-09-17 | Visual Forecasting as a Mid-level Representation for Avoidance | Hsuan-Kung Yang, Tsung-Chih Chiang, Ting-Ru Liu, Chun-Wei Huang et al. | [Abstract](https://arxiv.org/abs/2310.07724) · [PDF](https://arxiv.org/pdf/2310.07724) |
-| 2023-09-17 | Off the Beaten Track: Laterally Weighted Motion Planning for Local Obstacle Avoidance | Jordy Sehn, Timothy D. Barfoot, Jack Collier | [Abstract](https://arxiv.org/abs/2309.09334) · [PDF](https://arxiv.org/pdf/2309.09334) |
-| 2023-09-15 | Quadcopter Trajectory Time Minimization and Robust Collision Avoidance via Optimal Time Allocation | Zhefan Xu, Kenji Shimada | [Abstract](https://arxiv.org/abs/2309.08544) · [PDF](https://arxiv.org/pdf/2309.08544) |
-| 2023-09-14 | Fast Safe Rectangular Corridor-based Online AGV Trajectory Optimization with Obstacle Avoidance | Shaoqiang Liang, Songyuan Fa, Yiqun Li | [Abstract](https://arxiv.org/abs/2309.07979) · [PDF](https://arxiv.org/pdf/2309.07979) |
-| 2023-09-02 | Remote ID for separation provision and multi-agent navigation | Evgenii Vinogradov, A. V. S. Sai Bhargav Kumar, Franco Minucci, Sofie Pollin et al. | [Abstract](https://arxiv.org/abs/2309.00843) · [PDF](https://arxiv.org/pdf/2309.00843) |
-| 2023-09-02 | A Unifying Variational Framework for Gaussian Process Motion Planning | Lucas Cosier, Rares Iordan, Sicelukwanda Zwane, Giovanni Franzese et al. | [Abstract](https://arxiv.org/abs/2309.00854) · [PDF](https://arxiv.org/pdf/2309.00854) |
 
 ---
 

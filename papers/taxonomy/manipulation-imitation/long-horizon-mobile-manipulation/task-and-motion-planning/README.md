@@ -18,10 +18,10 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2410.00371) · [Publisher](https://doi.org/10.48550/arXiv.2410.00371) |
+| 2025 | AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2410.00371) · [Index](https://dblp.org/rec/conf/iclr/DuanPKWTYKFMG25) |
 | 2024 | Extending Task and Motion Planning with Feasibility Prediction: Towards Multi-Robot Manipulation Planning of Realistic Objects | IROS · Manipulation | [Paper](https://laas.hal.science/hal-04284213v1/document) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802307) |
-| 2023 | Human-in-the-Loop Task and Motion Planning for Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2310.16014) · [Publisher](https://doi.org/10.48550/arXiv.2310.16014) |
-| 2023 | Imitating Task and Motion Planning with Visuomotor Transformers | CoRL · Visuomotor | [Paper](https://arxiv.org/pdf/2305.16309) · [Publisher](https://doi.org/10.48550/arXiv.2305.16309) |
+| 2023 | Human-in-the-Loop Task and Motion Planning for Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2310.16014) · [Index](https://dblp.org/rec/journals/corr/abs-2310-16014) |
+| 2023 | Imitating Task and Motion Planning with Visuomotor Transformers | CoRL · Visuomotor | [Paper](https://arxiv.org/pdf/2305.16309) · [Index](https://dblp.org/rec/journals/corr/abs-2305-16309) |
 | 2023 | Optimal Grasps and Placements for Task and Motion Planning in Clutter | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161455) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161455) |
 | 2023 | Simultaneous Action and Grasp Feasibility Prediction for Task and Motion Planning Through Multi-Task Learning | IROS · Grasp | [Paper](https://laas.hal.science/hal-04016581v1/file/IROS2023sub_AGFP-NET.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341257) |
 | 2023 | Spatial Reasoning via Deep Vision Models for Robotic Sequential Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2306.17053) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342010) |

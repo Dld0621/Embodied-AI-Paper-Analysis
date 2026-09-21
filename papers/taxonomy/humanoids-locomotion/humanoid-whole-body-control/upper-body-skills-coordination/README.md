@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Humanoid%20Whole-body%20Control&specialty=Upper-body%20Skills%20%26%20Coordination#research-workbench)
 
-> 3 conference papers · 30 recent arXiv papers
+> 3 conference papers · 31 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -22,10 +22,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Proprioceptive External Torque Learning for Floating Base Robot and its Applications to Humanoid Locomotion | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2309.04138) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342530) |
 | 2022 | Introducing RH5 Manus: A Powerful Humanoid Upper Body Design for Dynamic Movements | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra46639.2022.9811843) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811843) |
 
-## Recent arXiv papers (30)
+## Recent arXiv papers (31)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-17 | Diverse and Adaptable Arm Coordination for Octopus-Crawling via Diffusion-Based Uncertainty-Aware Optimization | Seung Hyun Kim, Heng-Sheng Chang, Kimia Kazemi, Prashant Mehta et al. | [Abstract](https://arxiv.org/abs/2609.21138) · [PDF](https://arxiv.org/pdf/2609.21138) |
+| 2026-09-07 | CALM: Configuration-Aware Human Intervention Boundaries During Robot Approach | Xinting Gao, Sipu Zhu, Weimin Zhuang | [Abstract](https://arxiv.org/abs/2609.07430) · [PDF](https://arxiv.org/pdf/2609.07430) |
 | 2026-07-31 | Developing Combined Manipulation and Locomotion Skills with Interaction Representation and Skill Composition | Fanxing Meng, Jing Xiao | [Abstract](https://arxiv.org/abs/2608.00208) · [PDF](https://arxiv.org/pdf/2608.00208) |
 | 2026-06-30 | Human-as-Humanoid: Enabling Zero-Shot Humanoid Learning from Ego-Exo Human Videos with Human-Aligned Embodiments | Xiaopeng Lin, Ruoqi Yang, Shijie Lian, Zhaolong Shen et al. | [Abstract](https://arxiv.org/abs/2606.32009) · [PDF](https://arxiv.org/pdf/2606.32009) |
 | 2026-06-24 | Learning Asynchronous Upper-body Task-space Trajectory Tracking Policy for Humanoid Robots | Yumeng Liu, Dongqi Wang, Jiyu Yu, Yijun Fan et al. | [Abstract](https://arxiv.org/abs/2606.25706) · [PDF](https://arxiv.org/pdf/2606.25706) |
@@ -55,7 +57,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-04 | Torso-Based Control Interface for Standing Mobility-Assistive Devices | Yang Chen, Diego Paez-Granados, Modar Hassan, Kenji Suzuki | [Abstract](https://arxiv.org/abs/2312.01543) · [PDF](https://arxiv.org/pdf/2312.01543) |
 | 2023-11-14 | Self-Contained Calibration of an Elastic Humanoid Upper Body Using Only a Head-Mounted RGB Camera | Johannes Tenhumberg, Dominik Winkelbauer, Darius Burschka, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2311.08338) · [PDF](https://arxiv.org/pdf/2311.08338) |
 | 2023-11-14 | Calibration of an Elastic Humanoid Upper Body and Efficient Compensation for Motion Planning | Johannes Tenhumberg, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2311.08333) · [PDF](https://arxiv.org/pdf/2311.08333) |
-| 2023-09-08 | Proprioceptive External Torque Learning for Floating Base Robot and its Applications to Humanoid Locomotion | Daegyu Lim, Myeong-Ju Kim, Junhyeok Cha, Donghyeon Kim et al. | [Abstract](https://arxiv.org/abs/2309.04138) · [PDF](https://arxiv.org/pdf/2309.04138) |
 
 ---
 

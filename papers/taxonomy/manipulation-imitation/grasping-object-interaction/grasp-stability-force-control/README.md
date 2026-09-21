@@ -24,18 +24,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Beyond Anthropomorphism: Enhancing Grasping and Eliminating a Degree of Freedom by Fusing the Abduction of Digits Four and Five | IROS · Grasp | [Paper](https://arxiv.org/abs/2509.13074) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245941) |
 | 2025 | Manip4Care: Robotic Manipulation of Human Limbs for Solving Assistive Tasks | IROS · Manipulation | [Paper](https://arxiv.org/abs/2508.02649) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245972) |
 | 2025 | Measuring Uncertainty in Shape Completion to Improve Grasp Quality | IROS · Grasp | [Paper](https://arxiv.org/abs/2504.16183) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245992) |
-| 2024 | Physical and Digital Adversarial Attacks on Grasp Quality Networks | ICRA · Grasp | [Paper](https://kclpure.kcl.ac.uk/ws/files/248921202/icra2024_grasp_pixel_attacks.pdf) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610886) |
+| 2024 | Physical and Digital Adversarial Attacks on Grasp Quality Networks | ICRA · Grasp | [Paper](https://kclpure.kcl.ac.uk/portal/en/publications/0185237c-29e9-44f0-ab68-e97eaf80afc1) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610886) |
 | 2024 | VFAS-Grasp: Closed Loop Grasping with Visual Feedback and Adaptive Sampling | ICRA · Grasp | [Paper](https://arxiv.org/abs/2310.18459) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611183) |
-| 2023 | Affordance-Driven Next-Best-View Planning for Robotic Grasping | CoRL · Grasp | [Paper](https://arxiv.org/pdf/2309.09556) · [Publisher](https://doi.org/10.48550/arXiv.2309.09556) |
+| 2023 | Affordance-Driven Next-Best-View Planning for Robotic Grasping | CoRL · Grasp | [Paper](https://arxiv.org/pdf/2309.09556) · [Index](https://dblp.org/rec/journals/corr/abs-2309-09556) |
 | 2023 | Grasp Stability Assessment Through Attention-Guided Cross-Modality Fusion and Transfer Learning | IROS · Grasp | [Paper](https://arxiv.org/pdf/2308.00980) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342411) |
-| 2022 | Volumetric-based Contact Point Detection for 7-DoF Grasping | CoRL · Grasp | [Paper](https://arxiv.org/abs/2209.06675) · [Publisher](https://doi.org/10.48550/arXiv.2209.06675) |
-| 2022 | Grasp Transfer for Deformable Objects by Functional Map Correspondence | ICRA · Grasp | [Paper](https://arxiv.org/abs/2203.00776) · [Publisher](https://doi.org/10.48550/arXiv.2203.00776) |
+| 2022 | Volumetric-based Contact Point Detection for 7-DoF Grasping | CoRL · Grasp | [Paper](https://arxiv.org/abs/2209.06675) · [Index](https://dblp.org/rec/conf/corl/CaiSZCCW22) |
+| 2022 | Grasp Transfer for Deformable Objects by Functional Map Correspondence | ICRA · Grasp | [Paper](https://arxiv.org/abs/2203.00776) · [Index](https://dblp.org/rec/conf/icra/FariasTSM22) |
 | 2022 | The Good Grasp, the Bad Grasp, and the Plateau in Tactile-Based Grasp Stability Prediction | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9981360) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981360) |
 
 ## Recent arXiv papers (61)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-07 | EquiGQNet: Fast Grasp Quality Evaluation via Shared Equivariant Point Cloud Encoding | Sungwon Seo, Jaeseog Won, Jiyou Shin, Youngjin Seo et al. | [Abstract](https://arxiv.org/abs/2609.07145) · [PDF](https://arxiv.org/pdf/2609.07145) |
 | 2026-08-25 | Sensorless damage-safe grasping | Yusei Shuto, Danilo Vasconcellos Vargas | [Abstract](https://arxiv.org/abs/2608.23983) · [PDF](https://arxiv.org/pdf/2608.23983) |
 | 2026-08-22 | Vision-Guided Morphing Quadcopter for Multi-Geometry Payload Transport through Narrow Passages | Aashish Sahu, Shriram Hari, R. Prasanth Kumar | [Abstract](https://arxiv.org/abs/2608.21879) · [PDF](https://arxiv.org/pdf/2608.21879) |
 | 2026-08-08 | A Mixed-Stiffness Anthropomimetic Fingertip Broadens the Operating Range for Coin Grasping | Kaigen Go, Yinlai Jiang, Hiroshi Yokoi, Shunta Togo | [Abstract](https://arxiv.org/abs/2608.07887) · [PDF](https://arxiv.org/pdf/2608.07887) |
@@ -96,7 +97,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-22 | A model-free approach to fingertip slip and disturbance detection for grasp stability inference | Dounia Kitouni, Mahdi Khoramshahi, Veronique Perdereau | [Abstract](https://arxiv.org/abs/2311.13245) · [PDF](https://arxiv.org/pdf/2311.13245) |
 | 2023-10-27 | VFAS-Grasp: Closed Loop Grasping with Visual Feedback and Adaptive Sampling | Pedro Piacenza, Jiacheng Yuan, Jinwook Huh, Volkan Isler | [Abstract](https://arxiv.org/abs/2310.18459) · [PDF](https://arxiv.org/pdf/2310.18459) |
 | 2023-09-29 | PONG: Probabilistic Object Normals for Grasping via Analytic Bounds on Force Closure Probability | Albert H. Li, Preston Culbertson, Aaron D. Ames | [Abstract](https://arxiv.org/abs/2309.16930) · [PDF](https://arxiv.org/pdf/2309.16930) |
-| 2023-09-18 | Affordance-Driven Next-Best-View Planning for Robotic Grasping | Xuechao Zhang, Dong Wang, Sun Han, Weichuang Li et al. | [Abstract](https://arxiv.org/abs/2309.09556) · [PDF](https://arxiv.org/pdf/2309.09556) |
 
 ---
 

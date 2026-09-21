@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | Flow-based Domain Randomization for Learning and Sequencing Robotic Skills | ICML · Domain Randomization | [Paper](https://arxiv.org/abs/2502.01800) · [Publisher](https://doi.org/10.48550/arXiv.2502.01800) |
+| 2025 | Flow-based Domain Randomization for Learning and Sequencing Robotic Skills | ICML · Domain Randomization | [Paper](https://arxiv.org/abs/2502.01800) · [Index](https://dblp.org/rec/journals/corr/abs-2502-01800) |
 | 2025 | Impact of Static Friction on Sim2Real in Robotic Reinforcement Learning | IROS · Sim2Real | [Paper](https://arxiv.org/abs/2503.01255) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246554) |
 | 2024 | Domain Randomization for Sim2real Transfer of Automatically Generated Grasping Datasets | ICRA · Sim2Real | [Paper](https://arxiv.org/abs/2310.04517) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610677) |
 | 2024 | Towards Real-World Efficiency: Domain Randomization in Reinforcement Learning for Pre-Capture of Free-Floating Moving Targets by Autonomous Robots | ICRA · Domain Randomization | [Paper](https://arxiv.org/abs/2406.06460) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610017) |
@@ -26,7 +26,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Continual Domain Randomization | IROS · Domain Randomization | [Paper](https://arxiv.org/pdf/2403.12193) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802060) |
 | 2024 | Domain Randomization-free Sim-to-Real : An Attention-Augmented Memory Approach for Robotic Tasks | IROS · Sim To Real | [Paper](https://doi.org/10.1109/IROS58592.2024.10801944) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801944) |
 | 2023 | Domain Randomization for Robust, Affordable and Effective Closed-Loop Control of Soft Robots | IROS · Domain Randomization | [Paper](https://arxiv.org/abs/2303.04136) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342537) |
-| 2022 | Sim-to-Real via Sim-to-Seg: End-to-end Off-road Autonomous Driving Without Real Data | CoRL · Sim To Real | [Paper](https://arxiv.org/pdf/2210.14721) · [Publisher](https://doi.org/10.48550/arXiv.2210.14721) |
+| 2022 | Sim-to-Real via Sim-to-Seg: End-to-end Off-road Autonomous Driving Without Real Data | CoRL · Sim To Real | [Paper](https://arxiv.org/pdf/2210.14721) · [Index](https://dblp.org/rec/conf/corl/SoXJETAAJ22) |
 | 2022 | Conditional Patch-Based Domain Randomization: Improving Texture Domain Randomization Using Natural Image Patches | IROS · Domain Randomization | [Paper](https://pure-oai.bham.ac.uk/ws/files/177697714/IROS_2022_CPDR_Camera_Ready_Submitted_Version.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981381) |
 | 2022 | Transferring Multi-Agent Reinforcement Learning Policies for Autonomous Driving using Sim-to-Real | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2203.11653) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981319) |
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Running%2C%20Jumping%20%26%20Agile%20Skills#research-workbench)
 
-> 21 conference papers · 139 recent arXiv papers
+> 21 conference papers · 145 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,12 +23,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Playful DoggyBot: Learning Agile and Precise Quadrupedal Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/abs/2409.19920) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245880) |
 | 2025 | Reference-Steering via Data-Driven Predictive Control for Hyper-Accurate Robotic Flying-Hopping Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/abs/2411.18793) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245973) |
 | 2025 | SF-TIM: A Simple Framework for Enhancing Quadrupedal Robot Jumping Agility by Combining Terrain Imagination and Measurement | IROS · Quadruped | [Paper](https://arxiv.org/abs/2408.00486) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247064) |
-| 2024 | Generalized Animal Imitator: Agile Locomotion with Versatile Motion Prior | CoRL · Locomotion | [Paper](https://arxiv.org/pdf/2310.01408) · [Publisher](https://doi.org/10.48550/arXiv.2310.01408) |
-| 2024 | Learning Visual Parkour from Generated Images | CoRL · Parkour | [Paper](https://arxiv.org/abs/2411.00083) · [Publisher](https://doi.org/10.48550/arXiv.2411.00083) |
+| 2024 | Generalized Animal Imitator: Agile Locomotion with Versatile Motion Prior | CoRL · Locomotion | [Paper](https://arxiv.org/pdf/2310.01408) · [Index](https://dblp.org/rec/conf/corl/YangCMZC0024) |
+| 2024 | Learning Visual Parkour from Generated Images | CoRL · Parkour | [Paper](https://arxiv.org/abs/2411.00083) · [Index](https://dblp.org/rec/conf/corl/YuYCRLI24) |
 | 2024 | Efficient, Dynamic Locomotion through Step Placement with Straight Legs and Rolling Contacts | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2310.13134) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611056) |
 | 2024 | Learning Agile Bipedal Motions on a Quadrupedal Robot | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2311.05818) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611442) |
 | 2024 | Design and Control of a Bipedal Robotic Character | RSS · Biped | [Paper](https://arxiv.org/pdf/2501.05204) · [Publisher](https://doi.org/10.15607/RSS.2024.XX.103) |
-| 2023 | Robot Parkour Learning | CoRL · Parkour | [Paper](https://arxiv.org/pdf/2309.05665) · [Publisher](https://doi.org/10.48550/arXiv.2309.05665) |
+| 2023 | Robot Parkour Learning | CoRL · Parkour | [Paper](https://arxiv.org/pdf/2309.05665) · [Index](https://dblp.org/rec/journals/corr/abs-2309-05665) |
 | 2023 | Agile and Versatile Robot Locomotion via Kernel-based Residual Learning | ICRA · Locomotion | [Paper](https://www.pure.ed.ac.uk/ws/files/404861275/agile_and_versatile_robotic_locomotion_via_kernel_based_residual_learning_V2.pdf) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160704) |
 | 2023 | Efficiently Learning Small Policies for Locomotion and Manipulation | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2210.00140) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160791) |
 | 2023 | Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2210.08065) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160293) |
@@ -37,17 +37,25 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Design of a Jumping Control Framework with Heuristic Landing for Bipedal Robots | IROS · Biped | [Paper](https://arxiv.org/pdf/2304.00536) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342265) |
 | 2023 | Real-time Dynamic Bipedal Avoidance | IROS · Biped | [Paper](https://doi.org/10.1109/IROS55552.2023.10341951) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341951) |
 | 2023 | Robust and Versatile Bipedal Jumping Control through Reinforcement Learning | RSS · Biped | [Paper](https://doi.org/10.15607/rss.2023.xix.052) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.052) |
-| 2022 | SMORS: A soft multirotor UAV for multimodal locomotion and robust interaction | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2204.02165) · [Publisher](https://doi.org/10.48550/arXiv.2204.02165) |
+| 2022 | SMORS: A soft multirotor UAV for multimodal locomotion and robust interaction | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2204.02165) · [Index](https://dblp.org/rec/journals/corr/abs-2204-02165) |
 | 2022 | Three-Dimensional Dynamic Running with a Point-Foot Biped based on Differentially Flat SLIP | IROS · Biped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981516) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981516) |
 
-## Recent arXiv papers (139)
+## Recent arXiv papers (145)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-17 | HEROIC: Heterogeneous Evidential Reasoning for Open-Vocabulary Identification and Cross-Robot Collaboration | Mihir Chauhan, Aarav Jain, Addison Zucek, Manmeet Dang et al. | [Abstract](https://arxiv.org/abs/2609.19803) · [PDF](https://arxiv.org/pdf/2609.19803) |
+| 2026-09-15 | Investigating Adversarial Robustness of Heterogeneous Cooperative Perception | Chenyi Wang, Yutong Liu, Qingzhao Zhang, Ming F. Li | [Abstract](https://arxiv.org/abs/2609.17856) · [PDF](https://arxiv.org/pdf/2609.17856) |
+| 2026-09-14 | The Neverwhere Visual Parkour Benchmark Suite | Ziyu Chen, Henghui Bao, Haoran Chang, Alan Yu et al. | [Abstract](https://arxiv.org/abs/2609.16443) · [PDF](https://arxiv.org/pdf/2609.16443) |
+| 2026-09-14 | Dynamics-Informed Reinforcement Learning for Agile and Energy-Efficient Locomotion of a Monopedal Hopping Quadcopter | Ruigang Chen, Qi Zhang, Zhicheng Zhong, Zhuorui Yun et al. | [Abstract](https://arxiv.org/abs/2609.15399) · [PDF](https://arxiv.org/pdf/2609.15399) |
+| 2026-09-08 | Seeing is Not Believing: Breaking the Physical-to-Digital Trust Boundary in Robotics | Leming Shen, Shikai Geng, Yuanqing Zheng, Chris Xiaoxuan Lu | [Abstract](https://arxiv.org/abs/2609.08280) · [PDF](https://arxiv.org/pdf/2609.08280) |
+| 2026-09-08 | Remotely Detectable Keyed Communication through Motion | Benjamin Chang, Michael Amir, Manon Flageat, Amanda Prorok | [Abstract](https://arxiv.org/abs/2609.08920) · [PDF](https://arxiv.org/pdf/2609.08920) |
+| 2026-09-01 | Context-Aware Intelligent Vehicles | Liangkai Liu, Shuyao Shi, Mingke Wang, Noah T. Curran et al. | [Abstract](https://arxiv.org/abs/2609.00682) · [PDF](https://arxiv.org/pdf/2609.00682) |
+| 2026-09-01 | Behavior--Realization Separation for Constrained Physical Human--Robot Interaction | Yongyan Cao | [Abstract](https://arxiv.org/abs/2609.00669) · [PDF](https://arxiv.org/pdf/2609.00669) |
+| 2026-08-30 | Learning Agile Perceptive Traversal of Sparse 3D Structures for Humanoids | Efe Ongan, Chong Zhang, Boyang Sun, Andrei Cramariuc et al. | [Abstract](https://arxiv.org/abs/2608.29769) · [PDF](https://arxiv.org/pdf/2608.29769) |
 | 2026-08-11 | When Your State Estimator Has Lost The Plot: Detecting Estimator Failures Via Spectral Analysis | Christian Lanegger, Helen Oleynikova, Roland Siegwart, Michael Pantic | [Abstract](https://arxiv.org/abs/2608.10623) · [PDF](https://arxiv.org/pdf/2608.10623) |
 | 2026-08-05 | Beyond Visibility: Real-Time Surface Accessibility Fields from Sparse LiDAR | Bradley Scott, Sam Schofield, Richard Green | [Abstract](https://arxiv.org/abs/2608.06412) · [PDF](https://arxiv.org/pdf/2608.06412) |
 | 2026-08-02 | MixedComplementarityProblems.jl: A Fast, Batched, Open-Source Interior Point Solver for Mixed Complementarity Problems | David Fridovich-Keil | [Abstract](https://arxiv.org/abs/2608.00959) · [PDF](https://arxiv.org/pdf/2608.00959) |
-| 2026-07-19 | Retriever: Composing Closed-Loop Asynchronous Robot Programs | Linfeng Zhao, Haojie Huang, Jiayuan Mao, Weiyu Liu et al. | [Abstract](https://arxiv.org/abs/2607.17213) · [PDF](https://arxiv.org/pdf/2607.17213) |
 | 2026-07-16 | G$^2$SR: Geometric Methods for Fast and Memory-Efficient Gaussian-based Surface Reconstruction | Dasong Gao, Vivienne Sze, Sertac Karaman | [Abstract](https://arxiv.org/abs/2607.14470) · [PDF](https://arxiv.org/pdf/2607.14470) |
 | 2026-07-15 | Agile perceptive multi-skill locomotion for quadrupedal robots in the wild | Jun-Gill Kang, Jaehyun Park, Tae-Gyu Song, Joon-Ha Kim et al. | [Abstract](https://arxiv.org/abs/2607.13579) · [PDF](https://arxiv.org/pdf/2607.13579) |
 | 2026-07-13 | GaitSpan: Growing Humanoid Locomotion from Walking to Running | Kwan-Yee Lin, Zilin Wang, Janelle J. Liu, Stella X. Yu | [Abstract](https://arxiv.org/abs/2607.12114) · [PDF](https://arxiv.org/pdf/2607.12114) |
@@ -181,8 +189,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-02 | Generalized Animal Imitator: Agile Locomotion with Versatile Motion Prior | Ruihan Yang, Zhuoqun Chen, Jianhan Ma, Chongyi Zheng et al. | [Abstract](https://arxiv.org/abs/2310.01408) · [PDF](https://arxiv.org/pdf/2310.01408) |
 | 2023-09-30 | Energy-Aware Routing Algorithm for Mobile Ground-to-Air Charging | Bill Cai, Fei Lu, Lifeng Zhou | [Abstract](https://arxiv.org/abs/2310.07729) · [PDF](https://arxiv.org/pdf/2310.07729) |
 | 2023-09-21 | On-the-Fly SfM: What you capture is What you get | Zongqian Zhan, Rui Xia, Yifei Yu, Yibo Xu et al. | [Abstract](https://arxiv.org/abs/2309.11883) · [PDF](https://arxiv.org/pdf/2309.11883) |
-| 2023-09-15 | BANSAC: A dynamic BAyesian Network for adaptive SAmple Consensus | Valter Piedade, Pedro Miraldo | [Abstract](https://arxiv.org/abs/2309.08690) · [PDF](https://arxiv.org/pdf/2309.08690) |
-| 2023-09-11 | Robot Parkour Learning | Ziwen Zhuang, Zipeng Fu, Jianren Wang, Christopher Atkeson et al. | [Abstract](https://arxiv.org/abs/2309.05665) · [PDF](https://arxiv.org/pdf/2309.05665) |
 
 ---
 

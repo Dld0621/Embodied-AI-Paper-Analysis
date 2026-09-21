@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Evaluation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 22 conference papers · 123 recent arXiv papers
+> 22 conference papers · 128 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,9 +25,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | OoDIS: Anomaly Instance Segmentation and Detection Benchmark | ICRA · Benchmark | [Paper](https://arxiv.org/abs/2406.11835) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128111) |
 | 2025 | Benchmark for Evaluating Long-Term Localization in Indoor Environments under Substantial Static and Dynamic Scene Changes | IROS · Benchmark | [Paper](https://doi.org/10.1109/IROS60139.2025.11246416) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246416) |
 | 2025 | Robotic Grasping for Automated Sorting of Complex, Highly Contaminated Industrial Food Waste: A Benchmark Study | IROS · Benchmark | [Paper](https://doi.org/10.1109/IROS60139.2025.11246594) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246594) |
-| 2024 | BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark | CoRL · Benchmark | [Paper](https://arxiv.org/abs/2407.07788) · [Publisher](https://doi.org/10.48550/arXiv.2407.07788) |
+| 2024 | BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark | CoRL · Benchmark | [Paper](https://arxiv.org/abs/2407.07788) · [Index](https://dblp.org/rec/journals/corr/abs-2407-07788) |
 | 2024 | Eureka: Human-Level Reward Design via Coding Large Language Models | ICLR · Reward generation | [Paper](https://arxiv.org/abs/2310.12931) · [Official](https://openreview.net/forum?id=IEduRUO55F) · [Code](https://github.com/eureka-research/Eureka) |
-| 2024 | ManiSkill-HAB: A Benchmark for Low-Level Manipulation in Home Rearrangement Tasks | ICLR · Benchmark | [Paper](https://arxiv.org/abs/2412.13211) · [Publisher](https://doi.org/10.48550/arXiv.2412.13211) |
+| 2024 | ManiSkill-HAB: A Benchmark for Low-Level Manipulation in Home Rearrangement Tasks | ICLR · Benchmark | [Paper](https://arxiv.org/abs/2412.13211) · [Index](https://dblp.org/rec/journals/corr/abs-2412-13211) |
 | 2024 | CoBRA: A Composable Benchmark for Robotics Applications | ICRA · Benchmark | [Paper](https://mediatum.ub.tum.de/1745610) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610776) |
 | 2024 | Toward Self-Righting and Recovery in the Wild: Challenges and Benchmarks | ICRA · Benchmark | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611544) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611544) |
 | 2024 | VBR: A Vision Benchmark in Rome | ICRA · Benchmark | [Paper](https://arxiv.org/abs/2404.11322) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611395) |
@@ -41,11 +41,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2201.09863) · [Index](https://dblp.org/rec/conf/nips/BhatiaJTXM21) |
 | 2022 | VLMbench: A Compositional Benchmark for Vision-and-Language Manipulation | NeurIPS · Language manipulation benchmark | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/04543a88eae2683133c1acbef5a6bf77-Abstract-Datasets_and_Benchmarks.html) · [Official](https://proceedings.neurips.cc/paper_files/paper/2022/hash/04543a88eae2683133c1acbef5a6bf77-Abstract-Datasets_and_Benchmarks.html) |
 
-## Recent arXiv papers (123)
+## Recent arXiv papers (128)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-16 | Beyond Pixel Similarity: Task-Aware Evaluation of GAN-Based Synthetic Sonar Data for Robotic Perception | Hannan Ejaz Keen, Muhammad Moazam Fraz, Karsten Berns | [Abstract](https://arxiv.org/abs/2609.18100) · [PDF](https://arxiv.org/pdf/2609.18100) |
+| 2026-09-15 | RoboVAD: A Large Cross-Domain Evaluation Benchmark for Anomaly Detection in Robotic Arm Manipulation Videos | Alexandru-Bogdan Dura, Sebastian Balmus, Radu Tudor Ionescu | [Abstract](https://arxiv.org/abs/2609.17843) · [PDF](https://arxiv.org/pdf/2609.17843) |
+| 2026-09-12 | Decentralized Multi-Robot Task Allocation Under Degraded Communication: A Benchmark of Performance, Reliability, and Computation | James Lott, Vahraz Honary | [Abstract](https://arxiv.org/abs/2609.13711) · [PDF](https://arxiv.org/pdf/2609.13711) |
+| 2026-09-08 | Monkey See, Can Monkey Do? A Benchmark for Evaluating Robot Skill Learning by Observation | Weiwei Gu, Anmol Gupta, Anant Sah, Ryan Varghese et al. | [Abstract](https://arxiv.org/abs/2609.08209) · [PDF](https://arxiv.org/pdf/2609.08209) |
+| 2026-09-08 | Drive by Hindsight and Foresight: Tool-Grounded Synergistic Reasoning over Hierarchical Memory for Autonomous Driving | Baojie Chen, Zijun Jia, Jing Zhong | [Abstract](https://arxiv.org/abs/2609.08217) · [PDF](https://arxiv.org/pdf/2609.08217) |
+| 2026-09-05 | Closed-Loop Evaluation of Bird's-Eye-View Maps from Cross-View Transformers as Inputs to Behavior-Cloning Policies | Felipe Carlos dos Santos, Eric Antonelo, Gustavo Claudio Karl Couto | [Abstract](https://arxiv.org/abs/2609.05783) · [PDF](https://arxiv.org/pdf/2609.05783) |
+| 2026-08-29 | A Degradation-Tolerance Benchmark for Camera-Only End-to-End Driving | Haohua Que, Handong Yao | [Abstract](https://arxiv.org/abs/2608.29005) · [PDF](https://arxiv.org/pdf/2608.29005) |
 | 2026-08-28 | CoCoBench: A Cooperative Coordination Benchmark for Embodied Multi-Agent Task Planning | Yang Chen, Ye-Xin Xie, Lirong Che, Danyang Peng et al. | [Abstract](https://arxiv.org/abs/2608.28266) · [PDF](https://arxiv.org/pdf/2608.28266) |
+| 2026-08-27 | Multi-Group Pipe Routing under Permanent Geometric Occupancy: Problem, Benchmark, and Classical Baselines | Deng Quan | [Abstract](https://arxiv.org/abs/2608.28697) · [PDF](https://arxiv.org/pdf/2608.28697) |
 | 2026-08-26 | A Statistical Audit of Physical AI Benchmark Redundancy | Zaruhi Navasardyan, Hrant Davtyan | [Abstract](https://arxiv.org/abs/2608.25940) · [PDF](https://arxiv.org/pdf/2608.25940) |
 | 2026-08-19 | Orienteering Problem with Uncertain Time-Varying Rewards: Framework and Benchmark for Everyday Service Robotics | Masafumi Endo, Kohei Honda, Yuu Jinnai, Ryo Yonetani | [Abstract](https://arxiv.org/abs/2608.18672) · [PDF](https://arxiv.org/pdf/2608.18672) |
 | 2026-08-18 | Repetition as Reinforcement: Enhancing Sample Efficiency via Instant Episode Repetition in Reinforcement Learning | Hoda Yamani, Yuning Xing, Koen van Rijnsoever, Bruce A. MacDonald et al. | [Abstract](https://arxiv.org/abs/2608.17347) · [PDF](https://arxiv.org/pdf/2608.17347) |
@@ -165,9 +173,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-03 | Mini-BEHAVIOR: A Procedurally Generated Benchmark for Long-horizon Decision-Making in Embodied AI | Emily Jin, Jiaheng Hu, Zhuoyi Huang, Ruohan Zhang et al. | [Abstract](https://arxiv.org/abs/2310.01824) · [PDF](https://arxiv.org/pdf/2310.01824) |
 | 2023-10-02 | [Re] CLRNet: Cross Layer Refinement Network for Lane Detection | Viswesh N, Kaushal Jadhav, Avi Amalanshu, Bratin Mondal et al. | [Abstract](https://arxiv.org/abs/2310.01142) · [PDF](https://arxiv.org/pdf/2310.01142) |
 | 2023-09-30 | Exploring Benchmarks for Self-Driving Labs using Color Matching | Tobias Ginsburg, Kyle Hippe, Ryan Lewis, Doga Ozgulbas et al. | [Abstract](https://arxiv.org/abs/2310.00510) · [PDF](https://arxiv.org/pdf/2310.00510) |
-| 2023-09-15 | Autonomous and Human-Driven Vehicles Interacting in a Roundabout: A Quantitative and Qualitative Evaluation | Laura Ferrarotti, Massimiliano Luca, Gabriele Santin, Giorgio Previati et al. | [Abstract](https://arxiv.org/abs/2309.08254) · [PDF](https://arxiv.org/pdf/2309.08254) |
-| 2023-09-04 | Marginalized Importance Sampling for Off-Environment Policy Evaluation | Pulkit Katdare, Nan Jiang, Katherine Driggs-Campbell | [Abstract](https://arxiv.org/abs/2309.01807) · [PDF](https://arxiv.org/pdf/2309.01807) |
-| 2023-09-04 | Artificial Empathy Classification: A Survey of Deep Learning Techniques, Datasets, and Evaluation Scales | Sharjeel Tahir, Syed Afaq Shah, Jumana Abu-Khalaf | [Abstract](https://arxiv.org/abs/2310.00010) · [PDF](https://arxiv.org/pdf/2310.00010) |
 
 ---
 

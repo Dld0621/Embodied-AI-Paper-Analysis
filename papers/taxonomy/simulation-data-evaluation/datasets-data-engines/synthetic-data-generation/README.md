@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engines&specialty=Synthetic%20Data%20Generation#research-workbench)
 
-> 7 conference papers · 120 recent arXiv papers
+> 7 conference papers · 122 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | MIMIR-UW: A Multipurpose Synthetic Dataset for Underwater Navigation and Inspection | IROS · Synthetic Data | [Paper](https://doi.org/10.1109/IROS55552.2023.10341436) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341436) |
 | 2022 | ParaPose: Parameter and Domain Randomization Optimization for Pose Estimation using Synthetic Data | IROS · Synthetic Data | [Paper](https://arxiv.org/pdf/2203.00945) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981511) |
 
-## Recent arXiv papers (120)
+## Recent arXiv papers (122)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-17 | Towards Scaling Marine Perception with Synthetic Data | Haoyu Ma, Onur Bagoren, Anja Sheppard, Elias Fandi et al. | [Abstract](https://arxiv.org/abs/2609.20680) · [PDF](https://arxiv.org/pdf/2609.20680) |
+| 2026-09-11 | FoldNet++: a Large-Scale Synthetic Dataset for Robotic T-Shirt Folding and Unfolding | Yuxing Chen, Zhiyuan Wei, Bowen Xiao, Zhizheng Zhang et al. | [Abstract](https://arxiv.org/abs/2609.12433) · [PDF](https://arxiv.org/pdf/2609.12433) |
+| 2026-09-05 | IM-ENGINE: Image Editing for Embodied Data Generation | Yian Wang, Junyi Cao, Xiaowen Qiu, Chuang Gan | [Abstract](https://arxiv.org/abs/2609.06279) · [PDF](https://arxiv.org/pdf/2609.06279) |
 | 2026-08-18 | Training with synthetic data for drone detection in thermal imagery | Tanel Liiv, Sander Soodla, Nzamba Bignoumba, Alma M. Liezenga et al. | [Abstract](https://arxiv.org/abs/2608.17799) · [PDF](https://arxiv.org/pdf/2608.17799) |
 | 2026-08-07 | Synthetic LiDAR Data Generation and Deterministic Downsampling for Point Cloud Classification on the Edge | Niclas Meyer, Stefan Reitmann | [Abstract](https://arxiv.org/abs/2608.07106) · [PDF](https://arxiv.org/pdf/2608.07106) |
 | 2026-07-26 | Towards Ultrafast Depth Sensing Via Active Event-based Stereo Vision | Jianing Li, Yunjian Zhang, Haiqian Han, Kangyao Huang et al. | [Abstract](https://arxiv.org/abs/2607.23684) · [PDF](https://arxiv.org/pdf/2607.23684) |
@@ -149,7 +152,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-14 | Real-Time Sense and Detect of Drones Using Deep Learning and Airborne LiDAR | Manduhu Manduhu, Alexander Dow, Petar Trslic, Gerard Dooly et al. | [Abstract](https://arxiv.org/abs/2310.09589) · [PDF](https://arxiv.org/pdf/2310.09589) |
 | 2023-10-09 | DyST: Towards Dynamic Neural Scene Representations on Real-World Videos | Maximilian Seitzer, Sjoerd van Steenkiste, Thomas Kipf, Klaus Greff et al. | [Abstract](https://arxiv.org/abs/2310.06020) · [PDF](https://arxiv.org/pdf/2310.06020) |
 | 2023-09-22 | Modeling Lead-vehicle Kinematics For Rear-end Crash Scenario Generation | Jian Wu, Carol Flannagan, Ulrich Sander, Jonas Bärgman | [Abstract](https://arxiv.org/abs/2310.08453) · [PDF](https://arxiv.org/pdf/2310.08453) |
-| 2023-09-15 | Human-Inspired Topological Representations for Visual Object Recognition in Unseen Environments | Ekta U. Samani, Ashis G. Banerjee | [Abstract](https://arxiv.org/abs/2309.08239) · [PDF](https://arxiv.org/pdf/2309.08239) |
 
 ---
 

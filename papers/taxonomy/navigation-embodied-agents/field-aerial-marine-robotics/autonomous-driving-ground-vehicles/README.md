@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Field%2C%20Aerial%20%26%20Marine%20Robotics&specialty=Autonomous%20Driving%20%26%20Ground%20Vehicles#research-workbench)
 
-> 13 conference papers · 137 recent arXiv papers
+> 13 conference papers · 138 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,7 +24,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Topological Mapping for Traversability-Aware Long-Range Navigation in Off-Road Terrain | ICRA · Navigation | [Paper](https://arxiv.org/abs/2410.01925) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128536) |
 | 2025 | UAV-Assisted Self-Supervised Terrain Awareness for Off-Road Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.18253) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128050) |
 | 2025 | Multimodal Integrated Prediction and Decision-making with Adaptive Interaction Modality Explorations | IROS · Exploration | [Paper](https://arxiv.org/abs/2408.13742) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247130) |
-| 2025 | ADVEDM:Fine-grained Adversarial Attack against VLM-based Embodied Agents | NeurIPS · Embodied Agent | [Paper](https://arxiv.org/abs/2509.16645) · [Publisher](https://doi.org/10.48550/arXiv.2509.16645) |
+| 2025 | ADVEDM:Fine-grained Adversarial Attack against VLM-based Embodied Agents | NeurIPS · Embodied Agent | [Paper](https://arxiv.org/abs/2509.16645) · [Index](https://dblp.org/rec/journals/corr/abs-2509-16645) |
 | 2024 | Follow the Footprints: Self-supervised Traversability Estimation for Off-road Vehicle Navigation based on Geometric and Visual Cues | ICRA · Navigation | [Paper](https://arxiv.org/abs/2402.15363) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611198) |
 | 2024 | Multi-Sample Long Range Path Planning under Sensing Uncertainty for Off-Road Autonomous Driving | ICRA · Path Planning | [Paper](https://arxiv.org/abs/2403.11298) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610476) |
 | 2023 | Learning Risk-Aware Costmaps via Inverse Reinforcement Learning for Off-Road Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2302.00134) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161268) |
@@ -32,12 +32,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Risk-Aware Off-Road Navigation via a Learned Speed Distribution Map | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.13429) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982200) |
 | 2022 | VI-IKD: High-Speed Accurate Off-Road Navigation using Learned Visual-Inertial Inverse Kinodynamics | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.15983) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982060) |
 
-## Recent arXiv papers (137)
+## Recent arXiv papers (138)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-17 | Vehicle Trajectory Prediction via Neural Fusion of Multiple EKF-Based Trajectory Candidates | Seong-Jun Kim, Seung-Hyun Kong | [Abstract](https://arxiv.org/abs/2609.19813) · [PDF](https://arxiv.org/pdf/2609.19813) |
+| 2026-09-17 | PIVOT: Physically Informed Vision-Language Off-Road Traversability for Field Robot Navigation | Aoran Jiao, Wenda Zhao, Hshmat Sahak, Timothy D. Barfoot | [Abstract](https://arxiv.org/abs/2609.20983) · [PDF](https://arxiv.org/pdf/2609.20983) |
+| 2026-09-17 | Feeling Terrain Before Crossing: World Models for Off-Road Navigation | E-In Son, Dong-Wook Kim, Ji-Hoon Hwang, Kangsun Lee et al. | [Abstract](https://arxiv.org/abs/2609.19863) · [PDF](https://arxiv.org/pdf/2609.19863) |
+| 2026-09-15 | VCTP: Vehicle-Conditioned Terrain Planning for Off-Road Navigation | Akshay Naik, Ramavarapu S. Sreenivas, Dustin Nottage, Ahmet Soylemezoglu | [Abstract](https://arxiv.org/abs/2609.17834) · [PDF](https://arxiv.org/pdf/2609.17834) |
+| 2026-09-07 | Generation of Vectorized Maps Beyond Vehicle View | Clara Gomez, Alberto Jaenal, Antonio Artuñedo, Jorge Godoy et al. | [Abstract](https://arxiv.org/abs/2609.07511) · [PDF](https://arxiv.org/pdf/2609.07511) |
+| 2026-08-31 | Seeing What the Vehicle Sees: Video-Augmented Virtual Reality for Physical Autonomous Vehicles | Md Tanjemul Islam, Mohammad Shafin, Md Rafiul Kabir | [Abstract](https://arxiv.org/abs/2609.13224) · [PDF](https://arxiv.org/pdf/2609.13224) |
+| 2026-08-30 | Self-Aware Active Learning Enables Continual Improvement in Autonomous Driving | Dong Hu, Chao Huang, Carman K. M. Lee, Dimitrios Kanoulas | [Abstract](https://arxiv.org/abs/2608.29772) · [PDF](https://arxiv.org/pdf/2608.29772) |
 | 2026-08-07 | Enhancing Autonomous Vehicle Navigation with a Clothoid-Based Lateral Controller | Aashish Shaju, Steve Southward, Mehdi Ahmadian | [Abstract](https://arxiv.org/abs/2608.07740) · [PDF](https://arxiv.org/pdf/2608.07740) |
-| 2026-07-26 | Learning Traversability-Aware Global Planners for Long Horizon Off-Road Navigation | Kasi Viswanath, Jason M. Gregory, Shaunak Kolhe, Srikanth Saripalli | [Abstract](https://arxiv.org/abs/2607.23743) · [PDF](https://arxiv.org/pdf/2607.23743) |
+| 2026-07-26 | Learning Traversability for Long Horizon Off-Road Navigation | Kasi Viswanath, Jason M. Gregory, Shaunak Kolhe, Srikanth Saripalli | [Abstract](https://arxiv.org/abs/2607.23743) · [PDF](https://arxiv.org/pdf/2607.23743) |
 | 2026-07-23 | A Real-Time Generalized Nash Equilibrium Framework for Interaction-Aware Autonomous Driving in Mixed Traffic | Nouhed Naidja, Mohamed-Cherif Rahal, Steve Pechberti, Stéphane Font et al. | [Abstract](https://arxiv.org/abs/2607.21043) · [PDF](https://arxiv.org/pdf/2607.21043) |
 | 2026-07-14 | MAMMOTH: A Multi-Modal End-to-End Policy for Off-Road Mobility Robust to Missing Modality | Ahaan Kotian, Shivani Subramanyan, Suresh Sundaram | [Abstract](https://arxiv.org/abs/2607.12965) · [PDF](https://arxiv.org/pdf/2607.12965) |
 | 2026-07-06 | A Reliable Context-Aware and Temporal Planning Framework for Autonomous Driving | Argho Dey, Yunfei Yin, Swachha Ray, Md Minhazul Islam et al. | [Abstract](https://arxiv.org/abs/2607.04689) · [PDF](https://arxiv.org/pdf/2607.04689) |
@@ -167,12 +174,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-01 | PIAug -- Physics Informed Augmentation for Learning Vehicle Dynamics for Off-Road Navigation | Parv Maheshwari, Wenshan Wang, Samuel Triest, Matthew Sivaprakasam et al. | [Abstract](https://arxiv.org/abs/2311.00815) · [PDF](https://arxiv.org/pdf/2311.00815) |
 | 2023-09-30 | Deep Reinforcement Learning for Autonomous Vehicle Intersection Navigation | Badr Ben Elallid, Hamza El Alaoui, Nabil Benamar | [Abstract](https://arxiv.org/abs/2310.08595) · [PDF](https://arxiv.org/pdf/2310.08595) |
 | 2023-09-21 | Real-Time Capable Decision Making for Autonomous Driving Using Reachable Sets | Niklas Kochdumper, Stanley Bak | [Abstract](https://arxiv.org/abs/2309.12289) · [PDF](https://arxiv.org/pdf/2309.12289) |
-| 2023-09-19 | Mobile Manipulation Platform for Autonomous Indoor Inspections in Low-Clearance Areas | Erik Pearson, Paul Szenher, Christine Huang, Brendan Englot | [Abstract](https://arxiv.org/abs/2309.10794) · [PDF](https://arxiv.org/pdf/2309.10794) |
-| 2023-09-16 | Multi-camera Bird's Eye View Perception for Autonomous Driving | David Unger, Nikhil Gosala, Varun Ravi Kumar, Shubhankar Borse et al. | [Abstract](https://arxiv.org/abs/2309.09080) · [PDF](https://arxiv.org/pdf/2309.09080) |
-| 2023-09-15 | URA*: Uncertainty-aware Path Planning using Image-based Aerial-to-Ground Traversability Estimation for Off-road Environments | Charles Moore, Shaswata Mitra, Nisha Pillai, Marc Moore et al. | [Abstract](https://arxiv.org/abs/2309.08814) · [PDF](https://arxiv.org/pdf/2309.08814) |
-| 2023-09-14 | Connected Autonomous Vehicle Motion Planning with Video Predictions from Smart, Self-Supervised Infrastructure | Jiankai Sun, Shreyas Kousik, David Fridovich-Keil, Mac Schwager | [Abstract](https://arxiv.org/abs/2309.07504) · [PDF](https://arxiv.org/pdf/2309.07504) |
-| 2023-09-05 | AutonomROS: A ReconROS-based Autonomous Driving Unit | Christian Lienen, Mathis Brede, Daniel Karger, Kevin Koch et al. | [Abstract](https://arxiv.org/abs/2309.02026) · [PDF](https://arxiv.org/pdf/2309.02026) |
-| 2023-09-05 | A Robust Localization Solution for an Uncrewed Ground Vehicle in Unstructured Outdoor GNSS-Denied Environments | W. Jacob Wagner, Isaac Blankenau, Maribel DeLaTorre, Amartya Purushottam et al. | [Abstract](https://arxiv.org/abs/2309.02569) · [PDF](https://arxiv.org/pdf/2309.02569) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Autonomy&specialty=Remote%20Presence%2C%20Delay%20%26%20Communication#research-workbench)
 
-> 2 conference papers · 38 recent arXiv papers
+> 2 conference papers · 40 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,10 +21,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Autonomous and Teleoperation Control of a Drawing Robot Avatar | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2407.20156) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610310) |
 | 2024 | Exploring Cognitive Load Dynamics in Human-Machine Interaction for Teleoperation: A User-Centric Perspective on Remote Operation System Design | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802226) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802226) |
 
-## Recent arXiv papers (38)
+## Recent arXiv papers (40)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-06 | Can People Distinguish Human and AI Agency in Humanoid Teleoperation? A Preliminary Study of Agency Perception | Xiang Li, Koya Dendo, Keigo Minamida, Yuto Nakamura et al. | [Abstract](https://arxiv.org/abs/2609.06434) · [PDF](https://arxiv.org/pdf/2609.06434) |
+| 2026-08-29 | Feelium: A Touchable Blimp Body for Aerial Telepresence | George Xi Wang, Henghao Li, Shan Lin, Yunge Wen et al. | [Abstract](https://arxiv.org/abs/2608.29391) · [PDF](https://arxiv.org/pdf/2608.29391) |
 | 2026-08-25 | ROS2 Connect: A new ROS2 over WAN Solution | Daniel Schott, Lakshminarasimhan Srinivasan, Christian Herrmann, Andreas Nüchter | [Abstract](https://arxiv.org/abs/2608.25102) · [PDF](https://arxiv.org/pdf/2608.25102) |
 | 2026-08-14 | Demonstration of Space Robot Teleoperation over a Lossy and Delayed Network using ATMOS | Inkyu Jang, Gregorio Marchesini, Nicola De Carli, Byeongjun Kim et al. | [Abstract](https://arxiv.org/abs/2608.14031) · [PDF](https://arxiv.org/pdf/2608.14031) |
 | 2026-08-13 | Predictive Relative-Velocity Steering for Safe Robotic Manipulator Teleoperation in Dynamic Environments | Changhao Hu, Zeyi Liu, Songqiao Hu, Shuang Liu et al. | [Abstract](https://arxiv.org/abs/2608.13284) · [PDF](https://arxiv.org/pdf/2608.13284) |

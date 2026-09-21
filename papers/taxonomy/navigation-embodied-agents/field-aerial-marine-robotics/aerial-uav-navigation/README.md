@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Field%2C%20Aerial%20%26%20Marine%20Robotics&specialty=Aerial%20%26%20UAV%20Navigation#research-workbench)
 
-> 2 conference papers · 99 recent arXiv papers
+> 2 conference papers · 105 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,10 +21,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Drones Guiding Drones: Cooperative Navigation of a Less-Equipped Micro Aerial Vehicle in Cluttered Environments | IROS · Navigation | [Paper](https://arxiv.org/abs/2312.09786) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802770) |
 | 2022 | UAV-miniUGV Hybrid System for Hidden Area Exploration and Manipulation | IROS · Exploration | [Paper](https://arxiv.org/pdf/2209.11704) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981957) |
 
-## Recent arXiv papers (99)
+## Recent arXiv papers (105)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-17 | RTK-Vision PPO for Autonomous Micro UAV Recovery on an Airborne Carrier | Aashish Sahu, R Prasanth Kumar | [Abstract](https://arxiv.org/abs/2609.20629) · [PDF](https://arxiv.org/pdf/2609.20629) |
+| 2026-09-17 | ASGARD: Action-Space Guard for UAV Resilience via Reinforcement Learning | Mohsen Salehi, Karthik Pattabiraman | [Abstract](https://arxiv.org/abs/2609.20982) · [PDF](https://arxiv.org/pdf/2609.20982) |
+| 2026-09-17 | AeRove: A Compact Bimodal Aerial-Terrestrial Drone with Rapid Bistable Reconfiguration for Close-Range Pipeline Inspection | Caleb Polillio, Petras Swissler | [Abstract](https://arxiv.org/abs/2609.20965) · [PDF](https://arxiv.org/pdf/2609.20965) |
+| 2026-09-13 | Belief-Adaptive Online Autonomy for Quadrotor UAV Navigation under GNSS Degradation in Urban Environments | Deepak Kumar Panda, Weisi Guo | [Abstract](https://arxiv.org/abs/2609.14806) · [PDF](https://arxiv.org/pdf/2609.14806) |
+| 2026-09-11 | Global Path Planner with Multi-Model Switching | Pietro Gori, Francesco Iotti, Eduard Zelenay, Rastislav Marko et al. | [Abstract](https://arxiv.org/abs/2609.13015) · [PDF](https://arxiv.org/pdf/2609.13015) |
+| 2026-09-10 | SwarmNxt: Open-source Software-Hardware Platform for Fast and Agile Aerial Swarms | Charbel Toumieh, Niel Mistry, Benjamin Jarvis, Simon Jeger et al. | [Abstract](https://arxiv.org/abs/2609.11382) · [PDF](https://arxiv.org/pdf/2609.11382) |
+| 2026-09-10 | EVPeriscope: Extended Perception across Aerial and Ground Vehicles with Event-based Propeller Tracking | Dexter Ong, Vijay Kumar, Pratik Chaudhari | [Abstract](https://arxiv.org/abs/2609.11920) · [PDF](https://arxiv.org/pdf/2609.11920) |
 | 2026-08-07 | Drone-Assisted UAV-UGV Collaboration for Autonomous Navigation in Snow-Covered Terrain | Shreyam Gupta, P. Agrawal, Priyam Gupta, R. Gautam | [Abstract](https://arxiv.org/abs/2608.07797) · [PDF](https://arxiv.org/pdf/2608.07797) |
 | 2026-08-03 | CoNav-UAV: Cooperative Dual-Altitude Aerial Navigation via Stackelberg Learning | Junru Song, Wenhao Zhang, Yang Yang, Xuekai Qiu et al. | [Abstract](https://arxiv.org/abs/2608.01802) · [PDF](https://arxiv.org/pdf/2608.01802) |
 | 2026-07-20 | Disturbance-Aware Flight for Aerial Robots in Narrow Space | Lei Qiang, Tianyu He, Chenyang Sun, Xurui Liu et al. | [Abstract](https://arxiv.org/abs/2607.17476) · [PDF](https://arxiv.org/pdf/2607.17476) |
@@ -123,7 +130,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-19 | Enhancing Multi-Drone Coordination for Filming Group Behaviours in Dynamic Environments | Aditya Rauniyar, Jiaoyang Li, Sebastian Scherer | [Abstract](https://arxiv.org/abs/2310.13184) · [PDF](https://arxiv.org/pdf/2310.13184) |
 | 2023-10-11 | AG-CVG: Coverage Planning with a Mobile Recharging UGV and an Energy-Constrained UAV | Nare Karapetyan, Ahmad Bilal Asghar, Amisha Bhaskar, Guangyao Shi et al. | [Abstract](https://arxiv.org/abs/2310.07621) · [PDF](https://arxiv.org/pdf/2310.07621) |
 | 2023-10-04 | Tightly Joining Positioning and Control for Trustworthy Unmanned Aerial Vehicles Based on Factor Graph Optimization in Urban Transportation | Peiwen Yang, Weisong Wen | [Abstract](https://arxiv.org/abs/2310.02542) · [PDF](https://arxiv.org/pdf/2310.02542) |
-| 2023-09-01 | Parallel Distributional Prioritized Deep Reinforcement Learning for Unmanned Aerial Vehicles | Alisson Henrique Kolling, Victor Augusto Kich, Junior Costa de Jesus, Andressa Cavalcante da Silva et al. | [Abstract](https://arxiv.org/abs/2309.00176) · [PDF](https://arxiv.org/pdf/2309.00176) |
 
 ---
 

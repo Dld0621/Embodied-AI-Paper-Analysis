@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Dexterous%20Hand%20Control&specialty=Multifinger%20Control%20%26%20Coordination#research-workbench)
 
-> 22 conference papers · 32 recent arXiv papers
+> 22 conference papers · 36 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,7 +24,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Design of an Affordable, Fully-Actuated Biomimetic Hand for Dexterous Teleoperation Systems | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS60139.2025.11245814) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245814) |
 | 2025 | Exploiting Policy Idling for Dexterous Manipulation | IROS · Dexterous | [Paper](https://arxiv.org/abs/2508.15669) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246124) |
 | 2025 | Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand | IROS · Multifinger | [Paper](https://arxiv.org/abs/2507.06822) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246691) |
-| 2024 | Object-Centric Dexterous Manipulation from Human Motion Data | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2411.04005) · [Publisher](https://doi.org/10.48550/arXiv.2411.04005) |
+| 2024 | Object-Centric Dexterous Manipulation from Human Motion Data | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2411.04005) · [Index](https://dblp.org/rec/conf/corl/Chen0YL24) |
 | 2024 | A Surprisingly Efficient Representation for Multi-Finger Grasping | ICRA · Multi Finger | [Paper](https://arxiv.org/abs/2408.02455) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611424) |
 | 2024 | Touch-Based Manipulation with Multi-Fingered Robot using Off-policy RL and Temporal Contrastive Learning | ICRA · Multi Finger | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610239) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610239) |
 | 2024 | Enhancing Object Grasping Efficiency with Deep Learning and Post-processing for Multi-finger Robotic Hands | IROS · Multi Finger | [Paper](https://doi.org/10.1109/IROS58592.2024.10801496) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801496) |
@@ -41,10 +41,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | A Two-stage Learning Architecture that Generates High-Quality Grasps for a Multi-Fingered Hand | IROS · Multi Finger | [Paper](https://elib.dlr.de/191780/1/winkelbauer2022.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981133) |
 | 2022 | Multi-Finger Grasping Like Humans | IROS · Multi Finger | [Paper](https://inria.hal.science/hal-04323199) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981805) |
 
-## Recent arXiv papers (32)
+## Recent arXiv papers (36)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-15 | ProxiDex: Learning Dynamics-Guided Proximity Policy for Dexterous Manipulation | Yushan Bai, Boyu Zheng, Zhiyang Mao, Hongzheng Sun et al. | [Abstract](https://arxiv.org/abs/2609.16586) · [PDF](https://arxiv.org/pdf/2609.16586) |
+| 2026-09-10 | Quasi-static analysis of passive stability in a novel underactuated multi-finger hand | Léonie Plancoulaine, Sylvain Guégan, Franck Plestan, Damien Chablat | [Abstract](https://arxiv.org/abs/2609.11579) · [PDF](https://arxiv.org/pdf/2609.11579) |
+| 2026-09-09 | Assembling Two Parts in One Hand | Liuao Pei, Tianyue Wu, Hui Zhang, Ping Luo et al. | [Abstract](https://arxiv.org/abs/2609.10137) · [PDF](https://arxiv.org/pdf/2609.10137) |
+| 2026-09-04 | Benchmarking Dexterity of Multifingered Robot Hands: A Review and Perspective | Anthony Shilati, Anunth Ramaswami, Luke Batteas, Sylvia Tan et al. | [Abstract](https://arxiv.org/abs/2609.05585) · [PDF](https://arxiv.org/pdf/2609.05585) |
 | 2026-08-16 | ReForce: Learning Force-aware Retargeting for Dexterous Manipulation | Yuhang Wu, Lingqi Zeng, Changwei Jing, Jianglong Ye et al. | [Abstract](https://arxiv.org/abs/2608.15560) · [PDF](https://arxiv.org/pdf/2608.15560) |
 | 2026-06-13 | DragMesh-2: Physically Plausible Dexterous Hand-Object Interaction with Articulated Objects | Tianshan Zhang, Yijia Duan, Yanjun Li, Zeyu Zhang et al. | [Abstract](https://arxiv.org/abs/2606.15133) · [PDF](https://arxiv.org/pdf/2606.15133) |
 | 2026-06-09 | PLUME: Probabilistic Latent Unified World Modeling and Parameter Estimation for Multi-Finger Manipulation | Abhinav Kumar, Soshi Iba, Rana Soltani Zarrin, Dmitry Berenson | [Abstract](https://arxiv.org/abs/2606.11396) · [PDF](https://arxiv.org/pdf/2606.11396) |

@@ -25,7 +25,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | SCALE: Self-Correcting Visual Navigation for Mobile Robots via Anti-Novelty Estimation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2404.10675) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610847) |
 | 2024 | Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation | IROS · Navigation | [Paper](https://arxiv.org/abs/2411.03487) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801778) |
 | 2023 | Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation | ICCV · Navigation | [Paper](https://arxiv.org/abs/2308.10306) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.01009) |
-| 2022 | Topological Semantic Graph Memory for Image-Goal Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2209.08274) · [Publisher](https://doi.org/10.48550/arXiv.2209.08274) |
+| 2022 | Topological Semantic Graph Memory for Image-Goal Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2209.08274) · [Index](https://dblp.org/rec/conf/corl/KimKYCPO22) |
 
 ## Recent arXiv papers (29)
 

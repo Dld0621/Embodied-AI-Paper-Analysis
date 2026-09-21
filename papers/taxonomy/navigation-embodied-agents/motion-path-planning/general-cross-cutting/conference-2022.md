@@ -6,9 +6,9 @@
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2022 | Last-Mile Embodied Visual Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2211.11746) · [Publisher](https://doi.org/10.48550/arXiv.2211.11746) |
-| 2022 | LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action | CoRL · Navigation | [Paper](https://arxiv.org/abs/2207.04429) · [Publisher](https://doi.org/10.48550/arXiv.2207.04429) |
-| 2022 | Offline Reinforcement Learning for Visual Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2212.08244) · [Publisher](https://doi.org/10.48550/arXiv.2212.08244) |
+| 2022 | Last-Mile Embodied Visual Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2211.11746) · [Index](https://dblp.org/rec/conf/corl/WassermanY0GJ22) |
+| 2022 | LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action | CoRL · Navigation | [Paper](https://arxiv.org/abs/2207.04429) · [Index](https://dblp.org/rec/conf/corl/ShahOIL22) |
+| 2022 | Offline Reinforcement Learning for Visual Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2212.08244) · [Index](https://dblp.org/rec/journals/corr/abs-2212-08244) |
 | 2022 | A Deep Reinforcement Learning Environment for Particle Robot Navigation and Object Manipulation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2203.06464) · [Publisher](https://doi.org/10.1109/ICRA46639.2022.9811965) |
 | 2022 | A Novel Assistive Controller Based on Differential Geometry for Users of the Differential-Drive Wheeled Mobile Robots | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2202.01969) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811593) |
 | 2022 | APF-RL: Safe Mapless Navigation in Unknown Environments | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811537) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811537) |
@@ -48,10 +48,10 @@
 | 2022 | Watch out! There may be a Human. Addressing Invisible Humans in Social Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2211.12216) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982186) |
 | 2022 | You Are In My Way: Non-verbal Social Cues for Legible Robot Navigation Behaviors | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981754) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981754) |
 | 2022 | FlyView: a bio-informed optical flow truth dataset for visual navigation using panoramic stereo vision | NeurIPS · Navigation | [Paper](https://doi.org/10.52202/068431-2038) · [Publisher](https://doi.org/10.52202/068431-2038) |
-| 2022 | Learning Active Camera for Multi-Object Navigation | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.07505) · [Publisher](https://doi.org/10.48550/arXiv.2210.07505) |
+| 2022 | Learning Active Camera for Multi-Object Navigation | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.07505) · [Index](https://dblp.org/rec/conf/nips/ChenJLH0LTG22) |
 | 2022 | MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge | NeurIPS · Open-ended agents | [Paper](https://arxiv.org/abs/2206.08853) · [Official](https://proceedings.neurips.cc/paper_files/paper/2022/hash/74a67268c5cc5910f64938cac4526a90-Abstract.html) · [Code](https://github.com/MineDojo/MineDojo) |
 | 2022 | ProcTHOR: Large-Scale Embodied AI Using Procedural Generation | NeurIPS · Procedural environments | [Paper](https://arxiv.org/abs/2206.06994) · [Official](https://proceedings.neurips.cc/paper_files/paper/2022/hash/27c546ab1e4f1d7d638e6a8dfbad9a07-Abstract-Conference.html) · [Code](https://github.com/allenai/procthor) |
-| 2022 | VER: Scaling On-Policy RL Leads to the Emergence of Navigation in Embodied Rearrangement | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.05064) · [Publisher](https://doi.org/10.48550/arXiv.2210.05064) |
-| 2022 | Weakly-Supervised Multi-Granularity Map Learning for Vision-and-Language Navigation | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.07506) · [Publisher](https://doi.org/10.48550/arXiv.2210.07506) |
+| 2022 | VER: Scaling On-Policy RL Leads to the Emergence of Navigation in Embodied Rearrangement | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.05064) · [Index](https://dblp.org/rec/conf/nips/WijmansEB22) |
+| 2022 | Weakly-Supervised Multi-Granularity Map Learning for Vision-and-Language Navigation | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.07506) · [Index](https://dblp.org/rec/conf/nips/ChenJLZLTG22) |
 | 2022 | DiPCAN: Distilling Privileged Information for Crowd-Aware Navigation | RSS · Navigation | [Paper](https://doi.org/10.15607/rss.2022.xviii.045) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.045) |
 | 2022 | ViKiNG: Vision-Based Kilometer-Scale Navigation with Geographic Hints | RSS · Navigation | [Paper](https://doi.org/10.15607/rss.2022.xviii.019) · [Publisher](https://doi.org/10.15607/RSS.2022.XVIII.019) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Balance%2C%20Dynamics%20%26%20Recovery&specialty=Fall%20Prevention%20%26%20Recovery#research-workbench)
 
-> 4 conference papers · 12 recent arXiv papers
+> 4 conference papers · 13 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,10 +23,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Humanoid Arm Motion Planning for Improved Disturbance Recovery Using Model Hierarchy Predictive Control | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra46639.2022.9811878) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811878) |
 | 2022 | Reactive Stepping for Humanoid Robots using Reinforcement Learning: Application to Standing Push Recovery on the Exoskeleton Atalante | IROS · Humanoid | [Paper](https://hal.science/hal-04155863) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982234) |
 
-## Recent arXiv papers (12)
+## Recent arXiv papers (13)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-15 | Fingers as Legs: Learning Self-Supported Locomotion and Manipulation with an Anthropomorphic Hand | Amirhossein Kazemipour, Hehui Zheng, Robert Katzschmann | [Abstract](https://arxiv.org/abs/2609.17172) · [PDF](https://arxiv.org/pdf/2609.17172) |
 | 2026-06-12 | Robust Fall Recovery for Armless Bipedal-Wheeled Robots Via Force-Guided Learning | Haidong Hou, Zhangguo Yu, Tao Han, Hengbo Qi et al. | [Abstract](https://arxiv.org/abs/2606.14270) · [PDF](https://arxiv.org/pdf/2606.14270) |
 | 2026-06-11 | Stubborn: A Streamlined and Unified Reinforcement Learning Framework for Robust Motion Tracking and Fall Recovery for Humanoids | Xiao Ren, Yuhui Yang, Zongbiao Weng, Zhijie Liu et al. | [Abstract](https://arxiv.org/abs/2606.12814) · [PDF](https://arxiv.org/pdf/2606.12814) |
 | 2026-06-08 | UniReLo: Learning a Unified Humanoid Policy from Fall Recovery to Locomotion across Diverse Terrains | Xiaoyu Xu, Zhiming Chen, Yuenan Zhao, Ran Song et al. | [Abstract](https://arxiv.org/abs/2606.08922) · [PDF](https://arxiv.org/pdf/2606.08922) |

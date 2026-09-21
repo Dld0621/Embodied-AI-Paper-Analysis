@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Memory%20%26%20World%20Knowledge&specialty=World-Action%20%26%20Predictive%20Models#research-workbench)
 
-> 1 conference papers · 55 recent arXiv papers
+> 1 conference papers · 67 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | Latent Action Pretraining from Videos | ICLR · Learning from video | [Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/45d74e190008c7bff2845ffc8e3facd3-Abstract-Conference.html) · [Official](https://proceedings.iclr.cc/paper_files/paper/2025/hash/45d74e190008c7bff2845ffc8e3facd3-Abstract-Conference.html) |
 
-## Recent arXiv papers (55)
+## Recent arXiv papers (67)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-18 | SkelWAM: A Skeleton-Guided World-Action Model for Zero-Shot Cross-Embodiment Manipulation | Pengjun Niu, Yujia Xie, Rui Peng, Hang Zhao et al. | [Abstract](https://arxiv.org/abs/2609.21983) · [PDF](https://arxiv.org/pdf/2609.21983) |
+| 2026-09-18 | Skel-WAM: A Hand-Skeleton-Conditioned World Action Model for Human-to-Robot Manipulation Transfer | Zetao Cai, Yaping Li, Yiqun Wang, Xinyu Zhan et al. | [Abstract](https://arxiv.org/abs/2609.21514) · [PDF](https://arxiv.org/pdf/2609.21514) |
+| 2026-09-17 | Agile-WAM: An Agile Tactile World Action Model for Contact-Rich Robot Control | Hanchu Zhou, Brendan Lynch, Raman Goyal, Dechen Gao et al. | [Abstract](https://arxiv.org/abs/2609.20761) · [PDF](https://arxiv.org/pdf/2609.20761) |
+| 2026-09-16 | WholeBodyWAM: Learning Whole-Body World Action Models with Scalable Motion Priors | Bowei Zhang, Qiyao Zhang, Shuanghao Bai, Xinhua Wang et al. | [Abstract](https://arxiv.org/abs/2609.18197) · [PDF](https://arxiv.org/pdf/2609.18197) |
+| 2026-09-15 | XPACE: Joint World and Action Modeling from Heterogeneous Experience | Jiacheng Wei, Jerry Bai, Xiaoyu Yue, Zidong Wang et al. | [Abstract](https://arxiv.org/abs/2609.17372) · [PDF](https://arxiv.org/pdf/2609.17372) |
+| 2026-09-15 | GeoLAM: Learning Geometry-Grounded Latent Actions from Unlabeled Human Videos | Yifan Xie, Hekun Tian, Jinkun Liu, YuAn Wang et al. | [Abstract](https://arxiv.org/abs/2609.17099) · [PDF](https://arxiv.org/pdf/2609.17099) |
+| 2026-09-14 | WLA$^3$: World Latent Action Modeling for Semantics, Dynamics, and Kinematics | Peidong Liu, Zhiyuan Xiang, Mingyang Li, Wenhao Li et al. | [Abstract](https://arxiv.org/abs/2609.15870) · [PDF](https://arxiv.org/pdf/2609.15870) |
+| 2026-09-07 | OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining | Yuran Wang, Siqiao Huang, Mingleyang Li, Chenhao Zhang et al. | [Abstract](https://arxiv.org/abs/2609.07398) · [PDF](https://arxiv.org/pdf/2609.07398) |
+| 2026-09-04 | GE-Act 2.0: Pretraining and Scaling a World-Action Model for Robotic Manipulation | AgiBot Research Team, Renhang Liu, Wenzhi Zhao, Zhuo Yang et al. | [Abstract](https://arxiv.org/abs/2609.05588) · [PDF](https://arxiv.org/pdf/2609.05588) |
+| 2026-09-03 | SV-WAM: An Efficient Surround-View World-Action Model for End-to-End Autonomous Driving | Jinyang Wang, Shiwei Li, Junjian Wang, Zhiqiang Deng et al. | [Abstract](https://arxiv.org/abs/2609.03602) · [PDF](https://arxiv.org/pdf/2609.03602) |
+| 2026-09-02 | Spatially Aware World Action Model via Geometric Latent Diffusion | Javier Alejandro Lopetegui Gonzalez, Paul Pacaud, Cordelia Schmid | [Abstract](https://arxiv.org/abs/2609.02531) · [PDF](https://arxiv.org/pdf/2609.02531) |
+| 2026-08-29 | Hydra: A Navigation World Action Model with Discrete Latent Planning and Continuous Flow-Matching Execution | Mohammad Nazeri, Alexandyr Card, Samira Huber, Anuj Pokhrel et al. | [Abstract](https://arxiv.org/abs/2608.28995) · [PDF](https://arxiv.org/pdf/2608.28995) |
 | 2026-08-27 | Riemann-1.0: An Embodied World Action Model for Physical AI | Haofeng Sun, Jiangbo Pei, Fei Kang, Zexiang Liu et al. | [Abstract](https://arxiv.org/abs/2608.27033) · [PDF](https://arxiv.org/pdf/2608.27033) |
 | 2026-08-25 | Latent Action as Intention Enables Efficient Future Imagination for World Action Models | Xiang Li, Yupeng Zheng, Songen Gu, Huailiang Ma et al. | [Abstract](https://arxiv.org/abs/2608.24882) · [PDF](https://arxiv.org/pdf/2608.24882) |
 | 2026-08-24 | GeoWAM: Visual Geometry World Action Models for Autonomous Driving | Yiren Lu, Xin Ye, Jiaming Liu, Philip Jacobson et al. | [Abstract](https://arxiv.org/abs/2608.23486) · [PDF](https://arxiv.org/pdf/2608.23486) |

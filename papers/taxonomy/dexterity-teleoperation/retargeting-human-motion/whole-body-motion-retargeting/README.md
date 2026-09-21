@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Retargeting%20%26%20Human%20Motion&specialty=Whole-body%20%26%20Motion%20Retargeting#research-workbench)
 
-> 3 conference papers · 20 recent arXiv papers
+> 3 conference papers · 21 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -22,10 +22,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Redefining Data Pairing for Motion Retargeting Leveraging a Human Body Prior | IROS · Retargeting | [Paper](https://arxiv.org/abs/2409.13208) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801789) |
 | 2023 | Robust Real-Time Motion Retargeting via Neural Latent Prediction | IROS · Retargeting | [Paper](https://doi.org/10.1109/IROS55552.2023.10342022) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342022) |
 
-## Recent arXiv papers (20)
+## Recent arXiv papers (21)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-02 | Unified Motion Retargeting for Humanoids with Learned Point Cloud Correspondence | Hanyang Cao, Yuetong Fang, Taesoo Kwon, Runyi Yu et al. | [Abstract](https://arxiv.org/abs/2609.02134) · [PDF](https://arxiv.org/pdf/2609.02134) |
 | 2026-08-04 | Shooting for Contact: Contact-Implicit Multiple Shooting for Dynamic Motion Retargeting | Sergio A. Esteban, Jason H. K. Siu, Derrick Mach, Junheng Li et al. | [Abstract](https://arxiv.org/abs/2608.03116) · [PDF](https://arxiv.org/pdf/2608.03116) |
 | 2026-07-07 | DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control | Yuanchuan Lai, Qing Gao, Ziyan Liang, Xianfeng Cheng et al. | [Abstract](https://arxiv.org/abs/2607.05883) · [PDF](https://arxiv.org/pdf/2607.05883) |
 | 2026-07-04 | ObjRetarget: An Object-Aware Motion Retargeting Framework with Anthropomorphic Arm Constraints and Polyhedral Hand Modeling | Yuanchuan Lai, Qing Gao, Ziyan Liang, Junjie Hu et al. | [Abstract](https://arxiv.org/abs/2607.03828) · [PDF](https://arxiv.org/pdf/2607.03828) |

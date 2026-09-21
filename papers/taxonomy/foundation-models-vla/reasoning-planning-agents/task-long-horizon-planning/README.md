@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=Task%20%26%20Long-horizon%20Planning#research-workbench)
 
-> 47 conference papers · 228 recent arXiv papers
+> 47 conference papers · 231 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -43,12 +43,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | RoboDexVLM: Visual Language Model-Enabled Task Planning and Motion Control for Dexterous Robot Manipulation | IROS · Language Model | [Paper](https://arxiv.org/abs/2503.01616) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247714) |
 | 2025 | Safety Aware Task Planning via Large Language Models in Robotics | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2503.15707) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246041) |
 | 2025 | Triple-S: A Collaborative Multi-LLM Framework for Solving Long-Horizon Implicative Tasks in Robotics | IROS · Llm | [Paper](https://arxiv.org/abs/2508.07421) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246810) |
-| 2025 | ROVER: Recursive Reasoning Over Videos with Vision-Language Models for Embodied Tasks | NeurIPS · Language Model | [Paper](https://arxiv.org/abs/2508.01943) · [Publisher](https://doi.org/10.48550/arXiv.2508.01943) |
-| 2024 | APRICOT: Active Preference Learning and Constraint-Aware Task Planning with LLMs | CoRL · Llm | [Paper](https://arxiv.org/abs/2410.19656) · [Publisher](https://doi.org/10.48550/arXiv.2410.19656) |
-| 2024 | GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs | CoRL · Llm | [Paper](https://arxiv.org/abs/2410.03645) · [Publisher](https://doi.org/10.48550/arXiv.2410.03645) |
-| 2024 | SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment | CoRL · Llm | [Paper](https://arxiv.org/abs/2410.18907) · [Publisher](https://doi.org/10.48550/arXiv.2410.18907) |
-| 2024 | Trust the PRoC3S: Solving Long-Horizon Robotics Problems with LLMs and Constraint Satisfaction | CoRL · Llm | [Paper](https://arxiv.org/abs/2406.05572) · [Publisher](https://doi.org/10.48550/arXiv.2406.05572) |
-| 2024 | Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks | ICLR · Language Model | [Paper](https://arxiv.org/abs/2405.01534) · [Publisher](https://doi.org/10.48550/arXiv.2405.01534) |
+| 2025 | ROVER: Recursive Reasoning Over Videos with Vision-Language Models for Embodied Tasks | NeurIPS · Language Model | [Paper](https://arxiv.org/abs/2508.01943) · [Index](https://dblp.org/rec/conf/nips/SchroederBWLG25) |
+| 2024 | APRICOT: Active Preference Learning and Constraint-Aware Task Planning with LLMs | CoRL · Llm | [Paper](https://arxiv.org/abs/2410.19656) · [Index](https://dblp.org/rec/journals/corr/abs-2410-19656) |
+| 2024 | GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs | CoRL · Llm | [Paper](https://arxiv.org/abs/2410.03645) · [Index](https://dblp.org/rec/journals/corr/abs-2410-03645) |
+| 2024 | SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment | CoRL · Llm | [Paper](https://arxiv.org/abs/2410.18907) · [Index](https://dblp.org/rec/journals/corr/abs-2410-18907) |
+| 2024 | Trust the PRoC3S: Solving Long-Horizon Robotics Problems with LLMs and Constraint Satisfaction | CoRL · Llm | [Paper](https://arxiv.org/abs/2406.05572) · [Index](https://dblp.org/rec/journals/corr/abs-2406-05572) |
+| 2024 | Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks | ICLR · Language Model | [Paper](https://arxiv.org/abs/2405.01534) · [Index](https://dblp.org/rec/conf/iclr/DalalCCS24) |
 | 2024 | AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers | ICRA · Llm | [Paper](https://arxiv.org/abs/2306.06531) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611163) |
 | 2024 | FLTRNN: Faithful Long-Horizon Task Planning for Robotics with Large Language Models | ICRA · Large Language Model | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611663) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611663) |
 | 2024 | From Cooking Recipes to Robot Task Trees – Improving Planning Correctness and Task Efficiency by Leveraging LLMs with a Knowledge Network | ICRA · Llm | [Paper](https://arxiv.org/abs/2309.09181) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611369) |
@@ -62,14 +62,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Ensuring Safety in LLM-Driven Robotics: A Cross-Layer Sequence Supervision Mechanism | IROS · Llm | [Paper](https://doi.org/10.1109/IROS58592.2024.10801576) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801576) |
 | 2024 | SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2309.10062) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802322) |
 | 2024 | Task Planning for Long-Horizon Cooking Tasks Based on Large Language Models | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS58592.2024.10801687) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801687) |
-| 2023 | GenSim: Generating Robotic Simulation Tasks via Large Language Models | ICLR · Large Language Model | [Paper](https://arxiv.org/pdf/2310.01361) · [Publisher](https://doi.org/10.48550/arXiv.2310.01361) |
+| 2023 | GenSim: Generating Robotic Simulation Tasks via Large Language Models | ICLR · Large Language Model | [Paper](https://arxiv.org/pdf/2310.01361) · [Index](https://dblp.org/rec/journals/corr/abs-2310-01361) |
 | 2023 | ProgPrompt: Generating Situated Robot Task Plans using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2209.11302) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161317) |
 | 2023 | Generating Executable Action Plans with Environmentally-Aware Language Models | IROS · Language Model | [Paper](https://arxiv.org/pdf/2210.04964) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341989) |
 
-## Recent arXiv papers (228)
+## Recent arXiv papers (231)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-17 | StageGuard: Learning Stage Transitions for Long-Horizon Robot Tasks via Agentic Distillation | Jinbang Huang, Yuanzhao Hu, Zhiyuan Li, Ran Qi et al. | [Abstract](https://arxiv.org/abs/2609.20791) · [PDF](https://arxiv.org/pdf/2609.20791) |
+| 2026-09-16 | Rollback the World, Keep the Reflection: Rollback-Induced Reflection for Long-Horizon LLM Agents | Yi Yu, Liuyi Yao, Yaliang Li, Enshu Wang et al. | [Abstract](https://arxiv.org/abs/2609.18304) · [PDF](https://arxiv.org/pdf/2609.18304) |
+| 2026-09-16 | GAVEL: Graph World Models for Verified and Efficient Long-Horizon LLM Task Planning | Ruiyang Wang, Hao-Lun Hsu, Swarajh Mehta, Jiwoo Kim et al. | [Abstract](https://arxiv.org/abs/2609.19315) · [PDF](https://arxiv.org/pdf/2609.19315) |
+| 2026-09-15 | HINT-Plan: Human Intention-Aware Robot Task Planning in Context-Rich Environments using Vision Language Models | Yuchen Liu, Luigi Palmieri, Lujun Li, Radu State et al. | [Abstract](https://arxiv.org/abs/2609.17771) · [PDF](https://arxiv.org/pdf/2609.17771) |
+| 2026-09-11 | Bridging Thought and Action: Taming Long-Horizon Instability in Open-Source LLM Agents with a MetaTool-Enhanced ROS Framework | Kazi Abrar Mahmud, Nilotpaul Kundu Dhurubo, Tamal Kirttonia, Sabbir Hossain Ujjal et al. | [Abstract](https://arxiv.org/abs/2609.13335) · [PDF](https://arxiv.org/pdf/2609.13335) |
+| 2026-09-10 | ORCH: Organizational Principles Enable Collective Intelligence in Embodied AI | Zhengran Ji, Jonathan Hyun, Boyuan Chen | [Abstract](https://arxiv.org/abs/2609.11737) · [PDF](https://arxiv.org/pdf/2609.11737) |
+| 2026-09-03 | Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving | Ruoyu Yao, Yusen Xie, Qingzhao Liu, Pei Liu et al. | [Abstract](https://arxiv.org/abs/2609.04070) · [PDF](https://arxiv.org/pdf/2609.04070) |
+| 2026-08-31 | Scaffolding Foundation Models into Physical-World Agents Pushes the Frontier of Long-Horizon Navigation | Zixing Lei, Gengze Zhou, Xiong-Hui Chen, Jiazhao Zhang et al. | [Abstract](https://arxiv.org/abs/2608.30396) · [PDF](https://arxiv.org/pdf/2608.30396) |
 | 2026-08-27 | STEP: State-Aware Task Estimation and Planning with Multi-Modal LLMs for Human-Robot Collaboration | Maitrey Gramopadhye, Prakash Baskaran, Xiao Liu, Songpo Li et al. | [Abstract](https://arxiv.org/abs/2608.27225) · [PDF](https://arxiv.org/pdf/2608.27225) |
 | 2026-08-23 | Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints | Gwen Yidou-Weng, Edward Sun, Tianyi Ma, Metin Alp Dogan et al. | [Abstract](https://arxiv.org/abs/2608.22149) · [PDF](https://arxiv.org/pdf/2608.22149) |
 | 2026-08-20 | Evidence-Gated Task and Motion Planning with Vision-Language Models | Tsunehiko Tanaka, Matthew Stephenson, Alistair Macvicar, Edgar Simo-Serra | [Abstract](https://arxiv.org/abs/2608.20084) · [PDF](https://arxiv.org/pdf/2608.20084) |
@@ -112,7 +120,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-12 | RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks | Ruiying Li, Yunlang Zhou, YuYao Zhu, Kylin Chen et al. | [Abstract](https://arxiv.org/abs/2603.11558) · [PDF](https://arxiv.org/pdf/2603.11558) |
 | 2026-03-12 | CoViLLM: An Adaptive Human-Robot Collaborative Assembly Framework Using Large Language Models | Jiabao Zhao, Jonghan Lim, Hongliang Li, Ilya Kovalenko | [Abstract](https://arxiv.org/abs/2603.11461) · [PDF](https://arxiv.org/pdf/2603.11461) |
 | 2026-03-07 | SwiftBot: A Decentralized Platform for LLM-Powered Federated Robotic Task Execution | YueMing Zhang, Shuai Xu, Zhengxiong Li, Fangtian Zhong et al. | [Abstract](https://arxiv.org/abs/2603.20233) · [PDF](https://arxiv.org/pdf/2603.20233) |
-| 2026-03-06 | Multimodal Behavior Tree Generation: A Small Vision-Language Model for Robot Task Planning | Cristiano Battistini, Riccardo Andrea Izzo, Gianluca Bardaro, Matteo Matteucci | [Abstract](https://arxiv.org/abs/2603.06084) · [PDF](https://arxiv.org/pdf/2603.06084) |
 | 2026-03-03 | IMR-LLM: Industrial Multi-Robot Task Planning and Program Generation using Large Language Models | Xiangyu Su, Juzhan Xu, Oliver van Kaick, Kai Xu et al. | [Abstract](https://arxiv.org/abs/2603.02669) · [PDF](https://arxiv.org/pdf/2603.02669) |
 | 2026-03-01 | From Dialogue to Execution: Mixture-of-Agents Assisted Interactive Planning for Behavior Tree-Based Long-Horizon Robot Execution | Kanata Suzuki, Kazuki Hori, Haruka Miyoshi, Shuhei Kurita et al. | [Abstract](https://arxiv.org/abs/2603.01113) · [PDF](https://arxiv.org/pdf/2603.01113) |
 | 2026-02-28 | Keyframe-Guided Structured Rewards for Reinforcement Learning in Long-Horizon Laboratory Robotics | Yibo Qiu, Shu'ang Sun, Haoliang Ye, Ronald X Xu et al. | [Abstract](https://arxiv.org/abs/2603.00719) · [PDF](https://arxiv.org/pdf/2603.00719) |
@@ -294,10 +301,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-03 | Generalizable Long-Horizon Manipulations with Large Language Models | Haoyu Zhou, Mingyu Ding, Weikun Peng, Masayoshi Tomizuka et al. | [Abstract](https://arxiv.org/abs/2310.02264) · [PDF](https://arxiv.org/pdf/2310.02264) |
 | 2023-10-02 | GenSim: Generating Robotic Simulation Tasks via Large Language Models | Lirui Wang, Yiyang Ling, Zhecheng Yuan, Mohit Shridhar et al. | [Abstract](https://arxiv.org/abs/2310.01361) · [PDF](https://arxiv.org/pdf/2310.01361) |
 | 2023-09-27 | Scalable Multi-Robot Collaboration with Large Language Models: Centralized or Decentralized Systems? | Yongchao Chen, Jacob Arkin, Yang Zhang, Nicholas Roy et al. | [Abstract](https://arxiv.org/abs/2309.15943) · [PDF](https://arxiv.org/pdf/2309.15943) |
-| 2023-09-18 | SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models | Shyam Sundar Kannan, Vishnunandan L. N. Venkatesh, Byung-Cheol Min | [Abstract](https://arxiv.org/abs/2309.10062) · [PDF](https://arxiv.org/pdf/2309.10062) |
-| 2023-09-17 | Optimal Scene Graph Planning with Large Language Model Guidance | Zhirui Dai, Arash Asgharivaskasi, Thai Duong, Shusen Lin et al. | [Abstract](https://arxiv.org/abs/2309.09182) · [PDF](https://arxiv.org/pdf/2309.09182) |
-| 2023-09-17 | From Cooking Recipes to Robot Task Trees -- Improving Planning Correctness and Task Efficiency by Leveraging LLMs with a Knowledge Network | Md Sadman Sakib, Yu Sun | [Abstract](https://arxiv.org/abs/2309.09181) · [PDF](https://arxiv.org/pdf/2309.09181) |
-| 2023-09-15 | Compositional Foundation Models for Hierarchical Planning | Anurag Ajay, Seungwook Han, Yilun Du, Shuang Li et al. | [Abstract](https://arxiv.org/abs/2309.08587) · [PDF](https://arxiv.org/pdf/2309.08587) |
 
 ---
 

@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2024 | Learning to Walk from Three Minutes of Real-World Data with Semi-structured Dynamics Models | CoRL · Dynamics Model | [Paper](https://arxiv.org/abs/2410.09163) · [Publisher](https://doi.org/10.48550/arXiv.2410.09163) |
+| 2024 | Learning to Walk from Three Minutes of Real-World Data with Semi-structured Dynamics Models | CoRL · Dynamics Model | [Paper](https://arxiv.org/abs/2410.09163) · [Index](https://dblp.org/rec/journals/corr/abs-2410-09163) |
 
 ## Recent arXiv papers (3)
 

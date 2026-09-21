@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=VLA%20Architectures&specialty=Real-time%20%26%20On-device%20VLA#research-workbench)
 
-> 9 conference papers · 255 recent arXiv papers
+> 9 conference papers · 269 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,18 +20,33 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | Quart-Online: Latency-Free Multimodal Large Language Model for Quadruped Robot Learning | ICRA · Large Language Model | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127693) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127693) |
 | 2025 | CLGA: A Collaborative LLM Framework for Dynamic Goal Assignment in Multi-Robot Systems | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11246692) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246692) |
-| 2025 | Computationally Efficient FPGA-based Large Language Model Inference for Real-Time Decision-Making in Robotic Systems | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11247019) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247019) |
+| 2025 | Computationally Efficient FPGA-based Large Language Model Inference for Real-Time Decision-Making in Robotic Systems | IROS · Large Language Model | [Paper](https://repository.essex.ac.uk/43780/1/IROS%20%281%29.pdf) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247019) |
 | 2025 | TR-LLM: Integrating Trajectory Data for Scene-Aware LLM-Based Human Action Prediction | IROS · Llm | [Paper](https://arxiv.org/abs/2410.03993) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246714) |
 | 2025 | Fast-in-Slow: A Dual-System VLA Model Unifying Fast Manipulation within Slow Reasoning | NeurIPS · Vla | [Paper](https://doi.org/10.52202/085713-3276) · [Publisher](https://doi.org/10.52202/085713-3276) |
 | 2025 | VLA-Cache: Efficient Vision-Language-Action Manipulation via Adaptive Token Caching | NeurIPS · Vision Language Action | [Paper](https://arxiv.org/abs/2502.02175) · [Publisher](https://doi.org/10.52202/085713-5484) |
 | 2024 | Fly by Book: How to Train a Humanoid Robot to Fly an Airplane using Large Language Models | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS58592.2024.10802288) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802288) |
-| 2024 | DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution | NeurIPS · Vla | [Paper](https://arxiv.org/abs/2411.02359) · [Publisher](https://doi.org/10.48550/arXiv.2411.02359) |
-| 2024 | Real-Time Anomaly Detection and Reactive Planning with Large Language Models | RSS · Large Language Model | [Paper](https://arxiv.org/abs/2407.08735) · [Publisher](https://doi.org/10.48550/arXiv.2407.08735) |
+| 2024 | DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution | NeurIPS · Vla | [Paper](https://arxiv.org/abs/2411.02359) · [Index](https://dblp.org/rec/conf/nips/YueWKHWSF024) |
+| 2024 | Real-Time Anomaly Detection and Reactive Planning with Large Language Models | RSS · Large Language Model | [Paper](https://arxiv.org/abs/2407.08735) · [Index](https://dblp.org/rec/conf/rss/SinhaEAFS024) |
 
-## Recent arXiv papers (255)
+## Recent arXiv papers (269)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-18 | Safe Real-Time Policy Steering via Noise-Space Trajectory Optimization for One-Step Generative Policies | Qingyi Chen, Joseph Ruan, Zachary Kingston | [Abstract](https://arxiv.org/abs/2609.21220) · [PDF](https://arxiv.org/pdf/2609.21220) |
+| 2026-09-17 | Recovering Aggressively Pruned Vision-Language-Action Models with Offline Hidden-State Distillation | Chiyoung Kim, Sanghyuk Roy Choi, Minhyeok Lee | [Abstract](https://arxiv.org/abs/2609.19579) · [PDF](https://arxiv.org/pdf/2609.19579) |
+| 2026-09-17 | Catch Me If You Can: Real-Time Feedback Denoising for Responsive VLAs | Yiheng Ji, Xingru Zhou, Luis Sentis, Mingyo Seo | [Abstract](https://arxiv.org/abs/2609.21022) · [PDF](https://arxiv.org/pdf/2609.21022) |
+| 2026-09-17 | A Simulation Platform for AUV Fault Recovery: Exploring LLM-Based Diagnostic Strategies | Khalid Halba, Kylie Cooper, James G. Bellingham | [Abstract](https://arxiv.org/abs/2609.20620) · [PDF](https://arxiv.org/pdf/2609.20620) |
+| 2026-09-16 | VLA-ULAP: Interleaving Cloud VLA Calls with Ultra-Lightweight Local Action Prediction at the Edge | Deyu Cao, Ryuji Oi, Kosuke Matsushima, Yuxuan Pan et al. | [Abstract](https://arxiv.org/abs/2609.18663) · [PDF](https://arxiv.org/pdf/2609.18663) |
+| 2026-09-16 | rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference | Kaijun Zhou, Zhiyang Li, Le Chen, Jinyu Gu | [Abstract](https://arxiv.org/abs/2609.19104) · [PDF](https://arxiv.org/pdf/2609.19104) |
+| 2026-09-16 | Reinforcement Learning for Real-Time Vision-Language-Action Policies | Perry Dong, Kuo-Han Hung, Dorsa Sadigh, Chelsea Finn | [Abstract](https://arxiv.org/abs/2609.18207) · [PDF](https://arxiv.org/pdf/2609.18207) |
+| 2026-09-15 | RAF-VLA: Representation Alignment with the Future for End-to-End Autonomous Driving | Dogun Kim, Yongjae Lee, Joonhee Lim, Yeina Lee et al. | [Abstract](https://arxiv.org/abs/2609.17728) · [PDF](https://arxiv.org/pdf/2609.17728) |
+| 2026-09-15 | FluxVLA Engine: A One-Stop VLA Engineering Platform for Embodied Intelligence | Yinhao Li, Weixin Mao, Zihan Lan, Jikun Rong et al. | [Abstract](https://arxiv.org/abs/2609.17210) · [PDF](https://arxiv.org/pdf/2609.17210) |
+| 2026-09-14 | From Prediction to Decision: World-Model-Guided Action Selection for Continuous Pile Excavation | Ailing Zhang, Fan Gao, Song Zhang, Kawa Leong et al. | [Abstract](https://arxiv.org/abs/2609.15382) · [PDF](https://arxiv.org/pdf/2609.15382) |
+| 2026-09-12 | When Faster VLA Deployment Changes Closed-Loop Behavior: Task Success-Latency Analysis of SmolVLA Across PyTorch and ONNX Variants | Rafiqul Islam | [Abstract](https://arxiv.org/abs/2609.14146) · [PDF](https://arxiv.org/pdf/2609.14146) |
+| 2026-09-12 | What Makes an Efficient VLA? Navigating Action-Head Design, Scaling, and Latency | Luoyang Sun, Guoyang Xia, Fengfa Li, Lei Ren et al. | [Abstract](https://arxiv.org/abs/2609.13984) · [PDF](https://arxiv.org/pdf/2609.13984) |
+| 2026-09-12 | Gradient-Free Neural Hamilton-Jacobi Reachability for Scalable Safety-Critical Control | Zeyuan Feng, Ali Fuat Sahin, Santiago Thorup, Somil Bansal | [Abstract](https://arxiv.org/abs/2609.14087) · [PDF](https://arxiv.org/pdf/2609.14087) |
+| 2026-09-07 | ComVLA: Communication-Aware Split Inference for VLA Models in 6G-Connected Robotics | Boliang Liu, Wint Yi Poe, Jingyun Di, Riccardo Trivisonno et al. | [Abstract](https://arxiv.org/abs/2609.07838) · [PDF](https://arxiv.org/pdf/2609.07838) |
+| 2026-08-31 | Rethinking Language's Role in Efficient VLA for Autonomous Vehicles: Toward Smarter, Trustworthy Driving | Tongfei Guo, Lili Su | [Abstract](https://arxiv.org/abs/2608.30144) · [PDF](https://arxiv.org/pdf/2608.30144) |
 | 2026-08-27 | Decoupling Planning and Control for Instructable Agents | Zineng Tang, Kelsey R. Allen, Sjoerd van Steenkiste, Ishita Dasgupta et al. | [Abstract](https://arxiv.org/abs/2608.26788) · [PDF](https://arxiv.org/pdf/2608.26788) |
 | 2026-08-25 | Hierarchical Skill Retrieval for Data-Efficient Adaptation of Vision-Language-Action Models | Haoran Hao, Shahram Najam Syed, Jeff Schneider, Jeffrey Ichnowski | [Abstract](https://arxiv.org/abs/2608.24042) · [PDF](https://arxiv.org/pdf/2608.24042) |
 | 2026-08-23 | Robust Bimanual Vision-Language-Action Models via Embarrassingly Simple Modality Masking | Dongzhou Cheng, Ziang Li, Yixiao Zhou, Haojuan Li et al. | [Abstract](https://arxiv.org/abs/2608.22419) · [PDF](https://arxiv.org/pdf/2608.22419) |
@@ -161,7 +176,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-02-12 | SToRM: Supervised Token Reduction for Multi-modal LLMs toward efficient end-to-end autonomous driving | Seo Hyun Kim, Jin Bok Park, Do Yeon Koo, Hogun Park et al. | [Abstract](https://arxiv.org/abs/2602.11656) · [PDF](https://arxiv.org/pdf/2602.11656) |
 | 2026-02-10 | BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation | Yucheng Hu, Jianke Zhang, Yuanfei Luo, Yanjiang Guo et al. | [Abstract](https://arxiv.org/abs/2602.09849) · [PDF](https://arxiv.org/pdf/2602.09849) |
 | 2026-02-06 | Think Proprioceptively: State-Grounded Visual Token Selection for VLA Policies | Fangyuan Wang, Peng Zhou, Jiaming Qi, Shipeng Lyu et al. | [Abstract](https://arxiv.org/abs/2602.06575) · [PDF](https://arxiv.org/pdf/2602.06575) |
-| 2026-02-05 | FUTURE-VLA: Forecasting Unified Trajectories Under Real-time Execution | Jingjing Fan, Yushan Liu, Shoujie Li, Botao Ren et al. | [Abstract](https://arxiv.org/abs/2602.15882) · [PDF](https://arxiv.org/pdf/2602.15882) |
 | 2026-02-04 | A Modern System Recipe for Situated Embodied Human-Robot Conversation with Real-Time Multimodal LLMs and Tool-Calling | Dong Won Lee, Sarah Gillet, Louis-Philippe Morency, Cynthia Breazeal et al. | [Abstract](https://arxiv.org/abs/2602.04157) · [PDF](https://arxiv.org/pdf/2602.04157) |
 | 2026-02-02 | TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments | Zhiyu Huang, Yun Zhang, Johnson Liu, Rui Song et al. | [Abstract](https://arxiv.org/abs/2602.02459) · [PDF](https://arxiv.org/pdf/2602.02459) |
 | 2026-02-02 | Multimodal Large Language Models for Real-Time Situated Reasoning | Giulio Antonio Abbo, Senne Lenaerts, Tony Belpaeme | [Abstract](https://arxiv.org/abs/2602.01880) · [PDF](https://arxiv.org/pdf/2602.01880) |
@@ -175,7 +189,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-01-22 | MapViT: A Two-Stage ViT-Based Framework for Real-Time Radio Quality Map Prediction in Dynamic Environments | Cyril Shih-Huan Hsu, Xi Li, Lanfranco Zanzi, Zhiheng Yang et al. | [Abstract](https://arxiv.org/abs/2601.15578) · [PDF](https://arxiv.org/pdf/2601.15578) |
 | 2026-01-21 | Vision-Language Models on the Edge for Real-Time Robotic Perception | Sarat Ahmad, Maryam Hafeez, Syed Ali Raza Zaidi | [Abstract](https://arxiv.org/abs/2601.14921) · [PDF](https://arxiv.org/pdf/2601.14921) |
 | 2026-01-21 | TIDAL: Temporally Interleaved Diffusion and Action Loop for High-Frequency VLA Control | Yuteng Sun, Haoran Wang, Ruofei Bai, Zhengguo Li et al. | [Abstract](https://arxiv.org/abs/2601.14945) · [PDF](https://arxiv.org/pdf/2601.14945) |
-| 2026-01-21 | A Universal Large Language Model -- Drone Command and Control Interface | Javier N. Ramos-Silva, Peter J. Burke | [Abstract](https://arxiv.org/abs/2601.15486) · [PDF](https://arxiv.org/pdf/2601.15486) |
 | 2026-01-16 | VLAgents: A Policy Server for Efficient VLA Inference | Tobias Jülg, Khaled Gamal, Nisarga Nilavadi, Pierre Krack et al. | [Abstract](https://arxiv.org/abs/2601.11250) · [PDF](https://arxiv.org/pdf/2601.11250) |
 | 2026-01-15 | Bidirectional Human-Robot Communication for Physical Human-Robot Interaction | Junxiang Wang, Cindy Wang, Rana Soltani Zarrin, Zackory Erickson | [Abstract](https://arxiv.org/abs/2601.10796) · [PDF](https://arxiv.org/pdf/2601.10796) |
 | 2026-01-08 | LaST$_{0}$: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model | Zhuoyang Liu, Jiaming Liu, Hao Chen, Jiale Yu et al. | [Abstract](https://arxiv.org/abs/2601.05248) · [PDF](https://arxiv.org/pdf/2601.05248) |
@@ -222,6 +235,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-08-11 | GraphCoT-VLA: A 3D Spatial-Aware Reasoning Vision-Language-Action Model for Robotic Manipulation with Ambiguous Instructions | Helong Huang, Min Cen, Kai Tan, Xingyue Quan et al. | [Abstract](https://arxiv.org/abs/2508.07650) · [PDF](https://arxiv.org/pdf/2508.07650) |
 | 2025-08-04 | MetAdv: A Unified and Interactive Adversarial Testing Platform for Autonomous Driving | Aishan Liu, Jiakai Wang, Tianyuan Zhang, Hainan Li et al. | [Abstract](https://arxiv.org/abs/2508.06534) · [PDF](https://arxiv.org/pdf/2508.06534) |
 | 2025-07-30 | Vision-Language Cross-Attention for Real-Time Autonomous Driving | Santosh Patapati, Trisanth Srinivasan, Murari Ambati | [Abstract](https://arxiv.org/abs/2507.23064) · [PDF](https://arxiv.org/pdf/2507.23064) |
+| 2025-07-22 | Evaluating Uncertainty and Quality of Vision-Language-Action-enabled Robots | Pablo Valle, Chengjie Lu, Shaukat Ali, Aitor Arrieta | [Abstract](https://arxiv.org/abs/2507.17049) · [PDF](https://arxiv.org/pdf/2507.17049) |
 | 2025-07-21 | Gaze-supported Large Language Model Framework for Bi-directional Human-Robot Interaction | Jens V. Rüppel, Andrey Rudenko, Tim Schreiter, Martin Magnusson et al. | [Abstract](https://arxiv.org/abs/2507.15729) · [PDF](https://arxiv.org/pdf/2507.15729) |
 | 2025-07-18 | EdgeVLA: Efficient Vision-Language-Action Models | Paweł Budzianowski, Wesley Maa, Matthew Freed, Jingxiang Mo et al. | [Abstract](https://arxiv.org/abs/2507.14049) · [PDF](https://arxiv.org/pdf/2507.14049) |
 | 2025-07-14 | Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance | Kyungtae Han, Yitao Chen, Rohit Gupta, Onur Altintas | [Abstract](https://arxiv.org/abs/2507.10500) · [PDF](https://arxiv.org/pdf/2507.10500) |

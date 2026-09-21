@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Manipulation%20Policy%20Learning&specialty=Generative%20%26%20Diffusion%20Policies#research-workbench)
 
-> 18 conference papers · 250 recent arXiv papers
+> 18 conference papers · 260 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -19,7 +19,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | On-Device Diffusion Transformer Policy for Efficient Robot Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/pdf/2508.00697) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01306) |
-| 2025 | One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation | ICML · Visuomotor | [Paper](https://arxiv.org/abs/2410.21257) · [Publisher](https://doi.org/10.48550/arXiv.2410.21257) |
+| 2025 | One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation | ICML · Visuomotor | [Paper](https://arxiv.org/abs/2410.21257) · [Index](https://dblp.org/rec/conf/icml/WangLMXFNFZBZ0025) |
 | 2025 | Diff-Dagger: Uncertainty Estimation With Diffusion Policy for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2410.14868) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127730) |
 | 2025 | Discrete Policy: Learning Disentangled Action Space for Multi-Task Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2409.18707) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127630) |
 | 2025 | Language-Guided Object-Centric Diffusion Policy for Generalizable and Collision-Aware Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2407.00451) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127231) |
@@ -27,21 +27,31 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2409.14411) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128074) |
 | 2025 | SPOT: SE(3) Pose Trajectory Diffusion for Object-Centric Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2411.00965) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127562) |
 | 2025 | TacDiffusion: Force-Domain Diffusion Policy for Precise Tactile Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2409.11047) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127334) |
-| 2025 | Two-Steps Diffusion Policy for Robotic Manipulation via Genetic Denoising | NeurIPS · Manipulation | [Paper](https://arxiv.org/abs/2510.21991) · [Publisher](https://doi.org/10.48550/arXiv.2510.21991) |
+| 2025 | Two-Steps Diffusion Policy for Robotic Manipulation via Genetic Denoising | NeurIPS · Manipulation | [Paper](https://arxiv.org/abs/2510.21991) · [Index](https://dblp.org/rec/journals/corr/abs-2510-21991) |
 | 2025 | Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation | RSS · Visual-tactile policy | [Paper](https://www.roboticsproceedings.org/rss21/p052.html) · [Official](https://www.roboticsproceedings.org/rss21/p052.html) |
 | 2024 | Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation | CVPR · Manipulation | [Paper](https://arxiv.org/pdf/2403.03890) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01712) |
-| 2024 | 3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2410.24091) · [Publisher](https://doi.org/10.48550/arXiv.2410.24091) |
-| 2024 | KOROL: Learning Visualizable Object Feature with Koopman Operator Rollout for Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2407.00548) · [Publisher](https://doi.org/10.48550/arXiv.2407.00548) |
-| 2024 | GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2409.20154) · [Publisher](https://doi.org/10.48550/arXiv.2409.20154) |
+| 2024 | 3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2410.24091) · [Index](https://dblp.org/rec/journals/corr/abs-2410-24091) |
+| 2024 | KOROL: Learning Visualizable Object Feature with Koopman Operator Rollout for Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2407.00548) · [Index](https://dblp.org/rec/journals/corr/abs-2407-00548) |
+| 2024 | GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2409.20154) · [Index](https://dblp.org/rec/journals/corr/abs-2409-20154) |
 | 2024 | 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations | RSS · 3D diffusion policy | [Paper](https://arxiv.org/abs/2403.03954) · [Official](https://www.roboticsproceedings.org/rss20/p067.html) · [Code](https://github.com/YanjieZe/3D-Diffusion-Policy) |
 | 2023 | ChainedDiffuser: Unifying Trajectory Diffusion and Keypose Prediction for Robotic Manipulation | CoRL · Manipulation | [Paper](https://www.semanticscholar.org/paper/c36f3635e090aba84e5e83b904a7697e83730be6) · [Index](https://dblp.org/rec/conf/corl/XianGGKF23) |
 | 2023 | Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | RSS · Diffusion policy | [Paper](https://arxiv.org/abs/2303.04137) · [Official](https://roboticsproceedings.org/rss19/p026.html) · [Code](https://github.com/real-stanford/diffusion_policy) |
 
-## Recent arXiv papers (250)
+## Recent arXiv papers (260)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
-| 2026-08-27 | PredVLA: A Sub-Million-Parameter Predictive-Coding Policy for Robot Manipulation | Hiroki Sawada, Shunichi Kasahara | [Abstract](https://arxiv.org/abs/2608.26673) · [PDF](https://arxiv.org/pdf/2608.26673) |
+| 2026-09-18 | AcousticDiffusion: Semantically Conditioned Audio-Guided Diffusion Policy for Search-and-Rescue Assistance | Iana Zhura, Didar Seyidov, Dmitrii Plotnikov, Hajira Amjad et al. | [Abstract](https://arxiv.org/abs/2609.21792) · [PDF](https://arxiv.org/pdf/2609.21792) |
+| 2026-09-17 | Learning Foresight without Explicit Trajectories for 3D Diffusion Policies | Zhongbo Zhang, Zaibin Zhang, Yifan Wang, Changbo Yan et al. | [Abstract](https://arxiv.org/abs/2609.20669) · [PDF](https://arxiv.org/pdf/2609.20669) |
+| 2026-09-14 | LieSpline-DP: Lie-Group B-Spline Diffusion Policy for Smooth Robot Manipulation | Erxuan Xie, Bang Liu, Pingyun Nie, Xingkai Liu et al. | [Abstract](https://arxiv.org/abs/2609.15162) · [PDF](https://arxiv.org/pdf/2609.15162) |
+| 2026-09-11 | Online Material Estimation for Conditioned Diffusion Policy in Shaping Deformable Linear Objects | Ryunosuke Yamada, Tomohiro Motoda, Yukiyasu Domae, Tokuo Tsuji | [Abstract](https://arxiv.org/abs/2609.12634) · [PDF](https://arxiv.org/pdf/2609.12634) |
+| 2026-09-10 | RodForesight: A World Model Enhanced Diffusion Policy for Slender Rod Insertion | Chuanbo Yu, Mingyu Yue, Yan Lyu, Chuhan Song et al. | [Abstract](https://arxiv.org/abs/2609.12103) · [PDF](https://arxiv.org/pdf/2609.12103) |
+| 2026-09-10 | ObstaDiff: Generalizable Diffusion Policy Learning via Obstacle-aware Representations | Jiawen Wang, Kevin Yao, Khalid Jawed | [Abstract](https://arxiv.org/abs/2609.10918) · [PDF](https://arxiv.org/pdf/2609.10918) |
+| 2026-09-10 | LTLDiff: Finite Linear Temporal Logic-Guided Data Generation and Diffusion Policies for Multi-agent Robotic Manipulation | Chuhan Meng, Haiyan Yin | [Abstract](https://arxiv.org/abs/2609.11043) · [PDF](https://arxiv.org/pdf/2609.11043) |
+| 2026-09-10 | DIA: Denoising Intermediate Advantage for Diffusion Policy Optimization | Arjun Sohal, Yuchi Zhao, Miroslav Bogdanovic, Alan Aspuru-Guzik | [Abstract](https://arxiv.org/abs/2609.12245) · [PDF](https://arxiv.org/pdf/2609.12245) |
+| 2026-09-10 | Attention-DP3: Spatially Object-aware 3D Diffusion Policy via Geometry-aligned Attentional Conditioning | Changbo Yan, Zhongbo Zhang, Zaibin Zhang, Yifan Wang et al. | [Abstract](https://arxiv.org/abs/2609.13318) · [PDF](https://arxiv.org/pdf/2609.13318) |
+| 2026-09-06 | MemCorr-DP: Counterfactual Correspondence Conditioning for a Diffusion Policy Guided by a Reference | Tan Su, Haoxiang Yang, Ruxin Wang, Binghui Xie | [Abstract](https://arxiv.org/abs/2609.06615) · [PDF](https://arxiv.org/pdf/2609.06615) |
+| 2026-09-04 | Dressing in Motion: A Human Motion-Aware Diffusion Policy for Robot-Assisted Dressing | Haoxiang Sun, Fangyuan Wang, Songhao Huang, Justina Y. W. Liu et al. | [Abstract](https://arxiv.org/abs/2609.04759) · [PDF](https://arxiv.org/pdf/2609.04759) |
 | 2026-08-22 | Contact-Rich Robotic Manipulation in Construction via Zero-Shot Learning: A Diffusion Policy-Guided Adaptive Control | Roman Ibrahimov, Salma Mozaffari, Arash Adel | [Abstract](https://arxiv.org/abs/2608.22100) · [PDF](https://arxiv.org/pdf/2608.22100) |
 | 2026-08-06 | VIDP: Variable Impedance Diffusion Policy for Compliant Robot Manipulation from Diverse Demonstrations | Hisham Khalil, Neil Fernandes, Thomas M. Kwok, Hsiu-Chin Lin et al. | [Abstract](https://arxiv.org/abs/2608.06210) · [PDF](https://arxiv.org/pdf/2608.06210) |
 | 2026-08-06 | SkillMemo: Expert-guided Skill Memory Framework for Compositional Embodied Manipulation | Changyuan Wang, Chubin Zhang, Zhenyu Wu, Runhao Li et al. | [Abstract](https://arxiv.org/abs/2608.05970) · [PDF](https://arxiv.org/pdf/2608.05970) |

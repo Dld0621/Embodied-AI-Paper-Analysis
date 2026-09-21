@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Multi-agent%20%26%20Social%20Navigation&specialty=Multi-robot%20Coordination#research-workbench)
 
-> 55 conference papers · 252 recent arXiv papers
+> 55 conference papers · 254 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -71,19 +71,27 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | DC-MRTA: Decentralized Multi-Robot Task Allocation and Navigation in Complex Environments | IROS · Navigation | [Paper](https://arxiv.org/pdf/2209.02865) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981353) |
 | 2022 | Polynomial Time Near-Time-Optimal Multi-Robot Path Planning in Three Dimensions with Applications to Large-Scale UAV Coordination | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2207.02735) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982231) |
 | 2022 | Scalable Online Coverage Path Planning for Multi-Robot Systems | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981213) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981213) |
-| 2022 | PropEM-L: Radio Propagation Environment Modeling and Learning for Communication-Aware Multi-Robot Exploration | RSS · Exploration | [Paper](https://arxiv.org/abs/2205.01267) · [Publisher](https://doi.org/10.48550/arXiv.2205.01267) |
+| 2022 | PropEM-L: Radio Propagation Environment Modeling and Learning for Communication-Aware Multi-Robot Exploration | RSS · Exploration | [Paper](https://arxiv.org/abs/2205.01267) · [Index](https://dblp.org/rec/journals/corr/abs-2205-01267) |
 | 2022 | Sub-1.5 Time-Optimal Multi-Robot Path Planning on Grids in Polynomial Time | RSS · Path Planning | [Paper](https://doi.org/10.15607/rss.2022.xviii.057) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.057) |
 
-## Recent arXiv papers (252)
+## Recent arXiv papers (254)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-16 | TRACER: Adaptive Multi-Robot Social Navigation via Joint Human-Response Prediction and Interaction-Aware Replanning | Lan Hu, Minghui Liwang, Wenbo Zhu, Xinlei Yi et al. | [Abstract](https://arxiv.org/abs/2609.18776) · [PDF](https://arxiv.org/pdf/2609.18776) |
+| 2026-09-16 | Asymptotically Optimal Multi-Robot Task and Motion Planning | Thi Thuy Ngan Duong, Cheuk Tung Shadow Yiu, Rahul Shome, Yoonchang Sung | [Abstract](https://arxiv.org/abs/2609.18813) · [PDF](https://arxiv.org/pdf/2609.18813) |
+| 2026-09-15 | Exact Fusion and Coordinated Exploration in Multi-Robot Active Inference | Peng Wu, Mohsen Imani, Amidu Kamara, Md Tamzeed Islam et al. | [Abstract](https://arxiv.org/abs/2609.17384) · [PDF](https://arxiv.org/pdf/2609.17384) |
+| 2026-09-13 | Learning Multi-Agent Task Assignment and Navigation in the Factory: from Simulation to Real Robots | Abdalwhab Bakheet Mohamed Abdalwhab, Giovanni Beltrame, David St-Onge | [Abstract](https://arxiv.org/abs/2609.14567) · [PDF](https://arxiv.org/pdf/2609.14567) |
+| 2026-09-11 | Communication-Constrained Multi-Robot Exploration With Adaptive Communication Windows | Ben Rossano, Jaein Lim, Jonathan P. How | [Abstract](https://arxiv.org/abs/2609.12502) · [PDF](https://arxiv.org/pdf/2609.12502) |
+| 2026-09-07 | D3ARC: Time-Critical Distributed Disaster Detection for Asynchronous Cooperative Multi-Robot Systems | Nikolaos Koursioumpas, Lina Magoula, Nancy Alonistioti, Ramin Khalili | [Abstract](https://arxiv.org/abs/2609.07350) · [PDF](https://arxiv.org/pdf/2609.07350) |
+| 2026-09-01 | Connectivity-Aware Graph Extension for Decentralized Multi-Robot Exploration | Béatrice Garcia Cegarra, Elena Vanneaux, Quentin Picard, David Filliat | [Abstract](https://arxiv.org/abs/2609.00804) · [PDF](https://arxiv.org/pdf/2609.00804) |
+| 2026-08-31 | Multi-robot Learning-based Informative Path Planning Using Spatio-Temporal Gaussian Process Kalman Filter | Muqing Cao, Yunwoo Lee, Junbin Yuan, Lorenzo Schenk et al. | [Abstract](https://arxiv.org/abs/2609.05515) · [PDF](https://arxiv.org/pdf/2609.05515) |
 | 2026-08-28 | Probabilistic Multi-Robot Gas Source Localization with Uncalibrated Sensors: A Distributed Estimation Approach | Wanting Jin, Marc Zoel Arias Mitjà, Alcherio Martinoli | [Abstract](https://arxiv.org/abs/2608.28214) · [PDF](https://arxiv.org/pdf/2608.28214) |
 | 2026-08-28 | Cooperative Risk-Aware Exploration in Heterogeneous Multi-Robot Systems Using Algorithmic Altruism | Brooks A. Butler, Jair Certório, João P. Hespanha, Magnus Egerstedt | [Abstract](https://arxiv.org/abs/2608.28409) · [PDF](https://arxiv.org/pdf/2608.28409) |
 | 2026-08-17 | Security of Foundation-Model-Powered Embodied Agents: Attack Surfaces, Attacks, Defenses, and Evaluation | Jiawei Liu, Jiacheng Guo, Tian Zhang, Yiwei Xu et al. | [Abstract](https://arxiv.org/abs/2608.16843) · [PDF](https://arxiv.org/pdf/2608.16843) |
 | 2026-08-07 | Complete, Scalable, and Robust Prioritized Planning for Multi-Robot Ordered Storage and Retrieval at Maximum Capacity | William Zhang, Tzvika Geft, Jingjin Yu, Kostas Bekris | [Abstract](https://arxiv.org/abs/2608.07734) · [PDF](https://arxiv.org/pdf/2608.07734) |
 | 2026-07-22 | Socially Consistent Multi-Robot Navigation Using Decoupled Planning and Trajectory Coordination | Matthew M. Sato, Kincho H. Law | [Abstract](https://arxiv.org/abs/2607.20772) · [PDF](https://arxiv.org/pdf/2607.20772) |
-| 2026-07-16 | Curvature-Constrained and Constant-Speed Distributed Simultaneous Arrival Control for Multi-Robot Systems | Zhouru Xiao, Yang Lu, Weijia Yao, Min Liu et al. | [Abstract](https://arxiv.org/abs/2607.14781) · [PDF](https://arxiv.org/pdf/2607.14781) |
+| 2026-07-16 | Simultaneous Arrival Control for Distributed Multi-Robot Systems with Curvature and Constant-Speed Constraints | Zhouru Xiao, Yang Lu, Weijia Yao, Min Liu et al. | [Abstract](https://arxiv.org/abs/2607.14781) · [PDF](https://arxiv.org/pdf/2607.14781) |
 | 2026-07-15 | VAMP-MR: Vector-Accelerated Motion Planning and Execution for Multi-Robot-Arms | Philip Huang, Chenrui Gao, Jiaoyang Li | [Abstract](https://arxiv.org/abs/2607.13478) · [PDF](https://arxiv.org/pdf/2607.13478) |
 | 2026-07-15 | Active Trust Management for Successful Human-Robot Teaming: Moving from a Trust Repair to a Trust Satisficing Perspective | Nicola Webb, Edmund R. Hunt | [Abstract](https://arxiv.org/abs/2607.13595) · [PDF](https://arxiv.org/pdf/2607.13595) |
 | 2026-07-14 | Unveiling Complex Collective Behaviors from Simple Rewards | Yize Mi, Jianan Li, Liang Li, Shiyu Zhao | [Abstract](https://arxiv.org/abs/2607.12861) · [PDF](https://arxiv.org/pdf/2607.12861) |
@@ -324,12 +332,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-09-28 | db-CBS: Discontinuity-Bounded Conflict-Based Search for Multi-Robot Kinodynamic Motion Planning | Akmaral Moldagalieva, Joaquim Ortiz-Haro, Wolfgang Hönig | [Abstract](https://arxiv.org/abs/2309.16445) · [PDF](https://arxiv.org/pdf/2309.16445) |
 | 2023-09-26 | Multi-Robot Cooperative Socially-Aware Navigation Using Multi-Agent Reinforcement Learning | Weizheng Wang, Le Mao, Ruiqi Wang, Byung-Cheol Min | [Abstract](https://arxiv.org/abs/2309.15234) · [PDF](https://arxiv.org/pdf/2309.15234) |
 | 2023-09-23 | Communication-Constrained Multi-Robot Exploration with Intermittent Rendezvous | Alysson Ribeiro da Silva, Luiz Chaimowicz, Thales Costa Silva, Ani Hsieh | [Abstract](https://arxiv.org/abs/2309.13494) · [PDF](https://arxiv.org/pdf/2309.13494) |
-| 2023-09-19 | Fast-dRRT*: Efficient Multi-Robot Motion Planning for Automated Industrial Manufacturing | Andrey Solano, Arne Sieverling, Robert Gieselmann, Andreas Orthey | [Abstract](https://arxiv.org/abs/2309.10665) · [PDF](https://arxiv.org/pdf/2309.10665) |
-| 2023-09-18 | A Scalable Multi-Robot Framework for Decentralized and Asynchronous Perception-Action-Communication Loops | Saurav Agarwal, Frederic Vatnsdal, Romina Garcia Camargo, Vijay Kumar et al. | [Abstract](https://arxiv.org/abs/2309.10164) · [PDF](https://arxiv.org/pdf/2309.10164) |
-| 2023-09-16 | Graph-based Decentralized Task Allocation for Multi-Robot Target Localization | Juntong Peng, Hrishikesh Viswanath, Aniket Bera | [Abstract](https://arxiv.org/abs/2309.08896) · [PDF](https://arxiv.org/pdf/2309.08896) |
-| 2023-09-16 | Asynchronous Task Plan Refinement for Multi-Robot Task and Motion Planning | Yoonchang Sung, Rahul Shome, Peter Stone | [Abstract](https://arxiv.org/abs/2309.08897) · [PDF](https://arxiv.org/pdf/2309.08897) |
-| 2023-09-13 | Multi-Robot Informative Path Planning from Regression with Sparse Gaussian Processes (with Appendix) | Kalvik Jakkala, Srinivas Akella | [Abstract](https://arxiv.org/abs/2309.07050) · [PDF](https://arxiv.org/pdf/2309.07050) |
-| 2023-09-11 | MAPS$^2$: Multi-Robot Autonomous Motion Planning under Signal Temporal Logic Specifications | Mayank Sewlia, Christos K. Verginis, Dimos V. Dimarogonas | [Abstract](https://arxiv.org/abs/2309.05632) · [PDF](https://arxiv.org/pdf/2309.05632) |
 
 ---
 
