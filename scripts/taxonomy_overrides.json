@@ -1,0 +1,242 @@
+{
+  "dexmachina functional retargeting for bimanual dexterous manipulation": {
+    "title": "DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Abstract defines functional transfer of human hand-object demonstrations to object-state tracking policies.",
+    "related_topics": [
+      "Hand Retargeting",
+      "Bimanual",
+      "Contact-rich"
+    ]
+  },
+  "spider scalable physics informed dexterous retargeting": {
+    "title": "SPIDER: Scalable Physics-Informed Dexterous Retargeting",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Physics & Dynamics Retargeting"
+    ],
+    "reason": "Abstract defines physics-based conversion to dynamically feasible robot trajectories for hands and humanoids.",
+    "related_topics": [
+      "Hand Retargeting",
+      "Whole-body Retargeting"
+    ]
+  },
+  "geometric retargeting a principled ultrafast neural hand retargeting algorithm": {
+    "title": "Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Kinematic & Pose Retargeting"
+    ],
+    "reason": "Abstract describes human finger-keypoint to robot hand-keypoint mapping.",
+    "related_topics": []
+  },
+  "anydexrt calibration free dexterous hand retargeting with few shot human guidance": {
+    "title": "AnyDexRT: Calibration-Free Dexterous Hand Retargeting with Few-Shot Human Guidance",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Kinematic & Pose Retargeting"
+    ],
+    "reason": "Abstract describes kinematic human-to-hand mapping and fingertip correspondence.",
+    "related_topics": []
+  },
+  "analyzing key objectives in human to robot retargeting for dexterous manipulation": {
+    "title": "Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Kinematic & Pose Retargeting"
+    ],
+    "reason": "Abstract compares kinematic posture retargeting objectives on robot hands.",
+    "related_topics": []
+  },
+  "dexflow a unified approach for dexterous hand pose retargeting and interaction": {
+    "title": "DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and Interaction",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Abstract describes pose transfer with contact maps and hand-object interaction refinement.",
+    "related_topics": []
+  },
+  "kinematic motion retargeting for contact rich anthropomorphic manipulations": {
+    "title": "Kinematic Motion Retargeting for Contact-Rich Anthropomorphic Manipulations",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Abstract describes non-isometric hand shape matching preserving surface contacts.",
+    "related_topics": []
+  },
+  "dextwist dexterous hand retargeting for twist motion via mixed reality based teleoperation": {
+    "title": "DexTwist: Dexterous Hand Retargeting for Twist Motion via Mixed Reality-based Teleoperation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Abstract optimizes turning progress, screw-axis consistency and tripod contact.",
+    "related_topics": []
+  },
+  "toporetarget interaction preserving retargeting for dexterous manipulation": {
+    "title": "TopoRetarget: Interaction-Preserving Retargeting for Dexterous Manipulation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Abstract preserves hand-object interaction graph and contact geometry.",
+    "related_topics": []
+  },
+  "morphometric imitation from morphology and contact aware hand retargeting to sim to real visuomotor policy": {
+    "title": "Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Abstract uses morphometric optimization to preserve demonstrated contacts before residual RL.",
+    "related_topics": []
+  },
+  "reforce learning force aware retargeting for dexterous manipulation": {
+    "title": "ReForce: Learning Force-aware Retargeting for Dexterous Manipulation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Physics & Dynamics Retargeting"
+    ],
+    "reason": "Abstract transfers forces and contact through a learned force tracker.",
+    "related_topics": []
+  },
+  "flashdexretarget accelerating dexterous manipulation data generation through multi motion retargeting": {
+    "title": "FlashDexRetarget: Accelerating Dexterous Manipulation Data Generation through Multi-Motion Retargeting",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Physics & Dynamics Retargeting"
+    ],
+    "reason": "Abstract uses RL to generate physically feasible dexterous trajectories at scale.",
+    "related_topics": []
+  },
+  "a minimalist retargeting guided reinforcement learning recipe for dexterous manipulation": {
+    "title": "A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Physics & Dynamics Retargeting"
+    ],
+    "reason": "Abstract uses a retargeted hand-object reference and residual RL for feasible contact-rich skills.",
+    "related_topics": []
+  },
+  "c2dex contact consistent reconstruction and retargeting for dexterous manipulation from monocular video": {
+    "title": "C2Dex: Contact-Consistent Reconstruction and Retargeting for Dexterous Manipulation from Monocular Video",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Abstract uses stable object-side contacts as explicit cross-hand transfer targets.",
+    "related_topics": []
+  },
+  "dexterous robot manipulation from human demonstrations via contact anchored retargeting and residual policy learning": {
+    "title": "Dexterous Robot Manipulation from Human Demonstrations via Contact-Anchored Retargeting and Residual Policy Learning",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Abstract identifies preserved contact structure as the embodiment-independent transfer objective.",
+    "related_topics": []
+  },
+  "objretarget an object aware motion retargeting framework with anthropomorphic arm constraints and polyhedral hand modeling": {
+    "title": "ObjRetarget: An Object-Aware Motion Retargeting Framework with Anthropomorphic Arm Constraints and Polyhedral Hand Modeling",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Abstract preserves multifinger contact geometry through polytope representations.",
+    "related_topics": []
+  },
+  "smooth operator a real time sampling based algorithm for kinematic hand retargeting": {
+    "title": "Smooth Operator: A Real-Time Sampling-Based Algorithm for Kinematic Hand Retargeting",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Kinematic & Pose Retargeting"
+    ],
+    "reason": "Abstract develops a low-jitter sampling-based kinematic hand retargeter.",
+    "related_topics": []
+  },
+  "kilohertz safe a scalable framework for constrained dexterous retargeting": {
+    "title": "Kilohertz-Safe: A Scalable Framework for Constrained Dexterous Retargeting",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Kinematic & Pose Retargeting"
+    ],
+    "reason": "Abstract describes joint-differential-space kinematic mapping with linearized constraints.",
+    "related_topics": []
+  },
+  "dexterous teleoperation of 20 dof bytedexter hand via human motion retargeting": {
+    "title": "Dexterous Teleoperation of 20-DoF ByteDexter Hand via Human Motion Retargeting",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Kinematic & Pose Retargeting"
+    ],
+    "reason": "Abstract describes optimization-based hand motion retargeting for a hand-arm interface.",
+    "related_topics": []
+  },
+  "dextele a dual arm dexterous teleoperation system based on motion retargeting and adaptive force control": {
+    "title": "DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Kinematic & Pose Retargeting"
+    ],
+    "reason": "Abstract separates motion retargeting from a downstream adaptive grasp-force module.",
+    "related_topics": []
+  },
+  "pose retargeting from a single rgb camera optimization based hand pose retargeting and wrist pose estimation": {
+    "title": "Pose Retargeting from a Single RGB Camera: Optimization-Based Hand Pose Retargeting and Wrist Pose Estimation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Kinematic & Pose Retargeting"
+    ],
+    "reason": "Title explicitly identifies optimization-based hand-pose retargeting.",
+    "related_topics": []
+  },
+  "egoinfinity a web scale 4d hand object interaction data engine for any view robot retargeting and video to action robot learning": {
+    "title": "EgoInfinity: A Web-Scale 4D Hand-Object Interaction Data Engine for Any-View Robot Retargeting and Video-to-Action Robot Learning",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Synthetic & Augmented Data",
+      "Cross-robot Data Conversion"
+    ],
+    "reason": "Abstract presents a modular data engine; hand retargeting is a related module.",
+    "related_topics": [
+      "Hand Retargeting"
+    ]
+  },
+  "hograspflow taxonomy aware hand object retargeting for multi modal se 3 grasp generation": {
+    "title": "HOGraspFlow: Taxonomy-Aware Hand-Object Retargeting for Multi-Modal SE(3) Grasp Generation",
+    "path": [
+      "Arm & General Object Manipulation",
+      "Grasping & Pick-place",
+      "Gripper & Suction Grasp Planning"
+    ],
+    "reason": "Abstract explicitly generates parallel-jaw grasps rather than multifinger hand motion.",
+    "excluded_topics": ["Hand Retargeting"],
+    "related_topics": []
+  }
+}

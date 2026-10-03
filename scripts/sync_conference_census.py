@@ -25,6 +25,7 @@ from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
 from taxonomy import annotate_paper, hierarchy_counts, taxonomy_metadata
+from taxonomy import TRACKS, TRACK_META
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -286,8 +287,7 @@ def build_catalog(catalog: dict[str, Any]) -> tuple[dict[str, Any], dict[str, in
         }
 
     for paper in by_title.values():
-        if not all(paper.get(field) for field in ("subcategory", "specialty", "taxonomy_evidence")):
-            annotate_paper(paper)
+        annotate_paper(paper, paper.get("abstract", ""))
     papers = sorted(
         by_title.values(),
         key=lambda paper: (-paper["year"], paper["track"], paper["venue"], paper["title"].casefold()),
@@ -298,6 +298,8 @@ def build_catalog(catalog: dict[str, Any]) -> tuple[dict[str, Any], dict[str, in
     catalog.update(
         {
             "schema_version": 4,
+            "tracks": TRACKS,
+            "track_meta": TRACK_META,
             "scope": (
                 "Systematic conference census under the repository's explicit venue, year, "
                 "Embodied AI keyword, and exclusion rules; semantically bounded rather than universal."
@@ -306,9 +308,9 @@ def build_catalog(catalog: dict[str, Any]) -> tuple[dict[str, Any], dict[str, in
                 "discovery_source": "Semantic Scholar bulk search API",
                 "query": "robot",
                 "classification": (
-                    "Level 1 is assigned by the conference admission rules in "
-                    "scripts/sync_conference_census.py. Levels 2 and 3 use the stored title, "
-                    "topic, and abstract evidence in scripts/taxonomy.py."
+                    "Source admission uses scripts/sync_conference_census.py; all three "
+                    "organization levels and cross-topic tags use scripts/taxonomy.py "
+                    "and reviewed exceptions. admission_track preserves the discovery label."
                 ),
                 "taxonomy_version": taxonomy_metadata()["version"],
                 "seed_policy": "Hand-verified records override discovered duplicates",

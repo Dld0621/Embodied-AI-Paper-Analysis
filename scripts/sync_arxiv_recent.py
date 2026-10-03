@@ -3,8 +3,8 @@
 
 The discovery boundary is every arXiv record whose primary or cross-listed
 category matches cs.RO and whose original submission date falls in the three
-years ending on the execution date. Records are assigned to one of the seven
-research directions by a deterministic title/abstract taxonomy.
+years ending on the execution date. Legacy admission rules remain separate
+from the nine-direction contribution-oriented organization and review status.
 
 The arXiv API is paged conservatively and requests are separated by at least
 three seconds, following the API manual. This script is intentionally separate
@@ -30,6 +30,7 @@ import xml.etree.ElementTree as ET
 
 from sync_conference_census import EXCLUDED_TERMS, TRACK_RULES, normalized_title
 from taxonomy import annotate_paper, hierarchy_counts, taxonomy_metadata
+from taxonomy import TRACKS
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -392,8 +393,7 @@ def fetch_records(page_size: int, max_records: int | None = None) -> tuple[list[
 
 def build_payload(records: list[dict[str, Any]], candidate_count: int) -> dict[str, Any]:
     for paper in records:
-        if not all(paper.get(field) for field in ("subcategory", "specialty", "taxonomy_evidence")):
-            annotate_paper(paper)
+        annotate_paper(paper, paper.get("abstract", ""))
     conference = json.loads(CONFERENCE_PATH.read_text(encoding="utf-8"))
     conference_titles = {normalized_title(paper["title"]) for paper in conference["papers"]}
     arxiv_titles = [normalized_title(paper["title"]) for paper in records]
@@ -413,7 +413,8 @@ def build_payload(records: list[dict[str, Any]], candidate_count: int) -> dict[s
         "window": {"start": START_DATE, "end": END_DATE, "years": WINDOW_YEARS},
         "scope": (
             f"Every arXiv cs.RO record submitted from {START_DATE} through {END_DATE} "
-            "that is admitted by the repository's deterministic seven-direction title/abstract taxonomy."
+            "that is admitted by the unchanged source rules and organized by "
+            "the nine-direction contribution taxonomy."
         ),
         "source": {
             "name": "arXiv API",
@@ -433,16 +434,16 @@ def build_payload(records: list[dict[str, Any]], candidate_count: int) -> dict[s
             "arxiv_normalized_title_duplicates": arxiv_title_duplicates,
             "combined_unique_records": combined_unique_records,
             "classification": (
-                "Level 1 uses the title/abstract admission rules in "
-                "scripts/sync_arxiv_recent.py. Levels 2 and 3 use the stored title, "
-                "topic, and abstract evidence in scripts/taxonomy.py."
+                "Source admission uses scripts/sync_arxiv_recent.py; all three "
+                "organization levels and cross-topic tags use scripts/taxonomy.py "
+                "and reviewed exceptions. admission_track preserves the discovery label."
             ),
             "taxonomy_version": taxonomy_metadata()["version"],
             "snapshot_date": END_DATE,
             "track_counts": dict(sorted(track_counts.items())),
             "year_counts": {str(year): count for year, count in sorted(year_counts.items())},
         },
-        "tracks": conference["tracks"],
+        "tracks": TRACKS,
         "taxonomy": taxonomy_metadata(),
         "taxonomy_counts": hierarchy_counts(records),
         "papers": records,

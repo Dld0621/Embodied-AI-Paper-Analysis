@@ -12,12 +12,12 @@ const I18N = {
     year: "Year", venue: "Venue", track: "Research track", subcategory: "Subfield · Level 2", specialty: "Specialty · Level 3", chooseTrack: "Select a research track to reveal its subfields.", chooseSubcategory: "Select a subfield to reveal its specialties.", sourceTier: "Source tier", all: "All", results: "matching papers", showing: "showing", loadMore: "Load 120 more",
     official: "Official", publisher: "Publisher", index: "Index", arxiv: "arXiv", paper: "Paper", abstract: "Abstract", source: "Source", pdf: "PDF", code: "Code", leafCatalog: "Leaf catalog", save: "Save paper", remove: "Remove from reading list",
     emptyTitle: "No papers match this view.", emptyLead: "Broaden the filters or return to the complete catalog.", exportNote: "Exports include authors when supplied by arXiv; unavailable conference-author metadata is never inferred.",
-    directionKicker: "Research map", directionTitle: "Seven directions. Forty subfields. Two hundred paper destinations.", directionLead: "Expand any level-2 subfield to inspect its level-3 specialties, then open the papers assigned to that exact taxonomy path.",
+    directionKicker: "Research map", directionTitle: "Nine directions. Contribution-oriented paper navigation.", directionLead: "Expand any level-2 subfield to inspect its level-3 specialties, then open the papers assigned to that exact taxonomy path.",
     pipeline: "Research pipeline", subfieldMap: "Level-2 → level-3 map", specialtyCount: "leaf catalogs", conferenceLayer: "Conference", arxivLayer: "arXiv 3 years", openConference: "Open conference papers", openArxiv: "Open recent arXiv",
     policyKicker: "Census contract", policyTitle: "Transparent enough to inspect. Stable enough to reproduce.", policyLead: "Completeness is measured against published operational boundaries—not an undefined claim to every paper anyone might call Embodied AI.", readMethod: "Read the full methodology",
     policyOneTitle: "Two explicit windows", policyOneBody: "A rolling five-year conference census and a rolling three-year arXiv window.",
     policyTwoTitle: "Reproducible discovery", policyTwoBody: "Ten conference indexes are paired with a complete arXiv cs.RO candidate harvest.",
-    policyThreeTitle: "Deterministic classification", policyThreeBody: "Published rules assign one auditable direction → subfield → specialty path; unsupported fine-grained claims remain General / Cross-cutting.",
+    policyThreeTitle: "Deterministic classification", policyThreeBody: "Published rules assign one auditable direction → subfield → specialty path; unsupported fine-grained claims remain Pending specialty review.",
     policyFourTitle: "Separated provenance", policyFourBody: "Official, publisher, index, and arXiv records remain visibly distinct; preprints are never presented as acceptances.",
     footerLine: "Open infrastructure for rigorous literature work.", contribute: "Contribute", copied: "Shareable view copied", saved: "Added to reading list", removed: "Removed from reading list",
     markdownExported: "Markdown exported", csvExported: "CSV exported", columnPaper: "Paper", columnYear: "Year", columnVenue: "Venue", columnSource: "Provenance", columnActions: "Links"
@@ -35,12 +35,12 @@ const I18N = {
     year: "年份", venue: "会议", track: "一级研究方向", subcategory: "二级子领域", specialty: "三级研究专题", chooseTrack: "请先选择一级研究方向，再查看二级子领域。", chooseSubcategory: "请选择二级子领域，再查看三级专题。", sourceTier: "来源层级", all: "全部", results: "篇匹配论文", showing: "当前显示", loadMore: "再加载 120 篇",
     official: "官方", publisher: "出版社", index: "文献索引", arxiv: "arXiv", paper: "论文", abstract: "摘要页", source: "来源", pdf: "PDF", code: "代码", leafCatalog: "最细目录", save: "加入阅读清单", remove: "从阅读清单移除",
     emptyTitle: "当前视图没有匹配论文。", emptyLead: "请放宽筛选条件，或返回完整目录。", exportNote: "arXiv 提供作者时会随结果导出；顶会层缺失的作者信息不会被推测或补造。",
-    directionKicker: "研究地图", directionTitle: "七个一级方向，四十个二级子领域，两百个论文落点。", directionLead: "展开任一二级子领域即可查看三级专题，并直接打开精确归入该路径的论文。",
+    directionKicker: "研究地图", directionTitle: "九个一级方向，按研究问题逐级定位论文。", directionLead: "展开任一二级子领域即可查看三级专题，并直接打开精确归入该路径的论文。",
     pipeline: "研究流程", subfieldMap: "二级 → 三级分类图", specialtyCount: "个最细目录", conferenceLayer: "顶会", arxivLayer: "arXiv 近三年", openConference: "打开顶会论文", openArxiv: "打开近三年 arXiv",
     policyKicker: "普查契约", policyTitle: "足够透明以供审查，足够稳定以便复现。", policyLead: "完整性以公开的操作性边界衡量，而不是声称覆盖所有人可能称为具身智能的论文。", readMethod: "阅读完整方法",
     policyOneTitle: "两个明确窗口", policyOneBody: "滚动五年顶会普查，以及滚动三年 arXiv 日期窗口。",
     policyTwoTitle: "可复现发现", policyTwoBody: "十个固定顶会索引与 arXiv cs.RO 全部候选收集并行维护。",
-    policyThreeTitle: "确定性分类", policyThreeBody: "公开规则为每篇论文分配“方向 → 子领域 → 专题”路径；证据不足时诚实保留为“综合与交叉研究”。",
+    policyThreeTitle: "确定性分类", policyThreeBody: "公开规则为每篇论文分配“方向 → 子领域 → 专题”路径；证据不足时诚实保留为“待审专题”。",
     policyFourTitle: "来源严格分层", policyFourBody: "官方、出版社、文献索引与 arXiv 始终分别显示；预印本不会被包装成顶会录用。",
     footerLine: "服务严谨文献研究的开放基础设施。", contribute: "参与贡献", copied: "可分享视图已复制", saved: "已加入阅读清单", removed: "已从阅读清单移除",
     markdownExported: "Markdown 已导出", csvExported: "CSV 已导出", columnPaper: "论文", columnYear: "年份", columnVenue: "会议", columnSource: "来源", columnActions: "链接"
@@ -71,6 +71,15 @@ const state = {
   year: "all", venue: "all", track: "all", subcategory: "all", specialty: "all", source: "all", query: "", sort: "latest",
   view: "all", visible: PAGE_SIZE, saved: loadSaved()
 };
+Object.assign(state, Object.fromEntries([...TaxonomyFilters.fields, "classification_status"].map((field) => [field, "all"])));
+Object.assign(I18N.en, { method_tags: "Method tags", embodiment_tags: "Robot embodiment", data_tags: "Data tags", related_topics: "Related topics", classification_status: "Classification review", reviewed: "Title/abstract reviewed", "rule-assigned": "Rule assigned", "needs-review": "Needs review", taxonomyGuide: "Classification guide", reviewQueue: "Review queue" });
+Object.assign(I18N.zh, { method_tags: "方法标签", embodiment_tags: "机器人形态", data_tags: "数据标签", related_topics: "关联主题（跨分类）", classification_status: "分类审核状态", reviewed: "标题/摘要已核查", "rule-assigned": "规则归类", "needs-review": "待人工复核", taxonomyGuide: "分类说明", reviewQueue: "待审清单" });
+const facetFields = [...TaxonomyFilters.fields, "classification_status"];
+function facetName(field, value) {
+  if (field === "classification_status") return label(value);
+  return state.language === "zh" ? state.catalog.taxonomy.facets[field][value]?.name_zh || value : value;
+}
+function resetFacets() { for (const field of facetFields) state[field] = "all"; }
 
 function number(value) {
   return new Intl.NumberFormat(state.language === "zh" ? "zh-CN" : "en-US").format(value);
@@ -130,15 +139,7 @@ function counts(items, field) {
 }
 
 function combinedUniquePapers() {
-  const seen = new Set();
-  const combined = [];
-  for (const paper of [...state.conferencePapers, ...state.arxivPapers]) {
-    const key = normalizedTitle(paper.title);
-    if (!key || seen.has(key)) continue;
-    seen.add(key);
-    combined.push(paper);
-  }
-  return combined;
+  return TaxonomyFilters.combine(state.conferencePapers, state.arxivPapers);
 }
 
 function basePapers() {
@@ -262,13 +263,18 @@ function renderFilters() {
   $("#source-type-filters").innerHTML = chip("all", label("all"), state.source === "all", "source", universe.length) + sourceTypes.map((type) => chip(type, sourceName(type), state.source === type, "source", sourceCounts.get(type))).join("");
   document.querySelectorAll("[data-view]").forEach((button) => { button.setAttribute("aria-pressed", String(button.dataset.view === state.view)); });
   $("#sort-select").value = state.sort;
+  $("#facet-filters").innerHTML = facetFields.map((field) => {
+    const values = field === "classification_status" ? state.catalog.taxonomy.review_statuses : Object.keys(state.catalog.taxonomy.facets[field]);
+    return `<fieldset class="filter-group facet-filter"><legend>${escapeHtml(label(field))}</legend><select data-facet="${field}" aria-label="${escapeHtml(label(field))}"><option value="all">${label("all")}</option>${values.map((value) => `<option value="${escapeHtml(value)}" ${state[field] === value ? "selected" : ""}>${escapeHtml(facetName(field, value))}</option>`).join("")}</select></fieldset>`;
+  }).join("");
 }
 
 function filteredPapers() {
   const query = state.query.trim().toLocaleLowerCase();
   const items = basePapers().filter((paper) => {
     const authors = (paper.authors || []).join(" ");
-    const haystack = `${paper.title} ${authors} ${paper.topic} ${paper.track} ${paper.subcategory} ${paper.specialty} ${paper.venue}`.toLocaleLowerCase();
+    const tags = TaxonomyFilters.fields.flatMap((field) => (paper[field] || []).flatMap((tag) => [tag, facetName(field, tag)])).join(" ");
+    const haystack = `${paper.title} ${authors} ${paper.topic} ${paper.track} ${trackName(paper.track)} ${paper.subcategory} ${subcategoryName(paper.track, paper.subcategory)} ${paper.specialty} ${specialtyName(paper.track, paper.subcategory, paper.specialty)} ${paper.venue} ${tags}`.toLocaleLowerCase();
     return (state.view === "all" || state.saved.has(paperKey(paper))) &&
       (state.year === "all" || String(paper.year) === String(state.year)) &&
       (state.venue === "all" || paper.venue === state.venue) &&
@@ -276,6 +282,7 @@ function filteredPapers() {
       (state.subcategory === "all" || paper.subcategory === state.subcategory) &&
       (state.specialty === "all" || paper.specialty === state.specialty) &&
       (state.source === "all" || paper.source_type === state.source) &&
+      TaxonomyFilters.matches(paper, state) &&
       (!query || haystack.includes(query));
   });
   return items.sort((a, b) => {
@@ -306,13 +313,14 @@ function renderPapers() {
     const saved = state.saved.has(key);
     const authors = paper.authors?.length ? `<i>·</i><span class="paper-authors">${escapeHtml(paper.authors.slice(0, 5).join(", "))}${paper.authors.length > 5 ? " et al." : ""}</span>` : "";
     const taxonomy = `<a href="${escapeHtml(taxonomyHref(paper, 1))}">${escapeHtml(trackName(paper.track))}</a><i>›</i><a href="${escapeHtml(taxonomyHref(paper, 2))}">${escapeHtml(subcategoryName(paper.track, paper.subcategory))}</a><i>›</i><a href="${escapeHtml(taxonomyHref(paper, 3))}">${escapeHtml(specialtyName(paper.track, paper.subcategory, paper.specialty))}</a>`;
+    const annotations = `<details class="paper-annotations"><summary>${escapeHtml(label(paper.classification_status))}</summary><p>${escapeHtml(paper.primary_evidence || paper.taxonomy_evidence)}</p><div>${TaxonomyFilters.fields.flatMap((field) => (paper[field] || []).map((value) => `<button type="button" data-filter="${field}" data-value="${escapeHtml(value)}">${escapeHtml(facetName(field, value))}</button>`)).join("")}</div></details>`;
     const code = paper.code_url ? `<a href="${escapeHtml(paper.code_url)}" target="_blank" rel="noopener">${label("code")} ↗</a>` : "";
     const links = paper.source_type === "arxiv"
       ? `<a class="primary-link" href="${escapeHtml(paper.paper_url)}" target="_blank" rel="noopener">${label("abstract")} ↗</a><a href="${escapeHtml(paper.pdf_url)}" target="_blank" rel="noopener">${label("pdf")} ↗</a>`
       : `<a class="primary-link" href="${escapeHtml(paper.paper_url)}" target="_blank" rel="noopener">${label("paper")} ↗</a><a href="${escapeHtml(paper.official_url)}" target="_blank" rel="noopener">${label("source")} ↗</a>${code}`;
     return `<article class="paper-row" role="row">
       <div role="cell"><button class="save-button" type="button" data-save-key="${escapeHtml(key)}" aria-pressed="${saved}" aria-label="${escapeHtml(saved ? label("remove") : label("save"))}" title="${escapeHtml(saved ? label("remove") : label("save"))}"><span aria-hidden="true">${saved ? "●" : "○"}</span></button></div>
-      <div class="paper-identity" role="cell"><a href="${escapeHtml(paper.paper_url)}" target="_blank" rel="noopener"><strong>${escapeHtml(paper.title)}</strong></a><span class="paper-taxonomy">${taxonomy}</span><span class="paper-detail">${escapeHtml(paper.topic)}${authors}</span></div>
+      <div class="paper-identity" role="cell"><a href="${escapeHtml(paper.paper_url)}" target="_blank" rel="noopener"><strong>${escapeHtml(paper.title)}</strong></a><span class="paper-taxonomy">${taxonomy}</span><span class="paper-detail">${escapeHtml(paper.topic)}${authors}</span>${annotations}</div>
       <div class="paper-year" role="cell"><span class="mobile-label">${label("year")}</span>${paper.published || paper.year}</div>
       <div class="paper-venue" role="cell"><span class="mobile-label">${label("venue")}</span><strong>${escapeHtml(paper.venue)}</strong></div>
       <div class="paper-source" role="cell"><span class="mobile-label">${label("sourceTier")}</span><a href="${escapeHtml(paper.official_url)}" target="_blank" rel="noopener"><i class="tier-dot ${escapeHtml(paper.source_type)}"></i>${sourceName(paper.source_type)}</a></div>
@@ -345,6 +353,7 @@ function updateUrl() {
   if (state.sort !== "latest") params.set("sort", state.sort);
   if (state.view !== "all") params.set("view", state.view);
   if (state.language !== "en") params.set("lang", state.language);
+  for (const field of facetFields) if (state[field] !== "all") params.set(field, state[field]);
   const query = params.toString();
   history.replaceState(null, "", `${location.pathname}${query ? `?${query}` : ""}${location.hash}`);
 }
@@ -370,6 +379,10 @@ function readUrlState() {
   if (["all", "saved"].includes(params.get("view"))) state.view = params.get("view");
   if (["en", "zh"].includes(params.get("lang"))) state.language = params.get("lang");
   state.query = params.get("q") || "";
+  for (const field of facetFields) {
+    const allowed = field === "classification_status" ? state.catalog.taxonomy.review_statuses : Object.keys(state.catalog.taxonomy.facets[field]);
+    if (allowed.includes(params.get(field))) state[field] = params.get(field);
+  }
   $("#paper-search").value = state.query;
 }
 
@@ -382,6 +395,7 @@ function setView(view) {
 }
 
 function clearFilters() {
+  resetFacets();
   Object.assign(state, { corpus: "all", year: "all", venue: "all", track: "all", subcategory: "all", specialty: "all", source: "all", query: "", sort: "latest", view: "all", visible: PAGE_SIZE });
   $("#paper-search").value = "";
   renderFilters();
@@ -425,8 +439,8 @@ function exportMarkdown() {
   const escapeCell = (value) => String(value || "").replace(/\|/g, "\\|").replace(/\r?\n/g, " ");
   const lines = [
     "# Embodied AI Research View", "", `> ${items.length} papers · exported ${new Date().toISOString().slice(0, 10)}`, "",
-    "| Date | Venue | Paper | Authors | Direction | Subfield | Specialty | Topic | Provenance |", "|---|---|---|---|---|---|---|---|---|",
-    ...items.map((paper) => `| ${paper.published || paper.year} | ${escapeCell(paper.venue)} | [${escapeCell(paper.title)}](${paper.paper_url}) | ${escapeCell((paper.authors || []).join(", "))} | ${escapeCell(paper.track)} | ${escapeCell(paper.subcategory)} | ${escapeCell(paper.specialty)} | ${escapeCell(paper.topic)} | [${paper.source_type}](${paper.official_url}) |`),
+    "| Date | Venue | Paper | Authors | Direction | Subfield | Specialty | Topic | Provenance | Review | Evidence | Tags |", "|---|---|---|---|---|---|---|---|---|---|---|---|",
+    ...items.map((paper) => `| ${paper.published || paper.year} | ${escapeCell(paper.venue)} | [${escapeCell(paper.title)}](${paper.paper_url}) | ${escapeCell((paper.authors || []).join(", "))} | ${escapeCell(paper.track)} | ${escapeCell(paper.subcategory)} | ${escapeCell(paper.specialty)} | ${escapeCell(paper.topic)} | [${paper.source_type}](${paper.official_url}) | ${paper.classification_status} | ${escapeCell(paper.primary_evidence || paper.taxonomy_evidence)} | ${escapeCell(TaxonomyFilters.fields.map((field) => field + ": " + (paper[field] || []).join("; ")).join(" / "))} |`),
     "", "_Authors are included when supplied by the source; missing metadata is not inferred._", ""
   ];
   downloadFile("embodied-ai-research-view.md", lines.join("\n"), "text/markdown;charset=utf-8");
@@ -435,8 +449,8 @@ function exportMarkdown() {
 
 function exportCsv() {
   const quote = (value) => `"${String(value || "").replace(/"/g, '""')}"`;
-  const header = ["Title", "Authors", "Date", "Year", "Venue", "Corpus", "Track", "Subfield", "Specialty", "Topic", "Taxonomy Evidence", "Paper URL", "Source URL", "Source Type", "Code URL"];
-  const rows = filteredPapers().map((paper) => [paper.title, (paper.authors || []).join("; "), paper.published || "", paper.year, paper.venue, paper.corpus, paper.track, paper.subcategory, paper.specialty, paper.topic, paper.taxonomy_evidence, paper.paper_url, paper.official_url, paper.source_type, paper.code_url || ""]);
+  const header = ["Title", "Authors", "Date", "Year", "Venue", "Corpus", "Track", "Subfield", "Specialty", "Topic", "Taxonomy Evidence", "Paper URL", "Source URL", "Source Type", "Code URL", "Classification Status", "Primary Evidence", ...TaxonomyFilters.fields];
+  const rows = filteredPapers().map((paper) => [paper.title, (paper.authors || []).join("; "), paper.published || "", paper.year, paper.venue, paper.corpus, paper.track, paper.subcategory, paper.specialty, paper.topic, paper.taxonomy_evidence, paper.paper_url, paper.official_url, paper.source_type, paper.code_url || "", paper.classification_status, paper.primary_evidence, ...TaxonomyFilters.fields.map((field) => (paper[field] || []).join("; "))]);
   downloadFile("embodied-ai-research-view.csv", `\ufeff${[header, ...rows].map((row) => row.map(quote).join(",")).join("\r\n")}`, "text/csv;charset=utf-8");
   showToast(label("csvExported"));
 }
@@ -481,6 +495,7 @@ async function initialize() {
 document.addEventListener("click", (event) => {
   const directionButton = event.target.closest("[data-direction]");
   if (directionButton) {
+    resetFacets();
     Object.assign(state, { corpus: directionButton.dataset.corpus || "all", track: directionButton.dataset.direction, subcategory: directionButton.dataset.subcategory || "all", specialty: directionButton.dataset.specialty || "all", year: "all", venue: "all", source: "all", query: "", view: "all", visible: PAGE_SIZE });
     $("#paper-search").value = "";
     renderFilters();
@@ -513,6 +528,11 @@ document.addEventListener("click", (event) => {
 
 $("#paper-search").addEventListener("input", (event) => { state.query = event.target.value; state.visible = PAGE_SIZE; renderPapers(); updateUrl(); });
 $("#sort-select").addEventListener("change", (event) => { state.sort = event.target.value; state.visible = PAGE_SIZE; renderPapers(); updateUrl(); });
+$("#facet-filters").addEventListener("change", (event) => {
+  const field = event.target.dataset.facet;
+  if (!facetFields.includes(field)) return;
+  state[field] = event.target.value; state.visible = PAGE_SIZE; renderPapers(); updateUrl();
+});
 $("#clear-filters").addEventListener("click", clearFilters);
 $("#load-more").addEventListener("click", () => { state.visible += PAGE_SIZE; renderPapers(); });
 $("#header-saved").addEventListener("click", () => { setView("saved"); $("#research-workbench").scrollIntoView({ behavior: "smooth", block: "start" }); });

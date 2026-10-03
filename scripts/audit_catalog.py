@@ -155,20 +155,29 @@ def validate_taxonomy_layer(layer: dict, label: str) -> tuple[list[str], dict[st
             errors.append(f"{path_label}: unsupported level-3 taxonomy path")
         if not isinstance(evidence, str) or not evidence:
             errors.append(f"{path_label}: missing taxonomy evidence")
-        elif evidence.split(":", 1)[0] not in {"title", "topic", "abstract", "fallback"}:
+        elif evidence.split(":", 1)[0] not in {"title", "topic", "abstract", "fallback", "reviewed"}:
             errors.append(f"{path_label}: unsupported taxonomy evidence source")
+        if paper.get("classification_status") not in expected["review_statuses"]:
+            errors.append(f"{path_label}: missing or invalid review status")
+        for field, tags in expected["facets"].items():
+            values = paper.get(field)
+            if not isinstance(values, list) or len(values) != len(set(values)) or not set(values).issubset(tags):
+                errors.append(f"{path_label}: invalid {field}")
+        for related in paper.get("related_taxonomy_paths", []):
+            if related.get("subcategory") not in expected["tracks"].get(related.get("track"), {}).get("subcategories", {}):
+                errors.append(f"{path_label}: invalid related taxonomy path")
         observed_level_2.add((track, subcategory))
         general_count += specialty == GENERAL_SPECIALTY
         fallback_count += evidence == "fallback"
-    if observed_level_2 != declared_level_2:
-        missing = sorted(declared_level_2 - observed_level_2)
-        errors.append(f"{label}: level-2 subfields without records: {missing}")
+    # Empty approved categories are legitimate; do not manufacture assignments.
+    if not observed_level_2.issubset(declared_level_2):
+        errors.append(f"{label}: undeclared level-2 paths")
     if papers and general_count / len(papers) > 0.65:
         errors.append(f"{label}: more than 65% of papers lack named level-3 evidence")
     return errors, {
         "level_2_subfields": len(observed_level_2),
         "named_level_3_specialties": expected["specialty_count"],
-        "general_cross_cutting_records": general_count,
+        "pending_specialty_records": general_count,
         "fallback_records": fallback_count,
     }
 
@@ -331,7 +340,7 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
             "Direction coverage",
             "Three-level taxonomy",
         ),
-        "papers/taxonomy/README.md": ("7 directions", "40 level-2 subfields", "160 named level-3 specialties", "200 leaf paper catalogs"),
+        "papers/taxonomy/README.md": ("9 directions", "42 level-2 subfields", "126 named level-3 specialties", "168 leaf paper catalogs"),
     }.items():
         text = (ROOT / relative).read_text(encoding="utf-8")
         for marker in markers:

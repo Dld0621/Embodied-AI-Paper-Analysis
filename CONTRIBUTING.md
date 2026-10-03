@@ -19,7 +19,7 @@ Do not add workshop-only, withdrawn, under-review, or arXiv-only papers to the c
 
 ## Catalog workflow
 
-1. For bulk coverage changes, edit the venue/admission rules in `scripts/sync_conference_census.py` or the level-2/level-3 rules in `scripts/taxonomy.py`.
+1. For bulk coverage changes, edit the venue/admission rules in `scripts/sync_conference_census.py`. Classification structure belongs in `scripts/taxonomy_schema.json`; title/abstract-reviewed exceptions with reasons belong in `scripts/taxonomy_overrides.json`. For taxonomy-only changes, run `python scripts/apply_taxonomy.py` without refreshing the source harvest.
 2. Rebuild the conference snapshot:
 
    ```bash
@@ -28,7 +28,7 @@ Do not add workshop-only, withdrawn, under-review, or arXiv-only papers to the c
 
 3. Review random samples from every direction and compare venue discovery counts before accepting the generated diff.
 4. For a hand-verified exception, edit `data/papers.json`, use the conference year rather than the arXiv upload year, set `discovery_source` to `hand-verified seed`, and cite the best available source tier.
-5. Keep every research direction represented in every year from 2022 through 2026. If a direction's framing changes, update its bilingual `track_meta` question and four-stage pipeline as well.
+5. Keep the bilingual direction questions and pipelines consistent with `scripts/taxonomy_schema.json`. Report actual coverage, including empty categories; do not reassign papers to manufacture year or venue coverage.
 6. Refresh the three-year arXiv layer through the official API. Do not hand-edit bulk preprint records:
 
    ```bash
@@ -43,7 +43,7 @@ Do not add workshop-only, withdrawn, under-review, or arXiv-only papers to the c
    python scripts/render_catalog.py
    ```
 
-   The renderer owns `README.md`, `README.zh-CN.md`, and every page under `papers/taxonomy/`. Do not hand-edit generated homepages or leaf catalogs: both language versions must stay synchronized with the seven-direction taxonomy, each paper must be generated exactly once beneath its level-3 specialty, and oversized leaves are split automatically.
+   The renderer owns `README.md`, `README.zh-CN.md`, and every page under `papers/taxonomy/`. Do not hand-edit generated homepages or leaf catalogs: both language versions must stay synchronized with the nine-direction taxonomy, each paper must be generated exactly once beneath its level-3 specialty, and oversized leaves are split automatically.
 
 8. Run all repository checks:
 
@@ -53,12 +53,16 @@ Do not add workshop-only, withdrawn, under-review, or arXiv-only papers to the c
    python scripts/render_catalog.py --check
    python scripts/check_local_links.py
    python -m unittest discover -s tests -v
+   node --test tests/taxonomy-filters.test.cjs tests/workbench.test.cjs
    ```
 
 ## Analysis notes
 
 Manual catalog refresh receipts are retained separately from paper analyses:
 [2026-09-21 refresh and evidence boundaries](docs/catalog-refresh-2026-09-21.md).
+
+The approved nine-direction organization, reviewed exceptions and migration ledger are documented in
+[classification guide](docs/taxonomy-guide.md) and [2026-10-03 taxonomy migration](docs/taxonomy-migration-2026-10-03.md).
 
 Use [`docs/paper-analysis-template.md`](docs/paper-analysis-template.md). Separate:
 
@@ -75,5 +79,5 @@ Do not convert simulation, offline metrics, or visualization results into real-r
 - Explain why the paper belongs inside the published census boundary.
 - Explain whether the source is official, publisher, or bibliographic.
 - For arXiv changes, report the query window, total candidates, admitted records, unclassified records, and conference-title overlap.
-- For taxonomy changes, report how many records move into and out of every affected direction, subfield, and specialty, plus any change to the General / Cross-cutting rate.
+- For taxonomy changes, report how many records move into and out of every affected direction, subfield, and specialty, plus any change to the Pending specialty review rate.
 - Do not commit downloaded PDFs or large generated assets.

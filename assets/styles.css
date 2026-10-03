@@ -302,6 +302,10 @@ kbd { padding: .1rem .32rem; border: 1px solid var(--line); border-radius: .28re
 .footer-inner p { display: flex; flex-direction: column; margin: 0; font-size: .7rem; }
 .footer-inner p span { color: var(--muted); }
 .footer-inner div { display: flex; flex-wrap: wrap; gap: 1.1rem; color: var(--muted); font-size: .65rem; font-weight: 670; }
+.facet-filter select { width: 100%; padding: .55rem; border: 1px solid var(--line-strong); border-radius: .4rem; background: var(--bg); color: var(--ink); }
+.paper-annotations { margin-top: .5rem; font-size: .68rem; overflow-wrap: anywhere; }
+.paper-annotations summary { cursor: pointer; }
+.paper-annotations button { display: inline-block; margin: .2rem; padding: .25rem; border: 1px solid var(--line-strong); border-radius: .25rem; background: var(--bg); color: var(--ink); cursor: pointer; }
 .toast { position: fixed; right: 1.25rem; bottom: 1.25rem; z-index: 40; max-width: calc(100vw - 2.5rem); padding: .72rem .9rem; border: 1px solid var(--line-strong); border-radius: .6rem; background: var(--ink); box-shadow: var(--shadow); color: var(--bg); font-size: .68rem; font-weight: 680; }
 .toast[hidden] { display: none; }
 
