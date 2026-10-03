@@ -6,6 +6,15 @@ const vm = require("node:vm");
 const root = path.resolve(__dirname, "..");
 const catalog = JSON.parse(fs.readFileSync(path.join(root, "data/papers.json"), "utf8"));
 const arxiv = JSON.parse(fs.readFileSync(path.join(root, "data/arxiv_recent.json"), "utf8"));
+test("entry HTML loads the facet helper before the app and provides facet containers", () => {
+  const html = fs.readFileSync(path.join(root, "index.html"), "utf8");
+  const helper = html.indexOf('<script src="assets/taxonomy-filters.js" defer>');
+  const app = html.indexOf('<script src="assets/app.js" defer>');
+  assert(helper >= 0 && helper < app);
+  assert(html.includes('id="facet-filters"'));
+  assert(html.includes('id="track-count">9'));
+  assert(html.includes('id="specialty-count">126'));
+});
 
 async function workbench(search = "") {
   const nodes = new Map();

@@ -7,13 +7,14 @@
   <meta name="theme-color" content="#f4f5f7">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Embodied AI · Research Workbench">
-  <meta property="og:description" content="3,744 conference papers · 23,838 recent arXiv papers · 7 directions · 40 subfields · 160 specialties">
-  <meta property="og:image" content="https://dld0621.github.io/Embodied-AI-Paper-Analysis/assets/social-preview.jpg">
+  <meta property="og:description" content="9 directions · 42 subfields · 126 specialties · conference and arXiv evidence layers">
+  <meta property="og:image" content="https://dld0621.github.io/Embodied-AI-Paper-Analysis/assets/social-preview.svg">
   <meta property="og:url" content="https://dld0621.github.io/Embodied-AI-Paper-Analysis/">
   <meta name="twitter:card" content="summary_large_image">
   <title>Embodied AI · Research Workbench</title>
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="assets/styles.css">
+  <script src="assets/taxonomy-filters.js" defer></script>
   <script src="assets/app.js" defer></script>
 </head>
 <body>
@@ -56,15 +57,15 @@
 
       <aside class="scope-panel" aria-label="Catalog scope">
         <div class="scope-heading"><span data-i18n="scope">Research corpus</span><strong data-i18n="audited">AUDITED</strong></div>
-        <div class="scope-primary"><strong id="paper-count">25902</strong><span data-i18n="researchRecords">unique research records</span></div>
+        <div class="scope-primary"><strong id="paper-count">27637</strong><span data-i18n="researchRecords">unique research records</span></div>
         <div class="scope-grid">
-          <div><strong id="conference-count">3744</strong><span data-i18n="conferencePapers">conference papers</span></div>
-          <div><strong id="arxiv-count">23838</strong><span data-i18n="arxivPapers">recent arXiv</span></div>
+          <div><strong id="conference-count">4365</strong><span data-i18n="conferencePapers">conference papers</span></div>
+          <div><strong id="arxiv-count">25257</strong><span data-i18n="arxivPapers">recent arXiv</span></div>
           <div><strong id="venue-count">10</strong><span data-i18n="venues">major venues</span></div>
-          <div><strong id="track-count">7</strong><span data-i18n="tracks">research tracks</span></div>
-          <div><strong id="subcategory-count">40</strong><span data-i18n="subfields">level-2 subfields</span></div>
-          <div><strong id="specialty-count">160</strong><span data-i18n="specialties">level-3 specialties</span></div>
-          <div><strong id="arxiv-candidate-count">30,971</strong><span data-i18n="arxivCandidates">arXiv candidates audited</span></div>
+          <div><strong id="track-count">9</strong><span data-i18n="tracks">research tracks</span></div>
+          <div><strong id="subcategory-count">42</strong><span data-i18n="subfields">level-2 subfields</span></div>
+          <div><strong id="specialty-count">126</strong><span data-i18n="specialties">level-3 specialties</span></div>
+          <div><strong id="arxiv-candidate-count">32,552</strong><span data-i18n="arxivCandidates">arXiv candidates audited</span></div>
           <div><strong>100%</strong><span data-i18n="linked">source linked</span></div>
         </div>
         <div class="scope-provenance" id="scope-provenance" aria-label="Source distribution"></div>
@@ -122,12 +123,14 @@
           <fieldset class="filter-group"><legend data-i18n="track">Research track</legend><div class="chip-list stacked" id="track-filters"></div></fieldset>
           <fieldset class="filter-group taxonomy-filter"><legend data-i18n="subcategory">Subfield · Level 2</legend><div class="chip-list stacked" id="subcategory-filters"></div></fieldset>
           <fieldset class="filter-group taxonomy-filter"><legend data-i18n="specialty">Specialty · Level 3</legend><div class="chip-list stacked" id="specialty-filters"></div></fieldset>
+          <div id="facet-filters"></div>
+          <p class="filter-hint"><a href="docs/taxonomy-guide.md" data-i18n="taxonomyGuide">Classification guide</a> · <a href="papers/classification-review/README.md" data-i18n="reviewQueue">Review queue</a></p>
           <fieldset class="filter-group" id="source-filters"><legend data-i18n="sourceTier">Source tier</legend><div class="chip-list stacked" id="source-type-filters"></div></fieldset>
         </aside>
 
         <div class="results-panel">
           <div class="results-bar">
-            <p aria-live="polite"><strong id="result-count">3724</strong> <span data-i18n="results">matching papers</span><span class="result-divider">·</span><span data-i18n="showing">showing</span> <strong id="showing-count">120</strong></p>
+            <p aria-live="polite"><strong id="result-count">27637</strong> <span data-i18n="results">matching papers</span><span class="result-divider">·</span><span data-i18n="showing">showing</span> <strong id="showing-count">120</strong></p>
             <div class="source-legend" aria-label="Source tier legend">
               <span><i class="tier-dot official"></i><span data-i18n="official">Official</span></span>
               <span><i class="tier-dot publisher"></i><span data-i18n="publisher">Publisher</span></span>
@@ -152,7 +155,7 @@
         <div class="section-heading">
           <div>
             <p class="section-kicker" data-i18n="directionKicker">Research map</p>
-            <h2 id="direction-title" data-i18n="directionTitle">Seven directions, each expressed as a research pipeline.</h2>
+            <h2 id="direction-title" data-i18n="directionTitle">Nine directions, each expressed as a research pipeline.</h2>
           </div>
           <p data-i18n="directionLead">Use the map to move from a scientific question to the relevant five-year literature, with coverage visible before you open the catalog.</p>
         </div>
