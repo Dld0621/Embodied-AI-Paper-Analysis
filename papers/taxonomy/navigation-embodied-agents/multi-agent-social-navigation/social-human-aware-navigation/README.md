@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Multi-agent%20%26%20Social%20Navigation&specialty=Social%20%26%20Human-aware%20Navigation#research-workbench)
 
-> 9 conference papers · 37 recent arXiv papers
+> 12 conference papers · 38 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (9)
+## Conference papers (12)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Crowd-FM: Learned Optimal Selection of Conditional Flow Matching-generated Trajectories for Crowd Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2602.06698) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696381) |
+| 2026 | Human2Nav: Learning Crowd Navigation from Human Videos across Robots via Feasibility-Guided Flow Matching | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697243) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697243) |
+| 2026 | PeRoI: A Pedestrian-Robot Interaction Dataset for Learning Avoidance, Neutrality, and Attraction Behaviors in Social Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2503.16481) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697419) |
 | 2025 | CrowdSurfer: Sampling Optimization Augmented with Vector-Quantized Variational AutoEncoder for Dense Crowd Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.16011) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128132) |
 | 2025 | PathCluster: Pedestrian Group-Adaptive Social Navigation in Dense Crowds | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246339) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246339) |
 | 2024 | Hyp2Nav: Hyperbolic Planning and Curiosity for Crowd Navigation | IROS · Navigation | [Paper](https://pure.uva.nl/ws/files/235395532/Hyp2Nav.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801513) |
@@ -28,10 +31,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Learning Crowd-Aware Robot Navigation from Challenging Environments via Distributed Deep Reinforcement Learning | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9812011) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812011) |
 | 2022 | Pedestrian-Robot Interactions on Autonomous Crowd Navigation: Reactive Control Methods and Evaluation Metrics | IROS · Navigation | [Paper](https://github.com/epfl-lasa/crowdbot-evaluation-tools) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981705) |
 
-## Recent arXiv papers (37)
+## Recent arXiv papers (38)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-20 | Smartphone GNSS Booster: Centimeter-Level Pedestrian Positioning Using a Portable Signal Re-Radiator | Taro Suzuki | [Abstract](https://arxiv.org/abs/2609.23456) · [PDF](https://arxiv.org/pdf/2609.23456) |
 | 2026-08-11 | Social Graph Mamba: Forecasting Pedestrian Movements Based on Social Context | Hong-Son Nguyen, Yen-Chen Liu | [Abstract](https://arxiv.org/abs/2608.21411) · [PDF](https://arxiv.org/pdf/2608.21411) |
 | 2026-07-18 | SAGE: A Socially-Aware Generative Engine for Heterogeneous Multi-Agent Navigation | Lan Hu, Minghui Liwang, Wenbo Zhu, Xinlei Yi et al. | [Abstract](https://arxiv.org/abs/2607.16619) · [PDF](https://arxiv.org/pdf/2607.16619) |
 | 2026-07-05 | Quaternion-Averaging-Based Adaptive Complementary Filter for Pedestrian Dead Reckoning With a Foot-Mounted AHRS | Shunsei Yamagishi, Lei Jing | [Abstract](https://arxiv.org/abs/2607.05451) · [PDF](https://arxiv.org/pdf/2607.05451) |

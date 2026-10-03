@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Multi-agent%20%26%20Social%20Navigation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 2 conference papers · 39 recent arXiv papers
+> 2 conference papers · 40 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,10 +21,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Multi-Agent Behavior Retrieval: Retrieval-Augmented Policy Training for Cooperative Push Manipulation by Mobile Robots | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2312.02008) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801334) |
 | 2023 | CAMETA: Conflict-Aware Multi-Agent Estimated Time of Arrival Prediction for Mobile Robots | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2503.00074) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341937) |
 
-## Recent arXiv papers (39)
+## Recent arXiv papers (40)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-22 | MATES: Learning Multi-Agent Interactions by Transforming Observations for Frozen Single-Agent Policies | Elie Abboud, Oren Gal | [Abstract](https://arxiv.org/abs/2609.26010) · [PDF](https://arxiv.org/pdf/2609.26010) |
 | 2026-09-08 | Graph-Based Safe Reinforcement Learning for Multi-Agent Systems with Time-Varying Topology | Xiao Sizhe, Dong Lijing, Bai Rui, Tan Xin | [Abstract](https://arxiv.org/abs/2609.08802) · [PDF](https://arxiv.org/pdf/2609.08802) |
 | 2026-09-07 | Eventually Optimal and Scalable Multi-Agent Planning for Block Cave Mining | Christopher Leet, Paolo Forte, Uwe Köckemann, Henrik Andreasson et al. | [Abstract](https://arxiv.org/abs/2609.07109) · [PDF](https://arxiv.org/pdf/2609.07109) |
 | 2026-08-27 | Dynamic Haven Selection for Multi-Agent Pickup and Delivery in Constrained Warehouses | Taisei Hirayama, Kohei Yoshida, Hiroki Sakaji, Itsuki Noda | [Abstract](https://arxiv.org/abs/2608.26939) · [PDF](https://arxiv.org/pdf/2608.26939) |

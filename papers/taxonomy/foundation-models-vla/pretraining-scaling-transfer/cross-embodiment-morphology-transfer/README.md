@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Pretraining%2C%20Scaling%20%26%20Transfer&specialty=Cross-embodiment%20%26%20Morphology%20Transfer#research-workbench)
 
-> 4 conference papers · 27 recent arXiv papers
+> 5 conference papers · 28 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,19 +14,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (4)
+## Conference papers (5)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | RoboMorph: Evolving Robot Morphology using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2407.08626) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696020) |
 | 2025 | Universal Actions for Enhanced Embodied Foundation Models | CVPR · Foundation Model | [Paper](https://arxiv.org/abs/2501.10105) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02096) |
 | 2024 | CrossFormer: Scaling Cross-Embodied Learning for Manipulation | CoRL · Cross-embodiment learning | [Paper](https://arxiv.org/abs/2408.11812) · [Official](https://proceedings.mlr.press/v270/) |
 | 2024 | EMOS: Embodiment-aware Heterogeneous Multi-robot Operating System with LLM Agents | ICLR · Llm | [Paper](https://arxiv.org/abs/2410.22662) · [Index](https://dblp.org/rec/journals/corr/abs-2410-22662) |
 | 2024 | Open X-Embodiment: Robotic Learning Datasets and RT-X Models | ICRA · Cross-embodiment data | [Paper](https://arxiv.org/abs/2310.08864) · [Official](https://ieeexplore.ieee.org/abstract/document/10611477) · [Code](https://github.com/google-deepmind/open_x_embodiment) |
 
-## Recent arXiv papers (27)
+## Recent arXiv papers (28)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-24 | CrossSafe: Towards Cross-Embodiment Latent Safety Filters | Ihab Tabbara, Yuxuan Yang, Hussein Sibai | [Abstract](https://arxiv.org/abs/2609.28984) · [PDF](https://arxiv.org/pdf/2609.28984) |
 | 2026-09-18 | AtomEgo: Exploring Ego-Robot Integration for Embodied Foundation Model Pretraining | Di Wu, Dongchen Zheng, Junhe Sheng, Zhongxing Wei et al. | [Abstract](https://arxiv.org/abs/2609.21461) · [PDF](https://arxiv.org/pdf/2609.21461) |
 | 2026-09-17 | Improving Cross-embodiment Transfer in Latent Action Models with Action-Similarity Supervision | Maxime Alvarez, Renzo Caballero, Tatsuya Matsushima, Yusuke Iwasawa et al. | [Abstract](https://arxiv.org/abs/2609.19846) · [PDF](https://arxiv.org/pdf/2609.19846) |
 | 2026-09-16 | UAVs Meet Embodied Intelligence: Bridging Human Intents and Flying Dynamics Via Harnessing Physical-Digital AI Agents | Yonglin Tian, Weiyi Wang, Houhua Lu, Xinyi Li et al. | [Abstract](https://arxiv.org/abs/2609.18326) · [PDF](https://arxiv.org/pdf/2609.18326) |

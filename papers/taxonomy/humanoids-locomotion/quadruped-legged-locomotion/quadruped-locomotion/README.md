@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Quadruped%20%26%20Legged%20Locomotion&specialty=Quadruped%20Locomotion#research-workbench)
 
-> 148 conference papers · 362 recent arXiv papers
+> 167 conference papers · 374 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,16 +14,34 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (148)
+## Conference papers (167)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Action-Informed Estimation and Planning: Clearing Clutter on Staircases via Quadrupedal Pedipulation | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2509.20516) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696107) |
+| 2026 | Active Dynamic Load Adaptation for Quadruped Locomotion on Complex Terrain | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697356) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697356) |
+| 2026 | Autonomous UAV–Quadruped Docking in Complex Terrains via Active Posture Alignment and Constraint-Aware Control | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2509.21571) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697031) |
+| 2026 | Collaborative Quadruped Transportation in 3D Terrain with Constrained Diffusion | ICRA · Quadruped | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696176) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696176) |
+| 2026 | DeepSkate: reinforcement learning of a robust controller for energy efficient quadruped skating | ICRA · Quadruped | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696944) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696944) |
+| 2026 | Efficient and Versatile Quadrupedal Skating: Optimal Co-design via Reinforcement Learning and Bayesian Optimization | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2603.18408) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696963) |
+| 2026 | Full-Scale Autonomous Highway Inspection with Quadruped Robot: Multi-Level Locomotion Learning in Complex Environments | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696938) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696938) |
+| 2026 | GIMloco: Generic Internal Model-Based Locomotion for Quadruped Robots | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697105) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697105) |
+| 2026 | Hebbian Attractor Networks for Robot Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2603.22512) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697453) |
+| 2026 | KiRAS: Keyframe Guided Self-Imitation for Robust and Adaptive Skill Learning in Quadruped Robots | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2603.15179) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697528) |
+| 2026 | Learning Collision-free Object Goal Pushing for Quadruped Robots with Safe Corridors | ICRA · Quadruped | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695755) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695755) |
+| 2026 | Learning Forward Looking Adaptation to Dynamic Payloads for Quadruped Locomotion via Physics-Informed Neural Networks | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696964) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696964) |
+| 2026 | Learning Task-Invariant Properties via Dreamer: Enabling Efficient Policy Transfer for Quadruped Robots | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2604.02911) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697167) |
+| 2026 | Multi-Quadruped Cooperative Object Transport: Learning Decentralized Pinch-Lift-Move | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2509.14342) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696492) |
+| 2026 | Phase-Aware Policy Learning for Skateboard Riding of Quadruped Robots via Feature-wise Linear Modulation | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2602.09370) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695982) |
+| 2026 | Proprioceptive Image: An Image Representation of Proprioceptive Data from Quadruped Robots for Contact Estimation Learning | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2510.14612) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697089) |
+| 2026 | Risk-Aware Reinforcement Learning with Bandit-Based Adaptation for Quadrupedal Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2510.14338) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695854) |
+| 2026 | U2E: Uncertainty-Aware Modeling and Uncertainty-Guided Exploration with Deep Ensemble for Quadrupedal Robot | ICRA · Quadruped | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696355) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696355) |
 | 2025 | A Control Scheme for Collaborative Object Transportation between a Human and a Quadruped Robot Using the MIGHTY Suction Cup | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2508.00584) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127351) |
 | 2025 | Adaptive Energy Regularization for Autonomous Gait Transition and Energy-Efficient Quadruped Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2403.20001) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128812) |
 | 2025 | ARS-SLAM: Accurate Robust Spinning LiDAR SLAM for a Quadruped Robot in Large-Scale Scenario | ICRA · Quadruped | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128745) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128745) |
 | 2025 | Benchmarking Different QP Formulations and Solvers for Dynamic Quadrupedal Walking | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2502.01329) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128397) |
 | 2025 | Beyond Robustness: Learning Unknown Dynamic Load Adaptation for Quadruped Locomotion on Rough Terrain | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2507.07825) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128639) |
-| 2025 | Continuous Control of Diverse Skills in Quadruped Robots Without Complete Expert Datasets | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2503.03476) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128738) |
+| 2025 | Continuous Control of Diverse Skills in Quadruped Robots Without Complete Expert Datasets | ICRA · Quadruped | [Paper](https://arxiv.org/pdf/2503.03476) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128738) |
 | 2025 | Design and Implementation of a Swimming and Walking Quadruped for Seafloor Exploration | ICRA · Quadruped | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127516) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127516) |
 | 2025 | DreamFLEX: Learning Fault-Aware Quadrupedal Locomotion Controller for Anomaly Situation in Rough Terrains | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2502.05817) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127805) |
 | 2025 | Efficiently Generating Expressive Quadruped Behaviors via Language-Guided Preference Learning | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2502.03717) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128740) |
@@ -37,13 +55,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2503.08007) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128601) |
 | 2025 | Obstacle-Avoidant Leader Following with a Quadruped Robot | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2410.00572) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127912) |
 | 2025 | Offline Adaptation of Quadruped Locomotion Using Diffusion Models | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2411.08832) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128726) |
-| 2025 | Olympus: A Jumping Quadruped for Planetary Exploration Utilizing Reinforcement Learning for In-Flight Attitude Control | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2503.03574) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127737) |
-| 2025 | Optimal Gait Control for a Tendon-Driven Soft Quadruped Robot by Model-Based Reinforcement Learning | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2406.07069) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128611) |
+| 2025 | Olympus: A Jumping Quadruped for Planetary Exploration Utilizing Reinforcement Learning for In-Flight Attitude Control | ICRA · Quadruped | [Paper](https://arxiv.org/pdf/2503.03574) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127737) |
+| 2025 | Optimal Gait Control for a Tendon-Driven Soft Quadruped Robot by Model-Based Reinforcement Learning | ICRA · Quadruped | [Paper](https://arxiv.org/pdf/2406.07069) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128611) |
 | 2025 | Optimal Torque Distribution via Dynamic Adaptation for Quadrupedal Locomotion on Slippery Terrains | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128680) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128680) |
 | 2025 | PIP-Loco: A Proprioceptive Infinite Horizon Planning Framework for Quadrupedal Robot Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2409.09441) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128382) |
 | 2025 | Residual Policy Learning for Perceptive Quadruped Control Using Differentiable Simulation | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2410.03076) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127448) |
 | 2025 | RINA: Rapid Introspective Neural Adaptation for Out-of-Distribution Payload Configurations on Quadruped Robots | ICRA · Quadruped | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128634) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128634) |
-| 2025 | Safe Control of Quadruped in Varying Dynamics via Safety Index Adaptation | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2409.09882) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127362) |
+| 2025 | Safe Control of Quadruped in Varying Dynamics via Safety Index Adaptation | ICRA · Quadruped | [Paper](https://arxiv.org/pdf/2409.09882) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127362) |
 | 2025 | 16 Ways to Gallop: Energetics and Body Dynamics of High-Speed Quadrupedal Gaits | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2503.13716) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247619) |
 | 2025 | Adaptive Model-Based Control of Quadrupeds via Online System Identification using Kalman Filter | IROS · Quadruped | [Paper](https://arxiv.org/abs/2506.13432) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246753) |
 | 2025 | Bridge the Gap: Enhancing Quadruped Locomotion with Vertical Ground Perturbations | IROS · Locomotion | [Paper](https://arxiv.org/abs/2510.13488) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247549) |
@@ -93,13 +111,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Visual CPG-RL: Learning Central Pattern Generators for Visually-Guided Quadruped Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2212.14400) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611128) |
 | 2024 | A Fast Online Omnidirectional Quadrupedal Jumping Framework Via Virtual-Model Control and Minimum Jerk Trajectory Generation | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2407.00658) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802277) |
 | 2024 | A Robust Visual SLAM System for Small-Scale Quadruped Robots in Dynamic Environments | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS58592.2024.10802163) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802163) |
-| 2024 | Agile and Safe Trajectory Planning for Quadruped Navigation with Motion Anisotropy Awareness | IROS · Quadruped | [Paper](https://arxiv.org/abs/2403.10101) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10803105) |
+| 2024 | Agile and Safe Trajectory Planning for Quadruped Navigation with Motion Anisotropy Awareness | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2403.10101) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10803105) |
 | 2024 | AMCO: Adaptive Multimodal Coupling of Vision and Proprioception for Quadruped Robot Navigation in Outdoor Environments | IROS · Quadruped | [Paper](https://arxiv.org/abs/2403.13235) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801962) |
 | 2024 | DiPPeST: Diffusion-based Path Planner for Synthesizing Trajectories Applied on Quadruped Robots | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2405.19232) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802677) |
 | 2024 | Dynamic Object Catching with Quadruped Robot Front Legs | IROS · Quadruped | [Paper](https://arxiv.org/abs/2410.08065) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801922) |
 | 2024 | Exploring Constrained Reinforcement Learning Algorithms for Quadrupedal Locomotion | IROS · Locomotion | [Paper](https://www.research-collection.ethz.ch/bitstream/20.500.11850/703818/1/IROS24_1077_FI.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801341) |
 | 2024 | GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot | IROS · Quadruped | [Paper](https://arxiv.org/abs/2403.13358) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801816) |
-| 2024 | Harnessing Natural Oscillations for High-Speed, Efficient Asymmetrical Locomotion in Quadrupedal Robots | IROS · Locomotion | [Paper](https://arxiv.org/abs/2405.17579) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801432) |
+| 2024 | Harnessing Natural Oscillations for High-Speed, Efficient Asymmetrical Locomotion in Quadrupedal Robots | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2405.17579) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801432) |
 | 2024 | HiLMa-Res: A General Hierarchical Framework via Residual RL for Combining Quadrupedal Locomotion and Manipulation | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2407.06584) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802517) |
 | 2024 | Learning Safe Locomotion for Quadrupedal Robots by Derived-Action Optimization | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS58592.2024.10802725) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802725) |
 | 2024 | Learning-based Adaptive Control of Quadruped Robots for Active Stabilization on Moving Platforms | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2602.03367) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802150) |
@@ -148,7 +166,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Proprioception and Tail Control Enable Extreme Terrain Traversal by Quadruped Robots | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2303.04781) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342384) |
 | 2023 | Run and Catch: Dynamic Object-Catching of Quadrupedal Robots | IROS · Quadruped | [Paper](https://discovery.ucl.ac.uk/10188120/1/_IROS2023_Dynamic_Catch_of_Quadrupedal_Robot%20%282%29.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341977) |
 | 2023 | Walking in Narrow Spaces: Safety-Critical Locomotion Control for Quadrupedal Robots with Duality-Based Optimization | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2212.14199) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341896) |
-| 2022 | GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots | CoRL · Locomotion | [Paper](https://arxiv.org/abs/2209.05309) · [Index](https://dblp.org/rec/journals/corr/abs-2209-05309) |
+| 2022 | GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots | CoRL · Locomotion | [Paper](https://arxiv.org/abs/2209.05309) · [Index](https://dblp.org/rec/conf/corl/FengZLPBYSYLSL22) |
 | 2022 | Design of KAIST HOUND, a Quadruped Robot Platform for Fast and Efficient Locomotion with Mixed-Integer Nonlinear Optimization of a Gear Train | ICRA · Locomotion | [Paper](https://doi.org/10.1109/icra46639.2022.9811755) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811755) |
 | 2022 | Foothold Evaluation Criterion for Dynamic Transition Feasibility for Quadruped Robots | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2203.04434) · [Index](https://dblp.org/rec/conf/icra/ClementeVBFBMS22) |
 | 2022 | Learning Efficient and Robust Multi-Modal Quadruped Locomotion: A Hierarchical Approach | ICRA · Locomotion | [Paper](https://doi.org/10.1109/icra46639.2022.9811640) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811640) |
@@ -166,11 +184,26 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | SCALER: A Tough Versatile Quadruped Free-Climber Robot | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2207.01180) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981555) |
 | 2022 | Vision-Assisted Localization and Terrain Reconstruction with Quadruped Robots | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981897) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981897) |
 | 2022 | Zero-Shot Retargeting of Learned Quadruped Locomotion Policies Using Hybrid Kinodynamic Model Predictive Control | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2209.14123) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981967) |
+| 2022 | Learning Forward Dynamics Model and Informed Trajectory Sampler for Safe Quadruped Navigation | RSS · Quadruped | [Paper](https://arxiv.org/abs/2204.08647) · [Index](https://dblp.org/rec/journals/corr/abs-2204-08647) |
 
-## Recent arXiv papers (362)
+## Recent arXiv papers (374)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-01 | PROMO: Preference-conditioned Multi-Objective Reinforcement Learning for Quadrupedal Robots | Amr Mousa, Rifny Rachman, Neil Karavis, Michele Caprio et al. | [Abstract](https://arxiv.org/abs/2610.01260) · [PDF](https://arxiv.org/pdf/2610.01260) |
+| 2026-10-01 | Experience-Based Feasibility-Aware Generative Adversarial Imitation from Observation under Embodiment Mismatch | Yoshiki Takebayashi, Giovanni Perantoni, Hikaru Sasaki, Matteo Saveriano et al. | [Abstract](https://arxiv.org/abs/2610.01171) · [PDF](https://arxiv.org/pdf/2610.01171) |
+| 2026-09-30 | Experience-Driven Continual Learning of Terrain Traversability for Quadruped Robots | Luca Bricarello, João Carlos Virgolino Soares, Alberto Sanchez-Delgado, Fulvio Mastrogiovanni et al. | [Abstract](https://arxiv.org/abs/2609.39755) · [PDF](https://arxiv.org/pdf/2609.39755) |
+| 2026-09-29 | Inferring Soil Friction Angle from Robot Foot-Ground Force Histories: A Bayesian Inverse Approach to Proprioceptive Soil Sensing | Dawei Xu, Zhijie Wang | [Abstract](https://arxiv.org/abs/2609.36582) · [PDF](https://arxiv.org/pdf/2609.36582) |
+| 2026-09-28 | Proprioceptive Force Estimation for Quadruped Locomotion and Human-Robot Interaction | Run Wang, Xu Yang, Alapati Tuerxun, Yilin Mo | [Abstract](https://arxiv.org/abs/2609.34222) · [PDF](https://arxiv.org/pdf/2609.34222) |
+| 2026-09-26 | GAUGE: Planner-Conditioned Active Calibration of Opaque Quadruped Velocity Interfaces | Tianhao Zang, Zihan Liu, Shanze Wang, Liyou Luo et al. | [Abstract](https://arxiv.org/abs/2609.32154) · [PDF](https://arxiv.org/pdf/2609.32154) |
+| 2026-09-26 | FutureRay: Control-Aligned Future Range for Agile Quadruped Navigation | Tianhao Zang, Shanze Wang, Ziqian Wang, Liyou Luo et al. | [Abstract](https://arxiv.org/abs/2609.32158) · [PDF](https://arxiv.org/pdf/2609.32158) |
+| 2026-09-24 | Learning-Based Pressure Predictive Control of a Vertebraic Soft Robotic Tail | Wenjian Yang, Nan Huang, Yukang Nie, Fang Chen et al. | [Abstract](https://arxiv.org/abs/2609.30479) · [PDF](https://arxiv.org/pdf/2609.30479) |
+| 2026-09-24 | DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models | Yohan Choi, Min-Jun Kim, Jin-Sung Kim, Yong-Jae Kim et al. | [Abstract](https://arxiv.org/abs/2609.29092) · [PDF](https://arxiv.org/pdf/2609.29092) |
+| 2026-09-23 | LEAP-CBF: A Safety Filter for Uncertain Systems with Least-Effort Adversarial Potentials | Oswin So, Eric Yu, Chuchu Fan | [Abstract](https://arxiv.org/abs/2609.28364) · [PDF](https://arxiv.org/pdf/2609.28364) |
+| 2026-09-23 | An Analysis of Streaming Deep Reinforcement Learning for Adaptive Continual Learning in Robotics | Teeratham Vitchutripop, Alyssa Quarles, Wenhe Zhang, Richard Xue et al. | [Abstract](https://arxiv.org/abs/2609.28807) · [PDF](https://arxiv.org/pdf/2609.28807) |
+| 2026-09-22 | SG-CPG: Severity-Gated Central Pattern Generators for Adaptive Quadruped Locomotion under Continuous Actuator Degradation | Adarsh Kumar Kosta, Kaushik Roy | [Abstract](https://arxiv.org/abs/2609.25687) · [PDF](https://arxiv.org/pdf/2609.25687) |
+| 2026-09-21 | MimicAgent: Quadruped Skills via Prompt-to-Trajectory Generation | Lucky Kant Nayak, Narayanan Palghat Parameswaran, Neehar Peri, Deva Ramanan | [Abstract](https://arxiv.org/abs/2609.24145) · [PDF](https://arxiv.org/pdf/2609.24145) |
+| 2026-09-21 | Anticipatory Robot Goalkeeping via Monotone Optimal Stopping | Hao E. Zhang, Ruize Geng, Yisen Li, Yaru Niu et al. | [Abstract](https://arxiv.org/abs/2609.23976) · [PDF](https://arxiv.org/pdf/2609.23976) |
 | 2026-09-18 | LOInK: Learned Optimal Inverse Kinematics via Structured Neural Surrogate Models | Michael Somerfield, Damian Abood, Ruigang Wang, Ian R. Manchester | [Abstract](https://arxiv.org/abs/2609.21275) · [PDF](https://arxiv.org/pdf/2609.21275) |
 | 2026-09-17 | OmniMimic: Dynamics-completed Motion Augmentation for Multi-style Omnidirectional Quadruped Locomotion | Sheng Wu, Guoqiang Zhao, Zhe Yang, Fei Teng et al. | [Abstract](https://arxiv.org/abs/2609.20566) · [PDF](https://arxiv.org/pdf/2609.20566) |
 | 2026-09-17 | Mechanical Precision Weeding with a Quadruped Robot | Ruben Beumer, Tom Janssen, René van de Molengraft, Duarte Antunes | [Abstract](https://arxiv.org/abs/2609.20048) · [PDF](https://arxiv.org/pdf/2609.20048) |
@@ -531,8 +564,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-10 | RoboHive: A Unified Framework for Robot Learning | Vikash Kumar, Rutav Shah, Gaoyue Zhou, Vincent Moens et al. | [Abstract](https://arxiv.org/abs/2310.06828) · [PDF](https://arxiv.org/pdf/2310.06828) |
 | 2023-10-09 | An Open-Loop Baseline for Reinforcement Learning Locomotion Tasks | Antonin Raffin, Olivier Sigaud, Jens Kober, Alin Albu-Schäffer et al. | [Abstract](https://arxiv.org/abs/2310.05808) · [PDF](https://arxiv.org/pdf/2310.05808) |
 | 2023-10-07 | Terrain-Aware Quadrupedal Locomotion via Reinforcement Learning | Haojie Shi, Qingxu Zhu, Lei Han, Wanchao Chi et al. | [Abstract](https://arxiv.org/abs/2310.04675) · [PDF](https://arxiv.org/pdf/2310.04675) |
-| 2023-09-25 | Learning Risk-Aware Quadrupedal Locomotion using Distributional Reinforcement Learning | Lukas Schneider, Jonas Frey, Takahiro Miki, Marco Hutter | [Abstract](https://arxiv.org/abs/2309.14246) · [PDF](https://arxiv.org/pdf/2309.14246) |
-| 2023-09-22 | PyPose v0.6: The Imperative Programming Interface for Robotics | Zitong Zhan, Xiangfu Li, Qihang Li, Haonan He et al. | [Abstract](https://arxiv.org/abs/2309.13035) · [PDF](https://arxiv.org/pdf/2309.13035) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Safety%2C%20Robustness%20%26%20Reproducibility&specialty=Safety%20Constraints%20%26%20Verification#research-workbench)
 
-> 0 conference papers · 19 recent arXiv papers
+> 0 conference papers · 20 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,10 +18,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (19)
+## Recent arXiv papers (20)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-22 | Control Barrier Functions for Safe Free-Flying Robotic Spacecraft Operations in Tumbling Target Capture | Alexander Meinert, Peter Stadler, Niklas Baldauf, Alen Turnwald | [Abstract](https://arxiv.org/abs/2609.25905) · [PDF](https://arxiv.org/pdf/2609.25905) |
 | 2026-07-17 | Certifiable Safe Model-Based Reinforcement Learning with Control-Affine Dynamics Approximation | Hao Zhou, Yanze Zhang, Cameron Reid, Wenhao Luo | [Abstract](https://arxiv.org/abs/2607.16501) · [PDF](https://arxiv.org/pdf/2607.16501) |
 | 2026-07-12 | D-SafeMPC: Diffusion-Driven Safe Model Predictive Control with Discrete-Time Control Barrier Functions | Erdi Sayar, Ersin Daş, Joel W. Burdick, Alois Knoll et al. | [Abstract](https://arxiv.org/abs/2607.10842) · [PDF](https://arxiv.org/pdf/2607.10842) |
 | 2026-05-22 | Lipschitz Optimization for Formal Verification of Homographies | Jean-Guillaume Durand, Panagiotis Kouvaros, Maxime Gariel, Alessio Lomuscio | [Abstract](https://arxiv.org/abs/2605.23203) · [PDF](https://arxiv.org/pdf/2605.23203) |

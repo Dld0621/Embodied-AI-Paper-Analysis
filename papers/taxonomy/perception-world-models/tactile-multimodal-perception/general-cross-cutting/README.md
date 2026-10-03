@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 100 conference papers · 176 recent arXiv papers
+> 113 conference papers · 182 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,23 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (100)
+## Conference papers (113)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | A Tactile Rubbing Gripper for Reliable Fabric Separation | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696008) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696008) |
+| 2026 | Balancing Marker and Markerless Modes in Vision-Based Tactile Sensors with a Translucent Skin | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696251) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696251) |
+| 2026 | Constructing Contact Estimation Models for Barometric Tactile Sensors | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697189) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697189) |
+| 2026 | InvariantCloud: A Globally Invariant, Uniquely Indexed Point Cloud Framework for Robust 6-DoF Tactile Pose Tracking | ICRA · Tactile | [Paper](https://arxiv.org/abs/2605.25216) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696184) |
+| 2026 | Learning Controlled Separation of Small Objects Between Two Fingers with a Tactile Skin | ICRA · Tactile | [Paper](https://arxiv.org/abs/2605.31486) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697077) |
+| 2026 | Magnet-Based Soft Robotic Skin Using a 3D-Printed Multi-Lattice Structure and CNN-Based Tactile Super-Resolution | ICRA · Tactile | [Paper](https://arxiv.org/abs/2605.28352) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696460) |
+| 2026 | Non-contact Tactile Perception in Human-Robot Interaction: Deep Learning-Enhanced Super-resolution Spatial Sensing | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696435) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696435) |
+| 2026 | OCRA: Object-Centric Learning with 3D and Tactile Priors for Human-to-Robot Action Transfer | ICRA · Tactile | [Paper](https://arxiv.org/abs/2603.14401) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696205) |
+| 2026 | OcTac: An Octopus Sucker-Inspired Vision-Based Tactile Sensor with Self-Adaptive Adhesion | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697372) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697372) |
+| 2026 | SuckTac: Camera-based Tactile Sucker for Unstructured Surface Perception and Interaction | ICRA · Tactile | [Paper](https://arxiv.org/abs/2511.02294) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696453) |
+| 2026 | TacTip-based Dynamic Contact Force Estimation with Sequential Tactile Images and Its Applications to Robotic Force Tracking | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695909) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695909) |
+| 2026 | Touch with Insight: Physics-Aware Data-Driven Learning for EIT-Based Tactile Sensing | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696850) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696850) |
+| 2026 | UVDtact: UV Marker-Embedded Fingertip-Like Vision-Based Tactile Sensor for Shape Reconstruction and Force Estimation | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697065) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697065) |
 | 2025 | AnyTouch: Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors | ICLR · Tactile | [Paper](https://arxiv.org/abs/2502.12191) · [Index](https://dblp.org/rec/journals/corr/abs-2502-12191) |
 | 2025 | Enhancing Adaptivity of Two-Fingered Object Reorientation Using Tactile-Based Online Optimization of Deconstructed Actions | ICRA · Tactile | [Paper](https://arxiv.org/abs/2503.11041) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127901) |
 | 2025 | FeelAnyForce: Estimating Contact Force Feedback from Tactile Sensation for Vision-Based Tactile Sensors | ICRA · Tactile | [Paper](https://arxiv.org/abs/2410.02048) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127723) |
@@ -79,7 +92,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Tactile Odometry in Aerial Physical Interaction | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS58592.2024.10802497) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802497) |
 | 2024 | RoboPack: Learning Tactile-Informed Dynamics Models for Dense Packing | RSS · Tactile | [Paper](https://arxiv.org/abs/2407.01418) · [Index](https://dblp.org/rec/conf/rss/AiTS0TL024) |
 | 2023 | Dexterity from Touch: Self-Supervised Pre-Training of Tactile Representations with Robotic Play | CoRL · Tactile | [Paper](https://arxiv.org/abs/2303.12076) · [Index](https://dblp.org/rec/conf/corl/GuzeyECP23) |
-| 2023 | Precise Robotic Needle-Threading with Tactile Perception and Reinforcement Learning | CoRL · Tactile | [Paper](https://arxiv.org/abs/2311.02396) · [Index](https://dblp.org/rec/conf/corl/YuXYRTLGL23) |
+| 2023 | Precise Robotic Needle-Threading with Tactile Perception and Reinforcement Learning | CoRL · Tactile | [Paper](https://arxiv.org/abs/2311.02396) · [Index](https://dblp.org/rec/journals/corr/abs-2311-02396) |
 | 2023 | A Tactile Feedback Insertion Strategy for Peg-in-Hole Tasks | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160879) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160879) |
 | 2023 | Adaptive Optimal Electrical Resistance Tomography for Large-Area Tactile Sensing | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161048) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161048) |
 | 2023 | DTact: A Vision-Based Tactile Sensor that Measures High-Resolution 3D Geometry Directly from Darkness | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2209.13916) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160796) |
@@ -119,15 +132,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Action Conditioned Tactile Prediction: a case study on slip prediction | RSS · Tactile | [Paper](https://arxiv.org/pdf/2205.09430) · [Index](https://dblp.org/rec/journals/corr/abs-2205-09430) |
 | 2022 | Understanding Dynamic Tactile Sensing for Liquid Property Estimation | RSS · Tactile | [Paper](https://arxiv.org/pdf/2205.08771) · [Index](https://dblp.org/rec/journals/corr/abs-2205-08771) |
 
-## Recent arXiv papers (176)
+## Recent arXiv papers (182)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-30 | Tactile Curiosity Drives Robot Interaction | Klemens Iten, Alexander Proshkin, Bhavya Sukhija, Stelian Coros et al. | [Abstract](https://arxiv.org/abs/2609.40134) · [PDF](https://arxiv.org/pdf/2609.40134) |
+| 2026-09-29 | TaRL: Learning General and Physical Rewards from Tactile Demonstrations | Po-Yi Wu, Dao-Jan Chang, Shang-Ya Hsiao, Hong-Ming Chen et al. | [Abstract](https://arxiv.org/abs/2609.36785) · [PDF](https://arxiv.org/pdf/2609.36785) |
+| 2026-09-29 | A robust single-sensing-element tactile sensor for concurrent pressure and tackiness detection with real-time signal decoupling capability | Ying Yang, Mingwei Gu, Jia-Sen Xie, Xingyu Ma et al. | [Abstract](https://arxiv.org/abs/2609.36558) · [PDF](https://arxiv.org/pdf/2609.36558) |
+| 2026-09-23 | Calibration-Free Surface Normals Estimation in Vision-Based Tactile Sensing using Universal Photometric Stereo | Zdravko Dugonjic, Stefanie Speidel, Roberto Calandra | [Abstract](https://arxiv.org/abs/2609.31754) · [PDF](https://arxiv.org/pdf/2609.31754) |
+| 2026-09-21 | Tactile-JEPA: Topology-Aware Self-Supervised Representation Learning for Distributed Tactile Sensors | Elizaveta Kovtun, Matvey Konovalov, Andrey Sakhovskiy, Semen Budennyy | [Abstract](https://arxiv.org/abs/2609.24385) · [PDF](https://arxiv.org/pdf/2609.24385) |
+| 2026-09-21 | Learning tactile perception from high-bandwidth single-point sensing | Joseph Rigal, Emmanuel Virot, Caroline Pascal | [Abstract](https://arxiv.org/abs/2609.24621) · [PDF](https://arxiv.org/pdf/2609.24621) |
 | 2026-09-18 | AVT-Fabric: Active Visuo-Tactile Perception via Adaptive Evidence Selection for Efficient Robotic Fabric Comparison | Chang Gao, Zhuo Chen, Suhang Xia, Jihong Zhu et al. | [Abstract](https://arxiv.org/abs/2609.21377) · [PDF](https://arxiv.org/pdf/2609.21377) |
-| 2026-09-08 | BIFTA: Brain-Inspired Few-Shot Tactile Adaptation for Unknown Sensors | Boheng Liu, Ziyu Li, Xia Wu | [Abstract](https://arxiv.org/abs/2609.08673) · [PDF](https://arxiv.org/pdf/2609.08673) |
+| 2026-09-08 | BIDETA: Brain-Inspired Data-Efficient Tactile Adaptation for Unseen Sensors | Boheng Liu, Lan Wei, Ziyu Li, Chenghua Duan et al. | [Abstract](https://arxiv.org/abs/2609.08673) · [PDF](https://arxiv.org/pdf/2609.08673) |
 | 2026-08-31 | SpectraTac: A Compact Camera-Free Optical Tactile Sensor with Distributed Color Sensing | Hao Wu, Haotian Guo, Yu Feng, Yutong Wang et al. | [Abstract](https://arxiv.org/abs/2608.30368) · [PDF](https://arxiv.org/pdf/2608.30368) |
 | 2026-08-18 | Physics-Informed Sliding-Window Particle Filtering for Tactile-Only In-Hand 6-DoF Object Pose Refinement | Lingjun Shao, Ying Zhang, Xiangfei Li, Xiangyang Li et al. | [Abstract](https://arxiv.org/abs/2608.17601) · [PDF](https://arxiv.org/pdf/2608.17601) |
 | 2026-08-15 | EgoTac: In-the-wild Tactile Prediction from Egocentric Vision | Wenkang Zhang, Chengbo Yuan, Zicheng Zhang, Zhengxue Cheng et al. | [Abstract](https://arxiv.org/abs/2608.15060) · [PDF](https://arxiv.org/pdf/2608.15060) |
+| 2026-08-13 | High-Bandwidth Biomimetic Finger for Tactile-Transparent Remote Texture Sensing | Shuang Yang, Fuyuan Liu, Yitian Shao | [Abstract](https://arxiv.org/abs/2609.26256) · [PDF](https://arxiv.org/pdf/2609.26256) |
 | 2026-08-10 | Intuitive Hand Positional Guidance Using McKibben-Based Surface Tactile Sensations to Shoulder and Elbow | Kenta Yokoe, Yuki Funabora, Tadayoshi Aoyama | [Abstract](https://arxiv.org/abs/2608.09167) · [PDF](https://arxiv.org/pdf/2608.09167) |
 | 2026-08-06 | ErgoSurf: Ergodic Control for the Coverage of Unknown Surfaces | Stefan Schneyer, Timo Bachmann, Maged Iskandar, Korbinian Nottensteiner et al. | [Abstract](https://arxiv.org/abs/2608.06208) · [PDF](https://arxiv.org/pdf/2608.06208) |
 | 2026-08-04 | Feasibility of Embedded Photoplethysmography Sensing in Short-Duration Tactile Interactions With Pocket-Sized Robots Using IMU- and Confidence-Based Filtering | Turjja Datta, Morten Roed Frederiksen | [Abstract](https://arxiv.org/abs/2608.04242) · [PDF](https://arxiv.org/pdf/2608.04242) |
@@ -144,8 +164,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-28 | TacGen: Touch Is a Necessary Dimension of Physical-World Representation -- Addressing Tactile Data Scarcity with Scalable Vision-to-Touch Alignment and Generation | Wanghao Ye, Aarosh Das, Sihan Chen, Yiting Wang et al. | [Abstract](https://arxiv.org/abs/2606.29173) · [PDF](https://arxiv.org/pdf/2606.29173) |
 | 2026-06-24 | Self Capacitive Tactile Sensor System designed for Companion Robots | Mohsin Ali, Hidenobu Sumioka, Shuhei Ikemoto | [Abstract](https://arxiv.org/abs/2606.25348) · [PDF](https://arxiv.org/pdf/2606.25348) |
 | 2026-06-12 | TacStyle: Personalizing Tactile Robot Policies using Structured Behavior Representations | Kevin Robledo, Matías I. Torres Galaz, Kumar Dixhant Rai, Shelly Sara Ulman et al. | [Abstract](https://arxiv.org/abs/2606.14862) · [PDF](https://arxiv.org/pdf/2606.14862) |
+| 2026-06-11 | ContactWorld: What Representations Matter for Vision-Tactile Latent World Models in Contact-Rich Manipulation | Zhiyuan Zhang, Pokuang Zhou, Kaidi Zhang, Adeesh Desai et al. | [Abstract](https://arxiv.org/abs/2606.13877) · [PDF](https://arxiv.org/pdf/2606.13877) |
 | 2026-06-08 | Dense Force Estimation with an Event-based Optical Tactile Sensor | Agis Politis, René Zurbrügg, Valentina Cavinato | [Abstract](https://arxiv.org/abs/2606.09451) · [PDF](https://arxiv.org/pdf/2606.09451) |
-| 2026-06-07 | RGB-S: Image-Aligned Tactile Saliency for Robust Dexterous Manipulation | Shengcheng Luo, Kefei Wu, Xiaoying Zhou, Wanlin Li et al. | [Abstract](https://arxiv.org/abs/2606.08765) · [PDF](https://arxiv.org/pdf/2606.08765) |
 | 2026-06-04 | Wave Focusing in Metamaterials: Tactile Displays Beyond the Diffraction Limit | Gregory Reardon, Max Linnander, Dustin Goetz, Neeli Tummala et al. | [Abstract](https://arxiv.org/abs/2606.05572) · [PDF](https://arxiv.org/pdf/2606.05572) |
 | 2026-06-03 | TransTac: Visuo-Tactile Modality Transition via Ultraviolet-Encoded Transparent Elastomers | Lingyue Yang, Bin Fang | [Abstract](https://arxiv.org/abs/2606.04477) · [PDF](https://arxiv.org/pdf/2606.04477) |
 | 2026-06-02 | Static and Dynamic Representations for Tactile Contact-Angle Estimation with Event-Based Sensors | Yanhui Lu, Efi Psomopoulou, Benjamin Ward-Cherrier | [Abstract](https://arxiv.org/abs/2606.03545) · [PDF](https://arxiv.org/pdf/2606.03545) |
@@ -173,6 +193,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-01-16 | A Hybrid Soft Haptic Display for Rendering Lump Stiffness in Remote Palpation | Pijuan Yu, Anzu Kawazoe, Alexis Urquhart, Thomas K. Ferris et al. | [Abstract](https://arxiv.org/abs/2601.11807) · [PDF](https://arxiv.org/pdf/2601.11807) |
 | 2026-01-07 | An Event-Based Opto-Tactile Skin | Mohammadreza Koolani, Simeon Bamford, Petr Trunin, Simon F. Müller-Cleve et al. | [Abstract](https://arxiv.org/abs/2601.03907) · [PDF](https://arxiv.org/pdf/2601.03907) |
 | 2025-12-29 | Simultaneous Extrinsic Contact and In-Hand Pose Estimation via Distributed Tactile Sensing | Mark Van der Merwe, Kei Ota, Dmitry Berenson, Nima Fazeli et al. | [Abstract](https://arxiv.org/abs/2512.23856) · [PDF](https://arxiv.org/pdf/2512.23856) |
+| 2025-12-12 | Mirror Skin: In Situ Visualization of Robot Touch Intent on Robotic Skin | David Wagmann, Matti Krüger, Chao Wang, Michael Gienger et al. | [Abstract](https://arxiv.org/abs/2512.11472) · [PDF](https://arxiv.org/pdf/2512.11472) |
 | 2025-12-09 | OSMO: Open-Source Tactile Glove for Human-to-Robot Skill Transfer | Jessica Yin, Haozhi Qi, Youngsun Wi, Sayantan Kundu et al. | [Abstract](https://arxiv.org/abs/2512.08920) · [PDF](https://arxiv.org/pdf/2512.08920) |
 | 2025-12-07 | MagicSkin: Balancing Marker and Markerless Modes in Vision-Based Tactile Sensors with a Translucent Skin | Oluwatimilehin Tijani, Zhuo Chen, Jiankang Deng, Shan Luo | [Abstract](https://arxiv.org/abs/2512.06829) · [PDF](https://arxiv.org/pdf/2512.06829) |
 | 2025-12-06 | Audio-Based Tactile Human-Robot Interaction Recognition | Antonia Yepes, Marie Charbonneau | [Abstract](https://arxiv.org/abs/2512.11873) · [PDF](https://arxiv.org/pdf/2512.11873) |
@@ -297,8 +318,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-04 | Precise Robotic Needle-Threading with Tactile Perception and Reinforcement Learning | Zhenjun Yu, Wenqiang Xu, Siqiong Yao, Jieji Ren et al. | [Abstract](https://arxiv.org/abs/2311.02396) · [PDF](https://arxiv.org/pdf/2311.02396) |
 | 2023-11-02 | Open-Set Object Recognition Using Mechanical Properties During Interaction | Pakorn Uttayopas, Xiaoxiao Cheng, Etienne Burdet | [Abstract](https://arxiv.org/abs/2311.01540) · [PDF](https://arxiv.org/pdf/2311.01540) |
 | 2023-10-12 | Towards Design and Development of an ArUco Markers-Based Quantitative Surface Tactile Sensor | Ozdemir Can Kara, Charles Everson, Farshid Alambeigi | [Abstract](https://arxiv.org/abs/2310.08398) · [PDF](https://arxiv.org/pdf/2310.08398) |
-| 2023-09-28 | Precise Well-plate Placing Utilizing Contact During Sliding with Tactile-based Pose Estimation for Laboratory Automation | Sameer Pai, Kuniyuki Takahashi, Shimpei Masuda, Naoki Fukaya et al. | [Abstract](https://arxiv.org/abs/2309.16170) · [PDF](https://arxiv.org/pdf/2309.16170) |
-| 2023-09-25 | Tactile Estimation of Extrinsic Contact Patch for Stable Placement | Kei Ota, Devesh K. Jha, Krishna Murthy Jatavallabhula, Asako Kanezaki et al. | [Abstract](https://arxiv.org/abs/2309.14552) · [PDF](https://arxiv.org/pdf/2309.14552) |
 
 ---
 

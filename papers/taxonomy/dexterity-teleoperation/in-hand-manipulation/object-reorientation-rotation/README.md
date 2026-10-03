@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=In-hand%20Manipulation&specialty=Object%20Reorientation%20%26%20Rotation#research-workbench)
 
-> 9 conference papers · 29 recent arXiv papers
+> 9 conference papers · 28 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,7 +28,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Rotating without Seeing: Towards In-hand Dexterity through Touch | RSS · In Hand | [Paper](https://arxiv.org/abs/2303.10880) · [Index](https://dblp.org/rec/journals/corr/abs-2303-10880) |
 | 2022 | In-Hand Object Rotation via Rapid Motor Adaptation | CoRL · Dexterous control | [Paper](https://arxiv.org/abs/2210.04887) · [Official](https://proceedings.mlr.press/v205/qi23a.html) · [Code](https://haozhi.io/hora/) |
 
-## Recent arXiv papers (29)
+## Recent arXiv papers (28)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -36,7 +36,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-09-08 | AURORA: Active Uncertainty-Driven Re-Orientation for In-Hand Reconstruction | Feiyu Zhao, Yuetong Li, Chenxi Xiao | [Abstract](https://arxiv.org/abs/2609.08493) · [PDF](https://arxiv.org/pdf/2609.08493) |
 | 2026-09-07 | WM-Craftnet: World Synesthesia Model for Generalizable and Robust Dexterous In-Hand Manipulation | Jie Yin, Zeyuan Zhao, Xiaojing Tan, Yang Liu et al. | [Abstract](https://arxiv.org/abs/2609.07002) · [PDF](https://arxiv.org/pdf/2609.07002) |
 | 2026-07-16 | KineFuse: Kinematic-Aware Haptic Fusion for In-Hand Occluded-Object Pose Tracking | Chanyoung Ahn, Jaesung Lee, Sungwoo Park, Donghyun Hwang | [Abstract](https://arxiv.org/abs/2607.14842) · [PDF](https://arxiv.org/pdf/2607.14842) |
-| 2026-06-25 | VibeAct: Vibration to Actions for Contact-Rich Reactive Robot Dexterity | Yuemin Mao, Uksang Yoo, Jean Oh, Jonathan Francis et al. | [Abstract](https://arxiv.org/abs/2606.27344) · [PDF](https://arxiv.org/pdf/2606.27344) |
 | 2026-06-23 | NoContactNoWorries: Estimating Contact through Vision and Proprioception for In-Hand Dexterous Manipulation | Soham Patil, Avirup Das, Sourabh Bhosale, Spandan Roy | [Abstract](https://arxiv.org/abs/2606.24450) · [PDF](https://arxiv.org/pdf/2606.24450) |
 | 2026-06-19 | Rotation-Aware Point-Cloud Embeddings for Vision-Based In-Hand Reorientation | Yashom Dighe, Karthik Dantu | [Abstract](https://arxiv.org/abs/2606.21788) · [PDF](https://arxiv.org/pdf/2606.21788) |
 | 2026-06-12 | ORCA: A Platform for Open-Source Dexterity Research | Francesco Capuano, Maximilian Eberlein, Fabrice Bourquin, Clemens Claudio Christoph | [Abstract](https://arxiv.org/abs/2606.14561) · [PDF](https://arxiv.org/pdf/2606.14561) |

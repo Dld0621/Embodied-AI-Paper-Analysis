@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Visual%20%26%20Language%20Navigation&specialty=Vision-language%20Navigation#research-workbench)
 
-> 5 conference papers · 111 recent arXiv papers
+> 9 conference papers · 121 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,20 +14,34 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (5)
+## Conference papers (9)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Boosting Zero-Shot VLN via Abstract Obstacle Map-Based Waypoint Prediction with TopoGraph-and-VisitInfo-Aware Prompting | ICRA · Vln | [Paper](https://arxiv.org/abs/2509.20499) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696090) |
+| 2026 | LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments | ICRA · Navigation | [Paper](https://arxiv.org/abs/2510.19655) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696861) |
+| 2026 | SFCo-Nav: Efficient Zero-Shot Visual Language Navigation via Collaboration of Slow LLM and Fast Attributed Graph Alignment | ICRA · Navigation | [Paper](https://arxiv.org/abs/2603.01477) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697553) |
+| 2026 | SINGER: An Onboard Generalist Vision-Language Navigation Policy for Drones | ICRA · Navigation | [Paper](https://arxiv.org/abs/2509.18610) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697135) |
 | 2025 | Active Test-time Vision-Language Navigation | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2506.06630) · [Index](https://dblp.org/rec/journals/corr/abs-2506-06630) |
 | 2024 | Discuss Before Moving: Visual Language Navigation via Multi-expert Discussions | ICRA · Navigation | [Paper](https://arxiv.org/abs/2309.11382) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611565) |
 | 2024 | Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems | IROS · Navigation | [Paper](https://arxiv.org/pdf/2407.07392) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802618) |
 | 2024 | MG-VLN: Benchmarking Multi-Goal and Long-Horizon Vision-Language Navigation with Language Enhanced Memory Map | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801689) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801689) |
 | 2024 | Multimodal Evolutionary Encoder for Continuous Vision-Language Navigation | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802484) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802484) |
 
-## Recent arXiv papers (111)
+## Recent arXiv papers (121)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-01 | UniTrackPLA: Unified Panorama-Language-Action Model for Instruction-Guided Navigation and Dynamic Person Tracking | Pengfei Qi, Haoran Lin, Sizhuang Chen, Kai Luo et al. | [Abstract](https://arxiv.org/abs/2610.00878) · [PDF](https://arxiv.org/pdf/2610.00878) |
+| 2026-09-30 | NavHarness: Adaptive Goals for Agentic Vision-Language Navigation | Haoxiang Shi, Zaijing Li, Muhe Ding, Xiang Deng et al. | [Abstract](https://arxiv.org/abs/2609.39915) · [PDF](https://arxiv.org/pdf/2609.39915) |
+| 2026-09-29 | Credit-Guided Policy Improvement for Test-time Adaptive Vision-Language Navigation | Yang Li, Sijia Zhang, Yihan Li, Aming WU et al. | [Abstract](https://arxiv.org/abs/2609.37591) · [PDF](https://arxiv.org/pdf/2609.37591) |
+| 2026-09-28 | Reliability-Aware Sparse Route Memory for Round-Trip Vision-Language Navigation | Bojun Long, Lingfan Bao, Tianhu Peng, Jingcheng Sun et al. | [Abstract](https://arxiv.org/abs/2609.34163) · [PDF](https://arxiv.org/pdf/2609.34163) |
+| 2026-09-28 | NavJev: Efficient Vision-Language Navigation via Action-Centric Visual Compression and Discriminative Action-Semantic Memory | Kai Sheng, Liuyi Wang, Jinlong Li, Haojie Dai et al. | [Abstract](https://arxiv.org/abs/2609.34969) · [PDF](https://arxiv.org/pdf/2609.34969) |
+| 2026-09-28 | EdgeVLN: Runtime-Aware Deployment Ready Quantized Vision Language Navigation Model | Rithvik Jonna, Man Namgung, Aakash Gurram, Tinoosh Mohsenin | [Abstract](https://arxiv.org/abs/2609.35570) · [PDF](https://arxiv.org/pdf/2609.35570) |
+| 2026-09-26 | FINE: Future-Informed Navigation Encoding for Data-Efficient Vision-Language Navigation | Khang H. Nguyen, Hoang Pham Quang Nguyen, Ha Phuong Nguyen, Khanh Dinh Binh et al. | [Abstract](https://arxiv.org/abs/2609.32855) · [PDF](https://arxiv.org/pdf/2609.32855) |
+| 2026-09-25 | SatNav: A Scalable Benchmark for Long-Horizon UAV Vision-Language Navigation from Satellite Imagery | Jiajun Jiang, Chunliang Hua, Zichun Chen, Yanxing Wu et al. | [Abstract](https://arxiv.org/abs/2609.31507) · [PDF](https://arxiv.org/pdf/2609.31507) |
+| 2026-09-22 | SparseNav: Instruction-conditioned Sparse Semantic Perception for Training-Free Vision-Language Navigation | Quanhua Chen, Juhan Kang, Runfeng Lin, ZiFei Zhang et al. | [Abstract](https://arxiv.org/abs/2609.26408) · [PDF](https://arxiv.org/pdf/2609.26408) |
+| 2026-09-20 | RiverVLN: Phase-Grounded Temporal Vision--Language Navigation for Unmanned Surface Vehicles | Jieling Wu, Yuehao Huang, Jiajun Lv, Tao Huang et al. | [Abstract](https://arxiv.org/abs/2609.23423) · [PDF](https://arxiv.org/pdf/2609.23423) |
 | 2026-09-18 | DPed-VLN: A Benchmark for Socially Compliant Vision-and-Language Navigation in Dynamic Pedestrian Environments | Haojie Dai, Xiangyi Wang, Liuyi Wang, Kai Sheng et al. | [Abstract](https://arxiv.org/abs/2609.21504) · [PDF](https://arxiv.org/pdf/2609.21504) |
 | 2026-09-16 | GroundingVLN: Reasoning and Acting with Grounding for Vision-Language Navigation | Kailing Li, Yu Han, Tianwen Qian, Yuqian Fu et al. | [Abstract](https://arxiv.org/abs/2609.18581) · [PDF](https://arxiv.org/pdf/2609.18581) |
 | 2026-09-16 | AdaGeoVLN: Selective Geometry Across Representation Depth and Navigation Time for Vision-Language Navigation | Quan-Dung Pham, Anh Dao, Danh Vinh Le, Nguyen Viet Tri Pham et al. | [Abstract](https://arxiv.org/abs/2609.18789) · [PDF](https://arxiv.org/pdf/2609.18789) |

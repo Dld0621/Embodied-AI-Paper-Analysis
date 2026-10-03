@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Exploration%20%26%20Active%20Mapping&specialty=Active%20Mapping%20%26%20Reconstruction#research-workbench)
 
-> 1 conference papers · 11 recent arXiv papers
+> 1 conference papers · 12 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2022 | Exploration with Global Consistency Using Real-Time Re-integration and Active Loop Closure | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2204.02693) · [Index](https://dblp.org/rec/conf/icra/ZhangZWS22) |
 
-## Recent arXiv papers (11)
+## Recent arXiv papers (12)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-29 | All Roads Lead to Rome: Flow-driven Multi-Anchor Exploration for Open-Environment Active 3D Mapping | Yang Li, Aming Wu, Zihao Zhang, Ziju Han et al. | [Abstract](https://arxiv.org/abs/2609.36889) · [PDF](https://arxiv.org/pdf/2609.36889) |
 | 2026-03-23 | MAGICIAN: Efficient Long-Term Planning with Imagined Gaussians for Active Mapping | Shiyao Li, Antoine Guédon, Shizhe Chen, Vincent Lepetit | [Abstract](https://arxiv.org/abs/2603.22650) · [PDF](https://arxiv.org/pdf/2603.22650) |
 | 2025-10-12 | SuperEx: Enhancing Indoor Mapping and Exploration using Non-Line-of-Sight Perception | Kush Garg, Akshat Dave | [Abstract](https://arxiv.org/abs/2510.10506) · [PDF](https://arxiv.org/pdf/2510.10506) |
 | 2025-06-21 | Optimizing Exploration with a New Uncertainty Framework for Active SLAM Systems | Sebastian Sansoni, Javier Gimenez, Gastón Castro, Santiago Tosetti et al. | [Abstract](https://arxiv.org/abs/2506.17775) · [PDF](https://arxiv.org/pdf/2506.17775) |

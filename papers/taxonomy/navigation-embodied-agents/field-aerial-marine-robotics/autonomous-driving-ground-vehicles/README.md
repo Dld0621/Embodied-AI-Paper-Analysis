@@ -24,7 +24,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Topological Mapping for Traversability-Aware Long-Range Navigation in Off-Road Terrain | ICRA · Navigation | [Paper](https://arxiv.org/abs/2410.01925) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128536) |
 | 2025 | UAV-Assisted Self-Supervised Terrain Awareness for Off-Road Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.18253) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128050) |
 | 2025 | Multimodal Integrated Prediction and Decision-making with Adaptive Interaction Modality Explorations | IROS · Exploration | [Paper](https://arxiv.org/abs/2408.13742) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247130) |
-| 2025 | ADVEDM:Fine-grained Adversarial Attack against VLM-based Embodied Agents | NeurIPS · Embodied Agent | [Paper](https://arxiv.org/abs/2509.16645) · [Index](https://dblp.org/rec/journals/corr/abs-2509-16645) |
+| 2025 | ADVEDM:Fine-grained Adversarial Attack against VLM-based Embodied Agents | NeurIPS · Embodied Agent | [Paper](https://arxiv.org/abs/2509.16645) · [Index](https://dblp.org/rec/conf/nips/WangZPZWGXHLZ25) |
 | 2024 | Follow the Footprints: Self-supervised Traversability Estimation for Off-road Vehicle Navigation based on Geometric and Visual Cues | ICRA · Navigation | [Paper](https://arxiv.org/abs/2402.15363) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611198) |
 | 2024 | Multi-Sample Long Range Path Planning under Sensing Uncertainty for Off-Road Autonomous Driving | ICRA · Path Planning | [Paper](https://arxiv.org/abs/2403.11298) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610476) |
 | 2023 | Learning Risk-Aware Costmaps via Inverse Reinforcement Learning for Off-Road Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2302.00134) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161268) |
@@ -36,6 +36,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-30 | Efficient Multi-Modal Planning with Reward-Guided Preference Optimization for Autonomous Driving | Chenglin Chen, Lujia Wang, Xinhu Zheng, Jun Ma et al. | [Abstract](https://arxiv.org/abs/2609.38862) · [PDF](https://arxiv.org/pdf/2609.38862) |
+| 2026-09-24 | WALT: Learning World-Model-Aligned Latent Trajectories for Autonomous Driving | Mingkai Jia, Jiaxin Guo, Zhijian Shu, Jiawei Xu et al. | [Abstract](https://arxiv.org/abs/2609.30436) · [PDF](https://arxiv.org/pdf/2609.30436) |
 | 2026-09-17 | Vehicle Trajectory Prediction via Neural Fusion of Multiple EKF-Based Trajectory Candidates | Seong-Jun Kim, Seung-Hyun Kong | [Abstract](https://arxiv.org/abs/2609.19813) · [PDF](https://arxiv.org/pdf/2609.19813) |
 | 2026-09-17 | PIVOT: Physically Informed Vision-Language Off-Road Traversability for Field Robot Navigation | Aoran Jiao, Wenda Zhao, Hshmat Sahak, Timothy D. Barfoot | [Abstract](https://arxiv.org/abs/2609.20983) · [PDF](https://arxiv.org/pdf/2609.20983) |
 | 2026-09-17 | Feeling Terrain Before Crossing: World Models for Off-Road Navigation | E-In Son, Dong-Wook Kim, Ji-Hoon Hwang, Kangsun Lee et al. | [Abstract](https://arxiv.org/abs/2609.19863) · [PDF](https://arxiv.org/pdf/2609.19863) |
@@ -172,8 +174,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-17 | Imagination-Augmented Hierarchical Reinforcement Learning for Safe and Interactive Autonomous Driving in Urban Environments | Sang-Hyun Lee, Yoonjae Jung, Seung-Woo Seo | [Abstract](https://arxiv.org/abs/2311.10309) · [PDF](https://arxiv.org/pdf/2311.10309) |
 | 2023-11-14 | PPAD: Iterative Interactions of Prediction and Planning for End-to-end Autonomous Driving | Zhili Chen, Maosheng Ye, Shuangjie Xu, Tongyi Cao et al. | [Abstract](https://arxiv.org/abs/2311.08100) · [PDF](https://arxiv.org/pdf/2311.08100) |
 | 2023-11-01 | PIAug -- Physics Informed Augmentation for Learning Vehicle Dynamics for Off-Road Navigation | Parv Maheshwari, Wenshan Wang, Samuel Triest, Matthew Sivaprakasam et al. | [Abstract](https://arxiv.org/abs/2311.00815) · [PDF](https://arxiv.org/pdf/2311.00815) |
-| 2023-09-30 | Deep Reinforcement Learning for Autonomous Vehicle Intersection Navigation | Badr Ben Elallid, Hamza El Alaoui, Nabil Benamar | [Abstract](https://arxiv.org/abs/2310.08595) · [PDF](https://arxiv.org/pdf/2310.08595) |
-| 2023-09-21 | Real-Time Capable Decision Making for Autonomous Driving Using Reachable Sets | Niklas Kochdumper, Stanley Bak | [Abstract](https://arxiv.org/abs/2309.12289) · [PDF](https://arxiv.org/pdf/2309.12289) |
 
 ---
 

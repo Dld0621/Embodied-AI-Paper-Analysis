@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Retargeting%20%26%20Human%20Motion&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 5 conference papers · 9 recent arXiv papers
+> 5 conference papers · 10 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | GenAug: Retargeting behaviors to unseen situations via Generative Augmentation | RSS · Retargeting | [Paper](https://arxiv.org/abs/2302.06671) · [Index](https://dblp.org/rec/journals/corr/abs-2302-06671) |
 | 2022 | A Riemannian Take on Human Motion Analysis and Retargeting | IROS · Retargeting | [Paper](https://arxiv.org/pdf/2208.01372) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982127) |
 
-## Recent arXiv papers (9)
+## Recent arXiv papers (10)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-13 | OJOx: Specification-Conditioned Demonstrations for Embodied AI in Construction | Mohamed Dawod | [Abstract](https://arxiv.org/abs/2609.22289) · [PDF](https://arxiv.org/pdf/2609.22289) |
 | 2026-08-04 | DigitCode: Symbolic Tokenization of Hand Motion by Anatomical Units | Haoyu Gu, Haotian Lu, Jingrun Du, Xiao-Ping Zhang | [Abstract](https://arxiv.org/abs/2608.03127) · [PDF](https://arxiv.org/pdf/2608.03127) |
 | 2026-07-13 | Automated Synthesis of Facial Mechanisms for Conversational Animatronic Robots | Zongzheng Zhang, Zi Lin, Jiawen Yang, Ziqiao Peng et al. | [Abstract](https://arxiv.org/abs/2607.11688) · [PDF](https://arxiv.org/pdf/2607.11688) |
 | 2026-04-01 | Functional Force-Aware Retargeting from Virtual Human Demos to Soft Robot Policies | Uksang Yoo, Mengjia Zhu, Evan Pezent, Jom Preechayasomboon et al. | [Abstract](https://arxiv.org/abs/2604.01224) · [PDF](https://arxiv.org/pdf/2604.01224) |

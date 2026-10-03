@@ -18,8 +18,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2024 | Fast and Communication-Efficient Multi-UAV Exploration Via Voronoi Partition on Dynamic Topological Graph | IROS · Exploration | [Paper](https://arxiv.org/abs/2408.05808) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801613) |
-| 2024 | Highly Efficient Observation Process Based on FFT Filtering for Robot Swarm Collaborative Navigation in Unknown Environments* | IROS · Navigation | [Paper](https://arxiv.org/abs/2405.07687) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801770) |
+| 2024 | Fast and Communication-Efficient Multi-UAV Exploration Via Voronoi Partition on Dynamic Topological Graph | IROS · Exploration | [Paper](https://arxiv.org/pdf/2408.05808) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801613) |
+| 2024 | Highly Efficient Observation Process Based on FFT Filtering for Robot Swarm Collaborative Navigation in Unknown Environments* | IROS · Navigation | [Paper](https://arxiv.org/pdf/2405.07687) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801770) |
 | 2024 | Robot Swarm Control Based on Smoothed Particle Hydrodynamics for Obstacle-Unaware Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2404.16309) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801800) |
 | 2022 | Barrier Function-based Safe Reinforcement Learning for Formation Control of Mobile Robots | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/icra46639.2022.9811604) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811604) |
 

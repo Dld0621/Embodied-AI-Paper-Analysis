@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Pretraining%2C%20Scaling%20%26%20Transfer&specialty=Robot%20Pretraining%20%26%20Foundation%20Policies#research-workbench)
 
-> 6 conference papers · 66 recent arXiv papers
+> 6 conference papers · 72 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -19,16 +19,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | DiffusionVLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression | ICML · Vla | [Paper](https://www.semanticscholar.org/paper/f0d17501c051e4c7220affd296a307763741bada) · [Index](https://dblp.org/rec/conf/icml/WenZZTLZL0PF25) |
-| 2025 | PAC Bench: Do Foundation Models Understand Prerequisites for Executing Manipulation Policies? | NeurIPS · Foundation Model | [Paper](https://arxiv.org/abs/2506.23725) · [Index](https://dblp.org/rec/conf/nips/GundawarSS25) |
+| 2025 | PAC Bench: Do Foundation Models Understand Prerequisites for Executing Manipulation Policies? | NeurIPS · Foundation Model | [Paper](https://arxiv.org/abs/2506.23725) · [Index](https://dblp.org/rec/journals/corr/abs-2506-23725) |
 | 2024 | Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance | CoRL · Foundation Model | [Paper](https://arxiv.org/abs/2410.13816) · [Index](https://dblp.org/rec/journals/corr/abs-2410-13816) |
 | 2024 | Adapt2Reward: Adapting Video-Language Models to Generalizable Robotic Rewards via Failure Prompts | ECCV · Language Model | [Paper](https://arxiv.org/abs/2407.14872) · [Index](https://dblp.org/rec/conf/eccv/YangCQWWLGH24) |
 | 2024 | Octo: An Open-Source Generalist Robot Policy | RSS · Generalist robot policy | [Paper](https://arxiv.org/abs/2405.12213) · [Official](https://doi.org/10.15607/RSS.2024.XX.090) · [Code](https://github.com/octo-models/octo) |
 | 2023 | RT-1: Robotics Transformer for Real-World Control at Scale | RSS · Generalist robot policy | [Paper](https://arxiv.org/abs/2212.06817) · [Official](https://roboticsproceedings.org/rss19/p025.html) |
 
-## Recent arXiv papers (66)
+## Recent arXiv papers (72)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-30 | ChunkTrust: Adapting Execution Horizons for Robot Policies with Action-Expert Evidence | Fanding Huang, Jingyan Jiang, Shifeng Bao, Mingkang Pu et al. | [Abstract](https://arxiv.org/abs/2609.39754) · [PDF](https://arxiv.org/pdf/2609.39754) |
+| 2026-09-29 | Simple Agentic Memory for Generalist Robot Policies | Yuyou Zhang, Yunbei Zhang, Miao Li, Janet Wang et al. | [Abstract](https://arxiv.org/abs/2609.36595) · [PDF](https://arxiv.org/pdf/2609.36595) |
+| 2026-09-29 | FP2: Equipping Robotic Foundation Models with Force Control | Hongjie Fang, Shirun Tang, Junjian Hu, Shidong Zhang et al. | [Abstract](https://arxiv.org/abs/2609.37433) · [PDF](https://arxiv.org/pdf/2609.37433) |
+| 2026-09-27 | Demonstration-Free Success-Probability Reward Learning for Generalist Robot Policies | Duo Wu, Haifeng Wang, Rongwei Lu, Jinghe Wang et al. | [Abstract](https://arxiv.org/abs/2609.33653) · [PDF](https://arxiv.org/pdf/2609.33653) |
+| 2026-09-24 | MOCHA: Multi-Objective Co-Design using Hypernetwork Architectures | Varun Madabushi, Neil Janwani, Maegan Tucker | [Abstract](https://arxiv.org/abs/2609.30570) · [PDF](https://arxiv.org/pdf/2609.30570) |
+| 2026-09-21 | Toward a foundation model for forest point clouds | Yuanwen Yue, Stefano Puliti, Damien Robert, Atakan Topaloğlu et al. | [Abstract](https://arxiv.org/abs/2609.24787) · [PDF](https://arxiv.org/pdf/2609.24787) |
 | 2026-09-16 | FIERCE: From Generalist Robot Policies to Fast Specialists via Progress-Failure Feedback | Runjia Tan, Yuang Tu, Yujie Yan, Lan Yu et al. | [Abstract](https://arxiv.org/abs/2609.18651) · [PDF](https://arxiv.org/pdf/2609.18651) |
 | 2026-09-11 | Breaking the Vision-Action Shortcut: Latent Interface Training for Generalizable Robotics Foundation Models | Jianman Lin, Shailesh Shailesh, Zhongyi Luo, Jiafei Duan | [Abstract](https://arxiv.org/abs/2609.12641) · [PDF](https://arxiv.org/pdf/2609.12641) |
 | 2026-09-09 | HaWMPO: Hallucination-Aware World Model-based Policy Optimization for Generalist Robot Policy | Zengjue Chen, Peidong Liu, Jiawei Li, Qi Wang | [Abstract](https://arxiv.org/abs/2609.09941) · [PDF](https://arxiv.org/pdf/2609.09941) |

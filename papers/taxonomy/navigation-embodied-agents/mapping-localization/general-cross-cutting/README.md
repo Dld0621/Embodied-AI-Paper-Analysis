@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Mapping%20%26%20Localization&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 19 conference papers · 520 recent arXiv papers
+> 22 conference papers · 527 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (19)
+## Conference papers (22)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Calibration-Free Gas Source Localization with Mobile Robots: Source Term Estimation Based on Concentration Measurement Ranking | ICRA · Mobile Robot | [Paper](https://arxiv.org/abs/2605.13208) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696773) |
+| 2026 | PersONAL: Towards a Comprehensive Benchmark for Personalized Embodied Agents | ICRA · Embodied Agent | [Paper](https://arxiv.org/abs/2509.19843) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696070) |
+| 2026 | Seeing the Bigger Picture: 3D Latent Mapping for Mobile Manipulation Policy Learning | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/abs/2510.03885) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697430) |
 | 2025 | Active Semantic Mapping with Mobile Manipulator in Horticultural Environments | ICRA · Semantic Mapping | [Paper](https://arxiv.org/abs/2412.10515) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127547) |
 | 2025 | Dynamem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/abs/2411.04999) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127619) |
 | 2025 | A Robust Distributed Odometry for Mobile Robots with Steerable Wheels | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS60139.2025.11246800) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246800) |
@@ -38,10 +41,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration | IROS · Exploration | [Paper](https://arxiv.org/pdf/2202.09631) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981251) |
 | 2022 | Mapping of Spatiotemporal Scalar Fields by Mobile Robots using Gaussian Process Regression | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981548) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981548) |
 
-## Recent arXiv papers (520)
+## Recent arXiv papers (527)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-28 | Task-Oriented Communications for Edge-Assisted Multi-View Localization | Zhengru Fang, Huanhuan Lou, Senkang Hu, Yihang Tao et al. | [Abstract](https://arxiv.org/abs/2609.35173) · [PDF](https://arxiv.org/pdf/2609.35173) |
+| 2026-09-28 | ExcavaTwin: Training-Free Geometry-Guided Semantic Elevation Mapping for Autonomous Excavation | Yu Deng, Lingshan Zeng, Tong Hu, Rushi Dai | [Abstract](https://arxiv.org/abs/2609.34719) · [PDF](https://arxiv.org/pdf/2609.34719) |
+| 2026-09-24 | DGT-Map: Directional Global Traversability Mapping Utilizing Multi-Task Learning for Heterogeneous Vehicles | Jaskrit Singh, Kashif K. Noori, Jing Xiao, Constantinos Chamzas | [Abstract](https://arxiv.org/abs/2609.30461) · [PDF](https://arxiv.org/pdf/2609.30461) |
+| 2026-09-24 | Assessing the Impact of Fleet Size on Crowdsourced Mapping Using a Dissimilarity Measure | Marie-Ngoïe Badibanga Kalenda, Philippe Bonnifait, Marie-Anne Mittet | [Abstract](https://arxiv.org/abs/2609.29198) · [PDF](https://arxiv.org/pdf/2609.29198) |
+| 2026-09-23 | Wave-Robust Passive AUV Localization Using FP-MUSIC | Usama Saqib, Ola Rønning, Andrzej Wąsowski | [Abstract](https://arxiv.org/abs/2609.27712) · [PDF](https://arxiv.org/pdf/2609.27712) |
+| 2026-09-23 | Reflection-Aware Reasoning for Non-Line-of-Sight Pedestrian Localization | Byeonggyu Park, Mingu Jeon, Seong-Woo Kim | [Abstract](https://arxiv.org/abs/2609.27346) · [PDF](https://arxiv.org/pdf/2609.27346) |
+| 2026-09-22 | Dr-LiSA: Direct Radar-Lidar Scan Alignment for $SE(3)$ Localization | Alex Zhang, Daniil Lisus, Cedric Le Gentil, Timothy D. Barfoot | [Abstract](https://arxiv.org/abs/2609.26423) · [PDF](https://arxiv.org/pdf/2609.26423) |
+| 2026-09-21 | Odometry-Aided Real-Time Mapping for Underwater Robots Using Forward-Looking Sonar | Siyuan Du, Kanzhong Yao, Youdong Wang, Yingqi Liu et al. | [Abstract](https://arxiv.org/abs/2609.24195) · [PDF](https://arxiv.org/pdf/2609.24195) |
+| 2026-09-21 | Audio-based UAV Localization with Adaptive Temporal Correspondence via Reinforcement Learning | Haoxiang Lei, Mingzheng Feng, Daotong Wang, Shenghai Yuan | [Abstract](https://arxiv.org/abs/2609.24218) · [PDF](https://arxiv.org/pdf/2609.24218) |
 | 2026-09-17 | Selective Cotton Boll Localization for Robotic Harvesting: Evaluation of Deep Learning Vision Models Under Field Conditions | Thevathayarajh Thayananthan, Xin Zhang, Isuru Laddusinghe Badu, Jonathan Harjono et al. | [Abstract](https://arxiv.org/abs/2609.19592) · [PDF](https://arxiv.org/pdf/2609.19592) |
 | 2026-09-17 | PerSeM: Persistent Semantic Memory for Long-Horizon Open-Vocabulary UAV Mapping | Saurbh Singh Jamwal, Ganesh Ramakrishnan | [Abstract](https://arxiv.org/abs/2609.19542) · [PDF](https://arxiv.org/pdf/2609.19542) |
 | 2026-09-17 | EliGSiR: Continual RGB-D Mapping with Gaussian Splatting under Bounded Compute | Björn Ellensohn, Elmar Rueckert, Christian Rauch | [Abstract](https://arxiv.org/abs/2609.20348) · [PDF](https://arxiv.org/pdf/2609.20348) |
@@ -105,7 +117,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-12 | BIM-Loc: BIM-Integrated Discrepancy-Aware LiDAR-based Indoor Localization | Yinqiang Zhang, Liang Lu, Yipeng Pan, Maolin Lei et al. | [Abstract](https://arxiv.org/abs/2606.14237) · [PDF](https://arxiv.org/pdf/2606.14237) |
 | 2026-06-11 | SERF: Spatiotemporal Environment and Robot Feature Map for Long-Horizon Mobile Manipulation | Sunghwan Kim, Byeonghyun Pak, Kehan Long, Yulun Tian et al. | [Abstract](https://arxiv.org/abs/2606.12956) · [PDF](https://arxiv.org/pdf/2606.12956) |
 | 2026-06-11 | SemanticXR: Low Power and Real-time Queryable Semantic Mapping with an Object-Level Device-Cloud Architecture | Rahul Singh, Devdeep Ray, Connor Smith, Sarita Adve | [Abstract](https://arxiv.org/abs/2606.12849) · [PDF](https://arxiv.org/pdf/2606.12849) |
-| 2026-06-09 | Hand-centric Human-to-Robot Trajectory Transfer from Video Demonstrations via Open-World Contact Localization | Yitian Shi, Di Wen, Zhengqi Han, Zicheng Guo et al. | [Abstract](https://arxiv.org/abs/2606.10743) · [PDF](https://arxiv.org/pdf/2606.10743) |
+| 2026-06-09 | Hand-centric Human-to-Robot Trajectory Transfer from Video Demonstrations via Object Category-agnostic Temporal Localization | Yitian Shi, Di Wen, Zhengqi Han, Zicheng Guo et al. | [Abstract](https://arxiv.org/abs/2606.10743) · [PDF](https://arxiv.org/pdf/2606.10743) |
 | 2026-06-08 | Trajectory Optimization in Single and Dual-UAV Bearing-Only Target Localization | Zhijian Xiao, Huayu Huang, Bin Li, Yang Shang et al. | [Abstract](https://arxiv.org/abs/2606.09188) · [PDF](https://arxiv.org/pdf/2606.09188) |
 | 2026-06-03 | MAD: Mapping-Aware World Models for Agile Quadrotor Flight | Xinhong Zhang, Runqing Wang, Yunfan Ren, Ding Yu et al. | [Abstract](https://arxiv.org/abs/2606.04534) · [PDF](https://arxiv.org/pdf/2606.04534) |
 | 2026-06-03 | Cooperative Circumnavigation for Multiple Unmanned Surface Vehicles Without External Localization | Xueming Liu, Lin Li, Xiang Zhou, Tianjiang Hu et al. | [Abstract](https://arxiv.org/abs/2606.04518) · [PDF](https://arxiv.org/pdf/2606.04518) |
@@ -134,6 +146,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-04-21 | Localization-Guided Foreground Augmentation in Autonomous Driving | Jiawei Yong, Deyuan Qu, Qi Chen, Kentaro Oguchi et al. | [Abstract](https://arxiv.org/abs/2604.18940) · [PDF](https://arxiv.org/pdf/2604.18940) |
 | 2026-04-15 | RoSLAC: Robust Simultaneous Localization and Calibration of Multiple Magnetometers | Qiyang Lyu, Zhenyu Wu, Wei Wang, Hongming Shen et al. | [Abstract](https://arxiv.org/abs/2604.14353) · [PDF](https://arxiv.org/pdf/2604.14353) |
 | 2026-04-14 | D-BDM: A Direct and Efficient Boundary-Based Occupancy Grid Mapping Framework for LiDARs | Benxu Tang, Yixi Cai, Fanze Kong, Longji Yin et al. | [Abstract](https://arxiv.org/abs/2604.12436) · [PDF](https://arxiv.org/pdf/2604.12436) |
+| 2026-04-13 | MR.ScaleMaster: Scale-Consistent Collaborative Mapping from Crowd-Sourced Monocular Videos | Hyoseok Ju, Giseop Kim | [Abstract](https://arxiv.org/abs/2604.11372) · [PDF](https://arxiv.org/pdf/2604.11372) |
 | 2026-04-07 | LSGS-Loc: Towards Robust 3DGS-Based Visual Localization for Large-Scale UAV Scenarios | Xiang Zhang, Tengfei Wang, Fang Xu, Xin Wang et al. | [Abstract](https://arxiv.org/abs/2604.05402) · [PDF](https://arxiv.org/pdf/2604.05402) |
 | 2026-04-06 | G-EDF-Loc: 3D Continuous Gaussian Distance Field for Robust Gradient-Based 6DoF Localization | José E. Maese, Lucía Coto-Elena, Luis Merino, Fernando Caballero | [Abstract](https://arxiv.org/abs/2604.04525) · [PDF](https://arxiv.org/pdf/2604.04525) |
 | 2026-04-03 | SCC-Loc: A Unified Semantic Cascade Consensus Framework for UAV Thermal Geo-Localization | Xiaoran Zhang, Yu Liu, Jinyu Liang, Kangqiushi Li et al. | [Abstract](https://arxiv.org/abs/2604.03120) · [PDF](https://arxiv.org/pdf/2604.03120) |
@@ -559,9 +572,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-06 | Doppler-only Single-scan 3D Vehicle Odometry | Andres Galeote-Luque, Vladimír Kubelka, Martin Magnusson, Jose-Raul Ruiz-Sarmiento et al. | [Abstract](https://arxiv.org/abs/2310.04113) · [PDF](https://arxiv.org/pdf/2310.04113) |
 | 2023-10-05 | Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation | Kashu Yamazaki, Taisei Hanyu, Khoa Vo, Thang Pham et al. | [Abstract](https://arxiv.org/abs/2310.03923) · [PDF](https://arxiv.org/pdf/2310.03923) |
 | 2023-10-03 | Fast Localization and Tracking in City-Scale UWB Networks | Nakul Garg, Irtaza Shahid, Ramanujan K Sheshadri, Karthikeyan Sundaresan et al. | [Abstract](https://arxiv.org/abs/2310.02211) · [PDF](https://arxiv.org/pdf/2310.02211) |
-| 2023-10-02 | Memory-efficient particle filter recurrent neural network for object localization | Roman Korkin, Ivan Oseledets, Aleksandr Katrutsa | [Abstract](https://arxiv.org/abs/2310.01595) · [PDF](https://arxiv.org/pdf/2310.01595) |
-| 2023-09-25 | Invariant Smoothing for Localization: Including the IMU Biases | Paul Chauchat, Silvère Bonnabel, Axel Barrau | [Abstract](https://arxiv.org/abs/2309.13903) · [PDF](https://arxiv.org/pdf/2309.13903) |
-| 2023-09-24 | PanopticNDT: Efficient and Robust Panoptic Mapping | Daniel Seichter, Benedict Stephan, Söhnke Benedikt Fischedick, Steffen Müller et al. | [Abstract](https://arxiv.org/abs/2309.13635) · [PDF](https://arxiv.org/pdf/2309.13635) |
 
 ---
 

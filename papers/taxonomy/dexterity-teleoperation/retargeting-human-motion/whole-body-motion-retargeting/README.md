@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Retargeting%20%26%20Human%20Motion&specialty=Whole-body%20%26%20Motion%20Retargeting#research-workbench)
 
-> 3 conference papers · 21 recent arXiv papers
+> 5 conference papers · 25 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,18 +14,24 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (3)
+## Conference papers (5)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2607.05883) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695926) |
+| 2026 | Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking | ICRA · Retargeting | [Paper](https://arxiv.org/abs/2510.02252) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697263) |
 | 2025 | Robust and Expressive Humanoid Motion Retargeting via Optimization-Based Rig Unification | IROS · Retargeting | [Paper](https://doi.org/10.1109/IROS60139.2025.11246607) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246607) |
 | 2024 | Redefining Data Pairing for Motion Retargeting Leveraging a Human Body Prior | IROS · Retargeting | [Paper](https://arxiv.org/abs/2409.13208) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801789) |
 | 2023 | Robust Real-Time Motion Retargeting via Neural Latent Prediction | IROS · Retargeting | [Paper](https://doi.org/10.1109/IROS55552.2023.10342022) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342022) |
 
-## Recent arXiv papers (21)
+## Recent arXiv papers (25)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-01 | FlashDexRetarget: Accelerating Dexterous Manipulation Data Generation through Multi-Motion Retargeting | Kyungmin Lee, Sibeen Kim, Dongyoon Hwang, Yoonsang Oh et al. | [Abstract](https://arxiv.org/abs/2610.01849) · [PDF](https://arxiv.org/pdf/2610.01849) |
+| 2026-09-29 | OTRetarget: Joint Robot and Object Motion Retargeting via Optimal Transport | Guillaume Besset, Erwann Carn, Timothée Carecchio, Valentin Tordjman-Levavasseur et al. | [Abstract](https://arxiv.org/abs/2609.36602) · [PDF](https://arxiv.org/pdf/2609.36602) |
+| 2026-09-29 | Geometry-Preserving Human-to-Robot Upper-Body Motion Retargeting from Monocular Video | Xiaoyu Yang, Sen Han, Da Li, Nan Wu | [Abstract](https://arxiv.org/abs/2609.37776) · [PDF](https://arxiv.org/pdf/2609.37776) |
+| 2026-09-29 | Dense Temporal Motion Retargeting for Legged Robots | Jaeryeong Kim, Taerim Yoon, Jin Cheng, Sungjoon Choi et al. | [Abstract](https://arxiv.org/abs/2609.38617) · [PDF](https://arxiv.org/pdf/2609.38617) |
 | 2026-09-02 | Unified Motion Retargeting for Humanoids with Learned Point Cloud Correspondence | Hanyang Cao, Yuetong Fang, Taesoo Kwon, Runyi Yu et al. | [Abstract](https://arxiv.org/abs/2609.02134) · [PDF](https://arxiv.org/pdf/2609.02134) |
 | 2026-08-04 | Shooting for Contact: Contact-Implicit Multiple Shooting for Dynamic Motion Retargeting | Sergio A. Esteban, Jason H. K. Siu, Derrick Mach, Junheng Li et al. | [Abstract](https://arxiv.org/abs/2608.03116) · [PDF](https://arxiv.org/pdf/2608.03116) |
 | 2026-07-07 | DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control | Yuanchuan Lai, Qing Gao, Ziyan Liang, Xianfeng Cheng et al. | [Abstract](https://arxiv.org/abs/2607.05883) · [PDF](https://arxiv.org/pdf/2607.05883) |

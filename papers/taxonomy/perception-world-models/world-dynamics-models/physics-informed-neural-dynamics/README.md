@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=World%20%26%20Dynamics%20Models&specialty=Physics-informed%20%26%20Neural%20Dynamics#research-workbench)
 
-> 6 conference papers · 47 recent arXiv papers
+> 8 conference papers · 47 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (6)
+## Conference papers (8)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | IMPASTO: Integrating Model-Based Planning with Learned Dynamics Models for Robotic Oil Painting Reproduction | ICRA · Dynamics Model | [Paper](https://arxiv.org/abs/2603.29315) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696393) |
+| 2026 | Robust Online Residual Refinement via Koopman-Guided Dynamics Modeling | ICRA · Dynamics Model | [Paper](https://arxiv.org/abs/2509.12562) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697387) |
 | 2025 | AnyCar to Anywhere: Learning Universal Dynamics Model for Agile and Adaptive Mobility | ICRA · Dynamics Model | [Paper](https://arxiv.org/abs/2409.15783) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128396) |
 | 2025 | Dynamics Modeling Using Visual Terrain Features for High-Speed Autonomous Off-Road Driving | ICRA · Dynamics Model | [Paper](https://arxiv.org/abs/2412.00581) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128031) |
 | 2024 | Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling | CoRL · Dynamics Model | [Paper](https://arxiv.org/abs/2410.18912) · [Index](https://dblp.org/rec/journals/corr/abs-2410-18912) |

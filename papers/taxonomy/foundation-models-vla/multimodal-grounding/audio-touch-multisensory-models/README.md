@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Multimodal%20Grounding&specialty=Audio%2C%20Touch%20%26%20Multisensory%20Models#research-workbench)
 
-> 4 conference papers · 73 recent arXiv papers
+> 4 conference papers · 74 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,12 +21,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | EIC Framework for Hand Exoskeletons Based on a Multimodal Large Language Model | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246670) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246670) |
 | 2025 | Multimodal Human Activity Recognition with a Large Language Model for Enhanced Human-Robot Interaction | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11247147) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247147) |
 | 2025 | Towards Emotion Co-regulation with LLM-powered Socially Assistive Robots: Integrating LLM Prompts and Robotic Behaviors to Support Parent-Neurodivergent Child Dyads | IROS · Llm | [Paper](https://research.tue.nl/en/publications/dc2e3607-4e01-4b21-84b9-19b6225f8828) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246217) |
-| 2024 | Octopi: Object Property Reasoning with Large Tactile-Language Models | RSS · Language Model | [Paper](https://arxiv.org/abs/2405.02794) · [Index](https://dblp.org/rec/journals/corr/abs-2405-02794) |
+| 2024 | Octopi: Object Property Reasoning with Large Tactile-Language Models | RSS · Language Model | [Paper](https://arxiv.org/abs/2405.02794) · [Index](https://dblp.org/rec/conf/rss/0001LXDS24) |
 
-## Recent arXiv papers (73)
+## Recent arXiv papers (74)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-25 | AuthGuard-R: Safety-Compliant Mission Hijacking and Dual-Gate Defense for LLM-Controlled Robots | Saidattu Chepuri, Vikas Srivastava | [Abstract](https://arxiv.org/abs/2609.31110) · [PDF](https://arxiv.org/pdf/2609.31110) |
+| 2026-09-20 | Cognitive Action Reasoning for Proactive Robots from Human-Centered Multimodal Observations | Zhihao Gu, Kechao Zhu, Yuanfeng Wu, Mohan Liu et al. | [Abstract](https://arxiv.org/abs/2609.23486) · [PDF](https://arxiv.org/pdf/2609.23486) |
 | 2026-09-17 | TacSushi: Tactile-Grounded World-Action Modeling for Dexterous Sushi Manipulation | Haodi Hu, Kaen Kogashi, Toshiaki Koike-Akino | [Abstract](https://arxiv.org/abs/2609.19613) · [PDF](https://arxiv.org/pdf/2609.19613) |
 | 2026-09-12 | Co-Speech with You: Training-Free Personalization of Robot Co-Speech Gestures | Bosong Ding, Selma Ancel, Giacomo Spigler, Murat Kirtay | [Abstract](https://arxiv.org/abs/2609.13876) · [PDF](https://arxiv.org/pdf/2609.13876) |
 | 2026-08-23 | The Potential of Haptic Foundation Models | Jianquan Wang, Haiwei Dong, Abdulmotaleb El Saddik | [Abstract](https://arxiv.org/abs/2608.28664) · [PDF](https://arxiv.org/pdf/2608.28664) |
@@ -99,7 +101,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-01-26 | LaMI: Large Language Models for Multi-Modal Human-Robot Interaction | Chao Wang, Stephan Hasler, Daniel Tanneberg, Felix Ocker et al. | [Abstract](https://arxiv.org/abs/2401.15174) · [PDF](https://arxiv.org/pdf/2401.15174) |
 | 2024-01-16 | MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World | Yining Hong, Zishuo Zheng, Peihao Chen, Yian Wang et al. | [Abstract](https://arxiv.org/abs/2401.08577) · [PDF](https://arxiv.org/pdf/2401.08577) |
 | 2023-12-15 | VITA: A Multi-modal LLM-based System for Longitudinal, Autonomous, and Adaptive Robotic Mental Well-being Coaching | Micol Spitale, Minja Axelsson, Hatice Gunes | [Abstract](https://arxiv.org/abs/2312.09740) · [PDF](https://arxiv.org/pdf/2312.09740) |
-| 2023-09-28 | A Sign Language Recognition System with Pepper, Lightweight-Transformer, and LLM | JongYoon Lim, Inkyu Sa, Bruce MacDonald, Ho Seok Ahn | [Abstract](https://arxiv.org/abs/2309.16898) · [PDF](https://arxiv.org/pdf/2309.16898) |
 
 ---
 

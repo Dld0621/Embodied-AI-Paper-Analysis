@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Field%2C%20Aerial%20%26%20Marine%20Robotics&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 1 conference papers · 52 recent arXiv papers
+> 1 conference papers · 53 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | MORE: Mobile Manipulation Rearrangement Through Grounded Language Reasoning | IROS · Mobile Manipulation | [Paper](https://arxiv.org/abs/2505.03035) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247596) |
 
-## Recent arXiv papers (52)
+## Recent arXiv papers (53)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-25 | Cybflight: An Embedded Rust Autopilot for Aerial Robotics Research | Yifan Lin, Chao Qin, H S Helson Go, Hugh H. -T. Liu | [Abstract](https://arxiv.org/abs/2609.31232) · [PDF](https://arxiv.org/pdf/2609.31232) |
 | 2026-09-17 | Custom PX4 firmware for autonomous hybrid aerial-marine missions | Andrea Capuozzo, Fabio Ruggiero, Vincenzo Lippiello | [Abstract](https://arxiv.org/abs/2609.20691) · [PDF](https://arxiv.org/pdf/2609.20691) |
 | 2026-09-03 | A comparative study on the accuracy & repeatability of mobile robotic platforms for the delivery of precision NDE measurement | SeyedMohammadAmin Nabi Pour, S. Gareth Pierce, Randika Vithanage, Ehsan Mohseni et al. | [Abstract](https://arxiv.org/abs/2609.03794) · [PDF](https://arxiv.org/pdf/2609.03794) |
 | 2026-08-03 | Staying on Spec: Real-Time Monitoring under Uncertainty with a Maritime Case Study | Elizabeth Dietrich, Hanna Krasowski, Emir Cem Gezer, Roger Skjetne et al. | [Abstract](https://arxiv.org/abs/2608.02811) · [PDF](https://arxiv.org/pdf/2608.02811) |

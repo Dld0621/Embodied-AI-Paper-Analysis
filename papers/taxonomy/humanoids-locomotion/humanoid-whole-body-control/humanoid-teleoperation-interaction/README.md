@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Humanoid%20Whole-body%20Control&specialty=Humanoid%20Teleoperation%20%26%20Interaction#research-workbench)
 
-> 4 conference papers · 29 recent arXiv papers
+> 5 conference papers · 32 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,19 +14,23 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (4)
+## Conference papers (5)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | COLA: Learning Human-Humanoid Coordination for Collaborative Object Carrying | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2510.14293) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696713) |
 | 2025 | MPC-QP-Based Control Framework for Compliant Behavior of Humanoid Robots in Physical Collaboration with Humans | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128037) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128037) |
 | 2024 | OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning | CoRL · Whole-body teleoperation | [Paper](https://arxiv.org/abs/2406.08858) · [Official](https://proceedings.mlr.press/v270/) · [Code](https://github.com/LeCAR-Lab/human2humanoid) |
 | 2024 | Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation | IROS · Humanoid | [Paper](https://arxiv.org/abs/2403.04436) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801984) |
 | 2022 | Human-Humanoid Robot Cooperative Load Transportation: Model-based Control Approach | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9981487) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981487) |
 
-## Recent arXiv papers (29)
+## Recent arXiv papers (32)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-28 | GAE: General Action Expert for Real-Time Humanoid Teleoperation | Yuefan Wang, Huaicheng Zhou, Xiao He, Zhijie He et al. | [Abstract](https://arxiv.org/abs/2609.34233) · [PDF](https://arxiv.org/pdf/2609.34233) |
+| 2026-09-22 | MATE: Multi-Agent Virtual Teleoperation Platform for Humanoid Collaboration Data Collection | Yichuan Yu, Youzhuo Wang, Yiming Ren, Di Feng et al. | [Abstract](https://arxiv.org/abs/2609.26520) · [PDF](https://arxiv.org/pdf/2609.26520) |
+| 2026-09-18 | HIGenNTO: Scalable Humanoid Interaction Generation via Noise-Space Trajectory Optimization | Lalit Jayanti, Kashu Yamazaki, Yuto Shibata, Kotaro Amaya et al. | [Abstract](https://arxiv.org/abs/2609.22611) · [PDF](https://arxiv.org/pdf/2609.22611) |
 | 2026-09-16 | Gated Residual Body-Hand Coordination for Whole-Body Humanoid Teleoperation | Ruiming Wu, Shuang Li, Liding Zhang, Alois Knoll et al. | [Abstract](https://arxiv.org/abs/2609.18763) · [PDF](https://arxiv.org/pdf/2609.18763) |
 | 2026-09-07 | SPOT: Spatial Perception-Oriented Long-Horizon Humanoid Teleoperation | Lixing Fang, Ziyan Xiong, Sunli Chen, Zhiyang Dou et al. | [Abstract](https://arxiv.org/abs/2609.07933) · [PDF](https://arxiv.org/pdf/2609.07933) |
 | 2026-09-06 | Unifying Physics-Based Humanoid Interaction with a Context-Conditioned Interaction Prior | Jianan Li, Xiao Chen, Tien-Tsin Wong | [Abstract](https://arxiv.org/abs/2609.06591) · [PDF](https://arxiv.org/pdf/2609.06591) |
@@ -37,7 +41,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-20 | Morphology-Consistent Humanoid Interaction through Robot-Centric Video Synthesis | Weisheng Xu, Jian Li, Yi Gu, Bin Yang et al. | [Abstract](https://arxiv.org/abs/2603.19709) · [PDF](https://arxiv.org/pdf/2603.19709) |
 | 2026-03-15 | OmniClone: Engineering a Robust, All-Rounder Whole-Body Humanoid Teleoperation System | Yixuan Li, Le Ma, Yutang Lin, Yushi Du et al. | [Abstract](https://arxiv.org/abs/2603.14327) · [PDF](https://arxiv.org/pdf/2603.14327) |
 | 2026-03-10 | ZeroWBC: Learning Natural Whole-Body Humanoid Interaction from Human Egocentric Data | Haoran Yang, Jiacheng Bao, Yucheng Xin, Haoming Song et al. | [Abstract](https://arxiv.org/abs/2603.09170) · [PDF](https://arxiv.org/pdf/2603.09170) |
-| 2026-03-04 | Cognition to Control - Multi-Agent Learning for Human-Humanoid Collaborative Transport | Hao Zhang, Ding Zhao, H. Eric Tseng | [Abstract](https://arxiv.org/abs/2603.03768) · [PDF](https://arxiv.org/pdf/2603.03768) |
+| 2026-03-04 | Cognition to Control - Multi-Agent Learning for Human-Humanoid Collaborative Transport | Hao Zhang, Yisen Li, Ruize Geng, Yves Tseng et al. | [Abstract](https://arxiv.org/abs/2603.03768) · [PDF](https://arxiv.org/pdf/2603.03768) |
 | 2026-02-25 | LessMimic: Long-Horizon Humanoid Interaction with Unified Distance Field Representations | Yutang Lin, Jieming Cui, Yixuan Li, Baoxiong Jia et al. | [Abstract](https://arxiv.org/abs/2602.21723) · [PDF](https://arxiv.org/pdf/2602.21723) |
 | 2026-02-11 | ExtremControl: Low-Latency Humanoid Teleoperation with Direct Extremity Control | Ziyan Xiong, Lixing Fang, Junyun Huang, Kashu Yamazaki et al. | [Abstract](https://arxiv.org/abs/2602.11321) · [PDF](https://arxiv.org/pdf/2602.11321) |
 | 2026-02-10 | TeleGate: Whole-Body Humanoid Teleoperation via Gated Expert Selection with Motion Prior | Jie Li, Bing Tang, Feng Wu | [Abstract](https://arxiv.org/abs/2602.09628) · [PDF](https://arxiv.org/pdf/2602.09628) |

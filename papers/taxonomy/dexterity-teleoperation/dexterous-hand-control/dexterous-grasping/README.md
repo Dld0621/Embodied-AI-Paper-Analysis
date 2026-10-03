@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Dexterous%20Hand%20Control&specialty=Dexterous%20Grasping#research-workbench)
 
-> 11 conference papers · 23 recent arXiv papers
+> 15 conference papers · 25 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (11)
+## Conference papers (15)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Adversarial Game-Theoretic Algorithm for Dexterous Grasp Synthesis | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2511.05809) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696904) |
+| 2026 | CEDex: Cross-Embodiment Dexterous Grasp Generation at Scale from Human-like Contact Representations | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2509.24661) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696994) |
+| 2026 | CoorGrasp: Coordinated Contact Control for Adaptive Dexterous Grasping Under Uncertainty | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2607.03557) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696385) |
+| 2026 | OmniDexGrasp: Generalizable Dexterous Grasping via Foundation Model and Force Feedback | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2510.23119) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696965) |
 | 2025 | AffordDexGrasp: Open-Set Language-Guided Dexterous Grasp With Generalizable-Instructive Affordance | ICCV · Dexterous | [Paper](https://arxiv.org/abs/2503.07360) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01099) |
 | 2025 | DexVLG: Dexterous Vision-Language-Grasp Model at Scale | ICCV · Dexterous | [Paper](https://arxiv.org/pdf/2507.02747) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01322) |
 | 2025 | BODex: Scalable and Efficient Robotic Dexterous Grasp Synthesis Using Bilevel Optimization | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2412.16490) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127930) |
@@ -30,10 +34,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | SpringGrasp: Synthesizing Compliant, Dexterous Grasps under Shape Uncertainty | RSS · Dexterous | [Paper](https://arxiv.org/abs/2404.13532) · [Index](https://dblp.org/rec/journals/corr/abs-2404-13532) |
 | 2023 | UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy | CVPR · Dexterous | [Paper](https://arxiv.org/pdf/2303.00938) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.00459) |
 
-## Recent arXiv papers (23)
+## Recent arXiv papers (25)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-30 | Function beyond Form: Functional Correspondence for Cross-Embodiment Dexterous Grasp Generation | Bolin Zou, Wenlong Dong, Mu Ai, Chao Tang et al. | [Abstract](https://arxiv.org/abs/2609.39006) · [PDF](https://arxiv.org/pdf/2609.39006) |
+| 2026-09-23 | DEAL-Grasp: Decoupled Alignment Representation for Geometry-Aware Dexterous Grasp Generation | Fuqiang Zhao, Qian Liu | [Abstract](https://arxiv.org/abs/2609.28131) · [PDF](https://arxiv.org/pdf/2609.28131) |
 | 2026-09-18 | 2nd Place Solution to the HANDS 2026 Workshop Challenge-Dexterous Grasp Motion Track: Single-Shot Trajectory Warping for Grasp Motion Generation | Muneeb A. Khan, Woojin Kim, Shinwoo Kim, Muhammad Munsif et al. | [Abstract](https://arxiv.org/abs/2609.21511) · [PDF](https://arxiv.org/pdf/2609.21511) |
 | 2026-09-16 | TacBPM: A Tactile-conditioned Behavior Prior Model for Dexterous Reorientation | Jie Yin, Wanli Xing, Zeyuan Zhao, Xuezhou Zhu et al. | [Abstract](https://arxiv.org/abs/2609.18174) · [PDF](https://arxiv.org/pdf/2609.18174) |
 | 2026-08-11 | Real-World Cooperative Bimanual Dexterous Grasp of Large Objects from Single-View Observations | Ziming Li, Mingxuan Wu, Jiaqi Zhang, Hongfei Li et al. | [Abstract](https://arxiv.org/abs/2608.10383) · [PDF](https://arxiv.org/pdf/2608.10383) |

@@ -25,7 +25,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | SCALE: Self-Correcting Visual Navigation for Mobile Robots via Anti-Novelty Estimation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2404.10675) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610847) |
 | 2024 | Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation | IROS · Navigation | [Paper](https://arxiv.org/abs/2411.03487) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801778) |
 | 2023 | Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation | ICCV · Navigation | [Paper](https://arxiv.org/abs/2308.10306) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.01009) |
-| 2022 | Topological Semantic Graph Memory for Image-Goal Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2209.08274) · [Index](https://dblp.org/rec/conf/corl/KimKYCPO22) |
+| 2022 | Topological Semantic Graph Memory for Image-Goal Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2209.08274) · [Index](https://dblp.org/rec/journals/corr/abs-2209-08274) |
 
 ## Recent arXiv papers (29)
 
@@ -34,7 +34,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-08-19 | DevGRU: Depth-guided Visual Navigation using a Collision-aware Recurrent Model | Kyung Min Han, Eunsom Kim, Young J. Kim | [Abstract](https://arxiv.org/abs/2608.18470) · [PDF](https://arxiv.org/pdf/2608.18470) |
 | 2026-08-10 | Latent World Models with Monotone Planning Costs for Image-Goal Navigation | Amirhosein Chahe, Siwei Cai, Lifeng Zhou | [Abstract](https://arxiv.org/abs/2608.09073) · [PDF](https://arxiv.org/pdf/2608.09073) |
 | 2026-08-07 | Unordered Landmark Visual Navigation | Hao Ren, Junzhe Zhu, Yihan Li, Zetong Bi et al. | [Abstract](https://arxiv.org/abs/2608.06833) · [PDF](https://arxiv.org/pdf/2608.06833) |
-| 2026-07-13 | Learning to Navigate Efficiently with Only 0.58M Trainable Parameters | Edward Beng Wai Tan, Siew-Kei Lam | [Abstract](https://arxiv.org/abs/2607.11029) · [PDF](https://arxiv.org/pdf/2607.11029) |
+| 2026-07-13 | Learning to Navigate with Minimal Parameters: Decomposing Visual Navigation Through Closed-Form Geometric Interfaces | Edward Beng Wai Tan, Siew-Kei Lam | [Abstract](https://arxiv.org/abs/2607.11029) · [PDF](https://arxiv.org/pdf/2607.11029) |
 | 2026-06-29 | RoamFlow: Reinforcement-Aligned One-Step Action MeanFlow Policy for Image-Goal Navigation | Zixuan Zhang, Yuqi Chen, Junjie Gao, Siyuan Song et al. | [Abstract](https://arxiv.org/abs/2606.29934) · [PDF](https://arxiv.org/pdf/2606.29934) |
 | 2026-06-03 | WAM-Nav: Asymmetric Latent World-Action Modeling for Unified Visual Navigation | Ning Yang, Yan Huang, Kaiwen Peng, Ziheng He et al. | [Abstract](https://arxiv.org/abs/2606.04907) · [PDF](https://arxiv.org/pdf/2606.04907) |
 | 2026-04-19 | Think before Go: Hierarchical Reasoning for Image-goal Navigation | Pengna Li, Kangyi Wu, Shaoqing Xu, Fang Li et al. | [Abstract](https://arxiv.org/abs/2604.17407) · [PDF](https://arxiv.org/pdf/2604.17407) |

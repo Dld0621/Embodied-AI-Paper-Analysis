@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2023 | AI-Based Multi-Object Relative State Estimation with Self-Calibration Capabilities | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2303.00371) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161375) |
+| 2023 | AI-Based Multi-Object Relative State Estimation with Self-Calibration Capabilities | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2303.00371) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161375) |
 
 ## Recent arXiv papers (84)
 

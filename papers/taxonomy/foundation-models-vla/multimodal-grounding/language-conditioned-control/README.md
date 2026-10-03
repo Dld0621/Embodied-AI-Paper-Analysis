@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Multimodal%20Grounding&specialty=Language-conditioned%20Control#research-workbench)
 
-> 18 conference papers · 74 recent arXiv papers
+> 20 conference papers · 78 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,14 +14,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (18)
+## Conference papers (20)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Masked IRL: LLM-Guided Reward Disambiguation from Demonstrations and Language | ICRA · Llm | [Paper](https://arxiv.org/abs/2511.14565) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696140) |
+| 2026 | Pragmatic Embodied Spoken Instruction Following in Human-Robot Collaboration with Theory of Mind | ICRA · Instruction Following | [Paper](https://arxiv.org/abs/2409.10849) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696198) |
 | 2025 | GenManip: LLM-driven Simulation for Generalizable Instruction-Following Manipulation | CVPR · Llm | [Paper](https://arxiv.org/abs/2506.10966) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01138) |
 | 2025 | LUMOS: Language-Conditioned Imitation Learning with World Models | ICRA · Language Conditioned | [Paper](https://arxiv.org/abs/2503.10370) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127988) |
 | 2025 | Socratic Planner: Self-QA-Based Zero-Shot Planning for Embodied Instruction Following | ICRA · Instruction Following | [Paper](https://arxiv.org/abs/2404.15190) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128677) |
-| 2025 | FlowPlan: Zero-Shot Task Planning with LLM Flow Engineering for Robotic Instruction Following | IROS · Llm | [Paper](https://arxiv.org/abs/2503.02698) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246020) |
+| 2025 | FlowPlan: Zero-Shot Task Planning with LLM Flow Engineering for Robotic Instruction Following | IROS · Llm | [Paper](https://arxiv.org/pdf/2503.02698) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246020) |
 | 2025 | Improving Generalization of Language-Conditioned Robot Manipulation | IROS · Language Conditioned | [Paper](https://arxiv.org/abs/2508.02405) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246168) |
 | 2025 | Learning Generalizable Language-Conditioned Cloth Manipulation from Long Demonstrations | IROS · Language Conditioned | [Paper](https://arxiv.org/abs/2503.04557) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246306) |
 | 2025 | LERa: Replanning with Visual Feedback in Instruction Following | IROS · Instruction Following | [Paper](https://arxiv.org/abs/2507.05135) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247303) |
@@ -37,10 +39,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Embodied Concept Learner: Self-supervised Learning of Concepts and Mapping through Instruction Following | CoRL · Instruction Following | [Paper](https://arxiv.org/abs/2304.03767) · [Index](https://dblp.org/rec/conf/corl/DingXCC0TG22) |
 | 2022 | Modularity through Attention: Efficient Training and Transfer of Language-Conditioned Policies for Robot Manipulation | CoRL · Language Conditioned | [Paper](https://arxiv.org/abs/2212.04573) · [Index](https://dblp.org/rec/conf/corl/ZhouSPSA22) |
 
-## Recent arXiv papers (74)
+## Recent arXiv papers (78)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-29 | doPlan: A Variable-Horizon Dataset for Multi-Stage Language-Conditioned Planning in Autonomous Driving | Parthib Roy, Yash Tandon, Marcus Blennemann, Giovanni Tapia Lopez et al. | [Abstract](https://arxiv.org/abs/2609.38028) · [PDF](https://arxiv.org/pdf/2609.38028) |
+| 2026-09-23 | Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction | Zilin Fang, Zishuo Wang, Gim Hee Lee, David Hsu | [Abstract](https://arxiv.org/abs/2609.28467) · [PDF](https://arxiv.org/pdf/2609.28467) |
+| 2026-09-22 | RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents | Chang Guo, Yukun Xie, Bohan Tan, Zheng Chang et al. | [Abstract](https://arxiv.org/abs/2609.25636) · [PDF](https://arxiv.org/pdf/2609.25636) |
+| 2026-09-19 | Selective Commitment for Language-Guided Object Retrieval under Partial Observability | Wonhee Koh, Sushil Samuel Dinesh, Hansol Ko, Shinkyu Park et al. | [Abstract](https://arxiv.org/abs/2609.23131) · [PDF](https://arxiv.org/pdf/2609.23131) |
 | 2026-09-17 | Talk to Me, Jarvis: An Open-Source Edge-Deployable Voice Assistant Framework for Autonomous Racecars | Daniel Henel, Frederik Werner, Alexander Langmann, Johannes Betz | [Abstract](https://arxiv.org/abs/2609.21109) · [PDF](https://arxiv.org/pdf/2609.21109) |
 | 2026-09-11 | Language-Guided Terrain-Adaptive Neural MPC for Autonomous Traversal of Articulated Tracked Robots | Zhenfeng Gan, Yanbo Chen, Lirong Che, Yongyi Ma et al. | [Abstract](https://arxiv.org/abs/2609.13083) · [PDF](https://arxiv.org/pdf/2609.13083) |
 | 2026-08-29 | Brain-Language-Action (BLA) Models: Language-Conditioned EEG for Robotics Control | Alexandr Plashchinsky | [Abstract](https://arxiv.org/abs/2608.28967) · [PDF](https://arxiv.org/pdf/2608.28967) |

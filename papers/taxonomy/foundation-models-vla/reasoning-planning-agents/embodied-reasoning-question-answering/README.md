@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=Embodied%20Reasoning%20%26%20Question%20Answering#research-workbench)
 
-> 7 conference papers · 97 recent arXiv papers
+> 8 conference papers · 99 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (7)
+## Conference papers (8)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | IntentionVLA: Generalizable and Efficient Embodied Intention Reasoning for Human-Robot Interaction | ICRA · Vla | [Paper](https://arxiv.org/abs/2510.07778) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697087) |
 | 2025 | Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2502.06419) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127665) |
 | 2025 | Robo2VLM: Improving Visual Question Answering using Large-Scale Robot Manipulation Data | NeurIPS · Vlm | [Paper](https://doi.org/10.52202/085713-0733) · [Publisher](https://doi.org/10.52202/085713-0733) |
 | 2024 | DeliGrasp: Inferring Object Properties with LLMs for Adaptive Grasp Policies | CoRL · Llm | [Paper](https://arxiv.org/abs/2403.07832) · [Index](https://dblp.org/rec/journals/corr/abs-2403-07832) |
@@ -26,10 +27,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2403.11289) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801993) |
 | 2022 | Inner Monologue: Embodied Reasoning through Planning with Language Models | CoRL · Language Model | [Paper](https://arxiv.org/abs/2207.05608) · [Index](https://dblp.org/rec/conf/corl/HuangXXCLFZTMCS22) |
 
-## Recent arXiv papers (97)
+## Recent arXiv papers (99)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-30 | When Reasoning Helps Action: Monitoring and Steering Chain-of-Thought in Vision-Language-Action Policies | Sathwik Karnik, Joseph JR. Lee, Aryaman Gupta, Somil Bansal | [Abstract](https://arxiv.org/abs/2610.00601) · [PDF](https://arxiv.org/pdf/2610.00601) |
+| 2026-09-30 | Spatial Strategies, Not Actions: Vector-Quantized Geodesics as Tools for LLM-Driven Agents | Gabriel Turinici | [Abstract](https://arxiv.org/abs/2610.00613) · [PDF](https://arxiv.org/pdf/2610.00613) |
 | 2026-09-14 | GRAVA: Grounded Reasoning-to-Action Representation and Learning for Autonomous Driving | Xiao Liu, Haoyu Li, Jianghao Leng, Lin Wang et al. | [Abstract](https://arxiv.org/abs/2609.15169) · [PDF](https://arxiv.org/pdf/2609.15169) |
 | 2026-09-09 | CT-SAFR: Safe and Interpretable Chain-of-Thought Reasoning for Autonomous Robots: A Multi-Layered Verification Framework for Trustworthy AI-Driven Robotic Decision Making | Cagri Temel | [Abstract](https://arxiv.org/abs/2609.09692) · [PDF](https://arxiv.org/pdf/2609.09692) |
 | 2026-09-09 | Belief-State Engine: Augmenting LLMs for Principled Planning Under Partial Observability | Arnab Chattopadhayay, Debdipta Halder | [Abstract](https://arxiv.org/abs/2609.10036) · [PDF](https://arxiv.org/pdf/2609.10036) |

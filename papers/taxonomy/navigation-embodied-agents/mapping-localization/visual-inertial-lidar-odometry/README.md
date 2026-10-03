@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Mapping%20%26%20Localization&specialty=Visual-inertial%20%26%20LiDAR%20Odometry#research-workbench)
 
-> 8 conference papers · 254 recent arXiv papers
+> 9 conference papers · 252 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,23 +14,27 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (8)
+## Conference papers (9)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | Efficient Submap-based Autonomous MAV Exploration using Visual-Inertial SLAM Configurable for LiDARs or Depth Cameras | ICRA · Exploration | [Paper](https://arxiv.org/abs/2409.16972) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128702) |
+| 2026 | BEVIO: Efficient Bird’s-Eye-View based Sparse-Update Visual-Inertial Odometry for Lunar Day-Night Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2606.00709) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696694) |
+| 2025 | Efficient Submap-based Autonomous MAV Exploration using Visual-Inertial SLAM Configurable for LiDARs or Depth Cameras | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2409.16972) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128702) |
 | 2025 | Kinematic-ICP: Enhancing LiDAR Odometry with Kinematic Constraints for Wheeled Mobile Robots Moving on Planar Surfaces | ICRA · Mobile Robot | [Paper](https://arxiv.org/abs/2410.10277) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128503) |
-| 2025 | Robust Online Calibration for UWB-Aided Visual-Inertial Navigation with Bias Correction | IROS · Navigation | [Paper](https://arxiv.org/abs/2508.10999) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247371) |
+| 2025 | Robust Online Calibration for UWB-Aided Visual-Inertial Navigation with Bias Correction | IROS · Navigation | [Paper](https://arxiv.org/pdf/2508.10999) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247371) |
 | 2024 | NeRF-VINS: A Real-time Neural Radiance Field Map-based Visual-Inertial Navigation System | ICRA · Navigation | [Paper](https://arxiv.org/abs/2309.09295) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610051) |
 | 2024 | Efficient Dynamic LiDAR Odometry for Mobile Robots with Structured Point Clouds | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2411.18443) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802045) |
 | 2024 | NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification | IROS · Navigation | [Paper](https://arxiv.org/pdf/2404.01400) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801527) |
 | 2023 | Tightly-Coupled Visual- DVL- Inertial Odometry for Robot-Based Ice-Water Boundary Exploration | IROS · Exploration | [Paper](https://arxiv.org/pdf/2303.17005) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342024) |
 | 2022 | Is Mapping Necessary for Realistic PointGoal Navigation? | CVPR · Navigation | [Paper](https://arxiv.org/pdf/2206.00997) · [Publisher](https://doi.org/10.1109/CVPR52688.2022.01672) |
 
-## Recent arXiv papers (254)
+## Recent arXiv papers (252)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-29 | Observability Analysis and Online Calibration of Visual-Inertial-Wheel Odometry for 4WIS4WID Mobile Robots | Branimir Ćaran, Vladimir Milić, Bojan Šekoranja, Bojan Jerbić | [Abstract](https://arxiv.org/abs/2609.38462) · [PDF](https://arxiv.org/pdf/2609.38462) |
+| 2026-09-24 | VkVIO: Cross-platform GPU Acceleration for Visual-Inertial Odometry with Vulkan | Ole Hoffmann, Mateo de Mayo, Daniel Cremers | [Abstract](https://arxiv.org/abs/2609.30459) · [PDF](https://arxiv.org/pdf/2609.30459) |
+| 2026-09-24 | FMCW-LIO: A Doppler LiDAR-Inertial Odometry | Mingle Zhao, Jiahao Wang, Tianxiao Gao, Chengzhong Xu et al. | [Abstract](https://arxiv.org/abs/2609.29374) · [PDF](https://arxiv.org/pdf/2609.29374) |
 | 2026-09-18 | SFVO: Decoupled Confidence-Guided Stereo-Flow Visual Odometry with Bidirectional PnP | Kai Zhang, Guoyang Zhao, Jun Ma | [Abstract](https://arxiv.org/abs/2609.21754) · [PDF](https://arxiv.org/pdf/2609.21754) |
 | 2026-09-16 | Dynamic-LIVO: A Dynamic-Aware LiDAR-Inertial-Visual Odometry System Using Spatio-Temporal Normals | Zhixin Zhang, Samuel Ahiwe, Matthew Hale, Liang Zhao et al. | [Abstract](https://arxiv.org/abs/2609.19336) · [PDF](https://arxiv.org/pdf/2609.19336) |
 | 2026-09-15 | TIO-Former: Ultra-Lightweight 6-Directional ToF-Inertial Odometry for Nano-UAVs via a Streaming Causal Transformer | Yang Liu, Yifan He, Wenhao Zhao, Xiangyu Mo et al. | [Abstract](https://arxiv.org/abs/2609.17198) · [PDF](https://arxiv.org/pdf/2609.17198) |
@@ -280,11 +284,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-08 | LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization | Artem Nenashev, Mikhail Kurenkov, Andrei Potapov, Iana Zhura et al. | [Abstract](https://arxiv.org/abs/2310.05134) · [PDF](https://arxiv.org/pdf/2310.05134) |
 | 2023-10-07 | AirIMU: Learning Uncertainty Propagation for Inertial Odometry | Yuheng Qiu, Chen Wang, Can Xu, Yutian Chen et al. | [Abstract](https://arxiv.org/abs/2310.04874) · [PDF](https://arxiv.org/pdf/2310.04874) |
 | 2023-10-06 | Light-LOAM: A Lightweight LiDAR Odometry and Mapping based on Graph-Matching | Shiquan Yi, Yang Lyu, Lin Hua, Quan Pan et al. | [Abstract](https://arxiv.org/abs/2310.04162) · [PDF](https://arxiv.org/pdf/2310.04162) |
-| 2023-09-28 | XVO: Generalized Visual Odometry via Cross-Modal Self-Training | Lei Lai, Zhongkai Shangguan, Jimuyang Zhang, Eshed Ohn-Bar | [Abstract](https://arxiv.org/abs/2309.16772) · [PDF](https://arxiv.org/pdf/2309.16772) |
-| 2023-09-27 | KDD-LOAM: Jointly Learned Keypoint Detector and Descriptors Assisted LiDAR Odometry and Mapping | Renlang Huang, Minglei Zhao, Jiming Chen, Liang Li | [Abstract](https://arxiv.org/abs/2309.15394) · [PDF](https://arxiv.org/pdf/2309.15394) |
-| 2023-09-26 | Adaptive Denoising-Enhanced LiDAR Odometry for Degeneration Resilience in Diverse Terrains | Mazeyu Ji, Wenbo Shi, Yujie Cui, Chengju Liu et al. | [Abstract](https://arxiv.org/abs/2309.14641) · [PDF](https://arxiv.org/pdf/2309.14641) |
-| 2023-09-23 | Tag-based Visual Odometry Estimation for Indoor UAVs Localization | Massimiliano Bertoni, Simone Montecchio, Giulia Michieletto, Roberto Oboe et al. | [Abstract](https://arxiv.org/abs/2309.13311) · [PDF](https://arxiv.org/pdf/2309.13311) |
-| 2023-09-21 | GPS-VIO Fusion with Online Rotational Calibration | Junlin Song, Pedro J. Sanchez-Cuevas, Antoine Richard, Raj Thilak Rajan et al. | [Abstract](https://arxiv.org/abs/2309.12005) · [PDF](https://arxiv.org/pdf/2309.12005) |
 
 ---
 

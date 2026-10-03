@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Evaluation&specialty=Metrics%20%26%20Evaluation%20Protocols#research-workbench)
 
-> 4 conference papers · 63 recent arXiv papers
+> 6 conference papers · 71 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,19 +14,29 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (4)
+## Conference papers (6)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | GRACE: A Unified 2D Multi-Robot Path Planning Simulator & Benchmark for Grid, Roadmap, And Continuous Environments | ICRA · Simulator | [Paper](https://arxiv.org/abs/2603.10858) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695963) |
+| 2026 | WildCross: A Cross-Modal Large Scale Benchmark for Place Recognition and Metric Depth Estimation in Natural Environments | ICRA · Benchmark | [Paper](https://arxiv.org/abs/2603.01475) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697304) |
 | 2025 | FLAME: A Federated Learning Benchmark for Robotic Manipulation | IROS · Benchmark | [Paper](https://arxiv.org/abs/2503.01729) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245937) |
 | 2025 | Region-Aware 6D Grasping for Industrial Bin-Picking: A Sim2Real Label Self-Generation and Hybrid Evaluation Framework | IROS · Sim2Real | [Paper](https://doi.org/10.1109/IROS60139.2025.11247129) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247129) |
 | 2025 | RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2506.06677) · [Index](https://dblp.org/rec/journals/corr/abs-2506-06677) |
 | 2024 | The Design of the Barkour Benchmark for Robot Agility | IROS · Benchmark | [Paper](https://doi.org/10.1109/IROS58592.2024.10801377) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801377) |
 
-## Recent arXiv papers (63)
+## Recent arXiv papers (71)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-01 | Beyond Leaderboard Scores: A Deployment-Focused Protocol for Interpretable Tracking Evaluation in Pedestrian-Centric Environments | Dominik Wojcikiewicz, Diego Paez-Granados | [Abstract](https://arxiv.org/abs/2610.01682) · [PDF](https://arxiv.org/pdf/2610.01682) |
+| 2026-09-29 | Faster and Better? Benchmark Bugs and Design Limitations Distort the Evaluation of Vision-Language-Action Acceleration | Qiwei Chen, Kaijun Zhou, Nuohui Shi, Zhiyang Li et al. | [Abstract](https://arxiv.org/abs/2609.37771) · [PDF](https://arxiv.org/pdf/2609.37771) |
+| 2026-09-29 | Does Local Video Understanding Transfer Across Encounters? The EgoGears Benchmark | Yuedong Tan, Lei Qi, Yu Liu, Di Wen et al. | [Abstract](https://arxiv.org/abs/2609.37938) · [PDF](https://arxiv.org/pdf/2609.37938) |
+| 2026-09-28 | AerialDojo-200K: A Large-Scale Benchmark Suite for Open-World Aerial Object-Goal Search | Tongtong Feng, Xin Wang, Haoran Hou, Ren Wang et al. | [Abstract](https://arxiv.org/abs/2609.36066) · [PDF](https://arxiv.org/pdf/2609.36066) |
+| 2026-09-27 | VehDyn: A Driving World Model Benchmark for Vehicle Dynamics | Tianyi Wang, Wangsheng Du, Jiazhou Chen, Tianyi Zeng et al. | [Abstract](https://arxiv.org/abs/2609.33264) · [PDF](https://arxiv.org/pdf/2609.33264) |
+| 2026-09-24 | Auditing Latent-Space Monitors for Autonomous Driving | Nikhil Kamalkumar Advani, Vishwajeet Shivaji Hogale, Saurav Kumar | [Abstract](https://arxiv.org/abs/2609.30557) · [PDF](https://arxiv.org/pdf/2609.30557) |
+| 2026-09-23 | Memory That Changes Action Is Not Memory That Guides It: Counterfactual Auditing of History-Conditioned Robot Policies | Jiajie Zhang, Yankai Xiang, Changhao Chen | [Abstract](https://arxiv.org/abs/2609.27247) · [PDF](https://arxiv.org/pdf/2609.27247) |
+| 2026-09-22 | MotionForge: A Data Generation Pipeline and Large-Scale Benchmark for Long-Horizon Manipulation of Dynamic Objects with Domain Shifts | Mohan Liu, Dengchen Mei, Haotian Xian, Ruyang Han et al. | [Abstract](https://arxiv.org/abs/2609.25689) · [PDF](https://arxiv.org/pdf/2609.25689) |
 | 2026-09-17 | Signal-Centric Remote Sensing via Alternative Preprocessing and Acoustic Processing for ML-Driven Applications | Logan Luna, Sirio Jansen-Sánchez, Ilteris Demirkiran, Leo Ghelarducci | [Abstract](https://arxiv.org/abs/2609.21123) · [PDF](https://arxiv.org/pdf/2609.21123) |
 | 2026-09-16 | A3P5 NEMESIS Integrated Rover Design for Environmental Reconnaissance and Robotic Sampling with Reproducible Mobility Analysis and an External Data Machine Learning Calibration Benchmark | Shafi Bin Sultan, Sabik Bin Sultan, Safwan Sadad | [Abstract](https://arxiv.org/abs/2609.18245) · [PDF](https://arxiv.org/pdf/2609.18245) |
 | 2026-09-07 | DriftParking: Trajectory Modeling via Drifting Field for End-to-End Automated Parking | Ziyan Wang, Dong Li, Weibo Wang, Yinyin Lu et al. | [Abstract](https://arxiv.org/abs/2609.06923) · [PDF](https://arxiv.org/pdf/2609.06923) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=Depth%2C%20Stereo%20%26%20RGB-D#research-workbench)
 
-> 4 conference papers · 116 recent arXiv papers
+> 4 conference papers · 118 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,10 +23,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | CompdVision: Combining Near-Field 3D Visual and Tactile Sensing Using a Compact Compound-Eye Imaging System | IROS · Tactile | [Paper](https://arxiv.org/abs/2312.07146) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801461) |
 | 2022 | f-Cal: Aleatoric uncertainty quantification for robot perception via calibrated neural regression | ICRA · Robot Perception | [Paper](https://doi.org/10.1109/icra46639.2022.9811903) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811903) |
 
-## Recent arXiv papers (116)
+## Recent arXiv papers (118)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-27 | EpiTransfer: Sparse, Training-Free Long-Range Depth Estimation from Temporal Monocular Aerial Frames | Diksha Aggarwal, Rutvik Dagadkhair, Sanjana Srivastava, Bradley Denby et al. | [Abstract](https://arxiv.org/abs/2609.33939) · [PDF](https://arxiv.org/pdf/2609.33939) |
+| 2026-09-22 | CODA: Depth-Aligned Scene Completion and Object Decomposition from a Single RGB-D Image | Dongwon Son, Junhyek Han, Yoontae Cho, Minseok Lee et al. | [Abstract](https://arxiv.org/abs/2609.25654) · [PDF](https://arxiv.org/pdf/2609.25654) |
+| 2026-09-19 | Probabilistic Scene Graphs: Hierarchical Representation and Real-time System | Waqas Ali, Michele Antonazzi, Timon Homberger, Thien-Minh Nguyen et al. | [Abstract](https://arxiv.org/abs/2609.23144) · [PDF](https://arxiv.org/pdf/2609.23144) |
 | 2026-09-17 | Underwater Visual Target Tracking with Target-Specific Depth Estimation and Adaptive Model-Fusion Predictive Control | Yuheng Zhou, Haiyang Cheng, Yanqi Feng, Pangkit Fong et al. | [Abstract](https://arxiv.org/abs/2609.20731) · [PDF](https://arxiv.org/pdf/2609.20731) |
 | 2026-09-17 | FunArt: Decoding Functional Structure and Articulation from Generative 3D Latents | Dennis Rotondi, Abdelrhman Werby, Kai O. Arras | [Abstract](https://arxiv.org/abs/2609.20673) · [PDF](https://arxiv.org/pdf/2609.20673) |
 | 2026-09-10 | RIDE: Relocalization-Informed Depth Estimation with 3D Gaussian Splatting | Jiarong Lian, Zhe Xiao, Zhaoyang Zhang, Wei Li et al. | [Abstract](https://arxiv.org/abs/2609.11079) · [PDF](https://arxiv.org/pdf/2609.11079) |
@@ -110,6 +113,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-11-10 | SymmeTac: Symmetric Color LED Driven Efficient Photometric Stereo Reconstruction Methods for Camera-based Tactile Sensors | Jieji Ren, Heng Guo, Zaiyan Yang, Jinnuo Zhang et al. | [Abstract](https://arxiv.org/abs/2411.06377) · [PDF](https://arxiv.org/pdf/2411.06377) |
 | 2024-11-08 | Enhancing Depth Image Estimation for Underwater Robots by Combining Image Processing and Machine Learning | Quang Truong Nguyen, Thanh Nguyen Canh, Xiem HoangVan | [Abstract](https://arxiv.org/abs/2411.05344) · [PDF](https://arxiv.org/pdf/2411.05344) |
 | 2024-10-15 | Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation | Zhijie Yan, Shufei Li, Zuoxu Wang, Lixiu Wu et al. | [Abstract](https://arxiv.org/abs/2410.11989) · [PDF](https://arxiv.org/pdf/2410.11989) |
+| 2024-10-01 | iTeach: In the Wild Interactive Teaching for Failure-Driven Adaptation of Robot Perception | Jishnu Jaykumar P, Cole Salvato, Vinaya Bomnale, Jikai Wang et al. | [Abstract](https://arxiv.org/abs/2410.09072) · [PDF](https://arxiv.org/pdf/2410.09072) |
 | 2024-09-29 | KineDepth: Utilizing Robot Kinematics for Online Metric Depth Estimation | Soofiyan Atar, Yuheng Zhi, Florian Richter, Michael Yip | [Abstract](https://arxiv.org/abs/2409.19490) · [PDF](https://arxiv.org/pdf/2409.19490) |
 | 2024-09-26 | Event-based Stereo Depth Estimation: A Survey | Suman Ghosh, Guillermo Gallego | [Abstract](https://arxiv.org/abs/2409.17680) · [PDF](https://arxiv.org/pdf/2409.17680) |
 | 2024-09-23 | FisheyeDepth: A Real Scale Self-Supervised Depth Estimation Model for Fisheye Camera | Guoyang Zhao, Yuxuan Liu, Weiqing Qi, Fulong Ma et al. | [Abstract](https://arxiv.org/abs/2409.15054) · [PDF](https://arxiv.org/pdf/2409.15054) |
@@ -141,8 +145,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-23 | RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions | Lingdong Kong, Shaoyuan Xie, Hanjiang Hu, Lai Xing Ng et al. | [Abstract](https://arxiv.org/abs/2310.15171) · [PDF](https://arxiv.org/pdf/2310.15171) |
 | 2023-10-17 | Diver Interest via Pointing in Three Dimensions: 3D Pointing Reconstruction for Diver-AUV Communication | Chelsey Edge, Demetrious Kutzke, Megdalia Bromhal, Junaed Sattar | [Abstract](https://arxiv.org/abs/2310.11536) · [PDF](https://arxiv.org/pdf/2310.11536) |
 | 2023-10-15 | Tabletop Transparent Scene Reconstruction via Epipolar-Guided Optical Flow with Monocular Depth Completion Prior | Xiaotong Chen, Zheming Zhou, Zhuo Deng, Omid Ghasemalizadeh et al. | [Abstract](https://arxiv.org/abs/2310.09956) · [PDF](https://arxiv.org/pdf/2310.09956) |
-| 2023-09-26 | ADU-Depth: Attention-based Distillation with Uncertainty Modeling for Depth Estimation | Zizhang Wu, Zhuozheng Li, Zhi-Gang Fan, Yunzhe Wu et al. | [Abstract](https://arxiv.org/abs/2309.14744) · [PDF](https://arxiv.org/pdf/2309.14744) |
-| 2023-09-24 | InSpaceType: Reconsider Space Type in Indoor Monocular Depth Estimation | Cho-Ying Wu, Quankai Gao, Chin-Cheng Hsu, Te-Lin Wu et al. | [Abstract](https://arxiv.org/abs/2309.13516) · [PDF](https://arxiv.org/pdf/2309.13516) |
 
 ---
 

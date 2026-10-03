@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Manipulation%20Policy%20Learning&specialty=Model-based%20Control%20%26%20Trajectory%20Optimization#research-workbench)
 
-> 25 conference papers · 138 recent arXiv papers
+> 29 conference papers · 142 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (25)
+## Conference papers (29)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Differentiable Particle Optimization for Fast Sequential Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2510.07674) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697416) |
+| 2026 | DYMO-Hair: Generalizable Volumetric DYnamics Modeling for Robot Hair Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2510.06199) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696219) |
+| 2026 | Hydrosoft: Non-Holonomic Hydroelastic Models for Compliant Tactile Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2509.13126) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696906) |
+| 2026 | NovaFlow: Zero-Shot Manipulation via Actionable Flow from Generated Videos | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2510.08568) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696411) |
 | 2025 | IRASim: A Fine-Grained World Model for Robot Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/abs/2406.14540) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00917) |
 | 2025 | 6D Object Pose Tracking in Internet Videos for Robotic Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2503.10307) · [Index](https://dblp.org/rec/journals/corr/abs-2503-10307) |
 | 2025 | Gaussian Splatting Visual MPC for Granular Media Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2410.09740) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128002) |
@@ -31,7 +35,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Robust and Energy-Efficient Control for Multi-task Aerial Manipulation with Automatic Arm-switching | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610031) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610031) |
 | 2024 | Sequential Manipulation of Deformable Linear Object Networks with Endpoint Pose Measurements using Adaptive Model Predictive Control | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2402.10372) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611551) |
 | 2024 | Subgoal Diffuser: Coarse-to-fine Subgoal Generation to Guide Model Predictive Control for Robot Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2403.13085) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610189) |
-| 2024 | Collaborative Object Manipulation on the Water Surface by a UAV-USV Team Using Tethers | IROS · Manipulation | [Paper](https://arxiv.org/abs/2407.08580) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802469) |
+| 2024 | Collaborative Object Manipulation on the Water Surface by a UAV-USV Team Using Tethers | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2407.08580) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802469) |
 | 2024 | Grasping Trajectory Optimization with Point Clouds | IROS · Grasp | [Paper](https://arxiv.org/abs/2403.05466) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802826) |
 | 2023 | Multi-Object Manipulation via Object-Centric Neural Scattering Functions | CVPR · Manipulation | [Paper](https://arxiv.org/pdf/2306.08748) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.00871) |
 | 2023 | ManiCast: Collaborative Manipulation with Cost-Aware Human Forecasting | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2310.13258) · [Index](https://dblp.org/rec/journals/corr/abs-2310-13258) |
@@ -44,13 +48,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Constraint-based Task Specification and Trajectory Optimization for Sequential Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2208.09219) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981909) |
 | 2022 | Robot Skill Learning with Identification of Preconditions and Postconditions via Level Set Estimation | IROS · Skill Learning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981933) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981933) |
 
-## Recent arXiv papers (138)
+## Recent arXiv papers (142)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-25 | Representation-Guided Generation and Integration of Executable Programs for Robot Manipulation | Ruixiao Yang, Mingxin Yu, Chuchu Fan | [Abstract](https://arxiv.org/abs/2609.31337) · [PDF](https://arxiv.org/pdf/2609.31337) |
+| 2026-09-24 | Coupled State-Space Modelling, Control, and Policy Distillation for Hybrid Rigid-Pneumatic Manipulators | Alan Royce Gabriel Samuel, Pulkit Verma | [Abstract](https://arxiv.org/abs/2609.29424) · [PDF](https://arxiv.org/pdf/2609.29424) |
+| 2026-09-24 | Aerial Manipulation in the Wild with Onboard Perception, Policy Learning, and Whole-Body Control | Yuanzhu Zhan, Yufei Jiang, Zemu Zhang, Junyi Geng | [Abstract](https://arxiv.org/abs/2609.30521) · [PDF](https://arxiv.org/pdf/2609.30521) |
+| 2026-09-22 | Manipulation of Deformable Linear Objects Using Model Predictive Path Integral Control with Bidirectional Long Short-Term Memory Learning | Lukas Zeh, Johannes Meiwaldt, Zexu Zhou, Armin Lechler et al. | [Abstract](https://arxiv.org/abs/2609.26238) · [PDF](https://arxiv.org/pdf/2609.26238) |
 | 2026-09-17 | Accelerating Visual Policy Learning with Sampling-Based Model Predictive Control | Yilang Liu, Haoxiang You, Qian Wang, Daniel Rakita et al. | [Abstract](https://arxiv.org/abs/2609.20575) · [PDF](https://arxiv.org/pdf/2609.20575) |
 | 2026-09-04 | Physical Kernel: Structured Visual Latents for Dark Manipulation | Jinting Hang, Hong Li, Zhenhui Cai, Zhihao Zhao et al. | [Abstract](https://arxiv.org/abs/2609.13244) · [PDF](https://arxiv.org/pdf/2609.13244) |
 | 2026-09-02 | Real-Time Dynamics-Based Torque-Sampling MPPI for Compliant and Force Aware Manipulation | Euncheol Im, Taehyun Kim, Yonghwan Oh, Myotaeg Lim et al. | [Abstract](https://arxiv.org/abs/2609.02020) · [PDF](https://arxiv.org/pdf/2609.02020) |
+| 2026-08-31 | SUN: Agentic Robot Policy Learning with Persistent Task Programs | Weiqi Wang, Zhi Li, Yudong Lei, David Martinez et al. | [Abstract](https://arxiv.org/abs/2608.31167) · [PDF](https://arxiv.org/pdf/2608.31167) |
 | 2026-08-26 | PRISM: Projection-Integrated Sampling-Based MPC with Bayesian Cost Tuning for Bimanual Manipulation | Alinjar Dan, Iryna Hurova, Karl Kruusamäe, Arun Kumar Singh | [Abstract](https://arxiv.org/abs/2608.25666) · [PDF](https://arxiv.org/pdf/2608.25666) |
 | 2026-08-12 | RoboSynChallenge: Mastering Real-World Dexterity via Generalizing Synthesized Manipulation Skills | Runyi Zhao, Ruixin Wu, Chengkun Li, Hongrui Zhang et al. | [Abstract](https://arxiv.org/abs/2608.12416) · [PDF](https://arxiv.org/pdf/2608.12416) |
 | 2026-08-09 | Hierarchical Topology-Aware Planning and Control of Underwater Vehicle-Manipulator Systems in Confined Environments | Mohamed Abdelwahab, Ruggero Carli, Damiano Varagnolo, Alberto Dalla Libera | [Abstract](https://arxiv.org/abs/2608.08871) · [PDF](https://arxiv.org/pdf/2608.08871) |
@@ -64,7 +73,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-04 | Towards a Data Flywheel for Embodied Intelligence in Logistics | Anlan Yu, Zaishu Chen, Zhiqing Hong, Daqing Zhang | [Abstract](https://arxiv.org/abs/2606.05960) · [PDF](https://arxiv.org/pdf/2606.05960) |
 | 2026-06-04 | Optimal Control Approach for Non-prehensile Ball Juggling Using a 7-DoF Manipulator | Joel Ramadani, Vasilije Rakčević, Riddhiman Laha, Arne Sachtler et al. | [Abstract](https://arxiv.org/abs/2606.06704) · [PDF](https://arxiv.org/pdf/2606.06704) |
 | 2026-05-27 | Natural Functional Gradients for Smooth Trajectory Optimization | Kisang Park, Chanwoo Kim, Kyungjae Lee, Sungjoon Choi | [Abstract](https://arxiv.org/abs/2605.28202) · [PDF](https://arxiv.org/pdf/2605.28202) |
-| 2026-05-24 | Manifold-Constrained MPPI: Real-Time Sampling-Based Control Under Hard Constraints | Seulchan Lee, Sanghyun Kim | [Abstract](https://arxiv.org/abs/2605.24813) · [PDF](https://arxiv.org/pdf/2605.24813) |
+| 2026-05-24 | Manifold-Constrained MPPI: Real-Time Sampling-Based Control for Nonlinear Equality-Constrained Robotic Systems | Seulchan Lee, Sanghyun Kim | [Abstract](https://arxiv.org/abs/2605.24813) · [PDF](https://arxiv.org/pdf/2605.24813) |
 | 2026-05-14 | Slot-MPC: Goal-Conditioned Model Predictive Control with Object-Centric Representations | Jonathan Spieler, Angel Villar-Corrales, Sven Behnke | [Abstract](https://arxiv.org/abs/2605.14937) · [PDF](https://arxiv.org/pdf/2605.14937) |
 | 2026-05-14 | Learning Cross-Coupled and Regime Dependent Dynamics for Aerial Manipulation | Rishabh Dev Yadav, Samaksh Ujjawal, Sihao Sun, Spandan Roy et al. | [Abstract](https://arxiv.org/abs/2605.14805) · [PDF](https://arxiv.org/pdf/2605.14805) |
 | 2026-05-08 | PISTO: Proximal Inference for Stochastic Trajectory Optimization | Hongzhe Yu, Zinuo Chang, Yongxin Chen | [Abstract](https://arxiv.org/abs/2605.07215) · [PDF](https://arxiv.org/pdf/2605.07215) |
@@ -78,6 +87,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-04-06 | Bilinear Model Predictive Control Framework of the OncoReach, a Tendon-Driven Steerable Stylet for Brachytherapy | Pejman Kheradmand, Behnam Moradkhani, Mir Masoud Ale Ali, Keith Sowards et al. | [Abstract](https://arxiv.org/abs/2604.05111) · [PDF](https://arxiv.org/pdf/2604.05111) |
 | 2026-03-29 | Spectral Decomposition of Inverse Dynamics for Fast Exploration in Model-Based Manipulation | Solvin Sigurdson, Benjamin Riviere, Joel Burdick | [Abstract](https://arxiv.org/abs/2603.27796) · [PDF](https://arxiv.org/pdf/2603.27796) |
 | 2026-03-29 | Learning Smooth and Robust Space Robotic Manipulation of Dynamic Target via Inter-frame Correlation | Siyi Lang, Hongyi Gao, Yingxin Zhang, Zihao Liu et al. | [Abstract](https://arxiv.org/abs/2603.27537) · [PDF](https://arxiv.org/pdf/2603.27537) |
+| 2026-03-15 | SmallSatSim: A GPU-Accelerated Microgravity Robotics Toolkit for Planning, Control, and Policy Learning | David Schwartz, Alexander Hansson, Sabrina Bodmer, David Sternberg et al. | [Abstract](https://arxiv.org/abs/2603.14598) · [PDF](https://arxiv.org/pdf/2603.14598) |
 | 2026-03-14 | ToMPC: Task-oriented Model Predictive Control via ADMM for Safe Robotic Manipulation | Xinyu Jia, Wenxin Wang, Jun Yang, Yongping Pan et al. | [Abstract](https://arxiv.org/abs/2603.13944) · [PDF](https://arxiv.org/pdf/2603.13944) |
 | 2026-03-12 | CoAd: Constant-Time Planning for Continuous Goal Manipulation with Compressed Library and Online Adaptation | Adil Shiyas, Zhuoyun Zhong, Constantinos Chamzas | [Abstract](https://arxiv.org/abs/2603.12488) · [PDF](https://arxiv.org/pdf/2603.12488) |
 | 2026-03-10 | DRAFTO: Decoupled Reduced-space and Adaptive Feasibility-repair Trajectory Optimization for Robotic Manipulators | Yichang Feng, Xiao Liang, Minghui Zheng | [Abstract](https://arxiv.org/abs/2603.11074) · [PDF](https://arxiv.org/pdf/2603.11074) |
@@ -109,7 +119,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-08-05 | Safety-Aware Imitation Learning via MPC-Guided Disturbance Injection | Le Qiu, Yusuf Umut Ciftci, Somil Bansal | [Abstract](https://arxiv.org/abs/2508.03129) · [PDF](https://arxiv.org/pdf/2508.03129) |
 | 2025-08-05 | Aerobatic maneuvers in insect-scale flapping-wing aerial robots via deep-learned robust tube model predictive control | Yi-Hsuan Hsiao, Andrea Tagliabue, Owen Matteson, Suhan Kim et al. | [Abstract](https://arxiv.org/abs/2508.03043) · [PDF](https://arxiv.org/pdf/2508.03043) |
 | 2025-07-09 | Q-Guided Stein Variational Model Predictive Control via RL-informed Policy Prior | Shizhe Cai, Zeya Yin, Jayadeep Jacob, Fabio Ramos | [Abstract](https://arxiv.org/abs/2507.06625) · [PDF](https://arxiv.org/pdf/2507.06625) |
-| 2025-06-12 | Gondola: Grounded Vision Language Planning for Generalizable Robotic Manipulation | Shizhe Chen, Ricardo Garcia, Paul Pacaud, Cordelia Schmid | [Abstract](https://arxiv.org/abs/2506.11261) · [PDF](https://arxiv.org/pdf/2506.11261) |
 | 2025-06-10 | ROS-related Robotic Systems Development with V-model-based Application of MeROS Metamodel | Tomasz Winiarski, Jan Kaniuka, Daniel Giełdowski, Jakub Ostrysz et al. | [Abstract](https://arxiv.org/abs/2506.08706) · [PDF](https://arxiv.org/pdf/2506.08706) |
 | 2025-06-05 | ActivePusher: Active Learning and Planning with Residual Physics for Nonprehensile Manipulation | Zhuoyun Zhong, Seyedali Golestaneh, Constantinos Chamzas | [Abstract](https://arxiv.org/abs/2506.04646) · [PDF](https://arxiv.org/pdf/2506.04646) |
 | 2025-05-30 | Safety-Aware Robust Model Predictive Control for Robotic Arms in Dynamic Environments | Sanghyeon Nam, Dongmin Kim, Seung-Hwan Choi, Chang-Hyun Kim et al. | [Abstract](https://arxiv.org/abs/2505.24209) · [PDF](https://arxiv.org/pdf/2505.24209) |
@@ -185,7 +194,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-01 | Neural Field Dynamics Model for Granular Object Piles Manipulation | Shangjie Xue, Shuo Cheng, Pujith Kachana, Danfei Xu | [Abstract](https://arxiv.org/abs/2311.00802) · [PDF](https://arxiv.org/pdf/2311.00802) |
 | 2023-10-20 | ManiCast: Collaborative Manipulation with Cost-Aware Human Forecasting | Kushal Kedia, Prithwish Dan, Atiksh Bhardwaj, Sanjiban Choudhury | [Abstract](https://arxiv.org/abs/2310.13258) · [PDF](https://arxiv.org/pdf/2310.13258) |
 | 2023-10-15 | Adaptive Contact-Implicit Model Predictive Control with Online Residual Learning | Wei-Cheng Huang, Alp Aydinoglu, Wanxin Jin, Michael Posa | [Abstract](https://arxiv.org/abs/2310.09893) · [PDF](https://arxiv.org/pdf/2310.09893) |
-| 2023-09-26 | Finding Biomechanically Safe Trajectories for Robot Manipulation of the Human Body in a Search and Rescue Scenario | Elizabeth Peiros, Zih-Yun Chiu, Yuheng Zhi, Nikhil Shinde et al. | [Abstract](https://arxiv.org/abs/2309.15265) · [PDF](https://arxiv.org/pdf/2309.15265) |
 
 ---
 

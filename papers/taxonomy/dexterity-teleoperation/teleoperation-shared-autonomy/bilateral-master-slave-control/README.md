@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Autonomy&specialty=Bilateral%20%26%20Master-slave%20Control#research-workbench)
 
-> 7 conference papers · 20 recent arXiv papers
+> 8 conference papers · 20 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (7)
+## Conference papers (8)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | A Dual-Channel Framework for Blind Perceptual Quality Assessment in Bilateral Teleoperation | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697224) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697224) |
 | 2025 | Passivity Filters for Bilateral Teleoperation with Variable Impedance Control | ICRA · Teleoperation | [Paper](https://hal.science/hal-05156618v1/document) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128576) |
 | 2025 | Perfectly Undetectable False Data Injection Attacks on Encrypted Bilateral Teleoperation System based on Dynamic Symmetry and Malleability | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2409.13061) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128026) |
 | 2024 | Lightweight and Compliant Bilateral Teleoperation System with Anthropomorphic Arms for Aerial and Ground Service Operations | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611383) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611383) |

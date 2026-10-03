@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Bimanual%20Coordination&specialty=Bimanual%20Assembly%20%26%20Deformables#research-workbench)
 
-> 4 conference papers · 3 recent arXiv papers
+> 5 conference papers · 3 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (4)
+## Conference papers (5)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | SUBTA: A Framework for Supported User-Guided Bimanual Teleoperation in Structured Assembly | ICRA · Bimanual | [Paper](https://arxiv.org/abs/2603.10459) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696315) |
 | 2025 | BiFold: Bimanual Cloth Folding with Language Guidance | ICRA · Bimanual | [Paper](https://upcommons.upc.edu/bitstreams/e402a765-88f9-465f-a761-5f7345eebf6a/download) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127549) |
 | 2025 | GraphGarment: Learning Garment Dynamics for Bimanual Cloth Manipulation Tasks | IROS · Bimanual | [Paper](https://arxiv.org/abs/2503.05817) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246283) |
 | 2023 | Bimanual Rope Manipulation Skill Synthesis through Context Dependent Correction Policy Learning from Human Demonstration | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2209.13850) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160895) |

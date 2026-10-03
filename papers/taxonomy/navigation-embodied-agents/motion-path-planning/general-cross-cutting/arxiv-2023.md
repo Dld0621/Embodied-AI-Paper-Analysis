@@ -2,7 +2,7 @@
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 161 papers · complete list for this taxonomy leaf
+> 131 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -137,33 +137,3 @@
 | 2023-10-04 | Reinforcement Learning with Foundation Priors: Let the Embodied Agent Efficiently Learn on Its Own | Weirui Ye, Yunsheng Zhang, Haoyang Weng, Xianfan Gu et al. | [Abstract](https://arxiv.org/abs/2310.02635) · [PDF](https://arxiv.org/pdf/2310.02635) |
 | 2023-10-03 | STAMP: Differentiable Task and Motion Planning via Stein Variational Gradient Descent | Yewon Lee, Andrew Z. Li, Philip Huang, Eric Heiden et al. | [Abstract](https://arxiv.org/abs/2310.01775) · [PDF](https://arxiv.org/pdf/2310.01775) |
 | 2023-10-03 | Automatic Data Processing for Space Robotics Machine Learning | Anja Sheppard, Katherine A. Skinner | [Abstract](https://arxiv.org/abs/2310.01932) · [PDF](https://arxiv.org/pdf/2310.01932) |
-| 2023-10-02 | Trust-Aware Motion Planning for Human-Robot Collaboration under Distribution Temporal Logic Specifications | Pian Yu, Shuyang Dong, Shili Sheng, Lu Feng et al. | [Abstract](https://arxiv.org/abs/2310.01163) · [PDF](https://arxiv.org/pdf/2310.01163) |
-| 2023-10-02 | A Decentralized Cooperative Navigation Approach for Visual Homing Networks | Mohamed Rahouti, Damian Lyons, Senthil Kumar Jagatheesaperumal, Kaiqi Xiong | [Abstract](https://arxiv.org/abs/2310.00906) · [PDF](https://arxiv.org/pdf/2310.00906) |
-| 2023-10-01 | A Preview of Open-Loop and Feedback Nash Trajectories in Racing Scenarios | Matthias Rowold | [Abstract](https://arxiv.org/abs/2310.00766) · [PDF](https://arxiv.org/pdf/2310.00766) |
-| 2023-09-29 | Robots That Can See: Leveraging Human Pose for Trajectory Prediction | Tim Salzmann, Lewis Chiang, Markus Ryll, Dorsa Sadigh et al. | [Abstract](https://arxiv.org/abs/2309.17209) · [PDF](https://arxiv.org/pdf/2309.17209) |
-| 2023-09-29 | PlaceNav: Topological Navigation through Place Recognition | Lauri Suomela, Jussi Kalliola, Harry Edelman, Joni-Kristian Kämäräinen | [Abstract](https://arxiv.org/abs/2309.17260) · [PDF](https://arxiv.org/pdf/2309.17260) |
-| 2023-09-28 | Stochastic Implicit Neural Signed Distance Functions for Safe Motion Planning under Sensing Uncertainty | Carlos Quintero-Peña, Wil Thomason, Zachary Kingston, Anastasios Kyrillidis et al. | [Abstract](https://arxiv.org/abs/2309.16862) · [PDF](https://arxiv.org/pdf/2309.16862) |
-| 2023-09-28 | An MCTS-DRL Based Obstacle and Occlusion Avoidance Methodology in Robotic Follow-Ahead Applications | Sahar Leisiazar, Edward J. Park, Angelica Lim, Mo Chen | [Abstract](https://arxiv.org/abs/2309.16884) · [PDF](https://arxiv.org/pdf/2309.16884) |
-| 2023-09-28 | An Attentional Recurrent Neural Network for Occlusion-Aware Proactive Anomaly Detection in Field Robot Navigation | Andre Schreiber, Tianchen Ji, D. Livingston McPherson, Katherine Driggs-Campbell | [Abstract](https://arxiv.org/abs/2309.16826) · [PDF](https://arxiv.org/pdf/2309.16826) |
-| 2023-09-27 | Tracking Snake-like Robots in the Wild Using Only a Single Camera | Jingpei Lu, Florian Richter, Shan Lin, Michael C. Yip | [Abstract](https://arxiv.org/abs/2309.15700) · [PDF](https://arxiv.org/pdf/2309.15700) |
-| 2023-09-27 | Teach and Repeat Navigation: A Robust Control Approach | Payam Nourizadeh, Michael Milford, Tobias Fischer | [Abstract](https://arxiv.org/abs/2309.15405) · [PDF](https://arxiv.org/pdf/2309.15405) |
-| 2023-09-27 | MINS: Efficient and Robust Multisensor-aided Inertial Navigation System | Woosik Lee, Patrick Geneva, Chuchu Chen, Guoquan Huang | [Abstract](https://arxiv.org/abs/2309.15390) · [PDF](https://arxiv.org/pdf/2309.15390) |
-| 2023-09-26 | STERLING: Self-Supervised Terrain Representation Learning from Unconstrained Robot Experience | Haresh Karnan, Elvin Yang, Daniel Farkash, Garrett Warnell et al. | [Abstract](https://arxiv.org/abs/2309.15302) · [PDF](https://arxiv.org/pdf/2309.15302) |
-| 2023-09-26 | Modeling Evacuee Behavior for Robot-Guided Emergency Evacuation | Mollik Nayyar, Alan Wagner | [Abstract](https://arxiv.org/abs/2309.15045) · [PDF](https://arxiv.org/pdf/2309.15045) |
-| 2023-09-26 | Maximum diffusion reinforcement learning | Thomas A. Berrueta, Allison Pinosky, Todd D. Murphey | [Abstract](https://arxiv.org/abs/2309.15293) · [PDF](https://arxiv.org/pdf/2309.15293) |
-| 2023-09-25 | Perception-and-Energy-aware Motion Planning for UAV using Learning-based Model under Heteroscedastic Uncertainty | Reiya Takemura, Genya Ishigami | [Abstract](https://arxiv.org/abs/2309.14272) · [PDF](https://arxiv.org/pdf/2309.14272) |
-| 2023-09-25 | Navigation with shadow prices to optimize multi-commodity flow rates | Ignacio Boero, Igor Spasojevic, Mariana del Castillo, George Pappas et al. | [Abstract](https://arxiv.org/abs/2309.14284) · [PDF](https://arxiv.org/pdf/2309.14284) |
-| 2023-09-25 | Integrating Higher-Order Dynamics and Roadway-Compliance into Constrained ILQR-based Trajectory Planning for Autonomous Vehicles | Hanxiang Li, Jiaqiao Zhang, Sheng Zhu, Dongjian Tang et al. | [Abstract](https://arxiv.org/abs/2309.14566) · [PDF](https://arxiv.org/pdf/2309.14566) |
-| 2023-09-25 | FurNav: Development and Preliminary Study of a Robot Direction Giver | Bruce W. Wilson, Yann Schlosser, Rayane Tarkany, Meriam Moujahid et al. | [Abstract](https://arxiv.org/abs/2309.14499) · [PDF](https://arxiv.org/pdf/2309.14499) |
-| 2023-09-24 | Neural Network-PSO-based Velocity Control Algorithm for Landing UAVs on a Boat | Li-Fan Wu, Zihan Wang, Mo Rastgaar, Nina Mahmoudian | [Abstract](https://arxiv.org/abs/2309.13679) · [PDF](https://arxiv.org/pdf/2309.13679) |
-| 2023-09-24 | Design and Evaluation of Motion Planners for Quadrotors in Environments with Varying Complexities | Yifei Simon Shao, Yuwei Wu, Laura Jarin-Lipschitz, Pratik Chaudhari et al. | [Abstract](https://arxiv.org/abs/2309.13720) · [PDF](https://arxiv.org/pdf/2309.13720) |
-| 2023-09-23 | Robust Navigation with Cross-Modal Fusion and Knowledge Transfer | Wenzhe Cai, Guangran Cheng, Lingyue Kong, Lu Dong et al. | [Abstract](https://arxiv.org/abs/2309.13266) · [PDF](https://arxiv.org/pdf/2309.13266) |
-| 2023-09-23 | Rethinking Social Robot Navigation: Leveraging the Best of Two Worlds | Amir Hossain Raj, Zichao Hu, Haresh Karnan, Rohan Chandra et al. | [Abstract](https://arxiv.org/abs/2309.13466) · [PDF](https://arxiv.org/pdf/2309.13466) |
-| 2023-09-23 | NeRF-Enhanced Outpainting for Faithful Field-of-View Extrapolation | Rui Yu, Jiachen Liu, Zihan Zhou, Sharon X. Huang | [Abstract](https://arxiv.org/abs/2309.13240) · [PDF](https://arxiv.org/pdf/2309.13240) |
-| 2023-09-22 | Teacher-Student Reinforcement Learning for Mapless Navigation using a Planetary Space Rover | Anton Bjørndahl Mortensen, Emil Tribler Pedersen, Laia Vives Benedicto, Lionel Burg et al. | [Abstract](https://arxiv.org/abs/2309.12807) · [PDF](https://arxiv.org/pdf/2309.12807) |
-| 2023-09-22 | SoRTS: Learned Tree Search for Long Horizon Social Robot Navigation | Ingrid Navarro, Jay Patrikar, Joao P. A. Dantas, Rohan Baijal et al. | [Abstract](https://arxiv.org/abs/2309.13144) · [PDF](https://arxiv.org/pdf/2309.13144) |
-| 2023-09-22 | Learning Actions and Control of Focus of Attention with a Log-Polar-like Sensor | Robin Göransson, Volker Krueger | [Abstract](https://arxiv.org/abs/2309.12634) · [PDF](https://arxiv.org/pdf/2309.12634) |
-| 2023-09-22 | Enhancing Graph Representation of the Environment through Local and Cloud Computation | Francesco Argenziano, Vincenzo Suriani, Daniele Nardi | [Abstract](https://arxiv.org/abs/2309.12692) · [PDF](https://arxiv.org/pdf/2309.12692) |
-| 2023-09-22 | E(2)-Equivariant Graph Planning for Navigation | Linfeng Zhao, Hongyu Li, Taskin Padir, Huaizu Jiang et al. | [Abstract](https://arxiv.org/abs/2309.13043) · [PDF](https://arxiv.org/pdf/2309.13043) |
-| 2023-09-21 | A Vision-Based Navigation System for Arable Fields | Rajitha de Silva, Grzegorz Cielniak, Junfeng Gao | [Abstract](https://arxiv.org/abs/2309.11989) · [PDF](https://arxiv.org/pdf/2309.11989) |
-| 2023-09-21 | A Diffusion-Model of Joint Interactive Navigation | Matthew Niedoba, Jonathan Wilder Lavington, Yunpeng Liu, Vasileios Lioutas et al. | [Abstract](https://arxiv.org/abs/2309.12508) · [PDF](https://arxiv.org/pdf/2309.12508) |

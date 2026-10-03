@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Balance%2C%20Dynamics%20%26%20Recovery&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 4 conference papers · 50 recent arXiv papers
+> 5 conference papers · 48 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,16 +14,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (4)
+## Conference papers (5)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Trajectory Optimization Through Mixed-Integer Optimization of Contact Dynamics for Switching End Effector Locomotion | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695825) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695825) |
 | 2025 | SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2505.11494) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247065) |
 | 2024 | Terrestrial Locomotion of PogoX: From Hardware Design to Energy Shaping and Step-to-step Dynamics Based Control | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2309.13737) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611545) |
 | 2024 | Heading Control for Obstacle Avoidance using Dynamic Posture Manipulation during Tumbling Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS58592.2024.10801515) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801515) |
 | 2022 | Online Learning of Centroidal Angular Momentum towards Enhancing DCM-based Locomotion | ICRA · Locomotion | [Paper](https://elib.dlr.de/186198/1/Schuller2022_Online_Learning_of_Centroidal_Angular_Momentum_Towards_Enhancing_DCM-Based_Locomotion.pdf) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811708) |
 
-## Recent arXiv papers (50)
+## Recent arXiv papers (48)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -75,8 +76,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-12 | Dynamics Harmonic Analysis of Robotic Systems: Application in Data-Driven Koopman Modelling | Daniel Ordoñez-Apraez, Vladimir Kostic, Giulio Turrisi, Pietro Novelli et al. | [Abstract](https://arxiv.org/abs/2312.07457) · [PDF](https://arxiv.org/pdf/2312.07457) |
 | 2023-12-07 | Modeling and Numerical Analysis of Kangaroo Lower Body based on Constrained Dynamics of Hybrid Serial-Parallel Floating-Base Systems | Enrico Mingo Hoffman, Andrea Curti, Narcis Miguel, Sai Kishor Kothakota et al. | [Abstract](https://arxiv.org/abs/2312.04161) · [PDF](https://arxiv.org/pdf/2312.04161) |
 | 2023-11-27 | Learning Multimodal Latent Dynamics for Human-Robot Interaction | Vignesh Prasad, Lea Heitlinger, Dorothea Koert, Ruth Stock-Homburg et al. | [Abstract](https://arxiv.org/abs/2311.16380) · [PDF](https://arxiv.org/pdf/2311.16380) |
-| 2023-10-01 | Efficient Constrained Dynamics Algorithms based on an Equivalent LQR Formulation using Gauss' Principle of Least Constraint | Ajay Suresha Sathya, Herman Bruyninckx, Wilm Decre, Goele Pipeleers | [Abstract](https://arxiv.org/abs/2310.00688) · [PDF](https://arxiv.org/pdf/2310.00688) |
-| 2023-09-24 | Terrestrial Locomotion of PogoX: From Hardware Design to Energy Shaping and Step-to-step Dynamics Based Control | Yi Wang, Jiarong Kang, Zhiheng Chen, Xiaobin Xiong | [Abstract](https://arxiv.org/abs/2309.13737) · [PDF](https://arxiv.org/pdf/2309.13737) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Pretraining%2C%20Scaling%20%26%20Transfer&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 17 conference papers · 183 recent arXiv papers
+> 17 conference papers · 190 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,7 +21,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | ECBench: Can Multi-modal Foundation Models Understand the Egocentric World? A Holistic Embodied Cognition Benchmark | CVPR · Foundation Model | [Paper](https://arxiv.org/abs/2501.05031) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02290) |
 | 2025 | Adaptive Articulated Object Manipulation on the Fly with Foundation Model Reasoning and Part Grounding | ICCV · Foundation Model | [Paper](https://arxiv.org/pdf/2507.18276) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01211) |
 | 2025 | RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation | ICLR · Bimanual foundation model | [Paper](https://arxiv.org/abs/2410.07864) · [Official](https://proceedings.iclr.cc/paper_files/paper/2025/hash/49f80e4d2471ad4f2edf4f5f1ab62339-Abstract-Conference.html) · [Code](https://github.com/thu-ml/RoboticsDiffusionTransformer) |
-| 2025 | SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation | ICML · Foundation Model | [Paper](https://arxiv.org/abs/2501.18564) · [Index](https://dblp.org/rec/conf/icml/FangGPWFKD25) |
+| 2025 | SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation | ICML · Foundation Model | [Paper](https://arxiv.org/abs/2501.18564) · [Index](https://dblp.org/rec/journals/corr/abs-2501-18564) |
 | 2025 | ASCENT: Autonomous Skill Learning Toward Complex Embodied Tasks With Foundation Models | ICRA · Foundation Model | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127927) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127927) |
 | 2025 | AnyBipe: An Automated End-to-End Framework for Training and Deploying Bipedal Robots Powered by Large Language Models | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246492) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246492) |
 | 2025 | CLAP: A Closed-Loop Diffusion Transformer Action Foundation Model for Robotic Manipulation | IROS · Foundation Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246478) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246478) |
@@ -29,20 +29,28 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | CoViS-Net: A Cooperative Visual Spatial Foundation Model for Multi-Robot Applications | CoRL · Foundation Model | [Paper](https://arxiv.org/abs/2405.01107) · [Index](https://dblp.org/rec/conf/corl/BlumenkampMGP24) |
 | 2024 | MOSAIC: Modular Foundation Models for Assistive and Interactive Cooking | CoRL · Foundation Model | [Paper](https://arxiv.org/abs/2402.18796) · [Index](https://dblp.org/rec/conf/corl/WangKRABCCCDFGK24) |
 | 2024 | Teaching Robots with Show and Tell: Using Foundation Models to Synthesize Robot Policies from Language and Visual Demonstration | CoRL · Foundation Model | [Paper](https://www.semanticscholar.org/paper/2cab12c9866a67c6bfe84271d251ca1fc353fea9) · [Index](https://dblp.org/rec/conf/corl/MurrayGC24) |
-| 2024 | Empowering Embodied Visual Tracking with Visual Foundation Models and Offline RL | ECCV · Foundation Model | [Paper](https://arxiv.org/abs/2404.09857) · [Index](https://dblp.org/rec/conf/eccv/ZhongWCWC24) |
+| 2024 | Empowering Embodied Visual Tracking with Visual Foundation Models and Offline RL | ECCV · Foundation Model | [Paper](https://arxiv.org/abs/2404.09857) · [Index](https://dblp.org/rec/journals/corr/abs-2404-09857) |
 | 2024 | Composing Pre-Trained Object-Centric Representations for Robotics From "What" and "Where" Foundation Models | ICRA · Foundation Model | [Paper](https://arxiv.org/abs/2404.13474) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610695) |
 | 2024 | Self-Recovery Prompting: Promptable General Purpose Service Robot System with Foundation Models and Self-Recovery | ICRA · Foundation Model | [Paper](https://arxiv.org/abs/2309.14425) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611640) |
 | 2024 | ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots | IROS · Foundation Model | [Paper](https://arxiv.org/abs/2405.06964) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801782) |
 | 2024 | DrEureka: Language Model Guided Sim-To-Real Transfer | RSS · Language Model | [Paper](https://arxiv.org/abs/2406.01967) · [Index](https://dblp.org/rec/conf/rss/MaLWZFBJ24) |
 | 2023 | Gesture-Informed Robot Assistance via Foundation Models | CoRL · Foundation Model | [Paper](https://arxiv.org/pdf/2309.02721) · [Index](https://dblp.org/rec/journals/corr/abs-2309-02721) |
 
-## Recent arXiv papers (183)
+## Recent arXiv papers (190)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-01 | CLoSeR: Closing the Loop for Long-Context Streaming Reconstruction | Moyang Li, Zihan Zhu, Wei Zhang, Marc Pollefeys et al. | [Abstract](https://arxiv.org/abs/2610.01927) · [PDF](https://arxiv.org/pdf/2610.01927) |
+| 2026-09-30 | STARS: From Spatiotemporal Dynamics to Social Representations in Human-Robot Interaction | Nathan Tsoi, Michael J. Munje, Tejas Oberoi, Rishab Maheshwari et al. | [Abstract](https://arxiv.org/abs/2609.40245) · [PDF](https://arxiv.org/pdf/2609.40245) |
+| 2026-09-30 | Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning? | Zhihao Sun, Liu Liu, Xinjiang Wang, Haoyi Jiang et al. | [Abstract](https://arxiv.org/abs/2609.40341) · [PDF](https://arxiv.org/pdf/2609.40341) |
+| 2026-09-29 | Learning Expressive and Compositional Motion Representation via Spectral Skills | Feiyang Wu, Chenxiao Gao, Chen Yang, Ye Zhao et al. | [Abstract](https://arxiv.org/abs/2609.37677) · [PDF](https://arxiv.org/pdf/2609.37677) |
+| 2026-09-28 | Action Sequence Transfer via LLMs for Heterogeneous Environments | Choongho Chung, DongHwan Shin, Sung-Hee Lee | [Abstract](https://arxiv.org/abs/2609.34730) · [PDF](https://arxiv.org/pdf/2609.34730) |
+| 2026-09-27 | Does Adversarial Training Improve Generalization in Multi-View VLAs? Revealing and Mitigating View Collapse | Futa Waseda, Shuhei Kurita, Isao Echizen | [Abstract](https://arxiv.org/abs/2609.33707) · [PDF](https://arxiv.org/pdf/2609.33707) |
+| 2026-09-26 | Assisting for Open-Ended Tasks: Goal-Oriented Shared Autonomy as a Particle Filter | Mengxue Fu, Ethan Xu, Sam Iyer-Singh, Yinlong Dai et al. | [Abstract](https://arxiv.org/abs/2609.32576) · [PDF](https://arxiv.org/pdf/2609.32576) |
+| 2026-09-24 | SplatLabel: Pseudo-Labelling through 4D Gaussian Splatting | Nitya Nanvani, Andras Palffy, Holger Caesar | [Abstract](https://arxiv.org/abs/2609.29836) · [PDF](https://arxiv.org/pdf/2609.29836) |
+| 2026-09-24 | Actively Resolving Contextual Uncertainty for Underspecified Tasks in Natural Language | Zachary Ravichandran, Jonathan Diller, Fernando Cladera, Varun Murali et al. | [Abstract](https://arxiv.org/abs/2609.30428) · [PDF](https://arxiv.org/pdf/2609.30428) |
 | 2026-09-16 | A Convergence Framework for Deep $V$-Learning: Error Propagation and Sharp Action-Gap Bounds | Yury Kolomeytsev | [Abstract](https://arxiv.org/abs/2609.18782) · [PDF](https://arxiv.org/pdf/2609.18782) |
 | 2026-09-07 | Foundation Models for Generalizable Semantic and Goal-Oriented Communication | Boliang Liu, Wint Yi Poe, Riccardo Trivisonno, Giuseppe Caire | [Abstract](https://arxiv.org/abs/2609.07853) · [PDF](https://arxiv.org/pdf/2609.07853) |
-| 2026-09-03 | Where Appearance Fails, Geometry Recognizes: A CAD-Free 3D Shape Prior That Complements Vision Foundation Models | Chenxi Tao, Seung-Kyum Choi | [Abstract](https://arxiv.org/abs/2609.04381) · [PDF](https://arxiv.org/pdf/2609.04381) |
 | 2026-09-01 | Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation | Haoyuan Deng, Haichao Liu, Wenkai Guo, Yuan Ling et al. | [Abstract](https://arxiv.org/abs/2609.01596) · [PDF](https://arxiv.org/pdf/2609.01596) |
 | 2026-08-12 | Repurposing RGB-based Foundation Model for Depth Estimation on Thermal Images Using Hierarchical Supervision | Jie Hong, Tingtian Li, Xuesong Li, Xiao Li | [Abstract](https://arxiv.org/abs/2608.11564) · [PDF](https://arxiv.org/pdf/2608.11564) |
 | 2026-08-08 | Diminishing Returns of Intelligence: The Non-Linear Relationship Between LLM Scale and User Perception in Short-Duration Open-Ended Social Human-Robot Interactions | Amanda Rasille Røn Volf, Morten Roed Frederiksen | [Abstract](https://arxiv.org/abs/2608.08320) · [PDF](https://arxiv.org/pdf/2608.08320) |
@@ -60,6 +68,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-01 | ROSA: A Robotics Foundation Model Serving System for Robot Factories | Wenqi Jiang, Jason Clemons, Rowland O'Flaherty, Hugo Hadfield et al. | [Abstract](https://arxiv.org/abs/2607.01088) · [PDF](https://arxiv.org/pdf/2607.01088) |
 | 2026-06-30 | Communication-Aware Robot Execution for Cloud Inference under Spatially Heterogeneous Connectivity | Fengkai Liu, Yuichi Ohsita, Masayuki Murata, Hideyuki Shimonishi | [Abstract](https://arxiv.org/abs/2606.31497) · [PDF](https://arxiv.org/pdf/2606.31497) |
 | 2026-06-26 | The Speedup Paradox: Rethinking Inference Speed-Quality Trade-off in Embodied Tasks | Yujin Wang, Junli Chen, Yixuan Li, Shunan Dong et al. | [Abstract](https://arxiv.org/abs/2606.28529) · [PDF](https://arxiv.org/pdf/2606.28529) |
+| 2026-06-26 | Direct Action-Head Injection of A Grounded 3D Point Unlocks Spatial and Task Generalization | Shiang-Feng Tsai, Jin-Cheng Jhang, Yen-Ling Tai, Jia-Hong Lai et al. | [Abstract](https://arxiv.org/abs/2606.27663) · [PDF](https://arxiv.org/pdf/2606.27663) |
 | 2026-06-22 | Verifiable Foundation Models for Robot Safety | Davide Corsi, Kyungmin Kim, Roy Fox | [Abstract](https://arxiv.org/abs/2606.23754) · [PDF](https://arxiv.org/pdf/2606.23754) |
 | 2026-06-22 | Conceptual Design of an Ecosystem for Real Farm Data Collection toward Agricultural AI Foundation Models | Junsei Tanaka, Yoshihiro Sato | [Abstract](https://arxiv.org/abs/2606.23258) · [PDF](https://arxiv.org/pdf/2606.23258) |
 | 2026-06-19 | OmniV2X: A Generative Foundation Planner for Efficient End-to-End Cooperative Driving | Juntong Peng, Juanwu Lu, Yupeng Zhou, Can Cui et al. | [Abstract](https://arxiv.org/abs/2606.21165) · [PDF](https://arxiv.org/pdf/2606.21165) |
@@ -221,8 +230,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-26 | Drive Anywhere: Generalizable End-to-end Autonomous Driving with Multi-modal Foundation Models | Tsun-Hsuan Wang, Alaa Maalouf, Wei Xiao, Yutong Ban et al. | [Abstract](https://arxiv.org/abs/2310.17642) · [PDF](https://arxiv.org/pdf/2310.17642) |
 | 2023-10-07 | Unifying Foundation Models with Quadrotor Control for Visual Tracking Beyond Object Categories | Alessandro Saviolo, Pratyaksh Rao, Vivek Radhakrishnan, Jiuhong Xiao et al. | [Abstract](https://arxiv.org/abs/2310.04781) · [PDF](https://arxiv.org/pdf/2310.04781) |
 | 2023-10-06 | DiffPrompter: Differentiable Implicit Visual Prompts for Semantic-Segmentation in Adverse Conditions | Sanket Kalwar, Mihir Ungarala, Shruti Jain, Aaron Monis et al. | [Abstract](https://arxiv.org/abs/2310.04181) · [PDF](https://arxiv.org/pdf/2310.04181) |
-| 2023-10-02 | GRID: A Platform for General Robot Intelligence Development | Sai Vemprala, Shuhang Chen, Abhinav Shukla, Dinesh Narayanan et al. | [Abstract](https://arxiv.org/abs/2310.00887) · [PDF](https://arxiv.org/pdf/2310.00887) |
-| 2023-09-25 | Self-Recovery Prompting: Promptable General Purpose Service Robot System with Foundation Models and Self-Recovery | Mimo Shirasaka, Tatsuya Matsushima, Soshi Tsunashima, Yuya Ikeda et al. | [Abstract](https://arxiv.org/abs/2309.14425) · [PDF](https://arxiv.org/pdf/2309.14425) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Contact-rich%20%26%20Deformable%20Manipulation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 19 conference papers · 173 recent arXiv papers
+> 27 conference papers · 181 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,13 +14,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (19)
+## Conference papers (27)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Approximated Collision Detection for Contact-Rich Dexterous Manipulation With Nonnegative Least Squares | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697285) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697285) |
+| 2026 | CRAFT: Adapting VLA Models to Contact-rich Manipulation via Force-aware Curriculum Fine-tuning | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2602.12532) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697097) |
+| 2026 | DynDLO: Learning-Based Trajectory Planning for Dynamic Robotic Manipulation of Deformable Linear Objects | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697081) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697081) |
+| 2026 | FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2506.01941) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696142) |
+| 2026 | MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2509.26642) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697095) |
+| 2026 | Multimodal Diffusion Forcing for Forceful Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2511.04812) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697436) |
+| 2026 | ShapeForce: Low-Cost Soft Robotic Wrist for Contact-Rich Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2511.19955) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697322) |
+| 2026 | Sparse Meets Dense: Correspondence Guided Robotic Manipulation with Rigid-Deformable Interactions | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2608.01083) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696784) |
 | 2025 | ForceMimic: Force-Centric Imitation Learning with Force-Motion Capture System for Contact-Rich Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2410.07554) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128061) |
 | 2025 | Hierarchical Contact-Rich Trajectory Optimization for Multi-Modal Manipulation Using Tight Convex Relaxations | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2503.07963) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127667) |
-| 2025 | Is Linear Feedback on Smoothed Dynamics Sufficient for Stabilizing Contact-Rich Plans? | ICRA · Contact Rich | [Paper](https://arxiv.org/abs/2411.06542) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127776) |
+| 2025 | Is Linear Feedback on Smoothed Dynamics Sufficient for Stabilizing Contact-Rich Plans? | ICRA · Contact Rich | [Paper](https://arxiv.org/pdf/2411.06542) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127776) |
 | 2025 | Shape-Space Deformer: Unified Visuo-Tactile Representations for Robotic Manipulation of Deformable Objects | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2409.12419) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127499) |
 | 2025 | Force Aware Branch Manipulation To Assist Agricultural Tasks | IROS · Manipulation | [Paper](https://arxiv.org/abs/2503.07497) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246611) |
 | 2025 | Occupancy-belief Planning of Plant Manipulation for Staking | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11245961) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245961) |
@@ -38,10 +46,20 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Demonstrating Large-Scale Package Manipulation via Learned Metrics of Pick Success | RSS · Manipulation | [Paper](https://doi.org/10.15607/rss.2023.xix.023) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.023) |
 | 2022 | Simultaneous Contact-Rich Grasping and Locomotion via Distributed Optimization Enabling Free-Climbing for Multi-Limbed Robots | IROS · Grasp | [Paper](https://arxiv.org/pdf/2207.01418) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981579) |
 
-## Recent arXiv papers (173)
+## Recent arXiv papers (181)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-29 | Wrench-ACT: Enhancing Robot Policies for Contact Rich Behavior Using Direct Wrench Control | Johannes Hechtl, Yannik Blei, Simon Ball, Reihaneh Mirjalili et al. | [Abstract](https://arxiv.org/abs/2609.37552) · [PDF](https://arxiv.org/pdf/2609.37552) |
+| 2026-09-29 | Kinematic Nonlinear Spatio-Temporal Trajectory Warping for Contact-Rich Dexterous Manipulation Demonstrations | Hyojae Park, Arjun S. Lakshmipathy, Nancy S. Pollard | [Abstract](https://arxiv.org/abs/2609.36676) · [PDF](https://arxiv.org/pdf/2609.36676) |
+| 2026-09-25 | TACTIC: Understanding Tactile Encoders and Conditioning for Contact-rich Robot Manipulation Policies | Seongjin Bien, Débora Oliveira Makowski, Carlo Kneissl, Reihaneh Mirjalili et al. | [Abstract](https://arxiv.org/abs/2609.30969) · [PDF](https://arxiv.org/pdf/2609.30969) |
+| 2026-09-25 | Impedance Cloning: Learning Equilibrium Point Parameters for Contact-Rich Manipulation | Hayato Takahashi, Ryoga Oishi, Yuki Kasuga, Toshiaki Tsuji | [Abstract](https://arxiv.org/abs/2609.30842) · [PDF](https://arxiv.org/pdf/2609.30842) |
+| 2026-09-24 | CALM: Current Aligned Link Manipulation for Single Arm Oversized Object Lifting | Jun Hu, Sihan Chen, Kosta Jovanovic, David Navarro-Alarcon et al. | [Abstract](https://arxiv.org/abs/2609.29017) · [PDF](https://arxiv.org/pdf/2609.29017) |
+| 2026-09-24 | Body-Grounded Replanning for Physically Adaptive Manipulation | Namiko Saito, Hiroshi Kera | [Abstract](https://arxiv.org/abs/2609.30024) · [PDF](https://arxiv.org/pdf/2609.30024) |
+| 2026-09-23 | TAPESIM: Efficient Simulation of Adhesive Tape Dispensing for Robotic Manipulation | Zhaofeng Luo, Xinyu Lu, Jaehoon Choi, Zhehuan Chen et al. | [Abstract](https://arxiv.org/abs/2609.28766) · [PDF](https://arxiv.org/pdf/2609.28766) |
+| 2026-09-22 | Manipulation with Stability Guarantees: Linear Deformable Objects with Non-negligible Physical Response Grasped at Multiple Location | Daniel Feliu-Talegon, Cosimo Della Santina | [Abstract](https://arxiv.org/abs/2609.26004) · [PDF](https://arxiv.org/pdf/2609.26004) |
+| 2026-09-20 | PINGU: Extending Air-Bearing Spacecraft Emulators with Open-Source Actuators and Learned Control for Contact-Rich Proximity Operations | Ricard Marsal I Castan, Akiyoshi Uchida, Aman Arora, Pedro Lima et al. | [Abstract](https://arxiv.org/abs/2609.23554) · [PDF](https://arxiv.org/pdf/2609.23554) |
+| 2026-09-19 | Physical-Touch Observability from Wrist Wrench in Granular Scooping | Hongyi Lin, Song Zhang, Xubo Liu, Yang Liu | [Abstract](https://arxiv.org/abs/2609.22852) · [PDF](https://arxiv.org/pdf/2609.22852) |
 | 2026-09-18 | ZeroTouch: Tactile-Supervised Visual Contact Estimation for Contact-Rich Manipulation | Dmitriy Kosenkov, Daniia Zinniatullina, Miguel Altamirano Cabrera, Iana Zhura et al. | [Abstract](https://arxiv.org/abs/2609.21726) · [PDF](https://arxiv.org/pdf/2609.21726) |
 | 2026-09-18 | PSR: Predictive Sensorimotor Representation Learning for Contact-Rich Manipulation | Shengbao Li, Peng Xu, Chao Tang, Hao Wei et al. | [Abstract](https://arxiv.org/abs/2609.21753) · [PDF](https://arxiv.org/pdf/2609.21753) |
 | 2026-09-17 | ForeTac-VLA: A Forecasting-Based Tactile-Vision-Language-Action Model for Contact-Rich Robotic Manipulation | Zhengyu Tao, Xin Li, Xin Wang | [Abstract](https://arxiv.org/abs/2609.20980) · [PDF](https://arxiv.org/pdf/2609.20980) |
@@ -65,7 +83,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-08-02 | CAAT: Contact-Aware Attention Scaling and Tactile Masking for Data-Efficient Contact-Rich Manipulation | Jiaming Jiang, Yuzhe Huang, Hao Liang, Pei Lin et al. | [Abstract](https://arxiv.org/abs/2608.01102) · [PDF](https://arxiv.org/pdf/2608.01102) |
 | 2026-07-31 | TRACT: Temporally Routed Action Chunks with Chronological Phase Authority for Contact-Rich Manipulation | Jiahao Liu, Kento Kawaharazuka, Tasuku Makabe, Kei Okada | [Abstract](https://arxiv.org/abs/2607.29285) · [PDF](https://arxiv.org/pdf/2607.29285) |
 | 2026-07-26 | $N_0$-TWAM: Scaling Tactile-Native World-Action Model for Contact-Rich Manipulation | NeoteAI Team, Fudan TEAI Team | [Abstract](https://arxiv.org/abs/2607.23783) · [PDF](https://arxiv.org/pdf/2607.23783) |
-| 2026-07-24 | ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation | Yunao Huang, Shiyu Sang, Haotao Lu, Suting Ni et al. | [Abstract](https://arxiv.org/abs/2607.22530) · [PDF](https://arxiv.org/pdf/2607.22530) |
+| 2026-07-24 | ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation | Yunao Huang, Shiyu Sang, Suting Ni, Haotao Lu et al. | [Abstract](https://arxiv.org/abs/2607.22530) · [PDF](https://arxiv.org/pdf/2607.22530) |
 | 2026-07-24 | Plug, Play, and Comply: A Modular Framework for Online Variable Impedance with Arbitrarily Oriented Compliance Axes | Mihael Simonič, Xiaocong Li | [Abstract](https://arxiv.org/abs/2607.22483) · [PDF](https://arxiv.org/pdf/2607.22483) |
 | 2026-07-17 | Data and Learning Where it Matters for Contact-Rich Manipulation | Oliver Hausdörfer, Linus Schwarz, Gabor Marko, Christian Dietz et al. | [Abstract](https://arxiv.org/abs/2607.15982) · [PDF](https://arxiv.org/pdf/2607.15982) |
 | 2026-07-16 | Representation-Aligned Tactile Grounding for Contact-Rich Robotic Manipulation | Ruilin Chen, Jingkai Jia, Tong Yang, Xinyu Zhou et al. | [Abstract](https://arxiv.org/abs/2607.14609) · [PDF](https://arxiv.org/pdf/2607.14609) |
@@ -80,7 +98,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-12 | The N2D Haptic Glove: A Multi-Finger Glove for 2D Directional Force Feedback for Contact Rich Manipulation | Yao-Ting Huang, Jake Honma, Omar Hernandez, Logan Li et al. | [Abstract](https://arxiv.org/abs/2606.14083) · [PDF](https://arxiv.org/pdf/2606.14083) |
 | 2026-06-12 | Multimodal Physiological Assessment of Contact-Rich Physical Human-Robot Interaction Under Varying Environmental Conditions | Yanyi Chen, Xi Wang, Min Deng | [Abstract](https://arxiv.org/abs/2606.14969) · [PDF](https://arxiv.org/pdf/2606.14969) |
 | 2026-06-11 | FTP-1: A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation | Chengbo Yuan, Zicheng Zhang, Mingjie Zhou, Wendi Chen et al. | [Abstract](https://arxiv.org/abs/2606.13102) · [PDF](https://arxiv.org/pdf/2606.13102) |
-| 2026-06-11 | ContactWorld: What Representations Matter in Vision-Tactile World Models for Contact-Rich Manipulation | Zhiyuan Zhang, Pokuang Zhou, Kaidi Zhang, Adeesh Desai et al. | [Abstract](https://arxiv.org/abs/2606.13877) · [PDF](https://arxiv.org/pdf/2606.13877) |
 | 2026-06-07 | FAWAM: Force-Aware World Action Models for Closed-Loop Contact-Rich Manipulation | Haotian He, Zeyu Yan, Qipeng Liu, Ning Guo et al. | [Abstract](https://arxiv.org/abs/2606.08555) · [PDF](https://arxiv.org/pdf/2606.08555) |
 | 2026-06-07 | Dream-Tac: A Unified Tactile World Action Model for Contact-Rich Robot Manipulation | Yunfan Lou, Yifan Ye, Yankai Fu, Jun Cen et al. | [Abstract](https://arxiv.org/abs/2606.08737) · [PDF](https://arxiv.org/pdf/2606.08737) |
 | 2026-06-04 | Multi-Resolution Tactile Imitation Learning for Contact-Rich Robotic Manipulation | Rickmer Krohn, Erik Helmut, Niklas Funk, Jan Peters et al. | [Abstract](https://arxiv.org/abs/2606.06281) · [PDF](https://arxiv.org/pdf/2606.06281) |
@@ -214,7 +231,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-13 | Towards Robotic Tree Manipulation: Leveraging Graph Representations | Chung Hee Kim, Moonyoung Lee, Oliver Kroemer, George Kantor | [Abstract](https://arxiv.org/abs/2311.07479) · [PDF](https://arxiv.org/pdf/2311.07479) |
 | 2023-11-03 | CraterGrader: Autonomous Robotic Terrain Manipulation for Lunar Site Preparation and Earthmoving | Ryan Lee, Benjamin Younes, Alexander Pletta, John Harrington et al. | [Abstract](https://arxiv.org/abs/2311.01697) · [PDF](https://arxiv.org/pdf/2311.01697) |
 | 2023-10-07 | Combining Sampling- and Gradient-based Planning for Contact-rich Manipulation | Filippo Rozzi, Loris Roveda, Kevin Haninger | [Abstract](https://arxiv.org/abs/2310.04822) · [PDF](https://arxiv.org/pdf/2310.04822) |
-| 2023-09-26 | Kinematic Modularity of Elementary Dynamic Actions | Moses C. Nah, Johannes Lachner, Federico Tessari, Neville Hogan | [Abstract](https://arxiv.org/abs/2309.15271) · [PDF](https://arxiv.org/pdf/2309.15271) |
 
 ---
 

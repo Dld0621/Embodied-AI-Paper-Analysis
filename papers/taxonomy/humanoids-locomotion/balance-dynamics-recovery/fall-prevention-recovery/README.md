@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Balance%2C%20Dynamics%20%26%20Recovery&specialty=Fall%20Prevention%20%26%20Recovery#research-workbench)
 
-> 4 conference papers · 13 recent arXiv papers
+> 5 conference papers · 14 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,19 +14,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (4)
+## Conference papers (5)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Mixture-of-Experts Policy for Smooth and Stable Multi-Posture Fall Recovery in Bipedal Robot | ICRA · Biped | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696734) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696734) |
 | 2025 | FRASA: An End-to-End Reinforcement Learning Agent for Fall Recovery and Stand Up of Humanoid Robots | ICRA · Humanoid | [Paper](https://hal.science/hal-05302582) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128664) |
 | 2025 | HiFAR: Multi-Stage Curriculum Learning for High-Dynamics Humanoid Fall Recovery | IROS · Humanoid | [Paper](https://arxiv.org/abs/2502.20061) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245953) |
 | 2022 | Humanoid Arm Motion Planning for Improved Disturbance Recovery Using Model Hierarchy Predictive Control | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra46639.2022.9811878) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811878) |
-| 2022 | Reactive Stepping for Humanoid Robots using Reinforcement Learning: Application to Standing Push Recovery on the Exoskeleton Atalante | IROS · Humanoid | [Paper](https://hal.science/hal-04155863) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982234) |
+| 2022 | Reactive Stepping for Humanoid Robots using Reinforcement Learning: Application to Standing Push Recovery on the Exoskeleton Atalante | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2203.01148) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982234) |
 
-## Recent arXiv papers (13)
+## Recent arXiv papers (14)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-30 | LocoWM: High-Precision Locomotion through World-Model-Guided Residual Adaptation | Zijie Zhao, Shengqian Chen, Xiaoxu Wang, Han Jiang et al. | [Abstract](https://arxiv.org/abs/2609.39179) · [PDF](https://arxiv.org/pdf/2609.39179) |
 | 2026-09-15 | Fingers as Legs: Learning Self-Supported Locomotion and Manipulation with an Anthropomorphic Hand | Amirhossein Kazemipour, Hehui Zheng, Robert Katzschmann | [Abstract](https://arxiv.org/abs/2609.17172) · [PDF](https://arxiv.org/pdf/2609.17172) |
 | 2026-06-12 | Robust Fall Recovery for Armless Bipedal-Wheeled Robots Via Force-Guided Learning | Haidong Hou, Zhangguo Yu, Tao Han, Hengbo Qi et al. | [Abstract](https://arxiv.org/abs/2606.14270) · [PDF](https://arxiv.org/pdf/2606.14270) |
 | 2026-06-11 | Stubborn: A Streamlined and Unified Reinforcement Learning Framework for Robust Motion Tracking and Fall Recovery for Humanoids | Xiao Ren, Yuhui Yang, Zongbiao Weng, Zhijie Liu et al. | [Abstract](https://arxiv.org/abs/2606.12814) · [PDF](https://arxiv.org/pdf/2606.12814) |

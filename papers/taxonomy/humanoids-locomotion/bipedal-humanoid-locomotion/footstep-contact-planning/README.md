@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Footstep%20%26%20Contact%20Planning#research-workbench)
 
-> 5 conference papers · 9 recent arXiv papers
+> 5 conference papers · 10 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Real-time Model Predictive Control with Zonotope-Based Neural Networks for Bipedal Social Navigation | IROS · Biped | [Paper](https://arxiv.org/pdf/2403.16485) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801435) |
 | 2022 | Real-time Footstep Planning and Control of the Solo Quadruped Robot in 3D Environments | IROS · Quadruped | [Paper](https://www.research.ed.ac.uk/files/641319880/RisbourgEtalIROS2022Real-timeFootstepPlanning.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981539) |
 
-## Recent arXiv papers (9)
+## Recent arXiv papers (10)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-25 | Quadruped Obstacle Avoidance and Footstep Planning with Distributed Low-cost Time-of-Flight Sensors | Giammarco Caroleo, Timothée Mahamoodally, Matteo Manzardo, Jin Jin et al. | [Abstract](https://arxiv.org/abs/2609.31008) · [PDF](https://arxiv.org/pdf/2609.31008) |
 | 2026-03-03 | CASSR: Continuous A-Star Search through Reachability for real time footstep planning | Jiayi Wang, Steve Tonneau | [Abstract](https://arxiv.org/abs/2603.02989) · [PDF](https://arxiv.org/pdf/2603.02989) |
 | 2025-11-11 | Dual-MPC Footstep Planning for Robust Quadruped Locomotion | Byeong-Il Ham, Hyun-Bin Kim, Jeonguk Kang, Keun Ha Choi et al. | [Abstract](https://arxiv.org/abs/2511.07921) · [PDF](https://arxiv.org/pdf/2511.07921) |
 | 2025-02-26 | Diffusion-based Planning with Learned Viability Filters | Nicholas Ioannidis, Daniele Reda, Setareh Cohan, Michiel van de Panne | [Abstract](https://arxiv.org/abs/2502.19564) · [PDF](https://arxiv.org/pdf/2502.19564) |

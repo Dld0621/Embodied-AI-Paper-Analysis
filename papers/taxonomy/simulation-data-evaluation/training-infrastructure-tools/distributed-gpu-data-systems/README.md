@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Training%20Infrastructure%20%26%20Tools&specialty=Distributed%2C%20GPU%20%26%20Data%20Systems#research-workbench)
 
-> 2 conference papers · 13 recent arXiv papers
+> 2 conference papers · 14 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,12 +21,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | A Convex Formulation of Material Points and Rigid Bodies with GPU-Accelerated Async-Coupling for Interactive Simulation | IROS · Simulation | [Paper](https://arxiv.org/abs/2503.05046) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245821) |
 | 2025 | OceanSim: A GPU-Accelerated Underwater Robot Perception Simulation Framework | IROS · Simulation | [Paper](https://arxiv.org/abs/2503.01074) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246878) |
 
-## Recent arXiv papers (13)
+## Recent arXiv papers (14)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
 | 2026-07-28 | SGTP: Sampling-based Game-Theoretic Planning for Real-Time Multi-Vehicle Autonomous Racing | Zhouheng Li, Fangguo Zhao, Mattia Piccinini, Baha Zarrouki et al. | [Abstract](https://arxiv.org/abs/2607.25388) · [PDF](https://arxiv.org/pdf/2607.25388) |
 | 2026-07-06 | GPUSimBench: Towards Scalable and Reliable GPU-Accelerated Simulators in Embodied AI | Huzhenyu Zhang, Shenghai Yuan, Wenrui Yan, Li Ma et al. | [Abstract](https://arxiv.org/abs/2607.13059) · [PDF](https://arxiv.org/pdf/2607.13059) |
+| 2026-07-05 | GPU-Accelerated Polygonal Signed Distance Functions for Real-Time Collision Avoidance | Taekwon Ga, Jongeun Choi | [Abstract](https://arxiv.org/abs/2607.04310) · [PDF](https://arxiv.org/pdf/2607.04310) |
 | 2026-05-31 | Crazyflow: An Accurate, GPU-Accelerated, Differentiable Drone Simulator in JAX | Martin Schuck, Marcel P. Rath, Yufei Hua, Abhishek Goudar et al. | [Abstract](https://arxiv.org/abs/2606.01478) · [PDF](https://arxiv.org/pdf/2606.01478) |
 | 2026-05-08 | SceneFactory: GPU-Accelerated Multi-Agent Driving Simulation with Physics-Based Vehicle Dynamics | Yicheng Zhu, Yang Chen, Tao Li, Zilin Bian | [Abstract](https://arxiv.org/abs/2605.08528) · [PDF](https://arxiv.org/pdf/2605.08528) |
 | 2026-04-19 | FLASH: Fast Learning via GPU-Accelerated Simulation for High-Fidelity Deformable Manipulation in Minutes | Siyuan Luo, Bingyang Zhou, Chong Zhang, Xin Liu et al. | [Abstract](https://arxiv.org/abs/2604.17513) · [PDF](https://arxiv.org/pdf/2604.17513) |

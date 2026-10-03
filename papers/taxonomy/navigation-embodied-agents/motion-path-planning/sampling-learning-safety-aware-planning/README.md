@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Motion%20%26%20Path%20Planning&specialty=Sampling%2C%20Learning%20%26%20Safety-aware%20Planning#research-workbench)
 
-> 19 conference papers · 235 recent arXiv papers
+> 20 conference papers · 241 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,17 +14,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (19)
+## Conference papers (20)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Gaussian Process Implicit Surfaces as Control Barrier Functions for Safe Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2510.12919) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695796) |
 | 2025 | A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.09868) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128723) |
-| 2025 | Certificated Actor-Critic: Hierarchical Reinforcement Learning with Control Barrier Functions for Safe Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2501.17424) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127225) |
+| 2025 | Certificated Actor-Critic: Hierarchical Reinforcement Learning with Control Barrier Functions for Safe Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2501.17424) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127225) |
 | 2025 | Safe Quadrotor Navigation Using Composite Control Barrier Functions | ICRA · Navigation | [Paper](https://arxiv.org/abs/2502.04101) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127368) |
 | 2025 | Soft Actor-Critic-Based Control Barrier Adaptation for Robust Autonomous Navigation in Unknown Environments | ICRA · Navigation | [Paper](https://arxiv.org/abs/2503.08479) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128470) |
 | 2025 | Online Hierarchical Policy Learning using Physics Priors for Robot Navigation in Unknown Environments | IROS · Navigation | [Paper](https://arxiv.org/abs/2510.01519) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247318) |
 | 2025 | Safety-Guided RRT*: Hyperoctant Sampling-based Path Planning with SDF-based Robotic Representation | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS60139.2025.11246907) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246907) |
-| 2024 | A CBF-Adaptive Control Architecture for Visual Navigation for UAV in the Presence of Uncertainties | ICRA · Navigation | [Paper](https://arxiv.org/abs/2402.10729) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611530) |
+| 2024 | A CBF-Adaptive Control Architecture for Visual Navigation for UAV in the Presence of Uncertainties | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2402.10729) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611530) |
 | 2024 | Gaussian Process-based Traversability Analysis for Terrain Mapless Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2403.19010) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610106) |
 | 2024 | NNgTL: Neural Network Guided Optimal Temporal Logic Task Planning for Mobile Robots | ICRA · Mobile Robot | [Paper](https://arxiv.org/abs/2309.14050) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611699) |
 | 2024 | RBI-RRT*: Efficient Sampling-based Path Planning for High-dimensional State Space | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610975) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610975) |
@@ -38,10 +39,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Learning-Guided Exploration for Efficient Sampling-Based Motion Planning in High Dimensions | ICRA · Exploration | [Paper](https://doi.org/10.1109/icra46639.2022.9812184) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812184) |
 | 2022 | Elevation State-Space: Surfel-Based Navigation in Uneven Environments for Mobile Robots | IROS · Navigation | [Paper](https://arxiv.org/pdf/2208.08202) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981647) |
 
-## Recent arXiv papers (235)
+## Recent arXiv papers (241)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-29 | Distilling Privileged Control Barrier Functions into RGB-Only Safety Filters for Dynamic Visual Navigation | Seungyeon Yoo, Gawon Lee, Seungwoo Jung, Inkyu Jang et al. | [Abstract](https://arxiv.org/abs/2609.36520) · [PDF](https://arxiv.org/pdf/2609.36520) |
+| 2026-09-29 | Adversarially Robust Geometric Safety Certificates for Nonholonomic Robots Against Maneuvering Obstacles | Chandan Kumar Sah, Bazeela Banday, Jishnu Keshavan | [Abstract](https://arxiv.org/abs/2609.37126) · [PDF](https://arxiv.org/pdf/2609.37126) |
+| 2026-09-26 | Towards Kinematic Actionable Infeasibility Detection in Motion Planning | Aayush Rath, Lakshya Jindal, Antony Thomas | [Abstract](https://arxiv.org/abs/2609.32806) · [PDF](https://arxiv.org/pdf/2609.32806) |
+| 2026-09-24 | ReVAMP: Vector-Accelerated Motion Planning for Kinematically-Constrained Systems via Reparameterization | Shrutheesh R. Iyer, Thomas Cohn, Zachary Kingston | [Abstract](https://arxiv.org/abs/2609.30213) · [PDF](https://arxiv.org/pdf/2609.30213) |
+| 2026-09-24 | Learning-Accelerated Narrow-Phase Collision Detection via Check Ordering for Sampling-Based Motion Planning | Hao Jiang, Yinghan Wang, Jianping He, Xiaoming Duan | [Abstract](https://arxiv.org/abs/2609.30599) · [PDF](https://arxiv.org/pdf/2609.30599) |
+| 2026-09-22 | Induced Riemannian Metrics for Motion Planning with Constraints | Phone Thiha Kyaw, Thomas Cohn, Miguel Angel Rogel Garcia, Jonathan Kelly | [Abstract](https://arxiv.org/abs/2609.25695) · [PDF](https://arxiv.org/pdf/2609.25695) |
+| 2026-09-21 | SE(3) Neural Potential Fields for 6-DoF Trajectory Planning Directly from Images Without Explicit 3D Reconstruction | Jeffrey Eiyike, Masoud Ataei, Elvis Gyaase, Vikas Dhiman | [Abstract](https://arxiv.org/abs/2609.24864) · [PDF](https://arxiv.org/pdf/2609.24864) |
+| 2026-09-21 | ScaleMPA: Rethinking Scalable RRT* Acceleration With a Grid-Native Representation | Zilong Wang, Yuzhou Chen, Xinyue He, Chen Zhang et al. | [Abstract](https://arxiv.org/abs/2609.24497) · [PDF](https://arxiv.org/pdf/2609.24497) |
 | 2026-09-18 | Visual Navigation Transformer with Pose Attention | Beiming Li, Jaime Romero, Jonathan Diller, Vijay Kumar et al. | [Abstract](https://arxiv.org/abs/2609.21212) · [PDF](https://arxiv.org/pdf/2609.21212) |
 | 2026-09-17 | Resilient Motion Planning for Free-Flying Space Robots under Actuator Failures | Nicolas de Maddalena, Joris Verhagen, Jana Tumova | [Abstract](https://arxiv.org/abs/2609.20407) · [PDF](https://arxiv.org/pdf/2609.20407) |
 | 2026-09-15 | Motion planning in high dimensional spaces hybridizing RRT and HAR via position-direction decoupling | Frederic Cazals, Nelson Feyeux | [Abstract](https://arxiv.org/abs/2609.16810) · [PDF](https://arxiv.org/pdf/2609.16810) |
@@ -156,6 +165,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-06-23 | Faster Motion Planning via Restarts | Nancy Amato, Stav Ashur, Sariel Har-Peled% | [Abstract](https://arxiv.org/abs/2506.19016) · [PDF](https://arxiv.org/pdf/2506.19016) |
 | 2025-06-16 | Edge Nearest Neighbor in Sampling-Based Motion Planning | Stav Ashur, Nancy M. Amato, Sariel Har-Peled | [Abstract](https://arxiv.org/abs/2506.13753) · [PDF](https://arxiv.org/pdf/2506.13753) |
 | 2025-06-09 | Deep Equivariant Multi-Agent Control Barrier Functions | Nikolaos Bousias, Lars Lindemann, George Pappas | [Abstract](https://arxiv.org/abs/2506.07755) · [PDF](https://arxiv.org/pdf/2506.07755) |
+| 2025-06-08 | BR-MPPI: Barrier-Rate Guided MPPI for Enforcing Multiple Inequality Constraints with Learned Signed Distance Fields | Hardik Parwana, Taekyung Kim, Kehan Long, Bardh Hoxha et al. | [Abstract](https://arxiv.org/abs/2506.07325) · [PDF](https://arxiv.org/pdf/2506.07325) |
 | 2025-05-29 | Mobi-$π$: Mobilizing Your Robot Learning Policy | Jingyun Yang, Isabella Huang, Brandon Vu, Max Bajracharya et al. | [Abstract](https://arxiv.org/abs/2505.23692) · [PDF](https://arxiv.org/pdf/2505.23692) |
 | 2025-05-22 | Navigating Polytopes with Safety: A Control Barrier Function Approach | Tamas G. Molnar | [Abstract](https://arxiv.org/abs/2505.17270) · [PDF](https://arxiv.org/pdf/2505.17270) |
 | 2025-05-17 | Online Synthesis of Control Barrier Functions with Local Occupancy Grid Maps for Safe Navigation in Unknown Environments | Yuepeng Zhang, Yu Chen, Yuda Li, Shaoyuan Li et al. | [Abstract](https://arxiv.org/abs/2505.11941) · [PDF](https://arxiv.org/pdf/2505.11941) |
@@ -274,9 +284,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-16 | Collision Cone Control Barrier Functions: Experimental Validation on UGVs for Kinematic Obstacle Avoidance | Bhavya Giri Goswami, Manan Tayal, Karthik Rajgopal, Pushpak Jagtap et al. | [Abstract](https://arxiv.org/abs/2310.10839) · [PDF](https://arxiv.org/pdf/2310.10839) |
 | 2023-10-09 | CAT-RRT: Motion Planning that Admits Contact One Link at a Time | Nataliya Nechyporenko, Caleb Escobedo, Shreyas Kadekodi, Alessandro Roncone | [Abstract](https://arxiv.org/abs/2310.06210) · [PDF](https://arxiv.org/pdf/2310.06210) |
 | 2023-10-05 | Roadmaps with Gaps over Controllers: Achieving Efficiency in Planning under Dynamics | Aravind Sivaramakrishnan, Sumanth Tangirala, Edgar Granados, Noah R. Carver et al. | [Abstract](https://arxiv.org/abs/2310.03239) · [PDF](https://arxiv.org/pdf/2310.03239) |
-| 2023-09-26 | Zero-Shot Constrained Motion Planning Transformers Using Learned Sampling Dictionaries | Jacob J. Johnson, Ahmed H. Qureshi, Michael C. Yip | [Abstract](https://arxiv.org/abs/2309.15272) · [PDF](https://arxiv.org/pdf/2309.15272) |
-| 2023-09-25 | Motions in Microseconds via Vectorized Sampling-Based Planning | Wil Thomason, Zachary Kingston, Lydia E. Kavraki | [Abstract](https://arxiv.org/abs/2309.14545) · [PDF](https://arxiv.org/pdf/2309.14545) |
-| 2023-09-22 | Sampling-Based Motion Planning: A Comparative Review | Andreas Orthey, Constantinos Chamzas, Lydia E. Kavraki | [Abstract](https://arxiv.org/abs/2309.13119) · [PDF](https://arxiv.org/pdf/2309.13119) |
 
 ---
 

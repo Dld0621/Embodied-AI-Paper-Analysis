@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Field%2C%20Aerial%20%26%20Marine%20Robotics&specialty=Marine%20%26%20Underwater%20Autonomy#research-workbench)
 
-> 2 conference papers · 43 recent arXiv papers
+> 2 conference papers · 44 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,10 +21,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Towards Centimeter-Scale Underwater Mobile Robots: An Architecture for Capable µAUVs | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610474) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610474) |
 | 2023 | Weakly Supervised Caveline Detection for AUV Navigation Inside Underwater Caves | IROS · Navigation | [Paper](https://arxiv.org/pdf/2303.03670) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342435) |
 
-## Recent arXiv papers (43)
+## Recent arXiv papers (44)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-23 | Compressed delayed-information projection for six-degree-of-freedom underwater vehicle navigation under delayed acoustic positioning | Shuyue Li, Miguel López-Benítez, Eng Gee Lim, Fei Ma et al. | [Abstract](https://arxiv.org/abs/2609.27439) · [PDF](https://arxiv.org/pdf/2609.27439) |
+| 2026-09-19 | AquaCap: A Training-Free Underwater Embodied Agent with Code-as-Policy | Xiaoshi Li, Yule Xu, Chunghiu Kong, Yizhou Zhou et al. | [Abstract](https://arxiv.org/abs/2609.23133) · [PDF](https://arxiv.org/pdf/2609.23133) |
 | 2026-09-03 | AquaBEV: Monocular Underwater BEV Occupancy with 3D Sonar Supervision | Trung Tien Dong, Shengji Jin, Chen Chen, Yi Sheng et al. | [Abstract](https://arxiv.org/abs/2609.04411) · [PDF](https://arxiv.org/pdf/2609.04411) |
 | 2026-09-02 | Advancing Accessible Underwater Robotics: The Mini-Girona I-AUV at RAMI 2025 | Taqi Hamoda, Bilal Ahmed, Deborah Ele-Ojo, Thi Tran Ha Bao et al. | [Abstract](https://arxiv.org/abs/2609.02605) · [PDF](https://arxiv.org/pdf/2609.02605) |
 | 2026-08-29 | Calibration and Comparative Analysis of Forward-Looking Sonar and 3D Sonar for Enhanced Underwater Object Recognition | Aditya Penumarti, Khanh Dong, Zi-Hao Zhang, Yongkyoon Park et al. | [Abstract](https://arxiv.org/abs/2608.29433) · [PDF](https://arxiv.org/pdf/2608.29433) |
@@ -67,7 +69,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-08 | Gliding in extreme waters: Dynamic Modeling and Nonlinear Control of an Agile Underwater Glider | Hanzhi Yang, Nina Mahmoudian | [Abstract](https://arxiv.org/abs/2402.06055) · [PDF](https://arxiv.org/pdf/2402.06055) |
 | 2024-01-09 | Autonomous robotic re-alignment for face-to-face underwater human-robot interaction | Demetrious T. Kutzke, Ashwin Wariar, Junaed Sattar | [Abstract](https://arxiv.org/abs/2401.04320) · [PDF](https://arxiv.org/pdf/2401.04320) |
 | 2023-10-22 | FGO-ILNS: Tightly Coupled Multi-Sensor Integrated Navigation System Based on Factor Graph Optimization for Autonomous Underwater Vehicle | Jiangbo Song, Wanqing Li, Ruofan Liu, Xiangwei Zhu | [Abstract](https://arxiv.org/abs/2310.14163) · [PDF](https://arxiv.org/pdf/2310.14163) |
-| 2023-09-22 | UWA360CAM: A 360$^{\circ}$ 24/7 Real-Time Streaming Camera System for Underwater Applications | Quan-Dung Pham, Yipeng Zhu, Tan-Sang Ha, K. H. Long Nguyen et al. | [Abstract](https://arxiv.org/abs/2309.12668) · [PDF](https://arxiv.org/pdf/2309.12668) |
 
 ---
 

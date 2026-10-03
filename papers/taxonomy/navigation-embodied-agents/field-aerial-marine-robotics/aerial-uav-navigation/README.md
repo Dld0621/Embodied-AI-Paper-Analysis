@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Field%2C%20Aerial%20%26%20Marine%20Robotics&specialty=Aerial%20%26%20UAV%20Navigation#research-workbench)
 
-> 2 conference papers · 105 recent arXiv papers
+> 2 conference papers · 107 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,13 +18,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2024 | Drones Guiding Drones: Cooperative Navigation of a Less-Equipped Micro Aerial Vehicle in Cluttered Environments | IROS · Navigation | [Paper](https://arxiv.org/abs/2312.09786) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802770) |
+| 2024 | Drones Guiding Drones: Cooperative Navigation of a Less-Equipped Micro Aerial Vehicle in Cluttered Environments | IROS · Navigation | [Paper](https://arxiv.org/pdf/2312.09786) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802770) |
 | 2022 | UAV-miniUGV Hybrid System for Hidden Area Exploration and Manipulation | IROS · Exploration | [Paper](https://arxiv.org/pdf/2209.11704) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981957) |
 
-## Recent arXiv papers (105)
+## Recent arXiv papers (107)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-29 | Drone Soccer: Learning to Manipulate with Multicopter Downwash | Neelay Joglekar, Bavin Saravanan, Yutong Wang, Varun Kandiyappan et al. | [Abstract](https://arxiv.org/abs/2609.38588) · [PDF](https://arxiv.org/pdf/2609.38588) |
+| 2026-09-20 | FlockDiffusion: Assignment-Conditioned Diffusion for Multi-Drone Task Allocation and Completion | Iana Zhura, Satenik Akopyan, Roohan Ahmed Khan, Miguel Altamirano Cabrera et al. | [Abstract](https://arxiv.org/abs/2609.23745) · [PDF](https://arxiv.org/pdf/2609.23745) |
 | 2026-09-17 | RTK-Vision PPO for Autonomous Micro UAV Recovery on an Airborne Carrier | Aashish Sahu, R Prasanth Kumar | [Abstract](https://arxiv.org/abs/2609.20629) · [PDF](https://arxiv.org/pdf/2609.20629) |
 | 2026-09-17 | ASGARD: Action-Space Guard for UAV Resilience via Reinforcement Learning | Mohsen Salehi, Karthik Pattabiraman | [Abstract](https://arxiv.org/abs/2609.20982) · [PDF](https://arxiv.org/pdf/2609.20982) |
 | 2026-09-17 | AeRove: A Compact Bimodal Aerial-Terrestrial Drone with Rapid Bistable Reconfiguration for Close-Range Pipeline Inspection | Caleb Polillio, Petras Swissler | [Abstract](https://arxiv.org/abs/2609.20965) · [PDF](https://arxiv.org/pdf/2609.20965) |

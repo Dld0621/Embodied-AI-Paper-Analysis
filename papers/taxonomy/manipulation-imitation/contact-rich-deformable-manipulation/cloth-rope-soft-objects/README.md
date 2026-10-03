@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Contact-rich%20%26%20Deformable%20Manipulation&specialty=Cloth%2C%20Rope%20%26%20Soft%20Objects#research-workbench)
 
-> 35 conference papers · 124 recent arXiv papers
+> 39 conference papers · 127 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (35)
+## Conference papers (39)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Adaptive Curvature-Aware Routing for Stiff Cable Control via dual manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696283) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696283) |
+| 2026 | Dual Quaternion based Compliant Movement Primitives for Deformable Object Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695696) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695696) |
+| 2026 | TacUMI: A Multi-Modal Universal Manipulation Interface for Contact-Rich Tasks | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2601.14550) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695727) |
+| 2026 | ViTac-Tracing: Visual-Tactile Imitation Learning of Deformable Object Tracing | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2603.18784) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695932) |
 | 2025 | Geometry-aware RL for Manipulation of Varying Shapes and Deformable Objects | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2502.07005) · [Index](https://dblp.org/rec/conf/iclr/HoangLBVN25) |
 | 2025 | Learning Efficient Robotic Garment Manipulation with Standardization | ICML · Manipulation | [Paper](https://arxiv.org/abs/2506.22769) · [Index](https://dblp.org/rec/journals/corr/abs-2506-22769) |
 | 2025 | Deformpam: Data-Efficient Learning for Long-Horizon Deformable Object Manipulation Via Preference-Based Action Alignment | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2410.11584) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127926) |
@@ -50,17 +54,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Rapid Grasping of Fabric Using Bionic Soft Grippers with Elastic Instability | IROS · Grasp | [Paper](https://arxiv.org/pdf/2301.09688) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341428) |
 | 2023 | SoftGPT: Learn Goal-Oriented Soft Object Manipulation Skills by Generative Pre-Trained Heterogeneous Graph Transformer | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2306.12677) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341846) |
 | 2022 | ToolFlowNet: Robotic Manipulation with Tools via Predicting Tool Flow from Point Clouds | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2211.09006) · [Index](https://dblp.org/rec/conf/corl/SeitaWSLEH22) |
-| 2022 | DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object Manipulations with Tools | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2203.17275) · [Index](https://dblp.org/rec/journals/corr/abs-2203-17275) |
+| 2022 | DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object Manipulations with Tools | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2203.17275) · [Index](https://dblp.org/rec/conf/iclr/LinHLTHG22) |
 | 2022 | Reactive Motion Planning for Rope Manipulation and Collision Avoidance using Aerial Robots | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981658) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981658) |
 | 2022 | Mesh-based Dynamics with Occlusion Reasoning for Cloth Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/pdf/2206.02881) · [Index](https://dblp.org/rec/journals/corr/abs-2206-02881) |
 
-## Recent arXiv papers (124)
+## Recent arXiv papers (127)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-30 | Passive Stiffness Shaping in Cable-Suspended Aerial Manipulation via Movable Compliant Anchors | Antonio Franchi, Amr Afifi | [Abstract](https://arxiv.org/abs/2609.40102) · [PDF](https://arxiv.org/pdf/2609.40102) |
+| 2026-09-30 | Making Waves: A Membrane-Coupled Delta Array for Manipulating Objects Below the Actuator Spacing | Bailey Dacre, Andrés Faíña, Oliver Kroemer, Zeynep Temel | [Abstract](https://arxiv.org/abs/2609.39652) · [PDF](https://arxiv.org/pdf/2609.39652) |
+| 2026-09-23 | PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation | Hantao Ye, Ross Worobel, Zhuoli Xie, Mingen Li et al. | [Abstract](https://arxiv.org/abs/2609.28393) · [PDF](https://arxiv.org/pdf/2609.28393) |
+| 2026-09-20 | RopeFormer: Cross-Trial Adaptation from Interaction History for Dynamic Rope Manipulation | Menglin Wu, Kaixiang Yao, Shangbo Luan, Masayoshi Tomizuka et al. | [Abstract](https://arxiv.org/abs/2609.23432) · [PDF](https://arxiv.org/pdf/2609.23432) |
 | 2026-09-17 | RotateIt! Fast and Reliable Single-Arm Garment Unfolding via Online-Adaptive Dynamic Rotation | Zeqing Zhang, Zuokun Xie, Ao Fang, Bin Dai et al. | [Abstract](https://arxiv.org/abs/2609.19817) · [PDF](https://arxiv.org/pdf/2609.19817) |
 | 2026-09-15 | Differentiable Mesh State Estimation via Factor Graph Inference for Deformable Object Reconstruction | Lidia Al-Zogbi, Fangjie Li, Samuel Tobin, James Ferguson et al. | [Abstract](https://arxiv.org/abs/2609.16686) · [PDF](https://arxiv.org/pdf/2609.16686) |
-| 2026-09-09 | FolDeX: A Physical-World Benchmark for Long-Horizon Robotic Manipulation of Deformable Objects | Chenhuan Liu, Yi Xu, Feng Wu, Hanyang Wang et al. | [Abstract](https://arxiv.org/abs/2609.10243) · [PDF](https://arxiv.org/pdf/2609.10243) |
+| 2026-09-09 | RoboFolDeX: A Physical-World Benchmark for Long-Horizon Robotic Manipulation of Deformable Objects | Chenhuan Liu, Yi Xu, Feng Wu, Hanyang Wang et al. | [Abstract](https://arxiv.org/abs/2609.10243) · [PDF](https://arxiv.org/pdf/2609.10243) |
 | 2026-09-09 | Deformable Object Manipulation under Partial Observability via Real-Time Full-Shape Estimation | Kosar Behnia, Ville Kyrki, Gokhan Alcan | [Abstract](https://arxiv.org/abs/2609.10308) · [PDF](https://arxiv.org/pdf/2609.10308) |
 | 2026-09-07 | PhysReal: Learning Real-World Deformable Object Physics via Hybrid Constitutive Modeling | Yinan Deng, Jianqiao Song, Yisi Zhang, Yuhan Wang et al. | [Abstract](https://arxiv.org/abs/2609.07532) · [PDF](https://arxiv.org/pdf/2609.07532) |
 | 2026-08-27 | MeshPriorDiT: Hierarchical Modeling for Action-Conditioned Cloth Dynamics | Zihang Wang, Jianming Hu, Shang Su, Hao Huang et al. | [Abstract](https://arxiv.org/abs/2608.26766) · [PDF](https://arxiv.org/pdf/2608.26766) |
@@ -181,7 +189,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-05 | Make a Donut: Hierarchical EMD-Space Planning for Zero-Shot Deformable Manipulation with Tools | Yang You, Bokui Shen, Congyue Deng, Haoran Geng et al. | [Abstract](https://arxiv.org/abs/2311.02787) · [PDF](https://arxiv.org/pdf/2311.02787) |
 | 2023-10-25 | The Teenager's Problem: Efficient Garment Decluttering as Probabilistic Set Cover | Aviv Adler, Ayah Ahmad, Yulei Qiu, Shengyin Wang et al. | [Abstract](https://arxiv.org/abs/2310.16951) · [PDF](https://arxiv.org/pdf/2310.16951) |
 | 2023-10-16 | Learning visual-based deformable object rearrangement with local graph neural networks | Yuhong Deng, Xueqian Wang, Lipeng chen | [Abstract](https://arxiv.org/abs/2310.10307) · [PDF](https://arxiv.org/pdf/2310.10307) |
-| 2023-09-26 | Learning Multimodal Attention for Manipulating Deformable Objects with Changing States | Namiko Saito, Mayu Tatsumi, Ayuna Kubo, Kanata Suzuki et al. | [Abstract](https://arxiv.org/abs/2309.14837) · [PDF](https://arxiv.org/pdf/2309.14837) |
 
 ---
 

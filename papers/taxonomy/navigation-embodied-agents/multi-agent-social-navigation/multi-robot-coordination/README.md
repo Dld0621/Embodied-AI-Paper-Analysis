@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Multi-agent%20%26%20Social%20Navigation&specialty=Multi-robot%20Coordination#research-workbench)
 
-> 55 conference papers · 254 recent arXiv papers
+> 57 conference papers · 254 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,12 +14,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (55)
+## Conference papers (57)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | An Efficient NSGA-II-Based Algorithm for Multi-Robot Coverage Path Planning | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128792) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128792) |
-| 2025 | Constrained Nonlinear Kaczmarz Projection on Intersections of Manifolds for Coordinated Multi-Robot Mobile Manipulation | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/abs/2410.21630) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127991) |
+| 2026 | A Multimodal Stochastic Planning Approach for Navigation and Multi-Robot Coordination | ICRA · Navigation | [Paper](https://arxiv.org/abs/2509.19168) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695728) |
+| 2026 | Energy-Aware Informative Path Planning for Heterogeneous Multi-Robot Systems | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696344) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696344) |
+| 2025 | An Efficient NSGA-II-Based Algorithm for Multi-Robot Coverage Path Planning | ICRA · Path Planning | [Paper](https://hal.science/hal-04983808v1/document) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128792) |
+| 2025 | Constrained Nonlinear Kaczmarz Projection on Intersections of Manifolds for Coordinated Multi-Robot Mobile Manipulation | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2410.21630) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127991) |
 | 2025 | Coordinated Multi-Robot Navigation with Formation Adaptation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2404.01618) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128457) |
 | 2025 | Escaping Local Minima: Hybrid Artificial Potential Field with Wall-Follower for Decentralized Multi-Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.10332) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128765) |
 | 2025 | Hypergraph-Based Coordinated Task Allocation and Socially-Aware Navigation for Multi-Robot Systems | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.11561) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128092) |
@@ -78,6 +80,10 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-28 | Denoising Multi-Robot Trajectories | Yuhao Zhang, Keisuke Okumura, Ajay Shankar, Amanda Prorok | [Abstract](https://arxiv.org/abs/2609.35651) · [PDF](https://arxiv.org/pdf/2609.35651) |
+| 2026-09-25 | MR. POP: Multi-Robot Parallel Optimizing Planner for Almost-Surely Asymptotically Optimal Planning | Chih H. Huang, Roy Xing, Brian Plancher, Zachary Kingston | [Abstract](https://arxiv.org/abs/2609.30644) · [PDF](https://arxiv.org/pdf/2609.30644) |
+| 2026-09-23 | CoRelNav: Collaborative Relational Navigation for Multi-Robot Spatially Constrained Semantic Navigation | Jinyu He, Zihao Mao, Haonan Jin, Mengyin Fu et al. | [Abstract](https://arxiv.org/abs/2609.27720) · [PDF](https://arxiv.org/pdf/2609.27720) |
+| 2026-09-19 | Decentralized Multi-Robot Exploration with Probabilistic Peer Intent and Multi-hop Plan Propagation | Saurbh Singh Jamwal, Nived Chebrolu, Shivaram Kalyanakrishnan | [Abstract](https://arxiv.org/abs/2609.22726) · [PDF](https://arxiv.org/pdf/2609.22726) |
 | 2026-09-16 | TRACER: Adaptive Multi-Robot Social Navigation via Joint Human-Response Prediction and Interaction-Aware Replanning | Lan Hu, Minghui Liwang, Wenbo Zhu, Xinlei Yi et al. | [Abstract](https://arxiv.org/abs/2609.18776) · [PDF](https://arxiv.org/pdf/2609.18776) |
 | 2026-09-16 | Asymptotically Optimal Multi-Robot Task and Motion Planning | Thi Thuy Ngan Duong, Cheuk Tung Shadow Yiu, Rahul Shome, Yoonchang Sung | [Abstract](https://arxiv.org/abs/2609.18813) · [PDF](https://arxiv.org/pdf/2609.18813) |
 | 2026-09-15 | Exact Fusion and Coordinated Exploration in Multi-Robot Active Inference | Peng Wu, Mohsen Imani, Amidu Kamara, Md Tamzeed Islam et al. | [Abstract](https://arxiv.org/abs/2609.17384) · [PDF](https://arxiv.org/pdf/2609.17384) |
@@ -328,10 +334,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-05 | A Survey of Multi-Robot Motion Planning | Hoang-Dung Bui | [Abstract](https://arxiv.org/abs/2310.08599) · [PDF](https://arxiv.org/pdf/2310.08599) |
 | 2023-10-03 | Multi-Robot Task Planning to Secure Human Group Progress | Roland Godet, Charles Lesire, Arthur Bit-Monnot | [Abstract](https://arxiv.org/abs/2310.07731) · [PDF](https://arxiv.org/pdf/2310.07731) |
 | 2023-10-03 | A Distributed Multi-Robot Framework for Exploration, Information Acquisition and Consensus | Aalok Patwardhan, Andrew J. Davison | [Abstract](https://arxiv.org/abs/2310.01930) · [PDF](https://arxiv.org/pdf/2310.01930) |
-| 2023-09-29 | DREAM: Decentralized Reinforcement Learning for Exploration and Efficient Energy Management in Multi-Robot Systems | Dipam Patel, Phu Pham, Kshitij Tiwari, Aniket Bera | [Abstract](https://arxiv.org/abs/2309.17433) · [PDF](https://arxiv.org/pdf/2309.17433) |
-| 2023-09-28 | db-CBS: Discontinuity-Bounded Conflict-Based Search for Multi-Robot Kinodynamic Motion Planning | Akmaral Moldagalieva, Joaquim Ortiz-Haro, Wolfgang Hönig | [Abstract](https://arxiv.org/abs/2309.16445) · [PDF](https://arxiv.org/pdf/2309.16445) |
-| 2023-09-26 | Multi-Robot Cooperative Socially-Aware Navigation Using Multi-Agent Reinforcement Learning | Weizheng Wang, Le Mao, Ruiqi Wang, Byung-Cheol Min | [Abstract](https://arxiv.org/abs/2309.15234) · [PDF](https://arxiv.org/pdf/2309.15234) |
-| 2023-09-23 | Communication-Constrained Multi-Robot Exploration with Intermittent Rendezvous | Alysson Ribeiro da Silva, Luiz Chaimowicz, Thales Costa Silva, Ani Hsieh | [Abstract](https://arxiv.org/abs/2309.13494) · [PDF](https://arxiv.org/pdf/2309.13494) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Bimanual%20Coordination&specialty=Dual-arm%20Planning%20%26%20Control#research-workbench)
 
-> 0 conference papers · 1 recent arXiv papers
+> 1 conference papers · 1 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,9 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (0)
+## Conference papers (1)
 
-No conference papers currently map to this specialty.
+| Year | Paper | Venue / topic | Online links |
+|---:|---|---|---|
+| 2026 | Adaptive Diffusion Constrained Sampling for Bimanual Robot Manipulation | ICRA · Bimanual | [Paper](https://arxiv.org/abs/2505.13667) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696510) |
 
 ## Recent arXiv papers (1)
 

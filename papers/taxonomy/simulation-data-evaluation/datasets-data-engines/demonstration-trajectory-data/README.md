@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engines&specialty=Demonstration%20%26%20Trajectory%20Data#research-workbench)
 
-> 0 conference papers · 6 recent arXiv papers
+> 1 conference papers · 6 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,9 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (0)
+## Conference papers (1)
 
-No conference papers currently map to this specialty.
+| Year | Paper | Venue / topic | Online links |
+|---:|---|---|---|
+| 2026 | RoboCade: Gamifying Robot Data Collection | ICRA · Data Collection | [Paper](https://arxiv.org/abs/2512.21235) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696342) |
 
 ## Recent arXiv papers (6)
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Evaluation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 22 conference papers · 128 recent arXiv papers
+> 25 conference papers · 137 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,12 +14,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (22)
+## Conference papers (25)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2026 | FlatLab: A Unified Methodology Framework and Simulation-Based Benchmark for Robotic Manipulation of Flat Objects | ICML · Manipulation benchmark | [Paper](https://openreview.net/forum?id=1dWG9PJSVp) · [Official](https://openreview.net/forum?id=1dWG9PJSVp) |
 | 2026 | RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation | ICML · Synthetic data benchmark | [Paper](https://openreview.net/forum?id=itonej9GIV) · [Official](https://openreview.net/forum?id=itonej9GIV) |
+| 2026 | COSMO-Bench: A Benchmark for Collaborative SLAM Optimization | ICRA · Benchmark | [Paper](https://arxiv.org/abs/2508.16731) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696499) |
+| 2026 | DMRP-Bench: An Integrated, Unified Multi-Robot Motion Planning Benchmark in Dynamic Environments | ICRA · Benchmark | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696793) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696793) |
+| 2026 | WideDepth: Millimeter-Accurate Benchmark for Fisheye Depth Estimation | ICRA · Benchmark | [Paper](https://arxiv.org/abs/2605.24074) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696790) |
 | 2025 | RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins | CVPR · Benchmark | [Paper](https://arxiv.org/abs/2504.13059) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02575) |
 | 2025 | RAGNet: Large-Scale Reasoning-Based Affordance Segmentation Benchmark Towards General Grasping | ICCV · Benchmark | [Paper](https://arxiv.org/pdf/2507.23734) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01114) |
 | 2025 | OoDIS: Anomaly Instance Segmentation and Detection Benchmark | ICRA · Benchmark | [Paper](https://arxiv.org/abs/2406.11835) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128111) |
@@ -41,16 +44,27 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2201.09863) · [Index](https://dblp.org/rec/conf/nips/BhatiaJTXM21) |
 | 2022 | VLMbench: A Compositional Benchmark for Vision-and-Language Manipulation | NeurIPS · Language manipulation benchmark | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/04543a88eae2683133c1acbef5a6bf77-Abstract-Datasets_and_Benchmarks.html) · [Official](https://proceedings.neurips.cc/paper_files/paper/2022/hash/04543a88eae2683133c1acbef5a6bf77-Abstract-Datasets_and_Benchmarks.html) |
 
-## Recent arXiv papers (128)
+## Recent arXiv papers (137)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-30 | Does Continual Imitation Learning Remain Grounded? A Language-Perturbed Benchmark for Robotic Task Retention | Siddeshwar Raghavan, Ziqin Yuan, Fengqing Zhu, Byung-Cheol Min | [Abstract](https://arxiv.org/abs/2610.00542) · [PDF](https://arxiv.org/pdf/2610.00542) |
+| 2026-09-29 | When to Adapt: Multi-Signal Domain Shift Detection for Efficient Training-Free Adaptation in Open-Vocabulary Segmentation | Michele Antonazzi, Alejandra C. Hernandez, José Araujo, Olov Andersson et al. | [Abstract](https://arxiv.org/abs/2609.37602) · [PDF](https://arxiv.org/pdf/2609.37602) |
+| 2026-09-29 | TrafficSignBench: Rule-Centric Closed-Loop Evaluation of Traffic-Sign Compliance in Autonomous Driving | Victoria Smirnova, Viktoriia Zinkovich, Gregorii Bukhtuev, Artem Belyaev et al. | [Abstract](https://arxiv.org/abs/2609.38463) · [PDF](https://arxiv.org/pdf/2609.38463) |
+| 2026-09-29 | RoboChrono: A Real Robot Benchmark for Streaming Task Understanding | Yuzhou Wu, Longteng Fan, Zimeng Li, Yu Wanchan et al. | [Abstract](https://arxiv.org/abs/2609.36605) · [PDF](https://arxiv.org/pdf/2609.36605) |
+| 2026-09-29 | ExceptionDrive: A Planning-Oriented Counterfactual Corner-Case Benchmark for Autonomous Driving | Ziyi Luo, Zhe Sun, Yehao Lu, Lei Zhou et al. | [Abstract](https://arxiv.org/abs/2609.37871) · [PDF](https://arxiv.org/pdf/2609.37871) |
+| 2026-09-24 | Beyond Spatial Benchmarks: From Spatial Reasoning to Navigation | Xun Huang, Shijia Zhao, Rongsheng Qu, Jiayuan Li et al. | [Abstract](https://arxiv.org/abs/2609.29934) · [PDF](https://arxiv.org/pdf/2609.29934) |
+| 2026-09-22 | MOLA LiDAR-Inertial Odometry (MOLA-LIO) on the COMFORT Localization Benchmark | Jose Luis Blanco-Claraco | [Abstract](https://arxiv.org/abs/2609.25813) · [PDF](https://arxiv.org/pdf/2609.25813) |
+| 2026-09-22 | MatcherCompass: A Deployment-Aware Benchmark to Guide Image Matcher Selection in the Wild | Hyunwoo Kim, Giseop Kim | [Abstract](https://arxiv.org/abs/2609.25688) · [PDF](https://arxiv.org/pdf/2609.25688) |
+| 2026-09-21 | Ask Before It Tells: Benchmark-to-Robot Body-Cue Transfer for a Question-First Bedside Robot | Dongsik Yoon | [Abstract](https://arxiv.org/abs/2609.24099) · [PDF](https://arxiv.org/pdf/2609.24099) |
 | 2026-09-16 | Beyond Pixel Similarity: Task-Aware Evaluation of GAN-Based Synthetic Sonar Data for Robotic Perception | Hannan Ejaz Keen, Muhammad Moazam Fraz, Karsten Berns | [Abstract](https://arxiv.org/abs/2609.18100) · [PDF](https://arxiv.org/pdf/2609.18100) |
 | 2026-09-15 | RoboVAD: A Large Cross-Domain Evaluation Benchmark for Anomaly Detection in Robotic Arm Manipulation Videos | Alexandru-Bogdan Dura, Sebastian Balmus, Radu Tudor Ionescu | [Abstract](https://arxiv.org/abs/2609.17843) · [PDF](https://arxiv.org/pdf/2609.17843) |
+| 2026-09-13 | ORDER: A Fictitious-World Benchmark for Domain-Adaptive Embodied AI | Sai Krishna Reddy Sathi, Anuj Tiwari | [Abstract](https://arxiv.org/abs/2609.22285) · [PDF](https://arxiv.org/pdf/2609.22285) |
 | 2026-09-12 | Decentralized Multi-Robot Task Allocation Under Degraded Communication: A Benchmark of Performance, Reliability, and Computation | James Lott, Vahraz Honary | [Abstract](https://arxiv.org/abs/2609.13711) · [PDF](https://arxiv.org/pdf/2609.13711) |
 | 2026-09-08 | Monkey See, Can Monkey Do? A Benchmark for Evaluating Robot Skill Learning by Observation | Weiwei Gu, Anmol Gupta, Anant Sah, Ryan Varghese et al. | [Abstract](https://arxiv.org/abs/2609.08209) · [PDF](https://arxiv.org/pdf/2609.08209) |
 | 2026-09-08 | Drive by Hindsight and Foresight: Tool-Grounded Synergistic Reasoning over Hierarchical Memory for Autonomous Driving | Baojie Chen, Zijun Jia, Jing Zhong | [Abstract](https://arxiv.org/abs/2609.08217) · [PDF](https://arxiv.org/pdf/2609.08217) |
 | 2026-09-05 | Closed-Loop Evaluation of Bird's-Eye-View Maps from Cross-View Transformers as Inputs to Behavior-Cloning Policies | Felipe Carlos dos Santos, Eric Antonelo, Gustavo Claudio Karl Couto | [Abstract](https://arxiv.org/abs/2609.05783) · [PDF](https://arxiv.org/pdf/2609.05783) |
+| 2026-08-30 | Do World Models Make Better Robots? A Survey of Evaluation Benchmarks for Predictive Embodied Intelligence | Gaytri Jena, Kapil Wanaskar, Vinija Jain, Aman Chadha et al. | [Abstract](https://arxiv.org/abs/2609.29669) · [PDF](https://arxiv.org/pdf/2609.29669) |
 | 2026-08-29 | A Degradation-Tolerance Benchmark for Camera-Only End-to-End Driving | Haohua Que, Handong Yao | [Abstract](https://arxiv.org/abs/2608.29005) · [PDF](https://arxiv.org/pdf/2608.29005) |
 | 2026-08-28 | CoCoBench: A Cooperative Coordination Benchmark for Embodied Multi-Agent Task Planning | Yang Chen, Ye-Xin Xie, Lirong Che, Danyang Peng et al. | [Abstract](https://arxiv.org/abs/2608.28266) · [PDF](https://arxiv.org/pdf/2608.28266) |
 | 2026-08-27 | Multi-Group Pipe Routing under Permanent Geometric Occupancy: Problem, Benchmark, and Classical Baselines | Deng Quan | [Abstract](https://arxiv.org/abs/2608.28697) · [PDF](https://arxiv.org/pdf/2608.28697) |
@@ -171,8 +185,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-15 | Nothing Stands Still: A Spatiotemporal Benchmark on 3D Point Cloud Registration Under Large Geometric and Temporal Change | Tao Sun, Yan Hao, Shengyu Huang, Silvio Savarese et al. | [Abstract](https://arxiv.org/abs/2311.09346) · [PDF](https://arxiv.org/pdf/2311.09346) |
 | 2023-11-05 | ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation and Re-Identification | Nicolas Gorlo, Kenneth Blomqvist, Francesco Milano, Roland Siegwart | [Abstract](https://arxiv.org/abs/2311.02734) · [PDF](https://arxiv.org/pdf/2311.02734) |
 | 2023-10-03 | Mini-BEHAVIOR: A Procedurally Generated Benchmark for Long-horizon Decision-Making in Embodied AI | Emily Jin, Jiaheng Hu, Zhuoyi Huang, Ruohan Zhang et al. | [Abstract](https://arxiv.org/abs/2310.01824) · [PDF](https://arxiv.org/pdf/2310.01824) |
-| 2023-10-02 | [Re] CLRNet: Cross Layer Refinement Network for Lane Detection | Viswesh N, Kaushal Jadhav, Avi Amalanshu, Bratin Mondal et al. | [Abstract](https://arxiv.org/abs/2310.01142) · [PDF](https://arxiv.org/pdf/2310.01142) |
-| 2023-09-30 | Exploring Benchmarks for Self-Driving Labs using Color Matching | Tobias Ginsburg, Kyle Hippe, Ryan Lewis, Doga Ozgulbas et al. | [Abstract](https://arxiv.org/abs/2310.00510) · [PDF](https://arxiv.org/pdf/2310.00510) |
 
 ---
 

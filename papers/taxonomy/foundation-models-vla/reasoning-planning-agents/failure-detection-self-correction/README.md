@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=Failure%20Detection%20%26%20Self-correction#research-workbench)
 
-> 3 conference papers · 72 recent arXiv papers
+> 7 conference papers · 80 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,20 +14,33 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (3)
+## Conference papers (7)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | As You Wish: Mission Planning with Formal Verification using LLMs in Precision Agriculture | ICRA · Llm | [Paper](https://arxiv.org/abs/2606.18519) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697380) |
+| 2026 | Do What You Say: Steering Vision-Language-Action Models via Runtime Reasoning-Action Alignment Verification | ICRA · Vision Language Action | [Paper](https://arxiv.org/abs/2510.16281) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696392) |
+| 2026 | LAD-VF: LLM-Automatic Differentiation Enables Fine-Tuning-Free Robot Planning from Formal Methods Feedback | ICRA · Llm | [Paper](https://arxiv.org/abs/2509.18384) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695863) |
+| 2026 | PerceptTwin: Semantic Scene Reconstruction for Iterative LLM Planning and Verification | ICRA · Llm | [Paper](https://arxiv.org/abs/2606.04226) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696188) |
 | 2025 | L3M+P: Lifelong Planning with Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2508.01917) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247529) |
-| 2025 | VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots | IROS · Llm | [Paper](https://arxiv.org/abs/2507.05118) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246320) |
-| 2024 | CoPAL: Corrective Planning of Robot Actions with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2310.07263) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610434) |
+| 2025 | VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots | IROS · Llm | [Paper](https://arxiv.org/pdf/2507.05118) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246320) |
+| 2024 | CoPAL: Corrective Planning of Robot Actions with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2310.07263) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610434) |
 
-## Recent arXiv papers (72)
+## Recent arXiv papers (80)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-30 | TACTIC: Temporal and Context-Aware LLM Tactical Planning for Roadside LiDAR Attacks | Yiming Gao, Shaocheng Luo | [Abstract](https://arxiv.org/abs/2609.39969) · [PDF](https://arxiv.org/pdf/2609.39969) |
+| 2026-09-30 | Looking Back to Move Forward: Temporal Verification for Generative Robot Policies | Haoxuan Wang, Wayne Wu, Yan Yan, Bolei Zhou | [Abstract](https://arxiv.org/abs/2609.39038) · [PDF](https://arxiv.org/pdf/2609.39038) |
+| 2026-09-28 | SAGE: Symbolic Action-Gating and Editing for LLM Task Planners | Trung Minh Bui, JongSul Moon, YoungOuk Kim, Quang-Ngoc Phung et al. | [Abstract](https://arxiv.org/abs/2609.34268) · [PDF](https://arxiv.org/pdf/2609.34268) |
+| 2026-09-27 | Feedback Makes Perfect: A Closed-Loop Framework for NL-to-STL Translation | Bowen Ye, Xiang Yin | [Abstract](https://arxiv.org/abs/2609.33287) · [PDF](https://arxiv.org/pdf/2609.33287) |
+| 2026-09-24 | Containing Behavioral Cascades from Manipulated Claims in LLM-Powered Multi-Robot Systems | Waleed Bin Khalid, Byung-Cheol Min | [Abstract](https://arxiv.org/abs/2609.30523) · [PDF](https://arxiv.org/pdf/2609.30523) |
+| 2026-09-21 | Toward Human-in-the-Loop Robot Failure Recovery: Bridging Communication Gaps in Human-Robot Collaboration | Promise Ekpo, Teju Vijay, Dhruv Mandalik, Tisha Jain et al. | [Abstract](https://arxiv.org/abs/2609.24055) · [PDF](https://arxiv.org/pdf/2609.24055) |
+| 2026-09-21 | From Semantic Decisions to Feasible Trajectories: Self-Evolving LLM-Guided Optimal Control for Narrow-Space Parking | Zhengbao Yao, Yuanfu Luo, Kehan Xue | [Abstract](https://arxiv.org/abs/2609.24631) · [PDF](https://arxiv.org/pdf/2609.24631) |
+| 2026-09-16 | ReliCAD: From Uncertain LLM Generation to Reliable Parametric CAD Modeling | Peng Zheng, Xintong Dong, Chuanyang Li, Jiaxin Jing et al. | [Abstract](https://arxiv.org/abs/2609.22325) · [PDF](https://arxiv.org/pdf/2609.22325) |
 | 2026-09-16 | Causal-History Test-Time Scaling for Failure Recovery in Autoregressive World-Action Models | Lin Li, Long Chen, Kwunhang, Wong et al. | [Abstract](https://arxiv.org/abs/2609.18016) · [PDF](https://arxiv.org/pdf/2609.18016) |
 | 2026-09-04 | CoLMIN: LLM-based Multi-Decision Path Negotiation for Cooperative Autonomous Driving | Zhe Huang, Zhaoxin Fan, Shuo Wang, Wenjun Wu et al. | [Abstract](https://arxiv.org/abs/2609.04807) · [PDF](https://arxiv.org/pdf/2609.04807) |
+| 2026-08-18 | Safe Multi-Robot Coordination via VLM-LLM Reasoning and Reachability Analysis | Mohamed Dwedar, Ahmad Hafez, Alexander Jesser, Amr Alanwar | [Abstract](https://arxiv.org/abs/2609.27816) · [PDF](https://arxiv.org/pdf/2609.27816) |
 | 2026-08-10 | Agentic Harnesses: LLM-Driven Verification Layers for Robot Autonomy | Rohan Bhagra, Mahantesh Halapannavar, Uddhav Bhattarai | [Abstract](https://arxiv.org/abs/2608.09857) · [PDF](https://arxiv.org/pdf/2608.09857) |
 | 2026-08-05 | Structured LLM Reasoning for Zero-Shot Human--Robot Coordination Under Hidden Goals | Dong Hae Mangalindan, Anand Gokhale, Francesco Bullo, Vaibhav Srivastava | [Abstract](https://arxiv.org/abs/2608.04309) · [PDF](https://arxiv.org/pdf/2608.04309) |
 | 2026-07-26 | Mission-Level Runtime Assurance for LLM-Assisted ISR Swarms over a Verification-Aware Fabric | Nikolaos Kekatos, Panagiotis Katsaros, Alexios Lekidis, Theodoros Nestoridis et al. | [Abstract](https://arxiv.org/abs/2607.23532) · [PDF](https://arxiv.org/pdf/2607.23532) |
@@ -41,6 +54,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-05-19 | Reason--Imagine--Act: Closed-Loop LLM Decision Making with World Models for Autonomous Driving | Zhengqi Sun, Yiwen Sun, Boxuan Liu, Tailai Chen et al. | [Abstract](https://arxiv.org/abs/2605.24004) · [PDF](https://arxiv.org/pdf/2605.24004) |
 | 2026-05-10 | LASSA Architecture-Based Autonomous Fault-Tolerant Control of Unmanned Underwater Vehicles | Hong Chen, Zixiang Tang, Yuanbao Chen, Yu Liu | [Abstract](https://arxiv.org/abs/2605.09494) · [PDF](https://arxiv.org/pdf/2605.09494) |
 | 2026-05-04 | Semantic Risk-Aware Heuristic Planning for Robotic Navigation in Dynamic Environments: An LLM-Inspired Approach | Hamza Ahmed Durrani, Rafay Suleman Durrani | [Abstract](https://arxiv.org/abs/2605.02862) · [PDF](https://arxiv.org/pdf/2605.02862) |
+| 2026-04-22 | Stochastic Barrier Certificates in the Presence of Dynamic Obstacles | Rayan Mazouz, Luca Laurenti, Morteza Lahijanian | [Abstract](https://arxiv.org/abs/2604.20208) · [PDF](https://arxiv.org/pdf/2604.20208) |
 | 2026-04-05 | Precise Robot Command Understanding Using Grammar-Constrained Large Language Models | Xinyun Huo, Raghav Gnanasambandam, Xinyao Zhang | [Abstract](https://arxiv.org/abs/2604.04233) · [PDF](https://arxiv.org/pdf/2604.04233) |
 | 2026-04-03 | Open-Loop Planning, Closed-Loop Verification: Speculative Verification for VLA | Zihua Wang, Zhitao Lin, Ruibo Li, Yu Zhang et al. | [Abstract](https://arxiv.org/abs/2604.02965) · [PDF](https://arxiv.org/pdf/2604.02965) |
 | 2026-03-30 | On-Demand Human Assistance for Task Continuation under Physical Action Failures in LLM-based Planning | Shoichi Hasegawa, Akira Taniguchi, Lotfi El Hafi, Gustavo Alfonso Garcia Ricardez et al. | [Abstract](https://arxiv.org/abs/2603.28156) · [PDF](https://arxiv.org/pdf/2603.28156) |
@@ -96,8 +110,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-01-16 | A Study on Training and Developing Large Language Models for Behavior Tree Generation | Fu Li, Xueying Wang, Bin Li, Yunlong Wu et al. | [Abstract](https://arxiv.org/abs/2401.08089) · [PDF](https://arxiv.org/pdf/2401.08089) |
 | 2024-01-08 | RePLan: Robotic Replanning with Perception and Language Models | Marta Skreta, Zihan Zhou, Jia Lin Yuan, Kourosh Darvish et al. | [Abstract](https://arxiv.org/abs/2401.04157) · [PDF](https://arxiv.org/pdf/2401.04157) |
 | 2023-10-11 | CoPAL: Corrective Planning of Robot Actions with Large Language Models | Frank Joublin, Antonello Ceravola, Pavel Smirnov, Felix Ocker et al. | [Abstract](https://arxiv.org/abs/2310.07263) · [PDF](https://arxiv.org/pdf/2310.07263) |
-| 2023-09-27 | OceanChat: Piloting Autonomous Underwater Vehicles in Natural Language | Ruochu Yang, Mengxue Hou, Junkai Wang, Fumin Zhang | [Abstract](https://arxiv.org/abs/2309.16052) · [PDF](https://arxiv.org/pdf/2309.16052) |
-| 2023-09-21 | HiCRISP: An LLM-based Hierarchical Closed-Loop Robotic Intelligent Self-Correction Planner | Chenlin Ming, Jiacheng Lin, Pangkit Fong, Han Wang et al. | [Abstract](https://arxiv.org/abs/2309.12089) · [PDF](https://arxiv.org/pdf/2309.12089) |
 
 ---
 

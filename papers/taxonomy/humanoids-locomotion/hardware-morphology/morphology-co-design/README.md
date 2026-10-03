@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Hardware%20%26%20Morphology&specialty=Morphology%20%26%20Co-design#research-workbench)
 
-> 3 conference papers · 30 recent arXiv papers
+> 3 conference papers · 33 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -22,10 +22,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | From CAD to URDF: Co-Design of a Jet-Powered Humanoid Robot Including CAD Geometry | IROS · Humanoid | [Paper](https://arxiv.org/abs/2410.07963) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802023) |
 | 2023 | SoftZoo: A Soft Robot Co-design Benchmark For Locomotion In Diverse Environments | ICLR · Locomotion | [Paper](https://arxiv.org/abs/2303.09555) · [Index](https://dblp.org/rec/conf/iclr/Wang0SXZTRG23) |
 
-## Recent arXiv papers (30)
+## Recent arXiv papers (33)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-30 | Video2SwimFish: An Automated Pipeline for Reconstructing Controllable Fish Models and Biological Locomotion from Real Fish Videos | Hangong Chen, Linfeng Cheng, Tahsin Zaman Jilan, Ian Fuller et al. | [Abstract](https://arxiv.org/abs/2609.38966) · [PDF](https://arxiv.org/pdf/2609.38966) |
+| 2026-09-25 | Co-design of trajectory and morphology for a vertical jump-climbing robot | Christopher Y. Xu, Elliot W. Hawkes | [Abstract](https://arxiv.org/abs/2609.31014) · [PDF](https://arxiv.org/pdf/2609.31014) |
+| 2026-09-23 | Omnidirectional Amphibious Locomotion via Internal Mass Actuation | Niko Weaver, Boxi Xia, Li-Yu Lo, Yuhao Huang et al. | [Abstract](https://arxiv.org/abs/2609.27358) · [PDF](https://arxiv.org/pdf/2609.27358) |
+| 2026-09-19 | Task-Oriented Co-Design and Optimization of Geared Actuators for Robotic Applications | Xuanyu Huang, Jianqiang Dong, Hang Zhao | [Abstract](https://arxiv.org/abs/2609.22795) · [PDF](https://arxiv.org/pdf/2609.22795) |
 | 2026-09-16 | RecMorph: Topology-Guided Spatial Recurrence for Generalized Morphology Control | Quanrui Rao, Yong Liu, Xueming Xiao, Yingbo Luo et al. | [Abstract](https://arxiv.org/abs/2609.18359) · [PDF](https://arxiv.org/pdf/2609.18359) |
 | 2026-09-16 | GLAMDRING: Gait Learning And Morphology co-Design via Reinforcement LearnING of CPGs | Amogh Joshi, Kaushik Roy | [Abstract](https://arxiv.org/abs/2609.19452) · [PDF](https://arxiv.org/pdf/2609.19452) |
 | 2026-09-10 | GeoTrussRover: Morphological Computation with Contact-Semantic Control Primitives | Muyuan Ma, Yi Zhang, Yang Yang, Xuanyan Zheng et al. | [Abstract](https://arxiv.org/abs/2609.11361) · [PDF](https://arxiv.org/pdf/2609.11361) |
@@ -55,7 +59,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-07-01 | AquaMILR: Mechanical intelligence simplifies control of undulatory robots in cluttered fluid environments | Tianyu Wang, Nishanth Mankame, Matthew Fernandez, Velin Kojouharov et al. | [Abstract](https://arxiv.org/abs/2407.01733) · [PDF](https://arxiv.org/pdf/2407.01733) |
 | 2024-01-24 | DittoGym: Learning to Control Soft Shape-Shifting Robots | Suning Huang, Boyuan Chen, Huazhe Xu, Vincent Sitzmann | [Abstract](https://arxiv.org/abs/2401.13231) · [PDF](https://arxiv.org/pdf/2401.13231) |
 | 2023-10-15 | Overconstrained Locomotion | Haoran Sun, Bangchao Huang, Zishang Zhang, Ronghan Xu et al. | [Abstract](https://arxiv.org/abs/2310.09824) · [PDF](https://arxiv.org/pdf/2310.09824) |
-| 2023-09-25 | A comparison of controller architectures and learning mechanisms for arbitrary robot morphologies | Jie Luo, Jakub Tomczak, Karine Miras, Agoston E. Eiben | [Abstract](https://arxiv.org/abs/2309.13908) · [PDF](https://arxiv.org/pdf/2309.13908) |
 
 ---
 

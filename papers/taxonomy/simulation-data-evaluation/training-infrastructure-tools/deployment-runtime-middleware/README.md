@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Training%20Infrastructure%20%26%20Tools&specialty=Deployment%2C%20Runtime%20%26%20Middleware#research-workbench)
 
-> 2 conference papers · 33 recent arXiv papers
+> 3 conference papers · 32 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,17 +14,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (2)
+## Conference papers (3)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Bridging the Sim-to-Real Gap with multipanda_ros2: A Real-Time ROS 2 Framework for Multimanual Systems | ICRA · Sim To Real | [Paper](https://arxiv.org/abs/2602.02269) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696149) |
 | 2023 | Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned | IROS · Dataset | [Paper](https://arxiv.org/pdf/2304.04362) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342377) |
 | 2022 | ROS-PyBullet Interface: A Framework for Reliable Contact Simulation and Human-Robot Interaction | CoRL · Simulation | [Paper](https://arxiv.org/abs/2210.06887) · [Index](https://dblp.org/rec/conf/corl/MowerS0RYBGVBV22) |
 
-## Recent arXiv papers (33)
+## Recent arXiv papers (32)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-25 | RoboMonitor: Label-Efficient Runtime Monitoring of Robot Task Execution via Predictive Representation Learning | Abhiroop Ajith, Gokul Narayanan, Kyle Coelho, Tingji Zhao et al. | [Abstract](https://arxiv.org/abs/2609.30715) · [PDF](https://arxiv.org/pdf/2609.30715) |
 | 2026-07-13 | Casting Everything to Online API Services? A Survey of Integrating Localized Speech Recognition Models in Robotic Systems | Sheng Li, Jing Li, Felix Schijve, Jun Hu et al. | [Abstract](https://arxiv.org/abs/2607.11792) · [PDF](https://arxiv.org/pdf/2607.11792) |
 | 2026-07-02 | EVA-Client: A Unified Data Collection, Inference, and Deployment Framework for Embodied Policies on Real Robots | Heqing Yang, Yang Yi, Liyao Wang, Linqing Zhong et al. | [Abstract](https://arxiv.org/abs/2607.02646) · [PDF](https://arxiv.org/pdf/2607.02646) |
 | 2026-06-16 | MagicSim: A Unified Infrastructure for Executable Embodied Interaction | Haoran Lu, Songling Liu, Yue Chen, Guo Ye et al. | [Abstract](https://arxiv.org/abs/2606.17511) · [PDF](https://arxiv.org/pdf/2606.17511) |
@@ -56,8 +58,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-03-19 | Graph Neural Network-based Multi-agent Reinforcement Learning for Resilient Distributed Coordination of Multi-Robot Systems | Anthony Goeckner, Yueyuan Sui, Nicolas Martinet, Xinliang Li et al. | [Abstract](https://arxiv.org/abs/2403.13093) · [PDF](https://arxiv.org/pdf/2403.13093) |
 | 2024-02-25 | ROS-Causal: A ROS-based Causal Analysis Framework for Human-Robot Interaction Applications | Luca Castri, Gloria Beraldo, Sariah Mghames, Marc Hanheide et al. | [Abstract](https://arxiv.org/abs/2402.16068) · [PDF](https://arxiv.org/pdf/2402.16068) |
 | 2023-11-16 | Robust Conformal Prediction for STL Runtime Verification under Distribution Shift | Yiqi Zhao, Bardh Hoxha, Georgios Fainekos, Jyotirmoy V. Deshmukh et al. | [Abstract](https://arxiv.org/abs/2311.09482) · [PDF](https://arxiv.org/pdf/2311.09482) |
-| 2023-10-02 | On Fulfilling the Exigent Need for Automating and Modernizing Logistics Infrastructure in India: Enabling AI-based Integration, Digitalization, and Smart Automation of Industrial Parks and Robotic Warehouses | Shaurya Shriyam, Prashant Palkar, Amber Srivastava | [Abstract](https://arxiv.org/abs/2310.01077) · [PDF](https://arxiv.org/pdf/2310.01077) |
-| 2023-09-23 | AgriSORT: A Simple Online Real-time Tracking-by-Detection framework for robotics in precision agriculture | Leonardo Saraceni, Ionut M. Motoi, Daniele Nardi, Thomas A. Ciarfuglia | [Abstract](https://arxiv.org/abs/2309.13393) · [PDF](https://arxiv.org/pdf/2309.13393) |
 
 ---
 

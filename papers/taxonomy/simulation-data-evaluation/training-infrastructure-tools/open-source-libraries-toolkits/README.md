@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Training%20Infrastructure%20%26%20Tools&specialty=Open-source%20Libraries%20%26%20Toolkits#research-workbench)
 
-> 1 conference papers · 44 recent arXiv papers
+> 1 conference papers · 46 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2024 | CloudGripper: An Open Source Cloud Robotics Testbed for Robotic Manipulation Research, Benchmarking and Data Collection at Scale | ICRA · Benchmark | [Paper](https://arxiv.org/abs/2309.12786) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611548) |
 
-## Recent arXiv papers (44)
+## Recent arXiv papers (46)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-01 | ALFRED: Requirement-driven development of an open-source mobile manipulator for long-term plant monitoring | Ciarán Miceal Johnson, Christopher Quail, Garry Ellard, Alistair McConnell et al. | [Abstract](https://arxiv.org/abs/2610.01477) · [PDF](https://arxiv.org/pdf/2610.01477) |
+| 2026-09-21 | SPARSER: Sparse Variable Projection by Exploiting Separable Structure in Robotic Perception | Nikolas R. Sanderson, Andrew Fishberg, Haoyu Han, Heng Yang et al. | [Abstract](https://arxiv.org/abs/2609.24708) · [PDF](https://arxiv.org/pdf/2609.24708) |
 | 2026-09-18 | The EventCV Library for Event-Based Robotic Vision | Adam D. Hines, Michael Milford, Tobias Fischer | [Abstract](https://arxiv.org/abs/2609.21330) · [PDF](https://arxiv.org/pdf/2609.21330) |
 | 2026-09-10 | CARLAverse: A Highly Modular, Distributed, and Multimodal Framework for Human-in-the-Loop Simulation | Patrick Rebling, Philipp Nenninger, Reiner Kriesten | [Abstract](https://arxiv.org/abs/2609.11478) · [PDF](https://arxiv.org/pdf/2609.11478) |
 | 2026-08-17 | ScenarioCharacterization: A Modular Toolkit for Characterizing Safety across Trajectory Datasets | Ingrid Navarro, Yutong Duan, Jonathan Francis, Jean Oh | [Abstract](https://arxiv.org/abs/2608.16041) · [PDF](https://arxiv.org/pdf/2608.16041) |

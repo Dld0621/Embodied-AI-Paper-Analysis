@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=State%20Estimation%20%26%20Tracking&specialty=Robot%20State%20%26%20Visual%20Odometry#research-workbench)
 
-> 10 conference papers · 73 recent arXiv papers
+> 13 conference papers · 73 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (10)
+## Conference papers (13)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Metric, inertially aligned monocular state estimation via kinetodynamic priors | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2511.20496) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696025) |
+| 2026 | MUSE: Multimodal Uncertainty Quantification of State Estimation | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2605.17421) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696271) |
+| 2026 | State Estimation for Compliant and Morphologically Adaptive Robots | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2509.25945) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697279) |
 | 2025 | Cascade IPG Observer for Underwater Robot State Estimation | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2504.15235) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128435) |
 | 2025 | Uncertainty-Aware Multi-Robot Flocking via Learned State Estimation and Control Barrier Functions | IROS · State Estimation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246962) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246962) |
 | 2024 | A Group Theoretic Metric for Robot State Estimation Leveraging Chebyshev Interpolation | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2401.17463) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611072) |
@@ -33,6 +36,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-24 | TinyCVIO: A Constellation-Aided Visual-Inertial Odometry System for Nanodrones | Derin Ozturk, Kaan Akan, Irwin Wang, Christopher Batten | [Abstract](https://arxiv.org/abs/2609.30358) · [PDF](https://arxiv.org/pdf/2609.30358) |
 | 2026-09-18 | Robust Structureless Monocular Visual Inertial Initialization Exploiting Line Features and Vanishing Points | Junwan Choi, Woongrae Jo, Dong-Uk Seo, Jinwoo Jeon et al. | [Abstract](https://arxiv.org/abs/2609.21186) · [PDF](https://arxiv.org/pdf/2609.21186) |
 | 2026-09-17 | Bayesian Continuum Robot Dynamics and State Estimation | James M. Ferguson, Tucker Hermans, Alan Kuntz | [Abstract](https://arxiv.org/abs/2609.20605) · [PDF](https://arxiv.org/pdf/2609.20605) |
 | 2026-08-20 | Learning-Based Measurement-Robust Control Barrier Functions for Obstacle Avoidance under State Estimation Error | Nicholas Rober, Yixuan Jia, Jonathan P. How | [Abstract](https://arxiv.org/abs/2608.20467) · [PDF](https://arxiv.org/pdf/2608.20467) |
@@ -105,7 +109,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-07 | Proprioceptive Invariant Robot State Estimation | Tzu-Yuan Lin, Tingjun Li, Wenzhe Tong, Maani Ghaffari | [Abstract](https://arxiv.org/abs/2311.04320) · [PDF](https://arxiv.org/pdf/2311.04320) |
 | 2023-10-27 | Do we need scan-matching in radar odometry? | Vladimír Kubelka, Emil Fritz, Martin Magnusson | [Abstract](https://arxiv.org/abs/2310.18117) · [PDF](https://arxiv.org/pdf/2310.18117) |
 | 2023-10-05 | Extended Kalman Filter State Estimation for Autonomous Competition Robots | Ethan Kou, Acshi Haggenmiller | [Abstract](https://arxiv.org/abs/2310.04459) · [PDF](https://arxiv.org/pdf/2310.04459) |
-| 2023-09-22 | Pixel-wise Smoothing for Certified Robustness against Camera Motion Perturbations | Hanjiang Hu, Zuxin Liu, Linyi Li, Jiacheng Zhu et al. | [Abstract](https://arxiv.org/abs/2309.13150) · [PDF](https://arxiv.org/pdf/2309.13150) |
 
 ---
 

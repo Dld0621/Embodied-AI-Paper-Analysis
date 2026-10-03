@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Differentiable%20%26%20Neural%20Simulation#research-workbench)
 
-> 7 conference papers · 42 recent arXiv papers
+> 7 conference papers · 43 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | Learning Quadrotor Control from Visual Features Using Differentiable Simulation | ICRA · Simulation | [Paper](https://arxiv.org/abs/2410.15979) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128641) |
+| 2025 | Learning Quadrotor Control from Visual Features Using Differentiable Simulation | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2410.15979) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128641) |
 | 2025 | Celebi’s Choice: Causality-Guided Skill Optimisation for Granular Manipulation via Differentiable Simulation | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11247432) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247432) |
 | 2024 | Thin-Shell Object Manipulations With Differentiable Physics Simulations | ICLR · Simulation | [Paper](https://arxiv.org/abs/2404.00451) · [Index](https://dblp.org/rec/conf/iclr/WangZCXZLG24) |
 | 2024 | SoftMAC: Differentiable Soft Body Simulation with Forecast-based Contact Model and Two-way Coupling with Articulated Rigid Bodies and Clothes | IROS · Simulation | [Paper](https://arxiv.org/abs/2312.03297) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801308) |
@@ -26,10 +26,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Rethinking Optimization with Differentiable Simulation from a Global Perspective | CoRL · Simulation | [Paper](https://arxiv.org/abs/2207.00167) · [Index](https://dblp.org/rec/journals/corr/abs-2207-00167) |
 | 2022 | SAM-RL: Sensing-aware model-based reinforcement learning via differentiable physics-based simulation and rendering | RSS · Simulation | [Paper](https://arxiv.org/pdf/2210.15185) · [Publisher](https://doi.org/10.1177/02783649241284653) |
 
-## Recent arXiv papers (42)
+## Recent arXiv papers (43)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-25 | Learning Vision-Based Agile Gap Traversal: Differentiable Simulation with a Warm-Started Critic | Nuthasith Gerdpratoom, Tianchen Sun, Yichao Gao, Lin Zhao | [Abstract](https://arxiv.org/abs/2609.30696) · [PDF](https://arxiv.org/pdf/2609.30696) |
+| 2026-09-25 | Bundled Contact Gradients: Stabilizing Differentiable Simulation for Deployable Dynamic Tasks | Dyuman Aditya, Jin Cheng, Clemens Schwarke, Quan Nguyen et al. | [Abstract](https://arxiv.org/abs/2609.30951) · [PDF](https://arxiv.org/pdf/2609.30951) |
 | 2026-09-08 | Ostrich: Taking Large Strides Through Stiff Contact in Differentiable Dynamics | Aleš Kučera, Karel Zimmermann | [Abstract](https://arxiv.org/abs/2609.08800) · [PDF](https://arxiv.org/pdf/2609.08800) |
 | 2026-07-13 | Wearing A Coat: Dual-Arm Robot-Assisted Dressing with Differentiable Clothing Simulation | Yiming Liu, Lijun Han, Hesheng Wang | [Abstract](https://arxiv.org/abs/2607.10999) · [PDF](https://arxiv.org/pdf/2607.10999) |
 | 2026-07-13 | NeuralActuator: Neural Actuation Modeling for Robot Dynamics and External Force Perception | Zhiyang Dou, John U. Onyemelukwe, Hangxing Zhang, Heng Zhang et al. | [Abstract](https://arxiv.org/abs/2607.11734) · [PDF](https://arxiv.org/pdf/2607.11734) |
@@ -55,13 +57,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-06-02 | Leveraging Analytic Gradients in Provably Safe Reinforcement Learning | Tim Walter, Hannah Markgraf, Jonathan Külz, Matthias Althoff | [Abstract](https://arxiv.org/abs/2506.01665) · [PDF](https://arxiv.org/pdf/2506.01665) |
 | 2025-06-01 | Accelerated Learning with Linear Temporal Logic using Differentiable Simulation | Alper Kamil Bozkurt, Calin Belta, Ming C. Lin | [Abstract](https://arxiv.org/abs/2506.01167) · [PDF](https://arxiv.org/pdf/2506.01167) |
 | 2025-05-15 | Accelerating Visual-Policy Learning through Parallel Differentiable Simulation | Haoxiang You, Yilang Liu, Ian Abraham | [Abstract](https://arxiv.org/abs/2505.10646) · [PDF](https://arxiv.org/pdf/2505.10646) |
-| 2025-03-13 | An Real-Sim-Real (RSR) Loop Framework for Generalizable Robotic Policy Transfer with Differentiable Simulation | Lu Shi, Yuxuan Xu, Shiyu Wang, Jinhao Huang et al. | [Abstract](https://arxiv.org/abs/2503.10118) · [PDF](https://arxiv.org/pdf/2503.10118) |
 | 2025-01-31 | Differentiable Simulation of Soft Robots with Frictional Contacts | Etienne Ménager, Louis Montaut, Quentin Le Lidec, Justin Carpentier | [Abstract](https://arxiv.org/abs/2501.18956) · [PDF](https://arxiv.org/pdf/2501.18956) |
 | 2025-01-29 | Physics-Grounded Differentiable Simulation for Soft Growing Robots | Lucas Chen, Yitian Gao, Sicheng Wang, Francesco Fuentes et al. | [Abstract](https://arxiv.org/abs/2501.17963) · [PDF](https://arxiv.org/pdf/2501.17963) |
 | 2024-10-21 | Learning Quadrotor Control From Visual Features Using Differentiable Simulation | Johannes Heeg, Yunlong Song, Davide Scaramuzza | [Abstract](https://arxiv.org/abs/2410.15979) · [PDF](https://arxiv.org/pdf/2410.15979) |
 | 2024-10-16 | Learning Differentiable Tensegrity Dynamics using Graph Neural Networks | Nelson Chen, Kun Wang, William R. Johnson, Rebecca Kramer-Bottiglio et al. | [Abstract](https://arxiv.org/abs/2410.12216) · [PDF](https://arxiv.org/pdf/2410.12216) |
 | 2024-09-12 | Autonomous Vehicle Controllers From End-to-End Differentiable Simulation | Asen Nachkov, Danda Pani Paudel, Luc Van Gool | [Abstract](https://arxiv.org/abs/2409.07965) · [PDF](https://arxiv.org/pdf/2409.07965) |
-| 2024-09-11 | End-to-End and Highly-Efficient Differentiable Simulation for Robotics | Quentin Le Lidec, Louis Montaut, Yann de Mont-Marin, Fabian Schramm et al. | [Abstract](https://arxiv.org/abs/2409.07107) · [PDF](https://arxiv.org/pdf/2409.07107) |
+| 2024-09-11 | Highly-Efficient Differentiable Simulation for Robotics | Quentin Le Lidec, Louis Montaut, Yann de Mont-Marin, Fabian Schramm et al. | [Abstract](https://arxiv.org/abs/2409.07107) · [PDF](https://arxiv.org/pdf/2409.07107) |
 | 2024-07-20 | VisFly: An Efficient and Versatile Simulator for Training Vision-based Flight | Fanxing Li, Fangyu Sun, Tianbao Zhang, Danping Zou | [Abstract](https://arxiv.org/abs/2407.14783) · [PDF](https://arxiv.org/pdf/2407.14783) |
 | 2024-07-08 | A Review of Differentiable Simulators | Rhys Newbury, Jack Collins, Kerry He, Jiahe Pan et al. | [Abstract](https://arxiv.org/abs/2407.05560) · [PDF](https://arxiv.org/pdf/2407.05560) |
 | 2024-05-25 | Agile Robotics: Optimal Control, Reinforcement Learning, and Differentiable Simulation | Yunlong Song, Davide Scaramuzza | [Abstract](https://arxiv.org/abs/2407.01568) · [PDF](https://arxiv.org/pdf/2407.01568) |

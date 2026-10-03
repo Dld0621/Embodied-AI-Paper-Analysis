@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Motion%20Imitation%20%26%20Generation&specialty=Style%2C%20Expressive%20%26%20Human-like%20Motion#research-workbench)
 
-> 1 conference papers · 12 recent arXiv papers
+> 2 conference papers · 13 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,16 +14,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (1)
+## Conference papers (2)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | PMG: Parameterized Motion Generator for Human-like Locomotion Control | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2602.12656) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696988) |
 | 2025 | Think on Your Feet: Seamless Transition Between Human-Like Locomotion in Response to Changing Commands | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2502.18901) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127948) |
 
-## Recent arXiv papers (12)
+## Recent arXiv papers (13)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-24 | Anthropomimetic Soft Robotic Forearm with Independently Articulated Carpal Bones Enabling Human-Like Adaptive Stiffness Modulability | Yoshinobu Obata, Yinlai Jiang, Hiroshi Yokoi, Shunta Togo | [Abstract](https://arxiv.org/abs/2609.29176) · [PDF](https://arxiv.org/pdf/2609.29176) |
 | 2026-02-13 | PMG: Parameterized Motion Generator for Human-like Locomotion Control | Chenxi Han, Yuheng Min, Zihao Huang, Ao Hong et al. | [Abstract](https://arxiv.org/abs/2602.12656) · [PDF](https://arxiv.org/pdf/2602.12656) |
 | 2025-05-29 | A Constructed Response: Designing and Choreographing Robot Arm Movements in Collaborative Dance Improvisation | Xiaoyu Chang, Fan Zhang, Kexue Fu, Carla Diana et al. | [Abstract](https://arxiv.org/abs/2505.23090) · [PDF](https://arxiv.org/pdf/2505.23090) |
 | 2025-02-26 | Think on your feet: Seamless Transition between Human-like Locomotion in Response to Changing Commands | Huaxing Huang, Wenhao Cui, Tonghe Zhang, Shengtao Li et al. | [Abstract](https://arxiv.org/abs/2502.18901) · [PDF](https://arxiv.org/pdf/2502.18901) |

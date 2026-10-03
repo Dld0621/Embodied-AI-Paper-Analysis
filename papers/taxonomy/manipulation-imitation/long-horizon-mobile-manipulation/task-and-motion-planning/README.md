@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=Task-and-motion%20Planning#research-workbench)
 
-> 7 conference papers · 19 recent arXiv papers
+> 8 conference papers · 20 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (7)
+## Conference papers (8)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | From CAD to POMDP: Probabilistic Planning for Robotic Disassembly of End-of-Life Products | ICRA · Assembly | [Paper](https://arxiv.org/abs/2511.23407) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697223) |
 | 2025 | AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2410.00371) · [Index](https://dblp.org/rec/conf/iclr/DuanPKWTYKFMG25) |
 | 2024 | Extending Task and Motion Planning with Feasibility Prediction: Towards Multi-Robot Manipulation Planning of Realistic Objects | IROS · Manipulation | [Paper](https://laas.hal.science/hal-04284213v1/document) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802307) |
 | 2023 | Human-in-the-Loop Task and Motion Planning for Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2310.16014) · [Index](https://dblp.org/rec/journals/corr/abs-2310-16014) |
@@ -26,10 +27,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Simultaneous Action and Grasp Feasibility Prediction for Task and Motion Planning Through Multi-Task Learning | IROS · Grasp | [Paper](https://laas.hal.science/hal-04016581v1/file/IROS2023sub_AGFP-NET.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341257) |
 | 2023 | Spatial Reasoning via Deep Vision Models for Robotic Sequential Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2306.17053) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342010) |
 
-## Recent arXiv papers (19)
+## Recent arXiv papers (20)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-21 | MIGU: Multimodal Instruction Grounding under Uncertainty for Manipulation Planning | Mingke Lu, Anxing Xiao, David Hsu | [Abstract](https://arxiv.org/abs/2609.24995) · [PDF](https://arxiv.org/pdf/2609.24995) |
 | 2026-08-28 | Plan Along the Way: Event-Triggered Foundation-Model Planning for TAMP Execution in Partially Observable Manipulation | Puru Ojha, Narendhiran Vijayakumar, Nav Singhal, Girish Varma et al. | [Abstract](https://arxiv.org/abs/2608.28075) · [PDF](https://arxiv.org/pdf/2608.28075) |
 | 2026-08-06 | Coordinated Multi-Robot Disassembly for Makespan Optimization of Large-Scale Assemblies | Niklas Hargus, Andreas Orthey, Marc Toussaint | [Abstract](https://arxiv.org/abs/2608.05830) · [PDF](https://arxiv.org/pdf/2608.05830) |
 | 2026-07-28 | Decompose and Reorganize: Planning with Primitives and Visuomotor Policies Learned from Demonstrations | Yizhou Chen, Hang Xu, Dongjie Yu, Yupu Lu et al. | [Abstract](https://arxiv.org/abs/2607.25397) · [PDF](https://arxiv.org/pdf/2607.25397) |

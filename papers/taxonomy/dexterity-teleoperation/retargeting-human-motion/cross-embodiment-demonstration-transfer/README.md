@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Retargeting%20%26%20Human%20Motion&specialty=Cross-embodiment%20Demonstration%20Transfer#research-workbench)
 
-> 7 conference papers · 79 recent arXiv papers
+> 7 conference papers · 82 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,15 +21,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover | ICRA · Robot Hand | [Paper](https://arxiv.org/abs/2408.14997) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128648) |
 | 2024 | GenH2R: Learning Generalizable Human-to-Robot Handover via Scalable Simulation, Demonstration, and Imitation | CVPR · Robot Hand | [Paper](https://arxiv.org/pdf/2401.00929) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01548) |
 | 2024 | Overcoming Hand and Arm Occlusion in Human-to-Robot Handovers: Predicting Safe Poses with a Multimodal DNN Regression Model | ICRA · Robot Hand | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610777) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610777) |
-| 2024 | SynH2R: Synthesizing Hand-Object Motions for Learning Human-to-Robot Handovers | ICRA · Robot Hand | [Paper](https://arxiv.org/abs/2311.05599) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610694) |
+| 2024 | SynH2R: Synthesizing Hand-Object Motions for Learning Human-to-Robot Handovers | ICRA · Robot Hand | [Paper](https://arxiv.org/pdf/2311.05599) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610694) |
 | 2023 | Learning Human-to-Robot Handovers from Point Clouds | CVPR · Robot Hand | [Paper](https://arxiv.org/abs/2303.17592) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.00931) |
 | 2023 | Expressing and Inferring Action Carefulness in Human-to-Robot Handovers | IROS · Robot Hand | [Paper](https://arxiv.org/pdf/2310.00465) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342111) |
 | 2022 | Model Predictive Control for Fluid Human-to-Robot Handovers | ICRA · Robot Hand | [Paper](https://arxiv.org/abs/2204.00134) · [Index](https://dblp.org/rec/journals/corr/abs-2204-00134) |
 
-## Recent arXiv papers (79)
+## Recent arXiv papers (82)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-01 | World Motion Models: Flexible Sequence Modeling of SE(3) Trajectories | Jiahui Lei, Qianqian Wang, Trevor Darrell, Angjoo Kanazawa | [Abstract](https://arxiv.org/abs/2610.01742) · [PDF](https://arxiv.org/pdf/2610.01742) |
+| 2026-09-29 | Skill-Space Shooting for Autonomous Robot Policy Improvement | Zihang Rui, Renhao Wang, Haoxu Huang, Yang Gao | [Abstract](https://arxiv.org/abs/2609.38178) · [PDF](https://arxiv.org/pdf/2609.38178) |
+| 2026-09-21 | Touch2Robot: Robot Touch in the Human Demonstration Loop | Shengcheng Luo, Xiaoyang Cheng, Hong Ying, Xiaoying Zhou et al. | [Abstract](https://arxiv.org/abs/2609.24660) · [PDF](https://arxiv.org/pdf/2609.24660) |
 | 2026-09-05 | A4A: Cross-Embodiment Transfer of Action-Oriented 4D Affordances from Human Demonstrations | Yifan Han, Litao Liu, Yuqi Gu, Ye Lu et al. | [Abstract](https://arxiv.org/abs/2609.05892) · [PDF](https://arxiv.org/pdf/2609.05892) |
 | 2026-08-10 | High Fidelity Capture, Reconstruction, and Transfer of Human Demonstrations for Robot-Assisted Bathing | Arjun S. Lakshmipathy, Jonathan P. King, Ethan Zuo, Rohit Satishkumar et al. | [Abstract](https://arxiv.org/abs/2608.09127) · [PDF](https://arxiv.org/pdf/2608.09127) |
 | 2026-08-06 | Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation | Alperen Kenan, Paul Bremner, Manuel Giuliani | [Abstract](https://arxiv.org/abs/2608.06221) · [PDF](https://arxiv.org/pdf/2608.06221) |
@@ -45,6 +48,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-04-09 | A Unified Multi-Layer Framework for Skill Acquisition from Imperfect Human Demonstrations | Zi-Qi Yang, Mehrdad R. Kermani | [Abstract](https://arxiv.org/abs/2604.08341) · [PDF](https://arxiv.org/pdf/2604.08341) |
 | 2026-03-14 | Fine-tuning is Not Enough: A Parallel Framework for Collaborative Imitation and Reinforcement Learning in End-to-end Autonomous Driving | Zhexi Lian, Haoran Wang, Xuerun Yan, Weimeng Lin et al. | [Abstract](https://arxiv.org/abs/2603.13842) · [PDF](https://arxiv.org/pdf/2603.13842) |
 | 2026-03-13 | Show, Don't Tell: Detecting Novel Objects by Watching Human Videos | James Akl, Jose Nicolas Avendano Arbelaez, James Barabas, Jennifer L. Barry et al. | [Abstract](https://arxiv.org/abs/2603.12751) · [PDF](https://arxiv.org/pdf/2603.12751) |
+| 2026-03-09 | 3PoinTr: From Human Videos to Robot Policies with 3D Point-Track Plans | Adam Hung, Bardienus Pieter Duisterhof, Jeffrey Ichnowski | [Abstract](https://arxiv.org/abs/2603.08485) · [PDF](https://arxiv.org/pdf/2603.08485) |
 | 2026-03-03 | HoMMI: Learning Whole-Body Mobile Manipulation from Human Demonstrations | Xiaomeng Xu, Jisang Park, Han Zhang, Eric Cousineau et al. | [Abstract](https://arxiv.org/abs/2603.03243) · [PDF](https://arxiv.org/pdf/2603.03243) |
 | 2026-03-03 | Generative adversarial imitation learning for robot swarms: Learning from human demonstrations and trained policies | Mattes Kraus, Jonas Kuckling | [Abstract](https://arxiv.org/abs/2603.02783) · [PDF](https://arxiv.org/pdf/2603.02783) |
 | 2026-02-16 | TWISTED-RL: Hierarchical Skilled Agents for Knot-Tying without Human Demonstrations | Guy Freund, Tom Jurgenson, Matan Sudry, Erez Karpas | [Abstract](https://arxiv.org/abs/2602.14526) · [PDF](https://arxiv.org/pdf/2602.14526) |
@@ -108,7 +112,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-09 | SynH2R: Synthesizing Hand-Object Motions for Learning Human-to-Robot Handovers | Sammy Christen, Lan Feng, Wei Yang, Yu-Wei Chao et al. | [Abstract](https://arxiv.org/abs/2311.05599) · [PDF](https://arxiv.org/pdf/2311.05599) |
 | 2023-11-04 | Constrained Equation Learner Networks for Precision-Preserving Extrapolation of Robotic Skills | Hector Perez-Villeda, Justus Piater, Matteo Saveriano | [Abstract](https://arxiv.org/abs/2311.02475) · [PDF](https://arxiv.org/pdf/2311.02475) |
 | 2023-10-22 | Learning to Discern: Imitating Heterogeneous Human Demonstrations with Preference and Representation Learning | Sachit Kuhar, Shuo Cheng, Shivang Chopra, Matthew Bronars et al. | [Abstract](https://arxiv.org/abs/2310.14196) · [PDF](https://arxiv.org/pdf/2310.14196) |
-| 2023-09-30 | Expressing and Inferring Action Carefulness in Human-to-Robot Handovers | Linda Lastrico, Nuno Ferreira Duarte, Alessandro Carfì, Francesco Rea et al. | [Abstract](https://arxiv.org/abs/2310.00465) · [PDF](https://arxiv.org/pdf/2310.00465) |
 
 ---
 

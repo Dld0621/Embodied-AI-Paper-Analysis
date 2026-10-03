@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=Point-cloud%20%26%20LiDAR%20Perception#research-workbench)
 
-> 4 conference papers · 353 recent arXiv papers
+> 4 conference papers · 348 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,10 +23,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning | ICRA · Scene Graph | [Paper](https://arxiv.org/abs/2309.08914) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610206) |
 | 2023 | Open-Vocabulary Affordance Detection in 3D Point Clouds | IROS · Affordance | [Paper](https://arxiv.org/pdf/2303.02401) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341553) |
 
-## Recent arXiv papers (353)
+## Recent arXiv papers (348)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-01 | SonarVoxNet: Diver Detection in 3D Bounding Box using 3D Sonar | Eugene Park, Jiwon Lee, Seyoung Kan, Trung Dong et al. | [Abstract](https://arxiv.org/abs/2610.01644) · [PDF](https://arxiv.org/pdf/2610.01644) |
+| 2026-09-24 | TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations | Ayush Jain, Sreeharsha Paruchuri, Ishita Gupta, Fan Zhang et al. | [Abstract](https://arxiv.org/abs/2609.30222) · [PDF](https://arxiv.org/pdf/2609.30222) |
+| 2026-09-22 | Unsigned Distance Maps on 2D Point Cloud Registration | Ricardo B. Sousa, Giorgio Grisetti, Héber Miguel Sobreira, Carlos André Silva et al. | [Abstract](https://arxiv.org/abs/2609.25932) · [PDF](https://arxiv.org/pdf/2609.25932) |
+| 2026-09-22 | Leveraging Vision-Based Point Cloud Map Priors for Camera-Based 3D Object Detection and Online Vectorized HD Mapping | Markus Käppeler, Rohit Mohan, Abhinav Valada | [Abstract](https://arxiv.org/abs/2609.26325) · [PDF](https://arxiv.org/pdf/2609.26325) |
+| 2026-09-21 | PARTE: Plane-Assisted Robust Transformation Estimation for Point Cloud Registration | Abolfazl Babanazari, Carson Cramer, Tyler Summers, Carlos Nieto et al. | [Abstract](https://arxiv.org/abs/2609.25375) · [PDF](https://arxiv.org/pdf/2609.25375) |
 | 2026-09-17 | FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations | Kevin Qu, Tao Sun, Massimiliano Viola, Liyuan Zhu et al. | [Abstract](https://arxiv.org/abs/2609.20817) · [PDF](https://arxiv.org/pdf/2609.20817) |
 | 2026-09-16 | PESTO: Formally Correct Registration of LiDAR Point Clouds with Limited Overlap | Valen Yamamoto, Matteo Marchi, Paulo Tabuada | [Abstract](https://arxiv.org/abs/2609.18082) · [PDF](https://arxiv.org/pdf/2609.18082) |
 | 2026-09-11 | ProClosure: Hierarchical Room-Object Assignment using Progressive Boundary Closure from Monocular Video | Vinoth Kumar Muthuraj, Soumyadeep Banik, Kushal Sharma, Hardik Jain | [Abstract](https://arxiv.org/abs/2609.12614) · [PDF](https://arxiv.org/pdf/2609.12614) |
@@ -91,7 +96,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-02-20 | RoEL: Robust Event-based 3D Line Reconstruction | Gwangtak Bae, Jaeho Shin, Seunggu Kang, Junho Kim et al. | [Abstract](https://arxiv.org/abs/2602.18258) · [PDF](https://arxiv.org/pdf/2602.18258) |
 | 2026-02-16 | Time-Archival Camera Virtualization for Sports and Visual Performances | Yunxiao Zhang, William Stone, Suryansh Kumar | [Abstract](https://arxiv.org/abs/2602.15181) · [PDF](https://arxiv.org/pdf/2602.15181) |
 | 2026-02-13 | Self-Supervised JEPA-based World Models for LiDAR Occupancy Completion and Forecasting | Haoran Zhu, Anna Choromanska | [Abstract](https://arxiv.org/abs/2602.12540) · [PDF](https://arxiv.org/pdf/2602.12540) |
-| 2026-02-12 | HyperDet: 3D Object Detection with Hyper 4D Radar Point Clouds | Yichun Xiao, Runwei Guan, Jin Jin, Fangqiang Ding | [Abstract](https://arxiv.org/abs/2602.11554) · [PDF](https://arxiv.org/pdf/2602.11554) |
+| 2026-02-12 | HyperDet: 3D Object Detection with Hyper 4D Radar Point Clouds | Yichun Xiao, Jin Jin, Runwei Guan, Fangqiang Ding | [Abstract](https://arxiv.org/abs/2602.11554) · [PDF](https://arxiv.org/pdf/2602.11554) |
 | 2026-02-11 | End-to-End LiDAR optimization for 3D point cloud registration | Siddhant Katyan, Marc-André Gardner, Jean-François Lalonde | [Abstract](https://arxiv.org/abs/2602.10492) · [PDF](https://arxiv.org/pdf/2602.10492) |
 | 2026-02-10 | Finite-time Stable Pose Estimation on TSE(3) using Point Cloud and Velocity Sensors | Nazanin S. Hashkavaei, Abhijit Dongare, Neon Srinivasu, Amit K. Sanyal | [Abstract](https://arxiv.org/abs/2602.09414) · [PDF](https://arxiv.org/pdf/2602.09414) |
 | 2026-02-05 | PIRATR: Parametric Object Inference for Robotic Applications with Transformers in 3D Point Clouds | Michael Schwingshackl, Fabio F. Oberweger, Mario Niedermeyer, Huemer Johannes et al. | [Abstract](https://arxiv.org/abs/2602.05557) · [PDF](https://arxiv.org/pdf/2602.05557) |
@@ -370,16 +375,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-09 | Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration | Chunge Bai, Ruijie Fu, Xiang Gao | [Abstract](https://arxiv.org/abs/2310.05504) · [PDF](https://arxiv.org/pdf/2310.05504) |
 | 2023-10-08 | Influence of Camera-LiDAR Configuration on 3D Object Detection for Autonomous Driving | Ye Li, Hanjiang Hu, Zuxin Liu, Xiaohao Xu et al. | [Abstract](https://arxiv.org/abs/2310.05245) · [PDF](https://arxiv.org/pdf/2310.05245) |
 | 2023-10-06 | Graph-based 3D Collision-distance Estimation Network with Probabilistic Graph Rewiring | Minjae Song, Yeseung Kim, Min Jun Kim, Daehyung Park | [Abstract](https://arxiv.org/abs/2310.04044) · [PDF](https://arxiv.org/pdf/2310.04044) |
-| 2023-10-02 | COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry | Patrick Pfreundschuh, Helen Oleynikova, Cesar Cadena, Roland Siegwart et al. | [Abstract](https://arxiv.org/abs/2310.01235) · [PDF](https://arxiv.org/pdf/2310.01235) |
-| 2023-10-01 | Active Implicit Reconstruction Using One-Shot View Planning | Hao Hu, Sicong Pan, Liren Jin, Marija Popović et al. | [Abstract](https://arxiv.org/abs/2310.00685) · [PDF](https://arxiv.org/pdf/2310.00685) |
-| 2023-09-29 | Robust 3D Object Detection from LiDAR-Radar Point Clouds via Cross-Modal Feature Augmentation | Jianning Deng, Gabriel Chan, Hantao Zhong, Chris Xiaoxuan Lu | [Abstract](https://arxiv.org/abs/2309.17336) · [PDF](https://arxiv.org/pdf/2309.17336) |
-| 2023-09-28 | LEF: Late-to-Early Temporal Fusion for LiDAR 3D Object Detection | Tong He, Pei Sun, Zhaoqi Leng, Chenxi Liu et al. | [Abstract](https://arxiv.org/abs/2309.16870) · [PDF](https://arxiv.org/pdf/2309.16870) |
-| 2023-09-28 | A Comprehensive Review on Tree Detection Methods Using Point Cloud and Aerial Imagery from Unmanned Aerial Vehicles | Weijie Kuang, Hann Woei Ho, Ye Zhou, Shahrel Azmin Suandi et al. | [Abstract](https://arxiv.org/abs/2309.16375) · [PDF](https://arxiv.org/pdf/2309.16375) |
-| 2023-09-26 | Neural Informed RRT*: Learning-based Path Planning with Point Cloud State Representations under Admissible Ellipsoidal Constraints | Zhe Huang, Hongyu Chen, John Pohovey, Katherine Driggs-Campbell | [Abstract](https://arxiv.org/abs/2309.14595) · [PDF](https://arxiv.org/pdf/2309.14595) |
-| 2023-09-26 | CoFiI2P: Coarse-to-Fine Correspondences for Image-to-Point Cloud Registration | Shuhao Kang, Youqi Liao, Jianping Li, Fuxun Liang et al. | [Abstract](https://arxiv.org/abs/2309.14660) · [PDF](https://arxiv.org/pdf/2309.14660) |
-| 2023-09-25 | QuadricsNet: Learning Concise Representation for Geometric Primitives in Point Clouds | Ji Wu, Huai Yu, Wen Yang, Gui-Song Xia | [Abstract](https://arxiv.org/abs/2309.14211) · [PDF](https://arxiv.org/pdf/2309.14211) |
-| 2023-09-24 | Towards Robust Robot 3D Perception in Urban Environments: The UT Campus Object Dataset | Arthur Zhang, Chaitanya Eranki, Christina Zhang, Ji-Hwan Park et al. | [Abstract](https://arxiv.org/abs/2309.13549) · [PDF](https://arxiv.org/pdf/2309.13549) |
-| 2023-09-24 | AdaMap: High-Scalable Real-Time Cooperative Perception at the Edge | Qiang Liu, Yongjie Xue, Yuru Zhang, Dawei Chen et al. | [Abstract](https://arxiv.org/abs/2309.13526) · [PDF](https://arxiv.org/pdf/2309.13526) |
 
 ---
 

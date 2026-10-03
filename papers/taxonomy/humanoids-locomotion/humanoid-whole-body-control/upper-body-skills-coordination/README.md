@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Humanoid%20Whole-body%20Control&specialty=Upper-body%20Skills%20%26%20Coordination#research-workbench)
 
-> 3 conference papers · 31 recent arXiv papers
+> 5 conference papers · 32 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,18 +14,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (3)
+## Conference papers (5)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2509.14353) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696795) |
+| 2026 | LEGO: Latent-space Exploration for Geometry-aware Optimization of Humanoid Kinematic Design | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2604.08636) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696066) |
 | 2024 | Joint-Level IS-MPC: a Whole-Body MPC with Centroidal Feasibility for Humanoid Locomotion | IROS · Humanoid | [Paper](https://hal.science/hal-04773996v1/file/IROS_Joint_Level_IS_MPC.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801628) |
 | 2023 | Proprioceptive External Torque Learning for Floating Base Robot and its Applications to Humanoid Locomotion | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2309.04138) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342530) |
 | 2022 | Introducing RH5 Manus: A Powerful Humanoid Upper Body Design for Dynamic Movements | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra46639.2022.9811843) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811843) |
 
-## Recent arXiv papers (31)
+## Recent arXiv papers (32)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-30 | Toward Humanoid Robots in Construction: A Teleoperation Feasibility Study | Parastoo Ali Pour, David R. Martin, Chang Min Hur, Bo Zhang et al. | [Abstract](https://arxiv.org/abs/2610.00718) · [PDF](https://arxiv.org/pdf/2610.00718) |
+| 2026-09-27 | CompliantWBC: Whole-Body Compliance for Heavy Humanoids via Force Latent Estimation and Residual Impedance Targets | Tan-Dzung Do, Cuc T. Trinh, Tuan Dat Phuong, Chien Le et al. | [Abstract](https://arxiv.org/abs/2609.33310) · [PDF](https://arxiv.org/pdf/2609.33310) |
 | 2026-09-17 | Diverse and Adaptable Arm Coordination for Octopus-Crawling via Diffusion-Based Uncertainty-Aware Optimization | Seung Hyun Kim, Heng-Sheng Chang, Kimia Kazemi, Prashant Mehta et al. | [Abstract](https://arxiv.org/abs/2609.21138) · [PDF](https://arxiv.org/pdf/2609.21138) |
 | 2026-09-07 | CALM: Configuration-Aware Human Intervention Boundaries During Robot Approach | Xinting Gao, Sipu Zhu, Weimin Zhuang | [Abstract](https://arxiv.org/abs/2609.07430) · [PDF](https://arxiv.org/pdf/2609.07430) |
 | 2026-07-31 | Developing Combined Manipulation and Locomotion Skills with Interaction Representation and Skill Composition | Fanxing Meng, Jing Xiao | [Abstract](https://arxiv.org/abs/2608.00208) · [PDF](https://arxiv.org/pdf/2608.00208) |
@@ -38,10 +42,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-04-09 | LEGO: Latent-space Exploration for Geometry-aware Optimization of Humanoid Kinematic Design | Jihwan Yoon, Taemoon Jeong, Jeongeun Park, Chanwoo Kim et al. | [Abstract](https://arxiv.org/abs/2604.08636) · [PDF](https://arxiv.org/pdf/2604.08636) |
 | 2026-04-08 | RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild | Wenjing Margaret Mao, Jefferson Ng, Luyang Hu, Daniel Gehrig et al. | [Abstract](https://arxiv.org/abs/2604.07331) · [PDF](https://arxiv.org/pdf/2604.07331) |
 | 2026-03-16 | Dynamic Properties and Motion Reproducibility of a Compact Pneumatically Actuated Humanoid Upper Body for Data-Driven Control | Hiroshi Atsuta, Hisashi Ishihara, Minoru Asada | [Abstract](https://arxiv.org/abs/2603.14787) · [PDF](https://arxiv.org/pdf/2603.14787) |
-| 2026-03-09 | FAME: Force-Adaptive RL for Expanding the Manipulation Envelope of a Full-Scale Humanoid | Niraj Pudasaini, Yutong Zhang, Jensen Lavering, Alessandro Roncone et al. | [Abstract](https://arxiv.org/abs/2603.08961) · [PDF](https://arxiv.org/pdf/2603.08961) |
+| 2026-03-09 | FAME: Force-Adaptive RL for Expanding the Manipulation Envelope of a Full-Scale Humanoid | Niraj Pudasaini, Yutong Zhang, Jensen Lavering, Max Conwat et al. | [Abstract](https://arxiv.org/abs/2603.08961) · [PDF](https://arxiv.org/pdf/2603.08961) |
 | 2025-11-28 | SafeHumanoid: VLM-RAG-driven Control of Upper Body Impedance for Humanoid Robot | Yara Mahmoud, Jeffrin Sam, Nguyen Khang, Marcelino Fernando et al. | [Abstract](https://arxiv.org/abs/2511.23300) · [PDF](https://arxiv.org/pdf/2511.23300) |
 | 2025-11-06 | GentleHumanoid: Learning Upper-body Compliance for Contact-rich Human and Object Interaction | Qingzhou Lu, Yao Feng, Baiyu Shi, Michael Piseno et al. | [Abstract](https://arxiv.org/abs/2511.04679) · [PDF](https://arxiv.org/pdf/2511.04679) |
-| 2025-10-30 | Thor: Towards Human-Level Whole-Body Reactions for Intense Contact-Rich Environments | Gangyang Li, Qing Shi, Youhao Hu, Zhongyuan Wang et al. | [Abstract](https://arxiv.org/abs/2510.26280) · [PDF](https://arxiv.org/pdf/2510.26280) |
 | 2025-09-29 | CoTaP: Compliant Task Pipeline and Reinforcement Learning of Its Controller with Compliance Modulation | Zewen He, Chenyuan Chen, Dilshod Azizov, Yoshihiko Nakamura | [Abstract](https://arxiv.org/abs/2509.25443) · [PDF](https://arxiv.org/pdf/2509.25443) |
 | 2025-09-17 | DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion | Dvij Kalaria, Sudarshan S Harithas, Pushkal Katara, Sangkyung Kwak et al. | [Abstract](https://arxiv.org/abs/2509.14353) · [PDF](https://arxiv.org/pdf/2509.14353) |
 | 2025-09-05 | Hierarchical Reduced-Order Model Predictive Control for Robust Locomotion on Humanoid Robots | Adrian B. Ghansah, Sergio A. Esteban, Aaron D. Ames | [Abstract](https://arxiv.org/abs/2509.04722) · [PDF](https://arxiv.org/pdf/2509.04722) |

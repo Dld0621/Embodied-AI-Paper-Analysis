@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=Occupancy%20%26%20Scene%20Representation#research-workbench)
 
-> 6 conference papers · 74 recent arXiv papers
+> 6 conference papers · 77 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,12 +23,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Generating Actionable Robot Knowledge Bases by Combining 3D Scene Graphs with Robot Ontologies | IROS · 3D Scene | [Paper](https://arxiv.org/abs/2507.11770) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245658) |
 | 2024 | QueSTMaps: Queryable Semantic Topological Maps for 3D Scene Understanding | IROS · 3D Scene | [Paper](https://arxiv.org/abs/2404.06442) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801814) |
 | 2022 | Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization | RSS · 3D Scene | [Paper](https://hdl.handle.net/1721.1/145300) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.050) |
-| 2022 | iSDF: Real-Time Neural Signed Distance Fields for Robot Perception | RSS · Robot Perception | [Paper](https://arxiv.org/abs/2204.02296) · [Index](https://dblp.org/rec/conf/rss/OrtizC0SNZM22) |
+| 2022 | iSDF: Real-Time Neural Signed Distance Fields for Robot Perception | RSS · Robot Perception | [Paper](https://arxiv.org/abs/2204.02296) · [Index](https://dblp.org/rec/journals/corr/abs-2204-02296) |
 
-## Recent arXiv papers (74)
+## Recent arXiv papers (77)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-29 | Planning Oriented 3D Scene Completion via Coupled TUDF Occupancy Representation Learning from Partial Observations | Tianyou Yu, Pengfei Zhao, Chao Xu | [Abstract](https://arxiv.org/abs/2609.36543) · [PDF](https://arxiv.org/pdf/2609.36543) |
+| 2026-09-29 | HIGS: Hierarchical Implicit Grids for Joint Geometric and Semantic Scene Understanding | Hanwen Cao, Wenqiang Wu, Kuang-Ting Tu, Mathias Otnes et al. | [Abstract](https://arxiv.org/abs/2609.38620) · [PDF](https://arxiv.org/pdf/2609.38620) |
+| 2026-09-23 | Kairos: Grounded Forecasting of Presence and Directional Flow in 4D Scene Graphs | Iacopo Catalano, Julio A. Placed, Javier Civera, Jorge Peña Queralta | [Abstract](https://arxiv.org/abs/2609.27467) · [PDF](https://arxiv.org/pdf/2609.27467) |
 | 2026-09-08 | Spheriverse: 3D Scene Understanding from Spherical Observations in the Wild | Fei Teng, Sheng Wu, Mengfei Duan, Guoqiang Zhao et al. | [Abstract](https://arxiv.org/abs/2609.09012) · [PDF](https://arxiv.org/pdf/2609.09012) |
 | 2026-09-06 | Diagnosing and Dynamically Filtering Occupancy World Models for Active Mapping | Jiahui Zhang, Gongbo Liang, Yu Zhang | [Abstract](https://arxiv.org/abs/2609.06820) · [PDF](https://arxiv.org/pdf/2609.06820) |
 | 2026-09-01 | DSG: Dynamic 3D Scene Graph Construction for Embodied Agents in Changing Indoor Environments | Ming Liao, Chao Ye, Jianing Fei, Weiyang Lin | [Abstract](https://arxiv.org/abs/2609.00619) · [PDF](https://arxiv.org/pdf/2609.00619) |

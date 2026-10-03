@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Imitation%20%26%20Demonstration%20Learning&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 72 conference papers · 372 recent arXiv papers
+> 85 conference papers · 374 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,23 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (72)
+## Conference papers (85)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | A Computationally Efficient Nonparametric Approach for Robot Imitation Learning | ICRA · Imitation Learning | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696310) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696310) |
+| 2026 | Beyond the Majority: Long-tail Imitation Learning for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2602.06512) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696842) |
+| 2026 | Beyond the Teacher: Leveraging Mixed-Skill Demonstrations for Robust Imitation Learning | ICRA · Imitation Learning | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696772) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696772) |
+| 2026 | EasyMimic: A Low-Cost Framework for Robot Imitation Learning from Human Videos | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2602.11464) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696502) |
+| 2026 | Generative adversarial imitation learning for robot swarms: Learning from human demonstrations and trained policies | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2603.02783) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696594) |
+| 2026 | HeRO: Hierarchical 3D Semantic Representation for Pose-aware Object Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2602.18817) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696647) |
+| 2026 | Physically-Based Lighting Generation for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2508.01442) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697154) |
+| 2026 | Scizor: A Self-Supervised Approach to Data Curation for Large-Scale Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2505.22626) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697414) |
+| 2026 | Screw Geometry Meets Bandits: Incremental Acquisition of Demonstrations to Generate Manipulation Plans | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2410.18275) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696870) |
+| 2026 | Unlocking the Potential of Soft Actor–Critic for Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2509.24539) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696489) |
+| 2026 | Unsupervised Domain Adaptation for Robust Imitation Learning under Visual Perturbations | ICRA · Imitation Learning | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696866) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696866) |
+| 2026 | Viper: Verifiable Imitation Learning Policy for Efficient Robotic Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695975) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695975) |
+| 2026 | Zero-Shot Exocentric Viewpoint-Robust Imitation Learning (VIL): Bridging Handheld Gripper and Exocentric Views | ICRA · Imitation Learning | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697270) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697270) |
 | 2025 | Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control | ICCV · Imitation Learning | [Paper](https://arxiv.org/pdf/2505.15304) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01221) |
 | 2025 | Data Scaling Laws in Imitation Learning for Robotic Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2410.18647) · [Index](https://dblp.org/rec/conf/iclr/LinHSWY025) |
 | 2025 | Robot-Gated Interactive Imitation Learning with Adaptive Intervention Mechanism | ICML · Imitation Learning | [Paper](https://arxiv.org/abs/2506.09176) · [Index](https://dblp.org/rec/journals/corr/abs-2506-09176) |
@@ -38,7 +51,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | CDP: Constrained Diffusion Policies with Mirror Diffusion Model for Safety-Assured Imitation Learning | IROS · Imitation Learning | [Paper](https://doi.org/10.1109/IROS60139.2025.11246518) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246518) |
 | 2025 | Co-Adaptation of Embodiment and Control with Self-Imitation Learning | IROS · Imitation Learning | [Paper](https://research.vu.nl/en/publications/24ed238c-ad01-4f5c-b055-00617efbe143) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246530) |
 | 2025 | Cross-Embodiment Robotic Manipulation Synthesis via Guided Demonstrations through CycleVAE and Human Behavior Transformer | IROS · Manipulation | [Paper](https://arxiv.org/abs/2503.08622) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246736) |
-| 2025 | Evaluating the Pre-Dressing Step: Unfolding Medical Garments via Imitation Learning | IROS · Imitation Learning | [Paper](https://upcommons.upc.edu/bitstreams/7d4bca9a-6997-4279-b98f-80c3a390cc9b/download) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247713) |
+| 2025 | Evaluating the Pre-Dressing Step: Unfolding Medical Garments via Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2507.18436) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247713) |
 | 2025 | FABG : End-to-end Imitation Learning for Embodied Affective Human-Robot Interaction | IROS · Imitation Learning | [Paper](https://arxiv.org/abs/2503.01363) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246538) |
 | 2025 | Gaze-Guided Task Decomposition for Imitation Learning in Robotic Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/abs/2501.15071) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246512) |
 | 2025 | Knowledge-Driven Imitation Learning: Enabling Generalization Across Diverse Conditions | IROS · Imitation Learning | [Paper](https://arxiv.org/abs/2506.21057) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246479) |
@@ -83,7 +96,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Out-of-Dynamics Imitation Learning from Multimodal Demonstrations | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2211.06839) · [Index](https://dblp.org/rec/conf/corl/Qiu0CL22) |
 | 2022 | VIOLA: Object-Centric Imitation Learning for Vision-Based Robot Manipulation | CoRL · Manipulation | [Paper](https://www.semanticscholar.org/paper/2021e23e677926222127ff938cb5fed7eb8bd5b0) · [Index](https://dblp.org/rec/conf/corl/ZhuJSZ22) |
 | 2022 | Memory-based gaze prediction in deep imitation learning for robot manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2202.04877) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812087) |
-| 2022 | Divide & Conquer Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/abs/2204.07404) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982020) |
+| 2022 | Divide & Conquer Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2204.07404) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982020) |
 | 2022 | Imitation Learning and Model Integrated Excavator Trajectory Planning | IROS · Imitation Learning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981220) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981220) |
 | 2022 | Imitation of Manipulation Skills Using Multiple Geometries | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2203.01171) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981683) |
 | 2022 | Multi-Level Task Learning Based on Intention and Constraint Inference for Autonomous Robotic Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981288) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981288) |
@@ -91,10 +104,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Human-to-Robot Imitation in the Wild | RSS · Learning from human video | [Paper](https://www.roboticsproceedings.org/rss18/p026.pdf) · [Official](https://www.roboticsproceedings.org/rss18/p026.html) |
 | 2022 | Play it by Ear: Learning Skills amidst Occlusion through Audio-Visual Imitation Learning | RSS · Imitation Learning | [Paper](https://arxiv.org/pdf/2205.14850) · [Index](https://dblp.org/rec/journals/corr/abs-2205-14850) |
 
-## Recent arXiv papers (372)
+## Recent arXiv papers (374)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-01 | Watch, Infer, Coordinate: Inferring Robot Partner Constraints for Zero-Shot Coordination | Suyu Ye, Zheyuan Zhang, Vaishnav Tadiparthi, Hossein Nourkhiz Mahjoub et al. | [Abstract](https://arxiv.org/abs/2610.02170) · [PDF](https://arxiv.org/pdf/2610.02170) |
+| 2026-09-29 | ComManip: Overfitting Manipulation Policies to Comfortable Regions | Yidan Lai, Xinyi Chen, Shuquan Man, Huiping Zhuang | [Abstract](https://arxiv.org/abs/2609.36928) · [PDF](https://arxiv.org/pdf/2609.36928) |
+| 2026-09-29 | BlenDAgger: Blended Shared Control for Interactive Imitation Learning | Cailyn Smith, Geoffrey Sun, Henny Admoni, Zackory Erickson | [Abstract](https://arxiv.org/abs/2609.37599) · [PDF](https://arxiv.org/pdf/2609.37599) |
+| 2026-09-28 | AD-E2E-JEPA: A Joint-Embedding Predictive Architecture For End-to-End Autonomous Driving | Haoran Zhu, Wancong Zhang, Yann LeCun, Anna Choromanska | [Abstract](https://arxiv.org/abs/2609.34085) · [PDF](https://arxiv.org/pdf/2609.34085) |
+| 2026-09-27 | Beyond State-as-Action: Exploiting Command-State Discrepancy for Robot Imitation Learning | Peiyan Li, Yueran Tao, Enhao Zhang, Zhixuan Zhao et al. | [Abstract](https://arxiv.org/abs/2609.33145) · [PDF](https://arxiv.org/pdf/2609.33145) |
+| 2026-09-26 | An Empirical Study on What Matters for Viewpoint-Generalizable Policies in Visual Imitation Learning | Mino Nakura, Sriram Krishna, Yufei Wang, Shubham Tulsiani et al. | [Abstract](https://arxiv.org/abs/2609.32762) · [PDF](https://arxiv.org/pdf/2609.32762) |
+| 2026-09-25 | Can a Robot Read Braille? - Learning to Adapt Contact via Imitation Learning for Tactile Braille Recognition | Xi Chen, Yunlong Shan, Sihan Chen, Jun Hu et al. | [Abstract](https://arxiv.org/abs/2609.30676) · [PDF](https://arxiv.org/pdf/2609.30676) |
+| 2026-09-24 | Self-Supervised Anchoring of Fingertip Sensing to Proprioception and Proactive Actions for Robot Imitation Learning | Tomohiro Motoda, Masaki Murooka, Keisuke Shirai, Hanbit Oh et al. | [Abstract](https://arxiv.org/abs/2609.29822) · [PDF](https://arxiv.org/pdf/2609.29822) |
+| 2026-09-22 | Minimal Recurrent Behavioral Memory for Imitation under Partial Observability | Xianyao Li, Fang Xu, Rui Min, Ruitong Tian et al. | [Abstract](https://arxiv.org/abs/2609.25757) · [PDF](https://arxiv.org/pdf/2609.25757) |
+| 2026-09-19 | Expert-Play Contouring Control: Faster-than-Demonstration Planning from Slow Expert and Fast Play | Seunghoon Cho, Wonsuhk Jung, Sundhar Vinodh Sangeetha, Shreyas Kousik | [Abstract](https://arxiv.org/abs/2609.22798) · [PDF](https://arxiv.org/pdf/2609.22798) |
+| 2026-09-19 | BEACON: Belief-Enabled Adaptive CONtrol for Imitation Learning under Uncertainty | Moonyoung Lee, Soumojit Bhattacharya, George Kantor, Oliver Kroemer | [Abstract](https://arxiv.org/abs/2609.22730) · [PDF](https://arxiv.org/pdf/2609.22730) |
 | 2026-09-18 | Stabilizing Trajectory Outputs in End-to-End Autonomous Driving via SC-IMM Based Teacher Signals | Siewoo Kim, Seung-Hyun Kong | [Abstract](https://arxiv.org/abs/2609.21404) · [PDF](https://arxiv.org/pdf/2609.21404) |
 | 2026-09-18 | MAAP: Multi-Agent Active Perception for Collaborative Manipulation | Bruno N. Y. Chen, Li Kang, Heng Zhou, Xiufeng Song et al. | [Abstract](https://arxiv.org/abs/2609.21929) · [PDF](https://arxiv.org/pdf/2609.21929) |
 | 2026-09-16 | Missing Bridges: Composition-Aware Active Imitation Learning | Maxwell J. Jacobson, Ahmed H Qureshi, Yexiang Xue | [Abstract](https://arxiv.org/abs/2609.18004) · [PDF](https://arxiv.org/pdf/2609.18004) |
@@ -102,7 +126,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-09-15 | Vision-Language Grounded Task-Context-Aware Imitation Learning for Robotic Disassembly | Jeon Ho Kang, Igal Tamarkin, Ethan Niu, Ian Novales et al. | [Abstract](https://arxiv.org/abs/2609.17714) · [PDF](https://arxiv.org/pdf/2609.17714) |
 | 2026-09-15 | Imitation Learning for Autonomous Driving in CARLA | Jordy Kieto | [Abstract](https://arxiv.org/abs/2609.17757) · [PDF](https://arxiv.org/pdf/2609.17757) |
 | 2026-09-15 | IL-ACT: Imitation Learning with Adaptive Cartesian Tracking Control for a 30-ton Excavator | Mehdi Heydari Shahna, Seihun Kim, Soyi Jung, Soohyun Park et al. | [Abstract](https://arxiv.org/abs/2609.16696) · [PDF](https://arxiv.org/pdf/2609.16696) |
-| 2026-09-14 | ManiSkillFormer: Demonstration-Free Compositional Manipulation via Task-Conditioned Geometric Contracts | Peiqi Yu, Mosam Dabhi, Shangtao Li, Bowei Li et al. | [Abstract](https://arxiv.org/abs/2609.16331) · [PDF](https://arxiv.org/pdf/2609.16331) |
 | 2026-09-14 | Flow-Matched Motion Priors: Online Optimal-Transport Rewards for Imitation Learning | Yilin Zou, Chenghua Liu, Chenglong Wu, Fanghua Jiang | [Abstract](https://arxiv.org/abs/2609.15631) · [PDF](https://arxiv.org/pdf/2609.15631) |
 | 2026-09-14 | Continuous Manifold-Decomposed Impedance Retargeting for Contact-Rich Imitation Learning | Jiahao Liu, Kento Kawaharazuka, Tasuku Makabe, Kei Okada | [Abstract](https://arxiv.org/abs/2609.15716) · [PDF](https://arxiv.org/pdf/2609.15716) |
 | 2026-09-11 | Improving Imitation Learning Efficiency for Manipulation through Geometric Prior Pretraining | Shogo Iwakata, Tomohiro Motoda, Ryosuke Yamada, Koshi Makihara et al. | [Abstract](https://arxiv.org/abs/2609.12721) · [PDF](https://arxiv.org/pdf/2609.12721) |
@@ -122,7 +145,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-28 | S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information | Kaneyoshi Hiratsuka, Benjamin Yen, Ryosuke Kojima | [Abstract](https://arxiv.org/abs/2607.26047) · [PDF](https://arxiv.org/pdf/2607.26047) |
 | 2026-07-23 | GuidedAttention: Interpretable and Correctable Visual Attention for OOD-Robust Robot Manipulation via Imitation Learning | Masaki Murooka, Ryoichi Nakajo, Keisuke Shirai, Tomohiro Motoda et al. | [Abstract](https://arxiv.org/abs/2607.21049) · [PDF](https://arxiv.org/pdf/2607.21049) |
 | 2026-07-15 | Discriminative Barrier Functions for Safe Adversarial Imitation Learning from Observation | Anubhav Vishwakarma, Bhaumik Mehta, Caleb Hsu, Byron Boots et al. | [Abstract](https://arxiv.org/abs/2607.13938) · [PDF](https://arxiv.org/pdf/2607.13938) |
-| 2026-07-11 | Source-Lifted Flow Matching for Intervenable Multimodal Imitation | He Zhang, Ying Sun, Pengteng Li, Ziyang Chen et al. | [Abstract](https://arxiv.org/abs/2607.10206) · [PDF](https://arxiv.org/pdf/2607.10206) |
+| 2026-07-11 | Source-Lifted Flow Matching for Intervenable Multimodal Imitation | He Zhang, Ying Sun, Ziyang Chen, Qicheng Luo et al. | [Abstract](https://arxiv.org/abs/2607.10206) · [PDF](https://arxiv.org/pdf/2607.10206) |
 | 2026-07-10 | More Structure, Not More Capacity: Object-Centric Representations for Visuomotor Imitation Learning | Yi Li, Alexandre Chapin, Liming Chen, Jan Peters et al. | [Abstract](https://arxiv.org/abs/2607.09825) · [PDF](https://arxiv.org/pdf/2607.09825) |
 | 2026-07-08 | SPECTRA: Context-Conditioned Spectral Movement Primitives for Robot Skill Generalization | Boxuan Zhang, Sheng Liu, Chenlin Ming, Ahmed Abdelrahman | [Abstract](https://arxiv.org/abs/2607.06978) · [PDF](https://arxiv.org/pdf/2607.06978) |
 | 2026-06-23 | MinInter: Minimizing Trajectory Interpolation During Data Augmentation for Imitation Learning | Qingyang Wang, Xingang Liu, Changwei Yao, Zikai Ouyang et al. | [Abstract](https://arxiv.org/abs/2606.24078) · [PDF](https://arxiv.org/pdf/2606.24078) |
@@ -147,7 +170,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-05-30 | Infeasible optimization problems and the hierarchical augmented Lagrangian method in imitation learning | Roland Andrews, Justin Carpentier, Ajay Sathya | [Abstract](https://arxiv.org/abs/2606.00730) · [PDF](https://arxiv.org/pdf/2606.00730) |
 | 2026-05-27 | Teacher-Student Representational Alignment for Reinforcement Learning-Driven Imitation Learning | Meraj Mammadov, Pedro Zuidberg Dos Martires, Johannes Andreas Stork | [Abstract](https://arxiv.org/abs/2605.28372) · [PDF](https://arxiv.org/pdf/2605.28372) |
 | 2026-05-22 | Instrumentation for Imitation Learning: Enhancing Training Datasets for Clothes Hanger Insertion | Remko Proesmans, Thomas Lips, Francis wyffels | [Abstract](https://arxiv.org/abs/2605.23847) · [PDF](https://arxiv.org/pdf/2605.23847) |
-| 2026-05-19 | Neuromorphic Control of a Flapping-Wing Robot on Resource-Constrained Hardware | Rim El Filali, Chenrui Feng, Chao Gao, Weibin Gu | [Abstract](https://arxiv.org/abs/2605.19430) · [PDF](https://arxiv.org/pdf/2605.19430) |
+| 2026-05-19 | Spiking Neural Network Control of a Flapping-Wing Robot on Resource-Constrained Hardware | Rim El Filali, Chenrui Feng, Chao Gao, Weibin Gu | [Abstract](https://arxiv.org/abs/2605.19430) · [PDF](https://arxiv.org/pdf/2605.19430) |
 | 2026-05-19 | Beyond Imitation: Learning Safe End-to-End Autonomous Driving from Hard Negatives | Junli Wang, Zhihua Hua, Xueyi Liu, Zebin Xing et al. | [Abstract](https://arxiv.org/abs/2605.19771) · [PDF](https://arxiv.org/pdf/2605.19771) |
 | 2026-05-14 | IntentVLA: Short-Horizon Intent Modeling for Aliased Robot Manipulation | Shijie Lian, Bin Yu, Xiaopeng Lin, Zhaolong Shen et al. | [Abstract](https://arxiv.org/abs/2605.14712) · [PDF](https://arxiv.org/pdf/2605.14712) |
 | 2026-05-12 | X-Imitator: Spatial-Aware Imitation Learning via Bidirectional Action-Pose Interaction | Kai Xiong, Hongjie Fang, Lixin Yang, Cewu Lu | [Abstract](https://arxiv.org/abs/2605.12162) · [PDF](https://arxiv.org/pdf/2605.12162) |
@@ -173,7 +196,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-24 | DecompGrind: A Decomposition Framework for Robotic Grinding via Cutting-Surface Planning and Contact-Force Adaptation | Shunsuke Araki, Takumi Hachimine, Yuki Saito, Kouhei Ohnishi et al. | [Abstract](https://arxiv.org/abs/2603.22859) · [PDF](https://arxiv.org/pdf/2603.22859) |
 | 2026-03-23 | Beyond Viewpoint Generalization: What Multi-View Demonstrations Offer and How to Synthesize Them for Robot Manipulation? | Boyang Cai, Qiwei Liang, Jiawei Li, Shihang Weng et al. | [Abstract](https://arxiv.org/abs/2603.26757) · [PDF](https://arxiv.org/pdf/2603.26757) |
 | 2026-03-19 | Safety-Guaranteed Imitation Learning from Nonlinear Model Predictive Control for Spacecraft Close Proximity Operations | Alexander Meinert, Niklas Baldauf, Peter Stadler, Alen Turnwald | [Abstract](https://arxiv.org/abs/2603.18910) · [PDF](https://arxiv.org/pdf/2603.18910) |
-| 2026-03-16 | MoE-ACT: Scaling Multi-Task Bimanual Manipulation with Sparse Language-Conditioned Mixture-of-Experts Transformers | Kangjun Guo, Haichao Liu, Yanji Sun, Ruhan Zhao et al. | [Abstract](https://arxiv.org/abs/2603.15265) · [PDF](https://arxiv.org/pdf/2603.15265) |
 | 2026-03-13 | Easy-IIL: Reducing Human Operational Burden in Interactive Imitation Learning via Assistant Experts | Chengjie Zhang, Chao Tang, Wenlong Dong, Dehao Huang et al. | [Abstract](https://arxiv.org/abs/2603.12769) · [PDF](https://arxiv.org/pdf/2603.12769) |
 | 2026-03-11 | RC-NF: Robot-Conditioned Normalizing Flow for Real-Time Anomaly Detection in Robotic Manipulation | Shijie Zhou, Bin Zhu, Jiarui Yang, Xiangyu Zhao et al. | [Abstract](https://arxiv.org/abs/2603.11106) · [PDF](https://arxiv.org/pdf/2603.11106) |
 | 2026-03-11 | Lifelong Imitation Learning with Multimodal Latent Replay and Incremental Adjustment | Fanqi Yu, Matteo Tiezzi, Tommaso Apicella, Cigdem Beyan et al. | [Abstract](https://arxiv.org/abs/2603.10929) · [PDF](https://arxiv.org/pdf/2603.10929) |
@@ -246,7 +268,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-09-22 | MotionTrans: Human VR Data Enable Motion-Level Learning for Robotic Manipulation Policies | Chengbo Yuan, Rui Zhou, Mengzhen Liu, Yingdong Hu et al. | [Abstract](https://arxiv.org/abs/2509.17759) · [PDF](https://arxiv.org/pdf/2509.17759) |
 | 2025-09-21 | RoboManipBaselines: A Unified Framework for Imitation Learning in Robotic Manipulation across Real and Simulation Environments | Masaki Murooka, Tomohiro Motoda, Ryoichi Nakajo, Hanbit Oh et al. | [Abstract](https://arxiv.org/abs/2509.17057) · [PDF](https://arxiv.org/pdf/2509.17057) |
 | 2025-09-20 | Learning from Observation: A Survey of Recent Advances | Returaj Burnwal, Hriday Mehta, Nirav Pravinbhai Bhatt, Balaraman Ravindran | [Abstract](https://arxiv.org/abs/2509.19379) · [PDF](https://arxiv.org/pdf/2509.19379) |
-| 2025-09-19 | Improving Robotic Manipulation with Efficient Geometry-Aware Vision Encoder | An Dinh Vuong, Minh Nhat Vu, Ian Reid | [Abstract](https://arxiv.org/abs/2509.15880) · [PDF](https://arxiv.org/pdf/2509.15880) |
 | 2025-09-17 | MIMIC-D: Multi-modal Imitation for MultI-agent Coordination with Decentralized Diffusion Policies | Dayi Dong, Maulik Bhatt, Seoyeon Choi, Negar Mehr | [Abstract](https://arxiv.org/abs/2509.14159) · [PDF](https://arxiv.org/pdf/2509.14159) |
 | 2025-09-15 | Tenma: Robust Cross-Embodiment Robot Manipulation with Diffusion Transformer | Travis Davies, Yiqi Huang, Yunxin Liu, Xiang Chen et al. | [Abstract](https://arxiv.org/abs/2509.11865) · [PDF](https://arxiv.org/pdf/2509.11865) |
 | 2025-09-05 | Learning-Based Planning for Improving Science Return of Earth Observation Satellites | Abigail Breitfeld, Alberto Candela, Juan Delfa, Akseli Kangaslahti et al. | [Abstract](https://arxiv.org/abs/2509.07997) · [PDF](https://arxiv.org/pdf/2509.07997) |
@@ -461,12 +482,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-11 | RoboCLIP: One Demonstration is Enough to Learn Robot Policies | Sumedh A Sontakke, Jesse Zhang, Sébastien M. R. Arnold, Karl Pertsch et al. | [Abstract](https://arxiv.org/abs/2310.07899) · [PDF](https://arxiv.org/pdf/2310.07899) |
 | 2023-10-11 | Imitation Learning from Observation with Automatic Discount Scheduling | Yuyang Liu, Weijun Dong, Yingdong Hu, Chuan Wen et al. | [Abstract](https://arxiv.org/abs/2310.07433) · [PDF](https://arxiv.org/pdf/2310.07433) |
 | 2023-10-09 | TAIL: Task-specific Adapters for Imitation Learning with Large Pretrained Models | Zuxin Liu, Jesse Zhang, Kavosh Asadi, Yao Liu et al. | [Abstract](https://arxiv.org/abs/2310.05905) · [PDF](https://arxiv.org/pdf/2310.05905) |
-| 2023-10-02 | Imitation Learning from Observation through Optimal Transport | Wei-Di Chang, Scott Fujimoto, David Meger, Gregory Dudek | [Abstract](https://arxiv.org/abs/2310.01632) · [PDF](https://arxiv.org/pdf/2310.01632) |
-| 2023-09-29 | Learning Decentralized Flocking Controllers with Spatio-Temporal Graph Neural Network | Siji Chen, Yanshen Sun, Peihan Li, Lifeng Zhou et al. | [Abstract](https://arxiv.org/abs/2309.17437) · [PDF](https://arxiv.org/pdf/2309.17437) |
-| 2023-09-27 | Symbolic Imitation Learning: From Black-Box to Explainable Driving Policies | Iman Sharifi, Mustafa Yildirim, Saber Fallah | [Abstract](https://arxiv.org/abs/2309.16025) · [PDF](https://arxiv.org/pdf/2309.16025) |
-| 2023-09-26 | AirExo: Low-Cost Exoskeletons for Learning Whole-Arm Manipulation in the Wild | Hongjie Fang, Hao-Shu Fang, Yiming Wang, Jieji Ren et al. | [Abstract](https://arxiv.org/abs/2309.14975) · [PDF](https://arxiv.org/pdf/2309.14975) |
-| 2023-09-25 | Hierarchical Imitation Learning for Stochastic Environments | Maximilian Igl, Punit Shah, Paul Mougin, Sirish Srinivasan et al. | [Abstract](https://arxiv.org/abs/2309.14003) · [PDF](https://arxiv.org/pdf/2309.14003) |
-| 2023-09-21 | Learning to Drive Anywhere | Ruizhao Zhu, Peng Huang, Eshed Ohn-Bar, Venkatesh Saligrama | [Abstract](https://arxiv.org/abs/2309.12295) · [PDF](https://arxiv.org/pdf/2309.12295) |
 
 ---
 

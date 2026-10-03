@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Evaluation&specialty=Task%20%26%20Capability%20Benchmarks#research-workbench)
 
-> 24 conference papers · 242 recent arXiv papers
+> 29 conference papers · 254 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (24)
+## Conference papers (29)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Assistant Placement Aria: A Benchmark for Egocentric Placement Assistance | ICRA · Benchmark | [Paper](https://arxiv.org/abs/2608.00652) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697418) |
+| 2026 | Benchmarking and Experimental Validation of a Real-Time Multi-Robot Hybrid Coverage Algorithm for Known Environments | ICRA · Benchmark | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695883) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695883) |
+| 2026 | Benchmarking the Effects of Object Pose Estimation and Reconstruction on Robotic Grasping Success | ICRA · Benchmark | [Paper](https://arxiv.org/abs/2602.17101) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695812) |
+| 2026 | EEG-Driven Intention Decoding: Offline Deep Learning Benchmarking on a Robotic Rover | ICRA · Benchmark | [Paper](https://arxiv.org/abs/2602.20041) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696100) |
+| 2026 | Efficient Real-World Benchmarking for Practical Fine-Grained Product Identification in Retail Robotics for Picking and Stock Taking | ICRA · Benchmark | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696228) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696228) |
 | 2025 | CheckManual: A New Challenge and Benchmark for Manual-based Appliance Manipulation | CVPR · Benchmark | [Paper](https://arxiv.org/abs/2506.09343) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02104) |
 | 2025 | Evaluating Human-Robot Skill Gaps in Electrical Circuit Inspection: A New Electronic Task Board for Benchmarking Manipulation | ICRA · Benchmark | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128714) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128714) |
 | 2025 | Towards Autonomous Data Annotation and System-Agnostic Robotic Grasping Benchmarking with 3D-Printed Fixtures | ICRA · Benchmark | [Paper](https://elib.dlr.de/214540/1/ICRA25_2693_FI_compressed.pdf) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127593) |
@@ -39,14 +44,27 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | The SLAM Hive Benchmarking Suite | ICRA · Benchmark | [Paper](https://arxiv.org/pdf/2303.11854) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160302) |
 | 2023 | Labelling Lightweight Robot Energy Consumption: A Mechatronics-Based Benchmarking Metric Set | IROS · Benchmark | [Paper](https://portal.findresearcher.sdu.dk/da/publications/de0bdfdf-d10d-489c-8b05-c0af5c9aaea5) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341484) |
 | 2023 | RMBench: Benchmarking Deep Reinforcement Learning for Robotic Manipulator Control | IROS · Benchmark | [Paper](https://arxiv.org/pdf/2210.11262) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342479) |
-| 2023 | LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2306.03310) · [Index](https://dblp.org/rec/journals/corr/abs-2306-03310) |
+| 2023 | LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2306.03310) · [Index](https://dblp.org/rec/conf/nips/LiuZGFLZS23) |
 | 2022 | DGBench: An Open-Source, Reproducible Benchmark for Dynamic Grasping | IROS · Benchmark | [Paper](https://arxiv.org/pdf/2204.13879) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981670) |
 | 2022 | Manual Maneuverability: Metrics for Analysing and Benchmarking Kinesthetic Robot Guidance | IROS · Benchmark | [Paper](https://doi.org/10.1109/IROS47612.2022.9981864) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981864) |
 
-## Recent arXiv papers (242)
+## Recent arXiv papers (254)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-01 | HumanoidToolBench: Benchmarking Humanoid Tool Use from Selection to Mobile Execution | Kyochul Jang, Seohyeon Park, Ohchul Kwon, Sangjun Park et al. | [Abstract](https://arxiv.org/abs/2610.02089) · [PDF](https://arxiv.org/pdf/2610.02089) |
+| 2026-09-30 | MIKASA-Robo-VLA: Benchmarking Memory in VLA Models for Long-Horizon Manipulation | Egor Cherepanov, Nikita Kachaev, Aleksandr I. Panov, Alexey K. Kovalev | [Abstract](https://arxiv.org/abs/2610.00604) · [PDF](https://arxiv.org/pdf/2610.00604) |
+| 2026-09-30 | Benchmarking EMlog Calibration for Autonomous Surface Vehicles | Samuel Cohen-Salmon, Itzik Klein | [Abstract](https://arxiv.org/abs/2609.39203) · [PDF](https://arxiv.org/pdf/2609.39203) |
+| 2026-09-30 | Benchmarking and Enhancing Skill-Level Memory for Partially Observable Robotic Manipulation | Yansong Shi, Jiange Yang, Xijie Yang, Shaowei Zhang et al. | [Abstract](https://arxiv.org/abs/2609.38886) · [PDF](https://arxiv.org/pdf/2609.38886) |
+| 2026-09-29 | TALK-Dem: Benchmarking Embodied Task Planning under Dementia-Associated Communication Patterns | Guangxin Zhao, Yiran Hu, Yuan Cao, Chenxi Jiang et al. | [Abstract](https://arxiv.org/abs/2609.38371) · [PDF](https://arxiv.org/pdf/2609.38371) |
+| 2026-09-29 | Recovering the View: Benchmarking Physical Active Vision for Occlusion Recovery in Robotic Manipulation | Kaijun Luo, Yudi Huang, Qijun Zhong, Xinshuai Song et al. | [Abstract](https://arxiv.org/abs/2609.37292) · [PDF](https://arxiv.org/pdf/2609.37292) |
+| 2026-09-27 | Traceable Human-to-Humanoid Sign Language Benchmarking | Ao Liu, Shengeng Tang, Lechao Cheng, Yanbin Hao et al. | [Abstract](https://arxiv.org/abs/2609.33354) · [PDF](https://arxiv.org/pdf/2609.33354) |
+| 2026-09-26 | MemTransfer: Benchmarking Memory Beyond Matched Experience in Embodied Decision-Making | Haiming Tang, Xianjie Dai, Gujie Shao, Zuyi Guo et al. | [Abstract](https://arxiv.org/abs/2609.32313) · [PDF](https://arxiv.org/pdf/2609.32313) |
+| 2026-09-24 | RoboRecover: Benchmarking Robot Policy Recovery under Execution Deviations | Yang Li, Chen Zhao, Zhuoran Wang, Jiankang Wang et al. | [Abstract](https://arxiv.org/abs/2609.28952) · [PDF](https://arxiv.org/pdf/2609.28952) |
+| 2026-09-22 | NavSafe-$\infty$: Benchmarking Closed-Loop Driving Safety in Photorealistic Environments | Yuxin Bao, Hongwei Ruan, Luobin Wang, Seth Z. Zhao et al. | [Abstract](https://arxiv.org/abs/2609.26618) · [PDF](https://arxiv.org/pdf/2609.26618) |
+| 2026-09-22 | Benchmarking Robots for Everyday Environments: From Lab Experiments to Real-World Operations | Raphael Memmesheimer, Martina Overbeck, Dominik Beyer, Björn Kral et al. | [Abstract](https://arxiv.org/abs/2609.26490) · [PDF](https://arxiv.org/pdf/2609.26490) |
+| 2026-09-21 | ActiveArena: Benchmarking and Understanding Active Perception in Robotic Manipulation | Yibo Li, Enshen Zhou, Rui Chen, Yanjun Ding et al. | [Abstract](https://arxiv.org/abs/2609.24124) · [PDF](https://arxiv.org/pdf/2609.24124) |
+| 2026-09-19 | ARCGym: Benchmarking Deep Reinforcement Learning in Autonomous Robotic Colonoscopy | Guanglin Ji, Martina Finocchiaro, Kenny Erleben, Hang Yin | [Abstract](https://arxiv.org/abs/2609.22803) · [PDF](https://arxiv.org/pdf/2609.22803) |
 | 2026-09-18 | Benchmarking World Models for Continual Learning on Compositional Tasks | Haoyu Zhou, Joe Watson, Anson Lei, Ingmar Posner | [Abstract](https://arxiv.org/abs/2609.22055) · [PDF](https://arxiv.org/pdf/2609.22055) |
 | 2026-09-17 | From Intent to Action: Benchmarking LLM Safety in Vehicle Voice Command Authorization | Diba Afroze, Xingli Zhang, Yazhou Tu, Xiali Hei | [Abstract](https://arxiv.org/abs/2609.19630) · [PDF](https://arxiv.org/pdf/2609.19630) |
 | 2026-09-16 | DynoFluxBench: Benchmarking Kinodynamic Space-Time Planners in Dynamic Environments | Franz Queißner, Andreas Orthey, Wolfgang Hönig | [Abstract](https://arxiv.org/abs/2609.18549) · [PDF](https://arxiv.org/pdf/2609.18549) |
@@ -72,6 +90,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-22 | KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding | Zeyu Liu, Zhangzhe Zhu, Yang Zhang, Chenyou Fan et al. | [Abstract](https://arxiv.org/abs/2607.19876) · [PDF](https://arxiv.org/pdf/2607.19876) |
 | 2026-07-15 | nuTruck: Benchmarking Autonomous Driving Planning for Distributed Electric-drive Trucks | Jinyu Miao, Pu Zhang, Yifei He, Chengyao Zhang et al. | [Abstract](https://arxiv.org/abs/2607.13704) · [PDF](https://arxiv.org/pdf/2607.13704) |
 | 2026-07-15 | Beyond Visual Grasping: Benchmarking Complex Grasping from Detection to Execution | Hanyi Zhang, Khang Nguyen, Charith Munasinghe, Basu Hela et al. | [Abstract](https://arxiv.org/abs/2607.14341) · [PDF](https://arxiv.org/pdf/2607.14341) |
+| 2026-07-09 | Bounded-Fidelity Sim-as-Demo-Stage: Mocap Handoff for Governance Benchmarks | Xue Qin, Simin Luan, Cong Yang, Zhijun Li | [Abstract](https://arxiv.org/abs/2610.00008) · [PDF](https://arxiv.org/pdf/2610.00008) |
 | 2026-07-05 | HRIBench: Benchmarking Interaction-Centric Human-Robot Collaboration | Chang Liu, Jiawei Zhang, Tao Zhang, Ye Wang et al. | [Abstract](https://arxiv.org/abs/2607.13056) · [PDF](https://arxiv.org/pdf/2607.13056) |
 | 2026-06-25 | Learning to Fold: prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline) | Ilia Larchenko | [Abstract](https://arxiv.org/abs/2606.27163) · [PDF](https://arxiv.org/pdf/2606.27163) |
 | 2026-06-24 | NavIsaacLab: Generating Realistic Crowd via Parallel Robot Learning for Benchmarking Human-aware Navigation | Bingyi Xia, Han Bao, Jingyu Zhu, Hanjing Ye et al. | [Abstract](https://arxiv.org/abs/2606.26265) · [PDF](https://arxiv.org/pdf/2606.26265) |
@@ -287,8 +306,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-16 | A Novel Benchmarking Paradigm and a Scale- and Motion-Aware Model for Egocentric Pedestrian Trajectory Prediction | Amir Rasouli | [Abstract](https://arxiv.org/abs/2310.10424) · [PDF](https://arxiv.org/pdf/2310.10424) |
 | 2023-10-11 | CRITERIA: a New Benchmarking Paradigm for Evaluating Trajectory Prediction Models for Autonomous Driving | Changhe Chen, Mozhgan Pourkeshavarz, Amir Rasouli | [Abstract](https://arxiv.org/abs/2310.07794) · [PDF](https://arxiv.org/pdf/2310.07794) |
 | 2023-10-09 | Human-Robot Gym: Benchmarking Reinforcement Learning in Human-Robot Collaboration | Jakob Thumm, Felix Trost, Matthias Althoff | [Abstract](https://arxiv.org/abs/2310.06208) · [PDF](https://arxiv.org/pdf/2310.06208) |
-| 2023-09-22 | Exposing the Unseen: Exposure Time Emulation for Offline Benchmarking of Vision Algorithms | Olivier Gamache, Jean-Michel Fortin, Matěj Boxan, Maxime Vaidis et al. | [Abstract](https://arxiv.org/abs/2309.13139) · [PDF](https://arxiv.org/pdf/2309.13139) |
-| 2023-09-21 | On the relationship between Benchmarking, Standards and Certification in Robotics and AI | Alan F. T. Winfield, Matthew Studley | [Abstract](https://arxiv.org/abs/2309.12139) · [PDF](https://arxiv.org/pdf/2309.12139) |
 
 ---
 

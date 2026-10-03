@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Imitation%20%26%20Demonstration%20Learning&specialty=Learning%20from%20Demonstration#research-workbench)
 
-> 18 conference papers · 126 recent arXiv papers
+> 23 conference papers · 125 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (18)
+## Conference papers (23)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Actron3D: Learning Actionable Neural Functions from Videos for Transferable Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2510.12971) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697134) |
+| 2026 | Failure Identification in Imitation Learning via Statistical and Semantic Filtering | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2604.13788) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696900) |
+| 2026 | GIFT: Geometry-Induced Functional Transfer for Category-level Object Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2503.15371) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696491) |
+| 2026 | Scaling Single Human Demonstrations for Imitation Learning using Generative Foundational Models | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2602.12734) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697256) |
+| 2026 | Video-to-BT: Generating Reactive Behavior Trees from Human Demonstration Videos for Robotic Assembly | ICRA · Assembly | [Paper](https://arxiv.org/abs/2509.16611) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697420) |
 | 2025 | Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation | CVPR · Manipulation | [Paper](https://arxiv.org/abs/2406.14235) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02100) |
 | 2025 | Chain-of-Modality: Learning Manipulation Programs from Multimodal Human Videos with Vision-Language-Models | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2504.13351) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128270) |
 | 2025 | Enhanced View Planning for Robotic Harvesting: Tackling Occlusions with Imitation Learning | ICRA · Imitation Learning | [Paper](https://hdl.handle.net/11370/60b6d600-ec48-4bd3-b8b1-80bf93c88a17) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127892) |
@@ -37,10 +42,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Understanding Acoustic Patterns of Human Teachers Demonstrating Manipulation Tasks to Robots | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2211.00352) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981053) |
 | 2022 | Use of Action Label in Deep Predictive Learning for Robot Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982091) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982091) |
 
-## Recent arXiv papers (126)
+## Recent arXiv papers (125)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-01 | Recova: Agent-Guided Failure Recovery for Autonomous Robotic Manipulation | Isabella Liu, An-Chieh Cheng, Johan Bjorck, Zhiding Yu et al. | [Abstract](https://arxiv.org/abs/2610.01178) · [PDF](https://arxiv.org/pdf/2610.01178) |
+| 2026-09-22 | PhyVisGen: Physically and Visually High-Fidelity Robotic Manipulation Data Generation | Yu Zheng, Qiyu Feng, Yixin Wu, Baoquan Yang et al. | [Abstract](https://arxiv.org/abs/2609.25653) · [PDF](https://arxiv.org/pdf/2609.25653) |
 | 2026-09-18 | KnowDemo: Knowledge-Guided Robot Demonstration Generation from Human Videos | Zhiyuan Gao, Yanxiang Zhan, Mohammad Khoshnazar, Jeroen Schäfer et al. | [Abstract](https://arxiv.org/abs/2609.21229) · [PDF](https://arxiv.org/pdf/2609.21229) |
 | 2026-08-25 | One-Shot Learning from Demonstration of Contact-Rich Robotic Manipulation by Identifying Physical Interactions | A. H. G. Overbeek, H. van der Kooij, M. Vlutters | [Abstract](https://arxiv.org/abs/2608.24741) · [PDF](https://arxiv.org/pdf/2608.24741) |
 | 2026-08-25 | Longitudinal Robot Learning from Demonstration with Care Providers in a Home Environment | Nina Moorman, Julianna Schalkwyk, Vriksha Srihari, Qingyu Xiao et al. | [Abstract](https://arxiv.org/abs/2608.25196) · [PDF](https://arxiv.org/pdf/2608.25196) |
@@ -164,9 +171,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-21 | Cold Diffusion on the Replay Buffer: Learning to Plan from Known Good States | Zidan Wang, Takeru Oba, Takuma Yoneda, Rui Shen et al. | [Abstract](https://arxiv.org/abs/2310.13914) · [PDF](https://arxiv.org/pdf/2310.13914) |
 | 2023-10-19 | How Can Everyday Users Efficiently Teach Robots by Demonstrations? | Maram Sakr, Zhikai Zhang, Benjamin Li, Haomiao Zhang et al. | [Abstract](https://arxiv.org/abs/2310.13083) · [PDF](https://arxiv.org/pdf/2310.13083) |
 | 2023-10-15 | Auto-LfD: Towards Closing the Loop for Learning from Demonstrations | Shaokang Wu, Yijin Wang, Yanlong Huang | [Abstract](https://arxiv.org/abs/2310.09791) · [PDF](https://arxiv.org/pdf/2310.09791) |
-| 2023-09-30 | Obstacles and Opportunities for Learning from Demonstration in Practical Industrial Assembly: A Systematic Literature Review | V. Hernandez Moreno, S. Jansing, M. Polikarpov, M. G. Carmichael et al. | [Abstract](https://arxiv.org/abs/2310.00276) · [PDF](https://arxiv.org/pdf/2310.00276) |
-| 2023-09-26 | A Structured Prediction Approach for Robot Imitation Learning | Anqing Duan, Iason Batzianoulis, Raffaello Camoriano, Lorenzo Rosasco et al. | [Abstract](https://arxiv.org/abs/2309.14829) · [PDF](https://arxiv.org/pdf/2309.14829) |
-| 2023-09-22 | Robotic Handling of Compliant Food Objects by Robust Learning from Demonstration | Ekrem Misimi, Alexander Olofsson, Aleksander Eilertsen, Elling Ruud Øye et al. | [Abstract](https://arxiv.org/abs/2309.12856) · [PDF](https://arxiv.org/pdf/2309.12856) |
 
 ---
 

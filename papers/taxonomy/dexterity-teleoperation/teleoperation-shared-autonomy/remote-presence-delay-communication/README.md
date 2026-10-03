@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Autonomy&specialty=Remote%20Presence%2C%20Delay%20%26%20Communication#research-workbench)
 
-> 2 conference papers · 40 recent arXiv papers
+> 3 conference papers · 40 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (2)
+## Conference papers (3)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Cobalt: Crowdsourcing Robot Learning via Cloud-Based Teleoperation with Smartphones | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2605.19138) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695941) |
 | 2024 | Autonomous and Teleoperation Control of a Drawing Robot Avatar | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2407.20156) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610310) |
 | 2024 | Exploring Cognitive Load Dynamics in Human-Machine Interaction for Teleoperation: A User-Centric Perspective on Remote Operation System Design | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802226) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802226) |
 

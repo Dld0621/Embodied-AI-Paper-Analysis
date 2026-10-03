@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Hardware%20%26%20Morphology&specialty=Actuators%2C%20Joints%20%26%20Transmission#research-workbench)
 
-> 1 conference papers · 27 recent arXiv papers
+> 1 conference papers · 28 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,14 +20,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | JiAo: A Versatile Snake Robot with Elliptical Wheels for Multimodal Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11247509) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247509) |
 
-## Recent arXiv papers (27)
+## Recent arXiv papers (28)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-29 | From Sky to Soil: A Morphing Aerial-Ground Robot for Seed Deployment | Namai Chandra, Lining Yao | [Abstract](https://arxiv.org/abs/2609.37072) · [PDF](https://arxiv.org/pdf/2609.37072) |
+| 2026-09-24 | A Tendon-Driven Robotic Jellyfish with Constrained Soft Actuation and Depth Control via Reinforcement Learning | Jiarui Peng, Yutong Wu, Zelong Wang, Ping Deng et al. | [Abstract](https://arxiv.org/abs/2609.29132) · [PDF](https://arxiv.org/pdf/2609.29132) |
+| 2026-09-20 | Design and Control of a Cable-Driven Switchable Actuator with Torque/Tension Dual Modes for Exoskeletons | YuanLong Ji, Xu Liu, Xinyuan Cai, Qihan Ye et al. | [Abstract](https://arxiv.org/abs/2609.23487) · [PDF](https://arxiv.org/pdf/2609.23487) |
 | 2026-08-14 | Real-time Estimator of Actuator Control and Health (REACH) on an Eel-Inspired Soft Robot | Zhangjingyi Jiang, Myungsun Park, Michael T. Tolley, Mark Campbell | [Abstract](https://arxiv.org/abs/2608.14865) · [PDF](https://arxiv.org/pdf/2608.14865) |
 | 2026-06-14 | TO-SoFiT: Topology Optimization of Hydraulic Soft Fish Tail Design for programmable undulating locomotion | A Padmaprabhan, Amal Shaji, Prabhat Kumar | [Abstract](https://arxiv.org/abs/2606.15645) · [PDF](https://arxiv.org/pdf/2606.15645) |
 | 2026-03-28 | Design of an In-Pipe Robot with Contact-Angle-Guided Kinematic Decoupling for Crosstalk-Suppressed Locomotion | Min Yang, Yang Tian, Longchuang Li, Jun Ma et al. | [Abstract](https://arxiv.org/abs/2603.27245) · [PDF](https://arxiv.org/pdf/2603.27245) |
-| 2026-01-29 | Macro-Scale Electrostatic Origami Motor | Alex S. Miller, Leo McElroy, Jeffrey H. Lang | [Abstract](https://arxiv.org/abs/2601.21976) · [PDF](https://arxiv.org/pdf/2601.21976) |
 | 2026-01-27 | RhoMorph: Rhombus-shaped Deformable Modular Robots for Stable, Medium-Independent Reconfiguration Motion | Jie Gu, Yirui Sun, Zhihao Xia, Tin Lun Lam et al. | [Abstract](https://arxiv.org/abs/2601.19529) · [PDF](https://arxiv.org/pdf/2601.19529) |
 | 2025-12-17 | Load-Based Variable Transmission Mechanism for Robotic Applications | Sinan Emre, Victor Barasuol, Matteo Villa, Claudio Semini | [Abstract](https://arxiv.org/abs/2512.15448) · [PDF](https://arxiv.org/pdf/2512.15448) |
 | 2025-12-12 | Untethered thin dielectric elastomer actuated soft robot | Xi Wang, Jing Liu, Siqian Li, Hengtai Dai et al. | [Abstract](https://arxiv.org/abs/2512.17940) · [PDF](https://arxiv.org/pdf/2512.17940) |
@@ -50,7 +52,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-08 | Learning to Control Emulated Muscles in Real Robots: Towards Exploiting Bio-Inspired Actuator Morphology | Pierre Schumacher, Lorenz Krause, Jan Schneider, Dieter Büchler et al. | [Abstract](https://arxiv.org/abs/2402.05371) · [PDF](https://arxiv.org/pdf/2402.05371) |
 | 2023-10-17 | Origami-inspired Bi-directional Actuator with Orthogonal Actuation | Shuai Liu, Sheeraz Athar, Michael Yu Wang | [Abstract](https://arxiv.org/abs/2310.10959) · [PDF](https://arxiv.org/pdf/2310.10959) |
 | 2023-10-15 | Self-Sustained And Coordinated Rhythmic Deformations With SMA For Controller-Free Locomotion | Ziyang Zhou, Suyi Li | [Abstract](https://arxiv.org/abs/2310.09913) · [PDF](https://arxiv.org/pdf/2310.09913) |
-| 2023-09-29 | NASU -- Novel Actuating Screw Unit: Origami-inspired Screw-based Propulsion on Mobile Ground Robots | Calvin Joyce, Jason Lim, Roger Nguyen, Michael Owens et al. | [Abstract](https://arxiv.org/abs/2310.00184) · [PDF](https://arxiv.org/pdf/2310.00184) |
 
 ---
 

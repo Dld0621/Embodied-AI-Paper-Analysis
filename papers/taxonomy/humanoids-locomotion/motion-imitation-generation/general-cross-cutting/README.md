@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Motion%20Imitation%20%26%20Generation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 1 conference papers · 28 recent arXiv papers
+> 1 conference papers · 31 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,21 +20,24 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | LocoVR: Multiuser Indoor Locomotion Dataset in Virtual Reality | ICLR · Locomotion | [Paper](https://arxiv.org/abs/2410.06437) · [Index](https://dblp.org/rec/conf/iclr/TakeyamaLS25) |
 
-## Recent arXiv papers (28)
+## Recent arXiv papers (31)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-30 | DiFF: Doppler-informed Flow Matching for Human Motion Flow | Kai Wang, Mingle Zhao | [Abstract](https://arxiv.org/abs/2609.39098) · [PDF](https://arxiv.org/pdf/2609.39098) |
+| 2026-09-29 | Comparing Utility of Inertial, Occupancy, Semantic, and Intent Information in Human Motion Prediction During Daily Tasks | Max Burns, Maisha Khanum, Monroe Kennedy, Steven H. Collins | [Abstract](https://arxiv.org/abs/2609.37971) · [PDF](https://arxiv.org/pdf/2609.37971) |
+| 2026-09-26 | Skeletons in Flow: Graph Structured Flow Matching for Human Motion Prediction | Yixuan Wang, Brandon C. Fallin, Warren E. Dixon | [Abstract](https://arxiv.org/abs/2609.32231) · [PDF](https://arxiv.org/pdf/2609.32231) |
+| 2026-09-26 | Human Motion Prediction for Human-Robot Collaboration | Placido Falqueto, Elena Basei, Edoardo Lamon, Giovanni Perantoni et al. | [Abstract](https://arxiv.org/abs/2609.32346) · [PDF](https://arxiv.org/pdf/2609.32346) |
 | 2026-07-17 | EgoExoMoCap: Distributed Ego-Exo Human Motion Capture | Jiaxi Jiang, Bharat Lal Bhatnagar, Nan Yang, Lingni Ma et al. | [Abstract](https://arxiv.org/abs/2607.15868) · [PDF](https://arxiv.org/pdf/2607.15868) |
 | 2026-04-03 | Joint Prediction of Human Motions and Actions in Human-Robot Collaboration | Alessandra Bulanti, Alessandro Carfì, Fulvio Mastrogiovanni | [Abstract](https://arxiv.org/abs/2604.03065) · [PDF](https://arxiv.org/pdf/2604.03065) |
 | 2026-03-17 | Ground Reaction Inertial Poser: Physics-based Human Motion Capture from Sparse IMUs and Insole Pressure Sensors | Ryosuke Hori, Jyun-Ting Song, Zhengyi Luo, Jinkun Cao et al. | [Abstract](https://arxiv.org/abs/2603.16233) · [PDF](https://arxiv.org/pdf/2603.16233) |
 | 2026-03-08 | Toward Global Intent Inference for Human Motion by Inverse Reinforcement Learning | Sarmad Mehrdad, Maxime Sabbah, Vincent Bonnet, Ludovic Righetti | [Abstract](https://arxiv.org/abs/2603.07797) · [PDF](https://arxiv.org/pdf/2603.07797) |
-| 2026-03-07 | Towards Scalable Probabilistic Human Motion Prediction with Gaussian Processes for Safe Human-Robot Collaboration | Jinger Chong, Xiaotong Zhang, Kamal Youcef-Toumi | [Abstract](https://arxiv.org/abs/2603.07096) · [PDF](https://arxiv.org/pdf/2603.07096) |
+| 2026-03-07 | Structured Multitask Gaussian Processes for Probabilistic Full-Body Human Motion Prediction | Jinger Chong, Xiaotong Zhang, Kamal Youcef-Toumi | [Abstract](https://arxiv.org/abs/2603.07096) · [PDF](https://arxiv.org/pdf/2603.07096) |
 | 2025-12-15 | PrediFlow: A Flow-Based Prediction-Refinement Framework for Real-Time Human Motion Prediction in Human-Robot Collaboration | Sibo Tian, Minghui Zheng, Xiao Liang | [Abstract](https://arxiv.org/abs/2512.13903) · [PDF](https://arxiv.org/pdf/2512.13903) |
 | 2025-11-05 | Unconscious and Intentional Human Motion Cues for Expressive Robot-Arm Motion Design | Taito Tashiro, Tomoko Yonezawa, Hirotake Yamazoe | [Abstract](https://arxiv.org/abs/2511.03676) · [PDF](https://arxiv.org/pdf/2511.03676) |
 | 2025-10-03 | Long-Term Human Motion Prediction Using Spatio-Temporal Maps of Dynamics | Yufei Zhu, Andrey Rudenko, Tomasz P. Kucner, Achim J. Lilienthal et al. | [Abstract](https://arxiv.org/abs/2510.03031) · [PDF](https://arxiv.org/pdf/2510.03031) |
 | 2025-08-26 | Deep Sensorimotor Control by Imitating Predictive Models of Human Motion | Himanshu Gaurav Singh, Pieter Abbeel, Jitendra Malik, Antonio Loquercio | [Abstract](https://arxiv.org/abs/2508.18691) · [PDF](https://arxiv.org/pdf/2508.18691) |
 | 2025-07-19 | Uncertainty-aware Probabilistic 3D Human Motion Forecasting via Invertible Networks | Yue Ma, Kanglei Zhou, Fuyang Yu, Frederick W. B. Li et al. | [Abstract](https://arxiv.org/abs/2507.14694) · [PDF](https://arxiv.org/pdf/2507.14694) |
-| 2025-05-30 | MotionPersona: Characteristics-aware Locomotion Control | Mingyi Shi, Wei Liu, Jidong Mei, Wangpok Tse et al. | [Abstract](https://arxiv.org/abs/2506.00173) · [PDF](https://arxiv.org/pdf/2506.00173) |
 | 2025-05-09 | Collecting Human Motion Data in Large and Occlusion-Prone Environments using Ultra-Wideband Localization | Janik Kaden, Maximilian Hilger, Tim Schreiter, Marius Schaab et al. | [Abstract](https://arxiv.org/abs/2505.05851) · [PDF](https://arxiv.org/pdf/2505.05851) |
 | 2025-02-09 | AToM: Adaptive Theory-of-Mind-Based Human Motion Prediction in Long-Term Human-Robot Interactions | Yuwen Liao, Muqing Cao, Xinhang Xu, Lihua Xie | [Abstract](https://arxiv.org/abs/2502.05792) · [PDF](https://arxiv.org/pdf/2502.05792) |
 | 2025-02-08 | Generating Physically Realistic and Directable Human Motions from Multi-Modal Inputs | Aayam Shrestha, Pan Liu, German Ros, Kai Yuan et al. | [Abstract](https://arxiv.org/abs/2502.05641) · [PDF](https://arxiv.org/pdf/2502.05641) |

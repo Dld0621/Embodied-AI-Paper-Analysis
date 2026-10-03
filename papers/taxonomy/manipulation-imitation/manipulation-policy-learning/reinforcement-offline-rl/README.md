@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Manipulation%20Policy%20Learning&specialty=Reinforcement%20%26%20Offline%20RL#research-workbench)
 
-> 55 conference papers · 329 recent arXiv papers
+> 62 conference papers · 329 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (55)
+## Conference papers (62)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | 3D Printable Soft Liquid Metal Sensors for Delicate Manipulation Tasks | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2509.17389) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697076) |
+| 2026 | E2DT: Efficient and Effective Decision Transformer with Experience-Aware Sampling for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2605.00159) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697030) |
+| 2026 | Efficient Hierarchical Reinforcement Learning with Dynamic Kolmogorov–Arnold Network for Long-Horizon Robotic Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696192) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696192) |
+| 2026 | Failure-Aware RL: Reliable Offline-to-Online Reinforcement Learning with Self-Recovery for Real-World Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2601.07821) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697475) |
+| 2026 | Knowledge-Guided Manipulation Using Multi-Task Reinforcement Learning | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2603.24083) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696244) |
+| 2026 | RM-RL: Role-Model Reinforcement Learning for Precise Robot Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2510.15189) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696065) |
+| 2026 | Using Non-Expert Data to Robustify Imitation Learning via Offline Reinforcement Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2510.19495) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696132) |
 | 2025 | GWM: Towards Scalable Gaussian World Models for Robotic Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/abs/2508.17600) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00865) |
 | 2025 | RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/pdf/2505.01709) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01354) |
 | 2025 | Multi-Stage Manipulation with Demonstration-Augmented Reward, Policy, and World Model Learning | ICML · Manipulation | [Paper](https://arxiv.org/abs/2503.01837) · [Index](https://dblp.org/rec/journals/corr/abs-2503-01837) |
@@ -25,7 +32,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Composing Dextrous Grasping and In-Hand Manipulation via Scoring with a Reinforcement Learning Critic | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2505.13253) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127792) |
 | 2025 | Da-Vil: Adaptive Dual-Arm Manipulation with Reinforcement Learning and Variable Impedance Control | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2410.19712) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127487) |
 | 2025 | Hierarchical Visual Policy Learning for Long-Horizon Robot Manipulation in Densely Cluttered Scenes | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128752) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128752) |
-| 2025 | Learning From Imperfect Demonstrations With Self-Supervision for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2401.08957) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127918) |
+| 2025 | Learning From Imperfect Demonstrations With Self-Supervision for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2401.08957) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127918) |
 | 2025 | Augmenting robotic disassembly skill: combining compliance control strategy with reinforcement learning for twist-pulling disassembly * | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS60139.2025.11246037) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246037) |
 | 2025 | CageCoOpt: Enhancing Manipulation Robustness through Caging-Guided Morphology and Policy Co-Optimization | IROS · Manipulation | [Paper](https://arxiv.org/abs/2409.11113) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246485) |
 | 2025 | Complex Robotic Manipulation via Hindsight Goal Diffusion and Graph-based Experience Replay | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11247131) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247131) |
@@ -72,12 +79,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Graph-Structured Policy Learning for Multi-Goal Manipulation Tasks | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2207.11313) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981295) |
 | 2022 | How to Spend Your Robot Time: Bridging Kickstarting and Offline Reinforcement Learning for Vision-based Robotic Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2205.03353) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981126) |
 | 2022 | Learning Object Manipulation Skills from Video via Approximate Differentiable Physics | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2208.01960) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982084) |
-| 2022 | Learning to Grasp on the Moon from 3D Octree Observations with Deep Reinforcement Learning | IROS · Grasp | [Paper](https://orbilu.uni.lu/handle/10993/51908) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981661) |
+| 2022 | Learning to Grasp on the Moon from 3D Octree Observations with Deep Reinforcement Learning | IROS · Grasp | [Paper](https://vbn.aau.dk/da/publications/02da444c-b2e1-4928-8567-bf5acb6abcae) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981661) |
 
 ## Recent arXiv papers (329)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-29 | ReF-HIL: Shaping the Critic around Human Action Neighborhoods for Efficient Human-in-the-Loop Reinforcement Learning | Shaoyin Luo, Song Wang, Shibo Xia, Tianle Zhang et al. | [Abstract](https://arxiv.org/abs/2609.37131) · [PDF](https://arxiv.org/pdf/2609.37131) |
+| 2026-09-29 | PreferenceFlow: Test-Time Guidance of Flow-Matching Robot Policies from Human Interventions | Yiqi Tang, Diyuan Shi, Runze Li, Donglin Wang | [Abstract](https://arxiv.org/abs/2609.36872) · [PDF](https://arxiv.org/pdf/2609.36872) |
+| 2026-09-28 | X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets | Prithwish Dan, Chenyang Ma, Wei Zhan | [Abstract](https://arxiv.org/abs/2609.35715) · [PDF](https://arxiv.org/pdf/2609.35715) |
+| 2026-09-27 | ZeroBot: Learning from Scratch in Minutes with Generative Real2Sim | Ivan Kapelyukh, Xiaohan Zhang, Stephen James, Laura Herlant et al. | [Abstract](https://arxiv.org/abs/2609.34010) · [PDF](https://arxiv.org/pdf/2609.34010) |
+| 2026-09-27 | SwingRL: Adaptive Observation Reinforcement Learning with World-Model Prediction for Cable-Suspended Hoisting Control | Guangming Wang, Xiaoyu Zhang, Yucheng Xin, Wanli Ma et al. | [Abstract](https://arxiv.org/abs/2609.33053) · [PDF](https://arxiv.org/pdf/2609.33053) |
+| 2026-09-24 | Res-HIL: Human-Guided Residual Reinforcement Learning for Sample-Efficient Dexterous Manipulation | Mariia Iavorskaia, Christian Dietz, Sebastian Albrecht, Majid Khadiv | [Abstract](https://arxiv.org/abs/2609.30023) · [PDF](https://arxiv.org/pdf/2609.30023) |
+| 2026-09-22 | PAKT: Physically-Aligned Kinesthetic Teaching for Reinforcement Learning | Lars Johannsmeier, Yashraj Narang | [Abstract](https://arxiv.org/abs/2609.25630) · [PDF](https://arxiv.org/pdf/2609.25630) |
 | 2026-09-18 | Scaling Vision-Language Reward Learning for Robot Manipulation in Parallel Simulation | Lobna Joualy, Eric Demeester, Nikolaos Tsiogkas | [Abstract](https://arxiv.org/abs/2609.21767) · [PDF](https://arxiv.org/pdf/2609.21767) |
 | 2026-09-17 | MetaPusher: Meta Learning and Planning for Nonprehensile Manipulation of Unseen Objects with Rapid Online Adaption | Donghyung Lee, Seyedali Golestaneh, Jaskrit Singh, Zhuoyun Zhong et al. | [Abstract](https://arxiv.org/abs/2609.21122) · [PDF](https://arxiv.org/pdf/2609.21122) |
 | 2026-09-17 | AnyViewDex: View-Invariant Dexterous Manipulation from RGB Observations | Soham Patil, Om Sanjay Gunjal, Sourabh Bhosale, Arhan Chavare et al. | [Abstract](https://arxiv.org/abs/2609.20107) · [PDF](https://arxiv.org/pdf/2609.20107) |
@@ -400,13 +414,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-23 | Enhancing Robotic Manipulation: Harnessing the Power of Multi-Task Reinforcement Learning and Single Life Reinforcement Learning in Meta-World | Ghadi Nehme, Ishan Sabane, Tejas Y. Deo | [Abstract](https://arxiv.org/abs/2311.12854) · [PDF](https://arxiv.org/pdf/2311.12854) |
 | 2023-10-05 | RGBManip: Monocular Image-based Robotic Manipulation through Active Object Pose Estimation | Boshi An, Yiran Geng, Kai Chen, Xiaoqi Li et al. | [Abstract](https://arxiv.org/abs/2310.03478) · [PDF](https://arxiv.org/pdf/2310.03478) |
 | 2023-10-03 | Learning and reusing primitive behaviours to improve Hindsight Experience Replay sample efficiency | Francisco Roldan Sanchez, Qiang Wang, David Cordova Bulens, Kevin McGuinness et al. | [Abstract](https://arxiv.org/abs/2310.01827) · [PDF](https://arxiv.org/pdf/2310.01827) |
-| 2023-10-02 | BeBOP -- Combining Reactive Planning and Bayesian Optimization to Solve Robotic Manipulation Tasks | Jonathan Styrud, Matthias Mayr, Erik Hellsten, Volker Krueger et al. | [Abstract](https://arxiv.org/abs/2310.00971) · [PDF](https://arxiv.org/pdf/2310.00971) |
-| 2023-09-27 | GAMMA: Graspability-Aware Mobile MAnipulation Policy Learning based on Online Grasping Pose Fusion | Jiazhao Zhang, Nandiraju Gireesh, Jilong Wang, Xiaomeng Fang et al. | [Abstract](https://arxiv.org/abs/2309.15459) · [PDF](https://arxiv.org/pdf/2309.15459) |
-| 2023-09-25 | MoDem-V2: Visuo-Motor World Models for Real-World Robot Manipulation | Patrick Lancaster, Nicklas Hansen, Aravind Rajeswaran, Vikash Kumar | [Abstract](https://arxiv.org/abs/2309.14236) · [PDF](https://arxiv.org/pdf/2309.14236) |
-| 2023-09-25 | Hierarchical Reinforcement Learning Based on Planning Operators | Jing Zhang, Emmanuel Dean, Karinne Ramirez-Amaro | [Abstract](https://arxiv.org/abs/2309.14237) · [PDF](https://arxiv.org/pdf/2309.14237) |
-| 2023-09-24 | Policy Stitching: Learning Transferable Robot Policies | Pingcheng Jian, Easop Lee, Zachary Bell, Michael M. Zavlanos et al. | [Abstract](https://arxiv.org/abs/2309.13753) · [PDF](https://arxiv.org/pdf/2309.13753) |
-| 2023-09-22 | Robotic Offline RL from Internet Videos via Value-Function Pre-Training | Chethan Bhateja, Derek Guo, Dibya Ghosh, Anikait Singh et al. | [Abstract](https://arxiv.org/abs/2309.13041) · [PDF](https://arxiv.org/pdf/2309.13041) |
-| 2023-09-21 | State Representations as Incentives for Reinforcement Learning Agents: A Sim2Real Analysis on Robotic Grasping | Panagiotis Petropoulakis, Ludwig Gräf, Mohammadhossein Malmir, Josip Josifovski et al. | [Abstract](https://arxiv.org/abs/2309.11984) · [PDF](https://arxiv.org/pdf/2309.11984) |
 
 ---
 
