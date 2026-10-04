@@ -1,0 +1,115 @@
+# Balance & Contact Regulation · 平衡与接触调节
+
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
+[← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Coordination%20%26%20Balance&specialty=Balance%20%26%20Contact%20Regulation#research-workbench)
+
+> 10 conference papers · 70 recent arXiv papers
+
+| Level | Classification |
+|---|---|
+| 1 · Direction | Legged Locomotion & Whole-body Control · 足式运动与全身控制 |
+| 2 · Subfield | Whole-body Coordination & Balance · 全身协调与平衡 |
+| 3 · Specialty | Balance & Contact Regulation · 平衡与接触调节 |
+
+Conference records and arXiv preprints remain separate provenance layers. Every paper below is assigned to this single primary taxonomy path.
+
+顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
+Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
+A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
+
+## Conference papers (10)
+
+| Year | Paper | Venue / topic | Online links | Review status |
+|---:|---|---|---|---|
+| 2026 | COLA: Learning Human-Humanoid Coordination for Collaborative Object Carrying | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2510.14293) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696713) | rule-assigned |
+| 2026 | SCU-Hand with Integrated Single-Sheet Valve: A Funnel-Shaped Robotic Hand for Milligram-Scale Powder Handling | ICRA · Robotic Hand | [Paper](https://arxiv.org/abs/2512.07091) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697543) | rule-assigned |
+| 2025 | Human-Robot Collaboration for the Remote Control of Mobile Humanoid Robots With Torso-Arm Coordination | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2505.05773) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128048) | rule-assigned |
+| 2025 | Humanoid Whole-Body Locomotion on Narrow Terrain via Dynamic Balance and Reinforcement Learning | IROS · Humanoid | [Paper](https://arxiv.org/abs/2502.17219) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246060) | rule-assigned |
+| 2025 | Optimal Trajectory Planning in a Vertically Undulating Snake Locomotion using Contact-implicit Optimization | IROS · Locomotion | [Paper](https://arxiv.org/abs/2508.02953) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247246) | rule-assigned |
+| 2025 | SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2505.11494) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247065) | rule-assigned |
+| 2023 | Enhanced Balance for Legged Robots Using Reaction Wheels | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160833) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160833) | rule-assigned |
+| 2023 | ZMP Feedback Balance Control of Humanoid in Response to Ground Acceleration | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS55552.2023.10341851) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341851) | rule-assigned |
+| 2022 | Admittance Model Optimization for Gait Balance Assistance of a Robotic Walker: Passive Model-based Mechanical Assessment | ICRA · Gait | [Paper](https://doi.org/10.1109/icra46639.2022.9811594) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811594) | rule-assigned |
+| 2022 | Humanoid Arm Motion Planning for Improved Disturbance Recovery Using Model Hierarchy Predictive Control | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra46639.2022.9811878) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811878) | rule-assigned |
+
+## Recent arXiv papers (70)
+
+| Date | Paper | Authors | Online links | Review status |
+|---|---|---|---|---|
+| 2026-09-27 | AMBIT: Anticipatory Multimodal Body Recruitment for Bimanual Tracking on a Humanoid | Hanlong Li, Sihan Tan, Takeshi Ashizawa, Benjamin Yen et al. | [Abstract](https://arxiv.org/abs/2609.33484) · [PDF](https://arxiv.org/pdf/2609.33484) | rule-assigned |
+| 2026-09-20 | Steering Through Contact: A Finite-Support Motion Model for Single-Track Center-Articulated Robots | Mohamed Dhia Ounally, Nicolas Samson, Mathis Turgeon-Roy, Veronica Vannini et al. | [Abstract](https://arxiv.org/abs/2609.23271) · [PDF](https://arxiv.org/pdf/2609.23271) | rule-assigned |
+| 2026-09-18 | CounterPlay: Counterfactual Post-Training for Self-Play Driving Policies | Jiarong Wei, Yin Wu, Runkai He, Abhinav Valada | [Abstract](https://arxiv.org/abs/2609.21617) · [PDF](https://arxiv.org/pdf/2609.21617) | rule-assigned |
+| 2026-09-15 | Optimized Wrench Polytope Analysis for Real-Time Stability Control of Legged Robots in Complex Multi-Contact Configurations | Friedrich Graaf, Elias Birkefeld, Christian Eichmann, Elias Hofele et al. | [Abstract](https://arxiv.org/abs/2609.17405) · [PDF](https://arxiv.org/pdf/2609.17405) | rule-assigned |
+| 2026-08-27 | SOLO: Stable Omni-terrain Long-Horizon Perceptive Humanoid Locomotion | Pihai Sun, Gang Han, Jingkai Sun, Jiahao Ma et al. | [Abstract](https://arxiv.org/abs/2608.26583) · [PDF](https://arxiv.org/pdf/2608.26583) | rule-assigned |
+| 2026-08-21 | Natural Sit-to-Stand Motion Synthesis For Humanoids via Guided Assistance Curricula and Staged Rewards | Meet Pal Singh, Vyankatesh Ashtekar, Ashish Dutta | [Abstract](https://arxiv.org/abs/2608.20823) · [PDF](https://arxiv.org/pdf/2608.20823) | rule-assigned |
+| 2026-08-17 | RoboStriker: Latent-Space Strategic Games for Autonomous Humanoid Boxing | Kangning Yin, Kaige Liu, Zhe Cao, Wentao Dong et al. | [Abstract](https://arxiv.org/abs/2608.16195) · [PDF](https://arxiv.org/pdf/2608.16195) | rule-assigned |
+| 2026-08-01 | A Change of Frame Makes Balance Observable: Distillation-Free Humanoid Single-Leg Stance | Yikai Zhou, Xingyun Wang, Jieming Cui, Bozhou Chen et al. | [Abstract](https://arxiv.org/abs/2608.00500) · [PDF](https://arxiv.org/pdf/2608.00500) | rule-assigned |
+| 2026-07-29 | HumanCLAW: Can Vision-Language Models Act Through a Body? | Li Siyao, Jiawei Gu, Shuai Liu, Kairui Hu et al. | [Abstract](https://arxiv.org/abs/2607.27180) · [PDF](https://arxiv.org/pdf/2607.27180) | rule-assigned |
+| 2026-06-29 | Evolutionary Hyperparameter Optimization to Find Lightweight CNN Models for Autonomous Steering | Devson Butani, Ryan Kaddis, Chan-Jin Chung | [Abstract](https://arxiv.org/abs/2606.29684) · [PDF](https://arxiv.org/pdf/2606.29684) | rule-assigned |
+| 2026-06-23 | Efficient Time-Domain Simulation of USV Motions in Short-Crested Irregular Waves Using an IRF-Based Framework | Fei Duan, Zihao Wang, Yaohua Zhou, Qing Xiao | [Abstract](https://arxiv.org/abs/2606.24130) · [PDF](https://arxiv.org/pdf/2606.24130) | rule-assigned |
+| 2026-06-14 | $λ$-Reachability: Geometric-Horizon Safety Bellman Equations for Humanoid Safety | Rui Chen, Shangtao Li, Yifan Sun, Changliu Liu | [Abstract](https://arxiv.org/abs/2606.16022) · [PDF](https://arxiv.org/pdf/2606.16022) | rule-assigned |
+| 2026-04-14 | Frequency-aware decomposition learning for sensorless wrench estimation in vibration-rich robotic contact | Hyeonbeen Lee, Min-Jae Jung, Tae-Kyeong Yeu, Jong-Boo Han et al. | [Abstract](https://arxiv.org/abs/2604.12905) · [PDF](https://arxiv.org/pdf/2604.12905) | rule-assigned |
+| 2026-04-12 | AWARE: Adaptive Whole-body Active Rotating Control for Enhanced LiDAR-Inertial Odometry under Human-in-the-Loop Interaction | Yizhe Zhang, Jianping Li, Liangliang Yin, Zhen Dong et al. | [Abstract](https://arxiv.org/abs/2604.10598) · [PDF](https://arxiv.org/pdf/2604.10598) | rule-assigned |
+| 2026-03-24 | Learning Safe-Stoppability Monitors for Humanoid Robots | Yifan Sun, Yiyuan Pan, Shangtao Li, Caiwu Ding et al. | [Abstract](https://arxiv.org/abs/2603.22703) · [PDF](https://arxiv.org/pdf/2603.22703) | rule-assigned |
+| 2026-03-11 | Shape Control of a Planar Hyper-Redundant Robot via Hybrid Kinematics-Informed and Learning-based Approach | Yuli Song, Wenbo Li, Wenci Xin, Zhiqiang Tang et al. | [Abstract](https://arxiv.org/abs/2603.10402) · [PDF](https://arxiv.org/pdf/2603.10402) | rule-assigned |
+| 2026-03-09 | FAME: Force-Adaptive RL for Expanding the Manipulation Envelope of a Full-Scale Humanoid | Niraj Pudasaini, Yutong Zhang, Jensen Lavering, Max Conwat et al. | [Abstract](https://arxiv.org/abs/2603.08961) · [PDF](https://arxiv.org/pdf/2603.08961) | rule-assigned |
+| 2026-03-03 | Navigating in Uncertain Environments with Heterogeneous Visibility | Jongann Lee, Melkior Ornik | [Abstract](https://arxiv.org/abs/2603.03495) · [PDF](https://arxiv.org/pdf/2603.03495) | rule-assigned |
+| 2026-02-11 | Semi-Supervised Cross-Domain Imitation Learning | Li-Min Chu, Kai-Siang Ma, Ming-Hong Chen, Ping-Chun Hsieh | [Abstract](https://arxiv.org/abs/2602.10793) · [PDF](https://arxiv.org/pdf/2602.10793) | rule-assigned |
+| 2026-01-19 | FocusNav: Spatial Selective Attention with Waypoint Guidance for Humanoid Local Navigation | Yang Zhang, Jianming Ma, Liyun Yan, Zhanxiang Cao et al. | [Abstract](https://arxiv.org/abs/2601.12790) · [PDF](https://arxiv.org/pdf/2601.12790) | rule-assigned |
+| 2025-12-24 | Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3 | Muhtadin, Faris Rafi Pramana, Dion Hayu Fandiantoro, Moh Ismarintan Zazuli et al. | [Abstract](https://arxiv.org/abs/2512.21219) · [PDF](https://arxiv.org/pdf/2512.21219) | rule-assigned |
+| 2025-12-08 | SCU-Hand with Integrated Single-Sheet Valve: A Funnel-Shaped Robotic Hand for Milligram-Scale Powder Handling | Tomoya Takahashi, Yusaku Nakajima, Cristian Camilo Beltran-Hernandez, Yuki Kuroda et al. | [Abstract](https://arxiv.org/abs/2512.07091) · [PDF](https://arxiv.org/pdf/2512.07091) | rule-assigned |
+| 2025-10-20 | SimpleVSF: VLM-Scoring Fusion for Trajectory Prediction of End-to-End Autonomous Driving | Peiru Zheng, Yun Zhao, Zhan Gong, Hong Zhu et al. | [Abstract](https://arxiv.org/abs/2510.17191) · [PDF](https://arxiv.org/pdf/2510.17191) | rule-assigned |
+| 2025-10-16 | Learning Human-Humanoid Coordination for Collaborative Object Carrying | Yushi Du, Yixuan Li, Baoxiong Jia, Yutang Lin et al. | [Abstract](https://arxiv.org/abs/2510.14293) · [PDF](https://arxiv.org/pdf/2510.14293) | rule-assigned |
+| 2025-10-02 | Real-time Multi-Plane Segmentation Based on GPU Accelerated High-Resolution 3D Voxel Mapping for Legged Robot Locomotion | Shun Niijima, Ryoichi Tsuzaki, Noriaki Takasugi, Masaya Kinoshita | [Abstract](https://arxiv.org/abs/2510.01592) · [PDF](https://arxiv.org/pdf/2510.01592) | rule-assigned |
+| 2025-09-25 | Decision-Driven Semantic Object Exploration for Legged Robots via Confidence-Calibrated Perception and Topological Subgoal Selection | Guoyang Zhao, Yudong Li, Weiqing Qi, Kai Zhang et al. | [Abstract](https://arxiv.org/abs/2509.20739) · [PDF](https://arxiv.org/pdf/2509.20739) | rule-assigned |
+| 2025-09-24 | Large Language Models for 3D IC Space Planning | Hung-Ying Chu, Guan-Wei Chen, Shao-Yu Wei, Yu-Cheng Lin | [Abstract](https://arxiv.org/abs/2509.22716) · [PDF](https://arxiv.org/pdf/2509.22716) | rule-assigned |
+| 2025-09-09 | Mean Field Game-Based Interactive Trajectory Planning Using Physics-Inspired Unified Potential Fields | Zhen Tian, Fujiang Yuan, Chunhong Yuan, Yanhong Peng | [Abstract](https://arxiv.org/abs/2509.08147) · [PDF](https://arxiv.org/pdf/2509.08147) | rule-assigned |
+| 2025-08-29 | Robust Real-Time Coordination of CAVs: A Distributed Optimization Framework under Uncertainty | Haojie Bai, Tingting Zhang, Cong Guo, Yang Wang et al. | [Abstract](https://arxiv.org/abs/2508.21322) · [PDF](https://arxiv.org/pdf/2508.21322) | rule-assigned |
+| 2025-08-25 | Adaptive Output Steps: FlexiSteps Network for Dynamic Trajectory Prediction | Yunxiang Liu, Hongkuo Niu, Jianlin Zhu | [Abstract](https://arxiv.org/abs/2508.17797) · [PDF](https://arxiv.org/pdf/2508.17797) | rule-assigned |
+| 2025-08-11 | In-situ Value-aligned Human-Robot Interactions with Physical Constraints | Hongtao Li, Ziyuan Jiao, Xiaofeng Liu, Hangxin Liu et al. | [Abstract](https://arxiv.org/abs/2508.07606) · [PDF](https://arxiv.org/pdf/2508.07606) | rule-assigned |
+| 2025-08-04 | Optimal Trajectory Planning in a Vertically Undulating Snake Locomotion using Contact-implicit Optimization | Adarsh Salagame, Eric Sihite, Alireza Ramezani | [Abstract](https://arxiv.org/abs/2508.02953) · [PDF](https://arxiv.org/pdf/2508.02953) | rule-assigned |
+| 2025-07-18 | MorphIt: Flexible Spherical Approximation of Robot Morphology for Representation-driven Adaptation | Nataliya Nechyporenko, Yutong Zhang, Sean Campbell, Alessandro Roncone | [Abstract](https://arxiv.org/abs/2507.14061) · [PDF](https://arxiv.org/pdf/2507.14061) | rule-assigned |
+| 2025-07-15 | Robot Drummer: Learning Rhythmic Skills for Humanoid Drumming | Asad Ali Shahid, Francesco Braghin, Loris Roveda | [Abstract](https://arxiv.org/abs/2507.11498) · [PDF](https://arxiv.org/pdf/2507.11498) | rule-assigned |
+| 2025-07-07 | Dynamics and multi-stability of a rotor-actuated Twistcar robot with passive steering joint | Anna Zigelman, Zitao Yu, Rom Levy, Yizhar Or | [Abstract](https://arxiv.org/abs/2507.04846) · [PDF](https://arxiv.org/pdf/2507.04846) | rule-assigned |
+| 2025-07-06 | AutoLayout: Closed-Loop Layout Synthesis via Slow-Fast Collaborative Reasoning | Weixing Chen, Dafeng Chi, Yang Liu, Yuxi Yang et al. | [Abstract](https://arxiv.org/abs/2507.04293) · [PDF](https://arxiv.org/pdf/2507.04293) | rule-assigned |
+| 2025-06-11 | One For All: LLM-based Heterogeneous Mission Planning in Precision Agriculture | Marcos Abel Zuzuárregui, Mustafa Melih Toslak, Stefano Carpin | [Abstract](https://arxiv.org/abs/2506.10106) · [PDF](https://arxiv.org/pdf/2506.10106) | rule-assigned |
+| 2025-05-22 | SpineWave: Harnessing Fish Rigid-Flexible Spinal Kinematics for Enhancing Biomimetic Robotic Locomotion | Qu He, Weikun Li, Guangmin Dai, Hao Chen et al. | [Abstract](https://arxiv.org/abs/2505.16453) · [PDF](https://arxiv.org/pdf/2505.16453) | rule-assigned |
+| 2025-05-21 | Brownian Bridge Augmented Surrogate Simulation and Injection Planning for Geological CO$_2$ Storage | Haoyue Bai, Guodong Chen, Wangyang Ying, Xinyuan Wang et al. | [Abstract](https://arxiv.org/abs/2505.18204) · [PDF](https://arxiv.org/pdf/2505.18204) | rule-assigned |
+| 2025-05-16 | SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics | Lizhi Yang, Blake Werner, Ryan K. Cosner, David Fridovich-Keil et al. | [Abstract](https://arxiv.org/abs/2505.11494) · [PDF](https://arxiv.org/pdf/2505.11494) | rule-assigned |
+| 2025-05-15 | Provably safe and human-like car-following behaviors: Part 2. A parsimonious multi-phase model with projected braking | Wen-Long Jin | [Abstract](https://arxiv.org/abs/2505.09988) · [PDF](https://arxiv.org/pdf/2505.09988) | rule-assigned |
+| 2025-05-12 | HuB: Learning Extreme Humanoid Balance | Tong Zhang, Boyuan Zheng, Ruiqian Nai, Yingdong Hu et al. | [Abstract](https://arxiv.org/abs/2505.07294) · [PDF](https://arxiv.org/pdf/2505.07294) | rule-assigned |
+| 2025-05-09 | Let Humanoids Hike! Integrative Skill Development on Complex Trails | Kwan-Yee Lin, Stella X. Yu | [Abstract](https://arxiv.org/abs/2505.06218) · [PDF](https://arxiv.org/pdf/2505.06218) | rule-assigned |
+| 2025-05-09 | Human-Robot Collaboration for the Remote Control of Mobile Humanoid Robots with Torso-Arm Coordination | Nikita Boguslavskii, Lorena Maria Genua, Zhi Li | [Abstract](https://arxiv.org/abs/2505.05773) · [PDF](https://arxiv.org/pdf/2505.05773) | rule-assigned |
+| 2025-04-27 | Snake locomotion learning search | Sheng-Xue He | [Abstract](https://arxiv.org/abs/2504.19114) · [PDF](https://arxiv.org/pdf/2504.19114) | rule-assigned |
+| 2025-04-16 | Learning Transferable Friction Models and LuGre Identification Via Physics-Informed Neural Networks | Asutay Ozmen, João P. Hespanha, Katie Byl | [Abstract](https://arxiv.org/abs/2504.12441) · [PDF](https://arxiv.org/pdf/2504.12441) | rule-assigned |
+| 2025-03-31 | Manifesting Architectural Subspaces with Two Mobile Robotic Partitions to Facilitate Spontaneous Office Meetings | Ozan Balci, Stien Poncelet, Alex Binh Vinh Duc Nguyen, Andrew Vande Moere | [Abstract](https://arxiv.org/abs/2504.13872) · [PDF](https://arxiv.org/pdf/2504.13872) | rule-assigned |
+| 2025-03-03 | CAPS: Context-Aware Priority Sampling for Enhanced Imitation Learning in Autonomous Driving | Hamidreza Mirkhani, Behzad Khamidehi, Ehsan Ahmadi, Mohammed Elmahgiubi et al. | [Abstract](https://arxiv.org/abs/2503.01650) · [PDF](https://arxiv.org/pdf/2503.01650) | rule-assigned |
+| 2025-02-24 | TDMPBC: Self-Imitative Reinforcement Learning for Humanoid Robot Control | Zifeng Zhuang, Diyuan Shi, Runze Suo, Xiao He et al. | [Abstract](https://arxiv.org/abs/2502.17322) · [PDF](https://arxiv.org/pdf/2502.17322) | rule-assigned |
+| 2025-02-24 | Humanoid Whole-Body Locomotion on Narrow Terrain via Dynamic Balance and Reinforcement Learning | Weiji Xie, Chenjia Bai, Jiyuan Shi, Junkai Yang et al. | [Abstract](https://arxiv.org/abs/2502.17219) · [PDF](https://arxiv.org/pdf/2502.17219) | rule-assigned |
+| 2025-01-28 | Surena-V: A Humanoid Robot for Human-Robot Collaboration with Optimization-based Control Architecture | Mohammad Ali Bazrafshani, Aghil Yousefi-Koma, Amin Amani, Behnam Maleki et al. | [Abstract](https://arxiv.org/abs/2501.17313) · [PDF](https://arxiv.org/pdf/2501.17313) | rule-assigned |
+| 2025-01-26 | Diffusion-Based Planning for Autonomous Driving with Flexible Guidance | Yinan Zheng, Ruiming Liang, Kexin Zheng, Jinliang Zheng et al. | [Abstract](https://arxiv.org/abs/2501.15564) · [PDF](https://arxiv.org/pdf/2501.15564) | rule-assigned |
+| 2025-01-07 | Agreeing to Interact in Human-Robot Interaction using Large Language Models and Vision Language Models | Kazuhiro Sasabuchi, Naoki Wake, Atsushi Kanehira, Jun Takamatsu et al. | [Abstract](https://arxiv.org/abs/2503.15491) · [PDF](https://arxiv.org/pdf/2503.15491) | rule-assigned |
+| 2024-12-13 | Contingency Constrained Planning with MPPI within MPPI | Leonard Jung, Alexander Estornell, Michael Everett | [Abstract](https://arxiv.org/abs/2412.09777) · [PDF](https://arxiv.org/pdf/2412.09777) | rule-assigned |
+| 2024-11-29 | Improving generalization of robot locomotion policies via Sharpness-Aware Reinforcement Learning | Severin Bochem, Eduardo Gonzalez-Sanchez, Yves Bicker, Gabriele Fadini | [Abstract](https://arxiv.org/abs/2411.19732) · [PDF](https://arxiv.org/pdf/2411.19732) | rule-assigned |
+| 2024-11-18 | Joint-Space Control of a Structurally Elastic Humanoid Robot | Connor W. Herron, Christian Runyon, Isaac Pressgrove, Benjamin C. Beiter et al. | [Abstract](https://arxiv.org/abs/2411.11734) · [PDF](https://arxiv.org/pdf/2411.11734) | rule-assigned |
+| 2024-11-14 | DiffRoad: Realistic and Diverse Road Scenario Generation for Autonomous Vehicle Testing | Junjie Zhou, Lin Wang, Qiang Meng, Xiaofan Wang | [Abstract](https://arxiv.org/abs/2411.09451) · [PDF](https://arxiv.org/pdf/2411.09451) | rule-assigned |
+| 2024-09-15 | Risk-Aware Autonomous Driving with Linear Temporal Logic Specifications | Shuhao Qi, Zengjie Zhang, Zhiyong Sun, Sofie Haesaert | [Abstract](https://arxiv.org/abs/2409.09769) · [PDF](https://arxiv.org/pdf/2409.09769) | rule-assigned |
+| 2024-08-12 | Text2Interaction: Establishing Safe and Preferable Human-Robot Interaction | Jakob Thumm, Christopher Agia, Marco Pavone, Matthias Althoff | [Abstract](https://arxiv.org/abs/2408.06105) · [PDF](https://arxiv.org/pdf/2408.06105) | rule-assigned |
+| 2024-07-16 | Learning feasible transitions for efficient contact planning | Rikhat Akizhanov, Victor Dhédin, Majid Khadiv, Ivan Laptev | [Abstract](https://arxiv.org/abs/2407.11788) · [PDF](https://arxiv.org/pdf/2407.11788) | rule-assigned |
+| 2024-05-22 | Safe and Personalizable Logical Guidance for Trajectory Planning of Autonomous Driving | Yuejiao Xu, Ruolin Wang, Chengpeng Xu, Jianmin Ji | [Abstract](https://arxiv.org/abs/2405.13704) · [PDF](https://arxiv.org/pdf/2405.13704) | rule-assigned |
+| 2024-05-20 | Learning of Balance Controller Considering Changes in Body State for Musculoskeletal Humanoids | Kento Kawaharazuka, Yoshimoto Ribayashi, Akihiro Miki, Yasunori Toshimitsu et al. | [Abstract](https://arxiv.org/abs/2405.11803) · [PDF](https://arxiv.org/pdf/2405.11803) | rule-assigned |
+| 2024-03-01 | Optimizing Dynamic Balance in a Rat Robot via the Lateral Flexion of a Soft Actuated Spine | Yuhong Huang, Zhenshan Bing, Zitao Zhang, Genghang Zhuang et al. | [Abstract](https://arxiv.org/abs/2403.00944) · [PDF](https://arxiv.org/pdf/2403.00944) | rule-assigned |
+| 2024-02-29 | On the Existence of Static Equilibria of a Cable-Suspended Load with Non-stopping Flying Carriers | Chiara Gabellieri, Antonio Franchi | [Abstract](https://arxiv.org/abs/2402.19315) · [PDF](https://arxiv.org/pdf/2402.19315) | rule-assigned |
+| 2023-12-18 | Centroidal State Estimation and Control for Hardware-constrained Humanoid Robots | Grzegorz Ficht, Sven Behnke | [Abstract](https://arxiv.org/abs/2312.11019) · [PDF](https://arxiv.org/pdf/2312.11019) | rule-assigned |
+| 2023-11-29 | Stability control for USVs with SINDY-based online dynamic model update | Zong Chen | [Abstract](https://arxiv.org/abs/2311.17297) · [PDF](https://arxiv.org/pdf/2311.17297) | rule-assigned |
+| 2023-11-15 | I Was Blind but Now I See: Implementing Vision-Enabled Dialogue in Social Robots | Giulio Antonio Abbo, Tony Belpaeme | [Abstract](https://arxiv.org/abs/2311.08957) · [PDF](https://arxiv.org/pdf/2311.08957) | rule-assigned |
+| 2023-11-12 | Review of PID Controller Applications for UAVs | Hans Oersted, Yudong Ma | [Abstract](https://arxiv.org/abs/2311.06809) · [PDF](https://arxiv.org/pdf/2311.06809) | rule-assigned |
+| 2023-11-10 | Quantized Distillation: Optimizing Driver Activity Recognition Models for Resource-Constrained Environments | Calvin Tanama, Kunyu Peng, Zdravko Marinov, Rainer Stiefelhagen et al. | [Abstract](https://arxiv.org/abs/2311.05970) · [PDF](https://arxiv.org/pdf/2311.05970) | rule-assigned |
+| 2023-11-01 | RF-Enhanced Road Infrastructure for Intelligent Transportation | Dajiang Suo, Heyi Li, Rahul Bhattacharyya, Zijin Wang et al. | [Abstract](https://arxiv.org/abs/2311.00280) · [PDF](https://arxiv.org/pdf/2311.00280) | rule-assigned |
+
+---
+
+Generated from the repository's audited conference and arXiv data layers.

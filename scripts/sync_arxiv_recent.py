@@ -3,8 +3,8 @@
 
 The discovery boundary is every arXiv record whose primary or cross-listed
 category matches cs.RO and whose original submission date falls in the three
-years ending on the execution date. Records are assigned to one of the seven
-research directions by a deterministic title/abstract taxonomy.
+years ending on the execution date. Legacy admission rules remain separate
+from the nine-direction contribution-oriented organization and review status.
 
 The arXiv API is paged conservatively and requests are separated by at least
 three seconds, following the API manual. This script is intentionally separate
@@ -17,6 +17,8 @@ from __future__ import annotations
 import argparse
 from collections import Counter
 from datetime import date, timedelta
+from datetime import datetime
+from zoneinfo import ZoneInfo
 from http.client import IncompleteRead
 import json
 import re
@@ -30,6 +32,7 @@ import xml.etree.ElementTree as ET
 
 from sync_conference_census import EXCLUDED_TERMS, TRACK_RULES, normalized_title
 from taxonomy import annotate_paper, hierarchy_counts, taxonomy_metadata
+from taxonomy import TRACKS
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -59,7 +62,7 @@ def half_year_segments(start: date, end: date) -> tuple[tuple[str, str], ...]:
     return tuple(segments)
 
 
-SNAPSHOT_DATE = date.today()
+SNAPSHOT_DATE = datetime.now(ZoneInfo("Asia/Hong_Kong")).date()
 WINDOW_START = subtract_years(SNAPSHOT_DATE, 3)
 START_DATE = WINDOW_START.isoformat()
 END_DATE = SNAPSHOT_DATE.isoformat()
@@ -67,6 +70,23 @@ WINDOW_YEARS = list(range(WINDOW_START.year, SNAPSHOT_DATE.year + 1))
 PAGE_SIZE = 2000
 REQUEST_DELAY_SECONDS = 10.0
 SEGMENTS = half_year_segments(WINDOW_START, SNAPSHOT_DATE)
+
+
+def configure_window(snapshot_date: date) -> None:
+    global SNAPSHOT_DATE, WINDOW_START, START_DATE, END_DATE, WINDOW_YEARS, SEGMENTS
+    SNAPSHOT_DATE = snapshot_date
+    WINDOW_START = subtract_years(snapshot_date, 3)
+    START_DATE, END_DATE = WINDOW_START.isoformat(), snapshot_date.isoformat()
+    WINDOW_YEARS = list(range(WINDOW_START.year, snapshot_date.year + 1))
+    SEGMENTS = half_year_segments(WINDOW_START, snapshot_date)
+
+
+def verify_complete_count(candidate_count: int, expected_count: int) -> None:
+    if candidate_count != expected_count:
+        raise ValueError(
+            f"Incomplete arXiv harvest: observed {candidate_count} candidates, "
+            f"API declared {expected_count}; snapshot was not updated"
+        )
 
 ATOM = "http://www.w3.org/2005/Atom"
 OPEN_SEARCH = "http://a9.com/-/spec/opensearch/1.1/"
@@ -200,12 +220,14 @@ def fetch_xml(params: dict[str, str | int], retries: int = 12) -> ET.Element:
             request = Request(
                 url,
                 headers={
-                    "User-Agent": "Embodied-AI-Paper-Analysis/1.0 (mailto:Steven.LI@connect.hku.hk)",
+                    "User-Agent": "Embodied-AI-Paper-Analysis/1.0",
                     "Accept": "application/atom+xml",
                 },
             )
             with urlopen(request, timeout=240) as response:
-                return ET.fromstring(response.read())
+                root = ET.fromstring(response.read())
+            validate_feed(root)
+            return root
         except HTTPError as error:
             if error.code not in {429, 500, 502, 503, 504} or attempt == retries - 1:
                 raise
@@ -225,6 +247,20 @@ def fetch_xml(params: dict[str, str | int], retries: int = 12) -> ET.Element:
         )
         time.sleep(retry_delay)
     raise RuntimeError("unreachable")
+
+
+def validate_feed(root: ET.Element) -> None:
+    """Reject error/non-feed responses instead of publishing an empty census."""
+    if root.tag != f"{{{ATOM}}}feed":
+        raise ValueError("arXiv returned a non-Atom response; snapshot was not updated")
+    for entry in root.findall("atom:entry", NS):
+        entry_id = entry.findtext("atom:id", default="", namespaces=NS)
+        if "/api/errors" in entry_id:
+            message = clean_text(entry.findtext("atom:summary", namespaces=NS))
+            raise ValueError(f"arXiv API error: {message}")
+    total = root.findtext("open:totalResults", namespaces=NS)
+    if total is None or not total.strip().isdigit():
+        raise ValueError("arXiv feed is missing a valid totalResults; snapshot was not updated")
 
 
 def parse_entry(entry: ET.Element) -> dict[str, Any] | None:
@@ -376,8 +412,7 @@ def fetch_records(page_size: int, max_records: int | None = None) -> tuple[list[
 
 def build_payload(records: list[dict[str, Any]], candidate_count: int) -> dict[str, Any]:
     for paper in records:
-        if not all(paper.get(field) for field in ("subcategory", "specialty", "taxonomy_evidence")):
-            annotate_paper(paper)
+        annotate_paper(paper, paper.get("abstract", ""))
     conference = json.loads(CONFERENCE_PATH.read_text(encoding="utf-8"))
     conference_titles = {normalized_title(paper["title"]) for paper in conference["papers"]}
     arxiv_titles = [normalized_title(paper["title"]) for paper in records]
@@ -397,7 +432,8 @@ def build_payload(records: list[dict[str, Any]], candidate_count: int) -> dict[s
         "window": {"start": START_DATE, "end": END_DATE, "years": WINDOW_YEARS},
         "scope": (
             f"Every arXiv cs.RO record submitted from {START_DATE} through {END_DATE} "
-            "that is admitted by the repository's deterministic seven-direction title/abstract taxonomy."
+            "that is admitted by the unchanged source rules and organized by "
+            "the nine-direction contribution taxonomy."
         ),
         "source": {
             "name": "arXiv API",
@@ -417,16 +453,16 @@ def build_payload(records: list[dict[str, Any]], candidate_count: int) -> dict[s
             "arxiv_normalized_title_duplicates": arxiv_title_duplicates,
             "combined_unique_records": combined_unique_records,
             "classification": (
-                "Level 1 uses the title/abstract admission rules in "
-                "scripts/sync_arxiv_recent.py. Levels 2 and 3 use the stored title, "
-                "topic, and abstract evidence in scripts/taxonomy.py."
+                "Source admission uses scripts/sync_arxiv_recent.py; all three "
+                "organization levels and cross-topic tags use scripts/taxonomy.py "
+                "and reviewed exceptions. admission_track preserves the discovery label."
             ),
             "taxonomy_version": taxonomy_metadata()["version"],
             "snapshot_date": END_DATE,
             "track_counts": dict(sorted(track_counts.items())),
             "year_counts": {str(year): count for year, count in sorted(year_counts.items())},
         },
-        "tracks": conference["tracks"],
+        "tracks": TRACKS,
         "taxonomy": taxonomy_metadata(),
         "taxonomy_counts": hierarchy_counts(records),
         "papers": records,
@@ -438,12 +474,28 @@ def main() -> int:
     parser.add_argument("--check", action="store_true", help="fetch and compare without writing")
     parser.add_argument("--page-size", type=int, default=PAGE_SIZE)
     parser.add_argument("--max-records", type=int, help="limit candidates for a development sample")
+    parser.add_argument("--as-of", type=date.fromisoformat, default=SNAPSHOT_DATE,
+                        help="freeze the submission window at YYYY-MM-DD (Hong Kong date by default)")
     args = parser.parse_args()
     if not 1 <= args.page_size <= 2000:
         parser.error("--page-size must be between 1 and 2000")
+    if args.max_records and not args.check:
+        parser.error("development samples cannot overwrite the complete catalog; use --check")
+    configure_window(args.as_of)
+    expected_count = None
+    if not args.max_records:
+        root = fetch_xml({"search_query": query_string(), "start": 0, "max_results": 1,
+                          "sortBy": "submittedDate", "sortOrder": "ascending"})
+        expected_count = int(root.findtext("open:totalResults", namespaces=NS))
+        print(f"Frozen arXiv window {START_DATE}..{END_DATE}: API declares {expected_count:,} candidates", flush=True)
+        time.sleep(REQUEST_DELAY_SECONDS)
 
     records, candidate_count = fetch_records(args.page_size, args.max_records)
+    if expected_count is not None:
+        verify_complete_count(candidate_count, expected_count)
     payload = build_payload(records, candidate_count if not args.max_records else min(candidate_count, args.max_records))
+    payload["source"]["candidate_coverage_verified"] = expected_count is not None
+    payload["source"]["api_declared_candidate_records"] = expected_count
     rendered = json.dumps(payload, ensure_ascii=False, separators=(",", ":")) + "\n"
     if args.check:
         if not OUTPUT_PATH.exists() or OUTPUT_PATH.read_text(encoding="utf-8") != rendered:

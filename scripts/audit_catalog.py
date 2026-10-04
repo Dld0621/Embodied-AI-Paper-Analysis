@@ -16,6 +16,7 @@ if str(SCRIPT_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPT_DIR))
 
 from taxonomy import GENERAL_SPECIALTY, hierarchy_counts, taxonomy_metadata
+from freshness import build_status, hong_kong_today
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -155,20 +156,35 @@ def validate_taxonomy_layer(layer: dict, label: str) -> tuple[list[str], dict[st
             errors.append(f"{path_label}: unsupported level-3 taxonomy path")
         if not isinstance(evidence, str) or not evidence:
             errors.append(f"{path_label}: missing taxonomy evidence")
-        elif evidence.split(":", 1)[0] not in {"title", "topic", "abstract", "fallback"}:
+        elif evidence.split(":", 1)[0] not in {"title", "topic", "abstract", "fallback", "reviewed"}:
             errors.append(f"{path_label}: unsupported taxonomy evidence source")
+        if paper.get("classification_status") not in expected["review_statuses"]:
+            errors.append(f"{path_label}: missing or invalid review status")
+        if paper.get("subcategory_status") not in {"provisional", "rule-supported"}:
+            errors.append(f"{path_label}: missing subfield evidence status")
+        if subcategory == "Dexterous Hand Retargeting" and "Hand Retargeting" not in paper.get("related_topics", []):
+            errors.append(f"{path_label}: hand retargeting primary path lacks supporting association")
+        if set(paper.get("related_topics", [])) & {"Hand Retargeting", "Whole-body Retargeting"} and "Retargeting" not in paper.get("related_topics", []):
+            errors.append(f"{path_label}: specialized retargeting topic lacks its parent tag")
+        for field, tags in expected["facets"].items():
+            values = paper.get(field)
+            if not isinstance(values, list) or len(values) != len(set(values)) or not set(values).issubset(tags):
+                errors.append(f"{path_label}: invalid {field}")
+        for related in paper.get("related_taxonomy_paths", []):
+            if related.get("subcategory") not in expected["tracks"].get(related.get("track"), {}).get("subcategories", {}):
+                errors.append(f"{path_label}: invalid related taxonomy path")
         observed_level_2.add((track, subcategory))
         general_count += specialty == GENERAL_SPECIALTY
         fallback_count += evidence == "fallback"
-    if observed_level_2 != declared_level_2:
-        missing = sorted(declared_level_2 - observed_level_2)
-        errors.append(f"{label}: level-2 subfields without records: {missing}")
+    # Empty approved categories are legitimate; do not manufacture assignments.
+    if not observed_level_2.issubset(declared_level_2):
+        errors.append(f"{label}: undeclared level-2 paths")
     if papers and general_count / len(papers) > 0.65:
         errors.append(f"{label}: more than 65% of papers lack named level-3 evidence")
     return errors, {
         "level_2_subfields": len(observed_level_2),
         "named_level_3_specialties": expected["specialty_count"],
-        "general_cross_cutting_records": general_count,
+        "pending_specialty_records": general_count,
         "fallback_records": fallback_count,
     }
 
@@ -331,7 +347,7 @@ def validate_catalog(catalog: dict) -> tuple[list[str], dict[str, object]]:
             "Direction coverage",
             "Three-level taxonomy",
         ),
-        "papers/taxonomy/README.md": ("7 directions", "40 level-2 subfields", "160 named level-3 specialties", "200 leaf paper catalogs"),
+        "papers/taxonomy/README.md": ("9 directions", "42 level-2 subfields", "126 named level-3 specialties", "168 leaf paper catalogs"),
     }.items():
         text = (ROOT / relative).read_text(encoding="utf-8")
         for marker in markers:
@@ -385,7 +401,8 @@ def validate_arxiv(catalog: dict, arxiv: dict) -> tuple[list[str], dict[str, obj
         expected_years = set(range(start_date.year, end_date.year + 1))
         if start_date != expected_start:
             errors.append("arXiv window must span exactly three rolling years")
-        if end_date > date.today() or date.today() - end_date > timedelta(days=8):
+        today = date.fromisoformat(hong_kong_today())
+        if end_date > today or today - end_date > timedelta(days=8):
             errors.append("arXiv snapshot must be no more than eight days old")
         if window.get("years") != sorted(expected_years):
             errors.append("arXiv window years must match its inclusive calendar years")
@@ -403,6 +420,8 @@ def validate_arxiv(catalog: dict, arxiv: dict) -> tuple[list[str], dict[str, obj
         errors.append("arXiv candidate ledger must contain at least all classified papers")
     if source.get("classified_records") != len(papers):
         errors.append("arXiv classified ledger must match papers")
+    if source.get("candidate_coverage_verified") and source.get("api_declared_candidate_records") != source.get("candidate_records"):
+        errors.append("arXiv observed candidate count differs from API-declared total")
     if source.get("unclassified_records") != source.get("candidate_records", 0) - len(papers):
         errors.append("arXiv unclassified ledger is inconsistent")
 
@@ -498,6 +517,17 @@ def main() -> int:
     leaf_errors, leaf_stats = validate_taxonomy_leaf_catalogs(catalog, arxiv)
     errors.extend(leaf_errors)
     stats["taxonomy_leaf_catalogs"] = leaf_stats
+    status_path = ROOT / "data" / "catalog_status.json"
+    try:
+        status = json.loads(status_path.read_text())
+        if status != build_status(catalog, arxiv, status["documents_updated_on"]):
+            errors.append("document/source freshness ledger is inconsistent")
+        stats["freshness"] = {
+            key: status[key] for key in ("documents_updated_on", "conference_snapshot_on",
+                                         "arxiv_snapshot_on", "api_candidate_count_verified")
+        }
+    except (OSError, KeyError, ValueError):
+        errors.append("missing or invalid document/source freshness ledger")
     if errors:
         print("Catalog audit: FAILED")
         for error in errors:

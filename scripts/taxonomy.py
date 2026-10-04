@@ -1,459 +1,137 @@
-#!/usr/bin/env python3
-"""Deterministic three-level taxonomy for the Embodied AI paper index.
+"""Contribution-oriented nine-direction taxonomy and cross-topic tags.
 
-Level 1 is the repository's existing research track. Level 2 identifies a
-stable subfield, and level 3 identifies the primary task, method, or systems
-problem inside that subfield. The classifier never changes a paper's level-1
-track; it refines that already-admitted record using weighted title, topic, and
-abstract evidence.
+Admission to the source census is independent of this organization step.
+Automatic assignments are reproducible suggestions, not semantic certification.
 """
 
 from __future__ import annotations
 
 from collections import Counter
 from functools import lru_cache
+import json
+from pathlib import Path
 import re
 from typing import Any
 
-
-GENERAL_SPECIALTY = "General / Cross-cutting"
-GENERAL_SPECIALTY_ZH = "综合与交叉研究"
-
-
-def subcategory(
-    name_zh: str,
-    terms: tuple[str, ...],
-    specialties: tuple[tuple[str, str, tuple[str, ...]], ...],
-) -> dict[str, Any]:
-    return {"name_zh": name_zh, "terms": terms, "specialties": specialties}
-
-
-HIERARCHY: dict[str, dict[str, dict[str, Any]]] = {
-    "Foundation Models & VLA": {
-        "VLA Architectures": subcategory(
-            "VLA 架构",
-            ("vision language action", "vla", "action model", "robot policy", "action generation"),
-            (
-                ("Action Tokenization & Decoding", "动作标记化与解码", ("action token", "tokenized action", "action tokenizer", "autoregressive action", "action decoding", "action chunk")),
-                ("Diffusion & Flow Policies", "扩散与流策略", ("diffusion policy", "diffusion policies", "action diffusion", "flow matching", "flow policy", "flow policies", "denoising policy", "diffusion transformer")),
-                ("Hierarchical & Mixture Policies", "分层与混合专家策略", ("hierarchical policy", "mixture of experts", "policy expert", "expert routing", "moe", "high level policy")),
-                ("Real-time & On-device VLA", "实时与端侧 VLA", ("real time", "realtime", "on device", "edge deploy", "latency", "efficient vla", "policy compression")),
+SCHEMA = json.loads(Path(__file__).with_name("taxonomy_schema.json").read_text())
+GENERAL_SPECIALTY = "Pending specialty review"
+GENERAL_SPECIALTY_ZH = "待审专题"
+HIERARCHY = {
+    track["name"]: {
+        sub["name"]: {
+            "name_zh": sub["name_zh"],
+            "terms": (),
+            "specialties": tuple(
+                (spec["name"], spec["name_zh"], tuple(spec["terms"]))
+                for spec in sub["specialties"]
             ),
-        ),
-        "Multimodal Grounding": subcategory(
-            "多模态具身对齐",
-            ("multimodal", "grounding", "vision language", "language conditioned", "language guided", "instruction"),
-            (
-                ("Vision-Language Grounding", "视觉语言对齐", ("vision language", "visual language", "vlm", "visual grounding", "referring expression", "open vocabulary")),
-                ("Language-conditioned Control", "语言条件控制", ("language conditioned", "language guided", "instruction following", "natural language command", "language control", "text conditioned")),
-                ("3D & Spatial Grounding", "三维与空间对齐", ("3d grounding", "spatial grounding", "spatial reasoning", "scene graph", "3d scene", "geometric grounding")),
-                ("Audio, Touch & Multisensory Models", "音频、触觉与多感官模型", ("audio", "speech", "tactile", "touch", "multisensory", "cross modal", "multimodal fusion")),
-            ),
-        ),
-        "Reasoning, Planning & Agents": subcategory(
-            "推理、规划与智能体",
-            ("reasoning", "planning", "agentic", "embodied agent", "long horizon", "task decomposition"),
-            (
-                ("Task & Long-horizon Planning", "任务与长时程规划", ("task planning", "long horizon", "subgoal", "task decomposition", "hierarchical planning", "plan generation")),
-                ("Agentic Robot Systems", "智能体机器人系统", ("agentic", "robot agent", "multi agent", "tool use", "code generation", "autonomous agent")),
-                ("Embodied Reasoning & Question Answering", "具身推理与问答", ("embodied reasoning", "robot reasoning", "question answering", "chain of thought", "reasoning and action", "decision reasoning")),
-                ("Failure Detection & Self-correction", "失败检测与自纠正", ("failure detection", "failure recovery", "self correction", "self correcting", "reflection", "verification", "replanning")),
-            ),
-        ),
-        "Pretraining, Scaling & Transfer": subcategory(
-            "预训练、规模化与迁移",
-            ("foundation model", "pretrain", "generalist", "scaling", "transfer", "generalization", "cross embodiment"),
-            (
-                ("Robot Pretraining & Foundation Policies", "机器人预训练与基础策略", ("pretrain", "foundation policy", "robot foundation", "generalist robot", "general purpose robot", "large scale policy")),
-                ("Cross-embodiment & Morphology Transfer", "跨本体与形态迁移", ("cross embodiment", "cross robot", "morphology", "embodiment aware", "multi embodiment", "heterogeneous robot")),
-                ("Data Scaling & Mixture Design", "数据规模化与混合设计", ("data scaling", "scaling law", "data mixture", "large scale dataset", "data diversity", "mixture dataset")),
-                ("Fine-tuning, Few-shot & Adaptation", "微调、少样本与适配", ("fine tuning", "finetuning", "adapter", "lora", "few shot", "in context", "zero shot", "test time adaptation")),
-            ),
-        ),
-        "Memory & World Knowledge": subcategory(
-            "记忆与世界知识",
-            ("memory", "knowledge", "retrieval", "world action", "predictive action", "world knowledge"),
-            (
-                ("Episodic & Semantic Memory", "情景与语义记忆", ("episodic memory", "semantic memory", "long term memory", "spatial memory", "memory augmented", "persistent memory")),
-                ("World-Action & Predictive Models", "世界动作与预测模型", ("world action model", "world-action model", "predictive action", "action world model", "latent action", "future prediction")),
-                ("Retrieval-augmented Robotics", "检索增强机器人", ("retrieval augmented", "retrieval", "rag", "experience retrieval", "skill retrieval", "memory retrieval")),
-                ("Knowledge Graphs & Structured Knowledge", "知识图谱与结构化知识", ("knowledge graph", "scene graph", "symbolic knowledge", "structured knowledge", "ontology", "world knowledge")),
-            ),
-        ),
-    },
-    "Manipulation & Imitation": {
-        "Grasping & Object Interaction": subcategory(
-            "抓取与物体交互",
-            ("grasp", "pick and place", "pick place", "gripper", "object interaction", "prehension"),
-            (
-                ("Grasp Detection & Synthesis", "抓取检测与生成", ("grasp detection", "grasp synthesis", "grasp generation", "grasp pose", "grasp planning", "6d grasp")),
-                ("Grasp Stability & Force Control", "抓取稳定性与力控制", ("grasp stability", "force closure", "grasp force", "stable grasp", "grip force", "grasp quality")),
-                ("Grippers, Suction & End-effectors", "夹爪、吸盘与末端执行器", ("gripper", "suction", "end effector", "soft gripper", "parallel jaw", "vacuum grasp")),
-                ("Pick-place & Object Rearrangement", "拾放与物体重排", ("pick and place", "pick place", "rearrangement", "object relocation", "tabletop manipulation", "bin picking")),
-            ),
-        ),
-        "Contact-rich & Deformable Manipulation": subcategory(
-            "接触丰富与可变形操作",
-            ("contact rich", "insertion", "assembly", "deformable", "cloth", "rope", "tool use", "pushing"),
-            (
-                ("Insertion, Assembly & Precision Tasks", "插入、装配与精密任务", ("insertion", "assembly", "peg in hole", "connector", "precision manipulation", "mating task")),
-                ("Pushing, Sliding & Non-prehensile Skills", "推、滑与非抓取技能", ("pushing", "sliding", "non prehensile", "pivoting", "tossing", "dynamic manipulation")),
-                ("Tool Use & Articulated Objects", "工具使用与关节物体", ("tool use", "articulated object", "drawer", "door opening", "cabinet", "mechanism manipulation")),
-                ("Cloth, Rope & Soft Objects", "布料、绳索与软体物体", ("cloth", "fabric", "rope", "cable", "deformable object", "soft object", "garment")),
-            ),
-        ),
-        "Imitation & Demonstration Learning": subcategory(
-            "模仿与示范学习",
-            ("imitation", "demonstration", "behavior cloning", "behaviour cloning", "learning from demonstration", "human demonstration"),
-            (
-                ("Behavior Cloning & Sequence Modeling", "行为克隆与序列建模", ("behavior cloning", "behaviour cloning", "sequence modeling", "action sequence", "supervised imitation", "bc policy")),
-                ("Learning from Demonstration", "从示范中学习", ("learning from demonstration", "learning from demonstrations", "demonstration learning", "robot demonstration", "human demonstration", "lfd")),
-                ("One-shot, Few-shot & Skill Transfer", "单样本、少样本与技能迁移", ("one shot", "few shot", "skill transfer", "task transfer", "meta imitation", "cross task")),
-                ("Skill Discovery & Demonstration Segmentation", "技能发现与示范分段", ("skill discovery", "skill segmentation", "demonstration segmentation", "latent skill", "skill primitive", "option discovery")),
-            ),
-        ),
-        "Manipulation Policy Learning": subcategory(
-            "操作策略学习",
-            ("policy learning", "policy", "reinforcement learning", "robot learning", "visuomotor", "visual servoing", "trajectory optimization", "model predictive", "world model", "generative robot", "co training"),
-            (
-                ("Reinforcement & Offline RL", "强化学习与离线强化学习", ("reinforcement learning", "offline reinforcement", "offline rl", "actor critic", "q learning", "reward learning")),
-                ("Visuomotor & Closed-loop Policies", "视觉运动与闭环策略", ("visuomotor", "closed loop", "visual control", "image based policy", "feedback policy", "end to end policy")),
-                ("Generative & Diffusion Policies", "生成式与扩散策略", ("diffusion policy", "diffusion policies", "action diffusion", "generative policy", "generative policies", "flow policy", "flow policies", "energy based policy", "trajectory diffusion")),
-                ("Model-based Control & Trajectory Optimization", "基于模型的控制与轨迹优化", ("model based", "trajectory optimization", "model predictive", "mpc", "optimal control", "planning and control")),
-            ),
-        ),
-        "Long-horizon & Mobile Manipulation": subcategory(
-            "长时程与移动操作",
-            ("long horizon", "mobile manipulation", "multi stage", "task and motion", "household", "open world manipulation", "agentic", "workflow", "language guided", "reasoning"),
-            (
-                ("Long-horizon Task Execution", "长时程任务执行", ("long horizon", "multi stage", "multi step", "task sequence", "long term task", "extended task")),
-                ("Mobile Manipulation", "移动操作", ("mobile manipulation", "mobile manipulator", "navigation and manipulation", "whole body manipulation", "base arm", "fetching")),
-                ("Task-and-motion Planning", "任务与运动规划", ("task and motion planning", "tamp", "symbolic planning", "geometric planning", "integrated planning", "task motion")),
-                ("Household, Industrial & Open-world Tasks", "家居、工业与开放世界任务", ("household", "kitchen", "industrial manipulation", "warehouse", "open world", "unstructured environment")),
-            ),
-        ),
-    },
-    "Dexterity & Teleoperation": {
-        "Dexterous Hand Control": subcategory(
-            "灵巧手控制",
-            ("dexterous", "robot hand", "robotic hand", "multifinger", "multi finger", "anthropomorphic hand"),
-            (
-                ("Multifinger Control & Coordination", "多指控制与协调", ("multifinger", "multi finger", "finger coordination", "multi digit", "finger control", "dexterous control")),
-                ("Hand Design, Actuation & Morphology", "手部设计、驱动与形态", ("hand design", "actuation", "tendon driven", "underactuated", "anthropomorphic hand", "hand morphology")),
-                ("Dexterous Grasping", "灵巧抓取", ("dexterous grasp", "multifinger grasp", "multi finger grasp", "hand grasp", "grasp taxonomy", "precision grasp")),
-                ("Cross-hand Generalization", "跨手型泛化", ("cross hand", "multi hand", "different hands", "hand generalization", "universal hand", "morphology aware")),
-            ),
-        ),
-        "In-hand Manipulation": subcategory(
-            "手内操作",
-            ("in hand", "in-hand", "reorientation", "finger gait", "within hand", "hand object"),
-            (
-                ("Object Reorientation & Rotation", "物体重定向与旋转", ("reorientation", "object rotation", "rotate object", "orientation control", "spinning", "in hand rotation")),
-                ("Rolling, Sliding & Finger Gaiting", "滚动、滑动与手指步态", ("finger gait", "rolling", "in hand sliding", "hand sliding", "finger reposition", "gaiting")),
-                ("Slip, Stability & Contact Maintenance", "滑移、稳定与接触保持", ("slip", "contact stability", "grasp stability", "contact maintenance", "incipient slip", "object stabilization")),
-                ("In-hand Sensing & State Estimation", "手内感知与状态估计", ("in hand sensing", "in hand pose", "object pose in hand", "proprioceptive hand", "hand state estimation", "tactile state")),
-            ),
-        ),
-        "Bimanual Coordination": subcategory(
-            "双手协同",
-            ("bimanual", "dual arm", "two arm", "two hand", "handover", "cooperative manipulation"),
-            (
-                ("Bimanual Manipulation", "双手操作", ("bimanual manipulation", "two hand manipulation", "bimanual skill", "coordinated hands", "dual hand", "bimanual control")),
-                ("Dual-arm Planning & Control", "双臂规划与控制", ("dual arm planning", "dual arm control", "two arm planning", "multi arm", "coordinated arm", "dual manipulator")),
-                ("Handovers & Collaborative Tasks", "交接与协作任务", ("handover", "hand off", "collaborative manipulation", "cooperative task", "human robot handover", "object transfer")),
-                ("Bimanual Assembly & Deformables", "双手装配与可变形操作", ("bimanual assembly", "bimanual cloth", "bimanual rope", "two handed assembly", "bimanual folding", "bimanual insertion")),
-            ),
-        ),
-        "Teleoperation & Shared Autonomy": subcategory(
-            "遥操作与共享自主",
-            ("teleoperation", "tele operated", "telepresence", "shared autonomy", "remote operation", "bilateral"),
-            (
-                ("VR, XR & Immersive Teleoperation", "VR、XR 与沉浸式遥操作", ("virtual reality", "mixed reality", "augmented reality", "vr teleoperation", "xr teleoperation", "immersive")),
-                ("Bilateral & Master-slave Control", "双边与主从控制", ("bilateral teleoperation", "master slave", "master salve", "force reflection", "bilateral control", "leader follower")),
-                ("Shared Autonomy & Assistance", "共享自主与辅助", ("shared autonomy", "assisted teleoperation", "intent prediction", "autonomy blending", "human in the loop", "operator assistance")),
-                ("Remote Presence, Delay & Communication", "远程临场、时延与通信", ("telepresence", "remote operation", "communication delay", "latency", "networked control", "remote manipulation")),
-            ),
-        ),
-        "Retargeting & Human Motion": subcategory(
-            "重定向与人体动作",
-            ("retargeting", "human motion", "motion capture", "hand pose", "human demonstration", "human to robot"),
-            (
-                ("Hand-pose Retargeting", "手部姿态重定向", ("hand pose retargeting", "finger retargeting", "pose retargeting", "hand retargeting", "keypoint retargeting", "human hand pose")),
-                ("Whole-body & Motion Retargeting", "全身与动作重定向", ("motion retargeting", "whole body retargeting", "body retargeting", "motion mapping", "human motion transfer", "kinematic retargeting")),
-                ("Motion Capture & Wearable Input", "动作捕捉与可穿戴输入", ("motion capture", "mocap", "wearable", "data glove", "glove", "body tracking")),
-                ("Cross-embodiment Demonstration Transfer", "跨本体示范迁移", ("cross embodiment", "human to robot", "demonstration transfer", "embodiment transfer", "human demonstration", "cross morphology")),
-            ),
-        ),
-        "Tactile & Haptic Interfaces": subcategory(
-            "触觉与力觉接口",
-            ("tactile", "haptic", "touch sensing", "force feedback", "contact sensing", "vibrotactile"),
-            (
-                ("Tactile Sensing & Representation", "触觉感知与表征", ("tactile sensing", "tactile sensor", "touch sensing", "tactile representation", "vision based tactile", "gel tactile")),
-                ("Haptic Feedback & Rendering", "力触觉反馈与渲染", ("haptic feedback", "haptic rendering", "force feedback", "vibrotactile", "stiffness rendering", "tactile feedback")),
-                ("Contact & Force Estimation", "接触与力估计", ("contact estimation", "force estimation", "contact sensing", "wrench estimation", "contact localization", "normal force")),
-                ("Wearable & Human Interfaces", "可穿戴与人机接口", ("haptic glove", "wearable interface", "exoskeleton glove", "human interface", "hand interface", "wearable haptic")),
-            ),
-        ),
-    },
-    "Navigation & Embodied Agents": {
-        "Visual & Language Navigation": subcategory(
-            "视觉与语言导航",
-            ("visual navigation", "language navigation", "vln", "object goal", "image goal", "embodied question", "instruction navigation"),
-            (
-                ("Vision-language Navigation", "视觉语言导航", ("vision language navigation", "visual language navigation", "vln", "language navigation", "instruction guided navigation", "instruction following navigation")),
-                ("Object-goal & Semantic Navigation", "物体目标与语义导航", ("object goal", "object-goal", "semantic navigation", "category goal", "target object navigation", "semantic goal")),
-                ("Image-goal, Point-goal & Retrieval Navigation", "图像目标、点目标与检索导航", ("image goal", "image-goal", "point goal", "point-goal", "instance goal", "visual target")),
-                ("Embodied QA & Interactive Navigation", "具身问答与交互导航", ("embodied question answering", "embodied qa", "interactive navigation", "dialog navigation", "question guided", "embodied instruction")),
-            ),
-        ),
-        "Mapping & Localization": subcategory(
-            "建图与定位",
-            ("slam", "localization", "mapping", "odometry", "place recognition", "loop closure", "map", "lidar inertial", "gps denied", "gnss denied", "inertial navigation", "bundle adjustment", "dvl"),
-            (
-                ("Visual, LiDAR & Multi-sensor SLAM", "视觉、激光与多传感器 SLAM", ("slam", "visual slam", "lidar slam", "rgb d slam", "multi sensor slam", "semantic slam")),
-                ("Visual-inertial & LiDAR Odometry", "视觉惯性与激光里程计", ("visual odometry", "visual inertial", "lidar odometry", "inertial odometry", "lio", "vio")),
-                ("Place Recognition & Loop Closure", "地点识别与回环检测", ("place recognition", "loop closure", "relocalization", "global localization", "image retrieval", "topological localization")),
-                ("Semantic, Metric & Neural Maps", "语义、度量与神经地图", ("semantic map", "metric map", "neural map", "occupancy map", "topological map", "map representation")),
-            ),
-        ),
-        "Motion & Path Planning": subcategory(
-            "运动与路径规划",
-            ("motion planning", "path planning", "trajectory planning", "collision avoidance", "local planner", "global planner", "navigation", "mobile robot", "trajectory tracking", "predictive control", "reachability", "guidance"),
-            (
-                ("Global Search & Path Planning", "全局搜索与路径规划", ("path planning", "global planner", "a star", "dijkstra", "graph search", "route planning")),
-                ("Local Planning & Obstacle Avoidance", "局部规划与避障", ("local planner", "obstacle avoidance", "collision avoidance", "reactive navigation", "dynamic obstacle", "local navigation")),
-                ("Trajectory Optimization & MPC", "轨迹优化与模型预测控制", ("trajectory optimization", "model predictive", "mpc", "optimal trajectory", "trajectory planner", "receding horizon")),
-                ("Sampling, Learning & Safety-aware Planning", "采样、学习与安全感知规划", ("sampling based", "rrt", "learned planner", "neural planner", "control barrier", "safe planning")),
-            ),
-        ),
-        "Exploration & Active Mapping": subcategory(
-            "探索与主动建图",
-            ("exploration", "active mapping", "next best view", "frontier", "information gain", "coverage planning", "search and rescue"),
-            (
-                ("Frontier & Coverage Exploration", "前沿与覆盖探索", ("frontier exploration", "frontier based", "coverage planning", "area coverage", "exploration strategy", "coverage path")),
-                ("Next-best-view & Information Gain", "下一最佳视角与信息增益", ("next best view", "information gain", "active view", "view planning", "uncertainty exploration", "informative planning")),
-                ("Active Mapping & Reconstruction", "主动建图与重建", ("active mapping", "active slam", "active reconstruction", "mapping exploration", "map completion", "exploration mapping")),
-                ("Search, Inspection & Discovery", "搜索、巡检与发现", ("search and rescue", "inspection", "target search", "object search", "environment discovery", "reconnaissance")),
-            ),
-        ),
-        "Multi-agent & Social Navigation": subcategory(
-            "多智能体与社会导航",
-            ("multi robot", "multi agent", "swarm", "social navigation", "human aware", "pedestrian", "crowd", "crowded", "human robot teaming", "group following"),
-            (
-                ("Multi-robot Coordination", "多机器人协同", ("multi robot", "multi-robot", "robot team", "cooperative robots", "fleet coordination", "decentralized coordination")),
-                ("Swarm Navigation & Formation", "集群导航与编队", ("swarm", "formation control", "collective navigation", "flocking", "multi uav", "robot swarm")),
-                ("Social & Human-aware Navigation", "社会与人类感知导航", ("social navigation", "human aware", "socially aware", "pedestrian", "crowd navigation", "personal space")),
-                ("Multi-agent Collision Avoidance", "多智能体避碰", ("multi agent collision", "reciprocal avoidance", "decentralized avoidance", "agent interaction", "collision coordination", "traffic coordination")),
-            ),
-        ),
-        "Field, Aerial & Marine Robotics": subcategory(
-            "野外、空中与海洋机器人",
-            ("uav", "drone", "aerial", "underwater", "marine", "maritime", "auv", "uuv", "autonomous driving", "vehicle", "outdoor", "field robot", "agricultural", "delivery", "warehouse", "wheelchair"),
-            (
-                ("Aerial & UAV Navigation", "空中与无人机导航", ("uav", "drone", "aerial robot", "quadrotor", "flight navigation", "autonomous flight")),
-                ("Autonomous Driving & Ground Vehicles", "自动驾驶与地面车辆", ("autonomous driving", "autonomous vehicle", "self driving", "ground vehicle", "road navigation", "off road")),
-                ("Marine & Underwater Autonomy", "海洋与水下自主", ("underwater", "marine robot", "subsea", "auv", "usv", "aquatic robot")),
-                ("Outdoor, Agricultural & Delivery Robots", "户外、农业与配送机器人", ("outdoor navigation", "agricultural robot", "field robot", "delivery robot", "warehouse robot", "last mile")),
-            ),
-        ),
-    },
-    "Humanoids & Locomotion": {
-        "Humanoid Whole-body Control": subcategory(
-            "人形全身控制",
-            ("humanoid", "whole body", "whole-body", "loco manipulation", "humanoid control", "upper body"),
-            (
-                ("Whole-body Tracking & Control", "全身跟踪与控制", ("whole body tracking", "whole body control", "whole-body tracking", "whole-body control", "full body control", "motion tracking")),
-                ("Humanoid Loco-manipulation", "人形移动操作", ("loco manipulation", "loco-manipulation", "humanoid manipulation", "whole body manipulation", "locomotion manipulation", "mobile humanoid")),
-                ("Upper-body Skills & Coordination", "上肢技能与协调", ("upper body", "upper-body", "arm coordination", "torso control", "humanoid arm", "whole body reaching")),
-                ("Humanoid Teleoperation & Interaction", "人形遥操作与交互", ("humanoid teleoperation", "whole body teleoperation", "humanoid interaction", "avatar control", "human humanoid", "humanoid collaboration")),
-            ),
-        ),
-        "Bipedal & Humanoid Locomotion": subcategory(
-            "双足与人形运动",
-            ("biped", "bipedal", "humanoid locomotion", "walking", "gait", "running", "jumping", "parkour"),
-            (
-                ("Walking & Gait Control", "行走与步态控制", ("walking", "gait", "bipedal locomotion", "footstep", "walkability", "stepping")),
-                ("Running, Jumping & Agile Skills", "跑跳与敏捷技能", ("running", "jumping", "parkour", "agile", "acrobat", "dynamic locomotion")),
-                ("Stairs, Terrain & Rough-ground Traversal", "楼梯、地形与崎岖地面通行", ("stairs", "terrain", "rough ground", "uneven ground", "slope", "stepping stone")),
-                ("Footstep & Contact Planning", "落脚点与接触规划", ("footstep planning", "contact planning", "foothold", "step planning", "walking pattern", "zero moment point")),
-            ),
-        ),
-        "Quadruped & Legged Locomotion": subcategory(
-            "四足与多足运动",
-            ("quadruped", "quadrupedal", "legged", "multi legged", "hexapod", "robot dog"),
-            (
-                ("Quadruped Locomotion", "四足运动", ("quadruped", "quadrupedal", "robot dog", "four legged", "quadruped locomotion", "quadruped control")),
-                ("General Legged & Multi-legged Control", "通用腿式与多足控制", ("legged", "multi legged", "hexapod", "six legged", "legged robot", "legged locomotion")),
-                ("Terrain Adaptation & Traversal", "地形适应与通行", ("terrain adaptation", "rough terrain", "terrain traversal", "uneven terrain", "blind locomotion", "proprioceptive locomotion")),
-                ("Agility, Recovery & Dynamic Maneuvers", "敏捷、恢复与动态机动", ("agile locomotion", "dynamic maneuver", "jump recovery", "fall recovery", "rapid locomotion", "athletic")),
-            ),
-        ),
-        "Motion Imitation & Generation": subcategory(
-            "动作模仿与生成",
-            ("motion imitation", "motion tracking", "motion generation", "human motion", "motion style", "reference motion"),
-            (
-                ("Reference-motion Imitation", "参考动作模仿", ("motion imitation", "reference motion", "motion tracking", "motion retargeting", "imitation control", "motion replay")),
-                ("Language-conditioned Motion Generation", "语言条件动作生成", ("language conditioned motion", "text to motion", "motion generation", "motion synthesis", "language motion", "commanded motion")),
-                ("Style, Expressive & Human-like Motion", "风格化、表现性与类人动作", ("motion style", "style transfer", "human like", "expressive motion", "natural motion", "dance")),
-                ("Motion Priors & Behavioral Models", "动作先验与行为模型", ("motion prior", "behavior model", "behaviour model", "motion manifold", "latent motion", "behavior foundation")),
-            ),
-        ),
-        "Balance, Dynamics & Recovery": subcategory(
-            "平衡、动力学与恢复",
-            ("balance", "dynamics", "recovery", "state estimation", "stability", "contact force", "centroidal"),
-            (
-                ("Balance & Stability Control", "平衡与稳定控制", ("balance control", "balancing", "stability", "center of mass", "zero moment", "postural control")),
-                ("Dynamics, MPC & Whole-body Optimization", "动力学、MPC 与全身优化", ("centroidal dynamics", "rigid body dynamics", "model predictive", "whole body optimization", "inverse dynamics", "dynamics control")),
-                ("Fall Prevention & Recovery", "防跌倒与恢复", ("fall prevention", "fall recovery", "push recovery", "disturbance recovery", "fault recovery", "robust recovery")),
-                ("State, Contact & Force Estimation", "状态、接触与力估计", ("state estimation", "contact estimation", "force estimation", "ground reaction", "contact force", "inertial estimation")),
-            ),
-        ),
-        "Hardware & Morphology": subcategory(
-            "硬件与机器人形态",
-            ("actuator", "joint design", "robot design", "musculoskeletal", "leg design", "mechanism", "hardware"),
-            (
-                ("Actuators, Joints & Transmission", "驱动器、关节与传动", ("actuator", "joint actuator", "transmission", "gearbox", "series elastic", "tendon driven")),
-                ("Feet, Legs & Mechanical Design", "足部、腿部与机械设计", ("foot design", "leg design", "ankle", "mechanical design", "compliant leg", "robot mechanism")),
-                ("Musculoskeletal & Bio-inspired Robots", "肌骨与仿生机器人", ("musculoskeletal", "bio inspired", "biomimetic", "artificial muscle", "tendon driven humanoid", "human biomechanics")),
-                ("Morphology & Co-design", "形态与协同设计", ("morphology", "co design", "codesign", "body design", "robot morphology", "design optimization")),
-            ),
-        ),
-    },
-    "Perception & World Models": {
-        "3D Scene Perception": subcategory(
-            "三维场景感知",
-            ("3d", "point cloud", "depth", "reconstruction", "occupancy", "nerf", "gaussian splatting"),
-            (
-                ("Point-cloud & LiDAR Perception", "点云与激光感知", ("point cloud", "lidar", "laser scan", "3d point", "range image", "point based")),
-                ("Depth, Stereo & RGB-D", "深度、双目与 RGB-D", ("depth estimation", "stereo", "rgb d", "depth completion", "monocular depth", "range sensing")),
-                ("3D Reconstruction, NeRF & Gaussian Splatting", "三维重建、NeRF 与高斯泼溅", ("3d reconstruction", "nerf", "neural radiance", "gaussian splatting", "3dgs", "scene reconstruction")),
-                ("Occupancy & Scene Representation", "占据与场景表征", ("occupancy", "voxel", "scene representation", "implicit scene", "signed distance", "sdf")),
-            ),
-        ),
-        "Object, Pose & Affordance Perception": subcategory(
-            "物体、姿态与可供性感知",
-            ("object detection", "segmentation", "pose estimation", "affordance", "object pose", "articulated object"),
-            (
-                ("Object Detection & Segmentation", "物体检测与分割", ("object detection", "semantic segmentation", "instance segmentation", "open vocabulary detection", "object segmentation", "panoptic")),
-                ("6D Pose & Keypoint Estimation", "六维姿态与关键点估计", ("6d pose", "object pose", "pose estimation", "keypoint", "pose tracking", "orientation estimation")),
-                ("Affordance & Interaction Prediction", "可供性与交互预测", ("affordance", "interaction prediction", "actionable region", "grasp affordance", "functional part", "object function")),
-                ("Articulated & Object-centric Perception", "关节物体与物体中心感知", ("articulated object", "object centric", "part segmentation", "kinematic structure", "object part", "articulation")),
-            ),
-        ),
-        "State Estimation & Tracking": subcategory(
-            "状态估计与跟踪",
-            ("state estimation", "tracking", "odometry", "calibration", "sensor fusion", "scene flow"),
-            (
-                ("Object & Multi-target Tracking", "物体与多目标跟踪", ("object tracking", "multi object tracking", "target tracking", "visual tracking", "tracking by detection", "trajectory tracking")),
-                ("Robot State & Visual Odometry", "机器人状态与视觉里程计", ("robot state estimation", "visual odometry", "state estimator", "ego motion", "camera motion", "odometry")),
-                ("Calibration & Sensor Fusion", "标定与传感器融合", ("calibration", "sensor fusion", "multi sensor", "camera lidar", "extrinsic calibration", "imu fusion")),
-                ("Scene Flow & Dynamic-state Estimation", "场景流与动态状态估计", ("scene flow", "motion estimation", "dynamic scene", "velocity estimation", "dynamic object", "temporal perception")),
-            ),
-        ),
-        "Tactile & Multimodal Perception": subcategory(
-            "触觉与多模态感知",
-            ("tactile", "touch", "force sensing", "contact sensing", "visuotactile", "proprioception"),
-            (
-                ("Tactile Recognition & Representation", "触觉识别与表征", ("tactile recognition", "tactile representation", "tactile image", "touch recognition", "tactile feature", "tactile learning")),
-                ("Force, Contact & Slip Perception", "力、接触与滑移感知", ("force sensing", "contact sensing", "slip detection", "contact perception", "wrench sensing", "pressure sensing")),
-                ("Visuotactile & Multisensory Fusion", "视触觉与多感官融合", ("visuotactile", "visual tactile", "multisensory", "multi modal sensing", "sensor fusion", "vision touch")),
-                ("Proprioception & Embodied Sensing", "本体感知与具身传感", ("proprioception", "proprioceptive", "joint sensing", "body sensing", "embodied sensing", "internal sensing")),
-            ),
-        ),
-        "World & Dynamics Models": subcategory(
-            "世界与动力学模型",
-            ("world model", "dynamics model", "predictive model", "video prediction", "neural dynamics", "future prediction"),
-            (
-                ("Latent World Models", "潜空间世界模型", ("latent world model", "world model", "latent dynamics", "state space model", "predictive representation", "latent state")),
-                ("Object-centric & Structured Dynamics", "物体中心与结构化动力学", ("object centric dynamics", "structured dynamics", "graph dynamics", "compositional dynamics", "interaction network", "object dynamics")),
-                ("Video & Future Prediction", "视频与未来预测", ("video prediction", "future prediction", "frame prediction", "visual forecasting", "future frame", "predictive video")),
-                ("Physics-informed & Neural Dynamics", "物理先验与神经动力学", ("physics informed", "neural dynamics", "dynamics model", "hamiltonian", "lagrangian", "physical prediction")),
-            ),
-        ),
-        "Active & Multiview Perception": subcategory(
-            "主动与多视角感知",
-            ("active perception", "next best view", "viewpoint", "multi view", "multiview", "occlusion"),
-            (
-                ("Next-best-view & View Planning", "下一最佳视角与视角规划", ("next best view", "view planning", "viewpoint selection", "camera planning", "active view", "view optimization")),
-                ("Active Perception & Information Gathering", "主动感知与信息采集", ("active perception", "information gathering", "uncertainty reduction", "active sensing", "perception action", "sensor planning")),
-                ("Multiview Fusion & Consistency", "多视角融合与一致性", ("multi view", "multiview", "view fusion", "cross view", "multi camera", "view consistency")),
-                ("Occlusion-aware & Interactive Perception", "遮挡感知与交互式感知", ("occlusion", "occluded object", "interactive perception", "move to see", "active object perception", "visibility")),
-            ),
-        ),
-    },
-    "Simulation, Data & Evaluation": {
-        "Simulation & Digital Twins": subcategory(
-            "仿真与数字孪生",
-            ("simulation", "simulator", "digital twin", "physics engine", "differentiable simulation", "neural simulation"),
-            (
-                ("Physics Engines & Robot Simulators", "物理引擎与机器人仿真器", ("physics engine", "robot simulator", "simulation platform", "mujoco", "isaac", "gazebo")),
-                ("Differentiable & Neural Simulation", "可微与神经仿真", ("differentiable simulation", "differentiable physics", "neural simulation", "learned simulator", "differentiable dynamics", "gradient simulation")),
-                ("Digital Twins & Real-to-sim Reconstruction", "数字孪生与现实到仿真重建", ("digital twin", "digital twins", "real to sim", "real-to-sim", "scene replica", "environment reconstruction")),
-                ("Large-scale Parallel Simulation", "大规模并行仿真", ("parallel simulation", "gpu simulation", "massively parallel", "large scale simulation", "vectorized environment", "batch simulation")),
-            ),
-        ),
-        "Sim-to-real & Domain Adaptation": subcategory(
-            "仿真到现实与域适配",
-            ("sim to real", "sim2real", "domain adaptation", "domain randomization", "system identification", "reality gap"),
-            (
-                ("Domain Randomization", "域随机化", ("domain randomization", "visual randomization", "dynamics randomization", "texture randomization", "randomized simulation", "parameter randomization")),
-                ("System Identification & Calibration", "系统辨识与校准", ("system identification", "system identification", "sim calibration", "parameter identification", "dynamics calibration", "model calibration")),
-                ("Domain Adaptation & Transfer", "域适配与迁移", ("domain adaptation", "domain transfer", "sim to real transfer", "feature adaptation", "adversarial adaptation", "cross domain")),
-                ("Reality-gap Evaluation", "现实差距评估", ("reality gap", "sim real gap", "simulation fidelity", "transfer gap", "real world validation", "sim versus real")),
-            ),
-        ),
-        "Datasets & Data Engines": subcategory(
-            "数据集与数据引擎",
-            ("dataset", "data collection", "data generation", "synthetic data", "demonstration data", "data engine"),
-            (
-                ("Robot Datasets & Corpora", "机器人数据集与语料库", ("robot dataset", "robotics dataset", "dataset", "data corpus", "large scale data", "benchmark dataset")),
-                ("Demonstration & Trajectory Data", "示范与轨迹数据", ("demonstration dataset", "trajectory dataset", "human demonstration", "teleoperation data", "motion dataset", "robot trajectories")),
-                ("Synthetic Data Generation", "合成数据生成", ("synthetic data", "data generation", "procedural generation", "synthetic dataset", "rendered data", "generative data")),
-                ("Data Curation, Annotation & Quality", "数据整理、标注与质量", ("data curation", "annotation", "data quality", "dataset cleaning", "data filtering", "data selection")),
-            ),
-        ),
-        "Benchmarks & Evaluation": subcategory(
-            "基准与评测",
-            ("benchmark", "evaluation", "metric", "protocol", "comparison", "challenge"),
-            (
-                ("Task & Capability Benchmarks", "任务与能力基准", ("task benchmark", "capability benchmark", "benchmarking", "challenge", "evaluation suite", "test suite")),
-                ("Metrics & Evaluation Protocols", "指标与评测协议", ("evaluation metric", "evaluation protocol", "metric", "scoring", "measurement protocol", "evaluation framework")),
-                ("Robustness & Stress Testing", "稳健性与压力测试", ("stress test", "robustness evaluation", "perturbation", "noise benchmark", "adversarial test", "failure benchmark")),
-                ("Real-world & Cross-platform Evaluation", "真实世界与跨平台评测", ("real world evaluation", "cross platform", "cross robot evaluation", "hardware evaluation", "field evaluation", "cross embodiment benchmark")),
-            ),
-        ),
-        "Training Infrastructure & Tools": subcategory(
-            "训练基础设施与工具",
-            ("framework", "toolkit", "infrastructure", "distributed", "gpu", "middleware", "runtime", "library"),
-            (
-                ("Training Frameworks & RL Environments", "训练框架与强化学习环境", ("training framework", "rl environment", "learning framework", "training platform", "environment suite", "gym environment")),
-                ("Distributed, GPU & Data Systems", "分布式、GPU 与数据系统", ("distributed training", "gpu accelerated", "data pipeline", "parallel training", "distributed system", "compute efficient")),
-                ("Open-source Libraries & Toolkits", "开源库与工具包", ("open source", "library", "toolkit", "software framework", "robotics framework", "development kit")),
-                ("Deployment, Runtime & Middleware", "部署、运行时与中间件", ("deployment", "runtime", "middleware", "ros", "edge computing", "real time system")),
-            ),
-        ),
-        "Safety, Robustness & Reproducibility": subcategory(
-            "安全、稳健与可复现性",
-            ("safety", "robustness", "uncertainty", "failure", "reproducibility", "certification", "reliable"),
-            (
-                ("Safety Constraints & Verification", "安全约束与验证", ("safety constraint", "formal verification", "safe control", "safety filter", "control barrier", "certification")),
-                ("Uncertainty & Out-of-distribution Testing", "不确定性与分布外测试", ("uncertainty", "out of distribution", "ood", "distribution shift", "confidence estimation", "unknown environment")),
-                ("Failure Analysis & Reliability", "失败分析与可靠性", ("failure analysis", "fault detection", "reliability", "failure mode", "fault tolerant", "system failure")),
-                ("Reproducibility & Standardization", "可复现性与标准化", ("reproducibility", "standardization", "standard protocol", "repeatability", "open benchmark", "reporting standard")),
-            ),
-        ),
-    },
+        }
+        for sub in track["subcategories"]
+    }
+    for track in SCHEMA["tracks"]
 }
+TRACKS = list(HIERARCHY)
+TRACK_META = {
+    track["name"]: {key: track[key] for key in
+                    ("name_zh", "question", "question_zh", "pipeline", "pipeline_zh")}
+    for track in SCHEMA["tracks"]
+}
+DEFAULT_SUBCATEGORY = {track: next(iter(subs)) for track, subs in HIERARCHY.items()}
+# Unknown dexterity is not evidence of human-to-hand retargeting.
+DEFAULT_SUBCATEGORY[TRACKS[2]] = "Multifinger Grasping & Control"
+# Parent cues locate a subfield even when its specific level-3 method is unknown.
+SUBFIELD_CUES = {
+    "Imitation Learning": ("imitation learning", "learning from demonstration", "learning from demonstrations", "behavior cloning"),
+    "Reinforcement Learning": ("reinforcement learning", "online rl", "offline rl"),
+    "Generative Action Policies": ("diffusion policy", "diffusion policies", "flow matching", "action token"),
+    "VLA & Generalist Robot Policies": ("vision language action", "generalist robot", "vla", "robot foundation"),
+    "Generalization & Adaptation": ("policy adaptation", "cross robot", "cross embodiment", "test time adaptation"),
+    "Grasping & Pick-place": ("grasp", "grasping", "pick place", "rearrangement"),
+    "Contact-rich Manipulation": ("insertion", "assembly", "pushing", "pulling", "tool use", "articulated", "contact rich"),
+    "Deformable Object Manipulation": ("deformable", "cloth", "garment", "rope", "fabric"),
+    "Coordinated & Complex Manipulation": ("bimanual", "dual arm", "mobile manipulation", "task and motion planning", "long horizon manipulation"),
+    "Multifinger Grasping & Control": ("dexterous grasping", "dexterous grasp", "multifinger", "multi finger", "grasp force", "hand control", "grip force"),
+    "In-hand Manipulation": ("in hand", "object reorientation", "finger gaiting", "pen spinning"),
+    "Teleoperation & Shared Control": ("teleoperation", "telemanipulation", "telepresence", "shared autonomy", "shared control", "bilateral"),
+    "Human Demonstrations to Dexterous Skills": ("human video", "human videos", "human demonstration", "human demonstrations", "dexterous imitation", "skill transfer"),
+    "Localization & Mapping": ("slam", "odometry", "localization", "mapping", "relocalization"),
+    "Goal & Language Navigation": ("goal navigation", "objectnav", "vision language navigation", "language navigation", "vln", "semantic navigation"),
+    "Motion Planning & Exploration": ("path planning", "motion planning", "exploration", "obstacle avoidance", "trajectory optimization"),
+    "Multi-robot & Social Navigation": ("multi robot", "social navigation", "swarm", "formation", "human aware navigation"),
+    "Bipedal & Humanoid Locomotion": ("humanoid walking", "bipedal", "biped", "walking", "footstep"),
+    "Quadruped & Multilegged Locomotion": ("quadruped", "quadrupedal", "hexapod", "multilegged"),
+    "Whole-body Coordination & Balance": ("whole body control", "balance", "fall recovery", "push recovery", "humanoid control"),
+    "Whole-body Motion Transfer": ("motion retargeting", "humanoid retargeting", "whole body retargeting", "motion imitation", "human motion", "motion generation"),
+    "Locomotion-Manipulation Coordination": ("loco manipulation", "humanoid manipulation", "leg arm", "whole body interaction"),
+    "3D Environment Perception": ("3d reconstruction", "point cloud", "depth estimation", "occupancy", "gaussian splatting", "nerf"),
+    "Object & Interaction Perception": ("object detection", "segmentation", "object tracking", "object pose", "6d pose", "affordance"),
+    "Human & Hand-object Perception": ("hand pose", "hand tracking", "human pose", "human body", "hand object reconstruction"),
+    "Tactile & Multimodal Perception": ("tactile", "visuotactile", "visual tactile", "sensor fusion", "proprioception"),
+    "State Estimation & Active Perception": ("state estimation", "calibration", "active perception", "view selection", "synchronization"),
+    "World & Dynamics Modeling": ("world model", "world models", "dynamics model", "video prediction", "contact dynamics"),
+    "Model-based Decision Making": ("model predictive control", "mpc", "model based planning", "model based rl", "imagination", "world model planning"),
+    "Task Reasoning & Planning": ("task planning", "task decomposition", "symbolic planning", "llm planning", "embodied reasoning", "question answering"),
+    "Memory & Autonomous Execution": ("episodic memory", "replanning", "autonomous execution", "memory augmented", "failure recovery"),
+    "Datasets & Data Engineering": ("dataset", "datasets", "data curation", "data quality", "annotation", "data collection"),
+    "Synthetic & Augmented Data": ("data engine", "data generation", "synthetic data", "data augmentation", "data synthesis", "data conversion"),
+    "Simulation & Digital Twins": ("simulator", "simulators", "simulation framework", "simulation platform", "digital twin", "differentiable simulation"),
+    "Sim-to-real Transfer": ("sim to real", "sim2real", "domain randomization", "system identification", "reality gap"),
+    "Benchmarks & Experimental Methods": ("benchmark", "benchmarks", "benchmarking", "evaluation protocol", "evaluation metric"),
+    "Safety & Reliability Evaluation": ("safety verification", "safety evaluation", "formal verification", "fault diagnosis", "failure analysis"),
+    "Mechanisms & Actuation": ("hand design", "gripper design", "robot design", "dexterous hand", "robotic hand", "robot hand", "actuator", "actuation", "transmission", "motor"),
+    "Sensors & Human Interfaces": ("tactile sensor", "force sensor", "sensor design", "wearable", "haptic device", "exoskeleton", "data glove", "force feedback glove", "tactile finger", "sensorized soft skin"),
+    "Soft & Specialized Robots": ("soft robot", "soft gripper", "continuum robot", "biomimetic", "bio inspired", "underwater robot"),
+    "Computing & Deployment Systems": ("software framework", "toolkit", "on device", "policy compression", "middleware", "inference latency", "communication architecture"),
+}
+LEGACY_TRACKS = {
+    "Foundation Models & VLA": TRACKS[0],
+    "Manipulation & Imitation": TRACKS[1],
+    "Dexterity & Teleoperation": TRACKS[2],
+    "Navigation & Embodied Agents": TRACKS[3],
+    "Humanoids & Locomotion": TRACKS[4],
+    "Perception & World Models": TRACKS[5],
+    "Simulation, Data & Evaluation": TRACKS[7],
+}
+OVERRIDES = json.loads(Path(__file__).with_name("taxonomy_overrides.json").read_text())
 
-
-DEFAULT_SUBCATEGORY = {
-    "Foundation Models & VLA": "VLA Architectures",
-    "Manipulation & Imitation": "Manipulation Policy Learning",
-    "Dexterity & Teleoperation": "Dexterous Hand Control",
-    "Navigation & Embodied Agents": "Motion & Path Planning",
-    "Humanoids & Locomotion": "Humanoid Whole-body Control",
-    "Perception & World Models": "3D Scene Perception",
-    "Simulation, Data & Evaluation": "Benchmarks & Evaluation",
+# Search facets supplement the mutually exclusive primary directory.
+TAG_RULES = {
+    "method_tags": {
+        "Reinforcement Learning": ("强化学习", ("reinforcement learning", "rl", "policy gradient", "actor critic")),
+        "Imitation Learning": ("模仿学习", ("imitation learning", "behavior cloning", "learning from demonstration")),
+        "Optimization": ("优化", ("optimization", "inverse kinematics", "quadratic program")),
+        "Diffusion": ("扩散", ("diffusion", "denoising")),
+        "Flow Matching": ("Flow Matching", ("flow matching",)),
+        "MPC": ("模型预测控制", ("model predictive control", "mpc")),
+        "Physics Constraints": ("物理约束", ("physics based", "physics informed", "dynamic feasibility")),
+    },
+    "embodiment_tags": {
+        "Dexterous Hands": ("灵巧手", ("dexterous", "multifinger", "multi finger", "robot hand", "robot hands")),
+        "Humanoids": ("人形机器人", ("humanoid", "humanoids", "bipedal")),
+        "Quadrupeds": ("四足机器人", ("quadruped", "quadrupedal")),
+        "Arms & Grippers": ("机械臂与夹爪", ("manipulator", "robot arm", "gripper", "parallel jaw")),
+        "Aerial Robots": ("空中机器人", ("uav", "aerial", "drone")),
+        "Marine Robots": ("水下机器人", ("underwater", "marine")),
+        "Ground Vehicles": ("地面车辆", ("autonomous driving", "ground vehicle", "mobile robot")),
+    },
+    "data_tags": {
+        "Human Video": ("人类视频", ("human video", "human videos", "monocular video", "video demonstration")),
+        "Motion Capture": ("动作捕捉", ("motion capture", "mocap", "motion recordings")),
+        "Teleoperation Data": ("遥操作数据", ("teleoperation", "teleoperated", "teleoperating")),
+        "Simulation": ("仿真", ("simulation", "simulated", "simulator")),
+        "Real Robot": ("真实机器人", ("real robot", "real robots", "hardware experiments", "physical hardware")),
+        "Tactile Data": ("触觉数据", ("tactile", "touch sensing")),
+    },
+    "related_topics": {
+        "Retargeting": ("全部重定向", ("retargeting", "retarget")),
+        "Hand Retargeting": ("灵巧手重定向", ()),
+        "Whole-body Retargeting": ("全身重定向", ()),
+        "Dexterous Manipulation": ("灵巧操作", ("dexterous manipulation", "in hand manipulation")),
+        "Bimanual": ("双手／双臂", ("bimanual", "dual arm", "dual hand")),
+        "Contact-rich": ("接触丰富交互", ("contact rich", "hand object", "contact structure")),
+        "Teleoperation": ("遥操作", ("teleoperation", "teleoperated")),
+        "World Models": ("世界模型", ("world model", "world models", "world action model")),
+    },
 }
 
 
@@ -467,128 +145,228 @@ def normalize_term(value: str) -> str:
 
 
 def term_present(text: str, term: str) -> bool:
-    normalized = normalize_term(term)
-    if not normalized:
-        return False
-    return f" {normalized} " in f" {text} "
+    term = normalize_term(term)
+    return bool(term) and f" {term} " in f" {text} "
 
 
-def score_terms(
-    terms: tuple[str, ...], title: str, topic: str, abstract: str
-) -> tuple[int, str]:
-    score = 0
-    evidence: list[tuple[int, int, str, str]] = []
-    for term in terms:
-        normalized = normalize_term(term)
-        specificity = min(len(normalized.split()), 4)
-        for location, text, weight in (
-            ("title", title, 12),
-            ("topic", topic, 5),
-            ("abstract", abstract, 1),
-        ):
-            if term_present(text, normalized):
-                value = weight + specificity
-                score += value
-                evidence.append((value, len(normalized), location, normalized))
-    if not evidence:
+def score_terms(terms, title, topic, abstract):
+    # Legacy admission topics do not determine the new organization.
+    matches = []
+    for term in set(terms):
+        for location, text, weight in (("title", title, 1000), ("abstract", abstract, 1)):
+            if term_present(text, term):
+                value = weight + min(len(normalize_term(term).split()), 4)
+                matches.append((value, normalize_term(term), location))
+    if not matches:
         return 0, "fallback"
-    _, _, location, term = max(evidence)
-    return score, f"{location}:{term}"
+    best = max(matches)
+    # A pile of background abstract terms cannot outweigh a title contribution.
+    title_matches = [match for match in matches if match[2] == "title"]
+    selected = title_matches or matches
+    return sum(match[0] for match in selected), f"{best[2]}:{best[1]}"
 
 
-def classify_hierarchy(
-    track: str,
-    title: str,
-    topic: str = "",
-    abstract: str = "",
-) -> tuple[str, str, str]:
-    """Return level-2 subcategory, level-3 specialty, and best evidence."""
+def _contains(text, terms):
+    return any(term_present(text, term) for term in terms)
+
+
+def _hand_retargeting(title, abstract):
+    if _contains(title, ("without retargeting", "retargeting free", "no retargeting")):
+        return False
+    hand = _contains(title, ("hand", "hand pose", "hand object", "dexterous", "finger"))
+    retarget = "retarget" in title
+    # Hand-object contact can be central even without 'hand' in the title.
+    hand_context = _contains(abstract, ("human hand", "robot hand", "target hands", "robot hands"))
+    body_title = _contains(title, ("humanoid", "whole body", "quadruped", "upper body"))
+    return retarget and (hand or (hand_context and not body_title))
+
+
+def _primary_track(title, abstract, old_track):
+    """Use explicit contribution cues before generic keyword ranking."""
+    if _contains(title, ("dataset", "datasets", "benchmark", "benchmarks", "data engine",
+                         "data generation", "data collection", "simulator", "simulators", "simulation platform", "simulation framework")):
+        return TRACKS[7], "title:data or evaluation contribution"
+    if _contains(title, ("sensor fusion", "sensor calibration", "tactile representation",
+                         "hand pose estimation", "hand tracking", "human pose estimation",
+                         "force estimation", "object pose", "contact estimation")):
+        return TRACKS[5], "title:perception or estimation contribution"
+    design = _contains(title, ("design", "designed", "development", "fabrication", "modular",
+                              "underactuated", "tendon driven", "cable driven", "low cost"))
+    device = _contains(title, ("hand", "gripper", "arm", "robot", "robots", "sensor", "sensors", "glove", "finger"))
+    if (design and device) or _contains(title, ("tactile sensor", "tactile sensors", "force sensor",
+                         "actuator", "motor", "mechanism", "robot design", "hand design",
+                         "gripper design", "hand based on", "force feedback glove", "tactile finger",
+                         "sensorized soft skin", "exoskeleton", "on device", "policy compression")):
+        return TRACKS[8], "title:hardware or deployment contribution"
+    if _hand_retargeting(title, abstract):
+        return TRACKS[2], "title/abstract:hand retargeting"
+    if _contains(title, ("world model", "world models", "video prediction", "latent dynamics",
+                         "task planning", "embodied reasoning", "question answering", "episodic memory")):
+        return TRACKS[6], "title:prediction or reasoning"
+    if _contains(title, ("vision language action", "vla", "robot foundation model", "generalist robot")):
+        return TRACKS[0], "title:foundation policy contribution"
+    if _contains(title, ("humanoid", "humanoids", "quadruped", "bipedal", "locomotion",
+                         "whole body", "gait", "legged", "motion retargeting")):
+        return TRACKS[4], "title:locomotion or whole body"
+    if _contains(title, ("navigation", "slam", "odometry", "localization", "path planning",
+                         "exploration", "swarm", "formation control")):
+        return TRACKS[3], "title:navigation or localization"
+    if _contains(title, ("dexterous", "in hand", "finger gaiting", "multifinger", "multi finger",
+                         "teleoperation", "telemanipulation", "shared autonomy", "hand retargeting")):
+        return TRACKS[2], "title:dexterous hands or teleoperation"
+    if _contains(title, ("vision language action", "vla", "diffusion policy", "flow policy",
+                         "behavior cloning", "offline reinforcement", "generalist robot",
+                         "robot pretraining")):
+        return TRACKS[0], "title:general policy learning"
+    if _contains(title, ("manipulation", "grasp", "grasping", "insertion", "assembly",
+                         "pick and place", "rearrangement", "cloth", "rope", "handover")):
+        return TRACKS[1], "title:object manipulation"
+    if _contains(title, ("reconstruction", "perception", "pose estimation", "segmentation",
+                         "depth estimation", "tracking", "tactile", "sensor fusion")):
+        return TRACKS[5], "title:perception or state"
+    ranked = []
+    for index, (track, subfields) in enumerate(HIERARCHY.items()):
+        # Maximum leaf score avoids favoring directions with more vocabulary.
+        score = max(
+            score_terms(terms, title, "", abstract)[0]
+            for meta in subfields.values() for _, _, terms in meta["specialties"]
+        )
+        ranked.append((score, -index, track))
+    score, _, track = max(ranked)
+    if score:
+        return track, "rule:contribution vocabulary"
+    return LEGACY_TRACKS.get(old_track, old_track if old_track in HIERARCHY else TRACKS[0]), "fallback"
+
+
+def classify_hierarchy(track, title, topic="", abstract=""):
     if track not in HIERARCHY:
         raise ValueError(f"Unsupported research track: {track}")
-    title_text = normalize_text(title)
-    topic_text = normalize_text(topic)
-    abstract_text = normalize_text(abstract)
-    ranked_subcategories: list[tuple[int, int, str, str]] = []
-    for priority, (name, meta) in enumerate(HIERARCHY[track].items()):
-        specialty_terms = tuple(
-            term
-            for _, _, terms in meta["specialties"]
-            for term in terms
-        )
-        score, evidence = score_terms(
-            tuple(dict.fromkeys(tuple(meta["terms"]) + specialty_terms)),
-            title_text,
-            topic_text,
-            abstract_text,
-        )
-        if score:
-            ranked_subcategories.append((score, -priority, name, evidence))
-    if ranked_subcategories:
-        _, _, subcategory_name, subcategory_evidence = max(ranked_subcategories)
-    else:
-        subcategory_name = DEFAULT_SUBCATEGORY[track]
-        subcategory_evidence = "fallback"
-
-    specialty_ranked: list[tuple[int, int, str, str]] = []
-    specialties = HIERARCHY[track][subcategory_name]["specialties"]
-    for priority, (name, _, terms) in enumerate(specialties):
-        score, evidence = score_terms(terms, title_text, topic_text, abstract_text)
-        if score:
-            specialty_ranked.append((score, -priority, name, evidence))
-    if specialty_ranked:
-        _, _, specialty_name, evidence = max(specialty_ranked)
-    else:
-        specialty_name = GENERAL_SPECIALTY
-        evidence = subcategory_evidence
-    return subcategory_name, specialty_name, evidence
+    title_text, abstract_text = normalize_text(title), normalize_text(abstract)
+    is_hand_retargeting = _hand_retargeting(title_text, abstract_text)
+    # Explicit title-level parent cues constrain abstract-level leaf ranking.
+    parent_matches = []
+    for index, name in enumerate(HIERARCHY[track]):
+        terms = SUBFIELD_CUES.get(name, ())
+        found = [normalize_term(term) for term in terms if term_present(title_text, term)]
+        if found:
+            best = max(found, key=lambda term: (len(term.split()), len(term), term))
+            parent_matches.append((len(best.split()), len(best), -index, name, best))
+    selected_parent = max(parent_matches)[3] if parent_matches else None
+    if track == TRACKS[2] and is_hand_retargeting:
+        selected_parent = "Dexterous Hand Retargeting"
+    ranked = []
+    for sub_index, (name, meta) in enumerate(HIERARCHY[track].items()):
+        if name == "Dexterous Hand Retargeting" and not is_hand_retargeting:
+            continue
+        if selected_parent and name != selected_parent:
+            continue
+        if name == "Human Demonstrations to Dexterous Skills" and _contains(title_text, ("without demonstrations", "without human demonstrations", "demonstration free")):
+            continue
+        for spec_index, (spec, _, terms) in enumerate(meta["specialties"]):
+            score, evidence = score_terms(terms, title_text, "", abstract_text)
+            if score:
+                ranked.append((score, -sub_index, -spec_index, name, spec, evidence))
+    if track == TRACKS[2] and is_hand_retargeting:
+        name = "Dexterous Hand Retargeting"
+        selected = [row for row in ranked if row[3] == name]
+        if selected:
+            _, _, _, sub, spec, evidence = max(selected)
+            return sub, spec, evidence
+        return name, GENERAL_SPECIALTY, "title:retargeting"
+    if not ranked:
+        if selected_parent:
+            matched = next(row[4] for row in parent_matches if row[3] == selected_parent)
+            return selected_parent, GENERAL_SPECIALTY, f"title:{matched}"
+        return DEFAULT_SUBCATEGORY[track], GENERAL_SPECIALTY, "fallback"
+    _, _, _, sub, spec, evidence = max(ranked)
+    return sub, spec, evidence
 
 
 def annotate_paper(paper: dict[str, Any], abstract: str = "") -> dict[str, Any]:
-    subcategory_name, specialty_name, evidence = classify_hierarchy(
-        paper["track"], paper["title"], paper.get("topic", ""), abstract
-    )
-    paper["subcategory"] = subcategory_name
-    paper["specialty"] = specialty_name
-    paper["taxonomy_evidence"] = evidence
+    abstract = abstract or paper.get("abstract", "")
+    title_text, abstract_text = normalize_text(paper["title"]), normalize_text(abstract)
+    paper.setdefault("admission_track", paper["track"])
+    override = OVERRIDES.get(title_text)
+    track, primary_evidence = _primary_track(title_text, abstract_text, paper["admission_track"])
+    if override:
+        track, sub, spec = override["path"]
+        evidence = "reviewed:" + override["reason"]
+        primary_evidence = evidence
+    else:
+        sub, spec, evidence = classify_hierarchy(track, paper["title"], "", abstract)
+    paper.update(track=track, subcategory=sub, specialty=spec, taxonomy_evidence=evidence,
+                 primary_evidence=primary_evidence,
+                 subcategory_status="provisional" if evidence == "fallback" else "rule-supported",
+                 classification_status="reviewed" if override else
+                 ("needs-review" if evidence == "fallback" or primary_evidence == "fallback"
+                  or spec == GENERAL_SPECIALTY else "rule-assigned"))
+    combined = title_text + " " + abstract_text
+    for field, rules in TAG_RULES.items():
+        paper[field] = [name for name, (_, terms) in rules.items() if _contains(combined, terms)]
+    if _hand_retargeting(title_text, abstract_text):
+        paper["related_topics"].append("Hand Retargeting")
+    if "retarget" in title_text and _contains(title_text, ("humanoid", "whole body", "quadruped", "motion retargeting")) and not _hand_retargeting(title_text, abstract_text):
+        paper["related_topics"].append("Whole-body Retargeting")
+    if override:
+        paper["related_topics"].extend(override.get("related_topics", []))
+        paper["related_topics"] = [
+            topic for topic in paper["related_topics"]
+            if topic not in override.get("excluded_topics", [])
+        ]
+    # A generic fallback must never manufacture a specific retargeting association.
+    if sub == "Dexterous Hand Retargeting" and override:
+        paper["related_topics"].append("Hand Retargeting")
+    if any(tag in paper["related_topics"] for tag in ("Hand Retargeting", "Whole-body Retargeting")):
+        paper["related_topics"].append("Retargeting")
+    for field in TAG_RULES:
+        paper[field] = sorted(set(paper[field]))
+    paper["related_taxonomy_paths"] = []
+    # These links are associations, not extra primary directory attachments.
+    if "Hand Retargeting" in paper["related_topics"] and sub != "Dexterous Hand Retargeting":
+        paper["related_taxonomy_paths"].append(
+            {"track": TRACKS[2], "subcategory": "Dexterous Hand Retargeting"})
+    if "Whole-body Retargeting" in paper["related_topics"] and sub != "Whole-body Motion Transfer":
+        paper["related_taxonomy_paths"].append(
+            {"track": TRACKS[4], "subcategory": "Whole-body Motion Transfer"})
+    if "Reinforcement Learning" in paper["method_tags"] and sub != "Reinforcement Learning":
+        paper["related_taxonomy_paths"].append(
+            {"track": TRACKS[0], "subcategory": "Reinforcement Learning"})
     return paper
 
 
-def taxonomy_metadata() -> dict[str, Any]:
-    tracks: dict[str, Any] = {}
-    specialty_count = 0
-    for track, subcategories in HIERARCHY.items():
-        rendered_subcategories: dict[str, Any] = {}
-        for name, meta in subcategories.items():
-            specialties = {
-                specialty_name: {"name_zh": specialty_zh}
-                for specialty_name, specialty_zh, _ in meta["specialties"]
-            }
-            specialties[GENERAL_SPECIALTY] = {"name_zh": GENERAL_SPECIALTY_ZH}
-            specialty_count += len(meta["specialties"])
-            rendered_subcategories[name] = {
-                "name_zh": meta["name_zh"],
-                "specialties": specialties,
-            }
-        tracks[track] = {"subcategories": rendered_subcategories}
+def taxonomy_metadata():
+    tracks = {}
+    for track, subfields in HIERARCHY.items():
+        tracks[track] = {"subcategories": {
+            name: {"name_zh": meta["name_zh"], "specialties": {
+                **{spec: {"name_zh": zh} for spec, zh, _ in meta["specialties"]},
+                GENERAL_SPECIALTY: {"name_zh": GENERAL_SPECIALTY_ZH},
+            }} for name, meta in subfields.items()
+        }}
     return {
-        "version": 2,
+        "version": 4,
         "levels": {
             "level_1": {"field": "track", "name": "Research direction", "name_zh": "一级研究方向"},
             "level_2": {"field": "subcategory", "name": "Subfield", "name_zh": "二级子领域"},
             "level_3": {"field": "specialty", "name": "Specialty", "name_zh": "三级专题"},
         },
-        "classification": "Weighted deterministic title, topic, and abstract taxonomy in scripts/taxonomy.py; one primary path per paper. General / Cross-cutting is retained when the source text does not support a narrower level-3 claim.",
+        "classification": "Primary contribution rules and title/abstract evidence; reviewed exceptions take precedence. One primary path, additional method/embodiment/data/topic facets. Unsupported assignments are marked needs-review.",
         "tracks": tracks,
-        "subcategory_count": sum(len(items) for items in HIERARCHY.values()),
-        "specialty_count": specialty_count,
-        "fallback_specialty_count": sum(len(items) for items in HIERARCHY.values()),
+        "subcategory_count": sum(len(subs) for subs in HIERARCHY.values()),
+        "specialty_count": sum(len(meta["specialties"]) for subs in HIERARCHY.values() for meta in subs.values()),
+        "fallback_specialty_count": sum(len(subs) for subs in HIERARCHY.values()),
+        "facets": {field: {name: {"name_zh": zh} for name, (zh, _) in rules.items()}
+                   for field, rules in TAG_RULES.items()},
+        "review_statuses": ["reviewed", "rule-assigned", "needs-review"],
+        "assignment_rules": "Title-level parent cues precede abstract leaf matches; hand-retargeting requires explicit hand-transfer evidence, not fallback placement. Unresolved subfields remain provisional.",
     }
 
 
-def hierarchy_counts(papers: list[dict[str, Any]]) -> dict[str, dict[str, int]]:
+def hierarchy_counts(papers):
     return {
-        "level_1": dict(sorted(Counter(paper["track"] for paper in papers).items())),
-        "level_2": dict(sorted(Counter(f'{paper["track"]} / {paper["subcategory"]}' for paper in papers).items())),
-        "level_3": dict(sorted(Counter(f'{paper["track"]} / {paper["subcategory"]} / {paper["specialty"]}' for paper in papers).items())),
-        "classification_evidence": dict(sorted(Counter(paper["taxonomy_evidence"].split(":", 1)[0] for paper in papers).items())),
+        "level_1": dict(sorted(Counter(p["track"] for p in papers).items())),
+        "level_2": dict(sorted(Counter(f'{p["track"]} / {p["subcategory"]}' for p in papers).items())),
+        "level_3": dict(sorted(Counter(f'{p["track"]} / {p["subcategory"]} / {p["specialty"]}' for p in papers).items())),
+        "classification_evidence": dict(sorted(Counter(p["taxonomy_evidence"].split(":", 1)[0] for p in papers).items())),
+        "review_status": dict(sorted(Counter(p.get("classification_status", "needs-review") for p in papers).items())),
     }

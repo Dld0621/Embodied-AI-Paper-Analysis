@@ -1,5 +1,9 @@
 # Contributing
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 Thanks for improving the Embodied AI Research Index. The project maintains two evidence layers: an accepted-conference census and a separately labeled recent-arXiv census. The goal is systematic coverage under defensible, reproducible boundaries—not an untraceable paper dump.
 
 ## Before adding a paper
@@ -19,7 +23,7 @@ Do not add workshop-only, withdrawn, under-review, or arXiv-only papers to the c
 
 ## Catalog workflow
 
-1. For bulk coverage changes, edit the venue/admission rules in `scripts/sync_conference_census.py` or the level-2/level-3 rules in `scripts/taxonomy.py`.
+1. For bulk coverage changes, edit the venue/admission rules in `scripts/sync_conference_census.py`. Classification structure belongs in `scripts/taxonomy_schema.json`; title/abstract-reviewed exceptions with reasons belong in `scripts/taxonomy_overrides.json`. For taxonomy-only changes, run `python scripts/apply_taxonomy.py` without refreshing the source harvest.
 2. Rebuild the conference snapshot:
 
    ```bash
@@ -28,7 +32,7 @@ Do not add workshop-only, withdrawn, under-review, or arXiv-only papers to the c
 
 3. Review random samples from every direction and compare venue discovery counts before accepting the generated diff.
 4. For a hand-verified exception, edit `data/papers.json`, use the conference year rather than the arXiv upload year, set `discovery_source` to `hand-verified seed`, and cite the best available source tier.
-5. Keep every research direction represented in every year from 2022 through 2026. If a direction's framing changes, update its bilingual `track_meta` question and four-stage pipeline as well.
+5. Keep the bilingual direction questions and pipelines consistent with `scripts/taxonomy_schema.json`. Report actual coverage, including empty categories; do not reassign papers to manufacture year or venue coverage.
 6. Refresh the three-year arXiv layer through the official API. Do not hand-edit bulk preprint records:
 
    ```bash
@@ -43,7 +47,7 @@ Do not add workshop-only, withdrawn, under-review, or arXiv-only papers to the c
    python scripts/render_catalog.py
    ```
 
-   The renderer owns `README.md`, `README.zh-CN.md`, and every page under `papers/taxonomy/`. Do not hand-edit generated homepages or leaf catalogs: both language versions must stay synchronized with the seven-direction taxonomy, each paper must be generated exactly once beneath its level-3 specialty, and oversized leaves are split automatically.
+   The renderer owns `README.md`, `README.zh-CN.md`, and every page under `papers/taxonomy/`. Do not hand-edit generated homepages or leaf catalogs: both language versions must stay synchronized with the nine-direction taxonomy, each paper must be generated exactly once beneath its level-3 specialty, and oversized leaves are split automatically.
 
 8. Run all repository checks:
 
@@ -53,9 +57,34 @@ Do not add workshop-only, withdrawn, under-review, or arXiv-only papers to the c
    python scripts/render_catalog.py --check
    python scripts/check_local_links.py
    python -m unittest discover -s tests -v
+   node --test tests/taxonomy-filters.test.cjs tests/workbench.test.cjs
    ```
 
 ## Analysis notes
+
+Manual catalog refresh receipts are retained separately from paper analyses:
+[2026-09-21 refresh and evidence boundaries](docs/catalog-refresh-2026-09-21.md).
+
+The approved nine-direction organization, reviewed exceptions and migration ledger are documented in
+[classification guide](docs/taxonomy-guide.md) and [2026-10-03 taxonomy migration](docs/taxonomy-migration-2026-10-03.md).
+
+The [2026-10-04 reclassification](docs/taxonomy-migration-2026-10-04.md) supersedes the first rule version. After a taxonomy-only edit, preserve the source snapshot, run all checks, and record a new immutable-baseline migration receipt:
+
+```bash
+python scripts/record_taxonomy_migration.py --baseline <previous-commit> --date YYYY-MM-DD
+```
+
+Do not infer retargeting from fallback placement. Missing parent evidence must remain visible as `subcategory_status=provisional`; negative title claims and background abstract mentions are not positive contribution evidence.
+
+## Freshness and coverage
+
+Every active generated page and document date block is synchronized by `scripts/render_catalog.py`. Historical refresh/migration receipts, paper publication dates and original analysis-review dates are not rewritten.
+
+- Successful source harvests determine the conference/arXiv snapshot dates independently.
+- `python scripts/render_catalog.py --updated-on YYYY-MM-DD` synchronizes the document date, status JSON, webpage counters, social preview counters and date blocks.
+- The default document-sync date and source-harvest dates use Asia/Hong_Kong. A check reuses the saved date rather than silently advancing it.
+- Candidate counts must reconcile with the arXiv API total before a complete snapshot is published. Development samples cannot replace it.
+- Read [the generated coverage report](docs/coverage-report.md) before describing the corpus as complete. “All embodied-AI literature” is not a defensible claim under the current venue/query/category boundaries.
 
 Use [`docs/paper-analysis-template.md`](docs/paper-analysis-template.md). Separate:
 
@@ -72,5 +101,5 @@ Do not convert simulation, offline metrics, or visualization results into real-r
 - Explain why the paper belongs inside the published census boundary.
 - Explain whether the source is official, publisher, or bibliographic.
 - For arXiv changes, report the query window, total candidates, admitted records, unclassified records, and conference-title overlap.
-- For taxonomy changes, report how many records move into and out of every affected direction, subfield, and specialty, plus any change to the General / Cross-cutting rate.
+- For taxonomy changes, report how many records move into and out of every affected direction, subfield, and specialty, plus any change to the Pending specialty review rate.
 - Do not commit downloaded PDFs or large generated assets.

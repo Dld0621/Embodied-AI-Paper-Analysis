@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
   <title id="title">Embodied AI Research Workbench</title>
-  <desc id="desc">A bilingual research interface for 25,877 unique records across a five-year conference census and a rolling three-year arXiv robotics layer.</desc>
+  <desc id="desc">Research index synced 2026-10-04; 27,612 unique records. Conference snapshot 2026-10-04; arXiv snapshot 2026-10-04.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#f7f8fa"/>
@@ -31,13 +31,13 @@
   <g transform="translate(76 474)" font-family="Inter,Segoe UI,Arial,sans-serif">
     <rect width="530" height="88" rx="15" fill="#fff" stroke="#dfe3e9"/>
     <g transform="translate(26 21)">
-      <text y="22" fill="#101217" font-size="23" font-weight="720">25,877</text><text y="44" fill="#7b8492" font-size="11">unique records</text>
+      <text id="preview-record-count" y="22" fill="#101217" font-size="23" font-weight="720">27,612</text><text y="44" fill="#7b8492" font-size="11">unique records</text>
       <path d="M112 0v47" stroke="#e2e5ea"/>
-      <text x="135" y="22" fill="#101217" font-size="23" font-weight="720">3,724</text><text x="135" y="44" fill="#7b8492" font-size="11">conference</text>
+      <text id="preview-conference-count" x="135" y="22" fill="#101217" font-size="23" font-weight="720">4,365</text><text x="135" y="44" fill="#7b8492" font-size="11">conference</text>
       <path d="M244 0v47" stroke="#e2e5ea"/>
-      <text x="267" y="22" fill="#b31b1b" font-size="23" font-weight="720">23.8K</text><text x="267" y="44" fill="#7b8492" font-size="11">recent arXiv</text>
+      <text id="preview-arxiv-count" x="267" y="22" fill="#b31b1b" font-size="23" font-weight="720">25.2K</text><text x="267" y="44" fill="#7b8492" font-size="11">recent arXiv</text>
       <path d="M378 0v47" stroke="#e2e5ea"/>
-      <text x="401" y="22" fill="#101217" font-size="23" font-weight="720">7</text><text x="401" y="44" fill="#7b8492" font-size="11">directions</text>
+      <text x="401" y="22" fill="#101217" font-size="23" font-weight="720">9</text><text x="401" y="44" fill="#7b8492" font-size="11">directions</text>
     </g>
   </g>
 
@@ -68,31 +68,31 @@
       <g transform="translate(0 245)"><circle cx="5" cy="5" r="3" fill="#2558d9"/><text x="14" y="8" fill="#697386" font-size="7">Official</text><circle cx="5" cy="26" r="3" fill="#7759e8"/><text x="14" y="29" fill="#697386" font-size="7">Publisher</text></g>
     </g>
     <g transform="translate(158 84)">
-      <text fill="#101217" font-size="13" font-weight="750">25,877</text><text x="49" fill="#697386" font-size="8">matching records</text>
+      <text id="preview-match-count" fill="#101217" font-size="13" font-weight="750">27,612</text><text x="49" fill="#697386" font-size="8">matching records</text>
       <path d="M0 28h326" stroke="#dfe3e9"/>
       <g transform="translate(0 50)">
         <circle cx="8" cy="15" r="8" fill="#fff" stroke="#cfd5de"/><circle cx="8" cy="15" r="2" fill="#2558d9"/>
-        <text x="28" y="8" fill="#101217" font-size="8" font-weight="700">Vision-Language-Action Models</text><text x="28" y="21" fill="#7b8492" font-size="6">Foundation Models &amp; VLA · 2026 · ICLR</text><circle cx="278" cy="10" r="3" fill="#2558d9"/><text x="286" y="13" fill="#697386" font-size="6">Official</text>
+        <text x="28" y="8" fill="#101217" font-size="8" font-weight="700">Vision-Language-Action Models</text><text x="28" y="21" fill="#7b8492" font-size="6">Policy Learning &amp; Foundation Models · 2026 · ICLR</text><circle cx="278" cy="10" r="3" fill="#2558d9"/><text x="286" y="13" fill="#697386" font-size="6">Official</text>
         <path d="M0 40h326" stroke="#e6e8ec"/>
       </g>
       <g transform="translate(0 112)">
         <circle cx="8" cy="15" r="8" fill="#fff" stroke="#cfd5de"/>
-        <text x="28" y="8" fill="#101217" font-size="8" font-weight="700">Robot Learning from Demonstrations</text><text x="28" y="21" fill="#7b8492" font-size="6">Manipulation &amp; Imitation · 2025 · CoRL</text><circle cx="278" cy="10" r="3" fill="#7759e8"/><text x="286" y="13" fill="#697386" font-size="6">Publisher</text>
+        <text x="28" y="8" fill="#101217" font-size="8" font-weight="700">Robot Learning from Demonstrations</text><text x="28" y="21" fill="#7b8492" font-size="6">Arm &amp; Object Manipulation · 2025 · CoRL</text><circle cx="278" cy="10" r="3" fill="#7759e8"/><text x="286" y="13" fill="#697386" font-size="6">Publisher</text>
         <path d="M0 40h326" stroke="#e6e8ec"/>
       </g>
       <g transform="translate(0 174)">
         <circle cx="8" cy="15" r="8" fill="#e9efff" stroke="#2558d9"/><circle cx="8" cy="15" r="3" fill="#2558d9"/>
-        <text x="28" y="8" fill="#101217" font-size="8" font-weight="700">Dexterous Tactile Manipulation</text><text x="28" y="21" fill="#7b8492" font-size="6">Dexterity &amp; Teleoperation · 2025 · RSS</text><circle cx="278" cy="10" r="3" fill="#2558d9"/><text x="286" y="13" fill="#697386" font-size="6">Official</text>
+        <text x="28" y="8" fill="#101217" font-size="8" font-weight="700">Dexterous Tactile Manipulation</text><text x="28" y="21" fill="#7b8492" font-size="6">Dexterous Hands &amp; Retargeting · 2025 · RSS</text><circle cx="278" cy="10" r="3" fill="#2558d9"/><text x="286" y="13" fill="#697386" font-size="6">Official</text>
         <path d="M0 40h326" stroke="#e6e8ec"/>
       </g>
       <g transform="translate(0 236)">
         <circle cx="8" cy="15" r="8" fill="#fff" stroke="#cfd5de"/>
-        <text x="28" y="8" fill="#101217" font-size="8" font-weight="700">Embodied Navigation with Memory</text><text x="28" y="21" fill="#7b8492" font-size="6">Navigation &amp; Agents · 2024 · CVPR</text><circle cx="278" cy="10" r="3" fill="#7759e8"/><text x="286" y="13" fill="#697386" font-size="6">Publisher</text>
+        <text x="28" y="8" fill="#101217" font-size="8" font-weight="700">Embodied Navigation with Memory</text><text x="28" y="21" fill="#7b8492" font-size="6">Navigation &amp; Localization · 2024 · CVPR</text><circle cx="278" cy="10" r="3" fill="#7759e8"/><text x="286" y="13" fill="#697386" font-size="6">Publisher</text>
         <path d="M0 40h326" stroke="#e6e8ec"/>
       </g>
       <g transform="translate(0 298)">
         <circle cx="8" cy="15" r="8" fill="#fff" stroke="#cfd5de"/>
-        <text x="28" y="8" fill="#101217" font-size="8" font-weight="700">World Models for Robot Control</text><text x="28" y="21" fill="#7b8492" font-size="6">Perception &amp; World Models · 2024 · NeurIPS</text><circle cx="278" cy="10" r="3" fill="#b86912"/><text x="286" y="13" fill="#697386" font-size="6">Index</text>
+        <text x="28" y="8" fill="#101217" font-size="8" font-weight="700">World Models for Robot Control</text><text x="28" y="21" fill="#7b8492" font-size="6">World Models &amp; Planning · 2024 · NeurIPS</text><circle cx="278" cy="10" r="3" fill="#b86912"/><text x="286" y="13" fill="#697386" font-size="6">Index</text>
         <path d="M0 40h326" stroke="#e6e8ec"/>
       </g>
     </g>

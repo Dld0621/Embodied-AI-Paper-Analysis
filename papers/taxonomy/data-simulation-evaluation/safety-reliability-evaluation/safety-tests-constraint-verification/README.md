@@ -1,0 +1,112 @@
+# Safety Tests & Constraint Verification · 安全测试与约束验证
+
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
+[← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Safety%20%26%20Reliability%20Evaluation&specialty=Safety%20Tests%20%26%20Constraint%20Verification#research-workbench)
+
+> 2 conference papers · 75 recent arXiv papers
+
+| Level | Classification |
+|---|---|
+| 1 · Direction | Data, Simulation & Evaluation · 数据、仿真与评测 |
+| 2 · Subfield | Safety & Reliability Evaluation · 安全与可靠性评估 |
+| 3 · Specialty | Safety Tests & Constraint Verification · 安全测试与约束验证 |
+
+Conference records and arXiv preprints remain separate provenance layers. Every paper below is assigned to this single primary taxonomy path.
+
+顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
+Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
+A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
+
+## Conference papers (2)
+
+| Year | Paper | Venue / topic | Online links | Review status |
+|---:|---|---|---|---|
+| 2026 | As You Wish: Mission Planning with Formal Verification using LLMs in Precision Agriculture | ICRA · Llm | [Paper](https://arxiv.org/abs/2606.18519) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697380) | rule-assigned |
+| 2024 | Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents | ICRA · Llm | [Paper](https://arxiv.org/abs/2309.09919) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611447) | rule-assigned |
+
+## Recent arXiv papers (75)
+
+| Date | Paper | Authors | Online links | Review status |
+|---|---|---|---|---|
+| 2026-09-29 | Adversarially Robust Geometric Safety Certificates for Nonholonomic Robots Against Maneuvering Obstacles | Chandan Kumar Sah, Bazeela Banday, Jishnu Keshavan | [Abstract](https://arxiv.org/abs/2609.37126) · [PDF](https://arxiv.org/pdf/2609.37126) | rule-assigned |
+| 2026-09-28 | Predictive Semantic Safety: From Visual Physical Reasoning to Safety-Critical Control | Taekyung Kim, Salem Fradi, Yanning Dai, Mateusz Ostaszewski et al. | [Abstract](https://arxiv.org/abs/2609.34356) · [PDF](https://arxiv.org/pdf/2609.34356) | rule-assigned |
+| 2026-09-22 | Control Barrier Functions for Safe Free-Flying Robotic Spacecraft Operations in Tumbling Target Capture | Alexander Meinert, Peter Stadler, Niklas Baldauf, Alen Turnwald | [Abstract](https://arxiv.org/abs/2609.25905) · [PDF](https://arxiv.org/pdf/2609.25905) | rule-assigned |
+| 2026-09-21 | Safety Control of a Hyper-redundant Robot via Adaptive Weighted Control Barrier Functions | Zijian Cai, Kiwan Wong, Wenci Xin, Wei Xiao et al. | [Abstract](https://arxiv.org/abs/2609.24062) · [PDF](https://arxiv.org/pdf/2609.24062) | rule-assigned |
+| 2026-09-16 | Winning a Won Game: Strict Reach-Avoid-Stay Control Barrier Functions for High-Dimensional Black-Box Systems | Donggeon David Oh, Duy P. Nguyen, Gongkai Yuan, Qingchen Li et al. | [Abstract](https://arxiv.org/abs/2609.19449) · [PDF](https://arxiv.org/pdf/2609.19449) | rule-assigned |
+| 2026-09-15 | Hamilton-Jacobi Reachability for Hybrid Systems: Unified Goal-Driven Control with Safety Guarantees | Javier Borquez, Shuang Peng, Somil Bansal | [Abstract](https://arxiv.org/abs/2609.17430) · [PDF](https://arxiv.org/pdf/2609.17430) | rule-assigned |
+| 2026-09-11 | VertexCBF: Improving Neural Control Barrier Functions via Vertex-Restricted Control Search | Bojan Derajić, Sebastian Bernhard, Wolfgang Hönig | [Abstract](https://arxiv.org/abs/2609.12831) · [PDF](https://arxiv.org/pdf/2609.12831) | rule-assigned |
+| 2026-09-03 | Virtual Testing of Automated Driving Systems through Credible Simulations | Riccardo Dona, Espedito Rusciano, Biagio Ciuffo | [Abstract](https://arxiv.org/abs/2609.03760) · [PDF](https://arxiv.org/pdf/2609.03760) | rule-assigned |
+| 2026-08-28 | PanelShield: Verifiable Closed-Loop Safe Planning for Robotic Industrial Panel Operation | Guipeng Xin, Jiahe Xu, Chenhui Wan, Jie Liu et al. | [Abstract](https://arxiv.org/abs/2608.28305) · [PDF](https://arxiv.org/pdf/2608.28305) | rule-assigned |
+| 2026-08-20 | Multimodal Trajectory Planning for Surface Vehicles using Turning Circle-based Control Barrier Functions | Changyu Lee | [Abstract](https://arxiv.org/abs/2608.19537) · [PDF](https://arxiv.org/pdf/2608.19537) | rule-assigned |
+| 2026-08-18 | MANIGUARD: A Benchmark and Data Suite for Specification-Grounded Safety Evaluation and Improvement of Robotic Manipulation | Yiyan Peng, Philip Wang, Simon Sinong Zhan, Yiqi Lyu et al. | [Abstract](https://arxiv.org/abs/2608.17386) · [PDF](https://arxiv.org/pdf/2608.17386) | rule-assigned |
+| 2026-07-19 | Optimal Safety Control using High-Order Control Barrier Functions | Neng Li, Zuodong Pan, Jiaxing Wang, Weiguo Xia et al. | [Abstract](https://arxiv.org/abs/2607.17032) · [PDF](https://arxiv.org/pdf/2607.17032) | rule-assigned |
+| 2026-07-10 | Runtime Safety Filtering for Learned Small UAS Separation Policies under GNSS Degradation | Alex Zongo, Peng Wei | [Abstract](https://arxiv.org/abs/2607.10014) · [PDF](https://arxiv.org/pdf/2607.10014) | rule-assigned |
+| 2026-06-16 | As You Wish: Mission Planning with Formal Verification using LLMs in Precision Agriculture | Marcos Abel Zuzuárregui, Stefano Carpin | [Abstract](https://arxiv.org/abs/2606.18519) · [PDF](https://arxiv.org/pdf/2606.18519) | rule-assigned |
+| 2026-06-01 | Embedding Semantic Risk into Distance Fields and CBFs for Online Monocular Safe Control | Dawei Zhang, Nuo Chen, Shuo Liu, Roberto Tron et al. | [Abstract](https://arxiv.org/abs/2606.01605) · [PDF](https://arxiv.org/pdf/2606.01605) | rule-assigned |
+| 2026-05-27 | Safety-Critical Adaptive Impedance Control via Nonsmooth Control Barrier Functions under State and Input Constraints | Faisal Lawan, Xiaoran Han, Joaquin Carrasco, Barry Lennox et al. | [Abstract](https://arxiv.org/abs/2605.28367) · [PDF](https://arxiv.org/pdf/2605.28367) | rule-assigned |
+| 2026-05-22 | Lipschitz Optimization for Formal Verification of Homographies | Jean-Guillaume Durand, Panagiotis Kouvaros, Maxime Gariel, Alessio Lomuscio | [Abstract](https://arxiv.org/abs/2605.23203) · [PDF](https://arxiv.org/pdf/2605.23203) | rule-assigned |
+| 2026-05-15 | Policy Library CBF: Finite-Horizon Safety at Runtime via Parallel Rollouts | Taekyung Kim, Hideki Okamoto, Bardh Hoxha, Georgios Fainekos et al. | [Abstract](https://arxiv.org/abs/2605.16588) · [PDF](https://arxiv.org/pdf/2605.16588) | rule-assigned |
+| 2026-05-12 | SafeManip: A Property-Driven Benchmark for Temporal Safety Evaluation in Robotic Manipulation | Chengyue Huang, Khang Vo Huynh, Mellon M. Zhang, Sebastian Elbaum et al. | [Abstract](https://arxiv.org/abs/2605.12386) · [PDF](https://arxiv.org/pdf/2605.12386) | rule-assigned |
+| 2026-04-22 | Stochastic Barrier Certificates in the Presence of Dynamic Obstacles | Rayan Mazouz, Luca Laurenti, Morteza Lahijanian | [Abstract](https://arxiv.org/abs/2604.20208) · [PDF](https://arxiv.org/pdf/2604.20208) | rule-assigned |
+| 2026-04-19 | Safer Trajectory Planning with CBF-guided Diffusion Model for Unmanned Aerial Vehicles | Peiwen Yang, Shiyu Bai, Weisong Wen, Yixin Gao et al. | [Abstract](https://arxiv.org/abs/2604.17527) · [PDF](https://arxiv.org/pdf/2604.17527) | rule-assigned |
+| 2026-04-07 | JailWAM: Jailbreaking World Action Models in Robot Control | Hanqing Liu, Songping Wang, Jiahuan Long, Jiacheng Hou et al. | [Abstract](https://arxiv.org/abs/2604.05498) · [PDF](https://arxiv.org/pdf/2604.05498) | rule-assigned |
+| 2026-03-29 | Safety Guardrails in the Sky: Realizing Control Barrier Functions on the VISTA F-16 Jet | Andrew W. Singletary, Max H. Cohen, Tamas G. Molnar, Aaron D. Ames | [Abstract](https://arxiv.org/abs/2603.27912) · [PDF](https://arxiv.org/pdf/2603.27912) | rule-assigned |
+| 2026-03-11 | Safe Probabilistic Planning for Human-Robot Interaction using Conformal Risk Control | Jake Gonzales, Kazuki Mizuta, Karen Leung, Lillian J. Ratliff | [Abstract](https://arxiv.org/abs/2603.10392) · [PDF](https://arxiv.org/pdf/2603.10392) | rule-assigned |
+| 2026-03-06 | Control Barrier Corridors: From Safety Functions to Safe Sets | Ömür Arslan, Nikolay Atanasov | [Abstract](https://arxiv.org/abs/2603.06494) · [PDF](https://arxiv.org/pdf/2603.06494) | rule-assigned |
+| 2026-02-23 | Contextual Safety Reasoning and Grounding for Open-World Robots | Zachary Ravichandran, David Snyder, Alexander Robey, Hamed Hassani et al. | [Abstract](https://arxiv.org/abs/2602.19983) · [PDF](https://arxiv.org/pdf/2602.19983) | rule-assigned |
+| 2026-02-13 | Safe-SDL:Establishing Safety Boundaries and Control Mechanisms for AI-Driven Self-Driving Laboratories | Zihan Zhang, Haohui Que, Junhan Chang, Xin Zhang et al. | [Abstract](https://arxiv.org/abs/2602.15061) · [PDF](https://arxiv.org/pdf/2602.15061) | rule-assigned |
+| 2026-02-08 | From Ellipsoids to Midair Control of Dynamic Hitches | Jiawei Xu, Subhrajit Bhattacharya, David Saldaña | [Abstract](https://arxiv.org/abs/2602.08116) · [PDF](https://arxiv.org/pdf/2602.08116) | rule-assigned |
+| 2025-12-30 | Safe Sliding Mode Control for Marine Vessels Using High-Order Control Barrier Functions and Fast Projection | Spyridon Syntakas, Kostas Vlachos | [Abstract](https://arxiv.org/abs/2512.24281) · [PDF](https://arxiv.org/pdf/2512.24281) | rule-assigned |
+| 2025-11-28 | Automated Generation of MDPs Using Logic Programming and LLMs for Robotic Applications | Enrico Saccon, Davide De Martini, Matteo Saveriano, Edoardo Lamon et al. | [Abstract](https://arxiv.org/abs/2511.23143) · [PDF](https://arxiv.org/pdf/2511.23143) | rule-assigned |
+| 2025-11-23 | How to Train Your Latent Control Barrier Function: Smooth Safety Filtering Under Hard-to-Model Constraints | Kensuke Nakamura, Arun L. Bishop, Steven Man, Aaron M. Johnson et al. | [Abstract](https://arxiv.org/abs/2511.18606) · [PDF](https://arxiv.org/pdf/2511.18606) | rule-assigned |
+| 2025-10-09 | Injecting Hallucinations in Autonomous Vehicles: A Component-Agnostic Safety Evaluation Framework | Alexandre Moreira Nascimento, Gabriel Kenji Godoy Shimanuki, Lúcio Flavio Vismari, João Batista Camargo et al. | [Abstract](https://arxiv.org/abs/2510.07749) · [PDF](https://arxiv.org/pdf/2510.07749) | rule-assigned |
+| 2025-09-24 | Formal Safety Verification and Refinement for Generative Motion Planners via Certified Local Stabilization | Devesh Nath, Haoran Yin, Glen Chou | [Abstract](https://arxiv.org/abs/2509.19688) · [PDF](https://arxiv.org/pdf/2509.19688) | rule-assigned |
+| 2025-08-07 | GPU-Accelerated Barrier-Rate Guided MPPI Control for Tractor-Trailer Systems | Keyvan Majd, Hardik Parwana, Bardh Hoxha, Steven Hong et al. | [Abstract](https://arxiv.org/abs/2508.05773) · [PDF](https://arxiv.org/pdf/2508.05773) | rule-assigned |
+| 2025-07-18 | Fixed time convergence guarantees for Higher Order Control Barrier Functions | Janani S K, Shishir Kolathaya | [Abstract](https://arxiv.org/abs/2507.13888) · [PDF](https://arxiv.org/pdf/2507.13888) | rule-assigned |
+| 2025-06-14 | Constrained Diffusers for Safe Planning and Control | Jichen Zhang, Liqun Zhao, Antonis Papachristodoulou, Jack Umenberger | [Abstract](https://arxiv.org/abs/2506.12544) · [PDF](https://arxiv.org/pdf/2506.12544) | rule-assigned |
+| 2025-06-10 | Towards Full-Scenario Safety Evaluation of Automated Vehicles: A Volume-Based Method | Hang Zhou, Chengyuan Ma, Shiyu Shen, Zhaohui Liang et al. | [Abstract](https://arxiv.org/abs/2506.09182) · [PDF](https://arxiv.org/pdf/2506.09182) | rule-assigned |
+| 2025-06-09 | Deep Equivariant Multi-Agent Control Barrier Functions | Nikolaos Bousias, Lars Lindemann, George Pappas | [Abstract](https://arxiv.org/abs/2506.07755) · [PDF](https://arxiv.org/pdf/2506.07755) | rule-assigned |
+| 2025-05-22 | Navigating Polytopes with Safety: A Control Barrier Function Approach | Tamas G. Molnar | [Abstract](https://arxiv.org/abs/2505.17270) · [PDF](https://arxiv.org/pdf/2505.17270) | rule-assigned |
+| 2025-05-11 | Dynamic Safety in Complex Environments: Synthesizing Safety Filters with Poisson's Equation | Gilbert Bahati, Ryan M. Bena, Aaron D. Ames | [Abstract](https://arxiv.org/abs/2505.06794) · [PDF](https://arxiv.org/pdf/2505.06794) | rule-assigned |
+| 2025-05-06 | RADE: Learning Risk-Adjustable Driving Environment via Multi-Agent Conditional Diffusion | Jiawei Wang, Xintao Yan, Yao Mu, Haowei Sun et al. | [Abstract](https://arxiv.org/abs/2505.03178) · [PDF](https://arxiv.org/pdf/2505.03178) | rule-assigned |
+| 2025-05-05 | Contact-Aware Safety in Soft Robots Using High-Order Control Barrier and Lyapunov Functions | Kiwan Wong, Maximilian Stölzle, Wei Xiao, Cosimo Della Santina et al. | [Abstract](https://arxiv.org/abs/2505.03841) · [PDF](https://arxiv.org/pdf/2505.03841) | rule-assigned |
+| 2025-04-16 | Safety with Agency: Human-Centered Safety Filter with Application to AI-Assisted Motorsports | Donggeon David Oh, Justin Lidard, Haimin Hu, Himani Sinhmar et al. | [Abstract](https://arxiv.org/abs/2504.11717) · [PDF](https://arxiv.org/pdf/2504.11717) | rule-assigned |
+| 2025-04-15 | Neural Control Barrier Functions from Physics Informed Neural Networks | Shreenabh Agrawal, Manan Tayal, Aditya Singh, Shishir Kolathaya | [Abstract](https://arxiv.org/abs/2504.11045) · [PDF](https://arxiv.org/pdf/2504.11045) | rule-assigned |
+| 2025-04-05 | Risk-Aware Robot Control in Dynamic Environments Using Belief Control Barrier Functions | Shaohang Han, Matti Vahs, Jana Tumova | [Abstract](https://arxiv.org/abs/2504.04097) · [PDF](https://arxiv.org/pdf/2504.04097) | rule-assigned |
+| 2025-04-03 | Learning to Adapt Control Barrier Functions Under Epistemic and Aleatoric Uncertainty | Taekyung Kim, Robin Inho Kee, Dimitra Panagou | [Abstract](https://arxiv.org/abs/2504.03038) · [PDF](https://arxiv.org/pdf/2504.03038) | rule-assigned |
+| 2025-03-11 | Control Barrier Functions for Prescribed-time Reach-Avoid-Stay Tasks using Spatiotemporal Tubes | Ratnangshu Das, Pranav Bakshi, Pushpak Jagtap | [Abstract](https://arxiv.org/abs/2503.08106) · [PDF](https://arxiv.org/pdf/2503.08106) | rule-assigned |
+| 2025-03-08 | T-CBF: Traversability-based Control Barrier Function to Navigate Vertically Challenging Terrain | Manas Gupta, Xuesu Xiao | [Abstract](https://arxiv.org/abs/2503.06083) · [PDF](https://arxiv.org/pdf/2503.06083) | rule-assigned |
+| 2025-02-20 | Real-world Troublemaker: A 5G Cloud-controlled Track Testing Framework for Automated Driving Systems in Safety-critical Interaction Scenarios | Xinrui Zhang, Lu Xiong, Peizhi Zhang, Junpeng Huang et al. | [Abstract](https://arxiv.org/abs/2502.14574) · [PDF](https://arxiv.org/pdf/2502.14574) | rule-assigned |
+| 2025-02-13 | Real-Time Safety Evaluation of Human Arm Operations Using a Wrist-Mounted IMU with PSM System | Musab Zubair Inamdar, Alhusain Al Hadrami, Seyed Amir Tafrishi | [Abstract](https://arxiv.org/abs/2502.09241) · [PDF](https://arxiv.org/pdf/2502.09241) | rule-assigned |
+| 2025-02-04 | PatchPilot: A Cost-Efficient Software Engineering Agent with Early Attempts on Formal Verification | Hongwei Li, Yuheng Tang, Shiqi Wang, Wenbo Guo | [Abstract](https://arxiv.org/abs/2502.02747) · [PDF](https://arxiv.org/pdf/2502.02747) | rule-assigned |
+| 2024-12-23 | Causal Composition Diffusion Model for Closed-loop Traffic Generation | Haohong Lin, Xin Huang, Tung Phan-Minh, David S. Hayden et al. | [Abstract](https://arxiv.org/abs/2412.17920) · [PDF](https://arxiv.org/pdf/2412.17920) | rule-assigned |
+| 2024-11-29 | Dynamic High-Order Control Barrier Functions with Diffuser for Safety-Critical Trajectory Planning at Signal-Free Intersections | Di Chen, Ruiguo Zhong, Kehua Chen, Zhiwei Shang et al. | [Abstract](https://arxiv.org/abs/2412.00162) · [PDF](https://arxiv.org/pdf/2412.00162) | rule-assigned |
+| 2024-11-21 | Open Challenges in the Formal Verification of Autonomous Driving | Paolo Burgio, Angelo Ferrando, Marco Villani | [Abstract](https://arxiv.org/abs/2411.14520) · [PDF](https://arxiv.org/pdf/2411.14520) | rule-assigned |
+| 2024-11-03 | Know Where You're Uncertain When Planning with Multimodal Foundation Models: A Formal Framework | Neel P. Bhatt, Yunhao Yang, Rohan Siva, Daniel Milan et al. | [Abstract](https://arxiv.org/abs/2411.01639) · [PDF](https://arxiv.org/pdf/2411.01639) | rule-assigned |
+| 2024-10-18 | Domain Adaptive Safety Filters via Deep Operator Learning | Lakshmideepakreddy Manda, Shaoru Chen, Mahyar Fazlyab | [Abstract](https://arxiv.org/abs/2410.14528) · [PDF](https://arxiv.org/pdf/2410.14528) | rule-assigned |
+| 2024-09-23 | A Generalized Control Revision Method for Autonomous Driving Safety | Zehang Zhu, Yuning Wang, Tianqi Ke, Zeyu Han et al. | [Abstract](https://arxiv.org/abs/2409.14688) · [PDF](https://arxiv.org/pdf/2409.14688) | rule-assigned |
+| 2024-09-22 | Learning to Refine Input Constrained Control Barrier Functions via Uncertainty-Aware Online Parameter Adaptation | Taekyung Kim, Robin Inho Kee, Dimitra Panagou | [Abstract](https://arxiv.org/abs/2409.14616) · [PDF](https://arxiv.org/pdf/2409.14616) | rule-assigned |
+| 2024-08-31 | Formal Verification and Control with Conformal Prediction | Lars Lindemann, Yiqi Zhao, Xinyi Yu, George J. Pappas et al. | [Abstract](https://arxiv.org/abs/2409.00536) · [PDF](https://arxiv.org/pdf/2409.00536) | rule-assigned |
+| 2024-08-16 | Case Study: Runtime Safety Verification of Neural Network Controlled System | Frank Yang, Sinong Simon Zhan, Yixuan Wang, Chao Huang et al. | [Abstract](https://arxiv.org/abs/2408.08592) · [PDF](https://arxiv.org/pdf/2408.08592) | rule-assigned |
+| 2024-07-18 | Model Predictive Path Integral Methods with Reach-Avoid Tasks and Control Barrier Functions | Hardik Parwana, Mitchell Black, Georgios Fainekos, Bardh Hoxha et al. | [Abstract](https://arxiv.org/abs/2407.13693) · [PDF](https://arxiv.org/pdf/2407.13693) | rule-assigned |
+| 2024-07-03 | Prävention und Beseitigung von Fehlerursachen im Kontext von unbemannten Fahrzeugen | Aron Schnakenbeck, Christoph Sieber, Luis Miguel Vieira da Silva, Felix Gehlhoff et al. | [Abstract](https://arxiv.org/abs/2407.02876) · [PDF](https://arxiv.org/pdf/2407.02876) | rule-assigned |
+| 2024-06-28 | Resilient Estimator-based Control Barrier Functions for Dynamical Systems with Disturbances and Noise | Chuyuan Tao, Wenbin Wan, Junjie Gao, Bihao Mo et al. | [Abstract](https://arxiv.org/abs/2407.00218) · [PDF](https://arxiv.org/pdf/2407.00218) | rule-assigned |
+| 2024-06-05 | Mission Design for Unmanned Aerial Vehicles using Hybrid Probabilistic Logic Programs | Simon Kohaut, Benedict Flade, Devendra Singh Dhami, Julian Eggert et al. | [Abstract](https://arxiv.org/abs/2406.03454) · [PDF](https://arxiv.org/pdf/2406.03454) | rule-assigned |
+| 2024-05-17 | OGM-CBF: Occupancy Grid Map-based Control Barrier Function for Safe Mobile Robot Control with Memory of out of View Obstacles | Golnaz Raja, Miloš Prágr, Topi Reino Johannes Kärki, Teemu Mökkönen et al. | [Abstract](https://arxiv.org/abs/2405.10703) · [PDF](https://arxiv.org/pdf/2405.10703) | rule-assigned |
+| 2024-04-14 | A Linear MPC with Control Barrier Functions for Differential Drive Robots | Ali Mohamed Ali, Chao Shen, Hashim A. Hashim | [Abstract](https://arxiv.org/abs/2404.10018) · [PDF](https://arxiv.org/pdf/2404.10018) | rule-assigned |
+| 2024-04-10 | CBFKIT: A Control Barrier Function Toolbox for Robotics Applications | Mitchell Black, Georgios Fainekos, Bardh Hoxha, Hideki Okamoto et al. | [Abstract](https://arxiv.org/abs/2404.07158) · [PDF](https://arxiv.org/pdf/2404.07158) | rule-assigned |
+| 2024-03-14 | Safety-Critical Control for Autonomous Systems: Control Barrier Functions via Reduced-Order Models | Max H. Cohen, Tamas G. Molnar, Aaron D. Ames | [Abstract](https://arxiv.org/abs/2403.09865) · [PDF](https://arxiv.org/pdf/2403.09865) | rule-assigned |
+| 2024-03-13 | Rollover Prevention for Mobile Robots with Control Barrier Functions: Differentiator-Based Adaptation and Projection-to-State Safety | Ersin Das, Aaron D. Ames, Joel W. Burdick | [Abstract](https://arxiv.org/abs/2403.08916) · [PDF](https://arxiv.org/pdf/2403.08916) | rule-assigned |
+| 2024-03-11 | A Collision Cone Approach for Control Barrier Functions | Manan Tayal, Bhavya Giri Goswami, Karthik Rajgopal, Rajpal Singh et al. | [Abstract](https://arxiv.org/abs/2403.07043) · [PDF](https://arxiv.org/pdf/2403.07043) | rule-assigned |
+| 2024-03-08 | Safe Execution of Learned Orientation Skills with Conic Control Barrier Functions | Zheng Shen, Matteo Saveriano, Fares J. Abu-Dakka, Sami Haddadin | [Abstract](https://arxiv.org/abs/2403.05447) · [PDF](https://arxiv.org/pdf/2403.05447) | rule-assigned |
+| 2024-02-28 | Fault Tolerant Neural Control Barrier Functions for Robotic Systems under Sensor Faults and Attacks | Hongchao Zhang, Luyao Niu, Andrew Clark, Radha Poovendran | [Abstract](https://arxiv.org/abs/2402.18677) · [PDF](https://arxiv.org/pdf/2402.18677) | rule-assigned |
+| 2024-01-25 | GCBF+: A Neural Graph Control Barrier Function Framework for Distributed Safe Multi-Agent Control | Songyuan Zhang, Oswin So, Kunal Garg, Chuchu Fan | [Abstract](https://arxiv.org/abs/2401.14554) · [PDF](https://arxiv.org/pdf/2401.14554) | rule-assigned |
+| 2024-01-03 | Robust Control Barrier Functions using Uncertainty Estimation with Application to Mobile Robots | Ersin Das, Joel W. Burdick | [Abstract](https://arxiv.org/abs/2401.01881) · [PDF](https://arxiv.org/pdf/2401.01881) | rule-assigned |
+| 2023-11-12 | Asymmetric Design of Control Barrier Function for Multiagent Autonomous Robotic Systems | Hiroki Etchu, Yuki Origane, Daisuke Kurabayashi | [Abstract](https://arxiv.org/abs/2311.06895) · [PDF](https://arxiv.org/pdf/2311.06895) | rule-assigned |
+
+---
+
+Generated from the repository's audited conference and arXiv data layers.

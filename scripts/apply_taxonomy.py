@@ -8,6 +8,8 @@ import json
 from pathlib import Path
 
 from taxonomy import annotate_paper, hierarchy_counts, taxonomy_metadata
+from taxonomy import TRACKS, TRACK_META
+from collections import Counter
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -27,24 +29,33 @@ def build_outputs() -> dict[Path, str]:
 
     annotate_records(conference["papers"])
     conference["schema_version"] = 4
+    conference["tracks"] = TRACKS
+    conference["track_meta"] = TRACK_META
     conference["taxonomy"] = metadata
     conference["taxonomy_counts"] = hierarchy_counts(conference["papers"])
     conference["census"]["taxonomy_version"] = metadata["version"]
     conference["census"]["classification"] = (
-        "Level 1 is assigned by the conference admission rules in "
-        "scripts/sync_conference_census.py. Levels 2 and 3 use the stored title, "
-        "topic, and abstract evidence in scripts/taxonomy.py."
+        "Source admission uses scripts/sync_conference_census.py; all three "
+        "organization levels and cross-topic tags use scripts/taxonomy.py "
+        "and reviewed exceptions. admission_track preserves the discovery label."
     )
 
     annotate_records(arxiv["papers"])
     arxiv["schema_version"] = 2
+    arxiv["tracks"] = TRACKS
     arxiv["taxonomy"] = metadata
     arxiv["taxonomy_counts"] = hierarchy_counts(arxiv["papers"])
     arxiv["source"]["taxonomy_version"] = metadata["version"]
     arxiv["source"]["classification"] = (
-        "Level 1 uses the title/abstract admission rules in "
-        "scripts/sync_arxiv_recent.py. Levels 2 and 3 use the stored title, "
-        "topic, and abstract evidence in scripts/taxonomy.py."
+        "Source admission uses scripts/sync_arxiv_recent.py; all three "
+        "organization levels and cross-topic tags use scripts/taxonomy.py "
+        "and reviewed exceptions. admission_track preserves the discovery label."
+    )
+    arxiv["source"]["track_counts"] = dict(sorted(Counter(p["track"] for p in arxiv["papers"]).items()))
+    arxiv["scope"] = (
+        f"Every admitted arXiv cs.RO record submitted from {arxiv['window']['start']} "
+        f"through {arxiv['window']['end']}, organized by the nine-direction "
+        "contribution taxonomy. The source-admission rules are unchanged."
     )
 
     return {

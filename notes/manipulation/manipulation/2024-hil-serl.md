@@ -1,5 +1,9 @@
 # Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 > Journal note · 期刊论文笔记（不计入顶会核心目录）
 
 ## Metadata · 元信息
