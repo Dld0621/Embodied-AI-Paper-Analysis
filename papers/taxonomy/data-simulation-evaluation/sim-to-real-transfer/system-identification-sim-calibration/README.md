@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Sim-to-real%20Transfer&specialty=System%20Identification%20%26%20Sim%20Calibration#research-workbench)
 
-> 1 conference papers · 19 recent arXiv papers
+> 1 conference papers · 17 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,6 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
+A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
 ## Conference papers (1)
 
@@ -21,7 +22,7 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 |---:|---|---|---|---|
 | 2025 | Adaptive Model-Based Control of Quadrupeds via Online System Identification using Kalman Filter | IROS · Quadruped | [Paper](https://arxiv.org/abs/2506.13432) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246753) | rule-assigned |
 
-## Recent arXiv papers (19)
+## Recent arXiv papers (17)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -30,7 +31,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-07-01 | Learning from Demonstration via Spatiotemporal Tubes for Unknown Euler-Lagrange Systems | Ratnangshu Das, Puneeth Shankar, Varuni Buereddy, Ravi Prakash et al. | [Abstract](https://arxiv.org/abs/2607.00534) · [PDF](https://arxiv.org/pdf/2607.00534) | rule-assigned |
 | 2026-03-10 | NanoBench: A Multi-Task Benchmark Dataset for Nano-Quadrotor System Identification, Control, and State Estimation | Syed Izzat Ullah, Jose Baca | [Abstract](https://arxiv.org/abs/2603.09908) · [PDF](https://arxiv.org/pdf/2603.09908) | rule-assigned |
 | 2026-03-08 | LITHE: Bridging Best-Effort Python and Real-Time C++ for Hot-Swapping Robotic Control Laws on Commodity Linux | He Kai Lim, Tyler R. Clites | [Abstract](https://arxiv.org/abs/2603.07442) · [PDF](https://arxiv.org/pdf/2603.07442) | rule-assigned |
-| 2026-02-24 | CableRobotGraphSim: A Graph Neural Network for Modeling Partially Observable Cable-Driven Robot Dynamics | Nelson Chen, William R. Johnson, Rebecca Kramer-Bottiglio, Kostas Bekris et al. | [Abstract](https://arxiv.org/abs/2602.21331) · [PDF](https://arxiv.org/pdf/2602.21331) | rule-assigned |
 | 2026-02-18 | System Identification under Constraints and Disturbance: A Bayesian Estimation Approach | Sergi Martinez, Steve Tonneau, Carlos Mastalli | [Abstract](https://arxiv.org/abs/2602.16358) · [PDF](https://arxiv.org/pdf/2602.16358) | rule-assigned |
 | 2025-12-16 | Nonlinear System Identification Nano-drone Benchmark | Riccardo Busetto, Elia Cereda, Marco Forgione, Gabriele Maroni et al. | [Abstract](https://arxiv.org/abs/2512.14450) · [PDF](https://arxiv.org/pdf/2512.14450) | rule-assigned |
 | 2025-06-19 | DRIVE Through the Unpredictability:From a Protocol Investigating Slip to a Metric Estimating Command Uncertainty | Nicolas Samson, William Larrivée-Hardy, William Dubois, Élie Roy-Brouard et al. | [Abstract](https://arxiv.org/abs/2506.16593) · [PDF](https://arxiv.org/pdf/2506.16593) | rule-assigned |
@@ -42,7 +42,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2024-08-16 | System Identification For Constrained Robots | Bohao Zhang, Daniel Haugk, Ram Vasudevan | [Abstract](https://arxiv.org/abs/2408.08830) · [PDF](https://arxiv.org/pdf/2408.08830) | rule-assigned |
 | 2024-06-21 | GIC: Gaussian-Informed Continuum for Physical Property Identification and Simulation | Junhao Cai, Yuji Yang, Weihao Yuan, Yisheng He et al. | [Abstract](https://arxiv.org/abs/2406.14927) · [PDF](https://arxiv.org/pdf/2406.14927) | rule-assigned |
 | 2024-05-11 | PIPE: Process Informed Parameter Estimation, a learning based approach to task generalized system identification | Constantin Schempp, Christian Friedrich | [Abstract](https://arxiv.org/abs/2405.06991) · [PDF](https://arxiv.org/pdf/2405.06991) | rule-assigned |
-| 2024-04-12 | Optimization-Based System Identification and Moving Horizon Estimation Using Low-Cost Sensors for a Miniature Car-Like Robot | Sabrina Bodmer, Lukas Vogel, Simon Muntwiler, Alexander Hansson et al. | [Abstract](https://arxiv.org/abs/2404.08362) · [PDF](https://arxiv.org/pdf/2404.08362) | rule-assigned |
 | 2024-02-22 | Autonomy Oriented Digital Twins for Real2Sim2Real Autoware Deployment | Chinmay Vilas Samak, Tanmay Vilas Samak | [Abstract](https://arxiv.org/abs/2402.14739) · [PDF](https://arxiv.org/pdf/2402.14739) | rule-assigned |
 
 ---

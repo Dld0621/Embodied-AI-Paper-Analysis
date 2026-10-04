@@ -64,6 +64,14 @@ Manual catalog refresh receipts are retained separately from paper analyses:
 The approved nine-direction organization, reviewed exceptions and migration ledger are documented in
 [classification guide](docs/taxonomy-guide.md) and [2026-10-03 taxonomy migration](docs/taxonomy-migration-2026-10-03.md).
 
+The [2026-10-04 reclassification](docs/taxonomy-migration-2026-10-04.md) supersedes the first rule version. After a taxonomy-only edit, preserve the source snapshot, run all checks, and record a new immutable-baseline migration receipt:
+
+```bash
+python scripts/record_taxonomy_migration.py --baseline <previous-commit> --date YYYY-MM-DD
+```
+
+Do not infer retargeting from fallback placement. Missing parent evidence must remain visible as `subcategory_status=provisional`; negative title claims and background abstract mentions are not positive contribution evidence.
+
 Use [`docs/paper-analysis-template.md`](docs/paper-analysis-template.md). Separate:
 
 - claims made by the paper;

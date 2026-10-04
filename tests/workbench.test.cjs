@@ -86,3 +86,19 @@ test("both exports preserve review evidence, tags and source provenance", async 
     assert(output.contents.includes("https://"));
   }
 });
+
+test("generic dexterity no longer appears in the retargeting view", async () => {
+  const params = new URLSearchParams({ related_topics: "Hand Retargeting", q: "Quantized Hand State" });
+  const app = await workbench("?" + params);
+  assert.equal(app.run("filteredPapers().length"), 0);
+  app.run('state.related_topics = "all"; renderPapers();');
+  assert(app.run("filteredPapers().length") > 0);
+  assert.equal(app.run("filteredPapers()[0].subcategory"), "Multifinger Grasping & Control");
+});
+
+test("provisional subfield is visibly labeled and preserved in exports", async () => {
+  const app = await workbench("?q=Learning%20Dexterous%20Manipulation%20with%20Quantized%20Hand%20State&lang=zh");
+  assert(app.node("#paper-grid").innerHTML.includes("二级归属暂定"));
+  app.run("globalThis.exportsCaptured = []; downloadFile = (name, contents) => exportsCaptured.push({name, contents}); exportMarkdown(); exportCsv();");
+  for (const output of app.run("exportsCaptured")) assert(output.contents.includes("provisional"));
+});

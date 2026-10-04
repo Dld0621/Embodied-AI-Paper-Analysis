@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Computing%20%26%20Deployment%20Systems&specialty=Real-time%20%26%20On-device%20Inference#research-workbench)
 
-> 3 conference papers · 59 recent arXiv papers
+> 3 conference papers · 55 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,6 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
+A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
 ## Conference papers (3)
 
@@ -23,7 +24,7 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025 | On-Device Diffusion Transformer Policy for Efficient Robot Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/pdf/2508.00697) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01306) | rule-assigned |
 | 2025 | Falcon: Fast Visuomotor Policies via Partial Denoising | ICML · Visuomotor | [Paper](https://arxiv.org/abs/2503.00339) · [Index](https://dblp.org/rec/journals/corr/abs-2503-00339) | rule-assigned |
 
-## Recent arXiv papers (59)
+## Recent arXiv papers (55)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -36,7 +37,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-07-31 | Latent-Centroid Steering: Single-Pass Classifier-Free Guidance for Command-Aligned Autonomous Driving | Meibo Hu, Jiamian Wang, Pichao Wang, Zhiqiang Tao | [Abstract](https://arxiv.org/abs/2608.00237) · [PDF](https://arxiv.org/pdf/2608.00237) | rule-assigned |
 | 2026-07-31 | CLIFT: Turning Gemini Robotics On-Device into Humanoid Specialists via Non-Invasive Closed-Loop Iterative Fine-Tuning | Yuxin Chen, Hari Srikanth, Nathan Jew, Menglin Wu et al. | [Abstract](https://arxiv.org/abs/2607.29172) · [PDF](https://arxiv.org/pdf/2607.29172) | rule-assigned |
 | 2026-07-15 | GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch | GigaWorld Team, Angen Ye, Angyuan Ma, Boyuan Wang et al. | [Abstract](https://arxiv.org/abs/2607.13960) · [PDF](https://arxiv.org/pdf/2607.13960) | rule-assigned |
-| 2026-07-02 | EVA-Client: A Unified Data Collection, Inference, and Deployment Framework for Embodied Policies on Real Robots | Heqing Yang, Yang Yi, Liyao Wang, Linqing Zhong et al. | [Abstract](https://arxiv.org/abs/2607.02646) · [PDF](https://arxiv.org/pdf/2607.02646) | rule-assigned |
 | 2026-06-26 | LocalNav: Distilling Frontier VLMs and Embodied RL for On-Device Object Goal Navigation | Nicolas Baumann, Liam Boyle, Pu Deng, Edoardo Ghignone et al. | [Abstract](https://arxiv.org/abs/2606.27871) · [PDF](https://arxiv.org/pdf/2606.27871) | rule-assigned |
 | 2026-06-07 | LUNA-AD: Lightweight Uncertainty-Aware Language Model with Lifelong Learning for Autonomous Driving | Ruoyu Yao, Pei Liu, Ruiguo Zhong, Mingxing Peng et al. | [Abstract](https://arxiv.org/abs/2606.08470) · [PDF](https://arxiv.org/pdf/2606.08470) | rule-assigned |
 | 2026-06-04 | Vault: One-Step Latent Generation with Positive-Anchored Rewards for Autonomous Driving | Yining Xing, Zehong Ke, Zhiyuan Liu, Jianqiang Wang | [Abstract](https://arxiv.org/abs/2606.06219) · [PDF](https://arxiv.org/pdf/2606.06219) | rule-assigned |
@@ -44,12 +44,10 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-05-29 | On-Device Robotic Planning: Eliminating Inference Redundancy for Efficient Decision-Making | Joonhee Lee, Hyunseung Shin, Hyunmi Kim, Pei Zhang et al. | [Abstract](https://arxiv.org/abs/2605.31460) · [PDF](https://arxiv.org/pdf/2605.31460) | rule-assigned |
 | 2026-05-28 | MARS Policy: Multimodality Only When It Matters | Jindou Jia, Tuo An, Yuxuan Hu, Gen Li et al. | [Abstract](https://arxiv.org/abs/2605.29766) · [PDF](https://arxiv.org/pdf/2605.29766) | rule-assigned |
 | 2026-05-24 | Dynamic Neural Koopman Distillation for Real-Time Robot Control Using Diffusion Models | Lei Zheng, Peiqi Yu, Zengqi Peng, Changliu Liu et al. | [Abstract](https://arxiv.org/abs/2605.24924) · [PDF](https://arxiv.org/pdf/2605.24924) | rule-assigned |
-| 2026-05-02 | High-Speed, Scalable Sensor Readout for Dexterous Robotic Hands via Shift-Register Multiplexing | Jaehoon Kim, Lazaros Christoforidis, Michalis Papadakis, Victor Kartsch et al. | [Abstract](https://arxiv.org/abs/2605.01434) · [PDF](https://arxiv.org/pdf/2605.01434) | rule-assigned |
 | 2026-03-17 | S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight | Haodong Yan, Zhide Zhong, Jiaguan Zhu, Junjie He et al. | [Abstract](https://arxiv.org/abs/2603.16195) · [PDF](https://arxiv.org/pdf/2603.16195) | rule-assigned |
 | 2026-03-16 | Scale-Gest: Scalable Model-Space Synthesis and Runtime Selection for On-Device Gesture Detection | Abdul Basit, Saim Rehman, Muhammad Shafique | [Abstract](https://arxiv.org/abs/2605.12506) · [PDF](https://arxiv.org/pdf/2605.12506) | rule-assigned |
 | 2026-03-16 | S2Act: Simple Spiking Actor | Ugur Akcal, Seung Hyun Kim, Mikihisa Yuasa, Hamid Osooli et al. | [Abstract](https://arxiv.org/abs/2603.15725) · [PDF](https://arxiv.org/pdf/2603.15725) | rule-assigned |
 | 2026-03-03 | LiteVLA-Edge: Quantized On-Device Multimodal Control for Embedded Robotics | Justin Williams, Kishor Datta Gupta, Roy George, Mrinmoy Sarkar | [Abstract](https://arxiv.org/abs/2603.03380) · [PDF](https://arxiv.org/pdf/2603.03380) | rule-assigned |
-| 2026-02-24 | Event-Driven On-Sensor Locomotion Mode Recognition Using a Shank-Mounted IMU with Embedded Machine Learning for Exoskeleton Control | Mohammadsaleh Razmi, Iman Shojaei | [Abstract](https://arxiv.org/abs/2602.21418) · [PDF](https://arxiv.org/pdf/2602.21418) | rule-assigned |
 | 2026-02-21 | Habilis-$β$: A Fast-Motion and Long-Lasting On-Device Vision-Language-Action Model | Tommoro Robotics, :, Jesoon Kang, Taegeon Park et al. | [Abstract](https://arxiv.org/abs/2602.18813) · [PDF](https://arxiv.org/pdf/2602.18813) | rule-assigned |
 | 2026-02-15 | A Latency-Aware Framework for Visuomotor Policy Learning on Industrial Robots | Daniel Ruan, Salma Mozaffari, Sigrid Adriaenssens, Arash Adel | [Abstract](https://arxiv.org/abs/2602.14255) · [PDF](https://arxiv.org/pdf/2602.14255) | rule-assigned |
 | 2026-02-15 | A Comprehensive Survey on Deep Learning-Based LiDAR Super-Resolution for Autonomous Driving | June Moh Goo, Zichao Zeng, Jan Boehm | [Abstract](https://arxiv.org/abs/2602.15904) · [PDF](https://arxiv.org/pdf/2602.15904) | rule-assigned |
@@ -63,7 +61,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025-09-23 | VGGT-DP: Generalizable Robot Control via Vision Foundation Models | Shijia Ge, Yijun Liu, Yinxin Zhang, Shuzhao Xie et al. | [Abstract](https://arxiv.org/abs/2509.18778) · [PDF](https://arxiv.org/pdf/2509.18778) | rule-assigned |
 | 2025-08-13 | Predictive Uncertainty for Runtime Assurance of a Real-Time Computer Vision-Based Landing System | Romeo Valentin, Sydney M. Katz, Artur B. Carneiro, Don Walker et al. | [Abstract](https://arxiv.org/abs/2508.09732) · [PDF](https://arxiv.org/pdf/2508.09732) | rule-assigned |
 | 2025-08-01 | On-Device Diffusion Transformer Policy for Efficient Robot Manipulation | Yiming Wu, Huan Wang, Zhenghao Chen, Jianxin Pang et al. | [Abstract](https://arxiv.org/abs/2508.00697) · [PDF](https://arxiv.org/pdf/2508.00697) | rule-assigned |
-| 2025-08-01 | Edge-Based Multimodal Sensor Data Fusion with Vision Language Models (VLMs) for Real-time Autonomous Vehicle Accident Avoidance | Fengze Yang, Bo Yu, Yang Zhou, Xuewen Luo et al. | [Abstract](https://arxiv.org/abs/2508.01057) · [PDF](https://arxiv.org/pdf/2508.01057) | rule-assigned |
 | 2025-07-30 | Goal-Based Vision-Language Driving | Santosh Patapati, Trisanth Srinivasan | [Abstract](https://arxiv.org/abs/2507.23042) · [PDF](https://arxiv.org/pdf/2507.23042) | rule-assigned |
 | 2025-06-20 | Distilling On-device Language Models for Robot Planning with Minimal Human Intervention | Zachary Ravichandran, Ignacio Hounie, Fernando Cladera, Alejandro Ribeiro et al. | [Abstract](https://arxiv.org/abs/2506.17486) · [PDF](https://arxiv.org/pdf/2506.17486) | rule-assigned |
 | 2025-05-27 | Fast and Cost-effective Speculative Edge-Cloud Decoding with Early Exits | Yeshwanth Venkatesha, Souvik Kundu, Priyadarshini Panda | [Abstract](https://arxiv.org/abs/2505.21594) · [PDF](https://arxiv.org/pdf/2505.21594) | rule-assigned |

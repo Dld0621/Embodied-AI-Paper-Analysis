@@ -159,6 +159,12 @@ def validate_taxonomy_layer(layer: dict, label: str) -> tuple[list[str], dict[st
             errors.append(f"{path_label}: unsupported taxonomy evidence source")
         if paper.get("classification_status") not in expected["review_statuses"]:
             errors.append(f"{path_label}: missing or invalid review status")
+        if paper.get("subcategory_status") not in {"provisional", "rule-supported"}:
+            errors.append(f"{path_label}: missing subfield evidence status")
+        if subcategory == "Dexterous Hand Retargeting" and "Hand Retargeting" not in paper.get("related_topics", []):
+            errors.append(f"{path_label}: hand retargeting primary path lacks supporting association")
+        if set(paper.get("related_topics", [])) & {"Hand Retargeting", "Whole-body Retargeting"} and "Retargeting" not in paper.get("related_topics", []):
+            errors.append(f"{path_label}: specialized retargeting topic lacks its parent tag")
         for field, tags in expected["facets"].items():
             values = paper.get(field)
             if not isinstance(values, list) or len(values) != len(set(values)) or not set(values).issubset(tags):

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Multifinger%20Grasping%20%26%20Control&specialty=Cross-hand%20Generalization#research-workbench)
 
-> 1 conference papers · 4 recent arXiv papers
+> 1 conference papers · 3 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,6 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
+A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
 ## Conference papers (1)
 
@@ -21,11 +22,10 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 |---:|---|---|---|---|
 | 2023 | GenDexGrasp: Generalizable Dexterous Grasping | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2210.00722) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160667) | rule-assigned |
 
-## Recent arXiv papers (4)
+## Recent arXiv papers (3)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
-| 2026-09-28 | Design and Validation of an Antagonistic Tendon-Driven Dexterous Robotic Hand with Bidirectional Operation | Chunghyeon Lee, Hyukjun Kwon, Sungeon Kim, Saehyun Moon et al. | [Abstract](https://arxiv.org/abs/2609.36241) · [PDF](https://arxiv.org/pdf/2609.36241) | rule-assigned |
 | 2026-09-27 | FoLD: Force-Informed Learning for Dexterous Articulated Object Manipulation | Haowei Shen, Tingai Li, Yumeng Liu, Wenyuan Guang et al. | [Abstract](https://arxiv.org/abs/2609.33551) · [PDF](https://arxiv.org/pdf/2609.33551) | rule-assigned |
 | 2026-03-17 | DexGrasp-Zero: A Morphology-Aligned Policy for Zero-Shot Cross-Embodiment Dexterous Grasping | Yuliang Wu, Yanhan Lin, WengKit Lao, Yuhao Lin et al. | [Abstract](https://arxiv.org/abs/2603.16806) · [PDF](https://arxiv.org/pdf/2603.16806) | rule-assigned |
 | 2026-02-18 | One Hand to Rule Them All: Canonical Representations for Unified Dexterous Manipulation | Zhenyu Wei, Yunchao Yao, Mingyu Ding | [Abstract](https://arxiv.org/abs/2602.16712) · [PDF](https://arxiv.org/pdf/2602.16712) | rule-assigned |

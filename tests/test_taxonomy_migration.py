@@ -2,20 +2,24 @@ import json
 from collections import Counter
 from pathlib import Path
 import unittest
+import sys
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "scripts"))
+from record_taxonomy_migration import source_hash
 
 
 class MigrationContractTests(unittest.TestCase):
     def test_transfer_ledger_reconciles_every_record_and_new_path(self):
-        ledger = json.loads((ROOT / "data/taxonomy-migration-2026-10-03.json").read_text())
+        ledger = json.loads(sorted((ROOT / "data").glob("taxonomy-migration-*.json"))[-1].read_text())
         self.assertFalse(ledger["source_refresh"])
-        self.assertEqual(ledger["organization_version"], 3)
+        self.assertEqual(ledger["organization_version"], 4)
         for filename, evidence in ledger["layers"].items():
             records = json.loads((ROOT / "data" / filename).read_text())["papers"]
             self.assertEqual(evidence["records_before"], evidence["records_after"])
             self.assertEqual(evidence["records_after"], len(records))
             self.assertTrue(evidence["source_fields_unchanged"])
+            self.assertEqual(evidence["source_fields_sha256"], source_hash(records))
             totals = Counter()
             for entry in evidence["path_transfers"]:
                 self.assertEqual(len(entry["from"]), 3)
@@ -30,6 +34,15 @@ class MigrationContractTests(unittest.TestCase):
             self.assertTrue(documents)
             for path in documents:
                 self.assertLessEqual(path.stat().st_size, 400_000, str(path))
+
+    def test_fallback_does_not_pollute_hand_retargeting(self):
+        for filename in ("papers.json", "arxiv_recent.json"):
+            for p in json.loads((ROOT / "data" / filename).read_text())["papers"]:
+                if p["taxonomy_evidence"] == "fallback":
+                    self.assertNotEqual(p["subcategory"], "Dexterous Hand Retargeting")
+                if p["subcategory"] == "Dexterous Hand Retargeting":
+                    self.assertIn("Hand Retargeting", p["related_topics"])
+                    self.assertEqual(p["subcategory_status"], "rule-supported")
 
 
 if __name__ == "__main__":

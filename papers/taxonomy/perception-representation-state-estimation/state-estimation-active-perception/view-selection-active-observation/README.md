@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=State%20Estimation%20%26%20Active%20Perception&specialty=View%20Selection%20%26%20Active%20Observation#research-workbench)
 
-> 9 conference papers · 64 recent arXiv papers
+> 10 conference papers · 60 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,8 +14,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
+A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (9)
+## Conference papers (10)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
@@ -23,13 +24,14 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025 | An Active Perception Game for Robust Information Gathering | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2404.00769) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128798) | rule-assigned |
 | 2025 | Discovering Object Attributes by Prompting Large Language Models With Perception-Action Apis | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2409.15505) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127632) | rule-assigned |
 | 2025 | Enhanced View Planning for Robotic Harvesting: Tackling Occlusions with Imitation Learning | ICRA · Imitation Learning | [Paper](https://hdl.handle.net/11370/60b6d600-ec48-4bd3-b8b1-80bf93c88a17) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127892) | rule-assigned |
+| 2025 | Heterogeneous Sensor Fusion and Active Perception for Transparent Object Reconstruction with a PDM2 Sensor and a Camera | ICRA · Active Perception | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128748) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128748) | rule-assigned |
 | 2025 | Learning to Double Guess: An Active Perception Approach for Estimating the Center of Mass of Arbitrary Objects | ICRA · Active Perception | [Paper](https://arxiv.org/abs/2502.02663) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127607) | rule-assigned |
 | 2024 | Perceptual Factors for Environmental Modeling in Robotic Active Perception | ICRA · Active Perception | [Paper](https://arxiv.org/abs/2309.10620) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611380) | rule-assigned |
 | 2023 | SCONE: A Food Scooping Robot Learning Framework with Active Perception | CoRL · Active Perception | [Paper](https://www.semanticscholar.org/paper/4e17ec9483051afcaf8f66e7dcf879bdfc133fc1) · [Index](https://dblp.org/rec/conf/corl/TaiCCC23) | rule-assigned |
 | 2023 | Decentralised Active Perception in Continuous Action Spaces for the Coordinated Escort Problem | ICRA · Active Perception | [Paper](https://arxiv.org/abs/2305.01869) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161026) | rule-assigned |
 | 2023 | Learning Continuous Control Policies for Information-Theoretic Active Perception | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2209.12427) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160455) | rule-assigned |
 
-## Recent arXiv papers (64)
+## Recent arXiv papers (60)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -41,13 +43,11 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-09-17 | INSPECT: Learning Robot View Selection from Assistant Use | Di Wen, Kailun Yang, Wenhao Guo, Yitian Shi et al. | [Abstract](https://arxiv.org/abs/2609.20615) · [PDF](https://arxiv.org/pdf/2609.20615) | rule-assigned |
 | 2026-09-16 | HAP: A Hand-Driven Active Perception Framework for Egocentric Head Motion Prediction | Yunji Feng, Junyi Ma, Guanzhong Sun, Chenyang Xu et al. | [Abstract](https://arxiv.org/abs/2609.18548) · [PDF](https://arxiv.org/pdf/2609.18548) | rule-assigned |
 | 2026-09-16 | ActiveScale: Scaling Active Perception for Robots across Model, Data, and Hardware | Shuai Zhou, Kaisheng Pang, Wenxuan Song, Wenjie Zhang et al. | [Abstract](https://arxiv.org/abs/2609.18514) · [PDF](https://arxiv.org/pdf/2609.18514) | rule-assigned |
-| 2026-09-16 | Active perception for robotic harvesting: 3D reconstruction and localisation of tomatoes hidden within clusters in a Mediterranean greenhouse | Fernando Cañadas-Aránega, Rowan Border, José C. Moreno, José L. Blanco-Claraco | [Abstract](https://arxiv.org/abs/2609.18738) · [PDF](https://arxiv.org/pdf/2609.18738) | rule-assigned |
 | 2026-09-11 | Before the Tipping Point: Force-Guided Active Perception for Shape-Agnostic Estimation of 3D Centers of Mass | Steven M. Hyland, Jing Xiao, Cagdas D. Onal | [Abstract](https://arxiv.org/abs/2609.12894) · [PDF](https://arxiv.org/pdf/2609.12894) | rule-assigned |
 | 2026-09-11 | Autonomous Precision Milling of Biological Structures via Generic Anatomical Priors and Active Boundary Perception | Enduo Zhao, Xiaofeng Lin, Yifan Wang, Yuhan Song et al. | [Abstract](https://arxiv.org/abs/2609.12530) · [PDF](https://arxiv.org/pdf/2609.12530) | rule-assigned |
 | 2026-09-01 | SG-AMP: Scene-Graph-Guided Active Perception and Semantics-Aware Motion Planning for Pepper Plants | Rohit Menon, Shiva Rudra Lolla, Niklas Mueller-Goldingen, Gokul Chenchani et al. | [Abstract](https://arxiv.org/abs/2609.01579) · [PDF](https://arxiv.org/pdf/2609.01579) | rule-assigned |
 | 2026-08-11 | Automatic Field-of-View Adjustment for a View-Expansive Microscope via LSTM-Based Gaze and Pipette Motion Interpretation | Kenta Yokoe, Takuya Hara, Tadayoshi Aoyama | [Abstract](https://arxiv.org/abs/2608.10401) · [PDF](https://arxiv.org/pdf/2608.10401) | rule-assigned |
 | 2026-08-11 | Active Perception for Embodied Disambiguation | Yiwei Liu, Luwei Yang | [Abstract](https://arxiv.org/abs/2608.13605) · [PDF](https://arxiv.org/pdf/2608.13605) | rule-assigned |
-| 2026-08-08 | DA-NBV: A Direction-Aware Next-Best-View Planner for Efficient 3D Reconstruction of Ships at Sea | Jiaming Chen, Juntao Yang, Zhentao Zou, Qi Ming et al. | [Abstract](https://arxiv.org/abs/2608.08025) · [PDF](https://arxiv.org/pdf/2608.08025) | rule-assigned |
 | 2026-08-03 | TRACE: Ergodic Trajectory Optimization for Active Scene Reconstruction | Ziyue Zheng, Linli Shi, Bingkun He, Wen Jiang et al. | [Abstract](https://arxiv.org/abs/2608.02304) · [PDF](https://arxiv.org/pdf/2608.02304) | rule-assigned |
 | 2026-07-31 | Receding-Horizon Next-Best-View Planner for Autonomous Leaf Surface Reconstruction | Arif Ahmed, Sajal K. Das, Parikshit Maini | [Abstract](https://arxiv.org/abs/2607.28995) · [PDF](https://arxiv.org/pdf/2607.28995) | rule-assigned |
 | 2026-07-15 | Anatomy of Uncertainty: Expressive Descriptors of Robot Motion for Nonverbal Human-Robot Communication | Ridhima Bector, Souravik Dutta, Poornima Ramachandran, Ree Yan Yeoh et al. | [Abstract](https://arxiv.org/abs/2607.13696) · [PDF](https://arxiv.org/pdf/2607.13696) | rule-assigned |
@@ -57,7 +57,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-06-07 | Co-GLANCE: Uncertainty-Aware Active Perception for Heterogeneous Robot Teaming | Michal P. Podolinsky, Neel P. Bhatt, Pranay Samineni, Rohan Siva et al. | [Abstract](https://arxiv.org/abs/2606.09919) · [PDF](https://arxiv.org/pdf/2606.09919) | rule-assigned |
 | 2026-06-04 | ActiveMimic: Egocentric Video Pretraining with Active Perception | Xingyao Lin, Guojin Zhong, Tianyi Lu, Ziyi Ye et al. | [Abstract](https://arxiv.org/abs/2606.06194) · [PDF](https://arxiv.org/pdf/2606.06194) | rule-assigned |
 | 2026-05-26 | Breaking the Epistemic Trap: Active Perception Under Compound Uncertainty | Chayan Banerjee, Ethan Goan | [Abstract](https://arxiv.org/abs/2605.26627) · [PDF](https://arxiv.org/pdf/2605.26627) | rule-assigned |
-| 2026-05-19 | Conflict-Aware Active Perception and Control in 3D Gaussian Splatting Fields via Control Barrier Functions | Amirhossein Mollaei Khass, Athanasios Cosse, Vivek Pandey, Nader Motee | [Abstract](https://arxiv.org/abs/2605.20566) · [PDF](https://arxiv.org/pdf/2605.20566) | rule-assigned |
 | 2026-05-17 | Motion-Uncertainty-Aware Next-Best-View Planning for Moving Object Reconstruction | Karen Li, Mattia Mantovani, Robert J. Wood, Lorenzo Sabattini et al. | [Abstract](https://arxiv.org/abs/2605.17593) · [PDF](https://arxiv.org/pdf/2605.17593) | rule-assigned |
 | 2026-05-11 | ObjView-Bench: Rethinking Difficulty and Deployment for Object-Centric View Planning | Sicong Pan, Hao Hu, Xuying Huang, Benno Wingender et al. | [Abstract](https://arxiv.org/abs/2605.10707) · [PDF](https://arxiv.org/pdf/2605.10707) | rule-assigned |
 | 2026-04-28 | Robot Planning and Situation Handling with Active Perception | Austine Oloo, Zainab Altaweel, Yohei Hayamizu, Peiqi Liu et al. | [Abstract](https://arxiv.org/abs/2604.26988) · [PDF](https://arxiv.org/pdf/2604.26988) | rule-assigned |
@@ -93,7 +92,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2024-04-09 | MORPHeus: a Multimodal One-armed Robot-assisted Peeling System with Human Users In-the-loop | Ruolin Ye, Yifei Hu, Yuhan, Bian et al. | [Abstract](https://arxiv.org/abs/2404.06570) · [PDF](https://arxiv.org/pdf/2404.06570) | rule-assigned |
 | 2024-03-25 | Exploiting Priors from 3D Diffusion Models for RGB-Based One-Shot View Planning | Sicong Pan, Liren Jin, Xuying Huang, Cyrill Stachniss et al. | [Abstract](https://arxiv.org/abs/2403.16803) · [PDF](https://arxiv.org/pdf/2403.16803) | rule-assigned |
 | 2024-03-22 | HortiBot: An Adaptive Multi-Arm System for Robotic Horticulture of Sweet Peppers | Christian Lenz, Rohit Menon, Michael Schreiber, Melvin Paul Jacob et al. | [Abstract](https://arxiv.org/abs/2403.15306) · [PDF](https://arxiv.org/pdf/2403.15306) | rule-assigned |
-| 2024-02-25 | GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction | Xiao Chen, Quanyi Li, Tai Wang, Tianfan Xue et al. | [Abstract](https://arxiv.org/abs/2402.16174) · [PDF](https://arxiv.org/pdf/2402.16174) | rule-assigned |
 | 2024-02-02 | Learning Which Side to Scan: Multi-View Informed Active Perception with Side Scan Sonar for Autonomous Underwater Vehicles | Advaith V. Sethuraman, Philip Baldoni, Katherine A. Skinner, James McMahon | [Abstract](https://arxiv.org/abs/2402.01106) · [PDF](https://arxiv.org/pdf/2402.01106) | rule-assigned |
 | 2023-10-15 | Active Perception using Neural Radiance Fields | Siming He, Christopher D. Hsu, Dexter Ong, Yifei Simon Shao et al. | [Abstract](https://arxiv.org/abs/2310.09892) · [PDF](https://arxiv.org/pdf/2310.09892) | rule-assigned |
 | 2023-10-09 | STOPNet: Multiview-based 6-DoF Suction Detection for Transparent Objects on Production Lines | Yuxuan Kuang, Qin Han, Danshi Li, Qiyu Dai et al. | [Abstract](https://arxiv.org/abs/2310.05717) · [PDF](https://arxiv.org/pdf/2310.05717) | rule-assigned |

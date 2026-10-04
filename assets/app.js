@@ -75,6 +75,8 @@ Object.assign(state, Object.fromEntries([...TaxonomyFilters.fields, "classificat
 Object.assign(I18N.en, { method_tags: "Method tags", embodiment_tags: "Robot embodiment", data_tags: "Data tags", related_topics: "Related topics", classification_status: "Classification review", reviewed: "Title/abstract reviewed", "rule-assigned": "Rule assigned", "needs-review": "Needs review", taxonomyGuide: "Classification guide", reviewQueue: "Review queue" });
 Object.assign(I18N.zh, { method_tags: "方法标签", embodiment_tags: "机器人形态", data_tags: "数据标签", related_topics: "关联主题（跨分类）", classification_status: "分类审核状态", reviewed: "标题/摘要已核查", "rule-assigned": "规则归类", "needs-review": "待人工复核", taxonomyGuide: "分类说明", reviewQueue: "待审清单" });
 const facetFields = [...TaxonomyFilters.fields, "classification_status"];
+I18N.en.provisionalParent = "Subfield is provisional; no supporting parent evidence.";
+I18N.zh.provisionalParent = "二级归属暂定：缺乏明确依据，需复核。";
 function facetName(field, value) {
   if (field === "classification_status") return label(value);
   return state.language === "zh" ? state.catalog.taxonomy.facets[field][value]?.name_zh || value : value;
@@ -313,7 +315,7 @@ function renderPapers() {
     const saved = state.saved.has(key);
     const authors = paper.authors?.length ? `<i>·</i><span class="paper-authors">${escapeHtml(paper.authors.slice(0, 5).join(", "))}${paper.authors.length > 5 ? " et al." : ""}</span>` : "";
     const taxonomy = `<a href="${escapeHtml(taxonomyHref(paper, 1))}">${escapeHtml(trackName(paper.track))}</a><i>›</i><a href="${escapeHtml(taxonomyHref(paper, 2))}">${escapeHtml(subcategoryName(paper.track, paper.subcategory))}</a><i>›</i><a href="${escapeHtml(taxonomyHref(paper, 3))}">${escapeHtml(specialtyName(paper.track, paper.subcategory, paper.specialty))}</a>`;
-    const annotations = `<details class="paper-annotations"><summary>${escapeHtml(label(paper.classification_status))}</summary><p>${escapeHtml(paper.primary_evidence || paper.taxonomy_evidence)}</p><div>${TaxonomyFilters.fields.flatMap((field) => (paper[field] || []).map((value) => `<button type="button" data-filter="${field}" data-value="${escapeHtml(value)}">${escapeHtml(facetName(field, value))}</button>`)).join("")}</div></details>`;
+    const annotations = `<details class="paper-annotations"><summary>${escapeHtml(label(paper.classification_status))}${paper.subcategory_status === "provisional" ? " · " + escapeHtml(label("provisionalParent")) : ""}</summary><p>${escapeHtml(paper.primary_evidence || paper.taxonomy_evidence)}</p><div>${TaxonomyFilters.fields.flatMap((field) => (paper[field] || []).map((value) => `<button type="button" data-filter="${field}" data-value="${escapeHtml(value)}">${escapeHtml(facetName(field, value))}</button>`)).join("")}</div></details>`;
     const code = paper.code_url ? `<a href="${escapeHtml(paper.code_url)}" target="_blank" rel="noopener">${label("code")} ↗</a>` : "";
     const links = paper.source_type === "arxiv"
       ? `<a class="primary-link" href="${escapeHtml(paper.paper_url)}" target="_blank" rel="noopener">${label("abstract")} ↗</a><a href="${escapeHtml(paper.pdf_url)}" target="_blank" rel="noopener">${label("pdf")} ↗</a>`
@@ -439,8 +441,8 @@ function exportMarkdown() {
   const escapeCell = (value) => String(value || "").replace(/\|/g, "\\|").replace(/\r?\n/g, " ");
   const lines = [
     "# Embodied AI Research View", "", `> ${items.length} papers · exported ${new Date().toISOString().slice(0, 10)}`, "",
-    "| Date | Venue | Paper | Authors | Direction | Subfield | Specialty | Topic | Provenance | Review | Evidence | Tags |", "|---|---|---|---|---|---|---|---|---|---|---|---|",
-    ...items.map((paper) => `| ${paper.published || paper.year} | ${escapeCell(paper.venue)} | [${escapeCell(paper.title)}](${paper.paper_url}) | ${escapeCell((paper.authors || []).join(", "))} | ${escapeCell(paper.track)} | ${escapeCell(paper.subcategory)} | ${escapeCell(paper.specialty)} | ${escapeCell(paper.topic)} | [${paper.source_type}](${paper.official_url}) | ${paper.classification_status} | ${escapeCell(paper.primary_evidence || paper.taxonomy_evidence)} | ${escapeCell(TaxonomyFilters.fields.map((field) => field + ": " + (paper[field] || []).join("; ")).join(" / "))} |`),
+    "| Date | Venue | Paper | Authors | Direction | Subfield | Specialty | Topic | Provenance | Review | Evidence | Tags | Subfield status |", "|---|---|---|---|---|---|---|---|---|---|---|---|---|",
+    ...items.map((paper) => `| ${paper.published || paper.year} | ${escapeCell(paper.venue)} | [${escapeCell(paper.title)}](${paper.paper_url}) | ${escapeCell((paper.authors || []).join(", "))} | ${escapeCell(paper.track)} | ${escapeCell(paper.subcategory)} | ${escapeCell(paper.specialty)} | ${escapeCell(paper.topic)} | [${paper.source_type}](${paper.official_url}) | ${paper.classification_status} | ${escapeCell(paper.primary_evidence || paper.taxonomy_evidence)} | ${escapeCell(TaxonomyFilters.fields.map((field) => field + ": " + (paper[field] || []).join("; ")).join(" / "))} | ${paper.subcategory_status} |`),
     "", "_Authors are included when supplied by the source; missing metadata is not inferred._", ""
   ];
   downloadFile("embodied-ai-research-view.md", lines.join("\n"), "text/markdown;charset=utf-8");
@@ -449,8 +451,8 @@ function exportMarkdown() {
 
 function exportCsv() {
   const quote = (value) => `"${String(value || "").replace(/"/g, '""')}"`;
-  const header = ["Title", "Authors", "Date", "Year", "Venue", "Corpus", "Track", "Subfield", "Specialty", "Topic", "Taxonomy Evidence", "Paper URL", "Source URL", "Source Type", "Code URL", "Classification Status", "Primary Evidence", ...TaxonomyFilters.fields];
-  const rows = filteredPapers().map((paper) => [paper.title, (paper.authors || []).join("; "), paper.published || "", paper.year, paper.venue, paper.corpus, paper.track, paper.subcategory, paper.specialty, paper.topic, paper.taxonomy_evidence, paper.paper_url, paper.official_url, paper.source_type, paper.code_url || "", paper.classification_status, paper.primary_evidence, ...TaxonomyFilters.fields.map((field) => (paper[field] || []).join("; "))]);
+  const header = ["Title", "Authors", "Date", "Year", "Venue", "Corpus", "Track", "Subfield", "Specialty", "Topic", "Taxonomy Evidence", "Paper URL", "Source URL", "Source Type", "Code URL", "Classification Status", "Primary Evidence", "Subfield Status", ...TaxonomyFilters.fields];
+  const rows = filteredPapers().map((paper) => [paper.title, (paper.authors || []).join("; "), paper.published || "", paper.year, paper.venue, paper.corpus, paper.track, paper.subcategory, paper.specialty, paper.topic, paper.taxonomy_evidence, paper.paper_url, paper.official_url, paper.source_type, paper.code_url || "", paper.classification_status, paper.primary_evidence, paper.subcategory_status, ...TaxonomyFilters.fields.map((field) => (paper[field] || []).join("; "))]);
   downloadFile("embodied-ai-research-view.csv", `\ufeff${[header, ...rows].map((row) => row.map(quote).join(",")).join("\r\n")}`, "text/csv;charset=utf-8");
   showToast(label("csvExported"));
 }

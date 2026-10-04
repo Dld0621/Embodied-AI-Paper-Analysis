@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Synthetic%20%26%20Augmented%20Data&specialty=Simulated%20Trajectory%20Generation#research-workbench)
 
-> 2 conference papers · 64 recent arXiv papers
+> 2 conference papers · 63 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,6 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
+A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
 ## Conference papers (2)
 
@@ -22,7 +23,7 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025 | MetaFold: Language-Guided Multi-Category Garment Folding Framework via Trajectory Generation and Foundation Model | IROS · Foundation Model | [Paper](https://arxiv.org/abs/2503.08372) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246072) | rule-assigned |
 | 2024 | A Fast Online Omnidirectional Quadrupedal Jumping Framework Via Virtual-Model Control and Minimum Jerk Trajectory Generation | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2407.00658) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802277) | rule-assigned |
 
-## Recent arXiv papers (64)
+## Recent arXiv papers (63)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -32,8 +33,8 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-09-07 | DriftParking: Trajectory Modeling via Drifting Field for End-to-End Automated Parking | Ziyan Wang, Dong Li, Weibo Wang, Yinyin Lu et al. | [Abstract](https://arxiv.org/abs/2609.06923) · [PDF](https://arxiv.org/pdf/2609.06923) | rule-assigned |
 | 2026-08-11 | Top-down Traffic Scenario Generation via Joint Initial-Goal Diffusion and Trajectory Infilling | Da Saem Lee, Yash Vardhan Pant, Sebastian Fischmeister | [Abstract](https://arxiv.org/abs/2608.11407) · [PDF](https://arxiv.org/pdf/2608.11407) | rule-assigned |
 | 2026-08-04 | Accelerating Human-Aware Robot Trajectory Generation via Diffusion and Consistency Distillation | Byeong-Il Ham, Hyun-Bin Kim, Kyung-Soo Kim | [Abstract](https://arxiv.org/abs/2608.03159) · [PDF](https://arxiv.org/pdf/2608.03159) | rule-assigned |
-| 2026-07-23 | TableVerse: A Large-scale Tabletop Dataset with Real-world Grounded Layouts for Generalizable Manipulation | Boyuan Wang, Yue Zhang, Xutao Xue, Xueyu Song et al. | [Abstract](https://arxiv.org/abs/2607.21017) · [PDF](https://arxiv.org/pdf/2607.21017) | rule-assigned |
 | 2026-07-15 | A Hybrid Sampling-Based Trajectory Planner with Game-Theoretic Guidance for Autonomous Racing | Alexander Langmann, Frederico Pita de Araujo, Mattia Piccinini, Johannes Betz | [Abstract](https://arxiv.org/abs/2607.13354) · [PDF](https://arxiv.org/pdf/2607.13354) | rule-assigned |
+| 2026-07-12 | Traj-VLN: Learning Pixel-Space Interaction via Autoregressive Trajectory Generation | Changfei Fu, Guangcheng Chen, Aoxiang Gu, Haoxiang Liang et al. | [Abstract](https://arxiv.org/abs/2607.10744) · [PDF](https://arxiv.org/pdf/2607.10744) | rule-assigned |
 | 2026-07-09 | A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths | Rosanna Coccaro, Enrico Ferrentino, Antonio Parziale, Angelo Marcelli et al. | [Abstract](https://arxiv.org/abs/2607.08620) · [PDF](https://arxiv.org/pdf/2607.08620) | rule-assigned |
 | 2026-07-08 | CARLA-GS: Decoupling Representation, Reasoning, and Physics Simulation for Autonomous Driving Corner-Case Synthesis | Kaicong Huang, Meng Ma, Ruimin Ke | [Abstract](https://arxiv.org/abs/2607.07601) · [PDF](https://arxiv.org/pdf/2607.07601) | rule-assigned |
 | 2026-07-06 | Dynamic Evaluation of Classical and Control-Aware Optimal Trajectory Planning in Robot Manipulators | Bhanuka Dayawansa, Rohan Munasinghe | [Abstract](https://arxiv.org/abs/2607.05544) · [PDF](https://arxiv.org/pdf/2607.05544) | rule-assigned |
@@ -44,7 +45,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-04-05 | Primitive-based Truncated Diffusion for Efficient Trajectory Generation of Differential Drive Mobile Manipulators | Long Xu, Choilam Wong, Yuhang Zhong, Junxiao Lin et al. | [Abstract](https://arxiv.org/abs/2604.04166) · [PDF](https://arxiv.org/pdf/2604.04166) | rule-assigned |
 | 2026-03-26 | LILAC: Language-Conditioned Object-Centric Optical Flow for Open-Loop Trajectory Generation | Motonari Kambara, Koki Seno, Tomoya Kaichi, Yanan Wang et al. | [Abstract](https://arxiv.org/abs/2603.25481) · [PDF](https://arxiv.org/pdf/2603.25481) | rule-assigned |
 | 2026-03-26 | Integrated Multi-Drone Task Allocation, Sequencing, and Optimal Trajectory Generation in Obstacle-Rich 3D Environments | Yunes Alqudsi, Murat Makaraci | [Abstract](https://arxiv.org/abs/2603.24908) · [PDF](https://arxiv.org/pdf/2603.24908) | rule-assigned |
-| 2026-03-23 | Trajectory Generation for Underactuated Soft Robot Manipulators using Discrete Elastic Rod Dynamics | Beibei Liu, Akua K. Dickson, Ran Jing, Andrew P. Sabelhaus | [Abstract](https://arxiv.org/abs/2603.22604) · [PDF](https://arxiv.org/pdf/2603.22604) | rule-assigned |
 | 2026-03-10 | Provably Safe Trajectory Generation for Manipulators Under Motion and Environmental Uncertainties | Fei Meng, Zijiang Yang, Xinyu Mao, Haobo Liang et al. | [Abstract](https://arxiv.org/abs/2603.09083) · [PDF](https://arxiv.org/pdf/2603.09083) | rule-assigned |
 | 2026-03-09 | SAIL: Test-Time Scaling for In-Context Imitation Learning with VLM | Makoto Sato, Yusuke Iwasawa, Yujin Tang, So Kuroki | [Abstract](https://arxiv.org/abs/2603.08269) · [PDF](https://arxiv.org/pdf/2603.08269) | rule-assigned |
 | 2026-03-05 | Task Parameter Extrapolation via Learning Inverse Tasks from Forward Demonstrations | Serdar Bahar, Fatih Dogangun, Matteo Saveriano, Yukie Nagai et al. | [Abstract](https://arxiv.org/abs/2603.05576) · [PDF](https://arxiv.org/pdf/2603.05576) | rule-assigned |
@@ -54,6 +54,7 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-02-01 | HERMES: A Holistic End-to-End Risk-Aware Multimodal Embodied System with Vision-Language Models for Long-Tail Autonomous Driving | Weizhe Tang, Junwei You, Jiaxi Liu, Zhaoyi Wang et al. | [Abstract](https://arxiv.org/abs/2602.00993) · [PDF](https://arxiv.org/pdf/2602.00993) | rule-assigned |
 | 2025-12-09 | Language-Conditioned Safe Trajectory Generation for Spacecraft Rendezvous | Yuji Takubo, Arpit Dwivedi, Sukeerth Ramkumar, Luis A. Pabon et al. | [Abstract](https://arxiv.org/abs/2512.09111) · [PDF](https://arxiv.org/pdf/2512.09111) | rule-assigned |
 | 2025-10-16 | Autonomous Reactive Masonry Construction using Collaborative Heterogeneous Aerial Robots with Experimental Demonstration | Marios-Nektarios Stamatopoulos, Elias Small, Shridhar Velhal, Avijit Banerjee et al. | [Abstract](https://arxiv.org/abs/2510.15114) · [PDF](https://arxiv.org/pdf/2510.15114) | rule-assigned |
+| 2025-09-29 | Infrastructure Sensor-enabled Vehicle Data Generation using Multi-Sensor Fusion for Proactive Safety Applications at Work Zone | Suhala Rabab Saba, Sakib Khan, Minhaj Uddin Ahmad, Jiahe Cao et al. | [Abstract](https://arxiv.org/abs/2509.25452) · [PDF](https://arxiv.org/pdf/2509.25452) | rule-assigned |
 | 2025-09-26 | One-DoF Robotic Design of Overconstrained Limbs with Energy-Efficient, Self-Collision-Free Motion | Yuping Gu, Bangchao Huang, Haoran Sun, Ronghan Xu et al. | [Abstract](https://arxiv.org/abs/2509.22002) · [PDF](https://arxiv.org/pdf/2509.22002) | rule-assigned |
 | 2025-08-29 | Tree-Guided Diffusion Planner | Hyeonseong Jeon, Cheolhong Min, Jaesik Park | [Abstract](https://arxiv.org/abs/2508.21800) · [PDF](https://arxiv.org/pdf/2508.21800) | rule-assigned |
 | 2025-07-07 | Counterfactual Reasoning and Environment Design for Active Preference Learning | Yi-Shiuan Tung, Bradley Hayes, Alessandro Roncone | [Abstract](https://arxiv.org/abs/2507.05458) · [PDF](https://arxiv.org/pdf/2507.05458) | rule-assigned |
@@ -68,7 +69,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025-03-11 | MetaFold: Language-Guided Multi-Category Garment Folding Framework via Trajectory Generation and Foundation Model | Haonan Chen, Junxiao Li, Ruihai Wu, Yiwei Liu et al. | [Abstract](https://arxiv.org/abs/2503.08372) · [PDF](https://arxiv.org/pdf/2503.08372) | rule-assigned |
 | 2025-03-11 | Efficient Trajectory Generation Based on Traversable Planes in 3D Complex Architectural Spaces | Mengke Zhang, Zhihao Tian, Yaoguang Xia, Chao Xu et al. | [Abstract](https://arxiv.org/abs/2503.08076) · [PDF](https://arxiv.org/pdf/2503.08076) | rule-assigned |
 | 2025-03-05 | STORM: Spatial-Temporal Iterative Optimization for Reliable Multicopter Trajectory Generation | Jinhao Zhang, Zhexuan Zhou, Wenlong Xia, Youmin Gong et al. | [Abstract](https://arxiv.org/abs/2503.03252) · [PDF](https://arxiv.org/pdf/2503.03252) | rule-assigned |
-| 2025-02-03 | Robust Trajectory Generation and Control for Quadrotor Motion Planning with Field-of-View Control Barrier Certification | Lishuo Pan, Mattia Catellani, Lorenzo Sabattini, Nora Ayanian | [Abstract](https://arxiv.org/abs/2502.01009) · [PDF](https://arxiv.org/pdf/2502.01009) | rule-assigned |
 | 2024-11-13 | Efficient Trajectory Generation in 3D Environments with Multi-Level Map Construction | Chengkun Tian, Xiaohui Gao, Yongguang Liu | [Abstract](https://arxiv.org/abs/2411.08323) · [PDF](https://arxiv.org/pdf/2411.08323) | rule-assigned |
 | 2024-11-09 | RRT* Based Optimal Trajectory Generation with Linear Temporal Logic Specifications under Kinodynamic Constraints | Saksham Gautam, Ratnangshu Das, Pushpak Jagtap | [Abstract](https://arxiv.org/abs/2411.06219) · [PDF](https://arxiv.org/pdf/2411.06219) | rule-assigned |
 | 2024-08-05 | VL-TGS: Trajectory Generation and Selection using Vision Language Models in Mapless Outdoor Environments | Daeun Song, Jing Liang, Xuesu Xiao, Dinesh Manocha | [Abstract](https://arxiv.org/abs/2408.02454) · [PDF](https://arxiv.org/pdf/2408.02454) | rule-assigned |

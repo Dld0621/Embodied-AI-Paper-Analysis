@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Task%20Reasoning%20%26%20Planning&specialty=Language-model%20Planning#research-workbench)
 
-> 5 conference papers · 40 recent arXiv papers
+> 4 conference papers · 39 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,8 +14,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
+A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (5)
+## Conference papers (4)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
@@ -23,18 +24,17 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025 | AutoMisty: A Multi-Agent LLM Framework for Automated Code Generation in the Misty Social Robot | IROS · Llm | [Paper](https://arxiv.org/abs/2503.06791) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247695) | rule-assigned |
 | 2025 | Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation | IROS · Foundation Model | [Paper](https://arxiv.org/abs/2503.01700) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247174) | rule-assigned |
 | 2024 | Trust the PRoC3S: Solving Long-Horizon Robotics Problems with LLMs and Constraint Satisfaction | CoRL · Llm | [Paper](https://arxiv.org/abs/2406.05572) · [Index](https://dblp.org/rec/journals/corr/abs-2406-05572) | rule-assigned |
-| 2024 | VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning | ICLR · World Model | [Paper](https://arxiv.org/abs/2410.23156) · [Index](https://dblp.org/rec/journals/corr/abs-2410-23156) | rule-assigned |
 
-## Recent arXiv papers (40)
+## Recent arXiv papers (39)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
 | 2026-09-23 | RegenHarness: A Robot Agent Harness with Evidence-Gated Recursive Self-Improvement | Kailin Wang, Haoxiang Jie, Yaoyuan Yan, Zhiyou Heng et al. | [Abstract](https://arxiv.org/abs/2609.27612) · [PDF](https://arxiv.org/pdf/2609.27612) | rule-assigned |
+| 2026-08-20 | World-Model-Grounded LLM Planning for AUV and ASV Navigation Near Offshore Wind Farms | Markus Buchholz, Ignacio Carlucho, Yvan R. Petillot | [Abstract](https://arxiv.org/abs/2608.19661) · [PDF](https://arxiv.org/pdf/2608.19661) | rule-assigned |
 | 2026-08-13 | Retrieval-grounded robot program generation and simulation-based correction via Model Context Protocol | Zhichao Zhou, Siyuan Chen, Omkar Salunkhe, Ebru Turanoglu Bekar et al. | [Abstract](https://arxiv.org/abs/2608.21417) · [PDF](https://arxiv.org/pdf/2608.21417) | rule-assigned |
 | 2026-06-24 | ASSCG: Just-Right Gating over Chattering for Fast-Slow LLM Planning in Autonomous Driving | Sining Ang, Yuan Chen, Liu Haiyan, Xuanyao Mao et al. | [Abstract](https://arxiv.org/abs/2606.25509) · [PDF](https://arxiv.org/pdf/2606.25509) | rule-assigned |
 | 2026-06-13 | Driving, Fast or Slow? Neuro-Symbolic Guidance for Motion Prediction in Multi-Modal Ground Mobility | Simon Kohaut, Felix Divo, Julius Hahnewald, Benedict Flade et al. | [Abstract](https://arxiv.org/abs/2606.15251) · [PDF](https://arxiv.org/pdf/2606.15251) | rule-assigned |
 | 2026-06-02 | ModuLoop : Low-Level Code Generation using Modular Synthesizer and Closed-Loop Debugger for Robotic Control | Gina Yoon, Sumin Lee, Joo Yong Sim | [Abstract](https://arxiv.org/abs/2606.03047) · [PDF](https://arxiv.org/pdf/2606.03047) | rule-assigned |
-| 2026-05-27 | Robo-Blocks: Generative Scaffolding in End-User Design and Programming of Social Robots | Arissa J. Sato, Callie Y. Kim, Nathan Thomas White, Abhinav Maneesh et al. | [Abstract](https://arxiv.org/abs/2605.28154) · [PDF](https://arxiv.org/pdf/2605.28154) | rule-assigned |
 | 2026-05-21 | Steins;Gate Drive: Semantic Safety Arbitration over Structured Futures for Latency-Decoupled LLM Planning | Anjie Qiu, Hans D. Schotten | [Abstract](https://arxiv.org/abs/2605.22456) · [PDF](https://arxiv.org/pdf/2605.22456) | rule-assigned |
 | 2025-12-01 | LLM-Driven Corrective Robot Operation Code Generation with Static Text-Based Simulation | Wenhao Wang, Yi Rong, Yanyan Li, Long Jiao et al. | [Abstract](https://arxiv.org/abs/2512.02002) · [PDF](https://arxiv.org/pdf/2512.02002) | rule-assigned |
 | 2025-10-28 | PFEA: An LLM-based High-Level Natural Language Planning and Feedback Embodied Agent for Human-Centered AI | Wenbin Ding, Jun Chen, Mingjia Chen, Fei Xie et al. | [Abstract](https://arxiv.org/abs/2510.24109) · [PDF](https://arxiv.org/pdf/2510.24109) | rule-assigned |
@@ -53,7 +53,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025-02-18 | GSCE: A Prompt Framework with Enhanced Reasoning for Reliable LLM-driven Drone Control | Wenhao Wang, Yanyan Li, Long Jiao, Jiawei Yuan | [Abstract](https://arxiv.org/abs/2502.12531) · [PDF](https://arxiv.org/pdf/2502.12531) | rule-assigned |
 | 2025-02-03 | VILP: Imitation Learning with Latent Video Planning | Zhengtong Xu, Qiang Qiu, Yu She | [Abstract](https://arxiv.org/abs/2502.01784) · [PDF](https://arxiv.org/pdf/2502.01784) | rule-assigned |
 | 2024-12-16 | Embodied CoT Distillation From LLM To Off-the-shelf Agents | Wonje Choi, Woo Kyung Kim, Minjong Yoo, Honguk Woo | [Abstract](https://arxiv.org/abs/2412.11499) · [PDF](https://arxiv.org/pdf/2412.11499) | rule-assigned |
-| 2024-10-30 | VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning | Yichao Liang, Nishanth Kumar, Hao Tang, Adrian Weller et al. | [Abstract](https://arxiv.org/abs/2410.23156) · [PDF](https://arxiv.org/pdf/2410.23156) | rule-assigned |
 | 2024-10-13 | Conversational Code Generation: a Case Study of Designing a Dialogue System for Generating Driving Scenarios for Testing Autonomous Vehicles | Rimvydas Rubavicius, Antonio Valerio Miceli-Barone, Alex Lascarides, Subramanian Ramamoorthy | [Abstract](https://arxiv.org/abs/2410.09829) · [PDF](https://arxiv.org/pdf/2410.09829) | rule-assigned |
 | 2024-09-17 | Towards No-Code Programming of Cobots: Experiments with Code Synthesis by Large Code Models for Conversational Programming | Chalamalasetti Kranti, Sherzod Hakimov, David Schlangen | [Abstract](https://arxiv.org/abs/2409.11041) · [PDF](https://arxiv.org/pdf/2409.11041) | rule-assigned |
 | 2024-09-05 | Continual Robot Skill and Task Learning via Dialogue | Weiwei Gu, Suresh Kondepudi, Anmol Gupta, Lixiao Huang et al. | [Abstract](https://arxiv.org/abs/2409.03166) · [PDF](https://arxiv.org/pdf/2409.03166) | rule-assigned |

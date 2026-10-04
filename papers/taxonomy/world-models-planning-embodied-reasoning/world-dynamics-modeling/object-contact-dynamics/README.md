@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=World%20%26%20Dynamics%20Modeling&specialty=Object%20%26%20Contact%20Dynamics#research-workbench)
 
-> 4 conference papers · 25 recent arXiv papers
+> 3 conference papers · 24 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,17 +14,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
+A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (4)
+## Conference papers (3)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2025 | Modeling Fine-Grained Hand-Object Dynamics for Egocentric Video Representation Learning | ICLR · Hand Object | [Paper](https://arxiv.org/abs/2503.00986) · [Index](https://dblp.org/rec/journals/corr/abs-2503-00986) | rule-assigned |
 | 2025 | Is Linear Feedback on Smoothed Dynamics Sufficient for Stabilizing Contact-Rich Plans? | ICRA · Contact Rich | [Paper](https://arxiv.org/pdf/2411.06542) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127776) | rule-assigned |
 | 2024 | Learning to Walk from Three Minutes of Real-World Data with Semi-structured Dynamics Models | CoRL · Dynamics Model | [Paper](https://arxiv.org/abs/2410.09163) · [Index](https://dblp.org/rec/journals/corr/abs-2410-09163) | rule-assigned |
-| 2022 | Graph network simulators can learn discontinuous, rigid contact dynamics | CoRL · Simulator | [Paper](https://www.semanticscholar.org/paper/979c112d5ed2f7653990a3591cdfccfad0dc27fd) · [Index](https://dblp.org/rec/conf/corl/AllenLRSSBP22) | rule-assigned |
 
-## Recent arXiv papers (25)
+## Recent arXiv papers (24)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -38,7 +38,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-04-19 | Novel Algorithms for Smoothly Differentiable and Efficiently Vectorizable Contact Manifold Construction | Onur Beker, Andreas René Geist, Anselm Paulus, Georg Martius | [Abstract](https://arxiv.org/abs/2604.17538) · [PDF](https://arxiv.org/pdf/2604.17538) | rule-assigned |
 | 2026-02-17 | ODYN: An All-Shifted Non-Interior-Point Method for Quadratic Programming in Robotics and AI | Jose Rojas, Aristotelis Papatheodorou, Sergi Martinez, Andrea Patrizi et al. | [Abstract](https://arxiv.org/abs/2602.16005) · [PDF](https://arxiv.org/pdf/2602.16005) | rule-assigned |
 | 2026-02-05 | Visuo-Tactile World Models | Carolina Higuera, Sergio Arnaud, Byron Boots, Mustafa Mukadam et al. | [Abstract](https://arxiv.org/abs/2602.06001) · [PDF](https://arxiv.org/pdf/2602.06001) | rule-assigned |
-| 2025-10-20 | Quality Over Quantity: Curating Contact-Based Robot Datasets Improves Learning | Hrishikesh Sathyanarayan, Victor Vantilborgh, Ian Abraham | [Abstract](https://arxiv.org/abs/2510.18137) · [PDF](https://arxiv.org/pdf/2510.18137) | rule-assigned |
 | 2025-10-10 | FOGMACHINE -- Leveraging Discrete-Event Simulation and Scene Graphs for Modeling Hierarchical, Interconnected Environments under Partial Observations from Mobile Agents | Lars Ohnemus, Nils Hantke, Max Weißer, Kai Furmans | [Abstract](https://arxiv.org/abs/2510.09483) · [PDF](https://arxiv.org/pdf/2510.09483) | rule-assigned |
 | 2025-10-06 | StaMo: Unsupervised Learning of Generalizable Robot Motion from Compact State Representation | Mingyu Liu, Jiuhe Shu, Hui Chen, Zeju Li et al. | [Abstract](https://arxiv.org/abs/2510.05057) · [PDF](https://arxiv.org/pdf/2510.05057) | rule-assigned |
 | 2025-09-30 | On the Conic Complementarity of Planar Contacts | Yann de Mont-Marin, Louis Montaut, Jean Ponce, Martial Hebert et al. | [Abstract](https://arxiv.org/abs/2509.25999) · [PDF](https://arxiv.org/pdf/2509.25999) | rule-assigned |

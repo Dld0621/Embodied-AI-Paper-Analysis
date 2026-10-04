@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Synthetic%20%26%20Augmented%20Data&specialty=Cross-robot%20Data%20Conversion#research-workbench)
 
-> 0 conference papers · 15 recent arXiv papers
+> 0 conference papers · 14 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,19 +14,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
+A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
 ## Conference papers (0)
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (15)
+## Recent arXiv papers (14)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
 | 2026-09-25 | NavGen: Visual Generative Models as a Scalable Data Engine for Embodied 3D Navigation | Xijie Huang, Yongyang Wan, Chengbin Dong, Zimo Ding et al. | [Abstract](https://arxiv.org/abs/2609.30770) · [PDF](https://arxiv.org/pdf/2609.30770) | rule-assigned |
 | 2026-09-02 | RoboTok: A Scalable Data Engine for Internet Demonstration Video Retrieval and Dexterous Manipulation Learning | Howard Qian, Yiting Chen, Yunfei Xie, Kejia Ren et al. | [Abstract](https://arxiv.org/abs/2609.03199) · [PDF](https://arxiv.org/pdf/2609.03199) | rule-assigned |
 | 2026-07-23 | AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation | Mengfei Zhao, Dihong Huang, Yikai Tang, Peihao Li et al. | [Abstract](https://arxiv.org/abs/2607.21588) · [PDF](https://arxiv.org/pdf/2607.21588) | rule-assigned |
-| 2026-07-15 | Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning | Zishuo Li, Bowen Yang, Changtao Miao, Kai Zhu et al. | [Abstract](https://arxiv.org/abs/2607.14183) · [PDF](https://arxiv.org/pdf/2607.14183) | rule-assigned |
 | 2026-06-22 | A Vendor-Agnostic LiDAR Data Conversion System with Multi-Signal Detection and Multi-Format Output | Param Patel, Jay Dave, Pratyush Chakraborty | [Abstract](https://arxiv.org/abs/2606.22881) · [PDF](https://arxiv.org/pdf/2606.22881) | rule-assigned |
 | 2026-06-16 | EgoInfinity: A Web-Scale 4D Hand-Object Interaction Data Engine for Any-View Robot Retargeting and Video-to-Action Robot Learning | Gaotian Wang, Kejia Ren, Andrew Morgan, Yiting Chen et al. | [Abstract](https://arxiv.org/abs/2606.17385) · [PDF](https://arxiv.org/pdf/2606.17385) | reviewed |
 | 2026-05-26 | LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding | Shihao Wang, Shilong Liu, Yuanguo Kuang, Xinyu Wei et al. | [Abstract](https://arxiv.org/abs/2605.27365) · [PDF](https://arxiv.org/pdf/2605.27365) | rule-assigned |

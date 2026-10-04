@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engineering&specialty=Human%20Video%20%26%20Motion%20Data#research-workbench)
 
-> 1 conference papers · 35 recent arXiv papers
+> 1 conference papers · 33 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,6 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
+A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
 ## Conference papers (1)
 
@@ -21,7 +22,7 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 |---:|---|---|---|---|
 | 2024 | RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2408.11048) · [Index](https://dblp.org/rec/journals/corr/abs-2408-11048) | rule-assigned |
 
-## Recent arXiv papers (35)
+## Recent arXiv papers (33)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -42,7 +43,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025-09-19 | KoopCast: Trajectory Forecasting via Koopman Operators | Jungjin Lee, Jaeuk Shin, Gihwan Kim, Joonho Han et al. | [Abstract](https://arxiv.org/abs/2509.15513) · [PDF](https://arxiv.org/pdf/2509.15513) | rule-assigned |
 | 2025-09-03 | Efficient Virtuoso: A Latent Diffusion Transformer Model for Goal-Conditioned Trajectory Planning | Antonio Guillen-Perez | [Abstract](https://arxiv.org/abs/2509.03658) · [PDF](https://arxiv.org/pdf/2509.03658) | rule-assigned |
 | 2025-09-03 | Can the Waymo Open Motion Dataset Support Realistic Behavioral Modeling? A Validation Study with Naturalistic Trajectories | Yanlin Zhang, Sungyong Chung, Nachuan Li, Dana Monzer et al. | [Abstract](https://arxiv.org/abs/2509.03515) · [PDF](https://arxiv.org/pdf/2509.03515) | rule-assigned |
-| 2025-08-01 | On Learning Closed-Loop Probabilistic Multi-Agent Simulator | Juanwu Lu, Rohit Gupta, Ahmadreza Moradipari, Kyungtae Han et al. | [Abstract](https://arxiv.org/abs/2508.00384) · [PDF](https://arxiv.org/pdf/2508.00384) | rule-assigned |
 | 2025-06-30 | Risk-Based Filtering of Valuable Driving Situations in the Waymo Open Motion Dataset | Tim Puphal, Vipul Ramtekkar, Kenji Nishimiya | [Abstract](https://arxiv.org/abs/2506.23433) · [PDF](https://arxiv.org/pdf/2506.23433) | rule-assigned |
 | 2025-06-08 | Improving Traffic Signal Data Quality for the Waymo Open Motion Dataset | Xintao Yan, Erdao Liang, Jiawei Wang, Haojie Zhu et al. | [Abstract](https://arxiv.org/abs/2506.07150) · [PDF](https://arxiv.org/pdf/2506.07150) | rule-assigned |
 | 2025-04-22 | Dynamic Intent Queries for Motion Transformer-based Trajectory Prediction | Tobias Demmler, Lennart Hartung, Andreas Tamke, Thao Dang et al. | [Abstract](https://arxiv.org/abs/2504.15766) · [PDF](https://arxiv.org/pdf/2504.15766) | rule-assigned |
@@ -59,7 +59,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2024-05-06 | UniGen: Unified Modeling of Initial Agent States and Trajectories for Generating Autonomous Driving Scenarios | Reza Mahjourian, Rongbing Mu, Valerii Likhosherstov, Paul Mougin et al. | [Abstract](https://arxiv.org/abs/2405.03807) · [PDF](https://arxiv.org/pdf/2405.03807) | rule-assigned |
 | 2024-04-05 | Scaling Motion Forecasting Models with Ensemble Distillation | Scott Ettinger, Kratarth Goel, Avikalp Srivastava, Rami Al-Rfou | [Abstract](https://arxiv.org/abs/2404.03843) · [PDF](https://arxiv.org/pdf/2404.03843) | rule-assigned |
 | 2024-02-04 | Hybrid-Prediction Integrated Planning for Autonomous Driving | Haochen Liu, Zhiyu Huang, Wenhui Huang, Haohan Yang et al. | [Abstract](https://arxiv.org/abs/2402.02426) · [PDF](https://arxiv.org/pdf/2402.02426) | rule-assigned |
-| 2023-10-12 | Waymax: An Accelerated, Data-Driven Simulator for Large-Scale Autonomous Driving Research | Cole Gulino, Justin Fu, Wenjie Luo, George Tucker et al. | [Abstract](https://arxiv.org/abs/2310.08710) · [PDF](https://arxiv.org/pdf/2310.08710) | rule-assigned |
 
 ---
 

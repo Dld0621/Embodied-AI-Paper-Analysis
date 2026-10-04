@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Multi-robot%20%26%20Social%20Navigation&specialty=Human-aware%20%26%20Social%20Navigation#research-workbench)
 
-> 58 conference papers · 182 recent arXiv papers
+> 56 conference papers · 176 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,8 +14,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
+A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (58)
+## Conference papers (56)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
@@ -51,7 +52,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2024 | Rethinking Social Robot Navigation: Leveraging the Best of Two Worlds | ICRA · Navigation | [Paper](https://arxiv.org/abs/2309.13466) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611710) | rule-assigned |
 | 2024 | SocialGAIL: Faithful Crowd Simulation for Social Robot Navigation | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610371) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610371) | rule-assigned |
 | 2024 | Stranger Danger! Identifying and Avoiding Unpredictable Pedestrians in RL-based Social Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2407.06056) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610413) | rule-assigned |
-| 2024 | TBD Pedestrian Data Collection: Towards Rich, Portable, and Large-Scale Natural Pedestrian Data | ICRA · Data Collection | [Paper](https://arxiv.org/abs/2309.17187) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610335) | rule-assigned |
 | 2024 | Trajectory Prediction for Robot Navigation using Flow-Guided Markov Neural Operator | ICRA · Navigation | [Paper](https://arxiv.org/abs/2309.09137) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611154) | rule-assigned |
 | 2024 | Hyp2Nav: Hyperbolic Planning and Curiosity for Crowd Navigation | IROS · Navigation | [Paper](https://pure.uva.nl/ws/files/235395532/Hyp2Nav.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801513) | rule-assigned |
 | 2024 | Social Navigation in Crowded Environments with Model Predictive Control and Deep Learning-Based Human Trajectory Prediction | IROS · Navigation | [Paper](https://arxiv.org/abs/2309.16838) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802371) | rule-assigned |
@@ -62,7 +62,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2023 | Occlusion-Aware Crowd Navigation Using People as Sensors | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2210.00552) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160715) | rule-assigned |
 | 2023 | SCAN: Socially-Aware Navigation Using Monte Carlo Tree Search | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160270) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160270) | rule-assigned |
 | 2023 | All Aware Robot Navigation in Human Environments Using Deep Reinforcement Learning | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS55552.2023.10341477) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341477) | rule-assigned |
-| 2023 | Arena-Rosnav 2.0: A Development and Benchmarking Platform for Robot Navigation in Highly Dynamic Environments | IROS · Navigation | [Paper](https://arxiv.org/pdf/2302.10023) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342152) | rule-assigned |
 | 2023 | Exploring Social Motion Latent Space and Human Awareness for Effective Robot Navigation in Crowded Environments | IROS · Navigation | [Paper](https://arxiv.org/pdf/2310.07335) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341721) | rule-assigned |
 | 2023 | From Crowd Motion Prediction to Robot Navigation in Crowds | IROS · Navigation | [Paper](https://arxiv.org/pdf/2303.01424) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341464) | rule-assigned |
 | 2023 | Human-Aware Navigation in Crowded Environments Using Adaptive Proxemic Area and Group Detection | IROS · Navigation | [Paper](https://idus.us.es/handle//11441/155219) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342385) | rule-assigned |
@@ -78,7 +77,7 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2022 | Watch out! There may be a Human. Addressing Invisible Humans in Social Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2211.12216) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982186) | rule-assigned |
 | 2022 | You Are In My Way: Non-verbal Social Cues for Legible Robot Navigation Behaviors | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981754) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981754) | rule-assigned |
 
-## Recent arXiv papers (182)
+## Recent arXiv papers (176)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -119,18 +118,16 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-06-18 | Slow Brain, Fast Planner: Latency-Resilient VLM-Augmented Urban Navigation | Zhenghao "Mark'' Peng, Honglin He, Quanyi Li, Yukai Ma et al. | [Abstract](https://arxiv.org/abs/2606.20458) · [PDF](https://arxiv.org/pdf/2606.20458) | rule-assigned |
 | 2026-06-16 | Learn to Quantify Social Interaction with Constraints for Pedestrian Walking | Xiaodan Shi | [Abstract](https://arxiv.org/abs/2606.17897) · [PDF](https://arxiv.org/pdf/2606.17897) | rule-assigned |
 | 2026-06-15 | SidewalkBench: Benchmarking Visual Navigation on Urban Sidewalks | Zhizheng Liu, Honglin He, Vivek Alumootil, Akshat Pandya et al. | [Abstract](https://arxiv.org/abs/2606.16953) · [PDF](https://arxiv.org/pdf/2606.16953) | rule-assigned |
-| 2026-06-13 | A Corridor-Scale CARLA-VISSIM Co-Simulation Framework for Multi-Intersection Urban Traffic | Sima Ashayer, Austin Haris, Mina Sartipi | [Abstract](https://arxiv.org/abs/2606.15431) · [PDF](https://arxiv.org/pdf/2606.15431) | rule-assigned |
 | 2026-06-12 | ForestBack: Breadcrumb-Based Pedestrian Dead Reckoning for Infrastructure-Free Return Navigation | Aueaphum Aueawatthanaphisut, Chanakan Chaipan | [Abstract](https://arxiv.org/abs/2606.14421) · [PDF](https://arxiv.org/pdf/2606.14421) | rule-assigned |
 | 2026-06-10 | KinematicRL: A Sim-to-Real Reinforcement Learning Framework For Social Navigation With Kinodynamic Feasibility | Zhiming Xu, Haodong Yang, Chengju Liu, Qijun Chen et al. | [Abstract](https://arxiv.org/abs/2606.12042) · [PDF](https://arxiv.org/pdf/2606.12042) | rule-assigned |
-| 2026-06-09 | Act on What You See: Unlocking Safe Social Navigation in Vision-Language-Action Models | Qingzi Wang, Xiyang Wu, Guangyao Shi, Dianwei Chen et al. | [Abstract](https://arxiv.org/abs/2606.10495) · [PDF](https://arxiv.org/pdf/2606.10495) | rule-assigned |
 | 2026-05-30 | Infeasible optimization problems and the hierarchical augmented Lagrangian method in imitation learning | Roland Andrews, Justin Carpentier, Ajay Sathya | [Abstract](https://arxiv.org/abs/2606.00730) · [PDF](https://arxiv.org/pdf/2606.00730) | rule-assigned |
 | 2026-05-29 | Safe2Drive: Evaluating Safe Driving Behaviors of E2E Autonomous Driving Models | Nishad Sahu, Kalpana Panda, Congyuan Yu, Changzhong Qian et al. | [Abstract](https://arxiv.org/abs/2606.00191) · [PDF](https://arxiv.org/pdf/2606.00191) | rule-assigned |
 | 2026-05-29 | Probing Collision Grounding in Vision-Language Models for Safe Human-Robot Collaboration | Jun Wang, Xiaohao Xu, Xiaonan Huang | [Abstract](https://arxiv.org/abs/2605.31196) · [PDF](https://arxiv.org/pdf/2605.31196) | rule-assigned |
 | 2026-05-25 | HumanFlow -- Diffusion-Driven MAV Navigation Among Humans via Tightly-Coupled Motion Tracking, Forecasting, and Control | Simon Schaefer, Joshua Näf, Stefan Leutenegger | [Abstract](https://arxiv.org/abs/2605.25685) · [PDF](https://arxiv.org/pdf/2605.25685) | rule-assigned |
-| 2026-05-24 | ARCANE-PedSynth: Synthetic Multi-Pedestrian Datasets with Behavioural Crossing Annotations | Muhammad Naveed Riaz, Maciej Wielgosz, Antonio M. López Peña | [Abstract](https://arxiv.org/abs/2605.24950) · [PDF](https://arxiv.org/pdf/2605.24950) | rule-assigned |
 | 2026-05-17 | Generating Realistic Safety-Critical Scenarios for Vehicle-Pedestrian Interactions | Qingwen Pu, Kun Xie, Yuan Zhu, Guocong Zhai | [Abstract](https://arxiv.org/abs/2605.17229) · [PDF](https://arxiv.org/pdf/2605.17229) | rule-assigned |
 | 2026-05-16 | Pedestrian-Aware LLM-Driven Behavioral Planning for Autonomous Vehicles | Aidana Baimbetova, Haruki Yonekura, Hamada Rizk, Hirozumi Yamaguchi | [Abstract](https://arxiv.org/abs/2605.16858) · [PDF](https://arxiv.org/pdf/2605.16858) | rule-assigned |
 | 2026-05-12 | TriBand-BEV: Real-Time LiDAR-Only 3D Pedestrian Detection via Height-Aware BEV and High-Resolution Feature Fusion | Mohammad Khoshkdahan, Alexey Vinel | [Abstract](https://arxiv.org/abs/2605.12220) · [PDF](https://arxiv.org/pdf/2605.12220) | rule-assigned |
+| 2026-05-04 | DynoSLAM: Dynamic SLAM with Generative Graph Neural Networks for Real-World Social Navigation | Danil Tokhchukov, Veronika Morozova, Gonzalo Ferrer | [Abstract](https://arxiv.org/abs/2605.02759) · [PDF](https://arxiv.org/pdf/2605.02759) | rule-assigned |
 | 2026-04-29 | Walk With Me: Long-Horizon Social Navigation for Human-Centric Outdoor Assistance | Lingfeng Zhang, Xiaoshuai Hao, Xizhou Bu, Yingbo Tang et al. | [Abstract](https://arxiv.org/abs/2604.26839) · [PDF](https://arxiv.org/pdf/2604.26839) | rule-assigned |
 | 2026-04-17 | LiDAR-based Crowd Navigation with Visible Edge Group Representation | Allan Wang, Aaron Steinfeld | [Abstract](https://arxiv.org/abs/2604.16741) · [PDF](https://arxiv.org/pdf/2604.16741) | rule-assigned |
 | 2026-04-15 | Empirical Prediction of Pedestrian Comfort in Mobile Robot Pedestrian Encounters | Alireza Jafari, Hong-Son Nguyen, Yen-Chen Liu | [Abstract](https://arxiv.org/abs/2604.13677) · [PDF](https://arxiv.org/pdf/2604.13677) | rule-assigned |
@@ -166,7 +163,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025-09-01 | Towards Data-Driven Metrics for Social Robot Navigation Benchmarking | Pilar Bachiller-Burgos, Ulysses Bernardet, Luis V. Calderita, Pranup Chhetri et al. | [Abstract](https://arxiv.org/abs/2509.01251) · [PDF](https://arxiv.org/pdf/2509.01251) | rule-assigned |
 | 2025-08-29 | Can a mobile robot learn from a pedestrian model to prevent the sidewalk salsa? | Olger Siebinga, David Abbink | [Abstract](https://arxiv.org/abs/2508.21690) · [PDF](https://arxiv.org/pdf/2508.21690) | rule-assigned |
 | 2025-08-27 | A Lightweight Crowd Model for Robot Social Navigation | Maryam Kazemi Eskeri, Thomas Wiedemann, Ville Kyrki, Dominik Baumann et al. | [Abstract](https://arxiv.org/abs/2508.19595) · [PDF](https://arxiv.org/pdf/2508.19595) | rule-assigned |
-| 2025-08-24 | Harnessing ADAS for Pedestrian Safety: A Data-Driven Exploration of Fatality Reduction | Methusela Sulle, Judith Mwakalonge, Gurcan Comert, Saidi Siuhi et al. | [Abstract](https://arxiv.org/abs/2509.00048) · [PDF](https://arxiv.org/pdf/2509.00048) | rule-assigned |
 | 2025-08-15 | Pedestrian Dead Reckoning using Invariant Extended Kalman Filter | Jingran Zhang, Zhengzhang Yan, Yiming Chen, Zeqiang He et al. | [Abstract](https://arxiv.org/abs/2508.11396) · [PDF](https://arxiv.org/pdf/2508.11396) | rule-assigned |
 | 2025-08-09 | Model Predictive Control for Crowd Navigation via Learning-Based Trajectory Prediction | Mohamed Parvez Aslam, Bojan Derajic, Mohamed-Khalil Bouzidi, Sebastian Bernhard et al. | [Abstract](https://arxiv.org/abs/2508.07079) · [PDF](https://arxiv.org/pdf/2508.07079) | rule-assigned |
 | 2025-08-07 | Towards Generalizable Safety in Crowd Navigation via Conformal Uncertainty Handling | Jianpeng Yao, Xiaopan Zhang, Yu Xia, Zejin Wang et al. | [Abstract](https://arxiv.org/abs/2508.05634) · [PDF](https://arxiv.org/pdf/2508.05634) | rule-assigned |
@@ -184,7 +180,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025-06-03 | A Hybrid Approach to Indoor Social Navigation: Integrating Reactive Local Planning and Proactive Global Planning | Arnab Debnath, Gregory J. Stein, Jana Kosecka | [Abstract](https://arxiv.org/abs/2506.02593) · [PDF](https://arxiv.org/pdf/2506.02593) | rule-assigned |
 | 2025-05-13 | Constrained Factor Graph Optimization for Robust Networked Pedestrian Inertial Navigation | Yingjie Hu, Wang Hu | [Abstract](https://arxiv.org/abs/2505.08229) · [PDF](https://arxiv.org/pdf/2505.08229) | rule-assigned |
 | 2025-05-10 | TPK: Trustworthy Trajectory Prediction Integrating Prior Knowledge For Interpretability and Kinematic Feasibility | Marius Baden, Ahmed Abouelazm, Christian Hubschneider, Yin Wu et al. | [Abstract](https://arxiv.org/abs/2505.06743) · [PDF](https://arxiv.org/pdf/2505.06743) | rule-assigned |
-| 2025-05-02 | Comparison of Waymo Rider-Only Crash Rates by Crash Type to Human Benchmarks at 56.7 Million Miles | Kristofer D. Kusano, John M. Scanlon, Yin-Hsiu Chen, Timothy L. McMurry et al. | [Abstract](https://arxiv.org/abs/2505.01515) · [PDF](https://arxiv.org/pdf/2505.01515) | rule-assigned |
 | 2025-04-15 | The Robotability Score: Enabling Harmonious Robot Navigation on Urban Streets | Matt Franchi, Maria Teresa Parreira, Fanjun Bu, Wendy Ju | [Abstract](https://arxiv.org/abs/2504.11163) · [PDF](https://arxiv.org/pdf/2504.11163) | rule-assigned |
 | 2025-04-15 | Following Is All You Need: Robot Crowd Navigation Using People As Planners | Yuwen Liao, Xinhang Xu, Ruofei Bai, Yizhuo Yang et al. | [Abstract](https://arxiv.org/abs/2504.10828) · [PDF](https://arxiv.org/pdf/2504.10828) | rule-assigned |
 | 2025-04-09 | Safe Navigation in Uncertain Crowded Environments Using Risk Adaptive CVaR Barrier Functions | Xinyi Wang, Taekyung Kim, Bardh Hoxha, Georgios Fainekos et al. | [Abstract](https://arxiv.org/abs/2504.06513) · [PDF](https://arxiv.org/pdf/2504.06513) | rule-assigned |
@@ -210,7 +205,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2024-12-05 | A Model of the Sidewalk Salsa | Olger Siebinga | [Abstract](https://arxiv.org/abs/2412.04023) · [PDF](https://arxiv.org/pdf/2412.04023) | rule-assigned |
 | 2024-11-30 | Learning Dynamic Weight Adjustment for Spatial-Temporal Trajectory Planning in Crowd Navigation | Muqing Cao, Xinhang Xu, Yizhuo Yang, Jianping Li et al. | [Abstract](https://arxiv.org/abs/2412.00555) · [PDF](https://arxiv.org/pdf/2412.00555) | rule-assigned |
 | 2024-11-04 | Enhancing Social Robot Navigation with Integrated Motion Prediction and Trajectory Planning in Dynamic Human Environments | Thanh Nguyen Canh, Xiem HoangVan, Nak Young Chong | [Abstract](https://arxiv.org/abs/2411.01814) · [PDF](https://arxiv.org/pdf/2411.01814) | rule-assigned |
-| 2024-10-31 | Pedestrian Trajectory Prediction with Missing Data: Datasets, Imputation, and Benchmarking | Pranav Singh Chib, Pravendra Singh | [Abstract](https://arxiv.org/abs/2411.00174) · [PDF](https://arxiv.org/pdf/2411.00174) | rule-assigned |
 | 2024-10-14 | DR-MPC: Deep Residual Model Predictive Control for Real-world Social Navigation | James R. Han, Hugues Thomas, Jian Zhang, Nicholas Rhinehart et al. | [Abstract](https://arxiv.org/abs/2410.10646) · [PDF](https://arxiv.org/pdf/2410.10646) | rule-assigned |
 | 2024-09-26 | GSON: A Group-based Social Navigation Framework with Large Multimodal Model | Shangyi Luo, Peng Sun, Ji Zhu, Yuhong Deng et al. | [Abstract](https://arxiv.org/abs/2409.18084) · [PDF](https://arxiv.org/pdf/2409.18084) | rule-assigned |
 | 2024-09-25 | Enhancing robot reliability for health-care facilities by means of Human-Aware Navigation Planning | Olga E. Sorokoletova, Lucca Iocchi | [Abstract](https://arxiv.org/abs/2409.17131) · [PDF](https://arxiv.org/pdf/2409.17131) | rule-assigned |
@@ -244,15 +238,14 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2024-04-02 | OOSTraj: Out-of-Sight Trajectory Prediction With Vision-Positioning Denoising | Haichao Zhang, Yi Xu, Hongsheng Lu, Takayuki Shimizu et al. | [Abstract](https://arxiv.org/abs/2404.02227) · [PDF](https://arxiv.org/pdf/2404.02227) | rule-assigned |
 | 2024-03-30 | VLM-Social-Nav: Socially Aware Robot Navigation through Scoring using Vision-Language Models | Daeun Song, Jing Liang, Amirreza Payandeh, Amir Hossain Raj et al. | [Abstract](https://arxiv.org/abs/2404.00210) · [PDF](https://arxiv.org/pdf/2404.00210) | rule-assigned |
 | 2024-03-30 | Follow me: an architecture for user identification and social navigation with a mobile robot | Andrea Ruo, Lorenzo Sabattini, Valeria Villani | [Abstract](https://arxiv.org/abs/2404.00354) · [PDF](https://arxiv.org/pdf/2404.00354) | rule-assigned |
+| 2024-03-30 | CBF-Based STL Motion Planning for Social Navigation in Crowded Environment | Andrea Ruo, Lorenzo Sabattini, Valeria Villani | [Abstract](https://arxiv.org/abs/2404.00353) · [PDF](https://arxiv.org/pdf/2404.00353) | rule-assigned |
 | 2024-03-23 | Learning Early Social Maneuvers for Enhanced Social Navigation | Yigit Yildirim, Mehmet Suzer, Emre Ugur | [Abstract](https://arxiv.org/abs/2403.15813) · [PDF](https://arxiv.org/pdf/2403.15813) | rule-assigned |
-| 2024-03-15 | HeR-DRL:Heterogeneous Relational Deep Reinforcement Learning for Decentralized Multi-Robot Crowd Navigation | Xinyu Zhou, Songhao Piao, Wenzheng Chi, Liguo Chen et al. | [Abstract](https://arxiv.org/abs/2403.10083) · [PDF](https://arxiv.org/pdf/2403.10083) | rule-assigned |
 | 2024-03-08 | Integrating Predictive Motion Uncertainties with Distributionally Robust Risk-Aware Control for Safe Robot Navigation in Crowds | Kanghyun Ryu, Negar Mehr | [Abstract](https://arxiv.org/abs/2403.05081) · [PDF](https://arxiv.org/pdf/2403.05081) | rule-assigned |
 | 2024-03-03 | Mixed Strategy Nash Equilibrium for Crowd Navigation | Max Muchen Sun, Francesca Baldini, Katie Hughes, Peter Trautman et al. | [Abstract](https://arxiv.org/abs/2403.01537) · [PDF](https://arxiv.org/pdf/2403.01537) | rule-assigned |
 | 2024-03-01 | SELFI: Autonomous Self-Improvement with Reinforcement Learning for Social Navigation | Noriaki Hirose, Dhruv Shah, Kyle Stachowicz, Ajay Sridhar et al. | [Abstract](https://arxiv.org/abs/2403.00991) · [PDF](https://arxiv.org/pdf/2403.00991) | rule-assigned |
 | 2024-02-10 | Risk assessment and observation of driver with pedestrian using instantaneous heart rate and HRV | Riku Kikuta, Daniel Carruth, John Ball, Reuben Burch et al. | [Abstract](https://arxiv.org/abs/2402.07041) · [PDF](https://arxiv.org/pdf/2402.07041) | rule-assigned |
 | 2024-02-05 | Beyond Text: Utilizing Vocal Cues to Improve Decision Making in LLMs for Robot Navigation Tasks | Xingpeng Sun, Haoming Meng, Souradip Chakraborty, Amrit Singh Bedi et al. | [Abstract](https://arxiv.org/abs/2402.03494) · [PDF](https://arxiv.org/pdf/2402.03494) | rule-assigned |
 | 2024-01-31 | Social Robot Navigation with Adaptive Proxemics Based on Emotions | Baris Bilen, Hasan Kivrak, Pinar Uluer, Hatice Kose | [Abstract](https://arxiv.org/abs/2401.17663) · [PDF](https://arxiv.org/pdf/2401.17663) | rule-assigned |
-| 2024-01-31 | Attention Graph for Multi-Robot Social Navigation with Deep Reinforcement Learning | Erwan Escudie, Laetitia Matignon, Jacques Saraydaryan | [Abstract](https://arxiv.org/abs/2401.17914) · [PDF](https://arxiv.org/pdf/2401.17914) | rule-assigned |
 | 2024-01-10 | Knowledge-aware Graph Transformer for Pedestrian Trajectory Prediction | Yu Liu, Yuexin Zhang, Kunming Li, Yongliang Qiao et al. | [Abstract](https://arxiv.org/abs/2401.04872) · [PDF](https://arxiv.org/pdf/2401.04872) | rule-assigned |
 | 2023-12-28 | Minimally-intrusive Navigation in Dense Crowds with Integrated Macro and Micro-level Dynamics | Tong Zhou, Senmao Qi, Guangdu Cen, Ziqi Zha et al. | [Abstract](https://arxiv.org/abs/2312.17076) · [PDF](https://arxiv.org/pdf/2312.17076) | rule-assigned |
 | 2023-12-18 | Robot Crowd Navigation in Dynamic Environment with Offline Reinforcement Learning | Shuai Zhou, Hao Fu, Haodong He, Wei Liu | [Abstract](https://arxiv.org/abs/2312.11032) · [PDF](https://arxiv.org/pdf/2312.11032) | rule-assigned |

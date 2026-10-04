@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Imitation%20Learning&specialty=Demonstration%20Segmentation%20%26%20Skill%20Discovery#research-workbench)
 
-> 0 conference papers · 17 recent arXiv papers
+> 0 conference papers · 16 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,12 +14,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
+A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
 ## Conference papers (0)
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (17)
+## Recent arXiv papers (16)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -33,7 +34,6 @@ No conference papers currently map to this specialty.
 | 2025-08-27 | Divide, Discover, Deploy: Factorized Skill Learning with Symmetry and Style Priors | Rafael Cathomen, Mayank Mittal, Marin Vlastelica, Marco Hutter | [Abstract](https://arxiv.org/abs/2508.19953) · [PDF](https://arxiv.org/pdf/2508.19953) | rule-assigned |
 | 2025-08-26 | From Tabula Rasa to Emergent Abilities: Discovering Robot Skills via Real-World Unsupervised Quality-Diversity | Luca Grillotti, Lisa Coiffard, Oscar Pang, Maxence Faldor et al. | [Abstract](https://arxiv.org/abs/2508.19172) · [PDF](https://arxiv.org/pdf/2508.19172) | rule-assigned |
 | 2024-10-24 | SkiLD: Unsupervised Skill Discovery Guided by Factor Interactions | Zizhao Wang, Jiaheng Hu, Caleb Chuck, Stephen Chen et al. | [Abstract](https://arxiv.org/abs/2410.18416) · [PDF](https://arxiv.org/pdf/2410.18416) | rule-assigned |
-| 2024-10-15 | Disentangled Unsupervised Skill Discovery for Efficient Hierarchical Reinforcement Learning | Jiaheng Hu, Zizhao Wang, Peter Stone, Roberto Martín-Martín | [Abstract](https://arxiv.org/abs/2410.11251) · [PDF](https://arxiv.org/pdf/2410.11251) | rule-assigned |
 | 2024-09-30 | M2Distill: Multi-Modal Distillation for Lifelong Imitation Learning | Kaushik Roy, Akila Dissanayake, Brendan Tidd, Peyman Moghadam | [Abstract](https://arxiv.org/abs/2410.00064) · [PDF](https://arxiv.org/pdf/2410.00064) | rule-assigned |
 | 2024-06-07 | Language Guided Skill Discovery | Seungeun Rho, Laura Smith, Tianyu Li, Sergey Levine et al. | [Abstract](https://arxiv.org/abs/2406.06615) · [PDF](https://arxiv.org/pdf/2406.06615) | rule-assigned |
 | 2024-05-23 | Agentic Skill Discovery | Xufeng Zhao, Cornelius Weber, Stefan Wermter | [Abstract](https://arxiv.org/abs/2405.15019) · [PDF](https://arxiv.org/pdf/2405.15019) | rule-assigned |

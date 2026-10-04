@@ -2,12 +2,11 @@
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 83 papers · complete list for this taxonomy leaf
+> 78 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
 | 2023-12-28 | Any-point Trajectory Modeling for Policy Learning | Chuan Wen, Xingyu Lin, John So, Kai Chen et al. | [Abstract](https://arxiv.org/abs/2401.00025) · [PDF](https://arxiv.org/pdf/2401.00025) | needs-review |
-| 2023-12-27 | Bezier-based Regression Feature Descriptor for Deformable Linear Objects | Fangqing Chen | [Abstract](https://arxiv.org/abs/2312.16502) · [PDF](https://arxiv.org/pdf/2312.16502) | needs-review |
 | 2023-12-24 | ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation | Xiaoqi Li, Mingxu Zhang, Yiran Geng, Haoran Geng et al. | [Abstract](https://arxiv.org/abs/2312.16217) · [PDF](https://arxiv.org/pdf/2312.16217) | needs-review |
 | 2023-12-23 | Learning Multi-Step Manipulation Tasks from A Single Human Demonstration | Dingkun Guo | [Abstract](https://arxiv.org/abs/2312.15346) · [PDF](https://arxiv.org/pdf/2312.15346) | needs-review |
 | 2023-12-22 | Semantic-based Loco-Manipulation for Human-Robot Collaboration in Industrial Environments | Federico Rollo, Gennaro Raiola, Nikolaos Tsagarakis, Marco Roveri et al. | [Abstract](https://arxiv.org/abs/2312.14487) · [PDF](https://arxiv.org/pdf/2312.14487) | needs-review |
@@ -35,7 +34,6 @@
 | 2023-11-30 | Enabling Robots to Identify Missing Steps in Robot Tasks for Guided Learning from Demonstration | Maximilian Diehl, Tathagata Chakraborti, Karinne Ramirez-Amaro | [Abstract](https://arxiv.org/abs/2311.18355) · [PDF](https://arxiv.org/pdf/2311.18355) | needs-review |
 | 2023-11-30 | Advances in soft grasping in agriculture | Ali Leylavi Shoushtari | [Abstract](https://arxiv.org/abs/2312.00175) · [PDF](https://arxiv.org/pdf/2312.00175) | needs-review |
 | 2023-11-29 | Learning Free Terminal Time Optimal Closed-loop Control of Manipulators | Wei Hu, Yue Zhao, Weinan E, Jiequn Han et al. | [Abstract](https://arxiv.org/abs/2311.17749) · [PDF](https://arxiv.org/pdf/2311.17749) | needs-review |
-| 2023-11-28 | Towards Tenodesis-Modulated Control of an Assistive Hand Exoskeleton for SCI | Joaquin Palacios, Alexandra Deli-Ivanov, Ava Chen, Lauren Winterbottom et al. | [Abstract](https://arxiv.org/abs/2311.17244) · [PDF](https://arxiv.org/pdf/2311.17244) | needs-review |
 | 2023-11-28 | RGBGrasp: Image-based Object Grasping by Capturing Multiple Views during Robot Arm Movement with Neural Radiance Fields | Chang Liu, Kejian Shi, Kaichen Zhou, Haoxiao Wang et al. | [Abstract](https://arxiv.org/abs/2311.16592) · [PDF](https://arxiv.org/pdf/2311.16592) | needs-review |
 | 2023-11-23 | FViT-Grasp: Grasping Objects With Using Fast Vision Transformers | Arda Sarp Yenicesu, Berk Cicek, Ozgur S. Oguz | [Abstract](https://arxiv.org/abs/2311.13986) · [PDF](https://arxiv.org/pdf/2311.13986) | needs-review |
 | 2023-11-21 | Visually Guided Object Grasping | Radu Horaud, Fadi Dornaika, Bernard Espiau | [Abstract](https://arxiv.org/abs/2311.12660) · [PDF](https://arxiv.org/pdf/2311.12660) | needs-review |
@@ -82,10 +80,7 @@
 | 2023-10-09 | On Multi-Fidelity Impedance Tuning for Human-Robot Cooperative Manipulation | Ethan Lau, Vaibhav Srivastava, Shaunak D. Bopardikar | [Abstract](https://arxiv.org/abs/2310.05904) · [PDF](https://arxiv.org/pdf/2310.05904) | needs-review |
 | 2023-10-08 | Lan-grasp: Using Large Language Models for Semantic Object Grasping and Placement | Reihaneh Mirjalili, Michael Krawez, Yannik Blei, Simone Silenzi et al. | [Abstract](https://arxiv.org/abs/2310.05239) · [PDF](https://arxiv.org/pdf/2310.05239) | needs-review |
 | 2023-10-07 | Diff-Transfer: Model-based Robotic Manipulation Skill Transfer via Differentiable Physics Simulation | Yuqi Xiang, Feitong Chen, Qinsi Wang, Yang Gang et al. | [Abstract](https://arxiv.org/abs/2310.04930) · [PDF](https://arxiv.org/pdf/2310.04930) | needs-review |
-| 2023-10-07 | Combining Sampling- and Gradient-based Planning for Contact-rich Manipulation | Filippo Rozzi, Loris Roveda, Kevin Haninger | [Abstract](https://arxiv.org/abs/2310.04822) · [PDF](https://arxiv.org/pdf/2310.04822) | needs-review |
-| 2023-10-06 | Domain Randomization for Sim2real Transfer of Automatically Generated Grasping Datasets | Johann Huber, François Hélénon, Hippolyte Watrelot, Faiz Ben Amar et al. | [Abstract](https://arxiv.org/abs/2310.04517) · [PDF](https://arxiv.org/pdf/2310.04517) | needs-review |
 | 2023-10-06 | Compositional Servoing by Recombining Demonstrations | Max Argus, Abhijeet Nayak, Martin Büchner, Silvio Galesso et al. | [Abstract](https://arxiv.org/abs/2310.04271) · [PDF](https://arxiv.org/pdf/2310.04271) | needs-review |
-| 2023-10-05 | RGBManip: Monocular Image-based Robotic Manipulation through Active Object Pose Estimation | Boshi An, Yiran Geng, Kai Chen, Xiaoqi Li et al. | [Abstract](https://arxiv.org/abs/2310.03478) · [PDF](https://arxiv.org/pdf/2310.03478) | needs-review |
 | 2023-10-05 | Interpreting Behaviors and Geometric Constraints as Knowledge Graphs for Robot Manipulation Control | Chen Jiang, Allie Wang, Martin Jagersand | [Abstract](https://arxiv.org/abs/2310.03932) · [PDF](https://arxiv.org/pdf/2310.03932) | needs-review |
 | 2023-10-05 | A Suspended Aerial Manipulation Avatar for Physical Interaction in Unstructured Environments | Fanyi Kong, Grazia Zambella, Simone Monteleone, Giorgio Grioli et al. | [Abstract](https://arxiv.org/abs/2310.03586) · [PDF](https://arxiv.org/pdf/2310.03586) | needs-review |
 | 2023-10-04 | Human-oriented Representation Learning for Robotic Manipulation | Mingxiao Huo, Mingyu Ding, Chenfeng Xu, Thomas Tian et al. | [Abstract](https://arxiv.org/abs/2310.03023) · [PDF](https://arxiv.org/pdf/2310.03023) | needs-review |

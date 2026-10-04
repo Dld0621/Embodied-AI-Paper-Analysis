@@ -27,7 +27,7 @@ def render_views(root, catalog, arxiv):
                     "|---|---|---|---|"]
             for p in chunk:
                 clean = lambda value: str(value).replace("|", "\\|").replace("\n", " ")
-                path = " → ".join(p[f] for f in ("track", "subcategory", "specialty"))
+                path = ("暂定二级 / provisional: " if p.get("subcategory_status") == "provisional" else "") + " → ".join(p[f] for f in ("track", "subcategory", "specialty"))
                 page.append(f"| [{clean(p['title'])}]({p['paper_url']}) | {p['year']} · {layer} | {clean(path)} | {clean(p['primary_evidence'])}; {clean(p['taxonomy_evidence'])} |")
             outputs[review_dir / filename] = "\n".join(page) + "\n"
         lines.append("")

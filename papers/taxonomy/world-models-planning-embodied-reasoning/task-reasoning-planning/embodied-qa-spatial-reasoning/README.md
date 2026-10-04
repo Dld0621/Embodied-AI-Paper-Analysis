@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Task%20Reasoning%20%26%20Planning&specialty=Embodied%20QA%20%26%20Spatial%20Reasoning#research-workbench)
 
-> 12 conference papers · 118 recent arXiv papers
+> 12 conference papers · 113 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,6 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
+A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
 ## Conference papers (12)
 
@@ -32,7 +33,7 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2024 | Explore until Confident: Efficient Exploration for Embodied Question Answering | RSS · Exploration | [Paper](https://arxiv.org/abs/2403.15941) · [Index](https://dblp.org/rec/conf/rss/RenCDIMS24) | rule-assigned |
 | 2022 | Inner Monologue: Embodied Reasoning through Planning with Language Models | CoRL · Language Model | [Paper](https://arxiv.org/abs/2207.05608) · [Index](https://dblp.org/rec/conf/corl/HuangXXCLFZTMCS22) | rule-assigned |
 
-## Recent arXiv papers (118)
+## Recent arXiv papers (113)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -41,7 +42,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-09-22 | Hierarchical Floorplan-Guided Vision-Language Exploration for Embodied Question Answering | Albert Gassol Puigjaner, Kostas Alexis | [Abstract](https://arxiv.org/abs/2609.26360) · [PDF](https://arxiv.org/pdf/2609.26360) | rule-assigned |
 | 2026-09-07 | Contextual Observer Grounding: Evaluating Situated Spatial Reasoning in Vision-Language Models | Mimo Shirasaka, Haochen Zhang, Yonatan Bisk | [Abstract](https://arxiv.org/abs/2609.06880) · [PDF](https://arxiv.org/pdf/2609.06880) | rule-assigned |
 | 2026-08-17 | PROBE: Manipulation-Grounded Visual Question Answering with VLM Agents | Vineet Bhat, Siyi Chen, Alex Zook, Xuning Yang et al. | [Abstract](https://arxiv.org/abs/2608.17129) · [PDF](https://arxiv.org/pdf/2608.17129) | rule-assigned |
-| 2026-08-13 | Semantic Radiance Fields as Simulators for Spatial Reasoning in Real-World Scenes | Nico Heider, Michał Jan Włodarczyk, Katarzyna Wasielewska-Michniewska, Przemysław Hołda et al. | [Abstract](https://arxiv.org/abs/2608.13095) · [PDF](https://arxiv.org/pdf/2608.13095) | rule-assigned |
 | 2026-08-08 | Explore, Map, Remember, Decide: Are Embodied VLMs Ready for Safety-Critical Scenarios? | Gabriele La Malfa, Nitay Alon, Emanuele La Malfa, Reuth Mirsky et al. | [Abstract](https://arxiv.org/abs/2608.08077) · [PDF](https://arxiv.org/pdf/2608.08077) | rule-assigned |
 | 2026-07-23 | Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering | Zikui Cai, Kaushal Janga, Tan Dat Dao, Seungjae Lee et al. | [Abstract](https://arxiv.org/abs/2607.21571) · [PDF](https://arxiv.org/pdf/2607.21571) | rule-assigned |
 | 2026-07-11 | ActiveFly-Bench: Aligning Embodied Question Answering with Vision-Language-Action for Aerial Embodied Perception | Weichen Zhang, Shiquan Yu, Yinan Zhu, Peizhi Tang et al. | [Abstract](https://arxiv.org/abs/2607.10180) · [PDF](https://arxiv.org/pdf/2607.10180) | rule-assigned |
@@ -53,6 +53,7 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-06-22 | Memory-Native Non-Terrestrial Networks for Embodied Intelligence | Chengyang Li, Yikun Wang, Jiahui He, Yujie Wan et al. | [Abstract](https://arxiv.org/abs/2607.00029) · [PDF](https://arxiv.org/pdf/2607.00029) | rule-assigned |
 | 2026-06-18 | Vesta: A Generalist Embodied Reasoning Model | Johan Bjorck, Zhiqi Li, Yunze Man, Jing Wang et al. | [Abstract](https://arxiv.org/abs/2606.20905) · [PDF](https://arxiv.org/pdf/2606.20905) | rule-assigned |
 | 2026-06-15 | VL-MemKnG: Hybrid Memory with a Spatio-Temporal Knowledge Graph for Question Answering over Long Egocentric Navigation Trajectories | Svetlana Lukina, Mohamad Al Mdfaa, Gloria Haro, Sergey Zagoruyko et al. | [Abstract](https://arxiv.org/abs/2606.17183) · [PDF](https://arxiv.org/pdf/2606.17183) | rule-assigned |
+| 2026-06-07 | Language as a Sensor: Calibrated Spatial Belief Estimation in 3D Scenes from Natural Language | Aryan Naveen, Jason Xinyu Liu, Luca Carlone, Andreea Bobu | [Abstract](https://arxiv.org/abs/2606.08666) · [PDF](https://arxiv.org/pdf/2606.08666) | rule-assigned |
 | 2026-05-25 | Extending Embodied Question Answering from Perception to Decision | Xicheng Gong, Qiwei Li, Peiran Xu, Yadong Mu | [Abstract](https://arxiv.org/abs/2605.25813) · [PDF](https://arxiv.org/pdf/2605.25813) | rule-assigned |
 | 2026-05-15 | STABLE: Simulation-Ready Tabletop Layout Generation via a Semantics-Physics Dual System | Zhen Luo, Yixuan Yang, Xudong Xu, Jinkun Hao et al. | [Abstract](https://arxiv.org/abs/2605.16137) · [PDF](https://arxiv.org/pdf/2605.16137) | rule-assigned |
 | 2026-05-13 | Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models | Yiran Ling, Qing Lian, Jinghang Li, Qing Jiang et al. | [Abstract](https://arxiv.org/abs/2605.13632) · [PDF](https://arxiv.org/pdf/2605.13632) | rule-assigned |
@@ -60,7 +61,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-05-07 | R$^3$L: Reasoning 3D Layouts from Relative Spatial Relations | Zhifeng Gu, Yuqi Wang, Bing Wang | [Abstract](https://arxiv.org/abs/2605.06758) · [PDF](https://arxiv.org/pdf/2605.06758) | rule-assigned |
 | 2026-04-21 | SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models | Josue Torres-Fonseca, Naihao Deng, Yinpei Dai, Shane Storks et al. | [Abstract](https://arxiv.org/abs/2604.19638) · [PDF](https://arxiv.org/pdf/2604.19638) | rule-assigned |
 | 2026-04-20 | Unmasking the Illusion of Embodied Reasoning in Vision-Language-Action Models | Haiweng Xu, Sipeng Zheng, Hao Luo, Wanpeng Zhang et al. | [Abstract](https://arxiv.org/abs/2604.18000) · [PDF](https://arxiv.org/pdf/2604.18000) | rule-assigned |
-| 2026-04-20 | StableIDM: Stabilizing Inverse Dynamics Model against Manipulator Truncation via Spatio-Temporal Refinement | Kerui Li, Zhe Jing, Xiaofeng Wang, Zheng Zhu et al. | [Abstract](https://arxiv.org/abs/2604.17887) · [PDF](https://arxiv.org/pdf/2604.17887) | rule-assigned |
 | 2026-04-20 | Memory Centric Power Allocation for Multi-Agent Embodied Question Answering | Chengyang Li, Shuai Wang, Kejiang Ye, Weijie Yuan et al. | [Abstract](https://arxiv.org/abs/2604.17810) · [PDF](https://arxiv.org/pdf/2604.17810) | rule-assigned |
 | 2026-04-02 | Ego-Grounding for Personalized Question-Answering in Egocentric Videos | Junbin Xiao, Shenglang Zhang, Pengxiang Zhu, Angela Yao | [Abstract](https://arxiv.org/abs/2604.01966) · [PDF](https://arxiv.org/pdf/2604.01966) | rule-assigned |
 | 2026-03-13 | Evaluating VLMs' Spatial Reasoning Over Robot Motion: A Step Towards Robot Planning with Motion Preferences | Wenxi Wu, Jingjing Zhang, Martim Brandão | [Abstract](https://arxiv.org/abs/2603.13100) · [PDF](https://arxiv.org/pdf/2603.13100) | rule-assigned |
@@ -69,10 +69,8 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-02-17 | FAST-EQA: Efficient Embodied Question Answering with Global and Local Region Relevancy | Haochen Zhang, Nirav Savaliya, Faizan Siddiqui, Enna Sachdeva | [Abstract](https://arxiv.org/abs/2602.15813) · [PDF](https://arxiv.org/pdf/2602.15813) | rule-assigned |
 | 2026-02-13 | Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control | William Chen, Jagdeep Singh Bhatia, Catherine Glossop, Nikhil Mathihalli et al. | [Abstract](https://arxiv.org/abs/2602.13193) · [PDF](https://arxiv.org/pdf/2602.13193) | rule-assigned |
 | 2026-02-13 | RynnBrain: Open Embodied Foundation Models | Ronghao Dang, Jiayan Guo, Bohan Hou, Sicong Leng et al. | [Abstract](https://arxiv.org/abs/2602.14979) · [PDF](https://arxiv.org/pdf/2602.14979) | rule-assigned |
-| 2026-02-12 | Where Bits Matter in World Model Planning: A Paired Mixed-Bit Study for Efficient Spatial Reasoning | Suraj Ranganath, Anish Patnaik, Vaishak Menon | [Abstract](https://arxiv.org/abs/2602.11882) · [PDF](https://arxiv.org/pdf/2602.11882) | rule-assigned |
 | 2026-02-09 | Self-Supervised Bootstrapping of Action-Predictive Embodied Reasoning | Milan Ganai, Katie Luo, Jonas Frey, Clark Barrett et al. | [Abstract](https://arxiv.org/abs/2602.08167) · [PDF](https://arxiv.org/pdf/2602.08167) | rule-assigned |
 | 2026-02-05 | CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction | Xiaopan Zhang, Zejin Wang, Zhixu Li, Jianpeng Yao et al. | [Abstract](https://arxiv.org/abs/2602.06038) · [PDF](https://arxiv.org/pdf/2602.06038) | rule-assigned |
-| 2026-02-02 | From Perception to Action: Spatial AI Agents and World Models | Gloria Felicia, Nolan Bryant, Handi Putra, Ayaan Gazali et al. | [Abstract](https://arxiv.org/abs/2602.01644) · [PDF](https://arxiv.org/pdf/2602.01644) | rule-assigned |
 | 2026-01-28 | Reducing Text Bias in Synthetically Generated MCQAs for VLMs in Autonomous Driving | Sutej Kulgod, Sean Ye, Sanchit Tanwar, Christoffer Heckman | [Abstract](https://arxiv.org/abs/2602.17677) · [PDF](https://arxiv.org/pdf/2602.17677) | rule-assigned |
 | 2026-01-22 | DextER: Language-driven Dexterous Grasp Generation with Embodied Reasoning | Junha Lee, Eunha Park, Minsu Cho | [Abstract](https://arxiv.org/abs/2601.16046) · [PDF](https://arxiv.org/pdf/2601.16046) | rule-assigned |
 | 2026-01-20 | RoboBrain 2.5: Depth in Sight, Time in Mind | Huajie Tan, Enshen Zhou, Zhiyu Li, Yijie Xu et al. | [Abstract](https://arxiv.org/abs/2601.14352) · [PDF](https://arxiv.org/pdf/2601.14352) | rule-assigned |
@@ -100,7 +98,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025-08-19 | Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation | Yifu Yuan, Haiqin Cui, Yaoting Huang, Yibin Chen et al. | [Abstract](https://arxiv.org/abs/2508.13998) · [PDF](https://arxiv.org/pdf/2508.13998) | rule-assigned |
 | 2025-08-03 | ROVER: Recursive Reasoning Over Videos with Vision-Language Models for Embodied Tasks | Philip Schroeder, Ondrej Biza, Thomas Weng, Hongyin Luo et al. | [Abstract](https://arxiv.org/abs/2508.01943) · [PDF](https://arxiv.org/pdf/2508.01943) | rule-assigned |
 | 2025-07-17 | Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering | Muhammad Fadhil Ginting, Dong-Ki Kim, Xiangyun Meng, Andrzej Reinke et al. | [Abstract](https://arxiv.org/abs/2507.12846) · [PDF](https://arxiv.org/pdf/2507.12846) | rule-assigned |
-| 2025-07-16 | MindJourney: Test-Time Scaling with World Models for Spatial Reasoning | Yuncong Yang, Jiageng Liu, Zheyuan Zhang, Siyuan Zhou et al. | [Abstract](https://arxiv.org/abs/2507.12508) · [PDF](https://arxiv.org/pdf/2507.12508) | rule-assigned |
 | 2025-07-09 | A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding | Zhenyang Liu, Sixiao Zheng, Siyu Chen, Cairong Zhao et al. | [Abstract](https://arxiv.org/abs/2507.06719) · [PDF](https://arxiv.org/pdf/2507.06719) | rule-assigned |
 | 2025-07-02 | RoboBrain 2.0 Technical Report | BAAI RoboBrain Team, Mingyu Cao, Huajie Tan, Yuheng Ji et al. | [Abstract](https://arxiv.org/abs/2507.02029) · [PDF](https://arxiv.org/pdf/2507.02029) | rule-assigned |
 | 2025-07-01 | GaussianVLM: Scene-centric 3D Vision-Language Models using Language-aligned Gaussian Splats for Embodied Reasoning and Beyond | Anna-Maria Halacheva, Jan-Nico Zaech, Xi Wang, Danda Pani Paudel et al. | [Abstract](https://arxiv.org/abs/2507.00886) · [PDF](https://arxiv.org/pdf/2507.00886) | rule-assigned |
@@ -111,7 +108,7 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025-05-30 | Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces | Gen Luo, Ganlin Yang, Ziyang Gong, Guanzhou Chen et al. | [Abstract](https://arxiv.org/abs/2506.00123) · [PDF](https://arxiv.org/pdf/2506.00123) | rule-assigned |
 | 2025-05-29 | Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics | Dongyoung Kim, Sumin Park, Huiwon Jang, Jinwoo Shin et al. | [Abstract](https://arxiv.org/abs/2506.00070) · [PDF](https://arxiv.org/pdf/2506.00070) | rule-assigned |
 | 2025-05-28 | ChatVLA-2: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge | Zhongyi Zhou, Yichen Zhu, Junjie Wen, Chaomin Shen et al. | [Abstract](https://arxiv.org/abs/2505.21906) · [PDF](https://arxiv.org/pdf/2505.21906) | rule-assigned |
-| 2025-05-21 | Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets | Kaiyuan Chen, Shuangyu Xie, Zehan Ma, Pannag R Sanketi et al. | [Abstract](https://arxiv.org/abs/2505.15517) · [PDF](https://arxiv.org/pdf/2505.15517) | rule-assigned |
+| 2025-05-23 | Knot So Simple: A Minimalistic Environment for Spatial Reasoning | Zizhao Chen, Yoav Artzi | [Abstract](https://arxiv.org/abs/2505.18028) · [PDF](https://arxiv.org/pdf/2505.18028) | rule-assigned |
 | 2025-05-18 | Visuospatial Cognitive Assistant | Qi Feng | [Abstract](https://arxiv.org/abs/2505.12312) · [PDF](https://arxiv.org/pdf/2505.12312) | rule-assigned |
 | 2025-05-18 | Towards Visuospatial Cognition via Hierarchical Fusion of Visual Experts | Qi Feng | [Abstract](https://arxiv.org/abs/2505.12363) · [PDF](https://arxiv.org/pdf/2505.12363) | rule-assigned |
 | 2025-05-18 | Spatial-LLaVA: Enhancing Large Language Models with Spatial Referring Expressions for Visual Understanding | Xuefei Sun, Doncey Albin, Cecilia Mauceri, Dusty Woods et al. | [Abstract](https://arxiv.org/abs/2505.12194) · [PDF](https://arxiv.org/pdf/2505.12194) | rule-assigned |
@@ -126,7 +123,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025-03-12 | SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment | Katrin Renz, Long Chen, Elahe Arani, Oleg Sinavski | [Abstract](https://arxiv.org/abs/2503.09594) · [PDF](https://arxiv.org/pdf/2503.09594) | rule-assigned |
 | 2025-03-11 | FASIONAD++ : Integrating High-Level Instruction and Information Bottleneck in FAt-Slow fusION Systems for Enhanced Safety in Autonomous Driving with Adaptive Feedback | Kangan Qian, Ziang Luo, Sicong Jiang, Zilin Huang et al. | [Abstract](https://arxiv.org/abs/2503.08162) · [PDF](https://arxiv.org/pdf/2503.08162) | rule-assigned |
 | 2025-02-14 | V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models | Hsu-kuang Chiu, Ryo Hachiuma, Chien-Yi Wang, Stephen F. Smith et al. | [Abstract](https://arxiv.org/abs/2502.09980) · [PDF](https://arxiv.org/pdf/2502.09980) | rule-assigned |
-| 2025-01-17 | SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning | Yuecheng Liu, Dafeng Chi, Shiguang Wu, Zhanguang Zhang et al. | [Abstract](https://arxiv.org/abs/2501.10074) · [PDF](https://arxiv.org/pdf/2501.10074) | rule-assigned |
 | 2024-12-19 | GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering | Saumya Saxena, Blake Buchanan, Chris Paxton, Peiqi Liu et al. | [Abstract](https://arxiv.org/abs/2412.14480) · [PDF](https://arxiv.org/pdf/2412.14480) | rule-assigned |
 | 2024-12-16 | Emma-X: An Embodied Multimodal Action Model with Grounded Chain of Thought and Look-ahead Spatial Reasoning | Qi Sun, Pengfei Hong, Tej Deep Pala, Vernon Toh et al. | [Abstract](https://arxiv.org/abs/2412.11974) · [PDF](https://arxiv.org/pdf/2412.11974) | rule-assigned |
 | 2024-12-14 | NoisyEQA: Benchmarking Embodied Question Answering Against Noisy Queries | Tao Wu, Chuhao Zhou, Yen Heng Wong, Lin Gu et al. | [Abstract](https://arxiv.org/abs/2412.10726) · [PDF](https://arxiv.org/pdf/2412.10726) | rule-assigned |

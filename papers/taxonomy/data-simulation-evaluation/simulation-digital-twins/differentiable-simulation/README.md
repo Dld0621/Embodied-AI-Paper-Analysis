@@ -14,6 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
+A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
 ## Conference papers (7)
 
@@ -21,11 +22,11 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 |---:|---|---|---|---|
 | 2025 | Learning Quadrotor Control from Visual Features Using Differentiable Simulation | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2410.15979) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128641) | rule-assigned |
 | 2025 | DiffGen: Robot Demonstration Generation via Differentiable Physics Simulation, Differentiable Rendering, and Vision-Language Model | IROS · Language Model | [Paper](https://arxiv.org/abs/2405.07309) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247245) | rule-assigned |
+| 2024 | DIFFTACTILE: A Physics-based Differentiable Tactile Simulator for Contact-rich Robotic Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2403.08716) · [Index](https://dblp.org/rec/conf/iclr/SiZBRXLG24) | rule-assigned |
 | 2024 | Thin-Shell Object Manipulations With Differentiable Physics Simulations | ICLR · Simulation | [Paper](https://arxiv.org/abs/2404.00451) · [Index](https://dblp.org/rec/conf/iclr/WangZCXZLG24) | rule-assigned |
 | 2024 | SoftMAC: Differentiable Soft Body Simulation with Forecast-based Contact Model and Two-way Coupling with Articulated Rigid Bodies and Clothes | IROS · Simulation | [Paper](https://arxiv.org/abs/2312.03297) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801308) | rule-assigned |
 | 2023 | FRIDA: A Collaborative Robot Painter with a Differentiable, Real2Sim2Real Planning Environment | ICRA · Sim2Real | [Paper](https://arxiv.org/pdf/2210.00664) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160702) | rule-assigned |
 | 2022 | Rethinking Optimization with Differentiable Simulation from a Global Perspective | CoRL · Simulation | [Paper](https://arxiv.org/abs/2207.00167) · [Index](https://dblp.org/rec/journals/corr/abs-2207-00167) | rule-assigned |
-| 2022 | Model Identification and Control of a Low-cost Mobile Robot with Omnidirectional Wheels using Differentiable Physics | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/icra46639.2022.9812454) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812454) | rule-assigned |
 
 ## Recent arXiv papers (35)
 
@@ -33,6 +34,7 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 |---|---|---|---|---|
 | 2026-09-25 | Learning Vision-Based Agile Gap Traversal: Differentiable Simulation with a Warm-Started Critic | Nuthasith Gerdpratoom, Tianchen Sun, Yichao Gao, Lin Zhao | [Abstract](https://arxiv.org/abs/2609.30696) · [PDF](https://arxiv.org/pdf/2609.30696) | rule-assigned |
 | 2026-09-25 | Bundled Contact Gradients: Stabilizing Differentiable Simulation for Deployable Dynamic Tasks | Dyuman Aditya, Jin Cheng, Clemens Schwarke, Quan Nguyen et al. | [Abstract](https://arxiv.org/abs/2609.30951) · [PDF](https://arxiv.org/pdf/2609.30951) | rule-assigned |
+| 2026-07-07 | Image2Sim: Scaling Embodied Navigation via Generative Neural Simulator | Zihan Wang, Seungjun Lee, Yinghao Xu, Gim Hee Lee | [Abstract](https://arxiv.org/abs/2607.05765) · [PDF](https://arxiv.org/pdf/2607.05765) | rule-assigned |
 | 2026-06-25 | Continual Robot Policy Learning via Variational Neural Dynamics | Jiaxu Xing, Zhiyuan Zhu, Yunfan Ren, Ismail Geles et al. | [Abstract](https://arxiv.org/abs/2606.27353) · [PDF](https://arxiv.org/pdf/2606.27353) | rule-assigned |
 | 2026-06-23 | RigPI: Dynamic Parameter Identification of Rigid Body via VLM-Seeded Differentiable Simulation | Xincheng He, Rongrong Zhang, Wei Jiang, Wenqiang Xu | [Abstract](https://arxiv.org/abs/2606.25212) · [PDF](https://arxiv.org/pdf/2606.25212) | rule-assigned |
 | 2026-05-11 | JODA: Composable Joint Dynamics for Articulated Objects | Tianhong Gao, Cheng Yu, Yinghao Xu, Mengyu Chu | [Abstract](https://arxiv.org/abs/2605.09954) · [PDF](https://arxiv.org/pdf/2605.09954) | rule-assigned |
@@ -45,7 +47,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025-09-12 | DiffAero: A GPU-Accelerated Differentiable Simulation Framework for Efficient Quadrotor Policy Learning | Xinhong Zhang, Runqing Wang, Yunfan Ren, Jian Sun et al. | [Abstract](https://arxiv.org/abs/2509.10247) · [PDF](https://arxiv.org/pdf/2509.10247) | rule-assigned |
 | 2025-08-12 | DiffPhysCam: Differentiable Physics-Based Camera Simulation for Inverse Rendering and Embodied AI | Bo-Hsun Chen, Nevindu M. Batagoda, Dan Negrut | [Abstract](https://arxiv.org/abs/2508.08831) · [PDF](https://arxiv.org/pdf/2508.08831) | rule-assigned |
 | 2025-07-31 | Optimization of Flip-Landing Trajectories for Starship based on a Deep Learned Simulator | Liwei Chen, Tong Qin, Zhenhua Huangfu, Li Li et al. | [Abstract](https://arxiv.org/abs/2508.06520) · [PDF](https://arxiv.org/pdf/2508.06520) | rule-assigned |
-| 2025-06-21 | Quantification of Sim2Real Gap via Neural Simulation Gap Function | P Sangeerth, Pushpak Jagtap | [Abstract](https://arxiv.org/abs/2506.17675) · [PDF](https://arxiv.org/pdf/2506.17675) | rule-assigned |
 | 2025-06-17 | Differentiable Simulation of Hard Contacts with Soft Gradients for Learning and Control | Anselm Paulus, A. René Geist, Pierre Schumacher, Vít Musil et al. | [Abstract](https://arxiv.org/abs/2506.14186) · [PDF](https://arxiv.org/pdf/2506.14186) | rule-assigned |
 | 2025-06-10 | Bayesian Inverse Physics for Neuro-Symbolic Robot Learning | Octavio Arriaga, Rebecca Adam, Melvin Laux, Lisa Gutzeit et al. | [Abstract](https://arxiv.org/abs/2506.08756) · [PDF](https://arxiv.org/pdf/2506.08756) | rule-assigned |
 | 2025-06-01 | Accelerated Learning with Linear Temporal Logic using Differentiable Simulation | Alper Kamil Bozkurt, Calin Belta, Ming C. Lin | [Abstract](https://arxiv.org/abs/2506.01167) · [PDF](https://arxiv.org/pdf/2506.01167) | rule-assigned |
@@ -64,8 +65,8 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2024-05-12 | DiffGen: Robot Demonstration Generation via Differentiable Physics Simulation, Differentiable Rendering, and Vision-Language Model | Yang Jin, Jun Lv, Shuqiang Jiang, Cewu Lu | [Abstract](https://arxiv.org/abs/2405.07309) · [PDF](https://arxiv.org/pdf/2405.07309) | rule-assigned |
 | 2024-04-28 | Learning to Move Objects with Fluid Streams in a Differentiable Simulation | Karlis Freivalds, Laura Leja, Oskars Teikmanis | [Abstract](https://arxiv.org/abs/2404.18181) · [PDF](https://arxiv.org/pdf/2404.18181) | rule-assigned |
 | 2024-03-30 | Thin-Shell Object Manipulations With Differentiable Physics Simulations | Yian Wang, Juntian Zheng, Zhehuan Chen, Zhou Xian et al. | [Abstract](https://arxiv.org/abs/2404.00451) · [PDF](https://arxiv.org/pdf/2404.00451) | rule-assigned |
+| 2024-03-13 | DIFFTACTILE: A Physics-based Differentiable Tactile Simulator for Contact-rich Robotic Manipulation | Zilin Si, Gu Zhang, Qingwei Ben, Branden Romero et al. | [Abstract](https://arxiv.org/abs/2403.08716) · [PDF](https://arxiv.org/pdf/2403.08716) | rule-assigned |
 | 2023-12-06 | SoftMAC: Differentiable Soft Body Simulation with Forecast-based Contact Model and Two-way Coupling with Articulated Rigid Bodies and Clothes | Min Liu, Gang Yang, Siyuan Luo, Lin Shao | [Abstract](https://arxiv.org/abs/2312.03297) · [PDF](https://arxiv.org/pdf/2312.03297) | rule-assigned |
-| 2023-10-04 | Application-Oriented Co-Design of Motors and Motions for a 6DOF Robot Manipulator | Adrian Stein, Yebin Wang, Yusuke Sakamoto, Bingnan Wang et al. | [Abstract](https://arxiv.org/abs/2310.03132) · [PDF](https://arxiv.org/pdf/2310.03132) | rule-assigned |
 
 ---
 

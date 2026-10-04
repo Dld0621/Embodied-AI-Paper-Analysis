@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=World%20%26%20Dynamics%20Modeling&specialty=Action-conditioned%20Video%20Prediction#research-workbench)
 
-> 3 conference papers · 81 recent arXiv papers
+> 3 conference papers · 78 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,6 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
+A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
 ## Conference papers (3)
 
@@ -23,7 +24,7 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025 | SAMPO:Scale-wise Autoregression with Motion PrOmpt for generative world models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2509.15536) · [Index](https://dblp.org/rec/conf/nips/WangTWLLDXZTH25) | rule-assigned |
 | 2024 | iVideoGPT: Interactive VideoGPTs are Scalable World Models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2405.15223) · [Index](https://dblp.org/rec/journals/corr/abs-2405-15223) | rule-assigned |
 
-## Recent arXiv papers (81)
+## Recent arXiv papers (78)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -52,7 +53,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-09-02 | Spatially Aware World Action Model via Geometric Latent Diffusion | Javier Alejandro Lopetegui Gonzalez, Paul Pacaud, Cordelia Schmid | [Abstract](https://arxiv.org/abs/2609.02531) · [PDF](https://arxiv.org/pdf/2609.02531) | rule-assigned |
 | 2026-08-28 | AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction | Yafei Zhang, Nan Wu | [Abstract](https://arxiv.org/abs/2608.28491) · [PDF](https://arxiv.org/pdf/2608.28491) | rule-assigned |
 | 2026-08-27 | Riemann-1.0: An Embodied World Action Model for Physical AI | Haofeng Sun, Jiangbo Pei, Fei Kang, Zexiang Liu et al. | [Abstract](https://arxiv.org/abs/2608.27033) · [PDF](https://arxiv.org/pdf/2608.27033) | rule-assigned |
-| 2026-08-27 | CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators | Kechen Liu, Ola Shorinwa | [Abstract](https://arxiv.org/abs/2608.27406) · [PDF](https://arxiv.org/pdf/2608.27406) | rule-assigned |
 | 2026-08-24 | GeoWAM: Visual Geometry World Action Models for Autonomous Driving | Yiren Lu, Xin Ye, Jiaming Liu, Philip Jacobson et al. | [Abstract](https://arxiv.org/abs/2608.23486) · [PDF](https://arxiv.org/pdf/2608.23486) | rule-assigned |
 | 2026-08-18 | Hydra-0: Action Flow for Generalist World Modeling and Control | Hongyu Li, Bowen Wen, Xinghao Zhu, Yixuan Wang et al. | [Abstract](https://arxiv.org/abs/2608.18077) · [PDF](https://arxiv.org/pdf/2608.18077) | rule-assigned |
 | 2026-08-13 | DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation | DreamX Team, Rui Chen, Xiangxiang Chu, Geng Li et al. | [Abstract](https://arxiv.org/abs/2608.13489) · [PDF](https://arxiv.org/pdf/2608.13489) | rule-assigned |
@@ -77,7 +77,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-06-11 | Diffusion Transformer World-Action Model for AV Scene Prediction | Ruslan Sharifullin, Benjamin Jiang, Kai Xi Chew | [Abstract](https://arxiv.org/abs/2606.12987) · [PDF](https://arxiv.org/pdf/2606.12987) | rule-assigned |
 | 2026-06-10 | Making Foresight Actionable: Repurposing Representation Alignment in World Action Models | Lu Qiu, Yizhuo Li, Yi Chen, Yuying Ge et al. | [Abstract](https://arxiv.org/abs/2606.12217) · [PDF](https://arxiv.org/pdf/2606.12217) | rule-assigned |
 | 2026-06-10 | EWAM: An Enhanced World Action Model for Closed-Loop Online Adaptation in Embodied Intelligence | Xin Zhou, Cong Miao | [Abstract](https://arxiv.org/abs/2606.12690) · [PDF](https://arxiv.org/pdf/2606.12690) | rule-assigned |
-| 2026-06-08 | Efficient-WAM: A 1B-Parameter World-Action Model with Low-Cost Future Imagination | Jiajun Li, Tiecheng Guo, Yifan Ye, Rongyu Zhang et al. | [Abstract](https://arxiv.org/abs/2606.10040) · [PDF](https://arxiv.org/pdf/2606.10040) | rule-assigned |
 | 2026-06-08 | AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing | Jisong Cai, Long Ling, Shiwei Chu, Zhongshan Liu et al. | [Abstract](https://arxiv.org/abs/2606.09811) · [PDF](https://arxiv.org/pdf/2606.09811) | rule-assigned |
 | 2026-06-05 | Dreaming when Necessary: Advancing World Action Models with Adaptive Multi-Modal Reasoning | Yinzhou Tang, Jingbo Xu, Yu Shang, Zihao Song et al. | [Abstract](https://arxiv.org/abs/2606.07089) · [PDF](https://arxiv.org/pdf/2606.07089) | rule-assigned |
 | 2026-06-02 | PointAction: 3D Points as Universal Action Representations for Robot Control | Mutian Tong, Han Jiang, Qiao Feng, Lingjie Liu et al. | [Abstract](https://arxiv.org/abs/2606.03943) · [PDF](https://arxiv.org/pdf/2606.03943) | rule-assigned |
@@ -92,7 +91,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-04-02 | DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning | Yang Zhou, Xiaofeng Wang, Hao Shao, Letian Wang et al. | [Abstract](https://arxiv.org/abs/2604.01765) · [PDF](https://arxiv.org/pdf/2604.01765) | rule-assigned |
 | 2026-03-17 | DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models | Emily Yue-Ting Jia, Weiduo Yuan, Tianheng Shi, Vitor Guizilini et al. | [Abstract](https://arxiv.org/abs/2603.16860) · [PDF](https://arxiv.org/pdf/2603.16860) | rule-assigned |
 | 2026-03-09 | PlayWorld: Learning Robot World Models from Autonomous Play | Tenny Yin, Zhiting Mei, Zhonghe Zheng, Miyu Yamane et al. | [Abstract](https://arxiv.org/abs/2603.09030) · [PDF](https://arxiv.org/pdf/2603.09030) | rule-assigned |
-| 2026-02-15 | WoVR: World Models as Reliable Simulators for Post-Training VLA Policies with RL | Zhennan Jiang, Shangqing Zhou, Yutong Jiang, Zefang Huang et al. | [Abstract](https://arxiv.org/abs/2602.13977) · [PDF](https://arxiv.org/pdf/2602.13977) | rule-assigned |
 | 2026-02-06 | World-VLA-Loop: Closed-Loop Learning of Video World Model and VLA Policy | Xiaokang Liu, Zechen Bai, Hai Ci, Kevin Yuchen Ma et al. | [Abstract](https://arxiv.org/abs/2602.06508) · [PDF](https://arxiv.org/pdf/2602.06508) | rule-assigned |
 | 2026-01-12 | Robotic Video World Models: A Survey of Applications, Research Challenges, Future Directions | Zhiting Mei, Tenny Yin, Ola Shorinwa, Apurva Badithela et al. | [Abstract](https://arxiv.org/abs/2601.07823) · [PDF](https://arxiv.org/pdf/2601.07823) | rule-assigned |
 | 2025-12-20 | STORM: Search-Guided Generative World Models for Robotic Manipulation | Wenjun Lin, Jensen Zhang, Kaitong Cai, Keze Wang | [Abstract](https://arxiv.org/abs/2512.18477) · [PDF](https://arxiv.org/pdf/2512.18477) | rule-assigned |

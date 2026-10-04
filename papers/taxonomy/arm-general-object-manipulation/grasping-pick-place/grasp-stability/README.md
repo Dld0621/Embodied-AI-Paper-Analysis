@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Grasping%20%26%20Pick-place&specialty=Grasp%20Stability#research-workbench)
 
-> 15 conference papers · 45 recent arXiv papers
+> 14 conference papers · 43 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,8 +14,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
+A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (15)
+## Conference papers (14)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
@@ -31,11 +32,10 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2023 | Learning-Based Real-Time Torque Prediction for Grasping Unknown Objects with a Multi-Fingered Hand | IROS · Multi Finger | [Paper](https://elib.dlr.de/197492/1/winkelbauer23_copyright.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341970) | rule-assigned |
 | 2023 | Learning-Free Grasping of Unknown Objects Using Hidden Superquadrics | RSS · Grasp | [Paper](https://arxiv.org/abs/2305.06591) · [Index](https://dblp.org/rec/journals/corr/abs-2305-06591) | rule-assigned |
 | 2022 | Volumetric-based Contact Point Detection for 7-DoF Grasping | CoRL · Grasp | [Paper](https://arxiv.org/abs/2209.06675) · [Index](https://dblp.org/rec/conf/corl/CaiSZCCW22) | rule-assigned |
-| 2022 | Grasp Transfer for Deformable Objects by Functional Map Correspondence | ICRA · Grasp | [Paper](https://arxiv.org/abs/2203.00776) · [Index](https://dblp.org/rec/conf/icra/FariasTSM22) | rule-assigned |
 | 2022 | Grasp Stability Prediction with Sim-to-Real Transfer from Tactile Sensing | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2208.02885) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981863) | rule-assigned |
 | 2022 | The Good Grasp, the Bad Grasp, and the Plateau in Tactile-Based Grasp Stability Prediction | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9981360) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981360) | rule-assigned |
 
-## Recent arXiv papers (45)
+## Recent arXiv papers (43)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -47,7 +47,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-08-02 | GraRe: Grasp Candidate Re-Ranking for Frozen 6-DoF Grasp Detectors | Jibao Yuan, Yuhui Zhao, Yinzhen Lv, Chao Xu et al. | [Abstract](https://arxiv.org/abs/2608.00946) · [PDF](https://arxiv.org/pdf/2608.00946) | rule-assigned |
 | 2026-08-01 | Grasp Execution Without a Planner: Configuration-Space Grasp Distance Fields with Certified Safety & Guaranteed Quality | Clinton Enwerem, John S. Baras, Calin Belta | [Abstract](https://arxiv.org/abs/2608.00600) · [PDF](https://arxiv.org/pdf/2608.00600) | rule-assigned |
 | 2026-07-31 | SAGP: Semantic Affordance-Guided Grasp Planning via Coarse-Zone VLM Reasoning | Muhayy Ud Din, Irfan Hussain | [Abstract](https://arxiv.org/abs/2607.29374) · [PDF](https://arxiv.org/pdf/2607.29374) | rule-assigned |
-| 2026-07-21 | Design and stability analysis of an underactuated hand with passively rotating fingers | Léonie Plancoulaine, Sylvain Guégan, Franck Plestan, Damien Chablat | [Abstract](https://arxiv.org/abs/2607.18950) · [PDF](https://arxiv.org/pdf/2607.18950) | rule-assigned |
 | 2026-07-20 | Predicting Grasping Compliance in Robotic Hands through Analytical-Model-Informed Neural Networks | Qianwen Zhao, Long Wang | [Abstract](https://arxiv.org/abs/2607.17541) · [PDF](https://arxiv.org/pdf/2607.17541) | rule-assigned |
 | 2026-06-26 | Learning Stable In-Grasp Manipulation in a Non-Dropping Action Space | Ha Thang Long Doan, Hikaru Arita, Kazuto Nakashima, Kenji Tahara | [Abstract](https://arxiv.org/abs/2606.28196) · [PDF](https://arxiv.org/pdf/2606.28196) | rule-assigned |
 | 2026-05-15 | KaRMA: A Kinematic Metric for Fine Manipulation Ability in Robotic Hands | Martin Peticco, Pulkit Agrawal | [Abstract](https://arxiv.org/abs/2605.15548) · [PDF](https://arxiv.org/pdf/2605.15548) | rule-assigned |
@@ -75,7 +74,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025-01-13 | Hand-Object Contact Detection using Grasp Quality Metrics | Thanh Vinh Nguyen, Akansel Cosgun | [Abstract](https://arxiv.org/abs/2501.06987) · [PDF](https://arxiv.org/pdf/2501.06987) | rule-assigned |
 | 2024-11-13 | Learning Robust Grasping Strategy Through Tactile Sensing and Adaption Skill | Yueming Hu, Mengde Li, Songhua Yang, Xuetao Li et al. | [Abstract](https://arxiv.org/abs/2411.08499) · [PDF](https://arxiv.org/pdf/2411.08499) | rule-assigned |
 | 2024-11-12 | Robust Adaptive Safe Robotic Grasping with Tactile Sensing | Yitaek Kim, Jeeseop Kim, Albert H. Li, Aaron D. Ames et al. | [Abstract](https://arxiv.org/abs/2411.07833) · [PDF](https://arxiv.org/pdf/2411.07833) | rule-assigned |
-| 2024-10-25 | Soft Finger Grasp Force and Contact State Estimation from Tactile Sensors | Hun Jang, Joonbum Bae, Kevin Haninger | [Abstract](https://arxiv.org/abs/2410.19684) · [PDF](https://arxiv.org/pdf/2410.19684) | rule-assigned |
 | 2024-08-08 | DiPGrasp: Parallel Local Searching for Efficient Differentiable Grasp Planning | Wenqiang Xu, Jieyi Zhang, Tutian Tang, Zhenjun Yu et al. | [Abstract](https://arxiv.org/abs/2408.04738) · [PDF](https://arxiv.org/pdf/2408.04738) | rule-assigned |
 | 2024-07-30 | Learning Stable Robot Grasping with Transformer-based Tactile Control Policies | En Yen Puang, Zechen Li, Chee Meng Chew, Shan Luo et al. | [Abstract](https://arxiv.org/abs/2407.21172) · [PDF](https://arxiv.org/pdf/2407.21172) | rule-assigned |
 | 2024-04-01 | ContactHandover: Contact-Guided Robot-to-Human Object Handover | Zixi Wang, Zeyi Liu, Nicolas Ouporov, Shuran Song | [Abstract](https://arxiv.org/abs/2404.01402) · [PDF](https://arxiv.org/pdf/2404.01402) | rule-assigned |

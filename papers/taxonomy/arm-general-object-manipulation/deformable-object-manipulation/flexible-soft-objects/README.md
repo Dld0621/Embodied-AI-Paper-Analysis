@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation&specialty=Flexible%20%26%20Soft%20Objects#research-workbench)
 
-> 16 conference papers · 52 recent arXiv papers
+> 15 conference papers · 52 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,15 +14,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
+A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (16)
+## Conference papers (15)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | Dual Quaternion based Compliant Movement Primitives for Deformable Object Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695696) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695696) | rule-assigned |
 | 2026 | LeHome: A Simulation Environment for Deformable Object Manipulation in Household Scenarios | ICRA · Simulation | [Paper](https://arxiv.org/abs/2604.22363) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696568) | rule-assigned |
 | 2026 | NovaFlow: Zero-Shot Manipulation via Actionable Flow from Generated Videos | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2510.08568) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696411) | rule-assigned |
-| 2026 | Rapid Adaptation of Particle Dynamics for Generalized Deformable Object Mobile Manipulation | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/abs/2603.18246) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695951) | rule-assigned |
 | 2025 | Deformpam: Data-Efficient Learning for Long-Horizon Deformable Object Manipulation Via Preference-Based Action Alignment | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2410.11584) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127926) | rule-assigned |
 | 2024 | Collaborative Manipulation of Deformable Objects with Predictive Obstacle Avoidance | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2401.16560) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10609995) | rule-assigned |
 | 2024 | DeformNet: Latent Space Modeling and Dynamics Prediction for Deformable Object Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2402.07648) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611243) | rule-assigned |
@@ -42,7 +42,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 |---|---|---|---|---|
 | 2026-09-09 | Deformable Object Manipulation under Partial Observability via Real-Time Full-Shape Estimation | Kosar Behnia, Ville Kyrki, Gokhan Alcan | [Abstract](https://arxiv.org/abs/2609.10308) · [PDF](https://arxiv.org/pdf/2609.10308) | rule-assigned |
 | 2026-09-07 | PhysReal: Learning Real-World Deformable Object Physics via Hybrid Constitutive Modeling | Yinan Deng, Jianqiao Song, Yisi Zhang, Yuhan Wang et al. | [Abstract](https://arxiv.org/abs/2609.07532) · [PDF](https://arxiv.org/pdf/2609.07532) | rule-assigned |
-| 2026-08-25 | Sensorless damage-safe grasping | Yusei Shuto, Danilo Vasconcellos Vargas | [Abstract](https://arxiv.org/abs/2608.23983) · [PDF](https://arxiv.org/pdf/2608.23983) | rule-assigned |
 | 2026-08-11 | TCAM for Autonomous Deformable Manipulation: The RMC2 Champion System for WBCD 2026 Track 4 | Guangrui Shen, Zhili He, Shigang Wang, Yuanjun Sun et al. | [Abstract](https://arxiv.org/abs/2608.10718) · [PDF](https://arxiv.org/pdf/2608.10718) | rule-assigned |
 | 2026-07-15 | Learning Physics-Guided Residual Dynamics for Deformable Object Simulation | Shivansh Patel, Kaifeng Zhang, Sanjay Pokkali, Svetlana Lazebnik et al. | [Abstract](https://arxiv.org/abs/2607.13451) · [PDF](https://arxiv.org/pdf/2607.13451) | rule-assigned |
 | 2026-07-14 | UR-VC: Unsupervised Robotic Value Correction for Time-Derived Progress Proxies | Lirui Zhao, Modi Shi, Li Chen, Qi Liu et al. | [Abstract](https://arxiv.org/abs/2607.12892) · [PDF](https://arxiv.org/pdf/2607.12892) | rule-assigned |
@@ -71,13 +70,15 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025-09-09 | RaC: Robot Learning for Long-Horizon Tasks by Scaling Recovery and Correction | Zheyuan Hu, Robyn Wu, Naveen Enock, Jasmine Li et al. | [Abstract](https://arxiv.org/abs/2509.07953) · [PDF](https://arxiv.org/pdf/2509.07953) | rule-assigned |
 | 2025-08-26 | Planning-Query-Guided Model Generation for Model-Based Deformable Object Manipulation | Alex LaGrassa, Zixuan Huang, Dmitry Berenson, Oliver Kroemer | [Abstract](https://arxiv.org/abs/2508.19199) · [PDF](https://arxiv.org/pdf/2508.19199) | rule-assigned |
 | 2025-07-08 | EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow | Yixiang Chen, Peiyan Li, Yan Huang, Jiabing Yang et al. | [Abstract](https://arxiv.org/abs/2507.06224) · [PDF](https://arxiv.org/pdf/2507.06224) | rule-assigned |
+| 2025-06-18 | Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos | Kaifeng Zhang, Baoyu Li, Kris Hauser, Yunzhu Li | [Abstract](https://arxiv.org/abs/2506.15680) · [PDF](https://arxiv.org/pdf/2506.15680) | rule-assigned |
+| 2025-05-30 | Imitation Learning-Based Path Generation for the Complex Assembly of Deformable Objects | Yitaek Kim, Christoffer Sloth | [Abstract](https://arxiv.org/abs/2505.24339) · [PDF](https://arxiv.org/pdf/2505.24339) | rule-assigned |
+| 2025-05-16 | Estimating Deformable-Rigid Contact Interactions for a Deformable Tool via Learning and Model-Based Optimization | Mark Van der Merwe, Miquel Oller, Dmitry Berenson, Nima Fazeli | [Abstract](https://arxiv.org/abs/2505.10884) · [PDF](https://arxiv.org/pdf/2505.10884) | rule-assigned |
 | 2025-05-14 | ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation | Enyu Zhao, Vedant Raval, Hejia Zhang, Jiageng Mao et al. | [Abstract](https://arxiv.org/abs/2505.09698) · [PDF](https://arxiv.org/pdf/2505.09698) | rule-assigned |
 | 2025-05-01 | Implicit Neural-Representation Learning for Elastic Deformable-Object Manipulations | Minseok Song, JeongHo Ha, Bonggyeong Park, Daehyung Park | [Abstract](https://arxiv.org/abs/2505.00500) · [PDF](https://arxiv.org/pdf/2505.00500) | rule-assigned |
 | 2025-03-27 | Data-Driven Contact-Aware Control Method for Real-Time Deformable Tool Manipulation: A Case Study in the Environmental Swabbing | Siavash Mahmoudi, Amirreza Davar, Dongyi Wang | [Abstract](https://arxiv.org/abs/2503.21491) · [PDF](https://arxiv.org/pdf/2503.21491) | rule-assigned |
 | 2025-02-17 | Robot Deformable Object Manipulation via NMPC-generated Demonstrations in Deep Reinforcement Learning | Haoyuan Wang, Zihao Dong, Hongliang Lei, Zejia Zhang et al. | [Abstract](https://arxiv.org/abs/2502.11375) · [PDF](https://arxiv.org/pdf/2502.11375) | rule-assigned |
 | 2024-12-02 | Planning and Reasoning with 3D Deformable Objects for Hierarchical Text-to-3D Robotic Shaping | Alison Bartsch, Amir Barati Farimani | [Abstract](https://arxiv.org/abs/2412.01765) · [PDF](https://arxiv.org/pdf/2412.01765) | rule-assigned |
 | 2024-11-21 | Learning thin deformable object manipulation with a multi-sensory integrated soft hand | Chao Zhao, Chunli Jiang, Lifan Luo, Shuai Yuan et al. | [Abstract](https://arxiv.org/abs/2411.13952) · [PDF](https://arxiv.org/pdf/2411.13952) | rule-assigned |
-| 2024-10-15 | Learning Goal-oriented Bimanual Dough Rolling Using Dynamic Heterogeneous Graph Based on Human Demonstration | Junjia Liu, Chenzui Li, Shixiong Wang, Zhipeng Dong et al. | [Abstract](https://arxiv.org/abs/2410.22355) · [PDF](https://arxiv.org/pdf/2410.22355) | rule-assigned |
 | 2024-10-15 | DeformPAM: Data-Efficient Learning for Long-horizon Deformable Object Manipulation via Preference-based Action Alignment | Wendi Chen, Han Xue, Fangyuan Zhou, Yuan Fang et al. | [Abstract](https://arxiv.org/abs/2410.11584) · [PDF](https://arxiv.org/pdf/2410.11584) | rule-assigned |
 | 2024-08-05 | RoPotter: Toward Robotic Pottery and Deformable Object Manipulation with Structural Priors | Uksang Yoo, Adam Hung, Jonathan Francis, Jean Oh et al. | [Abstract](https://arxiv.org/abs/2408.02184) · [PDF](https://arxiv.org/pdf/2408.02184) | rule-assigned |
 | 2024-06-12 | LLM-Craft: Robotic Crafting of Elasto-Plastic Objects with Large Language Models | Alison Bartsch, Amir Barati Farimani | [Abstract](https://arxiv.org/abs/2406.08648) · [PDF](https://arxiv.org/pdf/2406.08648) | rule-assigned |
@@ -91,7 +92,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2023-11-30 | DeformGS: Scene Flow in Highly Deformable Scenes for Deformable Object Manipulation | Bardienus P. Duisterhof, Zhao Mandi, Yunchao Yao, Jia-Wei Liu et al. | [Abstract](https://arxiv.org/abs/2312.00583) · [PDF](https://arxiv.org/pdf/2312.00583) | rule-assigned |
 | 2023-11-16 | Enhancing Deformable Object Manipulation By Using Interactive Perception and Assistive Tools | Peng Zhou | [Abstract](https://arxiv.org/abs/2311.09659) · [PDF](https://arxiv.org/pdf/2311.09659) | rule-assigned |
 | 2023-11-05 | Make a Donut: Hierarchical EMD-Space Planning for Zero-Shot Deformable Manipulation with Tools | Yang You, Bokui Shen, Congyue Deng, Haoran Geng et al. | [Abstract](https://arxiv.org/abs/2311.02787) · [PDF](https://arxiv.org/pdf/2311.02787) | rule-assigned |
-| 2023-10-16 | Learning visual-based deformable object rearrangement with local graph neural networks | Yuhong Deng, Xueqian Wang, Lipeng chen | [Abstract](https://arxiv.org/abs/2310.10307) · [PDF](https://arxiv.org/pdf/2310.10307) | rule-assigned |
 
 ---
 

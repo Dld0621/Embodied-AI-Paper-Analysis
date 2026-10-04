@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Tools%20%26%20Articulated%20Objects#research-workbench)
 
-> 33 conference papers · 116 recent arXiv papers
+> 33 conference papers · 117 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,13 +14,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
+A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
 ## Conference papers (33)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | Robustness-Aware Tool Selection and Manipulation Planning with Learned Energy-Informed Guidance | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2506.03362) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695929) | rule-assigned |
-| 2026 | TaSA: Two-Phased Deep Predictive Learning of Tactile Sensory Attenuation for Improving In-Grasp Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2602.05468) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696756) | rule-assigned |
 | 2026 | Vi-TacMan: Articulated Object Manipulation via Vision and Touch | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2510.06339) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697058) | rule-assigned |
 | 2025 | Adaptive Articulated Object Manipulation on the Fly with Foundation Model Reasoning and Part Grounding | ICCV · Foundation Model | [Paper](https://arxiv.org/pdf/2507.18276) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01211) | rule-assigned |
 | 2025 | Learning Precise Affordances From Egocentric Videos for Robotic Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/abs/2408.10123) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00985) | rule-assigned |
@@ -36,8 +36,10 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2024 | GraspSplats: Efficient Manipulation with 3D Feature Splatting | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2409.02084) · [Index](https://dblp.org/rec/journals/corr/abs-2409-02084) | rule-assigned |
 | 2024 | RiEMann: Near Real-Time SE(3)-Equivariant Robot Manipulation without Point Cloud Segmentation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2403.19460) · [Index](https://dblp.org/rec/journals/corr/abs-2403-19460) | rule-assigned |
 | 2024 | Robot See Robot Do: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2409.18121) · [Index](https://dblp.org/rec/journals/corr/abs-2409-18121) | rule-assigned |
+| 2024 | ScissorBot: Learning Generalizable Scissor Skill for Paper Cutting via Simulation, Imitation, and Sim2Real | CoRL · Simulation | [Paper](https://arxiv.org/abs/2409.13966) · [Index](https://dblp.org/rec/journals/corr/abs-2409-13966) | rule-assigned |
 | 2024 | Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs | ICRA · Llm | [Paper](https://arxiv.org/abs/2311.02847) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610744) | rule-assigned |
 | 2024 | Robotic Manipulation of Hand Tools: The Case of Screwdriving | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610831) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610831) | rule-assigned |
+| 2024 | AO-Grasp: Articulated Object Grasp Generation | IROS · Grasp | [Paper](https://arxiv.org/abs/2310.15928) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802558) | rule-assigned |
 | 2024 | Learning-based Adaptive Admittance Controller for Efficient and Safe pHRI in Contact-rich Manufacturing Tasks | IROS · Contact Rich | [Paper](https://doi.org/10.1109/IROS58592.2024.10802530) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802530) | rule-assigned |
 | 2024 | The Power of the Senses: Generalizable Manipulation from Vision and Touch through Masked Multimodal Learning | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2311.00924) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802719) | rule-assigned |
 | 2024 | General Articulated Objects Manipulation in Real Images via Part-Aware Diffusion Process | NeurIPS · Manipulation | [Paper](https://doi.org/10.52202/079017-0651) · [Publisher](https://doi.org/10.52202/079017-0651) | rule-assigned |
@@ -48,12 +50,11 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2023 | RoboCook: Long-Horizon Elasto-Plastic Object Manipulation with Diverse Tools | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2306.14447) · [Index](https://dblp.org/rec/journals/corr/abs-2306-14447) | rule-assigned |
 | 2023 | Extraneousness-Aware Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2210.01379) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161521) | rule-assigned |
 | 2023 | Human-Guided Planning for Complex Manipulation Tasks Using the Screw Geometry of Motion | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2209.05672) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161130) | rule-assigned |
-| 2023 | Implementation and Optimization of Grasping Learning with Dual-modal Soft Gripper | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161249) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161249) | rule-assigned |
 | 2023 | Learning Category-Level Manipulation Tasks from Point Clouds with Dynamic Graph CNNs | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2209.06331) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160820) | rule-assigned |
 | 2023 | Sim2Real2: Actively Building Explicit Physics Model for Precise Articulated Object Manipulation | ICRA · Sim2Real | [Paper](https://arxiv.org/abs/2302.10693) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160370) | rule-assigned |
 | 2023 | Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusions | NeurIPS · Manipulation | [Paper](https://arxiv.org/pdf/2309.07510) · [Index](https://dblp.org/rec/journals/corr/abs-2309-07510) | rule-assigned |
 
-## Recent arXiv papers (116)
+## Recent arXiv papers (117)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -71,6 +72,7 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-07-20 | RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu, Bo Zhang, Xiyuan Li, Yongzhi Liao et al. | [Abstract](https://arxiv.org/abs/2607.17951) · [PDF](https://arxiv.org/pdf/2607.17951) | rule-assigned |
 | 2026-07-19 | BoxTwin: Learning Elastoplastic Articulated Object Dynamics from Videos | Heng Zhang, Gehan Zheng, Kaifeng Zhang, Jay Song et al. | [Abstract](https://arxiv.org/abs/2607.17132) · [PDF](https://arxiv.org/pdf/2607.17132) | rule-assigned |
 | 2026-07-08 | A Closed-Loop Multi-Agent Framework for Robust Multi-Robot Manipulation | Yi-Xiang He, Lan Wei, Haoming Cen, Jian-Jian Jiang et al. | [Abstract](https://arxiv.org/abs/2607.06990) · [PDF](https://arxiv.org/pdf/2607.06990) | rule-assigned |
+| 2026-07-07 | FuncBridge: Towards Functional Tool-Use Generalization via Keypoint Trajectory Reasoning | Chuhao Zhou, Liquan Wang, Shuxin Cao, Xiangyu Chen et al. | [Abstract](https://arxiv.org/abs/2607.05780) · [PDF](https://arxiv.org/pdf/2607.05780) | rule-assigned |
 | 2026-07-05 | A Perception-Manipulation Robotics System for Food Cutting | Xinyuan Luo, Wenzhen Yuan | [Abstract](https://arxiv.org/abs/2607.04367) · [PDF](https://arxiv.org/pdf/2607.04367) | rule-assigned |
 | 2026-06-29 | GROW$^2$: Grounding Which and Where for Robot Tool Use | Yuhong Deng, Yuyao Liu, David Hsu | [Abstract](https://arxiv.org/abs/2606.30632) · [PDF](https://arxiv.org/pdf/2606.30632) | rule-assigned |
 | 2026-06-29 | Analytic Concept-Centric Memory for Agentic Embodied Manipulation | Mingyang Sun, Xiujian Liang, Jiude Wei, Qichen He et al. | [Abstract](https://arxiv.org/abs/2606.29774) · [PDF](https://arxiv.org/pdf/2606.29774) | rule-assigned |
@@ -82,6 +84,7 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-05-07 | ReasonSTL: Bridging Natural Language and Signal Temporal Logic via Tool-Augmented Process-Rewarded Learning | Bowen Ye, Zhijian Li, Junyue Huang, Junkai Ma et al. | [Abstract](https://arxiv.org/abs/2605.06483) · [PDF](https://arxiv.org/pdf/2605.06483) | rule-assigned |
 | 2026-05-06 | Creative Robot Tool Use by Counterfactual Reasoning | M. Tuluhan Akbulut, Varun Satheesh, Ahmed Jaafar, Alper Ahmetoglu et al. | [Abstract](https://arxiv.org/abs/2605.05411) · [PDF](https://arxiv.org/pdf/2605.05411) | rule-assigned |
 | 2026-04-15 | UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception | Ziming Wang | [Abstract](https://arxiv.org/abs/2604.14089) · [PDF](https://arxiv.org/pdf/2604.14089) | rule-assigned |
+| 2026-04-09 | GEAR: GEometry-motion Alternating Refinement for Articulated Object Modeling with Gaussian Splatting | Jialin Li, Bin Fu, Ruiping Wang, Xilin Chen | [Abstract](https://arxiv.org/abs/2604.07728) · [PDF](https://arxiv.org/pdf/2604.07728) | rule-assigned |
 | 2026-03-28 | D-SPEAR: Dual-Stream Prioritized Experience Adaptive Replay for Stable Reinforcement Learning in Robotic Manipulation | Yu Zhang, Karl Mason | [Abstract](https://arxiv.org/abs/2603.27346) · [PDF](https://arxiv.org/pdf/2603.27346) | rule-assigned |
 | 2026-03-24 | SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM | Chuanrui Zhang, Minghan Qin, Yuang Wang, Baifeng Xie et al. | [Abstract](https://arxiv.org/abs/2603.23386) · [PDF](https://arxiv.org/pdf/2603.23386) | rule-assigned |
 | 2026-03-24 | PHANTOM Hand | Teng Yan, Jiongxu Chen, Qixiang Hua, Yue Yu et al. | [Abstract](https://arxiv.org/abs/2603.23152) · [PDF](https://arxiv.org/pdf/2603.23152) | rule-assigned |
@@ -90,7 +93,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-03-14 | URDF-Anything+: End-to-End Generation for Simulation-Ready Articulated Assets | Zhuangzhe Wu, Yue Xin, Chengkai Hou, Minghao Chen et al. | [Abstract](https://arxiv.org/abs/2603.14010) · [PDF](https://arxiv.org/pdf/2603.14010) | rule-assigned |
 | 2026-02-16 | PAct: Part-Decomposed Single-View Articulated Object Generation | Qingming Liu, Xinyue Yao, Shuyuan Zhang, Yueci Deng et al. | [Abstract](https://arxiv.org/abs/2602.14965) · [PDF](https://arxiv.org/pdf/2602.14965) | rule-assigned |
 | 2026-02-15 | Learning Part-Aware Dense 3D Feature Field for Generalizable Articulated Object Manipulation | Yue Chen, Muqing Jiang, Kaifeng Zheng, Jiaqi Liang et al. | [Abstract](https://arxiv.org/abs/2602.14193) · [PDF](https://arxiv.org/pdf/2602.14193) | rule-assigned |
-| 2026-02-05 | TaSA: Two-Phased Deep Predictive Learning of Tactile Sensory Attenuation for Improving In-Grasp Manipulation | Pranav Ponnivalavan, Satoshi Funabashi, Alexander Schmitz, Tetsuya Ogata et al. | [Abstract](https://arxiv.org/abs/2602.05468) · [PDF](https://arxiv.org/pdf/2602.05468) | rule-assigned |
 | 2026-02-04 | A Modern System Recipe for Situated Embodied Human-Robot Conversation with Real-Time Multimodal LLMs and Tool-Calling | Dong Won Lee, Sarah Gillet, Louis-Philippe Morency, Cynthia Breazeal et al. | [Abstract](https://arxiv.org/abs/2602.04157) · [PDF](https://arxiv.org/pdf/2602.04157) | rule-assigned |
 | 2026-01-25 | Energy-Aware Reinforcement Learning for Robotic Manipulation of Articulated Components in Infrastructure Operation and Maintenance | Xiaowen Tao, Yinuo Wang, Haitao Ding, Yuanyang Qi et al. | [Abstract](https://arxiv.org/abs/2602.12288) · [PDF](https://arxiv.org/pdf/2602.12288) | rule-assigned |
 | 2026-01-18 | An Embodied Companion for Visual Storytelling | Patrick Tresset, Markus Wulfmeier | [Abstract](https://arxiv.org/abs/2603.05511) · [PDF](https://arxiv.org/pdf/2603.05511) | rule-assigned |
@@ -98,7 +100,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025-12-09 | Masked Generative Policy for Robotic Control | Lipeng Zhuang, Shiyu Fan, Florent P. Audonnet, Yingdong Ru et al. | [Abstract](https://arxiv.org/abs/2512.09101) · [PDF](https://arxiv.org/pdf/2512.09101) | rule-assigned |
 | 2025-12-08 | sim2art: Accurate Articulated Object Modeling from a Single Video using Synthetic Training Data Only | Arslan Artykov, Tom Ravaud, Corentin Sautier, Vincent Lepetit | [Abstract](https://arxiv.org/abs/2512.07698) · [PDF](https://arxiv.org/pdf/2512.07698) | rule-assigned |
 | 2025-11-25 | ArtiBench and ArtiBrain: Benchmarking Generalizable Vision-Language Articulated Object Manipulation | Yuhan Wu, Tiantian Wei, Shuo Wang, ZhiChao Wang et al. | [Abstract](https://arxiv.org/abs/2511.20330) · [PDF](https://arxiv.org/pdf/2511.20330) | rule-assigned |
-| 2025-11-14 | Sashimi-Bot: Autonomous Tri-manual Advanced Manipulation and Cutting of Deformable Objects | Sverre Herland, Amit Parag, Elling Ruud Øye, Fangyi Zhang et al. | [Abstract](https://arxiv.org/abs/2511.11223) · [PDF](https://arxiv.org/pdf/2511.11223) | rule-assigned |
 | 2025-11-06 | ForeRobo: Unlocking Infinite Simulation Data for 3D Goal-driven Robotic Manipulation | Dexin wang, Faliang Chang, Chunsheng Liu | [Abstract](https://arxiv.org/abs/2511.04381) · [PDF](https://arxiv.org/pdf/2511.04381) | rule-assigned |
 | 2025-10-29 | SynHLMA:Synthesizing Hand Language Manipulation for Articulated Object with Discrete Human Object Interaction Representation | Wang zhi, Yuyan Liu, Liu Liu, Li Zhang et al. | [Abstract](https://arxiv.org/abs/2510.25268) · [PDF](https://arxiv.org/pdf/2510.25268) | rule-assigned |
 | 2025-10-17 | Towards Automated Chicken Deboning via Learning-based Dynamically-Adaptive 6-DoF Multi-Material Cutting | Zhaodong Yang, Ai-Ping Hu, Harish Ravichandar | [Abstract](https://arxiv.org/abs/2510.15376) · [PDF](https://arxiv.org/pdf/2510.15376) | rule-assigned |
@@ -138,12 +139,12 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2024-12-13 | Ensuring Force Safety in Vision-Guided Robotic Manipulation via Implicit Tactile Calibration | Lai Wei, Jiahua Ma, Yibo Hu, Ruimao Zhang | [Abstract](https://arxiv.org/abs/2412.10349) · [PDF](https://arxiv.org/pdf/2412.10349) | rule-assigned |
 | 2024-12-11 | Subspace-wise Hybrid RL for Articulated Object Manipulation | Yujin Kim, Sol Choi, Bum-Jae You, Keunwoo Jang et al. | [Abstract](https://arxiv.org/abs/2412.08522) · [PDF](https://arxiv.org/pdf/2412.08522) | rule-assigned |
 | 2024-11-28 | Semi-Supervised Neural Processes for Articulated Object Interactions | Emily Liu, Michael Noseworthy, Nicholas Roy | [Abstract](https://arxiv.org/abs/2412.00145) · [PDF](https://arxiv.org/pdf/2412.00145) | rule-assigned |
-| 2024-11-19 | GLOVER: Generalizable Open-Vocabulary Affordance Reasoning for Task-Oriented Grasping | Teli Ma, Zifan Wang, Jiaming Zhou, Mengmeng Wang et al. | [Abstract](https://arxiv.org/abs/2411.12286) · [PDF](https://arxiv.org/pdf/2411.12286) | rule-assigned |
 | 2024-11-14 | Vision-based Manipulation of Transparent Plastic Bags in Industrial Setups | F. Adetunji, A. Karukayil, P. Samant, S. Shabana et al. | [Abstract](https://arxiv.org/abs/2411.09623) · [PDF](https://arxiv.org/pdf/2411.09623) | rule-assigned |
 | 2024-10-09 | FlowBotHD: History-Aware Diffuser Handling Ambiguities in Articulated Objects Manipulation | Yishu Li, Wen Hui Leng, Yiming Fang, Ben Eisner et al. | [Abstract](https://arxiv.org/abs/2410.07078) · [PDF](https://arxiv.org/pdf/2410.07078) | rule-assigned |
 | 2024-09-26 | Robot See Robot Do: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction | Justin Kerr, Chung Min Kim, Mingxuan Wu, Brent Yi et al. | [Abstract](https://arxiv.org/abs/2409.18121) · [PDF](https://arxiv.org/pdf/2409.18121) | rule-assigned |
 | 2024-09-24 | Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking | Xi Wang, Tianxing Chen, Qiaojun Yu, Tianling Xu et al. | [Abstract](https://arxiv.org/abs/2409.16287) · [PDF](https://arxiv.org/pdf/2409.16287) | rule-assigned |
 | 2024-09-23 | Skills Made to Order: Efficient Acquisition of Robot Cooking Skills Guided by Multiple Forms of Internet Data | Mrinal Verghese, Christopher Atkeson | [Abstract](https://arxiv.org/abs/2409.15172) · [PDF](https://arxiv.org/pdf/2409.15172) | rule-assigned |
+| 2024-09-21 | ScissorBot: Learning Generalizable Scissor Skill for Paper Cutting via Simulation, Imitation, and Sim2Real | Jiangran Lyu, Yuxing Chen, Tao Du, Feng Zhu et al. | [Abstract](https://arxiv.org/abs/2409.13966) · [PDF](https://arxiv.org/pdf/2409.13966) | rule-assigned |
 | 2024-09-17 | PLATO: Planning with LLMs and Affordances for Tool Manipulation | Arvind Car, Sai Sravan Yarlagadda, Alison Bartsch, Abraham George et al. | [Abstract](https://arxiv.org/abs/2409.11580) · [PDF](https://arxiv.org/pdf/2409.11580) | rule-assigned |
 | 2024-09-14 | Behavior Tree Generation using Large Language Models for Sequential Manipulation Planning with Human Instructions and Feedback | Jicong Ao, Yansong Wu, Fan Wu, Sami Haddadin | [Abstract](https://arxiv.org/abs/2409.09435) · [PDF](https://arxiv.org/pdf/2409.09435) | rule-assigned |
 | 2024-09-03 | GraspSplats: Efficient Manipulation with 3D Feature Splatting | Mazeyu Ji, Ri-Zhao Qiu, Xueyan Zou, Xiaolong Wang | [Abstract](https://arxiv.org/abs/2409.02084) · [PDF](https://arxiv.org/pdf/2409.02084) | rule-assigned |
@@ -151,6 +152,7 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2024-08-19 | Learning Precise Affordances from Egocentric Videos for Robotic Manipulation | Gen Li, Nikolaos Tsagkas, Jifei Song, Ruaridh Mon-Williams et al. | [Abstract](https://arxiv.org/abs/2408.10123) · [PDF](https://arxiv.org/pdf/2408.10123) | rule-assigned |
 | 2024-07-19 | Efficient and Safe Contact-rich pHRI via Subtask Detection and Motion Estimation using Deep Learning | Pouya P. Niaz, Engin Erzin, Cagatay Basdogan | [Abstract](https://arxiv.org/abs/2407.14161) · [PDF](https://arxiv.org/pdf/2407.14161) | rule-assigned |
 | 2024-07-16 | Tool Shape Optimization through Backpropagation of Neural Network | Kento Kawaharazuka, Toru Ogawa, Cota Nabeshima | [Abstract](https://arxiv.org/abs/2407.12202) · [PDF](https://arxiv.org/pdf/2407.12202) | rule-assigned |
+| 2024-06-24 | Stable Tool-Use with Flexible Musculoskeletal Hands by Learning the Predictive Model of Sensor State Transition | Kento Kawaharazuka, Kei Tsuzuki, Moritaka Onitsuka, Yuki Asano et al. | [Abstract](https://arxiv.org/abs/2406.17136) · [PDF](https://arxiv.org/pdf/2406.17136) | rule-assigned |
 | 2024-06-17 | AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation | Chuyan Xiong, Chengyu Shen, Xiaoqi Li, Kaichen Zhou et al. | [Abstract](https://arxiv.org/abs/2406.11548) · [PDF](https://arxiv.org/pdf/2406.11548) | rule-assigned |
 | 2024-05-19 | URDFormer: A Pipeline for Constructing Articulated Simulation Environments from Real-World Images | Zoey Chen, Aaron Walsman, Marius Memmel, Kaichun Mo et al. | [Abstract](https://arxiv.org/abs/2405.11656) · [PDF](https://arxiv.org/pdf/2405.11656) | rule-assigned |
 | 2024-05-02 | Large Language Models for UAVs: Current State and Pathways to the Future | Shumaila Javaid, Nasir Saeed, Bin He | [Abstract](https://arxiv.org/abs/2405.01745) · [PDF](https://arxiv.org/pdf/2405.01745) | rule-assigned |
@@ -169,10 +171,10 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2023-11-06 | Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs | Wenke Xia, Dong Wang, Xincheng Pang, Zhigang Wang et al. | [Abstract](https://arxiv.org/abs/2311.02847) · [PDF](https://arxiv.org/pdf/2311.02847) | rule-assigned |
 | 2023-11-02 | The Power of the Senses: Generalizable Manipulation from Vision and Touch through Masked Multimodal Learning | Carmelo Sferrazza, Younggyo Seo, Hao Liu, Youngwoon Lee et al. | [Abstract](https://arxiv.org/abs/2311.00924) · [PDF](https://arxiv.org/pdf/2311.00924) | rule-assigned |
 | 2023-11-01 | Learning to Design and Use Tools for Robotic Manipulation | Ziang Liu, Stephen Tian, Michelle Guo, C. Karen Liu et al. | [Abstract](https://arxiv.org/abs/2311.00754) · [PDF](https://arxiv.org/pdf/2311.00754) | rule-assigned |
+| 2023-10-24 | AO-Grasp: Articulated Object Grasp Generation | Carlota Parés Morlans, Claire Chen, Yijia Weng, Michelle Yi et al. | [Abstract](https://arxiv.org/abs/2310.15928) · [PDF](https://arxiv.org/pdf/2310.15928) | rule-assigned |
 | 2023-10-19 | Creative Robot Tool Use with Large Language Models | Mengdi Xu, Peide Huang, Wenhao Yu, Shiqi Liu et al. | [Abstract](https://arxiv.org/abs/2310.13065) · [PDF](https://arxiv.org/pdf/2310.13065) | rule-assigned |
 | 2023-10-18 | Simultaneous Learning of Contact and Continuous Dynamics | Bibit Bianchini, Mathew Halm, Michael Posa | [Abstract](https://arxiv.org/abs/2310.12054) · [PDF](https://arxiv.org/pdf/2310.12054) | rule-assigned |
 | 2023-10-13 | ImageManip: Image-based Robotic Manipulation with Affordance-guided Next View Selection | Xiaoqi Li, Yanzi Wang, Yan Shen, Ponomarenko Iaroslav et al. | [Abstract](https://arxiv.org/abs/2310.09069) · [PDF](https://arxiv.org/pdf/2310.09069) | rule-assigned |
-| 2023-10-03 | Spherical Rolling Robots Design, Modeling, and Control: A Systematic Literature Review | Aminata Diouf, Bruno Belzile, Maarouf Saad, David St-Onge | [Abstract](https://arxiv.org/abs/2310.02240) · [PDF](https://arxiv.org/pdf/2310.02240) | rule-assigned |
 
 ---
 

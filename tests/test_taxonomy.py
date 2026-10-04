@@ -21,7 +21,7 @@ class TaxonomyClassifierTests(unittest.TestCase):
         self.assertEqual(meta["subcategory_count"], 42)
         self.assertEqual(meta["specialty_count"], 126)
         self.assertEqual(meta["fallback_specialty_count"], 42)
-        self.assertEqual(meta["version"], 3)
+        self.assertEqual(meta["version"], 4)
 
     def test_three_retargeting_families_share_one_parent(self):
         cases = {
@@ -102,6 +102,68 @@ class TaxonomyClassifierTests(unittest.TestCase):
         self.assertEqual(spec, "Diffusion Policies")
         _, spec, _ = classify_hierarchy(TRACKS[0], "Flow Matching for Robot Control")
         self.assertEqual(spec, "Flow-matching Policies")
+
+    def test_generic_dexterity_does_not_become_hand_retargeting(self):
+        p = annotate_paper(paper("Learning Dexterous Manipulation with Quantized Hand State"))
+        self.assertEqual(p["subcategory"], "Multifinger Grasping & Control")
+        self.assertEqual(p["subcategory_status"], "provisional")
+        self.assertEqual(p["classification_status"], "needs-review")
+        self.assertNotIn("Hand Retargeting", p["related_topics"])
+
+    def test_title_parent_controls_abstract_background_matches(self):
+        cases = [
+            ("Learning In-Hand Translation Using Tactile Skin with Shear and Normal Force Sensing", "In-hand Manipulation"),
+            ("Learning Universal Dexterous Grasping with Synthetic Data", "Multifinger Grasping & Control"),
+            ("A Shared Autonomy System for Dexterous Teleoperation", "Teleoperation & Shared Control"),
+        ]
+        for title, parent in cases:
+            with self.subTest(title=title):
+                p = annotate_paper(paper(title, "We compare baselines using hand retargeting, geometric retargeting and physics based retargeting."))
+                self.assertEqual(p["subcategory"], parent)
+                self.assertNotIn("Hand Retargeting", p["related_topics"])
+
+    def test_abstract_terms_cannot_outvote_explicit_diffusion_title(self):
+        p = annotate_paper(paper("Diffusion Policy for Robot Control",
+                                "Baselines use flow matching, flow policy, flow policies, action token and action tokenizer."))
+        self.assertEqual(p["specialty"], "Diffusion Policies")
+
+    def test_hand_design_is_hardware_not_hand_retargeting(self):
+        p = annotate_paper(paper("MultiHand: Design and Verification of a Dexterous Hand with Multi-modal Grasping Capabilities"))
+        self.assertEqual(p["track"], TRACKS[8])
+        self.assertEqual(p["subcategory"], "Mechanisms & Actuation")
+        self.assertNotIn("Hand Retargeting", p["related_topics"])
+
+    def test_simulation_framework_is_infrastructure_not_retargeting(self):
+        p = annotate_paper(paper("ETac: A Lightweight and Efficient Tactile Simulation Framework for Learning Dexterous Manipulation"))
+        self.assertEqual(p["track"], TRACKS[7])
+        self.assertEqual(p["subcategory"], "Simulation & Digital Twins")
+        self.assertNotIn("Hand Retargeting", p["related_topics"])
+
+    def test_sensor_fusion_is_perception_not_sensor_hardware(self):
+        p = annotate_paper(paper("Sensor Fusion for State Estimation in Humanoid Robots"))
+        self.assertEqual(p["track"], TRACKS[5])
+
+    def test_retargeting_topics_are_hierarchically_consistent(self):
+        for title in ("SPIDER: Scalable Physics-Informed Dexterous Retargeting",
+                      "Motion Retargeting for Humanoid Whole-Body Control"):
+            p = annotate_paper(paper(title))
+            self.assertIn("Retargeting", p["related_topics"])
+            self.assertTrue(set(p["related_topics"]) & {"Hand Retargeting", "Whole-body Retargeting"})
+
+    def test_negative_title_cannot_support_demonstration_transfer(self):
+        p = annotate_paper(paper("CoDex: Learning Compositional Dexterous Functional Manipulation without Demonstrations",
+                                "Other approaches learn from human demonstrations and human videos."))
+        self.assertNotEqual(p["subcategory"], "Human Demonstrations to Dexterous Skills")
+
+    def test_retargeting_free_title_does_not_acquire_hand_retargeting(self):
+        p = annotate_paper(paper("Dexterous Hand Control without Retargeting"))
+        self.assertNotEqual(p["subcategory"], "Dexterous Hand Retargeting")
+        self.assertNotIn("Hand Retargeting", p["related_topics"])
+
+    def test_force_feedback_glove_is_a_device_contribution(self):
+        p = annotate_paper(paper("CDF-Glove: A Cable-Driven Force Feedback Glove for Dexterous Teleoperation"))
+        self.assertEqual(p["track"], TRACKS[8])
+        self.assertEqual(p["subcategory"], "Sensors & Human Interfaces")
 
 
 if __name__ == "__main__":

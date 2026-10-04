@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Goal%20%26%20Language%20Navigation&specialty=Vision-Language%20Navigation#research-workbench)
 
-> 34 conference papers · 263 recent arXiv papers
+> 33 conference papers · 256 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,8 +14,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
+A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (34)
+## Conference papers (33)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
@@ -37,7 +38,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025 | Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2505.11383) · [Index](https://dblp.org/rec/journals/corr/abs-2505-11383) | rule-assigned |
 | 2025 | SimWorld-Robotics: Synthesizing Photorealistic and Dynamic Urban Environments for Multimodal Robot Navigation and Collaboration | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2512.10046) · [Index](https://dblp.org/rec/journals/corr/abs-2512-10046) | rule-assigned |
 | 2024 | InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment | CoRL · Navigation | [Paper](https://arxiv.org/abs/2406.04882) · [Index](https://dblp.org/rec/conf/corl/LongCWZ024) | rule-assigned |
-| 2024 | Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs | CoRL · Vla | [Paper](https://arxiv.org/abs/2407.07775) · [Index](https://dblp.org/rec/conf/corl/XuCFJZL0SRS0HHF24) | rule-assigned |
 | 2024 | Sim-to-Real Transfer via 3D Feature Fields for Vision-and-Language Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2406.09798) · [Index](https://dblp.org/rec/conf/corl/WangLYLJ24) | rule-assigned |
 | 2024 | NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models | ECCV · Language Model | [Paper](https://arxiv.org/abs/2407.12366) · [Index](https://dblp.org/rec/conf/eccv/ZhouHWWW24) | rule-assigned |
 | 2024 | Discuss Before Moving: Visual Language Navigation via Multi-expert Discussions | ICRA · Navigation | [Paper](https://arxiv.org/abs/2309.11382) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611565) | rule-assigned |
@@ -54,7 +54,7 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2022 | Depth-Aware Vision-and-Language Navigation using Scene Query Attention Network | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811921) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811921) | rule-assigned |
 | 2022 | Weakly-Supervised Multi-Granularity Map Learning for Vision-and-Language Navigation | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.07506) · [Index](https://dblp.org/rec/conf/nips/ChenJLZLTG22) | rule-assigned |
 
-## Recent arXiv papers (263)
+## Recent arXiv papers (256)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -114,7 +114,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-07-15 | Joint On-and-Off Policy Learning for Vision-and-Language Navigation | Qingrong He, Lin Zhao, Kevin Zheng, Liang Lin | [Abstract](https://arxiv.org/abs/2607.13461) · [PDF](https://arxiv.org/pdf/2607.13461) | rule-assigned |
 | 2026-07-14 | Instance-Enriched Semantic Maps for Visual Language Navigation | Jiho Hong, Eunae Kang, Sanghyun Kim, Young-Sik Shin | [Abstract](https://arxiv.org/abs/2607.12630) · [PDF](https://arxiv.org/pdf/2607.12630) | rule-assigned |
 | 2026-07-13 | DA-Nav: Direction-Aware City-Scale Vision-Language Navigation | Ye Yuan, Kehan Chen, Xinqiang Yu, Wentao Xu et al. | [Abstract](https://arxiv.org/abs/2607.11638) · [PDF](https://arxiv.org/pdf/2607.11638) | rule-assigned |
-| 2026-07-12 | Traj-VLN: Learning Pixel-Space Interaction via Autoregressive Trajectory Generation | Changfei Fu, Guangcheng Chen, Aoxiang Gu, Haoxiang Liang et al. | [Abstract](https://arxiv.org/abs/2607.10744) · [PDF](https://arxiv.org/pdf/2607.10744) | rule-assigned |
 | 2026-07-11 | ABot-N1: Toward a General Visual Language Navigation Foundation Model | Ruiyan Gong, Yingnan Guo, Junjun Hu, Jintao Kong et al. | [Abstract](https://arxiv.org/abs/2607.10383) · [PDF](https://arxiv.org/pdf/2607.10383) | rule-assigned |
 | 2026-07-09 | FSD-VLN: Fast-Slow Dual-System Modeling for Aerial Long-Horizon Vision-Language Navigation | Xueke Zhu, Qingyan Meng, Liutao Yu, Wei Zhang et al. | [Abstract](https://arxiv.org/abs/2607.08359) · [PDF](https://arxiv.org/pdf/2607.08359) | rule-assigned |
 | 2026-07-09 | Early to Share, Late to Save: Synchronisation-Driven Communication Gating in Bandwidth-Constrained Cooperative VLN | Arav Gupta, Nivedan Yakolli, Avinash Gautam | [Abstract](https://arxiv.org/abs/2607.08504) · [PDF](https://arxiv.org/pdf/2607.08504) | rule-assigned |
@@ -137,7 +136,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-06-01 | Hierarchical Semantic-Augmented Navigation: Optimal Transport and Graph-Driven Reasoning for Vision-Language Navigation | Xiang Fang, Wanlong Fang, Changshuo Wang | [Abstract](https://arxiv.org/abs/2606.01565) · [PDF](https://arxiv.org/pdf/2606.01565) | rule-assigned |
 | 2026-06-01 | Goal2Pixel: Grounding Goals to Pixels for Vision-Language Navigation | Muyi Bao, Yuxin Cai, Hang Xu, Zongtai Li et al. | [Abstract](https://arxiv.org/abs/2606.01621) · [PDF](https://arxiv.org/pdf/2606.01621) | rule-assigned |
 | 2026-05-31 | ImagineUAV: Aerial Vision-Language Navigation via World-Action Modeling and Kinodynamic Planning | Xuchen Liu, Jiawei Huang, Shihao Xia, Bingxi Liu et al. | [Abstract](https://arxiv.org/abs/2606.01205) · [PDF](https://arxiv.org/pdf/2606.01205) | rule-assigned |
-| 2026-05-29 | TARIC: Memory-Augmented Traversability-Aware Outdoor VLN under Interrupted Semantic Cues | Tianle Zeng, Hanjing Ye, Jianwei Peng, Jingwen Yu et al. | [Abstract](https://arxiv.org/abs/2605.31121) · [PDF](https://arxiv.org/pdf/2605.31121) | rule-assigned |
 | 2026-05-27 | POINav: Benchmarking and Enhancing Final-Meters Arrival in Real-World Vision-Language Navigation | Ruiyan Gong, Meisheng Zhang, Yuxiang Zhao, Mingchao Sun et al. | [Abstract](https://arxiv.org/abs/2605.28237) · [PDF](https://arxiv.org/pdf/2605.28237) | rule-assigned |
 | 2026-05-25 | G-DRAGON: Geospatial Reasoning and Dynamic Planning for Retrieval-Augmented Outdoor Navigation | Dongzhihan Wang, Yi Du, Jianan Sun, Yuan Xue et al. | [Abstract](https://arxiv.org/abs/2605.25646) · [PDF](https://arxiv.org/pdf/2605.25646) | rule-assigned |
 | 2026-05-25 | Bridging the 2D-3D Gap: A Hierarchical Semantic-Geometric Map for Vision Language Navigation | Kailing Li, Tianwen Qian, Lijin Yang, Yuqian Fu et al. | [Abstract](https://arxiv.org/abs/2606.00095) · [PDF](https://arxiv.org/pdf/2606.00095) | rule-assigned |
@@ -174,7 +172,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-03-18 | FloorPlan-VLN: A New Paradigm for Floor Plan Guided Vision-Language Navigation | Kehan Chen, Yan Huang, Dong An, Jiawei He et al. | [Abstract](https://arxiv.org/abs/2603.17437) · [PDF](https://arxiv.org/pdf/2603.17437) | rule-assigned |
 | 2026-03-18 | AgentVLN: Towards Agentic Vision-and-Language Navigation | Zihao Xin, Wentong Li, Yixuan Jiang, Ziyuan Huang et al. | [Abstract](https://arxiv.org/abs/2603.17670) · [PDF](https://arxiv.org/pdf/2603.17670) | rule-assigned |
 | 2026-03-16 | HiMemVLN: Enhancing Reliability of Open-Source Zero-Shot Vision-and-Language Navigation with Hierarchical Memory System | Kailin Lyu, Kangyi Wu, Pengna Li, Xiuyu Hu et al. | [Abstract](https://arxiv.org/abs/2603.14807) · [PDF](https://arxiv.org/pdf/2603.14807) | rule-assigned |
-| 2026-03-15 | AerialVLA: A Vision-Language-Action Model for UAV Navigation via Minimalist End-to-End Control | Peng Xu, Zhengnan Deng, Jiayan Deng, Zonghua Gu et al. | [Abstract](https://arxiv.org/abs/2603.14363) · [PDF](https://arxiv.org/pdf/2603.14363) | rule-assigned |
 | 2026-03-14 | ImagiNav: Scalable Embodied Navigation via Generative Visual Prediction and Inverse Dynamics | Jie Chen, Yuxin Cai, Yizhuo Wang, Ruofei Bai et al. | [Abstract](https://arxiv.org/abs/2603.13833) · [PDF](https://arxiv.org/pdf/2603.13833) | rule-assigned |
 | 2026-03-13 | HaltNav: Reactive Visual Halting over Lightweight Topological Priors for Robust Vision-Language Navigation | Zihui Yu, Pingcong Li, Bichi Zhang, Sören Schwertfeger | [Abstract](https://arxiv.org/abs/2603.12696) · [PDF](https://arxiv.org/pdf/2603.12696) | rule-assigned |
 | 2026-03-13 | DecoVLN: Decoupling Observation, Reasoning, and Correction for Vision-and-Language Navigation | Zihao Xin, Wentong Li, Yixuan Jiang, Bin Wang et al. | [Abstract](https://arxiv.org/abs/2603.13133) · [PDF](https://arxiv.org/pdf/2603.13133) | rule-assigned |
@@ -193,7 +190,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2026-02-27 | Enhancing Vision-Language Navigation with Multimodal Event Knowledge from Real-World Indoor Tour Videos | Haoxuan Xu, Tianfu Li, Wenbo Chen, Yi Liu et al. | [Abstract](https://arxiv.org/abs/2602.23937) · [PDF](https://arxiv.org/pdf/2602.23937) | rule-assigned |
 | 2026-02-20 | CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation | Xia Su, Ruiqi Chen, Benlin Liu, Jingwei Ma et al. | [Abstract](https://arxiv.org/abs/2602.18424) · [PDF](https://arxiv.org/pdf/2602.18424) | rule-assigned |
 | 2026-02-17 | One Agent to Guide Them All: Empowering MLLMs for Vision-and-Language Navigation via Explicit World Representation | Zerui Li, Hongpei Zheng, Fangguo Zhao, Aidan Chan et al. | [Abstract](https://arxiv.org/abs/2602.15400) · [PDF](https://arxiv.org/pdf/2602.15400) | rule-assigned |
-| 2026-02-10 | AutoFly: Vision-Language-Action Model for UAV Autonomous Navigation in the Wild | Xiaolou Sun, Wufei Si, Wenhui Ni, Yuntian Li et al. | [Abstract](https://arxiv.org/abs/2602.09657) · [PDF](https://arxiv.org/pdf/2602.09657) | rule-assigned |
 | 2026-02-07 | LCLA: Language-Conditioned Latent Alignment for Vision-Language Navigation | Nitesh Subedi, Adam Haroon, Samuel Tetteh, Prajwal Koirala et al. | [Abstract](https://arxiv.org/abs/2602.07629) · [PDF](https://arxiv.org/pdf/2602.07629) | rule-assigned |
 | 2026-02-06 | Nipping the Drift in the Bud: Retrospective Rectification for Robust Vision-Language Navigation | Gang He, Zhenyang Liu, Kepeng Xu, Li Xu et al. | [Abstract](https://arxiv.org/abs/2602.06356) · [PDF](https://arxiv.org/pdf/2602.06356) | rule-assigned |
 | 2026-02-05 | VLN-Pilot: Large Vision-Language Model as an Autonomous Indoor Drone Operator | Bessie Dominguez-Dager, Sergio Suescun-Ferrandiz, Felix Escalona, Francisco Gomez-Donoso et al. | [Abstract](https://arxiv.org/abs/2602.05552) · [PDF](https://arxiv.org/pdf/2602.05552) | rule-assigned |
@@ -230,7 +226,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025-09-26 | See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation | Chih Yao Hu, Yang-Sen Lin, Yuna Lee, Chih-Hai Su et al. | [Abstract](https://arxiv.org/abs/2509.22653) · [PDF](https://arxiv.org/pdf/2509.22653) | rule-assigned |
 | 2025-09-26 | JanusVLN: Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation | Shuang Zeng, Dekang Qi, Xinyuan Chang, Feng Xiong et al. | [Abstract](https://arxiv.org/abs/2509.22548) · [PDF](https://arxiv.org/pdf/2509.22548) | rule-assigned |
 | 2025-09-24 | Boosting Zero-Shot VLN via Abstract Obstacle Map-Based Waypoint Prediction with TopoGraph-and-VisitInfo-Aware Prompting | Boqi Li, Siyuan Li, Weiyi Wang, Anran Li et al. | [Abstract](https://arxiv.org/abs/2509.20499) · [PDF](https://arxiv.org/pdf/2509.20499) | rule-assigned |
-| 2025-09-23 | VLN-Zero: Rapid Exploration and Cache-Enabled Neurosymbolic Vision-Language Planning for Zero-Shot Transfer in Robot Navigation | Neel P. Bhatt, Yunhao Yang, Rohan Siva, Pranay Samineni et al. | [Abstract](https://arxiv.org/abs/2509.18592) · [PDF](https://arxiv.org/pdf/2509.18592) | rule-assigned |
 | 2025-09-23 | SINGER: An Onboard Generalist Vision-Language Navigation Policy for Drones | Maximilian Adang, JunEn Low, Ola Shorinwa, Mac Schwager | [Abstract](https://arxiv.org/abs/2509.18610) · [PDF](https://arxiv.org/pdf/2509.18610) | rule-assigned |
 | 2025-09-17 | FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph | Xiaolin Zhou, Tingyang Xiao, Liu Liu, Yucheng Wang et al. | [Abstract](https://arxiv.org/abs/2509.13733) · [PDF](https://arxiv.org/pdf/2509.13733) | rule-assigned |
 | 2025-09-16 | ActiveVLN: Towards Active Exploration via Multi-Turn RL in Vision-and-Language Navigation | Zekai Zhang, Weiye Zhu, Hewei Pan, Xiangchen Wang et al. | [Abstract](https://arxiv.org/abs/2509.12618) · [PDF](https://arxiv.org/pdf/2509.12618) | rule-assigned |
@@ -238,7 +233,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025-09-14 | DreamNav: A Trajectory-Based Imaginative Framework for Zero-Shot Vision-and-Language Navigation | Yunheng Wang, Yuetong Fang, Taowen Wang, Yixiao Feng et al. | [Abstract](https://arxiv.org/abs/2509.11197) · [PDF](https://arxiv.org/pdf/2509.11197) | rule-assigned |
 | 2025-09-12 | GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation | Hang Yin, Haoyu Wei, Xiuwei Xu, Wenxuan Guo et al. | [Abstract](https://arxiv.org/abs/2509.10454) · [PDF](https://arxiv.org/pdf/2509.10454) | rule-assigned |
 | 2025-09-08 | T-araVLN: Translator for Agricultural Robotic Agents on Vision-and-Language Navigation | Xiaobei Zhao, Xingqi Lyu, Xin Chen, Xiang Li | [Abstract](https://arxiv.org/abs/2509.06644) · [PDF](https://arxiv.org/pdf/2509.06644) | rule-assigned |
-| 2025-08-14 | CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model | Zhuoyuan Yu, Yuxing Long, Zihan Yang, Chengyan Zeng et al. | [Abstract](https://arxiv.org/abs/2508.10416) · [PDF](https://arxiv.org/pdf/2508.10416) | rule-assigned |
 | 2025-08-13 | DAgger Diffusion Navigation: DAgger Boosted Diffusion Policy for Vision-Language Navigation | Haoxiang Shi, Xiang Deng, Zaijing Li, Gongwei Chen et al. | [Abstract](https://arxiv.org/abs/2508.09444) · [PDF](https://arxiv.org/pdf/2508.09444) | rule-assigned |
 | 2025-08-10 | AgriVLN: Vision-and-Language Navigation for Agricultural Robots | Xiaobei Zhao, Xingqi Lyu, Xiang Li | [Abstract](https://arxiv.org/abs/2508.07406) · [PDF](https://arxiv.org/pdf/2508.07406) | rule-assigned |
 | 2025-08-04 | MonoDream: Monocular Vision-Language Navigation with Panoramic Dreaming | Shuo Wang, Yongcai Wang, Zhaoxin Fan, Yucheng Wang et al. | [Abstract](https://arxiv.org/abs/2508.02549) · [PDF](https://arxiv.org/pdf/2508.02549) | rule-assigned |
@@ -257,6 +251,7 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025-06-11 | A Navigation Framework Utilizing Vision-Language Models | Yicheng Duan, Kaiyu tang | [Abstract](https://arxiv.org/abs/2506.10172) · [PDF](https://arxiv.org/pdf/2506.10172) | rule-assigned |
 | 2025-06-07 | Active Test-time Vision-Language Navigation | Heeju Ko, Sungjune Kim, Gyeongrok Oh, Jeongyoon Yoon et al. | [Abstract](https://arxiv.org/abs/2506.06630) · [PDF](https://arxiv.org/pdf/2506.06630) | rule-assigned |
 | 2025-06-03 | Language-Guided Generation for Personalized Inspection Planning | Xingpeng Sun, Zherong Pan, Xifeng Gao, Kui Wu et al. | [Abstract](https://arxiv.org/abs/2506.02917) · [PDF](https://arxiv.org/pdf/2506.02917) | rule-assigned |
+| 2025-06-02 | DualMap: Online Open-Vocabulary Semantic Mapping for Natural Language Navigation in Dynamic Changing Scenes | Jiajun Jiang, Yiming Zhu, Zirui Wu, Jie Song | [Abstract](https://arxiv.org/abs/2506.01950) · [PDF](https://arxiv.org/pdf/2506.01950) | rule-assigned |
 | 2025-05-27 | Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation | Pingrui Zhang, Yifei Su, Pengyuan Wu, Dong An et al. | [Abstract](https://arxiv.org/abs/2505.20897) · [PDF](https://arxiv.org/pdf/2505.20897) | rule-assigned |
 | 2025-05-18 | BadNAVer: Exploring Jailbreak Attacks On Vision-and-Language Navigation | Wenqi Lyu, Zerui Li, Yanyuan Qiao, Qi Wu | [Abstract](https://arxiv.org/abs/2505.12443) · [PDF](https://arxiv.org/pdf/2505.12443) | rule-assigned |
 | 2025-05-17 | Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation | Shuo Wang, Yongcai Wang, Wanting Li, Xudong Cai et al. | [Abstract](https://arxiv.org/abs/2505.11886) · [PDF](https://arxiv.org/pdf/2505.11886) | rule-assigned |
@@ -264,7 +259,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2025-05-09 | VISTA: Generative Visual Imagination for Vision-and-Language Navigation | Yanjia Huang, Mingyang Wu, Renjie Li, Zhengzhong Tu | [Abstract](https://arxiv.org/abs/2505.07868) · [PDF](https://arxiv.org/pdf/2505.07868) | rule-assigned |
 | 2025-05-08 | CityNavAgent: Aerial Vision-and-Language Navigation with Hierarchical Semantic Planning and Global Memory | Weichen Zhang, Chen Gao, Shiquan Yu, Ruiying Peng et al. | [Abstract](https://arxiv.org/abs/2505.05622) · [PDF](https://arxiv.org/pdf/2505.05622) | rule-assigned |
 | 2025-05-06 | LogisticsVLN: Vision-Language Navigation For Low-Altitude Terminal Delivery Based on Agentic UAVs | Xinyuan Zhang, Yonglin Tian, Fei Lin, Yue Liu et al. | [Abstract](https://arxiv.org/abs/2505.03460) · [PDF](https://arxiv.org/pdf/2505.03460) | rule-assigned |
-| 2025-05-06 | Automated Data Curation Using GPS & NLP to Generate Instruction-Action Pairs for Autonomous Vehicle Vision-Language Navigation Datasets | Guillermo Roque, Erika Maquiling, Jose Giovanni Tapia Lopez, Ross Greer | [Abstract](https://arxiv.org/abs/2505.03174) · [PDF](https://arxiv.org/pdf/2505.03174) | rule-assigned |
 | 2025-04-30 | UAV-VLN: End-to-End Vision Language guided Navigation for UAVs | Pranav Saxena, Nishant Raghuvanshi, Neena Goveas | [Abstract](https://arxiv.org/abs/2504.21432) · [PDF](https://arxiv.org/pdf/2504.21432) | rule-assigned |
 | 2025-04-30 | DOPE: Dual Object Perception-Enhancement Network for Vision-and-Language Navigation | Yinfeng Yu, Dongsheng Yang | [Abstract](https://arxiv.org/abs/2505.00743) · [PDF](https://arxiv.org/pdf/2505.00743) | rule-assigned |
 | 2025-04-14 | ST-Booster: An Iterative SpatioTemporal Perception Booster for Vision-and-Language Navigation in Continuous Environments | Lu Yue, Dongliang Zhou, Liang Xie, Erwei Yin et al. | [Abstract](https://arxiv.org/abs/2504.09843) · [PDF](https://arxiv.org/pdf/2504.09843) | rule-assigned |
@@ -298,7 +292,6 @@ Rule-derived assignments are not full-paper reviews. See the [classification gui
 | 2024-08-08 | UNMuTe: Unifying Navigation and Multimodal Dialogue-like Text Generation | Niyati Rawal, Roberto Bigazzi, Lorenzo Baraldi, Rita Cucchiara | [Abstract](https://arxiv.org/abs/2408.04423) · [PDF](https://arxiv.org/pdf/2408.04423) | rule-assigned |
 | 2024-07-31 | Navigating Beyond Instructions: Vision-and-Language Navigation in Obstructed Environments | Haodong Hong, Sen Wang, Zi Huang, Qi Wu et al. | [Abstract](https://arxiv.org/abs/2407.21452) · [PDF](https://arxiv.org/pdf/2407.21452) | rule-assigned |
 | 2024-07-17 | NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models | Gengze Zhou, Yicong Hong, Zun Wang, Xin Eric Wang et al. | [Abstract](https://arxiv.org/abs/2407.12366) · [PDF](https://arxiv.org/pdf/2407.12366) | rule-assigned |
-| 2024-07-10 | Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs | Hao-Tien Lewis Chiang, Zhuo Xu, Zipeng Fu, Mithun George Jacob et al. | [Abstract](https://arxiv.org/abs/2407.07775) · [PDF](https://arxiv.org/pdf/2407.07775) | rule-assigned |
 | 2024-07-10 | Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems | Chashi Mahiul Islam, Shaeke Salman, Montasir Shams, Xiuwen Liu et al. | [Abstract](https://arxiv.org/abs/2407.07392) · [PDF](https://arxiv.org/pdf/2407.07392) | rule-assigned |
 | 2024-07-08 | Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation | Jiaqi Chen, Bingqian Lin, Xinmin Liu, Lin Ma et al. | [Abstract](https://arxiv.org/abs/2407.05890) · [PDF](https://arxiv.org/pdf/2407.05890) | rule-assigned |
 | 2024-06-27 | Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions | Heng Li, Minghan Li, Zhi-Qi Cheng, Yifei Dong et al. | [Abstract](https://arxiv.org/abs/2406.19236) · [PDF](https://arxiv.org/pdf/2406.19236) | rule-assigned |

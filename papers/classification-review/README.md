@@ -7,7 +7,7 @@ Rule assignments are suggestions, not full-paper reviews. Pending lists preserve
 
 ## conference
 
-Status counts: {'rule-assigned': 3095, 'needs-review': 1267, 'reviewed': 3}
+Status counts: {'rule-assigned': 2940, 'needs-review': 1422, 'reviewed': 3}
 
 - [Records 1–200](conference-001.md)
 - [Records 201–400](conference-002.md)
@@ -15,11 +15,12 @@ Status counts: {'rule-assigned': 3095, 'needs-review': 1267, 'reviewed': 3}
 - [Records 601–800](conference-004.md)
 - [Records 801–1000](conference-005.md)
 - [Records 1001–1200](conference-006.md)
-- [Records 1201–1267](conference-007.md)
+- [Records 1201–1400](conference-007.md)
+- [Records 1401–1422](conference-008.md)
 
 ## arxiv
 
-Status counts: {'rule-assigned': 20273, 'needs-review': 4962, 'reviewed': 22}
+Status counts: {'rule-assigned': 19899, 'needs-review': 5336, 'reviewed': 22}
 
 - [Records 1–200](arxiv-001.md)
 - [Records 201–400](arxiv-002.md)
@@ -45,5 +46,7 @@ Status counts: {'rule-assigned': 20273, 'needs-review': 4962, 'reviewed': 22}
 - [Records 4201–4400](arxiv-022.md)
 - [Records 4401–4600](arxiv-023.md)
 - [Records 4601–4800](arxiv-024.md)
-- [Records 4801–4962](arxiv-025.md)
+- [Records 4801–5000](arxiv-025.md)
+- [Records 5001–5200](arxiv-026.md)
+- [Records 5201–5336](arxiv-027.md)
 
