@@ -1,8 +1,12 @@
 # Behavior Cloning & Sequence Modeling · 行为克隆与序列建模
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Imitation%20Learning&specialty=Behavior%20Cloning%20%26%20Sequence%20Modeling#research-workbench)
 
-> 14 conference papers · 116 recent arXiv papers
+> 14 conference papers · 115 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -35,7 +39,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning | RSS · Behaviour Cloning | [Paper](https://arxiv.org/abs/2405.18196) · [Index](https://dblp.org/rec/conf/rss/VosyliusSUJ24) | rule-assigned |
 | 2023 | A Framework for Few-Shot Policy Transfer Through Observation Mapping and Behavior Cloning | IROS · Behavior Cloning | [Paper](https://arxiv.org/pdf/2310.08836) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342477) | rule-assigned |
 
-## Recent arXiv papers (116)
+## Recent arXiv papers (115)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -154,7 +158,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-30 | Large Trajectory Models are Scalable Motion Predictors and Planners | Qiao Sun, Shiduo Zhang, Danjiao Ma, Jingzhe Shi et al. | [Abstract](https://arxiv.org/abs/2310.19620) · [PDF](https://arxiv.org/pdf/2310.19620) | rule-assigned |
 | 2023-10-13 | A Framework for Few-Shot Policy Transfer through Observation Mapping and Behavior Cloning | Yash Shukla, Bharat Kesari, Shivam Goel, Robert Wright et al. | [Abstract](https://arxiv.org/abs/2310.08836) · [PDF](https://arxiv.org/pdf/2310.08836) | rule-assigned |
 | 2023-10-09 | Memory-Consistent Neural Networks for Imitation Learning | Kaustubh Sridhar, Souradeep Dutta, Dinesh Jayaraman, James Weimer et al. | [Abstract](https://arxiv.org/abs/2310.06171) · [PDF](https://arxiv.org/pdf/2310.06171) | rule-assigned |
-| 2023-10-03 | Human-Like Autonomous Driving on Dense Traffic | Mustafa Yildirim, Saber Fallah | [Abstract](https://arxiv.org/abs/2310.02477) · [PDF](https://arxiv.org/pdf/2310.02477) | rule-assigned |
 
 ---
 

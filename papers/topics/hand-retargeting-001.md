@@ -1,5 +1,9 @@
 # Hand Retargeting · 1–26
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Topic index](hand-retargeting.md)
 
 | Paper | Source layer | Primary path | Classification status |
@@ -7,6 +11,7 @@
 | [DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control](https://arxiv.org/abs/2607.05883) | conference · ICRA | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Kinematic & Pose Retargeting | reviewed |
 | [Pose Retargeting from a Single RGB Camera: Optimization-Based Hand Pose Retargeting and Wrist Pose Estimation](https://doi.org/10.1109/ICRA57385.2026.11697437) | conference · ICRA | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Kinematic & Pose Retargeting | reviewed |
 | [Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm](https://arxiv.org/abs/2503.07541) | conference · IROS | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Kinematic & Pose Retargeting | reviewed |
+| [EgoInfinity: A Web-Scale 4D Hand-Object Interaction Data Engine for Any-View Robot Retargeting and Video-to-Action Robot Learning](https://arxiv.org/abs/2606.17385) | arxiv · arXiv | Data, Simulation & Evaluation → Synthetic & Augmented Data → Cross-robot Data Conversion | reviewed |
 | [A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation](https://arxiv.org/abs/2607.11874) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Physics & Dynamics Retargeting | reviewed |
 | [AnyDexRT: Calibration-Free Dexterous Hand Retargeting with Few-Shot Human Guidance](https://arxiv.org/abs/2607.08341) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Kinematic & Pose Retargeting | reviewed |
 | [C2Dex: Contact-Consistent Reconstruction and Retargeting for Dexterous Manipulation from Monocular Video](https://arxiv.org/abs/2608.07045) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Contact & Functional Retargeting | reviewed |
@@ -14,7 +19,6 @@
 | [DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control](https://arxiv.org/abs/2607.05883) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Kinematic & Pose Retargeting | reviewed |
 | [Dexterous Robot Manipulation from Human Demonstrations via Contact-Anchored Retargeting and Residual Policy Learning](https://arxiv.org/abs/2609.24093) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Contact & Functional Retargeting | reviewed |
 | [DexTwist: Dexterous Hand Retargeting for Twist Motion via Mixed Reality-based Teleoperation](https://arxiv.org/abs/2605.12182) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Contact & Functional Retargeting | reviewed |
-| [EgoInfinity: A Web-Scale 4D Hand-Object Interaction Data Engine for Any-View Robot Retargeting and Video-to-Action Robot Learning](https://arxiv.org/abs/2606.17385) | arxiv · arXiv | Data, Simulation & Evaluation → Synthetic & Augmented Data → Cross-robot Data Conversion | reviewed |
 | [FlashDexRetarget: Accelerating Dexterous Manipulation Data Generation through Multi-Motion Retargeting](https://arxiv.org/abs/2610.01849) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Physics & Dynamics Retargeting | reviewed |
 | [Functional Force-Aware Retargeting from Virtual Human Demos to Soft Robot Policies](https://arxiv.org/abs/2604.01224) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Physics & Dynamics Retargeting | rule-assigned |
 | [Kilohertz-Safe: A Scalable Framework for Constrained Dexterous Retargeting](https://arxiv.org/abs/2603.29213) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Kinematic & Pose Retargeting | reviewed |

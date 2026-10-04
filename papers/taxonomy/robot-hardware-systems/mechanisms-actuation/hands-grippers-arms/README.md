@@ -1,5 +1,9 @@
 # Hands, Grippers & Arms · 手、夹爪与机械臂设计
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Hands%2C%20Grippers%20%26%20Arms#research-workbench)
 
 > 2 conference papers · 17 recent arXiv papers

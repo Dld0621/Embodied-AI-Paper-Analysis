@@ -1,5 +1,9 @@
 # Software Frameworks & Integration · 软件框架与系统集成
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Computing%20%26%20Deployment%20Systems&specialty=Software%20Frameworks%20%26%20Integration#research-workbench)
 
 > 4 conference papers · 44 recent arXiv papers

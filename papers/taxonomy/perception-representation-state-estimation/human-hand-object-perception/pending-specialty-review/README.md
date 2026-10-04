@@ -1,5 +1,9 @@
 # Pending specialty review · 待审专题
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Human%20%26%20Hand-object%20Perception&specialty=Pending%20specialty%20review#research-workbench)
 
 > 0 conference papers · 2 recent arXiv papers

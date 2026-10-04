@@ -1,5 +1,9 @@
 # Rolling, Sliding & Finger Gaiting · 滚动、滑动与换指
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=In-hand%20Manipulation&specialty=Rolling%2C%20Sliding%20%26%20Finger%20Gaiting#research-workbench)
 
 > 2 conference papers · 5 recent arXiv papers

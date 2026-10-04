@@ -1,8 +1,12 @@
 # Active Exploration & Information Gain · 主动探索与信息增益
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Motion%20Planning%20%26%20Exploration&specialty=Active%20Exploration%20%26%20Information%20Gain#research-workbench)
 
-> 152 conference papers · 571 recent arXiv papers
+> 152 conference papers · 570 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -173,7 +177,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | UAV-miniUGV Hybrid System for Hidden Area Exploration and Manipulation | IROS · Exploration | [Paper](https://arxiv.org/pdf/2209.11704) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981957) | rule-assigned |
 | 2022 | Resilient Multi-Sensor Exploration of Multifarious Environments with a Team of Aerial Robots | RSS · Exploration | [Paper](https://doi.org/10.15607/rss.2022.xviii.004) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.004) | rule-assigned |
 
-## Recent arXiv papers (571)
+## Recent arXiv papers (570)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -747,7 +751,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-11 | AG-CVG: Coverage Planning with a Mobile Recharging UGV and an Energy-Constrained UAV | Nare Karapetyan, Ahmad Bilal Asghar, Amisha Bhaskar, Guangyao Shi et al. | [Abstract](https://arxiv.org/abs/2310.07621) · [PDF](https://arxiv.org/pdf/2310.07621) | rule-assigned |
 | 2023-10-10 | NEWTON: Are Large Language Models Capable of Physical Reasoning? | Yi Ru Wang, Jiafei Duan, Dieter Fox, Siddhartha Srinivasa | [Abstract](https://arxiv.org/abs/2310.07018) · [PDF](https://arxiv.org/pdf/2310.07018) | rule-assigned |
 | 2023-10-05 | Safe Exploration in Reinforcement Learning: A Generalized Formulation and Algorithms | Akifumi Wachi, Wataru Hashimoto, Xun Shen, Kazumune Hashimoto | [Abstract](https://arxiv.org/abs/2310.03225) · [PDF](https://arxiv.org/pdf/2310.03225) | rule-assigned |
-| 2023-10-03 | Fast algorithm for centralized multi-agent maze exploration | Bojan Crnković, Stefan Ivić, Mila Zovko | [Abstract](https://arxiv.org/abs/2310.02121) · [PDF](https://arxiv.org/pdf/2310.02121) | rule-assigned |
 
 ---
 

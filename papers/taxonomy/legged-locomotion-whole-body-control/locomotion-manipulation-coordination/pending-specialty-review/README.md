@@ -1,5 +1,9 @@
 # Pending specialty review · 待审专题
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Locomotion-Manipulation%20Coordination&specialty=Pending%20specialty%20review#research-workbench)
 
 > 0 conference papers · 0 recent arXiv papers

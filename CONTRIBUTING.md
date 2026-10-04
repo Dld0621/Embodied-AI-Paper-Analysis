@@ -1,5 +1,9 @@
 # Contributing
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 Thanks for improving the Embodied AI Research Index. The project maintains two evidence layers: an accepted-conference census and a separately labeled recent-arXiv census. The goal is systematic coverage under defensible, reproducible boundaries—not an untraceable paper dump.
 
 ## Before adding a paper
@@ -71,6 +75,16 @@ python scripts/record_taxonomy_migration.py --baseline <previous-commit> --date 
 ```
 
 Do not infer retargeting from fallback placement. Missing parent evidence must remain visible as `subcategory_status=provisional`; negative title claims and background abstract mentions are not positive contribution evidence.
+
+## Freshness and coverage
+
+Every active generated page and document date block is synchronized by `scripts/render_catalog.py`. Historical refresh/migration receipts, paper publication dates and original analysis-review dates are not rewritten.
+
+- Successful source harvests determine the conference/arXiv snapshot dates independently.
+- `python scripts/render_catalog.py --updated-on YYYY-MM-DD` synchronizes the document date, status JSON, webpage counters, social preview counters and date blocks.
+- The default document-sync date and source-harvest dates use Asia/Hong_Kong. A check reuses the saved date rather than silently advancing it.
+- Candidate counts must reconcile with the arXiv API total before a complete snapshot is published. Development samples cannot replace it.
+- Read [the generated coverage report](docs/coverage-report.md) before describing the corpus as complete. “All embodied-AI literature” is not a defensible claim under the current venue/query/category boundaries.
 
 Use [`docs/paper-analysis-template.md`](docs/paper-analysis-template.md). Separate:
 

@@ -1,8 +1,12 @@
 # Vision, Gloves & XR Input · 视觉／手套／XR 输入
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Control&specialty=Vision%2C%20Gloves%20%26%20XR%20Input#research-workbench)
 
-> 73 conference papers · 308 recent arXiv papers
+> 73 conference papers · 307 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -94,7 +98,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | The Predictive Kinematic Control Tree: Enhancing Teleoperation of Redundant Robots through Probabilistic User Models | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982150) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982150) | rule-assigned |
 | 2022 | Gaze Complements Control Input for Goal Prediction During Assisted Teleoperation | RSS · Teleoperation | [Paper](https://doi.org/10.15607/rss.2022.xviii.025) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.025) | rule-assigned |
 
-## Recent arXiv papers (308)
+## Recent arXiv papers (307)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -405,7 +409,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-25 | Translating Universal Scene Descriptions into Knowledge Graphs for Robotic Environment | Giang Hoang Nguyen, Daniel Bessler, Simon Stelter, Mihai Pomarlan et al. | [Abstract](https://arxiv.org/abs/2310.16737) · [PDF](https://arxiv.org/pdf/2310.16737) | rule-assigned |
 | 2023-10-13 | Sensory Manipulation as a Countermeasure to Robot Teleoperation Delays: System and Evidence | Jing Du, William Vann, Tianyu Zhou, Yang Ye et al. | [Abstract](https://arxiv.org/abs/2310.08788) · [PDF](https://arxiv.org/pdf/2310.08788) | rule-assigned |
 | 2023-10-08 | DELTAHANDS: A Synergistic Dexterous Hand Framework Based on Delta Robots | Zilin Si, Kevin Zhang, Oliver Kroemer, F. Zeynep Temel | [Abstract](https://arxiv.org/abs/2310.05266) · [PDF](https://arxiv.org/pdf/2310.05266) | rule-assigned |
-| 2023-10-03 | A 3D Mixed Reality Interface for Human-Robot Teaming | Jiaqi Chen, Boyang Sun, Marc Pollefeys, Hermann Blum | [Abstract](https://arxiv.org/abs/2310.02392) · [PDF](https://arxiv.org/pdf/2310.02392) | rule-assigned |
 
 ---
 

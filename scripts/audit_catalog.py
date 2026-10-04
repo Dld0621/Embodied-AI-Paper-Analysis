@@ -16,6 +16,7 @@ if str(SCRIPT_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPT_DIR))
 
 from taxonomy import GENERAL_SPECIALTY, hierarchy_counts, taxonomy_metadata
+from freshness import build_status, hong_kong_today
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -400,7 +401,8 @@ def validate_arxiv(catalog: dict, arxiv: dict) -> tuple[list[str], dict[str, obj
         expected_years = set(range(start_date.year, end_date.year + 1))
         if start_date != expected_start:
             errors.append("arXiv window must span exactly three rolling years")
-        if end_date > date.today() or date.today() - end_date > timedelta(days=8):
+        today = date.fromisoformat(hong_kong_today())
+        if end_date > today or today - end_date > timedelta(days=8):
             errors.append("arXiv snapshot must be no more than eight days old")
         if window.get("years") != sorted(expected_years):
             errors.append("arXiv window years must match its inclusive calendar years")
@@ -418,6 +420,8 @@ def validate_arxiv(catalog: dict, arxiv: dict) -> tuple[list[str], dict[str, obj
         errors.append("arXiv candidate ledger must contain at least all classified papers")
     if source.get("classified_records") != len(papers):
         errors.append("arXiv classified ledger must match papers")
+    if source.get("candidate_coverage_verified") and source.get("api_declared_candidate_records") != source.get("candidate_records"):
+        errors.append("arXiv observed candidate count differs from API-declared total")
     if source.get("unclassified_records") != source.get("candidate_records", 0) - len(papers):
         errors.append("arXiv unclassified ledger is inconsistent")
 
@@ -513,6 +517,17 @@ def main() -> int:
     leaf_errors, leaf_stats = validate_taxonomy_leaf_catalogs(catalog, arxiv)
     errors.extend(leaf_errors)
     stats["taxonomy_leaf_catalogs"] = leaf_stats
+    status_path = ROOT / "data" / "catalog_status.json"
+    try:
+        status = json.loads(status_path.read_text())
+        if status != build_status(catalog, arxiv, status["documents_updated_on"]):
+            errors.append("document/source freshness ledger is inconsistent")
+        stats["freshness"] = {
+            key: status[key] for key in ("documents_updated_on", "conference_snapshot_on",
+                                         "arxiv_snapshot_on", "api_candidate_count_verified")
+        }
+    except (OSError, KeyError, ValueError):
+        errors.append("missing or invalid document/source freshness ledger")
     if errors:
         print("Catalog audit: FAILED")
         for error in errors:

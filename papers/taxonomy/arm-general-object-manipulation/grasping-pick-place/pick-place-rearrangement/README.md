@@ -1,5 +1,9 @@
 # Pick-place & Rearrangement · 拾放与物体重排
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Grasping%20%26%20Pick-place&specialty=Pick-place%20%26%20Rearrangement#research-workbench)
 
 > 91 conference papers · 204 recent arXiv papers

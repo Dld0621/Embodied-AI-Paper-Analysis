@@ -17,6 +17,8 @@ from __future__ import annotations
 import argparse
 from collections import Counter
 from datetime import date, timedelta
+from datetime import datetime
+from zoneinfo import ZoneInfo
 from http.client import IncompleteRead
 import json
 import re
@@ -60,7 +62,7 @@ def half_year_segments(start: date, end: date) -> tuple[tuple[str, str], ...]:
     return tuple(segments)
 
 
-SNAPSHOT_DATE = date.today()
+SNAPSHOT_DATE = datetime.now(ZoneInfo("Asia/Hong_Kong")).date()
 WINDOW_START = subtract_years(SNAPSHOT_DATE, 3)
 START_DATE = WINDOW_START.isoformat()
 END_DATE = SNAPSHOT_DATE.isoformat()
@@ -68,6 +70,23 @@ WINDOW_YEARS = list(range(WINDOW_START.year, SNAPSHOT_DATE.year + 1))
 PAGE_SIZE = 2000
 REQUEST_DELAY_SECONDS = 10.0
 SEGMENTS = half_year_segments(WINDOW_START, SNAPSHOT_DATE)
+
+
+def configure_window(snapshot_date: date) -> None:
+    global SNAPSHOT_DATE, WINDOW_START, START_DATE, END_DATE, WINDOW_YEARS, SEGMENTS
+    SNAPSHOT_DATE = snapshot_date
+    WINDOW_START = subtract_years(snapshot_date, 3)
+    START_DATE, END_DATE = WINDOW_START.isoformat(), snapshot_date.isoformat()
+    WINDOW_YEARS = list(range(WINDOW_START.year, snapshot_date.year + 1))
+    SEGMENTS = half_year_segments(WINDOW_START, snapshot_date)
+
+
+def verify_complete_count(candidate_count: int, expected_count: int) -> None:
+    if candidate_count != expected_count:
+        raise ValueError(
+            f"Incomplete arXiv harvest: observed {candidate_count} candidates, "
+            f"API declared {expected_count}; snapshot was not updated"
+        )
 
 ATOM = "http://www.w3.org/2005/Atom"
 OPEN_SEARCH = "http://a9.com/-/spec/opensearch/1.1/"
@@ -455,12 +474,28 @@ def main() -> int:
     parser.add_argument("--check", action="store_true", help="fetch and compare without writing")
     parser.add_argument("--page-size", type=int, default=PAGE_SIZE)
     parser.add_argument("--max-records", type=int, help="limit candidates for a development sample")
+    parser.add_argument("--as-of", type=date.fromisoformat, default=SNAPSHOT_DATE,
+                        help="freeze the submission window at YYYY-MM-DD (Hong Kong date by default)")
     args = parser.parse_args()
     if not 1 <= args.page_size <= 2000:
         parser.error("--page-size must be between 1 and 2000")
+    if args.max_records and not args.check:
+        parser.error("development samples cannot overwrite the complete catalog; use --check")
+    configure_window(args.as_of)
+    expected_count = None
+    if not args.max_records:
+        root = fetch_xml({"search_query": query_string(), "start": 0, "max_results": 1,
+                          "sortBy": "submittedDate", "sortOrder": "ascending"})
+        expected_count = int(root.findtext("open:totalResults", namespaces=NS))
+        print(f"Frozen arXiv window {START_DATE}..{END_DATE}: API declares {expected_count:,} candidates", flush=True)
+        time.sleep(REQUEST_DELAY_SECONDS)
 
     records, candidate_count = fetch_records(args.page_size, args.max_records)
+    if expected_count is not None:
+        verify_complete_count(candidate_count, expected_count)
     payload = build_payload(records, candidate_count if not args.max_records else min(candidate_count, args.max_records))
+    payload["source"]["candidate_coverage_verified"] = expected_count is not None
+    payload["source"]["api_declared_candidate_records"] = expected_count
     rendered = json.dumps(payload, ensure_ascii=False, separators=(",", ":")) + "\n"
     if args.check:
         if not OUTPUT_PATH.exists() or OUTPUT_PATH.read_text(encoding="utf-8") != rendered:

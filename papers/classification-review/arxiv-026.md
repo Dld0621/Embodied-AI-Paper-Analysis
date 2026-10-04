@@ -1,5 +1,9 @@
 # arxiv classification review · 5001–5200
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
@@ -71,7 +75,6 @@
 | [AsyncMLD: Asynchronous Multi-LLM Framework for Dialogue Recommendation System](https://arxiv.org/abs/2312.13925) | 2023 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
 | [Attacking Motion Planners Using Adversarial Perception Errors](https://arxiv.org/abs/2311.12722) | 2023 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
 | [Automatic Configuration of Multi-Agent Model Predictive Controllers based on Semantic Graph World Models](https://arxiv.org/abs/2311.01180) | 2023 · arxiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Pending specialty review | title:prediction or reasoning; title:world models |
-| [Automatic Data Processing for Space Robotics Machine Learning](https://arxiv.org/abs/2310.01932) | 2023 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
 | [Autonomous Port Navigation With Ranging Sensors Using Model-Based Reinforcement Learning](https://arxiv.org/abs/2312.05257) | 2023 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
 | [AutoTrans: A Complete Planning and Control Framework for Autonomous UAV Payload Transportation](https://arxiv.org/abs/2310.15050) | 2023 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | fallback; fallback |
 | [BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous Driving](https://arxiv.org/abs/2312.06371) | 2023 · arxiv | 暂定二级 / provisional: Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | fallback; fallback |
@@ -198,9 +201,10 @@
 | [Large Language Models for Robotics: A Survey](https://arxiv.org/abs/2311.07226) | 2023 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
 | [LEAP: LLM-Generation of Egocentric Action Programs](https://arxiv.org/abs/2312.00055) | 2023 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
 | [Learning active tactile perception through belief-space control](https://arxiv.org/abs/2312.00215) | 2023 · arxiv | Perception, Representation & State Estimation → Tactile & Multimodal Perception → Pending specialty review | title:perception or state; title:tactile |
-| [Learning Diverse Skills for Local Navigation under Multi-constraint Optimality](https://arxiv.org/abs/2310.02440) | 2023 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
 | [Learning Extrinsic Dexterity with Parameterized Manipulation Primitives](https://arxiv.org/abs/2310.17785) | 2023 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Learning Free Terminal Time Optimal Closed-loop Control of Manipulators](https://arxiv.org/abs/2311.17749) | 2023 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | fallback; fallback |
 | [Learning Generalizable Manipulation Policies with Object-Centric 3D Representations](https://arxiv.org/abs/2310.14386) | 2023 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Learning Multi-Step Manipulation Tasks from A Single Human Demonstration](https://arxiv.org/abs/2312.15346) | 2023 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Learning Reusable Manipulation Strategies](https://arxiv.org/abs/2311.03293) | 2023 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
+| [Learning Reward for Physical Skills using Large Language Model](https://arxiv.org/abs/2310.14092) | 2023 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
+| [Learning Rhythmic Trajectories with Geometric Constraints for Laser-Based Skincare Procedures](https://arxiv.org/abs/2312.13623) | 2023 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | fallback; fallback |

@@ -1,8 +1,12 @@
 # Walking & Gaits · 行走与步态
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Walking%20%26%20Gaits#research-workbench)
 
-> 165 conference papers · 347 recent arXiv papers
+> 165 conference papers · 346 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -186,7 +190,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Simultaneous Contact-Rich Grasping and Locomotion via Distributed Optimization Enabling Free-Climbing for Multi-Limbed Robots | IROS · Grasp | [Paper](https://arxiv.org/pdf/2207.01418) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981579) | rule-assigned |
 | 2022 | Three-Dimensional Dynamic Running with a Point-Foot Biped based on Differentially Flat SLIP | IROS · Biped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981516) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981516) | rule-assigned |
 
-## Recent arXiv papers (347)
+## Recent arXiv papers (346)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -536,7 +540,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-12 | Safe Whole-Body Task Space Control for Humanoid Robots | Victor Paredes, Ayonga Hereid | [Abstract](https://arxiv.org/abs/2311.08409) · [PDF](https://arxiv.org/pdf/2311.08409) | rule-assigned |
 | 2023-10-08 | Fully Spiking Neural Network for Legged Robots | Xiaoyang Jiang, Qiang Zhang, Jingkai Sun, Jiahang Cao et al. | [Abstract](https://arxiv.org/abs/2310.05022) · [PDF](https://arxiv.org/pdf/2310.05022) | rule-assigned |
 | 2023-10-04 | Multi-Domain Walking with Reduced-Order Models of Locomotion | Min Dai, Jaemin Lee, Aaron D. Ames | [Abstract](https://arxiv.org/abs/2310.03179) · [PDF](https://arxiv.org/pdf/2310.03179) | rule-assigned |
-| 2023-10-03 | Adaptive Gait Modeling and Optimization for Principally Kinematic Systems | Siming Deng, Noah J. Cowan, Brian A. Bittner | [Abstract](https://arxiv.org/abs/2310.02141) · [PDF](https://arxiv.org/pdf/2310.02141) | rule-assigned |
 
 ---
 

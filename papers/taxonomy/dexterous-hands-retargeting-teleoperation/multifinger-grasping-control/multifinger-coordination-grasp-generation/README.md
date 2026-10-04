@@ -1,5 +1,9 @@
 # Multifinger Coordination & Grasp Generation · 多指协调与抓取生成
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Multifinger%20Grasping%20%26%20Control&specialty=Multifinger%20Coordination%20%26%20Grasp%20Generation#research-workbench)
 
 > 29 conference papers · 70 recent arXiv papers

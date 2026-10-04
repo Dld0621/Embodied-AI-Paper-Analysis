@@ -1,8 +1,12 @@
 # Odometry & Relocalization · 里程计与重定位
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Odometry%20%26%20Relocalization#research-workbench)
 
-> 57 conference papers · 1,042 recent arXiv papers
+> 57 conference papers · 1,040 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -78,7 +82,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Visibility-Inspired Models of Touch Sensors for Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.04751) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981084) | rule-assigned |
 | 2022 | Whisker-Inspired Tactile Sensing for Contact Localization on Robot Manipulators | IROS · Tactile | [Paper](https://arxiv.org/pdf/2210.12387) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982122) | rule-assigned |
 
-## Recent arXiv papers (1,042)
+## Recent arXiv papers (1,040)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -1122,8 +1126,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-06 | Light-LOAM: A Lightweight LiDAR Odometry and Mapping based on Graph-Matching | Shiquan Yi, Yang Lyu, Lin Hua, Quan Pan et al. | [Abstract](https://arxiv.org/abs/2310.04162) · [PDF](https://arxiv.org/pdf/2310.04162) | rule-assigned |
 | 2023-10-06 | Doppler-only Single-scan 3D Vehicle Odometry | Andres Galeote-Luque, Vladimír Kubelka, Martin Magnusson, Jose-Raul Ruiz-Sarmiento et al. | [Abstract](https://arxiv.org/abs/2310.04113) · [PDF](https://arxiv.org/pdf/2310.04113) | rule-assigned |
 | 2023-10-04 | Active Visual Localization for Multi-Agent Collaboration: A Data-Driven Approach | Matthew Hanlon, Boyang Sun, Marc Pollefeys, Hermann Blum | [Abstract](https://arxiv.org/abs/2310.02650) · [PDF](https://arxiv.org/pdf/2310.02650) | rule-assigned |
-| 2023-10-03 | Fast Localization and Tracking in City-Scale UWB Networks | Nakul Garg, Irtaza Shahid, Ramanujan K Sheshadri, Karthikeyan Sundaresan et al. | [Abstract](https://arxiv.org/abs/2310.02211) · [PDF](https://arxiv.org/pdf/2310.02211) | rule-assigned |
-| 2023-10-03 | ALT-Pilot: Autonomous navigation with Language augmented Topometric maps | Mohammad Omama, Pranav Inani, Pranjal Paul, Sarat Chandra Yellapragada et al. | [Abstract](https://arxiv.org/abs/2310.02324) · [PDF](https://arxiv.org/pdf/2310.02324) | rule-assigned |
 
 ---
 

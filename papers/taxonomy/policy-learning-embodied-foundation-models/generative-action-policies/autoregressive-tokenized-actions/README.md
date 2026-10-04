@@ -1,5 +1,9 @@
 # Autoregressive & Tokenized Actions · 自回归与动作标记化
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generative%20Action%20Policies&specialty=Autoregressive%20%26%20Tokenized%20Actions#research-workbench)
 
 > 1 conference papers · 10 recent arXiv papers

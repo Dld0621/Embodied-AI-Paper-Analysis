@@ -1,5 +1,9 @@
 # Demonstration Refinement & Skill Transfer · 示教精炼与技能迁移
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Human%20Demonstrations%20to%20Dexterous%20Skills&specialty=Demonstration%20Refinement%20%26%20Skill%20Transfer#research-workbench)
 
 > 1 conference papers · 11 recent arXiv papers

@@ -1,5 +1,9 @@
 # Fault & Failure Analysis · 故障与失效分析
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Safety%20%26%20Reliability%20Evaluation&specialty=Fault%20%26%20Failure%20Analysis#research-workbench)
 
 > 3 conference papers · 104 recent arXiv papers

@@ -1,8 +1,12 @@
 # Few-shot & Test-time Adaptation · 少样本与测试时适配
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generalization%20%26%20Adaptation&specialty=Few-shot%20%26%20Test-time%20Adaptation#research-workbench)
 
-> 21 conference papers · 266 recent arXiv papers
+> 21 conference papers · 265 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -42,7 +46,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | TidyBot: Personalized Robot Assistance with Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2305.05658) · [Publisher](https://doi.org/10.1007/s10514-023-10139-z) | rule-assigned |
 | 2023 | Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects | NeurIPS · Affordance | [Paper](https://arxiv.org/pdf/2309.07473) · [Index](https://dblp.org/rec/journals/corr/abs-2309-07473) | rule-assigned |
 
-## Recent arXiv papers (266)
+## Recent arXiv papers (265)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -311,7 +315,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-16 | BayRnTune: Adaptive Bayesian Domain Randomization via Strategic Fine-tuning | Tianle Huang, Nitish Sontakke, K. Niranjan Kumar, Irfan Essa et al. | [Abstract](https://arxiv.org/abs/2310.10606) · [PDF](https://arxiv.org/pdf/2310.10606) | rule-assigned |
 | 2023-10-11 | What Matters to You? Towards Visual Representation Alignment for Robot Learning | Ran Tian, Chenfeng Xu, Masayoshi Tomizuka, Jitendra Malik et al. | [Abstract](https://arxiv.org/abs/2310.07932) · [PDF](https://arxiv.org/pdf/2310.07932) | rule-assigned |
 | 2023-10-08 | Safe Deep Policy Adaptation | Wenli Xiao, Tairan He, John Dolan, Guanya Shi | [Abstract](https://arxiv.org/abs/2310.08602) · [PDF](https://arxiv.org/pdf/2310.08602) | rule-assigned |
-| 2023-10-03 | What do we learn from a large-scale study of pre-trained visual representations in sim and real environments? | Sneha Silwal, Karmesh Yadav, Tingfan Wu, Jay Vakil et al. | [Abstract](https://arxiv.org/abs/2310.02219) · [PDF](https://arxiv.org/pdf/2310.02219) | rule-assigned |
 
 ---
 

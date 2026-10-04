@@ -1,5 +1,9 @@
 # Generalization & Robustness Evaluation · 泛化与鲁棒性评测
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Experimental%20Methods&specialty=Generalization%20%26%20Robustness%20Evaluation#research-workbench)
 
 > 0 conference papers · 6 recent arXiv papers

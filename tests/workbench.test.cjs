@@ -6,6 +6,8 @@ const vm = require("node:vm");
 const root = path.resolve(__dirname, "..");
 const catalog = JSON.parse(fs.readFileSync(path.join(root, "data/papers.json"), "utf8"));
 const arxiv = JSON.parse(fs.readFileSync(path.join(root, "data/arxiv_recent.json"), "utf8"));
+const freshness = JSON.parse(fs.readFileSync(path.join(root, "data/catalog_status.json"), "utf8"));
+const combinedTotal = require("../assets/taxonomy-filters.js").combine(catalog.papers, arxiv.papers).length;
 test("entry HTML loads the facet helper before the app and provides facet containers", () => {
   const html = fs.readFileSync(path.join(root, "index.html"), "utf8");
   const helper = html.indexOf('<script src="assets/taxonomy-filters.js" defer>');
@@ -32,7 +34,7 @@ async function workbench(search = "") {
     window: { matchMedia() { return { matches: false }; } },
     document: { documentElement: { dataset: {} }, querySelector: node, querySelectorAll() { return []; },
       addEventListener() {}, activeElement: { tagName: "BODY" } },
-    fetch: async (url) => ({ ok: true, json: async () => url.includes("arxiv") ? arxiv : catalog }),
+    fetch: async (url) => ({ ok: true, json: async () => url.includes("catalog_status") ? freshness : url.includes("arxiv") ? arxiv : catalog }),
   });
   vm.runInContext(fs.readFileSync(path.join(root, "assets/taxonomy-filters.js"), "utf8"), context);
   vm.runInContext(fs.readFileSync(path.join(root, "assets/app.js"), "utf8"), context);
@@ -43,7 +45,7 @@ async function workbench(search = "") {
 
 test("real catalog initializes and resolves bilingual nine-direction navigation", async () => {
   const app = await workbench("?lang=zh");
-  assert.equal(app.run("state.papers.length"), 27637);
+  assert.equal(app.run("state.papers.length"), combinedTotal);
   assert.equal(app.node("#track-count").textContent, "9");
   assert(app.node("#direction-grid").innerHTML.includes("世界模型"));
   assert(app.node("#facet-filters").innerHTML.includes("关联主题（跨分类）"));
@@ -62,7 +64,7 @@ test("shared cross-topic filter finds SPIDER with its unique hand primary path",
   assert(app.context.lastUrl.includes("Whole-body"));
   app.run("clearFilters()");
   assert.equal(app.run("state.related_topics"), "all");
-  assert.equal(app.run("filteredPapers().length"), 27637);
+  assert.equal(app.run("filteredPapers().length"), combinedTotal);
 });
 
 test("invalid URL facets are ignored and review filter isolates pending records", async () => {
@@ -84,6 +86,9 @@ test("both exports preserve review evidence, tags and source provenance", async 
     assert(output.contents.includes("reviewed"));
     assert(output.contents.includes("related_topics"));
     assert(output.contents.includes("https://"));
+    assert(output.contents.includes(freshness.documents_updated_on));
+    assert(output.contents.includes(catalog.as_of));
+    assert(output.contents.includes(arxiv.as_of));
   }
 });
 
@@ -101,4 +106,13 @@ test("provisional subfield is visibly labeled and preserved in exports", async (
   assert(app.node("#paper-grid").innerHTML.includes("二级归属暂定"));
   app.run("globalThis.exportsCaptured = []; downloadFile = (name, contents) => exportsCaptured.push({name, contents}); exportMarkdown(); exportCsv();");
   for (const output of app.run("exportsCaptured")) assert(output.contents.includes("provisional"));
+});
+
+test("freshness label separates document sync and source snapshot dates", async () => {
+  const app = await workbench("?lang=zh");
+  const text = app.node("#freshness-note").textContent;
+  assert(text.includes("文档同步：" + freshness.documents_updated_on));
+  assert(text.includes("顶会快照：" + catalog.as_of));
+  assert(text.includes("arXiv 快照：" + arxiv.as_of));
+  assert(text.includes("不代表全网所有论文"));
 });

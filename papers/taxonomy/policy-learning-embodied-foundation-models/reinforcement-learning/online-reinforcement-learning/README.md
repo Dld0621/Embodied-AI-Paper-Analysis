@@ -1,8 +1,12 @@
 # Online Reinforcement Learning · 在线强化学习
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Reinforcement%20Learning&specialty=Online%20Reinforcement%20Learning#research-workbench)
 
-> 53 conference papers · 1,134 recent arXiv papers
+> 53 conference papers · 1,132 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -74,7 +78,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | How to Spend Your Robot Time: Bridging Kickstarting and Offline Reinforcement Learning for Vision-based Robotic Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2205.03353) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981126) | rule-assigned |
 | 2022 | Impact Makes a Sound and Sound Makes an Impact: Sound Guides Representations and Explorations | IROS · Exploration | [Paper](https://arxiv.org/pdf/2208.02680) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981510) | rule-assigned |
 
-## Recent arXiv papers (1,134)
+## Recent arXiv papers (1,132)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -1210,8 +1214,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-05 | Safe Reinforcement Learning via Hierarchical Adaptive Chance-Constraint Safeguards | Zhaorun Chen, Zhuokai Zhao, Tairan He, Binhao Chen et al. | [Abstract](https://arxiv.org/abs/2310.03379) · [PDF](https://arxiv.org/pdf/2310.03379) | rule-assigned |
 | 2023-10-05 | HandMeThat: Human-Robot Communication in Physical and Social Environments | Yanming Wan, Jiayuan Mao, Joshua B. Tenenbaum | [Abstract](https://arxiv.org/abs/2310.03779) · [PDF](https://arxiv.org/pdf/2310.03779) | rule-assigned |
 | 2023-10-04 | Reinforcement Learning with Foundation Priors: Let the Embodied Agent Efficiently Learn on Its Own | Weirui Ye, Yunsheng Zhang, Haoyang Weng, Xianfan Gu et al. | [Abstract](https://arxiv.org/abs/2310.02635) · [PDF](https://arxiv.org/pdf/2310.02635) | rule-assigned |
-| 2023-10-03 | Learning and reusing primitive behaviours to improve Hindsight Experience Replay sample efficiency | Francisco Roldan Sanchez, Qiang Wang, David Cordova Bulens, Kevin McGuinness et al. | [Abstract](https://arxiv.org/abs/2310.01827) · [PDF](https://arxiv.org/pdf/2310.01827) | rule-assigned |
-| 2023-10-03 | Differentially Encoded Observation Spaces for Perceptive Reinforcement Learning | Lev Grossman, Brian Plancher | [Abstract](https://arxiv.org/abs/2310.01767) · [PDF](https://arxiv.org/pdf/2310.01767) | rule-assigned |
 
 ---
 

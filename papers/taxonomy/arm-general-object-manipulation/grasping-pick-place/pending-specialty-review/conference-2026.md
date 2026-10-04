@@ -1,5 +1,9 @@
 # Pending specialty review · 待审专题 · Conference 2026
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
 > 83 papers · complete list for this taxonomy leaf

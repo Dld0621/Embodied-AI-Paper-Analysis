@@ -1,5 +1,9 @@
 # Object Rotation & Repositioning · 物体旋转与重定位
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=In-hand%20Manipulation&specialty=Object%20Rotation%20%26%20Repositioning#research-workbench)
 
 > 36 conference papers · 70 recent arXiv papers

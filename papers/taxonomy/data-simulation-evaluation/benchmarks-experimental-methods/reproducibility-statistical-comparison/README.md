@@ -1,8 +1,12 @@
 # Reproducibility & Statistical Comparison · 复现协议与统计比较
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Experimental%20Methods&specialty=Reproducibility%20%26%20Statistical%20Comparison#research-workbench)
 
-> 1 conference papers · 58 recent arXiv papers
+> 1 conference papers · 57 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -22,7 +26,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2025 | Hri-Free: Cognitive Robotic Simulation for Evaluating Embodied Social Attention Models | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127539) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127539) | rule-assigned |
 
-## Recent arXiv papers (58)
+## Recent arXiv papers (57)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -83,7 +87,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-06-12 | PRIBOOT: A New Data-Driven Expert for Improved Driving Simulations | Daniel Coelho, Miguel Oliveira, Vitor Santos, Antonio M. Lopez | [Abstract](https://arxiv.org/abs/2406.08421) · [PDF](https://arxiv.org/pdf/2406.08421) | rule-assigned |
 | 2024-05-28 | An Open-Source Reproducible Chess Robot for Human-Robot Interaction Research | Renchi Zhang, Joost de Winter, Dimitra Dodou, Harleigh Seyffert et al. | [Abstract](https://arxiv.org/abs/2405.18170) · [PDF](https://arxiv.org/pdf/2405.18170) | rule-assigned |
 | 2024-03-18 | ForzaETH Race Stack -- Scaled Autonomous Head-to-Head Racing on Fully Commercial off-the-Shelf Hardware | Nicolas Baumann, Edoardo Ghignone, Jonas Kühne, Niklas Bastuck et al. | [Abstract](https://arxiv.org/abs/2403.11784) · [PDF](https://arxiv.org/pdf/2403.11784) | rule-assigned |
-| 2023-10-03 | Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving | Long Chen, Oleg Sinavski, Jan Hünermann, Alice Karnsund et al. | [Abstract](https://arxiv.org/abs/2310.01957) · [PDF](https://arxiv.org/pdf/2310.01957) | rule-assigned |
 
 ---
 

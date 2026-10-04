@@ -1,5 +1,9 @@
 # Pending specialty review · 待审专题
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Pending%20specialty%20review#research-workbench)
 
 > 44 conference papers · 102 recent arXiv papers
@@ -50,7 +54,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Enable Natural Tactile Interaction for Robot Dog based on Large-format Distributed Flexible Pressure Sensors | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2303.07595) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161049) | needs-review |
 | 2023 | Estimating Tactile Models of Heterogeneous Deformable Objects in Real Time | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160731) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160731) | needs-review |
 | 2023 | Tac-VGNN: A Voronoi Graph Neural Network for Pose-Based Tactile Servoing | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2303.02708) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160288) | needs-review |
-| 2023 | Tactile based robotic skills for cable routing operations | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160729) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160729) | needs-review |
+| 2023 | Tactile based robotic skills for cable routing operations | ICRA · Tactile | [Paper](https://hdl.handle.net/11583/2984170) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160729) | needs-review |
 | 2023 | Acquisition and Prediction of High-Density Tactile Field Data for Rigid and Flexible Objects | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS55552.2023.10341734) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341734) | needs-review |
 | 2023 | Deep Functional Predictive Control (deep-FPC): Robot Pushing 3-D Cluster Using Tactile Prediction | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS55552.2023.10342410) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342410) | needs-review |
 | 2023 | On the Potentials of Surface Tactile Imaging and Dilated Residual Networks for Early Detection of Colorectal Cancer Polyps | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS55552.2023.10342161) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342161) | needs-review |

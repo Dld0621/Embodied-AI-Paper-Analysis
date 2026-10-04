@@ -7,6 +7,8 @@ import unittest
 from datetime import date, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -55,7 +57,7 @@ class CatalogContractTests(unittest.TestCase):
         except ValueError:
             expected_start = end.replace(year=end.year - 3, day=28)
         self.assertEqual(start, expected_start)
-        self.assertLessEqual(date.today() - end, timedelta(days=8))
+        self.assertLessEqual(datetime.now(ZoneInfo("Asia/Hong_Kong")).date() - end, timedelta(days=8))
         self.assertEqual(self.arxiv["window"]["years"], list(range(start.year, end.year + 1)))
         self.assertEqual(self.arxiv["as_of"], self.arxiv["window"]["end"])
         self.assertEqual(source["snapshot_date"], self.arxiv["window"]["end"])

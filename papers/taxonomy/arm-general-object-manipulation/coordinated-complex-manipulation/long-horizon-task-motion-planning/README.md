@@ -1,8 +1,12 @@
 # Long-horizon & Task-motion Planning · 长时程操作与任务运动规划
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Long-horizon%20%26%20Task-motion%20Planning#research-workbench)
 
-> 31 conference papers · 196 recent arXiv papers
+> 31 conference papers · 194 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -52,7 +56,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Task and Motion Planning with Large Language Models for Object Rearrangement | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.06247) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342169) | rule-assigned |
 | 2022 | Visually Grounded Task and Motion Planning for Mobile Manipulation | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2202.10667) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812055) | rule-assigned |
 
-## Recent arXiv papers (196)
+## Recent arXiv papers (194)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -250,8 +254,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-12 | An Experience-based TAMP Framework for Foliated Manifolds | Jiaming Hu, Shrutheesh R. Iyer, Henrik I. Christensen | [Abstract](https://arxiv.org/abs/2310.08494) · [PDF](https://arxiv.org/pdf/2310.08494) | rule-assigned |
 | 2023-10-11 | CoPAL: Corrective Planning of Robot Actions with Large Language Models | Frank Joublin, Antonello Ceravola, Pavel Smirnov, Felix Ocker et al. | [Abstract](https://arxiv.org/abs/2310.07263) · [PDF](https://arxiv.org/pdf/2310.07263) | rule-assigned |
 | 2023-10-04 | R-LGP: A Reachability-guided Logic-geometric Programming Framework for Optimal Task and Motion Planning on Mobile Manipulators | Kim Tien Ly, Valeriy Semenov, Mattia Risiglione, Wolfgang Merkt et al. | [Abstract](https://arxiv.org/abs/2310.02791) · [PDF](https://arxiv.org/pdf/2310.02791) | rule-assigned |
-| 2023-10-03 | STAMP: Differentiable Task and Motion Planning via Stein Variational Gradient Descent | Yewon Lee, Andrew Z. Li, Philip Huang, Eric Heiden et al. | [Abstract](https://arxiv.org/abs/2310.01775) · [PDF](https://arxiv.org/pdf/2310.01775) | rule-assigned |
-| 2023-10-03 | Generalizable Long-Horizon Manipulations with Large Language Models | Haoyu Zhou, Mingyu Ding, Weikun Peng, Masayoshi Tomizuka et al. | [Abstract](https://arxiv.org/abs/2310.02264) · [PDF](https://arxiv.org/pdf/2310.02264) | rule-assigned |
 
 ---
 

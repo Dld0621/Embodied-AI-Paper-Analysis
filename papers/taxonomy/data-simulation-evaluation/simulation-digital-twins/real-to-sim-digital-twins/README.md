@@ -1,5 +1,9 @@
 # Real-to-sim & Digital Twins · 现实场景重建与数字孪生
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Real-to-sim%20%26%20Digital%20Twins#research-workbench)
 
 > 6 conference papers · 121 recent arXiv papers

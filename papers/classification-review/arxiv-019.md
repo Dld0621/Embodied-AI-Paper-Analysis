@@ -1,5 +1,9 @@
 # arxiv classification review · 3601–3800
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |

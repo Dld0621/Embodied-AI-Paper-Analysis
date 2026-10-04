@@ -1,8 +1,12 @@
 # Global Path Planning · 全局路径规划
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Motion%20Planning%20%26%20Exploration&specialty=Global%20Path%20Planning#research-workbench)
 
-> 178 conference papers · 1,292 recent arXiv papers
+> 178 conference papers · 1,291 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -199,7 +203,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | DiPCAN: Distilling Privileged Information for Crowd-Aware Navigation | RSS · Navigation | [Paper](https://doi.org/10.15607/rss.2022.xviii.045) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.045) | rule-assigned |
 | 2022 | Sub-1.5 Time-Optimal Multi-Robot Path Planning on Grids in Polynomial Time | RSS · Path Planning | [Paper](https://doi.org/10.15607/rss.2022.xviii.057) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.057) | rule-assigned |
 
-## Recent arXiv papers (1,292)
+## Recent arXiv papers (1,291)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -1494,7 +1498,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-05 | High-Degrees-of-Freedom Dynamic Neural Fields for Robot Self-Modeling and Motion Planning | Lennart Schulze, Hod Lipson | [Abstract](https://arxiv.org/abs/2310.03624) · [PDF](https://arxiv.org/pdf/2310.03624) | rule-assigned |
 | 2023-10-05 | A Survey of Multi-Robot Motion Planning | Hoang-Dung Bui | [Abstract](https://arxiv.org/abs/2310.08599) · [PDF](https://arxiv.org/pdf/2310.08599) | rule-assigned |
 | 2023-10-04 | Curve Trajectory Model for Human Preferred Path Planning of Automated Vehicles | Gergo Igneczi, Erno Horvath, Roland Toth, Krisztian Nyilas | [Abstract](https://arxiv.org/abs/2310.02696) · [PDF](https://arxiv.org/pdf/2310.02696) | rule-assigned |
-| 2023-10-03 | RETRO: Reactive Trajectory Optimization for Real-Time Robot Motion Planning in Dynamic Environments | Apan Dastider, Hao Fang, Mingjie Lin | [Abstract](https://arxiv.org/abs/2310.01738) · [PDF](https://arxiv.org/pdf/2310.01738) | rule-assigned |
 
 ---
 

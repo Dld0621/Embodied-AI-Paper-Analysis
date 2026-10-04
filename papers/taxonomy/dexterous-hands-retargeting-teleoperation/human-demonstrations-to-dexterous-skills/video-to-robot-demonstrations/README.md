@@ -1,5 +1,9 @@
 # Video-to-robot Demonstrations · 视频到机器人示教
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Human%20Demonstrations%20to%20Dexterous%20Skills&specialty=Video-to-robot%20Demonstrations#research-workbench)
 
 > 23 conference papers · 138 recent arXiv papers

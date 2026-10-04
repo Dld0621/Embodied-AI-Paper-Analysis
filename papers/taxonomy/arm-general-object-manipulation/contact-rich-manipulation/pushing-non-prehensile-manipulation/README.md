@@ -1,8 +1,12 @@
 # Pushing & Non-prehensile Manipulation · 推滑与非抓取操作
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Pushing%20%26%20Non-prehensile%20Manipulation#research-workbench)
 
-> 48 conference papers · 131 recent arXiv papers
+> 48 conference papers · 130 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -69,7 +73,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | To ask for help or not to ask: A predictive approach to human-in-the-loop motion planning for robot manipulation tasks | IROS · Manipulation | [Paper](https://eprints.whiterose.ac.uk/189268/1/root.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981679) | rule-assigned |
 | 2022 | Data Augmentation for Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2205.02886) · [Index](https://dblp.org/rec/journals/corr/abs-2205-02886) | rule-assigned |
 
-## Recent arXiv papers (131)
+## Recent arXiv papers (130)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -203,7 +207,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-06 | On the Role of the Action Space in Robot Manipulation Learning and Sim-to-Real Transfer | Elie Aljalbout, Felix Frank, Maximilian Karl, Patrick van der Smagt | [Abstract](https://arxiv.org/abs/2312.03673) · [PDF](https://arxiv.org/pdf/2312.03673) | rule-assigned |
 | 2023-11-19 | Tactile Active Inference Reinforcement Learning for Efficient Robotic Manipulation Skill Acquisition | Zihao Liu, Xing Liu, Yizhai Zhang, Zhengxiong Liu et al. | [Abstract](https://arxiv.org/abs/2311.11287) · [PDF](https://arxiv.org/pdf/2311.11287) | rule-assigned |
 | 2023-11-08 | Versatile Airborne Ultrasonic NDT Technologies via Active Omni-Sliding with Over-Actuated Aerial Vehicles | Tong Hui, Florian Braun, Nicolas Scheidt, Marius Fehr et al. | [Abstract](https://arxiv.org/abs/2311.04662) · [PDF](https://arxiv.org/pdf/2311.04662) | rule-assigned |
-| 2023-10-03 | How Physics and Background Attributes Impact Video Transformers in Robotic Manipulation: A Case Study on Planar Pushing | Shutong Jin, Ruiyu Wang, Muhammad Zahid, Florian T. Pokorny | [Abstract](https://arxiv.org/abs/2310.02044) · [PDF](https://arxiv.org/pdf/2310.02044) | rule-assigned |
 
 ---
 

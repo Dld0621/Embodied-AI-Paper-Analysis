@@ -1,5 +1,9 @@
 # Point-goal & Image-goal Navigation · 点目标与图像目标导航
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Goal%20%26%20Language%20Navigation&specialty=Point-goal%20%26%20Image-goal%20Navigation#research-workbench)
 
 > 23 conference papers · 106 recent arXiv papers

@@ -1,5 +1,9 @@
 # Cloth & Garments · 布料与衣物
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation&specialty=Cloth%20%26%20Garments#research-workbench)
 
 > 22 conference papers · 55 recent arXiv papers
@@ -29,7 +33,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | Learning Generalizable Language-Conditioned Cloth Manipulation from Long Demonstrations | IROS · Language Conditioned | [Paper](https://arxiv.org/abs/2503.04557) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246306) | rule-assigned |
 | 2025 | SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation | IROS · Language Model | [Paper](https://arxiv.org/abs/2409.18082) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246904) | rule-assigned |
 | 2024 | UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence | CVPR · Manipulation | [Paper](https://arxiv.org/pdf/2405.06903) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01546) | rule-assigned |
-| 2024 | Attention-Based Cloth Manipulation from Model-free Topological Representation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610241) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610241) | rule-assigned |
+| 2024 | Attention-Based Cloth Manipulation from Model-free Topological Representation | ICRA · Manipulation | [Paper](https://hdl.handle.net/11583/2991673) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610241) | rule-assigned |
 | 2024 | Learning Fabric Manipulation in the Real World with Human Videos | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2211.02832) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610062) | rule-assigned |
 | 2024 | Standardization of Cloth Objects and its Relevance in Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2403.04608) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610630) | rule-assigned |
 | 2024 | ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots | IROS · Foundation Model | [Paper](https://arxiv.org/abs/2405.06964) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801782) | rule-assigned |

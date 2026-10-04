@@ -1,5 +1,9 @@
 # Dynamic Recovery & Agility · 动态恢复与敏捷技能
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Quadruped%20%26%20Multilegged%20Locomotion&specialty=Dynamic%20Recovery%20%26%20Agility#research-workbench)
 
 > 0 conference papers · 4 recent arXiv papers

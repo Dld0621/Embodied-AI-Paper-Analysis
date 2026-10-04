@@ -1,8 +1,12 @@
 # Visual, LiDAR & Multisensor SLAM · 视觉／激光／多传感器 SLAM
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Visual%2C%20LiDAR%20%26%20Multisensor%20SLAM#research-workbench)
 
-> 14 conference papers · 551 recent arXiv papers
+> 14 conference papers · 550 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -35,7 +39,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | 3D Lidar Reconstruction with Probabilistic Depth Completion for Robotic Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2207.12520) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981531) | rule-assigned |
 | 2022 | Visual Confined-Space Navigation Using an Efficient Learned Bilinear Optic Flow Approximation for Insect-scale Robots | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981585) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981585) | rule-assigned |
 
-## Recent arXiv papers (551)
+## Recent arXiv papers (550)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -589,7 +593,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-10 | 3DS-SLAM: A 3D Object Detection based Semantic SLAM towards Dynamic Indoor Environments | Ghanta Sai Krishna, Kundrapu Supriya, Sabur Baidya | [Abstract](https://arxiv.org/abs/2310.06385) · [PDF](https://arxiv.org/pdf/2310.06385) | rule-assigned |
 | 2023-10-07 | Hierarchical Unsupervised Topological SLAM | Ayush Sharma, Yash Mehan, Pradyumna Dasu, Sourav Garg et al. | [Abstract](https://arxiv.org/abs/2310.04802) · [PDF](https://arxiv.org/pdf/2310.04802) | rule-assigned |
 | 2023-10-07 | HI-SLAM: Monocular Real-time Dense Mapping with Hybrid Implicit Fields | Wei Zhang, Tiecheng Sun, Sen Wang, Qing Cheng et al. | [Abstract](https://arxiv.org/abs/2310.04787) · [PDF](https://arxiv.org/pdf/2310.04787) | rule-assigned |
-| 2023-10-03 | Efficient Frontier Management for Collaborative Active SLAM | Muhammad Farhan Ahmed, Matteo Maragliano, Vincent FremontCarmine, Tommaso Recchiuto et al. | [Abstract](https://arxiv.org/abs/2310.01967) · [PDF](https://arxiv.org/pdf/2310.01967) | rule-assigned |
 
 ---
 

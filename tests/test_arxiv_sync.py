@@ -57,6 +57,21 @@ class ArxivTransportTests(unittest.TestCase):
             (("2026-06-30", "2026-06-30"), ("2026-07-01", "2026-07-01")),
         )
 
+    def test_explicit_snapshot_window_matches_requested_client_date(self):
+        previous = sync.SNAPSHOT_DATE
+        try:
+            sync.configure_window(date(2026, 10, 4))
+            self.assertEqual(sync.END_DATE, "2026-10-04")
+            self.assertEqual(sync.START_DATE, "2023-10-04")
+            self.assertIn("202610042359", sync.query_string())
+        finally:
+            sync.configure_window(previous)
+
+    def test_partial_candidate_harvest_cannot_be_published(self):
+        with self.assertRaisesRegex(ValueError, "snapshot was not updated"):
+            sync.verify_complete_count(99, 100)
+        sync.verify_complete_count(100, 100)
+
 
 if __name__ == "__main__":
     unittest.main()

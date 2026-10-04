@@ -1,5 +1,9 @@
 # Gripper & Suction Grasp Planning · 夹爪与吸盘抓取规划
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Grasping%20%26%20Pick-place&specialty=Gripper%20%26%20Suction%20Grasp%20Planning#research-workbench)
 
 > 87 conference papers · 149 recent arXiv papers

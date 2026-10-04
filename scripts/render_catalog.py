@@ -11,6 +11,7 @@ from collections import Counter
 from pathlib import Path
 from urllib.parse import quote
 from render_taxonomy_views import render_views
+from freshness import build_status, hong_kong_today, render_coverage, stamp_markdown
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -910,6 +911,7 @@ def render_root_readme(catalog: dict, arxiv: dict, language: str) -> str:
             "| 从 9 个方向逐级浏览到最细专题 | [三级研究分类图](papers/taxonomy/README.md) |",
             "| 浏览近五年顶会层 | [顶会论文总览](papers/README.md) |",
             "| 跨分类重定向检索、分类依据与待审 | [关联主题](papers/topics/README.md) · [分类说明](docs/taxonomy-guide.md) · [待审清单](papers/classification-review/README.md) |",
+            "| 查看实际更新时间与完整性边界 | [更新日期与覆盖报告](docs/coverage-report.md) |",
             "| 使用机器可读数据 | [`papers.json`](data/papers.json) · [`arxiv_recent.json`](data/arxiv_recent.json) |",
             "",
             "## 项目解决什么问题",
@@ -1018,6 +1020,7 @@ def render_root_readme(catalog: dict, arxiv: dict, language: str) -> str:
             "| Browse from nine directions to the finest specialty | [Three-level taxonomy](papers/taxonomy/README.md) |",
             "| Browse the five-year conference layer | [Conference paper overview](papers/README.md) |",
             "| Cross-topic retargeting, evidence and review | [Topic views](papers/topics/README.md) · [Classification guide](docs/taxonomy-guide.md) · [Review queue](papers/classification-review/README.md) |",
+            "| Check actual freshness and coverage boundaries | [Freshness and coverage report](docs/coverage-report.md) |",
             "| Use machine-readable data | [`papers.json`](data/papers.json) · [`arxiv_recent.json`](data/arxiv_recent.json) |",
             "",
             "## What this project provides",
@@ -1109,9 +1112,14 @@ def render_root_readme(catalog: dict, arxiv: dict, language: str) -> str:
     return "\n".join(lines)
 
 
-def render_outputs() -> dict[Path, str]:
+def render_outputs(updated_on: str | None = None) -> dict[Path, str]:
     catalog = json.loads(DATA_PATH.read_text(encoding="utf-8"))
     arxiv = json.loads(ARXIV_PATH.read_text(encoding="utf-8"))
+    status_path = ROOT / "data" / "catalog_status.json"
+    if updated_on is None:
+        previous = json.loads(status_path.read_text()) if status_path.exists() else {}
+        updated_on = max(catalog["as_of"], arxiv["as_of"], previous.get("documents_updated_on", ""))
+    status = build_status(catalog, arxiv, updated_on)
     outputs = {
         ROOT / "README.md": render_root_readme(catalog, arxiv, "en"),
         ROOT / "README.zh-CN.md": render_root_readme(catalog, arxiv, "zh"),
@@ -1144,14 +1152,44 @@ def render_outputs() -> dict[Path, str]:
                 outputs[ARXIV_DIR / slug / f"{year}-{period.casefold()}.md"] = render_arxiv_year(
                     arxiv, track, year, papers, f"{year} {period}", include_authors=False
                 )
+    # Sync dates in active pages; historical receipts keep their actual event dates.
+    for relative in ("CONTRIBUTING.md", "docs/taxonomy-guide.md", "docs/reading-methodology.md",
+                     "docs/paper-analysis-template.md", "docs/tactile-paper-analysis.md"):
+        path = ROOT / relative
+        outputs[path] = path.read_text(encoding="utf-8")
+    for path in (ROOT / "notes").rglob("*.md"):
+        outputs[path] = path.read_text(encoding="utf-8")
+    outputs[ROOT / "docs" / "coverage-report.md"] = render_coverage(status, catalog)
+    outputs = {path: stamp_markdown(text, status) for path, text in outputs.items()}
+    outputs[status_path] = json.dumps(status, ensure_ascii=False, indent=2) + "\n"
+    index = ROOT / "index.html"
+    content = index.read_text(encoding="utf-8")
+    for element, value in {
+        "paper-count": status["combined_unique_records"], "conference-count": status["conference_records"],
+        "arxiv-count": status["arxiv_records"], "arxiv-candidate-count": f"{status['arxiv_candidates']:,}",
+        "result-count": status["combined_unique_records"],
+    }.items():
+        content = re.sub(rf'(id="{element}">)[^<]*', lambda m: m.group(1) + str(value), content)
+    outputs[index] = content
+    preview = ROOT / "assets" / "social-preview.svg"
+    content = preview.read_text(encoding="utf-8")
+    for element, value in {
+        "preview-record-count": f"{status['combined_unique_records']:,}", "preview-match-count": f"{status['combined_unique_records']:,}",
+        "preview-conference-count": f"{status['conference_records']:,}", "preview-arxiv-count": f"{status['arxiv_records'] / 1000:.1f}K",
+    }.items():
+        content = re.sub(rf'(<text\b[^>]*\bid="{element}"[^>]*>)[^<]*', lambda m: m.group(1) + value, content)
+    content = re.sub(r'(<desc id="desc">)[^<]*', lambda m: m.group(1) + f"Research index synced {updated_on}; {status['combined_unique_records']:,} unique records. Conference snapshot {catalog['as_of']}; arXiv snapshot {arxiv['as_of']}.", content)
+    outputs[preview] = content
     return outputs
 
 
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--check", action="store_true")
+    parser.add_argument("--updated-on", help="document sync date YYYY-MM-DD; normal builds default to Hong Kong today")
     args = parser.parse_args()
-    outputs = render_outputs()
+    updated_on = args.updated_on or (None if args.check else hong_kong_today())
+    outputs = render_outputs(updated_on)
     stale = [path for path, rendered in outputs.items() if not path.exists() or path.read_text(encoding="utf-8") != rendered]
     generated_roots = (TAXONOMY_DIR, ARXIV_DIR, TRACK_DIR, PAPERS_DIR / "classification-review", PAPERS_DIR / "topics")
     expected_generated = {

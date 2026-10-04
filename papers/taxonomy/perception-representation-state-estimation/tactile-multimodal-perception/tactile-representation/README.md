@@ -1,8 +1,12 @@
 # Tactile Representation · 触觉表征
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Tactile%20Representation#research-workbench)
 
-> 61 conference papers · 127 recent arXiv papers
+> 61 conference papers · 126 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -82,7 +86,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Play it by Ear: Learning Skills amidst Occlusion through Audio-Visual Imitation Learning | RSS · Imitation Learning | [Paper](https://arxiv.org/pdf/2205.14850) · [Index](https://dblp.org/rec/journals/corr/abs-2205-14850) | rule-assigned |
 | 2022 | Understanding Dynamic Tactile Sensing for Liquid Property Estimation | RSS · Tactile | [Paper](https://arxiv.org/pdf/2205.08771) · [Index](https://dblp.org/rec/journals/corr/abs-2205-08771) | rule-assigned |
 
-## Recent arXiv papers (127)
+## Recent arXiv papers (126)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -212,7 +216,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-06 | Snake Robot with Tactile Perception Navigates on Large-scale Challenging Terrain | Shuo Jiang, Adarsh Salagame, Alireza Ramezani, Lawson Wong | [Abstract](https://arxiv.org/abs/2312.03225) · [PDF](https://arxiv.org/pdf/2312.03225) | rule-assigned |
 | 2023-11-07 | Cyclic Fusion of Measuring Information in Curved Elastomer Contact via Vision-Based Tactile Sensing | Zilan Li, Zhibin Zou, Weiliang Xu, Yuanzhi Zhou et al. | [Abstract](https://arxiv.org/abs/2311.04002) · [PDF](https://arxiv.org/pdf/2311.04002) | rule-assigned |
 | 2023-11-06 | A multi-modal approach to continuous material identification through tactile sensing | Augusto Gómez Eguíluz, Ignacio Rañó, Sonya A. Coleman, T. Martin McGinnity | [Abstract](https://arxiv.org/abs/2311.03090) · [PDF](https://arxiv.org/pdf/2311.03090) | rule-assigned |
-| 2023-10-03 | A Vision-Based Tactile Sensing System for Multimodal Contact Information Perception via Neural Network | Weiliang Xu, Guoyuan Zhou, Yuanzhi Zhou, Zhibin Zou et al. | [Abstract](https://arxiv.org/abs/2310.01986) · [PDF](https://arxiv.org/pdf/2310.01986) | rule-assigned |
 
 ---
 

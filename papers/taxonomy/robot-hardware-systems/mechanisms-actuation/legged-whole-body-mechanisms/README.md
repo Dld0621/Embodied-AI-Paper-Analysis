@@ -1,5 +1,9 @@
 # Legged & Whole-body Mechanisms · 腿式与全身机构
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Legged%20%26%20Whole-body%20Mechanisms#research-workbench)
 
 > 6 conference papers · 38 recent arXiv papers

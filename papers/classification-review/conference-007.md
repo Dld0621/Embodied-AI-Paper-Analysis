@@ -1,5 +1,9 @@
 # conference classification review · 1201–1400
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
@@ -16,7 +20,7 @@
 | [Synthetic-to-Real Domain Adaptation for Action Recognition: A Dataset and Baseline Performances](https://arxiv.org/abs/2303.10280) | 2023 · conference | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:dataset |
 | [System Configuration and Navigation of a Guide Dog Robot: Toward Animal Guide Dog-Level Guiding Work](https://arxiv.org/pdf/2210.13368) | 2023 · conference | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
 | [Tac-VGNN: A Voronoi Graph Neural Network for Pose-Based Tactile Servoing](https://arxiv.org/pdf/2303.02708) | 2023 · conference | Perception, Representation & State Estimation → Tactile & Multimodal Perception → Pending specialty review | title:perception or state; title:tactile |
-| [Tactile based robotic skills for cable routing operations](https://doi.org/10.1109/ICRA48891.2023.10160729) | 2023 · conference | Perception, Representation & State Estimation → Tactile & Multimodal Perception → Pending specialty review | title:perception or state; title:tactile |
+| [Tactile based robotic skills for cable routing operations](https://hdl.handle.net/11583/2984170) | 2023 · conference | Perception, Representation & State Estimation → Tactile & Multimodal Perception → Pending specialty review | title:perception or state; title:tactile |
 | [Tactile-Driven Gentle Grasping for Human-Robot Collaborative Tasks](https://arxiv.org/pdf/2303.09346) | 2023 · conference | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasping |
 | [Task-Oriented Grasp Prediction with Visual-Language Inputs](https://arxiv.org/abs/2302.14355) | 2023 · conference | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasp |
 | [Tell Me Where to Go: A Composable Framework for Context-Aware Embodied Robot Navigation](https://arxiv.org/abs/2306.09523) | 2023 · conference | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |

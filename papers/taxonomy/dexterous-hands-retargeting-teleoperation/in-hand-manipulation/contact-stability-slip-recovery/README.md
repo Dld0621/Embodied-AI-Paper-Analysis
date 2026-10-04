@@ -1,5 +1,9 @@
 # Contact Stability & Slip Recovery · 稳定接触与滑移恢复
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=In-hand%20Manipulation&specialty=Contact%20Stability%20%26%20Slip%20Recovery#research-workbench)
 
 > 1 conference papers · 15 recent arXiv papers

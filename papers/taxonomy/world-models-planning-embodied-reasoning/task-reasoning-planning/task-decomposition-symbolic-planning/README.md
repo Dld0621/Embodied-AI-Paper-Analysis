@@ -1,8 +1,12 @@
 # Task Decomposition & Symbolic Planning · 任务分解与符号规划
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Task%20Reasoning%20%26%20Planning&specialty=Task%20Decomposition%20%26%20Symbolic%20Planning#research-workbench)
 
-> 47 conference papers · 227 recent arXiv papers
+> 47 conference papers · 226 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -68,7 +72,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Robot Skill Learning with Identification of Preconditions and Postconditions via Level Set Estimation | IROS · Skill Learning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981933) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981933) | rule-assigned |
 | 2022 | Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement | IROS · Object Rearrangement | [Paper](https://arxiv.org/pdf/2207.08078) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981715) | rule-assigned |
 
-## Recent arXiv papers (227)
+## Recent arXiv papers (226)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -298,7 +302,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-16 | Adaptive Robot Assistance: Expertise and Influence in Multi-User Task Planning | Abhinav Dahiya, Stephen L. Smith | [Abstract](https://arxiv.org/abs/2310.10502) · [PDF](https://arxiv.org/pdf/2310.10502) | rule-assigned |
 | 2023-10-12 | Tree-Planner: Efficient Close-loop Task Planning with Large Language Models | Mengkang Hu, Yao Mu, Xinmiao Yu, Mingyu Ding et al. | [Abstract](https://arxiv.org/abs/2310.08582) · [PDF](https://arxiv.org/pdf/2310.08582) | rule-assigned |
 | 2023-10-10 | Dobby: A Conversational Service Robot Driven by GPT-4 | Carson Stark, Bohkyung Chun, Casey Charleston, Varsha Ravi et al. | [Abstract](https://arxiv.org/abs/2310.06303) · [PDF](https://arxiv.org/pdf/2310.06303) | rule-assigned |
-| 2023-10-03 | Multi-Robot Task Planning to Secure Human Group Progress | Roland Godet, Charles Lesire, Arthur Bit-Monnot | [Abstract](https://arxiv.org/abs/2310.07731) · [PDF](https://arxiv.org/pdf/2310.07731) | rule-assigned |
 
 ---
 

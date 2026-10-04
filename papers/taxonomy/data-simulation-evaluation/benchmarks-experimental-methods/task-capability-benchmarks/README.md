@@ -1,8 +1,12 @@
 # Task & Capability Benchmarks · 任务与能力基准
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Experimental%20Methods&specialty=Task%20%26%20Capability%20Benchmarks#research-workbench)
 
-> 77 conference papers · 644 recent arXiv papers
+> 77 conference papers · 640 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -98,7 +102,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2201.09863) · [Index](https://dblp.org/rec/conf/nips/BhatiaJTXM21) | rule-assigned |
 | 2022 | VLMbench: A Compositional Benchmark for Vision-and-Language Manipulation | NeurIPS · Language manipulation benchmark | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/04543a88eae2683133c1acbef5a6bf77-Abstract-Datasets_and_Benchmarks.html) · [Official](https://proceedings.neurips.cc/paper_files/paper/2022/hash/04543a88eae2683133c1acbef5a6bf77-Abstract-Datasets_and_Benchmarks.html) | rule-assigned |
 
-## Recent arXiv papers (644)
+## Recent arXiv papers (640)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -742,10 +746,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-17 | Open-Structure: Structural Benchmark Dataset for SLAM Algorithms | Yanyan Li, Zhao Guo, Ze Yang, Yanbiao Sun et al. | [Abstract](https://arxiv.org/abs/2310.10931) · [PDF](https://arxiv.org/pdf/2310.10931) | rule-assigned |
 | 2023-10-15 | Recursively-Constrained Partially Observable Markov Decision Processes | Qi Heng Ho, Tyler Becker, Benjamin Kraske, Zakariya Laouar et al. | [Abstract](https://arxiv.org/abs/2310.09688) · [PDF](https://arxiv.org/pdf/2310.09688) | rule-assigned |
 | 2023-10-11 | CRITERIA: a New Benchmarking Paradigm for Evaluating Trajectory Prediction Models for Autonomous Driving | Changhe Chen, Mozhgan Pourkeshavarz, Amir Rasouli | [Abstract](https://arxiv.org/abs/2310.07794) · [PDF](https://arxiv.org/pdf/2310.07794) | rule-assigned |
-| 2023-10-03 | Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond | Liang Chen, Yichi Zhang, Shuhuai Ren, Haozhe Zhao et al. | [Abstract](https://arxiv.org/abs/2310.02071) · [PDF](https://arxiv.org/pdf/2310.02071) | rule-assigned |
-| 2023-10-03 | RSRD: A Road Surface Reconstruction Dataset and Benchmark for Safe and Comfortable Autonomous Driving | Tong Zhao, Chenfeng Xu, Mingyu Ding, Masayoshi Tomizuka et al. | [Abstract](https://arxiv.org/abs/2310.02262) · [PDF](https://arxiv.org/pdf/2310.02262) | rule-assigned |
-| 2023-10-03 | OceanGPT: A Large Language Model for Ocean Science Tasks | Zhen Bi, Ningyu Zhang, Yida Xue, Yixin Ou et al. | [Abstract](https://arxiv.org/abs/2310.02031) · [PDF](https://arxiv.org/pdf/2310.02031) | rule-assigned |
-| 2023-10-03 | Mini-BEHAVIOR: A Procedurally Generated Benchmark for Long-horizon Decision-Making in Embodied AI | Emily Jin, Jiaheng Hu, Zhuoyi Huang, Ruohan Zhang et al. | [Abstract](https://arxiv.org/abs/2310.01824) · [PDF](https://arxiv.org/pdf/2310.01824) | rule-assigned |
 
 ---
 

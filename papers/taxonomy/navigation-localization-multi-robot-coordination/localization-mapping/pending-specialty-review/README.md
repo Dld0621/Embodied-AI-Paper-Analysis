@@ -1,8 +1,12 @@
 # Pending specialty review · 待审专题
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Pending%20specialty%20review#research-workbench)
 
-> 195 conference papers · 913 recent arXiv papers
+> 195 conference papers · 911 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -216,7 +220,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | VER: Scaling On-Policy RL Leads to the Emergence of Navigation in Embodied Rearrangement | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.05064) · [Index](https://dblp.org/rec/conf/nips/WijmansEB22) | needs-review |
 | 2022 | ViKiNG: Vision-Based Kilometer-Scale Navigation with Geographic Hints | RSS · Navigation | [Paper](https://doi.org/10.15607/rss.2022.xviii.019) · [Publisher](https://doi.org/10.15607/RSS.2022.XVIII.019) | needs-review |
 
-## Recent arXiv papers (913)
+## Recent arXiv papers (911)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -1131,8 +1135,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-09 | Geometry-Aware Safety-Critical Local Reactive Controller for Robot Navigation in Unknown and Cluttered Environments | Yulin Li, Xindong Tang, Kai Chen, Chunxin Zheng et al. | [Abstract](https://arxiv.org/abs/2310.05547) · [PDF](https://arxiv.org/pdf/2310.05547) | needs-review |
 | 2023-10-07 | Current Trends and Advances in Quantum Navigation for Maritime Applications: A Comprehensive Review | Olga Sambataro, Riccardo Costanzi, Joao Alves, Andrea Caiti et al. | [Abstract](https://arxiv.org/abs/2310.04729) · [PDF](https://arxiv.org/pdf/2310.04729) | needs-review |
 | 2023-10-05 | Cyber Physical System Information Collection: Robot Location and Navigation Method Based on QR Code | Hongwei Li, Tao Xiong | [Abstract](https://arxiv.org/abs/2310.03470) · [PDF](https://arxiv.org/pdf/2310.03470) | needs-review |
-| 2023-10-03 | Learning Diverse Skills for Local Navigation under Multi-constraint Optimality | Jin Cheng, Marin Vlastelica, Pavel Kolev, Chenhao Li et al. | [Abstract](https://arxiv.org/abs/2310.02440) · [PDF](https://arxiv.org/pdf/2310.02440) | needs-review |
-| 2023-10-03 | Automatic Data Processing for Space Robotics Machine Learning | Anja Sheppard, Katherine A. Skinner | [Abstract](https://arxiv.org/abs/2310.01932) · [PDF](https://arxiv.org/pdf/2310.01932) | needs-review |
 
 ---
 

@@ -1,8 +1,12 @@
 # Multi-robot Coordination · 多机器人协调
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Multi-robot%20%26%20Social%20Navigation&specialty=Multi-robot%20Coordination#research-workbench)
 
-> 67 conference papers · 378 recent arXiv papers
+> 67 conference papers · 377 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -88,7 +92,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Multi-Robot Unknown Area Exploration Using Frontier Trees | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS47612.2022.9981914) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981914) | rule-assigned |
 | 2022 | PropEM-L: Radio Propagation Environment Modeling and Learning for Communication-Aware Multi-Robot Exploration | RSS · Exploration | [Paper](https://arxiv.org/abs/2205.01267) · [Index](https://dblp.org/rec/journals/corr/abs-2205-01267) | rule-assigned |
 
-## Recent arXiv papers (378)
+## Recent arXiv papers (377)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -469,7 +473,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-10 | Multi-Robot Cooperative Navigation in Crowds: A Game-Theoretic Learning-Based Model Predictive Control Approach | Viet-Anh Le, Vaishnav Tadiparthi, Behdad Chalaki, Hossein Nourkhiz Mahjoub et al. | [Abstract](https://arxiv.org/abs/2310.06964) · [PDF](https://arxiv.org/pdf/2310.06964) | rule-assigned |
 | 2023-10-09 | Multi-Robot Task Assignment and Path Finding for Time-Sensitive Missions with Online Task Generation | David Thorne, Brett T. Lopez | [Abstract](https://arxiv.org/abs/2310.06153) · [PDF](https://arxiv.org/pdf/2310.06153) | rule-assigned |
 | 2023-10-09 | Efficient Multi-robot Active SLAM | Muhammad Farhan Ahmed, Matteo Maragliano, Vincent Frémont, Carmine Tommaso Recchiuto | [Abstract](https://arxiv.org/abs/2310.06160) · [PDF](https://arxiv.org/pdf/2310.06160) | rule-assigned |
-| 2023-10-03 | A Distributed Multi-Robot Framework for Exploration, Information Acquisition and Consensus | Aalok Patwardhan, Andrew J. Davison | [Abstract](https://arxiv.org/abs/2310.01930) · [PDF](https://arxiv.org/pdf/2310.01930) | rule-assigned |
 
 ---
 

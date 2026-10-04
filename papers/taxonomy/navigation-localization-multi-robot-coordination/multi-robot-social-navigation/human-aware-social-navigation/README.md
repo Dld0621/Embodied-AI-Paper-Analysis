@@ -1,5 +1,9 @@
 # Human-aware & Social Navigation · 人群交互与社会规范导航
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Multi-robot%20%26%20Social%20Navigation&specialty=Human-aware%20%26%20Social%20Navigation#research-workbench)
 
 > 56 conference papers · 176 recent arXiv papers

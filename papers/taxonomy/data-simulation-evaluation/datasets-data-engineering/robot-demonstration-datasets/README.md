@@ -1,8 +1,12 @@
 # Robot Demonstration Datasets · 机器人示教数据集
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engineering&specialty=Robot%20Demonstration%20Datasets#research-workbench)
 
-> 14 conference papers · 65 recent arXiv papers
+> 14 conference papers · 64 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -35,7 +39,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | SiT Dataset: Socially Interactive Pedestrian Trajectory Dataset for Social Navigation Robots | NeurIPS · Navigation | [Paper](https://doi.org/10.52202/075280-1067) · [Publisher](https://doi.org/10.52202/075280-1067) | rule-assigned |
 | 2022 | PATO: Policy Assisted TeleOperation for Scalable Robot Data Collection | RSS · Teleoperation | [Paper](https://arxiv.org/abs/2212.04708) · [Index](https://dblp.org/rec/journals/corr/abs-2212-04708) | rule-assigned |
 
-## Recent arXiv papers (65)
+## Recent arXiv papers (64)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -103,7 +107,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-03-08 | Efficient Data Collection for Robotic Manipulation via Compositional Generalization | Jensen Gao, Annie Xie, Ted Xiao, Chelsea Finn et al. | [Abstract](https://arxiv.org/abs/2403.05110) · [PDF](https://arxiv.org/pdf/2403.05110) | rule-assigned |
 | 2023-12-14 | WIT-UAS: A Wildland-fire Infrared Thermal Dataset to Detect Crew Assets From Aerial Views | Andrew Jong, Mukai Yu, Devansh Dhrafani, Siva Kailas et al. | [Abstract](https://arxiv.org/abs/2312.09159) · [PDF](https://arxiv.org/pdf/2312.09159) | rule-assigned |
 | 2023-11-21 | InteRACT: Transformer Models for Human Intent Prediction Conditioned on Robot Actions | Kushal Kedia, Atiksh Bhardwaj, Prithwish Dan, Sanjiban Choudhury | [Abstract](https://arxiv.org/abs/2311.12943) · [PDF](https://arxiv.org/pdf/2311.12943) | rule-assigned |
-| 2023-10-03 | TreeScope: An Agricultural Robotics Dataset for LiDAR-Based Mapping of Trees in Forests and Orchards | Derek Cheng, Fernando Cladera Ojeda, Ankit Prabhu, Xu Liu et al. | [Abstract](https://arxiv.org/abs/2310.02162) · [PDF](https://arxiv.org/pdf/2310.02162) | rule-assigned |
 
 ---
 

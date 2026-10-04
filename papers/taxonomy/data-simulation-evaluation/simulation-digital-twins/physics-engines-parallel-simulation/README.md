@@ -1,5 +1,9 @@
 # Physics Engines & Parallel Simulation · 物理引擎与并行仿真
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Physics%20Engines%20%26%20Parallel%20Simulation#research-workbench)
 
 > 14 conference papers · 116 recent arXiv papers

@@ -1,5 +1,9 @@
 # Interactive Imitation & Correction · 交互式模仿与纠错
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Imitation%20Learning&specialty=Interactive%20Imitation%20%26%20Correction#research-workbench)
 
 > 2 conference papers · 19 recent arXiv papers

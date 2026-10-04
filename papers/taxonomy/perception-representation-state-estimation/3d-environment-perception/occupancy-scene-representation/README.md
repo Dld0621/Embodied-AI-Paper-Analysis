@@ -1,8 +1,12 @@
 # Occupancy & Scene Representation · 占据与场景表达
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=Occupancy%20%26%20Scene%20Representation#research-workbench)
 
-> 31 conference papers · 324 recent arXiv papers
+> 31 conference papers · 322 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -52,7 +56,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models | CoRL · Language Model | [Paper](https://arxiv.org/pdf/2207.11514) · [Index](https://dblp.org/rec/conf/corl/HaS22) | rule-assigned |
 | 2022 | Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization | RSS · 3D Scene | [Paper](https://hdl.handle.net/1721.1/145300) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.050) | rule-assigned |
 
-## Recent arXiv papers (324)
+## Recent arXiv papers (322)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -378,8 +382,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-16 | Multi-Body Neural Scene Flow | Kavisha Vidanapathirana, Shin-Fang Chng, Xueqian Li, Simon Lucey | [Abstract](https://arxiv.org/abs/2310.10301) · [PDF](https://arxiv.org/pdf/2310.10301) | rule-assigned |
 | 2023-10-09 | DyST: Towards Dynamic Neural Scene Representations on Real-World Videos | Maximilian Seitzer, Sjoerd van Steenkiste, Thomas Kipf, Klaus Greff et al. | [Abstract](https://arxiv.org/abs/2310.06020) · [PDF](https://arxiv.org/pdf/2310.06020) | rule-assigned |
 | 2023-10-05 | Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation | Kashu Yamazaki, Taisei Hanyu, Khoa Vo, Thang Pham et al. | [Abstract](https://arxiv.org/abs/2310.03923) · [PDF](https://arxiv.org/pdf/2310.03923) | rule-assigned |
-| 2023-10-03 | Talk2BEV: Language-enhanced Bird's-eye View Maps for Autonomous Driving | Tushar Choudhary, Vikrant Dewangan, Shivam Chandhok, Shubham Priyadarshan et al. | [Abstract](https://arxiv.org/abs/2310.02251) · [PDF](https://arxiv.org/pdf/2310.02251) | rule-assigned |
-| 2023-10-03 | Predicting Future Spatiotemporal Occupancy Grids with Semantics for Autonomous Driving | Maneekwan Toyungyernsub, Esen Yel, Jiachen Li, Mykel J. Kochenderfer | [Abstract](https://arxiv.org/abs/2310.01723) · [PDF](https://arxiv.org/pdf/2310.01723) | rule-assigned |
 
 ---
 

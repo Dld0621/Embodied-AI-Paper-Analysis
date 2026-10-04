@@ -1,5 +1,9 @@
 # GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 > Verified reading note · 已核验阅读笔记
 
 ## Metadata · 元信息

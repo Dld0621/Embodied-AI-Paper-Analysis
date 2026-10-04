@@ -1,8 +1,12 @@
 # Legged Locomotion & Whole-body Control · 足式运动与全身控制
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Conference census](../README.md)
 
-> 704 conference papers · 2,227 recent arXiv papers · 2022–2026
+> 704 conference papers · 2,226 recent arXiv papers · 2022–2026
 
 What is the primary contribution to legged locomotion & whole-body control?
 
@@ -14,13 +18,13 @@ What is the primary contribution to legged locomotion & whole-body control?
 
 **Venues:** CVPR · CoRL · ICCV · ICLR · ICRA · IROS · NeurIPS · RSS
 
-**Recent arXiv layer:** [2,227 papers from 2023-10-03–2026-10-03](../arxiv/legged-locomotion-whole-body-control/README.md)
+**Recent arXiv layer:** [2,226 papers from 2023-10-04–2026-10-04](../arxiv/legged-locomotion-whole-body-control/README.md)
 
 ## Subfield map · 二级子领域
 
 | Level-2 subfield | Conference | arXiv | Level-3 leaf catalogs |
 |---|---:|---:|---|
-| [Bipedal & Humanoid Locomotion · 双足与人形运动](../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion#research-workbench) | 367 | 987 | [Walking & Gaits · 行走与步态](../taxonomy/legged-locomotion-whole-body-control/bipedal-humanoid-locomotion/walking-gaits/README.md) — C 165 · A 347<br>[Running, Jumping & Agile Motion · 跑跳与敏捷运动](../taxonomy/legged-locomotion-whole-body-control/bipedal-humanoid-locomotion/running-jumping-agile-motion/README.md) — C 21 · A 103<br>[Terrain & Footstep Planning · 复杂地形与落脚规划](../taxonomy/legged-locomotion-whole-body-control/bipedal-humanoid-locomotion/terrain-footstep-planning/README.md) — C 12 · A 38<br>[Pending specialty review · 待审专题](../taxonomy/legged-locomotion-whole-body-control/bipedal-humanoid-locomotion/pending-specialty-review/README.md) — C 169 · A 499 |
+| [Bipedal & Humanoid Locomotion · 双足与人形运动](../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion#research-workbench) | 367 | 986 | [Walking & Gaits · 行走与步态](../taxonomy/legged-locomotion-whole-body-control/bipedal-humanoid-locomotion/walking-gaits/README.md) — C 165 · A 346<br>[Running, Jumping & Agile Motion · 跑跳与敏捷运动](../taxonomy/legged-locomotion-whole-body-control/bipedal-humanoid-locomotion/running-jumping-agile-motion/README.md) — C 21 · A 103<br>[Terrain & Footstep Planning · 复杂地形与落脚规划](../taxonomy/legged-locomotion-whole-body-control/bipedal-humanoid-locomotion/terrain-footstep-planning/README.md) — C 12 · A 38<br>[Pending specialty review · 待审专题](../taxonomy/legged-locomotion-whole-body-control/bipedal-humanoid-locomotion/pending-specialty-review/README.md) — C 169 · A 499 |
 | [Quadruped & Multilegged Locomotion · 四足与多足运动](../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Quadruped%20%26%20Multilegged%20Locomotion#research-workbench) | 241 | 515 | [Gaits & Locomotion Control · 步态与运动控制](../taxonomy/legged-locomotion-whole-body-control/quadruped-multilegged-locomotion/gaits-locomotion-control/README.md) — C 233 · A 476<br>[Terrain Adaptation · 地形适应](../taxonomy/legged-locomotion-whole-body-control/quadruped-multilegged-locomotion/terrain-adaptation/README.md) — C 8 · A 35<br>[Dynamic Recovery & Agility · 动态恢复与敏捷技能](../taxonomy/legged-locomotion-whole-body-control/quadruped-multilegged-locomotion/dynamic-recovery-agility/README.md) — C 0 · A 4<br>[Pending specialty review · 待审专题](../taxonomy/legged-locomotion-whole-body-control/quadruped-multilegged-locomotion/pending-specialty-review/README.md) — C 0 · A 0 |
 | [Whole-body Coordination & Balance · 全身协调与平衡](../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Coordination%20%26%20Balance#research-workbench) | 56 | 284 | [Whole-body Optimization & Control · 全身优化控制](../taxonomy/legged-locomotion-whole-body-control/whole-body-coordination-balance/whole-body-optimization-control/README.md) — C 39 · A 184<br>[Balance & Contact Regulation · 平衡与接触调节](../taxonomy/legged-locomotion-whole-body-control/whole-body-coordination-balance/balance-contact-regulation/README.md) — C 10 · A 70<br>[Fall Prevention & Recovery · 跌倒预防与恢复](../taxonomy/legged-locomotion-whole-body-control/whole-body-coordination-balance/fall-prevention-recovery/README.md) — C 7 · A 30<br>[Pending specialty review · 待审专题](../taxonomy/legged-locomotion-whole-body-control/whole-body-coordination-balance/pending-specialty-review/README.md) — C 0 · A 0 |
 | [Whole-body Motion Transfer · 全身动作迁移](../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Motion%20Transfer#research-workbench) | 29 | 298 | [Human-to-robot Kinematic Retargeting · 人体到机器人运动学重定向](../taxonomy/legged-locomotion-whole-body-control/whole-body-motion-transfer/human-to-robot-kinematic-retargeting/README.md) — C 6 · A 32<br>[Contact & Dynamic Retargeting · 接触与动力学重定向](../taxonomy/legged-locomotion-whole-body-control/whole-body-motion-transfer/contact-dynamic-retargeting/README.md) — C 0 · A 0<br>[Motion Imitation & Generation · 动作模仿与生成](../taxonomy/legged-locomotion-whole-body-control/whole-body-motion-transfer/motion-imitation-generation/README.md) — C 23 · A 266<br>[Pending specialty review · 待审专题](../taxonomy/legged-locomotion-whole-body-control/whole-body-motion-transfer/pending-specialty-review/README.md) — C 0 · A 0 |

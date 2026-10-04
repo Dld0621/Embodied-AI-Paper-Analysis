@@ -1,5 +1,9 @@
 # Motion Capture & Wearables · 动作捕捉与可穿戴设备
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Sensors%20%26%20Human%20Interfaces&specialty=Motion%20Capture%20%26%20Wearables#research-workbench)
 
 > 2 conference papers · 46 recent arXiv papers

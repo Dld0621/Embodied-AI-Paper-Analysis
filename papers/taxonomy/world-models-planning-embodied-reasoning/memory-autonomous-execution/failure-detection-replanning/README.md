@@ -1,5 +1,9 @@
 # Failure Detection & Replanning · 失败检测、纠错与重规划
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Memory%20%26%20Autonomous%20Execution&specialty=Failure%20Detection%20%26%20Replanning#research-workbench)
 
 > 10 conference papers · 147 recent arXiv papers

@@ -1,5 +1,9 @@
 # System Identification & Sim Calibration · 系统辨识与仿真校准
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Sim-to-real%20Transfer&specialty=System%20Identification%20%26%20Sim%20Calibration#research-workbench)
 
 > 1 conference papers · 17 recent arXiv papers

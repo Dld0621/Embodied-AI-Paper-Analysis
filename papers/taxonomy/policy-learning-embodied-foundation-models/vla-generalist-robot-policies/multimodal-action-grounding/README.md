@@ -1,5 +1,9 @@
 # Multimodal Action Grounding · 多模态动作对齐
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=VLA%20%26%20Generalist%20Robot%20Policies&specialty=Multimodal%20Action%20Grounding#research-workbench)
 
 > 10 conference papers · 39 recent arXiv papers

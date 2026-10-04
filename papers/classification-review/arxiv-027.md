@@ -1,11 +1,13 @@
-# arxiv classification review · 5201–5336
+# arxiv classification review · 5201–5333
+
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
-| [Learning Reward for Physical Skills using Large Language Model](https://arxiv.org/abs/2310.14092) | 2023 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
-| [Learning Rhythmic Trajectories with Geometric Constraints for Laser-Based Skincare Procedures](https://arxiv.org/abs/2312.13623) | 2023 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | fallback; fallback |
 | [Learning to Act from Actionless Videos through Dense Correspondences](https://arxiv.org/abs/2310.08576) | 2023 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
 | [LHManip: A Dataset for Long-Horizon Language-Grounded Manipulation Tasks in Cluttered Tabletop Environments](https://arxiv.org/abs/2312.12036) | 2023 · arxiv | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:dataset |
 | [LOTUS: Continual Imitation Learning for Robot Manipulation Through Unsupervised Skill Discovery](https://arxiv.org/abs/2311.02058) | 2023 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
@@ -93,7 +95,6 @@
 | [Soft and Rigid Object Grasping With Cross-Structure Hand Using Bilateral Control-Based Imitation Learning](https://arxiv.org/abs/2311.09555) | 2023 · arxiv | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasping |
 | [SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation](https://arxiv.org/abs/2310.16838) | 2023 · arxiv | 暂定二级 / provisional: Dexterous Hands, Retargeting & Teleoperation → Multifinger Grasping & Control → Pending specialty review | title:dexterous hands or teleoperation; fallback |
 | [Spatiotemporal Attention Enhances Lidar-Based Robot Navigation in Dynamic Environments](https://arxiv.org/abs/2310.19670) | 2023 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
-| [Spherical Rolling Robots Design, Modeling, and Control: A Systematic Literature Review](https://arxiv.org/abs/2310.02240) | 2023 · arxiv | 暂定二级 / provisional: Robot Hardware & Systems → Mechanisms & Actuation → Pending specialty review | title:hardware or deployment contribution; fallback |
 | [SPOC: Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World](https://arxiv.org/abs/2312.02976) | 2023 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
 | [Survey of Simulators for Aerial Robots: An Overview and In-Depth Systematic Comparisons](https://arxiv.org/abs/2311.02296) | 2023 · arxiv | Data, Simulation & Evaluation → Simulation & Digital Twins → Pending specialty review | title:data or evaluation contribution; title:simulators |
 | [Swarm-GPT: Combining Large Language Models with Safe Motion Planning for Robot Choreography Design](https://arxiv.org/abs/2312.01059) | 2023 · arxiv | 暂定二级 / provisional: Robot Hardware & Systems → Mechanisms & Actuation → Pending specialty review | title:hardware or deployment contribution; fallback |

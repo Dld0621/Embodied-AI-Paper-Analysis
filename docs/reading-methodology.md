@@ -1,5 +1,9 @@
 # 阅读方法论
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 > 怎么读，比读多少更重要。本文记录一套在具身智能论文上反复验证有效的三遍阅读法，以及把"读过"沉淀成"能用上"的具体动作。
 
 ## 三遍阅读法

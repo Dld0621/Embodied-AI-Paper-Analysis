@@ -1,5 +1,9 @@
 # Flexible & Soft Objects · 柔性与软体物体
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation&specialty=Flexible%20%26%20Soft%20Objects#research-workbench)
 
 > 15 conference papers · 52 recent arXiv papers

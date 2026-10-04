@@ -1,5 +1,9 @@
 # Pretraining & Scaling Laws · 预训练与规模化规律
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generalization%20%26%20Adaptation&specialty=Pretraining%20%26%20Scaling%20Laws#research-workbench)
 
 > 1 conference papers · 18 recent arXiv papers

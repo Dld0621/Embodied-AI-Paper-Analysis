@@ -1,8 +1,12 @@
 # Soft Mechanisms & Actuation · 软体机构与驱动
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Soft%20%26%20Specialized%20Robots&specialty=Soft%20Mechanisms%20%26%20Actuation#research-workbench)
 
-> 4 conference papers · 68 recent arXiv papers
+> 4 conference papers · 67 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,7 +29,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Strong Compliant Grasps Using a Cable-Driven Soft Gripper | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS58592.2024.10801693) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801693) | rule-assigned |
 | 2022 | Collision-Aware Fast Simulation for Soft Robots by Optimization-Based Geometric Computing | IROS · Simulation | [Paper](https://arxiv.org/abs/2203.02054) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981870) | rule-assigned |
 
-## Recent arXiv papers (68)
+## Recent arXiv papers (67)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -96,7 +100,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-12 | Multimodal Learning of Soft Robot Dynamics using Differentiable Filters | Xiao Liu, Yifan Zhou, Shuhei Ikemoto, Heni Ben Amor | [Abstract](https://arxiv.org/abs/2311.06954) · [PDF](https://arxiv.org/pdf/2311.06954) | rule-assigned |
 | 2023-11-03 | Learning Reduced-Order Soft Robot Controller | Chen Liang, Xifeng Gao, Kui Wu, Zherong Pan | [Abstract](https://arxiv.org/abs/2311.01720) · [PDF](https://arxiv.org/pdf/2311.01720) | rule-assigned |
 | 2023-11-02 | Estimating Infinite-Dimensional Continuum Robot States From the Tip | Tongjia Zheng, Ciera McFarland, Margaret Coad, Hai Lin | [Abstract](https://arxiv.org/abs/2311.01517) · [PDF](https://arxiv.org/pdf/2311.01517) | rule-assigned |
-| 2023-10-03 | Control of Soft Pneumatic Actuators with Approximated Dynamical Modeling | Wu-Te Yang, Burak Kurkcu, Motohiro Hirao, Lingfeng Sun et al. | [Abstract](https://arxiv.org/abs/2310.01740) · [PDF](https://arxiv.org/pdf/2310.01740) | rule-assigned |
 
 ---
 

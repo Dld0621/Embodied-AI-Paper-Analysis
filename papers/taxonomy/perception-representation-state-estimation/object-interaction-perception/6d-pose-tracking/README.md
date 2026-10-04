@@ -1,5 +1,9 @@
 # 6D Pose & Tracking · 六维姿态与跟踪
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Object%20%26%20Interaction%20Perception&specialty=6D%20Pose%20%26%20Tracking#research-workbench)
 
 > 38 conference papers · 197 recent arXiv papers

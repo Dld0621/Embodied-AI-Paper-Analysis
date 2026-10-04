@@ -1,5 +1,9 @@
 # Shared Autonomy & Assistance · 共享自主与辅助控制
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Control&specialty=Shared%20Autonomy%20%26%20Assistance#research-workbench)
 
 > 7 conference papers · 60 recent arXiv papers

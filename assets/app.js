@@ -67,6 +67,7 @@ function loadSaved() {
 
 const state = {
   conferencePapers: [], arxivPapers: [], papers: [], catalog: null, arxivCatalog: null,
+  freshness: null,
   language: localStorage.getItem("language") || "en", corpus: "all",
   year: "all", venue: "all", track: "all", subcategory: "all", specialty: "all", source: "all", query: "", sort: "latest",
   view: "all", visible: PAGE_SIZE, saved: loadSaved()
@@ -77,6 +78,8 @@ Object.assign(I18N.zh, { method_tags: "方法标签", embodiment_tags: "机器�
 const facetFields = [...TaxonomyFilters.fields, "classification_status"];
 I18N.en.provisionalParent = "Subfield is provisional; no supporting parent evidence.";
 I18N.zh.provisionalParent = "二级归属暂定：缺乏明确依据，需复核。";
+I18N.en.coverageReport = "Freshness and coverage report";
+I18N.zh.coverageReport = "更新日期与覆盖报告";
 function facetName(field, value) {
   if (field === "classification_status") return label(value);
   return state.language === "zh" ? state.catalog.taxonomy.facets[field][value]?.name_zh || value : value;
@@ -116,9 +119,11 @@ function sourceName(sourceType) {
 function refreshSnapshotLabels() {
   const conferenceWindow = `${state.catalog.window.start}–${state.catalog.window.end}`;
   const arxivWindow = `${state.arxivCatalog.window.start}–${state.arxivCatalog.window.end}`;
-  const updated = [state.catalog.as_of, state.arxivCatalog.as_of].sort().at(-1);
-  I18N.en.eyebrow = `Conference + arXiv census · updated ${updated}`;
-  I18N.zh.eyebrow = `顶会 + arXiv 系统普查 · 更新于 ${updated}`;
+  const updated = state.freshness.documents_updated_on;
+  I18N.en.eyebrow = `Conference + arXiv census · index synced ${updated}`;
+  I18N.zh.eyebrow = `顶会 + arXiv 系统普查 · 文档同步于 ${updated}`;
+  I18N.en.freshnessNote = `Documents: ${updated} · conference snapshot: ${state.catalog.as_of} · arXiv snapshot: ${state.arxivCatalog.as_of} · latest indexed submission: ${state.freshness.latest_arxiv_published}. Coverage is bounded, not all published literature.`;
+  I18N.zh.freshnessNote = `文档同步：${updated} · 顶会快照：${state.catalog.as_of} · arXiv 快照：${state.arxivCatalog.as_of} · 最新已收录原始发表日期：${state.freshness.latest_arxiv_published}。覆盖限于公开范围，不代表全网所有论文。`;
   I18N.en.arxivPapers = `arXiv ${arxivWindow}`;
   I18N.zh.arxivPapers = `篇 arXiv · ${arxivWindow}`;
   I18N.en.policyOneBody = `Conference years ${conferenceWindow}; arXiv submissions from ${state.arxivCatalog.window.start} through ${state.arxivCatalog.window.end}.`;
@@ -156,6 +161,7 @@ function applyLanguage() {
   document.querySelectorAll("[data-i18n]").forEach((node) => { node.textContent = label(node.dataset.i18n); });
   document.querySelectorAll("[data-i18n-placeholder]").forEach((node) => { node.placeholder = label(node.dataset.i18nPlaceholder); });
   $("#language-toggle").textContent = state.language === "en" ? "中文" : "EN";
+  $("#freshness-note").textContent = label("freshnessNote");
   renderAll();
   updateUrl();
 }
@@ -440,7 +446,8 @@ function exportMarkdown() {
   const items = filteredPapers();
   const escapeCell = (value) => String(value || "").replace(/\|/g, "\\|").replace(/\r?\n/g, " ");
   const lines = [
-    "# Embodied AI Research View", "", `> ${items.length} papers · exported ${new Date().toISOString().slice(0, 10)}`, "",
+    "# Embodied AI Research View", "", `> ${items.length} papers · exported ${new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Hong_Kong", year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date())} · Asia/Hong_Kong`, "",
+    `> Documents synced: ${state.freshness.documents_updated_on} · conference snapshot: ${state.catalog.as_of} · arXiv snapshot: ${state.arxivCatalog.as_of}`, "",
     "| Date | Venue | Paper | Authors | Direction | Subfield | Specialty | Topic | Provenance | Review | Evidence | Tags | Subfield status |", "|---|---|---|---|---|---|---|---|---|---|---|---|---|",
     ...items.map((paper) => `| ${paper.published || paper.year} | ${escapeCell(paper.venue)} | [${escapeCell(paper.title)}](${paper.paper_url}) | ${escapeCell((paper.authors || []).join(", "))} | ${escapeCell(paper.track)} | ${escapeCell(paper.subcategory)} | ${escapeCell(paper.specialty)} | ${escapeCell(paper.topic)} | [${paper.source_type}](${paper.official_url}) | ${paper.classification_status} | ${escapeCell(paper.primary_evidence || paper.taxonomy_evidence)} | ${escapeCell(TaxonomyFilters.fields.map((field) => field + ": " + (paper[field] || []).join("; ")).join(" / "))} | ${paper.subcategory_status} |`),
     "", "_Authors are included when supplied by the source; missing metadata is not inferred._", ""
@@ -451,8 +458,8 @@ function exportMarkdown() {
 
 function exportCsv() {
   const quote = (value) => `"${String(value || "").replace(/"/g, '""')}"`;
-  const header = ["Title", "Authors", "Date", "Year", "Venue", "Corpus", "Track", "Subfield", "Specialty", "Topic", "Taxonomy Evidence", "Paper URL", "Source URL", "Source Type", "Code URL", "Classification Status", "Primary Evidence", "Subfield Status", ...TaxonomyFilters.fields];
-  const rows = filteredPapers().map((paper) => [paper.title, (paper.authors || []).join("; "), paper.published || "", paper.year, paper.venue, paper.corpus, paper.track, paper.subcategory, paper.specialty, paper.topic, paper.taxonomy_evidence, paper.paper_url, paper.official_url, paper.source_type, paper.code_url || "", paper.classification_status, paper.primary_evidence, paper.subcategory_status, ...TaxonomyFilters.fields.map((field) => (paper[field] || []).join("; "))]);
+  const header = ["Title", "Authors", "Date", "Year", "Venue", "Corpus", "Track", "Subfield", "Specialty", "Topic", "Taxonomy Evidence", "Paper URL", "Source URL", "Source Type", "Code URL", "Classification Status", "Primary Evidence", "Subfield Status", ...TaxonomyFilters.fields, "Documents Synced On", "Conference Snapshot On", "arXiv Snapshot On"];
+  const rows = filteredPapers().map((paper) => [paper.title, (paper.authors || []).join("; "), paper.published || "", paper.year, paper.venue, paper.corpus, paper.track, paper.subcategory, paper.specialty, paper.topic, paper.taxonomy_evidence, paper.paper_url, paper.official_url, paper.source_type, paper.code_url || "", paper.classification_status, paper.primary_evidence, paper.subcategory_status, ...TaxonomyFilters.fields.map((field) => (paper[field] || []).join("; ")), state.freshness.documents_updated_on, state.catalog.as_of, state.arxivCatalog.as_of]);
   downloadFile("embodied-ai-research-view.csv", `\ufeff${[header, ...rows].map((row) => row.map(quote).join(",")).join("\r\n")}`, "text/csv;charset=utf-8");
   showToast(label("csvExported"));
 }
@@ -479,10 +486,17 @@ async function initialize() {
   const preferredDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
   document.documentElement.dataset.theme = storedTheme || (preferredDark ? "dark" : "light");
   try {
-    const [conferenceResponse, arxivResponse] = await Promise.all([fetch("data/papers.json"), fetch("data/arxiv_recent.json")]);
-    if (!conferenceResponse.ok || !arxivResponse.ok) throw new Error(`HTTP ${conferenceResponse.status}/${arxivResponse.status}`);
+    const [conferenceResponse, arxivResponse, freshnessResponse] = await Promise.all([fetch("data/papers.json"), fetch("data/arxiv_recent.json"), fetch("data/catalog_status.json")]);
+    if (!conferenceResponse.ok || !arxivResponse.ok || !freshnessResponse.ok) throw new Error(`HTTP ${conferenceResponse.status}/${arxivResponse.status}/${freshnessResponse.status}`);
     state.catalog = await conferenceResponse.json();
     state.arxivCatalog = await arxivResponse.json();
+    state.freshness = await freshnessResponse.json();
+    if (state.freshness.conference_snapshot_on !== state.catalog.as_of ||
+        state.freshness.arxiv_snapshot_on !== state.arxivCatalog.as_of ||
+        state.freshness.conference_records !== state.catalog.papers.length ||
+        state.freshness.arxiv_records !== state.arxivCatalog.papers.length) {
+      throw new Error("Catalog files are out of sync; reload to fetch matching source and date files.");
+    }
     state.conferencePapers = state.catalog.papers.map((paper) => ({ ...paper, corpus: "conference" }));
     state.arxivPapers = state.arxivCatalog.papers.map((paper) => ({ ...paper, corpus: "arxiv" }));
     state.papers = combinedUniquePapers();

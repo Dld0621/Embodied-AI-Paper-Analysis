@@ -1,5 +1,9 @@
 # Object-goal & Semantic Navigation · 物体目标与语义导航
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Goal%20%26%20Language%20Navigation&specialty=Object-goal%20%26%20Semantic%20Navigation#research-workbench)
 
 > 27 conference papers · 100 recent arXiv papers

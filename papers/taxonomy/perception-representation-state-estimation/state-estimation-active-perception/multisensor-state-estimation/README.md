@@ -1,8 +1,12 @@
 # Multisensor State Estimation · 多传感器状态估计
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=State%20Estimation%20%26%20Active%20Perception&specialty=Multisensor%20State%20Estimation#research-workbench)
 
-> 26 conference papers · 222 recent arXiv papers
+> 26 conference papers · 221 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -47,7 +51,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | STEADY: Simultaneous State Estimation and Dynamics Learning from Indirect Observations | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2203.01299) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981279) | rule-assigned |
 | 2022 | The Uncertainty Aware Salted Kalman Filter: State Estimation for Hybrid Systems with Uncertain Guards | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2202.12729) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981218) | rule-assigned |
 
-## Recent arXiv papers (222)
+## Recent arXiv papers (221)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -272,7 +276,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-24 | navlie: A Python Package for State Estimation on Lie Groups | Charles Champagne Cossette, Mitchell Cohen, Vassili Korotkine, Arturo del Castillo Bernal et al. | [Abstract](https://arxiv.org/abs/2310.15774) · [PDF](https://arxiv.org/pdf/2310.15774) | rule-assigned |
 | 2023-10-07 | Efficient State Estimation with Constrained Rao-Blackwellized Particle Filter | Shuai Li, Siwei Lyu, Jeff Trinkle | [Abstract](https://arxiv.org/abs/2310.04637) · [PDF](https://arxiv.org/pdf/2310.04637) | rule-assigned |
 | 2023-10-05 | Extended Kalman Filter State Estimation for Autonomous Competition Robots | Ethan Kou, Acshi Haggenmiller | [Abstract](https://arxiv.org/abs/2310.04459) · [PDF](https://arxiv.org/pdf/2310.04459) | rule-assigned |
-| 2023-10-03 | Semi-Aerodynamic Model Aided Invariant Kalman Filtering for UAV Full-State Estimation | Xiaoyu Ye, Fujun Song, Zongyu Zhang, Rui Zhang et al. | [Abstract](https://arxiv.org/abs/2310.01844) · [PDF](https://arxiv.org/pdf/2310.01844) | rule-assigned |
 
 ---
 

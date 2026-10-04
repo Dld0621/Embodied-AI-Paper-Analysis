@@ -15,6 +15,8 @@ from __future__ import annotations
 import argparse
 from collections import Counter
 from datetime import date
+from datetime import datetime
+from zoneinfo import ZoneInfo
 import json
 import re
 import time
@@ -211,7 +213,9 @@ def fetch_venue(venue: str, query: str, aliases: tuple[str, ...], start: int, en
         if token:
             params["token"] = token
         payload = get_json(params)
-        page = payload.get("data") or []
+        if not isinstance(payload.get("data"), list):
+            raise ValueError(f"{venue}: source response lacks a valid data array; census was not updated")
+        page = payload["data"]
         records.extend(
             record for record in page
             if venue_matches(record.get("venue") or "", aliases)
@@ -331,7 +335,7 @@ def main() -> int:
     parser.add_argument(
         "--as-of",
         type=date.fromisoformat,
-        default=date.today(),
+        default=datetime.now(ZoneInfo("Asia/Hong_Kong")).date(),
         help="snapshot date in YYYY-MM-DD form (defaults to today)",
     )
     args = parser.parse_args()

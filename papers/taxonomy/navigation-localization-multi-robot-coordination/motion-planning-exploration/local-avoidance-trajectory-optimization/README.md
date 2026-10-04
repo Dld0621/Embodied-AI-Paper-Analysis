@@ -1,8 +1,12 @@
 # Local Avoidance & Trajectory Optimization · 局部避障与轨迹优化
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Motion%20Planning%20%26%20Exploration&specialty=Local%20Avoidance%20%26%20Trajectory%20Optimization#research-workbench)
 
-> 35 conference papers · 481 recent arXiv papers
+> 35 conference papers · 480 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -56,7 +60,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | CoMBiNED: Multi-Constrained Model Based Planning for Navigation in Dynamic Environments | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981479) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981479) | rule-assigned |
 | 2022 | Imitation Learning and Model Integrated Excavator Trajectory Planning | IROS · Imitation Learning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981220) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981220) | rule-assigned |
 
-## Recent arXiv papers (481)
+## Recent arXiv papers (480)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -540,7 +544,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-06 | Graph-based 3D Collision-distance Estimation Network with Probabilistic Graph Rewiring | Minjae Song, Yeseung Kim, Min Jun Kim, Daehyung Park | [Abstract](https://arxiv.org/abs/2310.04044) · [PDF](https://arxiv.org/pdf/2310.04044) | rule-assigned |
 | 2023-10-04 | Long-Term Dynamic Window Approach for Kinodynamic Local Planning in Static and Crowd Environments | Zhiqiang Jian, Songyi Zhang, Lingfeng Sun, Wei Zhan et al. | [Abstract](https://arxiv.org/abs/2310.02648) · [PDF](https://arxiv.org/pdf/2310.02648) | rule-assigned |
 | 2023-10-04 | Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow | Zhiqiang Jian, Songyi Zhang, Lingfeng Sun, Wei Zhan et al. | [Abstract](https://arxiv.org/abs/2310.02625) · [PDF](https://arxiv.org/pdf/2310.02625) | rule-assigned |
-| 2023-10-03 | Event-Enhanced Multi-Modal Spiking Neural Network for Dynamic Obstacle Avoidance | Yang Wang, Bo Dong, Yuji Zhang, Yunduo Zhou et al. | [Abstract](https://arxiv.org/abs/2310.02361) · [PDF](https://arxiv.org/pdf/2310.02361) | rule-assigned |
 
 ---
 

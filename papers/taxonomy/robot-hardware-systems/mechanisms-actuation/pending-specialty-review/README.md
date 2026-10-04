@@ -1,8 +1,12 @@
 # Pending specialty review · 待审专题
 
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Pending%20specialty%20review#research-workbench)
 
-> 81 conference papers · 218 recent arXiv papers
+> 81 conference papers · 217 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -102,7 +106,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Development and Control of Robot Hand with Finger Camera for Garment Handling Tasks | IROS · Robot Hand | [Paper](https://doi.org/10.1109/IROS47612.2022.9982134) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982134) | needs-review |
 | 2022 | Large-Scale ADMM-based Co-Design of Legged Robots | IROS · Legged | [Paper](https://doi.org/10.1109/IROS47612.2022.9981641) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981641) | needs-review |
 
-## Recent arXiv papers (218)
+## Recent arXiv papers (217)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -323,7 +327,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-20 | Design of Planar Collision-free Trochoidal Paths for a Multi-robot Swarm | Adil Shiyas, Sachit Rao | [Abstract](https://arxiv.org/abs/2311.11720) · [PDF](https://arxiv.org/pdf/2311.11720) | needs-review |
 | 2023-11-06 | CarbonFish -- A Bistable Underactuated Compliant Fish Robot capable of High Frequency Undulation | Zechen Xiong, Zihan Guo, Mark Liu, Jialong Ning et al. | [Abstract](https://arxiv.org/abs/2311.03223) · [PDF](https://arxiv.org/pdf/2311.03223) | needs-review |
 | 2023-11-02 | Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors | Gabriele M. Caddeo, Andrea Maracani, Paolo D. Alfano, Nicola A. Piga et al. | [Abstract](https://arxiv.org/abs/2311.01380) · [PDF](https://arxiv.org/pdf/2311.01380) | needs-review |
-| 2023-10-03 | Spherical Rolling Robots Design, Modeling, and Control: A Systematic Literature Review | Aminata Diouf, Bruno Belzile, Maarouf Saad, David St-Onge | [Abstract](https://arxiv.org/abs/2310.02240) · [PDF](https://arxiv.org/pdf/2310.02240) | needs-review |
 
 ---
 
