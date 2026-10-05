@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=State%20Estimation%20%26%20Tracking&specialty=Calibration%20%26%20Sensor%20Fusion#research-workbench)
 
-> 1 conference papers · 81 recent arXiv papers
+> 1 conference papers · 84 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,12 +18,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2023 | AI-Based Multi-Object Relative State Estimation with Self-Calibration Capabilities | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2303.00371) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161375) |
+| 2023 | AI-Based Multi-Object Relative State Estimation with Self-Calibration Capabilities | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2303.00371) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161375) |
 
-## Recent arXiv papers (81)
+## Recent arXiv papers (84)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-09 | Automatic Reproducible Camera Intrinsic Calibration | Xiangcheng Hu | [Abstract](https://arxiv.org/abs/2609.10082) · [PDF](https://arxiv.org/pdf/2609.10082) |
+| 2026-09-08 | CALIPER: Clean Scenes Cannot Rank Physical Inference in Pretrained Visual Representations | Aman Mehta, Riya Baviskar | [Abstract](https://arxiv.org/abs/2609.08250) · [PDF](https://arxiv.org/pdf/2609.08250) |
+| 2026-09-07 | P$^2$Calib: Utilizing Pattern Priors for LiDAR-Camera Extrinsic Calibration | Xiangcheng Hu | [Abstract](https://arxiv.org/abs/2609.07516) · [PDF](https://arxiv.org/pdf/2609.07516) |
+| 2026-09-07 | MAC-I$^2$: Learned Metrics-Aware Covariance for Robust Visual-Inertial Fusion in Initialization and Calibration | Xiang Fei, Yuheng Qiu, Can Xu, Yutian Chen et al. | [Abstract](https://arxiv.org/abs/2609.07116) · [PDF](https://arxiv.org/pdf/2609.07116) |
 | 2026-08-17 | The Setting of IMU Parameters in Kalman Filtering-based Information Fusion | Qiang Hu, Yanhua Zou, Shuaiyi Huo, Haibo Ge et al. | [Abstract](https://arxiv.org/abs/2608.21433) · [PDF](https://arxiv.org/pdf/2608.21433) |
 | 2026-07-08 | Dynamic Object Detection and Tracking in Construction: A Fisheye Camera and LiDAR Sensor Fusion Model | Yilong Chen, Huili Huang, Yong K. Cho | [Abstract](https://arxiv.org/abs/2607.06896) · [PDF](https://arxiv.org/pdf/2607.06896) |
 | 2026-06-23 | ADM-Fusion: Adaptive Deep Multi-Sensor Fusion for Robust Ego-Motion Estimation in Diverse Conditions | Hasan Moughnieh, Ibrahim Ghaddar, Hadi Elham, Imad H. Elhajj et al. | [Abstract](https://arxiv.org/abs/2606.25111) · [PDF](https://arxiv.org/pdf/2606.25111) |
@@ -104,7 +108,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-01-11 | On State Estimation in Multi-Sensor Fusion Navigation: Optimization and Filtering | Feng Zhu, Zhuo Xu, Xveqing Zhang, Yuantai Zhang et al. | [Abstract](https://arxiv.org/abs/2401.05836) · [PDF](https://arxiv.org/pdf/2401.05836) |
 | 2023-12-22 | To Fuse or Not to Fuse: Measuring Consistency in Multi-Sensor Fusion for Aerial Robots | Christian Lanegger, Helen Oleynikova, Michael Pantic, Lionel Ott et al. | [Abstract](https://arxiv.org/abs/2312.14730) · [PDF](https://arxiv.org/pdf/2312.14730) |
 | 2023-12-03 | Smart safety watch for elderly people and pregnant women | Balachandra D S, Maithreyee M S, Saipavan B M, Shashank S et al. | [Abstract](https://arxiv.org/abs/2312.01302) · [PDF](https://arxiv.org/pdf/2312.01302) |
-| 2023-09-02 | Online Targetless Radar-Camera Extrinsic Calibration Based on the Common Features of Radar and Camera | Lei Cheng, Siyang Cao | [Abstract](https://arxiv.org/abs/2309.00787) · [PDF](https://arxiv.org/pdf/2309.00787) |
 
 ---
 

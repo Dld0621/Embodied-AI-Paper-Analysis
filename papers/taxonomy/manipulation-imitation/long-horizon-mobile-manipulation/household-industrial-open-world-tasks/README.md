@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=Household%2C%20Industrial%20%26%20Open-world%20Tasks#research-workbench)
 
-> 7 conference papers · 37 recent arXiv papers
+> 8 conference papers · 40 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (7)
+## Conference papers (8)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2512.24766) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697043) |
 | 2024 | Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation | ECCV · Manipulation | [Paper](https://arxiv.org/abs/2401.07487) · [Publisher](https://doi.org/10.48550/arXiv.2401.07487) |
 | 2024 | MOKA: Open-World Robotic Manipulation through Mark-Based Visual Prompting | RSS · Manipulation | [Paper](https://arxiv.org/abs/2403.03174) · [Publisher](https://doi.org/10.15607/rss.2024.xx.062) |
 | 2024 | RVT-2: Learning Precise Manipulation from Few Demonstrations | RSS · Manipulation | [Paper](https://arxiv.org/abs/2406.08545) · [Publisher](https://doi.org/10.48550/arXiv.2406.08545) |
@@ -26,10 +27,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | RoboTube: Learning Household Manipulation from Human Videos with Simulated Twin Environments | CoRL · Manipulation | [Paper](https://www.semanticscholar.org/paper/6d2718d173b771edddbfae13ba8ec24c480363d3) · [Index](https://dblp.org/rec/conf/corl/XiongFZBZHXGL22) |
 | 2022 | A Method For Automated Drone Viewpoints to Support Remote Robot Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2208.04391) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982063) |
 
-## Recent arXiv papers (37)
+## Recent arXiv papers (40)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-30 | Cue the Flow: Steering Flow-Matching Policies for Open-World Delivery Manipulation | Haoxuan Wang, Griffin Galimi, Junhua Huang, Selina Song et al. | [Abstract](https://arxiv.org/abs/2609.38989) · [PDF](https://arxiv.org/pdf/2609.38989) |
+| 2026-09-29 | Foundation-Model-Guided Topology-Aware Semantic Risk Fields for Manipulation | Giung Lee, Weihang Guo, Lydia E. Kavraki | [Abstract](https://arxiv.org/abs/2609.36640) · [PDF](https://arxiv.org/pdf/2609.36640) |
+| 2026-09-23 | What Stops Recursive Self-Improvement in Robotics? Lessons from 123 Rounds of Agentic Skill Discovery | Jiaming Wang | [Abstract](https://arxiv.org/abs/2609.31760) · [PDF](https://arxiv.org/pdf/2609.31760) |
+| 2026-08-29 | Bridging Semantics and Physics with Constrained LLMs for Safe and Trustworthy Robotic Manipulation | Wenhao Hong, Lan Wei, Dandan Zhang | [Abstract](https://arxiv.org/abs/2608.29379) · [PDF](https://arxiv.org/pdf/2608.29379) |
 | 2026-08-04 | Kitchen Robotic Manipulation utilizing Foundation Models | Myung-Hwan Jeon, Sankalp Yamsani, Joohyung Kim | [Abstract](https://arxiv.org/abs/2608.04042) · [PDF](https://arxiv.org/pdf/2608.04042) |
 | 2026-07-16 | Towards Human-like Physical Intelligence: Lifelong Vision-Language-Action Learning for Robotic Manipulation | Yao He, Gan Sun, Wenqi Liang, Fazeng Li et al. | [Abstract](https://arxiv.org/abs/2607.14852) · [PDF](https://arxiv.org/pdf/2607.14852) |
 | 2026-07-09 | Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents | Yixian Zhang, Huanming Zhang, Feng Gao, Xiao Li et al. | [Abstract](https://arxiv.org/abs/2607.08448) · [PDF](https://arxiv.org/pdf/2607.08448) |
@@ -66,7 +71,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-01-05 | Integrating Open-World Shared Control in Immersive Avatars | Patrick Naughton, James Seungbum Nam, Andrew Stratton, Kris Hauser | [Abstract](https://arxiv.org/abs/2401.03079) · [PDF](https://arxiv.org/pdf/2401.03079) |
 | 2023-11-20 | Kitchen Artist: Precise Control of Liquid Dispensing for Gourmet Plating | Hung-Jui Huang, Jingyi Xiang, Wenzhen Yuan | [Abstract](https://arxiv.org/abs/2311.12185) · [PDF](https://arxiv.org/pdf/2311.12185) |
 | 2023-11-04 | STOW: Discrete-Frame Segmentation and Tracking of Unseen Objects for Warehouse Picking Robots | Yi Li, Muru Zhang, Markus Grotz, Kaichun Mo et al. | [Abstract](https://arxiv.org/abs/2311.02337) · [PDF](https://arxiv.org/pdf/2311.02337) |
-| 2023-09-23 | Pick Planning Strategies for Large-Scale Package Manipulation | Shuai Li, Azarakhsh Keipour, Kevin Jamieson, Nicolas Hudson et al. | [Abstract](https://arxiv.org/abs/2309.13224) · [PDF](https://arxiv.org/pdf/2309.13224) |
 
 ---
 

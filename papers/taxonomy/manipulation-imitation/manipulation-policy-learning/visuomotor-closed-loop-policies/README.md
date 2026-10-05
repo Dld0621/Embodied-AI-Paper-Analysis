@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Manipulation%20Policy%20Learning&specialty=Visuomotor%20%26%20Closed-loop%20Policies#research-workbench)
 
-> 25 conference papers · 239 recent arXiv papers
+> 41 conference papers · 266 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,24 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (25)
+## Conference papers (41)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Best of Sim and Real: Decoupled Visuomotor Manipulation via Learning Control in Simulation and Perception in Real | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2509.25747) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697545) |
+| 2026 | Beyond the Patch: Exploring Vulnerabilities of Visuomotor Policies via Viewpoint-Consistent 3D Adversarial Object | ICRA · Visuomotor | [Paper](https://arxiv.org/abs/2603.04913) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697500) |
+| 2026 | CLAR: Learning 3D Representations for Robotic Manipulation by Fusing Masked Reconstruction with Multi-Level Contrastive Alignment | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2507.08262) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697454) |
+| 2026 | CorrectManip: A Data-Driven Closed-Loop Framework for Autonomous Skill Learning with Failure Recovery | ICRA · Skill Learning | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696724) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696724) |
+| 2026 | DexKnot: Generalizable Visuomotor Policy Learning for Dexterous Bag-Knotting Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2603.07136) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696591) |
+| 2026 | KAN We Flow? Advancing Robotic Manipulation with 3D Flow Matching via KAN & RWKV | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2602.01115) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696270) |
+| 2026 | Learning Visuomotor Policy for Multi-Robot Laser Tag Game | ICRA · Visuomotor | [Paper](https://arxiv.org/abs/2603.11980) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695888) |
+| 2026 | Robo Eval: Where Robotic Manipulation Meets Structured and Scalable Evaluation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2507.00435) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697082) |
+| 2026 | SeFA-Policy: Fast and Accurate Visuomotor Policy Learning with Selective Flow Alignment | ICRA · Visuomotor | [Paper](https://arxiv.org/abs/2511.08583) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697226) |
+| 2026 | Shifted Flow Policy: Uncertainty-aware Time Reparameterization for Visuomotor Learning | ICRA · Visuomotor | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696791) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696791) |
+| 2026 | TEGA: A Tactile-Enhanced Grasping Assistant for Assistive Robotics via Sensor Fusion and Closed-Loop Haptic Feedback | ICRA · Grasp | [Paper](https://arxiv.org/abs/2603.05552) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695856) |
+| 2026 | UMI-on-Air: Embodiment-Aware Guidance for Embodiment-Agnostic Visuomotor Policies | ICRA · Visuomotor | [Paper](https://arxiv.org/abs/2510.02614) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696455) |
+| 2026 | VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2604.21914) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696921) |
+| 2026 | ViTaS: Visual Tactile Soft Fusion Contrastive Learning for Visuomotor Learning | ICRA · Visuomotor | [Paper](https://arxiv.org/abs/2602.11643) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697386) |
 | 2025 | CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction | ICCV · Visuomotor | [Paper](https://arxiv.org/pdf/2412.06782) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01250) |
 | 2025 | PASG: A Closed-Loop Framework for Automated Geometric Primitive Extraction and Semantic Anchoring in Robotic Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/pdf/2508.05976) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00837) |
 | 2025 | Spatial-Temporal Aware Visuomotor Diffusion Policy Learning | ICCV · Visuomotor | [Paper](https://arxiv.org/pdf/2507.06710) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00669) |
@@ -28,6 +42,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Fast Policy: Accelerating Visuomotor Policies without Re-training | IROS · Visuomotor | [Paper](https://doi.org/10.1109/IROS60139.2025.11246259) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246259) |
 | 2025 | High-dynamic Tactile Sensing for Tactile Servo Manipulation: Let Robots Swing a Hammer | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246617) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246617) |
 | 2025 | Out-of-Distribution Recovery with Object-Centric Keypoint Inverse Policy for Visuomotor Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/abs/2411.03294) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246616) |
+| 2025 | 3D Equivariant Visuomotor Policy Learning via Spherical Projection | NeurIPS · Visuomotor | [Paper](https://arxiv.org/abs/2505.16969) · [Publisher](https://doi.org/10.48550/arXiv.2505.16969) |
+| 2025 | FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency | NeurIPS · Visuomotor | [Paper](https://arxiv.org/abs/2506.08822) · [Publisher](https://doi.org/10.48550/arXiv.2506.08822) |
 | 2025 | FreqPolicy: Frequency Autoregressive Visuomotor Policy with Continuous Tokens | NeurIPS · Visuomotor | [Paper](https://arxiv.org/abs/2506.01583) · [Publisher](https://doi.org/10.48550/arXiv.2506.01583) |
 | 2024 | Dreamitate: Real-World Visuomotor Policy Learning via Video Generation | CoRL · Visuomotor | [Paper](https://arxiv.org/abs/2406.16862) · [Publisher](https://doi.org/10.48550/arXiv.2406.16862) |
 | 2024 | Task-Oriented Hierarchical Object Decomposition for Visuomotor Control | CoRL · Visuomotor | [Paper](https://arxiv.org/abs/2411.01284) · [Publisher](https://doi.org/10.48550/arXiv.2411.01284) |
@@ -44,10 +60,36 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Generalization with Lossy Affordances: Leveraging Broad Offline Data for Learning Visuomotor Tasks | CoRL · Visuomotor | [Paper](https://arxiv.org/abs/2210.06601) · [Publisher](https://doi.org/10.48550/arXiv.2210.06601) |
 | 2022 | Closed-Loop Next-Best-View Planning for Target-Driven Grasping | IROS · Grasp | [Paper](https://arxiv.org/pdf/2207.10543) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981472) |
 
-## Recent arXiv papers (239)
+## Recent arXiv papers (266)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-02 | Register-Routed Delayed Fusion: Rewiring Shortcut-Prone Observation Fusion in Visuomotor Imitation | Jieting Long, Weidong Cai, Weiming Zhi | [Abstract](https://arxiv.org/abs/2610.02813) · [PDF](https://arxiv.org/pdf/2610.02813) |
+| 2026-10-01 | OpenRUA: Robot-Use Agents Are Zero-Shot Visuomotor Policies | Zhaoyang Chu, Earl T. Barr, Claire Le Goues, Peter O'Hearn et al. | [Abstract](https://arxiv.org/abs/2610.02459) · [PDF](https://arxiv.org/pdf/2610.02459) |
+| 2026-09-28 | From Language to Task Maps: Compiling Semantic Relations While Preserving Task-Relevant Freedom | Jaegyun Park, Jingwang Lee, Jungsoo Lee, Soonwoong Hwang et al. | [Abstract](https://arxiv.org/abs/2609.34412) · [PDF](https://arxiv.org/pdf/2609.34412) |
+| 2026-09-27 | Estimate, Don't Imitate: Reusing Differentiable State-Based Policies for Visuomotor Control | Denis Shcherba, Adrian Abel, Eckart Cobo-Briesewitz, Paul Mattes et al. | [Abstract](https://arxiv.org/abs/2609.34018) · [PDF](https://arxiv.org/pdf/2609.34018) |
+| 2026-09-24 | Faster Visuomotor Policy Learning on Action Manifolds via Riemannian MeanFlow | S. Talha Bukhari, Austin Garrett, Yi Wei, Ruiqi Ni et al. | [Abstract](https://arxiv.org/abs/2609.30127) · [PDF](https://arxiv.org/pdf/2609.30127) |
+| 2026-09-23 | VGM-VS: Rethinking Visual Geometry Model for High-Precision Visual Servoing | Yimin Pan, Sen Wang, You Zhou, Jianfeng Gao et al. | [Abstract](https://arxiv.org/abs/2609.28312) · [PDF](https://arxiv.org/pdf/2609.28312) |
+| 2026-09-22 | Median Temporal Ensembling: Training-Free Robust Aggregation for Action-Chunked Visuomotor Policies | Yuhang Jiang | [Abstract](https://arxiv.org/abs/2609.27167) · [PDF](https://arxiv.org/pdf/2609.27167) |
+| 2026-09-22 | MAVP: Map-Aware Visuomotor Policies for Mobile Manipulation | Jinhe Tang, Ruixiao Dai, Weiming Zhi | [Abstract](https://arxiv.org/abs/2609.26378) · [PDF](https://arxiv.org/pdf/2609.26378) |
+| 2026-09-22 | Backdoors in Learning-Based Industrial Robotic Arm Manipulation: An Empirical Security Study | Zijian Zhang, Zhen Zeng, Zhongshu Gu, Sandeep Pisharody | [Abstract](https://arxiv.org/abs/2609.26868) · [PDF](https://arxiv.org/pdf/2609.26868) |
+| 2026-09-21 | Visuomotor Robotic Pruning in Planar Orchards Using Hybrid Reinforcement Learning | Abhinav Jain, Cindy Grimm, Stefan Lee | [Abstract](https://arxiv.org/abs/2609.24906) · [PDF](https://arxiv.org/pdf/2609.24906) |
+| 2026-09-21 | Object-Centric Conditioning for Visuomotor Flow Matching | Jijie Li, Xu Yang, Junhong Zou, Chunhai Zhao et al. | [Abstract](https://arxiv.org/abs/2609.24155) · [PDF](https://arxiv.org/pdf/2609.24155) |
+| 2026-09-18 | Towards Fine-Grained Object Manipulation: SAM3-Guided Visuomotor Policy with Persistent Memory Learning and Focused Visual Conditioning | Haolong Meng, Fangbo Qin, Mengchen Bai, Houwu Wang et al. | [Abstract](https://arxiv.org/abs/2609.21621) · [PDF](https://arxiv.org/pdf/2609.21621) |
+| 2026-09-18 | SafeStage: Evaluating Safety Before, During, and After Vision-Language-Conditioned Robot Manipulation | Jinzhu Luo, Qi Zhang, Wei Wang, Wei Jiang | [Abstract](https://arxiv.org/abs/2609.21223) · [PDF](https://arxiv.org/pdf/2609.21223) |
+| 2026-09-18 | MicroHookACT: Monocular Microscopic Vision Guided Visuomotor Policy for Flexible Microelectrode Hooking | Yitong Chen, Fangbo Qin, Yang Wang, Ruihua Hu et al. | [Abstract](https://arxiv.org/abs/2609.21365) · [PDF](https://arxiv.org/pdf/2609.21365) |
+| 2026-09-17 | ReShoot: Generative Visual Domain Randomization of Recorded Robot Demonstrations for Visuomotor Policy Learning | Chiyoung Kim, Min Sung Choi, Jinho Ju, Chanhoe Gu et al. | [Abstract](https://arxiv.org/abs/2609.19661) · [PDF](https://arxiv.org/pdf/2609.19661) |
+| 2026-09-17 | LIFD: Anchored Diffusion for 3D-Aware Scene Memory in Robotic Manipulation | Wenbo Li, Yiteng Chen, Wenhao Li, Qingyao Wu | [Abstract](https://arxiv.org/abs/2609.19796) · [PDF](https://arxiv.org/pdf/2609.19796) |
+| 2026-09-17 | Demonstration Synthesis from a Single Scan via Gaussian Splatting for Visuomotor Policy Learning | Beichen Wang, Yuen-Hei Yeung, V. R. Sridhar Devarakonda, Xuesu Xiao | [Abstract](https://arxiv.org/abs/2609.21112) · [PDF](https://arxiv.org/pdf/2609.21112) |
+| 2026-09-15 | Rethinking Visual Embodiment Dependence in Visuomotor Policies | Hongjie Fang, Yuxuan Lu, Chenxi Wang, Haoxiang Qin et al. | [Abstract](https://arxiv.org/abs/2609.16815) · [PDF](https://arxiv.org/pdf/2609.16815) |
+| 2026-09-14 | StereoPatch: Patch-Aligned RGB-Depth Fusion for Spatial Perception in Robot Manipulation | Yanan Zhou, Zhaoyan Qian, James Zhao, Weiming Zhi | [Abstract](https://arxiv.org/abs/2609.15509) · [PDF](https://arxiv.org/pdf/2609.15509) |
+| 2026-09-13 | REVOLVE: An Automated Closed-Loop Framework for Evolving Robot Manipulation with Minimal Human Intervention | Hanyu Liu, Qian Li, Yizhu Ding, Jiayi Wen et al. | [Abstract](https://arxiv.org/abs/2609.14633) · [PDF](https://arxiv.org/pdf/2609.14633) |
+| 2026-09-12 | Visible Touch: Rendering Contact for Visuomotor Policies | Metin Alp Dogan, Edward Sun, Feng Xu, Daniel Wu et al. | [Abstract](https://arxiv.org/abs/2609.14156) · [PDF](https://arxiv.org/pdf/2609.14156) |
+| 2026-09-08 | Localized Visual Feature Aggregation via Focus Pooling for Visuomotor Policies | Ruiyu Wang, Zheyu Zhuang, Danica Kragic, Florian T. Pokorny | [Abstract](https://arxiv.org/abs/2609.08408) · [PDF](https://arxiv.org/pdf/2609.08408) |
+| 2026-09-07 | Large Discrete Policy: Advancing Explicit Behavior Modeling with Stochastic Iterative Scoring | Zhenxin Li, Nadine Chang, Xinglong Sun, Jingde Chen et al. | [Abstract](https://arxiv.org/abs/2609.07049) · [PDF](https://arxiv.org/pdf/2609.07049) |
+| 2026-09-04 | What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies | Vivek Chavan, Pengtao Xie, Yahuan Shi, Oliver Heimann et al. | [Abstract](https://arxiv.org/abs/2609.05376) · [PDF](https://arxiv.org/pdf/2609.05376) |
+| 2026-09-03 | MINERVA: How Small Can a Manipulation Policy Be and Still Solve LIBERO? | Kohei Sendai, Tatsuya Matsushima, Yusuke Iwasawa | [Abstract](https://arxiv.org/abs/2609.03715) · [PDF](https://arxiv.org/pdf/2609.03715) |
+| 2026-09-01 | AM-Bench: A Modular Simulation Suite and Benchmark for Aerial Manipulation Policy Learning | Yutong Wang, Dongjae Lee, Xiaofeng Guo, Yuanzhu Zhan et al. | [Abstract](https://arxiv.org/abs/2609.00641) · [PDF](https://arxiv.org/pdf/2609.00641) |
 | 2026-08-26 | GaussianDream++: Efficient 3D Gaussian World Modeling for Robotic Manipulation | Yuqing Jiang, Zijian Zhang, Weitao Zhou, Jiawei Wang et al. | [Abstract](https://arxiv.org/abs/2608.25659) · [PDF](https://arxiv.org/pdf/2608.25659) |
 | 2026-08-17 | VLCP: Vision Language Control Policy Closed-Loop Code Replanning for Robot Manipulation | Dhia Naouali, Minghan Wu, Claudia Wong, Abhinav Puthran et al. | [Abstract](https://arxiv.org/abs/2608.16978) · [PDF](https://arxiv.org/pdf/2608.16978) |
 | 2026-08-16 | Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies | Michael Zeng, Abhinav Agarwal, Ajay Bati, Brian Lee et al. | [Abstract](https://arxiv.org/abs/2608.15938) · [PDF](https://arxiv.org/pdf/2608.15938) |
@@ -95,6 +137,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-07 | When Video Misreads: Closed-Loop Distillation of Reading Heuristics for Exploratory Manipulation Trace QA | Haizhou Ge, Yufei Jia, Yue Li, Zhixing Chen et al. | [Abstract](https://arxiv.org/abs/2606.08542) · [PDF](https://arxiv.org/pdf/2606.08542) |
 | 2026-06-05 | Task Editing for Generalizable 3D Visuomotor Policy Learning | Jian-Jian Jiang, YiHan Yang, Lan Wei, Yuming Luo et al. | [Abstract](https://arxiv.org/abs/2606.07012) · [PDF](https://arxiv.org/pdf/2606.07012) |
 | 2026-06-04 | AxisGuide: Grounding Robot Action Coordinate System in RGB Observations for Robust Visuomotor Manipulation | Jiyun Jang, Yujin Sung, Woosung Joung, Daewon Chae et al. | [Abstract](https://arxiv.org/abs/2606.06761) · [PDF](https://arxiv.org/pdf/2606.06761) |
+| 2026-05-29 | Closed-Loop Object-Informed Control for Non-Prehensile Robot Manipulation | Nikola Raicevic, Hyomuk Kim, Shahid Mulla, Hyungjun Doh et al. | [Abstract](https://arxiv.org/abs/2605.30778) · [PDF](https://arxiv.org/pdf/2605.30778) |
 | 2026-05-27 | World Models for Robotic Manipulation: A Survey | Fangyuan Wang, Ziyuan Wang, Guorui Pei, Mengshi Zhang et al. | [Abstract](https://arxiv.org/abs/2606.00113) · [PDF](https://arxiv.org/pdf/2606.00113) |
 | 2026-05-27 | Tabero: Learning Gentle Manipulation with Closed-Loop Force Feedback from Vision, Touch, and Language | Qiwei Wu, Rui Zhang, Xin Xiang, Tao Li et al. | [Abstract](https://arxiv.org/abs/2605.27886) · [PDF](https://arxiv.org/pdf/2605.27886) |
 | 2026-05-27 | PrimitiveVLA: Learning Reusable Motion Primitives for Efficient and Generalizable Robotic Manipulation | Yutai Li, Shaohui Peng, Jiaming Guo, Di Huang et al. | [Abstract](https://arxiv.org/abs/2605.28634) · [PDF](https://arxiv.org/pdf/2605.28634) |
@@ -129,6 +172,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-26 | Emergent Neural Automaton Policies: Learning Symbolic Structure from Visuomotor Trajectories | Yiyuan Pan, Xusheng Luo, Hanjiang Hu, Peiqi Yu et al. | [Abstract](https://arxiv.org/abs/2603.25903) · [PDF](https://arxiv.org/pdf/2603.25903) |
 | 2026-03-25 | Chameleon: Control-Indexed Prospective Memory for Visuomotor Manipulation | Xinying Guo, Chenxi Jiang, Hyun Bin Kim, Yuhang Han et al. | [Abstract](https://arxiv.org/abs/2603.24576) · [PDF](https://arxiv.org/pdf/2603.24576) |
 | 2026-03-22 | Cortical Policy: A Dual-Stream View Transformer for Robotic Manipulation | Xuening Zhang, Qi Lv, Xiang Deng, Miao Zhang et al. | [Abstract](https://arxiv.org/abs/2603.21051) · [PDF](https://arxiv.org/pdf/2603.21051) |
+| 2026-03-16 | MoE-ACT: Scaling Multi-Task Bimanual Manipulation with Sparse Task-Conditioned Mixture-of-Experts Transformers | Kangjun Guo, Haichao Liu, Yanji Sun, Ruhan Zhao et al. | [Abstract](https://arxiv.org/abs/2603.15265) · [PDF](https://arxiv.org/pdf/2603.15265) |
 | 2026-03-13 | Learning Actionable Manipulation Recovery via Counterfactual Failure Synthesis | Dayou Li, Jiuzhou Lei, Hao Wang, Lulin Liu et al. | [Abstract](https://arxiv.org/abs/2603.13528) · [PDF](https://arxiv.org/pdf/2603.13528) |
 | 2026-03-12 | Noise-Space Attribution and Control of Chunk-Boundary Artifact | Rui Wang | [Abstract](https://arxiv.org/abs/2603.11642) · [PDF](https://arxiv.org/pdf/2603.11642) |
 | 2026-03-12 | Learning Visuomotor Policy for Multi-Robot Laser Tag Game | Kai Li, Shiyu Zhao | [Abstract](https://arxiv.org/abs/2603.11980) · [PDF](https://arxiv.org/pdf/2603.11980) |
@@ -136,7 +180,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-10 | From Flow to One Step: Real-Time Multi-Modal Trajectory Policies via Implicit Maximum Likelihood Estimation-based Distribution Distillation | Ju Dong, Liding Zhang, Lei Zhang, Yu Fu et al. | [Abstract](https://arxiv.org/abs/2603.09415) · [PDF](https://arxiv.org/pdf/2603.09415) |
 | 2026-03-09 | TRIAGE: Type-Routed Interventions via Aleatoric-Epistemic Gated Estimation in Robotic Manipulation and Adaptive Perception -- Don't Treat All Uncertainty the Same | Divake Kumar, Sina Tayebati, Devashri Naik, Patrick Poggi et al. | [Abstract](https://arxiv.org/abs/2603.08128) · [PDF](https://arxiv.org/pdf/2603.08128) |
 | 2026-03-09 | PhaForce: Phase-Scheduled Visual-Force Policy Learning with Slow Planning and Fast Correction for Contact-Rich Manipulation | Mingxin Wang, Zhirun Yue, Renhao Lu, Yizhe Li et al. | [Abstract](https://arxiv.org/abs/2603.08342) · [PDF](https://arxiv.org/pdf/2603.08342) |
-| 2026-03-09 | Choose What to Observe: Task-Aware Semantic-Geometric Representations for Visuomotor Policy | Haoran Ding, Liang Ma, Yaxun Yang, Wen Yang et al. | [Abstract](https://arxiv.org/abs/2603.07875) · [PDF](https://arxiv.org/pdf/2603.07875) |
+| 2026-03-09 | Foundation and Small Models Coordination for Visuomotor Policy Learning | Haoran Ding, Liang Ma, Yaxun Yang, Wen Yang et al. | [Abstract](https://arxiv.org/abs/2603.07875) · [PDF](https://arxiv.org/pdf/2603.07875) |
 | 2026-03-07 | DexKnot: Generalizable Visuomotor Policy Learning for Dexterous Bag-Knotting Manipulation | Jiayuan Zhang, Ruihai Wu, Haojun Chen, Yuran Wang et al. | [Abstract](https://arxiv.org/abs/2603.07136) · [PDF](https://arxiv.org/pdf/2603.07136) |
 | 2026-03-05 | VPWEM: Non-Markovian Visuomotor Policy with Working and Episodic Memory | Yuheng Lei, Zhixuan Liang, Hongyuan Zhang, Ping Luo | [Abstract](https://arxiv.org/abs/2603.04910) · [PDF](https://arxiv.org/pdf/2603.04910) |
 | 2026-03-05 | TEGA: A Tactile-Enhanced Grasping Assistant for Assistive Robotics via Sensor Fusion and Closed-Loop Haptic Feedback | Hengxu You, Tianyu Zhou, Fang Xu, Kaleb Smith et al. | [Abstract](https://arxiv.org/abs/2603.05552) · [PDF](https://arxiv.org/pdf/2603.05552) |
@@ -147,12 +191,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-02-15 | A Latency-Aware Framework for Visuomotor Policy Learning on Industrial Robots | Daniel Ruan, Salma Mozaffari, Sigrid Adriaenssens, Arash Adel | [Abstract](https://arxiv.org/abs/2602.14255) · [PDF](https://arxiv.org/pdf/2602.14255) |
 | 2026-02-12 | ViTaS: Visual Tactile Soft Fusion Contrastive Learning for Visuomotor Learning | Yufeng Tian, Shuiqi Cheng, Tianming Wei, Tianxing Zhou et al. | [Abstract](https://arxiv.org/abs/2602.11643) · [PDF](https://arxiv.org/pdf/2602.11643) |
 | 2026-02-09 | STEP: Warm-Started Visuomotor Policies with Spatiotemporal Consistency Prediction | Jinhao Li, Yuxuan Cong, Yingqiao Wang, Hao Xia et al. | [Abstract](https://arxiv.org/abs/2602.08245) · [PDF](https://arxiv.org/pdf/2602.08245) |
-| 2026-02-09 | Mind the Gap: Learning Implicit Impedance in Visuomotor Policies via Intent-Execution Mismatch | Cuijie Xu, Shurui Zheng, Zihao Su, Yuanfan Xu et al. | [Abstract](https://arxiv.org/abs/2602.08776) · [PDF](https://arxiv.org/pdf/2602.08776) |
+| 2026-02-09 | Mind the Gap: Rethinking I/O Design for Contact-Rich Visuomotor Policy Learning | Cuijie Xu, Shurui Zheng, Zihao Su, Zhongchen Jian et al. | [Abstract](https://arxiv.org/abs/2602.08776) · [PDF](https://arxiv.org/pdf/2602.08776) |
 | 2026-02-06 | Perception-Control Coupled Visual Servoing for Textureless Objects Using Keypoint-Based EKF | Allen Tao, Jun Yang, Stanko Oparnica, Wenjie Xue | [Abstract](https://arxiv.org/abs/2602.06834) · [PDF](https://arxiv.org/pdf/2602.06834) |
 | 2026-02-01 | Navigating Simply, Aligning Deeply: Winning Solutions for Mouse vs. AI 2025 | Phu-Hoa Pham, Chi-Nguyen Tran, Dao Sy Duy Minh, Nguyen Lam Phu Quy et al. | [Abstract](https://arxiv.org/abs/2602.00982) · [PDF](https://arxiv.org/pdf/2602.00982) |
 | 2026-02-01 | Learning Adaptive Cross-Embodiment Visuomotor Policy with Contrastive Prompt Orchestration | Yuhang Zhang, Chao Yan, Jiaxi Yu, Jiaping Xiao et al. | [Abstract](https://arxiv.org/abs/2602.01040) · [PDF](https://arxiv.org/pdf/2602.01040) |
 | 2026-02-01 | KAN We Flow? Advancing Robotic Manipulation with 3D Flow Matching via KAN & RWKV | Zhihao Chen, Yiyuan Ge, Ziyang Wang, Youwei Zhang | [Abstract](https://arxiv.org/abs/2602.01115) · [PDF](https://arxiv.org/pdf/2602.01115) |
-| 2026-01-30 | Learning Geometrically-Grounded 3D Visual Representations for View-Generalizable Robotic Manipulation | Di Zhang, Weicheng Duan, Dasen Gu, Hongye Lu et al. | [Abstract](https://arxiv.org/abs/2601.22988) · [PDF](https://arxiv.org/pdf/2601.22988) |
+| 2026-01-30 | Learning Geometrically-Grounded Amodal 3D Representations for View-Generalizable Robotic Manipulation | Di Zhang, Weicheng Duan, Dasen Gu, Hongye Lu et al. | [Abstract](https://arxiv.org/abs/2601.22988) · [PDF](https://arxiv.org/pdf/2601.22988) |
 | 2026-01-29 | PocketDP3: Efficient Pocket-Scale 3D Visuomotor Policy | Jinhao Zhang, Zhexuan Zhou, Huizhe Li, Yichen Lai et al. | [Abstract](https://arxiv.org/abs/2601.22018) · [PDF](https://arxiv.org/pdf/2601.22018) |
 | 2026-01-29 | Information Filtering via Variational Regularization for Robot Manipulation | Jinhao Zhang, Wenlong Xia, Yaojia Wang, Zhexuan Zhou et al. | [Abstract](https://arxiv.org/abs/2601.21926) · [PDF](https://arxiv.org/pdf/2601.21926) |
 | 2026-01-28 | TouchGuide: Inference-Time Steering of Visuomotor Policies via Touch Guidance | Zhemeng Zhang, Jiahua Ma, Xincheng Yang, Xin Wen et al. | [Abstract](https://arxiv.org/abs/2601.20239) · [PDF](https://arxiv.org/pdf/2601.20239) |
@@ -164,7 +208,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-12-31 | Resolving State Ambiguity in Robot Manipulation via Adaptive Working Memory Recoding | Qingda Hu, Ziheng Qiu, Zijun Xu, Kaizhao Zhang et al. | [Abstract](https://arxiv.org/abs/2512.24638) · [PDF](https://arxiv.org/pdf/2512.24638) |
 | 2025-12-24 | Embodied Intelligence for Flexible Manufacturing: A Survey | Kai Xu, Hang Zhao, Ruizhen Hu, Min Yang et al. | [Abstract](https://arxiv.org/abs/2602.06966) · [PDF](https://arxiv.org/pdf/2602.06966) |
 | 2025-12-19 | Vidarc: Embodied Video Diffusion Model for Closed-loop Control | Yao Feng, Chendong Xiang, Xinyi Mao, Hengkai Tan et al. | [Abstract](https://arxiv.org/abs/2512.17661) · [PDF](https://arxiv.org/pdf/2512.17661) |
-| 2025-12-04 | Hybrid-Diffusion Models: Combining Open-loop Routines with Visuomotor Diffusion Policies | Jonne Van Haastregt, Bastian Orthmann, Michael C. Welle, Yuchong Zhang et al. | [Abstract](https://arxiv.org/abs/2512.04960) · [PDF](https://arxiv.org/pdf/2512.04960) |
 | 2025-12-04 | FALCON: Actively Decoupled Visuomotor Policies for Loco-Manipulation with Foundation-Model-Based Coordination | Chengyang He, Ge Sun, Yue Bai, Junkai Lu et al. | [Abstract](https://arxiv.org/abs/2512.04381) · [PDF](https://arxiv.org/pdf/2512.04381) |
 | 2025-12-04 | Closed-Loop Robotic Manipulation of Transparent Substrates for Self-Driving Laboratories using Deep Learning Micro-Error Correction | Kelsey Fontenot, Anjali Gorti, Iva Goel, Tonio Buonassisi et al. | [Abstract](https://arxiv.org/abs/2512.06038) · [PDF](https://arxiv.org/pdf/2512.06038) |
 | 2025-11-27 | DIPOLE: Fusing Vision and Geometry for Robust Visuomotor Generalization | Yikai Tang, Haoran Geng, Jindou Jia, Yuxuan Hu et al. | [Abstract](https://arxiv.org/abs/2511.22445) · [PDF](https://arxiv.org/pdf/2511.22445) |
@@ -193,6 +236,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-09-23 | 3D Flow Diffusion Policy: Visuomotor Policy Learning via Generating Flow in 3D Space | Sangjun Noh, Dongwoo Nam, Kangmin Kim, Geonhyup Lee et al. | [Abstract](https://arxiv.org/abs/2509.18676) · [PDF](https://arxiv.org/pdf/2509.18676) |
 | 2025-09-21 | History-Aware Visuomotor Policy Learning via Point Tracking | Jingjing Chen, Hongjie Fang, Chenxi Wang, Shiquan Wang et al. | [Abstract](https://arxiv.org/abs/2509.17141) · [PDF](https://arxiv.org/pdf/2509.17141) |
 | 2025-09-19 | Imagination at Inference: Synthesizing In-Hand Views for Robust Visuomotor Policy Inference | Haoran Ding, Anqing Duan, Zezhou Sun, Dezhen Song et al. | [Abstract](https://arxiv.org/abs/2509.15717) · [PDF](https://arxiv.org/pdf/2509.15717) |
+| 2025-09-19 | eVGGT: An Efficient Geometry-Aware Vision Encoder for Visuomotor Policies | An Dinh Vuong, Minh Nhat Vu, Ian Reid | [Abstract](https://arxiv.org/abs/2509.15880) · [PDF](https://arxiv.org/pdf/2509.15880) |
 | 2025-09-18 | Learning to Pick: A Visuomotor Policy for Clustered Strawberry Picking | Zhenghao Fei, Wenwu Lu, Linsheng Hou, Chen Peng | [Abstract](https://arxiv.org/abs/2509.14530) · [PDF](https://arxiv.org/pdf/2509.14530) |
 | 2025-09-17 | How Fly Neural Perception Mechanisms Enhance Visuomotor Control of Micro Robots | Renyuan Liu, Haoting Zhou, Chuankai Fang, Qinbing Fu | [Abstract](https://arxiv.org/abs/2509.13827) · [PDF](https://arxiv.org/pdf/2509.13827) |
 | 2025-09-01 | ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training | Ge Yan, Jiyue Zhu, Yuquan Deng, Shiqi Yang et al. | [Abstract](https://arxiv.org/abs/2509.01819) · [PDF](https://arxiv.org/pdf/2509.01819) |
@@ -286,7 +330,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-28 | ROSO: Improving Robotic Policy Inference via Synthetic Observations | Yusuke Miyashita, Dimitris Gahtidis, Colin La, Jeremy Rabinowicz et al. | [Abstract](https://arxiv.org/abs/2311.16680) · [PDF](https://arxiv.org/pdf/2311.16680) |
 | 2023-10-31 | Meta Learning for Multi-View Visuomotor Systems | Benji Alwis | [Abstract](https://arxiv.org/abs/2310.20414) · [PDF](https://arxiv.org/pdf/2310.20414) |
 | 2023-10-24 | EquivAct: SIM(3)-Equivariant Visuomotor Policies beyond Rigid Object Manipulation | Jingyun Yang, Congyue Deng, Jimmy Wu, Rika Antonova et al. | [Abstract](https://arxiv.org/abs/2310.16050) · [PDF](https://arxiv.org/pdf/2310.16050) |
-| 2023-09-28 | Online Estimation of Articulated Objects with Factor Graphs using Vision and Proprioceptive Sensing | Russell Buchanan, Adrian Röfer, João Moura, Abhinav Valada et al. | [Abstract](https://arxiv.org/abs/2309.16343) · [PDF](https://arxiv.org/pdf/2309.16343) |
 
 ---
 

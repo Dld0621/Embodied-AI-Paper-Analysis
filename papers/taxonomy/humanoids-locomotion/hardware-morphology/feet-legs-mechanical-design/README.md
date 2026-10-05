@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Hardware%20%26%20Morphology&specialty=Feet%2C%20Legs%20%26%20Mechanical%20Design#research-workbench)
 
-> 1 conference papers · 11 recent arXiv papers
+> 1 conference papers · 13 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | DecARt Leg: Design and Evaluation of a Novel Humanoid Robot Leg with Decoupled Actuation for Agile Locomotion | IROS · Humanoid | [Paper](https://arxiv.org/abs/2511.10021) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247361) |
 
-## Recent arXiv papers (11)
+## Recent arXiv papers (13)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-24 | Dense-Joint-Based Obstacle-Aided Locomotion with a Joint-Repositionable Snake Robot | Kyosuke Minomo, Ryo Takahashi, Kotaro Yasui, Yasutaka Nakashima et al. | [Abstract](https://arxiv.org/abs/2609.29261) · [PDF](https://arxiv.org/pdf/2609.29261) |
+| 2026-09-10 | Reflex-Informed Neuromuscular Reinforcement Learning for Muscle-Driven Locomotion | Jian Zhou, Xingyu Zhang, Rui Ma, Yu Cao et al. | [Abstract](https://arxiv.org/abs/2609.11733) · [PDF](https://arxiv.org/pdf/2609.11733) |
 | 2026-08-06 | Transcutaneous Spinal Cord Stimulation Disrupts Conscious Ankle Proprioception and Produces a More Constrained Locomotor Pattern in Unimpaired Adults | Christopher A. Johnson, Andria J. Farrens, Parastoo Ali Pour, Arjan Gillan et al. | [Abstract](https://arxiv.org/abs/2608.05635) · [PDF](https://arxiv.org/pdf/2608.05635) |
 | 2026-08-01 | Bicycle Acrobatics with Reinforcement Learning | Shamel Fahmi, Arianna Ilvonen, Samuel Zapolsky, Yu-Ming Chen et al. | [Abstract](https://arxiv.org/abs/2608.00880) · [PDF](https://arxiv.org/pdf/2608.00880) |
 | 2026-06-17 | High-Degree-of-Freedom Lightweight Bioinspired Leg for Enhanced Mobility in Small Robots | Haoqi Han, Yifei Yu, Jiaming Zhang, Xinru Cui et al. | [Abstract](https://arxiv.org/abs/2606.18680) · [PDF](https://arxiv.org/pdf/2606.18680) |

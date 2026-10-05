@@ -22,6 +22,7 @@ No conference papers currently map to this specialty.
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-22 | Control Barrier Functions for Safe Free-Flying Robotic Spacecraft Operations in Tumbling Target Capture | Alexander Meinert, Peter Stadler, Niklas Baldauf, Alen Turnwald | [Abstract](https://arxiv.org/abs/2609.25905) · [PDF](https://arxiv.org/pdf/2609.25905) |
 | 2026-07-17 | Certifiable Safe Model-Based Reinforcement Learning with Control-Affine Dynamics Approximation | Hao Zhou, Yanze Zhang, Cameron Reid, Wenhao Luo | [Abstract](https://arxiv.org/abs/2607.16501) · [PDF](https://arxiv.org/pdf/2607.16501) |
 | 2026-07-12 | D-SafeMPC: Diffusion-Driven Safe Model Predictive Control with Discrete-Time Control Barrier Functions | Erdi Sayar, Ersin Daş, Joel W. Burdick, Alois Knoll et al. | [Abstract](https://arxiv.org/abs/2607.10842) · [PDF](https://arxiv.org/pdf/2607.10842) |
 | 2026-05-22 | Lipschitz Optimization for Formal Verification of Homographies | Jean-Guillaume Durand, Panagiotis Kouvaros, Maxime Gariel, Alessio Lomuscio | [Abstract](https://arxiv.org/abs/2605.23203) · [PDF](https://arxiv.org/pdf/2605.23203) |
@@ -41,7 +42,6 @@ No conference papers currently map to this specialty.
 | 2024-04-30 | Data-Driven Permissible Safe Control with Barrier Certificates | Rayan Mazouz, John Skovbekk, Frederik Baymler Mathiesen, Eric Frew et al. | [Abstract](https://arxiv.org/abs/2405.00136) · [PDF](https://arxiv.org/pdf/2405.00136) |
 | 2023-12-28 | Control Barrier Function Based UAV Safety Controller in Autonomous Airborne Tracking and Following Systems | Promit Panja, Jesse B. Hoagg, Sabur Baidya | [Abstract](https://arxiv.org/abs/2312.17215) · [PDF](https://arxiv.org/pdf/2312.17215) |
 | 2023-10-08 | Safe Deep Policy Adaptation | Wenli Xiao, Tairan He, John Dolan, Guanya Shi | [Abstract](https://arxiv.org/abs/2310.08602) · [PDF](https://arxiv.org/pdf/2310.08602) |
-| 2023-09-20 | Safety Guaranteed Robust Multi-Agent Reinforcement Learning with Hierarchical Control for Connected and Automated Vehicles | Zhili Zhang, H M Sabbir Ahmad, Ehsan Sabouni, Yanchao Sun et al. | [Abstract](https://arxiv.org/abs/2309.11057) · [PDF](https://arxiv.org/pdf/2309.11057) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Field%2C%20Aerial%20%26%20Marine%20Robotics&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 1 conference papers · 54 recent arXiv papers
+> 1 conference papers · 53 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | MORE: Mobile Manipulation Rearrangement Through Grounded Language Reasoning | IROS · Mobile Manipulation | [Paper](https://arxiv.org/abs/2505.03035) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247596) |
 
-## Recent arXiv papers (54)
+## Recent arXiv papers (53)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-25 | Cybflight: An Embedded Rust Autopilot for Aerial Robotics Research | Yifan Lin, Chao Qin, H S Helson Go, Hugh H. -T. Liu | [Abstract](https://arxiv.org/abs/2609.31232) · [PDF](https://arxiv.org/pdf/2609.31232) |
+| 2026-09-17 | Custom PX4 firmware for autonomous hybrid aerial-marine missions | Andrea Capuozzo, Fabio Ruggiero, Vincenzo Lippiello | [Abstract](https://arxiv.org/abs/2609.20691) · [PDF](https://arxiv.org/pdf/2609.20691) |
+| 2026-09-03 | A comparative study on the accuracy & repeatability of mobile robotic platforms for the delivery of precision NDE measurement | SeyedMohammadAmin Nabi Pour, S. Gareth Pierce, Randika Vithanage, Ehsan Mohseni et al. | [Abstract](https://arxiv.org/abs/2609.03794) · [PDF](https://arxiv.org/pdf/2609.03794) |
 | 2026-08-03 | Staying on Spec: Real-Time Monitoring under Uncertainty with a Maritime Case Study | Elizabeth Dietrich, Hanna Krasowski, Emir Cem Gezer, Roger Skjetne et al. | [Abstract](https://arxiv.org/abs/2608.02811) · [PDF](https://arxiv.org/pdf/2608.02811) |
 | 2026-07-20 | Beyond Fixed Goal Delivery: Online POMDP Planning for Target Interception in Crowds | Himanshu Gupta, Kelvin Aladum, Nisar Ahmed, Bradley Hayes et al. | [Abstract](https://arxiv.org/abs/2607.18517) · [PDF](https://arxiv.org/pdf/2607.18517) |
 | 2026-07-07 | Towards Real-World Applications with an Autonomous Powered Wheelchair | Simone Arreghini, Alessandro Giusti, Alex Bordini, Enrico Ferrara et al. | [Abstract](https://arxiv.org/abs/2607.06383) · [PDF](https://arxiv.org/pdf/2607.06383) |
@@ -32,7 +35,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-13 | FARM: Find Anything using Relational Spatial Memory | Siming He, Leo Huang, Adam Lilja, Fabio Huebel et al. | [Abstract](https://arxiv.org/abs/2606.15476) · [PDF](https://arxiv.org/pdf/2606.15476) |
 | 2026-05-11 | Increasing the Efficiency of DETR for Maritime High-Resolution Images | Tinsae Yehuala, Hao Cheng, Ville Lehtola | [Abstract](https://arxiv.org/abs/2605.10269) · [PDF](https://arxiv.org/pdf/2605.10269) |
 | 2026-05-03 | Lateral String Stability for Vehicle Platoons: Formulation, Definition, and Analysis | Sixu Li, Swaroop Darbha, Yang Zhou | [Abstract](https://arxiv.org/abs/2605.01731) · [PDF](https://arxiv.org/pdf/2605.01731) |
-| 2026-03-23 | Optimal Solutions for the Moving Target Vehicle Routing Problem with Obstacles via Lazy Branch and Price | Anoop Bhat, Geordan Gutow, Surya Singh, Zhongqiang Ren et al. | [Abstract](https://arxiv.org/abs/2603.21880) · [PDF](https://arxiv.org/pdf/2603.21880) |
 | 2026-03-22 | Architecture for Multi-Unmanned Aerial Vehicles based Autonomous Precision Agriculture Systems | Ebasa Temesgen, Nathnael Minyelshowa, Lebsework Negash | [Abstract](https://arxiv.org/abs/2603.21183) · [PDF](https://arxiv.org/pdf/2603.21183) |
 | 2026-03-18 | Physics-informed offline reinforcement learning eliminates catastrophic fuel waste in maritime routing | Aniruddha Bora, Julie Chalfant, Chryssostomos Chryssostomidis | [Abstract](https://arxiv.org/abs/2603.17319) · [PDF](https://arxiv.org/pdf/2603.17319) |
 | 2026-03-13 | Learning Geometric and Photometric Features from Panoramic LiDAR Scans for Outdoor Place Categorization | Kazuto Nakashima, Hojung Jung, Yuki Oto, Yumi Iwashita et al. | [Abstract](https://arxiv.org/abs/2603.12663) · [PDF](https://arxiv.org/pdf/2603.12663) |
@@ -75,9 +77,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-01-24 | Scale-free vision-based aerial control of a ground formation with hybrid topology | Miguel Aranda, Youcef Mezouar, Gonzalo López-Nicolás, Carlos Sagüés | [Abstract](https://arxiv.org/abs/2401.13610) · [PDF](https://arxiv.org/pdf/2401.13610) |
 | 2024-01-19 | Aerial Field Robotics | Mihir Kulkarni, Brady Moon, Kostas Alexis, Sebastian Scherer | [Abstract](https://arxiv.org/abs/2401.10837) · [PDF](https://arxiv.org/pdf/2401.10837) |
 | 2023-10-10 | Plane Constraints Aided Multi-Vehicle Cooperative Positioning Using Factor Graph Optimization | Chen Zhuang, Hongbo Zhao | [Abstract](https://arxiv.org/abs/2310.06414) · [PDF](https://arxiv.org/pdf/2310.06414) |
-| 2023-09-13 | Learning to Explore Indoor Environments using Autonomous Micro Aerial Vehicles | Yuezhan Tao, Eran Iceland, Beiming Li, Elchanan Zwecher et al. | [Abstract](https://arxiv.org/abs/2309.06986) · [PDF](https://arxiv.org/pdf/2309.06986) |
-| 2023-09-06 | Learning Vehicle Dynamics from Cropped Image Patches for Robot Navigation in Unpaved Outdoor Terrains | Jeong Hyun Lee, Jinhyeok Choi, Simo Ryu, Hyunsik Oh et al. | [Abstract](https://arxiv.org/abs/2309.02745) · [PDF](https://arxiv.org/pdf/2309.02745) |
-| 2023-08-31 | Reinforcement learning for safety-critical control of an automated vehicle | Florian Thaler, Franz Rammerstorfer, Jon Ander Gomez, Raul Garcia Crespo et al. | [Abstract](https://arxiv.org/abs/2308.16767) · [PDF](https://arxiv.org/pdf/2308.16767) |
 
 ---
 

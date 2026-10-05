@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Object%2C%20Pose%20%26%20Affordance%20Perception&specialty=Affordance%20%26%20Interaction%20Prediction#research-workbench)
 
-> 30 conference papers · 71 recent arXiv papers
+> 34 conference papers · 70 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (30)
+## Conference papers (34)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Coupled Particle Filters for Robust Affordance Estimation | ICRA · Affordance | [Paper](https://arxiv.org/abs/2603.15223) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697141) |
+| 2026 | GarmentPile++: Affordance-Driven Cluttered Garments Retrieval with Vision-Language Reasoning | ICRA · Affordance | [Paper](https://arxiv.org/abs/2603.04158) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696185) |
+| 2026 | RAAP: Retrieval-Augmented Affordance Prediction with Cross-Image Action Alignment | ICRA · Affordance | [Paper](https://arxiv.org/abs/2603.29419) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696424) |
+| 2026 | RoboHitch: Learning Visual Affordance from Disordered Keypoints for Hitch Knots Tying | ICRA · Affordance | [Paper](https://arxiv.org/abs/2605.24394) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695742) |
 | 2025 | AffordDP: Generalizable Diffusion Policy with Transferable Affordance | CVPR · Affordance | [Paper](https://arxiv.org/abs/2412.03142) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.00654) |
 | 2025 | GREAT: Geometry-Intention Collaborative Inference for Open-Vocabulary 3D Object Affordance Grounding | CVPR · Affordance | [Paper](https://arxiv.org/abs/2411.19626) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01615) |
 | 2025 | Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions | CVPR · Affordance | [Paper](https://arxiv.org/abs/2504.04744) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01616) |
@@ -26,7 +30,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Affordance-Guided Reinforcement Learning via Visual Prompting | IROS · Affordance | [Paper](https://arxiv.org/abs/2407.10341) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246854) |
 | 2025 | Manipulate-To-Navigate: Reinforcement Learning with Visual Affordances and Manipulability Priors | IROS · Affordance | [Paper](https://arxiv.org/abs/2508.13151) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247222) |
 | 2025 | One-Shot Affordance Grounding of Deformable Objects in Egocentric Organizing Scenes | IROS · Affordance | [Paper](https://arxiv.org/abs/2503.01092) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246431) |
-| 2025 | Resource-Efficient Affordance Grounding with Complementary Depth and Semantic Prompts | IROS · Affordance | [Paper](https://arxiv.org/abs/2503.02600) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245943) |
+| 2025 | Resource-Efficient Affordance Grounding with Complementary Depth and Semantic Prompts | IROS · Affordance | [Paper](https://arxiv.org/pdf/2503.02600) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245943) |
 | 2024 | LASO: Language-Guided Affordance Segmentation on 3D Object | CVPR · Affordance | [Paper](https://doi.org/10.1109/CVPR52733.2024.01351) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01351) |
 | 2024 | General Flow as Foundation Affordance for Scalable Robot Learning | CoRL · Affordance | [Paper](https://arxiv.org/abs/2401.11439) · [Publisher](https://doi.org/10.48550/arXiv.2401.11439) |
 | 2024 | AFF-ttention! Affordances and Attention models for Short-Term Object Interaction Anticipation | ECCV · Affordance | [Paper](https://arxiv.org/abs/2406.01194) · [Publisher](https://doi.org/10.48550/arXiv.2406.01194) |
@@ -38,7 +42,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Affordance Grounding from Demonstration Video to Target Image | CVPR · Affordance | [Paper](https://arxiv.org/pdf/2303.14644) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.00657) |
 | 2023 | Affordances from Human Videos as a Versatile Representation for Robotics | CVPR · Affordance | [Paper](https://arxiv.org/pdf/2304.08488) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.01324) |
 | 2023 | MAAL: Multimodality-Aware Autoencoder-based Affordance Learning for 3D Articulated Objects | ICCV · Affordance | [Paper](https://doi.org/10.1109/ICCV51070.2023.00027) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.00027) |
-| 2023 | Multi-label affordance mapping from egocentric vision | ICCV · Affordance | [Paper](https://arxiv.org/pdf/2309.02120) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.00483) |
+| 2023 | Multi-label affordance mapping from egocentric vision | ICCV · Affordance | [Paper](https://zaguan.unizar.es/record/132130/files/texto_completo.pdf) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.00483) |
 | 2023 | Bayesian deep learning for affordance segmentation in images | ICRA · Affordance | [Paper](https://arxiv.org/pdf/2303.00871) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160606) |
 | 2023 | Grounding Language with Visual Affordances over Unstructured Data | ICRA · Affordance | [Paper](https://arxiv.org/pdf/2210.01911) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160396) |
 | 2023 | Learning Agent-Aware Affordances for Closed-Loop Interaction with Articulated Objects | ICRA · Affordance | [Paper](https://arxiv.org/pdf/2209.05802) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160747) |
@@ -49,10 +53,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | AssistQ: Affordance-centric Question-driven Task Completion for Egocentric Assistant | ECCV · Affordance | [Paper](https://arxiv.org/abs/2203.04203) · [Publisher](https://doi.org/10.48550/arXiv.2203.04203) |
 | 2022 | Affordance Learning from Play for Sample-Efficient Policy Learning | ICRA · Affordance | [Paper](https://arxiv.org/abs/2203.00352) · [Publisher](https://doi.org/10.48550/arXiv.2203.00352) |
 
-## Recent arXiv papers (71)
+## Recent arXiv papers (70)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-29 | Multi-Agent Flow Matching with Decoupled Generative Guidance | Ruoyu Lin, Magnus Egerstedt, Fabio Pasqualetti | [Abstract](https://arxiv.org/abs/2609.38133) · [PDF](https://arxiv.org/pdf/2609.38133) |
+| 2026-09-22 | Pro-Bench: Prompt-Robust Open-Vocabulary Visual Grounding Across Real-World Heterogeneous Environments | Linus Nwankwo, Muslim Alaran, Christian Rauch, Stanley Chukwuebuka Obilikpa et al. | [Abstract](https://arxiv.org/abs/2609.27076) · [PDF](https://arxiv.org/pdf/2609.27076) |
 | 2026-08-18 | Reproducible Multimodal Affordance Prediction | Tommaso Apicella, Alessio Xompero, Andrea Cavallaro | [Abstract](https://arxiv.org/abs/2608.18317) · [PDF](https://arxiv.org/pdf/2608.18317) |
 | 2026-08-13 | FUSE: Active Functional Affordance Grounding through Adaptive Semantic-Geometric Evidence Acquisition | Zhou Chen, Sathyanarayanan N. Aakur | [Abstract](https://arxiv.org/abs/2608.12683) · [PDF](https://arxiv.org/pdf/2608.12683) |
 | 2026-07-30 | Filling the Pareto-Optimal Front for Affordance Segmentation on Embedded Devices Using RGB-D Cameras | Edoardo Ragusa, Giovanni Paolo Canuti, Simone Lugani, Rodolfo Zunino et al. | [Abstract](https://arxiv.org/abs/2607.28293) · [PDF](https://arxiv.org/pdf/2607.28293) |
@@ -121,9 +127,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-20 | Shared Affordance-awareness via Augmented Reality for Proactive Assistance in Human-robot Collaboration | Drake Moore, Mark Zolotas, Taskin Padir | [Abstract](https://arxiv.org/abs/2312.13410) · [PDF](https://arxiv.org/pdf/2312.13410) |
 | 2023-12-11 | One Size Does not Fit All: Personalised Affordance Design for Social Robots | Guanyu Huang, Roger K. Moore | [Abstract](https://arxiv.org/abs/2312.06566) · [PDF](https://arxiv.org/pdf/2312.06566) |
 | 2023-11-27 | Towards Designing Spatial Robots that are Architecturally Motivated | Binh Vinh Duc Nguyen, Andrew Vande Moere | [Abstract](https://arxiv.org/abs/2311.16314) · [PDF](https://arxiv.org/pdf/2311.16314) |
-| 2023-09-19 | Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation | Tuan Van Vo, Minh Nhat Vu, Baoru Huang, Toan Nguyen et al. | [Abstract](https://arxiv.org/abs/2309.10932) · [PDF](https://arxiv.org/pdf/2309.10932) |
-| 2023-09-19 | Multi-Object Graph Affordance Network: Goal-Oriented Planning through Learned Compound Object Affordances | Tuba Girgin, Emre Ugur | [Abstract](https://arxiv.org/abs/2309.10426) · [PDF](https://arxiv.org/pdf/2309.10426) |
-| 2023-09-14 | Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects | Chuanruo Ning, Ruihai Wu, Haoran Lu, Kaichun Mo et al. | [Abstract](https://arxiv.org/abs/2309.07473) · [PDF](https://arxiv.org/pdf/2309.07473) |
 
 ---
 

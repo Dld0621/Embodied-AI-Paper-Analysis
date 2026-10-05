@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engines&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 5 conference papers · 57 recent arXiv papers
+> 6 conference papers · 55 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,17 +14,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (5)
+## Conference papers (6)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | MOVE: A Simple Motion-Based Data Collection Paradigm for Spatial Generalization in Robotic Manipulation | ICRA · Data Collection | [Paper](https://arxiv.org/abs/2512.04813) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697511) |
 | 2025 | RoboCrowd: Scaling Robot Data Collection Through Crowdsourcing | ICRA · Data Collection | [Paper](https://arxiv.org/abs/2411.01915) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127402) |
 | 2024 | A Scalable Platform for Robot Learning and Physical Skill Data Collection | IROS · Data Collection | [Paper](https://doi.org/10.1109/IROS58592.2024.10801516) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801516) |
 | 2024 | Efficient Data Collection for Robotic Manipulation via Compositional Generalization | RSS · Data Collection | [Paper](https://arxiv.org/abs/2403.05110) · [Publisher](https://doi.org/10.48550/arXiv.2403.05110) |
 | 2023 | Robot Team Data Collection with Anywhere Communication | IROS · Data Collection | [Paper](https://doi.org/10.1109/IROS55552.2023.10342349) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342349) |
 | 2022 | Decentralized Data Collection for Robotic Fleet Learning: A Game-Theoretic Approach | CoRL · Data Collection | [Paper](https://www.semanticscholar.org/paper/8f4577cf50fa3f60fd0e5ceb48a8a23c39b6a46c) · [Index](https://dblp.org/rec/conf/corl/AkcinLAC22) |
 
-## Recent arXiv papers (57)
+## Recent arXiv papers (55)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -83,8 +84,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-31 | An Introduction to Causal Inference Methods for Observational Human-Robot Interaction Research | Jaron J. R. Lee, Gopika Ajaykumar, Ilya Shpitser, Chien-Ming Huang | [Abstract](https://arxiv.org/abs/2310.20468) · [PDF](https://arxiv.org/pdf/2310.20468) |
 | 2023-10-14 | Robot Imitation from Video Demonstration | Venkat Surya Teja Chereddy | [Abstract](https://arxiv.org/abs/2310.09642) · [PDF](https://arxiv.org/pdf/2310.09642) |
 | 2023-10-11 | HealthWalk: Promoting Health and Mobility through Sensor-Based Rollator Walker Assistance | Ivanna Kramer, Kevin Weirauch, Sabine Bauer, Mark Oliver Mints et al. | [Abstract](https://arxiv.org/abs/2310.07434) · [PDF](https://arxiv.org/pdf/2310.07434) |
-| 2023-09-16 | Pour me a drink: Robotic Precision Pouring Carbonated Beverages into Transparent Containers | Feiya Zhu, Shuo Hu, Letian Leng, Alison Bartsch et al. | [Abstract](https://arxiv.org/abs/2309.08892) · [PDF](https://arxiv.org/pdf/2309.08892) |
-| 2023-09-05 | Improving Drone Imagery For Computer Vision/Machine Learning in Wilderness Search and Rescue | Robin Murphy, Thomas Manzini | [Abstract](https://arxiv.org/abs/2309.01904) · [PDF](https://arxiv.org/pdf/2309.01904) |
 
 ---
 

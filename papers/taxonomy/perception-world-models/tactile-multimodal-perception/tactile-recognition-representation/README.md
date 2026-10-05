@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Tactile%20Recognition%20%26%20Representation#research-workbench)
 
-> 9 conference papers · 21 recent arXiv papers
+> 11 conference papers · 22 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,12 +14,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (9)
+## Conference papers (11)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | MultiDiffSense: Diffusion-Based Multi-Modal Visuo-Tactile Image Generation Conditioned on Object Shape and Contact Pose | ICRA · Tactile | [Paper](https://arxiv.org/abs/2602.19348) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696419) |
+| 2026 | Tactile Recognition of Both Shapes and Materials with Automatic Feature Optimization-Enabled Meta Learning | ICRA · Tactile | [Paper](https://arxiv.org/abs/2603.08423) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696120) |
 | 2025 | Sensor-Invariant Tactile Representation | ICLR · Tactile | [Paper](https://arxiv.org/abs/2502.19638) · [Publisher](https://doi.org/10.48550/arXiv.2502.19638) |
-| 2025 | ACROSS: A Deformation-Based Cross-Modal Representation for Robotic Tactile Perception | ICRA · Tactile | [Paper](https://arxiv.org/abs/2411.08533) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127851) |
+| 2025 | ACROSS: A Deformation-Based Cross-Modal Representation for Robotic Tactile Perception | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2411.08533) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127851) |
 | 2025 | UniTac-NV: A Unified Tactile Representation For Non-Vision-Based Tactile Sensors * | IROS · Tactile | [Paper](https://arxiv.org/abs/2506.19699) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247617) |
 | 2024 | Multimodal Visual-Tactile Representation Learning through Self-Supervised Contrastive Pre-Training | ICRA · Tactile | [Paper](https://arxiv.org/abs/2401.12024) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610228) |
 | 2024 | Probabilistic Spiking Neural Network for Robotic Tactile Continual Learning | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610553) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610553) |
@@ -28,10 +30,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Learn from Incomplete Tactile Data: Tactile Representation Learning with Masked Autoencoders | IROS · Tactile | [Paper](https://uwe-repository.worktribe.com/preview/14697028/insufficient_touch.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341788) |
 | 2023 | Self-Supervised Visuo-Tactile Pretraining to Locate and Follow Garment Features | RSS · Tactile | [Paper](https://doi.org/10.15607/rss.2023.xix.018) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.018) |
 
-## Recent arXiv papers (21)
+## Recent arXiv papers (22)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-08-30 | $N_0$-Foundation: Towards the Age of Tactile Intelligence | NeoteAI Team, Fudan TEAI Team | [Abstract](https://arxiv.org/abs/2608.29601) · [PDF](https://arxiv.org/pdf/2608.29601) |
 | 2026-07-16 | VQ-Touch: A Data-Efficient Tactile Generation Framework Across Sensors and Scenarios | Kailin Lyu, Long Xiao, Jianing Zeng, Di Wu et al. | [Abstract](https://arxiv.org/abs/2607.14728) · [PDF](https://arxiv.org/pdf/2607.14728) |
 | 2026-07-06 | GelNeuro: A Sensing-Computing Integrated Neuromorphic Tactile System for Texture Recognition | Luoyang Bian, Xinpan Meng, Zhenghua Ma, Houcheng Li et al. | [Abstract](https://arxiv.org/abs/2607.05241) · [PDF](https://arxiv.org/pdf/2607.05241) |
 | 2026-06-30 | TactX: Learning Shared Tactile Representations Across Diverse Sensors | Junsung Park, Sachin Bhadang, Carmelo Sferrazza, Sha Yi et al. | [Abstract](https://arxiv.org/abs/2606.31236) · [PDF](https://arxiv.org/pdf/2606.31236) |
@@ -45,7 +48,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-08-17 | Tactile Gesture Recognition with Built-in Joint Sensors for Industrial Robots | Deqing Song, Weimin Yang, Maryam Rezayati, Hans Wernher van de Venn | [Abstract](https://arxiv.org/abs/2508.12435) · [PDF](https://arxiv.org/pdf/2508.12435) |
 | 2025-08-06 | Improving Tactile Gesture Recognition with Optical Flow | Shaohong Zhong, Alessandro Albini, Giammarco Caroleo, Giorgio Cannata et al. | [Abstract](https://arxiv.org/abs/2508.04338) · [PDF](https://arxiv.org/pdf/2508.04338) |
 | 2025-06-24 | UniTac-NV: A Unified Tactile Representation For Non-Vision-Based Tactile Sensors | Jian Hou, Xin Zhou, Qihan Yang, Adam J. Spiers | [Abstract](https://arxiv.org/abs/2506.19699) · [PDF](https://arxiv.org/pdf/2506.19699) |
-| 2025-05-26 | ControlTac: Force- and Position-Controlled Tactile Data Augmentation with a Single Reference Image | Dongyu Luo, Kelin Yu, Amir-Hossein Shahidzadeh, Cornelia Fermüller et al. | [Abstract](https://arxiv.org/abs/2505.20498) · [PDF](https://arxiv.org/pdf/2505.20498) |
+| 2025-05-26 | ControlTac: Scaling Tactile Data with Physically Controlled Tactile Image Generation | Dongyu Luo, Kelin Yu, Amir-Hossein Shahidzadeh, Cornelia Fermüller et al. | [Abstract](https://arxiv.org/abs/2505.20498) · [PDF](https://arxiv.org/pdf/2505.20498) |
 | 2025-02-27 | Sensor-Invariant Tactile Representation | Harsh Gupta, Yuchen Mo, Shengmiao Jin, Wenzhen Yuan | [Abstract](https://arxiv.org/abs/2502.19638) · [PDF](https://arxiv.org/pdf/2502.19638) |
 | 2024-12-02 | Vision-based Tactile Image Generation via Contact Condition-guided Diffusion Model | Xi Lin, Weiliang Xu, Yixian Mao, Jing Wang et al. | [Abstract](https://arxiv.org/abs/2412.01639) · [PDF](https://arxiv.org/pdf/2412.01639) |
 | 2024-11-13 | ACROSS: A Deformation-Based Cross-Modal Representation for Robotic Tactile Perception | Wadhah Zai El Amri, Malte Kuhlmann, Nicolás Navarro-Guerrero | [Abstract](https://arxiv.org/abs/2411.08533) · [PDF](https://arxiv.org/pdf/2411.08533) |

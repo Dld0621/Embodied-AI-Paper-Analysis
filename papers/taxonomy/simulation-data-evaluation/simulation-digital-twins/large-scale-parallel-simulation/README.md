@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Large-scale%20Parallel%20Simulation#research-workbench)
 
-> 4 conference papers · 20 recent arXiv papers
+> 4 conference papers · 23 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,10 +23,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation | NeurIPS · Simulation | [Paper](https://arxiv.org/abs/2504.12908) · [Publisher](https://doi.org/10.48550/arXiv.2504.12908) |
 | 2024 | RoboCasa: Large-Scale Simulation of Household Tasks for Generalist Robots | RSS · Household simulation | [Paper](https://arxiv.org/abs/2306.14426) · [Official](https://roboticsproceedings.org/rss20/index.html) · [Code](https://github.com/ARISE-Initiative/robocasa) |
 
-## Recent arXiv papers (20)
+## Recent arXiv papers (23)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-01 | Network-in-the-Loop at Scale: GPU-Batched 5G Simulation for Massively Parallel Robot Learning | Zifan Zhang, Mingzhe Han, Kannan Athreya, Yuchen Liu | [Abstract](https://arxiv.org/abs/2610.02370) · [PDF](https://arxiv.org/pdf/2610.02370) |
+| 2026-10-01 | Multi-Fidelity Policy Gradients Stabilize Data-Scarce Reinforcement Learning | Xinjie Liu, Ruihan Zhao, Anirban Chaudhuri, Cyrus Neary et al. | [Abstract](https://arxiv.org/abs/2610.02505) · [PDF](https://arxiv.org/pdf/2610.02505) |
+| 2026-09-16 | WeaveRL: Weaving Reconstruction into Scene-Aware Fabrics for Perceptive Reinforcement Learning | Remo Steiner, Vikram Ramasamy, David Tingdahl, Sam Mady et al. | [Abstract](https://arxiv.org/abs/2609.18685) · [PDF](https://arxiv.org/pdf/2609.18685) |
 | 2026-08-19 | SCAPE: Scenario-Conditioned Simulation-Augmented Policy Evaluation | Dijie Zhu, Seunghun Oh, Ruopeng Huang, Zhiyu Huang et al. | [Abstract](https://arxiv.org/abs/2608.19425) · [PDF](https://arxiv.org/pdf/2608.19425) |
 | 2026-07-07 | OrchardBench: A Physically-Grounded, GPU-Parallel Apple-Orchard Simulation Benchmark for Agricultural Robotics | Humphrey Munn | [Abstract](https://arxiv.org/abs/2607.06337) · [PDF](https://arxiv.org/pdf/2607.06337) |
 | 2026-07-04 | Fast Asymptotically Optimal Kinodynamic Planning via Vectorization | Yitian Gao, Andrew Lu, Zachary Kingston | [Abstract](https://arxiv.org/abs/2607.03987) · [PDF](https://arxiv.org/pdf/2607.03987) |

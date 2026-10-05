@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Exploration%20%26%20Active%20Mapping&specialty=Frontier%20%26%20Coverage%20Exploration#research-workbench)
 
-> 12 conference papers · 49 recent arXiv papers
+> 12 conference papers · 47 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -31,10 +31,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Adaptive Coverage Path Planning for Efficient Exploration of Unknown Environments | IROS · Exploration | [Paper](https://arxiv.org/pdf/2302.03164) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982287) |
 | 2022 | Coordinated Multi-Agent Exploration, Rendezvous, & Task Allocation in Unknown Environments with Limited Connectivity | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS47612.2022.9981898) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981898) |
 
-## Recent arXiv papers (49)
+## Recent arXiv papers (47)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-01 | OpenSpace Lab Solution to the IROS 2026 Indoor Exploration Competition | Yuxuan Zhang, Dong Li, Zezhou Sun, Yuxuan Xu et al. | [Abstract](https://arxiv.org/abs/2610.01505) · [PDF](https://arxiv.org/pdf/2610.01505) |
 | 2026-06-22 | FPAS: Frontier-Based Path Planning with Adaptive Sampling for Large-Scale Unknown Environments | Jinwoo Choi, Yeonkyu Lee, Jung-Taak Kim, Jisung Bae et al. | [Abstract](https://arxiv.org/abs/2606.22838) · [PDF](https://arxiv.org/pdf/2606.22838) |
 | 2026-06-21 | Semantic-Aware Autonomous Exploration for UAVs in Unknown Indoor Environments | Duc-Thien Nguyen, Ngoc Minh Do, Xiem HoangVan, Thanh Nguyen Canh | [Abstract](https://arxiv.org/abs/2606.22670) · [PDF](https://arxiv.org/pdf/2606.22670) |
 | 2026-06-10 | Explore From Sketch: Accelerating UAV Exploration in Large-scale Environments with Prior Maps | Tiancheng Lai, Yuman Gao, Xiangyu Li, Ruitian Pang et al. | [Abstract](https://arxiv.org/abs/2606.11708) · [PDF](https://arxiv.org/pdf/2606.11708) |
@@ -81,9 +82,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-17 | Practical Non-Intrusive GUI Exploration Testing with Visual-based Robotic Arms | Shengcheng Yu, Chunrong Fang, Mingzhe Du, Yuchen Ling et al. | [Abstract](https://arxiv.org/abs/2312.10655) · [PDF](https://arxiv.org/pdf/2312.10655) |
 | 2023-11-28 | Mission-driven Exploration for Accelerated Deep Reinforcement Learning with Temporal Logic Task Specifications | Jun Wang, Hosein Hasanbeig, Kaiyuan Tan, Zihe Sun et al. | [Abstract](https://arxiv.org/abs/2311.17059) · [PDF](https://arxiv.org/pdf/2311.17059) |
 | 2023-11-21 | Autonomous Exploration of Unknown 3D Environments Using a Frontier-Based Collector Strategy | Ivan D. Changoluisa Caiza, Ana Milas, Marco A. Montes Grova, Francisco Javier Perez-Grau et al. | [Abstract](https://arxiv.org/abs/2311.12408) · [PDF](https://arxiv.org/pdf/2311.12408) |
-| 2023-10-03 | Fast algorithm for centralized multi-agent maze exploration | Bojan Crnković, Stefan Ivić, Mila Zovko | [Abstract](https://arxiv.org/abs/2310.02121) · [PDF](https://arxiv.org/pdf/2310.02121) |
-| 2023-09-28 | Comparing Active Learning Performance Driven by Gaussian Processes or Bayesian Neural Networks for Constrained Trajectory Exploration | Sapphira Akins, Frances Zhu | [Abstract](https://arxiv.org/abs/2309.16114) · [PDF](https://arxiv.org/pdf/2309.16114) |
-| 2023-09-21 | Uncertainty-driven Exploration Strategies for Online Grasp Learning | Yitian Shi, Philipp Schillinger, Miroslav Gabriel, Alexander Qualmann et al. | [Abstract](https://arxiv.org/abs/2309.12038) · [PDF](https://arxiv.org/pdf/2309.12038) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Motion%20Imitation%20%26%20Generation&specialty=Language-conditioned%20Motion%20Generation#research-workbench)
 
-> 0 conference papers · 59 recent arXiv papers
+> 0 conference papers · 62 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,11 +18,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (59)
+## Recent arXiv papers (62)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-20 | MoSAT: Human Motion Generation from Spatial Audio and Textual Description | Shuyang Xu, Zhiyang Dou, Yiduo Hao, Zekun Li et al. | [Abstract](https://arxiv.org/abs/2609.23797) · [PDF](https://arxiv.org/pdf/2609.23797) |
 | 2026-08-21 | Natural Sit-to-Stand Motion Synthesis For Humanoids via Guided Assistance Curricula and Staged Rewards | Meet Pal Singh, Vyankatesh Ashtekar, Ashish Dutta | [Abstract](https://arxiv.org/abs/2608.20823) · [PDF](https://arxiv.org/pdf/2608.20823) |
+| 2026-08-19 | EMODY Flow: Emotion-Aware Audio-Driven Full-Body Motion Generation | Harsh Kumar Agarwal, Xavier Alameda-Pineda, Olivier Perrotin | [Abstract](https://arxiv.org/abs/2609.16011) · [PDF](https://arxiv.org/pdf/2609.16011) |
 | 2026-08-05 | GASP: GPU-Accelerated Safe Planner for Real-Time Collision-Aware Motion Generation with Latent Trajectory Sampling | Colin Merk, Stefanos Charalambous, Peter Dürr, Farshad Khadivar | [Abstract](https://arxiv.org/abs/2608.04612) · [PDF](https://arxiv.org/pdf/2608.04612) |
 | 2026-07-27 | Motion Generation With Environmental Constraints | Előd Páll, Oliver Brock | [Abstract](https://arxiv.org/abs/2607.25053) · [PDF](https://arxiv.org/pdf/2607.25053) |
 | 2026-07-15 | ConFlow: Constraints-Guided Learning with Flow Matching for Motion Generation | Nutan Chen, Jianxiang Feng, Marvin Alles, Botond Cseke | [Abstract](https://arxiv.org/abs/2607.14424) · [PDF](https://arxiv.org/pdf/2607.14424) |
@@ -41,6 +43,7 @@ No conference papers currently map to this specialty.
 | 2026-03-13 | InterEdit: Navigating Text-Guided 3D Dyadic Human Motion Editing | Yebin Yang, Di Wen, Lei Qi, Weitong Kong et al. | [Abstract](https://arxiv.org/abs/2603.13082) · [PDF](https://arxiv.org/pdf/2603.13082) |
 | 2026-03-05 | cuRoboV2: Dynamics-Aware Motion Generation with Depth-Fused Distance Fields for High-DoF Robots | Balakumar Sundaralingam, Adithyavairavan Murali, Stan Birchfield | [Abstract](https://arxiv.org/abs/2603.05493) · [PDF](https://arxiv.org/pdf/2603.05493) |
 | 2026-02-18 | Reactive Motion Generation With Particle-Based Perception in Dynamic Environments | Xiyuan Zhao, Huijun Li, Lifeng Zhu, Zhikai Wei et al. | [Abstract](https://arxiv.org/abs/2602.16462) · [PDF](https://arxiv.org/pdf/2602.16462) |
+| 2026-02-15 | ProAct: Harnessing Streaming Motion Generation and Agentic Reasoning for Real-Time Embodied Social Interaction | Zeyi Zhang, Zixi Kang, Ruijie Zhao, Yusen Feng et al. | [Abstract](https://arxiv.org/abs/2602.14048) · [PDF](https://arxiv.org/pdf/2602.14048) |
 | 2026-02-03 | Hierarchical Proportion Models for Motion Generation via Integration of Motion Primitives | Yu-Han Shu, Toshiaki Tsuji, Sho Sakaino | [Abstract](https://arxiv.org/abs/2602.03188) · [PDF](https://arxiv.org/pdf/2602.03188) |
 | 2025-12-27 | Pose-Guided Residual Refinement for Interpretable Text-to-Motion Generation and Editing | Sukhyun Jeong, Yong-Hoon Choi | [Abstract](https://arxiv.org/abs/2512.22464) · [PDF](https://arxiv.org/pdf/2512.22464) |
 | 2025-11-25 | BRIC: Bridging Kinematic Plans and Physical Control at Test Time | Dohun Lim, Minji Kim, Jaewoon Lim, Sungchan Kim | [Abstract](https://arxiv.org/abs/2511.20431) · [PDF](https://arxiv.org/pdf/2511.20431) |

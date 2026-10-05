@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Balance%2C%20Dynamics%20%26%20Recovery&specialty=Balance%20%26%20Stability%20Control#research-workbench)
 
-> 6 conference papers · 34 recent arXiv papers
+> 6 conference papers · 35 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,17 +18,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | Realtime Limb Trajectory Optimization for Humanoid Running Through Centroidal Angular Momentum Dynamics | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2501.17351) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127382) |
+| 2025 | Realtime Limb Trajectory Optimization for Humanoid Running Through Centroidal Angular Momentum Dynamics | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2501.17351) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127382) |
 | 2024 | Trajectory Optimization Strategy That Considers Body Tip-Over Stability, Limb Dynamics, and Motion Continuity in Legged Robots | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611365) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611365) |
 | 2023 | A Novel Approximation for the Spring Loaded Inverted Pendulum Model of Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS55552.2023.10341418) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341418) |
 | 2023 | ZMP Feedback Balance Control of Humanoid in Response to Ground Acceleration | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS55552.2023.10341851) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341851) |
-| 2022 | Planning Natural Locomotion for Articulated Soft Quadrupeds | ICRA · Locomotion | [Paper](https://repository.tudelft.nl/file/File_f16c5fa1-d118-4982-a499-fecb7f9da5aa) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812416) |
+| 2022 | Planning Natural Locomotion for Articulated Soft Quadrupeds | ICRA · Locomotion | [Paper](https://doi.org/10.1109/icra46639.2022.9812416) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812416) |
 | 2022 | The concept of rod-driven locomotion for spherical lunar exploration robots | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9981887) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981887) |
 
-## Recent arXiv papers (34)
+## Recent arXiv papers (35)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-30 | Reactive Humanoid Multi-Contact Using Learned Stability Models | Stephen McCrory, Beomyeong Park, Nicholas Kitchel, Nehar Poddar et al. | [Abstract](https://arxiv.org/abs/2610.00823) · [PDF](https://arxiv.org/pdf/2610.00823) |
+| 2026-09-13 | A Personalized Dynamic Balance Evaluation Paradigm for Hip Exoskeleton-Assisted Walking under Unexpected Ground Perturbations | Yun Chen, Oluwasegun T. Akinniyi, Qiang Zhang | [Abstract](https://arxiv.org/abs/2609.14765) · [PDF](https://arxiv.org/pdf/2609.14765) |
 | 2026-08-07 | A Reconfigurable Tracked Robot for Enhanced Obstacle Traversal Through Movable Articulation Point and Internal Mass Relocation | Yuki Uda, Yasutaka Nakashima, Motoji Yamamoto, Ayato Kanada | [Abstract](https://arxiv.org/abs/2608.07624) · [PDF](https://arxiv.org/pdf/2608.07624) |
 | 2026-06-26 | PPO-EAL: Exact Augmented Lagrangian Proximal Policy Optimization for Safe Robotic Control | Jiatao Ding, Songqun Gao, Andrea Del Prete, Matteo Saveriano | [Abstract](https://arxiv.org/abs/2606.27861) · [PDF](https://arxiv.org/pdf/2606.27861) |
 | 2026-06-20 | Dynamics, stability, and energy efficiency of an energy-recycling rimless wheel with spring-clutch legs | Tongchen Lin, Yanqiu Zheng, Chuhan Zhang, Ruigang Chen et al. | [Abstract](https://arxiv.org/abs/2606.22073) · [PDF](https://arxiv.org/pdf/2606.22073) |
@@ -39,7 +41,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-05-04 | Tensegrity crutches with compliance from a pre-stressed self-tensile module improve ground reaction force profiles, speed, effort, comfort, and perceived stability | Jingxian Gu, Joanna Spyra, Andrew Walski, Lyla Elsaesser et al. | [Abstract](https://arxiv.org/abs/2605.02710) · [PDF](https://arxiv.org/pdf/2605.02710) |
 | 2026-05-03 | Stability of Control Lyapunov Function Guided Reinforcement Learning | Zachary Olkin, William D. Compton, Aaron D. Ames | [Abstract](https://arxiv.org/abs/2605.01978) · [PDF](https://arxiv.org/pdf/2605.01978) |
 | 2026-04-20 | HALO: Hybrid Auto-encoded Locomotion with Learned Latent Dynamics, Poincaré Maps, and Regions of Attraction | Blake Werner, Sergio A. Esteban, Massimiliano De Sa, Max H. Cohen et al. | [Abstract](https://arxiv.org/abs/2604.18887) · [PDF](https://arxiv.org/pdf/2604.18887) |
-| 2026-03-08 | Residual Control for Fast Recovery from Dynamics Shifts | Nethmi Jayasinghe, Diana Gontero, Francesco Migliarba, Spencer T. Brown et al. | [Abstract](https://arxiv.org/abs/2603.07775) · [PDF](https://arxiv.org/pdf/2603.07775) |
 | 2026-02-17 | OSCAR: An Ovipositor-Inspired Self-Propelling Capsule Robot for Colonoscopy | Mostafa A. Atalla, Anand S. Sekar, Remi van Starkenburg, David J. Jager et al. | [Abstract](https://arxiv.org/abs/2602.15309) · [PDF](https://arxiv.org/pdf/2602.15309) |
 | 2026-02-11 | Data-Efficient Hierarchical Goal-Conditioned Reinforcement Learning via Normalizing Flows | Shaswat Garg, Matin Moezzi, Brandon Da Silva | [Abstract](https://arxiv.org/abs/2602.11142) · [PDF](https://arxiv.org/pdf/2602.11142) |
 | 2025-12-24 | Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3 | Muhtadin, Faris Rafi Pramana, Dion Hayu Fandiantoro, Moh Ismarintan Zazuli et al. | [Abstract](https://arxiv.org/abs/2512.21219) · [PDF](https://arxiv.org/pdf/2512.21219) |

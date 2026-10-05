@@ -30,13 +30,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | User-customizable Shared Control for Robot Teleoperation via Virtual Reality | IROS · Teleoperation | [Paper](https://arxiv.org/abs/2403.13177) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802544) |
 | 2023 | Evaluating Immersive Teleoperation Interfaces: Coordinating Robot Radiation Monitoring Tasks in Nuclear Facilities | ICRA · Teleoperation | [Paper](https://www.dora.lib4ri.ch/empa/dload/empa:35887/PDF2/view) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161011) |
 | 2023 | Orbital Head-Mounted Display: A Novel Interface for Viewpoint Control during Robot Teleoperation in Cluttered Environments | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS55552.2023.10341733) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341733) |
-| 2022 | Tactile Classification of Object Materials for Virtual Reality based Robot Teleoperation | ICRA · Teleoperation | [Paper](https://hal.archives-ouvertes.fr/hal-03644224/file/Tactile%20Classification%20of%20Object%20Materialsfor%20Virtual%20Reality%20based%20Robot%20Teleoperation.pdf) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811825) |
+| 2022 | Tactile Classification of Object Materials for Virtual Reality based Robot Teleoperation | ICRA · Teleoperation | [Paper](https://hal.science/hal-03644224) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811825) |
 
 ## Recent arXiv papers (44)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
-| 2026-08-27 | Remote Human and Robot Interaction for Greenhouse Gardening Using Virtual Reality | Daniel Udekwe, Hasan Seyyedhasani | [Abstract](https://arxiv.org/abs/2608.27545) · [PDF](https://arxiv.org/pdf/2608.27545) |
+| 2026-08-29 | GHOST in the Robots: Real-Time Exocentric Dual-Robot VR Teleoperation from Onboard Cameras | Yichen Wei, Faisal Zaghloul, Soujanya C Aryal, Aanya K. Agrawal et al. | [Abstract](https://arxiv.org/abs/2608.29080) · [PDF](https://arxiv.org/pdf/2608.29080) |
+| 2026-08-27 | Remote Human-Robot Interaction In Greenhouses via Virtual Reality: How Plant Canopy Structure Affects Leaf Disease and Soil Moisture Inspection | Daniel Udekwe, Hasan Seyyedhasani | [Abstract](https://arxiv.org/abs/2608.27545) · [PDF](https://arxiv.org/pdf/2608.27545) |
 | 2026-08-10 | Intuitive Directional Sense Presentation to the Torso Using McKibben-Based Surface Haptic Sensation in Immersive Space | Kenta Yokoe, Tadayoshi Aoyama, Yuki Funabora, Masaru Takeuchi et al. | [Abstract](https://arxiv.org/abs/2608.09177) · [PDF](https://arxiv.org/pdf/2608.09177) |
 | 2026-06-06 | Cybernetic Android Avatar "Yui": System Integration, Field Deployment, and Evaluation | Kaoruko Shinkawa, Mizuki Nakajima, Taisei Mogi, Yoshihiro Nakata | [Abstract](https://arxiv.org/abs/2606.08099) · [PDF](https://arxiv.org/pdf/2606.08099) |
 | 2026-06-05 | A Multi-Operator Mixed-Reality Interface for Multi-Robot Control and Coordination: Co-Located and Private Workspace Collaboration | Omotoye Shamsudeen Adekoya, Antonio Sgorbissa, Carmine Tommaso Recchiuto | [Abstract](https://arxiv.org/abs/2606.07013) · [PDF](https://arxiv.org/pdf/2606.07013) |
@@ -59,6 +60,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-08-28 | A Soft Fabric-Based Thermal Haptic Device for VR and Teleoperation | Rui Chen, Domenico Chiaradia, Antonio Frisoli, Daniele Leonardis | [Abstract](https://arxiv.org/abs/2508.20831) · [PDF](https://arxiv.org/pdf/2508.20831) |
 | 2025-08-13 | Immersive Teleoperation of Beyond-Human-Scale Robotic Manipulators: Challenges and Future Directions | Mahdi Hejrati, Jouni Mattila | [Abstract](https://arxiv.org/abs/2508.09700) · [PDF](https://arxiv.org/pdf/2508.09700) |
 | 2025-08-13 | BEAVR: Bimanual, multi-Embodiment, Accessible, Virtual Reality Teleoperation System for Robots | Alejandro Posadas-Nava, Alejandro Carrasco, Richard Linares | [Abstract](https://arxiv.org/abs/2508.09606) · [PDF](https://arxiv.org/pdf/2508.09606) |
+| 2025-05-20 | Robust Immersive Bilateral Teleoperation of Beyond-Human-Scale Systems with Enhanced Transparency and Sense of Embodiment | Mahdi Hejrati, Pauli Mustalahti, Jouni Mattila | [Abstract](https://arxiv.org/abs/2505.14486) · [PDF](https://arxiv.org/pdf/2505.14486) |
 | 2025-04-21 | Immersive Teleoperation Framework for Locomanipulation Tasks | Takuya Boehringer, Jonathan Embley-Riches, Karim Hammoud, Valerio Modugno et al. | [Abstract](https://arxiv.org/abs/2504.15229) · [PDF](https://arxiv.org/pdf/2504.15229) |
 | 2025-04-15 | Linearity, Time Invariance, and Passivity of a Novice Person in Human Teleoperation | David Black, Septimiu Salcudean | [Abstract](https://arxiv.org/abs/2504.11653) · [PDF](https://arxiv.org/pdf/2504.11653) |
 | 2025-03-26 | Immersive and Wearable Thermal Rendering for Augmented Reality | Alexandra Watkins, Ritam Ghosh, Evan Chow, Nilanjan Sarkar | [Abstract](https://arxiv.org/abs/2503.20646) · [PDF](https://arxiv.org/pdf/2503.20646) |
@@ -78,8 +80,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-05-12 | 5G Virtual Reality Manipulator Teleoperation using a Mobile Phone | Alexander Werner, William Melek | [Abstract](https://arxiv.org/abs/2405.07128) · [PDF](https://arxiv.org/pdf/2405.07128) |
 | 2024-04-22 | Immersive Rover Control and Obstacle Detection based on Extended Reality and Artificial Intelligence | Sofía Coloma, Alexandre Frantz, Dave van der Meer, Ernest Skrzypczyk et al. | [Abstract](https://arxiv.org/abs/2404.14095) · [PDF](https://arxiv.org/pdf/2404.14095) |
 | 2024-03-19 | User-customizable Shared Control for Robot Teleoperation via Virtual Reality | Rui Luo, Mark Zolotas, Drake Moore, Taskin Padir | [Abstract](https://arxiv.org/abs/2403.13177) · [PDF](https://arxiv.org/pdf/2403.13177) |
-| 2023-09-22 | GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators | Philipp Wu, Yide Shentu, Zhongke Yi, Xingyu Lin et al. | [Abstract](https://arxiv.org/abs/2309.13037) · [PDF](https://arxiv.org/pdf/2309.13037) |
-| 2023-09-19 | TELESIM: A Modular and Plug-and-Play Framework for Robotic Arm Teleoperation using a Digital Twin | Florent P Audonnet, Jonathan Grizou, Andrew Hamilton, Gerardo Aragon-Camarasa | [Abstract](https://arxiv.org/abs/2309.10579) · [PDF](https://arxiv.org/pdf/2309.10579) |
 
 ---
 

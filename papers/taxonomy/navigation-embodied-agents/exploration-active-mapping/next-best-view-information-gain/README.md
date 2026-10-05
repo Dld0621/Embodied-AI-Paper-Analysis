@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Exploration%20%26%20Active%20Mapping&specialty=Next-best-view%20%26%20Information%20Gain#research-workbench)
 
-> 11 conference papers · 35 recent arXiv papers
+> 13 conference papers · 34 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (11)
+## Conference papers (13)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Active Tactile Exploration for Rigid Body Pose and Shape Estimation | ICRA · Exploration | [Paper](https://arxiv.org/abs/2510.13595) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696035) |
+| 2026 | Platform-Agnostic Reinforcement Learning Framework for Safe Exploration of Cluttered Environments with Graph Attention | ICRA · Exploration | [Paper](https://arxiv.org/abs/2511.15358) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696319) |
 | 2025 | SENSEI: Semantic Exploration Guided by Foundation Models to Learn Versatile World Models | ICML · Exploration | [Paper](https://arxiv.org/abs/2503.01584) · [Publisher](https://doi.org/10.48550/arXiv.2503.01584) |
 | 2025 | MapEx: Indoor Structure Exploration with Probabilistic Information Gain from Global Map Predictions | ICRA · Exploration | [Paper](https://arxiv.org/abs/2409.15590) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128862) |
 | 2025 | Next-Best-Trajectory Planning of Robot Manipulators for Effective Observation and Exploration | ICRA · Exploration | [Paper](https://arxiv.org/abs/2503.22588) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128465) |
@@ -30,10 +32,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Active Exploration for Robotic Manipulation | IROS · Exploration | [Paper](https://arxiv.org/pdf/2210.12806) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982061) |
 | 2022 | Fast and Safe Exploration via Adaptive Semantic Perception in Outdoor Environments | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS47612.2022.9981640) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981640) |
 
-## Recent arXiv papers (35)
+## Recent arXiv papers (34)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-30 | GPU-Accelerated Path-Dependent Marginal Information Gain for Autonomous Exploration | João Félix Mendes, Rodrigo Ventura, Meysam Basiri | [Abstract](https://arxiv.org/abs/2609.40297) · [PDF](https://arxiv.org/pdf/2609.40297) |
 | 2026-08-04 | POMDPs for Autonomous Science Exploration | Daniel Guirguis, Nathan Wallace, Hanna Kurniawati, Salah Sukkarieh | [Abstract](https://arxiv.org/abs/2608.03155) · [PDF](https://arxiv.org/pdf/2608.03155) |
 | 2026-07-15 | Merging Reaction to Cognition: A Hybrid Cognitive Strategy for Odour Source Localisation in Natural Environments | Hugo Magalhães, Rui Baptista, Lino Marques | [Abstract](https://arxiv.org/abs/2607.13853) · [PDF](https://arxiv.org/pdf/2607.13853) |
 | 2026-06-09 | Multi-UAV Active Sensing with Information Gain-based Planning and Belief Fusion | S. Habibi, L. Marques | [Abstract](https://arxiv.org/abs/2606.10986) · [PDF](https://arxiv.org/pdf/2606.10986) |
@@ -67,8 +70,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-07-05 | A Tree-based Next-best-trajectory Method for 3D UAV Exploration | Björn Lindqvist, Akash Patel, Kalle Löfgren, George Nikolakopoulos | [Abstract](https://arxiv.org/abs/2407.04386) · [PDF](https://arxiv.org/pdf/2407.04386) |
 | 2024-04-24 | ActiveRIR: Active Audio-Visual Exploration for Acoustic Environment Modeling | Arjun Somayazulu, Sagnik Majumder, Changan Chen, Kristen Grauman | [Abstract](https://arxiv.org/abs/2404.16216) · [PDF](https://arxiv.org/pdf/2404.16216) |
 | 2024-03-18 | Beyond Uncertainty: Risk-Aware Active View Acquisition for Safe Robot Navigation and 3D Scene Understanding with FisherRF | Guangyi Liu, Wen Jiang, Boshu Lei, Vivek Pandey et al. | [Abstract](https://arxiv.org/abs/2403.11396) · [PDF](https://arxiv.org/pdf/2403.11396) |
-| 2023-09-21 | Active perception network for non-myopic online exploration and visual surface coverage | David Vutetakis, Jing Xiao | [Abstract](https://arxiv.org/abs/2309.11695) · [PDF](https://arxiv.org/pdf/2309.11695) |
-| 2023-09-11 | CARE: Confidence-rich Autonomous Robot Exploration using Bayesian Kernel Inference and Optimization | Yang Xu, Ronghao Zheng, Senlin Zhang, Meiqin Liu et al. | [Abstract](https://arxiv.org/abs/2309.05200) · [PDF](https://arxiv.org/pdf/2309.05200) |
 
 ---
 

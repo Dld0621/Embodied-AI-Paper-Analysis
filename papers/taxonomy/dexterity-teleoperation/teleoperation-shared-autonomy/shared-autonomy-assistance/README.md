@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Autonomy&specialty=Shared%20Autonomy%20%26%20Assistance#research-workbench)
 
-> 9 conference papers · 25 recent arXiv papers
+> 10 conference papers · 25 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (9)
+## Conference papers (10)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Learning End-to-End Dexterous Arm-Hand VLA Policies with Shared Autonomy: DexGrasp AI Copilot for Efficient Teleoperation | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697534) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697534) |
 | 2025 | Sampling-Based Grasp and Collision Prediction for Assisted Teleoperation | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2504.18186) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128199) |
 | 2025 | HACTS: a Human-As-Copilot Teleoperation System for Robot Learning | IROS · Teleoperation | [Paper](https://arxiv.org/pdf/2503.24070) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247309) |
 | 2025 | Landmark-Based Goal Recognition for Shared Autonomy: A Framework for Enhanced Teleoperation | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS60139.2025.11245815) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245815) |
@@ -32,6 +33,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-17 | Affective Shared Autonomy: Temporal Affect Dynamics and Subjective Evaluation in Bimanual Teleoperation Tasks | Zhengji Liang, Guiyin Tian, Sijin Qu, Hainan Liu et al. | [Abstract](https://arxiv.org/abs/2609.19802) · [PDF](https://arxiv.org/pdf/2609.19802) |
 | 2026-08-20 | Keeping the Franka Emika Panda alive: a ROS 2 stack with a reliable position interface | Antonio Langella, Davide Risi, Vincenzo Petrone, Enrico Ferrentino et al. | [Abstract](https://arxiv.org/abs/2608.19740) · [PDF](https://arxiv.org/pdf/2608.19740) |
 | 2026-07-16 | AHEAD: Anticipatory Hand-Driven Teleoperation via Human Intent Prediction | Seok Joon Kim, Junho Lee, Federica Spinola, Taein Kwon et al. | [Abstract](https://arxiv.org/abs/2607.15172) · [PDF](https://arxiv.org/pdf/2607.15172) |
 | 2026-06-22 | DexTeleop-0: Force-Aware Bimanual Dexterous Teleoperation with Ego-Centric Perception towards Shared Autonomy | Haichao Liu, Yuyao Jiang, Hyunsun Park, Yuanjiang Xue et al. | [Abstract](https://arxiv.org/abs/2606.23431) · [PDF](https://arxiv.org/pdf/2606.23431) |
@@ -56,7 +58,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-03-22 | Safe and Stable Teleoperation of Quadrotor UAVs under Haptic Shared Autonomy | Dawei Zhang, Roberto Tron | [Abstract](https://arxiv.org/abs/2403.15335) · [PDF](https://arxiv.org/pdf/2403.15335) |
 | 2024-03-08 | Safe Execution of Learned Orientation Skills with Conic Control Barrier Functions | Zheng Shen, Matteo Saveriano, Fares J. Abu-Dakka, Sami Haddadin | [Abstract](https://arxiv.org/abs/2403.05447) · [PDF](https://arxiv.org/pdf/2403.05447) |
 | 2024-01-06 | HAIM-DRL: Enhanced Human-in-the-loop Reinforcement Learning for Safe and Efficient Autonomous Driving | Zilin Huang, Zihao Sheng, Chengyuan Ma, Sikai Chen | [Abstract](https://arxiv.org/abs/2401.03160) · [PDF](https://arxiv.org/pdf/2401.03160) |
-| 2023-09-07 | Bootstrapping Adaptive Human-Machine Interfaces with Offline Reinforcement Learning | Jensen Gao, Siddharth Reddy, Glen Berseth, Anca D. Dragan et al. | [Abstract](https://arxiv.org/abs/2309.03839) · [PDF](https://arxiv.org/pdf/2309.03839) |
 
 ---
 

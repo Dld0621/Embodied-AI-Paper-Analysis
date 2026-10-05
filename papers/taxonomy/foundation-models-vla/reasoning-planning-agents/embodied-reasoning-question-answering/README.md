@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=Embodied%20Reasoning%20%26%20Question%20Answering#research-workbench)
 
-> 6 conference papers · 92 recent arXiv papers
+> 8 conference papers · 99 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,21 +14,30 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (6)
+## Conference papers (8)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | IntentionVLA: Generalizable and Efficient Embodied Intention Reasoning for Human-Robot Interaction | ICRA · Vla | [Paper](https://arxiv.org/abs/2510.07778) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697087) |
 | 2025 | Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2502.06419) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127665) |
+| 2025 | Robo2VLM: Improving Visual Question Answering using Large-Scale Robot Manipulation Data | NeurIPS · Vlm | [Paper](https://doi.org/10.52202/085713-0733) · [Publisher](https://doi.org/10.52202/085713-0733) |
 | 2024 | DeliGrasp: Inferring Object Properties with LLMs for Adaptive Grasp Policies | CoRL · Llm | [Paper](https://arxiv.org/abs/2403.07832) · [Publisher](https://doi.org/10.48550/arXiv.2403.07832) |
 | 2024 | Interactive Planning Using Large Language Models for Partially Observable Robotic Tasks | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2312.06876) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610981) |
 | 2024 | Statler: State-Maintaining Language Models for Embodied Reasoning | ICRA · Language Model | [Paper](https://arxiv.org/abs/2306.17840) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610634) |
 | 2024 | ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2403.11289) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801993) |
 | 2022 | Inner Monologue: Embodied Reasoning through Planning with Language Models | CoRL · Language Model | [Paper](https://arxiv.org/abs/2207.05608) · [Publisher](https://doi.org/10.48550/arXiv.2207.05608) |
 
-## Recent arXiv papers (92)
+## Recent arXiv papers (99)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-30 | When Reasoning Helps Action: Monitoring and Steering Chain-of-Thought in Vision-Language-Action Policies | Sathwik Karnik, Joseph JR. Lee, Aryaman Gupta, Somil Bansal | [Abstract](https://arxiv.org/abs/2610.00601) · [PDF](https://arxiv.org/pdf/2610.00601) |
+| 2026-09-30 | Spatial Strategies, Not Actions: Vector-Quantized Geodesics as Tools for LLM-Driven Agents | Gabriel Turinici | [Abstract](https://arxiv.org/abs/2610.00613) · [PDF](https://arxiv.org/pdf/2610.00613) |
+| 2026-09-14 | GRAVA: Grounded Reasoning-to-Action Representation and Learning for Autonomous Driving | Xiao Liu, Haoyu Li, Jianghao Leng, Lin Wang et al. | [Abstract](https://arxiv.org/abs/2609.15169) · [PDF](https://arxiv.org/pdf/2609.15169) |
+| 2026-09-09 | CT-SAFR: Safe and Interpretable Chain-of-Thought Reasoning for Autonomous Robots: A Multi-Layered Verification Framework for Trustworthy AI-Driven Robotic Decision Making | Cagri Temel | [Abstract](https://arxiv.org/abs/2609.09692) · [PDF](https://arxiv.org/pdf/2609.09692) |
+| 2026-09-09 | Belief-State Engine: Augmenting LLMs for Principled Planning Under Partial Observability | Arnab Chattopadhayay, Debdipta Halder | [Abstract](https://arxiv.org/abs/2609.10036) · [PDF](https://arxiv.org/pdf/2609.10036) |
+| 2026-09-05 | MobileVLA-R1 2.0: RL-Enhanced Reasoning for Mobile Robot Control | Ting Huang, Yue Huang, Zeyu Zhang, Shuicheng Yan et al. | [Abstract](https://arxiv.org/abs/2609.06251) · [PDF](https://arxiv.org/pdf/2609.06251) |
+| 2026-09-04 | One Word, Different Action: A Real-Robot Benchmark for Language-Conditioned Embodied Reasoning | Yiwei Liu, Luwei Yang, Shunbo Lei | [Abstract](https://arxiv.org/abs/2609.05260) · [PDF](https://arxiv.org/pdf/2609.05260) |
 | 2026-08-20 | Towards general embodied intelligence: integrating large language models, knowledge bases, and reasoning capabilities to build the next generation of AI agents | Fujiang Yuan, Xia Huang, Lusheng Wang, Jun Ding et al. | [Abstract](https://arxiv.org/abs/2608.19794) · [PDF](https://arxiv.org/pdf/2608.19794) |
 | 2026-08-15 | LAPF: LLM-Agent-Based Path Finder Using the UAVScenes Dataset | Yousef Emami, Mohammadhossein Homaei, Hao Zhou, Miguel Gutiérrez Gaitán et al. | [Abstract](https://arxiv.org/abs/2608.15175) · [PDF](https://arxiv.org/pdf/2608.15175) |
 | 2026-08-12 | G0.5: One Autoregressive Stream for Robot Reasoning and Action | Yicheng Liu, Zibin Dong, Baijun Ye, Tianyuan Yuan et al. | [Abstract](https://arxiv.org/abs/2608.11739) · [PDF](https://arxiv.org/pdf/2608.11739) |

@@ -2,7 +2,7 @@
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 771 papers · complete list for this taxonomy leaf
+> 772 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -133,7 +133,7 @@
 | 2025-11-01 | Runge-Kutta Approximations for Direct Coning Compensation Applying Lie Theory | John A. Christian, Michael R. Walker, Wyatt Bridgman, Michael J. Sparapany | [Abstract](https://arxiv.org/abs/2511.00412) · [PDF](https://arxiv.org/pdf/2511.00412) |
 | 2025-10-31 | Supply Chain Exploitation of Secure ROS 2 Systems: A Proof-of-Concept on Autonomous Platform Compromise via Keystore Exfiltration | Tahmid Hasan Sakib, Yago Romano Martinez, Carter Brady, Syed Rafay Hasan et al. | [Abstract](https://arxiv.org/abs/2511.00140) · [PDF](https://arxiv.org/pdf/2511.00140) |
 | 2025-10-30 | Cooperative Integrated Estimation-Guidance for Simultaneous Interception of Moving Targets | Lohitvel Gopikannan, Shashi Ranjan Kumar, Abhinav Sinha | [Abstract](https://arxiv.org/abs/2510.26948) · [PDF](https://arxiv.org/pdf/2510.26948) |
-| 2025-10-30 | Adaptive Trajectory Refinement for Optimization-based Local Planning in Narrow Passages | Hahjin Lee, Young J. Kim | [Abstract](https://arxiv.org/abs/2510.26142) · [PDF](https://arxiv.org/pdf/2510.26142) |
+| 2025-10-30 | ART-TEB: Adaptive Trajectory Planning for Mobile Robots in Cluttered Environments | Hahjin Lee, Young J. Kim | [Abstract](https://arxiv.org/abs/2510.26142) · [PDF](https://arxiv.org/pdf/2510.26142) |
 | 2025-10-29 | Time-Optimal Transport of Loosely Placed Liquid Filled Cups along Prescribed Paths | Klaus Zauner, Hubert Gattringer, Andreas Mueller | [Abstract](https://arxiv.org/abs/2510.25255) · [PDF](https://arxiv.org/pdf/2510.25255) |
 | 2025-10-29 | SoraNav: Adaptive UAV Task-Centric Navigation via Zeroshot VLM Reasoning | Hongyu Song, Rishabh Dev Yadav, Cheng Guo, Wei Pan | [Abstract](https://arxiv.org/abs/2510.25191) · [PDF](https://arxiv.org/pdf/2510.25191) |
 | 2025-10-29 | Modeling Collapse of Steered Vine Robots Under Their Own Weight | Ciera McFarland, Margaret McGuinness | [Abstract](https://arxiv.org/abs/2510.25727) · [PDF](https://arxiv.org/pdf/2510.25727) |
@@ -206,10 +206,10 @@
 | 2025-10-01 | Seeing through Uncertainty: Robust Task-Oriented Optimization in Visual Navigation | Yiyuan Pan, Yunzhe Xu, Zhe Liu, Hesheng Wang | [Abstract](https://arxiv.org/abs/2510.00441) · [PDF](https://arxiv.org/pdf/2510.00441) |
 | 2025-10-01 | Non-submodular Visual Attention for Robot Navigation | Reza Vafaee, Kian Behzad, Milad Siami, Luca Carlone et al. | [Abstract](https://arxiv.org/abs/2510.00942) · [PDF](https://arxiv.org/pdf/2510.00942) |
 | 2025-10-01 | Integrating Offline Pre-Training with Online Fine-Tuning: A Reinforcement Learning Approach for Robot Social Navigation | Run Su, Hao Fu, Shuai Zhou, Yingao Fu | [Abstract](https://arxiv.org/abs/2510.00466) · [PDF](https://arxiv.org/pdf/2510.00466) |
+| 2025-09-30 | Structured-Diffuser: Diffusion with Task-Conditioned Structured Priors for Motion Planning | Amelie Minji Kim, Junling Mei, Anqi Wu, Ye Zhao | [Abstract](https://arxiv.org/abs/2509.25685) · [PDF](https://arxiv.org/pdf/2509.25685) |
 | 2025-09-30 | SDA-PLANNER: State-Dependency Aware Adaptive Planner for Embodied Task Planning | Zichao Shen, Chen Gao, Jiaqi Yuan, Tianchen Zhu et al. | [Abstract](https://arxiv.org/abs/2509.26375) · [PDF](https://arxiv.org/pdf/2509.26375) |
 | 2025-09-30 | Real-time Velocity Profile Optimization for Time-Optimal Maneuvering with Generic Acceleration Constraints | Mattia Piazza, Mattia Piccinini, Sebastiano Taddei, Francesco Biral et al. | [Abstract](https://arxiv.org/abs/2509.26428) · [PDF](https://arxiv.org/pdf/2509.26428) |
 | 2025-09-30 | Kinodynamic Motion Planning for Mobile Robot Navigation across Inconsistent World Models | Eric R. Damm, Thomas M. Howard | [Abstract](https://arxiv.org/abs/2509.26339) · [PDF](https://arxiv.org/pdf/2509.26339) |
-| 2025-09-30 | Hierarchical Diffusion Motion Planning with Task-Conditioned Uncertainty-Aware Priors | Amelie Minji Kim, Anqi Wu, Ye Zhao | [Abstract](https://arxiv.org/abs/2509.25685) · [PDF](https://arxiv.org/pdf/2509.25685) |
 | 2025-09-30 | Field Calibration of Hyperspectral Cameras for Terrain Inference | Nathaniel Hanson, Benjamin Pyatski, Samuel Hibbard, Gary Lvov et al. | [Abstract](https://arxiv.org/abs/2509.25663) · [PDF](https://arxiv.org/pdf/2509.25663) |
 | 2025-09-29 | World Model for AI Autonomous Navigation in Mechanical Thrombectomy | Harry Robertshaw, Han-Ru Wu, Alejandro Granados, Thomas C Booth | [Abstract](https://arxiv.org/abs/2509.25518) · [PDF](https://arxiv.org/pdf/2509.25518) |
 | 2025-09-29 | Towards Tighter Convex Relaxation of Mixed-Integer Programs: Leveraging Logic Network Flow for Task and Motion Planning | Xuan Lin, Jiming Ren, Yandong Luo, Weijun Xie et al. | [Abstract](https://arxiv.org/abs/2509.24235) · [PDF](https://arxiv.org/pdf/2509.24235) |
@@ -291,6 +291,7 @@
 | 2025-09-07 | Advancing Resource Extraction Systems in Martian Volcanic Terrain: Rover Design, Power Consumption and Hazard Analysis | Divij Gupta, Arkajit Aich | [Abstract](https://arxiv.org/abs/2509.06103) · [PDF](https://arxiv.org/pdf/2509.06103) |
 | 2025-09-06 | Stereovision Image Processing for Planetary Navigation Maps with Semi-Global Matching and Superpixel Segmentation | Yan-Shan Lu, Miguel Arana-Catania, Saurabh Upadhyay, Leonard Felicetti | [Abstract](https://arxiv.org/abs/2509.05645) · [PDF](https://arxiv.org/pdf/2509.05645) |
 | 2025-09-06 | Sharing but Not Caring: Similar Outcomes for Shared Control and Switching Control in Telepresence-Robot Navigation | Juho Kalliokoski, Evan G. Center, Steven M. LaValle, Timo Ojala et al. | [Abstract](https://arxiv.org/abs/2509.05672) · [PDF](https://arxiv.org/pdf/2509.05672) |
+| 2025-09-05 | Real-time autonomous magnetic microrobot navigation across dynamic and biologically relevant environments | Yanda Yang, Max Sokolich, Fatma Ceren Kirmizitas, Baylen Ravenscraft et al. | [Abstract](https://arxiv.org/abs/2509.05500) · [PDF](https://arxiv.org/pdf/2509.05500) |
 | 2025-09-05 | COMMET: A System for Human-Induced Conflicts in Mobile Manipulation of Everyday Tasks | Dongping Li, Shaoting Peng, John Pohovey, Katherine Rose Driggs-Campbell | [Abstract](https://arxiv.org/abs/2509.04836) · [PDF](https://arxiv.org/pdf/2509.04836) |
 | 2025-09-04 | Keypoint-based Diffusion for Robotic Motion Planning on the NICOL Robot | Lennart Clasmeier, Jan-Gerrit Habekost, Connor Gäde, Philipp Allgeuer et al. | [Abstract](https://arxiv.org/abs/2509.04076) · [PDF](https://arxiv.org/pdf/2509.04076) |
 | 2025-09-04 | EMMA: Scaling Mobile Manipulation via Egocentric Human Data | Lawrence Y. Zhu, Pranav Kuppili, Ryan Punamiya, Patcharapong Aphiwetsa et al. | [Abstract](https://arxiv.org/abs/2509.04443) · [PDF](https://arxiv.org/pdf/2509.04443) |

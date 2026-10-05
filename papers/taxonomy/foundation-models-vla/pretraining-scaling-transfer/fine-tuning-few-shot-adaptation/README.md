@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Pretraining%2C%20Scaling%20%26%20Transfer&specialty=Fine-tuning%2C%20Few-shot%20%26%20Adaptation#research-workbench)
 
-> 29 conference papers · 190 recent arXiv papers
+> 32 conference papers · 199 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,13 +14,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (29)
+## Conference papers (32)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Compositional Context Fine-Tuning Vision-Language Model for Complex Assembly Action Understanding from Videos | ICRA · Language Model | [Paper](https://arxiv.org/abs/2607.10797) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695916) |
+| 2026 | Point2Act: Efficient 3D Distillation of Multimodal LLMs for Zero-Shot Context-Aware Grasping | ICRA · Llm | [Paper](https://arxiv.org/abs/2508.03099) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697250) |
+| 2026 | SafeNet: A Neural-Symbolic Network for Safe Planning in Robotic Systems using Formal Method-Guided LLM Fine-Tuning | ICRA · Llm | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697001) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697001) |
 | 2025 | Lift3D Policy: Lifting 2D Foundation Models for Robust 3D Robotic Manipulation | CVPR · Foundation Model | [Paper](https://doi.org/10.1109/CVPR52734.2025.01617) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01617) |
 | 2025 | Tartan IMU: A Light Foundation Model for Inertial Positioning in Robotics | CVPR · Foundation Model | [Paper](https://doi.org/10.1109/CVPR52734.2025.02097) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02097) |
-| 2025 | TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies | ICLR · Vla | [Paper](https://arxiv.org/abs/2412.10345) · [Publisher](https://doi.org/10.48550/arXiv.2412.10345) |
 | 2025 | ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2403.09583) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127622) |
 | 2025 | In-Context Learning Enables Robot Action Prediction in LLMs | ICRA · Llm | [Paper](https://arxiv.org/abs/2410.12782) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128807) |
 | 2025 | ZeroCAP: Zero-Shot Multi-Robot Context Aware Pattern Formation via Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2404.02318) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127452) |
@@ -31,27 +33,42 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Self-Improving Embodied Foundation Models | NeurIPS · Foundation Model | [Paper](https://arxiv.org/abs/2509.15155) · [Publisher](https://doi.org/10.48550/arXiv.2509.15155) |
 | 2024 | AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation | CoRL · Llm | [Paper](https://arxiv.org/abs/2406.11548) · [Publisher](https://doi.org/10.48550/arXiv.2406.11548) |
 | 2024 | Scaling Robot Policy Learning via Zero-Shot Labeling with Foundation Models | CoRL · Foundation Model | [Paper](https://arxiv.org/abs/2410.17772) · [Publisher](https://doi.org/10.48550/arXiv.2410.17772) |
+| 2024 | TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies | ICLR · Vla | [Paper](https://arxiv.org/abs/2412.10345) · [Publisher](https://doi.org/10.48550/arXiv.2412.10345) |
 | 2024 | SAM-E: Leveraging Visual Foundation Model with Sequence Imitation for Embodied Manipulation | ICML · Foundation Model | [Paper](https://arxiv.org/abs/2405.19586) · [Publisher](https://doi.org/10.48550/arXiv.2405.19586) |
 | 2024 | VoroNav: Voronoi-based Zero-shot Object Navigation with Large Language Model | ICML · Large Language Model | [Paper](https://arxiv.org/abs/2401.02695) · [Publisher](https://doi.org/10.48550/arXiv.2401.02695) |
 | 2024 | CAPE: Corrective Actions from Precondition Errors using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2211.09935) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611376) |
 | 2024 | Conditionally Combining Robot Skills using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2310.17019) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611275) |
-| 2024 | Few-Shot Panoptic Segmentation With Foundation Models | ICRA · Foundation Model | [Paper](https://arxiv.org/abs/2309.10726) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611624) |
+| 2024 | Few-Shot Panoptic Segmentation With Foundation Models | ICRA · Foundation Model | [Paper](https://arxiv.org/pdf/2309.10726) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611624) |
 | 2024 | Generalizable Thermal-based Depth Estimation via Pre-trained Visual Foundation Model | ICRA · Foundation Model | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610394) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610394) |
 | 2024 | Grasp-Anything: Large-scale Grasp Dataset from Foundation Models | ICRA · Foundation Model | [Paper](https://arxiv.org/abs/2309.09818) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611277) |
 | 2024 | Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs | ICRA · Llm | [Paper](https://arxiv.org/abs/2311.02847) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610744) |
-| 2024 | BTGenBot: Behavior Tree Generation for Robotic Tasks with Lightweight LLMs | IROS · Llm | [Paper](https://arxiv.org/abs/2403.12761) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802304) |
+| 2024 | BTGenBot: Behavior Tree Generation for Robotic Tasks with Lightweight LLMs | IROS · Llm | [Paper](https://arxiv.org/pdf/2403.12761) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802304) |
 | 2024 | ShapeGrasp: Zero-Shot Task-Oriented Grasping with Large Language Models through Geometric Decomposition | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2403.18062) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801661) |
 | 2024 | Learning to Learn Faster from Human Feedback with Language Model Predictive Control | RSS · Language Model | [Paper](https://arxiv.org/abs/2402.11450) · [Publisher](https://doi.org/10.48550/arXiv.2402.11450) |
 | 2023 | Large Language Models as General Pattern Machines | CoRL · Large Language Model | [Paper](https://arxiv.org/pdf/2307.04721) · [Publisher](https://doi.org/10.48550/arXiv.2307.04721) |
 | 2023 | FM-Loc: Using Foundation Models for Improved Vision-Based Localization | IROS · Foundation Model | [Paper](https://arxiv.org/pdf/2304.07058) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342439) |
-| 2023 | L3MVN: Leveraging Large Language Models for Visual Target Navigation | IROS · Large Language Model | [Paper](https://research.rug.nl/en/publications/f18be2e4-7aa4-4d6e-8cfd-516654f76104) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342512) |
-| 2023 | Large Language Models as Zero-Shot Human Models for Human-Robot Interaction | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2303.03548) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341488) |
+| 2023 | L3MVN: Leveraging Large Language Models for Visual Target Navigation | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2304.05501) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342512) |
+| 2023 | Large Language Models as Zero-Shot Human Models for Human-Robot Interaction | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.03548) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341488) |
 | 2023 | TidyBot: Personalized Robot Assistance with Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2305.05658) · [Publisher](https://doi.org/10.1007/s10514-023-10139-z) |
 
-## Recent arXiv papers (190)
+## Recent arXiv papers (199)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-30 | Same Scene, Different Task: Skill Alignment for Compositional Generalization in VLAs | Taegeun Yang, Youngju Na, Yoonki Cho, Sung-Eui Yoon | [Abstract](https://arxiv.org/abs/2610.00524) · [PDF](https://arxiv.org/pdf/2610.00524) |
+| 2026-09-30 | Magic-W0: A Structured World-Action Foundation Model for Physical Intelligence | Xuhua Chen, Zhenhan Yin, Yuan Zhang, Lingfeng Zhang et al. | [Abstract](https://arxiv.org/abs/2609.39870) · [PDF](https://arxiv.org/pdf/2609.39870) |
+| 2026-09-30 | GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives | Qize Yu, Lianrui Fan, Boyu Chen, Jiaqi Liang et al. | [Abstract](https://arxiv.org/abs/2609.39601) · [PDF](https://arxiv.org/pdf/2609.39601) |
+| 2026-09-29 | WayFinder: Hierarchical Visual-Language-Action for Zero-Shot Waypoint Generation and Low-Level Kinematic Control | Timothy K Johnsen, Marco Levorato | [Abstract](https://arxiv.org/abs/2609.37922) · [PDF](https://arxiv.org/pdf/2609.37922) |
+| 2026-09-28 | RoboICL: Embodied In-Context Learning with GPT-6 Astra | Fangcheng Liu, Yeqing Shen, Anda Cheng, Weishi Mi et al. | [Abstract](https://arxiv.org/abs/2609.34261) · [PDF](https://arxiv.org/pdf/2609.34261) |
+| 2026-09-28 | In-Context Learning for Robots: Methods and Applications | Haojian Huang, Zexi Li, Junhao Guo, Yehang Zhang et al. | [Abstract](https://arxiv.org/abs/2609.36012) · [PDF](https://arxiv.org/pdf/2609.36012) |
+| 2026-09-26 | CAPEX: Efficiently Distilling Foundation Model Behavior into Deployable Robot Policies through Experience-Adaptive Reasoning | Shivam Aarya, Zhang Xi-Jia, Chengyue Huang, Junhyun Kim et al. | [Abstract](https://arxiv.org/abs/2609.33007) · [PDF](https://arxiv.org/pdf/2609.33007) |
+| 2026-09-24 | Privacy-Preserving Prompted Policy Search for Robotic Control | Ali Irshayyid, Feng Lin, Chong Li, Jun Chen | [Abstract](https://arxiv.org/abs/2609.30554) · [PDF](https://arxiv.org/pdf/2609.30554) |
+| 2026-09-24 | M3GD: Multi-Modal Multi-View Geometric Diffusion for Camera--LiDAR Novel View Synthesis | Yang Zhou, Jiuhong Xiao, Shizhao Ye, Long Quang et al. | [Abstract](https://arxiv.org/abs/2609.30056) · [PDF](https://arxiv.org/pdf/2609.30056) |
+| 2026-09-22 | Vision Foundation Models with Synthetic-Only Training for Monocular Spacecraft Pose Estimation | John Church, Vazghen Nikolian | [Abstract](https://arxiv.org/abs/2609.26561) · [PDF](https://arxiv.org/pdf/2609.26561) |
+| 2026-09-21 | AnalogDepth: Multi-view Geometry from FPV drones under Analog Video Transmission | André Amorim, Pedro F. Proença | [Abstract](https://arxiv.org/abs/2609.24312) · [PDF](https://arxiv.org/pdf/2609.24312) |
+| 2026-09-15 | Learning Options for Compositional Motor Control with Adapter Banks | Sreejan Kumar, Marcelo Mattar, Lea Duncker | [Abstract](https://arxiv.org/abs/2609.17042) · [PDF](https://arxiv.org/pdf/2609.17042) |
+| 2026-09-08 | PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving | Yuan Gao, Sebastian Müller, Mattia Piccinini, Marc Kaufeld et al. | [Abstract](https://arxiv.org/abs/2609.08965) · [PDF](https://arxiv.org/pdf/2609.08965) |
+| 2026-08-31 | GAFT: Geo-Anchored Fine-Tuning for Hazard Identification from Rare Failures | Yanran Xu, Chuanhang Qiu, Yue Wang, Wenbo Wu et al. | [Abstract](https://arxiv.org/abs/2608.30858) · [PDF](https://arxiv.org/pdf/2608.30858) |
 | 2026-08-26 | Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization | Jiaming Zhou, Qihang Zhang, Gangwei Xu, Cunxin Fan et al. | [Abstract](https://arxiv.org/abs/2608.26103) · [PDF](https://arxiv.org/pdf/2608.26103) |
 | 2026-08-19 | Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation | Prachi Garg, Steve Xing, Prahit Yaugand, Saurabh Gupta et al. | [Abstract](https://arxiv.org/abs/2608.19490) · [PDF](https://arxiv.org/pdf/2608.19490) |
 | 2026-08-17 | MatchingPolicy: Correspondence-Aware Policy Enables Cross-Object In-Context Learning | Qijin She, Hanyang Yu, Zeming Li, Ping Tan | [Abstract](https://arxiv.org/abs/2608.16715) · [PDF](https://arxiv.org/pdf/2608.16715) |
@@ -60,6 +77,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-24 | Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents | Suman Navaratnarajah, Taehyoung Kim, Jona Ruthardt, Ishaan Bhimwal et al. | [Abstract](https://arxiv.org/abs/2607.22014) · [PDF](https://arxiv.org/pdf/2607.22014) |
 | 2026-07-20 | Test-Time Scaling for World Action Models via Zero-Shot Geometric Evaluation | Zesen Zhao, Minkyoung Cho, Hui shen, Boyuan Zheng et al. | [Abstract](https://arxiv.org/abs/2607.17454) · [PDF](https://arxiv.org/pdf/2607.17454) |
 | 2026-07-15 | WAVE-Stereo: Warp-Aligned Volume Encoding for Stereo Matching | Zehan Liu, Yage He, Xianwu Gong | [Abstract](https://arxiv.org/abs/2607.13674) · [PDF](https://arxiv.org/pdf/2607.13674) |
+| 2026-07-12 | Artificial Foveated Perception for Mitigating Shortcut Learning in Robotic Foundation Models | Xiatao Sun, Yuan Zhuang, Mateo Sanchez Lopez Negrete, Matei-Victor Coldea et al. | [Abstract](https://arxiv.org/abs/2607.10655) · [PDF](https://arxiv.org/pdf/2607.10655) |
 | 2026-07-09 | Understanding and Mitigating the Video-Action Generalization Gap via Temporal Ratio | Utkarsh A. Mishra, Yongxin Chen, Danfei Xu, Yang Liu et al. | [Abstract](https://arxiv.org/abs/2607.08127) · [PDF](https://arxiv.org/pdf/2607.08127) |
 | 2026-07-09 | Native Video-Action Pretraining for Generalizable Robot Control | Qihang Zhang, Lin Li, Luyao Zhang, Shuai Yang et al. | [Abstract](https://arxiv.org/abs/2607.08639) · [PDF](https://arxiv.org/pdf/2607.08639) |
 | 2026-06-28 | VISTA-DZ: Visual Semantic Trajectory Adaptation for Personalized Dilemma Zone Prediction | Chuheng Wei, Ziye Qin, Ziran Wang, Guoyuan Wu | [Abstract](https://arxiv.org/abs/2606.29548) · [PDF](https://arxiv.org/pdf/2606.29548) |
@@ -87,7 +105,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-30 | Fine-Tuning Large Language Models for Cooperative Tactical Deconfliction of Small Unmanned Aerial Systems | Iman Sharifi, Alex Zongo, Peng Wei | [Abstract](https://arxiv.org/abs/2603.28561) · [PDF](https://arxiv.org/pdf/2603.28561) |
 | 2026-03-26 | Can Vision Foundation Models Navigate? Zero-Shot Real-World Evaluation and Lessons Learned | Maeva Guerrier, Karthik Soma, Jana Pavlasek, Giovanni Beltrame | [Abstract](https://arxiv.org/abs/2603.25937) · [PDF](https://arxiv.org/pdf/2603.25937) |
 | 2026-03-21 | E-SocialNav: Efficient Socially Compliant Navigation with Language Models | Ling Xiao, Daeun Song, Xuesu Xiao, Toshihiko Yamasaki | [Abstract](https://arxiv.org/abs/2603.20664) · [PDF](https://arxiv.org/pdf/2603.20664) |
-| 2026-03-19 | Scaling Sim-to-Real Reinforcement Learning for Robot VLAs with Generative 3D Worlds | Andrew Choi, Xinjie Wang, Zhizhong Su, Wei Xu | [Abstract](https://arxiv.org/abs/2603.18532) · [PDF](https://arxiv.org/pdf/2603.18532) |
 | 2026-03-16 | Regularized Latent Dynamics Prediction is a Strong Baseline For Behavioral Foundation Models | Pranaya Jajoo, Harshit Sikchi, Siddhant Agarwal, Amy Zhang et al. | [Abstract](https://arxiv.org/abs/2603.15857) · [PDF](https://arxiv.org/pdf/2603.15857) |
 | 2026-03-09 | SAIL: Test-Time Scaling for In-Context Imitation Learning with VLM | Makoto Sato, Yusuke Iwasawa, Yujin Tang, So Kuroki | [Abstract](https://arxiv.org/abs/2603.08269) · [PDF](https://arxiv.org/pdf/2603.08269) |
 | 2026-03-04 | Python Bindings for a Large C++ Robotics Library: The Case of OMPL | Weihang Guo, Theodoros Tyrovouzis, Lydia E. Kavraki | [Abstract](https://arxiv.org/abs/2603.04668) · [PDF](https://arxiv.org/pdf/2603.04668) |
@@ -98,6 +115,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-02-17 | One Agent to Guide Them All: Empowering MLLMs for Vision-and-Language Navigation via Explicit World Representation | Zerui Li, Hongpei Zheng, Fangguo Zhao, Aidan Chan et al. | [Abstract](https://arxiv.org/abs/2602.15400) · [PDF](https://arxiv.org/pdf/2602.15400) |
 | 2026-02-14 | MOTIF: Learning Action Motifs for Few-shot Cross-Embodiment Transfer | Heng Zhi, Wentao Tan, Lei Zhu, Fengling Li et al. | [Abstract](https://arxiv.org/abs/2602.13764) · [PDF](https://arxiv.org/pdf/2602.13764) |
 | 2026-02-11 | LAP: Language-Action Pre-Training Enables Zero-shot Cross-Embodiment Transfer | Lihan Zha, Asher J. Hancock, Mingtong Zhang, Tenny Yin et al. | [Abstract](https://arxiv.org/abs/2602.10556) · [PDF](https://arxiv.org/pdf/2602.10556) |
+| 2026-02-05 | Constrained Group Relative Policy Optimization | Roger Girgis, Rodrigue de Schaetzen, Luke Rowe, Azalée Robitaille et al. | [Abstract](https://arxiv.org/abs/2602.05863) · [PDF](https://arxiv.org/pdf/2602.05863) |
 | 2026-02-03 | RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization | Songming Liu, Bangguo Li, Kai Ma, Lingxuan Wu et al. | [Abstract](https://arxiv.org/abs/2602.03310) · [PDF](https://arxiv.org/pdf/2602.03310) |
 | 2026-02-01 | OASIS-DC: Generalizable Depth Completion via Output-level Alignment of Sparse-Integrated Monocular Pseudo Depth | Jaehyeon Cho, Jhonghyun An | [Abstract](https://arxiv.org/abs/2602.01268) · [PDF](https://arxiv.org/pdf/2602.01268) |
 | 2026-01-20 | TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers | Bin Yu, Shijie Lian, Xiaopeng Lin, Yuliang Wei et al. | [Abstract](https://arxiv.org/abs/2601.14133) · [PDF](https://arxiv.org/pdf/2601.14133) |
@@ -153,7 +171,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-05-09 | Camera Control at the Edge with Language Models for Scene Understanding | Alexiy Buynitsky, Sina Ehsani, Bhanu Pallakonda, Pragyana Mishra | [Abstract](https://arxiv.org/abs/2505.06402) · [PDF](https://arxiv.org/pdf/2505.06402) |
 | 2025-05-06 | RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning | Liam Boyle, Nicolas Baumann, Paviththiren Sivasothilingam, Michele Magno et al. | [Abstract](https://arxiv.org/abs/2505.03238) · [PDF](https://arxiv.org/pdf/2505.03238) |
 | 2025-05-06 | GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data | Shengliang Deng, Mi Yan, Songlin Wei, Haixin Ma et al. | [Abstract](https://arxiv.org/abs/2505.03233) · [PDF](https://arxiv.org/pdf/2505.03233) |
-| 2025-05-03 | ReLI: A Language-Agnostic Approach to Human-Robot Interaction | Linus Nwankwo, Bjoern Ellensohn, Ozan Özdenizci, Elmar Rueckert | [Abstract](https://arxiv.org/abs/2505.01862) · [PDF](https://arxiv.org/pdf/2505.01862) |
 | 2025-04-22 | Research on Navigation Methods Based on LLMs | Anlong Zhang, Jianmin Ji | [Abstract](https://arxiv.org/abs/2504.15600) · [PDF](https://arxiv.org/pdf/2504.15600) |
 | 2025-04-20 | LLM-Enabled In-Context Learning for Data Collection Scheduling in UAV-assisted Sensor Networks | Yousef Emami, Hao Zhou, SeyedSina Nabavirazani, Luis Almeida | [Abstract](https://arxiv.org/abs/2504.14556) · [PDF](https://arxiv.org/pdf/2504.14556) |
 | 2025-04-11 | Embodied Image Captioning: Self-supervised Learning Agents for Spatially Coherent Image Descriptions | Tommaso Galliena, Tommaso Apicella, Stefano Rosa, Pietro Morerio et al. | [Abstract](https://arxiv.org/abs/2504.08531) · [PDF](https://arxiv.org/pdf/2504.08531) |
@@ -237,11 +254,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-23 | Robot Fine-Tuning Made Easy: Pre-Training Rewards and Policies for Autonomous Real-World Reinforcement Learning | Jingyun Yang, Max Sobol Mark, Brandon Vu, Archit Sharma et al. | [Abstract](https://arxiv.org/abs/2310.15145) · [PDF](https://arxiv.org/pdf/2310.15145) |
 | 2023-10-19 | Eureka: Human-Level Reward Design via Coding Large Language Models | Yecheng Jason Ma, William Liang, Guanzhi Wang, De-An Huang et al. | [Abstract](https://arxiv.org/abs/2310.12931) · [PDF](https://arxiv.org/pdf/2310.12931) |
 | 2023-10-17 | Language Models as Zero-Shot Trajectory Generators | Teyun Kwon, Norman Di Palo, Edward Johns | [Abstract](https://arxiv.org/abs/2310.11604) · [PDF](https://arxiv.org/pdf/2310.11604) |
-| 2023-09-19 | Few-Shot Panoptic Segmentation With Foundation Models | Markus Käppeler, Kürsat Petek, Niclas Vödisch, Wolfram Burgard et al. | [Abstract](https://arxiv.org/abs/2309.10726) · [PDF](https://arxiv.org/pdf/2309.10726) |
-| 2023-09-19 | Bridging Zero-shot Object Navigation and Foundation Models through Pixel-Guided Navigation Skill | Wenzhe Cai, Siyuan Huang, Guangran Cheng, Yuxing Long et al. | [Abstract](https://arxiv.org/abs/2309.10309) · [PDF](https://arxiv.org/pdf/2309.10309) |
-| 2023-09-18 | Prompt a Robot to Walk with Large Language Models | Yen-Jen Wang, Bike Zhang, Jianyu Chen, Koushil Sreenath | [Abstract](https://arxiv.org/abs/2309.09969) · [PDF](https://arxiv.org/pdf/2309.09969) |
-| 2023-09-18 | Grasp-Anything: Large-scale Grasp Dataset from Foundation Models | An Dinh Vuong, Minh Nhat Vu, Hieu Le, Baoru Huang et al. | [Abstract](https://arxiv.org/abs/2309.09818) · [PDF](https://arxiv.org/pdf/2309.09818) |
-| 2023-09-02 | Developmental Scaffolding with Large Language Models | Batuhan Celik, Alper Ahmetoglu, Emre Ugur, Erhan Oztop | [Abstract](https://arxiv.org/abs/2309.00904) · [PDF](https://arxiv.org/pdf/2309.00904) |
 
 ---
 

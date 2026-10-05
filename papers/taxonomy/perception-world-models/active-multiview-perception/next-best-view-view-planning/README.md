@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Active%20%26%20Multiview%20Perception&specialty=Next-best-view%20%26%20View%20Planning#research-workbench)
 
-> 0 conference papers · 6 recent arXiv papers
+> 0 conference papers · 7 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,10 +18,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (6)
+## Recent arXiv papers (7)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-19 | Splat-CBF: Safe Next-Best-View Control in 3D Gaussian-Splat Maps | Amirhossein Mollaei Khass, Athanasios Cosse, Nader Motee | [Abstract](https://arxiv.org/abs/2609.23100) · [PDF](https://arxiv.org/pdf/2609.23100) |
 | 2026-05-17 | Motion-Uncertainty-Aware Next-Best-View Planning for Moving Object Reconstruction | Karen Li, Mattia Mantovani, Robert J. Wood, Lorenzo Sabattini et al. | [Abstract](https://arxiv.org/abs/2605.17593) · [PDF](https://arxiv.org/pdf/2605.17593) |
 | 2025-10-08 | Efficient View Planning Guided by Previous-Session Reconstruction for Repeated Plant Monitoring | Sicong Pan, Luca Lobefaro, Moein Taherkhani, Xuying Huang et al. | [Abstract](https://arxiv.org/abs/2510.07028) · [PDF](https://arxiv.org/pdf/2510.07028) |
 | 2025-05-09 | VIN-NBV: A View Introspection Network for Next-Best-View Selection | Noah Frahm, Dongxu Zhao, Andrea Dunn Beltran, Ron Alterovitz et al. | [Abstract](https://arxiv.org/abs/2505.06219) · [PDF](https://arxiv.org/pdf/2505.06219) |

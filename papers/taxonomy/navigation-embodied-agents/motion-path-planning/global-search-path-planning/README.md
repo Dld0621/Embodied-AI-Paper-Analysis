@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Motion%20%26%20Path%20Planning&specialty=Global%20Search%20%26%20Path%20Planning#research-workbench)
 
-> 112 conference papers · 599 recent arXiv papers
+> 123 conference papers · 596 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,20 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (112)
+## Conference papers (123)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | A Centerline-Aligned Frenet Graph Framework for Surface-Based Path Planning in Pipeline Environments | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696545) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696545) |
+| 2026 | Can a Robot Walk the Robotic Dog: Triple-Zero Collaborative Navigation for Heterogeneous Multi-Agent Systems | ICRA · Navigation | [Paper](https://arxiv.org/abs/2603.21723) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697474) |
+| 2026 | HAVEN: Hierarchical Adversary-aware Visibility-Enabled Navigation with Cover Utilization using Deep Transformer Q-Networks | ICRA · Navigation | [Paper](https://arxiv.org/abs/2512.00592) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697494) |
+| 2026 | oHMM-PA: A Learning from Demonstration Approach Using Online Hidden Markov Models with Path Planning | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696313) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696313) |
+| 2026 | Optimal Dexterity Path Planning for Robotic Manipulators Using Rapid Workspace Density Approximation | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695928) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695928) |
+| 2026 | RL-Based Coverage Path Planning for Deformable Objects on 3D Surfaces | ICRA · Path Planning | [Paper](https://arxiv.org/abs/2603.03137) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696945) |
+| 2026 | ST-DiffPlanner: A Safety-Enhanced Topology-Aware Diffusion Planner for Global Path Planning | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696013) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696013) |
+| 2026 | VEGA: A Geometry-Aware Enveloping Layer-based Path Planning Strategy for Accurate Robotic 3D Printing | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696469) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696469) |
+| 2026 | Ventura: Adapting Image Diffusion Models for Unified Task Conditioned Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2510.01388) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696635) |
+| 2026 | Vision-Based Reasoning with Topology-Encoded Graphs for Anatomical Path Disambiguation in Robot-Assisted Endovascular Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2602.20215) · [Publisher](https://doi.org/10.48550/arXiv.2602.20215) |
 | 2025 | Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities | ICCV · Navigation | [Paper](https://arxiv.org/pdf/2507.13019) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00882) |
 | 2025 | A Hybrid Approach to Indoor Social Navigation: Integrating Reactive Local Planning and Proactive Global Planning | ICRA · Navigation | [Paper](https://arxiv.org/abs/2506.02593) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127475) |
 | 2025 | Affordance-Based Explanations of Robot Navigation | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128010) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128010) |
@@ -38,10 +48,10 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | TANGO: Traversability-Aware Navigation with Local Metric Control for Topological Goals | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2509.08699) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127998) |
 | 2025 | VascularPilot3D: Toward a 3D Fully Autonomous Navigation for Endovascular Robotics | ICRA · Navigation | [Paper](https://arxiv.org/abs/2405.09375) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127370) |
 | 2025 | A robust MLTD3 path planning algorithm in unknown environments | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS60139.2025.11246721) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246721) |
-| 2025 | CAP: A Connectivity-Aware Hierarchical Coverage Path Planning Algorithm for Unknown Environments using Coverage Guidance Graph | IROS · Path Planning | [Paper](https://arxiv.org/abs/2503.00647) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247648) |
+| 2025 | CAP: A Connectivity-Aware Hierarchical Coverage Path Planning Algorithm for Unknown Environments using Coverage Guidance Graph | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2503.00647) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247648) |
 | 2025 | Cumulative Informative Path Planning for Efficient Gas Source Localization with Mobile Robots | IROS · Mobile Robot | [Paper](https://infoscience.epfl.ch/handle/20.500.14299/253921) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246224) |
 | 2025 | ELPTNet: An Efficient LiDAR-based 3D Pedestrian Tracking Network for Autonomous Navigation Social Robots | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246019) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246019) |
-| 2025 | Embodied Escaping: End-to-End Reinforcement Learning for Robot Navigation in Narrow Environment | IROS · Navigation | [Paper](https://arxiv.org/abs/2503.03208) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245839) |
+| 2025 | Embodied Escaping: End-to-End Reinforcement Learning for Robot Navigation in Narrow Environment | IROS · Navigation | [Paper](https://arxiv.org/pdf/2503.03208) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245839) |
 | 2025 | Fast-Revisit Coverage Path Planning for Autonomous Mobile Patrol Robots Using Long-Range Sensor Information | IROS · Path Planning | [Paper](https://arxiv.org/abs/2501.07343) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246182) |
 | 2025 | GOEN: Guided Obstacle Endpoint Navigation for Real-Time Collision-Free Path Planning in Unstructured Environments | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246450) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246450) |
 | 2025 | High-Stiffness Path Planning for 7-DOF Cable-Driven Manipulators in Single and Dual-Arm Configurations | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS60139.2025.11246216) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246216) |
@@ -69,9 +79,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | A Heterogeneous System of Systems Framework for Proactive Path Planning of a UAV-assisted UGV in Uncertain Environments | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS58592.2024.10801791) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801791) |
 | 2024 | A Two-Stage Reinforcement Learning Approach for Robot Navigation in Long-range Indoor Dense Crowd Environments | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801711) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801711) |
 | 2024 | Efficient Path Planning for Modular Reconfigurable Robots | IROS · Path Planning | [Paper](https://mediatum.ub.tum.de/1755469) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801534) |
-| 2024 | GSRM: Building Roadmaps for Query-Efficient and Near-Optimal Path Planning Using a Reaction Diffusion System | IROS · Path Planning | [Paper](https://arxiv.org/abs/2410.11024) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801293) |
+| 2024 | GSRM: Building Roadmaps for Query-Efficient and Near-Optimal Path Planning Using a Reaction Diffusion System | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2410.11024) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801293) |
 | 2024 | IN-Sight: Interactive Navigation through Sight | IROS · Navigation | [Paper](https://arxiv.org/abs/2408.00343) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801928) |
-| 2024 | Learning Social Cost Functions for Human-Aware Path Planning | IROS · Path Planning | [Paper](https://arxiv.org/abs/2407.10547) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802768) |
+| 2024 | Learning Social Cost Functions for Human-Aware Path Planning | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2407.10547) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802768) |
 | 2024 | Local Path Planning among Pushable Objects based on Reinforcement Learning | IROS · Path Planning | [Paper](https://discovery.ucl.ac.uk/id/eprint/10203740/1/2303.02407v3.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802257) |
 | 2024 | Multi-Goal Path Planning in Cluttered Environments with PRM-Guided Self-Organising Maps | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS58592.2024.10802120) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802120) |
 | 2024 | Potential Field-Based Online Path Planning for Robust Cable Routing | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS58592.2024.10801463) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801463) |
@@ -110,6 +120,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Lightweight Neural Path Planning | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2307.10555) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342133) |
 | 2023 | Mapless Urban Robot Navigation by Following Pedestrians | IROS · Navigation | [Paper](https://figshare.com/articles/conference_contribution/Mapless_Urban_Robot_Navigation_by_Following_Pedestrians/25149497) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341843) |
 | 2023 | VDBblox: Accurate and Efficient Distance Fields for Path Planning and Mesh Reconstruction | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS55552.2023.10342123) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342123) |
+| 2023 | Path Planning for Multiple Tethered Robots Using Topological Braids | RSS · Path Planning | [Paper](https://arxiv.org/abs/2305.00271) · [Publisher](https://doi.org/10.48550/arXiv.2305.00271) |
 | 2022 | CAtNIPP: Context-Aware Attention-based Network for Informative Path Planning | CoRL · Path Planning | [Paper](https://www.semanticscholar.org/paper/e55828461ae9894cde1a11810039b349ab6da008) · [Index](https://dblp.org/rec/conf/corl/CaoWVFS22) |
 | 2022 | Coordinate Invariant User-Guided Constrained Path Planning with Reactive Rapidly Expanding Plane-Oriented Escaping Trees | ICRA · Path Planning | [Paper](https://arxiv.org/abs/2203.10649) · [Publisher](https://doi.org/10.48550/arXiv.2203.10649) |
 | 2022 | Coverage Path Planning in Large-scale Multi-floor Urban Environments with Applications to Autonomous Road Sweeping | ICRA · Path Planning | [Paper](https://doi.org/10.1109/icra46639.2022.9811941) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811941) |
@@ -131,16 +142,34 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Temporal Logic Path Planning under Localization Uncertainty | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981624) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981624) |
 | 2022 | TIGRIS: An Informed Sampling-based Algorithm for Informative Path Planning | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2203.12830) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981992) |
 
-## Recent arXiv papers (599)
+## Recent arXiv papers (596)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-30 | HiWE: Hierarchical World Knowledge Model with Visual Keypoint Enhancement for Zero-Shot 3D Path Planning | Guoqing Ma, Mingqi Yuan, Chen Gao, Jiayu Chen et al. | [Abstract](https://arxiv.org/abs/2609.39323) · [PDF](https://arxiv.org/pdf/2609.39323) |
+| 2026-09-25 | Path Planning with Motion Primitives in Dynamic Environments: SIPP on Lattices | Marat Agranovskiy | [Abstract](https://arxiv.org/abs/2609.31803) · [PDF](https://arxiv.org/pdf/2609.31803) |
+| 2026-09-24 | CAMP: Cooperative Arm-Hand Motion Planning in Constrained Spaces | Ziyuan Wang, Yunlong Shan, Fei Mo, Sichao Liu et al. | [Abstract](https://arxiv.org/abs/2609.29021) · [PDF](https://arxiv.org/pdf/2609.29021) |
+| 2026-09-21 | A Topological Representation with Object-Path Graphs for Open-Vocabulary Instance Navigation | Linwei Zheng, Daojie Peng, Bingtao Wang, Haoang Li et al. | [Abstract](https://arxiv.org/abs/2609.24189) · [PDF](https://arxiv.org/pdf/2609.24189) |
+| 2026-09-20 | Risk-Aware Motion Planning and Control under Unknown Dynamics with Hybrid Observations | Zhiquan Zhang, Melkior Ornik | [Abstract](https://arxiv.org/abs/2609.23792) · [PDF](https://arxiv.org/pdf/2609.23792) |
+| 2026-09-19 | Commonsense-Grounded Path Planning from Abstract Instructions | Masafumi Endo, Kohei Honda, Ryo Yonetani | [Abstract](https://arxiv.org/abs/2609.22813) · [PDF](https://arxiv.org/pdf/2609.22813) |
+| 2026-09-19 | "Dear LLaVA, Please Drive": A Depth-Aware Vision-Language Agent for Closed-Loop Robotic Control | Sebastian Berger, Katharina Winter, Fabian B. Flohr | [Abstract](https://arxiv.org/abs/2609.22925) · [PDF](https://arxiv.org/pdf/2609.22925) |
+| 2026-09-18 | TRACE: Coverage Path Planning for Unknown Environments Using Hierarchical Coverage Tree | Zongyuan Shen, Haodong Liu, Gao Wang, Shancheng Zhao et al. | [Abstract](https://arxiv.org/abs/2609.21777) · [PDF](https://arxiv.org/pdf/2609.21777) |
+| 2026-09-18 | MA-LIPP: Cooperative Multi-Agent Load-Aware Informative Path Planning for Heterogeneous Robot Teams | Hojune Kim, Guangyao Shi, Gaurav S. Sukhatme | [Abstract](https://arxiv.org/abs/2609.21167) · [PDF](https://arxiv.org/pdf/2609.21167) |
+| 2026-09-16 | CaSCo: Cascade-Aware Soft-Collision Motion Planning | Shivaram Kumar, Gaoyuan Liu, Yoonchang Sung | [Abstract](https://arxiv.org/abs/2609.18910) · [PDF](https://arxiv.org/pdf/2609.18910) |
+| 2026-09-15 | Learning to Optimize UAV Path Planning for Data Sensing in Wireless Sensor Networks | Sijie Ma, Zeyuan Ma, Weijia Cao, Yue-Jiao Gong et al. | [Abstract](https://arxiv.org/abs/2609.16629) · [PDF](https://arxiv.org/pdf/2609.16629) |
+| 2026-09-14 | Volumetric Harmonic Field Navigation for Quadrotors | Shuxiu Jia, Amartya Mukherjee, Yating Yuan | [Abstract](https://arxiv.org/abs/2609.15680) · [PDF](https://arxiv.org/pdf/2609.15680) |
+| 2026-09-13 | Multi-Task Visual Perception Network with LLM Conditioning for Autonomous Navigation | Praveen Kumar, K. R. Guruprasad, Tushar Sandhan | [Abstract](https://arxiv.org/abs/2609.14297) · [PDF](https://arxiv.org/pdf/2609.14297) |
+| 2026-09-11 | A Hierarchical Coverage Path Planning Algorithm for Unknown Environments | Zongyuan Shen, Haodong Liu, Gao Wang, Hongbin Ma et al. | [Abstract](https://arxiv.org/abs/2609.12595) · [PDF](https://arxiv.org/pdf/2609.12595) |
+| 2026-09-08 | Coverage Path Planning for Redundant Manipulators using Generalized Spanning Trees | Raksi Kopo, Kostas J. Kyriakopoulos | [Abstract](https://arxiv.org/abs/2609.08409) · [PDF](https://arxiv.org/pdf/2609.08409) |
+| 2026-09-08 | AirAnchor: Bridging Local and Global Spatial Information for Zero-Shot Aerial Vision-and-Language Navigation | Shanwei Fan, Bin Zhang, Zhiwei Xu, Yingxuan Teng et al. | [Abstract](https://arxiv.org/abs/2609.08442) · [PDF](https://arxiv.org/pdf/2609.08442) |
+| 2026-09-03 | Local Path Planning and Obstacle Avoidance for an Omnicopter Platform | Mikolaj Helinski, Spilios Theodoulis, Mahmoud Hamandi, Abdullah Mohamed Ali et al. | [Abstract](https://arxiv.org/abs/2609.03630) · [PDF](https://arxiv.org/pdf/2609.03630) |
+| 2026-09-03 | Corner Cases: Headland Coverage Path Planning for Autonomous Driving in Arable Farming | Riikka Soitinaho, Timo Oksanen | [Abstract](https://arxiv.org/abs/2609.04103) · [PDF](https://arxiv.org/pdf/2609.04103) |
 | 2026-08-28 | LUCID: An Agentic AI Framework on Digital-Twin in the Loop for QoS-Guaranteeing Robotic Control | Hyeonsu Lyu, Minwoo Kim, Sehyun Ryu, Hyun Jong Yang | [Abstract](https://arxiv.org/abs/2608.28437) · [PDF](https://arxiv.org/pdf/2608.28437) |
 | 2026-08-26 | AGRO-Nav: Autonomous Graph-based Orchard Navigation | Ho Young Yun, Jaemin Yu, Duksu Kim | [Abstract](https://arxiv.org/abs/2608.25799) · [PDF](https://arxiv.org/pdf/2608.25799) |
 | 2026-08-18 | Dijkstra as an Oracle for Online Stochastic Shortest Path Navigation with Provable Guarantees | Mansur M. Arief, Ali Akarma, Ahmad Alfan Alfian Irfan | [Abstract](https://arxiv.org/abs/2608.17703) · [PDF](https://arxiv.org/pdf/2608.17703) |
 | 2026-08-17 | Terrain-Aware Local Path Planning with Global DEM Data Integration for Autonomous UGV Navigation | Devender Singh, Issah Nazif Suleiman, Paul Mitten, Glenn Cutler et al. | [Abstract](https://arxiv.org/abs/2608.17038) · [PDF](https://arxiv.org/pdf/2608.17038) |
 | 2026-08-05 | Unified Planning-Learning Framework for Robust UUV Navigation Under Partial Observability | Md Ether Deowan, Eleni Kelasidi | [Abstract](https://arxiv.org/abs/2608.05365) · [PDF](https://arxiv.org/pdf/2608.05365) |
-| 2026-08-05 | SCOPE: Field-of-View-Aware Path Planning in Unknown 3D Environments via Safety-Volume Certification | Junbin Yuan, Muqing Cao, Yunwoo Lee, Brady Moon et al. | [Abstract](https://arxiv.org/abs/2608.04420) · [PDF](https://arxiv.org/pdf/2608.04420) |
+| 2026-08-05 | SCOPE: Field-of-View-Aware Path Planning in Unknown Space via Safety-Volume Certification | Junbin Yuan, Muqing Cao, Yunwoo Lee, Brady Moon et al. | [Abstract](https://arxiv.org/abs/2608.04420) · [PDF](https://arxiv.org/pdf/2608.04420) |
 | 2026-08-04 | Flying over The Uncertain Nature (FORTUNE): Intelligent and Humanistic 3D Path Planning for Low-Altitude Collaboration | Minghui Liwang, Wenhan Jia, Xinlei Yi, Wenbo Zhu et al. | [Abstract](https://arxiv.org/abs/2608.03408) · [PDF](https://arxiv.org/pdf/2608.03408) |
 | 2026-08-01 | StochSIPP: Safe Interval Path Planning in Stochastic Dynamic Environments | Ajith Kemisetti, Shahaf S. Shperberg, Yoonchang Sung | [Abstract](https://arxiv.org/abs/2608.00792) · [PDF](https://arxiv.org/pdf/2608.00792) |
 | 2026-08-01 | GeminiPainter's sequence-formed pipeline comprised of perception, cognition, planning, and action stages | Miguel Altamirano Cabrera, Aleksey Fedoseev, Iana Zhura, Dzmitry Tsetserukou | [Abstract](https://arxiv.org/abs/2608.00829) · [PDF](https://arxiv.org/pdf/2608.00829) |
@@ -170,7 +199,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-05 | Path Planning Using Deep Deterministic Policy Gradient: A Reinforcement Learning Approach | Qiang Le, Yaguang Yang, Isaac E. Weintraub | [Abstract](https://arxiv.org/abs/2606.07855) · [PDF](https://arxiv.org/pdf/2606.07855) |
 | 2026-06-04 | 3D Underwater Path Planning via Generative Flow Field Surrogates | Zachary Cooper-Baldock, Paulo E. Santos, Russell S. A. Brinkworth, Karl Sammut | [Abstract](https://arxiv.org/abs/2606.06077) · [PDF](https://arxiv.org/pdf/2606.06077) |
 | 2026-06-02 | SPADE: Sketch-guided Path Planning Augmented with Diffusion Experts | Charbel Abi Hana, Tatiana Ghantous, Mikael Khalil, Anthony Rizk | [Abstract](https://arxiv.org/abs/2606.03512) · [PDF](https://arxiv.org/pdf/2606.03512) |
-| 2026-06-02 | AgenticDiffusion: Agentic Diffusion-based Path Planning for Vision-Based UAV Navigation | Faryal Batool, Muhammad Ahsan Mustafa, Fawad Mehboob, Valerii Serpiva et al. | [Abstract](https://arxiv.org/abs/2606.04111) · [PDF](https://arxiv.org/pdf/2606.04111) |
 | 2026-06-01 | Motion Planning in Dynamic Environments: A Survey from Classical to Modern Methods | Zongyuan Shen, Yaming Ou, Shalabh Gupta, Shancheng Zhao et al. | [Abstract](https://arxiv.org/abs/2606.02677) · [PDF](https://arxiv.org/pdf/2606.02677) |
 | 2026-05-30 | From Cues to Horizons: Dynamic Risk Horizon Profiling for Trajectory Prediction | Xinyi Ning, Zilin Bian, Dachuan Zuo, Semiha Ergan et al. | [Abstract](https://arxiv.org/abs/2606.00857) · [PDF](https://arxiv.org/pdf/2606.00857) |
 | 2026-05-29 | LiftNav: Path Planning via Semantic Lifting in TSDF-Guided Gaussian Splatting | Hannah Schieber, Dominik Frischmann, Victor Schaack, Angela P. Schoellig et al. | [Abstract](https://arxiv.org/abs/2605.31376) · [PDF](https://arxiv.org/pdf/2605.31376) |
@@ -361,7 +389,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-06-17 | KDMOS:Knowledge Distillation for Motion Segmentation | Chunyu Cao, Jintao Cheng, Zeyu Chen, Linfan Zhan et al. | [Abstract](https://arxiv.org/abs/2506.14130) · [PDF](https://arxiv.org/pdf/2506.14130) |
 | 2025-06-16 | Constrained Optimal Planning to Minimize Battery Degradation of Autonomous Mobile Robots | Jiachen Li, Jian Chu, Feiyang Zhao, Shihao Li et al. | [Abstract](https://arxiv.org/abs/2506.13019) · [PDF](https://arxiv.org/pdf/2506.13019) |
 | 2025-06-10 | Attention-based Learning for 3D Informative Path Planning | Rui Zhao, Xingjian Zhang, Yuhong Cao, Yizhuo Wang et al. | [Abstract](https://arxiv.org/abs/2506.08434) · [PDF](https://arxiv.org/pdf/2506.08434) |
-| 2025-06-08 | BR-MPPI: Barrier Rate guided MPPI for Enforcing Multiple Inequality Constraints with Learned Signed Distance Field | Hardik Parwana, Taekyung Kim, Kehan Long, Bardh Hoxha et al. | [Abstract](https://arxiv.org/abs/2506.07325) · [PDF](https://arxiv.org/pdf/2506.07325) |
 | 2025-06-06 | Semantics-aware Predictive Inspection Path Planning | Mihir Dharmadhikari, Kostas Alexis | [Abstract](https://arxiv.org/abs/2506.06560) · [PDF](https://arxiv.org/pdf/2506.06560) |
 | 2025-06-06 | End-to-End Framework for Robot Lawnmower Coverage Path Planning using Cellular Decomposition | Nikunj Shah, Utsav Dey, Kenji Nishimiya | [Abstract](https://arxiv.org/abs/2506.06028) · [PDF](https://arxiv.org/pdf/2506.06028) |
 | 2025-06-06 | Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning | Sheng Chen, Peiyu He, Jiaxin Hu, Ziyang Liu et al. | [Abstract](https://arxiv.org/abs/2506.06205) · [PDF](https://arxiv.org/pdf/2506.06205) |
@@ -508,7 +535,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-11-03 | Large-Scale Multirobot Coverage Path Planning on Grids With Path Deconfliction | Jingtao Tang, Zining Mao, Hang Ma | [Abstract](https://arxiv.org/abs/2411.01707) · [PDF](https://arxiv.org/pdf/2411.01707) |
 | 2024-11-03 | Interaction-Aware Trajectory Prediction for Safe Motion Planning in Autonomous Driving: A Transformer-Transfer Learning Approach | Jinhao Liang, Chaopeng Tan, Longhao Yan, Jingyuan Zhou et al. | [Abstract](https://arxiv.org/abs/2411.01475) · [PDF](https://arxiv.org/pdf/2411.01475) |
 | 2024-11-01 | An Improved Rapidly Exploring Random Tree Algorithm for Path Planning in Configuration Spaces with Narrow Channels | Mathew Mithra Noel, Akshay Chawla | [Abstract](https://arxiv.org/abs/2411.00357) · [PDF](https://arxiv.org/pdf/2411.00357) |
-| 2024-10-31 | Zonal RL-RRT: Integrated RL-RRT Path Planning with Collision Probability and Zone Connectivity | AmirMohammad Tahmasbi, MohammadSaleh Faghfoorian, Saeed Khodaygan, Aniket Bera | [Abstract](https://arxiv.org/abs/2410.24205) · [PDF](https://arxiv.org/pdf/2410.24205) |
+| 2024-10-31 | Zonal RL-RRT: Integrated RL-RRT Path Planning with Collision Probability and Zone Connectivity | Amir Tahmasbi, MohammadSaleh Faghfoorian, Aniket Bera | [Abstract](https://arxiv.org/abs/2410.24205) · [PDF](https://arxiv.org/pdf/2410.24205) |
 | 2024-10-28 | Narrow Passage Path Planning using Collision Constraint Interpolation | Minji Lee, Jeongmin Lee, Dongjun Lee | [Abstract](https://arxiv.org/abs/2410.20697) · [PDF](https://arxiv.org/pdf/2410.20697) |
 | 2024-10-28 | Denoising Diffusion Planner: Learning Complex Paths from Low-Quality Demonstrations | Michiel Nikken, Nicolò Botteghi, Wesley Roozing, Federico Califano | [Abstract](https://arxiv.org/abs/2410.21497) · [PDF](https://arxiv.org/pdf/2410.21497) |
 | 2024-10-27 | Generating and Optimizing Topologically Distinct Guesses for Mobile Manipulator Path Planning with Path Constraints | Rufus Cheuk Yin Wong, Mayank Sewlia, Adrian Wiltz, Dimos V. Dimarogonas | [Abstract](https://arxiv.org/abs/2410.20635) · [PDF](https://arxiv.org/pdf/2410.20635) |
@@ -715,25 +742,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-11 | ViT-A*: Legged Robot Path Planning using Vision Transformer A* | Jianwei Liu, Shirui Lyu, Denis Hadjivelichkov, Valerio Modugno et al. | [Abstract](https://arxiv.org/abs/2310.07525) · [PDF](https://arxiv.org/pdf/2310.07525) |
 | 2023-10-10 | Efficient Path Planning in Large Unknown Environments with Switchable System Models for Automated Vehicles | Oliver Schumann, Michael Buchholz, Klaus Dietmayer | [Abstract](https://arxiv.org/abs/2310.06974) · [PDF](https://arxiv.org/pdf/2310.06974) |
 | 2023-10-09 | Review of control algorithms for mobile robotics | Andres-David Suarez-Gomez, Andres A. Hernandez Ortega | [Abstract](https://arxiv.org/abs/2310.06006) · [PDF](https://arxiv.org/pdf/2310.06006) |
-| 2023-10-04 | Curve Trajectory Model for Human Preferred Path Planning of Automated Vehicles | Gergo Igneczi, Erno Horvath, Roland Toth, Krisztian Nyilas | [Abstract](https://arxiv.org/abs/2310.02696) · [PDF](https://arxiv.org/pdf/2310.02696) |
-| 2023-10-02 | Autonomous Navigation of Micro Air Vehicles in Warehouses Using Vision-based Line Following | Ling Shuang Soh, Hann Woei Ho | [Abstract](https://arxiv.org/abs/2310.00950) · [PDF](https://arxiv.org/pdf/2310.00950) |
-| 2023-09-28 | Learning to Terminate in Object Navigation | Yuhang Song, Anh Nguyen, Chun-Yi Lee | [Abstract](https://arxiv.org/abs/2309.16164) · [PDF](https://arxiv.org/pdf/2309.16164) |
-| 2023-09-26 | Graph Neural Network Based Method for Path Planning Problem | Xingrong Diao, Wenzheng Chi, Jiankun Wang | [Abstract](https://arxiv.org/abs/2309.14845) · [PDF](https://arxiv.org/pdf/2309.14845) |
-| 2023-09-23 | Communication-Aware Map Compression for Online Path-Planning | Evangelos Psomiadis, Dipankar Maity, Panagiotis Tsiotras | [Abstract](https://arxiv.org/abs/2309.13451) · [PDF](https://arxiv.org/pdf/2309.13451) |
-| 2023-09-19 | Spiral Complete Coverage Path Planning Based on Conformal Slit Mapping in Multi-connected Domains | Changqing Shen, Sihao Mao, Bingzhou Xu, Ziwei Wang et al. | [Abstract](https://arxiv.org/abs/2309.10655) · [PDF](https://arxiv.org/pdf/2309.10655) |
-| 2023-09-19 | LEA*: An A* Variant Algorithm with Improved Edge Efficiency for Robot Motion Planning | Dongliang Zheng, Panagiotis Tsiotras | [Abstract](https://arxiv.org/abs/2309.10722) · [PDF](https://arxiv.org/pdf/2309.10722) |
-| 2023-09-18 | Wait, That Feels Familiar: Learning to Extrapolate Human Preferences for Preference Aligned Path Planning | Haresh Karnan, Elvin Yang, Garrett Warnell, Joydeep Biswas et al. | [Abstract](https://arxiv.org/abs/2309.09912) · [PDF](https://arxiv.org/pdf/2309.09912) |
-| 2023-09-18 | Differentiable Boustrophedon Paths That Enable Optimization Via Gradient Descent | Thomas Manzini, Robin Murphy | [Abstract](https://arxiv.org/abs/2309.09882) · [PDF](https://arxiv.org/pdf/2309.09882) |
-| 2023-09-16 | Kinetostatic Path Planning for Continuum Robots By Sampling on Implicit Manifold | Yifan Wang, Yue Chen | [Abstract](https://arxiv.org/abs/2309.09019) · [PDF](https://arxiv.org/pdf/2309.09019) |
-| 2023-09-16 | CppFlow: Generative Inverse Kinematics for Efficient and Robust Cartesian Path Planning | Jeremy Morgan, David Millard, Gaurav S. Sukhatme | [Abstract](https://arxiv.org/abs/2309.09102) · [PDF](https://arxiv.org/pdf/2309.09102) |
-| 2023-09-15 | Optimal path planning of multi-agent cooperative systems with rigid formation | Ananda Rangan Narayanan, Mi Zhou, Erik Verriest | [Abstract](https://arxiv.org/abs/2309.08733) · [PDF](https://arxiv.org/pdf/2309.08733) |
-| 2023-09-14 | Efficiently Identifying Hotspots in a Spatially Varying Field with Multiple Robots | Varun Suryan, Pratap Tokekar | [Abstract](https://arxiv.org/abs/2309.07981) · [PDF](https://arxiv.org/pdf/2309.07981) |
-| 2023-09-14 | An Efficient Method for Extracting the Shortest Path from the Dubins Set for Short Distances Between Initial and Final Positions | Xuanhao Huang, Chao-Bo Yan | [Abstract](https://arxiv.org/abs/2309.07565) · [PDF](https://arxiv.org/pdf/2309.07565) |
-| 2023-09-13 | Informative path planning for scalar dynamic reconstruction using coregionalized Gaussian processes and a spatiotemporal kernel | Lorenzo Booth, Stefano Carpin | [Abstract](https://arxiv.org/abs/2309.07340) · [PDF](https://arxiv.org/pdf/2309.07340) |
-| 2023-09-09 | osmAG: Hierarchical Semantic Topometric Area Graph Maps in the OSM Format for Mobile Robotics | Delin Feng, Chengqian Li, Yongqi Zhang, Chen Yu et al. | [Abstract](https://arxiv.org/abs/2309.04791) · [PDF](https://arxiv.org/pdf/2309.04791) |
-| 2023-09-07 | Hybrid of representation learning and reinforcement learning for dynamic and complex robotic motion planning | Chengmin Zhou, Xin Lu, Jiapeng Dai, Bingding Huang et al. | [Abstract](https://arxiv.org/abs/2309.03758) · [PDF](https://arxiv.org/pdf/2309.03758) |
-| 2023-09-06 | Learning to Recharge: UAV Coverage Path Planning through Deep Reinforcement Learning | Mirco Theile, Harald Bayerlein, Marco Caccamo, Alberto L. Sangiovanni-Vincentelli | [Abstract](https://arxiv.org/abs/2309.03157) · [PDF](https://arxiv.org/pdf/2309.03157) |
-| 2023-09-03 | An Iterative Approach for Collision Feee Routing and Scheduling in Multirobot Stations | Domenico Spensieri, Johan S. Carlson, Fredrik Ekstedt, Robert Bohlin | [Abstract](https://arxiv.org/abs/2309.01149) · [PDF](https://arxiv.org/pdf/2309.01149) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 92 papers · complete list for this taxonomy leaf
+> 93 papers · complete list for this taxonomy leaf
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -27,7 +27,7 @@
 | 2024 | F3DMP: Foresighted 3D Motion Planning of Mobile Robots in Wild Environments | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611055) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611055) |
 | 2024 | ForceSight: Text-Guided Mobile Manipulation with Visual-Force Goals | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/abs/2309.12312) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611210) |
 | 2024 | Hamiltonian Dynamics Learning from Point Cloud Observations for Nonholonomic Mobile Robot Control | ICRA · Mobile Robot | [Paper](https://arxiv.org/abs/2309.09163) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610395) |
-| 2024 | History-Aware Planning for Risk-free Autonomous Navigation on Unknown Uneven Terrain | ICRA · Navigation | [Paper](https://arxiv.org/abs/2406.01928) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610488) |
+| 2024 | History-Aware Planning for Risk-free Autonomous Navigation on Unknown Uneven Terrain | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2406.01928) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610488) |
 | 2024 | HSPNav: Hierarchical Scene Prior Learning for Visual Semantic Navigation Towards Real Settings | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610061) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610061) |
 | 2024 | Improving the ROS 2 Navigation Stack with Real-Time Local Costmap Updates for Agricultural Applications | ICRA · Navigation | [Paper](https://arxiv.org/abs/2407.18535) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610984) |
 | 2024 | Iterative PnP and its application in 3D-2D vascular image registration for robot navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2310.12551) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610392) |
@@ -51,8 +51,8 @@
 | 2024 | Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2310.07968) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610178) |
 | 2024 | Towards fault-tolerant deployment of mobile robot navigation in the edge: an experimental study | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611013) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611013) |
 | 2024 | Trajectory Prediction for Robot Navigation using Flow-Guided Markov Neural Operator | ICRA · Navigation | [Paper](https://arxiv.org/abs/2309.09137) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611154) |
-| 2024 | Tree Instance Segmentation and Traits Estimation for Forestry Environments Exploiting LiDAR Data Collected by Mobile Robots | ICRA · Mobile Robot | [Paper](https://ora.ox.ac.uk/objects/uuid:d29224bc-f133-484f-b8eb-f99fb34b6eb3) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611169) |
-| 2024 | UIVNAV: Underwater Information-driven Vision-based Navigation via Imitation Learning | ICRA · Navigation | [Paper](https://arxiv.org/abs/2309.08806) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611203) |
+| 2024 | Tree Instance Segmentation and Traits Estimation for Forestry Environments Exploiting LiDAR Data Collected by Mobile Robots | ICRA · Mobile Robot | [Paper](https://www.dora.lib4ri.ch/wsl/dload/wsl:37257/PDF2/view) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611169) |
+| 2024 | UIVNAV: Underwater Information-driven Vision-based Navigation via Imitation Learning | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2309.08806) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611203) |
 | 2024 | UNRealNet: Learning Uncertainty-Aware Navigation Features from High-Fidelity Scans of Real Environments | ICRA · Navigation | [Paper](https://arxiv.org/abs/2407.08720) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610724) |
 | 2024 | VO-Safe Reinforcement Learning for Drone Navigation | ICRA · Navigation | [Paper](https://orca.cardiff.ac.uk/id/eprint/166897/1/Ji%20Z%20-%20VO-Safe%20Reinforcement%20Learning%20....pdf) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611487) |
 | 2024 | Whisker-Based Tactile Navigation Algorithm For Underground Robots | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610762) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610762) |
@@ -63,7 +63,7 @@
 | 2024 | Crowd-Aware Robot Navigation with Switching Between Learning-Based and Rule-Based Methods Using Normalizing Flows | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802676) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802676) |
 | 2024 | DTG : Diffusion-based Trajectory Generation for Mapless Global Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2403.09900) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802055) |
 | 2024 | Embodiment Randomization for Cross Embodiment Navigation | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802792) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802792) |
-| 2024 | Emotional Tandem Robots: How Different Robot Behaviors Affect Human Perception While Controlling a Mobile Robot | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2403.03746) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801974) |
+| 2024 | Emotional Tandem Robots: How Different Robot Behaviors Affect Human Perception While Controlling a Mobile Robot | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2403.03746) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801974) |
 | 2024 | Enhanced Language-guided Robot Navigation with Panoramic Semantic Depth Perception and Cross-modal Fusion | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801563) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801563) |
 | 2024 | Environmental and Behavioral Imitation for Autonomous Navigation | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801902) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801902) |
 | 2024 | Extrinsic Calibration of Multiple LiDARs for a Mobile Robot based on Floor Plane And Object Segmentation | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2403.14161) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802291) |
@@ -91,10 +91,11 @@
 | 2024 | SSAP: A Shape-Sensitive Adversarial Patch for Comprehensive Disruption of Monocular Depth Estimation in Autonomous Navigation Applications | IROS · Navigation | [Paper](https://pure.qub.ac.uk/en/publications/657b42ab-c3e0-4223-b10b-e8e7157805c6) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802252) |
 | 2024 | TriHelper: Zero-Shot Object Navigation with Dynamic Assistance | IROS · Navigation | [Paper](https://arxiv.org/pdf/2403.15223) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802670) |
 | 2024 | TrustNavGPT: Modeling Uncertainty to Improve Trustworthiness of Audio-Guided LLM-Based Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2408.01867) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801932) |
-| 2024 | VANP: Learning Where to See for Navigation with Self-Supervised Vision-Action Pre-Training | IROS · Navigation | [Paper](https://arxiv.org/abs/2403.08109) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802451) |
+| 2024 | VANP: Learning Where to See for Navigation with Self-Supervised Vision-Action Pre-Training | IROS · Navigation | [Paper](https://arxiv.org/pdf/2403.08109) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802451) |
 | 2024 | VLPG-Nav: Object Navigation Using Visual Language Pose Graph and Object Localization Probability Maps | IROS · Navigation | [Paper](https://arxiv.org/abs/2408.08301) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802008) |
 | 2024 | GAMap: Zero-Shot Object Goal Navigation with Multi-Scale Geometric-Affordance Guidance | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2410.23978) · [Publisher](https://doi.org/10.48550/arXiv.2410.23978) |
 | 2024 | MO-DDN: A Coarse-to-Fine Attribute-based Exploration Agent for Multi-object Demand-driven Navigation | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2410.03488) · [Publisher](https://doi.org/10.48550/arXiv.2410.03488) |
+| 2024 | Demonstrating Adaptive Mobile Manipulation in Retail Environments | RSS · Mobile Manipulation | [Paper](https://doi.org/10.15607/rss.2024.xx.047) · [Publisher](https://doi.org/10.15607/rss.2024.xx.047) |
 | 2024 | Demonstrating CropFollow++: Robust Under-Canopy Navigation with Keypoints | RSS · Navigation | [Paper](https://doi.org/10.15607/rss.2024.xx.023) · [Publisher](https://doi.org/10.15607/rss.2024.xx.023) |
 | 2024 | NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation | RSS · Navigation | [Paper](https://arxiv.org/abs/2402.15852) · [Publisher](https://doi.org/10.48550/arXiv.2402.15852) |
 | 2024 | Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation | RSS · Navigation | [Paper](https://arxiv.org/abs/2402.19432) · [Publisher](https://doi.org/10.48550/arXiv.2402.19432) |

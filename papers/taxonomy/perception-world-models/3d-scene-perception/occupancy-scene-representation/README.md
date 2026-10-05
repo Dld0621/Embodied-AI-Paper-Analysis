@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=Occupancy%20%26%20Scene%20Representation#research-workbench)
 
-> 6 conference papers · 73 recent arXiv papers
+> 6 conference papers · 76 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,10 +25,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization | RSS · 3D Scene | [Paper](https://hdl.handle.net/1721.1/145300) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.050) |
 | 2022 | iSDF: Real-Time Neural Signed Distance Fields for Robot Perception | RSS · Robot Perception | [Paper](https://arxiv.org/abs/2204.02296) · [Publisher](https://doi.org/10.48550/arXiv.2204.02296) |
 
-## Recent arXiv papers (73)
+## Recent arXiv papers (76)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-29 | Planning Oriented 3D Scene Completion via Coupled TUDF Occupancy Representation Learning from Partial Observations | Tianyou Yu, Pengfei Zhao, Chao Xu | [Abstract](https://arxiv.org/abs/2609.36543) · [PDF](https://arxiv.org/pdf/2609.36543) |
+| 2026-09-29 | HIGS: Hierarchical Implicit Grids for Joint Geometric and Semantic Scene Understanding | Hanwen Cao, Wenqiang Wu, Kuang-Ting Tu, Mathias Otnes et al. | [Abstract](https://arxiv.org/abs/2609.38620) · [PDF](https://arxiv.org/pdf/2609.38620) |
+| 2026-09-23 | Kairos: Grounded Forecasting of Presence and Directional Flow in 4D Scene Graphs | Iacopo Catalano, Julio A. Placed, Javier Civera, Jorge Peña Queralta | [Abstract](https://arxiv.org/abs/2609.27467) · [PDF](https://arxiv.org/pdf/2609.27467) |
+| 2026-09-08 | Spheriverse: 3D Scene Understanding from Spherical Observations in the Wild | Fei Teng, Sheng Wu, Mengfei Duan, Guoqiang Zhao et al. | [Abstract](https://arxiv.org/abs/2609.09012) · [PDF](https://arxiv.org/pdf/2609.09012) |
+| 2026-09-06 | Diagnosing and Dynamically Filtering Occupancy World Models for Active Mapping | Jiahui Zhang, Gongbo Liang, Yu Zhang | [Abstract](https://arxiv.org/abs/2609.06820) · [PDF](https://arxiv.org/pdf/2609.06820) |
+| 2026-09-01 | DSG: Dynamic 3D Scene Graph Construction for Embodied Agents in Changing Indoor Environments | Ming Liao, Chao Ye, Jianing Fei, Weiyang Lin | [Abstract](https://arxiv.org/abs/2609.00619) · [PDF](https://arxiv.org/pdf/2609.00619) |
 | 2026-07-12 | 3D Scene Graph Prediction: Generating Hierarchical Models from Partially Observed Environments | Siyi Hu, Jared Strader, Hyungtae Lim, Luca Carlone | [Abstract](https://arxiv.org/abs/2607.10879) · [PDF](https://arxiv.org/pdf/2607.10879) |
 | 2026-06-29 | Streaming Gaussian Encoding for 4D Panoptic Occupancy Tracking | Maximilian Luz, Thomas Nürnberg, Yakov Miron, Abhinav Valada | [Abstract](https://arxiv.org/abs/2606.30754) · [PDF](https://arxiv.org/pdf/2606.30754) |
 | 2026-06-19 | FLM-Occ: Feed-forward Likelihood Maximization for Efficient Indoor Occupancy Prediction | Guangcheng Chen, Lihuang Fang, Huaqi Tao, Yicheng He et al. | [Abstract](https://arxiv.org/abs/2606.21373) · [PDF](https://arxiv.org/pdf/2606.21373) |
@@ -99,9 +105,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-03-04 | AiSDF: Structure-aware Neural Signed Distance Fields in Indoor Scenes | Jaehoon Jang, Inha Lee, Minje Kim, Kyungdon Joo | [Abstract](https://arxiv.org/abs/2403.01861) · [PDF](https://arxiv.org/pdf/2403.01861) |
 | 2024-03-03 | OccFusion: Multi-Sensor Fusion Framework for 3D Semantic Occupancy Prediction | Zhenxing Ming, Julie Stephany Berrio, Mao Shan, Stewart Worrall | [Abstract](https://arxiv.org/abs/2403.01644) · [PDF](https://arxiv.org/pdf/2403.01644) |
 | 2024-01-23 | InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Prediction | Zhenxing Ming, Julie Stephany Berrio, Mao Shan, Stewart Worrall | [Abstract](https://arxiv.org/abs/2401.12422) · [PDF](https://arxiv.org/pdf/2401.12422) |
-| 2023-10-03 | Predicting Future Spatiotemporal Occupancy Grids with Semantics for Autonomous Driving | Maneekwan Toyungyernsub, Esen Yel, Jiachen Li, Mykel J. Kochenderfer | [Abstract](https://arxiv.org/abs/2310.01723) · [PDF](https://arxiv.org/pdf/2310.01723) |
-| 2023-09-15 | OccupancyDETR: Using DETR for Mixed Dense-sparse 3D Occupancy Prediction | Yupeng Jia, Jie He, Runze Chen, Fang Zhao et al. | [Abstract](https://arxiv.org/abs/2309.08504) · [PDF](https://arxiv.org/pdf/2309.08504) |
-| 2023-09-11 | SHIFT3D: Synthesizing Hard Inputs For Tricking 3D Detectors | Hongge Chen, Zhao Chen, Gregory P. Meyer, Dennis Park et al. | [Abstract](https://arxiv.org/abs/2309.05810) · [PDF](https://arxiv.org/pdf/2309.05810) |
 
 ---
 

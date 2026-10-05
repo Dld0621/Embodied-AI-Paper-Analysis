@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2024 | Incipient Slip-Based Rotation Measurement via Visuotactile Sensing During In-Hand Object Pivoting | ICRA · In Hand | [Paper](https://arxiv.org/abs/2309.05366) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610988) |
+| 2024 | Incipient Slip-Based Rotation Measurement via Visuotactile Sensing During In-Hand Object Pivoting | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2309.05366) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610988) |
 | 2023 | Rotating Objects via in-Hand Pivoting Using Vision, Force and Touch | IROS · In Hand | [Paper](https://arxiv.org/pdf/2303.10865) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341505) |
 | 2022 | In-Hand Gravitational Pivoting Using Tactile Sensing | CoRL · In Hand | [Paper](https://arxiv.org/abs/2210.05068) · [Publisher](https://doi.org/10.48550/arXiv.2210.05068) |
 
@@ -26,10 +26,10 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
-| 2026-06-10 | Deformable In-Hand Slip-Aware Tactile Sensor with Integrated Velocity, Force/Torque, and Pressure Map Sensing | Gabriel Arslan Waltersson, Yiannis Karayiannidis | [Abstract](https://arxiv.org/abs/2606.11952) · [PDF](https://arxiv.org/pdf/2606.11952) |
+| 2026-09-11 | ArtManip: Category-Level Articulated In-Hand Manipulation | Yang Yang, Tengyu Liu, Puhao Li, Zeyuan Chen et al. | [Abstract](https://arxiv.org/abs/2609.12498) · [PDF](https://arxiv.org/pdf/2609.12498) |
+| 2026-06-10 | Deformable In-Hand Slip-Aware Tactile Sensor with Integrated Velocity Sensing, Force/Torque and Pressure Map Estimation | Gabriel Arslan Waltersson, Yiannis Karayiannidis | [Abstract](https://arxiv.org/abs/2606.11952) · [PDF](https://arxiv.org/pdf/2606.11952) |
 | 2026-05-15 | KaRMA: A Kinematic Metric for Fine Manipulation Ability in Robotic Hands | Martin Peticco, Pulkit Agrawal | [Abstract](https://arxiv.org/abs/2605.15548) · [PDF](https://arxiv.org/pdf/2605.15548) |
 | 2026-04-09 | A-SLIP: Acoustic Sensing for Continuous In-hand Slip Estimation | Uksang Yoo, Yuemin Mao, Jean Oh, Jeffrey Ichnowski | [Abstract](https://arxiv.org/abs/2604.08528) · [PDF](https://arxiv.org/pdf/2604.08528) |
-| 2023-09-11 | Incipient Slip-Based Rotation Measurement via Visuotactile Sensing During In-Hand Object Pivoting | Mingxuan Li, Yen Hang Zhou, Tiemin Li, Yao Jiang | [Abstract](https://arxiv.org/abs/2309.05366) · [PDF](https://arxiv.org/pdf/2309.05366) |
 
 ---
 

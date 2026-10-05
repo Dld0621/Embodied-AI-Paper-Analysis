@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=3D%20Reconstruction%2C%20NeRF%20%26%20Gaussian%20Splatting#research-workbench)
 
-> 3 conference papers · 106 recent arXiv papers
+> 4 conference papers · 110 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,18 +14,27 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (3)
+## Conference papers (4)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation | IROS · Scene Graph | [Paper](https://arxiv.org/abs/2502.15309) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246569) |
+| 2026 | GS-UVCE: Gaussian Splatting-Driven Unsupervised Visual Consistency Enhancement for Underwater 3D Scene Reconstruction | ICRA · 3D Scene | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696993) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696993) |
+| 2025 | DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation | IROS · Scene Graph | [Paper](https://arxiv.org/pdf/2502.15309) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246569) |
 | 2024 | OpenOcc: Open Vocabulary 3D Scene Reconstruction via Occupancy Representation | IROS · 3D Scene | [Paper](https://arxiv.org/abs/2403.11796) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801860) |
 | 2022 | Touching a NeRF: Leveraging Neural Radiance Fields for Tactile Sensory Data Generation | CoRL · Tactile | [Paper](https://www.semanticscholar.org/paper/52ad7e7133b19adf85e49478fe17229fc893cd8f) · [Index](https://dblp.org/rec/conf/corl/ZhongAJMP22) |
 
-## Recent arXiv papers (106)
+## Recent arXiv papers (110)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-01 | LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction | Zhening Huang, Yueyan Li, Johnathan Chiu, Xiaoyang Lyu et al. | [Abstract](https://arxiv.org/abs/2610.01863) · [PDF](https://arxiv.org/pdf/2610.01863) |
+| 2026-09-30 | Measuring Asset and Scene Reconstruction Effects in Real-to-Sim Robot Evaluation | Sanya Verma, Luca Cilio, Velissarios Christodoulou | [Abstract](https://arxiv.org/abs/2610.00731) · [PDF](https://arxiv.org/pdf/2610.00731) |
+| 2026-09-18 | 2D GauSS-MI: Efficient Active Scene Reconstruction with Balanced Visual and Geometric Quality | Yuhan Xie, Jia Pan | [Abstract](https://arxiv.org/abs/2609.21516) · [PDF](https://arxiv.org/pdf/2609.21516) |
+| 2026-09-17 | CoRef-GS: Cooperative Referring Gaussian Splatting for Multi-Agent Scene Understanding | Zhikun Zhou, Kunyu Peng, Runyi Yang, Junhao Cai et al. | [Abstract](https://arxiv.org/abs/2609.20586) · [PDF](https://arxiv.org/pdf/2609.20586) |
+| 2026-09-16 | Active perception for robotic harvesting: 3D reconstruction and localisation of tomatoes hidden within clusters in a Mediterranean greenhouse | Fernando Cañadas-Aránega, Rowan Border, José C. Moreno, José L. Blanco-Claraco | [Abstract](https://arxiv.org/abs/2609.18738) · [PDF](https://arxiv.org/pdf/2609.18738) |
+| 2026-09-12 | DreamSat-Bench: Development and Initial Testing of a Testbed for AI-Based Pose Estimation from 3D Reconstruction | Alex Posadas-Nava, August Berne, Giovanni Lavezzi, Kareena Shah et al. | [Abstract](https://arxiv.org/abs/2609.14183) · [PDF](https://arxiv.org/pdf/2609.14183) |
+| 2026-09-08 | FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute | Hongchi Xia, Tianhang Cheng, Wei-Chiu Ma, Shenlong Wang | [Abstract](https://arxiv.org/abs/2609.08848) · [PDF](https://arxiv.org/pdf/2609.08848) |
+| 2026-08-28 | RoboPhys-3D: A Comprehensive Embodied World Model Evaluation via 3D Reconstruction | Tianyi Wang, Jiazhou Chen, Yiming Xu, Xiangyu Li et al. | [Abstract](https://arxiv.org/abs/2608.28718) · [PDF](https://arxiv.org/pdf/2608.28718) |
 | 2026-08-03 | TRACE: Ergodic Trajectory Optimization for Active Scene Reconstruction | Ziyue Zheng, Linli Shi, Bingkun He, Wen Jiang et al. | [Abstract](https://arxiv.org/abs/2608.02304) · [PDF](https://arxiv.org/pdf/2608.02304) |
 | 2026-08-02 | Swimm3R: Splatting with Medium-aware SfM for Underwater 3D Reconstruction | Minseong Kweon, Junaed Sattar | [Abstract](https://arxiv.org/abs/2608.00950) · [PDF](https://arxiv.org/pdf/2608.00950) |
 | 2026-07-30 | FasTac: A Curved Multispectral Vision-Based Tactile Sensor for High-Speed High-Precision 3D Shape and Force Perception | Xiaofan Lu, Kaiji Huang, Jiahui Chen, Yuankai Lin et al. | [Abstract](https://arxiv.org/abs/2607.28416) · [PDF](https://arxiv.org/pdf/2607.28416) |
@@ -128,10 +137,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-28 | Toward Semantic Scene Understanding for Fine-Grained 3D Modeling of Plants | Mohamad Qadri, Harry Freeman, Eric Schneider, George Kantor | [Abstract](https://arxiv.org/abs/2312.17110) · [PDF](https://arxiv.org/pdf/2312.17110) |
 | 2023-11-23 | Towards Transferable Multi-modal Perception Representation Learning for Autonomy: NeRF-Supervised Masked AutoEncoder | Xiaohao Xu | [Abstract](https://arxiv.org/abs/2311.13750) · [PDF](https://arxiv.org/pdf/2311.13750) |
 | 2023-10-05 | BID-NeRF: RGB-D image pose estimation with inverted Neural Radiance Fields | Ágoston István Csehi, Csaba Máté Józsa | [Abstract](https://arxiv.org/abs/2310.03563) · [PDF](https://arxiv.org/pdf/2310.03563) |
-| 2023-10-02 | PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments | Xiuzhong Hu, Guangming Xiong, Zheng Zang, Peng Jia et al. | [Abstract](https://arxiv.org/abs/2310.00874) · [PDF](https://arxiv.org/pdf/2310.00874) |
-| 2023-09-11 | SIM-Sync: From Certifiably Optimal Synchronization over the 3D Similarity Group to Scene Reconstruction with Learned Depth | Xihang Yu, Heng Yang | [Abstract](https://arxiv.org/abs/2309.05184) · [PDF](https://arxiv.org/pdf/2309.05184) |
-| 2023-09-11 | PAg-NeRF: Towards fast and efficient end-to-end panoptic 3D representations for agricultural robotics | Claus Smitt, Michael Halstead, Patrick Zimmer, Thomas Läbe et al. | [Abstract](https://arxiv.org/abs/2309.05339) · [PDF](https://arxiv.org/pdf/2309.05339) |
-| 2023-09-11 | A survey on real-time 3D scene reconstruction with SLAM methods in embedded systems | Quentin Picard, Stephane Chevobbe, Mehdi Darouich, Jean-Yves Didier | [Abstract](https://arxiv.org/abs/2309.05349) · [PDF](https://arxiv.org/pdf/2309.05349) |
 
 ---
 

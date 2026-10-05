@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Object%2C%20Pose%20%26%20Affordance%20Perception&specialty=Object%20Detection%20%26%20Segmentation#research-workbench)
 
-> 1 conference papers · 255 recent arXiv papers
+> 1 conference papers · 257 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,19 +20,32 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2024 | Making the Flow Glow – Robot Perception under Severe Lighting Conditions using Normalizing Flow Gradients | IROS · Robot Perception | [Paper](https://arxiv.org/abs/2412.07565) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801601) |
 
-## Recent arXiv papers (255)
+## Recent arXiv papers (257)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-02 | EmbPASS: Towards Cross-Embodiment Open Panoramic Segmentation | Pujun Guo, Yuanfan Zheng, Fei Teng, Mengfei Duan et al. | [Abstract](https://arxiv.org/abs/2610.03248) · [PDF](https://arxiv.org/pdf/2610.03248) |
+| 2026-09-29 | Towards Spatial Perception for Heterogeneous Robot Collaboration in Subterranean Mining Environments | Mario Alberto Valdes Saucedo, Akash Patel, Christoforos Kanellakis, George Nikolakopoulos | [Abstract](https://arxiv.org/abs/2609.37419) · [PDF](https://arxiv.org/pdf/2609.37419) |
+| 2026-09-29 | EgoRefine: Ego-Referenced Predictive Alignment and Trajectory-Conditioned Reliability-Aware Fusion for Asynchronous Collaborative Perception | Lingzhao Kong, Yongsheng Zang, Yu Kang, Kailun Yang et al. | [Abstract](https://arxiv.org/abs/2610.00319) · [PDF](https://arxiv.org/pdf/2610.00319) |
+| 2026-09-27 | TC-ADA: One-Shot Active Domain Adaptation for Semantic Segmentation | Weihao Yan, Yeqiang Qian, Yueyuan Li, Tao Li et al. | [Abstract](https://arxiv.org/abs/2609.33432) · [PDF](https://arxiv.org/pdf/2609.33432) |
+| 2026-09-23 | Privacy-Preserving Semantic Segmentation from High-Resolution Depth and Ultra-Low-Resolution RGB | Xuying Huang, Swithinraj Moses Daniel, Sicong Pan, Sebastian Houben et al. | [Abstract](https://arxiv.org/abs/2609.28360) · [PDF](https://arxiv.org/pdf/2609.28360) |
+| 2026-09-22 | Bend the Clock: Predicting Ahead to Beat Latency in Event-Based Object Detection | Biswadeep Sen, Benoit R. Cottereau, Nicolas Cuperlier, Terence Sim | [Abstract](https://arxiv.org/abs/2609.26919) · [PDF](https://arxiv.org/pdf/2609.26919) |
+| 2026-09-16 | 4D Radar Perception Algorithms for Autonomous Driving: A Review | Xumin Wu, Jun Zhou, Jilin Mei, Chen Min et al. | [Abstract](https://arxiv.org/abs/2609.19216) · [PDF](https://arxiv.org/pdf/2609.19216) |
+| 2026-09-10 | MC-DeTra: Motion-Consistent Joint Object Detection and Socially-Aware Trajectory Forecasting in Bird's-Eye-View Images | Vladislav Diuzhev, Dmitry Yudin | [Abstract](https://arxiv.org/abs/2609.11717) · [PDF](https://arxiv.org/pdf/2609.11717) |
+| 2026-09-09 | CLFTv2: Efficient Camera-LiDAR Fusion for Semantic Segmentation via Hierarchical Feature Pyramids | Toomas Tahves, Mauro Bellone, Raivo Sell | [Abstract](https://arxiv.org/abs/2609.09881) · [PDF](https://arxiv.org/pdf/2609.09881) |
+| 2026-09-08 | A Multi-Modal Perception Pipeline for Object Detection and Tracking in Autonomous Racing | Davide Malvezzi, Michele Pestarino, Vittoria Cavicchioli, Valentina La Gamba et al. | [Abstract](https://arxiv.org/abs/2609.08338) · [PDF](https://arxiv.org/pdf/2609.08338) |
+| 2026-09-02 | Toward Robust LiDAR Semantic Segmentation for Real-World Deployment: Evaluation under Coarse Labels, Adverse Conditions, and Domain Shifts | Samir Abou Haidar, Alexandre Chariot, Mehdi Darouich, Cyril Joly et al. | [Abstract](https://arxiv.org/abs/2609.02830) · [PDF](https://arxiv.org/pdf/2609.02830) |
+| 2026-08-29 | Albireo: Adaptive, Energy-Efficient Inference Framework for Video Object Detection on the Edge | Amir Taherin, José Cano, Bin Ren, Yanzhi Wang et al. | [Abstract](https://arxiv.org/abs/2609.29648) · [PDF](https://arxiv.org/pdf/2609.29648) |
 | 2026-08-27 | TADP: Task-Aware Deformable Prediction for Single-Stage 3D Object Detection | Su Wang, Yaochen Li, Min Yang, Jiaohao Nie et al. | [Abstract](https://arxiv.org/abs/2608.27282) · [PDF](https://arxiv.org/pdf/2608.27282) |
 | 2026-08-24 | Contextrast++: Robust Multi-Scale Contextual Contrastive Learning for Semantic Segmentation | Changki Sung, Hyungtae Lim, Wanhee Kim, Youngwoo Seo et al. | [Abstract](https://arxiv.org/abs/2608.22679) · [PDF](https://arxiv.org/pdf/2608.22679) |
 | 2026-08-21 | Multi-Modal Traffic Sign Detection with Semantic Attributes for Autonomous Driving | Meda Lazar, Sourab Sridhar, Shashwata Gupta, Alexandra Tripcea et al. | [Abstract](https://arxiv.org/abs/2608.20874) · [PDF](https://arxiv.org/pdf/2608.20874) |
 | 2026-08-09 | Anchor-Based AI Approach for Pre-Crash Object Detection Utilizing Micro-Doppler Signatures in Automotive Radar | Patrick Zaumseil, Rainer Engert, Dagmar Steinhauser, Jonathan Wache et al. | [Abstract](https://arxiv.org/abs/2608.08701) · [PDF](https://arxiv.org/pdf/2608.08701) |
+| 2026-08-07 | Design and Implementation of an Ultra-Low-Cost Wall-Climbing Robot for Infrastructure Crack Detection | Mrinmoy Modak, Supreyo Chakravorty Pretom, Shourv Tarafder, Daniel S. Drew | [Abstract](https://arxiv.org/abs/2609.26130) · [PDF](https://arxiv.org/pdf/2609.26130) |
 | 2026-08-06 | Shape-Aware Oriented Bounding Box (OBB) to Horizontal Bounding Box (HBB) Conversion | Badha Rathna Sabhapathy, Gotam Dahiya, Vishesh Vatsal | [Abstract](https://arxiv.org/abs/2608.05858) · [PDF](https://arxiv.org/pdf/2608.05858) |
 | 2026-08-05 | From Transparent Labware Segmentation to Collision Avoidance: A Real-Time Edge-Aware Perception Pipeline | Shijun Ding, Chen Qian, Weiwei Shang, Junlin Xiong | [Abstract](https://arxiv.org/abs/2608.04769) · [PDF](https://arxiv.org/pdf/2608.04769) |
 | 2026-08-04 | Lightweight 3D Object Detection via Mamba-Based Knowledge Distillation | Quoc Cuong Ninh, Huy Xuan Pham, Anh Tung Nguyen, Dinh Hoan Trinh | [Abstract](https://arxiv.org/abs/2608.03490) · [PDF](https://arxiv.org/pdf/2608.03490) |
 | 2026-07-09 | On Exploring Input Resolution Scaling For Anytime LiDAR Object Detection | Ahmet Soyyigit, Shuochao Yao, Heechul Yun | [Abstract](https://arxiv.org/abs/2607.08391) · [PDF](https://arxiv.org/pdf/2607.08391) |
-| 2026-07-01 | Privacy-Preserving Depth-Only Open-Vocabulary 3D Semantic Segmentation Via Uncertainty-Guided Test-Time Optimization | Xuying Huang, Sicong Pan, Maren Bennewitz | [Abstract](https://arxiv.org/abs/2607.00978) · [PDF](https://arxiv.org/pdf/2607.00978) |
+| 2026-07-01 | Depth-Only Open-Vocabulary 3D Semantic Segmentation For Privacy-Preserving Robotic Applications | Xuying Huang, Sicong Pan, Maren Bennewitz | [Abstract](https://arxiv.org/abs/2607.00978) · [PDF](https://arxiv.org/pdf/2607.00978) |
 | 2026-06-25 | Radar Guided Camera Verification for Automatic Emergency Braking Rethinking Object Detection in Radar Camera Fusion | Ram Charan Akula, Sivanathan Kandhasamy, Manikandan Ganesan | [Abstract](https://arxiv.org/abs/2606.27556) · [PDF](https://arxiv.org/pdf/2606.27556) |
 | 2026-06-19 | Technical Report for ICRA 2026 GOOSE 2D Fine-Grained Semantic Segmentation Challenge: Exploring Query-Based Segmentation and Increased Spatial Context for Outdoor Scene Understanding | David Pascual-Hernández, Roberto Calvo-Palomino, Inmaculada Mora-Jiménez, Jose María Cañas-Plaza | [Abstract](https://arxiv.org/abs/2606.21456) · [PDF](https://arxiv.org/pdf/2606.21456) |
 | 2026-06-17 | Technical Report for ICRA 2026 GOOSE 2D Fine-Grained Semantic Segmentation Challenge: Leveraging DINOv3 for Robust Outdoor Scene Understanding in Field Robotics | Jaeil Park, Hyobin Choi, Sangjin Lee, Hyungtae Lim et al. | [Abstract](https://arxiv.org/abs/2606.18582) · [PDF](https://arxiv.org/pdf/2606.18582) |
@@ -83,7 +96,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-11-12 | Enhancing Reinforcement Learning in 3D Environments through Semantic Segmentation: A Case Study in ViZDoom | Jin Huang | [Abstract](https://arxiv.org/abs/2511.11703) · [PDF](https://arxiv.org/pdf/2511.11703) |
 | 2025-10-30 | Spiking Patches: Asynchronous, Sparse, and Efficient Tokens for Event Cameras | Christoffer Koo Øhrstrøm, Ronja Güldenring, Lazaros Nalpantidis | [Abstract](https://arxiv.org/abs/2510.26614) · [PDF](https://arxiv.org/pdf/2510.26614) |
 | 2025-10-29 | Enhancing Underwater Object Detection through Spatio-Temporal Analysis and Spatial Attention Networks | Sai Likhith Karri, Ansh Saxena | [Abstract](https://arxiv.org/abs/2510.25797) · [PDF](https://arxiv.org/pdf/2510.25797) |
-| 2025-10-29 | BikeScenes: Online LiDAR Semantic Segmentation for Bicycles | Denniz Goren, Holger Caesar | [Abstract](https://arxiv.org/abs/2510.25901) · [PDF](https://arxiv.org/pdf/2510.25901) |
+| 2025-10-29 | BikeScenes: LiDAR Semantic Segmentation for Bicycles | Denniz Goren, Holger Caesar | [Abstract](https://arxiv.org/abs/2510.25901) · [PDF](https://arxiv.org/pdf/2510.25901) |
 | 2025-10-27 | DPGLA: Bridging the Gap between Synthetic and Real Data for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation | Wanmeng Li, Simone Mosco, Daniel Fusaro, Alberto Pretto | [Abstract](https://arxiv.org/abs/2510.23525) · [PDF](https://arxiv.org/pdf/2510.23525) |
 | 2025-10-20 | M2H: Multi-Task Learning with Efficient Window-Based Cross-Task Attention for Monocular Spatial Perception | U. V. B. L Udugama, George Vosselman, Francesco Nex | [Abstract](https://arxiv.org/abs/2510.17363) · [PDF](https://arxiv.org/pdf/2510.17363) |
 | 2025-10-16 | EdgeNavMamba: Mamba Optimized Object Detection for Energy Efficient Edge Devices | Romina Aalishah, Mozhgan Navardi, Tinoosh Mohsenin | [Abstract](https://arxiv.org/abs/2510.14946) · [PDF](https://arxiv.org/pdf/2510.14946) |
@@ -175,7 +188,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-10-08 | Believing is Seeing: Unobserved Object Detection using Generative Models | Subhransu S. Bhattacharjee, Dylan Campbell, Rahul Shome | [Abstract](https://arxiv.org/abs/2410.05869) · [PDF](https://arxiv.org/pdf/2410.05869) |
 | 2024-10-07 | Real-Time Truly-Coupled Lidar-Inertial Motion Correction and Spatiotemporal Dynamic Object Detection | Cedric Le Gentil, Raphael Falque, Teresa Vidal-Calleja | [Abstract](https://arxiv.org/abs/2410.05152) · [PDF](https://arxiv.org/pdf/2410.05152) |
 | 2024-10-05 | Fast Object Detection with a Machine Learning Edge Device | Richard C. Rodriguez, Jonah Elijah P. Bardos | [Abstract](https://arxiv.org/abs/2410.04173) · [PDF](https://arxiv.org/pdf/2410.04173) |
-| 2024-10-01 | iTeach: In the Wild Interactive Teaching for Failure-Driven Adaptation of Robot Perception | Jishnu Jaykumar P, Cole Salvato, Vinaya Bomnale, Jikai Wang et al. | [Abstract](https://arxiv.org/abs/2410.09072) · [PDF](https://arxiv.org/pdf/2410.09072) |
 | 2024-09-26 | Scene Understanding in Pick-and-Place Tasks: Analyzing Transformations Between Initial and Final Scenes | Seraj Ghasemi, Hamed Hosseini, MohammadHossein Koosheshi, Mehdi Tale Masouleh et al. | [Abstract](https://arxiv.org/abs/2409.17720) · [PDF](https://arxiv.org/pdf/2409.17720) |
 | 2024-09-24 | OW-Rep: Open World Object Detection with Instance Representation Learning | Sunoh Lee, Minsik Jeon, Jihong Min, Junwon Seo | [Abstract](https://arxiv.org/abs/2409.16073) · [PDF](https://arxiv.org/pdf/2409.16073) |
 | 2024-09-09 | LEROjD: Lidar Extended Radar-Only Object Detection | Patrick Palmer, Martin Krüger, Stefan Schütte, Richard Altendorfer et al. | [Abstract](https://arxiv.org/abs/2409.05564) · [PDF](https://arxiv.org/pdf/2409.05564) |
@@ -269,16 +281,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-14 | MAC: ModAlity Calibration for Object Detection | Yutian Lei, Jun Liu, Dong Huang | [Abstract](https://arxiv.org/abs/2310.09461) · [PDF](https://arxiv.org/pdf/2310.09461) |
 | 2023-10-09 | Anyview: Generalizable Indoor 3D Object Detection with Variable Frames | Zhenyu Wu, Xiuwei Xu, Ziwei Wang, Chong Xia et al. | [Abstract](https://arxiv.org/abs/2310.05346) · [PDF](https://arxiv.org/pdf/2310.05346) |
 | 2023-10-07 | Towards Long-Range 3D Object Detection for Autonomous Vehicles | Ajinkya Khoche, Laura Pereira Sánchez, Nazre Batool, Sina Sharif Mansouri et al. | [Abstract](https://arxiv.org/abs/2310.04800) · [PDF](https://arxiv.org/pdf/2310.04800) |
-| 2023-09-26 | DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation | Zeyu Wang, Dingwen Li, Chenxu Luo, Cihang Xie et al. | [Abstract](https://arxiv.org/abs/2309.15109) · [PDF](https://arxiv.org/pdf/2309.15109) |
-| 2023-09-25 | UniBEV: Multi-modal 3D Object Detection with Uniform BEV Encoders for Robustness against Missing Sensor Modalities | Shiming Wang, Holger Caesar, Liangliang Nan, Julian F. P. Kooij | [Abstract](https://arxiv.org/abs/2309.14516) · [PDF](https://arxiv.org/pdf/2309.14516) |
-| 2023-09-22 | MISFIT-V: Misaligned Image Synthesis and Fusion using Information from Thermal and Visual | Aadhar Chauhan, Isaac Remy, Danny Broyles, Karen Leung | [Abstract](https://arxiv.org/abs/2309.13216) · [PDF](https://arxiv.org/pdf/2309.13216) |
-| 2023-09-18 | Mutual Information-calibrated Conformal Feature Fusion for Uncertainty-Aware Multimodal 3D Object Detection at the Edge | Alex C. Stutts, Danilo Erricolo, Sathya Ravi, Theja Tulabandhula et al. | [Abstract](https://arxiv.org/abs/2309.09593) · [PDF](https://arxiv.org/pdf/2309.09593) |
-| 2023-09-17 | CLIPUNetr: Assisting Human-robot Interface for Uncalibrated Visual Servoing Control with CLIP-driven Referring Expression Segmentation | Chen Jiang, Yuchen Yang, Martin Jagersand | [Abstract](https://arxiv.org/abs/2309.09183) · [PDF](https://arxiv.org/pdf/2309.09183) |
-| 2023-09-17 | Chasing Day and Night: Towards Robust and Efficient All-Day Object Detection Guided by an Event Camera | Jiahang Cao, Xu Zheng, Yuanhuiyi Lyu, Jiaxu Wang et al. | [Abstract](https://arxiv.org/abs/2309.09297) · [PDF](https://arxiv.org/pdf/2309.09297) |
-| 2023-09-15 | DA-RAW: Domain Adaptive Object Detection for Real-World Adverse Weather Conditions | Minsik Jeon, Junwon Seo, Jihong Min | [Abstract](https://arxiv.org/abs/2309.08152) · [PDF](https://arxiv.org/pdf/2309.08152) |
-| 2023-09-12 | Semantic and Articulated Pedestrian Sensing Onboard a Moving Vehicle | Maria Priisalu | [Abstract](https://arxiv.org/abs/2309.06313) · [PDF](https://arxiv.org/pdf/2309.06313) |
-| 2023-09-07 | Efficient Single Object Detection on Image Patches with Early Exit Enhanced High-Precision CNNs | Arne Moos | [Abstract](https://arxiv.org/abs/2309.03530) · [PDF](https://arxiv.org/pdf/2309.03530) |
-| 2023-09-02 | S$^3$-MonoDETR: Supervised Shape&Scale-perceptive Deformable Transformer for Monocular 3D Object Detection | Xuan He, Jin Yuan, Kailun Yang, Zhenchao Zeng et al. | [Abstract](https://arxiv.org/abs/2309.00928) · [PDF](https://arxiv.org/pdf/2309.00928) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=World%20%26%20Dynamics%20Models&specialty=Physics-informed%20%26%20Neural%20Dynamics#research-workbench)
 
-> 6 conference papers · 46 recent arXiv papers
+> 8 conference papers · 47 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,21 +14,24 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (6)
+## Conference papers (8)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | IMPASTO: Integrating Model-Based Planning with Learned Dynamics Models for Robotic Oil Painting Reproduction | ICRA · Dynamics Model | [Paper](https://arxiv.org/abs/2603.29315) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696393) |
+| 2026 | Robust Online Residual Refinement via Koopman-Guided Dynamics Modeling | ICRA · Dynamics Model | [Paper](https://arxiv.org/abs/2509.12562) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697387) |
 | 2025 | AnyCar to Anywhere: Learning Universal Dynamics Model for Agile and Adaptive Mobility | ICRA · Dynamics Model | [Paper](https://arxiv.org/abs/2409.15783) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128396) |
 | 2025 | Dynamics Modeling Using Visual Terrain Features for High-Speed Autonomous Off-Road Driving | ICRA · Dynamics Model | [Paper](https://arxiv.org/abs/2412.00581) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128031) |
 | 2024 | Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling | CoRL · Dynamics Model | [Paper](https://arxiv.org/abs/2410.18912) · [Publisher](https://doi.org/10.48550/arXiv.2410.18912) |
 | 2023 | Efficient Preference-Based Reinforcement Learning Using Learned Dynamics Models | ICRA · Dynamics Model | [Paper](https://arxiv.org/abs/2301.04741) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161081) |
-| 2022 | Efficient Learning of Inverse Dynamics Models for Adaptive Computed Torque Control | IROS · Dynamics Model | [Paper](https://hdl.handle.net/20.500.11820/a1a4a26e-1956-479e-838d-3637173b0316) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981744) |
+| 2022 | Efficient Learning of Inverse Dynamics Models for Adaptive Computed Torque Control | IROS · Dynamics Model | [Paper](https://www.research.ed.ac.uk/en/publications/a1a4a26e-1956-479e-838d-3637173b0316) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981744) |
 | 2022 | End-to-End Learning of Hybrid Inverse Dynamics Models for Precise and Compliant Impedance Control | RSS · Dynamics Model | [Paper](https://arxiv.org/pdf/2205.13804) · [Publisher](https://doi.org/10.48550/arXiv.2205.13804) |
 
-## Recent arXiv papers (46)
+## Recent arXiv papers (47)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-08 | Model Predictive Control of Tensegrity Robots via Contact-Aware Graph Neural Dynamics Model | Nelson Chen, Patrick Meng, Charles Tang, Angelina Degay et al. | [Abstract](https://arxiv.org/abs/2609.08958) · [PDF](https://arxiv.org/pdf/2609.08958) |
 | 2026-06-19 | Robot Self-Improvement via Human-Video Dynamics Models | Hanzhi Chen, Anran Zhang, Simon Schaefer, Kejia Chen et al. | [Abstract](https://arxiv.org/abs/2606.21406) · [PDF](https://arxiv.org/pdf/2606.21406) |
 | 2026-06-05 | CAPE: Contrastive Action-conditioned Parallel Encoding for Embodied Planning | Cong Chen, Haowen Wang, Zhixiang Zhang, Pei Ren et al. | [Abstract](https://arxiv.org/abs/2606.07304) · [PDF](https://arxiv.org/pdf/2606.07304) |
 | 2026-06-02 | Hybrid Dynamics Modeling for a Flexible 2-DoF Robotic Arm | Maciek Popik, Daniel Yang, Mahdis Bisheban | [Abstract](https://arxiv.org/abs/2606.02969) · [PDF](https://arxiv.org/pdf/2606.02969) |

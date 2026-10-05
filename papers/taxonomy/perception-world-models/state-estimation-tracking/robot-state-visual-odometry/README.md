@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=State%20Estimation%20%26%20Tracking&specialty=Robot%20State%20%26%20Visual%20Odometry#research-workbench)
 
-> 10 conference papers · 74 recent arXiv papers
+> 13 conference papers · 73 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (10)
+## Conference papers (13)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Metric, inertially aligned monocular state estimation via kinetodynamic priors | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2511.20496) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696025) |
+| 2026 | MUSE: Multimodal Uncertainty Quantification of State Estimation | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2605.17421) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696271) |
+| 2026 | State Estimation for Compliant and Morphologically Adaptive Robots | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2509.25945) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697279) |
 | 2025 | Cascade IPG Observer for Underwater Robot State Estimation | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2504.15235) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128435) |
 | 2025 | Uncertainty-Aware Multi-Robot Flocking via Learned State Estimation and Control Barrier Functions | IROS · State Estimation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246962) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246962) |
 | 2024 | A Group Theoretic Metric for Robot State Estimation Leveraging Chebyshev Interpolation | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2401.17463) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611072) |
@@ -29,10 +32,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Enhancing State Estimation in Robots: A Data-Driven Approach with Differentiable Ensemble Kalman Filters | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2308.09870) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341617) |
 | 2022 | GPS-Denied Global Visual-Inertial Ground Vehicle State Estimation via Image Registration | ICRA · State Estimation | [Paper](https://doi.org/10.1109/icra46639.2022.9812364) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812364) |
 
-## Recent arXiv papers (74)
+## Recent arXiv papers (73)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-24 | TinyCVIO: A Constellation-Aided Visual-Inertial Odometry System for Nanodrones | Derin Ozturk, Kaan Akan, Irwin Wang, Christopher Batten | [Abstract](https://arxiv.org/abs/2609.30358) · [PDF](https://arxiv.org/pdf/2609.30358) |
+| 2026-09-18 | Robust Structureless Monocular Visual Inertial Initialization Exploiting Line Features and Vanishing Points | Junwan Choi, Woongrae Jo, Dong-Uk Seo, Jinwoo Jeon et al. | [Abstract](https://arxiv.org/abs/2609.21186) · [PDF](https://arxiv.org/pdf/2609.21186) |
+| 2026-09-17 | Bayesian Continuum Robot Dynamics and State Estimation | James M. Ferguson, Tucker Hermans, Alan Kuntz | [Abstract](https://arxiv.org/abs/2609.20605) · [PDF](https://arxiv.org/pdf/2609.20605) |
 | 2026-08-20 | Learning-Based Measurement-Robust Control Barrier Functions for Obstacle Avoidance under State Estimation Error | Nicholas Rober, Yixuan Jia, Jonathan P. How | [Abstract](https://arxiv.org/abs/2608.20467) · [PDF](https://arxiv.org/pdf/2608.20467) |
 | 2026-07-24 | DB-VIO: Dual-Branch Visual Inertial Odometry with Enhanced Visual-Inertial Representation | Ziyu Wan, Lin Zhao | [Abstract](https://arxiv.org/abs/2607.22123) · [PDF](https://arxiv.org/pdf/2607.22123) |
 | 2026-07-20 | Does Robust VIO Need More Learning? Geometry-Verified Visual Measurements under Distribution Shift | Yangyang Ning, Shu Liang, Quanbo Ge, Tianchen Deng et al. | [Abstract](https://arxiv.org/abs/2607.17956) · [PDF](https://arxiv.org/pdf/2607.17956) |
@@ -50,6 +56,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-02-02 | Vision-only UAV State Estimation for Fast Flights Without External Localization Systems: A2RL Drone Racing Finalist Approach | Filip Novák, Matěj Petrlík, Matej Novosad, Parakh M. Gupta et al. | [Abstract](https://arxiv.org/abs/2602.01860) · [PDF](https://arxiv.org/pdf/2602.01860) |
 | 2026-01-12 | Fiducial Exoskeletons: Image-Centric Robot State Estimation | Cameron Smith, Basile Van Hoorick, Vitor Guizilini, Yue Wang | [Abstract](https://arxiv.org/abs/2601.08034) · [PDF](https://arxiv.org/pdf/2601.08034) |
 | 2025-12-19 | Adaptive Covariance and Quaternion-Focused Hybrid Error-State EKF/UKF for Visual-Inertial Odometry | Ufuk Asil, Efendi Nasibov | [Abstract](https://arxiv.org/abs/2512.17505) · [PDF](https://arxiv.org/pdf/2512.17505) |
+| 2025-12-10 | Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization | Zhiheng Li, Weihua Wang, Qiang Shen, Yichen Zhao et al. | [Abstract](https://arxiv.org/abs/2512.09608) · [PDF](https://arxiv.org/pdf/2512.09608) |
 | 2025-11-26 | Dual Preintegration for Relative State Estimation | Ruican Xia, Hailong Pei | [Abstract](https://arxiv.org/abs/2511.21189) · [PDF](https://arxiv.org/pdf/2511.21189) |
 | 2025-11-25 | Metric, inertially aligned monocular state estimation via kinetodynamic priors | Jiaxin Liu, Min Li, Wanting Xu, Liang Li et al. | [Abstract](https://arxiv.org/abs/2511.20496) · [PDF](https://arxiv.org/pdf/2511.20496) |
 | 2025-11-12 | LODESTAR: Degeneracy-Aware LiDAR-Inertial Odometry with Adaptive Schmidt-Kalman Filter and Data Exploitation | Eungchang Mason Lee, Kevin Christiansen Marsim, Hyun Myung | [Abstract](https://arxiv.org/abs/2511.09142) · [PDF](https://arxiv.org/pdf/2511.09142) |
@@ -102,11 +109,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-07 | Proprioceptive Invariant Robot State Estimation | Tzu-Yuan Lin, Tingjun Li, Wenzhe Tong, Maani Ghaffari | [Abstract](https://arxiv.org/abs/2311.04320) · [PDF](https://arxiv.org/pdf/2311.04320) |
 | 2023-10-27 | Do we need scan-matching in radar odometry? | Vladimír Kubelka, Emil Fritz, Martin Magnusson | [Abstract](https://arxiv.org/abs/2310.18117) · [PDF](https://arxiv.org/pdf/2310.18117) |
 | 2023-10-05 | Extended Kalman Filter State Estimation for Autonomous Competition Robots | Ethan Kou, Acshi Haggenmiller | [Abstract](https://arxiv.org/abs/2310.04459) · [PDF](https://arxiv.org/pdf/2310.04459) |
-| 2023-09-22 | Pixel-wise Smoothing for Certified Robustness against Camera Motion Perturbations | Hanjiang Hu, Zuxin Liu, Linyi Li, Jiacheng Zhu et al. | [Abstract](https://arxiv.org/abs/2309.13150) · [PDF](https://arxiv.org/pdf/2309.13150) |
-| 2023-09-20 | Online Calibration of a Single-Track Ground Vehicle Dynamics Model by Tight Fusion with Visual-Inertial Odometry | Haolong Li, Joerg Stueckler | [Abstract](https://arxiv.org/abs/2309.11148) · [PDF](https://arxiv.org/pdf/2309.11148) |
-| 2023-09-18 | Learning Covariances for Estimation with Constrained Bilevel Optimization | Mohamad Qadri, Zachary Manchester, Michael Kaess | [Abstract](https://arxiv.org/abs/2309.09718) · [PDF](https://arxiv.org/pdf/2309.09718) |
-| 2023-09-10 | Certified Vision-based State Estimation for Autonomous Landing Systems using Reachability Analysis | Ulices Santa Cruz Leal, Yasser Shoukry | [Abstract](https://arxiv.org/abs/2309.05167) · [PDF](https://arxiv.org/pdf/2309.05167) |
-| 2023-09-05 | Learning Observation Models with Incremental Non-Differentiable Graph Optimizers in the Loop for Robotics State Estimation | Mohamad Qadri, Michael Kaess | [Abstract](https://arxiv.org/abs/2309.02525) · [PDF](https://arxiv.org/pdf/2309.02525) |
 
 ---
 

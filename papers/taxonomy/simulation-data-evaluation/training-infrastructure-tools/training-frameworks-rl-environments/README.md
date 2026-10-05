@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Training%20Infrastructure%20%26%20Tools&specialty=Training%20Frameworks%20%26%20RL%20Environments#research-workbench)
 
-> 0 conference papers · 17 recent arXiv papers
+> 0 conference papers · 19 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,10 +18,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (17)
+## Recent arXiv papers (19)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-18 | Stability-aware Residual Reinforcement Learning Framework for Robotic Manipulator Disturbance Compensation | Jihong Kim, Joonhyuk Kwon, Hwa Soo Kim, TaeWon Seo et al. | [Abstract](https://arxiv.org/abs/2609.21307) · [PDF](https://arxiv.org/pdf/2609.21307) |
+| 2026-09-15 | Fleet-To-Lab: A Transfer Learning Framework For Lunar Rover Slippage Estimation Via Model Fusion | Riccardo Viviano, Saki Omi, Andrej Orsula, Miguel Olivares-Mendez | [Abstract](https://arxiv.org/abs/2609.17187) · [PDF](https://arxiv.org/pdf/2609.17187) |
 | 2026-07-05 | Geometry-Aware Infrastructure-Anchored Denoiser for UWB Sensing and Work-Zone Reconstruction | Weizhe Tang, Jiaxi Liu, Junwei you, Steven T. Parker et al. | [Abstract](https://arxiv.org/abs/2607.05449) · [PDF](https://arxiv.org/pdf/2607.05449) |
 | 2026-05-15 | Task-Semantic Graph-Driven Distributed Agent Networking for Underwater Target Tracking | Shengchao Zhu, Guangjie Han, Chuan Lin, Yu He | [Abstract](https://arxiv.org/abs/2605.15528) · [PDF](https://arxiv.org/pdf/2605.15528) |
 | 2026-03-26 | CROSS: A Mixture-of-Experts Reinforcement Learning Framework for Generalizable Large-Scale Traffic Signal Control | Xibei Chen, Yifeng Zhang, Yuxiang Xiao, Mingfeng Fan et al. | [Abstract](https://arxiv.org/abs/2603.24930) · [PDF](https://arxiv.org/pdf/2603.24930) |

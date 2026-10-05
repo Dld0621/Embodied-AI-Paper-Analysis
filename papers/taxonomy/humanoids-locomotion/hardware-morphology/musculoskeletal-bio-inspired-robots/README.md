@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Hardware%20%26%20Morphology&specialty=Musculoskeletal%20%26%20Bio-inspired%20Robots#research-workbench)
 
-> 9 conference papers · 54 recent arXiv papers
+> 11 conference papers · 54 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (9)
+## Conference papers (11)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Grip as Needed, Glide on Demand: Ultrasonic Lubrication for Robotic Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2602.15608) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696075) |
+| 2026 | MorphoBall: A Bio-Inspired Transformable Spherical Robot with Dual Terrestrial Gaits and Surface Swimming Capability | ICRA · Gait | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696098) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696098) |
 | 2025 | A Novel Underwater Robot with Carangiform Locomotion Achieved via Single Degree of Actuation and Magnetically Transmitted Traveling Wave | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127395) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127395) |
 | 2025 | Bio-Inspired Distributed Neural Locomotion Controller (D-NLC) for Robust Locomotion and Emergent Behaviors | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128090) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128090) |
 | 2025 | Tensiworm: A Novel Tensegrity Robot with Enhanced Peristaltic Locomotion Efficiency | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127767) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127767) |
@@ -32,6 +34,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-17 | UniExo: Unified Multi-Skill Policies for Musculoskeletal Locomotion and Co-Adaptive Exoskeleton Control | Yifei Yuan, Jakob Wolf, Ghaith Androwis, Xianlian Zhou | [Abstract](https://arxiv.org/abs/2609.19690) · [PDF](https://arxiv.org/pdf/2609.19690) |
 | 2026-08-24 | Design of a Biomimetic Joint-Covering Skin with Tissue-Like Structure to Enhance Proprioception in a Musculoskeletal Humanoid | Akihiro Miki, Shun Hasegawa, Yoshimoto Ribayashi, Kento Kawaharazuka et al. | [Abstract](https://arxiv.org/abs/2608.23304) · [PDF](https://arxiv.org/pdf/2608.23304) |
 | 2026-06-19 | A Novel Bio-Inspired Fish Robot with Tunable Stiffness via Particle Jamming | Jack Stonecipher, Allen Gao, Wei Wang | [Abstract](https://arxiv.org/abs/2606.21771) · [PDF](https://arxiv.org/pdf/2606.21771) |
 | 2026-05-29 | Cuttlebot: a platform demonstration for complex, autonomous, bio-inspired swimmers | Alexander Nicholas White, Ang Leo Li, Alexander Yin, Derrick Roseman et al. | [Abstract](https://arxiv.org/abs/2606.00197) · [PDF](https://arxiv.org/pdf/2606.00197) |
@@ -44,7 +47,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-02-09 | Characteristics, Management, and Utilization of Muscles in Musculoskeletal Humanoids: Empirical Study on Kengoro and Musashi | Kento Kawaharazuka, Kei Okada, Masayuki Inaba | [Abstract](https://arxiv.org/abs/2602.08518) · [PDF](https://arxiv.org/pdf/2602.08518) |
 | 2025-12-08 | Inchworm-Inspired Soft Robot with Groove-Guided Locomotion | Hari Prakash Thanabalan, Lars Bengtsson, Ugo Lafont, Giovanni Volpe | [Abstract](https://arxiv.org/abs/2512.07813) · [PDF](https://arxiv.org/pdf/2512.07813) |
 | 2025-11-18 | Active Matter as a framework for living systems-inspired Robophysics | Giulia Janzen, Gaia Maselli, Juan F. Jimenez, Lia Garcia-Perez et al. | [Abstract](https://arxiv.org/abs/2511.14624) · [PDF](https://arxiv.org/pdf/2511.14624) |
-| 2025-09-24 | A Biomimetic Vertebraic Soft Robotic Tail for High-Speed, High-Force Dynamic Maneuvering | Sicong Liu, Jianhui Liu, Fang Chen, Wenjian Yang et al. | [Abstract](https://arxiv.org/abs/2509.20219) · [PDF](https://arxiv.org/pdf/2509.20219) |
+| 2025-09-24 | A Biomimetic Vertebraic Soft Robotic Tail for High-Speed, High-Force Dynamic Maneuvering | Sicong Liu, Nan Huang, Jianhui Liu, Fang Chen et al. | [Abstract](https://arxiv.org/abs/2509.20219) · [PDF](https://arxiv.org/pdf/2509.20219) |
 | 2025-09-15 | Bio-inspired tail oscillation enables robot fast crawling on deformable granular terrains | Shipeng Liu, Meghana Sagare, Shubham Patil, Feifei Qian | [Abstract](https://arxiv.org/abs/2509.12468) · [PDF](https://arxiv.org/pdf/2509.12468) |
 | 2025-08-16 | Contact-Rich and Deformable Foot Modeling for Locomotion Control of the Human Musculoskeletal System | Haixin Gong, Chen Zhang, Yanan Sui | [Abstract](https://arxiv.org/abs/2508.11885) · [PDF](https://arxiv.org/pdf/2508.11885) |
 | 2025-06-25 | PIMBS: Efficient Body Schema Learning for Musculoskeletal Humanoids with Physics-Informed Neural Networks | Kento Kawaharazuka, Takahiro Hattori, Keita Yoneda, Kei Okada | [Abstract](https://arxiv.org/abs/2506.20343) · [PDF](https://arxiv.org/pdf/2506.20343) |
@@ -85,7 +88,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-01 | Mechanically-Inflatable Bio-Inspired Locomotion for Robotic Pipeline Inspection | Mostafa A. Atalla, Fabian Trauzettel, Sebastiaan P. van Gelder, Paul Breedveld et al. | [Abstract](https://arxiv.org/abs/2311.00232) · [PDF](https://arxiv.org/pdf/2311.00232) |
 | 2023-10-25 | Toward the use of proxies for efficient learning manipulation and locomotion strategies on soft robots | Etienne Ménager, Quentin Peyron, Christian Duriez | [Abstract](https://arxiv.org/abs/2310.17029) · [PDF](https://arxiv.org/pdf/2310.17029) |
 | 2023-10-17 | Underwater and Surface Aquatic Locomotion of Soft Biomimetic Robot Based on Bending Rolled Dielectric Elastomer Actuators | Chenyu Zhang, Chen Zhang, Juntian Qu, Xiang Qian | [Abstract](https://arxiv.org/abs/2310.11426) · [PDF](https://arxiv.org/pdf/2310.11426) |
-| 2023-09-06 | Integrating Contact-aware Feedback CPG System for Learning-based Soft Snake Robot Locomotion Controllers | Xuan Liu, Cagdas D. Onal, Jie Fu | [Abstract](https://arxiv.org/abs/2309.02781) · [PDF](https://arxiv.org/pdf/2309.02781) |
 
 ---
 

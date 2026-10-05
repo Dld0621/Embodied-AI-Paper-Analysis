@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Active%20%26%20Multiview%20Perception&specialty=Occlusion-aware%20%26%20Interactive%20Perception#research-workbench)
 
-> 5 conference papers · 7 recent arXiv papers
+> 5 conference papers · 5 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,7 +24,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | SGTM 2.0: Autonomously Untangling Long Cables using Interactive Perception | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2209.13706) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160574) |
 | 2023 | Bagging by Learning to Singulate Layers Using Interactive Perception | IROS · Active Perception | [Paper](https://arxiv.org/pdf/2303.16898) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341634) |
 
-## Recent arXiv papers (7)
+## Recent arXiv papers (5)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -33,8 +33,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-08-18 | RoboRetriever: Single-Camera Robot Object Retrieval via Active and Interactive Perception with Dynamic Scene Graph | Hecheng Wang, Jiankun Ren, Jia Yu, Lizhe Qi et al. | [Abstract](https://arxiv.org/abs/2508.12916) · [PDF](https://arxiv.org/pdf/2508.12916) |
 | 2024-12-29 | Occlusion aware obstacle prediction using people as sensors | Sithija Ranaraja | [Abstract](https://arxiv.org/abs/2412.20376) · [PDF](https://arxiv.org/pdf/2412.20376) |
 | 2024-05-27 | Reinforcement Learning Based Escape Route Generation in Low Visibility Environments | Hari Srikanth | [Abstract](https://arxiv.org/abs/2406.07568) · [PDF](https://arxiv.org/pdf/2406.07568) |
-| 2023-09-25 | Scene Informer: Anchor-based Occlusion Inference and Trajectory Prediction in Partially Observable Environments | Bernard Lange, Jiachen Li, Mykel J. Kochenderfer | [Abstract](https://arxiv.org/abs/2309.13893) · [PDF](https://arxiv.org/pdf/2309.13893) |
-| 2023-09-15 | MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Learning via Interactive Perception | Gyan Tatiya, Jonathan Francis, Ho-Hsiang Wu, Yonatan Bisk et al. | [Abstract](https://arxiv.org/abs/2309.08508) · [PDF](https://arxiv.org/pdf/2309.08508) |
 
 ---
 

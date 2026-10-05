@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Contact-rich%20%26%20Deformable%20Manipulation&specialty=Pushing%2C%20Sliding%20%26%20Non-prehensile%20Skills#research-workbench)
 
-> 33 conference papers · 87 recent arXiv papers
+> 36 conference papers · 90 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,22 +14,25 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (33)
+## Conference papers (36)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | AdaptPNP: Integrating Prehensile and Non-Prehensile Skills for Adaptive Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2511.11052) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696979) |
+| 2026 | Dynamic Scoop-and-Flick Manipulation for Rapid Non-Prehensile High-Arc Object Transfer | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695751) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695751) |
+| 2026 | Uncertainty-Aware Non-Prehensile Manipulation with Mobile Manipulators under Object-Induced Occlusion | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2602.01731) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696078) |
 | 2025 | DyWA: Dynamics-Adaptive World Action Model for Generalizable Non-Prehensile Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/pdf/2503.16806) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01029) |
 | 2025 | FLEX: A Framework for Learning Robot-Agnostic Force-Based Skills Involving Sustained Contact Object Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2503.13418) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127866) |
 | 2025 | Goal-Driven Robotic Pushing Manipulation Under Uncertain Object Properties | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127379) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127379) |
 | 2025 | Implicit Physics-aware Policy for Dynamic Manipulation of Rigid Objects via Soft Body Tools | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2502.05696) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127880) |
 | 2025 | Non-Prehensile Shape Manipulation of Elastoplastic Objects With Reinforcement Learning | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127639) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127639) |
 | 2024 | Learning Visuotactile Estimation and Control for Non-prehensile Manipulation under Occlusions | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2412.13157) · [Publisher](https://doi.org/10.48550/arXiv.2412.13157) |
-| 2024 | Harnessing the Synergy between Pushing, Grasping, and Throwing to Enhance Object Manipulation in Cluttered Scenarios | ICRA · Manipulation | [Paper](https://www.research.ed.ac.uk/en/publications/43dd4d43-71d2-4d39-a3e4-f10caa3dfa4b) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610548) |
+| 2024 | Harnessing the Synergy between Pushing, Grasping, and Throwing to Enhance Object Manipulation in Cluttered Scenarios | ICRA · Manipulation | [Paper](https://www.research.ed.ac.uk/files/420155912/push_grasp_and_throw_ICRA24_2_.pdf) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610548) |
 | 2024 | Self-supervised Learning for Joint Pushing and Grasping Policies in Highly Cluttered Environments | ICRA · Grasp | [Paper](https://research.rug.nl/en/publications/f920f16d-e2a7-49cf-92d5-e3f6e711bea0) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611650) |
 | 2024 | Dynamic Manipulation of Deformable Objects using Imitation Learning with Adaptation to Hardware Constraints | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2403.12685) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802478) |
-| 2024 | Exploring How Non-Prehensile Manipulation Expands Capability in Robots Experiencing Multi-Joint Failure | IROS · Manipulation | [Paper](https://arxiv.org/abs/2410.01102) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801883) |
+| 2024 | Exploring How Non-Prehensile Manipulation Expands Capability in Robots Experiencing Multi-Joint Failure | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2410.01102) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801883) |
 | 2024 | How Physics and Background Attributes Impact Video Transformers in Robotic Manipulation: A Case Study on Planar Pushing | IROS · Manipulation | [Paper](https://arxiv.org/abs/2310.02044) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802583) |
-| 2024 | Learned Slip-Detection-Severity Framework using Tactile Deformation Field Feedback for Robotic Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/abs/2411.07442) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802687) |
+| 2024 | Learned Slip-Detection-Severity Framework using Tactile Deformation Field Feedback for Robotic Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2411.07442) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802687) |
 | 2024 | Motion Planning for Object Manipulation by Edge-Rolling | IROS · Manipulation | [Paper](https://arxiv.org/abs/2410.09301) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802581) |
 | 2024 | On performing non-prehensile rolling manipulations: Stabilizing synchronous motions of Butterfly robots⋆ | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801522) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801522) |
 | 2024 | RTTF: Rapid Tactile Transfer Framework for Contact-Rich Manipulation Tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801764) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801764) |
@@ -52,10 +55,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Data Augmentation for Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2205.02886) · [Publisher](https://doi.org/10.48550/arXiv.2205.02886) |
 | 2022 | Iterative residual policy: For goal-conditioned dynamic manipulation of deformable objects | RSS · Manipulation | [Paper](https://arxiv.org/abs/2203.00663) · [Publisher](https://doi.org/10.1177/02783649231201201) |
 
-## Recent arXiv papers (87)
+## Recent arXiv papers (90)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-27 | Multi-Modal Non-Prehensile Estimation of Physical Parameters via Press-and-Pull Tipping | Steven M. Hyland, Jing Xiao, Cagdas D. Onal | [Abstract](https://arxiv.org/abs/2609.33138) · [PDF](https://arxiv.org/pdf/2609.33138) |
+| 2026-09-23 | Contact-Implicit Stein Projected ADMM for Discovery of Diverse Contact-Rich Manipulation Strategies | Hrishikesh Sathyanarayan, Christian Hughes, Ian Abraham | [Abstract](https://arxiv.org/abs/2609.28299) · [PDF](https://arxiv.org/pdf/2609.28299) |
+| 2026-09-22 | DynaForge: Planning-Guided Residual Learning for Dynamic Manipulation Demonstration Generation | Yiyang Jin, Yu Zheng, Xiao He, Hesheng Wang | [Abstract](https://arxiv.org/abs/2609.25631) · [PDF](https://arxiv.org/pdf/2609.25631) |
+| 2026-09-20 | Manipulation Feasible Navigation Among Movable Obstacles with Discrete Contact Pushing | Shaohu Wang, Aiguo Song, Yulong Yuan, Zhongyu Sun et al. | [Abstract](https://arxiv.org/abs/2609.23312) · [PDF](https://arxiv.org/pdf/2609.23312) |
+| 2026-09-18 | Contact-Rich Motion Planning via GPU-Parallel Mode Evaluation | Jiayun Li, Georgia Chalvatzaki | [Abstract](https://arxiv.org/abs/2609.21803) · [PDF](https://arxiv.org/pdf/2609.21803) |
+| 2026-09-15 | TEMPO: Learning Temporal Context for Dynamic Robot Manipulation | Zhenyang Feng, Jimin Heo, Erik B. Sudderth, Unnat Jain | [Abstract](https://arxiv.org/abs/2609.16864) · [PDF](https://arxiv.org/pdf/2609.16864) |
+| 2026-09-14 | DuctAM: A Duct-Assisted Quadrotor-Based Aerial Manipulator Enabling High-Force Push-and-Pull Interactions | Yi Wang, Rui Jin, Xinhang Xu, Haotian Jin et al. | [Abstract](https://arxiv.org/abs/2609.15861) · [PDF](https://arxiv.org/pdf/2609.15861) |
 | 2026-08-28 | Contact-Guided Exploration for Non-Prehensile Locomanipulation with Multi-Critic RL | Simone Tolomei, Mayank Mittal, Franco Angelini, Manolo Garabini et al. | [Abstract](https://arxiv.org/abs/2608.28140) · [PDF](https://arxiv.org/pdf/2608.28140) |
 | 2026-08-03 | Hybrid Impedance-Admittance Control with Multi-Link Aerial Robot for Contact-Rich Surface Sliding Task | Zicheng Luo, Maolin Lei, Jinjie Li, Yicheng Chen et al. | [Abstract](https://arxiv.org/abs/2608.01800) · [PDF](https://arxiv.org/pdf/2608.01800) |
 | 2026-08-02 | DynamicManip: Enabling Dynamic Manipulation from a Single Static Demonstration | Haoran Liao, Pengyue Wang, Shuoyu Chen, Kehan Cheng et al. | [Abstract](https://arxiv.org/abs/2608.01452) · [PDF](https://arxiv.org/pdf/2608.01452) |
@@ -65,7 +75,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-29 | Grasp-Oriented Non-Prehensile Manipulation via Learning a Graspability Field | Licheng Zhong, Gim Hee Lee | [Abstract](https://arxiv.org/abs/2606.30474) · [PDF](https://arxiv.org/pdf/2606.30474) |
 | 2026-06-04 | TAM: Torque Adaptation Module for Robust Motion Transfer in Manipulation | Dongwon Son, Florian Shkurti, Jason Lee, Naman Shah et al. | [Abstract](https://arxiv.org/abs/2606.06218) · [PDF](https://arxiv.org/pdf/2606.06218) |
 | 2026-06-04 | Sample-efficient Low-level Motion Planning for Robotic Manipulation Tasks via Zero-shot Transfer Learning | Yuanzhi He, Victor Romero-Cano, José J. Patiño, Juan David Hernández et al. | [Abstract](https://arxiv.org/abs/2606.06041) · [PDF](https://arxiv.org/pdf/2606.06041) |
-| 2026-05-29 | Object-Informed Model Predictive Path Integral Control for Non-Prehensile Robot Manipulation | Nikola Raicevic, Bharath Raam Radhakrishnan, Chenbin Yu, Ki Myung Brian Lee et al. | [Abstract](https://arxiv.org/abs/2605.30778) · [PDF](https://arxiv.org/pdf/2605.30778) |
 | 2026-05-25 | Compliant Non-Prehensile Pushing Manipulation | Francesco Cufino, Mario Selvaggio, Fabio Amadio, Fabio Ruggiero | [Abstract](https://arxiv.org/abs/2605.25672) · [PDF](https://arxiv.org/pdf/2605.25672) |
 | 2026-04-14 | XRZero-G0: Pushing the Frontier of Dexterous Robotic Manipulation with Interfaces, Quality and Ratios | James Wang, Primo Pu, Zephyr Fung, Alex Wang et al. | [Abstract](https://arxiv.org/abs/2604.13001) · [PDF](https://arxiv.org/pdf/2604.13001) |
 | 2026-04-13 | Micro-Dexterity in Biological Micromanipulation: Embodiment, Perception, and Control | Kangyi Lu, Lan Wei, Zongcai Tan, Dandan Zhang | [Abstract](https://arxiv.org/abs/2604.11640) · [PDF](https://arxiv.org/pdf/2604.11640) |
@@ -140,9 +149,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-23 | DexDLO: Learning Goal-Conditioned Dexterous Policy for Dynamic Manipulation of Deformable Linear Objects | Sun Zhaole, Jihong Zhu, Robert B. Fisher | [Abstract](https://arxiv.org/abs/2312.15204) · [PDF](https://arxiv.org/pdf/2312.15204) |
 | 2023-11-08 | Versatile Airborne Ultrasonic NDT Technologies via Active Omni-Sliding with Over-Actuated Aerial Vehicles | Tong Hui, Florian Braun, Nicolas Scheidt, Marius Fehr et al. | [Abstract](https://arxiv.org/abs/2311.04662) · [PDF](https://arxiv.org/pdf/2311.04662) |
 | 2023-10-10 | Feel the Tension: Manipulation of Deformable Linear Objects in Environments with Fixtures using Force Information | Finn Süberkrüb, Rita Laezza, Yiannis Karayiannidis | [Abstract](https://arxiv.org/abs/2310.06424) · [PDF](https://arxiv.org/pdf/2310.06424) |
-| 2023-10-03 | How Physics and Background Attributes Impact Video Transformers in Robotic Manipulation: A Case Study on Planar Pushing | Shutong Jin, Ruiyu Wang, Muhammad Zahid, Florian T. Pokorny | [Abstract](https://arxiv.org/abs/2310.02044) · [PDF](https://arxiv.org/pdf/2310.02044) |
-| 2023-10-02 | Learning manipulation of steep granular slopes for fast Mini Rover turning | Deniz Kerimoglu, Daniel Soto, Malone Lincoln Hemsley, Joseph Brunner et al. | [Abstract](https://arxiv.org/abs/2310.01273) · [PDF](https://arxiv.org/pdf/2310.01273) |
-| 2023-09-25 | Unwieldy Object Delivery with Nonholonomic Mobile Base: A Stable Pushing Approach | Yujie Tang, Hai Zhu, Susan Potters, Martijn Wisse et al. | [Abstract](https://arxiv.org/abs/2309.14295) · [PDF](https://arxiv.org/pdf/2309.14295) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Multimodal%20Grounding&specialty=3D%20%26%20Spatial%20Grounding#research-workbench)
 
-> 4 conference papers · 33 recent arXiv papers
+> 5 conference papers · 35 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,19 +14,23 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (4)
+## Conference papers (5)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning | ICRA · Llm | [Paper](https://arxiv.org/abs/2506.15828) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696962) |
 | 2025 | IRef-VLA: A Benchmark for Interactive Referential Grounding with Imperfect Language in 3D Scenes | ICRA · Vla | [Paper](https://arxiv.org/abs/2503.17406) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127464) |
 | 2025 | SORT3D: Spatial Object-centric Reasoning Toolbox for Zero-Shot 3D Grounding Using Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2504.18684) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246145) |
 | 2024 | Tag Map: A Text-Based Map for Spatial Reasoning and Navigation with Large Language Models | CoRL · Large Language Model | [Paper](https://arxiv.org/abs/2409.15451) · [Publisher](https://doi.org/10.48550/arXiv.2409.15451) |
 | 2023 | SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Task Planning | CoRL · Large Language Model | [Paper](https://arxiv.org/pdf/2307.06135) · [Publisher](https://doi.org/10.48550/arXiv.2307.06135) |
 
-## Recent arXiv papers (33)
+## Recent arXiv papers (35)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-24 | Retrieve-to-Localize: Bridging Large Language Models and LiDAR Geometry for Spatial Grounding | Byounggun Park, Giyong Moon, Jusung Kim, Soonmin Hwang | [Abstract](https://arxiv.org/abs/2609.29835) · [PDF](https://arxiv.org/pdf/2609.29835) |
+| 2026-09-20 | Grounded Action Model: 3D Grounding as a Foundation for Robotics | Gehao Zhang, Weikai Huang, Shailesh Shailesh, Yiyan Peng et al. | [Abstract](https://arxiv.org/abs/2609.23863) · [PDF](https://arxiv.org/pdf/2609.23863) |
+| 2026-09-03 | GraFT: A Training-Free Framework for Spatial Reasoning in Multimodal Large Language Models via 3D Scene Graphs | Junqing Du, Fernando Ropero, Erkin Turkoz, Yanfeng Zhang et al. | [Abstract](https://arxiv.org/abs/2609.03892) · [PDF](https://arxiv.org/pdf/2609.03892) |
 | 2026-07-16 | SoftNav: Injecting 3D Scene Tokens into VLMs for Embodied Navigation | Yi Wu, Junjie An, Xiao Liu, Yiqun Zhou et al. | [Abstract](https://arxiv.org/abs/2607.14586) · [PDF](https://arxiv.org/pdf/2607.14586) |
 | 2026-06-06 | EmbodimentSemantic: A Spatial Scene-Graph Dataset and Benchmark for Vision-Language Models on Embodied Manipulation Trajectories | Hassan Jaber, Refinath S N, Luca Cagliero, Christopher E. Mower et al. | [Abstract](https://arxiv.org/abs/2607.00020) · [PDF](https://arxiv.org/pdf/2607.00020) |
 | 2026-04-16 | GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology | Shivendra Agrawal, Bradley Hayes | [Abstract](https://arxiv.org/abs/2604.15495) · [PDF](https://arxiv.org/pdf/2604.15495) |
@@ -59,7 +63,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-09-23 | Tag Map: A Text-Based Map for Spatial Reasoning and Navigation with Large Language Models | Mike Zhang, Kaixian Qu, Vaishakh Patil, Cesar Cadena et al. | [Abstract](https://arxiv.org/abs/2409.15451) · [PDF](https://arxiv.org/pdf/2409.15451) |
 | 2024-05-16 | When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models | Xianzheng Ma, Brandon Smart, Yash Bhalgat, Shuai Chen et al. | [Abstract](https://arxiv.org/abs/2405.10255) · [PDF](https://arxiv.org/pdf/2405.10255) |
 | 2023-12-02 | Exploring and Improving the Spatial Reasoning Abilities of Large Language Models | Manasi Sharma | [Abstract](https://arxiv.org/abs/2312.01054) · [PDF](https://arxiv.org/pdf/2312.01054) |
-| 2023-09-08 | SayNav: Grounding Large Language Models for Dynamic Planning to Navigation in New Environments | Abhinav Rajvanshi, Karan Sikka, Xiao Lin, Bhoram Lee et al. | [Abstract](https://arxiv.org/abs/2309.04077) · [PDF](https://arxiv.org/pdf/2309.04077) |
 
 ---
 

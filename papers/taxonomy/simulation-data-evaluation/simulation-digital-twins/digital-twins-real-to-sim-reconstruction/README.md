@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Digital%20Twins%20%26%20Real-to-sim%20Reconstruction#research-workbench)
 
-> 15 conference papers · 215 recent arXiv papers
+> 20 conference papers · 226 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,15 +14,20 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (15)
+## Conference papers (20)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Few-Shot Neural Differentiable Simulator: Real-to-Sim Rigid-Contact Modeling | ICRA · Simulator | [Paper](https://arxiv.org/abs/2603.06218) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695915) |
+| 2026 | GaussTwin: Unified Simulation and Correction with Gaussian Splatting for Robotic Digital Twins | ICRA · Simulation | [Paper](https://arxiv.org/abs/2603.05108) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696587) |
+| 2026 | RE3SIM: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation | ICRA · Simulation | [Paper](https://arxiv.org/abs/2502.08645) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695858) |
+| 2026 | Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions | ICRA · Simulation | [Paper](https://arxiv.org/abs/2511.04665) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696757) |
+| 2026 | Simple Models, Real Swimming: Digital Twins for Tendon-Driven Underwater Robots | ICRA · Digital Twin | [Paper](https://arxiv.org/abs/2602.23283) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697241) |
 | 2025 | Towards Autonomous Verification: Integrating Cognitive AI and Semantic Digital Twins in Medical Robotics | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127803) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127803) |
 | 2025 | Automatic Real-to-Sim-to-Real System through Iterative Interactions for Robust Robot Manipulation Policy Learning with Unseen Objects | IROS · Sim To Real | [Paper](https://doi.org/10.1109/IROS60139.2025.11247488) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247488) |
 | 2025 | Botany-Bot: Digital Twin Monitoring of Occluded and Underleaf Plant Structures with Gaussian Splats | IROS · Digital Twin | [Paper](https://arxiv.org/abs/2510.17783) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247474) |
 | 2025 | ReBot: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis | IROS · Sim To Real | [Paper](https://arxiv.org/abs/2503.14526) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246305) |
-| 2025 | SimLauncher: Launching Sample-Efficient Real-World Robotic Reinforcement Learning via Simulation Pre-Training | IROS · Simulation | [Paper](https://arxiv.org/abs/2507.04452) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246668) |
+| 2025 | SimLauncher: Launching Sample-Efficient Real-World Robotic Reinforcement Learning via Simulation Pre-Training | IROS · Simulation | [Paper](https://arxiv.org/pdf/2507.04452) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246668) |
 | 2025 | TwinTac: A Wide-Range, Highly Sensitive Tactile Sensor with Real-To-Sim Digital Twin Sensor Model | IROS · Digital Twin | [Paper](https://arxiv.org/abs/2509.10063) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247002) |
 | 2024 | Evaluating Real-World Robot Manipulation Policies in Simulation | CoRL · Simulation | [Paper](https://arxiv.org/abs/2405.05941) · [Publisher](https://doi.org/10.48550/arXiv.2405.05941) |
 | 2024 | TieBot: Learning to Knot a Tie from Visual Demonstration through a Real-to-Sim-to-Real Approach | CoRL · Sim To Real | [Paper](https://arxiv.org/abs/2407.03245) · [Publisher](https://doi.org/10.48550/arXiv.2407.03245) |
@@ -34,10 +39,27 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Digital Twin with Integrated Robot-Human/Environment Interaction Dynamics for an Industrial Mobile Manipulator | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/icra46639.2022.9812004) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812004) |
 | 2022 | Dynamic Modeling and Digital Twin of a Harmonic Drive Based Collaborative Robot Joint | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/icra46639.2022.9812458) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812458) |
 
-## Recent arXiv papers (215)
+## Recent arXiv papers (226)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-01 | TouchTherm: Building Multimodal Digital Twins of Objects for Tactile and Thermal Rendering | Yitao Zhang, Hong Ying, Haoran Guo, Xiaoying Zhou et al. | [Abstract](https://arxiv.org/abs/2610.01943) · [PDF](https://arxiv.org/pdf/2610.01943) |
+| 2026-10-01 | BLT*: Informed Belief Localization Trees for Uncertainty-Aware Planning on Digital Twins | Elliot Preston-Krebs, Abhishek Goudar, Timothy D. Barfoot | [Abstract](https://arxiv.org/abs/2610.01972) · [PDF](https://arxiv.org/pdf/2610.01972) |
+| 2026-09-30 | Plan-Conditioned Imitation for Robust Object Retrieval under Self-Occlusion in Dense Clutter | Kowndinya Boyalakuntla, Ajinkya Pawar, Abdeslam Boularias, Jingjin Yu | [Abstract](https://arxiv.org/abs/2609.38857) · [PDF](https://arxiv.org/pdf/2609.38857) |
+| 2026-09-30 | EmbodiRSI: Recursive Self-Improvement for Data-Efficient Robot Adaptation | Haoran Lang, Haotao Lu, Shiyu Sang, Haoyang Luo et al. | [Abstract](https://arxiv.org/abs/2609.38905) · [PDF](https://arxiv.org/pdf/2609.38905) |
+| 2026-09-29 | PneuTac: Tactile Manipulation with Soft Pneumatic Robots via Unified MPM-Gaussian Splatting Simulation | Shaohong Zhong, Marco Pontin, Joe Watson, Perla Maiolino et al. | [Abstract](https://arxiv.org/abs/2609.38418) · [PDF](https://arxiv.org/pdf/2609.38418) |
+| 2026-09-24 | GraspTwin: Zero-Shot Task-Oriented Grasp Optimization via a Digital Twin | Daniel J. Evans, Yinlong Dai, Simon Stepputtis, Dylan P. Losey | [Abstract](https://arxiv.org/abs/2609.30543) · [PDF](https://arxiv.org/pdf/2609.30543) |
+| 2026-09-21 | H2RBench: A Real-to-Sim Benchmark for Evaluating Human-to-Robot Transfer | Chuyang Xiao, Haotian Zhan, Sriram Krishna, Peilin Meng et al. | [Abstract](https://arxiv.org/abs/2609.24778) · [PDF](https://arxiv.org/pdf/2609.24778) |
+| 2026-09-18 | ForceTwin: Physics-informed Digital Twins for Robotic Manipulation from Instrumented Human Interaction | Tim Engelbracht, René Zurbrügg, Mayank Mittal, Marco Hutter et al. | [Abstract](https://arxiv.org/abs/2609.21751) · [PDF](https://arxiv.org/pdf/2609.21751) |
+| 2026-09-17 | DEXTERA: From a Single Image to Deployable Dexterous Manipulation via Real-to-Sim-to-Real | Jin Wu, Lianjie Yuan, Zeyan Sun, Yuanyuan Lei et al. | [Abstract](https://arxiv.org/abs/2609.21045) · [PDF](https://arxiv.org/pdf/2609.21045) |
+| 2026-09-16 | Function-Preserving Data Generation for Zero-Shot Real-to-Sim-to-Real Manipulation | Tianyi Xiang, Xupeng Xie, Jiahang Cao, Andrew F. Luo et al. | [Abstract](https://arxiv.org/abs/2609.18293) · [PDF](https://arxiv.org/pdf/2609.18293) |
+| 2026-09-14 | Goal-Oriented Communications for Physical AI: Design and Testbed | Shutong Chen, Wenkai Zhang, Adnan Aijaz, Miao Guo et al. | [Abstract](https://arxiv.org/abs/2609.15895) · [PDF](https://arxiv.org/pdf/2609.15895) |
+| 2026-09-14 | Geometry vs Structure: Graph-Based Diagnostics for LiDAR Point-Cloud Simulation Fidelity | Ghazal Farhani, Taufiq Rahman | [Abstract](https://arxiv.org/abs/2609.16378) · [PDF](https://arxiv.org/pdf/2609.16378) |
+| 2026-09-11 | High-Fidelity Multi-Body Simulator for Autonomous Racing | Nicola Musiu, Francesco Iacovacci, Fausto Lupo, Matteo Pini et al. | [Abstract](https://arxiv.org/abs/2609.12795) · [PDF](https://arxiv.org/pdf/2609.12795) |
+| 2026-09-09 | RealSimLoop: Online Real-to-Sim Adaptation via Differentiable Reduced-Order Simulation with Vision Feedback | Zhihao Cen, Chuhua Xian, Hailin Sun, Yuliang Liufu et al. | [Abstract](https://arxiv.org/abs/2609.09828) · [PDF](https://arxiv.org/pdf/2609.09828) |
+| 2026-09-08 | Agentic AI-enabled Semantic Commissioning of a Cognitive Digital Twin for Reconfigurable Manufacturing | Yangyang Liu, Xun Xu, Jan Polzer | [Abstract](https://arxiv.org/abs/2609.09503) · [PDF](https://arxiv.org/pdf/2609.09503) |
+| 2026-09-03 | A Low-Cost, Open Platform for End-to-End Autonomous Driving on a Miniature Ackermann Vehicle | Gustavo Claudio Karl Couto, Eric Aislan Antonelo, Gabriel George Zipperer | [Abstract](https://arxiv.org/abs/2609.04147) · [PDF](https://arxiv.org/pdf/2609.04147) |
+| 2026-08-29 | Toward Trustworthy Robot-Assisted Sliding Palpation for Shallow Vessel Localisation with a Calibrated Digital Twin | Piotr Blaszyk, Wen Fan, Kaizhong Deng, Daniel Elson et al. | [Abstract](https://arxiv.org/abs/2608.29396) · [PDF](https://arxiv.org/pdf/2608.29396) |
 | 2026-08-12 | Operational digital twin clinics enable task-based evaluation of embodied AI | Xinyuan Wu, Jingrao Zhang, Mengdi Xu, Henry K. Chu et al. | [Abstract](https://arxiv.org/abs/2608.21416) · [PDF](https://arxiv.org/pdf/2608.21416) |
 | 2026-08-07 | R2S-EGO: Dual-Proxy Refinement for Sparse-Capture Real-to-Sim | Shuai Fang, Xin Deng, Yuchen Kang, Zhenjiang Li et al. | [Abstract](https://arxiv.org/abs/2608.06827) · [PDF](https://arxiv.org/pdf/2608.06827) |
 | 2026-08-05 | RORA: Realistic Object Reconstruction with Articulation | Hyesung Lee, Youngseon Lee, Kyutae Lee, Dongjun Lee et al. | [Abstract](https://arxiv.org/abs/2608.04842) · [PDF](https://arxiv.org/pdf/2608.04842) |
@@ -78,7 +100,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-04-07 | CoEnv: Driving Embodied Multi-Agent Collaboration via Compositional Environment | Li Kang, Yutao Fan, Rui Li, Heng Zhou et al. | [Abstract](https://arxiv.org/abs/2604.05484) · [PDF](https://arxiv.org/pdf/2604.05484) |
 | 2026-03-25 | SLAT-Phys: Fast Material Property Field Prediction from Structured 3D Latents | Rocktim Jyoti Das, Dinesh Manocha | [Abstract](https://arxiv.org/abs/2603.23973) · [PDF](https://arxiv.org/pdf/2603.23973) |
 | 2026-03-21 | Current state of the multi-agent multi-view experimental and digital twin rendezvous (MMEDR-Autonomous) framework | Logan Banker, Michael Wozniak, Mohanad Alameer, Smriti Nandan Paul et al. | [Abstract](https://arxiv.org/abs/2603.20575) · [PDF](https://arxiv.org/pdf/2603.20575) |
-| 2026-03-18 | Multi-Source Human-in-the-Loop Digital Twin Testbed for Connected and Autonomous Vehicles in Mixed Traffic Flow | Jianghong Dong, Chunying Yang, Mengchi Cai, Chaoyi Chen et al. | [Abstract](https://arxiv.org/abs/2603.17751) · [PDF](https://arxiv.org/pdf/2603.17751) |
+| 2026-03-18 | Multisource human-in-the-loop digital twin testbed for connected and autonomous vehicles in mixed traffic flow | Jianghong Dong, Chunying Yang, Mengchi Cai, Chaoyi Chen et al. | [Abstract](https://arxiv.org/abs/2603.17751) · [PDF](https://arxiv.org/pdf/2603.17751) |
 | 2026-03-18 | From Optimizable to Interactable: Mixed Digital Twin-Empowered Testing of Vehicle-Infrastructure Cooperation Systems | Jianghong Dong, Chunying Yang, Mengchi Cai, Chaoyi Chen et al. | [Abstract](https://arxiv.org/abs/2603.17497) · [PDF](https://arxiv.org/pdf/2603.17497) |
 | 2026-03-17 | Efficient and Reliable Teleoperation through Real-to-Sim-to-Real Shared Autonomy | Shuo Sha, Yixuan Wang, Binghao Huang, Antonio Loquercio et al. | [Abstract](https://arxiv.org/abs/2603.17016) · [PDF](https://arxiv.org/pdf/2603.17016) |
 | 2026-03-14 | URDF-Anything+: End-to-End Generation for Simulation-Ready Articulated Assets | Zhuangzhe Wu, Yue Xin, Chengkai Hou, Minghao Chen et al. | [Abstract](https://arxiv.org/abs/2603.14010) · [PDF](https://arxiv.org/pdf/2603.14010) |
@@ -176,6 +198,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-03-15 | CHOrD: Generation of Collision-Free, House-Scale, and Organized Digital Twins for 3D Indoor Scenes with Controllable Floor Plans and Optimal Layouts | Chong Su, Yingbin Fu, Zheyuan Hu, Jing Yang et al. | [Abstract](https://arxiv.org/abs/2503.11958) · [PDF](https://arxiv.org/pdf/2503.11958) |
 | 2025-03-14 | Adaptive Torque Control of Exoskeletons under Spasticity Conditions via Reinforcement Learning | Andrés Chavarrías, David Rodriguez-Cianca, Pablo Lanillos | [Abstract](https://arxiv.org/abs/2503.11433) · [PDF](https://arxiv.org/pdf/2503.11433) |
 | 2025-03-13 | GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction | Jianheng Liu, Yunfei Wan, Bowen Wang, Chunran Zheng et al. | [Abstract](https://arxiv.org/abs/2503.10170) · [PDF](https://arxiv.org/pdf/2503.10170) |
+| 2025-03-13 | An Real-Sim-Real (RSR) Loop Framework for Generalizable Robotic Policy Transfer | Yuxuan Xu, Shiyu Wang, Jinhao Huang, Wenhao Zhao et al. | [Abstract](https://arxiv.org/abs/2503.10118) · [PDF](https://arxiv.org/pdf/2503.10118) |
 | 2025-02-14 | Video2Policy: Scaling up Manipulation Tasks in Simulation through Internet Videos | Weirui Ye, Fangchen Liu, Zheng Ding, Yang Gao et al. | [Abstract](https://arxiv.org/abs/2502.09886) · [PDF](https://arxiv.org/pdf/2502.09886) |
 | 2025-01-29 | Digital Twin Synchronization: Bridging the Sim-RL Agent to a Real-Time Robotic Additive Manufacturing Control | Matsive Ali, Sandesh Giri, Sen Liu, Qin Yang | [Abstract](https://arxiv.org/abs/2501.18016) · [PDF](https://arxiv.org/pdf/2501.18016) |
 | 2025-01-12 | Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation | Ziyang Xie, Zhizheng Liu, Zhenghao Peng, Wayne Wu et al. | [Abstract](https://arxiv.org/abs/2501.06693) · [PDF](https://arxiv.org/pdf/2501.06693) |
@@ -246,13 +269,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-24 | Digital Twin Technology Enabled Proactive Safety Application for Vulnerable Road Users: A Real-World Case Study | Erik Rua, Kazi Hasan Shakib, Sagar Dasgupta, Mizanur Rahman et al. | [Abstract](https://arxiv.org/abs/2312.10041) · [PDF](https://arxiv.org/pdf/2312.10041) |
 | 2023-11-04 | Digital Twins for Human-Robot Collaboration: A Future Perspective | Mohamad Shaaban, Alessandro Carfì, Fulvio Mastrogiovanni | [Abstract](https://arxiv.org/abs/2311.02421) · [PDF](https://arxiv.org/pdf/2311.02421) |
 | 2023-10-17 | Field Robot for High-throughput and High-resolution 3D Plant Phenotyping | Felix Esser, Radu Alexandru Rosu, André Cornelißen, Lasse Klingbeil et al. | [Abstract](https://arxiv.org/abs/2310.11516) · [PDF](https://arxiv.org/pdf/2310.11516) |
-| 2023-09-27 | EDGAR: An Autonomous Driving Research Platform -- From Feature Development to Real-World Application | Phillip Karle, Tobias Betz, Marcin Bosk, Felix Fent et al. | [Abstract](https://arxiv.org/abs/2309.15492) · [PDF](https://arxiv.org/pdf/2309.15492) |
-| 2023-09-24 | Sitting on a gold mine: the story of the process industry's automatic formation of a digital twin | Mohammad Azangoo, Seppo Sierla, Valeriy Vyatkin | [Abstract](https://arxiv.org/abs/2310.13697) · [PDF](https://arxiv.org/pdf/2310.13697) |
-| 2023-09-21 | POLAR-Sim: Augmenting NASA's POLAR Dataset for Data-Driven Lunar Perception and Rover Simulation | Bo-Hsun Chen, Peter Negrut, Thomas Liang, Nevindu Batagoda et al. | [Abstract](https://arxiv.org/abs/2309.12397) · [PDF](https://arxiv.org/pdf/2309.12397) |
-| 2023-09-19 | Augmenting Tactile Simulators with Real-like and Zero-Shot Capabilities | Osher Azulay, Alon Mizrahi, Nimrod Curtis, Avishai Sintov | [Abstract](https://arxiv.org/abs/2309.10409) · [PDF](https://arxiv.org/pdf/2309.10409) |
-| 2023-09-18 | Multi-Agent Deep Reinforcement Learning for Cooperative and Competitive Autonomous Vehicles using AutoDRIVE Ecosystem | Tanmay Vilas Samak, Chinmay Vilas Samak, Venkat Krovi | [Abstract](https://arxiv.org/abs/2309.10007) · [PDF](https://arxiv.org/pdf/2309.10007) |
-| 2023-09-18 | Comparing an android head with its digital twin regarding the dynamic expression of emotions | Amelie Kassner, Christian Becker-Asano | [Abstract](https://arxiv.org/abs/2309.10146) · [PDF](https://arxiv.org/pdf/2309.10146) |
-| 2023-09-12 | Digital Twin System for Home Service Robot Based on Motion Simulation | Zhengsong Jiang, Guohui Tian, Yongcheng Cui, Tiantian Liu et al. | [Abstract](https://arxiv.org/abs/2309.05993) · [PDF](https://arxiv.org/pdf/2309.05993) |
 
 ---
 

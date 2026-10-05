@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Physics%20Engines%20%26%20Robot%20Simulators#research-workbench)
 
-> 12 conference papers · 165 recent arXiv papers
+> 14 conference papers · 174 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,13 +14,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (12)
+## Conference papers (14)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | ROOM: A Physics-Based Continuum Robot Simulator for Photorealistic Medical Datasets Generation | ICRA · Simulator | [Paper](https://arxiv.org/abs/2509.13177) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696113) |
+| 2026 | Unreal Robotics Lab: A High-Fidelity Robotics Simulator with Advanced Physics and Rendering | ICRA · Simulator | [Paper](https://arxiv.org/abs/2504.14135) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696537) |
 | 2025 | MetaUrban: An Embodied AI Simulation Platform for Urban Micromobility | ICLR · Urban simulation | [Paper](https://proceedings.iclr.cc/paper_files/paper/2025/file/ad63cdaffe7c95c5f9c12276cdd893f9-Paper-Conference.pdf) · [Official](https://proceedings.iclr.cc/paper_files/paper/2025/hash/ad63cdaffe7c95c5f9c12276cdd893f9-Abstract-Conference.html) |
 | 2025 | Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics | ICRA · Simulation | [Paper](https://arxiv.org/abs/2504.05330) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127627) |
-| 2025 | Accurate Simulation and Parameter Identification of Deformable Linear Objects using Discrete Elastic Rods in Generalized Coordinates | IROS · Simulation | [Paper](https://arxiv.org/abs/2310.00911) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247160) |
+| 2025 | Accurate Simulation and Parameter Identification of Deformable Linear Objects using Discrete Elastic Rods in Generalized Coordinates | IROS · Simulation | [Paper](https://arxiv.org/pdf/2310.00911) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247160) |
 | 2025 | Heterogeneous Multi-Agent Learning in Isaac Lab: Scalable Simulation for Robotic Collaboration | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11247098) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247098) |
 | 2024 | UBSoft: A Simulation Platform for Robotic Skill Learning in Unbounded Soft Environments | CoRL · Simulation | [Paper](https://arxiv.org/abs/2411.12711) · [Publisher](https://doi.org/10.48550/arXiv.2411.12711) |
 | 2024 | Demonstrating HumanTHOR: A Simulation Platform and Benchmark for Human-Robot Collaboration in a Shared Workspace | RSS · Simulation | [Paper](https://arxiv.org/abs/2406.06498) · [Publisher](https://doi.org/10.48550/arXiv.2406.06498) |
@@ -31,14 +33,31 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Scalable Simulation and Demonstration of Jumping Piezoelectric 2-D Soft Robots | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2202.13521) · [Publisher](https://doi.org/10.1109/ICRA46639.2022.9811927) |
 | 2022 | Gazebo Fluids: SPH-based simulation of fluid interaction with articulated rigid body dynamics | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982036) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982036) |
 
-## Recent arXiv papers (165)
+## Recent arXiv papers (174)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-02 | I2CD: Direct Image-to-Convex Decomposition for Simulation-Ready Collision Geometry | Qian Wang, Liam Merz Hoffmeister, Brian Scassellati, Daniel Rakita | [Abstract](https://arxiv.org/abs/2610.03453) · [PDF](https://arxiv.org/pdf/2610.03453) |
+| 2026-10-01 | H-SPAR: Hydrodynamic-aware Simulation for Particle Transport and Autonomous Robots | Navid Zarrabi, Nariman Yousefi, Sajad Saeedi | [Abstract](https://arxiv.org/abs/2610.01985) · [PDF](https://arxiv.org/pdf/2610.01985) |
+| 2026-10-01 | Awomo-SimDataEngine: Agentic Simulation-ReadyWorld Generation | Awomo-PhysicalRSI Team, Danjiao Ma, Enhui Ma, Haohan Liu et al. | [Abstract](https://arxiv.org/abs/2610.02274) · [PDF](https://arxiv.org/pdf/2610.02274) |
+| 2026-09-28 | RoboCompiler: Graph-Native Compilation of Closed-Chain Robots for Consistent Modeling, Control, and Simulation | Mehdi Heydari Shahna, Joongheon Kim, Jouni Mattila | [Abstract](https://arxiv.org/abs/2609.35717) · [PDF](https://arxiv.org/pdf/2609.35717) |
+| 2026-09-24 | Markerless Multi-Modal Autonomous Robotic Inspection of Large Space Structures | Juan De Dios Alfaro, Arturo Ríos, David Rodríguez-Martínez, Carlos Pérez-del-Pulgar | [Abstract](https://arxiv.org/abs/2609.29644) · [PDF](https://arxiv.org/pdf/2609.29644) |
+| 2026-09-23 | X2Real: an eXtensive simulation benchmark for real-world generalist policies | Lian Ruan, Jade Yang, Sherphylan Gao, Felix Gao et al. | [Abstract](https://arxiv.org/abs/2609.27449) · [PDF](https://arxiv.org/pdf/2609.27449) |
+| 2026-09-22 | AgriGen: Large-Scale Scene Generation Framework for Photorealistic Agricultural Robotics Simulation | Utkarsh Bajpai, Serge Tleiji, Cédric Pradalier, Stéphanie Aravecchia | [Abstract](https://arxiv.org/abs/2609.25725) · [PDF](https://arxiv.org/pdf/2609.25725) |
+| 2026-09-21 | Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI | Wenkang Qin, Yukun Zhou, Noah Shen, Jisong Cai et al. | [Abstract](https://arxiv.org/abs/2609.24815) · [PDF](https://arxiv.org/pdf/2609.24815) |
+| 2026-09-20 | FinsSim: A Reality-Aligned Integrated Simulation Platform for Underwater Robot Learning | Yu Zhang, Yuanmingqing Song, Xiangyun Rao, Pangkit Fong et al. | [Abstract](https://arxiv.org/abs/2609.23943) · [PDF](https://arxiv.org/pdf/2609.23943) |
+| 2026-09-20 | Decentralized Safe Path Following for Multiple Quadrotors on Intersecting Paths with Theoretical Guarantees | Hamza Tariq, Adeel Akhtar | [Abstract](https://arxiv.org/abs/2610.00208) · [PDF](https://arxiv.org/pdf/2610.00208) |
+| 2026-09-18 | CRISP: Contact-Rich Robotic Simulation Platform with Extensive Geometries and Contact Solvers | Somang Lee, Sunkyung Park, Jinhee Yun, Seoki An et al. | [Abstract](https://arxiv.org/abs/2609.21761) · [PDF](https://arxiv.org/pdf/2609.21761) |
+| 2026-09-18 | Beyond Kinematics: Benchmarking Simulation Fidelity for Muscle-Driven Imitation Learning | Ayah G. Ahmad, Claire E. Borden, Maegan Tucker | [Abstract](https://arxiv.org/abs/2609.21909) · [PDF](https://arxiv.org/pdf/2609.21909) |
+| 2026-09-12 | How Well Do Pseudo-Rigid Body Models Capture Real Plants? In-Field Validation of Simulated Blueberry Canes | Hannah Kolano, Chelse VanAtter, Wei Yang, Cindy Grimm et al. | [Abstract](https://arxiv.org/abs/2609.13627) · [PDF](https://arxiv.org/pdf/2609.13627) |
+| 2026-09-09 | MuJoCable: Reduced-Order Surface-Routed Cable Transmission for Tendon-Driven Robots | Yi Zhang, Qi Shao, Yicong Lin, Muyuan Ma et al. | [Abstract](https://arxiv.org/abs/2609.09612) · [PDF](https://arxiv.org/pdf/2609.09612) |
+| 2026-09-07 | mjorbit: A Simulation Framework for Space Robotics | John Z. Zhang, Joris Verhagen, Fausto Vega, Patrick McKeen et al. | [Abstract](https://arxiv.org/abs/2609.08010) · [PDF](https://arxiv.org/pdf/2609.08010) |
+| 2026-09-03 | GzDRL: Reproducible and Scalable Deep Reinforcement Learning with Gazebo | Amal Dev Haridevan, Junjie Kang, Jinjun Shan | [Abstract](https://arxiv.org/abs/2609.13243) · [PDF](https://arxiv.org/pdf/2609.13243) |
+| 2026-08-29 | Agri-Sim: Agricultural Simulation Platform for Embodied Intelligence Evaluation in Greenhouse Robotics | Shuhan Shi, Zhenfeng Xue, Minghao Mei, Chao Zheng et al. | [Abstract](https://arxiv.org/abs/2608.29100) · [PDF](https://arxiv.org/pdf/2608.29100) |
 | 2026-08-24 | RoboRacer Arena: Scaling High-Fidelity Autonomous Racing in Isaac Sim | Mihaela-Larisa Clement, Agnes Poks, Ezio Bartocci | [Abstract](https://arxiv.org/abs/2608.23040) · [PDF](https://arxiv.org/pdf/2608.23040) |
 | 2026-08-13 | Semantic Radiance Fields as Simulators for Spatial Reasoning in Real-World Scenes | Nico Heider, Michał Jan Włodarczyk, Katarzyna Wasielewska-Michniewska, Przemysław Hołda et al. | [Abstract](https://arxiv.org/abs/2608.13095) · [PDF](https://arxiv.org/pdf/2608.13095) |
 | 2026-08-13 | HumanoidVLN: A Physics-Grounded Simulator and Benchmark for Vision-Language Navigation Across Diverse Humanoid Embodiments | Quan-Dung Pham, Anh Dao, The-Anh Nguyen, Minh Nguyen-Dinh et al. | [Abstract](https://arxiv.org/abs/2608.12860) · [PDF](https://arxiv.org/pdf/2608.12860) |
-| 2026-08-12 | D3D-GEN: Robot-Aware Domain-Grounded Interactive 3D World Generation for Social Robotics | Anh Duc Do, Volodymyr Scherbyna, Tai Duc Nguyen, Spaarsh Thakkar et al. | [Abstract](https://arxiv.org/abs/2608.11876) · [PDF](https://arxiv.org/pdf/2608.11876) |
+| 2026-08-12 | D3D-GEN: Robot-Aware Domain-Grounded Interactive 3D World Generation for Social Robotics | Anh Duc Do, Volodymyr Shcherbyna, Tai Duc Nguyen, Spaarsh Thakkar et al. | [Abstract](https://arxiv.org/abs/2608.11876) · [PDF](https://arxiv.org/pdf/2608.11876) |
 | 2026-08-09 | EsaacSim: A Multimodal Event Camera Add-on for NVIDIA Isaac Sim | Ignacio Bugueno-Cordova, Malte Kuhlmann, Nicolás Navarro-Guerrero, Miguel Campusano et al. | [Abstract](https://arxiv.org/abs/2608.08522) · [PDF](https://arxiv.org/pdf/2608.08522) |
 | 2026-08-06 | IcFuzz: Fuzzing Isaac Sim with Semantic Stage Guidance and Multi-level Mutation | Zhixiang Chen, Zhuangbin Chen, Ruoxi Jia, Zeqin Liao et al. | [Abstract](https://arxiv.org/abs/2608.06088) · [PDF](https://arxiv.org/pdf/2608.06088) |
 | 2026-08-06 | GAUGE: A Measurement-Grounded Benchmark for Physical Fidelity in Simulation Engines and Video World Models | Shuai Wang, Yaxin Feng, Xuekun Jiang, Shihan Tian et al. | [Abstract](https://arxiv.org/abs/2608.05948) · [PDF](https://arxiv.org/pdf/2608.05948) |
@@ -49,7 +68,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-17 | Learning Reach-Avoid Task with Reinforcement Learning: Vectorized Simulation and Benchmark | Jonas Weihing, Shahram Eivazi | [Abstract](https://arxiv.org/abs/2607.15935) · [PDF](https://arxiv.org/pdf/2607.15935) |
 | 2026-07-17 | Learning a System-Level Surrogate for Hydraulic Excavators: A Simulation-to-Real LSTM Approach | Shuai Wang, Shen Wang, Qiang Wang, Muguo Du et al. | [Abstract](https://arxiv.org/abs/2607.15656) · [PDF](https://arxiv.org/pdf/2607.15656) |
 | 2026-07-09 | Programming-by-Example for Batch-Editing Collision Meshes in 3D Software | Gengyang Xu, Dongwei Xiao, Hengcheng Zhu, Yiteng Peng et al. | [Abstract](https://arxiv.org/abs/2607.08804) · [PDF](https://arxiv.org/pdf/2607.08804) |
-| 2026-07-09 | EVIS: A Physics-Grounded Event Camera Plugin for NVIDIA Isaac Sim | Linli Shi, Ruijun Zhang, Ziyun Wang | [Abstract](https://arxiv.org/abs/2607.08098) · [PDF](https://arxiv.org/pdf/2607.08098) |
+| 2026-07-09 | EVIS: Real-Time Event Camera Simulation with Multimodal Supervision in NVIDIA Isaac Sim | Linli Shi, Ruijun Zhang, Ziyun Wang | [Abstract](https://arxiv.org/abs/2607.08098) · [PDF](https://arxiv.org/pdf/2607.08098) |
 | 2026-07-07 | SPEAR: A Simulator for Photorealistic Embodied AI Research | Mike Roberts, Renhan Wang, Rushikesh Zawar, Rachith Dey-Prakash et al. | [Abstract](https://arxiv.org/abs/2607.06701) · [PDF](https://arxiv.org/pdf/2607.06701) |
 | 2026-07-03 | LOTUSim: Multi-Domain Simulator for Marine Robotics | Cédric Buche, Juliette Grosset, Hélène Lechêne, Marie Dubromel et al. | [Abstract](https://arxiv.org/abs/2607.03072) · [PDF](https://arxiv.org/pdf/2607.03072) |
 | 2026-06-30 | OopsieVerse: A Safety Benchmark with Damage-Aware Simulation for Robot Manipulation | Arnav Balaji, Arpit Bahety, Sriniket Ambatipudi, Daniel Lam et al. | [Abstract](https://arxiv.org/abs/2606.31993) · [PDF](https://arxiv.org/pdf/2606.31993) |
@@ -61,7 +80,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-18 | TaCauchy: An Extensible FEM Framework for Vision-Based Tactile Simulation | Hengfei Zhao, Yifan Xie, Junhao Gong, Yue Sun et al. | [Abstract](https://arxiv.org/abs/2606.20426) · [PDF](https://arxiv.org/pdf/2606.20426) |
 | 2026-06-17 | Simulating Robotic Locomotion in Sand: Resistive Force Theory in an Open-Source Physics Engine | Ryan Walker Brown, Laura K. Treers, Kathryn A. Daltorio | [Abstract](https://arxiv.org/abs/2606.19504) · [PDF](https://arxiv.org/pdf/2606.19504) |
 | 2026-06-11 | Pipette: An Embodied Simulation Platform, Benchmark, and Data-Efficient Augmentation Framework for Wet-Lab Robotics | Zhe Liu, Huanbo Jin, Zhaohui Du, Zhe Wang et al. | [Abstract](https://arxiv.org/abs/2606.12936) · [PDF](https://arxiv.org/pdf/2606.12936) |
-| 2026-06-07 | IR-SIM: A Lightweight Skill-Native Simulator for Navigation, Learning, and Benchmarking | Ruihua Han, Shuai Wang, Chengyang Li, Rui Gao et al. | [Abstract](https://arxiv.org/abs/2606.08729) · [PDF](https://arxiv.org/pdf/2606.08729) |
+| 2026-06-07 | IR-SIM: A Lightweight Declarative Simulator for Navigation Learning and Benchmarking | Ruihua Han, Shuai Wang, Chengyang Li, Rui Gao et al. | [Abstract](https://arxiv.org/abs/2606.08729) · [PDF](https://arxiv.org/pdf/2606.08729) |
 | 2026-06-06 | MuJoCo-Drones-Gym: A GPU-Accelerated Multi-Drone Simulator for Control and Reinforcement Learning | Manan Tayal | [Abstract](https://arxiv.org/abs/2606.08039) · [PDF](https://arxiv.org/pdf/2606.08039) |
 | 2026-06-04 | Towards Realistic 3D Sonar Simulation | Youssef Attia, Davide Costa, Francesco Wanderlingh, Filippo Campagnaro et al. | [Abstract](https://arxiv.org/abs/2606.06130) · [PDF](https://arxiv.org/pdf/2606.06130) |
 | 2026-06-02 | NVIDIA Isaac Sim: Enabling Scalable, GPU-Accelerated Simulation for Robotics | Sicong Gao, Maurice Pagnucco, Tomasz Bednarz, Yang Song | [Abstract](https://arxiv.org/abs/2606.03551) · [PDF](https://arxiv.org/pdf/2606.03551) |
@@ -77,10 +96,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-04-05 | DC-Ada: Reward-Only Decentralized Sensor Adaptation for Heterogeneous Multi-Robot Teams | Saad Alqithami | [Abstract](https://arxiv.org/abs/2604.03905) · [PDF](https://arxiv.org/pdf/2604.03905) |
 | 2026-03-24 | AirSimAG: A High-Fidelity Simulation Platform for Air-Ground Collaborative Robotics | Yangjie Cui, Xin Dong, Boyang Gao, Jinwu Xiang et al. | [Abstract](https://arxiv.org/abs/2603.23079) · [PDF](https://arxiv.org/pdf/2603.23079) |
 | 2026-03-24 | AeroScene: Progressive Scene Synthesis for Aerial Robotics | Nghia Vu, Tuong Do, Dzung Tran, Binh X. Nguyen et al. | [Abstract](https://arxiv.org/abs/2603.23224) · [PDF](https://arxiv.org/pdf/2603.23224) |
-| 2026-03-17 | Onboard MuJoCo-based Model Predictive Control for Shipboard Crane with Double-Pendulum Sway Suppression | Oscar Pang, Lisa Coiffard, Paul Templier, Luke Beddow et al. | [Abstract](https://arxiv.org/abs/2603.16407) · [PDF](https://arxiv.org/pdf/2603.16407) |
+| 2026-03-17 | Sampling-Based MuJoCo MPC for Double-Pendulum Sway Suppression on a Shipboard Crane | Oscar Pang, Lisa Coiffard, Paul Templier, Luke Beddow et al. | [Abstract](https://arxiv.org/abs/2603.16407) · [PDF](https://arxiv.org/pdf/2603.16407) |
 | 2026-03-17 | BrickSim: A Physics-Based Simulator for Manipulating Interlocking Brick Assemblies | Haowei Wen, Ruixuan Liu, Weiyi Piao, Siyu Li et al. | [Abstract](https://arxiv.org/abs/2603.16853) · [PDF](https://arxiv.org/pdf/2603.16853) |
 | 2026-03-16 | Dual Quaternion Based Contact Modeling for Fast and Smooth Collision Recovery of Quadrotors | Valentin Gaucher, Wenlong Zhang | [Abstract](https://arxiv.org/abs/2603.14698) · [PDF](https://arxiv.org/pdf/2603.14698) |
-| 2026-03-15 | SmallSatSim: A High-Fidelity Simulation and Training Toolkit for Microgravity Robotic Close Proximity Operations | David Schwartz, Alexander Hansson, Sabrina Bodmer, David Sternberg et al. | [Abstract](https://arxiv.org/abs/2603.14598) · [PDF](https://arxiv.org/pdf/2603.14598) |
 | 2026-03-15 | Physically Accurate Rigid-Body Dynamics in Particle-Based Simulation | Ava Abderezaei, Nataliya Nechyporenko, Joseph Miceli, Gilberto Briscoe-Martinez et al. | [Abstract](https://arxiv.org/abs/2603.14634) · [PDF](https://arxiv.org/pdf/2603.14634) |
 | 2026-03-12 | ComFree-Sim: A GPU-Parallelized Analytical Contact Physics Engine for Scalable Contact-Rich Robotics Simulation and Control | Chetan Borse, Zhixian Xie, Wei-Cheng Huang, Wanxin Jin | [Abstract](https://arxiv.org/abs/2603.12185) · [PDF](https://arxiv.org/pdf/2603.12185) |
 | 2026-03-06 | VertiAdaptor: Online Kinodynamics Adaptation for Vertically Challenging Terrain | Tong Xu, Chenhui Pan, Aniket Datar, Xuesu Xiao | [Abstract](https://arxiv.org/abs/2603.06887) · [PDF](https://arxiv.org/pdf/2603.06887) |
@@ -193,13 +211,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-11 | RANS: Highly-Parallelised Simulator for Reinforcement Learning based Autonomous Navigating Spacecrafts | Matteo El-Hariry, Antoine Richard, Miguel Olivares-Mendez | [Abstract](https://arxiv.org/abs/2310.07393) · [PDF](https://arxiv.org/pdf/2310.07393) |
 | 2023-10-11 | ASV Station Keeping under Wind Disturbances using Neural Network Simulation Error Minimization Model Predictive Control | Jalil Chavez-Galaviz, Jianwen Li, Ajinkya Chaudhary, Nina Mahmoudian | [Abstract](https://arxiv.org/abs/2310.07892) · [PDF](https://arxiv.org/pdf/2310.07892) |
 | 2023-10-05 | RadaRays: Real-time Simulation of Rotating FMCW Radar for Mobile Robotics via Hardware-accelerated Ray Tracing | Alexander Mock, Martin Magnusson, Joachim Hertzberg | [Abstract](https://arxiv.org/abs/2310.03505) · [PDF](https://arxiv.org/pdf/2310.03505) |
-| 2023-10-02 | Accurate Simulation and Parameter Identification of Deformable Linear Objects using Discrete Elastic Rods in Generalized Coordinates | Qi Jing Chen, Timothy Bretl, Quang-Cuong Pham | [Abstract](https://arxiv.org/abs/2310.00911) · [PDF](https://arxiv.org/pdf/2310.00911) |
-| 2023-09-26 | On The Effects of The Variations In Network Characteristics In Cyber Physical Systems | Géza Szabó, Sándor Rácz, József Pető, Rafael Roque Aschoff | [Abstract](https://arxiv.org/abs/2309.14687) · [PDF](https://arxiv.org/pdf/2309.14687) |
-| 2023-09-22 | OmniDrones: An Efficient and Flexible Platform for Reinforcement Learning in Drone Control | Botian Xu, Feng Gao, Chao Yu, Ruize Zhang et al. | [Abstract](https://arxiv.org/abs/2309.12825) · [PDF](https://arxiv.org/pdf/2309.12825) |
-| 2023-09-19 | Guarantees on Robot System Performance Using Stochastic Simulation Rollouts | Joseph A. Vincent, Aaron O. Feldman, Mac Schwager | [Abstract](https://arxiv.org/abs/2309.10874) · [PDF](https://arxiv.org/pdf/2309.10874) |
-| 2023-09-18 | Simulation of Sensor Spoofing Attacks on Unmanned Aerial Vehicles Using the Gazebo Simulator | Irdin Pekaric, David Arnold, Michael Felderer | [Abstract](https://arxiv.org/abs/2309.09648) · [PDF](https://arxiv.org/pdf/2309.09648) |
-| 2023-09-16 | OmniLRS: A Photorealistic Simulator for Lunar Robotics | Antoine Richard, Junnosuke Kamohara, Kentaro Uno, Shreya Santra et al. | [Abstract](https://arxiv.org/abs/2309.08997) · [PDF](https://arxiv.org/pdf/2309.08997) |
-| 2023-09-09 | Jade: A Differentiable Physics Engine for Articulated Rigid Bodies with Intersection-Free Frictional Contact | Gang Yang, Siyuan Luo, Lin Shao | [Abstract](https://arxiv.org/abs/2309.04710) · [PDF](https://arxiv.org/pdf/2309.04710) |
 
 ---
 

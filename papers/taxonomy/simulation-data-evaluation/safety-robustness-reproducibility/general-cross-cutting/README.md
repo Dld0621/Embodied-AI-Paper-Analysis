@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Safety%2C%20Robustness%20%26%20Reproducibility&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 1 conference papers · 29 recent arXiv papers
+> 1 conference papers · 30 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,14 +20,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | Failure Forecasting Boosts Robustness of Sim2Real Rhythmic Insertion Policies | IROS · Sim2Real | [Paper](https://arxiv.org/abs/2507.06519) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247676) |
 
-## Recent arXiv papers (29)
+## Recent arXiv papers (30)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-24 | Combining Evasive and Braking Reactions for Safety Reference Models in Automated Vehicles | Riccardo Donà, Konstantinos Mattas, Biagio Ciuffo | [Abstract](https://arxiv.org/abs/2609.29738) · [PDF](https://arxiv.org/pdf/2609.29738) |
+| 2026-09-17 | Safety-Critical Scenarios Emerge from Initial Scenes | Yin Wu, Jiarong Wei, Carl Esselborn, Shubham Phoolari et al. | [Abstract](https://arxiv.org/abs/2609.20103) · [PDF](https://arxiv.org/pdf/2609.20103) |
+| 2026-09-10 | Using Automated Vehicles Operational Data to Confirm Safety and Anticipate Threats | Riccardo Donà, Espedito Rusciano, Germana Trentadue, Anastasios Tsakalidis et al. | [Abstract](https://arxiv.org/abs/2609.11549) · [PDF](https://arxiv.org/pdf/2609.11549) |
 | 2026-07-16 | Interventional Causal Circuits for Safe Robot Action Testing and Failure Recovery | Naren Vasantakumaar, Tom Schierenbeck, Michael Beetz | [Abstract](https://arxiv.org/abs/2607.14826) · [PDF](https://arxiv.org/pdf/2607.14826) |
 | 2026-07-07 | OmniSCS: Omni Safety-Critical Scenario Synthesis for Autonomous Driving via a Fully Editable Driving World | Xiaoyun Dong, Qian Xu, Yang Lu, Yang Lou et al. | [Abstract](https://arxiv.org/abs/2607.09764) · [PDF](https://arxiv.org/pdf/2607.09764) |
+| 2026-07-01 | Counterfactual Closing-Acceleration Risk: An Anticipatory Surrogate Safety Measure for the Blind Region of Car-Following | Eni Solomon Laughter | [Abstract](https://arxiv.org/abs/2609.00370) · [PDF](https://arxiv.org/pdf/2609.00370) |
 | 2026-06-02 | VLESA: Vision-Language Embodied Safety Agent for Human Activity Monitoring | Hanjiang Hu, Yiyuan Pan, Jiaxing Li, Xusheng Luo et al. | [Abstract](https://arxiv.org/abs/2606.03954) · [PDF](https://arxiv.org/pdf/2606.03954) |
-| 2026-05-21 | Understanding Multimodal Failure in Action-Chunking Behavioral Cloning | Lorenzo Mazza, Massimiliano Datres, Ariel Rodriguez, Sebastian Bodenstedt et al. | [Abstract](https://arxiv.org/abs/2605.22493) · [PDF](https://arxiv.org/pdf/2605.22493) |
 | 2026-05-17 | Generating Realistic Safety-Critical Scenarios for Vehicle-Pedestrian Interactions | Qingwen Pu, Kun Xie, Yuan Zhu, Guocong Zhai | [Abstract](https://arxiv.org/abs/2605.17229) · [PDF](https://arxiv.org/pdf/2605.17229) |
 | 2026-05-06 | Conditional Flow-VAE for Safety-Critical Traffic Scenario Generation | Zimu Gong, Brian Zhaoning Zhang, Chris Zhang, Kelvin Wong et al. | [Abstract](https://arxiv.org/abs/2605.04366) · [PDF](https://arxiv.org/pdf/2605.04366) |
 | 2025-11-13 | Attentive Feature Aggregation or: How Policies Learn to Stop Worrying about Robustness and Attend to Task-Relevant Visual Cues | Nikolaos Tsagkas, Andreas Sochopoulos, Duolikun Danier, Sethu Vijayakumar et al. | [Abstract](https://arxiv.org/abs/2511.10762) · [PDF](https://arxiv.org/pdf/2511.10762) |
@@ -51,8 +54,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-07-05 | JaywalkerVR: A VR System for Collecting Safety-Critical Pedestrian-Vehicle Interactions | Kenta Mukoya, Erica Weng, Rohan Choudhury, Kris Kitani | [Abstract](https://arxiv.org/abs/2407.04843) · [PDF](https://arxiv.org/pdf/2407.04843) |
 | 2024-03-12 | RobotCycle: Assessing Cycling Safety in Urban Environments | Efimia Panagiotaki, Tyler Reinmund, Stephan Mouton, Luke Pitt et al. | [Abstract](https://arxiv.org/abs/2403.07789) · [PDF](https://arxiv.org/pdf/2403.07789) |
 | 2024-03-04 | Offline Goal-Conditioned Reinforcement Learning for Safety-Critical Tasks with Recovery Policy | Chenyang Cao, Zichen Yan, Renhao Lu, Junbo Tan et al. | [Abstract](https://arxiv.org/abs/2403.01734) · [PDF](https://arxiv.org/pdf/2403.01734) |
-| 2023-09-21 | SAVME: Efficient Safety Validation for Autonomous Systems Using Meta-Learning | Marc R. Schlichting, Nina V. Boord, Anthony L. Corso, Mykel J. Kochenderfer | [Abstract](https://arxiv.org/abs/2309.12474) · [PDF](https://arxiv.org/pdf/2309.12474) |
-| 2023-09-01 | Suicidal Pedestrian: Generation of Safety-Critical Scenarios for Autonomous Vehicles | Yuhang Yang, Kalle Kujanpaa, Amin Babadi, Joni Pajarinen et al. | [Abstract](https://arxiv.org/abs/2309.00249) · [PDF](https://arxiv.org/pdf/2309.00249) |
 
 ---
 

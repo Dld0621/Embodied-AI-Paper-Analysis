@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Training%20Infrastructure%20%26%20Tools&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 1 conference papers · 46 recent arXiv papers
+> 1 conference papers · 48 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | ORBiT: Optimizing Robot-Assisted Bite Transfer Leveraging a Real2Sim2Real Framework | IROS · Sim2Real | [Paper](https://doi.org/10.1109/IROS60139.2025.11247185) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247185) |
 
-## Recent arXiv papers (46)
+## Recent arXiv papers (48)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-18 | Latent Policy Steering: An Efficient and Flexible Framework for Cross-Embodiment Transfer | Yiqi Wang, Mrinal Verghese, Jeff Schneider | [Abstract](https://arxiv.org/abs/2609.22521) · [PDF](https://arxiv.org/pdf/2609.22521) |
+| 2026-09-15 | DriveMCP: An Agentic AI framework for Advanced Driver Assistance System | Farzad Nadiri, Mehdi Cina, Ahmad B. Rad | [Abstract](https://arxiv.org/abs/2609.17247) · [PDF](https://arxiv.org/pdf/2609.17247) |
+| 2026-09-07 | Conflict-Predictive Variable Horizons in Multi-Drone Distributed Model Predictive Control | Linda Mümken, Michael Schwung, Stefan Lier, Andreas Schwung | [Abstract](https://arxiv.org/abs/2609.13270) · [PDF](https://arxiv.org/pdf/2609.13270) |
 | 2026-06-07 | HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning | Zechu Li, Yufeng Jin, Xiaoyang Liu, Puze Liu et al. | [Abstract](https://arxiv.org/abs/2606.08610) · [PDF](https://arxiv.org/pdf/2606.08610) |
 | 2026-06-02 | GPU-Parallel Multi-Task Reinforcement Learning with Demonstration Guided Policy Optimization | Rui Zhang, Qiwei Wu, Zhengyu Zhang, Tao Li et al. | [Abstract](https://arxiv.org/abs/2606.03335) · [PDF](https://arxiv.org/pdf/2606.03335) |
 | 2026-05-28 | Structured interactions improve distributed coordination beyond model scaling in a real-world multi-robot system | Junping Wang, Zhizhong Zhang, Yongqiang Tang, Geng Zheng et al. | [Abstract](https://arxiv.org/abs/2605.30383) · [PDF](https://arxiv.org/pdf/2605.30383) |
@@ -69,7 +72,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-30 | Physics-Informed Multi-Agent Reinforcement Learning for Distributed Multi-Robot Problems | Eduardo Sebastian, Thai Duong, Nikolay Atanasov, Eduardo Montijano et al. | [Abstract](https://arxiv.org/abs/2401.00212) · [PDF](https://arxiv.org/pdf/2401.00212) |
 | 2023-11-28 | HD Maps are Lane Detection Generalizers: A Novel Generative Framework for Single-Source Domain Generalization | Daeun Lee, Minhyeok Heo, Jiwon Kim | [Abstract](https://arxiv.org/abs/2311.16589) · [PDF](https://arxiv.org/pdf/2311.16589) |
 | 2023-11-06 | A Reactive performance-based Shared Control Framework for Assistive Robotic Manipulators | Francisco J. Ruiz-Ruiz, Cristina Urdiales, Manuel Fernández-Carmona, Jesús M. Gómez-de-Gabriel | [Abstract](https://arxiv.org/abs/2311.03232) · [PDF](https://arxiv.org/pdf/2311.03232) |
-| 2023-09-22 | H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps | Haoyi Niu, Tianying Ji, Bingqi Liu, Haocheng Zhao et al. | [Abstract](https://arxiv.org/abs/2309.12716) · [PDF](https://arxiv.org/pdf/2309.12716) |
 
 ---
 

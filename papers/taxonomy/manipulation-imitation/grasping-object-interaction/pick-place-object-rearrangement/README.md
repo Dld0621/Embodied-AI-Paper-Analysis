@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Grasping%20%26%20Object%20Interaction&specialty=Pick-place%20%26%20Object%20Rearrangement#research-workbench)
 
-> 59 conference papers · 166 recent arXiv papers
+> 62 conference papers · 161 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (59)
+## Conference papers (62)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Differentiable Optimization-Based Modular Planning Framework for Pick-and-Place with Regrasp | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696037) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696037) |
+| 2026 | MO-SeGMan: A Rearrangement Planning Framework for Multi-Objective Sequential and Guided Manipulation in Constrained Environments | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695987) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695987) |
+| 2026 | Supportive Relationships-aware Hierarchical Reinforcement Learning for Efficient Ex-situ Object Rearrangement | ICRA · Object Rearrangement | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696422) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696422) |
 | 2025 | IntelliRMS: A Robotic Manipulation System for Domain-Specific Tasks Using Vision and Language Foundational Models | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127298) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127298) |
 | 2025 | ORLA*: Mobile Manipulator-Based Object Rearrangement with Lazy A* | ICRA · Object Rearrangement | [Paper](https://arxiv.org/abs/2309.13707) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127569) |
 | 2025 | Planning for Tabletop Object Rearrangement | ICRA · Object Rearrangement | [Paper](https://arxiv.org/abs/2411.10899) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127905) |
@@ -46,7 +49,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Toward Optimal Tabletop Rearrangement with Multiple Manipulation Primitives | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2310.00167) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610565) |
 | 2024 | Avoiding Object Damage in Robotic Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801408) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801408) |
 | 2024 | Multi-Stage Monte Carlo Tree Search for Non-Monotone Object Rearrangement Planning in Narrow Confined Environments | IROS · Object Rearrangement | [Paper](https://arxiv.org/abs/2305.17175) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801607) |
-| 2024 | Precise Pick-and-Place using Score-Based Diffusion Networks | IROS · Pick And Place | [Paper](https://arxiv.org/abs/2409.09725) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801772) |
+| 2024 | Precise Pick-and-Place using Score-Based Diffusion Networks | IROS · Pick And Place | [Paper](https://arxiv.org/pdf/2409.09725) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801772) |
 | 2024 | Seg2Grasp: A Robust Modular Suction Grasping in Bin Picking | IROS · Grasp | [Paper](https://arxiv.org/pdf/2607.17757) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801644) |
 | 2024 | Time-Optimal TCP and Robot Base Placement for Pick-and-Place Tasks in Highly Constrained Environments | IROS · Pick And Place | [Paper](https://doi.org/10.1109/IROS58592.2024.10801373) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801373) |
 | 2023 | KITE: Keypoint-Conditioned Policies for Semantic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2306.16605) · [Publisher](https://doi.org/10.48550/arXiv.2306.16605) |
@@ -78,10 +81,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Rearrangement-Based Manipulation via Kinodynamic Planning and Dynamic Planning Horizons | IROS · Manipulation | [Paper](https://arxiv.org/abs/2208.02312) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981599) |
 | 2022 | Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement | IROS · Object Rearrangement | [Paper](https://arxiv.org/pdf/2207.08078) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981715) |
 
-## Recent arXiv papers (166)
+## Recent arXiv papers (161)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-01 | Is Success All You Need? Investigating the Impact of Input Perturbations on VLA Behaviour in Tabletop Manipulation Tasks | Sophie Higham, Riccardo Andrea Izzo, Matteo Matteucci, Alessandro Suglia | [Abstract](https://arxiv.org/abs/2610.01351) · [PDF](https://arxiv.org/pdf/2610.01351) |
+| 2026-09-25 | Evaluating the Impact of Adaptive Extended Reality on Human-Robot Interaction Across the Reality-Virtuality Continuum | Carl Tornberg, Alicia Torck, Lotfi El Hafi, Tadahiro Taniguchi | [Abstract](https://arxiv.org/abs/2609.31138) · [PDF](https://arxiv.org/pdf/2609.31138) |
+| 2026-09-22 | MultiPush: Learning to Rearrange with Teams of Car-Like Pushers | Jeeho Ahn, Christoforos Mavrogiannis | [Abstract](https://arxiv.org/abs/2609.27005) · [PDF](https://arxiv.org/pdf/2609.27005) |
+| 2026-09-20 | G6D: Geometric Learning-Free RGB-D 6D Pose Solver for Robotic Manipulation | Yixuan Liang, William Chen, Yunan Wang, Jizhou Yan et al. | [Abstract](https://arxiv.org/abs/2609.23566) · [PDF](https://arxiv.org/pdf/2609.23566) |
+| 2026-09-17 | SkipVLA: Skipping VLA Steps with Classical Planning for Fast Robot Manipulation | Kaivalya Agrawal, Md Ashiqur Rahman, Raymond A. Yeh, Zachary Kingston | [Abstract](https://arxiv.org/abs/2609.20648) · [PDF](https://arxiv.org/pdf/2609.20648) |
+| 2026-09-16 | Fetch My Beer: Synthetic-to-real Hierarchical Policy for Smooth Pick-and-place | Yingyue Li, Chenyangguang Zhang, Ruida Zhang, Bowen Fu et al. | [Abstract](https://arxiv.org/abs/2609.18119) · [PDF](https://arxiv.org/pdf/2609.18119) |
+| 2026-09-14 | Task-Distribution-Aware Counterweight Synthesis and Constrained Co-Design for Serial Manipulators | Mohammad Abbadi | [Abstract](https://arxiv.org/abs/2609.15082) · [PDF](https://arxiv.org/pdf/2609.15082) |
+| 2026-09-11 | From Transportation to Manipulation: Enabling Grasping in Magnetic Robotics | Lara Bergmann, Noah Greis, Cedric Grothues, Lisa-Marie Weigelt et al. | [Abstract](https://arxiv.org/abs/2609.12883) · [PDF](https://arxiv.org/pdf/2609.12883) |
 | 2026-08-28 | Picking Bins Empty: A Hierarchical Hybrid Approach with Online Self-Learning of Grasp Points for Reliable Industrial Bin-Picking | Florian Töper, Samarth Kishor Yelvande, Jan Niklas Ewertz, Rudolph Triebel et al. | [Abstract](https://arxiv.org/abs/2608.28175) · [PDF](https://arxiv.org/pdf/2608.28175) |
 | 2026-08-27 | Embodied Scene Rearrangement Planning | Canzhi Chen, Zan Wang, Siqi Zhu, Qi Wu et al. | [Abstract](https://arxiv.org/abs/2608.27371) · [PDF](https://arxiv.org/pdf/2608.27371) |
 | 2026-08-24 | InstructMove: A Text-Indispensable Benchmark for Instruction-Following Manipulation | Mengao Zhao, Ziang Li, Chaodong Huang, Mengchen Ma et al. | [Abstract](https://arxiv.org/abs/2608.22990) · [PDF](https://arxiv.org/pdf/2608.22990) |
@@ -90,13 +101,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-20 | Seg2Grasp: A Robust Modular Suction Grasping in Bin Picking | Hye-Jung Yoon, Juno Kim, Yesol Park, Jun-Ki Lee et al. | [Abstract](https://arxiv.org/abs/2607.17757) · [PDF](https://arxiv.org/pdf/2607.17757) |
 | 2026-07-14 | xperception -- Making Robotic Grasping Easier | Matteo Bortolon, Andrea Caraffa, Alice Fasoli, Fabio Poiesi | [Abstract](https://arxiv.org/abs/2607.16312) · [PDF](https://arxiv.org/pdf/2607.16312) |
 | 2026-07-10 | PhysV2A: Reachability-Gated and Semantic-Mask-Constrained Feasibility Completion for Video-to-Robot Manipulation | Haohui Huang, Junda Duan, Tao Teng, Chenguang Yang | [Abstract](https://arxiv.org/abs/2607.09365) · [PDF](https://arxiv.org/pdf/2607.09365) |
-| 2026-07-10 | Implicit-Behavior Coordination from Unlabeled Sub-Task Demonstrations for Rearrangement Tasks | Ahmed Shokry, Usama Ahmed Siddiquie, Sicong Pan, Maren Bennewitz | [Abstract](https://arxiv.org/abs/2607.09234) · [PDF](https://arxiv.org/pdf/2607.09234) |
+| 2026-07-10 | Implicit Behavior Coordination from Sub-Task Demonstrations by Exploiting Overlap-Induced Multimodality | Ahmed Shokry, Usama Ahmed Siddiquie, Sicong Pan, Maren Bennewitz | [Abstract](https://arxiv.org/abs/2607.09234) · [PDF](https://arxiv.org/pdf/2607.09234) |
 | 2026-07-08 | Monocular Vision Based Control Framework for Grasping | Shail Jadav, Dongheui Lee | [Abstract](https://arxiv.org/abs/2607.07897) · [PDF](https://arxiv.org/pdf/2607.07897) |
 | 2026-06-27 | CubifyGS: Object-Centric 3D Gaussian Splatting for Lifelong Dynamic Scene Maintenance | Bohan Ren, Dianyi Yang, Shiyang Liu, Yu Gao et al. | [Abstract](https://arxiv.org/abs/2606.28720) · [PDF](https://arxiv.org/pdf/2606.28720) |
 | 2026-06-19 | VQActFlow: Vector-Quantized Action Mode Steering for Multi-Task Robot Manipulation | Zhigen Zhao, Mark Leggiero, Yipu Chen, Haoran Liu et al. | [Abstract](https://arxiv.org/abs/2606.21600) · [PDF](https://arxiv.org/pdf/2606.21600) |
 | 2026-06-15 | Abstention-Aware Personalized Object Rearrangement via Uncertainty-Guided LLM Assistance | Sam Collin, Ali Ayub | [Abstract](https://arxiv.org/abs/2606.17309) · [PDF](https://arxiv.org/pdf/2606.17309) |
 | 2026-06-11 | PhysVLA: Towards Physically-Grounded VLA for Embodied Robotic Manipulation | Namai Chandra, Shriram Damodaran, Lin Wang | [Abstract](https://arxiv.org/abs/2606.13886) · [PDF](https://arxiv.org/pdf/2606.13886) |
-| 2026-06-04 | On the Hardness of Optimal Motion on Trees | Tzvika Geft | [Abstract](https://arxiv.org/abs/2606.06686) · [PDF](https://arxiv.org/pdf/2606.06686) |
+| 2026-06-04 | Hardness of Multi-Agent Path Finding on Trees: A Unified Approach | Tzvika Geft | [Abstract](https://arxiv.org/abs/2606.06686) · [PDF](https://arxiv.org/pdf/2606.06686) |
 | 2026-06-04 | A Conversational Framework for Human-Robot Collaborative Manipulation with Distributed Generative AI models | Arash Ghasemzadeh Kakroudi, Roel Pieters | [Abstract](https://arxiv.org/abs/2606.06061) · [PDF](https://arxiv.org/pdf/2606.06061) |
 | 2026-05-18 | Virtues of Ordered Chaos: Planning with Topple Actions in Tabletop Stack Rearrangement | Hao Lu, Rahul Shome | [Abstract](https://arxiv.org/abs/2605.17815) · [PDF](https://arxiv.org/pdf/2605.17815) |
 | 2026-05-13 | Manipulation Planning for Construction Activities with Repetitive Tasks | Wangyi Liu, Dasharadhan Mahalingam, Fanru Gao, Ci-Jyun Liang et al. | [Abstract](https://arxiv.org/abs/2605.13754) · [PDF](https://arxiv.org/pdf/2605.13754) |
@@ -111,11 +122,10 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-23 | GIFT: Generalizing Intent for Flexible Test-Time Rewards | Fin Amin, Nathaniel Dennler, Andreea Bobu | [Abstract](https://arxiv.org/abs/2603.22574) · [PDF](https://arxiv.org/pdf/2603.22574) |
 | 2026-03-18 | Consistency-Driven Dual LSTM Models for Kinematic Control of a Wearable Soft Robotic Arm | Xingyu Chen, Yi Xiong, Li Wen | [Abstract](https://arxiv.org/abs/2603.17672) · [PDF](https://arxiv.org/pdf/2603.17672) |
 | 2026-03-13 | Beyond Dense Futures: World Models as Structured Planners for Robotic Manipulation | Minghao Jin, Mozheng Liao, Mingfei Han, Zhihui Li et al. | [Abstract](https://arxiv.org/abs/2603.12553) · [PDF](https://arxiv.org/pdf/2603.12553) |
-| 2026-03-13 | Altered Thoughts, Altered Actions: Probing Chain-of-Thought Vulnerabilities in VLA Robotic Manipulation | Tuan Duong Trinh, Naveed Akhtar, Basim Azam | [Abstract](https://arxiv.org/abs/2603.12717) · [PDF](https://arxiv.org/pdf/2603.12717) |
 | 2026-03-11 | Vision-Based Hand Shadowing for Robotic Manipulation via Inverse Kinematics | Hendrik Chiche, Antoine Jamme, Trevor Rigoberto Martinez, Gabriel Gomes | [Abstract](https://arxiv.org/abs/2603.11383) · [PDF](https://arxiv.org/pdf/2603.11383) |
 | 2026-03-10 | TiPToP: A Modular Open-Vocabulary Robot Manipulation System That Plans | William Shen, Nishanth Kumar, Sahit Chintalapudi, Ryan Lindeborg et al. | [Abstract](https://arxiv.org/abs/2603.09971) · [PDF](https://arxiv.org/pdf/2603.09971) |
 | 2026-03-09 | Impact of Different Failures on a Robot's Perceived Reliability | Andrew Violette, Zhanxin Wu, Haruki Nishimura, Masha Itkina et al. | [Abstract](https://arxiv.org/abs/2603.08821) · [PDF](https://arxiv.org/pdf/2603.08821) |
-| 2026-02-20 | EgoPush: Learning End-to-End Egocentric Multi-Object Rearrangement for Mobile Robots | Boyuan An, Zhexiong Wang, Yipeng Wang, Jiaqi Li et al. | [Abstract](https://arxiv.org/abs/2602.18071) · [PDF](https://arxiv.org/pdf/2602.18071) |
+| 2026-02-20 | EgoPush: Egocentric Multi-Object Rearrangement for Mobile Robots via Constrained Teacher Observability | Boyuan An, Zhexiong Wang, Yipeng Wang, Jiaqi Li et al. | [Abstract](https://arxiv.org/abs/2602.18071) · [PDF](https://arxiv.org/pdf/2602.18071) |
 | 2026-02-14 | Push-Placement: A Hybrid Approach Integrating Prehensile and Non-Prehensile Manipulation for Object Rearrangement | Majid Sadeghinejad, Arman Barghi, Hamed Hosseini, Mehdi Tale Masouleh et al. | [Abstract](https://arxiv.org/abs/2602.13849) · [PDF](https://arxiv.org/pdf/2602.13849) |
 | 2026-02-10 | Instruct2Act: From Human Instruction to Actions Sequencing and Execution via Robot Action Network for Robotic Manipulation | Archit Sharma, Dharmendra Sharma, John Rebeiro, Peeyush Thakur et al. | [Abstract](https://arxiv.org/abs/2602.09940) · [PDF](https://arxiv.org/pdf/2602.09940) |
 | 2026-02-04 | Can We Redesign a Shoulder Exosuit to Enhance Comfort and Usability Without Losing Assistance? | Roberto Ferroni, Daniele Filippo Mauceri, Jacopo Carpaneto, Alessandra Pedrocchi et al. | [Abstract](https://arxiv.org/abs/2602.04625) · [PDF](https://arxiv.org/pdf/2602.04625) |
@@ -133,7 +143,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-10-29 | WaveVerif: Acoustic Side-Channel based Verification of Robotic Workflows | Zeynep Yasemin Erdogan, Shishir Nagaraja, Chuadhry Mujeeb Ahmed, Ryan Shah | [Abstract](https://arxiv.org/abs/2510.25960) · [PDF](https://arxiv.org/pdf/2510.25960) |
 | 2025-10-27 | Optimal Dimensioning of Elastic-Link Manipulators regarding Lifetime Estimation | Klaus Zauner, Hubert Gattringer, Andreas Mueller | [Abstract](https://arxiv.org/abs/2510.23234) · [PDF](https://arxiv.org/pdf/2510.23234) |
 | 2025-10-23 | Simultaneous Stiffness and Trajectory Optimization for Energy Minimization of Pick-and-Place Tasks of SEA-Actuated Parallel Kinematic Manipulators | Thomas Kordik, Hubert Gattringer, Andreas Mueller | [Abstract](https://arxiv.org/abs/2510.20490) · [PDF](https://arxiv.org/pdf/2510.20490) |
-| 2025-10-23 | Dual Control Reference Generation for Optimal Pick-and-Place Execution under Payload Uncertainty | Victor Vantilborgh, Hrishikesh Sathyanarayan, Guillaume Crevecoeur, Ian Abraham et al. | [Abstract](https://arxiv.org/abs/2510.20483) · [PDF](https://arxiv.org/pdf/2510.20483) |
 | 2025-10-16 | A Robust Placeability Metric for Model-Free Unified Pick-and-Place Reasoning | Benno Wingender, Nils Dengler, Rohit Menon, Sicong Pan et al. | [Abstract](https://arxiv.org/abs/2510.14584) · [PDF](https://arxiv.org/pdf/2510.14584) |
 | 2025-10-10 | Placeit! A Framework for Learning Robot Object Placement Skills | Amina Ferrad, Johann Huber, François Hélénon, Julien Gleyze et al. | [Abstract](https://arxiv.org/abs/2510.09267) · [PDF](https://arxiv.org/pdf/2510.09267) |
 | 2025-10-08 | RAISE: A self-driving laboratory for interfacial property formulation discovery | Mohammad Nazeri, Sheldon Mei, Jeffrey Watchorn, Alex Zhang et al. | [Abstract](https://arxiv.org/abs/2510.06546) · [PDF](https://arxiv.org/pdf/2510.06546) |
@@ -237,17 +246,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-04 | Working Backwards: Learning to Place by Picking | Oliver Limoyo, Abhisek Konar, Trevor Ablett, Jonathan Kelly et al. | [Abstract](https://arxiv.org/abs/2312.02352) · [PDF](https://arxiv.org/pdf/2312.02352) |
 | 2023-12-03 | LVDiffusor: Distilling Functional Rearrangement Priors from Large Models into Diffusor | Yiming Zeng, Mingdong Wu, Long Yang, Jiyao Zhang et al. | [Abstract](https://arxiv.org/abs/2312.01474) · [PDF](https://arxiv.org/pdf/2312.01474) |
 | 2023-11-02 | M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place | Wentao Yuan, Adithyavairavan Murali, Arsalan Mousavian, Dieter Fox | [Abstract](https://arxiv.org/abs/2311.00926) · [PDF](https://arxiv.org/pdf/2311.00926) |
-| 2023-09-30 | ConSOR: A Context-Aware Semantic Object Rearrangement Framework for Partially Arranged Scenes | Kartik Ramachandruni, Max Zuo, Sonia Chernova | [Abstract](https://arxiv.org/abs/2310.00371) · [PDF](https://arxiv.org/pdf/2310.00371) |
-| 2023-09-29 | Toward Optimal Tabletop Rearrangement with Multiple Manipulation Primitives | Baichuan Huang, Xujia Zhang, Jingjin Yu | [Abstract](https://arxiv.org/abs/2310.00167) · [PDF](https://arxiv.org/pdf/2310.00167) |
-| 2023-09-28 | D$^3$Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Rearrangement | Yixuan Wang, Mingtong Zhang, Zhuoran Li, Tarik Kelestemur et al. | [Abstract](https://arxiv.org/abs/2309.16118) · [PDF](https://arxiv.org/pdf/2309.16118) |
-| 2023-09-27 | LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic Object Rearrangement | Haonan Chang, Kai Gao, Kowndinya Boyalakuntla, Alex Lee et al. | [Abstract](https://arxiv.org/abs/2309.15821) · [PDF](https://arxiv.org/pdf/2309.15821) |
-| 2023-09-27 | Adversarial Object Rearrangement in Constrained Environments with Heterogeneous Graph Neural Networks | Xibai Lou, Houjian Yu, Ross Worobel, Yang Yang et al. | [Abstract](https://arxiv.org/abs/2309.15378) · [PDF](https://arxiv.org/pdf/2309.15378) |
-| 2023-09-26 | Multi-Modal Planning on Regrasping for Stable Manipulation | Jiaming Hu, Zhao Tang, Henrik I. Christensen | [Abstract](https://arxiv.org/abs/2309.15283) · [PDF](https://arxiv.org/pdf/2309.15283) |
-| 2023-09-24 | ORLA*: Mobile Manipulator-Based Object Rearrangement with Lazy A Star | Kai Gao, Zhaxizhuoma, Yan Ding, Shiqi Zhang et al. | [Abstract](https://arxiv.org/abs/2309.13707) · [PDF](https://arxiv.org/pdf/2309.13707) |
-| 2023-09-21 | SG-Bot: Object Rearrangement via Coarse-to-Fine Robotic Imagination on Scene Graphs | Guangyao Zhai, Xiaoni Cai, Dianye Huang, Yan Di et al. | [Abstract](https://arxiv.org/abs/2309.12188) · [PDF](https://arxiv.org/pdf/2309.12188) |
-| 2023-09-16 | Efficient Object Rearrangement via Multi-view Fusion | Dehao Huang, Chao Tang, Hong Zhang | [Abstract](https://arxiv.org/abs/2309.08994) · [PDF](https://arxiv.org/pdf/2309.08994) |
-| 2023-09-05 | Structural Concept Learning via Graph Attention for Multi-Level Rearrangement Planning | Manav Kulshrestha, Ahmed H. Qureshi | [Abstract](https://arxiv.org/abs/2309.02547) · [PDF](https://arxiv.org/pdf/2309.02547) |
-| 2023-09-01 | Deep Segmented DMP Networks for Learning Discontinuous Motions | Edgar Anarossi, Hirotaka Tahara, Naoto Komeno, Takamitsu Matsubara | [Abstract](https://arxiv.org/abs/2309.00320) · [PDF](https://arxiv.org/pdf/2309.00320) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Active%20%26%20Multiview%20Perception&specialty=Active%20Perception%20%26%20Information%20Gathering#research-workbench)
 
-> 8 conference papers · 25 recent arXiv papers
+> 9 conference papers · 33 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,12 +14,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (8)
+## Conference papers (9)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2026 | SaPaVe: Towards Active Perception and Manipulation in Vision-Language Action Models for Robotics | CVPR · Active perception | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_SaPaVe_Towards_Active_Perception_and_Manipulation_in_Vision-Language_Action_Models_CVPR_2026_paper.html) · [Official](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_SaPaVe_Towards_Active_Perception_and_Manipulation_in_Vision-Language_Action_Models_CVPR_2026_paper.html) |
-| 2025 | An Active Perception Game for Robust Information Gathering | ICRA · Active Perception | [Paper](https://arxiv.org/abs/2404.00769) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128798) |
+| 2026 | APREBot: Active Perception System for Reflexive Evasion Robot | ICRA · Active Perception | [Paper](https://arxiv.org/abs/2509.24733) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696438) |
+| 2025 | An Active Perception Game for Robust Information Gathering | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2404.00769) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128798) |
 | 2025 | Heterogeneous Sensor Fusion and Active Perception for Transparent Object Reconstruction with a PDM2 Sensor and a Camera | ICRA · Active Perception | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128748) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128748) |
 | 2025 | Learning to Double Guess: An Active Perception Approach for Estimating the Center of Mass of Arbitrary Objects | ICRA · Active Perception | [Paper](https://arxiv.org/abs/2502.02663) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127607) |
 | 2024 | Perceptual Factors for Environmental Modeling in Robotic Active Perception | ICRA · Active Perception | [Paper](https://arxiv.org/abs/2309.10620) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611380) |
@@ -27,16 +28,26 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Decentralised Active Perception in Continuous Action Spaces for the Coordinated Escort Problem | ICRA · Active Perception | [Paper](https://arxiv.org/abs/2305.01869) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161026) |
 | 2023 | Learning Continuous Control Policies for Information-Theoretic Active Perception | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2209.12427) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160455) |
 
-## Recent arXiv papers (25)
+## Recent arXiv papers (33)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-27 | DeltaSeek: Toward Active Perception in Evolving Construction Environments | Sanjay Acharjee, Md Nazmus Sakib | [Abstract](https://arxiv.org/abs/2609.33836) · [PDF](https://arxiv.org/pdf/2609.33836) |
+| 2026-09-26 | Vision-Language Agents for Active Perception in Optics Laboratories | Ryan Lopez, Sachin Vaidya, Seou Choi, Serena Landers et al. | [Abstract](https://arxiv.org/abs/2609.32918) · [PDF](https://arxiv.org/pdf/2609.32918) |
+| 2026-09-22 | Robust Active-Perception Control for Global-State-Free Aerial-Ground Cooperation | Mingxuan Zhang, Jiajun Yu, Baozhe Zhang, Pengxiang Zhou et al. | [Abstract](https://arxiv.org/abs/2609.25898) · [PDF](https://arxiv.org/pdf/2609.25898) |
+| 2026-09-17 | VABench: Measuring Embodied Spatial Intelligence through Visual Demonstrations, Active Perception, and Metric Control | Zhongbo Zhang, Jiayi Jin, Yifan Wang, Zaibin Zhang et al. | [Abstract](https://arxiv.org/abs/2609.19554) · [PDF](https://arxiv.org/pdf/2609.19554) |
+| 2026-09-16 | HAP: A Hand-Driven Active Perception Framework for Egocentric Head Motion Prediction | Yunji Feng, Junyi Ma, Guanzhong Sun, Chenyang Xu et al. | [Abstract](https://arxiv.org/abs/2609.18548) · [PDF](https://arxiv.org/pdf/2609.18548) |
+| 2026-09-16 | ActiveScale: Scaling Active Perception for Robots across Model, Data, and Hardware | Shuai Zhou, Kaisheng Pang, Wenxuan Song, Wenjie Zhang et al. | [Abstract](https://arxiv.org/abs/2609.18514) · [PDF](https://arxiv.org/pdf/2609.18514) |
+| 2026-09-11 | Before the Tipping Point: Force-Guided Active Perception for Shape-Agnostic Estimation of 3D Centers of Mass | Steven M. Hyland, Jing Xiao, Cagdas D. Onal | [Abstract](https://arxiv.org/abs/2609.12894) · [PDF](https://arxiv.org/pdf/2609.12894) |
+| 2026-09-11 | Autonomous Precision Milling of Biological Structures via Generic Anatomical Priors and Active Boundary Perception | Enduo Zhao, Xiaofeng Lin, Yifan Wang, Yuhan Song et al. | [Abstract](https://arxiv.org/abs/2609.12530) · [PDF](https://arxiv.org/pdf/2609.12530) |
+| 2026-08-31 | CIG-RL: Curiosity-Driven Information-Guided Reinforcement Learning for Source Term Estimation in Uncertain Environments | Junhee Lee, Seunghwan Kim, Hongro Jang, Hyungjin Kim et al. | [Abstract](https://arxiv.org/abs/2608.30673) · [PDF](https://arxiv.org/pdf/2608.30673) |
 | 2026-08-11 | Active Perception for Embodied Disambiguation | Yiwei Liu, Luwei Yang | [Abstract](https://arxiv.org/abs/2608.13605) · [PDF](https://arxiv.org/pdf/2608.13605) |
+| 2026-07-15 | Anatomy of Uncertainty: Expressive Descriptors of Robot Motion for Nonverbal Human-Robot Communication | Ridhima Bector, Souravik Dutta, Poornima Ramachandran, Ree Yan Yeoh et al. | [Abstract](https://arxiv.org/abs/2607.13696) · [PDF](https://arxiv.org/pdf/2607.13696) |
 | 2026-07-12 | SensorPerch: Sense Wherever and Whenever it Matters | Zhanxin Wu, Ruofei Tong, Tapomayukh Bhattacharjee | [Abstract](https://arxiv.org/abs/2607.10682) · [PDF](https://arxiv.org/pdf/2607.10682) |
 | 2026-06-22 | Learning to See While Learning to Act: Diffusion Models for Active Perception in Robot Imitation | Kuancheng Wang, Vaibhav Saxena, Shuo Cheng, Yotto Koga et al. | [Abstract](https://arxiv.org/abs/2606.23625) · [PDF](https://arxiv.org/pdf/2606.23625) |
 | 2026-06-07 | Co-GLANCE: Uncertainty-Aware Active Perception for Heterogeneous Robot Teaming | Michal P. Podolinsky, Neel P. Bhatt, Pranay Samineni, Rohan Siva et al. | [Abstract](https://arxiv.org/abs/2606.09919) · [PDF](https://arxiv.org/pdf/2606.09919) |
 | 2026-06-04 | ActiveMimic: Egocentric Video Pretraining with Active Perception | Xingyao Lin, Guojin Zhong, Tianyi Lu, Ziyi Ye et al. | [Abstract](https://arxiv.org/abs/2606.06194) · [PDF](https://arxiv.org/pdf/2606.06194) |
-| 2026-06-02 | PerchRL: Vision-Based Agile Perching on Inclined Platforms under Rapid and Irregular Motion | Zihong Lu, Zongzhuo Liu, Huaxu Li, Jinqiang Cui et al. | [Abstract](https://arxiv.org/abs/2606.03441) · [PDF](https://arxiv.org/pdf/2606.03441) |
+| 2026-06-02 | PerchRL: Vision-Based Agile Perching on Inclined Platforms under Rapid and Irregular Motion | Zihong Lu, Zongzhuo Liu, Huaxu Li, Yitao Zeng et al. | [Abstract](https://arxiv.org/abs/2606.03441) · [PDF](https://arxiv.org/pdf/2606.03441) |
 | 2026-05-26 | Breaking the Epistemic Trap: Active Perception Under Compound Uncertainty | Chayan Banerjee, Ethan Goan | [Abstract](https://arxiv.org/abs/2605.26627) · [PDF](https://arxiv.org/pdf/2605.26627) |
 | 2026-04-28 | Robot Planning and Situation Handling with Active Perception | Austine Oloo, Zainab Altaweel, Yohei Hayamizu, Peiqi Liu et al. | [Abstract](https://arxiv.org/abs/2604.26988) · [PDF](https://arxiv.org/pdf/2604.26988) |
 | 2026-04-27 | VISION-SLS: Safe Perception-Based Control from Learned Visual Representations via System Level Synthesis | Antoine P. Leeman, Shuyu Zhan, Melanie N. Zeilinger, Glen Chou | [Abstract](https://arxiv.org/abs/2604.24894) · [PDF](https://arxiv.org/pdf/2604.24894) |
@@ -54,8 +65,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-27 | Backpropagation-Based Analytical Derivatives of EKF Covariance for Active Sensing | Jonas Benhamou, Silvère Bonnabel, Camille Chapdelaine | [Abstract](https://arxiv.org/abs/2402.17569) · [PDF](https://arxiv.org/pdf/2402.17569) |
 | 2024-02-02 | Learning Which Side to Scan: Multi-View Informed Active Perception with Side Scan Sonar for Autonomous Underwater Vehicles | Advaith V. Sethuraman, Philip Baldoni, Katherine A. Skinner, James McMahon | [Abstract](https://arxiv.org/abs/2402.01106) · [PDF](https://arxiv.org/pdf/2402.01106) |
 | 2023-10-15 | Active Perception using Neural Radiance Fields | Siming He, Christopher D. Hsu, Dexter Ong, Yifei Simon Shao et al. | [Abstract](https://arxiv.org/abs/2310.09892) · [PDF](https://arxiv.org/pdf/2310.09892) |
-| 2023-09-19 | Perceptual Factors for Environmental Modeling in Robotic Active Perception | David Morilla-Cabello, Jonas Westheider, Marija Popovic, Eduardo Montijano | [Abstract](https://arxiv.org/abs/2309.10620) · [PDF](https://arxiv.org/pdf/2309.10620) |
-| 2023-09-14 | Heuristic Satisficing Inferential Decision Making in Human and Robot Active Perception | Yucheng Chen, Pingping Zhu, Anthony Alers, Tobias Egner et al. | [Abstract](https://arxiv.org/abs/2309.07720) · [PDF](https://arxiv.org/pdf/2309.07720) |
 
 ---
 

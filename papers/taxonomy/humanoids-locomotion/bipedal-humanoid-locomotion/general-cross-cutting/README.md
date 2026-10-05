@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 11 conference papers · 15 recent arXiv papers
+> 12 conference papers · 14 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,15 +14,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (11)
+## Conference papers (12)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Standing Tall: Sim to Real Fall Classification and Lead Time Prediction for Bipedal Robots | ICRA · Biped | [Paper](https://arxiv.org/abs/2506.01141) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696347) |
 | 2025 | Deep Reinforcement Learning for Coordinated Payload Transport in Biped-Wheeled Robots | ICRA · Biped | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127939) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127939) |
 | 2025 | Development of a New Biped Robot with Adaptive Suction Modules for Climbing on Curved Surfaces | ICRA · Biped | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127762) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127762) |
 | 2025 | Dynamic Bipedal MPC with Foot-Level Obstacle Avoidance and Adjustable Step Timing | ICRA · Biped | [Paper](https://arxiv.org/abs/2505.13715) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128284) |
 | 2025 | Like Playing a Video Game: Spatial-Temporal Optimization of Foot Trajectories for Controlled Football Kicking in Bipedal Robots | IROS · Biped | [Paper](https://arxiv.org/abs/2510.01843) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246655) |
-| 2024 | Fall Prediction for Bipedal Robots: The Standing Phase | ICRA · Biped | [Paper](https://arxiv.org/abs/2309.14546) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611387) |
+| 2024 | Fall Prediction for Bipedal Robots: The Standing Phase | ICRA · Biped | [Paper](https://arxiv.org/pdf/2309.14546) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611387) |
 | 2024 | LIKO: LiDAR, Inertial, and Kinematic Odometry for Bipedal Robots | ICRA · Biped | [Paper](https://arxiv.org/abs/2404.18047) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610222) |
 | 2024 | DIABLO: A 6-DoF Wheeled Bipedal Robot Composed Entirely of Direct-Drive Joints | IROS · Biped | [Paper](https://arxiv.org/abs/2407.21500) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801943) |
 | 2024 | Safe and Efficient Auto-tuning to Cross Sim-to-real Gap for Bipedal Robot | IROS · Biped | [Paper](https://doi.org/10.1109/IROS58592.2024.10801318) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801318) |
@@ -30,7 +31,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields | ICRA · Biped | [Paper](https://arxiv.org/pdf/2210.04932) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161544) |
 | 2023 | Overtaking Moving Obstacles with Digit: Path Following for Bipedal Robots via Model Predictive Contouring Control | IROS · Biped | [Paper](https://arxiv.org/pdf/2308.00119) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342209) |
 
-## Recent arXiv papers (15)
+## Recent arXiv papers (14)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -48,7 +49,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-04-28 | LIKO: LiDAR, Inertial, and Kinematic Odometry for Bipedal Robots | Qingrui Zhao, Mingyuan Li, Yongliang Shi, Xuechao Chen et al. | [Abstract](https://arxiv.org/abs/2404.18047) · [PDF](https://arxiv.org/pdf/2404.18047) |
 | 2024-03-27 | Risk-Aware Robotics: Tail Risk Measures in Planning, Control, and Verification | Prithvi Akella, Anushri Dixit, Mohamadreza Ahmadi, Lars Lindemann et al. | [Abstract](https://arxiv.org/abs/2403.18972) · [PDF](https://arxiv.org/pdf/2403.18972) |
 | 2023-11-23 | Constraint-Guided Online Data Selection for Scalable Data-Driven Safety Filters in Uncertain Robotic Systems | Jason J. Choi, Fernando Castañeda, Wonsuhk Jung, Bike Zhang et al. | [Abstract](https://arxiv.org/abs/2311.13824) · [PDF](https://arxiv.org/pdf/2311.13824) |
-| 2023-09-25 | Fall Prediction for Bipedal Robots: The Standing Phase | M. Eva Mungai, Gokul Prabhakaran, Jessy W. Grizzle | [Abstract](https://arxiv.org/abs/2309.14546) · [PDF](https://arxiv.org/pdf/2309.14546) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Pretraining%2C%20Scaling%20%26%20Transfer&specialty=Robot%20Pretraining%20%26%20Foundation%20Policies#research-workbench)
 
-> 6 conference papers · 61 recent arXiv papers
+> 6 conference papers · 73 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,11 +25,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Octo: An Open-Source Generalist Robot Policy | RSS · Generalist robot policy | [Paper](https://arxiv.org/abs/2405.12213) · [Official](https://doi.org/10.15607/RSS.2024.XX.090) · [Code](https://github.com/octo-models/octo) |
 | 2023 | RT-1: Robotics Transformer for Real-World Control at Scale | RSS · Generalist robot policy | [Paper](https://arxiv.org/abs/2212.06817) · [Official](https://roboticsproceedings.org/rss19/p025.html) |
 
-## Recent arXiv papers (61)
+## Recent arXiv papers (73)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
-| 2026-08-26 | LM-X: Explainable Action Modeling with Progress, Event, and Uncertainty Prediction for Generalist Robot Manipulation | Jin Lou, Zhiyuan Jing, Andong Chen, Xupeng Wang et al. | [Abstract](https://arxiv.org/abs/2608.25757) · [PDF](https://arxiv.org/pdf/2608.25757) |
+| 2026-09-30 | ChunkTrust: Adapting Execution Horizons for Robot Policies with Action-Expert Evidence | Fanding Huang, Jingyan Jiang, Shifeng Bao, Mingkang Pu et al. | [Abstract](https://arxiv.org/abs/2609.39754) · [PDF](https://arxiv.org/pdf/2609.39754) |
+| 2026-09-29 | Simple Agentic Memory for Generalist Robot Policies | Yuyou Zhang, Yunbei Zhang, Miao Li, Janet Wang et al. | [Abstract](https://arxiv.org/abs/2609.36595) · [PDF](https://arxiv.org/pdf/2609.36595) |
+| 2026-09-29 | FP2: Equipping Robotic Foundation Models with Force Control | Hongjie Fang, Shirun Tang, Junjian Hu, Shidong Zhang et al. | [Abstract](https://arxiv.org/abs/2609.37433) · [PDF](https://arxiv.org/pdf/2609.37433) |
+| 2026-09-27 | Demonstration-Free Success-Probability Reward Learning for Generalist Robot Policies | Duo Wu, Haifeng Wang, Rongwei Lu, Jinghe Wang et al. | [Abstract](https://arxiv.org/abs/2609.33653) · [PDF](https://arxiv.org/pdf/2609.33653) |
+| 2026-09-24 | MOCHA: Multi-Objective Co-Design using Hypernetwork Architectures | Varun Madabushi, Neil Janwani, Maegan Tucker | [Abstract](https://arxiv.org/abs/2609.30570) · [PDF](https://arxiv.org/pdf/2609.30570) |
+| 2026-09-21 | Toward a foundation model for forest point clouds | Yuanwen Yue, Stefano Puliti, Damien Robert, Atakan Topaloğlu et al. | [Abstract](https://arxiv.org/abs/2609.24787) · [PDF](https://arxiv.org/pdf/2609.24787) |
+| 2026-09-16 | FIERCE: From Generalist Robot Policies to Fast Specialists via Progress-Failure Feedback | Runjia Tan, Yuang Tu, Yujie Yan, Lan Yu et al. | [Abstract](https://arxiv.org/abs/2609.18651) · [PDF](https://arxiv.org/pdf/2609.18651) |
+| 2026-09-11 | Breaking the Vision-Action Shortcut: Latent Interface Training for Generalizable Robotics Foundation Models | Jianman Lin, Shailesh Shailesh, Zhongyi Luo, Jiafei Duan | [Abstract](https://arxiv.org/abs/2609.12641) · [PDF](https://arxiv.org/pdf/2609.12641) |
+| 2026-09-09 | HaWMPO: Hallucination-Aware World Model-based Policy Optimization for Generalist Robot Policy | Zengjue Chen, Peidong Liu, Jiawei Li, Qi Wang | [Abstract](https://arxiv.org/abs/2609.09941) · [PDF](https://arxiv.org/pdf/2609.09941) |
+| 2026-09-08 | Proxy Policy Steering | Chuanruo Ning, Tianrui Wang, Wei-Chiu Ma, Kuan Fang | [Abstract](https://arxiv.org/abs/2609.09148) · [PDF](https://arxiv.org/pdf/2609.09148) |
+| 2026-09-06 | Rethinking Safety for Generalist Robots | Rohan Sinha, Anushri Dixit, Ran Tian, Anirudha Majumdar et al. | [Abstract](https://arxiv.org/abs/2609.06326) · [PDF](https://arxiv.org/pdf/2609.06326) |
+| 2026-08-30 | SmoothRL: Online Reinforcement Learning During Asynchronous Execution | Guang Gao, Yuxuan Nong, Baifu Huang, Jianan Wang | [Abstract](https://arxiv.org/abs/2608.29768) · [PDF](https://arxiv.org/pdf/2608.29768) |
 | 2026-08-24 | Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency | Brian Zhu, Momen Khalil, E Harrison, Emanuele Poggi et al. | [Abstract](https://arxiv.org/abs/2608.23831) · [PDF](https://arxiv.org/pdf/2608.23831) |
 | 2026-08-19 | The Embodiment Gap in Robot Foundation Models | Yukiyasu Domae, Keisuke Shirai, Hanbit Oh, Ryoichi Nakajo et al. | [Abstract](https://arxiv.org/abs/2608.18433) · [PDF](https://arxiv.org/pdf/2608.18433) |
 | 2026-08-17 | $τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation | Xiaowei Cai, Yunuo Cai, Bingao Chen, Jingxiao Chen et al. | [Abstract](https://arxiv.org/abs/2608.16885) · [PDF](https://arxiv.org/pdf/2608.16885) |
@@ -44,6 +55,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-30 | Adapting Generalist Robot Policies with Semantic Reinforcement Learning | Jagdeep Singh Bhatia, Andrew Wagenmaker, William Chen, Sergey Levine | [Abstract](https://arxiv.org/abs/2606.31958) · [PDF](https://arxiv.org/pdf/2606.31958) |
 | 2026-06-17 | SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation | Wei-Cheng Tseng, Gashon Hussein, Yuzhu Dong, Allen Z. Ren et al. | [Abstract](https://arxiv.org/abs/2606.18610) · [PDF](https://arxiv.org/pdf/2606.18610) |
 | 2026-06-16 | Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement | Mingtong Zhang, Dhruv Shah | [Abstract](https://arxiv.org/abs/2606.18247) · [PDF](https://arxiv.org/pdf/2606.18247) |
+| 2026-06-16 | Uncertainty Quantification for Flow-Based Generalist Robot Policies | Ralf Römer, Maximilian Seeliger, Saida Liu, Ben Sturgis et al. | [Abstract](https://arxiv.org/abs/2606.18043) · [PDF](https://arxiv.org/pdf/2606.18043) |
 | 2026-06-15 | An Augmented Reality Brain-Robot Interface for Generalist Robot Arm Manipulation | Shangkai Zhang, Rousslan Fernand Julien Dossa, Luca Nunziante, Marina Di Vincenzo et al. | [Abstract](https://arxiv.org/abs/2606.16413) · [PDF](https://arxiv.org/pdf/2606.16413) |
 | 2026-05-27 | Turning Video Models into Generalist Robot Policies | Sizhe Lester Li, Evan Kim, Xingjian Bai, Tong Zhao et al. | [Abstract](https://arxiv.org/abs/2605.27817) · [PDF](https://arxiv.org/pdf/2605.27817) |
 | 2026-05-01 | Learning While Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies | Yi Wang, Xinchen Li, Pengwei Xie, Pu Yang et al. | [Abstract](https://arxiv.org/abs/2605.00416) · [PDF](https://arxiv.org/pdf/2605.00416) |

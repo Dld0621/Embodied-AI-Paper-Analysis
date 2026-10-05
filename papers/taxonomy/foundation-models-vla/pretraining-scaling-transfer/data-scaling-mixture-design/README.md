@@ -25,7 +25,7 @@ No conference papers currently map to this specialty.
 | 2026-08-27 | Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models | Senqiao Yang, Chengyao Wang, Yuxin Chen, Zixuan Wang et al. | [Abstract](https://arxiv.org/abs/2608.27550) · [PDF](https://arxiv.org/pdf/2608.27550) |
 | 2026-08-24 | Physics Filtering Favors the Generalization of Robot Learning | Jindou Jia, Shixuan Han, Meng Wang, Gen Li et al. | [Abstract](https://arxiv.org/abs/2608.22701) · [PDF](https://arxiv.org/pdf/2608.22701) |
 | 2026-03-10 | 3D UAV Trajectory Estimation and Classification from Internet Videos via Language Model | Haoxiang Lei, Daotong Wang, Shenghai Yuan, Jianbo Su | [Abstract](https://arxiv.org/abs/2603.09070) · [PDF](https://arxiv.org/pdf/2603.09070) |
-| 2026-02-28 | I-Perceive: A Foundation Model for Active Perception with Language Instructions | Yongxi Huang, Zhuohang Wang, Wenjing Tang, Xinyu He et al. | [Abstract](https://arxiv.org/abs/2603.00600) · [PDF](https://arxiv.org/pdf/2603.00600) |
+| 2026-02-28 | I-Perceive: A Foundation Model for Vision-Language Active Perception | Yongxi Huang, Zhuohang Wang, Wenjing Tang, Xinyu He et al. | [Abstract](https://arxiv.org/abs/2603.00600) · [PDF](https://arxiv.org/pdf/2603.00600) |
 | 2026-02-11 | ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning | Yandan Yang, Shuang Zeng, Tong Lin, Xinyuan Chang et al. | [Abstract](https://arxiv.org/abs/2602.11236) · [PDF](https://arxiv.org/pdf/2602.11236) |
 | 2025-11-17 | Scaling Spatial Intelligence with Multimodal Foundation Models | Zhongang Cai, Ruisi Wang, Chenyang Gu, Fanyi Pu et al. | [Abstract](https://arxiv.org/abs/2511.13719) · [PDF](https://arxiv.org/pdf/2511.13719) |
 

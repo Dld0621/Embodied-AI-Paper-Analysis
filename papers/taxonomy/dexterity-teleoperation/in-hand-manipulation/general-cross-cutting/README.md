@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=In-hand%20Manipulation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 40 conference papers · 92 recent arXiv papers
+> 43 conference papers · 92 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (40)
+## Conference papers (43)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Bi-Hap: a Bi-directional Learning-Based Control and Momentum-based Haptic Feedback System for Dexterous In-hand Telemanipulation | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697388) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697388) |
+| 2026 | Flow Before Imitation: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696089) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696089) |
+| 2026 | Suction Leap-Hand: Suction Cups on a Multi-fingered Hand Enable Embodied Dexterity and In-Hand Teleoperation | ICRA · In Hand | [Paper](https://arxiv.org/abs/2509.20646) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695882) |
 | 2025 | TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation | CVPR · Hand Object | [Paper](https://arxiv.org/abs/2503.11423) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02578) |
 | 2025 | Modeling Fine-Grained Hand-Object Dynamics for Egocentric Video Representation Learning | ICLR · Hand Object | [Paper](https://arxiv.org/abs/2503.00986) · [Publisher](https://doi.org/10.48550/arXiv.2503.00986) |
 | 2025 | Hand-Object Interaction Pretraining from Videos | ICRA · Hand Object | [Paper](https://arxiv.org/abs/2409.08273) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127811) |
@@ -30,7 +33,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Wearing a Robotic Hand to Feel 3D Force Feedback: Analysis and Virtual Reality Application of the Hand-in-Hand System | IROS · In Hand | [Paper](https://doi.org/10.1109/IROS60139.2025.11246130) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246130) |
 | 2025 | MEgoHand: Multimodal Egocentric Hand-Object Interaction Motion Generation | NeurIPS · Hand Object | [Paper](https://arxiv.org/abs/2505.16602) · [Publisher](https://doi.org/10.48550/arXiv.2505.16602) |
 | 2024 | SonicSense: Object Perception from In-Hand Acoustic Vibration | CoRL · In Hand | [Paper](https://arxiv.org/abs/2406.17932) · [Publisher](https://doi.org/10.48550/arXiv.2406.17932) |
-| 2024 | Curriculum-based Sensing Reduction in Simulation to Real-World Transfer for In-hand Manipulation | ICRA · In Hand | [Paper](https://arxiv.org/abs/2309.07350) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610328) |
+| 2024 | Curriculum-based Sensing Reduction in Simulation to Real-World Transfer for In-hand Manipulation | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2309.07350) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610328) |
 | 2024 | HandNeRF: Learning to Reconstruct Hand-Object Interaction Scene from a Single RGB Image | ICRA · Hand Object | [Paper](https://arxiv.org/abs/2309.07891) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611230) |
 | 2024 | HandyPriors: Physically Consistent Perception of Hand-Object Interactions with Differentiable Priors | ICRA · Hand Object | [Paper](https://arxiv.org/abs/2311.16552) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610748) |
 | 2024 | Kinesthetic-based In-Hand Object Recognition with an Underactuated Robotic Hand | ICRA · In Hand | [Paper](https://arxiv.org/abs/2401.16802) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611291) |
@@ -63,6 +66,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-15 | Residual Fault Adaptation for Dexterous In-Hand Manipulation Under Runtime Joint Faults | Linan Deng, Xing Liu, Lin Hong, Feng Hua et al. | [Abstract](https://arxiv.org/abs/2609.17404) · [PDF](https://arxiv.org/pdf/2609.17404) |
+| 2026-09-10 | Rapid Learning of Dexterous In-Hand Pen Writing through Real-Time Jacobian Estimation | Kai Stewart, Yasunori Toshimitsu, Robert K. Katzschmann | [Abstract](https://arxiv.org/abs/2609.11775) · [PDF](https://arxiv.org/pdf/2609.11775) |
+| 2026-09-10 | A Data-Driven Distributed Control Scheme: Learning Multi-Objective Agent-Based MPC for Path-Tracking | Jiaming Zhong, Reza Valiollahi Mehrizi, Yash Vardhan Pant, Amir Khajepour | [Abstract](https://arxiv.org/abs/2609.12142) · [PDF](https://arxiv.org/pdf/2609.12142) |
+| 2026-08-31 | Deploying and Evaluating a Smart-Agriculture Agentic Engine for Full-Season Soybean Farm Operations | Ao Qu, Panagiotis Michelakis, Linyuan Han, Yiannis Hadjiyianni et al. | [Abstract](https://arxiv.org/abs/2609.00106) · [PDF](https://arxiv.org/pdf/2609.00106) |
+| 2026-08-13 | EgoPHI: Estimating 3D Hand-Object Contact and Force from Egocentric Vision | Andela Ilic, Rachel Schuchert, Yijing Jiang, Christian Holz | [Abstract](https://arxiv.org/abs/2608.13014) · [PDF](https://arxiv.org/pdf/2608.13014) |
 | 2026-06-18 | Belt-Finger: An Affordable Soft Belt-Driven Gripper for Dexterous In-Hand Manipulation | Boya Zhang, Andreas Zell, Georg Martius | [Abstract](https://arxiv.org/abs/2606.20193) · [PDF](https://arxiv.org/pdf/2606.20193) |
 | 2026-06-16 | MOCHI: Motion Enhancement of Collaborative Human-object Interactions | Jiye Lee, Yonghun Choi, Jungdam Won | [Abstract](https://arxiv.org/abs/2606.18243) · [PDF](https://arxiv.org/pdf/2606.18243) |
 | 2026-05-20 | Learning Robust Dexterous In-Hand Manipulation from Joint Sensors with Proprioceptive Transformer | Senlan Yao, Chenyu Yang, Jaehoon Kim, Aristotelis Sympetheros et al. | [Abstract](https://arxiv.org/abs/2605.21330) · [PDF](https://arxiv.org/pdf/2605.21330) |
@@ -117,6 +125,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-11-06 | DEIO: Deep Event Inertial Odometry | Weipeng Guan, Fuling Lin, Peiyu Chen, Peng Lu | [Abstract](https://arxiv.org/abs/2411.03928) · [PDF](https://arxiv.org/pdf/2411.03928) |
 | 2024-11-01 | Multi-Agent Deep Q-Network with Layer-based Communication Channel for Autonomous Internal Logistics Vehicle Scheduling in Smart Manufacturing | Mohammad Feizabadi, Arman Hosseini, Zakaria Yahouni | [Abstract](https://arxiv.org/abs/2411.00728) · [PDF](https://arxiv.org/pdf/2411.00728) |
 | 2024-10-24 | AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant | Chengyou Jia, Minnan Luo, Zhuohang Dang, Qiushi Sun et al. | [Abstract](https://arxiv.org/abs/2410.18603) · [PDF](https://arxiv.org/pdf/2410.18603) |
+| 2024-10-03 | Deep Reinforcement Learning for Reach-Avoid-Stay Problems | Gabriel Chenevert, Jingqi Li, Achyuta kannan, Sangjae Bae et al. | [Abstract](https://arxiv.org/abs/2410.02898) · [PDF](https://arxiv.org/pdf/2410.02898) |
 | 2024-09-23 | Bimanual In-hand Manipulation using Dual Limit Surfaces | An Dang, James Lorenz, Xili Yi, Nima Fazeli | [Abstract](https://arxiv.org/abs/2409.14698) · [PDF](https://arxiv.org/pdf/2409.14698) |
 | 2024-09-12 | Hand-Object Interaction Pretraining from Videos | Himanshu Gaurav Singh, Antonio Loquercio, Carmelo Sferrazza, Jane Wu et al. | [Abstract](https://arxiv.org/abs/2409.08273) · [PDF](https://arxiv.org/pdf/2409.08273) |
 | 2024-08-27 | Domain-decoupled Physics-informed Neural Networks with Closed-form Gradients for Fast Model Learning of Dynamical Systems | Henrik Krauss, Tim-Lukas Habich, Max Bartholdt, Thomas Seel et al. | [Abstract](https://arxiv.org/abs/2408.14951) · [PDF](https://arxiv.org/pdf/2408.14951) |
@@ -149,12 +158,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-10 | R$^2$NMPC: A Real-Time Reduced Robustified Nonlinear Model Predictive Control with Ellipsoidal Uncertainty Sets for Autonomous Vehicle Motion Control | Baha Zarrouki, João Nunes, Johannes Betz | [Abstract](https://arxiv.org/abs/2311.06420) · [PDF](https://arxiv.org/pdf/2311.06420) |
 | 2023-10-23 | Containerized Vertical Farming Using Cobots | Dasharadhan Mahalingam, Aditya Patankar, Khiem Phi, Nilanjan Chakraborty et al. | [Abstract](https://arxiv.org/abs/2310.15385) · [PDF](https://arxiv.org/pdf/2310.15385) |
 | 2023-10-05 | Safe Reinforcement Learning via Hierarchical Adaptive Chance-Constraint Safeguards | Zhaorun Chen, Zhuokai Zhao, Tairan He, Binhao Chen et al. | [Abstract](https://arxiv.org/abs/2310.03379) · [PDF](https://arxiv.org/pdf/2310.03379) |
-| 2023-09-25 | Continual Driving Policy Optimization with Closed-Loop Individualized Curricula | Haoyi Niu, Yizhou Xu, Xingjian Jiang, Jianming Hu | [Abstract](https://arxiv.org/abs/2309.14209) · [PDF](https://arxiv.org/pdf/2309.14209) |
-| 2023-09-20 | Dynamic Hand Gesture-Featured Human Motor Adaptation in Tool Delivery using Voice Recognition | Haolin Fei, Stefano Tedeschi, Yanpei Huang, Andrew Kennedy et al. | [Abstract](https://arxiv.org/abs/2309.11368) · [PDF](https://arxiv.org/pdf/2309.11368) |
-| 2023-09-14 | Physically Plausible Full-Body Hand-Object Interaction Synthesis | Jona Braun, Sammy Christen, Muhammed Kocabas, Emre Aksan et al. | [Abstract](https://arxiv.org/abs/2309.07907) · [PDF](https://arxiv.org/pdf/2309.07907) |
-| 2023-09-13 | Stable In-hand Manipulation with Finger Specific Multi-agent Shadow Reward | Lingfeng Tao, Jiucai Zhang, Xiaoli Zhang | [Abstract](https://arxiv.org/abs/2309.07349) · [PDF](https://arxiv.org/pdf/2309.07349) |
-| 2023-09-13 | Enhancing Dexterity in Confined Spaces: Real-Time Motion Planning for Multi-Fingered In-Hand Manipulation | Xiao Gao, Kunpeng Yao, Farshad Khadivar, Aude Billard | [Abstract](https://arxiv.org/abs/2309.06955) · [PDF](https://arxiv.org/pdf/2309.06955) |
-| 2023-09-13 | Curriculum-based Sensing Reduction in Simulation to Real-World Transfer for In-hand Manipulation | Lingfeng Tao, Jiucai Zhang, Qiaojie Zheng, Xiaoli Zhang | [Abstract](https://arxiv.org/abs/2309.07350) · [PDF](https://arxiv.org/pdf/2309.07350) |
 
 ---
 

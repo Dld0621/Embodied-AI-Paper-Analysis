@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Memory%20%26%20World%20Knowledge&specialty=Episodic%20%26%20Semantic%20Memory#research-workbench)
 
-> 1 conference papers · 13 recent arXiv papers
+> 1 conference papers · 15 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2026 | MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation | ICLR · Memory-augmented VLA | [Paper](https://proceedings.iclr.cc/papers/search?q=MemoryVLA) · [Official](https://proceedings.iclr.cc/papers/search?q=MemoryVLA) |
 
-## Recent arXiv papers (13)
+## Recent arXiv papers (15)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-28 | Where Memory Belongs: Ledger, an Object Ledger for Memory-Augmented VLAs | Tanguy Dieudonné, Jack B. Jedlicki, Heng Yang | [Abstract](https://arxiv.org/abs/2609.34554) · [PDF](https://arxiv.org/pdf/2609.34554) |
+| 2026-09-10 | Memory as Plans: World-Action Modeling with Memory-Grounded Planning | Sizhe Zhao, Haozhe Xie, Weiyu Zhao, Chenchu Zhang et al. | [Abstract](https://arxiv.org/abs/2609.11561) · [PDF](https://arxiv.org/pdf/2609.11561) |
 | 2026-08-05 | BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation | Peiyan Li, Yuze Zhu, Yixiang Chen, Qisen Ma et al. | [Abstract](https://arxiv.org/abs/2608.05042) · [PDF](https://arxiv.org/pdf/2608.05042) |
 | 2026-06-18 | MemoryWAM: Efficient World Action Modeling with Persistent Memory | Sizhe Yang, Juncheng Mu, Tianming Wei, Chenhao Lu et al. | [Abstract](https://arxiv.org/abs/2606.20562) · [PDF](https://arxiv.org/pdf/2606.20562) |
 | 2026-06-16 | GeneralVLA-2: Geometry-Aware Reconstruction and Governed Memory for Robot Planning | Haoyu Wang, Guoqing Ma, Zeyu Zhang, Yandong Guo et al. | [Abstract](https://arxiv.org/abs/2606.17480) · [PDF](https://arxiv.org/pdf/2606.17480) |

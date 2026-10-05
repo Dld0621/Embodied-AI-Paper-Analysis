@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=In-hand%20Manipulation&specialty=Object%20Reorientation%20%26%20Rotation#research-workbench)
 
-> 9 conference papers · 27 recent arXiv papers
+> 9 conference papers · 28 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,12 +28,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Rotating without Seeing: Towards In-hand Dexterity through Touch | RSS · In Hand | [Paper](https://arxiv.org/abs/2303.10880) · [Publisher](https://doi.org/10.48550/arXiv.2303.10880) |
 | 2022 | In-Hand Object Rotation via Rapid Motor Adaptation | CoRL · Dexterous control | [Paper](https://arxiv.org/abs/2210.04887) · [Official](https://proceedings.mlr.press/v205/qi23a.html) · [Code](https://haozhi.io/hora/) |
 
-## Recent arXiv papers (27)
+## Recent arXiv papers (28)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-12 | Learning In-Hand Object Reaching to General 6D Poses | Junxiao Lin, Tianyue Wu, Jie Yin, Jia Pan et al. | [Abstract](https://arxiv.org/abs/2609.13761) · [PDF](https://arxiv.org/pdf/2609.13761) |
+| 2026-09-08 | AURORA: Active Uncertainty-Driven Re-Orientation for In-Hand Reconstruction | Feiyu Zhao, Yuetong Li, Chenxi Xiao | [Abstract](https://arxiv.org/abs/2609.08493) · [PDF](https://arxiv.org/pdf/2609.08493) |
+| 2026-09-07 | WM-Craftnet: World Synesthesia Model for Generalizable and Robust Dexterous In-Hand Manipulation | Jie Yin, Zeyuan Zhao, Xiaojing Tan, Yang Liu et al. | [Abstract](https://arxiv.org/abs/2609.07002) · [PDF](https://arxiv.org/pdf/2609.07002) |
 | 2026-07-16 | KineFuse: Kinematic-Aware Haptic Fusion for In-Hand Occluded-Object Pose Tracking | Chanyoung Ahn, Jaesung Lee, Sungwoo Park, Donghyun Hwang | [Abstract](https://arxiv.org/abs/2607.14842) · [PDF](https://arxiv.org/pdf/2607.14842) |
-| 2026-06-25 | VibeAct: Vibration to Actions for Contact-Rich Reactive Robot Dexterity | Yuemin Mao, Uksang Yoo, Jean Oh, Jonathan Francis et al. | [Abstract](https://arxiv.org/abs/2606.27344) · [PDF](https://arxiv.org/pdf/2606.27344) |
 | 2026-06-23 | NoContactNoWorries: Estimating Contact through Vision and Proprioception for In-Hand Dexterous Manipulation | Soham Patil, Avirup Das, Sourabh Bhosale, Spandan Roy | [Abstract](https://arxiv.org/abs/2606.24450) · [PDF](https://arxiv.org/pdf/2606.24450) |
 | 2026-06-19 | Rotation-Aware Point-Cloud Embeddings for Vision-Based In-Hand Reorientation | Yashom Dighe, Karthik Dantu | [Abstract](https://arxiv.org/abs/2606.21788) · [PDF](https://arxiv.org/pdf/2606.21788) |
 | 2026-06-12 | ORCA: A Platform for Open-Source Dexterity Research | Francesco Capuano, Maximilian Eberlein, Fabrice Bourquin, Clemens Claudio Christoph | [Abstract](https://arxiv.org/abs/2606.14561) · [PDF](https://arxiv.org/pdf/2606.14561) |
@@ -58,7 +60,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-05-12 | AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch | Max Yang, Chenghua Lu, Alex Church, Yijiong Lin et al. | [Abstract](https://arxiv.org/abs/2405.07391) · [PDF](https://arxiv.org/pdf/2405.07391) |
 | 2024-02-29 | Contact-Implicit Model Predictive Control for Dexterous In-hand Manipulation: A Long-Horizon and Robust Approach | Yongpeng Jiang, Mingrui Yu, Xinghao Zhu, Masayoshi Tomizuka et al. | [Abstract](https://arxiv.org/abs/2402.18897) · [PDF](https://arxiv.org/pdf/2402.18897) |
 | 2023-12-04 | Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing | Ying Yuan, Haichuan Che, Yuzhe Qin, Binghao Huang et al. | [Abstract](https://arxiv.org/abs/2312.01853) · [PDF](https://arxiv.org/pdf/2312.01853) |
-| 2023-09-18 | General In-Hand Object Rotation with Vision and Touch | Haozhi Qi, Brent Yi, Sudharshan Suresh, Mike Lambeta et al. | [Abstract](https://arxiv.org/abs/2309.09979) · [PDF](https://arxiv.org/pdf/2309.09979) |
 
 ---
 

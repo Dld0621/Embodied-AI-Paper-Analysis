@@ -34,6 +34,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-01 | NEEDLEWORK: Offline Rewriting of Robot Data with Verified Local Stitches | Juntao Ren, Yifan Hou, Shuran Song | [Abstract](https://arxiv.org/abs/2610.02339) · [PDF](https://arxiv.org/pdf/2610.02339) |
 | 2026-08-22 | Towards insect-like distributed proprioception in actuators and appendages for flapping-wing insect-scale aerial robots | Alexander Hedrick, Arvind Gupta, Kaushik Jayaram | [Abstract](https://arxiv.org/abs/2608.21699) · [PDF](https://arxiv.org/pdf/2608.21699) |
 | 2026-08-02 | Learning Physical Interaction: A Survey of Tactile- and Force-aware Robot Learning | Shilin Shan, Chuhao Zhou, Ruize Wang, Xinyan Chen et al. | [Abstract](https://arxiv.org/abs/2608.07558) · [PDF](https://arxiv.org/pdf/2608.07558) |
 | 2026-07-29 | SymmGrid: Super-Scaling On-Robot Learning with Parallelized Symmetries and Egocentric-Exocentric Visual Perception | Gabe Everett, Brice Gunter, Ryan Vander Stelt, Cleiver Ruiz-Martinez et al. | [Abstract](https://arxiv.org/abs/2607.26985) · [PDF](https://arxiv.org/pdf/2607.26985) |
@@ -48,7 +49,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-14 | Tactile-Informed Action Primitives Mitigate Jamming in Dense Clutter | Dane Brouwer, Joshua Citron, Hojung Choi, Marion Lepert et al. | [Abstract](https://arxiv.org/abs/2402.09564) · [PDF](https://arxiv.org/pdf/2402.09564) |
 | 2023-12-15 | Proprioceptive State Estimation for Amphibious Tactile Sensing | Ning Guo, Xudong Han, Shuqiao Zhong, Zhiyuan Zhou et al. | [Abstract](https://arxiv.org/abs/2312.09863) · [PDF](https://arxiv.org/pdf/2312.09863) |
 | 2023-10-27 | Pouring by Feel: An Analysis of Tactile and Proprioceptive Sensing for Accurate Pouring | Pedro Piacenza, Daewon Lee, Volkan Isler | [Abstract](https://arxiv.org/abs/2310.18473) · [PDF](https://arxiv.org/pdf/2310.18473) |
-| 2023-09-19 | GelSight Svelte: A Human Finger-shaped Single-camera Tactile Robot Finger with Large Sensing Coverage and Proprioceptive Sensing | Jialiang Zhao, Edward H. Adelson | [Abstract](https://arxiv.org/abs/2309.10885) · [PDF](https://arxiv.org/pdf/2309.10885) |
 
 ---
 

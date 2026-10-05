@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=VLA%20Architectures&specialty=Action%20Tokenization%20%26%20Decoding#research-workbench)
 
-> 0 conference papers · 64 recent arXiv papers
+> 1 conference papers · 74 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,14 +14,26 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (0)
+## Conference papers (1)
 
-No conference papers currently map to this specialty.
+| Year | Paper | Venue / topic | Online links |
+|---:|---|---|---|
+| 2026 | SlotVLA: Towards Modeling of Object-Relation Representations in Robotic Manipulation | ICRA · Vla | [Paper](https://arxiv.org/abs/2511.06754) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695805) |
 
-## Recent arXiv papers (64)
+## Recent arXiv papers (74)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-09-30 | MotionWeave: Learning Motion-Centered Future Dynamics for Vision-Language-Action Policies | Jingqiu Wang, Yan Wang | [Abstract](https://arxiv.org/abs/2609.39324) · [PDF](https://arxiv.org/pdf/2609.39324) |
+| 2026-09-28 | Don't Throw Away the Tail: Action Upcycling for Policy Acceleration | Taesung Kwon, Jangho Park, Sunwoo Park, Youngmin Kim et al. | [Abstract](https://arxiv.org/abs/2609.34911) · [PDF](https://arxiv.org/pdf/2609.34911) |
+| 2026-09-26 | Are Vision-Language-Action Models Robust to One-Step Observation Perturbations? | Shojiro Yamabe, Jun Sakuma | [Abstract](https://arxiv.org/abs/2609.32550) · [PDF](https://arxiv.org/pdf/2609.32550) |
+| 2026-09-21 | Imagine-RL: Residual-Confidence-Guided Cross-Attention for World-Model-Augmented VLA Reinforcement Learning | Kejia Hu, Wentong Zhai, Bo Zhao, Shuai Liang | [Abstract](https://arxiv.org/abs/2609.24033) · [PDF](https://arxiv.org/pdf/2609.24033) |
+| 2026-09-17 | Beyond Patch Removal: Persistent Adversarial Effects in Vision-Language-Action Policies | Enhao Wu, Fusen Guo, Yuxin Cao, Ziyang Lyu et al. | [Abstract](https://arxiv.org/abs/2609.19669) · [PDF](https://arxiv.org/pdf/2609.19669) |
+| 2026-09-16 | M2Tok: Multi-head Multi-codebook Discrete Action Tokenization for Vision-Language-Action Models | Chunpu Xu, Zhixuan Liang, Yuhao Zhang, Chi-Min Chan et al. | [Abstract](https://arxiv.org/abs/2609.18259) · [PDF](https://arxiv.org/pdf/2609.18259) |
+| 2026-09-11 | Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model | Hoeun Lee, Jaeik Kim, Jusang Oh, Jinhyeok Kim et al. | [Abstract](https://arxiv.org/abs/2609.13053) · [PDF](https://arxiv.org/pdf/2609.13053) |
+| 2026-09-09 | Time-Frequency Geometric Cross-Attention for Chunked Vision-Language-Action Models | Shengye Dong, Haochen Niu, Hao Liu, Peiwen Lin et al. | [Abstract](https://arxiv.org/abs/2609.09925) · [PDF](https://arxiv.org/pdf/2609.09925) |
+| 2026-09-04 | Reasoning Without Inference Cost: Latent Semantic Scaffolding for Robot VLA Policies | Andrew Ting Yan Li, Zhuo Li, Zhelin Yang, Zhipeng Dong et al. | [Abstract](https://arxiv.org/abs/2609.04893) · [PDF](https://arxiv.org/pdf/2609.04893) |
+| 2026-08-30 | DriftingVLA: Native One-Step Vision-Language-Action Generation via Per-Dimension Temporal Drifting | Yuxuan Gao, Shiqi Zhang, Yedong Shen, Yifan Duan et al. | [Abstract](https://arxiv.org/abs/2608.29749) · [PDF](https://arxiv.org/pdf/2608.29749) |
 | 2026-08-27 | FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference | Zekai Li, Jiaming Tang, Zhijian Liu | [Abstract](https://arxiv.org/abs/2608.27384) · [PDF](https://arxiv.org/pdf/2608.27384) |
 | 2026-08-17 | SparkVLA: Stop-Aware Hierarchical VLA with Adaptive Action Chunking for Long-Horizon Manipulation | Xunyao Lei, Renjun Wu, Tianlin Huo, Xuesong Li | [Abstract](https://arxiv.org/abs/2608.16172) · [PDF](https://arxiv.org/pdf/2608.16172) |
 | 2026-08-15 | PhaseLoRA: Control-Regime-Conditioned Low-Rank Adaptation for Continuous-Action Vision-Language-Action Policies | Yufei Guo, Yinan Wu, Haoran Duan, Guiguang Ding et al. | [Abstract](https://arxiv.org/abs/2608.15285) · [PDF](https://arxiv.org/pdf/2608.15285) |
