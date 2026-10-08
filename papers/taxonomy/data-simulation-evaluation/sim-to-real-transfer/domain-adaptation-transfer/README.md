@@ -1,12 +1,12 @@
 # Domain Adaptation & Transfer · 域适配与迁移
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Sim-to-real%20Transfer&specialty=Domain%20Adaptation%20%26%20Transfer#research-workbench)
 
-> 42 conference papers · 251 recent arXiv papers
+> 42 conference papers · 254 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -67,10 +67,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Towards Inclusive HRI: Using Sim2Real to Address Underrepresentation in Emotion Expression Recognition | IROS · Sim2Real | [Paper](https://arxiv.org/pdf/2208.07472) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982252) | rule-assigned |
 | 2022 | Transferring Multi-Agent Reinforcement Learning Policies for Autonomous Driving using Sim-to-Real | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2203.11653) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981319) | rule-assigned |
 
-## Recent arXiv papers (251)
+## Recent arXiv papers (254)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | RoboRender: Robot-Oriented Video Generation for Visual Sim-to-Real Transfer | Huang Huang, Wensi Ai, Ziyu Chen, Youhui Wang et al. | [Abstract](https://arxiv.org/abs/2610.09254) · [PDF](https://arxiv.org/pdf/2610.09254) | rule-assigned |
+| 2026-10-04 | TUCO: Curating Simulation Demonstrations for Sim-to-Real Robot Policy Co-Training | Ning Zhu, Mengfei Zhao, Yikai Tang, Zhangyujie Sun et al. | [Abstract](https://arxiv.org/abs/2610.05407) · [PDF](https://arxiv.org/pdf/2610.05407) | rule-assigned |
+| 2026-10-02 | RoboBridge: A Self-Evolving Embodied Agent Framework for Sim-to-Real Transfer | Chenxi Li, Zhangrui Zhao, Rui Li, Yuan Gao et al. | [Abstract](https://arxiv.org/abs/2610.02717) · [PDF](https://arxiv.org/pdf/2610.02717) | rule-assigned |
 | 2026-09-29 | RoboFin3D: A Sim-to-Real Platform for Robotic Surface Finishing | Haowei Wen, Shangtao Li, Vaibhav Sanjay, Philip Huang et al. | [Abstract](https://arxiv.org/abs/2609.37560) · [PDF](https://arxiv.org/pdf/2609.37560) | rule-assigned |
 | 2026-09-29 | DQ-MPCC: Dual-Quaternion MPCC for Quadrotor Racing | Bryan S. Guevara, Luis F. Recalde, Guanrui Li, Tiago Nascimento | [Abstract](https://arxiv.org/abs/2609.36482) · [PDF](https://arxiv.org/pdf/2609.36482) | rule-assigned |
 | 2026-09-29 | All You Need Is Low Fidelity: Zero-Shot Sim-to-Real of Learned Robotic Fish Control | Liam Maloney, Simon Ramchandani, Mike Y. Michelis, Ronan Hinchet et al. | [Abstract](https://arxiv.org/abs/2609.36993) · [PDF](https://arxiv.org/pdf/2609.36993) | rule-assigned |
@@ -91,7 +94,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-19 | SCAPE: Scenario-Conditioned Simulation-Augmented Policy Evaluation | Dijie Zhu, Seunghun Oh, Ruopeng Huang, Zhiyu Huang et al. | [Abstract](https://arxiv.org/abs/2608.19425) · [PDF](https://arxiv.org/pdf/2608.19425) | rule-assigned |
 | 2026-08-13 | Coverage Aware Active Evaluation for Failure Discovery with Paired Systems | Anjali Parashar, Rachel Luo, Apoorva Sharma, Sushant Veer et al. | [Abstract](https://arxiv.org/abs/2608.13719) · [PDF](https://arxiv.org/pdf/2608.13719) | rule-assigned |
 | 2026-08-10 | SAFE-CHEM: Uncertainty-Aware Policy Switching for Robust Robotic Chemistry | Laura Jones, Shazil Shahzad, Ayesha Sana, Gabriella Pizzuto | [Abstract](https://arxiv.org/abs/2608.09303) · [PDF](https://arxiv.org/pdf/2608.09303) | rule-assigned |
-| 2026-08-06 | LyEvO: Lyapunov-Guided Evolutionary Optimization for Safe and Robust Sim-to-Real Policy Learning | Riccardo Curcio, Hongpeng Cao, Marco Caccamo | [Abstract](https://arxiv.org/abs/2608.06481) · [PDF](https://arxiv.org/pdf/2608.06481) | rule-assigned |
+| 2026-08-06 | Safe and Robust Neural Policy Learning with Statistical Verification for Sim-to-Real Deployment in Robotics | Riccardo Curcio, Hongpeng Cao, Marco Caccamo | [Abstract](https://arxiv.org/abs/2608.06481) · [PDF](https://arxiv.org/pdf/2608.06481) | rule-assigned |
 | 2026-08-03 | Certifying Plans under Model Mismatch: A Trilemma for Reachability from Scarce Data | Yanliang Huang, Zhen Zhang, Ahmad Hafez, Wenyuan Wu et al. | [Abstract](https://arxiv.org/abs/2608.02453) · [PDF](https://arxiv.org/pdf/2608.02453) | rule-assigned |
 | 2026-08-03 | Bridging the Sim-to-Real Gap in Parallel-Link Leg Mechanisms via Simulator-Side Dynamics Normalization | Jinsong Hong, Jangho Kim, Jihwan Lee, Donghyun Kim et al. | [Abstract](https://arxiv.org/abs/2608.01697) · [PDF](https://arxiv.org/pdf/2608.01697) | rule-assigned |
 | 2026-08-02 | STAR-VLM: Spatiotemporal Grounding Vision-Language Models for Motion and Velocity Estimation via Automotive Radar Supervision | Pou-Chun Kung, Aryaman Rao, Utkrisht Sahai, Hemanth Murali et al. | [Abstract](https://arxiv.org/abs/2608.01535) · [PDF](https://arxiv.org/pdf/2608.01535) | rule-assigned |

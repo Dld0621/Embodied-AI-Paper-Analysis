@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Pending%20specialty%20review#research-workbench)
 
-> 26 conference papers · 133 recent arXiv papers
+> 26 conference papers · 135 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -51,10 +51,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | HandoverSim: A Simulation Framework and Benchmark for Human-to-Robot Object Handovers | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2205.09747) · [Index](https://dblp.org/rec/journals/corr/abs-2205-09747) | needs-review |
 | 2022 | HoloOcean: An Underwater Robotics Simulator | ICRA · Simulator | [Paper](https://doi.org/10.1109/icra46639.2022.9812353) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812353) | needs-review |
 
-## Recent arXiv papers (133)
+## Recent arXiv papers (135)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-02 | RoboChemGym: A Protocol-Driven Generative Simulation Framework for Long-Horizon Chemical Manipulation | Chenxi Li, Haiyuan Wan, Rui Li, Jingyuan Li et al. | [Abstract](https://arxiv.org/abs/2610.02708) · [PDF](https://arxiv.org/pdf/2610.02708) | needs-review |
+| 2026-10-02 | DeltaWorld: Physically Consistent Interactive World Simulators via Action-Conditioned Latent Increment Learning | Boyuan Hou, Xiaoge Cao, Chaofan Zhang, Shuo Wang et al. | [Abstract](https://arxiv.org/abs/2610.02691) · [PDF](https://arxiv.org/pdf/2610.02691) | needs-review |
 | 2026-09-25 | HapticWorld: an Interactive World Simulator with Real-time Torque Feedback | Shaoting Peng, Litian Liang, Yixuan Wang, Ming Yang et al. | [Abstract](https://arxiv.org/abs/2609.31924) · [PDF](https://arxiv.org/pdf/2609.31924) | needs-review |
 | 2026-09-24 | A Simple Gripper Interface for Simulator-Agnostic Cloth Manipulation | Abhilash Nayak, Franco Coltraro, Maria Alberich-Carramiñana, Carme Torras | [Abstract](https://arxiv.org/abs/2609.29340) · [PDF](https://arxiv.org/pdf/2609.29340) | needs-review |
 | 2026-09-15 | LOTUSim-Energy: A Maritime Simulator for Human-Drone Interaction in Autonomous Offshore Operation \&amp; Maintenance | Juliette Grosset, Marie Dubromel, Hélène Lechêne, Quentin Arzel et al. | [Abstract](https://arxiv.org/abs/2609.17124) · [PDF](https://arxiv.org/pdf/2609.17124) | needs-review |

@@ -1,12 +1,12 @@
 # Model Predictive Control · 模型预测控制
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Model-based%20Decision%20Making&specialty=Model%20Predictive%20Control#research-workbench)
 
-> 11 conference papers · 293 recent arXiv papers
+> 11 conference papers · 296 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -36,10 +36,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Nonlinear Model Predictive Control with Cost Function Scheduling for a Wheeled Mobile Robot | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981066) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981066) | rule-assigned |
 | 2022 | SMS-MPC: Adversarial Learning-based Simultaneous Prediction Control with Single Model for Mobile Robots | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981289) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981289) | rule-assigned |
 
-## Recent arXiv papers (293)
+## Recent arXiv papers (296)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-05 | MagServo: Uncertainty-Resilient Hierarchical Magnetic Servoing via Learned Latent Representations | Yuhan Tan, Yameng Zhang, Pei Liu, Yao Zhong et al. | [Abstract](https://arxiv.org/abs/2610.06046) · [PDF](https://arxiv.org/pdf/2610.06046) | rule-assigned |
+| 2026-10-05 | Distribution-Transfer Safe-Horizon MPC under Mode Uncertainty | Stephen Crawford, Nora Ayanian | [Abstract](https://arxiv.org/abs/2610.07277) · [PDF](https://arxiv.org/pdf/2610.07277) | rule-assigned |
+| 2026-10-04 | Optimal Control with Learned Critics under Unmodeled State Dependencies | Philipp Schoch, Markus Ryll | [Abstract](https://arxiv.org/abs/2610.05359) · [PDF](https://arxiv.org/pdf/2610.05359) | rule-assigned |
+| 2026-10-03 | Reachability-Guided Sequential Quadratic Programming-Guarded Model Predictive Path Integral for Safe Nonlinear Predictive Control | Alexandre Didier, Jason J. Choi, Namhoon Cho, Claire J. Tomlin et al. | [Abstract](https://arxiv.org/abs/2610.04406) · [PDF](https://arxiv.org/pdf/2610.04406) | rule-assigned |
+| 2026-10-02 | Towards Safer Autonomous Driving in an Open World: A Dual-Process Approach | Simon Janssen, Michiel Braat, Chris van der Ploeg, Serge Thill et al. | [Abstract](https://arxiv.org/abs/2610.04088) · [PDF](https://arxiv.org/pdf/2610.04088) | rule-assigned |
+| 2026-10-02 | LLA-MPC on Embedded Hardware: Rapid Adaptive Control with Thousands of Parallel Models | Henry Z. Liao, Maitham F. AL-Sunni, John M. Dolan | [Abstract](https://arxiv.org/abs/2610.03616) · [PDF](https://arxiv.org/pdf/2610.03616) | rule-assigned |
 | 2026-09-24 | Learning-Based Pressure Predictive Control of a Vertebraic Soft Robotic Tail | Wenjian Yang, Nan Huang, Yukang Nie, Fang Chen et al. | [Abstract](https://arxiv.org/abs/2609.30479) · [PDF](https://arxiv.org/pdf/2609.30479) | rule-assigned |
 | 2026-09-24 | AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control | Jiabin Qiu, Zixuan Chen, Hongye Cao, Jieqi Shi et al. | [Abstract](https://arxiv.org/abs/2609.30264) · [PDF](https://arxiv.org/pdf/2609.30264) | rule-assigned |
 | 2026-09-22 | Safety-Constrained Model Predictive Control for an Omnidirectional Walking Assistive Robot Using Control Barrier Function | Andrea Fortuna, Marta Lorenzini, Elisa Motta, Alberto Ranavolo et al. | [Abstract](https://arxiv.org/abs/2609.25994) · [PDF](https://arxiv.org/pdf/2609.25994) | rule-assigned |
@@ -330,9 +336,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-19 | NeuroSMPC: A Neural Network guided Sampling Based MPC for On-Road Autonomous Driving | Kaustab Pal, Aditya Sharma, Mohd Omama, Parth N. Shah et al. | [Abstract](https://arxiv.org/abs/2310.13077) · [PDF](https://arxiv.org/pdf/2310.13077) | rule-assigned |
 | 2023-10-15 | Adaptive Contact-Implicit Model Predictive Control with Online Residual Learning | Wei-Cheng Huang, Alp Aydinoglu, Wanxin Jin, Michael Posa | [Abstract](https://arxiv.org/abs/2310.09893) · [PDF](https://arxiv.org/pdf/2310.09893) | rule-assigned |
 | 2023-10-11 | ASV Station Keeping under Wind Disturbances using Neural Network Simulation Error Minimization Model Predictive Control | Jalil Chavez-Galaviz, Jianwen Li, Ajinkya Chaudhary, Nina Mahmoudian | [Abstract](https://arxiv.org/abs/2310.07892) · [PDF](https://arxiv.org/pdf/2310.07892) | rule-assigned |
-| 2023-10-04 | Tightly Joining Positioning and Control for Trustworthy Unmanned Aerial Vehicles Based on Factor Graph Optimization in Urban Transportation | Peiwen Yang, Weisong Wen | [Abstract](https://arxiv.org/abs/2310.02542) · [PDF](https://arxiv.org/pdf/2310.02542) | rule-assigned |
-| 2023-10-04 | LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving | Hao Sha, Yao Mu, Yuxuan Jiang, Li Chen et al. | [Abstract](https://arxiv.org/abs/2310.03026) · [PDF](https://arxiv.org/pdf/2310.03026) | rule-assigned |
-| 2023-10-04 | Incorporating Target Vehicle Trajectories Predicted by Deep Learning Into Model Predictive Controlled Vehicles | Ni Dang, Zengjie Zhang, Jizheng Liu, Marion Leibold et al. | [Abstract](https://arxiv.org/abs/2310.02843) · [PDF](https://arxiv.org/pdf/2310.02843) | rule-assigned |
 
 ---
 

@@ -1,12 +1,12 @@
 # Gripper & Suction Grasp Planning · 夹爪与吸盘抓取规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Grasping%20%26%20Pick-place&specialty=Gripper%20%26%20Suction%20Grasp%20Planning#research-workbench)
 
-> 87 conference papers · 149 recent arXiv papers
+> 87 conference papers · 148 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -112,10 +112,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | On the Importance of Label Encoding and Uncertainty Estimation for Robotic Grasp Detection | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9981866) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981866) | rule-assigned |
 | 2022 | Sample Efficient Grasp Learning Using Equivariant Models | RSS · Grasp | [Paper](https://doi.org/10.15607/rss.2022.xviii.071) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.071) | rule-assigned |
 
-## Recent arXiv papers (149)
+## Recent arXiv papers (148)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-03 | RAGrasp: Geometry-Semantic Template Retrieval and Grasp Transfer | Shenzhe Zhu, Chengxiao He, Jan Harder | [Abstract](https://arxiv.org/abs/2610.04438) · [PDF](https://arxiv.org/pdf/2610.04438) | rule-assigned |
 | 2026-10-01 | Continual Learning for 6-DoF Grasp Synthesis via Experience and Demonstrations | Giulio Schiavi, Andrei Cramariuc, Michael Pantic, Roland Siegwart | [Abstract](https://arxiv.org/abs/2610.01301) · [PDF](https://arxiv.org/pdf/2610.01301) | rule-assigned |
 | 2026-09-27 | Steer2Grasp: Inference-Time Embodiment-Aware Steering for Diverse Physically Feasible Grasp Diffusion | Vignesh Vembar, Ayush Kaura, A Padmaprabhan, Siddharth Sinha et al. | [Abstract](https://arxiv.org/abs/2609.33546) · [PDF](https://arxiv.org/pdf/2609.33546) | rule-assigned |
 | 2026-09-25 | Vision-Based 6-DoF Grasp Pose Estimation for Robot Cloth Unfolding | Domen Tabernik, Peter Nimac, Jan Jerićević, Danijel Skočaj et al. | [Abstract](https://arxiv.org/abs/2609.31452) · [PDF](https://arxiv.org/pdf/2609.31452) | rule-assigned |
@@ -263,8 +264,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-05 | Towards Feasible Dynamic Grasping: Leveraging Gaussian Process Distance Field, SE(3) Equivariance and Riemannian Mixture Models | Ho Jin Choi, Nadia Figueroa | [Abstract](https://arxiv.org/abs/2311.02576) · [PDF](https://arxiv.org/pdf/2311.02576) | rule-assigned |
 | 2023-10-27 | Parallel-Jaw Gripper and Grasp Co-Optimization for Sets of Planar Objects | Rebecca H. Jiang, Neel Doshi, Ravi Gondhalekar, Alberto Rodriguez | [Abstract](https://arxiv.org/abs/2310.18425) · [PDF](https://arxiv.org/pdf/2310.18425) | rule-assigned |
 | 2023-10-27 | Multi-fingered Dynamic Grasping for Unknown Objects | Yannick Burkhardt, Qian Feng, Jianxiang Feng, Karan Sharma et al. | [Abstract](https://arxiv.org/abs/2310.17923) · [PDF](https://arxiv.org/pdf/2310.17923) | rule-assigned |
-| 2023-10-06 | Toward a Plug-and-Play Vision-Based Grasping Module for Robotics | François Hélénon, Johann Huber, Faïz Ben Amar, Stéphane Doncieux | [Abstract](https://arxiv.org/abs/2310.04349) · [PDF](https://arxiv.org/pdf/2310.04349) | rule-assigned |
-| 2023-10-05 | ContactGen: Generative Contact Modeling for Grasp Generation | Shaowei Liu, Yang Zhou, Jimei Yang, Saurabh Gupta et al. | [Abstract](https://arxiv.org/abs/2310.03740) · [PDF](https://arxiv.org/pdf/2310.03740) | rule-assigned |
 
 ---
 

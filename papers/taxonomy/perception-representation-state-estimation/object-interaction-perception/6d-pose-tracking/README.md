@@ -1,7 +1,7 @@
 # 6D Pose & Tracking · 六维姿态与跟踪
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Object%20%26%20Interaction%20Perception&specialty=6D%20Pose%20%26%20Tracking#research-workbench)
@@ -67,6 +67,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | WAPR: A Foundation Model for Wide-Angle Refinement in Unseen Object Pose Estimation | Yulin Wang, Mengting Hu, Hongli Li, Jianghao Zhou et al. | [Abstract](https://arxiv.org/abs/2610.09535) · [PDF](https://arxiv.org/pdf/2610.09535) | rule-assigned |
+| 2026-10-02 | RYOPO: Bringing End-to-End Category-Level Object Pose Estimation into Real Time | Hakjin Lee, Junghoon Seo, Jaehoon Sim | [Abstract](https://arxiv.org/abs/2610.03013) · [PDF](https://arxiv.org/pdf/2610.03013) | rule-assigned |
 | 2026-09-23 | KeyGen: Unsupervised Keypoint based Object-Centric Representations for Category-Level Policy Generalization | Shuxin Cao, Liquan Wang, Masoud Moghani, Benjamin Joffe et al. | [Abstract](https://arxiv.org/abs/2609.28818) · [PDF](https://arxiv.org/pdf/2609.28818) | rule-assigned |
 | 2026-09-22 | CDKF-Track: Cluster-aware Data-Driven Kalman Filtering for Cooperative 3D Multi-Object Tracking | Maria Damanaki, Nikos Piperigkos, Alexandros Gkillas, Aris S. Lalos | [Abstract](https://arxiv.org/abs/2609.25668) · [PDF](https://arxiv.org/pdf/2609.25668) | rule-assigned |
 | 2026-09-17 | Do Spinning Radar Doppler Velocity Measurements Improve Vehicle Detection and Tracking? | Eric Xie, Daniil Lisus, Timothy D. Barfoot | [Abstract](https://arxiv.org/abs/2609.21000) · [PDF](https://arxiv.org/pdf/2609.21000) | rule-assigned |
@@ -262,8 +264,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-25 | Real-time 6-DoF Pose Estimation by an Event-based Camera using Active LED Markers | Gerald Ebmer, Adam Loch, Minh Nhat Vu, Germain Haessig et al. | [Abstract](https://arxiv.org/abs/2310.16618) · [PDF](https://arxiv.org/pdf/2310.16618) | rule-assigned |
 | 2023-10-20 | LanPose: Language-Instructed 6D Object Pose Estimation for Robotic Assembly | Bowen Fu, Sek Kun Leong, Yan Di, Jiwen Tang et al. | [Abstract](https://arxiv.org/abs/2310.13819) · [PDF](https://arxiv.org/pdf/2310.13819) | rule-assigned |
 | 2023-10-12 | Multi-Modal Sensor Fusion and Object Tracking for Autonomous Racing | Phillip Karle, Felix Fent, Sebastian Huch, Florian Sauerbeck et al. | [Abstract](https://arxiv.org/abs/2310.08114) · [PDF](https://arxiv.org/pdf/2310.08114) | rule-assigned |
-| 2023-10-05 | RGBManip: Monocular Image-based Robotic Manipulation through Active Object Pose Estimation | Boshi An, Yiran Geng, Kai Chen, Xiaoqi Li et al. | [Abstract](https://arxiv.org/abs/2310.03478) · [PDF](https://arxiv.org/pdf/2310.03478) | rule-assigned |
-| 2023-10-05 | 3D-Aware Hypothesis & Verification for Generalizable Relative Object Pose Estimation | Chen Zhao, Tong Zhang, Mathieu Salzmann | [Abstract](https://arxiv.org/abs/2310.03534) · [PDF](https://arxiv.org/pdf/2310.03534) | rule-assigned |
 
 ---
 

@@ -1,12 +1,12 @@
 # Calibration & Time Alignment · 标定与时间对齐
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=State%20Estimation%20%26%20Active%20Perception&specialty=Calibration%20%26%20Time%20Alignment#research-workbench)
 
-> 4 conference papers · 156 recent arXiv papers
+> 4 conference papers · 160 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,10 +29,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | MEMROC: Multi-Eye to Mobile RObot Calibration | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2410.08805) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801771) | rule-assigned |
 | 2023 | Ego-Noise Reduction of a Mobile Robot Using Noise Spatial Covariance Matrix Learning and Minimum Variance Distortionless Response | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2303.00829) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342193) | rule-assigned |
 
-## Recent arXiv papers (156)
+## Recent arXiv papers (160)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-05 | Propagating Elevation-Map Uncertainty Through the Contact Maximum in Closed Form | Aleš Kučera, Karel Zimmermann | [Abstract](https://arxiv.org/abs/2610.06103) · [PDF](https://arxiv.org/pdf/2610.06103) | rule-assigned |
+| 2026-10-05 | CentriQ: Calibration-Free Quantization of Diffusion Transformers via Exact Mean Centering | Nataša Jovanović, Mathieu Salzmann, Saqib Javed | [Abstract](https://arxiv.org/abs/2610.06260) · [PDF](https://arxiv.org/pdf/2610.06260) | rule-assigned |
+| 2026-10-04 | Building A Multi-Sensor Platform For Autonomous Driving Research: Challenges and Lessons Learned | Paulo Ricardo Marques de Araujo, Eslam Mounier, Qamar Bader, Emma Dawson et al. | [Abstract](https://arxiv.org/abs/2610.05604) · [PDF](https://arxiv.org/pdf/2610.05604) | rule-assigned |
+| 2026-10-02 | On Representational Alignment among Embodied Agents | Fulvio Mastrogiovanni | [Abstract](https://arxiv.org/abs/2610.02985) · [PDF](https://arxiv.org/pdf/2610.02985) | rule-assigned |
+| 2026-10-02 | Localized Conformal Safety Monitoring with Vision-Language Models for Autonomous Driving | Luís Marques, Rong Fang, Disha Kamale, Dmitry Berenson | [Abstract](https://arxiv.org/abs/2610.02765) · [PDF](https://arxiv.org/pdf/2610.02765) | rule-assigned |
 | 2026-10-01 | Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents | Yen-Jen Wang, Haozhe Jiang, Shuying Deng, Haoru Xue et al. | [Abstract](https://arxiv.org/abs/2610.02204) · [PDF](https://arxiv.org/pdf/2610.02204) | rule-assigned |
 | 2026-09-30 | Benchmarking EMlog Calibration for Autonomous Surface Vehicles | Samuel Cohen-Salmon, Itzik Klein | [Abstract](https://arxiv.org/abs/2609.39203) · [PDF](https://arxiv.org/pdf/2609.39203) | rule-assigned |
 | 2026-09-29 | FAST-Sync: Fast Group Synchronization for any Matrix Lie Group | Shane Holmes, Yiran Luo, Firat Taxpulat, David M. Rosen et al. | [Abstract](https://arxiv.org/abs/2609.38594) · [PDF](https://arxiv.org/pdf/2609.38594) | rule-assigned |
@@ -188,7 +193,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-02 | Automatic Robot Hand-Eye Calibration Enabled by Learning-Based 3D Vision | Leihui Li, Xingyu Yang, Riwei Wang, Xuping Zhang | [Abstract](https://arxiv.org/abs/2311.01335) · [PDF](https://arxiv.org/pdf/2311.01335) | rule-assigned |
 | 2023-10-25 | EdgeCalib: Multi-Frame Weighted Edge Features for Automatic Targetless LiDAR-Camera Calibration | Xingchen Li, Yifan Duan, Beibei Wang, Haojie Ren et al. | [Abstract](https://arxiv.org/abs/2310.16629) · [PDF](https://arxiv.org/pdf/2310.16629) | rule-assigned |
 | 2023-10-18 | One-Shot Imitation Learning: A Pose Estimation Perspective | Pietro Vitiello, Kamil Dreczkowski, Edward Johns | [Abstract](https://arxiv.org/abs/2310.12077) · [PDF](https://arxiv.org/pdf/2310.12077) | rule-assigned |
-| 2023-10-06 | Safety-Oriented Calibration and Evaluation of the Intelligent Driver Model | Kingsley Adjenughwure, Arturo Tejada, Pedro F. V. Oliveira, Jeroen Hogema et al. | [Abstract](https://arxiv.org/abs/2310.04259) · [PDF](https://arxiv.org/pdf/2310.04259) | rule-assigned |
 
 ---
 

@@ -1,12 +1,12 @@
 # Task Decomposition & Symbolic Planning · 任务分解与符号规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Task%20Reasoning%20%26%20Planning&specialty=Task%20Decomposition%20%26%20Symbolic%20Planning#research-workbench)
 
-> 47 conference papers · 226 recent arXiv papers
+> 47 conference papers · 227 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -72,10 +72,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Robot Skill Learning with Identification of Preconditions and Postconditions via Level Set Estimation | IROS · Skill Learning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981933) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981933) | rule-assigned |
 | 2022 | Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement | IROS · Object Rearrangement | [Paper](https://arxiv.org/pdf/2207.08078) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981715) | rule-assigned |
 
-## Recent arXiv papers (226)
+## Recent arXiv papers (227)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-06 | OntoPlan: An Ontology-Grounded Scene Representation and Agentic Framework for Scalable Robot Task Planning | Hyeongwoo Nam, Woongje Cho, Juwon Kim, Jongeun Choi | [Abstract](https://arxiv.org/abs/2610.07649) · [PDF](https://arxiv.org/pdf/2610.07649) | rule-assigned |
 | 2026-09-29 | TALK-Dem: Benchmarking Embodied Task Planning under Dementia-Associated Communication Patterns | Guangxin Zhao, Yiran Hu, Yuan Cao, Chenxi Jiang et al. | [Abstract](https://arxiv.org/abs/2609.38371) · [PDF](https://arxiv.org/pdf/2609.38371) | rule-assigned |
 | 2026-09-18 | A Fully Differentiable Neuro-Soft-Symbolic Framework for Perceptual Task Planning | Hongyan Wei, Wael AbdAlmageed | [Abstract](https://arxiv.org/abs/2609.21221) · [PDF](https://arxiv.org/pdf/2609.21221) | rule-assigned |
 | 2026-09-16 | GAVEL: Graph World Models for Verified and Efficient Long-Horizon LLM Task Planning | Ruiyang Wang, Hao-Lun Hsu, Swarajh Mehta, Jiwoo Kim et al. | [Abstract](https://arxiv.org/abs/2609.19315) · [PDF](https://arxiv.org/pdf/2609.19315) | rule-assigned |

@@ -1,12 +1,12 @@
 # Pushing & Non-prehensile Manipulation · 推滑与非抓取操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Pushing%20%26%20Non-prehensile%20Manipulation#research-workbench)
 
-> 48 conference papers · 130 recent arXiv papers
+> 48 conference papers · 131 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -73,10 +73,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | To ask for help or not to ask: A predictive approach to human-in-the-loop motion planning for robot manipulation tasks | IROS · Manipulation | [Paper](https://eprints.whiterose.ac.uk/189268/1/root.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981679) | rule-assigned |
 | 2022 | Data Augmentation for Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2205.02886) · [Index](https://dblp.org/rec/journals/corr/abs-2205-02886) | rule-assigned |
 
-## Recent arXiv papers (130)
+## Recent arXiv papers (131)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-05 | Learning Coordinated Visuomotor Box-Pushing from Solo Demonstrations | Ryusei Matsumoto, Mei Kinjo, Yoko Sasaki, Keisuke Okumura | [Abstract](https://arxiv.org/abs/2610.05677) · [PDF](https://arxiv.org/pdf/2610.05677) | rule-assigned |
 | 2026-09-27 | Multi-Modal Non-Prehensile Estimation of Physical Parameters via Press-and-Pull Tipping | Steven M. Hyland, Jing Xiao, Cagdas D. Onal | [Abstract](https://arxiv.org/abs/2609.33138) · [PDF](https://arxiv.org/pdf/2609.33138) | rule-assigned |
 | 2026-09-23 | Contact-Implicit Stein Projected ADMM for Discovery of Diverse Contact-Rich Manipulation Strategies | Hrishikesh Sathyanarayan, Christian Hughes, Ian Abraham | [Abstract](https://arxiv.org/abs/2609.28299) · [PDF](https://arxiv.org/pdf/2609.28299) | rule-assigned |
 | 2026-09-21 | Minimum Time Trajectories for a Car-Like Mobile Robot Moving with Rigid Wheels Under Non-Sliding Constraints | Joseph Ben-Asher, Elon Rimon, Leeor Ravina | [Abstract](https://arxiv.org/abs/2609.24832) · [PDF](https://arxiv.org/pdf/2609.24832) | rule-assigned |

@@ -1,7 +1,7 @@
 # Terrain Adaptation · 地形适应
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Quadruped%20%26%20Multilegged%20Locomotion&specialty=Terrain%20Adaptation#research-workbench)
@@ -37,6 +37,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-05 | BRACE: Adapting Whole-Body References for Force and Terrain Aware Humanoid Motion Tracking | Sudarshan Harithas, Chen Yu, Juan Borbon, Shubhankar Mondal et al. | [Abstract](https://arxiv.org/abs/2610.07052) · [PDF](https://arxiv.org/pdf/2610.07052) | rule-assigned |
 | 2026-09-29 | TERRA: Terrain-Aware Reconstruction, Retargeting and Control for Musculoskeletal Locomotion | Merkourios Simos, Chengkun Li, Bianca Ziliotto, Alexander Mathis | [Abstract](https://arxiv.org/abs/2609.38653) · [PDF](https://arxiv.org/pdf/2609.38653) | rule-assigned |
 | 2026-09-28 | Terrain-Aware Autonomous Planetary Exploration for Exteroceptive-Proprioceptive Mapping with Quadruped Scouts | Alberto Sanchez-Delgado, João Carlos Virgolino Soares, Victor Barasuol, Claudio Semini | [Abstract](https://arxiv.org/abs/2609.35493) · [PDF](https://arxiv.org/pdf/2609.35493) | rule-assigned |
 | 2026-08-17 | Robot-Body-Aware Traversal Risk Graph Planning for Wheeled-Legged Robots in Complex Terrain | Zhiqiao Guo, Bichi Zhang, Sören Schwertfeger | [Abstract](https://arxiv.org/abs/2608.16433) · [PDF](https://arxiv.org/pdf/2608.16433) | rule-assigned |
@@ -71,7 +72,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-09-24 | Whole-body End-Effector Pose Tracking | Tifanny Portela, Andrei Cramariuc, Mayank Mittal, Marco Hutter | [Abstract](https://arxiv.org/abs/2409.16048) · [PDF](https://arxiv.org/pdf/2409.16048) | rule-assigned |
 | 2024-08-24 | Modeling of Terrain Deformation by a Grouser Wheel for Lunar Rover Simulation | Junnosuke Kamohara, Vinicius Ares, James Hurrell, Keisuke Takehana et al. | [Abstract](https://arxiv.org/abs/2408.13468) · [PDF](https://arxiv.org/pdf/2408.13468) | rule-assigned |
 | 2024-02-08 | You've Got to Feel It To Believe It: Multi-Modal Bayesian Inference for Semantic and Property Prediction | Parker Ewen, Hao Chen, Yuzhen Chen, Anran Li et al. | [Abstract](https://arxiv.org/abs/2402.05872) · [PDF](https://arxiv.org/pdf/2402.05872) | rule-assigned |
-| 2023-10-07 | Terrain-Aware Quadrupedal Locomotion via Reinforcement Learning | Haojie Shi, Qingxu Zhu, Lei Han, Wanchao Chi et al. | [Abstract](https://arxiv.org/abs/2310.04675) · [PDF](https://arxiv.org/pdf/2310.04675) | rule-assigned |
 
 ---
 

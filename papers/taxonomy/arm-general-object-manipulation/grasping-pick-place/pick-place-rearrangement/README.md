@@ -1,7 +1,7 @@
 # Pick-place & Rearrangement · 拾放与物体重排
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Grasping%20%26%20Pick-place&specialty=Pick-place%20%26%20Rearrangement#research-workbench)
@@ -120,6 +120,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-02 | I2CD: Direct Image-to-Convex Decomposition for Simulation-Ready Collision Geometry | Qian Wang, Liam Merz Hoffmeister, Brian Scassellati, Daniel Rakita | [Abstract](https://arxiv.org/abs/2610.03453) · [PDF](https://arxiv.org/pdf/2610.03453) | rule-assigned |
 | 2026-09-30 | Refusals That Bend: Measuring and Predicting Task Malleability in Embodied VLM Planners | Leo Y. Lin, Mikhail Kuznetsov, Muslum Ozgur Ozmen, Z. Berkay Celik | [Abstract](https://arxiv.org/abs/2609.38971) · [PDF](https://arxiv.org/pdf/2609.38971) | rule-assigned |
 | 2026-09-28 | ARS: Agentic Reward System for Robot Learning | Sheng Hu, Weiyi Lu, Lingbing Zeng, Gan Weng et al. | [Abstract](https://arxiv.org/abs/2609.34484) · [PDF](https://arxiv.org/pdf/2609.34484) | rule-assigned |
 | 2026-09-27 | Test-Time Spatial Reasoning for Robot Manipulation Using Generative Real-to-Sim | Ivan Kapelyukh, Yafei Hu, Ran Gong, Brandon May et al. | [Abstract](https://arxiv.org/abs/2609.33982) · [PDF](https://arxiv.org/pdf/2609.33982) | rule-assigned |
@@ -156,7 +157,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-04-14 | Robotic Nanoparticle Synthesis via Solution-based Processes | Dasharadhan Mahalingam, Michael Gallagher, Nilanjan Chakraborty, Stanislaus S. Wong | [Abstract](https://arxiv.org/abs/2604.12169) · [PDF](https://arxiv.org/pdf/2604.12169) | rule-assigned |
 | 2026-04-12 | OmniUMI: Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction | Shaqi Luo, Yuanyuan Li, Youhao Hu, Chenhao Yu et al. | [Abstract](https://arxiv.org/abs/2604.10647) · [PDF](https://arxiv.org/pdf/2604.10647) | rule-assigned |
 | 2026-04-10 | Multimodal Anomaly Detection for Human-Robot Interaction | Guilherme Ribeiro, Iordanis Antypas, Leonardo Bizzaro, João Bimbo et al. | [Abstract](https://arxiv.org/abs/2604.09326) · [PDF](https://arxiv.org/pdf/2604.09326) | rule-assigned |
-| 2026-04-01 | Deep Reinforcement Learning for Robotic Manipulation under Distribution Shift with Bounded Extremum Seeking | Shaifalee Saxena, Rafael Fierro, Alexander Scheinker | [Abstract](https://arxiv.org/abs/2604.01142) · [PDF](https://arxiv.org/pdf/2604.01142) | rule-assigned |
 | 2026-03-27 | CREST: Constraint-Release Execution for Multi-Robot Warehouse Shelf Rearrangement | Jiaqi Tan, Yudong Luo, Sophia Huang, Yifan Yang et al. | [Abstract](https://arxiv.org/abs/2603.28803) · [PDF](https://arxiv.org/pdf/2603.28803) | rule-assigned |
 | 2026-03-24 | Grounding Vision and Language to 3D Masks for Long-Horizon Box Rearrangement | Ashish Malik, Caleb Lowe, Aayam Shrestha, Stefan Lee et al. | [Abstract](https://arxiv.org/abs/2603.23676) · [PDF](https://arxiv.org/pdf/2603.23676) | rule-assigned |
 | 2026-03-23 | IGV-RRT: Prior-Real-Time Observation Fusion for Active Object Search in Changing Environments | Wei Zhang, Ping Gong, Yujie Wang, Leilei Yao et al. | [Abstract](https://arxiv.org/abs/2603.21887) · [PDF](https://arxiv.org/pdf/2603.21887) | rule-assigned |

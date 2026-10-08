@@ -1,12 +1,12 @@
 # Vision-Language Navigation · 视觉语言导航
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Goal%20%26%20Language%20Navigation&specialty=Vision-Language%20Navigation#research-workbench)
 
-> 33 conference papers · 256 recent arXiv papers
+> 33 conference papers · 260 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -58,10 +58,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Depth-Aware Vision-and-Language Navigation using Scene Query Attention Network | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811921) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811921) | rule-assigned |
 | 2022 | Weakly-Supervised Multi-Granularity Map Learning for Vision-and-Language Navigation | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.07506) · [Index](https://dblp.org/rec/conf/nips/ChenJLZLTG22) | rule-assigned |
 
-## Recent arXiv papers (256)
+## Recent arXiv papers (260)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-05 | StageVLN: Spatial and Trajectory Auxiliary Guidance for Efficient Vision-Language Navigation | Anh Dao, Quan-Dung Pham, Le Danh Vinh, The Anh Nguyen et al. | [Abstract](https://arxiv.org/abs/2610.05664) · [PDF](https://arxiv.org/pdf/2610.05664) | rule-assigned |
+| 2026-10-05 | Sim-to-Real Transfer of Vision-Language Navigation in Continuous Environments Using an Ackermann-Steered Mobile Robot | Chalindu Abeywansa, Sahan Gunasekara, Devindi De Silva, Seniru Dissanayake et al. | [Abstract](https://arxiv.org/abs/2610.07192) · [PDF](https://arxiv.org/pdf/2610.07192) | rule-assigned |
+| 2026-10-04 | LightVLN: Efficient Aerial Vision-and-Language Navigation with Compact Memory and History-Guided Local Aggregation | Yiming Zhao, Tianshun Li, Jingle He, Ruonan Chai et al. | [Abstract](https://arxiv.org/abs/2610.05024) · [PDF](https://arxiv.org/pdf/2610.05024) | rule-assigned |
+| 2026-10-02 | GeoScaffold: Learning Compact Geometric Latents via Reconstruction for Efficient Vision-Language Navigation | Yixuan Jiang, Wentong Li, An Liu, Zihao Xin et al. | [Abstract](https://arxiv.org/abs/2610.02697) · [PDF](https://arxiv.org/pdf/2610.02697) | rule-assigned |
 | 2026-10-01 | UniTrackPLA: Unified Panorama-Language-Action Model for Instruction-Guided Navigation and Dynamic Person Tracking | Pengfei Qi, Haoran Lin, Sizhuang Chen, Kai Luo et al. | [Abstract](https://arxiv.org/abs/2610.00878) · [PDF](https://arxiv.org/pdf/2610.00878) | rule-assigned |
 | 2026-09-30 | NavHarness: Adaptive Goals for Agentic Vision-Language Navigation | Haoxiang Shi, Zaijing Li, Muhe Ding, Xiang Deng et al. | [Abstract](https://arxiv.org/abs/2609.39915) · [PDF](https://arxiv.org/pdf/2609.39915) | rule-assigned |
 | 2026-09-30 | ASENA: Self-evolving Agents for Embodied Navigation | An-Chieh Cheng, Isabella Liu, Edmund Bu, Johan Bjorck et al. | [Abstract](https://arxiv.org/abs/2609.39207) · [PDF](https://arxiv.org/pdf/2609.39207) | rule-assigned |
@@ -131,7 +135,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-29 | FutureNav: Unified World-Action Modeling for Vision-and-Language Navigation | Lingfeng Zhang, Zeying Gong, Xiaoshuai Hao, Haoxiang Fu et al. | [Abstract](https://arxiv.org/abs/2606.30367) · [PDF](https://arxiv.org/pdf/2606.30367) | rule-assigned |
 | 2026-06-29 | Automating the Design of Embodied Agent Architectures | Jian Zhou, Sihao Lin, Jin Li, Shuai Fu et al. | [Abstract](https://arxiv.org/abs/2606.30111) · [PDF](https://arxiv.org/pdf/2606.30111) | rule-assigned |
 | 2026-06-18 | GroundControl: Anticipating Navigation Failures in Vision-Language Agents via Trajectory-Consistent Uncertainty Estimates | Nastaran Darabi, Divake Kumar, Sina Tayebati, Devashri Naik et al. | [Abstract](https://arxiv.org/abs/2606.20479) · [PDF](https://arxiv.org/pdf/2606.20479) | rule-assigned |
-| 2026-06-09 | AgenticNav: Zero-Shot Vision-and-Language Navigation as a Tool-Calling Harness | Yijian Li, Changze Li, Hantian Shi, Jiaying Luo et al. | [Abstract](https://arxiv.org/abs/2606.10577) · [PDF](https://arxiv.org/pdf/2606.10577) | rule-assigned |
+| 2026-06-09 | AgenticNav: Zero-Shot Vision-and-Language Navigation as a Tool-Calling Harness | Yijian Li, Changze Li, Han Zheng, Jiyuan Cai et al. | [Abstract](https://arxiv.org/abs/2606.10577) · [PDF](https://arxiv.org/pdf/2606.10577) | rule-assigned |
 | 2026-06-08 | SpaceVLN: A Zero-Shot Vision-and-Language Navigation Agent with Online Spatial Cognitive Memory and Reasoning | Yucheng Deng, Pingrui Lai, Xinhai Li, Chenjia Bai et al. | [Abstract](https://arxiv.org/abs/2606.08992) · [PDF](https://arxiv.org/pdf/2606.08992) | rule-assigned |
 | 2026-06-05 | Think Like a Pilot: Fine-Grained Long-Horizon UAV Navigation | Xiangyi Zheng, Xiangyu Wang, Qinan Liao, Zimu Tang et al. | [Abstract](https://arxiv.org/abs/2606.06836) · [PDF](https://arxiv.org/pdf/2606.06836) | rule-assigned |
 | 2026-06-05 | Beyond Waypoints: A Trajectory-Centric Waypointing Paradigm for Vision-Language Navigation | Haoxiang Shi, Xiang Deng, Haoyu Zhang, Qiaohui Chu et al. | [Abstract](https://arxiv.org/abs/2606.07244) · [PDF](https://arxiv.org/pdf/2606.07244) | rule-assigned |

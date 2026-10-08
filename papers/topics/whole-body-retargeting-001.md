@@ -1,7 +1,7 @@
-# Whole-body Retargeting · 1–40
+# Whole-body Retargeting · 1–42
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Topic index](whole-body-retargeting.md)
@@ -17,10 +17,12 @@
 | [Zero-Shot Retargeting of Learned Quadruped Locomotion Policies Using Hybrid Kinodynamic Model Predictive Control](https://arxiv.org/pdf/2209.14123) | conference · IROS | Legged Locomotion & Whole-body Control → Quadruped & Multilegged Locomotion → Gaits & Locomotion Control | rule-assigned |
 | [A Closed-Form Geometric Retargeting Solver for Upper Body Humanoid Robot Teleoperation](https://arxiv.org/abs/2602.01632) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |
 | [AdaMorph: Unified Motion Retargeting via Embodiment-Aware Adaptive Transformers](https://arxiv.org/abs/2601.07284) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |
+| [Beyond Retargeting: Low-Latency and Robust Humanoid Whole-Body Teleoperation with Learned Atomic Motion Primitives](https://arxiv.org/abs/2610.07891) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Motion Imitation & Generation | rule-assigned |
 | [BeyondRetarget: Learning Executable Humanoid Motions Directly from Monocular Video](https://arxiv.org/abs/2609.29850) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |
 | [Chasing Autonomy: Dynamic Retargeting and Control Guided RL for Performant and Controllable Humanoid Running](https://arxiv.org/abs/2603.25902) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Running, Jumping & Agile Motion | rule-assigned |
 | [Dense Temporal Motion Retargeting for Legged Robots](https://arxiv.org/abs/2609.38617) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |
 | [Direct Dynamic Retargeting for Humanoid Imitation Learning from Videos](https://arxiv.org/abs/2605.23762) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Motion Imitation & Generation | rule-assigned |
+| [From Legs to Wheels: Embodiment-Aware Human Motion Retargeting for Mobile-Base Humanoids](https://arxiv.org/abs/2610.08381) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |
 | [From Sign Language Generation to Humanoid Execution: Vision-Language Guided Retargeting with Collision Mitigation](https://arxiv.org/abs/2607.17769) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | needs-review |
 | [Geometry-Preserving Human-to-Robot Upper-Body Motion Retargeting from Monocular Video](https://arxiv.org/abs/2609.37776) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |
 | [Human2Humanoid: Physics-Aware Cross-Morphology Motion Retargeting for Humanoid Robots](https://arxiv.org/abs/2606.03476) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |

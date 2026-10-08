@@ -1,12 +1,12 @@
 # Actuators & Transmission · 执行器与传动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Actuators%20%26%20Transmission#research-workbench)
 
-> 47 conference papers · 315 recent arXiv papers
+> 47 conference papers · 317 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -72,10 +72,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Agile Hybrid Whole-body Motor Skills for Thruster-Aided Humanoid Robots | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9981974) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981974) | rule-assigned |
 | 2022 | Omnidirectional walking of a quadruped robot enabled by compressible tendon-driven soft actuators | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981314) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981314) | rule-assigned |
 
-## Recent arXiv papers (315)
+## Recent arXiv papers (317)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | LACE-CRAFT: Robot Co-Design with Actor Inheritance and Blackboard Collaboration | Yuhan Wen, Jiawei Wang, Qixuan Zhang, Yusen Qin et al. | [Abstract](https://arxiv.org/abs/2610.09283) · [PDF](https://arxiv.org/pdf/2610.09283) | rule-assigned |
+| 2026-10-06 | Beyond Task Reward: A Controller-Restriction Protocol for Evaluating Embodiment-Dependent Competence | Siyuan Zhang | [Abstract](https://arxiv.org/abs/2610.07629) · [PDF](https://arxiv.org/pdf/2610.07629) | rule-assigned |
+| 2026-10-05 | HexaGripper: A Single-Actuator, Winch-Deployed Gripper for Autonomous Aerial Parcel Collection | Nimantha Adikaram, Mahen Abeyratne, Lakmina Chandrajith, A. H. T. E. De Silva et al. | [Abstract](https://arxiv.org/abs/2610.08259) · [PDF](https://arxiv.org/pdf/2610.08259) | rule-assigned |
+| 2026-10-04 | VAMPS: Visual and Motor Policies from Sampling-Based Planning | Mohamed Yassine Kabouri, Pietro Noah Crestaz, Quang-Nam Nguyen, Qilong Cheng et al. | [Abstract](https://arxiv.org/abs/2610.05331) · [PDF](https://arxiv.org/pdf/2610.05331) | rule-assigned |
 | 2026-09-30 | Making Waves: A Membrane-Coupled Delta Array for Manipulating Objects Below the Actuator Spacing | Bailey Dacre, Andrés Faíña, Oliver Kroemer, Zeynep Temel | [Abstract](https://arxiv.org/abs/2609.39652) · [PDF](https://arxiv.org/pdf/2609.39652) | rule-assigned |
 | 2026-09-29 | From Sky to Soil: A Morphing Aerial-Ground Robot for Seed Deployment | Namai Chandra, Lining Yao | [Abstract](https://arxiv.org/abs/2609.37072) · [PDF](https://arxiv.org/pdf/2609.37072) | rule-assigned |
 | 2026-09-28 | Test-Time Adaptation of Manipulation Policies Under Actuator Degradation | Som Sagar, Ransalu Senanayake | [Abstract](https://arxiv.org/abs/2609.36182) · [PDF](https://arxiv.org/pdf/2609.36182) | rule-assigned |
@@ -389,8 +393,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-26 | Single-Motor Robotic Gripper With Three Functional Modes for Grasping in Confined Spaces | Toshihiro Nishimura, Tetsuyou Watanabe | [Abstract](https://arxiv.org/abs/2310.17192) · [PDF](https://arxiv.org/pdf/2310.17192) | rule-assigned |
 | 2023-10-17 | Origami-inspired Bi-directional Actuator with Orthogonal Actuation | Shuai Liu, Sheeraz Athar, Michael Yu Wang | [Abstract](https://arxiv.org/abs/2310.10959) · [PDF](https://arxiv.org/pdf/2310.10959) | rule-assigned |
 | 2023-10-11 | Body-mounted MR-conditional Robot for Minimally Invasive Liver Intervention | Zhefeng Huang, Anthony L. Gunderman, Samuel E. Wilcox, Saikat Sengupta et al. | [Abstract](https://arxiv.org/abs/2310.07822) · [PDF](https://arxiv.org/pdf/2310.07822) | rule-assigned |
-| 2023-10-05 | Design Optimizer for Planar Soft-Growing Robot Manipulators | Fabio Stroppa | [Abstract](https://arxiv.org/abs/2310.03374) · [PDF](https://arxiv.org/pdf/2310.03374) | rule-assigned |
-| 2023-10-04 | Application-Oriented Co-Design of Motors and Motions for a 6DOF Robot Manipulator | Adrian Stein, Yebin Wang, Yusuke Sakamoto, Bingnan Wang et al. | [Abstract](https://arxiv.org/abs/2310.03132) · [PDF](https://arxiv.org/pdf/2310.03132) | rule-assigned |
 
 ---
 

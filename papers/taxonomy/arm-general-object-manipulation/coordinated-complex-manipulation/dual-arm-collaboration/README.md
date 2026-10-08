@@ -1,12 +1,12 @@
 # Dual-arm Collaboration · 双臂协作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Dual-arm%20Collaboration#research-workbench)
 
-> 46 conference papers · 151 recent arXiv papers
+> 46 conference papers · 153 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -71,10 +71,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Temporal Task Models from Human Bimanual Demonstrations | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS47612.2022.9981068) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981068) | rule-assigned |
 | 2022 | Nonlinear Model Predictive Control for Human-Robot Handover with Application to the Aerial Case | IROS · Robot Hand | [Paper](https://hal.science/hal-03716664) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981045) | rule-assigned |
 
-## Recent arXiv papers (151)
+## Recent arXiv papers (153)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-05 | Trajectory Planning without Trajectory Data: A Manifold-Guided Approach | Silong Yong, Anji Liu, Cunxi Dai, Carl Busart et al. | [Abstract](https://arxiv.org/abs/2610.08863) · [PDF](https://arxiv.org/pdf/2610.08863) | rule-assigned |
+| 2026-10-02 | EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras | Kush Hari, Justin Kerr, Nidhya Shivakumar, Samarth Mahapatra et al. | [Abstract](https://arxiv.org/abs/2610.03710) · [PDF](https://arxiv.org/pdf/2610.03710) | rule-assigned |
 | 2026-09-30 | SteerQuant: Steering Quantization Error with Action-Guided Scaling in World-Action Models | Yunhan Wang, Haodong Wang, Zhiming Liu, Zicong Hong et al. | [Abstract](https://arxiv.org/abs/2609.39056) · [PDF](https://arxiv.org/pdf/2609.39056) | rule-assigned |
 | 2026-09-25 | FRAM: Trajectory-Guided Visual Feature Selection for Compact Language-Conditioned Robot Manipulation | Hiroshi Ito, Hyogo Hiruma, Yoshiki Kanai, Takahiro Yoshida et al. | [Abstract](https://arxiv.org/abs/2609.30965) · [PDF](https://arxiv.org/pdf/2609.30965) | rule-assigned |
 | 2026-09-23 | Watch, Recall, Act: Always-On Robots in Concurrent Embodied Streams | Ding Yi, Peiwen Sun, Chenchu Rong, Jianan Wang et al. | [Abstract](https://arxiv.org/abs/2609.28429) · [PDF](https://arxiv.org/pdf/2609.28429) | rule-assigned |

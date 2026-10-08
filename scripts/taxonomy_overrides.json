@@ -238,5 +238,55 @@
     "reason": "Abstract explicitly generates parallel-jaw grasps rather than multifinger hand motion.",
     "excluded_topics": ["Hand Retargeting"],
     "related_topics": []
+  },
+  "dexforge high fidelity physics informed dexterous retargeting": {
+    "title": "DexForge: High-Fidelity Physics-Informed Dexterous Retargeting",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Physics & Dynamics Retargeting"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: the core framework combines a differentiable simulator, contact-aware kinematic references and force-aware dynamics refinement for physically feasible hand-object transfer; the kinematic reference is a component, not the whole contribution. Official abstract: https://arxiv.org/abs/2610.06331",
+    "related_topics": ["Hand Retargeting", "Dexterous Manipulation", "Contact-rich"]
+  },
+  "eigendexplore structured exploration for dexterous manipulation with human priors": {
+    "title": "EigenDEXplore: Structured Exploration for Dexterous Manipulation with Human Priors",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "Reinforcement Learning",
+      "Online Reinforcement Learning"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: human-derived eigenvectors structure correlated action-space exploration for dexterous reinforcement learning, also evaluated with trajectory optimization; exploration here is policy search, not spatial navigation or information-gain mapping, and human priors are not demonstration imitation. Official abstract: https://arxiv.org/abs/2610.07681",
+    "related_topics": ["Dexterous Manipulation"]
+  },
+  "mim vla learning physical interaction representations from gripper motor feedback": {
+    "title": "MIM-VLA: Learning Physical Interaction Representations from Gripper Motor Feedback",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "VLA & Generalist Robot Policies",
+      "Vision-Language-Action Modeling"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: a learned motor-feedback interaction token conditions SmolVLA's gripper-action pathway using existing current and state feedback; it is a policy representation architecture, not a new actuator or transmission design. Official abstract: https://arxiv.org/abs/2610.08425",
+    "related_topics": []
+  },
+  "sota soft tactile skins for dexterous manipulation": {
+    "title": "SoTa: Soft Tactile Skins for Dexterous Manipulation",
+    "path": [
+      "Robot Hardware & Systems",
+      "Sensors & Human Interfaces",
+      "Tactile & Force Sensors"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: the contribution is a low-cost capacitive tactile skin with full-hand coverage, fabrication and durability evidence, and a corresponding human/robot taxel layout; demonstration co-training evaluates this sensing hardware and does not make the paper a video-to-robot method. Official abstract: https://arxiv.org/abs/2610.02338",
+    "related_topics": ["Dexterous Manipulation"]
+  },
+  "long wam scaling the context of world action models": {
+    "title": "Long-WAM: Scaling the Context of World-Action Models",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "World & Dynamics Modeling",
+      "Action-conditioned Video Prediction"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: the model-system contribution scales causal world-action context through autoregressive video pretraining, future-video prediction and streaming real-time execution; long-horizon manipulation is an evaluation setting, not a new task-decomposition or task-motion planner. Official abstract: https://arxiv.org/abs/2610.10528",
+    "related_topics": ["World Models"]
   }
 }

@@ -1,12 +1,12 @@
 # Mobile Manipulation · 移动操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Mobile%20Manipulation#research-workbench)
 
-> 50 conference papers · 173 recent arXiv papers
+> 50 conference papers · 178 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -75,10 +75,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Symbolic Failure Detection for Grasping and Mobile Manipulation Tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982223) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982223) | rule-assigned |
 | 2022 | Ω2: Optimal Hierarchical Planner for Object Search in Large Environments via Mobile Manipulation | IROS · Mobile Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981194) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981194) | rule-assigned |
 
-## Recent arXiv papers (173)
+## Recent arXiv papers (178)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-06 | VOMMI: Collecting and Leveraging Portable Demonstrations for Mobile Manipulation | Yutian Zhang, Xingrui Xiong, Siyuan Ma, Yang Li et al. | [Abstract](https://arxiv.org/abs/2610.08220) · [PDF](https://arxiv.org/pdf/2610.08220) | rule-assigned |
+| 2026-10-05 | MobileVISTA: Generative Data Augmentation for Pose Generalization in Mobile Manipulation | Suzannah Wistreich, Stephen Tian, Isabella Huang, Vitor Campagnolo Guizilini et al. | [Abstract](https://arxiv.org/abs/2610.07511) · [PDF](https://arxiv.org/pdf/2610.07511) | rule-assigned |
+| 2026-10-02 | MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation | Chenzhi Liu, Yue Zhang, Jiehong Lin, Jianan Wang et al. | [Abstract](https://arxiv.org/abs/2610.03476) · [PDF](https://arxiv.org/pdf/2610.03476) | rule-assigned |
+| 2026-10-02 | LOCUS: Landmark-Oriented Container Discrimination Using Spatial Graphs | Taylor Bergeron, Shibani Senthilbabu, Kevin Leahy | [Abstract](https://arxiv.org/abs/2610.02803) · [PDF](https://arxiv.org/pdf/2610.02803) | rule-assigned |
 | 2026-10-01 | ALFRED: Requirement-driven development of an open-source mobile manipulator for long-term plant monitoring | Ciarán Miceal Johnson, Christopher Quail, Garry Ellard, Alistair McConnell et al. | [Abstract](https://arxiv.org/abs/2610.01477) · [PDF](https://arxiv.org/pdf/2610.01477) | rule-assigned |
 | 2026-09-30 | UniWAM Technical Report: Unified Mobile Manipulation via Mixed-Stream World-Action Modeling and Manipulation Anchor Pose Supervision | Wei Xue, Keliang Liu, Mingzhang Cui, Jinhua Xie et al. | [Abstract](https://arxiv.org/abs/2609.39388) · [PDF](https://arxiv.org/pdf/2609.39388) | rule-assigned |
 | 2026-09-29 | Drone Soccer: Learning to Manipulate with Multicopter Downwash | Neelay Joglekar, Bavin Saravanan, Yutong Wang, Varun Kandiyappan et al. | [Abstract](https://arxiv.org/abs/2609.38588) · [PDF](https://arxiv.org/pdf/2609.38588) | rule-assigned |
@@ -94,6 +98,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-07 | Representation Handoffs for OpenArm-Based Laboratory Mobile Manipulation | Yang Shen, Chonghao Cheng, Ziyi Zhao, Jialuo Zhu et al. | [Abstract](https://arxiv.org/abs/2608.07154) · [PDF](https://arxiv.org/pdf/2608.07154) | rule-assigned |
 | 2026-07-29 | RLMM-Flow: A Flow-based Mobile Manipulation Framework with Latent-Space Reinforcement Learning | Shuhang Wang, Ziming Li, Hui Cheng | [Abstract](https://arxiv.org/abs/2607.26460) · [PDF](https://arxiv.org/pdf/2607.26460) | rule-assigned |
 | 2026-07-15 | Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation | Boyu Mi, Mengchen Ma, Yifei Yao, Xing Gao et al. | [Abstract](https://arxiv.org/abs/2607.13653) · [PDF](https://arxiv.org/pdf/2607.13653) | rule-assigned |
+| 2026-07-13 | VIA: Visual Interface Agent for Robot Control | Hengyuan Hu, Jensen Gao, Priya Sundaresan, Satvik Sharma et al. | [Abstract](https://arxiv.org/abs/2607.11119) · [PDF](https://arxiv.org/pdf/2607.11119) | rule-assigned |
 | 2026-07-13 | Mixture of Frames Policy: Multi-Frame Action Denoising for Bimanual Mobile Manipulation | Dian Wang, Jisang Park, Xiaomeng Xu, Han Zhang et al. | [Abstract](https://arxiv.org/abs/2607.11884) · [PDF](https://arxiv.org/pdf/2607.11884) | rule-assigned |
 | 2026-06-24 | KRVF: A Source-Aware Semantic Voxel World Representation for Edge Mobile Manipulation | Runfeng Ling | [Abstract](https://arxiv.org/abs/2606.26321) · [PDF](https://arxiv.org/pdf/2606.26321) | rule-assigned |
 | 2026-06-24 | DynaMOMA: Instantaneous Prediction of Grasp Poses for Mobile Manipulation of Dynamic Objects | Zhinan Yu, Junyan Xu, Jiazhao Zhang, Zheng Qin et al. | [Abstract](https://arxiv.org/abs/2606.25295) · [PDF](https://arxiv.org/pdf/2606.25295) | rule-assigned |

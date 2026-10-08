@@ -1,12 +1,12 @@
 # Active Exploration & Information Gain · 主动探索与信息增益
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Motion%20Planning%20%26%20Exploration&specialty=Active%20Exploration%20%26%20Information%20Gain#research-workbench)
 
-> 152 conference papers · 570 recent arXiv papers
+> 152 conference papers · 582 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -177,10 +177,23 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | UAV-miniUGV Hybrid System for Hidden Area Exploration and Manipulation | IROS · Exploration | [Paper](https://arxiv.org/pdf/2209.11704) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981957) | rule-assigned |
 | 2022 | Resilient Multi-Sensor Exploration of Multifarious Environments with a Team of Aerial Robots | RSS · Exploration | [Paper](https://doi.org/10.15607/rss.2022.xviii.004) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.004) | rule-assigned |
 
-## Recent arXiv papers (570)
+## Recent arXiv papers (582)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | Semantic-Aware Predictive Mapping for Exploration and Navigation | Kenneth J. K. Ong, William W. J. Teo | [Abstract](https://arxiv.org/abs/2610.10382) · [PDF](https://arxiv.org/pdf/2610.10382) | rule-assigned |
+| 2026-10-07 | RoboQuest: Generalist Physical Agents that Search, Inspect and Test | Liu Renhang, Navonil Majumder, Tej Deep Pala, Soujanya Poria | [Abstract](https://arxiv.org/abs/2610.10388) · [PDF](https://arxiv.org/pdf/2610.10388) | rule-assigned |
+| 2026-10-07 | ActiveLang: Active Open-Vocabulary 3D Mapping with Semantic-Uncertainty-Guided Exploration | Liyan Chen, Hairong Yin, Huangying Zhan, Yi Xu et al. | [Abstract](https://arxiv.org/abs/2610.09518) · [PDF](https://arxiv.org/pdf/2610.09518) | rule-assigned |
+| 2026-10-06 | Reactive Exploration of Unknown Environments for Redundant Robots using Virtual Model Control | Alessio Canzolino, Omar Faris, Alessandro De Blasi, Fulvio Forni | [Abstract](https://arxiv.org/abs/2610.08110) · [PDF](https://arxiv.org/pdf/2610.08110) | rule-assigned |
+| 2026-10-06 | Fast Planning for Multi-object Multi-target Throwing | Zhengming Zhu, Yang Liu, Xiao Gao, Aude Billard | [Abstract](https://arxiv.org/abs/2610.09224) · [PDF](https://arxiv.org/pdf/2610.09224) | rule-assigned |
+| 2026-10-05 | Inspect Robots: Evaluating the Capabilities and Safety of Embodied AI | Christopher Leet, Achu Menon, Sravanthi Machcha, Sabrina Zou et al. | [Abstract](https://arxiv.org/abs/2610.06306) · [PDF](https://arxiv.org/pdf/2610.06306) | rule-assigned |
+| 2026-10-05 | Dual Variational Autoencoders for Efficient Sim-to-Real Transfer in Low-Cost Robotic Navigation | Álvaro Díez, Fidel Aznar | [Abstract](https://arxiv.org/abs/2610.06327) · [PDF](https://arxiv.org/pdf/2610.06327) | rule-assigned |
+| 2026-10-05 | Controllable Road Marking Generation | Zhiyu, Cai, Yufan Zhang, Ruichen Tan et al. | [Abstract](https://arxiv.org/abs/2610.05771) · [PDF](https://arxiv.org/pdf/2610.05771) | rule-assigned |
+| 2026-10-05 | ArtifactArena: Evaluating Models by What They Build in the Physical World | Kushagra Tiwary*, David Mayo*, Nikhil Behari, Xiangzhou Sun et al. | [Abstract](https://arxiv.org/abs/2610.06511) · [PDF](https://arxiv.org/pdf/2610.06511) | rule-assigned |
+| 2026-10-04 | ProactiveVLA: Augmenting Embodied Memory through Proactive Environment Exploration | Shizuo Tian, Haodong Luo, Yutong Li, Yuebing Song et al. | [Abstract](https://arxiv.org/abs/2610.06999) · [PDF](https://arxiv.org/pdf/2610.06999) | rule-assigned |
+| 2026-10-02 | Return-to-Home Feasible Micro-Aerial Vehicle Exploration for 3D Gaussian Splatting Reconstruction | Prajit Krisshnakumar, Fan Yang, Koichiro Niinuma | [Abstract](https://arxiv.org/abs/2610.04013) · [PDF](https://arxiv.org/pdf/2610.04013) | rule-assigned |
+| 2026-10-02 | Bridging Frontier Reasoning and Robot Execution: From Autonomous Demonstration Generation to Dense Language Supervision | Bosung Kim, Alexander Trevithick, Ruiyi Wang, Prithviraj Ammanabrolu | [Abstract](https://arxiv.org/abs/2610.03615) · [PDF](https://arxiv.org/pdf/2610.03615) | rule-assigned |
+| 2026-10-02 | Bidirectional Voronoi-biased Exploration Curriculum for Reinforcement Learning | Juri Pfammatter, Kaixian Qu, Clemens Schwarke, Victor Klemm et al. | [Abstract](https://arxiv.org/abs/2610.03395) · [PDF](https://arxiv.org/pdf/2610.03395) | rule-assigned |
 | 2026-10-01 | OpenSpace Lab Solution to the IROS 2026 Indoor Exploration Competition | Yuxuan Zhang, Dong Li, Zezhou Sun, Yuxuan Xu et al. | [Abstract](https://arxiv.org/abs/2610.01505) · [PDF](https://arxiv.org/pdf/2610.01505) | rule-assigned |
 | 2026-10-01 | Extreme Length Generalization in a Compact Recurrent Architecture for One-Shot Exploration | Izen Thornton, Aaron Shey, William Su | [Abstract](https://arxiv.org/abs/2610.01105) · [PDF](https://arxiv.org/pdf/2610.01105) | rule-assigned |
 | 2026-10-01 | Are Frontier VLM Agents Ready to Be Robot Generalists? An Empirical Study with the Embodied Agent Arena | Haojian Huang, Pukun Zhao, Zexi Li, Yehang Zhang et al. | [Abstract](https://arxiv.org/abs/2610.00854) · [PDF](https://arxiv.org/pdf/2610.00854) | rule-assigned |
@@ -750,7 +763,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-11 | NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration | Ajay Sridhar, Dhruv Shah, Catherine Glossop, Sergey Levine | [Abstract](https://arxiv.org/abs/2310.07896) · [PDF](https://arxiv.org/pdf/2310.07896) | rule-assigned |
 | 2023-10-11 | AG-CVG: Coverage Planning with a Mobile Recharging UGV and an Energy-Constrained UAV | Nare Karapetyan, Ahmad Bilal Asghar, Amisha Bhaskar, Guangyao Shi et al. | [Abstract](https://arxiv.org/abs/2310.07621) · [PDF](https://arxiv.org/pdf/2310.07621) | rule-assigned |
 | 2023-10-10 | NEWTON: Are Large Language Models Capable of Physical Reasoning? | Yi Ru Wang, Jiafei Duan, Dieter Fox, Siddhartha Srinivasa | [Abstract](https://arxiv.org/abs/2310.07018) · [PDF](https://arxiv.org/pdf/2310.07018) | rule-assigned |
-| 2023-10-05 | Safe Exploration in Reinforcement Learning: A Generalized Formulation and Algorithms | Akifumi Wachi, Wataru Hashimoto, Xun Shen, Kazumune Hashimoto | [Abstract](https://arxiv.org/abs/2310.03225) · [PDF](https://arxiv.org/pdf/2310.03225) | rule-assigned |
 
 ---
 

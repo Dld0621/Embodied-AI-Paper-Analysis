@@ -1,12 +1,12 @@
 # Diffusion Policies · 扩散策略
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generative%20Action%20Policies&specialty=Diffusion%20Policies#research-workbench)
 
-> 24 conference papers · 221 recent arXiv papers
+> 24 conference papers · 227 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -49,10 +49,17 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation | RSS · Visuomotor | [Paper](https://arxiv.org/abs/2405.07503) · [Index](https://dblp.org/rec/conf/rss/PrasadLWZB24) | rule-assigned |
 | 2023 | Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | RSS · Diffusion policy | [Paper](https://arxiv.org/abs/2303.04137) · [Official](https://roboticsproceedings.org/rss19/p026.html) · [Code](https://github.com/real-stanford/diffusion_policy) | rule-assigned |
 
-## Recent arXiv papers (221)
+## Recent arXiv papers (227)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input | Yanwen Zou, Chenyang Shi, Guoxuan Xu, Wenye Yu et al. | [Abstract](https://arxiv.org/abs/2610.10534) · [PDF](https://arxiv.org/pdf/2610.10534) | rule-assigned |
+| 2026-10-07 | Immiscible Diffusion Policy: Preserving Multimodal Robot Actions through Label-Free Noise Assignment | Xiao Zhang, Yuxin Chen, Zhixuan Liang, Guojian Zhan et al. | [Abstract](https://arxiv.org/abs/2610.09369) · [PDF](https://arxiv.org/pdf/2610.09369) | rule-assigned |
+| 2026-10-05 | The Unexpired Plan: A Free Monitor for Accelerated Diffusion Policies | Yi Zhao, Sebastian Scherer | [Abstract](https://arxiv.org/abs/2610.05747) · [PDF](https://arxiv.org/pdf/2610.05747) | rule-assigned |
+| 2026-10-05 | Reachability-Aware Diffusion Policy Optimization | Hikmet Simsir, Kutay Demiray, Ozgur S. Oguz | [Abstract](https://arxiv.org/abs/2610.05969) · [PDF](https://arxiv.org/pdf/2610.05969) | rule-assigned |
+| 2026-10-04 | LEAP: Making Privileged Geometry Supervision Effective for Visuomotor Learning | Han Fang, Yunpeng Jiang, Jianshu Hu, Zhiyuan Guan et al. | [Abstract](https://arxiv.org/abs/2610.07015) · [PDF](https://arxiv.org/pdf/2610.07015) | rule-assigned |
+| 2026-10-02 | Equivariant Visual-Tactile Diffusion Policy for Contact-Rich Manipulation | Lik Hang Kenny Wong, Yiyao Ma, Xiu-Shen Wei, Zelong Tan et al. | [Abstract](https://arxiv.org/abs/2610.03333) · [PDF](https://arxiv.org/pdf/2610.03333) | rule-assigned |
+| 2026-10-01 | CriticHack: Evaluating Visual Rewards Under Robot Policy Optimization | Jiaxuan Luo, Xingguo Xu, Shanshan Wang, Yuhan Zhou et al. | [Abstract](https://arxiv.org/abs/2610.02527) · [PDF](https://arxiv.org/pdf/2610.02527) | rule-assigned |
 | 2026-09-30 | Text-to-3D Policy: Fine-Grained Language-Behavior Alignment for Unseen Specification Generalization | Xinhao Yang, Wenhao Wu, Ning Lv, Yanshen Ding et al. | [Abstract](https://arxiv.org/abs/2609.39599) · [PDF](https://arxiv.org/pdf/2609.39599) | rule-assigned |
 | 2026-09-29 | Diffusion Policy Improvement with Proposal-Conditioned Refinement Flows | Junhyun Ha, Juho Lee, Byoungwoo Park | [Abstract](https://arxiv.org/abs/2609.36812) · [PDF](https://arxiv.org/pdf/2609.36812) | rule-assigned |
 | 2026-09-26 | Residual Denoising Enables Sample-Efficient Multi-Agent Coordination on Demand | Dayi Dong, Maulik Bhatt, Aayushi Shrivastava, Lasse Peters et al. | [Abstract](https://arxiv.org/abs/2609.32129) · [PDF](https://arxiv.org/pdf/2609.32129) | rule-assigned |
@@ -69,6 +76,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-09-06 | MemCorr-DP: Counterfactual Correspondence Conditioning for a Diffusion Policy Guided by a Reference | Tan Su, Haoxiang Yang, Ruxin Wang, Binghui Xie | [Abstract](https://arxiv.org/abs/2609.06615) · [PDF](https://arxiv.org/pdf/2609.06615) | rule-assigned |
 | 2026-09-04 | Dressing in Motion: A Human Motion-Aware Diffusion Policy for Robot-Assisted Dressing | Haoxiang Sun, Fangyuan Wang, Songhao Huang, Justina Y. W. Liu et al. | [Abstract](https://arxiv.org/abs/2609.04759) · [PDF](https://arxiv.org/pdf/2609.04759) | rule-assigned |
 | 2026-08-22 | Contact-Rich Robotic Manipulation in Construction via Zero-Shot Learning: A Diffusion Policy-Guided Adaptive Control | Roman Ibrahimov, Salma Mozaffari, Arash Adel | [Abstract](https://arxiv.org/abs/2608.22100) · [PDF](https://arxiv.org/pdf/2608.22100) | rule-assigned |
+| 2026-08-13 | Composing Learned Robot Behaviors with Temporal Logic at Runtime | Moritz Zoellner, Anastasios Manganaris, Ahmed H. Qureshi, Rohan Paleja | [Abstract](https://arxiv.org/abs/2608.13678) · [PDF](https://arxiv.org/pdf/2608.13678) | rule-assigned |
 | 2026-08-06 | VIDP: Variable Impedance Diffusion Policy for Compliant Robot Manipulation from Diverse Demonstrations | Hisham Khalil, Neil Fernandes, Thomas M. Kwok, Hsiu-Chin Lin et al. | [Abstract](https://arxiv.org/abs/2608.06210) · [PDF](https://arxiv.org/pdf/2608.06210) | rule-assigned |
 | 2026-08-05 | Learning When to Stop: Prefix-Optimal Dynamic Diffusion Policies for Continuous Control | Rohit Kumar Salla, Manoj Saravanan, Simon Stepputtis | [Abstract](https://arxiv.org/abs/2608.05084) · [PDF](https://arxiv.org/pdf/2608.05084) | rule-assigned |
 | 2026-08-03 | ODG-NoMaD: Overhead-Camera Direction-Guided NoMaD | Blossom Treesa Bastian, Keerthi S. Shetty, Manish Kolachalam, Rani Malhotra et al. | [Abstract](https://arxiv.org/abs/2608.21395) · [PDF](https://arxiv.org/pdf/2608.21395) | rule-assigned |
@@ -99,7 +107,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-27 | SANTS: A State-Adaptive Scheduler for World Action Models | Yirui Sun, Guangyu Zhuge, Keliang Liu, Jie Gu et al. | [Abstract](https://arxiv.org/abs/2605.27947) · [PDF](https://arxiv.org/pdf/2605.27947) | rule-assigned |
 | 2026-05-27 | How VLAs Fail Differently: Black-Box Action Monitoring Reveals Architecture-Specific Failure Signatures | Krishnam Gupta | [Abstract](https://arxiv.org/abs/2605.28726) · [PDF](https://arxiv.org/pdf/2605.28726) | rule-assigned |
 | 2026-05-27 | Frequency-Guided Action Diffusion via Sub-Frequency Manifold Traversal | Junlin Wang | [Abstract](https://arxiv.org/abs/2605.27919) · [PDF](https://arxiv.org/pdf/2605.27919) | rule-assigned |
-| 2026-05-26 | Riding the Shifting Potential: When Reactive Control Suffices for Multi-Goal Behavior | Vito Mengers, Oliver Brock | [Abstract](https://arxiv.org/abs/2605.27314) · [PDF](https://arxiv.org/pdf/2605.27314) | rule-assigned |
+| 2026-05-26 | Resolving Conflicts Where and When They Arise: Reactive Composition of Multi-Goal Behavior | Vito Mengers, Oliver Brock | [Abstract](https://arxiv.org/abs/2605.27314) · [PDF](https://arxiv.org/pdf/2605.27314) | rule-assigned |
 | 2026-05-20 | Mobile UMI: Cross-View Diffusion Policy with Decoupled Kinematics for Mobile Manipulation | Haoran Huang, Haonan Dong, Huixu Dong | [Abstract](https://arxiv.org/abs/2605.20894) · [PDF](https://arxiv.org/pdf/2605.20894) | rule-assigned |
 | 2026-05-16 | SADP: Subgoal-Aware Diffusion Policy for Long-Horizon Manipulation Learned from Foundation Model Generated Demonstrations | Site Hu, Takato Horii | [Abstract](https://arxiv.org/abs/2605.16871) · [PDF](https://arxiv.org/pdf/2605.16871) | rule-assigned |
 | 2026-05-14 | Diffusion Policy for Coordinated Control of a Nonholonomic Mobile Base and Dual Arms in Door Opening and Passing | Shangqun Yu, Matthew En, Daniel Wu, Sangjun Park et al. | [Abstract](https://arxiv.org/abs/2605.15352) · [PDF](https://arxiv.org/pdf/2605.15352) | rule-assigned |
@@ -115,12 +123,10 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-03-29 | ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation | Hongyu Yan, Qiwei Li, Jiaolong Yang, Yadong Mu | [Abstract](https://arxiv.org/abs/2603.27670) · [PDF](https://arxiv.org/pdf/2603.27670) | rule-assigned |
 | 2026-03-25 | FODMP: Fast One-Step Diffusion of Movement Primitives Generation for Time-Dependent Robot Actions | Xirui Shi, Arya Ebrahimi, Yi Hu, Jun Jin | [Abstract](https://arxiv.org/abs/2603.24806) · [PDF](https://arxiv.org/pdf/2603.24806) | rule-assigned |
 | 2026-03-17 | Encoding Predictability and Legibility for Style-Conditioned Diffusion Policy | Adrien Jacquet Crétides, Mouad Abrini, Hamed Rahimi, Mohamed Chetouani | [Abstract](https://arxiv.org/abs/2603.16368) · [PDF](https://arxiv.org/pdf/2603.16368) | rule-assigned |
-| 2026-03-16 | You've Got a Golden Ticket: Improving Generative Robot Policies With A Single Noise Vector | Omkar Patil, Ondrej Biza, Thomas Weng, Karl Schmeckpeper et al. | [Abstract](https://arxiv.org/abs/2603.15757) · [PDF](https://arxiv.org/pdf/2603.15757) | rule-assigned |
 | 2026-03-16 | ReMAP-DP: Reprojected Multi-view Aligned PointMaps for Diffusion Policy | Xinzhang Yang, Renjun Wu, Jinyan Liu, Xuesong Li | [Abstract](https://arxiv.org/abs/2603.14977) · [PDF](https://arxiv.org/pdf/2603.14977) | rule-assigned |
 | 2026-03-12 | Noise-Space Attribution and Control of Chunk-Boundary Artifact | Rui Wang | [Abstract](https://arxiv.org/abs/2603.11642) · [PDF](https://arxiv.org/pdf/2603.11642) | rule-assigned |
 | 2026-03-11 | ScanDP: Generalizable 3D Scanning with Diffusion Policy | Itsuki Hirako, Ryo Hakoda, Yubin Liu, Matthew Hwang et al. | [Abstract](https://arxiv.org/abs/2603.10390) · [PDF](https://arxiv.org/pdf/2603.10390) | rule-assigned |
 | 2026-03-11 | PPGuide: Steering Diffusion Policies with Performance Predictive Guidance | Zixing Wang, Devesh K. Jha, Ahmed H. Qureshi, Diego Romeres | [Abstract](https://arxiv.org/abs/2603.10980) · [PDF](https://arxiv.org/pdf/2603.10980) | rule-assigned |
-| 2026-03-05 | TransMASK: Masked State Representation through Learned Transformation | Sagar Parekh, Preston Culbertson, Dylan P. Losey | [Abstract](https://arxiv.org/abs/2603.05670) · [PDF](https://arxiv.org/pdf/2603.05670) | rule-assigned |
 | 2026-03-05 | SeedPolicy: Horizon Scaling via Self-Evolving Diffusion Policy for Robot Manipulation | Youqiang Gui, Yuxuan Zhou, Shen Cheng, Xinyang Yuan et al. | [Abstract](https://arxiv.org/abs/2603.05117) · [PDF](https://arxiv.org/pdf/2603.05117) | rule-assigned |
 | 2026-03-05 | Online Self-Training for Co-Adaptation in Hierarchical Diffusion Policies | Clemence Grislain, Mathilde Kappel, Olivier Sigaud, Mohamed Chetouani | [Abstract](https://arxiv.org/abs/2603.05291) · [PDF](https://arxiv.org/pdf/2603.05291) | rule-assigned |
 | 2026-03-05 | Diffusion Policy through Conditional Proximal Policy Optimization | Ben Liu, Shunpeng Yang, Hua Chen | [Abstract](https://arxiv.org/abs/2603.04790) · [PDF](https://arxiv.org/pdf/2603.04790) | rule-assigned |

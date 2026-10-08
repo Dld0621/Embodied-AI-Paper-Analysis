@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Pending%20specialty%20review#research-workbench)
 
-> 44 conference papers · 102 recent arXiv papers
+> 44 conference papers · 104 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -69,10 +69,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Soft Tactile Contour Following for Robot-Assisted Wiping and Bathing | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS47612.2022.9982071) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982071) | needs-review |
 | 2022 | Action Conditioned Tactile Prediction: a case study on slip prediction | RSS · Tactile | [Paper](https://arxiv.org/pdf/2205.09430) · [Index](https://dblp.org/rec/journals/corr/abs-2205-09430) | needs-review |
 
-## Recent arXiv papers (102)
+## Recent arXiv papers (104)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | OpenViTac: Learning and Benchmarking Visuo-Tactile Policies in a Unified Sim-and-Real Framework | Yifan Wu, Qin Li, Nan Min, Guojin Zhong et al. | [Abstract](https://arxiv.org/abs/2610.10384) · [PDF](https://arxiv.org/pdf/2610.10384) | needs-review |
+| 2026-10-03 | Distributed Cascade Force Control of Soft-Tactile-Based Multi-robot System for Object Transportation | Duy Anh Nguyen, Nhat Minh Dinh Le, Nhan Huu Nguyen, Pham Duy Hung et al. | [Abstract](https://arxiv.org/abs/2610.04775) · [PDF](https://arxiv.org/pdf/2610.04775) | needs-review |
 | 2026-10-01 | TouchTherm: Building Multimodal Digital Twins of Objects for Tactile and Thermal Rendering | Yitao Zhang, Hong Ying, Haoran Guo, Xiaoying Zhou et al. | [Abstract](https://arxiv.org/abs/2610.01943) · [PDF](https://arxiv.org/pdf/2610.01943) | needs-review |
 | 2026-09-30 | Tactile Curiosity Drives Robot Interaction | Klemens Iten, Alexander Proshkin, Bhavya Sukhija, Stelian Coros et al. | [Abstract](https://arxiv.org/abs/2609.40134) · [PDF](https://arxiv.org/pdf/2609.40134) | needs-review |
 | 2026-09-30 | TacDyn-WAM: Learning Implicit Tactile Dynamics in a Heterogeneous Visuo-Tactile World Action Model | Enyi Wang, Mingxin Wang, Quan Shi, Hetian Guo et al. | [Abstract](https://arxiv.org/abs/2610.00638) · [PDF](https://arxiv.org/pdf/2610.00638) | needs-review |

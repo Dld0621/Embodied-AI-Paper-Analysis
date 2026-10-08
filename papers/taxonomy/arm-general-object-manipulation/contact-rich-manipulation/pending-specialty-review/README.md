@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Pending%20specialty%20review#research-workbench)
 
-> 22 conference papers · 68 recent arXiv papers
+> 22 conference papers · 69 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -47,10 +47,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Maximal Manipulation Framework using Quadratic Programming for a Teleoperated Robotic System with Articulated bodies | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra46639.2022.9811602) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811602) | needs-review |
 | 2022 | A Contact-Safe Reinforcement Learning Framework for Contact-Rich Robot Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2207.13438) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981185) | needs-review |
 
-## Recent arXiv papers (68)
+## Recent arXiv papers (69)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-02 | SARI: Phase-Split Sim-Real Co-Training for Contact-Rich Manipulation | Xingxin He, Yuxuan Jiang, Haonan Zhang, Chuhan Cui et al. | [Abstract](https://arxiv.org/abs/2610.02804) · [PDF](https://arxiv.org/pdf/2610.02804) | needs-review |
+| 2026-10-02 | RATE: Risk-Aware Tactile Encoding for Contact-rich Robotic Manipulation | Yuyao Jiang, Haichao Liu, Jiarui Zheng, Zihan Ding et al. | [Abstract](https://arxiv.org/abs/2610.03538) · [PDF](https://arxiv.org/pdf/2610.03538) | needs-review |
 | 2026-09-25 | TACTIC: Understanding Tactile Encoders and Conditioning for Contact-rich Robot Manipulation Policies | Seongjin Bien, Débora Oliveira Makowski, Carlo Kneissl, Reihaneh Mirjalili et al. | [Abstract](https://arxiv.org/abs/2609.30969) · [PDF](https://arxiv.org/pdf/2609.30969) | needs-review |
 | 2026-09-25 | Impedance Cloning: Learning Equilibrium Point Parameters for Contact-Rich Manipulation | Hayato Takahashi, Ryoga Oishi, Yuki Kasuga, Toshiaki Tsuji | [Abstract](https://arxiv.org/abs/2609.30842) · [PDF](https://arxiv.org/pdf/2609.30842) | needs-review |
 | 2026-09-18 | PSR: Predictive Sensorimotor Representation Learning for Contact-Rich Manipulation | Shengbao Li, Peng Xu, Chao Tang, Hao Wei et al. | [Abstract](https://arxiv.org/abs/2609.21753) · [PDF](https://arxiv.org/pdf/2609.21753) | needs-review |
@@ -118,7 +120,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-03-24 | RPMArt: Towards Robust Perception and Manipulation for Articulated Objects | Junbo Wang, Wenhai Liu, Qiaojun Yu, Yang You et al. | [Abstract](https://arxiv.org/abs/2403.16023) · [PDF](https://arxiv.org/pdf/2403.16023) | needs-review |
 | 2024-03-20 | A Contact Model based on Denoising Diffusion to Learn Variable Impedance Control for Contact-rich Manipulation | Masashi Okada, Mayumi Komatsu, Tadahiro Taniguchi | [Abstract](https://arxiv.org/abs/2403.13221) · [PDF](https://arxiv.org/pdf/2403.13221) | needs-review |
 | 2024-03-04 | Tac-Man: Tactile-Informed Prior-Free Manipulation of Articulated Objects | Zihang Zhao, Yuyang Li, Wanlin Li, Zhenghao Qi et al. | [Abstract](https://arxiv.org/abs/2403.01694) · [PDF](https://arxiv.org/pdf/2403.01694) | needs-review |
-| 2023-10-07 | Combining Sampling- and Gradient-based Planning for Contact-rich Manipulation | Filippo Rozzi, Loris Roveda, Kevin Haninger | [Abstract](https://arxiv.org/abs/2310.04822) · [PDF](https://arxiv.org/pdf/2310.04822) | needs-review |
 
 ---
 

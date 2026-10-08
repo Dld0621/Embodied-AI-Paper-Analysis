@@ -1,12 +1,12 @@
 # Video-to-robot Demonstrations · 视频到机器人示教
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Human%20Demonstrations%20to%20Dexterous%20Skills&specialty=Video-to-robot%20Demonstrations#research-workbench)
 
-> 23 conference papers · 138 recent arXiv papers
+> 23 conference papers · 142 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -48,10 +48,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Human-to-Robot Imitation in the Wild | RSS · Learning from human video | [Paper](https://www.roboticsproceedings.org/rss18/p026.pdf) · [Official](https://www.roboticsproceedings.org/rss18/p026.html) | rule-assigned |
 | 2022 | Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on Youtube | RSS · Robotic Hand | [Paper](https://doi.org/10.15607/rss.2022.xviii.023) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.023) | rule-assigned |
 
-## Recent arXiv papers (138)
+## Recent arXiv papers (142)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-05 | Behavioral Cloning Mystery | Seohong Park, Sergey Levine | [Abstract](https://arxiv.org/abs/2610.07056) · [PDF](https://arxiv.org/pdf/2610.07056) | rule-assigned |
+| 2026-10-03 | TacOT: Learning Contact-Rich Dexterous Manipulation from Human Demonstrations via Tactile-Guided Optimal Transport | Xingting Li, Yifan Han, Zijian Lin, Wei Hou et al. | [Abstract](https://arxiv.org/abs/2610.04363) · [PDF](https://arxiv.org/pdf/2610.04363) | rule-assigned |
+| 2026-10-03 | PatternDex: Learning Interaction Patterns to Guide Reinforcement Learning of Bimanual Dexterous Manipulation of Articulated Objects | David Minkwan Kim, Runfa Blark Li, Beckham Po-Ju Lee, Nikolay Atanasov et al. | [Abstract](https://arxiv.org/abs/2610.04765) · [PDF](https://arxiv.org/pdf/2610.04765) | rule-assigned |
+| 2026-10-03 | Frame-Level Temporal Alignment for Human-to-Robot Visual Adaptation | Xizhe Zhang, Jingfeng Zhang, Zirun Zhou, Hong Jia | [Abstract](https://arxiv.org/abs/2610.04372) · [PDF](https://arxiv.org/pdf/2610.04372) | rule-assigned |
 | 2026-10-01 | Experience-Based Feasibility-Aware Generative Adversarial Imitation from Observation under Embodiment Mismatch | Yoshiki Takebayashi, Giovanni Perantoni, Hikaru Sasaki, Matteo Saveriano et al. | [Abstract](https://arxiv.org/abs/2610.01171) · [PDF](https://arxiv.org/pdf/2610.01171) | rule-assigned |
 | 2026-09-28 | Unified Visual-Tactile-Action Modeling from Human Demonstrations for Dexterous Manipulation | Wenqiao Li, Qianyou Zhao, Jiawen Hao, Xuezhou Zhu et al. | [Abstract](https://arxiv.org/abs/2609.34182) · [PDF](https://arxiv.org/pdf/2609.34182) | rule-assigned |
 | 2026-09-28 | DexAgent: An Agentic Human2Sim2Robot Framework for Dexterous Manipulation with Self-Evolving Tool Library | Youhui Wang, Yunzhu Li, Li Fei-Fei, Jiajun Wu et al. | [Abstract](https://arxiv.org/abs/2609.35318) · [PDF](https://arxiv.org/pdf/2609.35318) | rule-assigned |

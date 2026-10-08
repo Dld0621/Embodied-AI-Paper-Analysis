@@ -1,12 +1,12 @@
 # Point-goal & Image-goal Navigation · 点目标与图像目标导航
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Goal%20%26%20Language%20Navigation&specialty=Point-goal%20%26%20Image-goal%20Navigation#research-workbench)
 
-> 23 conference papers · 106 recent arXiv papers
+> 23 conference papers · 108 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -48,10 +48,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Topological Semantic Graph Memory for Image-Goal Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2209.08274) · [Index](https://dblp.org/rec/journals/corr/abs-2209-08274) | rule-assigned |
 | 2022 | ZSON: Zero-Shot Object-Goal Navigation using Multimodal Goal Embeddings | NeurIPS · Navigation | [Paper](https://arxiv.org/pdf/2206.12403) · [Index](https://dblp.org/rec/journals/corr/abs-2206-12403) | rule-assigned |
 
-## Recent arXiv papers (106)
+## Recent arXiv papers (108)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-02 | DR-IPC: Disturbance-Resilient Integrated Planning and Control for LiDAR-Based Quadrotor Navigation | Peng Liu, Jingyan Wang, Qipeng Ye, Wen Li et al. | [Abstract](https://arxiv.org/abs/2610.03530) · [PDF](https://arxiv.org/pdf/2610.03530) | rule-assigned |
+| 2026-10-02 | CSIR: Contextually and Socially Informed Robots for Efficient Person Goal Navigation | Tyler Chung, Nahl Farhan, Hao Zhang, Mingfeng Yuan et al. | [Abstract](https://arxiv.org/abs/2610.02750) · [PDF](https://arxiv.org/pdf/2610.02750) | rule-assigned |
 | 2026-09-18 | Visual Navigation Transformer with Pose Attention | Beiming Li, Jaime Romero, Jonathan Diller, Vijay Kumar et al. | [Abstract](https://arxiv.org/abs/2609.21212) · [PDF](https://arxiv.org/pdf/2609.21212) | rule-assigned |
 | 2026-09-14 | HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness | Yang Chen, Lirong Che, Zhenyu Huang, Wenbo Fu et al. | [Abstract](https://arxiv.org/abs/2609.15195) · [PDF](https://arxiv.org/pdf/2609.15195) | rule-assigned |
 | 2026-09-08 | Dual-Layer Semantic-Spatial Belief Mapping for Aerial Object Goal Navigation | Jianqiang Xiao, Xiang Deng, Yuexuan Sun, Yanjin Wu et al. | [Abstract](https://arxiv.org/abs/2609.08164) · [PDF](https://arxiv.org/pdf/2609.08164) | rule-assigned |

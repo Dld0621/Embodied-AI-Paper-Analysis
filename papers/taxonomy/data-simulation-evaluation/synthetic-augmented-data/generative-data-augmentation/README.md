@@ -1,12 +1,12 @@
 # Generative Data Augmentation · 生成模型辅助数据
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Synthetic%20%26%20Augmented%20Data&specialty=Generative%20Data%20Augmentation#research-workbench)
 
-> 11 conference papers · 110 recent arXiv papers
+> 11 conference papers · 111 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -36,10 +36,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | GenAug: Retargeting behaviors to unseen situations via Generative Augmentation | RSS · Retargeting | [Paper](https://arxiv.org/abs/2302.06671) · [Index](https://dblp.org/rec/journals/corr/abs-2302-06671) | rule-assigned |
 | 2022 | Learning-based Ellipse Detection for Robotic Grasps of Cylinders and Ellipsoids | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra46639.2022.9812363) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812363) | rule-assigned |
 
-## Recent arXiv papers (110)
+## Recent arXiv papers (111)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-05 | Bayesian Data Augmentation for DNN Retraining with Binomial Outcomes in Vision-Based UAV Landing | Ashik E Rasul, Hyung-Jin Yoon | [Abstract](https://arxiv.org/abs/2610.05674) · [PDF](https://arxiv.org/pdf/2610.05674) | rule-assigned |
 | 2026-09-30 | Identifiable Decomposition of Submovements in Human Hand Trajectories | Adrian Prados, James Hermus, Ramon Barber, Sylvain Calinon | [Abstract](https://arxiv.org/abs/2609.40012) · [PDF](https://arxiv.org/pdf/2609.40012) | rule-assigned |
 | 2026-09-22 | PhyVisGen: Physically and Visually High-Fidelity Robotic Manipulation Data Generation | Yu Zheng, Qiyu Feng, Yixin Wu, Baoquan Yang et al. | [Abstract](https://arxiv.org/abs/2609.25653) · [PDF](https://arxiv.org/pdf/2609.25653) | rule-assigned |
 | 2026-08-18 | Training with synthetic data for drone detection in thermal imagery | Tanel Liiv, Sander Soodla, Nzamba Bignoumba, Alma M. Liezenga et al. | [Abstract](https://arxiv.org/abs/2608.17799) · [PDF](https://arxiv.org/pdf/2608.17799) | rule-assigned |

@@ -1,12 +1,12 @@
 # Embodied QA & Spatial Reasoning · 具身问答与空间推理
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Task%20Reasoning%20%26%20Planning&specialty=Embodied%20QA%20%26%20Spatial%20Reasoning#research-workbench)
 
-> 12 conference papers · 113 recent arXiv papers
+> 12 conference papers · 114 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -37,15 +37,17 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Explore until Confident: Efficient Exploration for Embodied Question Answering | RSS · Exploration | [Paper](https://arxiv.org/abs/2403.15941) · [Index](https://dblp.org/rec/conf/rss/RenCDIMS24) | rule-assigned |
 | 2022 | Inner Monologue: Embodied Reasoning through Planning with Language Models | CoRL · Language Model | [Paper](https://arxiv.org/abs/2207.05608) · [Index](https://dblp.org/rec/conf/corl/HuangXXCLFZTMCS22) | rule-assigned |
 
-## Recent arXiv papers (113)
+## Recent arXiv papers (114)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-06 | VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning | Zewei Zhou, Rachel Luo, Yulong Cao, Chaowei Xiao et al. | [Abstract](https://arxiv.org/abs/2610.08761) · [PDF](https://arxiv.org/pdf/2610.08761) | rule-assigned |
 | 2026-09-28 | Memory in the Sky: Low-Altitude Question Answering with Multi-Agent Memory Aggregation | Chengyang Li, Yujie Wan, Shuai Wang, Kejiang Ye et al. | [Abstract](https://arxiv.org/abs/2609.35431) · [PDF](https://arxiv.org/pdf/2609.35431) | rule-assigned |
 | 2026-09-27 | Informative Viewpoint Selection for Episodic-Memory Embodied Question Answering using Omnidirectional Images | Kaname Kitamura, Asako Kanezaki | [Abstract](https://arxiv.org/abs/2609.33288) · [PDF](https://arxiv.org/pdf/2609.33288) | rule-assigned |
 | 2026-09-22 | Hierarchical Floorplan-Guided Vision-Language Exploration for Embodied Question Answering | Albert Gassol Puigjaner, Kostas Alexis | [Abstract](https://arxiv.org/abs/2609.26360) · [PDF](https://arxiv.org/pdf/2609.26360) | rule-assigned |
+| 2026-09-09 | Context-Aware Adaptive Pesticide Spraying for Agricultural Robots under Changing Weather and Terrain Using Vision-Language Models | Cong-Thanh Vu, Yen-Chen Liu | [Abstract](https://arxiv.org/abs/2610.08807) · [PDF](https://arxiv.org/pdf/2610.08807) | rule-assigned |
 | 2026-09-07 | Contextual Observer Grounding: Evaluating Situated Spatial Reasoning in Vision-Language Models | Mimo Shirasaka, Haochen Zhang, Yonatan Bisk | [Abstract](https://arxiv.org/abs/2609.06880) · [PDF](https://arxiv.org/pdf/2609.06880) | rule-assigned |
-| 2026-08-17 | PROBE: Manipulation-Grounded Visual Question Answering with VLM Agents | Vineet Bhat, Siyi Chen, Alex Zook, Xuning Yang et al. | [Abstract](https://arxiv.org/abs/2608.17129) · [PDF](https://arxiv.org/pdf/2608.17129) | rule-assigned |
+| 2026-08-17 | MG-VQA: Manipulation Grounded Visual Question Answering with VLMs | Vineet Bhat, Mikaela Angelina Uy, Siyi Chen, Alex Zook et al. | [Abstract](https://arxiv.org/abs/2608.17129) · [PDF](https://arxiv.org/pdf/2608.17129) | rule-assigned |
 | 2026-08-08 | Explore, Map, Remember, Decide: Are Embodied VLMs Ready for Safety-Critical Scenarios? | Gabriele La Malfa, Nitay Alon, Emanuele La Malfa, Reuth Mirsky et al. | [Abstract](https://arxiv.org/abs/2608.08077) · [PDF](https://arxiv.org/pdf/2608.08077) | rule-assigned |
 | 2026-07-23 | Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering | Zikui Cai, Kaushal Janga, Tan Dat Dao, Seungjae Lee et al. | [Abstract](https://arxiv.org/abs/2607.21571) · [PDF](https://arxiv.org/pdf/2607.21571) | rule-assigned |
 | 2026-07-11 | ActiveFly-Bench: Aligning Embodied Question Answering with Vision-Language-Action for Aerial Embodied Perception | Weichen Zhang, Shiquan Yu, Yinan Zhu, Peizhi Tang et al. | [Abstract](https://arxiv.org/abs/2607.10180) · [PDF](https://arxiv.org/pdf/2607.10180) | rule-assigned |
@@ -87,7 +89,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-11-24 | Prune-Then-Plan: Step-Level Calibration for Stable Frontier Exploration in Embodied Question Answering | Noah Frahm, Prakrut Patel, Yue Zhang, Shoubin Yu et al. | [Abstract](https://arxiv.org/abs/2511.19768) · [PDF](https://arxiv.org/pdf/2511.19768) | rule-assigned |
 | 2025-11-14 | LAVQA: A Latency-Aware Visual Question Answering Framework for Shared Autonomy in Self-Driving Vehicles | Shuangyu Xie, Kaiyuan Chen, Wenjing Chen, Chengyuan Qian et al. | [Abstract](https://arxiv.org/abs/2511.11840) · [PDF](https://arxiv.org/pdf/2511.11840) | rule-assigned |
 | 2025-10-30 | A Multi-Modal Neuro-Symbolic Approach for Spatial Reasoning-Based Visual Grounding in Robotics | Simindokht Jahangard, Mehrzad Mohammadi, Abhinav Dhall, Hamid Rezatofighi | [Abstract](https://arxiv.org/abs/2510.27033) · [PDF](https://arxiv.org/pdf/2510.27033) | rule-assigned |
-| 2025-10-18 | RefAtomNet++: Advancing Referring Atomic Video Action Recognition using Semantic Retrieval based Multi-Trajectory Mamba | Kunyu Peng, Di Wen, Jia Fu, Jiamin Wu et al. | [Abstract](https://arxiv.org/abs/2510.16444) · [PDF](https://arxiv.org/pdf/2510.16444) | rule-assigned |
 | 2025-10-15 | Adaptive Obstacle-Aware Task Assignment and Planning for Heterogeneous Robot Teaming | Nan Li, Jiming Ren, Haris Miller, Samuel Coogan et al. | [Abstract](https://arxiv.org/abs/2510.14063) · [PDF](https://arxiv.org/pdf/2510.14063) | rule-assigned |
 | 2025-10-09 | Dissecting Embodied Abilities in Multimodal Language Models through Skill-level Evaluation and Diagnosis | Yu Qi, Haibo Zhao, Ziyu Guo, Siyuan Ma et al. | [Abstract](https://arxiv.org/abs/2510.08759) · [PDF](https://arxiv.org/pdf/2510.08759) | rule-assigned |
 | 2025-10-02 | Gemini Robotics 1.5: Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer | Gemini Robotics Team, Abbas Abdolmaleki, Saminda Abeyruwan, Joshua Ainslie et al. | [Abstract](https://arxiv.org/abs/2510.03342) · [PDF](https://arxiv.org/pdf/2510.03342) | rule-assigned |

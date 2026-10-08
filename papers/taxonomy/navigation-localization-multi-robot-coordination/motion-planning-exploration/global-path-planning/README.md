@@ -1,12 +1,12 @@
 # Global Path Planning · 全局路径规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Motion%20Planning%20%26%20Exploration&specialty=Global%20Path%20Planning#research-workbench)
 
-> 178 conference papers · 1,291 recent arXiv papers
+> 178 conference papers · 1,295 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -203,11 +203,24 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | DiPCAN: Distilling Privileged Information for Crowd-Aware Navigation | RSS · Navigation | [Paper](https://doi.org/10.15607/rss.2022.xviii.045) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.045) | rule-assigned |
 | 2022 | Sub-1.5 Time-Optimal Multi-Robot Path Planning on Grids in Polynomial Time | RSS · Path Planning | [Paper](https://doi.org/10.15607/rss.2022.xviii.057) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.057) | rule-assigned |
 
-## Recent arXiv papers (1,291)
+## Recent arXiv papers (1,295)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | MeshSIPP: Efficient Lattice Planning in Dynamic Environment | Marat Agranovskiy, Konstantin Yakovlev | [Abstract](https://arxiv.org/abs/2610.09652) · [PDF](https://arxiv.org/pdf/2610.09652) | rule-assigned |
+| 2026-10-07 | IVG-UAV: An Intelligent Voice-Guided UAV System for Autonomous Ripe Fruit Harvesting with Vision-Based Classification and Adaptive Path Planning | Dinh Trung Duong | [Abstract](https://arxiv.org/abs/2610.09398) · [PDF](https://arxiv.org/pdf/2610.09398) | rule-assigned |
+| 2026-10-07 | Distributed Motion Planning for Multi-Robot Systems under Topological Constraints | Gianpietro Battocletti, Dimitris Boskos, Dimos V. Dimarogonas, Bart De Schutter | [Abstract](https://arxiv.org/abs/2610.10065) · [PDF](https://arxiv.org/pdf/2610.10065) | rule-assigned |
+| 2026-10-06 | Shared-Roadmap Generation and Evaluator for Multi-Agent Path Planning Using Heterogeneous Graph Neural Network | Brandon Ho, Nikola Rogers, Seung-Kyum Choi | [Abstract](https://arxiv.org/abs/2610.09034) · [PDF](https://arxiv.org/pdf/2610.09034) | rule-assigned |
+| 2026-10-06 | Multi-Robot Multi-Goal Motion Planning with Stochastic Skills | William Schnyder, Valentin N. Hartmann, Stelian Coros | [Abstract](https://arxiv.org/abs/2610.07784) · [PDF](https://arxiv.org/pdf/2610.07784) | rule-assigned |
+| 2026-10-06 | geodex: A Library for Motion Planning on Riemannian Manifolds | Phone Thiha Kyaw, Ben Wei, Sepehr Samavi, Miguel Angel Rogel Garcia et al. | [Abstract](https://arxiv.org/abs/2610.09165) · [PDF](https://arxiv.org/pdf/2610.09165) | rule-assigned |
+| 2026-10-05 | Traversability-Aware Cooperative Path Planning for Human-UGV Casualty Evacuation | Kristian Dalland, Prithvi Poddar, Souma Chowdhury, Karthik Dantu et al. | [Abstract](https://arxiv.org/abs/2610.06487) · [PDF](https://arxiv.org/pdf/2610.06487) | rule-assigned |
+| 2026-10-05 | Dynamics-Aware Adaptive Corridors with Feasibility-Perturbed Trust-Region SQP for Certified Nonholonomic Motion Planning | Yang Shi | [Abstract](https://arxiv.org/abs/2610.05796) · [PDF](https://arxiv.org/pdf/2610.05796) | rule-assigned |
+| 2026-10-05 | AUTOPILOT An Advanced Perception, Localization and Path Planning Techniques for Autonomous Vehicles Using YOLOv7 and MiDaS | Harshkumar Devmurari, Gautham Kuckian, Prajjwal Vishwakarma | [Abstract](https://arxiv.org/abs/2610.06232) · [PDF](https://arxiv.org/pdf/2610.06232) | rule-assigned |
+| 2026-10-04 | RobotUse: Allocating Computation, Context, and Decisions | Junhoo Lee, Injun Baek, Seungyeon Kim, Suhyun Jeon et al. | [Abstract](https://arxiv.org/abs/2610.04929) · [PDF](https://arxiv.org/pdf/2610.04929) | rule-assigned |
+| 2026-10-03 | Real-Time Conformal-Seeded Hybrid Inverse Kinematics for Offset Redundant Manipulators | Duc Cuong Vu, Van Tung Nguyen, Duc Hai Nguyen, Manh Cuong Nguyen et al. | [Abstract](https://arxiv.org/abs/2610.04266) · [PDF](https://arxiv.org/pdf/2610.04266) | rule-assigned |
+| 2026-10-03 | An End-to-End Framework for Modelling Pneumatic Soft Robots Based on Differentiable Finite Element Methods | Shaohong Zhong, Yao Yao, Perla Maiolino, Ingmar Posner | [Abstract](https://arxiv.org/abs/2610.04612) · [PDF](https://arxiv.org/pdf/2610.04612) | rule-assigned |
 | 2026-10-01 | Training-Free Diffusion Planning with Analytical Local Scores | Michael Y. Fatemi, Jinhao Liang, Ferdinando Fioretto | [Abstract](https://arxiv.org/abs/2610.01959) · [PDF](https://arxiv.org/pdf/2610.01959) | rule-assigned |
+| 2026-10-01 | RUL-Aware RRT*: Degradation-Balanced Motion Planning for Robotic Manipulators | Haibo Li, Zhiguo Zeng, Xu Li | [Abstract](https://arxiv.org/abs/2610.02469) · [PDF](https://arxiv.org/pdf/2610.02469) | rule-assigned |
 | 2026-10-01 | H-SPAR: Hydrodynamic-aware Simulation for Particle Transport and Autonomous Robots | Navid Zarrabi, Nariman Yousefi, Sajad Saeedi | [Abstract](https://arxiv.org/abs/2610.01985) · [PDF](https://arxiv.org/pdf/2610.01985) | rule-assigned |
 | 2026-09-30 | Sparse Planner: A Hybrid Planner for Efficient Sampling via a Conditional Variational Autoencoder | Wenguang Xu, Giovanni Lucente, Karem Mohamed, Richard Membarth | [Abstract](https://arxiv.org/abs/2609.39570) · [PDF](https://arxiv.org/pdf/2609.39570) | rule-assigned |
 | 2026-09-30 | HiWE: Hierarchical World Knowledge Model with Visual Keypoint Enhancement for Zero-Shot 3D Path Planning | Guoqing Ma, Mingqi Yuan, Chen Gao, Jiayu Chen et al. | [Abstract](https://arxiv.org/abs/2609.39323) · [PDF](https://arxiv.org/pdf/2609.39323) | rule-assigned |
@@ -292,6 +305,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-07-27 | Reactive 3D Motion Planning for a Franka Arm via Star-World Workspace Reshaping | Gia Dcosta, Saayuj Deshpande, Samhitha Vedire | [Abstract](https://arxiv.org/abs/2607.25138) · [PDF](https://arxiv.org/pdf/2607.25138) | rule-assigned |
 | 2026-07-27 | Model Predictive Planner for UAV Navigation in Non-Convex Air Corridors | Henrique Silva, Marcelo A. Santos, Guilherme V. Raffo | [Abstract](https://arxiv.org/abs/2607.24369) · [PDF](https://arxiv.org/pdf/2607.24369) | rule-assigned |
 | 2026-07-27 | Hybrid Artificial Potential Fields and Spatio-Temporal Transformers for Real-Time AUV Path Planning | Khadija Rais, Abdelmadjid Benmachiche, Imene Soualmia | [Abstract](https://arxiv.org/abs/2607.25056) · [PDF](https://arxiv.org/pdf/2607.25056) | rule-assigned |
+| 2026-07-25 | RMRRT: Riemannian Barrier Metric RRT for Inequality-Aware Steering on Equality Manifolds | Minhyeong Kang, Sanghyun Kim | [Abstract](https://arxiv.org/abs/2610.06863) · [PDF](https://arxiv.org/pdf/2610.06863) | rule-assigned |
 | 2026-07-24 | Learning Spatiotemporal Decision Priors for Efficient Path Planning under Partial Observability | Yi Liu, Hongda Zhang, Leyao Zou, Chunlei Meng et al. | [Abstract](https://arxiv.org/abs/2607.22166) · [PDF](https://arxiv.org/pdf/2607.22166) | rule-assigned |
 | 2026-07-24 | Conformal Constraint Tightening for Chance-Constrained Motion Planning with Unknown Dynamics | Shubham Natraj, Bruno Sinopoli, Yiannis Kantaros | [Abstract](https://arxiv.org/abs/2607.22409) · [PDF](https://arxiv.org/pdf/2607.22409) | rule-assigned |
 | 2026-07-22 | Unified Prediction and Planning via Conflict-Aware Disjoint Parameter Training | Taewon Seo, Seonae Jeon, Giwon Lee, Kuk-Jin Yoon et al. | [Abstract](https://arxiv.org/abs/2607.19971) · [PDF](https://arxiv.org/pdf/2607.19971) | rule-assigned |
@@ -645,7 +659,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-09-25 | Digital Twin-Guided Robot Path Planning: A Beta-Bernoulli Fusion with Large Language Model as a Sensor | Mani Amani, Reza Akhavian | [Abstract](https://arxiv.org/abs/2509.20709) · [PDF](https://arxiv.org/pdf/2509.20709) | rule-assigned |
 | 2025-09-24 | BBoE: Leveraging Bundle of Edges for Kinodynamic Bidirectional Motion Planning | Srikrishna Bangalore Raghu, Alessandro Roncone | [Abstract](https://arxiv.org/abs/2509.20333) · [PDF](https://arxiv.org/pdf/2509.20333) | rule-assigned |
 | 2025-09-23 | Distributionally Robust Safe Motion Planning with Contextual Information | Kaizer Rahaman, Simran Kumari, Ashish R. Hota | [Abstract](https://arxiv.org/abs/2509.18666) · [PDF](https://arxiv.org/pdf/2509.18666) | rule-assigned |
-| 2025-09-23 | Agentic Scene Policies: Unifying Space, Semantics, and Affordances for Robot Action | Sacha Morin, Kumaraditya Gupta, Mahtab Sandhu, Charlie Gauthier et al. | [Abstract](https://arxiv.org/abs/2509.19571) · [PDF](https://arxiv.org/pdf/2509.19571) | rule-assigned |
 | 2025-09-21 | CoPlanner: An Interactive Motion Planner with Contingency-Aware Diffusion for Autonomous Driving | Ruiguo Zhong, Ruoyu Yao, Pei Liu, Xiaolong Chen et al. | [Abstract](https://arxiv.org/abs/2509.17080) · [PDF](https://arxiv.org/pdf/2509.17080) | rule-assigned |
 | 2025-09-18 | PA-MPPI: Perception-Aware Model Predictive Path Integral Control for Quadrotor Navigation in Unknown Environments | Yifan Zhai, Rudolf Reiter, Davide Scaramuzza | [Abstract](https://arxiv.org/abs/2509.14978) · [PDF](https://arxiv.org/pdf/2509.14978) | rule-assigned |
 | 2025-09-18 | Multi-CAP: A Multi-Robot Connectivity-Aware Hierarchical Coverage Path Planning Algorithm for Unknown Environments | Zongyuan Shen, Burhanuddin Shirose, Prasanna Sriganesh, Bhaskar Vundurthy et al. | [Abstract](https://arxiv.org/abs/2509.14941) · [PDF](https://arxiv.org/pdf/2509.14941) | rule-assigned |
@@ -1489,15 +1502,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-09 | Motion Memory: Leveraging Past Experiences to Accelerate Future Motion Planning | Dibyendu Das, Yuanjie Lu, Erion Plaku, Xuesu Xiao | [Abstract](https://arxiv.org/abs/2310.06198) · [PDF](https://arxiv.org/pdf/2310.06198) | rule-assigned |
 | 2023-10-09 | Conformal Decision Theory: Safe Autonomous Decisions from Imperfect Predictions | Jordan Lekeufack, Anastasios N. Angelopoulos, Andrea Bajcsy, Michael I. Jordan et al. | [Abstract](https://arxiv.org/abs/2310.05921) · [PDF](https://arxiv.org/pdf/2310.05921) | rule-assigned |
 | 2023-10-09 | CAT-RRT: Motion Planning that Admits Contact One Link at a Time | Nataliya Nechyporenko, Caleb Escobedo, Shreyas Kadekodi, Alessandro Roncone | [Abstract](https://arxiv.org/abs/2310.06210) · [PDF](https://arxiv.org/pdf/2310.06210) | rule-assigned |
-| 2023-10-06 | LIVE: Lidar Informed Visual Search for Multiple Objects with Multiple Robots | Ryan Gupta, Minkyu Kim, Juliana T Rodriguez, Kyle Morgenstein et al. | [Abstract](https://arxiv.org/abs/2310.04572) · [PDF](https://arxiv.org/pdf/2310.04572) | rule-assigned |
-| 2023-10-06 | Knolling Bot: Teaching Robots the Human Notion of Tidiness | Yuhang Hu, Judah Goldfeder, Zhizhuo Zhang, Xinyue Zhu et al. | [Abstract](https://arxiv.org/abs/2310.04566) · [PDF](https://arxiv.org/pdf/2310.04566) | rule-assigned |
-| 2023-10-06 | Graph learning in robotics: a survey | Francesca Pistilli, Giuseppe Averta | [Abstract](https://arxiv.org/abs/2310.04294) · [PDF](https://arxiv.org/pdf/2310.04294) | rule-assigned |
-| 2023-10-05 | Time-Optimal Trajectory Planning in Highway Scenarios using Basis-Spline Parameterization | Philip Dorpmüller, Thomas Schmitz, Naveen Bejagam, Torsten Bertram | [Abstract](https://arxiv.org/abs/2310.03359) · [PDF](https://arxiv.org/pdf/2310.03359) | rule-assigned |
-| 2023-10-05 | Roadmaps with Gaps over Controllers: Achieving Efficiency in Planning under Dynamics | Aravind Sivaramakrishnan, Sumanth Tangirala, Edgar Granados, Noah R. Carver et al. | [Abstract](https://arxiv.org/abs/2310.03239) · [PDF](https://arxiv.org/pdf/2310.03239) | rule-assigned |
-| 2023-10-05 | Kinodynamic Motion Planning for a Team of Multirotors Transporting a Cable-Suspended Payload in Cluttered Environments | Khaled Wahba, Joaquim Ortiz-Haro, Marc Toussaint, Wolfgang Hönig | [Abstract](https://arxiv.org/abs/2310.03394) · [PDF](https://arxiv.org/pdf/2310.03394) | rule-assigned |
-| 2023-10-05 | High-Degrees-of-Freedom Dynamic Neural Fields for Robot Self-Modeling and Motion Planning | Lennart Schulze, Hod Lipson | [Abstract](https://arxiv.org/abs/2310.03624) · [PDF](https://arxiv.org/pdf/2310.03624) | rule-assigned |
-| 2023-10-05 | A Survey of Multi-Robot Motion Planning | Hoang-Dung Bui | [Abstract](https://arxiv.org/abs/2310.08599) · [PDF](https://arxiv.org/pdf/2310.08599) | rule-assigned |
-| 2023-10-04 | Curve Trajectory Model for Human Preferred Path Planning of Automated Vehicles | Gergo Igneczi, Erno Horvath, Roland Toth, Krisztian Nyilas | [Abstract](https://arxiv.org/abs/2310.02696) · [PDF](https://arxiv.org/pdf/2310.02696) | rule-assigned |
 
 ---
 

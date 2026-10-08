@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=Pending%20specialty%20review#research-workbench)
 
-> 27 conference papers · 440 recent arXiv papers
+> 27 conference papers · 444 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -52,15 +52,19 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | End-to-End Learning of Hybrid Inverse Dynamics Models for Precise and Compliant Impedance Control | RSS · Dynamics Model | [Paper](https://arxiv.org/pdf/2205.13804) · [Index](https://dblp.org/rec/conf/rss/ReussD0BSN22) | needs-review |
 | 2022 | iSDF: Real-Time Neural Signed Distance Fields for Robot Perception | RSS · Robot Perception | [Paper](https://arxiv.org/abs/2204.02296) · [Index](https://dblp.org/rec/journals/corr/abs-2204-02296) | needs-review |
 
-## Recent arXiv papers (440)
+## Recent arXiv papers (444)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | Do Better Visual Representations Always Lead to Better End-to-End Autonomous Driving? | Zihao Zhang, Haochen Tian, Tianyu Li, Changhui Jing et al. | [Abstract](https://arxiv.org/abs/2610.09695) · [PDF](https://arxiv.org/pdf/2610.09695) | needs-review |
+| 2026-10-07 | Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies | Yihan Li, Yating Feng, Shengjiu Sun, Jianing Chen et al. | [Abstract](https://arxiv.org/abs/2610.10479) · [PDF](https://arxiv.org/pdf/2610.10479) | needs-review |
+| 2026-10-06 | Beyond Reconstruction: What Matters in Action Tokenization for Robot Policies? | Haoran Chen, Jingtian Ji, Samuel Wheeler, Kaylene Caswell Stocking et al. | [Abstract](https://arxiv.org/abs/2610.09170) · [PDF](https://arxiv.org/pdf/2610.09170) | needs-review |
+| 2026-10-05 | Dynamics Modeling of a Multi-UAV Slung Load System Using a Discrete-Link Cable Approach | Harvey Merton, Ian W. Hunter | [Abstract](https://arxiv.org/abs/2610.07456) · [PDF](https://arxiv.org/pdf/2610.07456) | needs-review |
 | 2026-10-01 | SonarVoxNet: Diver Detection in 3D Bounding Box using 3D Sonar | Eugene Park, Jiwon Lee, Seyoung Kan, Trung Dong et al. | [Abstract](https://arxiv.org/abs/2610.01644) · [PDF](https://arxiv.org/pdf/2610.01644) | needs-review |
 | 2026-10-01 | quARtet Marker: A 3D-Printable Multi-Tag Fiducial for Robust Near-Frontal Pose Estimation | Araki Wakiuchi, Hikaru Sasaki, Takamitsu Matsubara | [Abstract](https://arxiv.org/abs/2610.01072) · [PDF](https://arxiv.org/pdf/2610.01072) | needs-review |
 | 2026-10-01 | FedCKA: Representation-Guided Layer Personalization for Federated 3D Perception Across Driving Domains | Jolle Verhoog, Ali Burak Ünal, Holger Caesar | [Abstract](https://arxiv.org/abs/2610.01510) · [PDF](https://arxiv.org/pdf/2610.01510) | needs-review |
 | 2026-10-01 | Beyond Leaderboard Scores: A Deployment-Focused Protocol for Interpretable Tracking Evaluation in Pedestrian-Centric Environments | Dominik Wojcikiewicz, Diego Paez-Granados | [Abstract](https://arxiv.org/abs/2610.01682) · [PDF](https://arxiv.org/pdf/2610.01682) | needs-review |
-| 2026-09-30 | Measuring Asset and Scene Reconstruction Effects in Real-to-Sim Robot Evaluation | Sanya Verma, Luca Cilio, Velissarios Christodoulou | [Abstract](https://arxiv.org/abs/2610.00731) · [PDF](https://arxiv.org/pdf/2610.00731) | needs-review |
+| 2026-09-30 | Measuring Asset and Scene Reconstruction Effects in Real-to-Sim Robot Evaluation | Sanya Verma, Luca Cilio, Velissarios Christodoulou, Tyler Fermelis et al. | [Abstract](https://arxiv.org/abs/2610.00731) · [PDF](https://arxiv.org/pdf/2610.00731) | needs-review |
 | 2026-09-29 | ProAct-VLM: Pre-Failure Vision-Language Task Replanning with Continuous Perception Feedback | Ahmed Nader Ahmed, Omar Moured, Mughni Irfan Mohammed Abdul, Muhayy Ud Din et al. | [Abstract](https://arxiv.org/abs/2609.37681) · [PDF](https://arxiv.org/pdf/2609.37681) | needs-review |
 | 2026-09-28 | Simulation for Planetary Robotic Perception and Autonomy: A Concise Survey of Recent Capabilities and Gaps | Hoyun Kim, Giseop Kim | [Abstract](https://arxiv.org/abs/2609.34743) · [PDF](https://arxiv.org/pdf/2609.34743) | needs-review |
 | 2026-09-28 | F4R: Failure-Driven Recognition, Reconstruction, Refinement, and Redeployment for Continual Robot Self-Improvement | Zhuoyuan Yu, Jiacheng Wang, Tianle Liu, Yihua Ren et al. | [Abstract](https://arxiv.org/abs/2609.35575) · [PDF](https://arxiv.org/pdf/2609.35575) | needs-review |

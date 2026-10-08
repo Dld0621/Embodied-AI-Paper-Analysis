@@ -1,7 +1,7 @@
 # Balance & Contact Regulation · 平衡与接触调节
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Coordination%20%26%20Balance&specialty=Balance%20%26%20Contact%20Regulation#research-workbench)
@@ -46,7 +46,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-27 | SOLO: Stable Omni-terrain Long-Horizon Perceptive Humanoid Locomotion | Pihai Sun, Gang Han, Jingkai Sun, Jiahao Ma et al. | [Abstract](https://arxiv.org/abs/2608.26583) · [PDF](https://arxiv.org/pdf/2608.26583) | rule-assigned |
 | 2026-08-21 | Natural Sit-to-Stand Motion Synthesis For Humanoids via Guided Assistance Curricula and Staged Rewards | Meet Pal Singh, Vyankatesh Ashtekar, Ashish Dutta | [Abstract](https://arxiv.org/abs/2608.20823) · [PDF](https://arxiv.org/pdf/2608.20823) | rule-assigned |
 | 2026-08-17 | RoboStriker: Latent-Space Strategic Games for Autonomous Humanoid Boxing | Kangning Yin, Kaige Liu, Zhe Cao, Wentao Dong et al. | [Abstract](https://arxiv.org/abs/2608.16195) · [PDF](https://arxiv.org/pdf/2608.16195) | rule-assigned |
-| 2026-08-01 | A Change of Frame Makes Balance Observable: Distillation-Free Humanoid Single-Leg Stance | Yikai Zhou, Xingyun Wang, Jieming Cui, Bozhou Chen et al. | [Abstract](https://arxiv.org/abs/2608.00500) · [PDF](https://arxiv.org/pdf/2608.00500) | rule-assigned |
+| 2026-08-01 | A Change of Frame Makes the Capture Point Proprioceptive: Distillation-Free Humanoid Single-Leg Balance | Yikai Zhou, Xingyun Wang, Jieming Cui, Bozhou Chen et al. | [Abstract](https://arxiv.org/abs/2608.00500) · [PDF](https://arxiv.org/pdf/2608.00500) | rule-assigned |
 | 2026-07-29 | HumanCLAW: Can Vision-Language Models Act Through a Body? | Li Siyao, Jiawei Gu, Shuai Liu, Kairui Hu et al. | [Abstract](https://arxiv.org/abs/2607.27180) · [PDF](https://arxiv.org/pdf/2607.27180) | rule-assigned |
 | 2026-06-29 | Evolutionary Hyperparameter Optimization to Find Lightweight CNN Models for Autonomous Steering | Devson Butani, Ryan Kaddis, Chan-Jin Chung | [Abstract](https://arxiv.org/abs/2606.29684) · [PDF](https://arxiv.org/pdf/2606.29684) | rule-assigned |
 | 2026-06-23 | Efficient Time-Domain Simulation of USV Motions in Short-Crested Irregular Waves Using an IRF-Based Framework | Fei Duan, Zihao Wang, Yaohua Zhou, Qing Xiao | [Abstract](https://arxiv.org/abs/2606.24130) · [PDF](https://arxiv.org/pdf/2606.24130) | rule-assigned |
@@ -55,7 +55,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-04-12 | AWARE: Adaptive Whole-body Active Rotating Control for Enhanced LiDAR-Inertial Odometry under Human-in-the-Loop Interaction | Yizhe Zhang, Jianping Li, Liangliang Yin, Zhen Dong et al. | [Abstract](https://arxiv.org/abs/2604.10598) · [PDF](https://arxiv.org/pdf/2604.10598) | rule-assigned |
 | 2026-03-24 | Learning Safe-Stoppability Monitors for Humanoid Robots | Yifan Sun, Yiyuan Pan, Shangtao Li, Caiwu Ding et al. | [Abstract](https://arxiv.org/abs/2603.22703) · [PDF](https://arxiv.org/pdf/2603.22703) | rule-assigned |
 | 2026-03-11 | Shape Control of a Planar Hyper-Redundant Robot via Hybrid Kinematics-Informed and Learning-based Approach | Yuli Song, Wenbo Li, Wenci Xin, Zhiqiang Tang et al. | [Abstract](https://arxiv.org/abs/2603.10402) · [PDF](https://arxiv.org/pdf/2603.10402) | rule-assigned |
-| 2026-03-09 | FAME: Force-Adaptive RL for Expanding the Manipulation Envelope of a Full-Scale Humanoid | Niraj Pudasaini, Yutong Zhang, Jensen Lavering, Max Conwat et al. | [Abstract](https://arxiv.org/abs/2603.08961) · [PDF](https://arxiv.org/pdf/2603.08961) | rule-assigned |
+| 2026-03-09 | FAME: Force-Adaptive RL for Expanding the Manipulation Envelope of a Full-Scale Humanoid | Niraj Pudasaini, Yutong Zhang, Jensen Lavering, Max Conway et al. | [Abstract](https://arxiv.org/abs/2603.08961) · [PDF](https://arxiv.org/pdf/2603.08961) | rule-assigned |
 | 2026-03-03 | Navigating in Uncertain Environments with Heterogeneous Visibility | Jongann Lee, Melkior Ornik | [Abstract](https://arxiv.org/abs/2603.03495) · [PDF](https://arxiv.org/pdf/2603.03495) | rule-assigned |
 | 2026-02-11 | Semi-Supervised Cross-Domain Imitation Learning | Li-Min Chu, Kai-Siang Ma, Ming-Hong Chen, Ping-Chun Hsieh | [Abstract](https://arxiv.org/abs/2602.10793) · [PDF](https://arxiv.org/pdf/2602.10793) | rule-assigned |
 | 2026-01-19 | FocusNav: Spatial Selective Attention with Waypoint Guidance for Humanoid Local Navigation | Yang Zhang, Jianming Ma, Liyun Yan, Zhanxiang Cao et al. | [Abstract](https://arxiv.org/abs/2601.12790) · [PDF](https://arxiv.org/pdf/2601.12790) | rule-assigned |

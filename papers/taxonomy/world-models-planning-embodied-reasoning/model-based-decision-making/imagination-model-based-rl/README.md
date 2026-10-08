@@ -1,12 +1,12 @@
 # Imagination & Model-based RL · 想象训练与模型式 RL
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Model-based%20Decision%20Making&specialty=Imagination%20%26%20Model-based%20RL#research-workbench)
 
-> 4 conference papers · 45 recent arXiv papers
+> 4 conference papers · 48 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,10 +29,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Model-based Adversarial Imitation Learning from Demonstrations and Human Reward | IROS · Imitation Learning | [Paper](https://doi.org/10.1109/IROS55552.2023.10341411) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341411) | rule-assigned |
 | 2022 | SAM-RL: Sensing-aware model-based reinforcement learning via differentiable physics-based simulation and rendering | RSS · Simulation | [Paper](https://arxiv.org/pdf/2210.15185) · [Publisher](https://doi.org/10.1177/02783649241284653) | rule-assigned |
 
-## Recent arXiv papers (45)
+## Recent arXiv papers (48)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | Event-Aligned Visual Action Reasoning for World Action Models | Xiaomeng Yang, Yushu Wu, Yi Gao, Yuhao Lei et al. | [Abstract](https://arxiv.org/abs/2610.09427) · [PDF](https://arxiv.org/pdf/2610.09427) | rule-assigned |
+| 2026-10-04 | FLEX-WAM: Flexible Block-Causal World-Action Models for Long-Horizon Imagination and Planning | R. Khorrambakht, Joseph Amigo, Félix Lebel, Leon Seetoo et al. | [Abstract](https://arxiv.org/abs/2610.05483) · [PDF](https://arxiv.org/pdf/2610.05483) | rule-assigned |
 | 2026-09-30 | Sparse-WAM: Accelerating World Action Models via Action-Guided Sparse Imagination | Xinling Xie, Haodong Wang, Jiazhi Mi, Zhiming Liu et al. | [Abstract](https://arxiv.org/abs/2609.38984) · [PDF](https://arxiv.org/pdf/2609.38984) | rule-assigned |
 | 2026-09-25 | Precision at Speed: Sample-Efficient Online Model-Based Reinforcement Learning for Hydraulic Excavator Control | Claudio Canales, Fang Nan, Marco Hutter, Javier Ruiz-del-Solar | [Abstract](https://arxiv.org/abs/2609.31025) · [PDF](https://arxiv.org/pdf/2609.31025) | rule-assigned |
 | 2026-09-24 | Rolling-WAM: World Action Models with Rolling Imagination | Yinghua Zhou, Junjie Ye, Yiqi Zhao, Hao Dong et al. | [Abstract](https://arxiv.org/abs/2609.30247) · [PDF](https://arxiv.org/pdf/2609.30247) | rule-assigned |
@@ -40,6 +42,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-09-10 | Amortized Low-Rank Adaptation for Model-Based Reinforcement Learning | Fernando Palafox, David Fridovich-Keil | [Abstract](https://arxiv.org/abs/2609.12278) · [PDF](https://arxiv.org/pdf/2609.12278) | rule-assigned |
 | 2026-09-08 | CAST: Alternating State-Value Targets and Expanded Policy Gradients for Model-Based Reinforcement Learning | Pietro Noah Crestaz, Mohamed Yassine Kabouri, Nicolas Mansard, Andrea Del Prete | [Abstract](https://arxiv.org/abs/2609.08853) · [PDF](https://arxiv.org/pdf/2609.08853) | rule-assigned |
 | 2026-08-25 | Latent Action as Intention Enables Efficient Future Imagination for World Action Models | Xiang Li, Yupeng Zheng, Songen Gu, Huailiang Ma et al. | [Abstract](https://arxiv.org/abs/2608.24882) · [PDF](https://arxiv.org/pdf/2608.24882) | rule-assigned |
+| 2026-08-25 | GlanceWAM: Sparse Test-Time Imagination for World-Action Models | Linhan Wang, Zijian An, Mingyuan Zhang, Chen Dai et al. | [Abstract](https://arxiv.org/abs/2608.23927) · [PDF](https://arxiv.org/pdf/2608.23927) | rule-assigned |
 | 2026-08-09 | Hierarchical Topology-Aware Planning and Control of Underwater Vehicle-Manipulator Systems in Confined Environments | Mohamed Abdelwahab, Ruggero Carli, Damiano Varagnolo, Alberto Dalla Libera | [Abstract](https://arxiv.org/abs/2608.08871) · [PDF](https://arxiv.org/pdf/2608.08871) | rule-assigned |
 | 2026-07-17 | Certifiable Safe Model-Based Reinforcement Learning with Control-Affine Dynamics Approximation | Hao Zhou, Yanze Zhang, Cameron Reid, Wenhao Luo | [Abstract](https://arxiv.org/abs/2607.16501) · [PDF](https://arxiv.org/pdf/2607.16501) | rule-assigned |
 | 2026-07-16 | BadWAM: When World-Action Models Dream Right but Act Wrong | Qi Li, Xingyi Yang, Xinchao Wang | [Abstract](https://arxiv.org/abs/2607.15207) · [PDF](https://arxiv.org/pdf/2607.15207) | rule-assigned |

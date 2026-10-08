@@ -1,12 +1,12 @@
 # Local Avoidance & Trajectory Optimization · 局部避障与轨迹优化
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Motion%20Planning%20%26%20Exploration&specialty=Local%20Avoidance%20%26%20Trajectory%20Optimization#research-workbench)
 
-> 35 conference papers · 480 recent arXiv papers
+> 35 conference papers · 483 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -60,10 +60,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | CoMBiNED: Multi-Constrained Model Based Planning for Navigation in Dynamic Environments | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981479) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981479) | rule-assigned |
 | 2022 | Imitation Learning and Model Integrated Excavator Trajectory Planning | IROS · Imitation Learning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981220) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981220) | rule-assigned |
 
-## Recent arXiv papers (480)
+## Recent arXiv papers (483)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | AeroEval: Staged Program and Execution Validation for AI-Generated Drone Missions | Kautuk Astu, Naina Rabha, Yogesh Simmhan | [Abstract](https://arxiv.org/abs/2610.09764) · [PDF](https://arxiv.org/pdf/2610.09764) | rule-assigned |
+| 2026-10-05 | An Autonomous, 3D Printed, Waterjet-Powered, Open-Source Robotic Trimaran for Environmental Inspection and Monitoring | Reuben O'Brien, Martin Lambrechtse-Reid, Minas Liarokapis | [Abstract](https://arxiv.org/abs/2610.07398) · [PDF](https://arxiv.org/pdf/2610.07398) | rule-assigned |
+| 2026-10-04 | GJK-CBF: Control Barrier Functions for Convex Rigid Body Collision Avoidance on SE(3) | Yi-Hsuan Chen, Shuo Liu, Wei Xiao, Michael Otte et al. | [Abstract](https://arxiv.org/abs/2610.04910) · [PDF](https://arxiv.org/pdf/2610.04910) | rule-assigned |
+| 2026-10-04 | Emergency Obstacle Avoidance Maneuvers in Differential-Drive Mobile Robots | Kautik Mandve, Nilay Kant | [Abstract](https://arxiv.org/abs/2610.05607) · [PDF](https://arxiv.org/pdf/2610.05607) | rule-assigned |
 | 2026-10-01 | LiDARFlow: Real-Time Panel-Based MAV Guidance in Unknown Environments | João Machado, Zeynep Bilgin, Matthieu Verdoucq, Murat Bronz | [Abstract](https://arxiv.org/abs/2610.01573) · [PDF](https://arxiv.org/pdf/2610.01573) | rule-assigned |
 | 2026-09-30 | DODGER: Safety-Guided Reinforcement Learning for Robot Navigation Among Dynamic Obstacles | Sanghyuk Park, Kwanwoo Lee, Taekyung Kim, Seohyeon Lim et al. | [Abstract](https://arxiv.org/abs/2609.38873) · [PDF](https://arxiv.org/pdf/2609.38873) | rule-assigned |
 | 2026-09-28 | Zero-Shot Reactive Obstacle Avoidance for Generative Robot Policies | Weihang Guo, Lydia E. Kavraki | [Abstract](https://arxiv.org/abs/2609.35231) · [PDF](https://arxiv.org/pdf/2609.35231) | rule-assigned |
@@ -81,6 +85,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-09-18 | Stochastic Neural Signed Swept Volume for Real-time Chance-Constrained Trajectory Optimization | Qingyi Chen, Kevin Zhang, Lucas Chen, Zachary Kingston | [Abstract](https://arxiv.org/abs/2609.21211) · [PDF](https://arxiv.org/pdf/2609.21211) | rule-assigned |
 | 2026-09-18 | Safe Real-Time Policy Steering via Noise-Space Trajectory Optimization for One-Step Generative Policies | Qingyi Chen, Joseph Ruan, Zachary Kingston | [Abstract](https://arxiv.org/abs/2609.21220) · [PDF](https://arxiv.org/pdf/2609.21220) | rule-assigned |
 | 2026-09-17 | Time-Efficient Iterative Learning Planning for Safety-Critical Dynamic Obstacle Avoidance | Zhiyi Chen, Shuli Lv, Chen Min, Yong Xu et al. | [Abstract](https://arxiv.org/abs/2609.20435) · [PDF](https://arxiv.org/pdf/2609.20435) | rule-assigned |
+| 2026-09-17 | Coding Agents with Harness for Safe Robot Control | Bingxin Xu, Yuzhang Shang, Zhen Dong, Emilio Ferrara | [Abstract](https://arxiv.org/abs/2609.20822) · [PDF](https://arxiv.org/pdf/2609.20822) | rule-assigned |
 | 2026-09-16 | SemSafe-3DGS: Semantic Risk-Aware Active Navigation in Uncertain 3D Gaussian Splatting Maps | Amirhossein Mollaei Khass, Athanasios Cosse, Nader Motee | [Abstract](https://arxiv.org/abs/2609.19330) · [PDF](https://arxiv.org/pdf/2609.19330) | rule-assigned |
 | 2026-09-16 | DetAug: Obstacle-Blind Trajectory Augmentation for Zero-shot Obstacle Avoidance | Reece O'Mahoney, Moritz Zoellner, Ioannis Havoutis | [Abstract](https://arxiv.org/abs/2609.18395) · [PDF](https://arxiv.org/pdf/2609.18395) | rule-assigned |
 | 2026-09-15 | CorrRisk-WM: Corridor-Conditioned Risk World Modeling for Safety-Critical Trajectory Planning | Tingyu Guo, Reza Langari | [Abstract](https://arxiv.org/abs/2609.16724) · [PDF](https://arxiv.org/pdf/2609.16724) | rule-assigned |
@@ -367,6 +372,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-03-28 | SafeCast: Risk-Responsive Motion Forecasting for Autonomous Vehicles | Haicheng Liao, Hanlin Kong, Bin Rao, Bonan Wang et al. | [Abstract](https://arxiv.org/abs/2503.22541) · [PDF](https://arxiv.org/pdf/2503.22541) | rule-assigned |
 | 2025-03-26 | Decremental Dynamics Planning for Robot Navigation | Yuanjie Lu, Tong Xu, Linji Wang, Nick Hawes et al. | [Abstract](https://arxiv.org/abs/2503.20521) · [PDF](https://arxiv.org/pdf/2503.20521) | rule-assigned |
 | 2025-03-26 | DBaS-Log-MPPI: Efficient and Safe Trajectory Optimization via Barrier States | Fanxin Wang, Haolong Jiang, Chuyuan Tao, Wenbin Wan et al. | [Abstract](https://arxiv.org/abs/2504.06437) · [PDF](https://arxiv.org/pdf/2504.06437) | rule-assigned |
+| 2025-03-22 | From Kinematic Motion Planners to Dynamic Autonomous Navigation with Obstacle Avoidance (Extended version) | Mayur Sawant, Abdelhamid Tayebi | [Abstract](https://arxiv.org/abs/2503.17589) · [PDF](https://arxiv.org/pdf/2503.17589) | rule-assigned |
 | 2025-03-21 | TamedPUMA: safe and stable imitation learning with geometric fabrics | Saray Bakker, Rodrigo Pérez-Dattari, Cosimo Della Santina, Wendelin Böhmer et al. | [Abstract](https://arxiv.org/abs/2503.17432) · [PDF](https://arxiv.org/pdf/2503.17432) | rule-assigned |
 | 2025-03-13 | RMG: Real-Time Expressive Motion Generation with Self-collision Avoidance for 6-DOF Companion Robotic Arms | Jiansheng Li, Haotian Song, Jinni Zhou, Qiang Nie et al. | [Abstract](https://arxiv.org/abs/2503.09959) · [PDF](https://arxiv.org/pdf/2503.09959) | rule-assigned |
 | 2025-03-10 | Collision Risk Estimation via Loss Prediction in End-to-End Autonomous Driving | Ziliang Xiong, Shipeng Liu, Nathaniel Helgesen, Hongwei Li et al. | [Abstract](https://arxiv.org/abs/2503.07425) · [PDF](https://arxiv.org/pdf/2503.07425) | rule-assigned |
@@ -541,9 +547,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-16 | Collision Cone Control Barrier Functions: Experimental Validation on UGVs for Kinematic Obstacle Avoidance | Bhavya Giri Goswami, Manan Tayal, Karthik Rajgopal, Pushpak Jagtap et al. | [Abstract](https://arxiv.org/abs/2310.10839) · [PDF](https://arxiv.org/pdf/2310.10839) | rule-assigned |
 | 2023-10-15 | Free as a Bird: Event-based Dynamic Sense-and-Avoid for Ornithopter Robot Flight | J. P. Rodríguez-Gómez, R. Tapia, M. M. Guzmán, J. R. Martínez-de Dios et al. | [Abstract](https://arxiv.org/abs/2310.09875) · [PDF](https://arxiv.org/pdf/2310.09875) | rule-assigned |
 | 2023-10-14 | Real-Time Sense and Detect of Drones Using Deep Learning and Airborne LiDAR | Manduhu Manduhu, Alexander Dow, Petar Trslic, Gerard Dooly et al. | [Abstract](https://arxiv.org/abs/2310.09589) · [PDF](https://arxiv.org/pdf/2310.09589) | rule-assigned |
-| 2023-10-06 | Graph-based 3D Collision-distance Estimation Network with Probabilistic Graph Rewiring | Minjae Song, Yeseung Kim, Min Jun Kim, Daehyung Park | [Abstract](https://arxiv.org/abs/2310.04044) · [PDF](https://arxiv.org/pdf/2310.04044) | rule-assigned |
-| 2023-10-04 | Long-Term Dynamic Window Approach for Kinodynamic Local Planning in Static and Crowd Environments | Zhiqiang Jian, Songyi Zhang, Lingfeng Sun, Wei Zhan et al. | [Abstract](https://arxiv.org/abs/2310.02648) · [PDF](https://arxiv.org/pdf/2310.02648) | rule-assigned |
-| 2023-10-04 | Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow | Zhiqiang Jian, Songyi Zhang, Lingfeng Sun, Wei Zhan et al. | [Abstract](https://arxiv.org/abs/2310.02625) · [PDF](https://arxiv.org/pdf/2310.02625) | rule-assigned |
 
 ---
 

@@ -1,12 +1,12 @@
 # Tactile Representation · 触觉表征
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Tactile%20Representation#research-workbench)
 
-> 61 conference papers · 126 recent arXiv papers
+> 61 conference papers · 128 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -86,10 +86,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Play it by Ear: Learning Skills amidst Occlusion through Audio-Visual Imitation Learning | RSS · Imitation Learning | [Paper](https://arxiv.org/pdf/2205.14850) · [Index](https://dblp.org/rec/journals/corr/abs-2205-14850) | rule-assigned |
 | 2022 | Understanding Dynamic Tactile Sensing for Liquid Property Estimation | RSS · Tactile | [Paper](https://arxiv.org/pdf/2205.08771) · [Index](https://dblp.org/rec/journals/corr/abs-2205-08771) | rule-assigned |
 
-## Recent arXiv papers (126)
+## Recent arXiv papers (128)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | Tactile Reconstruction of Contact Task Frames and Forces for Hybrid Force/Motion Control | Antonio Rapuano, Simone Orelli, Barbara Bazzana, Antonio Franchi et al. | [Abstract](https://arxiv.org/abs/2610.10020) · [PDF](https://arxiv.org/pdf/2610.10020) | rule-assigned |
+| 2026-10-07 | Factorized Tactile Representation and Control for Sim-to-Real Manipulation | Siqi Shang, Bianca Aumann, Tye Brady, Joshua Migdal et al. | [Abstract](https://arxiv.org/abs/2610.10510) · [PDF](https://arxiv.org/pdf/2610.10510) | rule-assigned |
 | 2026-09-30 | OccluDex: Hierarchical 3D Visuo-Tactile Representation Learning for Egocentric Dexterous Manipulation under Self-Occlusion | Ziheng Xu, Yueyuan Chen, Xinyuan He, Guoxing Liu et al. | [Abstract](https://arxiv.org/abs/2609.39017) · [PDF](https://arxiv.org/pdf/2609.39017) | rule-assigned |
 | 2026-09-26 | GlowTact: Simple and Compact Vision-Based Tactile Sensing with High Sensitivity and Spatial Resolution | Yuxiang Ma, Megha Tippur, Pengfei Ye, Sandra Q. Liu et al. | [Abstract](https://arxiv.org/abs/2609.32471) · [PDF](https://arxiv.org/pdf/2609.32471) | rule-assigned |
 | 2026-09-21 | Learning tactile perception from high-bandwidth single-point sensing | Joseph Rigal, Emmanuel Virot, Caroline Pascal | [Abstract](https://arxiv.org/abs/2609.24621) · [PDF](https://arxiv.org/pdf/2609.24621) | rule-assigned |

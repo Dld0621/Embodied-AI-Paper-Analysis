@@ -1,12 +1,12 @@
 # Persistent Task Execution · 持续任务执行
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Memory%20%26%20Autonomous%20Execution&specialty=Persistent%20Task%20Execution#research-workbench)
 
-> 1 conference papers · 17 recent arXiv papers
+> 1 conference papers · 19 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2022 | Instruction-driven history-aware policies for robotic manipulations | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2209.04899) · [Index](https://dblp.org/rec/conf/corl/GuhurCPTLS22) | rule-assigned |
 
-## Recent arXiv papers (17)
+## Recent arXiv papers (19)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-05 | Recursive Video In-Context Learning for Agentic Robot | Wenrui Bao, Xinxin Liu, Bingxin Xu, Yuzhang Shang | [Abstract](https://arxiv.org/abs/2610.06843) · [PDF](https://arxiv.org/pdf/2610.06843) | rule-assigned |
+| 2026-10-05 | From Social Reasoning to Embodied Interaction: An Agentic Framework for Social Robots | Ziyu Cheng, Yuewen Guo, Zhirui Liu, Dong Zhang et al. | [Abstract](https://arxiv.org/abs/2610.05964) · [PDF](https://arxiv.org/pdf/2610.05964) | rule-assigned |
 | 2026-09-17 | Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision | Nitish Dashora, Douglas Chen, Idan Shenfeld, John Marangola et al. | [Abstract](https://arxiv.org/abs/2609.20820) · [PDF](https://arxiv.org/pdf/2609.20820) | rule-assigned |
 | 2026-09-08 | Drive by Hindsight and Foresight: Tool-Grounded Synergistic Reasoning over Hierarchical Memory for Autonomous Driving | Baojie Chen, Zijun Jia, Jing Zhong | [Abstract](https://arxiv.org/abs/2609.08217) · [PDF](https://arxiv.org/pdf/2609.08217) | rule-assigned |
 | 2026-08-31 | SUN: Agentic Robot Policy Learning with Persistent Task Programs | Weiqi Wang, Zhi Li, Yudong Lei, David Martinez et al. | [Abstract](https://arxiv.org/abs/2608.31167) · [PDF](https://arxiv.org/pdf/2608.31167) | rule-assigned |

@@ -1,12 +1,12 @@
 # Gaits & Locomotion Control · 步态与运动控制
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Quadruped%20%26%20Multilegged%20Locomotion&specialty=Gaits%20%26%20Locomotion%20Control#research-workbench)
 
-> 233 conference papers · 476 recent arXiv papers
+> 233 conference papers · 486 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -258,14 +258,25 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Zero-Shot Retargeting of Learned Quadruped Locomotion Policies Using Hybrid Kinodynamic Model Predictive Control | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2209.14123) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981967) | rule-assigned |
 | 2022 | Learning Forward Dynamics Model and Informed Trajectory Sampler for Safe Quadruped Navigation | RSS · Quadruped | [Paper](https://arxiv.org/abs/2204.08647) · [Index](https://dblp.org/rec/journals/corr/abs-2204-08647) | rule-assigned |
 
-## Recent arXiv papers (476)
+## Recent arXiv papers (486)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | Energy-Efficient Gait Adaptation via Hierarchical Reinforcement Learning for Quadrupedal Locomotion Across Diverse Terrains | Ammar Issa, Anubhav Singh, Anton Tsaritsin, Sergey Kolyubin | [Abstract](https://arxiv.org/abs/2610.10297) · [PDF](https://arxiv.org/pdf/2610.10297) | rule-assigned |
+| 2026-10-07 | CMP-IRRT*: A Perception-Assisted Height-Adaptive Planner for Quadruped Robots | Mingfan Zhao, Wendong Mao, Zhongfeng Wang | [Abstract](https://arxiv.org/abs/2610.10470) · [PDF](https://arxiv.org/pdf/2610.10470) | rule-assigned |
+| 2026-10-07 | Borrowed Eyes: Markerless Nano-UAV Flight with an Active Quadruped Observer | Alejandro Lorite Mora, Dimitrios Arapis, Andrés Faíña | [Abstract](https://arxiv.org/abs/2610.09967) · [PDF](https://arxiv.org/pdf/2610.09967) | rule-assigned |
+| 2026-10-06 | Model-Based Geometry-Aware Generative Optimization for Constrained Locomotion Planning | Zhilin He, Xinyuan Wang, Changliu Liu | [Abstract](https://arxiv.org/abs/2610.07772) · [PDF](https://arxiv.org/pdf/2610.07772) | rule-assigned |
+| 2026-10-06 | Feeling Through the Load: Compliant Quadruped Locomotion under Payload Interactions | Shaunak A. Mehta, Mayank Mishra, Prajit KrisshnaKumar, Sebastian Scherer et al. | [Abstract](https://arxiv.org/abs/2610.08637) · [PDF](https://arxiv.org/pdf/2610.08637) | rule-assigned |
+| 2026-10-05 | Towards Quadruped-Provided Localization and Active Tracking for Micro-UAVs | Alejandro Lorite Mora, Andrés Faíña | [Abstract](https://arxiv.org/abs/2610.06215) · [PDF](https://arxiv.org/pdf/2610.06215) | rule-assigned |
+| 2026-10-05 | Robust Nonprehensile Object Transport with Quadruped Robots | Ainoor Teimoorzadeh, Riccardo Pretto, Mario Selvaggio, Gokhan Alcan et al. | [Abstract](https://arxiv.org/abs/2610.07245) · [PDF](https://arxiv.org/pdf/2610.07245) | rule-assigned |
+| 2026-10-05 | RACER: Residual-Adaptive Closed-Loop Estimation for Sampling-Based Planning in Wheeled-Quadruped Racing | Yuxiang Liu, Marla Eisman, Lizhi Yang, Aaron Ames et al. | [Abstract](https://arxiv.org/abs/2610.07409) · [PDF](https://arxiv.org/pdf/2610.07409) | rule-assigned |
+| 2026-10-02 | CrowdOcc: Monocular Semantic Scene Completion for Quadruped Robots in Crowded Indoor Environments | Feiyang Chen, Jincheng Hu, Yiduo Chen, Jihao Li et al. | [Abstract](https://arxiv.org/abs/2610.03031) · [PDF](https://arxiv.org/pdf/2610.03031) | rule-assigned |
+| 2026-10-02 | Around the World: Unified Learned Locomotion on a 270 g Continuous-Rotation Quadruped | Arturo Flores Alvarez, Nathan Lintu, Dennis Hong | [Abstract](https://arxiv.org/abs/2610.02728) · [PDF](https://arxiv.org/pdf/2610.02728) | rule-assigned |
 | 2026-09-30 | Experience-Driven Continual Learning of Terrain Traversability for Quadruped Robots | Luca Bricarello, João Carlos Virgolino Soares, Alberto Sanchez-Delgado, Fulvio Mastrogiovanni et al. | [Abstract](https://arxiv.org/abs/2609.39755) · [PDF](https://arxiv.org/pdf/2609.39755) | rule-assigned |
 | 2026-09-29 | Predictive Safety Curricula for Robust Legged Locomotion | Ivan Ovinnikov, Pascal Sutter, Christian Gehring, Jordis Herrmann | [Abstract](https://arxiv.org/abs/2609.37070) · [PDF](https://arxiv.org/pdf/2609.37070) | rule-assigned |
 | 2026-09-29 | Inferring Soil Friction Angle from Robot Foot-Ground Force Histories: A Bayesian Inverse Approach to Proprioceptive Soil Sensing | Dawei Xu, Zhijie Wang | [Abstract](https://arxiv.org/abs/2609.36582) · [PDF](https://arxiv.org/pdf/2609.36582) | rule-assigned |
 | 2026-09-26 | GAUGE: Planner-Conditioned Active Calibration of Opaque Quadruped Velocity Interfaces | Tianhao Zang, Zihan Liu, Shanze Wang, Liyou Luo et al. | [Abstract](https://arxiv.org/abs/2609.32154) · [PDF](https://arxiv.org/pdf/2609.32154) | rule-assigned |
+| 2026-09-23 | Taming an End-to-End Autonomous Driving Policy for Urban Navigation of Quadruped Robots | Joochan Kim, Chanuk Yang, Tackgeun You, Ziran Wang et al. | [Abstract](https://arxiv.org/abs/2610.08812) · [PDF](https://arxiv.org/pdf/2610.08812) | rule-assigned |
 | 2026-09-22 | Water Surface Swimming in a Centipede and its Robophysical ModeL | Zhaochen J. Xu, Delfin Aydin, Abdullah Mustafa, Margarita B. Levin et al. | [Abstract](https://arxiv.org/abs/2609.27088) · [PDF](https://arxiv.org/pdf/2609.27088) | rule-assigned |
 | 2026-09-22 | Spiderbot: An Open-Source Energy-Efficient Hexapod with Passive Gravity Compensation | Ritwik Sharma, Vimarsh Shah, Saransh Agrawal | [Abstract](https://arxiv.org/abs/2609.26989) · [PDF](https://arxiv.org/pdf/2609.26989) | rule-assigned |
 | 2026-09-21 | MimicAgent: Quadruped Skills via Prompt-to-Trajectory Generation | Lucky Kant Nayak, Narayanan Palghat Parameswaran, Neehar Peri, Deva Ramanan | [Abstract](https://arxiv.org/abs/2609.24145) · [PDF](https://arxiv.org/pdf/2609.24145) | rule-assigned |
@@ -737,7 +748,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-09 | Momentum-Aware Trajectory Optimisation using Full-Centroidal Dynamics and Implicit Inverse Kinematics | Aristotelis Papatheodorou, Wolfgang Merkt, Alexander L. Mitchell, Ioannis Havoutis | [Abstract](https://arxiv.org/abs/2310.06074) · [PDF](https://arxiv.org/pdf/2310.06074) | rule-assigned |
 | 2023-10-09 | DecAP: Decaying Action Priors for Accelerated Imitation Learning of Torque-Based Legged Locomotion Policies | Shivam Sood, Ge Sun, Peizhuo Li, Guillaume Sartoretti | [Abstract](https://arxiv.org/abs/2310.05714) · [PDF](https://arxiv.org/pdf/2310.05714) | rule-assigned |
 | 2023-10-09 | An Open-Loop Baseline for Reinforcement Learning Locomotion Tasks | Antonin Raffin, Olivier Sigaud, Jens Kober, Alin Albu-Schäffer et al. | [Abstract](https://arxiv.org/abs/2310.05808) · [PDF](https://arxiv.org/pdf/2310.05808) | rule-assigned |
-| 2023-10-04 | Whole-body MPC for highly redundant legged manipulators: experimental evaluation with a 37 DoF dual-arm quadruped | Ioannis Dadiotis, Arturo Laurenzi, Nikos Tsagarakis | [Abstract](https://arxiv.org/abs/2310.02907) · [PDF](https://arxiv.org/pdf/2310.02907) | rule-assigned |
 
 ---
 

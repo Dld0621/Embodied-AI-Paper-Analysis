@@ -1,12 +1,12 @@
 # Visuotactile & Proprioceptive Fusion · 视觉触觉与本体感知融合
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Visuotactile%20%26%20Proprioceptive%20Fusion#research-workbench)
 
-> 21 conference papers · 155 recent arXiv papers
+> 21 conference papers · 157 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -46,10 +46,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning-based Six-axis Force/Torque Estimation Using GelStereo Fingertip Visuotactile Sensing | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS47612.2022.9981100) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981100) | rule-assigned |
 | 2022 | Visual-Tactile Multimodality for Following Deformable Linear Objects Using Reinforcement Learning | IROS · Tactile | [Paper](https://arxiv.org/pdf/2204.00117) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982218) | rule-assigned |
 
-## Recent arXiv papers (155)
+## Recent arXiv papers (157)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | Enhancing Robotic Perception and Adaptability through Sensor Fusion and Origami-Inspired Designs | Namai Chandra, Jaison Jose, Kavi Arya, Shivaram Kalyanakrishnan | [Abstract](https://arxiv.org/abs/2610.09828) · [PDF](https://arxiv.org/pdf/2610.09828) | rule-assigned |
+| 2026-10-02 | Register-Routed Delayed Fusion: Rewiring Shortcut-Prone Observation Fusion in Visuomotor Imitation | Jieting Long, Weidong Cai, Weiming Zhi | [Abstract](https://arxiv.org/abs/2610.02813) · [PDF](https://arxiv.org/pdf/2610.02813) | rule-assigned |
 | 2026-09-29 | What to Attend, What to Keep: Skill-Conditioned Visuotactile Representation with Progress-Guided Event Memory | Amir-Hossein Shahidzadeh, Seungjae Lee, Eadom Dessalene, Shanthosh Raaj Mohanram Mageswari et al. | [Abstract](https://arxiv.org/abs/2609.38494) · [PDF](https://arxiv.org/pdf/2609.38494) | rule-assigned |
 | 2026-09-24 | Self-Supervised Anchoring of Fingertip Sensing to Proprioception and Proactive Actions for Robot Imitation Learning | Tomohiro Motoda, Masaki Murooka, Keisuke Shirai, Hanbit Oh et al. | [Abstract](https://arxiv.org/abs/2609.29822) · [PDF](https://arxiv.org/pdf/2609.29822) | rule-assigned |
 | 2026-09-21 | A Monolithic Force-Proprioception Soft Acutuator Enabled by Single-Material 3D printing | Nan Huang, Lele Liu, Junfeng Lu, Yipan Zhu et al. | [Abstract](https://arxiv.org/abs/2609.24499) · [PDF](https://arxiv.org/pdf/2609.24499) | rule-assigned |

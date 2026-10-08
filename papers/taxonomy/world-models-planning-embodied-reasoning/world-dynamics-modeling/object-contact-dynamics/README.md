@@ -1,12 +1,12 @@
 # Object & Contact Dynamics · 物体与接触动力学
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=World%20%26%20Dynamics%20Modeling&specialty=Object%20%26%20Contact%20Dynamics#research-workbench)
 
-> 3 conference papers · 24 recent arXiv papers
+> 3 conference papers · 23 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,7 +28,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | Is Linear Feedback on Smoothed Dynamics Sufficient for Stabilizing Contact-Rich Plans? | ICRA · Contact Rich | [Paper](https://arxiv.org/pdf/2411.06542) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127776) | rule-assigned |
 | 2024 | Learning to Walk from Three Minutes of Real-World Data with Semi-structured Dynamics Models | CoRL · Dynamics Model | [Paper](https://arxiv.org/abs/2410.09163) · [Index](https://dblp.org/rec/journals/corr/abs-2410-09163) | rule-assigned |
 
-## Recent arXiv papers (24)
+## Recent arXiv papers (23)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -55,7 +55,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-06-20 | CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics | Jiawei Gao, Ziqin Wang, Zeqi Xiao, Jingbo Wang et al. | [Abstract](https://arxiv.org/abs/2406.14558) · [PDF](https://arxiv.org/pdf/2406.14558) | rule-assigned |
 | 2024-01-22 | Scaling Face Interaction Graph Networks to Real World Scenes | Tatiana Lopez-Guevara, Yulia Rubanova, William F. Whitney, Tobias Pfaff et al. | [Abstract](https://arxiv.org/abs/2401.11985) · [PDF](https://arxiv.org/pdf/2401.11985) | rule-assigned |
 | 2023-12-20 | Model-Based Control with Sparse Neural Dynamics | Ziang Liu, Genggeng Zhou, Jeff He, Tobia Marcucci et al. | [Abstract](https://arxiv.org/abs/2312.12791) · [PDF](https://arxiv.org/pdf/2312.12791) | rule-assigned |
-| 2023-10-06 | SlotGNN: Unsupervised Discovery of Multi-Object Representations and Visual Dynamics | Alireza Rezazadeh, Athreyi Badithela, Karthik Desingh, Changhyun Choi | [Abstract](https://arxiv.org/abs/2310.04617) · [PDF](https://arxiv.org/pdf/2310.04617) | rule-assigned |
 
 ---
 

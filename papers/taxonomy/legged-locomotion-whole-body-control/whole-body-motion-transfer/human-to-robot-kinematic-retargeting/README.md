@@ -1,12 +1,12 @@
 # Human-to-robot Kinematic Retargeting · 人体到机器人运动学重定向
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Motion%20Transfer&specialty=Human-to-robot%20Kinematic%20Retargeting#research-workbench)
 
-> 6 conference papers · 32 recent arXiv papers
+> 6 conference papers · 33 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -31,10 +31,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Redefining Data Pairing for Motion Retargeting Leveraging a Human Body Prior | IROS · Retargeting | [Paper](https://arxiv.org/abs/2409.13208) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801789) | rule-assigned |
 | 2023 | Robust Real-Time Motion Retargeting via Neural Latent Prediction | IROS · Retargeting | [Paper](https://doi.org/10.1109/IROS55552.2023.10342022) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342022) | rule-assigned |
 
-## Recent arXiv papers (32)
+## Recent arXiv papers (33)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-06 | From Legs to Wheels: Embodiment-Aware Human Motion Retargeting for Mobile-Base Humanoids | Jiyeon Koo, Eunseom Pyo, Jeonghee Seo, Taehwa Kim et al. | [Abstract](https://arxiv.org/abs/2610.08381) · [PDF](https://arxiv.org/pdf/2610.08381) | rule-assigned |
 | 2026-09-29 | OTRetarget: Joint Robot and Object Motion Retargeting via Optimal Transport | Guillaume Besset, Erwann Carn, Timothée Carecchio, Valentin Tordjman-Levavasseur et al. | [Abstract](https://arxiv.org/abs/2609.36602) · [PDF](https://arxiv.org/pdf/2609.36602) | rule-assigned |
 | 2026-09-29 | Geometry-Preserving Human-to-Robot Upper-Body Motion Retargeting from Monocular Video | Xiaoyu Yang, Sen Han, Da Li, Nan Wu | [Abstract](https://arxiv.org/abs/2609.37776) · [PDF](https://arxiv.org/pdf/2609.37776) | rule-assigned |
 | 2026-09-29 | Dense Temporal Motion Retargeting for Legged Robots | Jaeryeong Kim, Taerim Yoon, Jin Cheng, Sungjoon Choi et al. | [Abstract](https://arxiv.org/abs/2609.38617) · [PDF](https://arxiv.org/pdf/2609.38617) | rule-assigned |

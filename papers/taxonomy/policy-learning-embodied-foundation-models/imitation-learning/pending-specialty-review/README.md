@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Imitation%20Learning&specialty=Pending%20specialty%20review#research-workbench)
 
-> 68 conference papers · 490 recent arXiv papers
+> 68 conference papers · 494 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -93,10 +93,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning and Retrieval from Prior Data for Skill-based Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/pdf/2210.11435) · [Index](https://dblp.org/rec/journals/corr/abs-2210-11435) | needs-review |
 | 2022 | Divide & Conquer Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2204.07404) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982020) | needs-review |
 
-## Recent arXiv papers (490)
+## Recent arXiv papers (494)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | TERRA: Learning Transportable Latent Actions through Temporal Effect Representation and Relational Alignment | Tianxingjian Ding, Mubarak Shah, Yu Tian | [Abstract](https://arxiv.org/abs/2610.09509) · [PDF](https://arxiv.org/pdf/2610.09509) | needs-review |
+| 2026-10-05 | RealtimeWAM: One-Step Asynchronous World Action Models | Chengtao Lv, Jinyang Du, Shuyi Feng, Yang Yong et al. | [Abstract](https://arxiv.org/abs/2610.06617) · [PDF](https://arxiv.org/pdf/2610.06617) | needs-review |
+| 2026-10-03 | ACG-WAM: World-Action Modeling via Action-Conditioned Geometric Latent Prediction | Jiangtao Liu, Zishang Xiang, Yage He, Lingguo Cui et al. | [Abstract](https://arxiv.org/abs/2610.06965) · [PDF](https://arxiv.org/pdf/2610.06965) | needs-review |
+| 2026-10-02 | OmniAct3D: Leveraging Foundation Geometry and Evidence-Grounded Reasoning for Panoramic 3D Detection | Runtong Wu, Fei Teng, Di Wen, Guoqiang Zhao et al. | [Abstract](https://arxiv.org/abs/2610.03015) · [PDF](https://arxiv.org/pdf/2610.03015) | needs-review |
 | 2026-09-29 | Learning Expressive and Compositional Motion Representation via Spectral Skills | Feiyang Wu, Chenxiao Gao, Chen Yang, Ye Zhao et al. | [Abstract](https://arxiv.org/abs/2609.37677) · [PDF](https://arxiv.org/pdf/2609.37677) | needs-review |
 | 2026-09-28 | WAM-OPD: Sharpening World Action Models via On-Policy Distillation | Panjun Liu, Xiaohan Lei, Shiqi Zhang, Yikun Wang et al. | [Abstract](https://arxiv.org/abs/2609.34250) · [PDF](https://arxiv.org/pdf/2609.34250) | needs-review |
 | 2026-09-28 | FutureDuet: Decoupling Observation Access from Future Supervision in World Action Models | Jie Wu, Yuzhi Huang, Junqi Liu, Weichen Zhang et al. | [Abstract](https://arxiv.org/abs/2609.34362) · [PDF](https://arxiv.org/pdf/2609.34362) | needs-review |
@@ -166,7 +170,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-28 | Understanding LLM Intervention Explanations in Multi-Party Human-Robot Interaction | Micol Spitale, Massimiliano Nigro, Emily Cross | [Abstract](https://arxiv.org/abs/2606.29460) · [PDF](https://arxiv.org/pdf/2606.29460) | needs-review |
 | 2026-06-26 | The Speedup Paradox: Rethinking Inference Speed-Quality Trade-off in Embodied Tasks | Yujin Wang, Junli Chen, Yixuan Li, Shunan Dong et al. | [Abstract](https://arxiv.org/abs/2606.28529) · [PDF](https://arxiv.org/pdf/2606.28529) | needs-review |
 | 2026-06-25 | World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays | Manish Kumar Govind, Dominick Reilly, Smit Patel, Hieu Le et al. | [Abstract](https://arxiv.org/abs/2606.27374) · [PDF](https://arxiv.org/pdf/2606.27374) | needs-review |
-| 2026-06-24 | Decoupling Semantics and Geometric Grounding: Spatial Visual Prompts for Language-Conditioned Imitation Learning | Yanzhe Tang, Xinyu Shao, Yuxuan Hu, Siyu Chen et al. | [Abstract](https://arxiv.org/abs/2606.25360) · [PDF](https://arxiv.org/pdf/2606.25360) | needs-review |
+| 2026-06-24 | ResCue: Residual Spatial Cueing for Language-Conditioned Imitation Learning | Yanzhe Tang, Xinyu Shao, Yuxuan Hu, Siyu Chen et al. | [Abstract](https://arxiv.org/abs/2606.25360) · [PDF](https://arxiv.org/pdf/2606.25360) | needs-review |
 | 2026-06-24 | Charting the Growth of Social-Physical HRI (spHRI): A Systematic Review Pipeline Augmented by Small Language Models | Mayumi Mohan, Ju-Hung Chen, Alexis E. Block | [Abstract](https://arxiv.org/abs/2606.26382) · [PDF](https://arxiv.org/pdf/2606.26382) | needs-review |
 | 2026-06-18 | Temporal Self-Imitation Learning | Yinsen Jia, Boyuan Chen | [Abstract](https://arxiv.org/abs/2606.19752) · [PDF](https://arxiv.org/pdf/2606.19752) | needs-review |
 | 2026-06-18 | Geometric Entropy: When Trajectory Diversity Helps and Hurts in Imitation Learning | Qian Luo, Ruizhe Liu, Pei Zhou, Xunzhe Zhou et al. | [Abstract](https://arxiv.org/abs/2606.20871) · [PDF](https://arxiv.org/pdf/2606.20871) | needs-review |

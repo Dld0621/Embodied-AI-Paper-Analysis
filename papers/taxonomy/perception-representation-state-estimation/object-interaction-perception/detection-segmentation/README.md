@@ -1,12 +1,12 @@
 # Detection & Segmentation · 物体检测与分割
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Object%20%26%20Interaction%20Perception&specialty=Detection%20%26%20Segmentation#research-workbench)
 
-> 23 conference papers · 534 recent arXiv papers
+> 23 conference papers · 530 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -48,10 +48,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Demonstrate Once, Imitate Immediately (DOME): Learning Visual Servoing for One-Shot Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2204.02863) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981982) | rule-assigned |
 | 2022 | SESR: Self-Ensembling Sim-to-Real Instance Segmentation for Auto-Store Bin Picking | IROS · Sim To Real | [Paper](https://doi.org/10.1109/IROS47612.2022.9981845) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981845) | rule-assigned |
 
-## Recent arXiv papers (534)
+## Recent arXiv papers (530)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-02 | EmbPASS: Towards Cross-Embodiment Open Panoramic Segmentation | Pujun Guo, Yuanfan Zheng, Fei Teng, Mengfei Duan et al. | [Abstract](https://arxiv.org/abs/2610.03248) · [PDF](https://arxiv.org/pdf/2610.03248) | rule-assigned |
 | 2026-10-01 | Online Planning for Sparse Ground Target Search from a High-Altitude UAV under Partial Observability | Ashik E Rasul, Hyung-Jin Yoon | [Abstract](https://arxiv.org/abs/2610.01067) · [PDF](https://arxiv.org/pdf/2610.01067) | rule-assigned |
 | 2026-10-01 | Lang3DSeg: Annotation-Free Open-Vocabulary 3D Segmentation with Point Transformers | Cigdem Kokenoz, Amir Salarpour, Alkim Domeke, Christopher Salas et al. | [Abstract](https://arxiv.org/abs/2610.00855) · [PDF](https://arxiv.org/pdf/2610.00855) | rule-assigned |
 | 2026-09-29 | When to Adapt: Multi-Signal Domain Shift Detection for Efficient Training-Free Adaptation in Open-Vocabulary Segmentation | Michele Antonazzi, Alejandra C. Hernandez, José Araujo, Olov Andersson et al. | [Abstract](https://arxiv.org/abs/2609.37602) · [PDF](https://arxiv.org/pdf/2609.37602) | rule-assigned |
@@ -581,11 +582,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-14 | MAC: ModAlity Calibration for Object Detection | Yutian Lei, Jun Liu, Dong Huang | [Abstract](https://arxiv.org/abs/2310.09461) · [PDF](https://arxiv.org/pdf/2310.09461) | rule-assigned |
 | 2023-10-09 | Anyview: Generalizable Indoor 3D Object Detection with Variable Frames | Zhenyu Wu, Xiuwei Xu, Ziwei Wang, Chong Xia et al. | [Abstract](https://arxiv.org/abs/2310.05346) · [PDF](https://arxiv.org/pdf/2310.05346) | rule-assigned |
 | 2023-10-08 | Influence of Camera-LiDAR Configuration on 3D Object Detection for Autonomous Driving | Ye Li, Hanjiang Hu, Zuxin Liu, Xiaohao Xu et al. | [Abstract](https://arxiv.org/abs/2310.05245) · [PDF](https://arxiv.org/pdf/2310.05245) | rule-assigned |
-| 2023-10-07 | Unifying Foundation Models with Quadrotor Control for Visual Tracking Beyond Object Categories | Alessandro Saviolo, Pratyaksh Rao, Vivek Radhakrishnan, Jiuhong Xiao et al. | [Abstract](https://arxiv.org/abs/2310.04781) · [PDF](https://arxiv.org/pdf/2310.04781) | rule-assigned |
-| 2023-10-07 | Towards Long-Range 3D Object Detection for Autonomous Vehicles | Ajinkya Khoche, Laura Pereira Sánchez, Nazre Batool, Sina Sharif Mansouri et al. | [Abstract](https://arxiv.org/abs/2310.04800) · [PDF](https://arxiv.org/pdf/2310.04800) | rule-assigned |
-| 2023-10-06 | DiffPrompter: Differentiable Implicit Visual Prompts for Semantic-Segmentation in Adverse Conditions | Sanket Kalwar, Mihir Ungarala, Shruti Jain, Aaron Monis et al. | [Abstract](https://arxiv.org/abs/2310.04181) · [PDF](https://arxiv.org/pdf/2310.04181) | rule-assigned |
-| 2023-10-05 | WLST: Weak Labels Guided Self-training for Weakly-supervised Domain Adaptation on 3D Object Detection | Tsung-Lin Tsou, Tsung-Han Wu, Winston H. Hsu | [Abstract](https://arxiv.org/abs/2310.03821) · [PDF](https://arxiv.org/pdf/2310.03821) | rule-assigned |
-| 2023-10-04 | CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity | Hao Shi, Chengshan Pang, Jiaming Zhang, Kailun Yang et al. | [Abstract](https://arxiv.org/abs/2310.02815) · [PDF](https://arxiv.org/pdf/2310.02815) | rule-assigned |
 
 ---
 

@@ -1,12 +1,12 @@
 # Ropes & Cables · 绳索与线缆
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation&specialty=Ropes%20%26%20Cables#research-workbench)
 
-> 7 conference papers · 12 recent arXiv papers
+> 7 conference papers · 13 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -32,10 +32,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Metal Wire Manipulation Planning for 3D Curving - A Low Payload Robot that Uses a Bending Machine to Bend High-Stiffness Wire | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981672) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981672) | rule-assigned |
 | 2022 | Reactive Motion Planning for Rope Manipulation and Collision Avoidance using Aerial Robots | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981658) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981658) | rule-assigned |
 
-## Recent arXiv papers (12)
+## Recent arXiv papers (13)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | Point It, Strike It: Direction-Conditioned Dynamic Manipulation of Deformable Linear Objects | Yi Yang, Xiang Fei, Lehong Wang, Zilin Dai et al. | [Abstract](https://arxiv.org/abs/2610.09573) · [PDF](https://arxiv.org/pdf/2610.09573) | rule-assigned |
 | 2026-09-20 | RopeFormer: Cross-Trial Adaptation from Interaction History for Dynamic Rope Manipulation | Menglin Wu, Kaixiang Yao, Shangbo Luan, Masayoshi Tomizuka et al. | [Abstract](https://arxiv.org/abs/2609.23432) · [PDF](https://arxiv.org/pdf/2609.23432) | rule-assigned |
 | 2026-06-06 | Cooperative Long Rope Skipping via Multi-Agent Reinforcement Learning | Zihao Wang, Shijie Peng, Kerui Wu, Yu Huang et al. | [Abstract](https://arxiv.org/abs/2606.08064) · [PDF](https://arxiv.org/pdf/2606.08064) | rule-assigned |
 | 2026-06-02 | DyaPlex: Full-Duplex Speech-Motion Model for Dyadic Interaction | Koki Nagano, Hongyu Liu, Seonwook Park, Tianye Li et al. | [Abstract](https://arxiv.org/abs/2606.03874) · [PDF](https://arxiv.org/pdf/2606.03874) | rule-assigned |

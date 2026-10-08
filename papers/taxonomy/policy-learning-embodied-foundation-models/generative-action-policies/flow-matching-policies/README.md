@@ -1,12 +1,12 @@
 # Flow-matching Policies · Flow Matching 策略
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generative%20Action%20Policies&specialty=Flow-matching%20Policies#research-workbench)
 
-> 3 conference papers · 110 recent arXiv papers
+> 3 conference papers · 118 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,18 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data | ICRA · Simulation | [Paper](https://arxiv.org/abs/2510.02738) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697008) | rule-assigned |
 | 2026 | Shifted Flow Policy: Uncertainty-aware Time Reparameterization for Visuomotor Learning | ICRA · Visuomotor | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696791) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696791) | rule-assigned |
 
-## Recent arXiv papers (110)
+## Recent arXiv papers (118)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | RFPO: Rectified Flow Policy Optimization for Embodied Control | Ting Huang, Lisiyu Pan, Haoyu Wang, Zeyu Zhang et al. | [Abstract](https://arxiv.org/abs/2610.10453) · [PDF](https://arxiv.org/pdf/2610.10453) | rule-assigned |
+| 2026-10-07 | Q-Learning with Scalar Adjoint Matching | Yonghoon Dong, Minsung Yoon, Jaehyuk Kim, Jungwoo Park et al. | [Abstract](https://arxiv.org/abs/2610.10437) · [PDF](https://arxiv.org/pdf/2610.10437) | rule-assigned |
+| 2026-10-06 | QF3: Fast Flow RL with Filtered Q-Gradients | Chung Min Kim, Brent Yi, David McAllister, Hongsuk Choi et al. | [Abstract](https://arxiv.org/abs/2610.08789) · [PDF](https://arxiv.org/pdf/2610.08789) | rule-assigned |
+| 2026-10-05 | KineWorld: Action-Induced Transport Fields for Embodied World Modeling | Ziying Song, Yuchen Liu, Zhuoran Xu, Ziyang Liu et al. | [Abstract](https://arxiv.org/abs/2610.06349) · [PDF](https://arxiv.org/pdf/2610.06349) | rule-assigned |
+| 2026-10-05 | Bilinear Flow Policy: Distributional Extrapolation for Goal-Conditioned Visuomotor Imitation | Wonsuhk Jung, Sundhar Vinodh Sangeetha, Chen Xu, Abhishek Gupta et al. | [Abstract](https://arxiv.org/abs/2610.05765) · [PDF](https://arxiv.org/pdf/2610.05765) | rule-assigned |
+| 2026-10-05 | Adaptive Mean Flow for Responsive Closed-Loop Robot Control | Aksel Vaaler, Marco Job, Christian Holden, Olav Egeland | [Abstract](https://arxiv.org/abs/2610.06089) · [PDF](https://arxiv.org/pdf/2610.06089) | rule-assigned |
+| 2026-10-03 | Learning Task and Motion Plans from Real Demonstrations with Hybrid Flow Matching | Zuleika Redondo Garcia, Andreu Matoses Gimenez, Javier Alonso-Mora | [Abstract](https://arxiv.org/abs/2610.04771) · [PDF](https://arxiv.org/pdf/2610.04771) | rule-assigned |
+| 2026-10-02 | Safe Streaming Flow Planning by Aligning Sampling Dynamics with Execution Dynamics | Seunghwan Jang, Jeongyong Yang, Siddharth Ancha, SooJean Han | [Abstract](https://arxiv.org/abs/2610.03132) · [PDF](https://arxiv.org/pdf/2610.03132) | rule-assigned |
 | 2026-10-01 | Kinematic MeanFlow: One-Step Action Generation Policy for Robotic Foundation Models | Jiawei Fan, Sifeng Wang, Yuqing Hou, Anbang Yao | [Abstract](https://arxiv.org/abs/2610.00864) · [PDF](https://arxiv.org/pdf/2610.00864) | rule-assigned |
 | 2026-09-30 | ReWAM: Reciprocal World Action Models for Interactive Autonomous Driving | Benshan Ma, Pei Liu, Ruiguo Zhong, Lang Zhang et al. | [Abstract](https://arxiv.org/abs/2609.39245) · [PDF](https://arxiv.org/pdf/2609.39245) | rule-assigned |
 | 2026-09-30 | Online Evolution Strategy for Flow-Matching VLA Policies via Self-Supervised Trajectory Distribution Optimization | Gongxin Yao, Yongsheng Zhao, Jiayin Deng, Deng Liang et al. | [Abstract](https://arxiv.org/abs/2609.38855) · [PDF](https://arxiv.org/pdf/2609.38855) | rule-assigned |

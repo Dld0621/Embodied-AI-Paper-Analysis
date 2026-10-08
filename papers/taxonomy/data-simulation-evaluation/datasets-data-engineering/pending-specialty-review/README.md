@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engineering&specialty=Pending%20specialty%20review#research-workbench)
 
-> 122 conference papers · 623 recent arXiv papers
+> 122 conference papers · 633 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -147,10 +147,19 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Realistic Real-Time Simulation of RGB and Depth Sensors for Dynamic Scenarios using Augmented Image Based Rendering | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982014) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982014) | needs-review |
 | 2022 | FlyView: a bio-informed optical flow truth dataset for visual navigation using panoramic stereo vision | NeurIPS · Navigation | [Paper](https://doi.org/10.52202/068431-2038) · [Publisher](https://doi.org/10.52202/068431-2038) | needs-review |
 
-## Recent arXiv papers (623)
+## Recent arXiv papers (633)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | SiGNgapore - An Interactive Dataset for Sign-based Visual Navigation | Nicky Zimmerman, Joel Loo, Zishuo Wang, David Hsu | [Abstract](https://arxiv.org/abs/2610.09488) · [PDF](https://arxiv.org/pdf/2610.09488) | needs-review |
+| 2026-10-06 | FlightMagNav: An Open Dataset and Probabilistic Map Learning and Validation Framework for Outdoor Magnetic Field-Based Positioning | Isaac Skog, Miguel Ramos Galrinho, Martin Gelin | [Abstract](https://arxiv.org/abs/2610.08982) · [PDF](https://arxiv.org/pdf/2610.08982) | needs-review |
+| 2026-10-05 | R2RI: A Multi-View Event and RGB Dataset for Robot-to-Robot Interaction | Gabriele Magrini, Riccardo Catalini, Federico Becattini, Guido Borghi et al. | [Abstract](https://arxiv.org/abs/2610.07117) · [PDF](https://arxiv.org/pdf/2610.07117) | needs-review |
+| 2026-10-05 | Mulligan: Performance-Guided Data Collection for Efficient On-Robot Learning | Lars Ankile, Perry Dong, Rohan Bhowmik, Aneesh Muppidi et al. | [Abstract](https://arxiv.org/abs/2610.05882) · [PDF](https://arxiv.org/pdf/2610.05882) | needs-review |
+| 2026-10-05 | Dataset-Free Compliant Humanoid Loco-Manipulation with Dynamic Online Posture | Seungho Yeom, Zhenyu Wu, Jaeyoung Huh, Diego Williams et al. | [Abstract](https://arxiv.org/abs/2610.05678) · [PDF](https://arxiv.org/pdf/2610.05678) | needs-review |
+| 2026-10-05 | AffordCraft: Scalable Construction of Task-Ready Simulation Assets from Single Images | Haoyun Yang, Xueyang Zhou, Ziyi Xie, Yongchao Chen | [Abstract](https://arxiv.org/abs/2610.06643) · [PDF](https://arxiv.org/pdf/2610.06643) | needs-review |
+| 2026-10-05 | AeroBuoy: A Drone Deployable, 3D Printed, Autonomous Robotic Buoy for Environmental Inspection in Remote and Hazardous River Systems | Reuben O'Brien, Angus Lynch, Minas Liarokapis | [Abstract](https://arxiv.org/abs/2610.07390) · [PDF](https://arxiv.org/pdf/2610.07390) | needs-review |
+| 2026-10-04 | VICON: Visual-Inertial-Contact based Hand-Object Tracking for Manipulation Datasets | Yubin Jeon, Uiseong Shin, Hwanchul La, Jaeseong Kang et al. | [Abstract](https://arxiv.org/abs/2610.05180) · [PDF](https://arxiv.org/pdf/2610.05180) | needs-review |
+| 2026-10-01 | Autonomous mobile robot operations logistics: a dataset of jobs, dispatch events and robot states | Jan-Felix Klein, Yongkuk Jeong | [Abstract](https://arxiv.org/abs/2610.02428) · [PDF](https://arxiv.org/pdf/2610.02428) | needs-review |
 | 2026-09-30 | SimEX: Simulation-Integrated Robotics AutoResearch | Jiaheng Hu, Roberto Martin-Martin, Peter Stone, Rocky Duan et al. | [Abstract](https://arxiv.org/abs/2609.38982) · [PDF](https://arxiv.org/pdf/2609.38982) | needs-review |
 | 2026-09-30 | FlapKAD: A Simulation Dataset of Coupled Wing Kinematics and Aerodynamic Dynamics for Flapping-Wing Aerial Vehicles | Haichuan Li | [Abstract](https://arxiv.org/abs/2609.38719) · [PDF](https://arxiv.org/pdf/2609.38719) | needs-review |
 | 2026-09-28 | SynIL: Leveraging Synergy for Offline Imitation Learning from Imperfect Demonstration Datasets | Yuto Tanaka, Kyo Kutsuzawa, Martina Doku, Dai Owaki et al. | [Abstract](https://arxiv.org/abs/2609.38225) · [PDF](https://arxiv.org/pdf/2609.38225) | needs-review |
@@ -250,8 +259,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-10 | SABER: A Scalable Action-Based Embodied Dataset for Real-World VLA Adaptation | Narsimha Menga, Parikshit Sakurikar, Amirreza Rouhi, Satya Sai Reddy et al. | [Abstract](https://arxiv.org/abs/2605.09613) · [PDF](https://arxiv.org/pdf/2605.09613) | needs-review |
 | 2026-05-07 | Leveraging Image Generators to Address Data Scarcity: The Gen4Regen Dataset for Forest Regeneration Mapping | Gabriel Jeanson, David-Alexandre Duclos, William Larrivée-Hardy, Noé Cochet et al. | [Abstract](https://arxiv.org/abs/2605.05627) · [PDF](https://arxiv.org/pdf/2605.05627) | needs-review |
 | 2026-05-07 | Generating Roadside LiDAR Datasets from Vehicle-Side Datasets via Novel View Synthesis | Yuhan Xia, Runxin Zhao, Hanyang Zhuang, Chunxiang Wang et al. | [Abstract](https://arxiv.org/abs/2605.05897) · [PDF](https://arxiv.org/pdf/2605.05897) | needs-review |
-| 2026-05-07 | GA3T: A Ground-Aerial Terrain Traversability Dataset for Heterogeneous Robot Teams in Unstructured Environments | Siwei Cai, Knut Peterson, Quan Tran, Christian Ricks et al. | [Abstract](https://arxiv.org/abs/2605.06478) · [PDF](https://arxiv.org/pdf/2605.06478) | needs-review |
 | 2026-05-07 | Bi3: A Biplatform, Bicultural, Biperson Dataset for Social Robot Navigation | Andrew Stratton, Phani Teja Singamaneni, Pranav Goyal, Rachid Alami et al. | [Abstract](https://arxiv.org/abs/2605.06863) · [PDF](https://arxiv.org/pdf/2605.06863) | needs-review |
+| 2026-05-07 | AGT-CV: An Aerial-Ground Team Cross-View Dataset for Heterogeneous Robot Teams in Unstructured Environments | Siwei Cai, Knut Peterson, Quan Tran, Christian Ricks et al. | [Abstract](https://arxiv.org/abs/2605.06478) · [PDF](https://arxiv.org/pdf/2605.06478) | needs-review |
 | 2026-05-03 | Phone2Act: A Low-Cost, Hardware-Agnostic Teleoperation System for Scalable VLA Data Collection | Om Mandhane, Bipin Yadav, Sangeetha Prasanna Ram, Gopalakrishnan Narayanan | [Abstract](https://arxiv.org/abs/2605.01948) · [PDF](https://arxiv.org/pdf/2605.01948) | needs-review |
 | 2026-05-01 | MiniVLA-Nav v1: A Multi-Scene Simulation Dataset for Language-Conditioned Robot Navigation | Ali Al-Bustami, Jaerock Kwon | [Abstract](https://arxiv.org/abs/2605.00397) · [PDF](https://arxiv.org/pdf/2605.00397) | needs-review |
 | 2026-04-22 | VTouch++: A Multimodal Dataset with Vision-Based Tactile Enhancement for Bimanual Manipulation | Qianxi Hua, Xinyue Li, Zheng Yan, Yang Li et al. | [Abstract](https://arxiv.org/abs/2604.20444) · [PDF](https://arxiv.org/pdf/2604.20444) | needs-review |
@@ -259,6 +268,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-04-20 | COFFAIL: A Dataset of Successful and Anomalous Robot Skill Executions in the Context of Coffee Preparation | Alex Mitrevski, Ayush Salunke | [Abstract](https://arxiv.org/abs/2604.18236) · [PDF](https://arxiv.org/pdf/2604.18236) | needs-review |
 | 2026-04-18 | Leveraging VR Robot Games to Facilitate Data Collection for Embodied Intelligence Tasks | Yihan Zhang, Ziyun Huang, Linqi Ye | [Abstract](https://arxiv.org/abs/2604.16903) · [PDF](https://arxiv.org/pdf/2604.16903) | needs-review |
 | 2026-04-17 | DENALI: A Dataset Enabling Non-Line-of-Sight Spatial Reasoning with Low-Cost LiDARs | Nikhil Behari, Diego Rivero, Luke Apostolides, Suman Ghosh et al. | [Abstract](https://arxiv.org/abs/2604.16201) · [PDF](https://arxiv.org/pdf/2604.16201) | needs-review |
+| 2026-04-16 | HRDexDB: A 4D Dexterous Grasping Dataset Across Human and Multiple Robot Embodiments | Jongbin Lim, Taeyun Ha, Seongho Cha, Kanghyeon Cho et al. | [Abstract](https://arxiv.org/abs/2604.14944) · [PDF](https://arxiv.org/pdf/2604.14944) | needs-review |
 | 2026-04-16 | Foundation Models in Robotics: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Research Directions | Aggelos Psiris, Vasileios Argyriou, Evangelos K. Markakis, Panagiotis Sarigiannidis et al. | [Abstract](https://arxiv.org/abs/2604.15395) · [PDF](https://arxiv.org/pdf/2604.15395) | needs-review |
 | 2026-04-16 | DEX-Mouse: A Low-cost Portable and Universal Interface with Force Feedback for Data Collection of Dexterous Robotic Hands | Joonho Koh, Haechan Jung, Nayoung Kim, Wook Ko et al. | [Abstract](https://arxiv.org/abs/2604.15013) · [PDF](https://arxiv.org/pdf/2604.15013) | needs-review |
 | 2026-04-16 | A multi-platform LiDAR dataset for standardized forest inventory measurement at long term ecological monitoring sites | Michael R. Chang, Anna Candotti, Karl von Ellenrieder, Enrico Tomelleri et al. | [Abstract](https://arxiv.org/abs/2604.14635) · [PDF](https://arxiv.org/pdf/2604.14635) | needs-review |
@@ -345,6 +355,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-11-24 | IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants | Vivek Chavan, Yasmina Imgrund, Tung Dao, Sanwantri Bai et al. | [Abstract](https://arxiv.org/abs/2511.19684) · [PDF](https://arxiv.org/pdf/2511.19684) | needs-review |
 | 2025-11-21 | FORWARD: Dataset of a forwarder operating in rough terrain | Mikael Lundbäck, Erik Wallin, Carola Häggström, Mattias Nyström et al. | [Abstract](https://arxiv.org/abs/2511.17318) · [PDF](https://arxiv.org/pdf/2511.17318) | needs-review |
 | 2025-11-20 | Multi-Agent Coordination in Autonomous Vehicle Routing: A Simulation-Based Study of Communication, Memory, and Routing Loops | KM Khalid Saifullah, Daniel Palmer | [Abstract](https://arxiv.org/abs/2511.17656) · [PDF](https://arxiv.org/pdf/2511.17656) | needs-review |
+| 2025-11-19 | Computational Onboard Data Management for Heterogeneous Autonomous Vehicle Streams | Yuxin Wang, Yuankai He, Damien Kah, Weisong Shi | [Abstract](https://arxiv.org/abs/2511.19453) · [PDF](https://arxiv.org/pdf/2511.19453) | needs-review |
 | 2025-11-18 | Attacking Autonomous Driving Agents with Adversarial Machine Learning: A Holistic Evaluation with the CARLA Leaderboard | Henry Wong, Clement Fung, Weiran Lin, Karen Li et al. | [Abstract](https://arxiv.org/abs/2511.14876) · [PDF](https://arxiv.org/pdf/2511.14876) | needs-review |
 | 2025-11-17 | Towards Affect-Adaptive Human-Robot Interaction: A Protocol for Multimodal Dataset Collection on Social Anxiety | Vesna Poprcova, Iulia Lefter, Matthias Wieser, Martijn Warnier et al. | [Abstract](https://arxiv.org/abs/2511.13530) · [PDF](https://arxiv.org/pdf/2511.13530) | needs-review |
 | 2025-11-16 | RoboAfford++: A Generative AI-Enhanced Dataset for Multimodal Affordance Learning in Robotic Manipulation and Navigation | Xiaoshuai Hao, Yingbo Tang, Lingfeng Zhang, Yanbiao Ma et al. | [Abstract](https://arxiv.org/abs/2511.12436) · [PDF](https://arxiv.org/pdf/2511.12436) | needs-review |
@@ -773,7 +784,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-12 | MUN-FRL: A Visual Inertial LiDAR Dataset for Aerial Autonomous Navigation and Mapping | Ravindu G. Thalagala, Sahan M. Gunawardena, Oscar De Silva, Awantha Jayasiri et al. | [Abstract](https://arxiv.org/abs/2310.08435) · [PDF](https://arxiv.org/pdf/2310.08435) | needs-review |
 | 2023-10-11 | HealthWalk: Promoting Health and Mobility through Sensor-Based Rollator Walker Assistance | Ivanna Kramer, Kevin Weirauch, Sabine Bauer, Mark Oliver Mints et al. | [Abstract](https://arxiv.org/abs/2310.07434) · [PDF](https://arxiv.org/pdf/2310.07434) | needs-review |
 | 2023-10-09 | Care3D: An Active 3D Object Detection Dataset of Real Robotic-Care Environments | Michael G. Adam, Sebastian Eger, Martin Piccolrovazzi, Maged Iskandar et al. | [Abstract](https://arxiv.org/abs/2310.05600) · [PDF](https://arxiv.org/pdf/2310.05600) | needs-review |
-| 2023-10-06 | A Dataset of Anatomical Environments for Medical Robots: Modeling Respiratory Deformation | Inbar Fried, Janine Hoelscher, Jason A. Akulian, Ron Alterovitz | [Abstract](https://arxiv.org/abs/2310.04289) · [PDF](https://arxiv.org/pdf/2310.04289) | needs-review |
 
 ---
 

@@ -1,13 +1,21 @@
-# Retargeting · 201–268
+# Retargeting · 201–276
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Topic index](retargeting.md)
 
 | Paper | Source layer | Primary path | Classification status |
 |---|---|---|---|
+| [DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and Interaction](https://arxiv.org/abs/2505.01083) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Contact & Functional Retargeting | reviewed |
+| [DexForce: Extracting Force-informed Actions from Kinesthetic Demonstrations for Dexterous Manipulation](https://arxiv.org/abs/2501.10356) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Human Demonstrations to Dexterous Skills → Video-to-robot Demonstrations | rule-assigned |
+| [DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation](https://arxiv.org/abs/2505.24853) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Contact & Functional Retargeting | reviewed |
+| [Dexterous Teleoperation of 20-DoF ByteDexter Hand via Human Motion Retargeting](https://arxiv.org/abs/2507.03227) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Kinematic & Pose Retargeting | reviewed |
+| [Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm](https://arxiv.org/abs/2503.07541) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Kinematic & Pose Retargeting | reviewed |
+| [Glovity: Learning Dexterous Contact-Rich Manipulation via Spatial Wrench Feedback Teleoperation System](https://arxiv.org/abs/2510.09229) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Teleoperation & Shared Control → Vision, Gloves & XR Input | rule-assigned |
+| [KineDex: Learning Tactile-Informed Visuomotor Policies via Kinesthetic Teaching for Dexterous Manipulation](https://arxiv.org/abs/2505.01974) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Multifinger Grasping & Control → Multifinger Coordination & Grasp Generation | rule-assigned |
+| [Learning Dexterous In-Hand Manipulation with Multifingered Hands via Visuomotor Diffusion](https://arxiv.org/abs/2503.02587) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → In-hand Manipulation → Object Rotation & Repositioning | rule-assigned |
 | [Open TeleDex: A Hardware-Agnostic Teleoperation System for Imitation Learning based Dexterous Manipulation](https://arxiv.org/abs/2510.14771) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Teleoperation & Shared Control → Vision, Gloves & XR Input | rule-assigned |
 | [SPIDER: Scalable Physics-Informed Dexterous Retargeting](https://arxiv.org/abs/2511.09484) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Physics & Dynamics Retargeting | reviewed |
 | [TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types](https://arxiv.org/abs/2507.01857) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Teleoperation & Shared Control → Vision, Gloves & XR Input | rule-assigned |

@@ -1,7 +1,7 @@
 # Robot Demonstration Datasets · 机器人示教数据集
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engineering&specialty=Robot%20Demonstration%20Datasets#research-workbench)
@@ -43,6 +43,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-01 | NEEDLEWORK: Offline Rewriting of Robot Data with Verified Local Stitches | Juntao Ren, Yifan Hou, Shuran Song | [Abstract](https://arxiv.org/abs/2610.02339) · [PDF](https://arxiv.org/pdf/2610.02339) | rule-assigned |
 | 2026-10-01 | 3DROID: A Renderable 3D Gaussian Dataset with Measured Per-Scene Reliability | Wonguen Cho, Junhoo Lee, Nojun Kwak | [Abstract](https://arxiv.org/abs/2610.01744) · [PDF](https://arxiv.org/pdf/2610.01744) | rule-assigned |
 | 2026-09-29 | FineART: Fine-Grained Annotated Robotic Trajectory Dataset and Vision-Language-Action Model for Bimanual Manipulation | Jade Choghari, Pepijn Kooijmans, Mansi Agarwal, Yusuf Umut Ciftci et al. | [Abstract](https://arxiv.org/abs/2609.36416) · [PDF](https://arxiv.org/pdf/2609.36416) | rule-assigned |
 | 2026-09-21 | What Matters in Designing World Action Models: An Empirical Study | Chao Tang, Haoqing Wang, Zilang Cen, Weishi Mi et al. | [Abstract](https://arxiv.org/abs/2609.24048) · [PDF](https://arxiv.org/pdf/2609.24048) | rule-assigned |
@@ -61,7 +62,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-31 | Position: Good Embodied Reward Models Need Bad Behavior Data | Ran Tian, Yilin Wu, Andrea Bajcsy | [Abstract](https://arxiv.org/abs/2606.01036) · [PDF](https://arxiv.org/pdf/2606.01036) | rule-assigned |
 | 2026-05-29 | Modeling Robotics Dataset Construction as an Artifact-Based Build Process | Leon Pohl, Lukas Beer, George Sebastian, Mirko Maehlisch | [Abstract](https://arxiv.org/abs/2606.00162) · [PDF](https://arxiv.org/pdf/2606.00162) | rule-assigned |
 | 2026-05-18 | EgoTraj: Real-World Egocentric Human Trajectory Dataset for Multimodal Prediction | Ahmad Yehia, Abduallah Mohamed, Tianyi Wang, Jiseop Byeon et al. | [Abstract](https://arxiv.org/abs/2605.19004) · [PDF](https://arxiv.org/pdf/2605.19004) | rule-assigned |
-| 2026-04-16 | HRDexDB: A Paired Human-Robot Dataset for Cross-Embodiment Dexterous Grasping | Jongbin Lim, Taeyun Ha, Mingi Choi, Jisoo Kim et al. | [Abstract](https://arxiv.org/abs/2604.14944) · [PDF](https://arxiv.org/pdf/2604.14944) | rule-assigned |
 | 2026-03-18 | HRI-SA: A Multimodal Dataset for Online Assessment of Human Situational Awareness during Remote Human-Robot Teaming | Hashini Senaratne, Richard Attfield, Samith Widhanapathirana, David Howard et al. | [Abstract](https://arxiv.org/abs/2603.18344) · [PDF](https://arxiv.org/pdf/2603.18344) | rule-assigned |
 | 2026-03-12 | Diversity You Can Actually Measure: A Fast, Model-Free Diversity Metric for Robotics Datasets | Sreevardhan Sirigiri, Nathan Samuel de Lara, Christopher Agia, Florian Shkurti et al. | [Abstract](https://arxiv.org/abs/2603.11634) · [PDF](https://arxiv.org/pdf/2603.11634) | rule-assigned |
 | 2026-03-05 | Introducing the transitional autonomous vehicle lane-changing dataset: Empirical Experiments | Abhinav Sharma, Zijun He, Danjue Chen | [Abstract](https://arxiv.org/abs/2603.05716) · [PDF](https://arxiv.org/pdf/2603.05716) | rule-assigned |

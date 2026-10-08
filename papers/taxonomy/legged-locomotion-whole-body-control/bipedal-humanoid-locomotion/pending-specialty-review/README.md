@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Pending%20specialty%20review#research-workbench)
 
-> 169 conference papers · 499 recent arXiv papers
+> 169 conference papers · 505 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -194,10 +194,17 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Torque-Actuated Multimodal Locomotion of Ferrofluid Robot With Environment and Task Adaptability | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9981041) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981041) | needs-review |
 | 2022 | Rapid locomotion via reinforcement learning | RSS · Locomotion | [Paper](https://arxiv.org/pdf/2205.02824) · [Publisher](https://doi.org/10.1177/02783649231224053) | needs-review |
 
-## Recent arXiv papers (499)
+## Recent arXiv papers (505)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-06 | BiGym 2.0: Benchmarking Learned and Agent-Developed Policies for Humanoid Household Manipulation | Zexi Zhang, Zecheng Zhu, Zidong Chen, Zulkhuu Tuya et al. | [Abstract](https://arxiv.org/abs/2610.07594) · [PDF](https://arxiv.org/pdf/2610.07594) | needs-review |
+| 2026-10-05 | What the Elevation Map Cannot See: Semantic-Aware Locomotion and Execution-Aware Navigation for Humanoid Robot | Shunyu Yao, Songyang Liu, Dinghao Chen, Yuanyuan Lei et al. | [Abstract](https://arxiv.org/abs/2610.07396) · [PDF](https://arxiv.org/pdf/2610.07396) | needs-review |
+| 2026-10-05 | Virtual model control for compliant reaching under uncertainties | Yi Zhang, Daniel Larby, Fumiya Iida, Fulvio Forni | [Abstract](https://arxiv.org/abs/2610.05695) · [PDF](https://arxiv.org/pdf/2610.05695) | needs-review |
+| 2026-10-05 | Talk, Render, Act: Integrating Social Gesture and Digital Face with Synchronized Speech for Conversational Humanoid Robot | Jin Jiang, Kun Li, Jiancong Ma, Shengcai Liao | [Abstract](https://arxiv.org/abs/2610.06153) · [PDF](https://arxiv.org/pdf/2610.06153) | needs-review |
+| 2026-10-04 | CoDance: Learning Reactive and Compliant Human-Humanoid Interaction from Video | Zhuoqun Chen, Shucheng Jia, Boyuan Chen | [Abstract](https://arxiv.org/abs/2610.05324) · [PDF](https://arxiv.org/pdf/2610.05324) | needs-review |
+| 2026-10-03 | Continual Humanoid Motion Learning | Zhewen He, Hao Huang, Geeta Chandra Raju Bethala, Chong Yu et al. | [Abstract](https://arxiv.org/abs/2610.04231) · [PDF](https://arxiv.org/pdf/2610.04231) | needs-review |
+| 2026-10-02 | Terrain-Dependent Intra-Cycle Leg Timing for Effective Locomotion on Granular Slopes | Long Zhao, Xingjue Liao, Feifei Qian | [Abstract](https://arxiv.org/abs/2610.04144) · [PDF](https://arxiv.org/pdf/2610.04144) | needs-review |
 | 2026-10-01 | HumanoidToolBench: Benchmarking Humanoid Tool Use from Selection to Mobile Execution | Kyochul Jang, Seohyeon Park, Ohchul Kwon, Sangjun Park et al. | [Abstract](https://arxiv.org/abs/2610.02089) · [PDF](https://arxiv.org/pdf/2610.02089) | needs-review |
 | 2026-09-30 | Whole-Body Aerial Grasping and Lifting via Partial Visual Observations | Jiaye Jin, Rui Jin, Xinhang Xu, Haotian Jin et al. | [Abstract](https://arxiv.org/abs/2610.00404) · [PDF](https://arxiv.org/pdf/2610.00404) | needs-review |
 | 2026-09-30 | Video2SwimFish: An Automated Pipeline for Reconstructing Controllable Fish Models and Biological Locomotion from Real Fish Videos | Hangong Chen, Linfeng Cheng, Tahsin Zaman Jilan, Ian Fuller et al. | [Abstract](https://arxiv.org/abs/2609.38966) · [PDF](https://arxiv.org/pdf/2609.38966) | needs-review |
@@ -696,7 +703,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-15 | Generalizable whole-body global manipulation of deformable linear objects by dual-arm robot in 3-D constrained environments | Mingrui Yu, Kangchen Lv, Changhao Wang, Yongpeng Jiang et al. | [Abstract](https://arxiv.org/abs/2310.09899) · [PDF](https://arxiv.org/pdf/2310.09899) | needs-review |
 | 2023-10-14 | Current and Future Challenges in Humanoid Robotics -- An Empirical Investigation | Maike Paetzel-Prüsmann, Alessandra Rossi, Merel Keijsers | [Abstract](https://arxiv.org/abs/2310.09626) · [PDF](https://arxiv.org/pdf/2310.09626) | needs-review |
 | 2023-10-11 | Implementation of Fuzzy Control Algorithm in Two-Wheeled Differential Drive Platform | Guoyi Chen | [Abstract](https://arxiv.org/abs/2310.07748) · [PDF](https://arxiv.org/pdf/2310.07748) | needs-review |
-| 2023-10-05 | ${\tt MORALS}$: Analysis of High-Dimensional Robot Controllers via Topological Tools in a Latent Space | Ewerton R. Vieira, Aravind Sivaramakrishnan, Sumanth Tangirala, Edgar Granados et al. | [Abstract](https://arxiv.org/abs/2310.03246) · [PDF](https://arxiv.org/pdf/2310.03246) | needs-review |
 
 ---
 

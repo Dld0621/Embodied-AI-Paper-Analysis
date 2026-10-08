@@ -1,12 +1,12 @@
 # Object-goal & Semantic Navigation · 物体目标与语义导航
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Goal%20%26%20Language%20Navigation&specialty=Object-goal%20%26%20Semantic%20Navigation#research-workbench)
 
-> 27 conference papers · 100 recent arXiv papers
+> 27 conference papers · 103 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -52,10 +52,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Zero-Shot Object Goal Visual Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2206.07423) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161289) | rule-assigned |
 | 2022 | Learning Active Camera for Multi-Object Navigation | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.07505) · [Index](https://dblp.org/rec/conf/nips/ChenJLH0LTG22) | rule-assigned |
 
-## Recent arXiv papers (100)
+## Recent arXiv papers (103)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-05 | MarvisNav: Making Memory Visible on Route Choices for Zero-Shot Object Navigation | Jincheng Wang, Chi Pui Chan, Wei Zeng, Shuyang Zhang et al. | [Abstract](https://arxiv.org/abs/2610.06510) · [PDF](https://arxiv.org/pdf/2610.06510) | rule-assigned |
+| 2026-10-03 | Learning Modular Policy for Multi-Floor Object Navigation:A Factorized Framework for Diagnostic Study | Shichao Zhai, Shuhao Ye, Rong Xiong, Yue Wang | [Abstract](https://arxiv.org/abs/2610.06958) · [PDF](https://arxiv.org/pdf/2610.06958) | rule-assigned |
 | 2026-09-23 | Spatial and Semantic Reasoning for LLM-Driven Robot Navigation via MCP | Jungsoo Lee, Jaegyun Park, Wansoo Kim | [Abstract](https://arxiv.org/abs/2609.27340) · [PDF](https://arxiv.org/pdf/2609.27340) | rule-assigned |
 | 2026-09-23 | NavProbe: Evidence-Grounded Reasoning with Active Memory Retrieval for Zero-Shot Navigation | Jingyang Liu, Sujia Yao, Jiayuan Gu, Lan Xu | [Abstract](https://arxiv.org/abs/2609.27526) · [PDF](https://arxiv.org/pdf/2609.27526) | rule-assigned |
 | 2026-09-23 | CoRelNav: Collaborative Relational Navigation for Multi-Robot Spatially Constrained Semantic Navigation | Jinyu He, Zihao Mao, Haonan Jin, Mengyin Fu et al. | [Abstract](https://arxiv.org/abs/2609.27720) · [PDF](https://arxiv.org/pdf/2609.27720) | rule-assigned |
@@ -85,6 +87,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-19 | Beyond Waypoints: Dual-Heatmap Grounding for Cross-Embodiment Semantic Navigation | Kaijie Yun, Yue Chen | [Abstract](https://arxiv.org/abs/2605.19420) · [PDF](https://arxiv.org/pdf/2605.19420) | rule-assigned |
 | 2026-05-16 | BAT-Nav: Belief-Based Arbitration and Termination via Remaining Discoverability in Multi-Goal Semantic Navigation | Xi Lin, Kangyi Wu, Jiayi Li, Jiaqiao Tang et al. | [Abstract](https://arxiv.org/abs/2605.16932) · [PDF](https://arxiv.org/pdf/2605.16932) | rule-assigned |
 | 2026-05-11 | ConsistNav: Closing the Action Consistency Gap in Zero-Shot Object Navigation with Semantic Executive Control | Haosen Wang, Zhenyang Li, Yinqiang Zhang, Zongqi He et al. | [Abstract](https://arxiv.org/abs/2605.09869) · [PDF](https://arxiv.org/pdf/2605.09869) | rule-assigned |
+| 2026-05-04 | Change-Robust Online Topological Memory for Long-Term Relocalization and Semantic Navigation | Jiaming Wang, Jizhuo Chen, Diwen Liu, Atharva Ghotavadekar et al. | [Abstract](https://arxiv.org/abs/2605.02227) · [PDF](https://arxiv.org/pdf/2605.02227) | rule-assigned |
 | 2026-04-23 | DM$^3$-Nav: Decentralized Multi-Agent Multimodal Multi-Object Semantic Navigation | Amin Kashiri, Atharva Jamsandekar, Yasin Yazıcıoğlu | [Abstract](https://arxiv.org/abs/2604.22014) · [PDF](https://arxiv.org/pdf/2604.22014) | rule-assigned |
 | 2026-03-26 | IntentReact: Guiding Reactive Object-Centric Navigation via Topological Intent | Yanmei Jiao, Anpeng Lu, Wenhan Hu, Rong Xiong et al. | [Abstract](https://arxiv.org/abs/2603.25382) · [PDF](https://arxiv.org/pdf/2603.25382) | rule-assigned |
 | 2026-03-26 | Integrating Deep RL and Bayesian Inference for ObjectNav in Mobile Robotics | João Castelo-Branco, José Santos-Victor, Alexandre Bernardino | [Abstract](https://arxiv.org/abs/2603.25366) · [PDF](https://arxiv.org/pdf/2603.25366) | rule-assigned |

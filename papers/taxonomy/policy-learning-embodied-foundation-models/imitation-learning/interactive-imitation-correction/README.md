@@ -1,12 +1,12 @@
 # Interactive Imitation & Correction · 交互式模仿与纠错
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Imitation%20Learning&specialty=Interactive%20Imitation%20%26%20Correction#research-workbench)
 
-> 2 conference papers · 19 recent arXiv papers
+> 2 conference papers · 20 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,10 +27,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Model-Based Runtime Monitoring with Interactive Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2310.17552) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611038) | rule-assigned |
 | 2022 | Eliciting Compatible Demonstrations for Multi-Human Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2210.08073) · [Index](https://dblp.org/rec/journals/corr/abs-2210-08073) | rule-assigned |
 
-## Recent arXiv papers (19)
+## Recent arXiv papers (20)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-02 | Reward-DAgger: Robot-Gated Interactive Imitation Learning with General-Purpose Progress-Based Reward Models | Ryan Li, Yigit Korkmaz, Erdem Bıyık | [Abstract](https://arxiv.org/abs/2610.04054) · [PDF](https://arxiv.org/pdf/2610.04054) | rule-assigned |
 | 2026-09-29 | BlenDAgger: Blended Shared Control for Interactive Imitation Learning | Cailyn Smith, Geoffrey Sun, Henny Admoni, Zackory Erickson | [Abstract](https://arxiv.org/abs/2609.37599) · [PDF](https://arxiv.org/pdf/2609.37599) | rule-assigned |
 | 2026-09-24 | Policy-Calibrated DAgger: Offline Calibrated Noise Injection for Imitation Learning | Jenny Wang, George Kantor | [Abstract](https://arxiv.org/abs/2609.30462) · [PDF](https://arxiv.org/pdf/2609.30462) | rule-assigned |
 | 2026-09-08 | DISEIL: Demonstration Distillation for Sample-Efficient Imitation Learning | Suyog Khanal, Arun Kumar A, Santu Rana | [Abstract](https://arxiv.org/abs/2609.08123) · [PDF](https://arxiv.org/pdf/2609.08123) | rule-assigned |

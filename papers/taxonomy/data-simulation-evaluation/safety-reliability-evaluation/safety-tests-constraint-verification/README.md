@@ -1,12 +1,12 @@
 # Safety Tests & Constraint Verification · 安全测试与约束验证
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Safety%20%26%20Reliability%20Evaluation&specialty=Safety%20Tests%20%26%20Constraint%20Verification#research-workbench)
 
-> 2 conference papers · 75 recent arXiv papers
+> 2 conference papers · 77 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,10 +27,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | As You Wish: Mission Planning with Formal Verification using LLMs in Precision Agriculture | ICRA · Llm | [Paper](https://arxiv.org/abs/2606.18519) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697380) | rule-assigned |
 | 2024 | Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents | ICRA · Llm | [Paper](https://arxiv.org/abs/2309.09919) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611447) | rule-assigned |
 
-## Recent arXiv papers (75)
+## Recent arXiv papers (77)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-03 | Human Behavior-Informed Crash Scenario Generation with Real-World Crash Priors for Autonomous Vehicle Safety Evaluation | Mingxing Peng, Xusen Guo, Long Chen, Xintao Yan et al. | [Abstract](https://arxiv.org/abs/2610.04366) · [PDF](https://arxiv.org/pdf/2610.04366) | rule-assigned |
+| 2026-10-02 | SceneFactory-3D: Lifting 2D Traffic Scenes into 3D Physical Counterfactuals for Scalable Physically Grounded Safety Evaluation | Yicheng Zhu, Linfeng Tian, Tianmu Zhao, Yang Chen et al. | [Abstract](https://arxiv.org/abs/2610.02874) · [PDF](https://arxiv.org/pdf/2610.02874) | rule-assigned |
 | 2026-09-29 | Adversarially Robust Geometric Safety Certificates for Nonholonomic Robots Against Maneuvering Obstacles | Chandan Kumar Sah, Bazeela Banday, Jishnu Keshavan | [Abstract](https://arxiv.org/abs/2609.37126) · [PDF](https://arxiv.org/pdf/2609.37126) | rule-assigned |
 | 2026-09-28 | Predictive Semantic Safety: From Visual Physical Reasoning to Safety-Critical Control | Taekyung Kim, Salem Fradi, Yanning Dai, Mateusz Ostaszewski et al. | [Abstract](https://arxiv.org/abs/2609.34356) · [PDF](https://arxiv.org/pdf/2609.34356) | rule-assigned |
 | 2026-09-22 | Control Barrier Functions for Safe Free-Flying Robotic Spacecraft Operations in Tumbling Target Capture | Alexander Meinert, Peter Stadler, Niklas Baldauf, Alen Turnwald | [Abstract](https://arxiv.org/abs/2609.25905) · [PDF](https://arxiv.org/pdf/2609.25905) | rule-assigned |

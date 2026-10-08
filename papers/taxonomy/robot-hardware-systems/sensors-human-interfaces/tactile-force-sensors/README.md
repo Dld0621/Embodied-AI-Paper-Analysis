@@ -1,12 +1,12 @@
 # Tactile & Force Sensors · 触觉与力传感器
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Sensors%20%26%20Human%20Interfaces&specialty=Tactile%20%26%20Force%20Sensors#research-workbench)
 
-> 46 conference papers · 61 recent arXiv papers
+> 46 conference papers · 64 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -71,10 +71,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Load-sensitive Data Acquisition for a Tactile Sensor System of Multi-fingered Robotic Hands | ICRA · Multi Finger | [Paper](https://doi.org/10.1109/icra46639.2022.9812260) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812260) | rule-assigned |
 | 2022 | Slip Anticipation for Grasping Deformable Objects Using a Soft Force Sensor | IROS · Grasp | [Paper](https://infoscience.epfl.ch/handle/20.500.14299/192207) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981174) | rule-assigned |
 
-## Recent arXiv papers (61)
+## Recent arXiv papers (64)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | MagCilia: A Compact Magnetociliary Tactile Sensor with 3D Force Sensing for Robotic Contact Perception and Grasping Feedback | Yu Feng, Hao Wu, Haotian Guo, Haoming Liu et al. | [Abstract](https://arxiv.org/abs/2610.09536) · [PDF](https://arxiv.org/pdf/2610.09536) | rule-assigned |
+| 2026-10-01 | SoTa: Soft Tactile Skins for Dexterous Manipulation | Jingyun Yang, Baiyu Shi, Timothy Yu, Haitian Liu et al. | [Abstract](https://arxiv.org/abs/2610.02338) · [PDF](https://arxiv.org/pdf/2610.02338) | reviewed |
 | 2026-09-29 | A robust single-sensing-element tactile sensor for concurrent pressure and tackiness detection with real-time signal decoupling capability | Ying Yang, Mingwei Gu, Jia-Sen Xie, Xingyu Ma et al. | [Abstract](https://arxiv.org/abs/2609.36558) · [PDF](https://arxiv.org/pdf/2609.36558) | rule-assigned |
 | 2026-09-27 | TacGooseBumps (TacGB): Retrofitting Normal-Only Tactile Sensors with Shear Encoding for Learning Contact-Rich Manipulation | Wenjie Li, Binyu Yang, Yuxin Chen, Ambrose Wang et al. | [Abstract](https://arxiv.org/abs/2609.34006) · [PDF](https://arxiv.org/pdf/2609.34006) | rule-assigned |
 | 2026-08-31 | SpectraTac: A Compact Camera-Free Optical Tactile Sensor with Distributed Color Sensing | Hao Wu, Haotian Guo, Yu Feng, Yutong Wang et al. | [Abstract](https://arxiv.org/abs/2608.30368) · [PDF](https://arxiv.org/pdf/2608.30368) | rule-assigned |
@@ -88,6 +90,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-02-03 | A thin and soft optical tactile sensor for highly sensitive object perception | Yanchen Shen, Kohei Tsuji, Haruto Koizumi, Jiseon Hong et al. | [Abstract](https://arxiv.org/abs/2602.03248) · [PDF](https://arxiv.org/pdf/2602.03248) | rule-assigned |
 | 2026-01-04 | VisuoTactile 6D Pose Estimation of an In-Hand Object using Vision and Tactile Sensor Data | Snehal s. Dikhale, Karankumar Patel, Daksh Dhingra, Itoshi Naramura et al. | [Abstract](https://arxiv.org/abs/2601.01675) · [PDF](https://arxiv.org/pdf/2601.01675) | rule-assigned |
 | 2025-12-24 | Stretchable and High-Precision Optical Tactile Sensor for Trajectory Tracking of Parallel Mechanisms | Yiding Nie, Dongliang Fan, Jiatai Huang, Chunyu Liu et al. | [Abstract](https://arxiv.org/abs/2512.20888) · [PDF](https://arxiv.org/pdf/2512.20888) | rule-assigned |
+| 2025-11-11 | A Learning-Free Characterization Framework for the Resilience and Sensitivity of Polyurethane Vision-Based Tactile Sensors | Benjamin Davis, Hannah Stuart | [Abstract](https://arxiv.org/abs/2511.07797) · [PDF](https://arxiv.org/pdf/2511.07797) | rule-assigned |
 | 2025-10-29 | Force Characterization of Insect-Scale Aquatic Propulsion Based on Fluid-Structure Interaction | Conor K. Trygstad, Nestor O. Perez-Arancibia | [Abstract](https://arxiv.org/abs/2510.26837) · [PDF](https://arxiv.org/pdf/2510.26837) | rule-assigned |
 | 2025-10-14 | M3D-skin: Multi-material 3D-printed Tactile Sensor with Hierarchical Infill Structures for Pressure Sensing | Shunnosuke Yoshimura, Kento Kawaharazuka, Kei Okada | [Abstract](https://arxiv.org/abs/2510.12419) · [PDF](https://arxiv.org/pdf/2510.12419) | rule-assigned |
 | 2025-10-07 | Multi-Robot Distributed Optimization for Exploration and Mapping of Unknown Environments using Bioinspired Tactile-Sensor | Roman Ibrahimov, Jannik Matthias Heinen | [Abstract](https://arxiv.org/abs/2510.06085) · [PDF](https://arxiv.org/pdf/2510.06085) | rule-assigned |

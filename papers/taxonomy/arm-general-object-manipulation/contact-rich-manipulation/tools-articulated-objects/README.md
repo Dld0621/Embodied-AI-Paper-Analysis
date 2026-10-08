@@ -1,12 +1,12 @@
 # Tools & Articulated Objects · 工具与关节物体操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Tools%20%26%20Articulated%20Objects#research-workbench)
 
-> 33 conference papers · 117 recent arXiv papers
+> 33 conference papers · 118 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -58,10 +58,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Sim2Real2: Actively Building Explicit Physics Model for Precise Articulated Object Manipulation | ICRA · Sim2Real | [Paper](https://arxiv.org/abs/2302.10693) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160370) | rule-assigned |
 | 2023 | Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusions | NeurIPS · Manipulation | [Paper](https://arxiv.org/pdf/2309.07510) · [Index](https://dblp.org/rec/journals/corr/abs-2309-07510) | rule-assigned |
 
-## Recent arXiv papers (117)
+## Recent arXiv papers (118)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-06 | SMART: Zero-Shot Sim-to-Real Articulated Object Manipulation via Large-Scale Synthetic Pretraining | Jicong Ao, Shuhan Jiang, Yuling Zhong, Yanwen Liu et al. | [Abstract](https://arxiv.org/abs/2610.07652) · [PDF](https://arxiv.org/pdf/2610.07652) | rule-assigned |
 | 2026-09-30 | Spatial Strategies, Not Actions: Vector-Quantized Geodesics as Tools for LLM-Driven Agents | Gabriel Turinici | [Abstract](https://arxiv.org/abs/2610.00613) · [PDF](https://arxiv.org/pdf/2610.00613) | rule-assigned |
 | 2026-09-29 | Learning to Explore Hidden Kinematics for Articulated Object Manipulation | Ruiyao Liu, Boshu Lei, Zhuoyang Pan, Kostas Daniilidis | [Abstract](https://arxiv.org/abs/2609.36553) · [PDF](https://arxiv.org/pdf/2609.36553) | rule-assigned |
 | 2026-09-28 | From Pixel to Poses: Object-centric Tool Manipulation Learning from Human Demonstrations | Bangjun Wang, Longyan Wu, Yukun Wei, Shenghe Shao et al. | [Abstract](https://arxiv.org/abs/2609.35375) · [PDF](https://arxiv.org/pdf/2609.35375) | rule-assigned |

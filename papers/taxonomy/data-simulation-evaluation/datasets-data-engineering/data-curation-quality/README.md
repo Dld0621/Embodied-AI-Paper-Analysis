@@ -1,12 +1,12 @@
 # Data Curation & Quality · 数据清洗、标注与质量评估
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engineering&specialty=Data%20Curation%20%26%20Quality#research-workbench)
 
-> 11 conference papers · 89 recent arXiv papers
+> 11 conference papers · 91 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -36,10 +36,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | On Human Grasping and Manipulation in Kitchens: Automated Annotation, Insights, and Metrics for Effective Data Collection | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161171) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161171) | rule-assigned |
 | 2023 | HANDAL: A Dataset of Real-World Manipulable Object Categories with Pose Annotations, Affordances, and Reconstructions | IROS · Dataset | [Paper](https://arxiv.org/pdf/2308.01477) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341672) | rule-assigned |
 
-## Recent arXiv papers (89)
+## Recent arXiv papers (91)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | MultiFly: A Real-World Multimodal Aerial Dataset with Annotation-Efficient Label Transfer and Cross-Modal Semantic Consistency | Markus Gross, Andreas Greiner, Taehyoung Kim, Sivasubiramaniam Subbiah et al. | [Abstract](https://arxiv.org/abs/2610.10359) · [PDF](https://arxiv.org/pdf/2610.10359) | rule-assigned |
+| 2026-10-07 | Kuration SDK: Addressing the Virtual2Real Gap via Data Curation | Nirmit Desai, Eric Song, Mayank Sengupta, Tejal Bedmutha et al. | [Abstract](https://arxiv.org/abs/2610.09305) · [PDF](https://arxiv.org/pdf/2610.09305) | rule-assigned |
 | 2026-09-29 | doPlan: A Variable-Horizon Dataset for Multi-Stage Language-Conditioned Planning in Autonomous Driving | Parthib Roy, Yash Tandon, Marcus Blennemann, Giovanni Tapia Lopez et al. | [Abstract](https://arxiv.org/abs/2609.38028) · [PDF](https://arxiv.org/pdf/2609.38028) | rule-assigned |
 | 2026-09-26 | PlanGuard: A Guardrail for Multi-Step Plan Safety in Embodied Agents | Junchi Chen, Changtao Miao, Yuxiao Xiang, Zhenchao Jin et al. | [Abstract](https://arxiv.org/abs/2609.32801) · [PDF](https://arxiv.org/pdf/2609.32801) | rule-assigned |
 | 2026-09-23 | Less Language, More Latents: Annotation-Efficient VLAs for Driving | Alexey Zakharov, Kemal Oksuz, Puneet K. Dokania | [Abstract](https://arxiv.org/abs/2609.27747) · [PDF](https://arxiv.org/pdf/2609.27747) | rule-assigned |

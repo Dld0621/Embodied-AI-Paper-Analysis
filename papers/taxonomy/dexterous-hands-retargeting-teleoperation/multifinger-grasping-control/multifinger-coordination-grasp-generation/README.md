@@ -1,12 +1,12 @@
 # Multifinger Coordination & Grasp Generation · 多指协调与抓取生成
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Multifinger%20Grasping%20%26%20Control&specialty=Multifinger%20Coordination%20%26%20Grasp%20Generation#research-workbench)
 
-> 29 conference papers · 70 recent arXiv papers
+> 29 conference papers · 72 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -54,10 +54,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Generalizable Dexterous Manipulation from Human Grasp Affordance | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2204.02320) · [Index](https://dblp.org/rec/conf/corl/WuWW22) | rule-assigned |
 | 2022 | Multi-Finger Grasping Like Humans | IROS · Multi Finger | [Paper](https://inria.hal.science/hal-04323199) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981805) | rule-assigned |
 
-## Recent arXiv papers (70)
+## Recent arXiv papers (72)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | Temporal Visuo-Tactile Learning for Dexterous Grasp Stability | Ken Nakahara, Aleksei Buvailik, Prokhor Kotov, Roberto Calandra | [Abstract](https://arxiv.org/abs/2610.10283) · [PDF](https://arxiv.org/pdf/2610.10283) | rule-assigned |
+| 2026-10-05 | ReDex: Repairing Sim-to-Real Dexterous Policies by Finger-Level Compliant Interaction | Jinzhou Li, Hadi Tabatabaee, Kelin Yu, Yuyin Sun et al. | [Abstract](https://arxiv.org/abs/2610.07525) · [PDF](https://arxiv.org/pdf/2610.07525) | rule-assigned |
 | 2026-09-30 | Function beyond Form: Functional Correspondence for Cross-Embodiment Dexterous Grasp Generation | Bolin Zou, Wenlong Dong, Mu Ai, Chao Tang et al. | [Abstract](https://arxiv.org/abs/2609.39006) · [PDF](https://arxiv.org/pdf/2609.39006) | rule-assigned |
 | 2026-09-27 | FINGR: Learning Dexterous Hand Control for Real-World Rubik's Cube Solving | Yutong Liang, Quanquan Peng, Matthew Kim, Xiaolong Wang | [Abstract](https://arxiv.org/abs/2609.33973) · [PDF](https://arxiv.org/pdf/2609.33973) | rule-assigned |
 | 2026-09-23 | DEAL-Grasp: Decoupled Alignment Representation for Geometry-Aware Dexterous Grasp Generation | Fuqiang Zhao, Qian Liu | [Abstract](https://arxiv.org/abs/2609.28131) · [PDF](https://arxiv.org/pdf/2609.28131) | rule-assigned |

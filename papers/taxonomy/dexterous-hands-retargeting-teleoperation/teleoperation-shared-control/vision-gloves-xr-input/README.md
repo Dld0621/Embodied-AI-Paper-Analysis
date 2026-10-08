@@ -1,12 +1,12 @@
 # Vision, Gloves & XR Input · 视觉／手套／XR 输入
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Control&specialty=Vision%2C%20Gloves%20%26%20XR%20Input#research-workbench)
 
-> 73 conference papers · 307 recent arXiv papers
+> 73 conference papers · 313 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -98,10 +98,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | The Predictive Kinematic Control Tree: Enhancing Teleoperation of Redundant Robots through Probabilistic User Models | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982150) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982150) | rule-assigned |
 | 2022 | Gaze Complements Control Input for Goal Prediction During Assisted Teleoperation | RSS · Teleoperation | [Paper](https://doi.org/10.15607/rss.2022.xviii.025) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.025) | rule-assigned |
 
-## Recent arXiv papers (307)
+## Recent arXiv papers (313)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-06 | Mitigating Concept Drift in QoS Prediction for Teleoperation of Autonomous Vehicles Using Historic Data | Xiyan Su, Jianning Gao, Mahmoud Ashri, Frank Diermeyer | [Abstract](https://arxiv.org/abs/2610.08297) · [PDF](https://arxiv.org/pdf/2610.08297) | rule-assigned |
+| 2026-10-06 | From Wearable Interfaces to Dexterous Policies: Contact Shifts and Tactile Representations | Ruitong Tian, Fang Xu, Noah B. Wilson, Xianyao Li et al. | [Abstract](https://arxiv.org/abs/2610.08870) · [PDF](https://arxiv.org/pdf/2610.08870) | rule-assigned |
+| 2026-10-05 | TeleHairing: A Teleoperation Baseline for Robotic Haircutting | Zhendai Huang, Aleksi Vilkki, Jianan Huang, Bolin Liao et al. | [Abstract](https://arxiv.org/abs/2610.07096) · [PDF](https://arxiv.org/pdf/2610.07096) | rule-assigned |
+| 2026-10-05 | MRPilot: Supervising and Intervening LLM-Based Multi-Robot Teams through Mixed Reality | Xiaoran Yang, Xun Qian, Yang Zhan, Nathan Tran et al. | [Abstract](https://arxiv.org/abs/2610.07477) · [PDF](https://arxiv.org/pdf/2610.07477) | rule-assigned |
+| 2026-10-04 | TacGELLO: Tactile Contact Feedback for a 3D-Printed Teleoperation Leader | Younsoo Kim, Sangmin Song, Sarath Kodagoda, Marc Carmichael et al. | [Abstract](https://arxiv.org/abs/2610.05583) · [PDF](https://arxiv.org/pdf/2610.05583) | rule-assigned |
+| 2026-10-04 | Now You Feel It, Now You See Me: Digital-Twin-based Teleoperation Interface for Dexterous Manipulation | Youngchan Shim, Kyutae Lee, JooYun Kim, Jaeseong Hwang et al. | [Abstract](https://arxiv.org/abs/2610.05081) · [PDF](https://arxiv.org/pdf/2610.05081) | rule-assigned |
 | 2026-09-30 | DITTO-X: Forward and Reverse Teleoperation for Dexterous Manipulation and Human Intervention | Zhanpeng He, Joaquin Palacios, Zhangyu Wang, Chenhao Li et al. | [Abstract](https://arxiv.org/abs/2610.00781) · [PDF](https://arxiv.org/pdf/2610.00781) | rule-assigned |
 | 2026-09-29 | Wrench-ACT: Enhancing Robot Policies for Contact Rich Behavior Using Direct Wrench Control | Johannes Hechtl, Yannik Blei, Simon Ball, Reihaneh Mirjalili et al. | [Abstract](https://arxiv.org/abs/2609.37552) · [PDF](https://arxiv.org/pdf/2609.37552) | rule-assigned |
 | 2026-09-29 | Embodiment-aware control by inference over the operator: a simulation study | Sara Falcone | [Abstract](https://arxiv.org/abs/2609.38437) · [PDF](https://arxiv.org/pdf/2609.38437) | rule-assigned |
@@ -135,7 +141,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-06 | A Master-Slave Robot Manipulator for Needle-Based Teleoperation in MRI Chamber | Omar Curiel, Jing-Yuan Huang, Po-Chih Chen, Ji Ma et al. | [Abstract](https://arxiv.org/abs/2608.06354) · [PDF](https://arxiv.org/pdf/2608.06354) | rule-assigned |
 | 2026-08-01 | ORCESTRA: VLM-driven Visual Robot programming in Mixed Reality | Ivan Snegirev, Elizaveta Semenyakina, Mikhail Konenkov, Artem Lykov et al. | [Abstract](https://arxiv.org/abs/2608.00775) · [PDF](https://arxiv.org/pdf/2608.00775) | rule-assigned |
 | 2026-07-31 | MDIR: A Task-Manifold Impedance Retargeting Method for Contact-Rich Teleoperation | Liu Jiahao, Kento Kawaharazuka, Tasuku Makabe, Kei Okada | [Abstract](https://arxiv.org/abs/2607.29271) · [PDF](https://arxiv.org/pdf/2607.29271) | rule-assigned |
-| 2026-07-21 | ModPack: An Extensible Teleoperation Interface for Bimanual Mobile Manipulation | Joshua Citron, Renee Zbizika, Zeyi Liu, Shuran Song | [Abstract](https://arxiv.org/abs/2607.19479) · [PDF](https://arxiv.org/pdf/2607.19479) | rule-assigned |
+| 2026-07-21 | ModPack: Extensible Teleoperation Interface for Bimanual Mobile Manipulation | Joshua Citron, Renee Zbizika, Zeyi Liu, Shuran Song | [Abstract](https://arxiv.org/abs/2607.19479) · [PDF](https://arxiv.org/pdf/2607.19479) | rule-assigned |
 | 2026-07-20 | Learning to Stack: Cube-Stacking Imitation Learning from Virtual Reality Demonstrations | Gryffin Reizian, Jordan Dowdy, Jean Chagas Vaz | [Abstract](https://arxiv.org/abs/2609.19040) · [PDF](https://arxiv.org/pdf/2609.19040) | rule-assigned |
 | 2026-07-16 | AHEAD: Anticipatory Hand-Driven Teleoperation via Human Intent Prediction | Seok Joon Kim, Junho Lee, Federica Spinola, Taein Kwon et al. | [Abstract](https://arxiv.org/abs/2607.15172) · [PDF](https://arxiv.org/pdf/2607.15172) | rule-assigned |
 | 2026-07-15 | Reverse to Advance: Teleoperation-Cost Effective Hard Policy Learning from Reversed Easy Tasks | Qiyuan Qiao, Ge Yuan, Can Wang, Dong Xu | [Abstract](https://arxiv.org/abs/2607.13455) · [PDF](https://arxiv.org/pdf/2607.13455) | rule-assigned |
@@ -145,7 +151,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-07-10 | A 3DGS-Driven Dynamic Viewpoint and Vibrotactile Framework for Subsea Teleoperation Validated via fNIRS | Fang Xu, Tianyu Zhou, Ruitong Tian, Md Jahidul Islam et al. | [Abstract](https://arxiv.org/abs/2607.13067) · [PDF](https://arxiv.org/pdf/2607.13067) | rule-assigned |
 | 2026-07-03 | Current as Touch: Proprioceptive Contact Feedback for Compliant Dexterous Manipulation | Chenyang Ma, Yunchao Yao, Zhenyu Wei, Ruogu Li et al. | [Abstract](https://arxiv.org/abs/2607.03529) · [PDF](https://arxiv.org/pdf/2607.03529) | rule-assigned |
 | 2026-06-29 | SPINE: Bridging the Cyber-Physical Gap with Agentic AI | Minkyu Ham, Dongho Kim, Chan Lee, Min Jun Kim et al. | [Abstract](https://arxiv.org/abs/2607.13049) · [PDF](https://arxiv.org/pdf/2607.13049) | rule-assigned |
-| 2026-06-21 | EgoSteer: A Full-Stack System Towards Steerable Dexterous Manipulation from Egocentric Videos | Yifan Zhong, Zhang Chen, Tianrui Guan, Fanlian Zeng et al. | [Abstract](https://arxiv.org/abs/2607.09701) · [PDF](https://arxiv.org/pdf/2607.09701) | rule-assigned |
+| 2026-06-21 | EgoSteer: An Open-Source Full-Stack System Towards Steerable Dexterous Manipulation from Egocentric Videos | Yifan Zhong, Zhang Chen, Tianrui Guan, Fanlian Zeng et al. | [Abstract](https://arxiv.org/abs/2607.09701) · [PDF](https://arxiv.org/pdf/2607.09701) | rule-assigned |
 | 2026-06-20 | ACEsplat: Accelerated 3D Gaussian Scene Regression via RGB and Poses Only | Mingkai Liu, Haohua Que, Dikai Fan, Haojia Gao et al. | [Abstract](https://arxiv.org/abs/2606.22091) · [PDF](https://arxiv.org/pdf/2606.22091) | rule-assigned |
 | 2026-06-19 | FleetAgent: Teleoperation Assistant for Autonomous Fleets via Vectorized V2N Messages | Juntong Peng, Qi Chen, Deyuan Qu, Takayuki Shimizu et al. | [Abstract](https://arxiv.org/abs/2606.21222) · [PDF](https://arxiv.org/pdf/2606.21222) | rule-assigned |
 | 2026-06-18 | CoLI: A Reproducible Platform for Continuum Robot Learning via Monolithic 3D Printing and Isomorphic Teleoperation | Ziyuan Tang, Chenxi Xiao | [Abstract](https://arxiv.org/abs/2606.20389) · [PDF](https://arxiv.org/pdf/2606.20389) | rule-assigned |

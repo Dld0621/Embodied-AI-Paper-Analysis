@@ -1,12 +1,32 @@
 from __future__ import annotations
 
 from copy import deepcopy
+import json
 from pathlib import Path
 import sys
 import unittest
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from taxonomy import GENERAL_SPECIALTY, HIERARCHY, OVERRIDES, TRACKS, annotate_paper, classify_hierarchy, taxonomy_metadata
+from taxonomy import GENERAL_SPECIALTY, HIERARCHY, OVERRIDES, TRACKS, annotate_paper, classify_hierarchy, normalize_text, taxonomy_metadata
+
+ROOT = Path(__file__).resolve().parents[1]
+NEW_ARXIV_REVIEW_CASES = {
+    "2610.06331": ("DexForge: High-Fidelity Physics-Informed Dexterous Retargeting",
+                   (TRACKS[2], "Dexterous Hand Retargeting", "Physics & Dynamics Retargeting"),
+                   "A differentiable simulator combines contact-aware kinematic retargeting with force-aware dynamics refinement."),
+    "2610.07681": ("EigenDEXplore: Structured Exploration for Dexterous Manipulation with Human Priors",
+                   (TRACKS[0], "Reinforcement Learning", "Online Reinforcement Learning"),
+                   "Human-derived eigenvectors structure correlated exploration in dexterous reinforcement learning without changing the action representation."),
+    "2610.08425": ("MIM-VLA: Learning Physical Interaction Representations from Gripper Motor Feedback",
+                   (TRACKS[0], "VLA & Generalist Robot Policies", "Vision-Language-Action Modeling"),
+                   "A learned interaction token from existing motor feedback conditions only the gripper-action pathway of SmolVLA."),
+    "2610.02338": ("SoTa: Soft Tactile Skins for Dexterous Manipulation",
+                   (TRACKS[8], "Sensors & Human Interfaces", "Tactile & Force Sensors"),
+                   "A low-cost capacitive tactile skin supplies corresponding taxel layouts on human and robot hands, evaluated in demonstration co-training."),
+    "2610.10528": ("Long-WAM: Scaling the Context of World-Action Models",
+                   (TRACKS[6], "World & Dynamics Modeling", "Action-conditioned Video Prediction"),
+                   "Causal world-action models use autoregressive video pretraining and streaming future-video prediction for real-time control."),
+}
 
 
 def paper(title, abstract="", old_track="Dexterity & Teleoperation"):
@@ -164,6 +184,50 @@ class TaxonomyClassifierTests(unittest.TestCase):
         p = annotate_paper(paper("CDF-Glove: A Cable-Driven Force Feedback Glove for Dexterous Teleoperation"))
         self.assertEqual(p["track"], TRACKS[8])
         self.assertEqual(p["subcategory"], "Sensors & Human Interfaces")
+
+    def test_five_new_arxiv_exceptions_follow_core_contribution_not_background(self):
+        for identifier, (title, path, abstract) in NEW_ARXIV_REVIEW_CASES.items():
+            with self.subTest(identifier=identifier):
+                original = paper(title, abstract)
+                original.update(arxiv_id=identifier, source_type="arxiv", year=2026,
+                                paper_url=f"https://arxiv.org/abs/{identifier}")
+                annotated = annotate_paper(deepcopy(original))
+                self.assertEqual(tuple(annotated[key] for key in ("track", "subcategory", "specialty")), path)
+                self.assertEqual(annotated["classification_status"], "reviewed")
+                self.assertIn("Title/abstract-only", annotated["taxonomy_evidence"])
+                self.assertIn("not full-paper reading", annotated["taxonomy_evidence"])
+                self.assertIn(original["paper_url"], annotated["taxonomy_evidence"])
+                for field in ("arxiv_id", "source_type", "year", "paper_url", "abstract"):
+                    self.assertEqual(annotated[field], original[field])
+                self.assertEqual(annotated, annotate_paper(deepcopy(annotated)))
+
+    def test_new_exceptions_match_exact_titles_not_incidental_method_terms(self):
+        for identifier, (title, _, abstract) in NEW_ARXIV_REVIEW_CASES.items():
+            with self.subTest(identifier=identifier):
+                key = normalize_text(title)
+                self.assertIn(key, OVERRIDES)
+                self.assertIn(f"https://arxiv.org/abs/{identifier}", OVERRIDES[key]["reason"])
+                self.assertNotEqual(annotate_paper(paper("A Review of " + title, abstract))["classification_status"], "reviewed")
+
+    def test_new_exception_titles_hit_only_the_five_declared_arxiv_records(self):
+        keys = {normalize_text(case[0]) for case in NEW_ARXIV_REVIEW_CASES.values()}
+        arxiv = json.loads((ROOT / "data" / "arxiv_recent.json").read_text())
+        matched = [p for p in arxiv["papers"] if normalize_text(p["title"]) in keys]
+        self.assertEqual(len(matched), len(NEW_ARXIV_REVIEW_CASES))
+        self.assertEqual({p["arxiv_id"] for p in matched}, set(NEW_ARXIV_REVIEW_CASES))
+        for p in matched:
+            title, expected_path, _ = NEW_ARXIV_REVIEW_CASES[p["arxiv_id"]]
+            self.assertEqual(p["title"], title)
+            self.assertEqual(p["source_type"], "arxiv")
+            annotated = annotate_paper(deepcopy(p))
+            self.assertEqual(tuple(annotated[key] for key in ("track", "subcategory", "specialty")), expected_path)
+
+    def test_five_new_exceptions_leave_every_conference_annotation_unchanged(self):
+        conference = json.loads((ROOT / "data" / "papers.json").read_text())
+        keys = {normalize_text(case[0]) for case in NEW_ARXIV_REVIEW_CASES.values()}
+        for original in conference["papers"]:
+            self.assertNotIn(normalize_text(original["title"]), keys)
+            self.assertEqual(annotate_paper(deepcopy(original)), original, original["title"])
 
 
 if __name__ == "__main__":

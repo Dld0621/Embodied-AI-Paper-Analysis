@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-10-08",
+  "snapshot_date": "2026-10-08",
+  "source": "Official arXiv API id_list query after the complete harvest",
+  "api": "https://export.arxiv.org/api/query?id_list=2505.08088,2506.04680,2604.07672,2607.23867",
+  "scope": "Title, abstract, category and admission-function checks only; not full-paper review or a change to admission rules.",
+  "records": [
+    {
+      "id": "2505.08088",
+      "paper_url": "https://arxiv.org/abs/2505.08088",
+      "current_title": "Graph-Based Floor Separation Using Node Embeddings and Clustering of WiFi Trajectories",
+      "updated_on": "2026-10-07",
+      "primary_category": "cs.NI",
+      "cs_ro_present": true,
+      "current_admission_result": null,
+      "reason": "The revised abstract no longer supplies a strong admission term; the isolated weak term dataset does not meet the existing rule threshold."
+    },
+    {
+      "id": "2506.04680",
+      "paper_url": "https://arxiv.org/abs/2506.04680",
+      "current_title": "A Three-Stage Offline SDRE-Based Control Framework for Human Motion Reproduction on a Suspended Bipedal Robot",
+      "updated_on": "2026-10-06",
+      "primary_category": "cs.RO",
+      "cs_ro_present": true,
+      "current_admission_result": null,
+      "reason": "The revised abstract contains rehabilitation, which triggers an existing exclusion term despite the robot-related title."
+    },
+    {
+      "id": "2604.07672",
+      "paper_url": "https://arxiv.org/abs/2604.07672",
+      "current_title": "ReBound: Reset-Free Reinforcement Learning for Agile Driving via Reset-Aware Semi-Markov Bootstrapping",
+      "updated_on": "2026-10-06",
+      "primary_category": "cs.RO",
+      "cs_ro_present": true,
+      "current_admission_result": null,
+      "reason": "The title and abstract were revised. Under the existing admission vocabulary, the remaining isolated weak simulation match is insufficient."
+    },
+    {
+      "id": "2607.23867",
+      "paper_url": "https://arxiv.org/abs/2607.23867",
+      "current_title": "BC-NMPC: Battery-Constrained NMPC with Propulsion Prediction and Replanning for High-Speed Flight",
+      "updated_on": "2026-10-05",
+      "primary_category": "cs.RO",
+      "cs_ro_present": true,
+      "current_admission_result": null,
+      "reason": "The revised abstract drops the earlier strong trajectory-planning evidence; the remaining isolated weak simulation match does not meet the existing rule threshold."
+    }
+  ],
+  "limitations": [
+    "These four records remain cs.RO candidates; their absence from the admitted layer is not evidence of withdrawal or failed pagination.",
+    "Keyword admission can reject relevant robot papers after wording changes. The rules were not widened in this refresh.",
+    "The refreshed catalog does not claim that outside-admission records are irrelevant."
+  ]
+}

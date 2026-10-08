@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=World%20%26%20Dynamics%20Modeling&specialty=Pending%20specialty%20review#research-workbench)
 
-> 14 conference papers · 78 recent arXiv papers
+> 14 conference papers · 81 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -39,10 +39,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Multi-View Masked World Models for Visual Robotic Manipulation | ICML · Multi-view world models | [Paper](https://proceedings.mlr.press/v202/seo23a.html) · [Official](https://proceedings.mlr.press/v202/seo23a.html) | needs-review |
 | 2022 | Masked World Models for Visual Control | CoRL · Visual world models | [Paper](https://proceedings.mlr.press/v205/seo23a.html) · [Official](https://proceedings.mlr.press/v205/seo23a.html) | needs-review |
 
-## Recent arXiv papers (78)
+## Recent arXiv papers (81)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-06 | World Models Dream of Success: Diagnosing and Repairing Failure Insensitivity in Robot World Models | Jiuyi Xu, Xiao Hu, Meida Chen, Peng Gao et al. | [Abstract](https://arxiv.org/abs/2610.09134) · [PDF](https://arxiv.org/pdf/2610.09134) | needs-review |
+| 2026-10-04 | Tackling Sim-to-Real Mismatch Through Sampling-Based Disturbance Observers: From Analytical Models to Learned World Models | Tianqi Zhu, Jun Yang, Jianliang Mao, Cong Li et al. | [Abstract](https://arxiv.org/abs/2610.04896) · [PDF](https://arxiv.org/pdf/2610.04896) | needs-review |
+| 2026-10-02 | AVL-JEPA: Preventing Causal Dynamics Information Collapse In Joint Embedding Predictive Architecture World Models | Yikang Qiao, Ling Zhang, Ziying Song, Duan Huang | [Abstract](https://arxiv.org/abs/2610.03587) · [PDF](https://arxiv.org/pdf/2610.03587) | needs-review |
 | 2026-09-28 | From World Models to World Action Models: Rethinking Next-State Prediction | Tingyu Yuan, Ziming Ji, Biaoliang Guan, Wen Ye et al. | [Abstract](https://arxiv.org/abs/2609.34414) · [PDF](https://arxiv.org/pdf/2609.34414) | needs-review |
 | 2026-09-27 | VIDEAS: Distilling Explicit Action Semantics from Demonstration Videos for World Models via Prior-Guided Simulation | Jianan Wang, Haoquan Zhai, Siyang Zhang, Bin Li et al. | [Abstract](https://arxiv.org/abs/2609.33464) · [PDF](https://arxiv.org/pdf/2609.33464) | needs-review |
 | 2026-09-15 | World Models for Embodied Intelligence: From Plausible to Controllable to Actionable | Nanjie Yao, Hao Wang, Chong Cheng, Zhikang Chen et al. | [Abstract](https://arxiv.org/abs/2609.16697) · [PDF](https://arxiv.org/pdf/2609.16697) | needs-review |
@@ -53,7 +56,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-09-02 | Modeling What Changes: Sparse, Residual World Models for Object-Centric Manipulation | Param Thakkar, Parsika Paresh Shah, Manisha Sushant Gote | [Abstract](https://arxiv.org/abs/2609.02046) · [PDF](https://arxiv.org/pdf/2609.02046) | needs-review |
 | 2026-08-29 | AnyWorld: Factorized Egocentric World Models for Cross-Embodiment Generalization | Cheng Chen, Jerry Bai, Jiacheng Wei, Boyu Chen et al. | [Abstract](https://arxiv.org/abs/2608.29242) · [PDF](https://arxiv.org/pdf/2608.29242) | needs-review |
 | 2026-08-26 | Visual Representation and History Modeling for Navigation World Models | Guangfu Guo, Xiaoqian Lu, Rui Liu, Yutong Chen et al. | [Abstract](https://arxiv.org/abs/2609.29555) · [PDF](https://arxiv.org/pdf/2609.29555) | needs-review |
-| 2026-08-26 | ConfAL-WM: Confidence-Guided Active Learning for Action-Conditioned World Models | Xiang Liu, Sen Cui, Changshui Zhang | [Abstract](https://arxiv.org/abs/2608.25572) · [PDF](https://arxiv.org/pdf/2608.25572) | needs-review |
+| 2026-08-26 | ConfAL-WM: Confidence-Guided Active Learning for Action-Conditioned World Models | Xiang Liu, Kunwei Wu, Miao Liu, Sen Cui et al. | [Abstract](https://arxiv.org/abs/2608.25572) · [PDF](https://arxiv.org/pdf/2608.25572) | needs-review |
 | 2026-08-25 | Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning | Sixiang Chen, Jiaming Liu, Jixian Wu, Yichen Guo et al. | [Abstract](https://arxiv.org/abs/2608.24885) · [PDF](https://arxiv.org/pdf/2608.24885) | needs-review |
 | 2026-08-19 | DA-WAM: Decision-Aligned Future Latents for Driving World Models | Ruiguo Zhong, Benshan Ma, Xiaolong Chen, Lang Zhang et al. | [Abstract](https://arxiv.org/abs/2608.19085) · [PDF](https://arxiv.org/pdf/2608.19085) | needs-review |
 | 2026-08-13 | H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models | Dingyi Rong, Yue Shi, Chaofan Ma, Jiezhang Cao et al. | [Abstract](https://arxiv.org/abs/2608.13049) · [PDF](https://arxiv.org/pdf/2608.13049) | needs-review |

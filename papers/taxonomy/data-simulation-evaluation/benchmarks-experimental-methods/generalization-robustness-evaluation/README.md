@@ -1,12 +1,12 @@
 # Generalization & Robustness Evaluation · 泛化与鲁棒性评测
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Experimental%20Methods&specialty=Generalization%20%26%20Robustness%20Evaluation#research-workbench)
 
-> 0 conference papers · 6 recent arXiv papers
+> 0 conference papers · 7 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (6)
+## Recent arXiv papers (7)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-09-19 | Geometric Coherence via Weighted Matching for 3D Heterogeneous Multi-Agent Reach-Avoid Games | Prajwal Vijay | [Abstract](https://arxiv.org/abs/2610.06882) · [PDF](https://arxiv.org/pdf/2610.06882) | rule-assigned |
 | 2026-08-18 | ControlledShifts: Towards Standardizing Robustness Evaluation in Trajectory Prediction Under Distribution Shifts | Ingrid Navarro, Pablo Ortega-Kral, Yutong Duan, Jonathan Francis et al. | [Abstract](https://arxiv.org/abs/2608.17882) · [PDF](https://arxiv.org/pdf/2608.17882) | rule-assigned |
 | 2026-06-17 | FlexLAM: Resolving the Bottleneck Trade-off in Latent Action Learning | Takanori Yoshimoto, Yang Hu, Naruya Kondo, Tatsuya Matsushima | [Abstract](https://arxiv.org/abs/2606.19408) · [PDF](https://arxiv.org/pdf/2606.19408) | rule-assigned |
 | 2026-05-04 | Orchestrating Spatial Semantics via a Zone-Graph Paradigm for Intricate Indoor Scene Generation | Meisheng Zhang, Shizhao Sun, Yang Zhao, Ziyuan Liu et al. | [Abstract](https://arxiv.org/abs/2605.02537) · [PDF](https://arxiv.org/pdf/2605.02537) | rule-assigned |

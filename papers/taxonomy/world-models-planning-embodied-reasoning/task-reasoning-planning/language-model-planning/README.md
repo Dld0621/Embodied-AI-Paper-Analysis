@@ -1,12 +1,12 @@
 # Language-model Planning · 语言模型辅助规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Task%20Reasoning%20%26%20Planning&specialty=Language-model%20Planning#research-workbench)
 
-> 4 conference papers · 39 recent arXiv papers
+> 4 conference papers · 40 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,10 +29,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation | IROS · Foundation Model | [Paper](https://arxiv.org/abs/2503.01700) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247174) | rule-assigned |
 | 2024 | Trust the PRoC3S: Solving Long-Horizon Robotics Problems with LLMs and Constraint Satisfaction | CoRL · Llm | [Paper](https://arxiv.org/abs/2406.05572) · [Index](https://dblp.org/rec/journals/corr/abs-2406-05572) | rule-assigned |
 
-## Recent arXiv papers (39)
+## Recent arXiv papers (40)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | Adaptive Code Generation for Controlling Robots | Justus Flerlage, Thorsten Wittkopp, Alexander Acker, Odej Kao | [Abstract](https://arxiv.org/abs/2610.09588) · [PDF](https://arxiv.org/pdf/2610.09588) | rule-assigned |
 | 2026-09-23 | RegenHarness: A Robot Agent Harness with Evidence-Gated Recursive Self-Improvement | Kailin Wang, Haoxiang Jie, Yaoyuan Yan, Zhiyou Heng et al. | [Abstract](https://arxiv.org/abs/2609.27612) · [PDF](https://arxiv.org/pdf/2609.27612) | rule-assigned |
 | 2026-08-20 | World-Model-Grounded LLM Planning for AUV and ASV Navigation Near Offshore Wind Farms | Markus Buchholz, Ignacio Carlucho, Yvan R. Petillot | [Abstract](https://arxiv.org/abs/2608.19661) · [PDF](https://arxiv.org/pdf/2608.19661) | rule-assigned |
 | 2026-08-13 | Retrieval-grounded robot program generation and simulation-based correction via Model Context Protocol | Zhichao Zhou, Siyuan Chen, Omkar Salunkhe, Ebru Turanoglu Bekar et al. | [Abstract](https://arxiv.org/abs/2608.21417) · [PDF](https://arxiv.org/pdf/2608.21417) | rule-assigned |

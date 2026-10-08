@@ -1,12 +1,12 @@
 # Insertion & Assembly · 插入与装配
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Insertion%20%26%20Assembly#research-workbench)
 
-> 125 conference papers · 348 recent arXiv papers
+> 125 conference papers · 359 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -150,10 +150,21 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Tactile-Sensitive NewtonianVAE for High-Accuracy Industrial Connector Insertion | IROS · Tactile | [Paper](https://arxiv.org/pdf/2203.05955) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981610) | rule-assigned |
 | 2022 | Factory: Fast Contact for Robotic Assembly | RSS · Assembly | [Paper](https://arxiv.org/abs/2205.03532) · [Index](https://dblp.org/rec/journals/corr/abs-2205-03532) | rule-assigned |
 
-## Recent arXiv papers (348)
+## Recent arXiv papers (359)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | On-Demand Robotic Assembly via Differentiable Geometric Part Repair | Millicent Schlafly, Fabio Schaub, Diogo Costa Pais, Luca Lelli et al. | [Abstract](https://arxiv.org/abs/2610.09777) · [PDF](https://arxiv.org/pdf/2610.09777) | rule-assigned |
+| 2026-10-07 | MCFR: A Mask-Guided Coarse-to-Fine Regression Framework for Robust Multi-Variant Board-to-Board Connector Assembly | Guanghui Shen, Song Wang, Dan Wu | [Abstract](https://arxiv.org/abs/2610.09327) · [PDF](https://arxiv.org/pdf/2610.09327) | rule-assigned |
+| 2026-10-07 | End-to-End Autonomous Generation of Human Assembly Plans | Faustin Arion von Arx, Millicent Schlafly, Mark D. Fuge | [Abstract](https://arxiv.org/abs/2610.09781) · [PDF](https://arxiv.org/pdf/2610.09781) | rule-assigned |
+| 2026-10-06 | TacZero: Training-Free Peg Insertion Using a General-Purpose Vision-Language Model with Tactile Feedback | Kazutoshi Tanaka | [Abstract](https://arxiv.org/abs/2610.07621) · [PDF](https://arxiv.org/pdf/2610.07621) | rule-assigned |
+| 2026-10-06 | Seeing Through the Displaced Frame: Privileged Noise Distillation for Vision-Force Precision Assembly | Ching-Hsiang Chang, Tzu-Yu Chuang, Yi-Hsiu Lee, Yi-Ting Chen et al. | [Abstract](https://arxiv.org/abs/2610.07745) · [PDF](https://arxiv.org/pdf/2610.07745) | rule-assigned |
+| 2026-10-06 | Post-Grasp Kinematic Repair for Robotic Insertion via Object-in-Gripper Reorientation | Haegu Lee, Christoffer Sloth | [Abstract](https://arxiv.org/abs/2610.08421) · [PDF](https://arxiv.org/pdf/2610.08421) | rule-assigned |
+| 2026-10-06 | Belief-Informed Hybrid Control with Almost-Sure Target-Set Convergence | Clinton Enwerem, Saleh Kemal, John S. Baras, Calin Belta | [Abstract](https://arxiv.org/abs/2610.07674) · [PDF](https://arxiv.org/pdf/2610.07674) | rule-assigned |
+| 2026-10-03 | Robot Learning with Visual Predicted Force | Haonan Chen, Feiyang Wu, Yuxiang Ma, Mustafa Mete et al. | [Abstract](https://arxiv.org/abs/2610.04741) · [PDF](https://arxiv.org/pdf/2610.04741) | rule-assigned |
+| 2026-10-03 | Leveraging Cost-effective Robotics for K-12 STEM Education through Water Quality Monitoring Tasks | Rishi Mukherjee, Andrew Ruiz, Travis Henderson, Resha Tejpaul et al. | [Abstract](https://arxiv.org/abs/2610.04565) · [PDF](https://arxiv.org/pdf/2610.04565) | rule-assigned |
+| 2026-10-02 | Learning Reflexive Behavior for Contact-Rich Manipulation | Quan Nguyen, Yunho Kim, Joonho Lee | [Abstract](https://arxiv.org/abs/2610.02811) · [PDF](https://arxiv.org/pdf/2610.02811) | rule-assigned |
+| 2026-10-02 | A Passive AI System for Verifying Physical State on Automated Liquid Handlers | Junqiong Joanne Qiu, Zeckria Kamrany, Ananya Anand, Emma Vidal et al. | [Abstract](https://arxiv.org/abs/2610.02668) · [PDF](https://arxiv.org/pdf/2610.02668) | rule-assigned |
 | 2026-10-01 | Screw Attention: Rigid-Body Algebra Inside a Transformer | Aly Magassouba | [Abstract](https://arxiv.org/abs/2610.00904) · [PDF](https://arxiv.org/pdf/2610.00904) | rule-assigned |
 | 2026-09-30 | ScaffoldM3C: A Multimodal Sequential Monte Carlo Framework for Generative Stable Construction Planning | Gadiel Sznaier Camps, Chengyang He, Guillaume Sartoretti, Eduardo Montijano et al. | [Abstract](https://arxiv.org/abs/2610.00487) · [PDF](https://arxiv.org/pdf/2610.00487) | rule-assigned |
 | 2026-09-30 | AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents | Jiahao Zhang, Yeying Fan, Moitreya Chatterjee, Suhas Lohit et al. | [Abstract](https://arxiv.org/abs/2609.40353) · [PDF](https://arxiv.org/pdf/2609.40353) | rule-assigned |
@@ -282,7 +293,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-02-17 | Autonomous Block Assembly for Boom Cranes with Passive Joint Dynamics: Integrated Vision MPC Control | Gerald Ebmer, Minh Nhat Vu, Tobias Glück, Wolfgang Kemmetmüller | [Abstract](https://arxiv.org/abs/2603.00103) · [PDF](https://arxiv.org/pdf/2603.00103) | rule-assigned |
 | 2026-02-16 | Simulation-based Learning of Electrical Cabinet Assembly Using Robot Skills | Arik Laemmle, Balázs András Bálint, Philipp Tenbrock, Frank Naegele et al. | [Abstract](https://arxiv.org/abs/2602.14561) · [PDF](https://arxiv.org/pdf/2602.14561) | rule-assigned |
 | 2026-02-16 | A Soft Wrist with Anisotropic and Selectable Stiffness for Robust Robot Learning in Contact-rich Manipulation | Steven Oh, Tomoya Takahashi, Cristian C. Beltran-Hernandez, Yuki Kuroda et al. | [Abstract](https://arxiv.org/abs/2602.14434) · [PDF](https://arxiv.org/pdf/2602.14434) | rule-assigned |
-| 2026-02-15 | Direction Matters: Learning Force Direction Enables Sim-to-Real Contact-Rich Manipulation | Yifei Yang, Anzhe Chen, Zhenjie Zhu, Kechun Xu et al. | [Abstract](https://arxiv.org/abs/2602.14174) · [PDF](https://arxiv.org/pdf/2602.14174) | rule-assigned |
+| 2026-02-15 | TDC: Sim-to-Real Transferable Directional Compliance for Contact-Rich Manipulation | Yifei Yang, Anzhe Chen, Zhenjie Zhu, Kechun Xu et al. | [Abstract](https://arxiv.org/abs/2602.14174) · [PDF](https://arxiv.org/pdf/2602.14174) | rule-assigned |
 | 2026-02-14 | Symmetry-Aware Fusion of Vision and Tactile Sensing via Bilateral Force Priors for Robotic Manipulation | Wonju Lee, Matteo Grimaldi, Tao Yu | [Abstract](https://arxiv.org/abs/2602.13689) · [PDF](https://arxiv.org/pdf/2602.13689) | rule-assigned |
 | 2026-02-09 | Aerial Manipulation with Contact-Aware Onboard Perception and Hybrid Control | Yuanzhu Zhan, Yufei Jiang, Muqing Cao, Junyi Geng | [Abstract](https://arxiv.org/abs/2602.08251) · [PDF](https://arxiv.org/pdf/2602.08251) | rule-assigned |
 | 2026-02-02 | A Unified Control Architecture for Macro-Micro Manipulation using a Active Remote Center of Compliance for Manufacturing Applications | Patrick Frank, Christian Friedrich | [Abstract](https://arxiv.org/abs/2602.01948) · [PDF](https://arxiv.org/pdf/2602.01948) | rule-assigned |

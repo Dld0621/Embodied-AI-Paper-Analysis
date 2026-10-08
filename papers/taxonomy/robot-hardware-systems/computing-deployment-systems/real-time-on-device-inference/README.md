@@ -1,12 +1,12 @@
 # Real-time & On-device Inference · 实时与端侧推理
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Computing%20%26%20Deployment%20Systems&specialty=Real-time%20%26%20On-device%20Inference#research-workbench)
 
-> 3 conference papers · 55 recent arXiv papers
+> 3 conference papers · 56 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | On-Device Diffusion Transformer Policy for Efficient Robot Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/pdf/2508.00697) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01306) | rule-assigned |
 | 2025 | Falcon: Fast Visuomotor Policies via Partial Denoising | ICML · Visuomotor | [Paper](https://arxiv.org/abs/2503.00339) · [Index](https://dblp.org/rec/journals/corr/abs-2503-00339) | rule-assigned |
 
-## Recent arXiv papers (55)
+## Recent arXiv papers (56)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | Not All Uncertainty Matters: Simulation-in-the-Loop Fast-Slow Reasoning for Decision-Critical Autonomous Driving System | Jiayi Chen, Shuai Wang, Guangxu Zhu, Derrick Wing Kwan Ng et al. | [Abstract](https://arxiv.org/abs/2610.09520) · [PDF](https://arxiv.org/pdf/2610.09520) | rule-assigned |
+| 2026-10-06 | Micro Neural Policies for Safe Real-Time Robotic Control | Hongpeng Cao, Riccardo Curcio, Daniele Ottaviano, Marco Caccamo | [Abstract](https://arxiv.org/abs/2610.08541) · [PDF](https://arxiv.org/pdf/2610.08541) | rule-assigned |
 | 2026-09-30 | DrivingBench: Can Vision-Language Models Drive a Toyota Corolla? | Aditya Ramabadran, Simon Mahns, Tobias Gessler | [Abstract](https://arxiv.org/abs/2609.38948) · [PDF](https://arxiv.org/pdf/2609.38948) | rule-assigned |
 | 2026-09-22 | Pro-Bench: Prompt-Robust Open-Vocabulary Visual Grounding Across Real-World Heterogeneous Environments | Linus Nwankwo, Muslim Alaran, Christian Rauch, Stanley Chukwuebuka Obilikpa et al. | [Abstract](https://arxiv.org/abs/2609.27076) · [PDF](https://arxiv.org/pdf/2609.27076) | rule-assigned |
 | 2026-09-14 | DIDO: Distilling Interaction-Centric Dynamics into One-Step Denoising for World Action Models | Jing Lyu, Shuanghao Bai, Runze Xiao, Zhenyu Liao et al. | [Abstract](https://arxiv.org/abs/2609.15570) · [PDF](https://arxiv.org/pdf/2609.15570) | rule-assigned |
@@ -47,7 +49,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-03 | Flash-WAM: Modality-Aware Distillation for World Action Models | Arman Akbari, Ci Zhang, Arash Akbari, Lin Zhao et al. | [Abstract](https://arxiv.org/abs/2606.05254) · [PDF](https://arxiv.org/pdf/2606.05254) | rule-assigned |
 | 2026-05-29 | On-Device Robotic Planning: Eliminating Inference Redundancy for Efficient Decision-Making | Joonhee Lee, Hyunseung Shin, Hyunmi Kim, Pei Zhang et al. | [Abstract](https://arxiv.org/abs/2605.31460) · [PDF](https://arxiv.org/pdf/2605.31460) | rule-assigned |
 | 2026-05-28 | MARS Policy: Multimodality Only When It Matters | Jindou Jia, Tuo An, Yuxuan Hu, Gen Li et al. | [Abstract](https://arxiv.org/abs/2605.29766) · [PDF](https://arxiv.org/pdf/2605.29766) | rule-assigned |
-| 2026-05-24 | Dynamic Neural Koopman Distillation for Real-Time Robot Control Using Diffusion Models | Lei Zheng, Peiqi Yu, Zengqi Peng, Changliu Liu et al. | [Abstract](https://arxiv.org/abs/2605.24924) · [PDF](https://arxiv.org/pdf/2605.24924) | rule-assigned |
 | 2026-03-17 | S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight | Haodong Yan, Zhide Zhong, Jiaguan Zhu, Junjie He et al. | [Abstract](https://arxiv.org/abs/2603.16195) · [PDF](https://arxiv.org/pdf/2603.16195) | rule-assigned |
 | 2026-03-16 | Scale-Gest: Scalable Model-Space Synthesis and Runtime Selection for On-Device Gesture Detection | Abdul Basit, Saim Rehman, Muhammad Shafique | [Abstract](https://arxiv.org/abs/2605.12506) · [PDF](https://arxiv.org/pdf/2605.12506) | rule-assigned |
 | 2026-03-16 | S2Act: Simple Spiking Actor | Ugur Akcal, Seung Hyun Kim, Mikihisa Yuasa, Hamid Osooli et al. | [Abstract](https://arxiv.org/abs/2603.15725) · [PDF](https://arxiv.org/pdf/2603.15725) | rule-assigned |

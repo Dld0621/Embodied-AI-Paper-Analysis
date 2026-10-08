@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Sensors%20%26%20Human%20Interfaces&specialty=Pending%20specialty%20review#research-workbench)
 
-> 8 conference papers · 44 recent arXiv papers
+> 8 conference papers · 46 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,10 +33,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | A Force-Sensitive Exoskeleton for Teleoperation: An Application in Elderly Care Robotics | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161175) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161175) | needs-review |
 | 2022 | Reactive Stepping for Humanoid Robots using Reinforcement Learning: Application to Standing Push Recovery on the Exoskeleton Atalante | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2203.01148) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982234) | needs-review |
 
-## Recent arXiv papers (44)
+## Recent arXiv papers (46)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-06 | ExoBridge: Learning a Bare Hand to Hand-Worn Exoskeleton Mapping through Human Limb Coupling | Ruitong Tian, Xianyao Li, Noah B. Wilson, Fang Xu et al. | [Abstract](https://arxiv.org/abs/2610.07692) · [PDF](https://arxiv.org/pdf/2610.07692) | needs-review |
+| 2026-10-02 | Subject-Specific Predictive Musculoskeletal Simulations of Lower-Limb Exoskeleton Assistance: Metabolic and Biomechanical Effects of Joint Assistance Strategies | Neethan Ratnakumar, Mariya Tohfafarosh, Xianlian Zhou | [Abstract](https://arxiv.org/abs/2610.02991) · [PDF](https://arxiv.org/pdf/2610.02991) | needs-review |
 | 2026-09-23 | Learning a Speed-adaptive Hip Exoskeleton Control Policy Via Sim-to-real Reinforcement Learning | Bin Li, Zhimin Hou, Jiacheng Hou, Zenian Liang et al. | [Abstract](https://arxiv.org/abs/2609.28027) · [PDF](https://arxiv.org/pdf/2609.28027) | needs-review |
 | 2026-09-21 | Effects of Assistance Delay on Joint Mechanics and Energetics in Biological Torque Control of a Hip Exoskeleton | Jimin An, Ryan Lee, Jingshu Peng, Eni Halilaj et al. | [Abstract](https://arxiv.org/abs/2609.25417) · [PDF](https://arxiv.org/pdf/2609.25417) | needs-review |
 | 2026-09-17 | UniExo: Unified Multi-Skill Policies for Musculoskeletal Locomotion and Co-Adaptive Exoskeleton Control | Yifei Yuan, Jakob Wolf, Ghaith Androwis, Xianlian Zhou | [Abstract](https://arxiv.org/abs/2609.19690) · [PDF](https://arxiv.org/pdf/2609.19690) | needs-review |

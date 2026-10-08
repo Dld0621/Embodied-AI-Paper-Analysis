@@ -1,12 +1,12 @@
 # Fall Prevention & Recovery · 跌倒预防与恢复
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Coordination%20%26%20Balance&specialty=Fall%20Prevention%20%26%20Recovery#research-workbench)
 
-> 7 conference papers · 30 recent arXiv papers
+> 7 conference papers · 31 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -32,10 +32,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Efficient, Dynamic Locomotion through Step Placement with Straight Legs and Rolling Contacts | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2310.13134) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611056) | rule-assigned |
 | 2024 | HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2309.14225) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610449) | rule-assigned |
 
-## Recent arXiv papers (30)
+## Recent arXiv papers (31)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-02 | KungfuAthleteBot: learning high-dynamic humanoid motion from video with unified robust recovery | Zhongxiang Lei, Lulu Cao, Xuyang Wang, Tianyi Qian et al. | [Abstract](https://arxiv.org/abs/2610.03388) · [PDF](https://arxiv.org/pdf/2610.03388) | rule-assigned |
 | 2026-09-30 | Locomotion-Grounded Humanoid Soccer: Task-Gated Reinforcement Learning of a Multi-Directional Kicking Library | Abu Hanif Muhammad Syarubany, Jaehyun Jang, Hwanhee Kim, Kyuwon Kim et al. | [Abstract](https://arxiv.org/abs/2609.38852) · [PDF](https://arxiv.org/pdf/2609.38852) | rule-assigned |
 | 2026-09-15 | Fingers as Legs: Learning Self-Supported Locomotion and Manipulation with an Anthropomorphic Hand | Amirhossein Kazemipour, Hehui Zheng, Robert Katzschmann | [Abstract](https://arxiv.org/abs/2609.17172) · [PDF](https://arxiv.org/pdf/2609.17172) | rule-assigned |
 | 2026-07-31 | Developing Combined Manipulation and Locomotion Skills with Interaction Representation and Skill Composition | Fanxing Meng, Jing Xiao | [Abstract](https://arxiv.org/abs/2608.00208) · [PDF](https://arxiv.org/pdf/2608.00208) | rule-assigned |

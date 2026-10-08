@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题 · arXiv 2023
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 78 papers · complete list for this taxonomy leaf
+> 73 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -83,8 +83,3 @@
 | 2023-10-10 | EARL: Eye-on-Hand Reinforcement Learner for Dynamic Grasping with Active Pose Estimation | Baichuan Huang, Jingjin Yu, Siddarth Jain | [Abstract](https://arxiv.org/abs/2310.06751) · [PDF](https://arxiv.org/pdf/2310.06751) | needs-review |
 | 2023-10-09 | On Multi-Fidelity Impedance Tuning for Human-Robot Cooperative Manipulation | Ethan Lau, Vaibhav Srivastava, Shaunak D. Bopardikar | [Abstract](https://arxiv.org/abs/2310.05904) · [PDF](https://arxiv.org/pdf/2310.05904) | needs-review |
 | 2023-10-08 | Lan-grasp: Using Large Language Models for Semantic Object Grasping and Placement | Reihaneh Mirjalili, Michael Krawez, Yannik Blei, Simone Silenzi et al. | [Abstract](https://arxiv.org/abs/2310.05239) · [PDF](https://arxiv.org/pdf/2310.05239) | needs-review |
-| 2023-10-07 | Diff-Transfer: Model-based Robotic Manipulation Skill Transfer via Differentiable Physics Simulation | Yuqi Xiang, Feitong Chen, Qinsi Wang, Yang Gang et al. | [Abstract](https://arxiv.org/abs/2310.04930) · [PDF](https://arxiv.org/pdf/2310.04930) | needs-review |
-| 2023-10-06 | Compositional Servoing by Recombining Demonstrations | Max Argus, Abhijeet Nayak, Martin Büchner, Silvio Galesso et al. | [Abstract](https://arxiv.org/abs/2310.04271) · [PDF](https://arxiv.org/pdf/2310.04271) | needs-review |
-| 2023-10-05 | Interpreting Behaviors and Geometric Constraints as Knowledge Graphs for Robot Manipulation Control | Chen Jiang, Allie Wang, Martin Jagersand | [Abstract](https://arxiv.org/abs/2310.03932) · [PDF](https://arxiv.org/pdf/2310.03932) | needs-review |
-| 2023-10-05 | A Suspended Aerial Manipulation Avatar for Physical Interaction in Unstructured Environments | Fanyi Kong, Grazia Zambella, Simone Monteleone, Giorgio Grioli et al. | [Abstract](https://arxiv.org/abs/2310.03586) · [PDF](https://arxiv.org/pdf/2310.03586) | needs-review |
-| 2023-10-04 | Human-oriented Representation Learning for Robotic Manipulation | Mingxiao Huo, Mingyu Ding, Chenfeng Xu, Thomas Tian et al. | [Abstract](https://arxiv.org/abs/2310.03023) · [PDF](https://arxiv.org/pdf/2310.03023) | needs-review |

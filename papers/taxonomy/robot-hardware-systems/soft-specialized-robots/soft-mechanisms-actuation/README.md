@@ -1,12 +1,12 @@
 # Soft Mechanisms & Actuation · 软体机构与驱动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Soft%20%26%20Specialized%20Robots&specialty=Soft%20Mechanisms%20%26%20Actuation#research-workbench)
 
-> 4 conference papers · 67 recent arXiv papers
+> 4 conference papers · 66 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,7 +29,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Strong Compliant Grasps Using a Cable-Driven Soft Gripper | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS58592.2024.10801693) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801693) | rule-assigned |
 | 2022 | Collision-Aware Fast Simulation for Soft Robots by Optimization-Based Geometric Computing | IROS · Simulation | [Paper](https://arxiv.org/abs/2203.02054) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981870) | rule-assigned |
 
-## Recent arXiv papers (67)
+## Recent arXiv papers (66)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -49,7 +49,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-04-01 | An Integrated Soft Robotic System for Measuring Vital Signs in Search and Rescue Environments | Jorge Francisco García-Samartín, Christyan Cruz Ulloa, Andrés Sánchez-Silva, Jaime del Cerro et al. | [Abstract](https://arxiv.org/abs/2604.00971) · [PDF](https://arxiv.org/pdf/2604.00971) | rule-assigned |
 | 2026-03-23 | Trajectory Generation for Underactuated Soft Robot Manipulators using Discrete Elastic Rod Dynamics | Beibei Liu, Akua K. Dickson, Ran Jing, Andrew P. Sabelhaus | [Abstract](https://arxiv.org/abs/2603.22604) · [PDF](https://arxiv.org/pdf/2603.22604) | rule-assigned |
 | 2026-03-20 | Generalized Task-Driven Design of Soft Robots via Reduced-Order FEM-based Surrogate Modeling | Yao Yao, David Howard, Perla Maiolino | [Abstract](https://arxiv.org/abs/2603.19794) · [PDF](https://arxiv.org/pdf/2603.19794) | rule-assigned |
-| 2026-03-20 | Accurate Open-Loop Control of a Soft Continuum Robot Through Visually Learned Latent Representations | Henrik Krauss, Johann Licher, Naoya Takeishi, Annika Raatz et al. | [Abstract](https://arxiv.org/abs/2603.19655) · [PDF](https://arxiv.org/pdf/2603.19655) | rule-assigned |
 | 2026-03-19 | SOFTMAP: Sim2Real Soft Robot Forward Modeling via Topological Mesh Alignment and Physics Prior | Ziyong Ma, Uksang Yoo, Jonathan Francis, Weiming Zhi et al. | [Abstract](https://arxiv.org/abs/2603.19384) · [PDF](https://arxiv.org/pdf/2603.19384) | rule-assigned |
 | 2026-03-02 | Shape-Interpretable Visual Self-Modeling Enables Geometry-Aware Continuum Robot Control | Peng Yu, Xin Wang, Ning Tan | [Abstract](https://arxiv.org/abs/2603.01751) · [PDF](https://arxiv.org/pdf/2603.01751) | rule-assigned |
 | 2026-01-19 | Helical Tendon-Driven Continuum Robot with Programmable Follow-the-Leader Operation | Behnam Moradkhani, Raghav Sankaranarayanan, Pejman Kheradmand, Harshith Jella et al. | [Abstract](https://arxiv.org/abs/2601.13177) · [PDF](https://arxiv.org/pdf/2601.13177) | rule-assigned |

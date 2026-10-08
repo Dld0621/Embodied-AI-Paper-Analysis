@@ -1,7 +1,7 @@
 # Flexible & Soft Objects · 柔性与软体物体
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation&specialty=Flexible%20%26%20Soft%20Objects#research-workbench)
@@ -65,7 +65,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-02-26 | A Perspective on Open Challenges in Deformable Object Manipulation | Ryan Paul McKennaa, John Oyekan | [Abstract](https://arxiv.org/abs/2602.22998) · [PDF](https://arxiv.org/pdf/2602.22998) | rule-assigned |
 | 2026-02-10 | Preference Aligned Visuomotor Diffusion Policies for Deformable Object Manipulation | Marco Moletta, Michael C. Welle, Danica Kragic | [Abstract](https://arxiv.org/abs/2602.09583) · [PDF](https://arxiv.org/pdf/2602.09583) | rule-assigned |
 | 2026-02-03 | Self-supervised Physics-Informed Manipulation of Deformable Linear Objects with Non-negligible Dynamics | Youyuan Long, Gokhan Solak, Sara Zeynalpour, Heng Zhang et al. | [Abstract](https://arxiv.org/abs/2602.03623) · [PDF](https://arxiv.org/pdf/2602.03623) | rule-assigned |
-| 2026-01-28 | TRACER: Texture-Robust Affordance Chain-of-Thought for Deformable-Object Refinement | Wanjun Jia, Kang Li, Fan Yang, Mengfei Duan et al. | [Abstract](https://arxiv.org/abs/2601.20208) · [PDF](https://arxiv.org/pdf/2601.20208) | rule-assigned |
+| 2026-01-28 | TRACER: Texture-Robust Affordance Chain-of-Thought for Deformable-Object Region Grounding | Wanjun Jia, Kang Li, Fan Yang, Mengfei Duan et al. | [Abstract](https://arxiv.org/abs/2601.20208) · [PDF](https://arxiv.org/pdf/2601.20208) | rule-assigned |
 | 2026-01-24 | EMPM: Embodied MPM for Modeling and Simulation of Deformable Objects | Yunuo Chen, Yafei Hu, Lingfeng Sun, Tushar Kusnur et al. | [Abstract](https://arxiv.org/abs/2601.17251) · [PDF](https://arxiv.org/pdf/2601.17251) | rule-assigned |
 | 2025-12-05 | SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models | Haowen Liu, Shaoxiong Yao, Haonan Chen, Jiawei Gao et al. | [Abstract](https://arxiv.org/abs/2512.05955) · [PDF](https://arxiv.org/pdf/2512.05955) | rule-assigned |
 | 2025-10-16 | Prescribed Performance Control of Deformable Object Manipulation in Spatial Latent Space | Ning Han, Gu Gong, Bin Zhang, Yuexuan Xu et al. | [Abstract](https://arxiv.org/abs/2510.14234) · [PDF](https://arxiv.org/pdf/2510.14234) | rule-assigned |

@@ -1,7 +1,7 @@
 # 论文分析模板
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 > 复制本文件到对应主题目录，重命名为 `YYYY-简短标题.md`，逐节填写。带 `[ ]` 的为可选填充项。

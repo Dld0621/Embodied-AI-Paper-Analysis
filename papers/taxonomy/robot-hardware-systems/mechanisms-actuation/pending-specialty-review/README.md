@@ -1,7 +1,7 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Pending%20specialty%20review#research-workbench)
@@ -110,6 +110,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-06 | PhoneBot: A Low-Cost Open Humanoid Robot Platform Reusing Smartphones | Ruochen Hou, Quanyou Wang, Daniel Koh, Dennis W. Hong | [Abstract](https://arxiv.org/abs/2610.08737) · [PDF](https://arxiv.org/pdf/2610.08737) | needs-review |
 | 2026-10-01 | In CEM, a World Model Is Also a Proposal Mechanism | Oliver Obst, Frieder Stolzenburg | [Abstract](https://arxiv.org/abs/2610.00921) · [PDF](https://arxiv.org/pdf/2610.00921) | needs-review |
 | 2026-09-25 | Quadruped Obstacle Avoidance and Footstep Planning with Distributed Low-cost Time-of-Flight Sensors | Giammarco Caroleo, Timothée Mahamoodally, Matteo Manzardo, Jin Jin et al. | [Abstract](https://arxiv.org/abs/2609.31008) · [PDF](https://arxiv.org/pdf/2609.31008) | needs-review |
 | 2026-09-25 | Design and Characterization of a Variable-Length Continuum Mechanism with Force Locking | Katelyn King, Veronica Fish, Allison M. Okamura | [Abstract](https://arxiv.org/abs/2609.30759) · [PDF](https://arxiv.org/pdf/2609.30759) | needs-review |
@@ -167,7 +168,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-02-16 | Morphing of and writing with a scissor linkage mechanism | Mohanraj A, S Ganga Prasath | [Abstract](https://arxiv.org/abs/2602.14958) · [PDF](https://arxiv.org/pdf/2602.14958) | needs-review |
 | 2026-02-12 | EasyMimic: A Low-Cost Framework for Robot Imitation Learning from Human Videos | Tao Zhang, Song Xia, Ye Wang, Qin Jin | [Abstract](https://arxiv.org/abs/2602.11464) · [PDF](https://arxiv.org/pdf/2602.11464) | needs-review |
 | 2026-02-11 | Morphogenetic Assembly and Adaptive Control for Heterogeneous Modular Robots | Chongxi Meng, Da Zhao, Yifei Zhao, Minghao Zeng et al. | [Abstract](https://arxiv.org/abs/2602.10561) · [PDF](https://arxiv.org/pdf/2602.10561) | needs-review |
-| 2026-02-10 | Learning Force-Regulated Manipulation with a Low-Cost Tactile-Force-Controlled Gripper | Xuhui Kang, Tongxuan Tian, Sung-Wook Lee, Binghao Huang et al. | [Abstract](https://arxiv.org/abs/2602.10013) · [PDF](https://arxiv.org/pdf/2602.10013) | needs-review |
+| 2026-02-10 | Learning Force-Regulated Robotic Manipulation with a Low-Cost Tactile-Force-Controlled Gripper | Xuhui Kang, Tongxuan Tian, Sung-Wook Lee, Binghao Huang et al. | [Abstract](https://arxiv.org/abs/2602.10013) · [PDF](https://arxiv.org/pdf/2602.10013) | needs-review |
 | 2026-02-04 | Shaping Expressiveness in Robotics: The Role of Design Tools in Crafting Embodied Robot Movements | Elisabetta Zibetti, Alexandra Mercader, Hélène Duval, Florent Levillain et al. | [Abstract](https://arxiv.org/abs/2602.04137) · [PDF](https://arxiv.org/pdf/2602.04137) | needs-review |
 | 2026-02-04 | Applying Ground Robot Fleets in Urban Search: Understanding Professionals' Operational Challenges and Design Opportunities | Puqi Zhou, Charles R. Twardy, Cynthia Lum, Myeong Lee et al. | [Abstract](https://arxiv.org/abs/2602.04992) · [PDF](https://arxiv.org/pdf/2602.04992) | needs-review |
 | 2026-02-03 | Modular Safety Guardrails Are Necessary for Foundation-Model-Enabled Robots in the Real World | Joonkyung Kim, Wenxi Chen, Davood Soleymanzadeh, Yi Ding et al. | [Abstract](https://arxiv.org/abs/2602.04056) · [PDF](https://arxiv.org/pdf/2602.04056) | needs-review |
@@ -180,7 +181,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-12-11 | Design and Implementation of a High-Precision Wind-Estimation UAV with Onboard Sensors | Haowen Yu, Na Fan, Xing Liu, Ximin Lyu | [Abstract](https://arxiv.org/abs/2512.10428) · [PDF](https://arxiv.org/pdf/2512.10428) | needs-review |
 | 2025-12-10 | Development of a Compliant Gripper for Safe Robot-Assisted Trouser Dressing-Undressing | Jayant Unde, Takumi Inden, Yuki Wakayama, Jacinto Colan et al. | [Abstract](https://arxiv.org/abs/2512.09462) · [PDF](https://arxiv.org/pdf/2512.09462) | needs-review |
 | 2025-12-07 | MagicSkin: Balancing Marker and Markerless Modes in Vision-Based Tactile Sensors with a Translucent Skin | Oluwatimilehin Tijani, Zhuo Chen, Jiankang Deng, Shan Luo | [Abstract](https://arxiv.org/abs/2512.06829) · [PDF](https://arxiv.org/pdf/2512.06829) | needs-review |
-| 2025-11-11 | Characterizing the Resilience and Sensitivity of Polyurethane Vision-Based Tactile Sensors | Benjamin Davis, Hannah Stuart | [Abstract](https://arxiv.org/abs/2511.07797) · [PDF](https://arxiv.org/pdf/2511.07797) | needs-review |
 | 2025-11-10 | Design And Control of A Robotic Arm For Industrial Applications | Sathish Krishna Anumula, SVSV Prasad Sanaboina, Ravi Kumar Nagula, R. Nagaraju | [Abstract](https://arxiv.org/abs/2512.00034) · [PDF](https://arxiv.org/pdf/2512.00034) | needs-review |
 | 2025-11-06 | ReGen: Generative Robot Simulation via Inverse Design | Phat Nguyen, Tsun-Hsuan Wang, Zhang-Wei Hong, Erfan Aasi et al. | [Abstract](https://arxiv.org/abs/2511.04769) · [PDF](https://arxiv.org/pdf/2511.04769) | needs-review |
 | 2025-11-05 | Unconscious and Intentional Human Motion Cues for Expressive Robot-Arm Motion Design | Taito Tashiro, Tomoko Yonezawa, Hirotake Yamazoe | [Abstract](https://arxiv.org/abs/2511.03676) · [PDF](https://arxiv.org/pdf/2511.03676) | needs-review |

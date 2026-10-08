@@ -1,12 +1,12 @@
 # Autoregressive & Tokenized Actions · 自回归与动作标记化
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generative%20Action%20Policies&specialty=Autoregressive%20%26%20Tokenized%20Actions#research-workbench)
 
-> 1 conference papers · 10 recent arXiv papers
+> 1 conference papers · 11 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2025 | CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction | ICCV · Visuomotor | [Paper](https://arxiv.org/pdf/2412.06782) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01250) | rule-assigned |
 
-## Recent arXiv papers (10)
+## Recent arXiv papers (11)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-06 | CAP: Codebook-Aligned Prediction for Tokenized Robot Policies | Haoran Chen, Jingtian Ji, Samuel Wheeler, Kaylene Caswell Stocking et al. | [Abstract](https://arxiv.org/abs/2610.09178) · [PDF](https://arxiv.org/pdf/2610.09178) | rule-assigned |
 | 2026-09-23 | Behavior-Aligned Action Tokenization for Robot Policy Learning | Junbo Dong, Ze Chen, Zhendong Xie, Junjie Li et al. | [Abstract](https://arxiv.org/abs/2609.27513) · [PDF](https://arxiv.org/pdf/2609.27513) | rule-assigned |
 | 2026-07-23 | Ordered Action Tokens for Visuomotor Policy Learning | Chaoqi Liu, Yue Zhao, Haonan Chen, Xiaoshen Han et al. | [Abstract](https://arxiv.org/abs/2607.21670) · [PDF](https://arxiv.org/pdf/2607.21670) | rule-assigned |
 | 2026-07-09 | Native Video-Action Pretraining for Generalizable Robot Control | Qihang Zhang, Lin Li, Luyao Zhang, Shuai Yang et al. | [Abstract](https://arxiv.org/abs/2607.08639) · [PDF](https://arxiv.org/pdf/2607.08639) | rule-assigned |

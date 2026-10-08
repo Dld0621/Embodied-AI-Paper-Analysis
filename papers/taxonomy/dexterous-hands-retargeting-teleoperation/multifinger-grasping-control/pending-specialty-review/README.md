@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Multifinger%20Grasping%20%26%20Control&specialty=Pending%20specialty%20review#research-workbench)
 
-> 64 conference papers · 221 recent arXiv papers
+> 64 conference papers · 222 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -89,10 +89,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Toward Dexterous Flapping Flight: Effective Large Yaw Torque Generation by $2\times 2$-Degrees-of-Freedom Flapping Wings | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS47612.2022.9981990) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981990) | needs-review |
 | 2022 | Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning | NeurIPS · Dexterous | [Paper](https://arxiv.org/abs/2206.08686) · [Index](https://dblp.org/rec/conf/nips/ChenWWFJLMDZY22) | needs-review |
 
-## Recent arXiv papers (221)
+## Recent arXiv papers (222)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-02 | PointWAM: 3D World Action Modeling for Dexterous Robotic Manipulation | Chunghyun Park, Beomjun Kim, Seungcheol Park, Heeseung Kwon et al. | [Abstract](https://arxiv.org/abs/2610.02840) · [PDF](https://arxiv.org/pdf/2610.02840) | needs-review |
 | 2026-09-30 | Tool-Policy Co-Design for Powder Weighing in Laboratory Automation | Nikola Radulov, Xin Yang, Kevin S. Luck, Gabriella Pizzuto | [Abstract](https://arxiv.org/abs/2609.39797) · [PDF](https://arxiv.org/pdf/2609.39797) | needs-review |
 | 2026-09-29 | Skill-Space Shooting for Autonomous Robot Policy Improvement | Zihang Rui, Renhao Wang, Haoxu Huang, Yang Gao | [Abstract](https://arxiv.org/abs/2609.38178) · [PDF](https://arxiv.org/pdf/2609.38178) | needs-review |
 | 2026-09-29 | Kinematic Nonlinear Spatio-Temporal Trajectory Warping for Contact-Rich Dexterous Manipulation Demonstrations | Hyojae Park, Arjun S. Lakshmipathy, Nancy S. Pollard | [Abstract](https://arxiv.org/abs/2609.36676) · [PDF](https://arxiv.org/pdf/2609.36676) | needs-review |

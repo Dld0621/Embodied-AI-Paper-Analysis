@@ -1,12 +1,12 @@
 # Depth & Point Clouds · 深度与点云
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=Depth%20%26%20Point%20Clouds#research-workbench)
 
-> 15 conference papers · 439 recent arXiv papers
+> 15 conference papers · 443 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -40,10 +40,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Any2Policy: Learning Visuomotor Policy with Any-Modality | NeurIPS · Visuomotor | [Paper](https://doi.org/10.52202/079017-4244) · [Publisher](https://doi.org/10.52202/079017-4244) | rule-assigned |
 | 2022 | f-Cal: Aleatoric uncertainty quantification for robot perception via calibrated neural regression | ICRA · Robot Perception | [Paper](https://doi.org/10.1109/icra46639.2022.9811903) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811903) | rule-assigned |
 
-## Recent arXiv papers (439)
+## Recent arXiv papers (443)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | ECHO: Embodied Camera Observations of Human Object Carrying | Xuefei Sun, Lorin Achey, Kali Hamilton, Alberto Speranzon et al. | [Abstract](https://arxiv.org/abs/2610.10438) · [PDF](https://arxiv.org/pdf/2610.10438) | rule-assigned |
+| 2026-10-06 | GUARD: Geometric Uncertainty-Aware Point Cloud Denoising and Segmentation for Robotic Hard Disk Drive Disassembly | Zuoxu Wang, Xiao Liang | [Abstract](https://arxiv.org/abs/2610.09068) · [PDF](https://arxiv.org/pdf/2610.09068) | rule-assigned |
+| 2026-10-05 | RoboCap: A New Platform for Egocentric Robot Learning | Grounded Superintelligence, BitRobot | [Abstract](https://arxiv.org/abs/2610.07217) · [PDF](https://arxiv.org/pdf/2610.07217) | rule-assigned |
+| 2026-10-03 | Autoware in Construction: Gap Analysis and LiDAR Perception Toward Off-Road Autonomous Driving | Yu Otsuki, Teja Emmey, Sena Matsushita, Akiro Harada et al. | [Abstract](https://arxiv.org/abs/2610.04187) · [PDF](https://arxiv.org/pdf/2610.04187) | rule-assigned |
+| 2026-10-02 | Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis | Keerthi Kaashyap, Dennis Anthony, Akshay Krishnan, Nhi Ngoc Nguyen et al. | [Abstract](https://arxiv.org/abs/2610.03717) · [PDF](https://arxiv.org/pdf/2610.03717) | rule-assigned |
 | 2026-10-01 | LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction | Zhening Huang, Yueyan Li, Johnathan Chiu, Xiaoyang Lyu et al. | [Abstract](https://arxiv.org/abs/2610.01863) · [PDF](https://arxiv.org/pdf/2610.01863) | rule-assigned |
 | 2026-09-30 | IndoorBEV: A Lightweight Real-Time LiDAR BEV Perception System for Indoor Mobile Robots | Haichuan Li | [Abstract](https://arxiv.org/abs/2610.00355) · [PDF](https://arxiv.org/pdf/2610.00355) | rule-assigned |
 | 2026-09-29 | InsightMap: Structured Spatial Modeling for Embodied Multimodal Reasoning | Hongpei Zheng, Hujun Yin | [Abstract](https://arxiv.org/abs/2609.37187) · [PDF](https://arxiv.org/pdf/2609.37187) | rule-assigned |
@@ -482,7 +487,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-11 | Optimizing the Placement of Roadside LiDARs for Autonomous Driving | Wentao Jiang, Hao Xiang, Xinyu Cai, Runsheng Xu et al. | [Abstract](https://arxiv.org/abs/2310.07247) · [PDF](https://arxiv.org/pdf/2310.07247) | rule-assigned |
 | 2023-10-10 | V2X-AHD:Vehicle-to-Everything Cooperation Perception via Asymmetric Heterogenous Distillation Network | Caizhen He, Hai Wang, Long Chen, Tong Luo et al. | [Abstract](https://arxiv.org/abs/2310.06603) · [PDF](https://arxiv.org/pdf/2310.06603) | rule-assigned |
 | 2023-10-09 | Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration | Chunge Bai, Ruijie Fu, Xiang Gao | [Abstract](https://arxiv.org/abs/2310.05504) · [PDF](https://arxiv.org/pdf/2310.05504) | rule-assigned |
-| 2023-10-05 | BID-NeRF: RGB-D image pose estimation with inverted Neural Radiance Fields | Ágoston István Csehi, Csaba Máté Józsa | [Abstract](https://arxiv.org/abs/2310.03563) · [PDF](https://arxiv.org/pdf/2310.03563) | rule-assigned |
 
 ---
 

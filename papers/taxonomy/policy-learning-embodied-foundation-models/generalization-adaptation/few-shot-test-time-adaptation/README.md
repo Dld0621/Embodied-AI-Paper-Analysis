@@ -1,12 +1,12 @@
 # Few-shot & Test-time Adaptation · 少样本与测试时适配
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generalization%20%26%20Adaptation&specialty=Few-shot%20%26%20Test-time%20Adaptation#research-workbench)
 
-> 21 conference papers · 265 recent arXiv papers
+> 21 conference papers · 271 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -46,10 +46,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | TidyBot: Personalized Robot Assistance with Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2305.05658) · [Publisher](https://doi.org/10.1007/s10514-023-10139-z) | rule-assigned |
 | 2023 | Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects | NeurIPS · Affordance | [Paper](https://arxiv.org/pdf/2309.07473) · [Index](https://dblp.org/rec/journals/corr/abs-2309-07473) | rule-assigned |
 
-## Recent arXiv papers (265)
+## Recent arXiv papers (271)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-06 | Event-Driven Proactive Robot Assistance through Vision-Language Reasoning | Fengkai Liu, Hao Su, Haozhuang Chi, Rui Geng et al. | [Abstract](https://arxiv.org/abs/2610.08344) · [PDF](https://arxiv.org/pdf/2610.08344) | rule-assigned |
+| 2026-10-06 | AutodidactWAM: Cross-Modal Self-Distillation from Generated Video to Robot Actions | Sergei Kurchev, Iaroslav Kolomiets, Miguel Altamirano Cabrera, Artem Lykov et al. | [Abstract](https://arxiv.org/abs/2610.08119) · [PDF](https://arxiv.org/pdf/2610.08119) | rule-assigned |
+| 2026-10-04 | $R^2$-WAM: Repair-and-Reject Post-Training for World Action Models | Ruiyan Xu, Haisheng Su, Sixu Lin, Zhaokun Yue et al. | [Abstract](https://arxiv.org/abs/2610.04913) · [PDF](https://arxiv.org/pdf/2610.04913) | rule-assigned |
+| 2026-10-02 | REDIRECT: A 1% Fix for Bad Robot Habits | Yu Zhang, Jiazhuo Li, Yancong Wei, Kangkang Dong et al. | [Abstract](https://arxiv.org/abs/2610.03997) · [PDF](https://arxiv.org/pdf/2610.03997) | rule-assigned |
+| 2026-10-02 | FUSEye: Training-Light Fisheye Detection with Overlapping Views and Zero-Initialized Adapters | Wenya Su, Kai Luo, Di Wen, Ruiping Liu et al. | [Abstract](https://arxiv.org/abs/2610.02799) · [PDF](https://arxiv.org/pdf/2610.02799) | rule-assigned |
+| 2026-10-02 | From Language Priors to Field Adaptation: Preference Learning for Traversability Estimation | Simon Schwaiger, David Seyser, Alessandro Scherl, Zlatan Ajanović et al. | [Abstract](https://arxiv.org/abs/2610.02974) · [PDF](https://arxiv.org/pdf/2610.02974) | rule-assigned |
 | 2026-09-30 | Magic-W0: A Structured World-Action Foundation Model for Physical Intelligence | Xuhua Chen, Zhenhan Yin, Yuan Zhang, Lingfeng Zhang et al. | [Abstract](https://arxiv.org/abs/2609.39870) · [PDF](https://arxiv.org/pdf/2609.39870) | rule-assigned |
 | 2026-09-30 | GroundAnything: Reconciling Parallel Decoding with Precise Visual Grounding at Flash Speed | Qize Yu, Lianrui Fan, Bowen Ping, Xini Ding et al. | [Abstract](https://arxiv.org/abs/2609.39600) · [PDF](https://arxiv.org/pdf/2609.39600) | rule-assigned |
 | 2026-09-30 | Efficient Multi-Modal Planning with Reward-Guided Preference Optimization for Autonomous Driving | Chenglin Chen, Lujia Wang, Xinhu Zheng, Jun Ma et al. | [Abstract](https://arxiv.org/abs/2609.38862) · [PDF](https://arxiv.org/pdf/2609.38862) | rule-assigned |

@@ -1,12 +1,12 @@
 # Semantic & Neural Maps · 语义与神经地图
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Semantic%20%26%20Neural%20Maps#research-workbench)
 
-> 46 conference papers · 366 recent arXiv papers
+> 46 conference papers · 367 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -71,11 +71,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Mapping of Spatiotemporal Scalar Fields by Mobile Robots using Gaussian Process Regression | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981548) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981548) | rule-assigned |
 | 2022 | Ranging-Aided Ground Robot Navigation Using UWB Nodes at Unknown Locations | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981186) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981186) | rule-assigned |
 
-## Recent arXiv papers (366)
+## Recent arXiv papers (367)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-05 | FOCUS: Fine-Grained Open-Vocabulary Change Detection for Uncertainty-Aware Semi-Static Scenes | Can Xu, Mingfeng Yuan, Mahan Mohammadi, Steven L. Waslander | [Abstract](https://arxiv.org/abs/2610.05639) · [PDF](https://arxiv.org/pdf/2610.05639) | rule-assigned |
 | 2026-10-01 | GlassGuard: Verified Glass Plane Mapping for Robot Navigation | Hanwen Guo, Zhengzhi Lin, Yusen Xie, Ji Zhang | [Abstract](https://arxiv.org/abs/2610.02110) · [PDF](https://arxiv.org/pdf/2610.02110) | rule-assigned |
+| 2026-09-30 | Toward Controlling Biology with Language:Offline Learning of Prompt-Conditioned Interventions for Cells, Organoids, and Biobots | Nam H. Le, Douglas Blackiston, Michael Levin, Josh Bongard | [Abstract](https://arxiv.org/abs/2610.02247) · [PDF](https://arxiv.org/pdf/2610.02247) | rule-assigned |
 | 2026-09-30 | Active Mapping of Underwater Litter Using Camera-Sonar Fusion | David Rete, Patrick Boros, Lucian Busoniu | [Abstract](https://arxiv.org/abs/2609.39898) · [PDF](https://arxiv.org/pdf/2609.39898) | rule-assigned |
 | 2026-09-29 | BCNav: Bearing-Conditioned Depth Policies for Sound Source Navigation | Yaozhong Kang, Jiang Wang, Takeshi Ashizawa, Benjamin Yen et al. | [Abstract](https://arxiv.org/abs/2609.37084) · [PDF](https://arxiv.org/pdf/2609.37084) | rule-assigned |
 | 2026-09-28 | ExcavaTwin: Training-Free Geometry-Guided Semantic Elevation Mapping for Autonomous Excavation | Yu Deng, Lingshan Zeng, Tong Hu, Rushi Dai | [Abstract](https://arxiv.org/abs/2609.34719) · [PDF](https://arxiv.org/pdf/2609.34719) | rule-assigned |
@@ -139,7 +141,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-09 | Raymoval: Raycasting-based Dynamic Object Removal for Static 3D Mapping | Daebeom Kim, Seungjae Lee, Seoyeon Jang, Kevin Christiansen Marsim et al. | [Abstract](https://arxiv.org/abs/2605.08937) · [PDF](https://arxiv.org/pdf/2605.08937) | rule-assigned |
 | 2026-05-05 | FUS3DMaps: Scalable and Accurate Open-Vocabulary Semantic Mapping by 3D Fusion of Voxel- and Instance-Level Layers | Timon Homberger, Finn Lukas Busch, Jesús Gerardo Ortega Peimbert, Quantao Yang et al. | [Abstract](https://arxiv.org/abs/2605.03669) · [PDF](https://arxiv.org/pdf/2605.03669) | rule-assigned |
 | 2026-05-05 | From Language to Logic: A Theoretical Architecture for VLM-Grounded Safe Navigation | Kristy Sakano, Kalonji Harrington, Mumu Xu | [Abstract](https://arxiv.org/abs/2605.04327) · [PDF](https://arxiv.org/pdf/2605.04327) | rule-assigned |
-| 2026-05-04 | Change-Robust Online Spatial-Semantic Topological Mapping | Jiaming Wang, Jizhuo Chen, Diwen Liu, Atharva Ghotavadekar et al. | [Abstract](https://arxiv.org/abs/2605.02227) · [PDF](https://arxiv.org/pdf/2605.02227) | rule-assigned |
 | 2026-05-03 | Sonar-GPS Fusion for Seabed Mapping in Turbid Shallow Waters with an Autonomous Surface Vehicle | Yisheng Zhang, Michael Xu, Alan Williams, Matthew Gray et al. | [Abstract](https://arxiv.org/abs/2605.01949) · [PDF](https://arxiv.org/pdf/2605.01949) | rule-assigned |
 | 2026-05-02 | A skin-like conformal sensor for real-time shape mapping | Kaiping Yin, Sooik Im, Chaorui Qiu, Yun Bai et al. | [Abstract](https://arxiv.org/abs/2605.01170) · [PDF](https://arxiv.org/pdf/2605.01170) | rule-assigned |
 | 2026-04-22 | EgoDyn-Bench: Evaluating Ego-Motion Understanding in Vision-Centric Foundation Models for Autonomous Driving | Finn Rasmus Schäfer, Yuan Gao, Dingrui Wang, Thomas Stauner et al. | [Abstract](https://arxiv.org/abs/2604.22851) · [PDF](https://arxiv.org/pdf/2604.22851) | rule-assigned |

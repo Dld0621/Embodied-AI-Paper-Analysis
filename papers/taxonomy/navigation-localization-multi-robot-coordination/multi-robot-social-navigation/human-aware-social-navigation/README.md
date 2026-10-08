@@ -1,12 +1,12 @@
 # Human-aware & Social Navigation · 人群交互与社会规范导航
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Multi-robot%20%26%20Social%20Navigation&specialty=Human-aware%20%26%20Social%20Navigation#research-workbench)
 
-> 56 conference papers · 176 recent arXiv papers
+> 56 conference papers · 180 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -81,10 +81,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Watch out! There may be a Human. Addressing Invisible Humans in Social Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2211.12216) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982186) | rule-assigned |
 | 2022 | You Are In My Way: Non-verbal Social Cues for Legible Robot Navigation Behaviors | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981754) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981754) | rule-assigned |
 
-## Recent arXiv papers (176)
+## Recent arXiv papers (180)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-05 | Risk-Sensitive Crowd Navigation with Adaptive Ellipsoidal Conformal Prediction | Ruihan A. Li, Ziyao Guo, Yingying Li | [Abstract](https://arxiv.org/abs/2610.07474) · [PDF](https://arxiv.org/pdf/2610.07474) | rule-assigned |
+| 2026-10-05 | End-to-End Safe Social Navigation via Multi-Task Reinforcement Learning and Probabilistic Perception | Tommaso Van Der Meer, Andrea Garulli, Antonio Giannitrapani, Renato Quartullo et al. | [Abstract](https://arxiv.org/abs/2610.05733) · [PDF](https://arxiv.org/pdf/2610.05733) | rule-assigned |
+| 2026-10-04 | Social Navigation for Tour-guide Robot | Vikram Shree, Jose Nino | [Abstract](https://arxiv.org/abs/2610.05455) · [PDF](https://arxiv.org/pdf/2610.05455) | rule-assigned |
+| 2026-10-02 | TACET: Context-Appropriate Acoustic-Social Navigation for Quadrupeds | Sungsan Park, Young-Sik Shin, Sanghyun Kim | [Abstract](https://arxiv.org/abs/2610.03828) · [PDF](https://arxiv.org/pdf/2610.03828) | rule-assigned |
 | 2026-09-30 | STARS: From Spatiotemporal Dynamics to Social Representations in Human-Robot Interaction | Nathan Tsoi, Michael J. Munje, Tejas Oberoi, Rishab Maheshwari et al. | [Abstract](https://arxiv.org/abs/2609.40245) · [PDF](https://arxiv.org/pdf/2609.40245) | rule-assigned |
 | 2026-09-30 | Rethinking Legibility in Social Robot Hallway Navigation: Impact of Intent Representation and Human Distraction | Pranav Goyal, Andrew Stratton, Christoforos Mavrogiannis | [Abstract](https://arxiv.org/abs/2609.40158) · [PDF](https://arxiv.org/pdf/2609.40158) | rule-assigned |
 | 2026-09-26 | Learning Social Navigation from Internet Videos in the Policy State Space | Jiaming Wang, Duc Thang Nguyen, Jizhuo Chen, Volodymyr Shcherbyna et al. | [Abstract](https://arxiv.org/abs/2609.37476) · [PDF](https://arxiv.org/pdf/2609.37476) | rule-assigned |

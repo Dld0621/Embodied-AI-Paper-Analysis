@@ -1,12 +1,12 @@
 # Walking & Gaits · 行走与步态
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Walking%20%26%20Gaits#research-workbench)
 
-> 165 conference papers · 346 recent arXiv papers
+> 165 conference papers · 349 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -190,10 +190,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Simultaneous Contact-Rich Grasping and Locomotion via Distributed Optimization Enabling Free-Climbing for Multi-Limbed Robots | IROS · Grasp | [Paper](https://arxiv.org/pdf/2207.01418) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981579) | rule-assigned |
 | 2022 | Three-Dimensional Dynamic Running with a Point-Foot Biped based on Differentially Flat SLIP | IROS · Biped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981516) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981516) | rule-assigned |
 
-## Recent arXiv papers (346)
+## Recent arXiv papers (349)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-06 | A Unified Kinematic Representation Enables Reusable Biological Joint Moment Estimation | Jinwoo Hwang, Ilseung Park, Changseob Song, Vu Phan et al. | [Abstract](https://arxiv.org/abs/2610.09150) · [PDF](https://arxiv.org/pdf/2610.09150) | rule-assigned |
+| 2026-10-05 | Hierarchical Reinforcement Learning for Collision-Free Locomotion of an Underactuated Biped | Jagannath Prasad Sahoo, Saurabh Kumar, Surya Prakash S. K., Samiran Datta et al. | [Abstract](https://arxiv.org/abs/2610.05855) · [PDF](https://arxiv.org/pdf/2610.05855) | rule-assigned |
+| 2026-10-03 | Humanoid Rickshaw Pulling: Whole-Body Locomotion under Coupled Wheeled Loads | Yangzhi Yang, Xiansheng Lin, Zhaoming Xie, Xiaobin Xiong | [Abstract](https://arxiv.org/abs/2610.04238) · [PDF](https://arxiv.org/pdf/2610.04238) | rule-assigned |
+| 2026-10-02 | Sparse Calibration-Based Personalization of Kernel-Based Gait Phase and Speed Estimation Using Wearable IMUs | Myeongju Cha, Pilwon Hur | [Abstract](https://arxiv.org/abs/2610.03931) · [PDF](https://arxiv.org/pdf/2610.03931) | rule-assigned |
 | 2026-10-01 | The Effect of Gait Stability Based on Two Types of Impact Strategies for Two-Link Walking and Brachiating Robots | Alan Estrada Flores, Nelson Rosa | [Abstract](https://arxiv.org/abs/2610.01004) · [PDF](https://arxiv.org/pdf/2610.01004) | rule-assigned |
 | 2026-10-01 | ReCo: Response-Consistent Locomotion with Policy-Aware MPC for Legged Manipulation | Kuankuan Sima, Yichao Gao, Chenxi Gu, Kefan Zhao et al. | [Abstract](https://arxiv.org/abs/2610.01612) · [PDF](https://arxiv.org/pdf/2610.01612) | rule-assigned |
 | 2026-09-30 | Reactive Humanoid Multi-Contact Using Learned Stability Models | Stephen McCrory, Beomyeong Park, Nicholas Kitchel, Nehar Poddar et al. | [Abstract](https://arxiv.org/abs/2610.00823) · [PDF](https://arxiv.org/pdf/2610.00823) | rule-assigned |
@@ -539,7 +543,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-15 | Reinforcement Learning for Reduced-order Models of Legged Robots | Yu-Ming Chen, Hien Bui, Michael Posa | [Abstract](https://arxiv.org/abs/2310.09873) · [PDF](https://arxiv.org/pdf/2310.09873) | rule-assigned |
 | 2023-10-12 | Safe Whole-Body Task Space Control for Humanoid Robots | Victor Paredes, Ayonga Hereid | [Abstract](https://arxiv.org/abs/2311.08409) · [PDF](https://arxiv.org/pdf/2311.08409) | rule-assigned |
 | 2023-10-08 | Fully Spiking Neural Network for Legged Robots | Xiaoyang Jiang, Qiang Zhang, Jingkai Sun, Jiahang Cao et al. | [Abstract](https://arxiv.org/abs/2310.05022) · [PDF](https://arxiv.org/pdf/2310.05022) | rule-assigned |
-| 2023-10-04 | Multi-Domain Walking with Reduced-Order Models of Locomotion | Min Dai, Jaemin Lee, Aaron D. Ames | [Abstract](https://arxiv.org/abs/2310.03179) · [PDF](https://arxiv.org/pdf/2310.03179) | rule-assigned |
 
 ---
 

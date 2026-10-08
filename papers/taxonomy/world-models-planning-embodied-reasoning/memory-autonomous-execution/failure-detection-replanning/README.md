@@ -1,12 +1,12 @@
 # Failure Detection & Replanning · 失败检测、纠错与重规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Memory%20%26%20Autonomous%20Execution&specialty=Failure%20Detection%20%26%20Replanning#research-workbench)
 
-> 10 conference papers · 147 recent arXiv papers
+> 10 conference papers · 151 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -35,10 +35,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots | IROS · Llm | [Paper](https://arxiv.org/pdf/2507.05118) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246320) | rule-assigned |
 | 2023 | BITS: Bi-level Imitation for Traffic Simulation | ICRA · Simulation | [Paper](https://arxiv.org/abs/2208.12403) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161167) | rule-assigned |
 
-## Recent arXiv papers (147)
+## Recent arXiv papers (151)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-05 | P3: Persistent Particle Planning for Constrained Diffusion Control | Hikmet Simsir, Mahyar Fardinfar, Ozgur S. Oguz | [Abstract](https://arxiv.org/abs/2610.06002) · [PDF](https://arxiv.org/pdf/2610.06002) | rule-assigned |
+| 2026-10-05 | Future Anchored Verification and Online Recovery for World Action Models | Zhibin Qin, Zhenxiong Tan, Xinchao Wang | [Abstract](https://arxiv.org/abs/2610.06280) · [PDF](https://arxiv.org/pdf/2610.06280) | rule-assigned |
+| 2026-10-05 | Execution-Aligned Progressive Noise for Consistent Asynchronous Replanning in Generative Robot Policies | Di Wu, Ping Liu, Xuhua Chen, He Zheng et al. | [Abstract](https://arxiv.org/abs/2610.06090) · [PDF](https://arxiv.org/pdf/2610.06090) | rule-assigned |
+| 2026-10-05 | CIRRA: Dual-Level Continual Instruction Reconciliation with Ongoing Execution for Embodied Robot Agents in Interactive Household Tasks | Ci Zhang, Enfu Nan, Arman Akbari, Lin Zhao et al. | [Abstract](https://arxiv.org/abs/2610.08862) · [PDF](https://arxiv.org/pdf/2610.08862) | rule-assigned |
+| 2026-10-04 | Educating future engineers about LLMs: A scalable workshop | R. Zhang, J. C. F. de Winter, T. Dicke, D. Dodou et al. | [Abstract](https://arxiv.org/abs/2610.07027) · [PDF](https://arxiv.org/pdf/2610.07027) | rule-assigned |
 | 2026-09-30 | TACTIC: Temporal and Context-Aware LLM Tactical Planning for Roadside LiDAR Attacks | Yiming Gao, Shaocheng Luo | [Abstract](https://arxiv.org/abs/2609.39969) · [PDF](https://arxiv.org/pdf/2609.39969) | rule-assigned |
 | 2026-09-30 | Looking Back to Move Forward: Temporal Verification for Generative Robot Policies | Haoxuan Wang, Wayne Wu, Yan Yan, Bolei Zhou | [Abstract](https://arxiv.org/abs/2609.39038) · [PDF](https://arxiv.org/pdf/2609.39038) | rule-assigned |
 | 2026-09-29 | Spotter: Let the Embodied Model Lead, and the VLM Reflect for It | Long Li, Qichao Zhao, Yue Yang, Fan Xu et al. | [Abstract](https://arxiv.org/abs/2609.36808) · [PDF](https://arxiv.org/pdf/2609.36808) | rule-assigned |
@@ -64,7 +69,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-03 | Probabilistic Reachable-Action Verification of Visuomotor Policies via Set-Based Training | Yanliang Huang, Zhuocheng Zhang, Peng Xie, Zhen Zhang et al. | [Abstract](https://arxiv.org/abs/2608.02545) · [PDF](https://arxiv.org/pdf/2608.02545) | rule-assigned |
 | 2026-08-02 | When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents | Shuaijun Liu, Feiyang You, Xingwei Chen, Ningxin Su | [Abstract](https://arxiv.org/abs/2608.01428) · [PDF](https://arxiv.org/pdf/2608.01428) | rule-assigned |
 | 2026-07-30 | RoboBRIDGE: A Modular Framework for Bridging Policies to Robust Real-World Robotic Agents | Sihyung Yoon, Minjong Yoo, Sanghyun Ahn, Seojeong Choi et al. | [Abstract](https://arxiv.org/abs/2607.27881) · [PDF](https://arxiv.org/pdf/2607.27881) | rule-assigned |
-| 2026-07-26 | BC-NMPC: Battery-Constrained NMPC with Propulsion Prediction and Replanning for High-Speed Flight | Parakh M. Gupta, Matej Mihulka, Matej Novosad, Robert Penicka et al. | [Abstract](https://arxiv.org/abs/2607.23867) · [PDF](https://arxiv.org/pdf/2607.23867) | rule-assigned |
 | 2026-07-25 | Stress-testing large language model agents in a robotic chemistry laboratory | Lulu Guo, Yingkai Sun, Xiaobo Li, Luyao Ge et al. | [Abstract](https://arxiv.org/abs/2607.23045) · [PDF](https://arxiv.org/pdf/2607.23045) | rule-assigned |
 | 2026-07-22 | EgoRecovery: Acquiring Failure Recovery Ability Through Human Recovery Demonstration | Zuhao Ge, Yuchen Zhou, Weitao Zhou, Minglei Li et al. | [Abstract](https://arxiv.org/abs/2607.19745) · [PDF](https://arxiv.org/pdf/2607.19745) | rule-assigned |
 | 2026-07-16 | Interventional Causal Circuits for Safe Robot Action Testing and Failure Recovery | Naren Vasantakumaar, Tom Schierenbeck, Michael Beetz | [Abstract](https://arxiv.org/abs/2607.14826) · [PDF](https://arxiv.org/pdf/2607.14826) | rule-assigned |
@@ -117,6 +121,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-11-21 | ROVER: Regulator-Driven Robust Temporal Verification of Black-Box Robot Policies | Kristy Sakano, Jianyu An, Dinesh Manocha, Huan Xu | [Abstract](https://arxiv.org/abs/2511.17781) · [PDF](https://arxiv.org/pdf/2511.17781) | rule-assigned |
 | 2025-11-18 | Robust Verification of Controllers under State Uncertainty via Hamilton-Jacobi Reachability Analysis | Albert Lin, Alessandro Pinto, Somil Bansal | [Abstract](https://arxiv.org/abs/2511.14755) · [PDF](https://arxiv.org/pdf/2511.14755) | rule-assigned |
 | 2025-10-29 | WaveVerif: Acoustic Side-Channel based Verification of Robotic Workflows | Zeynep Yasemin Erdogan, Shishir Nagaraja, Chuadhry Mujeeb Ahmed, Ryan Shah | [Abstract](https://arxiv.org/abs/2510.25960) · [PDF](https://arxiv.org/pdf/2510.25960) | rule-assigned |
+| 2025-10-20 | Video Replanning via Latent Embedding Refinement and Rejection-Based Sampling | Po-Chen Ko, Yu Chan, Yu-Hsiang Fu, Hsien-Jeng Yeh et al. | [Abstract](https://arxiv.org/abs/2510.17315) · [PDF](https://arxiv.org/pdf/2510.17315) | rule-assigned |
 | 2025-10-13 | Rotor-Failure-Aware Quadrotors Flight in Unknown Environments | Xiaobin Zhou, Miao Wang, Chengao Li, Can Cui et al. | [Abstract](https://arxiv.org/abs/2510.11306) · [PDF](https://arxiv.org/pdf/2510.11306) | rule-assigned |
 | 2025-09-30 | A Hierarchical Agentic Framework for Autonomous Drone-Based Visual Inspection | Ethan Herron, Xian Yeow Lee, Gregory Sin, Teresa Gonzalez Diaz et al. | [Abstract](https://arxiv.org/abs/2510.00259) · [PDF](https://arxiv.org/pdf/2510.00259) | rule-assigned |
 | 2025-09-29 | ViReSkill: Vision-Grounded Replanning with Skill Memory for LLM-Based Planning in Lifelong Robot Learning | Tomoyuki Kagaya, Subramanian Lakshmi, Anbang Ye, Thong Jing Yuan et al. | [Abstract](https://arxiv.org/abs/2509.24219) · [PDF](https://arxiv.org/pdf/2509.24219) | rule-assigned |
@@ -185,7 +190,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-30 | OpenMORE: an open-source tool for sampling-based path replanning in ROS | Cesare Tonola, Manuel Beschi, Marco Faroni, Nicola Pedrocchi | [Abstract](https://arxiv.org/abs/2311.18406) · [PDF](https://arxiv.org/pdf/2311.18406) | rule-assigned |
 | 2023-11-13 | Testing learning-enabled cyber-physical systems with Large-Language Models: A Formal Approach | Xi Zheng, Aloysius K. Mok, Ruzica Piskac, Yong Jae Lee et al. | [Abstract](https://arxiv.org/abs/2311.07377) · [PDF](https://arxiv.org/pdf/2311.07377) | rule-assigned |
 | 2023-11-02 | GREEMA: Proposal and Experimental Verification of Growing Robot by Eating Environmental MAterial for Landslide Disaster | Yusuke Tsunoda, Yuya Sato, Koichi Osuka | [Abstract](https://arxiv.org/abs/2311.01107) · [PDF](https://arxiv.org/pdf/2311.01107) | rule-assigned |
-| 2023-10-05 | RadaRays: Real-time Simulation of Rotating FMCW Radar for Mobile Robotics via Hardware-accelerated Ray Tracing | Alexander Mock, Martin Magnusson, Joachim Hertzberg | [Abstract](https://arxiv.org/abs/2310.03505) · [PDF](https://arxiv.org/pdf/2310.03505) | rule-assigned |
 
 ---
 

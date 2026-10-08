@@ -1,12 +1,12 @@
 # Object Rotation & Repositioning · 物体旋转与重定位
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=In-hand%20Manipulation&specialty=Object%20Rotation%20%26%20Repositioning#research-workbench)
 
-> 36 conference papers · 70 recent arXiv papers
+> 36 conference papers · 71 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -61,10 +61,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning a State Estimator for Tactile In-Hand Manipulation | IROS · In Hand | [Paper](https://elib.dlr.de/190608/1/IROS22_LearningTactileEstimator.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981730) | rule-assigned |
 | 2022 | Optical Proximity Sensing for Pose Estimation During In-Hand Manipulation | IROS · In Hand | [Paper](https://arxiv.org/pdf/2204.02371) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981692) | rule-assigned |
 
-## Recent arXiv papers (70)
+## Recent arXiv papers (71)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-06 | FlashNeRD: Performance-First Contact-Rich Neural Robot Dynamics | Mohammadmehdi Ataei, Mohammad Amin Nabian, Jie Xu, Miles Macklin et al. | [Abstract](https://arxiv.org/abs/2610.09130) · [PDF](https://arxiv.org/pdf/2610.09130) | rule-assigned |
 | 2026-09-22 | The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers | Boxi Xia, Bokuan Li, Ryan Shin, Zijiang Yang et al. | [Abstract](https://arxiv.org/abs/2609.25696) · [PDF](https://arxiv.org/pdf/2609.25696) | rule-assigned |
 | 2026-09-16 | TacBPM: A Tactile-conditioned Behavior Prior Model for Dexterous Reorientation | Jie Yin, Wanli Xing, Zeyuan Zhao, Xuezhou Zhu et al. | [Abstract](https://arxiv.org/abs/2609.18174) · [PDF](https://arxiv.org/pdf/2609.18174) | rule-assigned |
 | 2026-09-15 | Residual Fault Adaptation for Dexterous In-Hand Manipulation Under Runtime Joint Faults | Linan Deng, Xing Liu, Lin Hong, Feng Hua et al. | [Abstract](https://arxiv.org/abs/2609.17404) · [PDF](https://arxiv.org/pdf/2609.17404) | rule-assigned |

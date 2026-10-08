@@ -1,12 +1,12 @@
 # Pretraining & Scaling Laws · 预训练与规模化规律
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generalization%20%26%20Adaptation&specialty=Pretraining%20%26%20Scaling%20Laws#research-workbench)
 
-> 1 conference papers · 18 recent arXiv papers
+> 1 conference papers · 19 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2025 | DexScale: Automating Data Scaling for Sim2Real Generalizable Robot Control | ICML · Sim2Real | [Paper](https://www.semanticscholar.org/paper/cc19b3dda0e6774626918571bd5d47524e3c084c) · [Index](https://dblp.org/rec/conf/icml/LiuDZ0CCXTJ25) | rule-assigned |
 
-## Recent arXiv papers (18)
+## Recent arXiv papers (19)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-06 | EmbodiedSmith: Scaling Embodied Data through Recursive Self-Improvement Flywheel in Simulation | Yikai Qin, Yifei Deng, Mingjian Liang, Wenxuan Song et al. | [Abstract](https://arxiv.org/abs/2610.07969) · [PDF](https://arxiv.org/pdf/2610.07969) | rule-assigned |
 | 2026-09-30 | ChunkTrust: Adapting Execution Horizons for Robot Policies with Action-Expert Evidence | Fanding Huang, Jingyan Jiang, Shifeng Bao, Mingkang Pu et al. | [Abstract](https://arxiv.org/abs/2609.39754) · [PDF](https://arxiv.org/pdf/2609.39754) | rule-assigned |
 | 2026-08-24 | Physics Filtering Favors the Generalization of Robot Learning | Jindou Jia, Shixuan Han, Meng Wang, Gen Li et al. | [Abstract](https://arxiv.org/abs/2608.22701) · [PDF](https://arxiv.org/pdf/2608.22701) | rule-assigned |
 | 2026-08-22 | Ludi${}_{\scriptscriptstyle 0.1}$: An Agentic System for Socially Intelligent Robots | Wooseong Chung, William Cong, Jakub Dworakowski, Ethan Ewer et al. | [Abstract](https://arxiv.org/abs/2608.22035) · [PDF](https://arxiv.org/pdf/2608.22035) | rule-assigned |

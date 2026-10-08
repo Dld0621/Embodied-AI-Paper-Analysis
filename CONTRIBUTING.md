@@ -1,7 +1,7 @@
 # Contributing
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 Thanks for improving the Embodied AI Research Index. The project maintains two evidence layers: an accepted-conference census and a separately labeled recent-arXiv census. The goal is systematic coverage under defensible, reproducible boundaries—not an untraceable paper dump.
@@ -85,6 +85,14 @@ Every active generated page and document date block is synchronized by `scripts/
 - The default document-sync date and source-harvest dates use Asia/Hong_Kong. A check reuses the saved date rather than silently advancing it.
 - Candidate counts must reconcile with the arXiv API total before a complete snapshot is published. Development samples cannot replace it.
 - Read [the generated coverage report](docs/coverage-report.md) before describing the corpus as complete. “All embodied-AI literature” is not a defensible claim under the current venue/query/category boundaries.
+
+For an arXiv-only refresh, keep the conference snapshot unchanged and record the actual difference against the commit saved before harvesting:
+
+```bash
+python scripts/record_arxiv_refresh.py --baseline <previous-commit> --date YYYY-MM-DD
+```
+
+The immutable receipt distinguishes newly admitted from newly published papers, lists rolling-window removals and retained metadata changes, and records unexplained in-window absences. If official metadata and the admission function were separately checked, pass `--admission-review <review.json>` to preserve that evidence; use the same arguments for `--check`. An absence is not evidence of withdrawal. Historical receipts cannot be replaced with different contents.
 
 Use [`docs/paper-analysis-template.md`](docs/paper-analysis-template.md). Separate:
 

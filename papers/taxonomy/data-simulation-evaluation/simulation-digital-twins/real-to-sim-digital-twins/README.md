@@ -1,12 +1,12 @@
 # Real-to-sim & Digital Twins · 现实场景重建与数字孪生
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Real-to-sim%20%26%20Digital%20Twins#research-workbench)
 
-> 6 conference papers · 121 recent arXiv papers
+> 6 conference papers · 122 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -31,10 +31,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Neuro-Adaptive Dynamic Control with Edge-Computing for Collaborative Digital Twin of an Industrial Robotic Manipulator | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161113) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161113) | rule-assigned |
 | 2022 | Dynamic Modeling and Digital Twin of a Harmonic Drive Based Collaborative Robot Joint | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/icra46639.2022.9812458) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812458) | rule-assigned |
 
-## Recent arXiv papers (121)
+## Recent arXiv papers (122)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-05 | Demo: Vision-Language Model-Guided Online Calibration of an Electromagnetic Digital Twin | Zerui Kang, Yishen Lim, Zhouyou Gu, Seungnyun Kim et al. | [Abstract](https://arxiv.org/abs/2610.07081) · [PDF](https://arxiv.org/pdf/2610.07081) | rule-assigned |
+| 2026-10-05 | AIM: Adaptive Interaction Modeling Networks for Real-to-Sim Soft-Body Simulation | Tiancheng Yang, Dingshuo Chen, Tianle Chen, Zhaocheng Liu et al. | [Abstract](https://arxiv.org/abs/2610.07116) · [PDF](https://arxiv.org/pdf/2610.07116) | rule-assigned |
 | 2026-09-30 | EmbodiRSI: Recursive Self-Improvement for Data-Efficient Robot Adaptation | Haoran Lang, Haotao Lu, Shiyu Sang, Haoyang Luo et al. | [Abstract](https://arxiv.org/abs/2609.38905) · [PDF](https://arxiv.org/pdf/2609.38905) | rule-assigned |
 | 2026-09-11 | High-Fidelity Multi-Body Simulator for Autonomous Racing | Nicola Musiu, Francesco Iacovacci, Fausto Lupo, Matteo Pini et al. | [Abstract](https://arxiv.org/abs/2609.12795) · [PDF](https://arxiv.org/pdf/2609.12795) | rule-assigned |
 | 2026-09-09 | RealSimLoop: Online Real-to-Sim Adaptation via Differentiable Reduced-Order Simulation with Vision Feedback | Zhihao Cen, Chuhua Xian, Hailin Sun, Yuliang Liufu et al. | [Abstract](https://arxiv.org/abs/2609.09828) · [PDF](https://arxiv.org/pdf/2609.09828) | rule-assigned |
@@ -155,7 +157,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-01-16 | Reinforcement-learning robotic sailboats: simulator and preliminary results | Eduardo Charles Vasconcellos, Ronald M Sampaio, André P D Araújo, Esteban Walter Gonzales Clua et al. | [Abstract](https://arxiv.org/abs/2402.03337) · [PDF](https://arxiv.org/pdf/2402.03337) | rule-assigned |
 | 2023-12-25 | Smart Mobility Digital Twin for Automated Driving: Design and Proof-of-Concept | Kui Wang, Zongdian Li, Tao Yu, Kei Sakaguchi | [Abstract](https://arxiv.org/abs/2401.08654) · [PDF](https://arxiv.org/pdf/2401.08654) | rule-assigned |
 | 2023-11-24 | Digital Twin Technology Enabled Proactive Safety Application for Vulnerable Road Users: A Real-World Case Study | Erik Rua, Kazi Hasan Shakib, Sagar Dasgupta, Mizanur Rahman et al. | [Abstract](https://arxiv.org/abs/2312.10041) · [PDF](https://arxiv.org/pdf/2312.10041) | rule-assigned |
-| 2023-10-05 | TWICE Dataset: Digital Twin of Test Scenarios in a Controlled Environment | Leonardo Novicki Neto, Fabio Reway, Yuri Poledna, Maikol Funk Drechsler et al. | [Abstract](https://arxiv.org/abs/2310.03895) · [PDF](https://arxiv.org/pdf/2310.03895) | rule-assigned |
 
 ---
 

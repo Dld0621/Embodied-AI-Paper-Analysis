@@ -1,12 +1,12 @@
 # Physics Engines & Parallel Simulation · 物理引擎与并行仿真
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Physics%20Engines%20%26%20Parallel%20Simulation#research-workbench)
 
-> 14 conference papers · 116 recent arXiv papers
+> 14 conference papers · 121 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -39,10 +39,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Out-of-Dynamics Imitation Learning from Multimodal Demonstrations | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2211.06839) · [Index](https://dblp.org/rec/conf/corl/Qiu0CL22) | rule-assigned |
 | 2022 | Gazebo Fluids: SPH-based simulation of fluid interaction with articulated rigid body dynamics | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982036) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982036) | rule-assigned |
 
-## Recent arXiv papers (116)
+## Recent arXiv papers (121)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | Evaluating the Transfer of Co-Evolved Communication from 2D to 3D Simulation | Fernando Montes-Gonzalez | [Abstract](https://arxiv.org/abs/2610.09280) · [PDF](https://arxiv.org/pdf/2610.09280) | rule-assigned |
+| 2026-10-07 | ClimbLab: MATLAB Simulation Platform for Legged Climbing Robotics | Kentaro Uno, Warley F. R. Ribeiro, Yusuke Koizumi, Keigo Haji et al. | [Abstract](https://arxiv.org/abs/2610.09315) · [PDF](https://arxiv.org/pdf/2610.09315) | rule-assigned |
+| 2026-10-06 | Demo: Closed-Loop Sionna-Isaac Sim Co-Simulation Framework for Wireless-Aware Robot Navigation over ROS 2 | Yi Shen Lim, Seungeun Oh, Jihong Park | [Abstract](https://arxiv.org/abs/2610.08618) · [PDF](https://arxiv.org/pdf/2610.08618) | rule-assigned |
+| 2026-10-05 | Infant simulator with an embodied caregiver: Generating infant-perspective touch and vision during social interaction | Noemi Vaculinova, Matej Hoffmann | [Abstract](https://arxiv.org/abs/2610.05997) · [PDF](https://arxiv.org/pdf/2610.05997) | rule-assigned |
+| 2026-10-03 | A Bird's-Eye View of Iterative Reward Design | Logan Mondal Bhamidipaty, Lauren Robson, Linda Petrini, Shengrui Lyu et al. | [Abstract](https://arxiv.org/abs/2610.04364) · [PDF](https://arxiv.org/pdf/2610.04364) | rule-assigned |
 | 2026-09-28 | RoboCompiler: Graph-Native Compilation of Closed-Chain Robots for Consistent Modeling, Control, and Simulation | Mehdi Heydari Shahna, Joongheon Kim, Jouni Mattila | [Abstract](https://arxiv.org/abs/2609.35717) · [PDF](https://arxiv.org/pdf/2609.35717) | rule-assigned |
 | 2026-09-28 | MarsLab: A Martian Rover Simulator for Planetary Rover Autonomous Navigation | Hoyun Kim, Beomsu Kim, Giseop Kim | [Abstract](https://arxiv.org/abs/2609.34702) · [PDF](https://arxiv.org/pdf/2609.34702) | rule-assigned |
 | 2026-09-28 | From Language to Task Maps: Compiling Semantic Relations While Preserving Task-Relevant Freedom | Jaegyun Park, Jingwang Lee, Jungsoo Lee, Soonwoong Hwang et al. | [Abstract](https://arxiv.org/abs/2609.34412) · [PDF](https://arxiv.org/pdf/2609.34412) | rule-assigned |

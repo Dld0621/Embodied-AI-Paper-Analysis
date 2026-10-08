@@ -1,12 +1,12 @@
 # Visual, LiDAR & Multisensor SLAM · 视觉／激光／多传感器 SLAM
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Visual%2C%20LiDAR%20%26%20Multisensor%20SLAM#research-workbench)
 
-> 14 conference papers · 550 recent arXiv papers
+> 14 conference papers · 549 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -39,10 +39,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | 3D Lidar Reconstruction with Probabilistic Depth Completion for Robotic Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2207.12520) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981531) | rule-assigned |
 | 2022 | Visual Confined-Space Navigation Using an Efficient Learned Bilinear Optic Flow Approximation for Insect-scale Robots | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981585) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981585) | rule-assigned |
 
-## Recent arXiv papers (550)
+## Recent arXiv papers (549)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-05 | Human-in-the-Loop Neuro-Symbolic Drift Anticipation for Reliable Visual SLAM | Junhyun Nam, Wonse Jo | [Abstract](https://arxiv.org/abs/2610.05757) · [PDF](https://arxiv.org/pdf/2610.05757) | rule-assigned |
 | 2026-09-30 | MVP-SLAM: Multi-Camera Visual-Inertial Floorplan-Prior SLAM | Asier Bikandi-Noya, Miguel Fernandez-Cortizas, Muhammad Shaheer, Holger Voos et al. | [Abstract](https://arxiv.org/abs/2609.39596) · [PDF](https://arxiv.org/pdf/2609.39596) | rule-assigned |
 | 2026-09-29 | Pow3R-SLAM: Real-Time RGB-D SLAM with 3D Reconstruction Priors | Christopher Kolios, Ishaan Mehta, Sasa Janjic, Yeganeh Bahoo et al. | [Abstract](https://arxiv.org/abs/2609.38054) · [PDF](https://arxiv.org/pdf/2609.38054) | rule-assigned |
 | 2026-09-29 | Degeneracy-Orthogonal Geometric Constraints for LiDAR SLAM | Minseo Kim, Yina Kim, Jinhwa Hwang, Alex Junho Lee | [Abstract](https://arxiv.org/abs/2609.36753) · [PDF](https://arxiv.org/pdf/2609.36753) | rule-assigned |
@@ -591,8 +592,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-11 | Saturation-Aware Angular Velocity Estimation: Extending the Robustness of SLAM to Aggressive Motions | Simon-Pierre Deschênes, Dominic Baril, Matěj Boxan, Johann Laconte et al. | [Abstract](https://arxiv.org/abs/2310.07844) · [PDF](https://arxiv.org/pdf/2310.07844) | rule-assigned |
 | 2023-10-10 | Efficient Graduated Non-Convexity for Pose Graph Optimization | Wonseok Kang, Jaehyun Kim, Jiseong Chung, Seungwon Choi et al. | [Abstract](https://arxiv.org/abs/2310.06765) · [PDF](https://arxiv.org/pdf/2310.06765) | rule-assigned |
 | 2023-10-10 | 3DS-SLAM: A 3D Object Detection based Semantic SLAM towards Dynamic Indoor Environments | Ghanta Sai Krishna, Kundrapu Supriya, Sabur Baidya | [Abstract](https://arxiv.org/abs/2310.06385) · [PDF](https://arxiv.org/pdf/2310.06385) | rule-assigned |
-| 2023-10-07 | Hierarchical Unsupervised Topological SLAM | Ayush Sharma, Yash Mehan, Pradyumna Dasu, Sourav Garg et al. | [Abstract](https://arxiv.org/abs/2310.04802) · [PDF](https://arxiv.org/pdf/2310.04802) | rule-assigned |
-| 2023-10-07 | HI-SLAM: Monocular Real-time Dense Mapping with Hybrid Implicit Fields | Wei Zhang, Tiecheng Sun, Sen Wang, Qing Cheng et al. | [Abstract](https://arxiv.org/abs/2310.04787) · [PDF](https://arxiv.org/pdf/2310.04787) | rule-assigned |
 
 ---
 

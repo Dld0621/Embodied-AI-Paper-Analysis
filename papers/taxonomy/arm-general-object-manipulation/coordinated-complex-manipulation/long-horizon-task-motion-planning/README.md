@@ -1,12 +1,12 @@
 # Long-horizon & Task-motion Planning · 长时程操作与任务运动规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Long-horizon%20%26%20Task-motion%20Planning#research-workbench)
 
-> 31 conference papers · 194 recent arXiv papers
+> 31 conference papers · 196 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -56,10 +56,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Task and Motion Planning with Large Language Models for Object Rearrangement | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.06247) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342169) | rule-assigned |
 | 2022 | Visually Grounded Task and Motion Planning for Mobile Manipulation | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2202.10667) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812055) | rule-assigned |
 
-## Recent arXiv papers (194)
+## Recent arXiv papers (196)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-06 | PACE: Stage-Consistent Long-Horizon Robot Manipulation via Progress-Aligned Context for Execution | Yenan Chen, Junjie Shi, Lu Chen, Zhongxiang Zhou et al. | [Abstract](https://arxiv.org/abs/2610.07917) · [PDF](https://arxiv.org/pdf/2610.07917) | rule-assigned |
 | 2026-10-01 | OrbitTAMP: Grounding Language Models for Task and Motion Planning in Spacecraft Rendezvous | Yuji Takubo, Daniele Gammelli, Marco Pavone, Simone D'Amico | [Abstract](https://arxiv.org/abs/2610.01093) · [PDF](https://arxiv.org/pdf/2610.01093) | rule-assigned |
 | 2026-09-30 | DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents | Haoyuan Deng, Jiebin Liu, Tengxiao Zhang, Langning Yan et al. | [Abstract](https://arxiv.org/abs/2609.40306) · [PDF](https://arxiv.org/pdf/2609.40306) | rule-assigned |
 | 2026-09-29 | DROM: A Language-Guided Diffusion Framework for Multi-Skill Robotic Manipulation | Vincenzo Pomponi, Rocco Felici, Paolo Franceschi, Stefano Baraldo et al. | [Abstract](https://arxiv.org/abs/2609.37348) · [PDF](https://arxiv.org/pdf/2609.37348) | rule-assigned |
@@ -114,6 +115,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-05 | VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation | Siyi Chen, Hugo Hadfield, Alex Zook, Mikaela Angelina Uy et al. | [Abstract](https://arxiv.org/abs/2606.07723) · [PDF](https://arxiv.org/pdf/2606.07723) | rule-assigned |
 | 2026-06-05 | Task Editing for Generalizable 3D Visuomotor Policy Learning | Jian-Jian Jiang, YiHan Yang, Lan Wei, Yuming Luo et al. | [Abstract](https://arxiv.org/abs/2606.07012) · [PDF](https://arxiv.org/pdf/2606.07012) | rule-assigned |
 | 2026-06-04 | Safe Embodied AI for Long-horizon Tasks: A Cross-layer Analysis of Robotic Manipulation | Dabin Kim, Daemin Park, Sangyub Lee, Jinsik Kim et al. | [Abstract](https://arxiv.org/abs/2606.05660) · [PDF](https://arxiv.org/pdf/2606.05660) | rule-assigned |
+| 2026-05-24 | Dynamic Neural Koopman Distillation for Fast Robot Control Using Diffusion Models | Lei Zheng, Peiqi Yu, Zengqi Peng, Changliu Liu et al. | [Abstract](https://arxiv.org/abs/2605.24924) · [PDF](https://arxiv.org/pdf/2605.24924) | rule-assigned |
 | 2026-05-08 | Hierarchical Prompting with Dual LLM Modules for Robotic Task and Motion Planning | Karolina Źróbek, Tessa Pulli, Paweł Gajewski, Antonio Galiza Cerdeira Gonzalez et al. | [Abstract](https://arxiv.org/abs/2605.08330) · [PDF](https://arxiv.org/pdf/2605.08330) | rule-assigned |
 | 2026-05-07 | CKT-WAM: Parameter-Efficient Context Knowledge Transfer Between World Action Models | Yuhua Jiang, Yijun Guo, Hongbing Yang, Guojun Lei et al. | [Abstract](https://arxiv.org/abs/2605.06247) · [PDF](https://arxiv.org/pdf/2605.06247) | rule-assigned |
 | 2026-05-01 | Thinking in Text and Images: Interleaved Vision--Language Reasoning Traces for Long-Horizon Robot Manipulation | Jinkun Liu, Haohan Chi, Lingfeng Zhang, Yifan Xie et al. | [Abstract](https://arxiv.org/abs/2605.00438) · [PDF](https://arxiv.org/pdf/2605.00438) | rule-assigned |
@@ -163,7 +165,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-09-26 | Log2Plan: An Adaptive GUI Automation Framework Integrated with Task Mining Approach | Seoyoung Lee, Seonbin Yoon, Seongbeen Lee, Hyesoo Kim et al. | [Abstract](https://arxiv.org/abs/2509.22137) · [PDF](https://arxiv.org/pdf/2509.22137) | rule-assigned |
 | 2025-09-26 | From Watch to Imagine: Steering Long-horizon Manipulation via Human Demonstration and Future Envisionment | Ke Ye, Jiaming Zhou, Yuanfeng Qiu, Jiayi Liu et al. | [Abstract](https://arxiv.org/abs/2509.22205) · [PDF](https://arxiv.org/pdf/2509.22205) | rule-assigned |
 | 2025-09-25 | Hybrid Task and Motion Planning with Reactive Collision Handling for Multi-Robot Disassembly of Complex Products: Application to EV Batteries | Abdelaziz Shaarawy, Cansu Erdogan, Rustam Stolkin, Alireza Rastegarpanah | [Abstract](https://arxiv.org/abs/2509.21020) · [PDF](https://arxiv.org/pdf/2509.21020) | rule-assigned |
-| 2025-09-23 | Growing with Your Embodied Agent: A Human-in-the-Loop Lifelong Code Generation Framework for Long-Horizon Manipulation Skills | Yuan Meng, Zhenguo Sun, Max Fest, Xukun Li et al. | [Abstract](https://arxiv.org/abs/2509.18597) · [PDF](https://arxiv.org/pdf/2509.18597) | rule-assigned |
+| 2025-09-23 | Robotic Ultra-Long-Horizon Manipulation Skills via Human-guided Lifelong Code Generation | Yuan Meng, Zhenguo Sun, Max Fest, Xiangtong Yao et al. | [Abstract](https://arxiv.org/abs/2509.18597) · [PDF](https://arxiv.org/pdf/2509.18597) | rule-assigned |
 | 2025-09-23 | FUNCanon: Learning Pose-Aware Action Primitives via Functional Object Canonicalization for Generalizable Robotic Manipulation | Hongli Xu, Lei Zhang, Xiaoyue Hu, Boyang Zhong et al. | [Abstract](https://arxiv.org/abs/2509.19102) · [PDF](https://arxiv.org/pdf/2509.19102) | rule-assigned |
 | 2025-09-22 | RoboSeek: You Need to Interact with Your Objects | Yibo Peng, Jiahao Yang, Shenhao Yan, Ziyu Huang et al. | [Abstract](https://arxiv.org/abs/2509.17783) · [PDF](https://arxiv.org/pdf/2509.17783) | rule-assigned |
 | 2025-09-09 | Decoding RobKiNet: Insights into Efficient Training of Robotic Kinematics Informed Neural Network | Yanlong Peng, Zhigang Wang, Ziwen He, Pengxu Chang et al. | [Abstract](https://arxiv.org/abs/2509.07646) · [PDF](https://arxiv.org/pdf/2509.07646) | rule-assigned |
@@ -191,7 +193,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-04-07 | Lazy-DaSH: Lazy Approach for Hypergraph-based Multi-robot Task and Motion Planning | Seongwon Lee, James Motes, Isaac Ngui, Marco Morales et al. | [Abstract](https://arxiv.org/abs/2504.05552) · [PDF](https://arxiv.org/pdf/2504.05552) | rule-assigned |
 | 2025-04-04 | Energy Efficient Planning for Repetitive Heterogeneous Tasks in Precision Agriculture | Shuangyu Xie, Ken Goldberg, Dezhen Song | [Abstract](https://arxiv.org/abs/2504.03938) · [PDF](https://arxiv.org/pdf/2504.03938) | rule-assigned |
 | 2025-03-28 | REMAC: Self-Reflective and Self-Evolving Multi-Agent Collaboration for Long-Horizon Robot Manipulation | Puzhen Yuan, Angyuan Ma, Yunchao Yao, Huaxiu Yao et al. | [Abstract](https://arxiv.org/abs/2503.22122) · [PDF](https://arxiv.org/pdf/2503.22122) | rule-assigned |
-| 2025-03-27 | Embodied Long Horizon Manipulation with Closed-loop Code Generation and Incremental Few-shot Adaptation | Yuan Meng, Xiangtong Yao, Haihui Ye, Yirui Zhou et al. | [Abstract](https://arxiv.org/abs/2503.21969) · [PDF](https://arxiv.org/pdf/2503.21969) | rule-assigned |
+| 2025-03-27 | Robotic Long-Horizon Manipulation with Progressive In-Context Code Generation and Episodic Feedback | Yuan Meng, Xiangtong Yao, Haihui Ye, Yirui Zhou et al. | [Abstract](https://arxiv.org/abs/2503.21969) · [PDF](https://arxiv.org/pdf/2503.21969) | rule-assigned |
+| 2025-03-27 | Robotic Long-Horizon Manipulation with Bayesian Non-parametric Skill Priors | Yuan Meng, Xiangtong Yao, Yansong Wu, Liding Zhang et al. | [Abstract](https://arxiv.org/abs/2503.21975) · [PDF](https://arxiv.org/pdf/2503.21975) | rule-assigned |
 | 2025-03-10 | Unlocking Generalization for Robotics via Modularity and Scale | Murtaza Dalal | [Abstract](https://arxiv.org/abs/2503.06814) · [PDF](https://arxiv.org/pdf/2503.06814) | rule-assigned |
 | 2025-03-10 | A Task and Motion Planning Framework Using Iteratively Deepened AND/OR Graph Networks | Hossein Karami, Antony Thomas, Fulvio Mastrogiovanni | [Abstract](https://arxiv.org/abs/2503.07700) · [PDF](https://arxiv.org/pdf/2503.07700) | rule-assigned |
 | 2025-02-28 | RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete | Yuheng Ji, Huajie Tan, Jiayu Shi, Xiaoshuai Hao et al. | [Abstract](https://arxiv.org/abs/2502.21257) · [PDF](https://arxiv.org/pdf/2502.21257) | rule-assigned |
@@ -253,7 +256,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-12 | Universal Visual Decomposer: Long-Horizon Manipulation Made Easy | Zichen Zhang, Yunshuang Li, Osbert Bastani, Abhishek Gupta et al. | [Abstract](https://arxiv.org/abs/2310.08581) · [PDF](https://arxiv.org/pdf/2310.08581) | rule-assigned |
 | 2023-10-12 | An Experience-based TAMP Framework for Foliated Manifolds | Jiaming Hu, Shrutheesh R. Iyer, Henrik I. Christensen | [Abstract](https://arxiv.org/abs/2310.08494) · [PDF](https://arxiv.org/pdf/2310.08494) | rule-assigned |
 | 2023-10-11 | CoPAL: Corrective Planning of Robot Actions with Large Language Models | Frank Joublin, Antonello Ceravola, Pavel Smirnov, Felix Ocker et al. | [Abstract](https://arxiv.org/abs/2310.07263) · [PDF](https://arxiv.org/pdf/2310.07263) | rule-assigned |
-| 2023-10-04 | R-LGP: A Reachability-guided Logic-geometric Programming Framework for Optimal Task and Motion Planning on Mobile Manipulators | Kim Tien Ly, Valeriy Semenov, Mattia Risiglione, Wolfgang Merkt et al. | [Abstract](https://arxiv.org/abs/2310.02791) · [PDF](https://arxiv.org/pdf/2310.02791) | rule-assigned |
 
 ---
 

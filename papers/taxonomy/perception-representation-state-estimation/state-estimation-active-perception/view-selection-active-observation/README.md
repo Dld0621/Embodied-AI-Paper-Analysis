@@ -1,12 +1,12 @@
 # View Selection & Active Observation · 视角选择与主动观测
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=State%20Estimation%20%26%20Active%20Perception&specialty=View%20Selection%20%26%20Active%20Observation#research-workbench)
 
-> 10 conference papers · 60 recent arXiv papers
+> 10 conference papers · 61 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -35,10 +35,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Decentralised Active Perception in Continuous Action Spaces for the Coordinated Escort Problem | ICRA · Active Perception | [Paper](https://arxiv.org/abs/2305.01869) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161026) | rule-assigned |
 | 2023 | Learning Continuous Control Policies for Information-Theoretic Active Perception | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2209.12427) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160455) | rule-assigned |
 
-## Recent arXiv papers (60)
+## Recent arXiv papers (61)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-03 | ROMA: LLM System for Real-World Object-Centric Multi-Sensory Active Perception | Ruoxuan Feng, Yutong Chen, Ruihua Song, Huan Yang et al. | [Abstract](https://arxiv.org/abs/2610.06955) · [PDF](https://arxiv.org/pdf/2610.06955) | rule-assigned |
 | 2026-09-27 | DeltaSeek: Toward Active Perception in Evolving Construction Environments | Sanjay Acharjee, Md Nazmus Sakib | [Abstract](https://arxiv.org/abs/2609.33836) · [PDF](https://arxiv.org/pdf/2609.33836) | rule-assigned |
 | 2026-09-26 | Vision-Language Agents for Active Perception in Optics Laboratories | Ryan Lopez, Sachin Vaidya, Seou Choi, Serena Landers et al. | [Abstract](https://arxiv.org/abs/2609.32918) · [PDF](https://arxiv.org/pdf/2609.32918) | rule-assigned |
 | 2026-09-22 | Robust Active-Perception Control for Global-State-Free Aerial-Ground Cooperation | Mingxuan Zhang, Jiajun Yu, Baozhe Zhang, Pengxiang Zhou et al. | [Abstract](https://arxiv.org/abs/2609.25898) · [PDF](https://arxiv.org/pdf/2609.25898) | rule-assigned |

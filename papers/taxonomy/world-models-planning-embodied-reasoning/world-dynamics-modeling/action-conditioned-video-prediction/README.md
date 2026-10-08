@@ -1,12 +1,12 @@
 # Action-conditioned Video Prediction · 动作条件视频预测
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=World%20%26%20Dynamics%20Modeling&specialty=Action-conditioned%20Video%20Prediction#research-workbench)
 
-> 3 conference papers · 78 recent arXiv papers
+> 3 conference papers · 89 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,11 +28,20 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | SAMPO:Scale-wise Autoregression with Motion PrOmpt for generative world models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2509.15536) · [Index](https://dblp.org/rec/conf/nips/WangTWLLDXZTH25) | rule-assigned |
 | 2024 | iVideoGPT: Interactive VideoGPTs are Scalable World Models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2405.15223) · [Index](https://dblp.org/rec/journals/corr/abs-2405-15223) | rule-assigned |
 
-## Recent arXiv papers (78)
+## Recent arXiv papers (89)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
-| 2026-10-01 | UniWAM: Unified World-Action Model | Jiayi Chen, Wenxuan Song, Jingbo Wang, Shuai Zhou et al. | [Abstract](https://arxiv.org/abs/2610.02054) · [PDF](https://arxiv.org/pdf/2610.02054) | rule-assigned |
+| 2026-10-07 | Video Prediction Policy 2: Predict Better, Act Better | Yanjiang Guo, Haodong Yan, Zhide Zhong, Zhongru Zhang et al. | [Abstract](https://arxiv.org/abs/2610.10270) · [PDF](https://arxiv.org/pdf/2610.10270) | rule-assigned |
+| 2026-10-07 | RealtimeWAM: How Fast Can I Run My World Action Model? | Huanan Liu, Ye Li, Kangye Ji, Xiaoyu Chen et al. | [Abstract](https://arxiv.org/abs/2610.10079) · [PDF](https://arxiv.org/pdf/2610.10079) | rule-assigned |
+| 2026-10-07 | Long-WAM: Scaling the Context of World-Action Models | Wei Huang, Bohan Zhang, Chenzhi Liu, Isabella Liu et al. | [Abstract](https://arxiv.org/abs/2610.10528) · [PDF](https://arxiv.org/pdf/2610.10528) | reviewed |
+| 2026-10-06 | OpenWAM: An Open Framework for Composable World-Action Models | Heng Yu, David D. Yuan, Juze Zhang, Changan Chen et al. | [Abstract](https://arxiv.org/abs/2610.07922) · [PDF](https://arxiv.org/pdf/2610.07922) | rule-assigned |
+| 2026-10-02 | XGenAct: Geometry-Enhanced World Action Models through Cross-Task Generation | Tingting Du, Ziyao Wang, Guoheng Sun, Ang Li | [Abstract](https://arxiv.org/abs/2610.03516) · [PDF](https://arxiv.org/pdf/2610.03516) | rule-assigned |
+| 2026-10-01 | World Action Modeling with Progressive Visual Planning | Fei Zhang, Zhaochong An, Duncan Frost, Yikai Wang et al. | [Abstract](https://arxiv.org/abs/2610.02508) · [PDF](https://arxiv.org/pdf/2610.02508) | rule-assigned |
+| 2026-10-01 | WAMJET: A Harness for World Action Model Acceleration | Le Chen, Lixin Liu, Jan Schneider, Zeju Qiu et al. | [Abstract](https://arxiv.org/abs/2610.03797) · [PDF](https://arxiv.org/pdf/2610.03797) | rule-assigned |
+| 2026-10-01 | UniWAM: Unified World-Action Model | Wenxuan Song, Jiayi Chen, Jingbo Wang, Shuai Zhou et al. | [Abstract](https://arxiv.org/abs/2610.02054) · [PDF](https://arxiv.org/pdf/2610.02054) | rule-assigned |
+| 2026-10-01 | Keep the Effect, Drop the Actor: Programmable Effect-to-Execution World-Action Models | Junyi Hu, Zhewen He, Zhenhua Li, Yi Fang | [Abstract](https://arxiv.org/abs/2610.02398) · [PDF](https://arxiv.org/pdf/2610.02398) | rule-assigned |
+| 2026-10-01 | Awomo-SimDataEngine: Agentic Simulation-ReadyWorld Generation | Awomo-PhysicalRSI Team, Danjiao Ma, Enhui Ma, Haohan Liu et al. | [Abstract](https://arxiv.org/abs/2610.02274) · [PDF](https://arxiv.org/pdf/2610.02274) | rule-assigned |
 | 2026-10-01 | ActiveWAM: Evidence-Aware Active Vision for World-Action Models | Renjun Wu, Luzhou Ge, Xuesong Li | [Abstract](https://arxiv.org/abs/2610.01698) · [PDF](https://arxiv.org/pdf/2610.01698) | rule-assigned |
 | 2026-09-30 | Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning? | Zhihao Sun, Liu Liu, Xinjiang Wang, Haoyi Jiang et al. | [Abstract](https://arxiv.org/abs/2609.40341) · [PDF](https://arxiv.org/pdf/2609.40341) | rule-assigned |
 | 2026-09-29 | V2X-WAM: A Cooperative World Action Model for End-to-End Autonomous Driving | Junwei You, Weizhe Tang, Can Wang, Yan Zhao et al. | [Abstract](https://arxiv.org/abs/2609.37098) · [PDF](https://arxiv.org/pdf/2609.37098) | rule-assigned |
@@ -58,6 +67,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-28 | AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction | Yafei Zhang, Nan Wu | [Abstract](https://arxiv.org/abs/2608.28491) · [PDF](https://arxiv.org/pdf/2608.28491) | rule-assigned |
 | 2026-08-27 | Riemann-1.0: An Embodied World Action Model for Physical AI | Haofeng Sun, Jiangbo Pei, Fei Kang, Zexiang Liu et al. | [Abstract](https://arxiv.org/abs/2608.27033) · [PDF](https://arxiv.org/pdf/2608.27033) | rule-assigned |
 | 2026-08-24 | GeoWAM: Visual Geometry World Action Models for Autonomous Driving | Yiren Lu, Xin Ye, Jiaming Liu, Philip Jacobson et al. | [Abstract](https://arxiv.org/abs/2608.23486) · [PDF](https://arxiv.org/pdf/2608.23486) | rule-assigned |
+| 2026-08-23 | WAM-OPD: Joint Video-Action Supervision for World Action Model Post-Training with On-Policy Distillation | Liuhaichen Yang, Zhengyang Zhong, Hanshang Zhu, Ningwei Bai et al. | [Abstract](https://arxiv.org/abs/2608.22364) · [PDF](https://arxiv.org/pdf/2608.22364) | rule-assigned |
 | 2026-08-18 | Hydra-0: Action Flow for Generalist World Modeling and Control | Hongyu Li, Bowen Wen, Xinghao Zhu, Yixuan Wang et al. | [Abstract](https://arxiv.org/abs/2608.18077) · [PDF](https://arxiv.org/pdf/2608.18077) | rule-assigned |
 | 2026-08-13 | DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation | DreamX Team, Rui Chen, Xiangxiang Chu, Geng Li et al. | [Abstract](https://arxiv.org/abs/2608.13489) · [PDF](https://arxiv.org/pdf/2608.13489) | rule-assigned |
 | 2026-08-11 | Flex-$π$: A Multi-Stream World-Action Model with Compute Flexibility | Ge Yan, Jinghao Liu, Yuzhi Fan, Lei Cai et al. | [Abstract](https://arxiv.org/abs/2608.10860) · [PDF](https://arxiv.org/pdf/2608.10860) | rule-assigned |
@@ -67,6 +77,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-06 | Adaptive-WAM: Quality-Guided Early-Exit Planning from Intermediate Video-Diffusion Features | Sining Ang, Yuguang Yang, Yan Wang | [Abstract](https://arxiv.org/abs/2608.06008) · [PDF](https://arxiv.org/pdf/2608.06008) | rule-assigned |
 | 2026-08-05 | Overcoming Statistical Bias in Action-Controllable World Models | Yuhong Shi, Zhenhao Chu, Jie Wei, Jun Hao et al. | [Abstract](https://arxiv.org/abs/2608.04653) · [PDF](https://arxiv.org/pdf/2608.04653) | rule-assigned |
 | 2026-08-05 | DreamWAM: Beyond RGB Future Prediction for World Action Models | Shanglin Yuan, Weiheng Zhao, Xin Shi, Haoyi Jiang et al. | [Abstract](https://arxiv.org/abs/2608.04996) · [PDF](https://arxiv.org/pdf/2608.04996) | rule-assigned |
+| 2026-08-03 | Faster-WAM: Do World Action Models Need Deep Action Modules? | Liheng Ma, Rui Heng Yang, Amin Abyaneh, George Z. Xue et al. | [Abstract](https://arxiv.org/abs/2608.02365) · [PDF](https://arxiv.org/pdf/2608.02365) | rule-assigned |
 | 2026-08-01 | SelfWAM: A Self-Grounded Unified World Action Model for Fast Robot Control | Bikang Pan, Fan Liu, Haotao Lu, Jingya Wang et al. | [Abstract](https://arxiv.org/abs/2608.00725) · [PDF](https://arxiv.org/pdf/2608.00725) | rule-assigned |
 | 2026-07-28 | DC-WAM: Dynamic-Centric Visual Supervision and Reasoning for World-Action Models | Haoyuan Ji, Lingxiang Fan, Shang Su, Yinqiao Lu et al. | [Abstract](https://arxiv.org/abs/2607.25918) · [PDF](https://arxiv.org/pdf/2607.25918) | rule-assigned |
 | 2026-07-24 | Robot-Factored World Models via Robot Rendering | Byungjun Kim, Taeksoo Kim, Hyunsoo Cha, Hanbyul Joo | [Abstract](https://arxiv.org/abs/2607.22535) · [PDF](https://arxiv.org/pdf/2607.22535) | rule-assigned |

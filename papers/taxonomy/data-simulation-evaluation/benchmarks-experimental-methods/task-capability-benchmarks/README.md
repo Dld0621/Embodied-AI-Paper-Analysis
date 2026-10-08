@@ -1,12 +1,12 @@
 # Task & Capability Benchmarks · 任务与能力基准
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Experimental%20Methods&specialty=Task%20%26%20Capability%20Benchmarks#research-workbench)
 
-> 77 conference papers · 640 recent arXiv papers
+> 77 conference papers · 658 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -102,12 +102,28 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2201.09863) · [Index](https://dblp.org/rec/conf/nips/BhatiaJTXM21) | rule-assigned |
 | 2022 | VLMbench: A Compositional Benchmark for Vision-and-Language Manipulation | NeurIPS · Language manipulation benchmark | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/04543a88eae2683133c1acbef5a6bf77-Abstract-Datasets_and_Benchmarks.html) · [Official](https://proceedings.neurips.cc/paper_files/paper/2022/hash/04543a88eae2683133c1acbef5a6bf77-Abstract-Datasets_and_Benchmarks.html) | rule-assigned |
 
-## Recent arXiv papers (640)
+## Recent arXiv papers (658)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | RobotWorld: Benchmarking Multimodal Agents for Robot Use Across Diverse Tasks and Embodiments | Zhiqin Yang, Chenxin Li, Xiaomeng Hu, Yibin Liu et al. | [Abstract](https://arxiv.org/abs/2610.10409) · [PDF](https://arxiv.org/pdf/2610.10409) | rule-assigned |
+| 2026-10-07 | Lifelong small-object navigation in changing object layouts: a benchmark and method | Jiagan Huang, Zikun Zhou, Zijian Ni, Hongpeng Wang et al. | [Abstract](https://arxiv.org/abs/2610.10125) · [PDF](https://arxiv.org/pdf/2610.10125) | rule-assigned |
+| 2026-10-07 | Benchmarking Behavioral Steerability in Behavior Foundation Models | Minghe Gao, Zhanxi Yan, Jiahui Liu, Wendong Bu et al. | [Abstract](https://arxiv.org/abs/2610.10198) · [PDF](https://arxiv.org/pdf/2610.10198) | rule-assigned |
+| 2026-10-07 | AirGroundVLN: A Large-Scale Benchmark for Goal-Oriented Air-Ground Collaborative Vision-and-Language Navigation | Zhenxuan Zeng, Qingle Wu, Wei Suo, Maojia Wu et al. | [Abstract](https://arxiv.org/abs/2610.10421) · [PDF](https://arxiv.org/pdf/2610.10421) | rule-assigned |
+| 2026-10-06 | Towards an Extensible Benchmark for Spoken Dialogue with Social Robots | Casey Kennington, Ross Mead, Saad Elbeleidy, Jesse Thomason | [Abstract](https://arxiv.org/abs/2610.08733) · [PDF](https://arxiv.org/pdf/2610.08733) | rule-assigned |
+| 2026-10-06 | Nine Trials to Recover: A Reproducible Benchmark for Repertoire-Free Soft-Robot Damage Adaptation | Siyuan Zhang | [Abstract](https://arxiv.org/abs/2610.07616) · [PDF](https://arxiv.org/pdf/2610.07616) | rule-assigned |
+| 2026-10-06 | HygieneRoboBench: Benchmarking Hygiene-Aware Planning for Household Robots | Yurun Chen, Josh Qixuan Sun, Jason Qin, Chengtai Li et al. | [Abstract](https://arxiv.org/abs/2610.08642) · [PDF](https://arxiv.org/pdf/2610.08642) | rule-assigned |
+| 2026-10-05 | TAPDreamer: Transferable Adversarial Patches for World Action Models | Xuanyu Lu, Fengqing Jiang, Kaiyuan Zheng, Yichen Feng et al. | [Abstract](https://arxiv.org/abs/2610.06814) · [PDF](https://arxiv.org/pdf/2610.06814) | rule-assigned |
+| 2026-10-05 | Radar2Plan: Benchmarking 4D Radar for End-to-End Open-Loop Ego-Trajectory Planning | Ling Yao, Yichun Xiao, Jin Jin, Yihan Zhang et al. | [Abstract](https://arxiv.org/abs/2610.06121) · [PDF](https://arxiv.org/pdf/2610.06121) | rule-assigned |
+| 2026-10-05 | Odyssey: A Closed-Loop Benchmark for Long-Horizon Real-World Driving with Explicit Navigation Routes | Jungho Kim, Hongjae Shin, Seunghoon Yu, Heecheol Yoo et al. | [Abstract](https://arxiv.org/abs/2610.06469) · [PDF](https://arxiv.org/pdf/2610.06469) | rule-assigned |
+| 2026-10-05 | Benchmarking Generative Trajectory Models for Active-Inference Control | Yulin Li, Mohsen A. Jafari, Andrea Matta | [Abstract](https://arxiv.org/abs/2610.05692) · [PDF](https://arxiv.org/pdf/2610.05692) | rule-assigned |
+| 2026-10-04 | RMMBench: A Comprehensive Benchmark for Robotic Mobile Manipulation | Huapeng Li, Fuxiang Feng, Jinqiu Fan, Shuo Yang et al. | [Abstract](https://arxiv.org/abs/2610.05414) · [PDF](https://arxiv.org/pdf/2610.05414) | rule-assigned |
+| 2026-10-03 | WasserMan: Benchmark for Underwater Manipulation Policy Learning | Danil Belov, Artem Erkhov, Sergei Parsegov, Pavel Osinenko | [Abstract](https://arxiv.org/abs/2610.04536) · [PDF](https://arxiv.org/pdf/2610.04536) | rule-assigned |
+| 2026-10-03 | Video2World: Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos | Jinzhou Tang, Zijun Zhang, Jing Yang, Yuchen Yan et al. | [Abstract](https://arxiv.org/abs/2610.04432) · [PDF](https://arxiv.org/pdf/2610.04432) | rule-assigned |
+| 2026-10-03 | Grounded in Time: A Multi-Source Dataset and Benchmark for Temporal Grounding in Robotic Manipulation | Yi Wang, Yang Yang, Guangqi Xu, Sumin Lin et al. | [Abstract](https://arxiv.org/abs/2610.04255) · [PDF](https://arxiv.org/pdf/2610.04255) | rule-assigned |
 | 2026-10-01 | Watch, Infer, Coordinate: Inferring Robot Partner Constraints for Zero-Shot Coordination | Suyu Ye, Zheyuan Zhang, Vaishnav Tadiparthi, Hossein Nourkhiz Mahjoub et al. | [Abstract](https://arxiv.org/abs/2610.02170) · [PDF](https://arxiv.org/pdf/2610.02170) | rule-assigned |
 | 2026-10-01 | PhysicsLENS: Diagnosing Physical Property Blindness in Video Generation Models | Isaiah Milkey, Som Sagar, Aditya Taparia, Xinyuan Liu et al. | [Abstract](https://arxiv.org/abs/2610.01162) · [PDF](https://arxiv.org/pdf/2610.01162) | rule-assigned |
+| 2026-10-01 | Co-design Gym: A Unified Benchmark for Embodiment-Policy Co-optimization | Aviraj Newatia, Yordan Tsvetkov, Leonard Pleiss, Andrew Spielberg et al. | [Abstract](https://arxiv.org/abs/2610.02366) · [PDF](https://arxiv.org/pdf/2610.02366) | rule-assigned |
 | 2026-09-30 | Neuro-Symbolic Predicate Learning for Semantic Safe Robot Control | Zihan Ye, Jiayi Liu, Puze Liu, Jiayun Li et al. | [Abstract](https://arxiv.org/abs/2609.39594) · [PDF](https://arxiv.org/pdf/2609.39594) | rule-assigned |
 | 2026-09-30 | Does Continual Imitation Learning Remain Grounded? A Language-Perturbed Benchmark for Robotic Task Retention | Siddeshwar Raghavan, Ziqin Yuan, Fengqing Zhu, Byung-Cheol Min | [Abstract](https://arxiv.org/abs/2610.00542) · [PDF](https://arxiv.org/pdf/2610.00542) | rule-assigned |
 | 2026-09-29 | RoboChrono: A Real Robot Benchmark for Streaming Task Understanding | Yuzhou Wu, Longteng Fan, Zimeng Li, Yu Wanchan et al. | [Abstract](https://arxiv.org/abs/2609.36605) · [PDF](https://arxiv.org/pdf/2609.36605) | rule-assigned |
@@ -268,7 +284,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-02 | eMEM: A Hybrid Spatio-Temporal Memory System For Embodied Agents | A. Haroon Rasheed, Maria Kabtoul | [Abstract](https://arxiv.org/abs/2606.03374) · [PDF](https://arxiv.org/pdf/2606.03374) | rule-assigned |
 | 2026-06-02 | DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics | Junyi Cao, Yian Wang, Ziyan Xiong, Chunru Lin et al. | [Abstract](https://arxiv.org/abs/2606.04206) · [PDF](https://arxiv.org/pdf/2606.04206) | rule-assigned |
 | 2026-06-02 | CADET: A Modular Platform for Evaluating Distributed Cooperative Autonomy in Connected Autonomous Vehicles | Pragya Sharma, Brian Wang, Mani Srivastava | [Abstract](https://arxiv.org/abs/2606.04072) · [PDF](https://arxiv.org/pdf/2606.04072) | rule-assigned |
-| 2026-05-30 | SafeVLA-Bench: A Benchmark for the Success-Safety Gap in Vision-Language-Action Models | Jialiang Fan, Weizhe Xu, Zijun Wang, Fanxin Kong et al. | [Abstract](https://arxiv.org/abs/2606.00773) · [PDF](https://arxiv.org/pdf/2606.00773) | rule-assigned |
+| 2026-05-30 | SafeVLA-Bench: A Benchmark for the Success-Safety Gap in Vision-Language-Action Models | Jialiang Fan, Weizhe Xu, Zijun Wang, Oleg Sokolsky et al. | [Abstract](https://arxiv.org/abs/2606.00773) · [PDF](https://arxiv.org/pdf/2606.00773) | rule-assigned |
 | 2026-05-29 | WristCompass: Kinematic Coupling as a Learnable Visual Concept for Ego-Camera Orientation | Varun Nair, Vidyut Baradwaj, Jiahang He, Anya Singh et al. | [Abstract](https://arxiv.org/abs/2605.30671) · [PDF](https://arxiv.org/pdf/2605.30671) | rule-assigned |
 | 2026-05-28 | PInVerify: An Offline Embodied Benchmark for Active Instance Verification | Yuhang Jiang | [Abstract](https://arxiv.org/abs/2605.30639) · [PDF](https://arxiv.org/pdf/2605.30639) | rule-assigned |
 | 2026-05-28 | PhAIL: A Real-Robot VLA Benchmark and Distributional Methodology | Sergey Arkhangelskiy | [Abstract](https://arxiv.org/abs/2605.29710) · [PDF](https://arxiv.org/pdf/2605.29710) | rule-assigned |
@@ -357,6 +373,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-03-04 | RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies | Yinpei Dai, Hongze Fu, Jayjun Lee, Yuejiang Liu et al. | [Abstract](https://arxiv.org/abs/2603.04639) · [PDF](https://arxiv.org/pdf/2603.04639) | rule-assigned |
 | 2026-03-04 | MistyPilot: An Agentic Fast-Slow Thinking LLM Framework for Misty Social Robots | Xiao Wang, Lu Dong, Jingchen Sun, Ifeoma Nwogu et al. | [Abstract](https://arxiv.org/abs/2603.03640) · [PDF](https://arxiv.org/pdf/2603.03640) | rule-assigned |
 | 2026-03-04 | Long-Term Visual Localization in Dynamic Benthic Environments: A Dataset, Footprint-Based Ground Truth, and Visual Place Recognition Benchmark | Martin Kvisvik Larsen, Oscar Pizarro | [Abstract](https://arxiv.org/abs/2603.04056) · [PDF](https://arxiv.org/pdf/2603.04056) | rule-assigned |
+| 2026-03-02 | Same Pieces, Different Servers: A Tetris Benchmark for AI Agents as Served | Haochuan Wang | [Abstract](https://arxiv.org/abs/2603.02348) · [PDF](https://arxiv.org/pdf/2603.02348) | rule-assigned |
 | 2026-03-02 | LAD-Drive: Bridging Language and Trajectory with Action-Aware Diffusion Transformers | Fabian Schmidt, Karol Fedurko, Markus Enzweiler, Abhinav Valada | [Abstract](https://arxiv.org/abs/2603.02035) · [PDF](https://arxiv.org/pdf/2603.02035) | rule-assigned |
 | 2026-03-01 | RMBench: Memory-Dependent Robotic Manipulation Benchmark with Insights into Policy Design | Tianxing Chen, Yuran Wang, Mingleyang Li, Yan Qin et al. | [Abstract](https://arxiv.org/abs/2603.01229) · [PDF](https://arxiv.org/pdf/2603.01229) | rule-assigned |
 | 2026-03-01 | An Open-Source Modular Benchmark for Diffusion-Based Motion Planning in Closed-Loop Autonomous Driving | Yun Li, Simon Thompson, Yidu Zhang, Ehsan Javanmardi et al. | [Abstract](https://arxiv.org/abs/2603.01023) · [PDF](https://arxiv.org/pdf/2603.01023) | rule-assigned |
@@ -448,6 +465,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-09-29 | LLM-RG: Referential Grounding in Outdoor Scenarios using Large Language Models | Pranav Saxena, Avigyan Bhattacharya, Ji Zhang, Wenshan Wang | [Abstract](https://arxiv.org/abs/2509.25528) · [PDF](https://arxiv.org/pdf/2509.25528) | rule-assigned |
 | 2025-09-28 | DriveE2E: Closed-Loop Benchmark for End-to-End Autonomous Driving through Real-to-Simulation | Haibao Yu, Wenxian Yang, Ruiyang Hao, Chuanye Wang et al. | [Abstract](https://arxiv.org/abs/2509.23922) · [PDF](https://arxiv.org/pdf/2509.23922) | rule-assigned |
 | 2025-09-26 | Pixel Motion Diffusion is What We Need for Robot Control | E-Ro Nguyen, Yichi Zhang, Kanchana Ranasinghe, Xiang Li et al. | [Abstract](https://arxiv.org/abs/2509.22652) · [PDF](https://arxiv.org/pdf/2509.22652) | rule-assigned |
+| 2025-09-26 | HARL-A: An Extensible Benchmark Framework for Heterogeneous Multi-Agent Adversarial Reinforcement Learning in IsaacLab | Isaac Peterson, Christopher Allred, Jacob Morrey, Mario Harper | [Abstract](https://arxiv.org/abs/2510.01264) · [PDF](https://arxiv.org/pdf/2510.01264) | rule-assigned |
 | 2025-09-26 | Benchmarking Autonomous Driving Planners Across Leaderboards: A Unified CARLA-Based Evaluation | Merve Atasever, Alfredo Reina Corona, Zhuochen Liu, Qingpei Li et al. | [Abstract](https://arxiv.org/abs/2509.22754) · [PDF](https://arxiv.org/pdf/2509.22754) | rule-assigned |
 | 2025-09-25 | Automotive-ENV: Benchmarking Multimodal Agents in Vehicle Interface Systems | Junfeng Yan, Biao Wu, Meng Fang, Ling Chen | [Abstract](https://arxiv.org/abs/2509.21143) · [PDF](https://arxiv.org/pdf/2509.21143) | rule-assigned |
 | 2025-09-24 | Trajectory Planning Using Safe Ellipsoidal Corridors as Projections of Orthogonal Trust Regions | Akshay Jaitly, Jon Arrizabalaga, Guanrui Li | [Abstract](https://arxiv.org/abs/2509.19734) · [PDF](https://arxiv.org/pdf/2509.19734) | rule-assigned |

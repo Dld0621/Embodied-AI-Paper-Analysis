@@ -1,16 +1,33 @@
 # Pending specialty review · 待审专题 · arXiv 2026
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 516 papers · complete list for this taxonomy leaf
+> 531 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | Targeted Modality Dropout for Real-Robot Manipulation Robust to Intermittent Vision Loss | Genki Shikada, Kazuki Osamura, Masaru Ide, Tetsuya Ogata et al. | [Abstract](https://arxiv.org/abs/2610.09566) · [PDF](https://arxiv.org/pdf/2610.09566) | needs-review |
+| 2026-10-07 | RobotAPO: Adversarial Physics Preference Optimization for Robotic Manipulation Video Generation | Kerui Li, Zhe Jing, Chenyi Huang, Xiaofeng Wang et al. | [Abstract](https://arxiv.org/abs/2610.09454) · [PDF](https://arxiv.org/pdf/2610.09454) | needs-review |
+| 2026-10-07 | Contact-Aware Imitation Learning Through Contact Factorization | Jiho Hong, Daeun Song, Sanghyun Kim, Mingyo Seo | [Abstract](https://arxiv.org/abs/2610.09533) · [PDF](https://arxiv.org/pdf/2610.09533) | needs-review |
+| 2026-10-06 | Towards Efficient Robotic Manipulation Models with Self-Recursive Pruning | Zijia Chen, Yuenan Hou, Yu Li, Weijie Li et al. | [Abstract](https://arxiv.org/abs/2610.08555) · [PDF](https://arxiv.org/pdf/2610.08555) | needs-review |
+| 2026-10-06 | PhysEvo: Astra Can Act, Let It | Wenqing Tian, Zeyu Zhang, Zhaocheng Liu, Fengwei Liu et al. | [Abstract](https://arxiv.org/abs/2610.08995) · [PDF](https://arxiv.org/pdf/2610.08995) | needs-review |
+| 2026-10-06 | PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation | Kun Song, Yiming Wang, Yilin Chen, Tianyi Ding et al. | [Abstract](https://arxiv.org/abs/2610.08784) · [PDF](https://arxiv.org/pdf/2610.08784) | needs-review |
+| 2026-10-06 | Learning Grasp Targeting from Point Clouds for Log Pile Clearing on a Hydraulic Crane | George Sideris, Lucas Bessai, Heshan Fernando, Elie Ayoub et al. | [Abstract](https://arxiv.org/abs/2610.07613) · [PDF](https://arxiv.org/pdf/2610.07613) | needs-review |
+| 2026-10-06 | IronMan: Information-Constrained Video-Action Learning for Robot Manipulation | Yuanshuo Zhang, Wenzhe Zhao, Zixing Lei, Bin Chen et al. | [Abstract](https://arxiv.org/abs/2610.07961) · [PDF](https://arxiv.org/pdf/2610.07961) | needs-review |
+| 2026-10-06 | CoRE: Learning Collaboration-Role Experts for Decentralized Collaborative Manipulation with One Policy | Yanan Zhou, Zhaoyan Qian, Zihao Li, Mingyuan Ba et al. | [Abstract](https://arxiv.org/abs/2610.07752) · [PDF](https://arxiv.org/pdf/2610.07752) | needs-review |
+| 2026-10-06 | Commit While Futures Agree: Consequence-Aware Adaptive Action Chunking for Robot Manipulation | Yuyan Li, Yujia Wang, Yusong Huang, Junjie Yang et al. | [Abstract](https://arxiv.org/abs/2610.07949) · [PDF](https://arxiv.org/pdf/2610.07949) | needs-review |
+| 2026-10-05 | Towards Robust Prehensile Manipulation in Open-Ended Environments | Mathilde Kappel, Mahdi Khoramshahi, Louis Annabi, Faïz Ben Amar et al. | [Abstract](https://arxiv.org/abs/2610.06376) · [PDF](https://arxiv.org/pdf/2610.06376) | needs-review |
+| 2026-10-05 | SharedKV-BT: Node-Local Typed Decisions for Behavior-Tree Agents | Naoki Wake, Justin Wagle | [Abstract](https://arxiv.org/abs/2610.07327) · [PDF](https://arxiv.org/pdf/2610.07327) | needs-review |
+| 2026-10-05 | Demonstration-Calibrated Port-Hamiltonian Retuning for Manipulation Policies | Yulong Yang, Fan Wu, Christine Allen-Blanchette, Amit Chakraborty | [Abstract](https://arxiv.org/abs/2610.05755) · [PDF](https://arxiv.org/pdf/2610.05755) | needs-review |
+| 2026-10-04 | Recursive Self-Improvement of Visuomotor Policies through Local Recovery Supervision | Yuzhi Zhang, Xinyu Liu, Yu Zhang | [Abstract](https://arxiv.org/abs/2610.05151) · [PDF](https://arxiv.org/pdf/2610.05151) | needs-review |
+| 2026-10-02 | Skill2Real: Agentic Skill Learning for Zero-Shot Sim-to-Real Robot Manipulation | Xincheng He, Siyu Ma, Chang Yu, Yunuo Chen et al. | [Abstract](https://arxiv.org/abs/2610.02788) · [PDF](https://arxiv.org/pdf/2610.02788) | needs-review |
+| 2026-10-02 | AdaTempo: Learning Shared Relative Tempo from Demonstrations for Faster Robot Manipulation | Jiale Cao, Yike Niu, Zhengrong Xue, Huazhe Xu | [Abstract](https://arxiv.org/abs/2610.02706) · [PDF](https://arxiv.org/pdf/2610.02706) | needs-review |
 | 2026-10-01 | SkeleWAM: Skeleton World-Action Modeling for Efficient Robotic Manipulation | Juyi Sheng, Hua Wang, Mengyuan Liu | [Abstract](https://arxiv.org/abs/2610.02120) · [PDF](https://arxiv.org/pdf/2610.02120) | needs-review |
+| 2026-10-01 | Rethinking World-Action Model for Compositional and In-Context Robotic Manipulation | Shukai Gong, Xuanran Zhai, Yintianrun Zhang, Ruopeng Cui et al. | [Abstract](https://arxiv.org/abs/2610.02368) · [PDF](https://arxiv.org/pdf/2610.02368) | needs-review |
 | 2026-10-01 | Recova: Agent-Guided Failure Recovery for Autonomous Robotic Manipulation | Isabella Liu, An-Chieh Cheng, Johan Bjorck, Zhiding Yu et al. | [Abstract](https://arxiv.org/abs/2610.01178) · [PDF](https://arxiv.org/pdf/2610.01178) | needs-review |
 | 2026-09-30 | Token-World: World Modeling in Vision-Language Model Token Space for Robot Manipulation | Chuyao Fu, Xiaowei Chi, Yuhan Rui, Yu-kai Wang et al. | [Abstract](https://arxiv.org/abs/2610.00575) · [PDF](https://arxiv.org/pdf/2610.00575) | needs-review |
 | 2026-09-30 | Scale and Selection: What Makes Automatic Harness Evolution Work for Visual-Interface Robot Agents | Zhijie Wei, Ferris Tan, Jinghui Wang | [Abstract](https://arxiv.org/abs/2609.39304) · [PDF](https://arxiv.org/pdf/2609.39304) | needs-review |
@@ -88,7 +105,6 @@
 | 2026-09-17 | LIFD: Anchored Diffusion for 3D-Aware Scene Memory in Robotic Manipulation | Wenbo Li, Yiteng Chen, Wenhao Li, Qingyao Wu | [Abstract](https://arxiv.org/abs/2609.19796) · [PDF](https://arxiv.org/pdf/2609.19796) | needs-review |
 | 2026-09-17 | Graph-Based Design of Soft Grippers with Multi-Objective Quality-Diversity Optimisation | Andre Farinha, Ge Shi, Harry Bowman, Brendan Tidd et al. | [Abstract](https://arxiv.org/abs/2609.20087) · [PDF](https://arxiv.org/pdf/2609.20087) | needs-review |
 | 2026-09-17 | Execution-Aware Pre-Execution Ranking for Grasp-Conditioned Robotic Placement | Tianyuan Liu, Rutherford Agbeshi Patamia, Benjamin Champion, Richard Dazeley et al. | [Abstract](https://arxiv.org/abs/2609.19946) · [PDF](https://arxiv.org/pdf/2609.19946) | needs-review |
-| 2026-09-17 | Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation | Bingxin Xu, Yuzhang Shang, Zhen Dong, Emilio Ferrara | [Abstract](https://arxiv.org/abs/2609.20822) · [PDF](https://arxiv.org/pdf/2609.20822) | needs-review |
 | 2026-09-16 | UMI-Bridge: Action-Anchored Latent Alignment across Human and Robot Manipulation Data | Haiyi Liu, Jinming Ma, Ke Rui, Yuteng Wei et al. | [Abstract](https://arxiv.org/abs/2609.18232) · [PDF](https://arxiv.org/pdf/2609.18232) | needs-review |
 | 2026-09-16 | RAFAIL: Relationship-Aware Failure Detection for Robotic Manipulation | Loris Schneider, Edgar Welte, Rania Rayyes | [Abstract](https://arxiv.org/abs/2609.18324) · [PDF](https://arxiv.org/pdf/2609.18324) | needs-review |
 | 2026-09-16 | Prior Evolution and Task Alignment for Aerial Grasping | Weiliang Deng, Zhengyang Dang, Yao Mu, Ximin Lyu | [Abstract](https://arxiv.org/abs/2609.18153) · [PDF](https://arxiv.org/pdf/2609.18153) | needs-review |
@@ -182,6 +198,7 @@
 | 2026-07-31 | ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts | Mingxin Wang, Bin Hu, Bin Qian, Kaitao Jiang et al. | [Abstract](https://arxiv.org/abs/2607.28993) · [PDF](https://arxiv.org/pdf/2607.28993) | needs-review |
 | 2026-07-30 | Static In, Dynamic Out: Counterfactual Action Augmentation for Moving Object Manipulation | Woo Chul Shin, Zhenyang Chen, Alfred Cueva, Nadun Ranawaka Arachchige et al. | [Abstract](https://arxiv.org/abs/2607.27890) · [PDF](https://arxiv.org/pdf/2607.27890) | needs-review |
 | 2026-07-30 | SemAnCorr: Semantic Anchored Correspondence for Zero-Shot Manipulation Skill Transfer | Xiaoxiang Dong, William Baron, Hongyi Chen, Uksang Yoo et al. | [Abstract](https://arxiv.org/abs/2607.28382) · [PDF](https://arxiv.org/pdf/2607.28382) | needs-review |
+| 2026-07-29 | SAFE: Unified Slip and Fracture Detection with Low-Cost Acoustic Sensing in Robotic Grasping | Zerun Wang, Vivek Kamat, Shekhar Bhansali | [Abstract](https://arxiv.org/abs/2610.08802) · [PDF](https://arxiv.org/pdf/2610.08802) | needs-review |
 | 2026-07-28 | S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information | Kaneyoshi Hiratsuka, Benjamin Yen, Ryosuke Kojima | [Abstract](https://arxiv.org/abs/2607.26047) · [PDF](https://arxiv.org/pdf/2607.26047) | needs-review |
 | 2026-07-28 | Reeling It In: Flexible Needle Pick Up via Thread Manipulation for Autonomous Suturing | Emma Huang, Zih-Yun Chiu, Neelay Joglekar, Shanglei Liu et al. | [Abstract](https://arxiv.org/abs/2607.26337) · [PDF](https://arxiv.org/pdf/2607.26337) | needs-review |
 | 2026-07-28 | MoMo: Dial Motion Mode in Robot Manipulation with Spatiotemporal Action Tokenization | Yuhan Hu, Hugues Thomas, Peide Huang, Mouli Sivapurapu et al. | [Abstract](https://arxiv.org/abs/2607.26315) · [PDF](https://arxiv.org/pdf/2607.26315) | needs-review |
@@ -233,7 +250,6 @@
 | 2026-06-29 | Learning from Mistakes: Rollout-Retrieval Lifelong Policy Learning for Autonomous Driving | Cheng Gong, Haoyang Wang, Chao Lu, Zirui Li et al. | [Abstract](https://arxiv.org/abs/2606.30537) · [PDF](https://arxiv.org/pdf/2606.30537) | needs-review |
 | 2026-06-29 | Grasp-Oriented Non-Prehensile Manipulation via Learning a Graspability Field | Licheng Zhong, Gim Hee Lee | [Abstract](https://arxiv.org/abs/2606.30474) · [PDF](https://arxiv.org/pdf/2606.30474) | needs-review |
 | 2026-06-29 | Critical Interval MSE: Toward Reliable Offline Validation for Robot Manipulation Policies | Haoxu Huang, Tongsam Zheng, Yifan Chen, Jiacheng You et al. | [Abstract](https://arxiv.org/abs/2606.29898) · [PDF](https://arxiv.org/pdf/2606.29898) | needs-review |
-| 2026-06-29 | Behavior Prompting Policy: Demonstrations as Prompts for Manipulation | Austin Patel, Ben Pekarek, Joel Enrique Castro Hernandez, Shuran Song | [Abstract](https://arxiv.org/abs/2606.30457) · [PDF](https://arxiv.org/pdf/2606.30457) | needs-review |
 | 2026-06-28 | LAMP: Long-Horizon Adaptive Manipulation Planning for Multi-Robot Collaboration in Cluttered Space | Shuai Zhou, Yorai Shaoul, Jiaoyang Li | [Abstract](https://arxiv.org/abs/2606.29358) · [PDF](https://arxiv.org/pdf/2606.29358) | needs-review |
 | 2026-06-28 | CORE: Common Outcome Regularities from Action-Free Visual Demonstrations for Robot Manipulation | Juyi Sheng, Mingxin Tan, Jincheng Li, Mengyuan Liu | [Abstract](https://arxiv.org/abs/2606.29517) · [PDF](https://arxiv.org/pdf/2606.29517) | needs-review |
 | 2026-06-26 | Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots | Sijin Chen, Kaixuan Jiang, Haixin Shi, Yanhui Wang et al. | [Abstract](https://arxiv.org/abs/2606.28133) · [PDF](https://arxiv.org/pdf/2606.28133) | needs-review |
@@ -267,7 +283,6 @@
 | 2026-06-17 | Modeling Branches for Active Manipulation using Iterative Parameter Estimation | Madhav Rijal, Rashik Shrestha, Trevor Smith, Yu Gu | [Abstract](https://arxiv.org/abs/2606.19314) · [PDF](https://arxiv.org/pdf/2606.19314) | needs-review |
 | 2026-06-17 | Invertible Neural Network Adapter for One-Step Flow Matching in Robot Manipulation | Yu Zhang, Kangyi Ji, Yongxiang Zou, Rongtao Xu et al. | [Abstract](https://arxiv.org/abs/2606.19194) · [PDF](https://arxiv.org/pdf/2606.19194) | needs-review |
 | 2026-06-17 | GCNGrasp-VP: Affordance-Guided View Planning for Efficient Task-Oriented Grasping | Zanjia Tong, Wenlong Dong, Chengjie Zhang, Hong Zhang | [Abstract](https://arxiv.org/abs/2606.19091) · [PDF](https://arxiv.org/pdf/2606.19091) | needs-review |
-| 2026-06-16 | WeaveLA: Event Driven Cross-Subtask Latent Memory Weaving for Repetitive Robot Manipulation | Shoujing Zhu, Zhenyang Liu, Fungmiu Wang, Jiafeng Wang et al. | [Abstract](https://arxiv.org/abs/2606.17463) · [PDF](https://arxiv.org/pdf/2606.17463) | needs-review |
 | 2026-06-16 | Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models | Haoqi Yuan, Zhixuan Liang, Anzhe Chen, Ye Wang et al. | [Abstract](https://arxiv.org/abs/2606.17846) · [PDF](https://arxiv.org/pdf/2606.17846) | needs-review |
 | 2026-06-16 | PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation | Yuhang Huang, Xuan Lv, Junyan Xu, Zhiyuan Yu et al. | [Abstract](https://arxiv.org/abs/2606.18375) · [PDF](https://arxiv.org/pdf/2606.18375) | needs-review |
 | 2026-06-16 | LAGO Policy: Latency-Aware Asynchronous Diffusion Policies with Goal-Directed Collision-Free Planning for Smooth Manipulation | Guowei Shi, Xupeng Xie, Yiming Luo, Jian Guo et al. | [Abstract](https://arxiv.org/abs/2606.17982) · [PDF](https://arxiv.org/pdf/2606.17982) | needs-review |

@@ -1,12 +1,12 @@
 # OOD & Uncertainty Evaluation · 分布外与不确定性评估
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Safety%20%26%20Reliability%20Evaluation&specialty=OOD%20%26%20Uncertainty%20Evaluation#research-workbench)
 
-> 8 conference papers · 135 recent arXiv papers
+> 8 conference papers · 139 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,11 +33,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | HRP: Human Affordances for Robotic Pre-Training | RSS · Affordance | [Paper](https://arxiv.org/abs/2407.18911) · [Index](https://dblp.org/rec/conf/rss/SriramaDB024) | rule-assigned |
 | 2023 | HYDRA: Hybrid Robot Actions for Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2306.17237) · [Index](https://dblp.org/rec/journals/corr/abs-2306-17237) | rule-assigned |
 
-## Recent arXiv papers (135)
+## Recent arXiv papers (139)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
-| 2026-10-01 | Query-Conditioned Articulation Estimation from a Single Image | Abdelrhman Werby, Fabio Scaparro, Kai O. Arra | [Abstract](https://arxiv.org/abs/2610.01726) · [PDF](https://arxiv.org/pdf/2610.01726) | rule-assigned |
+| 2026-10-05 | Robotizing Human Videos with Physically Consistent Interactions | Ching-Lam Cheng, Shengfeng He, Bin Zhu | [Abstract](https://arxiv.org/abs/2610.06137) · [PDF](https://arxiv.org/pdf/2610.06137) | rule-assigned |
+| 2026-10-05 | FreeSpeed: Training-Free Speed Control for Generative Robot Policies | Yuxuan Hu, Shilin Shan, Qiheng Wang, Jinghan Yang et al. | [Abstract](https://arxiv.org/abs/2610.05734) · [PDF](https://arxiv.org/pdf/2610.05734) | rule-assigned |
+| 2026-10-02 | Self-Repairing Recurrent Ensembles for Real-Time Recovery from Distribution Shift | Julian Lemmel, Pedro D. Wendel Garcia, Taisuke Kobayashi, Radu Grosu | [Abstract](https://arxiv.org/abs/2610.03249) · [PDF](https://arxiv.org/pdf/2610.03249) | rule-assigned |
+| 2026-10-02 | Native Action-Prior Learning from Videos for World Action Models | Zhaochong An, Fei Zhang, Menglin Jia, Duncan Frost et al. | [Abstract](https://arxiv.org/abs/2610.03391) · [PDF](https://arxiv.org/pdf/2610.03391) | rule-assigned |
+| 2026-10-01 | Query-Conditioned Articulation Estimation from a Single Image | Abdelrhman Werby, Fabio Scaparro, Kai O. Arras | [Abstract](https://arxiv.org/abs/2610.01726) · [PDF](https://arxiv.org/pdf/2610.01726) | rule-assigned |
 | 2026-09-30 | PrefPI: Preference-Guided Steering into Out-of-Distribution Behaviors | Seungeun Rho, Wontaek Kim, Danfei Xu, Sehoon Ha | [Abstract](https://arxiv.org/abs/2609.40165) · [PDF](https://arxiv.org/pdf/2609.40165) | rule-assigned |
 | 2026-09-28 | Agent Priors-guided Policy Learning | Puming Jiang, Tianrun Hu, Haozhe Du, Yibo Li et al. | [Abstract](https://arxiv.org/abs/2609.35690) · [PDF](https://arxiv.org/pdf/2609.35690) | rule-assigned |
 | 2026-09-21 | Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI | Wenkang Qin, Yukun Zhou, Noah Shen, Jisong Cai et al. | [Abstract](https://arxiv.org/abs/2609.24815) · [PDF](https://arxiv.org/pdf/2609.24815) | rule-assigned |
@@ -50,7 +54,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-08 | 4D-WAM: Infusing Spatiotemporal Awareness into World Action Models through Trajectory Fields | Lishan Yang, Wenxuan Song, Xi Wang, Pingyue Sheng et al. | [Abstract](https://arxiv.org/abs/2608.08023) · [PDF](https://arxiv.org/pdf/2608.08023) | rule-assigned |
 | 2026-08-06 | Robust-WAM: Bridging Generative Pretraining and Semantic Foresight in World-Action Models | Haodong Yan, Junfeng Li, Junjie He, Zhide Zhong et al. | [Abstract](https://arxiv.org/abs/2608.05903) · [PDF](https://arxiv.org/pdf/2608.05903) | rule-assigned |
 | 2026-08-04 | JEPA-WAM: Connecting Generated Visual Instructions to World Action Models through JEPA Latent Representations | Tianbin Liu, Jian Zhu, Taiyi Su, Jianjun Zhang et al. | [Abstract](https://arxiv.org/abs/2609.20277) · [PDF](https://arxiv.org/pdf/2609.20277) | rule-assigned |
-| 2026-08-03 | Faster-WAM: Do World Action Models Need Deep Action Modules? | Liheng Ma, Rui Heng Yang, Zhanguang Zhang, Mateo Clemente et al. | [Abstract](https://arxiv.org/abs/2608.02365) · [PDF](https://arxiv.org/pdf/2608.02365) | rule-assigned |
 | 2026-08-02 | SG-WAM: Self-Guided World Modeling in Geometry-Aware Policy Space | Ruiteng Zhao, Zhengshen Zhang, Yue Su, Wenshuo Wang et al. | [Abstract](https://arxiv.org/abs/2608.01397) · [PDF](https://arxiv.org/pdf/2608.01397) | rule-assigned |
 | 2026-08-01 | From Failures to Supervision: DynamicEnvPlan for Robust Long-Horizon Embodied Planning | Hao Yuan, Yuxin Wang, Lei Ji, Zhiwei Yu | [Abstract](https://arxiv.org/abs/2608.00613) · [PDF](https://arxiv.org/pdf/2608.00613) | rule-assigned |
 | 2026-07-31 | Diagnosing Compositional Generalization in Sequential Robot Tasks | Yixiao Wang, Cheng-En Wu, Lingfeng Sun, Pengcheng Wang et al. | [Abstract](https://arxiv.org/abs/2607.29687) · [PDF](https://arxiv.org/pdf/2607.29687) | rule-assigned |
@@ -89,6 +92,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-03-16 | FlatLands: Generative Floormap Completion From a Single Egocentric View | Subhransu S. Bhattacharjee, Dylan Campbell, Rahul Shome | [Abstract](https://arxiv.org/abs/2603.16016) · [PDF](https://arxiv.org/pdf/2603.16016) | rule-assigned |
 | 2026-03-13 | Show, Don't Tell: Detecting Novel Objects by Watching Human Videos | James Akl, Jose Nicolas Avendano Arbelaez, James Barabas, Jennifer L. Barry et al. | [Abstract](https://arxiv.org/abs/2603.12751) · [PDF](https://arxiv.org/pdf/2603.12751) | rule-assigned |
 | 2026-03-09 | Decision-Aware Uncertainty Evaluation of Vision-Language Model-Based Early Action Anticipation for Human-Robot Interaction | Zhaoda Du, Michael Bowman, Qiaojie Zheng, Xiaoli Zhang | [Abstract](https://arxiv.org/abs/2603.10061) · [PDF](https://arxiv.org/pdf/2603.10061) | rule-assigned |
+| 2026-03-05 | TransMASK: Masked State Representation through Learned Transformation | Sagar Parekh, Preston Culbertson, Dylan P. Losey | [Abstract](https://arxiv.org/abs/2603.05670) · [PDF](https://arxiv.org/pdf/2603.05670) | rule-assigned |
 | 2026-03-03 | Tether: Autonomous Functional Play with Correspondence-Driven Trajectory Warping | William Liang, Sam Wang, Hung-Ju Wang, Osbert Bastani et al. | [Abstract](https://arxiv.org/abs/2603.03278) · [PDF](https://arxiv.org/pdf/2603.03278) | rule-assigned |
 | 2026-02-10 | Learning Agile Quadrotor Flight in the Real World | Yunfan Ren, Zhiyuan Zhu, Jiaxu Xing, Davide Scaramuzza | [Abstract](https://arxiv.org/abs/2602.10111) · [PDF](https://arxiv.org/pdf/2602.10111) | rule-assigned |
 | 2026-02-07 | Vision and Language: Novel Representations and Artificial intelligence for Driving Scene Safety Assessment and Autonomous Vehicle Planning | Ross Greer, Maitrayee Keskar, Angel Martinez-Sanchez, Parthib Roy et al. | [Abstract](https://arxiv.org/abs/2602.07680) · [PDF](https://arxiv.org/pdf/2602.07680) | rule-assigned |

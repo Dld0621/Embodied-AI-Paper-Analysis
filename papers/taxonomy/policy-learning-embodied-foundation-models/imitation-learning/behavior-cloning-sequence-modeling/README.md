@@ -1,12 +1,12 @@
 # Behavior Cloning & Sequence Modeling · 行为克隆与序列建模
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Imitation%20Learning&specialty=Behavior%20Cloning%20%26%20Sequence%20Modeling#research-workbench)
 
-> 14 conference papers · 115 recent arXiv papers
+> 14 conference papers · 119 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -39,10 +39,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning | RSS · Behaviour Cloning | [Paper](https://arxiv.org/abs/2405.18196) · [Index](https://dblp.org/rec/conf/rss/VosyliusSUJ24) | rule-assigned |
 | 2023 | A Framework for Few-Shot Policy Transfer Through Observation Mapping and Behavior Cloning | IROS · Behavior Cloning | [Paper](https://arxiv.org/pdf/2310.08836) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342477) | rule-assigned |
 
-## Recent arXiv papers (115)
+## Recent arXiv papers (119)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | RoboPace: Contact-Aware Time-Optimal Retiming for Action-Chunk Policies | Mimo Shirasaka, Takehiko Ohkawa, Takuya Okubo, Nicola Scianca et al. | [Abstract](https://arxiv.org/abs/2610.09696) · [PDF](https://arxiv.org/pdf/2610.09696) | rule-assigned |
+| 2026-10-05 | Conditional Trajectory Peaks: Single-Pass Multimodal Policies over Action Chunks | Di Wu, Rongtian Shen, Ping Liu, Xuhua Chen et al. | [Abstract](https://arxiv.org/abs/2610.06104) · [PDF](https://arxiv.org/pdf/2610.06104) | rule-assigned |
+| 2026-10-02 | Proprioceptive Sketches as Long-Horizon Intent for Generative Action Policies | Fangyuan Wang, Songhao Huang, Haoxiang Sun, Shipeng Lyu et al. | [Abstract](https://arxiv.org/abs/2610.02759) · [PDF](https://arxiv.org/pdf/2610.02759) | rule-assigned |
 | 2026-10-01 | World Motion Models: Flexible Sequence Modeling of SE(3) Trajectories | Jiahui Lei, Qianqian Wang, Trevor Darrell, Angjoo Kanazawa | [Abstract](https://arxiv.org/abs/2610.01742) · [PDF](https://arxiv.org/pdf/2610.01742) | rule-assigned |
 | 2026-09-30 | SplineWAM: Adaptive Action Horizons for World Action Models via B-Spline Representations | Jun Guo, Xiaoshen Han, Qiwei Li, Nan Sun et al. | [Abstract](https://arxiv.org/abs/2609.39873) · [PDF](https://arxiv.org/pdf/2609.39873) | rule-assigned |
 | 2026-09-30 | Plan-Conditioned Imitation for Robust Object Retrieval under Self-Occlusion in Dense Clutter | Kowndinya Boyalakuntla, Ajinkya Pawar, Abdeslam Boularias, Jingjin Yu | [Abstract](https://arxiv.org/abs/2609.38857) · [PDF](https://arxiv.org/pdf/2609.38857) | rule-assigned |
@@ -86,6 +89,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-04-15 | Behavior Cloning Under PD Control: A Finite-Horizon Theory of Gain-Dependent Error Amplification | Junghoon Seo | [Abstract](https://arxiv.org/abs/2604.14484) · [PDF](https://arxiv.org/pdf/2604.14484) | rule-assigned |
 | 2026-03-26 | Emergent Neural Automaton Policies: Learning Symbolic Structure from Visuomotor Trajectories | Yiyuan Pan, Xusheng Luo, Hanjiang Hu, Peiqi Yu et al. | [Abstract](https://arxiv.org/abs/2603.25903) · [PDF](https://arxiv.org/pdf/2603.25903) | rule-assigned |
 | 2026-03-24 | Generative Event Pretraining with Foundation Model Alignment | Jianwen Cao, Jiaxu Xing, Nico Messikommer, Davide Scaramuzza | [Abstract](https://arxiv.org/abs/2603.23032) · [PDF](https://arxiv.org/pdf/2603.23032) | rule-assigned |
+| 2026-03-16 | You've Got a Golden Ticket: Improving Generative Robot Policies With A Single Noise Vector | Omkar Patil, Ondrej Biza, Thomas Weng, Karl Schmeckpeper et al. | [Abstract](https://arxiv.org/abs/2603.15757) · [PDF](https://arxiv.org/pdf/2603.15757) | rule-assigned |
 | 2026-03-10 | Update-Free On-Policy Steering via Verifiers | Maria Attarian, Ian Vyse, Jasper Gerigk, Evgenii Opryshko et al. | [Abstract](https://arxiv.org/abs/2603.10282) · [PDF](https://arxiv.org/pdf/2603.10282) | rule-assigned |
 | 2026-03-09 | 3PoinTr: From Human Videos to Robot Policies with 3D Point-Track Plans | Adam Hung, Bardienus Pieter Duisterhof, Jeffrey Ichnowski | [Abstract](https://arxiv.org/abs/2603.08485) · [PDF](https://arxiv.org/pdf/2603.08485) | rule-assigned |
 | 2026-03-02 | Towards Robot Skill Learning and Adaptation with Gaussian Processes | A K M Nadimul Haque, Fouad Sukkar, Sheila Sujipto, Cedric Le Gentil et al. | [Abstract](https://arxiv.org/abs/2603.01480) · [PDF](https://arxiv.org/pdf/2603.01480) | rule-assigned |

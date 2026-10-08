@@ -1,12 +1,12 @@
 # Contact Stability & Slip Recovery · 稳定接触与滑移恢复
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=In-hand%20Manipulation&specialty=Contact%20Stability%20%26%20Slip%20Recovery#research-workbench)
 
-> 1 conference papers · 15 recent arXiv papers
+> 1 conference papers · 16 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2025 | Task-Specific Embodied Tactile Sensing for Dexterous Hand | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127318) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127318) | rule-assigned |
 
-## Recent arXiv papers (15)
+## Recent arXiv papers (16)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-02 | GOTT: Object-centric Dexterous Manipulation with a Reusable Cross-Embodiment Primitive | Yulin Liu, Lai Wei, Yen-Jen Wang, Akash Sharma et al. | [Abstract](https://arxiv.org/abs/2610.03861) · [PDF](https://arxiv.org/pdf/2610.03861) | rule-assigned |
 | 2026-08-06 | ErgoSurf: Ergodic Control for the Coverage of Unknown Surfaces | Stefan Schneyer, Timo Bachmann, Maged Iskandar, Korbinian Nottensteiner et al. | [Abstract](https://arxiv.org/abs/2608.06208) · [PDF](https://arxiv.org/pdf/2608.06208) | rule-assigned |
 | 2026-08-03 | A Tilt-Rotor UAV with a Gripper for Stable Contact-Based Tasks via Environmental Anchoring | Joshua Taylor, Nursultan Imanberdiyev, Wei-Yun Yau, Guillaume Sartoretti et al. | [Abstract](https://arxiv.org/abs/2608.01736) · [PDF](https://arxiv.org/pdf/2608.01736) | rule-assigned |
 | 2026-07-05 | FLOAT Drone for Physical Interaction: Lateral Airflow Reduction, Wrench Modeling, and Adaptive Control | Junxiao Lin, Kehan Zhou, Shuhang Ji, Yimin Peng et al. | [Abstract](https://arxiv.org/abs/2607.04260) · [PDF](https://arxiv.org/pdf/2607.04260) | rule-assigned |

@@ -1,7 +1,7 @@
 # Running, Jumping & Agile Motion · 跑跳与敏捷运动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Running%2C%20Jumping%20%26%20Agile%20Motion#research-workbench)
@@ -50,6 +50,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | Learning Situation-Conditioned Thinking Policies for Long-Term LLM Agents | Hong Su | [Abstract](https://arxiv.org/abs/2610.09590) · [PDF](https://arxiv.org/pdf/2610.09590) | rule-assigned |
+| 2026-10-06 | Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou, Nikolaos Kekatos, Sophia Petridou, Stylianos Basagiannis | [Abstract](https://arxiv.org/abs/2610.08771) · [PDF](https://arxiv.org/pdf/2610.08771) | rule-assigned |
 | 2026-10-01 | Managing Context and Communication in Distributed Agentic UAV Swarms | Andrea Iannoli, Ivan Zyrianoff, Angelo Trotta, Lorenzo Gigli et al. | [Abstract](https://arxiv.org/abs/2610.01569) · [PDF](https://arxiv.org/pdf/2610.01569) | rule-assigned |
 | 2026-09-30 | AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk | Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer | [Abstract](https://arxiv.org/abs/2609.38737) · [PDF](https://arxiv.org/pdf/2609.38737) | rule-assigned |
 | 2026-09-24 | TactileStep: Sole Tactile Learning for Regulating Foot-Terrain Interaction in Humanoid Locomotion | Zizhuo Wang, Ming-ju Lee, Shaoting Zhu, Haozhe Lou et al. | [Abstract](https://arxiv.org/abs/2609.28959) · [PDF](https://arxiv.org/pdf/2609.28959) | rule-assigned |
@@ -151,8 +153,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-19 | From Propeller Damage Estimation and Adaptation to Fault Tolerant Control: Enhancing Quadrotor Resilience | Jeffrey Mao, Jennifer Yeom, Suraj Nair, Giuseppe Loianno | [Abstract](https://arxiv.org/abs/2310.13091) · [PDF](https://arxiv.org/pdf/2310.13091) | rule-assigned |
 | 2023-10-18 | Guaranteed, Predictable, Polynomial AGV Time-Pathing | James Forster | [Abstract](https://arxiv.org/abs/2310.12006) · [PDF](https://arxiv.org/pdf/2310.12006) | rule-assigned |
 | 2023-10-13 | Learning Agile Locomotion and Adaptive Behaviors via RL-augmented MPC | Yiyu Chen, Quan Nguyen | [Abstract](https://arxiv.org/abs/2310.09442) · [PDF](https://arxiv.org/pdf/2310.09442) | rule-assigned |
-| 2023-10-06 | mCLARI: a shape-morphing insect-scale robot capable of omnidirectional terrain-adaptive locomotion in laterally confined spaces | Heiko Kabutz, Alexander Hedrick, Parker McDonnell, Kaushik Jayaram | [Abstract](https://arxiv.org/abs/2310.04538) · [PDF](https://arxiv.org/pdf/2310.04538) | rule-assigned |
-| 2023-10-05 | Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End | Jin Jin, Chong Zhang, Jonas Frey, Nikita Rudin et al. | [Abstract](https://arxiv.org/abs/2310.03581) · [PDF](https://arxiv.org/pdf/2310.03581) | rule-assigned |
 
 ---
 

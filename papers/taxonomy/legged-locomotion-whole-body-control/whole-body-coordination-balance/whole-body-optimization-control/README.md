@@ -1,12 +1,12 @@
 # Whole-body Optimization & Control · 全身优化控制
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Coordination%20%26%20Balance&specialty=Whole-body%20Optimization%20%26%20Control#research-workbench)
 
-> 39 conference papers · 184 recent arXiv papers
+> 39 conference papers · 192 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -64,10 +64,18 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Nonprehensile Object Transportation with a Legged Manipulator | ICRA · Legged | [Paper](https://doi.org/10.1109/icra46639.2022.9811810) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811810) | rule-assigned |
 | 2022 | Whole-Body Control of Series-Parallel Hybrid Robots | ICRA · Whole Body | [Paper](https://doi.org/10.1109/icra46639.2022.9811616) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811616) | rule-assigned |
 
-## Recent arXiv papers (184)
+## Recent arXiv papers (192)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | Precise SE(3) End-Effector Tracking in Whole-Body Humanoid Control | Joohwan Seo, Xiaofeng Guo, Jinkun Cao, Roberto Horowitz et al. | [Abstract](https://arxiv.org/abs/2610.09479) · [PDF](https://arxiv.org/pdf/2610.09479) | rule-assigned |
+| 2026-10-07 | LLA-MPPI: Rapidly Adaptive Whole-body Control of Legged Robots with GPU-Accelerated Parallel Simulations | Sebin Jung, Maitham F. AL-Sunni, Juan Alvarez-Padilla, Zachary Manchester et al. | [Abstract](https://arxiv.org/abs/2610.10465) · [PDF](https://arxiv.org/pdf/2610.10465) | rule-assigned |
+| 2026-10-07 | Co${}^{2}$Skill: Whole-Body Control via Skill Composition for Long-Horizon Human-Environment Interaction | Jeonghwan Kim, Hyeonwoo Kim, Hanbyul Joo | [Abstract](https://arxiv.org/abs/2610.09291) · [PDF](https://arxiv.org/pdf/2610.09291) | rule-assigned |
+| 2026-10-06 | Magnet-Aware Control of Legged Robots | J. Playan Garai, S. B. Djuve, C. McGreavy, M. Khadiv | [Abstract](https://arxiv.org/abs/2610.08653) · [PDF](https://arxiv.org/pdf/2610.08653) | rule-assigned |
+| 2026-10-06 | iGPC: Generative Motion Priors for Object-Aware Humanoid Interaction | Anujith Muraleedharan, Abdul Ahad Butt, Nolan Fey, Yash Prabhu et al. | [Abstract](https://arxiv.org/abs/2610.08120) · [PDF](https://arxiv.org/pdf/2610.08120) | rule-assigned |
+| 2026-10-05 | Physics Residual Dynamics and Reduced Order Whole-Body Planning for Obstacle Aware Human Robot Cloth CoTransportation | Moein Forouhar, Kosar Behnia, Anirvan Dutta, Hamid Sadeghian et al. | [Abstract](https://arxiv.org/abs/2610.06641) · [PDF](https://arxiv.org/pdf/2610.06641) | rule-assigned |
+| 2026-10-05 | I-BFM: Reward-Conditioned Robust Humanoid Interaction via Unsupervised Reinforcement Learning | Ziqi Han, Yitang Li, Junhan Sun, Fanrong Dong et al. | [Abstract](https://arxiv.org/abs/2610.06129) · [PDF](https://arxiv.org/pdf/2610.06129) | rule-assigned |
+| 2026-10-01 | Filter-Aware Fine-Tuning for Safe Humanoid Whole-Body Tracking | Pranit Mohnot, Christian Helten, Daniele Gammelli, Marco Pavone | [Abstract](https://arxiv.org/abs/2610.02341) · [PDF](https://arxiv.org/pdf/2610.02341) | rule-assigned |
 | 2026-09-30 | NEXUS: Perceptive Whole-Body Control for Terrain-Adaptive Teleoperation | Xiangyu Miao, Junsong Wu, Jiyuan Shi, Weiji Xie et al. | [Abstract](https://arxiv.org/abs/2609.39000) · [PDF](https://arxiv.org/pdf/2609.39000) | rule-assigned |
 | 2026-09-29 | CrossBFM: Distilling a Shared Latent Behavior Space Across Humanoid Embodiments | Tan-Dzung Do, Tuan Dat Phuong, Nico Bohlinger, Cuc T. Trinh et al. | [Abstract](https://arxiv.org/abs/2609.38087) · [PDF](https://arxiv.org/pdf/2609.38087) | rule-assigned |
 | 2026-09-28 | KPI: A Promptable Kernel for Physical Interaction on Humanoids | Yikai Wang, Honghao Zhu, Xiao Hu, Hao Zhang et al. | [Abstract](https://arxiv.org/abs/2609.36151) · [PDF](https://arxiv.org/pdf/2609.36151) | rule-assigned |

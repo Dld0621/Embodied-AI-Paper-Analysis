@@ -1,12 +1,12 @@
 # Cloth & Garments · 布料与衣物
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-04** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation&specialty=Cloth%20%26%20Garments#research-workbench)
 
-> 22 conference papers · 55 recent arXiv papers
+> 22 conference papers · 57 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -47,15 +47,17 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Iterative residual policy: For goal-conditioned dynamic manipulation of deformable objects | RSS · Manipulation | [Paper](https://arxiv.org/abs/2203.00663) · [Publisher](https://doi.org/10.1177/02783649231201201) | rule-assigned |
 | 2022 | Mesh-based Dynamics with Occlusion Reasoning for Cloth Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/pdf/2206.02881) · [Index](https://dblp.org/rec/journals/corr/abs-2206-02881) | rule-assigned |
 
-## Recent arXiv papers (55)
+## Recent arXiv papers (57)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | FoldBack: Self-Correcting Masked Generative Policy for Long-Horizon Garment Folding | Lipeng Zhuang, Shiyu Fan, Yingdong Ru, Zhuo He et al. | [Abstract](https://arxiv.org/abs/2610.10462) · [PDF](https://arxiv.org/pdf/2610.10462) | rule-assigned |
 | 2026-09-17 | RotateIt! Fast and Reliable Single-Arm Garment Unfolding via Online-Adaptive Dynamic Rotation | Zeqing Zhang, Zuokun Xie, Ao Fang, Bin Dai et al. | [Abstract](https://arxiv.org/abs/2609.19817) · [PDF](https://arxiv.org/pdf/2609.19817) | rule-assigned |
 | 2026-09-06 | Rethinking Safety for Generalist Robots | Rohan Sinha, Anushri Dixit, Ran Tian, Anirudha Majumdar et al. | [Abstract](https://arxiv.org/abs/2609.06326) · [PDF](https://arxiv.org/pdf/2609.06326) | rule-assigned |
 | 2026-08-27 | MeshPriorDiT: Hierarchical Modeling for Action-Conditioned Cloth Dynamics | Zihang Wang, Jianming Hu, Shang Su, Hao Huang et al. | [Abstract](https://arxiv.org/abs/2608.26766) · [PDF](https://arxiv.org/pdf/2608.26766) | rule-assigned |
 | 2026-07-26 | Mission-Level Runtime Assurance for LLM-Assisted ISR Swarms over a Verification-Aware Fabric | Nikolaos Kekatos, Panagiotis Katsaros, Alexios Lekidis, Theodoros Nestoridis et al. | [Abstract](https://arxiv.org/abs/2607.23532) · [PDF](https://arxiv.org/pdf/2607.23532) | rule-assigned |
 | 2026-07-17 | A Generative Partially Specified Finite State Machine Approach to Complex Behaviour Planning | Kalana Ratnayake, Michael Pritchard, David Hinwood, Maleen Jayasuriya et al. | [Abstract](https://arxiv.org/abs/2607.15674) · [PDF](https://arxiv.org/pdf/2607.15674) | rule-assigned |
+| 2026-06-29 | What Enables In-Context Behavior Prompting for Manipulation? | Austin Patel, Ben Pekarek, Joel Enrique Castro Hernandez, Shuran Song | [Abstract](https://arxiv.org/abs/2606.30457) · [PDF](https://arxiv.org/pdf/2606.30457) | rule-assigned |
 | 2026-06-20 | RARM: Confidence-Gated Progress Reward Modeling for RL in Manipulation | Pengzhi Yang, Xinyu Wang, Pengyu Jing, Kehan Wen et al. | [Abstract](https://arxiv.org/abs/2606.22027) · [PDF](https://arxiv.org/pdf/2606.22027) | rule-assigned |
 | 2026-05-18 | Dynamic robotic cloth folding with efficient Koopman operator-based model predictive control | Edoardo Caldarelli, Franco Coltraro, Adrià Colomé, Lorenzo Rosasco et al. | [Abstract](https://arxiv.org/abs/2605.18373) · [PDF](https://arxiv.org/pdf/2605.18373) | rule-assigned |
 | 2026-05-12 | Offline Policy Evaluation for Manipulation Policies via Discounted Liveness Formulation | Hao Wang, Joshua Bowden, Colton Crosby, Somil Bansal | [Abstract](https://arxiv.org/abs/2605.11479) · [PDF](https://arxiv.org/pdf/2605.11479) | rule-assigned |
