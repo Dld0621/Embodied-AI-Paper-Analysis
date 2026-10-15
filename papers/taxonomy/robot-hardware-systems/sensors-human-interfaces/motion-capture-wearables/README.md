@@ -1,7 +1,7 @@
 # Motion Capture & Wearables · 动作捕捉与可穿戴设备
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Sensors%20%26%20Human%20Interfaces&specialty=Motion%20Capture%20%26%20Wearables#research-workbench)
@@ -24,7 +24,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | HumanoidExo: Scalable Whole-Body Humanoid Manipulation via Wearable Exoskeleton | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2510.03022) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695947) | rule-assigned |
+| 2026 | HumanoidExo: Scalable Whole-Body Humanoid Manipulation via Wearable Exoskeleton | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2510.03022) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695947) | rule-assigned |
 | 2022 | On Wearable, Lightweight, Low-Cost Human Machine Interfaces for the Intuitive Collection of Robot Grasping and Manipulation Data | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra46639.2022.9812198) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812198) | rule-assigned |
 
 ## Recent arXiv papers (46)

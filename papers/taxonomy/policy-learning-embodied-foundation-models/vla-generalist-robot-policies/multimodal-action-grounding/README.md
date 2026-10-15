@@ -1,12 +1,12 @@
 # Multimodal Action Grounding · 多模态动作对齐
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=VLA%20%26%20Generalist%20Robot%20Policies&specialty=Multimodal%20Action%20Grounding#research-workbench)
 
-> 10 conference papers · 39 recent arXiv papers
+> 10 conference papers · 41 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,21 +24,23 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | From Language to Action: Can LLM-Based Agents Be Used for Embodied Robot Cognition? | ICRA · Llm | [Paper](https://arxiv.org/abs/2603.03148) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697072) | rule-assigned |
-| 2026 | Pragmatic Embodied Spoken Instruction Following in Human-Robot Collaboration with Theory of Mind | ICRA · Instruction Following | [Paper](https://arxiv.org/abs/2409.10849) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696198) | rule-assigned |
-| 2025 | Socratic Planner: Self-QA-Based Zero-Shot Planning for Embodied Instruction Following | ICRA · Instruction Following | [Paper](https://arxiv.org/abs/2404.15190) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128677) | rule-assigned |
+| 2026 | From Language to Action: Can LLM-Based Agents Be Used for Embodied Robot Cognition? | ICRA · Llm | [Paper](https://arxiv.org/pdf/2603.03148) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697072) | rule-assigned |
+| 2026 | Pragmatic Embodied Spoken Instruction Following in Human-Robot Collaboration with Theory of Mind | ICRA · Instruction Following | [Paper](https://arxiv.org/pdf/2409.10849) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696198) | rule-assigned |
+| 2025 | Socratic Planner: Self-QA-Based Zero-Shot Planning for Embodied Instruction Following | ICRA · Instruction Following | [Paper](https://arxiv.org/pdf/2404.15190) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128677) | rule-assigned |
 | 2025 | IDAGC: Adaptive Generalized Human-Robot Collaboration via Human Intent Estimation and Multimodal Policy Learning | IROS · Multimodal Policy | [Paper](https://arxiv.org/pdf/2507.04620) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246003) | rule-assigned |
-| 2025 | LERa: Replanning with Visual Feedback in Instruction Following | IROS · Instruction Following | [Paper](https://arxiv.org/abs/2507.05135) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247303) | rule-assigned |
+| 2025 | LERa: Replanning with Visual Feedback in Instruction Following | IROS · Instruction Following | [Paper](https://arxiv.org/pdf/2507.05135) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247303) | rule-assigned |
 | 2025 | Temporal Representation Alignment: Successor Features Enable Emergent Compositionality in Robot Instruction Following | NeurIPS · Instruction Following | [Paper](https://arxiv.org/abs/2502.05454) · [Index](https://dblp.org/rec/conf/nips/MyersZDFL25) | rule-assigned |
 | 2024 | Autonomous Improvement of Instruction Following Skills via Foundation Models | CoRL · Foundation Model | [Paper](https://arxiv.org/abs/2407.20635) · [Index](https://dblp.org/rec/conf/corl/ZhouALWML24) | rule-assigned |
 | 2023 | Goal Representations for Instruction Following: A Semi-Supervised Language Interface to Control | CoRL · Instruction Following | [Paper](https://arxiv.org/pdf/2307.00117) · [Index](https://dblp.org/rec/conf/corl/MyersHFWHCJKDL23) | rule-assigned |
 | 2023 | Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models | RSS · Language Model | [Paper](https://arxiv.org/abs/2211.11736) · [Index](https://dblp.org/rec/conf/rss/XiaoCSWBHLT23) | rule-assigned |
 | 2022 | Embodied Concept Learner: Self-supervised Learning of Concepts and Mapping through Instruction Following | CoRL · Instruction Following | [Paper](https://arxiv.org/abs/2304.03767) · [Index](https://dblp.org/rec/conf/corl/DingXCC0TG22) | rule-assigned |
 
-## Recent arXiv papers (39)
+## Recent arXiv papers (41)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-12 | Same Goal, Different Words: Spatial Instruction Sensitivity in World-Action Models | Ali-Adeeb Abbas, Esmaeil Seraj, Behrad Toghi, Taşkın Padır | [Abstract](https://arxiv.org/abs/2610.16242) · [PDF](https://arxiv.org/pdf/2610.16242) | rule-assigned |
+| 2026-10-09 | JoyInside-VLM-Agent: Product-Conditioned Multimodal Policy Learning for Embodied Agents | Gangyi Li, LuYao Wang, Jingfu Sun, Jingyi Yuan et al. | [Abstract](https://arxiv.org/abs/2610.12957) · [PDF](https://arxiv.org/pdf/2610.12957) | rule-assigned |
 | 2026-09-22 | RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents | Chang Guo, Yukun Xie, Bohan Tan, Zheng Chang et al. | [Abstract](https://arxiv.org/abs/2609.25636) · [PDF](https://arxiv.org/pdf/2609.25636) | rule-assigned |
 | 2026-08-06 | Hijacking Robots with a Piece of Paper: A Systematic Study of Physical Prompt Injection in VLM-Controlled Robots | S. M . Bhagya P. Samarakoon, M. A. Viraj J. Muthugala, W. K. R. Sachinthana, Mohan Rajesh Elara | [Abstract](https://arxiv.org/abs/2608.05715) · [PDF](https://arxiv.org/pdf/2608.05715) | rule-assigned |
 | 2026-07-21 | WorldScape Policy 2.0: Empowering Steerable World Action Modeling with Reasoning-Augmented Memory and In-Context Learning | Haisheng Su, Zongdai Liu, Xin Jin, Haoxuan Dou et al. | [Abstract](https://arxiv.org/abs/2607.18840) · [PDF](https://arxiv.org/pdf/2607.18840) | rule-assigned |

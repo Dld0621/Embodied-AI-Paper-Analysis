@@ -1,7 +1,7 @@
 # Calibration & Time Alignment · 标定与时间对齐
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=State%20Estimation%20%26%20Active%20Perception&specialty=Calibration%20%26%20Time%20Alignment#research-workbench)
@@ -24,9 +24,9 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics | ICRA · Language Model | [Paper](https://arxiv.org/abs/2510.07181) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696750) | rule-assigned |
-| 2024 | Adapting Skills to Novel Grasps: A Self-Supervised Approach | IROS · Grasp | [Paper](https://arxiv.org/abs/2408.00178) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802112) | rule-assigned |
-| 2024 | MEMROC: Multi-Eye to Mobile RObot Calibration | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2410.08805) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801771) | rule-assigned |
+| 2026 | TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2510.07181) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696750) | rule-assigned |
+| 2024 | Adapting Skills to Novel Grasps: A Self-Supervised Approach | IROS · Grasp | [Paper](https://arxiv.org/pdf/2408.00178) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802112) | rule-assigned |
+| 2024 | MEMROC: Multi-Eye to Mobile RObot Calibration | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2410.08805) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801771) | rule-assigned |
 | 2023 | Ego-Noise Reduction of a Mobile Robot Using Noise Spatial Covariance Matrix Learning and Minimum Variance Distortionless Response | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2303.00829) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342193) | rule-assigned |
 
 ## Recent arXiv papers (160)

@@ -1,7 +1,7 @@
 # Domain Randomization · 域随机化
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Sim-to-real%20Transfer&specialty=Domain%20Randomization#research-workbench)
@@ -26,9 +26,9 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2026 | RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation | ICML · Synthetic data benchmark | [Paper](https://openreview.net/forum?id=itonej9GIV) · [Official](https://openreview.net/forum?id=itonej9GIV) | rule-assigned |
 | 2025 | Flow-based Domain Randomization for Learning and Sequencing Robotic Skills | ICML · Domain Randomization | [Paper](https://arxiv.org/abs/2502.01800) · [Index](https://dblp.org/rec/journals/corr/abs-2502-01800) | rule-assigned |
-| 2024 | Domain Randomization for Sim2real Transfer of Automatically Generated Grasping Datasets | ICRA · Sim2Real | [Paper](https://arxiv.org/abs/2310.04517) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610677) | rule-assigned |
+| 2024 | Domain Randomization for Sim2real Transfer of Automatically Generated Grasping Datasets | ICRA · Sim2Real | [Paper](https://arxiv.org/pdf/2310.04517) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610677) | rule-assigned |
 | 2024 | Continual Domain Randomization | IROS · Domain Randomization | [Paper](https://arxiv.org/pdf/2403.12193) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802060) | rule-assigned |
-| 2023 | Domain Randomization for Robust, Affordable and Effective Closed-Loop Control of Soft Robots | IROS · Domain Randomization | [Paper](https://arxiv.org/abs/2303.04136) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342537) | rule-assigned |
+| 2023 | Domain Randomization for Robust, Affordable and Effective Closed-Loop Control of Soft Robots | IROS · Domain Randomization | [Paper](https://arxiv.org/pdf/2303.04136) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342537) | rule-assigned |
 | 2022 | Conditional Patch-Based Domain Randomization: Improving Texture Domain Randomization Using Natural Image Patches | IROS · Domain Randomization | [Paper](https://pure-oai.bham.ac.uk/ws/files/177697714/IROS_2022_CPDR_Camera_Ready_Submitted_Version.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981381) | rule-assigned |
 
 ## Recent arXiv papers (10)

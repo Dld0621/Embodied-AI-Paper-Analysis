@@ -1,12 +1,12 @@
 # Flow-matching Policies · Flow Matching 策略
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generative%20Action%20Policies&specialty=Flow-matching%20Policies#research-workbench)
 
-> 3 conference papers · 118 recent arXiv papers
+> 3 conference papers · 125 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,14 +24,20 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | ABPolicy: Asynchronous B-Spline Flow Policy for Real-Time and Smooth Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2602.23901) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697047) | rule-assigned |
-| 2026 | Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data | ICRA · Simulation | [Paper](https://arxiv.org/abs/2510.02738) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697008) | rule-assigned |
+| 2026 | ABPolicy: Asynchronous B-Spline Flow Policy for Real-Time and Smooth Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2602.23901) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697047) | rule-assigned |
+| 2026 | Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2510.02738) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697008) | rule-assigned |
 | 2026 | Shifted Flow Policy: Uncertainty-aware Time Reparameterization for Visuomotor Learning | ICRA · Visuomotor | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696791) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696791) | rule-assigned |
 
-## Recent arXiv papers (118)
+## Recent arXiv papers (125)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-14 | When Do Discrete Actions Make Good Continuous Controllers? | Zeji Yi, Soham Dasgupta, Xinyang Zhang, Koushil Sreenath et al. | [Abstract](https://arxiv.org/abs/2610.20429) · [PDF](https://arxiv.org/pdf/2610.20429) | rule-assigned |
+| 2026-10-14 | Physical Time as a Missing Dimension of Robot Policy Memory Dynamics | Yushen Liang, Yue Peng, Baosheng Jin, Tianluo Zhang et al. | [Abstract](https://arxiv.org/abs/2610.20524) · [PDF](https://arxiv.org/pdf/2610.20524) | rule-assigned |
+| 2026-10-13 | OccWAM: Occupancy World-Action Models with Joint Scene-to-Ego Flow Matching | Qihang Huang, Wenhui Huang, Collister Chua, Shiyu Fang et al. | [Abstract](https://arxiv.org/abs/2610.17688) · [PDF](https://arxiv.org/pdf/2610.17688) | rule-assigned |
+| 2026-10-13 | Acting Through Registers | Yiwei Zhang, Yantai Yang, Jin Gao, Jin Lou et al. | [Abstract](https://arxiv.org/abs/2610.17638) · [PDF](https://arxiv.org/pdf/2610.17638) | rule-assigned |
+| 2026-10-11 | StreamingWAM: Streaming World Action Modeling via Chunk-Wise Staircase Flow Matching | Shaojie Ren, Jingwen Sun, Zezhi Liu, Hongjin Chen et al. | [Abstract](https://arxiv.org/abs/2610.15585) · [PDF](https://arxiv.org/pdf/2610.15585) | rule-assigned |
+| 2026-10-08 | Residual Modeling Closes the Regression and Generative Policy Gap in Robot Learning | Yuchen Zhou, Jiacheng You, Weikang Wan, Weijun Dong et al. | [Abstract](https://arxiv.org/abs/2610.12231) · [PDF](https://arxiv.org/pdf/2610.12231) | rule-assigned |
 | 2026-10-07 | RFPO: Rectified Flow Policy Optimization for Embodied Control | Ting Huang, Lisiyu Pan, Haoyu Wang, Zeyu Zhang et al. | [Abstract](https://arxiv.org/abs/2610.10453) · [PDF](https://arxiv.org/pdf/2610.10453) | rule-assigned |
 | 2026-10-07 | Q-Learning with Scalar Adjoint Matching | Yonghoon Dong, Minsung Yoon, Jaehyuk Kim, Jungwoo Park et al. | [Abstract](https://arxiv.org/abs/2610.10437) · [PDF](https://arxiv.org/pdf/2610.10437) | rule-assigned |
 | 2026-10-06 | QF3: Fast Flow RL with Filtered Q-Gradients | Chung Min Kim, Brent Yi, David McAllister, Hongsuk Choi et al. | [Abstract](https://arxiv.org/abs/2610.08789) · [PDF](https://arxiv.org/pdf/2610.08789) | rule-assigned |
@@ -126,6 +132,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-11-14 | Scalable Coverage Trajectory Synthesis on GPUs as Statistical Inference | Max M. Sun, Jueun Kwon, Todd Murphey | [Abstract](https://arxiv.org/abs/2511.11514) · [PDF](https://arxiv.org/pdf/2511.11514) | rule-assigned |
 | 2025-11-07 | Multi-agent Coordination via Flow Matching | Dongsu Lee, Daehee Lee, Amy Zhang | [Abstract](https://arxiv.org/abs/2511.05005) · [PDF](https://arxiv.org/pdf/2511.05005) | rule-assigned |
 | 2025-11-02 | XFlowMP: Task-Conditioned Motion Fields for Generative Robot Planning with Schrodinger Bridges | Khang Nguyen, Minh Nhat Vu | [Abstract](https://arxiv.org/abs/2512.00022) · [PDF](https://arxiv.org/pdf/2512.00022) | rule-assigned |
+| 2025-10-31 | Learning Robust Visuomotor Policies via Dynamics Alignment | Dohyeok Lee, Jung Min Lee, Munkyung Kim, Seokhun Ju et al. | [Abstract](https://arxiv.org/abs/2510.27114) · [PDF](https://arxiv.org/pdf/2510.27114) | rule-assigned |
 | 2025-10-13 | Flow Matching-Based Autonomous Driving Planning with Advanced Interactive Behavior Modeling | Tianyi Tan, Yinan Zheng, Ruiming Liang, Zexu Wang et al. | [Abstract](https://arxiv.org/abs/2510.11083) · [PDF](https://arxiv.org/pdf/2510.11083) | rule-assigned |
 | 2025-10-03 | Warm-Starting Optimization-Based Motion Planning for Robotic Manipulators via Point Cloud-Conditioned Flow Matching | Sibo Tian, Minghui Zheng, Xiao Liang | [Abstract](https://arxiv.org/abs/2510.03460) · [PDF](https://arxiv.org/pdf/2510.03460) | rule-assigned |
 | 2025-10-03 | Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data | Tianyu Li, Yihan Li, Zizhe Zhang, Nadia Figueroa | [Abstract](https://arxiv.org/abs/2510.02738) · [PDF](https://arxiv.org/pdf/2510.02738) | rule-assigned |

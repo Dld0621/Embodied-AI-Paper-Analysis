@@ -1,12 +1,12 @@
 # Tactile & Force Sensors · 触觉与力传感器
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Sensors%20%26%20Human%20Interfaces&specialty=Tactile%20%26%20Force%20Sensors#research-workbench)
 
-> 46 conference papers · 64 recent arXiv papers
+> 46 conference papers · 62 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,39 +25,39 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | OcTac: An Octopus Sucker-Inspired Vision-Based Tactile Sensor with Self-Adaptive Adhesion | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697372) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697372) | rule-assigned |
-| 2026 | Zero-shot Sim2Real Transfer for Magnet-Based Tactile Sensor on Insertion Tasks | ICRA · Sim2Real | [Paper](https://arxiv.org/abs/2505.02915) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696106) | rule-assigned |
-| 2025 | FeelAnyForce: Estimating Contact Force Feedback from Tactile Sensation for Vision-Based Tactile Sensors | ICRA · Tactile | [Paper](https://arxiv.org/abs/2410.02048) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127723) | rule-assigned |
+| 2026 | Zero-shot Sim2Real Transfer for Magnet-Based Tactile Sensor on Insertion Tasks | ICRA · Sim2Real | [Paper](https://arxiv.org/pdf/2505.02915) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696106) | rule-assigned |
+| 2025 | FeelAnyForce: Estimating Contact Force Feedback from Tactile Sensation for Vision-Based Tactile Sensors | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2410.02048) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127723) | rule-assigned |
 | 2025 | High-Resolution Reconstruction of Non-Planar Tactile Patterns From Low-Resolution Taxel-Based Tactile Sensors | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127544) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127544) | rule-assigned |
-| 2025 | HumanFT: A Human-Like Fingertip Multimodal Visuo-Tactile Sensor | ICRA · Tactile | [Paper](https://arxiv.org/abs/2410.10353) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128300) | rule-assigned |
-| 2025 | PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-Rich Manipulation Using Tactile-Diffusion Policies | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2504.19341) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128816) | rule-assigned |
+| 2025 | HumanFT: A Human-Like Fingertip Multimodal Visuo-Tactile Sensor | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2410.10353) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128300) | rule-assigned |
+| 2025 | PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-Rich Manipulation Using Tactile-Diffusion Policies | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2504.19341) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128816) | rule-assigned |
 | 2025 | A Lightweight 3-axis Permanent Magnetic Sponge-based Self-Adapting Tactile Sensor | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11247580) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247580) | rule-assigned |
-| 2025 | Bio-Skin: A Cost-Effective Thermostatic Tactile Sensor with Multi-Modal Force and Temperature Detection | IROS · Tactile | [Paper](https://arxiv.org/abs/2503.07989) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246501) | rule-assigned |
-| 2025 | DTactive: A Vision-Based Tactile Sensor with Active Surface | IROS · Tactile | [Paper](https://arxiv.org/abs/2410.08337) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247152) | rule-assigned |
-| 2025 | Dynamic Layer Detection of Thin Materials using DenseTact Optical Tactile Sensors | IROS · Tactile | [Paper](https://arxiv.org/abs/2409.09849) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246688) | rule-assigned |
-| 2025 | Exploratory Movement Strategies for Texture Discrimination with a Neuromorphic Tactile Sensor | IROS · Tactile | [Paper](https://arxiv.org/abs/2509.14954) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247467) | rule-assigned |
-| 2025 | Learning Force Distribution Estimation for the GelSight Mini Optical Tactile Sensor Based on Finite Element Analysis | IROS · Tactile | [Paper](https://arxiv.org/abs/2411.03315) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246486) | rule-assigned |
+| 2025 | Bio-Skin: A Cost-Effective Thermostatic Tactile Sensor with Multi-Modal Force and Temperature Detection | IROS · Tactile | [Paper](https://arxiv.org/pdf/2503.07989) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246501) | rule-assigned |
+| 2025 | DTactive: A Vision-Based Tactile Sensor with Active Surface | IROS · Tactile | [Paper](https://arxiv.org/pdf/2410.08337) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247152) | rule-assigned |
+| 2025 | Dynamic Layer Detection of Thin Materials using DenseTact Optical Tactile Sensors | IROS · Tactile | [Paper](https://arxiv.org/pdf/2409.09849) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246688) | rule-assigned |
+| 2025 | Exploratory Movement Strategies for Texture Discrimination with a Neuromorphic Tactile Sensor | IROS · Tactile | [Paper](https://arxiv.org/pdf/2509.14954) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247467) | rule-assigned |
+| 2025 | Learning Force Distribution Estimation for the GelSight Mini Optical Tactile Sensor Based on Finite Element Analysis | IROS · Tactile | [Paper](https://arxiv.org/pdf/2411.03315) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246486) | rule-assigned |
 | 2025 | M3D-skin: Multi-material 3D-printed Tactile Sensor with Hierarchical Infill Structures for Pressure Sensing | IROS · Tactile | [Paper](https://arxiv.org/abs/2510.12419) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247774) | rule-assigned |
 | 2025 | R-Tac0: A Rounded High-Frequency Transferable Monochrome Vision-based Tactile Sensor for Shape Reconstruction | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11246144) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246144) | rule-assigned |
 | 2025 | Soft Tactile Sensors for Robot Grippers Using Acoustic Sensing | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11245838) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245838) | rule-assigned |
 | 2025 | Stretchable and High-Precision Optical Tactile Sensor for Trajectory Tracking of Parallel Mechanisms | IROS · Tactile | [Paper](https://arxiv.org/abs/2512.20888) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246642) | rule-assigned |
 | 2025 | SuperMag: Vision-based Tactile Data Guided High-resolution Tactile Shape Reconstruction for Magnetic Tactile Sensors | IROS · Tactile | [Paper](https://arxiv.org/abs/2507.20002) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246193) | rule-assigned |
-| 2025 | TwinTac: A Wide-Range, Highly Sensitive Tactile Sensor with Real-To-Sim Digital Twin Sensor Model | IROS · Digital Twin | [Paper](https://arxiv.org/abs/2509.10063) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247002) | rule-assigned |
+| 2025 | TwinTac: A Wide-Range, Highly Sensitive Tactile Sensor with Real-To-Sim Digital Twin Sensor Model | IROS · Digital Twin | [Paper](https://arxiv.org/pdf/2509.10063) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247002) | rule-assigned |
 | 2025 | ViaTac: A High-Resolution Piezoresistive Tactile Sensor Array with Conformal Contact Surface for Shape Reconstruction | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11246894) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246894) | rule-assigned |
 | 2025 | Vision-Based Tactile Sensor Using Light-Conductive Plate for Enhanced Force Sensing Capability | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11247202) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247202) | rule-assigned |
 | 2024 | A Large-area Tactile Sensor for Distributed Force Sensing Using Highly Sensitive Piezoresistive Sponge | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610739) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610739) | rule-assigned |
 | 2024 | DenseTact-Mini: An Optical Tactile Sensor for Grasping Multi-Scale Objects From Flat Surfaces | ICRA · Grasp | [Paper](https://arxiv.org/abs/2309.08860) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610583) | rule-assigned |
 | 2024 | Fully 3D printable Robot Hand and Soft Tactile Sensor based on Air-pressure and Capacitive Proximity Sensing | ICRA · Robot Hand | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610731) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610731) | rule-assigned |
 | 2024 | GelRoller: A Rolling Vision-based Tactile Sensor for Large Surface Reconstruction Using Self-Supervised Photometric Stereo Method | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610417) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610417) | rule-assigned |
-| 2024 | MagicTac: A Novel High-Resolution 3D Multi-layer Grid-Based Tactile Sensor | ICRA · Tactile | [Paper](https://arxiv.org/abs/2402.01366) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610615) | rule-assigned |
-| 2024 | SATac: A Thermoluminescence Enabled Tactile Sensor for Concurrent Perception of Temperature, Pressure, and Shear | ICRA · Tactile | [Paper](https://arxiv.org/abs/2402.00585) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610373) | rule-assigned |
-| 2024 | TacShade: A New 3D-printed Soft Optical Tactile Sensor Based on Light, Shadow and Greyscale for Shape Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/abs/2406.00485) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610508) | rule-assigned |
+| 2024 | MagicTac: A Novel High-Resolution 3D Multi-layer Grid-Based Tactile Sensor | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2402.01366) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610615) | rule-assigned |
+| 2024 | SATac: A Thermoluminescence Enabled Tactile Sensor for Concurrent Perception of Temperature, Pressure, and Shear | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2402.00585) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610373) | rule-assigned |
+| 2024 | TacShade: A New 3D-printed Soft Optical Tactile Sensor Based on Light, Shadow and Greyscale for Shape Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2406.00485) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610508) | rule-assigned |
 | 2024 | Thermoformed electronic skins for conformal tactile sensor arrays | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610733) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610733) | rule-assigned |
 | 2024 | 3D Localization of Objects Buried within Granular Material Using a Distributed 3-Axis Tactile Sensor | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS58592.2024.10802276) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802276) | rule-assigned |
-| 2024 | Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors | IROS · Tactile | [Paper](https://arxiv.org/abs/2407.14380) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801904) | rule-assigned |
+| 2024 | Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors | IROS · Tactile | [Paper](https://arxiv.org/pdf/2407.14380) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801904) | rule-assigned |
 | 2024 | Development of Permanent Magnet Elastomer-based Tactile Sensor with Adjustable Compliance and Sensitivity | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS58592.2024.10801819) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801819) | rule-assigned |
 | 2024 | Fingertip Tactile Sensor for Detecting Rope Slip | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS58592.2024.10801624) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801624) | rule-assigned |
 | 2024 | Magnetic tactile sensor with load tolerance and flexibility using frame structures for estimating triaxial contact force distribution of humanoid | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS58592.2024.10801784) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801784) | rule-assigned |
-| 2023 | DenseTact 2.0: Optical Tactile Sensor for Shape and Force Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2209.10122) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161150) | rule-assigned |
+| 2023 | DenseTact 2.0: Optical Tactile Sensor for Shape and Force Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/abs/2209.10122) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161150) | rule-assigned |
 | 2023 | DTact: A Vision-Based Tactile Sensor that Measures High-Resolution 3D Geometry Directly from Darkness | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2209.13916) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160796) | rule-assigned |
 | 2023 | MagTac: Magnetic Six-Axis Force/Torque Fingertip Tactile Sensor for Robotic Hand Applications | ICRA · Robotic Hand | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161042) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161042) | rule-assigned |
 | 2023 | SonicFinger: Pre-touch and Contact Detection Tactile Sensor for Reactive Pregrasping | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161074) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161074) | rule-assigned |
@@ -71,7 +71,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Load-sensitive Data Acquisition for a Tactile Sensor System of Multi-fingered Robotic Hands | ICRA · Multi Finger | [Paper](https://doi.org/10.1109/icra46639.2022.9812260) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812260) | rule-assigned |
 | 2022 | Slip Anticipation for Grasping Deformable Objects Using a Soft Force Sensor | IROS · Grasp | [Paper](https://infoscience.epfl.ch/handle/20.500.14299/192207) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981174) | rule-assigned |
 
-## Recent arXiv papers (64)
+## Recent arXiv papers (62)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -137,8 +137,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-02 | Evetac: An Event-based Optical Tactile Sensor for Robotic Manipulation | Niklas Funk, Erik Helmut, Georgia Chalvatzaki, Roberto Calandra et al. | [Abstract](https://arxiv.org/abs/2312.01236) · [PDF](https://arxiv.org/pdf/2312.01236) | rule-assigned |
 | 2023-11-20 | Kitchen Artist: Precise Control of Liquid Dispensing for Gourmet Plating | Hung-Jui Huang, Jingyi Xiang, Wenzhen Yuan | [Abstract](https://arxiv.org/abs/2311.12185) · [PDF](https://arxiv.org/pdf/2311.12185) | rule-assigned |
 | 2023-11-10 | TacIPC: Intersection- and Inversion-free FEM-based Elastomer Simulation For Optical Tactile Sensors | Wenxin Du, Wenqiang Xu, Jieji Ren, Zhenjun Yu et al. | [Abstract](https://arxiv.org/abs/2311.05843) · [PDF](https://arxiv.org/pdf/2311.05843) | rule-assigned |
-| 2023-10-13 | FingerTac -- An Interchangeable and Wearable Tactile Sensor for the Fingertips of Human and Robot Hands | Prathamesh Sathe, Alexander Schmitz, Satoshi Funabashi, Tito Pradhono Tomo et al. | [Abstract](https://arxiv.org/abs/2310.09201) · [PDF](https://arxiv.org/pdf/2310.09201) | rule-assigned |
-| 2023-10-12 | Towards Design and Development of an ArUco Markers-Based Quantitative Surface Tactile Sensor | Ozdemir Can Kara, Charles Everson, Farshid Alambeigi | [Abstract](https://arxiv.org/abs/2310.08398) · [PDF](https://arxiv.org/pdf/2310.08398) | rule-assigned |
 
 ---
 

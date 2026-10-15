@@ -1,7 +1,7 @@
 # Running, Jumping & Agile Motion · 跑跳与敏捷运动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Running%2C%20Jumping%20%26%20Agile%20Motion#research-workbench)
@@ -24,20 +24,20 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2025 | Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2409.15610) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127320) | rule-assigned |
+| 2025 | Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2409.15610) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127320) | rule-assigned |
 | 2025 | Realtime Limb Trajectory Optimization for Humanoid Running Through Centroidal Angular Momentum Dynamics | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2501.17351) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127382) | rule-assigned |
-| 2025 | Robust Robot Walker: Learning Agile Locomotion over Tiny Traps | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2409.07409) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128309) | rule-assigned |
+| 2025 | Robust Robot Walker: Learning Agile Locomotion over Tiny Traps | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2409.07409) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128309) | rule-assigned |
 | 2024 | Humanoid Parkour Learning | CoRL · Humanoid | [Paper](https://arxiv.org/abs/2406.10759) · [Index](https://dblp.org/rec/journals/corr/abs-2406-10759) | rule-assigned |
 | 2024 | Learning Visual Parkour from Generated Images | CoRL · Parkour | [Paper](https://arxiv.org/abs/2411.00083) · [Index](https://dblp.org/rec/conf/corl/YuYCRLI24) | rule-assigned |
-| 2024 | Extreme Parkour with Legged Robots | ICRA · Legged | [Paper](https://arxiv.org/abs/2309.14341) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610200) | rule-assigned |
-| 2024 | Learning Agile Locomotion and Adaptive Behaviors via RL-augmented MPC | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2310.09442) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610453) | rule-assigned |
+| 2024 | Extreme Parkour with Legged Robots | ICRA · Legged | [Paper](https://arxiv.org/pdf/2309.14341) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610200) | rule-assigned |
+| 2024 | Learning Agile Locomotion and Adaptive Behaviors via RL-augmented MPC | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2310.09442) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610453) | rule-assigned |
 | 2024 | Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End | ICRA · Legged | [Paper](https://arxiv.org/abs/2310.03581) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611254) | rule-assigned |
 | 2024 | SpaceHopper: A Small-Scale Legged Robot for Exploring Low-Gravity Celestial Bodies | ICRA · Legged | [Paper](https://arxiv.org/abs/2403.02831) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610057) | rule-assigned |
 | 2024 | Learning Agile Locomotion on Risky Terrains | IROS · Locomotion | [Paper](https://arxiv.org/abs/2311.10484) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801909) | rule-assigned |
 | 2024 | LEEPS: Learning End-to-End Legged Perceptive Parkour Skills on Challenging Terrains | IROS · Legged | [Paper](https://doi.org/10.1109/IROS58592.2024.10801925) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801925) | rule-assigned |
 | 2023 | Generalized Animal Imitator: Agile Locomotion with Versatile Motion Prior | CoRL · Locomotion | [Paper](https://arxiv.org/pdf/2310.01408) · [Index](https://dblp.org/rec/journals/corr/abs-2310-01408) | rule-assigned |
 | 2023 | Robot Parkour Learning | CoRL · Parkour | [Paper](https://arxiv.org/pdf/2309.05665) · [Index](https://dblp.org/rec/journals/corr/abs-2309-05665) | rule-assigned |
-| 2023 | Cerberus: Low-Drift Visual-Inertial-Leg Odometry For Agile Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2209.07654) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160486) | rule-assigned |
+| 2023 | Cerberus: Low-Drift Visual-Inertial-Leg Odometry For Agile Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2209.07654) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160486) | rule-assigned |
 | 2023 | Expanding Versatility of Agile Locomotion through Policy Transitions Using Latent State Representation | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2306.08224) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160776) | rule-assigned |
 | 2023 | Visual-Inertial and Leg Odometry Fusion for Dynamic Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2210.02127) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160898) | rule-assigned |
 | 2023 | Dynamic Hybrid Locomotion and Jumping for Wheeled-Legged Quadrupeds | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS55552.2023.10341824) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341824) | rule-assigned |
@@ -73,7 +73,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-22 | When Robots Rate Their Own Interactions: Engagement Validity and the Strangeness Failure | Victor Lockwood, Hasan Mahmud, Mohammad Javad Khojasteh, Prabu David et al. | [Abstract](https://arxiv.org/abs/2606.23339) · [PDF](https://arxiv.org/pdf/2606.23339) | rule-assigned |
 | 2026-06-17 | ART-VS: Adaptive Resolution Tiling for Vision Transformer Visual Servoing | Alessandro Scherl, Bernhard Neuberger, Simon Schwaiger, David Mulero-Pérez et al. | [Abstract](https://arxiv.org/abs/2606.19089) · [PDF](https://arxiv.org/pdf/2606.19089) | rule-assigned |
 | 2026-06-13 | FARM: Find Anything using Relational Spatial Memory | Siming He, Leo Huang, Adam Lilja, Fabio Huebel et al. | [Abstract](https://arxiv.org/abs/2606.15476) · [PDF](https://arxiv.org/pdf/2606.15476) | rule-assigned |
-| 2026-05-25 | ParkourFormer: Integrating Predictive Supervision and Sequence Modeling into Parkour Locomotion | Yanheng Mai, Wenhao Xu, Zirui Huang, Yifei Fu et al. | [Abstract](https://arxiv.org/abs/2605.25782) · [PDF](https://arxiv.org/pdf/2605.25782) | rule-assigned |
+| 2026-06-08 | RAM: Reachability Across Morphologies | Tim Walter, Xinyu Chen, Jonathan Külz, Matthias Althoff | [Abstract](https://arxiv.org/abs/2606.09108) · [PDF](https://arxiv.org/pdf/2606.09108) | rule-assigned |
+| 2026-05-25 | ParkourFormer: Integrating Predictive Supervision and Sequence Modeling into Parkour Locomotion | Yanheng Mai, Wenhao Xu, Zirui Huang, Kailun Huang et al. | [Abstract](https://arxiv.org/abs/2605.25782) · [PDF](https://arxiv.org/pdf/2605.25782) | rule-assigned |
 | 2026-05-15 | From Prompts to Protocols: An AI Agent for Laboratory Automation | Angelos Angelopoulos, James F. Cahoon, Ron Alterovitz | [Abstract](https://arxiv.org/abs/2605.16552) · [PDF](https://arxiv.org/pdf/2605.16552) | rule-assigned |
 | 2026-05-12 | RoboBlockly Studio: Conversational Block Programming with Embodied Robot Feedback for Computational Thinking | Leyi Li, Chenyu Du, Jiafei Sun, Erick Purwanto et al. | [Abstract](https://arxiv.org/abs/2605.12059) · [PDF](https://arxiv.org/pdf/2605.12059) | rule-assigned |
 | 2026-04-09 | Density-Driven Optimal Control: Convergence Guarantees for Stochastic LTI Multi-Agent Systems | Kooktae Lee | [Abstract](https://arxiv.org/abs/2604.08495) · [PDF](https://arxiv.org/pdf/2604.08495) | rule-assigned |
@@ -152,7 +153,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-23 | Martian Lava Tube Exploration Using Jumping Legged Robots: A Concept Study | Jørgen Anker Olsen, Kostas Alexis | [Abstract](https://arxiv.org/abs/2310.14876) · [PDF](https://arxiv.org/pdf/2310.14876) | rule-assigned |
 | 2023-10-19 | From Propeller Damage Estimation and Adaptation to Fault Tolerant Control: Enhancing Quadrotor Resilience | Jeffrey Mao, Jennifer Yeom, Suraj Nair, Giuseppe Loianno | [Abstract](https://arxiv.org/abs/2310.13091) · [PDF](https://arxiv.org/pdf/2310.13091) | rule-assigned |
 | 2023-10-18 | Guaranteed, Predictable, Polynomial AGV Time-Pathing | James Forster | [Abstract](https://arxiv.org/abs/2310.12006) · [PDF](https://arxiv.org/pdf/2310.12006) | rule-assigned |
-| 2023-10-13 | Learning Agile Locomotion and Adaptive Behaviors via RL-augmented MPC | Yiyu Chen, Quan Nguyen | [Abstract](https://arxiv.org/abs/2310.09442) · [PDF](https://arxiv.org/pdf/2310.09442) | rule-assigned |
 
 ---
 

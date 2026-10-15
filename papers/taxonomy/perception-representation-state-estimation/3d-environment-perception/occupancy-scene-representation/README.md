@@ -1,12 +1,12 @@
 # Occupancy & Scene Representation · 占据与场景表达
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=Occupancy%20%26%20Scene%20Representation#research-workbench)
 
-> 31 conference papers · 325 recent arXiv papers
+> 34 conference papers · 330 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,46 +20,55 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (31)
+## Conference papers (34)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning | ICRA · Llm | [Paper](https://arxiv.org/abs/2506.15828) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696962) | rule-assigned |
-| 2026 | KeySG: Hierarchical Keyframe-Based 3D Scene Graphs | ICRA · 3D Scene | [Paper](https://arxiv.org/abs/2510.01049) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697466) | rule-assigned |
+| 2026 | Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning | ICRA · Llm | [Paper](https://arxiv.org/pdf/2506.15828) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696962) | rule-assigned |
+| 2026 | KeySG: Hierarchical Keyframe-Based 3D Scene Graphs | ICRA · 3D Scene | [Paper](https://arxiv.org/pdf/2510.01049) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697466) | rule-assigned |
+| 2026 | Language Enabled Hierarchical Scene Graphs For Precision Agriculture Autonomy | ICRA · Scene Graph | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695996) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695996) | rule-assigned |
 | 2026 | One Prompt, Many Rooms: A Force-Directed Approach to 3D Scene Generation for Robotics Simulation | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696816) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696816) | rule-assigned |
-| 2026 | Relationship-Aware Hierarchical 3D Scene Graph for Task Reasoning | ICRA · 3D Scene | [Paper](https://arxiv.org/abs/2602.02456) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696439) | rule-assigned |
-| 2026 | Structured Interfaces for Automated Reasoning with 3D Scene Graphs | ICRA · 3D Scene | [Paper](https://arxiv.org/abs/2510.16643) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695762) | rule-assigned |
-| 2025 | Beyond Bare Queries: Open-Vocabulary Object Grounding with 3D Scene Graph | ICRA · 3D Scene | [Paper](https://arxiv.org/abs/2406.07113) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128059) | rule-assigned |
+| 2026 | Relationship-Aware Hierarchical 3D Scene Graph for Task Reasoning | ICRA · 3D Scene | [Paper](https://arxiv.org/pdf/2602.02456) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696439) | rule-assigned |
+| 2026 | SA-VLM v2: Useful, Comprehensive, and Concise Guidance for Guide-Dog Robots Assisting the Visually Impaired | ICRA · Vlm | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695842) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695842) | rule-assigned |
+| 2026 | Structured Interfaces for Automated Reasoning with 3D Scene Graphs | ICRA · 3D Scene | [Paper](https://arxiv.org/pdf/2510.16643) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695762) | rule-assigned |
+| 2026 | Y-MAP-Net: Learning from Foundation Models for Real-Time, Multi-Task Scene Perception | ICRA · Foundation Model | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696039) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696039) | rule-assigned |
+| 2025 | Beyond Bare Queries: Open-Vocabulary Object Grounding with 3D Scene Graph | ICRA · 3D Scene | [Paper](https://arxiv.org/pdf/2406.07113) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128059) | rule-assigned |
 | 2025 | Enhancing 3D Scene Graphs with Real-Time Room Classification | ICRA · 3D Scene | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128432) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128432) | rule-assigned |
 | 2025 | Interaction-Driven Updates: 3D Scene Graph Maintenance During Robot Task Execution | ICRA · 3D Scene | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128194) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128194) | rule-assigned |
-| 2025 | Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2502.06419) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127665) | rule-assigned |
-| 2025 | Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding | IROS · 3D Scene | [Paper](https://arxiv.org/abs/2503.08474) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245861) | rule-assigned |
-| 2025 | FunGraph: Functionality Aware 3D Scene Graphs for Language-Prompted Scene Interaction | IROS · 3D Scene | [Paper](https://arxiv.org/abs/2503.07909) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247555) | rule-assigned |
-| 2025 | Generating Actionable Robot Knowledge Bases by Combining 3D Scene Graphs with Robot Ontologies | IROS · 3D Scene | [Paper](https://arxiv.org/abs/2507.11770) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245658) | rule-assigned |
+| 2025 | Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2502.06419) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127665) | rule-assigned |
+| 2025 | Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding | IROS · 3D Scene | [Paper](https://arxiv.org/pdf/2503.08474) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245861) | rule-assigned |
+| 2025 | FunGraph: Functionality Aware 3D Scene Graphs for Language-Prompted Scene Interaction | IROS · 3D Scene | [Paper](https://arxiv.org/pdf/2503.07909) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247555) | rule-assigned |
+| 2025 | Generating Actionable Robot Knowledge Bases by Combining 3D Scene Graphs with Robot Ontologies | IROS · 3D Scene | [Paper](https://arxiv.org/pdf/2507.11770) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245658) | rule-assigned |
 | 2025 | Learning Upright and Forward-Facing Object Poses using Category-level Canonical Representations | IROS · Object Pose | [Paper](https://doi.org/10.1109/IROS60139.2025.11246355) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246355) | rule-assigned |
-| 2025 | QueryAdapter: Rapid Adaptation of Vision-Language Models in Response to Natural Language Queries | IROS · Language Model | [Paper](https://arxiv.org/abs/2502.18735) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247345) | rule-assigned |
+| 2025 | QueryAdapter: Rapid Adaptation of Vision-Language Models in Response to Natural Language Queries | IROS · Language Model | [Paper](https://arxiv.org/pdf/2502.18735) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247345) | rule-assigned |
 | 2025 | REACT: Real-time Efficient Attribute Clustering and Transfer for Updatable 3D Scene Graph | IROS · 3D Scene | [Paper](https://arxiv.org/pdf/2503.03412) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247273) | rule-assigned |
 | 2024 | 3D Diffuser Actor: Policy Diffusion with 3D Scene Representations | CoRL · 3D Scene | [Paper](https://arxiv.org/abs/2402.10885) · [Index](https://dblp.org/rec/conf/corl/KeGF24) | rule-assigned |
 | 2024 | A3VLM: Actionable Articulation-Aware Vision Language Model | CoRL · Language Model | [Paper](https://arxiv.org/abs/2406.07549) · [Index](https://dblp.org/rec/conf/corl/0004CLZ0B0024) | rule-assigned |
 | 2024 | VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding | CoRL · Vlm | [Paper](https://arxiv.org/abs/2410.13860) · [Index](https://dblp.org/rec/journals/corr/abs-2410-13860) | rule-assigned |
-| 2024 | Belief Scene Graphs: Expanding Partial Scenes with Objects through Computation of Expectation | ICRA · Scene Graph | [Paper](https://arxiv.org/abs/2402.03840) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611352) | rule-assigned |
-| 2024 | ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning | ICRA · 3D Scene | [Paper](https://arxiv.org/abs/2309.16650) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610243) | rule-assigned |
-| 2024 | LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2309.12311) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610443) | rule-assigned |
-| 2024 | Language-Embedded Gaussian Splats (LEGS): Incrementally Building Room-Scale Representations with a Mobile Robot | IROS · Mobile Robot | [Paper](https://escholarship.org/uc/item/1td9v9kc) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802196) | rule-assigned |
-| 2024 | OpenOcc: Open Vocabulary 3D Scene Reconstruction via Occupancy Representation | IROS · 3D Scene | [Paper](https://arxiv.org/abs/2403.11796) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801860) | rule-assigned |
-| 2024 | QueSTMaps: Queryable Semantic Topological Maps for 3D Scene Understanding | IROS · 3D Scene | [Paper](https://arxiv.org/abs/2404.06442) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801814) | rule-assigned |
+| 2024 | Belief Scene Graphs: Expanding Partial Scenes with Objects through Computation of Expectation | ICRA · Scene Graph | [Paper](https://arxiv.org/pdf/2402.03840) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611352) | rule-assigned |
+| 2024 | ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning | ICRA · 3D Scene | [Paper](https://arxiv.org/pdf/2309.16650) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610243) | rule-assigned |
+| 2024 | LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2309.12311) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610443) | rule-assigned |
+| 2024 | Language-Embedded Gaussian Splats (LEGS): Incrementally Building Room-Scale Representations with a Mobile Robot | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2409.18108) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802196) | rule-assigned |
+| 2024 | OpenOcc: Open Vocabulary 3D Scene Reconstruction via Occupancy Representation | IROS · 3D Scene | [Paper](https://arxiv.org/pdf/2403.11796) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801860) | rule-assigned |
+| 2024 | QueSTMaps: Queryable Semantic Topological Maps for 3D Scene Understanding | IROS · 3D Scene | [Paper](https://arxiv.org/pdf/2404.06442) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801814) | rule-assigned |
 | 2023 | Context-Aware Entity Grounding with Open-Vocabulary 3D Scene Graphs | CoRL · 3D Scene | [Paper](https://arxiv.org/pdf/2309.15940) · [Index](https://dblp.org/rec/conf/corl/ChangBLCJKGAZBB23) | rule-assigned |
 | 2023 | Semantic Mechanical Search with Large Vision and Language Models | CoRL · Language Model | [Paper](https://arxiv.org/abs/2302.12915) · [Index](https://dblp.org/rec/conf/corl/SharmaHSCHIG23) | rule-assigned |
 | 2023 | 3D VSG: Long-term Semantic Scene Change Prediction through 3D Variable Scene Graphs | ICRA · Scene Graph | [Paper](https://arxiv.org/pdf/2209.07896) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161212) | rule-assigned |
 | 2023 | Real-time event simulation with frame-based cameras | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2209.04634) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160654) | rule-assigned |
 | 2022 | MIRA: Mental Imagery for Robotic Affordances | CoRL · Affordance | [Paper](https://arxiv.org/abs/2212.06088) · [Index](https://dblp.org/rec/conf/corl/LinFZBDMSGI22) | rule-assigned |
 | 2022 | Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models | CoRL · Language Model | [Paper](https://arxiv.org/pdf/2207.11514) · [Index](https://dblp.org/rec/conf/corl/HaS22) | rule-assigned |
-| 2022 | Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization | RSS · 3D Scene | [Paper](https://hdl.handle.net/1721.1/145300) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.050) | rule-assigned |
+| 2022 | Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization | RSS · 3D Scene | [Paper](https://arxiv.org/pdf/2201.13360) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.050) | rule-assigned |
 
-## Recent arXiv papers (325)
+## Recent arXiv papers (330)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-13 | RadarGSOcc: Doppler-Aware 3D Semantic Occupancy Prediction Using 4D Radar Tensor with Geometric-Semantic Feature Extraction | Christofel Rio Goenawan, Dong-Hee Paek, Seung-Hyun Kong | [Abstract](https://arxiv.org/abs/2610.18686) · [PDF](https://arxiv.org/pdf/2610.18686) | rule-assigned |
+| 2026-10-13 | Perception Beyond the Visible: Incompleteness-Aware Scene Understanding for Robot Autonomy | Rohit Mohan | [Abstract](https://arxiv.org/abs/2610.18670) · [PDF](https://arxiv.org/pdf/2610.18670) | rule-assigned |
+| 2026-10-12 | ConDenseDrive: Knowledge-Dense, Token-Sparse Visual Encoder for End-to-End Autonomous Driving | Shengzhen Li, Yongkang Li, Hao Gao, Chenxi Wu et al. | [Abstract](https://arxiv.org/abs/2610.16908) · [PDF](https://arxiv.org/pdf/2610.16908) | rule-assigned |
+| 2026-10-12 | Act4R: Action-conditioned 4D reconstruction for kinematics-free control | Zhaoliang Zhang, Chenhao Yu, Zhimin Shao, Xijun Liu et al. | [Abstract](https://arxiv.org/abs/2610.17462) · [PDF](https://arxiv.org/pdf/2610.17462) | rule-assigned |
+| 2026-10-11 | GNFormer: Gaussian Neural Field Transformer for Efficient Camera-based Occupancy Prediction | Guangcheng Chen, Li He, Hong Zhang | [Abstract](https://arxiv.org/abs/2610.15522) · [PDF](https://arxiv.org/pdf/2610.15522) | rule-assigned |
+| 2026-10-10 | From Field to Planning: Learning Temporal Polar Gradient Fields for Vision-based AAV Trajectory Planning in Dynamic Environments | Haowen Gao, Zhan Chen, Yinuo Xu, Yifeng Niu et al. | [Abstract](https://arxiv.org/abs/2610.14482) · [PDF](https://arxiv.org/pdf/2610.14482) | rule-assigned |
 | 2026-10-07 | NeRFifyMesh: Optimizing Neural Radiance Fields from Textured Meshes for Robotics Scene Building | Nillan Nimal, Mahboubeh Asadi, Sajad Saeedi | [Abstract](https://arxiv.org/abs/2610.10387) · [PDF](https://arxiv.org/pdf/2610.10387) | rule-assigned |
 | 2026-10-06 | OpenSplatGraph: From Dense Semantic Maps to Structured Scene Graphs for Open-Vocabulary Robot Perception | Binh Long Nguyen, Kien Nguyen, Clinton Fookes, Peyman Moghadam | [Abstract](https://arxiv.org/abs/2610.07569) · [PDF](https://arxiv.org/pdf/2610.07569) | rule-assigned |
 | 2026-10-03 | SelectOccFlow: Selective Spatiotemporal Aggregation for 3D Occupancy and Scene Flow Prediction | Yuhang Wang, Kai Luo, Yuanfan Zheng, Kailun Yang | [Abstract](https://arxiv.org/abs/2610.04356) · [PDF](https://arxiv.org/pdf/2610.04356) | rule-assigned |
@@ -86,10 +95,10 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-09-03 | AquaBEV: Monocular Underwater BEV Occupancy with 3D Sonar Supervision | Trung Tien Dong, Shengji Jin, Chen Chen, Yi Sheng et al. | [Abstract](https://arxiv.org/abs/2609.04411) · [PDF](https://arxiv.org/pdf/2609.04411) | rule-assigned |
 | 2026-09-01 | DSG: Dynamic 3D Scene Graph Construction for Embodied Agents in Changing Indoor Environments | Ming Liao, Chao Ye, Jianing Fei, Weiyang Lin | [Abstract](https://arxiv.org/abs/2609.00619) · [PDF](https://arxiv.org/pdf/2609.00619) | rule-assigned |
 | 2026-08-28 | Generation of High-Level Concepts in 3D Scene Graphs via Autoregressive Diffusion | Jose Andres Millan-Romera, Samuel Cognolato, Holger Voos, Jose Luis Sanchez-Lopez et al. | [Abstract](https://arxiv.org/abs/2608.28733) · [PDF](https://arxiv.org/pdf/2608.28733) | rule-assigned |
+| 2026-08-24 | RoboRacer Arena: Specification-Driven Track Construction for Autonomous Racing | Mihaela-Larisa Clement, Agnes Poks, Ezio Bartocci | [Abstract](https://arxiv.org/abs/2608.23040) · [PDF](https://arxiv.org/pdf/2608.23040) | rule-assigned |
 | 2026-08-24 | MIVIFI: Bridging Perspective and Fisheye Domains for Training Multi-View Fisheye Image Generation Models | Matthias Neuwirth-Trapp, Begüm Altunbas, Jiayi Wang, Yan Xia et al. | [Abstract](https://arxiv.org/abs/2608.23140) · [PDF](https://arxiv.org/pdf/2608.23140) | rule-assigned |
 | 2026-08-19 | LT-Mem: Volatility-Aware Spatio-Temporal Memory for Lifelong Scene Understanding | Yumin Lee, Hyoseok Ju, Giseop Kim | [Abstract](https://arxiv.org/abs/2608.19059) · [PDF](https://arxiv.org/pdf/2608.19059) | rule-assigned |
 | 2026-08-10 | FactorDrive: Adaptive Multi-Step Reasoning Driven by Planning-Critical Factors for End-to-End Autonomous Driving | Guolei Huang, Tengfei She, Yuxuan Lu, Yao Huang et al. | [Abstract](https://arxiv.org/abs/2608.09591) · [PDF](https://arxiv.org/pdf/2608.09591) | rule-assigned |
-| 2026-07-31 | CorrelationFlow: A Training-Free Geometric Approach for LiDAR Scene Flow Estimation | Minh-Quan Dao, Yancong Lin, Julie Stephany Berrio Perez, Holger Caesar | [Abstract](https://arxiv.org/abs/2607.29237) · [PDF](https://arxiv.org/pdf/2607.29237) | rule-assigned |
 | 2026-07-28 | Scene-Q: Confidence-Aware Coarse-to-Fine Querying of 3D Scenes with Selective VLM Reasoning | Juno Kim, Yesol Park, Hye-Jung Yoon, Byoung-Tak Zhang | [Abstract](https://arxiv.org/abs/2609.20235) · [PDF](https://arxiv.org/pdf/2609.20235) | rule-assigned |
 | 2026-07-21 | Cognitive Dual-Process Planning for Autonomous Driving with Structured Scene Knowledge and Verifiable Reasoning-Action Consistency | Zhongyao Yang, Haoyu Li, Yu Yan, Zhuangxuan Yu et al. | [Abstract](https://arxiv.org/abs/2607.19194) · [PDF](https://arxiv.org/pdf/2607.19194) | rule-assigned |
 | 2026-07-18 | Autonomous VR-Based Risk Detection for Situational Awareness in Dangerous Settings | Mohammad Eskandari, Murali Krishna Varma Indukuri, Stephanie M. Lukin, Cynthia Matuszek | [Abstract](https://arxiv.org/abs/2607.16582) · [PDF](https://arxiv.org/pdf/2607.16582) | rule-assigned |
@@ -384,7 +393,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-01 | Generalized Robot 3D Vision-Language Model with Fast Rendering and Pre-Training Vision-Language Alignment | Kangcheng Liu, Yong-Jin Liu, Baoquan Chen | [Abstract](https://arxiv.org/abs/2312.00663) · [PDF](https://arxiv.org/pdf/2312.00663) | rule-assigned |
 | 2023-10-17 | LiDAR-based 4D Occupancy Completion and Forecasting | Xinhao Liu, Moonjun Gong, Qi Fang, Haoyu Xie et al. | [Abstract](https://arxiv.org/abs/2310.11239) · [PDF](https://arxiv.org/pdf/2310.11239) | rule-assigned |
 | 2023-10-16 | Multi-Body Neural Scene Flow | Kavisha Vidanapathirana, Shin-Fang Chng, Xueqian Li, Simon Lucey | [Abstract](https://arxiv.org/abs/2310.10301) · [PDF](https://arxiv.org/pdf/2310.10301) | rule-assigned |
-| 2023-10-09 | DyST: Towards Dynamic Neural Scene Representations on Real-World Videos | Maximilian Seitzer, Sjoerd van Steenkiste, Thomas Kipf, Klaus Greff et al. | [Abstract](https://arxiv.org/abs/2310.06020) · [PDF](https://arxiv.org/pdf/2310.06020) | rule-assigned |
 
 ---
 

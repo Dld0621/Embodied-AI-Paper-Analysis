@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Pending%20specialty%20review#research-workbench)
 
-> 11 conference papers · 13 recent arXiv papers
+> 10 conference papers · 13 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,21 +20,20 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (11)
+## Conference papers (10)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Multi-modal Affordance Planner with Temporal-Context Action Policy for Long-Horizon Bimanual Robot Manipulation | ICRA · Bimanual | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695814) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695814) | needs-review |
-| 2025 | Active Vision Might Be All You Need: Exploring Active Vision in Bimanual Robotic Manipulation | ICRA · Bimanual | [Paper](https://arxiv.org/abs/2409.17435) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128253) | needs-review |
-| 2025 | BiFold: Bimanual Cloth Folding with Language Guidance | ICRA · Bimanual | [Paper](https://upcommons.upc.edu/bitstreams/e402a765-88f9-465f-a761-5f7345eebf6a/download) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127549) | needs-review |
+| 2025 | Active Vision Might Be All You Need: Exploring Active Vision in Bimanual Robotic Manipulation | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2409.17435) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128253) | needs-review |
+| 2025 | BiFold: Bimanual Cloth Folding with Language Guidance | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2501.16458) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127549) | needs-review |
 | 2025 | Frozen Triumph: Lessons from GARMI’s Bimanual Trophy Handover at the Kandahar Ski World Cup – Shaping Current Research Directions | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS60139.2025.11246754) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246754) | needs-review |
-| 2025 | GraphGarment: Learning Garment Dynamics for Bimanual Cloth Manipulation Tasks | IROS · Bimanual | [Paper](https://arxiv.org/abs/2503.05817) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246283) | needs-review |
-| 2025 | Imitation-Guided Bimanual Planning for Stable Manipulation under Changing External Forces | IROS · Bimanual | [Paper](https://arxiv.org/abs/2509.19261) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246712) | needs-review |
-| 2025 | Omni-Scan: Creating Visually-Accurate Digital Twin Object Models Using a Bimanual Robot with Handover and Gaussian Splat Merging | IROS · Bimanual | [Paper](https://arxiv.org/abs/2508.00354) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247192) | needs-review |
+| 2025 | GraphGarment: Learning Garment Dynamics for Bimanual Cloth Manipulation Tasks | IROS · Bimanual | [Paper](https://arxiv.org/pdf/2503.05817) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246283) | needs-review |
+| 2025 | Imitation-Guided Bimanual Planning for Stable Manipulation under Changing External Forces | IROS · Bimanual | [Paper](https://arxiv.org/pdf/2509.19261) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246712) | needs-review |
+| 2025 | Omni-Scan: Creating Visually-Accurate Digital Twin Object Models Using a Bimanual Robot with Handover and Gaussian Splat Merging | IROS · Bimanual | [Paper](https://arxiv.org/pdf/2508.00354) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247192) | needs-review |
 | 2023 | Dynamic Handover: Throw and Catch with Bimanual Hands | CoRL · Bimanual | [Paper](https://arxiv.org/pdf/2309.05655) · [Index](https://dblp.org/rec/conf/corl/HuangCWQ00W23) | needs-review |
 | 2023 | Bimanual Rope Manipulation Skill Synthesis through Context Dependent Correction Policy Learning from Human Demonstration | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2209.13850) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160895) | needs-review |
 | 2022 | Learning Bimanual Scooping Policies for Food Acquisition | CoRL · Bimanual | [Paper](https://arxiv.org/abs/2211.14652) · [Index](https://dblp.org/rec/conf/corl/GrannenWBS22) | needs-review |
-| 2022 | SpeedFolding: Learning Efficient Bimanual Folding of Garments | IROS · Bimanual | [Paper](https://arxiv.org/abs/2208.10552) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981402) | needs-review |
+| 2022 | SpeedFolding: Learning Efficient Bimanual Folding of Garments | IROS · Bimanual | [Paper](https://arxiv.org/pdf/2208.10552) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981402) | needs-review |
 
 ## Recent arXiv papers (13)
 

@@ -1,7 +1,7 @@
 # Contributing
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 Thanks for improving the Embodied AI Research Index. The project maintains two evidence layers: an accepted-conference census and a separately labeled recent-arXiv census. The goal is systematic coverage under defensible, reproducible boundaries—not an untraceable paper dump.
@@ -93,6 +93,14 @@ python scripts/record_arxiv_refresh.py --baseline <previous-commit> --date YYYY-
 ```
 
 The immutable receipt distinguishes newly admitted from newly published papers, lists rolling-window removals and retained metadata changes, and records unexplained in-window absences. If official metadata and the admission function were separately checked, pass `--admission-review <review.json>` to preserve that evidence; use the same arguments for `--check`. An absence is not evidence of withdrawal. Historical receipts cannot be replaced with different contents.
+
+When both source layers were actually refreshed, record the conference delta as well:
+
+```bash
+python scripts/record_arxiv_refresh.py --baseline <previous-commit> --date YYYY-MM-DD --allow-conference-refresh
+```
+
+This explicit mode requires a matching conference snapshot date and records conference additions, removals and retained metadata changes. Conference identity uses a source ID when available, otherwise a declared normalized-title/venue key; year and reading links remain updatable metadata, not new-paper identities. Without the flag, the original arXiv-only conference-preservation guard still applies. Add verified `conference_records` to the optional admission-review JSON to explain source-rule removals without labeling them withdrawals. Full retained-change details stay in the JSON receipt; the Markdown receipt shows at most 20 examples to remain readable.
 
 Use [`docs/paper-analysis-template.md`](docs/paper-analysis-template.md). Separate:
 

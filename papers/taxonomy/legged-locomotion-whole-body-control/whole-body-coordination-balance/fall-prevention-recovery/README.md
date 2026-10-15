@@ -1,12 +1,12 @@
 # Fall Prevention & Recovery · 跌倒预防与恢复
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Coordination%20%26%20Balance&specialty=Fall%20Prevention%20%26%20Recovery#research-workbench)
 
-> 7 conference papers · 31 recent arXiv papers
+> 8 conference papers · 32 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,22 +20,24 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (7)
+## Conference papers (8)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | Iterative Learning-based Centre-of-Mass Impedance Control for Articulated-Soft Humanoid Robots | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697108) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697108) | rule-assigned |
 | 2026 | Mixture-of-Experts Policy for Smooth and Stable Multi-Posture Fall Recovery in Bipedal Robot | ICRA · Biped | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696734) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696734) | rule-assigned |
-| 2026 | MUJICA: Multi-skill Unified Joint Integration of Control Architecture for Wheeled-Legged Robots | ICRA · Legged | [Paper](https://arxiv.org/abs/2605.13058) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696604) | rule-assigned |
-| 2026 | Unified Humanoid Fall-Safety Policy from A Few Demonstrations | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2511.07407) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696999) | rule-assigned |
-| 2025 | FRASA: An End-to-End Reinforcement Learning Agent for Fall Recovery and Stand Up of Humanoid Robots | ICRA · Humanoid | [Paper](https://hal.science/hal-05302582) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128664) | rule-assigned |
+| 2026 | MUJICA: Multi-skill Unified Joint Integration of Control Architecture for Wheeled-Legged Robots | ICRA · Legged | [Paper](https://arxiv.org/pdf/2605.13058) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696604) | rule-assigned |
+| 2026 | Unified Humanoid Fall-Safety Policy from A Few Demonstrations | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2511.07407) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696999) | rule-assigned |
+| 2025 | FRASA: An End-to-End Reinforcement Learning Agent for Fall Recovery and Stand Up of Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2410.08655) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128664) | rule-assigned |
 | 2025 | HiFAR: Multi-Stage Curriculum Learning for High-Dynamics Humanoid Fall Recovery | IROS · Humanoid | [Paper](https://arxiv.org/abs/2502.20061) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245953) | rule-assigned |
-| 2024 | Efficient, Dynamic Locomotion through Step Placement with Straight Legs and Rolling Contacts | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2310.13134) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611056) | rule-assigned |
+| 2024 | Efficient, Dynamic Locomotion through Step Placement with Straight Legs and Rolling Contacts | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2310.13134) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611056) | rule-assigned |
 | 2024 | HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2309.14225) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610449) | rule-assigned |
 
-## Recent arXiv papers (31)
+## Recent arXiv papers (32)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-08 | FallGown: A Soft Pneumatic Wearable Device for Fall Prevention | Megan C. Coram, Haoran Lei, Steven H. Collins, Steve B. Cousins et al. | [Abstract](https://arxiv.org/abs/2610.12706) · [PDF](https://arxiv.org/pdf/2610.12706) | rule-assigned |
 | 2026-10-02 | KungfuAthleteBot: learning high-dynamic humanoid motion from video with unified robust recovery | Zhongxiang Lei, Lulu Cao, Xuyang Wang, Tianyi Qian et al. | [Abstract](https://arxiv.org/abs/2610.03388) · [PDF](https://arxiv.org/pdf/2610.03388) | rule-assigned |
 | 2026-09-30 | Locomotion-Grounded Humanoid Soccer: Task-Gated Reinforcement Learning of a Multi-Directional Kicking Library | Abu Hanif Muhammad Syarubany, Jaehyun Jang, Hwanhee Kim, Kyuwon Kim et al. | [Abstract](https://arxiv.org/abs/2609.38852) · [PDF](https://arxiv.org/pdf/2609.38852) | rule-assigned |
 | 2026-09-15 | Fingers as Legs: Learning Self-Supported Locomotion and Manipulation with an Anthropomorphic Hand | Amirhossein Kazemipour, Hehui Zheng, Robert Katzschmann | [Abstract](https://arxiv.org/abs/2609.17172) · [PDF](https://arxiv.org/pdf/2609.17172) | rule-assigned |

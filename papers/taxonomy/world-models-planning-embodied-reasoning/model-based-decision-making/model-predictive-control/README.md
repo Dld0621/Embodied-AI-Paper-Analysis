@@ -1,12 +1,12 @@
 # Model Predictive Control · 模型预测控制
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Model-based%20Decision%20Making&specialty=Model%20Predictive%20Control#research-workbench)
 
-> 11 conference papers · 296 recent arXiv papers
+> 11 conference papers · 300 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,10 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Reimagination with Test-time Observation Interventions: Distractor-Robust World Model Predictions for Visual Model Predictive Control | ICRA · World Model | [Paper](https://arxiv.org/abs/2506.16565) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696601) | rule-assigned |
-| 2025 | Bounding Distributional Shifts in World Modeling through Novelty Detection | IROS · World Model | [Paper](https://arxiv.org/abs/2508.06096) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247183) | rule-assigned |
-| 2025 | Dynamic Risk-Aware MPPI for Mobile Robots in Crowds via Efficient Monte Carlo Approximations | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2506.21205) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246822) | rule-assigned |
-| 2024 | Construction of Musculoskeletal Simulation for Shoulder Complex with Ligaments and Its Validation via Model Predictive Control | IROS · Simulation | [Paper](https://arxiv.org/abs/2410.05931) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802465) | rule-assigned |
+| 2026 | Reimagination with Test-time Observation Interventions: Distractor-Robust World Model Predictions for Visual Model Predictive Control | ICRA · World Model | [Paper](https://arxiv.org/pdf/2506.16565) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696601) | rule-assigned |
+| 2025 | Bounding Distributional Shifts in World Modeling through Novelty Detection | IROS · World Model | [Paper](https://arxiv.org/pdf/2508.06096) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247183) | rule-assigned |
+| 2025 | Dynamic Risk-Aware MPPI for Mobile Robots in Crowds via Efficient Monte Carlo Approximations | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2506.21205) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246822) | rule-assigned |
+| 2024 | Construction of Musculoskeletal Simulation for Shoulder Complex with Ligaments and Its Validation via Model Predictive Control | IROS · Simulation | [Paper](https://arxiv.org/pdf/2410.05931) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802465) | rule-assigned |
 | 2024 | Safe Imitation Learning of Nonlinear Model Predictive Control for Flexible Robots | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2212.02941) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801854) | rule-assigned |
 | 2024 | Learning to Learn Faster from Human Feedback with Language Model Predictive Control | RSS · Language Model | [Paper](https://arxiv.org/abs/2402.11450) · [Index](https://dblp.org/rec/conf/rss/Liang000AVBBDFG24) | rule-assigned |
 | 2024 | Real-Time Anomaly Detection and Reactive Planning with Large Language Models | RSS · Large Language Model | [Paper](https://arxiv.org/abs/2407.08735) · [Index](https://dblp.org/rec/conf/rss/SinhaEAFS024) | rule-assigned |
@@ -36,10 +36,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Nonlinear Model Predictive Control with Cost Function Scheduling for a Wheeled Mobile Robot | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981066) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981066) | rule-assigned |
 | 2022 | SMS-MPC: Adversarial Learning-based Simultaneous Prediction Control with Single Model for Mobile Robots | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981289) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981289) | rule-assigned |
 
-## Recent arXiv papers (296)
+## Recent arXiv papers (300)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-14 | VIGOR-MPC: Vision-Guided Objective Regulation MPC | Jelena Trisovic, Rahel Rickenbach, Marek Landert, Panagiotis Minos et al. | [Abstract](https://arxiv.org/abs/2610.20333) · [PDF](https://arxiv.org/pdf/2610.20333) | rule-assigned |
+| 2026-10-12 | Task-Space Motion-Force Nonlinear Model Predictive Control for Precise and Compliant Control under Uncertainties | Quang-Nam Nguyen, Ludovic Righetti | [Abstract](https://arxiv.org/abs/2610.17069) · [PDF](https://arxiv.org/pdf/2610.17069) | rule-assigned |
+| 2026-10-12 | Imitation Learning of Avoidance Modes for Efficient Multimodal Model Predictive Control | Changyu Lee, Byung-Kwan Lee, Kanghoon Yoon | [Abstract](https://arxiv.org/abs/2610.16326) · [PDF](https://arxiv.org/pdf/2610.16326) | rule-assigned |
+| 2026-10-11 | Efficient Hybrid Hard--Soft Signal Temporal Logic MPC for Driving under Multimodal Uncertainty | Kumar Manas, Adrian Paschke | [Abstract](https://arxiv.org/abs/2610.15934) · [PDF](https://arxiv.org/pdf/2610.15934) | rule-assigned |
+| 2026-10-08 | LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC | Shashank Hegde, Alexander Popov, Elie Aljalbout, Nikolai Smolyanskiy | [Abstract](https://arxiv.org/abs/2610.12407) · [PDF](https://arxiv.org/pdf/2610.12407) | rule-assigned |
 | 2026-10-05 | MagServo: Uncertainty-Resilient Hierarchical Magnetic Servoing via Learned Latent Representations | Yuhan Tan, Yameng Zhang, Pei Liu, Yao Zhong et al. | [Abstract](https://arxiv.org/abs/2610.06046) · [PDF](https://arxiv.org/pdf/2610.06046) | rule-assigned |
 | 2026-10-05 | Distribution-Transfer Safe-Horizon MPC under Mode Uncertainty | Stephen Crawford, Nora Ayanian | [Abstract](https://arxiv.org/abs/2610.07277) · [PDF](https://arxiv.org/pdf/2610.07277) | rule-assigned |
 | 2026-10-04 | Optimal Control with Learned Critics under Unmodeled State Dependencies | Philipp Schoch, Markus Ryll | [Abstract](https://arxiv.org/abs/2610.05359) · [PDF](https://arxiv.org/pdf/2610.05359) | rule-assigned |
@@ -335,7 +340,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-21 | Risk-Aware Wasserstein Distributionally Robust Control of Vessels in Natural Waterways | Juan Moreno Nadales, Astghik Hakobyan, David Muñoz de la Peña, Daniel Limon et al. | [Abstract](https://arxiv.org/abs/2310.14038) · [PDF](https://arxiv.org/pdf/2310.14038) | rule-assigned |
 | 2023-10-19 | NeuroSMPC: A Neural Network guided Sampling Based MPC for On-Road Autonomous Driving | Kaustab Pal, Aditya Sharma, Mohd Omama, Parth N. Shah et al. | [Abstract](https://arxiv.org/abs/2310.13077) · [PDF](https://arxiv.org/pdf/2310.13077) | rule-assigned |
 | 2023-10-15 | Adaptive Contact-Implicit Model Predictive Control with Online Residual Learning | Wei-Cheng Huang, Alp Aydinoglu, Wanxin Jin, Michael Posa | [Abstract](https://arxiv.org/abs/2310.09893) · [PDF](https://arxiv.org/pdf/2310.09893) | rule-assigned |
-| 2023-10-11 | ASV Station Keeping under Wind Disturbances using Neural Network Simulation Error Minimization Model Predictive Control | Jalil Chavez-Galaviz, Jianwen Li, Ajinkya Chaudhary, Nina Mahmoudian | [Abstract](https://arxiv.org/abs/2310.07892) · [PDF](https://arxiv.org/pdf/2310.07892) | rule-assigned |
 
 ---
 

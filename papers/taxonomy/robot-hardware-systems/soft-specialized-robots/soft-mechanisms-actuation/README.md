@@ -1,7 +1,7 @@
 # Soft Mechanisms & Actuation · 软体机构与驱动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Soft%20%26%20Specialized%20Robots&specialty=Soft%20Mechanisms%20%26%20Actuation#research-workbench)
@@ -27,7 +27,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | Design of a Novel Pneumatic Soft Gripper for Robust Adaptive Grasping | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127397) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127397) | rule-assigned |
 | 2024 | Design and Modeling of a Nested Bi-cavity-based Soft Growing Robot for Grasping in Constrained Environments | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610986) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610986) | rule-assigned |
 | 2024 | Strong Compliant Grasps Using a Cable-Driven Soft Gripper | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS58592.2024.10801693) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801693) | rule-assigned |
-| 2022 | Collision-Aware Fast Simulation for Soft Robots by Optimization-Based Geometric Computing | IROS · Simulation | [Paper](https://arxiv.org/abs/2203.02054) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981870) | rule-assigned |
+| 2022 | Collision-Aware Fast Simulation for Soft Robots by Optimization-Based Geometric Computing | IROS · Simulation | [Paper](https://arxiv.org/pdf/2203.02054) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981870) | rule-assigned |
 
 ## Recent arXiv papers (66)
 

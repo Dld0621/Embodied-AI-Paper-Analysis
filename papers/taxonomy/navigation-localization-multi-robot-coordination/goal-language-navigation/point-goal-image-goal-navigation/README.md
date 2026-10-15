@@ -1,12 +1,12 @@
 # Point-goal & Image-goal Navigation · 点目标与图像目标导航
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Goal%20%26%20Language%20Navigation&specialty=Point-goal%20%26%20Image-goal%20Navigation#research-workbench)
 
-> 23 conference papers · 108 recent arXiv papers
+> 24 conference papers · 110 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,27 +20,28 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (23)
+## Conference papers (24)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | CLUE: Adaptively Prioritized Contextual Cues by Leveraging a Unified Semantic Map for Effective Zero-Shot Object-Goal Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2605.19206) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697331) | rule-assigned |
-| 2026 | Narrate2Nav: Real-Time Visual Navigation with Implicit Language Reasoning in Human-Centric Environments | ICRA · Navigation | [Paper](https://arxiv.org/abs/2506.14233) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696112) | rule-assigned |
-| 2026 | SurveilNav: Collaborative Object Goal Navigation with Robot and Surveillance System | ICRA · Navigation | [Paper](https://arxiv.org/abs/2606.25119) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697410) | rule-assigned |
-| 2026 | The One Ring: a Robotic Indoor Navigation Generalist | ICRA · Navigation | [Paper](https://arxiv.org/abs/2412.14401) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696447) | rule-assigned |
+| 2026 | CLUE: Adaptively Prioritized Contextual Cues by Leveraging a Unified Semantic Map for Effective Zero-Shot Object-Goal Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2605.19206) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697331) | rule-assigned |
+| 2026 | DSSM-SG: Dynamic 3D Scene Graphs with Spatio-Semantic Memory for Long-Term Indoor Navigation Tasks | ICRA · 3D Scene | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695756) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695756) | rule-assigned |
+| 2026 | Narrate2Nav: Real-Time Visual Navigation with Implicit Language Reasoning in Human-Centric Environments | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2506.14233) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696112) | rule-assigned |
+| 2026 | SurveilNav: Collaborative Object Goal Navigation with Robot and Surveillance System | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2606.25119) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697410) | rule-assigned |
+| 2026 | The One Ring: a Robotic Indoor Navigation Generalist | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2412.14401) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696447) | rule-assigned |
 | 2025 | IGL-Nav: Incremental 3D Gaussian Localization for Image-Goal Navigation | ICCV · Navigation | [Paper](https://arxiv.org/pdf/2508.00823) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00640) | rule-assigned |
-| 2025 | BEINGS: Bayesian Embodied Image-Goal Navigation With Gaussian Splatting | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.10216) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127919) | rule-assigned |
-| 2025 | NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants | ICRA · Navigation | [Paper](https://arxiv.org/abs/2502.13894) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127507) | rule-assigned |
-| 2025 | Advancing Object-Goal Navigation through LLM-enhanced Object Affinities Transfer | IROS · Navigation | [Paper](https://arxiv.org/abs/2403.09971) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247308) | rule-assigned |
-| 2025 | FlowNav: Combining Flow Matching and Depth Priors for Efficient Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2411.09524) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246634) | rule-assigned |
+| 2025 | BEINGS: Bayesian Embodied Image-Goal Navigation With Gaussian Splatting | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.10216) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127919) | rule-assigned |
+| 2025 | NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2502.13894) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127507) | rule-assigned |
+| 2025 | Advancing Object-Goal Navigation through LLM-enhanced Object Affinities Transfer | IROS · Navigation | [Paper](https://arxiv.org/pdf/2403.09971) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247308) | rule-assigned |
+| 2025 | FlowNav: Combining Flow Matching and Depth Priors for Efficient Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2411.09524) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246634) | rule-assigned |
 | 2025 | GSplatVNM: Point-of-View Synthesis for Visual Navigation Models Using Gaussian Splatting | IROS · Navigation | [Paper](https://arxiv.org/abs/2503.05152) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246997) | rule-assigned |
 | 2025 | SORT3D: Spatial Object-centric Reasoning Toolbox for Zero-Shot 3D Grounding Using Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2504.18684) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246145) | rule-assigned |
 | 2024 | RGBD-based Image Goal Navigation with Pose Drift: A Topo-metric Graph based Approach | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610727) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610727) | rule-assigned |
-| 2024 | SCALE: Self-Correcting Visual Navigation for Mobile Robots via Anti-Novelty Estimation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2404.10675) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610847) | rule-assigned |
-| 2024 | Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation | IROS · Navigation | [Paper](https://arxiv.org/abs/2411.03487) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801778) | rule-assigned |
+| 2024 | SCALE: Self-Correcting Visual Navigation for Mobile Robots via Anti-Novelty Estimation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2404.10675) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610847) | rule-assigned |
+| 2024 | Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2411.03487) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801778) | rule-assigned |
 | 2024 | GAMap: Zero-Shot Object Goal Navigation with Multi-Scale Geometric-Affordance Guidance | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2410.23978) · [Index](https://dblp.org/rec/journals/corr/abs-2410-23978) | rule-assigned |
 | 2024 | SEEK: Semantic Reasoning for Object Goal Navigation in Real World Inspection Tasks | RSS · Navigation | [Paper](https://arxiv.org/abs/2405.09822) · [Index](https://dblp.org/rec/conf/rss/GintingKFPKA24) | rule-assigned |
-| 2023 | Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation | ICCV · Navigation | [Paper](https://arxiv.org/abs/2308.10306) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.01009) | rule-assigned |
+| 2023 | Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation | ICCV · Navigation | [Paper](https://arxiv.org/pdf/2308.10306) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.01009) | rule-assigned |
 | 2023 | Object Goal Navigation with Recursive Implicit Maps | IROS · Navigation | [Paper](https://arxiv.org/pdf/2308.05602) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341827) | rule-assigned |
 | 2023 | One-4-All: Neural Potential Fields for Embodied Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2303.04011) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342302) | rule-assigned |
 | 2023 | Self-Supervised Object Goal Navigation with In-Situ Finetuning | IROS · Navigation | [Paper](https://arxiv.org/pdf/2212.05923) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341959) | rule-assigned |
@@ -48,10 +49,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Topological Semantic Graph Memory for Image-Goal Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2209.08274) · [Index](https://dblp.org/rec/journals/corr/abs-2209-08274) | rule-assigned |
 | 2022 | ZSON: Zero-Shot Object-Goal Navigation using Multimodal Goal Embeddings | NeurIPS · Navigation | [Paper](https://arxiv.org/pdf/2206.12403) · [Index](https://dblp.org/rec/journals/corr/abs-2206-12403) | rule-assigned |
 
-## Recent arXiv papers (108)
+## Recent arXiv papers (110)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-14 | GS-PRM: Gaussian Visual Roadmap for Image-Goal Navigation | Ashraf Siddique, Kyung Min Han, Young J. Kim | [Abstract](https://arxiv.org/abs/2610.19541) · [PDF](https://arxiv.org/pdf/2610.19541) | rule-assigned |
+| 2026-10-13 | GLST: Global-Local Spatio-Temporal Memory Decomposition Framework for Online Chained-Goal Navigation | Yousef Liang, Ryan Ardalan, Yarden Goraly, Chenhao Zhu et al. | [Abstract](https://arxiv.org/abs/2610.17927) · [PDF](https://arxiv.org/pdf/2610.17927) | rule-assigned |
+| 2026-10-12 | G$^2$WAM: World Action Models for Efficient and Geometry Grounded Image-Goal Navigation | Ke Gui, Chenghao Shi, Ziyue Wang, Longwen Chen et al. | [Abstract](https://arxiv.org/abs/2610.16558) · [PDF](https://arxiv.org/pdf/2610.16558) | rule-assigned |
 | 2026-10-02 | DR-IPC: Disturbance-Resilient Integrated Planning and Control for LiDAR-Based Quadrotor Navigation | Peng Liu, Jingyan Wang, Qipeng Ye, Wen Li et al. | [Abstract](https://arxiv.org/abs/2610.03530) · [PDF](https://arxiv.org/pdf/2610.03530) | rule-assigned |
 | 2026-10-02 | CSIR: Contextually and Socially Informed Robots for Efficient Person Goal Navigation | Tyler Chung, Nahl Farhan, Hao Zhang, Mingfeng Yuan et al. | [Abstract](https://arxiv.org/abs/2610.02750) · [PDF](https://arxiv.org/pdf/2610.02750) | rule-assigned |
 | 2026-09-18 | Visual Navigation Transformer with Pose Attention | Beiming Li, Jaime Romero, Jonathan Diller, Vijay Kumar et al. | [Abstract](https://arxiv.org/abs/2609.21212) · [PDF](https://arxiv.org/pdf/2609.21212) | rule-assigned |
@@ -159,7 +163,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-02-19 | Feudal Networks for Visual Navigation | Faith Johnson, Bryan Bo Cao, Ashwin Ashok, Shubham Jain et al. | [Abstract](https://arxiv.org/abs/2402.12498) · [PDF](https://arxiv.org/pdf/2402.12498) | rule-assigned |
 | 2024-02-07 | Language-Based Augmentation to Address Shortcut Learning in Object Goal Navigation | Dennis Hoftijzer, Gertjan Burghouts, Luuk Spreeuwers | [Abstract](https://arxiv.org/abs/2402.05090) · [PDF](https://arxiv.org/pdf/2402.05090) | rule-assigned |
 | 2023-11-14 | Probable Object Location (POLo) Score Estimation for Efficient Object Goal Navigation | Jiaming Wang, Harold Soh | [Abstract](https://arxiv.org/abs/2311.07992) · [PDF](https://arxiv.org/pdf/2311.07992) | rule-assigned |
-| 2023-10-11 | FGPrompt: Fine-grained Goal Prompting for Image-goal Navigation | Xinyu Sun, Peihao Chen, Jugang Fan, Thomas H. Li et al. | [Abstract](https://arxiv.org/abs/2310.07473) · [PDF](https://arxiv.org/pdf/2310.07473) | rule-assigned |
 
 ---
 

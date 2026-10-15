@@ -1,7 +1,7 @@
 # Simulated Trajectory Generation · 仿真轨迹生成
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Synthetic%20%26%20Augmented%20Data&specialty=Simulated%20Trajectory%20Generation#research-workbench)
@@ -24,7 +24,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2025 | MetaFold: Language-Guided Multi-Category Garment Folding Framework via Trajectory Generation and Foundation Model | IROS · Foundation Model | [Paper](https://arxiv.org/abs/2503.08372) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246072) | rule-assigned |
+| 2025 | MetaFold: Language-Guided Multi-Category Garment Folding Framework via Trajectory Generation and Foundation Model | IROS · Foundation Model | [Paper](https://arxiv.org/pdf/2503.08372) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246072) | rule-assigned |
 | 2024 | A Fast Online Omnidirectional Quadrupedal Jumping Framework Via Virtual-Model Control and Minimum Jerk Trajectory Generation | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2407.00658) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802277) | rule-assigned |
 
 ## Recent arXiv papers (63)

@@ -1,12 +1,12 @@
 # Bilateral Feedback & Delay · 双向力反馈与延迟处理
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Control&specialty=Bilateral%20Feedback%20%26%20Delay#research-workbench)
 
-> 10 conference papers · 47 recent arXiv papers
+> 10 conference papers · 48 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,20 +25,21 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | A Dual-Channel Framework for Blind Perceptual Quality Assessment in Bilateral Teleoperation | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697224) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697224) | rule-assigned |
-| 2025 | DABI: Evaluation of Data Augmentation Methods Using Downsampling in Bilateral Control-Based Imitation Learning with Images | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2410.04370) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128686) | rule-assigned |
+| 2025 | DABI: Evaluation of Data Augmentation Methods Using Downsampling in Bilateral Control-Based Imitation Learning with Images | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2410.04370) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128686) | rule-assigned |
 | 2025 | Passivity Filters for Bilateral Teleoperation with Variable Impedance Control | ICRA · Teleoperation | [Paper](https://hal.science/hal-05156618v1/document) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128576) | rule-assigned |
-| 2025 | Perfectly Undetectable False Data Injection Attacks on Encrypted Bilateral Teleoperation System based on Dynamic Symmetry and Malleability | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2409.13061) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128026) | rule-assigned |
+| 2025 | Perfectly Undetectable False Data Injection Attacks on Encrypted Bilateral Teleoperation System based on Dynamic Symmetry and Malleability | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2409.13061) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128026) | rule-assigned |
 | 2025 | A Natural Human-Robot Interaction System for Teleoperation Based on Noncontact Haptic Feedback | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246054) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246054) | rule-assigned |
 | 2024 | Lightweight and Compliant Bilateral Teleoperation System with Anthropomorphic Arms for Aerial and Ground Service Operations | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611383) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611383) | rule-assigned |
-| 2024 | Learning Variable Compliance Control From a Few Demonstrations for Bimanual Robot with Haptic Feedback Teleoperation System | IROS · Bimanual | [Paper](https://arxiv.org/abs/2406.14990) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801731) | rule-assigned |
+| 2024 | Learning Variable Compliance Control From a Few Demonstrations for Bimanual Robot with Haptic Feedback Teleoperation System | IROS · Bimanual | [Paper](https://arxiv.org/pdf/2406.14990) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801731) | rule-assigned |
 | 2024 | SNU-Avatar Haptic Glove: Novel Modularized Haptic Glove via Trigonometric Series Elastic Actuators | IROS · Haptic Glove | [Paper](https://doi.org/10.1109/IROS58592.2024.10802590) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802590) | rule-assigned |
 | 2023 | HaPPArray: Haptic Pneumatic Pouch Array for Feedback in handheld Robots | ICRA · In Hand | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160648) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160648) | rule-assigned |
 | 2022 | Towards 6DoF Bilateral Teleoperation of an Omnidirectional Aerial Vehicle for Aerial Physical Interaction | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2203.03177) · [Index](https://dblp.org/rec/conf/icra/AllenspachLTS22) | rule-assigned |
 
-## Recent arXiv papers (47)
+## Recent arXiv papers (48)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-10 | LETS: Low-Overhead External-Torque Sensing for Force-Feedback Bilateral Teleoperation | Zonghao Guo, Dongchen Guan, Yubo Wang, Peng Yang | [Abstract](https://arxiv.org/abs/2610.14889) · [PDF](https://arxiv.org/pdf/2610.14889) | rule-assigned |
 | 2026-10-01 | Towards Physical Underwater Robotic Assistance for Scuba Diver Movement in Confined Spaces | Demetrious T. Kutzke, Junaed Sattar | [Abstract](https://arxiv.org/abs/2610.01906) · [PDF](https://arxiv.org/pdf/2610.01906) | rule-assigned |
 | 2026-09-29 | HACo: Learning Haptic Active Compliance for Force-Aware Dexterous Manipulation | Naisheng Ye, Yinzhe Zhou, Junkai Zhao, Yuhang Lu et al. | [Abstract](https://arxiv.org/abs/2609.36596) · [PDF](https://arxiv.org/pdf/2609.36596) | rule-assigned |
 | 2026-09-17 | RoboFind: Multi-Agent Personalized Object Search for People Who Are Blind or Have Low Vision | Ruiping Liu, Shaofang Quan, Qian Yin, Jingqi Zhang et al. | [Abstract](https://arxiv.org/abs/2609.20330) · [PDF](https://arxiv.org/pdf/2609.20330) | rule-assigned |

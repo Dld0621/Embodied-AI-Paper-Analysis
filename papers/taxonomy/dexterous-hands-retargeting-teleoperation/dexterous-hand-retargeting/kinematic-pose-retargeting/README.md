@@ -1,7 +1,7 @@
 # Kinematic & Pose Retargeting · 运动学与姿态重定向
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Dexterous%20Hand%20Retargeting&specialty=Kinematic%20%26%20Pose%20Retargeting#research-workbench)
@@ -24,8 +24,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2607.05883) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695926) | reviewed |
-| 2026 | Pose Retargeting from a Single RGB Camera: Optimization-Based Hand Pose Retargeting and Wrist Pose Estimation | ICRA · Retargeting | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697437) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697437) | reviewed |
+| 2026 | DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2607.05883) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695926) | reviewed |
+| 2026 | Pose Retargeting from a Single RGB Camera: Optimization-Based Hand Pose Retargeting and Wrist Pose Estimation | ICRA · Retargeting | [Paper](https://eprints.whiterose.ac.uk/id/eprint/238695/1/ICRA26_0903_FI.pdf) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697437) | reviewed |
 | 2025 | Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm | IROS · Retargeting | [Paper](https://arxiv.org/abs/2503.07541) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247700) | reviewed |
 
 ## Recent arXiv papers (7)

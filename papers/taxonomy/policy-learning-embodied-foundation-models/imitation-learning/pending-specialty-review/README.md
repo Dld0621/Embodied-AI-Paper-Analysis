@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Imitation%20Learning&specialty=Pending%20specialty%20review#research-workbench)
 
-> 68 conference papers · 494 recent arXiv papers
+> 64 conference papers · 495 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,64 +20,60 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (68)
+## Conference papers (64)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | LAST: Bridging Vision-Language and Action Manifolds via Gromov-Wasserstein Alignment | ICML · Representation alignment | [Paper](https://openreview.net/forum?id=gIkOQkb4fU) · [Official](https://openreview.net/forum?id=gIkOQkb4fU) | needs-review |
-| 2026 | A Natural Language Interface for Multi-Constraint Spatiotemporal Planning via LLM-Parameterized Mixed-Integer Scheduling and A | ICRA · Llm | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696582) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696582) | needs-review |
-| 2026 | Closing the Communication Loop for Robotic Failures: Multi-Turn, Behavior-Tree-Grounded Explanations with Large Language Models | ICRA · Large Language Model | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696394) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696394) | needs-review |
-| 2026 | Flow-Enabled Generalization to Human Demonstrations in Few-Shot Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2602.10594) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696026) | needs-review |
+| 2026 | Flow-Enabled Generalization to Human Demonstrations in Few-Shot Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2602.10594) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696026) | needs-review |
 | 2026 | IRPFuzz: Fuzzing Industrial Robot Protocol via LLM-driven Traffic Semantic Analysis | ICRA · Llm | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696045) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696045) | needs-review |
-| 2026 | MERGE: Guided Vision-Language Models for Multi-Actor Event Reasoning and Grounding in Human–Robot Interaction | ICRA · Language Model | [Paper](https://arxiv.org/abs/2603.18988) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695754) | needs-review |
-| 2026 | SA-VLM v2: Useful, Comprehensive, and Concise Guidance for Guide-Dog Robots Assisting the Visually Impaired | ICRA · Vlm | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695842) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695842) | needs-review |
-| 2026 | SHAF: Small Language Model Integrated with Motion Modality for Multimodal Interaction | ICRA · Language Model | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697346) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697346) | needs-review |
-| 2026 | Unlocking the Potential of Soft Actor–Critic for Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2509.24539) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696489) | needs-review |
+| 2026 | LLM-HBT: Dynamic Behavior Tree Construction for Adaptive Coordination in Heterogeneous Robots | ICRA · Llm | [Paper](https://arxiv.org/pdf/2510.09963) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697176) | needs-review |
+| 2026 | MERGE: Guided Vision-Language Models for Multi-Actor Event Reasoning and Grounding in Human–Robot Interaction | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2603.18988) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695754) | needs-review |
+| 2026 | Unlocking the Potential of Soft Actor–Critic for Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2509.24539) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696489) | needs-review |
 | 2025 | Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control | ICCV · Imitation Learning | [Paper](https://arxiv.org/pdf/2505.15304) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01221) | needs-review |
 | 2025 | Latent Action Pretraining from Videos | ICLR · Learning from video | [Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/45d74e190008c7bff2845ffc8e3facd3-Abstract-Conference.html) · [Official](https://proceedings.iclr.cc/paper_files/paper/2025/hash/45d74e190008c7bff2845ffc8e3facd3-Abstract-Conference.html) | needs-review |
 | 2025 | ASCENT: Autonomous Skill Learning Toward Complex Embodied Tasks With Foundation Models | ICRA · Foundation Model | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127927) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127927) | needs-review |
 | 2025 | GRACE: Generating Socially Appropriate Robot Actions Leveraging LLMs and Human Explanations | ICRA · Llm | [Paper](https://repository.bilkent.edu.tr/bitstreams/88e30304-4676-49b3-bd3c-2fbc3703eab2/download) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127826) | needs-review |
-| 2025 | HBTP: Heuristic Behavior Tree Planning with Large Language Model Reasoning | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2406.00965) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127999) | needs-review |
+| 2025 | HBTP: Heuristic Behavior Tree Planning with Large Language Model Reasoning | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2406.00965) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127999) | needs-review |
 | 2025 | ICRT: In-Context Imitation Learning via Next-Token Prediction | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2408.15980) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128272) | needs-review |
-| 2025 | In-Context Learning Enables Robot Action Prediction in LLMs | ICRA · Llm | [Paper](https://arxiv.org/abs/2410.12782) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128807) | needs-review |
-| 2025 | Jailbreaking LLM-Controlled Robots | ICRA · Llm | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128119) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128119) | needs-review |
-| 2025 | LLM-HBT: Dynamic Behavior Tree Construction for Adaptive Coordination in Heterogeneous Robots | ICRA · Llm | [Paper](https://arxiv.org/abs/2510.09963) · [Index](https://dblp.org/rec/journals/corr/abs-2510-09963) | needs-review |
+| 2025 | In-Context Learning Enables Robot Action Prediction in LLMs | ICRA · Llm | [Paper](https://arxiv.org/pdf/2410.12782) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128807) | needs-review |
+| 2025 | Jailbreaking LLM-Controlled Robots | ICRA · Llm | [Paper](https://arxiv.org/pdf/2410.13691) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128119) | needs-review |
 | 2025 | Motion Tracks: A Unified Representation for Human-Robot Transfer in Few-Shot Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2501.06994) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128834) | needs-review |
-| 2025 | SAS-Prompt: Large Language Models as Numerical Optimizers for Robot Self-Improvement | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2504.20459) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127882) | needs-review |
+| 2025 | SAS-Prompt: Large Language Models as Numerical Optimizers for Robot Self-Improvement | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2504.20459) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127882) | needs-review |
 | 2025 | Action Tokenizer Matters in In-Context Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2503.01206) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246836) | needs-review |
 | 2025 | AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environments | IROS · Llm | [Paper](https://arxiv.org/pdf/2409.17655) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246901) | needs-review |
 | 2025 | Building Knowledge from Interactions: An LLM-Based Architecture for Adaptive Tutoring and Social Reasoning | IROS · Llm | [Paper](https://arxiv.org/abs/2504.01588) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246882) | needs-review |
 | 2025 | CDP: Constrained Diffusion Policies with Mirror Diffusion Model for Safety-Assured Imitation Learning | IROS · Imitation Learning | [Paper](https://doi.org/10.1109/IROS60139.2025.11246518) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246518) | needs-review |
 | 2025 | Co-Adaptation of Embodiment and Control with Self-Imitation Learning | IROS · Imitation Learning | [Paper](https://research.vu.nl/en/publications/24ed238c-ad01-4f5c-b055-00617efbe143) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246530) | needs-review |
 | 2025 | Computationally Efficient FPGA-based Large Language Model Inference for Real-Time Decision-Making in Robotic Systems | IROS · Large Language Model | [Paper](https://repository.essex.ac.uk/43780/1/IROS%20%281%29.pdf) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247019) | needs-review |
-| 2025 | Knowledge-Driven Imitation Learning: Enabling Generalization Across Diverse Conditions | IROS · Imitation Learning | [Paper](https://arxiv.org/abs/2506.21057) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246479) | needs-review |
-| 2025 | LBAP: Improved Uncertainty Alignment of LLM Planners using Bayesian Inference | IROS · Llm | [Paper](https://arxiv.org/abs/2403.13198) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245905) | needs-review |
+| 2025 | Knowledge-Driven Imitation Learning: Enabling Generalization Across Diverse Conditions | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2506.21057) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246479) | needs-review |
+| 2025 | LBAP: Improved Uncertainty Alignment of LLM Planners using Bayesian Inference | IROS · Llm | [Paper](https://arxiv.org/pdf/2403.13198) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245905) | needs-review |
 | 2025 | Multimodal Human Activity Recognition with a Large Language Model for Enhanced Human-Robot Interaction | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11247147) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247147) | needs-review |
 | 2025 | Towards Emotion Co-regulation with LLM-powered Socially Assistive Robots: Integrating LLM Prompts and Robotic Behaviors to Support Parent-Neurodivergent Child Dyads | IROS · Llm | [Paper](https://research.tue.nl/en/publications/dc2e3607-4e01-4b21-84b9-19b6225f8828) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246217) | needs-review |
-| 2025 | Towards Safe Imitation Learning via Potential Field-Guided Flow Matching | IROS · Imitation Learning | [Paper](https://arxiv.org/abs/2508.08707) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246643) | needs-review |
-| 2025 | TR-LLM: Integrating Trajectory Data for Scene-Aware LLM-Based Human Action Prediction | IROS · Llm | [Paper](https://arxiv.org/abs/2410.03993) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246714) | needs-review |
-| 2025 | Triple-S: A Collaborative Multi-LLM Framework for Solving Long-Horizon Implicative Tasks in Robotics | IROS · Llm | [Paper](https://arxiv.org/abs/2508.07421) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246810) | needs-review |
+| 2025 | Towards Safe Imitation Learning via Potential Field-Guided Flow Matching | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2508.08707) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246643) | needs-review |
+| 2025 | TR-LLM: Integrating Trajectory Data for Scene-Aware LLM-Based Human Action Prediction | IROS · Llm | [Paper](https://arxiv.org/pdf/2410.03993) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246714) | needs-review |
+| 2025 | Triple-S: A Collaborative Multi-LLM Framework for Solving Long-Horizon Implicative Tasks in Robotics | IROS · Llm | [Paper](https://arxiv.org/pdf/2508.07421) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246810) | needs-review |
 | 2024 | FlowRetrieval: Flow-Guided Data Retrieval for Few-Shot Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2408.16944) · [Index](https://dblp.org/rec/conf/corl/LinCXHS24) | needs-review |
 | 2024 | MResT: Multi-Resolution Sensing for Real-Time Control with Vision-Language Models | CoRL · Language Model | [Paper](https://arxiv.org/abs/2401.14502) · [Index](https://dblp.org/rec/journals/corr/abs-2401-14502) | needs-review |
 | 2024 | Re-Mix: Optimizing Data Mixtures for Large Scale Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2408.14037) · [Index](https://dblp.org/rec/journals/corr/abs-2408-14037) | needs-review |
 | 2024 | Teaching Robots with Show and Tell: Using Foundation Models to Synthesize Robot Policies from Language and Visual Demonstration | CoRL · Foundation Model | [Paper](https://www.semanticscholar.org/paper/2cab12c9866a67c6bfe84271d251ca1fc353fea9) · [Index](https://dblp.org/rec/conf/corl/MurrayGC24) | needs-review |
 | 2024 | Vision-Language Foundation Models as Effective Robot Imitators | ICLR · Vision-language imitation | [Paper](https://arxiv.org/abs/2311.13840) · [Official](https://proceedings.iclr.cc/paper_files/paper/2024/hash/71639c317fb0bf398835627b4418693e-Abstract-Conference.html) | needs-review |
 | 2024 | Learning Reward for Robot Skills Using Large Language Models via Self-Alignment | ICML · Large Language Model | [Paper](https://arxiv.org/abs/2405.07162) · [Index](https://dblp.org/rec/conf/icml/ZengM024) | needs-review |
-| 2024 | Composing Pre-Trained Object-Centric Representations for Robotics From "What" and "Where" Foundation Models | ICRA · Foundation Model | [Paper](https://arxiv.org/abs/2404.13474) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610695) | needs-review |
-| 2024 | Cook2LTL: Translating Cooking Recipes to LTL Formulae using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2310.00163) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611086) | needs-review |
+| 2024 | Composing Pre-Trained Object-Centric Representations for Robotics From "What" and "Where" Foundation Models | ICRA · Foundation Model | [Paper](https://arxiv.org/pdf/2404.13474) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610695) | needs-review |
+| 2024 | Cook2LTL: Translating Cooking Recipes to LTL Formulae using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2310.00163) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611086) | needs-review |
 | 2024 | Grounding Conversational Robots on Vision Through Dense Captioning and Large Language Models | ICRA · Large Language Model | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611232) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611232) | needs-review |
 | 2024 | Interactive Planning Using Large Language Models for Partially Observable Robotic Tasks | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2312.06876) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610981) | needs-review |
 | 2024 | Large Language Models for Robot Task Allocation | ICRA · Large Language Model | [Paper](https://www.iaarc.org/./publications/fulltext/05_ICRA_2024_Paper_61.pdf) · [Publisher](https://doi.org/10.22260/icra2024/0007) | needs-review |
 | 2024 | LLM-BT: Performing Robotic Adaptive Tasks based on Large Language Models and Behavior Trees | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2404.05134) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610183) | needs-review |
-| 2024 | Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs | ICRA · Llm | [Paper](https://arxiv.org/abs/2404.04869) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611614) | needs-review |
+| 2024 | Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs | ICRA · Llm | [Paper](https://arxiv.org/pdf/2404.04869) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611614) | needs-review |
 | 2024 | Are Large Language Models Aligned with People’s Social Intuitions for Human–Robot Interactions? | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2403.05701) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801325) | needs-review |
-| 2024 | Combining Ontological Knowledge and Large Language Model for User-Friendly Service Robots | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2410.16804) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802273) | needs-review |
-| 2024 | DoReMi: Grounding Language Model by Detecting and Recovering from Plan-Execution Misalignment | IROS · Language Model | [Paper](https://arxiv.org/abs/2307.00329) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802284) | needs-review |
+| 2024 | Combining Ontological Knowledge and Large Language Model for User-Friendly Service Robots | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2410.16804) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802273) | needs-review |
+| 2024 | DoReMi: Grounding Language Model by Detecting and Recovering from Plan-Execution Misalignment | IROS · Language Model | [Paper](https://arxiv.org/pdf/2307.00329) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802284) | needs-review |
 | 2024 | DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences | IROS · Llm | [Paper](https://arxiv.org/pdf/2406.03008) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802555) | needs-review |
-| 2024 | From LLMs to Actions: Latent Codes as Bridges in Hierarchical Robot Control | IROS · Llm | [Paper](https://arxiv.org/abs/2405.04798) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801683) | needs-review |
+| 2024 | From LLMs to Actions: Latent Codes as Bridges in Hierarchical Robot Control | IROS · Llm | [Paper](https://arxiv.org/pdf/2405.04798) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801683) | needs-review |
 | 2024 | Self-Assessment of Robotic Laboratory and Equipment Readiness Using Large Language Models and Robotic Data Capture | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS58592.2024.10802667) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802667) | needs-review |
 | 2024 | To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions | IROS · Llm | [Paper](https://arxiv.org/pdf/2403.12533) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801517) | needs-review |
-| 2024 | Uncertainty-Aware Deployment of Pre-trained Language-Conditioned Imitation Learning Policies | IROS · Language Conditioned | [Paper](https://arxiv.org/abs/2403.18222) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802849) | needs-review |
+| 2024 | Uncertainty-Aware Deployment of Pre-trained Language-Conditioned Imitation Learning Policies | IROS · Language Conditioned | [Paper](https://arxiv.org/pdf/2403.18222) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802849) | needs-review |
 | 2024 | RT-H: Action Hierarchies using Language | RSS · Action hierarchy | [Paper](https://arxiv.org/abs/2403.01823) · [Official](https://roboticsproceedings.org/rss20/index.html) | needs-review |
 | 2023 | Few-Shot In-Context Imitation Learning via Implicit Graph Alignment | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2310.12238) · [Index](https://dblp.org/rec/journals/corr/abs-2310-12238) | needs-review |
 | 2023 | Gesture-Informed Robot Assistance via Foundation Models | CoRL · Foundation Model | [Paper](https://arxiv.org/pdf/2309.02721) · [Index](https://dblp.org/rec/journals/corr/abs-2309-02721) | needs-review |
@@ -93,14 +89,18 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning and Retrieval from Prior Data for Skill-based Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/pdf/2210.11435) · [Index](https://dblp.org/rec/journals/corr/abs-2210-11435) | needs-review |
 | 2022 | Divide & Conquer Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2204.07404) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982020) | needs-review |
 
-## Recent arXiv papers (494)
+## Recent arXiv papers (495)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-11 | Imitation Learning via Discrete and Rhythmic Primitive Composition | Rafid Saif, Auke Ijspeert, Hsiu-Chin Lin | [Abstract](https://arxiv.org/abs/2610.15639) · [PDF](https://arxiv.org/pdf/2610.15639) | needs-review |
+| 2026-10-10 | BridgeWAM: Bridging Video and Action Experts via Latent Bridge Queries | Jiaxin Fang, Ruitong Liu, Zeyu Lai, Xingyu Wang et al. | [Abstract](https://arxiv.org/abs/2610.14746) · [PDF](https://arxiv.org/pdf/2610.14746) | needs-review |
+| 2026-10-08 | MiniWAM: Learning Compact Future Targets for Efficient World-Action Modeling | Jie Chen, Ruofei Bai, Yuxin Cai, Yifeng Zhang et al. | [Abstract](https://arxiv.org/abs/2610.12194) · [PDF](https://arxiv.org/pdf/2610.12194) | needs-review |
 | 2026-10-07 | TERRA: Learning Transportable Latent Actions through Temporal Effect Representation and Relational Alignment | Tianxingjian Ding, Mubarak Shah, Yu Tian | [Abstract](https://arxiv.org/abs/2610.09509) · [PDF](https://arxiv.org/pdf/2610.09509) | needs-review |
 | 2026-10-05 | RealtimeWAM: One-Step Asynchronous World Action Models | Chengtao Lv, Jinyang Du, Shuyi Feng, Yang Yong et al. | [Abstract](https://arxiv.org/abs/2610.06617) · [PDF](https://arxiv.org/pdf/2610.06617) | needs-review |
 | 2026-10-03 | ACG-WAM: World-Action Modeling via Action-Conditioned Geometric Latent Prediction | Jiangtao Liu, Zishang Xiang, Yage He, Lingguo Cui et al. | [Abstract](https://arxiv.org/abs/2610.06965) · [PDF](https://arxiv.org/pdf/2610.06965) | needs-review |
 | 2026-10-02 | OmniAct3D: Leveraging Foundation Geometry and Evidence-Grounded Reasoning for Panoramic 3D Detection | Runtong Wu, Fei Teng, Di Wen, Guoqiang Zhao et al. | [Abstract](https://arxiv.org/abs/2610.03015) · [PDF](https://arxiv.org/pdf/2610.03015) | needs-review |
+| 2026-10-01 | Building Trustworthy Household Robots through Open-World Safety | Yu-Lin Tsai, Muxi Lyu, Roei Herzig, Koushik Sen et al. | [Abstract](https://arxiv.org/abs/2610.14034) · [PDF](https://arxiv.org/pdf/2610.14034) | needs-review |
 | 2026-09-29 | Learning Expressive and Compositional Motion Representation via Spectral Skills | Feiyang Wu, Chenxiao Gao, Chen Yang, Ye Zhao et al. | [Abstract](https://arxiv.org/abs/2609.37677) · [PDF](https://arxiv.org/pdf/2609.37677) | needs-review |
 | 2026-09-28 | WAM-OPD: Sharpening World Action Models via On-Policy Distillation | Panjun Liu, Xiaohan Lei, Shiqi Zhang, Yikun Wang et al. | [Abstract](https://arxiv.org/abs/2609.34250) · [PDF](https://arxiv.org/pdf/2609.34250) | needs-review |
 | 2026-09-28 | FutureDuet: Decoupling Observation Access from Future Supervision in World Action Models | Jie Wu, Yuzhi Huang, Junqi Liu, Weichen Zhang et al. | [Abstract](https://arxiv.org/abs/2609.34362) · [PDF](https://arxiv.org/pdf/2609.34362) | needs-review |
@@ -588,9 +588,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-21 | Learning Reward for Physical Skills using Large Language Model | Yuwei Zeng, Yiqing Xu | [Abstract](https://arxiv.org/abs/2310.14092) · [PDF](https://arxiv.org/pdf/2310.14092) | needs-review |
 | 2023-10-19 | Exploring Large Language Models as a Source of Common-Sense Knowledge for Robots | Felix Ocker, Jörg Deigmöller, Julian Eggert | [Abstract](https://arxiv.org/abs/2311.08412) · [PDF](https://arxiv.org/pdf/2311.08412) | needs-review |
 | 2023-10-18 | Few-Shot In-Context Imitation Learning via Implicit Graph Alignment | Vitalis Vosylius, Edward Johns | [Abstract](https://arxiv.org/abs/2310.12238) · [PDF](https://arxiv.org/pdf/2310.12238) | needs-review |
-| 2023-10-12 | Receive, Reason, and React: Drive as You Say with Large Language Models in Autonomous Vehicles | Can Cui, Yunsheng Ma, Xu Cao, Wenqian Ye et al. | [Abstract](https://arxiv.org/abs/2310.08034) · [PDF](https://arxiv.org/pdf/2310.08034) | needs-review |
-| 2023-10-11 | Imitation Learning from Observation with Automatic Discount Scheduling | Yuyang Liu, Weijun Dong, Yingdong Hu, Chuan Wen et al. | [Abstract](https://arxiv.org/abs/2310.07433) · [PDF](https://arxiv.org/pdf/2310.07433) | needs-review |
-| 2023-10-09 | TAIL: Task-specific Adapters for Imitation Learning with Large Pretrained Models | Zuxin Liu, Jesse Zhang, Kavosh Asadi, Yao Liu et al. | [Abstract](https://arxiv.org/abs/2310.05905) · [PDF](https://arxiv.org/pdf/2310.05905) | needs-review |
 
 ---
 

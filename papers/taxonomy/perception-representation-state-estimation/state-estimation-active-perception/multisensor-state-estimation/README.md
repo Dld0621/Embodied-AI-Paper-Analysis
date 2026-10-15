@@ -1,12 +1,12 @@
 # Multisensor State Estimation · 多传感器状态估计
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=State%20Estimation%20%26%20Active%20Perception&specialty=Multisensor%20State%20Estimation#research-workbench)
 
-> 26 conference papers · 220 recent arXiv papers
+> 26 conference papers · 226 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,20 +24,20 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Denoising Particle Filters: Learning State Estimation with Single-Step Objectives | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2602.19651) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695798) | rule-assigned |
-| 2026 | Metric, inertially aligned monocular state estimation via kinetodynamic priors | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2511.20496) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696025) | rule-assigned |
-| 2026 | MUSE: Multimodal Uncertainty Quantification of State Estimation | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2605.17421) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696271) | rule-assigned |
-| 2026 | Reformulating AI-based Multi-Object Relative State Estimation for Aleatoric Uncertainty-based Outlier Rejection of Partial Measurements | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2602.02006) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696312) | rule-assigned |
-| 2026 | State Estimation for Compliant and Morphologically Adaptive Robots | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2509.25945) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697279) | rule-assigned |
+| 2026 | Denoising Particle Filters: Learning State Estimation with Single-Step Objectives | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2602.19651) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695798) | rule-assigned |
+| 2026 | Metric, inertially aligned monocular state estimation via kinetodynamic priors | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2511.20496) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696025) | rule-assigned |
+| 2026 | MUSE: Multimodal Uncertainty Quantification of State Estimation | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2605.17421) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696271) | rule-assigned |
+| 2026 | Reformulating AI-based Multi-Object Relative State Estimation for Aleatoric Uncertainty-based Outlier Rejection of Partial Measurements | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2602.02006) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696312) | rule-assigned |
+| 2026 | State Estimation for Compliant and Morphologically Adaptive Robots | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2509.25945) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697279) | rule-assigned |
 | 2025 | Cascade IPG Observer for Underwater Robot State Estimation | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2504.15235) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128435) | rule-assigned |
 | 2025 | Hybrid State Estimation and Mode Identification of an Amphibious Robot | ICRA · State Estimation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127611) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127611) | rule-assigned |
 | 2025 | Mixing Data-Driven and Geometric Models for Satellite Docking Port State Estimation Using an Rgb or Event Camera | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2409.15581) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128225) | rule-assigned |
-| 2025 | RaggeDi: Diffusion-Based State Estimation of Disordered Rags, Sheets, Towels and Blankets | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2409.11831) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128504) | rule-assigned |
-| 2025 | Simultaneous Ground Reaction Force and State Estimation Via Constrained Moving Horizon Estimation | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2411.12047) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127398) | rule-assigned |
-| 2024 | A Group Theoretic Metric for Robot State Estimation Leveraging Chebyshev Interpolation | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2401.17463) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611072) | rule-assigned |
-| 2024 | CoLRIO: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2402.11790) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611672) | rule-assigned |
+| 2025 | RaggeDi: Diffusion-Based State Estimation of Disordered Rags, Sheets, Towels and Blankets | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2409.11831) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128504) | rule-assigned |
+| 2025 | Simultaneous Ground Reaction Force and State Estimation Via Constrained Moving Horizon Estimation | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2411.12047) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127398) | rule-assigned |
+| 2024 | A Group Theoretic Metric for Robot State Estimation Leveraging Chebyshev Interpolation | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2401.17463) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611072) | rule-assigned |
+| 2024 | CoLRIO: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2402.11790) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611672) | rule-assigned |
 | 2024 | Particle Filter with Stable Embedding for State Estimation of the Rigid Body Attitude System on the Set of Unit Quaternions | ICRA · State Estimation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610922) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610922) | rule-assigned |
-| 2024 | Real-time Contact State Estimation in Shape Control of Deformable Linear Objects under Small Environmental Constraints | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2401.17154) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611558) | rule-assigned |
+| 2024 | Real-time Contact State Estimation in Shape Control of Deformable Linear Objects under Small Environmental Constraints | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2401.17154) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611558) | rule-assigned |
 | 2024 | Demonstrating Agile Flight from Pixels without State Estimation | RSS · State Estimation | [Paper](https://arxiv.org/abs/2406.12505) · [Index](https://dblp.org/rec/journals/corr/abs-2406-12505) | rule-assigned |
 | 2023 | α-MDF: An Attention-based Multimodal Differentiable Filter for Robot State Estimation | CoRL · State Estimation | [Paper](https://www.semanticscholar.org/paper/464731f9d52ac253d96c9ed60479e2181bacf279) · [Index](https://dblp.org/rec/conf/corl/LiuZIA23) | rule-assigned |
 | 2023 | AI-Based Multi-Object Relative State Estimation with Self-Calibration Capabilities | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2303.00371) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161375) | rule-assigned |
@@ -51,10 +51,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | STEADY: Simultaneous State Estimation and Dynamics Learning from Indirect Observations | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2203.01299) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981279) | rule-assigned |
 | 2022 | The Uncertainty Aware Salted Kalman Filter: State Estimation for Hybrid Systems with Uncertain Guards | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2202.12729) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981218) | rule-assigned |
 
-## Recent arXiv papers (220)
+## Recent arXiv papers (226)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-14 | Towards Certifiable State Estimation under Observability Degeneracy | Baoshan Song | [Abstract](https://arxiv.org/abs/2610.20490) · [PDF](https://arxiv.org/pdf/2610.20490) | rule-assigned |
+| 2026-10-14 | Smart Fusion for Adaptive Visual-IMU Weighting in cuVSLAM Sparse Bundle Adjustment | Wonju Lee, Dara Molloy, Abhilash Nand Kumar, Onias Castelo et al. | [Abstract](https://arxiv.org/abs/2610.20226) · [PDF](https://arxiv.org/pdf/2610.20226) | rule-assigned |
+| 2026-10-13 | Contractor Filters | Simon Rohou | [Abstract](https://arxiv.org/abs/2610.18040) · [PDF](https://arxiv.org/pdf/2610.18040) | rule-assigned |
+| 2026-10-12 | ClothAtlas: Joint Garment Identification and State Estimation under Self-Occlusion | Jens Lundell, Alberta Longhini, Lei Shu, Hemal Arora et al. | [Abstract](https://arxiv.org/abs/2610.16293) · [PDF](https://arxiv.org/pdf/2610.16293) | rule-assigned |
+| 2026-10-10 | Global Optimality of Pose Graph Optimization | Shuan Ding, Ruishuang Chen, Mengfan Cao, Zaiyue Yang | [Abstract](https://arxiv.org/abs/2610.14655) · [PDF](https://arxiv.org/pdf/2610.14655) | rule-assigned |
+| 2026-10-09 | ClothCode: Generative Modeling for Garment State Estimation and Dynamics Prediction | Yingdong Ru, Lipeng Zhuang, Shiyu Fan, Zhuo He et al. | [Abstract](https://arxiv.org/abs/2610.14200) · [PDF](https://arxiv.org/pdf/2610.14200) | rule-assigned |
 | 2026-10-05 | Structural Foundations of Nonlinear Systems with Unknown Inputs: The UID-Induced Normal Form and Minimal-Sensing Structure-from-Motion | Agostino Martinelli | [Abstract](https://arxiv.org/abs/2610.05939) · [PDF](https://arxiv.org/pdf/2610.05939) | rule-assigned |
 | 2026-10-03 | Probabilistic Pedestrian Forecasts from a Handheld Phone: World-Frame Heat Maps, Visual-Inertial Height Drift, and Evaluation without Ground Truth | Danial Safaei | [Abstract](https://arxiv.org/abs/2610.04736) · [PDF](https://arxiv.org/pdf/2610.04736) | rule-assigned |
 | 2026-09-30 | Towards Agile Vision-Based Multi-UAV Flight: Revisiting State Estimation | Michal Pliska, Matouš Vrba, Ondřej Víta, Martin Jiroušek et al. | [Abstract](https://arxiv.org/abs/2609.39611) · [PDF](https://arxiv.org/pdf/2609.39611) | rule-assigned |
@@ -85,7 +91,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-07-13 | LQG solution for POMDP without estimating states: A minimum variance approach | Ranjan Sarkar, Prabhat K. Mishra | [Abstract](https://arxiv.org/abs/2607.12135) · [PDF](https://arxiv.org/pdf/2607.12135) | rule-assigned |
 | 2026-06-30 | Machine Learning-based Feedback Linearization Control of Quadrotor Subject to Unmodeled Dynamics | Amos Alwala, Gabriel da Silva Lima, Wallace Moreira Bessa | [Abstract](https://arxiv.org/abs/2606.31199) · [PDF](https://arxiv.org/pdf/2606.31199) | rule-assigned |
 | 2026-06-29 | Wind and State Estimation on SE(3): Comparative Evaluation of EKF and UKF with Continuous and Discrete Quadrotor Models | Hiranya Udagedara, Adam Bigsby, Mahdis Bisheban | [Abstract](https://arxiv.org/abs/2606.30804) · [PDF](https://arxiv.org/pdf/2606.30804) | rule-assigned |
-| 2026-06-21 | Invariant Stochastic Filtering on SE(3) for Inertial-Encoder State Estimation of Serial Rigid Manipulators | S. Yaqubi, J. Mattila | [Abstract](https://arxiv.org/abs/2607.00026) · [PDF](https://arxiv.org/pdf/2607.00026) | rule-assigned |
+| 2026-06-21 | Invariant Stochastic Filtering on SE(3) for Inertial-Encoder State Estimation of Serial Rigid Manipulators | S. Yaqubi, M. Hejrati, J. Mattila | [Abstract](https://arxiv.org/abs/2607.00026) · [PDF](https://arxiv.org/pdf/2607.00026) | rule-assigned |
 | 2026-06-19 | Discrete Geometric Modeling and Extended State Estimation of Continuum Robots | Maximilian Herrmann, Leander Pfeiffer, Paul Kotyczka | [Abstract](https://arxiv.org/abs/2606.21205) · [PDF](https://arxiv.org/pdf/2606.21205) | rule-assigned |
 | 2026-06-18 | ARC: Adaptive Robust Joint State and Covariance Estimation | Alexandre Hadji-Thomas, Andrew Stirling, James R. Forbes | [Abstract](https://arxiv.org/abs/2606.20428) · [PDF](https://arxiv.org/pdf/2606.20428) | rule-assigned |
 | 2026-06-15 | When Should a Robot Replan? Regret-Guided Update Scheduling in Time-Varying MDPs | Negin Musavi, Gokul Puthumanaillam, Ruben Hernandez, William Schafer et al. | [Abstract](https://arxiv.org/abs/2606.16972) · [PDF](https://arxiv.org/pdf/2606.16972) | rule-assigned |

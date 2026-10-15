@@ -1,12 +1,12 @@
 # Real-to-sim & Digital Twins · 现实场景重建与数字孪生
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Real-to-sim%20%26%20Digital%20Twins#research-workbench)
 
-> 6 conference papers · 122 recent arXiv papers
+> 6 conference papers · 127 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,17 +24,22 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Few-Shot Neural Differentiable Simulator: Real-to-Sim Rigid-Contact Modeling | ICRA · Simulator | [Paper](https://arxiv.org/abs/2603.06218) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695915) | rule-assigned |
-| 2026 | Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions | ICRA · Simulation | [Paper](https://arxiv.org/abs/2511.04665) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696757) | rule-assigned |
-| 2025 | Botany-Bot: Digital Twin Monitoring of Occluded and Underleaf Plant Structures with Gaussian Splats | IROS · Digital Twin | [Paper](https://arxiv.org/abs/2510.17783) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247474) | rule-assigned |
-| 2024 | Augmenting Tactile Simulators with Real-like and Zero-Shot Capabilities | ICRA · Simulator | [Paper](https://arxiv.org/abs/2309.10409) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610442) | rule-assigned |
+| 2026 | Few-Shot Neural Differentiable Simulator: Real-to-Sim Rigid-Contact Modeling | ICRA · Simulator | [Paper](https://arxiv.org/pdf/2603.06218) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695915) | rule-assigned |
+| 2026 | Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2511.04665) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696757) | rule-assigned |
+| 2025 | Botany-Bot: Digital Twin Monitoring of Occluded and Underleaf Plant Structures with Gaussian Splats | IROS · Digital Twin | [Paper](https://arxiv.org/pdf/2510.17783) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247474) | rule-assigned |
+| 2024 | Augmenting Tactile Simulators with Real-like and Zero-Shot Capabilities | ICRA · Simulator | [Paper](https://arxiv.org/pdf/2309.10409) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610442) | rule-assigned |
 | 2023 | Neuro-Adaptive Dynamic Control with Edge-Computing for Collaborative Digital Twin of an Industrial Robotic Manipulator | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161113) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161113) | rule-assigned |
 | 2022 | Dynamic Modeling and Digital Twin of a Harmonic Drive Based Collaborative Robot Joint | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/icra46639.2022.9812458) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812458) | rule-assigned |
 
-## Recent arXiv papers (122)
+## Recent arXiv papers (127)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-14 | Probabilistic Physics Digital Twin for Human-Robot Interaction | Yushen Hu, Harshvardhan Chandirasekar, Apurv Kushwaha, Jonathan King et al. | [Abstract](https://arxiv.org/abs/2610.19336) · [PDF](https://arxiv.org/pdf/2610.19336) | rule-assigned |
+| 2026-10-14 | Atomic-WAM: Execution-Grounded Atomic-Motion Reasoning for World Action Models | Shijun Shi, Zhe Liu, Zhi Hou, Yinan Chen et al. | [Abstract](https://arxiv.org/abs/2610.20157) · [PDF](https://arxiv.org/pdf/2610.20157) | rule-assigned |
+| 2026-10-12 | D-World: An Explicit World-Language-Action Model with Recursive Self-Improvement under Dual Control | Xuan Wen, Baichao Wang | [Abstract](https://arxiv.org/abs/2610.17114) · [PDF](https://arxiv.org/pdf/2610.17114) | rule-assigned |
+| 2026-10-08 | USDCraft: Geometrically Grounded Programmatic Modeling of Articulated 3D Assets for Simulation | Chuanrui Zhang, Zaijia Yang, Duomin Wang, Lu Shi et al. | [Abstract](https://arxiv.org/abs/2610.11322) · [PDF](https://arxiv.org/pdf/2610.11322) | rule-assigned |
+| 2026-10-08 | Digital Twin for Pre-Deployment Validation of AI-Driven Safety-Critical Industrial Edge Control Loops | Sara Cavallero, Federico Tonini, Tony Chahoud, Giampaolo Cuozzo et al. | [Abstract](https://arxiv.org/abs/2610.11934) · [PDF](https://arxiv.org/pdf/2610.11934) | rule-assigned |
 | 2026-10-05 | Demo: Vision-Language Model-Guided Online Calibration of an Electromagnetic Digital Twin | Zerui Kang, Yishen Lim, Zhouyou Gu, Seungnyun Kim et al. | [Abstract](https://arxiv.org/abs/2610.07081) · [PDF](https://arxiv.org/pdf/2610.07081) | rule-assigned |
 | 2026-10-05 | AIM: Adaptive Interaction Modeling Networks for Real-to-Sim Soft-Body Simulation | Tiancheng Yang, Dingshuo Chen, Tianle Chen, Zhaocheng Liu et al. | [Abstract](https://arxiv.org/abs/2610.07116) · [PDF](https://arxiv.org/pdf/2610.07116) | rule-assigned |
 | 2026-09-30 | EmbodiRSI: Recursive Self-Improvement for Data-Efficient Robot Adaptation | Haoran Lang, Haotao Lu, Shiyu Sang, Haoyang Luo et al. | [Abstract](https://arxiv.org/abs/2609.38905) · [PDF](https://arxiv.org/pdf/2609.38905) | rule-assigned |

@@ -1,12 +1,12 @@
 # Depth & Point Clouds · 深度与点云
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=Depth%20%26%20Point%20Clouds#research-workbench)
 
-> 15 conference papers · 443 recent arXiv papers
+> 15 conference papers · 446 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,31 +24,37 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | FRESHR-GSI: A Generalized Safety Model and Evaluation Framework for Mobile Robots in Multi-Human Environments | ICRA · Mobile Robot | [Paper](https://arxiv.org/abs/2501.03467) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696627) | rule-assigned |
-| 2026 | InvariantCloud: A Globally Invariant, Uniquely Indexed Point Cloud Framework for Robust 6-DoF Tactile Pose Tracking | ICRA · Tactile | [Paper](https://arxiv.org/abs/2605.25216) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696184) | rule-assigned |
-| 2026 | ROPA: Synthetic Robot Pose Generation for RGB-D Bimanual Data Augmentation | ICRA · Bimanual | [Paper](https://arxiv.org/abs/2509.19454) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697378) | rule-assigned |
+| 2026 | FRESHR-GSI: A Generalized Safety Model and Evaluation Framework for Mobile Robots in Multi-Human Environments | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2501.03467) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696627) | rule-assigned |
+| 2026 | InvariantCloud: A Globally Invariant, Uniquely Indexed Point Cloud Framework for Robust 6-DoF Tactile Pose Tracking | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2605.25216) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696184) | rule-assigned |
+| 2026 | ROPA: Synthetic Robot Pose Generation for RGB-D Bimanual Data Augmentation | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2509.19454) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697378) | rule-assigned |
 | 2025 | Boosting Omnidirectional Stereo Matching with a Pre-trained Depth Foundation Model | IROS · Foundation Model | [Paper](https://infoscience.epfl.ch/handle/20.500.14299/252124) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246233) | rule-assigned |
 | 2025 | Hyperbolic Transformers with LLMs for Multimodal Human Activity Recognition | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11247069) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247069) | rule-assigned |
-| 2025 | PAVLM: Advancing Point Cloud based Affordance Understanding Via Vision-Language Model | IROS · Language Model | [Paper](https://arxiv.org/abs/2410.11564) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247667) | rule-assigned |
-| 2025 | Set Phasers to Stun: Beaming Power and Control to Mobile Robots with Laser Light | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2504.17865) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247512) | rule-assigned |
+| 2025 | PAVLM: Advancing Point Cloud based Affordance Understanding Via Vision-Language Model | IROS · Language Model | [Paper](https://arxiv.org/pdf/2410.11564) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247667) | rule-assigned |
+| 2025 | Set Phasers to Stun: Beaming Power and Control to Mobile Robots with Laser Light | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2504.17865) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247512) | rule-assigned |
 | 2024 | Generalizable Thermal-based Depth Estimation via Pre-trained Visual Foundation Model | ICRA · Foundation Model | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610394) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610394) | rule-assigned |
-| 2024 | Hamiltonian Dynamics Learning from Point Cloud Observations for Nonholonomic Mobile Robot Control | ICRA · Mobile Robot | [Paper](https://arxiv.org/abs/2309.09163) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610395) | rule-assigned |
-| 2024 | RaSim: A Range-aware High-fidelity RGB-D Data Simulation Pipeline for Real-world Applications | ICRA · Simulation | [Paper](https://arxiv.org/abs/2404.03962) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611208) | rule-assigned |
-| 2024 | VG4D: Vision-Language Model Goes 4D Video Recognition | ICRA · Language Model | [Paper](https://arxiv.org/abs/2404.11605) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610217) | rule-assigned |
-| 2024 | Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2407.06077) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801936) | rule-assigned |
+| 2024 | Hamiltonian Dynamics Learning from Point Cloud Observations for Nonholonomic Mobile Robot Control | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2309.09163) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610395) | rule-assigned |
+| 2024 | RaSim: A Range-aware High-fidelity RGB-D Data Simulation Pipeline for Real-world Applications | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2404.03962) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611208) | rule-assigned |
+| 2024 | VG4D: Vision-Language Model Goes 4D Video Recognition | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2404.11605) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610217) | rule-assigned |
+| 2024 | Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2407.06077) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801936) | rule-assigned |
 | 2024 | PS6D: Point Cloud Based Symmetry-Aware 6D Object Pose Estimation in Robot Bin-Picking | IROS · Object Pose | [Paper](https://arxiv.org/pdf/2405.11257) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802046) | rule-assigned |
 | 2024 | Any2Policy: Learning Visuomotor Policy with Any-Modality | NeurIPS · Visuomotor | [Paper](https://doi.org/10.52202/079017-4244) · [Publisher](https://doi.org/10.52202/079017-4244) | rule-assigned |
 | 2022 | f-Cal: Aleatoric uncertainty quantification for robot perception via calibrated neural regression | ICRA · Robot Perception | [Paper](https://doi.org/10.1109/icra46639.2022.9811903) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811903) | rule-assigned |
 
-## Recent arXiv papers (443)
+## Recent arXiv papers (446)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-11 | Harnessing SPAD Noise: Test-Time Gated Attention for Indoor Depth Estimation | Yiquan Gao | [Abstract](https://arxiv.org/abs/2610.15431) · [PDF](https://arxiv.org/pdf/2610.15431) | rule-assigned |
+| 2026-10-11 | ASM-6D: Fast Certified Pose-Shape Inference with Complete Correspondence Flow Maps | Ho Jin Choi, Minku Kim, Nadia Figueroa | [Abstract](https://arxiv.org/abs/2610.15287) · [PDF](https://arxiv.org/pdf/2610.15287) | rule-assigned |
+| 2026-10-08 | SenseWeather: Multimodal Sensing for Robust Robotic Perception under Extreme Conditions | Fucai Ke, Sukai Huang, Junyi Hao, Kal Backman et al. | [Abstract](https://arxiv.org/abs/2610.14082) · [PDF](https://arxiv.org/pdf/2610.14082) | rule-assigned |
+| 2026-10-08 | FOCUS: From Privileged States to RGB-D with Controlled Modality Switching and Representation Alignment | Filip Grigorov, Kourosh Darvish, Nandita Vijaykumar | [Abstract](https://arxiv.org/abs/2610.11119) · [PDF](https://arxiv.org/pdf/2610.11119) | rule-assigned |
+| 2026-10-08 | CoCam4D: Geometry-Aware Cooperative 4D Perception for Camera-Only Autonomous Driving | Soham Pahari, Sudip Das, Arindam Das, Ujjwal Bhattacharya | [Abstract](https://arxiv.org/abs/2610.11577) · [PDF](https://arxiv.org/pdf/2610.11577) | rule-assigned |
 | 2026-10-07 | ECHO: Embodied Camera Observations of Human Object Carrying | Xuefei Sun, Lorin Achey, Kali Hamilton, Alberto Speranzon et al. | [Abstract](https://arxiv.org/abs/2610.10438) · [PDF](https://arxiv.org/pdf/2610.10438) | rule-assigned |
 | 2026-10-06 | GUARD: Geometric Uncertainty-Aware Point Cloud Denoising and Segmentation for Robotic Hard Disk Drive Disassembly | Zuoxu Wang, Xiao Liang | [Abstract](https://arxiv.org/abs/2610.09068) · [PDF](https://arxiv.org/pdf/2610.09068) | rule-assigned |
 | 2026-10-05 | RoboCap: A New Platform for Egocentric Robot Learning | Grounded Superintelligence, BitRobot | [Abstract](https://arxiv.org/abs/2610.07217) · [PDF](https://arxiv.org/pdf/2610.07217) | rule-assigned |
 | 2026-10-03 | Autoware in Construction: Gap Analysis and LiDAR Perception Toward Off-Road Autonomous Driving | Yu Otsuki, Teja Emmey, Sena Matsushita, Akiro Harada et al. | [Abstract](https://arxiv.org/abs/2610.04187) · [PDF](https://arxiv.org/pdf/2610.04187) | rule-assigned |
 | 2026-10-02 | Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis | Keerthi Kaashyap, Dennis Anthony, Akshay Krishnan, Nhi Ngoc Nguyen et al. | [Abstract](https://arxiv.org/abs/2610.03717) · [PDF](https://arxiv.org/pdf/2610.03717) | rule-assigned |
+| 2026-10-02 | Does Dynamic-Point Filtering Help When Texture Is Scarce? A Controlled Study of ORB-SLAM2 Front-Ends in Synthetic Indoor Scenes | Zekui Xue | [Abstract](https://arxiv.org/abs/2610.10564) · [PDF](https://arxiv.org/pdf/2610.10564) | rule-assigned |
 | 2026-10-01 | LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction | Zhening Huang, Yueyan Li, Johnathan Chiu, Xiaoyang Lyu et al. | [Abstract](https://arxiv.org/abs/2610.01863) · [PDF](https://arxiv.org/pdf/2610.01863) | rule-assigned |
 | 2026-09-30 | IndoorBEV: A Lightweight Real-Time LiDAR BEV Perception System for Indoor Mobile Robots | Haichuan Li | [Abstract](https://arxiv.org/abs/2610.00355) · [PDF](https://arxiv.org/pdf/2610.00355) | rule-assigned |
 | 2026-09-29 | InsightMap: Structured Spatial Modeling for Embodied Multimodal Reasoning | Hongpei Zheng, Hujun Yin | [Abstract](https://arxiv.org/abs/2609.37187) · [PDF](https://arxiv.org/pdf/2609.37187) | rule-assigned |
@@ -161,7 +167,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-01-25 | Masked Depth Modeling for Spatial Perception | Bin Tan, Changjiang Sun, Xiage Qin, Hanat Adai et al. | [Abstract](https://arxiv.org/abs/2601.17895) · [PDF](https://arxiv.org/pdf/2601.17895) | rule-assigned |
 | 2026-01-24 | EquiForm: Noise-Robust SE(3)-Equivariant Policy Learning from 3D Point Clouds | Zhiyuan Zhang, Yu She | [Abstract](https://arxiv.org/abs/2601.17486) · [PDF](https://arxiv.org/pdf/2601.17486) | rule-assigned |
 | 2026-01-07 | Bayesian Monocular Depth Refinement via Neural Radiance Fields | Arun Muthukkumar | [Abstract](https://arxiv.org/abs/2601.03869) · [PDF](https://arxiv.org/pdf/2601.03869) | rule-assigned |
-| 2026-01-06 | Towards Zero-Shot Point Cloud Registration Across Diverse Scales, Scenes, and Sensor Setups | Hyungtae Lim, Minkyun Seo, Luca Carlone, Jaesik Park | [Abstract](https://arxiv.org/abs/2601.02759) · [PDF](https://arxiv.org/pdf/2601.02759) | rule-assigned |
+| 2026-01-06 | Toward Zero-Shot Point Cloud Registration Across Diverse Scales, Scenes, and Sensor Setups | Hyungtae Lim, Minkyun Seo, Luca Carlone, Jaesik Park | [Abstract](https://arxiv.org/abs/2601.02759) · [PDF](https://arxiv.org/pdf/2601.02759) | rule-assigned |
 | 2026-01-03 | Real-Time LiDAR Point Cloud Densification for Low-Latency Spatial Data Transmission | Kazuhiko Murasaki, Shunsuke Konagai, Masakatsu Aoki, Taiga Yoshida et al. | [Abstract](https://arxiv.org/abs/2601.01210) · [PDF](https://arxiv.org/pdf/2601.01210) | rule-assigned |
 | 2026-01-01 | Efficient Prediction of Dense Visual Embeddings via Distillation and RGB-D Transformers | Söhnke Benedikt Fischedick, Daniel Seichter, Benedict Stephan, Robin Schmidt et al. | [Abstract](https://arxiv.org/abs/2601.00359) · [PDF](https://arxiv.org/pdf/2601.00359) | rule-assigned |
 | 2025-12-30 | Guided Diffusion-based Generation of Adversarial Objects for Real-World Monocular Depth Estimation Attacks | Yongtao Chen, Yanbo Wang, Wentao Zhao, Guole Shen et al. | [Abstract](https://arxiv.org/abs/2512.24111) · [PDF](https://arxiv.org/pdf/2512.24111) | rule-assigned |
@@ -484,9 +490,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-23 | Converting Depth Images and Point Clouds for Feature-based Pose Estimation | Robert Lösch, Mark Sastuba, Jonas Toth, Bernhard Jung | [Abstract](https://arxiv.org/abs/2310.14924) · [PDF](https://arxiv.org/pdf/2310.14924) | rule-assigned |
 | 2023-10-19 | FSD: Fast Self-Supervised Single RGB-D to Categorical 3D Objects | Mayank Lunayach, Sergey Zakharov, Dian Chen, Rares Ambrus et al. | [Abstract](https://arxiv.org/abs/2310.12974) · [PDF](https://arxiv.org/pdf/2310.12974) | rule-assigned |
 | 2023-10-15 | Tabletop Transparent Scene Reconstruction via Epipolar-Guided Optical Flow with Monocular Depth Completion Prior | Xiaotong Chen, Zheming Zhou, Zhuo Deng, Omid Ghasemalizadeh et al. | [Abstract](https://arxiv.org/abs/2310.09956) · [PDF](https://arxiv.org/pdf/2310.09956) | rule-assigned |
-| 2023-10-11 | Optimizing the Placement of Roadside LiDARs for Autonomous Driving | Wentao Jiang, Hao Xiang, Xinyu Cai, Runsheng Xu et al. | [Abstract](https://arxiv.org/abs/2310.07247) · [PDF](https://arxiv.org/pdf/2310.07247) | rule-assigned |
-| 2023-10-10 | V2X-AHD:Vehicle-to-Everything Cooperation Perception via Asymmetric Heterogenous Distillation Network | Caizhen He, Hai Wang, Long Chen, Tong Luo et al. | [Abstract](https://arxiv.org/abs/2310.06603) · [PDF](https://arxiv.org/pdf/2310.06603) | rule-assigned |
-| 2023-10-09 | Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration | Chunge Bai, Ruijie Fu, Xiang Gao | [Abstract](https://arxiv.org/abs/2310.05504) · [PDF](https://arxiv.org/pdf/2310.05504) | rule-assigned |
 
 ---
 

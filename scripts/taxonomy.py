@@ -297,7 +297,7 @@ def annotate_paper(paper: dict[str, Any], abstract: str = "") -> dict[str, Any]:
     paper.update(track=track, subcategory=sub, specialty=spec, taxonomy_evidence=evidence,
                  primary_evidence=primary_evidence,
                  subcategory_status="provisional" if evidence == "fallback" else "rule-supported",
-                 classification_status="reviewed" if override else
+                 classification_status="reviewed" if override and spec != GENERAL_SPECIALTY else
                  ("needs-review" if evidence == "fallback" or primary_evidence == "fallback"
                   or spec == GENERAL_SPECIALTY else "rule-assigned"))
     combined = title_text + " " + abstract_text

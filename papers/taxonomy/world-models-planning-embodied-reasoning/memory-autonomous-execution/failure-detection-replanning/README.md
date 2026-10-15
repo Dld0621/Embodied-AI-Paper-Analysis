@@ -1,12 +1,12 @@
 # Failure Detection & Replanning · 失败检测、纠错与重规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Memory%20%26%20Autonomous%20Execution&specialty=Failure%20Detection%20%26%20Replanning#research-workbench)
 
-> 10 conference papers · 151 recent arXiv papers
+> 10 conference papers · 155 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,20 +25,23 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | CorrectManip: A Data-Driven Closed-Loop Framework for Autonomous Skill Learning with Failure Recovery | ICRA · Skill Learning | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696724) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696724) | rule-assigned |
-| 2026 | Failure Identification in Imitation Learning via Statistical and Semantic Filtering | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2604.13788) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696900) | rule-assigned |
-| 2026 | I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models | ICRA · Language Model | [Paper](https://arxiv.org/abs/2509.16072) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695934) | rule-assigned |
-| 2026 | Seeing Farther and Smarter: Value-Guided Multi-Path Reflection for VLM Policy Optimization | ICRA · Vlm | [Paper](https://arxiv.org/abs/2602.19372) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695749) | rule-assigned |
-| 2026 | The Robot’s Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning | ICRA · Vlm | [Paper](https://arxiv.org/abs/2603.20164) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696712) | rule-assigned |
-| 2025 | RACER: Rich Language-Guided Failure Recovery Policies for Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2409.14674) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127799) | rule-assigned |
+| 2026 | Failure Identification in Imitation Learning via Statistical and Semantic Filtering | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2604.13788) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696900) | rule-assigned |
+| 2026 | I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2509.16072) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695934) | rule-assigned |
+| 2026 | Seeing Farther and Smarter: Value-Guided Multi-Path Reflection for VLM Policy Optimization | ICRA · Vlm | [Paper](https://arxiv.org/pdf/2602.19372) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695749) | rule-assigned |
+| 2026 | The Robot’s Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning | ICRA · Vlm | [Paper](https://arxiv.org/pdf/2603.20164) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696712) | rule-assigned |
+| 2025 | RACER: Rich Language-Guided Failure Recovery Policies for Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2409.14674) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127799) | rule-assigned |
 | 2025 | Towards Autonomous Verification: Integrating Cognitive AI and Semantic Digital Twins in Medical Robotics | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127803) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127803) | rule-assigned |
-| 2025 | L3M+P: Lifelong Planning with Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2508.01917) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247529) | rule-assigned |
+| 2025 | L3M+P: Lifelong Planning with Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2508.01917) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247529) | rule-assigned |
 | 2025 | VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots | IROS · Llm | [Paper](https://arxiv.org/pdf/2507.05118) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246320) | rule-assigned |
-| 2023 | BITS: Bi-level Imitation for Traffic Simulation | ICRA · Simulation | [Paper](https://arxiv.org/abs/2208.12403) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161167) | rule-assigned |
+| 2023 | BITS: Bi-level Imitation for Traffic Simulation | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2208.12403) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161167) | rule-assigned |
 
-## Recent arXiv papers (151)
+## Recent arXiv papers (155)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-13 | YUBI-Real2Sim: 3DGS Scene Verification for Reliable Policy Evaluation | Hiroki Nishizawa, Takehiko Ohkawa, Nicola Scianca, Tatsuya Matsushima et al. | [Abstract](https://arxiv.org/abs/2610.17521) · [PDF](https://arxiv.org/pdf/2610.17521) | rule-assigned |
+| 2026-10-13 | Assessing the Quality of Concrete Scenarios Generated from Scenario Classes for Automated Driving | Lina Putze, Thies de Graaff, Jan Steffen Becker, Christian Neurohr | [Abstract](https://arxiv.org/abs/2610.18169) · [PDF](https://arxiv.org/pdf/2610.18169) | rule-assigned |
+| 2026-10-09 | Robot-WATCHDOG : failure detection through object-centric graph representation | Quentin Rolland, Fabrice Mayran de Chamisso, Jean-Baptiste Mouret | [Abstract](https://arxiv.org/abs/2610.13403) · [PDF](https://arxiv.org/pdf/2610.13403) | rule-assigned |
 | 2026-10-05 | P3: Persistent Particle Planning for Constrained Diffusion Control | Hikmet Simsir, Mahyar Fardinfar, Ozgur S. Oguz | [Abstract](https://arxiv.org/abs/2610.06002) · [PDF](https://arxiv.org/pdf/2610.06002) | rule-assigned |
 | 2026-10-05 | Future Anchored Verification and Online Recovery for World Action Models | Zhibin Qin, Zhenxiong Tan, Xinchao Wang | [Abstract](https://arxiv.org/abs/2610.06280) · [PDF](https://arxiv.org/pdf/2610.06280) | rule-assigned |
 | 2026-10-05 | Execution-Aligned Progressive Noise for Consistent Asynchronous Replanning in Generative Robot Policies | Di Wu, Ping Liu, Xuhua Chen, He Zheng et al. | [Abstract](https://arxiv.org/abs/2610.06090) · [PDF](https://arxiv.org/pdf/2610.06090) | rule-assigned |
@@ -77,6 +80,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-07-06 | LLM-as-a-Verifier: A General-Purpose Verification Framework | Jacky Kwok, Shulu Li, Pranav Atreya, Yuejiang Liu et al. | [Abstract](https://arxiv.org/abs/2607.05391) · [PDF](https://arxiv.org/pdf/2607.05391) | rule-assigned |
 | 2026-07-05 | ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI | ACE-Brain Team, :, Ziyang Gong, Haoming Gu et al. | [Abstract](https://arxiv.org/abs/2607.04426) · [PDF](https://arxiv.org/pdf/2607.04426) | rule-assigned |
 | 2026-07-04 | Fast Asymptotically Optimal Kinodynamic Planning via Vectorization | Yitian Gao, Andrew Lu, Zachary Kingston | [Abstract](https://arxiv.org/abs/2607.03987) · [PDF](https://arxiv.org/pdf/2607.03987) | rule-assigned |
+| 2026-06-29 | Sequential Planning via Anchored Robotic Keypoints | Bryce Grant, Aryeh Rothenberg, Logan Senning, Zonghe Chua et al. | [Abstract](https://arxiv.org/abs/2606.30613) · [PDF](https://arxiv.org/pdf/2606.30613) | rule-assigned |
 | 2026-06-24 | Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction | Yuchen Wang, Javal Vyas, Tong Liu, Mehmet Mercangoz | [Abstract](https://arxiv.org/abs/2607.09713) · [PDF](https://arxiv.org/pdf/2607.09713) | rule-assigned |
 | 2026-06-18 | MirrorDuo: Reflection-Consistent Visuomotor Learning from Mirrored Demonstration Pairs | Zheyu Zhuang, Ruiyu Wang, Giovanni Luca Marchetti, Florian T. Pokorny et al. | [Abstract](https://arxiv.org/abs/2606.20048) · [PDF](https://arxiv.org/pdf/2606.20048) | rule-assigned |
 | 2026-06-18 | Dual-Agent Framework for Cross-Model Verified Translation of Natural-Language Protocols into Robotic Laboratory Platform | Hyeonna Choi, Jung Yup Kim, Hyuneui Lim, Seunggyu Jeon | [Abstract](https://arxiv.org/abs/2606.20120) · [PDF](https://arxiv.org/pdf/2606.20120) | rule-assigned |

@@ -27,6 +27,63 @@ NEW_ARXIV_REVIEW_CASES = {
                    (TRACKS[6], "World & Dynamics Modeling", "Action-conditioned Video Prediction"),
                    "Causal world-action models use autoregressive video pretraining and streaming future-video prediction for real-time control."),
 }
+WEEKLY_ARXIV_REVIEW_CASES = {
+    "2610.12440": (
+        "Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation",
+        (TRACKS[2], "Dexterous Hand Retargeting", "Physics & Dynamics Retargeting"),
+        ("Hand Retargeting",),
+    ),
+    "2610.18443": (
+        "PACT: Posture-Aligned Co-Design Technique for Hand Configuration and Retargeting in Multi-Finger Imitation Learning",
+        (TRACKS[8], "Mechanisms & Actuation", "Hands, Grippers & Arms"),
+        ("Hand Retargeting",),
+    ),
+    "2610.12026": (
+        "HWAM: Humanoid World Action Model With Joint State--Action Generation",
+        (TRACKS[6], "World & Dynamics Modeling", "Action-conditioned Video Prediction"),
+        ("World Models",),
+    ),
+    "2610.13024": (
+        "What Visual Representations Do World Action Models Need?",
+        (TRACKS[6], "World & Dynamics Modeling", "Action-conditioned Video Prediction"),
+        ("World Models",),
+    ),
+    "2610.17572": (
+        "EgoCPT: Learning Dexterous Manipulation from a Single Ego-Centric Video with Contact-Aware Optimization",
+        (TRACKS[2], "Dexterous Hand Retargeting", "Contact & Functional Retargeting"),
+        ("Hand Retargeting",),
+    ),
+    "2610.13119": (
+        "Human2Dex: Dexterous Robot Learning from Wrist-Centric Human Demonstrations",
+        (TRACKS[2], "Human Demonstrations to Dexterous Skills", "Video-to-robot Demonstrations"),
+        ("Hand Retargeting",),
+    ),
+    "2610.17789": (
+        "DexStitch: Learning and Composing Dexterous Skills from Human Videos via Contact-Aware Robotic Inpainting",
+        (TRACKS[2], "Human Demonstrations to Dexterous Skills", "Video-to-robot Demonstrations"),
+        ("Hand Retargeting",),
+    ),
+}
+UPDATED_SOURCE_REVIEW_CASES = {
+    "https://arxiv.org/abs/2601.07284": (
+        "SHARE: Sharing Human Actions across Robot Embodiments through Unified Retargeting and Tracking",
+        (TRACKS[4], "Whole-body Motion Transfer", "Motion Imitation & Generation"),
+        "reviewed",
+        ("Whole-body Retargeting", "Retargeting"),
+    ),
+    "https://arxiv.org/abs/2602.00915": (
+        "DiffMorphGrasp: A Diffusion Framework Conditioned on Hand Morphology for Cross-Embodiment Grasp Generation",
+        (TRACKS[2], "Multifinger Grasping & Control", "Multifinger Coordination & Grasp Generation"),
+        "reviewed",
+        ("Dexterous Manipulation",),
+    ),
+    "https://doi.org/10.1109/ICRA57385.2026.11696443": (
+        "Contributing Factors in Human-Robot Handshake: Compliance, Hand Grip, and Synchrony",
+        (TRACKS[2], "Multifinger Grasping & Control", GENERAL_SPECIALTY),
+        "needs-review",
+        (),
+    ),
+}
 
 
 def paper(title, abstract="", old_track="Dexterity & Teleoperation"):
@@ -58,10 +115,11 @@ class TaxonomyClassifierTests(unittest.TestCase):
                 self.assertEqual(p["classification_status"], "reviewed")
 
     def test_reviewed_exceptions_use_only_declared_paths(self):
+        declared = taxonomy_metadata()["tracks"]
         for entry in OVERRIDES.values():
             track, sub, spec = entry["path"]
             self.assertIn(sub, HIERARCHY[track])
-            self.assertIn(spec, [item[0] for item in HIERARCHY[track][sub]["specialties"]])
+            self.assertIn(spec, declared[track]["subcategories"][sub]["specialties"])
             self.assertTrue(entry["reason"])
 
     def test_annotation_is_idempotent_and_preserves_provenance(self):
@@ -222,12 +280,133 @@ class TaxonomyClassifierTests(unittest.TestCase):
             annotated = annotate_paper(deepcopy(p))
             self.assertEqual(tuple(annotated[key] for key in ("track", "subcategory", "specialty")), expected_path)
 
-    def test_five_new_exceptions_leave_every_conference_annotation_unchanged(self):
+    def test_reviewed_arxiv_titles_do_not_match_conference_records(self):
         conference = json.loads((ROOT / "data" / "papers.json").read_text())
-        keys = {normalize_text(case[0]) for case in NEW_ARXIV_REVIEW_CASES.values()}
+        cases = {**NEW_ARXIV_REVIEW_CASES, **WEEKLY_ARXIV_REVIEW_CASES}
+        keys = {normalize_text(case[0]) for case in cases.values()}
         for original in conference["papers"]:
             self.assertNotIn(normalize_text(original["title"]), keys)
-            self.assertEqual(annotate_paper(deepcopy(original)), original, original["title"])
+
+    def test_weekly_reviewed_paths_topics_and_provenance_are_idempotent(self):
+        arxiv = json.loads((ROOT / "data" / "arxiv_recent.json").read_text())
+        records = {p["arxiv_id"]: p for p in arxiv["papers"]}
+        for identifier, (title, path, expected_topics) in WEEKLY_ARXIV_REVIEW_CASES.items():
+            with self.subTest(identifier=identifier):
+                self.assertIn(identifier, records)
+                original = records[identifier]
+                self.assertEqual(original["title"], title)
+                self.assertEqual(original["source_type"], "arxiv")
+                annotated = annotate_paper(deepcopy(original))
+                self.assertEqual(tuple(annotated[k] for k in ("track", "subcategory", "specialty")), path)
+                self.assertEqual(annotated["classification_status"], "reviewed")
+                self.assertTrue(set(expected_topics).issubset(annotated["related_topics"]))
+                reason = annotated["taxonomy_evidence"]
+                self.assertIn("Title/abstract-only", reason)
+                self.assertIn("not full-paper reading or experiment reproduction", reason)
+                self.assertIn(f"https://arxiv.org/abs/{identifier}", reason)
+                for field in ("arxiv_id", "source_type", "year", "published", "paper_url",
+                              "official_url", "abstract", "admission_track"):
+                    self.assertEqual(annotated[field], original[field])
+                if "Hand Retargeting" in expected_topics:
+                    self.assertIn("Retargeting", annotated["related_topics"])
+                    if path[1] != "Dexterous Hand Retargeting":
+                        self.assertIn({"track": TRACKS[2], "subcategory": "Dexterous Hand Retargeting"},
+                                      annotated["related_taxonomy_paths"])
+                else:
+                    self.assertNotIn("Hand Retargeting", annotated["related_topics"])
+                self.assertEqual(annotated, annotate_paper(deepcopy(annotated)))
+
+    def test_weekly_exceptions_match_only_the_seven_exact_arxiv_titles(self):
+        arxiv = json.loads((ROOT / "data" / "arxiv_recent.json").read_text())
+        keys = {normalize_text(case[0]) for case in WEEKLY_ARXIV_REVIEW_CASES.values()}
+        matches = [p for p in arxiv["papers"] if normalize_text(p["title"]) in keys]
+        self.assertEqual(len(matches), len(WEEKLY_ARXIV_REVIEW_CASES))
+        self.assertEqual({p["arxiv_id"] for p in matches}, set(WEEKLY_ARXIV_REVIEW_CASES))
+        for identifier, (title, path, _) in WEEKLY_ARXIV_REVIEW_CASES.items():
+            with self.subTest(identifier=identifier):
+                entry = OVERRIDES[normalize_text(title)]
+                self.assertEqual(entry["title"], title)
+                self.assertEqual(tuple(entry["path"]), path)
+                track, sub, spec = path
+                self.assertIn(sub, HIERARCHY[track])
+                self.assertIn(spec, [item[0] for item in HIERARCHY[track][sub]["specialties"]])
+                for extended_title in ("A Review of " + title, title + ": A New Benchmark"):
+                    extended = annotate_paper(paper(extended_title))
+                    self.assertNotEqual(extended["classification_status"], "reviewed")
+                    self.assertNotIn(normalize_text(extended_title), OVERRIDES)
+
+    def test_weekly_demonstration_papers_keep_primary_paths_and_gain_related_view(self):
+        for identifier in ("2610.13119", "2610.17789"):
+            title, path, _ = WEEKLY_ARXIV_REVIEW_CASES[identifier]
+            annotated = annotate_paper(paper(title))
+            self.assertEqual(tuple(annotated[k] for k in ("track", "subcategory", "specialty")), path)
+            self.assertNotEqual(annotated["subcategory"], "Dexterous Hand Retargeting")
+            self.assertIn("Hand Retargeting", annotated["related_topics"])
+            self.assertIn("Retargeting", annotated["related_topics"])
+            self.assertIn({"track": TRACKS[2], "subcategory": "Dexterous Hand Retargeting"},
+                          annotated["related_taxonomy_paths"])
+
+    def test_updated_source_reviews_preserve_source_metadata_and_are_idempotent(self):
+        arxiv = json.loads((ROOT / "data" / "arxiv_recent.json").read_text())["papers"]
+        conference = json.loads((ROOT / "data" / "papers.json").read_text())["papers"]
+        for url, (title, path, status, topics) in UPDATED_SOURCE_REVIEW_CASES.items():
+            with self.subTest(url=url):
+                source = arxiv if url.startswith("https://arxiv.org/") else conference
+                matches = [p for p in source if p["title"] == title and p["official_url"] == url]
+                self.assertEqual(len(matches), 1)
+                original = matches[0]
+                if url.startswith("https://arxiv.org/"):
+                    self.assertEqual(original["arxiv_id"], url.rsplit("/", 1)[-1])
+                    self.assertLess(original["published"], "2026-10-08")
+                    self.assertEqual(original["source_type"], "arxiv")
+                else:
+                    self.assertEqual(original["venue"], "ICRA")
+                    self.assertEqual(original["source_type"], "publisher")
+                annotated = annotate_paper(deepcopy(original))
+                self.assertEqual(tuple(annotated[k] for k in ("track", "subcategory", "specialty")), path)
+                self.assertEqual(annotated["classification_status"], status)
+                self.assertTrue(set(topics).issubset(annotated["related_topics"]))
+                self.assertNotIn("Hand Retargeting", annotated["related_topics"])
+                self.assertNotIn({"track": TRACKS[2], "subcategory": "Dexterous Hand Retargeting"},
+                                 annotated["related_taxonomy_paths"])
+                self.assertIn("Title/abstract-only", annotated["taxonomy_evidence"])
+                self.assertIn("not full-paper reading or experiment reproduction", annotated["taxonomy_evidence"])
+                self.assertIn(url, annotated["taxonomy_evidence"])
+                for field in ("arxiv_id", "source_type", "year", "published", "paper_url",
+                              "official_url", "abstract", "admission_track", "venue"):
+                    self.assertEqual(annotated.get(field), original.get(field))
+                self.assertEqual(annotated, annotate_paper(deepcopy(annotated)))
+
+    def test_updated_source_exceptions_do_not_match_extended_titles(self):
+        for title, _, _, _ in UPDATED_SOURCE_REVIEW_CASES.values():
+            for extended_title in ("A Review of " + title, title + ": A New Benchmark"):
+                with self.subTest(title=extended_title):
+                    self.assertNotIn(normalize_text(extended_title), OVERRIDES)
+                    annotated = annotate_paper(paper(extended_title))
+                    self.assertFalse(annotated["taxonomy_evidence"].startswith("reviewed:"))
+
+    def test_pending_override_keeps_uncertainty_without_changing_resolved_exceptions(self):
+        pending = []
+        for entry in OVERRIDES.values():
+            with self.subTest(title=entry["title"]):
+                annotated = annotate_paper(paper(entry["title"]))
+                if entry["path"][2] == GENERAL_SPECIALTY:
+                    pending.append(entry["title"])
+                    self.assertEqual(annotated["classification_status"], "needs-review")
+                    self.assertIn("lacks a precise physical-HRI specialty", annotated["taxonomy_evidence"])
+                else:
+                    self.assertEqual(annotated["classification_status"], "reviewed")
+        self.assertEqual(pending, [UPDATED_SOURCE_REVIEW_CASES[
+            "https://doi.org/10.1109/ICRA57385.2026.11696443"][0]])
+
+    def test_updated_whole_body_transfer_and_grasp_generation_are_not_hand_retargeting(self):
+        share = annotate_paper(paper(UPDATED_SOURCE_REVIEW_CASES["https://arxiv.org/abs/2601.07284"][0]))
+        self.assertIn("Whole-body Retargeting", share["related_topics"])
+        self.assertIn("Retargeting", share["related_topics"])
+        self.assertNotIn("Hand Retargeting", share["related_topics"])
+        grasp = annotate_paper(paper(UPDATED_SOURCE_REVIEW_CASES["https://arxiv.org/abs/2602.00915"][0]))
+        self.assertNotIn("Hand Retargeting", grasp["related_topics"])
+        self.assertNotIn("Whole-body Retargeting", grasp["related_topics"])
 
 
 if __name__ == "__main__":

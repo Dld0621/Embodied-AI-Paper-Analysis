@@ -1,7 +1,7 @@
 # Human-to-robot Kinematic Retargeting · 人体到机器人运动学重定向
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Motion%20Transfer&specialty=Human-to-robot%20Kinematic%20Retargeting#research-workbench)
@@ -24,17 +24,19 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | LEGO: Latent-space Exploration for Geometry-aware Optimization of Humanoid Kinematic Design | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2604.08636) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696066) | rule-assigned |
-| 2026 | Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking | ICRA · Retargeting | [Paper](https://arxiv.org/abs/2510.02252) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697263) | rule-assigned |
+| 2026 | LEGO: Latent-space Exploration for Geometry-aware Optimization of Humanoid Kinematic Design | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2604.08636) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696066) | rule-assigned |
+| 2026 | Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking | ICRA · Retargeting | [Paper](https://arxiv.org/pdf/2510.02252) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697263) | rule-assigned |
 | 2025 | Robust and Expressive Humanoid Motion Retargeting via Optimization-Based Rig Unification | IROS · Retargeting | [Paper](https://doi.org/10.1109/IROS60139.2025.11246607) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246607) | rule-assigned |
 | 2024 | Towards Unifying Human Likeness: Evaluating Metrics for Human-Like Motion Retargeting on Bimanual Manipulation Tasks | ICRA · Bimanual | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611024) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611024) | rule-assigned |
-| 2024 | Redefining Data Pairing for Motion Retargeting Leveraging a Human Body Prior | IROS · Retargeting | [Paper](https://arxiv.org/abs/2409.13208) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801789) | rule-assigned |
+| 2024 | Redefining Data Pairing for Motion Retargeting Leveraging a Human Body Prior | IROS · Retargeting | [Paper](https://arxiv.org/pdf/2409.13208) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801789) | rule-assigned |
 | 2023 | Robust Real-Time Motion Retargeting via Neural Latent Prediction | IROS · Retargeting | [Paper](https://doi.org/10.1109/IROS55552.2023.10342022) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342022) | rule-assigned |
 
 ## Recent arXiv papers (33)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-11 | Embodiment-Aware Inference-Time Search for Human Reaction Selection in Humanoid Retargeting | Yongpeng Cao, Masahiro Hirano, Yuji Yamakawa | [Abstract](https://arxiv.org/abs/2610.15274) · [PDF](https://arxiv.org/pdf/2610.15274) | rule-assigned |
+| 2026-10-08 | PriMoRetarget: Humanoid Motion Transfer Through Prioritized Motion Retargeting | Nicholas Ioannidis, Dun Yang, Max Smith, Tue Vu et al. | [Abstract](https://arxiv.org/abs/2610.12642) · [PDF](https://arxiv.org/pdf/2610.12642) | rule-assigned |
 | 2026-10-06 | From Legs to Wheels: Embodiment-Aware Human Motion Retargeting for Mobile-Base Humanoids | Jiyeon Koo, Eunseom Pyo, Jeonghee Seo, Taehwa Kim et al. | [Abstract](https://arxiv.org/abs/2610.08381) · [PDF](https://arxiv.org/pdf/2610.08381) | rule-assigned |
 | 2026-09-29 | OTRetarget: Joint Robot and Object Motion Retargeting via Optimal Transport | Guillaume Besset, Erwann Carn, Timothée Carecchio, Valentin Tordjman-Levavasseur et al. | [Abstract](https://arxiv.org/abs/2609.36602) · [PDF](https://arxiv.org/pdf/2609.36602) | rule-assigned |
 | 2026-09-29 | Geometry-Preserving Human-to-Robot Upper-Body Motion Retargeting from Monocular Video | Xiaoyu Yang, Sen Han, Da Li, Nan Wu | [Abstract](https://arxiv.org/abs/2609.37776) · [PDF](https://arxiv.org/pdf/2609.37776) | rule-assigned |
@@ -53,7 +55,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-03-20 | Morphology-Consistent Humanoid Interaction through Robot-Centric Video Synthesis | Weisheng Xu, Jian Li, Yi Gu, Bin Yang et al. | [Abstract](https://arxiv.org/abs/2603.19709) · [PDF](https://arxiv.org/pdf/2603.19709) | rule-assigned |
 | 2026-03-10 | Kinodynamic Motion Retargeting for Humanoid Locomotion via Multi-Contact Whole-Body Trajectory Optimization | Xiaoyu Zhang, Steven Haener, Varun Madabushi, Maegan Tucker | [Abstract](https://arxiv.org/abs/2603.09956) · [PDF](https://arxiv.org/pdf/2603.09956) | rule-assigned |
 | 2026-02-02 | A Closed-Form Geometric Retargeting Solver for Upper Body Humanoid Robot Teleoperation | Chuizheng Kong, Yunho Cho, Wonsuhk Jung, Idris Wibowo et al. | [Abstract](https://arxiv.org/abs/2602.01632) · [PDF](https://arxiv.org/pdf/2602.01632) | rule-assigned |
-| 2026-01-12 | AdaMorph: Unified Motion Retargeting via Embodiment-Aware Adaptive Transformers | Haoyu Zhang, Shibo Jin, Lusong Li, Jun Li et al. | [Abstract](https://arxiv.org/abs/2601.07284) · [PDF](https://arxiv.org/pdf/2601.07284) | rule-assigned |
 | 2025-12-25 | World-Coordinate Human Motion Retargeting via SAM 3D Body | Zhangzheng Tu, Kailun Su, Shaolong Zhu, Yukun Zheng | [Abstract](https://arxiv.org/abs/2512.21573) · [PDF](https://arxiv.org/pdf/2512.21573) | rule-assigned |
 | 2025-12-19 | Semantic Co-Speech Gesture Synthesis and Real-Time Control for Humanoid Robots | Gang Zhang | [Abstract](https://arxiv.org/abs/2512.17183) · [PDF](https://arxiv.org/pdf/2512.17183) | rule-assigned |
 | 2025-10-02 | Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking | Joao Pedro Araujo, Yanjie Ze, Pei Xu, Jiajun Wu et al. | [Abstract](https://arxiv.org/abs/2510.02252) · [PDF](https://arxiv.org/pdf/2510.02252) | rule-assigned |
@@ -67,7 +68,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-04-17 | Spatio-Temporal Motion Retargeting for Quadruped Robots | Taerim Yoon, Dongho Kang, Seungmin Kim, Jin Cheng et al. | [Abstract](https://arxiv.org/abs/2404.11557) · [PDF](https://arxiv.org/pdf/2404.11557) | rule-assigned |
 | 2024-01-18 | Unsupervised Motion Retargeting for Human-Robot Imitation | Louis Annabi, Ziqi Ma, Sao Mai Nguyen | [Abstract](https://arxiv.org/abs/2402.05115) · [PDF](https://arxiv.org/pdf/2402.05115) | rule-assigned |
 | 2023-12-27 | Multi-Contact Whole-Body Force Control for Position-Controlled Robots | Quentin Rouxel, Serena Ivaldi, Jean-Baptiste Mouret | [Abstract](https://arxiv.org/abs/2312.16465) · [PDF](https://arxiv.org/pdf/2312.16465) | rule-assigned |
-| 2023-10-10 | Words into Action: Learning Diverse Humanoid Robot Behaviors using Language Guided Iterative Motion Refinement | K. Niranjan Kumar, Irfan Essa, Sehoon Ha | [Abstract](https://arxiv.org/abs/2310.06226) · [PDF](https://arxiv.org/pdf/2310.06226) | rule-assigned |
 
 ---
 

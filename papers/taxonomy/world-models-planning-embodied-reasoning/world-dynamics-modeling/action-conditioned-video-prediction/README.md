@@ -1,12 +1,12 @@
 # Action-conditioned Video Prediction · 动作条件视频预测
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=World%20%26%20Dynamics%20Modeling&specialty=Action-conditioned%20Video%20Prediction#research-workbench)
 
-> 3 conference papers · 89 recent arXiv papers
+> 3 conference papers · 97 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,18 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | SAMPO:Scale-wise Autoregression with Motion PrOmpt for generative world models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2509.15536) · [Index](https://dblp.org/rec/conf/nips/WangTWLLDXZTH25) | rule-assigned |
 | 2024 | iVideoGPT: Interactive VideoGPTs are Scalable World Models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2405.15223) · [Index](https://dblp.org/rec/journals/corr/abs-2405-15223) | rule-assigned |
 
-## Recent arXiv papers (89)
+## Recent arXiv papers (97)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-13 | LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts | Wenxuan Guo, Yingping Liang, Zhaoguo Wang, Ziyuan Li et al. | [Abstract](https://arxiv.org/abs/2610.18873) · [PDF](https://arxiv.org/pdf/2610.18873) | rule-assigned |
+| 2026-10-13 | From Pixels to Executable Physics: Behavior-Grounded World Models for Embodied Action Consequence Prediction | Ruo Chen, Jiahua Pang, Yingjie Niu, Hongyi Lin et al. | [Abstract](https://arxiv.org/abs/2610.17630) · [PDF](https://arxiv.org/pdf/2610.17630) | rule-assigned |
+| 2026-10-13 | Data-Free Continual Learning for World Action Model with Rectified Generative Replay | Kaipeng Fang, Hangxu Liu, Chaojian Shi, Yunsong Zhou et al. | [Abstract](https://arxiv.org/abs/2610.18038) · [PDF](https://arxiv.org/pdf/2610.18038) | rule-assigned |
+| 2026-10-13 | Box-WAM: Box Trajectories as Compact State Representations for World Action Models | Qinxi Yu, Wenzhou Ding, Gloria X. Wang, Albert J. Zhai et al. | [Abstract](https://arxiv.org/abs/2610.17526) · [PDF](https://arxiv.org/pdf/2610.17526) | rule-assigned |
+| 2026-10-10 | AnyRank: Reliable Anytime Policy Ranking via Sequential Testing | Apurva Badithela, David Snyder, Tenny Yin, Jade Sceats et al. | [Abstract](https://arxiv.org/abs/2610.14603) · [PDF](https://arxiv.org/pdf/2610.14603) | rule-assigned |
+| 2026-10-09 | What Visual Representations Do World Action Models Need? | Kai Liu, Jiangran Lyu, Tingyu Deng, Yixin Zheng et al. | [Abstract](https://arxiv.org/abs/2610.13024) · [PDF](https://arxiv.org/pdf/2610.13024) | reviewed |
+| 2026-10-09 | Beyond Successful Robot Demonstrations: Learning from Human Interactions and Modeling Failure Dynamics | Peiyan Tu, Cong Wang, Hanxin Zhu, Xin Jin et al. | [Abstract](https://arxiv.org/abs/2610.13522) · [PDF](https://arxiv.org/pdf/2610.13522) | rule-assigned |
+| 2026-10-08 | HWAM: Humanoid World Action Model With Joint State--Action Generation | Yan Yang, Jikun Rong, Minzhao Zhu, Zheyi Zhao et al. | [Abstract](https://arxiv.org/abs/2610.12026) · [PDF](https://arxiv.org/pdf/2610.12026) | reviewed |
 | 2026-10-07 | Video Prediction Policy 2: Predict Better, Act Better | Yanjiang Guo, Haodong Yan, Zhide Zhong, Zhongru Zhang et al. | [Abstract](https://arxiv.org/abs/2610.10270) · [PDF](https://arxiv.org/pdf/2610.10270) | rule-assigned |
 | 2026-10-07 | RealtimeWAM: How Fast Can I Run My World Action Model? | Huanan Liu, Ye Li, Kangye Ji, Xiaoyu Chen et al. | [Abstract](https://arxiv.org/abs/2610.10079) · [PDF](https://arxiv.org/pdf/2610.10079) | rule-assigned |
 | 2026-10-07 | Long-WAM: Scaling the Context of World-Action Models | Wei Huang, Bohan Zhang, Chenzhi Liu, Isabella Liu et al. | [Abstract](https://arxiv.org/abs/2610.10528) · [PDF](https://arxiv.org/pdf/2610.10528) | reviewed |
@@ -56,7 +64,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-09-27 | AnyStep-WAM: Budget-Aligned Distillation and Adaptive Inference for World Action Models | Rui Wang, Xiangyu Wang, Donglin Yang, Yibo Li et al. | [Abstract](https://arxiv.org/abs/2609.33748) · [PDF](https://arxiv.org/pdf/2609.33748) | rule-assigned |
 | 2026-09-25 | InternW0-$Δ$: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data | Xingyu Miao, Zizun Li, Baole Fang, Kaiwen Song et al. | [Abstract](https://arxiv.org/abs/2609.31394) · [PDF](https://arxiv.org/pdf/2609.31394) | rule-assigned |
 | 2026-09-23 | SlackDrive: Reclaiming Runtime Slack for Adaptive Driving Inference | Xiaohuan Pei, Hengguang Zhou, Yuanhao Ban, Justin Cui et al. | [Abstract](https://arxiv.org/abs/2609.28064) · [PDF](https://arxiv.org/pdf/2609.28064) | rule-assigned |
-| 2026-09-23 | Latent evolving World Action Model | Xueji Fang, Boqiang Duan, Hua Wu, Jingdong Wang et al. | [Abstract](https://arxiv.org/abs/2609.27455) · [PDF](https://arxiv.org/pdf/2609.27455) | rule-assigned |
+| 2026-09-23 | LeWAM: Latent evolving World Action Model | Xueji Fang, Boqiang Duan, Hua Wu, Jingdong Wang et al. | [Abstract](https://arxiv.org/abs/2609.27455) · [PDF](https://arxiv.org/pdf/2609.27455) | rule-assigned |
 | 2026-09-23 | CoRe-WAM: Correspondence-Aligned Temporal Residuals for World Action Models | Bin Zhou, Jialong Liu, Jianan Wang, Changhao Chen et al. | [Abstract](https://arxiv.org/abs/2609.27314) · [PDF](https://arxiv.org/pdf/2609.27314) | rule-assigned |
 | 2026-09-23 | Beyond Future Prediction: Denoising as Generative Adaptation for Robot Control | Zanyi Wang, Yuheng Lei, Dengyang Jiang, Ping Luo et al. | [Abstract](https://arxiv.org/abs/2609.28339) · [PDF](https://arxiv.org/pdf/2609.28339) | rule-assigned |
 | 2026-09-22 | An Action Is Worth One Patch: Unified World-Action Modeling with PatchWAM | Tianheng Wang, Zhou Xie, Heng Jia, Jianhua Xu et al. | [Abstract](https://arxiv.org/abs/2609.25961) · [PDF](https://arxiv.org/pdf/2609.25961) | rule-assigned |

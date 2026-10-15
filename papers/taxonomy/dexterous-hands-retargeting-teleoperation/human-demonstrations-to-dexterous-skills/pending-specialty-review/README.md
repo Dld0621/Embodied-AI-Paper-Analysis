@@ -1,7 +1,7 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Human%20Demonstrations%20to%20Dexterous%20Skills&specialty=Pending%20specialty%20review#research-workbench)
@@ -24,8 +24,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Generate, Transfer, Adapt: Learning Functional Dexterous Grasping from a Single Human Demonstration | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2601.05243) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697272) | needs-review |
-| 2025 | ViViDex: Learning Vision-Based Dexterous Manipulation from Human Videos | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2404.15709) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127358) | needs-review |
+| 2026 | Generate, Transfer, Adapt: Learning Functional Dexterous Grasping from a Single Human Demonstration | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2601.05243) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697272) | needs-review |
+| 2025 | ViViDex: Learning Vision-Based Dexterous Manipulation from Human Videos | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2404.15709) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127358) | needs-review |
 
 ## Recent arXiv papers (12)
 

@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Dexterous%20Hand%20Retargeting&specialty=Pending%20specialty%20review#research-workbench)
 
-> 0 conference papers · 1 recent arXiv papers
+> 0 conference papers · 2 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (1)
+## Recent arXiv papers (2)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-14 | Human Demonstrations as Post-Training Data for Any Robot Body: Retargeting the Object, Not the Hand | Nagasrikanth Kallakuri | [Abstract](https://arxiv.org/abs/2610.20351) · [PDF](https://arxiv.org/pdf/2610.20351) | needs-review |
 | 2026-07-10 | DemoBridge: A Simulation-in-the-Loop Toolkit for Single-View Human Demonstration Retargeting | Zehao Wang, Fabien Despinoy, Sergey Zakharov, Tinne Tuytelaars et al. | [Abstract](https://arxiv.org/abs/2607.09519) · [PDF](https://arxiv.org/pdf/2607.09519) | needs-review |
 
 ---

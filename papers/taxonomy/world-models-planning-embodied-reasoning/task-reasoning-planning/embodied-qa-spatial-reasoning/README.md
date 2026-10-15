@@ -1,12 +1,12 @@
 # Embodied QA & Spatial Reasoning · 具身问答与空间推理
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Task%20Reasoning%20%26%20Planning&specialty=Embodied%20QA%20%26%20Spatial%20Reasoning#research-workbench)
 
-> 12 conference papers · 114 recent arXiv papers
+> 12 conference papers · 115 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,29 +25,30 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction | ICRA · Llm | [Paper](https://arxiv.org/pdf/2602.06038) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696967) | rule-assigned |
-| 2025 | RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics | CVPR · Language Model | [Paper](https://arxiv.org/abs/2411.16537) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01470) | rule-assigned |
-| 2025 | 3D Spatial Understanding in MLLMs: Disambiguation and Evaluation | ICRA · Llm | [Paper](https://arxiv.org/abs/2412.06613) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128559) | rule-assigned |
-| 2025 | Closed Loop Interactive Embodied Reasoning for Robot Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2404.15194) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127480) | rule-assigned |
-| 2025 | Leveraging LLMs for Mission Planning in Precision Agriculture | ICRA · Llm | [Paper](https://arxiv.org/abs/2506.10093) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128633) | rule-assigned |
+| 2025 | RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics | CVPR · Language Model | [Paper](https://arxiv.org/pdf/2411.16537) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01470) | rule-assigned |
+| 2025 | 3D Spatial Understanding in MLLMs: Disambiguation and Evaluation | ICRA · Llm | [Paper](https://arxiv.org/pdf/2412.06613) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128559) | rule-assigned |
+| 2025 | Closed Loop Interactive Embodied Reasoning for Robot Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2404.15194) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127480) | rule-assigned |
+| 2025 | Leveraging LLMs for Mission Planning in Precision Agriculture | ICRA · Llm | [Paper](https://arxiv.org/pdf/2506.10093) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128633) | rule-assigned |
 | 2025 | Robo2VLM: Improving Visual Question Answering using Large-Scale Robot Manipulation Data | NeurIPS · Vlm | [Paper](https://doi.org/10.52202/085713-0733) · [Publisher](https://doi.org/10.52202/085713-0733) | rule-assigned |
 | 2025 | ROVER: Recursive Reasoning Over Videos with Vision-Language Models for Embodied Tasks | NeurIPS · Language Model | [Paper](https://arxiv.org/abs/2508.01943) · [Index](https://dblp.org/rec/conf/nips/SchroederBWLG25) | rule-assigned |
 | 2024 | OpenEQA: Embodied Question Answering in the Era of Foundation Models | CVPR · Embodied question answering | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.pdf) · [Official](https://openaccess.thecvf.com/content/CVPR2024/html/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.html) | rule-assigned |
-| 2024 | Lifelong Robot Library Learning: Bootstrapping Composable and Generalizable Skills for Embodied Control with Language Models | ICRA · Language Model | [Paper](https://research.rug.nl/files/1112140101/Lifelong_Robot_Library_Learning_Bootstrapping_Composable_and_Generalizable_Skills_for_Embodied_Control_with_Language_Models.pdf) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611448) | rule-assigned |
-| 2024 | Statler: State-Maintaining Language Models for Embodied Reasoning | ICRA · Language Model | [Paper](https://arxiv.org/abs/2306.17840) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610634) | rule-assigned |
+| 2024 | Lifelong Robot Library Learning: Bootstrapping Composable and Generalizable Skills for Embodied Control with Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2406.18746) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611448) | rule-assigned |
+| 2024 | Statler: State-Maintaining Language Models for Embodied Reasoning | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2306.17840) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610634) | rule-assigned |
 | 2024 | Explore until Confident: Efficient Exploration for Embodied Question Answering | RSS · Exploration | [Paper](https://arxiv.org/abs/2403.15941) · [Index](https://dblp.org/rec/conf/rss/RenCDIMS24) | rule-assigned |
 | 2022 | Inner Monologue: Embodied Reasoning through Planning with Language Models | CoRL · Language Model | [Paper](https://arxiv.org/abs/2207.05608) · [Index](https://dblp.org/rec/conf/corl/HuangXXCLFZTMCS22) | rule-assigned |
 
-## Recent arXiv papers (114)
+## Recent arXiv papers (115)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-13 | Towards a Systematic Study of Embodied System 2 over Full Task Execution Cycles | Yuxi Wei, Ye Fang, Shuai Yang, Tong Wu et al. | [Abstract](https://arxiv.org/abs/2610.17657) · [PDF](https://arxiv.org/pdf/2610.17657) | rule-assigned |
 | 2026-10-06 | VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning | Zewei Zhou, Rachel Luo, Yulong Cao, Chaowei Xiao et al. | [Abstract](https://arxiv.org/abs/2610.08761) · [PDF](https://arxiv.org/pdf/2610.08761) | rule-assigned |
 | 2026-09-28 | Memory in the Sky: Low-Altitude Question Answering with Multi-Agent Memory Aggregation | Chengyang Li, Yujie Wan, Shuai Wang, Kejiang Ye et al. | [Abstract](https://arxiv.org/abs/2609.35431) · [PDF](https://arxiv.org/pdf/2609.35431) | rule-assigned |
 | 2026-09-27 | Informative Viewpoint Selection for Episodic-Memory Embodied Question Answering using Omnidirectional Images | Kaname Kitamura, Asako Kanezaki | [Abstract](https://arxiv.org/abs/2609.33288) · [PDF](https://arxiv.org/pdf/2609.33288) | rule-assigned |
 | 2026-09-22 | Hierarchical Floorplan-Guided Vision-Language Exploration for Embodied Question Answering | Albert Gassol Puigjaner, Kostas Alexis | [Abstract](https://arxiv.org/abs/2609.26360) · [PDF](https://arxiv.org/pdf/2609.26360) | rule-assigned |
 | 2026-09-09 | Context-Aware Adaptive Pesticide Spraying for Agricultural Robots under Changing Weather and Terrain Using Vision-Language Models | Cong-Thanh Vu, Yen-Chen Liu | [Abstract](https://arxiv.org/abs/2610.08807) · [PDF](https://arxiv.org/pdf/2610.08807) | rule-assigned |
 | 2026-09-07 | Contextual Observer Grounding: Evaluating Situated Spatial Reasoning in Vision-Language Models | Mimo Shirasaka, Haochen Zhang, Yonatan Bisk | [Abstract](https://arxiv.org/abs/2609.06880) · [PDF](https://arxiv.org/pdf/2609.06880) | rule-assigned |
-| 2026-08-17 | MG-VQA: Manipulation Grounded Visual Question Answering with VLMs | Vineet Bhat, Mikaela Angelina Uy, Siyi Chen, Alex Zook et al. | [Abstract](https://arxiv.org/abs/2608.17129) · [PDF](https://arxiv.org/pdf/2608.17129) | rule-assigned |
+| 2026-08-17 | MG-VQA: Manipulation Grounded Visual Question Answering with VLMs | Vineet Bhat, Mikaela Angelina Uy, Siyi Chen, Chan Hee Song et al. | [Abstract](https://arxiv.org/abs/2608.17129) · [PDF](https://arxiv.org/pdf/2608.17129) | rule-assigned |
 | 2026-08-08 | Explore, Map, Remember, Decide: Are Embodied VLMs Ready for Safety-Critical Scenarios? | Gabriele La Malfa, Nitay Alon, Emanuele La Malfa, Reuth Mirsky et al. | [Abstract](https://arxiv.org/abs/2608.08077) · [PDF](https://arxiv.org/pdf/2608.08077) | rule-assigned |
 | 2026-07-23 | Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering | Zikui Cai, Kaushal Janga, Tan Dat Dao, Seungjae Lee et al. | [Abstract](https://arxiv.org/abs/2607.21571) · [PDF](https://arxiv.org/pdf/2607.21571) | rule-assigned |
 | 2026-07-11 | ActiveFly-Bench: Aligning Embodied Question Answering with Vision-Language-Action for Aerial Embodied Perception | Weichen Zhang, Shiquan Yu, Yinan Zhu, Peizhi Tang et al. | [Abstract](https://arxiv.org/abs/2607.10180) · [PDF](https://arxiv.org/pdf/2607.10180) | rule-assigned |

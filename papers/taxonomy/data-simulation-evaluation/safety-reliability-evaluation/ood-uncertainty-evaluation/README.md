@@ -1,12 +1,12 @@
 # OOD & Uncertainty Evaluation · 分布外与不确定性评估
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Safety%20%26%20Reliability%20Evaluation&specialty=OOD%20%26%20Uncertainty%20Evaluation#research-workbench)
 
-> 8 conference papers · 139 recent arXiv papers
+> 8 conference papers · 142 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,23 +24,26 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | UMI-on-Air: Embodiment-Aware Guidance for Embodiment-Agnostic Visuomotor Policies | ICRA · Visuomotor | [Paper](https://arxiv.org/abs/2510.02614) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696455) | rule-assigned |
-| 2025 | Elastic Motion Policy: An Adaptive Dynamical System for Robust and Efficient One-Shot Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/abs/2503.08029) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246142) | rule-assigned |
-| 2025 | Out-of-Distribution Recovery with Object-Centric Keypoint Inverse Policy for Visuomotor Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/abs/2411.03294) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246616) | rule-assigned |
+| 2026 | UMI-on-Air: Embodiment-Aware Guidance for Embodiment-Agnostic Visuomotor Policies | ICRA · Visuomotor | [Paper](https://arxiv.org/pdf/2510.02614) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696455) | rule-assigned |
+| 2025 | Elastic Motion Policy: An Adaptive Dynamical System for Robust and Efficient One-Shot Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2503.08029) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246142) | rule-assigned |
+| 2025 | Out-of-Distribution Recovery with Object-Centric Keypoint Inverse Policy for Visuomotor Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2411.03294) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246616) | rule-assigned |
 | 2025 | Towards Reliable LLM-based Robots Planning via Combined Uncertainty Estimation | NeurIPS · Llm | [Paper](https://doi.org/10.52202/085713-2600) · [Publisher](https://doi.org/10.52202/085713-2600) | rule-assigned |
 | 2024 | Task-Oriented Hierarchical Object Decomposition for Visuomotor Control | CoRL · Visuomotor | [Paper](https://arxiv.org/abs/2411.01284) · [Index](https://dblp.org/rec/journals/corr/abs-2411-01284) | rule-assigned |
 | 2024 | ELEMENTAL: Interactive Learning from Demonstrations and Vision-Language Models for Reward Design in Robotics | ICML · Language Model | [Paper](https://arxiv.org/abs/2411.18825) · [Index](https://dblp.org/rec/journals/corr/abs-2411-18825) | rule-assigned |
 | 2024 | HRP: Human Affordances for Robotic Pre-Training | RSS · Affordance | [Paper](https://arxiv.org/abs/2407.18911) · [Index](https://dblp.org/rec/conf/rss/SriramaDB024) | rule-assigned |
 | 2023 | HYDRA: Hybrid Robot Actions for Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2306.17237) · [Index](https://dblp.org/rec/journals/corr/abs-2306-17237) | rule-assigned |
 
-## Recent arXiv papers (139)
+## Recent arXiv papers (142)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-12 | MOSAIC: Mode- and Support-Aware Inference-Time Control of Robot Diffusion Models | Sabrina Bodmer, Rahel Rickenbach, René Zurbrügg, Melanie N. Zeilinger et al. | [Abstract](https://arxiv.org/abs/2610.17001) · [PDF](https://arxiv.org/pdf/2610.17001) | rule-assigned |
+| 2026-10-08 | Higher-Order Action Supervision Makes A Strong Policy Class | Peng Cheng, Yunxian Hou, Zhi Zhou, Qian Zhang et al. | [Abstract](https://arxiv.org/abs/2610.11175) · [PDF](https://arxiv.org/pdf/2610.11175) | rule-assigned |
 | 2026-10-05 | Robotizing Human Videos with Physically Consistent Interactions | Ching-Lam Cheng, Shengfeng He, Bin Zhu | [Abstract](https://arxiv.org/abs/2610.06137) · [PDF](https://arxiv.org/pdf/2610.06137) | rule-assigned |
 | 2026-10-05 | FreeSpeed: Training-Free Speed Control for Generative Robot Policies | Yuxuan Hu, Shilin Shan, Qiheng Wang, Jinghan Yang et al. | [Abstract](https://arxiv.org/abs/2610.05734) · [PDF](https://arxiv.org/pdf/2610.05734) | rule-assigned |
 | 2026-10-02 | Self-Repairing Recurrent Ensembles for Real-Time Recovery from Distribution Shift | Julian Lemmel, Pedro D. Wendel Garcia, Taisuke Kobayashi, Radu Grosu | [Abstract](https://arxiv.org/abs/2610.03249) · [PDF](https://arxiv.org/pdf/2610.03249) | rule-assigned |
 | 2026-10-02 | Native Action-Prior Learning from Videos for World Action Models | Zhaochong An, Fei Zhang, Menglin Jia, Duncan Frost et al. | [Abstract](https://arxiv.org/abs/2610.03391) · [PDF](https://arxiv.org/pdf/2610.03391) | rule-assigned |
+| 2026-10-01 | Residual Compliant Policy: Learning Compliant Policies from Few Demonstrations | Chunyu Jiang, Yichen Cai, Shuai Li, Wenbin Sun et al. | [Abstract](https://arxiv.org/abs/2610.14035) · [PDF](https://arxiv.org/pdf/2610.14035) | rule-assigned |
 | 2026-10-01 | Query-Conditioned Articulation Estimation from a Single Image | Abdelrhman Werby, Fabio Scaparro, Kai O. Arras | [Abstract](https://arxiv.org/abs/2610.01726) · [PDF](https://arxiv.org/pdf/2610.01726) | rule-assigned |
 | 2026-09-30 | PrefPI: Preference-Guided Steering into Out-of-Distribution Behaviors | Seungeun Rho, Wontaek Kim, Danfei Xu, Sehoon Ha | [Abstract](https://arxiv.org/abs/2609.40165) · [PDF](https://arxiv.org/pdf/2609.40165) | rule-assigned |
 | 2026-09-28 | Agent Priors-guided Policy Learning | Puming Jiang, Tianrun Hu, Haozhe Du, Yibo Li et al. | [Abstract](https://arxiv.org/abs/2609.35690) · [PDF](https://arxiv.org/pdf/2609.35690) | rule-assigned |

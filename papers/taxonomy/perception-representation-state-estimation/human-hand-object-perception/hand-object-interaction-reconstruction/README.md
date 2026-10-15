@@ -1,7 +1,7 @@
 # Hand-object Interaction Reconstruction · 手—物交互重建
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Human%20%26%20Hand-object%20Perception&specialty=Hand-object%20Interaction%20Reconstruction#research-workbench)
@@ -24,12 +24,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2025 | Hand-Object Interaction Pretraining from Videos | ICRA · Hand Object | [Paper](https://arxiv.org/abs/2409.08273) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127811) | rule-assigned |
-| 2025 | Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos | IROS · Hand Object | [Paper](https://arxiv.org/abs/2405.04370) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247704) | rule-assigned |
+| 2025 | Hand-Object Interaction Pretraining from Videos | ICRA · Hand Object | [Paper](https://arxiv.org/pdf/2409.08273) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127811) | rule-assigned |
+| 2025 | Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos | IROS · Hand Object | [Paper](https://arxiv.org/pdf/2405.04370) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247704) | rule-assigned |
 | 2025 | MEgoHand: Multimodal Egocentric Hand-Object Interaction Motion Generation | NeurIPS · Hand Object | [Paper](https://arxiv.org/abs/2505.16602) · [Index](https://dblp.org/rec/journals/corr/abs-2505-16602) | rule-assigned |
 | 2025 | OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model | NeurIPS · Large Language Model | [Paper](https://arxiv.org/abs/2505.18947) · [Index](https://dblp.org/rec/journals/corr/abs-2505-18947) | rule-assigned |
-| 2024 | HandNeRF: Learning to Reconstruct Hand-Object Interaction Scene from a Single RGB Image | ICRA · Hand Object | [Paper](https://arxiv.org/abs/2309.07891) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611230) | rule-assigned |
-| 2024 | HandyPriors: Physically Consistent Perception of Hand-Object Interactions with Differentiable Priors | ICRA · Hand Object | [Paper](https://arxiv.org/abs/2311.16552) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610748) | rule-assigned |
+| 2024 | HandNeRF: Learning to Reconstruct Hand-Object Interaction Scene from a Single RGB Image | ICRA · Hand Object | [Paper](https://arxiv.org/pdf/2309.07891) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611230) | rule-assigned |
+| 2024 | HandyPriors: Physically Consistent Perception of Hand-Object Interactions with Differentiable Priors | ICRA · Hand Object | [Paper](https://arxiv.org/pdf/2311.16552) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610748) | rule-assigned |
 
 ## Recent arXiv papers (15)
 

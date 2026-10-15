@@ -1,12 +1,12 @@
 # Long-horizon & Task-motion Planning · 长时程操作与任务运动规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Long-horizon%20%26%20Task-motion%20Planning#research-workbench)
 
-> 31 conference papers · 196 recent arXiv papers
+> 32 conference papers · 199 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,29 +20,30 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (31)
+## Conference papers (32)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | From CAD to POMDP: Probabilistic Planning for Robotic Disassembly of End-of-Life Products | ICRA · Assembly | [Paper](https://arxiv.org/abs/2511.23407) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697223) | rule-assigned |
-| 2026 | FUNCanon: Learning Pose-Aware Action Primitives via Functional Object Canonicalization for Generalizable Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2509.19102) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696687) | rule-assigned |
-| 2026 | Large-Language-Model-Guided State Estimation for Partially Observable Task and Motion Planning | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2603.03704) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697209) | rule-assigned |
-| 2026 | MOSAIC: Skill-Centric Manipulation Planning with Physics Simulation | ICRA · Simulation | [Paper](https://arxiv.org/abs/2504.16738) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697074) | rule-assigned |
-| 2026 | SymSkill: Symbol and Skill Co-Invention for Data-Efficient and Reactive Long-Horizon Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2510.01661) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696696) | rule-assigned |
-| 2026 | The Price Is Not Right: Neuro-Symbolic Methods Outperform VLAs on Structured Long-Horizon Manipulation Tasks with Significantly Lower Energy Consumption | ICRA · Vla | [Paper](https://arxiv.org/abs/2602.19260) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696327) | rule-assigned |
+| 2026 | From CAD to POMDP: Probabilistic Planning for Robotic Disassembly of End-of-Life Products | ICRA · Assembly | [Paper](https://arxiv.org/pdf/2511.23407) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697223) | rule-assigned |
+| 2026 | FUNCanon: Learning Pose-Aware Action Primitives via Functional Object Canonicalization for Generalizable Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2509.19102) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696687) | rule-assigned |
+| 2026 | Large-Language-Model-Guided State Estimation for Partially Observable Task and Motion Planning | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2603.03704) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697209) | rule-assigned |
+| 2026 | MOSAIC: Skill-Centric Manipulation Planning with Physics Simulation | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2504.16738) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697074) | rule-assigned |
+| 2026 | Multi-modal Affordance Planner with Temporal-Context Action Policy for Long-Horizon Bimanual Robot Manipulation | ICRA · Bimanual | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695814) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695814) | rule-assigned |
+| 2026 | SymSkill: Symbol and Skill Co-Invention for Data-Efficient and Reactive Long-Horizon Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2510.01661) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696696) | rule-assigned |
+| 2026 | The Price Is Not Right: Neuro-Symbolic Methods Outperform VLAs on Structured Long-Horizon Manipulation Tasks with Significantly Lower Energy Consumption | ICRA · Vla | [Paper](https://arxiv.org/pdf/2602.19260) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696327) | rule-assigned |
 | 2025 | AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2410.00371) · [Index](https://dblp.org/rec/conf/iclr/DuanPKWTYKFMG25) | rule-assigned |
-| 2025 | Guiding Long-Horizon Task and Motion Planning with Vision Language Models | ICRA · Language Model | [Paper](https://arxiv.org/abs/2410.02193) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128705) | rule-assigned |
-| 2025 | Local Policies Enable Zero-Shot Long-Horizon Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2410.22332) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128407) | rule-assigned |
+| 2025 | Guiding Long-Horizon Task and Motion Planning with Vision Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2410.02193) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128705) | rule-assigned |
+| 2025 | Local Policies Enable Zero-Shot Long-Horizon Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2410.22332) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128407) | rule-assigned |
 | 2025 | LLM-Driven Hierarchical Planning: Long-horizon Task Allocation for Multi-Robot Systems in Cross-Regional Environments | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11247013) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247013) | rule-assigned |
 | 2025 | MALMM: Multi-Agent Large Language Models for Zero-Shot Robotic Manipulation | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2411.17636) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247340) | rule-assigned |
 | 2025 | OpAC: An Optimization-Augmented Control Framework for Single and Coordinated Multi-Arm Robotic Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/abs/2506.16555) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247324) | rule-assigned |
-| 2025 | VLM See, Robot Do: Human Demo Video to Robot Action Plan via Vision Language Model | IROS · Language Model | [Paper](https://arxiv.org/abs/2410.08792) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246682) | rule-assigned |
+| 2025 | VLM See, Robot Do: Human Demo Video to Robot Action Plan via Vision Language Model | IROS · Language Model | [Paper](https://arxiv.org/pdf/2410.08792) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246682) | rule-assigned |
 | 2024 | RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2407.04689) · [Index](https://dblp.org/rec/journals/corr/abs-2407-04689) | rule-assigned |
-| 2024 | AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers | ICRA · Llm | [Paper](https://arxiv.org/abs/2306.06531) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611163) | rule-assigned |
+| 2024 | AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers | ICRA · Llm | [Paper](https://arxiv.org/pdf/2306.06531) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611163) | rule-assigned |
 | 2024 | CoPAL: Corrective Planning of Robot Actions with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2310.07263) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610434) | rule-assigned |
 | 2024 | Learning active manipulation to target shapes with model-free, long-horizon deep reinforcement learning | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610033) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610033) | rule-assigned |
-| 2024 | Subgoal Diffuser: Coarse-to-fine Subgoal Generation to Guide Model Predictive Control for Robot Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2403.13085) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610189) | rule-assigned |
-| 2024 | Universal Visual Decomposer: Long-Horizon Manipulation Made Easy | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2310.08581) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611125) | rule-assigned |
+| 2024 | Subgoal Diffuser: Coarse-to-fine Subgoal Generation to Guide Model Predictive Control for Robot Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2403.13085) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610189) | rule-assigned |
+| 2024 | Universal Visual Decomposer: Long-Horizon Manipulation Made Easy | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2310.08581) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611125) | rule-assigned |
 | 2024 | Exploiting Hybrid Policy in Reinforcement Learning for Interpretable Temporal Logic Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2412.20338) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802202) | rule-assigned |
 | 2024 | Extending Task and Motion Planning with Feasibility Prediction: Towards Multi-Robot Manipulation Planning of Realistic Objects | IROS · Manipulation | [Paper](https://laas.hal.science/hal-04284213v1/document) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802307) | rule-assigned |
 | 2024 | HACMan++: Spatially-Grounded Motion Primitives for Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2407.08585) · [Index](https://dblp.org/rec/conf/rss/JiangWZ0H24) | rule-assigned |
@@ -50,16 +51,24 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Imitating Task and Motion Planning with Visuomotor Transformers | CoRL · Visuomotor | [Paper](https://arxiv.org/pdf/2305.16309) · [Index](https://dblp.org/rec/journals/corr/abs-2305-16309) | rule-assigned |
 | 2023 | MimicPlay: Long-Horizon Imitation Learning by Watching Human Play | CoRL · Imitation Learning | [Paper](https://arxiv.org/pdf/2302.12422) · [Index](https://dblp.org/rec/journals/corr/abs-2302-12422) | rule-assigned |
 | 2023 | Optimal Grasps and Placements for Task and Motion Planning in Clutter | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161455) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161455) | rule-assigned |
-| 2023 | Structured Motion Generation with Predictive Learning: Proposing Subgoal for Long-Horizon Manipulation | ICRA · Manipulation | [Paper](https://www.pure.ed.ac.uk/ws/files/330016610/Structured_Motion_SAITO_DOA02032023_AFV_CC_BY.pdf) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161046) | rule-assigned |
+| 2023 | Structured Motion Generation with Predictive Learning: Proposing Subgoal for Long-Horizon Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161046) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161046) | rule-assigned |
 | 2023 | Simultaneous Action and Grasp Feasibility Prediction for Task and Motion Planning Through Multi-Task Learning | IROS · Grasp | [Paper](https://laas.hal.science/hal-04016581v1/file/IROS2023sub_AGFP-NET.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341257) | rule-assigned |
 | 2023 | Spatial Reasoning via Deep Vision Models for Robotic Sequential Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2306.17053) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342010) | rule-assigned |
 | 2023 | Task and Motion Planning with Large Language Models for Object Rearrangement | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.06247) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342169) | rule-assigned |
 | 2022 | Visually Grounded Task and Motion Planning for Mobile Manipulation | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2202.10667) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812055) | rule-assigned |
 
-## Recent arXiv papers (196)
+## Recent arXiv papers (199)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-13 | RoboFQE: Rollout-Free Evaluation of Visual Robot Policies from Offline Trajectories | Yunfu Deng, Sangwoo Shin, Brahma S. Pavse, Josiah P. Hanna | [Abstract](https://arxiv.org/abs/2610.18699) · [PDF](https://arxiv.org/pdf/2610.18699) | rule-assigned |
+| 2026-10-13 | ReEnvision: Future-Guided Selective Action Repair for Long-Horizon Manipulation | Xiyin Zeng, Xuewei Huang, Yi Lu, Weihao Yuan et al. | [Abstract](https://arxiv.org/abs/2610.17977) · [PDF](https://arxiv.org/pdf/2610.17977) | rule-assigned |
+| 2026-10-13 | Model-Based Online Decision Making via Generative Trajectory Planning | Haldun Balim, Yilun Du, Na Li | [Abstract](https://arxiv.org/abs/2610.18677) · [PDF](https://arxiv.org/pdf/2610.18677) | rule-assigned |
+| 2026-10-12 | Evaluating Long-Horizon Robot Planning under Uncertainty | Harsh Muriki, Gayathri Aravindan, Yuchen Zheng, Sonia Chernova | [Abstract](https://arxiv.org/abs/2610.17326) · [PDF](https://arxiv.org/pdf/2610.17326) | rule-assigned |
+| 2026-10-11 | Exploring the Limits of Combinatorial Generalization in Embodied Manipulation | Xupeng Zhang, Yantai Yang, Chang Guo, Zhaokai Yin et al. | [Abstract](https://arxiv.org/abs/2610.15425) · [PDF](https://arxiv.org/pdf/2610.15425) | rule-assigned |
+| 2026-10-08 | SkillWeave: Weaving Heterogeneous Demonstrations into Long-Horizon Manipulation Skills | Ryosei Tamura, Xiaoxiang Dong, Uksang Yoo, Yuemin Mao et al. | [Abstract](https://arxiv.org/abs/2610.12046) · [PDF](https://arxiv.org/pdf/2610.12046) | rule-assigned |
+| 2026-10-08 | REMM: Revisable Embodied Memory for Manipulation | Revanth Krishna Senthilkumaran, Ruwan Wickramarachchi, Alessandro Oltramari, Jonathan Francis | [Abstract](https://arxiv.org/abs/2610.12710) · [PDF](https://arxiv.org/pdf/2610.12710) | rule-assigned |
+| 2026-10-08 | FAITH: Feasibility-Aware Safety-Filtered RL for High-Dimensional Systems | Songyuan Zhang, Baljeet Singh, Sarthak Ranjeet Kaingade, Chuchu Fan et al. | [Abstract](https://arxiv.org/abs/2610.12432) · [PDF](https://arxiv.org/pdf/2610.12432) | rule-assigned |
 | 2026-10-06 | PACE: Stage-Consistent Long-Horizon Robot Manipulation via Progress-Aligned Context for Execution | Yenan Chen, Junjie Shi, Lu Chen, Zhongxiang Zhou et al. | [Abstract](https://arxiv.org/abs/2610.07917) · [PDF](https://arxiv.org/pdf/2610.07917) | rule-assigned |
 | 2026-10-01 | OrbitTAMP: Grounding Language Models for Task and Motion Planning in Spacecraft Rendezvous | Yuji Takubo, Daniele Gammelli, Marco Pavone, Simone D'Amico | [Abstract](https://arxiv.org/abs/2610.01093) · [PDF](https://arxiv.org/pdf/2610.01093) | rule-assigned |
 | 2026-09-30 | DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents | Haoyuan Deng, Jiebin Liu, Tengxiao Zhang, Langning Yan et al. | [Abstract](https://arxiv.org/abs/2609.40306) · [PDF](https://arxiv.org/pdf/2609.40306) | rule-assigned |
@@ -78,7 +87,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-09-16 | From Rollout to Reset: A Graph-Based Harness for Autonomous Long-Horizon Manipulation Evaluation | Jing Jiang, Yue Yang, Xinkai Jiang, Gedas Bertasius et al. | [Abstract](https://arxiv.org/abs/2609.19413) · [PDF](https://arxiv.org/pdf/2609.19413) | rule-assigned |
 | 2026-09-16 | Asymptotically Optimal Multi-Robot Task and Motion Planning | Thi Thuy Ngan Duong, Cheuk Tung Shadow Yiu, Rahul Shome, Yoonchang Sung | [Abstract](https://arxiv.org/abs/2609.18813) · [PDF](https://arxiv.org/pdf/2609.18813) | rule-assigned |
 | 2026-09-10 | 2AM: Grounding Agent-Side Memory as Guidance for Steerable Action Models in Long-Horizon Manipulation | Yutong Hu, Fengjiao Chen, Xuezhi Cao, Renaud Detry | [Abstract](https://arxiv.org/abs/2609.11308) · [PDF](https://arxiv.org/pdf/2609.11308) | rule-assigned |
-| 2026-08-28 | Plan Along the Way: Event-Triggered Foundation-Model Planning for TAMP Execution in Partially Observable Manipulation | Puru Ojha, Narendhiran Vijayakumar, Nav Singhal, Girish Varma et al. | [Abstract](https://arxiv.org/abs/2608.28075) · [PDF](https://arxiv.org/pdf/2608.28075) | rule-assigned |
+| 2026-08-28 | Deciding If, When, and Where to Replan for Robust Manipulation | Narendhiran Vijayakumar, Puru Ojha, Nav Singhal, Girish Varma et al. | [Abstract](https://arxiv.org/abs/2608.28075) · [PDF](https://arxiv.org/pdf/2608.28075) | rule-assigned |
 | 2026-08-26 | Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization | Jiaming Zhou, Qihang Zhang, Gangwei Xu, Cunxin Fan et al. | [Abstract](https://arxiv.org/abs/2608.26103) · [PDF](https://arxiv.org/pdf/2608.26103) | rule-assigned |
 | 2026-08-25 | Trajectory-Level Continuous Action Representation for Robotic Manipulation | Tong Yang, Jingkai Jia, Yuecheng Xu, Xueyao Chen et al. | [Abstract](https://arxiv.org/abs/2608.24111) · [PDF](https://arxiv.org/pdf/2608.24111) | rule-assigned |
 | 2026-08-24 | Triplet2Track: A Hierarchical System with Object-Centric Representations for Reliable Long-Horizon Manipulation | Jianxiang Liu, Gaojing Zhang, Chuan Wen, Qipeng Liu et al. | [Abstract](https://arxiv.org/abs/2608.22800) · [PDF](https://arxiv.org/pdf/2608.22800) | rule-assigned |
@@ -251,11 +260,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-26 | Interactive Robot Learning from Verbal Correction | Huihan Liu, Alice Chen, Yuke Zhu, Adith Swaminathan et al. | [Abstract](https://arxiv.org/abs/2310.17555) · [PDF](https://arxiv.org/pdf/2310.17555) | rule-assigned |
 | 2023-10-24 | Human-in-the-Loop Task and Motion Planning for Imitation Learning | Ajay Mandlekar, Caelan Garrett, Danfei Xu, Dieter Fox | [Abstract](https://arxiv.org/abs/2310.16014) · [PDF](https://arxiv.org/pdf/2310.16014) | rule-assigned |
 | 2023-10-23 | Modular Multi-Level Replanning TAMP Framework for Dynamic Environment | Tao Lin, Chengfei Yue, Ziran Liu, Xibin Cao | [Abstract](https://arxiv.org/abs/2310.14816) · [PDF](https://arxiv.org/pdf/2310.14816) | rule-assigned |
-| 2023-10-13 | Multi-Robot Geometric Task-and-Motion Planning for Collaborative Manipulation Tasks | Hejia Zhang, Shao-Hung Chan, Jie Zhong, Jiaoyang Li et al. | [Abstract](https://arxiv.org/abs/2310.08802) · [PDF](https://arxiv.org/pdf/2310.08802) | rule-assigned |
-| 2023-10-13 | Generative Skill Chaining: Long-Horizon Skill Planning with Diffusion Models | Utkarsh A. Mishra, Shangjie Xue, Yongxin Chen, Danfei Xu | [Abstract](https://arxiv.org/abs/2401.03360) · [PDF](https://arxiv.org/pdf/2401.03360) | rule-assigned |
-| 2023-10-12 | Universal Visual Decomposer: Long-Horizon Manipulation Made Easy | Zichen Zhang, Yunshuang Li, Osbert Bastani, Abhishek Gupta et al. | [Abstract](https://arxiv.org/abs/2310.08581) · [PDF](https://arxiv.org/pdf/2310.08581) | rule-assigned |
-| 2023-10-12 | An Experience-based TAMP Framework for Foliated Manifolds | Jiaming Hu, Shrutheesh R. Iyer, Henrik I. Christensen | [Abstract](https://arxiv.org/abs/2310.08494) · [PDF](https://arxiv.org/pdf/2310.08494) | rule-assigned |
-| 2023-10-11 | CoPAL: Corrective Planning of Robot Actions with Large Language Models | Frank Joublin, Antonello Ceravola, Pavel Smirnov, Felix Ocker et al. | [Abstract](https://arxiv.org/abs/2310.07263) · [PDF](https://arxiv.org/pdf/2310.07263) | rule-assigned |
 
 ---
 

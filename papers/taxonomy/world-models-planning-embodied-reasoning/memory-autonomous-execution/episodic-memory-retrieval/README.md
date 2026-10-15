@@ -1,7 +1,7 @@
 # Episodic Memory & Retrieval · 情景记忆与经验检索
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Memory%20%26%20Autonomous%20Execution&specialty=Episodic%20Memory%20%26%20Retrieval#research-workbench)
@@ -24,7 +24,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | RAAP: Retrieval-Augmented Affordance Prediction with Cross-Image Action Alignment | ICRA · Affordance | [Paper](https://arxiv.org/abs/2603.29419) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696424) | rule-assigned |
+| 2026 | RAAP: Retrieval-Augmented Affordance Prediction with Cross-Image Action Alignment | ICRA · Affordance | [Paper](https://arxiv.org/pdf/2603.29419) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696424) | rule-assigned |
 | 2024 | Retrieval-Augmented Embodied Agents | CVPR · Embodied Agent | [Paper](https://arxiv.org/pdf/2404.11699) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01703) | rule-assigned |
 | 2024 | RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model | RSS · Large Language Model | [Paper](https://arxiv.org/abs/2402.10828) · [Index](https://dblp.org/rec/conf/rss/YuanSOZ0KG24) | rule-assigned |
 

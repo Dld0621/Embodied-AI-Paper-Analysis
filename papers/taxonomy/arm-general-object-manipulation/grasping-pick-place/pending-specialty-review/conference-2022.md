@@ -1,7 +1,7 @@
 # Pending specialty review · 待审专题 · Conference 2022
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
@@ -34,7 +34,7 @@
 | 2022 | Integrated Learning of Robot Motion and Sentences: Real-Time Prediction of Grasping Motion and Attention based on Language Instructions | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra46639.2022.9811815) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811815) | needs-review |
 | 2022 | Interactive Robotic Grasping with Attribute-Guided Disambiguation | ICRA · Grasp | [Paper](https://arxiv.org/abs/2203.08037) · [Index](https://dblp.org/rec/conf/icra/0083LC22) | needs-review |
 | 2022 | Learning 6-DoF Object Poses to Grasp Category-Level Objects by Language Instructions | ICRA · Grasp | [Paper](https://arxiv.org/abs/2205.04028) · [Index](https://dblp.org/rec/conf/icra/CheangLFX22) | needs-review |
-| 2022 | Learning Multi-step Robotic Manipulation Policies from Visual Observation of Scene and Q-value Predictions of Previous Action | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2202.11280) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812251) | needs-review |
+| 2022 | Learning Multi-step Robotic Manipulation Policies from Visual Observation of Scene and Q-value Predictions of Previous Action | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2202.11280) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812251) | needs-review |
 | 2022 | Learning Sensorimotor Primitives of Sequential Manipulation Tasks from Visual Demonstrations | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2203.03797) · [Index](https://dblp.org/rec/journals/corr/abs-2203-03797) | needs-review |
 | 2022 | Let's Collaborate: Regret-based Reactive Synthesis for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2203.06861) · [Index](https://dblp.org/rec/journals/corr/abs-2203-06861) | needs-review |
 | 2022 | Manipulation of unknown objects via contact configuration regulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2203.01203) · [Index](https://dblp.org/rec/conf/icra/DoshiT022) | needs-review |
@@ -62,7 +62,7 @@
 | 2022 | ICK-Track: A Category-Level 6-DoF Pose Tracker Using Inter-Frame Consistent Keypoints for Aerial Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982183) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982183) | needs-review |
 | 2022 | Imitation of Manipulation Skills Using Multiple Geometries | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2203.01171) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981683) | needs-review |
 | 2022 | Learning Object Manipulation Skills from Video via Approximate Differentiable Physics | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2208.01960) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982084) | needs-review |
-| 2022 | Learning physics-informed simulation models for soft robotic manipulation: A case study with dielectric elastomer actuators | IROS · Simulation | [Paper](https://biblio.ugent.be/publication/8770984/file/8770988.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981373) | needs-review |
+| 2022 | Learning physics-informed simulation models for soft robotic manipulation: A case study with dielectric elastomer actuators | IROS · Simulation | [Paper](https://arxiv.org/pdf/2202.12977) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981373) | needs-review |
 | 2022 | Learning to Grasp on the Moon from 3D Octree Observations with Deep Reinforcement Learning | IROS · Grasp | [Paper](https://vbn.aau.dk/da/publications/02da444c-b2e1-4928-8567-bf5acb6abcae) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981661) | needs-review |
 | 2022 | Leveraging Publicly Available Textual Object Descriptions for Anthropomorphic Robotic Grasp Predictions | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9981541) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981541) | needs-review |
 | 2022 | MasKGrasp: Mask-based Grasping for Scenes with Multiple General Real-world Objects | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9982130) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982130) | needs-review |
@@ -70,7 +70,7 @@
 | 2022 | Multi-Level Task Learning Based on Intention and Constraint Inference for Autonomous Robotic Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981288) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981288) | needs-review |
 | 2022 | Multi-Object Grasping - Efficient Robotic Picking and Transferring Policy for Batch Picking | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9981799) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981799) | needs-review |
 | 2022 | On a Balanced Delta Robot for Precise Aerial Manipulation: Implementation, Testing, and Lessons for Future Designs | IROS · Manipulation | [Paper](https://www.dora.lib4ri.ch/empa/dload/empa:32283/PDF2/view) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981736) | needs-review |
-| 2022 | Optimizing Demonstrated Robot Manipulation Skills for Temporal Logic Constraints | IROS · Manipulation | [Paper](https://iris.uniroma1.it/bitstream/11573/1708191/2/Dhonthi_preprint_Optimizing_2022.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981384) | needs-review |
+| 2022 | Optimizing Demonstrated Robot Manipulation Skills for Temporal Logic Constraints | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2209.03001) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981384) | needs-review |
 | 2022 | Predicting fruit-pick success using a grasp classifier trained on a physical proxy | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9981716) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981716) | needs-review |
 | 2022 | Real-time Acoustic Holography with Physics-based Deep Learning for Acoustic Robotic Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981395) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981395) | needs-review |
 | 2022 | Recognizing object surface material from impact sounds for robot manipulation | IROS · Manipulation | [Paper](https://upcommons.upc.edu/bitstream/2117/385200/1/2619-Recognizing-object-surface-material-from-impact-sounds-for-robot-manipulation.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981578) | needs-review |

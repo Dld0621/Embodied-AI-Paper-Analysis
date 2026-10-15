@@ -1,7 +1,7 @@
 # Interactive Imitation & Correction · 交互式模仿与纠错
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Imitation%20Learning&specialty=Interactive%20Imitation%20%26%20Correction#research-workbench)
@@ -24,7 +24,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2024 | Model-Based Runtime Monitoring with Interactive Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2310.17552) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611038) | rule-assigned |
+| 2024 | Model-Based Runtime Monitoring with Interactive Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2310.17552) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611038) | rule-assigned |
 | 2022 | Eliciting Compatible Demonstrations for Multi-Human Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2210.08073) · [Index](https://dblp.org/rec/journals/corr/abs-2210-08073) | rule-assigned |
 
 ## Recent arXiv papers (20)
@@ -37,7 +37,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-09-08 | DISEIL: Demonstration Distillation for Sample-Efficient Imitation Learning | Suyog Khanal, Arun Kumar A, Santu Rana | [Abstract](https://arxiv.org/abs/2609.08123) · [PDF](https://arxiv.org/pdf/2609.08123) | rule-assigned |
 | 2026-08-25 | RoG-DAgger: Rollout-Guided Post-Training for End-to-End Driving | Liangyu Zhong, Joachim Sicking, Fabian Hueger, Hanno Gottschalk | [Abstract](https://arxiv.org/abs/2608.24525) · [PDF](https://arxiv.org/pdf/2608.24525) | rule-assigned |
 | 2026-04-04 | Human-Robot Copilot for Data-Efficient Imitation Learning | Rui Yan, Zaitian Gongye, Lars Paulsen, Xuxin Cheng et al. | [Abstract](https://arxiv.org/abs/2604.03613) · [PDF](https://arxiv.org/pdf/2604.03613) | rule-assigned |
-| 2026-03-13 | Easy-IIL: Reducing Human Operational Burden in Interactive Imitation Learning via Assistant Experts | Chengjie Zhang, Chao Tang, Wenlong Dong, Dehao Huang et al. | [Abstract](https://arxiv.org/abs/2603.12769) · [PDF](https://arxiv.org/pdf/2603.12769) | rule-assigned |
+| 2026-03-13 | Easy-IIL: Reducing Human Operational Burden in Interactive Imitation Learning via an Assistant Expert | Chengjie Zhang, Chao Tang, Wenlong Dong, Dehao Huang et al. | [Abstract](https://arxiv.org/abs/2603.12769) · [PDF](https://arxiv.org/pdf/2603.12769) | rule-assigned |
 | 2025-12-19 | TakeAD: Preference-based Post-optimization for End-to-end Autonomous Driving with Expert Takeover Data | Deqing Liu, Yinfeng Gao, Deheng Qian, Qichao Zhang et al. | [Abstract](https://arxiv.org/abs/2512.17370) · [PDF](https://arxiv.org/pdf/2512.17370) | rule-assigned |
 | 2025-12-08 | An Introduction to Deep Reinforcement and Imitation Learning | Pedro Santana | [Abstract](https://arxiv.org/abs/2512.08052) · [PDF](https://arxiv.org/pdf/2512.08052) | rule-assigned |
 | 2025-11-29 | Sample-Efficient Expert Query Control in Active Imitation Learning via Conformal Prediction | Arad Firouzkouhi, Omid Mirzaeedodangeh, Lars Lindemann | [Abstract](https://arxiv.org/abs/2512.00453) · [PDF](https://arxiv.org/pdf/2512.00453) | rule-assigned |

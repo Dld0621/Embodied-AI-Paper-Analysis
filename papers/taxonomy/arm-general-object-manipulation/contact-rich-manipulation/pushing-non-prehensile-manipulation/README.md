@@ -1,12 +1,12 @@
 # Pushing & Non-prehensile Manipulation · 推滑与非抓取操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Pushing%20%26%20Non-prehensile%20Manipulation#research-workbench)
 
-> 48 conference papers · 131 recent arXiv papers
+> 49 conference papers · 137 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,21 +20,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (48)
+## Conference papers (49)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | AdaptPNP: Integrating Prehensile and Non-Prehensile Skills for Adaptive Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2511.11052) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696979) | rule-assigned |
-| 2026 | CAIMAN: Causal Action Influence Detection for Sample-Efficient Loco-Manipulation | ICRA · Loco Manipulation | [Paper](https://arxiv.org/abs/2502.00835) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695908) | rule-assigned |
+| 2026 | AdaptPNP: Integrating Prehensile and Non-Prehensile Skills for Adaptive Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2511.11052) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696979) | rule-assigned |
+| 2026 | ALOHA Lightning: Learning Fast and Precise Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696199) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696199) | rule-assigned |
+| 2026 | CAIMAN: Causal Action Influence Detection for Sample-Efficient Loco-Manipulation | ICRA · Loco Manipulation | [Paper](https://arxiv.org/pdf/2502.00835) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695908) | rule-assigned |
 | 2026 | Dynamic Scoop-and-Flick Manipulation for Rapid Non-Prehensile High-Arc Object Transfer | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695751) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695751) | rule-assigned |
-| 2026 | Phys2Real: Fusing VLM Priors with Interactive Online Adaptation for Uncertainty-Aware Sim-to-Real Manipulation | ICRA · Vlm | [Paper](https://arxiv.org/abs/2510.11689) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695746) | rule-assigned |
-| 2026 | Uncertainty-Aware Non-Prehensile Manipulation with Mobile Manipulators under Object-Induced Occlusion | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2602.01731) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696078) | rule-assigned |
+| 2026 | Phys2Real: Fusing VLM Priors with Interactive Online Adaptation for Uncertainty-Aware Sim-to-Real Manipulation | ICRA · Vlm | [Paper](https://arxiv.org/pdf/2510.11689) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695746) | rule-assigned |
+| 2026 | Uncertainty-Aware Non-Prehensile Manipulation with Mobile Manipulators under Object-Induced Occlusion | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2602.01731) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696078) | rule-assigned |
 | 2025 | DyWA: Dynamics-Adaptive World Action Model for Generalizable Non-Prehensile Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/pdf/2503.16806) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01029) | rule-assigned |
 | 2025 | SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation | ICML · Foundation Model | [Paper](https://arxiv.org/abs/2501.18564) · [Index](https://dblp.org/rec/journals/corr/abs-2501-18564) | rule-assigned |
-| 2025 | A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards | ICRA · Vlm | [Paper](https://arxiv.org/abs/2502.08643) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127585) | rule-assigned |
+| 2025 | A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards | ICRA · Vlm | [Paper](https://arxiv.org/pdf/2502.08643) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127585) | rule-assigned |
 | 2025 | FLEX: A Framework for Learning Robot-Agnostic Force-Based Skills Involving Sustained Contact Object Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2503.13418) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127866) | rule-assigned |
 | 2025 | Goal-Driven Robotic Pushing Manipulation Under Uncertain Object Properties | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127379) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127379) | rule-assigned |
-| 2025 | Learning Multi-Agent Loco-Manipulation for Long-Horizon Quadrupedal Pushing | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2411.07104) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128478) | rule-assigned |
+| 2025 | Learning Multi-Agent Loco-Manipulation for Long-Horizon Quadrupedal Pushing | ICRA · Quadruped | [Paper](https://arxiv.org/pdf/2411.07104) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128478) | rule-assigned |
 | 2025 | Non-Prehensile Shape Manipulation of Elastoplastic Objects With Reinforcement Learning | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127639) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127639) | rule-assigned |
 | 2025 | Robust Optical Transceiver Manipulation in Cluttered Cable Environments Using 3D Scene Understanding and Planning | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127450) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127450) | rule-assigned |
 | 2025 | High-dynamic Tactile Sensing for Tactile Servo Manipulation: Let Robots Swing a Hammer | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246617) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246617) | rule-assigned |
@@ -42,23 +43,23 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Robust Manipulation Primitive Learning via Domain Contraction | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2410.11600) · [Index](https://dblp.org/rec/journals/corr/abs-2410-11600) | rule-assigned |
 | 2024 | Visual Manipulation with Legs | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2410.11345) · [Index](https://dblp.org/rec/journals/corr/abs-2410-11345) | rule-assigned |
 | 2024 | CORN: Contact-based Object Representation for Nonprehensile Manipulation of General Unseen Objects | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2403.10760) · [Index](https://dblp.org/rec/conf/iclr/ChoHCK24) | rule-assigned |
-| 2024 | ArrayBot: Reinforcement Learning for Generalizable Distributed Manipulation through Touch | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2306.16857) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610350) | rule-assigned |
+| 2024 | ArrayBot: Reinforcement Learning for Generalizable Distributed Manipulation through Touch | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2306.16857) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610350) | rule-assigned |
 | 2024 | Exploring How Non-Prehensile Manipulation Expands Capability in Robots Experiencing Multi-Joint Failure | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2410.01102) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801883) | rule-assigned |
-| 2024 | How Physics and Background Attributes Impact Video Transformers in Robotic Manipulation: A Case Study on Planar Pushing | IROS · Manipulation | [Paper](https://arxiv.org/abs/2310.02044) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802583) | rule-assigned |
+| 2024 | How Physics and Background Attributes Impact Video Transformers in Robotic Manipulation: A Case Study on Planar Pushing | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2310.02044) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802583) | rule-assigned |
 | 2024 | Learned Slip-Detection-Severity Framework using Tactile Deformation Field Feedback for Robotic Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2411.07442) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802687) | rule-assigned |
-| 2024 | Learning Visual Quadrupedal Loco-Manipulation from Demonstrations | IROS · Quadruped | [Paper](https://arxiv.org/abs/2403.20328) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802742) | rule-assigned |
-| 2024 | Motion Planning for Object Manipulation by Edge-Rolling | IROS · Manipulation | [Paper](https://arxiv.org/abs/2410.09301) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802581) | rule-assigned |
+| 2024 | Learning Visual Quadrupedal Loco-Manipulation from Demonstrations | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2403.20328) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802742) | rule-assigned |
+| 2024 | Motion Planning for Object Manipulation by Edge-Rolling | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2410.09301) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802581) | rule-assigned |
 | 2024 | On performing non-prehensile rolling manipulations: Stabilizing synchronous motions of Butterfly robots⋆ | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801522) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801522) | rule-assigned |
-| 2024 | REPeat: A Real2Sim2Real Approach for Pre-acquisition of Soft Food Items in Robot-assisted Feeding | IROS · Sim2Real | [Paper](https://arxiv.org/abs/2410.10017) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801368) | rule-assigned |
+| 2024 | REPeat: A Real2Sim2Real Approach for Pre-acquisition of Soft Food Items in Robot-assisted Feeding | IROS · Sim2Real | [Paper](https://arxiv.org/pdf/2410.10017) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801368) | rule-assigned |
 | 2024 | RTTF: Rapid Tactile Transfer Framework for Contact-Rich Manipulation Tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801764) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801764) | rule-assigned |
-| 2024 | Tactile Active Inference Reinforcement Learning for Efficient Robotic Manipulation Skill Acquisition | IROS · Manipulation | [Paper](https://arxiv.org/abs/2311.11287) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802750) | rule-assigned |
+| 2024 | Tactile Active Inference Reinforcement Learning for Efficient Robotic Manipulation Skill Acquisition | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2311.11287) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802750) | rule-assigned |
 | 2024 | Tactile-Driven Non-Prehensile Object Manipulation via Extrinsic Contact Mode Control | RSS · Manipulation | [Paper](https://arxiv.org/abs/2405.18214) · [Index](https://dblp.org/rec/journals/corr/abs-2405-18214) | rule-assigned |
 | 2024 | Towards Tight Convex Relaxations for Contact-Rich Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2402.10312) · [Index](https://dblp.org/rec/conf/rss/GraesdalCMMAPT24) | rule-assigned |
 | 2023 | Learning Hybrid Actor-Critic Maps for 6D Non-Prehensile Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2305.03942) · [Index](https://dblp.org/rec/conf/corl/ZhouJYPH23) | rule-assigned |
 | 2023 | DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2207.01971) · [Index](https://dblp.org/rec/conf/iclr/0035WCZFM023) | rule-assigned |
 | 2023 | Contact Optimization for Non-Prehensile Loco-Manipulation via Hierarchical Model Predictive Control | ICRA · Loco Manipulation | [Paper](https://arxiv.org/pdf/2210.03442) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160507) | rule-assigned |
-| 2023 | Demonstration-guided Optimal Control for Long-term Non-prehensile Planar Manipulation | ICRA · Manipulation | [Paper](https://infoscience.epfl.ch/handle/20.500.14299/206267) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161496) | rule-assigned |
-| 2023 | Learning Tool Morphology for Contact-Rich Manipulation Tasks with Differentiable Simulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2211.02201) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161453) | rule-assigned |
+| 2023 | Demonstration-guided Optimal Control for Long-term Non-prehensile Planar Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2212.12814) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161496) | rule-assigned |
+| 2023 | Learning Tool Morphology for Contact-Rich Manipulation Tasks with Differentiable Simulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2211.02201) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161453) | rule-assigned |
 | 2023 | Planning for Complex Non-prehensile Manipulation Among Movable Objects by Interleaving Multi-Agent Pathfinding and Physics-Based Simulation | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2303.13352) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161006) | rule-assigned |
 | 2023 | Dynamic Finger Gaits via Pivoting and Adapting Contact Forces | IROS · Gait | [Paper](https://doi.org/10.1109/IROS55552.2023.10342156) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342156) | rule-assigned |
 | 2023 | Predicting Center of Mass by Iterative Pushing for Object Transportation and Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS55552.2023.10341534) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341534) | rule-assigned |
@@ -70,13 +71,19 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Push-to-See: Learning Non-Prehensile Manipulation to Enhance Instance Segmentation via Deep Q-Learning | ICRA · Manipulation | [Paper](https://nottingham-repository.worktribe.com/output/7534992) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811645) | rule-assigned |
 | 2022 | Tactile-Guided Dynamic Object Planar Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981270) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981270) | rule-assigned |
 | 2022 | Task-Oriented Contact Optimization for Pushing Manipulation with Mobile Robots | IROS · Mobile Robot | [Paper](https://iris.unimore.it/bitstream/11380/1295974/1/multi_robot_pushing.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982177) | rule-assigned |
-| 2022 | To ask for help or not to ask: A predictive approach to human-in-the-loop motion planning for robot manipulation tasks | IROS · Manipulation | [Paper](https://eprints.whiterose.ac.uk/189268/1/root.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981679) | rule-assigned |
+| 2022 | To ask for help or not to ask: A predictive approach to human-in-the-loop motion planning for robot manipulation tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981679) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981679) | rule-assigned |
 | 2022 | Data Augmentation for Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2205.02886) · [Index](https://dblp.org/rec/journals/corr/abs-2205-02886) | rule-assigned |
 
-## Recent arXiv papers (131)
+## Recent arXiv papers (137)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-13 | Intent-guided Adaptive Stiffening for Visuomotor Policies under Unknown Resistance | Francesco Cufino, Carmela Mariniello, Mario Selvaggio, Andreas Sochopoulos et al. | [Abstract](https://arxiv.org/abs/2610.18386) · [PDF](https://arxiv.org/pdf/2610.18386) | rule-assigned |
+| 2026-10-13 | ForceWAM: Decoupling Future and Response Learning from Demo and Play Data for Contact-Rich Manipulation | Zijun Xu, Wendi Chen, Xinkai Wang, Jiachen Zou et al. | [Abstract](https://arxiv.org/abs/2610.18852) · [PDF](https://arxiv.org/pdf/2610.18852) | rule-assigned |
+| 2026-10-13 | Beyond the End-Effector: Learning Whole-Arm Contact Manipulation from Human Demonstrations | Bo-Ruei Huang, Daniel Seita, Erdem Bıyık | [Abstract](https://arxiv.org/abs/2610.17802) · [PDF](https://arxiv.org/pdf/2610.17802) | rule-assigned |
+| 2026-10-09 | Cooperative Aerial Transportation of a Payload with a Sliding Cable Attachment | Sebastian Tilaguy Lezama, Diego S D'Antonio | [Abstract](https://arxiv.org/abs/2610.13665) · [PDF](https://arxiv.org/pdf/2610.13665) | rule-assigned |
+| 2026-10-08 | Unifying Policy Learning and State Prediction through Spatial Language Modeling | Minye Wu, Zehao Wang, Tinne Tuytelaars | [Abstract](https://arxiv.org/abs/2610.12172) · [PDF](https://arxiv.org/pdf/2610.12172) | rule-assigned |
+| 2026-10-08 | Non-Prehensile Multi-Object Placement with Mobile Robots via Diffusion-Based Trajectory Planning | Lance Pharand, Megnath Ramesh, Mark Chiu, Yash Vardhan Pant et al. | [Abstract](https://arxiv.org/abs/2610.12684) · [PDF](https://arxiv.org/pdf/2610.12684) | rule-assigned |
 | 2026-10-05 | Learning Coordinated Visuomotor Box-Pushing from Solo Demonstrations | Ryusei Matsumoto, Mei Kinjo, Yoko Sasaki, Keisuke Okumura | [Abstract](https://arxiv.org/abs/2610.05677) · [PDF](https://arxiv.org/pdf/2610.05677) | rule-assigned |
 | 2026-09-27 | Multi-Modal Non-Prehensile Estimation of Physical Parameters via Press-and-Pull Tipping | Steven M. Hyland, Jing Xiao, Cagdas D. Onal | [Abstract](https://arxiv.org/abs/2609.33138) · [PDF](https://arxiv.org/pdf/2609.33138) | rule-assigned |
 | 2026-09-23 | Contact-Implicit Stein Projected ADMM for Discovery of Diverse Contact-Rich Manipulation Strategies | Hrishikesh Sathyanarayan, Christian Hughes, Ian Abraham | [Abstract](https://arxiv.org/abs/2609.28299) · [PDF](https://arxiv.org/pdf/2609.28299) | rule-assigned |

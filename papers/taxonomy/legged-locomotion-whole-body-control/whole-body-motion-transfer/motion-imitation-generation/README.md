@@ -1,12 +1,12 @@
 # Motion Imitation & Generation · 动作模仿与生成
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Motion%20Transfer&specialty=Motion%20Imitation%20%26%20Generation#research-workbench)
 
-> 23 conference papers · 269 recent arXiv papers
+> 24 conference papers · 279 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,16 +20,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (23)
+## Conference papers (24)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2509.13534) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697242) | rule-assigned |
-| 2026 | Flip Stunts on Bicycle Robots using Iterative Motion Imitation | ICRA · Motion Imitation | [Paper](https://arxiv.org/abs/2603.27944) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697028) | rule-assigned |
-| 2026 | PMG: Parameterized Motion Generator for Human-like Locomotion Control | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2602.12656) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696988) | rule-assigned |
-| 2026 | Unveiling the Impact of Data and Model Scaling on High-Level Control for Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2511.09241) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696742) | rule-assigned |
+| 2026 | Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2509.13534) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697242) | rule-assigned |
+| 2026 | Flip Stunts on Bicycle Robots using Iterative Motion Imitation | ICRA · Motion Imitation | [Paper](https://arxiv.org/pdf/2603.27944) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697028) | rule-assigned |
+| 2026 | MAKP: Multi-mode Accurate Kicking Policy for Humanoid Robots | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697574) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697574) | rule-assigned |
+| 2026 | PMG: Parameterized Motion Generator for Human-like Locomotion Control | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2602.12656) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696988) | rule-assigned |
+| 2026 | Unveiling the Impact of Data and Model Scaling on High-Level Control for Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2511.09241) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696742) | rule-assigned |
 | 2025 | Enhancing Context-Aware Human Motion Prediction for Efficient Robot Handovers | IROS · Robot Hand | [Paper](https://hdl.handle.net/2117/459520) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246683) | rule-assigned |
-| 2025 | Natural Humanoid Robot Locomotion with Generative Motion Prior | IROS · Humanoid | [Paper](https://arxiv.org/abs/2503.09015) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247682) | rule-assigned |
+| 2025 | Natural Humanoid Robot Locomotion with Generative Motion Prior | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2503.09015) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247682) | rule-assigned |
 | 2025 | Physics-Informed Learning for Human Whole-Body Kinematics Prediction via Sparse IMUs | IROS · Whole Body | [Paper](https://arxiv.org/abs/2509.25704) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246792) | rule-assigned |
 | 2025 | Reinforcement Learning-based Optimization of Humanoid Joint Motion Control via Text-driven Human Motion Mapping | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS60139.2025.11247451) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247451) | rule-assigned |
 | 2025 | Whole-Body Impedance Control of a Humanoid Robot Based on Human-Human Demonstration for Human-Robot Collaboration | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS60139.2025.11246994) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246994) | rule-assigned |
@@ -39,19 +40,28 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions | CoRL · Humanoid | [Paper](https://arxiv.org/abs/2410.12773) · [Index](https://dblp.org/rec/journals/corr/abs-2410-12773) | rule-assigned |
 | 2024 | MOSAIC: Modular Foundation Models for Assistive and Interactive Cooking | CoRL · Foundation Model | [Paper](https://arxiv.org/abs/2402.18796) · [Index](https://dblp.org/rec/conf/corl/WangKRABCCCDFGK24) | rule-assigned |
 | 2024 | CrossLoco: Human Motion Driven Control of Legged Robots via Guided Unsupervised Reinforcement Learning | ICLR · Legged | [Paper](https://www.semanticscholar.org/paper/a5df1a3d7d389d9a3d94e835b281664f90eb9e4e) · [Index](https://dblp.org/rec/conf/iclr/Li0GCH24) | rule-assigned |
-| 2024 | Self Model for Embodied Intelligence: Modeling Full-Body Human Musculoskeletal System and Locomotion Control with Hierarchical Low-Dimensional Representation | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2312.05473) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610081) | rule-assigned |
+| 2024 | Self Model for Embodied Intelligence: Modeling Full-Body Human Musculoskeletal System and Locomotion Control with Hierarchical Low-Dimensional Representation | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2312.05473) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610081) | rule-assigned |
 | 2024 | Real-time Coordinated Motion Generation: A Hierarchical Deep Predictive Learning Model for Bimanual Tasks | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS58592.2024.10801317) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801317) | rule-assigned |
 | 2024 | Sensorimotor Attention and Language-based Regressions in Shared Latent Variables for Integrating Robot Motion Learning and LLM | IROS · Llm | [Paper](https://arxiv.org/pdf/2407.09044) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802349) | rule-assigned |
-| 2024 | Whole-body Humanoid Robot Locomotion with Human Reference | IROS · Humanoid | [Paper](https://arxiv.org/abs/2402.18294) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801451) | rule-assigned |
+| 2024 | Whole-body Humanoid Robot Locomotion with Human Reference | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2402.18294) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801451) | rule-assigned |
 | 2023 | Getting Air: Modelling and Control of a Hybrid Pneumatic-Electric Legged Robot | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160737) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160737) | rule-assigned |
 | 2023 | Event Camera-Based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface | IROS · Legged | [Paper](https://arxiv.org/pdf/2305.08962) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342048) | rule-assigned |
 | 2023 | Learning a Single Policy for Diverse Behaviors on a Quadrupedal Robot Using Scalable Motion Imitation | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2303.15331) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341709) | rule-assigned |
 | 2022 | A Riemannian Take on Human Motion Analysis and Retargeting | IROS · Retargeting | [Paper](https://arxiv.org/pdf/2208.01372) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982127) | rule-assigned |
 
-## Recent arXiv papers (269)
+## Recent arXiv papers (279)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-14 | PingpongDuo: Agile Humanoid Table Tennis Doubles with Safe Team Coordination | Haoran Jiang, Yichao Zhong, Kai Zhang, Cheng Liu et al. | [Abstract](https://arxiv.org/abs/2610.20579) · [PDF](https://arxiv.org/pdf/2610.20579) | rule-assigned |
+| 2026-10-13 | Learning Robot Policies for Whole-Body Mobility Assistance via Dynamic Human Motion Generation | Shikun Ban, Shohei Nagai, Qingyang Song, Hanxi Wan et al. | [Abstract](https://arxiv.org/abs/2610.17750) · [PDF](https://arxiv.org/pdf/2610.17750) | rule-assigned |
+| 2026-10-13 | Contact Trajectory Prompting: In-Context Transfer of Contact-Rich Behaviors from a Single Demonstration | Xian Nie, Yujie Zang, Yuhang Zheng, Yupeng Zheng et al. | [Abstract](https://arxiv.org/abs/2610.18848) · [PDF](https://arxiv.org/pdf/2610.18848) | rule-assigned |
+| 2026-10-10 | Push the Limit: Learning High-Speed Sprinting and Aggressive Cornering on a Full-Scale Humanoid | Huaxing Huang, Ruidong Li, Jinchao Han, Ziyang Dong et al. | [Abstract](https://arxiv.org/abs/2610.14840) · [PDF](https://arxiv.org/pdf/2610.14840) | rule-assigned |
+| 2026-10-10 | From Video to Vision: Learning Generalizable Humanoid Carrying from Human Motion | Ziluo Ding | [Abstract](https://arxiv.org/abs/2610.14561) · [PDF](https://arxiv.org/pdf/2610.14561) | rule-assigned |
+| 2026-10-09 | Sonic-AMG: Streaming Human Motion Generation from Spatial Audio | Jingcheng Ni, Zekun Li, Zhiyang Dou, Xiaoyan Cong et al. | [Abstract](https://arxiv.org/abs/2610.13300) · [PDF](https://arxiv.org/pdf/2610.13300) | rule-assigned |
+| 2026-10-09 | PartiGen: Part-Aware Representations for Language-Conditioned Humanoid Motion Generation | Chuxuan Huang, Zhanxiang Cao, Tianyue Zhan, Haoyang Li et al. | [Abstract](https://arxiv.org/abs/2610.13373) · [PDF](https://arxiv.org/pdf/2610.13373) | rule-assigned |
+| 2026-10-09 | ATHLETE: Learning Reactive Humanoid Tennis via Trajectory-Guided Motion Matching | Zhihao Tian, Zifan Wang, Enzheng Zhu, Xun Yang et al. | [Abstract](https://arxiv.org/abs/2610.13572) · [PDF](https://arxiv.org/pdf/2610.13572) | rule-assigned |
+| 2026-10-08 | A Physics-Informed Collision Learning Framework for Collaborative Robot Motion Generation | Chen Cai, Steven Liu | [Abstract](https://arxiv.org/abs/2610.12404) · [PDF](https://arxiv.org/pdf/2610.12404) | rule-assigned |
 | 2026-10-07 | HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion | Mike Zhang, Dongho Kang, Kevin Bergamin, Nicola Burger et al. | [Abstract](https://arxiv.org/abs/2610.10489) · [PDF](https://arxiv.org/pdf/2610.10489) | rule-assigned |
 | 2026-10-06 | One for All, All for One: Coordinated Multi-Agent Diffusion Steering via Stochastic Optimal Control | Riccardo Barbano, Vincent Pauline, Runchang Li, George Webber et al. | [Abstract](https://arxiv.org/abs/2610.08595) · [PDF](https://arxiv.org/pdf/2610.08595) | rule-assigned |
 | 2026-10-06 | MimicX: Policy-in-the-Loop Supervision Refinement for Video-Driven Humanoid Motion Tracking | Shuaijun Liu, Chenglong Zhang, Xuhao Liu, Feiyang You et al. | [Abstract](https://arxiv.org/abs/2610.09055) · [PDF](https://arxiv.org/pdf/2610.09055) | rule-assigned |
@@ -175,6 +185,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-02-03 | Hierarchical Proportion Models for Motion Generation via Integration of Motion Primitives | Yu-Han Shu, Toshiaki Tsuji, Sho Sakaino | [Abstract](https://arxiv.org/abs/2602.03188) · [PDF](https://arxiv.org/pdf/2602.03188) | rule-assigned |
 | 2026-01-30 | Robust and Generalized Humanoid Motion Tracking | Yubiao Ma, Han Yu, Jiayin Xie, Changtai Lv et al. | [Abstract](https://arxiv.org/abs/2601.23080) · [PDF](https://arxiv.org/pdf/2601.23080) | rule-assigned |
 | 2026-01-20 | Sample Efficient Learning of Body-Environment Interaction of an Under-Actuated System | Zvi Chapnik, Yizhar Or, Shai Revzen | [Abstract](https://arxiv.org/abs/2601.13777) · [PDF](https://arxiv.org/pdf/2601.13777) | rule-assigned |
+| 2026-01-12 | SHARE: Sharing Human Actions across Robot Embodiments through Unified Retargeting and Tracking | Junzhe Xu, Haoyu Zhang, Yunheng Wang, Taowen Wang et al. | [Abstract](https://arxiv.org/abs/2601.07284) · [PDF](https://arxiv.org/pdf/2601.07284) | reviewed |
 | 2026-01-10 | Precision Meets Art: Autonomous Multi-UAV System for Large Scale Mural Drawing | Andrei A. Korigodskii, Artem E. Vasiunik, Georgii A. Varin, Adilia M. Zukhurova et al. | [Abstract](https://arxiv.org/abs/2601.06508) · [PDF](https://arxiv.org/pdf/2601.06508) | rule-assigned |
 | 2026-01-07 | Locomotion Beyond Feet | Tae Hoon Yang, Haochen Shi, Jiacheng Hu, Zhicong Zhang et al. | [Abstract](https://arxiv.org/abs/2601.03607) · [PDF](https://arxiv.org/pdf/2601.03607) | rule-assigned |
 | 2025-12-30 | UniAct: Unified Motion Generation and Action Streaming for Humanoid Robots | Nan Jiang, Zimo He, Wanhe Yu, Lexi Pang et al. | [Abstract](https://arxiv.org/abs/2512.24321) · [PDF](https://arxiv.org/pdf/2512.24321) | rule-assigned |

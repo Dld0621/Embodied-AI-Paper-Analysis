@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Pending%20specialty%20review#research-workbench)
 
-> 26 conference papers · 135 recent arXiv papers
+> 25 conference papers · 136 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,27 +20,26 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (26)
+## Conference papers (25)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | ETac: A Lightweight and Efficient Tactile Simulation Framework for Learning Dexterous Manipulation | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2604.20295) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696765) | needs-review |
-| 2026 | GRACE: A Unified 2D Multi-Robot Path Planning Simulator & Benchmark for Grid, Roadmap, And Continuous Environments | ICRA · Simulator | [Paper](https://arxiv.org/abs/2603.10858) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695963) | needs-review |
-| 2026 | NavGSim: High-Fidelity Gaussian Splatting Simulator for Large-Scale Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2603.15186) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697434) | needs-review |
-| 2026 | Reliable and Scalable Robot Policy Evaluation with Imperfect Simulators | ICRA · Simulator | [Paper](https://arxiv.org/abs/2510.04354) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697329) | needs-review |
-| 2026 | The iMETRO Dynamic Simulation: An Open-Source Simulator for Intravehicular Space Robotics Research | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696400) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696400) | needs-review |
+| 2026 | ETac: A Lightweight and Efficient Tactile Simulation Framework for Learning Dexterous Manipulation | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2604.20295) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696765) | needs-review |
+| 2026 | GRACE: A Unified 2D Multi-Robot Path Planning Simulator & Benchmark for Grid, Roadmap, And Continuous Environments | ICRA · Simulator | [Paper](https://arxiv.org/pdf/2603.10858) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695963) | needs-review |
+| 2026 | NavGSim: High-Fidelity Gaussian Splatting Simulator for Large-Scale Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2603.15186) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697434) | needs-review |
+| 2026 | Reliable and Scalable Robot Policy Evaluation with Imperfect Simulators | ICRA · Simulator | [Paper](https://arxiv.org/pdf/2510.04354) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697329) | needs-review |
 | 2025 | Reinforcement Learning Control of a Physical Robot Device for Assisted Human Walking without a Simulator | ICML · Simulator | [Paper](https://www.semanticscholar.org/paper/209d0357403302fcf74e926a278c5cbb219d38f2) · [Index](https://dblp.org/rec/conf/icml/ZhongYSWZS25) | needs-review |
-| 2025 | Incremental Few-Shot Adaptation for Non-Prehensile Object Manipulation Using Parallelizable Physics Simulators | ICRA · Simulator | [Paper](https://arxiv.org/abs/2409.13228) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128222) | needs-review |
+| 2025 | Incremental Few-Shot Adaptation for Non-Prehensile Object Manipulation Using Parallelizable Physics Simulators | ICRA · Simulator | [Paper](https://arxiv.org/pdf/2409.13228) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128222) | needs-review |
 | 2025 | Optimizing Complex Control Systems with Differentiable Simulators: A Hybrid Approach to Reinforcement Learning and Trajectory Planning | ICRA · Simulator | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127746) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127746) | needs-review |
 | 2025 | Robotic Space Simulator: Controls Implementation for Auxiliary Axes and Zero-G Dynamics | ICRA · Simulator | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128455) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128455) | needs-review |
 | 2025 | OceanSim: A GPU-Accelerated Underwater Robot Perception Simulation Framework | IROS · Simulation | [Paper](https://arxiv.org/abs/2503.01074) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246878) | needs-review |
 | 2024 | Learning Robotic Locomotion Affordances and Photorealistic Simulators from Human-Captured Data | CoRL · Locomotion | [Paper](https://www.semanticscholar.org/paper/c54b83c72057fc59dc86edafaceb9a315622f5f1) · [Index](https://dblp.org/rec/conf/corl/EscontrelaKSA24) | needs-review |
 | 2024 | SoftManiSim: A Fast Simulation Framework for Multi-Segment Continuum Manipulators Tailored for Robot Learning | CoRL · Simulation | [Paper](https://www.semanticscholar.org/paper/3f67bc1b1479b983fd0a4e9588276331a90fd3de) · [Index](https://dblp.org/rec/conf/corl/Kasaei0K24) | needs-review |
 | 2024 | QuasiSim: Parameterized Quasi-Physical Simulators for Dexterous Manipulations Transfer | ECCV · Dexterous | [Paper](https://arxiv.org/abs/2404.07988) · [Index](https://dblp.org/rec/journals/corr/abs-2404-07988) | needs-review |
-| 2024 | Improving Offline Reinforcement Learning with Inaccurate Simulators | ICRA · Simulator | [Paper](https://arxiv.org/abs/2405.04307) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610833) | needs-review |
+| 2024 | Improving Offline Reinforcement Learning with Inaccurate Simulators | ICRA · Simulator | [Paper](https://arxiv.org/pdf/2405.04307) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610833) | needs-review |
 | 2024 | OmniLRS: A Photorealistic Simulator for Lunar Robotics | ICRA · Simulator | [Paper](https://arxiv.org/pdf/2309.08997) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610026) | needs-review |
-| 2024 | SliceIt! - A Dual Simulator Framework for Learning Robot Food Slicing | ICRA · Simulator | [Paper](https://arxiv.org/abs/2404.02569) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611596) | needs-review |
-| 2024 | HabiCrowd: A High Performance Simulator for Crowd-Aware Visual Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2306.11377) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801823) | needs-review |
+| 2024 | SliceIt! - A Dual Simulator Framework for Learning Robot Food Slicing | ICRA · Simulator | [Paper](https://arxiv.org/pdf/2404.02569) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611596) | needs-review |
+| 2024 | HabiCrowd: A High Performance Simulator for Crowd-Aware Visual Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2306.11377) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801823) | needs-review |
 | 2023 | From Concept to Field Tests: Accelerated Development of Multi-AUV Missions Using a High-Fidelity Faster-than-Real-Time Simulator | ICRA · Simulator | [Paper](https://arxiv.org/pdf/2311.10377) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160447) | needs-review |
 | 2023 | Hardware-in-the-Loop Simulator with Low-Thrust Actuator for Free-Flying Robot's Omni-Directional Control | ICRA · Simulator | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161499) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161499) | needs-review |
 | 2023 | Multimodal Time Series Learning of Robots Based on Distributed and Integrated Modalities: Verification with a Simulator and Actual Robots | ICRA · Simulator | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161223) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161223) | needs-review |
@@ -51,10 +50,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | HandoverSim: A Simulation Framework and Benchmark for Human-to-Robot Object Handovers | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2205.09747) · [Index](https://dblp.org/rec/journals/corr/abs-2205-09747) | needs-review |
 | 2022 | HoloOcean: An Underwater Robotics Simulator | ICRA · Simulator | [Paper](https://doi.org/10.1109/icra46639.2022.9812353) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812353) | needs-review |
 
-## Recent arXiv papers (135)
+## Recent arXiv papers (136)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-13 | WoVR+: World Model as Reliable Simulator for Versatile VLA Policy Optimization with RL | Shangqing Zhou, Zhennan Jiang, Ning Ma, Xin Fu et al. | [Abstract](https://arxiv.org/abs/2610.17922) · [PDF](https://arxiv.org/pdf/2610.17922) | needs-review |
+| 2026-10-10 | C2Flight: A Closed-Loop Co-Simulation Framework for Early-Stage Evaluation of Heterogeneous UAV Computing Systems | Xizhu Chen, Shuyuan Zhang, Yixuan Li, Huazhong Yang et al. | [Abstract](https://arxiv.org/abs/2610.14715) · [PDF](https://arxiv.org/pdf/2610.14715) | needs-review |
 | 2026-10-02 | RoboChemGym: A Protocol-Driven Generative Simulation Framework for Long-Horizon Chemical Manipulation | Chenxi Li, Haiyuan Wan, Rui Li, Jingyuan Li et al. | [Abstract](https://arxiv.org/abs/2610.02708) · [PDF](https://arxiv.org/pdf/2610.02708) | needs-review |
 | 2026-10-02 | DeltaWorld: Physically Consistent Interactive World Simulators via Action-Conditioned Latent Increment Learning | Boyuan Hou, Xiaoge Cao, Chaofan Zhang, Shuo Wang et al. | [Abstract](https://arxiv.org/abs/2610.02691) · [PDF](https://arxiv.org/pdf/2610.02691) | needs-review |
 | 2026-09-25 | HapticWorld: an Interactive World Simulator with Real-time Torque Feedback | Shaoting Peng, Litian Liang, Yixuan Wang, Ming Yang et al. | [Abstract](https://arxiv.org/abs/2609.31924) · [PDF](https://arxiv.org/pdf/2609.31924) | needs-review |
@@ -189,7 +190,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-04 | Survey of Simulators for Aerial Robots: An Overview and In-Depth Systematic Comparisons | Cora A. Dimmig, Giuseppe Silano, Kimberly McGuire, Chiara Gabellieri et al. | [Abstract](https://arxiv.org/abs/2311.02296) · [PDF](https://arxiv.org/pdf/2311.02296) | needs-review |
 | 2023-11-04 | A Comprehensive Dynamic Simulation Framework for Coupled Neuromusculoskeletal-Exoskeletal Systems | Wei Jin, Jiaqi Liu, Qiwei Zhang, Xiaoxu Zhang et al. | [Abstract](https://arxiv.org/abs/2311.02346) · [PDF](https://arxiv.org/pdf/2311.02346) | needs-review |
 | 2023-10-29 | Immersive 3D Simulator for Drone-as-a-Service | Jiamin Lin, Balsam Alkouz, Athman Bouguettaya, Amani Abusafia | [Abstract](https://arxiv.org/abs/2310.19199) · [PDF](https://arxiv.org/pdf/2310.19199) | needs-review |
-| 2023-10-12 | Waymax: An Accelerated, Data-Driven Simulator for Large-Scale Autonomous Driving Research | Cole Gulino, Justin Fu, Wenjie Luo, George Tucker et al. | [Abstract](https://arxiv.org/abs/2310.08710) · [PDF](https://arxiv.org/pdf/2310.08710) | needs-review |
 
 ---
 

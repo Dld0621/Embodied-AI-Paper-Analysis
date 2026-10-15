@@ -1,12 +1,12 @@
 # Data Curation & Quality · 数据清洗、标注与质量评估
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engineering&specialty=Data%20Curation%20%26%20Quality#research-workbench)
 
-> 11 conference papers · 91 recent arXiv papers
+> 11 conference papers · 93 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,22 +24,24 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Gold Points Sniper: Self-guided Visual Reasoning in VLM for Fine-grained Action Understanding | ICRA · Vlm | [Paper](https://arxiv.org/abs/2606.22409) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696167) | rule-assigned |
-| 2026 | Scizor: A Self-Supervised Approach to Data Curation for Large-Scale Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2505.22626) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697414) | rule-assigned |
-| 2026 | STONE Dataset: A Scalable Multi-Modal Surround-View 3D Traversability Dataset for Off-Road Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2603.09175) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695784) | rule-assigned |
-| 2024 | Jacquard V2: Refining Datasets using the Human In the Loop Data Correction Method | ICRA · Dataset | [Paper](https://arxiv.org/abs/2402.05747) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611652) | rule-assigned |
-| 2024 | Mobile Robot Oriented Large-Scale Indoor Dataset for Dynamic Scene Understanding | ICRA · Mobile Robot | [Paper](https://arxiv.org/abs/2406.19791) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611489) | rule-assigned |
-| 2024 | NYC-Indoor-VPR: A Long-Term Indoor Visual Place Recognition Dataset with Semi-Automatic Annotation | ICRA · Dataset | [Paper](https://arxiv.org/abs/2404.00504) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610564) | rule-assigned |
+| 2026 | Gold Points Sniper: Self-guided Visual Reasoning in VLM for Fine-grained Action Understanding | ICRA · Vlm | [Paper](https://arxiv.org/pdf/2606.22409) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696167) | rule-assigned |
+| 2026 | Scizor: A Self-Supervised Approach to Data Curation for Large-Scale Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2505.22626) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697414) | rule-assigned |
+| 2026 | STONE Dataset: A Scalable Multi-Modal Surround-View 3D Traversability Dataset for Off-Road Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2603.09175) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695784) | rule-assigned |
+| 2024 | Jacquard V2: Refining Datasets using the Human In the Loop Data Correction Method | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2402.05747) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611652) | rule-assigned |
+| 2024 | Mobile Robot Oriented Large-Scale Indoor Dataset for Dynamic Scene Understanding | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2406.19791) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611489) | rule-assigned |
+| 2024 | NYC-Indoor-VPR: A Long-Term Indoor Visual Place Recognition Dataset with Semi-Automatic Annotation | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2404.00504) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610564) | rule-assigned |
 | 2024 | Diff-Control: A Stateful Diffusion-based Policy for Imitation Learning | IROS · Imitation Learning | [Paper](https://kyutech.repo.nii.ac.jp/record/2001257/files/10445310.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801557) | rule-assigned |
 | 2024 | HO-Cap: A Capture System and Dataset for 3D Reconstruction and Pose Tracking of Hand-Object Interaction | NeurIPS · Hand Object | [Paper](https://arxiv.org/abs/2406.06843) · [Index](https://dblp.org/rec/journals/corr/abs-2406-06843) | rule-assigned |
 | 2023 | 3D-DAT: 3D-Dataset Annotation Toolkit for Robotic Vision | ICRA · Dataset | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160669) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160669) | rule-assigned |
 | 2023 | On Human Grasping and Manipulation in Kitchens: Automated Annotation, Insights, and Metrics for Effective Data Collection | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161171) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161171) | rule-assigned |
 | 2023 | HANDAL: A Dataset of Real-World Manipulable Object Categories with Pose Annotations, Affordances, and Reconstructions | IROS · Dataset | [Paper](https://arxiv.org/pdf/2308.01477) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341672) | rule-assigned |
 
-## Recent arXiv papers (91)
+## Recent arXiv papers (93)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-14 | TacClaw-Infinity: A Large-Scale Vision-Tactile-Language-Action Dataset for Dexterous Manipulation | Fucai Zhu, Xidong Zhang, Yichi Zhang, Yipan Wang et al. | [Abstract](https://arxiv.org/abs/2610.20320) · [PDF](https://arxiv.org/pdf/2610.20320) | rule-assigned |
+| 2026-10-13 | Where Small Mistakes Matter: Quantifying State Criticality for Imitation Learning | Yusuf Umut Ciftci, Joonwon Kang, Ajay Suresha Sathya, Somil Bansal | [Abstract](https://arxiv.org/abs/2610.17709) · [PDF](https://arxiv.org/pdf/2610.17709) | rule-assigned |
 | 2026-10-07 | MultiFly: A Real-World Multimodal Aerial Dataset with Annotation-Efficient Label Transfer and Cross-Modal Semantic Consistency | Markus Gross, Andreas Greiner, Taehyoung Kim, Sivasubiramaniam Subbiah et al. | [Abstract](https://arxiv.org/abs/2610.10359) · [PDF](https://arxiv.org/pdf/2610.10359) | rule-assigned |
 | 2026-10-07 | Kuration SDK: Addressing the Virtual2Real Gap via Data Curation | Nirmit Desai, Eric Song, Mayank Sengupta, Tejal Bedmutha et al. | [Abstract](https://arxiv.org/abs/2610.09305) · [PDF](https://arxiv.org/pdf/2610.09305) | rule-assigned |
 | 2026-09-29 | doPlan: A Variable-Horizon Dataset for Multi-Stage Language-Conditioned Planning in Autonomous Driving | Parthib Roy, Yash Tandon, Marcus Blennemann, Giovanni Tapia Lopez et al. | [Abstract](https://arxiv.org/abs/2609.38028) · [PDF](https://arxiv.org/pdf/2609.38028) | rule-assigned |

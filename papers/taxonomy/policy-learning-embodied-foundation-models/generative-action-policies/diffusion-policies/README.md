@@ -1,12 +1,12 @@
 # Diffusion Policies · 扩散策略
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generative%20Action%20Policies&specialty=Diffusion%20Policies#research-workbench)
 
-> 24 conference papers · 227 recent arXiv papers
+> 24 conference papers · 231 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,22 +24,22 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | ADM-DP: Adaptive Dynamic Modality Diffusion Policy through Vision-Tactile-Graph Fusion for Multi-Agent Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2602.21622) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696800) | rule-assigned |
+| 2026 | ADM-DP: Adaptive Dynamic Modality Diffusion Policy through Vision-Tactile-Graph Fusion for Multi-Agent Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2602.21622) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696800) | rule-assigned |
 | 2026 | M4Diffuser: Multi-View Diffusion Policy with Manipulability-Aware Control for Robust Mobile Manipulation | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/abs/2509.14980) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696010) | rule-assigned |
 | 2026 | MetaDP: Meta-manipulation Diffusion Policy for Robotic Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695724) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695724) | rule-assigned |
-| 2026 | MoE-DP: An MoE-Enhanced Diffusion Policy for Robust Long-Horizon Robotic Manipulation with Skill Decomposition and Failure Recovery | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2511.05007) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696770) | rule-assigned |
+| 2026 | MoE-DP: An MoE-Enhanced Diffusion Policy for Robust Long-Horizon Robotic Manipulation with Skill Decomposition and Failure Recovery | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2511.05007) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696770) | rule-assigned |
 | 2026 | Planning-Guided Diffusion Policy Learning for Contact-Rich Bimanual Object Reorientation | ICRA · Bimanual | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697318) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697318) | rule-assigned |
-| 2026 | Tactile-Conditioned Diffusion Policy for Force-Aware Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2510.13324) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695850) | rule-assigned |
-| 2026 | VO-DP: Semantic-Geometric Adaptive Diffusion Policy for Vision-Only Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2510.15530) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696763) | rule-assigned |
-| 2025 | AffordDP: Generalizable Diffusion Policy with Transferable Affordance | CVPR · Affordance | [Paper](https://arxiv.org/abs/2412.03142) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.00654) | rule-assigned |
-| 2025 | Spatial-Temporal Graph Diffusion Policy with Kinematic Modeling for Bimanual Robotic Manipulation | CVPR · Bimanual | [Paper](https://arxiv.org/abs/2503.10743) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01621) | rule-assigned |
+| 2026 | Tactile-Conditioned Diffusion Policy for Force-Aware Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2510.13324) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695850) | rule-assigned |
+| 2026 | VO-DP: Semantic-Geometric Adaptive Diffusion Policy for Vision-Only Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2510.15530) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696763) | rule-assigned |
+| 2025 | AffordDP: Generalizable Diffusion Policy with Transferable Affordance | CVPR · Affordance | [Paper](https://arxiv.org/pdf/2412.03142) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.00654) | rule-assigned |
+| 2025 | Spatial-Temporal Graph Diffusion Policy with Kinematic Modeling for Bimanual Robotic Manipulation | CVPR · Bimanual | [Paper](https://arxiv.org/pdf/2503.10743) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01621) | rule-assigned |
 | 2025 | Spatial-Temporal Aware Visuomotor Diffusion Policy Learning | ICCV · Visuomotor | [Paper](https://arxiv.org/pdf/2507.06710) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00669) | rule-assigned |
 | 2025 | One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation | ICML · Visuomotor | [Paper](https://arxiv.org/abs/2410.21257) · [Index](https://dblp.org/rec/conf/icml/WangLMXFNFZBZ0025) | rule-assigned |
-| 2025 | Diff-Dagger: Uncertainty Estimation With Diffusion Policy for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2410.14868) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127730) | rule-assigned |
+| 2025 | Diff-Dagger: Uncertainty Estimation With Diffusion Policy for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2410.14868) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127730) | rule-assigned |
 | 2025 | Force-Conditioned Diffusion Policies for Compliant Sheet Separation Tasks in Bimanual Robotic Cells | ICRA · Bimanual | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127816) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127816) | rule-assigned |
 | 2025 | Language-Guided Object-Centric Diffusion Policy for Generalizable and Collision-Aware Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2407.00451) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127231) | rule-assigned |
-| 2025 | Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2409.14411) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128074) | rule-assigned |
-| 2025 | TacDiffusion: Force-Domain Diffusion Policy for Precise Tactile Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2409.11047) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127334) | rule-assigned |
+| 2025 | Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2409.14411) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128074) | rule-assigned |
+| 2025 | TacDiffusion: Force-Domain Diffusion Policy for Precise Tactile Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2409.11047) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127334) | rule-assigned |
 | 2025 | ManiDP: Manipulability-Aware Diffusion Policy for Posture-Dependent Bimanual Manipulation | IROS · Bimanual | [Paper](https://arxiv.org/abs/2510.23016) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246034) | rule-assigned |
 | 2025 | 3D Equivariant Visuomotor Policy Learning via Spherical Projection | NeurIPS · Visuomotor | [Paper](https://arxiv.org/abs/2505.16969) · [Index](https://dblp.org/rec/journals/corr/abs-2505-16969) | rule-assigned |
 | 2025 | Two-Steps Diffusion Policy for Robotic Manipulation via Genetic Denoising | NeurIPS · Manipulation | [Paper](https://arxiv.org/abs/2510.21991) · [Index](https://dblp.org/rec/journals/corr/abs-2510-21991) | rule-assigned |
@@ -49,12 +49,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation | RSS · Visuomotor | [Paper](https://arxiv.org/abs/2405.07503) · [Index](https://dblp.org/rec/conf/rss/PrasadLWZB24) | rule-assigned |
 | 2023 | Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | RSS · Diffusion policy | [Paper](https://arxiv.org/abs/2303.04137) · [Official](https://roboticsproceedings.org/rss19/p026.html) · [Code](https://github.com/real-stanford/diffusion_policy) | rule-assigned |
 
-## Recent arXiv papers (227)
+## Recent arXiv papers (231)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-13 | Steertuning Policies from a Few Human Videos | Billy Yan, Isaac Tu, Kelly Lee, Blake Chang et al. | [Abstract](https://arxiv.org/abs/2610.18711) · [PDF](https://arxiv.org/pdf/2610.18711) | rule-assigned |
+| 2026-10-13 | ForeTac: Predictive Contact Guidance for Generative Robot Policies | Zhiyuan Chen, Shuai Chen, Haoran Zhou, Yizhe Zhao et al. | [Abstract](https://arxiv.org/abs/2610.18118) · [PDF](https://arxiv.org/pdf/2610.18118) | rule-assigned |
+| 2026-10-10 | CFG-Policy: Unified Diffusion Policy Learning Framework via Classifier-free Guidance | Shutong Ding, Zhaoyang Liu, Yimiao Zhou, Jingya Wang et al. | [Abstract](https://arxiv.org/abs/2610.14936) · [PDF](https://arxiv.org/pdf/2610.14936) | rule-assigned |
 | 2026-10-07 | RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input | Yanwen Zou, Chenyang Shi, Guoxuan Xu, Wenye Yu et al. | [Abstract](https://arxiv.org/abs/2610.10534) · [PDF](https://arxiv.org/pdf/2610.10534) | rule-assigned |
 | 2026-10-07 | Immiscible Diffusion Policy: Preserving Multimodal Robot Actions through Label-Free Noise Assignment | Xiao Zhang, Yuxin Chen, Zhixuan Liang, Guojian Zhan et al. | [Abstract](https://arxiv.org/abs/2610.09369) · [PDF](https://arxiv.org/pdf/2610.09369) | rule-assigned |
+| 2026-10-07 | Diagnosing and Recovering from Observation-Space Shift at Long-Horizon Skill Seams | Pranav Wagh, Yu Fang, Yue Yang, Mingyu Ding | [Abstract](https://arxiv.org/abs/2610.10810) · [PDF](https://arxiv.org/pdf/2610.10810) | rule-assigned |
 | 2026-10-05 | The Unexpired Plan: A Free Monitor for Accelerated Diffusion Policies | Yi Zhao, Sebastian Scherer | [Abstract](https://arxiv.org/abs/2610.05747) · [PDF](https://arxiv.org/pdf/2610.05747) | rule-assigned |
 | 2026-10-05 | Reachability-Aware Diffusion Policy Optimization | Hikmet Simsir, Kutay Demiray, Ozgur S. Oguz | [Abstract](https://arxiv.org/abs/2610.05969) · [PDF](https://arxiv.org/pdf/2610.05969) | rule-assigned |
 | 2026-10-04 | LEAP: Making Privileged Geometry Supervision Effective for Visuomotor Learning | Han Fang, Yunpeng Jiang, Jianshu Hu, Zhiyuan Guan et al. | [Abstract](https://arxiv.org/abs/2610.07015) · [PDF](https://arxiv.org/pdf/2610.07015) | rule-assigned |

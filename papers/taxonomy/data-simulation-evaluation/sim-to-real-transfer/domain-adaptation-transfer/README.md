@@ -1,12 +1,12 @@
 # Domain Adaptation & Transfer · 域适配与迁移
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Sim-to-real%20Transfer&specialty=Domain%20Adaptation%20%26%20Transfer#research-workbench)
 
-> 42 conference papers · 254 recent arXiv papers
+> 42 conference papers · 257 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,22 +24,22 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | A Multi-Layer Sim-to-Real Framework for Gaze-Driven Assistive Neck Exoskeletons | ICRA · Sim To Real | [Paper](https://arxiv.org/abs/2603.06779) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697228) | rule-assigned |
-| 2026 | Bridging the Sim-to-Real Gap with multipanda_ros2: A Real-Time ROS 2 Framework for Multimanual Systems | ICRA · Sim To Real | [Paper](https://arxiv.org/abs/2602.02269) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696149) | rule-assigned |
-| 2026 | Real-is-Sim: Bridging the Sim-to-Real Gap with a Dynamic Digital Twin | ICRA · Sim To Real | [Paper](https://arxiv.org/abs/2504.03597) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697400) | rule-assigned |
-| 2026 | SCOOP’D: Learning Mixed-Liquid-Solid Scooping via Sim2Real Generative Policy | ICRA · Sim2Real | [Paper](https://arxiv.org/abs/2510.11566) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697332) | rule-assigned |
+| 2026 | A Multi-Layer Sim-to-Real Framework for Gaze-Driven Assistive Neck Exoskeletons | ICRA · Sim To Real | [Paper](https://arxiv.org/pdf/2603.06779) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697228) | rule-assigned |
+| 2026 | Bridging the Sim-to-Real Gap with multipanda_ros2: A Real-Time ROS 2 Framework for Multimanual Systems | ICRA · Sim To Real | [Paper](https://arxiv.org/pdf/2602.02269) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696149) | rule-assigned |
+| 2026 | Real-is-Sim: Bridging the Sim-to-Real Gap with a Dynamic Digital Twin | ICRA · Sim To Real | [Paper](https://arxiv.org/pdf/2504.03597) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697400) | rule-assigned |
+| 2026 | SCOOP’D: Learning Mixed-Liquid-Solid Scooping via Sim2Real Generative Policy | ICRA · Sim2Real | [Paper](https://arxiv.org/pdf/2510.11566) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697332) | rule-assigned |
 | 2026 | Unsupervised Domain Adaptation for Robust Imitation Learning under Visual Perturbations | ICRA · Imitation Learning | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696866) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696866) | rule-assigned |
 | 2025 | Data-Efficient Learning from Human Interventions for Mobile Robots | ICRA · Mobile Robot | [Paper](https://arxiv.org/abs/2503.04969) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128012) | rule-assigned |
-| 2025 | DemoStart: Demonstration-Led Auto-Curriculum Applied to Sim-to-Real with Multi-Fingered Robots | ICRA · Multi Finger | [Paper](https://arxiv.org/abs/2409.06613) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127813) | rule-assigned |
-| 2025 | Visual-Based Forklift Learning System Enabling Zero-Shot Sim2Real Without Real-World Data | ICRA · Sim2Real | [Paper](https://arxiv.org/abs/2412.11503) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127682) | rule-assigned |
-| 2025 | ReBot: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis | IROS · Sim To Real | [Paper](https://arxiv.org/abs/2503.14526) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246305) | rule-assigned |
+| 2025 | DemoStart: Demonstration-Led Auto-Curriculum Applied to Sim-to-Real with Multi-Fingered Robots | ICRA · Multi Finger | [Paper](https://arxiv.org/pdf/2409.06613) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127813) | rule-assigned |
+| 2025 | Visual-Based Forklift Learning System Enabling Zero-Shot Sim2Real Without Real-World Data | ICRA · Sim2Real | [Paper](https://arxiv.org/pdf/2412.11503) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127682) | rule-assigned |
+| 2025 | ReBot: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2503.14526) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246305) | rule-assigned |
 | 2025 | SPiDR: A Simple Approach for Zero-Shot Safety in Sim-to-Real Transfer | NeurIPS · Sim To Real | [Paper](https://arxiv.org/abs/2509.18648) · [Index](https://dblp.org/rec/journals/corr/abs-2509-18648) | rule-assigned |
 | 2024 | Bridging the Sim-to-Real Gap from the Information Bottleneck Perspective | CoRL · Sim To Real | [Paper](https://arxiv.org/abs/2305.18464) · [Index](https://dblp.org/rec/conf/corl/HeWBL0PH024) | rule-assigned |
 | 2024 | SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment | CoRL · Llm | [Paper](https://arxiv.org/abs/2410.18907) · [Index](https://dblp.org/rec/journals/corr/abs-2410-18907) | rule-assigned |
 | 2024 | TieBot: Learning to Knot a Tie from Visual Demonstration through a Real-to-Sim-to-Real Approach | CoRL · Sim To Real | [Paper](https://arxiv.org/abs/2407.03245) · [Index](https://dblp.org/rec/journals/corr/abs-2407-03245) | rule-assigned |
 | 2024 | TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction | CoRL · Sim To Real | [Paper](https://arxiv.org/abs/2405.10315) · [Index](https://dblp.org/rec/conf/corl/0001WZ0024) | rule-assigned |
-| 2024 | A Multifidelity Sim-to-Real Pipeline for Verifiable and Compositional Reinforcement Learning | ICRA · Sim To Real | [Paper](https://arxiv.org/abs/2312.01249) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610735) | rule-assigned |
-| 2024 | Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs | ICRA · Sim To Real | [Paper](https://arxiv.org/abs/2403.04114) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611427) | rule-assigned |
+| 2024 | A Multifidelity Sim-to-Real Pipeline for Verifiable and Compositional Reinforcement Learning | ICRA · Sim To Real | [Paper](https://arxiv.org/pdf/2312.01249) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610735) | rule-assigned |
+| 2024 | Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs | ICRA · Sim To Real | [Paper](https://arxiv.org/pdf/2403.04114) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611427) | rule-assigned |
 | 2024 | Simulation Modeling of Highly Dynamic Omnidirectional Mobile Robots Based on Real-World Data | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611459) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611459) | rule-assigned |
 | 2024 | Bridging the Sim-to-Real Gap with Bayesian Inference | IROS · Sim To Real | [Paper](https://arxiv.org/abs/2403.16644) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801505) | rule-assigned |
 | 2024 | Domain Randomization-free Sim-to-Real : An Attention-Augmented Memory Approach for Robotic Tasks | IROS · Sim To Real | [Paper](https://doi.org/10.1109/IROS58592.2024.10801944) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801944) | rule-assigned |
@@ -59,19 +59,23 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Toward Zero-Shot Sim-to-Real Transfer Learning for Pneumatic Soft Robot 3D Proprioceptive Sensing | ICRA · Sim To Real | [Paper](https://arxiv.org/pdf/2303.04307) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160384) | rule-assigned |
 | 2023 | Learning Robotic Powder Weighing from Simulation for Laboratory Automation | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342463) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342463) | rule-assigned |
 | 2023 | Real is Better than Perfect: Sim-to-Real Robotic System in Secondary School Education | IROS · Sim To Real | [Paper](https://doi.org/10.1109/IROS55552.2023.10341903) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341903) | rule-assigned |
-| 2022 | ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer | CVPR · Sim2Real | [Paper](https://arxiv.org/abs/2204.02389) · [Publisher](https://doi.org/10.1109/CVPR52688.2022.01034) | rule-assigned |
+| 2022 | ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer | CVPR · Sim2Real | [Paper](https://arxiv.org/pdf/2204.02389) · [Publisher](https://doi.org/10.1109/CVPR52688.2022.01034) | rule-assigned |
 | 2022 | Sim-to-Real via Sim-to-Seg: End-to-end Off-road Autonomous Driving Without Real Data | CoRL · Sim To Real | [Paper](https://arxiv.org/pdf/2210.14721) · [Index](https://dblp.org/rec/conf/corl/SoXJETAAJ22) | rule-assigned |
 | 2022 | TRITON: Neural Neural Textures for Better Sim2Real | CoRL · Sim2Real | [Paper](https://www.semanticscholar.org/paper/36f2affca1c18b49567ed2f24119afd63c467a74) · [Index](https://dblp.org/rec/conf/corl/BurgertSLR22) | rule-assigned |
-| 2022 | Parallel Monte Carlo Tree Search with Batched Rigid-body Simulations for Speeding up Long-Horizon Episodic Robot Planning | IROS · Simulation | [Paper](https://arxiv.org/abs/2207.06649) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981962) | rule-assigned |
+| 2022 | Parallel Monte Carlo Tree Search with Batched Rigid-body Simulations for Speeding up Long-Horizon Episodic Robot Planning | IROS · Simulation | [Paper](https://arxiv.org/pdf/2207.06649) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981962) | rule-assigned |
 | 2022 | Planar Modeling and Sim-to-Real of a Tethered Multimaterial Soft Swimmer Driven by Peano-HASELs | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2208.00731) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981192) | rule-assigned |
 | 2022 | Towards Inclusive HRI: Using Sim2Real to Address Underrepresentation in Emotion Expression Recognition | IROS · Sim2Real | [Paper](https://arxiv.org/pdf/2208.07472) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982252) | rule-assigned |
 | 2022 | Transferring Multi-Agent Reinforcement Learning Policies for Autonomous Driving using Sim-to-Real | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2203.11653) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981319) | rule-assigned |
 
-## Recent arXiv papers (254)
+## Recent arXiv papers (257)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-14 | AutoRSR: Automated Real-to-Sim-to-Real Data Generation for Scalable Robot Learning | Jiawei Zhang, Chang Liu, Litao Deng, Tao Zhang et al. | [Abstract](https://arxiv.org/abs/2610.20336) · [PDF](https://arxiv.org/pdf/2610.20336) | rule-assigned |
+| 2026-10-12 | DexNinja: Learning Robust Dexterous Cutting Policy with a Real-to-Sim-to-Real Data Engine | Haozhe Lou, Runyi Yang, Wanqi Zhong, Caiyun Liu et al. | [Abstract](https://arxiv.org/abs/2610.17208) · [PDF](https://arxiv.org/pdf/2610.17208) | rule-assigned |
+| 2026-10-08 | Sim-to-Real RL for ASVs using SysID | Cody Sheltraw, Tsimafei Lazouski, Maani Ghaffari, Alan Papalia | [Abstract](https://arxiv.org/abs/2610.12202) · [PDF](https://arxiv.org/pdf/2610.12202) | rule-assigned |
 | 2026-10-07 | RoboRender: Robot-Oriented Video Generation for Visual Sim-to-Real Transfer | Huang Huang, Wensi Ai, Ziyu Chen, Youhui Wang et al. | [Abstract](https://arxiv.org/abs/2610.09254) · [PDF](https://arxiv.org/pdf/2610.09254) | rule-assigned |
+| 2026-10-07 | Informationally Decoupled Trajectory Design for Sim-to-Real System Identification | Sangwoo Shin, Ashvin Anilkumar, Ryan Gao, Josiah P. Hanna | [Abstract](https://arxiv.org/abs/2610.10905) · [PDF](https://arxiv.org/pdf/2610.10905) | rule-assigned |
 | 2026-10-04 | TUCO: Curating Simulation Demonstrations for Sim-to-Real Robot Policy Co-Training | Ning Zhu, Mengfei Zhao, Yikai Tang, Zhangyujie Sun et al. | [Abstract](https://arxiv.org/abs/2610.05407) · [PDF](https://arxiv.org/pdf/2610.05407) | rule-assigned |
 | 2026-10-02 | RoboBridge: A Self-Evolving Embodied Agent Framework for Sim-to-Real Transfer | Chenxi Li, Zhangrui Zhao, Rui Li, Yuan Gao et al. | [Abstract](https://arxiv.org/abs/2610.02717) · [PDF](https://arxiv.org/pdf/2610.02717) | rule-assigned |
 | 2026-09-29 | RoboFin3D: A Sim-to-Real Platform for Robotic Surface Finishing | Haowei Wen, Shangtao Li, Vaibhav Sanjay, Philip Huang et al. | [Abstract](https://arxiv.org/abs/2609.37560) · [PDF](https://arxiv.org/pdf/2609.37560) | rule-assigned |
@@ -324,7 +328,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-02 | An Efficient Detection and Control System for Underwater Docking using Machine Learning and Realistic Simulation: A Comprehensive Approach | Jalil Chavez-Galaviz, Jianwen Li, Matthew Bergman, Miras Mengdibayev et al. | [Abstract](https://arxiv.org/abs/2311.01522) · [PDF](https://arxiv.org/pdf/2311.01522) | rule-assigned |
 | 2023-10-21 | Unsupervised Sim-to-Real Adaptation of Soft Robot Proprioception using a Dual Cross-modal Autoencoder | Chaeree Park, Hyunkyu Park, Jung Kim | [Abstract](https://arxiv.org/abs/2310.14075) · [PDF](https://arxiv.org/pdf/2310.14075) | rule-assigned |
 | 2023-10-17 | Sim-to-Real Transfer of Adaptive Control Parameters for AUV Stabilization under Current Disturbance | Thomas Chaffre, Jonathan Wheare, Andrew Lammas, Paulo Santos et al. | [Abstract](https://arxiv.org/abs/2310.11075) · [PDF](https://arxiv.org/pdf/2310.11075) | rule-assigned |
-| 2023-10-09 | Examining the simulation-to-reality gap of a wheel loader digging in deformable terrain | Koji Aoshima, Martin Servin | [Abstract](https://arxiv.org/abs/2310.05765) · [PDF](https://arxiv.org/pdf/2310.05765) | rule-assigned |
 
 ---
 

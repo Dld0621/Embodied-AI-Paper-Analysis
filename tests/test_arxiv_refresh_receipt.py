@@ -1,4 +1,4 @@
-"""Small, offline contracts for immutable arXiv-only refresh receipts."""
+"""Small, offline contracts for immutable, explicitly scoped refresh receipts."""
 from copy import deepcopy
 from io import StringIO
 import json
@@ -38,6 +38,12 @@ def snapshot(day, records):
     }
 
 
+def conference_paper(title, *, year=2026, venue="ICRA", **fields):
+    return {"title": title, "year": year, "venue": venue,
+            "paper_url": f"https://example.org/papers/{title.replace(' ', '-')}",
+            "official_url": f"https://example.org/official/{title.replace(' ', '-')}", **fields}
+
+
 class ArxivRefreshReceiptTests(unittest.TestCase):
     def setUp(self):
         self.retained = paper("2401.00001", "2024-01-01", "Shared Robot Title")
@@ -48,15 +54,27 @@ class ArxivRefreshReceiptTests(unittest.TestCase):
         changed = deepcopy(self.retained)
         changed["abstract"] = "A revised abstract, not a newly published paper."
         self.after = snapshot("2026-10-08", [changed, paper("2610.00001", "2026-10-07")])
-        self.conference = {"as_of": "2026-10-04", "papers": [{"title": "Shared Robot Title"}]}
+        self.conference = {"as_of": "2026-10-04", "census": {"snapshot_date": "2026-10-04"},
+                           "window": {"start": 2022, "end": 2026},
+                           "papers": [conference_paper("Shared Robot Title")]}
 
-    def build(self, before=None, after=None, conference=None, day="2026-10-08"):
+    def build(self, before=None, after=None, conference=None, day="2026-10-08",
+              allow_conference_refresh=False):
         return refresh.build_receipt(
             before if before is not None else self.before,
             after if after is not None else self.after,
             conference if conference is not None else (self.conference, deepcopy(self.conference)),
-            SHA, day,
+            SHA, day, allow_conference_refresh=allow_conference_refresh,
         )
+
+    def conference_pair(self):
+        before = deepcopy(self.conference)
+        before["papers"].append(conference_paper("Removed index record", year=2025, venue="RSS"))
+        after = deepcopy(self.conference)
+        after["as_of"] = after["census"]["snapshot_date"] = "2026-10-08"
+        after["papers"][0]["paper_url"] = "https://example.org/new-open-access-location"
+        after["papers"].append(conference_paper("Newly indexed record", year=2024, venue="CoRL"))
+        return before, after
 
     def test_added_removed_and_retained_changes_reconcile(self):
         evidence = self.build()["layers"]["arxiv_recent.json"]
@@ -144,6 +162,179 @@ class ArxivRefreshReceiptTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             self.build(conference=(self.conference, changed))
 
+    def test_explicit_dual_refresh_records_conference_delta_and_hashes(self):
+        before, after = self.conference_pair()
+        receipt = self.build(conference=(before, after), allow_conference_refresh=True)
+        layer = receipt["layers"]["papers.json"]
+        self.assertEqual(receipt["refresh_scope"], "conference-and-arxiv")
+        self.assertEqual((layer["snapshot_before"], layer["snapshot_after"]), ("2026-10-04", "2026-10-08"))
+        self.assertFalse(layer["source_unchanged"])
+        self.assertEqual(layer["source_before_sha256"], refresh.canonical_hash(before))
+        self.assertEqual(layer["source_after_sha256"], refresh.canonical_hash(after))
+        self.assertEqual(layer["records_before"], 2)
+        self.assertEqual(layer["records_after"], 2)
+        self.assertEqual(len(layer["added"]), 1)
+        self.assertEqual(len(layer["removed"]), 1)
+        self.assertEqual(layer["retained_records"], 1)
+        self.assertEqual(layer["retained_metadata_changes"], 1)
+        self.assertEqual(layer["added"][0]["title"], "Newly indexed record")
+        self.assertEqual(layer["removed"][0]["title"], "Removed index record")
+        for entry in layer["added"] + layer["removed"] + layer["retained_metadata_changed_records"]:
+            for field in ("id", "title", "year", "venue", "paper_url", "official_url", "identity_strategy"):
+                self.assertTrue(entry[field])
+        self.assertEqual(receipt, self.build(conference=(before, after), allow_conference_refresh=True))
+
+    def test_conference_oa_url_change_is_retained_metadata_not_new_identity(self):
+        before, after = self.conference_pair()
+        after["papers"] = after["papers"][:1]
+        before["papers"] = before["papers"][:1]
+        layer = self.build(conference=(before, after), allow_conference_refresh=True)["layers"]["papers.json"]
+        self.assertEqual(layer["added"], [])
+        self.assertEqual(layer["removed"], [])
+        self.assertEqual(layer["retained_records"], 1)
+        self.assertEqual(layer["retained_metadata_changes"], 1)
+        self.assertEqual(layer["retained_metadata_changed_records"][0]["identity_strategy"], "normalized_title+venue")
+        self.assertEqual(layer["retained_metadata_changed_records"][0]["paper_url"], after["papers"][0]["paper_url"])
+
+    def test_conference_year_and_source_url_corrections_are_retained_metadata(self):
+        before, after = self.conference_pair()
+        before["papers"] = [conference_paper("Corrected conference record", year=2025)]
+        after["papers"] = [conference_paper("Corrected conference record", year=2026,
+                                           official_url="https://doi.org/10.0000/corrected-conference")]
+        layer = self.build(conference=(before, after), allow_conference_refresh=True)["layers"]["papers.json"]
+        self.assertEqual(layer["added"], [])
+        self.assertEqual(layer["removed"], [])
+        self.assertEqual(layer["retained_records"], 1)
+        self.assertEqual(layer["retained_metadata_changes"], 1)
+        self.assertEqual(layer["retained_metadata_changed_records"][0]["year"], 2026)
+        self.assertEqual(layer["retained_metadata_changed_records"][0]["official_url"], after["papers"][0]["official_url"])
+        self.assertIn("year and URLs are mutable metadata", layer["identity_strategy"])
+
+    def test_conference_year_must_be_integer_under_both_identity_strategies(self):
+        for source_id in ({}, {"paperId": "native-id"}):
+            for invalid_year in ("2026", True, None):
+                before, after = self.conference_pair()
+                after["papers"] = [conference_paper("Invalid year", year=invalid_year, **source_id)]
+                with self.subTest(source_id=source_id, year=invalid_year), self.assertRaisesRegex(ValueError, "integer year"):
+                    self.build(conference=(before, after), allow_conference_refresh=True)
+
+    def test_conference_source_id_survives_title_and_url_revisions(self):
+        before, after = self.conference_pair()
+        before["papers"] = [conference_paper("Original title", paperId="source-123")]
+        after["papers"] = [conference_paper("Revised title", paperId="source-123")]
+        layer = self.build(conference=(before, after), allow_conference_refresh=True)["layers"]["papers.json"]
+        self.assertEqual(layer["added"], [])
+        self.assertEqual(layer["removed"], [])
+        self.assertEqual(layer["retained_metadata_change_ids"], ["paperId:source-123"])
+        self.assertEqual(layer["retained_metadata_changed_records"][0]["identity_strategy"], "source:paperId")
+
+    def test_duplicate_conference_source_or_bibliographic_keys_are_rejected(self):
+        for records in (
+            [conference_paper("One", id="same"), conference_paper("Two", id="same")],
+            [conference_paper("Same: Title"), conference_paper("Same Title")],
+        ):
+            for target in (0, 1):
+                pair = list(self.conference_pair())
+                pair[target]["papers"] = records
+                with self.subTest(records=records, target=target), self.assertRaisesRegex(ValueError, "duplicate conference identity"):
+                    self.build(conference=tuple(pair), allow_conference_refresh=True)
+
+    def test_dual_refresh_rejects_stale_or_inconsistent_conference_dates(self):
+        for missing_census in (False, True):
+            before, after = self.conference_pair()
+            if missing_census:
+                after.pop("census")
+            else:
+                after["census"]["snapshot_date"] = "2026-10-07"
+            with self.subTest(missing_census=missing_census), self.assertRaisesRegex(ValueError, "census date"):
+                self.build(conference=(before, after), allow_conference_refresh=True)
+        with self.assertRaisesRegex(ValueError, "refresh date"):
+            self.build(conference=(self.conference, self.conference), allow_conference_refresh=True)
+        before, after = self.conference_pair()
+        before["as_of"] = "2026-10-09"
+        with self.assertRaisesRegex(ValueError, "backwards"):
+            self.build(conference=(before, after), allow_conference_refresh=True)
+
+    def test_dual_markdown_separates_source_dates_and_does_not_claim_publication(self):
+        content = refresh.render_receipt(self.build(conference=self.conference_pair(), allow_conference_refresh=True))
+        for text in ("顶会与 arXiv", "顶会索引快照", "2026-10-04", "2026-10-08",
+                     "## arXiv 新增与移出明细", "## 顶会来源变化", "Newly indexed record",
+                     "Removed index record", "保留记录的元数据变化", "不表示新近发表或录用", "换链接不是新增论文"):
+            self.assertIn(text, content)
+        self.assertNotIn("本次只刷新 arXiv", content)
+        self.assertNotIn("顶会来源内容保持不变", content)
+
+    def test_dual_markdown_caps_only_retained_metadata_at_twenty_without_mutating_json(self):
+        for count in (0, 20, 21):
+            before, after = self.conference_pair()
+            retained = [conference_paper(f"Retained changed {index:02}") for index in range(count)]
+            before["papers"] = retained + [conference_paper(f"All removed {index:02}") for index in range(21)]
+            after["papers"] = [{**p, "paper_url": p["paper_url"] + "?updated"} for p in retained]
+            after["papers"] += [conference_paper(f"All added {index:02}") for index in range(21)]
+            receipt = self.build(conference=(before, after), allow_conference_refresh=True)
+            saved = deepcopy(receipt)
+            content = refresh.render_receipt(receipt)
+            with self.subTest(count=count):
+                self.assertIn(f"本节共 {count} 条，当前展示前 {min(count, 20)} 条", content)
+                self.assertIn("同日 JSON 收据](../data/catalog-refresh-2026-10-08.json)", content)
+                self.assertIn("其余 1 条已截断" if count == 21 else "未截断", content)
+                section = content.split("### 顶会保留记录的元数据变化", 1)[1].split("## 分类、覆盖与发布边界", 1)[0]
+                self.assertEqual(section.count("| bibliographic:"), min(count, 20))
+                self.assertEqual(receipt, saved)
+                self.assertEqual(len(receipt["layers"]["papers.json"]["retained_metadata_changed_records"]), count)
+                for index in range(21):
+                    self.assertIn(f"All removed {index:02}", content)
+                    self.assertIn(f"All added {index:02}", content)
+
+    def conference_admission_review(self):
+        removed = self.conference_pair()[0]["papers"][-1]
+        return {"snapshot_date": "2026-10-08", "checked_on": "2026-10-08", "records": [],
+                "conference_records": [{key: removed[key] for key in ("title", "venue", "year", "official_url")}
+                                       | {"current_admission_result": None,
+                                          "reason": "Verified source abstract now contains an existing excluded application term."}]}
+
+    def test_conference_removal_review_is_explicit_and_preserves_supplied_evidence(self):
+        review = self.conference_admission_review()
+        receipt = refresh.build_receipt(self.before, self.after, self.conference_pair(), SHA, "2026-10-08",
+                                        review, allow_conference_refresh=True)
+        self.assertEqual(receipt["layers"]["papers.json"]["removal_admission_review"], review["conference_records"])
+        content = refresh.render_receipt(receipt)
+        self.assertIn("摘要补全后不满足现有纳入条件（触发现有排除规则），非撤稿", content)
+        self.assertIn(review["conference_records"][0]["reason"], content)
+        self.assertIn(review["conference_records"][0]["official_url"], content)
+        without_extra = {key: value for key, value in review.items() if key != "conference_records"}
+        unchanged = refresh.build_receipt(self.before, self.after, self.conference_pair(), SHA, "2026-10-08",
+                                          without_extra, allow_conference_refresh=True)
+        self.assertNotIn("removal_admission_review", unchanged["layers"]["papers.json"])
+        self.assertEqual(unchanged, self.build(conference=self.conference_pair(), allow_conference_refresh=True))
+
+    def test_conference_removal_review_rejects_duplicates_nonremovals_and_missing_evidence(self):
+        valid = self.conference_admission_review()
+        first = valid["conference_records"][0]
+        invalid = [
+            {**valid, "conference_records": None},
+            {**valid, "conference_records": [first, deepcopy(first)]},
+            {**valid, "conference_records": [{**first, "title": "Not removed"}]},
+            {**valid, "conference_records": [{**first, "venue": "ICML"}]},
+            {**valid, "conference_records": [{**first, "year": 2026}]},
+            {**valid, "conference_records": [{**first, "official_url": "https://example.org/not-evidence"}]},
+            {**valid, "conference_records": [{**first, "reason": "  "}]},
+            {**valid, "conference_records": [{**first, "current_admission_result": "admitted"}]},
+        ]
+        for missing in ("official_url", "reason", "current_admission_result"):
+            invalid.append({**valid, "conference_records": [{key: value for key, value in first.items() if key != missing}]})
+        for review in invalid:
+            with self.subTest(review=review), self.assertRaises(ValueError):
+                refresh.build_receipt(self.before, self.after, self.conference_pair(), SHA, "2026-10-08",
+                                      review, allow_conference_refresh=True)
+
+    def test_conference_review_requires_dual_mode_even_when_the_array_is_empty(self):
+        for records in ([], self.conference_admission_review()["conference_records"]):
+            review = {**self.conference_admission_review(), "conference_records": records}
+            with self.subTest(records=records), self.assertRaisesRegex(ValueError, "explicit conference refresh"):
+                refresh.build_receipt(self.before, self.after, (self.conference, self.conference),
+                                      SHA, "2026-10-08", review)
+
     def test_duplicate_ids_and_inconsistent_ledgers_are_rejected(self):
         after = snapshot("2026-10-08", [deepcopy(self.retained), deepcopy(self.retained)])
         with self.assertRaisesRegex(ValueError, "duplicate"):
@@ -208,6 +399,28 @@ class ArxivRefreshReceiptTests(unittest.TestCase):
             self.assertEqual(git.call_args_list[0].args[0],
                              ["git", "rev-parse", "--verify", "--end-of-options", "HEAD^{commit}"])
             self.assertFalse((root / "docs").exists())
+
+    def test_cli_explicit_dual_refresh_can_write_then_check_immutable_receipts(self):
+        before, after = self.conference_pair()
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / "data").mkdir()
+            (root / refresh.CONFERENCE_SOURCE).write_text(json.dumps(after))
+            (root / refresh.ARXIV_SOURCE).write_text(json.dumps(self.after))
+            git_outputs = [SHA + "\n", json.dumps(self.before).encode(), json.dumps(before).encode()]
+            argv = ["--baseline", "HEAD", "--date", "2026-10-08", "--allow-conference-refresh"]
+            for suffix in ([], ["--check"]):
+                with patch.object(refresh, "ROOT", root), patch.object(refresh.subprocess, "check_output", side_effect=git_outputs), patch("sys.stdout", new_callable=StringIO):
+                    self.assertEqual(refresh.main(argv + suffix), 0)
+            receipt_path = root / "data" / "catalog-refresh-2026-10-08.json"
+            self.assertEqual(json.loads(receipt_path.read_text())["refresh_scope"], "conference-and-arxiv")
+            changed = deepcopy(after)
+            changed["papers"][0]["paper_url"] += "?new-metadata"
+            (root / refresh.CONFERENCE_SOURCE).write_text(json.dumps(changed))
+            saved = receipt_path.read_bytes()
+            with patch.object(refresh, "ROOT", root), patch.object(refresh.subprocess, "check_output", side_effect=git_outputs), patch("sys.stderr", new_callable=StringIO):
+                self.assertEqual(refresh.main(argv), 1)
+            self.assertEqual(receipt_path.read_bytes(), saved)
 
 
 if __name__ == "__main__":

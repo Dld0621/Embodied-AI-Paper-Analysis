@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Synthetic%20%26%20Augmented%20Data&specialty=Pending%20specialty%20review#research-workbench)
 
-> 5 conference papers · 37 recent arXiv papers
+> 5 conference papers · 38 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,16 +24,17 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2025 | DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2410.24185) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127809) | needs-review |
+| 2025 | DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2410.24185) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127809) | needs-review |
 | 2025 | HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning | NeurIPS · Dexterous | [Paper](https://arxiv.org/abs/2507.00833) · [Index](https://dblp.org/rec/journals/corr/abs-2507-00833) | needs-review |
 | 2024 | GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs | CoRL · Llm | [Paper](https://arxiv.org/abs/2410.03645) · [Index](https://dblp.org/rec/journals/corr/abs-2410-03645) | needs-review |
 | 2023 | MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations | CoRL · Demonstration generation | [Paper](https://arxiv.org/abs/2310.17596) · [Official](https://proceedings.mlr.press/v229/) · [Code](https://github.com/NVlabs/mimicgen) | needs-review |
 | 2022 | Touching a NeRF: Leveraging Neural Radiance Fields for Tactile Sensory Data Generation | CoRL · Tactile | [Paper](https://www.semanticscholar.org/paper/52ad7e7133b19adf85e49478fe17229fc893cd8f) · [Index](https://dblp.org/rec/conf/corl/ZhongAJMP22) | needs-review |
 
-## Recent arXiv papers (37)
+## Recent arXiv papers (38)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-13 | OneDemo: Unified Policy Learning and Data Generation from a Single Demonstration | Ying Qian, Jianshu Hu, Han Fang, Shuguang Li et al. | [Abstract](https://arxiv.org/abs/2610.18188) · [PDF](https://arxiv.org/pdf/2610.18188) | needs-review |
 | 2026-09-28 | SkillWeaver: Agentic Exploration over Neural Interaction Skills for Scalable Robot Data Generation | He Zhu, Lusen Zhao, Kwan Man Cheng, Su Li et al. | [Abstract](https://arxiv.org/abs/2609.36171) · [PDF](https://arxiv.org/pdf/2609.36171) | needs-review |
 | 2026-09-22 | MotionForge: A Data Generation Pipeline and Large-Scale Benchmark for Long-Horizon Manipulation of Dynamic Objects with Domain Shifts | Mohan Liu, Dengchen Mei, Haotian Xian, Ruyang Han et al. | [Abstract](https://arxiv.org/abs/2609.25689) · [PDF](https://arxiv.org/pdf/2609.25689) | needs-review |
 | 2026-09-21 | ARSTAG: An Agentic Real2Sim2Real System for Task-Specific Robot Data Generation | Bowei Li, Yuner Zhang, Changliu Liu | [Abstract](https://arxiv.org/abs/2609.24563) · [PDF](https://arxiv.org/pdf/2609.24563) | needs-review |

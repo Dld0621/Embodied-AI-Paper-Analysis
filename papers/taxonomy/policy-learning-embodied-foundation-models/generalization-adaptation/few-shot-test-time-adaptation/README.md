@@ -1,12 +1,12 @@
 # Few-shot & Test-time Adaptation · 少样本与测试时适配
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generalization%20%26%20Adaptation&specialty=Few-shot%20%26%20Test-time%20Adaptation#research-workbench)
 
-> 21 conference papers · 271 recent arXiv papers
+> 22 conference papers · 276 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,24 +20,25 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (21)
+## Conference papers (22)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Bi-Adapt: Few-shot Bimanual Adaptation for Novel Categories of 3D Objects via Semantic Correspondence | ICRA · Bimanual | [Paper](https://arxiv.org/abs/2602.08425) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695815) | rule-assigned |
-| 2026 | LAD-VF: LLM-Automatic Differentiation Enables Fine-Tuning-Free Robot Planning from Formal Methods Feedback | ICRA · Llm | [Paper](https://arxiv.org/abs/2509.18384) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695863) | rule-assigned |
-| 2026 | Refinery: Active Fine-tuning and Deployment-time Optimization for Contact-Rich Policies | ICRA · Contact Rich | [Paper](https://arxiv.org/abs/2510.11019) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696080) | rule-assigned |
+| 2026 | Bi-Adapt: Few-shot Bimanual Adaptation for Novel Categories of 3D Objects via Semantic Correspondence | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2602.08425) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695815) | rule-assigned |
+| 2026 | LAD-VF: LLM-Automatic Differentiation Enables Fine-Tuning-Free Robot Planning from Formal Methods Feedback | ICRA · Llm | [Paper](https://arxiv.org/pdf/2509.18384) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695863) | rule-assigned |
+| 2026 | Refinery: Active Fine-tuning and Deployment-time Optimization for Contact-Rich Policies | ICRA · Contact Rich | [Paper](https://arxiv.org/pdf/2510.11019) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696080) | rule-assigned |
 | 2026 | SafeNet: A Neural-Symbolic Network for Safe Planning in Robotic Systems using Formal Method-Guided LLM Fine-Tuning | ICRA · Llm | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697001) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697001) | rule-assigned |
-| 2026 | ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow | ICRA · Skill Learning | [Paper](https://arxiv.org/abs/2505.01288) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695753) | rule-assigned |
+| 2026 | SHAF: Small Language Model Integrated with Motion Modality for Multimodal Interaction | ICRA · Language Model | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697346) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697346) | rule-assigned |
+| 2026 | ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow | ICRA · Skill Learning | [Paper](https://arxiv.org/pdf/2505.01288) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695753) | rule-assigned |
 | 2025 | Tartan IMU: A Light Foundation Model for Inertial Positioning in Robotics | CVPR · Foundation Model | [Paper](https://doi.org/10.1109/CVPR52734.2025.02097) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02097) | rule-assigned |
 | 2025 | Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-Based Decision-Making Systems | ICLR · Embodied Agent | [Paper](https://arxiv.org/abs/2405.20774) · [Index](https://dblp.org/rec/conf/iclr/JiaoXYSWWC025) | rule-assigned |
-| 2025 | AnyCar to Anywhere: Learning Universal Dynamics Model for Agile and Adaptive Mobility | ICRA · Dynamics Model | [Paper](https://arxiv.org/abs/2409.15783) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128396) | rule-assigned |
-| 2025 | SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2409.19471) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128420) | rule-assigned |
+| 2025 | AnyCar to Anywhere: Learning Universal Dynamics Model for Agile and Adaptive Mobility | ICRA · Dynamics Model | [Paper](https://arxiv.org/pdf/2409.15783) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128396) | rule-assigned |
+| 2025 | SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2409.19471) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128420) | rule-assigned |
 | 2025 | RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics | NeurIPS · Language Model | [Paper](https://arxiv.org/abs/2506.04308) · [Index](https://dblp.org/rec/conf/nips/ZhouACHRZWWHSZ25) | rule-assigned |
 | 2024 | What Matters to You? Towards Visual Representation Alignment for Robot Learning | ICLR · Visual Representation | [Paper](https://arxiv.org/pdf/2310.07932) · [Index](https://dblp.org/rec/conf/iclr/TianXTMB24) | rule-assigned |
-| 2024 | CAPE: Corrective Actions from Precondition Errors using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2211.09935) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611376) | rule-assigned |
-| 2024 | What Do We Learn from a Large-Scale Study of Pre-Trained Visual Representations in Sim and Real Environments? | ICRA · Visual Representation | [Paper](https://arxiv.org/abs/2310.02219) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610218) | rule-assigned |
-| 2024 | BayRnTune: Adaptive Bayesian Domain Randomization via Strategic Fine-tuning | IROS · Domain Randomization | [Paper](https://arxiv.org/abs/2310.10606) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802145) | rule-assigned |
+| 2024 | CAPE: Corrective Actions from Precondition Errors using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2211.09935) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611376) | rule-assigned |
+| 2024 | What Do We Learn from a Large-Scale Study of Pre-Trained Visual Representations in Sim and Real Environments? | ICRA · Visual Representation | [Paper](https://arxiv.org/pdf/2310.02219) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610218) | rule-assigned |
+| 2024 | BayRnTune: Adaptive Bayesian Domain Randomization via Strategic Fine-tuning | IROS · Domain Randomization | [Paper](https://arxiv.org/pdf/2310.10606) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802145) | rule-assigned |
 | 2024 | BTGenBot: Behavior Tree Generation for Robotic Tasks with Lightweight LLMs | IROS · Llm | [Paper](https://arxiv.org/pdf/2403.12761) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802304) | rule-assigned |
 | 2024 | Meta-Learning for Fast Adaptation in Intent Inferral on a Robotic Hand Orthosis for Stroke | IROS · Robotic Hand | [Paper](https://arxiv.org/pdf/2403.13147) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801596) | rule-assigned |
 | 2024 | Text2Map: From Navigational Instructions to Graph-Based Indoor Map Representations Using LLMs | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802370) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802370) | rule-assigned |
@@ -46,11 +47,18 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | TidyBot: Personalized Robot Assistance with Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2305.05658) · [Publisher](https://doi.org/10.1007/s10514-023-10139-z) | rule-assigned |
 | 2023 | Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects | NeurIPS · Affordance | [Paper](https://arxiv.org/pdf/2309.07473) · [Index](https://dblp.org/rec/journals/corr/abs-2309-07473) | rule-assigned |
 
-## Recent arXiv papers (271)
+## Recent arXiv papers (276)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
-| 2026-10-06 | Event-Driven Proactive Robot Assistance through Vision-Language Reasoning | Fengkai Liu, Hao Su, Haozhuang Chi, Rui Geng et al. | [Abstract](https://arxiv.org/abs/2610.08344) · [PDF](https://arxiv.org/pdf/2610.08344) | rule-assigned |
+| 2026-10-14 | Uncertainty-Driven Self-Play for Robust Multi-Agent Driving Policies | Sajad Marvi, Julian Schmidt, Alessandro Canevaro, Julian Jordan et al. | [Abstract](https://arxiv.org/abs/2610.19714) · [PDF](https://arxiv.org/pdf/2610.19714) | rule-assigned |
+| 2026-10-14 | Eye, Robot: Learning Expressive Gaze Dynamics via a VLM-Guided Transformer-VAE | Yuhang Hu, Junlin Lyu, Yuan Fang, Xiaoying Shen et al. | [Abstract](https://arxiv.org/abs/2610.19635) · [PDF](https://arxiv.org/pdf/2610.19635) | rule-assigned |
+| 2026-10-14 | Efficient Test-Time Adaptation For Robot Policies | Motasem Alfarra, Pietro Mazzaglia, Markus Peschl, Daniel Dijkman et al. | [Abstract](https://arxiv.org/abs/2610.20318) · [PDF](https://arxiv.org/pdf/2610.20318) | rule-assigned |
+| 2026-10-14 | Active Generative Simulation: Meta-Learning What to Simulate for Sim-and-Real Policy Co-Training | Liqian Ma, Vaibhav Saxena, Utkarsh Aashu Mishra, Shuo Cheng et al. | [Abstract](https://arxiv.org/abs/2610.19479) · [PDF](https://arxiv.org/pdf/2610.19479) | rule-assigned |
+| 2026-10-13 | RingNav: Task-Shaped Circular Memory for Visual Heading | Naitri Rajyaguru, Aryan Tajne, Stephen Jardim, Cornelia Fermuller et al. | [Abstract](https://arxiv.org/abs/2610.19044) · [PDF](https://arxiv.org/pdf/2610.19044) | rule-assigned |
+| 2026-10-08 | From Solo to Ensemble: A Hierarchical Framework for Composable Multi-Agent Human-Object Interaction | Zekai Deng, Kangyi Chen, Ye Shi, Jingya Wang | [Abstract](https://arxiv.org/abs/2610.11722) · [PDF](https://arxiv.org/pdf/2610.11722) | rule-assigned |
+| 2026-10-08 | CAPABLE: Capability-Aware Policy Adaptation via Behavioral Latent Encoding | Mohammad Khoshnazar, Mohammad Dehghani Tezerjani, Deyuan Qu, Zhiyuan Gao et al. | [Abstract](https://arxiv.org/abs/2610.11971) · [PDF](https://arxiv.org/pdf/2610.11971) | rule-assigned |
+| 2026-10-06 | Proactive Robot Assistance via Event-Driven Reasoning over State Changes | Fengkai Liu, Hao Su, Haozhuang Chi, Rui Geng et al. | [Abstract](https://arxiv.org/abs/2610.08344) · [PDF](https://arxiv.org/pdf/2610.08344) | rule-assigned |
 | 2026-10-06 | AutodidactWAM: Cross-Modal Self-Distillation from Generated Video to Robot Actions | Sergei Kurchev, Iaroslav Kolomiets, Miguel Altamirano Cabrera, Artem Lykov et al. | [Abstract](https://arxiv.org/abs/2610.08119) · [PDF](https://arxiv.org/pdf/2610.08119) | rule-assigned |
 | 2026-10-04 | $R^2$-WAM: Repair-and-Reject Post-Training for World Action Models | Ruiyan Xu, Haisheng Su, Sixu Lin, Zhaokun Yue et al. | [Abstract](https://arxiv.org/abs/2610.04913) · [PDF](https://arxiv.org/pdf/2610.04913) | rule-assigned |
 | 2026-10-02 | REDIRECT: A 1% Fix for Bad Robot Habits | Yu Zhang, Jiazhuo Li, Yancong Wei, Kangkang Dong et al. | [Abstract](https://arxiv.org/abs/2610.03997) · [PDF](https://arxiv.org/pdf/2610.03997) | rule-assigned |
@@ -319,8 +327,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-19 | Fine-Tuning Generative Models as an Inference Method for Robotic Tasks | Orr Krupnik, Elisei Shafer, Tom Jurgenson, Aviv Tamar | [Abstract](https://arxiv.org/abs/2310.12862) · [PDF](https://arxiv.org/pdf/2310.12862) | rule-assigned |
 | 2023-10-18 | Bias in Emotion Recognition with ChatGPT | Naoki Wake, Atsushi Kanehira, Kazuhiro Sasabuchi, Jun Takamatsu et al. | [Abstract](https://arxiv.org/abs/2310.11753) · [PDF](https://arxiv.org/pdf/2310.11753) | rule-assigned |
 | 2023-10-16 | BayRnTune: Adaptive Bayesian Domain Randomization via Strategic Fine-tuning | Tianle Huang, Nitish Sontakke, K. Niranjan Kumar, Irfan Essa et al. | [Abstract](https://arxiv.org/abs/2310.10606) · [PDF](https://arxiv.org/pdf/2310.10606) | rule-assigned |
-| 2023-10-11 | What Matters to You? Towards Visual Representation Alignment for Robot Learning | Ran Tian, Chenfeng Xu, Masayoshi Tomizuka, Jitendra Malik et al. | [Abstract](https://arxiv.org/abs/2310.07932) · [PDF](https://arxiv.org/pdf/2310.07932) | rule-assigned |
-| 2023-10-08 | Safe Deep Policy Adaptation | Wenli Xiao, Tairan He, John Dolan, Guanya Shi | [Abstract](https://arxiv.org/abs/2310.08602) · [PDF](https://arxiv.org/pdf/2310.08602) | rule-assigned |
 
 ---
 

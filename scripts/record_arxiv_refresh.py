@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Record a verified arXiv-only refresh against an immutable Git baseline.
+"""Record verified source refreshes against an immutable Git baseline.
 
 The conference argument to build_receipt is a (baseline, current) pair. The
 CLI additionally compares the conference source bytes, so an arXiv-only
 receipt cannot hide a conference refresh or even an unrelated source edit.
+An explicit --allow-conference-refresh opt-in records both source layers.
 Historical receipts are immutable: rerunning an identical build is allowed,
 but neither output may overwrite different existing content.
 """
@@ -100,15 +101,84 @@ def snapshot_counts(payload: dict, conference: dict) -> dict:
     }
 
 
+def conference_records(payload: dict) -> dict[str, dict]:
+    """Index source IDs, or stable bibliographic keys; URLs are not identities."""
+    records = {}
+    for paper in payload["papers"]:
+        if type(paper["year"]) is not int:
+            raise ValueError("conference record requires an integer year")
+        field = next((field for field in ("id", "paper_id", "paperId")
+                      if paper.get(field) is not None), None)
+        if field:
+            value = paper[field]
+            if isinstance(value, bool) or not isinstance(value, (str, int)) or not str(value).strip():
+                raise ValueError("conference source ID must be nonempty text or an integer")
+            identifier, strategy = f"{field}:{value}", f"source:{field}"
+        else:
+            key = {"title": title_key(paper["title"]), "venue": paper["venue"]}
+            if not key["title"] or not key["venue"]:
+                raise ValueError("conference bibliographic identity requires title and venue")
+            identifier = "bibliographic:" + canonical_hash(key)
+            strategy = "normalized_title+venue"
+        if identifier in records:
+            raise ValueError(f"duplicate conference identity: {identifier}")
+        records[identifier] = {"paper": paper, "identity_strategy": strategy}
+    return records
+
+
+def conference_summary(identifier: str, entry: dict) -> dict:
+    paper = entry["paper"]
+    return {"id": identifier, "identity_strategy": entry["identity_strategy"],
+            **{field: paper[field] for field in ("title", "year", "venue", "paper_url", "official_url")}}
+
+
+def conference_refresh(before: dict, after: dict, snapshot_date: str) -> dict:
+    if iso_day(after["as_of"]) != snapshot_date:
+        raise ValueError("conference refresh date must match this snapshot")
+    if after.get("census", {}).get("snapshot_date") != snapshot_date:
+        raise ValueError("conference census date must match this snapshot")
+    if iso_day(before["as_of"]) > after["as_of"]:
+        raise ValueError("a refresh cannot move the conference snapshot backwards")
+    for payload in (before, after):
+        if payload.get("census", {}).get("snapshot_date", payload["as_of"]) != payload["as_of"]:
+            raise ValueError("conference census and snapshot dates are inconsistent")
+    old, new = conference_records(before), conference_records(after)
+    changed = sorted(key for key in old.keys() & new.keys() if old[key]["paper"] != new[key]["paper"])
+    return {
+        "snapshot_before": before["as_of"], "snapshot_after": after["as_of"],
+        "window_before": before.get("window"), "window_after": after.get("window"),
+        "records_before": len(old), "records_after": len(new),
+        "source_unchanged": before == after,
+        "source_before_sha256": canonical_hash(before), "source_after_sha256": canonical_hash(after),
+        "identity_strategy": "source ID when available; otherwise normalized_title+venue (SHA-256 bibliographic key) in this title-deduplicated catalog; year and URLs are mutable metadata; title matching is not full-paper version verification",
+        "added": [conference_summary(key, new[key]) for key in sorted(new.keys() - old.keys())],
+        "removed": [conference_summary(key, old[key]) for key in sorted(old.keys() - new.keys())],
+        "retained_records": len(old.keys() & new.keys()),
+        "retained_metadata_changes": len(changed),
+        "retained_metadata_change_ids": changed,
+        "retained_metadata_changed_records": [conference_summary(key, new[key]) for key in changed],
+    }
+
+
 def build_receipt(before: dict, after: dict, conference: tuple[dict, dict],
-                  baseline: str, snapshot_date: str, admission_review: dict | None = None) -> dict:
+                  baseline: str, snapshot_date: str, admission_review: dict | None = None,
+                  *, allow_conference_refresh: bool = False) -> dict:
     """Build deterministic evidence without reading files or mutating inputs."""
     iso_day(snapshot_date)
     if not re.fullmatch(r"[0-9a-f]{40}|[0-9a-f]{64}", baseline):
         raise ValueError("baseline must be a resolved Git commit SHA")
     before_conference, after_conference = conference
-    if before_conference != after_conference:
+    if not allow_conference_refresh and before_conference != after_conference:
         raise ValueError("conference source changed; this receipt is arXiv-only")
+    conference_evidence = (conference_refresh(before_conference, after_conference, snapshot_date)
+                           if allow_conference_refresh else {
+        "snapshot_before": before_conference["as_of"],
+        "snapshot_after": after_conference["as_of"],
+        "records_before": len(before_conference["papers"]),
+        "records_after": len(after_conference["papers"]),
+        "source_unchanged": True,
+        "source_sha256": canonical_hash(after_conference),
+    })
     validate_snapshot(before, require_verified=False)
     validate_snapshot(after, require_verified=True)
     if snapshot_date != after["as_of"]:
@@ -132,7 +202,7 @@ def build_receipt(before: dict, after: dict, conference: tuple[dict, dict],
                 or admission_review.get("checked_on") != snapshot_date):
             raise ValueError("admission review date must match this snapshot")
         missing_ids = {p["id"] for p in removed if p["reason"] == "missing_within_new_window"}
-        for review in admission_review["records"]:
+        for review in admission_review.get("records", []):
             identifier = review["id"]
             if identifier not in missing_ids or identifier in reviewed:
                 raise ValueError("admission review must identify unique in-window missing records")
@@ -146,6 +216,31 @@ def build_receipt(before: dict, after: dict, conference: tuple[dict, dict],
         for summary in removed:
             if summary["id"] in reviewed:
                 summary["admission_review"] = reviewed[summary["id"]]
+        if "conference_records" in admission_review:
+            if not allow_conference_refresh:
+                raise ValueError("conference admission review requires explicit conference refresh")
+            conference_reviews = admission_review["conference_records"]
+            if not isinstance(conference_reviews, list):
+                raise ValueError("conference admission review must be an array")
+            verified_conference = {}
+            for review in conference_reviews:
+                if (not isinstance(review, dict) or not isinstance(review.get("title"), str)
+                        or not isinstance(review.get("venue"), str)
+                        or type(review.get("year")) is not int
+                        or "current_admission_result" not in review
+                        or review["current_admission_result"] is not None
+                        or not isinstance(review.get("reason"), str) or not review["reason"].strip()):
+                    raise ValueError("conference admission review lacks identity/non-admission evidence")
+                key = (title_key(review["title"]), review["venue"])
+                matches = [p for p in conference_evidence["removed"]
+                           if (title_key(p["title"]), p["venue"]) == key]
+                if len(matches) != 1 or key in verified_conference:
+                    raise ValueError("conference admission review must identify unique removed records")
+                if (review["year"] != matches[0]["year"]
+                        or review.get("official_url") != matches[0]["official_url"]):
+                    raise ValueError("conference admission review lacks matching year/source evidence")
+                verified_conference[key] = review
+            conference_evidence["removal_admission_review"] = [verified_conference[key] for key in sorted(verified_conference)]
     changed_ids = sorted(key for key in old.keys() & new.keys() if old[key] != new[key])
     counts_before = snapshot_counts(before, before_conference)
     counts_after = snapshot_counts(after, after_conference)
@@ -160,16 +255,9 @@ def build_receipt(before: dict, after: dict, conference: tuple[dict, dict],
         "timezone": "Asia/Hong_Kong",
         "baseline_commit": baseline,
         "source_refresh": True,
-        "refresh_scope": "arxiv-only",
+        "refresh_scope": "conference-and-arxiv" if allow_conference_refresh else "arxiv-only",
         "layers": {
-            "papers.json": {
-                "snapshot_before": before_conference["as_of"],
-                "snapshot_after": after_conference["as_of"],
-                "records_before": len(before_conference["papers"]),
-                "records_after": len(after_conference["papers"]),
-                "source_unchanged": True,
-                "source_sha256": canonical_hash(after_conference),
-            },
+            "papers.json": conference_evidence,
             "arxiv_recent.json": {
                 "snapshot_before": before["as_of"],
                 "snapshot_after": after["as_of"],
@@ -201,7 +289,9 @@ def build_receipt(before: dict, after: dict, conference: tuple[dict, dict],
             },
         },
         "limitations": [
-            "Only cs.RO including cross-listings and the declared rolling three-year submitted-date window are covered.",
+            ("Conference scope is the declared source window and venue/admission rules; the arXiv layer covers only cs.RO including cross-listings and its rolling three-year submitted-date window."
+             if allow_conference_refresh else
+             "Only cs.RO including cross-listings and the declared rolling three-year submitted-date window are covered."),
             "Candidate reconciliation verifies counts, not perfect admission rules or semantic classification.",
             "In-window absences are unresolved unless accompanied by an explicit source/admission review; absence is not evidence of withdrawal.",
             "Removed records show their last observed baseline classification, not a newly verified current classification.",
@@ -219,13 +309,29 @@ def render_receipt(receipt: dict) -> str:
     arxiv = receipt["layers"]["arxiv_recent.json"]
     conference = receipt["layers"]["papers.json"]
     before, after = arxiv["counts_before"], arxiv["counts_after"]
+    dual = receipt.get("refresh_scope") == "conference-and-arxiv"
+    title = "顶会与 arXiv 来源刷新记录" if dual else "arXiv 来源刷新记录"
+    scope = "本次分别刷新顶会索引与 arXiv 两个来源层" if dual else "本次只刷新 arXiv"
+    conference_change = (
+        f"- 顶会来源快照由 {conference['snapshot_before']} 更新为 {conference['snapshot_after']}；"
+        f"记录由 {conference['records_before']:,} 变为 {conference['records_after']:,}，"
+        f"新增 {len(conference['added']):,}、移出 {len(conference['removed']):,}，"
+        f"保留记录元数据变化 {conference['retained_metadata_changes']:,} 条。"
+        if dual else
+        f"- 顶会来源内容保持不变：{conference['records_after']:,} 条，实际快照仍为 {conference['snapshot_after']}。"
+    )
     lines = [
-        f"# arXiv 来源刷新记录 · {receipt['date']}", "",
-        f"基准提交：`{receipt['baseline_commit']}`。本次只刷新 arXiv，不通过改日期制造更新或完整性证明。",
+        f"# {title} · {receipt['date']}", "",
+        f"基准提交：`{receipt['baseline_commit']}`。{scope}，不通过改日期制造更新或完整性证明。",
         "", "| 指标 | 刷新前 | 刷新后 |", "|---|---:|---:|",
         f"| arXiv 快照 | {arxiv['snapshot_before']} | {arxiv['snapshot_after']} |",
         f"| 原始提交日期窗口（含首尾） | {arxiv['window_before']['start']} 至 {arxiv['window_before']['end']} | {arxiv['window_after']['start']} 至 {arxiv['window_after']['end']} |",
     ]
+    if dual:
+        lines.extend([
+            f"| 顶会索引快照（非论文发表日期） | {conference['snapshot_before']} | {conference['snapshot_after']} |",
+            f"| 顶会来源记录 | {conference['records_before']:,} | {conference['records_after']:,} |",
+        ])
     for field, label in (
         ("candidate_records", "实际候选"),
         ("api_declared_candidate_records", "API 声明候选"),
@@ -244,9 +350,9 @@ def render_receipt(receipt: dict) -> str:
         f"- 新增 {len(arxiv['added']):,} 条，移出 {len(arxiv['removed']):,} 条；其中滚动窗口移出 {arxiv['removed_outside_new_window']:,} 条，仍在新窗口但本次未出现 {arxiv['missing_within_new_window']:,} 条。",
         f"- 新增收录中，{arxiv['added_published_after_previous_snapshot']:,} 条原始发表于旧快照之后；{arxiv['added_published_on_or_before_previous_snapshot']:,} 条原始发表于旧快照截止日或更早。新增收录不等于全部是本周新发表。",
         f"- 保留 {arxiv['retained_records']:,} 条；完整记录字段发生变化的保留记录 {arxiv['retained_metadata_changes']:,} 条。数量变化不是新增数量，元数据变化也不等于新论文。",
-        f"- 顶会来源内容保持不变：{conference['records_after']:,} 条，实际快照仍为 {conference['snapshot_after']}。",
+        conference_change,
         f"- 窗口内未收录中，{arxiv['verified_no_longer_admitted']} 条已核对为来源元数据修订后不再满足现有纳入规则；{arxiv['unresolved_in_window_absences']} 条原因待核实。窗口移出不表示撤稿，规则排除也不证明论文无关。",
-        "", "## 新增与移出明细", "",
+        "", "## arXiv 新增与移出明细" if dual else "## 新增与移出明细", "",
         "新增使用刷新后当前三级分类；移出展示基准中最后已观察分类，不冒充本次重新核实。",
     ])
     for name, records in (("新增", arxiv["added"]), ("移出", arxiv["removed"])):
@@ -262,6 +368,33 @@ def render_receipt(receipt: dict) -> str:
                 reason = "元数据修订后未满足现有纳入规则（非已确认撤稿）"
             path = " → ".join(cell(paper[key]) for key in ("track", "subcategory", "specialty"))
             lines.append(f"| {cell(paper['id'])} | [{cell(paper['title'])}]({paper['paper_url']}) | {paper['published']} | {path} | {cell(paper['classification_status'])} | {reason} |")
+    if dual:
+        lines.extend([
+            "", "## 顶会来源变化", "",
+            f"- 索引年份范围：刷新前 {conference['window_before']}，刷新后 {conference['window_after']}；具体检索会议和纳入边界以来源数据及覆盖报告为准。",
+            "- 本仓库来源目录已经按标题去重；身份匹配优先使用来源 ID，否则使用标准化标题与 venue 的确定性书目键。year 和 URL 是可更新元数据，纠正年份或换链接不是新增论文；同题匹配不是全文版本认证。",
+            "- 以下 year、venue、阅读及来源链接均保留索引原值；本次新增收录不表示新近发表或录用，移出也不表示撤稿。保留记录明细展示刷新后元数据。",
+        ])
+        for label, records in (("新增", conference["added"]), ("移出", conference["removed"]),
+                               ("保留记录的元数据变化", conference["retained_metadata_changed_records"])):
+            lines.extend(["", f"### 顶会{label}（{len(records):,} 条）", ""])
+            displayed = records
+            if label == "保留记录的元数据变化":
+                displayed = records[:20]
+                omitted = f"；其余 {len(records) - 20:,} 条已截断" if len(records) > 20 else "；未截断"
+                lines.extend([f"本节共 {len(records):,} 条，当前展示前 {len(displayed)} 条{omitted}。完整明细保留在[同日 JSON 收据](../data/catalog-refresh-{receipt['date']}.json)。", ""])
+            if not records:
+                lines.append("无。")
+                continue
+            lines.extend(["| 记录 ID | 标题 | year | venue | 来源链接 | 身份策略 |",
+                          "|---|---|---:|---|---|---|"])
+            for paper in displayed:
+                lines.append(f"| {cell(paper['id'])} | [{cell(paper['title'])}]({paper['paper_url']}) | {paper['year']} | {cell(paper['venue'])} | [来源]({paper['official_url']}) | {cell(paper['identity_strategy'])} |")
+        if conference.get("removal_admission_review"):
+            lines.extend(["", "### 顶会移出记录的来源复核", "",
+                          "以下依据输入的来源核验理由记录：摘要补全后不满足现有纳入条件（触发现有排除规则），非撤稿；不把规则排除等同于论文无关。", ""])
+            for review in conference["removal_admission_review"]:
+                lines.append(f"- [{cell(review['title'])}]({review['official_url']}) · {cell(review['venue'])} {review['year']} · {cell(review['reason'])}")
     if arxiv["verified_no_longer_admitted"]:
         lines.extend(["", "### 窗口内未收录的来源复核", "",
                       "以下记录仍含 cs.RO 分类，官方 API 按 ID 复核后，当前标题/摘要的纳入函数均返回空结果。不是类别移出或已确认撤稿；现有词表可能漏掉相关工作。", ""])
@@ -304,6 +437,8 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--date", required=True, help="snapshot day YYYY-MM-DD")
     parser.add_argument("--check", action="store_true", help="compare saved receipts without writing")
     parser.add_argument("--admission-review", type=Path, help="optional verified in-window absence review JSON")
+    parser.add_argument("--allow-conference-refresh", action="store_true",
+                        help="explicitly record a separately refreshed conference source alongside arXiv")
     args = parser.parse_args(argv)
     try:
         snapshot_date = iso_day(args.date)
@@ -314,13 +449,14 @@ def main(argv: list[str] | None = None) -> int:
         before_bytes = subprocess.check_output(["git", "show", f"{baseline}:{ARXIV_SOURCE}"], cwd=ROOT)
         old_conference_bytes = subprocess.check_output(["git", "show", f"{baseline}:{CONFERENCE_SOURCE}"], cwd=ROOT)
         conference_bytes = (ROOT / CONFERENCE_SOURCE).read_bytes()
-        if old_conference_bytes != conference_bytes:
+        if not args.allow_conference_refresh and old_conference_bytes != conference_bytes:
             raise ValueError("conference source bytes changed; this receipt is arXiv-only")
         receipt = build_receipt(
             json.loads(before_bytes), json.loads((ROOT / ARXIV_SOURCE).read_text(encoding="utf-8")),
             (json.loads(old_conference_bytes), json.loads(conference_bytes)), baseline, snapshot_date,
             admission_review=(json.loads(args.admission_review.read_text(encoding="utf-8"))
                               if args.admission_review else None),
+            allow_conference_refresh=args.allow_conference_refresh,
         )
         outputs = {
             ROOT / "docs" / f"catalog-refresh-{snapshot_date}.md": render_receipt(receipt),

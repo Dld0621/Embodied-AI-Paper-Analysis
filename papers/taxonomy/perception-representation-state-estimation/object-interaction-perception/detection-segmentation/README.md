@@ -1,12 +1,12 @@
 # Detection & Segmentation · 物体检测与分割
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Object%20%26%20Interaction%20Perception&specialty=Detection%20%26%20Segmentation#research-workbench)
 
-> 23 conference papers · 530 recent arXiv papers
+> 23 conference papers · 529 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,21 +24,21 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | DRUM: Diffusion-based Raydrop-aware Unpaired Mapping for Sim2Real LiDAR Segmentation | ICRA · Sim2Real | [Paper](https://arxiv.org/abs/2603.26263) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697452) | rule-assigned |
+| 2026 | DRUM: Diffusion-based Raydrop-aware Unpaired Mapping for Sim2Real LiDAR Segmentation | ICRA · Sim2Real | [Paper](https://arxiv.org/pdf/2603.26263) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697452) | rule-assigned |
 | 2026 | Multi-state Consistency Visual Language Model Combine Wavelet Transform for Weakly Supervised Robot Image Segmentation | ICRA · Language Model | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696915) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696915) | rule-assigned |
 | 2025 | 2HandedAfforder: Learning Precise Actionable Bimanual Affordances from Human Videos | ICCV · Bimanual | [Paper](https://arxiv.org/pdf/2503.09320) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01368) | rule-assigned |
-| 2025 | Domain Randomization for Object Detection in Manufacturing Applications Using Synthetic Data: A Comprehensive Study | ICRA · Synthetic Data | [Paper](https://arxiv.org/abs/2506.07539) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128647) | rule-assigned |
-| 2025 | VLM-Vac: Enhancing Smart Vacuums Through VLM Knowledge Distillation and Language-Guided Experience Replay | ICRA · Vlm | [Paper](https://arxiv.org/abs/2409.14096) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128167) | rule-assigned |
+| 2025 | Domain Randomization for Object Detection in Manufacturing Applications Using Synthetic Data: A Comprehensive Study | ICRA · Synthetic Data | [Paper](https://arxiv.org/pdf/2506.07539) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128647) | rule-assigned |
+| 2025 | VLM-Vac: Enhancing Smart Vacuums Through VLM Knowledge Distillation and Language-Guided Experience Replay | ICRA · Vlm | [Paper](https://arxiv.org/pdf/2409.14096) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128167) | rule-assigned |
 | 2025 | Interactive Object Detection by Mitigating Uncertainty of Robot Task Plans using Large Language Model | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246834) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246834) | rule-assigned |
 | 2024 | LASO: Language-Guided Affordance Segmentation on 3D Object | CVPR · Affordance | [Paper](https://doi.org/10.1109/CVPR52733.2024.01351) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01351) | rule-assigned |
 | 2024 | SUGAR : Pre-training 3D Visual Representations for Robotics | CVPR · Visual Representation | [Paper](https://arxiv.org/pdf/2404.01491) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01709) | rule-assigned |
 | 2024 | Empowering Embodied Visual Tracking with Visual Foundation Models and Offline RL | ECCV · Foundation Model | [Paper](https://arxiv.org/abs/2404.09857) · [Index](https://dblp.org/rec/journals/corr/abs-2404-09857) | rule-assigned |
 | 2024 | Action-By-Detection: Efficient Forklift Action Detection for Autonomous Mobile Robots in Warehouses | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611659) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611659) | rule-assigned |
 | 2024 | Few-Shot Panoptic Segmentation With Foundation Models | ICRA · Foundation Model | [Paper](https://arxiv.org/pdf/2309.10726) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611624) | rule-assigned |
-| 2024 | RoboLLM: Robotic Vision Tasks Grounded on Multimodal Large Language Models | ICRA · Large Language Model | [Paper](https://eprints.gla.ac.uk/320032/3/320032.pdf) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610797) | rule-assigned |
+| 2024 | RoboLLM: Robotic Vision Tasks Grounded on Multimodal Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2310.10221) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610797) | rule-assigned |
 | 2024 | Tree Instance Segmentation and Traits Estimation for Forestry Environments Exploiting LiDAR Data Collected by Mobile Robots | ICRA · Mobile Robot | [Paper](https://www.dora.lib4ri.ch/wsl/dload/wsl:37257/PDF2/view) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611169) | rule-assigned |
-| 2024 | Extrinsic Calibration of Multiple LiDARs for a Mobile Robot based on Floor Plane And Object Segmentation | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2403.14161) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802291) | rule-assigned |
-| 2024 | Making the Flow Glow – Robot Perception under Severe Lighting Conditions using Normalizing Flow Gradients | IROS · Robot Perception | [Paper](https://arxiv.org/abs/2412.07565) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801601) | rule-assigned |
+| 2024 | Extrinsic Calibration of Multiple LiDARs for a Mobile Robot based on Floor Plane And Object Segmentation | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2403.14161) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802291) | rule-assigned |
+| 2024 | Making the Flow Glow – Robot Perception under Severe Lighting Conditions using Normalizing Flow Gradients | IROS · Robot Perception | [Paper](https://arxiv.org/pdf/2412.07565) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801601) | rule-assigned |
 | 2024 | Multi-target Tracking with Occlusion Resistance for Mobile Robots in Dynamic Environments* | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS58592.2024.10802834) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802834) | rule-assigned |
 | 2024 | Real-Time Semantic Segmentation in Natural Environments with SAM-assisted Sim-to-Real Domain Transfer | IROS · Sim To Real | [Paper](https://doi.org/10.1109/IROS58592.2024.10801798) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801798) | rule-assigned |
 | 2024 | Semantic Layering in Room Segmentation via LLMs | IROS · Llm | [Paper](https://arxiv.org/pdf/2403.12920) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801361) | rule-assigned |
@@ -48,10 +48,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Demonstrate Once, Imitate Immediately (DOME): Learning Visual Servoing for One-Shot Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2204.02863) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981982) | rule-assigned |
 | 2022 | SESR: Self-Ensembling Sim-to-Real Instance Segmentation for Auto-Store Bin Picking | IROS · Sim To Real | [Paper](https://doi.org/10.1109/IROS47612.2022.9981845) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981845) | rule-assigned |
 
-## Recent arXiv papers (530)
+## Recent arXiv papers (529)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-09 | Beyond the Snowflakes: Disentangling Weather Effects from Confounding Meta-Factors in LiDAR Object Detection | Yiming Yang, Jeremy P. Bos | [Abstract](https://arxiv.org/abs/2610.13891) · [PDF](https://arxiv.org/pdf/2610.13891) | rule-assigned |
+| 2026-10-08 | UltraLight Luma: A Novel Edge-Deployable Perception Network for Crop-Row Segmentation in Agricultural Robotics | Dhanushka Balasingham, Shamod Ginigaddarage, Hanojhan Rajahrajasingh, Nuwan Kodagoda et al. | [Abstract](https://arxiv.org/abs/2610.11764) · [PDF](https://arxiv.org/pdf/2610.11764) | rule-assigned |
 | 2026-10-02 | EmbPASS: Towards Cross-Embodiment Open Panoramic Segmentation | Pujun Guo, Yuanfan Zheng, Fei Teng, Mengfei Duan et al. | [Abstract](https://arxiv.org/abs/2610.03248) · [PDF](https://arxiv.org/pdf/2610.03248) | rule-assigned |
 | 2026-10-01 | Online Planning for Sparse Ground Target Search from a High-Altitude UAV under Partial Observability | Ashik E Rasul, Hyung-Jin Yoon | [Abstract](https://arxiv.org/abs/2610.01067) · [PDF](https://arxiv.org/pdf/2610.01067) | rule-assigned |
 | 2026-10-01 | Lang3DSeg: Annotation-Free Open-Vocabulary 3D Segmentation with Point Transformers | Cigdem Kokenoz, Amir Salarpour, Alkim Domeke, Christopher Salas et al. | [Abstract](https://arxiv.org/abs/2610.00855) · [PDF](https://arxiv.org/pdf/2610.00855) | rule-assigned |
@@ -579,9 +581,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-17 | Diver Interest via Pointing in Three Dimensions: 3D Pointing Reconstruction for Diver-AUV Communication | Chelsey Edge, Demetrious Kutzke, Megdalia Bromhal, Junaed Sattar | [Abstract](https://arxiv.org/abs/2310.11536) · [PDF](https://arxiv.org/pdf/2310.11536) | rule-assigned |
 | 2023-10-17 | An empirical study of automatic wildlife detection using drone thermal imaging and object detection | Miao Chang, Tan Vuong, Manas Palaparthi, Lachlan Howell et al. | [Abstract](https://arxiv.org/abs/2310.11257) · [PDF](https://arxiv.org/pdf/2310.11257) | rule-assigned |
 | 2023-10-16 | RoboLLM: Robotic Vision Tasks Grounded on Multimodal Large Language Models | Zijun Long, George Killick, Richard McCreadie, Gerardo Aragon Camarasa | [Abstract](https://arxiv.org/abs/2310.10221) · [PDF](https://arxiv.org/pdf/2310.10221) | rule-assigned |
-| 2023-10-14 | MAC: ModAlity Calibration for Object Detection | Yutian Lei, Jun Liu, Dong Huang | [Abstract](https://arxiv.org/abs/2310.09461) · [PDF](https://arxiv.org/pdf/2310.09461) | rule-assigned |
-| 2023-10-09 | Anyview: Generalizable Indoor 3D Object Detection with Variable Frames | Zhenyu Wu, Xiuwei Xu, Ziwei Wang, Chong Xia et al. | [Abstract](https://arxiv.org/abs/2310.05346) · [PDF](https://arxiv.org/pdf/2310.05346) | rule-assigned |
-| 2023-10-08 | Influence of Camera-LiDAR Configuration on 3D Object Detection for Autonomous Driving | Ye Li, Hanjiang Hu, Zuxin Liu, Xiaohao Xu et al. | [Abstract](https://arxiv.org/abs/2310.05245) · [PDF](https://arxiv.org/pdf/2310.05245) | rule-assigned |
 
 ---
 

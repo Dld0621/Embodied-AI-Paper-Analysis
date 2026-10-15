@@ -1,12 +1,12 @@
 # Flexible & Soft Objects · 柔性与软体物体
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation&specialty=Flexible%20%26%20Soft%20Objects#research-workbench)
 
-> 15 conference papers · 52 recent arXiv papers
+> 15 conference papers · 54 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,25 +25,27 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | Dual Quaternion based Compliant Movement Primitives for Deformable Object Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695696) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695696) | rule-assigned |
-| 2026 | LeHome: A Simulation Environment for Deformable Object Manipulation in Household Scenarios | ICRA · Simulation | [Paper](https://arxiv.org/abs/2604.22363) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696568) | rule-assigned |
-| 2026 | NovaFlow: Zero-Shot Manipulation via Actionable Flow from Generated Videos | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2510.08568) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696411) | rule-assigned |
-| 2025 | Deformpam: Data-Efficient Learning for Long-Horizon Deformable Object Manipulation Via Preference-Based Action Alignment | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2410.11584) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127926) | rule-assigned |
-| 2024 | Collaborative Manipulation of Deformable Objects with Predictive Obstacle Avoidance | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2401.16560) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10609995) | rule-assigned |
-| 2024 | DeformNet: Latent Space Modeling and Dynamics Prediction for Deformable Object Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2402.07648) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611243) | rule-assigned |
-| 2024 | Learning Language-Conditioned Deformable Object Manipulation with Graph Dynamics | ICRA · Language Conditioned | [Paper](https://arxiv.org/abs/2303.01310) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610890) | rule-assigned |
-| 2024 | SculptBot: Pre-Trained Models for 3D Deformable Object Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2309.08728) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610899) | rule-assigned |
+| 2026 | LeHome: A Simulation Environment for Deformable Object Manipulation in Household Scenarios | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2604.22363) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696568) | rule-assigned |
+| 2026 | NovaFlow: Zero-Shot Manipulation via Actionable Flow from Generated Videos | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2510.08568) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696411) | rule-assigned |
+| 2025 | Deformpam: Data-Efficient Learning for Long-Horizon Deformable Object Manipulation Via Preference-Based Action Alignment | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2410.11584) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127926) | rule-assigned |
+| 2024 | Collaborative Manipulation of Deformable Objects with Predictive Obstacle Avoidance | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2401.16560) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10609995) | rule-assigned |
+| 2024 | DeformNet: Latent Space Modeling and Dynamics Prediction for Deformable Object Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2402.07648) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611243) | rule-assigned |
+| 2024 | Learning Language-Conditioned Deformable Object Manipulation with Graph Dynamics | ICRA · Language Conditioned | [Paper](https://arxiv.org/pdf/2303.01310) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610890) | rule-assigned |
+| 2024 | SculptBot: Pre-Trained Models for 3D Deformable Object Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2309.08728) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610899) | rule-assigned |
 | 2023 | Autonomous Manipulation Learning for Similar Deformable Objects via Only One Demonstration | CVPR · Manipulation | [Paper](https://doi.org/10.1109/CVPR52729.2023.01637) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.01637) | rule-assigned |
 | 2023 | Bi-Manual Manipulation of Multi-Component Garments towards Robot-Assisted Dressing | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161335) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161335) | rule-assigned |
-| 2023 | Goal-Conditioned Action Space Reduction for Deformable Object Manipulation | ICRA · Manipulation | [Paper](https://eprints.whiterose.ac.uk/197058/1/ICRA23_1884_FI.pdf) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161541) | rule-assigned |
+| 2023 | Goal-Conditioned Action Space Reduction for Deformable Object Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161541) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161541) | rule-assigned |
 | 2023 | Multi-Dimensional Deformable Object Manipulation Using Equivariant Models | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS55552.2023.10341618) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341618) | rule-assigned |
 | 2023 | SoftGPT: Learn Goal-Oriented Soft Object Manipulation Skills by Generative Pre-Trained Heterogeneous Graph Transformer | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2306.12677) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341846) | rule-assigned |
 | 2022 | ToolFlowNet: Robotic Manipulation with Tools via Predicting Tool Flow from Point Clouds | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2211.09006) · [Index](https://dblp.org/rec/conf/corl/SeitaWSLEH22) | rule-assigned |
 | 2022 | DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object Manipulations with Tools | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2203.17275) · [Index](https://dblp.org/rec/conf/iclr/LinHLTHG22) | rule-assigned |
 
-## Recent arXiv papers (52)
+## Recent arXiv papers (54)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-13 | Physical-Field-Bridged Material Parameter Inference from Multi-View Deformation Videos | Linrui Shou, Jie Li, Yu Liu, Tao Huang | [Abstract](https://arxiv.org/abs/2610.17591) · [PDF](https://arxiv.org/pdf/2610.17591) | rule-assigned |
+| 2026-10-09 | Refine Where It Matters: Contact-Adaptive Meshing for Deformable Object Manipulation | Gabriel Johnson, Tom Olesch, Fei Liu | [Abstract](https://arxiv.org/abs/2610.14142) · [PDF](https://arxiv.org/pdf/2610.14142) | rule-assigned |
 | 2026-09-09 | Deformable Object Manipulation under Partial Observability via Real-Time Full-Shape Estimation | Kosar Behnia, Ville Kyrki, Gokhan Alcan | [Abstract](https://arxiv.org/abs/2609.10308) · [PDF](https://arxiv.org/pdf/2609.10308) | rule-assigned |
 | 2026-09-07 | PhysReal: Learning Real-World Deformable Object Physics via Hybrid Constitutive Modeling | Yinan Deng, Jianqiao Song, Yisi Zhang, Yuhan Wang et al. | [Abstract](https://arxiv.org/abs/2609.07532) · [PDF](https://arxiv.org/pdf/2609.07532) | rule-assigned |
 | 2026-08-11 | TCAM for Autonomous Deformable Manipulation: The RMC2 Champion System for WBCD 2026 Track 4 | Guangrui Shen, Zhili He, Shigang Wang, Yuanjun Sun et al. | [Abstract](https://arxiv.org/abs/2608.10718) · [PDF](https://arxiv.org/pdf/2608.10718) | rule-assigned |

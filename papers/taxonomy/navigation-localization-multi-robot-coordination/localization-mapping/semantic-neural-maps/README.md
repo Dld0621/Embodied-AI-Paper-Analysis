@@ -1,12 +1,12 @@
 # Semantic & Neural Maps · 语义与神经地图
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Semantic%20%26%20Neural%20Maps#research-workbench)
 
-> 46 conference papers · 367 recent arXiv papers
+> 47 conference papers · 366 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,29 +20,30 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (46)
+## Conference papers (47)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | DIPP: A Diffusion-based Potential Planner for Synergistic Navigation and Mapping | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697349) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697349) | rule-assigned |
-| 2026 | DreamFlow: Local Navigation Beyond Observation via Conditional Flow Matching in the Latent Space | ICRA · Navigation | [Paper](https://arxiv.org/abs/2603.02976) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697330) | rule-assigned |
+| 2026 | DreamFlow: Local Navigation Beyond Observation via Conditional Flow Matching in the Latent Space | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2603.02976) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697330) | rule-assigned |
 | 2026 | Find Anything Like Humans: Online Semantic Mapping And Coarse-to-fine Navigation in Dynamic Environments | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696652) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696652) | rule-assigned |
+| 2026 | FineNav: A Versatile Framework Enhancing Ground Robot Navigation in Unstructured Environment | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696015) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696015) | rule-assigned |
 | 2025 | A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.09868) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128723) | rule-assigned |
-| 2025 | BoxMap: Efficient Structural Mapping and Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2410.06263) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127722) | rule-assigned |
+| 2025 | BoxMap: Efficient Structural Mapping and Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2410.06263) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127722) | rule-assigned |
 | 2025 | Graph2Nav: 3D Object-Relation Graph Generation to Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2504.16782) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128782) | rule-assigned |
 | 2025 | Hybrid Decision Making for Scalable Multi-Agent Navigation: Integrating Semantic Maps, Discrete Coordination, and Model Predictive Control | ICRA · Navigation | [Paper](https://research.tue.nl/en/publications/3aef1095-2654-475f-8913-04cec0d9f301) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128657) | rule-assigned |
-| 2025 | Key-Scan-Based Mobile Robot Navigation: Integrated Mapping, Planning, and Control Using Graphs of Scan Regions | ICRA · Navigation | [Paper](https://research.tue.nl/en/publications/16bca8a8-25a9-4967-91bb-69d49f844313) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128158) | rule-assigned |
-| 2025 | One Map to Find Them All: Real-time Open-Vocabulary Mapping for Zero-shot Multi-Object Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.11764) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128393) | rule-assigned |
-| 2025 | Topological Mapping for Traversability-Aware Long-Range Navigation in Off-Road Terrain | ICRA · Navigation | [Paper](https://arxiv.org/abs/2410.01925) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128536) | rule-assigned |
+| 2025 | Key-Scan-Based Mobile Robot Navigation: Integrated Mapping, Planning, and Control Using Graphs of Scan Regions | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.13838) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128158) | rule-assigned |
+| 2025 | One Map to Find Them All: Real-time Open-Vocabulary Mapping for Zero-shot Multi-Object Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.11764) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128393) | rule-assigned |
+| 2025 | Topological Mapping for Traversability-Aware Long-Range Navigation in Off-Road Terrain | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2410.01925) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128536) | rule-assigned |
 | 2025 | 2.5D Object Mapping using Gaussian Processes for Robot Navigation | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246400) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246400) | rule-assigned |
 | 2025 | A Two-Stage Lightweight Framework for Efficient Land-Air Bimodal Robot Autonomous Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2507.22473) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247481) | rule-assigned |
-| 2025 | Enhancing Deep Reinforcement Learning-based Robot Navigation Generalization through Scenario Augmentation | IROS · Navigation | [Paper](https://arxiv.org/abs/2503.01146) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247307) | rule-assigned |
+| 2025 | Enhancing Deep Reinforcement Learning-based Robot Navigation Generalization through Scenario Augmentation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2503.01146) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247307) | rule-assigned |
 | 2025 | Experimental Evaluation of Radio-aware Semantic Map with 5G-Enabled Mobile Robots | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS60139.2025.11246785) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246785) | rule-assigned |
-| 2025 | Language as Cost: Proactive Hazard Mapping using VLM for Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2508.03138) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246665) | rule-assigned |
-| 2025 | Online Hierarchical Policy Learning using Physics Priors for Robot Navigation in Unknown Environments | IROS · Navigation | [Paper](https://arxiv.org/abs/2510.01519) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247318) | rule-assigned |
+| 2025 | Language as Cost: Proactive Hazard Mapping using VLM for Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2508.03138) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246665) | rule-assigned |
+| 2025 | Online Hierarchical Policy Learning using Physics Priors for Robot Navigation in Unknown Environments | IROS · Navigation | [Paper](https://arxiv.org/pdf/2510.01519) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247318) | rule-assigned |
 | 2025 | OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions | IROS · Semantic Mapping | [Paper](https://arxiv.org/pdf/2503.10331) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247603) | rule-assigned |
 | 2024 | Context-Aware Replanning with Pre-explored Semantic Map for Object Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2409.04837) · [Index](https://dblp.org/rec/journals/corr/abs-2409-04837) | rule-assigned |
-| 2024 | AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments | ICRA · Navigation | [Paper](https://arxiv.org/abs/2403.11607) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610829) | rule-assigned |
+| 2024 | AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2403.11607) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610829) | rule-assigned |
 | 2024 | Covariance Based Terrain Mapping for Autonomous Mobile Robots | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610010) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610010) | rule-assigned |
 | 2024 | Robot Navigation in Unseen Environments using Coarse Maps | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611256) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611256) | rule-assigned |
 | 2024 | A Language-Driven Navigation Strategy Integrating Semantic Maps and Large Language Models | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS58592.2024.10802631) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802631) | rule-assigned |
@@ -53,28 +54,33 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Volumetric Mapping with Panoptic Refinement using Kernel Density Estimation for Mobile Robots | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2412.11241) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802224) | rule-assigned |
 | 2024 | Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation | RSS · 3D Scene | [Paper](https://arxiv.org/pdf/2403.17846) · [Publisher](https://doi.org/10.15607/RSS.2024.XX.077) | rule-assigned |
 | 2023 | Learning Navigational Visual Representations with Semantic Map Supervision | ICCV · Navigation | [Paper](https://arxiv.org/pdf/2307.12335) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.00284) | rule-assigned |
-| 2023 | Multi-label affordance mapping from egocentric vision | ICCV · Affordance | [Paper](https://zaguan.unizar.es/record/132130/files/texto_completo.pdf) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.00483) | rule-assigned |
+| 2023 | Multi-label affordance mapping from egocentric vision | ICCV · Affordance | [Paper](https://arxiv.org/pdf/2309.02120) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.00483) | rule-assigned |
 | 2023 | A real-time dynamic obstacle tracking and mapping system for UAV navigation and collision avoidance with an RGB-D camera | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2209.08258) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161194) | rule-assigned |
 | 2023 | Active Metric-Semantic Mapping by Multiple Aerial Robots | ICRA · Semantic Mapping | [Paper](https://arxiv.org/pdf/2209.08465) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161564) | rule-assigned |
 | 2023 | Convolutional Bayesian Kernel Inference for 3D Semantic Mapping | ICRA · Semantic Mapping | [Paper](https://arxiv.org/pdf/2209.10663) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161360) | rule-assigned |
-| 2023 | RAMP: A Risk-Aware Mapping and Planning Pipeline for Fast Off-Road Ground Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2210.06605) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160602) | rule-assigned |
+| 2023 | RAMP: A Risk-Aware Mapping and Planning Pipeline for Fast Off-Road Ground Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2210.06605) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160602) | rule-assigned |
 | 2023 | Semantic Mapping with Confidence Scores through Metric Embeddings and Gaussian Process Classification | ICRA · Semantic Mapping | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161342) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161342) | rule-assigned |
-| 2023 | Visual Language Maps for Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2210.05714) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160969) | rule-assigned |
+| 2023 | Visual Language Maps for Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2210.05714) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160969) | rule-assigned |
 | 2023 | DMCL: Robot Autonomous Navigation via Depth Image Masked Contrastive Learning | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS55552.2023.10341836) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341836) | rule-assigned |
 | 2023 | Range-based GP Maps: Local Surface Mapping for Mobile Robots using Gaussian Process Regression in Range Space | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS55552.2023.10341949) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341949) | rule-assigned |
 | 2023 | Robust Fusion for Bayesian Semantic Mapping | IROS · Semantic Mapping | [Paper](https://arxiv.org/pdf/2303.07836) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342253) | rule-assigned |
 | 2023 | Weakly Supervised Caveline Detection for AUV Navigation Inside Underwater Caves | IROS · Navigation | [Paper](https://arxiv.org/pdf/2303.03670) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342435) | rule-assigned |
 | 2022 | Is Mapping Necessary for Realistic PointGoal Navigation? | CVPR · Navigation | [Paper](https://arxiv.org/pdf/2206.00997) · [Publisher](https://doi.org/10.1109/CVPR52688.2022.01672) | rule-assigned |
 | 2022 | Efficient and Robust Semantic Mapping for Indoor Environments | ICRA · Semantic Mapping | [Paper](https://arxiv.org/abs/2203.05836) · [Index](https://dblp.org/rec/journals/corr/abs-2203-05836) | rule-assigned |
-| 2022 | Colonoscopy Navigation using End-to-End Deep Visuomotor Control: A User Study | IROS · Navigation | [Paper](https://upcommons.upc.edu/bitstream/2117/383710/3/IROS_final_revised.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981480) | rule-assigned |
+| 2022 | Colonoscopy Navigation using End-to-End Deep Visuomotor Control: A User Study | IROS · Navigation | [Paper](https://arxiv.org/pdf/2206.15086) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981480) | rule-assigned |
 | 2022 | Deep Reinforcement Learning based Robot Navigation in Dynamic Environments using Occupancy Values of Motion Primitives | IROS · Navigation | [Paper](https://arxiv.org/pdf/2208.08034) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982133) | rule-assigned |
 | 2022 | Mapping of Spatiotemporal Scalar Fields by Mobile Robots using Gaussian Process Regression | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981548) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981548) | rule-assigned |
 | 2022 | Ranging-Aided Ground Robot Navigation Using UWB Nodes at Unknown Locations | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981186) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981186) | rule-assigned |
 
-## Recent arXiv papers (367)
+## Recent arXiv papers (366)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-14 | Tiered-Resolution Volumetric Mapping for Real-Time Simultaneous Planning and Mapping on Natural Outdoor Environments | Afonso E. Carvalho, David Portugal, Paulo Peixoto, George Kantor | [Abstract](https://arxiv.org/abs/2610.20476) · [PDF](https://arxiv.org/pdf/2610.20476) | rule-assigned |
+| 2026-10-13 | CoSMO: Conformal Semantic Mapping for Open-World Safe Robot Navigation | Shuqi Wang, Yiwei Zheng, Pingrui Zhang, Yue Gao et al. | [Abstract](https://arxiv.org/abs/2610.18321) · [PDF](https://arxiv.org/pdf/2610.18321) | rule-assigned |
+| 2026-10-12 | ReForesight: Occlusion-Robust Re-Identification and Future Occupancy Forecasting for Dynamic Semantic Mapping | Didar Seyidov, Faith Ogunwoye, Hajira Amjad, Danil Tolkachev et al. | [Abstract](https://arxiv.org/abs/2610.17279) · [PDF](https://arxiv.org/pdf/2610.17279) | rule-assigned |
+| 2026-10-10 | Persistent LLM Orchestration of Heterogeneous Robot Teams via Partial Delegation to Multi-Agent Protocols | Maria G. Mendoza, Victoria M. Tuck, Zachary Ravichandran, Shankar Sastry et al. | [Abstract](https://arxiv.org/abs/2610.15224) · [PDF](https://arxiv.org/pdf/2610.15224) | rule-assigned |
+| 2026-10-09 | Mapping Tire-Road Friction Coefficients Along Driven Trajectories | Risto Ojala | [Abstract](https://arxiv.org/abs/2610.14235) · [PDF](https://arxiv.org/pdf/2610.14235) | rule-assigned |
 | 2026-10-05 | FOCUS: Fine-Grained Open-Vocabulary Change Detection for Uncertainty-Aware Semi-Static Scenes | Can Xu, Mingfeng Yuan, Mahan Mohammadi, Steven L. Waslander | [Abstract](https://arxiv.org/abs/2610.05639) · [PDF](https://arxiv.org/pdf/2610.05639) | rule-assigned |
 | 2026-10-01 | GlassGuard: Verified Glass Plane Mapping for Robot Navigation | Hanwen Guo, Zhengzhi Lin, Yusen Xie, Ji Zhang | [Abstract](https://arxiv.org/abs/2610.02110) · [PDF](https://arxiv.org/pdf/2610.02110) | rule-assigned |
 | 2026-09-30 | Toward Controlling Biology with Language:Offline Learning of Prompt-Conditioned Interventions for Cells, Organoids, and Biobots | Nam H. Le, Douglas Blackiston, Michael Levin, Josh Bongard | [Abstract](https://arxiv.org/abs/2610.02247) · [PDF](https://arxiv.org/pdf/2610.02247) | rule-assigned |
@@ -175,7 +181,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-02-27 | Acceleration-Based Control of Fixed-Wing UAVs for Guidance Applications | Jixiang Wang, Siyuan Yang, Ziyi Wu, Siqi Wei et al. | [Abstract](https://arxiv.org/abs/2602.23821) · [PDF](https://arxiv.org/pdf/2602.23821) | rule-assigned |
 | 2026-02-21 | Scout-Rover cooperation: online terrain strength mapping and traversal risk estimation for planetary-analog explorations | Shipeng Liu, J. Diego Caporale, Yifeng Zhang, Xingjue Liao et al. | [Abstract](https://arxiv.org/abs/2602.18688) · [PDF](https://arxiv.org/pdf/2602.18688) | rule-assigned |
 | 2026-02-13 | SignScene: Visual Sign Grounding for Mapless Navigation | Nicky Zimmerman, Joel Loo, Benjamin Koh, Zishuo Wang et al. | [Abstract](https://arxiv.org/abs/2602.12686) · [PDF](https://arxiv.org/pdf/2602.12686) | rule-assigned |
-| 2026-02-13 | INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval | YukTungSamuel Fang, Zhikang Shi, Jiabin Qiu, Zixuan Chen et al. | [Abstract](https://arxiv.org/abs/2602.12971) · [PDF](https://arxiv.org/pdf/2602.12971) | rule-assigned |
 | 2026-02-13 | Hemispherical Angular Power Mapping of Installed mmWave Radar Modules Under Realistic Deployment Constraints | Maaz Qureshi, Mohammad Omid Bagheri, William Melek, George Shaker | [Abstract](https://arxiv.org/abs/2602.12584) · [PDF](https://arxiv.org/pdf/2602.12584) | rule-assigned |
 | 2026-02-12 | LatentAM: Real-Time, Large-Scale Latent Gaussian Attention Mapping via Online Dictionary Learning | Junwoon Lee, Yulun Tian | [Abstract](https://arxiv.org/abs/2602.12314) · [PDF](https://arxiv.org/pdf/2602.12314) | rule-assigned |
 | 2026-02-11 | Safe mobility support system using crowd mapping and avoidance route planning using VLM | Sena Saito, Kenta Tabata, Renato Miyagusuku, Koichi Ozaki | [Abstract](https://arxiv.org/abs/2602.10910) · [PDF](https://arxiv.org/pdf/2602.10910) | rule-assigned |
@@ -437,11 +442,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-19 | RMap: Millimeter-Wave Radar Mapping Through Volumetric Upsampling | Ajay Narasimha Mopidevi, Kyle Harlow, Christoffer Heckman | [Abstract](https://arxiv.org/abs/2310.13188) · [PDF](https://arxiv.org/pdf/2310.13188) | rule-assigned |
 | 2023-10-18 | Asynchronous Distributed Smoothing and Mapping via On-Manifold Consensus ADMM | Daniel McGann, Kyle Lassak, Michael Kaess | [Abstract](https://arxiv.org/abs/2310.12320) · [PDF](https://arxiv.org/pdf/2310.12320) | rule-assigned |
 | 2023-10-16 | Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People | Dharmateja Adapa, Virendra Singh Shekhawat, Avinash Gautam, Sudeept Mohan | [Abstract](https://arxiv.org/abs/2310.10290) · [PDF](https://arxiv.org/pdf/2310.10290) | rule-assigned |
-| 2023-10-11 | LESS-Map: Lightweight and Evolving Semantic Map in Parking Lots for Long-term Self-Localization | Mingrui Liu, Xinyang Tang, Yeqiang Qian, Jiming Chen et al. | [Abstract](https://arxiv.org/abs/2310.07390) · [PDF](https://arxiv.org/pdf/2310.07390) | rule-assigned |
-| 2023-10-11 | DESTINE: Dynamic Goal Queries with Temporal Transductive Alignment for Trajectory Prediction | Rezaul Karim, Soheil Mohamad Alizadeh Shabestary, Amir Rasouli | [Abstract](https://arxiv.org/abs/2310.07438) · [PDF](https://arxiv.org/pdf/2310.07438) | rule-assigned |
-| 2023-10-10 | Pre-Trained Masked Image Model for Mobile Robot Navigation | Vishnu Dutt Sharma, Anukriti Singh, Pratap Tokekar | [Abstract](https://arxiv.org/abs/2310.07021) · [PDF](https://arxiv.org/pdf/2310.07021) | rule-assigned |
-| 2023-10-10 | D2M2N: Decentralized Differentiable Memory-Enabled Mapping and Navigation for Multiple Robots | Md Ishat-E-Rabban, Pratap Tokekar | [Abstract](https://arxiv.org/abs/2310.07070) · [PDF](https://arxiv.org/pdf/2310.07070) | rule-assigned |
-| 2023-10-09 | FeatSense -- A Feature-based Registration Algorithm with GPU-accelerated TSDF-Mapping Backend for NVIDIA Jetson Boards | Julian Gaal, Thomas Wiemann, Alexander Mock, Mario Porrmann | [Abstract](https://arxiv.org/abs/2310.05766) · [PDF](https://arxiv.org/pdf/2310.05766) | rule-assigned |
 
 ---
 

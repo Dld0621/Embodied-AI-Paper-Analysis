@@ -1,7 +1,7 @@
 # Language-model Planning · 语言模型辅助规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Task%20Reasoning%20%26%20Planning&specialty=Language-model%20Planning#research-workbench)
@@ -24,15 +24,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | LLM-Driven Corrective Robot Operation Code Generation with Static Text-Based Simulation | ICRA · Llm | [Paper](https://arxiv.org/abs/2512.02002) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696332) | rule-assigned |
+| 2026 | LLM-Driven Corrective Robot Operation Code Generation with Static Text-Based Simulation | ICRA · Llm | [Paper](https://arxiv.org/pdf/2512.02002) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696332) | rule-assigned |
 | 2025 | AutoMisty: A Multi-Agent LLM Framework for Automated Code Generation in the Misty Social Robot | IROS · Llm | [Paper](https://arxiv.org/abs/2503.06791) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247695) | rule-assigned |
-| 2025 | Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation | IROS · Foundation Model | [Paper](https://arxiv.org/abs/2503.01700) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247174) | rule-assigned |
+| 2025 | Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation | IROS · Foundation Model | [Paper](https://arxiv.org/pdf/2503.01700) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247174) | rule-assigned |
 | 2024 | Trust the PRoC3S: Solving Long-Horizon Robotics Problems with LLMs and Constraint Satisfaction | CoRL · Llm | [Paper](https://arxiv.org/abs/2406.05572) · [Index](https://dblp.org/rec/journals/corr/abs-2406-05572) | rule-assigned |
 
 ## Recent arXiv papers (40)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | iAm.md: Robot Skill Self-Assessment through Agentic Introspection for Unknown Open-Vocabulary Domains | Vincenzo Guarino, Emanuele Musumeci, Vincenzo Suriani, Daniele Nardi | [Abstract](https://arxiv.org/abs/2610.10962) · [PDF](https://arxiv.org/pdf/2610.10962) | rule-assigned |
 | 2026-10-07 | Adaptive Code Generation for Controlling Robots | Justus Flerlage, Thorsten Wittkopp, Alexander Acker, Odej Kao | [Abstract](https://arxiv.org/abs/2610.09588) · [PDF](https://arxiv.org/pdf/2610.09588) | rule-assigned |
 | 2026-09-23 | RegenHarness: A Robot Agent Harness with Evidence-Gated Recursive Self-Improvement | Kailin Wang, Haoxiang Jie, Yaoyuan Yan, Zhiyou Heng et al. | [Abstract](https://arxiv.org/abs/2609.27612) · [PDF](https://arxiv.org/pdf/2609.27612) | rule-assigned |
 | 2026-08-20 | World-Model-Grounded LLM Planning for AUV and ASV Navigation Near Offshore Wind Farms | Markus Buchholz, Ignacio Carlucho, Yvan R. Petillot | [Abstract](https://arxiv.org/abs/2608.19661) · [PDF](https://arxiv.org/pdf/2608.19661) | rule-assigned |
@@ -72,7 +73,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-29 | Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning | Yingdong Hu, Fanqi Lin, Tong Zhang, Li Yi et al. | [Abstract](https://arxiv.org/abs/2311.17842) · [PDF](https://arxiv.org/pdf/2311.17842) | rule-assigned |
 | 2023-10-16 | Video Language Planning | Yilun Du, Mengjiao Yang, Pete Florence, Fei Xia et al. | [Abstract](https://arxiv.org/abs/2310.10625) · [PDF](https://arxiv.org/pdf/2310.10625) | rule-assigned |
 | 2023-10-16 | BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology | Odhran O'Donoghue, Aleksandar Shtedritski, John Ginger, Ralph Abboud et al. | [Abstract](https://arxiv.org/abs/2310.10632) · [PDF](https://arxiv.org/pdf/2310.10632) | rule-assigned |
-| 2023-10-10 | Forgetful Large Language Models: Lessons Learned from Using LLMs in Robot Programming | Juo-Tung Chen, Chien-Ming Huang | [Abstract](https://arxiv.org/abs/2310.06646) · [PDF](https://arxiv.org/pdf/2310.06646) | rule-assigned |
 
 ---
 

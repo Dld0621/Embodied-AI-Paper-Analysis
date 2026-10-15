@@ -1,7 +1,7 @@
 # Grasp Force & Impedance Control · 抓取力与阻抗控制
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Multifinger%20Grasping%20%26%20Control&specialty=Grasp%20Force%20%26%20Impedance%20Control#research-workbench)
@@ -28,7 +28,7 @@ No conference papers currently map to this specialty.
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
-| 2026-09-25 | VisTacAlign: Co-Training Dexterous Policies on Tactile Human and Robot Demonstrations | Julien Poffet, Matthew Strong, Ankush Dhawan, Baiyu Shi et al. | [Abstract](https://arxiv.org/abs/2609.30959) · [PDF](https://arxiv.org/pdf/2609.30959) | rule-assigned |
+| 2026-09-25 | VisTacAlign: Co-Training Dexterous Policies on Tactile Human and Robot Demonstrations using Visual-Tactile Alignment | Julien Poffet, Matthew Strong, Ankush Dhawan, Baiyu Shi et al. | [Abstract](https://arxiv.org/abs/2609.30959) · [PDF](https://arxiv.org/pdf/2609.30959) | rule-assigned |
 | 2026-09-22 | VisForce: Visual Grounding of Current and Desired Forces for Goal-Conditioned Dexterous Manipulation | Jung-Woo Lee, Soo-Chul Lim | [Abstract](https://arxiv.org/abs/2609.25785) · [PDF](https://arxiv.org/pdf/2609.25785) | rule-assigned |
 | 2026-07-10 | One-Shot Multimodal Learning from Demonstration with Force-Constrained Elastic Maps | Brendan Hertel, Jonathan Spanos, Navya Garg, Reza Azadeh | [Abstract](https://arxiv.org/abs/2607.09515) · [PDF](https://arxiv.org/pdf/2607.09515) | rule-assigned |
 | 2024-12-10 | Torsion Resistant Strain Limiting Layers Enable High Grip Strength of Electrically-Driven Handed Shearing Auxetic Grippers | Ian Good, Srivatsan Balaji, Jeffrey I. Lipton | [Abstract](https://arxiv.org/abs/2412.07976) · [PDF](https://arxiv.org/pdf/2412.07976) | rule-assigned |

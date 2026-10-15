@@ -1,13 +1,34 @@
-# Retargeting · 201–276
+# Retargeting · 201–296
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Topic index](retargeting.md)
 
 | Paper | Source layer | Primary path | Classification status |
 |---|---|---|---|
+| [GIFT: Glove-Inferred Force Transfer: Force-Aware Human-to-Robot Skill Transfer from a Wearable Sensing Glove to a Robot Hand Without Tactile Sensors](https://arxiv.org/abs/2609.14173) | arxiv · arXiv | Robot Hardware & Systems → Mechanisms & Actuation → Actuators & Transmission | rule-assigned |
+| [MIDAS Hand: Modular low-Impedance Direct-drive Anthropomorphic Sensing Hand](https://arxiv.org/abs/2607.14487) | arxiv · arXiv | Robot Hardware & Systems → Mechanisms & Actuation → Actuators & Transmission | rule-assigned |
+| [PACT: Posture-Aligned Co-Design Technique for Hand Configuration and Retargeting in Multi-Finger Imitation Learning](https://arxiv.org/abs/2610.18443) | arxiv · arXiv | Robot Hardware & Systems → Mechanisms & Actuation → Hands, Grippers & Arms | reviewed |
+| [SEED-UMI: Sharing the Exoskeleton between human and robot for onE-to-one Dexterous demonstration](https://arxiv.org/abs/2609.11753) | arxiv · arXiv | Robot Hardware & Systems → Sensors & Human Interfaces → Motion Capture & Wearables | rule-assigned |
+| [Towards Embodied AI with MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale](https://arxiv.org/abs/2603.25544) | arxiv · arXiv | Robot Hardware & Systems → Mechanisms & Actuation → Actuators & Transmission | rule-assigned |
+| [Universal Manipulation Exoskeleton: Learning Compliant Whole-body Policies with Real-time Torque Feedback](https://arxiv.org/abs/2606.14218) | arxiv · arXiv | Robot Hardware & Systems → Sensors & Human Interfaces → Pending specialty review | needs-review |
+| [DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation](https://arxiv.org/abs/2609.20649) | arxiv · arXiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Latent Dynamics | rule-assigned |
+| [LD4WAM: Learning Latent Dynamics from Human Videos for World Action Models](https://arxiv.org/abs/2608.22403) | arxiv · arXiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Latent Dynamics | rule-assigned |
+| [Robot-Factored World Models via Robot Rendering](https://arxiv.org/abs/2607.22535) | arxiv · arXiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Action-conditioned Video Prediction | rule-assigned |
+| [Robots Need More than VLA and World Models](https://arxiv.org/abs/2606.06556) | arxiv · arXiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Latent Dynamics | rule-assigned |
+| [RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation](https://arxiv.org/abs/2607.06558) | arxiv · arXiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Latent Dynamics | rule-assigned |
+| [HOGraspFlow: Taxonomy-Aware Hand-Object Retargeting for Multi-Modal SE(3) Grasp Generation](https://arxiv.org/abs/2509.16871) | arxiv · arXiv | Arm & General Object Manipulation → Grasping & Pick-place → Gripper & Suction Grasp Planning | reviewed |
+| [U-LAG: Uncertainty-Aware, Lag-Adaptive Goal Retargeting for Robotic Manipulation](https://arxiv.org/abs/2510.02526) | arxiv · arXiv | Arm & General Object Manipulation → Contact-rich Manipulation → Insertion & Assembly | rule-assigned |
+| [LLM Trainer: Automated Robotic Data Generation via Demonstration Augmentation using LLMs](https://arxiv.org/abs/2509.20070) | arxiv · arXiv | Data, Simulation & Evaluation → Synthetic & Augmented Data → Pending specialty review | needs-review |
+| [MILE: A Mechanically Isomorphic Hand Exoskeleton and Visuotactile Robotic Hand for Data Collection in Dexterous Manipulation](https://arxiv.org/abs/2512.00324) | arxiv · arXiv | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | needs-review |
+| [OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction](https://arxiv.org/abs/2509.26633) | arxiv · arXiv | Data, Simulation & Evaluation → Synthetic & Augmented Data → Generative Data Augmentation | rule-assigned |
+| [PHUMA: Physically Reliable Humanoid Locomotion Dataset](https://arxiv.org/abs/2510.26236) | arxiv · arXiv | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | needs-review |
+| [Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization](https://arxiv.org/abs/2502.20382) | arxiv · arXiv | Data, Simulation & Evaluation → Synthetic & Augmented Data → Pending specialty review | needs-review |
+| [RoboWheel: A Data Engine from Real-World Human Demonstrations for Cross-Embodiment Robotic Learning](https://arxiv.org/abs/2512.02729) | arxiv · arXiv | Data, Simulation & Evaluation → Synthetic & Augmented Data → Cross-robot Data Conversion | rule-assigned |
+| [Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation](https://arxiv.org/abs/2506.09384) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Kinematic & Pose Retargeting | reviewed |
+| [CaFe-TeleVision: A Coarse-to-Fine Teleoperation System with Immersive Situated Visualization for Enhanced Ergonomics](https://arxiv.org/abs/2512.14270) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Teleoperation & Shared Control → Vision, Gloves & XR Input | rule-assigned |
 | [DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and Interaction](https://arxiv.org/abs/2505.01083) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Contact & Functional Retargeting | reviewed |
 | [DexForce: Extracting Force-informed Actions from Kinesthetic Demonstrations for Dexterous Manipulation](https://arxiv.org/abs/2501.10356) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Human Demonstrations to Dexterous Skills → Video-to-robot Demonstrations | rule-assigned |
 | [DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation](https://arxiv.org/abs/2505.24853) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Contact & Functional Retargeting | reviewed |
@@ -83,4 +104,3 @@
 | [Hand-Object Interaction Pretraining from Videos](https://arxiv.org/abs/2409.08273) | arxiv · arXiv | Perception, Representation & State Estimation → Human & Hand-object Perception → Hand-object Interaction Reconstruction | rule-assigned |
 | [Language-Model-Assisted Bi-Level Programming for Reward Learning from Internet Videos](https://arxiv.org/abs/2410.09286) | arxiv · arXiv | Policy Learning & Embodied Foundation Models → Reinforcement Learning → Online Reinforcement Learning | rule-assigned |
 | [Multi-Contact Whole-Body Force Control for Position-Controlled Robots](https://arxiv.org/abs/2312.16465) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |
-| [Words into Action: Learning Diverse Humanoid Robot Behaviors using Language Guided Iterative Motion Refinement](https://arxiv.org/abs/2310.06226) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |

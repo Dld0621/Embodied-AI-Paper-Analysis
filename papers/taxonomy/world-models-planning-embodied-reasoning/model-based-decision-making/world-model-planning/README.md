@@ -1,12 +1,12 @@
 # World-model Planning · 世界模型辅助规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Model-based%20Decision%20Making&specialty=World-model%20Planning#research-workbench)
 
-> 1 conference papers · 19 recent arXiv papers
+> 1 conference papers · 20 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,12 +24,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | IMPASTO: Integrating Model-Based Planning with Learned Dynamics Models for Robotic Oil Painting Reproduction | ICRA · Dynamics Model | [Paper](https://arxiv.org/abs/2603.29315) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696393) | rule-assigned |
+| 2026 | IMPASTO: Integrating Model-Based Planning with Learned Dynamics Models for Robotic Oil Painting Reproduction | ICRA · Dynamics Model | [Paper](https://arxiv.org/pdf/2603.29315) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696393) | rule-assigned |
 
-## Recent arXiv papers (19)
+## Recent arXiv papers (20)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-14 | Back on Track: Deployment-time Policy Improvement via World Model Planning | Colton Crosby, Hao Wang, Mac Schwager, Somil Bansal | [Abstract](https://arxiv.org/abs/2610.19579) · [PDF](https://arxiv.org/pdf/2610.19579) | rule-assigned |
+| 2026-10-09 | PILOT: Guiding Long-Horizon World-Model Planning for Robot Manipulation with Visual Subgoals and Policy Priors | Yang Liu, Hanchen Cui, Karthik Desingh | [Abstract](https://arxiv.org/abs/2610.14335) · [PDF](https://arxiv.org/pdf/2610.14335) | rule-assigned |
 | 2026-09-28 | ATLAS: Aligned Transport of Latent Structure for Reliable World Model Planning | Ke Fang, Yupu Yao, Lu Cheng | [Abstract](https://arxiv.org/abs/2609.36333) · [PDF](https://arxiv.org/pdf/2609.36333) | rule-assigned |
 | 2026-09-21 | Beyond Visual Quality: A Study of Test-Time Planning with World Action Models | Jianhao Yuan, Yu Yuan, Benjamin Ramtoula, Lukas Vierling et al. | [Abstract](https://arxiv.org/abs/2609.24745) · [PDF](https://arxiv.org/pdf/2609.24745) | rule-assigned |
 | 2026-09-11 | Driving Context-guided Model Predictive Planning and Control for Autonomous Car Racing at the Limit and Beyond | Ayoub Raji, Federico Sacco, Nicola Musiu, Marko Bertogna | [Abstract](https://arxiv.org/abs/2609.12660) · [PDF](https://arxiv.org/pdf/2609.12660) | rule-assigned |
@@ -48,7 +50,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-05-13 | Motion Control of High-Dimensional Musculoskeletal Systems with Hierarchical Model-Based Planning | Yunyue Wei, Shanning Zhuang, Vincent Zhuang, Yanan Sui | [Abstract](https://arxiv.org/abs/2505.08238) · [PDF](https://arxiv.org/pdf/2505.08238) | rule-assigned |
 | 2025-01-22 | AdaWM: Adaptive World Model based Planning for Autonomous Driving | Hang Wang, Xin Ye, Feng Tao, Chenbin Pan et al. | [Abstract](https://arxiv.org/abs/2501.13072) · [PDF](https://arxiv.org/pdf/2501.13072) | rule-assigned |
 | 2024-03-01 | Model-Based Planning and Control for Terrestrial-Aerial Bimodal Vehicles with Passive Wheels | Ruibin Zhang, Junxiao Lin, Yuze Wu, Yuman Gao et al. | [Abstract](https://arxiv.org/abs/2403.00322) · [PDF](https://arxiv.org/pdf/2403.00322) | rule-assigned |
-| 2023-10-09 | Review of control algorithms for mobile robotics | Andres-David Suarez-Gomez, Andres A. Hernandez Ortega | [Abstract](https://arxiv.org/abs/2310.06006) · [PDF](https://arxiv.org/pdf/2310.06006) | rule-assigned |
 
 ---
 

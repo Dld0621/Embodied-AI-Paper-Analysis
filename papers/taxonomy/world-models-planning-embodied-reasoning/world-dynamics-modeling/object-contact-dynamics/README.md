@@ -1,12 +1,12 @@
 # Object & Contact Dynamics · 物体与接触动力学
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=World%20%26%20Dynamics%20Modeling&specialty=Object%20%26%20Contact%20Dynamics#research-workbench)
 
-> 3 conference papers · 23 recent arXiv papers
+> 3 conference papers · 24 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | Is Linear Feedback on Smoothed Dynamics Sufficient for Stabilizing Contact-Rich Plans? | ICRA · Contact Rich | [Paper](https://arxiv.org/pdf/2411.06542) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127776) | rule-assigned |
 | 2024 | Learning to Walk from Three Minutes of Real-World Data with Semi-structured Dynamics Models | CoRL · Dynamics Model | [Paper](https://arxiv.org/abs/2410.09163) · [Index](https://dblp.org/rec/journals/corr/abs-2410-09163) | rule-assigned |
 
-## Recent arXiv papers (23)
+## Recent arXiv papers (24)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-13 | DiffGIPC: Differentiable Mixed-Coordinate Contact Dynamics on GPU | Kemeng Huang, Bowen Ren, Xinyu Lu, Minchen Li et al. | [Abstract](https://arxiv.org/abs/2610.19091) · [PDF](https://arxiv.org/pdf/2610.19091) | rule-assigned |
 | 2026-09-28 | Bilinear World Models: Learning Representations with Structured Dynamics for Efficient Control | Antonio Pariente, Ignacio Boero, Nikolai Matni, Alejandro Ribeiro | [Abstract](https://arxiv.org/abs/2609.36305) · [PDF](https://arxiv.org/pdf/2609.36305) | rule-assigned |
 | 2026-08-28 | ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos | Seungyeon Kim, Noémie Jaquier | [Abstract](https://arxiv.org/abs/2608.28570) · [PDF](https://arxiv.org/pdf/2608.28570) | rule-assigned |
 | 2026-07-28 | MetaKoopman: Bayesian Meta-Learning of Koopman Operators for Modeling Structured Dynamics under Distribution Shifts | Mahmoud Selim, Sriharsha Bhat, Karl H. Johansson | [Abstract](https://arxiv.org/abs/2607.26345) · [PDF](https://arxiv.org/pdf/2607.26345) | rule-assigned |

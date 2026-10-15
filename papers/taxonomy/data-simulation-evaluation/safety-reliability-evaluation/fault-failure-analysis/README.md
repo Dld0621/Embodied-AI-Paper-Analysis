@@ -1,12 +1,12 @@
 # Fault & Failure Analysis · 故障与失效分析
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Safety%20%26%20Reliability%20Evaluation&specialty=Fault%20%26%20Failure%20Analysis#research-workbench)
 
-> 3 conference papers · 106 recent arXiv papers
+> 3 conference papers · 108 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,14 +24,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | KITE: Keyframe-Indexed Tokenized Evidence for VLM-Based Robot Failure Analysis | ICRA · Vlm | [Paper](https://arxiv.org/abs/2604.07034) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696281) | rule-assigned |
-| 2026 | Pseudocode-Guided Structured Reasoning for Automating Reliable Inference in Vision-Language Models | ICRA · Language Model | [Paper](https://arxiv.org/abs/2605.19663) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697384) | rule-assigned |
-| 2025 | On the Vulnerability of LLM/VLM-Controlled Robotics | IROS · Llm | [Paper](https://arxiv.org/abs/2402.10340) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246863) | rule-assigned |
+| 2026 | KITE: Keyframe-Indexed Tokenized Evidence for VLM-Based Robot Failure Analysis | ICRA · Vlm | [Paper](https://arxiv.org/pdf/2604.07034) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696281) | rule-assigned |
+| 2026 | Pseudocode-Guided Structured Reasoning for Automating Reliable Inference in Vision-Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2605.19663) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697384) | rule-assigned |
+| 2025 | On the Vulnerability of LLM/VLM-Controlled Robotics | IROS · Llm | [Paper](https://arxiv.org/pdf/2402.10340) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246863) | rule-assigned |
 
-## Recent arXiv papers (106)
+## Recent arXiv papers (108)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-13 | Behavioural self-monitoring for autonomous earth observation agents: The attribute reliability monitor (ARM) | Alejandro D. Mousist | [Abstract](https://arxiv.org/abs/2610.18548) · [PDF](https://arxiv.org/pdf/2610.18548) | rule-assigned |
+| 2026-10-09 | A Local Agentic AI Framework to Generate Edge Case Scenarios for Safety Assurance | Victoria J. Hodge, Colin Paterson, Rob Alexander | [Abstract](https://arxiv.org/abs/2610.13479) · [PDF](https://arxiv.org/pdf/2610.13479) | rule-assigned |
 | 2026-10-07 | Multi-Agent Coordination via Support-Preserving Distillation | Sangmin Lee, Youngju Na, Chanmi Lee, Sung-eui Yoon | [Abstract](https://arxiv.org/abs/2610.10087) · [PDF](https://arxiv.org/pdf/2610.10087) | rule-assigned |
 | 2026-10-04 | Robust 2D Traversability Mapping for Construction AMRs via Failure-Mode-Aware Fusion of LiDAR Geometry and Monocular Semantics | Manoj Karnekar, Om Mandhane, Gautham Ramkumar | [Abstract](https://arxiv.org/abs/2610.05505) · [PDF](https://arxiv.org/pdf/2610.05505) | rule-assigned |
 | 2026-09-24 | Continuous Online Fault Detection for Mobile Robots via Adaptive Edge Models | Jordan Levy, Nicolas Verstaevel, Vincent Talon, Benoit Gaudou | [Abstract](https://arxiv.org/abs/2609.29194) · [PDF](https://arxiv.org/pdf/2609.29194) | rule-assigned |
@@ -72,7 +74,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-01-26 | Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery | Shutong Chen, Adnan Aijaz, Yansha Deng | [Abstract](https://arxiv.org/abs/2601.18765) · [PDF](https://arxiv.org/pdf/2601.18765) | rule-assigned |
 | 2026-01-05 | Vision-Based Early Fault Diagnosis and Self-Recovery for Strawberry Harvesting Robots | Meili Sun, Chunjiang Zhao, Lichao Yang, Hao Liu et al. | [Abstract](https://arxiv.org/abs/2601.02085) · [PDF](https://arxiv.org/pdf/2601.02085) | rule-assigned |
 | 2025-12-08 | VP-AutoTest: A Virtual-Physical Fusion Autonomous Driving Testing Platform | Yiming Cui, Shiyu Fang, Jiarui Zhang, Yan Huang et al. | [Abstract](https://arxiv.org/abs/2512.07507) · [PDF](https://arxiv.org/pdf/2512.07507) | rule-assigned |
-| 2025-11-13 | Improving dependability in robotized bolting operations | Lorenzo Pagliara, Violeta Redondo, Enrico Ferrentino, Manuel Ferre et al. | [Abstract](https://arxiv.org/abs/2511.10448) · [PDF](https://arxiv.org/pdf/2511.10448) | rule-assigned |
+| 2025-11-13 | Improving dependability in robotized bolting operations | Lorenzo Pagliara, Vincenzo Petrone, Violeta Redondo, Enrico Ferrentino et al. | [Abstract](https://arxiv.org/abs/2511.10448) · [PDF](https://arxiv.org/pdf/2511.10448) | rule-assigned |
 | 2025-11-03 | Discriminately Treating Motion Components Evolves Joint Depth and Ego-Motion Learning | Mengtan Zhang, Zizhan Guo, Hongbo Zhao, Yi Feng et al. | [Abstract](https://arxiv.org/abs/2511.01502) · [PDF](https://arxiv.org/pdf/2511.01502) | rule-assigned |
 | 2025-10-31 | Reducing Robotic Upper-Limb Assessment Time While Maintaining Precision: A Time Series Foundation Model Approach | Faranak Akbarifar, Nooshin Maghsoodi, Sean P Dukelow, Stephen Scott et al. | [Abstract](https://arxiv.org/abs/2511.00193) · [PDF](https://arxiv.org/pdf/2511.00193) | rule-assigned |
 | 2025-10-13 | IntersectioNDE: Learning Complex Urban Traffic Dynamics based on Interaction Decoupling Strategy | Enli Lin, Ziyuan Yang, Qiujing Lu, Jianming Hu et al. | [Abstract](https://arxiv.org/abs/2510.11534) · [PDF](https://arxiv.org/pdf/2510.11534) | rule-assigned |

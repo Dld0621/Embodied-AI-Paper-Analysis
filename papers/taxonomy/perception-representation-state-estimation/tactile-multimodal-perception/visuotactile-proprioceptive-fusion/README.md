@@ -1,12 +1,12 @@
 # Visuotactile & Proprioceptive Fusion · 视觉触觉与本体感知融合
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Visuotactile%20%26%20Proprioceptive%20Fusion#research-workbench)
 
-> 21 conference papers · 157 recent arXiv papers
+> 22 conference papers · 157 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,27 +20,28 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (21)
+## Conference papers (22)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | MoiréTac: A Dual-Mode Visuotactile Sensor for Multidimensional Perception Using Moiré Pattern Amplification | ICRA · Tactile | [Paper](https://arxiv.org/abs/2509.12714) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696001) | rule-assigned |
-| 2026 | SARL: Spatially-Aware Self-Supervised Representation Learning for Visuo-Tactile Perception | ICRA · Tactile | [Paper](https://arxiv.org/abs/2512.01908) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696245) | rule-assigned |
-| 2026 | Tactile-Proprioceptive Sensor Fusion for Contact Wrench Estimation in Whole-Body Physical Human-Robot Interaction | ICRA · Whole Body | [Paper](https://arxiv.org/abs/2605.28412) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696164) | rule-assigned |
-| 2026 | TEGA: A Tactile-Enhanced Grasping Assistant for Assistive Robotics via Sensor Fusion and Closed-Loop Haptic Feedback | ICRA · Grasp | [Paper](https://arxiv.org/abs/2603.05552) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695856) | rule-assigned |
+| 2026 | Automatic Physically-Based Sim2Real for Tactile Images through Differentiable Path-Tracing Rendering * | ICRA · Sim2Real | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697217) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697217) | rule-assigned |
+| 2026 | MoiréTac: A Dual-Mode Visuotactile Sensor for Multidimensional Perception Using Moiré Pattern Amplification | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2509.12714) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696001) | rule-assigned |
+| 2026 | SARL: Spatially-Aware Self-Supervised Representation Learning for Visuo-Tactile Perception | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2512.01908) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696245) | rule-assigned |
+| 2026 | Tactile-Proprioceptive Sensor Fusion for Contact Wrench Estimation in Whole-Body Physical Human-Robot Interaction | ICRA · Whole Body | [Paper](https://arxiv.org/pdf/2605.28412) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696164) | rule-assigned |
+| 2026 | TEGA: A Tactile-Enhanced Grasping Assistant for Assistive Robotics via Sensor Fusion and Closed-Loop Haptic Feedback | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2603.05552) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695856) | rule-assigned |
 | 2026 | Towards Versatile Opti-Acoustic Sensor Fusion and Volumetric Mapping for Safe Underwater Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2603.14457) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696254) | rule-assigned |
-| 2026 | ViTac-Tracing: Visual-Tactile Imitation Learning of Deformable Object Tracing | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2603.18784) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695932) | rule-assigned |
-| 2026 | ViTaS: Visual Tactile Soft Fusion Contrastive Learning for Visuomotor Learning | ICRA · Visuomotor | [Paper](https://arxiv.org/abs/2602.11643) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697386) | rule-assigned |
+| 2026 | ViTac-Tracing: Visual-Tactile Imitation Learning of Deformable Object Tracing | ICRA · Imitation Learning | [Paper](https://kclpure.kcl.ac.uk/portal/en/publications/8988765e-25f9-4aad-add9-4ee50d6fdf56) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695932) | rule-assigned |
+| 2026 | ViTaS: Visual Tactile Soft Fusion Contrastive Learning for Visuomotor Learning | ICRA · Visuomotor | [Paper](https://arxiv.org/pdf/2602.11643) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697386) | rule-assigned |
 | 2025 | High-Precision Object Pose Estimation Using Visual-Tactile Information for Dynamic Interactions in Robotic Grasping | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128649) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128649) | rule-assigned |
 | 2025 | Optimizing Underwater Robot Navigation: A Study of DRL Algorithms and Multi-Modal Sensor Fusion | ICRA · Navigation | [Paper](https://hal.science/hal-05004039v1/document) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127836) | rule-assigned |
 | 2025 | Tool-Mediated Robot Perception of Granular Substances Using Multiple Sensory Modalities | ICRA · Robot Perception | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127366) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127366) | rule-assigned |
-| 2025 | ConViTac: Aligning Visual-Tactile Fusion with Contrastive Representations | IROS · Tactile | [Paper](https://arxiv.org/abs/2506.20757) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245928) | rule-assigned |
+| 2025 | ConViTac: Aligning Visual-Tactile Fusion with Contrastive Representations | IROS · Tactile | [Paper](https://arxiv.org/pdf/2506.20757) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245928) | rule-assigned |
 | 2025 | Sensing Differently: Unifying Vision, Language, Posture and Tactile in Robotic Perception | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11247209) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247209) | rule-assigned |
-| 2025 | VET: A Visual-Electronic Tactile System for Immersive Human-Machine Interaction | IROS · Tactile | [Paper](https://arxiv.org/abs/2503.23440) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247401) | rule-assigned |
+| 2025 | VET: A Visual-Electronic Tactile System for Immersive Human-Machine Interaction | IROS · Tactile | [Paper](https://arxiv.org/pdf/2503.23440) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247401) | rule-assigned |
 | 2024 | UKF-Based Sensor Fusion for Joint-Torque Sensorless Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2402.18380) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610951) | rule-assigned |
 | 2024 | ESO-SLAM: Tightly-Coupled and Simultaneous Estimation of Self and Multi-Object Pose via Sensor Fusion | IROS · Object Pose | [Paper](https://doi.org/10.1109/IROS58592.2024.10802118) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802118) | rule-assigned |
-| 2024 | Raising Body Ownership in End-to-End Visuomotor Policy Learning via Robot-Centric Pooling | IROS · Visuomotor | [Paper](https://arxiv.org/abs/2411.04331) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802462) | rule-assigned |
-| 2023 | Chat with the Environment: Interactive Multimodal Perception Using Large Language Models | IROS · Large Language Model | [Paper](https://eprints.soton.ac.uk/496190/1/IROS_paper_2023_Zhao_Li_Weber_Hafez_Wermter.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342363) | rule-assigned |
+| 2024 | Raising Body Ownership in End-to-End Visuomotor Policy Learning via Robot-Centric Pooling | IROS · Visuomotor | [Paper](https://arxiv.org/pdf/2411.04331) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802462) | rule-assigned |
+| 2023 | Chat with the Environment: Interactive Multimodal Perception Using Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.08268) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342363) | rule-assigned |
 | 2023 | Visuotactile Sensor Enabled Pneumatic Device Towards Compliant Oropharyngeal Swab Sampling | IROS · Tactile | [Paper](https://arxiv.org/pdf/2305.06537) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342266) | rule-assigned |
 | 2022 | SpecTac: A Visual-Tactile Dual-Modality Sensor Using UV Illumination | ICRA · Tactile | [Paper](https://repository.hkust.edu.hk/ir/bitstream/1783.1-118728/1/118728-1.pdf) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812348) | rule-assigned |
 | 2022 | Learning-based Six-axis Force/Torque Estimation Using GelStereo Fingertip Visuotactile Sensing | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS47612.2022.9981100) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981100) | rule-assigned |
@@ -50,6 +51,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | TacHair: Tactile Contact-Distribution Guided Online Correction for Robotic Hair Stroking and Perception | Ruiyi Hu, Yongqiang Zhao, Daniel Bak, Yupeng Wang et al. | [Abstract](https://arxiv.org/abs/2610.10637) · [PDF](https://arxiv.org/pdf/2610.10637) | rule-assigned |
 | 2026-10-07 | Enhancing Robotic Perception and Adaptability through Sensor Fusion and Origami-Inspired Designs | Namai Chandra, Jaison Jose, Kavi Arya, Shivaram Kalyanakrishnan | [Abstract](https://arxiv.org/abs/2610.09828) · [PDF](https://arxiv.org/pdf/2610.09828) | rule-assigned |
 | 2026-10-02 | Register-Routed Delayed Fusion: Rewiring Shortcut-Prone Observation Fusion in Visuomotor Imitation | Jieting Long, Weidong Cai, Weiming Zhi | [Abstract](https://arxiv.org/abs/2610.02813) · [PDF](https://arxiv.org/pdf/2610.02813) | rule-assigned |
 | 2026-09-29 | What to Attend, What to Keep: Skill-Conditioned Visuotactile Representation with Progress-Guided Event Memory | Amir-Hossein Shahidzadeh, Seungjae Lee, Eadom Dessalene, Shanthosh Raaj Mohanram Mageswari et al. | [Abstract](https://arxiv.org/abs/2609.38494) · [PDF](https://arxiv.org/pdf/2609.38494) | rule-assigned |
@@ -206,7 +208,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-02 | Multimodal and Force-Matched Imitation Learning with a See-Through Visuotactile Sensor | Trevor Ablett, Oliver Limoyo, Adam Sigal, Affan Jilani et al. | [Abstract](https://arxiv.org/abs/2311.01248) · [PDF](https://arxiv.org/pdf/2311.01248) | rule-assigned |
 | 2023-10-19 | Fully Onboard Low-Power Localization with Semantic Sensor Fusion on a Nano-UAV using Floor Plans | Nicky Zimmerman, Hanna Müller, Michele Magno, Luca Benini | [Abstract](https://arxiv.org/abs/2310.12536) · [PDF](https://arxiv.org/pdf/2310.12536) | rule-assigned |
 | 2023-10-17 | 3D Force and Contact Estimation for a Soft-Bubble Visuotactile Sensor Using FEM | Jing-Chen Peng, Shaoxiong Yao, Kris Hauser | [Abstract](https://arxiv.org/abs/2310.11372) · [PDF](https://arxiv.org/pdf/2310.11372) | rule-assigned |
-| 2023-10-08 | Indoor Localization for an Autonomous Model Car: A Marker-Based Multi-Sensor Fusion Framework | Xibo Li, Shruti Patel, David Stronzek-Pfeifer, Christof Büskens | [Abstract](https://arxiv.org/abs/2310.05198) · [PDF](https://arxiv.org/pdf/2310.05198) | rule-assigned |
 
 ---
 

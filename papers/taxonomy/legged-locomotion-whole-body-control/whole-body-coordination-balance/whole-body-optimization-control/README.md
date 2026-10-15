@@ -1,12 +1,12 @@
 # Whole-body Optimization & Control · 全身优化控制
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Coordination%20%26%20Balance&specialty=Whole-body%20Optimization%20%26%20Control#research-workbench)
 
-> 39 conference papers · 192 recent arXiv papers
+> 39 conference papers · 202 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,26 +25,26 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | A Whole-Body Control Framework for Human-like Walking with Knee Stretch on Flat-Foot Humanoids | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697145) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697145) | rule-assigned |
-| 2026 | Agility Meets Stability: Versatile Humanoid Control with Heterogeneous Data | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2511.17373) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695958) | rule-assigned |
-| 2026 | Behavior Foundation Model for Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2509.13780) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697195) | rule-assigned |
-| 2026 | DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2509.14353) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696795) | rule-assigned |
-| 2026 | Embodiment-Aware Generalist Specialist Distillation for Unified Humanoid Whole-Body Control | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2602.02960) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697517) | rule-assigned |
-| 2026 | ExBody2: Advanced Expressive Humanoid Whole-Body Control | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2412.13196) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696204) | rule-assigned |
-| 2026 | HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2508.21043) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696174) | rule-assigned |
-| 2026 | KungfuBot2: Learning Versatile Motion Skills for Humanoid Whole-Body Control | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2509.16638) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696508) | rule-assigned |
-| 2026 | Learning Agile Striker Skills for Humanoid Soccer Robots from Noisy Sensory Input | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2512.06571) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697523) | rule-assigned |
+| 2026 | Agility Meets Stability: Versatile Humanoid Control with Heterogeneous Data | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2511.17373) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695958) | rule-assigned |
+| 2026 | Behavior Foundation Model for Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2509.13780) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697195) | rule-assigned |
+| 2026 | DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2509.14353) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696795) | rule-assigned |
+| 2026 | Embodiment-Aware Generalist Specialist Distillation for Unified Humanoid Whole-Body Control | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2602.02960) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697517) | rule-assigned |
+| 2026 | ExBody2: Advanced Expressive Humanoid Whole-Body Control | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2412.13196) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696204) | rule-assigned |
+| 2026 | HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2508.21043) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696174) | rule-assigned |
+| 2026 | KungfuBot2: Learning Versatile Motion Skills for Humanoid Whole-Body Control | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2509.16638) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696508) | rule-assigned |
+| 2026 | Learning Agile Striker Skills for Humanoid Soccer Robots from Noisy Sensory Input | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2512.06571) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697523) | rule-assigned |
 | 2026 | Reactive Whole-Body Control of Mobile Manipulators for Dynamic Target Tracking via Adaptive-Predictive Visual Servoing | ICRA · Whole Body | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696302) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696302) | rule-assigned |
-| 2026 | RPG: Robust Policy Gating for Smooth Multi-Skill Transitions in Humanoid Fighting | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2604.21355) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695778) | rule-assigned |
-| 2026 | SignBot: Learning Human-to-Humanoid Sign Language Interaction | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2505.24266) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696513) | rule-assigned |
-| 2026 | SoftMimic: Learning Compliant Whole-body Control from Examples | ICRA · Whole Body | [Paper](https://arxiv.org/abs/2510.17792) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696338) | rule-assigned |
-| 2026 | Switch: Learning Agile Skills Switching for Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2604.14834) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696552) | rule-assigned |
-| 2026 | Towards Adaptable Humanoid Control via Adaptive Motion Tracking | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2510.14454) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696229) | rule-assigned |
-| 2025 | A Synergistic Framework for Learning Shape Estimation and Shape-Aware Whole-Body Control Policy for Continuum Robots | ICRA · Whole Body | [Paper](https://www.research.ed.ac.uk/en/publications/e5edab77-a456-4b07-ae05-e134c79d2845) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128198) | rule-assigned |
-| 2025 | HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2410.21229) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128549) | rule-assigned |
-| 2025 | Learning Humanoid Locomotion with Perceptive Internal Model | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2411.14386) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128333) | rule-assigned |
-| 2025 | Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2412.07773) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128652) | rule-assigned |
-| 2025 | Real-Time Whole-Body Control of Legged Robots with Model-Predictive Path Integral Control | ICRA · Legged | [Paper](https://arxiv.org/abs/2409.10469) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128271) | rule-assigned |
-| 2025 | XMoP: Whole-Body Control Policy for Zero-Shot Cross-Embodiment Neural Motion Planning | ICRA · Whole Body | [Paper](https://arxiv.org/abs/2409.15585) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127979) | rule-assigned |
+| 2026 | RPG: Robust Policy Gating for Smooth Multi-Skill Transitions in Humanoid Fighting | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2604.21355) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695778) | rule-assigned |
+| 2026 | SignBot: Learning Human-to-Humanoid Sign Language Interaction | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2505.24266) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696513) | rule-assigned |
+| 2026 | SoftMimic: Learning Compliant Whole-body Control from Examples | ICRA · Whole Body | [Paper](https://arxiv.org/pdf/2510.17792) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696338) | rule-assigned |
+| 2026 | Switch: Learning Agile Skills Switching for Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2604.14834) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696552) | rule-assigned |
+| 2026 | Towards Adaptable Humanoid Control via Adaptive Motion Tracking | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2510.14454) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696229) | rule-assigned |
+| 2025 | A Synergistic Framework for Learning Shape Estimation and Shape-Aware Whole-Body Control Policy for Continuum Robots | ICRA · Whole Body | [Paper](https://arxiv.org/pdf/2501.03859) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128198) | rule-assigned |
+| 2025 | HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2410.21229) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128549) | rule-assigned |
+| 2025 | Learning Humanoid Locomotion with Perceptive Internal Model | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2411.14386) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128333) | rule-assigned |
+| 2025 | Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2412.07773) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128652) | rule-assigned |
+| 2025 | Real-Time Whole-Body Control of Legged Robots with Model-Predictive Path Integral Control | ICRA · Legged | [Paper](https://arxiv.org/pdf/2409.10469) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128271) | rule-assigned |
+| 2025 | XMoP: Whole-Body Control Policy for Zero-Shot Cross-Embodiment Neural Motion Planning | ICRA · Whole Body | [Paper](https://arxiv.org/pdf/2409.15585) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127979) | rule-assigned |
 | 2025 | A Whole-Body Unified Force-Impedance Control for Non-holonomic Service Robots | IROS · Whole Body | [Paper](https://doi.org/10.1109/IROS60139.2025.11246161) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246161) | rule-assigned |
 | 2025 | Experimental Comparison of Whole-Body Control Formulations for Humanoid Robots in Task Acceleration and Task Force Spaces | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2507.18502) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247656) | rule-assigned |
 | 2025 | GHO-WBC: A Gradient-Based Hierarchical Kinematic Optimization Approach to Enhance the Reachability of a Humanoid Robot | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS60139.2025.11245911) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245911) | rule-assigned |
@@ -53,21 +53,30 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills | NeurIPS · Humanoid | [Paper](https://arxiv.org/abs/2506.12851) · [Index](https://dblp.org/rec/conf/nips/XieHZLLSZBL25) | rule-assigned |
 | 2024 | Visual Whole-Body Control for Legged Loco-Manipulation | CoRL · Legged | [Paper](https://arxiv.org/abs/2403.16967) · [Index](https://dblp.org/rec/conf/corl/LiuCCJQYW24) | rule-assigned |
 | 2024 | WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts | CoRL · Humanoid | [Paper](https://arxiv.org/abs/2406.06005) · [Index](https://dblp.org/rec/conf/corl/ZhangXHS24) | rule-assigned |
-| 2024 | Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2309.11359) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610948) | rule-assigned |
+| 2024 | Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2309.11359) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610948) | rule-assigned |
 | 2024 | A Fast Motion and Foothold Planning Framework for Legged Robots on Discrete Terrain | IROS · Legged | [Paper](https://doi.org/10.1109/IROS58592.2024.10802606) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802606) | rule-assigned |
 | 2024 | Task-Space Riccati Feedback based Whole Body Control for Underactuated Legged Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2404.00591) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801528) | rule-assigned |
 | 2024 | Expressive Whole-Body Control for Humanoid Robots | RSS · Humanoid | [Paper](https://arxiv.org/abs/2402.16796) · [Index](https://dblp.org/rec/journals/corr/abs-2402-16796) | rule-assigned |
-| 2023 | Hierarchical Whole-body Control of the cable-Suspended Aerial Manipulator endowed with Winch-based Actuation | ICRA · Whole Body | [Paper](https://arxiv.org/abs/2305.16466) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160718) | rule-assigned |
+| 2023 | Hierarchical Whole-body Control of the cable-Suspended Aerial Manipulator endowed with Winch-based Actuation | ICRA · Whole Body | [Paper](https://arxiv.org/pdf/2305.16466) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160718) | rule-assigned |
 | 2023 | Learning Agent-Aware Affordances for Closed-Loop Interaction with Articulated Objects | ICRA · Affordance | [Paper](https://arxiv.org/pdf/2209.05802) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160747) | rule-assigned |
-| 2023 | Whole Body Control Formulation for Humanoid Robots with Closed/Parallel Kinematic Chains: Kangaroo Case Study | IROS · Humanoid | [Paper](https://elib.dlr.de/202324/1/IROS2023_Kangaroo.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341391) | rule-assigned |
+| 2023 | Whole Body Control Formulation for Humanoid Robots with Closed/Parallel Kinematic Chains: Kangaroo Case Study | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS55552.2023.10341391) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341391) | rule-assigned |
 | 2022 | Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion | CoRL · Locomotion | [Paper](https://arxiv.org/abs/2210.10044) · [Index](https://dblp.org/rec/journals/corr/abs-2210-10044) | rule-assigned |
 | 2022 | Nonprehensile Object Transportation with a Legged Manipulator | ICRA · Legged | [Paper](https://doi.org/10.1109/icra46639.2022.9811810) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811810) | rule-assigned |
 | 2022 | Whole-Body Control of Series-Parallel Hybrid Robots | ICRA · Whole Body | [Paper](https://doi.org/10.1109/icra46639.2022.9811616) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811616) | rule-assigned |
 
-## Recent arXiv papers (192)
+## Recent arXiv papers (202)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-14 | Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion | Huixuan Cheng, Bike Zhang, Shankar Sastry, Koushil Sreenath | [Abstract](https://arxiv.org/abs/2610.20606) · [PDF](https://arxiv.org/pdf/2610.20606) | rule-assigned |
+| 2026-10-14 | Beyond Kinematic Tracking: Preserving Expressive Characteristics in Humanoid Whole-Body Control | Lingfan Bao, Hanshang Zhu, Yan Pan, Jincheng Wang et al. | [Abstract](https://arxiv.org/abs/2610.19393) · [PDF](https://arxiv.org/pdf/2610.19393) | rule-assigned |
+| 2026-10-13 | TRACE: Efficient Transfer Learning for Neural Whole-Body Control Across Humanoid Embodiments | Qingyu Lan, Zhihao Tian, Zifan Wang, Junwei Liang | [Abstract](https://arxiv.org/abs/2610.17999) · [PDF](https://arxiv.org/pdf/2610.17999) | rule-assigned |
+| 2026-10-12 | LiDAR-based Humanoid Navigation in Dynamic, Non-Convex Environments via Spatio-Temporal Safe Corridors | Shubham S. Kumbhar, Panagiotis Artemiadis | [Abstract](https://arxiv.org/abs/2610.17232) · [PDF](https://arxiv.org/pdf/2610.17232) | rule-assigned |
+| 2026-10-11 | P-BFM: Perceptive Behavioral Foundation Models for Humanoid Control via Unsupervised Reinforcement Learning | Xue Wang, Yitang Li, Yiming Zhang, Siqin Wang et al. | [Abstract](https://arxiv.org/abs/2610.15833) · [PDF](https://arxiv.org/pdf/2610.15833) | rule-assigned |
+| 2026-10-09 | Adaptive Whole-Body MPC with Optimal Posture Planning for Humanoid Robots under Unknown Payloads | Manh Cuong Nguyen, Duc Cuong Vu, Viet Anh Vu, Duc Tuan Pham et al. | [Abstract](https://arxiv.org/abs/2610.12972) · [PDF](https://arxiv.org/pdf/2610.12972) | rule-assigned |
+| 2026-10-08 | VioLA: Learning Generalist Humanoid Control Policies from Human Data | Mert Albaba, Jens Beißwenger, Anna Manasyan, Daniel Marta et al. | [Abstract](https://arxiv.org/abs/2610.12435) · [PDF](https://arxiv.org/pdf/2610.12435) | rule-assigned |
+| 2026-10-08 | Reflex: Visually Grounded Reactive Humanoid Control | Taoyang Jia, Weikai Huang, Linxin Song, Jared Darlington et al. | [Abstract](https://arxiv.org/abs/2610.12772) · [PDF](https://arxiv.org/pdf/2610.12772) | rule-assigned |
+| 2026-10-08 | PanTact: Teaching Whole-Body Dexterity with a Wearable Contact Interface | Xiaomeng Xu, Han Zhang, Zhian Ruan, Xiaofeng Guo et al. | [Abstract](https://arxiv.org/abs/2610.12558) · [PDF](https://arxiv.org/pdf/2610.12558) | rule-assigned |
 | 2026-10-07 | Precise SE(3) End-Effector Tracking in Whole-Body Humanoid Control | Joohwan Seo, Xiaofeng Guo, Jinkun Cao, Roberto Horowitz et al. | [Abstract](https://arxiv.org/abs/2610.09479) · [PDF](https://arxiv.org/pdf/2610.09479) | rule-assigned |
 | 2026-10-07 | LLA-MPPI: Rapidly Adaptive Whole-body Control of Legged Robots with GPU-Accelerated Parallel Simulations | Sebin Jung, Maitham F. AL-Sunni, Juan Alvarez-Padilla, Zachary Manchester et al. | [Abstract](https://arxiv.org/abs/2610.10465) · [PDF](https://arxiv.org/pdf/2610.10465) | rule-assigned |
 | 2026-10-07 | Co${}^{2}$Skill: Whole-Body Control via Skill Composition for Long-Horizon Human-Environment Interaction | Jeonghwan Kim, Hyeonwoo Kim, Hanbyul Joo | [Abstract](https://arxiv.org/abs/2610.09291) · [PDF](https://arxiv.org/pdf/2610.09291) | rule-assigned |
@@ -75,6 +84,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-10-06 | iGPC: Generative Motion Priors for Object-Aware Humanoid Interaction | Anujith Muraleedharan, Abdul Ahad Butt, Nolan Fey, Yash Prabhu et al. | [Abstract](https://arxiv.org/abs/2610.08120) · [PDF](https://arxiv.org/pdf/2610.08120) | rule-assigned |
 | 2026-10-05 | Physics Residual Dynamics and Reduced Order Whole-Body Planning for Obstacle Aware Human Robot Cloth CoTransportation | Moein Forouhar, Kosar Behnia, Anirvan Dutta, Hamid Sadeghian et al. | [Abstract](https://arxiv.org/abs/2610.06641) · [PDF](https://arxiv.org/pdf/2610.06641) | rule-assigned |
 | 2026-10-05 | I-BFM: Reward-Conditioned Robust Humanoid Interaction via Unsupervised Reinforcement Learning | Ziqi Han, Yitang Li, Junhan Sun, Fanrong Dong et al. | [Abstract](https://arxiv.org/abs/2610.06129) · [PDF](https://arxiv.org/pdf/2610.06129) | rule-assigned |
+| 2026-10-01 | OIL: An Object Interaction Layer for Humanoid Whole-Body Control | Pranay Dugar, Mohitvishnu S. Gadde, Rajesh Mangannavar, Aayam Kumar Shrestha et al. | [Abstract](https://arxiv.org/abs/2610.14033) · [PDF](https://arxiv.org/pdf/2610.14033) | rule-assigned |
 | 2026-10-01 | Filter-Aware Fine-Tuning for Safe Humanoid Whole-Body Tracking | Pranit Mohnot, Christian Helten, Daniele Gammelli, Marco Pavone | [Abstract](https://arxiv.org/abs/2610.02341) · [PDF](https://arxiv.org/pdf/2610.02341) | rule-assigned |
 | 2026-09-30 | NEXUS: Perceptive Whole-Body Control for Terrain-Adaptive Teleoperation | Xiangyu Miao, Junsong Wu, Jiyuan Shi, Weiji Xie et al. | [Abstract](https://arxiv.org/abs/2609.39000) · [PDF](https://arxiv.org/pdf/2609.39000) | rule-assigned |
 | 2026-09-29 | CrossBFM: Distilling a Shared Latent Behavior Space Across Humanoid Embodiments | Tan-Dzung Do, Tuan Dat Phuong, Nico Bohlinger, Cuc T. Trinh et al. | [Abstract](https://arxiv.org/abs/2609.38087) · [PDF](https://arxiv.org/pdf/2609.38087) | rule-assigned |

@@ -1,12 +1,12 @@
 # Special-environment Robots · 特殊环境机器人
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Soft%20%26%20Specialized%20Robots&specialty=Special-environment%20Robots#research-workbench)
 
-> 3 conference papers · 24 recent arXiv papers
+> 3 conference papers · 25 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Passive Underwater Robot Hand Utilizing Water Resistance | IROS · Robot Hand | [Paper](https://doi.org/10.1109/IROS58592.2024.10802745) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802745) | rule-assigned |
 | 2023 | A Non-planar Assembly of Modular Tetrahedral-shaped Aerial Robots | ICRA · Assembly | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161301) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161301) | rule-assigned |
 
-## Recent arXiv papers (24)
+## Recent arXiv papers (25)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-13 | MARTS: A Modular Agricultural Robot for Targeted Spraying of Diseased Tomato Plants in Greenhouses | Rajmeet Singh, Manveen Kaur, Yusuf Adamu, Lochan Kshetrimayum et al. | [Abstract](https://arxiv.org/abs/2610.18123) · [PDF](https://arxiv.org/pdf/2610.18123) | rule-assigned |
 | 2026-09-20 | Towards Reliable Underwater Diver-Robot Interaction: Gesture Design, Interaction Logic, and Real-World Evaluation | Yingqi Liu, Kanzhong Yao, Zimeng Peng, Yuanbo Bi et al. | [Abstract](https://arxiv.org/abs/2609.23392) · [PDF](https://arxiv.org/pdf/2609.23392) | rule-assigned |
 | 2026-09-15 | Artificial Intelligence-Enabled Space Robot Operations: Technologies, Challenges and Prospects | Zeyuan Huang, Gang Chen, Zixuan Hao, Guoqin Tang et al. | [Abstract](https://arxiv.org/abs/2609.16880) · [PDF](https://arxiv.org/pdf/2609.16880) | rule-assigned |
 | 2026-08-03 | Hybrid Impedance-Admittance Control with Multi-Link Aerial Robot for Contact-Rich Surface Sliding Task | Zicheng Luo, Maolin Lei, Jinjie Li, Yicheng Chen et al. | [Abstract](https://arxiv.org/abs/2608.01800) · [PDF](https://arxiv.org/pdf/2608.01800) | rule-assigned |

@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation&specialty=Pending%20specialty%20review#research-workbench)
 
-> 10 conference papers · 31 recent arXiv papers
+> 10 conference papers · 30 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,17 +25,17 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | DynDLO: Learning-Based Trajectory Planning for Dynamic Robotic Manipulation of Deformable Linear Objects | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697081) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697081) | needs-review |
-| 2026 | Sparse Meets Dense: Correspondence Guided Robotic Manipulation with Rigid-Deformable Interactions | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2608.01083) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696784) | needs-review |
-| 2025 | Shape-Space Deformer: Unified Visuo-Tactile Representations for Robotic Manipulation of Deformable Objects | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2409.12419) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127499) | needs-review |
+| 2026 | Sparse Meets Dense: Correspondence Guided Robotic Manipulation with Rigid-Deformable Interactions | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2608.01083) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696784) | needs-review |
+| 2025 | Shape-Space Deformer: Unified Visuo-Tactile Representations for Robotic Manipulation of Deformable Objects | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2409.12419) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127499) | needs-review |
 | 2025 | Multi-Robot Assembly of Deformable Linear Objects Using Multi-Modal Perception | IROS · Assembly | [Paper](https://arxiv.org/abs/2506.22034) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246285) | needs-review |
 | 2024 | DoughNet: A Visual Predictive Model for Topological Manipulation of Deformable Objects | ECCV · Manipulation | [Paper](https://arxiv.org/abs/2404.12524) · [Index](https://dblp.org/rec/journals/corr/abs-2404-12524) | needs-review |
-| 2024 | Sequential Manipulation of Deformable Linear Object Networks with Endpoint Pose Measurements using Adaptive Model Predictive Control | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2402.10372) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611551) | needs-review |
-| 2024 | Dynamic Manipulation of Deformable Objects using Imitation Learning with Adaptation to Hardware Constraints | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2403.12685) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802478) | needs-review |
-| 2024 | Harnessing with Twisting: Single-Arm Deformable Linear Object Manipulation for Industrial Harnessing Task | IROS · Manipulation | [Paper](https://arxiv.org/abs/2410.10729) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802801) | needs-review |
+| 2024 | Sequential Manipulation of Deformable Linear Object Networks with Endpoint Pose Measurements using Adaptive Model Predictive Control | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2402.10372) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611551) | needs-review |
+| 2024 | Dynamic Manipulation of Deformable Objects using Imitation Learning with Adaptation to Hardware Constraints | IROS · Manipulation | [Paper](https://arxiv.org/abs/2403.12685) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802478) | needs-review |
+| 2024 | Harnessing with Twisting: Single-Arm Deformable Linear Object Manipulation for Industrial Harnessing Task | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2410.10729) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802801) | needs-review |
 | 2022 | Manipulation via Membranes: High-Resolution and Highly Deformable Tactile Sensing and Control | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2209.13432) · [Index](https://dblp.org/rec/journals/corr/abs-2209-13432) | needs-review |
 | 2022 | Grasp Transfer for Deformable Objects by Functional Map Correspondence | ICRA · Grasp | [Paper](https://arxiv.org/abs/2203.00776) · [Index](https://dblp.org/rec/conf/icra/FariasTSM22) | needs-review |
 
-## Recent arXiv papers (31)
+## Recent arXiv papers (30)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -69,7 +69,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-03-19 | Dynamic Manipulation of Deformable Objects using Imitation Learning with Adaptation to Hardware Constraints | Eric Hannus, Tran Nguyen Le, David Blanco-Mulero, Ville Kyrki | [Abstract](https://arxiv.org/abs/2403.12685) · [PDF](https://arxiv.org/pdf/2403.12685) | needs-review |
 | 2024-02-15 | Sequential Manipulation of Deformable Linear Object Networks with Endpoint Pose Measurements using Adaptive Model Predictive Control | Tyler Toner, Vahidreza Molazadeh, Miguel Saez, Dawn M. Tilbury et al. | [Abstract](https://arxiv.org/abs/2402.10372) · [PDF](https://arxiv.org/pdf/2402.10372) | needs-review |
 | 2023-12-27 | Bezier-based Regression Feature Descriptor for Deformable Linear Objects | Fangqing Chen | [Abstract](https://arxiv.org/abs/2312.16502) · [PDF](https://arxiv.org/pdf/2312.16502) | needs-review |
-| 2023-10-10 | Feel the Tension: Manipulation of Deformable Linear Objects in Environments with Fixtures using Force Information | Finn Süberkrüb, Rita Laezza, Yiannis Karayiannidis | [Abstract](https://arxiv.org/abs/2310.06424) · [PDF](https://arxiv.org/pdf/2310.06424) | needs-review |
 
 ---
 

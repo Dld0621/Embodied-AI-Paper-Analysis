@@ -1,12 +1,12 @@
 # Behavior Cloning & Sequence Modeling · 行为克隆与序列建模
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Imitation%20Learning&specialty=Behavior%20Cloning%20%26%20Sequence%20Modeling#research-workbench)
 
-> 14 conference papers · 119 recent arXiv papers
+> 14 conference papers · 123 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,12 +24,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | AutoFocus-IL: VLM-based Saliency Maps for Data-Efficient Visual Imitation Learning without Extra Human Annotations | ICRA · Vlm | [Paper](https://arxiv.org/abs/2511.18617) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697262) | rule-assigned |
-| 2026 | R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2510.18085) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697586) | rule-assigned |
-| 2026 | Residual Off-Policy RL for Finetuning Behavior Cloning Policies | ICRA · Behavior Cloning | [Paper](https://arxiv.org/abs/2509.19301) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695959) | rule-assigned |
+| 2026 | AutoFocus-IL: VLM-based Saliency Maps for Data-Efficient Visual Imitation Learning without Extra Human Annotations | ICRA · Vlm | [Paper](https://arxiv.org/pdf/2511.18617) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697262) | rule-assigned |
+| 2026 | R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2510.18085) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697586) | rule-assigned |
+| 2026 | Residual Off-Policy RL for Finetuning Behavior Cloning Policies | ICRA · Behavior Cloning | [Paper](https://arxiv.org/pdf/2509.19301) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695959) | rule-assigned |
 | 2025 | Rethinking Latent Redundancy in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation | ICML · Manipulation | [Paper](https://arxiv.org/abs/2502.02853) · [Index](https://dblp.org/rec/conf/icml/BaiZDZWC25) | rule-assigned |
 | 2025 | Feasibility-Aware Imitation Learning from Observations Through a Hand-Mounted Demonstration Interface | ICRA · Imitation Learning | [Paper](https://naist.repo.nii.ac.jp/records/2001695) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127364) | rule-assigned |
-| 2025 | SAFE-GIL: SAFEty Guided Imitation Learning for Robotic Systems | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2404.05249) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128298) | rule-assigned |
+| 2025 | SAFE-GIL: SAFEty Guided Imitation Learning for Robotic Systems | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2404.05249) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128298) | rule-assigned |
 | 2025 | Constrained Behavior Cloning for Robotic Learning | IROS · Behavior Cloning | [Paper](https://doi.org/10.1109/IROS60139.2025.11246164) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246164) | rule-assigned |
 | 2025 | Fast Policy: Accelerating Visuomotor Policies without Re-training | IROS · Visuomotor | [Paper](https://doi.org/10.1109/IROS60139.2025.11246259) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246259) | rule-assigned |
 | 2024 | Dreamitate: Real-World Visuomotor Policy Learning via Video Generation | CoRL · Visuomotor | [Paper](https://arxiv.org/abs/2406.16862) · [Index](https://dblp.org/rec/conf/corl/LiangLOSDTSV24) | rule-assigned |
@@ -39,10 +39,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning | RSS · Behaviour Cloning | [Paper](https://arxiv.org/abs/2405.18196) · [Index](https://dblp.org/rec/conf/rss/VosyliusSUJ24) | rule-assigned |
 | 2023 | A Framework for Few-Shot Policy Transfer Through Observation Mapping and Behavior Cloning | IROS · Behavior Cloning | [Paper](https://arxiv.org/pdf/2310.08836) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342477) | rule-assigned |
 
-## Recent arXiv papers (119)
+## Recent arXiv papers (123)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-14 | Investigating Behavior Cloning from Few Demonstrations for Autonomous Driving based on Bird's-Eye View in Simulated Cities | Eric Aislan Antonelo, Gustavo Claudio Karl Couto, Christian Möller, Pedro Henrique Fernandes | [Abstract](https://arxiv.org/abs/2610.20203) · [PDF](https://arxiv.org/pdf/2610.20203) | rule-assigned |
+| 2026-10-14 | Graph-Reweighted Behavior Cloning with Human Interventions for Precise Robotic Manipulation | Xiaoman Li, Zhiqiang Yang, Jiayu Hu, Jipeng Kong et al. | [Abstract](https://arxiv.org/abs/2610.20504) · [PDF](https://arxiv.org/pdf/2610.20504) | rule-assigned |
+| 2026-10-13 | LLM2R: From Large Language Models to 3D Reassemblers | Zhouhan Zhong, Qiuhong Shen, Xingyi Yang, Jinyi Xu et al. | [Abstract](https://arxiv.org/abs/2610.18604) · [PDF](https://arxiv.org/pdf/2610.18604) | rule-assigned |
+| 2026-10-12 | Smoothness Ranks Skill, Not Success: An Audit of Published Trajectory-Smoothness Curation Metrics Under Episode-Length Controls | Jaiveer Bassi | [Abstract](https://arxiv.org/abs/2610.17427) · [PDF](https://arxiv.org/pdf/2610.17427) | rule-assigned |
+| 2026-10-12 | MIRROR: Reflecting Hidden Symmetries from Offline Robot Interaction Data | Shiqi Liu, Yihang Yao, Peide Huang, Mengdi Xu et al. | [Abstract](https://arxiv.org/abs/2610.17422) · [PDF](https://arxiv.org/pdf/2610.17422) | rule-assigned |
+| 2026-10-07 | Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning | Prabin Kumar Rath, Omkar Patil, Nakul Gopalan | [Abstract](https://arxiv.org/abs/2610.10857) · [PDF](https://arxiv.org/pdf/2610.10857) | rule-assigned |
 | 2026-10-07 | RoboPace: Contact-Aware Time-Optimal Retiming for Action-Chunk Policies | Mimo Shirasaka, Takehiko Ohkawa, Takuya Okubo, Nicola Scianca et al. | [Abstract](https://arxiv.org/abs/2610.09696) · [PDF](https://arxiv.org/pdf/2610.09696) | rule-assigned |
 | 2026-10-05 | Conditional Trajectory Peaks: Single-Pass Multimodal Policies over Action Chunks | Di Wu, Rongtian Shen, Ping Liu, Xuhua Chen et al. | [Abstract](https://arxiv.org/abs/2610.06104) · [PDF](https://arxiv.org/pdf/2610.06104) | rule-assigned |
 | 2026-10-02 | Proprioceptive Sketches as Long-Horizon Intent for Generative Action Policies | Fangyuan Wang, Songhao Huang, Haoxiang Sun, Shipeng Lyu et al. | [Abstract](https://arxiv.org/abs/2610.02759) · [PDF](https://arxiv.org/pdf/2610.02759) | rule-assigned |
@@ -72,6 +78,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-07-29 | It's Not Just More Demos: Counterfactual Action Sensitivity Coverage for Data-Efficient Robust Robot Imitation | Giovanni D'urso, Kaushik Roy, Nicholas Lawrance, Brendan Tidd | [Abstract](https://arxiv.org/abs/2607.27261) · [PDF](https://arxiv.org/pdf/2607.27261) | rule-assigned |
 | 2026-07-28 | Tri-Manual Visuomotor Imitation Learning of Robot Policies | James Zhao, Mingyuan Ba, Weiming Zhi | [Abstract](https://arxiv.org/abs/2607.25731) · [PDF](https://arxiv.org/pdf/2607.25731) | rule-assigned |
 | 2026-07-20 | Test-Time Scaling for World Action Models via Zero-Shot Geometric Evaluation | Zesen Zhao, Minkyoung Cho, Hui shen, Boyuan Zheng et al. | [Abstract](https://arxiv.org/abs/2607.17454) · [PDF](https://arxiv.org/pdf/2607.17454) | rule-assigned |
+| 2026-07-06 | Qantara: Bridge-Flow Training for Multi-Paradigm JEPA Inference | Ruslan Rakhimov, George Bredis, Yuriy Maksyuta, Daniil Gavrilov | [Abstract](https://arxiv.org/abs/2607.04978) · [PDF](https://arxiv.org/pdf/2607.04978) | rule-assigned |
 | 2026-06-30 | What Probing Reveals about Autonomous Driving: Linking Internal Prediction Errors to Ego Planning | Hyeonchang Jeon, Kyungbeom Kim, Eugene Vinitsky, Kyung-Joong Kim | [Abstract](https://arxiv.org/abs/2606.31106) · [PDF](https://arxiv.org/pdf/2606.31106) | rule-assigned |
 | 2026-06-25 | Scalable Behavior Cloning with Open Data, Training, and Evaluation | Arthur Allshire, Himanshu Gaurav Singh, Ritvik Singh, Adam Rashid et al. | [Abstract](https://arxiv.org/abs/2606.27375) · [PDF](https://arxiv.org/pdf/2606.27375) | rule-assigned |
 | 2026-06-23 | Beyond Monotonic Progress: Retry-Supervised Value Learning for Robot Imitation | Xinyao Qin, Junjie Lu, Kaixin Wang, Chuheng Zhang et al. | [Abstract](https://arxiv.org/abs/2606.24633) · [PDF](https://arxiv.org/pdf/2606.24633) | rule-assigned |
@@ -99,7 +106,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-12-08 | ESPADA: Execution Speedup via Semantics Aware Demonstration Data Downsampling for Imitation Learning | Byung-ju Kim, Jinu Pahk, Chungwoo Lee, Jaejoon Kim et al. | [Abstract](https://arxiv.org/abs/2512.07371) · [PDF](https://arxiv.org/pdf/2512.07371) | rule-assigned |
 | 2025-12-01 | Much Ado About Noising: Dispelling the Myths of Generative Robotic Control | Chaoyi Pan, Giri Anantharaman, Nai-Chieh Huang, Claire Jin et al. | [Abstract](https://arxiv.org/abs/2512.01809) · [PDF](https://arxiv.org/pdf/2512.01809) | rule-assigned |
 | 2025-11-23 | AutoFocus-IL: VLM-based Saliency Maps for Data-Efficient Visual Imitation Learning without Extra Human Annotations | Litian Gong, Fatemeh Bahrani, Yutai Zhou, Amin Banayeeanzade et al. | [Abstract](https://arxiv.org/abs/2511.18617) · [PDF](https://arxiv.org/pdf/2511.18617) | rule-assigned |
-| 2025-10-31 | Learning Generalizable Visuomotor Policy through Dynamics-Alignment | Dohyeok Lee, Jung Min Lee, Munkyung Kim, Seokhun Ju et al. | [Abstract](https://arxiv.org/abs/2510.27114) · [PDF](https://arxiv.org/pdf/2510.27114) | rule-assigned |
 | 2025-10-20 | R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations | Connor Mattson, Varun Raveendra, Ellen Novoseller, Nicholas Waytowich et al. | [Abstract](https://arxiv.org/abs/2510.18085) · [PDF](https://arxiv.org/pdf/2510.18085) | rule-assigned |
 | 2025-10-14 | Improving Generative Behavior Cloning via Self-Guidance and Adaptive Chunking | Junhyuk So, Chiwoong Lee, Shinyoung Lee, Jungseul Ok et al. | [Abstract](https://arxiv.org/abs/2510.12392) · [PDF](https://arxiv.org/pdf/2510.12392) | rule-assigned |
 | 2025-10-08 | DecompGAIL: Learning Realistic Traffic Behaviors with Decomposed Multi-Agent Generative Adversarial Imitation Learning | Ke Guo, Haochen Liu, Xiaojun Wu, Chen Lv | [Abstract](https://arxiv.org/abs/2510.06913) · [PDF](https://arxiv.org/pdf/2510.06913) | rule-assigned |
@@ -160,8 +166,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-01-08 | DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement | Jiaqi Liu, Peng Hang, Xiaocong Zhao, Jianqiang Wang et al. | [Abstract](https://arxiv.org/abs/2401.03629) · [PDF](https://arxiv.org/pdf/2401.03629) | rule-assigned |
 | 2023-12-07 | Trajeglish: Traffic Modeling as Next-Token Prediction | Jonah Philion, Xue Bin Peng, Sanja Fidler | [Abstract](https://arxiv.org/abs/2312.04535) · [PDF](https://arxiv.org/pdf/2312.04535) | rule-assigned |
 | 2023-10-30 | Large Trajectory Models are Scalable Motion Predictors and Planners | Qiao Sun, Shiduo Zhang, Danjiao Ma, Jingzhe Shi et al. | [Abstract](https://arxiv.org/abs/2310.19620) · [PDF](https://arxiv.org/pdf/2310.19620) | rule-assigned |
-| 2023-10-13 | A Framework for Few-Shot Policy Transfer through Observation Mapping and Behavior Cloning | Yash Shukla, Bharat Kesari, Shivam Goel, Robert Wright et al. | [Abstract](https://arxiv.org/abs/2310.08836) · [PDF](https://arxiv.org/pdf/2310.08836) | rule-assigned |
-| 2023-10-09 | Memory-Consistent Neural Networks for Imitation Learning | Kaustubh Sridhar, Souradeep Dutta, Dinesh Jayaraman, James Weimer et al. | [Abstract](https://arxiv.org/abs/2310.06171) · [PDF](https://arxiv.org/pdf/2310.06171) | rule-assigned |
 
 ---
 

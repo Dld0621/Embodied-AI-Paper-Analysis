@@ -1,12 +1,12 @@
 # Balance & Contact Regulation · 平衡与接触调节
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Coordination%20%26%20Balance&specialty=Balance%20%26%20Contact%20Regulation#research-workbench)
 
-> 10 conference papers · 70 recent arXiv papers
+> 12 conference papers · 71 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,13 +20,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (10)
+## Conference papers (12)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | Adaptive Friction-based Inchworm-like Locomotion | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696680) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696680) | rule-assigned |
 | 2026 | COLA: Learning Human-Humanoid Coordination for Collaborative Object Carrying | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2510.14293) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696713) | rule-assigned |
-| 2026 | SCU-Hand with Integrated Single-Sheet Valve: A Funnel-Shaped Robotic Hand for Milligram-Scale Powder Handling | ICRA · Robotic Hand | [Paper](https://arxiv.org/abs/2512.07091) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697543) | rule-assigned |
-| 2025 | Human-Robot Collaboration for the Remote Control of Mobile Humanoid Robots With Torso-Arm Coordination | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2505.05773) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128048) | rule-assigned |
+| 2026 | Hydrodynamic Optimization of a Spherical Amphibious Robot’s Paddle-Wheel for Effective Water Surface Locomotion * | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696365) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696365) | rule-assigned |
+| 2026 | SCU-Hand with Integrated Single-Sheet Valve: A Funnel-Shaped Robotic Hand for Milligram-Scale Powder Handling | ICRA · Robotic Hand | [Paper](https://arxiv.org/pdf/2512.07091) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697543) | rule-assigned |
+| 2025 | Human-Robot Collaboration for the Remote Control of Mobile Humanoid Robots With Torso-Arm Coordination | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2505.05773) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128048) | rule-assigned |
 | 2025 | Humanoid Whole-Body Locomotion on Narrow Terrain via Dynamic Balance and Reinforcement Learning | IROS · Humanoid | [Paper](https://arxiv.org/abs/2502.17219) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246060) | rule-assigned |
 | 2025 | Optimal Trajectory Planning in a Vertically Undulating Snake Locomotion using Contact-implicit Optimization | IROS · Locomotion | [Paper](https://arxiv.org/abs/2508.02953) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247246) | rule-assigned |
 | 2025 | SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2505.11494) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247065) | rule-assigned |
@@ -35,10 +37,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Admittance Model Optimization for Gait Balance Assistance of a Robotic Walker: Passive Model-based Mechanical Assessment | ICRA · Gait | [Paper](https://doi.org/10.1109/icra46639.2022.9811594) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811594) | rule-assigned |
 | 2022 | Humanoid Arm Motion Planning for Improved Disturbance Recovery Using Model Hierarchy Predictive Control | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra46639.2022.9811878) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811878) | rule-assigned |
 
-## Recent arXiv papers (70)
+## Recent arXiv papers (71)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-08 | Autonomous thermodynamic cycles via robotic mobility and sensing | Sofia Kuperman, Ezra Ben-Abu, Yaron Veksler, Anna Zigelman et al. | [Abstract](https://arxiv.org/abs/2610.11667) · [PDF](https://arxiv.org/pdf/2610.11667) | rule-assigned |
 | 2026-09-27 | AMBIT: Anticipatory Multimodal Body Recruitment for Bimanual Tracking on a Humanoid | Hanlong Li, Sihan Tan, Takeshi Ashizawa, Benjamin Yen et al. | [Abstract](https://arxiv.org/abs/2609.33484) · [PDF](https://arxiv.org/pdf/2609.33484) | rule-assigned |
 | 2026-09-20 | Steering Through Contact: A Finite-Support Motion Model for Single-Track Center-Articulated Robots | Mohamed Dhia Ounally, Nicolas Samson, Mathis Turgeon-Roy, Veronica Vannini et al. | [Abstract](https://arxiv.org/abs/2609.23271) · [PDF](https://arxiv.org/pdf/2609.23271) | rule-assigned |
 | 2026-09-18 | CounterPlay: Counterfactual Post-Training for Self-Play Driving Policies | Jiarong Wei, Yin Wu, Runkai He, Abhinav Valada | [Abstract](https://arxiv.org/abs/2609.21617) · [PDF](https://arxiv.org/pdf/2609.21617) | rule-assigned |

@@ -1,0 +1,52 @@
+# Global Path Planning · 全局路径规划 · Conference 2023
+
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
+[← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
+
+> 40 papers · complete list for this taxonomy leaf
+
+| Year | Paper | Venue / topic | Online links | Review status |
+|---:|---|---|---|---|
+| 2023 | Language-Conditioned Path Planning | CoRL · Path Planning | [Paper](https://arxiv.org/pdf/2308.16893) · [Index](https://dblp.org/rec/conf/corl/XieLAJ23) | rule-assigned |
+| 2023 | A congestion-aware path planning method considering crowd spatial-temporal anomalies for long-term autonomy of mobile robots | ICRA · Mobile Robot | [Paper](https://figshare.com/articles/conference_contribution/A_congestion-aware_path_planning_method_considering_crowd_spatial-temporal_anomalies_for_long-term_autonomy_of_mobile_robots/22185856) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160252) | rule-assigned |
+| 2023 | A fast two-stage approach for multi-goal path planning in a fruit tree | ICRA · Path Planning | [Paper](https://edepot.wur.nl/639587) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160281) | rule-assigned |
+| 2023 | Collision-free Coverage Path Planning for the Variable-speed Curvature-constrained Robot | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160621) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160621) | rule-assigned |
+| 2023 | Computational Tradeoff in Minimum Obstacle Displacement Planning for Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2302.07114) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161372) | rule-assigned |
+| 2023 | Congestion Prediction for Large Fleets of Mobile Robots | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161554) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161554) | rule-assigned |
+| 2023 | Contextual Multi-Objective Path Planning | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160781) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160781) | rule-assigned |
+| 2023 | Deep Reinforcement Learning-based Task Assignment and Path Planning for Multi-agent Construction Robots | ICRA · Path Planning | [Paper](https://www.iaarc.org/./publications/fulltext/06_ICRA_2023_Paper_36.pdf) · [Publisher](https://doi.org/10.22260/icra2023/0008) | rule-assigned |
+| 2023 | DQN-based on-line Path Planning Method for Automatic Navigation of Miniature Robots | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161023) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161023) | rule-assigned |
+| 2023 | Informable Multi-Objective and Multi-Directional RRT* System for Robot Path Planning | ICRA · Path Planning | [Paper](https://arxiv.org/abs/2205.14853) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160838) | rule-assigned |
+| 2023 | Motion Planning for a Climbing Robot with Stochastic Grasps | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2209.10687) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160218) | rule-assigned |
+| 2023 | Online Coverage Path Planning Scheme for a Size-Variable Robot | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160733) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160733) | rule-assigned |
+| 2023 | Online Social Robot Navigation in Indoor, Large and Crowded Environments | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160603) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160603) | rule-assigned |
+| 2023 | Optimal Multi-Robot Coverage Path Planning for Agricultural Fields using Motion Dynamics | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160265) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160265) | rule-assigned |
+| 2023 | Path Planning Under Uncertainty to Localize mmWave Sources | ICRA · Path Planning | [Paper](https://arxiv.org/pdf/2303.03739) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160524) | rule-assigned |
+| 2023 | Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2502.09556) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160595) | rule-assigned |
+| 2023 | Sampling-based path planning under temporal logic constraints with real-time adaptation | ICRA · Path Planning | [Paper](https://arxiv.org/pdf/2302.11114) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161266) | rule-assigned |
+| 2023 | Self-Entanglement-Free Tethered Path Planning for Non-Particle Differential-Driven Robot | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160549) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160549) | rule-assigned |
+| 2023 | Semantics-aware Exploration and Inspection Path Planning | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2303.07236) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160469) | rule-assigned |
+| 2023 | Unidirectional-Road-Network-Based Global Path Planning for Cleaning Robots in Semi-Structured Environments | ICRA · Path Planning | [Paper](https://arxiv.org/pdf/2511.13048) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161557) | rule-assigned |
+| 2023 | Visibility-Aware Navigation Among Movable Obstacles | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2212.02671) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160865) | rule-assigned |
+| 2023 | An Interactive System for Multiple-Task Linear Temporal Logic Path Planning | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS55552.2023.10342309) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342309) | rule-assigned |
+| 2023 | Bidirectional Search Strategy for Incremental Search-based Path Planning | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS55552.2023.10342039) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342039) | rule-assigned |
+| 2023 | Collision Prevention Strategy Using Sparse 2D Spatial Information for Indoor Mobile Robots | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS55552.2023.10341443) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341443) | rule-assigned |
+| 2023 | Complete Coverage Path Planning for Omnidirectional Expand and Collapse Robot Panthera | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS55552.2023.10342525) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342525) | rule-assigned |
+| 2023 | Control Transformer: Robot Navigation in Unknown Environments Through PRM-Guided Return-Conditioned Sequence Modeling | IROS · Navigation | [Paper](https://arxiv.org/pdf/2211.06407) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341628) | rule-assigned |
+| 2023 | Counterexample Guided Abstraction Refinement with Non-Refined Abstractions for Multi-Goal Multi-Robot Path Planning | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS55552.2023.10341952) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341952) | rule-assigned |
+| 2023 | DAMON: Dynamic Amorphous Obstacle Navigation using Topological Manifold Learning and Variational Autoencoding | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.13282) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342035) | rule-assigned |
+| 2023 | Demonstrating Autonomous 3D Path Planning on a Novel Scalable UGV-UAV Morphing Robot | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2308.00235) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342189) | rule-assigned |
+| 2023 | Efficient Heuristics for Multi-Robot Path Planning in Crowded Environments | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2306.14409) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341800) | rule-assigned |
+| 2023 | Efficient Path Planning In Manipulation Planning Problems by Actively Reusing Validation Effort | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2303.00637) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341264) | rule-assigned |
+| 2023 | Fast Asymptotically Optimal Path Planning in Dynamic, Uncertain Environments | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS55552.2023.10341928) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341928) | rule-assigned |
+| 2023 | Hybrid Map-Based Path Planning for Robot Navigation in Unstructured Environments | IROS · Navigation | [Paper](https://arxiv.org/pdf/2303.05304) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341666) | rule-assigned |
+| 2023 | ITIRRT: A Decoupled Framework for the Integration of Machine Learning Into Path Planning | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS55552.2023.10341747) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341747) | rule-assigned |
+| 2023 | Lightweight Neural Path Planning | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2307.10555) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342133) | rule-assigned |
+| 2023 | Mapless Urban Robot Navigation by Following Pedestrians | IROS · Navigation | [Paper](https://figshare.com/articles/conference_contribution/Mapless_Urban_Robot_Navigation_by_Following_Pedestrians/25149497) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341843) | rule-assigned |
+| 2023 | Predicting Energy Consumption and Traversal Time of Ground Robots for Outdoor Navigation on Multiple Types of Terrain | IROS · Navigation | [Paper](https://arxiv.org/pdf/2308.15978) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341716) | rule-assigned |
+| 2023 | Terrain-Aware Kinodynamic Planning with Efficiently Adaptive State Lattices for Mobile Robot Navigation in Off-Road Environments | IROS · Navigation | [Paper](https://arxiv.org/pdf/2504.17889) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341537) | rule-assigned |
+| 2023 | VDBblox: Accurate and Efficient Distance Fields for Path Planning and Mesh Reconstruction | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS55552.2023.10342123) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342123) | rule-assigned |
+| 2023 | Path Planning for Multiple Tethered Robots Using Topological Braids | RSS · Path Planning | [Paper](https://arxiv.org/abs/2305.00271) · [Index](https://dblp.org/rec/journals/corr/abs-2305-00271) | rule-assigned |

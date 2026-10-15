@@ -1,12 +1,12 @@
 # Tools & Articulated Objects · 工具与关节物体操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Tools%20%26%20Articulated%20Objects#research-workbench)
 
-> 33 conference papers · 118 recent arXiv papers
+> 35 conference papers · 121 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,20 +20,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (33)
+## Conference papers (35)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Robustness-Aware Tool Selection and Manipulation Planning with Learned Energy-Informed Guidance | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2506.03362) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695929) | rule-assigned |
-| 2026 | Vi-TacMan: Articulated Object Manipulation via Vision and Touch | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2510.06339) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697058) | rule-assigned |
+| 2026 | Learning Constraint-Aware Dynamical Systems from Human Demonstrations for Constrained Manipulation Tasks | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695978) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695978) | rule-assigned |
+| 2026 | Planning Using Belief Summaries for Goal-Directed Manipulation of Articulated Objects with Force and Proprioception | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695821) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695821) | rule-assigned |
+| 2026 | Robustness-Aware Tool Selection and Manipulation Planning with Learned Energy-Informed Guidance | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2506.03362) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695929) | rule-assigned |
+| 2026 | Vi-TacMan: Articulated Object Manipulation via Vision and Touch | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2510.06339) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697058) | rule-assigned |
 | 2025 | Adaptive Articulated Object Manipulation on the Fly with Foundation Model Reasoning and Part Grounding | ICCV · Foundation Model | [Paper](https://arxiv.org/pdf/2507.18276) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01211) | rule-assigned |
-| 2025 | Learning Precise Affordances From Egocentric Videos for Robotic Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/abs/2408.10123) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00985) | rule-assigned |
+| 2025 | Learning Precise Affordances From Egocentric Videos for Robotic Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/pdf/2408.10123) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00985) | rule-assigned |
 | 2025 | AdaManip: Adaptive Articulated Object Manipulation Environments and Policy Learning | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2502.11124) · [Index](https://dblp.org/rec/journals/corr/abs-2502-11124) | rule-assigned |
-| 2025 | Acoustic Wave Manipulation Through Sparse Robotic Actuation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2502.08784) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128588) | rule-assigned |
-| 2025 | Implicit Physics-aware Policy for Dynamic Manipulation of Rigid Objects via Soft Body Tools | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2502.05696) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127880) | rule-assigned |
-| 2025 | You Only Estimate Once: Unified, One-stage, Real-Time Category-Level Articulated Object 6D Pose Estimation for Robotic Grasping | ICRA · Grasp | [Paper](https://arxiv.org/abs/2506.05719) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128513) | rule-assigned |
+| 2025 | Acoustic Wave Manipulation Through Sparse Robotic Actuation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2502.08784) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128588) | rule-assigned |
+| 2025 | Implicit Physics-aware Policy for Dynamic Manipulation of Rigid Objects via Soft Body Tools | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2502.05696) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127880) | rule-assigned |
+| 2025 | You Only Estimate Once: Unified, One-stage, Real-Time Category-Level Articulated Object 6D Pose Estimation for Robotic Grasping | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2506.05719) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128513) | rule-assigned |
 | 2025 | ArtGS: 3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects | IROS · Manipulation | [Paper](https://arxiv.org/abs/2507.02600) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246522) | rule-assigned |
-| 2025 | ManipGPT: Is Affordance Segmentation by Large Vision Models Enough for Articulated Object Manipulation? | IROS · Manipulation | [Paper](https://arxiv.org/abs/2412.10050) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246374) | rule-assigned |
+| 2025 | ManipGPT: Is Affordance Segmentation by Large Vision Models Enough for Articulated Object Manipulation? | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2412.10050) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246374) | rule-assigned |
 | 2025 | Robotic Hand Tool Use with Contact-Based Demonstration: The Case of Cucumber Peeling | IROS · Robotic Hand | [Paper](https://doi.org/10.1109/IROS60139.2025.11247573) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247573) | rule-assigned |
 | 2025 | RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills | NeurIPS · Manipulation | [Paper](https://arxiv.org/abs/2506.14763) · [Index](https://dblp.org/rec/conf/nips/LinYWQWGWNFG25) | rule-assigned |
 | 2024 | AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation | CoRL · Llm | [Paper](https://arxiv.org/abs/2406.11548) · [Index](https://dblp.org/rec/conf/corl/XiongS0Z0W024) | rule-assigned |
@@ -41,9 +43,9 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | RiEMann: Near Real-Time SE(3)-Equivariant Robot Manipulation without Point Cloud Segmentation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2403.19460) · [Index](https://dblp.org/rec/journals/corr/abs-2403-19460) | rule-assigned |
 | 2024 | Robot See Robot Do: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2409.18121) · [Index](https://dblp.org/rec/journals/corr/abs-2409-18121) | rule-assigned |
 | 2024 | ScissorBot: Learning Generalizable Scissor Skill for Paper Cutting via Simulation, Imitation, and Sim2Real | CoRL · Simulation | [Paper](https://arxiv.org/abs/2409.13966) · [Index](https://dblp.org/rec/journals/corr/abs-2409-13966) | rule-assigned |
-| 2024 | Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs | ICRA · Llm | [Paper](https://arxiv.org/abs/2311.02847) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610744) | rule-assigned |
+| 2024 | Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs | ICRA · Llm | [Paper](https://arxiv.org/pdf/2311.02847) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610744) | rule-assigned |
 | 2024 | Robotic Manipulation of Hand Tools: The Case of Screwdriving | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610831) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610831) | rule-assigned |
-| 2024 | AO-Grasp: Articulated Object Grasp Generation | IROS · Grasp | [Paper](https://arxiv.org/abs/2310.15928) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802558) | rule-assigned |
+| 2024 | AO-Grasp: Articulated Object Grasp Generation | IROS · Grasp | [Paper](https://arxiv.org/pdf/2310.15928) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802558) | rule-assigned |
 | 2024 | Learning-based Adaptive Admittance Controller for Efficient and Safe pHRI in Contact-rich Manufacturing Tasks | IROS · Contact Rich | [Paper](https://doi.org/10.1109/IROS58592.2024.10802530) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802530) | rule-assigned |
 | 2024 | The Power of the Senses: Generalizable Manipulation from Vision and Touch through Masked Multimodal Learning | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2311.00924) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802719) | rule-assigned |
 | 2024 | General Articulated Objects Manipulation in Real Images via Part-Aware Diffusion Process | NeurIPS · Manipulation | [Paper](https://doi.org/10.52202/079017-0651) · [Publisher](https://doi.org/10.52202/079017-0651) | rule-assigned |
@@ -53,15 +55,19 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Learning to Design and Use Tools for Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2311.00754) · [Index](https://dblp.org/rec/journals/corr/abs-2311-00754) | rule-assigned |
 | 2023 | RoboCook: Long-Horizon Elasto-Plastic Object Manipulation with Diverse Tools | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2306.14447) · [Index](https://dblp.org/rec/journals/corr/abs-2306-14447) | rule-assigned |
 | 2023 | Extraneousness-Aware Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2210.01379) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161521) | rule-assigned |
-| 2023 | Human-Guided Planning for Complex Manipulation Tasks Using the Screw Geometry of Motion | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2209.05672) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161130) | rule-assigned |
-| 2023 | Learning Category-Level Manipulation Tasks from Point Clouds with Dynamic Graph CNNs | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2209.06331) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160820) | rule-assigned |
+| 2023 | Human-Guided Planning for Complex Manipulation Tasks Using the Screw Geometry of Motion | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2209.05672) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161130) | rule-assigned |
+| 2023 | Learning Category-Level Manipulation Tasks from Point Clouds with Dynamic Graph CNNs | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2209.06331) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160820) | rule-assigned |
 | 2023 | Sim2Real2: Actively Building Explicit Physics Model for Precise Articulated Object Manipulation | ICRA · Sim2Real | [Paper](https://arxiv.org/abs/2302.10693) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160370) | rule-assigned |
 | 2023 | Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusions | NeurIPS · Manipulation | [Paper](https://arxiv.org/pdf/2309.07510) · [Index](https://dblp.org/rec/journals/corr/abs-2309-07510) | rule-assigned |
 
-## Recent arXiv papers (118)
+## Recent arXiv papers (121)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-12 | Observe, Share, or Predict? Disentangling Partner Information in Embodied Multi-Agent Collaboration | Adrián Szlatincsán, Filippo Ziliotto, Bruno Lepri, Luciano Serafini et al. | [Abstract](https://arxiv.org/abs/2610.16895) · [PDF](https://arxiv.org/pdf/2610.16895) | rule-assigned |
+| 2026-10-12 | Constraint-Decomposed Impedance Control from Generative Policy for Articulated Object Manipulation | Kyungseo Park, Byeongdo Lim, Jungbin Lim, Minseok Choi et al. | [Abstract](https://arxiv.org/abs/2610.16316) · [PDF](https://arxiv.org/pdf/2610.16316) | rule-assigned |
+| 2026-10-09 | Towards a Unified Taxonomy of Agricultural Harvesting Technologies: Linking Physical Interaction, Automation, and Selectivity | Renato Cristiano Torres, Fabiano Mariath D Oliveira, Claudio Gottschalg Duque | [Abstract](https://arxiv.org/abs/2610.13688) · [PDF](https://arxiv.org/pdf/2610.13688) | rule-assigned |
+| 2026-10-08 | SpatialHarness: Test-Time Spatial Scaffolding for Fine Robotic Manipulation | Jiayu Wang, Yue Yu, Bin Zhu, Zhiyao Yang et al. | [Abstract](https://arxiv.org/abs/2610.12457) · [PDF](https://arxiv.org/pdf/2610.12457) | rule-assigned |
 | 2026-10-06 | SMART: Zero-Shot Sim-to-Real Articulated Object Manipulation via Large-Scale Synthetic Pretraining | Jicong Ao, Shuhan Jiang, Yuling Zhong, Yanwen Liu et al. | [Abstract](https://arxiv.org/abs/2610.07652) · [PDF](https://arxiv.org/pdf/2610.07652) | rule-assigned |
 | 2026-09-30 | Spatial Strategies, Not Actions: Vector-Quantized Geodesics as Tools for LLM-Driven Agents | Gabriel Turinici | [Abstract](https://arxiv.org/abs/2610.00613) · [PDF](https://arxiv.org/pdf/2610.00613) | rule-assigned |
 | 2026-09-29 | Learning to Explore Hidden Kinematics for Articulated Object Manipulation | Ruiyao Liu, Boshu Lei, Zhuoyang Pan, Kostas Daniilidis | [Abstract](https://arxiv.org/abs/2609.36553) · [PDF](https://arxiv.org/pdf/2609.36553) | rule-assigned |
@@ -179,7 +185,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-24 | AO-Grasp: Articulated Object Grasp Generation | Carlota Parés Morlans, Claire Chen, Yijia Weng, Michelle Yi et al. | [Abstract](https://arxiv.org/abs/2310.15928) · [PDF](https://arxiv.org/pdf/2310.15928) | rule-assigned |
 | 2023-10-19 | Creative Robot Tool Use with Large Language Models | Mengdi Xu, Peide Huang, Wenhao Yu, Shiqi Liu et al. | [Abstract](https://arxiv.org/abs/2310.13065) · [PDF](https://arxiv.org/pdf/2310.13065) | rule-assigned |
 | 2023-10-18 | Simultaneous Learning of Contact and Continuous Dynamics | Bibit Bianchini, Mathew Halm, Michael Posa | [Abstract](https://arxiv.org/abs/2310.12054) · [PDF](https://arxiv.org/pdf/2310.12054) | rule-assigned |
-| 2023-10-13 | ImageManip: Image-based Robotic Manipulation with Affordance-guided Next View Selection | Xiaoqi Li, Yanzi Wang, Yan Shen, Ponomarenko Iaroslav et al. | [Abstract](https://arxiv.org/abs/2310.09069) · [PDF](https://arxiv.org/pdf/2310.09069) | rule-assigned |
 
 ---
 

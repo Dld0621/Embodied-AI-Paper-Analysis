@@ -1,7 +1,7 @@
 # Offline Reinforcement Learning · 离线强化学习
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Reinforcement%20Learning&specialty=Offline%20Reinforcement%20Learning#research-workbench)
@@ -24,7 +24,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2025 | Policy Learning from Large Vision-Language Model Feedback Without Reward Modeling | IROS · Language Model | [Paper](https://arxiv.org/abs/2507.23391) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246902) | rule-assigned |
+| 2025 | Policy Learning from Large Vision-Language Model Feedback Without Reward Modeling | IROS · Language Model | [Paper](https://arxiv.org/pdf/2507.23391) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246902) | rule-assigned |
 | 2024 | Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance | CoRL · Foundation Model | [Paper](https://arxiv.org/abs/2410.13816) · [Index](https://dblp.org/rec/journals/corr/abs-2410-13816) | rule-assigned |
 
 ## Recent arXiv papers (12)

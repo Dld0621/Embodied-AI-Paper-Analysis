@@ -1,7 +1,7 @@
 # Safety Tests & Constraint Verification · 安全测试与约束验证
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Safety%20%26%20Reliability%20Evaluation&specialty=Safety%20Tests%20%26%20Constraint%20Verification#research-workbench)
@@ -24,8 +24,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | As You Wish: Mission Planning with Formal Verification using LLMs in Precision Agriculture | ICRA · Llm | [Paper](https://arxiv.org/abs/2606.18519) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697380) | rule-assigned |
-| 2024 | Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents | ICRA · Llm | [Paper](https://arxiv.org/abs/2309.09919) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611447) | rule-assigned |
+| 2026 | As You Wish: Mission Planning with Formal Verification using LLMs in Precision Agriculture | ICRA · Llm | [Paper](https://arxiv.org/pdf/2606.18519) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697380) | rule-assigned |
+| 2024 | Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents | ICRA · Llm | [Paper](https://arxiv.org/pdf/2309.09919) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611447) | rule-assigned |
 
 ## Recent arXiv papers (77)
 
@@ -60,11 +60,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-03-06 | Control Barrier Corridors: From Safety Functions to Safe Sets | Ömür Arslan, Nikolay Atanasov | [Abstract](https://arxiv.org/abs/2603.06494) · [PDF](https://arxiv.org/pdf/2603.06494) | rule-assigned |
 | 2026-02-23 | Contextual Safety Reasoning and Grounding for Open-World Robots | Zachary Ravichandran, David Snyder, Alexander Robey, Hamed Hassani et al. | [Abstract](https://arxiv.org/abs/2602.19983) · [PDF](https://arxiv.org/pdf/2602.19983) | rule-assigned |
 | 2026-02-13 | Safe-SDL:Establishing Safety Boundaries and Control Mechanisms for AI-Driven Self-Driving Laboratories | Zihan Zhang, Haohui Que, Junhan Chang, Xin Zhang et al. | [Abstract](https://arxiv.org/abs/2602.15061) · [PDF](https://arxiv.org/pdf/2602.15061) | rule-assigned |
+| 2026-02-11 | SQ-CBF: Signed Distance Functions for Reliable Superquadric-Based Safety Filtering | Haocheng Zhao, Lukas Brunke, Oliver Lagerquist, Siqi Zhou et al. | [Abstract](https://arxiv.org/abs/2602.11049) · [PDF](https://arxiv.org/pdf/2602.11049) | rule-assigned |
 | 2026-02-08 | From Ellipsoids to Midair Control of Dynamic Hitches | Jiawei Xu, Subhrajit Bhattacharya, David Saldaña | [Abstract](https://arxiv.org/abs/2602.08116) · [PDF](https://arxiv.org/pdf/2602.08116) | rule-assigned |
 | 2025-12-30 | Safe Sliding Mode Control for Marine Vessels Using High-Order Control Barrier Functions and Fast Projection | Spyridon Syntakas, Kostas Vlachos | [Abstract](https://arxiv.org/abs/2512.24281) · [PDF](https://arxiv.org/pdf/2512.24281) | rule-assigned |
 | 2025-11-28 | Automated Generation of MDPs Using Logic Programming and LLMs for Robotic Applications | Enrico Saccon, Davide De Martini, Matteo Saveriano, Edoardo Lamon et al. | [Abstract](https://arxiv.org/abs/2511.23143) · [PDF](https://arxiv.org/pdf/2511.23143) | rule-assigned |
 | 2025-11-23 | How to Train Your Latent Control Barrier Function: Smooth Safety Filtering Under Hard-to-Model Constraints | Kensuke Nakamura, Arun L. Bishop, Steven Man, Aaron M. Johnson et al. | [Abstract](https://arxiv.org/abs/2511.18606) · [PDF](https://arxiv.org/pdf/2511.18606) | rule-assigned |
-| 2025-10-09 | Injecting Hallucinations in Autonomous Vehicles: A Component-Agnostic Safety Evaluation Framework | Alexandre Moreira Nascimento, Gabriel Kenji Godoy Shimanuki, Lúcio Flavio Vismari, João Batista Camargo et al. | [Abstract](https://arxiv.org/abs/2510.07749) · [PDF](https://arxiv.org/pdf/2510.07749) | rule-assigned |
 | 2025-09-24 | Formal Safety Verification and Refinement for Generative Motion Planners via Certified Local Stabilization | Devesh Nath, Haoran Yin, Glen Chou | [Abstract](https://arxiv.org/abs/2509.19688) · [PDF](https://arxiv.org/pdf/2509.19688) | rule-assigned |
 | 2025-08-07 | GPU-Accelerated Barrier-Rate Guided MPPI Control for Tractor-Trailer Systems | Keyvan Majd, Hardik Parwana, Bardh Hoxha, Steven Hong et al. | [Abstract](https://arxiv.org/abs/2508.05773) · [PDF](https://arxiv.org/pdf/2508.05773) | rule-assigned |
 | 2025-07-18 | Fixed time convergence guarantees for Higher Order Control Barrier Functions | Janani S K, Shishir Kolathaya | [Abstract](https://arxiv.org/abs/2507.13888) · [PDF](https://arxiv.org/pdf/2507.13888) | rule-assigned |

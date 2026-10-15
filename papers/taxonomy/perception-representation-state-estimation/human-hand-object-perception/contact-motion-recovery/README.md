@@ -1,7 +1,7 @@
 # Contact & Motion Recovery · 接触与运动恢复
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Human%20%26%20Hand-object%20Perception&specialty=Contact%20%26%20Motion%20Recovery#research-workbench)
@@ -24,7 +24,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Proprioceptive Image: An Image Representation of Proprioceptive Data from Quadruped Robots for Contact Estimation Learning | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2510.14612) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697089) | rule-assigned |
+| 2026 | Proprioceptive Image: An Image Representation of Proprioceptive Data from Quadruped Robots for Contact Estimation Learning | ICRA · Quadruped | [Paper](https://arxiv.org/pdf/2510.14612) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697089) | rule-assigned |
 | 2025 | A Data-Driven Contact Estimation Method for Wheeled-Biped Robots | ICRA · Biped | [Paper](https://arxiv.org/pdf/2410.12345) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128254) | rule-assigned |
 | 2025 | ORBiT: Optimizing Robot-Assisted Bite Transfer Leveraging a Real2Sim2Real Framework | IROS · Sim2Real | [Paper](https://doi.org/10.1109/IROS60139.2025.11247185) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247185) | rule-assigned |
 

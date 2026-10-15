@@ -1,12 +1,12 @@
 # Multifinger Coordination & Grasp Generation · 多指协调与抓取生成
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Multifinger%20Grasping%20%26%20Control&specialty=Multifinger%20Coordination%20%26%20Grasp%20Generation#research-workbench)
 
-> 29 conference papers · 72 recent arXiv papers
+> 28 conference papers · 74 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,44 +20,45 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (29)
+## Conference papers (28)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos | CVPR · Cross-hand dexterous control | [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_UniDex_A_Robot_Foundation_Suite_for_Universal_Dexterous_Hand_Control_CVPR_2026_paper.pdf) · [Official](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_UniDex_A_Robot_Foundation_Suite_for_Universal_Dexterous_Hand_Control_CVPR_2026_paper.html) | rule-assigned |
-| 2026 | Adversarial Game-Theoretic Algorithm for Dexterous Grasp Synthesis | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2511.05809) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696904) | rule-assigned |
-| 2026 | CEDex: Cross-Embodiment Dexterous Grasp Generation at Scale from Human-like Contact Representations | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2509.24661) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696994) | rule-assigned |
-| 2026 | CoorGrasp: Coordinated Contact Control for Adaptive Dexterous Grasping Under Uncertainty | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2607.03557) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696385) | rule-assigned |
-| 2026 | Decoding Multi-Finger Motions and Grasp Types with Grasp-Specific Models and Lightmyography Based Muscle-Machine Interfaces | ICRA · Multi Finger | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696457) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696457) | rule-assigned |
-| 2026 | OmniDexGrasp: Generalizable Dexterous Grasping via Foundation Model and Force Feedback | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2510.23119) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696965) | rule-assigned |
+| 2026 | Adversarial Game-Theoretic Algorithm for Dexterous Grasp Synthesis | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2511.05809) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696904) | rule-assigned |
+| 2026 | CEDex: Cross-Embodiment Dexterous Grasp Generation at Scale from Human-like Contact Representations | ICRA · Dexterous | [Paper](https://kclpure.kcl.ac.uk/portal/en/publications/37e7d80f-4588-40b7-8eb3-faaf140f6842) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696994) | rule-assigned |
+| 2026 | CoorGrasp: Coordinated Contact Control for Adaptive Dexterous Grasping Under Uncertainty | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2607.03557) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696385) | rule-assigned |
+| 2026 | OmniDexGrasp: Generalizable Dexterous Grasping via Foundation Model and Force Feedback | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2510.23119) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696965) | rule-assigned |
 | 2025 | AffordDexGrasp: Open-Set Language-Guided Dexterous Grasp With Generalizable-Instructive Affordance | ICCV · Dexterous | [Paper](https://arxiv.org/abs/2503.07360) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01099) | rule-assigned |
 | 2025 | DexVLG: Dexterous Vision-Language-Grasp Model at Scale | ICCV · Dexterous | [Paper](https://arxiv.org/pdf/2507.02747) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01322) | rule-assigned |
-| 2025 | BODex: Scalable and Efficient Robotic Dexterous Grasp Synthesis Using Bilevel Optimization | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2412.16490) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127930) | rule-assigned |
+| 2025 | BODex: Scalable and Efficient Robotic Dexterous Grasp Synthesis Using Bilevel Optimization | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2412.16490) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127930) | rule-assigned |
 | 2025 | ColaDex: Contact-guided Optimization and VLM-assisted Selection for Task-oriented Dexterous Grasp Generation | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS60139.2025.11246998) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246998) | rule-assigned |
-| 2025 | Dexterous Manipulation Based on Prior Dexterous Grasp Pose Knowledge | IROS · Manipulation | [Paper](https://arxiv.org/abs/2412.15587) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247095) | rule-assigned |
-| 2025 | Exploiting Policy Idling for Dexterous Manipulation | IROS · Dexterous | [Paper](https://arxiv.org/abs/2508.15669) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246124) | rule-assigned |
+| 2025 | Dexterous Manipulation Based on Prior Dexterous Grasp Pose Knowledge | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2412.15587) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247095) | rule-assigned |
+| 2025 | Exploiting Policy Idling for Dexterous Manipulation | IROS · Dexterous | [Paper](https://arxiv.org/pdf/2508.15669) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246124) | rule-assigned |
 | 2025 | LDexMM: Language-Guided Dexterous Multi-Task Manipulation with Reinforcement Learning | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS60139.2025.11247524) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247524) | rule-assigned |
 | 2025 | Contact Map Transfer with Conditional Diffusion Model for Generalizable Dexterous Grasp Generation | NeurIPS · Dexterous | [Paper](https://arxiv.org/abs/2511.01276) · [Index](https://dblp.org/rec/conf/nips/MaCZD25) | rule-assigned |
 | 2025 | Grasp2Grasp: Vision-Based Dexterous Grasp Translation via Schrödinger Bridges | NeurIPS · Dexterous | [Paper](https://arxiv.org/abs/2506.02489) · [Index](https://dblp.org/rec/conf/nips/ZhongBA25) | rule-assigned |
 | 2024 | Object-Centric Dexterous Manipulation from Human Motion Data | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2411.04005) · [Index](https://dblp.org/rec/conf/corl/Chen0YL24) | rule-assigned |
-| 2024 | A Surprisingly Efficient Representation for Multi-Finger Grasping | ICRA · Multi Finger | [Paper](https://arxiv.org/abs/2408.02455) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611424) | rule-assigned |
-| 2024 | GrainGrasp: Dexterous Grasp Generation with Fine-grained Contact Guidance | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2405.09310) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610035) | rule-assigned |
+| 2024 | A Surprisingly Efficient Representation for Multi-Finger Grasping | ICRA · Multi Finger | [Paper](https://arxiv.org/pdf/2408.02455) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611424) | rule-assigned |
+| 2024 | GrainGrasp: Dexterous Grasp Generation with Fine-grained Contact Guidance | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2405.09310) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610035) | rule-assigned |
 | 2024 | Enhancing Object Grasping Efficiency with Deep Learning and Post-processing for Multi-finger Robotic Hands | IROS · Multi Finger | [Paper](https://doi.org/10.1109/IROS58592.2024.10801496) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801496) | rule-assigned |
 | 2024 | Grasp as You Say: Language-guided Dexterous Grasp Generation | NeurIPS · Dexterous | [Paper](https://arxiv.org/abs/2405.19291) · [Index](https://dblp.org/rec/journals/corr/abs-2405-19291) | rule-assigned |
 | 2024 | SpringGrasp: Synthesizing Compliant, Dexterous Grasps under Shape Uncertainty | RSS · Dexterous | [Paper](https://arxiv.org/abs/2404.13532) · [Index](https://dblp.org/rec/journals/corr/abs-2404-13532) | rule-assigned |
 | 2023 | DexArt: Benchmarking Generalizable Dexterous Manipulation with Articulated Objects | CVPR · Dexterous | [Paper](https://arxiv.org/pdf/2305.05706) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.02030) | rule-assigned |
 | 2023 | UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy | CVPR · Dexterous | [Paper](https://arxiv.org/pdf/2303.00938) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.00459) | rule-assigned |
 | 2023 | RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2304.04150) · [Index](https://dblp.org/rec/conf/corl/ZakkaWSGHPSTFZA23) | rule-assigned |
-| 2023 | CMG-Net: An End-to-End Contact-based Multi-Finger Dexterous Grasping Network | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2303.13182) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161481) | rule-assigned |
+| 2023 | CMG-Net: An End-to-End Contact-based Multi-Finger Dexterous Grasping Network | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2303.13182) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161481) | rule-assigned |
 | 2023 | Fast-Grasp'D: Dexterous Multi-finger Grasp Generation Through Differentiable Simulation | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2306.08132) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160314) | rule-assigned |
 | 2022 | DexVIP: Learning Dexterous Grasping with Human Hand Pose Priors from Video | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2202.00164) · [Index](https://dblp.org/rec/journals/corr/abs-2202-00164) | rule-assigned |
 | 2022 | Learning Generalizable Dexterous Manipulation from Human Grasp Affordance | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2204.02320) · [Index](https://dblp.org/rec/conf/corl/WuWW22) | rule-assigned |
-| 2022 | Multi-Finger Grasping Like Humans | IROS · Multi Finger | [Paper](https://inria.hal.science/hal-04323199) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981805) | rule-assigned |
+| 2022 | Multi-Finger Grasping Like Humans | IROS · Multi Finger | [Paper](https://arxiv.org/pdf/2211.07304) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981805) | rule-assigned |
 
-## Recent arXiv papers (72)
+## Recent arXiv papers (74)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-14 | HiFun: a Hierarchical Framework for Efficient Functional Dexterous Manipulation Learning | Linyi Huang, Guowei Huai, Weibin Liu, Shulong Jiang et al. | [Abstract](https://arxiv.org/abs/2610.19518) · [PDF](https://arxiv.org/pdf/2610.19518) | rule-assigned |
+| 2026-10-10 | Edge-Native Temporal--Graph Dual-Expert Inference for Dexterous Grasp Classification | Jiajian Zheng, Bin Zhang, Wen Fan, Yanan Liu | [Abstract](https://arxiv.org/abs/2610.14926) · [PDF](https://arxiv.org/pdf/2610.14926) | rule-assigned |
 | 2026-10-07 | Temporal Visuo-Tactile Learning for Dexterous Grasp Stability | Ken Nakahara, Aleksei Buvailik, Prokhor Kotov, Roberto Calandra | [Abstract](https://arxiv.org/abs/2610.10283) · [PDF](https://arxiv.org/pdf/2610.10283) | rule-assigned |
 | 2026-10-05 | ReDex: Repairing Sim-to-Real Dexterous Policies by Finger-Level Compliant Interaction | Jinzhou Li, Hadi Tabatabaee, Kelin Yu, Yuyin Sun et al. | [Abstract](https://arxiv.org/abs/2610.07525) · [PDF](https://arxiv.org/pdf/2610.07525) | rule-assigned |
 | 2026-09-30 | Function beyond Form: Functional Correspondence for Cross-Embodiment Dexterous Grasp Generation | Bolin Zou, Wenlong Dong, Mu Ai, Chao Tang et al. | [Abstract](https://arxiv.org/abs/2609.39006) · [PDF](https://arxiv.org/pdf/2609.39006) | rule-assigned |
@@ -89,7 +90,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-03-14 | GraspADMM: Improving Dexterous Grasp Synthesis via ADMM Optimization | Liangwang Ruan, Jiayi Chen, He Wang, Baoquan Chen | [Abstract](https://arxiv.org/abs/2603.13832) · [PDF](https://arxiv.org/pdf/2603.13832) | rule-assigned |
 | 2026-02-16 | DexEvolve: Evolutionary Optimization for Robust and Diverse Dexterous Grasp Synthesis | René Zurbrügg, Andrei Cramariuc, Marco Hutter | [Abstract](https://arxiv.org/abs/2602.15201) · [PDF](https://arxiv.org/pdf/2602.15201) | rule-assigned |
 | 2026-02-15 | Rigidity-Based Multi-Finger Coordination for Precise In-Hand Manipulation of Force-Sensitive Objects | Xinan Rong, Changhuang Wan, Aochen He, Xiaolong Li et al. | [Abstract](https://arxiv.org/abs/2602.14104) · [PDF](https://arxiv.org/pdf/2602.14104) | rule-assigned |
-| 2026-01-31 | UniMorphGrasp: Diffusion Model with Morphology-Awareness for Cross-Embodiment Dexterous Grasp Generation | Zhiyuan Wu, Xiangyu Zhang, Zhuo Chen, Jiankang Deng et al. | [Abstract](https://arxiv.org/abs/2602.00915) · [PDF](https://arxiv.org/pdf/2602.00915) | rule-assigned |
+| 2026-01-31 | DiffMorphGrasp: A Diffusion Framework Conditioned on Hand Morphology for Cross-Embodiment Grasp Generation | Zhiyuan Wu, Xiangyu Zhang, Zhuo Chen, Jiankang Deng et al. | [Abstract](https://arxiv.org/abs/2602.00915) · [PDF](https://arxiv.org/pdf/2602.00915) | reviewed |
 | 2026-01-21 | CADGrasp: Learning Contact and Collision Aware General Dexterous Grasping in Cluttered Scenes | Jiyao Zhang, Zhiyuan Ma, Tianhao Wu, Zeyuan Chen et al. | [Abstract](https://arxiv.org/abs/2601.15039) · [PDF](https://arxiv.org/pdf/2601.15039) | rule-assigned |
 | 2026-01-09 | TOSC: Task-Oriented Shape Completion for Open-World Dexterous Grasp Generation from Partial Point Clouds | Weishang Wu, Yifei Shi, Zhiping Cai | [Abstract](https://arxiv.org/abs/2601.05499) · [PDF](https://arxiv.org/pdf/2601.05499) | rule-assigned |
 | 2026-01-06 | Closing the Reality Gap: Zero-Shot Sim-to-Real Deployment for Dexterous Force-Based Grasping and Manipulation | Zhe Zhao, Haoyu Dong, Zhengmao He, Yang Li et al. | [Abstract](https://arxiv.org/abs/2601.02778) · [PDF](https://arxiv.org/pdf/2601.02778) | rule-assigned |

@@ -1,12 +1,12 @@
 # Affordances & Interaction Relations · 可供性与交互关系
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Object%20%26%20Interaction%20Perception&specialty=Affordances%20%26%20Interaction%20Relations#research-workbench)
 
-> 31 conference papers · 65 recent arXiv papers
+> 31 conference papers · 66 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,28 +24,28 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Coupled Particle Filters for Robust Affordance Estimation | ICRA · Affordance | [Paper](https://arxiv.org/abs/2603.15223) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697141) | rule-assigned |
-| 2026 | GarmentPile++: Affordance-Driven Cluttered Garments Retrieval with Vision-Language Reasoning | ICRA · Affordance | [Paper](https://arxiv.org/abs/2603.04158) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696185) | rule-assigned |
-| 2026 | PerceptTwin: Semantic Scene Reconstruction for Iterative LLM Planning and Verification | ICRA · Llm | [Paper](https://arxiv.org/abs/2606.04226) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696188) | rule-assigned |
-| 2026 | RoboHitch: Learning Visual Affordance from Disordered Keypoints for Hitch Knots Tying | ICRA · Affordance | [Paper](https://arxiv.org/abs/2605.24394) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695742) | rule-assigned |
+| 2026 | Coupled Particle Filters for Robust Affordance Estimation | ICRA · Affordance | [Paper](https://arxiv.org/pdf/2603.15223) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697141) | rule-assigned |
+| 2026 | GarmentPile++: Affordance-Driven Cluttered Garments Retrieval with Vision-Language Reasoning | ICRA · Affordance | [Paper](https://arxiv.org/pdf/2603.04158) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696185) | rule-assigned |
+| 2026 | PerceptTwin: Semantic Scene Reconstruction for Iterative LLM Planning and Verification | ICRA · Llm | [Paper](https://arxiv.org/pdf/2606.04226) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696188) | rule-assigned |
+| 2026 | RoboHitch: Learning Visual Affordance from Disordered Keypoints for Hitch Knots Tying | ICRA · Affordance | [Paper](https://arxiv.org/pdf/2605.24394) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695742) | rule-assigned |
 | 2026 | SAGrid: Scaling Robot Simulation through Automatic Affordance Annotation on In-the-Wild 3D Assets | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697139) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697139) | rule-assigned |
-| 2025 | GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency | CVPR · Affordance | [Paper](https://arxiv.org/abs/2412.09511) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.00164) | rule-assigned |
-| 2025 | GREAT: Geometry-Intention Collaborative Inference for Open-Vocabulary 3D Object Affordance Grounding | CVPR · Affordance | [Paper](https://arxiv.org/abs/2411.19626) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01615) | rule-assigned |
-| 2025 | Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions | CVPR · Affordance | [Paper](https://arxiv.org/abs/2504.04744) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01616) | rule-assigned |
+| 2025 | GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency | CVPR · Affordance | [Paper](https://arxiv.org/pdf/2412.09511) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.00164) | rule-assigned |
+| 2025 | GREAT: Geometry-Intention Collaborative Inference for Open-Vocabulary 3D Object Affordance Grounding | CVPR · Affordance | [Paper](https://arxiv.org/pdf/2411.19626) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01615) | rule-assigned |
+| 2025 | Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions | CVPR · Affordance | [Paper](https://arxiv.org/pdf/2504.04744) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01616) | rule-assigned |
 | 2025 | OVA-Fields: Weakly Supervised Open-Vocabulary Affordance Fields for Robot Operational Part Detection | ICCV · Affordance | [Paper](https://doi.org/10.1109/ICCV51701.2025.00602) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00602) | rule-assigned |
 | 2025 | 3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds | ICLR · Large Language Model | [Paper](https://arxiv.org/abs/2502.20041) · [Index](https://dblp.org/rec/journals/corr/abs-2502-20041) | rule-assigned |
-| 2025 | UniAff: A Unified Representation of Affordances for Tool Usage and Articulation with Vision-Language Models | ICRA · Language Model | [Paper](https://arxiv.org/abs/2409.20551) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127736) | rule-assigned |
-| 2025 | One-Shot Affordance Grounding of Deformable Objects in Egocentric Organizing Scenes | IROS · Affordance | [Paper](https://arxiv.org/abs/2503.01092) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246431) | rule-assigned |
+| 2025 | UniAff: A Unified Representation of Affordances for Tool Usage and Articulation with Vision-Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2409.20551) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127736) | rule-assigned |
+| 2025 | One-Shot Affordance Grounding of Deformable Objects in Egocentric Organizing Scenes | IROS · Affordance | [Paper](https://arxiv.org/pdf/2503.01092) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246431) | rule-assigned |
 | 2025 | Resource-Efficient Affordance Grounding with Complementary Depth and Semantic Prompts | IROS · Affordance | [Paper](https://arxiv.org/pdf/2503.02600) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245943) | rule-assigned |
 | 2024 | General Flow as Foundation Affordance for Scalable Robot Learning | CoRL · Affordance | [Paper](https://arxiv.org/abs/2401.11439) · [Index](https://dblp.org/rec/conf/corl/YuanWZG24) | rule-assigned |
 | 2024 | RoboPoint: A Vision-Language Model for Spatial Affordance Prediction in Robotics | CoRL · Language Model | [Paper](https://www.semanticscholar.org/paper/cc4e4a51aa12e955a7d0390739bccf8abc03c270) · [Index](https://dblp.org/rec/conf/corl/YuanDBPKMMF24) | rule-assigned |
 | 2024 | AFF-ttention! Affordances and Attention models for Short-Term Object Interaction Anticipation | ECCV · Affordance | [Paper](https://arxiv.org/abs/2406.01194) · [Index](https://dblp.org/rec/conf/eccv/MurLabadiaMGFF24) | rule-assigned |
 | 2024 | Accelerating Long-Horizon Planning with Affordance-Directed Dynamic Grounding of Abstract Strategies | ICRA · Affordance | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610486) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610486) | rule-assigned |
-| 2024 | Language-Conditioned Affordance-Pose Detection in 3D Point Clouds | ICRA · Language Conditioned | [Paper](https://arxiv.org/abs/2309.10911) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610008) | rule-assigned |
-| 2024 | Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation | ICRA · Affordance | [Paper](https://arxiv.org/abs/2309.10932) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610247) | rule-assigned |
-| 2024 | DAP: Diffusion-based Affordance Prediction for Multi-modality Storage | IROS · Affordance | [Paper](https://arxiv.org/abs/2409.00499) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802575) | rule-assigned |
-| 2024 | Leveraging Computation of Expectation Models for Commonsense Affordance Estimation on 3D Scene Graphs | IROS · Affordance | [Paper](https://arxiv.org/abs/2409.05392) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802560) | rule-assigned |
-| 2024 | ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2403.11289) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801993) | rule-assigned |
+| 2024 | Language-Conditioned Affordance-Pose Detection in 3D Point Clouds | ICRA · Language Conditioned | [Paper](https://arxiv.org/pdf/2309.10911) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610008) | rule-assigned |
+| 2024 | Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation | ICRA · Affordance | [Paper](https://arxiv.org/pdf/2309.10932) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610247) | rule-assigned |
+| 2024 | DAP: Diffusion-based Affordance Prediction for Multi-modality Storage | IROS · Affordance | [Paper](https://arxiv.org/pdf/2409.00499) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802575) | rule-assigned |
+| 2024 | Leveraging Computation of Expectation Models for Commonsense Affordance Estimation on 3D Scene Graphs | IROS · Affordance | [Paper](https://arxiv.org/pdf/2409.05392) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802560) | rule-assigned |
+| 2024 | ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2403.11289) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801993) | rule-assigned |
 | 2023 | Affordance Grounding from Demonstration Video to Target Image | CVPR · Affordance | [Paper](https://arxiv.org/pdf/2303.14644) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.00657) | rule-assigned |
 | 2023 | MAAL: Multimodality-Aware Autoencoder-based Affordance Learning for 3D Articulated Objects | ICCV · Affordance | [Paper](https://doi.org/10.1109/ICCV51070.2023.00027) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.00027) | rule-assigned |
 | 2023 | Ditto in the House: Building Articulation Models of Indoor Scenes through Interactive Perception | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2302.01295) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161431) | rule-assigned |
@@ -56,10 +56,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | AssistQ: Affordance-centric Question-driven Task Completion for Egocentric Assistant | ECCV · Affordance | [Paper](https://arxiv.org/abs/2203.04203) · [Index](https://dblp.org/rec/conf/eccv/WongCWLMGS22) | rule-assigned |
 | 2022 | Affordance Learning from Play for Sample-Efficient Policy Learning | ICRA · Affordance | [Paper](https://arxiv.org/abs/2203.00352) · [Index](https://dblp.org/rec/journals/corr/abs-2203-00352) | rule-assigned |
 
-## Recent arXiv papers (65)
+## Recent arXiv papers (66)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-12 | Phase-Conditioned Affordance Fields for SE(3)-Equivariant Visuomotor Policies | Xinzhe Chen, Liqi Huang, Sihua Ren, Haowen Sun et al. | [Abstract](https://arxiv.org/abs/2610.17281) · [PDF](https://arxiv.org/pdf/2610.17281) | rule-assigned |
 | 2026-09-01 | Part Grounding, Not Action Knowledge: Locating the Bottleneck in VLM Affordance Prediction | Sarthak Sattigeri | [Abstract](https://arxiv.org/abs/2609.13225) · [PDF](https://arxiv.org/pdf/2609.13225) | rule-assigned |
 | 2026-08-31 | CoLT-Drive: Counterfactual Long-Tail Benchmarking and Knowledge-Preserving Adaptation for Driving Affordance Prediction | Zhengxu Tang, Guofeng Cui, Ziyu Gong, Xiaozhou Zhang et al. | [Abstract](https://arxiv.org/abs/2609.00242) · [PDF](https://arxiv.org/pdf/2609.00242) | rule-assigned |
 | 2026-08-23 | Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints | Gwen Yidou-Weng, Edward Sun, Tianyi Ma, Metin Alp Dogan et al. | [Abstract](https://arxiv.org/abs/2608.22149) · [PDF](https://arxiv.org/pdf/2608.22149) | rule-assigned |

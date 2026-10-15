@@ -1,7 +1,7 @@
 # Rolling, Sliding & Finger Gaiting · 滚动、滑动与换指
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=In-hand%20Manipulation&specialty=Rolling%2C%20Sliding%20%26%20Finger%20Gaiting#research-workbench)
@@ -25,7 +25,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2024 | ResPilot: Teleoperated Finger Gaiting via Gaussian Process Residual Learning | CoRL · Gait | [Paper](https://arxiv.org/abs/2409.09140) · [Index](https://dblp.org/rec/journals/corr/abs-2409-09140) | rule-assigned |
-| 2024 | In-Hand Following of Deformable Linear Objects Using Dexterous Fingers with Tactile Sensing | IROS · Dexterous | [Paper](https://arxiv.org/abs/2403.12676) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802081) | rule-assigned |
+| 2024 | In-Hand Following of Deformable Linear Objects Using Dexterous Fingers with Tactile Sensing | IROS · Dexterous | [Paper](https://arxiv.org/pdf/2403.12676) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802081) | rule-assigned |
 
 ## Recent arXiv papers (5)
 

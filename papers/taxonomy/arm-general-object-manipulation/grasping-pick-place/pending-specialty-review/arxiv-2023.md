@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题 · arXiv 2023
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 73 papers · complete list for this taxonomy leaf
+> 69 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -79,7 +79,3 @@
 | 2023-10-19 | How Can Everyday Users Efficiently Teach Robots by Demonstrations? | Maram Sakr, Zhikai Zhang, Benjamin Li, Haomiao Zhang et al. | [Abstract](https://arxiv.org/abs/2310.13083) · [PDF](https://arxiv.org/pdf/2310.13083) | needs-review |
 | 2023-10-18 | CAPGrasp: An $\mathbb{R}^3\times \text{SO(2)-equivariant}$ Continuous Approach-Constrained Generative Grasp Sampler | Zehang Weng, Haofei Lu, Jens Lundell, Danica Kragic | [Abstract](https://arxiv.org/abs/2310.12113) · [PDF](https://arxiv.org/pdf/2310.12113) | needs-review |
 | 2023-10-16 | Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models | Kevin Black, Mitsuhiko Nakamoto, Pranav Atreya, Homer Walke et al. | [Abstract](https://arxiv.org/abs/2310.10639) · [PDF](https://arxiv.org/pdf/2310.10639) | needs-review |
-| 2023-10-14 | Mastering Robot Manipulation with Multimodal Prompts through Pretraining and Multi-task Fine-tuning | Jiachen Li, Qiaozi Gao, Michael Johnston, Xiaofeng Gao et al. | [Abstract](https://arxiv.org/abs/2310.09676) · [PDF](https://arxiv.org/pdf/2310.09676) | needs-review |
-| 2023-10-10 | EARL: Eye-on-Hand Reinforcement Learner for Dynamic Grasping with Active Pose Estimation | Baichuan Huang, Jingjin Yu, Siddarth Jain | [Abstract](https://arxiv.org/abs/2310.06751) · [PDF](https://arxiv.org/pdf/2310.06751) | needs-review |
-| 2023-10-09 | On Multi-Fidelity Impedance Tuning for Human-Robot Cooperative Manipulation | Ethan Lau, Vaibhav Srivastava, Shaunak D. Bopardikar | [Abstract](https://arxiv.org/abs/2310.05904) · [PDF](https://arxiv.org/pdf/2310.05904) | needs-review |
-| 2023-10-08 | Lan-grasp: Using Large Language Models for Semantic Object Grasping and Placement | Reihaneh Mirjalili, Michael Krawez, Yannik Blei, Simone Silenzi et al. | [Abstract](https://arxiv.org/abs/2310.05239) · [PDF](https://arxiv.org/pdf/2310.05239) | needs-review |

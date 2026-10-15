@@ -1,7 +1,7 @@
 # Software Frameworks & Integration · 软件框架与系统集成
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Computing%20%26%20Deployment%20Systems&specialty=Software%20Frameworks%20%26%20Integration#research-workbench)
@@ -24,9 +24,9 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2025 | SARO: Space-Aware Robot System for Terrain Crossing via Vision-Language Model | ICRA · Language Model | [Paper](https://arxiv.org/abs/2407.16412) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128428) | rule-assigned |
-| 2024 | Self-Recovery Prompting: Promptable General Purpose Service Robot System with Foundation Models and Self-Recovery | ICRA · Foundation Model | [Paper](https://arxiv.org/abs/2309.14425) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611640) | rule-assigned |
-| 2023 | Aggregating Single-Wheeled Mobile Robots for Omnidirectional Movements | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2308.03328) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341772) | rule-assigned |
+| 2025 | SARO: Space-Aware Robot System for Terrain Crossing via Vision-Language Model | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2407.16412) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128428) | rule-assigned |
+| 2024 | Self-Recovery Prompting: Promptable General Purpose Service Robot System with Foundation Models and Self-Recovery | ICRA · Foundation Model | [Paper](https://arxiv.org/pdf/2309.14425) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611640) | rule-assigned |
+| 2023 | Aggregating Single-Wheeled Mobile Robots for Omnidirectional Movements | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2308.03328) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341772) | rule-assigned |
 | 2023 | Development of the Whole-Body Waterproof Shell Applying and Removing System Using Phase-Change Paraffin and Grease for the Multi-DOF Robot | IROS · Whole Body | [Paper](https://doi.org/10.1109/IROS55552.2023.10341470) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341470) | rule-assigned |
 
 ## Recent arXiv papers (43)

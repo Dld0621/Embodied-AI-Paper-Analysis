@@ -1,7 +1,7 @@
 # Bio-inspired Robots · 仿生机器人
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Soft%20%26%20Specialized%20Robots&specialty=Bio-inspired%20Robots#research-workbench)
@@ -26,13 +26,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2026 | Bio-Inspired Liquid Crystal Elastomer Suction Actuator for Intelligent Robotic Grasping | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697361) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697361) | rule-assigned |
 | 2026 | MorphoBall: A Bio-Inspired Transformable Spherical Robot with Dual Terrestrial Gaits and Surface Swimming Capability | ICRA · Gait | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696098) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696098) | rule-assigned |
-| 2026 | Towards Real-World Identification of Fatigued Muscle Groups via Musculoskeletal Simulation | ICRA · Simulation | [Paper](https://arxiv.org/abs/2605.26151) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697100) | rule-assigned |
+| 2026 | Towards Real-World Identification of Fatigued Muscle Groups via Musculoskeletal Simulation | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2605.26151) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697100) | rule-assigned |
 | 2025 | A Virtual Gravity Controller for Efficient Underactuated Biped Robots | ICRA · Biped | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128793) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128793) | rule-assigned |
 | 2025 | Design of an Affordable, Fully-Actuated Biomimetic Hand for Dexterous Teleoperation Systems | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS60139.2025.11245814) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245814) | rule-assigned |
 | 2025 | Eagle-Scale Flapping-Wing Robot with Aggressive Roll Maneuverability: Bio-Inspired Actuation, Fluid-Structure Interaction Simulation and Flight Experiment | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11247591) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247591) | rule-assigned |
 | 2025 | Sampling-Based Model Predictive Control for Dexterous Manipulation on a Biomimetic Tendon-Driven Hand | IROS · Dexterous | [Paper](https://arxiv.org/abs/2411.06183) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246473) | rule-assigned |
 | 2024 | Pegasus: a Novel Bio-inspired Quadruped Robot with Underactuated Wheeled-Legged Mechanism * | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611633) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611633) | rule-assigned |
-| 2024 | ViTacTip: Design and Verification of a Novel Biomimetic Physical Vision-Tactile Fusion Sensor | ICRA · Tactile | [Paper](https://arxiv.org/abs/2402.00199) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611186) | rule-assigned |
+| 2024 | ViTacTip: Design and Verification of a Novel Biomimetic Physical Vision-Tactile Fusion Sensor | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2402.00199) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611186) | rule-assigned |
 
 ## Recent arXiv papers (76)
 

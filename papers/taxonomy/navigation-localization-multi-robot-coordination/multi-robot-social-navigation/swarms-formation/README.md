@@ -1,12 +1,12 @@
 # Swarms & Formation · 群体与编队
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Multi-robot%20%26%20Social%20Navigation&specialty=Swarms%20%26%20Formation#research-workbench)
 
-> 11 conference papers · 119 recent arXiv papers
+> 11 conference papers · 118 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,15 +28,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | Real-Time Grasp Quality in Boundary-Constrained Granular Swarm Robots | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128071) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128071) | rule-assigned |
 | 2025 | Bio-inspired Shape Self-Assembly in Large-Scale Swarm Robots Under Information Asymmetry * | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS60139.2025.11246356) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246356) | rule-assigned |
 | 2025 | Exploring Spontaneous Social Interaction Swarm Robotics Powered by Large Language Models | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246362) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246362) | rule-assigned |
-| 2025 | ImpedanceGPT: VLM-driven Impedance Control of Swarm of Mini-drones for Intelligent Navigation in Dynamic Environment | IROS · Navigation | [Paper](https://arxiv.org/abs/2503.02723) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247031) | rule-assigned |
+| 2025 | ImpedanceGPT: VLM-driven Impedance Control of Swarm of Mini-drones for Intelligent Navigation in Dynamic Environment | IROS · Navigation | [Paper](https://arxiv.org/pdf/2503.02723) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247031) | rule-assigned |
 | 2025 | LLM-CBT: LLM-Driven Closed-Loop Behavior Tree Planning for Heterogeneous UAV-UGV Swarm Collaboration | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11246793) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246793) | rule-assigned |
-| 2024 | Collision Avoidance and Navigation for a Quadrotor Swarm Using End-to-end Deep Reinforcement Learning | ICRA · Navigation | [Paper](https://arxiv.org/abs/2309.13285) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611499) | rule-assigned |
+| 2024 | Collision Avoidance and Navigation for a Quadrotor Swarm Using End-to-end Deep Reinforcement Learning | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2309.13285) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611499) | rule-assigned |
 | 2024 | Highly Efficient Observation Process Based on FFT Filtering for Robot Swarm Collaborative Navigation in Unknown Environments* | IROS · Navigation | [Paper](https://arxiv.org/pdf/2405.07687) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801770) | rule-assigned |
 | 2024 | Robot Swarm Control Based on Smoothed Particle Hydrodynamics for Obstacle-Unaware Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2404.16309) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801800) | rule-assigned |
 | 2022 | Barrier Function-based Safe Reinforcement Learning for Formation Control of Mobile Robots | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/icra46639.2022.9811604) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811604) | rule-assigned |
 | 2022 | Driving Swarm: A Swarm Robotics Framework for Intelligent Navigation in a Self-organized World | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811852) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811852) | rule-assigned |
 
-## Recent arXiv papers (119)
+## Recent arXiv papers (118)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -158,7 +158,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-01-30 | An ARGoS plug-in for the Crazyflie drone | Daniel H. Stolfi, Grégoire Danoy | [Abstract](https://arxiv.org/abs/2401.16948) · [PDF](https://arxiv.org/pdf/2401.16948) | rule-assigned |
 | 2024-01-23 | Self-organizing Nervous Systems for Robot Swarms | W. Zhu, S. Oguz, M. K. Heinrich, M. Allwright et al. | [Abstract](https://arxiv.org/abs/2401.13103) · [PDF](https://arxiv.org/pdf/2401.13103) | rule-assigned |
 | 2023-11-06 | Imitation Learning based Alternative Multi-Agent Proximal Policy Optimization for Well-Formed Swarm-Oriented Pursuit Avoidance | Sizhao Li, Yuming Xiang, Rongpeng Li, Zhifeng Zhao et al. | [Abstract](https://arxiv.org/abs/2311.02912) · [PDF](https://arxiv.org/pdf/2311.02912) | rule-assigned |
-| 2023-10-13 | AMSwarmX: Safe Swarm Coordination in CompleX Environments via Implicit Non-Convex Decomposition of the Obstacle-Free Space | Vivek K. Adajania, Siqi Zhou, Arun Kumar Singh, Angela P. Schoellig | [Abstract](https://arxiv.org/abs/2310.09195) · [PDF](https://arxiv.org/pdf/2310.09195) | rule-assigned |
 
 ---
 

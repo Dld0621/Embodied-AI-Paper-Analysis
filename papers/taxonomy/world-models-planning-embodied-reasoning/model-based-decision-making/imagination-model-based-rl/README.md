@@ -1,7 +1,7 @@
 # Imagination & Model-based RL · 想象训练与模型式 RL
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Model-based%20Decision%20Making&specialty=Imagination%20%26%20Model-based%20RL#research-workbench)
@@ -33,6 +33,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-10 | Chunk-wise Model-based Policy Optimization | Weixi Song, Donglin Wang, Yong-Lu Li | [Abstract](https://arxiv.org/abs/2610.14564) · [PDF](https://arxiv.org/pdf/2610.14564) | rule-assigned |
 | 2026-10-07 | Event-Aligned Visual Action Reasoning for World Action Models | Xiaomeng Yang, Yushu Wu, Yi Gao, Yuhao Lei et al. | [Abstract](https://arxiv.org/abs/2610.09427) · [PDF](https://arxiv.org/pdf/2610.09427) | rule-assigned |
 | 2026-10-04 | FLEX-WAM: Flexible Block-Causal World-Action Models for Long-Horizon Imagination and Planning | R. Khorrambakht, Joseph Amigo, Félix Lebel, Leon Seetoo et al. | [Abstract](https://arxiv.org/abs/2610.05483) · [PDF](https://arxiv.org/pdf/2610.05483) | rule-assigned |
 | 2026-09-30 | Sparse-WAM: Accelerating World Action Models via Action-Guided Sparse Imagination | Xinling Xie, Haodong Wang, Jiazhi Mi, Zhiming Liu et al. | [Abstract](https://arxiv.org/abs/2609.38984) · [PDF](https://arxiv.org/pdf/2609.38984) | rule-assigned |
@@ -80,7 +81,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-05-01 | Gameplay Filters: Robust Zero-Shot Safety through Adversarial Imagination | Duy P. Nguyen, Kai-Chieh Hsu, Wenhao Yu, Jie Tan et al. | [Abstract](https://arxiv.org/abs/2405.00846) · [PDF](https://arxiv.org/pdf/2405.00846) | rule-assigned |
 | 2024-04-29 | MRIC: Model-Based Reinforcement-Imitation Learning with Mixture-of-Codebooks for Autonomous Driving Simulation | Baotian He, Yibing Li | [Abstract](https://arxiv.org/abs/2404.18464) · [PDF](https://arxiv.org/pdf/2404.18464) | rule-assigned |
 | 2023-12-30 | Laboratory Experiments of Model-based Reinforcement Learning for Adaptive Optics Control | Jalo Nousiainen, Byron Engler, Markus Kasper, Chang Rajani et al. | [Abstract](https://arxiv.org/abs/2401.00242) · [PDF](https://arxiv.org/pdf/2401.00242) | rule-assigned |
-| 2023-10-12 | Pay Attention to How You Drive: Safe and Adaptive Model-Based Reinforcement Learning for Off-Road Driving | Sean J. Wang, Honghao Zhu, Aaron M. Johnson | [Abstract](https://arxiv.org/abs/2310.08674) · [PDF](https://arxiv.org/pdf/2310.08674) | rule-assigned |
 
 ---
 

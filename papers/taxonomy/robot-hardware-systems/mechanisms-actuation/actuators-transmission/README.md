@@ -1,12 +1,12 @@
 # Actuators & Transmission · 执行器与传动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Actuators%20%26%20Transmission#research-workbench)
 
-> 47 conference papers · 317 recent arXiv papers
+> 47 conference papers · 326 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,37 +24,37 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | A Novel Reconfigurable Dexterous Hand Based on Triple-Symmetric Bricard Parallel Mechanism | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2603.00892) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696369) | rule-assigned |
-| 2026 | Flexible and Foldable: Workspace Analysis and Object Manipulation Using a Soft, Interconnected, Origami-Inspired Actuator Array | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2509.13998) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696072) | rule-assigned |
-| 2026 | Robotic Grasping and Placement Controlled by EEG-Based Hybrid Visual and Motor Imagery | ICRA · Grasp | [Paper](https://arxiv.org/abs/2603.03181) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697488) | rule-assigned |
-| 2026 | Simple Models, Real Swimming: Digital Twins for Tendon-Driven Underwater Robots | ICRA · Digital Twin | [Paper](https://arxiv.org/abs/2602.23283) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697241) | rule-assigned |
-| 2026 | SoftHand Model-W: A 3D-Printed, Anthropomorphic, Underactuated Robot Hand with Integrated Wrist and Carpal Tunnel | ICRA · Robot Hand | [Paper](https://arxiv.org/abs/2604.00738) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697200) | rule-assigned |
+| 2026 | A Novel Reconfigurable Dexterous Hand Based on Triple-Symmetric Bricard Parallel Mechanism | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2603.00892) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696369) | rule-assigned |
+| 2026 | Flexible and Foldable: Workspace Analysis and Object Manipulation Using a Soft, Interconnected, Origami-Inspired Actuator Array | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2509.13998) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696072) | rule-assigned |
+| 2026 | Robotic Grasping and Placement Controlled by EEG-Based Hybrid Visual and Motor Imagery | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2603.03181) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697488) | rule-assigned |
+| 2026 | Simple Models, Real Swimming: Digital Twins for Tendon-Driven Underwater Robots | ICRA · Digital Twin | [Paper](https://arxiv.org/pdf/2602.23283) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697241) | rule-assigned |
+| 2026 | SoftHand Model-W: A 3D-Printed, Anthropomorphic, Underactuated Robot Hand with Integrated Wrist and Carpal Tunnel | ICRA · Robot Hand | [Paper](https://arxiv.org/pdf/2604.00738) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697200) | rule-assigned |
 | 2025 | Adaptive Perching and Grasping by Aerial Robot with Light-Weight and High Grip-Force Tendon-Driven Three-Fingered Hand Using Single Actuator | ICRA · Grasp | [Paper](https://arxiv.org/abs/2503.17711) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128377) | rule-assigned |
-| 2025 | AquaMILR+: Design of an Untethered Limbless Robot for Complex Aquatic Terrain Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.18383) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128548) | rule-assigned |
+| 2025 | AquaMILR+: Design of an Untethered Limbless Robot for Complex Aquatic Terrain Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.18383) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128548) | rule-assigned |
 | 2025 | Automating Tension Calibration for Tendon-Driven Continuum Robots: A Low-Cost Approach Towards Consistent Teleoperation | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128689) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128689) | rule-assigned |
-| 2025 | Cycloidal Quasi-Direct Drive Actuator Designs with Learning-Based Torque Estimation for Legged Robotics | ICRA · Legged | [Paper](https://arxiv.org/abs/2410.16591) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127436) | rule-assigned |
-| 2025 | D3-ARM: High-Dynamic, Dexterous and Fully Decoupled Cable-Driven Robotic Arm | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2502.12963) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127687) | rule-assigned |
+| 2025 | Cycloidal Quasi-Direct Drive Actuator Designs with Learning-Based Torque Estimation for Legged Robotics | ICRA · Legged | [Paper](https://arxiv.org/pdf/2410.16591) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127436) | rule-assigned |
+| 2025 | D3-ARM: High-Dynamic, Dexterous and Fully Decoupled Cable-Driven Robotic Arm | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2502.12963) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127687) | rule-assigned |
 | 2025 | Lyapunov-Certified Trajectory Tracking for Mobile Robot With a Tail Wheel: Differential-Flatness and Adaptive Backstepping Design | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127405) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127405) | rule-assigned |
 | 2025 | Pitching Motion in a Humanoid Robot Using Human-Inspired Shoulder Elastic Energy and Motor Torque Optimization | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127290) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127290) | rule-assigned |
 | 2025 | VSB - Variable Stiffness Based on Bowden Cables: A Simple Mechanism for Soft Robotic Hands | ICRA · Robotic Hand | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127353) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127353) | rule-assigned |
-| 2025 | A Novel Gripper with Semi-Peaucellier Linkage and Idle-Stroke Mechanism for Linear Pinching and Self-Adaptive Grasping * | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS60139.2025.11246057) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246057) | rule-assigned |
+| 2025 | A Novel Gripper with Semi-Peaucellier Linkage and Idle-Stroke Mechanism for Linear Pinching and Self-Adaptive Grasping * | IROS · Grasp | [Paper](https://arxiv.org/pdf/2510.16517) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246057) | rule-assigned |
 | 2025 | Design, Manufacturing, and Experiments of an Origami-based Parallel-Legged Structure for Insect-scale Robots | IROS · Legged | [Paper](https://doi.org/10.1109/IROS60139.2025.11246026) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246026) | rule-assigned |
 | 2025 | Development of Variable Chain Motor with Shape and Speed-Torque Characteristics Variability and Its Application to a Humanoid | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS60139.2025.11246199) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246199) | rule-assigned |
 | 2025 | High DOF Tendon-Driven Soft Hand: A Modular System for Versatile and Dexterous Manipulation | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS60139.2025.11246988) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246988) | rule-assigned |
-| 2025 | LiMo-Calib: On-Site Fast LiDAR-Motor Calibration for Quadruped Robot-Based Panoramic 3D Sensing System | IROS · Quadruped | [Paper](https://arxiv.org/abs/2502.12655) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247335) | rule-assigned |
+| 2025 | LiMo-Calib: On-Site Fast LiDAR-Motor Calibration for Quadruped Robot-Based Panoramic 3D Sensing System | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2502.12655) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247335) | rule-assigned |
 | 2025 | MuxHand: A Cost-Effective and Compact Dexterous Robotic Hand Using Time-Division Multiplexing Mechanism | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS60139.2025.11246361) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246361) | rule-assigned |
 | 2025 | SMA-TENG Actuator with Tactile Sensing Capability | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11246367) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246367) | rule-assigned |
 | 2025 | Spherical Scissor-Like Reconfigurable Palm Design in Robotic Hands: Insights from Human Hand Functionality | IROS · Robotic Hand | [Paper](https://doi.org/10.1109/IROS60139.2025.11246345) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246345) | rule-assigned |
 | 2025 | Transformable Modular Robots: A CPG-Based Approach to Independent and Collective Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/abs/2503.13674) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246141) | rule-assigned |
 | 2025 | ZBOT: A Novel Modular Robot Capable of Active Transformation from Snake to Bipedal Configuration through RL | IROS · Biped | [Paper](https://doi.org/10.1109/IROS60139.2025.11246225) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246225) | rule-assigned |
 | 2024 | Adaptive State Estimation with Constant-Curvature Dynamics Using Force-Torque Sensors with Application to a Soft Pneumatic Actuator | ICRA · State Estimation | [Paper](https://repo.uni-hannover.de/handle/123456789/20230) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610370) | rule-assigned |
-| 2024 | Kinesthetic-based In-Hand Object Recognition with an Underactuated Robotic Hand | ICRA · In Hand | [Paper](https://arxiv.org/abs/2401.16802) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611291) | rule-assigned |
-| 2024 | MoDem-V2: Visuo-Motor World Models for Real-World Robot Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2309.14236) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611121) | rule-assigned |
+| 2024 | Kinesthetic-based In-Hand Object Recognition with an Underactuated Robotic Hand | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2401.16802) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611291) | rule-assigned |
+| 2024 | MoDem-V2: Visuo-Motor World Models for Real-World Robot Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2309.14236) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611121) | rule-assigned |
 | 2024 | Non-Axiomatic Reasoning for an Autonomous Mobile Robot | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611411) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611411) | rule-assigned |
-| 2024 | The Fractal Hand-II: Reviving a Classic Mechanism for Contemporary Grasping Challenges | ICRA · Grasp | [Paper](https://arxiv.org/abs/2309.08766) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611267) | rule-assigned |
+| 2024 | The Fractal Hand-II: Reviving a Classic Mechanism for Contemporary Grasping Challenges | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2309.08766) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611267) | rule-assigned |
 | 2024 | Adaptive Smith Predictor Fractional Control of a Tele-operated Flexible Link Robot * | IROS · Tele Operated | [Paper](https://doi.org/10.1109/IROS58592.2024.10802381) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802381) | rule-assigned |
-| 2024 | Development of Bidirectional Series Elastic Actuator with Torsion Coil Spring and Implementation to the Legged Robot | IROS · Legged | [Paper](https://arxiv.org/abs/2409.15791) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802064) | rule-assigned |
-| 2024 | Feelit: Combining Compliant Shape Displays with Vision-Based Tactile Sensors for Real-Time Teletaction | IROS · Tactile | [Paper](https://arxiv.org/abs/2408.15480) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802027) | rule-assigned |
+| 2024 | Development of Bidirectional Series Elastic Actuator with Torsion Coil Spring and Implementation to the Legged Robot | IROS · Legged | [Paper](https://arxiv.org/pdf/2409.15791) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802064) | rule-assigned |
+| 2024 | Feelit: Combining Compliant Shape Displays with Vision-Based Tactile Sensors for Real-Time Teletaction | IROS · Tactile | [Paper](https://arxiv.org/pdf/2408.15480) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802027) | rule-assigned |
 | 2024 | Origami Actuator with Tunable Limiting Layer for Reconfigurable Soft Robotic Grasping | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS58592.2024.10802452) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802452) | rule-assigned |
 | 2024 | Retargeting Human Facial Expression to Human-like Robotic Face through Neural Network Surrogate-based Optimization | IROS · Retargeting | [Paper](https://doi.org/10.1109/IROS58592.2024.10801759) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801759) | rule-assigned |
 | 2023 | Learning Modular Robot Visual-motor Locomotion Policies | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2210.17486) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160845) | rule-assigned |
@@ -72,11 +72,21 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Agile Hybrid Whole-body Motor Skills for Thruster-Aided Humanoid Robots | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9981974) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981974) | rule-assigned |
 | 2022 | Omnidirectional walking of a quadruped robot enabled by compressible tendon-driven soft actuators | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981314) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981314) | rule-assigned |
 
-## Recent arXiv papers (317)
+## Recent arXiv papers (326)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
-| 2026-10-07 | LACE-CRAFT: Robot Co-Design with Actor Inheritance and Blackboard Collaboration | Yuhan Wen, Jiawei Wang, Qixuan Zhang, Yusen Qin et al. | [Abstract](https://arxiv.org/abs/2610.09283) · [PDF](https://arxiv.org/pdf/2610.09283) | rule-assigned |
+| 2026-10-14 | Enabling Tidying Tasks in Robotic Vacuum Cleaners via a Geometry-Induced Self-Locking Deployable Linkage | Eunseok Song, inwoong Kim, Sohee Lim, Taehyeong Kim et al. | [Abstract](https://arxiv.org/abs/2610.20150) · [PDF](https://arxiv.org/pdf/2610.20150) | rule-assigned |
+| 2026-10-13 | Sim4RAD: A MATLAB Toolkit for Design-Phase Sizing, Actuator Selection and URDF-Model Verification of Serial Robotic Arms | Jingchen Li | [Abstract](https://arxiv.org/abs/2610.17534) · [PDF](https://arxiv.org/pdf/2610.17534) | rule-assigned |
+| 2026-10-13 | Contact-UAN: Unsupervised Actuator Networks as a Residual World Model for Humanoid Control | Nolan Fey, Khai Nguyen, Yash Prabhu, Gabriel B. Margolis et al. | [Abstract](https://arxiv.org/abs/2610.18991) · [PDF](https://arxiv.org/pdf/2610.18991) | rule-assigned |
+| 2026-10-12 | Extending Wire-Driven Parallel Robots to Multi-Floating-Link Systems with an Inter-Body Wire | Shintaro Inoue, Kento Kawaharazuka, Temma Suzuki, Sota Yuzaki et al. | [Abstract](https://arxiv.org/abs/2610.16173) · [PDF](https://arxiv.org/pdf/2610.16173) | rule-assigned |
+| 2026-10-12 | Design and Analysis of a Nonlinear Parallel Mechanism Coupling for Dynamic Humanoid Legs | Rohit Kumar, Heiner Peters, Felix Wiebe, Franek Stark et al. | [Abstract](https://arxiv.org/abs/2610.16604) · [PDF](https://arxiv.org/pdf/2610.16604) | rule-assigned |
+| 2026-10-12 | Declarative Reactive Robot Behaviors from Imperative Language Models | Vincent Berenz, Tasha Kim, Bernhard Schölkopf | [Abstract](https://arxiv.org/abs/2610.17083) · [PDF](https://arxiv.org/pdf/2610.17083) | rule-assigned |
+| 2026-10-10 | Scaling Latent Motor Adaptation to Coordinated Bimanual Manipulation | Seung-Bin Joo, Alessandro Albini, Luca Wiehe, Perla Maiolino et al. | [Abstract](https://arxiv.org/abs/2610.14833) · [PDF](https://arxiv.org/pdf/2610.14833) | rule-assigned |
+| 2026-10-08 | A Reconfigurable Fabric Based Pneumatic Actuator with Button Fastened Constraint Modules for Multi Mode Actuation | Kentaro Kimura, Hiroki Ishizuka, Yusuke Sakaue, Sei Ikeda et al. | [Abstract](https://arxiv.org/abs/2610.11054) · [PDF](https://arxiv.org/pdf/2610.11054) | rule-assigned |
+| 2026-10-07 | LACE-CRAFT: Robot Co-Design with Actor Inheritance and Blackboard Collaboration | Yuhan Wen, Jiawei Wang, Qixuan Zhang, Calvin Zhang et al. | [Abstract](https://arxiv.org/abs/2610.09283) · [PDF](https://arxiv.org/pdf/2610.09283) | rule-assigned |
+| 2026-10-07 | Higher-Order Morphology Priors for Quadruped Reinforcement Learning Under Actuator Degradation | Derek You, Zafir Shamsi, Keqin Wang, Christine Allen-Blanchette | [Abstract](https://arxiv.org/abs/2610.10934) · [PDF](https://arxiv.org/pdf/2610.10934) | rule-assigned |
+| 2026-10-07 | From Hitter to Player: Separating Motor Execution and Strategy in Competitive Humanoid Table Tennis | Fanrong Dong, Ziyi Sun, Ziqi Han, Junhan Sun et al. | [Abstract](https://arxiv.org/abs/2610.14067) · [PDF](https://arxiv.org/pdf/2610.14067) | rule-assigned |
 | 2026-10-06 | Beyond Task Reward: A Controller-Restriction Protocol for Evaluating Embodiment-Dependent Competence | Siyuan Zhang | [Abstract](https://arxiv.org/abs/2610.07629) · [PDF](https://arxiv.org/pdf/2610.07629) | rule-assigned |
 | 2026-10-05 | HexaGripper: A Single-Actuator, Winch-Deployed Gripper for Autonomous Aerial Parcel Collection | Nimantha Adikaram, Mahen Abeyratne, Lakmina Chandrajith, A. H. T. E. De Silva et al. | [Abstract](https://arxiv.org/abs/2610.08259) · [PDF](https://arxiv.org/pdf/2610.08259) | rule-assigned |
 | 2026-10-04 | VAMPS: Visual and Motor Policies from Sampling-Based Planning | Mohamed Yassine Kabouri, Pietro Noah Crestaz, Quang-Nam Nguyen, Qilong Cheng et al. | [Abstract](https://arxiv.org/abs/2610.05331) · [PDF](https://arxiv.org/pdf/2610.05331) | rule-assigned |
@@ -392,7 +402,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-02 | Learning to See Physical Properties with Active Sensing Motor Policies | Gabriel B. Margolis, Xiang Fu, Yandong Ji, Pulkit Agrawal | [Abstract](https://arxiv.org/abs/2311.01405) · [PDF](https://arxiv.org/pdf/2311.01405) | rule-assigned |
 | 2023-10-26 | Single-Motor Robotic Gripper With Three Functional Modes for Grasping in Confined Spaces | Toshihiro Nishimura, Tetsuyou Watanabe | [Abstract](https://arxiv.org/abs/2310.17192) · [PDF](https://arxiv.org/pdf/2310.17192) | rule-assigned |
 | 2023-10-17 | Origami-inspired Bi-directional Actuator with Orthogonal Actuation | Shuai Liu, Sheeraz Athar, Michael Yu Wang | [Abstract](https://arxiv.org/abs/2310.10959) · [PDF](https://arxiv.org/pdf/2310.10959) | rule-assigned |
-| 2023-10-11 | Body-mounted MR-conditional Robot for Minimally Invasive Liver Intervention | Zhefeng Huang, Anthony L. Gunderman, Samuel E. Wilcox, Saikat Sengupta et al. | [Abstract](https://arxiv.org/abs/2310.07822) · [PDF](https://arxiv.org/pdf/2310.07822) | rule-assigned |
 
 ---
 

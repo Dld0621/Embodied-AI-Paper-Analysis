@@ -1,12 +1,12 @@
 # Legged & Whole-body Mechanisms · 腿式与全身机构
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Legged%20%26%20Whole-body%20Mechanisms#research-workbench)
 
-> 6 conference papers · 38 recent arXiv papers
+> 6 conference papers · 37 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,16 +27,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | LASeR: Towards Diversified and Generalizable Robot Design with Large Language Models | ICLR · Large Language Model | [Paper](https://www.semanticscholar.org/paper/17621b2a91a7dd47ea217dc7d8b04e2568f4e177) · [Index](https://dblp.org/rec/conf/iclr/SongYXPYW25) | rule-assigned |
 | 2025 | Robotic Colonoscopy: Can High Fidelity Simulation Optimize Robot Design and Validation? | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128805) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128805) | rule-assigned |
 | 2025 | ChatBuilder: LLM-assisted Modular Robot Creation | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11247761) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247761) | rule-assigned |
-| 2025 | DecARt Leg: Design and Evaluation of a Novel Humanoid Robot Leg with Decoupled Actuation for Agile Locomotion | IROS · Humanoid | [Paper](https://arxiv.org/abs/2511.10021) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247361) | rule-assigned |
+| 2025 | DecARt Leg: Design and Evaluation of a Novel Humanoid Robot Leg with Decoupled Actuation for Agile Locomotion | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2511.10021) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247361) | rule-assigned |
 | 2022 | Development of a Collaborative Wheeled Mobile Robot: Design Considerations, Drive Unit Torque Control, and Preliminary Result | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/icra46639.2022.9812006) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812006) | rule-assigned |
 | 2022 | Soft Robots Learn to Crawl: Jointly Optimizing Design and Control with Sim-to-Real Transfer | RSS · Sim To Real | [Paper](https://doi.org/10.15607/rss.2022.xviii.062) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.062) | rule-assigned |
 
-## Recent arXiv papers (38)
+## Recent arXiv papers (37)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
 | 2026-09-29 | Draft: A Parametric Tool for Robot Design Exploration | David Nguyen, Marcelo Coelho, Sangbae Kim | [Abstract](https://arxiv.org/abs/2609.38405) · [PDF](https://arxiv.org/pdf/2609.38405) | rule-assigned |
-| 2026-09-27 | Large Language Models for Model-Based Robot Design | Andrew Wilhelm, Angelina Zhao, Nils Napp | [Abstract](https://arxiv.org/abs/2609.33423) · [PDF](https://arxiv.org/pdf/2609.33423) | rule-assigned |
+| 2026-09-27 | Large Language Models for Model-Based Robot Design | Andrew Wilhelm, Angelina Zhou, Nils Napp | [Abstract](https://arxiv.org/abs/2609.33423) · [PDF](https://arxiv.org/pdf/2609.33423) | rule-assigned |
 | 2026-09-08 | Bridging Language and Physics: Automated Design of Continuum Robots with Large Language Models | Jingyi Chen, Mohan Zhang, Laura Yao, Yingtai Ni et al. | [Abstract](https://arxiv.org/abs/2609.08220) · [PDF](https://arxiv.org/pdf/2609.08220) | rule-assigned |
 | 2026-08-24 | RoboLDA: A Probabilistic Generative Model for Uncovering Embodied Hierarchical Structures in Voxel-based Soft Robots | Junru Song, Yang Yang, Jingdan Shi, Guozhen Li et al. | [Abstract](https://arxiv.org/abs/2609.29490) · [PDF](https://arxiv.org/pdf/2609.29490) | rule-assigned |
 | 2026-08-07 | Design and Implementation of an Ultra-Low-Cost Wall-Climbing Robot for Infrastructure Crack Detection | Mrinmoy Modak, Supreyo Chakravorty Pretom, Shourv Tarafder, Daniel S. Drew | [Abstract](https://arxiv.org/abs/2609.26130) · [PDF](https://arxiv.org/pdf/2609.26130) | rule-assigned |
@@ -72,7 +72,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-02-09 | Towards Robotic Companions: Understanding Handler-Guide Dog Interactions for Informed Guide Dog Robot Design | Hochul Hwang, Hee-Tae Jung, Nicholas A Giudice, Joydeep Biswas et al. | [Abstract](https://arxiv.org/abs/2402.06790) · [PDF](https://arxiv.org/pdf/2402.06790) | rule-assigned |
 | 2024-01-30 | Hybrid Tendon and Ball Chain Continuum Robots for Enhanced Dexterity in Medical Interventions | Giovanni Pittiglio, Margherita Mencattelli, Abdulhamit Donder, Yash Chitalia et al. | [Abstract](https://arxiv.org/abs/2401.17161) · [PDF](https://arxiv.org/pdf/2401.17161) | rule-assigned |
 | 2023-12-13 | Design and Control of a High-Performance Hopping Robot | Samuel Burns, Matthew Woodward | [Abstract](https://arxiv.org/abs/2312.08301) · [PDF](https://arxiv.org/pdf/2312.08301) | rule-assigned |
-| 2023-10-09 | Reinforcement learning for freeform robot design | Muhan Li, David Matthews, Sam Kriegman | [Abstract](https://arxiv.org/abs/2310.05670) · [PDF](https://arxiv.org/pdf/2310.05670) | rule-assigned |
 
 ---
 

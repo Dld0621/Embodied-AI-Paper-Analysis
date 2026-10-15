@@ -1,7 +1,7 @@
 # Object-goal & Semantic Navigation · 物体目标与语义导航
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Goal%20%26%20Language%20Navigation&specialty=Object-goal%20%26%20Semantic%20Navigation#research-workbench)
@@ -24,27 +24,27 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility | ICRA · Navigation | [Paper](https://arxiv.org/abs/2509.13720) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696640) | rule-assigned |
-| 2026 | FiLM-Nav: Efficient and Generalizable Navigation via VLM Fine-tuning | ICRA · Navigation | [Paper](https://arxiv.org/abs/2509.16445) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696320) | rule-assigned |
-| 2026 | RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Visual Contextual Adaptation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2512.24212) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696276) | rule-assigned |
-| 2026 | RAVEN: Resilient Aerial Navigation via Open-Set Semantic Memory and Behavior Adaptation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2509.23563) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696892) | rule-assigned |
-| 2026 | SSMG-Nav: Enhancing Lifelong Object Navigation with Semantic Skeleton Memory Graph | ICRA · Navigation | [Paper](https://arxiv.org/abs/2603.01813) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697433) | rule-assigned |
-| 2026 | Strive: Structured Representation Integrating VLM Reasoning for Efficient Object Navigation | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696623) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696623) | rule-assigned |
+| 2026 | EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2509.13720) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696640) | rule-assigned |
+| 2026 | FiLM-Nav: Efficient and Generalizable Navigation via VLM Fine-tuning | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2509.16445) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696320) | rule-assigned |
+| 2026 | RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Visual Contextual Adaptation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2512.24212) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696276) | rule-assigned |
+| 2026 | RAVEN: Resilient Aerial Navigation via Open-Set Semantic Memory and Behavior Adaptation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2509.23563) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696892) | rule-assigned |
+| 2026 | SSMG-Nav: Enhancing Lifelong Object Navigation with Semantic Skeleton Memory Graph | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2603.01813) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697433) | rule-assigned |
+| 2026 | Strive: Structured Representation Integrating VLM Reasoning for Efficient Object Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2505.06729) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696623) | rule-assigned |
 | 2026 | VLION: Vision-Language Guided Interactive Object Navigation with Mobile Manipulation | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696398) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696398) | rule-assigned |
 | 2025 | Active Perception Meets Rule-Guided RL: A Two-Phase Approach for Precise Object Navigation in Complex Environments | ICCV · Navigation | [Paper](https://doi.org/10.1109/ICCV51701.2025.00713) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00713) | rule-assigned |
-| 2025 | Multi-Floor Zero-Shot Object Navigation Policy | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.10906) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128607) | rule-assigned |
+| 2025 | Multi-Floor Zero-Shot Object Navigation Policy | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.10906) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128607) | rule-assigned |
 | 2025 | Transferring Visual Knowledge: Semi-Supervised Instance Segmentation for Object Navigation Across Varying Height Viewpoints | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128621) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128621) | rule-assigned |
 | 2025 | ZSORN: Language-Driven Object-Centric Zero-Shot Object Retrieval and Navigation | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128436) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128436) | rule-assigned |
 | 2025 | CTSG: Integrating Context and Way Topology Into Scene Graph for Zero-shot Navigation | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246966) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246966) | rule-assigned |
 | 2025 | L-SNI: A Language-Driven Semantic Navigation System for Inspection Tasks | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS60139.2025.11247032) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247032) | rule-assigned |
-| 2025 | OpenObject-NAV: Open-Vocabulary Object-Oriented Navigation Based on Dynamic Carrier-Relationship Scene Graph | IROS · Navigation | [Paper](https://arxiv.org/abs/2409.18743) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247413) | rule-assigned |
+| 2025 | OpenObject-NAV: Open-Vocabulary Object-Oriented Navigation Based on Dynamic Carrier-Relationship Scene Graph | IROS · Navigation | [Paper](https://arxiv.org/pdf/2409.18743) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247413) | rule-assigned |
 | 2025 | BeliefMapNav: 3D Voxel-Based Belief Map for Zero-Shot Object Navigation | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2506.06487) · [Index](https://dblp.org/rec/conf/nips/ZhouHZLC25) | rule-assigned |
 | 2024 | LeLaN: Learning A Language-Conditioned Navigation Policy from In-the-Wild Videos | CoRL · Navigation | [Paper](https://arxiv.org/abs/2410.03603) · [Index](https://dblp.org/rec/journals/corr/abs-2410-03603) | rule-assigned |
 | 2024 | VoroNav: Voronoi-based Zero-shot Object Navigation with Large Language Model | ICML · Large Language Model | [Paper](https://arxiv.org/abs/2401.02695) · [Index](https://dblp.org/rec/conf/icml/WuMWHMZ024) | rule-assigned |
-| 2024 | Bridging Zero-shot Object Navigation and Foundation Models through Pixel-Guided Navigation Skill | ICRA · Navigation | [Paper](https://arxiv.org/abs/2309.10309) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610499) | rule-assigned |
+| 2024 | Bridging Zero-shot Object Navigation and Foundation Models through Pixel-Guided Navigation Skill | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2309.10309) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610499) | rule-assigned |
 | 2024 | HSPNav: Hierarchical Scene Prior Learning for Visual Semantic Navigation Towards Real Settings | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610061) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610061) | rule-assigned |
-| 2024 | Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2310.07968) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610178) | rule-assigned |
-| 2024 | VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2312.03275) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610712) | rule-assigned |
+| 2024 | Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2310.07968) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610178) | rule-assigned |
+| 2024 | VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2312.03275) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610712) | rule-assigned |
 | 2024 | TriHelper: Zero-Shot Object Navigation with Dynamic Assistance | IROS · Navigation | [Paper](https://arxiv.org/pdf/2403.15223) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802670) | rule-assigned |
 | 2023 | Multi-Object Navigation with dynamically learned neural implicit representations | ICCV · Navigation | [Paper](https://arxiv.org/pdf/2210.05129) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.01010) | rule-assigned |
 | 2023 | Multi-Object Navigation in real environments using hybrid policies | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2401.13800) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161030) | rule-assigned |
@@ -56,6 +56,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-14 | F2A-ObjectNav: An Adaptive Agentic Architecture for Object-Goal Navigation | Seyed Ali Mirghasemi, Alireza Taheri | [Abstract](https://arxiv.org/abs/2610.19618) · [PDF](https://arxiv.org/pdf/2610.19618) | rule-assigned |
+| 2026-10-11 | Have You Seen It Clearly? Uncertainty-Guided Belief Refinement for Zero-Shot Object Navigation | Jingzhi Huang, Junkai Huang, Yuhang Peng, Keyu Mu et al. | [Abstract](https://arxiv.org/abs/2610.15375) · [PDF](https://arxiv.org/pdf/2610.15375) | rule-assigned |
 | 2026-10-05 | MarvisNav: Making Memory Visible on Route Choices for Zero-Shot Object Navigation | Jincheng Wang, Chi Pui Chan, Wei Zeng, Shuyang Zhang et al. | [Abstract](https://arxiv.org/abs/2610.06510) · [PDF](https://arxiv.org/pdf/2610.06510) | rule-assigned |
 | 2026-10-03 | Learning Modular Policy for Multi-Floor Object Navigation:A Factorized Framework for Diagnostic Study | Shichao Zhai, Shuhao Ye, Rong Xiong, Yue Wang | [Abstract](https://arxiv.org/abs/2610.06958) · [PDF](https://arxiv.org/pdf/2610.06958) | rule-assigned |
 | 2026-09-23 | Spatial and Semantic Reasoning for LLM-Driven Robot Navigation via MCP | Jungsoo Lee, Jaegyun Park, Wansoo Kim | [Abstract](https://arxiv.org/abs/2609.27340) · [PDF](https://arxiv.org/pdf/2609.27340) | rule-assigned |
@@ -157,8 +159,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-06 | VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation | Naoki Yokoyama, Sehoon Ha, Dhruv Batra, Jiuguang Wang et al. | [Abstract](https://arxiv.org/abs/2312.03275) · [PDF](https://arxiv.org/pdf/2312.03275) | rule-assigned |
 | 2023-11-28 | Visual Semantic Navigation with Real Robots | Carlos Gutiérrez-Álvarez, Pablo Ríos-Navarro, Rafael Flor-Rodríguez, Francisco Javier Acevedo-Rodríguez et al. | [Abstract](https://arxiv.org/abs/2311.16623) · [PDF](https://arxiv.org/pdf/2311.16623) | rule-assigned |
 | 2023-10-15 | Zero-Shot Object Goal Visual Navigation With Class-Independent Relationship Network | Xinting Li, Shiguang Zhang, Yue LU, Kerry Dang et al. | [Abstract](https://arxiv.org/abs/2310.09883) · [PDF](https://arxiv.org/pdf/2310.09883) | rule-assigned |
-| 2023-10-12 | Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation | Yinpei Dai, Run Peng, Sikai Li, Joyce Chai | [Abstract](https://arxiv.org/abs/2310.07968) · [PDF](https://arxiv.org/pdf/2310.07968) | rule-assigned |
-| 2023-10-11 | Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation Using Vision Language Models | Bangguo Yu, Qihao Yuan, Kailai Li, Hamidreza Kasaei et al. | [Abstract](https://arxiv.org/abs/2310.07937) · [PDF](https://arxiv.org/pdf/2310.07937) | rule-assigned |
 
 ---
 

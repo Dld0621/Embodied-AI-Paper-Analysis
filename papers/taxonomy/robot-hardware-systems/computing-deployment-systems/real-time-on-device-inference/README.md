@@ -1,12 +1,12 @@
 # Real-time & On-device Inference · 实时与端侧推理
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Computing%20%26%20Deployment%20Systems&specialty=Real-time%20%26%20On-device%20Inference#research-workbench)
 
-> 3 conference papers · 56 recent arXiv papers
+> 3 conference papers · 57 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,14 +24,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | SeFA-Policy: Fast and Accurate Visuomotor Policy Learning with Selective Flow Alignment | ICRA · Visuomotor | [Paper](https://arxiv.org/abs/2511.08583) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697226) | rule-assigned |
+| 2026 | SeFA-Policy: Fast and Accurate Visuomotor Policy Learning with Selective Flow Alignment | ICRA · Visuomotor | [Paper](https://arxiv.org/pdf/2511.08583) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697226) | rule-assigned |
 | 2025 | On-Device Diffusion Transformer Policy for Efficient Robot Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/pdf/2508.00697) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01306) | rule-assigned |
 | 2025 | Falcon: Fast Visuomotor Policies via Partial Denoising | ICML · Visuomotor | [Paper](https://arxiv.org/abs/2503.00339) · [Index](https://dblp.org/rec/journals/corr/abs-2503-00339) | rule-assigned |
 
-## Recent arXiv papers (56)
+## Recent arXiv papers (57)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-14 | Complementary Future Token Pruning for World Action Models | Baekseung Kim, Junhoo Lee, Sohyeon Hong, Suhyun Jeon et al. | [Abstract](https://arxiv.org/abs/2610.19957) · [PDF](https://arxiv.org/pdf/2610.19957) | rule-assigned |
 | 2026-10-07 | Not All Uncertainty Matters: Simulation-in-the-Loop Fast-Slow Reasoning for Decision-Critical Autonomous Driving System | Jiayi Chen, Shuai Wang, Guangxu Zhu, Derrick Wing Kwan Ng et al. | [Abstract](https://arxiv.org/abs/2610.09520) · [PDF](https://arxiv.org/pdf/2610.09520) | rule-assigned |
 | 2026-10-06 | Micro Neural Policies for Safe Real-Time Robotic Control | Hongpeng Cao, Riccardo Curcio, Daniele Ottaviano, Marco Caccamo | [Abstract](https://arxiv.org/abs/2610.08541) · [PDF](https://arxiv.org/pdf/2610.08541) | rule-assigned |
 | 2026-09-30 | DrivingBench: Can Vision-Language Models Drive a Toyota Corolla? | Aditya Ramabadran, Simon Mahns, Tobias Gessler | [Abstract](https://arxiv.org/abs/2609.38948) · [PDF](https://arxiv.org/pdf/2609.38948) | rule-assigned |

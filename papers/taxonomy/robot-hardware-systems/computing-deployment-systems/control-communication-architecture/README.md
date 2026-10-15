@@ -1,12 +1,12 @@
 # Control & Communication Architecture · 控制与通信架构
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Computing%20%26%20Deployment%20Systems&specialty=Control%20%26%20Communication%20Architecture#research-workbench)
 
-> 2 conference papers · 70 recent arXiv papers
+> 2 conference papers · 73 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,10 +27,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Image to Patterning: Density-specified Patterning of Micro-structured Surfaces with a Mobile Robot | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS58592.2024.10802317) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802317) | rule-assigned |
 | 2022 | ROS-PyBullet Interface: A Framework for Reliable Contact Simulation and Human-Robot Interaction | CoRL · Simulation | [Paper](https://arxiv.org/abs/2210.06887) · [Index](https://dblp.org/rec/conf/corl/MowerS0RYBGVBV22) | rule-assigned |
 
-## Recent arXiv papers (70)
+## Recent arXiv papers (73)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-14 | Learning from Demonstrations meets Symbolic Control - A Supervisory Control Architecture for Formal Certification of Learned Motion | Ashok Kumar, Mahathi Anand, Angela Schoellig, Abdalla Swikir | [Abstract](https://arxiv.org/abs/2610.19815) · [PDF](https://arxiv.org/pdf/2610.19815) | rule-assigned |
+| 2026-10-11 | A Hardware-Partitioned micro-ROS Mini-Vehicle for Operator-Supervised Neural Driving | Gustavo Claudio Karl Couto, Eric Aislan Antonelo, Gabriel George Zipperer | [Abstract](https://arxiv.org/abs/2610.15966) · [PDF](https://arxiv.org/pdf/2610.15966) | rule-assigned |
+| 2026-10-08 | Traceable World State: A Provenance-Aware State Representation and Deterministic Replay Framework for Robotic Systems | Zoe Li | [Abstract](https://arxiv.org/abs/2610.12033) · [PDF](https://arxiv.org/pdf/2610.12033) | rule-assigned |
 | 2026-10-01 | OpenRUA: Robot-Use Agents Are Zero-Shot Visuomotor Policies | Zhaoyang Chu, Earl T. Barr, Claire Le Goues, Peter O'Hearn et al. | [Abstract](https://arxiv.org/abs/2610.02459) · [PDF](https://arxiv.org/pdf/2610.02459) | rule-assigned |
 | 2026-09-25 | Augmented Reality Interfaces for Human-Robot Collaboration: Development of a ROS 2-Based Sensor Streaming Framework and Validation via SLAM Algorithms | Alessandro Rubert, Stefano Ghidoni, Matteo Terreran | [Abstract](https://arxiv.org/abs/2609.31396) · [PDF](https://arxiv.org/pdf/2609.31396) | rule-assigned |
 | 2026-09-23 | A Modular Dual-Arm Robotic Cell for Disassembly and Repair of Industrial Control Electronics | Maximilian Ruhe, Fabian Harlacher, Christian Friedrich, Martin Kipfmueller | [Abstract](https://arxiv.org/abs/2609.27466) · [PDF](https://arxiv.org/pdf/2609.27466) | rule-assigned |

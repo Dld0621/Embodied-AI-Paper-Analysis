@@ -1,12 +1,12 @@
 # Visual, LiDAR & Multisensor SLAM · 视觉／激光／多传感器 SLAM
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Visual%2C%20LiDAR%20%26%20Multisensor%20SLAM#research-workbench)
 
-> 14 conference papers · 549 recent arXiv papers
+> 14 conference papers · 552 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,13 +25,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2025 | MNE-SLAM: Multi-Agent Neural SLAM for Mobile Robots | CVPR · Mobile Robot | [Paper](https://doi.org/10.1109/CVPR52734.2025.00146) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.00146) | rule-assigned |
-| 2025 | Enhancing Feature Tracking Reliability for Visual Navigation Using Real-Time Safety Filter | ICRA · Navigation | [Paper](https://arxiv.org/abs/2502.01092) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128371) | rule-assigned |
-| 2025 | Simultaneous Localization and Affordance Prediction of Tasks from Egocentric Video | ICRA · Affordance | [Paper](https://arxiv.org/abs/2407.13856) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127830) | rule-assigned |
+| 2025 | Enhancing Feature Tracking Reliability for Visual Navigation Using Real-Time Safety Filter | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2502.01092) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128371) | rule-assigned |
+| 2025 | Simultaneous Localization and Affordance Prediction of Tasks from Egocentric Video | ICRA · Affordance | [Paper](https://arxiv.org/pdf/2407.13856) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127830) | rule-assigned |
 | 2025 | MobiExo: GPS-SLAM Fusion for Seamless Indoor-Outdoor Mobile Manipulation with Hand-Foot Coordination | IROS · Mobile Manipulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246254) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246254) | rule-assigned |
-| 2025 | Semantic Enhancement for Object SLAM with Heterogeneous Multimodal Large Language Model Agents | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2411.06752) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246672) | rule-assigned |
-| 2025 | Task-driven SLAM Benchmarking for Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2409.16573) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246415) | rule-assigned |
-| 2024 | ColAG: A Collaborative Air-Ground Framework for Perception-Limited UGVs’ Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2310.13324) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611264) | rule-assigned |
-| 2024 | Immersive Human-in-the-Loop Control: Real-Time 3D Surface Meshing and Physics Simulation | IROS · Simulation | [Paper](https://arxiv.org/abs/2412.13752) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802748) | rule-assigned |
+| 2025 | Semantic Enhancement for Object SLAM with Heterogeneous Multimodal Large Language Model Agents | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2411.06752) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246672) | rule-assigned |
+| 2025 | Task-driven SLAM Benchmarking for Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2409.16573) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246415) | rule-assigned |
+| 2024 | ColAG: A Collaborative Air-Ground Framework for Perception-Limited UGVs’ Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2310.13324) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611264) | rule-assigned |
+| 2024 | Immersive Human-in-the-Loop Control: Real-Time 3D Surface Meshing and Physics Simulation | IROS · Simulation | [Paper](https://arxiv.org/pdf/2412.13752) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802748) | rule-assigned |
 | 2023 | The SLAM Hive Benchmarking Suite | ICRA · Benchmark | [Paper](https://arxiv.org/pdf/2303.11854) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160302) | rule-assigned |
 | 2023 | Learning Whom to Trust in Navigation: Dynamically Switching Between Classical and Neural Planning | IROS · Navigation | [Paper](https://arxiv.org/pdf/2307.16710) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342308) | rule-assigned |
 | 2023 | RVWO: A Robust Visual-Wheel SLAM System for Mobile Robots in Dynamic Environments | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS55552.2023.10342183) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342183) | rule-assigned |
@@ -39,10 +39,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | 3D Lidar Reconstruction with Probabilistic Depth Completion for Robotic Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2207.12520) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981531) | rule-assigned |
 | 2022 | Visual Confined-Space Navigation Using an Efficient Learned Bilinear Optic Flow Approximation for Insect-scale Robots | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981585) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981585) | rule-assigned |
 
-## Recent arXiv papers (549)
+## Recent arXiv papers (552)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-13 | RTISSLAM: In-air Imaging Sonar SLAM using a Robust Pose Graph and Occupancy Grid Mapping | Jan Steckel | [Abstract](https://arxiv.org/abs/2610.18479) · [PDF](https://arxiv.org/pdf/2610.18479) | rule-assigned |
+| 2026-10-13 | Autonomous 3D Visual-Thermal Inspection for Utility-Scale Solar Farms | Lachlan Tychsen-Smith, Mark Cox, Brett Wood, David Haddon et al. | [Abstract](https://arxiv.org/abs/2610.17762) · [PDF](https://arxiv.org/pdf/2610.17762) | rule-assigned |
+| 2026-10-12 | Physical SLAM: Physics-aware Simultaneous Localisation and Mapping | Guangming Wang, Zhishuo Liu, Haibing Wu, Wanli Ma et al. | [Abstract](https://arxiv.org/abs/2610.17260) · [PDF](https://arxiv.org/pdf/2610.17260) | rule-assigned |
+| 2026-10-12 | All-St3R SLAM: Real-time RGB Dynamic SLAM with Pixel-wise Motion Masking | Yewon Kim, Paul Hongsuck Seo, Sang Chul Ahn | [Abstract](https://arxiv.org/abs/2610.16143) · [PDF](https://arxiv.org/pdf/2610.16143) | rule-assigned |
+| 2026-10-10 | RootSLAM: Square Root Bundle Adjustment for Visual-Inertial SLAM | Tomás Santucci, Mateo de Mayo, Daniel Cremers, Taihú Pire | [Abstract](https://arxiv.org/abs/2610.15157) · [PDF](https://arxiv.org/pdf/2610.15157) | rule-assigned |
+| 2026-10-08 | RAGNAROK: Radar-Aided Gravity-Normalized Alignment for Robust Open Keyframe-based Radar-Visual-Kinematic-Inertial SLAM | Hanjun Kim, Chiyun Noh, Sangwoo Jung, Jaehyung Jung et al. | [Abstract](https://arxiv.org/abs/2610.11531) · [PDF](https://arxiv.org/pdf/2610.11531) | rule-assigned |
 | 2026-10-05 | Human-in-the-Loop Neuro-Symbolic Drift Anticipation for Reliable Visual SLAM | Junhyun Nam, Wonse Jo | [Abstract](https://arxiv.org/abs/2610.05757) · [PDF](https://arxiv.org/pdf/2610.05757) | rule-assigned |
 | 2026-09-30 | MVP-SLAM: Multi-Camera Visual-Inertial Floorplan-Prior SLAM | Asier Bikandi-Noya, Miguel Fernandez-Cortizas, Muhammad Shaheer, Holger Voos et al. | [Abstract](https://arxiv.org/abs/2609.39596) · [PDF](https://arxiv.org/pdf/2609.39596) | rule-assigned |
 | 2026-09-29 | Pow3R-SLAM: Real-Time RGB-D SLAM with 3D Reconstruction Priors | Christopher Kolios, Ishaan Mehta, Sasa Janjic, Yeganeh Bahoo et al. | [Abstract](https://arxiv.org/abs/2609.38054) · [PDF](https://arxiv.org/pdf/2609.38054) | rule-assigned |
@@ -589,9 +595,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-20 | Higher or Lower: Challenges in Object based SLAM | Zhihe Zhang, Hao Wei, Hongtao Nie | [Abstract](https://arxiv.org/abs/2310.13256) · [PDF](https://arxiv.org/pdf/2310.13256) | rule-assigned |
 | 2023-10-20 | ColAG: A Collaborative Air-Ground Framework for Perception-Limited UGVs' Navigation | Zhehan Li, Rui Mao, Nanhe Chen, Chao Xu et al. | [Abstract](https://arxiv.org/abs/2310.13324) · [PDF](https://arxiv.org/pdf/2310.13324) | rule-assigned |
 | 2023-10-16 | The Invisible Map: Visual-Inertial SLAM with Fiducial Markers for Smartphone-based Indoor Navigation | Paul Ruvolo, Ayush Chakraborty, Rucha Dave, Richard Li et al. | [Abstract](https://arxiv.org/abs/2310.10862) · [PDF](https://arxiv.org/pdf/2310.10862) | rule-assigned |
-| 2023-10-11 | Saturation-Aware Angular Velocity Estimation: Extending the Robustness of SLAM to Aggressive Motions | Simon-Pierre Deschênes, Dominic Baril, Matěj Boxan, Johann Laconte et al. | [Abstract](https://arxiv.org/abs/2310.07844) · [PDF](https://arxiv.org/pdf/2310.07844) | rule-assigned |
-| 2023-10-10 | Efficient Graduated Non-Convexity for Pose Graph Optimization | Wonseok Kang, Jaehyun Kim, Jiseong Chung, Seungwon Choi et al. | [Abstract](https://arxiv.org/abs/2310.06765) · [PDF](https://arxiv.org/pdf/2310.06765) | rule-assigned |
-| 2023-10-10 | 3DS-SLAM: A 3D Object Detection based Semantic SLAM towards Dynamic Indoor Environments | Ghanta Sai Krishna, Kundrapu Supriya, Sabur Baidya | [Abstract](https://arxiv.org/abs/2310.06385) · [PDF](https://arxiv.org/pdf/2310.06385) | rule-assigned |
 
 ---
 

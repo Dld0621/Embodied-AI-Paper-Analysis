@@ -1,7 +1,7 @@
 # Cross-robot Transfer · 跨机器人迁移
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generalization%20%26%20Adaptation&specialty=Cross-robot%20Transfer#research-workbench)
@@ -24,7 +24,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2025 | Universal Actions for Enhanced Embodied Foundation Models | CVPR · Foundation Model | [Paper](https://arxiv.org/abs/2501.10105) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02096) | rule-assigned |
+| 2025 | Universal Actions for Enhanced Embodied Foundation Models | CVPR · Foundation Model | [Paper](https://arxiv.org/pdf/2501.10105) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02096) | rule-assigned |
 
 ## Recent arXiv papers (64)
 

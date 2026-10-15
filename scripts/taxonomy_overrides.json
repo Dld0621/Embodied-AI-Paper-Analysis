@@ -288,5 +288,108 @@
     ],
     "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: the model-system contribution scales causal world-action context through autoregressive video pretraining, future-video prediction and streaming real-time execution; long-horizon manipulation is an evaluation setting, not a new task-decomposition or task-motion planner. Official abstract: https://arxiv.org/abs/2610.10528",
     "related_topics": ["World Models"]
+  },
+  "generative neural retargeting for human to robot dexterous manipulation": {
+    "title": "Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Physics & Dynamics Retargeting"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: GNR uses human-motion-conditioned flow matching to sample dynamically feasible dexterous trajectories and amortize retargeting across demonstrations; IK and MPC are comparison approaches, while the resulting dataset is an application of the retargeting method. Official abstract: https://arxiv.org/abs/2610.12440",
+    "related_topics": ["Hand Retargeting", "Dexterous Manipulation"]
+  },
+  "pact posture aligned co design technique for hand configuration and retargeting in multi finger imitation learning": {
+    "title": "PACT: Posture-Aligned Co-Design Technique for Hand Configuration and Retargeting in Multi-Finger Imitation Learning",
+    "path": [
+      "Robot Hardware & Systems",
+      "Mechanisms & Actuation",
+      "Hands, Grippers & Arms"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: PACT jointly optimizes a 17-servo hand's mechanical parameters and nonlinear posture retargeter under assembly constraints, then fabricates the hand; teleoperation and imitation learning evaluate the co-designed hardware, and hand retargeting remains a substantial associated contribution. Official abstract: https://arxiv.org/abs/2610.18443",
+    "related_topics": ["Hand Retargeting"]
+  },
+  "hwam humanoid world action model with joint state action generation": {
+    "title": "HWAM: Humanoid World Action Model With Joint State--Action Generation",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "World & Dynamics Modeling",
+      "Action-conditioned Video Prediction"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: HWAM jointly generates policy references and realized proprioceptive states, with forward dynamics predicting visual outcomes and inverse dynamics reconstructing trajectories; whole-body control is the downstream execution context, not a new balance or locomotion controller. Official abstract: https://arxiv.org/abs/2610.12026",
+    "related_topics": ["World Models"]
+  },
+  "what visual representations do world action models need": {
+    "title": "What Visual Representations Do World Action Models Need?",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "World & Dynamics Modeling",
+      "Action-conditioned Video Prediction"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: the paper compares visual representations, integration mechanisms and feature composition inside world-action models, including joint future-feature prediction, and instantiates the resulting recipe as R2-WAM; it is not an unspecified imitation-learning method. Official abstract: https://arxiv.org/abs/2610.13024",
+    "related_topics": ["World Models"]
+  },
+  "egocpt learning dexterous manipulation from a single ego centric video with contact aware optimization": {
+    "title": "EgoCPT: Learning Dexterous Manipulation from a Single Ego-Centric Video with Contact-Aware Optimization",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: EgoCPT reconstructs deployable retargeted dexterous hand trajectories from egocentric RGB video and reference hand poses through iterative hand-object contact optimization; the core contribution is contact-aware demonstration transfer rather than generic multifinger grasp control. Official abstract: https://arxiv.org/abs/2610.17572",
+    "related_topics": ["Hand Retargeting", "Dexterous Manipulation", "Contact-rich"]
+  },
+  "human2dex dexterous robot learning from wrist centric human demonstrations": {
+    "title": "Human2Dex: Dexterous Robot Learning from Wrist-Centric Human Demonstrations",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Human Demonstrations to Dexterous Skills",
+      "Video-to-robot Demonstrations"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: Human2Dex builds a reusable wrist-centric human-demonstration interface through observation alignment, a shared hand representation and hand-specific policy learning; retargeting fused human hand motion to each target hand constructs executable supervision, so Hand Retargeting is an association without replacing the broader demonstration-to-policy primary path. Official abstract: https://arxiv.org/abs/2610.13119",
+    "related_topics": ["Hand Retargeting", "Dexterous Manipulation"]
+  },
+  "dexstitch learning and composing dexterous skills from human videos via contact aware robotic inpainting": {
+    "title": "DexStitch: Learning and Composing Dexterous Skills from Human Videos via Contact-Aware Robotic Inpainting",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Human Demonstrations to Dexterous Skills",
+      "Video-to-robot Demonstrations"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: DexStitch segments human videos into skills and transitions, converts aligned robot observation-action-skill data and composes skill-conditioned policies; per-finger contacts guide dexterous hand retargeting and robotic inpainting during conversion, supporting a Hand Retargeting association while preserving the demonstration-to-skill primary path. Official abstract: https://arxiv.org/abs/2610.17789",
+    "related_topics": ["Hand Retargeting", "Dexterous Manipulation"]
+  },
+  "share sharing human actions across robot embodiments through unified retargeting and tracking": {
+    "title": "SHARE: Sharing Human Actions across Robot Embodiments through Unified Retargeting and Tracking",
+    "path": [
+      "Legged Locomotion & Whole-body Control",
+      "Whole-body Motion Transfer",
+      "Motion Imitation & Generation"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: SHARE generates embodiment-compatible human-motion references with AdaMorph and executes them through AdaTrack's closed-loop action policy on G1, HI, AD and T1; proprioception is an input to motion tracking, not the contribution of a tactile or sensor-fusion estimator. This is whole-body motion transfer, not human-to-hand retargeting. Official abstract: https://arxiv.org/abs/2601.07284",
+    "excluded_topics": ["Hand Retargeting"],
+    "related_topics": ["Whole-body Retargeting"]
+  },
+  "diffmorphgrasp a diffusion framework conditioned on hand morphology for cross embodiment grasp generation": {
+    "title": "DiffMorphGrasp: A Diffusion Framework Conditioned on Hand Morphology for Cross-Embodiment Grasp Generation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Multifinger Grasping & Control",
+      "Multifinger Coordination & Grasp Generation"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: DiffMorphGrasp conditions diffusion-based dexterous grasp generation on graph representations of multiple robotic hands' kinematic structures and object geometry; its shared reference-hand pose enables cross-morphology grasp learning, not human hand-motion retargeting or parallel-jaw and suction planning. Official abstract: https://arxiv.org/abs/2602.00915",
+    "excluded_topics": ["Hand Retargeting", "Whole-body Retargeting"],
+    "related_topics": ["Dexterous Manipulation"]
+  },
+  "contributing factors in human robot handshake compliance hand grip and synchrony": {
+    "title": "Contributing Factors in Human-Robot Handshake: Compliance, Hand Grip, and Synchrony",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Multifinger Grasping & Control",
+      "Pending specialty review"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: the paper studies compliance, grip strength and synchrony in a 16-participant 2x2x2 human-robot handshake experiment; synchrony is an experimental factor, not sensor calibration. The current schema lacks a precise physical-HRI specialty, so this conservative hand-control parent retains Pending specialty review rather than asserting a new grasp-control algorithm or a fully resolved leaf. Publisher source: https://doi.org/10.1109/ICRA57385.2026.11696443",
+    "excluded_topics": ["Hand Retargeting", "Whole-body Retargeting"],
+    "related_topics": []
   }
 }

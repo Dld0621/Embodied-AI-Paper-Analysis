@@ -1,12 +1,12 @@
 # Reproducibility & Statistical Comparison · 复现协议与统计比较
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Experimental%20Methods&specialty=Reproducibility%20%26%20Statistical%20Comparison#research-workbench)
 
-> 1 conference papers · 57 recent arXiv papers
+> 1 conference papers · 60 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2025 | Hri-Free: Cognitive Robotic Simulation for Evaluating Embodied Social Attention Models | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127539) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127539) | rule-assigned |
 
-## Recent arXiv papers (57)
+## Recent arXiv papers (60)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-14 | Dungeon and Visibility World Generator | Edwin Mériaux, Antonio Loría, Gregory Dudek | [Abstract](https://arxiv.org/abs/2610.19523) · [PDF](https://arxiv.org/pdf/2610.19523) | rule-assigned |
+| 2026-10-13 | Reference Wording Shapes Retrieval of Robot Task Instructions | Jahnavi Yelamanchi | [Abstract](https://arxiv.org/abs/2610.17549) · [PDF](https://arxiv.org/pdf/2610.17549) | rule-assigned |
+| 2026-10-09 | MARGoS: A Configuration-Driven Platform for Reproducible MARL Experiments in ARGoS | Tom Philipp Backert, Mohammad D. Soorati, Javad Ghofrani | [Abstract](https://arxiv.org/abs/2610.13772) · [PDF](https://arxiv.org/pdf/2610.13772) | rule-assigned |
 | 2026-09-24 | Auditing Latent-Space Monitors for Autonomous Driving | Nikhil Kamalkumar Advani, Vishwajeet Shivaji Hogale, Saurav Kumar | [Abstract](https://arxiv.org/abs/2609.30557) · [PDF](https://arxiv.org/pdf/2609.30557) | rule-assigned |
 | 2026-09-23 | Amplify: A Lightweight Library for Reproducible Nonlinear Programming Problems in Robotics | Nelson Rosa | [Abstract](https://arxiv.org/abs/2609.28377) · [PDF](https://arxiv.org/pdf/2609.28377) | rule-assigned |
 | 2026-09-22 | RoboTwin-Phys: Do WAMs and VLAs Understand the Physical World? | Jiaqi Zhang, Feng Ye, Mingjia Yang, Zhihong Chen et al. | [Abstract](https://arxiv.org/abs/2609.26292) · [PDF](https://arxiv.org/pdf/2609.26292) | rule-assigned |

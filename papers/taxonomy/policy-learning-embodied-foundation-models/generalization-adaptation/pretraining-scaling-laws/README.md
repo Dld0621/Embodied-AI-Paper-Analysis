@@ -1,12 +1,12 @@
 # Pretraining & Scaling Laws · 预训练与规模化规律
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generalization%20%26%20Adaptation&specialty=Pretraining%20%26%20Scaling%20Laws#research-workbench)
 
-> 1 conference papers · 19 recent arXiv papers
+> 1 conference papers · 18 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,7 +26,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2025 | DexScale: Automating Data Scaling for Sim2Real Generalizable Robot Control | ICML · Sim2Real | [Paper](https://www.semanticscholar.org/paper/cc19b3dda0e6774626918571bd5d47524e3c084c) · [Index](https://dblp.org/rec/conf/icml/LiuDZ0CCXTJ25) | rule-assigned |
 
-## Recent arXiv papers (19)
+## Recent arXiv papers (18)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -35,7 +35,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-24 | Physics Filtering Favors the Generalization of Robot Learning | Jindou Jia, Shixuan Han, Meng Wang, Gen Li et al. | [Abstract](https://arxiv.org/abs/2608.22701) · [PDF](https://arxiv.org/pdf/2608.22701) | rule-assigned |
 | 2026-08-22 | Ludi${}_{\scriptscriptstyle 0.1}$: An Agentic System for Socially Intelligent Robots | Wooseong Chung, William Cong, Jakub Dworakowski, Ethan Ewer et al. | [Abstract](https://arxiv.org/abs/2608.22035) · [PDF](https://arxiv.org/pdf/2608.22035) | rule-assigned |
 | 2026-07-07 | Hypothesis-driven Model Expansion under Uncertainty for Open-World Robot Planning | Anxing Xiao, Hanbo Zhang, Tianrun Hu, David Hsu | [Abstract](https://arxiv.org/abs/2607.06501) · [PDF](https://arxiv.org/pdf/2607.06501) | rule-assigned |
-| 2026-07-04 | WSA$_1$: a 3D-Centric World-Spatial-Action Model for Generalizable Robot Control | Jiahao Jiang, Jianing Zhang, Zhenhan Yin, Ruidong Chen et al. | [Abstract](https://arxiv.org/abs/2607.03941) · [PDF](https://arxiv.org/pdf/2607.03941) | rule-assigned |
 | 2026-06-12 | EgoGuide: Egocentric Guidance for Efficient Robot-Free Demonstration Collection and Learning | Yue Xu, Mingtao Nie, Tianle Li, Hong Li et al. | [Abstract](https://arxiv.org/abs/2606.14665) · [PDF](https://arxiv.org/pdf/2606.14665) | rule-assigned |
 | 2026-05-20 | Closed Loop Dynamic Driving Data Mixture for Real-Synthetic Co-Training | Hongzhi Ruan, Pei Liu, Weiliang Ma, Zhengning Li et al. | [Abstract](https://arxiv.org/abs/2605.21372) · [PDF](https://arxiv.org/pdf/2605.21372) | rule-assigned |
 | 2026-03-16 | What Matters for Scalable and Robust Learning in End-to-End Driving Planners? | David Holtz, Niklas Hanselmann, Simon Doll, Marius Cordts et al. | [Abstract](https://arxiv.org/abs/2603.15185) · [PDF](https://arxiv.org/pdf/2603.15185) | rule-assigned |

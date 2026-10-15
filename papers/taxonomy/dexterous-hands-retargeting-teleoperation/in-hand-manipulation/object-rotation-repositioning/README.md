@@ -1,12 +1,12 @@
 # Object Rotation & Repositioning · 物体旋转与重定位
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=In-hand%20Manipulation&specialty=Object%20Rotation%20%26%20Repositioning#research-workbench)
 
-> 36 conference papers · 71 recent arXiv papers
+> 37 conference papers · 71 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,28 +20,29 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (36)
+## Conference papers (37)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | Flow Before Imitation: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696089) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696089) | rule-assigned |
-| 2026 | Suction Leap-Hand: Suction Cups on a Multi-fingered Hand Enable Embodied Dexterity and In-Hand Teleoperation | ICRA · In Hand | [Paper](https://arxiv.org/abs/2509.20646) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695882) | rule-assigned |
+| 2026 | Soft Vortex Gripper for Dexterous Manipulation using Hand-Like Robots | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696920) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696920) | rule-assigned |
+| 2026 | Suction Leap-Hand: Suction Cups on a Multi-fingered Hand Enable Embodied Dexterity and In-Hand Teleoperation | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2509.20646) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695882) | rule-assigned |
 | 2025 | Composing Dextrous Grasping and In-Hand Manipulation via Scoring with a Reinforcement Learning Critic | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2505.13253) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127792) | rule-assigned |
-| 2025 | DROP: Dexterous Reorientation via Online Planning | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2409.14562) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128433) | rule-assigned |
+| 2025 | DROP: Dexterous Reorientation via Online Planning | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2409.14562) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128433) | rule-assigned |
 | 2025 | Proprioceptive Object Shape and Size Extraction via In-Hand-Manipulation with a Variable Friction Robot Gripper | ICRA · In Hand | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128387) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128387) | rule-assigned |
-| 2025 | Soft Robotic Dynamic in-Hand Pen Spinning | ICRA · In Hand | [Paper](https://arxiv.org/abs/2411.12734) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127449) | rule-assigned |
+| 2025 | Soft Robotic Dynamic in-Hand Pen Spinning | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2411.12734) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127449) | rule-assigned |
 | 2025 | Open-loop Deep Reinforcement Learning Control of Soft Robotic In-hand Manipulations | IROS · In Hand | [Paper](https://doi.org/10.1109/IROS60139.2025.11245997) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245997) | rule-assigned |
 | 2025 | Trajectory Optimization for In-Hand Manipulation with Tactile Force Control | IROS · In Hand | [Paper](https://arxiv.org/pdf/2503.08222) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246500) | rule-assigned |
 | 2025 | Vibration-induced Friction Modulation to Enable Controlled Sliding for In-hand Manipulation | IROS · In Hand | [Paper](https://doi.org/10.1109/IROS60139.2025.11247140) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247140) | rule-assigned |
-| 2025 | Wearable Roller Rings to Augment In-Hand Manipulation through Active Surfaces | IROS · In Hand | [Paper](https://arxiv.org/abs/2403.13132) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247531) | rule-assigned |
+| 2025 | Wearable Roller Rings to Augment In-Hand Manipulation through Active Surfaces | IROS · In Hand | [Paper](https://arxiv.org/pdf/2403.13132) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247531) | rule-assigned |
 | 2024 | AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch | CoRL · In Hand | [Paper](https://arxiv.org/abs/2405.07391) · [Index](https://dblp.org/rec/journals/corr/abs-2405-07391) | rule-assigned |
 | 2024 | Curriculum-based Sensing Reduction in Simulation to Real-World Transfer for In-hand Manipulation | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2309.07350) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610328) | rule-assigned |
 | 2024 | Direct Self-Identification of Inverse Jacobians for Dexterous Manipulation Through Particle Filtering | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611052) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611052) | rule-assigned |
 | 2024 | Incipient Slip-Based Rotation Measurement via Visuotactile Sensing During In-Hand Object Pivoting | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2309.05366) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610988) | rule-assigned |
-| 2024 | Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing | ICRA · In Hand | [Paper](https://arxiv.org/abs/2312.01853) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610532) | rule-assigned |
-| 2024 | Robust In-Hand Manipulation with Extrinsic Contacts | ICRA · In Hand | [Paper](https://arxiv.org/abs/2403.18960) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611664) | rule-assigned |
-| 2024 | Contact-Implicit Model Predictive Control for Dexterous In-hand Manipulation: A Long-Horizon and Robust Approach | IROS · Dexterous | [Paper](https://arxiv.org/abs/2402.18897) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801751) | rule-assigned |
-| 2024 | Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects | IROS · In Hand | [Paper](https://arxiv.org/abs/2407.18834) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802864) | rule-assigned |
+| 2024 | Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2312.01853) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610532) | rule-assigned |
+| 2024 | Robust In-Hand Manipulation with Extrinsic Contacts | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2403.18960) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611664) | rule-assigned |
+| 2024 | Contact-Implicit Model Predictive Control for Dexterous In-hand Manipulation: A Long-Horizon and Robust Approach | IROS · Dexterous | [Paper](https://arxiv.org/pdf/2402.18897) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801751) | rule-assigned |
+| 2024 | Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects | IROS · In Hand | [Paper](https://arxiv.org/pdf/2407.18834) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802864) | rule-assigned |
 | 2024 | Stick Roller: Precise In-hand Stick Rolling with a Sample-Efficient Tactile Model | IROS · In Hand | [Paper](https://doi.org/10.1109/IROS58592.2024.10802003) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802003) | rule-assigned |
 | 2024 | Tilde: Teleoperation for Dexterous In-Hand Manipulation Learning with a DeltaHand | RSS · Dexterous | [Paper](https://arxiv.org/abs/2405.18804) · [Index](https://dblp.org/rec/journals/corr/abs-2405-18804) | rule-assigned |
 | 2023 | A Multi-Agent Approach for Adaptive Finger Cooperation in Learning-based In-Hand Manipulation | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2210.05767) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160909) | rule-assigned |
@@ -56,9 +57,9 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | In-Hand Gravitational Pivoting Using Tactile Sensing | CoRL · In Hand | [Paper](https://arxiv.org/abs/2210.05068) · [Index](https://dblp.org/rec/conf/corl/ToskovNMKC22) | rule-assigned |
 | 2022 | Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2204.03698) · [Publisher](https://doi.org/10.1109/ICRA46639.2022.9812093) | rule-assigned |
 | 2022 | Cutaneous Feedback Interface for Teleoperated In-Hand Manipulation | IROS · In Hand | [Paper](https://arxiv.org/pdf/2303.03250) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982247) | rule-assigned |
-| 2022 | Designing Underactuated Graspers with Dynamically Variable Geometry Using Potential Energy Map Based Analysis | IROS · Grasp | [Paper](https://arxiv.org/abs/2203.07456) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982148) | rule-assigned |
+| 2022 | Designing Underactuated Graspers with Dynamically Variable Geometry Using Potential Energy Map Based Analysis | IROS · Grasp | [Paper](https://arxiv.org/pdf/2203.07456) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982148) | rule-assigned |
 | 2022 | Hierarchical Learning and Control for In-Hand Micromanipulation Using Multiple Laser-Driven Micro-Tools | IROS · In Hand | [Paper](https://doi.org/10.1109/IROS47612.2022.9982033) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982033) | rule-assigned |
-| 2022 | Learning a State Estimator for Tactile In-Hand Manipulation | IROS · In Hand | [Paper](https://elib.dlr.de/190608/1/IROS22_LearningTactileEstimator.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981730) | rule-assigned |
+| 2022 | Learning a State Estimator for Tactile In-Hand Manipulation | IROS · In Hand | [Paper](https://doi.org/10.1109/IROS47612.2022.9981730) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981730) | rule-assigned |
 | 2022 | Optical Proximity Sensing for Pose Estimation During In-Hand Manipulation | IROS · In Hand | [Paper](https://arxiv.org/pdf/2204.02371) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981692) | rule-assigned |
 
 ## Recent arXiv papers (71)

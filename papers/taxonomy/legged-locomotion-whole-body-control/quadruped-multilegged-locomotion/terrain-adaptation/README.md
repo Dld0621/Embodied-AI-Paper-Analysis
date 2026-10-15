@@ -1,12 +1,12 @@
 # Terrain Adaptation · 地形适应
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Quadruped%20%26%20Multilegged%20Locomotion&specialty=Terrain%20Adaptation#research-workbench)
 
-> 8 conference papers · 35 recent arXiv papers
+> 8 conference papers · 36 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,8 +24,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2603.03067) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696024) | rule-assigned |
-| 2026 | Terra: Hierarchical Terrain-Aware 3D Scene Graph for Task-Agnostic Outdoor Mapping | ICRA · 3D Scene | [Paper](https://arxiv.org/abs/2509.19579) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696096) | rule-assigned |
+| 2026 | CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2603.03067) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696024) | rule-assigned |
+| 2026 | Terra: Hierarchical Terrain-Aware 3D Scene Graph for Task-Agnostic Outdoor Mapping | ICRA · 3D Scene | [Paper](https://arxiv.org/pdf/2509.19579) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696096) | rule-assigned |
 | 2025 | Whole-Body End-Effector Pose Tracking | ICRA · Whole Body | [Paper](https://arxiv.org/abs/2409.16048) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127964) | rule-assigned |
 | 2025 | BeeTLe: Blind Terrain-aware Learned Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11246775) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246775) | rule-assigned |
 | 2025 | Learning to Exploit Leg Odometry Enables Terrain-Aware Quadrupedal Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11247127) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247127) | rule-assigned |
@@ -33,10 +33,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Proprioception and Tail Control Enable Extreme Terrain Traversal by Quadruped Robots | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2303.04781) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342384) | rule-assigned |
 | 2022 | A passive, asymmetrically-compliant knee joint improves obstacle traversal in an insect-scale legged robot | IROS · Legged | [Paper](https://doi.org/10.1109/IROS47612.2022.9981497) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981497) | rule-assigned |
 
-## Recent arXiv papers (35)
+## Recent arXiv papers (36)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-07 | Terrain Traversal Without Motion Priors: Expert-Routed Humanoid Locomotion at Deployment Fidelity | Thanh Ly, Chien Le, Truong-Duy Dang, Duy M. H. Nguyen et al. | [Abstract](https://arxiv.org/abs/2610.14061) · [PDF](https://arxiv.org/pdf/2610.14061) | rule-assigned |
 | 2026-10-05 | BRACE: Adapting Whole-Body References for Force and Terrain Aware Humanoid Motion Tracking | Sudarshan Harithas, Chen Yu, Juan Borbon, Shubhankar Mondal et al. | [Abstract](https://arxiv.org/abs/2610.07052) · [PDF](https://arxiv.org/pdf/2610.07052) | rule-assigned |
 | 2026-09-29 | TERRA: Terrain-Aware Reconstruction, Retargeting and Control for Musculoskeletal Locomotion | Merkourios Simos, Chengkun Li, Bianca Ziliotto, Alexander Mathis | [Abstract](https://arxiv.org/abs/2609.38653) · [PDF](https://arxiv.org/pdf/2609.38653) | rule-assigned |
 | 2026-09-28 | Terrain-Aware Autonomous Planetary Exploration for Exteroceptive-Proprioceptive Mapping with Quadruped Scouts | Alberto Sanchez-Delgado, João Carlos Virgolino Soares, Victor Barasuol, Claudio Semini | [Abstract](https://arxiv.org/abs/2609.35493) · [PDF](https://arxiv.org/pdf/2609.35493) | rule-assigned |

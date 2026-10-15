@@ -1,12 +1,12 @@
 # Cloth & Garments · 布料与衣物
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation&specialty=Cloth%20%26%20Garments#research-workbench)
 
-> 22 conference papers · 57 recent arXiv papers
+> 22 conference papers · 58 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,36 +26,38 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2025 | Geometry-aware RL for Manipulation of Varying Shapes and Deformable Objects | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2502.07005) · [Index](https://dblp.org/rec/conf/iclr/HoangLBVN25) | rule-assigned |
 | 2025 | Learning Efficient Robotic Garment Manipulation with Standardization | ICML · Manipulation | [Paper](https://arxiv.org/abs/2506.22769) · [Index](https://dblp.org/rec/journals/corr/abs-2506-22769) | rule-assigned |
-| 2025 | Hybrid Gripper with Passive Pneumatic Soft Joints for Grasping Deformable Thin Objects | ICRA · Grasp | [Paper](https://arxiv.org/abs/2410.05789) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127915) | rule-assigned |
+| 2025 | Hybrid Gripper with Passive Pneumatic Soft Joints for Grasping Deformable Thin Objects | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2410.05789) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127915) | rule-assigned |
 | 2025 | A Convex Formulation of Material Points and Rigid Bodies with GPU-Accelerated Async-Coupling for Interactive Simulation | IROS · Simulation | [Paper](https://arxiv.org/abs/2503.05046) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245821) | rule-assigned |
 | 2025 | Can Real-to-Sim Approaches Capture Dynamic Fabric Behavior for Robotic Fabric Manipulation? | IROS · Manipulation | [Paper](https://eprints.gla.ac.uk/view/author/67853.html>,) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245811) | rule-assigned |
 | 2025 | Evaluating the Pre-Dressing Step: Unfolding Medical Garments via Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2507.18436) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247713) | rule-assigned |
-| 2025 | Learning Generalizable Language-Conditioned Cloth Manipulation from Long Demonstrations | IROS · Language Conditioned | [Paper](https://arxiv.org/abs/2503.04557) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246306) | rule-assigned |
-| 2025 | SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation | IROS · Language Model | [Paper](https://arxiv.org/abs/2409.18082) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246904) | rule-assigned |
+| 2025 | Learning Generalizable Language-Conditioned Cloth Manipulation from Long Demonstrations | IROS · Language Conditioned | [Paper](https://arxiv.org/pdf/2503.04557) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246306) | rule-assigned |
+| 2025 | SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation | IROS · Language Model | [Paper](https://arxiv.org/pdf/2409.18082) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246904) | rule-assigned |
 | 2024 | UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence | CVPR · Manipulation | [Paper](https://arxiv.org/pdf/2405.06903) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01546) | rule-assigned |
-| 2024 | Attention-Based Cloth Manipulation from Model-free Topological Representation | ICRA · Manipulation | [Paper](https://hdl.handle.net/11583/2991673) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610241) | rule-assigned |
-| 2024 | Learning Fabric Manipulation in the Real World with Human Videos | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2211.02832) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610062) | rule-assigned |
+| 2024 | Attention-Based Cloth Manipulation from Model-free Topological Representation | ICRA · Manipulation | [Paper](https://iris.polito.it/bitstream/11583/2991673/2/icra.pdf) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610241) | rule-assigned |
+| 2024 | Learning Fabric Manipulation in the Real World with Human Videos | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2211.02832) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610062) | rule-assigned |
 | 2024 | Standardization of Cloth Objects and its Relevance in Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2403.04608) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610630) | rule-assigned |
-| 2024 | ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots | IROS · Foundation Model | [Paper](https://arxiv.org/abs/2405.06964) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801782) | rule-assigned |
+| 2024 | ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots | IROS · Foundation Model | [Paper](https://arxiv.org/pdf/2405.06964) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801782) | rule-assigned |
 | 2024 | AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2407.07889) · [Index](https://dblp.org/rec/journals/corr/abs-2407-07889) | rule-assigned |
 | 2023 | Learning Robot Manipulation from Cross-Morphology Demonstration | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2304.03833) · [Index](https://dblp.org/rec/conf/corl/SalhotraLS23) | rule-assigned |
 | 2023 | Learning to Grasp Clothing Structural Regions for Garment Manipulation Tasks | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2306.14553) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342086) | rule-assigned |
 | 2023 | QDP: Learning to Sequentially Optimise Quasi-Static and Dynamic Manipulation Primitives for Robotic Cloth Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2303.13320) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342002) | rule-assigned |
 | 2023 | Quadratic Dynamic Matrix Control for Fast Cloth Manipulation | IROS · Manipulation | [Paper](https://upcommons.upc.edu/bitstreams/14be0a3b-9c7e-4595-9989-7cdcbf746561/download) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341850) | rule-assigned |
 | 2022 | Visuotactile Affordances for Cloth Manipulation with Local Control | CoRL · Tactile | [Paper](https://arxiv.org/abs/2212.05108) · [Index](https://dblp.org/rec/conf/corl/SunilWSAG22) | rule-assigned |
-| 2022 | Learning to Singulate Layers of Cloth using Tactile Feedback | IROS · Tactile | [Paper](https://arxiv.org/abs/2207.11196) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981341) | rule-assigned |
+| 2022 | Learning to Singulate Layers of Cloth using Tactile Feedback | IROS · Tactile | [Paper](https://arxiv.org/pdf/2207.11196) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981341) | rule-assigned |
 | 2022 | Iterative residual policy: For goal-conditioned dynamic manipulation of deformable objects | RSS · Manipulation | [Paper](https://arxiv.org/abs/2203.00663) · [Publisher](https://doi.org/10.1177/02783649231201201) | rule-assigned |
 | 2022 | Mesh-based Dynamics with Occlusion Reasoning for Cloth Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/pdf/2206.02881) · [Index](https://dblp.org/rec/journals/corr/abs-2206-02881) | rule-assigned |
 
-## Recent arXiv papers (57)
+## Recent arXiv papers (58)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-09 | Continuous-Time Cloth Dynamics with Physics-Informed Neural ODEs | Yingdong Ru, Lipeng Zhuang, Zhuo He, Gerardo Aragon Camarasa | [Abstract](https://arxiv.org/abs/2610.14342) · [PDF](https://arxiv.org/pdf/2610.14342) | rule-assigned |
+| 2026-10-07 | Same Action, Different Outcome: Variability in Dynamic Cloth Manipulation | Mahed Dadgostar, Guillem Alenyà, Júlia Borràs | [Abstract](https://arxiv.org/abs/2610.10801) · [PDF](https://arxiv.org/pdf/2610.10801) | rule-assigned |
 | 2026-10-07 | FoldBack: Self-Correcting Masked Generative Policy for Long-Horizon Garment Folding | Lipeng Zhuang, Shiyu Fan, Yingdong Ru, Zhuo He et al. | [Abstract](https://arxiv.org/abs/2610.10462) · [PDF](https://arxiv.org/pdf/2610.10462) | rule-assigned |
 | 2026-09-17 | RotateIt! Fast and Reliable Single-Arm Garment Unfolding via Online-Adaptive Dynamic Rotation | Zeqing Zhang, Zuokun Xie, Ao Fang, Bin Dai et al. | [Abstract](https://arxiv.org/abs/2609.19817) · [PDF](https://arxiv.org/pdf/2609.19817) | rule-assigned |
 | 2026-09-06 | Rethinking Safety for Generalist Robots | Rohan Sinha, Anushri Dixit, Ran Tian, Anirudha Majumdar et al. | [Abstract](https://arxiv.org/abs/2609.06326) · [PDF](https://arxiv.org/pdf/2609.06326) | rule-assigned |
 | 2026-08-27 | MeshPriorDiT: Hierarchical Modeling for Action-Conditioned Cloth Dynamics | Zihang Wang, Jianming Hu, Shang Su, Hao Huang et al. | [Abstract](https://arxiv.org/abs/2608.26766) · [PDF](https://arxiv.org/pdf/2608.26766) | rule-assigned |
-| 2026-07-26 | Mission-Level Runtime Assurance for LLM-Assisted ISR Swarms over a Verification-Aware Fabric | Nikolaos Kekatos, Panagiotis Katsaros, Alexios Lekidis, Theodoros Nestoridis et al. | [Abstract](https://arxiv.org/abs/2607.23532) · [PDF](https://arxiv.org/pdf/2607.23532) | rule-assigned |
+| 2026-07-26 | Mission-Level Runtime Assurance for LLM-Assisted ISR Swarms over a Verification-Aware Fabric | Nikolaos Kekatos, Michael Ioannou, Panagiotis Katsaros, Alexios Lekidis et al. | [Abstract](https://arxiv.org/abs/2607.23532) · [PDF](https://arxiv.org/pdf/2607.23532) | rule-assigned |
 | 2026-07-17 | A Generative Partially Specified Finite State Machine Approach to Complex Behaviour Planning | Kalana Ratnayake, Michael Pritchard, David Hinwood, Maleen Jayasuriya et al. | [Abstract](https://arxiv.org/abs/2607.15674) · [PDF](https://arxiv.org/pdf/2607.15674) | rule-assigned |
 | 2026-06-29 | What Enables In-Context Behavior Prompting for Manipulation? | Austin Patel, Ben Pekarek, Joel Enrique Castro Hernandez, Shuran Song | [Abstract](https://arxiv.org/abs/2606.30457) · [PDF](https://arxiv.org/pdf/2606.30457) | rule-assigned |
 | 2026-06-20 | RARM: Confidence-Gated Progress Reward Modeling for RL in Manipulation | Pengzhi Yang, Xinyu Wang, Pengyu Jing, Kehan Wen et al. | [Abstract](https://arxiv.org/abs/2606.22027) · [PDF](https://arxiv.org/pdf/2606.22027) | rule-assigned |
@@ -107,7 +109,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-09 | Differentiable Cloth Parameter Identification and State Estimation in Manipulation | Dongzhe Zheng, Siqiong Yao, Wenqiang Xu, Cewu Lu | [Abstract](https://arxiv.org/abs/2311.05141) · [PDF](https://arxiv.org/pdf/2311.05141) | rule-assigned |
 | 2023-11-02 | UniFolding: Towards Sample-efficient, Scalable, and Generalizable Robotic Garment Folding | Han Xue, Yutong Li, Wenqiang Xu, Huanyu Li et al. | [Abstract](https://arxiv.org/abs/2311.01267) · [PDF](https://arxiv.org/pdf/2311.01267) | rule-assigned |
 | 2023-10-25 | The Teenager's Problem: Efficient Garment Decluttering as Probabilistic Set Cover | Aviv Adler, Ayah Ahmad, Yulei Qiu, Shengyin Wang et al. | [Abstract](https://arxiv.org/abs/2310.16951) · [PDF](https://arxiv.org/pdf/2310.16951) | rule-assigned |
-| 2023-10-14 | Benchmarking the Sim-to-Real Gap in Cloth Manipulation | David Blanco-Mulero, Oriol Barbany, Gokhan Alcan, Adrià Colomé et al. | [Abstract](https://arxiv.org/abs/2310.09543) · [PDF](https://arxiv.org/pdf/2310.09543) | rule-assigned |
 
 ---
 

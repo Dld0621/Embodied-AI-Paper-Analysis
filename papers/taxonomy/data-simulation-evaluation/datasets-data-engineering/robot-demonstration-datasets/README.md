@@ -1,12 +1,12 @@
 # Robot Demonstration Datasets · 机器人示教数据集
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engineering&specialty=Robot%20Demonstration%20Datasets#research-workbench)
 
-> 14 conference papers · 64 recent arXiv papers
+> 14 conference papers · 67 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,25 +24,27 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | RoboCade: Gamifying Robot Data Collection | ICRA · Data Collection | [Paper](https://arxiv.org/abs/2512.21235) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696342) | rule-assigned |
+| 2026 | RoboCade: Gamifying Robot Data Collection | ICRA · Data Collection | [Paper](https://arxiv.org/pdf/2512.21235) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696342) | rule-assigned |
 | 2025 | What Matters in Learning from Large-Scale Datasets for Robot Manipulation | ICLR · Dataset | [Paper](https://arxiv.org/abs/2506.13536) · [Index](https://dblp.org/rec/conf/iclr/SaxenaBAWSNMX25) | rule-assigned |
 | 2025 | DART: Dexterous Augmented Reality Teleoperation Platform for Large-Scale Robot Data Collection in Simulation | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128299) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128299) | rule-assigned |
-| 2025 | Robo-DM: Data Management for Large Robot Datasets | ICRA · Dataset | [Paper](https://arxiv.org/abs/2505.15558) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128693) | rule-assigned |
-| 2025 | RoboCrowd: Scaling Robot Data Collection Through Crowdsourcing | ICRA · Data Collection | [Paper](https://arxiv.org/abs/2411.01915) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127402) | rule-assigned |
-| 2025 | OpenRoboCare: A Multimodal Multi-Task Expert Demonstration Dataset for Robot Caregiving | IROS · Dataset | [Paper](https://arxiv.org/abs/2511.13707) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247516) | rule-assigned |
+| 2025 | Robo-DM: Data Management for Large Robot Datasets | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2505.15558) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128693) | rule-assigned |
+| 2025 | RoboCrowd: Scaling Robot Data Collection Through Crowdsourcing | ICRA · Data Collection | [Paper](https://arxiv.org/pdf/2411.01915) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127402) | rule-assigned |
+| 2025 | OpenRoboCare: A Multimodal Multi-Task Expert Demonstration Dataset for Robot Caregiving | IROS · Dataset | [Paper](https://arxiv.org/pdf/2511.13707) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247516) | rule-assigned |
 | 2024 | Scaling Robot Policy Learning via Zero-Shot Labeling with Foundation Models | CoRL · Foundation Model | [Paper](https://arxiv.org/abs/2410.17772) · [Index](https://dblp.org/rec/journals/corr/abs-2410-17772) | rule-assigned |
 | 2024 | So You Think You Can Scale Up Autonomous Robot Data Collection? | CoRL · Data Collection | [Paper](https://arxiv.org/abs/2411.01813) · [Index](https://dblp.org/rec/journals/corr/abs-2411-01813) | rule-assigned |
-| 2024 | TreeScope: An Agricultural Robotics Dataset for LiDAR-Based Mapping of Trees in Forests and Orchards | ICRA · Dataset | [Paper](https://arxiv.org/abs/2310.02162) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611103) | rule-assigned |
+| 2024 | TreeScope: An Agricultural Robotics Dataset for LiDAR-Based Mapping of Trees in Forests and Orchards | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2310.02162) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611103) | rule-assigned |
 | 2024 | Efficient Data Collection for Robotic Manipulation via Compositional Generalization | RSS · Data Collection | [Paper](https://arxiv.org/abs/2403.05110) · [Index](https://dblp.org/rec/conf/rss/GaoXXFS24) | rule-assigned |
 | 2023 | T2FPV: Dataset and Method for Correcting First-Person View Errors in Pedestrian Trajectory Prediction | IROS · Dataset | [Paper](https://arxiv.org/pdf/2209.11294) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341874) | rule-assigned |
-| 2023 | WIT-UAS: A Wildland-Fire Infrared Thermal Dataset to Detect Crew Assets from Aerial Views | IROS · Dataset | [Paper](https://arxiv.org/abs/2312.09159) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341683) | rule-assigned |
+| 2023 | WIT-UAS: A Wildland-Fire Infrared Thermal Dataset to Detect Crew Assets from Aerial Views | IROS · Dataset | [Paper](https://arxiv.org/pdf/2312.09159) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341683) | rule-assigned |
 | 2023 | SiT Dataset: Socially Interactive Pedestrian Trajectory Dataset for Social Navigation Robots | NeurIPS · Navigation | [Paper](https://doi.org/10.52202/075280-1067) · [Publisher](https://doi.org/10.52202/075280-1067) | rule-assigned |
 | 2022 | PATO: Policy Assisted TeleOperation for Scalable Robot Data Collection | RSS · Teleoperation | [Paper](https://arxiv.org/abs/2212.04708) · [Index](https://dblp.org/rec/journals/corr/abs-2212-04708) | rule-assigned |
 
-## Recent arXiv papers (64)
+## Recent arXiv papers (67)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-08 | StereoEngine: Scaling Stereo Bimanual Robot Data without Stereo Cameras | Jason Chen, I-Chun Arthur Liu, Gaurav Sukhatme, Daniel Seita | [Abstract](https://arxiv.org/abs/2610.12734) · [PDF](https://arxiv.org/pdf/2610.12734) | rule-assigned |
+| 2026-10-08 | PMTRM: Pseudo-Memory Temporal Re-encoding Module for Embodied Policy Learning | Changchuan Yang, Haoxuan Xu, Wenbo Chen, Shuai Ren et al. | [Abstract](https://arxiv.org/abs/2610.11168) · [PDF](https://arxiv.org/pdf/2610.11168) | rule-assigned |
 | 2026-10-01 | NEEDLEWORK: Offline Rewriting of Robot Data with Verified Local Stitches | Juntao Ren, Yifan Hou, Shuran Song | [Abstract](https://arxiv.org/abs/2610.02339) · [PDF](https://arxiv.org/pdf/2610.02339) | rule-assigned |
 | 2026-10-01 | 3DROID: A Renderable 3D Gaussian Dataset with Measured Per-Scene Reliability | Wonguen Cho, Junhoo Lee, Nojun Kwak | [Abstract](https://arxiv.org/abs/2610.01744) · [PDF](https://arxiv.org/pdf/2610.01744) | rule-assigned |
 | 2026-09-29 | FineART: Fine-Grained Annotated Robotic Trajectory Dataset and Vision-Language-Action Model for Bimanual Manipulation | Jade Choghari, Pepijn Kooijmans, Mansi Agarwal, Yusuf Umut Ciftci et al. | [Abstract](https://arxiv.org/abs/2609.36416) · [PDF](https://arxiv.org/pdf/2609.36416) | rule-assigned |
@@ -53,6 +55,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-07-24 | Mag4D-SLAM Dataset: A Repeated-Traversal Multi-Modal 4D Geomagnetic Dataset for Localization and Mapping | Bibhutibhusan Nayak, Hyoseok Ju, Giseop Kim | [Abstract](https://arxiv.org/abs/2607.21986) · [PDF](https://arxiv.org/pdf/2607.21986) | rule-assigned |
 | 2026-07-24 | ACME: A Multi-Cultural, Multi-Embodiment Social-Navigation Dataset | Shashank Rao Marpally, Allan Wang, Atharva Ghotavadekar, Renato Alexandre Ribeiro et al. | [Abstract](https://arxiv.org/abs/2607.21964) · [PDF](https://arxiv.org/pdf/2607.21964) | rule-assigned |
 | 2026-07-20 | MEVION: Low-Cost Open-Source Data Collection System for Powerful and High-Speed Dual-Arm Manipulation | Kento Kawaharazuka, Yoshiki Obinata, Hirokazu Ishida, Jihoon Oh et al. | [Abstract](https://arxiv.org/abs/2607.17970) · [PDF](https://arxiv.org/pdf/2607.17970) | rule-assigned |
+| 2026-07-04 | WSA$_1$: a 3D-Centric World-Spatial-Action Model for Generalizable Robot Control | Jiahao Jiang, Jianing Zhang, Xuanhan Wang, Duo Peng et al. | [Abstract](https://arxiv.org/abs/2607.03941) · [PDF](https://arxiv.org/pdf/2607.03941) | rule-assigned |
 | 2026-07-01 | Counterfactual Closing-Acceleration Risk: An Anticipatory Surrogate Safety Measure for the Blind Region of Car-Following | Eni Solomon Laughter | [Abstract](https://arxiv.org/abs/2609.00370) · [PDF](https://arxiv.org/pdf/2609.00370) | rule-assigned |
 | 2026-06-30 | HABIT: Human-Aware Behavior and Interaction Training Dataset for Robot Manipulation | Jaehwi Song, Suchae Jeong, Byeongguk Jeon, Sungdong Kim et al. | [Abstract](https://arxiv.org/abs/2606.31682) · [PDF](https://arxiv.org/pdf/2606.31682) | rule-assigned |
 | 2026-06-15 | ATHENA: Accelerated Multi-Task Heterogeneous Influence Functions for Robot Data Curation | Tao Xu, Jiaxin Wang, Runhao Zhang, Jiayi Guan et al. | [Abstract](https://arxiv.org/abs/2606.16208) · [PDF](https://arxiv.org/pdf/2606.16208) | rule-assigned |

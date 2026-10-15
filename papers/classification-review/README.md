@@ -1,7 +1,7 @@
 # Classification review queue · 分类待审清单
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [Classification guide](../../docs/taxonomy-guide.md) · [Taxonomy](../taxonomy/README.md)
@@ -11,7 +11,7 @@ Rule assignments are suggestions, not full-paper reviews. Pending lists preserve
 
 ## conference
 
-Status counts: {'needs-review': 1422, 'rule-assigned': 2940, 'reviewed': 3}
+Status counts: {'needs-review': 1389, 'rule-assigned': 2971, 'reviewed': 3}
 
 - [Records 1–200](conference-001.md)
 - [Records 201–400](conference-002.md)
@@ -19,12 +19,11 @@ Status counts: {'needs-review': 1422, 'rule-assigned': 2940, 'reviewed': 3}
 - [Records 601–800](conference-004.md)
 - [Records 801–1000](conference-005.md)
 - [Records 1001–1200](conference-006.md)
-- [Records 1201–1400](conference-007.md)
-- [Records 1401–1422](conference-008.md)
+- [Records 1201–1389](conference-007.md)
 
 ## arxiv
 
-Status counts: {'needs-review': 5392, 'rule-assigned': 20163, 'reviewed': 27}
+Status counts: {'needs-review': 5462, 'rule-assigned': 20469, 'reviewed': 36}
 
 - [Records 1–200](arxiv-001.md)
 - [Records 201–400](arxiv-002.md)
@@ -52,4 +51,5 @@ Status counts: {'needs-review': 5392, 'rule-assigned': 20163, 'reviewed': 27}
 - [Records 4601–4800](arxiv-024.md)
 - [Records 4801–5000](arxiv-025.md)
 - [Records 5001–5200](arxiv-026.md)
-- [Records 5201–5392](arxiv-027.md)
+- [Records 5201–5400](arxiv-027.md)
+- [Records 5401–5462](arxiv-028.md)

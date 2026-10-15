@@ -1,12 +1,12 @@
 # Local Avoidance & Trajectory Optimization · 局部避障与轨迹优化
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Motion%20Planning%20%26%20Exploration&specialty=Local%20Avoidance%20%26%20Trajectory%20Optimization#research-workbench)
 
-> 35 conference papers · 483 recent arXiv papers
+> 36 conference papers · 486 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,36 +20,37 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (35)
+## Conference papers (36)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Gaussian Process Implicit Surfaces as Control Barrier Functions for Safe Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2510.12919) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695796) | rule-assigned |
-| 2026 | Simulation-Driven Evolutionary Motion Parameterization for Contact-Rich Granular Scooping with a Soft Conical Robotic Hand | ICRA · Robotic Hand | [Paper](https://arxiv.org/abs/2604.05531) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697467) | rule-assigned |
-| 2025 | Data-Driven Sampling Based Stochastic MPC for Skid-Steer Mobile Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2411.03289) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127456) | rule-assigned |
-| 2025 | Differentiable Composite Neural Signed Distance Fields for Robot Navigation in Dynamic Indoor Environments | ICRA · Navigation | [Paper](https://arxiv.org/abs/2502.02664) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128172) | rule-assigned |
+| 2026 | From VO to NAO: Reactive Robot Navigation using Velocity and Acceleration Obstacles | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695859) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695859) | rule-assigned |
+| 2026 | Gaussian Process Implicit Surfaces as Control Barrier Functions for Safe Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2510.12919) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695796) | rule-assigned |
+| 2026 | Simulation-Driven Evolutionary Motion Parameterization for Contact-Rich Granular Scooping with a Soft Conical Robotic Hand | ICRA · Robotic Hand | [Paper](https://arxiv.org/pdf/2604.05531) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697467) | rule-assigned |
+| 2025 | Data-Driven Sampling Based Stochastic MPC for Skid-Steer Mobile Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2411.03289) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127456) | rule-assigned |
+| 2025 | Differentiable Composite Neural Signed Distance Fields for Robot Navigation in Dynamic Indoor Environments | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2502.02664) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128172) | rule-assigned |
 | 2025 | FlightForge: Advancing UAV Research with Procedural Generation of High-Fidelity Simulation and Integrated Autonomy | ICRA · Simulation | [Paper](https://arxiv.org/abs/2502.05038) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127704) | rule-assigned |
-| 2025 | Reactive Collision Avoidance for Safe Agile Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.11962) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127284) | rule-assigned |
+| 2025 | Reactive Collision Avoidance for Safe Agile Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.11962) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127284) | rule-assigned |
 | 2025 | Relative Velocity-Based Reward Model for Socially-Aware Navigation with Deep Reinforcement Learning | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127606) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127606) | rule-assigned |
-| 2025 | Safe Quadrotor Navigation Using Composite Control Barrier Functions | ICRA · Navigation | [Paper](https://arxiv.org/abs/2502.04101) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127368) | rule-assigned |
+| 2025 | Safe Quadrotor Navigation Using Composite Control Barrier Functions | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2502.04101) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127368) | rule-assigned |
 | 2025 | SafePCA: Enhancing Autonomous Robot Navigation in Dynamic Crowds Using Proximal Policy Optimization and Cellular Automata | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127802) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127802) | rule-assigned |
 | 2025 | Safety-Critical Control with Saliency Detection for Mobile Robots in Dynamic Multi-Obstacle Environments | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128721) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128721) | rule-assigned |
-| 2025 | Capsizing-Guided Trajectory Optimization for Autonomous Navigation with Rough Terrain | IROS · Navigation | [Paper](https://arxiv.org/abs/2508.08108) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247440) | rule-assigned |
-| 2025 | Decremental Dynamics Planning for Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2503.20521) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246580) | rule-assigned |
-| 2025 | Demonstration-Enhanced Adaptable Multi-Objective Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2404.04857) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246392) | rule-assigned |
+| 2025 | Capsizing-Guided Trajectory Optimization for Autonomous Navigation with Rough Terrain | IROS · Navigation | [Paper](https://arxiv.org/pdf/2508.08108) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247440) | rule-assigned |
+| 2025 | Decremental Dynamics Planning for Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2503.20521) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246580) | rule-assigned |
+| 2025 | Demonstration-Enhanced Adaptable Multi-Objective Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2404.04857) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246392) | rule-assigned |
 | 2025 | DGVO: A Dynamically Constrained Gradient Velocity Obstacle Approach for Mobile Robots in Dynamic Environments | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS60139.2025.11247136) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247136) | rule-assigned |
 | 2025 | Efficient Swept Volume-Based Trajectory Generation for Arbitrary-Shaped Ground Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2504.07554) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247085) | rule-assigned |
 | 2025 | Inverse Attention-Weighted Model with Heterogeneous Spatio-Temporal Interaction Graph for Autonomous Navigation Systems | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246086) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246086) | rule-assigned |
 | 2025 | Safe Corridor-Based MPC for Follow-Ahead and Obstacle Avoidance of Mobile Robot in Cluttered Environments | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS60139.2025.11247286) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247286) | rule-assigned |
 | 2025 | Vibration-Aware Trajectory Optimization for Mobile Robots in Wild Environments via Physics-Informed Neural Network | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS60139.2025.11246622) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246622) | rule-assigned |
-| 2024 | Perceive with confidence: Statistical safety assurances for navigation with learning-based perception | CoRL · Navigation | [Paper](https://arxiv.org/abs/2403.08185) · [Publisher](https://doi.org/10.1177/02783649251378151) | rule-assigned |
+| 2024 | Perceive with confidence: Statistical safety assurances for navigation with learning-based perception | CoRL · Navigation | [Paper](https://arxiv.org/pdf/2403.08185) · [Publisher](https://doi.org/10.1177/02783649251378151) | rule-assigned |
 | 2024 | Distributionally Robust Chance Constrained Trajectory Optimization for Mobile Robots within Uncertain Safe Corridor | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2308.16381) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611252) | rule-assigned |
 | 2024 | Online-Learning-Based Distributionally Robust Motion Control with Collision Avoidance for Mobile Robots | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610765) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610765) | rule-assigned |
-| 2024 | Spatial Assisted Human-Drone Collaborative Navigation and Interaction through Immersive Mixed Reality | ICRA · Navigation | [Paper](https://arxiv.org/abs/2402.04070) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611351) | rule-assigned |
-| 2024 | Evaluating Dynamic Environment Difficulty for Obstacle Avoidance Benchmarking | IROS · Benchmark | [Paper](https://repository.tudelft.nl/file/File_ef41c34d-c2dc-471d-8be3-39647f5ca687) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802413) | rule-assigned |
-| 2024 | LDP: A Local Diffusion Planner for Efficient Robot Navigation and Collision Avoidance | IROS · Navigation | [Paper](https://arxiv.org/abs/2407.01950) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802009) | rule-assigned |
-| 2024 | Online Efficient Safety-Critical Control for Mobile Robots in Unknown Dynamic Multi-Obstacle Environments | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2402.16449) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802727) | rule-assigned |
-| 2024 | Socially Integrated Navigation: A Social Acting Robot with Deep Reinforcement Learning | IROS · Navigation | [Paper](https://arxiv.org/abs/2403.09793) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801998) | rule-assigned |
+| 2024 | Spatial Assisted Human-Drone Collaborative Navigation and Interaction through Immersive Mixed Reality | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2402.04070) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611351) | rule-assigned |
+| 2024 | Evaluating Dynamic Environment Difficulty for Obstacle Avoidance Benchmarking | IROS · Benchmark | [Paper](https://arxiv.org/pdf/2404.14848) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802413) | rule-assigned |
+| 2024 | LDP: A Local Diffusion Planner for Efficient Robot Navigation and Collision Avoidance | IROS · Navigation | [Paper](https://arxiv.org/pdf/2407.01950) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802009) | rule-assigned |
+| 2024 | Online Efficient Safety-Critical Control for Mobile Robots in Unknown Dynamic Multi-Obstacle Environments | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2402.16449) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802727) | rule-assigned |
+| 2024 | Socially Integrated Navigation: A Social Acting Robot with Deep Reinforcement Learning | IROS · Navigation | [Paper](https://arxiv.org/pdf/2403.09793) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801998) | rule-assigned |
 | 2024 | Unsupervised Multiple Proactive Behavior Learning of Mobile Robots for Smooth and Safe Navigation | IROS · Navigation | [Paper](https://portal.findresearcher.sdu.dk/da/publications/401020e1-a378-4dae-9fd7-a99a8ca6ef3e) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802071) | rule-assigned |
 | 2023 | An Open Approach to Energy-Efficient Autonomous Mobile Robots | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161110) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161110) | rule-assigned |
 | 2023 | Twisting Spine or Rigid Torso: Exploring Quadrupedal Morphology via Trajectory Optimization | ICRA · Quadruped | [Paper](https://repository.upenn.edu/bitstreams/24a4de27-11e4-416b-aee6-89c4bcbff10f/download) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160450) | rule-assigned |
@@ -60,10 +61,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | CoMBiNED: Multi-Constrained Model Based Planning for Navigation in Dynamic Environments | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981479) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981479) | rule-assigned |
 | 2022 | Imitation Learning and Model Integrated Excavator Trajectory Planning | IROS · Imitation Learning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981220) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981220) | rule-assigned |
 
-## Recent arXiv papers (483)
+## Recent arXiv papers (486)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-12 | Learning Reachability-Based Safety Representations for Real-Time Robot Navigation in Unknown and Dynamic Environments | Bojan Derajić | [Abstract](https://arxiv.org/abs/2610.16522) · [PDF](https://arxiv.org/pdf/2610.16522) | rule-assigned |
+| 2026-10-12 | Constrained Differentiable Policy Learning for Safe Quadrotor Navigation | Yan Rui Tan, Praveen Krishnapur, Zeyu Feng, Han Bao et al. | [Abstract](https://arxiv.org/abs/2610.16119) · [PDF](https://arxiv.org/pdf/2610.16119) | rule-assigned |
+| 2026-10-10 | Safety-Critical Quadrotor Navigation Using Fourth-Order Control Barrier Functions with Full Nonlinear Quadrotor Dynamics | Yanze Liu, Yaşar İdikut, Dhruv Madhusudan Agrawal, Wei Xiao et al. | [Abstract](https://arxiv.org/abs/2610.14522) · [PDF](https://arxiv.org/pdf/2610.14522) | rule-assigned |
+| 2026-10-08 | Towards Path-Creative Navigation: Robot Navigation through Embodied Interaction | Haoyu Xi, Siwei Cheng, Xiangyuan Liu, Brenda Li et al. | [Abstract](https://arxiv.org/abs/2610.11072) · [PDF](https://arxiv.org/pdf/2610.11072) | rule-assigned |
+| 2026-10-08 | RESETTLE: Robotic Recovery through Disagreement-Triggered Retrieval and Efficient Corrective Control | Yuxin Chen, Senqiao Yang, Zixuan Wang, Jinhui Ye et al. | [Abstract](https://arxiv.org/abs/2610.12185) · [PDF](https://arxiv.org/pdf/2610.12185) | rule-assigned |
 | 2026-10-07 | AeroEval: Staged Program and Execution Validation for AI-Generated Drone Missions | Kautuk Astu, Naina Rabha, Yogesh Simmhan | [Abstract](https://arxiv.org/abs/2610.09764) · [PDF](https://arxiv.org/pdf/2610.09764) | rule-assigned |
 | 2026-10-05 | An Autonomous, 3D Printed, Waterjet-Powered, Open-Source Robotic Trimaran for Environmental Inspection and Monitoring | Reuben O'Brien, Martin Lambrechtse-Reid, Minas Liarokapis | [Abstract](https://arxiv.org/abs/2610.07398) · [PDF](https://arxiv.org/pdf/2610.07398) | rule-assigned |
 | 2026-10-04 | GJK-CBF: Control Barrier Functions for Convex Rigid Body Collision Avoidance on SE(3) | Yi-Hsuan Chen, Shuo Liu, Wei Xiao, Michael Otte et al. | [Abstract](https://arxiv.org/abs/2610.04910) · [PDF](https://arxiv.org/pdf/2610.04910) | rule-assigned |
@@ -221,7 +227,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-02-19 | Dodging the Moose: Experimental Insights in Real-Life Automated Collision Avoidance | Leila Gharavi, Simone Baldi, Yuki Hosomi, Tona Sato et al. | [Abstract](https://arxiv.org/abs/2602.17512) · [PDF](https://arxiv.org/pdf/2602.17512) | rule-assigned |
 | 2026-02-13 | Composable Model-Free RL for Navigation with Input-Affine Systems | Xinhuan Sang, Abdelrahman Abdelgawad, Roberto Tron | [Abstract](https://arxiv.org/abs/2602.12492) · [PDF](https://arxiv.org/pdf/2602.12492) | rule-assigned |
 | 2026-02-12 | Control Barrier Functions with Audio Risk Awareness for Robot Safe Navigation on Construction Sites | Johannes Mootz, Reza Akhavian | [Abstract](https://arxiv.org/abs/2602.12416) · [PDF](https://arxiv.org/pdf/2602.12416) | rule-assigned |
-| 2026-02-11 | SQ-CBF: Signed Distance Functions for Numerically Stable Superquadric-Based Safety Filtering | Haocheng Zhao, Lukas Brunke, Oliver Lagerquist, Siqi Zhou et al. | [Abstract](https://arxiv.org/abs/2602.11049) · [PDF](https://arxiv.org/pdf/2602.11049) | rule-assigned |
 | 2026-02-11 | Multi-UAV Trajectory Optimization for Bearing-Only Localization in GPS Denied Environments | Alfonso Sciacchitano, Liraz Mudrik, Sean Kragelund, Isaac Kaminer | [Abstract](https://arxiv.org/abs/2602.11116) · [PDF](https://arxiv.org/pdf/2602.11116) | rule-assigned |
 | 2026-02-10 | A Collision-Free Sway Damping Model Predictive Controller for Safe and Reactive Forestry Crane Navigation | Marc-Philip Ecker, Christoph Fröhlich, Johannes Huemer, David Gruber et al. | [Abstract](https://arxiv.org/abs/2602.10035) · [PDF](https://arxiv.org/pdf/2602.10035) | rule-assigned |
 | 2026-02-09 | Risk-Aware Obstacle Avoidance Algorithm for Real-Time Applications | Ozan Kaya, Emir Cem Gezer, Roger Skjetne, Ingrid Bouwer Utne | [Abstract](https://arxiv.org/abs/2602.09204) · [PDF](https://arxiv.org/pdf/2602.09204) | rule-assigned |
@@ -546,7 +551,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-20 | Transformers for Trajectory Optimization with Application to Spacecraft Rendezvous | Tommaso Guffanti, Daniele Gammelli, Simone D'Amico, Marco Pavone | [Abstract](https://arxiv.org/abs/2310.13831) · [PDF](https://arxiv.org/pdf/2310.13831) | rule-assigned |
 | 2023-10-16 | Collision Cone Control Barrier Functions: Experimental Validation on UGVs for Kinematic Obstacle Avoidance | Bhavya Giri Goswami, Manan Tayal, Karthik Rajgopal, Pushpak Jagtap et al. | [Abstract](https://arxiv.org/abs/2310.10839) · [PDF](https://arxiv.org/pdf/2310.10839) | rule-assigned |
 | 2023-10-15 | Free as a Bird: Event-based Dynamic Sense-and-Avoid for Ornithopter Robot Flight | J. P. Rodríguez-Gómez, R. Tapia, M. M. Guzmán, J. R. Martínez-de Dios et al. | [Abstract](https://arxiv.org/abs/2310.09875) · [PDF](https://arxiv.org/pdf/2310.09875) | rule-assigned |
-| 2023-10-14 | Real-Time Sense and Detect of Drones Using Deep Learning and Airborne LiDAR | Manduhu Manduhu, Alexander Dow, Petar Trslic, Gerard Dooly et al. | [Abstract](https://arxiv.org/abs/2310.09589) · [PDF](https://arxiv.org/pdf/2310.09589) | rule-assigned |
 
 ---
 

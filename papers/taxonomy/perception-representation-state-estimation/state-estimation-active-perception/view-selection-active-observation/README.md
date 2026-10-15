@@ -1,12 +1,12 @@
 # View Selection & Active Observation · 视角选择与主动观测
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=State%20Estimation%20%26%20Active%20Perception&specialty=View%20Selection%20%26%20Active%20Observation#research-workbench)
 
-> 10 conference papers · 61 recent arXiv papers
+> 10 conference papers · 62 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,21 +24,23 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | APREBot: Active Perception System for Reflexive Evasion Robot | ICRA · Active Perception | [Paper](https://arxiv.org/abs/2509.24733) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696438) | rule-assigned |
+| 2026 | APREBot: Active Perception System for Reflexive Evasion Robot | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2509.24733) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696438) | rule-assigned |
 | 2025 | An Active Perception Game for Robust Information Gathering | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2404.00769) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128798) | rule-assigned |
-| 2025 | Discovering Object Attributes by Prompting Large Language Models With Perception-Action Apis | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2409.15505) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127632) | rule-assigned |
-| 2025 | Enhanced View Planning for Robotic Harvesting: Tackling Occlusions with Imitation Learning | ICRA · Imitation Learning | [Paper](https://hdl.handle.net/11370/60b6d600-ec48-4bd3-b8b1-80bf93c88a17) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127892) | rule-assigned |
+| 2025 | Discovering Object Attributes by Prompting Large Language Models With Perception-Action Apis | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2409.15505) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127632) | rule-assigned |
+| 2025 | Enhanced View Planning for Robotic Harvesting: Tackling Occlusions with Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2503.10334) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127892) | rule-assigned |
 | 2025 | Heterogeneous Sensor Fusion and Active Perception for Transparent Object Reconstruction with a PDM2 Sensor and a Camera | ICRA · Active Perception | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128748) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128748) | rule-assigned |
-| 2025 | Learning to Double Guess: An Active Perception Approach for Estimating the Center of Mass of Arbitrary Objects | ICRA · Active Perception | [Paper](https://arxiv.org/abs/2502.02663) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127607) | rule-assigned |
-| 2024 | Perceptual Factors for Environmental Modeling in Robotic Active Perception | ICRA · Active Perception | [Paper](https://arxiv.org/abs/2309.10620) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611380) | rule-assigned |
+| 2025 | Learning to Double Guess: An Active Perception Approach for Estimating the Center of Mass of Arbitrary Objects | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2502.02663) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127607) | rule-assigned |
+| 2024 | Perceptual Factors for Environmental Modeling in Robotic Active Perception | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2309.10620) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611380) | rule-assigned |
 | 2023 | SCONE: A Food Scooping Robot Learning Framework with Active Perception | CoRL · Active Perception | [Paper](https://www.semanticscholar.org/paper/4e17ec9483051afcaf8f66e7dcf879bdfc133fc1) · [Index](https://dblp.org/rec/conf/corl/TaiCCC23) | rule-assigned |
-| 2023 | Decentralised Active Perception in Continuous Action Spaces for the Coordinated Escort Problem | ICRA · Active Perception | [Paper](https://arxiv.org/abs/2305.01869) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161026) | rule-assigned |
+| 2023 | Decentralised Active Perception in Continuous Action Spaces for the Coordinated Escort Problem | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2305.01869) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161026) | rule-assigned |
 | 2023 | Learning Continuous Control Policies for Information-Theoretic Active Perception | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2209.12427) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160455) | rule-assigned |
 
-## Recent arXiv papers (61)
+## Recent arXiv papers (62)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-14 | Active Perception of Upper-Limb Functional Mobility through Human-Robot Handovers | Francesco Semeraro, Marta Lagomarsino, Alberto Ranavolo, Arash Ajoudani | [Abstract](https://arxiv.org/abs/2610.19896) · [PDF](https://arxiv.org/pdf/2610.19896) | rule-assigned |
+| 2026-10-13 | Receding-Horizon Next-Best-View Planning for Highly Occluded Target Perception | Ayse Gul Yildiz, Rekha Raja | [Abstract](https://arxiv.org/abs/2610.19082) · [PDF](https://arxiv.org/pdf/2610.19082) | rule-assigned |
 | 2026-10-03 | ROMA: LLM System for Real-World Object-Centric Multi-Sensory Active Perception | Ruoxuan Feng, Yutong Chen, Ruihua Song, Huan Yang et al. | [Abstract](https://arxiv.org/abs/2610.06955) · [PDF](https://arxiv.org/pdf/2610.06955) | rule-assigned |
 | 2026-09-27 | DeltaSeek: Toward Active Perception in Evolving Construction Environments | Sanjay Acharjee, Md Nazmus Sakib | [Abstract](https://arxiv.org/abs/2609.33836) · [PDF](https://arxiv.org/pdf/2609.33836) | rule-assigned |
 | 2026-09-26 | Vision-Language Agents for Active Perception in Optics Laboratories | Ryan Lopez, Sachin Vaidya, Seou Choi, Serena Landers et al. | [Abstract](https://arxiv.org/abs/2609.32918) · [PDF](https://arxiv.org/pdf/2609.32918) | rule-assigned |
@@ -99,7 +101,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-03-22 | HortiBot: An Adaptive Multi-Arm System for Robotic Horticulture of Sweet Peppers | Christian Lenz, Rohit Menon, Michael Schreiber, Melvin Paul Jacob et al. | [Abstract](https://arxiv.org/abs/2403.15306) · [PDF](https://arxiv.org/pdf/2403.15306) | rule-assigned |
 | 2024-02-02 | Learning Which Side to Scan: Multi-View Informed Active Perception with Side Scan Sonar for Autonomous Underwater Vehicles | Advaith V. Sethuraman, Philip Baldoni, Katherine A. Skinner, James McMahon | [Abstract](https://arxiv.org/abs/2402.01106) · [PDF](https://arxiv.org/pdf/2402.01106) | rule-assigned |
 | 2023-10-15 | Active Perception using Neural Radiance Fields | Siming He, Christopher D. Hsu, Dexter Ong, Yifei Simon Shao et al. | [Abstract](https://arxiv.org/abs/2310.09892) · [PDF](https://arxiv.org/pdf/2310.09892) | rule-assigned |
-| 2023-10-09 | STOPNet: Multiview-based 6-DoF Suction Detection for Transparent Objects on Production Lines | Yuxuan Kuang, Qin Han, Danshi Li, Qiyu Dai et al. | [Abstract](https://arxiv.org/abs/2310.05717) · [PDF](https://arxiv.org/pdf/2310.05717) | rule-assigned |
 
 ---
 

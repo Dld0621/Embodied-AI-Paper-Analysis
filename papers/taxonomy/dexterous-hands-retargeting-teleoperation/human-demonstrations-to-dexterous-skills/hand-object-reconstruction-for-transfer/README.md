@@ -1,12 +1,12 @@
 # Hand-object Reconstruction for Transfer · 手—物交互重建
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Human%20Demonstrations%20to%20Dexterous%20Skills&specialty=Hand-object%20Reconstruction%20for%20Transfer#research-workbench)
 
-> 0 conference papers · 1 recent arXiv papers
+> 0 conference papers · 2 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (1)
+## Recent arXiv papers (2)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-13 | EgoMatrix: Physically Faithful Dexterous Robot Demonstrations from Egocentric Human Videos | Ziheng Wang, Yanming Shao, Ting Mao, Kaihan Chen et al. | [Abstract](https://arxiv.org/abs/2610.18822) · [PDF](https://arxiv.org/pdf/2610.18822) | rule-assigned |
 | 2026-09-09 | Grounding Generated Video Plans in Simulation Towards Versatile Dexterous Controllers | Tianyue Wu, Boyuan An, Shuqi Zhao, Heyu Guo et al. | [Abstract](https://arxiv.org/abs/2609.10050) · [PDF](https://arxiv.org/pdf/2609.10050) | rule-assigned |
 
 ---

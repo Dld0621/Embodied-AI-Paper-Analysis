@@ -1,12 +1,12 @@
 # Hands, Grippers & Arms · 手、夹爪与机械臂设计
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Hands%2C%20Grippers%20%26%20Arms#research-workbench)
 
-> 2 conference papers · 17 recent arXiv papers
+> 2 conference papers · 19 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,12 +25,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | A Novel Soft Gripper Design Integrating a Unilateral Fingernail-like Mechanism for Grasping Flat Objects | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696803) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696803) | rule-assigned |
-| 2024 | EyeSight Hand: Design of a Fully-Actuated Dexterous Robot Hand with Integrated Vision-Based Tactile Sensors and Compliant Actuation | IROS · Dexterous | [Paper](https://arxiv.org/abs/2408.06265) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802778) | rule-assigned |
+| 2024 | EyeSight Hand: Design of a Fully-Actuated Dexterous Robot Hand with Integrated Vision-Based Tactile Sensors and Compliant Actuation | IROS · Dexterous | [Paper](https://arxiv.org/pdf/2408.06265) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802778) | rule-assigned |
 
-## Recent arXiv papers (17)
+## Recent arXiv papers (19)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-13 | PACT: Posture-Aligned Co-Design Technique for Hand Configuration and Retargeting in Multi-Finger Imitation Learning | Koyo Sasazaki, Satoshi Funabashi, Pranav Ponnivalavan, Alexander Schmitz et al. | [Abstract](https://arxiv.org/abs/2610.18443) · [PDF](https://arxiv.org/pdf/2610.18443) | reviewed |
+| 2026-10-13 | Force Sensor-Based Picking Pattern Analysis and Two-Jaw Gripper Design for Cherry Tomato Robotic Harvesting in Greenhouse | Rajmeet Singh, Manveen Kaur, Yusuf Adamu, Irfan Hussain | [Abstract](https://arxiv.org/abs/2610.18160) · [PDF](https://arxiv.org/pdf/2610.18160) | rule-assigned |
 | 2026-06-10 | Modular Anthropomorphic Hand Design via Multi-Parameter Finger Benchmarking and Selection | Yu Zhang, Huijiang Wang, Josie Hughes | [Abstract](https://arxiv.org/abs/2606.11826) · [PDF](https://arxiv.org/pdf/2606.11826) | rule-assigned |
 | 2026-04-22 | A Kinematic Framework for Screening Candidate Pinch Configurations in Robotic Hand Design without Object or Contact Models | HyoJae Kang, Joonho Lee, Hyunmok Jung, Dong Il Park | [Abstract](https://arxiv.org/abs/2604.20692) · [PDF](https://arxiv.org/pdf/2604.20692) | rule-assigned |
 | 2026-03-17 | Influence of Gripper Design on Human Demonstration Quality for Robot Learning | Gina L. Georgadarellis, Natalija Beslic, Seonhun Lee, Frank C. Sup et al. | [Abstract](https://arxiv.org/abs/2603.17189) · [PDF](https://arxiv.org/pdf/2603.17189) | rule-assigned |

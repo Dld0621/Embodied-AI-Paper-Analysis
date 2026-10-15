@@ -1,7 +1,7 @@
 # Differentiable Simulation · 可微仿真
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Differentiable%20Simulation#research-workbench)
@@ -25,10 +25,10 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2025 | Learning Quadrotor Control from Visual Features Using Differentiable Simulation | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2410.15979) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128641) | rule-assigned |
-| 2025 | DiffGen: Robot Demonstration Generation via Differentiable Physics Simulation, Differentiable Rendering, and Vision-Language Model | IROS · Language Model | [Paper](https://arxiv.org/abs/2405.07309) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247245) | rule-assigned |
+| 2025 | DiffGen: Robot Demonstration Generation via Differentiable Physics Simulation, Differentiable Rendering, and Vision-Language Model | IROS · Language Model | [Paper](https://arxiv.org/pdf/2405.07309) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247245) | rule-assigned |
 | 2024 | DIFFTACTILE: A Physics-based Differentiable Tactile Simulator for Contact-rich Robotic Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2403.08716) · [Index](https://dblp.org/rec/conf/iclr/SiZBRXLG24) | rule-assigned |
 | 2024 | Thin-Shell Object Manipulations With Differentiable Physics Simulations | ICLR · Simulation | [Paper](https://arxiv.org/abs/2404.00451) · [Index](https://dblp.org/rec/conf/iclr/WangZCXZLG24) | rule-assigned |
-| 2024 | SoftMAC: Differentiable Soft Body Simulation with Forecast-based Contact Model and Two-way Coupling with Articulated Rigid Bodies and Clothes | IROS · Simulation | [Paper](https://arxiv.org/abs/2312.03297) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801308) | rule-assigned |
+| 2024 | SoftMAC: Differentiable Soft Body Simulation with Forecast-based Contact Model and Two-way Coupling with Articulated Rigid Bodies and Clothes | IROS · Simulation | [Paper](https://arxiv.org/pdf/2312.03297) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801308) | rule-assigned |
 | 2023 | FRIDA: A Collaborative Robot Painter with a Differentiable, Real2Sim2Real Planning Environment | ICRA · Sim2Real | [Paper](https://arxiv.org/pdf/2210.00664) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160702) | rule-assigned |
 | 2022 | Rethinking Optimization with Differentiable Simulation from a Global Perspective | CoRL · Simulation | [Paper](https://arxiv.org/abs/2207.00167) · [Index](https://dblp.org/rec/journals/corr/abs-2207-00167) | rule-assigned |
 

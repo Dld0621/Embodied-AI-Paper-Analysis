@@ -1,7 +1,7 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=In-hand%20Manipulation&specialty=Pending%20specialty%20review#research-workbench)
@@ -25,15 +25,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | Bi-Hap: a Bi-directional Learning-Based Control and Momentum-based Haptic Feedback System for Dexterous In-hand Telemanipulation | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697388) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697388) | needs-review |
-| 2025 | Learning In-Hand Translation Using Tactile Skin with Shear and Normal Force Sensing | ICRA · In Hand | [Paper](https://arxiv.org/abs/2407.07885) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127974) | needs-review |
+| 2025 | Learning In-Hand Translation Using Tactile Skin with Shear and Normal Force Sensing | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2407.07885) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127974) | needs-review |
 | 2025 | Wearing a Robotic Hand to Feel 3D Force Feedback: Analysis and Virtual Reality Application of the Hand-in-Hand System | IROS · In Hand | [Paper](https://doi.org/10.1109/IROS60139.2025.11246130) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246130) | needs-review |
 | 2024 | SonicSense: Object Perception from In-Hand Acoustic Vibration | CoRL · In Hand | [Paper](https://arxiv.org/abs/2406.17932) · [Index](https://dblp.org/rec/journals/corr/abs-2406-17932) | needs-review |
-| 2024 | Neural Rearrangement Planning for Object Retrieval from Confined Spaces Perceivable by Robot’s In-hand RGB-D Sensor | ICRA · In Hand | [Paper](https://arxiv.org/abs/2402.06976) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610092) | needs-review |
-| 2024 | In-Hand Singulation and Scooping Manipulation with a 5 DOF Tactile Gripper | IROS · In Hand | [Paper](https://arxiv.org/abs/2408.00610) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801940) | needs-review |
-| 2024 | Optimal view point and kinematic control for grape stem detection and cutting with an in-hand camera robot | IROS · In Hand | [Paper](https://zenodo.org/records/13982187/files/stavridis_iros24.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802572) | needs-review |
+| 2024 | Neural Rearrangement Planning for Object Retrieval from Confined Spaces Perceivable by Robot’s In-hand RGB-D Sensor | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2402.06976) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610092) | needs-review |
+| 2024 | In-Hand Singulation and Scooping Manipulation with a 5 DOF Tactile Gripper | IROS · In Hand | [Paper](https://arxiv.org/pdf/2408.00610) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801940) | needs-review |
+| 2024 | Optimal view point and kinematic control for grape stem detection and cutting with an in-hand camera robot | IROS · In Hand | [Paper](https://doi.org/10.5281/zenodo.13982186) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802572) | needs-review |
 | 2024 | VIHE: Virtual In-Hand Eye Transformer for 3D Robotic Manipulation | IROS · In Hand | [Paper](https://arxiv.org/pdf/2403.11461) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802366) | needs-review |
 | 2023 | Hierarchical Graph Neural Networks for Proprioceptive 6D Pose Estimation of In-hand Objects | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2306.15858) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161264) | needs-review |
-| 2023 | In-Hand Cube Reconfiguration: Simplified | IROS · In Hand | [Paper](https://arxiv.org/abs/2308.12178) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341521) | needs-review |
+| 2023 | In-Hand Cube Reconfiguration: Simplified | IROS · In Hand | [Paper](https://arxiv.org/pdf/2308.12178) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341521) | needs-review |
 | 2023 | Rotating Objects via in-Hand Pivoting Using Vision, Force and Touch | IROS · In Hand | [Paper](https://arxiv.org/pdf/2303.10865) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341505) | needs-review |
 | 2023 | The Role of Absolute Positioning Error in Hand-Eye Calibration and Robotic Guidance Systems: An Analysis | IROS · In Hand | [Paper](https://doi.org/10.1109/IROS55552.2023.10342337) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342337) | needs-review |
 | 2023 | MultiSCOPE: Disambiguating In-Hand Object Poses with Proprioception and Tactile Feedback | RSS · Tactile | [Paper](https://arxiv.org/abs/2305.14204) · [Index](https://dblp.org/rec/journals/corr/abs-2305-14204) | needs-review |

@@ -1,12 +1,12 @@
 # Generative Data Augmentation · 生成模型辅助数据
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-08** · 顶会快照 / Conference: **2026-10-04** · arXiv 快照: **2026-10-08** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Synthetic%20%26%20Augmented%20Data&specialty=Generative%20Data%20Augmentation#research-workbench)
 
-> 11 conference papers · 111 recent arXiv papers
+> 11 conference papers · 113 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,11 +24,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2509.26633) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696487) | rule-assigned |
-| 2025 | Visually Robust Adversarial Imitation Learning from Videos with Contrastive Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2407.12792) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127595) | rule-assigned |
+| 2026 | OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2509.26633) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696487) | rule-assigned |
+| 2025 | Visually Robust Adversarial Imitation Learning from Videos with Contrastive Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2407.12792) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127595) | rule-assigned |
 | 2025 | Synthetica: Large Scale Synthetic Data Generation for Robot Perception | IROS · Synthetic Data | [Paper](https://arxiv.org/abs/2410.21153) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247126) | rule-assigned |
 | 2025 | DexFlyWheel: A Scalable and Self-improving Data Generation Framework for Dexterous Manipulation | NeurIPS · Dexterous | [Paper](https://arxiv.org/abs/2509.23829) · [Index](https://dblp.org/rec/journals/corr/abs-2509-23829) | rule-assigned |
-| 2024 | Close the Sim2real Gap via Physically-based Structured Light Synthetic Data Simulation | ICRA · Simulation | [Paper](https://arxiv.org/abs/2407.12449) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611401) | rule-assigned |
+| 2024 | Close the Sim2real Gap via Physically-based Structured Light Synthetic Data Simulation | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2407.12449) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611401) | rule-assigned |
 | 2024 | STARK: A Unified Framework for Strongly Coupled Simulation of Rigid and Deformable Bodies with Frictional Contact | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610574) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610574) | rule-assigned |
 | 2024 | SynthAct: Towards Generalizable Human Action Recognition based on Synthetic Data | ICRA · Synthetic Data | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611486) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611486) | rule-assigned |
 | 2024 | IntervenGen: Interventional Data Generation for Robust and Data-Efficient Robot Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2405.01472) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801523) | rule-assigned |
@@ -36,10 +36,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | GenAug: Retargeting behaviors to unseen situations via Generative Augmentation | RSS · Retargeting | [Paper](https://arxiv.org/abs/2302.06671) · [Index](https://dblp.org/rec/journals/corr/abs-2302-06671) | rule-assigned |
 | 2022 | Learning-based Ellipse Detection for Robotic Grasps of Cylinders and Ellipsoids | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra46639.2022.9812363) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812363) | rule-assigned |
 
-## Recent arXiv papers (111)
+## Recent arXiv papers (113)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-14 | NavAble: A Large-Scale Dataset and Synthetic Data Generation Pipeline for Blind Navigation | Hochul Hwang, Jahir Sadik Monon, Soowan Yang, Shiven Umeshbhai Patel et al. | [Abstract](https://arxiv.org/abs/2610.19330) · [PDF](https://arxiv.org/pdf/2610.19330) | rule-assigned |
+| 2026-10-10 | TartanMatch: Towards Universal Dense Correspondence Across Modalities | Hyeokjoon Kwon, Jiting Cai, Ruogu Li, Kritan Bhandari et al. | [Abstract](https://arxiv.org/abs/2610.14513) · [PDF](https://arxiv.org/pdf/2610.14513) | rule-assigned |
 | 2026-10-05 | Bayesian Data Augmentation for DNN Retraining with Binomial Outcomes in Vision-Based UAV Landing | Ashik E Rasul, Hyung-Jin Yoon | [Abstract](https://arxiv.org/abs/2610.05674) · [PDF](https://arxiv.org/pdf/2610.05674) | rule-assigned |
 | 2026-09-30 | Identifiable Decomposition of Submovements in Human Hand Trajectories | Adrian Prados, James Hermus, Ramon Barber, Sylvain Calinon | [Abstract](https://arxiv.org/abs/2609.40012) · [PDF](https://arxiv.org/pdf/2609.40012) | rule-assigned |
 | 2026-09-22 | PhyVisGen: Physically and Visually High-Fidelity Robotic Manipulation Data Generation | Yu Zheng, Qiyu Feng, Yixin Wu, Baoquan Yang et al. | [Abstract](https://arxiv.org/abs/2609.25653) · [PDF](https://arxiv.org/pdf/2609.25653) | rule-assigned |
