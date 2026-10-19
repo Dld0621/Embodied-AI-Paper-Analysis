@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Autonomy&specialty=Remote%20Presence%2C%20Delay%20%26%20Communication#research-workbench)
 
-> 3 conference papers · 40 recent arXiv papers
+> 4 conference papers · 43 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,18 +14,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (3)
+## Conference papers (4)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Cobalt: Crowdsourcing Robot Learning via Cloud-Based Teleoperation with Smartphones | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2605.19138) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695941) |
-| 2024 | Autonomous and Teleoperation Control of a Drawing Robot Avatar | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2407.20156) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610310) |
+| 2026 | Cobalt: Crowdsourcing Robot Learning via Cloud-Based Teleoperation with Smartphones | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2605.19138) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695941) |
+| 2026 | UTTG: A Universal Teleoperation Framework via Online Trajectory Generation | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696317) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696317) |
+| 2024 | Autonomous and Teleoperation Control of a Drawing Robot Avatar | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2407.20156) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610310) |
 | 2024 | Exploring Cognitive Load Dynamics in Human-Machine Interaction for Teleoperation: A User-Centric Perspective on Remote Operation System Design | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802226) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802226) |
 
-## Recent arXiv papers (40)
+## Recent arXiv papers (43)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-10 | Design and Evaluation of a Collaborative Teleoperation Interface for Multi-Operator Multi-Robot Systems in Challenging Environments | Alperen Kenan, Juan José García Cárdenas, Adriana Tapus, Paul Bremner et al. | [Abstract](https://arxiv.org/abs/2610.15001) · [PDF](https://arxiv.org/pdf/2610.15001) |
+| 2026-10-06 | Mitigating Concept Drift in QoS Prediction for Teleoperation of Autonomous Vehicles Using Historic Data | Xiyan Su, Jianning Gao, Mahmoud Ashri, Frank Diermeyer | [Abstract](https://arxiv.org/abs/2610.08297) · [PDF](https://arxiv.org/pdf/2610.08297) |
+| 2026-10-05 | TeleHairing: A Teleoperation Baseline for Robotic Haircutting | Zhendai Huang, Aleksi Vilkki, Jianan Huang, Bolin Liao et al. | [Abstract](https://arxiv.org/abs/2610.07096) · [PDF](https://arxiv.org/pdf/2610.07096) |
 | 2026-09-06 | Can People Distinguish Human and AI Agency in Humanoid Teleoperation? A Preliminary Study of Agency Perception | Xiang Li, Koya Dendo, Keigo Minamida, Yuto Nakamura et al. | [Abstract](https://arxiv.org/abs/2609.06434) · [PDF](https://arxiv.org/pdf/2609.06434) |
 | 2026-08-29 | Feelium: A Touchable Blimp Body for Aerial Telepresence | George Xi Wang, Henghao Li, Shan Lin, Yunge Wen et al. | [Abstract](https://arxiv.org/abs/2608.29391) · [PDF](https://arxiv.org/pdf/2608.29391) |
 | 2026-08-25 | ROS2 Connect: A new ROS2 over WAN Solution | Daniel Schott, Lakshminarasimhan Srinivasan, Christian Herrmann, Andreas Nüchter | [Abstract](https://arxiv.org/abs/2608.25102) · [PDF](https://arxiv.org/pdf/2608.25102) |

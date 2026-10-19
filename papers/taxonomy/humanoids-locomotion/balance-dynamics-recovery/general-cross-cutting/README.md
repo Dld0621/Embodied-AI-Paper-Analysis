@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Balance%2C%20Dynamics%20%26%20Recovery&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 5 conference papers · 49 recent arXiv papers
+> 5 conference papers · 52 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,16 +18,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Trajectory Optimization Through Mixed-Integer Optimization of Contact Dynamics for Switching End Effector Locomotion | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695825) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695825) |
+| 2026 | Hydrodynamic Optimization of a Spherical Amphibious Robot’s Paddle-Wheel for Effective Water Surface Locomotion * | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696365) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696365) |
 | 2025 | SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2505.11494) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247065) |
-| 2024 | Terrestrial Locomotion of PogoX: From Hardware Design to Energy Shaping and Step-to-step Dynamics Based Control | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2309.13737) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611545) |
+| 2024 | Terrestrial Locomotion of PogoX: From Hardware Design to Energy Shaping and Step-to-step Dynamics Based Control | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2309.13737) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611545) |
 | 2024 | Heading Control for Obstacle Avoidance using Dynamic Posture Manipulation during Tumbling Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS58592.2024.10801515) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801515) |
-| 2022 | Online Learning of Centroidal Angular Momentum towards Enhancing DCM-based Locomotion | ICRA · Locomotion | [Paper](https://elib.dlr.de/186198/1/Schuller2022_Online_Learning_of_Centroidal_Angular_Momentum_Towards_Enhancing_DCM-Based_Locomotion.pdf) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811708) |
+| 2022 | Online Learning of Centroidal Angular Momentum towards Enhancing DCM-based Locomotion | ICRA · Locomotion | [Paper](https://doi.org/10.1109/icra46639.2022.9811708) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811708) |
 
-## Recent arXiv papers (49)
+## Recent arXiv papers (52)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-09 | Composable Dynamics for Cooperative Humanoids: A RoboCompiler Extension | Mehdi Heydari Shahna, Jouni Mattila | [Abstract](https://arxiv.org/abs/2610.14237) · [PDF](https://arxiv.org/pdf/2610.14237) |
+| 2026-10-08 | Autonomous thermodynamic cycles via robotic mobility and sensing | Sofia Kuperman, Ezra Ben-Abu, Yaron Veksler, Anna Zigelman et al. | [Abstract](https://arxiv.org/abs/2610.11667) · [PDF](https://arxiv.org/pdf/2610.11667) |
+| 2026-10-07 | RFPO: Rectified Flow Policy Optimization for Embodied Control | Ting Huang, Lisiyu Pan, Haoyu Wang, Zeyu Zhang et al. | [Abstract](https://arxiv.org/abs/2610.10453) · [PDF](https://arxiv.org/pdf/2610.10453) |
 | 2026-10-02 | Safe Streaming Flow Planning by Aligning Sampling Dynamics with Execution Dynamics | Seunghwan Jang, Jeongyong Yang, Siddharth Ancha, SooJean Han | [Abstract](https://arxiv.org/abs/2610.03132) · [PDF](https://arxiv.org/pdf/2610.03132) |
 | 2026-09-17 | Dynamics-Induced Commitment in Learning-Based Robotic Penalty Kicks | Ruize Geng, Hao E. Zhang, Yisen Li, Yikai Wang et al. | [Abstract](https://arxiv.org/abs/2609.21100) · [PDF](https://arxiv.org/pdf/2609.21100) |
 | 2026-09-16 | Characterizing Replay Retention Under Dynamics Shift in Model-Based Reinforcement Learning | Everest Yang, Skye Thompson, George D. Konidaris | [Abstract](https://arxiv.org/abs/2609.18167) · [PDF](https://arxiv.org/pdf/2609.18167) |

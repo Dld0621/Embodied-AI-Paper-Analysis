@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Active%20%26%20Multiview%20Perception&specialty=Multiview%20Fusion%20%26%20Consistency#research-workbench)
 
-> 1 conference papers · 7 recent arXiv papers
+> 1 conference papers · 6 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,7 +20,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2023 | Multi-View Masked World Models for Visual Robotic Manipulation | ICML · Multi-view world models | [Paper](https://proceedings.mlr.press/v202/seo23a.html) · [Official](https://proceedings.mlr.press/v202/seo23a.html) |
 
-## Recent arXiv papers (7)
+## Recent arXiv papers (6)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -30,7 +30,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-11-04 | V-CAS: A Realtime Vehicle Anti Collision System Using Vision Transformer on Multi-Camera Streams | Muhammad Waqas Ashraf, Ali Hassan, Imad Ali Shah | [Abstract](https://arxiv.org/abs/2411.01963) · [PDF](https://arxiv.org/pdf/2411.01963) |
 | 2024-08-28 | Multi-view Pose Fusion for Occlusion-Aware 3D Human Pose Estimation | Laura Bragagnolo, Matteo Terreran, Davide Allegro, Stefano Ghidoni | [Abstract](https://arxiv.org/abs/2408.15810) · [PDF](https://arxiv.org/pdf/2408.15810) |
 | 2024-03-02 | RKHS-BA: A Robust Correspondence-Free Multi-View Registration Framework with Semantic Point Clouds | Ray Zhang, Jingwei Song, Xiang Gao, Junzhe Wu et al. | [Abstract](https://arxiv.org/abs/2403.01254) · [PDF](https://arxiv.org/pdf/2403.01254) |
-| 2023-10-09 | STOPNet: Multiview-based 6-DoF Suction Detection for Transparent Objects on Production Lines | Yuxuan Kuang, Qin Han, Danshi Li, Qiyu Dai et al. | [Abstract](https://arxiv.org/abs/2310.05717) · [PDF](https://arxiv.org/pdf/2310.05717) |
 
 ---
 

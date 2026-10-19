@@ -18,10 +18,10 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | Retrieval-Augmented Hierarchical in-Context Reinforcement Learning and Hindsight Modular Reflections for Task Planning with LLMs | ICRA · Llm | [Paper](https://arxiv.org/abs/2408.06520) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128105) |
-| 2025 | SayComply: Grounding Field Robotic Tasks in Operational Compliance Through Retrieval-Based Language Models | ICRA · Language Model | [Paper](https://arxiv.org/abs/2411.11323) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128684) |
-| 2024 | DINOBot: Robot Manipulation via Retrieval and Alignment with Vision Foundation Models | ICRA · Foundation Model | [Paper](https://arxiv.org/abs/2402.13181) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610923) |
-| 2024 | Lifelong Robot Library Learning: Bootstrapping Composable and Generalizable Skills for Embodied Control with Language Models | ICRA · Language Model | [Paper](https://research.rug.nl/files/1112140101/Lifelong_Robot_Library_Learning_Bootstrapping_Composable_and_Generalizable_Skills_for_Embodied_Control_with_Language_Models.pdf) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611448) |
+| 2025 | Retrieval-Augmented Hierarchical in-Context Reinforcement Learning and Hindsight Modular Reflections for Task Planning with LLMs | ICRA · Llm | [Paper](https://arxiv.org/pdf/2408.06520) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128105) |
+| 2025 | SayComply: Grounding Field Robotic Tasks in Operational Compliance Through Retrieval-Based Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2411.11323) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128684) |
+| 2024 | DINOBot: Robot Manipulation via Retrieval and Alignment with Vision Foundation Models | ICRA · Foundation Model | [Paper](https://arxiv.org/pdf/2402.13181) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610923) |
+| 2024 | Lifelong Robot Library Learning: Bootstrapping Composable and Generalizable Skills for Embodied Control with Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2406.18746) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611448) |
 | 2024 | RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model | RSS · Large Language Model | [Paper](https://arxiv.org/abs/2402.10828) · [Publisher](https://doi.org/10.48550/arXiv.2402.10828) |
 
 ## Recent arXiv papers (53)

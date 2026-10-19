@@ -18,11 +18,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | DROP: Dexterous Reorientation via Online Planning | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2409.14562) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128433) |
-| 2025 | Soft Robotic Dynamic in-Hand Pen Spinning | ICRA · In Hand | [Paper](https://arxiv.org/abs/2411.12734) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127449) |
+| 2025 | DROP: Dexterous Reorientation via Online Planning | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2409.14562) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128433) |
+| 2025 | Soft Robotic Dynamic in-Hand Pen Spinning | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2411.12734) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127449) |
 | 2024 | AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch | CoRL · In Hand | [Paper](https://arxiv.org/abs/2405.07391) · [Publisher](https://doi.org/10.48550/arXiv.2405.07391) |
-| 2024 | Contact-Implicit Model Predictive Control for Dexterous In-hand Manipulation: A Long-Horizon and Robust Approach | IROS · Dexterous | [Paper](https://arxiv.org/abs/2402.18897) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801751) |
-| 2024 | Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects | IROS · In Hand | [Paper](https://arxiv.org/abs/2407.18834) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802864) |
+| 2024 | Contact-Implicit Model Predictive Control for Dexterous In-hand Manipulation: A Long-Horizon and Robust Approach | IROS · Dexterous | [Paper](https://arxiv.org/pdf/2402.18897) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801751) |
+| 2024 | Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects | IROS · In Hand | [Paper](https://arxiv.org/pdf/2407.18834) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802864) |
 | 2023 | DeXtreme: Transfer of Agile In-hand Manipulation from Simulation to Reality | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2210.13702) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160216) |
 | 2023 | Dextrous Tactile In-Hand Manipulation Using a Modular Reinforcement Learning Architecture | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2303.04705) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160756) |
 | 2023 | Rotating without Seeing: Towards In-hand Dexterity through Touch | RSS · In Hand | [Paper](https://arxiv.org/abs/2303.10880) · [Publisher](https://doi.org/10.48550/arXiv.2303.10880) |

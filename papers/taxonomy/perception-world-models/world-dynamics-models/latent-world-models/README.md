@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=World%20%26%20Dynamics%20Models&specialty=Latent%20World%20Models#research-workbench)
 
-> 30 conference papers · 348 recent arXiv papers
+> 30 conference papers · 373 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,18 +18,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Reimagination with Test-time Observation Interventions: Distractor-Robust World Model Predictions for Visual Model Predictive Control | ICRA · World Model | [Paper](https://arxiv.org/abs/2506.16565) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696601) |
-| 2026 | World Model Failure Classification and Anomaly Detection for Autonomous Inspection | ICRA · World Model | [Paper](https://arxiv.org/abs/2602.16182) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695901) |
-| 2026 | WorldPlanner: Monte Carlo Tree Search and MPC with Action-Conditioned Visual World Models | ICRA · World Model | [Paper](https://arxiv.org/abs/2511.03077) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697238) |
+| 2026 | Reimagination with Test-time Observation Interventions: Distractor-Robust World Model Predictions for Visual Model Predictive Control | ICRA · World Model | [Paper](https://arxiv.org/pdf/2506.16565) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696601) |
+| 2026 | World Model Failure Classification and Anomaly Detection for Autonomous Inspection | ICRA · World Model | [Paper](https://arxiv.org/pdf/2602.16182) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695901) |
+| 2026 | WorldPlanner: Monte Carlo Tree Search and MPC with Action-Conditioned Visual World Models | ICRA · World Model | [Paper](https://arxiv.org/pdf/2511.03077) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697238) |
 | 2025 | Learning 4D Embodied World Models | ICCV · World Model | [Paper](https://doi.org/10.1109/ICCV51701.2025.00507) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00507) |
 | 2025 | FOSP: Fine-tuning Offline Safe Policy through World Models | ICLR · World Model | [Paper](https://arxiv.org/abs/2407.04942) · [Publisher](https://doi.org/10.48550/arXiv.2407.04942) |
-| 2025 | LIMT: Language-Informed Multi-Task Visual World Models | ICRA · World Model | [Paper](https://arxiv.org/abs/2407.13466) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128817) |
+| 2025 | LIMT: Language-Informed Multi-Task Visual World Models | ICRA · World Model | [Paper](https://arxiv.org/pdf/2407.13466) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128817) |
 | 2025 | SR-AIF: Solving Sparse-Reward Robotic Tasks From Pixels with Active Inference and World Models | ICRA · World Model | [Paper](https://arxiv.org/abs/2409.14216) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127713) |
-| 2025 | Bounding Distributional Shifts in World Modeling through Novelty Detection | IROS · World Model | [Paper](https://arxiv.org/abs/2508.06096) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247183) |
+| 2025 | Bounding Distributional Shifts in World Modeling through Novelty Detection | IROS · World Model | [Paper](https://arxiv.org/pdf/2508.06096) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247183) |
 | 2025 | World Models for Anomaly Detection during Model-Based Reinforcement Learning Inference | IROS · World Model | [Paper](https://arxiv.org/pdf/2503.02552) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245876) |
 | 2025 | Agents Robust to Distribution Shifts Learn Causal World Models Even Under Mediation | NeurIPS · World Model | [Paper](https://doi.org/10.52202/085713-2602) · [Publisher](https://doi.org/10.52202/085713-2602) |
 | 2025 | Learning Interactive World Model for Object-Centric Reinforcement Learning | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2511.02225) · [Publisher](https://doi.org/10.48550/arXiv.2511.02225) |
-| 2025 | Martian World Model: Controllable Video Synthesis with Physically Accurate 3D Reconstructions | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2507.07978) · [Publisher](https://doi.org/10.52202/085713-5046) |
+| 2025 | Martian World Model: Controllable Video Synthesis with Physically Accurate 3D Reconstructions | NeurIPS · World Model | [Paper](https://arxiv.org/pdf/2507.07978) · [Publisher](https://doi.org/10.52202/085713-5046) |
 | 2025 | RLVR-World: Training World Models with Reinforcement Learning | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2505.13934) · [Publisher](https://doi.org/10.48550/arXiv.2505.13934) |
 | 2025 | RoboScape: Physics-informed Embodied World Model | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2506.23135) · [Publisher](https://doi.org/10.48550/arXiv.2506.23135) |
 | 2025 | SAMPO:Scale-wise Autoregression with Motion PrOmpt for generative world models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2509.15536) · [Publisher](https://doi.org/10.48550/arXiv.2509.15536) |
@@ -41,7 +41,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | 3D-VLA: A 3D Vision-Language-Action Generative World Model | ICML · 3D world model | [Paper](https://arxiv.org/abs/2403.01288) · [Official](https://proceedings.mlr.press/v235/zhen24a.html) |
 | 2024 | HarmonyDream: Task Harmonization Inside World Models | ICML · World Model | [Paper](https://arxiv.org/abs/2310.00344) · [Index](https://dblp.org/rec/conf/icml/Ma0FX0H0L24) |
 | 2024 | Automatic Configuration of Multi-Agent Model Predictive Controllers based on Semantic Graph World Models | ICRA · World Model | [Paper](https://arxiv.org/pdf/2311.01180) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610708) |
-| 2024 | Model-based Policy Optimization using Symbolic World Model | IROS · World Model | [Paper](https://arxiv.org/abs/2407.13518) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801405) |
+| 2024 | Model-based Policy Optimization using Symbolic World Model | IROS · World Model | [Paper](https://arxiv.org/pdf/2407.13518) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801405) |
 | 2024 | iVideoGPT: Interactive VideoGPTs are Scalable World Models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2405.15223) · [Publisher](https://doi.org/10.48550/arXiv.2405.15223) |
 | 2023 | Finetuning Offline World Models in the Real World | CoRL · World Model | [Paper](https://arxiv.org/abs/2310.16029) · [Publisher](https://doi.org/10.48550/arXiv.2310.16029) |
 | 2023 | Learning Temporally AbstractWorld Models without Online Experimentation | ICML · World Model | [Paper](https://www.semanticscholar.org/paper/b3e25f99d7a0e06173099538579f2b08827a6d1d) · [Index](https://dblp.org/rec/conf/icml/FreedVS0C23) |
@@ -49,10 +49,35 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Structured World Models from Human Videos | RSS · World Model | [Paper](https://doi.org/10.15607/rss.2023.xix.012) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.012) |
 | 2022 | DayDreamer: World Models for Physical Robot Learning | CoRL · World Model | [Paper](https://arxiv.org/abs/2206.14176) · [Index](https://dblp.org/rec/conf/corl/WuEHAG22) |
 
-## Recent arXiv papers (348)
+## Recent arXiv papers (373)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-16 | LAW: Unifying Language, Action, and World Modeling for Agentic Physical Intelligence | Jiajun Cao, Kai Tang, Bohua Zhang, Zezhong Qian et al. | [Abstract](https://arxiv.org/abs/2610.23334) · [PDF](https://arxiv.org/pdf/2610.23334) |
+| 2026-10-16 | Beyond Action Prediction: Learning Search-Free Planning in Latent Space | Guanchen Du, Jinhao Du, Yanpeng Sun, Shan Zhang et al. | [Abstract](https://arxiv.org/abs/2610.23615) · [PDF](https://arxiv.org/pdf/2610.23615) |
+| 2026-10-15 | T2-z: Test-Time Optimization of Environment Latents for Robotic World Models | Chenyuan Zhou, Yining Hong, Huang Huang, Yunfan Jiang et al. | [Abstract](https://arxiv.org/abs/2610.22364) · [PDF](https://arxiv.org/pdf/2610.22364) |
+| 2026-10-14 | Back on Track: Deployment-time Policy Improvement via World Model Planning | Colton Crosby, Hao Wang, Mac Schwager, Somil Bansal | [Abstract](https://arxiv.org/abs/2610.19579) · [PDF](https://arxiv.org/pdf/2610.19579) |
+| 2026-10-13 | Thinker-WM: A Unified World Model with Shared Multimodal Representations for Embodied Intelligence | Thinker Team, Peng Gao, Jichao Jiao, Chen Liao et al. | [Abstract](https://arxiv.org/abs/2610.18447) · [PDF](https://arxiv.org/pdf/2610.18447) |
+| 2026-10-13 | Into the LidarVerse: A Real-Time Unified LiDAR World Model Across Tasks and Sensors | Henry Che, Xuanchi Ren, Sanja Fidler, Shenlong Wang et al. | [Abstract](https://arxiv.org/abs/2610.19201) · [PDF](https://arxiv.org/pdf/2610.19201) |
+| 2026-10-13 | Grid or Nodes? Probing Object Memory in World Models Under Partial Observability | Justin McMillen, Yasin Yilmaz | [Abstract](https://arxiv.org/abs/2610.18637) · [PDF](https://arxiv.org/pdf/2610.18637) |
+| 2026-10-13 | From Pixels to Executable Physics: Behavior-Grounded World Models for Embodied Action Consequence Prediction | Ruo Chen, Jiahua Pang, Yingjie Niu, Hongyi Lin et al. | [Abstract](https://arxiv.org/abs/2610.17630) · [PDF](https://arxiv.org/pdf/2610.17630) |
+| 2026-10-12 | Directional Pullback Regularization for Long-Horizon Rollout of Latent World Models in Autonomous Driving | Shatadal Mishra, Ahmadreza Moradipari, Nejib Ammar | [Abstract](https://arxiv.org/abs/2610.16139) · [PDF](https://arxiv.org/pdf/2610.16139) |
+| 2026-10-11 | ProWorld: Multi-View World Model with Proprioceptive Feedback for Closed-Loop Policy Evaluation | Zijun Wang, Tianyi Yan, Haokun Lin, Panwen Hu et al. | [Abstract](https://arxiv.org/abs/2610.15294) · [PDF](https://arxiv.org/pdf/2610.15294) |
+| 2026-10-11 | LeHami: Symplectic Latent Dynamics for World Models | Romina Yalovetzky, Randall Balestriero, Yann LeCun | [Abstract](https://arxiv.org/abs/2610.15267) · [PDF](https://arxiv.org/pdf/2610.15267) |
+| 2026-10-10 | Remembering What Matters for Long-Horizon Robotic World Models | Hao Wu, Tianyu Shao, Shengju Qian, Yizhou Zhao et al. | [Abstract](https://arxiv.org/abs/2610.14583) · [PDF](https://arxiv.org/pdf/2610.14583) |
+| 2026-10-09 | Sampling-based Kinodynamic Planning with World Models | Yitian Gao, Hanlan Yang, Zachary Kingston | [Abstract](https://arxiv.org/abs/2610.12910) · [PDF](https://arxiv.org/pdf/2610.12910) |
+| 2026-10-08 | DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training | Junyan Li, Ruizhi Li, Yu Liu, Xiangshuo Liu et al. | [Abstract](https://arxiv.org/abs/2610.12468) · [PDF](https://arxiv.org/pdf/2610.12468) |
+| 2026-10-07 | RoboJEPA: Scaling Robotic Latent World Models | Artem Zholus, Nicolas Beltran-Velez, Jianhao Yuan, Sarath Chandar et al. | [Abstract](https://arxiv.org/abs/2610.10515) · [PDF](https://arxiv.org/pdf/2610.10515) |
+| 2026-10-07 | LeCuration: A Tiny World Model as a Data Curation Multi-Tool | Mayank Sengupta, Nirmit Desai, Eric Song, Kunal Sawarkar | [Abstract](https://arxiv.org/abs/2610.09285) · [PDF](https://arxiv.org/pdf/2610.09285) |
+| 2026-10-07 | Cross-Embodiment Robot Foundation World Models with Latent Actions | Huang Huang, Sriram Yenamandra, Arjun Majumdar, Elie Aljalbout et al. | [Abstract](https://arxiv.org/abs/2610.10846) · [PDF](https://arxiv.org/pdf/2610.10846) |
+| 2026-10-06 | World Models Dream of Success: Diagnosing and Repairing Failure Insensitivity in Robot World Models | Jiuyi Xu, Xiao Hu, Meida Chen, Peng Gao et al. | [Abstract](https://arxiv.org/abs/2610.09134) · [PDF](https://arxiv.org/pdf/2610.09134) |
+| 2026-10-06 | Preserving Unstable Modes Through Inverse Dynamics in JEPA World Models | Leonardo F. Toso, Yann LeCun, James Anderson, Oumayma Bounou | [Abstract](https://arxiv.org/abs/2610.07540) · [PDF](https://arxiv.org/pdf/2610.07540) |
+| 2026-10-06 | Modeling Latent Disturbances for Robust Decision-Making in World Models | Junwon Seo, Andrea Bajcsy | [Abstract](https://arxiv.org/abs/2610.07599) · [PDF](https://arxiv.org/pdf/2610.07599) |
+| 2026-10-05 | KineWorld: Action-Induced Transport Fields for Embodied World Modeling | Ziying Song, Yuchen Liu, Zhuoran Xu, Ziyang Liu et al. | [Abstract](https://arxiv.org/abs/2610.06349) · [PDF](https://arxiv.org/pdf/2610.06349) |
+| 2026-10-05 | H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning | Wancong Zhang, Basile Terver, Michael Rabbat, Yann LeCun et al. | [Abstract](https://arxiv.org/abs/2610.06805) · [PDF](https://arxiv.org/pdf/2610.06805) |
+| 2026-10-03 | ForeAct3D: Policy-Grounded Future World Modeling for VLA Policies | Zhe Tao, Feiran Wang, Gaowen Liu, Ramana Rao Kompella et al. | [Abstract](https://arxiv.org/abs/2610.04607) · [PDF](https://arxiv.org/pdf/2610.04607) |
+| 2026-10-03 | Flow Policies as Actions of Skill-Level World Models: Learned and Symbolic Abstractions for Long-Horizon Planning | Andreu Matoses Gimenez, Andrei-Carlo Papuc, Chris Pek, Javier Alonso-Mora | [Abstract](https://arxiv.org/abs/2610.04767) · [PDF](https://arxiv.org/pdf/2610.04767) |
+| 2026-10-02 | SpectralCache: Accelerating Diffusion-Based World Models via Spectral Feature Caching | Zhendong Mi, Pu Zhao, Ziyu Hu, Xiaodong Yu et al. | [Abstract](https://arxiv.org/abs/2610.02660) · [PDF](https://arxiv.org/pdf/2610.02660) |
 | 2026-10-02 | AVL-JEPA: Preventing Causal Dynamics Information Collapse In Joint Embedding Predictive Architecture World Models | Yikang Qiao, Ling Zhang, Ziying Song, Duan Huang | [Abstract](https://arxiv.org/abs/2610.03587) · [PDF](https://arxiv.org/pdf/2610.03587) |
 | 2026-10-01 | In CEM, a World Model Is Also a Proposal Mechanism | Oliver Obst, Frieder Stolzenburg | [Abstract](https://arxiv.org/abs/2610.00921) · [PDF](https://arxiv.org/pdf/2610.00921) |
 | 2026-10-01 | FutureWorlds: Learning Robotic World Models from Alternative Futures | Hao Wu, Shengju Qian, Weiyan Wang, Fan Xu et al. | [Abstract](https://arxiv.org/abs/2610.01019) · [PDF](https://arxiv.org/pdf/2610.01019) |
@@ -124,7 +149,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-08-15 | Low-Rank Dynamics-Effective Latent Carriers for Counterfactual Rollout in Learned World Models | Yang Liu, Yuming Chen | [Abstract](https://arxiv.org/abs/2608.15156) · [PDF](https://arxiv.org/pdf/2608.15156) |
 | 2026-08-15 | Evidence of Absence: Cross-Modal Abductive Risk Perception to Sustain World Models When Vision Fails | Cong Xu, Ravi Sankar | [Abstract](https://arxiv.org/abs/2608.14952) · [PDF](https://arxiv.org/pdf/2608.14952) |
 | 2026-08-14 | Ontology-Grounded World Models for Failure Diagnosis and Closed-Loop Repair in Physical AI Systems | Kailin Wang, Haoxiang Jie, Yaoyuan Yan, Jiacheng Zhou et al. | [Abstract](https://arxiv.org/abs/2608.13901) · [PDF](https://arxiv.org/pdf/2608.13901) |
-| 2026-08-13 | hint$^2$: Hierarchical World Models for Inference-Time Temporal Logic Guidance | Moritz Zoellner, Anastasios Manganaris, Ahmed H. Qureshi, Rohan Paleja | [Abstract](https://arxiv.org/abs/2608.13678) · [PDF](https://arxiv.org/pdf/2608.13678) |
 | 2026-08-13 | ContactGuard: Pre-Contact Execution Monitoring with Action-Conditioned Latent World Models | Gehan Zheng, Matthew Johnson-Roberson, Weiming Zhi | [Abstract](https://arxiv.org/abs/2608.13438) · [PDF](https://arxiv.org/pdf/2608.13438) |
 | 2026-08-12 | RiskWorld: Object-Centric Latent World Modeling for Autonomous Driving Risk Identification | Jingzheng Li, Yufei Ge, Qianren Mao, Zhijun Chen et al. | [Abstract](https://arxiv.org/abs/2608.21414) · [PDF](https://arxiv.org/pdf/2608.21414) |
 | 2026-08-12 | ARC-Bench: Closed-Loop Replanning Masks Broken Action Ranking in Frozen JEPA World Models | Zhengshu Zhang, Zhiyuan Li | [Abstract](https://arxiv.org/abs/2609.05461) · [PDF](https://arxiv.org/pdf/2609.05461) |
@@ -148,6 +172,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-28 | INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models | Junhan Sun, Hao Zhao, Guofeng Zhang | [Abstract](https://arxiv.org/abs/2607.26056) · [PDF](https://arxiv.org/pdf/2607.26056) |
 | 2026-07-27 | FeelWorld: Visuo-Tactile World Model for Hierarchical Contact Prediction and Planning | Wenxuan Ma, Chaofan Zhang, Chao Xue, Yinghao Cai et al. | [Abstract](https://arxiv.org/abs/2607.24267) · [PDF](https://arxiv.org/pdf/2607.24267) |
 | 2026-07-27 | Embodied GPT-5.1: Evidence of a World Model? | Roberto Spinelli, Thiago C. Martins | [Abstract](https://arxiv.org/abs/2607.23899) · [PDF](https://arxiv.org/pdf/2607.23899) |
+| 2026-07-27 | A Review Of Robotic World Models For Dynamic Environments Based On Factor And Scene Graphs | Marco Giberna, Miguel Fernandez-Cortizas, Jose Luis Sanchez Lopez, Holger Voos | [Abstract](https://arxiv.org/abs/2610.08800) · [PDF](https://arxiv.org/pdf/2610.08800) |
 | 2026-07-26 | Action from Adjacent Set in Physical Space Outperforms the Best Prediction in World Models | Liangyu Li, Qingwen Liu, Mingqing Liu, Wen Fang | [Abstract](https://arxiv.org/abs/2607.23602) · [PDF](https://arxiv.org/pdf/2607.23602) |
 | 2026-07-24 | Robot-Factored World Models via Robot Rendering | Byungjun Kim, Taeksoo Kim, Hyunsoo Cha, Hanbyul Joo | [Abstract](https://arxiv.org/abs/2607.22535) · [PDF](https://arxiv.org/pdf/2607.22535) |
 | 2026-07-22 | PhysCoRe: Physics-Corrected Residual World Models for Material-Aware Deformable Dynamics | Haocheng Yin, Shuohan Tao, Yongsheng Chen, Lu Gan | [Abstract](https://arxiv.org/abs/2607.20653) · [PDF](https://arxiv.org/pdf/2607.20653) |
@@ -159,7 +184,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-15 | Ego-Dynamics-Augmented World Model for Autonomous Driving with Zero-Shot Cross-Embodiment Adaptation | Zhidong Wang, Jingsong Liang, Zirui Li, Zhan Chen et al. | [Abstract](https://arxiv.org/abs/2607.13410) · [PDF](https://arxiv.org/pdf/2607.13410) |
 | 2026-07-14 | Risk-Aware Decision-Making for Autonomous Overtaking: A World Model-Based Mixture-of-Experts Framework | Yongzhi Liu, Sunan Zhang, Jinchang Xu, Jiawei Wang et al. | [Abstract](https://arxiv.org/abs/2609.00385) · [PDF](https://arxiv.org/pdf/2609.00385) |
 | 2026-07-12 | Is Energy Guidance All You Need? Training-Free Norm Injection for Driving World Models | Xiyan Su, Frank Diermeyer, Markus Lienkamp | [Abstract](https://arxiv.org/abs/2607.10781) · [PDF](https://arxiv.org/pdf/2607.10781) |
-| 2026-07-06 | Qantara: Bridge-Flow Training for Multi-Paradigm JEPA Control | Ruslan Rakhimov, George Bredis, Yuriy Maksyuta, Daniil Gavrilov | [Abstract](https://arxiv.org/abs/2607.04978) · [PDF](https://arxiv.org/pdf/2607.04978) |
+| 2026-07-06 | Qantara: Bridge-Flow Training for Multi-Paradigm JEPA Inference | Ruslan Rakhimov, George Bredis, Yuriy Maksyuta, Daniil Gavrilov | [Abstract](https://arxiv.org/abs/2607.04978) · [PDF](https://arxiv.org/pdf/2607.04978) |
 | 2026-07-04 | Worldscape-MoE: A Unified Mixture-of-Experts World Model for Scalable Heterogeneous Action Control | Jianjie Fang, Yongyan Xu, Ziyou Wang, Chen Gao et al. | [Abstract](https://arxiv.org/abs/2607.03964) · [PDF](https://arxiv.org/pdf/2607.03964) |
 | 2026-07-02 | WorldSample: Closed-loop Real-robot RL with World Modelling | Yuquan Xue, Le Xu, Zeyi Liu, Zhenyu Wu et al. | [Abstract](https://arxiv.org/abs/2607.02431) · [PDF](https://arxiv.org/pdf/2607.02431) |
 | 2026-07-02 | GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation | GigaWorld Team, Angyuan Ma, Boyuan Wang, Bohan Li et al. | [Abstract](https://arxiv.org/abs/2607.02642) · [PDF](https://arxiv.org/pdf/2607.02642) |
@@ -173,7 +198,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-23 | When Do Conservation Laws Survive Learned Representations? Certified Horizons for Latent World Models | Hongbo Wang | [Abstract](https://arxiv.org/abs/2606.24945) · [PDF](https://arxiv.org/pdf/2606.24945) |
 | 2026-06-23 | Conformal Orbit-Valid Trust Horizons for Equivariant World Models | Hongbo Wang | [Abstract](https://arxiv.org/abs/2606.24946) · [PDF](https://arxiv.org/pdf/2606.24946) |
 | 2026-06-22 | Temporal Logic Guidance for Action-Only Diffusion Policies with World Models | Moritz Zoellner, Anastasios Manganaris, Rohan Paleja | [Abstract](https://arxiv.org/abs/2606.22729) · [PDF](https://arxiv.org/pdf/2606.22729) |
-| 2026-06-22 | RoboGaze: Evaluating Robot World Models via Structured Vision-Language Analysis | Minh-Loi Nguyen, Nghiem Tuong Diep, Hung Khang Nguyen, Minh Le et al. | [Abstract](https://arxiv.org/abs/2606.28385) · [PDF](https://arxiv.org/pdf/2606.28385) |
+| 2026-06-22 | RoboGaze: Evaluating Robot World Models via Structured Vision-Language Analysis | Minh-Loi Nguyen, Nghiem T. Diep, Hung K. Nguyen, Minh Le et al. | [Abstract](https://arxiv.org/abs/2606.28385) · [PDF](https://arxiv.org/pdf/2606.28385) |
 | 2026-06-22 | IOI: Decoupling Kinematics and Physics for Interactive World Models | Chengyu Bai, Peidong Jia, Tiecheng Guo, Yukai Wang et al. | [Abstract](https://arxiv.org/abs/2606.23296) · [PDF](https://arxiv.org/pdf/2606.23296) |
 | 2026-06-22 | Causal Reward World Models: Zero-shot Reward Design for Automated Skill Generation | Yang Yang, Yuchuang Tong, Zhengtao Zhang, Xu Ding et al. | [Abstract](https://arxiv.org/abs/2606.23280) · [PDF](https://arxiv.org/pdf/2606.23280) |
 | 2026-06-21 | Self-Evolving Cognitive Framework via Causal World Modeling for Embodied Scientific Intelligence | Yi Yu, Tetsunari Inamura | [Abstract](https://arxiv.org/abs/2606.22449) · [PDF](https://arxiv.org/pdf/2606.22449) |

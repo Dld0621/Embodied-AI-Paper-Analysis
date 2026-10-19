@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Motion%20%26%20Path%20Planning&specialty=Trajectory%20Optimization%20%26%20MPC#research-workbench)
 
-> 40 conference papers · 408 recent arXiv papers
+> 41 conference papers · 410 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,39 +14,40 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (40)
+## Conference papers (41)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | A Model-Based Framework for Assessing Operator Performance in Navigational Bronchoscopy | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696817) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696817) |
 | 2026 | Fully Distributed Real-Time MPC for Cooperative Mobile Manipulation via Box-iLQR and ADMM with an Object-Centric Planar Projection | ICRA · Mobile Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695997) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695997) |
-| 2026 | Higher Order Reasoning for Collaborative Communicationless Mobile Robot Operations | ICRA · Mobile Robot | [Paper](https://arxiv.org/abs/2605.21901) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695878) |
-| 2026 | Occlusion-Aware Consistent Model Predictive Control for Robot Navigation in Occluded Obstacle-Dense Environments | ICRA · Navigation | [Paper](https://arxiv.org/abs/2503.04563) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695747) |
-| 2026 | SaferPath: Hierarchical Visual Navigation with Learned Guidance and Safety-Constrained Control | ICRA · Navigation | [Paper](https://arxiv.org/abs/2603.01898) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696126) |
+| 2026 | Higher Order Reasoning for Collaborative Communicationless Mobile Robot Operations | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2605.21901) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695878) |
+| 2026 | Occlusion-Aware Consistent Model Predictive Control for Robot Navigation in Occluded Obstacle-Dense Environments | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2503.04563) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695747) |
+| 2026 | SaferPath: Hierarchical Visual Navigation with Learned Guidance and Safety-Constrained Control | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2603.01898) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696126) |
 | 2026 | SM2ITH: Safe Mobile Manipulation with Interactive Human Prediction via Task-Hierarchical Bilevel Model Predictive Control | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/abs/2511.17798) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696584) |
-| 2026 | Unified Generation-Refinement Planning: Bridging Guided Flow Matching and Sampling-Based MPC for Social Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2508.01192) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696822) |
-| 2025 | Behav: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.16484) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127890) |
-| 2025 | Data-Driven Sampling Based Stochastic MPC for Skid-Steer Mobile Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2411.03289) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127456) |
+| 2026 | Unified Generation-Refinement Planning: Bridging Guided Flow Matching and Sampling-Based MPC for Social Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2508.01192) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696822) |
+| 2025 | Behav: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.16484) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127890) |
+| 2025 | Data-Driven Sampling Based Stochastic MPC for Skid-Steer Mobile Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2411.03289) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127456) |
 | 2025 | Hybrid Decision Making for Scalable Multi-Agent Navigation: Integrating Semantic Maps, Discrete Coordination, and Model Predictive Control | ICRA · Navigation | [Paper](https://research.tue.nl/en/publications/3aef1095-2654-475f-8913-04cec0d9f301) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128657) |
-| 2025 | Learning Dynamic Weight Adjustment for Spatial-Temporal Trajectory Planning in Crowd Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2412.00555) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128766) |
-| 2025 | Capsizing-Guided Trajectory Optimization for Autonomous Navigation with Rough Terrain | IROS · Navigation | [Paper](https://arxiv.org/abs/2508.08108) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247440) |
-| 2025 | Dynamic Risk-Aware MPPI for Mobile Robots in Crowds via Efficient Monte Carlo Approximations | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2506.21205) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246822) |
-| 2025 | Point Cloud-Based Control Barrier Functions for Model Predictive Control in Safety-Critical Navigation of Autonomous Mobile Robots | IROS · Navigation | [Paper](https://arxiv.org/abs/2510.02885) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247044) |
+| 2025 | Learning Dynamic Weight Adjustment for Spatial-Temporal Trajectory Planning in Crowd Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2412.00555) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128766) |
+| 2025 | Capsizing-Guided Trajectory Optimization for Autonomous Navigation with Rough Terrain | IROS · Navigation | [Paper](https://arxiv.org/pdf/2508.08108) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247440) |
+| 2025 | Dynamic Risk-Aware MPPI for Mobile Robots in Crowds via Efficient Monte Carlo Approximations | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2506.21205) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246822) |
+| 2025 | Point Cloud-Based Control Barrier Functions for Model Predictive Control in Safety-Critical Navigation of Autonomous Mobile Robots | IROS · Navigation | [Paper](https://arxiv.org/pdf/2510.02885) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247044) |
 | 2025 | Safe and Efficient Navigation for Differential-Drive Robots in Dynamic Pedestrian Environments | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246088) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246088) |
 | 2025 | Safe Corridor-Based MPC for Follow-Ahead and Obstacle Avoidance of Mobile Robot in Cluttered Environments | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS60139.2025.11247286) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247286) |
 | 2025 | Vibration-Aware Trajectory Optimization for Mobile Robots in Wild Environments via Physics-Informed Neural Network | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS60139.2025.11246622) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246622) |
-| 2024 | A Probabilistic Motion Model for Skid-Steer Wheeled Mobile Robot Navigation on Off-Road Terrains | ICRA · Navigation | [Paper](https://arxiv.org/abs/2402.18065) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611343) |
-| 2024 | Active-Perceptive Motion Generation for Mobile Manipulation | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/abs/2310.00433) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610714) |
-| 2024 | AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments | ICRA · Navigation | [Paper](https://arxiv.org/abs/2403.11607) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610829) |
-| 2024 | Closing the Perception-Action Loop for Semantically Safe Navigation in Semi-Static Environments | ICRA · Navigation | [Paper](https://arxiv.org/abs/2404.14546) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610267) |
+| 2024 | A Probabilistic Motion Model for Skid-Steer Wheeled Mobile Robot Navigation on Off-Road Terrains | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2402.18065) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611343) |
+| 2024 | Active-Perceptive Motion Generation for Mobile Manipulation | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2310.00433) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610714) |
+| 2024 | AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2403.11607) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610829) |
+| 2024 | Closing the Perception-Action Loop for Semantically Safe Navigation in Semi-Static Environments | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2404.14546) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610267) |
 | 2024 | Distributionally Robust Chance Constrained Trajectory Optimization for Mobile Robots within Uncertain Safe Corridor | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2308.16381) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611252) |
-| 2024 | Integrating Predictive Motion Uncertainties with Distributionally Robust Risk-Aware Control for Safe Robot Navigation in Crowds | ICRA · Navigation | [Paper](https://arxiv.org/abs/2403.05081) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610404) |
-| 2024 | Multi-Robot Cooperative Navigation in Crowds: A Game-Theoretic Learning-Based Model Predictive Control Approach | ICRA · Navigation | [Paper](https://arxiv.org/abs/2310.06964) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611204) |
-| 2024 | Robust MITL planning under uncertain navigation times | ICRA · Navigation | [Paper](https://arxiv.org/abs/2403.03727) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611704) |
+| 2024 | Integrating Predictive Motion Uncertainties with Distributionally Robust Risk-Aware Control for Safe Robot Navigation in Crowds | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2403.05081) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610404) |
+| 2024 | Multi-Robot Cooperative Navigation in Crowds: A Game-Theoretic Learning-Based Model Predictive Control Approach | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2310.06964) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611204) |
+| 2024 | Robust MITL planning under uncertain navigation times | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2403.03727) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611704) |
 | 2024 | Unconstrained Model Predictive Control for Robot Navigation under Uncertainty | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610531) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610531) |
-| 2024 | WayFASTER: a Self-Supervised Traversability Prediction for Increased Navigation Awareness | ICRA · Navigation | [Paper](https://arxiv.org/abs/2402.00683) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610436) |
+| 2024 | WayFASTER: a Self-Supervised Traversability Prediction for Increased Navigation Awareness | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2402.00683) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610436) |
 | 2024 | Collision-Free Robot Navigation in Crowded Environments using Learning based Convex Model Predictive Control | IROS · Navigation | [Paper](https://arxiv.org/pdf/2403.01450) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801893) |
-| 2024 | Social Navigation in Crowded Environments with Model Predictive Control and Deep Learning-Based Human Trajectory Prediction | IROS · Navigation | [Paper](https://arxiv.org/abs/2309.16838) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802371) |
-| 2024 | Switching Sampling Space of Model Predictive Path-Integral Controller to Balance Efficiency and Safety in 4WIDS Vehicle Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2409.08648) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802359) |
+| 2024 | Social Navigation in Crowded Environments with Model Predictive Control and Deep Learning-Based Human Trajectory Prediction | IROS · Navigation | [Paper](https://arxiv.org/pdf/2309.16838) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802371) |
+| 2024 | Switching Sampling Space of Model Predictive Path-Integral Controller to Balance Efficiency and Safety in 4WIDS Vehicle Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2409.08648) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802359) |
 | 2023 | A Trajectory Planner For Mobile Robots Steering Non-Holonomic Wheelchairs In Dynamic Environments | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161082) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161082) |
 | 2023 | Data-Driven Risk-sensitive Model Predictive Control for Safe Navigation in Multi-Robot Systems | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2209.07793) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161002) |
 | 2023 | DS-MPEPC: Safe and Deadlock-Avoiding Robot Navigation in Cluttered Dynamic Scenes | IROS · Navigation | [Paper](https://arxiv.org/pdf/2303.10133) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341869) |
@@ -56,13 +57,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Towards Autonomous Robot Navigation in Human Populated Environments Using an Universal SFM and Parametrized MPC | IROS · Navigation | [Paper](https://inria.hal.science/hal-04210032v1/file/IROS23.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341814) |
 | 2022 | NMPC-LBF: Nonlinear MPC with Learned Barrier Function for Decentralized Safe Navigation of Multiple Robots in Unknown Environments | IROS · Navigation | [Paper](https://arxiv.org/pdf/2208.07974) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981177) |
 | 2022 | Nonlinear Model Predictive Control with Cost Function Scheduling for a Wheeled Mobile Robot | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981066) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981066) |
-| 2022 | PUTN: A Plane-fitting based Uneven Terrain Navigation Framework | IROS · Navigation | [Paper](https://arxiv.org/abs/2203.04541) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981038) |
+| 2022 | PUTN: A Plane-fitting based Uneven Terrain Navigation Framework | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.04541) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981038) |
 | 2022 | SMS-MPC: Adversarial Learning-based Simultaneous Prediction Control with Single Model for Mobile Robots | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981289) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981289) |
 
-## Recent arXiv papers (408)
+## Recent arXiv papers (410)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-15 | Safe and Fuel-Efficient Motion Planning for Lunar Propulsive Drones | Elena Wittemyer, Graco Gao | [Abstract](https://arxiv.org/abs/2610.22225) · [PDF](https://arxiv.org/pdf/2610.22225) |
+| 2026-10-15 | CLIS-MPPI: Closed-Loop Model Predictive Path Integral Control With Initial-State Sampling Under Execution Delay | Zidong Liu, Xu Chen | [Abstract](https://arxiv.org/abs/2610.21239) · [PDF](https://arxiv.org/pdf/2610.21239) |
+| 2026-10-14 | VIGOR-MPC: Vision-Guided Objective Regulation MPC | Jelena Trisovic, Rahel Rickenbach, Marek Landert, Panagiotis Minos et al. | [Abstract](https://arxiv.org/abs/2610.20333) · [PDF](https://arxiv.org/pdf/2610.20333) |
+| 2026-10-14 | Optimally Trading Energy for Information through Speed Trajectory Optimization of Sustainably Powered Mobile Robots | Kavin M. Govindarajan, Dimitra Panagou, Chris Vermillion | [Abstract](https://arxiv.org/abs/2610.20875) · [PDF](https://arxiv.org/pdf/2610.20875) |
+| 2026-10-13 | Model-Based Online Decision Making via Generative Trajectory Planning | Haldun Balim, Yilun Du, Na Li | [Abstract](https://arxiv.org/abs/2610.18677) · [PDF](https://arxiv.org/pdf/2610.18677) |
+| 2026-10-11 | Efficient Hybrid Hard--Soft Signal Temporal Logic MPC for Driving under Multimodal Uncertainty | Kumar Manas, Adrian Paschke | [Abstract](https://arxiv.org/abs/2610.15934) · [PDF](https://arxiv.org/pdf/2610.15934) |
+| 2026-10-05 | MagServo: Uncertainty-Resilient Hierarchical Magnetic Servoing via Learned Latent Representations | Yuhan Tan, Yameng Zhang, Pei Liu, Yao Zhong et al. | [Abstract](https://arxiv.org/abs/2610.06046) · [PDF](https://arxiv.org/pdf/2610.06046) |
+| 2026-10-05 | Distribution-Transfer Safe-Horizon MPC under Mode Uncertainty | Stephen Crawford, Nora Ayanian | [Abstract](https://arxiv.org/abs/2610.07277) · [PDF](https://arxiv.org/pdf/2610.07277) |
 | 2026-10-02 | MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation | Chenzhi Liu, Yue Zhang, Jiehong Lin, Jianan Wang et al. | [Abstract](https://arxiv.org/abs/2610.03476) · [PDF](https://arxiv.org/pdf/2610.03476) |
 | 2026-10-02 | DR-IPC: Disturbance-Resilient Integrated Planning and Control for LiDAR-Based Quadrotor Navigation | Peng Liu, Jingyan Wang, Qipeng Ye, Wen Li et al. | [Abstract](https://arxiv.org/abs/2610.03530) · [PDF](https://arxiv.org/pdf/2610.03530) |
 | 2026-09-30 | RL-Guided PAC-NMPC for Probabilistically-Safe Perception-Based Navigation in Unknown Environments | Adam Polevoy, Dillon Capalongo, Katherine Tang, Mark Gonzales et al. | [Abstract](https://arxiv.org/abs/2609.39854) · [PDF](https://arxiv.org/pdf/2609.39854) |
@@ -97,7 +106,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-31 | Motion Planning for Mobile Manipulators Navigating Doorways via Model Predictive Control | Kasra Sinaei, Kasun Weerakoon, Christopher Bradley, Seyed Abolfazl Fakoorian et al. | [Abstract](https://arxiv.org/abs/2608.00206) · [PDF](https://arxiv.org/pdf/2608.00206) |
 | 2026-07-29 | Risk-Aware Motion Planning with Learned Trajectory Primitives and Probabilistic Safety Assessment | Marc Kaufeld, Dian Zhuang, Johannes Betz | [Abstract](https://arxiv.org/abs/2607.26802) · [PDF](https://arxiv.org/pdf/2607.26802) |
 | 2026-07-27 | Model Predictive Planner for UAV Navigation in Non-Convex Air Corridors | Henrique Silva, Marcelo A. Santos, Guilherme V. Raffo | [Abstract](https://arxiv.org/abs/2607.24369) · [PDF](https://arxiv.org/pdf/2607.24369) |
-| 2026-07-26 | BC-NMPC: Battery-Constrained NMPC with Propulsion Prediction and Replanning for High-Speed Flight | Parakh M. Gupta, Matej Mihulka, Matej Novosad, Robert Penicka et al. | [Abstract](https://arxiv.org/abs/2607.23867) · [PDF](https://arxiv.org/pdf/2607.23867) |
 | 2026-07-24 | Safe Learning Predictive Control for Ego-World Robotic Systems | Davide Valenti, Giuseppe Notarstefano | [Abstract](https://arxiv.org/abs/2607.22225) · [PDF](https://arxiv.org/pdf/2607.22225) |
 | 2026-07-22 | Distributed Motion Planning with Safety Guarantees for Self-Reconfiguring Robotic Boats | Alejandro Gonzalez-Garcia, Wei Wang, Wei Xiao, Wilm Decre et al. | [Abstract](https://arxiv.org/abs/2607.20352) · [PDF](https://arxiv.org/pdf/2607.20352) |
 | 2026-07-20 | Task-Space Constrained Stochastic Trajectory Optimization for Time-Optimal Forestry Crane Motion Planning | Marc-Philip Ecker, Christoph Fröhlich, Bernhard Bischof, Wolfgang Kemmetmüller et al. | [Abstract](https://arxiv.org/abs/2607.17818) · [PDF](https://arxiv.org/pdf/2607.17818) |
@@ -466,11 +474,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-24 | A Resilient Framework for 5G-Edge-Connected UAVs based on Switching Edge-MPC and Onboard-PID Control | Gerasimos Damigos, Achilleas Santi Seisa, Sumeet Gajanan Satpute, Tore Lindgren et al. | [Abstract](https://arxiv.org/abs/2310.15849) · [PDF](https://arxiv.org/pdf/2310.15849) |
 | 2023-10-23 | End-to-End Learning of Behavioural Inputs for Autonomous Driving in Dense Traffic | Jatan Shrestha, Simon Idoko, Basant Sharma, Arun Kumar Singh | [Abstract](https://arxiv.org/abs/2310.14766) · [PDF](https://arxiv.org/pdf/2310.14766) |
 | 2023-10-21 | Visual Tracking Nonlinear Model Predictive Control Method for Autonomous Wind Turbine Inspection | Abdelhakim Amer, Mohit Mehndiratta, Jonas le Fevre Sejersen, Huy Xuan Pham et al. | [Abstract](https://arxiv.org/abs/2310.14030) · [PDF](https://arxiv.org/pdf/2310.14030) |
-| 2023-10-17 | SICNav: Safe and Interactive Crowd Navigation using Model Predictive Control and Bilevel Optimization | Sepehr Samavi, James R. Han, Florian Shkurti, Angela P. Schoellig | [Abstract](https://arxiv.org/abs/2310.10982) · [PDF](https://arxiv.org/pdf/2310.10982) |
-| 2023-10-12 | Model Predictive Inferential Control of Neural State-Space Models for Autonomous Vehicle Motion Planning | Iman Askari, Ali Vaziri, Xuemin Tu, Shen Zeng et al. | [Abstract](https://arxiv.org/abs/2310.08045) · [PDF](https://arxiv.org/pdf/2310.08045) |
-| 2023-10-10 | Multi-Robot Cooperative Navigation in Crowds: A Game-Theoretic Learning-Based Model Predictive Control Approach | Viet-Anh Le, Vaishnav Tadiparthi, Behdad Chalaki, Hossein Nourkhiz Mahjoub et al. | [Abstract](https://arxiv.org/abs/2310.06964) · [PDF](https://arxiv.org/pdf/2310.06964) |
-| 2023-10-05 | Time-Optimal Trajectory Planning in Highway Scenarios using Basis-Spline Parameterization | Philip Dorpmüller, Thomas Schmitz, Naveen Bejagam, Torsten Bertram | [Abstract](https://arxiv.org/abs/2310.03359) · [PDF](https://arxiv.org/pdf/2310.03359) |
-| 2023-10-05 | Kinodynamic Motion Planning for a Team of Multirotors Transporting a Cable-Suspended Payload in Cluttered Environments | Khaled Wahba, Joaquim Ortiz-Haro, Marc Toussaint, Wolfgang Hönig | [Abstract](https://arxiv.org/abs/2310.03394) · [PDF](https://arxiv.org/pdf/2310.03394) |
 
 ---
 

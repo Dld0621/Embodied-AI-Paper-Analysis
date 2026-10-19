@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Exploration%20%26%20Active%20Mapping&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 90 conference papers · 244 recent arXiv papers
+> 89 conference papers · 245 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,29 +14,28 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (90)
+## Conference papers (89)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2026 | A Framework for Soft Robot Control: Integrating Physics-Based Modeling with Exploration Based Learning | ICRA · Exploration | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696124) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696124) |
-| 2026 | Coupling Tensor Trains with Graph of Convex Sets: Effective Compression, Exploration, and Planning in the C-Space | ICRA · Exploration | [Paper](https://arxiv.org/abs/2603.11658) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696797) |
-| 2026 | dPWM: Autonomous Exploration via Diffusion-Based Map Prediction Guided Planning | ICRA · Exploration | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696058) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696058) |
+| 2026 | Coupling Tensor Trains with Graph of Convex Sets: Effective Compression, Exploration, and Planning in the C-Space | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2603.11658) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696797) |
 | 2026 | EDAIL: Adversarial Imitation Learning via Exploration-Driven Data Augmentation | ICRA · Exploration | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696907) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696907) |
 | 2026 | Fast Exploration Planning with Learning-Based Motion Time Prediction for Aerial Robots | ICRA · Exploration | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696085) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696085) |
-| 2026 | GRATE: a Graph transformer-based deep Reinforcement learning Approach for Time-efficient autonomous robot Exploration | ICRA · Exploration | [Paper](https://arxiv.org/abs/2509.12863) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697417) |
+| 2026 | GRATE: a Graph transformer-based deep Reinforcement learning Approach for Time-efficient autonomous robot Exploration | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2509.12863) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697417) |
 | 2026 | GUIDE: A Diffusion-Based Autonomous Robot Exploration Framework Using Global Graph Inference | ICRA · Exploration | [Paper](https://arxiv.org/abs/2509.19916) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696780) |
-| 2026 | Integrated Exploration and Sequential Manipulation on Scene Graph with LLM-based Situated Replanning | ICRA · Exploration | [Paper](https://arxiv.org/abs/2602.04419) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696456) |
-| 2026 | Learning-Based Robust Control: Unifying Exploration and Distributional Robustness for Reliable Robotics via Free Energy | ICRA · Exploration | [Paper](https://arxiv.org/abs/2603.06831) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696049) |
-| 2026 | LIMBERO: A Limbed Climbing Exploration Robot Toward Traveling on Rocky Cliffs | ICRA · Exploration | [Paper](https://arxiv.org/abs/2603.16531) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696606) |
-| 2026 | LLM-Guided Task- and Affordance-Level Exploration in Reinforcement Learning | ICRA · Exploration | [Paper](https://arxiv.org/abs/2509.16615) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695912) |
+| 2026 | Integrated Exploration and Sequential Manipulation on Scene Graph with LLM-based Situated Replanning | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2602.04419) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696456) |
+| 2026 | Learning-Based Robust Control: Unifying Exploration and Distributional Robustness for Reliable Robotics via Free Energy | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2603.06831) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696049) |
+| 2026 | LIMBERO: A Limbed Climbing Exploration Robot Toward Traveling on Rocky Cliffs | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2603.16531) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696606) |
+| 2026 | LLM-Guided Task- and Affordance-Level Exploration in Reinforcement Learning | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2509.16615) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695912) |
 | 2026 | M4Diffuser: Multi-View Diffusion Policy with Manipulability-Aware Control for Robust Mobile Manipulation | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/abs/2509.14980) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696010) |
 | 2026 | Resource Mapping with a Mobile Exploration Robot using Spectral Mixture Ergodic Search | ICRA · Exploration | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697503) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697503) |
-| 2026 | SOE: Sample-Efficient Robot Policy Self-Improvement via On-Manifold Exploration | ICRA · Exploration | [Paper](https://arxiv.org/abs/2509.19292) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696357) |
-| 2026 | Spectral Decomposition of Inverse Dynamics for Fast Exploration in Model-Based Manipulation | ICRA · Exploration | [Paper](https://arxiv.org/abs/2603.27796) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696637) |
-| 2026 | Underactuated multimodal jumping robot for extraterrestrial exploration | ICRA · Exploration | [Paper](https://arxiv.org/abs/2603.06525) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697336) |
-| 2025 | A Skeleton-Based Topological Planner for Exploration in Complex Unknown Environments | ICRA · Exploration | [Paper](https://arxiv.org/abs/2412.13664) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128159) |
+| 2026 | SOE: Sample-Efficient Robot Policy Self-Improvement via On-Manifold Exploration | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2509.19292) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696357) |
+| 2026 | Spectral Decomposition of Inverse Dynamics for Fast Exploration in Model-Based Manipulation | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2603.27796) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696637) |
+| 2026 | Underactuated multimodal jumping robot for extraterrestrial exploration | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2603.06525) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697336) |
+| 2025 | A Skeleton-Based Topological Planner for Exploration in Complex Unknown Environments | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2412.13664) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128159) |
 | 2025 | CTSAC: Curriculum-Based Transformer Soft Actor-Critic for Goal-Oriented Robot Exploration | ICRA · Exploration | [Paper](https://arxiv.org/abs/2503.14254) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127932) |
-| 2025 | DARE: Diffusion Policy for Autonomous Robot Exploration | ICRA · Exploration | [Paper](https://arxiv.org/abs/2410.16687) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128196) |
+| 2025 | DARE: Diffusion Policy for Autonomous Robot Exploration | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2410.16687) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128196) |
 | 2025 | Multi-Agent Ergodic Exploration Under Smoke-Based Time-Varying Sensor Visibility Constraints | ICRA · Exploration | [Paper](https://arxiv.org/abs/2503.04998) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128670) |
 | 2025 | New Graph Distance Measures and Matching of Topological Maps for Robotic Exploration | ICRA · Exploration | [Paper](https://hal.science/hal-04976558v1/file/Morbidi_ICRA25.pdf) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127512) |
 | 2025 | Rapid Autonomous Exploration of Large-Scale Environments for Ground Robots Based on Region Partitioning | ICRA · Exploration | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127661) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127661) |
@@ -44,48 +43,48 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | A Mole-inspired Incisor-Burrowing Robotic Platform for Planetary Exploration | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS60139.2025.11246773) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246773) |
 | 2025 | Can Real-Time Lipreading Improve Speech Recognition? A Systematic Exploration Using Human-Robot Interaction Data | IROS · Exploration | [Paper](https://research.vu.nl/en/publications/ddaf60ad-b4cd-42f3-9b41-32331626b411) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246474) |
 | 2025 | P2 Explore: Efficient Exploration in Unknown Cluttered Environment with Floor Plan Prediction | IROS · Exploration | [Paper](https://arxiv.org/abs/2409.10878) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247205) |
-| 2025 | RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration | IROS · Exploration | [Paper](https://arxiv.org/abs/2504.06994) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245813) |
-| 2025 | REALMS2 - Resilient Exploration And Lunar Mapping System 2 – A Comprehensive Approach | IROS · Exploration | [Paper](https://orbilu.uni.lu/handle/10993/66190) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246516) |
-| 2025 | SENIOR: Efficient Query Selection and Preference-Guided Exploration in Preference-based Reinforcement Learning | IROS · Exploration | [Paper](https://arxiv.org/abs/2506.14648) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247094) |
-| 2025 | SIME: Enhancing Policy Self-Improvement with Modal-level Exploration | IROS · Exploration | [Paper](https://arxiv.org/abs/2505.01396) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245841) |
+| 2025 | RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration | IROS · Exploration | [Paper](https://arxiv.org/pdf/2504.06994) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245813) |
+| 2025 | REALMS2 - Resilient Exploration And Lunar Mapping System 2 – A Comprehensive Approach | IROS · Exploration | [Paper](https://orbilu.uni.lu/bitstream/10993/66190/1/main.pdf) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246516) |
+| 2025 | SENIOR: Efficient Query Selection and Preference-Guided Exploration in Preference-based Reinforcement Learning | IROS · Exploration | [Paper](https://arxiv.org/pdf/2506.14648) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247094) |
+| 2025 | SIME: Enhancing Policy Self-Improvement with Modal-level Exploration | IROS · Exploration | [Paper](https://arxiv.org/pdf/2505.01396) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245841) |
 | 2024 | Continuously Improving Mobile Manipulation with Autonomous Real-World RL | CoRL · Mobile Manipulation | [Paper](https://arxiv.org/abs/2409.20568) · [Publisher](https://doi.org/10.48550/arXiv.2409.20568) |
 | 2024 | RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation | CoRL · Exploration | [Paper](https://arxiv.org/abs/2402.15487) · [Publisher](https://doi.org/10.48550/arXiv.2402.15487) |
 | 2024 | ASID: Active Exploration for System Identification in Robotic Manipulation | ICLR · Exploration | [Paper](https://arxiv.org/abs/2404.12308) · [Publisher](https://doi.org/10.48550/arXiv.2404.12308) |
 | 2024 | AcTExplore: Active Tactile Exploration on Unknown Objects | ICRA · Exploration | [Paper](https://arxiv.org/abs/2310.08745) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611667) |
-| 2024 | Active Exploration for Real-Time Haptic Training | ICRA · Exploration | [Paper](https://arxiv.org/abs/2405.11776) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610782) |
+| 2024 | Active Exploration for Real-Time Haptic Training | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2405.11776) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610782) |
 | 2024 | Autonomous 3D Exploration in Large-Scale Environments with Dynamic Obstacles | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2310.17977) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610996) |
-| 2024 | DRIVE: Data-driven Robot Input Vector Exploration | ICRA · Exploration | [Paper](https://arxiv.org/abs/2309.10718) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611172) |
-| 2024 | Heuristic-based Incremental Probabilistic Roadmap for Efficient UAV Exploration in Dynamic Environments | ICRA · Exploration | [Paper](https://arxiv.org/abs/2309.09121) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610462) |
+| 2024 | DRIVE: Data-driven Robot Input Vector Exploration | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2309.10718) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611172) |
+| 2024 | Heuristic-based Incremental Probabilistic Roadmap for Efficient UAV Exploration in Dynamic Environments | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2309.09121) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610462) |
 | 2024 | Intrinsic Language-Guided Exploration for Complex Long-Horizon Robotic Manipulation Tasks | ICRA · Exploration | [Paper](https://arxiv.org/abs/2309.16347) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611483) |
 | 2024 | LORIS: A Lightweight Free-Climbing Robot for Extreme Terrain Exploration | ICRA · Exploration | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611653) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611653) |
-| 2024 | MAexp: A Generic Platform for RL-based Multi-Agent Exploration | ICRA · Exploration | [Paper](https://arxiv.org/abs/2404.12824) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611573) |
+| 2024 | MAexp: A Generic Platform for RL-based Multi-Agent Exploration | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2404.12824) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611573) |
 | 2024 | Pluck and Play: Self-supervised Exploration of Chordophones for Robotic Playing | ICRA · Exploration | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610120) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610120) |
-| 2024 | RB5 Low-Cost Explorer: Implementing Autonomous Long-Term Exploration on Low-Cost Robotic Hardware | ICRA · Exploration | [Paper](https://arxiv.org/abs/2402.08897) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610399) |
-| 2024 | STAGE: Scalable and Traversability-Aware Graph based Exploration Planner for Dynamically Varying Environments | ICRA · Exploration | [Paper](https://arxiv.org/abs/2402.02566) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610939) |
+| 2024 | RB5 Low-Cost Explorer: Implementing Autonomous Long-Term Exploration on Low-Cost Robotic Hardware | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2402.08897) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610399) |
+| 2024 | STAGE: Scalable and Traversability-Aware Graph based Exploration Planner for Dynamically Varying Environments | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2402.02566) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610939) |
 | 2024 | Unknown Object Retrieval in Confined Space through Reinforcement Learning with Tactile Exploration | ICRA · Exploration | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611541) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611541) |
 | 2024 | AirShot: Efficient Few-Shot Detection for Autonomous Exploration | IROS · Exploration | [Paper](https://arxiv.org/pdf/2404.05069) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801738) |
-| 2024 | DarkGS: Learning Neural Illumination and 3D Gaussians Relighting for Robotic Exploration in the Dark | IROS · Exploration | [Paper](https://arxiv.org/abs/2403.10814) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802684) |
+| 2024 | DarkGS: Learning Neural Illumination and 3D Gaussians Relighting for Robotic Exploration in the Dark | IROS · Exploration | [Paper](https://arxiv.org/pdf/2403.10814) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802684) |
 | 2024 | Design of a Soft Shell for a Spherical Exploration Robot Traversing Varying Terrain | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS58592.2024.10802644) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802644) |
-| 2024 | HPHS: Hierarchical Planning based on Hybrid Frontier Sampling for Unknown Environments Exploration | IROS · Exploration | [Paper](https://arxiv.org/abs/2407.10660) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802539) |
+| 2024 | HPHS: Hierarchical Planning based on Hybrid Frontier Sampling for Unknown Environments Exploration | IROS · Exploration | [Paper](https://arxiv.org/pdf/2407.10660) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802539) |
 | 2024 | IR2: Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity | IROS · Exploration | [Paper](https://arxiv.org/abs/2409.04730) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801761) |
 | 2024 | Neuro-Explorer: Efficient and Scalable Exploration Planning via Learned Frontier Regions | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS58592.2024.10802704) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802704) |
 | 2024 | PARE: A Plane-Assisted Autonomous Robot Exploration Framework in Unknown and Uneven Terrain | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS58592.2024.10802459) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802459) |
-| 2024 | PROSPECT: Precision Robot Spectroscopy Exploration and Characterization Tool | IROS · Exploration | [Paper](https://arxiv.org/abs/2403.17232) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802210) |
+| 2024 | PROSPECT: Precision Robot Spectroscopy Exploration and Characterization Tool | IROS · Exploration | [Paper](https://arxiv.org/pdf/2403.17232) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802210) |
 | 2024 | VRExplorer: An Efficient View-Region based Autonomous Exploration Method in Unknown Environments for UAV | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS58592.2024.10802710) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802710) |
-| 2023 | ARiADNE: A Reinforcement learning approach using Attention-based Deep Networks for Exploration | ICRA · Exploration | [Paper](https://arxiv.org/abs/2301.11575) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160565) |
-| 2023 | CLIO: a Novel Robotic Solution for Exploration and Rescue Missions in Hostile Mountain Environments | ICRA · Exploration | [Paper](https://iris.unitn.it/bitstream/11572/402856/1/2209.09693.pdf) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160440) |
+| 2023 | ARiADNE: A Reinforcement learning approach using Attention-based Deep Networks for Exploration | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2301.11575) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160565) |
+| 2023 | CLIO: a Novel Robotic Solution for Exploration and Rescue Missions in Hostile Mountain Environments | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2209.09693) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160440) |
 | 2023 | CUREE: A Curious Underwater Robot for Ecosystem Exploration | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2303.03943) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161282) |
-| 2023 | Embodied Agents for Efficient Exploration and Smart Scene Description | ICRA · Embodied Agent | [Paper](https://hdl.handle.net/11380/1295104) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160668) |
+| 2023 | Embodied Agents for Efficient Exploration and Smart Scene Description | ICRA · Embodied Agent | [Paper](https://arxiv.org/pdf/2301.07150) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160668) |
 | 2023 | Finding Things in the Unknown: Semantic Object-Centric Exploration with an MAV | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2302.14569) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160490) |
-| 2023 | Flipbot: Learning Continuous Paper Flipping via Coarse-to-Fine Exteroceptive-Proprioceptive Exploration | ICRA · Exploration | [Paper](https://arxiv.org/abs/2304.02253) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160774) |
+| 2023 | Flipbot: Learning Continuous Paper Flipping via Coarse-to-Fine Exteroceptive-Proprioceptive Exploration | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2304.02253) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160774) |
 | 2023 | Frontier Semantic Exploration for Visual Target Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2304.05506) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161059) |
 | 2023 | Learning Exploration Strategies to Solve Real-World Marble Runs | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2303.04928) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160759) |
 | 2023 | Prioritized Robotic Exploration with Deadlines: A Comparison of Greedy, Orienteering, and Profitable Tour Approaches | ICRA · Exploration | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161118) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161118) |
-| 2023 | Visual Affordance Prediction for Guiding Robot Exploration | ICRA · Exploration | [Paper](https://arxiv.org/abs/2305.17783) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161288) |
+| 2023 | Visual Affordance Prediction for Guiding Robot Exploration | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2305.17783) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161288) |
 | 2023 | Autonomous Exploration Using Ground Robots with Safety Guarantees | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS55552.2023.10341929) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341929) |
 | 2023 | Bi-Level Image-Guided Ergodic Exploration with Applications to Planetary Rovers | IROS · Exploration | [Paper](https://arxiv.org/pdf/2307.16707) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341437) |
 | 2023 | Efficient Exploration Using Extra Safety Budget in Constrained Policy Optimization | IROS · Exploration | [Paper](https://arxiv.org/pdf/2302.14339) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342149) |
-| 2023 | Efficient Q-Learning over Visit Frequency Maps for Multi-Agent Exploration of Unknown Environments | IROS · Exploration | [Paper](https://arxiv.org/pdf/2307.16318) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341899) |
+| 2023 | Efficient Q-Learning over Visit Frequency Maps for Multi-Agent Exploration of Unknown Environments | IROS · Exploration | [Paper](https://arxiv.org/abs/2307.16318) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341899) |
 | 2023 | Grasp Region Exploration for 7-DoF Robotic Grasping in Cluttered Scenes | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS55552.2023.10341757) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341757) |
 | 2023 | Human-Robot Collaboration for Unknown Flexible Surface Exploration and Treatment Based on Mesh Iterative Learning Control | IROS · Exploration | [Paper](https://figshare.com/articles/conference_contribution/Human-robot_collaboration_for_unknown_flexible_surface_exploration_and_treatment_based_on_mesh_iterative_learning_control/24470761) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341612) |
 | 2023 | Learning-Augmented Model-Based Planning for Visual Exploration | IROS · Exploration | [Paper](https://arxiv.org/pdf/2211.07898) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341773) |
@@ -97,22 +96,27 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Accurate edge detection for robotic welding through tactile exploration | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS47612.2022.9981824) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981824) |
 | 2022 | Adaptive Sampling Site Selection for Robotic Exploration in Unknown Environments | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS47612.2022.9982113) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982113) |
 | 2022 | Autoexplorer: Autonomous Exploration of Unknown Environments using Fast Frontier-Region Detection and Parallel Path Planning | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS47612.2022.9981263) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981263) |
-| 2022 | Capability-Aware Task Allocation and Team Formation Analysis for Cooperative Exploration of Complex Environments | IROS · Exploration | [Paper](https://arxiv.org/abs/2411.00400) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981631) |
+| 2022 | Capability-Aware Task Allocation and Team Formation Analysis for Cooperative Exploration of Complex Environments | IROS · Exploration | [Paper](https://arxiv.org/pdf/2411.00400) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981631) |
 | 2022 | Efficient Sampling-Based Planning for Subterranean Exploration | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS47612.2022.9982169) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982169) |
 | 2022 | Impact Makes a Sound and Sound Makes an Impact: Sound Guides Representations and Explorations | IROS · Exploration | [Paper](https://arxiv.org/pdf/2208.02680) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981510) |
 | 2022 | Multi-Robot Unknown Area Exploration Using Frontier Trees | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS47612.2022.9981914) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981914) |
 | 2022 | Multimodal aerial-tethered robot for tree canopy exploration | IROS · Exploration | [Paper](https://www.dora.lib4ri.ch/wsl/item/wsl:35537) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981121) |
 | 2022 | Online Localisation and Colored Mesh Reconstruction Architecture for 3D Visual Feedback in Robotic Exploration Missions | IROS · Exploration | [Paper](https://hal.science/hal-03856358) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981137) |
 | 2022 | Optimal and Risk-Aware Path Planning considering Localization Uncertainty for Space Exploration Rovers | IROS · Exploration | [Paper](https://orbilu.uni.lu/handle/10993/57807) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981179) |
-| 2022 | PrePARE: Predictive Proprioception for Agile Failure Event Detection in Robotic Exploration of Extreme Terrains | IROS · Exploration | [Paper](https://resolver.sub.uni-goettingen.de/purl?gro-2/135588) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981660) |
+| 2022 | PrePARE: Predictive Proprioception for Agile Failure Event Detection in Robotic Exploration of Extreme Terrains | IROS · Exploration | [Paper](https://arxiv.org/pdf/2208.00322) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981660) |
 | 2022 | Safe and Efficient Exploration of Human Models During Human-Robot Interaction | IROS · Exploration | [Paper](https://arxiv.org/pdf/2208.01103) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981085) |
 | 2022 | Smart Explorer: Recognizing Objects in Dense Clutter via Interactive Exploration | IROS · Exploration | [Paper](https://arxiv.org/pdf/2208.03496) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981813) |
 | 2022 | Resilient Multi-Sensor Exploration of Multifarious Environments with a Team of Aerial Robots | RSS · Exploration | [Paper](https://doi.org/10.15607/rss.2022.xviii.004) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.004) |
 
-## Recent arXiv papers (244)
+## Recent arXiv papers (245)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-16 | SenseSwarm: Swarm Exploration via Neural Structure Estimation with Shared World-Anticipation for Rapid Mapping | Haohua Que, Haojia Gao, Mingkai Liu, Hoiian Au et al. | [Abstract](https://arxiv.org/abs/2610.22905) · [PDF](https://arxiv.org/pdf/2610.22905) |
+| 2026-10-15 | Scaling Online Exploration for Robot Agents | Runhan Huang, Xiangcheng Zhang, Haoyu Chen, Yitong Li et al. | [Abstract](https://arxiv.org/abs/2610.22496) · [PDF](https://arxiv.org/pdf/2610.22496) |
+| 2026-10-08 | A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control | Octi Zhang, Mateo Guaman Castro, Patrick Yin, Ignacio Dagnino et al. | [Abstract](https://arxiv.org/abs/2610.12465) · [PDF](https://arxiv.org/pdf/2610.12465) |
+| 2026-10-07 | ActiveLang: Active Open-Vocabulary 3D Mapping with Semantic-Uncertainty-Guided Exploration | Liyan Chen, Hairong Yin, Huangying Zhan, Yi Xu et al. | [Abstract](https://arxiv.org/abs/2610.09518) · [PDF](https://arxiv.org/pdf/2610.09518) |
+| 2026-10-05 | EpicWorldModel: Exploration-driven Planning with Latent World Models | Bowen Feng, Julian Ost, May Mei, Anirudha Majumdar et al. | [Abstract](https://arxiv.org/abs/2610.05996) · [PDF](https://arxiv.org/pdf/2610.05996) |
 | 2026-10-02 | Bidirectional Voronoi-biased Exploration Curriculum for Reinforcement Learning | Juri Pfammatter, Kaixian Qu, Clemens Schwarke, Victor Klemm et al. | [Abstract](https://arxiv.org/abs/2610.03395) · [PDF](https://arxiv.org/pdf/2610.03395) |
 | 2026-10-01 | Extreme Length Generalization in a Compact Recurrent Architecture for One-Shot Exploration | Izen Thornton, Aaron Shey, William Su | [Abstract](https://arxiv.org/abs/2610.01105) · [PDF](https://arxiv.org/pdf/2610.01105) |
 | 2026-09-30 | Centralized Multi-UAV Exploration and 3D Reconstruction Using Single-UAV Planners | João Félix Mendes, Meysam Basiri, Rodrigo Ventura | [Abstract](https://arxiv.org/abs/2609.40208) · [PDF](https://arxiv.org/pdf/2609.40208) |
@@ -353,10 +357,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-27 | Autonomous 3D Exploration in Large-Scale Environments with Dynamic Obstacles | Emil Wiman, Ludvig Widén, Mattias Tiger, Fredrik Heintz | [Abstract](https://arxiv.org/abs/2310.17977) · [PDF](https://arxiv.org/pdf/2310.17977) |
 | 2023-10-26 | Navigating to Success in Multi-Modal Human-Robot Collaboration: Analysis and Corpus Release | Stephanie M. Lukin, Kimberly A. Pollard, Claire Bonial, Taylor Hudson et al. | [Abstract](https://arxiv.org/abs/2310.17568) · [PDF](https://arxiv.org/pdf/2310.17568) |
 | 2023-10-24 | GO-FEAP: Global Optimal UAV Planner Using Frontier-Omission-Aware Exploration and Altitude-Stratified Planning | Weiye Zhang, Wenshuai Yu, Licong Zhuang, Xiaoyi Zhang et al. | [Abstract](https://arxiv.org/abs/2310.15931) · [PDF](https://arxiv.org/pdf/2310.15931) |
-| 2023-10-12 | Offline Retraining for Online RL: Decoupled Policy Learning to Mitigate Exploration Bias | Max Sobol Mark, Archit Sharma, Fahim Tajwar, Rafael Rafailov et al. | [Abstract](https://arxiv.org/abs/2310.08558) · [PDF](https://arxiv.org/pdf/2310.08558) |
-| 2023-10-12 | ELDEN: Exploration via Local Dependencies | Jiaheng Hu, Zizhao Wang, Peter Stone, Roberto Martin-Martin | [Abstract](https://arxiv.org/abs/2310.08702) · [PDF](https://arxiv.org/pdf/2310.08702) |
-| 2023-10-12 | AcTExplore: Active Tactile Exploration of Unknown Objects | Amir-Hossein Shahidzadeh, Seong Jong Yoo, Pavan Mantripragada, Chahat Deep Singh et al. | [Abstract](https://arxiv.org/abs/2310.08745) · [PDF](https://arxiv.org/pdf/2310.08745) |
-| 2023-10-05 | Safe Exploration in Reinforcement Learning: A Generalized Formulation and Algorithms | Akifumi Wachi, Wataru Hashimoto, Xun Shen, Kazumune Hashimoto | [Abstract](https://arxiv.org/abs/2310.03225) · [PDF](https://arxiv.org/pdf/2310.03225) |
 
 ---
 

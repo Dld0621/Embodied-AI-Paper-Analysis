@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2024 | LOTUS: Continual Imitation Learning for Robot Manipulation Through Unsupervised Skill Discovery | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2311.02058) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611129) |
+| 2024 | LOTUS: Continual Imitation Learning for Robot Manipulation Through Unsupervised Skill Discovery | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2311.02058) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611129) |
 | 2024 | DexSkills: Skill Segmentation Using Haptic Data for Learning Autonomous Long-Horizon Robotic Manipulation Tasks | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2405.03476) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802807) |
 
 ## Recent arXiv papers (10)

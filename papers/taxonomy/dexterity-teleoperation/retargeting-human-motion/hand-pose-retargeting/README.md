@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Pose Retargeting from a Single RGB Camera: Optimization-Based Hand Pose Retargeting and Wrist Pose Estimation | ICRA · Retargeting | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697437) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697437) |
+| 2026 | Pose Retargeting from a Single RGB Camera: Optimization-Based Hand Pose Retargeting and Wrist Pose Estimation | ICRA · Retargeting | [Paper](https://eprints.whiterose.ac.uk/id/eprint/238695/1/ICRA26_0903_FI.pdf) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697437) |
 | 2025 | Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm | IROS · Retargeting | [Paper](https://arxiv.org/abs/2503.07541) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247700) |
 | 2022 | DexVIP: Learning Dexterous Grasping with Human Hand Pose Priors from Video | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2202.00164) · [Index](https://dblp.org/rec/journals/corr/abs-2202-00164) |
 

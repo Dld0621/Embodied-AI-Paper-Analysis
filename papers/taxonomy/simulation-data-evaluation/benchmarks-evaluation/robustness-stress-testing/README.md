@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Evaluation&specialty=Robustness%20%26%20Stress%20Testing#research-workbench)
 
-> 1 conference papers · 9 recent arXiv papers
+> 1 conference papers · 11 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2024 | THE COLOSSEUM: A Benchmark for Evaluating Generalization for Robotic Manipulation | RSS · Benchmark | [Paper](https://arxiv.org/abs/2402.08191) · [Publisher](https://doi.org/10.48550/arXiv.2402.08191) |
 
-## Recent arXiv papers (9)
+## Recent arXiv papers (11)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-10 | Can Synthetic UAV Benchmarks Be Trusted? Real-Synthetic Validation for UAV Model Selection | Yuyi Zhi, Min Du, Bill Shi, Guodong Yuan et al. | [Abstract](https://arxiv.org/abs/2610.14647) · [PDF](https://arxiv.org/pdf/2610.14647) |
+| 2026-10-06 | Nine Trials to Recover: A Reproducible Benchmark for Repertoire-Free Soft-Robot Damage Adaptation | Siyuan Zhang | [Abstract](https://arxiv.org/abs/2610.07616) · [PDF](https://arxiv.org/pdf/2610.07616) |
 | 2026-08-18 | ControlledShifts: Towards Standardizing Robustness Evaluation in Trajectory Prediction Under Distribution Shifts | Ingrid Navarro, Pablo Ortega-Kral, Yutong Duan, Jonathan Francis et al. | [Abstract](https://arxiv.org/abs/2608.17882) · [PDF](https://arxiv.org/pdf/2608.17882) |
 | 2026-07-08 | Shift & Drift: A Zero-Shot Benchmark for Generalizable and Robust Autonomous Driving Motion Planning | Alessandro Canevaro, Hang Yu, Julian Schmidt, Peizheng Li et al. | [Abstract](https://arxiv.org/abs/2607.07844) · [PDF](https://arxiv.org/pdf/2607.07844) |
 | 2026-07-06 | Real-World Perturbation Testing of Autonomous Driving Systems | Stefano Carlo Lambertenghi, Matthias Weil, Andrea Stocco | [Abstract](https://arxiv.org/abs/2607.04953) · [PDF](https://arxiv.org/pdf/2607.04953) |

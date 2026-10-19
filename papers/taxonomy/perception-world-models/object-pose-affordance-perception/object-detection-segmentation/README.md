@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Object%2C%20Pose%20%26%20Affordance%20Perception&specialty=Object%20Detection%20%26%20Segmentation#research-workbench)
 
-> 1 conference papers · 257 recent arXiv papers
+> 1 conference papers · 255 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,12 +18,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2024 | Making the Flow Glow – Robot Perception under Severe Lighting Conditions using Normalizing Flow Gradients | IROS · Robot Perception | [Paper](https://arxiv.org/abs/2412.07565) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801601) |
+| 2024 | Making the Flow Glow – Robot Perception under Severe Lighting Conditions using Normalizing Flow Gradients | IROS · Robot Perception | [Paper](https://arxiv.org/pdf/2412.07565) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801601) |
 
-## Recent arXiv papers (257)
+## Recent arXiv papers (255)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-09 | Beyond the Snowflakes: Disentangling Weather Effects from Confounding Meta-Factors in LiDAR Object Detection | Yiming Yang, Jeremy P. Bos | [Abstract](https://arxiv.org/abs/2610.13891) · [PDF](https://arxiv.org/pdf/2610.13891) |
+| 2026-10-07 | Safety-Oriented Trajectory Ranking from BEV Perception Outputs | Leon Pohl, Martin Frauendorfer, Corinna Schmitt, Mirko Maehlisch | [Abstract](https://arxiv.org/abs/2610.14066) · [PDF](https://arxiv.org/pdf/2610.14066) |
 | 2026-10-02 | EmbPASS: Towards Cross-Embodiment Open Panoramic Segmentation | Pujun Guo, Yuanfan Zheng, Fei Teng, Mengfei Duan et al. | [Abstract](https://arxiv.org/abs/2610.03248) · [PDF](https://arxiv.org/pdf/2610.03248) |
 | 2026-09-29 | Towards Spatial Perception for Heterogeneous Robot Collaboration in Subterranean Mining Environments | Mario Alberto Valdes Saucedo, Akash Patel, Christoforos Kanellakis, George Nikolakopoulos | [Abstract](https://arxiv.org/abs/2609.37419) · [PDF](https://arxiv.org/pdf/2609.37419) |
 | 2026-09-29 | EgoRefine: Ego-Referenced Predictive Alignment and Trajectory-Conditioned Reliability-Aware Fusion for Asynchronous Collaborative Perception | Lingzhao Kong, Yongsheng Zang, Yu Kang, Kailun Yang et al. | [Abstract](https://arxiv.org/abs/2610.00319) · [PDF](https://arxiv.org/pdf/2610.00319) |
@@ -277,10 +279,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-30 | Radar-Lidar Fusion for Object Detection by Designing Effective Convolution Networks | Farzeen Munir, Shoaib Azam, Tomasz Kucner, Ville Kyrki et al. | [Abstract](https://arxiv.org/abs/2310.19405) · [PDF](https://arxiv.org/pdf/2310.19405) |
 | 2023-10-20 | ROSS: Radar Off-road Semantic Segmentation | Peng Jiang, Srikanth Saripalli | [Abstract](https://arxiv.org/abs/2310.13551) · [PDF](https://arxiv.org/pdf/2310.13551) |
 | 2023-10-20 | Dynamic Object Detection in Range data using Spatiotemporal Normals | Raphael Falque, Cedric Le Gentil, Fouad Sukkar | [Abstract](https://arxiv.org/abs/2310.13273) · [PDF](https://arxiv.org/pdf/2310.13273) |
-| 2023-10-17 | An empirical study of automatic wildlife detection using drone thermal imaging and object detection | Miao Chang, Tan Vuong, Manas Palaparthi, Lachlan Howell et al. | [Abstract](https://arxiv.org/abs/2310.11257) · [PDF](https://arxiv.org/pdf/2310.11257) |
-| 2023-10-14 | MAC: ModAlity Calibration for Object Detection | Yutian Lei, Jun Liu, Dong Huang | [Abstract](https://arxiv.org/abs/2310.09461) · [PDF](https://arxiv.org/pdf/2310.09461) |
-| 2023-10-09 | Anyview: Generalizable Indoor 3D Object Detection with Variable Frames | Zhenyu Wu, Xiuwei Xu, Ziwei Wang, Chong Xia et al. | [Abstract](https://arxiv.org/abs/2310.05346) · [PDF](https://arxiv.org/pdf/2310.05346) |
-| 2023-10-07 | Towards Long-Range 3D Object Detection for Autonomous Vehicles | Ajinkya Khoche, Laura Pereira Sánchez, Nazre Batool, Sina Sharif Mansouri et al. | [Abstract](https://arxiv.org/abs/2310.04800) · [PDF](https://arxiv.org/pdf/2310.04800) |
 
 ---
 

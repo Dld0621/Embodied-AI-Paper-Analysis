@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Autonomy&specialty=Bilateral%20%26%20Master-slave%20Control#research-workbench)
 
-> 8 conference papers · 20 recent arXiv papers
+> 8 conference papers · 21 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,17 +20,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2026 | A Dual-Channel Framework for Blind Perceptual Quality Assessment in Bilateral Teleoperation | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697224) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697224) |
 | 2025 | Passivity Filters for Bilateral Teleoperation with Variable Impedance Control | ICRA · Teleoperation | [Paper](https://hal.science/hal-05156618v1/document) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128576) |
-| 2025 | Perfectly Undetectable False Data Injection Attacks on Encrypted Bilateral Teleoperation System based on Dynamic Symmetry and Malleability | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2409.13061) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128026) |
+| 2025 | Perfectly Undetectable False Data Injection Attacks on Encrypted Bilateral Teleoperation System based on Dynamic Symmetry and Malleability | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2409.13061) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128026) |
 | 2024 | Lightweight and Compliant Bilateral Teleoperation System with Anthropomorphic Arms for Aerial and Ground Service Operations | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611383) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611383) |
 | 2023 | A Force-Sensitive Exoskeleton for Teleoperation: An Application in Elderly Care Robotics | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161175) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161175) |
 | 2023 | Performance Comparison of Teleoperation Interfaces for Ultra-Lightweight Anthropomorphic Arms | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342484) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342484) |
 | 2022 | Towards 6DoF Bilateral Teleoperation of an Omnidirectional Aerial Vehicle for Aerial Physical Interaction | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2203.03177) · [Publisher](https://doi.org/10.48550/arXiv.2203.03177) |
-| 2022 | Haptic Teleoperation of High-dimensional Robotic Systems Using a Feedback MPC Framework | IROS · Teleoperation | [Paper](https://arxiv.org/pdf/2207.14635) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981290) |
+| 2022 | Haptic Teleoperation of High-dimensional Robotic Systems Using a Feedback MPC Framework | IROS · Teleoperation | [Paper](https://arxiv.org/abs/2207.14635) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981290) |
 
-## Recent arXiv papers (20)
+## Recent arXiv papers (21)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-10 | LETS: Low-Overhead External-Torque Sensing for Force-Feedback Bilateral Teleoperation | Zonghao Guo, Dongchen Guan, Yubo Wang, Peng Yang | [Abstract](https://arxiv.org/abs/2610.14889) · [PDF](https://arxiv.org/pdf/2610.14889) |
 | 2026-09-17 | Compliance for Free: Learning Identifiable Impedance via Bilateral Teleoperation | Harsha Guda, Adrià Colomé, Carme Torras | [Abstract](https://arxiv.org/abs/2609.19976) · [PDF](https://arxiv.org/pdf/2609.19976) |
 | 2026-09-11 | MR-GLi: Mixed Reality-Based Gripper-Linked Overlays for Underwater Robot Arm Teleoperation via Bilateral Control | Masashi Sasago, Masato Kobayashi, Yuki Uranishi | [Abstract](https://arxiv.org/abs/2609.16041) · [PDF](https://arxiv.org/pdf/2609.16041) |
 | 2026-08-22 | Safety-Critical Bilateral Teleoperation for Omnidirectional Aerial Manipulation Using Force-Sensorless Haptic Feedback | Yubin Kim, Jinwoo Lee, Yongjun You, H. Jin Kim et al. | [Abstract](https://arxiv.org/abs/2608.21735) · [PDF](https://arxiv.org/pdf/2608.21735) |

@@ -19,16 +19,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | Deep Learning Based Topography Aware Gas Source Localization with Mobile Robot | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128134) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128134) |
-| 2025 | One Map to Find Them All: Real-time Open-Vocabulary Mapping for Zero-shot Multi-Object Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.11764) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128393) |
+| 2025 | One Map to Find Them All: Real-time Open-Vocabulary Mapping for Zero-shot Multi-Object Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.11764) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128393) |
 | 2025 | Bio-Inspired Hybrid Map: Spatial Implicit Local Frames and Topological Map for Mobile Cobot Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2507.04649) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247357) |
 | 2025 | Experimental Evaluation of Radio-aware Semantic Map with 5G-Enabled Mobile Robots | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS60139.2025.11246785) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246785) |
-| 2025 | RMMI: Reactive Mobile Manipulation using an Implicit Neural Map | IROS · Mobile Manipulation | [Paper](https://arxiv.org/abs/2408.16206) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245922) |
+| 2025 | RMMI: Reactive Mobile Manipulation using an Implicit Neural Map | IROS · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2408.16206) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245922) |
 | 2024 | Context-Aware Replanning with Pre-explored Semantic Map for Object Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2409.04837) · [Publisher](https://doi.org/10.48550/arXiv.2409.04837) |
 | 2024 | RoboHop: Segment-based Topological Map Representation for Open-World Visual Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2405.05792) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610234) |
 | 2024 | EVSMap: An Efficient Volumetric-Semantic Mapping Approach for Embedded Systems | IROS · Semantic Mapping | [Paper](https://doi.org/10.1109/IROS58592.2024.10801849) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801849) |
 | 2024 | Multiple Visual Features in Topological Map for Vision-and-Language Navigation | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10803061) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10803061) |
 | 2023 | Learning Navigational Visual Representations with Semantic Map Supervision | ICCV · Navigation | [Paper](https://arxiv.org/pdf/2307.12335) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.00284) |
-| 2023 | ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.04177) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341435) |
+| 2023 | ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2305.05519) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341435) |
 | 2023 | Robust Fusion for Bayesian Semantic Mapping | IROS · Semantic Mapping | [Paper](https://arxiv.org/pdf/2303.07836) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342253) |
 | 2022 | Robust Semantic Mapping and Localization on a Free-Flying Robot in Microgravity | ICRA · Semantic Mapping | [Paper](https://doi.org/10.1109/icra46639.2022.9811862) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811862) |
 
@@ -36,6 +36,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-15 | MuSTMM: Learning Sound-Triggered Mobile Manipulation across Multiple Scenes | Hao Ju, Feng Yan, Zhihao Zhong, Heng Yang et al. | [Abstract](https://arxiv.org/abs/2610.21429) · [PDF](https://arxiv.org/pdf/2610.21429) |
 | 2026-09-30 | Active Mapping of Underwater Litter Using Camera-Sonar Fusion | David Rete, Patrick Boros, Lucian Busoniu | [Abstract](https://arxiv.org/abs/2609.39898) · [PDF](https://arxiv.org/pdf/2609.39898) |
 | 2026-09-23 | NaviScale: Generating Large-Scale Semantic Map Datasets for Object Navigation | Chuanlin Lan, Yanwei Zheng, Yuxi Jing, Weijian Liu et al. | [Abstract](https://arxiv.org/abs/2609.27218) · [PDF](https://arxiv.org/pdf/2609.27218) |
 | 2026-09-14 | HydroMap: Probabilistic Water Surface Elevation Mapping for Semantic Scene Representation in Inland Waterways | Zhongbi Luo, Yunjia Wang, Herman Bruyninckx, Peter Slaets | [Abstract](https://arxiv.org/abs/2609.14903) · [PDF](https://arxiv.org/pdf/2609.14903) |
@@ -96,7 +97,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-27 | A Survey on Monocular Re-Localization: From the Perspective of Scene Map Representation | Jinyu Miao, Kun Jiang, Tuopu Wen, Yunlong Wang et al. | [Abstract](https://arxiv.org/abs/2311.15643) · [PDF](https://arxiv.org/pdf/2311.15643) |
 | 2023-11-07 | Interactive Semantic Map Representation for Skill-based Visual Object Navigation | Tatiana Zemskova, Aleksei Staroverov, Kirill Muravyev, Dmitry Yudin et al. | [Abstract](https://arxiv.org/abs/2311.04107) · [PDF](https://arxiv.org/pdf/2311.04107) |
 | 2023-10-21 | FHT-Map: Feature-based Hierarchical Topological Map for Relocalization and Path Planning | Kun Song, Wenhang Liu, Gaoming Chen, Xiang Xu et al. | [Abstract](https://arxiv.org/abs/2310.13899) · [PDF](https://arxiv.org/pdf/2310.13899) |
-| 2023-10-11 | LESS-Map: Lightweight and Evolving Semantic Map in Parking Lots for Long-term Self-Localization | Mingrui Liu, Xinyang Tang, Yeqiang Qian, Jiming Chen et al. | [Abstract](https://arxiv.org/abs/2310.07390) · [PDF](https://arxiv.org/pdf/2310.07390) |
 
 ---
 

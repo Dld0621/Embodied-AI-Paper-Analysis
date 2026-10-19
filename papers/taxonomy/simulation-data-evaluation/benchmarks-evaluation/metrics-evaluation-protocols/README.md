@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Evaluation&specialty=Metrics%20%26%20Evaluation%20Protocols#research-workbench)
 
-> 6 conference papers · 71 recent arXiv papers
+> 6 conference papers · 74 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,17 +18,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | GRACE: A Unified 2D Multi-Robot Path Planning Simulator & Benchmark for Grid, Roadmap, And Continuous Environments | ICRA · Simulator | [Paper](https://arxiv.org/abs/2603.10858) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695963) |
-| 2026 | WildCross: A Cross-Modal Large Scale Benchmark for Place Recognition and Metric Depth Estimation in Natural Environments | ICRA · Benchmark | [Paper](https://arxiv.org/abs/2603.01475) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697304) |
-| 2025 | FLAME: A Federated Learning Benchmark for Robotic Manipulation | IROS · Benchmark | [Paper](https://arxiv.org/abs/2503.01729) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245937) |
+| 2026 | GRACE: A Unified 2D Multi-Robot Path Planning Simulator & Benchmark for Grid, Roadmap, And Continuous Environments | ICRA · Simulator | [Paper](https://arxiv.org/pdf/2603.10858) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695963) |
+| 2026 | WildCross: A Cross-Modal Large Scale Benchmark for Place Recognition and Metric Depth Estimation in Natural Environments | ICRA · Benchmark | [Paper](https://arxiv.org/pdf/2603.01475) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697304) |
+| 2025 | FLAME: A Federated Learning Benchmark for Robotic Manipulation | IROS · Benchmark | [Paper](https://arxiv.org/pdf/2503.01729) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245937) |
 | 2025 | Region-Aware 6D Grasping for Industrial Bin-Picking: A Sim2Real Label Self-Generation and Hybrid Evaluation Framework | IROS · Sim2Real | [Paper](https://doi.org/10.1109/IROS60139.2025.11247129) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247129) |
 | 2025 | RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2506.06677) · [Publisher](https://doi.org/10.48550/arXiv.2506.06677) |
 | 2024 | The Design of the Barkour Benchmark for Robot Agility | IROS · Benchmark | [Paper](https://doi.org/10.1109/IROS58592.2024.10801377) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801377) |
 
-## Recent arXiv papers (71)
+## Recent arXiv papers (74)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-15 | Comfortably Stuck: Evaluation Pitfalls in Bench2Drive's Closed-Loop Protocol | Thomas Schwarzfischer, Emad Aghajanzadeh, Moritz Thoma, Nael Fasfous et al. | [Abstract](https://arxiv.org/abs/2610.21741) · [PDF](https://arxiv.org/pdf/2610.21741) |
+| 2026-10-14 | Instruction-Conditioned Motion Control for Robotic Arms: Language-to-Code Decomposition and Reinforcement Learning | Fan Huang, Dezhong Tong, Changyu Chen, Haewoon Kwak et al. | [Abstract](https://arxiv.org/abs/2610.19617) · [PDF](https://arxiv.org/pdf/2610.19617) |
+| 2026-10-13 | YUBI-Real2Sim: 3DGS Scene Verification for Reliable Policy Evaluation | Hiroki Nishizawa, Takehiko Ohkawa, Nicola Scianca, Tatsuya Matsushima et al. | [Abstract](https://arxiv.org/abs/2610.17521) · [PDF](https://arxiv.org/pdf/2610.17521) |
+| 2026-10-13 | Reference Wording Shapes Retrieval of Robot Task Instructions | Jahnavi Yelamanchi | [Abstract](https://arxiv.org/abs/2610.17549) · [PDF](https://arxiv.org/pdf/2610.17549) |
+| 2026-10-12 | Interactive Navigation Beyond Reachability: Benchmark and Agentic Framework | Delun Li, Xueyao Wei, Rui Chen, Yifei Wang et al. | [Abstract](https://arxiv.org/abs/2610.17089) · [PDF](https://arxiv.org/pdf/2610.17089) |
 | 2026-10-01 | Beyond Leaderboard Scores: A Deployment-Focused Protocol for Interpretable Tracking Evaluation in Pedestrian-Centric Environments | Dominik Wojcikiewicz, Diego Paez-Granados | [Abstract](https://arxiv.org/abs/2610.01682) · [PDF](https://arxiv.org/pdf/2610.01682) |
 | 2026-09-29 | Faster and Better? Benchmark Bugs and Design Limitations Distort the Evaluation of Vision-Language-Action Acceleration | Qiwei Chen, Kaijun Zhou, Nuohui Shi, Zhiyang Li et al. | [Abstract](https://arxiv.org/abs/2609.37771) · [PDF](https://arxiv.org/pdf/2609.37771) |
 | 2026-09-29 | Does Local Video Understanding Transfer Across Encounters? The EgoGears Benchmark | Yuedong Tan, Lei Qi, Yu Liu, Di Wen et al. | [Abstract](https://arxiv.org/abs/2609.37938) · [PDF](https://arxiv.org/pdf/2609.37938) |
@@ -66,7 +71,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-11-10 | Real-Time LiDAR Super-Resolution via Frequency-Aware Multi-Scale Fusion | June Moh Goo, Zichao Zeng, Jan Boehm | [Abstract](https://arxiv.org/abs/2511.07377) · [PDF](https://arxiv.org/pdf/2511.07377) |
 | 2025-11-04 | Comprehensive Assessment of LiDAR Evaluation Metrics: A Comparative Study Using Simulated and Real Data | Syed Mostaquim Ali, Taufiq Rahman, Ghazal Farhani, Mohamed H. Zaki et al. | [Abstract](https://arxiv.org/abs/2511.02994) · [PDF](https://arxiv.org/pdf/2511.02994) |
 | 2025-10-30 | FLYINGTRUST: A Benchmark for Quadrotor Navigation Across Scenarios and Vehicles | Gang Li, Chunlei Zhai, Teng Wang, Shaun Li et al. | [Abstract](https://arxiv.org/abs/2510.26588) · [PDF](https://arxiv.org/pdf/2510.26588) |
-| 2025-10-09 | Injecting Hallucinations in Autonomous Vehicles: A Component-Agnostic Safety Evaluation Framework | Alexandre Moreira Nascimento, Gabriel Kenji Godoy Shimanuki, Lúcio Flavio Vismari, João Batista Camargo et al. | [Abstract](https://arxiv.org/abs/2510.07749) · [PDF](https://arxiv.org/pdf/2510.07749) |
 | 2025-09-28 | Fostering Robots: A Governance-First Conceptual Framework for Domestic, Curriculum-Based Trajectory Collection | Federico Pablo-Marti, Carlos Mir Fernandez | [Abstract](https://arxiv.org/abs/2509.23821) · [PDF](https://arxiv.org/pdf/2509.23821) |
 | 2025-08-07 | Towards Human-Centric Evaluation of Interaction-Aware Automated Vehicle Controllers: A Framework and Case Study | Federico Scarì, Olger Siebinga, Arkady Zgonnikov | [Abstract](https://arxiv.org/abs/2508.05497) · [PDF](https://arxiv.org/pdf/2508.05497) |
 | 2025-07-29 | Interactive Adversarial Testing of Autonomous Vehicles with Adjustable Confrontation Intensity | Yicheng Guo, Chengkai Xu, Jiaqi Liu, Hao Zhang et al. | [Abstract](https://arxiv.org/abs/2507.21814) · [PDF](https://arxiv.org/pdf/2507.21814) |
@@ -99,7 +103,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-06 | Online Informative Sampling using Semantic Features in Underwater Environments | Shrutika Vishal Thengane, Yu Xiang Tan, Marcel Bartholomeus Prasetyo, Malika Meghjani | [Abstract](https://arxiv.org/abs/2402.03636) · [PDF](https://arxiv.org/pdf/2402.03636) |
 | 2023-11-24 | IDD-AW: A Benchmark for Safe and Robust Segmentation of Drive Scenes in Unstructured Traffic and Adverse Weather | Furqan Ahmed Shaik, Abhishek Malreddy, Nikhil Reddy Billa, Kunal Chaudhary et al. | [Abstract](https://arxiv.org/abs/2311.14459) · [PDF](https://arxiv.org/pdf/2311.14459) |
 | 2023-10-23 | DICE: Diverse Diffusion Model with Scoring for Trajectory Prediction | Younwoo Choi, Ray Coden Mercurius, Soheil Mohamad Alizadeh Shabestary, Amir Rasouli | [Abstract](https://arxiv.org/abs/2310.14570) · [PDF](https://arxiv.org/pdf/2310.14570) |
-| 2023-10-06 | Safety-Oriented Calibration and Evaluation of the Intelligent Driver Model | Kingsley Adjenughwure, Arturo Tejada, Pedro F. V. Oliveira, Jeroen Hogema et al. | [Abstract](https://arxiv.org/abs/2310.04259) · [PDF](https://arxiv.org/pdf/2310.04259) |
 
 ---
 

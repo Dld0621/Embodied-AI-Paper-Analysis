@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Running%2C%20Jumping%20%26%20Agile%20Skills#research-workbench)
 
-> 23 conference papers · 147 recent arXiv papers
+> 23 conference papers · 148 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,21 +20,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2026 | Agile Hauler Curriculum: Learning High-Speed Locomotion for Robots under Demanding Payloads | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695866) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695866) |
 | 2026 | OTTO: Dynamics and Control of Wheeled Bipedal Jumping Robot | ICRA · Biped | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696480) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696480) |
-| 2025 | Explosive Jumping with Rigid and Articulated Soft Quadrupeds via Example Guided Reinforcement Learning | IROS · Quadruped | [Paper](https://arxiv.org/abs/2503.16197) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247079) |
-| 2025 | Integrating Trajectory Optimization and Reinforcement Learning for Quadrupedal Jumping with Terrain-Adaptive Landing | IROS · Quadruped | [Paper](https://arxiv.org/abs/2509.12776) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246445) |
-| 2025 | Playful DoggyBot: Learning Agile and Precise Quadrupedal Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/abs/2409.19920) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245880) |
-| 2025 | Reference-Steering via Data-Driven Predictive Control for Hyper-Accurate Robotic Flying-Hopping Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/abs/2411.18793) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245973) |
-| 2025 | SF-TIM: A Simple Framework for Enhancing Quadrupedal Robot Jumping Agility by Combining Terrain Imagination and Measurement | IROS · Quadruped | [Paper](https://arxiv.org/abs/2408.00486) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247064) |
+| 2025 | Explosive Jumping with Rigid and Articulated Soft Quadrupeds via Example Guided Reinforcement Learning | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2503.16197) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247079) |
+| 2025 | Integrating Trajectory Optimization and Reinforcement Learning for Quadrupedal Jumping with Terrain-Adaptive Landing | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2509.12776) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246445) |
+| 2025 | Playful DoggyBot: Learning Agile and Precise Quadrupedal Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2409.19920) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245880) |
+| 2025 | Reference-Steering via Data-Driven Predictive Control for Hyper-Accurate Robotic Flying-Hopping Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2411.18793) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245973) |
+| 2025 | SF-TIM: A Simple Framework for Enhancing Quadrupedal Robot Jumping Agility by Combining Terrain Imagination and Measurement | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2408.00486) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247064) |
 | 2024 | Learning Visual Parkour from Generated Images | CoRL · Parkour | [Paper](https://arxiv.org/abs/2411.00083) · [Publisher](https://doi.org/10.48550/arXiv.2411.00083) |
-| 2024 | Efficient, Dynamic Locomotion through Step Placement with Straight Legs and Rolling Contacts | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2310.13134) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611056) |
-| 2024 | Learning Agile Bipedal Motions on a Quadrupedal Robot | ICRA · Quadruped | [Paper](https://arxiv.org/abs/2311.05818) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611442) |
+| 2024 | Efficient, Dynamic Locomotion through Step Placement with Straight Legs and Rolling Contacts | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2310.13134) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611056) |
+| 2024 | Learning Agile Bipedal Motions on a Quadrupedal Robot | ICRA · Quadruped | [Paper](https://arxiv.org/pdf/2311.05818) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611442) |
 | 2024 | Design and Control of a Bipedal Robotic Character | RSS · Biped | [Paper](https://arxiv.org/pdf/2501.05204) · [Publisher](https://doi.org/10.15607/RSS.2024.XX.103) |
 | 2023 | Generalized Animal Imitator: Agile Locomotion with Versatile Motion Prior | CoRL · Locomotion | [Paper](https://arxiv.org/pdf/2310.01408) · [Publisher](https://doi.org/10.48550/arXiv.2310.01408) |
 | 2023 | Robot Parkour Learning | CoRL · Parkour | [Paper](https://arxiv.org/pdf/2309.05665) · [Publisher](https://doi.org/10.48550/arXiv.2309.05665) |
-| 2023 | Agile and Versatile Robot Locomotion via Kernel-based Residual Learning | ICRA · Locomotion | [Paper](https://www.pure.ed.ac.uk/ws/files/404861275/agile_and_versatile_robotic_locomotion_via_kernel_based_residual_learning_V2.pdf) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160704) |
+| 2023 | Agile and Versatile Robot Locomotion via Kernel-based Residual Learning | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2302.07343) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160704) |
 | 2023 | Efficiently Learning Small Policies for Locomotion and Manipulation | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2210.00140) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160791) |
-| 2023 | Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2210.08065) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160293) |
-| 2023 | Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2209.14887) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160357) |
+| 2023 | Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2210.08065) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160293) |
+| 2023 | Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2209.14887) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160357) |
 | 2023 | Visual-Inertial and Leg Odometry Fusion for Dynamic Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2210.02127) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160898) |
 | 2023 | Design of a Jumping Control Framework with Heuristic Landing for Bipedal Robots | IROS · Biped | [Paper](https://arxiv.org/pdf/2304.00536) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342265) |
 | 2023 | Real-time Dynamic Bipedal Avoidance | IROS · Biped | [Paper](https://doi.org/10.1109/IROS55552.2023.10341951) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341951) |
@@ -42,10 +42,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | SMORS: A soft multirotor UAV for multimodal locomotion and robust interaction | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2204.02165) · [Publisher](https://doi.org/10.48550/arXiv.2204.02165) |
 | 2022 | Three-Dimensional Dynamic Running with a Point-Foot Biped based on Differentially Flat SLIP | IROS · Biped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981516) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981516) |
 
-## Recent arXiv papers (147)
+## Recent arXiv papers (148)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-15 | FCTS: Failure-Guided Curriculum Tree Search Over Generated Terrain for Legged Parkour | Narayanan Palghat Parameswaran, Dong-Ki Kim, Jay Patrikar, Santiago Gutierrez et al. | [Abstract](https://arxiv.org/abs/2610.22619) · [PDF](https://arxiv.org/pdf/2610.22619) |
+| 2026-10-05 | Inspect Robots: Evaluating the Capabilities and Safety of Embodied AI | Christopher Leet, Achu Menon, Sravanthi Machcha, Sabrina Zou et al. | [Abstract](https://arxiv.org/abs/2610.06306) · [PDF](https://arxiv.org/pdf/2610.06306) |
+| 2026-10-02 | Towards Safer Autonomous Driving in an Open World: A Dual-Process Approach | Simon Janssen, Michiel Braat, Chris van der Ploeg, Serge Thill et al. | [Abstract](https://arxiv.org/abs/2610.04088) · [PDF](https://arxiv.org/pdf/2610.04088) |
 | 2026-10-01 | Managing Context and Communication in Distributed Agentic UAV Swarms | Andrea Iannoli, Ivan Zyrianoff, Angelo Trotta, Lorenzo Gigli et al. | [Abstract](https://arxiv.org/abs/2610.01569) · [PDF](https://arxiv.org/pdf/2610.01569) |
 | 2026-09-30 | Divide and Collapse: MAPF-Collapse via Exact Decomposition into Independent Sub-Instances | Oren Salzman | [Abstract](https://arxiv.org/abs/2609.39559) · [PDF](https://arxiv.org/pdf/2609.39559) |
 | 2026-09-30 | AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk | Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer | [Abstract](https://arxiv.org/abs/2609.38737) · [PDF](https://arxiv.org/pdf/2609.38737) |
@@ -74,7 +77,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-18 | SWAP: Symmetric Equivariant World-Model for Agile Robot Parkour | Kaixin Lan, Ze Wang, Hongyi Li, Lei Jiang et al. | [Abstract](https://arxiv.org/abs/2606.19928) · [PDF](https://arxiv.org/pdf/2606.19928) |
 | 2026-06-17 | SRL: Combining SLIP Model and Reinforcement Learning for Agile Robotic Jumping | Xiaowen Hu, Linqi Ye, Yudi Zhu, Chenyue Shao et al. | [Abstract](https://arxiv.org/abs/2606.18625) · [PDF](https://arxiv.org/pdf/2606.18625) |
 | 2026-06-04 | TAGA: Terrain-aware Active Gaze Learning for Generalizable Agile Humanoid Locomotion | Peizhuo Li, Hongyi Li, Mingfeng Fan, Yutong Wang et al. | [Abstract](https://arxiv.org/abs/2606.05880) · [PDF](https://arxiv.org/pdf/2606.05880) |
-| 2026-05-25 | ParkourFormer: Integrating Predictive Supervision and Sequence Modeling into Parkour Locomotion | Yanheng Mai, Wenhao Xu, Zirui Huang, Yifei Fu et al. | [Abstract](https://arxiv.org/abs/2605.25782) · [PDF](https://arxiv.org/pdf/2605.25782) |
+| 2026-05-25 | ParkourFormer: Integrating Predictive Supervision and Sequence Modeling into Parkour Locomotion | Yanheng Mai, Wenhao Xu, Zirui Huang, Kailun Huang et al. | [Abstract](https://arxiv.org/abs/2605.25782) · [PDF](https://arxiv.org/pdf/2605.25782) |
 | 2026-05-25 | Acting on the Unseen: Communication-Free Collaborative Filtering for Decentralized Multi-Robot Task Allocation | Alexander Apartsin, Yigal Meshulam, Yehudit Aperstein | [Abstract](https://arxiv.org/abs/2605.25584) · [PDF](https://arxiv.org/pdf/2605.25584) |
 | 2026-05-20 | Gait-Level Motion Design and Evaluation Framework for Grasp-Based Dynamic Locomotion in Microgravity | Chaerim Moon, Joohyung Kim, Justin K. Yim | [Abstract](https://arxiv.org/abs/2605.21704) · [PDF](https://arxiv.org/pdf/2605.21704) |
 | 2026-05-18 | Geometry-Aware Surrogate for Real-Time Hydrodynamics Estimation of Autonomous Ground Vehicles in Amphibious Environments | Ammar Waheed, Luke Gallantree, Zohaib Hasnain | [Abstract](https://arxiv.org/abs/2605.18543) · [PDF](https://arxiv.org/pdf/2605.18543) |
@@ -90,7 +93,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-16 | Scale-Gest: Scalable Model-Space Synthesis and Runtime Selection for On-Device Gesture Detection | Abdul Basit, Saim Rehman, Muhammad Shafique | [Abstract](https://arxiv.org/abs/2605.12506) · [PDF](https://arxiv.org/pdf/2605.12506) |
 | 2026-03-06 | Open-Source Based and ETSI Compliant Cooperative, Connected, and Automated Mini-Cars | Lorenzo Farina, Federico Gavioli, Salvatore Iandolo, Francesco Moretti et al. | [Abstract](https://arxiv.org/abs/2603.06343) · [PDF](https://arxiv.org/pdf/2603.06343) |
 | 2026-02-14 | The More the Merrier: Running Multiple Neuromorphic Components On-Chip for Robotic Control | Evan Eames, Priyadarshini Kannan, Ronan Sangouard, Philipp Plank et al. | [Abstract](https://arxiv.org/abs/2602.13747) · [PDF](https://arxiv.org/pdf/2602.13747) |
-| 2026-02-13 | TRANS: Terrain-aware Reinforcement Learning for Agile Navigation of Quadruped Robots under Social Interactions | Wei Zhu, Irfan Tito Kurniawan, Ye Zhao, Mitsuhiro Hayashibe | [Abstract](https://arxiv.org/abs/2602.12724) · [PDF](https://arxiv.org/pdf/2602.12724) |
 | 2026-02-02 | TTT-Parkour: Rapid Test-Time Training for Perceptive Robot Parkour | Shaoting Zhu, Baijun Ye, Jiaxuan Wang, Jiakang Chen et al. | [Abstract](https://arxiv.org/abs/2602.02331) · [PDF](https://arxiv.org/pdf/2602.02331) |
 | 2026-01-29 | Training slow silicon neurons to control extremely fast robots with spiking reinforcement learning | Irene Ambrosini, Ingo Blakowski, Dmitrii Zendrikov, Cristiano Capone et al. | [Abstract](https://arxiv.org/abs/2601.21548) · [PDF](https://arxiv.org/pdf/2601.21548) |
 | 2026-01-28 | Track-centric Iterative Learning for Global Trajectory Optimization in Autonomous Racing | Youngim Nam, Jungbin Kim, Kyungtae Kang, Cheolhyeon Kwon | [Abstract](https://arxiv.org/abs/2601.21027) · [PDF](https://arxiv.org/pdf/2601.21027) |
@@ -192,7 +194,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-19 | FSD: Fast Self-Supervised Single RGB-D to Categorical 3D Objects | Mayank Lunayach, Sergey Zakharov, Dian Chen, Rares Ambrus et al. | [Abstract](https://arxiv.org/abs/2310.12974) · [PDF](https://arxiv.org/pdf/2310.12974) |
 | 2023-10-19 | From Propeller Damage Estimation and Adaptation to Fault Tolerant Control: Enhancing Quadrotor Resilience | Jeffrey Mao, Jennifer Yeom, Suraj Nair, Giuseppe Loianno | [Abstract](https://arxiv.org/abs/2310.13091) · [PDF](https://arxiv.org/pdf/2310.13091) |
 | 2023-10-19 | Efficient, Dynamic Locomotion through Step Placement with Straight Legs and Rolling Contacts | Stefan Fasano, James Foster, Sylvain Bertrand, Christian DeBuys et al. | [Abstract](https://arxiv.org/abs/2310.13134) · [PDF](https://arxiv.org/pdf/2310.13134) |
-| 2023-10-18 | Guaranteed, Predictable, Polynomial AGV Time-Pathing | James Forster | [Abstract](https://arxiv.org/abs/2310.12006) · [PDF](https://arxiv.org/pdf/2310.12006) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=VLA%20Architectures&specialty=Diffusion%20%26%20Flow%20Policies#research-workbench)
 
-> 2 conference papers · 146 recent arXiv papers
+> 2 conference papers · 159 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,13 +18,28 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | ACG: Action Coherence Guidance for Flow-based Vision-Language-Action models | ICRA · Vision Language Action | [Paper](https://arxiv.org/abs/2510.22201) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695974) |
+| 2026 | ACG: Action Coherence Guidance for Flow-based Vision-Language-Action models | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2510.22201) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695974) |
 | 2025 | VideoVLA: Video Generators Can Be Generalizable Robot Manipulators | NeurIPS · Vla | [Paper](https://arxiv.org/abs/2512.06963) · [Publisher](https://doi.org/10.48550/arXiv.2512.06963) |
 
-## Recent arXiv papers (146)
+## Recent arXiv papers (159)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-16 | MambaAct: Efficient Mamba Action Experts for Flow-Matching Vision-Language-Action Models | Khuyen Pham, Tran Nguyen Le, Edoardo Fazzari, Cesare Stefanini | [Abstract](https://arxiv.org/abs/2610.22951) · [PDF](https://arxiv.org/pdf/2610.22951) |
+| 2026-10-15 | When Plans Change, Remember: Replanning-Guided Visual Memory for Vision-Language-Action Models | Victoria Smelova, Daniil Kazachkov, Georgiy Kazantsev, Iuliia Tsvetkova et al. | [Abstract](https://arxiv.org/abs/2610.22556) · [PDF](https://arxiv.org/pdf/2610.22556) |
+| 2026-10-15 | What Should Robot Policies Learn to Predict? Rethinking Supervision Targets in Vision-Language-Action Learning | Haitao Shen, Hanyu Liu, Yihan Lin, Huiping Liu et al. | [Abstract](https://arxiv.org/abs/2610.21915) · [PDF](https://arxiv.org/pdf/2610.21915) |
+| 2026-10-15 | REKI: Registering Knowledge in VLAs | Juliette Marrie, Paul Pacaud, Adrien Ramanana Rahary, Shizhe Chen et al. | [Abstract](https://arxiv.org/abs/2610.22178) · [PDF](https://arxiv.org/pdf/2610.22178) |
+| 2026-10-14 | When Do Discrete Actions Make Good Continuous Controllers? | Zeji Yi, Soham Dasgupta, Xinyang Zhang, Koushil Sreenath et al. | [Abstract](https://arxiv.org/abs/2610.20429) · [PDF](https://arxiv.org/pdf/2610.20429) |
+| 2026-10-13 | OccWAM: Occupancy World-Action Models with Joint Scene-to-Ego Flow Matching | Qihang Huang, Wenhui Huang, Collister Chua, Shiyu Fang et al. | [Abstract](https://arxiv.org/abs/2610.17688) · [PDF](https://arxiv.org/pdf/2610.17688) |
+| 2026-10-13 | EqC: Equilibrium Energy Control for Introspective Lifelong Robot Learning | Haodong Yang, Runhan Huang, Bowen Zhang, Iofai Lei et al. | [Abstract](https://arxiv.org/abs/2610.18790) · [PDF](https://arxiv.org/pdf/2610.18790) |
+| 2026-10-11 | StreamingWAM: Streaming World Action Modeling via Chunk-Wise Staircase Flow Matching | Shaojie Ren, Jingwen Sun, Zezhi Liu, Hongjin Chen et al. | [Abstract](https://arxiv.org/abs/2610.15585) · [PDF](https://arxiv.org/pdf/2610.15585) |
+| 2026-10-10 | Verify, Act, Distill: Turning Test-Time Compute into Test-Time Adaptation for Vision-Language-Action Models | Kaneyoshi Hiratsuka, Satoshi Yamamori, Jun Morimoto | [Abstract](https://arxiv.org/abs/2610.14885) · [PDF](https://arxiv.org/pdf/2610.14885) |
+| 2026-10-10 | PRISM: Precision Forcing for Generalist Vision-Language-Action Policies | Chenghao Yue, Peiyan Li, Hao Wang, Lei Lv et al. | [Abstract](https://arxiv.org/abs/2610.14704) · [PDF](https://arxiv.org/pdf/2610.14704) |
+| 2026-10-10 | Flow-Support-Weighted Proposals for Test-Time Verified VLA Policies | Chen Zhao, Zipeng Ye, Haitao Shen, Guanlin Li et al. | [Abstract](https://arxiv.org/abs/2610.14588) · [PDF](https://arxiv.org/pdf/2610.14588) |
+| 2026-10-09 | Noise Space Learning for VLA Adaptation | Junjie Lu, Chuheng Zhang, Yucen Wang, Yuhua Jiang et al. | [Abstract](https://arxiv.org/abs/2610.13943) · [PDF](https://arxiv.org/pdf/2610.13943) |
+| 2026-10-09 | Beyond Actions: Learning Future Operation Targets for Vision-Language-Action Models | Min Lin, Bokai Zhou, Jianqi Lin, Kaiyuan Yang et al. | [Abstract](https://arxiv.org/abs/2610.13212) · [PDF](https://arxiv.org/pdf/2610.13212) |
+| 2026-10-08 | Residual Modeling Closes the Regression and Generative Policy Gap in Robot Learning | Yuchen Zhou, Jiacheng You, Weikang Wan, Weijun Dong et al. | [Abstract](https://arxiv.org/abs/2610.12231) · [PDF](https://arxiv.org/pdf/2610.12231) |
+| 2026-10-08 | LeWAM: End-to-End World and Action Modeling with JEPAs | Minghao Fu, Tavis Siebert, Eryk Halicki, Randall Balestriero | [Abstract](https://arxiv.org/abs/2610.12818) · [PDF](https://arxiv.org/pdf/2610.12818) |
 | 2026-10-01 | World-Calibrated Proposal-to-Action Flow for Vision-Language-Action Models | Jie He, Wei Li, Junwen Tong, Rui Shao et al. | [Abstract](https://arxiv.org/abs/2610.02323) · [PDF](https://arxiv.org/pdf/2610.02323) |
 | 2026-10-01 | NarrativeFlow: Flow-Based Vision-Language-Action Model Using Robot Velocity Fields | Shota Kobayashi, Koki Seno, Daichi Yashima, Komei Sugiura | [Abstract](https://arxiv.org/abs/2610.00981) · [PDF](https://arxiv.org/pdf/2610.00981) |
 | 2026-10-01 | Kinematic MeanFlow: One-Step Action Generation Policy for Robotic Foundation Models | Jiawei Fan, Sifeng Wang, Yuqing Hou, Anbang Yao | [Abstract](https://arxiv.org/abs/2610.00864) · [PDF](https://arxiv.org/pdf/2610.00864) |
@@ -71,7 +86,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-08-04 | Track4Action: Distilling World-Centric 3D Tracker into Vision-Language-Action Policies | Chenyi Wang, Xinkai Wang, Bokai Lin, Jialin Tian et al. | [Abstract](https://arxiv.org/abs/2608.03727) · [PDF](https://arxiv.org/pdf/2608.03727) |
 | 2026-08-04 | How Should Vision-Language-Action Models Use Proprioceptive State? | Yiren Zhao, Ziyang Chen, Ziyang Rao, Pengteng Li et al. | [Abstract](https://arxiv.org/abs/2608.03052) · [PDF](https://arxiv.org/pdf/2608.03052) |
 | 2026-08-02 | WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA | Zhihao Zhu, Hanlin Shang, Mingwang Xu, Feipeng Cai et al. | [Abstract](https://arxiv.org/abs/2608.01035) · [PDF](https://arxiv.org/pdf/2608.01035) |
-| 2026-08-02 | Demystifying When and Why VLAs Fail in Contact-Rich Tasks and How to Fix Them | Carlota Parés-Morlans, Nils Kuhn, Isabel Liu, Alberta Longhini et al. | [Abstract](https://arxiv.org/abs/2608.01402) · [PDF](https://arxiv.org/pdf/2608.01402) |
 | 2026-07-31 | Safe Vision Language Action Models via Barrier Enhanced Flow Matching | Kasra Sinaei, Hung-Chieh Wu, Donald Ebeigbe | [Abstract](https://arxiv.org/abs/2607.29569) · [PDF](https://arxiv.org/pdf/2607.29569) |
 | 2026-07-31 | FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling | Li Lin, Wujun Xu, Weiwei Meng, Kaiwen Xia et al. | [Abstract](https://arxiv.org/abs/2607.29596) · [PDF](https://arxiv.org/pdf/2607.29596) |
 | 2026-07-31 | FBFM: A Training-Free Asynchronous Feedback Mechanism for Flow-Matching in World-Action Models Execution | Peize Li, Ruimeng Zhang, Ru Zhang, Cong Huang et al. | [Abstract](https://arxiv.org/abs/2607.29235) · [PDF](https://arxiv.org/pdf/2607.29235) |
@@ -87,8 +101,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-06 | SEAM: Smooth Execution of Action-Chunked Motion for Vision-Language-Action Policies | Dijia Zhan, Xuemiao Xu, Jinyi Li, Jie Tang | [Abstract](https://arxiv.org/abs/2607.04609) · [PDF](https://arxiv.org/pdf/2607.04609) |
 | 2026-07-05 | XS-VLA: Teaching Tiny Vision-Language-Action Models with Spatial Supervision and Demonstration Conditioning | Iok Tong Lei, Ying Jie Yap, Wei Huang, Qingchen Xie et al. | [Abstract](https://arxiv.org/abs/2607.04171) · [PDF](https://arxiv.org/pdf/2607.04171) |
 | 2026-07-02 | VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment | Guoyang Xia, Fengfa Li, Hongjin Ji, Lei Ren et al. | [Abstract](https://arxiv.org/abs/2607.01586) · [PDF](https://arxiv.org/pdf/2607.01586) |
-| 2026-07-02 | LIME: Learning Intent-aware Camera Motion from Egocentric Video | Boyang Sun, Jiajie Li, Yung-Hsu Yang, Chenyangguang Zhang et al. | [Abstract](https://arxiv.org/abs/2607.02417) · [PDF](https://arxiv.org/pdf/2607.02417) |
-| 2026-07-02 | Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies | Liuhaichen Yang, Zhuang Jiang, Chenchao Sheng, Zezhi Tang | [Abstract](https://arxiv.org/abs/2607.02092) · [PDF](https://arxiv.org/pdf/2607.02092) |
+| 2026-07-02 | Guided Action Flow: Value-Guided Sampling for Frozen Vision-Language-Action Policies | Liuhaichen Yang, Zhuang Jiang, Chenchao Sheng, Ningwei Bai et al. | [Abstract](https://arxiv.org/abs/2607.02092) · [PDF](https://arxiv.org/pdf/2607.02092) |
 | 2026-07-01 | Neuro-Symbolic Safety Guidance for Vision-Language-Action Models via Constrained Flow Matching | William English, Hao Zheng, Rickard Ewetz | [Abstract](https://arxiv.org/abs/2607.01378) · [PDF](https://arxiv.org/pdf/2607.01378) |
 | 2026-06-29 | Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision | Haoyang Li, Guanlin Li, Youhe Feng, Chen Zhao et al. | [Abstract](https://arxiv.org/abs/2606.30552) · [PDF](https://arxiv.org/pdf/2606.30552) |
 | 2026-06-29 | OpenSPM: An Environment-Transferable Robotic Key Spatial Pose Memory and Closed-Loop High-Frequency Flow-Matching Action Generation Model | Iok Tong Lei, Qingchen Xie, Yifan Wang, Yap Ying Jie et al. | [Abstract](https://arxiv.org/abs/2606.29936) · [PDF](https://arxiv.org/pdf/2606.29936) |
@@ -124,11 +137,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-04-15 | HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System | Tianshuo Yang, Guanyu Chen, Yutian Chen, Zhixuan Liang et al. | [Abstract](https://arxiv.org/abs/2604.14125) · [PDF](https://arxiv.org/pdf/2604.14125) |
 | 2026-04-10 | VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis | Xiaolei Lang, Yang Wang, Yukun Zhou, Chaojun Ni et al. | [Abstract](https://arxiv.org/abs/2604.09330) · [PDF](https://arxiv.org/pdf/2604.09330) |
 | 2026-04-03 | The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling | Takuya Shiba | [Abstract](https://arxiv.org/abs/2604.03191) · [PDF](https://arxiv.org/pdf/2604.03191) |
-| 2026-04-02 | AnchorVLA: Anchored Diffusion for Efficient End-to-End Mobile Manipulation | Jia Syuen Lim, Zhizhen Zhang, Peter Bohm, Brendan Tidd et al. | [Abstract](https://arxiv.org/abs/2604.01567) · [PDF](https://arxiv.org/pdf/2604.01567) |
 | 2026-03-30 | StreamingVLA: Streaming Vision-Language-Action Model with Action Flow Matching and Adaptive Early Observation | Yiran Shi, Dongqi Guo, Tianchen Zhao, Feng Gao et al. | [Abstract](https://arxiv.org/abs/2603.28565) · [PDF](https://arxiv.org/pdf/2603.28565) |
 | 2026-03-30 | FlowHijack: A Dynamics-Aware Backdoor Attack on Flow-Matching Vision-Language-Action Models | Xinyuan An, Tao Luo, Gengyun Peng, Yaobing Wang et al. | [Abstract](https://arxiv.org/abs/2604.09651) · [PDF](https://arxiv.org/pdf/2604.09651) |
 | 2026-03-26 | $π$, But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation | Johnathan Tucker, Denis Liu, Aiden Swann, Allen Ren et al. | [Abstract](https://arxiv.org/abs/2603.25038) · [PDF](https://arxiv.org/pdf/2603.25038) |
-| 2026-03-18 | ProbeFlow: Training-Free Adaptive Flow Matching for Vision-Language-Action Models | Zhou Fang, Jiaqi Wang, Yi Zhou, Qiongfeng Shi | [Abstract](https://arxiv.org/abs/2603.17850) · [PDF](https://arxiv.org/pdf/2603.17850) |
+| 2026-03-18 | TokenPB: Enabling VLA Action Self-Verification via VLM Token Probability Bucketing | Chen Zhao, Zhuoran Wang, Haoyang Li, Shifeng Bao et al. | [Abstract](https://arxiv.org/abs/2603.18091) · [PDF](https://arxiv.org/pdf/2603.18091) |
+| 2026-03-18 | ProbeFlow: Training-Free Adaptive Flow Matching for Vision-Language-Action Models | Zhou Fang, Jiaqi Wang, Wenzhuo Li, Yi Zhou et al. | [Abstract](https://arxiv.org/abs/2603.17850) · [PDF](https://arxiv.org/pdf/2603.17850) |
 | 2026-03-16 | HapticVLA: Contact-Rich Manipulation via Vision-Language-Action Model without Inference-Time Tactile Sensing | Konstantin Gubernatorov, Mikhail Sannikov, Ilya Mikhalchuk, Egor Kuznetsov et al. | [Abstract](https://arxiv.org/abs/2603.15257) · [PDF](https://arxiv.org/pdf/2603.15257) |
 | 2026-03-13 | PVI: Plug-in Visual Injection for Vision-Language-Action Models | Zezhou Zhang, Songxin Zhang, Xiao Xiong, Junjie Zhang et al. | [Abstract](https://arxiv.org/abs/2603.12772) · [PDF](https://arxiv.org/pdf/2603.12772) |
 | 2026-03-05 | Online Self-Training for Co-Adaptation in Hierarchical Diffusion Policies | Clemence Grislain, Mathilde Kappel, Olivier Sigaud, Mohamed Chetouani | [Abstract](https://arxiv.org/abs/2603.05291) · [PDF](https://arxiv.org/pdf/2603.05291) |

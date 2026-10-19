@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Safety%2C%20Robustness%20%26%20Reproducibility&specialty=Uncertainty%20%26%20Out-of-distribution%20Testing#research-workbench)
 
-> 0 conference papers · 40 recent arXiv papers
+> 0 conference papers · 43 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,10 +18,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (40)
+## Recent arXiv papers (43)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-10 | AnyRank: Reliable Anytime Policy Ranking via Sequential Testing | Apurva Badithela, David Snyder, Tenny Yin, Jade Sceats et al. | [Abstract](https://arxiv.org/abs/2610.14603) · [PDF](https://arxiv.org/pdf/2610.14603) |
+| 2026-10-05 | Propagating Elevation-Map Uncertainty Through the Contact Maximum in Closed Form | Aleš Kučera, Karel Zimmermann | [Abstract](https://arxiv.org/abs/2610.06103) · [PDF](https://arxiv.org/pdf/2610.06103) |
+| 2026-10-05 | FOCUS: Fine-Grained Open-Vocabulary Change Detection for Uncertainty-Aware Semi-Static Scenes | Can Xu, Mingfeng Yuan, Mahan Mohammadi, Steven L. Waslander | [Abstract](https://arxiv.org/abs/2610.05639) · [PDF](https://arxiv.org/pdf/2610.05639) |
 | 2026-09-17 | Learning Reliable Parking Policies via Offline Reinforcement Learning with Quantized Action Representations | Zewei Yang, Zengqi Peng, Jun Ma | [Abstract](https://arxiv.org/abs/2609.19894) · [PDF](https://arxiv.org/pdf/2609.19894) |
 | 2026-06-17 | UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning | Mohamed Nabail, Leo Kaixuan Cheng, Jingmin Wang, Nicholas Rhinehart | [Abstract](https://arxiv.org/abs/2606.19328) · [PDF](https://arxiv.org/pdf/2606.19328) |
 | 2026-06-01 | World-Task Factorization for Robot Learning | Eduardo Sebastián, Adrian Pfisterer, Vito Mengers, Oliver Brock et al. | [Abstract](https://arxiv.org/abs/2606.02027) · [PDF](https://arxiv.org/pdf/2606.02027) |

@@ -20,8 +20,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | Trajectory Optimization for In-Hand Manipulation with Tactile Force Control | IROS · In Hand | [Paper](https://arxiv.org/pdf/2503.08222) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246500) |
 | 2025 | Vibration-induced Friction Modulation to Enable Controlled Sliding for In-hand Manipulation | IROS · In Hand | [Paper](https://doi.org/10.1109/IROS60139.2025.11247140) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247140) |
-| 2025 | Wearable Roller Rings to Augment In-Hand Manipulation through Active Surfaces | IROS · In Hand | [Paper](https://arxiv.org/abs/2403.13132) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247531) |
-| 2024 | In-Hand Following of Deformable Linear Objects Using Dexterous Fingers with Tactile Sensing | IROS · Dexterous | [Paper](https://arxiv.org/abs/2403.12676) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802081) |
+| 2025 | Wearable Roller Rings to Augment In-Hand Manipulation through Active Surfaces | IROS · In Hand | [Paper](https://arxiv.org/pdf/2403.13132) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247531) |
+| 2024 | In-Hand Following of Deformable Linear Objects Using Dexterous Fingers with Tactile Sensing | IROS · Dexterous | [Paper](https://arxiv.org/pdf/2403.12676) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802081) |
 | 2024 | Stick Roller: Precise In-hand Stick Rolling with a Sample-Efficient Tactile Model | IROS · In Hand | [Paper](https://doi.org/10.1109/IROS58592.2024.10802003) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802003) |
 | 2023 | Tactile Identification of Object Shapes via In-Hand Manipulation with A Minimalistic Barometric Tactile Sensor Array | ICRA · In Hand | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160975) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160975) |
 

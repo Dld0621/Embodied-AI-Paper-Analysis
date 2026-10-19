@@ -2,31 +2,31 @@
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 81 papers · complete list for this taxonomy leaf
+> 80 papers · complete list for this taxonomy leaf
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2023 | A New Path: Scaling Vision-and-Language Navigation with Synthetic Instructions and Imitation Learning | CVPR · Navigation | [Paper](https://arxiv.org/pdf/2210.03112) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.01041) |
 | 2023 | CoWs on Pasture: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation | CVPR · Navigation | [Paper](https://arxiv.org/pdf/2203.10421) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.02219) |
-| 2023 | Iterative Vision-and-Language Navigation | CVPR · Navigation | [Paper](https://arxiv.org/pdf/2210.03087) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.01433) |
+| 2023 | Iterative Vision-and-Language Navigation | CVPR · Navigation | [Paper](https://arxiv.org/abs/2210.03087) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.01433) |
 | 2023 | Context-Aware Deep Reinforcement Learning for Autonomous Robotic Navigation in Unknown Area | CoRL · Navigation | [Paper](https://www.semanticscholar.org/paper/29e11e51d01f52bb28f1d335227270806c090452) · [Index](https://dblp.org/rec/conf/corl/LiangWCCZS23) |
 | 2023 | HomeRobot: Open-Vocabulary Mobile Manipulation | CoRL · Mobile manipulation | [Paper](https://arxiv.org/abs/2306.11565) · [Official](https://proceedings.mlr.press/v229/) · [Code](https://github.com/facebookresearch/home-robot) |
 | 2023 | Tell Me Where to Go: A Composable Framework for Context-Aware Embodied Robot Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2306.09523) · [Publisher](https://doi.org/10.48550/arXiv.2306.09523) |
 | 2023 | ViNT: A Foundation Model for Visual Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2306.14846) · [Publisher](https://doi.org/10.48550/arXiv.2306.14846) |
-| 2023 | Exploiting Proximity-Aware Tasks for Embodied Social Navigation | ICCV · Navigation | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Cancelli_Exploiting_Proximity-Aware_Tasks_for_Embodied_Social_Navigation_ICCV_2023_paper.pdf) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.01006) |
+| 2023 | Exploiting Proximity-Aware Tasks for Embodied Social Navigation | ICCV · Navigation | [Paper](https://arxiv.org/pdf/2212.00767) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.01006) |
 | 2023 | Multi-Object Navigation with dynamically learned neural implicit representations | ICCV · Navigation | [Paper](https://arxiv.org/pdf/2210.05129) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.01010) |
 | 2023 | Skill Transformer: A Monolithic Policy for Mobile Manipulation | ICCV · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2308.09873) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.00996) |
 | 2023 | Learning Simultaneous Navigation and Construction in Grid Worlds | ICLR · Navigation | [Paper](https://www.semanticscholar.org/paper/ae19c39923e1d7977c2c542fe262361b4182557c) · [Index](https://dblp.org/rec/conf/iclr/HanWHGPR023) |
 | 2023 | Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds | ICLR · Embodied Agent | [Paper](https://arxiv.org/abs/2310.13255) · [Publisher](https://doi.org/10.48550/arXiv.2310.13255) |
 | 2023 | Adaptive and Explainable Deployment of Navigation Skills via Hierarchical Deep Reinforcement Learning | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2305.19746) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160371) |
-| 2023 | Adaptive Risk-Tendency: Nano Drone Navigation in Cluttered Environments with Distributional Reinforcement Learning | ICRA · Navigation | [Paper](https://repository.tudelft.nl/file/File_a0ce3fb3-18f6-454c-be7e-ec52aa7f035f) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160324) |
-| 2023 | An Architecture for Reactive Mobile Manipulation On-The-Move | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/abs/2212.06991) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161021) |
-| 2023 | Benchmarking Reinforcement Learning Techniques for Autonomous Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2210.04839) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160583) |
-| 2023 | Computational Tradeoff in Minimum Obstacle Displacement Planning for Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2302.07114) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161372) |
+| 2023 | Adaptive Risk-Tendency: Nano Drone Navigation in Cluttered Environments with Distributional Reinforcement Learning | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2203.14749) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160324) |
+| 2023 | An Architecture for Reactive Mobile Manipulation On-The-Move | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2212.06991) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161021) |
+| 2023 | Benchmarking Reinforcement Learning Techniques for Autonomous Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2210.04839) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160583) |
+| 2023 | Computational Tradeoff in Minimum Obstacle Displacement Planning for Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2302.07114) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161372) |
 | 2023 | CropNav: a Framework for Autonomous Navigation in Real Farms | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2411.10974) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160990) |
 | 2023 | ExAug: Robot-Conditioned Navigation Policies via Geometric Experience Augmentation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2210.07450) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160761) |
 | 2023 | External Camera-Based Mobile Robot Pose Estimation for Collaborative Perception with Smart Edge Sensors | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2303.03797) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160892) |
-| 2023 | GNM: A General Navigation Model to Drive Any Robot | ICRA · Navigation | [Paper](https://arxiv.org/abs/2210.03370) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161227) |
+| 2023 | GNM: A General Navigation Model to Drive Any Robot | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2210.03370) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161227) |
 | 2023 | GP-Frontier for Local Mapless Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2307.11717) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161230) |
 | 2023 | Improving robot navigation in crowded environments using intrinsic rewards | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2302.06554) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160876) |
 | 2023 | Multi-Object Navigation in real environments using hybrid policies | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2401.13800) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161030) |
@@ -34,7 +34,7 @@
 | 2023 | On Legible and Predictable Robot Navigation in Multi-Agent Environments | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160572) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160572) |
 | 2023 | Online Safety Property Collection and Refinement for Safe Deep Reinforcement Learning in Mapless Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2302.06695) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161312) |
 | 2023 | Parallel Reinforcement Learning Simulation for Visual Quadrotor Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2209.11094) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160675) |
-| 2023 | RAMP: A Risk-Aware Mapping and Planning Pipeline for Fast Off-Road Ground Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2210.06605) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160602) |
+| 2023 | RAMP: A Risk-Aware Mapping and Planning Pipeline for Fast Off-Road Ground Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2210.06605) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160602) |
 | 2023 | Rmagine: 3D Range Sensor Simulation in Polygonal Maps via Ray Tracing for Embedded Hardware on Mobile Robots | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2209.13397) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161388) |
 | 2023 | Robust Navigation with Cross-Modal Fusion and Knowledge Transfer | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2309.13266) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161405) |
 | 2023 | Safe and Efficient Navigation in Extreme Environments using Semantic Belief Graphs | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2304.00645) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161056) |
@@ -44,12 +44,12 @@
 | 2023 | UPLIFT: Unsupervised Person Labeling and Identification via Cooperative Learning with Mobile Robots | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161103) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161103) |
 | 2023 | User-Conditioned Neural Control Policies for Mobile Robotics | ICRA · Mobile Robot | [Paper](https://www.zora.uzh.ch/id/eprint/257364/1/ICRA23_Bauersfeld.pdf) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160851) |
 | 2023 | VINet: Visual and Inertial-based Terrain Classification and Adaptive Navigation over Unknown Terrain | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2209.07725) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161251) |
-| 2023 | Visibility-Aware Navigation Among Movable Obstacles | ICRA · Navigation | [Paper](https://dspace.mit.edu/bitstream/1721.1/150289/1/muguiraiturralde-jmuguira-meng-eecs-2023-thesis.pdf) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160865) |
-| 2023 | Visual Language Maps for Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2210.05714) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160969) |
+| 2023 | Visibility-Aware Navigation Among Movable Obstacles | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2212.02671) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160865) |
+| 2023 | Visual Language Maps for Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2210.05714) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160969) |
 | 2023 | WAVN: Wide Area Visual Navigation for Large-scale, GPS-denied Environments | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160511) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160511) |
 | 2023 | A Safety Filter for Realizing Safe Robot Navigation in Crowds | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342054) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342054) |
 | 2023 | A Thousand Worlds: Scenery Specification and Generation for Simulation-Based Testing of Mobile Robot Navigation Stacks | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342315) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342315) |
-| 2023 | Aggregating Single-Wheeled Mobile Robots for Omnidirectional Movements | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2308.03328) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341772) |
+| 2023 | Aggregating Single-Wheeled Mobile Robots for Omnidirectional Movements | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2308.03328) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341772) |
 | 2023 | All Aware Robot Navigation in Human Environments Using Deep Reinforcement Learning | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS55552.2023.10341477) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341477) |
 | 2023 | An Attentional Recurrent Neural Network for Occlusion-Aware Proactive Anomaly Detection in Field Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2309.16826) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341852) |
 | 2023 | Approximation Algorithms for Charging Station Placement for Mobile Robots | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS55552.2023.10341361) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341361) |
@@ -80,7 +80,6 @@
 | 2023 | Temporal Logic-Based Intent Monitoring for Mobile Robots | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS55552.2023.10341623) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341623) |
 | 2023 | Terrain-Aware Kinodynamic Planning with Efficiently Adaptive State Lattices for Mobile Robot Navigation in Off-Road Environments | IROS · Navigation | [Paper](https://arxiv.org/pdf/2504.17889) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341537) |
 | 2023 | Toward Human-Like Social Robot Navigation: A Large-Scale, Multi-Modal, Social Human Navigation Dataset | IROS · Navigation | [Paper](https://arxiv.org/pdf/2303.14880) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342447) |
-| 2023 | VERN: Vegetation-Aware Robot Navigation in Dense Unstructured Outdoor Environments | IROS · Navigation | [Paper](https://arxiv.org/pdf/2303.14502) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342393) |
 | 2023 | Vision-Based Vineyard Navigation Solution with Automatic Annotation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2303.14347) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341261) |
 | 2023 | Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents | NeurIPS · Grounded planning | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/bb3cfcb0284642a973dd631ec9184f2f-Abstract-Conference.html) · [Official](https://proceedings.neurips.cc/paper_files/paper/2023/hash/bb3cfcb0284642a973dd631ec9184f2f-Abstract-Conference.html) |
 | 2023 | NeRF-IBVS: Visual Servo Based on NeRF for Visual Localization and Navigation | NeurIPS · Navigation | [Paper](https://doi.org/10.52202/075280-0365) · [Publisher](https://doi.org/10.52202/075280-0365) |

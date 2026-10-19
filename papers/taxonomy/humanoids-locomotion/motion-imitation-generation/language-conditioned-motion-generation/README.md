@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Motion%20Imitation%20%26%20Generation&specialty=Language-conditioned%20Motion%20Generation#research-workbench)
 
-> 0 conference papers · 62 recent arXiv papers
+> 0 conference papers · 65 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,10 +18,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (62)
+## Recent arXiv papers (65)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-09 | Sonic-AMG: Streaming Human Motion Generation from Spatial Audio | Jingcheng Ni, Zekun Li, Zhiyang Dou, Xiaoyan Cong et al. | [Abstract](https://arxiv.org/abs/2610.13300) · [PDF](https://arxiv.org/pdf/2610.13300) |
+| 2026-10-08 | A Physics-Informed Collision Learning Framework for Collaborative Robot Motion Generation | Chen Cai, Steven Liu | [Abstract](https://arxiv.org/abs/2610.12404) · [PDF](https://arxiv.org/pdf/2610.12404) |
+| 2026-10-05 | Controllable and Photorealistic Pedestrian Risky Motion Generation for End-to-End Driving Safety Evaluation | Siyuan Liu, Miao Li, Haibao Yu, Haohong Lin et al. | [Abstract](https://arxiv.org/abs/2610.06171) · [PDF](https://arxiv.org/pdf/2610.06171) |
 | 2026-09-20 | MoSAT: Human Motion Generation from Spatial Audio and Textual Description | Shuyang Xu, Zhiyang Dou, Yiduo Hao, Zekun Li et al. | [Abstract](https://arxiv.org/abs/2609.23797) · [PDF](https://arxiv.org/pdf/2609.23797) |
 | 2026-08-21 | Natural Sit-to-Stand Motion Synthesis For Humanoids via Guided Assistance Curricula and Staged Rewards | Meet Pal Singh, Vyankatesh Ashtekar, Ashish Dutta | [Abstract](https://arxiv.org/abs/2608.20823) · [PDF](https://arxiv.org/pdf/2608.20823) |
 | 2026-08-19 | EMODY Flow: Emotion-Aware Audio-Driven Full-Body Motion Generation | Harsh Kumar Agarwal, Xavier Alameda-Pineda, Olivier Perrotin | [Abstract](https://arxiv.org/abs/2609.16011) · [PDF](https://arxiv.org/pdf/2609.16011) |

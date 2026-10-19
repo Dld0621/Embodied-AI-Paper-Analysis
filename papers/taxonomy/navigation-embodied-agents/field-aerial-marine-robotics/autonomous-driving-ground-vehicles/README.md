@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Field%2C%20Aerial%20%26%20Marine%20Robotics&specialty=Autonomous%20Driving%20%26%20Ground%20Vehicles#research-workbench)
 
-> 13 conference papers · 138 recent arXiv papers
+> 13 conference papers · 140 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,22 +20,25 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-Based Decision-Making Systems | ICLR · Embodied Agent | [Paper](https://arxiv.org/abs/2405.20774) · [Index](https://dblp.org/rec/conf/iclr/JiaoXYSWWC025) |
 | 2025 | Anomalies-by-Synthesis: Anomaly Detection using Generative Diffusion Models for Off-Road Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2505.22805) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128540) |
-| 2025 | SALON: Self-supervised Adaptive Learning for Off-road Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2412.07826) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128268) |
-| 2025 | Topological Mapping for Traversability-Aware Long-Range Navigation in Off-Road Terrain | ICRA · Navigation | [Paper](https://arxiv.org/abs/2410.01925) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128536) |
-| 2025 | UAV-Assisted Self-Supervised Terrain Awareness for Off-Road Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.18253) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128050) |
-| 2025 | Multimodal Integrated Prediction and Decision-making with Adaptive Interaction Modality Explorations | IROS · Exploration | [Paper](https://arxiv.org/abs/2408.13742) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247130) |
+| 2025 | SALON: Self-supervised Adaptive Learning for Off-road Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2412.07826) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128268) |
+| 2025 | Topological Mapping for Traversability-Aware Long-Range Navigation in Off-Road Terrain | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2410.01925) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128536) |
+| 2025 | UAV-Assisted Self-Supervised Terrain Awareness for Off-Road Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.18253) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128050) |
+| 2025 | Multimodal Integrated Prediction and Decision-making with Adaptive Interaction Modality Explorations | IROS · Exploration | [Paper](https://arxiv.org/pdf/2408.13742) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247130) |
 | 2025 | ADVEDM:Fine-grained Adversarial Attack against VLM-based Embodied Agents | NeurIPS · Embodied Agent | [Paper](https://arxiv.org/abs/2509.16645) · [Publisher](https://doi.org/10.48550/arXiv.2509.16645) |
-| 2024 | Follow the Footprints: Self-supervised Traversability Estimation for Off-road Vehicle Navigation based on Geometric and Visual Cues | ICRA · Navigation | [Paper](https://arxiv.org/abs/2402.15363) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611198) |
-| 2024 | Multi-Sample Long Range Path Planning under Sensing Uncertainty for Off-Road Autonomous Driving | ICRA · Path Planning | [Paper](https://arxiv.org/abs/2403.11298) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610476) |
+| 2024 | Follow the Footprints: Self-supervised Traversability Estimation for Off-road Vehicle Navigation based on Geometric and Visual Cues | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2402.15363) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611198) |
+| 2024 | Multi-Sample Long Range Path Planning under Sensing Uncertainty for Off-Road Autonomous Driving | ICRA · Path Planning | [Paper](https://arxiv.org/pdf/2403.11298) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610476) |
 | 2023 | Learning Risk-Aware Costmaps via Inverse Reinforcement Learning for Off-Road Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2302.00134) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161268) |
 | 2022 | Active Learning for Testing and Evaluation in Field Robotics: A Case Study in Autonomous, Off-Road Navigation | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9812453) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812453) |
 | 2022 | Risk-Aware Off-Road Navigation via a Learned Speed Distribution Map | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.13429) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982200) |
 | 2022 | VI-IKD: High-Speed Accurate Off-Road Navigation using Learned Visual-Inertial Inverse Kinodynamics | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.15983) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982060) |
 
-## Recent arXiv papers (138)
+## Recent arXiv papers (140)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-06 | Toward Evidence-Driven Human-Agent-Robot Teaming for Earth-Independent Anomaly Triage | Ignacio G Lopez-Francos, Alexis Gallagher, Samira Shalal | [Abstract](https://arxiv.org/abs/2610.08933) · [PDF](https://arxiv.org/pdf/2610.08933) |
+| 2026-10-06 | CUSP: CUSUM-Governed Survival Hazard Alarms at the Perception Onset for Off-Road Navigation | Inuk Kang, Seung-Woo Seo | [Abstract](https://arxiv.org/abs/2610.07882) · [PDF](https://arxiv.org/pdf/2610.07882) |
+| 2026-10-03 | Autoware in Construction: Gap Analysis and LiDAR Perception Toward Off-Road Autonomous Driving | Yu Otsuki, Teja Emmey, Sena Matsushita, Akiro Harada et al. | [Abstract](https://arxiv.org/abs/2610.04187) · [PDF](https://arxiv.org/pdf/2610.04187) |
 | 2026-09-30 | Efficient Multi-Modal Planning with Reward-Guided Preference Optimization for Autonomous Driving | Chenglin Chen, Lujia Wang, Xinhu Zheng, Jun Ma et al. | [Abstract](https://arxiv.org/abs/2609.38862) · [PDF](https://arxiv.org/pdf/2609.38862) |
 | 2026-09-24 | WALT: Learning World-Model-Aligned Latent Trajectories for Autonomous Driving | Mingkai Jia, Jiaxin Guo, Zhijian Shu, Jiawei Xu et al. | [Abstract](https://arxiv.org/abs/2609.30436) · [PDF](https://arxiv.org/pdf/2609.30436) |
 | 2026-09-17 | Vehicle Trajectory Prediction via Neural Fusion of Multiple EKF-Based Trajectory Candidates | Seong-Jun Kim, Seung-Hyun Kong | [Abstract](https://arxiv.org/abs/2609.19813) · [PDF](https://arxiv.org/pdf/2609.19813) |
@@ -97,7 +100,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-05-30 | SAH-Drive: A Scenario-Aware Hybrid Planner for Closed-Loop Vehicle Trajectory Generation | Yuqi Fan, Zhiyong Cui, Zhenning Li, Yilong Ren et al. | [Abstract](https://arxiv.org/abs/2505.24390) · [PDF](https://arxiv.org/pdf/2505.24390) |
 | 2025-05-28 | Anomalies by Synthesis: Anomaly Detection using Generative Diffusion Models for Off-Road Navigation | Siddharth Ancha, Sunshine Jiang, Travis Manderson, Laura Brandt et al. | [Abstract](https://arxiv.org/abs/2505.22805) · [PDF](https://arxiv.org/pdf/2505.22805) |
 | 2025-05-23 | Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras | Masataka Kobayashi, Shintaro Shiba, Quan Kong, Norimasa Kobori et al. | [Abstract](https://arxiv.org/abs/2505.17582) · [PDF](https://arxiv.org/pdf/2505.17582) |
-| 2025-05-21 | Generative AI for Autonomous Driving: A Review | Katharina Winter, Abhishek Vivekanandan, Rupert Polley, Yinzhe Shen et al. | [Abstract](https://arxiv.org/abs/2505.15863) · [PDF](https://arxiv.org/pdf/2505.15863) |
 | 2025-05-14 | TransDiffuser: Diverse Trajectory Generation with Decorrelated Multi-modal Representation for End-to-end Autonomous Driving | Xuefeng Jiang, Yuan Ma, Pengxiang Li, Leimeng Xu et al. | [Abstract](https://arxiv.org/abs/2505.09315) · [PDF](https://arxiv.org/pdf/2505.09315) |
 | 2025-04-04 | CORTEX-AVD: A Framework for CORner Case Testing and EXploration in Autonomous Vehicle Development | Gabriel Kenji Godoy Shimanuki, Alexandre Moreira Nascimento, Lucio Flavio Vismari, Joao Batista Camargo Junior et al. | [Abstract](https://arxiv.org/abs/2504.03989) · [PDF](https://arxiv.org/pdf/2504.03989) |
 | 2025-04-02 | From Shadows to Safety: Occlusion Tracking and Risk Mitigation for Urban Autonomous Driving | Korbinian Moller, Luis Schwarzmeier, Johannes Betz | [Abstract](https://arxiv.org/abs/2504.01408) · [PDF](https://arxiv.org/pdf/2504.01408) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=Agentic%20Robot%20Systems#research-workbench)
 
-> 13 conference papers · 188 recent arXiv papers
+> 13 conference papers · 195 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,24 +18,33 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | ActionReasoning: Robot Action Reasoning in 3D Space with LLM for Robotic Brick Stacking | ICRA · Llm | [Paper](https://arxiv.org/abs/2602.21161) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697038) |
+| 2026 | ActionReasoning: Robot Action Reasoning in 3D Space with LLM for Robotic Brick Stacking | ICRA · Llm | [Paper](https://arxiv.org/pdf/2602.21161) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697038) |
 | 2026 | CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction | ICRA · Llm | [Paper](https://arxiv.org/pdf/2602.06038) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696967) |
-| 2026 | From Language to Action: Can LLM-Based Agents Be Used for Embodied Robot Cognition? | ICRA · Llm | [Paper](https://arxiv.org/abs/2603.03148) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697072) |
-| 2026 | LLM-Driven Corrective Robot Operation Code Generation with Static Text-Based Simulation | ICRA · Llm | [Paper](https://arxiv.org/abs/2512.02002) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696332) |
-| 2026 | PSALM-V: Automating Symbolic Planning in Interactive Visual Environments with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2506.20097) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695799) |
+| 2026 | From Language to Action: Can LLM-Based Agents Be Used for Embodied Robot Cognition? | ICRA · Llm | [Paper](https://arxiv.org/pdf/2603.03148) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697072) |
+| 2026 | LLM-Driven Corrective Robot Operation Code Generation with Static Text-Based Simulation | ICRA · Llm | [Paper](https://arxiv.org/pdf/2512.02002) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696332) |
+| 2026 | PSALM-V: Automating Symbolic Planning in Interactive Visual Environments with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2506.20097) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695799) |
 | 2025 | AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environments | IROS · Llm | [Paper](https://arxiv.org/pdf/2409.17655) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246901) |
 | 2025 | Automatic MILP Model Construction for Multi-Robot Task Allocation and Scheduling Based on Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2503.13813) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246517) |
 | 2025 | AutoMisty: A Multi-Agent LLM Framework for Automated Code Generation in the Misty Social Robot | IROS · Llm | [Paper](https://arxiv.org/abs/2503.06791) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247695) |
-| 2025 | Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation | IROS · Foundation Model | [Paper](https://arxiv.org/abs/2503.01700) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247174) |
+| 2025 | Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation | IROS · Foundation Model | [Paper](https://arxiv.org/pdf/2503.01700) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247174) |
 | 2025 | MALMM: Multi-Agent Large Language Models for Zero-Shot Robotic Manipulation | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2411.17636) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247340) |
 | 2024 | Eurekaverse: Environment Curriculum Generation via Large Language Models | CoRL · Large Language Model | [Paper](https://arxiv.org/abs/2411.01775) · [Publisher](https://doi.org/10.48550/arXiv.2411.01775) |
-| 2024 | RoCo: Dialectic Multi-Robot Collaboration with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2307.04738) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610855) |
+| 2024 | RoCo: Dialectic Multi-Robot Collaboration with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2307.04738) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610855) |
 | 2024 | Leveraging Large Language Model for Heterogeneous Ad Hoc Teamwork Collaboration | RSS · Large Language Model | [Paper](https://arxiv.org/abs/2406.12224) · [Publisher](https://doi.org/10.48550/arXiv.2406.12224) |
 
-## Recent arXiv papers (188)
+## Recent arXiv papers (195)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-15 | An Agentic Framework for Proactive Robots with Procedural Assistance Memory | Dohyun Lee, Minho Park, Jeonghoon Park, Dongyoon Hwang et al. | [Abstract](https://arxiv.org/abs/2610.21211) · [PDF](https://arxiv.org/pdf/2610.21211) |
+| 2026-10-14 | Towards Agentic Robots: Model, Data, Environment, and Harness | Chonghan Qin, Dongming Wu, Kaituo Feng, Jiaxu Wang et al. | [Abstract](https://arxiv.org/abs/2610.20442) · [PDF](https://arxiv.org/pdf/2610.20442) |
+| 2026-10-13 | SEAR: Self-Evolving Agentic Robotics | Xinyi Wang, Bangzheng Li, Hanyu Wang, Lin Zhang et al. | [Abstract](https://arxiv.org/abs/2610.18792) · [PDF](https://arxiv.org/pdf/2610.18792) |
+| 2026-10-13 | ChunkAct: Action Chunking for Agentic Robotics | Bingxin Xu, Wenrui Bao, Xinxin Liu, Jiawei Zhou et al. | [Abstract](https://arxiv.org/abs/2610.18874) · [PDF](https://arxiv.org/pdf/2610.18874) |
+| 2026-10-13 | Agentic Robot Creation through Generation, Verification, and Revision | Xuebing Li, Yibo He, Sitong Liu, Ran Ji et al. | [Abstract](https://arxiv.org/abs/2610.17881) · [PDF](https://arxiv.org/pdf/2610.17881) |
+| 2026-10-10 | Training-Free Multi-Agent Cooperative Embodied Search from Uncertain Vision-Language Priors | Fan Pu, Keshu Wu, Jiwan Jiang, Shiyu Shen et al. | [Abstract](https://arxiv.org/abs/2610.15038) · [PDF](https://arxiv.org/pdf/2610.15038) |
+| 2026-10-10 | Persistent LLM Orchestration of Heterogeneous Robot Teams via Partial Delegation to Multi-Agent Protocols | Maria G. Mendoza, Victoria M. Tuck, Zachary Ravichandran, Shankar Sastry et al. | [Abstract](https://arxiv.org/abs/2610.15224) · [PDF](https://arxiv.org/pdf/2610.15224) |
+| 2026-10-07 | AeroEval: Staged Program and Execution Validation for AI-Generated Drone Missions | Kautuk Astu, Naina Rabha, Yogesh Simmhan | [Abstract](https://arxiv.org/abs/2610.09764) · [PDF](https://arxiv.org/pdf/2610.09764) |
+| 2026-10-07 | Adaptive Code Generation for Controlling Robots | Justus Flerlage, Thorsten Wittkopp, Alexander Acker, Odej Kao | [Abstract](https://arxiv.org/abs/2610.09588) · [PDF](https://arxiv.org/pdf/2610.09588) |
 | 2026-10-01 | Test-time Multi-agent Coordination by Decomposed Value Gradient Flow | Dongsu Lee, Haoran Xu, Amy Zhang | [Abstract](https://arxiv.org/abs/2610.02554) · [PDF](https://arxiv.org/pdf/2610.02554) |
 | 2026-10-01 | OrbitTAMP: Grounding Language Models for Task and Motion Planning in Spacecraft Rendezvous | Yuji Takubo, Daniele Gammelli, Marco Pavone, Simone D'Amico | [Abstract](https://arxiv.org/abs/2610.01093) · [PDF](https://arxiv.org/pdf/2610.01093) |
 | 2026-09-24 | RACaP: Agentic Reasoning, Acting, and Coding as Policies for Evolvable Robot Learning | Zexi Li, Yehang Zhang, Haojian Huang, Bohan Zhou et al. | [Abstract](https://arxiv.org/abs/2609.29394) · [PDF](https://arxiv.org/pdf/2609.29394) |
@@ -57,7 +66,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-13 | EFLUX: Elastic Multi-Robot Formation Navigation and Adaptation with Agentic LLMs | Jinyuan Zhang, Yuwei Wu, Guangyao Shi, Jonathan Diller et al. | [Abstract](https://arxiv.org/abs/2607.12050) · [PDF](https://arxiv.org/pdf/2607.12050) |
 | 2026-07-08 | Multi-Agent Robotic Control with Onboard Vision-Language Models | Kajetan Rachwał, Maciej Majek, Bartłomiej Boczek, Jakub Matejczyk et al. | [Abstract](https://arxiv.org/abs/2607.07403) · [PDF](https://arxiv.org/pdf/2607.07403) |
 | 2026-07-05 | LLM-Centric Agentic AI for UAV Swarms: Architecture, Enabling Technologies, and Open Problems | Yousef Emami, Rahim Taheri, Mohammadhossein Homaei, Muhammad Atif Ur Rehman et al. | [Abstract](https://arxiv.org/abs/2607.09756) · [PDF](https://arxiv.org/pdf/2607.09756) |
-| 2026-06-29 | Sequential Planning via Anchored Robotic Keypoints | Bryce Grant, Aryeh Rothenberg, Logan Senning, Zonghe Chua et al. | [Abstract](https://arxiv.org/abs/2606.30613) · [PDF](https://arxiv.org/pdf/2606.30613) |
 | 2026-06-26 | LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior | Qinhong Zhou, Chuang Gan, Anoop Cherian | [Abstract](https://arxiv.org/abs/2606.28182) · [PDF](https://arxiv.org/pdf/2606.28182) |
 | 2026-06-24 | Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction | Yuchen Wang, Javal Vyas, Tong Liu, Mehmet Mercangoz | [Abstract](https://arxiv.org/abs/2607.09713) · [PDF](https://arxiv.org/pdf/2607.09713) |
 | 2026-06-22 | Critique of Agent Model | Eric Xing, Mingkai Deng, Jinyu Hou | [Abstract](https://arxiv.org/abs/2606.23991) · [PDF](https://arxiv.org/pdf/2606.23991) |
@@ -223,7 +231,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-31 | Towards A Natural Language Interface for Flexible Multi-Agent Task Assignment | Jake Brawer, Kayleigh Bishop, Bradley Hayes, Alessandro Roncone | [Abstract](https://arxiv.org/abs/2311.00153) · [PDF](https://arxiv.org/pdf/2311.00153) |
 | 2023-10-31 | Multi-Agent Consensus Seeking via Large Language Models | Huaben Chen, Wenkang Ji, Lufeng Xu, Shiyu Zhao | [Abstract](https://arxiv.org/abs/2310.20151) · [PDF](https://arxiv.org/pdf/2310.20151) |
 | 2023-10-19 | Creative Robot Tool Use with Large Language Models | Mengdi Xu, Peide Huang, Wenhao Yu, Shiqi Liu et al. | [Abstract](https://arxiv.org/abs/2310.13065) · [PDF](https://arxiv.org/pdf/2310.13065) |
-| 2023-10-10 | Forgetful Large Language Models: Lessons Learned from Using LLMs in Robot Programming | Juo-Tung Chen, Chien-Ming Huang | [Abstract](https://arxiv.org/abs/2310.06646) · [PDF](https://arxiv.org/pdf/2310.06646) |
 
 ---
 

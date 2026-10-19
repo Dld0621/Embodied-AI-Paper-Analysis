@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 37 conference papers · 189 recent arXiv papers
+> 36 conference papers · 191 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,38 +14,37 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (37)
+## Conference papers (36)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | A Counterfactual Reasoning Framework for Fault Diagnosis in Robot Perception Systems | ICRA · Robot Perception | [Paper](https://arxiv.org/abs/2509.18460) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697565) |
-| 2026 | Compose by Focus: Scene Graph-based Atomic Skills | ICRA · Scene Graph | [Paper](https://arxiv.org/abs/2509.16053) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696519) |
-| 2026 | DSSM-SG: Dynamic 3D Scene Graphs with Spatio-Semantic Memory for Long-Term Indoor Navigation Tasks | ICRA · 3D Scene | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695756) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695756) |
-| 2026 | KeySG: Hierarchical Keyframe-Based 3D Scene Graphs | ICRA · 3D Scene | [Paper](https://arxiv.org/abs/2510.01049) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697466) |
+| 2026 | A Counterfactual Reasoning Framework for Fault Diagnosis in Robot Perception Systems | ICRA · Robot Perception | [Paper](https://arxiv.org/pdf/2509.18460) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697565) |
+| 2026 | Compose by Focus: Scene Graph-based Atomic Skills | ICRA · Scene Graph | [Paper](https://arxiv.org/pdf/2509.16053) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696519) |
+| 2026 | KeySG: Hierarchical Keyframe-Based 3D Scene Graphs | ICRA · 3D Scene | [Paper](https://arxiv.org/pdf/2510.01049) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697466) |
 | 2026 | Language Enabled Hierarchical Scene Graphs For Precision Agriculture Autonomy | ICRA · Scene Graph | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695996) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695996) |
-| 2026 | Legs Over Arms: On the Predictive Value of Lower-Body Pose for Human Trajectory Prediction from Egocentric Robot Perception | ICRA · Robot Perception | [Paper](https://arxiv.org/abs/2602.09076) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696729) |
-| 2026 | Open-Vocabulary Spatio-Temporal Scene Graph for Robot Perception and Teleoperation Planning | ICRA · Robot Perception | [Paper](https://arxiv.org/abs/2509.23107) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695811) |
-| 2026 | Relationship-Aware Hierarchical 3D Scene Graph for Task Reasoning | ICRA · 3D Scene | [Paper](https://arxiv.org/abs/2602.02456) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696439) |
-| 2026 | Structured Interfaces for Automated Reasoning with 3D Scene Graphs | ICRA · 3D Scene | [Paper](https://arxiv.org/abs/2510.16643) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695762) |
-| 2026 | Terra: Hierarchical Terrain-Aware 3D Scene Graph for Task-Agnostic Outdoor Mapping | ICRA · 3D Scene | [Paper](https://arxiv.org/abs/2509.19579) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696096) |
-| 2026 | VeriGraph: Scene Graphs for Execution Verifiable Robot Planning | ICRA · Scene Graph | [Paper](https://arxiv.org/abs/2411.10446) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697591) |
-| 2025 | Beyond Bare Queries: Open-Vocabulary Object Grounding with 3D Scene Graph | ICRA · 3D Scene | [Paper](https://arxiv.org/abs/2406.07113) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128059) |
+| 2026 | Legs Over Arms: On the Predictive Value of Lower-Body Pose for Human Trajectory Prediction from Egocentric Robot Perception | ICRA · Robot Perception | [Paper](https://arxiv.org/pdf/2602.09076) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696729) |
+| 2026 | Open-Vocabulary Spatio-Temporal Scene Graph for Robot Perception and Teleoperation Planning | ICRA · Robot Perception | [Paper](https://arxiv.org/pdf/2509.23107) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695811) |
+| 2026 | Relationship-Aware Hierarchical 3D Scene Graph for Task Reasoning | ICRA · 3D Scene | [Paper](https://arxiv.org/pdf/2602.02456) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696439) |
+| 2026 | Structured Interfaces for Automated Reasoning with 3D Scene Graphs | ICRA · 3D Scene | [Paper](https://arxiv.org/pdf/2510.16643) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695762) |
+| 2026 | Terra: Hierarchical Terrain-Aware 3D Scene Graph for Task-Agnostic Outdoor Mapping | ICRA · 3D Scene | [Paper](https://arxiv.org/pdf/2509.19579) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696096) |
+| 2026 | VeriGraph: Scene Graphs for Execution Verifiable Robot Planning | ICRA · Scene Graph | [Paper](https://arxiv.org/pdf/2411.10446) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697591) |
+| 2025 | Beyond Bare Queries: Open-Vocabulary Object Grounding with 3D Scene Graph | ICRA · 3D Scene | [Paper](https://arxiv.org/pdf/2406.07113) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128059) |
 | 2025 | Enhancing 3D Scene Graphs with Real-Time Room Classification | ICRA · 3D Scene | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128432) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128432) |
 | 2025 | Interaction-Driven Updates: 3D Scene Graph Maintenance During Robot Task Execution | ICRA · 3D Scene | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128194) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128194) |
-| 2025 | FunGraph: Functionality Aware 3D Scene Graphs for Language-Prompted Scene Interaction | IROS · 3D Scene | [Paper](https://arxiv.org/abs/2503.07909) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247555) |
+| 2025 | FunGraph: Functionality Aware 3D Scene Graphs for Language-Prompted Scene Interaction | IROS · 3D Scene | [Paper](https://arxiv.org/pdf/2503.07909) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247555) |
 | 2025 | GazeTarget360: Towards Gaze Target Estimation in 360-Degree for Robot Perception | IROS · Robot Perception | [Paper](https://arxiv.org/pdf/2507.00253) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246230) |
 | 2025 | REACT: Real-time Efficient Attribute Clustering and Transfer for Updatable 3D Scene Graph | IROS · 3D Scene | [Paper](https://arxiv.org/pdf/2503.03412) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247273) |
-| 2025 | SPADE: Towards Scalable Path Planning Architecture on Actionable Multi-Domain 3D ScenE Graphs | IROS · 3D Scene | [Paper](https://arxiv.org/abs/2505.19098) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246795) |
+| 2025 | SPADE: Towards Scalable Path Planning Architecture on Actionable Multi-Domain 3D ScenE Graphs | IROS · 3D Scene | [Paper](https://arxiv.org/pdf/2505.19098) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246795) |
 | 2024 | 3D Diffuser Actor: Policy Diffusion with 3D Scene Representations | CoRL · 3D Scene | [Paper](https://arxiv.org/abs/2402.10885) · [Publisher](https://doi.org/10.48550/arXiv.2402.10885) |
 | 2024 | Theia: Distilling Diverse Vision Foundation Models for Robot Learning | CoRL · Representation distillation | [Paper](https://arxiv.org/abs/2407.20179) · [Official](https://proceedings.mlr.press/v270/) · [Code](https://github.com/bdaiinstitute/theia) |
 | 2024 | What Matters to You? Towards Visual Representation Alignment for Robot Learning | ICLR · Visual Representation | [Paper](https://arxiv.org/pdf/2310.07932) · [Publisher](https://doi.org/10.48550/arXiv.2310.07932) |
 | 2024 | DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning | ICML · Multimodal representation | [Paper](https://arxiv.org/abs/2402.18137) · [Official](https://proceedings.mlr.press/v235/) |
 | 2024 | RoboDreamer: Learning Compositional World Models for Robot Imagination | ICML · Robot world models | [Paper](https://arxiv.org/abs/2404.12377) · [Official](https://proceedings.mlr.press/v235/) |
-| 2024 | Belief Scene Graphs: Expanding Partial Scenes with Objects through Computation of Expectation | ICRA · Scene Graph | [Paper](https://arxiv.org/abs/2402.03840) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611352) |
-| 2024 | ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning | ICRA · 3D Scene | [Paper](https://arxiv.org/abs/2309.16650) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610243) |
-| 2024 | TacShade: A New 3D-printed Soft Optical Tactile Sensor Based on Light, Shadow and Greyscale for Shape Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/abs/2406.00485) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610508) |
-| 2024 | What Do We Learn from a Large-Scale Study of Pre-Trained Visual Representations in Sim and Real Environments? | ICRA · Visual Representation | [Paper](https://arxiv.org/abs/2310.02219) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610218) |
-| 2024 | Commonsense Scene Graph-based Target Localization for Object Search | IROS · Scene Graph | [Paper](https://arxiv.org/abs/2404.00343) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801656) |
+| 2024 | Belief Scene Graphs: Expanding Partial Scenes with Objects through Computation of Expectation | ICRA · Scene Graph | [Paper](https://arxiv.org/pdf/2402.03840) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611352) |
+| 2024 | ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning | ICRA · 3D Scene | [Paper](https://arxiv.org/pdf/2309.16650) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610243) |
+| 2024 | TacShade: A New 3D-printed Soft Optical Tactile Sensor Based on Light, Shadow and Greyscale for Shape Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2406.00485) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610508) |
+| 2024 | What Do We Learn from a Large-Scale Study of Pre-Trained Visual Representations in Sim and Real Environments? | ICRA · Visual Representation | [Paper](https://arxiv.org/pdf/2310.02219) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610218) |
+| 2024 | Commonsense Scene Graph-based Target Localization for Object Search | IROS · Scene Graph | [Paper](https://arxiv.org/pdf/2404.00343) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801656) |
 | 2024 | Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation | RSS · 3D Scene | [Paper](https://arxiv.org/pdf/2403.17846) · [Publisher](https://doi.org/10.15607/RSS.2024.XX.077) |
 | 2023 | Context-Aware Entity Grounding with Open-Vocabulary 3D Scene Graphs | CoRL · 3D Scene | [Paper](https://arxiv.org/pdf/2309.15940) · [Publisher](https://doi.org/10.48550/arXiv.2309.15940) |
 | 2023 | 3D VSG: Long-term Semantic Scene Change Prediction through 3D Variable Scene Graphs | ICRA · Scene Graph | [Paper](https://arxiv.org/pdf/2209.07896) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161212) |
@@ -56,10 +55,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Taskography: Evaluating robot task planning over large 3D scene graphs | CoRL · 3D Scene | [Paper](https://arxiv.org/abs/2207.05006) · [Publisher](https://doi.org/10.48550/arXiv.2207.05006) |
 | 2022 | DreamingV2: Reinforcement Learning with Discrete World Models without Reconstruction | IROS · World Model | [Paper](https://arxiv.org/pdf/2203.00494) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981405) |
 
-## Recent arXiv papers (189)
+## Recent arXiv papers (191)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-16 | Foundation-Model-Driven 3D Scene Graphs for Mobile Manipulation | Dominic Maggio, Lorenzo Shaikewitz, Aryan Naveen, Kris Hauser et al. | [Abstract](https://arxiv.org/abs/2610.23622) · [PDF](https://arxiv.org/pdf/2610.23622) |
+| 2026-10-15 | GeoState: Learning View-Decoupled Geometry States for 3D World Modeling | Hongchang Liu, Jian Liu, Yujuan Ding, Liang Peng et al. | [Abstract](https://arxiv.org/abs/2610.22343) · [PDF](https://arxiv.org/pdf/2610.22343) |
+| 2026-10-08 | Traceable World State: A Provenance-Aware State Representation and Deterministic Replay Framework for Robotic Systems | Zoe Li | [Abstract](https://arxiv.org/abs/2610.12033) · [PDF](https://arxiv.org/pdf/2610.12033) |
+| 2026-10-07 | Do Better Visual Representations Always Lead to Better End-to-End Autonomous Driving? | Zihao Zhang, Haochen Tian, Tianyu Li, Changhui Jing et al. | [Abstract](https://arxiv.org/abs/2610.09695) · [PDF](https://arxiv.org/pdf/2610.09695) |
 | 2026-10-01 | FedCKA: Representation-Guided Layer Personalization for Federated 3D Perception Across Driving Domains | Jolle Verhoog, Ali Burak Ünal, Holger Caesar | [Abstract](https://arxiv.org/abs/2610.01510) · [PDF](https://arxiv.org/pdf/2610.01510) |
 | 2026-09-29 | Yggdrasil: a Layer-First 3D Scene Graph for Real-Time Querying | Arshia Akhavan, Ermanno Bartoli, Afnan Algharbi, Alireza Hoseinpur et al. | [Abstract](https://arxiv.org/abs/2609.38640) · [PDF](https://arxiv.org/pdf/2609.38640) |
 | 2026-09-28 | CoDimRecon: Agentic Reconstruction of Sim-Ready 3D Scenes with Deformable Curves, Surfaces, and Volumes | Shuzhao Xie, Lelin Wang, Guying Lin, Zhi Wang et al. | [Abstract](https://arxiv.org/abs/2609.36024) · [PDF](https://arxiv.org/pdf/2609.36024) |
@@ -122,7 +125,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-05 | TransMASK: Masked State Representation through Learned Transformation | Sagar Parekh, Preston Culbertson, Dylan P. Losey | [Abstract](https://arxiv.org/abs/2603.05670) · [PDF](https://arxiv.org/pdf/2603.05670) |
 | 2026-03-05 | Relational Semantic Reasoning on 3D Scene Graphs for Open World Interactive Object Search | Imen Mahdi, Matteo Cassinelli, Fabien Despinoy, Tim Welschehold et al. | [Abstract](https://arxiv.org/abs/2603.05642) · [PDF](https://arxiv.org/pdf/2603.05642) |
 | 2026-02-24 | ParkDiffusion++: Ego Intention Conditioned Joint Multi-Agent Trajectory Prediction for Automated Parking using Diffusion Models | Jiarong Wei, Anna Rehr, Christian Feist, Abhinav Valada | [Abstract](https://arxiv.org/abs/2602.20923) · [PDF](https://arxiv.org/pdf/2602.20923) |
-| 2026-02-13 | INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval | YukTungSamuel Fang, Zhikang Shi, Jiabin Qiu, Zixuan Chen et al. | [Abstract](https://arxiv.org/abs/2602.12971) · [PDF](https://arxiv.org/pdf/2602.12971) |
+| 2026-02-13 | INHerit-SG: Incremental Hierarchical Semantic Scene Graphs for Complex Embodied Retrieval | YukTungSamuel Fang, Zhikang Shi, Jiabin Qiu, Zixuan Chen et al. | [Abstract](https://arxiv.org/abs/2602.12971) · [PDF](https://arxiv.org/pdf/2602.12971) |
 | 2026-02-13 | Adaptive Illumination Control for Robot Perception | Yash Turkar, Shekoufeh Sadeghi, Karthik Dantu | [Abstract](https://arxiv.org/abs/2602.15900) · [PDF](https://arxiv.org/pdf/2602.15900) |
 | 2026-02-10 | SAGE: Scalable Agentic 3D Scene Generation for Embodied AI | Hongchi Xia, Xuan Li, Zhaoshuo Li, Qianli Ma et al. | [Abstract](https://arxiv.org/abs/2602.10116) · [PDF](https://arxiv.org/pdf/2602.10116) |
 | 2026-02-09 | Legs Over Arms: On the Predictive Value of Lower-Body Pose for Human Trajectory Prediction from Egocentric Robot Perception | Nhat Le, Daeun Song, Xuesu Xiao | [Abstract](https://arxiv.org/abs/2602.09076) · [PDF](https://arxiv.org/pdf/2602.09076) |
@@ -247,8 +250,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-06 | Optimal Wildfire Escape Route Planning for Drones under Dynamic Fire and Smoke | Chang Liu, Tamas Sziranyi | [Abstract](https://arxiv.org/abs/2312.03521) · [PDF](https://arxiv.org/pdf/2312.03521) |
 | 2023-12-04 | Integrated Drill Boom Hole-Seeking Control via Reinforcement Learning | Haoqi Yan, Haoyuan Xu, Hongbo Gao, Fei Ma et al. | [Abstract](https://arxiv.org/abs/2312.01836) · [PDF](https://arxiv.org/pdf/2312.01836) |
 | 2023-11-30 | Heterogeneous Graph-based Trajectory Prediction using Local Map Context and Social Interactions | Daniel Grimm, Maximilian Zipfl, Felix Hertlein, Alexander Naumann et al. | [Abstract](https://arxiv.org/abs/2311.18553) · [PDF](https://arxiv.org/pdf/2311.18553) |
-| 2023-10-15 | Free as a Bird: Event-based Dynamic Sense-and-Avoid for Ornithopter Robot Flight | J. P. Rodríguez-Gómez, R. Tapia, M. M. Guzmán, J. R. Martínez-de Dios et al. | [Abstract](https://arxiv.org/abs/2310.09875) · [PDF](https://arxiv.org/pdf/2310.09875) |
-| 2023-10-11 | What Matters to You? Towards Visual Representation Alignment for Robot Learning | Ran Tian, Chenfeng Xu, Masayoshi Tomizuka, Jitendra Malik et al. | [Abstract](https://arxiv.org/abs/2310.07932) · [PDF](https://arxiv.org/pdf/2310.07932) |
 
 ---
 

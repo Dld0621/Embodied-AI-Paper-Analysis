@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Humanoid%20Whole-body%20Control&specialty=Humanoid%20Teleoperation%20%26%20Interaction#research-workbench)
 
-> 5 conference papers · 32 recent arXiv papers
+> 5 conference papers · 38 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,13 +21,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026 | COLA: Learning Human-Humanoid Coordination for Collaborative Object Carrying | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2510.14293) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696713) |
 | 2025 | MPC-QP-Based Control Framework for Compliant Behavior of Humanoid Robots in Physical Collaboration with Humans | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128037) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128037) |
 | 2024 | OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning | CoRL · Whole-body teleoperation | [Paper](https://arxiv.org/abs/2406.08858) · [Official](https://proceedings.mlr.press/v270/) · [Code](https://github.com/LeCAR-Lab/human2humanoid) |
-| 2024 | Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation | IROS · Humanoid | [Paper](https://arxiv.org/abs/2403.04436) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801984) |
+| 2024 | Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2403.04436) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801984) |
 | 2022 | Human-Humanoid Robot Cooperative Load Transportation: Model-based Control Approach | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9981487) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981487) |
 
-## Recent arXiv papers (32)
+## Recent arXiv papers (38)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-15 | Inertially Significant Humanoid Teleoperation via Whole Body Model Predictive Control and Online Parameter Estimation | James Foster, Beomyeong Park, Luigi Penco, Robert Griffin | [Abstract](https://arxiv.org/abs/2610.22176) · [PDF](https://arxiv.org/pdf/2610.22176) |
+| 2026-10-06 | iGPC: Generative Motion Priors for Object-Aware Humanoid Interaction | Anujith Muraleedharan, Abdul Ahad Butt, Nolan Fey, Yash Prabhu et al. | [Abstract](https://arxiv.org/abs/2610.08120) · [PDF](https://arxiv.org/pdf/2610.08120) |
+| 2026-10-06 | Beyond Retargeting: Low-Latency and Robust Humanoid Whole-Body Teleoperation with Learned Atomic Motion Primitives | Xiayan Xu, Jiyu Yu, Xingzhou Chen, Siyi Qian et al. | [Abstract](https://arxiv.org/abs/2610.07891) · [PDF](https://arxiv.org/pdf/2610.07891) |
+| 2026-10-05 | Talk, Render, Act: Integrating Social Gesture and Digital Face with Synchronized Speech for Conversational Humanoid Robot | Jin Jiang, Kun Li, Jiancong Ma, Shengcai Liao | [Abstract](https://arxiv.org/abs/2610.06153) · [PDF](https://arxiv.org/pdf/2610.06153) |
+| 2026-10-05 | I-BFM: Reward-Conditioned Robust Humanoid Interaction via Unsupervised Reinforcement Learning | Ziqi Han, Yitang Li, Junhan Sun, Fanrong Dong et al. | [Abstract](https://arxiv.org/abs/2610.06129) · [PDF](https://arxiv.org/pdf/2610.06129) |
+| 2026-10-04 | CoDance: Learning Reactive and Compliant Human-Humanoid Interaction from Video | Zhuoqun Chen, Shucheng Jia, Boyuan Chen | [Abstract](https://arxiv.org/abs/2610.05324) · [PDF](https://arxiv.org/pdf/2610.05324) |
 | 2026-09-28 | GAE: General Action Expert for Real-Time Humanoid Teleoperation | Yuefan Wang, Huaicheng Zhou, Xiao He, Zhijie He et al. | [Abstract](https://arxiv.org/abs/2609.34233) · [PDF](https://arxiv.org/pdf/2609.34233) |
 | 2026-09-22 | MATE: Multi-Agent Virtual Teleoperation Platform for Humanoid Collaboration Data Collection | Yichuan Yu, Youzhuo Wang, Yiming Ren, Di Feng et al. | [Abstract](https://arxiv.org/abs/2609.26520) · [PDF](https://arxiv.org/pdf/2609.26520) |
 | 2026-09-18 | HIGenNTO: Scalable Humanoid Interaction Generation via Noise-Space Trajectory Optimization | Lalit Jayanti, Kashu Yamazaki, Yuto Shibata, Kotaro Amaya et al. | [Abstract](https://arxiv.org/abs/2609.22611) · [PDF](https://arxiv.org/pdf/2609.22611) |

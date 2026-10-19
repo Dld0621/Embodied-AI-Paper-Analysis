@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Visual%20%26%20Language%20Navigation&specialty=Object-goal%20%26%20Semantic%20Navigation#research-workbench)
 
-> 11 conference papers · 53 recent arXiv papers
+> 11 conference papers · 55 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,22 +18,25 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | CLUE: Adaptively Prioritized Contextual Cues by Leveraging a Unified Semantic Map for Effective Zero-Shot Object-Goal Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2605.19206) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697331) |
-| 2026 | RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Visual Contextual Adaptation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2512.24212) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696276) |
-| 2026 | SurveilNav: Collaborative Object Goal Navigation with Robot and Surveillance System | ICRA · Navigation | [Paper](https://arxiv.org/abs/2606.25119) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697410) |
+| 2026 | CLUE: Adaptively Prioritized Contextual Cues by Leveraging a Unified Semantic Map for Effective Zero-Shot Object-Goal Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2605.19206) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697331) |
+| 2026 | RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Visual Contextual Adaptation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2512.24212) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696276) |
+| 2026 | SurveilNav: Collaborative Object Goal Navigation with Robot and Surveillance System | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2606.25119) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697410) |
 | 2025 | Dynamic Object Goal Pushing with Mobile Manipulators Through Model-Free Constrained Reinforcement Learning | ICRA · Object Goal | [Paper](https://arxiv.org/pdf/2502.01546) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128166) |
-| 2025 | Advancing Object-Goal Navigation through LLM-enhanced Object Affinities Transfer | IROS · Navigation | [Paper](https://arxiv.org/abs/2403.09971) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247308) |
-| 2024 | VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2312.03275) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610712) |
+| 2025 | Advancing Object-Goal Navigation through LLM-enhanced Object Affinities Transfer | IROS · Navigation | [Paper](https://arxiv.org/pdf/2403.09971) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247308) |
+| 2024 | VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2312.03275) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610712) |
 | 2024 | SEEK: Semantic Reasoning for Object Goal Navigation in Real World Inspection Tasks | RSS · Navigation | [Paper](https://arxiv.org/abs/2405.09822) · [Publisher](https://doi.org/10.48550/arXiv.2405.09822) |
 | 2023 | Zero-Shot Object Goal Visual Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2206.07423) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161289) |
 | 2023 | Object Goal Navigation with Recursive Implicit Maps | IROS · Navigation | [Paper](https://arxiv.org/pdf/2308.05602) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341827) |
 | 2023 | Self-Supervised Object Goal Navigation with In-Situ Finetuning | IROS · Navigation | [Paper](https://arxiv.org/pdf/2212.05923) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341959) |
 | 2022 | ZSON: Zero-Shot Object-Goal Navigation using Multimodal Goal Embeddings | NeurIPS · Navigation | [Paper](https://arxiv.org/pdf/2206.12403) · [Publisher](https://doi.org/10.48550/arXiv.2206.12403) |
 
-## Recent arXiv papers (53)
+## Recent arXiv papers (55)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-16 | StopWatch: Goal Grounding for Object-goal Navigation | Xinhao Liu, Yunsheng Tian, Yuheng Qiu, Pieter Abbeel et al. | [Abstract](https://arxiv.org/abs/2610.23841) · [PDF](https://arxiv.org/pdf/2610.23841) |
+| 2026-10-14 | HM3D-M3: A Benchmark for Multi-Agent, Multi-Modal, Multi-Object Goal Navigation | Hongyu Ding, Kanyu Xu, Mingjia Chen, Zixuan Chen et al. | [Abstract](https://arxiv.org/abs/2610.20121) · [PDF](https://arxiv.org/pdf/2610.20121) |
+| 2026-10-14 | F2A-ObjectNav: An Adaptive Agentic Architecture for Object-Goal Navigation | Seyed Ali Mirghasemi, Alireza Taheri | [Abstract](https://arxiv.org/abs/2610.19618) · [PDF](https://arxiv.org/pdf/2610.19618) |
 | 2026-09-08 | Dual-Layer Semantic-Spatial Belief Mapping for Aerial Object Goal Navigation | Jianqiang Xiao, Xiang Deng, Yuexuan Sun, Yanjin Wu et al. | [Abstract](https://arxiv.org/abs/2609.08164) · [PDF](https://arxiv.org/pdf/2609.08164) |
 | 2026-08-13 | Graph-MambaNav: Spatial-Temporal Graph Mamba Leveraging Object-Relation Knowledge for Object-Goal Navigation | Leyuan Sun, Genxin Chen, Linwei Ye, Yan Zhang et al. | [Abstract](https://arxiv.org/abs/2608.13723) · [PDF](https://arxiv.org/pdf/2608.13723) |
 | 2026-08-10 | Hierarchical Fast-Slow ReAct Agent for Zero-Shot Object-Goal Navigation | Zhaochen Lan, Zhi Yang, Yuxiang Fu, Mengxiang Lin | [Abstract](https://arxiv.org/abs/2608.09816) · [PDF](https://arxiv.org/pdf/2608.09816) |
@@ -86,7 +89,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-07 | Language-Based Augmentation to Address Shortcut Learning in Object Goal Navigation | Dennis Hoftijzer, Gertjan Burghouts, Luuk Spreeuwers | [Abstract](https://arxiv.org/abs/2402.05090) · [PDF](https://arxiv.org/pdf/2402.05090) |
 | 2023-12-06 | VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation | Naoki Yokoyama, Sehoon Ha, Dhruv Batra, Jiuguang Wang et al. | [Abstract](https://arxiv.org/abs/2312.03275) · [PDF](https://arxiv.org/pdf/2312.03275) |
 | 2023-11-14 | Probable Object Location (POLo) Score Estimation for Efficient Object Goal Navigation | Jiaming Wang, Harold Soh | [Abstract](https://arxiv.org/abs/2311.07992) · [PDF](https://arxiv.org/pdf/2311.07992) |
-| 2023-10-15 | Zero-Shot Object Goal Visual Navigation With Class-Independent Relationship Network | Xinting Li, Shiguang Zhang, Yue LU, Kerry Dang et al. | [Abstract](https://arxiv.org/abs/2310.09883) · [PDF](https://arxiv.org/pdf/2310.09883) |
 
 ---
 

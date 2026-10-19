@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Sim-to-real%20%26%20Domain%20Adaptation&specialty=System%20Identification%20%26%20Calibration#research-workbench)
 
-> 0 conference papers · 14 recent arXiv papers
+> 0 conference papers · 15 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,10 +18,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (14)
+## Recent arXiv papers (15)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-07 | Informationally Decoupled Trajectory Design for Sim-to-Real System Identification | Sangwoo Shin, Ashvin Anilkumar, Ryan Gao, Josiah P. Hanna | [Abstract](https://arxiv.org/abs/2610.10905) · [PDF](https://arxiv.org/pdf/2610.10905) |
 | 2026-07-25 | Sling2Sim2Real: One-Shot Elastic System Identification for Non-Destructive Slingshot Policy Learning | Wonjae Kang, Geonwoo Kim, Minseok Song, Daehyung Park | [Abstract](https://arxiv.org/abs/2607.23268) · [PDF](https://arxiv.org/pdf/2607.23268) |
 | 2026-07-02 | Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning | Satoshi Yamamori, Koji Ishihara, Kenjiro Minamikawa, Ryosei Ohmori et al. | [Abstract](https://arxiv.org/abs/2607.02205) · [PDF](https://arxiv.org/pdf/2607.02205) |
 | 2026-03-23 | RAFL: Generalizable Sim-to-Real of Soft Robots with Residual Acceleration Field Learning | Dong Heon Cho, Boyuan Chen | [Abstract](https://arxiv.org/abs/2603.22039) · [PDF](https://arxiv.org/pdf/2603.22039) |

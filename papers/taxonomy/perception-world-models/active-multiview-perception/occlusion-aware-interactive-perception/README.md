@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2024 | MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Learning via Interactive Perception | ICRA · Active Perception | [Paper](https://arxiv.org/abs/2309.08508) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10609998) |
+| 2024 | MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Learning via Interactive Perception | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2309.08508) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10609998) |
 | 2023 | Ditto in the House: Building Articulation Models of Indoor Scenes through Interactive Perception | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2302.01295) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161431) |
 | 2023 | Multi-modal Interactive Perception in Human Control of Complex Objects | ICRA · Active Perception | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160375) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160375) |
 | 2023 | SGTM 2.0: Autonomously Untangling Long Cables using Interactive Perception | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2209.13706) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160574) |

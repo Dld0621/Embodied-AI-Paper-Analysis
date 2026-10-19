@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Multimodal%20Grounding&specialty=Audio%2C%20Touch%20%26%20Multisensory%20Models#research-workbench)
 
-> 4 conference papers · 74 recent arXiv papers
+> 4 conference papers · 75 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,10 +23,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Towards Emotion Co-regulation with LLM-powered Socially Assistive Robots: Integrating LLM Prompts and Robotic Behaviors to Support Parent-Neurodivergent Child Dyads | IROS · Llm | [Paper](https://research.tue.nl/en/publications/dc2e3607-4e01-4b21-84b9-19b6225f8828) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246217) |
 | 2024 | Octopi: Object Property Reasoning with Large Tactile-Language Models | RSS · Language Model | [Paper](https://arxiv.org/abs/2405.02794) · [Publisher](https://doi.org/10.48550/arXiv.2405.02794) |
 
-## Recent arXiv papers (74)
+## Recent arXiv papers (75)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-06 | AutodidactWAM: Cross-Modal Self-Distillation from Generated Video to Robot Actions | Sergei Kurchev, Iaroslav Kolomiets, Miguel Altamirano Cabrera, Artem Lykov et al. | [Abstract](https://arxiv.org/abs/2610.08119) · [PDF](https://arxiv.org/pdf/2610.08119) |
 | 2026-09-25 | AuthGuard-R: Safety-Compliant Mission Hijacking and Dual-Gate Defense for LLM-Controlled Robots | Saidattu Chepuri, Vikas Srivastava | [Abstract](https://arxiv.org/abs/2609.31110) · [PDF](https://arxiv.org/pdf/2609.31110) |
 | 2026-09-20 | Cognitive Action Reasoning for Proactive Robots from Human-Centered Multimodal Observations | Zhihao Gu, Kechao Zhu, Yuanfeng Wu, Mohan Liu et al. | [Abstract](https://arxiv.org/abs/2609.23486) · [PDF](https://arxiv.org/pdf/2609.23486) |
 | 2026-09-17 | TacSushi: Tactile-Grounded World-Action Modeling for Dexterous Sushi Manipulation | Haodi Hu, Kaen Kogashi, Toshiaki Koike-Akino | [Abstract](https://arxiv.org/abs/2609.19613) · [PDF](https://arxiv.org/pdf/2609.19613) |

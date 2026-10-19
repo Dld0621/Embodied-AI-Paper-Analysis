@@ -18,8 +18,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | RoboMorph: Evolving Robot Morphology using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2407.08626) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696020) |
-| 2025 | Universal Actions for Enhanced Embodied Foundation Models | CVPR · Foundation Model | [Paper](https://arxiv.org/abs/2501.10105) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02096) |
+| 2026 | RoboMorph: Evolving Robot Morphology using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2407.08626) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696020) |
+| 2025 | Universal Actions for Enhanced Embodied Foundation Models | CVPR · Foundation Model | [Paper](https://arxiv.org/pdf/2501.10105) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02096) |
 | 2024 | CrossFormer: Scaling Cross-Embodied Learning for Manipulation | CoRL · Cross-embodiment learning | [Paper](https://arxiv.org/abs/2408.11812) · [Official](https://proceedings.mlr.press/v270/) |
 | 2024 | EMOS: Embodiment-aware Heterogeneous Multi-robot Operating System with LLM Agents | ICLR · Llm | [Paper](https://arxiv.org/abs/2410.22662) · [Publisher](https://doi.org/10.48550/arXiv.2410.22662) |
 | 2024 | Open X-Embodiment: Robotic Learning Datasets and RT-X Models | ICRA · Cross-embodiment data | [Paper](https://arxiv.org/abs/2310.08864) · [Official](https://ieeexplore.ieee.org/abstract/document/10611477) · [Code](https://github.com/google-deepmind/open_x_embodiment) |

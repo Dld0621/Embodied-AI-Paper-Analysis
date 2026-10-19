@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Quadruped%20%26%20Legged%20Locomotion&specialty=Agility%2C%20Recovery%20%26%20Dynamic%20Maneuvers#research-workbench)
 
-> 7 conference papers · 11 recent arXiv papers
+> 7 conference papers · 9 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,15 +18,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | Robust Robot Walker: Learning Agile Locomotion over Tiny Traps | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2409.07409) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128309) |
-| 2024 | Learning Agile Locomotion and Adaptive Behaviors via RL-augmented MPC | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2310.09442) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610453) |
+| 2025 | Robust Robot Walker: Learning Agile Locomotion over Tiny Traps | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2409.07409) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128309) |
+| 2024 | Learning Agile Locomotion and Adaptive Behaviors via RL-augmented MPC | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2310.09442) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610453) |
 | 2024 | Learning Agile Locomotion on Risky Terrains | IROS · Locomotion | [Paper](https://arxiv.org/abs/2311.10484) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801909) |
-| 2023 | Cerberus: Low-Drift Visual-Inertial-Leg Odometry For Agile Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2209.07654) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160486) |
+| 2023 | Cerberus: Low-Drift Visual-Inertial-Leg Odometry For Agile Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2209.07654) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160486) |
 | 2023 | Expanding Versatility of Agile Locomotion through Policy Transitions Using Latent State Representation | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2306.08224) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160776) |
 | 2023 | Learning and Adapting Agile Locomotion Skills by Transferring Experience | RSS · Agile locomotion | [Paper](https://www.roboticsproceedings.org/rss19/p051.pdf) · [Official](https://www.roboticsproceedings.org/rss19/p051.html) |
 | 2022 | Rapid locomotion via reinforcement learning | RSS · Locomotion | [Paper](https://arxiv.org/pdf/2205.02824) · [Publisher](https://doi.org/10.1177/02783649231224053) |
 
-## Recent arXiv papers (11)
+## Recent arXiv papers (9)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -39,8 +39,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-03-06 | Diffusion-based learning of contact plans for agile locomotion | Victor Dhédin, Adithya Kumar Chinnakkonda Ravi, Armand Jordana, Huaijiang Zhu et al. | [Abstract](https://arxiv.org/abs/2403.03639) · [PDF](https://arxiv.org/pdf/2403.03639) |
 | 2023-11-17 | Learning Agile Locomotion on Risky Terrains | Chong Zhang, Nikita Rudin, David Hoeller, Marco Hutter | [Abstract](https://arxiv.org/abs/2311.10484) · [PDF](https://arxiv.org/pdf/2311.10484) |
 | 2023-11-04 | LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Locomotion | Firas Al-Hafez, Guoping Zhao, Jan Peters, Davide Tateo | [Abstract](https://arxiv.org/abs/2311.02496) · [PDF](https://arxiv.org/pdf/2311.02496) |
-| 2023-10-13 | Learning Agile Locomotion and Adaptive Behaviors via RL-augmented MPC | Yiyu Chen, Quan Nguyen | [Abstract](https://arxiv.org/abs/2310.09442) · [PDF](https://arxiv.org/pdf/2310.09442) |
-| 2023-10-07 | Guardians as You Fall: Active Mode Transition for Safe Falling | Yikai Wang, Mengdi Xu, Guanya Shi, Ding Zhao | [Abstract](https://arxiv.org/abs/2310.04828) · [PDF](https://arxiv.org/pdf/2310.04828) |
 
 ---
 

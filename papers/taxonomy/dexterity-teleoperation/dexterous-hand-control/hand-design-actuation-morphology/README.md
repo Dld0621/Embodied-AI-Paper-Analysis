@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Dexterous%20Hand%20Control&specialty=Hand%20Design%2C%20Actuation%20%26%20Morphology#research-workbench)
 
-> 14 conference papers · 64 recent arXiv papers
+> 14 conference papers · 63 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,22 +18,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | CoDex: Learning Compositional Dexterous Functional Manipulation without Demonstrations | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2606.31909) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695956) |
-| 2026 | SoftHand Model-W: A 3D-Printed, Anthropomorphic, Underactuated Robot Hand with Integrated Wrist and Carpal Tunnel | ICRA · Robot Hand | [Paper](https://arxiv.org/abs/2604.00738) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697200) |
+| 2026 | CoDex: Learning Compositional Dexterous Functional Manipulation without Demonstrations | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2606.31909) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695956) |
+| 2026 | SoftHand Model-W: A 3D-Printed, Anthropomorphic, Underactuated Robot Hand with Integrated Wrist and Carpal Tunnel | ICRA · Robot Hand | [Paper](https://arxiv.org/pdf/2604.00738) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697200) |
 | 2025 | VSB - Variable Stiffness Based on Bowden Cables: A Simple Mechanism for Soft Robotic Hands | ICRA · Robotic Hand | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127353) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127353) |
-| 2025 | A Novel Robot Hand with Hoeckens Linkages and Soft Phalanges for Scooping and Self-Adaptive Grasping in Environmental Constraints | IROS · Robot Hand | [Paper](https://arxiv.org/abs/2510.13535) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246074) |
+| 2025 | A Novel Robot Hand with Hoeckens Linkages and Soft Phalanges for Scooping and Self-Adaptive Grasping in Environmental Constraints | IROS · Robot Hand | [Paper](https://arxiv.org/pdf/2510.13535) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246074) |
 | 2025 | High DOF Tendon-Driven Soft Hand: A Modular System for Versatile and Dexterous Manipulation | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS60139.2025.11246988) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246988) |
 | 2025 | ORCA: An Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning | IROS · Dexterous | [Paper](https://arxiv.org/abs/2504.04259) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246681) |
 | 2025 | Sampling-Based Model Predictive Control for Dexterous Manipulation on a Biomimetic Tendon-Driven Hand | IROS · Dexterous | [Paper](https://arxiv.org/abs/2411.06183) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246473) |
 | 2024 | Direct Self-Identification of Inverse Jacobians for Dexterous Manipulation Through Particle Filtering | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611052) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611052) |
 | 2024 | Sensorized Soft Skin for Dexterous Robotic Hands | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2404.19448) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611404) |
 | 2024 | The New Dexterity Modular, Dexterous, Anthropomorphic, Open-Source, Bimanual Manipulation Platform: Combining Adaptive and Hybrid Actuation Systems with Lockable Joints | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610343) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610343) |
-| 2024 | EyeSight Hand: Design of a Fully-Actuated Dexterous Robot Hand with Integrated Vision-Based Tactile Sensors and Compliant Actuation | IROS · Dexterous | [Paper](https://arxiv.org/abs/2408.06265) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802778) |
-| 2023 | Dexterous Manipulation from Images: Autonomous Real-World RL via Substep Guidance | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2212.09902) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161493) |
+| 2024 | EyeSight Hand: Design of a Fully-Actuated Dexterous Robot Hand with Integrated Vision-Based Tactile Sensors and Compliant Actuation | IROS · Dexterous | [Paper](https://arxiv.org/pdf/2408.06265) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802778) |
+| 2023 | Dexterous Manipulation from Images: Autonomous Real-World RL via Substep Guidance | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2212.09902) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161493) |
 | 2023 | LEAP Hand: Low-Cost, Efficient, and Anthropomorphic Hand for Robot Learning | RSS · Dexterous hardware | [Paper](https://arxiv.org/abs/2309.06440) · [Official](https://roboticsproceedings.org/rss19/index.html) · [Code](https://github.com/leap-hand/LEAP_Hand_API) |
 | 2022 | Toward Dexterous Flapping Flight: Effective Large Yaw Torque Generation by $2\times 2$-Degrees-of-Freedom Flapping Wings | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS47612.2022.9981990) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981990) |
 
-## Recent arXiv papers (64)
+## Recent arXiv papers (63)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -100,7 +100,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-04-30 | Sensorized Soft Skin for Dexterous Robotic Hands | Jana Egli, Benedek Forrai, Thomas Buchner, Jiangtao Su et al. | [Abstract](https://arxiv.org/abs/2404.19448) · [PDF](https://arxiv.org/pdf/2404.19448) |
 | 2024-03-15 | Design and Control Co-Optimization for Automated Design Iteration of Dexterous Anthropomorphic Soft Robotic Hands | Pragna Mannam, Xingyu Liu, Ding Zhao, Jean Oh et al. | [Abstract](https://arxiv.org/abs/2403.09933) · [PDF](https://arxiv.org/pdf/2403.09933) |
 | 2023-11-06 | Reconfigurable, Transformable Soft Pneumatic Actuator with Tunable 3D Deformations for Dexterous Soft Robotics Applications | Dickson Chiu Yu Wong, Mingtan Li, Shijie Kang, Lifan Luo et al. | [Abstract](https://arxiv.org/abs/2311.03032) · [PDF](https://arxiv.org/pdf/2311.03032) |
-| 2023-10-08 | DELTAHANDS: A Synergistic Dexterous Hand Framework Based on Delta Robots | Zilin Si, Kevin Zhang, Oliver Kroemer, F. Zeynep Temel | [Abstract](https://arxiv.org/abs/2310.05266) · [PDF](https://arxiv.org/pdf/2310.05266) |
 
 ---
 

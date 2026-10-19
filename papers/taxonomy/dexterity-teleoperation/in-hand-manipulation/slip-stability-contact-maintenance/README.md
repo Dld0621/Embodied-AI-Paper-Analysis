@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=In-hand%20Manipulation&specialty=Slip%2C%20Stability%20%26%20Contact%20Maintenance#research-workbench)
 
-> 3 conference papers · 4 recent arXiv papers
+> 3 conference papers · 5 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -22,10 +22,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Rotating Objects via in-Hand Pivoting Using Vision, Force and Touch | IROS · In Hand | [Paper](https://arxiv.org/pdf/2303.10865) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341505) |
 | 2022 | In-Hand Gravitational Pivoting Using Tactile Sensing | CoRL · In Hand | [Paper](https://arxiv.org/abs/2210.05068) · [Publisher](https://doi.org/10.48550/arXiv.2210.05068) |
 
-## Recent arXiv papers (4)
+## Recent arXiv papers (5)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-09 | DexFLEX: Contact-Aware Foundation Controller for Command-Guided Dexterity | Weikang Wan, Zeyu Lai, Jianyu Hou, Yuchen Zhou et al. | [Abstract](https://arxiv.org/abs/2610.14372) · [PDF](https://arxiv.org/pdf/2610.14372) |
 | 2026-09-11 | ArtManip: Category-Level Articulated In-Hand Manipulation | Yang Yang, Tengyu Liu, Puhao Li, Zeyuan Chen et al. | [Abstract](https://arxiv.org/abs/2609.12498) · [PDF](https://arxiv.org/pdf/2609.12498) |
 | 2026-06-10 | Deformable In-Hand Slip-Aware Tactile Sensor with Integrated Velocity Sensing, Force/Torque and Pressure Map Estimation | Gabriel Arslan Waltersson, Yiannis Karayiannidis | [Abstract](https://arxiv.org/abs/2606.11952) · [PDF](https://arxiv.org/pdf/2606.11952) |
 | 2026-05-15 | KaRMA: A Kinematic Metric for Fine Manipulation Ability in Robotic Hands | Martin Peticco, Pulkit Agrawal | [Abstract](https://arxiv.org/abs/2605.15548) · [PDF](https://arxiv.org/pdf/2605.15548) |

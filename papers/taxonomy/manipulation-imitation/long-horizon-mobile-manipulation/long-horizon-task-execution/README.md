@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=Long-horizon%20Task%20Execution#research-workbench)
 
-> 19 conference papers · 169 recent arXiv papers
+> 19 conference papers · 184 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,30 +18,45 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | COMPASS: Confined-space Manipulation Planning with Active Sensing Strategy | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2509.14787) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697396) |
-| 2026 | GeoLanG: Geometry-Aware Language-Guided Grasping with Unified RGB-D Multimodal Learning | ICRA · Grasp | [Paper](https://arxiv.org/abs/2602.04231) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696203) |
-| 2026 | Mixed-Initiative Dialog for Human-Robot Collaborative Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2508.05535) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696000) |
-| 2026 | Not Throwing Away My Shot: Planning Ahead With Dual Subgoals in Long-Horizon Robot Manipulation Tasks | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696172) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696172) |
-| 2026 | SymSkill: Symbol and Skill Co-Invention for Data-Efficient and Reactive Long-Horizon Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2510.01661) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696696) |
+| 2026 | COMPASS: Confined-space Manipulation Planning with Active Sensing Strategy | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2509.14787) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697396) |
+| 2026 | GeoLanG: Geometry-Aware Language-Guided Grasping with Unified RGB-D Multimodal Learning | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2602.04231) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696203) |
+| 2026 | Mixed-Initiative Dialog for Human-Robot Collaborative Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2508.05535) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696000) |
+| 2026 | Not Throwing Away My Shot: Planning Ahead With Dual Subgoals in Long-Horizon Robot Manipulation Tasks | ICRA · Manipulation | [Paper](https://eprints.whiterose.ac.uk/id/eprint/238696/1/ICRA26_0894_FI.pdf) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696172) |
+| 2026 | SymSkill: Symbol and Skill Co-Invention for Data-Efficient and Reactive Long-Horizon Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2510.01661) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696696) |
 | 2025 | Efficient Cross-Boundary Grasping in Stacked Clutter with Single-Visual Mapping Multi-Step | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127976) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127976) |
-| 2025 | Local Policies Enable Zero-Shot Long-Horizon Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2410.22332) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128407) |
-| 2025 | RACER: Rich Language-Guided Failure Recovery Policies for Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2409.14674) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127799) |
+| 2025 | Local Policies Enable Zero-Shot Long-Horizon Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2410.22332) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128407) |
+| 2025 | RACER: Rich Language-Guided Failure Recovery Policies for Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2409.14674) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127799) |
 | 2025 | AgiBot World Colosseo: A Large-Scale Manipulation Platform for Scalable and Intelligent Embodied Systems | IROS · Manipulation | [Paper](https://arxiv.org/abs/2503.06669) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247088) |
-| 2025 | RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/abs/2506.22007) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246352) |
+| 2025 | RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2506.22007) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246352) |
 | 2024 | Generative Factor Chaining: Coordinated Manipulation with Diffusion-based Factor Graph | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2409.16275) · [Publisher](https://doi.org/10.48550/arXiv.2409.16275) |
 | 2024 | Splat-MOVER: Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2405.04378) · [Publisher](https://doi.org/10.48550/arXiv.2405.04378) |
-| 2024 | Universal Visual Decomposer: Long-Horizon Manipulation Made Easy | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2310.08581) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611125) |
+| 2024 | Universal Visual Decomposer: Long-Horizon Manipulation Made Easy | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2310.08581) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611125) |
 | 2024 | Neural ODE-based Imitation Learning (NODE-IL): Data-Efficient Imitation Learning for Long-Horizon Multi-Skill Robot Manipulation | IROS · Manipulation | [Paper](https://discovery.ucl.ac.uk/10205033/1/Neural%20ODE-based%20Imitation%20Learning%20%28NODE-IL%29%20-%20%20Data-Efficient%20Imitation%20Learning%20for%20Long-Horizon%20Multi-Skill%20Robot%20Manipulation.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802736) |
 | 2024 | SCaR: Refining Skill Chaining for Long-Horizon Robotic Manipulation via Dual Regularization | NeurIPS · Manipulation | [Paper](https://doi.org/10.52202/079017-3547) · [Publisher](https://doi.org/10.52202/079017-3547) |
 | 2023 | RoboCook: Long-Horizon Elasto-Plastic Object Manipulation with Diverse Tools | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2306.14447) · [Publisher](https://doi.org/10.48550/arXiv.2306.14447) |
-| 2023 | Structured Motion Generation with Predictive Learning: Proposing Subgoal for Long-Horizon Manipulation | ICRA · Manipulation | [Paper](https://www.pure.ed.ac.uk/ws/files/330016610/Structured_Motion_SAITO_DOA02032023_AFV_CC_BY.pdf) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161046) |
-| 2022 | Learning Multi-step Robotic Manipulation Policies from Visual Observation of Scene and Q-value Predictions of Previous Action | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2202.11280) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812251) |
+| 2023 | Structured Motion Generation with Predictive Learning: Proposing Subgoal for Long-Horizon Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161046) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161046) |
+| 2022 | Learning Multi-step Robotic Manipulation Policies from Visual Observation of Scene and Q-value Predictions of Previous Action | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2202.11280) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812251) |
 | 2022 | Relationship Oriented Semantic Scene Understanding for Daily Manipulation Tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981960) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981960) |
 
-## Recent arXiv papers (169)
+## Recent arXiv papers (184)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-16 | InstAgent: A Recursively Self-Improving Agent Operating System for Heterogeneous Robot Collaboration | Haoyang Luo, Junhao Qin, Jingyan Cao, Yi Huang et al. | [Abstract](https://arxiv.org/abs/2610.23098) · [PDF](https://arxiv.org/pdf/2610.23098) |
+| 2026-10-15 | Sub-Millisecond Reflexes for Continuous Physical Human-Robot Interaction | Jon Škerlj, Sami Haddadin | [Abstract](https://arxiv.org/abs/2610.21913) · [PDF](https://arxiv.org/pdf/2610.21913) |
+| 2026-10-15 | Mem4Act: Learning Effective Latent Memory for Long-Horizon Robotic Manipulation | Yun Zhang, Zhiyu Huang, Tianhui Cai, Chen Tang et al. | [Abstract](https://arxiv.org/abs/2610.22323) · [PDF](https://arxiv.org/pdf/2610.22323) |
+| 2026-10-14 | MUCO: A Mani-Unit-Structured Manipulation Framework for Compositional Long-Horizon Robot Tasks | Xiangyi Wei, Hanzhe Yao, Jingwen Shang, Zhenhong Wu et al. | [Abstract](https://arxiv.org/abs/2610.19913) · [PDF](https://arxiv.org/pdf/2610.19913) |
+| 2026-10-13 | ReEnvision: Future-Guided Selective Action Repair for Long-Horizon Manipulation | Xiyin Zeng, Xuewei Huang, Yi Lu, Weihao Yuan et al. | [Abstract](https://arxiv.org/abs/2610.17977) · [PDF](https://arxiv.org/pdf/2610.17977) |
+| 2026-10-13 | Let the Mind Conceive, Let the Hand Achieve: Following Multimodal Instructions for Long-Horizon Robotic Manipulation | Youpeng Wen, Gang Wang, Tianyu Huang, Weiwei Zhang et al. | [Abstract](https://arxiv.org/abs/2610.18352) · [PDF](https://arxiv.org/pdf/2610.18352) |
+| 2026-10-13 | LADDER: A Long-Horizon Robot Manipulation Benchmark | Petko Petkov, Giuliano Albanese, Nikolay Nikolov, Luc Van Gool et al. | [Abstract](https://arxiv.org/abs/2610.18053) · [PDF](https://arxiv.org/pdf/2610.18053) |
+| 2026-10-11 | Exploring the Limits of Combinatorial Generalization in Embodied Manipulation | Xupeng Zhang, Yantai Yang, Chang Guo, Zhaokai Yin et al. | [Abstract](https://arxiv.org/abs/2610.15425) · [PDF](https://arxiv.org/pdf/2610.15425) |
+| 2026-10-10 | Scalable Multi-Human Cooperative Manipulation via Commander-Executor Coordination | Buzhen Huang, Xingchen Wu, Yuanwang Yang, Chenyi Xie et al. | [Abstract](https://arxiv.org/abs/2610.14911) · [PDF](https://arxiv.org/pdf/2610.14911) |
+| 2026-10-08 | SkillWeave: Weaving Heterogeneous Demonstrations into Long-Horizon Manipulation Skills | Ryosei Tamura, Xiaoxiang Dong, Uksang Yoo, Yuemin Mao et al. | [Abstract](https://arxiv.org/abs/2610.12046) · [PDF](https://arxiv.org/pdf/2610.12046) |
+| 2026-10-08 | REMM: Revisable Embodied Memory for Manipulation | Revanth Krishna Senthilkumaran, Ruwan Wickramarachchi, Alessandro Oltramari, Jonathan Francis | [Abstract](https://arxiv.org/abs/2610.12710) · [PDF](https://arxiv.org/pdf/2610.12710) |
+| 2026-10-08 | Fly-by-Code: Embodied Coding Agents for Aerial Manipulation with Active Visual and Physical Feedback | Jaewoo Lee, Jeongyeon Seo, Sihyun Cho, Gyeongrak Choe et al. | [Abstract](https://arxiv.org/abs/2610.12549) · [PDF](https://arxiv.org/pdf/2610.12549) |
+| 2026-10-07 | Diagnosing and Recovering from Observation-Space Shift at Long-Horizon Skill Seams | Pranav Wagh, Yu Fang, Yue Yang, Mingyu Ding | [Abstract](https://arxiv.org/abs/2610.10810) · [PDF](https://arxiv.org/pdf/2610.10810) |
+| 2026-10-06 | PACE: Stage-Consistent Long-Horizon Robot Manipulation via Progress-Aligned Context for Execution | Yenan Chen, Junjie Shi, Lu Chen, Zhongxiang Zhou et al. | [Abstract](https://arxiv.org/abs/2610.07917) · [PDF](https://arxiv.org/pdf/2610.07917) |
+| 2026-10-04 | EvoMem-VLA: State-Evolution Memory for Long-Horizon Robot Manipulation | Yuheng Na, Zhide Zhong, Junjie He, Junfeng Li et al. | [Abstract](https://arxiv.org/abs/2610.05418) · [PDF](https://arxiv.org/pdf/2610.05418) |
 | 2026-10-02 | Bridging Frontier Reasoning and Robot Execution: From Autonomous Demonstration Generation to Dense Language Supervision | Bosung Kim, Alexander Trevithick, Ruiyi Wang, Prithviraj Ammanabrolu | [Abstract](https://arxiv.org/abs/2610.03615) · [PDF](https://arxiv.org/pdf/2610.03615) |
 | 2026-09-30 | LIBERO-Agent: Evaluating General-Purpose Agents for Direct Embodied Manipulation | Zijie Diao, Yitong Chen, Sicheng Xie, Tianyi Lu et al. | [Abstract](https://arxiv.org/abs/2609.39507) · [PDF](https://arxiv.org/pdf/2609.39507) |
 | 2026-09-29 | RoboHarn-Evo: Evolving Hierarchical Physical Knowledge for Self-Improving Robotic Manipulation | Shifeng Bao, Fanding Huang, Yihan Lin, Youhe Feng et al. | [Abstract](https://arxiv.org/abs/2609.37583) · [PDF](https://arxiv.org/pdf/2609.37583) |
@@ -157,7 +172,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-09-30 | Reinforced Embodied Planning with Verifiable Reward for Real-World Robotic Manipulation | Zitong Bo, Yue Hu, Jinming Ma, Mingliang Zhou et al. | [Abstract](https://arxiv.org/abs/2509.25852) · [PDF](https://arxiv.org/pdf/2509.25852) |
 | 2025-09-29 | SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation | Qianzhong Chen, Justin Yu, Mac Schwager, Pieter Abbeel et al. | [Abstract](https://arxiv.org/abs/2509.25358) · [PDF](https://arxiv.org/pdf/2509.25358) |
 | 2025-09-26 | SAGE: Scene Graph-Aware Guidance and Execution for Long-Horizon Manipulation Tasks | Jialiang Li, Wenzheng Wu, Gaojing Zhang, Yifan Han et al. | [Abstract](https://arxiv.org/abs/2509.21928) · [PDF](https://arxiv.org/pdf/2509.21928) |
-| 2025-09-23 | Growing with Your Embodied Agent: A Human-in-the-Loop Lifelong Code Generation Framework for Long-Horizon Manipulation Skills | Yuan Meng, Zhenguo Sun, Max Fest, Xukun Li et al. | [Abstract](https://arxiv.org/abs/2509.18597) · [PDF](https://arxiv.org/pdf/2509.18597) |
+| 2025-09-23 | Robotic Ultra-Long-Horizon Manipulation Skills via Human-guided Lifelong Code Generation | Yuan Meng, Zhenguo Sun, Max Fest, Xiangtong Yao et al. | [Abstract](https://arxiv.org/abs/2509.18597) · [PDF](https://arxiv.org/pdf/2509.18597) |
 | 2025-09-18 | COMPASS: Confined-space Manipulation Planning with Active Sensing Strategy | Qixuan Li, Chen Le, Dongyue Huang, Jincheng Yu et al. | [Abstract](https://arxiv.org/abs/2509.14787) · [PDF](https://arxiv.org/pdf/2509.14787) |
 | 2025-09-10 | RoboMatch: A Unified Mobile-Manipulation Teleoperation Platform with Auto-Matching Network Architecture for Long-Horizon Tasks | Hanyu Liu, Yunsheng Ma, Jiaxin Huang, Keqiang Ren et al. | [Abstract](https://arxiv.org/abs/2509.08522) · [PDF](https://arxiv.org/pdf/2509.08522) |
 | 2025-09-04 | Learning Multi-Stage Pick-and-Place with a Legged Mobile Manipulator | Haichao Zhang, Haonan Yu, Le Zhao, Andrew Choi et al. | [Abstract](https://arxiv.org/abs/2509.03859) · [PDF](https://arxiv.org/pdf/2509.03859) |
@@ -172,6 +187,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-05-01 | DeCo: Task Decomposition and Skill Composition for Zero-Shot Generalization in Long-Horizon 3D Manipulation | Zixuan Chen, Junhui Yin, Yangtao Chen, Jing Huo et al. | [Abstract](https://arxiv.org/abs/2505.00527) · [PDF](https://arxiv.org/pdf/2505.00527) |
 | 2025-04-02 | RoboAct-CLIP: Video-Driven Pre-training of Atomic Action Understanding for Robotics | Zhiyuan Zhang, Yuxin He, Yong Sun, Junyu Shi et al. | [Abstract](https://arxiv.org/abs/2504.02069) · [PDF](https://arxiv.org/pdf/2504.02069) |
 | 2025-03-28 | REMAC: Self-Reflective and Self-Evolving Multi-Agent Collaboration for Long-Horizon Robot Manipulation | Puzhen Yuan, Angyuan Ma, Yunchao Yao, Huaxiu Yao et al. | [Abstract](https://arxiv.org/abs/2503.22122) · [PDF](https://arxiv.org/pdf/2503.22122) |
+| 2025-03-27 | Robotic Long-Horizon Manipulation with Progressive In-Context Code Generation and Episodic Feedback | Yuan Meng, Xiangtong Yao, Haihui Ye, Yirui Zhou et al. | [Abstract](https://arxiv.org/abs/2503.21969) · [PDF](https://arxiv.org/pdf/2503.21969) |
+| 2025-03-27 | Robotic Long-Horizon Manipulation with Bayesian Non-parametric Skill Priors | Yuan Meng, Xiangtong Yao, Yansong Wu, Liding Zhang et al. | [Abstract](https://arxiv.org/abs/2503.21975) · [PDF](https://arxiv.org/pdf/2503.21975) |
 | 2025-03-09 | AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems | AgiBot-World-Contributors, Qingwen Bu, Jisong Cai, Li Chen et al. | [Abstract](https://arxiv.org/abs/2503.06669) · [PDF](https://arxiv.org/pdf/2503.06669) |
 | 2025-02-28 | RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete | Yuheng Ji, Huajie Tan, Jiayu Shi, Xiaoshuai Hao et al. | [Abstract](https://arxiv.org/abs/2502.21257) · [PDF](https://arxiv.org/pdf/2502.21257) |
 | 2025-02-21 | Learning Long-Horizon Robot Manipulation Skills via Privileged Action | Xiaofeng Mao, Yucheng Xu, Zhaole Sun, Elle Miller et al. | [Abstract](https://arxiv.org/abs/2502.15442) · [PDF](https://arxiv.org/pdf/2502.15442) |
@@ -209,8 +226,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-14 | Detecting Grasping Sites in a Martian Lava Tube: Multi-Stage Perception Trade Study for ReachBot | Julia Di | [Abstract](https://arxiv.org/abs/2312.09302) · [PDF](https://arxiv.org/pdf/2312.09302) |
 | 2023-12-04 | I-PHYRE: Interactive Physical Reasoning | Shiqian Li, Kewen Wu, Chi Zhang, Yixin Zhu | [Abstract](https://arxiv.org/abs/2312.03009) · [PDF](https://arxiv.org/pdf/2312.03009) |
 | 2023-11-02 | NOD-TAMP: Generalizable Long-Horizon Planning with Neural Object Descriptors | Shuo Cheng, Caelan Garrett, Ajay Mandlekar, Danfei Xu | [Abstract](https://arxiv.org/abs/2311.01530) · [PDF](https://arxiv.org/pdf/2311.01530) |
-| 2023-10-16 | Video Language Planning | Yilun Du, Mengjiao Yang, Pete Florence, Fei Xia et al. | [Abstract](https://arxiv.org/abs/2310.10625) · [PDF](https://arxiv.org/pdf/2310.10625) |
-| 2023-10-12 | Universal Visual Decomposer: Long-Horizon Manipulation Made Easy | Zichen Zhang, Yunshuang Li, Osbert Bastani, Abhishek Gupta et al. | [Abstract](https://arxiv.org/abs/2310.08581) · [PDF](https://arxiv.org/pdf/2310.08581) |
 
 ---
 

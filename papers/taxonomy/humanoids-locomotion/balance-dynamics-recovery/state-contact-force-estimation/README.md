@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Balance%2C%20Dynamics%20%26%20Recovery&specialty=State%2C%20Contact%20%26%20Force%20Estimation#research-workbench)
 
-> 2 conference papers · 11 recent arXiv papers
+> 2 conference papers · 12 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -19,12 +19,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | A Data-Driven Contact Estimation Method for Wheeled-Biped Robots | ICRA · Biped | [Paper](https://arxiv.org/pdf/2410.12345) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128254) |
-| 2025 | Simultaneous Collision Detection and Force Estimation for Dynamic Quadrupedal Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2504.17201) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128205) |
+| 2025 | Simultaneous Collision Detection and Force Estimation for Dynamic Quadrupedal Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2504.17201) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128205) |
 
-## Recent arXiv papers (11)
+## Recent arXiv papers (12)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-13 | Locomotion with Online Awareness of Dynamics for Precision Footholds | Kunzhao Ren, Zhishuo Zhu, Xiaobin Xiong | [Abstract](https://arxiv.org/abs/2610.17930) · [PDF](https://arxiv.org/pdf/2610.17930) |
 | 2026-06-20 | Full Nonlinear Nonholonomic Dynamics and Motion Analysis of a 3-DoF Underactuated Spherical Rolling Robot | Lakshmesha Krishnapa, Ahnaf Sharaar Mazahar, Seyed Amir Tafrishi | [Abstract](https://arxiv.org/abs/2606.22169) · [PDF](https://arxiv.org/pdf/2606.22169) |
 | 2026-04-26 | QuietWalk: Physics-Informed Reinforcement Learning for Ground Reaction Force-Aware Humanoid Locomotion Under Diverse Footwear | Hanze Hu, Luying Feng, Silu Chen, Tianjiang Zheng et al. | [Abstract](https://arxiv.org/abs/2604.23702) · [PDF](https://arxiv.org/pdf/2604.23702) |
 | 2026-03-18 | Proprioceptive-only State Estimation for Legged Robots with Set-Coverage Measurements of Learned Dynamics | Abhijeet M. Kulkarni, Ioannis Poulakakis, Guoquan Huang | [Abstract](https://arxiv.org/abs/2603.18308) · [PDF](https://arxiv.org/pdf/2603.18308) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Retargeting%20%26%20Human%20Motion&specialty=Cross-embodiment%20Demonstration%20Transfer#research-workbench)
 
-> 7 conference papers · 82 recent arXiv papers
+> 7 conference papers · 87 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,18 +18,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover | ICRA · Robot Hand | [Paper](https://arxiv.org/abs/2408.14997) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128648) |
+| 2025 | Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover | ICRA · Robot Hand | [Paper](https://arxiv.org/pdf/2408.14997) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128648) |
 | 2024 | GenH2R: Learning Generalizable Human-to-Robot Handover via Scalable Simulation, Demonstration, and Imitation | CVPR · Robot Hand | [Paper](https://arxiv.org/pdf/2401.00929) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01548) |
 | 2024 | Overcoming Hand and Arm Occlusion in Human-to-Robot Handovers: Predicting Safe Poses with a Multimodal DNN Regression Model | ICRA · Robot Hand | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610777) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610777) |
 | 2024 | SynH2R: Synthesizing Hand-Object Motions for Learning Human-to-Robot Handovers | ICRA · Robot Hand | [Paper](https://arxiv.org/pdf/2311.05599) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610694) |
-| 2023 | Learning Human-to-Robot Handovers from Point Clouds | CVPR · Robot Hand | [Paper](https://arxiv.org/abs/2303.17592) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.00931) |
+| 2023 | Learning Human-to-Robot Handovers from Point Clouds | CVPR · Robot Hand | [Paper](https://arxiv.org/pdf/2303.17592) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.00931) |
 | 2023 | Expressing and Inferring Action Carefulness in Human-to-Robot Handovers | IROS · Robot Hand | [Paper](https://arxiv.org/pdf/2310.00465) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342111) |
 | 2022 | Model Predictive Control for Fluid Human-to-Robot Handovers | ICRA · Robot Hand | [Paper](https://arxiv.org/abs/2204.00134) · [Publisher](https://doi.org/10.48550/arXiv.2204.00134) |
 
-## Recent arXiv papers (82)
+## Recent arXiv papers (87)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-14 | EgoJEPA: Beyond Retargeting for Dexterous Manipulation from Egocentric Videos | Meng Cao, Can Zhao, Jinjie Wei, Haonan Zhao et al. | [Abstract](https://arxiv.org/abs/2610.20904) · [PDF](https://arxiv.org/pdf/2610.20904) |
+| 2026-10-13 | FACT: A Multimodal Force-Action-Track Foundation Model for Human-to-Robot Dexterity | Zhi Cao, Yining Hong, Jiaolong Yang, Yejin Choi et al. | [Abstract](https://arxiv.org/abs/2610.19155) · [PDF](https://arxiv.org/pdf/2610.19155) |
+| 2026-10-11 | Hand2Robot: Object-Centric 4D Hand Reconstruction from Human Demonstrations for Robotics | Zetao Du, Weiqing Wang, Hanbing Zhang, Yimiao Zhou et al. | [Abstract](https://arxiv.org/abs/2610.15769) · [PDF](https://arxiv.org/pdf/2610.15769) |
+| 2026-10-08 | Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation | Dechen Gao, Yue Yang, Ben Abbatematteo, Nathan Godwin et al. | [Abstract](https://arxiv.org/abs/2610.12440) · [PDF](https://arxiv.org/pdf/2610.12440) |
 | 2026-10-01 | World Motion Models: Flexible Sequence Modeling of SE(3) Trajectories | Jiahui Lei, Qianqian Wang, Trevor Darrell, Angjoo Kanazawa | [Abstract](https://arxiv.org/abs/2610.01742) · [PDF](https://arxiv.org/pdf/2610.01742) |
 | 2026-09-29 | Skill-Space Shooting for Autonomous Robot Policy Improvement | Zihang Rui, Renhao Wang, Haoxu Huang, Yang Gao | [Abstract](https://arxiv.org/abs/2609.38178) · [PDF](https://arxiv.org/pdf/2609.38178) |
 | 2026-09-21 | Touch2Robot: Robot Touch in the Human Demonstration Loop | Shengcheng Luo, Xiaoyang Cheng, Hong Ying, Xiaoying Zhou et al. | [Abstract](https://arxiv.org/abs/2609.24660) · [PDF](https://arxiv.org/pdf/2609.24660) |
@@ -55,6 +59,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-02-13 | Scaling Single Human Demonstrations for Imitation Learning using Generative Foundational Models | Nick Heppert, Minh Quang Nguyen, Abhinav Valada | [Abstract](https://arxiv.org/abs/2602.12734) · [PDF](https://arxiv.org/pdf/2602.12734) |
 | 2026-02-09 | Learning to Drive in New Cities Without Human Demonstrations | Zilin Wang, Saeed Rahmani, Daphne Cornelisse, Bidipta Sarkar et al. | [Abstract](https://arxiv.org/abs/2602.15891) · [PDF](https://arxiv.org/pdf/2602.15891) |
 | 2026-02-05 | RoboPaint: From Human Demonstration to Any Robot and Any View | Jiacheng Fan, Zhiyue Zhao, Yiqian Zhang, Chao Chen et al. | [Abstract](https://arxiv.org/abs/2602.05325) · [PDF](https://arxiv.org/pdf/2602.05325) |
+| 2026-01-12 | SHARE: Sharing Human Actions across Robot Embodiments through Unified Retargeting and Tracking | Junzhe Xu, Haoyu Zhang, Yunheng Wang, Taowen Wang et al. | [Abstract](https://arxiv.org/abs/2601.07284) · [PDF](https://arxiv.org/pdf/2601.07284) |
 | 2025-12-17 | Movement Primitives in Robotics: A Comprehensive Survey | Nolan B. Gutierrez, Joseph M. Cloud, William J. Beksi | [Abstract](https://arxiv.org/abs/2601.02379) · [PDF](https://arxiv.org/pdf/2601.02379) |
 | 2025-12-02 | RoboWheel: A Data Engine from Real-World Human Demonstrations for Cross-Embodiment Robotic Learning | Yuhong Zhang, Zihan Gao, Shengpeng Li, Ling-Hao Chen et al. | [Abstract](https://arxiv.org/abs/2512.02729) · [PDF](https://arxiv.org/pdf/2512.02729) |
 | 2025-11-20 | Green Resilience of Cyber-Physical Systems: Doctoral Dissertation | Diaeddin Rimawi | [Abstract](https://arxiv.org/abs/2511.16593) · [PDF](https://arxiv.org/pdf/2511.16593) |

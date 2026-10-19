@@ -18,15 +18,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | 3D Vision-tactile Reconstruction from Infrared and Visible Images for Robotic Fine-grained Tactile Perception | IROS · Tactile | [Paper](https://arxiv.org/abs/2506.15087) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246893) |
+| 2025 | 3D Vision-tactile Reconstruction from Infrared and Visible Images for Robotic Fine-grained Tactile Perception | IROS · Tactile | [Paper](https://arxiv.org/pdf/2506.15087) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246893) |
 | 2024 | GelRoller: A Rolling Vision-based Tactile Sensor for Large Surface Reconstruction Using Self-Supervised Photometric Stereo Method | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610417) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610417) |
-| 2024 | CompdVision: Combining Near-Field 3D Visual and Tactile Sensing Using a Compact Compound-Eye Imaging System | IROS · Tactile | [Paper](https://arxiv.org/abs/2312.07146) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801461) |
+| 2024 | CompdVision: Combining Near-Field 3D Visual and Tactile Sensing Using a Compact Compound-Eye Imaging System | IROS · Tactile | [Paper](https://arxiv.org/pdf/2312.07146) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801461) |
 | 2022 | f-Cal: Aleatoric uncertainty quantification for robot perception via calibrated neural regression | ICRA · Robot Perception | [Paper](https://doi.org/10.1109/icra46639.2022.9811903) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811903) |
 
 ## Recent arXiv papers (119)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-11 | Harnessing SPAD Noise: Test-Time Gated Attention for Indoor Depth Estimation | Yiquan Gao | [Abstract](https://arxiv.org/abs/2610.15431) · [PDF](https://arxiv.org/pdf/2610.15431) |
+| 2026-10-08 | CoCam4D: Geometry-Aware Cooperative 4D Perception for Camera-Only Autonomous Driving | Soham Pahari, Sudip Das, Arindam Das, Ujjwal Bhattacharya | [Abstract](https://arxiv.org/abs/2610.11577) · [PDF](https://arxiv.org/pdf/2610.11577) |
 | 2026-10-02 | Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis | Keerthi Kaashyap, Dennis Anthony, Akshay Krishnan, Nhi Ngoc Nguyen et al. | [Abstract](https://arxiv.org/abs/2610.03717) · [PDF](https://arxiv.org/pdf/2610.03717) |
 | 2026-09-27 | EpiTransfer: Sparse, Training-Free Long-Range Depth Estimation from Temporal Monocular Aerial Frames | Diksha Aggarwal, Rutvik Dagadkhair, Sanjana Srivastava, Bradley Denby et al. | [Abstract](https://arxiv.org/abs/2609.33939) · [PDF](https://arxiv.org/pdf/2609.33939) |
 | 2026-09-22 | CODA: Depth-Aligned Scene Completion and Object Decomposition from a Single RGB-D Image | Dongwon Son, Junhyek Han, Yoontae Cho, Minseok Lee et al. | [Abstract](https://arxiv.org/abs/2609.25654) · [PDF](https://arxiv.org/pdf/2609.25654) |
@@ -144,8 +146,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-27 | What You See Is What You Detect: Towards better Object Densification in 3D detection | Tianran Liu, Zeping Zhang, Morteza Mousa Pasandi, Robert Laganiere | [Abstract](https://arxiv.org/abs/2310.17842) · [PDF](https://arxiv.org/pdf/2310.17842) |
 | 2023-10-25 | Metrically Scaled Monocular Depth Estimation through Sparse Priors for Underwater Robots | Luca Ebner, Gideon Billings, Stefan Williams | [Abstract](https://arxiv.org/abs/2310.16750) · [PDF](https://arxiv.org/pdf/2310.16750) |
 | 2023-10-23 | RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions | Lingdong Kong, Shaoyuan Xie, Hanjiang Hu, Lai Xing Ng et al. | [Abstract](https://arxiv.org/abs/2310.15171) · [PDF](https://arxiv.org/pdf/2310.15171) |
-| 2023-10-17 | Diver Interest via Pointing in Three Dimensions: 3D Pointing Reconstruction for Diver-AUV Communication | Chelsey Edge, Demetrious Kutzke, Megdalia Bromhal, Junaed Sattar | [Abstract](https://arxiv.org/abs/2310.11536) · [PDF](https://arxiv.org/pdf/2310.11536) |
-| 2023-10-15 | Tabletop Transparent Scene Reconstruction via Epipolar-Guided Optical Flow with Monocular Depth Completion Prior | Xiaotong Chen, Zheming Zhou, Zhuo Deng, Omid Ghasemalizadeh et al. | [Abstract](https://arxiv.org/abs/2310.09956) · [PDF](https://arxiv.org/pdf/2310.09956) |
 
 ---
 

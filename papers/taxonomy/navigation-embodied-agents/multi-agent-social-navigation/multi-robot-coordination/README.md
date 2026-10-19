@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Multi-agent%20%26%20Social%20Navigation&specialty=Multi-robot%20Coordination#research-workbench)
 
-> 57 conference papers · 252 recent arXiv papers
+> 57 conference papers · 254 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,38 +18,38 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | A Multimodal Stochastic Planning Approach for Navigation and Multi-Robot Coordination | ICRA · Navigation | [Paper](https://arxiv.org/abs/2509.19168) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695728) |
+| 2026 | A Multimodal Stochastic Planning Approach for Navigation and Multi-Robot Coordination | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2509.19168) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695728) |
 | 2026 | Energy-Aware Informative Path Planning for Heterogeneous Multi-Robot Systems | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696344) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696344) |
 | 2025 | An Efficient NSGA-II-Based Algorithm for Multi-Robot Coverage Path Planning | ICRA · Path Planning | [Paper](https://hal.science/hal-04983808v1/document) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128792) |
 | 2025 | Constrained Nonlinear Kaczmarz Projection on Intersections of Manifolds for Coordinated Multi-Robot Mobile Manipulation | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2410.21630) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127991) |
 | 2025 | Coordinated Multi-Robot Navigation with Formation Adaptation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2404.01618) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128457) |
-| 2025 | Escaping Local Minima: Hybrid Artificial Potential Field with Wall-Follower for Decentralized Multi-Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.10332) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128765) |
-| 2025 | Hypergraph-Based Coordinated Task Allocation and Socially-Aware Navigation for Multi-Robot Systems | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.11561) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128092) |
+| 2025 | Escaping Local Minima: Hybrid Artificial Potential Field with Wall-Follower for Decentralized Multi-Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.10332) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128765) |
+| 2025 | Hypergraph-Based Coordinated Task Allocation and Socially-Aware Navigation for Multi-Robot Systems | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.11561) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128092) |
 | 2025 | Integrating Multi-Robot Adaptive Sampling and Informative Path Planning for Spatiotemporal Natural Environment Prediction | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128099) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128099) |
-| 2025 | Language-Conditioned Offline RL for Multi-Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2407.20164) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127288) |
-| 2025 | MARVEL: Multi-Agent Reinforcement Learning for Constrained Field-of-View Multi-Robot Exploration in Large-Scale Environments | ICRA · Exploration | [Paper](https://arxiv.org/abs/2502.20217) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127700) |
+| 2025 | Language-Conditioned Offline RL for Multi-Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2407.20164) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127288) |
+| 2025 | MARVEL: Multi-Agent Reinforcement Learning for Constrained Field-of-View Multi-Robot Exploration in Large-Scale Environments | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2502.20217) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127700) |
 | 2025 | RACE: A Fast and Lightweight Urban Exploration and Search Strategy for Multi-Robot Systems | ICRA · Exploration | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128833) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128833) |
 | 2025 | Realm: Real-Time Line-of-Sight Maintenance in Multi-Robot Navigation with Unknown Obstacles | ICRA · Navigation | [Paper](https://arxiv.org/abs/2502.15162) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128211) |
-| 2025 | Targeted Parallelization of Conflict-Based Search for Multi-Robot Path Planning | ICRA · Path Planning | [Paper](https://arxiv.org/abs/2402.11768) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128488) |
+| 2025 | Targeted Parallelization of Conflict-Based Search for Multi-Robot Path Planning | ICRA · Path Planning | [Paper](https://arxiv.org/pdf/2402.11768) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128488) |
 | 2025 | TaskExp: Enhancing Generalization of Multi-Robot Exploration with Multi-Task Pre-Training | ICRA · Exploration | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128456) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128456) |
 | 2025 | Decentralized Multi-robot Navigation Policy with Enhanced Security Using Graph GRU Policy Network | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS60139.2025.11245969) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245969) |
 | 2025 | DHC-ME: A Decentralized Hybrid Cooperative Approach for Multi-Robot Autonomous Exploration | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS60139.2025.11246448) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246448) |
 | 2025 | Energy-constrained multi-robot exploration for autonomous map building | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS60139.2025.11247332) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247332) |
-| 2025 | MRS-CWC: A Weakly Constrained Multi-Robot System with Controllable Constraint Stiffness for Mobility and Navigation in Unknown 3D Rough Environments | IROS · Navigation | [Paper](https://arxiv.org/abs/2503.11461) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245904) |
-| 2025 | Online Concurrent Multi-Robot Coverage Path Planning | IROS · Path Planning | [Paper](https://arxiv.org/abs/2403.10460) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247261) |
-| 2024 | A Distributed Multi-Robot Framework for Exploration, Information Acquisition and Consensus | ICRA · Exploration | [Paper](https://arxiv.org/abs/2310.01930) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610185) |
+| 2025 | MRS-CWC: A Weakly Constrained Multi-Robot System with Controllable Constraint Stiffness for Mobility and Navigation in Unknown 3D Rough Environments | IROS · Navigation | [Paper](https://arxiv.org/pdf/2503.11461) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245904) |
+| 2025 | Online Concurrent Multi-Robot Coverage Path Planning | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2403.10460) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247261) |
+| 2024 | A Distributed Multi-Robot Framework for Exploration, Information Acquisition and Consensus | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2310.01930) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610185) |
 | 2024 | Bayesian-Guided Evolutionary Strategy with RRT for Multi-Robot Exploration | ICRA · Exploration | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610963) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610963) |
 | 2024 | Collision Detection and Avoidance for Black Box Multi-Robot Navigation | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610891) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610891) |
-| 2024 | Decentralized Multi-Robot Navigation for Autonomous Surface Vehicles with Distributional Reinforcement Learning | ICRA · Navigation | [Paper](https://arxiv.org/abs/2402.11799) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611668) |
-| 2024 | Multi-Robot Autonomous Exploration and Mapping Under Localization Uncertainty with Expectation-Maximization | ICRA · Exploration | [Paper](https://arxiv.org/abs/2403.04021) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611495) |
-| 2024 | Multi-Robot Cooperative Socially-Aware Navigation Using Multi-Agent Reinforcement Learning | ICRA · Navigation | [Paper](https://arxiv.org/abs/2309.15234) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611322) |
+| 2024 | Decentralized Multi-Robot Navigation for Autonomous Surface Vehicles with Distributional Reinforcement Learning | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2402.11799) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611668) |
+| 2024 | Multi-Robot Autonomous Exploration and Mapping Under Localization Uncertainty with Expectation-Maximization | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2403.04021) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611495) |
+| 2024 | Multi-Robot Cooperative Socially-Aware Navigation Using Multi-Agent Reinforcement Learning | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2309.15234) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611322) |
 | 2024 | Multi-Robot Informative Path Planning from Regression with Sparse Gaussian Processes | ICRA · Path Planning | [Paper](https://arxiv.org/abs/2309.07050) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610484) |
 | 2024 | MuRoSim – A Fast and Efficient Multi-Robot Simulation for Learning-based Navigation | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610375) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610375) |
-| 2024 | Online On-Demand Multi-Robot Coverage Path Planning | ICRA · Path Planning | [Paper](https://arxiv.org/abs/2303.00047) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611610) |
+| 2024 | Online On-Demand Multi-Robot Coverage Path Planning | ICRA · Path Planning | [Paper](https://arxiv.org/pdf/2303.00047) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611610) |
 | 2024 | Safe Multi-Robot Exploration using Symbolic Control | ICRA · Exploration | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610520) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610520) |
 | 2024 | Traffic Flow Learning Enhanced Large-Scale Multi-Robot Cooperative Path Planning Under Uncertainties | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610592) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610592) |
-| 2024 | Well-Connected Set and Its Application to Multi-Robot Path Planning | ICRA · Path Planning | [Paper](https://arxiv.org/abs/2402.11766) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610741) |
-| 2024 | Communication-Constrained Multi-Robot Exploration with Intermittent Rendezvous | IROS · Exploration | [Paper](https://arxiv.org/abs/2309.13494) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802343) |
+| 2024 | Well-Connected Set and Its Application to Multi-Robot Path Planning | ICRA · Path Planning | [Paper](https://arxiv.org/pdf/2402.11766) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610741) |
+| 2024 | Communication-Constrained Multi-Robot Exploration with Intermittent Rendezvous | IROS · Exploration | [Paper](https://arxiv.org/pdf/2309.13494) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802343) |
 | 2024 | Decentralized Communication-Maintained Coordination for Multi-Robot Exploration: Achieving Connectivity and Adaptability | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS58592.2024.10802832) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802832) |
 | 2024 | Decentralized Multi-Robot Navigation Coupled with Spatial-Temporal RetNet Based on Deep Reinforcement Learning | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802823) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802823) |
 | 2024 | Multi-Robot Active Graph Exploration with Reduced Pose-SLAM Uncertainty via Submodular Optimization | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS58592.2024.10802691) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802691) |
@@ -65,7 +65,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Counterexample Guided Abstraction Refinement with Non-Refined Abstractions for Multi-Goal Multi-Robot Path Planning | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS55552.2023.10341952) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341952) |
 | 2023 | Decentralised Multi-Robot Exploration Using Monte Carlo Tree Search | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS55552.2023.10341485) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341485) |
 | 2023 | Efficient Heuristics for Multi-Robot Path Planning in Crowded Environments | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2306.14409) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341800) |
-| 2023 | SEAL: Simultaneous Exploration and Localization for Multi-Robot Systems | IROS · Exploration | [Paper](https://arxiv.org/pdf/2306.12623) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342157) |
+| 2023 | SEAL: Simultaneous Exploration and Localization for Multi-Robot Systems | IROS · Exploration | [Paper](https://arxiv.org/abs/2306.12623) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342157) |
 | 2023 | Social Triangles and Aggressive Lines: Multi-Robot Formations Impact Navigation and Approach | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342372) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342372) |
 | 2022 | Enhancing Deep Reinforcement Learning Approaches for Multi-Robot Navigation via Single-Robot Evolutionary Policy Search | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9812341) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812341) |
 | 2022 | On the Convergence of Multi-robot Constrained Navigation: A Parametric Control Lyapunov Function Approach | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811807) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811807) |
@@ -76,10 +76,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | PropEM-L: Radio Propagation Environment Modeling and Learning for Communication-Aware Multi-Robot Exploration | RSS · Exploration | [Paper](https://arxiv.org/abs/2205.01267) · [Publisher](https://doi.org/10.48550/arXiv.2205.01267) |
 | 2022 | Sub-1.5 Time-Optimal Multi-Robot Path Planning on Grids in Polynomial Time | RSS · Path Planning | [Paper](https://doi.org/10.15607/rss.2022.xviii.057) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.057) |
 
-## Recent arXiv papers (252)
+## Recent arXiv papers (254)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-14 | FPTAS for Polygonal Multi-Robot Motion Planning | Sayan Bandyapadhyay, William Lochet, Saket Saurabh, Jie Xue | [Abstract](https://arxiv.org/abs/2610.20244) · [PDF](https://arxiv.org/pdf/2610.20244) |
+| 2026-10-13 | Mobility-Budget-Constrained Submodular Maximization for Distributed Semantic Multi-Robot Exploration | Changxuan Yao, Sandilya Sai Garimella, Lu Gan, Panagiotis Tsiotras | [Abstract](https://arxiv.org/abs/2610.17562) · [PDF](https://arxiv.org/pdf/2610.17562) |
+| 2026-10-09 | MAGMA-Bench: Evaluating Long-Horizon Embodied Agents under Dynamic Tasks and Execution Failures | Loan Bernat, Matthieu Grard, Ariane Herbulot, Florent Lamiraux | [Abstract](https://arxiv.org/abs/2610.13534) · [PDF](https://arxiv.org/pdf/2610.13534) |
+| 2026-10-09 | Akule: Fast and Scalable Multi-Robot Motion Planning via Sparse Interaction Diffusion | Manav Vora, Gokul Puthumanaillam, Aditya Penumarti, Jane Shin et al. | [Abstract](https://arxiv.org/abs/2610.14248) · [PDF](https://arxiv.org/pdf/2610.14248) |
+| 2026-10-08 | Verifier-Mediated Multi-LLM Coordination for Multi-Robot Path Planning | Vivek Khatana, Zijian Song, Naira Hovakimyan, Petros Voulgaris | [Abstract](https://arxiv.org/abs/2610.12761) · [PDF](https://arxiv.org/pdf/2610.12761) |
+| 2026-10-08 | Distributed Relative Localization for Homogeneous Multi-Robot Systems through UWB Ranging and Limited Communications | Zhiqiang Cao, Ran Liu, Billy Pik Lik Lau, Chau Yuen et al. | [Abstract](https://arxiv.org/abs/2610.11308) · [PDF](https://arxiv.org/pdf/2610.11308) |
+| 2026-10-08 | Distributed Relative Localization Based on Ultra-WideBand and LiDAR for Multi-robot with Limited Communication | Zhiqiang Cao, Ran Liu, Billy Pik Lik Lau, Chau Yuen et al. | [Abstract](https://arxiv.org/abs/2610.11141) · [PDF](https://arxiv.org/pdf/2610.11141) |
+| 2026-10-07 | Distributed Motion Planning for Multi-Robot Systems under Topological Constraints | Gianpietro Battocletti, Dimitris Boskos, Dimos V. Dimarogonas, Bart De Schutter | [Abstract](https://arxiv.org/abs/2610.10065) · [PDF](https://arxiv.org/pdf/2610.10065) |
+| 2026-10-06 | Multi-Robot Multi-Goal Motion Planning with Stochastic Skills | William Schnyder, Valentin N. Hartmann, Stelian Coros | [Abstract](https://arxiv.org/abs/2610.07784) · [PDF](https://arxiv.org/pdf/2610.07784) |
 | 2026-09-28 | Denoising Multi-Robot Trajectories | Yuhao Zhang, Keisuke Okumura, Ajay Shankar, Amanda Prorok | [Abstract](https://arxiv.org/abs/2609.35651) · [PDF](https://arxiv.org/pdf/2609.35651) |
 | 2026-09-25 | MR. POP: Multi-Robot Parallel Optimizing Planner for Almost-Surely Asymptotically Optimal Planning | Chih H. Huang, Roy Xing, Brian Plancher, Zachary Kingston | [Abstract](https://arxiv.org/abs/2609.30644) · [PDF](https://arxiv.org/pdf/2609.30644) |
 | 2026-09-23 | CoRelNav: Collaborative Relational Navigation for Multi-Robot Spatially Constrained Semantic Navigation | Jinyu He, Zihao Mao, Haonan Jin, Mengyin Fu et al. | [Abstract](https://arxiv.org/abs/2609.27720) · [PDF](https://arxiv.org/pdf/2609.27720) |
@@ -325,13 +334,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-30 | Rule-Based Lloyd Algorithm for Multi-Robot Motion Planning and Control with Safety and Convergence Guarantees | Manuel Boldrer, Alvaro Serra-Gomez, Lorenzo Lyons, Vit Kratky et al. | [Abstract](https://arxiv.org/abs/2310.19511) · [PDF](https://arxiv.org/pdf/2310.19511) |
 | 2023-10-26 | Bin Assignment and Decentralized Path Planning for Multi-Robot Parcel Sorting | Teng Guo, Jingjin Yu | [Abstract](https://arxiv.org/abs/2310.17753) · [PDF](https://arxiv.org/pdf/2310.17753) |
 | 2023-10-19 | Multi-Robot Local Motion Planning Using Dynamic Optimization Fabrics | Saray Bakker, Luzia Knoedler, Max Spahn, Wendelin Böhmer et al. | [Abstract](https://arxiv.org/abs/2310.12816) · [PDF](https://arxiv.org/pdf/2310.12816) |
-| 2023-10-18 | Forward Kinematics of Object Transporting by a Multi-Robot System with a Deformable Sheet | Jiawei Hu, Wenhang Liu, Jingang Yi, Zhenhua Xiong | [Abstract](https://arxiv.org/abs/2310.11665) · [PDF](https://arxiv.org/pdf/2310.11665) |
-| 2023-10-18 | Do We Run Large-scale Multi-Robot Systems on the Edge? More Evidence for Two-Phase Performance in System Size Scaling | Jonas Kuckling, Robin Luckey, Viktor Avrutin, Andrew Vardy et al. | [Abstract](https://arxiv.org/abs/2310.11843) · [PDF](https://arxiv.org/pdf/2310.11843) |
-| 2023-10-13 | Multi-Robot Geometric Task-and-Motion Planning for Collaborative Manipulation Tasks | Hejia Zhang, Shao-Hung Chan, Jie Zhong, Jiaoyang Li et al. | [Abstract](https://arxiv.org/abs/2310.08802) · [PDF](https://arxiv.org/pdf/2310.08802) |
-| 2023-10-12 | Uncertainty-Aware Planning for Heterogeneous Robot Teams using Dynamic Topological Graphs and Mixed-Integer Programming | Cora A. Duggan, Kevin C. Wolfe, Bradley Woosley, Marin Kobilarov et al. | [Abstract](https://arxiv.org/abs/2310.08396) · [PDF](https://arxiv.org/pdf/2310.08396) |
-| 2023-10-09 | Multi-Robot Task Assignment and Path Finding for Time-Sensitive Missions with Online Task Generation | David Thorne, Brett T. Lopez | [Abstract](https://arxiv.org/abs/2310.06153) · [PDF](https://arxiv.org/pdf/2310.06153) |
-| 2023-10-09 | Efficient Multi-robot Active SLAM | Muhammad Farhan Ahmed, Matteo Maragliano, Vincent Frémont, Carmine Tommaso Recchiuto | [Abstract](https://arxiv.org/abs/2310.06160) · [PDF](https://arxiv.org/pdf/2310.06160) |
-| 2023-10-05 | A Survey of Multi-Robot Motion Planning | Hoang-Dung Bui | [Abstract](https://arxiv.org/abs/2310.08599) · [PDF](https://arxiv.org/pdf/2310.08599) |
 
 ---
 

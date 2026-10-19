@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Pretraining%2C%20Scaling%20%26%20Transfer&specialty=Fine-tuning%2C%20Few-shot%20%26%20Adaptation#research-workbench)
 
-> 32 conference papers · 199 recent arXiv papers
+> 31 conference papers · 203 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,34 +14,33 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (32)
+## Conference papers (31)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Compositional Context Fine-Tuning Vision-Language Model for Complex Assembly Action Understanding from Videos | ICRA · Language Model | [Paper](https://arxiv.org/abs/2607.10797) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695916) |
-| 2026 | Point2Act: Efficient 3D Distillation of Multimodal LLMs for Zero-Shot Context-Aware Grasping | ICRA · Llm | [Paper](https://arxiv.org/abs/2508.03099) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697250) |
-| 2026 | SafeNet: A Neural-Symbolic Network for Safe Planning in Robotic Systems using Formal Method-Guided LLM Fine-Tuning | ICRA · Llm | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697001) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697001) |
+| 2026 | Compositional Context Fine-Tuning Vision-Language Model for Complex Assembly Action Understanding from Videos | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2607.10797) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695916) |
+| 2026 | Point2Act: Efficient 3D Distillation of Multimodal LLMs for Zero-Shot Context-Aware Grasping | ICRA · Llm | [Paper](https://arxiv.org/pdf/2508.03099) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697250) |
 | 2025 | Lift3D Policy: Lifting 2D Foundation Models for Robust 3D Robotic Manipulation | CVPR · Foundation Model | [Paper](https://doi.org/10.1109/CVPR52734.2025.01617) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01617) |
 | 2025 | Tartan IMU: A Light Foundation Model for Inertial Positioning in Robotics | CVPR · Foundation Model | [Paper](https://doi.org/10.1109/CVPR52734.2025.02097) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02097) |
 | 2025 | ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2403.09583) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127622) |
-| 2025 | In-Context Learning Enables Robot Action Prediction in LLMs | ICRA · Llm | [Paper](https://arxiv.org/abs/2410.12782) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128807) |
-| 2025 | ZeroCAP: Zero-Shot Multi-Robot Context Aware Pattern Formation via Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2404.02318) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127452) |
+| 2025 | In-Context Learning Enables Robot Action Prediction in LLMs | ICRA · Llm | [Paper](https://arxiv.org/pdf/2410.12782) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128807) |
+| 2025 | ZeroCAP: Zero-Shot Multi-Robot Context Aware Pattern Formation via Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2404.02318) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127452) |
 | 2025 | Boosting Omnidirectional Stereo Matching with a Pre-trained Depth Foundation Model | IROS · Foundation Model | [Paper](https://infoscience.epfl.ch/handle/20.500.14299/252124) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246233) |
 | 2025 | Human-in-the-loop Learning for Adaptive Robot Manipulation using Large Language Models and Behavior Trees | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246114) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246114) |
 | 2025 | LLplace: Embodied 3D Indoor Layout Synthesis Framework with Large Language Model | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246995) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246995) |
-| 2025 | Task-Aware Robotic Grasping by evaluating Quality Diversity Solutions through Foundation Models | IROS · Foundation Model | [Paper](https://arxiv.org/abs/2411.14917) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246636) |
+| 2025 | Task-Aware Robotic Grasping by evaluating Quality Diversity Solutions through Foundation Models | IROS · Foundation Model | [Paper](https://arxiv.org/pdf/2411.14917) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246636) |
 | 2025 | Self-Improving Embodied Foundation Models | NeurIPS · Foundation Model | [Paper](https://arxiv.org/abs/2509.15155) · [Publisher](https://doi.org/10.48550/arXiv.2509.15155) |
 | 2024 | AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation | CoRL · Llm | [Paper](https://arxiv.org/abs/2406.11548) · [Publisher](https://doi.org/10.48550/arXiv.2406.11548) |
 | 2024 | Scaling Robot Policy Learning via Zero-Shot Labeling with Foundation Models | CoRL · Foundation Model | [Paper](https://arxiv.org/abs/2410.17772) · [Publisher](https://doi.org/10.48550/arXiv.2410.17772) |
 | 2024 | TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies | ICLR · Vla | [Paper](https://arxiv.org/abs/2412.10345) · [Publisher](https://doi.org/10.48550/arXiv.2412.10345) |
 | 2024 | SAM-E: Leveraging Visual Foundation Model with Sequence Imitation for Embodied Manipulation | ICML · Foundation Model | [Paper](https://arxiv.org/abs/2405.19586) · [Publisher](https://doi.org/10.48550/arXiv.2405.19586) |
 | 2024 | VoroNav: Voronoi-based Zero-shot Object Navigation with Large Language Model | ICML · Large Language Model | [Paper](https://arxiv.org/abs/2401.02695) · [Publisher](https://doi.org/10.48550/arXiv.2401.02695) |
-| 2024 | CAPE: Corrective Actions from Precondition Errors using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2211.09935) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611376) |
-| 2024 | Conditionally Combining Robot Skills using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2310.17019) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611275) |
+| 2024 | CAPE: Corrective Actions from Precondition Errors using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2211.09935) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611376) |
+| 2024 | Conditionally Combining Robot Skills using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2310.17019) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611275) |
 | 2024 | Few-Shot Panoptic Segmentation With Foundation Models | ICRA · Foundation Model | [Paper](https://arxiv.org/pdf/2309.10726) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611624) |
 | 2024 | Generalizable Thermal-based Depth Estimation via Pre-trained Visual Foundation Model | ICRA · Foundation Model | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610394) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610394) |
-| 2024 | Grasp-Anything: Large-scale Grasp Dataset from Foundation Models | ICRA · Foundation Model | [Paper](https://arxiv.org/abs/2309.09818) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611277) |
-| 2024 | Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs | ICRA · Llm | [Paper](https://arxiv.org/abs/2311.02847) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610744) |
+| 2024 | Grasp-Anything: Large-scale Grasp Dataset from Foundation Models | ICRA · Foundation Model | [Paper](https://arxiv.org/pdf/2309.09818) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611277) |
+| 2024 | Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs | ICRA · Llm | [Paper](https://arxiv.org/pdf/2311.02847) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610744) |
 | 2024 | BTGenBot: Behavior Tree Generation for Robotic Tasks with Lightweight LLMs | IROS · Llm | [Paper](https://arxiv.org/pdf/2403.12761) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802304) |
 | 2024 | ShapeGrasp: Zero-Shot Task-Oriented Grasping with Large Language Models through Geometric Decomposition | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2403.18062) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801661) |
 | 2024 | Learning to Learn Faster from Human Feedback with Language Model Predictive Control | RSS · Language Model | [Paper](https://arxiv.org/abs/2402.11450) · [Publisher](https://doi.org/10.48550/arXiv.2402.11450) |
@@ -51,10 +50,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Large Language Models as Zero-Shot Human Models for Human-Robot Interaction | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.03548) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341488) |
 | 2023 | TidyBot: Personalized Robot Assistance with Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2305.05658) · [Publisher](https://doi.org/10.1007/s10514-023-10139-z) |
 
-## Recent arXiv papers (199)
+## Recent arXiv papers (203)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-13 | Post-Training, Finetuning, and Steering:A Field Guide for Curating Training Data | Maria Attarian, Yifan Ruan, Claas Voelcker, Chenyang Cao et al. | [Abstract](https://arxiv.org/abs/2610.19143) · [PDF](https://arxiv.org/pdf/2610.19143) |
+| 2026-10-13 | LLM2R: From Large Language Models to 3D Reassemblers | Zhouhan Zhong, Qiuhong Shen, Xingyi Yang, Jinyi Xu et al. | [Abstract](https://arxiv.org/abs/2610.18604) · [PDF](https://arxiv.org/pdf/2610.18604) |
+| 2026-10-13 | GreenWAM: A World Foundation Model for Robotics | Gennady Sidorov, Valerii Kornilov, Denis Grankin, Polina Fedotova et al. | [Abstract](https://arxiv.org/abs/2610.18774) · [PDF](https://arxiv.org/pdf/2610.18774) |
+| 2026-10-07 | Many Ways to Succeed: Diversity-Driven RL Fine-Tuning for VLA Generalization | Haoru Li, Jinmei Liu, Zhiyong Wang, Xiaoming Li et al. | [Abstract](https://arxiv.org/abs/2610.09943) · [PDF](https://arxiv.org/pdf/2610.09943) |
+| 2026-10-05 | Recursive Video In-Context Learning for Agentic Robot | Wenrui Bao, Xinxin Liu, Bingxin Xu, Yuzhang Shang | [Abstract](https://arxiv.org/abs/2610.06843) · [PDF](https://arxiv.org/pdf/2610.06843) |
+| 2026-10-01 | Building Trustworthy Household Robots through Open-World Safety | Yu-Lin Tsai, Muxi Lyu, Roei Herzig, Koushik Sen et al. | [Abstract](https://arxiv.org/abs/2610.14034) · [PDF](https://arxiv.org/pdf/2610.14034) |
 | 2026-09-30 | Same Scene, Different Task: Skill Alignment for Compositional Generalization in VLAs | Taegeun Yang, Youngju Na, Yoonki Cho, Sung-Eui Yoon | [Abstract](https://arxiv.org/abs/2610.00524) · [PDF](https://arxiv.org/pdf/2610.00524) |
 | 2026-09-30 | Magic-W0: A Structured World-Action Foundation Model for Physical Intelligence | Xuhua Chen, Zhenhan Yin, Yuan Zhang, Lingfeng Zhang et al. | [Abstract](https://arxiv.org/abs/2609.39870) · [PDF](https://arxiv.org/pdf/2609.39870) |
 | 2026-09-30 | GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives | Qize Yu, Lianrui Fan, Boyu Chen, Jiaqi Liang et al. | [Abstract](https://arxiv.org/abs/2609.39601) · [PDF](https://arxiv.org/pdf/2609.39601) |
@@ -149,7 +154,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-09-15 | Embodied Navigation Foundation Model | Jiazhao Zhang, Anqi Li, Yunpeng Qi, Minghan Li et al. | [Abstract](https://arxiv.org/abs/2509.12129) · [PDF](https://arxiv.org/pdf/2509.12129) |
 | 2025-09-03 | sam-llm: interpretable lane change trajectoryprediction via parametric finetuning | Zhuo Cao, Yunxiao Shi, Min Xu | [Abstract](https://arxiv.org/abs/2509.03462) · [PDF](https://arxiv.org/pdf/2509.03462) |
 | 2025-09-03 | Human-LLM Synergy in Context-Aware Adaptive Architecture for Scalable Drone Swarm Operation | Ahmed R. Sadik, Muhammad Ashfaq, Niko Mäkitalo, Tommi Mikkonen | [Abstract](https://arxiv.org/abs/2509.05355) · [PDF](https://arxiv.org/pdf/2509.05355) |
-| 2025-08-26 | ZeST: an LLM-based Zero-Shot Traversability Navigation for Unknown Environments | Shreya Gummadi, Mateus V. Gasparino, Gianluca Capezzuto, Marcelo Becker et al. | [Abstract](https://arxiv.org/abs/2508.19131) · [PDF](https://arxiv.org/pdf/2508.19131) |
 | 2025-08-26 | An LLM-powered Natural-to-Robotic Language Translation Framework with Correctness Guarantees | ZhenDong Chen, ZhanShang Nie, ShiXing Wan, JunYi Li et al. | [Abstract](https://arxiv.org/abs/2508.19074) · [PDF](https://arxiv.org/pdf/2508.19074) |
 | 2025-08-14 | Few-shot Vision-based Human Activity Recognition with MLLM-based Visual Reinforcement Learning | Wenqi Zheng, Yutaka Arakawa | [Abstract](https://arxiv.org/abs/2508.10371) · [PDF](https://arxiv.org/pdf/2508.10371) |
 | 2025-08-11 | In-situ Value-aligned Human-Robot Interactions with Physical Constraints | Hongtao Li, Ziyuan Jiao, Xiaofeng Liu, Hangxin Liu et al. | [Abstract](https://arxiv.org/abs/2508.07606) · [PDF](https://arxiv.org/pdf/2508.07606) |
@@ -253,7 +257,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-25 | Conditionally Combining Robot Skills using Large Language Models | K. R. Zentner, Ryan Julian, Brian Ichter, Gaurav S. Sukhatme | [Abstract](https://arxiv.org/abs/2310.17019) · [PDF](https://arxiv.org/pdf/2310.17019) |
 | 2023-10-23 | Robot Fine-Tuning Made Easy: Pre-Training Rewards and Policies for Autonomous Real-World Reinforcement Learning | Jingyun Yang, Max Sobol Mark, Brandon Vu, Archit Sharma et al. | [Abstract](https://arxiv.org/abs/2310.15145) · [PDF](https://arxiv.org/pdf/2310.15145) |
 | 2023-10-19 | Eureka: Human-Level Reward Design via Coding Large Language Models | Yecheng Jason Ma, William Liang, Guanzhi Wang, De-An Huang et al. | [Abstract](https://arxiv.org/abs/2310.12931) · [PDF](https://arxiv.org/pdf/2310.12931) |
-| 2023-10-17 | Language Models as Zero-Shot Trajectory Generators | Teyun Kwon, Norman Di Palo, Edward Johns | [Abstract](https://arxiv.org/abs/2310.11604) · [PDF](https://arxiv.org/pdf/2310.11604) |
 
 ---
 

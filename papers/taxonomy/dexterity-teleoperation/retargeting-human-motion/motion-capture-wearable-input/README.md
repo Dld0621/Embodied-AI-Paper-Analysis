@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Retargeting%20%26%20Human%20Motion&specialty=Motion%20Capture%20%26%20Wearable%20Input#research-workbench)
 
-> 1 conference papers · 7 recent arXiv papers
+> 1 conference papers · 8 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2023 | Scalable. Intuitive Human to Robot Skill Transfer with Wearable Human Machine Interfaces: On Complex, Dexterous Tasks | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS55552.2023.10341661) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341661) |
 
-## Recent arXiv papers (7)
+## Recent arXiv papers (8)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-08 | YOCO: You Only Calibrate Once! Fast Mocap Calibration for Dexterous Teleoperation | Yu Zhang, Yunqi Li, Yushi Du, Yi Ma et al. | [Abstract](https://arxiv.org/abs/2610.11657) · [PDF](https://arxiv.org/pdf/2610.11657) |
 | 2026-09-28 | HOI-Retarget: Contact-Centric Retargeting for Human-Object Interaction | Jihwan Shin, Adrià López Escoriza, Junzhe He, Matthias Heyrman et al. | [Abstract](https://arxiv.org/abs/2609.34674) · [PDF](https://arxiv.org/pdf/2609.34674) |
 | 2026-09-12 | GIFT: Glove-Inferred Force Transfer: Force-Aware Human-to-Robot Skill Transfer from a Wearable Sensing Glove to a Robot Hand Without Tactile Sensors | Tzach Sarusi | [Abstract](https://arxiv.org/abs/2609.14173) · [PDF](https://arxiv.org/pdf/2609.14173) |
 | 2026-03-27 | T-800: An 800 Hz Data Glove for Precise Hand Gesture Tracking | Haoyang Luo, Zihang Zhao, Leiyao Cui, Saiyao Zhang et al. | [Abstract](https://arxiv.org/abs/2603.26403) · [PDF](https://arxiv.org/pdf/2603.26403) |

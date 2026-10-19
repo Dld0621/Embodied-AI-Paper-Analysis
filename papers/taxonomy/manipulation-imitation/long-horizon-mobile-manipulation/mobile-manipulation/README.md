@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=Mobile%20Manipulation#research-workbench)
 
-> 7 conference papers · 51 recent arXiv papers
+> 7 conference papers · 55 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -22,14 +22,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026 | SHOPPER: Practical Insights on Grasp Strategies for Mobile Manipulation in the Wild | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2504.12512) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697060) |
 | 2024 | An Open-Source Soft Robotic Platform for Autonomous Aerial Manipulation in the Wild | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2409.07662) · [Publisher](https://doi.org/10.48550/arXiv.2409.07662) |
 | 2024 | How to Prompt Your Robot: A PromptBook for Manipulation Skills with Code as Policies | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610784) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610784) |
-| 2024 | Revolutionizing Battery Disassembly: The Design and Implementation of a Battery Disassembly Autonomous Mobile Manipulator Robot(BEAM-1) | IROS · Assembly | [Paper](https://arxiv.org/abs/2407.06590) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802225) |
+| 2024 | Revolutionizing Battery Disassembly: The Design and Implementation of a Battery Disassembly Autonomous Mobile Manipulator Robot(BEAM-1) | IROS · Assembly | [Paper](https://arxiv.org/pdf/2407.06590) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802225) |
 | 2022 | Bayesian Imitation Learning for End-to-End Mobile Manipulation | ICML · Manipulation | [Paper](https://arxiv.org/abs/2202.07600) · [Index](https://dblp.org/rec/journals/corr/abs-2202-07600) |
 | 2022 | Learning Symbolic Failure Detection for Grasping and Mobile Manipulation Tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982223) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982223) |
 
-## Recent arXiv papers (51)
+## Recent arXiv papers (55)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-13 | I3L: Iterative Interactive Imitation Learning for Whole-Body Mobile Manipulation | Wensi Ai, Christopher Luey, Karthik Dharmarajan, Evans Han et al. | [Abstract](https://arxiv.org/abs/2610.17748) · [PDF](https://arxiv.org/pdf/2610.17748) |
+| 2026-10-05 | MobileVISTA: Generative Data Augmentation for Pose Generalization in Mobile Manipulation | Suzannah Wistreich, Stephen Tian, Isabella Huang, Vitor Campagnolo Guizilini et al. | [Abstract](https://arxiv.org/abs/2610.07511) · [PDF](https://arxiv.org/pdf/2610.07511) |
 | 2026-09-28 | SAKI: Skill Assembly and Kinematic Imitation from Human Videos for Long-Horizon Mobile Manipulation | Yijie Lu, James Zhao, Weiming Zhi | [Abstract](https://arxiv.org/abs/2609.36031) · [PDF](https://arxiv.org/pdf/2609.36031) |
 | 2026-09-07 | M3-Tele: A Unified Multimodal Teleoperational Framework for Compliant Whole-Body Mobile Manipulation | Hengxiang Chen, Shenwen Deng, Yujian Ma, Gan Ma et al. | [Abstract](https://arxiv.org/abs/2609.07859) · [PDF](https://arxiv.org/pdf/2609.07859) |
 | 2026-08-02 | DreamTrajectory: Trajectory-Guided Action Generation with World Model Alignment for Mobile Manipulation | Zheng Yang, Wenjie Zhang, Xiangyu Chen, Wenxuan Song et al. | [Abstract](https://arxiv.org/abs/2608.01381) · [PDF](https://arxiv.org/pdf/2608.01381) |
@@ -39,8 +41,10 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-05-01 | Stereo Multistage Spatial Attention for Real-Time Mobile Manipulation Under Visual Scale Variation and Disturbances | Xianbo Cai, Hideyuki Ichiwara, Hyogo Hiruma, Masaki Yoshikawa et al. | [Abstract](https://arxiv.org/abs/2605.00471) · [PDF](https://arxiv.org/pdf/2605.00471) |
 | 2026-04-08 | A Physical Agentic Loop for Language-Guided Grasping with Execution-State Monitoring | Wenze Wang, Mehdi Hosseinzadeh, Feras Dayoub | [Abstract](https://arxiv.org/abs/2604.07395) · [PDF](https://arxiv.org/pdf/2604.07395) |
 | 2026-04-07 | ExpressMM: Expressive Mobile Manipulation Behaviors in Human-Robot Interactions | Souren Pashangpour, Haitong Wang, Matthew Lisondra, Goldie Nejat | [Abstract](https://arxiv.org/abs/2604.05320) · [PDF](https://arxiv.org/pdf/2604.05320) |
+| 2026-04-02 | MobiGuide: Vocabulary-Guided Online Recovery for Mobile Manipulation | Jia Syuen Lim, Zhizhen Zhang, Peter Bohm, Brendan Tidd et al. | [Abstract](https://arxiv.org/abs/2604.01567) · [PDF](https://arxiv.org/pdf/2604.01567) |
 | 2026-03-30 | ManipArena: Comprehensive Real-world Evaluation of Reasoning-Oriented Generalist Robot Manipulation | Yu Sun, Meng Cao, Yang Ping, Kaidong Zhang et al. | [Abstract](https://arxiv.org/abs/2603.28545) · [PDF](https://arxiv.org/pdf/2603.28545) |
 | 2026-03-09 | Language-Guided Grasping under Partial Observation for Mobile Manipulation in Field Inspection and Maintenance | Dilermando Almeida, Juliano Negri, Guilherme Lazzarini, Thiago H. Segreto et al. | [Abstract](https://arxiv.org/abs/2603.07866) · [PDF](https://arxiv.org/pdf/2603.07866) |
+| 2026-03-06 | SuperSuit: An Isomorphic Bimodal Interface for Scalable Mobile Manipulation | Tongqing Chen, Hang Wu, Jiasen Wang, Xiaotao Li | [Abstract](https://arxiv.org/abs/2603.06280) · [PDF](https://arxiv.org/pdf/2603.06280) |
 | 2026-02-27 | Teleoperated Omni-directional Dual Arm Mobile Manipulation Robotic System with Shared Control for Retail Store | Rolif Lima, Somdeb Saha, Nijil George, Vismay Vakharia et al. | [Abstract](https://arxiv.org/abs/2602.23923) · [PDF](https://arxiv.org/pdf/2602.23923) |
 | 2026-02-13 | Agentic AI for Robot Control: Flexible but still Fragile | Oscar Lima, Marc Vinci, Martin Günther, Marian Renz et al. | [Abstract](https://arxiv.org/abs/2602.13081) · [PDF](https://arxiv.org/pdf/2602.13081) |
 | 2026-02-06 | The Law of Task-Achieving Body Motion: Axiomatizing Success of Robot Manipulation Actions | Malte Huerkamp, Jonas Dech, Michael Beetz | [Abstract](https://arxiv.org/abs/2602.06572) · [PDF](https://arxiv.org/pdf/2602.06572) |

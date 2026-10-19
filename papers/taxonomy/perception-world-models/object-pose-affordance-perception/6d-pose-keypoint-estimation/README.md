@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Object%2C%20Pose%20%26%20Affordance%20Perception&specialty=6D%20Pose%20%26%20Keypoint%20Estimation#research-workbench)
 
-> 27 conference papers · 219 recent arXiv papers
+> 27 conference papers · 216 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,15 +18,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Event-based Motion & Appearance Fusion for 6D Object Pose Tracking | ICRA · Object Pose | [Paper](https://arxiv.org/abs/2603.08264) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695872) |
+| 2026 | Event-based Motion & Appearance Fusion for 6D Object Pose Tracking | ICRA · Object Pose | [Paper](https://arxiv.org/pdf/2603.08264) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695872) |
 | 2026 | M-VTOP: Modular Visuo-Tactile Object Pose Estimation for High-Precision Robotic Manipulation | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697428) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697428) |
 | 2026 | Sym-Servo: Disambiguate Symmetric Object Pose by End-to-End Optimal Visual Servo | ICRA · Object Pose | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696707) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696707) |
-| 2026 | You Only Pose Once: A Minimalist’s Detection Transformer for Monocular RGB Category-level 9D Multi-Object Pose Estimation | ICRA · Object Pose | [Paper](https://arxiv.org/abs/2508.14965) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695892) |
+| 2026 | You Only Pose Once: A Minimalist’s Detection Transformer for Monocular RGB Category-level 9D Multi-Object Pose Estimation | ICRA · Object Pose | [Paper](https://arxiv.org/pdf/2508.14965) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695892) |
 | 2025 | A Unified End-to-End Network for Category-Level and Instance-Level Object Pose Estimation from RGB Images | ICRA · Object Pose | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128247) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128247) |
 | 2025 | Generalizable Zero-Shot Object Pose Estimation for Bin-Picking | ICRA · Object Pose | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128200) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128200) |
-| 2025 | MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model | ICRA · Object Pose | [Paper](https://eprints.lancs.ac.uk/id/eprint/235611/1/2504.10433v1.pdf) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127837) |
+| 2025 | MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model | ICRA · Object Pose | [Paper](https://arxiv.org/pdf/2504.10433) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127837) |
 | 2025 | Multi-Layer Feature Exchange Transformer for Multi-View 6D Object Pose Estimation in Robot Bin Picking | ICRA · Object Pose | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127530) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127530) |
-| 2025 | ViTa-Zero: Zero-shot Visuotactile Object 6D Pose Estimation | ICRA · Tactile | [Paper](https://arxiv.org/abs/2504.13179) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128495) |
+| 2025 | ViTa-Zero: Zero-shot Visuotactile Object 6D Pose Estimation | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2504.13179) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128495) |
 | 2025 | Learning Upright and Forward-Facing Object Poses using Category-level Canonical Representations | IROS · Object Pose | [Paper](https://doi.org/10.1109/IROS60139.2025.11246355) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246355) |
 | 2025 | TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Localization and Mapping | IROS · Scene Graph | [Paper](https://arxiv.org/abs/2506.14178) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247779) |
 | 2024 | EDOPT: Event-camera 6-DoF Dynamic Object Pose Tracking | ICRA · Object Pose | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611511) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611511) |
@@ -39,17 +39,20 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | ToolEENet: Tool Affordance 6D Pose Estimation | IROS · Affordance | [Paper](https://arxiv.org/pdf/2404.04193) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801680) |
 | 2023 | GSNet: Model Reconstruction Network for Category-level 6D Object Pose and Size Estimation | ICRA · Object Pose | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160688) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160688) |
 | 2023 | KGNet: Knowledge-Guided Networks for Category-Level 6D Object Pose and Size Estimation | ICRA · Object Pose | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160349) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160349) |
-| 2023 | Multi-View Keypoints for Reliable 6D Object Pose Estimation | ICRA · Object Pose | [Paper](https://arxiv.org/abs/2303.16833) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160354) |
+| 2023 | Multi-View Keypoints for Reliable 6D Object Pose Estimation | ICRA · Object Pose | [Paper](https://arxiv.org/pdf/2303.16833) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160354) |
 | 2023 | 6D Object Pose Estimation from Approximate 3D Models for Orbital Robotics | IROS · Object Pose | [Paper](https://arxiv.org/pdf/2303.13241) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341511) |
 | 2023 | Depth-Based 6DoF Object Pose Estimation Using Swin Transformer | IROS · Object Pose | [Paper](https://arxiv.org/pdf/2303.02133) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342215) |
 | 2023 | A Correct-and-Certify Approach to Self-Supervise Object Pose Estimators via Ensemble Self-Training | RSS · Object Pose | [Paper](https://arxiv.org/abs/2302.06019) · [Publisher](https://doi.org/10.48550/arXiv.2302.06019) |
-| 2022 | TP-AE: Temporally Primed 6D Object Pose Tracking with Auto-Encoders | ICRA · Object Pose | [Paper](https://doi.org/10.1109/icra46639.2022.9811890) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811890) |
+| 2022 | TP-AE: Temporally Primed 6D Object Pose Tracking with Auto-Encoders | ICRA · Object Pose | [Paper](https://research.birmingham.ac.uk/en/publications/8fff41ce-9c08-4187-9f81-f56d244f265b) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811890) |
 | 2022 | SLAM-Supported Self-Training for 6D Object Pose Estimation | IROS · Object Pose | [Paper](https://arxiv.org/pdf/2203.04424) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981145) |
 
-## Recent arXiv papers (219)
+## Recent arXiv papers (216)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-15 | RoPE-Flow: Monocular Vision-based Robot Pose Estimation via 2D Graph-Conditioned 3D Flow Matching | Liangjing Shao, Wanhao Liu, Zhiwei Fang, Rulin Zhou et al. | [Abstract](https://arxiv.org/abs/2610.21086) · [PDF](https://arxiv.org/pdf/2610.21086) |
+| 2026-10-09 | NovaSplat: Model-Free 6D Object Pose Estimation via 3D Gaussian Splatting Onboarding and Refinement | Georgios Floros, Evangelos Sartinas, Orestis Vangelis, Maria Pateraki | [Abstract](https://arxiv.org/abs/2610.13309) · [PDF](https://arxiv.org/pdf/2610.13309) |
+| 2026-10-07 | WAPR: A Foundation Model for Wide-Angle Refinement in Unseen Object Pose Estimation | Yulin Wang, Mengting Hu, Hongli Li, Jianghao Zhou et al. | [Abstract](https://arxiv.org/abs/2610.09535) · [PDF](https://arxiv.org/pdf/2610.09535) |
 | 2026-10-02 | RYOPO: Bringing End-to-End Category-Level Object Pose Estimation into Real Time | Hakjin Lee, Junghoon Seo, Jaehoon Sim | [Abstract](https://arxiv.org/abs/2610.03013) · [PDF](https://arxiv.org/pdf/2610.03013) |
 | 2026-10-01 | quARtet Marker: A 3D-Printable Multi-Tag Fiducial for Robust Near-Frontal Pose Estimation | Araki Wakiuchi, Hikaru Sasaki, Takamitsu Matsubara | [Abstract](https://arxiv.org/abs/2610.01072) · [PDF](https://arxiv.org/pdf/2610.01072) |
 | 2026-09-30 | Magnetic based In-situ Self 3D Pose Estimation for a Modular Soft Tendon-Driven Continuum Robot via IMU-Fusion | Zheng Cao, Guo Ning Sue, Xiangyun Bu, David Quinn et al. | [Abstract](https://arxiv.org/abs/2609.39950) · [PDF](https://arxiv.org/pdf/2609.39950) |
@@ -263,12 +266,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-25 | Real-time 6-DoF Pose Estimation by an Event-based Camera using Active LED Markers | Gerald Ebmer, Adam Loch, Minh Nhat Vu, Germain Haessig et al. | [Abstract](https://arxiv.org/abs/2310.16618) · [PDF](https://arxiv.org/pdf/2310.16618) |
 | 2023-10-20 | LanPose: Language-Instructed 6D Object Pose Estimation for Robotic Assembly | Bowen Fu, Sek Kun Leong, Yan Di, Jiwen Tang et al. | [Abstract](https://arxiv.org/abs/2310.13819) · [PDF](https://arxiv.org/pdf/2310.13819) |
 | 2023-10-20 | CylinderTag: An Accurate and Flexible Marker for Cylinder-Shape Objects Pose Estimation Based on Projective Invariants | Shaoan Wang, Mingzhu Zhu, Yaoqing Hu, Dongyue Li et al. | [Abstract](https://arxiv.org/abs/2310.13320) · [PDF](https://arxiv.org/pdf/2310.13320) |
-| 2023-10-18 | One-Shot Imitation Learning: A Pose Estimation Perspective | Pietro Vitiello, Kamil Dreczkowski, Edward Johns | [Abstract](https://arxiv.org/abs/2310.12077) · [PDF](https://arxiv.org/pdf/2310.12077) |
-| 2023-10-15 | MoEmo Vision Transformer: Integrating Cross-Attention and Movement Vectors in 3D Pose Estimation for HRI Emotion Detection | David C. Jeong, Tianma Shen, Hongji Liu, Raghav Kapoor et al. | [Abstract](https://arxiv.org/abs/2310.09757) · [PDF](https://arxiv.org/pdf/2310.09757) |
-| 2023-10-12 | Multimodal Active Measurement for Human Mesh Recovery in Close Proximity | Takahiro Maeda, Keisuke Takeshita, Norimichi Ukita, Kazuhito Tanaka | [Abstract](https://arxiv.org/abs/2310.08116) · [PDF](https://arxiv.org/pdf/2310.08116) |
-| 2023-10-12 | IMU Preintegration for Multi-Robot Systems in the Presence of Bias and Communication Constraints | Mohammed Ayman Shalaby, Charles Champagne Cossette, Jerome Le Ny, James Richard Forbes | [Abstract](https://arxiv.org/abs/2310.08686) · [PDF](https://arxiv.org/pdf/2310.08686) |
-| 2023-10-11 | SAGE-ICP: Semantic Information-Assisted ICP | Jiaming Cui, Jiming Chen, Liang Li | [Abstract](https://arxiv.org/abs/2310.07237) · [PDF](https://arxiv.org/pdf/2310.07237) |
-| 2023-10-05 | 3D-Aware Hypothesis & Verification for Generalizable Relative Object Pose Estimation | Chen Zhao, Tong Zhang, Mathieu Salzmann | [Abstract](https://arxiv.org/abs/2310.03534) · [PDF](https://arxiv.org/pdf/2310.03534) |
 
 ---
 

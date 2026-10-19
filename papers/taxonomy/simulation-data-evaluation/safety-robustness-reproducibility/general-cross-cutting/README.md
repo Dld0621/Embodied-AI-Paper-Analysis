@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Safety%2C%20Robustness%20%26%20Reproducibility&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 1 conference papers · 30 recent arXiv papers
+> 1 conference papers · 33 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,12 +18,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | Failure Forecasting Boosts Robustness of Sim2Real Rhythmic Insertion Policies | IROS · Sim2Real | [Paper](https://arxiv.org/abs/2507.06519) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247676) |
+| 2025 | Failure Forecasting Boosts Robustness of Sim2Real Rhythmic Insertion Policies | IROS · Sim2Real | [Paper](https://arxiv.org/pdf/2507.06519) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247676) |
 
-## Recent arXiv papers (30)
+## Recent arXiv papers (33)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-14 | Race to Recovery: Designing Advanced Safety Systems for Autonomous Driving via Learning Autonomous Racing | Teodor Ilie, Kleber Cabral, Sidney Givigi | [Abstract](https://arxiv.org/abs/2610.20873) · [PDF](https://arxiv.org/pdf/2610.20873) |
+| 2026-10-09 | Robot-WATCHDOG : failure detection through object-centric graph representation | Quentin Rolland, Fabrice Mayran de Chamisso, Jean-Baptiste Mouret | [Abstract](https://arxiv.org/abs/2610.13403) · [PDF](https://arxiv.org/pdf/2610.13403) |
+| 2026-10-03 | Human Behavior-Informed Crash Scenario Generation with Real-World Crash Priors for Autonomous Vehicle Safety Evaluation | Mingxing Peng, Xusen Guo, Long Chen, Xintao Yan et al. | [Abstract](https://arxiv.org/abs/2610.04366) · [PDF](https://arxiv.org/pdf/2610.04366) |
 | 2026-09-24 | Combining Evasive and Braking Reactions for Safety Reference Models in Automated Vehicles | Riccardo Donà, Konstantinos Mattas, Biagio Ciuffo | [Abstract](https://arxiv.org/abs/2609.29738) · [PDF](https://arxiv.org/pdf/2609.29738) |
 | 2026-09-17 | Safety-Critical Scenarios Emerge from Initial Scenes | Yin Wu, Jiarong Wei, Carl Esselborn, Shubham Phoolari et al. | [Abstract](https://arxiv.org/abs/2609.20103) · [PDF](https://arxiv.org/pdf/2609.20103) |
 | 2026-09-10 | Using Automated Vehicles Operational Data to Confirm Safety and Anticipate Threats | Riccardo Donà, Espedito Rusciano, Germana Trentadue, Anastasios Tsakalidis et al. | [Abstract](https://arxiv.org/abs/2609.11549) · [PDF](https://arxiv.org/pdf/2609.11549) |

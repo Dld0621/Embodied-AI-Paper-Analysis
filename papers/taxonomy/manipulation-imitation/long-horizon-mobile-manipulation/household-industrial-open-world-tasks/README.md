@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=Household%2C%20Industrial%20%26%20Open-world%20Tasks#research-workbench)
 
-> 8 conference papers · 40 recent arXiv papers
+> 8 conference papers · 42 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2512.24766) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697043) |
+| 2026 | Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2512.24766) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697043) |
 | 2024 | Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation | ECCV · Manipulation | [Paper](https://arxiv.org/abs/2401.07487) · [Publisher](https://doi.org/10.48550/arXiv.2401.07487) |
 | 2024 | MOKA: Open-World Robotic Manipulation through Mark-Based Visual Prompting | RSS · Manipulation | [Paper](https://arxiv.org/abs/2403.03174) · [Publisher](https://doi.org/10.15607/rss.2024.xx.062) |
 | 2024 | RVT-2: Learning Precise Manipulation from Few Demonstrations | RSS · Manipulation | [Paper](https://arxiv.org/abs/2406.08545) · [Publisher](https://doi.org/10.48550/arXiv.2406.08545) |
@@ -27,10 +27,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | RoboTube: Learning Household Manipulation from Human Videos with Simulated Twin Environments | CoRL · Manipulation | [Paper](https://www.semanticscholar.org/paper/6d2718d173b771edddbfae13ba8ec24c480363d3) · [Index](https://dblp.org/rec/conf/corl/XiongFZBZHXGL22) |
 | 2022 | A Method For Automated Drone Viewpoints to Support Remote Robot Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2208.04391) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982063) |
 
-## Recent arXiv papers (40)
+## Recent arXiv papers (42)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-11 | Competitive Task Allocation with Temporal Proposal Windows and Improved Artificial Potential Fields for Dual-Arm Industrial Manipulation | Surya Prakash S. K, Bhuvan Narula, Jagannath Prasad Sahoo, Jayakumar VK et al. | [Abstract](https://arxiv.org/abs/2610.15763) · [PDF](https://arxiv.org/pdf/2610.15763) |
+| 2026-10-05 | Towards Robust Prehensile Manipulation in Open-Ended Environments | Mathilde Kappel, Mahdi Khoramshahi, Louis Annabi, Faïz Ben Amar et al. | [Abstract](https://arxiv.org/abs/2610.06376) · [PDF](https://arxiv.org/pdf/2610.06376) |
 | 2026-09-30 | Cue the Flow: Steering Flow-Matching Policies for Open-World Delivery Manipulation | Haoxuan Wang, Griffin Galimi, Junhua Huang, Selina Song et al. | [Abstract](https://arxiv.org/abs/2609.38989) · [PDF](https://arxiv.org/pdf/2609.38989) |
 | 2026-09-29 | Foundation-Model-Guided Topology-Aware Semantic Risk Fields for Manipulation | Giung Lee, Weihang Guo, Lydia E. Kavraki | [Abstract](https://arxiv.org/abs/2609.36640) · [PDF](https://arxiv.org/pdf/2609.36640) |
 | 2026-09-23 | What Stops Recursive Self-Improvement in Robotics? Lessons from 123 Rounds of Agentic Skill Discovery | Jiaming Wang | [Abstract](https://arxiv.org/abs/2609.31760) · [PDF](https://arxiv.org/pdf/2609.31760) |

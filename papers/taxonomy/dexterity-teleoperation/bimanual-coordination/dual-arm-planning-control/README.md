@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Adaptive Diffusion Constrained Sampling for Bimanual Robot Manipulation | ICRA · Bimanual | [Paper](https://arxiv.org/abs/2505.13667) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696510) |
+| 2026 | Adaptive Diffusion Constrained Sampling for Bimanual Robot Manipulation | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2505.13667) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696510) |
 
 ## Recent arXiv papers (1)
 

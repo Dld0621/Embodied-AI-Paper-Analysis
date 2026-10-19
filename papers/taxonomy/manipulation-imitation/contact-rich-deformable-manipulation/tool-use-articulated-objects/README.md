@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Contact-rich%20%26%20Deformable%20Manipulation&specialty=Tool%20Use%20%26%20Articulated%20Objects#research-workbench)
 
-> 16 conference papers · 64 recent arXiv papers
+> 17 conference papers · 65 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,16 +14,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (16)
+## Conference papers (17)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2511.14756) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697254) |
-| 2026 | Robustness-Aware Tool Selection and Manipulation Planning with Learned Energy-Informed Guidance | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2506.03362) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695929) |
-| 2026 | Vi-TacMan: Articulated Object Manipulation via Vision and Touch | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2510.06339) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697058) |
-| 2025 | DoorBot: Closed-Loop Task Planning and Manipulation for Door Opening in the Wild with Haptic Feedback | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2504.09358) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128394) |
-| 2025 | You Only Estimate Once: Unified, One-stage, Real-Time Category-Level Articulated Object 6D Pose Estimation for Robotic Grasping | ICRA · Grasp | [Paper](https://arxiv.org/abs/2506.05719) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128513) |
-| 2025 | ManipGPT: Is Affordance Segmentation by Large Vision Models Enough for Articulated Object Manipulation? | IROS · Manipulation | [Paper](https://arxiv.org/abs/2412.10050) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246374) |
+| 2026 | HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2511.14756) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697254) |
+| 2026 | Planning Using Belief Summaries for Goal-Directed Manipulation of Articulated Objects with Force and Proprioception | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695821) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695821) |
+| 2026 | Robustness-Aware Tool Selection and Manipulation Planning with Learned Energy-Informed Guidance | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2506.03362) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695929) |
+| 2026 | Vi-TacMan: Articulated Object Manipulation via Vision and Touch | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2510.06339) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697058) |
+| 2025 | DoorBot: Closed-Loop Task Planning and Manipulation for Door Opening in the Wild with Haptic Feedback | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2504.09358) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128394) |
+| 2025 | You Only Estimate Once: Unified, One-stage, Real-Time Category-Level Articulated Object 6D Pose Estimation for Robotic Grasping | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2506.05719) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128513) |
+| 2025 | ManipGPT: Is Affordance Segmentation by Large Vision Models Enough for Articulated Object Manipulation? | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2412.10050) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246374) |
 | 2025 | RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills | NeurIPS · Manipulation | [Paper](https://arxiv.org/abs/2506.14763) · [Publisher](https://doi.org/10.48550/arXiv.2506.14763) |
 | 2024 | GraspSplats: Efficient Manipulation with 3D Feature Splatting | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2409.02084) · [Publisher](https://doi.org/10.48550/arXiv.2409.02084) |
 | 2024 | RiEMann: Near Real-Time SE(3)-Equivariant Robot Manipulation without Point Cloud Segmentation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2403.19460) · [Publisher](https://doi.org/10.48550/arXiv.2403.19460) |
@@ -31,14 +32,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | The Power of the Senses: Generalizable Manipulation from Vision and Touch through Masked Multimodal Learning | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2311.00924) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802719) |
 | 2024 | General Articulated Objects Manipulation in Real Images via Part-Aware Diffusion Process | NeurIPS · Manipulation | [Paper](https://doi.org/10.52202/079017-0651) · [Publisher](https://doi.org/10.52202/079017-0651) |
 | 2023 | FlowBot++: Learning Generalized Articulated Objects Manipulation via Articulation Projection | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2306.12893) · [Publisher](https://doi.org/10.48550/arXiv.2306.12893) |
-| 2023 | Human-Guided Planning for Complex Manipulation Tasks Using the Screw Geometry of Motion | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2209.05672) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161130) |
-| 2023 | Learning Category-Level Manipulation Tasks from Point Clouds with Dynamic Graph CNNs | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2209.06331) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160820) |
+| 2023 | Human-Guided Planning for Complex Manipulation Tasks Using the Screw Geometry of Motion | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2209.05672) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161130) |
+| 2023 | Learning Category-Level Manipulation Tasks from Point Clouds with Dynamic Graph CNNs | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2209.06331) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160820) |
 | 2023 | Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusions | NeurIPS · Manipulation | [Paper](https://arxiv.org/pdf/2309.07510) · [Publisher](https://doi.org/10.48550/arXiv.2309.07510) |
 
-## Recent arXiv papers (64)
+## Recent arXiv papers (65)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-08 | SpatialHarness: Test-Time Spatial Scaffolding for Fine Robotic Manipulation | Jiayu Wang, Yue Yu, Bin Zhu, Zhiyao Yang et al. | [Abstract](https://arxiv.org/abs/2610.12457) · [PDF](https://arxiv.org/pdf/2610.12457) |
+| 2026-10-06 | SMART: Zero-Shot Sim-to-Real Articulated Object Manipulation via Large-Scale Synthetic Pretraining | Jicong Ao, Shuhan Jiang, Yuling Zhong, Yanwen Liu et al. | [Abstract](https://arxiv.org/abs/2610.07652) · [PDF](https://arxiv.org/pdf/2610.07652) |
 | 2026-09-29 | Learning to Explore Hidden Kinematics for Articulated Object Manipulation | Ruiyao Liu, Boshu Lei, Zhuoyang Pan, Kostas Daniilidis | [Abstract](https://arxiv.org/abs/2609.36553) · [PDF](https://arxiv.org/pdf/2609.36553) |
 | 2026-09-27 | FoLD: Force-Informed Learning for Dexterous Articulated Object Manipulation | Haowei Shen, Tingai Li, Yumeng Liu, Wenyuan Guang et al. | [Abstract](https://arxiv.org/abs/2609.33551) · [PDF](https://arxiv.org/pdf/2609.33551) |
 | 2026-09-03 | GIFT: Guided Intermediate Feature Training via Action-Oriented Structural Supervision for Robotic Manipulation | Yupeng Zheng, Xiang Li, Songen Gu, Yuhang Zheng et al. | [Abstract](https://arxiv.org/abs/2609.04193) · [PDF](https://arxiv.org/pdf/2609.04193) |
@@ -102,7 +105,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-01 | Deep hybrid models: infer and plan in a dynamic world | Matteo Priorelli, Ivilin Peev Stoianov | [Abstract](https://arxiv.org/abs/2402.10088) · [PDF](https://arxiv.org/pdf/2402.10088) |
 | 2023-11-06 | Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs | Wenke Xia, Dong Wang, Xincheng Pang, Zhigang Wang et al. | [Abstract](https://arxiv.org/abs/2311.02847) · [PDF](https://arxiv.org/pdf/2311.02847) |
 | 2023-11-02 | The Power of the Senses: Generalizable Manipulation from Vision and Touch through Masked Multimodal Learning | Carmelo Sferrazza, Younggyo Seo, Hao Liu, Youngwoon Lee et al. | [Abstract](https://arxiv.org/abs/2311.00924) · [PDF](https://arxiv.org/pdf/2311.00924) |
-| 2023-10-13 | ImageManip: Image-based Robotic Manipulation with Affordance-guided Next View Selection | Xiaoqi Li, Yanzi Wang, Yan Shen, Ponomarenko Iaroslav et al. | [Abstract](https://arxiv.org/abs/2310.09069) · [PDF](https://arxiv.org/pdf/2310.09069) |
 
 ---
 

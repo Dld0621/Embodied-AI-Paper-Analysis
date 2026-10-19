@@ -18,13 +18,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | LLM Trainer: Automated Robotic Data Generating via Demonstration Augmentation using LLMs | ICRA · Llm | [Paper](https://arxiv.org/abs/2509.20070) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696363) |
-| 2025 | AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement | ICRA · Llm | [Paper](https://arxiv.org/abs/2502.02067) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128062) |
-| 2025 | CurricuLLM: Automatic Task Curricula Design for Learning Complex Robot Skills Using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2409.18382) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128783) |
-| 2025 | LBAP: Improved Uncertainty Alignment of LLM Planners using Bayesian Inference | IROS · Llm | [Paper](https://arxiv.org/abs/2403.13198) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245905) |
+| 2026 | LLM Trainer: Automated Robotic Data Generating via Demonstration Augmentation using LLMs | ICRA · Llm | [Paper](https://arxiv.org/pdf/2509.20070) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696363) |
+| 2025 | AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement | ICRA · Llm | [Paper](https://arxiv.org/pdf/2502.02067) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128062) |
+| 2025 | CurricuLLM: Automatic Task Curricula Design for Learning Complex Robot Skills Using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2409.18382) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128783) |
+| 2025 | LBAP: Improved Uncertainty Alignment of LLM Planners using Bayesian Inference | IROS · Llm | [Paper](https://arxiv.org/pdf/2403.13198) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245905) |
 | 2025 | Enhancing LLM Planning for Robotics Manipulation through Hierarchical Procedural Knowledge Graphs | NeurIPS · Llm | [Paper](https://doi.org/10.52202/085713-4246) · [Publisher](https://doi.org/10.52202/085713-4246) |
-| 2024 | Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents | ICRA · Llm | [Paper](https://arxiv.org/abs/2309.09919) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611447) |
-| 2024 | Combining Ontological Knowledge and Large Language Model for User-Friendly Service Robots | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2410.16804) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802273) |
+| 2024 | Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents | ICRA · Llm | [Paper](https://arxiv.org/pdf/2309.09919) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611447) |
+| 2024 | Combining Ontological Knowledge and Large Language Model for User-Friendly Service Robots | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2410.16804) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802273) |
 
 ## Recent arXiv papers (23)
 

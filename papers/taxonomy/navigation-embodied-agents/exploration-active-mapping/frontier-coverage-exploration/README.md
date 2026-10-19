@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Exploration%20%26%20Active%20Mapping&specialty=Frontier%20%26%20Coverage%20Exploration#research-workbench)
 
-> 12 conference papers · 47 recent arXiv papers
+> 13 conference papers · 48 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,27 +14,29 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (12)
+## Conference papers (13)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | Proactive Tactile Exploration for Object-Agnostic Shape Reconstruction from Minimal Visual Priors | ICRA · Exploration | [Paper](https://arxiv.org/abs/2505.11975) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127653) |
+| 2026 | dPWM: Autonomous Exploration via Diffusion-Based Map Prediction Guided Planning | ICRA · Exploration | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696058) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696058) |
+| 2025 | Proactive Tactile Exploration for Object-Agnostic Shape Reconstruction from Minimal Visual Priors | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2505.11975) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127653) |
 | 2025 | FIELD: Fast Information-driven Autonomous Exploration using Larger Perception Distance | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS60139.2025.11246857) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246857) |
 | 2025 | Scalable MARL for Cooperative Exploration with Dynamic Robot Populations via Graph-Based Information Aggregation | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS60139.2025.11246080) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246080) |
-| 2024 | Robotic Exploration through Semantic Topometric Mapping | ICRA · Exploration | [Paper](https://arxiv.org/abs/2406.18381) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610585) |
-| 2024 | Uncertainty-driven Exploration Strategies for Online Grasp Learning | ICRA · Exploration | [Paper](https://arxiv.org/abs/2309.12038) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610056) |
-| 2024 | WayEx: Waypoint Exploration using a Single Demonstration | ICRA · Exploration | [Paper](https://arxiv.org/abs/2407.15849) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611088) |
-| 2024 | Frontier-Based Exploration for Multi-Robot Rendezvous in Communication-Restricted Unknown Environments | IROS · Exploration | [Paper](https://arxiv.org/abs/2403.11617) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801321) |
+| 2024 | Robotic Exploration through Semantic Topometric Mapping | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2406.18381) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610585) |
+| 2024 | Uncertainty-driven Exploration Strategies for Online Grasp Learning | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2309.12038) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610056) |
+| 2024 | WayEx: Waypoint Exploration using a Single Demonstration | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2407.15849) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611088) |
+| 2024 | Frontier-Based Exploration for Multi-Robot Rendezvous in Communication-Restricted Unknown Environments | IROS · Exploration | [Paper](https://arxiv.org/pdf/2403.11617) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801321) |
 | 2023 | Bubble Explorer: Fast UAV Exploration in Large-Scale and Cluttered 3D-Environments Using Occlusion-Free Spheres | IROS · Exploration | [Paper](https://arxiv.org/pdf/2304.00852) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342348) |
 | 2022 | Explore-Bench: Data Sets, Metrics and Evaluations for Frontier-based and Deep-reinforcement-learning-based Autonomous Exploration | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2202.11931) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812344) |
 | 2022 | Active Tactile Exploration using Shape-Dependent Reinforcement Learning | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS47612.2022.9982266) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982266) |
 | 2022 | Adaptive Coverage Path Planning for Efficient Exploration of Unknown Environments | IROS · Exploration | [Paper](https://arxiv.org/pdf/2302.03164) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982287) |
 | 2022 | Coordinated Multi-Agent Exploration, Rendezvous, & Task Allocation in Unknown Environments with Limited Connectivity | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS47612.2022.9981898) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981898) |
 
-## Recent arXiv papers (47)
+## Recent arXiv papers (48)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-11 | Distributed area coverage path planning subject to the inclusion of a headland path | Mogens Plessen | [Abstract](https://arxiv.org/abs/2610.15739) · [PDF](https://arxiv.org/pdf/2610.15739) |
 | 2026-10-01 | OpenSpace Lab Solution to the IROS 2026 Indoor Exploration Competition | Yuxuan Zhang, Dong Li, Zezhou Sun, Yuxuan Xu et al. | [Abstract](https://arxiv.org/abs/2610.01505) · [PDF](https://arxiv.org/pdf/2610.01505) |
 | 2026-06-22 | FPAS: Frontier-Based Path Planning with Adaptive Sampling for Large-Scale Unknown Environments | Jinwoo Choi, Yeonkyu Lee, Jung-Taak Kim, Jisung Bae et al. | [Abstract](https://arxiv.org/abs/2606.22838) · [PDF](https://arxiv.org/pdf/2606.22838) |
 | 2026-06-21 | Semantic-Aware Autonomous Exploration for UAVs in Unknown Indoor Environments | Duc-Thien Nguyen, Ngoc Minh Do, Xiem HoangVan, Thanh Nguyen Canh | [Abstract](https://arxiv.org/abs/2606.22670) · [PDF](https://arxiv.org/pdf/2606.22670) |

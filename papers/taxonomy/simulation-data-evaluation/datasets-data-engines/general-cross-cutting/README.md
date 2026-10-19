@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engines&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 6 conference papers · 55 recent arXiv papers
+> 6 conference papers · 57 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,17 +18,20 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | MOVE: A Simple Motion-Based Data Collection Paradigm for Spatial Generalization in Robotic Manipulation | ICRA · Data Collection | [Paper](https://arxiv.org/abs/2512.04813) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697511) |
-| 2025 | RoboCrowd: Scaling Robot Data Collection Through Crowdsourcing | ICRA · Data Collection | [Paper](https://arxiv.org/abs/2411.01915) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127402) |
-| 2024 | A Scalable Platform for Robot Learning and Physical Skill Data Collection | IROS · Data Collection | [Paper](https://doi.org/10.1109/IROS58592.2024.10801516) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801516) |
+| 2026 | MOVE: A Simple Motion-Based Data Collection Paradigm for Spatial Generalization in Robotic Manipulation | ICRA · Data Collection | [Paper](https://arxiv.org/pdf/2512.04813) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697511) |
+| 2025 | RoboCrowd: Scaling Robot Data Collection Through Crowdsourcing | ICRA · Data Collection | [Paper](https://arxiv.org/pdf/2411.01915) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127402) |
+| 2024 | A Scalable Platform for Robot Learning and Physical Skill Data Collection | IROS · Data Collection | [Paper](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.172671768.82020848) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801516) |
 | 2024 | Efficient Data Collection for Robotic Manipulation via Compositional Generalization | RSS · Data Collection | [Paper](https://arxiv.org/abs/2403.05110) · [Publisher](https://doi.org/10.48550/arXiv.2403.05110) |
 | 2023 | Robot Team Data Collection with Anywhere Communication | IROS · Data Collection | [Paper](https://doi.org/10.1109/IROS55552.2023.10342349) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342349) |
 | 2022 | Decentralized Data Collection for Robotic Fleet Learning: A Game-Theoretic Approach | CoRL · Data Collection | [Paper](https://www.semanticscholar.org/paper/8f4577cf50fa3f60fd0e5ceb48a8a23c39b6a46c) · [Index](https://dblp.org/rec/conf/corl/AkcinLAC22) |
 
-## Recent arXiv papers (55)
+## Recent arXiv papers (57)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-15 | CoDA: Co-Evolution of Data Engines and Action Policies | Tianjiao Yu, Zhilin Ou, Yifan Shen, Xinzhuo Li et al. | [Abstract](https://arxiv.org/abs/2610.22362) · [PDF](https://arxiv.org/pdf/2610.22362) |
+| 2026-10-05 | Mulligan: Performance-Guided Data Collection for Efficient On-Robot Learning | Lars Ankile, Perry Dong, Rohan Bhowmik, Aneesh Muppidi et al. | [Abstract](https://arxiv.org/abs/2610.05882) · [PDF](https://arxiv.org/pdf/2610.05882) |
+| 2026-10-05 | AeroBuoy: A Drone Deployable, 3D Printed, Autonomous Robotic Buoy for Environmental Inspection in Remote and Hazardous River Systems | Reuben O'Brien, Angus Lynch, Minas Liarokapis | [Abstract](https://arxiv.org/abs/2610.07390) · [PDF](https://arxiv.org/pdf/2610.07390) |
 | 2026-08-18 | Zero-Shot Transfer of Force Map Estimation Across GelSight Mini Sensors | Julio Castaño Amoros, Pablo Gil | [Abstract](https://arxiv.org/abs/2608.18240) · [PDF](https://arxiv.org/pdf/2608.18240) |
 | 2026-07-15 | Zero2Skill: Bootstrapping Robot Skills through Autonomous Data Collection, Training, and Deployment | Boyuan Wang, Zhenyuan Zhang, Zhiqin Yang, Peijun Gu et al. | [Abstract](https://arxiv.org/abs/2607.14047) · [PDF](https://arxiv.org/pdf/2607.14047) |
 | 2026-07-13 | IBPA: Real-time Free-form Manifold Mesh Reconstruction via Incremental Ball Pivoting with Integrated Hole Detection | Mauhing Yip, Mohit Singh, Kostas Alexis, Christian Schellewald et al. | [Abstract](https://arxiv.org/abs/2607.11627) · [PDF](https://arxiv.org/pdf/2607.11627) |
@@ -45,6 +48,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-01-22 | Airflow Source Seeking on Small Quadrotors Using a Single Flow Sensor | Lenworth Thomas, Tjaden Bridges, Sarah Bergbreiter | [Abstract](https://arxiv.org/abs/2601.15607) · [PDF](https://arxiv.org/pdf/2601.15607) |
 | 2026-01-12 | Affordable Data Collection System for UAVs Taxi Vibration Testing | Chaoyi Lin Yang, Gabriele Dessena, Oscar E. Bonilla-Manrique | [Abstract](https://arxiv.org/abs/2601.07783) · [PDF](https://arxiv.org/pdf/2601.07783) |
 | 2025-11-25 | GigaWorld-0: World Models as Data Engine to Empower Embodied AI | GigaWorld Team, Angen Ye, Boyuan Wang, Chaojun Ni et al. | [Abstract](https://arxiv.org/abs/2511.19861) · [PDF](https://arxiv.org/pdf/2511.19861) |
+| 2025-11-19 | Computational Onboard Data Management for Heterogeneous Autonomous Vehicle Streams | Yuxin Wang, Yuankai He, Damien Kah, Weisong Shi | [Abstract](https://arxiv.org/abs/2511.19453) · [PDF](https://arxiv.org/pdf/2511.19453) |
 | 2025-10-17 | New Location Science Models with Applications to UAV-Based Disaster Relief | Sina Kazemdehbashi, Yanchao Liu, Boris S. Mordukhovich | [Abstract](https://arxiv.org/abs/2510.15229) · [PDF](https://arxiv.org/pdf/2510.15229) |
 | 2025-08-08 | Optimal Planning and Machine Learning for Responsive Tracking and Enhanced Forecasting of Wildfires using a Spacecraft Constellation | Sreeja Roy-Singh, Vinay Ravindra, Richard Levinson, Mahta Moghaddam et al. | [Abstract](https://arxiv.org/abs/2508.06687) · [PDF](https://arxiv.org/pdf/2508.06687) |
 | 2025-07-16 | Leveraging Sidewalk Robots for Walkability-Related Analyses | Xing Tong, Michele D. Simoni, Kaj Munhoz Arfvidsson, Jonas Mårtensson | [Abstract](https://arxiv.org/abs/2507.12148) · [PDF](https://arxiv.org/pdf/2507.12148) |
@@ -82,8 +86,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-13 | Data-Efficient Task Generalization via Probabilistic Model-based Meta Reinforcement Learning | Arjun Bhardwaj, Jonas Rothfuss, Bhavya Sukhija, Yarden As et al. | [Abstract](https://arxiv.org/abs/2311.07558) · [PDF](https://arxiv.org/pdf/2311.07558) |
 | 2023-11-02 | UniFolding: Towards Sample-efficient, Scalable, and Generalizable Robotic Garment Folding | Han Xue, Yutong Li, Wenqiang Xu, Huanyu Li et al. | [Abstract](https://arxiv.org/abs/2311.01267) · [PDF](https://arxiv.org/pdf/2311.01267) |
 | 2023-10-31 | An Introduction to Causal Inference Methods for Observational Human-Robot Interaction Research | Jaron J. R. Lee, Gopika Ajaykumar, Ilya Shpitser, Chien-Ming Huang | [Abstract](https://arxiv.org/abs/2310.20468) · [PDF](https://arxiv.org/pdf/2310.20468) |
-| 2023-10-14 | Robot Imitation from Video Demonstration | Venkat Surya Teja Chereddy | [Abstract](https://arxiv.org/abs/2310.09642) · [PDF](https://arxiv.org/pdf/2310.09642) |
-| 2023-10-11 | HealthWalk: Promoting Health and Mobility through Sensor-Based Rollator Walker Assistance | Ivanna Kramer, Kevin Weirauch, Sabine Bauer, Mark Oliver Mints et al. | [Abstract](https://arxiv.org/abs/2310.07434) · [PDF](https://arxiv.org/pdf/2310.07434) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engines&specialty=Data%20Curation%2C%20Annotation%20%26%20Quality#research-workbench)
 
-> 0 conference papers · 8 recent arXiv papers
+> 0 conference papers · 9 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,10 +18,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (8)
+## Recent arXiv papers (9)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-07 | Kuration SDK: Addressing the Virtual2Real Gap via Data Curation | Nirmit Desai, Eric Song, Mayank Sengupta, Tejal Bedmutha et al. | [Abstract](https://arxiv.org/abs/2610.09305) · [PDF](https://arxiv.org/pdf/2610.09305) |
 | 2026-09-17 | EmbodiedMind: Adaptive Data Curation and Prefix-Tree Reinforcement Learning for Efficient Embodied Intelligence | Feifan Wang, Zongbing Zhang, Yu Zhang, Lingfeng Wang et al. | [Abstract](https://arxiv.org/abs/2609.19659) · [PDF](https://arxiv.org/pdf/2609.19659) |
 | 2026-09-16 | From Gameplay to Policy: Towards Scalable Robot Data Collection via Gamified Robot-Free Interaction | Zheng Li, Liang Zhu, Junzhe Wang, Huayuan Chen et al. | [Abstract](https://arxiv.org/abs/2609.18650) · [PDF](https://arxiv.org/pdf/2609.18650) |
 | 2026-06-12 | EgoGuide: Egocentric Guidance for Efficient Robot-Free Demonstration Collection and Learning | Yue Xu, Mingtao Nie, Tianle Li, Hong Li et al. | [Abstract](https://arxiv.org/abs/2606.14665) · [PDF](https://arxiv.org/pdf/2606.14665) |

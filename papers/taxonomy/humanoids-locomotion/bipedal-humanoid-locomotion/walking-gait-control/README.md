@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Walking%20%26%20Gait%20Control#research-workbench)
 
-> 97 conference papers · 266 recent arXiv papers
+> 98 conference papers · 269 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,70 +14,71 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (97)
+## Conference papers (98)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Asymptotically Stable Gait Generation and Instantaneous Walkability Determination for Planar Almost Linear Biped with Knees | ICRA · Biped | [Paper](https://arxiv.org/abs/2604.12274) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697158) |
-| 2026 | Bipedal-Walking-Dynamics Model on Granular Terrains | ICRA · Biped | [Paper](https://arxiv.org/abs/2604.11981) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696564) |
-| 2026 | Human-Centered Development of Guide Dog Robots: Quiet and Stable Locomotion Control | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2505.11808) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696250) |
-| 2026 | NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning | ICRA · Gait | [Paper](https://arxiv.org/abs/2510.11542) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696195) |
-| 2026 | RL-augmented Adaptive Model Predictive Control for Bipedal Locomotion over Challenging Terrain | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2509.18466) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697426) |
+| 2026 | Asymptotically Stable Gait Generation and Instantaneous Walkability Determination for Planar Almost Linear Biped with Knees | ICRA · Biped | [Paper](https://arxiv.org/pdf/2604.12274) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697158) |
+| 2026 | Bipedal-Walking-Dynamics Model on Granular Terrains | ICRA · Biped | [Paper](https://arxiv.org/pdf/2604.11981) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696564) |
+| 2026 | Human-Centered Development of Guide Dog Robots: Quiet and Stable Locomotion Control | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2505.11808) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696250) |
+| 2026 | Motion Pattern Analysis of a Rolling Locomotion Robot Featuring Dual Rimless Wheels and Elastic Connectors | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696830) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696830) |
+| 2026 | NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning | ICRA · Gait | [Paper](https://arxiv.org/pdf/2510.11542) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696195) |
+| 2026 | RL-augmented Adaptive Model Predictive Control for Bipedal Locomotion over Challenging Terrain | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2509.18466) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697426) |
 | 2026 | Stability Principle Inherent in Wheel Gait of Planar X-shaped Walker Generated Using Constant Torque Drive and Mechanical Stoppers | ICRA · Gait | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696950) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696950) |
-| 2026 | TOLEBI: Learning Fault-Tolerant Bipedal Locomotion via Online Status Estimation and Fallibility Rewards | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2602.05596) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696600) |
+| 2026 | TOLEBI: Learning Fault-Tolerant Bipedal Locomotion via Online Status Estimation and Fallibility Rewards | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2602.05596) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696600) |
 | 2025 | A Virtual Gravity Controller for Efficient Underactuated Biped Robots | ICRA · Biped | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128793) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128793) |
 | 2025 | Adaptive Concertina Locomotion of a Robotic Snake Through Narrow Uncertain Channels | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127631) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127631) |
-| 2025 | Bipedal Walking with Continuously Compliant Robotic Legs | ICRA · Biped | [Paper](https://arxiv.org/abs/2411.06948) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127488) |
+| 2025 | Bipedal Walking with Continuously Compliant Robotic Legs | ICRA · Biped | [Paper](https://arxiv.org/pdf/2411.06948) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127488) |
 | 2025 | Finite-Step Capturability and Recursive Feasibility for Bipedal Walking in Constrained Regions | ICRA · Biped | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128831) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128831) |
-| 2025 | Geometric Design and Gait Co-Optimization for Soft Continuum Robots Swimming at Low and High Reynolds Numbers | ICRA · Gait | [Paper](https://arxiv.org/abs/2409.15220) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128096) |
+| 2025 | Geometric Design and Gait Co-Optimization for Soft Continuum Robots Swimming at Low and High Reynolds Numbers | ICRA · Gait | [Paper](https://arxiv.org/pdf/2409.15220) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128096) |
 | 2025 | Interpretable Active Inference Gait Control Learning | ICRA · Gait | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128724) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128724) |
-| 2025 | Real-Time Safe Bipedal Robot Navigation using Linear Discrete Control Barrier Functions | ICRA · Biped | [Paper](https://arxiv.org/abs/2411.03619) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128366) |
+| 2025 | Real-Time Safe Bipedal Robot Navigation using Linear Discrete Control Barrier Functions | ICRA · Biped | [Paper](https://arxiv.org/pdf/2411.03619) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128366) |
 | 2025 | Reduced-Order Model-Based Gait Generation for Snake Robot Locomotion Using NMPC | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2503.06402) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128852) |
-| 2025 | Safety-Critical Locomotion of Biped Robots in Infeasible Paths: Overcoming Obstacles During Navigation Toward Destination | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2409.10274) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127337) |
-| 2025 | Zippy: The Smallest Power-Autonomous Bipedal Robot | ICRA · Biped | [Paper](https://arxiv.org/abs/2505.05686) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128531) |
+| 2025 | Safety-Critical Locomotion of Biped Robots in Infeasible Paths: Overcoming Obstacles During Navigation Toward Destination | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2409.10274) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127337) |
+| 2025 | Zippy: The Smallest Power-Autonomous Bipedal Robot | ICRA · Biped | [Paper](https://arxiv.org/pdf/2505.05686) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128531) |
 | 2025 | A Novel Effective Loop Gait and Stabilizing Morphology Parameterization in Snake Robots | IROS · Gait | [Paper](https://doi.org/10.1109/IROS60139.2025.11246627) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246627) |
 | 2025 | Achieving Precise and Reliable Locomotion with Differentiable Simulation-Based System Identification | IROS · Locomotion | [Paper](https://arxiv.org/abs/2508.04696) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247646) |
 | 2025 | Adaptive Step Duration for Accurate Foot Placement: Achieving Robust Bipedal Locomotion on Terrains with Restricted Footholds | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2403.17136) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246171) |
-| 2025 | Autotuning Bipedal Locomotion MPC with GRFM-Net for Efficient Sim-to-Real Transfer | IROS · Locomotion | [Paper](https://arxiv.org/abs/2409.15710) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246647) |
+| 2025 | Autotuning Bipedal Locomotion MPC with GRFM-Net for Efficient Sim-to-Real Transfer | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2409.15710) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246647) |
 | 2025 | Biomechanically-Inspired Bipedal Robot Locomotion via Hybrid Gait Representation and Model-Guided Reinforcement Learning | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11247253) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247253) |
-| 2025 | CROSS-GAiT: Cross-Attention-Based Multimodal Representation Fusion for Parametric Gait Adaptation in Complex Terrains | IROS · Gait | [Paper](https://arxiv.org/abs/2409.17262) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247772) |
+| 2025 | CROSS-GAiT: Cross-Attention-Based Multimodal Representation Fusion for Parametric Gait Adaptation in Complex Terrains | IROS · Gait | [Paper](https://arxiv.org/pdf/2409.17262) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247772) |
 | 2025 | DCM Modulation: A Three-Axis Rotation Stabilization Technique for Bipedal Locomotion Control | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11246273) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246273) |
 | 2025 | Energy-Efficient Omnidirectional Locomotion for Wheeled Quadrupeds via Predictive Energy-Aware Nominal Gait Selection | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2601.10723) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246912) |
 | 2025 | LSTM-MHSA-Enhanced Deep Reinforcement Learning for Accurate Gait Control in Human Musculoskeletal Model | IROS · Gait | [Paper](https://doi.org/10.1109/IROS60139.2025.11246135) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246135) |
 | 2025 | Stepping Locomotion for a Walking Excavator Robot using Hierarchical Reinforcement Learning and Action Masking* | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11247348) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247348) |
-| 2025 | The Duke Humanoid: Design and Control for Energy-Efficient Bipedal Locomotion Using Passive Dynamics | IROS · Humanoid | [Paper](https://arxiv.org/abs/2409.19795) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246828) |
+| 2025 | The Duke Humanoid: Design and Control for Energy-Efficient Bipedal Locomotion Using Passive Dynamics | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2409.19795) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246828) |
 | 2025 | ZBOT: A Novel Modular Robot Capable of Active Transformation from Snake to Bipedal Configuration through RL | IROS · Biped | [Paper](https://doi.org/10.1109/IROS60139.2025.11246225) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246225) |
 | 2024 | Multi-agent Reinforcement Learning with Hybrid Action Space for Free Gait Motion Planning of Hexapod Robots | CoRL · Gait | [Paper](https://www.semanticscholar.org/paper/89270466903f9dc6792bbdf10331eb5b1aa8af30) · [Index](https://dblp.org/rec/conf/corl/FuT0DC24) |
 | 2024 | ResPilot: Teleoperated Finger Gaiting via Gaussian Process Residual Learning | CoRL · Gait | [Paper](https://arxiv.org/abs/2409.09140) · [Publisher](https://doi.org/10.48550/arXiv.2409.09140) |
-| 2024 | Adaptive Gait Modeling and Optimization for Principally Kinematic Systems | ICRA · Gait | [Paper](https://arxiv.org/abs/2310.02141) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611303) |
+| 2024 | Adaptive Gait Modeling and Optimization for Principally Kinematic Systems | ICRA · Gait | [Paper](https://arxiv.org/pdf/2310.02141) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611303) |
 | 2024 | Adaptive Passive Biped Dynamic Walking on Unknown Uneven Terrain | ICRA · Biped | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610661) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610661) |
 | 2024 | Efficient Terrain Map Using Planar Regions for Footstep Planning on Humanoid Robots | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610879) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610879) |
-| 2024 | Foot Shape-Dependent Resistive Force Model for Bipedal Walkers on Granular Terrains | ICRA · Biped | [Paper](https://arxiv.org/abs/2403.03460) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610190) |
+| 2024 | Foot Shape-Dependent Resistive Force Model for Bipedal Walkers on Granular Terrains | ICRA · Biped | [Paper](https://arxiv.org/pdf/2403.03460) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610190) |
 | 2024 | Generation of Steady Wheel Gait for Planar X-shaped Walker with Reaction Wheel | ICRA · Gait | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610478) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610478) |
-| 2024 | Infer and Adapt: Bipedal Locomotion Reward Learning from Demonstrations via Inverse Reinforcement Learning | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2309.16074) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611685) |
-| 2024 | Learning Vision-Based Bipedal Locomotion for Challenging Terrain | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2309.14594) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611621) |
+| 2024 | Infer and Adapt: Bipedal Locomotion Reward Learning from Demonstrations via Inverse Reinforcement Learning | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2309.16074) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611685) |
+| 2024 | Learning Vision-Based Bipedal Locomotion for Challenging Terrain | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2309.14594) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611621) |
 | 2024 | Phase Synthesis for Spatial Locomotion Control of Retractable Worm Robots | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610882) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610882) |
-| 2024 | Walking-by-Logic: Signal Temporal Logic-Guided Model Predictive Control for Bipedal Locomotion Resilient to External Perturbations | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2309.13172) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610811) |
+| 2024 | Walking-by-Logic: Signal Temporal Logic-Guided Model Predictive Control for Bipedal Locomotion Resilient to External Perturbations | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2309.13172) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610811) |
 | 2024 | Climbing Gait for a Snake Robot by Adapting to a Flexible Net | IROS · Gait | [Paper](https://doi.org/10.1109/IROS58592.2024.10802564) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802564) |
 | 2024 | Demonstrating a Robust Walking Algorithm for Underactuated Bipedal Robots in Non-flat, Non-stationary Environments | IROS · Biped | [Paper](https://arxiv.org/abs/2403.02486) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802406) |
-| 2024 | Distilling Reinforcement Learning Policies for Interpretable Robot Locomotion: Gradient Boosting Machines and Symbolic Regression | IROS · Locomotion | [Paper](https://arxiv.org/abs/2403.14328) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802433) |
+| 2024 | Distilling Reinforcement Learning Policies for Interpretable Robot Locomotion: Gradient Boosting Machines and Symbolic Regression | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2403.14328) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802433) |
 | 2024 | Dynamic Walking on Highly Underactuated Point Foot Humanoids: Closing the Loop between HZD and HLIP | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2406.13115) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802542) |
 | 2024 | Environment-Adaptive Gait Planning for Obstacle Avoidance in Lower-Limb Robotic Exoskeletons | IROS · Gait | [Paper](https://doi.org/10.1109/IROS58592.2024.10802769) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802769) |
 | 2024 | Feasible Region Construction by Polygon Merging for Continuous Bipedal Walking* | IROS · Biped | [Paper](https://doi.org/10.1109/IROS58592.2024.10802326) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802326) |
-| 2024 | Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/abs/2408.02662) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801468) |
+| 2024 | Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2408.02662) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801468) |
 | 2024 | Interruptive Language Control of Bipedal Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS58592.2024.10801602) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801602) |
 | 2024 | Stable Wheel Gait Generation for Planar X-shaped Walker with Telescopic Legs Based on Asymmetric Impact Posture | IROS · Gait | [Paper](https://doi.org/10.1109/IROS58592.2024.10802771) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802771) |
 | 2024 | Whleaper: A 10-DOF Flexible Bipedal Wheeled Robot | IROS · Biped | [Paper](https://arxiv.org/pdf/2504.21767) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801355) |
-| 2023 | Bipedal Robot Walking Control Using Human Whole-Body Dynamic Telelocomotion | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2209.06964) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160278) |
+| 2023 | Bipedal Robot Walking Control Using Human Whole-Body Dynamic Telelocomotion | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2209.06964) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160278) |
 | 2023 | Bootstrapping the Dynamic Gait Controller of the Soft Robot Arm | ICRA · Gait | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160579) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160579) |
 | 2023 | Deep Reinforcement Learning based Personalized Locomotion Planning for Lower-Limb Exoskeletons | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161559) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161559) |
 | 2023 | Foot Stepping Algorithm of Humanoids with Double Support Time Adjustment based on Capture Point Control | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160297) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160297) |
 | 2023 | Learnable Tegotae-based Feedback in CPGs with Sparse Observation Produces Efficient and Adaptive Locomotion | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160571) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160571) |
 | 2023 | Optimizing Bipedal Locomotion for The 100m Dash With Comparison to Human Running | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2508.03070) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160436) |
-| 2023 | Robust Bipedal Locomotion: Leveraging Saltation Matrices for Gait Optimization | ICRA · Locomotion | [Paper](https://authors.library.caltech.edu/records/d6qtr-4gj19/files/2209.10452.pdf?download=1) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161309) |
+| 2023 | Robust Bipedal Locomotion: Leveraging Saltation Matrices for Gait Optimization | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2209.10452) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161309) |
 | 2023 | Safe Bipedal Path Planning via Control Barrier Functions for Polynomial Shape Obstacles Estimated Using Logistic Regression | ICRA · Biped | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160671) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160671) |
 | 2023 | ViNL: Visual Navigation and Locomotion Over Obstacles | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2210.14791) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160612) |
-| 2023 | A Robotic Assistance Personalization Control Approach of Hip Exoskeletons for Gait Symmetry Improvement | IROS · Gait | [Paper](https://figshare.com/articles/preprint/A_Robotic_Assistance_Personalization_Control_Approach_of_Hip_Exoskeletons_for_Gait_Symmetry_Improvement/22257358/1/files/39558883.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341440) |
+| 2023 | A Robotic Assistance Personalization Control Approach of Hip Exoskeletons for Gait Symmetry Improvement | IROS · Gait | [Paper](https://doi.org/10.1109/IROS55552.2023.10341440) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341440) |
 | 2023 | An Approach for Generating Families of Energetically Optimal Gaits from Passive Dynamic Walking Gaits | IROS · Gait | [Paper](https://arxiv.org/pdf/2303.14750) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342322) |
 | 2023 | Automated Gait Generation for Walking, Soft Robotic Quadrupeds | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2310.00498) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342059) |
 | 2023 | CLF-CBF Constraints for Real-Time Avoidance of Multiple Obstacles in Bipedal Locomotion and Navigation | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS55552.2023.10341626) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341626) |
@@ -108,7 +109,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Adapting Rapid Motor Adaptation for Bipedal Robots | IROS · Biped | [Paper](https://arxiv.org/pdf/2205.15299) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981091) |
 | 2022 | Continuous locomotion mode recognition and gait phase estimation based on a shank-mounted IMU with artificial neural networks | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2208.00861) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981154) |
 | 2022 | Experimental Assessment of a Control Strategy for Locomotion Assistance Relying on Simplified Motor Primitives | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9982128) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982128) |
-| 2022 | From Human Walking to Bipedal Robot Locomotion: Reflex Inspired Compensation on Planned and Unplanned Downsteps | IROS · Locomotion | [Paper](https://repository.tudelft.nl/file/File_2ef6d5c4-8239-4031-9f1a-774dcfb660a2) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981593) |
+| 2022 | From Human Walking to Bipedal Robot Locomotion: Reflex Inspired Compensation on Planned and Unplanned Downsteps | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2209.02995) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981593) |
 | 2022 | Gastrocnemius and Power Amplifier Soleus Spring-Tendons Achieve Fast Human-like Walking in a Bipedal Robot | IROS · Biped | [Paper](https://lirias.kuleuven.be/handle/20.500.12942/717213) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981725) |
 | 2022 | Learning Dynamic Bipedal Walking Across Stepping Stones | IROS · Biped | [Paper](https://arxiv.org/pdf/2205.01807) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981884) |
 | 2022 | Optimal Gait Families using Lagrange Multiplier Method | IROS · Gait | [Paper](https://arxiv.org/pdf/2210.03778) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981871) |
@@ -116,10 +117,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Robust Humanoid Walking System Considering Recognized Terrain and Robots' Balance | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9981410) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981410) |
 | 2022 | Uniform Global Exponential Stabilizing Passivity-Based Tracking Controller Applied to Planar Biped Robots | IROS · Biped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981206) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981206) |
 
-## Recent arXiv papers (266)
+## Recent arXiv papers (269)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-15 | Location-Based Safety Management with Wearable Seamless Indoor-Outdoor Positioning | Anh-Van Vu, Seungwoo Chae, Changmin Sung, Van-Tuan Nguyen et al. | [Abstract](https://arxiv.org/abs/2610.21503) · [PDF](https://arxiv.org/pdf/2610.21503) |
+| 2026-10-14 | Persistent Profile-Guided Reset-Free Recovery Improves Final Gait Selection after Irreversible Leg Damage | Minjoong Kim | [Abstract](https://arxiv.org/abs/2610.20838) · [PDF](https://arxiv.org/pdf/2610.20838) |
+| 2026-10-13 | Tread: A Visuo-Inertial Framework for Terrain and Locomotion Context-Aware Gait-Phase and Speed Estimation in Wearable Robotics | Debadrata Sarkar, Akash Bachhar, Aman Arora | [Abstract](https://arxiv.org/abs/2610.19067) · [PDF](https://arxiv.org/pdf/2610.19067) |
+| 2026-10-11 | Geometry-Aware Predictive Control for Walk-to-Run Bipedal Obstacle Crossing | Aashish Sahu, R. Prasanth Kumar | [Abstract](https://arxiv.org/abs/2610.15735) · [PDF](https://arxiv.org/pdf/2610.15735) |
+| 2026-10-08 | Walking on Roofs: Exploring the Potential of Walking Robots for Construction Work on Roofs | Bjoern-Felix Dettmar, Arne Roennau | [Abstract](https://arxiv.org/abs/2610.12272) · [PDF](https://arxiv.org/pdf/2610.12272) |
+| 2026-10-05 | Hierarchical Reinforcement Learning for Collision-Free Locomotion of an Underactuated Biped | Jagannath Prasad Sahoo, Saurabh Kumar, Surya Prakash S. K., Samiran Datta et al. | [Abstract](https://arxiv.org/abs/2610.05855) · [PDF](https://arxiv.org/pdf/2610.05855) |
+| 2026-10-02 | Sparse Calibration-Based Personalization of Kernel-Based Gait Phase and Speed Estimation Using Wearable IMUs | Myeongju Cha, Pilwon Hur | [Abstract](https://arxiv.org/abs/2610.03931) · [PDF](https://arxiv.org/pdf/2610.03931) |
 | 2026-10-01 | The Effect of Gait Stability Based on Two Types of Impact Strategies for Two-Link Walking and Brachiating Robots | Alan Estrada Flores, Nelson Rosa | [Abstract](https://arxiv.org/abs/2610.01004) · [PDF](https://arxiv.org/pdf/2610.01004) |
 | 2026-09-30 | PhaseSync-Exo: Human Clock Anchored Reference Adaptation for Dynamic Gait Tracking | Kaijie Qi, Yuehan Wang, Kaiming Xu, Chong Li et al. | [Abstract](https://arxiv.org/abs/2609.38824) · [PDF](https://arxiv.org/pdf/2609.38824) |
 | 2026-09-29 | Multifunctional Locomotion Control of Multi-Jointed BURs with Swimming and gait Capabilities | Takumi Asada, Hideo Furuhashi, Kenta Tabata, Renato Miyagusuku et al. | [Abstract](https://arxiv.org/abs/2609.37086) · [PDF](https://arxiv.org/pdf/2609.37086) |
@@ -263,7 +271,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-06-10 | Noise Analysis and Hierarchical Adaptive Body State Estimator For Biped Robot Walking With ESVC Foot | Boyang Chen, Xizhe Zang, Chao Song, Yue Zhang et al. | [Abstract](https://arxiv.org/abs/2506.08578) · [PDF](https://arxiv.org/pdf/2506.08578) |
 | 2025-06-08 | Model Analysis And Design Of Ellipse Based Segmented Varying Curved Foot For Biped Robot Walking | Boyang Chen, Xizhe Zang, Chao Song, Yue Zhang et al. | [Abstract](https://arxiv.org/abs/2506.07283) · [PDF](https://arxiv.org/pdf/2506.07283) |
 | 2025-06-05 | Multimodal Limbless Crawling Soft Robot with a Kirigami Skin | Jonathan Tirado, Aida Parvaresh, Burcu Seyidoğlu, Darryl A. Bedford et al. | [Abstract](https://arxiv.org/abs/2506.04547) · [PDF](https://arxiv.org/pdf/2506.04547) |
-| 2025-06-05 | A Three-Stage Offline SDRE-Based Control Framework for Human Motion Reproduction on a Suspended Bipedal Robot | Ping-Kong Huang, Chien-Wu Lan, Chin-Tien Wu, Ching-Kai Lin | [Abstract](https://arxiv.org/abs/2506.04680) · [PDF](https://arxiv.org/pdf/2506.04680) |
 | 2025-06-05 | A Novel Transformer-Based Method for Full Lower-Limb Joint Angles and Moments Prediction in Gait Using sEMG and IMU data | Farshad Haghgoo Daryakenari, Tara Farizeh | [Abstract](https://arxiv.org/abs/2506.04577) · [PDF](https://arxiv.org/pdf/2506.04577) |
 | 2025-05-30 | MotionPersona: Real-Time Locomotion Control across Personas, Bodies, and Styles | Mingyi Shi, Wei Liu, Jidong Mei, Wangpok Tse et al. | [Abstract](https://arxiv.org/abs/2506.00173) · [PDF](https://arxiv.org/pdf/2506.00173) |
 | 2025-05-27 | Gait-Conditioned Reinforcement Learning with Multi-Phase Curriculum for Humanoid Locomotion | Tianhu Peng, Lingfan Bao, Chengxu Zhou | [Abstract](https://arxiv.org/abs/2505.20619) · [PDF](https://arxiv.org/pdf/2505.20619) |
@@ -383,9 +390,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-02 | Learning to See Physical Properties with Active Sensing Motor Policies | Gabriel B. Margolis, Xiang Fu, Yandong Ji, Pulkit Agrawal | [Abstract](https://arxiv.org/abs/2311.01405) · [PDF](https://arxiv.org/pdf/2311.01405) |
 | 2023-11-01 | MTAC: Hierarchical Reinforcement Learning-based Multi-gait Terrain-adaptive Quadruped Controller | Nishaant Shah, Kshitij Tiwari, Aniket Bera | [Abstract](https://arxiv.org/abs/2401.03337) · [PDF](https://arxiv.org/pdf/2401.03337) |
 | 2023-10-21 | Computational Approaches for Modeling Power Consumption on an Underwater Flapping Fin Propulsion System | Brian Zhou, Jason Geder, Alisha Sharma, Julian Lee et al. | [Abstract](https://arxiv.org/abs/2310.14135) · [PDF](https://arxiv.org/pdf/2310.14135) |
-| 2023-10-17 | Signal Temporal Logic-Guided Model Predictive Control for Robust Bipedal Locomotion Resilient to Runtime External Perturbations | Zhaoyuan Gu, Rongming Guo, William Yates, Yipu Chen et al. | [Abstract](https://arxiv.org/abs/2310.11290) · [PDF](https://arxiv.org/pdf/2310.11290) |
-| 2023-10-15 | Socially Acceptable Bipedal Navigation: A Signal-Temporal-Logic- Driven Approach for Safe Locomotion | Abdulaziz Shamsah, Ye Zhao | [Abstract](https://arxiv.org/abs/2310.09969) · [PDF](https://arxiv.org/pdf/2310.09969) |
-| 2023-10-09 | Synthesizing Robust Walking Gaits via Discrete-Time Barrier Functions with Application to Multi-Contact Exoskeleton Locomotion | Maegan Tucker, Kejun Li, Aaron D. Ames | [Abstract](https://arxiv.org/abs/2310.06169) · [PDF](https://arxiv.org/pdf/2310.06169) |
 
 ---
 

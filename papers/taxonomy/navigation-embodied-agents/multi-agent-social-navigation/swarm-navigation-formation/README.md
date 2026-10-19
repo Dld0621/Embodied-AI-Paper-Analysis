@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Multi-agent%20%26%20Social%20Navigation&specialty=Swarm%20Navigation%20%26%20Formation#research-workbench)
 
-> 4 conference papers · 44 recent arXiv papers
+> 4 conference papers · 43 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,7 +23,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Robot Swarm Control Based on Smoothed Particle Hydrodynamics for Obstacle-Unaware Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2404.16309) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801800) |
 | 2022 | Barrier Function-based Safe Reinforcement Learning for Formation Control of Mobile Robots | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/icra46639.2022.9811604) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811604) |
 
-## Recent arXiv papers (44)
+## Recent arXiv papers (43)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -70,7 +70,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-16 | Energy-aware Multi-UAV Coverage Mission Planning with Optimal Speed of Flight | Denys Datsko, Frantisek Nekovar, Robert Penicka, Martin Saska | [Abstract](https://arxiv.org/abs/2402.10529) · [PDF](https://arxiv.org/pdf/2402.10529) |
 | 2024-01-15 | Certifiable Mutual Localization and Trajectory Planning for Bearing-Based Robot Swarm | Yingjian Wang, Xiangyong Wen, Fei Gao | [Abstract](https://arxiv.org/abs/2401.07784) · [PDF](https://arxiv.org/pdf/2401.07784) |
 | 2023-11-20 | Design of Planar Collision-free Trochoidal Paths for a Multi-robot Swarm | Adil Shiyas, Sachit Rao | [Abstract](https://arxiv.org/abs/2311.11720) · [PDF](https://arxiv.org/pdf/2311.11720) |
-| 2023-10-13 | AMSwarmX: Safe Swarm Coordination in CompleX Environments via Implicit Non-Convex Decomposition of the Obstacle-Free Space | Vivek K. Adajania, Siqi Zhou, Arun Kumar Singh, Angela P. Schoellig | [Abstract](https://arxiv.org/abs/2310.09195) · [PDF](https://arxiv.org/pdf/2310.09195) |
 
 ---
 

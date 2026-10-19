@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=Occupancy%20%26%20Scene%20Representation#research-workbench)
 
-> 6 conference papers · 76 recent arXiv papers
+> 7 conference papers · 79 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,21 +14,25 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (6)
+## Conference papers (7)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding | IROS · 3D Scene | [Paper](https://arxiv.org/abs/2503.08474) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245861) |
-| 2025 | Domain-Conditioned Scene Graphs for State-Grounded Task Planning | IROS · Scene Graph | [Paper](https://arxiv.org/abs/2504.06661) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247213) |
-| 2025 | Generating Actionable Robot Knowledge Bases by Combining 3D Scene Graphs with Robot Ontologies | IROS · 3D Scene | [Paper](https://arxiv.org/abs/2507.11770) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245658) |
-| 2024 | QueSTMaps: Queryable Semantic Topological Maps for 3D Scene Understanding | IROS · 3D Scene | [Paper](https://arxiv.org/abs/2404.06442) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801814) |
-| 2022 | Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization | RSS · 3D Scene | [Paper](https://hdl.handle.net/1721.1/145300) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.050) |
+| 2026 | DSSM-SG: Dynamic 3D Scene Graphs with Spatio-Semantic Memory for Long-Term Indoor Navigation Tasks | ICRA · 3D Scene | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695756) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695756) |
+| 2025 | Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding | IROS · 3D Scene | [Paper](https://arxiv.org/pdf/2503.08474) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245861) |
+| 2025 | Domain-Conditioned Scene Graphs for State-Grounded Task Planning | IROS · Scene Graph | [Paper](https://arxiv.org/pdf/2504.06661) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247213) |
+| 2025 | Generating Actionable Robot Knowledge Bases by Combining 3D Scene Graphs with Robot Ontologies | IROS · 3D Scene | [Paper](https://arxiv.org/pdf/2507.11770) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245658) |
+| 2024 | QueSTMaps: Queryable Semantic Topological Maps for 3D Scene Understanding | IROS · 3D Scene | [Paper](https://arxiv.org/pdf/2404.06442) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801814) |
+| 2022 | Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization | RSS · 3D Scene | [Paper](https://arxiv.org/pdf/2201.13360) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.050) |
 | 2022 | iSDF: Real-Time Neural Signed Distance Fields for Robot Perception | RSS · Robot Perception | [Paper](https://arxiv.org/abs/2204.02296) · [Publisher](https://doi.org/10.48550/arXiv.2204.02296) |
 
-## Recent arXiv papers (76)
+## Recent arXiv papers (79)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-13 | RadarGSOcc: Doppler-Aware 3D Semantic Occupancy Prediction Using 4D Radar Tensor with Geometric-Semantic Feature Extraction | Christofel Rio Goenawan, Dong-Hee Paek, Seung-Hyun Kong | [Abstract](https://arxiv.org/abs/2610.18686) · [PDF](https://arxiv.org/pdf/2610.18686) |
+| 2026-10-11 | GNFormer: Gaussian Neural Field Transformer for Efficient Camera-based Occupancy Prediction | Guangcheng Chen, Li He, Hong Zhang | [Abstract](https://arxiv.org/abs/2610.15522) · [PDF](https://arxiv.org/pdf/2610.15522) |
+| 2026-10-03 | SelectOccFlow: Selective Spatiotemporal Aggregation for 3D Occupancy and Scene Flow Prediction | Yuhang Wang, Kai Luo, Yuanfan Zheng, Kailun Yang | [Abstract](https://arxiv.org/abs/2610.04356) · [PDF](https://arxiv.org/pdf/2610.04356) |
 | 2026-09-29 | Planning Oriented 3D Scene Completion via Coupled TUDF Occupancy Representation Learning from Partial Observations | Tianyou Yu, Pengfei Zhao, Chao Xu | [Abstract](https://arxiv.org/abs/2609.36543) · [PDF](https://arxiv.org/pdf/2609.36543) |
 | 2026-09-29 | HIGS: Hierarchical Implicit Grids for Joint Geometric and Semantic Scene Understanding | Hanwen Cao, Wenqiang Wu, Kuang-Ting Tu, Mathias Otnes et al. | [Abstract](https://arxiv.org/abs/2609.38620) · [PDF](https://arxiv.org/pdf/2609.38620) |
 | 2026-09-23 | Kairos: Grounded Forecasting of Presence and Directional Flow in 4D Scene Graphs | Iacopo Catalano, Julio A. Placed, Javier Civera, Jorge Peña Queralta | [Abstract](https://arxiv.org/abs/2609.27467) · [PDF](https://arxiv.org/pdf/2609.27467) |

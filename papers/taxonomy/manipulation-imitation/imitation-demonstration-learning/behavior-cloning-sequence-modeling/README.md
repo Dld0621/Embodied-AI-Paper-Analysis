@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Imitation%20%26%20Demonstration%20Learning&specialty=Behavior%20Cloning%20%26%20Sequence%20Modeling#research-workbench)
 
-> 16 conference papers · 102 recent arXiv papers
+> 16 conference papers · 107 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,14 +18,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Observer–Actor: Active Vision Imitation Learning with Sparse-View Gaussian Splatting | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2511.18140) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697290) |
-| 2026 | R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2510.18085) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697586) |
-| 2026 | Residual Off-Policy RL for Finetuning Behavior Cloning Policies | ICRA · Behavior Cloning | [Paper](https://arxiv.org/abs/2509.19301) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695959) |
+| 2026 | Observer–Actor: Active Vision Imitation Learning with Sparse-View Gaussian Splatting | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2511.18140) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697290) |
+| 2026 | R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2510.18085) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697586) |
+| 2026 | Residual Off-Policy RL for Finetuning Behavior Cloning Policies | ICRA · Behavior Cloning | [Paper](https://arxiv.org/pdf/2509.19301) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695959) |
 | 2025 | Rethinking Latent Redundancy in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation | ICML · Manipulation | [Paper](https://arxiv.org/abs/2502.02853) · [Index](https://dblp.org/rec/conf/icml/BaiZDZWC25) |
 | 2025 | Diffusion-Based Self-Supervised Imitation Learning from Imperfect Visual Servoing Demonstrations for Robotic Glass Installation | ICRA · Imitation Learning | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127752) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127752) |
 | 2025 | Feasibility-Aware Imitation Learning from Observations Through a Hand-Mounted Demonstration Interface | ICRA · Imitation Learning | [Paper](https://naist.repo.nii.ac.jp/records/2001695) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127364) |
-| 2025 | SAFE-GIL: SAFEty Guided Imitation Learning for Robotic Systems | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2404.05249) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128298) |
-| 2025 | Self-Improving Autonomous Underwater Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2410.18969) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128759) |
+| 2025 | SAFE-GIL: SAFEty Guided Imitation Learning for Robotic Systems | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2404.05249) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128298) |
+| 2025 | Self-Improving Autonomous Underwater Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2410.18969) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128759) |
 | 2025 | Constrained Behavior Cloning for Robotic Learning | IROS · Behavior Cloning | [Paper](https://doi.org/10.1109/IROS60139.2025.11246164) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246164) |
 | 2024 | Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2412.15109) · [Publisher](https://doi.org/10.48550/arXiv.2412.15109) |
 | 2024 | Data Efficient Behavior Cloning for Fine Manipulation via Continuity-based Corrective Labels | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2405.19307) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801414) |
@@ -35,10 +35,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | From Temporal-Evolving to Spatial-Fixing: A Keypoints-Based Learning Paradigm for Visual Robotic Manipulation | IROS · Manipulation | [Paper](https://hal.science/hal-04265635/document) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341397) |
 | 2022 | Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2209.05451) · [Publisher](https://doi.org/10.48550/arXiv.2209.05451) |
 
-## Recent arXiv papers (102)
+## Recent arXiv papers (107)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-14 | Investigating Behavior Cloning from Few Demonstrations for Autonomous Driving based on Bird's-Eye View in Simulated Cities | Eric Aislan Antonelo, Gustavo Claudio Karl Couto, Christian Möller, Pedro Henrique Fernandes | [Abstract](https://arxiv.org/abs/2610.20203) · [PDF](https://arxiv.org/pdf/2610.20203) |
+| 2026-10-14 | Graph-Reweighted Behavior Cloning with Human Interventions for Precise Robotic Manipulation | Xiaoman Li, Zhiqiang Yang, Jiayu Hu, Jipeng Kong et al. | [Abstract](https://arxiv.org/abs/2610.20504) · [PDF](https://arxiv.org/pdf/2610.20504) |
+| 2026-10-13 | Where Small Mistakes Matter: Quantifying State Criticality for Imitation Learning | Yusuf Umut Ciftci, Joonwon Kang, Ajay Suresha Sathya, Somil Bansal | [Abstract](https://arxiv.org/abs/2610.17709) · [PDF](https://arxiv.org/pdf/2610.17709) |
+| 2026-10-13 | Breaking the Average: Overcoming Convergent Defaults in Robotic Manipulation via Diagnostic Chain-of-Thought and Structured Guidance | Mohammed Daba, Waleed Abdulrahman Saleh AlAkwa | [Abstract](https://arxiv.org/abs/2610.17983) · [PDF](https://arxiv.org/pdf/2610.17983) |
+| 2026-10-12 | Smoothness Ranks Skill, Not Success: An Audit of Published Trajectory-Smoothness Curation Metrics Under Episode-Length Controls | Jaiveer Bassi | [Abstract](https://arxiv.org/abs/2610.17427) · [PDF](https://arxiv.org/pdf/2610.17427) |
+| 2026-10-07 | Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning | Prabin Kumar Rath, Omkar Patil, Nakul Gopalan | [Abstract](https://arxiv.org/abs/2610.10857) · [PDF](https://arxiv.org/pdf/2610.10857) |
 | 2026-09-29 | Diffusion-2BC: Hybrid Diffusion and Regression Training for Offline Behavior Cloning in Autonomous Driving | Bruno Maciel Machado, Eric Aislan Antonelo | [Abstract](https://arxiv.org/abs/2609.38472) · [PDF](https://arxiv.org/pdf/2609.38472) |
 | 2026-09-28 | ReCAT: Remember, Count, and Time: Structured Recurrent Memory for Robot Manipulation | Pankhuri Vanjani, Mostafa Hatab, Can Mizrakli, Vaisakh Shaj et al. | [Abstract](https://arxiv.org/abs/2609.35200) · [PDF](https://arxiv.org/pdf/2609.35200) |
 | 2026-09-27 | Is Online Interaction Necessary for Recovery? A Minimalist Approach to Robust Planning via Perturbation | Bumgeun Park, Donghwan Lee | [Abstract](https://arxiv.org/abs/2609.33049) · [PDF](https://arxiv.org/pdf/2609.33049) |
@@ -74,7 +80,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-04-15 | Behavior Cloning Under PD Control: A Finite-Horizon Theory of Gain-Dependent Error Amplification | Junghoon Seo | [Abstract](https://arxiv.org/abs/2604.14484) · [PDF](https://arxiv.org/pdf/2604.14484) |
 | 2026-03-28 | Rainbow-DemoRL: Combining Improvements in Demonstration-Augmented Reinforcement Learning | Dwait Bhatt, Shih-Chieh Chou, Nikolay Atanasov | [Abstract](https://arxiv.org/abs/2603.27400) · [PDF](https://arxiv.org/pdf/2603.27400) |
 | 2026-03-27 | DFM-VLA: Iterative Action Refinement for Robot Manipulation via Discrete Flow Matching | Jiayi Chen, Wenxuan Song, Jiaxin Fang, Ruiqing Yin et al. | [Abstract](https://arxiv.org/abs/2603.26320) · [PDF](https://arxiv.org/pdf/2603.26320) |
-| 2026-03-02 | Towards Robot Skill Learning and Adaptation with Gaussian Processes | A K M Nadimul Haque, Fouad Sukkar, Sheila Sujipto, Cedric Le Gentil et al. | [Abstract](https://arxiv.org/abs/2603.01480) · [PDF](https://arxiv.org/pdf/2603.01480) |
+| 2026-03-02 | Towards Robot Skill Learning and Adaptation with Gaussian Processes | A K M Nadimul Haque, Fouad Sukkar, Sheila Sutjipto, Cedric Le Gentil et al. | [Abstract](https://arxiv.org/abs/2603.01480) · [PDF](https://arxiv.org/pdf/2603.01480) |
 | 2026-02-17 | Feasibility-aware Imitation Learning from Observation with Multimodal Feedback | Kei Takahashi, Hikaru Sasaki, Takamitsu Matsubara | [Abstract](https://arxiv.org/abs/2602.15351) · [PDF](https://arxiv.org/pdf/2602.15351) |
 | 2025-12-08 | ESPADA: Execution Speedup via Semantics Aware Demonstration Data Downsampling for Imitation Learning | Byung-ju Kim, Jinu Pahk, Chungwoo Lee, Jaejoon Kim et al. | [Abstract](https://arxiv.org/abs/2512.07371) · [PDF](https://arxiv.org/pdf/2512.07371) |
 | 2025-12-01 | Much Ado About Noising: Dispelling the Myths of Generative Robotic Control | Chaoyi Pan, Giri Anantharaman, Nai-Chieh Huang, Claire Jin et al. | [Abstract](https://arxiv.org/abs/2512.01809) · [PDF](https://arxiv.org/pdf/2512.01809) |
@@ -140,7 +146,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-27 | Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning | Xiaoyu Zhang, Matthew Chang, Pranav Kumar, Saurabh Gupta | [Abstract](https://arxiv.org/abs/2402.17768) · [PDF](https://arxiv.org/pdf/2402.17768) |
 | 2024-02-22 | BeTAIL: Behavior Transformer Adversarial Imitation Learning from Human Racing Gameplay | Catherine Weaver, Chen Tang, Ce Hao, Kenta Kawamoto et al. | [Abstract](https://arxiv.org/abs/2402.14194) · [PDF](https://arxiv.org/pdf/2402.14194) |
 | 2023-11-02 | C3DM: Constrained-Context Conditional Diffusion Models for Imitation Learning | Vaibhav Saxena, Yotto Koga, Danfei Xu | [Abstract](https://arxiv.org/abs/2311.01419) · [PDF](https://arxiv.org/pdf/2311.01419) |
-| 2023-10-09 | Memory-Consistent Neural Networks for Imitation Learning | Kaustubh Sridhar, Souradeep Dutta, Dinesh Jayaraman, James Weimer et al. | [Abstract](https://arxiv.org/abs/2310.06171) · [PDF](https://arxiv.org/pdf/2310.06171) |
 
 ---
 

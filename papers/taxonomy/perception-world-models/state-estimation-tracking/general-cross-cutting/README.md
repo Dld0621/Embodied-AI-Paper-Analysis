@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=State%20Estimation%20%26%20Tracking&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 17 conference papers · 118 recent arXiv papers
+> 17 conference papers · 120 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,16 +18,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Denoising Particle Filters: Learning State Estimation with Single-Step Objectives | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2602.19651) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695798) |
-| 2026 | Large-Language-Model-Guided State Estimation for Partially Observable Task and Motion Planning | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2603.03704) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697209) |
-| 2026 | Reformulating AI-based Multi-Object Relative State Estimation for Aleatoric Uncertainty-based Outlier Rejection of Partial Measurements | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2602.02006) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696312) |
+| 2026 | Denoising Particle Filters: Learning State Estimation with Single-Step Objectives | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2602.19651) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695798) |
+| 2026 | Large-Language-Model-Guided State Estimation for Partially Observable Task and Motion Planning | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2603.03704) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697209) |
+| 2026 | Reformulating AI-based Multi-Object Relative State Estimation for Aleatoric Uncertainty-based Outlier Rejection of Partial Measurements | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2602.02006) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696312) |
 | 2025 | Hybrid State Estimation and Mode Identification of an Amphibious Robot | ICRA · State Estimation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127611) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127611) |
 | 2025 | Mixing Data-Driven and Geometric Models for Satellite Docking Port State Estimation Using an Rgb or Event Camera | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2409.15581) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128225) |
-| 2025 | RaggeDi: Diffusion-Based State Estimation of Disordered Rags, Sheets, Towels and Blankets | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2409.11831) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128504) |
-| 2025 | Simultaneous Ground Reaction Force and State Estimation Via Constrained Moving Horizon Estimation | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2411.12047) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127398) |
+| 2025 | RaggeDi: Diffusion-Based State Estimation of Disordered Rags, Sheets, Towels and Blankets | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2409.11831) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128504) |
+| 2025 | Simultaneous Ground Reaction Force and State Estimation Via Constrained Moving Horizon Estimation | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2411.12047) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127398) |
 | 2024 | Adaptive State Estimation with Constant-Curvature Dynamics Using Force-Torque Sensors with Application to a Soft Pneumatic Actuator | ICRA · State Estimation | [Paper](https://repo.uni-hannover.de/handle/123456789/20230) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610370) |
 | 2024 | Particle Filter with Stable Embedding for State Estimation of the Rigid Body Attitude System on the Set of Unit Quaternions | ICRA · State Estimation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610922) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610922) |
-| 2024 | Real-time Contact State Estimation in Shape Control of Deformable Linear Objects under Small Environmental Constraints | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2401.17154) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611558) |
+| 2024 | Real-time Contact State Estimation in Shape Control of Deformable Linear Objects under Small Environmental Constraints | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2401.17154) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611558) |
 | 2024 | Demonstrating Agile Flight from Pixels without State Estimation | RSS · State Estimation | [Paper](https://arxiv.org/abs/2406.12505) · [Publisher](https://doi.org/10.48550/arXiv.2406.12505) |
 | 2023 | LEARNEST: LEARNing Enhanced Model-based State ESTimation for Robots using Knowledge-based Neural Ordinary Differential Equations | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2209.08185) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161211) |
 | 2023 | On the Use of Torque Measurement in Centroidal State Estimation | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2202.12574) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160823) |
@@ -36,10 +36,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | STEADY: Simultaneous State Estimation and Dynamics Learning from Indirect Observations | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2203.01299) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981279) |
 | 2022 | The Uncertainty Aware Salted Kalman Filter: State Estimation for Hybrid Systems with Uncertain Guards | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2202.12729) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981218) |
 
-## Recent arXiv papers (118)
+## Recent arXiv papers (120)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-14 | Towards Certifiable State Estimation under Observability Degeneracy | Baoshan Song | [Abstract](https://arxiv.org/abs/2610.20490) · [PDF](https://arxiv.org/pdf/2610.20490) |
+| 2026-10-13 | Contractor Filters | Simon Rohou | [Abstract](https://arxiv.org/abs/2610.18040) · [PDF](https://arxiv.org/pdf/2610.18040) |
+| 2026-10-12 | MSC: Multi-Stage Caster-aware Control Framework with Uncertainty-Aware NMPC and RL-based Execution Layer | Jinho Park, Jeongtae Lee, Jeonghyeok Lim, Keun Ha Choi et al. | [Abstract](https://arxiv.org/abs/2610.16199) · [PDF](https://arxiv.org/pdf/2610.16199) |
+| 2026-10-12 | ClothAtlas: Joint Garment Identification and State Estimation under Self-Occlusion | Jens Lundell, Alberta Longhini, Lei Shu, Hemal Arora et al. | [Abstract](https://arxiv.org/abs/2610.16293) · [PDF](https://arxiv.org/pdf/2610.16293) |
+| 2026-10-09 | ClothCode: Generative Modeling for Garment State Estimation and Dynamics Prediction | Yingdong Ru, Lipeng Zhuang, Shiyu Fan, Zhuo He et al. | [Abstract](https://arxiv.org/abs/2610.14200) · [PDF](https://arxiv.org/pdf/2610.14200) |
 | 2026-10-02 | LLA-MPC on Embedded Hardware: Rapid Adaptive Control with Thousands of Parallel Models | Henry Z. Liao, Maitham F. AL-Sunni, John M. Dolan | [Abstract](https://arxiv.org/abs/2610.03616) · [PDF](https://arxiv.org/pdf/2610.03616) |
 | 2026-09-30 | Towards Agile Vision-Based Multi-UAV Flight: Revisiting State Estimation | Michal Pliska, Matouš Vrba, Ondřej Víta, Martin Jiroušek et al. | [Abstract](https://arxiv.org/abs/2609.39611) · [PDF](https://arxiv.org/pdf/2609.39611) |
 | 2026-09-29 | A QCQP-Representable IMU Pre-Integration Factor for Certifiable State Estimation | Utkarsh Rai, Zhexin Xu, Bang-Shien Chen, David Rosen | [Abstract](https://arxiv.org/abs/2609.38048) · [PDF](https://arxiv.org/pdf/2609.38048) |
@@ -56,7 +61,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-20 | Technical Design Review of Duke Robotics Club's Oogway & Crush: AUVs for RoboSub 2026 | Patrick Zheng, Saagar Arya, Hung Le, Mathew Chu et al. | [Abstract](https://arxiv.org/abs/2607.18075) · [PDF](https://arxiv.org/pdf/2607.18075) |
 | 2026-07-13 | LQG solution for POMDP without estimating states: A minimum variance approach | Ranjan Sarkar, Prabhat K. Mishra | [Abstract](https://arxiv.org/abs/2607.12135) · [PDF](https://arxiv.org/pdf/2607.12135) |
 | 2026-06-25 | Bridging Performance and Generalization in Reinforcement Learning for Agile Flight | Jonathan Green, Jiaxu Xing, Nico Messikommer, Angel Romero et al. | [Abstract](https://arxiv.org/abs/2606.27348) · [PDF](https://arxiv.org/pdf/2606.27348) |
-| 2026-06-21 | Invariant Stochastic Filtering on SE(3) for Inertial-Encoder State Estimation of Serial Rigid Manipulators | S. Yaqubi, J. Mattila | [Abstract](https://arxiv.org/abs/2607.00026) · [PDF](https://arxiv.org/pdf/2607.00026) |
 | 2026-06-19 | Mind the Noise: Sensitivity of Transformer-based Interaction-Aware Trajectory Prediction Models to Noisy Data | Shahab Salehi, Luca Lusvarghi, Miguel Sepulcre, Javier Gozalvez | [Abstract](https://arxiv.org/abs/2606.21344) · [PDF](https://arxiv.org/pdf/2606.21344) |
 | 2026-06-19 | Discrete Geometric Modeling and Extended State Estimation of Continuum Robots | Maximilian Herrmann, Leander Pfeiffer, Paul Kotyczka | [Abstract](https://arxiv.org/abs/2606.21205) · [PDF](https://arxiv.org/pdf/2606.21205) |
 | 2026-06-18 | ARC: Adaptive Robust Joint State and Covariance Estimation | Alexandre Hadji-Thomas, Andrew Stirling, James R. Forbes | [Abstract](https://arxiv.org/abs/2606.20428) · [PDF](https://arxiv.org/pdf/2606.20428) |
@@ -88,7 +92,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-11-11 | Real-Time Performance Analysis of Multi-Fidelity Residual Physics-Informed Neural Process-Based State Estimation for Robotic Systems | Devin Hunter, Chinwendu Enyioha | [Abstract](https://arxiv.org/abs/2511.08231) · [PDF](https://arxiv.org/pdf/2511.08231) |
 | 2025-11-11 | Practical and Performant Enhancements for Maximization of Algebraic Connectivity | Leonard Jung, Alan Papalia, Kevin Doherty, Michael Everett | [Abstract](https://arxiv.org/abs/2511.08694) · [PDF](https://arxiv.org/pdf/2511.08694) |
 | 2025-10-28 | Global-State-Free Obstacle Avoidance for Quadrotor Control in Air-Ground Cooperation | Baozhe Zhang, Xinwei Chen, Qingcheng Chen, Chao Xu et al. | [Abstract](https://arxiv.org/abs/2510.24315) · [PDF](https://arxiv.org/pdf/2510.24315) |
-| 2025-10-20 | Implicit State Estimation via Video Replanning | Po-Chen Ko, Jiayuan Mao, Yu-Hsiang Fu, Hsien-Jeng Yeh et al. | [Abstract](https://arxiv.org/abs/2510.17315) · [PDF](https://arxiv.org/pdf/2510.17315) |
 | 2025-10-01 | A Stochastic Framework for Continuous-Time State Estimation of Continuum Robots | Spencer Teetaert, Sven Lilge, Jessica Burgner-Kahrs, Timothy D. Barfoot | [Abstract](https://arxiv.org/abs/2510.01381) · [PDF](https://arxiv.org/pdf/2510.01381) |
 | 2025-09-30 | S$^3$E: Self-Supervised State Estimation for Radar-Inertial System | Shengpeng Wang, Yulong Xie, Qing Liao, Wei Wang | [Abstract](https://arxiv.org/abs/2509.25984) · [PDF](https://arxiv.org/pdf/2509.25984) |
 | 2025-09-24 | Lidar-based Tracking of Traffic Participants with Sensor Nodes in Existing Urban Infrastructure | Simon Schäfer, Bassam Alrifaee, Ehsan Hashemi | [Abstract](https://arxiv.org/abs/2509.20009) · [PDF](https://arxiv.org/pdf/2509.20009) |
@@ -157,7 +160,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-02 | Estimating Infinite-Dimensional Continuum Robot States From the Tip | Tongjia Zheng, Ciera McFarland, Margaret Coad, Hai Lin | [Abstract](https://arxiv.org/abs/2311.01517) · [PDF](https://arxiv.org/pdf/2311.01517) |
 | 2023-10-28 | A Stochastic Nonlinear Model Predictive Control with an Uncertainty Propagation Horizon for Autonomous Vehicle Motion Control | Baha Zarrouki, Chenyang Wang, Johannes Betz | [Abstract](https://arxiv.org/abs/2310.18753) · [PDF](https://arxiv.org/pdf/2310.18753) |
 | 2023-10-24 | navlie: A Python Package for State Estimation on Lie Groups | Charles Champagne Cossette, Mitchell Cohen, Vassili Korotkine, Arturo del Castillo Bernal et al. | [Abstract](https://arxiv.org/abs/2310.15774) · [PDF](https://arxiv.org/pdf/2310.15774) |
-| 2023-10-07 | Efficient State Estimation with Constrained Rao-Blackwellized Particle Filter | Shuai Li, Siwei Lyu, Jeff Trinkle | [Abstract](https://arxiv.org/abs/2310.04637) · [PDF](https://arxiv.org/pdf/2310.04637) |
 
 ---
 

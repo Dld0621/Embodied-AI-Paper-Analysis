@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Bridging the Sim-to-Real Gap with multipanda_ros2: A Real-Time ROS 2 Framework for Multimanual Systems | ICRA · Sim To Real | [Paper](https://arxiv.org/abs/2602.02269) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696149) |
+| 2026 | Bridging the Sim-to-Real Gap with multipanda_ros2: A Real-Time ROS 2 Framework for Multimanual Systems | ICRA · Sim To Real | [Paper](https://arxiv.org/pdf/2602.02269) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696149) |
 | 2023 | Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned | IROS · Dataset | [Paper](https://arxiv.org/pdf/2304.04362) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342377) |
 | 2022 | ROS-PyBullet Interface: A Framework for Reliable Contact Simulation and Human-Robot Interaction | CoRL · Simulation | [Paper](https://arxiv.org/abs/2210.06887) · [Publisher](https://doi.org/10.48550/arXiv.2210.06887) |
 

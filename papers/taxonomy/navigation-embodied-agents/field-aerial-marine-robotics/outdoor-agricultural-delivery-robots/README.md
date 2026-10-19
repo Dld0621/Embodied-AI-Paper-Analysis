@@ -19,8 +19,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2024 | MIM: Indoor and Outdoor Navigation in Complex Environments Using Multi-Layer Intensity Maps | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610673) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610673) |
-| 2024 | MTG: Mapless Trajectory Generator with Traversability Coverage for Outdoor Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2309.08214) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611319) |
-| 2023 | Predicting Energy Consumption and Traversal Time of Ground Robots for Outdoor Navigation on Multiple Types of Terrain | IROS · Navigation | [Paper](https://arxiv.org/abs/2308.15978) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341716) |
+| 2024 | MTG: Mapless Trajectory Generator with Traversability Coverage for Outdoor Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2309.08214) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611319) |
+| 2023 | Predicting Energy Consumption and Traversal Time of Ground Robots for Outdoor Navigation on Multiple Types of Terrain | IROS · Navigation | [Paper](https://arxiv.org/pdf/2308.15978) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341716) |
 | 2022 | HTRON: Efficient Outdoor Navigation with Sparse Rewards via Heavy Tailed Adaptive Reinforce Algorithm | CoRL · Navigation | [Paper](https://arxiv.org/abs/2207.03694) · [Publisher](https://doi.org/10.48550/arXiv.2207.03694) |
 
 ## Recent arXiv papers (4)

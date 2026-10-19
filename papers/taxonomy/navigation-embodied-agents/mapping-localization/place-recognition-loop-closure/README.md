@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Mapping%20%26%20Localization&specialty=Place%20Recognition%20%26%20Loop%20Closure#research-workbench)
 
-> 2 conference papers · 226 recent arXiv papers
+> 2 conference papers · 223 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,10 +21,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Probabilistic Active Loop Closure for Autonomous Exploration | ICRA · Exploration | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610213) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610213) |
 | 2022 | ULSM: Underground Localization and Semantic Mapping with Salient Region Loop Closure under Perceptually-Degraded Environment | IROS · Semantic Mapping | [Paper](https://doi.org/10.1109/IROS47612.2022.9982170) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982170) |
 
-## Recent arXiv papers (226)
+## Recent arXiv papers (223)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-14 | HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration | Annie Bhalla, Dennis Rotondi, Riccardo Giubilato, Kai O. Arras et al. | [Abstract](https://arxiv.org/abs/2610.19742) · [PDF](https://arxiv.org/pdf/2610.19742) |
+| 2026-10-08 | GLIO2: A GPU-Parallelized Tightly-Coupled LiDAR-Inertial-GNSS System for Robust and Real-Time Global Localization and Mapping | Qi Zhang, Xikun Liu, Qijun Qin, Xiangru Wang et al. | [Abstract](https://arxiv.org/abs/2610.12411) · [PDF](https://arxiv.org/pdf/2610.12411) |
 | 2026-09-30 | BatSLAM 2.0: Sequence-Verified Sonar Place Recognition in a Robust Pose Graph | Jan Steckel | [Abstract](https://arxiv.org/abs/2609.40085) · [PDF](https://arxiv.org/pdf/2609.40085) |
 | 2026-09-25 | Transformer-based Monte Carlo Localization in Construction Meshes | Linus Kramer, William Talbot, Olga Vysotska, Marco Hutter | [Abstract](https://arxiv.org/abs/2609.31357) · [PDF](https://arxiv.org/pdf/2609.31357) |
 | 2026-09-24 | UpDown-SC: Gravity-Canonicalized Dual-Envelope Scan Context for Indoor LiDAR Place Recognition | Jie Xu, Yongxin Yang, Ziyi Jin, Kangjin Yu et al. | [Abstract](https://arxiv.org/abs/2609.29118) · [PDF](https://arxiv.org/pdf/2609.29118) |
@@ -85,7 +87,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-01-06 | Loop Closure using AnyLoc Visual Place Recognition in DPV-SLAM | Wenzheng Zhang, Kazuki Adachi, Yoshitaka Hara, Sousuke Nakamura | [Abstract](https://arxiv.org/abs/2601.02723) · [PDF](https://arxiv.org/pdf/2601.02723) |
 | 2025-12-17 | OMCL: Open-vocabulary Monte Carlo Localization | Evgenii Kruzhkov, Raphael Memmesheimer, Sven Behnke | [Abstract](https://arxiv.org/abs/2512.15557) · [PDF](https://arxiv.org/pdf/2512.15557) |
 | 2025-12-14 | VLG-Loc: Vision-Language Global Localization from Labeled Footprint Maps | Mizuho Aoki, Kohei Honda, Yasuhiro Yoshimura, Takeshi Ishita et al. | [Abstract](https://arxiv.org/abs/2512.12793) · [PDF](https://arxiv.org/pdf/2512.12793) |
-| 2025-12-10 | Query-Calibrated Segmental Admission for Descriptor-Agnostic LiDAR Loop Closure in Repetitive Environments | Jaehyun Kim, Seungwon Choi, Wonseok Kang, Tae-Wan Kim | [Abstract](https://arxiv.org/abs/2512.09447) · [PDF](https://arxiv.org/pdf/2512.09447) |
 | 2025-12-09 | ShelfAware: Real-Time Semantic Localization in Quasi-Static Environments with Low-Cost Sensors | Shivendra Agrawal, Jake Brawer, Ashutosh Naik, Alessandro Roncone et al. | [Abstract](https://arxiv.org/abs/2512.09065) · [PDF](https://arxiv.org/pdf/2512.09065) |
 | 2025-12-09 | Adaptive Thresholding for Visual Place Recognition using Negative Gaussian Mixture Statistics | Nick Trinh, Damian Lyons | [Abstract](https://arxiv.org/abs/2512.09071) · [PDF](https://arxiv.org/pdf/2512.09071) |
 | 2025-12-04 | TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards | Mauro Martini, Marco Ambrosio, Judith Vilella-Cantos, Alessandro Navone et al. | [Abstract](https://arxiv.org/abs/2512.04772) · [PDF](https://arxiv.org/pdf/2512.04772) |
@@ -247,10 +248,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-06 | SemanticTopoLoop: Semantic Loop Closure With 3D Topological Graph Based on Quadric-Level Object Map | Zhenzhong Cao | [Abstract](https://arxiv.org/abs/2311.02831) · [PDF](https://arxiv.org/pdf/2311.02831) |
 | 2023-11-06 | LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition | Zijie Zhou, Jingyi Xu, Guangming Xiong, Junyi Ma | [Abstract](https://arxiv.org/abs/2311.03198) · [PDF](https://arxiv.org/pdf/2311.03198) |
 | 2023-10-24 | Cross-view Self-localization from Synthesized Scene-graphs | Ryogo Yamamoto, Kanji Tanaka | [Abstract](https://arxiv.org/abs/2310.15504) · [PDF](https://arxiv.org/pdf/2310.15504) |
-| 2023-10-16 | Camera-LiDAR Fusion with Latent Contact for Place Recognition in Challenging Cross-Scenes | Yan Pan, Jiapeng Xie, Jiajie Wu, Bo Zhou | [Abstract](https://arxiv.org/abs/2310.10371) · [PDF](https://arxiv.org/pdf/2310.10371) |
-| 2023-10-16 | 3D-BBS: Global Localization for 3D Point Cloud Scan Matching Using Branch-and-Bound Algorithm | Koki Aoki, Kenji Koide, Shuji Oishi, Masashi Yokozuka et al. | [Abstract](https://arxiv.org/abs/2310.10023) · [PDF](https://arxiv.org/pdf/2310.10023) |
-| 2023-10-10 | Redundant and Loosely Coupled LiDAR-Wi-Fi Integration for Robust Global Localization in Autonomous Mobile Robotics | Nikolaos Stathoulopoulos, Emanuele Pagliari, Luca Davoli, George Nikolakopoulos | [Abstract](https://arxiv.org/abs/2310.06384) · [PDF](https://arxiv.org/pdf/2310.06384) |
-| 2023-10-09 | Collaborative Visual Place Recognition | Yiming Li, Zonglin Lyu, Mingxuan Lu, Chao Chen et al. | [Abstract](https://arxiv.org/abs/2310.05541) · [PDF](https://arxiv.org/pdf/2310.05541) |
 
 ---
 

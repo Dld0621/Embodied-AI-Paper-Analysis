@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=Point-cloud%20%26%20LiDAR%20Perception#research-workbench)
 
-> 4 conference papers · 348 recent arXiv papers
+> 4 conference papers · 345 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,12 +18,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency | CVPR · Affordance | [Paper](https://arxiv.org/abs/2412.09511) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.00164) |
+| 2025 | GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency | CVPR · Affordance | [Paper](https://arxiv.org/pdf/2412.09511) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.00164) |
 | 2024 | SUGAR : Pre-training 3D Visual Representations for Robotics | CVPR · Visual Representation | [Paper](https://arxiv.org/pdf/2404.01491) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01709) |
-| 2024 | Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning | ICRA · Scene Graph | [Paper](https://arxiv.org/abs/2309.08914) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610206) |
+| 2024 | Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning | ICRA · Scene Graph | [Paper](https://arxiv.org/pdf/2309.08914) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610206) |
 | 2023 | Open-Vocabulary Affordance Detection in 3D Point Clouds | IROS · Affordance | [Paper](https://arxiv.org/pdf/2303.02401) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341553) |
 
-## Recent arXiv papers (348)
+## Recent arXiv papers (345)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -103,7 +103,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-01-30 | FlowCalib: LiDAR-to-Vehicle Miscalibration Detection using Scene Flows | Ilir Tahiraj, Peter Wittal, Markus Lienkamp | [Abstract](https://arxiv.org/abs/2601.23107) · [PDF](https://arxiv.org/pdf/2601.23107) |
 | 2026-01-26 | Efficient UAV trajectory prediction: A multi-modal deep diffusion framework | Yuan Gao, Xinyu Guo, Wenjing Xie, Zifan Wang et al. | [Abstract](https://arxiv.org/abs/2602.00107) · [PDF](https://arxiv.org/pdf/2602.00107) |
 | 2026-01-07 | Systematic Evaluation of Depth Backbones and Semantic Cues for Monocular Pseudo-LiDAR 3D Detection | Samson Oseiwe Ajadalu | [Abstract](https://arxiv.org/abs/2601.03617) · [PDF](https://arxiv.org/pdf/2601.03617) |
-| 2026-01-06 | Towards Zero-Shot Point Cloud Registration Across Diverse Scales, Scenes, and Sensor Setups | Hyungtae Lim, Minkyun Seo, Luca Carlone, Jaesik Park | [Abstract](https://arxiv.org/abs/2601.02759) · [PDF](https://arxiv.org/pdf/2601.02759) |
+| 2026-01-06 | Toward Zero-Shot Point Cloud Registration Across Diverse Scales, Scenes, and Sensor Setups | Hyungtae Lim, Minkyun Seo, Luca Carlone, Jaesik Park | [Abstract](https://arxiv.org/abs/2601.02759) · [PDF](https://arxiv.org/pdf/2601.02759) |
 | 2026-01-03 | Real-Time LiDAR Point Cloud Densification for Low-Latency Spatial Data Transmission | Kazuhiko Murasaki, Shunsuke Konagai, Masakatsu Aoki, Taiga Yoshida et al. | [Abstract](https://arxiv.org/abs/2601.01210) · [PDF](https://arxiv.org/pdf/2601.01210) |
 | 2025-12-30 | Geometric Multi-Session Map Merging with Learned Local Descriptors | Yanlong Ma, Nakul S. Joshi, Christa S. Robison, Philip R. Osteen et al. | [Abstract](https://arxiv.org/abs/2512.24384) · [PDF](https://arxiv.org/pdf/2512.24384) |
 | 2025-12-22 | LIMOncello: Iterated Error-State Kalman Filter on the SGal(3) Manifold for Fast LiDAR-Inertial Odometry | Carlos Pérez-Ruiz, Joan Solà | [Abstract](https://arxiv.org/abs/2512.19567) · [PDF](https://arxiv.org/pdf/2512.19567) |
@@ -130,7 +130,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-10-13 | MatterDoor: Sampling Zero-shot Spatio-semantic Priors using Generative Models | Subhransu S. Bhattacharjee, Hao Lu, Dylan Campbell, Rahul Shome | [Abstract](https://arxiv.org/abs/2510.11014) · [PDF](https://arxiv.org/pdf/2510.11014) |
 | 2025-10-09 | Have We Scene It All? Scene Graph-Aware Deep Point Cloud Compression | Nikolaos Stathoulopoulos, Christoforos Kanellakis, George Nikolakopoulos | [Abstract](https://arxiv.org/abs/2510.08512) · [PDF](https://arxiv.org/pdf/2510.08512) |
 | 2025-10-08 | Through the Perspective of LiDAR: A Feature-Enriched and Uncertainty-Aware Annotation Pipeline for Terrestrial Point Cloud Segmentation | Fei Zhang, Rob Chancia, Josie Clapp, Amirhossein Hassanzadeh et al. | [Abstract](https://arxiv.org/abs/2510.06582) · [PDF](https://arxiv.org/pdf/2510.06582) |
-| 2025-10-07 | Terrain-Aided Navigation Using a Point Cloud Measurement Sensor | Abdülbaki Şanlan, Fatih Erol, Murad Abu-Khalaf, Emre Koyuncu | [Abstract](https://arxiv.org/abs/2510.06470) · [PDF](https://arxiv.org/pdf/2510.06470) |
+| 2025-10-07 | Terrain-Aided Navigation Without Raycasting: A Sliding Grid Approach for Point Cloud Processing | Abdülbaki Şanlan, Fatih Erol, Murad Abu-Khalaf, Emre Koyuncu | [Abstract](https://arxiv.org/abs/2510.06470) · [PDF](https://arxiv.org/pdf/2510.06470) |
 | 2025-10-03 | Warm-Starting Optimization-Based Motion Planning for Robotic Manipulators via Point Cloud-Conditioned Flow Matching | Sibo Tian, Minghui Zheng, Xiao Liang | [Abstract](https://arxiv.org/abs/2510.03460) · [PDF](https://arxiv.org/pdf/2510.03460) |
 | 2025-09-23 | The Impact of 2D Segmentation Backbones on Point Cloud Predictions Using 4D Radar | William Muckelroy, Mohammed Alsakabi, John Dolan, Ozan Tonguz | [Abstract](https://arxiv.org/abs/2509.19644) · [PDF](https://arxiv.org/pdf/2509.19644) |
 | 2025-09-23 | SGAligner++: Cross-Modal Language-Aided 3D Scene Graph Alignment | Binod Singh, Sayan Deb Sarkar, Iro Armeni | [Abstract](https://arxiv.org/abs/2509.20401) · [PDF](https://arxiv.org/pdf/2509.20401) |
@@ -372,9 +372,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-02 | LabelFormer: Object Trajectory Refinement for Offboard Perception from LiDAR Point Clouds | Anqi Joyce Yang, Sergio Casas, Nikita Dvornik, Sean Segal et al. | [Abstract](https://arxiv.org/abs/2311.01444) · [PDF](https://arxiv.org/pdf/2311.01444) |
 | 2023-10-25 | EdgeCalib: Multi-Frame Weighted Edge Features for Automatic Targetless LiDAR-Camera Calibration | Xingchen Li, Yifan Duan, Beibei Wang, Haojie Ren et al. | [Abstract](https://arxiv.org/abs/2310.16629) · [PDF](https://arxiv.org/pdf/2310.16629) |
 | 2023-10-23 | Converting Depth Images and Point Clouds for Feature-based Pose Estimation | Robert Lösch, Mark Sastuba, Jonas Toth, Bernhard Jung | [Abstract](https://arxiv.org/abs/2310.14924) · [PDF](https://arxiv.org/pdf/2310.14924) |
-| 2023-10-09 | Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration | Chunge Bai, Ruijie Fu, Xiang Gao | [Abstract](https://arxiv.org/abs/2310.05504) · [PDF](https://arxiv.org/pdf/2310.05504) |
-| 2023-10-08 | Influence of Camera-LiDAR Configuration on 3D Object Detection for Autonomous Driving | Ye Li, Hanjiang Hu, Zuxin Liu, Xiaohao Xu et al. | [Abstract](https://arxiv.org/abs/2310.05245) · [PDF](https://arxiv.org/pdf/2310.05245) |
-| 2023-10-06 | Graph-based 3D Collision-distance Estimation Network with Probabilistic Graph Rewiring | Minjae Song, Yeseung Kim, Min Jun Kim, Daehyung Park | [Abstract](https://arxiv.org/abs/2310.04044) · [PDF](https://arxiv.org/pdf/2310.04044) |
 
 ---
 

@@ -18,16 +18,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Learning Neural Observer-Predictor Models for Limb-level Sampling-based Locomotion Planning | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2510.22789) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697171) |
-| 2026 | Reinforcement Learning-based Robust Wall Climbing Locomotion Controller in Ferromagnetic Environment | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2510.20174) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696715) |
-| 2025 | Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2409.15610) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127320) |
+| 2026 | Learning Neural Observer-Predictor Models for Limb-level Sampling-based Locomotion Planning | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2510.22789) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697171) |
+| 2026 | Reinforcement Learning-based Robust Wall Climbing Locomotion Controller in Ferromagnetic Environment | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2510.20174) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696715) |
+| 2025 | Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2409.15610) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127320) |
 | 2025 | Kinodynamic Model Predictive Control for Energy Efficient Locomotion of Legged Robots with Parallel Elasticity | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2503.05666) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128416) |
 | 2025 | Online Nonlinear MPC for Multimodal Locomotion | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127343) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127343) |
 | 2025 | Enhancing the Flexibility of a Quadruped Robot with a 2-DOF Active Spine Using Nonlinear Model Predictive Control | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS60139.2025.11246577) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246577) |
 | 2025 | Optimal Trajectory Planning in a Vertically Undulating Snake Locomotion using Contact-implicit Optimization | IROS · Locomotion | [Paper](https://arxiv.org/abs/2508.02953) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247246) |
 | 2025 | Thruster-Enhanced Locomotion: A Decoupled Model Predictive Control with Learned Contact Residuals | IROS · Locomotion | [Paper](https://arxiv.org/abs/2508.03003) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247214) |
-| 2024 | Adaptive Model Predictive Control with Data-driven Error Model for Quadrupedal Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2407.10124) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611302) |
-| 2024 | Robustifying Model-Based Locomotion by Zero-order Stochastic Nonlinear Model Predictive Control with Guard Saltation Matrix | IROS · Locomotion | [Paper](https://arxiv.org/abs/2403.14159) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801470) |
+| 2024 | Adaptive Model Predictive Control with Data-driven Error Model for Quadrupedal Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2407.10124) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611302) |
+| 2024 | Robustifying Model-Based Locomotion by Zero-order Stochastic Nonlinear Model Predictive Control with Guard Saltation Matrix | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2403.14159) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801470) |
 | 2023 | Dynamic Locomotion of a Quadruped Robot with Active Spine via Model Predictive Control | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160896) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160896) |
 | 2023 | Enhanced Balance for Legged Robots Using Reaction Wheels | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160833) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160833) |
 | 2022 | A Linearization of Centroidal Dynamics for the Model-Predictive Control of Quadruped Robots | ICRA · Quadruped | [Paper](https://doi.org/10.1109/icra46639.2022.9812433) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812433) |
@@ -38,6 +38,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-12 | Task-Space Motion-Force Nonlinear Model Predictive Control for Precise and Compliant Control under Uncertainties | Quang-Nam Nguyen, Ludovic Righetti | [Abstract](https://arxiv.org/abs/2610.17069) · [PDF](https://arxiv.org/pdf/2610.17069) |
 | 2026-09-25 | ExoLaN: Physics-Consistent Context-Aware Dynamics Learning for Exoskeletons | Lucas Schulze, Maximilian Schwarz, Jona Hoppe, Jan Peters et al. | [Abstract](https://arxiv.org/abs/2609.31434) · [PDF](https://arxiv.org/pdf/2609.31434) |
 | 2026-09-23 | OA-MPPI: Occlusion-Aware Model Predictive Path Integral Control for UAV Flight | Vittorio Palladino, Teaya Yang, Ruiqi Zhang, Mark W. Mueller | [Abstract](https://arxiv.org/abs/2609.28709) · [PDF](https://arxiv.org/pdf/2609.28709) |
 | 2026-08-24 | Guided Riemannian Optimization (GuRO): Bridging Model Predictive Control and Decision Transformers | Hossein Abdi, Satya Prakash Dash, Mingfei Sun | [Abstract](https://arxiv.org/abs/2608.23204) · [PDF](https://arxiv.org/pdf/2608.23204) |
@@ -89,7 +90,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-14 | Versatile Telescopic-Wheeled-Legged Locomotion of Tachyon 3 via Full-Centroidal Nonlinear Model Predictive Control | Sotaro Katayama, Noriaki Takasugi, Mitsuhisa Kaneko, Masaya Kinoshita | [Abstract](https://arxiv.org/abs/2312.08668) · [PDF](https://arxiv.org/pdf/2312.08668) |
 | 2023-11-29 | ReLU-QP: A GPU-Accelerated Quadratic Programming Solver for Model-Predictive Control | Arun L. Bishop, John Z. Zhang, Swaminathan Gurumurthy, Kevin Tracy et al. | [Abstract](https://arxiv.org/abs/2311.18056) · [PDF](https://arxiv.org/pdf/2311.18056) |
 | 2023-11-04 | Imitating and Finetuning Model Predictive Control for Robust and Symmetric Quadrupedal Locomotion | Donghoon Youm, Hyunyoung Jung, Hyeongjun Kim, Jemin Hwangbo et al. | [Abstract](https://arxiv.org/abs/2311.02304) · [PDF](https://arxiv.org/pdf/2311.02304) |
-| 2023-10-09 | Momentum-Aware Trajectory Optimisation using Full-Centroidal Dynamics and Implicit Inverse Kinematics | Aristotelis Papatheodorou, Wolfgang Merkt, Alexander L. Mitchell, Ioannis Havoutis | [Abstract](https://arxiv.org/abs/2310.06074) · [PDF](https://arxiv.org/pdf/2310.06074) |
 
 ---
 

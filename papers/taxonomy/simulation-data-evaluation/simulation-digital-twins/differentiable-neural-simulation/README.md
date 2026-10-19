@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Differentiable%20%26%20Neural%20Simulation#research-workbench)
 
-> 7 conference papers · 42 recent arXiv papers
+> 7 conference papers · 40 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,12 +21,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Learning Quadrotor Control from Visual Features Using Differentiable Simulation | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2410.15979) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128641) |
 | 2025 | Celebi’s Choice: Causality-Guided Skill Optimisation for Granular Manipulation via Differentiable Simulation | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11247432) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247432) |
 | 2024 | Thin-Shell Object Manipulations With Differentiable Physics Simulations | ICLR · Simulation | [Paper](https://arxiv.org/abs/2404.00451) · [Publisher](https://doi.org/10.48550/arXiv.2404.00451) |
-| 2024 | SoftMAC: Differentiable Soft Body Simulation with Forecast-based Contact Model and Two-way Coupling with Articulated Rigid Bodies and Clothes | IROS · Simulation | [Paper](https://arxiv.org/abs/2312.03297) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801308) |
+| 2024 | SoftMAC: Differentiable Soft Body Simulation with Forecast-based Contact Model and Two-way Coupling with Articulated Rigid Bodies and Clothes | IROS · Simulation | [Paper](https://arxiv.org/pdf/2312.03297) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801308) |
 | 2023 | Diff-LfD: Contact-aware Model-based Learning from Visual Demonstration for Robotic Manipulation via Differentiable Physics-based Simulation and Rendering | CoRL · Simulation | [Paper](https://www.semanticscholar.org/paper/de3eb53f4e4e5eec707ccd7f1991566697a68e13) · [Index](https://dblp.org/rec/conf/corl/ZhuKXSBLLZYLT023) |
 | 2022 | Rethinking Optimization with Differentiable Simulation from a Global Perspective | CoRL · Simulation | [Paper](https://arxiv.org/abs/2207.00167) · [Publisher](https://doi.org/10.48550/arXiv.2207.00167) |
 | 2022 | SAM-RL: Sensing-aware model-based reinforcement learning via differentiable physics-based simulation and rendering | RSS · Simulation | [Paper](https://arxiv.org/pdf/2210.15185) · [Publisher](https://doi.org/10.1177/02783649241284653) |
 
-## Recent arXiv papers (42)
+## Recent arXiv papers (40)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -70,8 +70,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-04-28 | Learning to Move Objects with Fluid Streams in a Differentiable Simulation | Karlis Freivalds, Laura Leja, Oskars Teikmanis | [Abstract](https://arxiv.org/abs/2404.18181) · [PDF](https://arxiv.org/pdf/2404.18181) |
 | 2024-04-04 | RADIUM: Predicting and Repairing End-to-End Robot Failures using Gradient-Accelerated Sampling | Charles Dawson, Anjali Parashar, Chuchu Fan | [Abstract](https://arxiv.org/abs/2404.03412) · [PDF](https://arxiv.org/pdf/2404.03412) |
 | 2023-12-06 | SoftMAC: Differentiable Soft Body Simulation with Forecast-based Contact Model and Two-way Coupling with Articulated Rigid Bodies and Clothes | Min Liu, Gang Yang, Siyuan Luo, Lin Shao | [Abstract](https://arxiv.org/abs/2312.03297) · [PDF](https://arxiv.org/pdf/2312.03297) |
-| 2023-10-18 | Simultaneous Learning of Contact and Continuous Dynamics | Bibit Bianchini, Mathew Halm, Michael Posa | [Abstract](https://arxiv.org/abs/2310.12054) · [PDF](https://arxiv.org/pdf/2310.12054) |
-| 2023-10-07 | Diff-Transfer: Model-based Robotic Manipulation Skill Transfer via Differentiable Physics Simulation | Yuqi Xiang, Feitong Chen, Qinsi Wang, Yang Gang et al. | [Abstract](https://arxiv.org/abs/2310.04930) · [PDF](https://arxiv.org/pdf/2310.04930) |
 
 ---
 

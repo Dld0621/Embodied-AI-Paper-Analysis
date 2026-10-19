@@ -18,19 +18,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Constraint Manifold Exploration for Efficient Continuous Coverage Estimation | ICRA · Exploration | [Paper](https://arxiv.org/abs/2602.06749) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697520) |
-| 2026 | FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment | ICRA · Exploration | [Paper](https://arxiv.org/abs/2504.08603) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695939) |
-| 2025 | Ergodic Exploration over Meshable Surfaces | ICRA · Exploration | [Paper](https://arxiv.org/abs/2503.05026) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127626) |
-| 2025 | FlyKites: Human-Centric Interactive Exploration and Assistance Under Limited Communication | ICRA · Exploration | [Paper](https://arxiv.org/abs/2509.15807) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128546) |
-| 2025 | Reinforcement Learning Driven Multi-Robot Exploration via Explicit Communication and Density-Based Frontier Search | ICRA · Exploration | [Paper](https://arxiv.org/abs/2412.20049) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128566) |
+| 2026 | Constraint Manifold Exploration for Efficient Continuous Coverage Estimation | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2602.06749) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697520) |
+| 2026 | FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2504.08603) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695939) |
+| 2025 | Ergodic Exploration over Meshable Surfaces | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2503.05026) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127626) |
+| 2025 | FlyKites: Human-Centric Interactive Exploration and Assistance Under Limited Communication | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2509.15807) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128546) |
+| 2025 | Reinforcement Learning Driven Multi-Robot Exploration via Explicit Communication and Density-Based Frontier Search | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2412.20049) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128566) |
 | 2025 | Target-Aware Viewpoint Generation for Active Robotic Exploration in Unknown Environments | ICRA · Exploration | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127467) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127467) |
 | 2025 | CLEA: Closed-Loop Embodied Agent for Enhancing Task Execution in Dynamic Environments | IROS · Embodied Agent | [Paper](https://arxiv.org/pdf/2503.00729) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246638) |
 | 2025 | Frontier Shepherding: A Bio-inspired Multi-robot Framework for Large-Scale Exploration | IROS · Exploration | [Paper](https://arxiv.org/pdf/2409.10931) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246323) |
 | 2025 | Information Entropy-assisted Hierarchical Framework for Unknown Environments Exploration | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS60139.2025.11246783) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246783) |
-| 2024 | Energy-Aware Ergodic Search: Continuous Exploration for Multi-Agent Systems with Battery Constraints | ICRA · Exploration | [Paper](https://arxiv.org/abs/2310.09470) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10609871) |
-| 2024 | Indoor Exploration and Simultaneous Trolley Collection Through Task-Oriented Environment Partitioning | ICRA · Exploration | [Paper](https://arxiv.org/abs/2309.11107) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610500) |
+| 2024 | Energy-Aware Ergodic Search: Continuous Exploration for Multi-Agent Systems with Battery Constraints | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2310.09470) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10609871) |
+| 2024 | Indoor Exploration and Simultaneous Trolley Collection Through Task-Oriented Environment Partitioning | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2309.11107) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610500) |
 | 2024 | Privacy-Preserving Map-Free Exploration for Confirming the Absence of a Radioactive Source | IROS · Exploration | [Paper](https://arxiv.org/pdf/2402.17130) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802428) |
-| 2024 | Visuo-Tactile Exploration of Unknown Rigid 3D Curvatures by Vision-Augmented Unified Force-Impedance Control | IROS · Exploration | [Paper](https://arxiv.org/abs/2408.14219) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801386) |
+| 2024 | Visuo-Tactile Exploration of Unknown Rigid 3D Curvatures by Vision-Augmented Unified Force-Impedance Control | IROS · Exploration | [Paper](https://arxiv.org/pdf/2408.14219) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801386) |
 | 2024 | iHERO: Interactive Human-oriented Exploration and Supervision Under Scarce Communication | RSS · Exploration | [Paper](https://arxiv.org/abs/2405.12571) · [Publisher](https://doi.org/10.48550/arXiv.2405.12571) |
 | 2023 | Semantics-aware Exploration and Inspection Path Planning | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2303.07236) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160469) |
 | 2022 | Ω2: Optimal Hierarchical Planner for Object Search in Large Environments via Mobile Manipulation | IROS · Mobile Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981194) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981194) |
@@ -39,6 +39,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-07 | RoboQuest: Generalist Physical Agents that Search, Inspect and Test | Liu Renhang, Navonil Majumder, Tej Deep Pala, Soujanya Poria | [Abstract](https://arxiv.org/abs/2610.10388) · [PDF](https://arxiv.org/pdf/2610.10388) |
 | 2026-09-18 | Active Spatial Inspection for Effective and Efficient Embodied Exploration | Wenbin Wang, Xiang Bai, Yizhao Wang, Hang Sun et al. | [Abstract](https://arxiv.org/abs/2609.22385) · [PDF](https://arxiv.org/pdf/2609.22385) |
 | 2026-09-16 | Pose-aware Legged Robot Semantic Exploration with Omnidirectional Perception in Confined Unknown Environments | Xiaoyang Zhan, Shiyu Chen, Kenji Shimada | [Abstract](https://arxiv.org/abs/2609.19460) · [PDF](https://arxiv.org/pdf/2609.19460) |
 | 2026-08-17 | Observation-Constrained Joint-Space Viewpoint Optimization for Robotic Inspection of Cylindrical Cavities | Yuezhong Wang, Rongshen Yin, Bichi Zhang, Sören Schwertfeger | [Abstract](https://arxiv.org/abs/2608.16442) · [PDF](https://arxiv.org/pdf/2608.16442) |
@@ -113,7 +114,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-12 | Evaluation of a Smart Mobile Robotic System for Industrial Plant Inspection and Supervision | Georg K. J. Fischer, Max Bergau, D. Adriana Gómez-Rosal, Andreas Wachaja et al. | [Abstract](https://arxiv.org/abs/2402.07691) · [PDF](https://arxiv.org/pdf/2402.07691) |
 | 2024-01-23 | Sensing environmental physical interaction to traverse cluttered obstacles | Yaqing Wang, Ling Xu, Chen Li | [Abstract](https://arxiv.org/abs/2401.13062) · [PDF](https://arxiv.org/pdf/2401.13062) |
 | 2023-11-07 | Autonomous Exploration and General Visual Inspection of Ship Ballast Water Tanks using Aerial Robots | Mihir Dharmadhikari, Paolo De Petris, Mihir Kulkarni, Nikhil Khedekar et al. | [Abstract](https://arxiv.org/abs/2311.03838) · [PDF](https://arxiv.org/pdf/2311.03838) |
-| 2023-10-14 | Energy-Aware Ergodic Search: Continuous Exploration for Multi-Agent Systems with Battery Constraints | Adam Seewald, Cameron J. Lerch, Marvin Chancán, Aaron M. Dollar et al. | [Abstract](https://arxiv.org/abs/2310.09470) · [PDF](https://arxiv.org/pdf/2310.09470) |
 
 ---
 

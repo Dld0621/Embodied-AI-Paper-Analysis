@@ -24,6 +24,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-07 | HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion | Mike Zhang, Dongho Kang, Kevin Bergamin, Nicola Burger et al. | [Abstract](https://arxiv.org/abs/2610.10489) · [PDF](https://arxiv.org/pdf/2610.10489) |
 | 2026-09-30 | DiFF: Doppler-informed Flow Matching for Human Motion Flow | Kai Wang, Mingle Zhao | [Abstract](https://arxiv.org/abs/2609.39098) · [PDF](https://arxiv.org/pdf/2609.39098) |
 | 2026-09-29 | Comparing Utility of Inertial, Occupancy, Semantic, and Intent Information in Human Motion Prediction During Daily Tasks | Max Burns, Maisha Khanum, Monroe Kennedy, Steven H. Collins | [Abstract](https://arxiv.org/abs/2609.37971) · [PDF](https://arxiv.org/pdf/2609.37971) |
 | 2026-09-26 | Skeletons in Flow: Graph Structured Flow Matching for Human Motion Prediction | Yixuan Wang, Brandon C. Fallin, Warren E. Dixon | [Abstract](https://arxiv.org/abs/2609.32231) · [PDF](https://arxiv.org/pdf/2609.32231) |
@@ -54,7 +55,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-20 | A Recurrent Neural Network Enhanced Unscented Kalman Filter for Human Motion Prediction | Wansong Liu, Sibo Tian, Boyi Hu, Xiao Liang et al. | [Abstract](https://arxiv.org/abs/2402.13045) · [PDF](https://arxiv.org/pdf/2402.13045) |
 | 2024-01-23 | Workspace Optimization Techniques to Improve Prediction of Human Motion During Human-Robot Collaboration | Yi-Shiuan Tung, Matthew B. Luebbers, Alessandro Roncone, Bradley Hayes | [Abstract](https://arxiv.org/abs/2401.12965) · [PDF](https://arxiv.org/pdf/2401.12965) |
 | 2023-11-17 | Human motion trajectory prediction using the Social Force Model for real-time and low computational cost applications | Oscar Gil, Alberto Sanfeliu | [Abstract](https://arxiv.org/abs/2311.10582) · [PDF](https://arxiv.org/pdf/2311.10582) |
-| 2023-10-16 | A Human Motion Compensation Framework for a Supernumerary Robotic Arm | Xin Zhang, Pietro Balatti, Mattia Leonori, Arash Ajoudani | [Abstract](https://arxiv.org/abs/2310.10029) · [PDF](https://arxiv.org/pdf/2310.10029) |
 
 ---
 

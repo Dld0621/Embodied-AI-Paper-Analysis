@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engines&specialty=Synthetic%20Data%20Generation#research-workbench)
 
-> 7 conference papers · 126 recent arXiv papers
+> 7 conference papers · 127 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,18 +18,23 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | Domain Randomization for Object Detection in Manufacturing Applications Using Synthetic Data: A Comprehensive Study | ICRA · Synthetic Data | [Paper](https://arxiv.org/abs/2506.07539) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128647) |
-| 2025 | Category-Level 6D Object Pose Estimation in Agricultural Settings Using a Lattice-Deformation Framework and Diffusion-Augmented Synthetic Data | IROS · Synthetic Data | [Paper](https://arxiv.org/abs/2505.24636) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247523) |
+| 2025 | Domain Randomization for Object Detection in Manufacturing Applications Using Synthetic Data: A Comprehensive Study | ICRA · Synthetic Data | [Paper](https://arxiv.org/pdf/2506.07539) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128647) |
+| 2025 | Category-Level 6D Object Pose Estimation in Agricultural Settings Using a Lattice-Deformation Framework and Diffusion-Augmented Synthetic Data | IROS · Synthetic Data | [Paper](https://arxiv.org/pdf/2505.24636) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247523) |
 | 2025 | Synthetica: Large Scale Synthetic Data Generation for Robot Perception | IROS · Synthetic Data | [Paper](https://arxiv.org/abs/2410.21153) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247126) |
 | 2024 | SynthAct: Towards Generalizable Human Action Recognition based on Synthetic Data | ICRA · Synthetic Data | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611486) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611486) |
 | 2023 | MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations | CoRL · Demonstration generation | [Paper](https://arxiv.org/abs/2310.17596) · [Official](https://proceedings.mlr.press/v229/) · [Code](https://github.com/NVlabs/mimicgen) |
 | 2023 | MIMIR-UW: A Multipurpose Synthetic Dataset for Underwater Navigation and Inspection | IROS · Synthetic Data | [Paper](https://doi.org/10.1109/IROS55552.2023.10341436) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341436) |
-| 2022 | ParaPose: Parameter and Domain Randomization Optimization for Pose Estimation using Synthetic Data | IROS · Synthetic Data | [Paper](https://arxiv.org/pdf/2203.00945) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981511) |
+| 2022 | ParaPose: Parameter and Domain Randomization Optimization for Pose Estimation using Synthetic Data | IROS · Synthetic Data | [Paper](https://arxiv.org/abs/2203.00945) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981511) |
 
-## Recent arXiv papers (126)
+## Recent arXiv papers (127)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-14 | NavAble: A Large-Scale Dataset and Synthetic Data Generation Pipeline for Blind Navigation | Hochul Hwang, Jahir Sadik Monon, Soowan Yang, Shiven Umeshbhai Patel et al. | [Abstract](https://arxiv.org/abs/2610.19330) · [PDF](https://arxiv.org/pdf/2610.19330) |
+| 2026-10-13 | OneDemo: Unified Policy Learning and Data Generation from a Single Demonstration | Ying Qian, Jianshu Hu, Han Fang, Shuguang Li et al. | [Abstract](https://arxiv.org/abs/2610.18188) · [PDF](https://arxiv.org/pdf/2610.18188) |
+| 2026-10-10 | TartanMatch: Towards Universal Dense Correspondence Across Modalities | Hyeokjoon Kwon, Jiting Cai, Ruogu Li, Kritan Bhandari et al. | [Abstract](https://arxiv.org/abs/2610.14513) · [PDF](https://arxiv.org/pdf/2610.14513) |
+| 2026-10-09 | Grounded-Dreamer: Robot Learning from World Model Synthetic Data with Physical Grounding | Feng Jiang, Shu Chen, Yuanfei Wang, Yuan Li et al. | [Abstract](https://arxiv.org/abs/2610.13164) · [PDF](https://arxiv.org/pdf/2610.13164) |
+| 2026-10-07 | ECHO: Embodied Camera Observations of Human Object Carrying | Xuefei Sun, Lorin Achey, Kali Hamilton, Alberto Speranzon et al. | [Abstract](https://arxiv.org/abs/2610.10438) · [PDF](https://arxiv.org/pdf/2610.10438) |
 | 2026-09-30 | Identifiable Decomposition of Submovements in Human Hand Trajectories | Adrian Prados, James Hermus, Ramon Barber, Sylvain Calinon | [Abstract](https://arxiv.org/abs/2609.40012) · [PDF](https://arxiv.org/pdf/2609.40012) |
 | 2026-09-28 | SkillWeaver: Agentic Exploration over Neural Interaction Skills for Scalable Robot Data Generation | He Zhu, Lusen Zhao, Kwan Man Cheng, Su Li et al. | [Abstract](https://arxiv.org/abs/2609.36171) · [PDF](https://arxiv.org/pdf/2609.36171) |
 | 2026-09-25 | NavGen: Visual Generative Models as a Scalable Data Engine for Embodied 3D Navigation | Xijie Huang, Yongyang Wan, Chengbin Dong, Zimo Ding et al. | [Abstract](https://arxiv.org/abs/2609.30770) · [PDF](https://arxiv.org/pdf/2609.30770) |
@@ -65,7 +70,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-25 | Towards automatic smoke detector inspection: Recognition of the smoke detectors in industrial facilities and preparation for future drone integration | Lukas Kratochvila, Jakub Stefansky, Simon Bilik, Robert Rous et al. | [Abstract](https://arxiv.org/abs/2603.24850) · [PDF](https://arxiv.org/pdf/2603.24850) |
 | 2026-03-15 | Interp3R: Continuous-time 3D Geometry Estimation with Frames and Events | Shuang Guo, Filbert Febryanto, Lei Sun, Luc Van Gool et al. | [Abstract](https://arxiv.org/abs/2603.14528) · [PDF](https://arxiv.org/pdf/2603.14528) |
 | 2026-03-12 | RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset | Yongzhong Wang, Keyu Zhu, Yong Zhong, Liqiong Wang et al. | [Abstract](https://arxiv.org/abs/2603.11811) · [PDF](https://arxiv.org/pdf/2603.11811) |
-| 2026-03-09 | Seed2Scale: A Self-Evolving Data Engine for Embodied AI via Small to Large Model Synergy and Multimodal Evaluation | Cong Tai, Zhaoyu Zheng, Haixu Long, Hansheng Wu et al. | [Abstract](https://arxiv.org/abs/2603.08260) · [PDF](https://arxiv.org/pdf/2603.08260) |
+| 2026-03-09 | Seed2Scale: A Self-Evolving Data Engine with Parallel Worlds Expansion for Scalable Robot Learning | Cong Tai, Zhaoyu Zheng, Haixu Long, Hansheng Wu et al. | [Abstract](https://arxiv.org/abs/2603.08260) · [PDF](https://arxiv.org/pdf/2603.08260) |
 | 2026-03-09 | Real-Time Monocular Scene Analysis for UAV in Outdoor Environments | Yara AlaaEldin | [Abstract](https://arxiv.org/abs/2603.13368) · [PDF](https://arxiv.org/pdf/2603.13368) |
 | 2026-02-24 | Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones | Rong Zou, Marco Cannici, Davide Scaramuzza | [Abstract](https://arxiv.org/abs/2602.21101) · [PDF](https://arxiv.org/pdf/2602.21101) |
 | 2026-02-21 | LaS-Comp: Zero-shot 3D Completion with Latent-Spatial Consistency | Weilong Yan, Haipeng Li, Hao Xu, Nianjin Ye et al. | [Abstract](https://arxiv.org/abs/2602.18735) · [PDF](https://arxiv.org/pdf/2602.18735) |
@@ -152,10 +157,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-30 | Event-based Visual Inertial Velometer | Xiuyuan Lu, Yi Zhou, Junkai Niu, Sheng Zhong et al. | [Abstract](https://arxiv.org/abs/2311.18189) · [PDF](https://arxiv.org/pdf/2311.18189) |
 | 2023-11-18 | Synthetic Data Generation for Bridging Sim2Real Gap in a Production Environment | Parth Rawal, Mrunal Sompura, Wolfgang Hintze | [Abstract](https://arxiv.org/abs/2311.11039) · [PDF](https://arxiv.org/pdf/2311.11039) |
 | 2023-10-26 | MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations | Ajay Mandlekar, Soroush Nasiriany, Bowen Wen, Iretiayo Akinola et al. | [Abstract](https://arxiv.org/abs/2310.17596) · [PDF](https://arxiv.org/pdf/2310.17596) |
-| 2023-10-18 | UNav-Sim: A Visually Realistic Underwater Robotics Simulator and Synthetic Data-generation Framework | Abdelhakim Amer, Olaya Álvarez-Tuñón, Halil Ibrahim Ugurlu, Jonas le Fevre Sejersen et al. | [Abstract](https://arxiv.org/abs/2310.11927) · [PDF](https://arxiv.org/pdf/2310.11927) |
-| 2023-10-18 | A Finite-Horizon Approach to Active Level Set Estimation | Phillip Kearns, Bruno Jedynak, John Lipor | [Abstract](https://arxiv.org/abs/2310.11985) · [PDF](https://arxiv.org/pdf/2310.11985) |
-| 2023-10-14 | Real-Time Sense and Detect of Drones Using Deep Learning and Airborne LiDAR | Manduhu Manduhu, Alexander Dow, Petar Trslic, Gerard Dooly et al. | [Abstract](https://arxiv.org/abs/2310.09589) · [PDF](https://arxiv.org/pdf/2310.09589) |
-| 2023-10-09 | DyST: Towards Dynamic Neural Scene Representations on Real-World Videos | Maximilian Seitzer, Sjoerd van Steenkiste, Thomas Kipf, Klaus Greff et al. | [Abstract](https://arxiv.org/abs/2310.06020) · [PDF](https://arxiv.org/pdf/2310.06020) |
 
 ---
 

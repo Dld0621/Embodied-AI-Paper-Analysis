@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Safety%2C%20Robustness%20%26%20Reproducibility&specialty=Failure%20Analysis%20%26%20Reliability#research-workbench)
 
-> 0 conference papers · 8 recent arXiv papers
+> 0 conference papers · 9 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,10 +18,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (8)
+## Recent arXiv papers (9)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-09 | A Local Agentic AI Framework to Generate Edge Case Scenarios for Safety Assurance | Victoria J. Hodge, Colin Paterson, Rob Alexander | [Abstract](https://arxiv.org/abs/2610.13479) · [PDF](https://arxiv.org/pdf/2610.13479) |
 | 2026-07-26 | LabRobFail: A Benchmark for Robotic Failure Analysis in Chemical Self-driving Laboratory | Haobo Wang, Baoli Sun, Anqi Zou, Dongsheng Huang et al. | [Abstract](https://arxiv.org/abs/2607.23704) · [PDF](https://arxiv.org/pdf/2607.23704) |
 | 2026-06-08 | Real-time body pose non-verbal communication with a consistency-based reliability measure | Alina Marcu, Dragos Costea, Cristina Lazar, Marius Leordeanu | [Abstract](https://arxiv.org/abs/2606.09390) · [PDF](https://arxiv.org/pdf/2606.09390) |
 | 2026-02-28 | Test-Driven Agentic Framework for Reliable Robot Controller | Shivanshu Tripathi, Reza Akbarian Bafghi, Maziar Raissi | [Abstract](https://arxiv.org/abs/2603.00455) · [PDF](https://arxiv.org/pdf/2603.00455) |

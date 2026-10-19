@@ -25,6 +25,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-12 | ClearNav: Perception-Aligned Quadrotor Flight Using Differential-Physics | Aditya Azad, Arthur Huang, Guanrui Li | [Abstract](https://arxiv.org/abs/2610.17419) · [PDF](https://arxiv.org/pdf/2610.17419) |
 | 2026-09-29 | Drone Soccer: Learning to Manipulate with Multicopter Downwash | Neelay Joglekar, Bavin Saravanan, Yutong Wang, Varun Kandiyappan et al. | [Abstract](https://arxiv.org/abs/2609.38588) · [PDF](https://arxiv.org/pdf/2609.38588) |
 | 2026-09-20 | FlockDiffusion: Assignment-Conditioned Diffusion for Multi-Drone Task Allocation and Completion | Iana Zhura, Satenik Akopyan, Roohan Ahmed Khan, Miguel Altamirano Cabrera et al. | [Abstract](https://arxiv.org/abs/2609.23745) · [PDF](https://arxiv.org/pdf/2609.23745) |
 | 2026-09-17 | RTK-Vision PPO for Autonomous Micro UAV Recovery on an Airborne Carrier | Aashish Sahu, R Prasanth Kumar | [Abstract](https://arxiv.org/abs/2609.20629) · [PDF](https://arxiv.org/pdf/2609.20629) |
@@ -130,7 +131,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-10-25 | A Comprehensive Review of AI-enabled Unmanned Aerial Vehicle: Trends, Vision , and Challenges | Osim Kumar Pal, Md Sakib Hossain Shovon, M. F. Mridha, Jungpil Shin | [Abstract](https://arxiv.org/abs/2310.16360) · [PDF](https://arxiv.org/pdf/2310.16360) |
 | 2023-10-20 | Quadrotor Dead Reckoning with Multiple Inertial Sensors | Dror Hurwitz, Itzik Klein | [Abstract](https://arxiv.org/abs/2310.13452) · [PDF](https://arxiv.org/pdf/2310.13452) |
 | 2023-10-19 | Enhancing Multi-Drone Coordination for Filming Group Behaviours in Dynamic Environments | Aditya Rauniyar, Jiaoyang Li, Sebastian Scherer | [Abstract](https://arxiv.org/abs/2310.13184) · [PDF](https://arxiv.org/pdf/2310.13184) |
-| 2023-10-11 | AG-CVG: Coverage Planning with a Mobile Recharging UGV and an Energy-Constrained UAV | Nare Karapetyan, Ahmad Bilal Asghar, Amisha Bhaskar, Guangyao Shi et al. | [Abstract](https://arxiv.org/abs/2310.07621) · [PDF](https://arxiv.org/pdf/2310.07621) |
 
 ---
 

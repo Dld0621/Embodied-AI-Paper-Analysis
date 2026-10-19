@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Evaluation&specialty=Real-world%20%26%20Cross-platform%20Evaluation#research-workbench)
 
-> 1 conference papers · 11 recent arXiv papers
+> 1 conference papers · 12 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,12 +18,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Reliable and Scalable Robot Policy Evaluation with Imperfect Simulators | ICRA · Simulator | [Paper](https://arxiv.org/abs/2510.04354) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697329) |
+| 2026 | Reliable and Scalable Robot Policy Evaluation with Imperfect Simulators | ICRA · Simulator | [Paper](https://arxiv.org/pdf/2510.04354) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697329) |
 
-## Recent arXiv papers (11)
+## Recent arXiv papers (12)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-15 | LICOA: Learning Instruction-Conditioned Optical Actions for Mobile Spatial Augmented Reality | Yuchen Deng, Shunkai Zhou, Ruixuan Zhu, Haibin Ling et al. | [Abstract](https://arxiv.org/abs/2610.21282) · [PDF](https://arxiv.org/pdf/2610.21282) |
 | 2026-09-30 | StreamRig: Exploiting Intra-Rig Geometry for Streaming Multi-Camera Odometry | Yufei Wei, Shuhao Ye, Qi Wang, Xin Zheng et al. | [Abstract](https://arxiv.org/abs/2609.40244) · [PDF](https://arxiv.org/pdf/2609.40244) |
 | 2026-09-20 | Towards Reliable Underwater Diver-Robot Interaction: Gesture Design, Interaction Logic, and Real-World Evaluation | Yingqi Liu, Kanzhong Yao, Zimeng Peng, Yuanbo Bi et al. | [Abstract](https://arxiv.org/abs/2609.23392) · [PDF](https://arxiv.org/pdf/2609.23392) |
 | 2026-08-26 | Cross-Platform Benchmark of Neural 3D Reconstruction for Autonomous Laboratory Robots | Yongho Kim, Mengjiao Han, Victor Mateevitsi, Silvio Rizzi et al. | [Abstract](https://arxiv.org/abs/2608.26383) · [PDF](https://arxiv.org/pdf/2608.26383) |

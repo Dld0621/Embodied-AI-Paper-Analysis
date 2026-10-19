@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Balance%2C%20Dynamics%20%26%20Recovery&specialty=Balance%20%26%20Stability%20Control#research-workbench)
 
-> 6 conference papers · 35 recent arXiv papers
+> 7 conference papers · 35 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (6)
+## Conference papers (7)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Trajectory Optimization Through Mixed-Integer Optimization of Contact Dynamics for Switching End Effector Locomotion | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695825) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695825) |
 | 2025 | Realtime Limb Trajectory Optimization for Humanoid Running Through Centroidal Angular Momentum Dynamics | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2501.17351) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127382) |
 | 2024 | Trajectory Optimization Strategy That Considers Body Tip-Over Stability, Limb Dynamics, and Motion Continuity in Legged Robots | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611365) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611365) |
 | 2023 | A Novel Approximation for the Spring Loaded Inverted Pendulum Model of Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS55552.2023.10341418) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341418) |

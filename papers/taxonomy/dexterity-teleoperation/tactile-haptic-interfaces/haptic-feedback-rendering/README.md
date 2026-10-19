@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Tactile%20%26%20Haptic%20Interfaces&specialty=Haptic%20Feedback%20%26%20Rendering#research-workbench)
 
-> 8 conference papers · 59 recent arXiv papers
+> 9 conference papers · 58 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,20 +14,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (8)
+## Conference papers (9)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | CDF-Glove: A Cable-Driven Force Feedback Glove for Dexterous Teleoperation | ICRA · Dexterous | [Paper](https://arxiv.org/abs/2603.05804) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696309) |
-| 2026 | HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2603.30042) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697404) |
+| 2026 | Bi-Hap: a Bi-directional Learning-Based Control and Momentum-based Haptic Feedback System for Dexterous In-hand Telemanipulation | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697388) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697388) |
+| 2026 | CDF-Glove: A Cable-Driven Force Feedback Glove for Dexterous Teleoperation | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2603.05804) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696309) |
+| 2026 | HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2603.30042) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697404) |
 | 2025 | Design, Implementation, and Validation of an Ungrounded Visuo-Tactile Haptic Interface for Robotic Teleoperation in High-Risk Steel Production | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128864) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128864) |
 | 2025 | A Natural Human-Robot Interaction System for Teleoperation Based on Noncontact Haptic Feedback | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246054) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246054) |
-| 2025 | Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning | IROS · Dexterous | [Paper](https://arxiv.org/abs/2503.01543) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246287) |
-| 2024 | Learning Variable Compliance Control From a Few Demonstrations for Bimanual Robot with Haptic Feedback Teleoperation System | IROS · Bimanual | [Paper](https://arxiv.org/abs/2406.14990) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801731) |
+| 2025 | Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning | IROS · Dexterous | [Paper](https://arxiv.org/pdf/2503.01543) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246287) |
+| 2024 | Learning Variable Compliance Control From a Few Demonstrations for Bimanual Robot with Haptic Feedback Teleoperation System | IROS · Bimanual | [Paper](https://arxiv.org/pdf/2406.14990) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801731) |
 | 2023 | HaPPArray: Haptic Pneumatic Pouch Array for Feedback in handheld Robots | ICRA · In Hand | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160648) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160648) |
 | 2022 | Collaborative Teleoperation with Haptic Feedback for Collision-Free Navigation of Ground Robots | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981426) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981426) |
 
-## Recent arXiv papers (59)
+## Recent arXiv papers (58)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -89,7 +90,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-18 | Point-Wise Vibration Pattern Production via a Sparse Actuator Array for Surface Tactile Feedback | Xiaosa Li, Runze Zhao, Chengyue Lu, Xiao Xiao et al. | [Abstract](https://arxiv.org/abs/2402.11496) · [PDF](https://arxiv.org/pdf/2402.11496) |
 | 2024-01-25 | Alternative Interfaces for Human-initiated Natural Language Communication and Robot-initiated Haptic Feedback: Towards Better Situational Awareness in Human-Robot Collaboration | Callum Bennie, Bridget Casey, Cecile Paris, Dana Kulic et al. | [Abstract](https://arxiv.org/abs/2401.13903) · [PDF](https://arxiv.org/pdf/2401.13903) |
 | 2024-01-22 | Adaptive Motion Planning for Multi-fingered Functional Grasp via Force Feedback | Dongying Tian, Xiangbo Lin, Yi Sun | [Abstract](https://arxiv.org/abs/2401.11977) · [PDF](https://arxiv.org/pdf/2401.11977) |
-| 2023-10-12 | Slip Detection and Surface Prediction Through Bio-Inspired Tactile Feedback | Dexter R. Shepherd, Phil Husbands, Andy Philippides, Chris Johnson | [Abstract](https://arxiv.org/abs/2310.08192) · [PDF](https://arxiv.org/pdf/2310.08192) |
 
 ---
 

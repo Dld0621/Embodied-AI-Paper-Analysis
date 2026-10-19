@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=Embodied%20Reasoning%20%26%20Question%20Answering#research-workbench)
 
-> 8 conference papers · 99 recent arXiv papers
+> 8 conference papers · 100 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,19 +18,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | IntentionVLA: Generalizable and Efficient Embodied Intention Reasoning for Human-Robot Interaction | ICRA · Vla | [Paper](https://arxiv.org/abs/2510.07778) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697087) |
-| 2025 | Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2502.06419) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127665) |
+| 2026 | IntentionVLA: Generalizable and Efficient Embodied Intention Reasoning for Human-Robot Interaction | ICRA · Vla | [Paper](https://arxiv.org/pdf/2510.07778) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697087) |
+| 2025 | Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2502.06419) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127665) |
 | 2025 | Robo2VLM: Improving Visual Question Answering using Large-Scale Robot Manipulation Data | NeurIPS · Vlm | [Paper](https://doi.org/10.52202/085713-0733) · [Publisher](https://doi.org/10.52202/085713-0733) |
 | 2024 | DeliGrasp: Inferring Object Properties with LLMs for Adaptive Grasp Policies | CoRL · Llm | [Paper](https://arxiv.org/abs/2403.07832) · [Publisher](https://doi.org/10.48550/arXiv.2403.07832) |
 | 2024 | Interactive Planning Using Large Language Models for Partially Observable Robotic Tasks | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2312.06876) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610981) |
-| 2024 | Statler: State-Maintaining Language Models for Embodied Reasoning | ICRA · Language Model | [Paper](https://arxiv.org/abs/2306.17840) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610634) |
-| 2024 | ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2403.11289) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801993) |
+| 2024 | Statler: State-Maintaining Language Models for Embodied Reasoning | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2306.17840) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610634) |
+| 2024 | ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2403.11289) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801993) |
 | 2022 | Inner Monologue: Embodied Reasoning through Planning with Language Models | CoRL · Language Model | [Paper](https://arxiv.org/abs/2207.05608) · [Publisher](https://doi.org/10.48550/arXiv.2207.05608) |
 
-## Recent arXiv papers (99)
+## Recent arXiv papers (100)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-10 | GG-Nav: Goal-oriented Grounding Chain-of-Thought Elicits Reasoning in Navigation Foundation Models | Shaohao Zhu, Wensi Huang, Siqi Zhang, Yuqiang Yang et al. | [Abstract](https://arxiv.org/abs/2610.14541) · [PDF](https://arxiv.org/pdf/2610.14541) |
+| 2026-10-06 | VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning | Zewei Zhou, Rachel Luo, Yulong Cao, Chaowei Xiao et al. | [Abstract](https://arxiv.org/abs/2610.08761) · [PDF](https://arxiv.org/pdf/2610.08761) |
+| 2026-10-06 | EgoLAP: Learning from Egocentric Human Data through Language-Action Reasoning | Lihan Zha, Shresth Grover, Tenny Yin, Samuel M. Bateman et al. | [Abstract](https://arxiv.org/abs/2610.08726) · [PDF](https://arxiv.org/pdf/2610.08726) |
 | 2026-09-30 | When Reasoning Helps Action: Monitoring and Steering Chain-of-Thought in Vision-Language-Action Policies | Sathwik Karnik, Joseph JR. Lee, Aryaman Gupta, Somil Bansal | [Abstract](https://arxiv.org/abs/2610.00601) · [PDF](https://arxiv.org/pdf/2610.00601) |
 | 2026-09-30 | Spatial Strategies, Not Actions: Vector-Quantized Geodesics as Tools for LLM-Driven Agents | Gabriel Turinici | [Abstract](https://arxiv.org/abs/2610.00613) · [PDF](https://arxiv.org/pdf/2610.00613) |
 | 2026-09-14 | GRAVA: Grounded Reasoning-to-Action Representation and Learning for Autonomous Driving | Xiao Liu, Haoyu Li, Jianghao Leng, Lin Wang et al. | [Abstract](https://arxiv.org/abs/2609.15169) · [PDF](https://arxiv.org/pdf/2609.15169) |
@@ -39,6 +42,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-09-05 | MobileVLA-R1 2.0: RL-Enhanced Reasoning for Mobile Robot Control | Ting Huang, Yue Huang, Zeyu Zhang, Shuicheng Yan et al. | [Abstract](https://arxiv.org/abs/2609.06251) · [PDF](https://arxiv.org/pdf/2609.06251) |
 | 2026-09-04 | One Word, Different Action: A Real-Robot Benchmark for Language-Conditioned Embodied Reasoning | Yiwei Liu, Luwei Yang, Shunbo Lei | [Abstract](https://arxiv.org/abs/2609.05260) · [PDF](https://arxiv.org/pdf/2609.05260) |
 | 2026-08-20 | Towards general embodied intelligence: integrating large language models, knowledge bases, and reasoning capabilities to build the next generation of AI agents | Fujiang Yuan, Xia Huang, Lusheng Wang, Jun Ding et al. | [Abstract](https://arxiv.org/abs/2608.19794) · [PDF](https://arxiv.org/pdf/2608.19794) |
+| 2026-08-17 | MG-VQA: Manipulation Grounded Visual Question Answering with VLMs | Vineet Bhat, Mikaela Angelina Uy, Siyi Chen, Chan Hee Song et al. | [Abstract](https://arxiv.org/abs/2608.17129) · [PDF](https://arxiv.org/pdf/2608.17129) |
 | 2026-08-15 | LAPF: LLM-Agent-Based Path Finder Using the UAVScenes Dataset | Yousef Emami, Mohammadhossein Homaei, Hao Zhou, Miguel Gutiérrez Gaitán et al. | [Abstract](https://arxiv.org/abs/2608.15175) · [PDF](https://arxiv.org/pdf/2608.15175) |
 | 2026-08-12 | G0.5: One Autoregressive Stream for Robot Reasoning and Action | Yicheng Liu, Zibin Dong, Baijun Ye, Tianyuan Yuan et al. | [Abstract](https://arxiv.org/abs/2608.11739) · [PDF](https://arxiv.org/pdf/2608.11739) |
 | 2026-08-10 | FactorDrive: Adaptive Multi-Step Reasoning Driven by Planning-Critical Factors for End-to-End Autonomous Driving | Guolei Huang, Tengfei She, Yuxuan Lu, Yao Huang et al. | [Abstract](https://arxiv.org/abs/2608.09591) · [PDF](https://arxiv.org/pdf/2608.09591) |
@@ -127,9 +131,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-11 | Interactive Planning Using Large Language Models for Partially Observable Robotics Tasks | Lingfeng Sun, Devesh K. Jha, Chiori Hori, Siddarth Jain et al. | [Abstract](https://arxiv.org/abs/2312.06876) · [PDF](https://arxiv.org/pdf/2312.06876) |
 | 2023-12-07 | Chain of Code: Reasoning with a Language Model-Augmented Code Emulator | Chengshu Li, Jacky Liang, Andy Zeng, Xinyun Chen et al. | [Abstract](https://arxiv.org/abs/2312.04474) · [PDF](https://arxiv.org/pdf/2312.04474) |
 | 2023-11-17 | A Language Agent for Autonomous Driving | Jiageng Mao, Junjie Ye, Yuxi Qian, Marco Pavone et al. | [Abstract](https://arxiv.org/abs/2311.10813) · [PDF](https://arxiv.org/pdf/2311.10813) |
-| 2023-10-16 | BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology | Odhran O'Donoghue, Aleksandar Shtedritski, John Ginger, Ralph Abboud et al. | [Abstract](https://arxiv.org/abs/2310.10632) · [PDF](https://arxiv.org/pdf/2310.10632) |
-| 2023-10-12 | Receive, Reason, and React: Drive as You Say with Large Language Models in Autonomous Vehicles | Can Cui, Yunsheng Ma, Xu Cao, Wenqian Ye et al. | [Abstract](https://arxiv.org/abs/2310.08034) · [PDF](https://arxiv.org/pdf/2310.08034) |
-| 2023-10-08 | Lan-grasp: Using Large Language Models for Semantic Object Grasping and Placement | Reihaneh Mirjalili, Michael Krawez, Yannik Blei, Simone Silenzi et al. | [Abstract](https://arxiv.org/abs/2310.05239) · [PDF](https://arxiv.org/pdf/2310.05239) |
 
 ---
 

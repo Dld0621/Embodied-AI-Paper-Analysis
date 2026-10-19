@@ -18,8 +18,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2509.14353) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696795) |
-| 2026 | LEGO: Latent-space Exploration for Geometry-aware Optimization of Humanoid Kinematic Design | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2604.08636) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696066) |
+| 2026 | DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2509.14353) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696795) |
+| 2026 | LEGO: Latent-space Exploration for Geometry-aware Optimization of Humanoid Kinematic Design | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2604.08636) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696066) |
 | 2024 | Joint-Level IS-MPC: a Whole-Body MPC with Centroidal Feasibility for Humanoid Locomotion | IROS · Humanoid | [Paper](https://hal.science/hal-04773996v1/file/IROS_Joint_Level_IS_MPC.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801628) |
 | 2023 | Proprioceptive External Torque Learning for Floating Base Robot and its Applications to Humanoid Locomotion | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2309.04138) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342530) |
 | 2022 | Introducing RH5 Manus: A Powerful Humanoid Upper Body Design for Dynamic Movements | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra46639.2022.9811843) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811843) |

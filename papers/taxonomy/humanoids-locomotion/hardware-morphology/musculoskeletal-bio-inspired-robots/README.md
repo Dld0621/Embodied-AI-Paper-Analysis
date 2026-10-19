@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Hardware%20%26%20Morphology&specialty=Musculoskeletal%20%26%20Bio-inspired%20Robots#research-workbench)
 
-> 11 conference papers · 54 recent arXiv papers
+> 11 conference papers · 53 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,19 +18,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Grip as Needed, Glide on Demand: Ultrasonic Lubrication for Robotic Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2602.15608) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696075) |
+| 2026 | Grip as Needed, Glide on Demand: Ultrasonic Lubrication for Robotic Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2602.15608) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696075) |
 | 2026 | MorphoBall: A Bio-Inspired Transformable Spherical Robot with Dual Terrestrial Gaits and Surface Swimming Capability | ICRA · Gait | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696098) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696098) |
 | 2025 | A Novel Underwater Robot with Carangiform Locomotion Achieved via Single Degree of Actuation and Magnetically Transmitted Traveling Wave | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127395) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127395) |
 | 2025 | Bio-Inspired Distributed Neural Locomotion Controller (D-NLC) for Robust Locomotion and Emergent Behaviors | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128090) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128090) |
 | 2025 | Tensiworm: A Novel Tensegrity Robot with Enhanced Peristaltic Locomotion Efficiency | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127767) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127767) |
 | 2025 | A Bio-inspired Robotic Electric Ray Design of Multimodal Locomotion with Grasping Function | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11247701) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247701) |
-| 2025 | A Novel Aerial-Aquatic Locomotion Robot with Variable Stiffness Propulsion Module | IROS · Locomotion | [Paper](https://arxiv.org/abs/2409.09572) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247420) |
+| 2025 | A Novel Aerial-Aquatic Locomotion Robot with Variable Stiffness Propulsion Module | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2409.09572) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247420) |
 | 2025 | Adaptive Morphing and Environmental-Phase-Transition Enables Effective Locomotion inside Granular Media | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11247235) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247235) |
-| 2024 | Self Model for Embodied Intelligence: Modeling Full-Body Human Musculoskeletal System and Locomotion Control with Hierarchical Low-Dimensional Representation | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2312.05473) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610081) |
+| 2024 | Self Model for Embodied Intelligence: Modeling Full-Body Human Musculoskeletal System and Locomotion Control with Hierarchical Low-Dimensional Representation | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2312.05473) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610081) |
 | 2024 | Theoretical Modeling and Bio-inspired Trajectory Optimization of A Multiple-locomotion Origami Robot | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2403.12471) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801958) |
 | 2023 | Underwater and Surface Aquatic Locomotion of Soft Biomimetic Robot Based on Bending Rolled Dielectric Elastomer Actuators | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2310.11426) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342144) |
 
-## Recent arXiv papers (54)
+## Recent arXiv papers (53)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -87,7 +87,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-03-18 | Hardware Design and Learning-Based Software Architecture of Musculoskeletal Wheeled Robot Musashi-W for Real-World Applications | Kento Kawaharazuka, Akihiro Miki, Masahiro Bando, Temma Suzuki et al. | [Abstract](https://arxiv.org/abs/2403.11729) · [PDF](https://arxiv.org/pdf/2403.11729) |
 | 2023-11-01 | Mechanically-Inflatable Bio-Inspired Locomotion for Robotic Pipeline Inspection | Mostafa A. Atalla, Fabian Trauzettel, Sebastiaan P. van Gelder, Paul Breedveld et al. | [Abstract](https://arxiv.org/abs/2311.00232) · [PDF](https://arxiv.org/pdf/2311.00232) |
 | 2023-10-25 | Toward the use of proxies for efficient learning manipulation and locomotion strategies on soft robots | Etienne Ménager, Quentin Peyron, Christian Duriez | [Abstract](https://arxiv.org/abs/2310.17029) · [PDF](https://arxiv.org/pdf/2310.17029) |
-| 2023-10-17 | Underwater and Surface Aquatic Locomotion of Soft Biomimetic Robot Based on Bending Rolled Dielectric Elastomer Actuators | Chenyu Zhang, Chen Zhang, Juntian Qu, Xiang Qian | [Abstract](https://arxiv.org/abs/2310.11426) · [PDF](https://arxiv.org/pdf/2310.11426) |
 
 ---
 

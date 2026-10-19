@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=State%20Estimation%20%26%20Tracking&specialty=Calibration%20%26%20Sensor%20Fusion#research-workbench)
 
-> 1 conference papers · 84 recent arXiv papers
+> 1 conference papers · 87 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2023 | AI-Based Multi-Object Relative State Estimation with Self-Calibration Capabilities | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2303.00371) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161375) |
 
-## Recent arXiv papers (84)
+## Recent arXiv papers (87)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-11 | A Hardware-Partitioned micro-ROS Mini-Vehicle for Operator-Supervised Neural Driving | Gustavo Claudio Karl Couto, Eric Aislan Antonelo, Gabriel George Zipperer | [Abstract](https://arxiv.org/abs/2610.15966) · [PDF](https://arxiv.org/pdf/2610.15966) |
+| 2026-10-07 | Enhancing Robotic Perception and Adaptability through Sensor Fusion and Origami-Inspired Designs | Namai Chandra, Jaison Jose, Kavi Arya, Shivaram Kalyanakrishnan | [Abstract](https://arxiv.org/abs/2610.09828) · [PDF](https://arxiv.org/pdf/2610.09828) |
 | 2026-09-09 | Automatic Reproducible Camera Intrinsic Calibration | Xiangcheng Hu | [Abstract](https://arxiv.org/abs/2609.10082) · [PDF](https://arxiv.org/pdf/2609.10082) |
 | 2026-09-08 | CALIPER: Clean Scenes Cannot Rank Physical Inference in Pretrained Visual Representations | Aman Mehta, Riya Baviskar | [Abstract](https://arxiv.org/abs/2609.08250) · [PDF](https://arxiv.org/pdf/2609.08250) |
 | 2026-09-07 | P$^2$Calib: Utilizing Pattern Priors for LiDAR-Camera Extrinsic Calibration | Xiangcheng Hu | [Abstract](https://arxiv.org/abs/2609.07516) · [PDF](https://arxiv.org/pdf/2609.07516) |
@@ -31,6 +33,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-08-17 | The Setting of IMU Parameters in Kalman Filtering-based Information Fusion | Qiang Hu, Yanhua Zou, Shuaiyi Huo, Haibo Ge et al. | [Abstract](https://arxiv.org/abs/2608.21433) · [PDF](https://arxiv.org/pdf/2608.21433) |
 | 2026-07-08 | Dynamic Object Detection and Tracking in Construction: A Fisheye Camera and LiDAR Sensor Fusion Model | Yilong Chen, Huili Huang, Yong K. Cho | [Abstract](https://arxiv.org/abs/2607.06896) · [PDF](https://arxiv.org/pdf/2607.06896) |
 | 2026-06-23 | ADM-Fusion: Adaptive Deep Multi-Sensor Fusion for Robust Ego-Motion Estimation in Diverse Conditions | Hasan Moughnieh, Ibrahim Ghaddar, Hadi Elham, Imad H. Elhajj et al. | [Abstract](https://arxiv.org/abs/2606.25111) · [PDF](https://arxiv.org/pdf/2606.25111) |
+| 2026-06-21 | Invariant Stochastic Filtering on SE(3) for Inertial-Encoder State Estimation of Serial Rigid Manipulators | S. Yaqubi, M. Hejrati, J. Mattila | [Abstract](https://arxiv.org/abs/2607.00026) · [PDF](https://arxiv.org/pdf/2607.00026) |
 | 2026-06-20 | Decentralized Geometric Control for Cable-Suspended Payload Transport with Adaptive Mass Estimation | Hadi Hajieghrary, Benedikt Walter, Paul Schmitt, Miguel Hurtado | [Abstract](https://arxiv.org/abs/2607.00024) · [PDF](https://arxiv.org/pdf/2607.00024) |
 | 2026-06-10 | DroneShield-AI: A Multi-Modal Sensor Fusion Framework for Real-Time Autonomous Drone Threat Detection, Behavioral Intent Classification, and Swarm Intelligence in Contested Airspace | Marius Bayizere | [Abstract](https://arxiv.org/abs/2606.11687) · [PDF](https://arxiv.org/pdf/2606.11687) |
 | 2026-06-02 | Towards Compact Autonomous Driving Perception with Balanced Learning and Multi-sensor Fusion | Oskar Natan, Jun Miura | [Abstract](https://arxiv.org/abs/2606.02979) · [PDF](https://arxiv.org/pdf/2606.02979) |

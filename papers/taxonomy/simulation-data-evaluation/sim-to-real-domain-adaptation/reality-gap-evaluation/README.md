@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Sim-to-real%20%26%20Domain%20Adaptation&specialty=Reality-gap%20Evaluation#research-workbench)
 
-> 0 conference papers · 10 recent arXiv papers
+> 0 conference papers · 9 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (10)
+## Recent arXiv papers (9)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -31,7 +31,6 @@ No conference papers currently map to this specialty.
 | 2024-12-19 | Cutting Sequence Diffuser: Sim-to-Real Transferable Planning for Object Shaping by Grinding | Takumi Hachimine, Jun Morimoto, Takamitsu Matsubara | [Abstract](https://arxiv.org/abs/2412.14417) · [PDF](https://arxiv.org/pdf/2412.14417) |
 | 2024-07-11 | PINN-Ray: A Physics-Informed Neural Network to Model Soft Robotic Fin Ray Fingers | Xing Wang, Joel Janek Dabrowski, Josh Pinskier, Lois Liow et al. | [Abstract](https://arxiv.org/abs/2407.08222) · [PDF](https://arxiv.org/pdf/2407.08222) |
 | 2024-06-19 | Reinforcement Learning-Based Model Matching to Reduce the Sim-Real Gap in COBRA | Adarsh Salagame, Harin Kumar Nallaguntla, Bardia Ardakanian, Eric Sihite et al. | [Abstract](https://arxiv.org/abs/2406.13700) · [PDF](https://arxiv.org/pdf/2406.13700) |
-| 2023-10-14 | Benchmarking the Sim-to-Real Gap in Cloth Manipulation | David Blanco-Mulero, Oriol Barbany, Gokhan Alcan, Adrià Colomé et al. | [Abstract](https://arxiv.org/abs/2310.09543) · [PDF](https://arxiv.org/pdf/2310.09543) |
 
 ---
 

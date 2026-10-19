@@ -18,8 +18,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | PMG: Parameterized Motion Generator for Human-like Locomotion Control | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2602.12656) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696988) |
-| 2025 | Think on Your Feet: Seamless Transition Between Human-Like Locomotion in Response to Changing Commands | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2502.18901) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127948) |
+| 2026 | PMG: Parameterized Motion Generator for Human-like Locomotion Control | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2602.12656) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696988) |
+| 2025 | Think on Your Feet: Seamless Transition Between Human-Like Locomotion in Response to Changing Commands | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2502.18901) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127948) |
 
 ## Recent arXiv papers (13)
 

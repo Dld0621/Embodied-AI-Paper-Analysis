@@ -2,7 +2,7 @@
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 772 papers · complete list for this taxonomy leaf
+> 773 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -161,7 +161,7 @@
 | 2025-10-23 | ALICE-LRI: A General Method for Lossless Range Image Generation for Spinning LiDAR Sensors without Calibration Metadata | Samuel Soutullo, Miguel Yermo, David L. Vilariño, Óscar G. Lorenzo et al. | [Abstract](https://arxiv.org/abs/2510.20708) · [PDF](https://arxiv.org/pdf/2510.20708) |
 | 2025-10-22 | Memo: Training Memory-Efficient Embodied Agents with Reinforcement Learning | Gunshi Gupta, Karmesh Yadav, Zsolt Kira, Yarin Gal et al. | [Abstract](https://arxiv.org/abs/2510.19732) · [PDF](https://arxiv.org/pdf/2510.19732) |
 | 2025-10-22 | ConvXformer: Differentially Private Hybrid ConvNeXt-Transformer for Inertial Navigation | Omer Tariq, Muhammad Bilal, Muneeb Ul Hassan, Dongsoo Han et al. | [Abstract](https://arxiv.org/abs/2510.19352) · [PDF](https://arxiv.org/pdf/2510.19352) |
-| 2025-10-21 | SHRUMS: Sensor Hallucination for Real-time Underwater Motion Planning with a Compact 3D Sonar | Susheel Vadakkekuruppath, Herman B. Amundsen, Jason M. O'Kane, Marios Xanthidis | [Abstract](https://arxiv.org/abs/2510.18996) · [PDF](https://arxiv.org/pdf/2510.18996) |
+| 2025-10-21 | SHRUMS: Sensor Hallucination for Real-time Underwater Motion Planning with a Compact 3D Sonar | Susheel Vadakkekuruppath, Lauritz R. Fosso, Michail Chatzispyrou, Herman B. Amundsen et al. | [Abstract](https://arxiv.org/abs/2510.18996) · [PDF](https://arxiv.org/pdf/2510.18996) |
 | 2025-10-21 | Safe Active Navigation and Exploration for Planetary Environments Using Proprioceptive Measurements | Matthew Jiang, Shipeng Liu, Feifei Qian | [Abstract](https://arxiv.org/abs/2510.19101) · [PDF](https://arxiv.org/pdf/2510.19101) |
 | 2025-10-21 | Motion Planning and Control of an Overactuated 4-Wheel Drive with Constrained Independent Steering | Shiyu Liu, Ilija Hadzic, Akshay Gupta, Aliasghar Arab | [Abstract](https://arxiv.org/abs/2510.19054) · [PDF](https://arxiv.org/pdf/2510.19054) |
 | 2025-10-21 | Embodied Navigation with Auxiliary Task of Action Description Prediction | Haru Kondoh, Asako Kanezaki | [Abstract](https://arxiv.org/abs/2510.21809) · [PDF](https://arxiv.org/pdf/2510.21809) |
@@ -319,6 +319,7 @@
 | 2025-08-28 | ActLoc: Learning to Localize on the Move via Active Viewpoint Selection | Jiajie Li, Boyang Sun, Luca Di Giammarino, Hermann Blum et al. | [Abstract](https://arxiv.org/abs/2508.20981) · [PDF](https://arxiv.org/pdf/2508.20981) |
 | 2025-08-27 | Beyond Pairwise Comparisons: Unveiling Structural Landscape of Mobile Robot Models | Shota Naito, Tsukasa Ninomiya, Koichi Wada | [Abstract](https://arxiv.org/abs/2508.19805) · [PDF](https://arxiv.org/pdf/2508.19805) |
 | 2025-08-27 | A Standing Support Mobility Robot for Enhancing Independence in Elderly Daily Living | Ricardo J. Manríquez-Cisterna, Ankit A. Ravankar, Jose V. Salazar Luces, Takuro Hatsukari et al. | [Abstract](https://arxiv.org/abs/2508.19816) · [PDF](https://arxiv.org/pdf/2508.19816) |
+| 2025-08-26 | ZeST: A VLM-based Zero-Shot Traversability Navigation for Unknown Environments | Shreya Gummadi, Mateus V. Gasparino, Gianluca Capezzuto, Marcelo Becker et al. | [Abstract](https://arxiv.org/abs/2508.19131) · [PDF](https://arxiv.org/pdf/2508.19131) |
 | 2025-08-26 | Integration of Robot and Scene Kinematics for Sequential Mobile Manipulation Planning | Ziyuan Jiao, Yida Niu, Zeyu Zhang, Yangyang Wu et al. | [Abstract](https://arxiv.org/abs/2508.18627) · [PDF](https://arxiv.org/pdf/2508.18627) |
 | 2025-08-25 | SEBVS: Synthetic Event-based Visual Servoing for Robot Navigation and Manipulation | Krishna Vinod, Prithvi Jai Ramesh, Pavan Kumar B N, Bharatesh Chakravarthi | [Abstract](https://arxiv.org/abs/2508.17643) · [PDF](https://arxiv.org/pdf/2508.17643) |
 | 2025-08-25 | Physical Embodiment Enables Information Processing Beyond Explicit Sensing in Active Matter | Diptabrata Paul, Nikola Milosevic, Nico Scherf, Frank Cichos | [Abstract](https://arxiv.org/abs/2508.17921) · [PDF](https://arxiv.org/pdf/2508.17921) |

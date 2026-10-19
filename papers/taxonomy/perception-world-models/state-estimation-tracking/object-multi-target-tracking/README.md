@@ -24,6 +24,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-15 | VP-EVT: Active Visibility Preservation for Embodied Visual Tracking | Yanci Wen, Tianle Zeng, Jianwei Peng, Weixi Situ et al. | [Abstract](https://arxiv.org/abs/2610.21999) · [PDF](https://arxiv.org/pdf/2610.21999) |
 | 2026-09-22 | CDKF-Track: Cluster-aware Data-Driven Kalman Filtering for Cooperative 3D Multi-Object Tracking | Maria Damanaki, Nikos Piperigkos, Alexandros Gkillas, Aris S. Lalos | [Abstract](https://arxiv.org/abs/2609.25668) · [PDF](https://arxiv.org/pdf/2609.25668) |
 | 2026-09-17 | Do Spinning Radar Doppler Velocity Measurements Improve Vehicle Detection and Tracking? | Eric Xie, Daniil Lisus, Timothy D. Barfoot | [Abstract](https://arxiv.org/abs/2609.21000) · [PDF](https://arxiv.org/pdf/2609.21000) |
 | 2026-09-10 | IMM-based Multiple Object Tracking using a State Prediction Neural Network | Chan-Bin Lim, Dong-Hee Paek, Seung-Hyun Kong | [Abstract](https://arxiv.org/abs/2609.13307) · [PDF](https://arxiv.org/pdf/2609.13307) |
@@ -107,7 +108,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-18 | Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking | Shihao Feng, Pengpeng Liang, Jin Gao, Erkang Cheng | [Abstract](https://arxiv.org/abs/2312.11051) · [PDF](https://arxiv.org/pdf/2312.11051) |
 | 2023-12-11 | System-level Safety Guard: Safe Tracking Control through Uncertain Neural Network Dynamics Models | Xiao Li, Yutong Li, Anouck Girard, Ilya Kolmanovsky | [Abstract](https://arxiv.org/abs/2312.06810) · [PDF](https://arxiv.org/pdf/2312.06810) |
 | 2023-11-06 | Obstacle- and Occlusion-Responsive Visual Tracking Control for Redundant Manipulators using Reachability Measure | Mincheul Kang, Junhyoung Ha | [Abstract](https://arxiv.org/abs/2311.03029) · [PDF](https://arxiv.org/pdf/2311.03029) |
-| 2023-10-12 | Multi-Modal Sensor Fusion and Object Tracking for Autonomous Racing | Phillip Karle, Felix Fent, Sebastian Huch, Florian Sauerbeck et al. | [Abstract](https://arxiv.org/abs/2310.08114) · [PDF](https://arxiv.org/pdf/2310.08114) |
 
 ---
 

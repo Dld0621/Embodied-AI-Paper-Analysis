@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Exploration%20%26%20Active%20Mapping&specialty=Next-best-view%20%26%20Information%20Gain#research-workbench)
 
-> 13 conference papers · 34 recent arXiv papers
+> 13 conference papers · 35 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,11 +18,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Active Tactile Exploration for Rigid Body Pose and Shape Estimation | ICRA · Exploration | [Paper](https://arxiv.org/abs/2510.13595) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696035) |
-| 2026 | Platform-Agnostic Reinforcement Learning Framework for Safe Exploration of Cluttered Environments with Graph Attention | ICRA · Exploration | [Paper](https://arxiv.org/abs/2511.15358) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696319) |
+| 2026 | Active Tactile Exploration for Rigid Body Pose and Shape Estimation | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2510.13595) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696035) |
+| 2026 | Platform-Agnostic Reinforcement Learning Framework for Safe Exploration of Cluttered Environments with Graph Attention | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2511.15358) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696319) |
 | 2025 | SENSEI: Semantic Exploration Guided by Foundation Models to Learn Versatile World Models | ICML · Exploration | [Paper](https://arxiv.org/abs/2503.01584) · [Publisher](https://doi.org/10.48550/arXiv.2503.01584) |
-| 2025 | MapEx: Indoor Structure Exploration with Probabilistic Information Gain from Global Map Predictions | ICRA · Exploration | [Paper](https://arxiv.org/abs/2409.15590) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128862) |
-| 2025 | Next-Best-Trajectory Planning of Robot Manipulators for Effective Observation and Exploration | ICRA · Exploration | [Paper](https://arxiv.org/abs/2503.22588) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128465) |
+| 2025 | MapEx: Indoor Structure Exploration with Probabilistic Information Gain from Global Map Predictions | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2409.15590) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128862) |
+| 2025 | Next-Best-Trajectory Planning of Robot Manipulators for Effective Observation and Exploration | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2503.22588) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128465) |
 | 2025 | PIPE Planner: Pathwise Information Gain with Map Predictions for Indoor Robot Exploration | IROS · Exploration | [Paper](https://arxiv.org/abs/2503.07504) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246190) |
 | 2024 | AutoExplorers: Autoencoder-Based Strategies for High-Entropy Exploration in Unknown Environments for Mobile Robots | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610693) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610693) |
 | 2023 | SEER: Safe Efficient Exploration for Aerial Robots using Learning to Predict Information Gain | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2209.11034) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160295) |
@@ -32,10 +32,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Active Exploration for Robotic Manipulation | IROS · Exploration | [Paper](https://arxiv.org/pdf/2210.12806) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982061) |
 | 2022 | Fast and Safe Exploration via Adaptive Semantic Perception in Outdoor Environments | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS47612.2022.9981640) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981640) |
 
-## Recent arXiv papers (34)
+## Recent arXiv papers (35)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-06 | Reactive Exploration of Unknown Environments for Redundant Robots using Virtual Model Control | Alessio Canzolino, Omar Faris, Alessandro De Blasi, Fulvio Forni | [Abstract](https://arxiv.org/abs/2610.08110) · [PDF](https://arxiv.org/pdf/2610.08110) |
 | 2026-09-30 | GPU-Accelerated Path-Dependent Marginal Information Gain for Autonomous Exploration | João Félix Mendes, Rodrigo Ventura, Meysam Basiri | [Abstract](https://arxiv.org/abs/2609.40297) · [PDF](https://arxiv.org/pdf/2609.40297) |
 | 2026-08-04 | POMDPs for Autonomous Science Exploration | Daniel Guirguis, Nathan Wallace, Hanna Kurniawati, Salah Sukkarieh | [Abstract](https://arxiv.org/abs/2608.03155) · [PDF](https://arxiv.org/pdf/2608.03155) |
 | 2026-07-15 | Merging Reaction to Cognition: A Hybrid Cognitive Strategy for Odour Source Localisation in Natural Environments | Hugo Magalhães, Rui Baptista, Lino Marques | [Abstract](https://arxiv.org/abs/2607.13853) · [PDF](https://arxiv.org/pdf/2607.13853) |

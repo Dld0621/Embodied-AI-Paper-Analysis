@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Multimodal%20Grounding&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 16 conference papers · 101 recent arXiv papers
+> 16 conference papers · 99 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,21 +21,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026 | SHAF: Small Language Model Integrated with Motion Modality for Multimodal Interaction | ICRA · Language Model | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697346) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697346) |
 | 2025 | RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete | CVPR · Robot multimodal model | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Ji_RoboBrain_A_Unified_Brain_Model_for_Robotic_Manipulation_from_Abstract_CVPR_2025_paper.html) · [Official](https://openaccess.thecvf.com/content/CVPR2025/html/Ji_RoboBrain_A_Unified_Brain_Model_for_Robotic_Manipulation_from_Abstract_CVPR_2025_paper.html) |
 | 2025 | Hyperbolic Transformers with LLMs for Multimodal Human Activity Recognition | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11247069) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247069) |
-| 2025 | Semantic Enhancement for Object SLAM with Heterogeneous Multimodal Large Language Model Agents | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2411.06752) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246672) |
+| 2025 | Semantic Enhancement for Object SLAM with Heterogeneous Multimodal Large Language Model Agents | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2411.06752) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246672) |
 | 2024 | ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation | CVPR · Large Language Model | [Paper](https://arxiv.org/pdf/2312.16217) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01710) |
 | 2024 | Reasoning Grasping via Multimodal Large Language Model | CoRL · Large Language Model | [Paper](https://arxiv.org/abs/2402.06798) · [Publisher](https://doi.org/10.48550/arXiv.2402.06798) |
 | 2024 | Navigation Instruction Generation with BEV Perception and Large Language Models | ECCV · Large Language Model | [Paper](https://arxiv.org/abs/2407.15087) · [Publisher](https://doi.org/10.48550/arXiv.2407.15087) |
-| 2024 | Cook2LTL: Translating Cooking Recipes to LTL Formulae using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2310.00163) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611086) |
+| 2024 | Cook2LTL: Translating Cooking Recipes to LTL Formulae using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2310.00163) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611086) |
 | 2024 | Grounding Conversational Robots on Vision Through Dense Captioning and Large Language Models | ICRA · Large Language Model | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611232) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611232) |
-| 2024 | RoboLLM: Robotic Vision Tasks Grounded on Multimodal Large Language Models | ICRA · Large Language Model | [Paper](https://eprints.gla.ac.uk/320032/3/320032.pdf) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610797) |
+| 2024 | RoboLLM: Robotic Vision Tasks Grounded on Multimodal Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2310.10221) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610797) |
 | 2024 | Self-Assessment of Robotic Laboratory and Equipment Readiness Using Large Language Models and Robotic Data Capture | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS58592.2024.10802667) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802667) |
 | 2024 | Sensorimotor Attention and Language-based Regressions in Shared Latent Variables for Integrating Robot Motion Learning and LLM | IROS · Llm | [Paper](https://arxiv.org/pdf/2407.09044) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802349) |
 | 2023 | PaLM-E: An Embodied Multimodal Language Model | ICML · Embodied multimodal model | [Paper](https://arxiv.org/abs/2303.03378) · [Official](https://proceedings.mlr.press/v202/driess23a.html) |
 | 2023 | VIMA: Robot Manipulation with Multimodal Prompts | ICML · Multimodal prompting | [Paper](https://arxiv.org/abs/2210.03094) · [Official](https://proceedings.mlr.press/v202/jiang23b.html) · [Code](https://github.com/vimalabs/VIMA) |
-| 2023 | Chat with the Environment: Interactive Multimodal Perception Using Large Language Models | IROS · Large Language Model | [Paper](https://eprints.soton.ac.uk/496190/1/IROS_paper_2023_Zhao_Li_Weber_Hafez_Wermter.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342363) |
+| 2023 | Chat with the Environment: Interactive Multimodal Perception Using Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.08268) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342363) |
 | 2022 | Do As I Can, Not As I Say: Grounding Language in Robotic Affordances | CoRL · Language-grounded planning | [Paper](https://arxiv.org/abs/2204.01691) · [Official](https://proceedings.mlr.press/v205/ichter23a.html) · [Code](https://say-can.github.io/) |
 
-## Recent arXiv papers (101)
+## Recent arXiv papers (99)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -138,8 +138,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-27 | RoboGPT: an intelligent agent of making embodied long-term decisions for daily instruction tasks | Yaran Chen, Wenbo Cui, Yuanwen Chen, Mining Tan et al. | [Abstract](https://arxiv.org/abs/2311.15649) · [PDF](https://arxiv.org/pdf/2311.15649) |
 | 2023-11-25 | Agent as Cerebrum, Controller as Cerebellum: Implementing an Embodied LMM-based Agent on Drones | Haoran Zhao, Fengxing Pan, Huqiuyue Ping, Yaoming Zhou | [Abstract](https://arxiv.org/abs/2311.15033) · [PDF](https://arxiv.org/pdf/2311.15033) |
 | 2023-10-26 | Dialogue-based generation of self-driving simulation scenarios using Large Language Models | Antonio Valerio Miceli-Barone, Alex Lascarides, Craig Innes | [Abstract](https://arxiv.org/abs/2310.17372) · [PDF](https://arxiv.org/pdf/2310.17372) |
-| 2023-10-16 | RoboLLM: Robotic Vision Tasks Grounded on Multimodal Large Language Models | Zijun Long, George Killick, Richard McCreadie, Gerardo Aragon Camarasa | [Abstract](https://arxiv.org/abs/2310.10221) · [PDF](https://arxiv.org/pdf/2310.10221) |
-| 2023-10-12 | Multimodal Large Language Model for Visual Navigation | Yao-Hung Hubert Tsai, Vansh Dhar, Jialu Li, Bowen Zhang et al. | [Abstract](https://arxiv.org/abs/2310.08669) · [PDF](https://arxiv.org/pdf/2310.08669) |
 
 ---
 

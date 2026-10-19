@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Large-scale%20Parallel%20Simulation#research-workbench)
 
-> 4 conference papers · 23 recent arXiv papers
+> 4 conference papers · 22 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,12 +18,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2025 | Dynamic Tube MPC: Learning Tube Dynamics with Massively Parallel Simulation for Robust Safety in Practice | ICRA · Simulation | [Paper](https://arxiv.org/abs/2411.15350) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127279) |
+| 2025 | Dynamic Tube MPC: Learning Tube Dynamics with Massively Parallel Simulation for Robust Safety in Practice | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2411.15350) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127279) |
 | 2025 | DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments | IROS · Simulation | [Paper](https://arxiv.org/abs/2507.21981) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247559) |
 | 2025 | Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation | NeurIPS · Simulation | [Paper](https://arxiv.org/abs/2504.12908) · [Publisher](https://doi.org/10.48550/arXiv.2504.12908) |
 | 2024 | RoboCasa: Large-Scale Simulation of Household Tasks for Generalist Robots | RSS · Household simulation | [Paper](https://arxiv.org/abs/2306.14426) · [Official](https://roboticsproceedings.org/rss20/index.html) · [Code](https://github.com/ARISE-Initiative/robocasa) |
 
-## Recent arXiv papers (23)
+## Recent arXiv papers (22)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -49,7 +49,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-11-22 | Dynamic Tube MPC: Learning Tube Dynamics with Massively Parallel Simulation for Robust Safety in Practice | William D. Compton, Noel Csomay-Shanklin, Cole Johnson, Aaron D. Ames | [Abstract](https://arxiv.org/abs/2411.15350) · [PDF](https://arxiv.org/pdf/2411.15350) |
 | 2024-05-23 | Evolution and learning in differentiable robots | Luke Strgar, David Matthews, Tyler Hummer, Sam Kriegman | [Abstract](https://arxiv.org/abs/2405.14712) · [PDF](https://arxiv.org/pdf/2405.14712) |
 | 2024-05-03 | Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning | Dhruva Tirumala, Markus Wulfmeier, Ben Moran, Sandy Huang et al. | [Abstract](https://arxiv.org/abs/2405.02425) · [PDF](https://arxiv.org/pdf/2405.02425) |
-| 2023-10-12 | Waymax: An Accelerated, Data-Driven Simulator for Large-Scale Autonomous Driving Research | Cole Gulino, Justin Fu, Wenjie Luo, George Tucker et al. | [Abstract](https://arxiv.org/abs/2310.08710) · [PDF](https://arxiv.org/pdf/2310.08710) |
 
 ---
 

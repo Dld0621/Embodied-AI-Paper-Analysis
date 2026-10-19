@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Tactile%20%26%20Haptic%20Interfaces&specialty=Tactile%20Sensing%20%26%20Representation#research-workbench)
 
-> 8 conference papers · 56 recent arXiv papers
+> 8 conference papers · 55 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | How to Train your Tactile Model: Tactile Perception with Multi-fingered Robot Hands | ICRA · Multi Finger | [Paper](https://arxiv.org/abs/2604.00744) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696942) |
+| 2026 | How to Train your Tactile Model: Tactile Perception with Multi-fingered Robot Hands | ICRA · Multi Finger | [Paper](https://arxiv.org/pdf/2604.00744) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696942) |
 | 2025 | Task-Specific Embodied Tactile Sensing for Dexterous Hand | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127318) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127318) |
 | 2025 | Tactile sensing soft fingertip with dual air bag structure for an anthropomorphic robotic hand | IROS · Robotic Hand | [Paper](https://doi.org/10.1109/IROS60139.2025.11246016) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246016) |
 | 2024 | Fully 3D printable Robot Hand and Soft Tactile Sensor based on Air-pressure and Capacitive Proximity Sensing | ICRA · Robot Hand | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610731) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610731) |
@@ -27,7 +27,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | FingerTac - An Interchangeable and Wearable Tactile Sensor for the Fingertips of Human and Robot Hands | IROS · Robot Hand | [Paper](https://arxiv.org/pdf/2310.09201) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342285) |
 | 2022 | Load-sensitive Data Acquisition for a Tactile Sensor System of Multi-fingered Robotic Hands | ICRA · Multi Finger | [Paper](https://doi.org/10.1109/icra46639.2022.9812260) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812260) |
 
-## Recent arXiv papers (56)
+## Recent arXiv papers (55)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -86,7 +86,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-01-23 | DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity | Kang-Won Lee, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim | [Abstract](https://arxiv.org/abs/2401.12496) · [PDF](https://arxiv.org/pdf/2401.12496) |
 | 2023-11-07 | Cyclic Fusion of Measuring Information in Curved Elastomer Contact via Vision-Based Tactile Sensing | Zilan Li, Zhibin Zou, Weiliang Xu, Yuanzhi Zhou et al. | [Abstract](https://arxiv.org/abs/2311.04002) · [PDF](https://arxiv.org/pdf/2311.04002) |
 | 2023-11-06 | A multi-modal approach to continuous material identification through tactile sensing | Augusto Gómez Eguíluz, Ignacio Rañó, Sonya A. Coleman, T. Martin McGinnity | [Abstract](https://arxiv.org/abs/2311.03090) · [PDF](https://arxiv.org/pdf/2311.03090) |
-| 2023-10-13 | FingerTac -- An Interchangeable and Wearable Tactile Sensor for the Fingertips of Human and Robot Hands | Prathamesh Sathe, Alexander Schmitz, Satoshi Funabashi, Tito Pradhono Tomo et al. | [Abstract](https://arxiv.org/abs/2310.09201) · [PDF](https://arxiv.org/pdf/2310.09201) |
 
 ---
 

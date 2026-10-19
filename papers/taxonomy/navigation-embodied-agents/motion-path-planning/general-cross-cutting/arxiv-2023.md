@@ -2,7 +2,7 @@
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 128 papers · complete list for this taxonomy leaf
+> 97 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -103,34 +103,3 @@
 | 2023-10-20 | Correspondence learning between morphologically different robots via task demonstrations | Hakan Aktas, Yukie Nagai, Minoru Asada, Erhan Oztop et al. | [Abstract](https://arxiv.org/abs/2310.13458) · [PDF](https://arxiv.org/pdf/2310.13458) |
 | 2023-10-20 | ColAG: A Collaborative Air-Ground Framework for Perception-Limited UGVs' Navigation | Zhehan Li, Rui Mao, Nanhe Chen, Chao Xu et al. | [Abstract](https://arxiv.org/abs/2310.13324) · [PDF](https://arxiv.org/pdf/2310.13324) |
 | 2023-10-19 | Iterative PnP and its application in 3D-2D vascular image registration for robot navigation | Jingwei Song, Keke Yang, Zheng Zhang, Meng Li et al. | [Abstract](https://arxiv.org/abs/2310.12551) · [PDF](https://arxiv.org/pdf/2310.12551) |
-| 2023-10-17 | Reaching the Limit in Autonomous Racing: Optimal Control versus Reinforcement Learning | Yunlong Song, Angel Romero, Matthias Mueller, Vladlen Koltun et al. | [Abstract](https://arxiv.org/abs/2310.10943) · [PDF](https://arxiv.org/pdf/2310.10943) |
-| 2023-10-17 | Predicting Human Perceptions of Robot Performance During Navigation Tasks | Qiping Zhang, Nathan Tsoi, Mofeed Nagib, Booyeon Choi et al. | [Abstract](https://arxiv.org/abs/2310.11590) · [PDF](https://arxiv.org/pdf/2310.11590) |
-| 2023-10-17 | Neural Packing: from Visual Sensing to Reinforcement Learning | Juzhan Xu, Minglun Gong, Hao Zhang, Hui Huang et al. | [Abstract](https://arxiv.org/abs/2311.09233) · [PDF](https://arxiv.org/pdf/2311.09233) |
-| 2023-10-17 | Humanising robot-assisted navigation | Placido Falqueto, Alessandro Antonucci, Luigi Palopoli, Daniele Fontanelli | [Abstract](https://arxiv.org/abs/2310.11241) · [PDF](https://arxiv.org/pdf/2310.11241) |
-| 2023-10-16 | Vision and Language Navigation in the Real World via Online Visual Language Mapping | Chengguang Xu, Hieu T. Nguyen, Christopher Amato, Lawson L. S. Wong | [Abstract](https://arxiv.org/abs/2310.10822) · [PDF](https://arxiv.org/pdf/2310.10822) |
-| 2023-10-16 | Temporally Robust Multi-Agent STL Motion Planning in Continuous Time | Joris Verhagen, Lars Lindemann, Jana Tumova | [Abstract](https://arxiv.org/abs/2310.10585) · [PDF](https://arxiv.org/pdf/2310.10585) |
-| 2023-10-16 | Revisiting multi-GNSS Navigation for UAVs -- An Equivariant Filtering Approach | Martin Scheiber, Alessandro Fornasier, Christian Brommer, Stephan Weiss | [Abstract](https://arxiv.org/abs/2310.10597) · [PDF](https://arxiv.org/pdf/2310.10597) |
-| 2023-10-16 | Moving Object Localization based on the Fusion of Ultra-WideBand and LiDAR with a Mobile Robot | Muhammad Shalihan, Zhiqiang Cao, Khattiya Pongsirijinda, Lin Guo et al. | [Abstract](https://arxiv.org/abs/2310.10289) · [PDF](https://arxiv.org/pdf/2310.10289) |
-| 2023-10-16 | Adaptive Robot Assistance: Expertise and Influence in Multi-User Task Planning | Abhinav Dahiya, Stephen L. Smith | [Abstract](https://arxiv.org/abs/2310.10502) · [PDF](https://arxiv.org/pdf/2310.10502) |
-| 2023-10-14 | HIO-SDF: Hierarchical Incremental Online Signed Distance Fields | Vasileios Vasilopoulos, Suveer Garg, Jinwook Huh, Bhoram Lee et al. | [Abstract](https://arxiv.org/abs/2310.09463) · [PDF](https://arxiv.org/pdf/2310.09463) |
-| 2023-10-13 | Urban Drone Navigation: Autoencoder Learning Fusion for Aerodynamics | Jiaohao Wu, Yang Ye, Jing Du | [Abstract](https://arxiv.org/abs/2310.08830) · [PDF](https://arxiv.org/pdf/2310.08830) |
-| 2023-10-13 | Generative Skill Chaining: Long-Horizon Skill Planning with Diffusion Models | Utkarsh A. Mishra, Shangjie Xue, Yongxin Chen, Danfei Xu | [Abstract](https://arxiv.org/abs/2401.03360) · [PDF](https://arxiv.org/pdf/2401.03360) |
-| 2023-10-12 | Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation | Yinpei Dai, Run Peng, Sikai Li, Joyce Chai | [Abstract](https://arxiv.org/abs/2310.07968) · [PDF](https://arxiv.org/pdf/2310.07968) |
-| 2023-10-12 | Security Considerations in AI-Robotics: A Survey of Current Methods, Challenges, and Opportunities | Subash Neupane, Shaswata Mitra, Ivan A. Fernandez, Swayamjit Saha et al. | [Abstract](https://arxiv.org/abs/2310.08565) · [PDF](https://arxiv.org/pdf/2310.08565) |
-| 2023-10-12 | Learning to Act from Actionless Videos through Dense Correspondences | Po-Chen Ko, Jiayuan Mao, Yilun Du, Shao-Hua Sun et al. | [Abstract](https://arxiv.org/abs/2310.08576) · [PDF](https://arxiv.org/pdf/2310.08576) |
-| 2023-10-12 | An Experience-based TAMP Framework for Foliated Manifolds | Jiaming Hu, Shrutheesh R. Iyer, Henrik I. Christensen | [Abstract](https://arxiv.org/abs/2310.08494) · [PDF](https://arxiv.org/pdf/2310.08494) |
-| 2023-10-11 | VaPr: Variable-Precision Tensors to Accelerate Robot Motion Planning | Yu-Shun Hsiao, Siva Kumar Sastry Hari, Balakumar Sundaralingam, Jason Yik et al. | [Abstract](https://arxiv.org/abs/2310.07854) · [PDF](https://arxiv.org/pdf/2310.07854) |
-| 2023-10-11 | NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration | Ajay Sridhar, Dhruv Shah, Catherine Glossop, Sergey Levine | [Abstract](https://arxiv.org/abs/2310.07896) · [PDF](https://arxiv.org/pdf/2310.07896) |
-| 2023-10-11 | LangNav: Language as a Perceptual Representation for Navigation | Bowen Pan, Rameswar Panda, SouYoung Jin, Rogerio Feris et al. | [Abstract](https://arxiv.org/abs/2310.07889) · [PDF](https://arxiv.org/pdf/2310.07889) |
-| 2023-10-11 | Exploring Social Motion Latent Space and Human Awareness for Effective Robot Navigation in Crowded Environments | Junaid Ahmed Ansari, Satyajit Tourani, Gourav Kumar, Brojeshwar Bhowmick | [Abstract](https://arxiv.org/abs/2310.07335) · [PDF](https://arxiv.org/pdf/2310.07335) |
-| 2023-10-10 | Pre-Trained Masked Image Model for Mobile Robot Navigation | Vishnu Dutt Sharma, Anukriti Singh, Pratap Tokekar | [Abstract](https://arxiv.org/abs/2310.07021) · [PDF](https://arxiv.org/pdf/2310.07021) |
-| 2023-10-10 | Evaluating Explanation Methods for Vision-and-Language Navigation | Guanqi Chen, Lei Yang, Guanhua Chen, Jia Pan | [Abstract](https://arxiv.org/abs/2310.06654) · [PDF](https://arxiv.org/pdf/2310.06654) |
-| 2023-10-10 | D2M2N: Decentralized Differentiable Memory-Enabled Mapping and Navigation for Multiple Robots | Md Ishat-E-Rabban, Pratap Tokekar | [Abstract](https://arxiv.org/abs/2310.07070) · [PDF](https://arxiv.org/pdf/2310.07070) |
-| 2023-10-09 | Motion Memory: Leveraging Past Experiences to Accelerate Future Motion Planning | Dibyendu Das, Yuanjie Lu, Erion Plaku, Xuesu Xiao | [Abstract](https://arxiv.org/abs/2310.06198) · [PDF](https://arxiv.org/pdf/2310.06198) |
-| 2023-10-09 | Geometry-Aware Safety-Critical Local Reactive Controller for Robot Navigation in Unknown and Cluttered Environments | Yulin Li, Xindong Tang, Kai Chen, Chunxin Zheng et al. | [Abstract](https://arxiv.org/abs/2310.05547) · [PDF](https://arxiv.org/pdf/2310.05547) |
-| 2023-10-09 | Conformal Decision Theory: Safe Autonomous Decisions from Imperfect Predictions | Jordan Lekeufack, Anastasios N. Angelopoulos, Andrea Bajcsy, Michael I. Jordan et al. | [Abstract](https://arxiv.org/abs/2310.05921) · [PDF](https://arxiv.org/pdf/2310.05921) |
-| 2023-10-07 | Current Trends and Advances in Quantum Navigation for Maritime Applications: A Comprehensive Review | Olga Sambataro, Riccardo Costanzi, Joao Alves, Andrea Caiti et al. | [Abstract](https://arxiv.org/abs/2310.04729) · [PDF](https://arxiv.org/pdf/2310.04729) |
-| 2023-10-06 | Towards 6D MCL for LiDARs in 3D TSDF Maps on Embedded Systems with GPUs | Marc Eisoldt, Alexander Mock, Mario Porrmann, Thomas Wiemann | [Abstract](https://arxiv.org/abs/2310.04172) · [PDF](https://arxiv.org/pdf/2310.04172) |
-| 2023-10-06 | DRIFT: Deep Reinforcement Learning for Intelligent Floating Platforms Trajectories | Matteo El-Hariry, Antoine Richard, Vivek Muralidharan, Matthieu Geist et al. | [Abstract](https://arxiv.org/abs/2310.04266) · [PDF](https://arxiv.org/pdf/2310.04266) |
-| 2023-10-05 | High-Degrees-of-Freedom Dynamic Neural Fields for Robot Self-Modeling and Motion Planning | Lennart Schulze, Hod Lipson | [Abstract](https://arxiv.org/abs/2310.03624) · [PDF](https://arxiv.org/pdf/2310.03624) |
-| 2023-10-05 | Cyber Physical System Information Collection: Robot Location and Navigation Method Based on QR Code | Hongwei Li, Tao Xiong | [Abstract](https://arxiv.org/abs/2310.03470) · [PDF](https://arxiv.org/pdf/2310.03470) |

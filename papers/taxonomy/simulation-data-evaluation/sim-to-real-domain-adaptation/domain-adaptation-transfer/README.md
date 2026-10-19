@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Sim-to-real%20%26%20Domain%20Adaptation&specialty=Domain%20Adaptation%20%26%20Transfer#research-workbench)
 
-> 23 conference papers · 167 recent arXiv papers
+> 24 conference papers · 167 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,18 +14,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (23)
+## Conference papers (24)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Zero-shot Sim2Real Transfer for Magnet-Based Tactile Sensor on Insertion Tasks | ICRA · Sim2Real | [Paper](https://arxiv.org/abs/2505.02915) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696106) |
-| 2025 | RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning | ICRA · Sim2Real | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128103) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128103) |
-| 2025 | Robotic Sim-to-Real Transfer for Long-Horizon Pick-and-Place Tasks in the Robotic Sim2Real Competition | ICRA · Sim To Real | [Paper](https://arxiv.org/abs/2503.11012) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128837) |
+| 2026 | ConTact: Contrastive Tactile Alignment for Sim-to-Real Robotic Manipulation | ICRA · Sim To Real | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696004) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696004) |
+| 2026 | Zero-shot Sim2Real Transfer for Magnet-Based Tactile Sensor on Insertion Tasks | ICRA · Sim2Real | [Paper](https://arxiv.org/pdf/2505.02915) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696106) |
+| 2025 | RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning | ICRA · Sim2Real | [Paper](https://arxiv.org/pdf/2409.20291) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128103) |
+| 2025 | Robotic Sim-to-Real Transfer for Long-Horizon Pick-and-Place Tasks in the Robotic Sim2Real Competition | ICRA · Sim To Real | [Paper](https://arxiv.org/pdf/2503.11012) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128837) |
 | 2025 | SPiDR: A Simple Approach for Zero-Shot Safety in Sim-to-Real Transfer | NeurIPS · Sim To Real | [Paper](https://arxiv.org/abs/2509.18648) · [Publisher](https://doi.org/10.48550/arXiv.2509.18648) |
 | 2024 | TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction | CoRL · Sim To Real | [Paper](https://arxiv.org/abs/2405.10315) · [Publisher](https://doi.org/10.48550/arXiv.2405.10315) |
-| 2024 | Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs | ICRA · Sim To Real | [Paper](https://arxiv.org/abs/2403.04114) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611427) |
-| 2024 | TWIST: Teacher-Student World Model Distillation for Efficient Sim-to-Real Transfer | ICRA · Sim To Real | [Paper](https://arxiv.org/abs/2311.03622) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610450) |
-| 2024 | Fine Manipulation Using a Tactile Skin: Learning in Simulation and Sim-to-Real Transfer | IROS · Simulation | [Paper](https://arxiv.org/abs/2409.12735) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801397) |
+| 2024 | Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs | ICRA · Sim To Real | [Paper](https://arxiv.org/pdf/2403.04114) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611427) |
+| 2024 | TWIST: Teacher-Student World Model Distillation for Efficient Sim-to-Real Transfer | ICRA · Sim To Real | [Paper](https://arxiv.org/pdf/2311.03622) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610450) |
+| 2024 | Fine Manipulation Using a Tactile Skin: Learning in Simulation and Sim-to-Real Transfer | IROS · Simulation | [Paper](https://arxiv.org/pdf/2409.12735) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801397) |
 | 2024 | Imitation learning for sim-to-real adaptation of robotic cutting policies based on residual Gaussian process disturbance force model | IROS · Sim To Real | [Paper](https://doi.org/10.1109/IROS58592.2024.10802660) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802660) |
 | 2024 | Real-Time Semantic Segmentation in Natural Environments with SAM-assisted Sim-to-Real Domain Transfer | IROS · Sim To Real | [Paper](https://doi.org/10.1109/IROS58592.2024.10801798) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801798) |
 | 2024 | The Power of Input: Benchmarking Zero-Shot Sim-to-Real Transfer of Reinforcement Learning Control Policies for Quadrotor Control | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2410.07686) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802831) |
@@ -33,19 +34,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Markerless Camera-to-Robot Pose Estimation via Self-Supervised Sim-to-Real Transfer | CVPR · Sim To Real | [Paper](https://arxiv.org/pdf/2302.14332) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.02040) |
 | 2023 | AdaptSim: Task-Driven Simulation Adaptation for Sim-to-Real Transfer | CoRL · Simulation | [Paper](https://arxiv.org/pdf/2302.04903) · [Publisher](https://doi.org/10.48550/arXiv.2302.04903) |
 | 2023 | What Went Wrong? Closing the Sim-to-Real Gap via Differentiable Causal Discovery | CoRL · Sim To Real | [Paper](https://arxiv.org/abs/2306.15864) · [Publisher](https://doi.org/10.48550/arXiv.2306.15864) |
-| 2023 | Learning Sim-to-Real Dense Object Descriptors for Robotic Manipulation | ICRA · Sim To Real | [Paper](https://arxiv.org/abs/2304.08703) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161477) |
+| 2023 | Learning Sim-to-Real Dense Object Descriptors for Robotic Manipulation | ICRA · Sim To Real | [Paper](https://arxiv.org/pdf/2304.08703) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161477) |
 | 2023 | Sim-to-Real Policy and Reward Transfer with Adaptive Forward Dynamics Model | ICRA · Sim To Real | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161298) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161298) |
 | 2023 | Toward Zero-Shot Sim-to-Real Transfer Learning for Pneumatic Soft Robot 3D Proprioceptive Sensing | ICRA · Sim To Real | [Paper](https://arxiv.org/pdf/2303.04307) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160384) |
 | 2023 | Contact Reduction with Bounded Stiffness for Robust Sim-to-Real Transfer of Robot Assembly | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2306.06675) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341866) |
 | 2023 | Robust Visual Sim-to-Real Transfer for Robotic Manipulation | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2307.15320) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342471) |
 | 2022 | i-Sim2Real: Reinforcement Learning of Robotic Policies in Tight Human-Robot Interaction Loops | CoRL · Sim2Real | [Paper](https://arxiv.org/pdf/2207.06572) · [Publisher](https://doi.org/10.48550/arXiv.2207.06572) |
-| 2022 | Grasp Stability Prediction with Sim-to-Real Transfer from Tactile Sensing | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2208.02885) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981863) |
+| 2022 | Grasp Stability Prediction with Sim-to-Real Transfer from Tactile Sensing | IROS · Sim To Real | [Paper](https://arxiv.org/abs/2208.02885) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981863) |
 | 2022 | Soft Robots Learn to Crawl: Jointly Optimizing Design and Control with Sim-to-Real Transfer | RSS · Sim To Real | [Paper](https://doi.org/10.15607/rss.2022.xviii.062) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.062) |
 
 ## Recent arXiv papers (167)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-08 | Sim-to-Real RL for ASVs using SysID | Cody Sheltraw, Tsimafei Lazouski, Maani Ghaffari, Alan Papalia | [Abstract](https://arxiv.org/abs/2610.12202) · [PDF](https://arxiv.org/pdf/2610.12202) |
+| 2026-10-07 | RoboRender: Robot-Oriented Video Generation for Visual Sim-to-Real Transfer | Huang Huang, Wensi Ai, Ziyu Chen, Youhui Wang et al. | [Abstract](https://arxiv.org/abs/2610.09254) · [PDF](https://arxiv.org/pdf/2610.09254) |
+| 2026-10-06 | Micro Neural Policies for Safe Real-Time Robotic Control | Hongpeng Cao, Riccardo Curcio, Daniele Ottaviano, Marco Caccamo | [Abstract](https://arxiv.org/abs/2610.08541) · [PDF](https://arxiv.org/pdf/2610.08541) |
 | 2026-10-02 | RoboBridge: A Self-Evolving Embodied Agent Framework for Sim-to-Real Transfer | Chenxi Li, Zhangrui Zhao, Rui Li, Yuan Gao et al. | [Abstract](https://arxiv.org/abs/2610.02717) · [PDF](https://arxiv.org/pdf/2610.02717) |
 | 2026-10-02 | From Language Priors to Field Adaptation: Preference Learning for Traversability Estimation | Simon Schwaiger, David Seyser, Alessandro Scherl, Zlatan Ajanović et al. | [Abstract](https://arxiv.org/abs/2610.02974) · [PDF](https://arxiv.org/pdf/2610.02974) |
 | 2026-09-28 | Scouting the Dynamics Gap: Test-Time Policy Adaptation via Action-Outcome Feedback | Yishu Li, Liyuan Geng, Xinyi Mao, Amber Li et al. | [Abstract](https://arxiv.org/abs/2609.36107) · [PDF](https://arxiv.org/pdf/2609.36107) |
@@ -95,7 +99,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-04-22 | ALAS: Adaptive Long-Horizon Action Synthesis via Async-pathway Stream Disentanglement | Yutong Shen, Hangxu Liu, Lei Zhang, Penghui Liu et al. | [Abstract](https://arxiv.org/abs/2604.20721) · [PDF](https://arxiv.org/pdf/2604.20721) |
 | 2026-04-13 | Solving Physics Olympiad via Reinforcement Learning on Physics Simulators | Mihir Prabhudesai, Aryan Satpathy, Yangmin Li, Zheyang Qin et al. | [Abstract](https://arxiv.org/abs/2604.11805) · [PDF](https://arxiv.org/pdf/2604.11805) |
 | 2026-04-10 | Sim-to-Real Transfer for Muscle-Actuated Robots via Generalized Actuator Networks | Jan Schneider, Mridul Mahajan, Le Chen, Simon Guist et al. | [Abstract](https://arxiv.org/abs/2604.09487) · [PDF](https://arxiv.org/pdf/2604.09487) |
-| 2026-04-09 | Reset-Free Reinforcement Learning for Real-World Agile Driving: An Empirical Study | Kohei Honda, Hirotaka Hosogaya | [Abstract](https://arxiv.org/abs/2604.07672) · [PDF](https://arxiv.org/pdf/2604.07672) |
 | 2026-03-30 | Sim-to-Real Fruit Detection Using Synthetic Data: Quantitative Evaluation and Embedded Deployment with Isaac Sim | Martina Hutter-Mironovova | [Abstract](https://arxiv.org/abs/2603.28670) · [PDF](https://arxiv.org/pdf/2603.28670) |
 | 2026-03-20 | Generalized Task-Driven Design of Soft Robots via Reduced-Order FEM-based Surrogate Modeling | Yao Yao, David Howard, Perla Maiolino | [Abstract](https://arxiv.org/abs/2603.19794) · [PDF](https://arxiv.org/pdf/2603.19794) |
 | 2026-03-19 | Introducing M: A Modular, Modifiable Social Robot | Victor Nikhil Antony, Zhili Gong, Yoonjae Kim, Chien-Ming Huang | [Abstract](https://arxiv.org/abs/2603.19134) · [PDF](https://arxiv.org/pdf/2603.19134) |
@@ -211,8 +214,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-07 | TWIST: Teacher-Student World Model Distillation for Efficient Sim-to-Real Transfer | Jun Yamada, Marc Rigter, Jack Collins, Ingmar Posner | [Abstract](https://arxiv.org/abs/2311.03622) · [PDF](https://arxiv.org/pdf/2311.03622) |
 | 2023-11-07 | Imitation learning for sim-to-real transfer of robotic cutting policies based on residual Gaussian process disturbance force model | Jamie Hathaway, Rustam Stolkin, Alireza Rastegarpanah | [Abstract](https://arxiv.org/abs/2311.04096) · [PDF](https://arxiv.org/pdf/2311.04096) |
 | 2023-10-21 | Unsupervised Sim-to-Real Adaptation of Soft Robot Proprioception using a Dual Cross-modal Autoencoder | Chaeree Park, Hyunkyu Park, Jung Kim | [Abstract](https://arxiv.org/abs/2310.14075) · [PDF](https://arxiv.org/pdf/2310.14075) |
-| 2023-10-17 | Sim-to-Real Transfer of Adaptive Control Parameters for AUV Stabilization under Current Disturbance | Thomas Chaffre, Jonathan Wheare, Andrew Lammas, Paulo Santos et al. | [Abstract](https://arxiv.org/abs/2310.11075) · [PDF](https://arxiv.org/pdf/2310.11075) |
-| 2023-10-05 | WLST: Weak Labels Guided Self-training for Weakly-supervised Domain Adaptation on 3D Object Detection | Tsung-Lin Tsou, Tsung-Han Wu, Winston H. Hsu | [Abstract](https://arxiv.org/abs/2310.03821) · [PDF](https://arxiv.org/pdf/2310.03821) |
 
 ---
 

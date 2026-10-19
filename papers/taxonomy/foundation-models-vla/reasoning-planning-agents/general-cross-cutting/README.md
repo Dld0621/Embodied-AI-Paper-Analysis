@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 25 conference papers · 213 recent arXiv papers
+> 25 conference papers · 214 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,23 +20,23 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2026 | From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation | ICLR · Spatial reasoning | [Paper](https://openreview.net/forum?id=yngvAamNQi) · [Official](https://openreview.net/forum?id=yngvAamNQi) |
 | 2026 | A Natural Language Interface for Multi-Constraint Spatiotemporal Planning via LLM-Parameterized Mixed-Integer Scheduling and A | ICRA · Llm | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696582) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696582) |
-| 2026 | Grounding Language Models with Semantic Digital Twins for Robotic Planning | ICRA · Language Model | [Paper](https://arxiv.org/abs/2506.16493) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696242) |
-| 2025 | Automatic Behavior Tree Expansion with LLMs for Robotic Manipulation | ICRA · Llm | [Paper](https://arxiv.org/abs/2409.13356) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127942) |
-| 2025 | COLLAGE: Collaborative Human-Agent Interaction Generation Using Hierarchical Latent Diffusion and Language Models | ICRA · Language Model | [Paper](https://arxiv.org/abs/2409.20502) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128777) |
-| 2025 | Generalized Mission Planning for Heterogeneous Multi-Robot Teams via LLM-Constructed Hierarchical Trees | ICRA · Llm | [Paper](https://arxiv.org/abs/2501.16539) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128711) |
-| 2025 | HBTP: Heuristic Behavior Tree Planning with Large Language Model Reasoning | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2406.00965) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127999) |
-| 2025 | Jailbreaking LLM-Controlled Robots | ICRA · Llm | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128119) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128119) |
-| 2025 | Leveraging LLMs for Mission Planning in Precision Agriculture | ICRA · Llm | [Paper](https://arxiv.org/abs/2506.10093) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128633) |
-| 2025 | LLM-HBT: Dynamic Behavior Tree Construction for Adaptive Coordination in Heterogeneous Robots | ICRA · Llm | [Paper](https://arxiv.org/abs/2510.09963) · [Publisher](https://doi.org/10.48550/arXiv.2510.09963) |
+| 2026 | Grounding Language Models with Semantic Digital Twins for Robotic Planning | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2506.16493) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696242) |
+| 2026 | LLM-HBT: Dynamic Behavior Tree Construction for Adaptive Coordination in Heterogeneous Robots | ICRA · Llm | [Paper](https://arxiv.org/pdf/2510.09963) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697176) |
+| 2025 | Automatic Behavior Tree Expansion with LLMs for Robotic Manipulation | ICRA · Llm | [Paper](https://arxiv.org/pdf/2409.13356) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127942) |
+| 2025 | COLLAGE: Collaborative Human-Agent Interaction Generation Using Hierarchical Latent Diffusion and Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2409.20502) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128777) |
+| 2025 | Generalized Mission Planning for Heterogeneous Multi-Robot Teams via LLM-Constructed Hierarchical Trees | ICRA · Llm | [Paper](https://arxiv.org/pdf/2501.16539) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128711) |
+| 2025 | HBTP: Heuristic Behavior Tree Planning with Large Language Model Reasoning | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2406.00965) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127999) |
+| 2025 | Jailbreaking LLM-Controlled Robots | ICRA · Llm | [Paper](https://arxiv.org/pdf/2410.13691) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128119) |
+| 2025 | Leveraging LLMs for Mission Planning in Precision Agriculture | ICRA · Llm | [Paper](https://arxiv.org/pdf/2506.10093) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128633) |
 | 2025 | Exploring Spontaneous Social Interaction Swarm Robotics Powered by Large Language Models | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246362) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246362) |
 | 2025 | LLM-Informed Iterative Planning for Object Search and Relocation in Indoor Environments | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11246196) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246196) |
-| 2025 | Socially-Aware Robot Navigation Enhanced by Bidirectional Natural Language Conversations Using Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2409.04965) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246738) |
+| 2025 | Socially-Aware Robot Navigation Enhanced by Bidirectional Natural Language Conversations Using Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2409.04965) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246738) |
 | 2025 | Towards Reliable LLM-based Robots Planning via Combined Uncertainty Estimation | NeurIPS · Llm | [Paper](https://doi.org/10.52202/085713-2600) · [Publisher](https://doi.org/10.52202/085713-2600) |
 | 2024 | RoboMP2: A Robotic Multimodal Perception-Planning Framework with Multimodal Large Language Models | ICML · Large Language Model | [Paper](https://arxiv.org/abs/2404.04929) · [Publisher](https://doi.org/10.48550/arXiv.2404.04929) |
-| 2024 | Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs | ICRA · Llm | [Paper](https://arxiv.org/abs/2404.04869) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611614) |
+| 2024 | Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs | ICRA · Llm | [Paper](https://arxiv.org/pdf/2404.04869) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611614) |
 | 2024 | Are Large Language Models Aligned with People’s Social Intuitions for Human–Robot Interactions? | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2403.05701) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801325) |
-| 2024 | From LLMs to Actions: Latent Codes as Bridges in Hierarchical Robot Control | IROS · Llm | [Paper](https://arxiv.org/abs/2405.04798) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801683) |
-| 2024 | RT-Grasp: Reasoning Tuning Robotic Grasping via Multi-modal Large Language Model | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2411.05212) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801718) |
+| 2024 | From LLMs to Actions: Latent Codes as Bridges in Hierarchical Robot Control | IROS · Llm | [Paper](https://arxiv.org/pdf/2405.04798) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801683) |
+| 2024 | RT-Grasp: Reasoning Tuning Robotic Grasping via Multi-modal Large Language Model | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2411.05212) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801718) |
 | 2024 | To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions | IROS · Llm | [Paper](https://arxiv.org/pdf/2403.12533) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801517) |
 | 2023 | Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning | CoRL · Large Language Model | [Paper](https://arxiv.org/abs/2310.10103) · [Publisher](https://doi.org/10.48550/arXiv.2310.10103) |
 | 2023 | Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners | CoRL · Large Language Model | [Paper](https://arxiv.org/pdf/2307.01928) · [Publisher](https://doi.org/10.48550/arXiv.2307.01928) |
@@ -44,10 +44,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Task and Motion Planning with Large Language Models for Object Rearrangement | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.06247) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342169) |
 | 2023 | Demonstrating Large Language Models on Robots | RSS · Large Language Model | [Paper](https://doi.org/10.15607/rss.2023.xix.024) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.024) |
 
-## Recent arXiv papers (213)
+## Recent arXiv papers (214)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-15 | Onboard Lightweight LLM Reasoning for Human-Aware Safe UAV Navigation | Siwei Cai, Yuwei Wu, Vijay Kumar, Lifeng Zhou | [Abstract](https://arxiv.org/abs/2610.22092) · [PDF](https://arxiv.org/pdf/2610.22092) |
+| 2026-10-08 | PlanWAM: Planning-Shaped Future Representations for End-to-End Autonomous Driving | Jinchang Xu, Hongda Yu, Fengwei Dong, Wenhui Huang et al. | [Abstract](https://arxiv.org/abs/2610.11382) · [PDF](https://arxiv.org/pdf/2610.11382) |
+| 2026-10-06 | Proactive Robot Assistance via Event-Driven Reasoning over State Changes | Fengkai Liu, Hao Su, Haozhuang Chi, Rui Geng et al. | [Abstract](https://arxiv.org/abs/2610.08344) · [PDF](https://arxiv.org/pdf/2610.08344) |
 | 2026-10-02 | OmniAct3D: Leveraging Foundation Geometry and Evidence-Grounded Reasoning for Panoramic 3D Detection | Runtong Wu, Fei Teng, Di Wen, Guoqiang Zhao et al. | [Abstract](https://arxiv.org/abs/2610.03015) · [PDF](https://arxiv.org/pdf/2610.03015) |
 | 2026-09-28 | Predictive Semantic Safety: From Visual Physical Reasoning to Safety-Critical Control | Taekyung Kim, Salem Fradi, Yanning Dai, Mateusz Ostaszewski et al. | [Abstract](https://arxiv.org/abs/2609.34356) · [PDF](https://arxiv.org/pdf/2609.34356) |
 | 2026-09-28 | Bayesian Active Learning for Intent Disambiguation in Interactive Robot Planning | Huao Li, Carson Sobolewski, Augustinos Saravanos, William Tan et al. | [Abstract](https://arxiv.org/abs/2609.34270) · [PDF](https://arxiv.org/pdf/2609.34270) |
@@ -89,7 +92,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-05-19 | Probing an Embodied LLM: When Higher Observation Fidelity Hurts Problem Solving | Oussama Zenkri, Oliver Brock | [Abstract](https://arxiv.org/abs/2605.20072) · [PDF](https://arxiv.org/pdf/2605.20072) |
 | 2026-05-16 | Pedestrian-Aware LLM-Driven Behavioral Planning for Autonomous Vehicles | Aidana Baimbetova, Haruki Yonekura, Hamada Rizk, Hirozumi Yamaguchi | [Abstract](https://arxiv.org/abs/2605.16858) · [PDF](https://arxiv.org/pdf/2605.16858) |
 | 2026-05-14 | Pelican-Unify 1.0: A Unified Embodied Intelligence Model for Understanding, Reasoning, Imagination and Action | Yi Zhang, Yinda Chen, Che Liu, Zeyuan Ding et al. | [Abstract](https://arxiv.org/abs/2605.15153) · [PDF](https://arxiv.org/pdf/2605.15153) |
-| 2026-05-10 | NEXUS: Continual Learning of Symbolic Constraints for Safe and Robust Embodied Planning | Tiehan Cui, Peipei Liu, Yanxu Mao, Congying Liu et al. | [Abstract](https://arxiv.org/abs/2605.09387) · [PDF](https://arxiv.org/pdf/2605.09387) |
+| 2026-05-10 | NEXUS: Learning Safety Constraints and Action Models for Safe and Robust Embodied Planning | Tiehan Cui, Peipei Liu, Yanxu Mao, Gaosheng Wang et al. | [Abstract](https://arxiv.org/abs/2605.09387) · [PDF](https://arxiv.org/pdf/2605.09387) |
 | 2026-05-08 | Hierarchical Prompting with Dual LLM Modules for Robotic Task and Motion Planning | Karolina Źróbek, Tessa Pulli, Paweł Gajewski, Antonio Galiza Cerdeira Gonzalez et al. | [Abstract](https://arxiv.org/abs/2605.08330) · [PDF](https://arxiv.org/pdf/2605.08330) |
 | 2026-05-07 | R$^3$L: Reasoning 3D Layouts from Relative Spatial Relations | Zhifeng Gu, Yuqi Wang, Bing Wang | [Abstract](https://arxiv.org/abs/2605.06758) · [PDF](https://arxiv.org/pdf/2605.06758) |
 | 2026-04-26 | Large Language Model based Interactive Decision-Making for Autonomous Driving | Xinwei Dong, Jiyang Li, Jiabin Xie, Yang Yi et al. | [Abstract](https://arxiv.org/abs/2604.23513) · [PDF](https://arxiv.org/pdf/2604.23513) |
@@ -154,6 +157,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-09-16 | Toward Ownership Understanding of Objects: Active Question Generation with Large Language Model and Probabilistic Generative Model | Saki Hashimoto, Shoichi Hasegawa, Tomochika Ishikawa, Akira Taniguchi et al. | [Abstract](https://arxiv.org/abs/2509.12754) · [PDF](https://arxiv.org/pdf/2509.12754) |
 | 2025-08-29 | Evaluation of Large Language Models for Anomaly Detection in Autonomous Vehicles | Petros Loukas, David Bassir, Savvas Chatzichristofis, Angelos Amanatiadis | [Abstract](https://arxiv.org/abs/2509.05315) · [PDF](https://arxiv.org/pdf/2509.05315) |
 | 2025-08-26 | DELIVER: A System for LLM-Guided Coordinated Multi-Robot Pickup and Delivery using Voronoi-Based Relay Planning | Alkesh K. Srivastava, Jared Michael Levin, Alexander Derrico, Philip Dames | [Abstract](https://arxiv.org/abs/2508.19114) · [PDF](https://arxiv.org/pdf/2508.19114) |
+| 2025-08-23 | Drive As You Like: Multi-Head Diffusion with Reinforcement Learning for Personalized Driving | Ding Fan, Xuewen Luo, Hwa Hui Tew, Susilawati et al. | [Abstract](https://arxiv.org/abs/2508.16947) · [PDF](https://arxiv.org/pdf/2508.16947) |
 | 2025-08-20 | Flexible Agent Alignment with Goal Inference from Open-Ended Dialog | Rachel Ma, Jingyi Qu, Andreea Bobu, Dylan Hadfield-Menell | [Abstract](https://arxiv.org/abs/2508.15119) · [PDF](https://arxiv.org/pdf/2508.15119) |
 | 2025-08-19 | Driving Style Recognition Like an Expert Using Semantic Privileged Information from Large Language Models | Zhaokun Chen, Chaopeng Zhang, Xiaohan Li, Wenshuo Wang et al. | [Abstract](https://arxiv.org/abs/2508.13881) · [PDF](https://arxiv.org/pdf/2508.13881) |
 | 2025-08-12 | Rational Inverse Reasoning: Few-Shot Imitation by Inferring Intent through Planning | Ben Zandonati, Tomás Lozano-Pérez, Leslie Pack Kaelbling | [Abstract](https://arxiv.org/abs/2508.08983) · [PDF](https://arxiv.org/pdf/2508.08983) |
@@ -258,9 +262,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-02 | REAL: Resilience and Adaptation using Large Language Models on Autonomous Aerial Robots | Andrea Tagliabue, Kota Kondo, Tong Zhao, Mason Peterson et al. | [Abstract](https://arxiv.org/abs/2311.01403) · [PDF](https://arxiv.org/pdf/2311.01403) |
 | 2023-11-01 | SAGE: Smart home Agent with Grounded Execution | Dmitriy Rivkin, Francois Hogan, Amal Feriani, Abhisek Konar et al. | [Abstract](https://arxiv.org/abs/2311.00772) · [PDF](https://arxiv.org/pdf/2311.00772) |
 | 2023-10-30 | Large Trajectory Models are Scalable Motion Predictors and Planners | Qiao Sun, Shiduo Zhang, Danjiao Ma, Jingzhe Shi et al. | [Abstract](https://arxiv.org/abs/2310.19620) · [PDF](https://arxiv.org/pdf/2310.19620) |
-| 2023-10-16 | Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning | Dhruv Shah, Michael Equi, Blazej Osinski, Fei Xia et al. | [Abstract](https://arxiv.org/abs/2310.10103) · [PDF](https://arxiv.org/pdf/2310.10103) |
-| 2023-10-15 | Recursively-Constrained Partially Observable Markov Decision Processes | Qi Heng Ho, Tyler Becker, Benjamin Kraske, Zakariya Laouar et al. | [Abstract](https://arxiv.org/abs/2310.09688) · [PDF](https://arxiv.org/pdf/2310.09688) |
-| 2023-10-10 | NEWTON: Are Large Language Models Capable of Physical Reasoning? | Yi Ru Wang, Jiafei Duan, Dieter Fox, Siddhartha Srinivasa | [Abstract](https://arxiv.org/abs/2310.07018) · [PDF](https://arxiv.org/pdf/2310.07018) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Pretraining%2C%20Scaling%20%26%20Transfer&specialty=Robot%20Pretraining%20%26%20Foundation%20Policies#research-workbench)
 
-> 6 conference papers · 73 recent arXiv papers
+> 6 conference papers · 86 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,10 +25,23 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Octo: An Open-Source Generalist Robot Policy | RSS · Generalist robot policy | [Paper](https://arxiv.org/abs/2405.12213) · [Official](https://doi.org/10.15607/RSS.2024.XX.090) · [Code](https://github.com/octo-models/octo) |
 | 2023 | RT-1: Robotics Transformer for Real-World Control at Scale | RSS · Generalist robot policy | [Paper](https://arxiv.org/abs/2212.06817) · [Official](https://roboticsproceedings.org/rss19/p025.html) |
 
-## Recent arXiv papers (73)
+## Recent arXiv papers (86)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-16 | Sample-Efficient Reinforcement Learning for Policy Improvement via Flow-Reversed Action Anchors | Carl Qi, Weijun Dong, Xiaojie Wang, Peiyi Chen et al. | [Abstract](https://arxiv.org/abs/2610.22852) · [PDF](https://arxiv.org/pdf/2610.22852) |
+| 2026-10-14 | Multi-Dimensional Featurizers Yield Fine-Grained Steering and Data Shaping in Robot Foundation Models | Aiden Swann, Mozes Jacobs, Mathilde Papillon, Siddharth Boppana et al. | [Abstract](https://arxiv.org/abs/2610.20767) · [PDF](https://arxiv.org/pdf/2610.20767) |
+| 2026-10-14 | Causal Analysis of Robot Foundation Models Enables Efficiency Gains | Aiden Swann, Mathilde Papillon, Mozes Jacobs, Siddharth Boppana et al. | [Abstract](https://arxiv.org/abs/2610.20750) · [PDF](https://arxiv.org/pdf/2610.20750) |
+| 2026-10-13 | LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts | Wenxuan Guo, Yingping Liang, Zhaoguo Wang, Ziyuan Li et al. | [Abstract](https://arxiv.org/abs/2610.18873) · [PDF](https://arxiv.org/pdf/2610.18873) |
+| 2026-10-13 | ACCRUE: Continual Off-Policy Reinforcement Learning for Robot Foundation Models | Changyeon Kim, Kimin Lee, Yashraj Narang, Yijie Guo | [Abstract](https://arxiv.org/abs/2610.18596) · [PDF](https://arxiv.org/pdf/2610.18596) |
+| 2026-10-12 | ReAP: From Visual Failure Recognition to Action-Conditioned Risk Prediction for Runtime Failure Monitoring | Jingyuan Liu, Yunpeng Qing, Changxu Wei, Zhi Hou | [Abstract](https://arxiv.org/abs/2610.16309) · [PDF](https://arxiv.org/pdf/2610.16309) |
+| 2026-10-11 | $Δ$ Flow Matching for Robot Foundation Models | Kuangji Zuo, Tuo An, Xinying Guo, Gen Li et al. | [Abstract](https://arxiv.org/abs/2610.15794) · [PDF](https://arxiv.org/pdf/2610.15794) |
+| 2026-10-09 | Dream to Remember: Continual Steering of Generalist Robot Policies with World Models | Bahey Tharwat, Iman Nematollahi, Marvin Alles, Xingyuan Zhang et al. | [Abstract](https://arxiv.org/abs/2610.13816) · [PDF](https://arxiv.org/pdf/2610.13816) |
+| 2026-10-09 | Beyond Successful Robot Demonstrations: Learning from Human Interactions and Modeling Failure Dynamics | Peiyan Tu, Cong Wang, Hanxin Zhu, Xin Jin et al. | [Abstract](https://arxiv.org/abs/2610.13522) · [PDF](https://arxiv.org/pdf/2610.13522) |
+| 2026-10-08 | RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments | Zimo Wen, Yijin Chen, Yuxuan Cao, Wendi Chen et al. | [Abstract](https://arxiv.org/abs/2610.12424) · [PDF](https://arxiv.org/pdf/2610.12424) |
+| 2026-10-08 | ARC: A Reasoning Recipe for Robot Foundation Models | Gokul Puthumanaillam, Tao Sun, Elie Aljalbout, Moritz Reuss et al. | [Abstract](https://arxiv.org/abs/2610.12386) · [PDF](https://arxiv.org/pdf/2610.12386) |
+| 2026-10-07 | Video Prediction Policy 2: Predict Better, Act Better | Yanjiang Guo, Haodong Yan, Zhide Zhong, Zhongru Zhang et al. | [Abstract](https://arxiv.org/abs/2610.10270) · [PDF](https://arxiv.org/pdf/2610.10270) |
+| 2026-10-03 | RoboIRS: Inference-Time Internal Representation Steering for Generalist Robot Policies | Jiuzhou Lei, Chang Liu, Dayou Li, Zhiyuan Zhang et al. | [Abstract](https://arxiv.org/abs/2610.04681) · [PDF](https://arxiv.org/pdf/2610.04681) |
 | 2026-09-30 | ChunkTrust: Adapting Execution Horizons for Robot Policies with Action-Expert Evidence | Fanding Huang, Jingyan Jiang, Shifeng Bao, Mingkang Pu et al. | [Abstract](https://arxiv.org/abs/2609.39754) · [PDF](https://arxiv.org/pdf/2609.39754) |
 | 2026-09-29 | Simple Agentic Memory for Generalist Robot Policies | Yuyou Zhang, Yunbei Zhang, Miao Li, Janet Wang et al. | [Abstract](https://arxiv.org/abs/2609.36595) · [PDF](https://arxiv.org/pdf/2609.36595) |
 | 2026-09-29 | FP2: Equipping Robotic Foundation Models with Force Control | Hongjie Fang, Shirun Tang, Junjian Hu, Shidong Zhang et al. | [Abstract](https://arxiv.org/abs/2609.37433) · [PDF](https://arxiv.org/pdf/2609.37433) |

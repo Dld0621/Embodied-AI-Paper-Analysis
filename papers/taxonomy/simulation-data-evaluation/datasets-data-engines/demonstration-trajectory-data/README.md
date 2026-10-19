@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | RoboCade: Gamifying Robot Data Collection | ICRA · Data Collection | [Paper](https://arxiv.org/abs/2512.21235) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696342) |
+| 2026 | RoboCade: Gamifying Robot Data Collection | ICRA · Data Collection | [Paper](https://arxiv.org/pdf/2512.21235) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696342) |
 
 ## Recent arXiv papers (6)
 

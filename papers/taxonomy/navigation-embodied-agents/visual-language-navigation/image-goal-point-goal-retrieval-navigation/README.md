@@ -19,18 +19,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2025 | IGL-Nav: Incremental 3D Gaussian Localization for Image-Goal Navigation | ICCV · Navigation | [Paper](https://arxiv.org/pdf/2508.00823) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00640) |
-| 2025 | BEINGS: Bayesian Embodied Image-Goal Navigation With Gaussian Splatting | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.10216) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127919) |
+| 2025 | BEINGS: Bayesian Embodied Image-Goal Navigation With Gaussian Splatting | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.10216) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127919) |
 | 2025 | GSplatVNM: Point-of-View Synthesis for Visual Navigation Models Using Gaussian Splatting | IROS · Navigation | [Paper](https://arxiv.org/abs/2503.05152) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246997) |
 | 2024 | RGBD-based Image Goal Navigation with Pose Drift: A Topo-metric Graph based Approach | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610727) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610727) |
-| 2024 | SCALE: Self-Correcting Visual Navigation for Mobile Robots via Anti-Novelty Estimation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2404.10675) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610847) |
-| 2024 | Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation | IROS · Navigation | [Paper](https://arxiv.org/abs/2411.03487) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801778) |
-| 2023 | Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation | ICCV · Navigation | [Paper](https://arxiv.org/abs/2308.10306) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.01009) |
+| 2024 | SCALE: Self-Correcting Visual Navigation for Mobile Robots via Anti-Novelty Estimation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2404.10675) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610847) |
+| 2024 | Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2411.03487) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801778) |
+| 2023 | Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation | ICCV · Navigation | [Paper](https://arxiv.org/pdf/2308.10306) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.01009) |
 | 2022 | Topological Semantic Graph Memory for Image-Goal Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2209.08274) · [Publisher](https://doi.org/10.48550/arXiv.2209.08274) |
 
 ## Recent arXiv papers (29)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-14 | GS-PRM: Gaussian Visual Roadmap for Image-Goal Navigation | Ashraf Siddique, Kyung Min Han, Young J. Kim | [Abstract](https://arxiv.org/abs/2610.19541) · [PDF](https://arxiv.org/pdf/2610.19541) |
 | 2026-08-19 | DevGRU: Depth-guided Visual Navigation using a Collision-aware Recurrent Model | Kyung Min Han, Eunsom Kim, Young J. Kim | [Abstract](https://arxiv.org/abs/2608.18470) · [PDF](https://arxiv.org/pdf/2608.18470) |
 | 2026-08-10 | Latent World Models with Monotone Planning Costs for Image-Goal Navigation | Amirhosein Chahe, Siwei Cai, Lifeng Zhou | [Abstract](https://arxiv.org/abs/2608.09073) · [PDF](https://arxiv.org/pdf/2608.09073) |
 | 2026-08-07 | Unordered Landmark Visual Navigation | Hao Ren, Junzhe Zhu, Yihan Li, Zetong Bi et al. | [Abstract](https://arxiv.org/abs/2608.06833) · [PDF](https://arxiv.org/pdf/2608.06833) |
@@ -59,7 +60,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-05-23 | Transformers for Image-Goal Navigation | Nikhilanj Pelluri | [Abstract](https://arxiv.org/abs/2405.14128) · [PDF](https://arxiv.org/pdf/2405.14128) |
 | 2024-04-16 | SCALE: Self-Correcting Visual Navigation for Mobile Robots via Anti-Novelty Estimation | Chang Chen, Yuecheng Liu, Yuzheng Zhuang, Sitong Mao et al. | [Abstract](https://arxiv.org/abs/2404.10675) · [PDF](https://arxiv.org/pdf/2404.10675) |
 | 2024-04-15 | Real-world Instance-specific Image Goal Navigation: Bridging Domain Gaps via Contrastive Learning | Taichi Sakaguchi, Akira Taniguchi, Yoshinobu Hagiwara, Lotfi El Hafi et al. | [Abstract](https://arxiv.org/abs/2404.09645) · [PDF](https://arxiv.org/pdf/2404.09645) |
-| 2023-10-11 | FGPrompt: Fine-grained Goal Prompting for Image-goal Navigation | Xinyu Sun, Peihao Chen, Jugang Fan, Thomas H. Li et al. | [Abstract](https://arxiv.org/abs/2310.07473) · [PDF](https://arxiv.org/pdf/2310.07473) |
 
 ---
 

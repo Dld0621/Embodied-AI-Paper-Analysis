@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Hardware%20%26%20Morphology&specialty=Actuators%2C%20Joints%20%26%20Transmission#research-workbench)
 
-> 1 conference papers · 28 recent arXiv papers
+> 1 conference papers · 27 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | JiAo: A Versatile Snake Robot with Elliptical Wheels for Multimodal Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11247509) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247509) |
 
-## Recent arXiv papers (28)
+## Recent arXiv papers (27)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-07 | Higher-Order Morphology Priors for Quadruped Reinforcement Learning Under Actuator Degradation | Derek You, Zafir Shamsi, Keqin Wang, Christine Allen-Blanchette | [Abstract](https://arxiv.org/abs/2610.10934) · [PDF](https://arxiv.org/pdf/2610.10934) |
 | 2026-09-29 | From Sky to Soil: A Morphing Aerial-Ground Robot for Seed Deployment | Namai Chandra, Lining Yao | [Abstract](https://arxiv.org/abs/2609.37072) · [PDF](https://arxiv.org/pdf/2609.37072) |
 | 2026-09-24 | A Tendon-Driven Robotic Jellyfish with Constrained Soft Actuation and Depth Control via Reinforcement Learning | Jiarui Peng, Yutong Wu, Zelong Wang, Ping Deng et al. | [Abstract](https://arxiv.org/abs/2609.29132) · [PDF](https://arxiv.org/pdf/2609.29132) |
 | 2026-09-20 | Design and Control of a Cable-Driven Switchable Actuator with Torque/Tension Dual Modes for Exoskeletons | YuanLong Ji, Xu Liu, Xinyuan Cai, Qihan Ye et al. | [Abstract](https://arxiv.org/abs/2609.23487) · [PDF](https://arxiv.org/pdf/2609.23487) |
@@ -50,8 +51,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-04-08 | Online Self-body Image Acquisition Considering Changes in Muscle Routes Caused by Softness of Body Tissue for Tendon-driven Musculoskeletal Humanoids | Kento Kawaharazuka, Shogo Makino, Masaya Kawamura, Ayaka Fujii et al. | [Abstract](https://arxiv.org/abs/2404.05286) · [PDF](https://arxiv.org/pdf/2404.05286) |
 | 2024-04-08 | Online Learning of Joint-Muscle Mapping Using Vision in Tendon-driven Musculoskeletal Humanoids | Kento Kawaharazuka, Shogo Makino, Masaya Kawamura, Yuki Asano et al. | [Abstract](https://arxiv.org/abs/2404.05295) · [PDF](https://arxiv.org/pdf/2404.05295) |
 | 2024-02-08 | Learning to Control Emulated Muscles in Real Robots: Towards Exploiting Bio-Inspired Actuator Morphology | Pierre Schumacher, Lorenz Krause, Jan Schneider, Dieter Büchler et al. | [Abstract](https://arxiv.org/abs/2402.05371) · [PDF](https://arxiv.org/pdf/2402.05371) |
-| 2023-10-17 | Origami-inspired Bi-directional Actuator with Orthogonal Actuation | Shuai Liu, Sheeraz Athar, Michael Yu Wang | [Abstract](https://arxiv.org/abs/2310.10959) · [PDF](https://arxiv.org/pdf/2310.10959) |
-| 2023-10-15 | Self-Sustained And Coordinated Rhythmic Deformations With SMA For Controller-Free Locomotion | Ziyang Zhou, Suyi Li | [Abstract](https://arxiv.org/abs/2310.09913) · [PDF](https://arxiv.org/pdf/2310.09913) |
 
 ---
 

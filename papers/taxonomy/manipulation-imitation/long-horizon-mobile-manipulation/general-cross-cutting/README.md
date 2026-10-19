@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 20 conference papers · 77 recent arXiv papers
+> 20 conference papers · 81 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,12 +18,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | GAF: Gaussian Action Field as a 4D Representation for Dynamic World Modeling in Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2506.14135) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697292) |
+| 2026 | GAF: Gaussian Action Field as a 4D Representation for Dynamic World Modeling in Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2506.14135) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697292) |
 | 2025 | $A_{0}$: An Affordance-Aware Hierarchical Model for General Robotic Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/abs/2504.12636) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01253) |
 | 2025 | AR-VRM: Imitating Human Motions for Visual Robot Manipulation with Analogical Reasoning | ICCV · Human-video transfer | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_AR-VRM_Imitating_Human_Motions_for_Visual_Robot_Manipulation_with_Analogical_ICCV_2025_paper.html) · [Official](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_AR-VRM_Imitating_Human_Motions_for_Visual_Robot_Manipulation_with_Analogical_ICCV_2025_paper.html) · [Code](https://github.com/idejie/ar) |
 | 2025 | GraspCoT: Integrating Physical Property Reasoning for 6-DoF Grasping Under Flexible Language Instructions | ICCV · Grasp | [Paper](https://arxiv.org/pdf/2503.16013) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00944) |
-| 2025 | A Parameter-Efficient Tuning Framework for Language-Guided Object Grounding and Robot Grasping | ICRA · Grasp | [Paper](https://arxiv.org/abs/2409.19457) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128679) |
-| 2025 | AffordGrasp: In-Context Affordance Reasoning for Open-Vocabulary Task-Oriented Grasping in Clutter | IROS · Grasp | [Paper](https://arxiv.org/abs/2503.00778) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245995) |
+| 2025 | A Parameter-Efficient Tuning Framework for Language-Guided Object Grounding and Robot Grasping | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2409.19457) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128679) |
+| 2025 | AffordGrasp: In-Context Affordance Reasoning for Open-Vocabulary Task-Oriented Grasping in Clutter | IROS · Grasp | [Paper](https://arxiv.org/pdf/2503.00778) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245995) |
 | 2025 | Free-form language-based robotic reasoning and grasping | IROS · Grasp | [Paper](https://arxiv.org/abs/2503.13082) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246686) |
 | 2025 | Keypoint-Aware RAG for Robotic Manipulation: In-Context Constraint Learning via Large-Scale Retrieval | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246507) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246507) |
 | 2025 | PACR: Point-Axis Constraint Reasoning for Enhanced Robotic Manipulation with Dexterity and Compliance | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246460) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246460) |
@@ -39,10 +39,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Language Guided Robotic Grasping with Fine-Grained Instructions | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS55552.2023.10342331) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342331) |
 | 2022 | Sequential Manipulation Planning on Scene Graph | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2207.04364) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981735) |
 
-## Recent arXiv papers (77)
+## Recent arXiv papers (81)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-13 | RoboSimStudio: An Interactive Toolkit for Human and Agent Rapid Real2Sim of Robot Manipulation Tasks | Kaiyuan Chen, Shuangyu Xie, Uksang Yoo, Xinyue Zhu et al. | [Abstract](https://arxiv.org/abs/2610.18835) · [PDF](https://arxiv.org/pdf/2610.18835) |
+| 2026-10-12 | PINT: A Unified Model with Shared Predictive Intent for Robot Manipulation | Xinyu Guo, Chao Jing, Li Yi, Xingyu Chen et al. | [Abstract](https://arxiv.org/abs/2610.16355) · [PDF](https://arxiv.org/pdf/2610.16355) |
+| 2026-10-06 | PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation | Kun Song, Yiming Wang, Yilin Chen, Tianyi Ding et al. | [Abstract](https://arxiv.org/abs/2610.08784) · [PDF](https://arxiv.org/pdf/2610.08784) |
 | 2026-10-02 | Skill2Real: Agentic Skill Learning for Zero-Shot Sim-to-Real Robot Manipulation | Xincheng He, Siyu Ma, Chang Yu, Yunuo Chen et al. | [Abstract](https://arxiv.org/abs/2610.02788) · [PDF](https://arxiv.org/pdf/2610.02788) |
 | 2026-09-27 | CodeActionBench: Evaluating Agentic Code-as-Policy for Embodied Manipulation | Yiheng Lyu, Xueying Jiang, Wenhao Li, Shijian Lu et al. | [Abstract](https://arxiv.org/abs/2609.33807) · [PDF](https://arxiv.org/pdf/2609.33807) |
 | 2026-09-25 | DualManip: Agentic Dynamic Manipulation via Dual-Path Semantic Reasoning and Geometric Adaptation | Chengxi Li, Yan Di, Yingyue Li, Ruida Zhang et al. | [Abstract](https://arxiv.org/abs/2609.31112) · [PDF](https://arxiv.org/pdf/2609.31112) |
@@ -60,6 +63,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-06 | Geometry-Aware Motion Latents for Learning Robust Manipulation Policies | Yunchao Zhang, Yijia Weng, Ruizhe Liu, Ming Hu et al. | [Abstract](https://arxiv.org/abs/2607.04714) · [PDF](https://arxiv.org/pdf/2607.04714) |
 | 2026-06-22 | LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation | Jiaming Liu, Yinxi Wang, Chenyang Gu, Siyuan Qian et al. | [Abstract](https://arxiv.org/abs/2606.23685) · [PDF](https://arxiv.org/pdf/2606.23685) |
 | 2026-06-12 | AERMANI-PLACE: Language Guided Object Placement with Aerial Manipulators | Sarthak Mishra, Ritama Sanyal, Rishabh Dev Yadav, Wei Pan et al. | [Abstract](https://arxiv.org/abs/2606.14531) · [PDF](https://arxiv.org/pdf/2606.14531) |
+| 2026-06-11 | Robo2Process: Benchmarking and Learning Process-Aware Understanding in Vision-Language Robotic Manipulation | Dayu Xia, Yue Shi, Yao Mu, Huiting Ji et al. | [Abstract](https://arxiv.org/abs/2606.13040) · [PDF](https://arxiv.org/pdf/2606.13040) |
 | 2026-06-07 | GEAR-VLA: Learning Geometry-Aware Action Representations for Generalizable Robotic Manipulation | Yuan Zhang, Shiqi Zhang, Yedong Shen, Shuai Dong et al. | [Abstract](https://arxiv.org/abs/2606.08530) · [PDF](https://arxiv.org/pdf/2606.08530) |
 | 2026-06-02 | Affordance2Action: Task-Conditioned Scene-level Affordance Grounding for Real-Time Manipulation | Litao Liu, Yifan Han, Pengfei Yi, Wenbo Yu et al. | [Abstract](https://arxiv.org/abs/2606.04172) · [PDF](https://arxiv.org/pdf/2606.04172) |
 | 2026-05-06 | ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation | Wei Li, Jizhihui Liu, Li Yixing, Junwen Tong et al. | [Abstract](https://arxiv.org/abs/2605.05126) · [PDF](https://arxiv.org/pdf/2605.05126) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=VLA%20Architectures&specialty=Action%20Tokenization%20%26%20Decoding#research-workbench)
 
-> 1 conference papers · 74 recent arXiv papers
+> 1 conference papers · 87 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,12 +18,26 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | SlotVLA: Towards Modeling of Object-Relation Representations in Robotic Manipulation | ICRA · Vla | [Paper](https://arxiv.org/abs/2511.06754) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695805) |
+| 2026 | SlotVLA: Towards Modeling of Object-Relation Representations in Robotic Manipulation | ICRA · Vla | [Paper](https://arxiv.org/pdf/2511.06754) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695805) |
 
-## Recent arXiv papers (74)
+## Recent arXiv papers (87)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-16 | Unifying Embodied Foundation Models via a Model-to-Policy Formulation | Xinyi Hong, Mingyang Ren | [Abstract](https://arxiv.org/abs/2610.23053) · [PDF](https://arxiv.org/pdf/2610.23053) |
+| 2026-10-15 | Policy-Aligned Predictive Verification for Adaptive VLA Action-Chunk Execution | Minkyu Kim, Junhoo Lee, Seungyeon Kim, Suhyun Jeon et al. | [Abstract](https://arxiv.org/abs/2610.21434) · [PDF](https://arxiv.org/pdf/2610.21434) |
+| 2026-10-14 | FoveaVLA: Foveation Actions Replace the Wrist Camera in VLAs | Bingao Chen, Lihan Zha, C. Karen Liu, Guy Tevet | [Abstract](https://arxiv.org/abs/2610.20064) · [PDF](https://arxiv.org/pdf/2610.20064) |
+| 2026-10-14 | Accelerating VLA Inference with Perturbation Informed Execution | Jehun Lee, Hajun Lee, Jimin Ryu, Youhan Lee et al. | [Abstract](https://arxiv.org/abs/2610.19656) · [PDF](https://arxiv.org/pdf/2610.19656) |
+| 2026-10-13 | ForkCast: Predictive Recovery for Vision-Language-Action Policies via Counterfactual Futures | Chenru Wen, Huajian Zeng, Haokai Ding, Jian Kang et al. | [Abstract](https://arxiv.org/abs/2610.18650) · [PDF](https://arxiv.org/pdf/2610.18650) |
+| 2026-10-12 | D-World: An Explicit World-Language-Action Model with Recursive Self-Improvement under Dual Control | Xuan Wen, Baichao Wang | [Abstract](https://arxiv.org/abs/2610.17114) · [PDF](https://arxiv.org/pdf/2610.17114) |
+| 2026-10-11 | Vision-Predictor-Action: Towards Efficient Embodied AI via Neuro-Symbolic JEPA Predictors | Yeonseok Lee | [Abstract](https://arxiv.org/abs/2610.15556) · [PDF](https://arxiv.org/pdf/2610.15556) |
+| 2026-10-09 | Axiom-0: Hierarchical Self-Refinement for Vision-Language-Action Policies | Renbin Shu, Jing Yang, Xiangyuan You, Guolin Qiu et al. | [Abstract](https://arxiv.org/abs/2610.14155) · [PDF](https://arxiv.org/pdf/2610.14155) |
+| 2026-10-06 | StairVLA: Stage-Aware Hierarchical Action Generation for Vision-Language-Action Models | Shangyuan Yuan, Xinda Qi, Yujiang Pu, Wenliang Guo et al. | [Abstract](https://arxiv.org/abs/2610.07756) · [PDF](https://arxiv.org/pdf/2610.07756) |
+| 2026-10-06 | ESP: Energy-Score Policy for One-Step Multimodal Action Generation | Lilika Makabe, Heecheol Kim, Yasuyuki Matsushita | [Abstract](https://arxiv.org/abs/2610.07696) · [PDF](https://arxiv.org/pdf/2610.07696) |
+| 2026-10-06 | Beyond Reconstruction: What Matters in Action Tokenization for Robot Policies? | Haoran Chen, Jingtian Ji, Samuel Wheeler, Kaylene Caswell Stocking et al. | [Abstract](https://arxiv.org/abs/2610.09170) · [PDF](https://arxiv.org/pdf/2610.09170) |
+| 2026-10-06 | Adapting Vision-Language-Action Models to Unknown Visual Disruptions During Execution | Ahin Lee, Jinwoo Seo, Youngsoo Jang, Taesik Gong | [Abstract](https://arxiv.org/abs/2610.07946) · [PDF](https://arxiv.org/pdf/2610.07946) |
+| 2026-10-05 | When to Switch: Reliable Action-Chunk Extension for Vision-Language-Action Models | Seonghoon Yu, Dongwon Kim, HyungRok Jung, Yoonjae Baek et al. | [Abstract](https://arxiv.org/abs/2610.05719) · [PDF](https://arxiv.org/pdf/2610.05719) |
+| 2026-10-02 | SUAVE: Unified Video-Action Models via Masked Diffusion | Rhythm Syed, Jean Mercat, Sedrick Keh, Kushal Arora et al. | [Abstract](https://arxiv.org/abs/2610.04009) · [PDF](https://arxiv.org/pdf/2610.04009) |
 | 2026-09-30 | MotionWeave: Learning Motion-Centered Future Dynamics for Vision-Language-Action Policies | Jingqiu Wang, Yan Wang | [Abstract](https://arxiv.org/abs/2609.39324) · [PDF](https://arxiv.org/pdf/2609.39324) |
 | 2026-09-28 | Don't Throw Away the Tail: Action Upcycling for Policy Acceleration | Taesung Kwon, Jangho Park, Sunwoo Park, Youngmin Kim et al. | [Abstract](https://arxiv.org/abs/2609.34911) · [PDF](https://arxiv.org/pdf/2609.34911) |
 | 2026-09-26 | Are Vision-Language-Action Models Robust to One-Step Observation Perturbations? | Shojiro Yamabe, Jun Sakuma | [Abstract](https://arxiv.org/abs/2609.32550) · [PDF](https://arxiv.org/pdf/2609.32550) |
@@ -76,7 +90,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-04-17 | ReconVLA: An Uncertainty-Guided and Failure-Aware Vision-Language-Action Framework for Robotic Control | Lingling Chen, Zongyao Lyu, William J. Beksi | [Abstract](https://arxiv.org/abs/2604.16677) · [PDF](https://arxiv.org/pdf/2604.16677) |
 | 2026-04-06 | StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing | StarVLA Community | [Abstract](https://arxiv.org/abs/2604.05014) · [PDF](https://arxiv.org/pdf/2604.05014) |
 | 2026-03-26 | MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation | Yang Liu, Pengxiang Ding, Tengyue Jiang, Xudong Wang et al. | [Abstract](https://arxiv.org/abs/2603.25406) · [PDF](https://arxiv.org/pdf/2603.25406) |
-| 2026-03-18 | Action Draft and Verify: A Self-Verifying Framework for Vision-Language-Action Model | Chen Zhao, Zhuoran Wang, Haoyang Li, Shifeng Bao et al. | [Abstract](https://arxiv.org/abs/2603.18091) · [PDF](https://arxiv.org/pdf/2603.18091) |
 | 2026-03-10 | AR-VLA: True Autoregressive Action Expert for Vision-Language-Action Models | Yutong Hu, Jan-Nico Zaech, Nikolay Nikolov, Yuanqi Yao et al. | [Abstract](https://arxiv.org/abs/2603.10126) · [PDF](https://arxiv.org/pdf/2603.10126) |
 | 2026-02-24 | VLA Knows Its Limits: Adaptive Execution Horizons for Robot Policies | Haoxuan Wang, Gengyu Zhang, Yan Yan, Ramana Rao Kompella et al. | [Abstract](https://arxiv.org/abs/2602.21445) · [PDF](https://arxiv.org/pdf/2602.21445) |
 | 2026-02-17 | ActionCodec: What Makes for Good Action Tokenizers | Zibin Dong, Yicheng Liu, Shiduo Zhang, Baijun Ye et al. | [Abstract](https://arxiv.org/abs/2602.15397) · [PDF](https://arxiv.org/pdf/2602.15397) |

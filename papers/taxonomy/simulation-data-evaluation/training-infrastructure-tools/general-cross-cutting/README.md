@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Training%20Infrastructure%20%26%20Tools&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 1 conference papers · 48 recent arXiv papers
+> 1 conference papers · 47 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,7 +20,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | ORBiT: Optimizing Robot-Assisted Bite Transfer Leveraging a Real2Sim2Real Framework | IROS · Sim2Real | [Paper](https://doi.org/10.1109/IROS60139.2025.11247185) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247185) |
 
-## Recent arXiv papers (48)
+## Recent arXiv papers (47)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -28,7 +28,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-09-15 | DriveMCP: An Agentic AI framework for Advanced Driver Assistance System | Farzad Nadiri, Mehdi Cina, Ahmad B. Rad | [Abstract](https://arxiv.org/abs/2609.17247) · [PDF](https://arxiv.org/pdf/2609.17247) |
 | 2026-09-07 | Conflict-Predictive Variable Horizons in Multi-Drone Distributed Model Predictive Control | Linda Mümken, Michael Schwung, Stefan Lier, Andreas Schwung | [Abstract](https://arxiv.org/abs/2609.13270) · [PDF](https://arxiv.org/pdf/2609.13270) |
 | 2026-06-07 | HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning | Zechu Li, Yufeng Jin, Xiaoyang Liu, Puze Liu et al. | [Abstract](https://arxiv.org/abs/2606.08610) · [PDF](https://arxiv.org/pdf/2606.08610) |
-| 2026-06-02 | GPU-Parallel Multi-Task Reinforcement Learning with Demonstration Guided Policy Optimization | Rui Zhang, Qiwei Wu, Zhengyu Zhang, Tao Li et al. | [Abstract](https://arxiv.org/abs/2606.03335) · [PDF](https://arxiv.org/pdf/2606.03335) |
+| 2026-06-02 | A GPU-Parallel Framework for Heterogeneous Multi-Task Reinforcement Learning | Rui Zhang, Qiwei Wu, Zhengyu Zhang, Tao Li et al. | [Abstract](https://arxiv.org/abs/2606.03335) · [PDF](https://arxiv.org/pdf/2606.03335) |
 | 2026-05-28 | Structured interactions improve distributed coordination beyond model scaling in a real-world multi-robot system | Junping Wang, Zhizhong Zhang, Yongqiang Tang, Geng Zheng et al. | [Abstract](https://arxiv.org/abs/2605.30383) · [PDF](https://arxiv.org/pdf/2605.30383) |
 | 2026-05-21 | TriSweep: A Four-Drone Swarm Framework for Electromagnetic Side-Channel Analysis | Eric Yocam, Varghese Vaidyan | [Abstract](https://arxiv.org/abs/2605.22709) · [PDF](https://arxiv.org/pdf/2605.22709) |
 | 2026-05-13 | OmniLiDAR: A Unified Diffusion Framework for Multi-Domain 3D LiDAR Generation | Youquan Liu, Weidong Yang, Ao Liang, Xiang Xu et al. | [Abstract](https://arxiv.org/abs/2605.13815) · [PDF](https://arxiv.org/pdf/2605.13815) |
@@ -44,7 +44,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-01-16 | UAV-Based Infrastructure Inspections: A Literature Review and Proposed Framework for AEC+FM | Amir Farzin Nikkhah, Dong Chen, Bradford Campbell, Somayeh Asadi et al. | [Abstract](https://arxiv.org/abs/2601.11665) · [PDF](https://arxiv.org/pdf/2601.11665) |
 | 2025-12-12 | CarlaNCAP: A Framework for Quantifying the Safety of Vulnerable Road Users in Infrastructure-Assisted Collective Perception Using EuroNCAP Scenarios | Jörg Gamerdinger, Sven Teufel, Simon Roller, Oliver Bringmann | [Abstract](https://arxiv.org/abs/2512.11551) · [PDF](https://arxiv.org/pdf/2512.11551) |
 | 2025-11-14 | LAVQA: A Latency-Aware Visual Question Answering Framework for Shared Autonomy in Self-Driving Vehicles | Shuangyu Xie, Kaiyuan Chen, Wenjing Chen, Chengyuan Qian et al. | [Abstract](https://arxiv.org/abs/2511.11840) · [PDF](https://arxiv.org/pdf/2511.11840) |
-| 2025-09-26 | A Framework for Scalable Heterogeneous Multi-Agent Adversarial Reinforcement Learning in IsaacLab | Isaac Peterson, Christopher Allred, Jacob Morrey, Mario Harper | [Abstract](https://arxiv.org/abs/2510.01264) · [PDF](https://arxiv.org/pdf/2510.01264) |
 | 2025-09-09 | Attention and Risk-Aware Decision Framework for Safe Autonomous Driving | Zhen Tian, Fujiang Yuan, Yangfan He, Qinghao Li et al. | [Abstract](https://arxiv.org/abs/2509.07412) · [PDF](https://arxiv.org/pdf/2509.07412) |
 | 2025-09-09 | Adaptive Evolutionary Framework for Safe, Efficient, and Cooperative Autonomous Vehicle Interactions | Yijun Lu, Zhen Tian, Zhihao Lin | [Abstract](https://arxiv.org/abs/2509.07411) · [PDF](https://arxiv.org/pdf/2509.07411) |
 | 2025-08-29 | Robust Real-Time Coordination of CAVs: A Distributed Optimization Framework under Uncertainty | Haojie Bai, Tingting Zhang, Cong Guo, Yang Wang et al. | [Abstract](https://arxiv.org/abs/2508.21322) · [PDF](https://arxiv.org/pdf/2508.21322) |
