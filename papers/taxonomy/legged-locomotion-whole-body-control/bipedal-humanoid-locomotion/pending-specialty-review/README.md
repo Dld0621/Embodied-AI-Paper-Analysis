@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Pending%20specialty%20review#research-workbench)
 
-> 162 conference papers · 514 recent arXiv papers
+> 162 conference papers · 521 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -187,10 +187,24 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Torque-Actuated Multimodal Locomotion of Ferrofluid Robot With Environment and Task Adaptability | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9981041) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981041) | needs-review |
 | 2022 | Rapid locomotion via reinforcement learning | RSS · Locomotion | [Paper](https://arxiv.org/pdf/2205.02824) · [Publisher](https://doi.org/10.1177/02783649231224053) | needs-review |
 
-## Recent arXiv papers (514)
+## Recent arXiv papers (521)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | Humanoid Mobility via Attention-based Contacts | Junzhe He, Kehan Wen, Chong Zhang, Clemens Schwarke et al. | [Abstract](https://arxiv.org/abs/2610.31608) · [PDF](https://arxiv.org/pdf/2610.31608) | needs-review |
+| 2026-10-21 | PHD-Hand: A Printable Humanoid Dexterous Hand with Linkage-Driven 3-DOA Digits | Neel Adwani, Muhaiminul Islam Akash, Saffia Ouali, Ethan Liu et al. | [Abstract](https://arxiv.org/abs/2610.29030) · [PDF](https://arxiv.org/pdf/2610.29030) | needs-review |
+| 2026-10-21 | MPBRS: Multi-Potential-Based Reward Shaping for Unified Reward Configuration in Humanoid Locomotion | Van Chung Nguyen, Hung Manh La | [Abstract](https://arxiv.org/abs/2610.30334) · [PDF](https://arxiv.org/pdf/2610.30334) | needs-review |
+| 2026-10-21 | Do Earth-Trained Humanoid Controllers Walk on the Moon? Gravity, Terrain, and Soil Transfer | Guillem Casadesus Vila, Sri Aditya Deevi, Grace X. Gao | [Abstract](https://arxiv.org/abs/2610.30080) · [PDF](https://arxiv.org/pdf/2610.30080) | needs-review |
+| 2026-10-20 | Warping the Workspace: Expanding Visual Access with Adjustable Reach Mapping for Humanoid Teleoperation | Keigo Minamida, Koya Dendo, Yuto Nakamura, Jun Rekimoto | [Abstract](https://arxiv.org/abs/2610.28712) · [PDF](https://arxiv.org/pdf/2610.28712) | needs-review |
+| 2026-10-20 | Temporal Difference Learning of Probabilistic Reach-Avoid Value Functions | Elias Fontanari, Pietro Noah Crestaz, Matteo Saveriano, Andrea Del Prete | [Abstract](https://arxiv.org/abs/2610.28106) · [PDF](https://arxiv.org/pdf/2610.28106) | needs-review |
+| 2026-10-20 | COWBOY: A Scalable Sim-to-Real Framework for Learning Contextual Whole-Body Manipulation | Jiahui Yang, Jason Jingzhou Liu, Ray Muxin Liu, Andrew E. Wang et al. | [Abstract](https://arxiv.org/abs/2610.28948) · [PDF](https://arxiv.org/pdf/2610.28948) | needs-review |
+| 2026-10-19 | Visual Task Modeling and Automated Planning for Humanoid Robots in Education of Individuals with Autism Spectrum Disorder | Lada Kudláčková | [Abstract](https://arxiv.org/abs/2610.27162) · [PDF](https://arxiv.org/pdf/2610.27162) | needs-review |
+| 2026-10-19 | EmbodyHOI: Embodiment-Aware Generation of Hand-Object Interactions for Humanoid Dexterous Manipulation | Chaitanya Chawla, Kartik Sharma, Ananya Bal, Laszlo A. Jeni et al. | [Abstract](https://arxiv.org/abs/2610.27242) · [PDF](https://arxiv.org/pdf/2610.27242) | needs-review |
+| 2026-10-18 | Vision as Proprioception: Estimating Humanoid Robot Pose from Video | Jiaxi Jiang, Matthias Heyrman, René Zurbrügg, Marco Hutter et al. | [Abstract](https://arxiv.org/abs/2610.25288) · [PDF](https://arxiv.org/pdf/2610.25288) | needs-review |
+| 2026-10-17 | SocialCoAct: Enabling and Benchmarking Egocentric Social Co-Action for VLM-Based Humanoid Robots | Jiancong Ma, Kun Li, Jin Jiang, Shengcai Liao | [Abstract](https://arxiv.org/abs/2610.24559) · [PDF](https://arxiv.org/pdf/2610.24559) | needs-review |
+| 2026-10-16 | Evaluating Lightweight Contact Feedback in Dual-Operator Collaborative Humanoid Teleoperation | Austin Graves, Chuizheng Kong, Yunho Cho, Yuanshao Yang et al. | [Abstract](https://arxiv.org/abs/2610.24257) · [PDF](https://arxiv.org/pdf/2610.24257) | needs-review |
+| 2026-10-16 | CoEvolve: Self-Evolving Code Policies from Skills to Strategies for Humanoid Robots | Zicheng Liu, Haochen Wu, Jiawei He, Suyun Zhao et al. | [Abstract](https://arxiv.org/abs/2610.23288) · [PDF](https://arxiv.org/pdf/2610.23288) | needs-review |
+| 2026-10-15 | Whole-Body Dexterity | Conor Mc Gartoll, An Dang, Pranay Thangeda, Arjun Gupta et al. | [Abstract](https://arxiv.org/abs/2610.22184) · [PDF](https://arxiv.org/pdf/2610.22184) | needs-review |
 | 2026-10-14 | RoboSpan: Learning Modular Coordination Policies for High-DoF Whole-Body Mobile Manipulation with Teleoperation | Keqiang Ren, Xuecheng Ye, Hanyu Liu, Zhihua Wang et al. | [Abstract](https://arxiv.org/abs/2610.19594) · [PDF](https://arxiv.org/pdf/2610.19594) | needs-review |
 | 2026-10-13 | Locomotion with Online Awareness of Dynamics for Precision Footholds | Kunzhao Ren, Zhishuo Zhu, Xiaobin Xiong | [Abstract](https://arxiv.org/abs/2610.17930) · [PDF](https://arxiv.org/pdf/2610.17930) | needs-review |
 | 2026-10-13 | I3L: Iterative Interactive Imitation Learning for Whole-Body Mobile Manipulation | Wensi Ai, Christopher Luey, Karthik Dharmarajan, Evans Han et al. | [Abstract](https://arxiv.org/abs/2610.17748) · [PDF](https://arxiv.org/pdf/2610.17748) | needs-review |
@@ -595,7 +609,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-10-10 | Streamlined shape of cyborg cockroach promotes traversability in confined environments by gap negotiation | Kazuki Kai, Le Duc Long, Hirotaka Sato | [Abstract](https://arxiv.org/abs/2410.07558) · [PDF](https://arxiv.org/pdf/2410.07558) | needs-review |
 | 2024-10-10 | Guiding Collision-Free Humanoid Multi-Contact Locomotion using Convex Kinematic Relaxations and Dynamic Optimization | Carlos Gonzalez, Luis Sentis | [Abstract](https://arxiv.org/abs/2410.08335) · [PDF](https://arxiv.org/pdf/2410.08335) | needs-review |
 | 2024-10-04 | Learning Humanoid Locomotion over Challenging Terrain | Ilija Radosavovic, Sarthak Kamat, Trevor Darrell, Jitendra Malik | [Abstract](https://arxiv.org/abs/2410.03654) · [PDF](https://arxiv.org/pdf/2410.03654) | needs-review |
-| 2024-10-04 | Latent Action Priors for Locomotion with Deep Reinforcement Learning | Oliver Hausdörfer, Alexander von Rohr, Éric Lefort, Angela Schoellig | [Abstract](https://arxiv.org/abs/2410.03246) · [PDF](https://arxiv.org/pdf/2410.03246) | needs-review |
 | 2024-10-01 | Human-Robot Collaborative Minimum Time Search through Sub-priors in Ant Colony Optimization | Oscar Gil Viyuela, Alberto Sanfeliu | [Abstract](https://arxiv.org/abs/2410.00517) · [PDF](https://arxiv.org/pdf/2410.00517) | needs-review |
 | 2024-10-01 | An Approach to Elicit Human-Understandable Robot Expressions to Support Human-Robot Interaction | Jan Leusmann, Steeven Villa, Thomas Liang, Chao Wang et al. | [Abstract](https://arxiv.org/abs/2410.01071) · [PDF](https://arxiv.org/pdf/2410.01071) | needs-review |
 | 2024-09-30 | Bi-stable thin soft robot for in-plane locomotion in narrow space | Xi Wang, Jung-che Chang, Feiran Wang, Dragos Axinte et al. | [Abstract](https://arxiv.org/abs/2409.20261) · [PDF](https://arxiv.org/pdf/2409.20261) | needs-review |
@@ -699,12 +712,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-01 | Mechanically-Inflatable Bio-Inspired Locomotion for Robotic Pipeline Inspection | Mostafa A. Atalla, Fabian Trauzettel, Sebastiaan P. van Gelder, Paul Breedveld et al. | [Abstract](https://arxiv.org/abs/2311.00232) · [PDF](https://arxiv.org/pdf/2311.00232) | needs-review |
 | 2023-10-25 | Toward the use of proxies for efficient learning manipulation and locomotion strategies on soft robots | Etienne Ménager, Quentin Peyron, Christian Duriez | [Abstract](https://arxiv.org/abs/2310.17029) · [PDF](https://arxiv.org/pdf/2310.17029) | needs-review |
 | 2023-10-25 | Aplicacion de Robots Humanoides como Guias Interactivos en Museos: Una Simulacion con el Robot NAO | Hiago Sodre, Pablo Moraes, Monica Rodriguez, Victor Castelli et al. | [Abstract](https://arxiv.org/abs/2310.17060) · [PDF](https://arxiv.org/pdf/2310.17060) | needs-review |
-| 2023-10-23 | AutoTrans: A Complete Planning and Control Framework for Autonomous UAV Payload Transportation | Haojia Li, Haokun Wang, Chen Feng, Fei Gao et al. | [Abstract](https://arxiv.org/abs/2310.15050) · [PDF](https://arxiv.org/pdf/2310.15050) | needs-review |
-| 2023-10-18 | Plan-Guided Reinforcement Learning for Whole-Body Manipulation | Mengchao Zhang, Jose Barreiros, Aykut Ozgun Onol | [Abstract](https://arxiv.org/abs/2310.12263) · [PDF](https://arxiv.org/pdf/2310.12263) | needs-review |
-| 2023-10-17 | Underwater and Surface Aquatic Locomotion of Soft Biomimetic Robot Based on Bending Rolled Dielectric Elastomer Actuators | Chenyu Zhang, Chen Zhang, Juntian Qu, Xiang Qian | [Abstract](https://arxiv.org/abs/2310.11426) · [PDF](https://arxiv.org/pdf/2310.11426) | needs-review |
-| 2023-10-16 | Manta Ray Inspired Flapping-Wing Blimp | Kentaro Nojima-Schmunk, David Turzak, Kevin Kim, Andrew Vu et al. | [Abstract](https://arxiv.org/abs/2310.10853) · [PDF](https://arxiv.org/pdf/2310.10853) | needs-review |
-| 2023-10-15 | Self-Sustained And Coordinated Rhythmic Deformations With SMA For Controller-Free Locomotion | Ziyang Zhou, Suyi Li | [Abstract](https://arxiv.org/abs/2310.09913) · [PDF](https://arxiv.org/pdf/2310.09913) | needs-review |
-| 2023-10-15 | Generalizable whole-body global manipulation of deformable linear objects by dual-arm robot in 3-D constrained environments | Mingrui Yu, Kangchen Lv, Changhao Wang, Yongpeng Jiang et al. | [Abstract](https://arxiv.org/abs/2310.09899) · [PDF](https://arxiv.org/pdf/2310.09899) | needs-review |
 
 ---
 

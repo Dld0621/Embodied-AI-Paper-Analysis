@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Pending%20specialty%20review#research-workbench)
 
-> 42 conference papers · 106 recent arXiv papers
+> 42 conference papers · 108 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -32,7 +32,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | SuckTac: Camera-based Tactile Sucker for Unstructured Surface Perception and Interaction | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2511.02294) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696453) | needs-review |
 | 2026 | Tactile Hide and Seek: Bimanual Object Blind Search and Retrieval via Tactile-Only Feedback | ICRA · Bimanual | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696735) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696735) | needs-review |
 | 2025 | Learning Active Tactile Perception Through Belief-Space Control | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2312.00215) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127425) | needs-review |
-| 2025 | ShadowTac: Dense Measurement of Shear and Normal Deformation of a Tactile Membrane from Colored Shadows | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128441) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128441) | needs-review |
+| 2025 | ShadowTac: Dense Measurement of Shear and Normal Deformation of a Tactile Membrane from Colored Shadows | ICRA · Tactile | [Paper](https://infoscience.epfl.ch/handle/20.500.14299/254682) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128441) | needs-review |
 | 2025 | Whisker-Based Active Tactile Perception for Contour Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2507.23305) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128114) | needs-review |
 | 2024 | A Robust Model Predictive Controller for Tactile Servoing | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611317) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611317) | needs-review |
 | 2024 | Tactile Estimation of Extrinsic Contact Patch for Stable Placement | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2309.14552) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611504) | needs-review |
@@ -67,10 +67,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Soft Tactile Contour Following for Robot-Assisted Wiping and Bathing | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS47612.2022.9982071) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982071) | needs-review |
 | 2022 | Action Conditioned Tactile Prediction: a case study on slip prediction | RSS · Tactile | [Paper](https://arxiv.org/pdf/2205.09430) · [Index](https://dblp.org/rec/journals/corr/abs-2205-09430) | needs-review |
 
-## Recent arXiv papers (106)
+## Recent arXiv papers (108)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-20 | GPT-6-Astra Understands Touch and Outperform Vision--Tactile--Language--Action Models | Ziyong Wang, Yupei Lin, Runxuan Huang, Liang Lin et al. | [Abstract](https://arxiv.org/abs/2610.28457) · [PDF](https://arxiv.org/pdf/2610.28457) | needs-review |
+| 2026-10-17 | Touch Where It Matters: Learning Local Tactile Policies for Fine-Grained Gripper Control | Mingyuan Ba, Yanan Zhou, James Zhao, Weiming Zhi | [Abstract](https://arxiv.org/abs/2610.24485) · [PDF](https://arxiv.org/pdf/2610.24485) | needs-review |
 | 2026-10-13 | TacSpin: Tactile Tracking of In-Gripper Object Rotation on SO(3) via Axis-Magnitude Estimation | Yuhao Wu, Linhao Song, Huan Yin | [Abstract](https://arxiv.org/abs/2610.17574) · [PDF](https://arxiv.org/pdf/2610.17574) | needs-review |
 | 2026-10-12 | FEM-Validated Real-Time Modelling of Soft Tactile Deformation | Silvia Terrile, Kaichen Shi, Taejun Kwon, Jiseok Lee et al. | [Abstract](https://arxiv.org/abs/2610.16667) · [PDF](https://arxiv.org/pdf/2610.16667) | needs-review |
 | 2026-10-07 | OpenViTac: Learning and Benchmarking Visuo-Tactile Policies in a Unified Sim-and-Real Framework | Yifan Wu, Qin Li, Nan Min, Guojin Zhong et al. | [Abstract](https://arxiv.org/abs/2610.10384) · [PDF](https://arxiv.org/pdf/2610.10384) | needs-review |

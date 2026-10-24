@@ -1,12 +1,12 @@
 # OOD & Uncertainty Evaluation · 分布外与不确定性评估
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Safety%20%26%20Reliability%20Evaluation&specialty=OOD%20%26%20Uncertainty%20Evaluation#research-workbench)
 
-> 8 conference papers · 142 recent arXiv papers
+> 8 conference papers · 144 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,10 +33,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | HRP: Human Affordances for Robotic Pre-Training | RSS · Affordance | [Paper](https://arxiv.org/abs/2407.18911) · [Index](https://dblp.org/rec/conf/rss/SriramaDB024) | rule-assigned |
 | 2023 | HYDRA: Hybrid Robot Actions for Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2306.17237) · [Index](https://dblp.org/rec/journals/corr/abs-2306-17237) | rule-assigned |
 
-## Recent arXiv papers (142)
+## Recent arXiv papers (144)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-18 | Learning When to Adapt: Reactivity-Conditioned Residual Adaptation under Human-Robot Distribution Shift | Immanuel R. Santjoko, Benedictus C. G. Cinun, Jing Chen, Bin Hu | [Abstract](https://arxiv.org/abs/2610.25419) · [PDF](https://arxiv.org/pdf/2610.25419) | rule-assigned |
+| 2026-10-15 | CoDA: Co-Evolution of Data Engines and Action Policies | Tianjiao Yu, Zhilin Ou, Yifan Shen, Xinzhuo Li et al. | [Abstract](https://arxiv.org/abs/2610.22362) · [PDF](https://arxiv.org/pdf/2610.22362) | rule-assigned |
 | 2026-10-12 | MOSAIC: Mode- and Support-Aware Inference-Time Control of Robot Diffusion Models | Sabrina Bodmer, Rahel Rickenbach, René Zurbrügg, Melanie N. Zeilinger et al. | [Abstract](https://arxiv.org/abs/2610.17001) · [PDF](https://arxiv.org/pdf/2610.17001) | rule-assigned |
 | 2026-10-08 | Higher-Order Action Supervision Makes A Strong Policy Class | Peng Cheng, Yunxian Hou, Zhi Zhou, Qian Zhang et al. | [Abstract](https://arxiv.org/abs/2610.11175) · [PDF](https://arxiv.org/pdf/2610.11175) | rule-assigned |
 | 2026-10-05 | Robotizing Human Videos with Physically Consistent Interactions | Ching-Lam Cheng, Shengfeng He, Bin Zhu | [Abstract](https://arxiv.org/abs/2610.06137) · [PDF](https://arxiv.org/pdf/2610.06137) | rule-assigned |

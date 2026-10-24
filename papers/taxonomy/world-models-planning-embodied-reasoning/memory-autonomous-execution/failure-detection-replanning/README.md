@@ -1,12 +1,12 @@
 # Failure Detection & Replanning · 失败检测、纠错与重规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Memory%20%26%20Autonomous%20Execution&specialty=Failure%20Detection%20%26%20Replanning#research-workbench)
 
-> 10 conference papers · 155 recent arXiv papers
+> 10 conference papers · 159 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -35,10 +35,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots | IROS · Llm | [Paper](https://arxiv.org/pdf/2507.05118) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246320) | rule-assigned |
 | 2023 | BITS: Bi-level Imitation for Traffic Simulation | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2208.12403) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161167) | rule-assigned |
 
-## Recent arXiv papers (155)
+## Recent arXiv papers (159)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | Progress Probes $P^2$: Lightweight Runtime Monitoring for Vision-Language-Action Models | Atiksh Bhardwaj, Edward W. Duan, Junwon Seo, Prithwish Dan et al. | [Abstract](https://arxiv.org/abs/2610.31613) · [PDF](https://arxiv.org/pdf/2610.31613) | reviewed |
+| 2026-10-22 | LAST-V2X: Language-Driven Adaptive Scenario Synthesis and Testing for Communication-Induced Failures in V2X Safety Applications | Keshu Wu, Hao Zhang, Rui Gan, Pei Li et al. | [Abstract](https://arxiv.org/abs/2610.30979) · [PDF](https://arxiv.org/pdf/2610.30979) | rule-assigned |
+| 2026-10-21 | CausGround: Causal Interaction Grounding for Adaptive Embodied Planning | Yijun Shen, Diqi He, Jinbang Guo, Wanyue Zhang et al. | [Abstract](https://arxiv.org/abs/2610.29702) · [PDF](https://arxiv.org/pdf/2610.29702) | rule-assigned |
+| 2026-10-17 | Refuse the Harm, Complete the Task via Graph-of-Rules Planning for LLM-Enabled Robots | Ali Taheri, Alireza Taban, Qizhou Wang, Wanhua Li | [Abstract](https://arxiv.org/abs/2610.24603) · [PDF](https://arxiv.org/pdf/2610.24603) | rule-assigned |
 | 2026-10-13 | YUBI-Real2Sim: 3DGS Scene Verification for Reliable Policy Evaluation | Hiroki Nishizawa, Takehiko Ohkawa, Nicola Scianca, Tatsuya Matsushima et al. | [Abstract](https://arxiv.org/abs/2610.17521) · [PDF](https://arxiv.org/pdf/2610.17521) | rule-assigned |
 | 2026-10-13 | Assessing the Quality of Concrete Scenarios Generated from Scenario Classes for Automated Driving | Lina Putze, Thies de Graaff, Jan Steffen Becker, Christian Neurohr | [Abstract](https://arxiv.org/abs/2610.18169) · [PDF](https://arxiv.org/pdf/2610.18169) | rule-assigned |
 | 2026-10-09 | Robot-WATCHDOG : failure detection through object-centric graph representation | Quentin Rolland, Fabrice Mayran de Chamisso, Jean-Baptiste Mouret | [Abstract](https://arxiv.org/abs/2610.13403) · [PDF](https://arxiv.org/pdf/2610.13403) | rule-assigned |

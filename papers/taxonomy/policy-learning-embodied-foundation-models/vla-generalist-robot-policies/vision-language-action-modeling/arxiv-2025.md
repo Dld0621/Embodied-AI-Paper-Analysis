@@ -1,12 +1,12 @@
 # Vision-Language-Action Modeling · 视觉语言动作建模 · arXiv 2025
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 349 papers · complete list for this taxonomy leaf
+> 350 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -192,6 +192,7 @@
 | 2025-09-26 | UnderwaterVLA: Dual-brain Vision-Language-Action architecture for Autonomous Underwater Navigation | Zhangyuan Wang, Yunpeng Zhu, Yuqi Yan, Xiaoyuan Tian et al. | [Abstract](https://arxiv.org/abs/2509.22441) · [PDF](https://arxiv.org/pdf/2509.22441) | rule-assigned |
 | 2025-09-26 | RobustVLA: On Robustness of Vision-Language-Action Model against Multi-Modal Perturbations | Jianing Guo, Zhenhong Wu, Chang Tu, Yiyao Ma et al. | [Abstract](https://arxiv.org/abs/2510.00037) · [PDF](https://arxiv.org/pdf/2510.00037) | rule-assigned |
 | 2025-09-26 | MimicDreamer: Aligning Human and Robot Demonstrations for Scalable VLA Training | Haoyun Li, Ivan Zhang, Runqi Ouyang, Xiaofeng Wang et al. | [Abstract](https://arxiv.org/abs/2509.22199) · [PDF](https://arxiv.org/pdf/2509.22199) | rule-assigned |
+| 2025-09-26 | EMMA: Enhancing Robotic Control Robustness through a Generative Visual Model | Zhehao Dong, Xiaofeng Wang, Zheng Zhu, Yirui Wang et al. | [Abstract](https://arxiv.org/abs/2509.22407) · [PDF](https://arxiv.org/pdf/2509.22407) | rule-assigned |
 | 2025-09-26 | Developing Vision-Language-Action Model from Egocentric Videos | Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, Shinsuke Mori | [Abstract](https://arxiv.org/abs/2509.21986) · [PDF](https://arxiv.org/pdf/2509.21986) | rule-assigned |
 | 2025-09-26 | Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation | Xiaohuan Pei, Yuxing Chen, Siyu Xu, Yunke Wang et al. | [Abstract](https://arxiv.org/abs/2509.22093) · [PDF](https://arxiv.org/pdf/2509.22093) | rule-assigned |
 | 2025-09-25 | RetoVLA: Reusing Register Tokens for Spatial Reasoning in Vision-Language-Action Models | Jiyeon Koo, Taewan Cho, Hyunjoon Kang, Eunseom Pyo et al. | [Abstract](https://arxiv.org/abs/2509.21243) · [PDF](https://arxiv.org/pdf/2509.21243) | rule-assigned |

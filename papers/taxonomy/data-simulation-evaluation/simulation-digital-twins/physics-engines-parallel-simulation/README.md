@@ -1,12 +1,12 @@
 # Physics Engines & Parallel Simulation · 物理引擎与并行仿真
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Physics%20Engines%20%26%20Parallel%20Simulation#research-workbench)
 
-> 15 conference papers · 124 recent arXiv papers
+> 15 conference papers · 122 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -40,7 +40,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Out-of-Dynamics Imitation Learning from Multimodal Demonstrations | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2211.06839) · [Index](https://dblp.org/rec/conf/corl/Qiu0CL22) | rule-assigned |
 | 2022 | Gazebo Fluids: SPH-based simulation of fluid interaction with articulated rigid body dynamics | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982036) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982036) | rule-assigned |
 
-## Recent arXiv papers (124)
+## Recent arXiv papers (122)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -91,7 +91,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-04-04 | Risk-Constrained Belief-Space Optimization for Safe Control under Latent Uncertainty | Clinton Enwerem, John S. Baras, Calin Belta | [Abstract](https://arxiv.org/abs/2604.03868) · [PDF](https://arxiv.org/pdf/2604.03868) | rule-assigned |
 | 2026-03-29 | Copilot-Assisted Second-Thought Framework for Brain-to-Robot Hand Motion Decoding | Yizhe Li, Shixiao Wang, Jian K. Liu | [Abstract](https://arxiv.org/abs/2603.27492) · [PDF](https://arxiv.org/pdf/2603.27492) | rule-assigned |
 | 2026-03-24 | AirSimAG: A High-Fidelity Simulation Platform for Air-Ground Collaborative Robotics | Yangjie Cui, Xin Dong, Boyang Gao, Jinwu Xiang et al. | [Abstract](https://arxiv.org/abs/2603.23079) · [PDF](https://arxiv.org/pdf/2603.23079) | rule-assigned |
-| 2026-03-17 | Kamino: GPU-based Massively Parallel Simulation of Multi-Body Systems with Challenging Topologies | Vassilios Tsounis, Guirec Maloisel, Christian Schumacher, Ruben Grandia et al. | [Abstract](https://arxiv.org/abs/2603.16536) · [PDF](https://arxiv.org/pdf/2603.16536) | rule-assigned |
 | 2026-03-17 | Early-Terminable Energy-Safe Iterative Coupling for Parallel Simulation of Partitioned Port-Hamiltonian Systems | Qi Wei, Jianfeng Tao, Hongyu Nie, Wangtao Tan | [Abstract](https://arxiv.org/abs/2603.16424) · [PDF](https://arxiv.org/pdf/2603.16424) | rule-assigned |
 | 2026-03-17 | BrickSim: A Physics-Based Simulator for Manipulating Interlocking Brick Assemblies | Haowei Wen, Ruixuan Liu, Weiyi Piao, Siyu Li et al. | [Abstract](https://arxiv.org/abs/2603.16853) · [PDF](https://arxiv.org/pdf/2603.16853) | rule-assigned |
 | 2026-03-16 | Dual Quaternion Based Contact Modeling for Fast and Smooth Collision Recovery of Quadrotors | Valentin Gaucher, Wenlong Zhang | [Abstract](https://arxiv.org/abs/2603.14698) · [PDF](https://arxiv.org/pdf/2603.14698) | rule-assigned |
@@ -167,7 +166,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-05-02 | Evaluation and Optimization of Adaptive Cruise Control in Autonomous Vehicles using the CARLA Simulator: A Study on Performance under Wet and Dry Weather Conditions | Roza Al-Hindaw, Taqwa I. Alhadidi, Mohammad Adas | [Abstract](https://arxiv.org/abs/2405.01504) · [PDF](https://arxiv.org/pdf/2405.01504) | rule-assigned |
 | 2024-04-30 | FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-motor Robot Manipulation Skills | Yongqiang Zhao, Kun Qian, Boyi Duan, Shan Luo | [Abstract](https://arxiv.org/abs/2404.19217) · [PDF](https://arxiv.org/pdf/2404.19217) | rule-assigned |
 | 2024-02-04 | Gazebo Plants: Simulating Plant-Robot Interaction with Cosserat Rods | Junchen Deng, Samhita Marri, Jonathan Klein, Wojtek Pałubicki et al. | [Abstract](https://arxiv.org/abs/2402.02570) · [PDF](https://arxiv.org/pdf/2402.02570) | rule-assigned |
-| 2023-10-19 | Hibikino-Musashi@Home 2023 Team Description Paper | Tomoya Shiba, Akinobu Mizutani, Yuga Yano, Tomohiro Ono et al. | [Abstract](https://arxiv.org/abs/2310.12650) · [PDF](https://arxiv.org/pdf/2310.12650) | rule-assigned |
 
 ---
 

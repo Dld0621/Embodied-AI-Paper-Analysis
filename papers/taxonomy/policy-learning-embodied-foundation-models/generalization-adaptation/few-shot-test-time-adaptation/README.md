@@ -1,7 +1,7 @@
 # Few-shot & Test-time Adaptation · 少样本与测试时适配
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generalization%20%26%20Adaptation&specialty=Few-shot%20%26%20Test-time%20Adaptation#research-workbench)
@@ -51,6 +51,9 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-19 | SteerAct: Unlocking Action Models through Few-Shot Temporal Steering | Kaichen Zhou, Zhiyan Li, Chongkai Gao, Yuhan Wang et al. | [Abstract](https://arxiv.org/abs/2610.25632) · [PDF](https://arxiv.org/pdf/2610.25632) | rule-assigned |
+| 2026-10-19 | Learning from Fleet Experience: Collective Experience Learning Across 96 Robots | Chao Yu, Shu'ang Yu, Hao Lin, Hongzhi Zang et al. | [Abstract](https://arxiv.org/abs/2610.25736) · [PDF](https://arxiv.org/pdf/2610.25736) | rule-assigned |
+| 2026-10-19 | ACE-Brain-0.6: Scaling Spatial Grounding for Physical Foundation Models | Yinhe Wang, Tao Tao, Zexin He, Shuang Luo et al. | [Abstract](https://arxiv.org/abs/2610.27040) · [PDF](https://arxiv.org/pdf/2610.27040) | rule-assigned |
 | 2026-10-14 | Uncertainty-Driven Self-Play for Robust Multi-Agent Driving Policies | Sajad Marvi, Julian Schmidt, Alessandro Canevaro, Julian Jordan et al. | [Abstract](https://arxiv.org/abs/2610.19714) · [PDF](https://arxiv.org/pdf/2610.19714) | rule-assigned |
 | 2026-10-14 | Eye, Robot: Learning Expressive Gaze Dynamics via a VLM-Guided Transformer-VAE | Yuhang Hu, Junlin Lyu, Yuan Fang, Xiaoying Shen et al. | [Abstract](https://arxiv.org/abs/2610.19635) · [PDF](https://arxiv.org/pdf/2610.19635) | rule-assigned |
 | 2026-10-14 | Efficient Test-Time Adaptation For Robot Policies | Motasem Alfarra, Pietro Mazzaglia, Markus Peschl, Daniel Dijkman et al. | [Abstract](https://arxiv.org/abs/2610.20318) · [PDF](https://arxiv.org/pdf/2610.20318) | rule-assigned |
@@ -324,9 +327,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-14 | Human-Centric Autonomous Systems With LLMs for User Command Reasoning | Yi Yang, Qingwen Zhang, Ci Li, Daniel Simões Marta et al. | [Abstract](https://arxiv.org/abs/2311.08206) · [PDF](https://arxiv.org/pdf/2311.08206) | rule-assigned |
 | 2023-11-02 | Vision-Language Foundation Models as Effective Robot Imitators | Xinghang Li, Minghuan Liu, Hanbo Zhang, Cunjun Yu et al. | [Abstract](https://arxiv.org/abs/2311.01378) · [PDF](https://arxiv.org/pdf/2311.01378) | rule-assigned |
 | 2023-10-27 | Fine-Tuning Language Models Using Formal Methods Feedback | Yunhao Yang, Neel P. Bhatt, Tyler Ingebrand, William Ward et al. | [Abstract](https://arxiv.org/abs/2310.18239) · [PDF](https://arxiv.org/pdf/2310.18239) | rule-assigned |
-| 2023-10-19 | Fine-Tuning Generative Models as an Inference Method for Robotic Tasks | Orr Krupnik, Elisei Shafer, Tom Jurgenson, Aviv Tamar | [Abstract](https://arxiv.org/abs/2310.12862) · [PDF](https://arxiv.org/pdf/2310.12862) | rule-assigned |
-| 2023-10-18 | Bias in Emotion Recognition with ChatGPT | Naoki Wake, Atsushi Kanehira, Kazuhiro Sasabuchi, Jun Takamatsu et al. | [Abstract](https://arxiv.org/abs/2310.11753) · [PDF](https://arxiv.org/pdf/2310.11753) | rule-assigned |
-| 2023-10-16 | BayRnTune: Adaptive Bayesian Domain Randomization via Strategic Fine-tuning | Tianle Huang, Nitish Sontakke, K. Niranjan Kumar, Irfan Essa et al. | [Abstract](https://arxiv.org/abs/2310.10606) · [PDF](https://arxiv.org/pdf/2310.10606) | rule-assigned |
 
 ---
 

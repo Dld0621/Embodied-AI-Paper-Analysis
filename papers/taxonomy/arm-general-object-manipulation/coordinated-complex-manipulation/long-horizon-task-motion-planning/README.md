@@ -1,12 +1,12 @@
 # Long-horizon & Task-motion Planning · 长时程操作与任务运动规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Long-horizon%20%26%20Task-motion%20Planning#research-workbench)
 
-> 32 conference papers · 199 recent arXiv papers
+> 32 conference papers · 203 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -57,10 +57,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Task and Motion Planning with Large Language Models for Object Rearrangement | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.06247) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342169) | rule-assigned |
 | 2022 | Visually Grounded Task and Motion Planning for Mobile Manipulation | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2202.10667) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812055) | rule-assigned |
 
-## Recent arXiv papers (199)
+## Recent arXiv papers (203)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-20 | Plausible Future, Wrong Choice: Steering World-Action Models toward Intended Future | Zhuohao Li, Jiawei He, Yuxuan Yan, Lang Zhou et al. | [Abstract](https://arxiv.org/abs/2610.28431) · [PDF](https://arxiv.org/pdf/2610.28431) | rule-assigned |
+| 2026-10-19 | Progress-Guided Preference Generation for Aligning Generative Control Policies | Tung M. Luu, Tri Ton, Duc M. Nguyen, Xuan Thanh Nguyen et al. | [Abstract](https://arxiv.org/abs/2610.25692) · [PDF](https://arxiv.org/pdf/2610.25692) | rule-assigned |
+| 2026-10-19 | Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation | Jiaming Liu, Xinghao Zhu, Yiming Zhang, Shanghang Zhang et al. | [Abstract](https://arxiv.org/abs/2610.26854) · [PDF](https://arxiv.org/pdf/2610.26854) | rule-assigned |
+| 2026-10-16 | LAW: Unifying Language, Action, and World Modeling for Agentic Physical Intelligence | Jiajun Cao, Kai Tang, Bohua Zhang, Zezhong Qian et al. | [Abstract](https://arxiv.org/abs/2610.23334) · [PDF](https://arxiv.org/pdf/2610.23334) | rule-assigned |
+| 2026-10-15 | DemoStream: Batched Task-and-Motion-Plan Optimization for Automated Learning from Demonstration | Caelan Garrett, Neel Jawale, Fabio Ramos | [Abstract](https://arxiv.org/abs/2610.22020) · [PDF](https://arxiv.org/pdf/2610.22020) | rule-assigned |
 | 2026-10-13 | RoboFQE: Rollout-Free Evaluation of Visual Robot Policies from Offline Trajectories | Yunfu Deng, Sangwoo Shin, Brahma S. Pavse, Josiah P. Hanna | [Abstract](https://arxiv.org/abs/2610.18699) · [PDF](https://arxiv.org/pdf/2610.18699) | rule-assigned |
 | 2026-10-13 | ReEnvision: Future-Guided Selective Action Repair for Long-Horizon Manipulation | Xiyin Zeng, Xuewei Huang, Yi Lu, Weihao Yuan et al. | [Abstract](https://arxiv.org/abs/2610.17977) · [PDF](https://arxiv.org/pdf/2610.17977) | rule-assigned |
 | 2026-10-13 | Model-Based Online Decision Making via Generative Trajectory Planning | Haldun Balim, Yilun Du, Na Li | [Abstract](https://arxiv.org/abs/2610.18677) · [PDF](https://arxiv.org/pdf/2610.18677) | rule-assigned |
@@ -259,7 +264,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-02 | NOD-TAMP: Generalizable Long-Horizon Planning with Neural Object Descriptors | Shuo Cheng, Caelan Garrett, Ajay Mandlekar, Danfei Xu | [Abstract](https://arxiv.org/abs/2311.01530) · [PDF](https://arxiv.org/pdf/2311.01530) | rule-assigned |
 | 2023-10-26 | Interactive Robot Learning from Verbal Correction | Huihan Liu, Alice Chen, Yuke Zhu, Adith Swaminathan et al. | [Abstract](https://arxiv.org/abs/2310.17555) · [PDF](https://arxiv.org/pdf/2310.17555) | rule-assigned |
 | 2023-10-24 | Human-in-the-Loop Task and Motion Planning for Imitation Learning | Ajay Mandlekar, Caelan Garrett, Danfei Xu, Dieter Fox | [Abstract](https://arxiv.org/abs/2310.16014) · [PDF](https://arxiv.org/pdf/2310.16014) | rule-assigned |
-| 2023-10-23 | Modular Multi-Level Replanning TAMP Framework for Dynamic Environment | Tao Lin, Chengfei Yue, Ziran Liu, Xibin Cao | [Abstract](https://arxiv.org/abs/2310.14816) · [PDF](https://arxiv.org/pdf/2310.14816) | rule-assigned |
 
 ---
 

@@ -1,12 +1,12 @@
 # Fault & Failure Analysis · 故障与失效分析
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Safety%20%26%20Reliability%20Evaluation&specialty=Fault%20%26%20Failure%20Analysis#research-workbench)
 
-> 3 conference papers · 108 recent arXiv papers
+> 3 conference papers · 109 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | Pseudocode-Guided Structured Reasoning for Automating Reliable Inference in Vision-Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2605.19663) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697384) | rule-assigned |
 | 2025 | On the Vulnerability of LLM/VLM-Controlled Robotics | IROS · Llm | [Paper](https://arxiv.org/pdf/2402.10340) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246863) | rule-assigned |
 
-## Recent arXiv papers (108)
+## Recent arXiv papers (109)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | Know When to Escalate: Critic-Guided Adaptive Execution for Cloud-Local Embodied Agents | Wei Zhang, Lirong Xiang, Charles Fleming | [Abstract](https://arxiv.org/abs/2610.30587) · [PDF](https://arxiv.org/pdf/2610.30587) | rule-assigned |
+| 2026-10-22 | Causal Analysis of Failures of Cyber-Physical Systems with Continuous Inputs | Tom Yaacov, David A. Kelly, Khen Elimelech, Hana Chockler | [Abstract](https://arxiv.org/abs/2610.30737) · [PDF](https://arxiv.org/pdf/2610.30737) | rule-assigned |
 | 2026-10-13 | Behavioural self-monitoring for autonomous earth observation agents: The attribute reliability monitor (ARM) | Alejandro D. Mousist | [Abstract](https://arxiv.org/abs/2610.18548) · [PDF](https://arxiv.org/pdf/2610.18548) | rule-assigned |
 | 2026-10-09 | A Local Agentic AI Framework to Generate Edge Case Scenarios for Safety Assurance | Victoria J. Hodge, Colin Paterson, Rob Alexander | [Abstract](https://arxiv.org/abs/2610.13479) · [PDF](https://arxiv.org/pdf/2610.13479) | rule-assigned |
 | 2026-10-07 | Multi-Agent Coordination via Support-Preserving Distillation | Sangmin Lee, Youngju Na, Chanmi Lee, Sung-eui Yoon | [Abstract](https://arxiv.org/abs/2610.10087) · [PDF](https://arxiv.org/pdf/2610.10087) | rule-assigned |
@@ -139,7 +141,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-01-15 | Consolidating Trees of Robotic Plans Generated Using Large Language Models to Improve Reliability | Md Sadman Sakib, Yu Sun | [Abstract](https://arxiv.org/abs/2401.07868) · [PDF](https://arxiv.org/pdf/2401.07868) | rule-assigned |
 | 2023-11-17 | Dimensionality Reduction of Dynamics on Lie Manifolds via Structure-Aware Canonical Correlation Analysis | Wooyoung Chung, Daniel Polani, Stas Tiomkin | [Abstract](https://arxiv.org/abs/2311.10327) · [PDF](https://arxiv.org/pdf/2311.10327) | rule-assigned |
 | 2023-10-30 | Explaining the Decisions of Deep Policy Networks for Robotic Manipulations | Seongun Kim, Jaesik Choi | [Abstract](https://arxiv.org/abs/2310.19432) · [PDF](https://arxiv.org/pdf/2310.19432) | rule-assigned |
-| 2023-10-19 | PUMA: Deep Metric Imitation Learning for Stable Motion Primitives | Rodrigo Pérez-Dattari, Cosimo Della Santina, Jens Kober | [Abstract](https://arxiv.org/abs/2310.12831) · [PDF](https://arxiv.org/pdf/2310.12831) | rule-assigned |
 
 ---
 

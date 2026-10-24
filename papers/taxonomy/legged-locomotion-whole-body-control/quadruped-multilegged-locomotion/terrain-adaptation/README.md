@@ -1,7 +1,7 @@
 # Terrain Adaptation · 地形适应
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Quadruped%20%26%20Multilegged%20Locomotion&specialty=Terrain%20Adaptation#research-workbench)
@@ -56,7 +56,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-03-04 | X-Loco: Towards Generalist Humanoid Locomotion Control via Synergetic Policy Distillation | Dewei Wang, Xinmiao Wang, Chenyun Zhang, Jiyuan Shi et al. | [Abstract](https://arxiv.org/abs/2603.03733) · [PDF](https://arxiv.org/pdf/2603.03733) | rule-assigned |
 | 2026-03-03 | CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots | Shihao Ma, Hongjin Chen, Zijun Xu, Yi Zhao et al. | [Abstract](https://arxiv.org/abs/2603.03067) · [PDF](https://arxiv.org/pdf/2603.03067) | rule-assigned |
 | 2026-02-17 | MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction | Qiang Zhang, Jiahao Ma, Peiran Liu, Shuai Shi et al. | [Abstract](https://arxiv.org/abs/2602.15733) · [PDF](https://arxiv.org/pdf/2602.15733) | rule-assigned |
-| 2026-02-13 | TRANS: Terrain-aware Reinforcement Learning for Agile Navigation of Quadruped Robots under Social Interactions | Wei Zhu, Irfan Tito Kurniawan, Ye Zhao, Mitsuhiro Hayashibe | [Abstract](https://arxiv.org/abs/2602.12724) · [PDF](https://arxiv.org/pdf/2602.12724) | rule-assigned |
+| 2026-02-13 | TRAIN: Terrain-Aware Interactive Navigation for Quadruped Robots via Reinforcement Learning | Wei Zhu, Irfan Tito Kurniawan, Ye Zhao, Mitsuhiro Hayashibe | [Abstract](https://arxiv.org/abs/2602.12724) · [PDF](https://arxiv.org/pdf/2602.12724) | rule-assigned |
 | 2026-02-06 | Now You See That: Learning End-to-End Humanoid Locomotion from Raw Pixels | Wandong Sun, Yongbo Su, Leoric Huang, Alex Zhang et al. | [Abstract](https://arxiv.org/abs/2602.06382) · [PDF](https://arxiv.org/pdf/2602.06382) | rule-assigned |
 | 2026-01-19 | CLEAR: A Semantic-Geometric Terrain Abstraction for Large-Scale Unstructured Environments | Pranay Meshram, Charuvahan Adhivarahan, Ehsan Tarkesh Esfahani, Souma Chowdhury et al. | [Abstract](https://arxiv.org/abs/2601.13361) · [PDF](https://arxiv.org/pdf/2601.13361) | rule-assigned |
 | 2026-01-12 | Large-Scale Autonomous Gas Monitoring for Volcanic Environments: A Legged Robot on Mount Etna | Julia Richter, Turcan Tuna, Manthan Patel, Takahiro Miki et al. | [Abstract](https://arxiv.org/abs/2601.07362) · [PDF](https://arxiv.org/pdf/2601.07362) | rule-assigned |

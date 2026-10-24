@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=World%20%26%20Dynamics%20Modeling&specialty=Pending%20specialty%20review#research-workbench)
 
-> 14 conference papers · 82 recent arXiv papers
+> 14 conference papers · 84 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -39,10 +39,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Multi-View Masked World Models for Visual Robotic Manipulation | ICML · Multi-view world models | [Paper](https://proceedings.mlr.press/v202/seo23a.html) · [Official](https://proceedings.mlr.press/v202/seo23a.html) | needs-review |
 | 2022 | Masked World Models for Visual Control | CoRL · Visual world models | [Paper](https://proceedings.mlr.press/v205/seo23a.html) · [Official](https://proceedings.mlr.press/v205/seo23a.html) | needs-review |
 
-## Recent arXiv papers (82)
+## Recent arXiv papers (84)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-21 | PhysiCalWorld: In-Context Physics Calibration for World Models | Yunhao Luo, Wentao He, Yinpei Dai, Hyelin Nam et al. | [Abstract](https://arxiv.org/abs/2610.30125) · [PDF](https://arxiv.org/pdf/2610.30125) | needs-review |
+| 2026-10-19 | Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience | Tianqi Liu, Hanfei Zhao, Qifeng Liang, Hui En Pang et al. | [Abstract](https://arxiv.org/abs/2610.26855) · [PDF](https://arxiv.org/pdf/2610.26855) | needs-review |
 | 2026-10-13 | WorldOracle: Benchmarking Action-Conditioned World Models against Real-World Executions | Haoyi Duan, Liliang Chen, Nan Wang, Yang Zhang et al. | [Abstract](https://arxiv.org/abs/2610.18826) · [PDF](https://arxiv.org/pdf/2610.18826) | needs-review |
 | 2026-10-06 | World Models Dream of Success: Diagnosing and Repairing Failure Insensitivity in Robot World Models | Jiuyi Xu, Xiao Hu, Meida Chen, Peng Gao et al. | [Abstract](https://arxiv.org/abs/2610.09134) · [PDF](https://arxiv.org/pdf/2610.09134) | needs-review |
 | 2026-10-04 | Tackling Sim-to-Real Mismatch Through Sampling-Based Disturbance Observers: From Analytical Models to Learned World Models | Tianqi Zhu, Jun Yang, Jianliang Mao, Cong Li et al. | [Abstract](https://arxiv.org/abs/2610.04896) · [PDF](https://arxiv.org/pdf/2610.04896) | needs-review |
@@ -59,7 +61,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-26 | Visual Representation and History Modeling for Navigation World Models | Guangfu Guo, Xiaoqian Lu, Rui Liu, Yutong Chen et al. | [Abstract](https://arxiv.org/abs/2609.29555) · [PDF](https://arxiv.org/pdf/2609.29555) | needs-review |
 | 2026-08-26 | ConfAL-WM: Confidence-Guided Active Learning for Action-Conditioned World Models | Xiang Liu, Kunwei Wu, Miao Liu, Sen Cui et al. | [Abstract](https://arxiv.org/abs/2608.25572) · [PDF](https://arxiv.org/pdf/2608.25572) | needs-review |
 | 2026-08-25 | Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning | Sixiang Chen, Jiaming Liu, Jixian Wu, Yichen Guo et al. | [Abstract](https://arxiv.org/abs/2608.24885) · [PDF](https://arxiv.org/pdf/2608.24885) | needs-review |
-| 2026-08-19 | DA-WAM: Decision-Aligned Future Latents for Driving World Models | Ruiguo Zhong, Benshan Ma, Xiaolong Chen, Lang Zhang et al. | [Abstract](https://arxiv.org/abs/2608.19085) · [PDF](https://arxiv.org/pdf/2608.19085) | needs-review |
 | 2026-08-13 | H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models | Dingyi Rong, Yue Shi, Chaofan Ma, Jiezhang Cao et al. | [Abstract](https://arxiv.org/abs/2608.13049) · [PDF](https://arxiv.org/pdf/2608.13049) | needs-review |
 | 2026-08-06 | XEWorld: Can Action-Conditioned World Models Generalize to Unseen Robot Embodiments? | Yixiang Chen, Jiabing Yang, Yuan Xu, Qisen Ma et al. | [Abstract](https://arxiv.org/abs/2608.05799) · [PDF](https://arxiv.org/pdf/2608.05799) | needs-review |
 | 2026-07-28 | Learning Implicit Causal World Models from Multi-Agent Demonstrations | Jasorsi Ghosh | [Abstract](https://arxiv.org/abs/2607.26336) · [PDF](https://arxiv.org/pdf/2607.26336) | needs-review |
@@ -71,6 +72,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-11 | Multi-Agent Embodied Autonomous Driving (MAEAD): From V2X Information Exchange to Shared World Models | Senkang Hu, Zhengru Fang, Yihang Tao, Zihan Fang et al. | [Abstract](https://arxiv.org/abs/2606.13840) · [PDF](https://arxiv.org/pdf/2606.13840) | needs-review |
 | 2026-06-08 | iMaC: Translating Actions into Motion and Contact Images for Embodied World Models | Zhenyu Wu, Xiuwei Xu, Yukun Zhou, Yifan Li et al. | [Abstract](https://arxiv.org/abs/2606.09813) · [PDF](https://arxiv.org/pdf/2606.09813) | needs-review |
 | 2026-06-05 | STRIPS-WM: Learning Grounded Propositional STRIPS-style World Models from Images | Abhiroop Ajith, Constantinos Chamzas | [Abstract](https://arxiv.org/abs/2606.06832) · [PDF](https://arxiv.org/pdf/2606.06832) | needs-review |
+| 2026-06-03 | GRAIL: Generating Humanoid Loco-Manipulation from World Models | Tianyi Xie, Haotian Zhang, Jinhyung Park, Zi Wang et al. | [Abstract](https://arxiv.org/abs/2606.05160) · [PDF](https://arxiv.org/pdf/2606.05160) | needs-review |
 | 2026-06-01 | RoboTrustBench: Benchmarking the Trustworthiness of Video World Models for Robotic Manipulation | Huiqiong Li, Jiayu Wang, Zhiting Mei, Anirudha Majumdar et al. | [Abstract](https://arxiv.org/abs/2606.01600) · [PDF](https://arxiv.org/pdf/2606.01600) | needs-review |
 | 2026-06-01 | Cosmos 3: Omnimodal World Models for Physical AI | NVIDIA, :, Aditi, Niket Agarwal et al. | [Abstract](https://arxiv.org/abs/2606.02800) · [PDF](https://arxiv.org/pdf/2606.02800) | needs-review |
 | 2026-05-30 | SKIP: Sparse Keyframe Interpolation Paradigm for Efficient Embodied World Models | Ziheng He, Yixiang Chen, Ning Yang, Zhanqian Wu et al. | [Abstract](https://arxiv.org/abs/2606.00664) · [PDF](https://arxiv.org/pdf/2606.00664) | needs-review |

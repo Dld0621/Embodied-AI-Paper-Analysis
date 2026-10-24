@@ -1,12 +1,12 @@
 # Human-aware & Social Navigation · 人群交互与社会规范导航
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Multi-robot%20%26%20Social%20Navigation&specialty=Human-aware%20%26%20Social%20Navigation#research-workbench)
 
-> 56 conference papers · 181 recent arXiv papers
+> 56 conference papers · 179 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -81,10 +81,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Watch out! There may be a Human. Addressing Invisible Humans in Social Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2211.12216) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982186) | rule-assigned |
 | 2022 | You Are In My Way: Non-verbal Social Cues for Legible Robot Navigation Behaviors | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981754) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981754) | rule-assigned |
 
-## Recent arXiv papers (181)
+## Recent arXiv papers (179)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-15 | Onboard Lightweight LLM Reasoning for Human-Aware Safe UAV Navigation | Siwei Cai, Yuwei Wu, Vijay Kumar, Lifeng Zhou | [Abstract](https://arxiv.org/abs/2610.22092) · [PDF](https://arxiv.org/pdf/2610.22092) | rule-assigned |
+| 2026-10-15 | Mothership: A Two Tier Autonomous Refuse Collection System for Pedestrian Campuses | Wei Wang, Yiru Veronika Wang, Yihan Wang, Zihao Li et al. | [Abstract](https://arxiv.org/abs/2610.22461) · [PDF](https://arxiv.org/pdf/2610.22461) | rule-assigned |
 | 2026-10-12 | Estimating the Causal Impact of Social Navigation Signals in Corridor Scenarios | Francesco Baldo, Luca Castri, Gloria Beraldo, Nicola Bellotto | [Abstract](https://arxiv.org/abs/2610.16411) · [PDF](https://arxiv.org/pdf/2610.16411) | rule-assigned |
 | 2026-10-08 | Control-Ready Uncertainty for Trajectory Diffusion | Zhiwei Xue, Jia Yue Kam, Jinhang Qiu, Yifeng Cheng et al. | [Abstract](https://arxiv.org/abs/2610.12431) · [PDF](https://arxiv.org/pdf/2610.12431) | rule-assigned |
 | 2026-10-05 | Risk-Sensitive Crowd Navigation with Adaptive Ellipsoidal Conformal Prediction | Ruihan A. Li, Ziyao Guo, Yingying Li | [Abstract](https://arxiv.org/abs/2610.07474) · [PDF](https://arxiv.org/pdf/2610.07474) | rule-assigned |
@@ -262,10 +264,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-06 | Cooperative Probabilistic Trajectory Forecasting under Occlusion | Anshul Nayak, Azim Eskandarian | [Abstract](https://arxiv.org/abs/2312.03296) · [PDF](https://arxiv.org/pdf/2312.03296) | rule-assigned |
 | 2023-11-30 | PEOPLEx: PEdestrian Opportunistic Positioning LEveraging IMU, UWB, BLE and WiFi | Pierre-Yves Lajoie, Bobak Hamed Baghi, Sachini Herath, Francois Hogan et al. | [Abstract](https://arxiv.org/abs/2311.18182) · [PDF](https://arxiv.org/pdf/2311.18182) | rule-assigned |
 | 2023-11-24 | GPT-4V Takes the Wheel: Promises and Challenges for Pedestrian Behavior Prediction | Jia Huang, Peng Jiang, Alvika Gautam, Srikanth Saripalli | [Abstract](https://arxiv.org/abs/2311.14786) · [PDF](https://arxiv.org/pdf/2311.14786) | rule-assigned |
-| 2023-10-23 | DICE: Diverse Diffusion Model with Scoring for Trajectory Prediction | Younwoo Choi, Ray Coden Mercurius, Soheil Mohamad Alizadeh Shabestary, Amir Rasouli | [Abstract](https://arxiv.org/abs/2310.14570) · [PDF](https://arxiv.org/pdf/2310.14570) | rule-assigned |
-| 2023-10-19 | Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots | Xavier Puig, Eric Undersander, Andrew Szot, Mikael Dallaire Cote et al. | [Abstract](https://arxiv.org/abs/2310.13724) · [PDF](https://arxiv.org/pdf/2310.13724) | rule-assigned |
-| 2023-10-17 | SICNav: Safe and Interactive Crowd Navigation using Model Predictive Control and Bilevel Optimization | Sepehr Samavi, James R. Han, Florian Shkurti, Angela P. Schoellig | [Abstract](https://arxiv.org/abs/2310.10982) · [PDF](https://arxiv.org/pdf/2310.10982) | rule-assigned |
-| 2023-10-16 | A Novel Benchmarking Paradigm and a Scale- and Motion-Aware Model for Egocentric Pedestrian Trajectory Prediction | Amir Rasouli | [Abstract](https://arxiv.org/abs/2310.10424) · [PDF](https://arxiv.org/pdf/2310.10424) | rule-assigned |
 
 ---
 

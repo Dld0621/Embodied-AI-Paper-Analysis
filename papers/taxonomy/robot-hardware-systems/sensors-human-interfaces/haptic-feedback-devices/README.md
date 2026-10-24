@@ -1,12 +1,12 @@
 # Haptic Feedback Devices · 触觉反馈设备
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Sensors%20%26%20Human%20Interfaces&specialty=Haptic%20Feedback%20Devices#research-workbench)
 
-> 1 conference papers · 7 recent arXiv papers
+> 1 conference papers · 8 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2025 | Physical Simulation with Force Feedback Aids Robot Factors Design | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128203) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128203) | rule-assigned |
 
-## Recent arXiv papers (7)
+## Recent arXiv papers (8)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-19 | XoNav: An Exoskeleton as a Personalized Haptic Interface for Assisted Navigation | Debadrata Sarkar, Soumen Sen, Aman Arora | [Abstract](https://arxiv.org/abs/2610.27271) · [PDF](https://arxiv.org/pdf/2610.27271) | rule-assigned |
 | 2026-08-04 | A Wearable Stiffness-Rendering Haptic Device with a Honeycomb Jamming Mechanism for Bilateral Teleoperation | Thomas M. Kwok, Bohan Zhang, Wai Tuck Chow | [Abstract](https://arxiv.org/abs/2608.03002) · [PDF](https://arxiv.org/pdf/2608.03002) | rule-assigned |
 | 2026-05-22 | 6G Communication Networks Enabling Embodied Agents: Architecture and Prototype | Lipeng Dai, Luping Xiang, Kun Yang | [Abstract](https://arxiv.org/abs/2605.23263) · [PDF](https://arxiv.org/pdf/2605.23263) | rule-assigned |
 | 2026-04-01 | A wearable haptic device for edge and surface simulation | Rui Chen, Xianlong Mai, Alireza Sanaei, Domenico Chiaradia et al. | [Abstract](https://arxiv.org/abs/2604.00752) · [PDF](https://arxiv.org/pdf/2604.00752) | rule-assigned |

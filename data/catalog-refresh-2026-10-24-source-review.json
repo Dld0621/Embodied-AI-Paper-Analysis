@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-24",
+  "snapshot_date": "2026-10-24",
+  "timezone": "Asia/Hong_Kong",
+  "baseline_commit": "ce69eca6ad7a4d2d08e426e58b73ab5edb0f8da4",
+  "scope": "Title, venue, year, bibliographic provenance and existing admission-function checks only; not full-paper review, experiment reproduction or expanded admission rules.",
+  "source_policy": "Existing hand-verified seeds override discovered duplicates; verified conference records are preserved when a discovery index omits them.",
+  "bulk_records_before_seed_recovery": 4360,
+  "conference_records_after_seed_recovery": 4363,
+  "recovered_records": 3,
+  "arxiv_id_check_api": "https://export.arxiv.org/api/query?id_list=2209.06261%2C2303.14502%2C2302.10693&max_results=3",
+  "conference_recoveries": [
+    {
+      "title": "Sim2Real2: Actively Building Explicit Physics Model for Precise Articulated Object Manipulation",
+      "year": 2023,
+      "venue": "ICRA",
+      "official_url": "https://doi.org/10.1109/ICRA48891.2023.10160370",
+      "absent_from_bulk_refresh": true,
+      "s2_doi_check": {
+        "url": "https://api.semanticscholar.org/graph/v1/paper/DOI:10.1109/ICRA48891.2023.10160370?fields=title,abstract,year,venue,url,externalIds",
+        "http_status": 404
+      },
+      "primary_evidence": {
+        "kind": "authors project page",
+        "url": "https://ttimelord.github.io/Sim2Real2-site/",
+        "verified_claim": "The authors project page states ICRA 2023 and gives a BibTeX record with the same title, IEEE DOI and pages 11698-11704."
+      },
+      "arxiv_evidence": {
+        "paper_url": "https://arxiv.org/abs/2302.10693",
+        "api_returned": true,
+        "comment": "Accepted to IEEE International Conference on Robotics and Automation (ICRA) 2023",
+        "withdrawal_not_confirmed": true
+      },
+      "baseline_admission_result": [
+        "Simulation, Data & Evaluation",
+        "Sim2Real"
+      ],
+      "action": "retained_as_hand_verified_seed",
+      "reason": "The existing conference paper was omitted by the refreshed Semantic Scholar index and its DOI resolver returned HTTP 404. First-party bibliographic evidence still verifies its title, conference and year, and the existing title/abstract passes the unchanged admission function. Source-index absence is neither a rule exclusion nor evidence of withdrawal."
+    },
+    {
+      "title": "VERN: Vegetation-Aware Robot Navigation in Dense Unstructured Outdoor Environments",
+      "year": 2023,
+      "venue": "IROS",
+      "official_url": "https://doi.org/10.1109/IROS55552.2023.10342393",
+      "absent_from_bulk_refresh": true,
+      "s2_doi_check": {
+        "url": "https://api.semanticscholar.org/graph/v1/paper/DOI:10.1109/IROS55552.2023.10342393?fields=title,abstract,year,venue,url,externalIds",
+        "http_status": 404
+      },
+      "primary_evidence": {
+        "kind": "coauthor publication page",
+        "url": "https://tianruiguan.phd/publication/2023-03-25-vern",
+        "verified_claim": "Coauthor Tianrui Guan lists the same title as published in IEEE/RSJ International Conference on Intelligent Robots and Systems, 2023, and provides an IROS 2023 BibTeX entry."
+      },
+      "arxiv_evidence": {
+        "paper_url": "https://arxiv.org/abs/2303.14502",
+        "api_returned": true,
+        "comment": "8 Pages, 5 figures",
+        "withdrawal_not_confirmed": true
+      },
+      "baseline_admission_result": [
+        "Navigation & Embodied Agents",
+        "Navigation"
+      ],
+      "action": "retained_as_hand_verified_seed",
+      "reason": "The existing conference paper was omitted by the refreshed Semantic Scholar index and its DOI resolver returned HTTP 404. First-party bibliographic evidence still verifies its title, conference and year, and the existing title/abstract passes the unchanged admission function. Source-index absence is neither a rule exclusion nor evidence of withdrawal."
+    },
+    {
+      "title": "Real2Sim2Real Transfer for Control of Cable-Driven Robots Via a Differentiable Physics Engine",
+      "year": 2023,
+      "venue": "IROS",
+      "official_url": "https://doi.org/10.1109/IROS55552.2023.10341811",
+      "absent_from_bulk_refresh": true,
+      "s2_doi_check": {
+        "url": "https://api.semanticscholar.org/graph/v1/paper/DOI:10.1109/IROS55552.2023.10341811?fields=title,abstract,year,venue,url,externalIds",
+        "http_status": 404
+      },
+      "primary_evidence": {
+        "kind": "author-institution publication record",
+        "url": "https://www.researchwithrutgers.org/en/publications/real2sim2real-transfer-for-control-of-cable-driven-robots-via-a-d/",
+        "verified_claim": "The Rutgers institutional publication record identifies the title, IROS 2023, pages 2534-2541 and the same IEEE DOI."
+      },
+      "arxiv_evidence": {
+        "paper_url": "https://arxiv.org/abs/2209.06261",
+        "api_returned": true,
+        "comment": "Accepted to IROS2023; https://sites.google.com/view/sim2real",
+        "withdrawal_not_confirmed": true
+      },
+      "baseline_admission_result": [
+        "Simulation, Data & Evaluation",
+        "Sim2Real"
+      ],
+      "action": "retained_as_hand_verified_seed",
+      "reason": "The existing conference paper was omitted by the refreshed Semantic Scholar index and its DOI resolver returned HTTP 404. First-party bibliographic evidence still verifies its title, conference and year, and the existing title/abstract passes the unchanged admission function. Source-index absence is neither a rule exclusion nor evidence of withdrawal."
+    }
+  ],
+  "limitations": [
+    "The Semantic Scholar DOI 404 checks establish only current resolver absence, not why the provider omitted a record or whether its indexing failure is temporary.",
+    "All three official arXiv ID lookups returned records; this is not a claim that an arXiv record by itself proves conference acceptance. First-party publication evidence is recorded separately.",
+    "Backup Semantic Scholar ARXIV lookups encountered HTTP 429 or a closed connection and were not used as substantive evidence.",
+    "No missing record is labelled withdrawn or keyword-excluded. Existing pending taxonomy review flags are preserved.",
+    "Earlier dated refresh receipts are immutable historical evidence and are not edited by this source review."
+  ]
+}

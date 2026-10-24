@@ -1,13 +1,28 @@
-# Retargeting · 201–296
+# Retargeting · 201–312
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Topic index](retargeting.md)
 
 | Paper | Source layer | Primary path | Classification status |
 |---|---|---|---|
+| [Hand2Robot: Object-Centric 4D Hand Reconstruction from Human Demonstrations for Robotics](https://arxiv.org/abs/2610.15769) | arxiv · arXiv | Perception, Representation & State Estimation → Object & Interaction Perception → 6D Pose & Tracking | rule-assigned |
+| [RLHND: Video Foundation Models as Physically Grounded Hand Trackers for Robot Learning](https://arxiv.org/abs/2610.09455) | arxiv · arXiv | Perception, Representation & State Estimation → Human & Hand-object Perception → Hand-object Interaction Reconstruction | rule-assigned |
+| [T-800: An 800 Hz Data Glove for Precise Hand Gesture Tracking](https://arxiv.org/abs/2603.26403) | arxiv · arXiv | Perception, Representation & State Estimation → Human & Hand-object Perception → Contact & Motion Recovery | rule-assigned |
+| [Demo-JEPA: Joint-Embedding Predictive Architecture for One-shot Cross-Embodiment Imitation](https://arxiv.org/abs/2605.20811) | arxiv · arXiv | Policy Learning & Embodied Foundation Models → Generalization & Adaptation → Cross-robot Transfer | rule-assigned |
+| [Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://arxiv.org/abs/2607.08448) | arxiv · arXiv | Policy Learning & Embodied Foundation Models → VLA & Generalist Robot Policies → Vision-Language-Action Modeling | rule-assigned |
+| [Learning a Unified Latent Space for Cross-Embodiment Robot Control](https://arxiv.org/abs/2601.15419) | arxiv · arXiv | Policy Learning & Embodied Foundation Models → Generalization & Adaptation → Cross-robot Transfer | rule-assigned |
+| [Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2603.11346) | arxiv · arXiv | Policy Learning & Embodied Foundation Models → Reinforcement Learning → Online Reinforcement Learning | rule-assigned |
+| [Pre-training Visual Dexterity in Simulation](https://arxiv.org/abs/2608.15917) | arxiv · arXiv | Policy Learning & Embodied Foundation Models → Imitation Learning → Behavior Cloning & Sequence Modeling | rule-assigned |
+| [RAIN: Robotic Task Generalization with Region-Aware Interaction Networks](https://arxiv.org/abs/2610.14039) | arxiv · arXiv | Policy Learning & Embodied Foundation Models → VLA & Generalist Robot Policies → Vision-Language-Action Modeling | rule-assigned |
+| [RoboPaint: From Human Demonstration to Any Robot and Any View](https://arxiv.org/abs/2602.05325) | arxiv · arXiv | Policy Learning & Embodied Foundation Models → VLA & Generalist Robot Policies → Vision-Language-Action Modeling | rule-assigned |
+| [Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos](https://arxiv.org/abs/2606.24448) | arxiv · arXiv | Policy Learning & Embodied Foundation Models → VLA & Generalist Robot Policies → Vision-Language-Action Modeling | rule-assigned |
+| [Task-Centric Policy Optimization from Misaligned Motion Priors](https://arxiv.org/abs/2601.19411) | arxiv · arXiv | Policy Learning & Embodied Foundation Models → Reinforcement Learning → Online Reinforcement Learning | rule-assigned |
+| [Weakly Supervised Discovery of Motion Styles for Compositional Robot Control](https://arxiv.org/abs/2610.24008) | arxiv · arXiv | Policy Learning & Embodied Foundation Models → Reinforcement Learning → Online Reinforcement Learning | rule-assigned |
+| [World Motion Models: Flexible Sequence Modeling of SE(3) Trajectories](https://arxiv.org/abs/2610.01742) | arxiv · arXiv | Policy Learning & Embodied Foundation Models → Imitation Learning → Behavior Cloning & Sequence Modeling | rule-assigned |
+| [Automated Synthesis of Facial Mechanisms for Conversational Animatronic Robots](https://arxiv.org/abs/2607.11688) | arxiv · arXiv | Robot Hardware & Systems → Mechanisms & Actuation → Actuators & Transmission | rule-assigned |
 | [GIFT: Glove-Inferred Force Transfer: Force-Aware Human-to-Robot Skill Transfer from a Wearable Sensing Glove to a Robot Hand Without Tactile Sensors](https://arxiv.org/abs/2609.14173) | arxiv · arXiv | Robot Hardware & Systems → Mechanisms & Actuation → Actuators & Transmission | rule-assigned |
 | [MIDAS Hand: Modular low-Impedance Direct-drive Anthropomorphic Sensing Hand](https://arxiv.org/abs/2607.14487) | arxiv · arXiv | Robot Hardware & Systems → Mechanisms & Actuation → Actuators & Transmission | rule-assigned |
 | [PACT: Posture-Aligned Co-Design Technique for Hand Configuration and Retargeting in Multi-Finger Imitation Learning](https://arxiv.org/abs/2610.18443) | arxiv · arXiv | Robot Hardware & Systems → Mechanisms & Actuation → Hands, Grippers & Arms | reviewed |
@@ -15,6 +30,7 @@
 | [Towards Embodied AI with MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale](https://arxiv.org/abs/2603.25544) | arxiv · arXiv | Robot Hardware & Systems → Mechanisms & Actuation → Actuators & Transmission | rule-assigned |
 | [Universal Manipulation Exoskeleton: Learning Compliant Whole-body Policies with Real-time Torque Feedback](https://arxiv.org/abs/2606.14218) | arxiv · arXiv | Robot Hardware & Systems → Sensors & Human Interfaces → Pending specialty review | needs-review |
 | [DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation](https://arxiv.org/abs/2609.20649) | arxiv · arXiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Latent Dynamics | rule-assigned |
+| [GRAIL: Generating Humanoid Loco-Manipulation from World Models](https://arxiv.org/abs/2606.05160) | arxiv · arXiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Pending specialty review | needs-review |
 | [LD4WAM: Learning Latent Dynamics from Human Videos for World Action Models](https://arxiv.org/abs/2608.22403) | arxiv · arXiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Latent Dynamics | rule-assigned |
 | [Robot-Factored World Models via Robot Rendering](https://arxiv.org/abs/2607.22535) | arxiv · arXiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Action-conditioned Video Prediction | rule-assigned |
 | [Robots Need More than VLA and World Models](https://arxiv.org/abs/2606.06556) | arxiv · arXiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Latent Dynamics | rule-assigned |

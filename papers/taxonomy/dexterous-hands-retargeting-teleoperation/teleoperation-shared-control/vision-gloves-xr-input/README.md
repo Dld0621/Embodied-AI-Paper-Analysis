@@ -1,12 +1,12 @@
 # Vision, Gloves & XR Input · 视觉／手套／XR 输入
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Control&specialty=Vision%2C%20Gloves%20%26%20XR%20Input#research-workbench)
 
-> 73 conference papers · 315 recent arXiv papers
+> 73 conference papers · 322 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -98,14 +98,21 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | The Predictive Kinematic Control Tree: Enhancing Teleoperation of Redundant Robots through Probabilistic User Models | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982150) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982150) | rule-assigned |
 | 2022 | Gaze Complements Control Input for Goal Prediction During Assisted Teleoperation | RSS · Teleoperation | [Paper](https://doi.org/10.15607/rss.2022.xviii.025) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.025) | rule-assigned |
 
-## Recent arXiv papers (315)
+## Recent arXiv papers (322)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-21 | Preserving Operator Intent Under Actuation Constraints: Teleoperation of Manipulators with Coupled Transmissions | Xuhan Miao, Zijin Han, Yutong Shen, Haidong Huang et al. | [Abstract](https://arxiv.org/abs/2610.29565) · [PDF](https://arxiv.org/pdf/2610.29565) | rule-assigned |
+| 2026-10-20 | What Novice Operators See Changes What the Policy Learns: A User Study of Keypoint Hand Visual Representation for Teleoperated Demonstration | Amane Yamaguchi, Shohei Kamiguchi, Masashi Hamaya, Shigeo Yoshida et al. | [Abstract](https://arxiv.org/abs/2610.27907) · [PDF](https://arxiv.org/pdf/2610.27907) | rule-assigned |
+| 2026-10-20 | A Head Camera Is (Almost) All You Need: An Electronics-Free UMI Glove Labelled and Observed by One Moving Camera | Yosub Shin, Yuan Liu, Igor Molybog | [Abstract](https://arxiv.org/abs/2610.27622) · [PDF](https://arxiv.org/pdf/2610.27622) | rule-assigned |
+| 2026-10-19 | K-AoI: A Spatio-Temporal Synchronization Metric for Digital Twin-based Teleoperation in Dynamic Network Environments | Lu Tian, Zhenhui Yuan, Zexin Deng, Wenjuan Zhang | [Abstract](https://arxiv.org/abs/2610.26201) · [PDF](https://arxiv.org/pdf/2610.26201) | rule-assigned |
+| 2026-10-18 | Scalable, Intuitive, Mixed Reality-Based Semi-Autonomous Robotic Telemanipulation for the Execution of a Fine-Grained Bimanual Task | Shifei Duan, Zhe Wang, Francesco De Pace, Minas Liarokapis | [Abstract](https://arxiv.org/abs/2610.25006) · [PDF](https://arxiv.org/pdf/2610.25006) | rule-assigned |
+| 2026-10-15 | Evo-DexBench: Benchmarking Generalization across Related Tasks for Dexterous Manipulation | Bing Cheng, Yiran Mao, Zewei Ye, Yifan Jin et al. | [Abstract](https://arxiv.org/abs/2610.21180) · [PDF](https://arxiv.org/pdf/2610.21180) | rule-assigned |
 | 2026-10-14 | Mixed-Reality Feedback Control: Towards Blending of Control and Digital Twinning | Melisa Soydan, Mario Gleirscher | [Abstract](https://arxiv.org/abs/2610.19759) · [PDF](https://arxiv.org/pdf/2610.19759) | rule-assigned |
 | 2026-10-14 | A VR Training System for Robot-Assisted Vascular Intervention with Dual-Mode Control and Model-Based Interaction Response | Yining Shang, Shuxiang Guo, Sheng Cao, Pengcheng Li et al. | [Abstract](https://arxiv.org/abs/2610.19413) · [PDF](https://arxiv.org/pdf/2610.19413) | rule-assigned |
 | 2026-10-09 | Mapless, Stabilizing, and Anti-Stuck Flipper Control for Articulated Tracked Robots | Valentýn Číhala, Pavel Sarga, Martin Pecka, Tomáš Svoboda et al. | [Abstract](https://arxiv.org/abs/2610.13838) · [PDF](https://arxiv.org/pdf/2610.13838) | rule-assigned |
 | 2026-10-08 | YOCO: You Only Calibrate Once! Fast Mocap Calibration for Dexterous Teleoperation | Yu Zhang, Yunqi Li, Yushi Du, Yi Ma et al. | [Abstract](https://arxiv.org/abs/2610.11657) · [PDF](https://arxiv.org/pdf/2610.11657) | rule-assigned |
+| 2026-10-08 | Fast Construction of Inner Sphere Trees Using Machine Learning | Jianneng Huang, Wenjia Rao | [Abstract](https://arxiv.org/abs/2610.23940) · [PDF](https://arxiv.org/pdf/2610.23940) | rule-assigned |
 | 2026-10-06 | Mitigating Concept Drift in QoS Prediction for Teleoperation of Autonomous Vehicles Using Historic Data | Xiyan Su, Jianning Gao, Mahmoud Ashri, Frank Diermeyer | [Abstract](https://arxiv.org/abs/2610.08297) · [PDF](https://arxiv.org/pdf/2610.08297) | rule-assigned |
 | 2026-10-06 | From Wearable Interfaces to Dexterous Policies: Contact Shifts and Tactile Representations | Ruitong Tian, Fang Xu, Noah B. Wilson, Xianyao Li et al. | [Abstract](https://arxiv.org/abs/2610.08870) · [PDF](https://arxiv.org/pdf/2610.08870) | rule-assigned |
 | 2026-10-05 | TeleHairing: A Teleoperation Baseline for Robotic Haircutting | Zhendai Huang, Aleksi Vilkki, Jianan Huang, Bolin Liao et al. | [Abstract](https://arxiv.org/abs/2610.07096) · [PDF](https://arxiv.org/pdf/2610.07096) | rule-assigned |

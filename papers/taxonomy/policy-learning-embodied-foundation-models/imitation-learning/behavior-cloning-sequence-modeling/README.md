@@ -1,12 +1,12 @@
 # Behavior Cloning & Sequence Modeling · 行为克隆与序列建模
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Imitation%20Learning&specialty=Behavior%20Cloning%20%26%20Sequence%20Modeling#research-workbench)
 
-> 14 conference papers · 123 recent arXiv papers
+> 14 conference papers · 126 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -39,10 +39,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning | RSS · Behaviour Cloning | [Paper](https://arxiv.org/abs/2405.18196) · [Index](https://dblp.org/rec/conf/rss/VosyliusSUJ24) | rule-assigned |
 | 2023 | A Framework for Few-Shot Policy Transfer Through Observation Mapping and Behavior Cloning | IROS · Behavior Cloning | [Paper](https://arxiv.org/pdf/2310.08836) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342477) | rule-assigned |
 
-## Recent arXiv papers (123)
+## Recent arXiv papers (126)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-20 | T-WLA: Bridging Slow Vision and Fast Touch | Kaichen Zhou, Yuzhen Chen, Hannah Yao, Chonghe Jiang et al. | [Abstract](https://arxiv.org/abs/2610.28814) · [PDF](https://arxiv.org/pdf/2610.28814) | rule-assigned |
+| 2026-10-19 | ALIGN: Aligning Condition Estimation and Expression in Advantage-Conditioned Behavior Cloning | Zechen Wang, Zhenqi Qiu, Houlong Xiong, Suohang Zhang et al. | [Abstract](https://arxiv.org/abs/2610.26455) · [PDF](https://arxiv.org/pdf/2610.26455) | rule-assigned |
+| 2026-10-18 | TILDE: Teacher-in-the-Loop Distillation from Embodied Foundation Models | Yuxiang Lu, Yantong Liu, Jinghua Hou, Xueli Sun et al. | [Abstract](https://arxiv.org/abs/2610.25376) · [PDF](https://arxiv.org/pdf/2610.25376) | rule-assigned |
+| 2026-10-16 | Learning Robot Metareasoning: Adaptive Computation Budgets for Real-Time Control | Lorenzo Magnino, Antonio Marino, Michael Amir, Daigo Shishika et al. | [Abstract](https://arxiv.org/abs/2610.23662) · [PDF](https://arxiv.org/pdf/2610.23662) | rule-assigned |
 | 2026-10-14 | Investigating Behavior Cloning from Few Demonstrations for Autonomous Driving based on Bird's-Eye View in Simulated Cities | Eric Aislan Antonelo, Gustavo Claudio Karl Couto, Christian Möller, Pedro Henrique Fernandes | [Abstract](https://arxiv.org/abs/2610.20203) · [PDF](https://arxiv.org/pdf/2610.20203) | rule-assigned |
 | 2026-10-14 | Graph-Reweighted Behavior Cloning with Human Interventions for Precise Robotic Manipulation | Xiaoman Li, Zhiqiang Yang, Jiayu Hu, Jipeng Kong et al. | [Abstract](https://arxiv.org/abs/2610.20504) · [PDF](https://arxiv.org/pdf/2610.20504) | rule-assigned |
 | 2026-10-13 | LLM2R: From Large Language Models to 3D Reassemblers | Zhouhan Zhong, Qiuhong Shen, Xingyi Yang, Jinyi Xu et al. | [Abstract](https://arxiv.org/abs/2610.18604) · [PDF](https://arxiv.org/pdf/2610.18604) | rule-assigned |
@@ -87,7 +91,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-31 | Implicit Drifting Policy: One-Step Action Generation via Conditional Expert Geometry | Zemin Yang, Yaoyu He, Yiming Zhong, Yuhao Zhang et al. | [Abstract](https://arxiv.org/abs/2606.01098) · [PDF](https://arxiv.org/pdf/2606.01098) | rule-assigned |
 | 2026-05-29 | Behavior Cloning of MPC for 3-DOF Robotic Manipulators | Theo Guegan, Dexter Wen Jie Teo | [Abstract](https://arxiv.org/abs/2606.00383) · [PDF](https://arxiv.org/pdf/2606.00383) | rule-assigned |
 | 2026-05-19 | Mechanisms of Misgeneralization in Physical Sequence Modeling | Kento Nishi, Raphael Tang, Karun Kumar, Core Francisco Park et al. | [Abstract](https://arxiv.org/abs/2605.20299) · [PDF](https://arxiv.org/pdf/2605.20299) | rule-assigned |
-| 2026-05-19 | DEFLECT: Temporal Counterfactual Preference Learning for Delay-Robust Asynchronous VLAs | Yixiang Zhu, Yonghao Chen, Zijie Yang, Yusong Hu et al. | [Abstract](https://arxiv.org/abs/2605.19294) · [PDF](https://arxiv.org/pdf/2605.19294) | rule-assigned |
 | 2026-05-15 | FLASH: Efficient Visuomotor Policy via Sparse Sampling | Jiaqi Bai, Jindou Jia, Yuxuan Hu, Gen Li et al. | [Abstract](https://arxiv.org/abs/2605.15492) · [PDF](https://arxiv.org/pdf/2605.15492) | rule-assigned |
 | 2026-05-14 | DSSP: Diffusion State Space Policy with Full-History Encoding | Zhiyuan Guan, Jianshu Hu, Han Fang, Yunpeng Jiang et al. | [Abstract](https://arxiv.org/abs/2605.14598) · [PDF](https://arxiv.org/pdf/2605.14598) | rule-assigned |
 | 2026-05-13 | Behavior Cloning for Active Perception with Low-Resolution Egocentric Vision | Anthony Bilic, Chen Chen, Ladislau Bölöni | [Abstract](https://arxiv.org/abs/2605.14106) · [PDF](https://arxiv.org/pdf/2605.14106) | rule-assigned |
@@ -99,7 +102,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-03-16 | You've Got a Golden Ticket: Improving Generative Robot Policies With A Single Noise Vector | Omkar Patil, Ondrej Biza, Thomas Weng, Karl Schmeckpeper et al. | [Abstract](https://arxiv.org/abs/2603.15757) · [PDF](https://arxiv.org/pdf/2603.15757) | rule-assigned |
 | 2026-03-10 | Update-Free On-Policy Steering via Verifiers | Maria Attarian, Ian Vyse, Jasper Gerigk, Evgenii Opryshko et al. | [Abstract](https://arxiv.org/abs/2603.10282) · [PDF](https://arxiv.org/pdf/2603.10282) | rule-assigned |
 | 2026-03-09 | 3PoinTr: From Human Videos to Robot Policies with 3D Point-Track Plans | Adam Hung, Bardienus Pieter Duisterhof, Jeffrey Ichnowski | [Abstract](https://arxiv.org/abs/2603.08485) · [PDF](https://arxiv.org/pdf/2603.08485) | rule-assigned |
-| 2026-03-02 | Towards Robot Skill Learning and Adaptation with Gaussian Processes | A K M Nadimul Haque, Fouad Sukkar, Sheila Sujipto, Cedric Le Gentil et al. | [Abstract](https://arxiv.org/abs/2603.01480) · [PDF](https://arxiv.org/pdf/2603.01480) | rule-assigned |
+| 2026-03-02 | Towards Robot Skill Learning and Adaptation with Gaussian Processes | A K M Nadimul Haque, Fouad Sukkar, Sheila Sutjipto, Cedric Le Gentil et al. | [Abstract](https://arxiv.org/abs/2603.01480) · [PDF](https://arxiv.org/pdf/2603.01480) | rule-assigned |
 | 2026-02-22 | TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics | Shirui Chen, Cole Harrison, Ying-Chun Lee, Angela Jin Yang et al. | [Abstract](https://arxiv.org/abs/2602.19313) · [PDF](https://arxiv.org/pdf/2602.19313) | rule-assigned |
 | 2026-02-17 | Feasibility-aware Imitation Learning from Observation with Multimodal Feedback | Kei Takahashi, Hikaru Sasaki, Takamitsu Matsubara | [Abstract](https://arxiv.org/abs/2602.15351) · [PDF](https://arxiv.org/pdf/2602.15351) | rule-assigned |
 | 2026-01-27 | Real-Time Robot Execution with Masked Action Chunking | Haoxuan Wang, Gengyu Zhang, Yan Yan, Yuzhang Shang et al. | [Abstract](https://arxiv.org/abs/2601.20130) · [PDF](https://arxiv.org/pdf/2601.20130) | rule-assigned |

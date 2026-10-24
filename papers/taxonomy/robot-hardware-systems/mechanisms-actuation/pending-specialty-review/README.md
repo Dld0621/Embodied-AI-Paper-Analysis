@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Pending%20specialty%20review#research-workbench)
 
-> 81 conference papers · 220 recent arXiv papers
+> 81 conference papers · 221 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -106,10 +106,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Development and Control of Robot Hand with Finger Camera for Garment Handling Tasks | IROS · Robot Hand | [Paper](https://doi.org/10.1109/IROS47612.2022.9982134) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982134) | needs-review |
 | 2022 | Large-Scale ADMM-based Co-Design of Legged Robots | IROS · Legged | [Paper](https://doi.org/10.1109/IROS47612.2022.9981641) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981641) | needs-review |
 
-## Recent arXiv papers (220)
+## Recent arXiv papers (221)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-16 | Pedicel-Targeted Strawberry Harvesting via Imitation Learning on a Low-Cost Teleoperated Robotic Arm | Nitin Rai, Won Suk Lee, Hongyoung Leon, Heping Zhu | [Abstract](https://arxiv.org/abs/2610.22765) · [PDF](https://arxiv.org/pdf/2610.22765) | needs-review |
 | 2026-10-12 | DeTac: Dual-branch Decoupling of Texture and Force Signals in Vision-Based Tactile Sensors | Zhirui Zhang, Yunkai Tang, Jiahang Li, Fan Fei et al. | [Abstract](https://arxiv.org/abs/2610.16463) · [PDF](https://arxiv.org/pdf/2610.16463) | needs-review |
 | 2026-10-10 | Design and Evaluation of a Collaborative Teleoperation Interface for Multi-Operator Multi-Robot Systems in Challenging Environments | Alperen Kenan, Juan José García Cárdenas, Adriana Tapus, Paul Bremner et al. | [Abstract](https://arxiv.org/abs/2610.15001) · [PDF](https://arxiv.org/pdf/2610.15001) | needs-review |
 | 2026-10-08 | TACROSS: An Efficient and Low-Cost Scalable Human Touch System Across Heterogeneous Tactile Sensors for Dexterous Robot Learning | Bo Chen, Huanzhang Hu, Junyang Ma, Bo Yue et al. | [Abstract](https://arxiv.org/abs/2610.11945) · [PDF](https://arxiv.org/pdf/2610.11945) | needs-review |

@@ -1,7 +1,7 @@
 # Classification review queue · 分类待审清单
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [Classification guide](../../docs/taxonomy-guide.md) · [Taxonomy](../taxonomy/README.md)
@@ -23,7 +23,7 @@ Status counts: {'needs-review': 1389, 'rule-assigned': 2971, 'reviewed': 3}
 
 ## arxiv
 
-Status counts: {'needs-review': 5462, 'rule-assigned': 20469, 'reviewed': 36}
+Status counts: {'needs-review': 5527, 'rule-assigned': 20718, 'reviewed': 46}
 
 - [Records 1–200](arxiv-001.md)
 - [Records 201–400](arxiv-002.md)
@@ -52,4 +52,4 @@ Status counts: {'needs-review': 5462, 'rule-assigned': 20469, 'reviewed': 36}
 - [Records 4801–5000](arxiv-025.md)
 - [Records 5001–5200](arxiv-026.md)
 - [Records 5201–5400](arxiv-027.md)
-- [Records 5401–5462](arxiv-028.md)
+- [Records 5401–5527](arxiv-028.md)

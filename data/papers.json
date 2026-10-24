@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-24",
   "window": {
     "start": 2022,
     "end": 2026
@@ -4638,7 +4638,7 @@
       "track": "Data, Simulation & Evaluation",
       "topic": "Benchmark",
       "abstract": "Brain–computer interfaces (BCIs) provide a hands-free control modality for mobile robotics, yet decoding user intent during real-world navigation remains challenging. This work presents a brain–robot control framework for offline decoding of driving commands during robotic rover operation. A 4WD Rover Pro platform was remotely operated by 12 participants who navigated a predefined route using a joystick, executing the following commands: forward, reverse, left, right, and stop. Electroencephalogram (EEG) signals were recorded with a 16-channel OpenBCI cap and aligned with motor actions at ∆ = 0 ms and eight future prediction horizons (∆ > 0 ms). After data preprocessing, eleven deep learning (DL) models were benchmarked for the task of intent classification, across the Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), and Transformer architectural families. ShallowConvNet achieved the highest performance for both action prediction (F1-score 67% at ∆ = 0 ms) and intent prediction (F1-score 66% at ∆ = 300 ms), maintaining robust performance at future horizons. By combining real-world robotic control with multi-horizon EEG intention decoding, this study introduces a reproducible benchmark and reveals key design insights for predictive, DL-based BCI systems.",
-      "paper_url": "https://arxiv.org/pdf/2602.20041",
+      "paper_url": "https://doi.org/10.1109/ICRA57385.2026.11696100",
       "official_url": "https://doi.org/10.1109/ICRA57385.2026.11696100",
       "source_type": "publisher",
       "discovery_source": "Semantic Scholar bulk API",
@@ -6007,6 +6007,35 @@
           "subcategory": "Reinforcement Learning"
         }
       ]
+    },
+    {
+      "title": "Contributing Factors in Human-Robot Handshake: Compliance, Hand Grip, and Synchrony",
+      "year": 2026,
+      "venue": "ICRA",
+      "track": "Dexterous Hands, Retargeting & Teleoperation",
+      "topic": "Robot Hand",
+      "abstract": "Physical touch, such as handshakes, plays a critical role in human-robot interaction (HRI), influencing perceived naturalness and social presence. This study investigates how arm compliance, hand grip strength, and motion synchrony jointly affect the subjective quality of a human-robot handshake. We implemented a fully actuated, tactile-sensorized humanoid hand mounted on a manipulator arm and designed a compliant, oscillatory handshake controller with adaptive synchronization. Sixteen participants experienced handshakes across a 2x2x2 factorial design, varying arm compliance, grip strength, and synchrony. Objective kinematic analysis revealed significant main and interaction effects across all factors. At the same time, subjective ratings showed clear preferences for a weaker grip and greater arm compliance, with synchrony exerting minimal influence on perceived naturalness. These results highlight a perceptual hierarchy in HRI: foundational haptic properties exert the strongest influence on user experience, while advanced kinematic adjustments have limited impact when basic comfort is lacking. This insight provides concrete guidance for designing robotic handshakes that feel more human-like and pleasant.",
+      "paper_url": "https://doi.org/10.1109/ICRA57385.2026.11696443",
+      "official_url": "https://doi.org/10.1109/ICRA57385.2026.11696443",
+      "source_type": "publisher",
+      "discovery_source": "Semantic Scholar bulk API",
+      "admission_track": "Dexterity & Teleoperation",
+      "subcategory": "Multifinger Grasping & Control",
+      "specialty": "Pending specialty review",
+      "taxonomy_evidence": "reviewed:Title/abstract-only classification review, not full-paper reading or experiment reproduction: the paper studies compliance, grip strength and synchrony in a 16-participant 2x2x2 human-robot handshake experiment; synchrony is an experimental factor, not sensor calibration. The current schema lacks a precise physical-HRI specialty, so this conservative hand-control parent retains Pending specialty review rather than asserting a new grasp-control algorithm or a fully resolved leaf. Publisher source: https://doi.org/10.1109/ICRA57385.2026.11696443",
+      "primary_evidence": "reviewed:Title/abstract-only classification review, not full-paper reading or experiment reproduction: the paper studies compliance, grip strength and synchrony in a 16-participant 2x2x2 human-robot handshake experiment; synchrony is an experimental factor, not sensor calibration. The current schema lacks a precise physical-HRI specialty, so this conservative hand-control parent retains Pending specialty review rather than asserting a new grasp-control algorithm or a fully resolved leaf. Publisher source: https://doi.org/10.1109/ICRA57385.2026.11696443",
+      "subcategory_status": "rule-supported",
+      "classification_status": "needs-review",
+      "method_tags": [],
+      "embodiment_tags": [
+        "Arms & Grippers",
+        "Humanoids"
+      ],
+      "data_tags": [
+        "Tactile Data"
+      ],
+      "related_topics": [],
+      "related_taxonomy_paths": []
     },
     {
       "title": "CoorGrasp: Coordinated Contact Control for Adaptive Dexterous Grasping Under Uncertainty",
@@ -10137,7 +10166,7 @@
       "track": "Navigation, Localization & Multi-robot Coordination",
       "topic": "Benchmark",
       "abstract": "In the context of asset inspection, the size of the environment to be covered can be large. Mobile robotic systems are capable of acquiring more extensive data than static sensors, but the capacity of the robotic platform used can be limited by its autonomy and sensing capabilities. This is why multi-robot systems are interesting in such applications. However, scaling up to larger robot team sizes requires coordination among robots to be carried out efficiently. In this work, we investigate a hybrid coordination strategy with a team of micro-aerial vehicles, where a ground station centrally assigns tasks in real time to the robots, and the robots distributively coordinate their trajectories to carry out the coverage of a known asset. In particular, we perform the benchmarking and experimental validation of such a strategy. Several variants of the strategy are implemented by adapting existing state-of-the-art solutions to this context. Extensive simulation experiments are carried out in various environments to benchmark each variant and evaluate how their performance scales with the robot team size. The results show that the strategy scales well for larger robot teams, thanks to its efficient task generation process. Notably, despite its relatively simple but efficient task generation technique, it outperforms or is comparable to other methods employing more complex schemes (such as information gain or frontiers). Finally, we validated the proposed strategy with teams of up to three robots in physical experiments.",
-      "paper_url": "https://doi.org/10.1109/ICRA57385.2026.11695883",
+      "paper_url": "https://infoscience.epfl.ch/handle/20.500.14299/263908",
       "official_url": "https://doi.org/10.1109/ICRA57385.2026.11695883",
       "source_type": "publisher",
       "discovery_source": "Semantic Scholar bulk API",
@@ -12924,35 +12953,6 @@
       "method_tags": [],
       "embodiment_tags": [],
       "data_tags": [],
-      "related_topics": [],
-      "related_taxonomy_paths": []
-    },
-    {
-      "title": "Contributing Factors in Human-Robot Handshake: Compliance, Hand Grip, and Synchrony",
-      "year": 2026,
-      "venue": "ICRA",
-      "track": "Dexterous Hands, Retargeting & Teleoperation",
-      "topic": "Robot Hand",
-      "abstract": "Physical touch, such as handshakes, plays a critical role in human-robot interaction (HRI), influencing perceived naturalness and social presence. This study investigates how arm compliance, hand grip strength, and motion synchrony jointly affect the subjective quality of a human-robot handshake. We implemented a fully actuated, tactile-sensorized humanoid hand mounted on a manipulator arm and designed a compliant, oscillatory handshake controller with adaptive synchronization. Sixteen participants experienced handshakes across a 2x2x2 factorial design, varying arm compliance, grip strength, and synchrony. Objective kinematic analysis revealed significant main and interaction effects across all factors. At the same time, subjective ratings showed clear preferences for a weaker grip and greater arm compliance, with synchrony exerting minimal influence on perceived naturalness. These results highlight a perceptual hierarchy in HRI: foundational haptic properties exert the strongest influence on user experience, while advanced kinematic adjustments have limited impact when basic comfort is lacking. This insight provides concrete guidance for designing robotic handshakes that feel more human-like and pleasant.",
-      "paper_url": "https://doi.org/10.1109/ICRA57385.2026.11696443",
-      "official_url": "https://doi.org/10.1109/ICRA57385.2026.11696443",
-      "source_type": "publisher",
-      "discovery_source": "Semantic Scholar bulk API",
-      "admission_track": "Dexterity & Teleoperation",
-      "subcategory": "Multifinger Grasping & Control",
-      "specialty": "Pending specialty review",
-      "taxonomy_evidence": "reviewed:Title/abstract-only classification review, not full-paper reading or experiment reproduction: the paper studies compliance, grip strength and synchrony in a 16-participant 2x2x2 human-robot handshake experiment; synchrony is an experimental factor, not sensor calibration. The current schema lacks a precise physical-HRI specialty, so this conservative hand-control parent retains Pending specialty review rather than asserting a new grasp-control algorithm or a fully resolved leaf. Publisher source: https://doi.org/10.1109/ICRA57385.2026.11696443",
-      "primary_evidence": "reviewed:Title/abstract-only classification review, not full-paper reading or experiment reproduction: the paper studies compliance, grip strength and synchrony in a 16-participant 2x2x2 human-robot handshake experiment; synchrony is an experimental factor, not sensor calibration. The current schema lacks a precise physical-HRI specialty, so this conservative hand-control parent retains Pending specialty review rather than asserting a new grasp-control algorithm or a fully resolved leaf. Publisher source: https://doi.org/10.1109/ICRA57385.2026.11696443",
-      "subcategory_status": "rule-supported",
-      "classification_status": "needs-review",
-      "method_tags": [],
-      "embodiment_tags": [
-        "Arms & Grippers",
-        "Humanoids"
-      ],
-      "data_tags": [
-        "Tactile Data"
-      ],
       "related_topics": [],
       "related_taxonomy_paths": []
     },
@@ -43602,7 +43602,7 @@
       "topic": "Tactile",
       "abstract": "High-resolution tactile sensors have become critical for embodied perception and robotic manipulation. However, a key challenge in the field is the lack of transferability between sensors due to design and manufacturing variations, which result in significant differences in tactile signals. This limitation hinders the ability to transfer models or knowledge learned from one sensor to another. To address this, we introduce a novel method for extracting Sensor-Invariant Tactile Representations (SITR), enabling zero-shot transfer across optical tactile sensors. Our approach utilizes a transformer-based architecture trained on a diverse dataset of simulated sensor designs, allowing it to generalize to new sensors in the real world with minimal calibration. Experimental results demonstrate the method's effectiveness across various tactile sensing applications, facilitating data and model transferability for future advancements in the field.",
       "paper_url": "https://arxiv.org/abs/2502.19638",
-      "official_url": "https://dblp.org/rec/journals/corr/abs-2502-19638",
+      "official_url": "https://dblp.org/rec/conf/iclr/GuptaMJ025",
       "source_type": "bibliographic",
       "discovery_source": "Semantic Scholar bulk API",
       "admission_track": "Perception & World Models",
@@ -44396,7 +44396,7 @@
       "track": "Perception, Representation & State Estimation",
       "topic": "Tactile",
       "abstract": "To robustly handle objects, robots must perceive mechanical interactions through touch with sufficient richness. New tactile sensors leverage miniature cameras to provide dense measurements of these interactions, allowing for the extraction of material properties and frictional information. Among the plethora of solutions, retrographic sensing is popular for its ability to finely resolve the shape of the object being touched. These sensors use a reflective membrane, illuminated at a shallow angle by three RGB lights from which fine details of the surface can be recovered. However, these retrographic sensors are unable to detect the lateral displacement of the membrane and, therefore overlook frictional information, which is crucial for grasping and manipulation. Embedding and tracking opaque markers has been a makeshift solution, but these markers occlude the membrane and are difficult to manufacture. In this paper, we introduce ShadowTac, a tactile sensor that combines retrographic illumination with non-intrusive markers created by colored shadows. We patterned the retrographic surface with a dense array of submillimeter dimples, which are small enough not to obstruct the view yet cast shadows large enough to be visible to the camera. ShadowTac captures a dense image of both the normal displacement field with fine details and a precise lateral displacement field by tracking the markers. Additionally, our sensor is easy to manufacture, as the dimple pattern can simply be molded. We evaluated the measurement reliability of ShadowTac and its effectiveness in estimating the incipient slip of arbitrary objects. The dense measurement of both the normal and shear deformation that the sensor captures makes it ideal for tracking dynamic interactions between robotic fingertips and manipulated objects.",
-      "paper_url": "https://doi.org/10.1109/ICRA55743.2025.11128441",
+      "paper_url": "https://infoscience.epfl.ch/handle/20.500.14299/254682",
       "official_url": "https://doi.org/10.1109/ICRA55743.2025.11128441",
       "source_type": "publisher",
       "discovery_source": "Semantic Scholar bulk API",
@@ -64186,7 +64186,7 @@
       "topic": "In Hand",
       "abstract": "We introduce SonicSense, a holistic design of hardware and software to enable rich robot object perception through in-hand acoustic vibration sensing. While previous studies have shown promising results with acoustic sensing for object perception, current solutions are constrained to a handful of objects with simple geometries and homogeneous materials, single-finger sensing, and mixing training and testing on the same objects. SonicSense enables container inventory status differentiation, heterogeneous material prediction, 3D shape reconstruction, and object re-identification from a diverse set of 83 real-world objects. Our system employs a simple but effective heuristic exploration policy to interact with the objects as well as end-to-end learning-based algorithms to fuse vibration signals to infer object properties. Our framework underscores the significance of in-hand acoustic vibration sensing in advancing robot tactile perception.",
       "paper_url": "https://arxiv.org/abs/2406.17932",
-      "official_url": "https://dblp.org/rec/journals/corr/abs-2406-17932",
+      "official_url": "https://dblp.org/rec/conf/corl/Liu024",
       "source_type": "bibliographic",
       "discovery_source": "Semantic Scholar bulk API",
       "admission_track": "Dexterity & Teleoperation",
@@ -78721,7 +78721,7 @@
       "track": "Perception, Representation & State Estimation",
       "topic": "Tactile",
       "abstract": "Learning manipulation from demonstration is a key way for humans to teach complex tasks. However, this domain mainly focuses on kinetic teaching, and does not consider imitation of interaction forces which is essential for more contact rich tasks. We propose a framework that enables robotic imitation of contact from human demonstration using a wearable finger-tip sensor. By developing a multi-modal sensor (providing both force and contact location) and robotic collection of simple training data of different motion primitives (tapping, rotation and translation), an LSTM-based model can be used to replicate motion from tactile demonstration only. To evaluate this approach, we explore the performance on increasingly complex testing data generated by a robot, and also demonstrate the full pipeline from human demonstration via the sensor used as a wearable device. This approach of using tactile sensing as a means of inferring the required robot motion paves the way for imitation of more contact-rich tasks, and enables imitation of tasks where the demonstration and imitation is performed with different body-schema.",
-      "paper_url": "https://doi.org/10.1109/ICRA57147.2024.10610135",
+      "paper_url": "https://infoscience.epfl.ch/handle/20.500.14299/244690",
       "official_url": "https://doi.org/10.1109/ICRA57147.2024.10610135",
       "source_type": "publisher",
       "discovery_source": "Semantic Scholar bulk API",
@@ -88366,7 +88366,7 @@
       "paper_url": "https://arxiv.org/abs/2302.10693",
       "official_url": "https://doi.org/10.1109/ICRA48891.2023.10160370",
       "source_type": "publisher",
-      "discovery_source": "Semantic Scholar bulk API",
+      "discovery_source": "hand-verified seed",
       "admission_track": "Simulation, Data & Evaluation",
       "subcategory": "Contact-rich Manipulation",
       "specialty": "Tools & Articulated Objects",
@@ -88381,7 +88381,12 @@
         "Simulation"
       ],
       "related_topics": [],
-      "related_taxonomy_paths": []
+      "related_taxonomy_paths": [],
+      "source_verified_on": "2026-10-24",
+      "verification_urls": [
+        "https://ttimelord.github.io/Sim2Real2-site/",
+        "https://arxiv.org/abs/2302.10693"
+      ]
     },
     {
       "title": "Simplifying Aerial Manipulation Using Intentional Collisions",
@@ -102632,7 +102637,7 @@
       "paper_url": "https://arxiv.org/pdf/2303.14502",
       "official_url": "https://doi.org/10.1109/IROS55552.2023.10342393",
       "source_type": "publisher",
-      "discovery_source": "Semantic Scholar bulk API",
+      "discovery_source": "hand-verified seed",
       "admission_track": "Navigation & Embodied Agents",
       "subcategory": "Localization & Mapping",
       "specialty": "Pending specialty review",
@@ -102644,7 +102649,12 @@
       "embodiment_tags": [],
       "data_tags": [],
       "related_topics": [],
-      "related_taxonomy_paths": []
+      "related_taxonomy_paths": [],
+      "source_verified_on": "2026-10-24",
+      "verification_urls": [
+        "https://tianruiguan.phd/publication/2023-03-25-vern",
+        "https://arxiv.org/abs/2303.14502"
+      ]
     },
     {
       "title": "Vision-Based Vineyard Navigation Solution with Automatic Annotation",
@@ -106120,7 +106130,7 @@
       "paper_url": "https://arxiv.org/pdf/2209.06261",
       "official_url": "https://doi.org/10.1109/IROS55552.2023.10341811",
       "source_type": "publisher",
-      "discovery_source": "Semantic Scholar bulk API",
+      "discovery_source": "hand-verified seed",
       "admission_track": "Simulation, Data & Evaluation",
       "subcategory": "Mechanisms & Actuation",
       "specialty": "Pending specialty review",
@@ -106137,7 +106147,12 @@
         "Simulation"
       ],
       "related_topics": [],
-      "related_taxonomy_paths": []
+      "related_taxonomy_paths": [],
+      "source_verified_on": "2026-10-24",
+      "verification_urls": [
+        "https://www.researchwithrutgers.org/en/publications/real2sim2real-transfer-for-control-of-cable-driven-robots-via-a-d/",
+        "https://arxiv.org/abs/2209.06261"
+      ]
     },
     {
       "title": "Two-Fingered Hand with Gear-Type Synchronization Mechanism with Magnet for Improved Small and Offset Objects Grasping: F2 Hand",
@@ -108280,7 +108295,7 @@
       "track": "Arm & General Object Manipulation",
       "topic": "Manipulation",
       "abstract": "Efficient robotic manipulation of objects for sorting and searching often rely upon how well the objects are perceived and the available grasp poses. The challenge arises when the objects are irregular, have similar visual features (e.g., textureless objects) and the scene is densely cluttered. In such cases, non-prehensile manipulation (e.g., pushing) can facilitate grasping or searching by improving object perception and singulating the objects from the clutter via physical interaction. The current robotics literature in interactive segmentation focuses solely on isolated cases, where the central aim is on searching or singulating a single target object, or segmenting sparsely cluttered scenes, mainly through matching visual futures in successive scenes before and after the robotic interaction. On the other hand, in this paper, we introduce the first interactive segmentation model in the literature that can autonomously enhance the instance segmentation of such challenging scenes as a whole via optimising a Q-value function that predicts appropriate pushing actions for singulation. We achieved this by training a deep reinforcement learning model with reward signals generated by a Mask-RCNN trained solely on depth images. We evaluated our model in experiments by comparing its success on segmentation quality with a heuristic baseline, as well as the state-of-the-art Visual Pushing and Grasping (VPG) model [1]. Our model significantly outperformed both baselines in all benchmark scenarios. Furthermore, decreasing the segmentation error inherently enabled the autonomous singulation of the scene as a whole. Our evaluation experiments also serve as a benchmark for interactive segmentation research.",
-      "paper_url": "https://nottingham-repository.worktribe.com/output/7534992",
+      "paper_url": "https://doi.org/10.1109/ICRA46639.2022.9811645",
       "official_url": "https://doi.org/10.1109/icra46639.2022.9811645",
       "source_type": "publisher",
       "discovery_source": "Semantic Scholar bulk API",
@@ -110847,7 +110862,7 @@
       "topic": "Simulation",
       "abstract": "Differentiable simulation is a promising toolkit for fast gradient-based policy optimization and system identification. However, existing approaches to differentiable simulation have largely tackled scenarios where obtaining smooth gradients has been relatively easy, such as systems with mostly smooth dynamics. In this work, we study the challenges that differentiable simulation presents when it is not feasible to expect that a single descent reaches a global optimum, which is often a problem in contact-rich scenarios. We analyze the optimization landscapes of diverse scenarios that contain both rigid bodies and deformable objects. In dynamic environments with highly deformable objects and fluids, differentiable simulators produce rugged landscapes with nonetheless useful gradients in some parts of the space. We propose a method that combines Bayesian optimization with semi-local 'leaps' to obtain a global search method that can use gradients effectively, while also maintaining robust performance in regions with noisy gradients. We show that our approach outperforms several gradient-based and gradient-free baselines on an extensive set of experiments in simulation, and also validate the method using experiments with a real robot and deformables. Videos and supplementary materials are available at https://tinyurl.com/globdiff",
       "paper_url": "https://arxiv.org/abs/2207.00167",
-      "official_url": "https://dblp.org/rec/journals/corr/abs-2207-00167",
+      "official_url": "https://dblp.org/rec/conf/corl/AntonovaYJB22",
       "source_type": "bibliographic",
       "discovery_source": "Semantic Scholar bulk API",
       "admission_track": "Simulation, Data & Evaluation",
@@ -119326,7 +119341,7 @@
       "track": "Perception, Representation & State Estimation",
       "topic": "Synthetic Data",
       "abstract": "Pose estimation is the task of determining the 6D position of an object in a scene. Pose estimation aid the abilities and flexibility of robotic set-ups. However, the system must be configured towards the use case to perform adequately. This configuration is time-consuming and limits the usability of pose estimation and, thereby, robotic systems. Deep learning is a method to overcome this configuration procedure by learning parameters directly from the dataset. However, obtaining this training data can also be very time-consuming. The use of synthetic training data avoids this data collection problem, but a configuration of the training procedure is necessary to overcome the domain gap problem. Additionally, the pose estimation parameters also need to be configured. This configuration is jokingly known as grad student descent as parameters are manually adjusted until satisfactory results are obtained. This paper presents a method for automatic configuration using only synthetic data. This is accomplished by learning the domain randomization during network training, and then using the domain randomization to optimize the pose estimation parameters. The developed approach shows state-of-the-art performance of 82.0 % recall on the challenging OCCLUSION dataset, outperforming all previous methods with a large margin. These results prove the validity of automatic set-up of pose estimation using purely synthetic data.",
-      "paper_url": "https://arxiv.org/abs/2203.00945",
+      "paper_url": "https://findresearcher.sdu.dk/ws/files/220065804/parapose.pdf",
       "official_url": "https://doi.org/10.1109/IROS47612.2022.9981511",
       "source_type": "publisher",
       "discovery_source": "Semantic Scholar bulk API",
@@ -121341,7 +121356,7 @@
     "classification": "Source admission uses scripts/sync_conference_census.py; all three organization levels and cross-topic tags use scripts/taxonomy.py and reviewed exceptions. admission_track preserves the discovery label.",
     "taxonomy_version": 4,
     "seed_policy": "Hand-verified records override discovered duplicates",
-    "snapshot_date": "2026-10-15",
+    "snapshot_date": "2026-10-24",
     "venue_discovery": {
       "RSS": {
         "matched_records": 253,
@@ -121356,15 +121371,15 @@
         "included_records": 282
       },
       "ICRA": {
-        "matched_records": 4866,
-        "classified_records": 2023,
-        "new_records": 2023,
+        "matched_records": 4864,
+        "classified_records": 2022,
+        "new_records": 2022,
         "included_records": 2024
       },
       "IROS": {
-        "matched_records": 3925,
-        "classified_records": 1563,
-        "new_records": 1561,
+        "matched_records": 3923,
+        "classified_records": 1561,
+        "new_records": 1559,
         "included_records": 1562
       },
       "ICLR": {

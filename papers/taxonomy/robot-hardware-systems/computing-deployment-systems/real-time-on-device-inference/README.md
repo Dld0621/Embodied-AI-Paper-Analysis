@@ -1,12 +1,12 @@
 # Real-time & On-device Inference · 实时与端侧推理
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Computing%20%26%20Deployment%20Systems&specialty=Real-time%20%26%20On-device%20Inference#research-workbench)
 
-> 3 conference papers · 57 recent arXiv papers
+> 3 conference papers · 58 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | On-Device Diffusion Transformer Policy for Efficient Robot Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/pdf/2508.00697) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01306) | rule-assigned |
 | 2025 | Falcon: Fast Visuomotor Policies via Partial Denoising | ICML · Visuomotor | [Paper](https://arxiv.org/abs/2503.00339) · [Index](https://dblp.org/rec/journals/corr/abs-2503-00339) | rule-assigned |
 
-## Recent arXiv papers (57)
+## Recent arXiv papers (58)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-20 | Large Multimodal Models for Direct Robot Control: GPT-6 as a Beginning | Youwei Zhou, Bohan Hou, Yankai Fu, Yaoxu Lyu et al. | [Abstract](https://arxiv.org/abs/2610.28259) · [PDF](https://arxiv.org/pdf/2610.28259) | rule-assigned |
+| 2026-10-20 | De-Diffusing WAMs: Action-Sufficient Direct Prediction for Robot Control | Shaoyi Zheng, Zhongtao Jiang, Yue Peng, Wenbo Lu et al. | [Abstract](https://arxiv.org/abs/2610.28122) · [PDF](https://arxiv.org/pdf/2610.28122) | rule-assigned |
 | 2026-10-14 | Complementary Future Token Pruning for World Action Models | Baekseung Kim, Junhoo Lee, Sohyeon Hong, Suhyun Jeon et al. | [Abstract](https://arxiv.org/abs/2610.19957) · [PDF](https://arxiv.org/pdf/2610.19957) | rule-assigned |
 | 2026-10-07 | Not All Uncertainty Matters: Simulation-in-the-Loop Fast-Slow Reasoning for Decision-Critical Autonomous Driving System | Jiayi Chen, Shuai Wang, Guangxu Zhu, Derrick Wing Kwan Ng et al. | [Abstract](https://arxiv.org/abs/2610.09520) · [PDF](https://arxiv.org/pdf/2610.09520) | rule-assigned |
 | 2026-10-06 | Micro Neural Policies for Safe Real-Time Robotic Control | Hongpeng Cao, Riccardo Curcio, Daniele Ottaviano, Marco Caccamo | [Abstract](https://arxiv.org/abs/2610.08541) · [PDF](https://arxiv.org/pdf/2610.08541) | rule-assigned |
@@ -74,7 +76,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-05-14 | Deploying Foundation Model-Enabled Air and Ground Robots in the Field: Challenges and Opportunities | Zachary Ravichandran, Fernando Cladera, Jason Hughes, Varun Murali et al. | [Abstract](https://arxiv.org/abs/2505.09477) · [PDF](https://arxiv.org/pdf/2505.09477) | rule-assigned |
 | 2025-04-01 | In-Context Learning for Zero-Shot Speed Estimation of BLDC motors | Alessandro Colombo, Riccardo Busetto, Valentina Breschi, Marco Forgione et al. | [Abstract](https://arxiv.org/abs/2504.00673) · [PDF](https://arxiv.org/pdf/2504.00673) | rule-assigned |
 | 2025-03-01 | Falcon: Fast Visuomotor Policies via Partial Denoising | Haojun Chen, Minghao Liu, Chengdong Ma, Xiaojian Ma et al. | [Abstract](https://arxiv.org/abs/2503.00339) · [PDF](https://arxiv.org/pdf/2503.00339) | rule-assigned |
-| 2025-02-20 | DEFT: Differentiable Branched Discrete Elastic Rods for Modeling Furcated DLOs in Real-Time | Yizhou Chen, Xiaoyue Wu, Yeheng Zong, Yuzhen Chen et al. | [Abstract](https://arxiv.org/abs/2502.15037) · [PDF](https://arxiv.org/pdf/2502.15037) | rule-assigned |
 | 2025-01-28 | RDMM: Fine-Tuned LLM Models for On-Device Robotic Decision Making with Enhanced Contextual Awareness in Specific Domains | Shady Nasrat, Myungsu Kim, Seonil Lee, Jiho Lee et al. | [Abstract](https://arxiv.org/abs/2501.16899) · [PDF](https://arxiv.org/pdf/2501.16899) | rule-assigned |
 | 2024-12-13 | RowDetr: End-to-End Crop Row Detection Using Polynomials | Rahul Harsha Cheppally, Ajay Sharda | [Abstract](https://arxiv.org/abs/2412.10525) · [PDF](https://arxiv.org/pdf/2412.10525) | rule-assigned |
 | 2024-12-09 | On-Device Self-Supervised Learning of Low-Latency Monocular Depth from Only Events | Jesse Hagenaars, Yilun Wu, Federico Paredes-Vallés, Stein Stroobants et al. | [Abstract](https://arxiv.org/abs/2412.06359) · [PDF](https://arxiv.org/pdf/2412.06359) | rule-assigned |

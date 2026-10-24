@@ -1,12 +1,12 @@
 # Pick-place & Rearrangement · 拾放与物体重排
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Grasping%20%26%20Pick-place&specialty=Pick-place%20%26%20Rearrangement#research-workbench)
 
-> 94 conference papers · 204 recent arXiv papers
+> 94 conference papers · 206 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -119,11 +119,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Rearrangement-Based Manipulation via Kinodynamic Planning and Dynamic Planning Horizons | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2208.02312) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981599) | rule-assigned |
 | 2022 | Sequential Manipulation Planning on Scene Graph | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2207.04364) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981735) | rule-assigned |
 
-## Recent arXiv papers (204)
+## Recent arXiv papers (206)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
-| 2026-10-11 | Analytic Robot Self-Model: Learning Screw-Axis Kinematics for Rendering and Model-Based Control | Chen Xu, Ning Tan | [Abstract](https://arxiv.org/abs/2610.15558) · [PDF](https://arxiv.org/pdf/2610.15558) | rule-assigned |
+| 2026-10-20 | UniWALM: Unified World Action Language Model for Embodied Robot Control | Rahul Sajnani, Diego Romeres, Mingyuan Zhang, Kai Gao et al. | [Abstract](https://arxiv.org/abs/2610.28626) · [PDF](https://arxiv.org/pdf/2610.28626) | rule-assigned |
+| 2026-10-19 | Long-Horizon Multi-Object Rearrangement via Distilled Tree Search over Continuous Actions | Kallol Saha, Yining Hong, Amber Li, Yejin Choi et al. | [Abstract](https://arxiv.org/abs/2610.25785) · [PDF](https://arxiv.org/pdf/2610.25785) | rule-assigned |
+| 2026-10-12 | REAP: Learning General Rearrangement Heuristics from Motion-Planner Feedback | Daniel Swoboda, Hector Geffner | [Abstract](https://arxiv.org/abs/2610.23973) · [PDF](https://arxiv.org/pdf/2610.23973) | rule-assigned |
+| 2026-10-11 | Analytic Robot Self-Model: Learning Screw-Axis Kinematics for Rendering and Model-Based Control | Xu Chen, Ning Tan | [Abstract](https://arxiv.org/abs/2610.15558) · [PDF](https://arxiv.org/pdf/2610.15558) | rule-assigned |
 | 2026-10-02 | I2CD: Direct Image-to-Convex Decomposition for Simulation-Ready Collision Geometry | Qian Wang, Liam Merz Hoffmeister, Brian Scassellati, Daniel Rakita | [Abstract](https://arxiv.org/abs/2610.03453) · [PDF](https://arxiv.org/pdf/2610.03453) | rule-assigned |
 | 2026-09-30 | Refusals That Bend: Measuring and Predicting Task Malleability in Embodied VLM Planners | Leo Y. Lin, Mikhail Kuznetsov, Muslum Ozgur Ozmen, Z. Berkay Celik | [Abstract](https://arxiv.org/abs/2609.38971) · [PDF](https://arxiv.org/pdf/2609.38971) | rule-assigned |
 | 2026-09-28 | ARS: Agentic Reward System for Robot Learning | Sheng Hu, Weiyi Lu, Lingbing Zeng, Gan Weng et al. | [Abstract](https://arxiv.org/abs/2609.34484) · [PDF](https://arxiv.org/pdf/2609.34484) | rule-assigned |
@@ -326,7 +329,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-10 | GOAT: GO to Any Thing | Matthew Chang, Theophile Gervet, Mukul Khanna, Sriram Yenamandra et al. | [Abstract](https://arxiv.org/abs/2311.06430) · [PDF](https://arxiv.org/pdf/2311.06430) | rule-assigned |
 | 2023-11-03 | RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches | Jiayuan Gu, Sean Kirmani, Paul Wohlhart, Yao Lu et al. | [Abstract](https://arxiv.org/abs/2311.01977) · [PDF](https://arxiv.org/pdf/2311.01977) | rule-assigned |
 | 2023-11-02 | M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place | Wentao Yuan, Adithyavairavan Murali, Arsalan Mousavian, Dieter Fox | [Abstract](https://arxiv.org/abs/2311.00926) · [PDF](https://arxiv.org/pdf/2311.00926) | rule-assigned |
-| 2023-10-16 | Learning visual-based deformable object rearrangement with local graph neural networks | Yuhong Deng, Xueqian Wang, Lipeng chen | [Abstract](https://arxiv.org/abs/2310.10307) · [PDF](https://arxiv.org/pdf/2310.10307) | rule-assigned |
 
 ---
 

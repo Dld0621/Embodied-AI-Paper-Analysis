@@ -1,12 +1,12 @@
 # Task & Capability Benchmarks · 任务与能力基准
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Experimental%20Methods&specialty=Task%20%26%20Capability%20Benchmarks#research-workbench)
 
-> 77 conference papers · 681 recent arXiv papers
+> 77 conference papers · 687 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,7 +28,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | Assistant Placement Aria: A Benchmark for Egocentric Placement Assistance | ICRA · Benchmark | [Paper](https://arxiv.org/pdf/2608.00652) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697418) | rule-assigned |
 | 2026 | COSMO-Bench: A Benchmark for Collaborative SLAM Optimization | ICRA · Benchmark | [Paper](https://arxiv.org/pdf/2508.16731) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696499) | rule-assigned |
 | 2026 | DMRP-Bench: An Integrated, Unified Multi-Robot Motion Planning Benchmark in Dynamic Environments | ICRA · Benchmark | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696793) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696793) | rule-assigned |
-| 2026 | EEG-Driven Intention Decoding: Offline Deep Learning Benchmarking on a Robotic Rover | ICRA · Benchmark | [Paper](https://arxiv.org/pdf/2602.20041) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696100) | rule-assigned |
+| 2026 | EEG-Driven Intention Decoding: Offline Deep Learning Benchmarking on a Robotic Rover | ICRA · Benchmark | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696100) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696100) | rule-assigned |
 | 2026 | Efficient Real-World Benchmarking for Practical Fine-Grained Product Identification in Retail Robotics for Picking and Stock Taking | ICRA · Benchmark | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696228) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696228) | rule-assigned |
 | 2026 | Grounding Language Models with Semantic Digital Twins for Robotic Planning | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2506.16493) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696242) | rule-assigned |
 | 2026 | IndustryShapes: An RGB-D Benchmark dataset for 6D object pose estimation of industrial assembly components and tools | ICRA · Dataset | [Paper](https://doi.org/10.48550/arxiv.2602.05555) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697459) | rule-assigned |
@@ -102,10 +102,21 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2201.09863) · [Index](https://dblp.org/rec/conf/nips/BhatiaJTXM21) | rule-assigned |
 | 2022 | VLMbench: A Compositional Benchmark for Vision-and-Language Manipulation | NeurIPS · Language manipulation benchmark | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/04543a88eae2683133c1acbef5a6bf77-Abstract-Datasets_and_Benchmarks.html) · [Official](https://proceedings.neurips.cc/paper_files/paper/2022/hash/04543a88eae2683133c1acbef5a6bf77-Abstract-Datasets_and_Benchmarks.html) | rule-assigned |
 
-## Recent arXiv papers (681)
+## Recent arXiv papers (687)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-20 | CAPSafe: A Benchmark for Contextual Action and Plan Safety Reasoning in Embodied Agents | Youmna Farag, Svetlana Stoyanchev, Simon Keizer, Mohan Li et al. | [Abstract](https://arxiv.org/abs/2610.28381) · [PDF](https://arxiv.org/pdf/2610.28381) | rule-assigned |
+| 2026-10-19 | Which Depth Estimator for Jetson AGX Orin? A 2026 Benchmark of Monocular and Stereo Methods | Leaf Jiang | [Abstract](https://arxiv.org/abs/2610.27199) · [PDF](https://arxiv.org/pdf/2610.27199) | rule-assigned |
+| 2026-10-19 | RoboValue: A Fine-Grained Sim-and-Real Benchmark for Unified Evaluation of Robotic Value Models | Shengbang Liu, Zhengye Du, Zhilong Wan, Honghao Su et al. | [Abstract](https://arxiv.org/abs/2610.26663) · [PDF](https://arxiv.org/pdf/2610.26663) | rule-assigned |
+| 2026-10-19 | HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation | Tianwei Luo, Yiming He, Hongjin Wu, Ting Pan et al. | [Abstract](https://arxiv.org/abs/2610.26765) · [PDF](https://arxiv.org/pdf/2610.26765) | rule-assigned |
+| 2026-10-19 | Embodied Playground: A Long-Horizon Agentic Robotics Benchmark for Physical, Strategic, and Spatial Reasoning | Feng Chen, Pei Zhou, Lixuan He, Yunchao Yao et al. | [Abstract](https://arxiv.org/abs/2610.27039) · [PDF](https://arxiv.org/pdf/2610.27039) | rule-assigned |
+| 2026-10-19 | AeroIntent: A Synchronized Multimodal Benchmark for UAV Mission Intent Recognition | Yutong Chen, Jingxin Mao, Zhiwei Wei, Bing Li et al. | [Abstract](https://arxiv.org/abs/2610.25869) · [PDF](https://arxiv.org/pdf/2610.25869) | rule-assigned |
+| 2026-10-18 | BiDex-100: A Comprehensive Benchmark for Bimanual Dexterous Manipulation Across 100+ Simulation Tasks | Yong Wang, Kecheng Zheng, Xing Zhu, Chao Xu et al. | [Abstract](https://arxiv.org/abs/2610.25459) · [PDF](https://arxiv.org/pdf/2610.25459) | rule-assigned |
+| 2026-10-18 | AQUAACT: A Joystick-Level Underwater Teleoperation Dataset and Closed-Loop Benchmark | Zhenqi Wu, Trung Tien Dong, Aditya Penumarti, Mohamed A. Fouad et al. | [Abstract](https://arxiv.org/abs/2610.25534) · [PDF](https://arxiv.org/pdf/2610.25534) | rule-assigned |
+| 2026-10-17 | LIBERO-Pro2.0: A Benchmark for Evaluating the Robustness of Embodied Foundation Models | Xueyang Zhou, Yangming Xu, Qianjiang Li, Guiyao Tie et al. | [Abstract](https://arxiv.org/abs/2610.24587) · [PDF](https://arxiv.org/pdf/2610.24587) | rule-assigned |
+| 2026-10-17 | ContactBench 1.0: A Benchmark for Everyday Contact-Rich Robotic Manipulation | Jingyi Xiang, Yixuan Wang, Jeannette Bohg, Wenzhen Yuan | [Abstract](https://arxiv.org/abs/2610.24512) · [PDF](https://arxiv.org/pdf/2610.24512) | rule-assigned |
+| 2026-10-14 | SHRED: Self-Play for Heterogeneous Road-Users without Expert Demonstrations | Wei-Jer Chang, Zhouchonghao Wu, Akshay Rangesh, Weixin Li et al. | [Abstract](https://arxiv.org/abs/2610.20866) · [PDF](https://arxiv.org/pdf/2610.20866) | rule-assigned |
 | 2026-10-14 | IMU-Bench: Benchmarking Wrist IMU Representations Across Kinematic, Semantic and Clinical Tasks | Yiquan Li, Aidan Bradshaw, Chenfeng Gao, Karan Ahuja | [Abstract](https://arxiv.org/abs/2610.19481) · [PDF](https://arxiv.org/pdf/2610.19481) | rule-assigned |
 | 2026-10-14 | HM3D-M3: A Benchmark for Multi-Agent, Multi-Modal, Multi-Object Goal Navigation | Hongyu Ding, Kanyu Xu, Mingjia Chen, Zixuan Chen et al. | [Abstract](https://arxiv.org/abs/2610.20121) · [PDF](https://arxiv.org/pdf/2610.20121) | rule-assigned |
 | 2026-10-13 | Who Improves the Robot? Toward Physical Recursive Self-Improvement | Hai Zhou, Fan Yang, Zeyi Chen, Lejun Zhang et al. | [Abstract](https://arxiv.org/abs/2610.18842) · [PDF](https://arxiv.org/pdf/2610.18842) | rule-assigned |
@@ -148,6 +159,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-10-01 | Co-design Gym: A Unified Benchmark for Embodiment-Policy Co-optimization | Aviraj Newatia, Yordan Tsvetkov, Leonard Pleiss, Andrew Spielberg et al. | [Abstract](https://arxiv.org/abs/2610.02366) · [PDF](https://arxiv.org/pdf/2610.02366) | rule-assigned |
 | 2026-09-30 | Scale and Selection: What Makes Automatic Harness Evolution Work for Visual-Interface Robot Agents | Zhijie Wei, Ferris Tan, Jinghui Wang, Hao Zhou | [Abstract](https://arxiv.org/abs/2609.39304) · [PDF](https://arxiv.org/pdf/2609.39304) | rule-assigned |
 | 2026-09-30 | Neuro-Symbolic Predicate Learning for Semantic Safe Robot Control | Zihan Ye, Jiayi Liu, Puze Liu, Jiayun Li et al. | [Abstract](https://arxiv.org/abs/2609.39594) · [PDF](https://arxiv.org/pdf/2609.39594) | rule-assigned |
+| 2026-09-30 | EgoVine: Post-Training with Branching Experience Compiled from Real-World Videos | Qinchuan Cheng, Bowen Lyu, Zhantao Gong, Angela Yao et al. | [Abstract](https://arxiv.org/abs/2610.23907) · [PDF](https://arxiv.org/pdf/2610.23907) | rule-assigned |
 | 2026-09-30 | Does Continual Imitation Learning Remain Grounded? A Language-Perturbed Benchmark for Robotic Task Retention | Siddeshwar Raghavan, Ziqin Yuan, Fengqing Zhu, Byung-Cheol Min | [Abstract](https://arxiv.org/abs/2610.00542) · [PDF](https://arxiv.org/pdf/2610.00542) | rule-assigned |
 | 2026-09-29 | RoboChrono: A Real Robot Benchmark for Streaming Task Understanding | Yuzhou Wu, Longteng Fan, Zimeng Li, Yu Wanchan et al. | [Abstract](https://arxiv.org/abs/2609.36605) · [PDF](https://arxiv.org/pdf/2609.36605) | rule-assigned |
 | 2026-09-29 | Risk-Aware Semantic Grounding for Trustworthy LLM-Based Robot Planning | Łukasz Sobczak, Nur Keleşoğlu, Sławomir Piotr Nowak | [Abstract](https://arxiv.org/abs/2609.37554) · [PDF](https://arxiv.org/pdf/2609.37554) | rule-assigned |
@@ -219,7 +231,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-31 | Data-Centric Neuromotor Interfaces for Portable Human-Machine Interaction | Jiaxuan Li, Di Wu, Jianhua Liu, Yuxin Zhao et al. | [Abstract](https://arxiv.org/abs/2608.30301) · [PDF](https://arxiv.org/pdf/2608.30301) | rule-assigned |
 | 2026-08-31 | Beyond Object Selection:Markerless Gaze-based Robot Placement at Arbitrary Positions | Yuzhi Lai, William Marx, Shenghai Yuan, Peizheng Li et al. | [Abstract](https://arxiv.org/abs/2609.00478) · [PDF](https://arxiv.org/pdf/2609.00478) | rule-assigned |
 | 2026-08-31 | Behavior-Skill: A Fine-Grained Benchmark for Evaluating Vision-Language-Action Policies in Long-Horizon Tasks | Chunyun Ma, Lun Luo, Xingjian Luo, Xiexing Feng et al. | [Abstract](https://arxiv.org/abs/2608.30536) · [PDF](https://arxiv.org/pdf/2608.30536) | rule-assigned |
-| 2026-08-29 | A Degradation-Tolerance Benchmark for Camera-Only End-to-End Driving | Haohua Que, Handong Yao | [Abstract](https://arxiv.org/abs/2608.29005) · [PDF](https://arxiv.org/pdf/2608.29005) | rule-assigned |
+| 2026-08-29 | When Does Corruption Break the Plan? A Degradation-Tolerance Benchmark for Camera-Only End-to-End Driving | Haohua Que, Handong Yao | [Abstract](https://arxiv.org/abs/2608.29005) · [PDF](https://arxiv.org/pdf/2608.29005) | rule-assigned |
 | 2026-08-28 | CoCoBench: A Cooperative Coordination Benchmark for Embodied Multi-Agent Task Planning | Yang Chen, Ye-Xin Xie, Lirong Che, Danyang Peng et al. | [Abstract](https://arxiv.org/abs/2608.28266) · [PDF](https://arxiv.org/pdf/2608.28266) | rule-assigned |
 | 2026-08-27 | Multi-Group Pipe Routing under Permanent Geometric Occupancy: Problem, Benchmark, and Classical Baselines | Deng Quan | [Abstract](https://arxiv.org/abs/2608.28697) · [PDF](https://arxiv.org/pdf/2608.28697) | rule-assigned |
 | 2026-08-27 | 4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation | Zehao Qi, Haochen Luo, Jia-Wang Bian, Zeyu Ma et al. | [Abstract](https://arxiv.org/abs/2608.26947) · [PDF](https://arxiv.org/pdf/2608.26947) | rule-assigned |
@@ -385,7 +397,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-03-19 | Can LLMs Prove Robotic Path Planning Optimality? A Benchmark for Research-Level Algorithm Verification | Zhengbang Yang, Md. Tasin Tazwar, Minghan Wei, Zhuangdi Zhu | [Abstract](https://arxiv.org/abs/2603.19464) · [PDF](https://arxiv.org/pdf/2603.19464) | rule-assigned |
 | 2026-03-17 | Industrial cuVSLAM Benchmark & Integration | Charbel Abi Hana, Kameel Amareen, Mohamad Mostafa, Dmitry Slepichev et al. | [Abstract](https://arxiv.org/abs/2603.16240) · [PDF](https://arxiv.org/pdf/2603.16240) | rule-assigned |
 | 2026-03-17 | Asymmetric Nash Seeking via Best Response Maps: Global Linear Convergence and Robustness to Inexact Reaction Models | Mahdis Rabbani, Navid Mojahed, Shima Nazari | [Abstract](https://arxiv.org/abs/2603.17058) · [PDF](https://arxiv.org/pdf/2603.17058) | rule-assigned |
-| 2026-03-15 | AeroGen: Agentic Drone Autonomy through Single-Shot Structured Prompting & Drone SDK | Kautuk Astu, Yogesh Simmhan | [Abstract](https://arxiv.org/abs/2603.14236) · [PDF](https://arxiv.org/pdf/2603.14236) | rule-assigned |
 | 2026-03-14 | Benchmarking the Energy Cost of Assurance in Neuromorphic Edge Robotics | Sylvester Kaczmarek | [Abstract](https://arxiv.org/abs/2603.13880) · [PDF](https://arxiv.org/pdf/2603.13880) | rule-assigned |
 | 2026-03-13 | ESPIRE: A Diagnostic Benchmark for Embodied Spatial Reasoning of Vision-Language Models | Yanpeng Zhao, Wentao Ding, Hongtao Li, Baoxiong Jia et al. | [Abstract](https://arxiv.org/abs/2603.13033) · [PDF](https://arxiv.org/pdf/2603.13033) | rule-assigned |
 | 2026-03-12 | Towards Universal Computational Aberration Correction in Photographic Cameras: A Comprehensive Benchmark Analysis | Xiaolong Qian, Qi Jiang, Yao Gao, Lei Sun et al. | [Abstract](https://arxiv.org/abs/2603.12083) · [PDF](https://arxiv.org/pdf/2603.12083) | rule-assigned |
@@ -499,7 +510,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-09-16 | Cooperative Target Detection with AUVs: A Dual-Timescale Hierarchical MARDL Approach | Zhang Xueyao, Yang Bo, Yu Zhiwen, Cao Xuelin et al. | [Abstract](https://arxiv.org/abs/2509.13381) · [PDF](https://arxiv.org/pdf/2509.13381) | rule-assigned |
 | 2025-09-13 | Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following | Hanjing Ye, Weixi Situ, Jianwei Peng, Yu Zhan et al. | [Abstract](https://arxiv.org/abs/2509.10796) · [PDF](https://arxiv.org/pdf/2509.10796) | rule-assigned |
 | 2025-09-12 | HHI-Assist: A Dataset and Benchmark of Human-Human Interaction in Physical Assistance Scenario | Saeed Saadatnejad, Reyhaneh Hosseininejad, Jose Barreiros, Katherine M. Tsui et al. | [Abstract](https://arxiv.org/abs/2509.10096) · [PDF](https://arxiv.org/pdf/2509.10096) | rule-assigned |
-| 2025-09-12 | Asynchronous Gathering of Opaque Robots with Mobility Faults | Subhajit Pramanick, Saswata Jana, Partha Sarathi Mandal, Gokarna Sharma | [Abstract](https://arxiv.org/abs/2509.10711) · [PDF](https://arxiv.org/pdf/2509.10711) | rule-assigned |
+| 2025-09-12 | Asynchronous Indulgent Gathering of Opaque Robots | Subhajit Pramanick, Saswata Jana, Partha Sarathi Mandal, Gokarna Sharma | [Abstract](https://arxiv.org/abs/2509.10711) · [PDF](https://arxiv.org/pdf/2509.10711) | rule-assigned |
 | 2025-09-09 | Australian Supermarket Object Set (ASOS): A Benchmark Dataset of Physical Objects and 3D Models for Robotics and Computer Vision | Akansel Cosgun, Lachlan Chumbley, Benjamin J. Meyer | [Abstract](https://arxiv.org/abs/2509.09720) · [PDF](https://arxiv.org/pdf/2509.09720) | rule-assigned |
 | 2025-09-09 | Aerial-ground Cross-modal Localization: Dataset, Ground-truth, and Benchmark | Yandi Yang, Jianping Li, Youqi Liao, Yuhao Li et al. | [Abstract](https://arxiv.org/abs/2509.07362) · [PDF](https://arxiv.org/pdf/2509.07362) | rule-assigned |
 | 2025-09-09 | Adaptive Evolutionary Framework for Safe, Efficient, and Cooperative Autonomous Vehicle Interactions | Yijun Lu, Zhen Tian, Zhihao Lin | [Abstract](https://arxiv.org/abs/2509.07411) · [PDF](https://arxiv.org/pdf/2509.07411) | rule-assigned |
@@ -782,11 +793,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-05 | ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation and Re-Identification | Nicolas Gorlo, Kenneth Blomqvist, Francesco Milano, Roland Siegwart | [Abstract](https://arxiv.org/abs/2311.02734) · [PDF](https://arxiv.org/pdf/2311.02734) | rule-assigned |
 | 2023-11-04 | LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Locomotion | Firas Al-Hafez, Guoping Zhao, Jan Peters, Davide Tateo | [Abstract](https://arxiv.org/abs/2311.02496) · [PDF](https://arxiv.org/pdf/2311.02496) | rule-assigned |
 | 2023-11-01 | SAGE: Smart home Agent with Grounded Execution | Dmitriy Rivkin, Francois Hogan, Amal Feriani, Abhisek Konar et al. | [Abstract](https://arxiv.org/abs/2311.00772) · [PDF](https://arxiv.org/pdf/2311.00772) | rule-assigned |
-| 2023-10-23 | Revisiting Implicit Differentiation for Learning Problems in Optimal Control | Ming Xu, Timothy Molloy, Stephen Gould | [Abstract](https://arxiv.org/abs/2310.14468) · [PDF](https://arxiv.org/pdf/2310.14468) | rule-assigned |
-| 2023-10-18 | LoHoRavens: A Long-Horizon Language-Conditioned Benchmark for Robotic Tabletop Manipulation | Shengqiang Zhang, Philipp Wicke, Lütfi Kerem Şenel, Luis Figueredo et al. | [Abstract](https://arxiv.org/abs/2310.12020) · [PDF](https://arxiv.org/pdf/2310.12020) | rule-assigned |
-| 2023-10-18 | InViG: Benchmarking Interactive Visual Grounding with 500K Human-Robot Interactions | Hanbo Zhang, Jie Xu, Yuchen Mo, Tao Kong | [Abstract](https://arxiv.org/abs/2310.12147) · [PDF](https://arxiv.org/pdf/2310.12147) | rule-assigned |
-| 2023-10-17 | Open-Structure: Structural Benchmark Dataset for SLAM Algorithms | Yanyan Li, Zhao Guo, Ze Yang, Yanbiao Sun et al. | [Abstract](https://arxiv.org/abs/2310.10931) · [PDF](https://arxiv.org/pdf/2310.10931) | rule-assigned |
-| 2023-10-15 | Recursively-Constrained Partially Observable Markov Decision Processes | Qi Heng Ho, Tyler Becker, Benjamin Kraske, Zakariya Laouar et al. | [Abstract](https://arxiv.org/abs/2310.09688) · [PDF](https://arxiv.org/pdf/2310.09688) | rule-assigned |
 
 ---
 

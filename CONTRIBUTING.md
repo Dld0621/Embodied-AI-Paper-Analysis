@@ -1,7 +1,7 @@
 # Contributing
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 Thanks for improving the Embodied AI Research Index. The project maintains two evidence layers: an accepted-conference census and a separately labeled recent-arXiv census. The goal is systematic coverage under defensible, reproducible boundaries—not an untraceable paper dump.

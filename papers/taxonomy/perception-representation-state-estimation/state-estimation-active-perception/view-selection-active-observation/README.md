@@ -1,12 +1,12 @@
 # View Selection & Active Observation · 视角选择与主动观测
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=State%20Estimation%20%26%20Active%20Perception&specialty=View%20Selection%20%26%20Active%20Observation#research-workbench)
 
-> 10 conference papers · 62 recent arXiv papers
+> 10 conference papers · 63 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -35,13 +35,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Decentralised Active Perception in Continuous Action Spaces for the Coordinated Escort Problem | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2305.01869) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161026) | rule-assigned |
 | 2023 | Learning Continuous Control Policies for Information-Theoretic Active Perception | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2209.12427) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160455) | rule-assigned |
 
-## Recent arXiv papers (62)
+## Recent arXiv papers (63)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-15 | Illumination-Aware Active Perception for Spacecraft Inspection | Sagarika Rao Valluri, Benjamin Riviere | [Abstract](https://arxiv.org/abs/2610.22335) · [PDF](https://arxiv.org/pdf/2610.22335) | rule-assigned |
 | 2026-10-14 | Active Perception of Upper-Limb Functional Mobility through Human-Robot Handovers | Francesco Semeraro, Marta Lagomarsino, Alberto Ranavolo, Arash Ajoudani | [Abstract](https://arxiv.org/abs/2610.19896) · [PDF](https://arxiv.org/pdf/2610.19896) | rule-assigned |
 | 2026-10-13 | Receding-Horizon Next-Best-View Planning for Highly Occluded Target Perception | Ayse Gul Yildiz, Rekha Raja | [Abstract](https://arxiv.org/abs/2610.19082) · [PDF](https://arxiv.org/pdf/2610.19082) | rule-assigned |
 | 2026-10-03 | ROMA: LLM System for Real-World Object-Centric Multi-Sensory Active Perception | Ruoxuan Feng, Yutong Chen, Ruihua Song, Huan Yang et al. | [Abstract](https://arxiv.org/abs/2610.06955) · [PDF](https://arxiv.org/pdf/2610.06955) | rule-assigned |
+| 2026-09-28 | When to Make a Decision: Task-Sufficient Active Perception for Mobile Manipulator Robots | Mariana da Silva Barros, Matthias Kerzel, Cornelius Weber, Stefan Wermter | [Abstract](https://arxiv.org/abs/2610.23891) · [PDF](https://arxiv.org/pdf/2610.23891) | rule-assigned |
 | 2026-09-27 | DeltaSeek: Toward Active Perception in Evolving Construction Environments | Sanjay Acharjee, Md Nazmus Sakib | [Abstract](https://arxiv.org/abs/2609.33836) · [PDF](https://arxiv.org/pdf/2609.33836) | rule-assigned |
 | 2026-09-26 | Vision-Language Agents for Active Perception in Optics Laboratories | Ryan Lopez, Sachin Vaidya, Seou Choi, Serena Landers et al. | [Abstract](https://arxiv.org/abs/2609.32918) · [PDF](https://arxiv.org/pdf/2609.32918) | rule-assigned |
 | 2026-09-22 | Robust Active-Perception Control for Global-State-Free Aerial-Ground Cooperation | Mingxuan Zhang, Jiajun Yu, Baozhe Zhang, Pengxiang Zhou et al. | [Abstract](https://arxiv.org/abs/2609.25898) · [PDF](https://arxiv.org/pdf/2609.25898) | rule-assigned |
@@ -100,7 +102,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-03-25 | Exploiting Priors from 3D Diffusion Models for RGB-Based One-Shot View Planning | Sicong Pan, Liren Jin, Xuying Huang, Cyrill Stachniss et al. | [Abstract](https://arxiv.org/abs/2403.16803) · [PDF](https://arxiv.org/pdf/2403.16803) | rule-assigned |
 | 2024-03-22 | HortiBot: An Adaptive Multi-Arm System for Robotic Horticulture of Sweet Peppers | Christian Lenz, Rohit Menon, Michael Schreiber, Melvin Paul Jacob et al. | [Abstract](https://arxiv.org/abs/2403.15306) · [PDF](https://arxiv.org/pdf/2403.15306) | rule-assigned |
 | 2024-02-02 | Learning Which Side to Scan: Multi-View Informed Active Perception with Side Scan Sonar for Autonomous Underwater Vehicles | Advaith V. Sethuraman, Philip Baldoni, Katherine A. Skinner, James McMahon | [Abstract](https://arxiv.org/abs/2402.01106) · [PDF](https://arxiv.org/pdf/2402.01106) | rule-assigned |
-| 2023-10-15 | Active Perception using Neural Radiance Fields | Siming He, Christopher D. Hsu, Dexter Ong, Yifei Simon Shao et al. | [Abstract](https://arxiv.org/abs/2310.09892) · [PDF](https://arxiv.org/pdf/2310.09892) | rule-assigned |
 
 ---
 

@@ -1,7 +1,7 @@
 # conference classification review · 1201–1389
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
@@ -143,7 +143,7 @@
 | [On the Role of Hyperdimensional Computing for Behavioral Prioritization in Reactive Robot Navigation Tasks](https://doi.org/10.1109/icra46639.2022.9811939) | 2022 · conference | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
 | [Online Payload Identification for Tactile Robots Using the Momentum Observer](https://doi.org/10.1109/icra46639.2022.9811691) | 2022 · conference | Perception, Representation & State Estimation → Tactile & Multimodal Perception → Pending specialty review | title:perception or state; title:tactile |
 | [Optimizing Demonstrated Robot Manipulation Skills for Temporal Logic Constraints](https://arxiv.org/pdf/2209.03001) | 2022 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
-| [ParaPose: Parameter and Domain Randomization Optimization for Pose Estimation using Synthetic Data](https://arxiv.org/abs/2203.00945) | 2022 · conference | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
+| [ParaPose: Parameter and Domain Randomization Optimization for Pose Estimation using Synthetic Data](https://findresearcher.sdu.dk/ws/files/220065804/parapose.pdf) | 2022 · conference | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
 | [Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation](https://arxiv.org/pdf/2209.05451) | 2022 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Perception Engine Using a Multi-Sensor Head to Enable High-level Humanoid Robot Behaviors](https://doi.org/10.1109/icra46639.2022.9812178) | 2022 · conference | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
 | [Pouring by Feel: An Analysis of Tactile and Proprioceptive Sensing for Accurate Pouring](https://arxiv.org/pdf/2310.18473) | 2022 · conference | Perception, Representation & State Estimation → Tactile & Multimodal Perception → Pending specialty review | title:perception or state; title:tactile |

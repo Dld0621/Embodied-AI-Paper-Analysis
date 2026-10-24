@@ -1,12 +1,12 @@
 # Episodic Memory & Retrieval · 情景记忆与经验检索
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Memory%20%26%20Autonomous%20Execution&specialty=Episodic%20Memory%20%26%20Retrieval#research-workbench)
 
-> 3 conference papers · 67 recent arXiv papers
+> 3 conference papers · 68 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Retrieval-Augmented Embodied Agents | CVPR · Embodied Agent | [Paper](https://arxiv.org/pdf/2404.11699) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01703) | rule-assigned |
 | 2024 | RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model | RSS · Large Language Model | [Paper](https://arxiv.org/abs/2402.10828) · [Index](https://dblp.org/rec/conf/rss/YuanSOZ0KG24) | rule-assigned |
 
-## Recent arXiv papers (67)
+## Recent arXiv papers (68)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | CMAR-search: Commonsense and Memory Augmented Reasoning for Object Search in Dynamic Interactive Environments | Kaiyao Liao, Qingfeng Li, Xinlei Zhang, Chen Chen et al. | [Abstract](https://arxiv.org/abs/2610.30606) · [PDF](https://arxiv.org/pdf/2610.30606) | rule-assigned |
+| 2026-10-21 | Externalise the Memory: A Pre-Registered Study of Where an Embodied Agent's Experience Should Live | Cheng-Yin Tu | [Abstract](https://arxiv.org/abs/2610.30478) · [PDF](https://arxiv.org/pdf/2610.30478) | rule-assigned |
 | 2026-10-03 | Test-Time Training as Residual Memory for Robot Policies | Haoxuan Wang, Gengyu Zhang, Ramana Rao Kompella, Gaowen Liu et al. | [Abstract](https://arxiv.org/abs/2610.04701) · [PDF](https://arxiv.org/pdf/2610.04701) | rule-assigned |
 | 2026-09-28 | Where Memory Belongs: Ledger, an Object Ledger for Memory-Augmented VLAs | Tanguy Dieudonné, Jack B. Jedlicki, Heng Yang | [Abstract](https://arxiv.org/abs/2609.34554) · [PDF](https://arxiv.org/pdf/2609.34554) | rule-assigned |
 | 2026-09-28 | Beyond Retrieval Relevance: Scene-Grounded Risk Entailment for Vision-Language Driving | Jiaxin Liu, Ruilin Yu, Liang Peng, Jingkai Wang et al. | [Abstract](https://arxiv.org/abs/2609.34145) · [PDF](https://arxiv.org/pdf/2609.34145) | rule-assigned |
@@ -98,7 +100,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-03-27 | RAP: Retrieval-Augmented Planner for Adaptive Procedure Planning in Instructional Videos | Ali Zare, Yulei Niu, Hammad Ayyubi, Shih-fu Chang | [Abstract](https://arxiv.org/abs/2403.18600) · [PDF](https://arxiv.org/pdf/2403.18600) | rule-assigned |
 | 2024-02-16 | RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model | Jianhao Yuan, Shuyang Sun, Daniel Omeiza, Bo Zhao et al. | [Abstract](https://arxiv.org/abs/2402.10828) · [PDF](https://arxiv.org/pdf/2402.10828) | rule-assigned |
 | 2024-02-06 | Explaining Autonomy: Enhancing Human-Robot Interaction through Explanation Generation with Large Language Models | David Sobrín-Hidalgo, Miguel A. González-Santamarta, Ángel M. Guerrero-Higueras, Francisco J. Rodríguez-Lera et al. | [Abstract](https://arxiv.org/abs/2402.04206) · [PDF](https://arxiv.org/pdf/2402.04206) | rule-assigned |
-| 2023-10-23 | Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models | Gabriel Sarch, Yue Wu, Michael J. Tarr, Katerina Fragkiadaki | [Abstract](https://arxiv.org/abs/2310.15127) · [PDF](https://arxiv.org/pdf/2310.15127) | rule-assigned |
 
 ---
 

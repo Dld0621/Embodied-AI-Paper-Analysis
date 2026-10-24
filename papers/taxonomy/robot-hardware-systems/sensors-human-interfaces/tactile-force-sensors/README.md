@@ -1,12 +1,12 @@
 # Tactile & Force Sensors · 触觉与力传感器
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Sensors%20%26%20Human%20Interfaces&specialty=Tactile%20%26%20Force%20Sensors#research-workbench)
 
-> 46 conference papers · 62 recent arXiv papers
+> 46 conference papers · 63 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -71,10 +71,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Load-sensitive Data Acquisition for a Tactile Sensor System of Multi-fingered Robotic Hands | ICRA · Multi Finger | [Paper](https://doi.org/10.1109/icra46639.2022.9812260) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812260) | rule-assigned |
 | 2022 | Slip Anticipation for Grasping Deformable Objects Using a Soft Force Sensor | IROS · Grasp | [Paper](https://infoscience.epfl.ch/handle/20.500.14299/192207) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981174) | rule-assigned |
 
-## Recent arXiv papers (62)
+## Recent arXiv papers (63)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing | Ariel Slepyan, Geeta Chandra Raju Bethala, Jiafeng Gu, Anagha Rajendra Dangle et al. | [Abstract](https://arxiv.org/abs/2610.31661) · [PDF](https://arxiv.org/pdf/2610.31661) | reviewed |
 | 2026-10-07 | MagCilia: A Compact Magnetociliary Tactile Sensor with 3D Force Sensing for Robotic Contact Perception and Grasping Feedback | Yu Feng, Hao Wu, Haotian Guo, Haoming Liu et al. | [Abstract](https://arxiv.org/abs/2610.09536) · [PDF](https://arxiv.org/pdf/2610.09536) | rule-assigned |
 | 2026-10-01 | SoTa: Soft Tactile Skins for Dexterous Manipulation | Jingyun Yang, Baiyu Shi, Timothy Yu, Haitian Liu et al. | [Abstract](https://arxiv.org/abs/2610.02338) · [PDF](https://arxiv.org/pdf/2610.02338) | reviewed |
 | 2026-09-29 | A robust single-sensing-element tactile sensor for concurrent pressure and tackiness detection with real-time signal decoupling capability | Ying Yang, Mingwei Gu, Jia-Sen Xie, Xingyu Ma et al. | [Abstract](https://arxiv.org/abs/2609.36558) · [PDF](https://arxiv.org/pdf/2609.36558) | rule-assigned |

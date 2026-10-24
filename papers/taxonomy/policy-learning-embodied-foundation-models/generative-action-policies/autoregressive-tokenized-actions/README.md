@@ -1,12 +1,12 @@
 # Autoregressive & Tokenized Actions · 自回归与动作标记化
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generative%20Action%20Policies&specialty=Autoregressive%20%26%20Tokenized%20Actions#research-workbench)
 
-> 1 conference papers · 13 recent arXiv papers
+> 1 conference papers · 14 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2025 | CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction | ICCV · Visuomotor | [Paper](https://arxiv.org/pdf/2412.06782) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01250) | rule-assigned |
 
-## Recent arXiv papers (13)
+## Recent arXiv papers (14)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-16 | Unifying Embodied Foundation Models via a Model-to-Policy Formulation | Xinyi Hong, Mingyang Ren | [Abstract](https://arxiv.org/abs/2610.23053) · [PDF](https://arxiv.org/pdf/2610.23053) | rule-assigned |
 | 2026-10-09 | ReAT: Residual Action Tokenization for Autoregressive Robot Policies | Dijia Zhan, Zhuo Li, Xuemiao Xu, Sun Zheng et al. | [Abstract](https://arxiv.org/abs/2610.13093) · [PDF](https://arxiv.org/pdf/2610.13093) | rule-assigned |
 | 2026-10-09 | LeapBot-JAC: Joint Action Chains for World Action Models | Chenhao Zhu, Baibing Liu, Pei Liu, Rui Yang et al. | [Abstract](https://arxiv.org/abs/2610.12886) · [PDF](https://arxiv.org/pdf/2610.12886) | rule-assigned |
 | 2026-10-06 | CAP: Codebook-Aligned Prediction for Tokenized Robot Policies | Haoran Chen, Jingtian Ji, Samuel Wheeler, Kaylene Caswell Stocking et al. | [Abstract](https://arxiv.org/abs/2610.09178) · [PDF](https://arxiv.org/pdf/2610.09178) | rule-assigned |

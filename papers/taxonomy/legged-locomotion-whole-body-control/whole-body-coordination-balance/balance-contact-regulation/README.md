@@ -1,12 +1,12 @@
 # Balance & Contact Regulation · 平衡与接触调节
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Coordination%20%26%20Balance&specialty=Balance%20%26%20Contact%20Regulation#research-workbench)
 
-> 12 conference papers · 71 recent arXiv papers
+> 12 conference papers · 73 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -37,10 +37,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Admittance Model Optimization for Gait Balance Assistance of a Robotic Walker: Passive Model-based Mechanical Assessment | ICRA · Gait | [Paper](https://doi.org/10.1109/icra46639.2022.9811594) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811594) | rule-assigned |
 | 2022 | Humanoid Arm Motion Planning for Improved Disturbance Recovery Using Model Hierarchy Predictive Control | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra46639.2022.9811878) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811878) | rule-assigned |
 
-## Recent arXiv papers (71)
+## Recent arXiv papers (73)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-19 | SWAP: Test-Time Steerable Humanoid Whole-Body Collision Avoidance | Zeji Yi, Guanqi He, Xiaofeng Guo, Guannan Qu et al. | [Abstract](https://arxiv.org/abs/2610.25711) · [PDF](https://arxiv.org/pdf/2610.25711) | rule-assigned |
+| 2026-10-15 | Inertially Significant Humanoid Teleoperation via Whole Body Model Predictive Control and Online Parameter Estimation | James Foster, Beomyeong Park, Luigi Penco, Robert Griffin | [Abstract](https://arxiv.org/abs/2610.22176) · [PDF](https://arxiv.org/pdf/2610.22176) | rule-assigned |
 | 2026-10-08 | Autonomous thermodynamic cycles via robotic mobility and sensing | Sofia Kuperman, Ezra Ben-Abu, Yaron Veksler, Anna Zigelman et al. | [Abstract](https://arxiv.org/abs/2610.11667) · [PDF](https://arxiv.org/pdf/2610.11667) | rule-assigned |
 | 2026-09-27 | AMBIT: Anticipatory Multimodal Body Recruitment for Bimanual Tracking on a Humanoid | Hanlong Li, Sihan Tan, Takeshi Ashizawa, Benjamin Yen et al. | [Abstract](https://arxiv.org/abs/2609.33484) · [PDF](https://arxiv.org/pdf/2609.33484) | rule-assigned |
 | 2026-09-20 | Steering Through Contact: A Finite-Support Motion Model for Single-Track Center-Articulated Robots | Mohamed Dhia Ounally, Nicolas Samson, Mathis Turgeon-Roy, Veronica Vannini et al. | [Abstract](https://arxiv.org/abs/2609.23271) · [PDF](https://arxiv.org/pdf/2609.23271) | rule-assigned |

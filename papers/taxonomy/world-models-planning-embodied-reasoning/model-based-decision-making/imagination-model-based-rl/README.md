@@ -1,12 +1,12 @@
 # Imagination & Model-based RL · 想象训练与模型式 RL
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Model-based%20Decision%20Making&specialty=Imagination%20%26%20Model-based%20RL#research-workbench)
 
-> 4 conference papers · 48 recent arXiv papers
+> 4 conference papers · 50 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,10 +29,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Model-based Adversarial Imitation Learning from Demonstrations and Human Reward | IROS · Imitation Learning | [Paper](https://doi.org/10.1109/IROS55552.2023.10341411) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341411) | rule-assigned |
 | 2022 | SAM-RL: Sensing-aware model-based reinforcement learning via differentiable physics-based simulation and rendering | RSS · Simulation | [Paper](https://arxiv.org/pdf/2210.15185) · [Publisher](https://doi.org/10.1177/02783649241284653) | rule-assigned |
 
-## Recent arXiv papers (48)
+## Recent arXiv papers (50)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | DiffDreamer: Coupling World Models with Differentiable Simulation for Agile Quadrotor Control | Fanxing Li, Yuxiang Huang, Shengyang Wang, Fangyu Sun et al. | [Abstract](https://arxiv.org/abs/2610.31617) · [PDF](https://arxiv.org/pdf/2610.31617) | reviewed |
+| 2026-10-19 | Simulation Priors for Rapid Adaptation in Model-Based RL for Autonomous Racing | Adrian Remonda, Jiajun Xi, Nicklas Hansen, Marcus Greiff et al. | [Abstract](https://arxiv.org/abs/2610.26757) · [PDF](https://arxiv.org/pdf/2610.26757) | rule-assigned |
 | 2026-10-10 | Chunk-wise Model-based Policy Optimization | Weixi Song, Donglin Wang, Yong-Lu Li | [Abstract](https://arxiv.org/abs/2610.14564) · [PDF](https://arxiv.org/pdf/2610.14564) | rule-assigned |
 | 2026-10-07 | Event-Aligned Visual Action Reasoning for World Action Models | Xiaomeng Yang, Yushu Wu, Yi Gao, Yuhao Lei et al. | [Abstract](https://arxiv.org/abs/2610.09427) · [PDF](https://arxiv.org/pdf/2610.09427) | rule-assigned |
 | 2026-10-04 | FLEX-WAM: Flexible Block-Causal World-Action Models for Long-Horizon Imagination and Planning | R. Khorrambakht, Joseph Amigo, Félix Lebel, Leon Seetoo et al. | [Abstract](https://arxiv.org/abs/2610.05483) · [PDF](https://arxiv.org/pdf/2610.05483) | rule-assigned |

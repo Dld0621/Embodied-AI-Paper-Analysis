@@ -1,12 +1,12 @@
 # Semantic & Neural Maps · 语义与神经地图
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Semantic%20%26%20Neural%20Maps#research-workbench)
 
-> 47 conference papers · 366 recent arXiv papers
+> 47 conference papers · 364 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -72,10 +72,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Mapping of Spatiotemporal Scalar Fields by Mobile Robots using Gaussian Process Regression | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981548) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981548) | rule-assigned |
 | 2022 | Ranging-Aided Ground Robot Navigation Using UWB Nodes at Unknown Locations | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981186) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981186) | rule-assigned |
 
-## Recent arXiv papers (366)
+## Recent arXiv papers (364)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | Point-Level Refinable Semantic Mapping for Spatial Understanding | Taimeng Fu, Yi Du, Zitong Zhan, Qiwei Du et al. | [Abstract](https://arxiv.org/abs/2610.31476) · [PDF](https://arxiv.org/pdf/2610.31476) | rule-assigned |
+| 2026-10-22 | OASIS: Online Anchor-centric Scene Inference System for Open-Vocabulary Retrieval and Navigation in Dynamic Environments | Kaiyao Liao, Qingfeng Li, Chen Chen, Xiaoze Wu et al. | [Abstract](https://arxiv.org/abs/2610.30589) · [PDF](https://arxiv.org/pdf/2610.30589) | rule-assigned |
 | 2026-10-14 | Tiered-Resolution Volumetric Mapping for Real-Time Simultaneous Planning and Mapping on Natural Outdoor Environments | Afonso E. Carvalho, David Portugal, Paulo Peixoto, George Kantor | [Abstract](https://arxiv.org/abs/2610.20476) · [PDF](https://arxiv.org/pdf/2610.20476) | rule-assigned |
 | 2026-10-13 | CoSMO: Conformal Semantic Mapping for Open-World Safe Robot Navigation | Shuqi Wang, Yiwei Zheng, Pingrui Zhang, Yue Gao et al. | [Abstract](https://arxiv.org/abs/2610.18321) · [PDF](https://arxiv.org/pdf/2610.18321) | rule-assigned |
 | 2026-10-12 | ReForesight: Occlusion-Robust Re-Identification and Future Occupancy Forecasting for Dynamic Semantic Mapping | Didar Seyidov, Faith Ogunwoye, Hajira Amjad, Danil Tolkachev et al. | [Abstract](https://arxiv.org/abs/2610.17279) · [PDF](https://arxiv.org/pdf/2610.17279) | rule-assigned |
@@ -438,10 +440,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-07 | Interactive Semantic Map Representation for Skill-based Visual Object Navigation | Tatiana Zemskova, Aleksei Staroverov, Kirill Muravyev, Dmitry Yudin et al. | [Abstract](https://arxiv.org/abs/2311.04107) · [PDF](https://arxiv.org/pdf/2311.04107) | rule-assigned |
 | 2023-11-01 | nvblox: GPU-Accelerated Incremental Signed Distance Field Mapping | Alexander Millane, Helen Oleynikova, Emilie Wirbel, Remo Steiner et al. | [Abstract](https://arxiv.org/abs/2311.00626) · [PDF](https://arxiv.org/pdf/2311.00626) | rule-assigned |
 | 2023-10-24 | ConvBKI: Real-Time Probabilistic Semantic Mapping Network with Quantifiable Uncertainty | Joey Wilson, Yuewei Fu, Joshua Friesen, Parker Ewen et al. | [Abstract](https://arxiv.org/abs/2310.16020) · [PDF](https://arxiv.org/pdf/2310.16020) | rule-assigned |
-| 2023-10-20 | Quadrotor Dead Reckoning with Multiple Inertial Sensors | Dror Hurwitz, Itzik Klein | [Abstract](https://arxiv.org/abs/2310.13452) · [PDF](https://arxiv.org/pdf/2310.13452) | rule-assigned |
-| 2023-10-19 | RMap: Millimeter-Wave Radar Mapping Through Volumetric Upsampling | Ajay Narasimha Mopidevi, Kyle Harlow, Christoffer Heckman | [Abstract](https://arxiv.org/abs/2310.13188) · [PDF](https://arxiv.org/pdf/2310.13188) | rule-assigned |
-| 2023-10-18 | Asynchronous Distributed Smoothing and Mapping via On-Manifold Consensus ADMM | Daniel McGann, Kyle Lassak, Michael Kaess | [Abstract](https://arxiv.org/abs/2310.12320) · [PDF](https://arxiv.org/pdf/2310.12320) | rule-assigned |
-| 2023-10-16 | Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People | Dharmateja Adapa, Virendra Singh Shekhawat, Avinash Gautam, Sudeept Mohan | [Abstract](https://arxiv.org/abs/2310.10290) · [PDF](https://arxiv.org/pdf/2310.10290) | rule-assigned |
 
 ---
 

@@ -1,12 +1,12 @@
 # Dual-arm Collaboration · 双臂协作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Dual-arm%20Collaboration#research-workbench)
 
-> 47 conference papers · 157 recent arXiv papers
+> 47 conference papers · 162 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -72,16 +72,20 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Temporal Task Models from Human Bimanual Demonstrations | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS47612.2022.9981068) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981068) | rule-assigned |
 | 2022 | Nonlinear Model Predictive Control for Human-Robot Handover with Application to the Aerial Case | IROS · Robot Hand | [Paper](https://hal.science/hal-03716664) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981045) | rule-assigned |
 
-## Recent arXiv papers (157)
+## Recent arXiv papers (162)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-21 | Training in Deployment: Human-in-the-loop Online Post-Training for Robot Manipulation | Chun Gu, Xiaofei Wei, Yiming Chen, Bozhou Zhang et al. | [Abstract](https://arxiv.org/abs/2610.29264) · [PDF](https://arxiv.org/pdf/2610.29264) | rule-assigned |
+| 2026-10-16 | GRASP: Global-Local Representation Alignment and Spatial-Physical Grounding for Bimanual Robotic Manipulation | Zeyuan Ren, Guanxun Zhao, Qi Li, Hao Wang et al. | [Abstract](https://arxiv.org/abs/2610.23123) · [PDF](https://arxiv.org/pdf/2610.23123) | rule-assigned |
+| 2026-10-16 | Embodiment-Aware Planning for Heterogeneous Bimanual Manipulation | Sukhvansh Jain, Anurag Maurya, Shivam Vats, Narendra Kumar Dhar et al. | [Abstract](https://arxiv.org/abs/2610.23551) · [PDF](https://arxiv.org/pdf/2610.23551) | rule-assigned |
 | 2026-10-14 | Dual-arm Cooperation for Tabletop Wiping with Temporal Object Removal | Pengqi Zhang, Longchang Yu, Daohan Li, Liang Yan et al. | [Abstract](https://arxiv.org/abs/2610.19527) · [PDF](https://arxiv.org/pdf/2610.19527) | rule-assigned |
 | 2026-10-13 | RESTA: Time-Scaling Augmentation for Data-Efficient Robot Imitation Learning | Yunpeng Jiang, Jianshu Hu, Han Fang, Zhiyuan Guan et al. | [Abstract](https://arxiv.org/abs/2610.18163) · [PDF](https://arxiv.org/pdf/2610.18163) | rule-assigned |
 | 2026-10-11 | Competitive Task Allocation with Temporal Proposal Windows and Improved Artificial Potential Fields for Dual-Arm Industrial Manipulation | Surya Prakash S. K, Bhuvan Narula, Jagannath Prasad Sahoo, Jayakumar VK et al. | [Abstract](https://arxiv.org/abs/2610.15763) · [PDF](https://arxiv.org/pdf/2610.15763) | rule-assigned |
 | 2026-10-08 | Assessing the Marginal Utility of Exocentric Head Views in UMI-Style Large-FoV Wrist-Camera Manipulation | Yuhui Duan, Shi Jin, Yuntian Wang, Jin Wang et al. | [Abstract](https://arxiv.org/abs/2610.14075) · [PDF](https://arxiv.org/pdf/2610.14075) | rule-assigned |
 | 2026-10-05 | Trajectory Planning without Trajectory Data: A Manifold-Guided Approach | Silong Yong, Anji Liu, Cunxi Dai, Carl Busart et al. | [Abstract](https://arxiv.org/abs/2610.08863) · [PDF](https://arxiv.org/pdf/2610.08863) | rule-assigned |
 | 2026-10-02 | EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras | Kush Hari, Justin Kerr, Nidhya Shivakumar, Samarth Mahapatra et al. | [Abstract](https://arxiv.org/abs/2610.03710) · [PDF](https://arxiv.org/pdf/2610.03710) | rule-assigned |
+| 2026-09-30 | UMI-WM: Interactive World Modeling for Bimanual Manipulation from Wrist Cameras | Jingxiang Guo, Haoyu Zhao, Xidong Zhang, Yuhang Zheng et al. | [Abstract](https://arxiv.org/abs/2610.23913) · [PDF](https://arxiv.org/pdf/2610.23913) | rule-assigned |
 | 2026-09-30 | SteerQuant: Steering Quantization Error with Action-Guided Scaling in World-Action Models | Yunhan Wang, Haodong Wang, Zhiming Liu, Zicong Hong et al. | [Abstract](https://arxiv.org/abs/2609.39056) · [PDF](https://arxiv.org/pdf/2609.39056) | rule-assigned |
 | 2026-09-25 | FRAM: Trajectory-Guided Visual Feature Selection for Compact Language-Conditioned Robot Manipulation | Hiroshi Ito, Hyogo Hiruma, Yoshiki Kanai, Takahiro Yoshida et al. | [Abstract](https://arxiv.org/abs/2609.30965) · [PDF](https://arxiv.org/pdf/2609.30965) | rule-assigned |
 | 2026-09-23 | Watch, Recall, Act: Always-On Robots in Concurrent Embodied Streams | Ding Yi, Peiwen Sun, Chenchu Rong, Jianan Wang et al. | [Abstract](https://arxiv.org/abs/2609.28429) · [PDF](https://arxiv.org/pdf/2609.28429) | rule-assigned |
@@ -115,6 +119,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-09 | HiPi: Reproducible High-Fidelity Piezoresistive Sensors for Robotic Manipulation | Changyi Lin, Raihan Haque, Hui-Ping Wang, Ding Zhao | [Abstract](https://arxiv.org/abs/2606.11372) · [PDF](https://arxiv.org/pdf/2606.11372) | rule-assigned |
 | 2026-05-28 | MonoDuo: Using One Robot Arm to Learn Bimanual Policies | Sandeep Bajamahal, Lawrence Yunliang Chen, Toru Lin, Zehan Ma et al. | [Abstract](https://arxiv.org/abs/2605.29298) · [PDF](https://arxiv.org/pdf/2605.29298) | rule-assigned |
 | 2026-05-26 | TCBiRRT: Rapid Motion Planning for Tightly Coupled Dual-arm Space Manipulator Using Task-space Random Expansion | Jiawei Zhang, Xinhao Miao, Jifeng Guo, Qinghua Li et al. | [Abstract](https://arxiv.org/abs/2605.27167) · [PDF](https://arxiv.org/pdf/2605.27167) | rule-assigned |
+| 2026-05-21 | Dual-Arm Box Manipulation via Online Inertial Estimation and Convex Wrench Optimization | Kenzhi Iskandar Wong, Lin Yang, Qian Ying Lee, Domenico Campolo | [Abstract](https://arxiv.org/abs/2605.22021) · [PDF](https://arxiv.org/pdf/2605.22021) | rule-assigned |
 | 2026-05-18 | Key-Gram: Extensible World Knowledge for Embodied Manipulation | Jingjing Fan, Siyuan Li, Botao Ren, Zhidong Deng | [Abstract](https://arxiv.org/abs/2605.18556) · [PDF](https://arxiv.org/pdf/2605.18556) | rule-assigned |
 | 2026-05-12 | From Reaction to Anticipation: Proactive Failure Recovery through Agentic Task Graph for Robotic Manipulation | Sheng Xu, Ruixing Jin, Huayi Zhou, Bo Yue et al. | [Abstract](https://arxiv.org/abs/2605.11951) · [PDF](https://arxiv.org/pdf/2605.11951) | rule-assigned |
 | 2026-05-01 | MSACT: Multistage Spatial Alignment for Stable Low-Latency Fine Manipulation | Xianbo Cai, Hideyuki Ichiwara, Masaki Yoshikawa, Tetsuya Ogata | [Abstract](https://arxiv.org/abs/2605.00475) · [PDF](https://arxiv.org/pdf/2605.00475) | rule-assigned |

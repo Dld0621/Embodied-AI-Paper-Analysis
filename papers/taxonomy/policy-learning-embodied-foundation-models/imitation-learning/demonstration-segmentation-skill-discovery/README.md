@@ -1,12 +1,12 @@
 # Demonstration Segmentation & Skill Discovery · 示教分段与技能发现
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Imitation%20Learning&specialty=Demonstration%20Segmentation%20%26%20Skill%20Discovery#research-workbench)
 
-> 0 conference papers · 16 recent arXiv papers
+> 0 conference papers · 15 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,7 +24,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (16)
+## Recent arXiv papers (15)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -43,7 +43,6 @@ No conference papers currently map to this specialty.
 | 2024-05-23 | Agentic Skill Discovery | Xufeng Zhao, Cornelius Weber, Stefan Wermter | [Abstract](https://arxiv.org/abs/2405.15019) · [PDF](https://arxiv.org/pdf/2405.15019) | rule-assigned |
 | 2024-02-27 | Rethinking Mutual Information for Language Conditioned Skill Discovery on Imitation Learning | Zhaoxun Ju, Chao Yang, Hongbo Wang, Yu Qiao et al. | [Abstract](https://arxiv.org/abs/2402.17511) · [PDF](https://arxiv.org/pdf/2402.17511) | rule-assigned |
 | 2024-02-23 | Foundation Policies with Hilbert Representations | Seohong Park, Tobias Kreiman, Sergey Levine | [Abstract](https://arxiv.org/abs/2402.15567) · [PDF](https://arxiv.org/pdf/2402.15567) | rule-assigned |
-| 2023-10-16 | Bootstrap Your Own Skills: Learning to Solve New Tasks with Large Language Model Guidance | Jesse Zhang, Jiahui Zhang, Karl Pertsch, Ziyi Liu et al. | [Abstract](https://arxiv.org/abs/2310.10021) · [PDF](https://arxiv.org/pdf/2310.10021) | rule-assigned |
 
 ---
 

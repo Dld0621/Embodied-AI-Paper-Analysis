@@ -1,7 +1,7 @@
 # conference classification review · 401–600
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
@@ -113,7 +113,7 @@
 | [Self-Improving Autonomous Underwater Manipulation](https://arxiv.org/pdf/2410.18969) | 2025 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Self-Reflective Perceptual Adaptation for Robust Ground Navigation in Unstructured Off-Road Environments](https://doi.org/10.1109/ICRA55743.2025.11127392) | 2025 · conference | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
 | [Sequential Multi-Object Grasping with One Dexterous Hand](https://arxiv.org/pdf/2503.09078) | 2025 · conference | 暂定二级 / provisional: Dexterous Hands, Retargeting & Teleoperation → Multifinger Grasping & Control → Pending specialty review | title:dexterous hands or teleoperation; fallback |
-| [ShadowTac: Dense Measurement of Shear and Normal Deformation of a Tactile Membrane from Colored Shadows](https://doi.org/10.1109/ICRA55743.2025.11128441) | 2025 · conference | Perception, Representation & State Estimation → Tactile & Multimodal Perception → Pending specialty review | title:perception or state; title:tactile |
+| [ShadowTac: Dense Measurement of Shear and Normal Deformation of a Tactile Membrane from Colored Shadows](https://infoscience.epfl.ch/handle/20.500.14299/254682) | 2025 · conference | Perception, Representation & State Estimation → Tactile & Multimodal Perception → Pending specialty review | title:perception or state; title:tactile |
 | [Shaken, Not Stirred: A Novel Dataset for Visual Understanding of Glasses in Human-Robot Bartending Tasks](https://arxiv.org/abs/2503.04308) | 2025 · conference | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:dataset |
 | [Shape-Space Deformer: Unified Visuo-Tactile Representations for Robotic Manipulation of Deformable Objects](https://arxiv.org/pdf/2409.12419) | 2025 · conference | Arm & General Object Manipulation → Deformable Object Manipulation → Pending specialty review | title:object manipulation; title:deformable |
 | [SkB-Hand: A Skeleton Bionic Hand with Dual-Tendon for General Purpose Robotic Grasping Tasks](https://doi.org/10.1109/IROS60139.2025.11245858) | 2025 · conference | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasping |

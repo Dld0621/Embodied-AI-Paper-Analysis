@@ -1,12 +1,12 @@
 # Visuotactile & Proprioceptive Fusion · 视觉触觉与本体感知融合
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Visuotactile%20%26%20Proprioceptive%20Fusion#research-workbench)
 
-> 22 conference papers · 157 recent arXiv papers
+> 22 conference papers · 156 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -47,10 +47,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning-based Six-axis Force/Torque Estimation Using GelStereo Fingertip Visuotactile Sensing | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS47612.2022.9981100) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981100) | rule-assigned |
 | 2022 | Visual-Tactile Multimodality for Following Deformable Linear Objects Using Reinforcement Learning | IROS · Tactile | [Paper](https://arxiv.org/pdf/2204.00117) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982218) | rule-assigned |
 
-## Recent arXiv papers (157)
+## Recent arXiv papers (156)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | GelSlim 5.0: Unifying Vision and Touch with a Single Fingertip Camera | Xiangdong Wang, I-Hsuan Huang, Xiaohao Xu, Xili Yi et al. | [Abstract](https://arxiv.org/abs/2610.31334) · [PDF](https://arxiv.org/pdf/2610.31334) | reviewed |
 | 2026-10-07 | TacHair: Tactile Contact-Distribution Guided Online Correction for Robotic Hair Stroking and Perception | Ruiyi Hu, Yongqiang Zhao, Daniel Bak, Yupeng Wang et al. | [Abstract](https://arxiv.org/abs/2610.10637) · [PDF](https://arxiv.org/pdf/2610.10637) | rule-assigned |
 | 2026-10-07 | Enhancing Robotic Perception and Adaptability through Sensor Fusion and Origami-Inspired Designs | Namai Chandra, Jaison Jose, Kavi Arya, Shivaram Kalyanakrishnan | [Abstract](https://arxiv.org/abs/2610.09828) · [PDF](https://arxiv.org/pdf/2610.09828) | rule-assigned |
 | 2026-10-02 | Register-Routed Delayed Fusion: Rewiring Shortcut-Prone Observation Fusion in Visuomotor Imitation | Jieting Long, Weidong Cai, Weiming Zhi | [Abstract](https://arxiv.org/abs/2610.02813) · [PDF](https://arxiv.org/pdf/2610.02813) | rule-assigned |
@@ -206,8 +207,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-22 | To Fuse or Not to Fuse: Measuring Consistency in Multi-Sensor Fusion for Aerial Robots | Christian Lanegger, Helen Oleynikova, Michael Pantic, Lionel Ott et al. | [Abstract](https://arxiv.org/abs/2312.14730) · [PDF](https://arxiv.org/pdf/2312.14730) | rule-assigned |
 | 2023-11-15 | Range-Visual-Inertial Sensor Fusion for Micro Aerial Vehicle Localization and Navigation | Abhishek Goudar, Wenda Zhao, Angela P. Schoellig | [Abstract](https://arxiv.org/abs/2311.09056) · [PDF](https://arxiv.org/pdf/2311.09056) | rule-assigned |
 | 2023-11-02 | Multimodal and Force-Matched Imitation Learning with a See-Through Visuotactile Sensor | Trevor Ablett, Oliver Limoyo, Adam Sigal, Affan Jilani et al. | [Abstract](https://arxiv.org/abs/2311.01248) · [PDF](https://arxiv.org/pdf/2311.01248) | rule-assigned |
-| 2023-10-19 | Fully Onboard Low-Power Localization with Semantic Sensor Fusion on a Nano-UAV using Floor Plans | Nicky Zimmerman, Hanna Müller, Michele Magno, Luca Benini | [Abstract](https://arxiv.org/abs/2310.12536) · [PDF](https://arxiv.org/pdf/2310.12536) | rule-assigned |
-| 2023-10-17 | 3D Force and Contact Estimation for a Soft-Bubble Visuotactile Sensor Using FEM | Jing-Chen Peng, Shaoxiong Yao, Kris Hauser | [Abstract](https://arxiv.org/abs/2310.11372) · [PDF](https://arxiv.org/pdf/2310.11372) | rule-assigned |
 
 ---
 

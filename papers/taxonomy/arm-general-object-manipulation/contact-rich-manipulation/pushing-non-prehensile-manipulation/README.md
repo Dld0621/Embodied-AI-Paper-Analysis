@@ -1,12 +1,12 @@
 # Pushing & Non-prehensile Manipulation · 推滑与非抓取操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Pushing%20%26%20Non-prehensile%20Manipulation#research-workbench)
 
-> 49 conference papers · 137 recent arXiv papers
+> 49 conference papers · 140 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -68,16 +68,19 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Visuo-Tactile Transformers for Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2210.00121) · [Index](https://dblp.org/rec/conf/corl/ChenMSF22) | rule-assigned |
 | 2022 | Attentive One-Shot Meta-Imitation Learning From Visual Demonstration | ICRA · Imitation Learning | [Paper](https://doi.org/10.1109/icra46639.2022.9812281) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812281) | rule-assigned |
 | 2022 | Persistent Homology for Effective Non-Prehensile Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2202.02937) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811848) | rule-assigned |
-| 2022 | Push-to-See: Learning Non-Prehensile Manipulation to Enhance Instance Segmentation via Deep Q-Learning | ICRA · Manipulation | [Paper](https://nottingham-repository.worktribe.com/output/7534992) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811645) | rule-assigned |
+| 2022 | Push-to-See: Learning Non-Prehensile Manipulation to Enhance Instance Segmentation via Deep Q-Learning | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA46639.2022.9811645) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811645) | rule-assigned |
 | 2022 | Tactile-Guided Dynamic Object Planar Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981270) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981270) | rule-assigned |
 | 2022 | Task-Oriented Contact Optimization for Pushing Manipulation with Mobile Robots | IROS · Mobile Robot | [Paper](https://iris.unimore.it/bitstream/11380/1295974/1/multi_robot_pushing.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982177) | rule-assigned |
 | 2022 | To ask for help or not to ask: A predictive approach to human-in-the-loop motion planning for robot manipulation tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981679) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981679) | rule-assigned |
 | 2022 | Data Augmentation for Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2205.02886) · [Index](https://dblp.org/rec/journals/corr/abs-2205-02886) | rule-assigned |
 
-## Recent arXiv papers (137)
+## Recent arXiv papers (140)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-19 | ReDOA: Real-World Distillation via Observation Alignment for Image-Based Manipulation Policy Learning | Kotaro Kajitsuka, Masaki Murooka, Fumio Kanehiro | [Abstract](https://arxiv.org/abs/2610.25691) · [PDF](https://arxiv.org/pdf/2610.25691) | rule-assigned |
+| 2026-10-17 | DiPLO: Self-distilled Diffusion Planning for Loco-manipulation | Shafeef Omar, Sebastian Sanokowski, Elham Daneshmand, Dian Yu et al. | [Abstract](https://arxiv.org/abs/2610.24847) · [PDF](https://arxiv.org/pdf/2610.24847) | rule-assigned |
+| 2026-10-16 | Shape-Aware Neural Time Fields for Rigid-Body Motion and Manipulation Planning | Yanming Zhou, Yuchen Liu, Ahmed H. Qureshi | [Abstract](https://arxiv.org/abs/2610.22762) · [PDF](https://arxiv.org/pdf/2610.22762) | rule-assigned |
 | 2026-10-13 | Intent-guided Adaptive Stiffening for Visuomotor Policies under Unknown Resistance | Francesco Cufino, Carmela Mariniello, Mario Selvaggio, Andreas Sochopoulos et al. | [Abstract](https://arxiv.org/abs/2610.18386) · [PDF](https://arxiv.org/pdf/2610.18386) | rule-assigned |
 | 2026-10-13 | ForceWAM: Decoupling Future and Response Learning from Demo and Play Data for Contact-Rich Manipulation | Zijun Xu, Wendi Chen, Xinkai Wang, Jiachen Zou et al. | [Abstract](https://arxiv.org/abs/2610.18852) · [PDF](https://arxiv.org/pdf/2610.18852) | rule-assigned |
 | 2026-10-13 | Beyond the End-Effector: Learning Whole-Arm Contact Manipulation from Human Demonstrations | Bo-Ruei Huang, Daniel Seita, Erdem Bıyık | [Abstract](https://arxiv.org/abs/2610.17802) · [PDF](https://arxiv.org/pdf/2610.17802) | rule-assigned |

@@ -1,12 +1,12 @@
 # Flow-matching Policies · Flow Matching 策略
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generative%20Action%20Policies&specialty=Flow-matching%20Policies#research-workbench)
 
-> 3 conference papers · 125 recent arXiv papers
+> 3 conference papers · 128 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2510.02738) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697008) | rule-assigned |
 | 2026 | Shifted Flow Policy: Uncertainty-aware Time Reparameterization for Visuomotor Learning | ICRA · Visuomotor | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696791) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696791) | rule-assigned |
 
-## Recent arXiv papers (125)
+## Recent arXiv papers (128)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies | Shivakanth Sujit, Luca Nunziante, Rousslan Fernand Julien Dossa, Kai Arulkumaran | [Abstract](https://arxiv.org/abs/2610.30735) · [PDF](https://arxiv.org/pdf/2610.30735) | rule-assigned |
+| 2026-10-16 | TrajEdit: Real-Time Flow-Matching Trajectory Adaptation via FlowEdit and CBF Safety Filter | Wondmgezahu Teshome, Arya Honarpisheh, Octavia Camps, Mario Sznaier | [Abstract](https://arxiv.org/abs/2610.24256) · [PDF](https://arxiv.org/pdf/2610.24256) | rule-assigned |
+| 2026-10-15 | MOSS: Mode-Oriented Source Shaping for Robot Flow Matching Policies | Zirun Ma, Jindou Jia, Tuo An, Jiaqi Bai et al. | [Abstract](https://arxiv.org/abs/2610.22193) · [PDF](https://arxiv.org/pdf/2610.22193) | rule-assigned |
 | 2026-10-14 | When Do Discrete Actions Make Good Continuous Controllers? | Zeji Yi, Soham Dasgupta, Xinyang Zhang, Koushil Sreenath et al. | [Abstract](https://arxiv.org/abs/2610.20429) · [PDF](https://arxiv.org/pdf/2610.20429) | rule-assigned |
 | 2026-10-14 | Physical Time as a Missing Dimension of Robot Policy Memory Dynamics | Yushen Liang, Yue Peng, Baosheng Jin, Tianluo Zhang et al. | [Abstract](https://arxiv.org/abs/2610.20524) · [PDF](https://arxiv.org/pdf/2610.20524) | rule-assigned |
 | 2026-10-13 | OccWAM: Occupancy World-Action Models with Joint Scene-to-Ego Flow Matching | Qihang Huang, Wenhui Huang, Collister Chua, Shiyu Fang et al. | [Abstract](https://arxiv.org/abs/2610.17688) · [PDF](https://arxiv.org/pdf/2610.17688) | rule-assigned |

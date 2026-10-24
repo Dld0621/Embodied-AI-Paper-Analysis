@@ -1,12 +1,12 @@
 # Embodied QA & Spatial Reasoning · 具身问答与空间推理
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Task%20Reasoning%20%26%20Planning&specialty=Embodied%20QA%20%26%20Spatial%20Reasoning#research-workbench)
 
-> 12 conference papers · 115 recent arXiv papers
+> 12 conference papers · 116 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -37,10 +37,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Explore until Confident: Efficient Exploration for Embodied Question Answering | RSS · Exploration | [Paper](https://arxiv.org/abs/2403.15941) · [Index](https://dblp.org/rec/conf/rss/RenCDIMS24) | rule-assigned |
 | 2022 | Inner Monologue: Embodied Reasoning through Planning with Language Models | CoRL · Language Model | [Paper](https://arxiv.org/abs/2207.05608) · [Index](https://dblp.org/rec/conf/corl/HuangXXCLFZTMCS22) | rule-assigned |
 
-## Recent arXiv papers (115)
+## Recent arXiv papers (116)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-15 | Spatial Memory by Agents, for Agents | Qianwei Wang, Ce Zhang, Zhanpeng Luo, Pengpeng Su et al. | [Abstract](https://arxiv.org/abs/2610.22736) · [PDF](https://arxiv.org/pdf/2610.22736) | rule-assigned |
 | 2026-10-13 | Towards a Systematic Study of Embodied System 2 over Full Task Execution Cycles | Yuxi Wei, Ye Fang, Shuai Yang, Tong Wu et al. | [Abstract](https://arxiv.org/abs/2610.17657) · [PDF](https://arxiv.org/pdf/2610.17657) | rule-assigned |
 | 2026-10-06 | VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning | Zewei Zhou, Rachel Luo, Yulong Cao, Chaowei Xiao et al. | [Abstract](https://arxiv.org/abs/2610.08761) · [PDF](https://arxiv.org/pdf/2610.08761) | rule-assigned |
 | 2026-09-28 | Memory in the Sky: Low-Altitude Question Answering with Multi-Agent Memory Aggregation | Chengyang Li, Yujie Wan, Shuai Wang, Kejiang Ye et al. | [Abstract](https://arxiv.org/abs/2609.35431) · [PDF](https://arxiv.org/pdf/2609.35431) | rule-assigned |

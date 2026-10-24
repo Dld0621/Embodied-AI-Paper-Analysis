@@ -1,12 +1,12 @@
 # Fall Prevention & Recovery · 跌倒预防与恢复
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Coordination%20%26%20Balance&specialty=Fall%20Prevention%20%26%20Recovery#research-workbench)
 
-> 8 conference papers · 32 recent arXiv papers
+> 8 conference papers · 33 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,10 +33,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Efficient, Dynamic Locomotion through Step Placement with Straight Legs and Rolling Contacts | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2310.13134) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611056) | rule-assigned |
 | 2024 | HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2309.14225) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610449) | rule-assigned |
 
-## Recent arXiv papers (32)
+## Recent arXiv papers (33)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-21 | Test-Time Motion Steering for Perceptive Humanoid Fall Recovery | Osher Azulay, Cheng-Lin Hsieh, Stella X. Yu | [Abstract](https://arxiv.org/abs/2610.30061) · [PDF](https://arxiv.org/pdf/2610.30061) | rule-assigned |
 | 2026-10-08 | FallGown: A Soft Pneumatic Wearable Device for Fall Prevention | Megan C. Coram, Haoran Lei, Steven H. Collins, Steve B. Cousins et al. | [Abstract](https://arxiv.org/abs/2610.12706) · [PDF](https://arxiv.org/pdf/2610.12706) | rule-assigned |
 | 2026-10-02 | KungfuAthleteBot: learning high-dynamic humanoid motion from video with unified robust recovery | Zhongxiang Lei, Lulu Cao, Xuyang Wang, Tianyi Qian et al. | [Abstract](https://arxiv.org/abs/2610.03388) · [PDF](https://arxiv.org/pdf/2610.03388) | rule-assigned |
 | 2026-09-30 | Locomotion-Grounded Humanoid Soccer: Task-Gated Reinforcement Learning of a Multi-Directional Kicking Library | Abu Hanif Muhammad Syarubany, Jaehyun Jang, Hwanhee Kim, Kyuwon Kim et al. | [Abstract](https://arxiv.org/abs/2609.38852) · [PDF](https://arxiv.org/pdf/2609.38852) | rule-assigned |
@@ -49,7 +50,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-05 | Predictive Style Matching: Natural and Robust Humanoid Locomotion | Simeon Nedelchev, Ekaterina Chaikovskaia, Egor Davydenko, Eduard Zaliaev et al. | [Abstract](https://arxiv.org/abs/2606.07083) · [PDF](https://arxiv.org/pdf/2606.07083) | rule-assigned |
 | 2026-06-01 | Improved Postural Stability Using a Lightweight Semi-Active Soft Back Support Device Under Standing Perturbations | Rohan Khatavkar, Jiefeng Sun, Hyunglae Lee | [Abstract](https://arxiv.org/abs/2606.02928) · [PDF](https://arxiv.org/pdf/2606.02928) | rule-assigned |
 | 2026-05-13 | MUJICA: Multi-skill Unified Joint Integration of Control Architecture for Wheeled-Legged Robots | Yuqi Li, Peng Zhai, Yueqi Zhang, Xiaoyi Wei et al. | [Abstract](https://arxiv.org/abs/2605.13058) · [PDF](https://arxiv.org/pdf/2605.13058) | rule-assigned |
-| 2026-02-18 | VIGOR: Visual Goal-In-Context Inference for Unified Humanoid Fall Safety | Osher Azulay, Zhengjie Xu, Andrew Scheffer, Stella X. Yu | [Abstract](https://arxiv.org/abs/2602.16511) · [PDF](https://arxiv.org/pdf/2602.16511) | rule-assigned |
+| 2026-02-18 | Unified Perceptive Fall Safety for Humanoids | Osher Azulay, Zhengjie Xu, Andrew Scheffer, Stella X. Yu | [Abstract](https://arxiv.org/abs/2602.16511) · [PDF](https://arxiv.org/pdf/2602.16511) | rule-assigned |
+| 2026-02-14 | KungfuAthleteBot: Learning High-Dynamic Motion from Videos with Unified Robust Recovery | Zhongxiang Lei, Lulu Cao, Xuyang Wang, Tianyi Qian et al. | [Abstract](https://arxiv.org/abs/2602.13656) · [PDF](https://arxiv.org/pdf/2602.13656) | rule-assigned |
 | 2025-11-10 | Unified Humanoid Fall-Safety Policy from a Few Demonstrations | Zhengjie Xu, Ye Li, Kwan-yee Lin, Stella X. Yu | [Abstract](https://arxiv.org/abs/2511.07407) · [PDF](https://arxiv.org/pdf/2511.07407) | rule-assigned |
 | 2025-10-25 | Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and Morphology for Fall Recovery | Bo Yue, Sheng Xu, Kui Jia, Guiliang Liu | [Abstract](https://arxiv.org/abs/2510.22336) · [PDF](https://arxiv.org/pdf/2510.22336) | rule-assigned |
 | 2025-09-15 | FR-Net: Learning Robust Quadrupedal Fall Recovery on Challenging Terrains through Mass-Contact Prediction | Yidan Lu, Yinzhao Dong, Jiahui Zhang, Ji Ma et al. | [Abstract](https://arxiv.org/abs/2509.11504) · [PDF](https://arxiv.org/pdf/2509.11504) | rule-assigned |
@@ -68,7 +70,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-09-22 | Adapting Gait Frequency for Posture-regulating Humanoid Push-recovery via Hierarchical Model Predictive Control | Junheng Li, Zhanhao Le, Junchao Ma, Quan Nguyen | [Abstract](https://arxiv.org/abs/2409.14342) · [PDF](https://arxiv.org/pdf/2409.14342) | rule-assigned |
 | 2024-08-02 | The NING Humanoid: The Concurrent Design and Development of a Dynamic and Agile Platform | Yan Ning, Song Liu, Taiwen Yang, Liang Zheng et al. | [Abstract](https://arxiv.org/abs/2408.01056) · [PDF](https://arxiv.org/pdf/2408.01056) | rule-assigned |
 | 2023-12-03 | Smart safety watch for elderly people and pregnant women | Balachandra D S, Maithreyee M S, Saipavan B M, Shashank S et al. | [Abstract](https://arxiv.org/abs/2312.01302) · [PDF](https://arxiv.org/pdf/2312.01302) | rule-assigned |
-| 2023-10-19 | Efficient, Dynamic Locomotion through Step Placement with Straight Legs and Rolling Contacts | Stefan Fasano, James Foster, Sylvain Bertrand, Christian DeBuys et al. | [Abstract](https://arxiv.org/abs/2310.13134) · [PDF](https://arxiv.org/pdf/2310.13134) | rule-assigned |
 
 ---
 

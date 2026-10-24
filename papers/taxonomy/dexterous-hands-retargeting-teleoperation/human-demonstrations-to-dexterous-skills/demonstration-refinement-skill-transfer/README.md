@@ -1,12 +1,12 @@
 # Demonstration Refinement & Skill Transfer · 示教精炼与技能迁移
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Human%20Demonstrations%20to%20Dexterous%20Skills&specialty=Demonstration%20Refinement%20%26%20Skill%20Transfer#research-workbench)
 
-> 1 conference papers · 13 recent arXiv papers
+> 1 conference papers · 14 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2023 | Dexterous Imitation Made Easy: A Learning-Based Framework for Efficient Dexterous Manipulation | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2203.13251) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160275) | rule-assigned |
 
-## Recent arXiv papers (13)
+## Recent arXiv papers (14)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-21 | DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations | Mingze Sun, Ziang Cao, Yuan Fei, Qiankuan Tao et al. | [Abstract](https://arxiv.org/abs/2610.29997) · [PDF](https://arxiv.org/pdf/2610.29997) | reviewed |
 | 2026-10-12 | CopyQuad: Quadrupedal Skill Transfer from a Single Side-View Video Without a Depth Model | Mohamad H. Danesh, Raina Hu, Mengxue Xu, Hsiu-Chin Lin | [Abstract](https://arxiv.org/abs/2610.16737) · [PDF](https://arxiv.org/pdf/2610.16737) | rule-assigned |
 | 2026-10-10 | DexCast: Learning Real-World Dexterous Control from Human Videos | Zihan Gao, Yuhong Zhang, Mengzhe Wang, Kaisheng Liu et al. | [Abstract](https://arxiv.org/abs/2610.14691) · [PDF](https://arxiv.org/pdf/2610.14691) | rule-assigned |
 | 2026-10-01 | Interaction-Stiffness-Guided Basis Allocation in Dynamic Movement Primitives for Efficient Skill Transfer | Chan Xu, Silu Chen, Dehao Wang, Xiyu Chen et al. | [Abstract](https://arxiv.org/abs/2610.01288) · [PDF](https://arxiv.org/pdf/2610.01288) | rule-assigned |

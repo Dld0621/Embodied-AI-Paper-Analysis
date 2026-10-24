@@ -1,12 +1,12 @@
 # 6D Pose & Tracking · 六维姿态与跟踪
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Object%20%26%20Interaction%20Perception&specialty=6D%20Pose%20%26%20Tracking#research-workbench)
 
-> 38 conference papers · 198 recent arXiv papers
+> 38 conference papers · 202 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -63,10 +63,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Simultaneous Contact Location and Object Pose Estimation Using Proprioception and Tactile Feedback | IROS · Tactile | [Paper](https://arxiv.org/pdf/2206.01245) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981762) | rule-assigned |
 | 2022 | SLAM-Supported Self-Training for 6D Object Pose Estimation | IROS · Object Pose | [Paper](https://arxiv.org/pdf/2203.04424) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981145) | rule-assigned |
 
-## Recent arXiv papers (198)
+## Recent arXiv papers (202)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-20 | RoPT: Robust 6DoF Object Pose Tracking in Video | Yongqing Liang, Yuzhong Chen, Sihang Li, Junsuk Kim et al. | [Abstract](https://arxiv.org/abs/2610.28962) · [PDF](https://arxiv.org/pdf/2610.28962) | rule-assigned |
+| 2026-10-15 | Uni-PNP: Unified Prehensile and Non-prehensile Policy Learning for Generalizable Object Pose Reaching | Wenxuan Zhu, Yuze Wang, Jiangran Lyu, Jiayi Chen et al. | [Abstract](https://arxiv.org/abs/2610.21735) · [PDF](https://arxiv.org/pdf/2610.21735) | rule-assigned |
+| 2026-10-15 | CLAD: Keypoint Matching Using Global Line Correspondences | Masaki Satoh | [Abstract](https://arxiv.org/abs/2610.21409) · [PDF](https://arxiv.org/pdf/2610.21409) | rule-assigned |
+| 2026-10-12 | IMPULSE: Push First, Then Predict in V-JEPA 2 Feature Space | Tingan Jin | [Abstract](https://arxiv.org/abs/2610.23968) · [PDF](https://arxiv.org/pdf/2610.23968) | rule-assigned |
 | 2026-10-11 | Hand2Robot: Object-Centric 4D Hand Reconstruction from Human Demonstrations for Robotics | Zetao Du, Weiqing Wang, Hanbing Zhang, Yimiao Zhou et al. | [Abstract](https://arxiv.org/abs/2610.15769) · [PDF](https://arxiv.org/pdf/2610.15769) | rule-assigned |
 | 2026-10-08 | Neural Networks for Temporal Pattern Recognition and Dynamic Arm Gesture Speed Estimation for Robot Control | Milán Zsolt Bagladi, László Gulyás | [Abstract](https://arxiv.org/abs/2610.11631) · [PDF](https://arxiv.org/pdf/2610.11631) | rule-assigned |
 | 2026-10-07 | WAPR: A Foundation Model for Wide-Angle Refinement in Unseen Object Pose Estimation | Yulin Wang, Mengting Hu, Hongli Li, Jianghao Zhou et al. | [Abstract](https://arxiv.org/abs/2610.09535) · [PDF](https://arxiv.org/pdf/2610.09535) | rule-assigned |
@@ -82,6 +86,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-07-20 | UMCP: A Unified Multi-Task Collaborative Perception Network for Luggage Trolley Pose Estimation | Zhirui Sun, Zhihao Jiang, Yao Wang, Jianwei Peng et al. | [Abstract](https://arxiv.org/abs/2607.17950) · [PDF](https://arxiv.org/pdf/2607.17950) | rule-assigned |
 | 2026-07-16 | KineFuse: Kinematic-Aware Haptic Fusion for In-Hand Occluded-Object Pose Tracking | Chanyoung Ahn, Jaesung Lee, Sungwoo Park, Donghyun Hwang | [Abstract](https://arxiv.org/abs/2607.14842) · [PDF](https://arxiv.org/pdf/2607.14842) | rule-assigned |
 | 2026-07-15 | Towards a Modular Bin-picking Framework for Handling Object Pose Uncertainties | Frederik Hagelskjær | [Abstract](https://arxiv.org/abs/2607.13698) · [PDF](https://arxiv.org/pdf/2607.13698) | rule-assigned |
+| 2026-07-08 | Wrench-Based Bayesian Pose Estimation via Matrix--Fisher Gaussian Inference | Jianyu Chen, Lin Yang, Yibang Li, Domenico Campolo et al. | [Abstract](https://arxiv.org/abs/2607.07306) · [PDF](https://arxiv.org/pdf/2607.07306) | rule-assigned |
 | 2026-06-29 | PS-MOT: Cultivating Instance Awareness from Point Seeds for Multi-Object Tracking | Kai Luo, Fei Teng, Mengfei Duan, Wanjun Jia et al. | [Abstract](https://arxiv.org/abs/2606.30476) · [PDF](https://arxiv.org/pdf/2606.30476) | rule-assigned |
 | 2026-06-29 | MF-UAVPose6D: A Model-Free Monocular 6-DoF Pose Estimation Framework for Fixed-Wing UAVs | Juanqin Liu, Leonardo Plotegher, Eloy Roura, Shaoming He | [Abstract](https://arxiv.org/abs/2606.29697) · [PDF](https://arxiv.org/pdf/2606.29697) | rule-assigned |
 | 2026-06-29 | FalconTrack: Photorealistic Auto-Labeled Perception and Physics-Aware Vision-Based Aerial Tracking | Yan Miao, Karteek Gandiboyina, Noah Giles, Hideki Okamoto et al. | [Abstract](https://arxiv.org/abs/2606.29783) · [PDF](https://arxiv.org/pdf/2606.29783) | rule-assigned |
@@ -264,7 +269,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-05 | Fast Point Cloud to Mesh Reconstruction for Deformable Object Tracking | Elham Amin Mansour, Hehui Zheng, Robert K. Katzschmann | [Abstract](https://arxiv.org/abs/2311.02749) · [PDF](https://arxiv.org/pdf/2311.02749) | rule-assigned |
 | 2023-10-30 | CARPE-ID: Continuously Adaptable Re-identification for Personalized Robot Assistance | Federico Rollo, Andrea Zunino, Nikolaos Tsagarakis, Enrico Mingo Hoffman et al. | [Abstract](https://arxiv.org/abs/2310.19413) · [PDF](https://arxiv.org/pdf/2310.19413) | rule-assigned |
 | 2023-10-25 | Real-time 6-DoF Pose Estimation by an Event-based Camera using Active LED Markers | Gerald Ebmer, Adam Loch, Minh Nhat Vu, Germain Haessig et al. | [Abstract](https://arxiv.org/abs/2310.16618) · [PDF](https://arxiv.org/pdf/2310.16618) | rule-assigned |
-| 2023-10-20 | LanPose: Language-Instructed 6D Object Pose Estimation for Robotic Assembly | Bowen Fu, Sek Kun Leong, Yan Di, Jiwen Tang et al. | [Abstract](https://arxiv.org/abs/2310.13819) · [PDF](https://arxiv.org/pdf/2310.13819) | rule-assigned |
 
 ---
 

@@ -1,12 +1,12 @@
 # Generative Data Augmentation · 生成模型辅助数据
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Synthetic%20%26%20Augmented%20Data&specialty=Generative%20Data%20Augmentation#research-workbench)
 
-> 11 conference papers · 113 recent arXiv papers
+> 11 conference papers · 112 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -36,10 +36,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | GenAug: Retargeting behaviors to unseen situations via Generative Augmentation | RSS · Retargeting | [Paper](https://arxiv.org/abs/2302.06671) · [Index](https://dblp.org/rec/journals/corr/abs-2302-06671) | rule-assigned |
 | 2022 | Learning-based Ellipse Detection for Robotic Grasps of Cylinders and Ellipsoids | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra46639.2022.9812363) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812363) | rule-assigned |
 
-## Recent arXiv papers (113)
+## Recent arXiv papers (112)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | Learning Robot Behavior Priors from Non-Robotic Synthetic Data | Mateusz Odrowaz-Sypniewski, Michael Amir, Jasmine Bayrooti, Ajay Shankar et al. | [Abstract](https://arxiv.org/abs/2610.31275) · [PDF](https://arxiv.org/pdf/2610.31275) | rule-assigned |
+| 2026-10-21 | Robot Generalization Beyond Volume: The Diversity Path via Zero-Shot Capabilities | Rafael Felix, Flavia Yanase | [Abstract](https://arxiv.org/abs/2610.29829) · [PDF](https://arxiv.org/pdf/2610.29829) | rule-assigned |
 | 2026-10-14 | NavAble: A Large-Scale Dataset and Synthetic Data Generation Pipeline for Blind Navigation | Hochul Hwang, Jahir Sadik Monon, Soowan Yang, Shiven Umeshbhai Patel et al. | [Abstract](https://arxiv.org/abs/2610.19330) · [PDF](https://arxiv.org/pdf/2610.19330) | rule-assigned |
 | 2026-10-10 | TartanMatch: Towards Universal Dense Correspondence Across Modalities | Hyeokjoon Kwon, Jiting Cai, Ruogu Li, Kritan Bhandari et al. | [Abstract](https://arxiv.org/abs/2610.14513) · [PDF](https://arxiv.org/pdf/2610.14513) | rule-assigned |
 | 2026-10-05 | Bayesian Data Augmentation for DNN Retraining with Binomial Outcomes in Vision-Based UAV Landing | Ashik E Rasul, Hyung-Jin Yoon | [Abstract](https://arxiv.org/abs/2610.05674) · [PDF](https://arxiv.org/pdf/2610.05674) | rule-assigned |
@@ -150,9 +152,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-23 | Tube-NeRF: Efficient Imitation Learning of Visuomotor Policies from MPC using Tube-Guided Data Augmentation and NeRFs | Andrea Tagliabue, Jonathan P. How | [Abstract](https://arxiv.org/abs/2311.14153) · [PDF](https://arxiv.org/pdf/2311.14153) | rule-assigned |
 | 2023-11-18 | Synthetic Data Generation for Bridging Sim2Real Gap in a Production Environment | Parth Rawal, Mrunal Sompura, Wolfgang Hintze | [Abstract](https://arxiv.org/abs/2311.11039) · [PDF](https://arxiv.org/pdf/2311.11039) | rule-assigned |
 | 2023-10-31 | Addressing Limitations of State-Aware Imitation Learning for Autonomous Driving | Luca Cultrera, Federico Becattini, Lorenzo Seidenari, Pietro Pala et al. | [Abstract](https://arxiv.org/abs/2310.20650) · [PDF](https://arxiv.org/pdf/2310.20650) | rule-assigned |
-| 2023-10-19 | CCIL: Continuity-based Data Augmentation for Corrective Imitation Learning | Liyiming Ke, Yunchu Zhang, Abhay Deshpande, Siddhartha Srinivasa et al. | [Abstract](https://arxiv.org/abs/2310.12972) · [PDF](https://arxiv.org/pdf/2310.12972) | rule-assigned |
-| 2023-10-18 | UNav-Sim: A Visually Realistic Underwater Robotics Simulator and Synthetic Data-generation Framework | Abdelhakim Amer, Olaya Álvarez-Tuñón, Halil Ibrahim Ugurlu, Jonas le Fevre Sejersen et al. | [Abstract](https://arxiv.org/abs/2310.11927) · [PDF](https://arxiv.org/pdf/2310.11927) | rule-assigned |
-| 2023-10-18 | A Finite-Horizon Approach to Active Level Set Estimation | Phillip Kearns, Bruno Jedynak, John Lipor | [Abstract](https://arxiv.org/abs/2310.11985) · [PDF](https://arxiv.org/pdf/2310.11985) | rule-assigned |
 
 ---
 

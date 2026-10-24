@@ -1,12 +1,12 @@
 # Object-goal & Semantic Navigation · 物体目标与语义导航
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Goal%20%26%20Language%20Navigation&specialty=Object-goal%20%26%20Semantic%20Navigation#research-workbench)
 
-> 27 conference papers · 103 recent arXiv papers
+> 27 conference papers · 102 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -52,7 +52,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Zero-Shot Object Goal Visual Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2206.07423) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161289) | rule-assigned |
 | 2022 | Learning Active Camera for Multi-Object Navigation | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.07505) · [Index](https://dblp.org/rec/conf/nips/ChenJLH0LTG22) | rule-assigned |
 
-## Recent arXiv papers (103)
+## Recent arXiv papers (102)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -158,7 +158,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-01-05 | VoroNav: Voronoi-based Zero-shot Object Navigation with Large Language Model | Pengying Wu, Yao Mu, Bingxian Wu, Yi Hou et al. | [Abstract](https://arxiv.org/abs/2401.02695) · [PDF](https://arxiv.org/pdf/2401.02695) | rule-assigned |
 | 2023-12-06 | VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation | Naoki Yokoyama, Sehoon Ha, Dhruv Batra, Jiuguang Wang et al. | [Abstract](https://arxiv.org/abs/2312.03275) · [PDF](https://arxiv.org/pdf/2312.03275) | rule-assigned |
 | 2023-11-28 | Visual Semantic Navigation with Real Robots | Carlos Gutiérrez-Álvarez, Pablo Ríos-Navarro, Rafael Flor-Rodríguez, Francisco Javier Acevedo-Rodríguez et al. | [Abstract](https://arxiv.org/abs/2311.16623) · [PDF](https://arxiv.org/pdf/2311.16623) | rule-assigned |
-| 2023-10-15 | Zero-Shot Object Goal Visual Navigation With Class-Independent Relationship Network | Xinting Li, Shiguang Zhang, Yue LU, Kerry Dang et al. | [Abstract](https://arxiv.org/abs/2310.09883) · [PDF](https://arxiv.org/pdf/2310.09883) | rule-assigned |
 
 ---
 

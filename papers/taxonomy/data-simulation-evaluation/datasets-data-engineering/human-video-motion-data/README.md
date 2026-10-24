@@ -1,12 +1,12 @@
 # Human Video & Motion Data · 人类视频与动作数据
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engineering&specialty=Human%20Video%20%26%20Motion%20Data#research-workbench)
 
-> 1 conference papers · 33 recent arXiv papers
+> 1 conference papers · 32 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,7 +26,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2024 | RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2408.11048) · [Index](https://dblp.org/rec/journals/corr/abs-2408-11048) | rule-assigned |
 
-## Recent arXiv papers (33)
+## Recent arXiv papers (32)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -41,7 +41,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-04-01 | Efficient Equivariant Transformer for Self-Driving Agent Modeling | Scott Xu, Dian Chen, Kelvin Wong, Chris Zhang et al. | [Abstract](https://arxiv.org/abs/2604.01466) · [PDF](https://arxiv.org/pdf/2604.01466) | rule-assigned |
 | 2026-03-29 | An Empirical Markov Chain Car-Following (MC-CF) Model | Sungyong Chung, Yanlin Zhang, Nachuan Li, Dana Monzer et al. | [Abstract](https://arxiv.org/abs/2603.27909) · [PDF](https://arxiv.org/pdf/2603.27909) | rule-assigned |
 | 2026-03-25 | QuadFM: Foundational Text-Driven Quadruped Motion Dataset for Generation and Control | Li Gao, Fuzhi Yang, Jianhui Chen, Liu Liu et al. | [Abstract](https://arxiv.org/abs/2603.24021) · [PDF](https://arxiv.org/pdf/2603.24021) | rule-assigned |
-| 2026-02-14 | A Kung Fu Athlete Bot That Can Do It All Day: Highly Dynamic, Balance-Challenging Motion Dataset and Autonomous Fall-Resilient Tracking | Zhongxiang Lei, Lulu Cao, Xuyang Wang, Tianyi Qian et al. | [Abstract](https://arxiv.org/abs/2602.13656) · [PDF](https://arxiv.org/pdf/2602.13656) | rule-assigned |
 | 2025-12-08 | Characterizing Lane-Changing Behavior in Mixed Traffic | Sungyong Chung, Alireza Talebpour, Samer H. Hamdar | [Abstract](https://arxiv.org/abs/2512.07219) · [PDF](https://arxiv.org/pdf/2512.07219) | rule-assigned |
 | 2025-12-04 | Hoi! - A Multimodal Dataset for Force-Grounded, Cross-View Articulated Manipulation | Tim Engelbracht, René Zurbrügg, Matteo Wohlrapp, Martin Büchner et al. | [Abstract](https://arxiv.org/abs/2512.04884) · [PDF](https://arxiv.org/pdf/2512.04884) | rule-assigned |
 | 2025-09-19 | KoopCast: Trajectory Forecasting via Koopman Operators | Jungjin Lee, Jaeuk Shin, Gihwan Kim, Joonho Han et al. | [Abstract](https://arxiv.org/abs/2509.15513) · [PDF](https://arxiv.org/pdf/2509.15513) | rule-assigned |

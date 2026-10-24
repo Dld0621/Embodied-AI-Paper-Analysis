@@ -1,7 +1,7 @@
 # Global Path Planning · 全局路径规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Motion%20Planning%20%26%20Exploration&specialty=Global%20Path%20Planning#research-workbench)
@@ -33,7 +33,7 @@ This high-volume specialty is split into smaller complete lists so every page re
 | Conference 2024 | 46 | [Open](./conference-2024.md) |
 | Conference 2023 | 40 | [Open](./conference-2023.md) |
 | Conference 2022 | 32 | [Open](./conference-2022.md) |
-| arXiv 2026 | 360 | [Open](./arxiv-2026.md) |
+| arXiv 2026 | 370 | [Open](./arxiv-2026.md) |
 | arXiv 2025 | 465 | [Open](./arxiv-2025.md) |
 | arXiv 2024 | 413 | [Open](./arxiv-2024.md) |
-| arXiv 2023 | 65 | [Open](./arxiv-2023.md) |
+| arXiv 2023 | 55 | [Open](./arxiv-2023.md) |

@@ -1,12 +1,12 @@
 # Motion Capture & Wearables · 动作捕捉与可穿戴设备
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Sensors%20%26%20Human%20Interfaces&specialty=Motion%20Capture%20%26%20Wearables#research-workbench)
 
-> 2 conference papers · 46 recent arXiv papers
+> 2 conference papers · 48 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,10 +27,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | HumanoidExo: Scalable Whole-Body Humanoid Manipulation via Wearable Exoskeleton | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2510.03022) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695947) | rule-assigned |
 | 2022 | On Wearable, Lightweight, Low-Cost Human Machine Interfaces for the Intuitive Collection of Robot Grasping and Manipulation Data | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra46639.2022.9812198) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812198) | rule-assigned |
 
-## Recent arXiv papers (46)
+## Recent arXiv papers (48)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | Demonstration-Based Robotic Feeding Using Dynamic Movement Primitives | Kenzhi Iskandar Wong, Kitti Thamrongaphichartkul, Sri Harsha Turlapati, Yanshuo Lu et al. | [Abstract](https://arxiv.org/abs/2610.31020) · [PDF](https://arxiv.org/pdf/2610.31020) | rule-assigned |
+| 2026-10-15 | Location-Based Safety Management with Wearable Seamless Indoor-Outdoor Positioning | Anh-Van Vu, Seungwoo Chae, Changmin Sung, Van-Tuan Nguyen et al. | [Abstract](https://arxiv.org/abs/2610.21503) · [PDF](https://arxiv.org/pdf/2610.21503) | rule-assigned |
 | 2026-09-25 | Multi-Objective Human-in-the-Loop Bayesian Optimization of a Lower-Limb Exoskeleton | Neil Janwani, Matthew T. Lerner, Aaron J. Young, Maegan Tucker | [Abstract](https://arxiv.org/abs/2609.30695) · [PDF](https://arxiv.org/pdf/2609.30695) | rule-assigned |
 | 2026-09-10 | SEED-UMI: Sharing the Exoskeleton between human and robot for onE-to-one Dexterous demonstration | Tengbo Yu, Jiahao Wu, Daohan Li, Bingxu Chen et al. | [Abstract](https://arxiv.org/abs/2609.11753) · [PDF](https://arxiv.org/pdf/2609.11753) | rule-assigned |
 | 2026-07-14 | Real-Time sEMG-Based Telecontrol of an Assistive Robotic Arm Using a 1D Convolutional Neural Network | Edgar Manacorda, Mena Samir Kama Abouseffien, Olivier Lecompte, Amandine Gesta et al. | [Abstract](https://arxiv.org/abs/2607.16310) · [PDF](https://arxiv.org/pdf/2607.16310) | rule-assigned |

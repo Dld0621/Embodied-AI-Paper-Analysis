@@ -1,7 +1,7 @@
 # Pretraining & Scaling Laws · 预训练与规模化规律
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generalization%20%26%20Adaptation&specialty=Pretraining%20%26%20Scaling%20Laws#research-workbench)
@@ -30,6 +30,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-19 | Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy | Zekai Li, Jiayi Yu, Jinlu Zhang, Luyang Niu et al. | [Abstract](https://arxiv.org/abs/2610.26848) · [PDF](https://arxiv.org/pdf/2610.26848) | rule-assigned |
 | 2026-10-06 | EmbodiedSmith: Scaling Embodied Data through Recursive Self-Improvement Flywheel in Simulation | Yikai Qin, Yifei Deng, Mingjian Liang, Wenxuan Song et al. | [Abstract](https://arxiv.org/abs/2610.07969) · [PDF](https://arxiv.org/pdf/2610.07969) | rule-assigned |
 | 2026-09-30 | ChunkTrust: Adapting Execution Horizons for Robot Policies with Action-Expert Evidence | Fanding Huang, Jingyan Jiang, Shifeng Bao, Mingkang Pu et al. | [Abstract](https://arxiv.org/abs/2609.39754) · [PDF](https://arxiv.org/pdf/2609.39754) | rule-assigned |
 | 2026-08-24 | Physics Filtering Favors the Generalization of Robot Learning | Jindou Jia, Shixuan Han, Meng Wang, Gen Li et al. | [Abstract](https://arxiv.org/abs/2608.22701) · [PDF](https://arxiv.org/pdf/2608.22701) | rule-assigned |
@@ -39,7 +40,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-20 | Closed Loop Dynamic Driving Data Mixture for Real-Synthetic Co-Training | Hongzhi Ruan, Pei Liu, Weiliang Ma, Zhengning Li et al. | [Abstract](https://arxiv.org/abs/2605.21372) · [PDF](https://arxiv.org/pdf/2605.21372) | rule-assigned |
 | 2026-03-16 | What Matters for Scalable and Robust Learning in End-to-End Driving Planners? | David Holtz, Niklas Hanselmann, Simon Doll, Marius Cordts et al. | [Abstract](https://arxiv.org/abs/2603.15185) · [PDF](https://arxiv.org/pdf/2603.15185) | rule-assigned |
 | 2026-03-10 | 3D UAV Trajectory Estimation and Classification from Internet Videos via Language Model | Haoxiang Lei, Daotong Wang, Shenghai Yuan, Jianbo Su | [Abstract](https://arxiv.org/abs/2603.09070) · [PDF](https://arxiv.org/pdf/2603.09070) | rule-assigned |
-| 2026-03-05 | RoboPocket: Improve Robot Policies Instantly with Your Phone | Junjie Fang, Wendi Chen, Han Xue, Fangyuan Zhou et al. | [Abstract](https://arxiv.org/abs/2603.05504) · [PDF](https://arxiv.org/pdf/2603.05504) | rule-assigned |
 | 2026-02-23 | Scaling Law of Neural Koopman Operators | Abulikemu Abuduweili, Yuyang Pang, Feihan Li, Changliu Liu | [Abstract](https://arxiv.org/abs/2602.19943) · [PDF](https://arxiv.org/pdf/2602.19943) | rule-assigned |
 | 2025-11-17 | Scaling Spatial Intelligence with Multimodal Foundation Models | Zhongang Cai, Ruisi Wang, Chenyang Gu, Fanyi Pu et al. | [Abstract](https://arxiv.org/abs/2511.13719) · [PDF](https://arxiv.org/pdf/2511.13719) | rule-assigned |
 | 2025-04-06 | Data Scaling Laws for End-to-End Autonomous Driving | Alexander Naumann, Xunjiang Gu, Tolga Dimlioglu, Mariusz Bojarski et al. | [Abstract](https://arxiv.org/abs/2504.04338) · [PDF](https://arxiv.org/pdf/2504.04338) | rule-assigned |

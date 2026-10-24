@@ -1,7 +1,7 @@
 # 分类说明：研究问题为主，关联标签为辅
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 本版结构为 **9 个一级方向 → 42 个二级子领域 → 126 个具体三级专题**。每个二级领域额外保留一个“待审专题”，总计 168 个末级入口。完整中英文名称见[分类图谱](../papers/taxonomy/README.md)。

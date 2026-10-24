@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题 · arXiv 2023
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 69 papers · complete list for this taxonomy leaf
+> 57 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -67,15 +67,3 @@
 | 2023-10-26 | Learning Extrinsic Dexterity with Parameterized Manipulation Primitives | Shih-Min Yang, Martin Magnusson, Johannes A. Stork, Todor Stoyanov | [Abstract](https://arxiv.org/abs/2310.17785) · [PDF](https://arxiv.org/pdf/2310.17785) | needs-review |
 | 2023-10-26 | 6-DoF Stability Field via Diffusion Models | Takuma Yoneda, Tianchong Jiang, Gregory Shakhnarovich, Matthew R. Walter | [Abstract](https://arxiv.org/abs/2310.17649) · [PDF](https://arxiv.org/pdf/2310.17649) | needs-review |
 | 2023-10-24 | Grasp Multiple Objects with One Hand | Yuyang Li, Bo Liu, Yiran Geng, Puhao Li et al. | [Abstract](https://arxiv.org/abs/2310.15599) · [PDF](https://arxiv.org/pdf/2310.15599) | needs-review |
-| 2023-10-23 | Robotic Arm Manipulation to Perform Rock Skipping in Simulation | Nicholas Ramirez, Michael Burgess | [Abstract](https://arxiv.org/abs/2310.14492) · [PDF](https://arxiv.org/pdf/2310.14492) | needs-review |
-| 2023-10-23 | Enhancing Robotic Manipulation: Harnessing the Power of Multi-Task Reinforcement Learning and Single Life Reinforcement Learning in Meta-World | Ghadi Nehme, Ishan Sabane, Tejas Y. Deo | [Abstract](https://arxiv.org/abs/2311.12854) · [PDF](https://arxiv.org/pdf/2311.12854) | needs-review |
-| 2023-10-22 | Value of Assistance for Grasping | Mohammad Masarwy, Yuval Goshen, David Dovrat, Sarah Keren | [Abstract](https://arxiv.org/abs/2310.14402) · [PDF](https://arxiv.org/pdf/2310.14402) | needs-review |
-| 2023-10-22 | Learning Generalizable Manipulation Policies with Object-Centric 3D Representations | Yifeng Zhu, Zhenyu Jiang, Peter Stone, Yuke Zhu | [Abstract](https://arxiv.org/abs/2310.14386) · [PDF](https://arxiv.org/pdf/2310.14386) | needs-review |
-| 2023-10-21 | Initial Analysis of Data-Driven Haptic Search for the Smart Suction Cup | Jungpyo Lee, Sebastian D. Lee, Tae Myung Huh, Hannah S. Stuart | [Abstract](https://arxiv.org/abs/2401.06354) · [PDF](https://arxiv.org/pdf/2401.06354) | needs-review |
-| 2023-10-21 | Cold Diffusion on the Replay Buffer: Learning to Plan from Known Good States | Zidan Wang, Takeru Oba, Takuma Yoneda, Rui Shen et al. | [Abstract](https://arxiv.org/abs/2310.13914) · [PDF](https://arxiv.org/pdf/2310.13914) | needs-review |
-| 2023-10-20 | ManiCast: Collaborative Manipulation with Cost-Aware Human Forecasting | Kushal Kedia, Prithwish Dan, Atiksh Bhardwaj, Sanjiban Choudhury | [Abstract](https://arxiv.org/abs/2310.13258) · [PDF](https://arxiv.org/pdf/2310.13258) | needs-review |
-| 2023-10-20 | A Review of Prospects and Opportunities in Disassembly with Human-Robot Collaboration | Meng-Lun Lee, Xiao Liang, Boyi Hu, Gulcan Onel et al. | [Abstract](https://arxiv.org/abs/2310.13643) · [PDF](https://arxiv.org/pdf/2310.13643) | needs-review |
-| 2023-10-19 | PGA: Personalizing Grasping Agents with Single Human-Robot Interaction | Junghyun Kim, Gi-Cheon Kang, Jaein Kim, Seoyun Yang et al. | [Abstract](https://arxiv.org/abs/2310.12547) · [PDF](https://arxiv.org/pdf/2310.12547) | needs-review |
-| 2023-10-19 | How Can Everyday Users Efficiently Teach Robots by Demonstrations? | Maram Sakr, Zhikai Zhang, Benjamin Li, Haomiao Zhang et al. | [Abstract](https://arxiv.org/abs/2310.13083) · [PDF](https://arxiv.org/pdf/2310.13083) | needs-review |
-| 2023-10-18 | CAPGrasp: An $\mathbb{R}^3\times \text{SO(2)-equivariant}$ Continuous Approach-Constrained Generative Grasp Sampler | Zehang Weng, Haofei Lu, Jens Lundell, Danica Kragic | [Abstract](https://arxiv.org/abs/2310.12113) · [PDF](https://arxiv.org/pdf/2310.12113) | needs-review |
-| 2023-10-16 | Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models | Kevin Black, Mitsuhiko Nakamoto, Pranav Atreya, Homer Walke et al. | [Abstract](https://arxiv.org/abs/2310.10639) · [PDF](https://arxiv.org/pdf/2310.10639) | needs-review |

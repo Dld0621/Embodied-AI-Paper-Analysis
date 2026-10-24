@@ -538,7 +538,7 @@ def render_overview(catalog: dict, arxiv: dict) -> str:
         "- Venues: RSS, CoRL, ICRA, IROS, ICLR, ICML, NeurIPS, CVPR, ICCV, and ECCV.",
         "- Discovery: Semantic Scholar bulk venue search with the query `robot`.",
         "- Admission: deterministic title taxonomy in `scripts/sync_conference_census.py`; medical and rehabilitation terms are excluded.",
-        "- Deduplication: normalized title; the 74 manually verified seed records override discovered duplicates.",
+        f"- Deduplication: normalized title; the {sum(p.get('discovery_source') == 'hand-verified seed' for p in papers):,} manually verified seed records override discovered duplicates.",
         "- Every entry has an online paper link and a provenance link. Provenance tiers are shown explicitly instead of calling every bibliographic index an official acceptance page.",
         f"- Recent arXiv layer: all {arxiv['source']['candidate_records']:,} cs.RO candidates submitted from {arxiv['window']['start']} through {arxiv['window']['end']} were evaluated; {len(arxiv_papers):,} were admitted by the same nine-direction taxonomy.",
         "- arXiv papers remain a separate preprint layer. A title appearing in both layers is not evidence of conference acceptance unless the conference record supplies that provenance.",

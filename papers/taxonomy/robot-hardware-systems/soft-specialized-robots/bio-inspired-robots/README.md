@@ -1,7 +1,7 @@
 # Bio-inspired Robots · 仿生机器人
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Soft%20%26%20Specialized%20Robots&specialty=Bio-inspired%20Robots#research-workbench)
@@ -38,6 +38,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-19 | Robotic Physical Comparison of Biologically Motivated and Counterfactual Sensory Arrangements using Biomimetic Skin | Akihiro Miki, Shun Hasegawa, Yoshimoto Ribayashi, Yuta Sahara et al. | [Abstract](https://arxiv.org/abs/2610.26680) · [PDF](https://arxiv.org/pdf/2610.26680) | rule-assigned |
 | 2026-10-01 | Learning a Resolution-Consistent Jacobian Field for Bio-Inspired Rigid-Soft Finger | Tianyou Liang, Haisen Zeng, Shanjun Chen, YiMing Zhu et al. | [Abstract](https://arxiv.org/abs/2610.01668) · [PDF](https://arxiv.org/pdf/2610.01668) | rule-assigned |
 | 2026-09-19 | AquaWorld: Structure-Consistent Underwater World Generation for Robot Simulation | Bin Peng, Tiandong Zhang, Ruidong Wang, Min Luo et al. | [Abstract](https://arxiv.org/abs/2609.22670) · [PDF](https://arxiv.org/pdf/2609.22670) | rule-assigned |
 | 2026-09-18 | Characterizing Wildlife Response to Biomimetic and Conventional Underwater Vehicles | Huy Pham, Levi Cai, Yogesh Girdhar, Daniela Rus et al. | [Abstract](https://arxiv.org/abs/2609.22594) · [PDF](https://arxiv.org/pdf/2609.22594) | rule-assigned |
@@ -113,7 +114,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-01-31 | ViTacTip: Design and Verification of a Novel Biomimetic Physical Vision-Tactile Fusion Sensor | Wen Fan, Haoran Li, Weiyong Si, Shan Luo et al. | [Abstract](https://arxiv.org/abs/2402.00199) · [PDF](https://arxiv.org/pdf/2402.00199) | rule-assigned |
 | 2024-01-23 | Sensing environmental physical interaction to traverse cluttered obstacles | Yaqing Wang, Ling Xu, Chen Li | [Abstract](https://arxiv.org/abs/2401.13062) · [PDF](https://arxiv.org/pdf/2401.13062) | rule-assigned |
 | 2023-10-27 | Development and Characteristics of a Highly Biomimetic Robotic Shoulder Through Bionics-Inspired Optimization | Haosen Yang, Guowu Wei, Lei Ren | [Abstract](https://arxiv.org/abs/2310.18283) · [PDF](https://arxiv.org/pdf/2310.18283) | rule-assigned |
-| 2023-10-21 | Computational Approaches for Modeling Power Consumption on an Underwater Flapping Fin Propulsion System | Brian Zhou, Jason Geder, Alisha Sharma, Julian Lee et al. | [Abstract](https://arxiv.org/abs/2310.14135) · [PDF](https://arxiv.org/pdf/2310.14135) | rule-assigned |
 
 ---
 

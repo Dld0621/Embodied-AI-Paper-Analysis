@@ -1,12 +1,12 @@
 # Language-model Planning · 语言模型辅助规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Task%20Reasoning%20%26%20Planning&specialty=Language-model%20Planning#research-workbench)
 
-> 4 conference papers · 40 recent arXiv papers
+> 4 conference papers · 39 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,7 +29,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation | IROS · Foundation Model | [Paper](https://arxiv.org/pdf/2503.01700) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247174) | rule-assigned |
 | 2024 | Trust the PRoC3S: Solving Long-Horizon Robotics Problems with LLMs and Constraint Satisfaction | CoRL · Llm | [Paper](https://arxiv.org/abs/2406.05572) · [Index](https://dblp.org/rec/journals/corr/abs-2406-05572) | rule-assigned |
 
-## Recent arXiv papers (40)
+## Recent arXiv papers (39)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -42,6 +42,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-13 | Driving, Fast or Slow? Neuro-Symbolic Guidance for Motion Prediction in Multi-Modal Ground Mobility | Simon Kohaut, Felix Divo, Julius Hahnewald, Benedict Flade et al. | [Abstract](https://arxiv.org/abs/2606.15251) · [PDF](https://arxiv.org/pdf/2606.15251) | rule-assigned |
 | 2026-06-02 | ModuLoop : Low-Level Code Generation using Modular Synthesizer and Closed-Loop Debugger for Robotic Control | Gina Yoon, Sumin Lee, Joo Yong Sim | [Abstract](https://arxiv.org/abs/2606.03047) · [PDF](https://arxiv.org/pdf/2606.03047) | rule-assigned |
 | 2026-05-21 | Steins;Gate Drive: Semantic Safety Arbitration over Structured Futures for Latency-Decoupled LLM Planning | Anjie Qiu, Hans D. Schotten | [Abstract](https://arxiv.org/abs/2605.22456) · [PDF](https://arxiv.org/pdf/2605.22456) | rule-assigned |
+| 2026-03-15 | AeroGen: Structured Prompting for Low-Code Drone-as-a-Service Mission Composition | Kautuk Astu, Yogesh Simmhan | [Abstract](https://arxiv.org/abs/2603.14236) · [PDF](https://arxiv.org/pdf/2603.14236) | rule-assigned |
 | 2025-12-01 | LLM-Driven Corrective Robot Operation Code Generation with Static Text-Based Simulation | Wenhao Wang, Yi Rong, Yanyan Li, Long Jiao et al. | [Abstract](https://arxiv.org/abs/2512.02002) · [PDF](https://arxiv.org/pdf/2512.02002) | rule-assigned |
 | 2025-10-28 | PFEA: An LLM-based High-Level Natural Language Planning and Feedback Embodied Agent for Human-Centered AI | Wenbin Ding, Jun Chen, Mingjia Chen, Fei Xie et al. | [Abstract](https://arxiv.org/abs/2510.24109) · [PDF](https://arxiv.org/pdf/2510.24109) | rule-assigned |
 | 2025-10-06 | Online automatic code generation for robot swarms: LLMs and self-organizing hierarchy | Weixu Zhu, Marco Dorigo, Mary Katherine Heinrich | [Abstract](https://arxiv.org/abs/2510.04774) · [PDF](https://arxiv.org/pdf/2510.04774) | rule-assigned |
@@ -71,8 +72,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-02-06 | Automatic Robotic Development through Collaborative Framework by Large Language Models | Zhirong Luan, Yujun Lai, Rundong Huang, Xiaruiqi Lan et al. | [Abstract](https://arxiv.org/abs/2402.03699) · [PDF](https://arxiv.org/pdf/2402.03699) | rule-assigned |
 | 2024-01-24 | Design, Development, and Deployment of Context-Adaptive AI Systems for Enhanced End-User Adoption | Christine P Lee | [Abstract](https://arxiv.org/abs/2401.13643) · [PDF](https://arxiv.org/pdf/2401.13643) | rule-assigned |
 | 2023-11-29 | Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning | Yingdong Hu, Fanqi Lin, Tong Zhang, Li Yi et al. | [Abstract](https://arxiv.org/abs/2311.17842) · [PDF](https://arxiv.org/pdf/2311.17842) | rule-assigned |
-| 2023-10-16 | Video Language Planning | Yilun Du, Mengjiao Yang, Pete Florence, Fei Xia et al. | [Abstract](https://arxiv.org/abs/2310.10625) · [PDF](https://arxiv.org/pdf/2310.10625) | rule-assigned |
-| 2023-10-16 | BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology | Odhran O'Donoghue, Aleksandar Shtedritski, John Ginger, Ralph Abboud et al. | [Abstract](https://arxiv.org/abs/2310.10632) · [PDF](https://arxiv.org/pdf/2310.10632) | rule-assigned |
 
 ---
 

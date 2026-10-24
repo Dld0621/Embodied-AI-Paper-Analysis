@@ -1,12 +1,12 @@
 # Robot Demonstration Datasets · 机器人示教数据集
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engineering&specialty=Robot%20Demonstration%20Datasets#research-workbench)
 
-> 14 conference papers · 67 recent arXiv papers
+> 14 conference papers · 68 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -39,7 +39,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | SiT Dataset: Socially Interactive Pedestrian Trajectory Dataset for Social Navigation Robots | NeurIPS · Navigation | [Paper](https://doi.org/10.52202/075280-1067) · [Publisher](https://doi.org/10.52202/075280-1067) | rule-assigned |
 | 2022 | PATO: Policy Assisted TeleOperation for Scalable Robot Data Collection | RSS · Teleoperation | [Paper](https://arxiv.org/abs/2212.04708) · [Index](https://dblp.org/rec/journals/corr/abs-2212-04708) | rule-assigned |
 
-## Recent arXiv papers (67)
+## Recent arXiv papers (68)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -55,6 +55,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-07-24 | Mag4D-SLAM Dataset: A Repeated-Traversal Multi-Modal 4D Geomagnetic Dataset for Localization and Mapping | Bibhutibhusan Nayak, Hyoseok Ju, Giseop Kim | [Abstract](https://arxiv.org/abs/2607.21986) · [PDF](https://arxiv.org/pdf/2607.21986) | rule-assigned |
 | 2026-07-24 | ACME: A Multi-Cultural, Multi-Embodiment Social-Navigation Dataset | Shashank Rao Marpally, Allan Wang, Atharva Ghotavadekar, Renato Alexandre Ribeiro et al. | [Abstract](https://arxiv.org/abs/2607.21964) · [PDF](https://arxiv.org/pdf/2607.21964) | rule-assigned |
 | 2026-07-20 | MEVION: Low-Cost Open-Source Data Collection System for Powerful and High-Speed Dual-Arm Manipulation | Kento Kawaharazuka, Yoshiki Obinata, Hirokazu Ishida, Jihoon Oh et al. | [Abstract](https://arxiv.org/abs/2607.17970) · [PDF](https://arxiv.org/pdf/2607.17970) | rule-assigned |
+| 2026-07-17 | Learning Where it Matters: Autonomous Data Collection and Offline Reinforcement Learning for Local Contact-Rich Manipulation | Oliver Hausdörfer, Linus Schwarz, Gabor Marko, Christian Dietz et al. | [Abstract](https://arxiv.org/abs/2607.15982) · [PDF](https://arxiv.org/pdf/2607.15982) | rule-assigned |
 | 2026-07-04 | WSA$_1$: a 3D-Centric World-Spatial-Action Model for Generalizable Robot Control | Jiahao Jiang, Jianing Zhang, Xuanhan Wang, Duo Peng et al. | [Abstract](https://arxiv.org/abs/2607.03941) · [PDF](https://arxiv.org/pdf/2607.03941) | rule-assigned |
 | 2026-07-01 | Counterfactual Closing-Acceleration Risk: An Anticipatory Surrogate Safety Measure for the Blind Region of Car-Following | Eni Solomon Laughter | [Abstract](https://arxiv.org/abs/2609.00370) · [PDF](https://arxiv.org/pdf/2609.00370) | rule-assigned |
 | 2026-06-30 | HABIT: Human-Aware Behavior and Interaction Training Dataset for Robot Manipulation | Jaehwi Song, Suchae Jeong, Byeongguk Jeon, Sungdong Kim et al. | [Abstract](https://arxiv.org/abs/2606.31682) · [PDF](https://arxiv.org/pdf/2606.31682) | rule-assigned |

@@ -1,12 +1,12 @@
 # Multisensor State Estimation · 多传感器状态估计
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=State%20Estimation%20%26%20Active%20Perception&specialty=Multisensor%20State%20Estimation#research-workbench)
 
-> 26 conference papers · 226 recent arXiv papers
+> 26 conference papers · 228 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -51,10 +51,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | STEADY: Simultaneous State Estimation and Dynamics Learning from Indirect Observations | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2203.01299) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981279) | rule-assigned |
 | 2022 | The Uncertainty Aware Salted Kalman Filter: State Estimation for Hybrid Systems with Uncertain Guards | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2202.12729) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981218) | rule-assigned |
 
-## Recent arXiv papers (226)
+## Recent arXiv papers (228)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | Tilt-Rotor Quadcopter with Learned Residual Control and Mode-Dependent State Estimation | Ninad Joshi, Prabhat Kumar | [Abstract](https://arxiv.org/abs/2610.31051) · [PDF](https://arxiv.org/pdf/2610.31051) | rule-assigned |
+| 2026-10-16 | Foundation Models for Autonomous Space Robotics: Architectures, Physical Adaptation, and Validation | Zizhe Wang, Jia Deng, Xin Lu, Zehao Jia et al. | [Abstract](https://arxiv.org/abs/2610.23068) · [PDF](https://arxiv.org/pdf/2610.23068) | rule-assigned |
 | 2026-10-14 | Towards Certifiable State Estimation under Observability Degeneracy | Baoshan Song | [Abstract](https://arxiv.org/abs/2610.20490) · [PDF](https://arxiv.org/pdf/2610.20490) | rule-assigned |
 | 2026-10-14 | Smart Fusion for Adaptive Visual-IMU Weighting in cuVSLAM Sparse Bundle Adjustment | Wonju Lee, Dara Molloy, Abhilash Nand Kumar, Onias Castelo et al. | [Abstract](https://arxiv.org/abs/2610.20226) · [PDF](https://arxiv.org/pdf/2610.20226) | rule-assigned |
 | 2026-10-13 | Contractor Filters | Simon Rohou | [Abstract](https://arxiv.org/abs/2610.18040) · [PDF](https://arxiv.org/pdf/2610.18040) | rule-assigned |

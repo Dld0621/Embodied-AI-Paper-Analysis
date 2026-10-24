@@ -1,12 +1,12 @@
 # Reproducibility & Statistical Comparison · 复现协议与统计比较
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Experimental%20Methods&specialty=Reproducibility%20%26%20Statistical%20Comparison#research-workbench)
 
-> 1 conference papers · 60 recent arXiv papers
+> 1 conference papers · 63 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2025 | Hri-Free: Cognitive Robotic Simulation for Evaluating Embodied Social Attention Models | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127539) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127539) | rule-assigned |
 
-## Recent arXiv papers (60)
+## Recent arXiv papers (63)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-15 | LICOA: Learning Instruction-Conditioned Optical Actions for Mobile Spatial Augmented Reality | Yuchen Deng, Shunkai Zhou, Ruixuan Zhu, Haibin Ling et al. | [Abstract](https://arxiv.org/abs/2610.21282) · [PDF](https://arxiv.org/pdf/2610.21282) | rule-assigned |
+| 2026-10-15 | Comfortably Stuck: Evaluation Pitfalls in Bench2Drive's Closed-Loop Protocol | Emad Aghajanzadeh, Thomas Schwarzfischer, Moritz Thoma, Nael Fasfous et al. | [Abstract](https://arxiv.org/abs/2610.21741) · [PDF](https://arxiv.org/pdf/2610.21741) | rule-assigned |
 | 2026-10-14 | Dungeon and Visibility World Generator | Edwin Mériaux, Antonio Loría, Gregory Dudek | [Abstract](https://arxiv.org/abs/2610.19523) · [PDF](https://arxiv.org/pdf/2610.19523) | rule-assigned |
 | 2026-10-13 | Reference Wording Shapes Retrieval of Robot Task Instructions | Jahnavi Yelamanchi | [Abstract](https://arxiv.org/abs/2610.17549) · [PDF](https://arxiv.org/pdf/2610.17549) | rule-assigned |
 | 2026-10-09 | MARGoS: A Configuration-Driven Platform for Reproducible MARL Experiments in ARGoS | Tom Philipp Backert, Mohammad D. Soorati, Javad Ghofrani | [Abstract](https://arxiv.org/abs/2610.13772) · [PDF](https://arxiv.org/pdf/2610.13772) | rule-assigned |
@@ -69,6 +71,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-11-06 | Pixi: Unified Software Development and Distribution for Robotics and AI | Tobias Fischer, Wolf Vollprecht, Bas Zalmstra, Ruben Arts et al. | [Abstract](https://arxiv.org/abs/2511.04827) · [PDF](https://arxiv.org/pdf/2511.04827) | rule-assigned |
 | 2025-10-12 | Bhasha-Rupantarika: Algorithm-Hardware Co-design approach for Multilingual Neural Machine Translation | Mukul Lokhande, Tanushree Dewangan, Mohd Sharik Mansoori, Tejas Chaudhari et al. | [Abstract](https://arxiv.org/abs/2510.10676) · [PDF](https://arxiv.org/pdf/2510.10676) | rule-assigned |
 | 2025-09-24 | SAGE:State-Aware Guided End-to-End Policy for Multi-Stage Sequential Tasks via Hidden Markov Decision Process | BinXu Wu, TengFei Zhang, Chen Yang, JiaHao Wen et al. | [Abstract](https://arxiv.org/abs/2509.19853) · [PDF](https://arxiv.org/pdf/2509.19853) | rule-assigned |
+| 2025-09-21 | Initialization-Free LEO Doppler Positioning via Semidefinite Relaxation: A Cold-Start Approach | Baoshan Song, Weisong Wen, Qi Zhang, Bing Xu et al. | [Abstract](https://arxiv.org/abs/2509.17198) · [PDF](https://arxiv.org/pdf/2509.17198) | rule-assigned |
 | 2025-09-17 | SPAR: Scalable LLM-based PDDL Domain Generation for Aerial Robotics | Songhao Huang, Yuwei Wu, Guangyao Shi, Gaurav S. Sukhatme et al. | [Abstract](https://arxiv.org/abs/2509.13691) · [PDF](https://arxiv.org/pdf/2509.13691) | rule-assigned |
 | 2025-07-29 | Interactive Adversarial Testing of Autonomous Vehicles with Adjustable Confrontation Intensity | Yicheng Guo, Chengkai Xu, Jiaqi Liu, Hao Zhang et al. | [Abstract](https://arxiv.org/abs/2507.21814) · [PDF](https://arxiv.org/pdf/2507.21814) | rule-assigned |
 | 2025-07-15 | MR-LDM -- The Merge-Reactive Longitudinal Decision Model: Game Theoretic Human Decision Modeling for Interactive Sim Agents | Dustin Holley, Jovin D'sa, Hossein Nourkhiz Mahjoub, Gibran Ali | [Abstract](https://arxiv.org/abs/2507.12494) · [PDF](https://arxiv.org/pdf/2507.12494) | rule-assigned |

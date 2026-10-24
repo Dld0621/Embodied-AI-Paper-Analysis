@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题 · arXiv 2025
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 451 papers · complete list for this taxonomy leaf
+> 450 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@
 | 2025-10-01 | Shared Object Manipulation with a Team of Collaborative Quadrupeds | Shengzhi Wang, Niels Dehio, Xuanqi Zeng, Xian Yang et al. | [Abstract](https://arxiv.org/abs/2510.00682) · [PDF](https://arxiv.org/pdf/2510.00682) | needs-review |
 | 2025-10-01 | Differentiable Skill Optimisation for Powder Manipulation in Laboratory Automation | Minglun Wei, Xintong Yang, Yu-Kun Lai, Ze Ji | [Abstract](https://arxiv.org/abs/2510.01438) · [PDF](https://arxiv.org/pdf/2510.01438) | needs-review |
 | 2025-10-01 | CroSTAta: Cross-State Transition Attention Transformer for Robotic Manipulation | Giovanni Minelli, Giulio Turrisi, Victor Barasuol, Claudio Semini | [Abstract](https://arxiv.org/abs/2510.00726) · [PDF](https://arxiv.org/pdf/2510.00726) | needs-review |
-| 2025-10-01 | AFFORD2ACT: Affordance-Guided Automatic Keypoint Selection for Generalizable and Lightweight Robotic Manipulation | Anukriti Singh, Kasra Torshizi, Khuzema Habib, Kelin Yu et al. | [Abstract](https://arxiv.org/abs/2510.01433) · [PDF](https://arxiv.org/pdf/2510.01433) | needs-review |
+| 2025-10-01 | AFFORD2ACT: How Far Can Sparse Keypoints Go for Robot Manipulation? | Anukriti Singh, Kasra Torshizi, Khuzema Habib, Kelin Yu et al. | [Abstract](https://arxiv.org/abs/2510.01433) · [PDF](https://arxiv.org/pdf/2510.01433) | needs-review |
 | 2025-10-01 | A Robust Neural Control Design for Multi-drone Slung Payload Manipulation with Control Contraction Metrics | Xinyuan Liang, Longhao Qian, Yi Lok Lo, Hugh H. T. Liu | [Abstract](https://arxiv.org/abs/2510.01489) · [PDF](https://arxiv.org/pdf/2510.01489) | needs-review |
 | 2025-09-30 | TacRefineNet: Goal-Conditioned Tactile Grasp Refinement for Edge-Prominent Objects | Shuaijun Wang, Haoran Zhou, Diyun Xiang, Yangwei You | [Abstract](https://arxiv.org/abs/2509.25746) · [PDF](https://arxiv.org/pdf/2509.25746) | needs-review |
 | 2025-09-30 | RoboPilot: Generalizable Dynamic Robotic Manipulation with Dual-thinking Modes | Xinyi Liu, Mohammadreza Fani Sani, Zewei Zhou, Julius Wirbel et al. | [Abstract](https://arxiv.org/abs/2510.00154) · [PDF](https://arxiv.org/pdf/2510.00154) | needs-review |
@@ -149,7 +149,6 @@
 | 2025-09-27 | LaGEA: Language Guided Embodied Agents for Robotic Manipulation | Abdul Monaf Chowdhury, Akm Moshiur Rahman Mazumder, Safaeid Hossain Arib, Rabeya Akter | [Abstract](https://arxiv.org/abs/2509.23155) · [PDF](https://arxiv.org/pdf/2509.23155) | needs-review |
 | 2025-09-26 | Towards Developing Standards and Guidelines for Robot Grasping and Manipulation Pipelines in the COMPARE Ecosystem | Huajing Zhao, Brian Flynn, Adam Norton, Holly Yanco | [Abstract](https://arxiv.org/abs/2509.22801) · [PDF](https://arxiv.org/pdf/2509.22801) | needs-review |
 | 2025-09-26 | RoboView-Bias: Benchmarking Visual Bias in Embodied Agents for Robotic Manipulation | Enguang Liu, Siyuan Liang, Liming Lu, Xiyu Zeng et al. | [Abstract](https://arxiv.org/abs/2509.22356) · [PDF](https://arxiv.org/pdf/2509.22356) | needs-review |
-| 2025-09-26 | EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer | Zhehao Dong, Xiaofeng Wang, Zheng Zhu, Yirui Wang et al. | [Abstract](https://arxiv.org/abs/2509.22407) · [PDF](https://arxiv.org/pdf/2509.22407) | needs-review |
 | 2025-09-26 | EgoDemoGen: Egocentric Demonstration Generation for Viewpoint Generalization in Robotic Manipulation | Yuan Xu, Jiabing Yang, Xiaofeng Wang, Yixiang Chen et al. | [Abstract](https://arxiv.org/abs/2509.22578) · [PDF](https://arxiv.org/pdf/2509.22578) | needs-review |
 | 2025-09-26 | ARMimic: Learning Robotic Manipulation from Passive Human Demonstrations in Augmented Reality | Rohan Walia, Yusheng Wang, Ralf Römer, Masahiro Nishio et al. | [Abstract](https://arxiv.org/abs/2509.22914) · [PDF](https://arxiv.org/pdf/2509.22914) | needs-review |
 | 2025-09-25 | ImaginationPolicy: Towards Generalizable, Precise and Reliable End-to-End Policy for Robotic Manipulation | Dekun Lu, Wei Gao, Kui Jia | [Abstract](https://arxiv.org/abs/2509.20841) · [PDF](https://arxiv.org/pdf/2509.20841) | needs-review |
@@ -394,7 +393,7 @@
 | 2025-03-10 | iManip: Skill-Incremental Learning for Robotic Manipulation | Zexin Zheng, Jia-Feng Cai, Xiao-Ming Wu, Yi-Lin Wei et al. | [Abstract](https://arxiv.org/abs/2503.07087) · [PDF](https://arxiv.org/pdf/2503.07087) | needs-review |
 | 2025-03-10 | Force Aware Branch Manipulation To Assist Agricultural Tasks | Madhav Rijal, Rashik Shrestha, Trevor Smith, Yu Gu | [Abstract](https://arxiv.org/abs/2503.07497) · [PDF](https://arxiv.org/pdf/2503.07497) | needs-review |
 | 2025-03-09 | Safe, Task-Consistent Manipulation with Operational Space Control Barrier Functions | Daniel Morton, Marco Pavone | [Abstract](https://arxiv.org/abs/2503.06736) · [PDF](https://arxiv.org/pdf/2503.06736) | needs-review |
-| 2025-03-09 | AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems | AgiBot-World-Contributors, Qingwen Bu, Jisong Cai, Li Chen et al. | [Abstract](https://arxiv.org/abs/2503.06669) · [PDF](https://arxiv.org/pdf/2503.06669) | needs-review |
+| 2025-03-09 | AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems | AgiBot World Contributors, Qingwen Bu, Jisong Cai, Li Chen et al. | [Abstract](https://arxiv.org/abs/2503.06669) · [PDF](https://arxiv.org/pdf/2503.06669) | needs-review |
 | 2025-03-08 | GAT-Grasp: Gesture-Driven Affordance Transfer for Task-Aware Robotic Grasping | Ruixiang Wang, Huayi Zhou, Xinyue Yao, Guiliang Liu et al. | [Abstract](https://arxiv.org/abs/2503.06227) · [PDF](https://arxiv.org/pdf/2503.06227) | needs-review |
 | 2025-03-08 | Efficient Gradient-Based Inference for Manipulation Planning in Contact Factor Graphs | Jeongmin Lee, Sunkyung Park, Minji Lee, Dongjun Lee | [Abstract](https://arxiv.org/abs/2503.06300) · [PDF](https://arxiv.org/pdf/2503.06300) | needs-review |
 | 2025-03-07 | Reward-Centered ReST-MCTS: A Robust Decision-Making Framework for Robotic Manipulation in High Uncertainty Environments | Xibai Wang | [Abstract](https://arxiv.org/abs/2503.05226) · [PDF](https://arxiv.org/pdf/2503.05226) | needs-review |

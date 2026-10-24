@@ -1,12 +1,12 @@
 # Tools & Articulated Objects · 工具与关节物体操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Tools%20%26%20Articulated%20Objects#research-workbench)
 
-> 35 conference papers · 121 recent arXiv papers
+> 35 conference papers · 120 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -60,10 +60,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Sim2Real2: Actively Building Explicit Physics Model for Precise Articulated Object Manipulation | ICRA · Sim2Real | [Paper](https://arxiv.org/abs/2302.10693) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160370) | rule-assigned |
 | 2023 | Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusions | NeurIPS · Manipulation | [Paper](https://arxiv.org/pdf/2309.07510) · [Index](https://dblp.org/rec/journals/corr/abs-2309-07510) | rule-assigned |
 
-## Recent arXiv papers (121)
+## Recent arXiv papers (120)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-21 | From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks | May Espinola, Qifan Zhang, Yu Xiang | [Abstract](https://arxiv.org/abs/2610.30051) · [PDF](https://arxiv.org/pdf/2610.30051) | rule-assigned |
 | 2026-10-12 | Observe, Share, or Predict? Disentangling Partner Information in Embodied Multi-Agent Collaboration | Adrián Szlatincsán, Filippo Ziliotto, Bruno Lepri, Luciano Serafini et al. | [Abstract](https://arxiv.org/abs/2610.16895) · [PDF](https://arxiv.org/pdf/2610.16895) | rule-assigned |
 | 2026-10-12 | Constraint-Decomposed Impedance Control from Generative Policy for Articulated Object Manipulation | Kyungseo Park, Byeongdo Lim, Jungbin Lim, Minseok Choi et al. | [Abstract](https://arxiv.org/abs/2610.16316) · [PDF](https://arxiv.org/pdf/2610.16316) | rule-assigned |
 | 2026-10-09 | Towards a Unified Taxonomy of Agricultural Harvesting Technologies: Linking Physical Interaction, Automation, and Selectivity | Renato Cristiano Torres, Fabiano Mariath D Oliveira, Claudio Gottschalg Duque | [Abstract](https://arxiv.org/abs/2610.13688) · [PDF](https://arxiv.org/pdf/2610.13688) | rule-assigned |
@@ -183,8 +184,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-02 | The Power of the Senses: Generalizable Manipulation from Vision and Touch through Masked Multimodal Learning | Carmelo Sferrazza, Younggyo Seo, Hao Liu, Youngwoon Lee et al. | [Abstract](https://arxiv.org/abs/2311.00924) · [PDF](https://arxiv.org/pdf/2311.00924) | rule-assigned |
 | 2023-11-01 | Learning to Design and Use Tools for Robotic Manipulation | Ziang Liu, Stephen Tian, Michelle Guo, C. Karen Liu et al. | [Abstract](https://arxiv.org/abs/2311.00754) · [PDF](https://arxiv.org/pdf/2311.00754) | rule-assigned |
 | 2023-10-24 | AO-Grasp: Articulated Object Grasp Generation | Carlota Parés Morlans, Claire Chen, Yijia Weng, Michelle Yi et al. | [Abstract](https://arxiv.org/abs/2310.15928) · [PDF](https://arxiv.org/pdf/2310.15928) | rule-assigned |
-| 2023-10-19 | Creative Robot Tool Use with Large Language Models | Mengdi Xu, Peide Huang, Wenhao Yu, Shiqi Liu et al. | [Abstract](https://arxiv.org/abs/2310.13065) · [PDF](https://arxiv.org/pdf/2310.13065) | rule-assigned |
-| 2023-10-18 | Simultaneous Learning of Contact and Continuous Dynamics | Bibit Bianchini, Mathew Halm, Michael Posa | [Abstract](https://arxiv.org/abs/2310.12054) · [PDF](https://arxiv.org/pdf/2310.12054) | rule-assigned |
 
 ---
 

@@ -381,6 +381,109 @@
     "excluded_topics": ["Hand Retargeting", "Whole-body Retargeting"],
     "related_topics": ["Dexterous Manipulation"]
   },
+  "dexoak object aware kinematic retargeting": {
+    "title": "DexOAK: Object-Aware Kinematic Retargeting",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: DexOAK transfers object-relative hand interactions using a joint hand-object graph Laplacian and object-aware contact, non-penetration and collision refinement; kinematic reference generation is the mechanism, while preserving demonstrated interaction geometry and contacts is the core transfer objective. Official abstract: https://arxiv.org/abs/2610.26762",
+    "related_topics": ["Hand Retargeting", "Contact-rich"]
+  },
+  "donic generalist dexterous bimanual tracking control from human demonstrations": {
+    "title": "DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Human Demonstrations to Dexterous Skills",
+      "Demonstration Refinement & Skill Transfer"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: DONIC trains a generalist bimanual reference tracker using PPO, behavioral cloning and recycling verified successful executions, with per-hand contact roles and clip-centered advantages; retargeted reconstructed human interactions supply references, so Hand Retargeting remains an association rather than replacing the tracking-and-skill-transfer primary contribution. Official abstract: https://arxiv.org/abs/2610.29997",
+    "related_topics": ["Hand Retargeting", "Dexterous Manipulation", "Bimanual"]
+  },
+  "learning adaptable dexterous skills via hybrid dexterous mimicking": {
+    "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "Reinforcement Learning",
+      "Combining Imitation & Reinforcement"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: AdaDex jointly trains one goal-conditioned policy in motion-tracking environments providing a human-motion imitation prior and perturbed goal-reaching environments providing sparse task rewards; its contribution is this combined imitation-and-RL learning recipe across multiple dexterous skills, not a grasp generator or a human-to-hand kinematic mapping. Official abstract: https://arxiv.org/abs/2610.28628",
+    "excluded_topics": ["Hand Retargeting", "Whole-body Retargeting"],
+    "related_topics": ["Dexterous Manipulation"]
+  },
+  "locopilot single operator bilateral teleoperation for loco manipulation policy learning": {
+    "title": "LocoPilot: Single-Operator Bilateral Teleoperation for Loco-Manipulation Policy Learning",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Teleoperation & Shared Control",
+      "Bilateral Feedback & Delay"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: LocoPilot provides single-operator bilateral loco-manipulation teleoperation with passivity-constrained force feedback and a shared recording/deployment action interface; the abstract explicitly deploys without action retargeting, so the correctly assigned teleoperation path must not acquire a Retargeting association from that negated mention. Official abstract: https://arxiv.org/abs/2610.27998",
+    "excluded_topics": ["Retargeting", "Hand Retargeting", "Whole-body Retargeting"],
+    "related_topics": ["Teleoperation"]
+  },
+  "opentac an open ecosystem for customizable scalable and transferable 3d tactile sensing": {
+    "title": "OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing",
+    "path": [
+      "Robot Hardware & Systems",
+      "Sensors & Human Interfaces",
+      "Tactile & Force Sensors"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: OpenTac develops a scalable resistive tactile skin with a structured deformable overlay and a customizable CAD tool generating fabrication files, supported by sensor characterization and adaptive acquisition; downstream control and learning demonstrate the new sensor ecosystem rather than define a tactile-representation estimator. Official abstract: https://arxiv.org/abs/2610.31661",
+    "related_topics": []
+  },
+  "gelslim 5 0 unifying vision and touch with a single fingertip camera": {
+    "title": "GelSlim 5.0: Unifying Vision and Touch with a Single Fingertip Camera",
+    "path": [
+      "Perception, Representation & State Estimation",
+      "Tactile & Multimodal Perception",
+      "Visuotactile & Proprioceptive Fusion"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: GelSlim 5.0 combines single-camera visual and tactile observations with VisTacFusion's asymmetric multimodal transformer to estimate planar object pose and local contact depth and normals; this perceptual contribution is visuotactile fusion, not generic full-6D pose tracking. Its new fingertip sensor is a substantial hardware contribution, but the chosen primary perception path reflects the joint multimodal estimation method. Official abstract: https://arxiv.org/abs/2610.31334",
+    "related_topics": []
+  },
+  "diffdreamer coupling world models with differentiable simulation for agile quadrotor control": {
+    "title": "DiffDreamer: Coupling World Models with Differentiable Simulation for Agile Quadrotor Control",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "Model-based Decision Making",
+      "Imagination & Model-based RL"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: DiffDreamer couples learned external latent dynamics with a differentiable physical simulator inside actor optimization and decomposes critic-driven and simulator-driven reward pathways; its contribution is world-model-based policy optimization, not merely learning a latent dynamics predictor. Official abstract: https://arxiv.org/abs/2610.31617",
+    "related_topics": ["World Models"]
+  },
+  "skeleton grounded latent action model for robot world models": {
+    "title": "Skeleton-Grounded Latent Action Model for Robot World Models",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "World & Dynamics Modeling",
+      "Action-conditioned Video Prediction"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: SkeLAM separates skeleton-supervised kinematic and residual latent actions, learns an action adapter and generates future observations conditioned on current observations and robot actions; skeleton supervision structures controllable video prediction rather than establishing a pose-estimation or generic latent-state-only modeling contribution. Official abstract: https://arxiv.org/abs/2610.31474",
+    "related_topics": ["World Models"]
+  },
+  "progress probes p 2 lightweight runtime monitoring for vision language action models": {
+    "title": "Progress Probes $P^2$: Lightweight Runtime Monitoring for Vision-Language-Action Models",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "Memory & Autonomous Execution",
+      "Failure Detection & Replanning"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: Progress Probes trains linear probes of an existing VLA's internal activations to estimate task progress and detect deviations and failures at runtime; the VLA is the monitored policy, not a newly proposed generalist action-model architecture, and the current specialty includes failure detection without claiming a new replanner. Official abstract: https://arxiv.org/abs/2610.31613",
+    "related_topics": []
+  },
+  "egojepa beyond retargeting for dexterous manipulation from egocentric videos": {
+    "title": "EgoJEPA: Beyond Retargeting for Dexterous Manipulation from Egocentric Videos",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "World & Dynamics Modeling",
+      "Latent Dynamics"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: EgoJEPA learns effect-aware latent actions with JEPA-style visual prediction, jointly models future visual dynamics and latent actions, and adapts them to robot control through lightweight embodiment-specific action adapters; the abstract explicitly operates without rule-based human-to-robot retargeting, which is a comparison baseline rather than its contribution. This paper was first submitted on 2026-10-14 and is newly admitted in this refresh, not newly published after the previous snapshot. Official abstract: https://arxiv.org/abs/2610.20904",
+    "excluded_topics": ["Retargeting", "Hand Retargeting", "Whole-body Retargeting"],
+    "related_topics": ["World Models", "Dexterous Manipulation"]
+  },
   "contributing factors in human robot handshake compliance hand grip and synchrony": {
     "title": "Contributing Factors in Human-Robot Handshake: Compliance, Hand Grip, and Synchrony",
     "path": [

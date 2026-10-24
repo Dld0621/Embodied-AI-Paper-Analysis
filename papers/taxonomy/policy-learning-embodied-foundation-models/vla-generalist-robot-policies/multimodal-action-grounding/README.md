@@ -1,12 +1,12 @@
 # Multimodal Action Grounding · 多模态动作对齐
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=VLA%20%26%20Generalist%20Robot%20Policies&specialty=Multimodal%20Action%20Grounding#research-workbench)
 
-> 10 conference papers · 41 recent arXiv papers
+> 10 conference papers · 42 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -35,10 +35,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models | RSS · Language Model | [Paper](https://arxiv.org/abs/2211.11736) · [Index](https://dblp.org/rec/conf/rss/XiaoCSWBHLT23) | rule-assigned |
 | 2022 | Embodied Concept Learner: Self-supervised Learning of Concepts and Mapping through Instruction Following | CoRL · Instruction Following | [Paper](https://arxiv.org/abs/2304.03767) · [Index](https://dblp.org/rec/conf/corl/DingXCC0TG22) | rule-assigned |
 
-## Recent arXiv papers (41)
+## Recent arXiv papers (42)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-19 | Cartender: Verifiable Language-Conditioned Driving by Learning the Drives Not Taken | Zhiwen Chen, Benjin Zhu, Yan Xie, Jun Ma | [Abstract](https://arxiv.org/abs/2610.26390) · [PDF](https://arxiv.org/pdf/2610.26390) | rule-assigned |
 | 2026-10-12 | Same Goal, Different Words: Spatial Instruction Sensitivity in World-Action Models | Ali-Adeeb Abbas, Esmaeil Seraj, Behrad Toghi, Taşkın Padır | [Abstract](https://arxiv.org/abs/2610.16242) · [PDF](https://arxiv.org/pdf/2610.16242) | rule-assigned |
 | 2026-10-09 | JoyInside-VLM-Agent: Product-Conditioned Multimodal Policy Learning for Embodied Agents | Gangyi Li, LuYao Wang, Jingfu Sun, Jingyi Yuan et al. | [Abstract](https://arxiv.org/abs/2610.12957) · [PDF](https://arxiv.org/pdf/2610.12957) | rule-assigned |
 | 2026-09-22 | RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents | Chang Guo, Yukun Xie, Bohan Tan, Zheng Chang et al. | [Abstract](https://arxiv.org/abs/2609.25636) · [PDF](https://arxiv.org/pdf/2609.25636) | rule-assigned |

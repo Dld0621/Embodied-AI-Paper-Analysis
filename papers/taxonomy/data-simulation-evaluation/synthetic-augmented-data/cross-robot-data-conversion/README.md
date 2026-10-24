@@ -1,12 +1,12 @@
 # Cross-robot Data Conversion · 跨机器人数据转换
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Synthetic%20%26%20Augmented%20Data&specialty=Cross-robot%20Data%20Conversion#research-workbench)
 
-> 0 conference papers · 15 recent arXiv papers
+> 0 conference papers · 16 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,7 +24,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (15)
+## Recent arXiv papers (16)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -37,6 +37,7 @@ No conference papers currently map to this specialty.
 | 2026-05-26 | LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding | Shihao Wang, Shilong Liu, Yuanguo Kuang, Xinyu Wei et al. | [Abstract](https://arxiv.org/abs/2605.27365) · [PDF](https://arxiv.org/pdf/2605.27365) | rule-assigned |
 | 2026-04-30 | Lucid-XR: An Extended-Reality Data Engine for Robotic Manipulation | Yajvan Ravan, Adam Rashid, Alan Yu, Kai McClennen et al. | [Abstract](https://arxiv.org/abs/2605.00244) · [PDF](https://arxiv.org/pdf/2605.00244) | rule-assigned |
 | 2026-03-09 | Seed2Scale: A Self-Evolving Data Engine with Parallel Worlds Expansion for Scalable Robot Learning | Cong Tai, Zhaoyu Zheng, Haixu Long, Hansheng Wu et al. | [Abstract](https://arxiv.org/abs/2603.08260) · [PDF](https://arxiv.org/pdf/2603.08260) | rule-assigned |
+| 2026-03-05 | RoboPocket: Improve Robot Policies Instantly with Your Phone | Junjie Fang, Wendi Chen, Han Xue, Fangyuan Zhou et al. | [Abstract](https://arxiv.org/abs/2603.05504) · [PDF](https://arxiv.org/pdf/2603.05504) | rule-assigned |
 | 2025-12-02 | RoboWheel: A Data Engine from Real-World Human Demonstrations for Cross-Embodiment Robotic Learning | Yuhong Zhang, Zihan Gao, Shengpeng Li, Ling-Hao Chen et al. | [Abstract](https://arxiv.org/abs/2512.02729) · [PDF](https://arxiv.org/pdf/2512.02729) | rule-assigned |
 | 2025-11-25 | GigaWorld-0: World Models as Data Engine to Empower Embodied AI | GigaWorld Team, Angen Ye, Boyuan Wang, Chaojun Ni et al. | [Abstract](https://arxiv.org/abs/2511.19861) · [PDF](https://arxiv.org/pdf/2511.19861) | rule-assigned |
 | 2025-10-14 | EmboMatrix: A Scalable Training-Ground for Embodied Decision-Making | Zixing Lei, Sheng Yin, Yichen Xiong, Yuanzhuo Ding et al. | [Abstract](https://arxiv.org/abs/2510.12072) · [PDF](https://arxiv.org/pdf/2510.12072) | rule-assigned |

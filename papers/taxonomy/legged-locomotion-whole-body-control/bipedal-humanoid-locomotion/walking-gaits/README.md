@@ -1,12 +1,12 @@
 # Walking & Gaits · 行走与步态
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Walking%20%26%20Gaits#research-workbench)
 
-> 167 conference papers · 350 recent arXiv papers
+> 167 conference papers · 355 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -192,10 +192,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Simultaneous Contact-Rich Grasping and Locomotion via Distributed Optimization Enabling Free-Climbing for Multi-Limbed Robots | IROS · Grasp | [Paper](https://arxiv.org/pdf/2207.01418) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981579) | rule-assigned |
 | 2022 | Three-Dimensional Dynamic Running with a Point-Foot Biped based on Differentially Flat SLIP | IROS · Biped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981516) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981516) | rule-assigned |
 
-## Recent arXiv papers (350)
+## Recent arXiv papers (355)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-21 | Watch Your Step: Anticipated Perception for Humanoid Locomotion | Matthias Heyrman, Chenhao Li, Ioannis Dadiotis, Marco Hutter | [Abstract](https://arxiv.org/abs/2610.29612) · [PDF](https://arxiv.org/pdf/2610.29612) | rule-assigned |
+| 2026-10-21 | S-Rolling: Steerable Rolling Gaits for Twistable Snake Robots in Low-Clearance Environments | Qingling Fan, Zhongqiang Ren | [Abstract](https://arxiv.org/abs/2610.29478) · [PDF](https://arxiv.org/pdf/2610.29478) | rule-assigned |
+| 2026-10-20 | Adaptive Traversal Tubes for Posture-Aware Navigation of Bipedal Humanoids | Zijian Ge | [Abstract](https://arxiv.org/abs/2610.27688) · [PDF](https://arxiv.org/pdf/2610.27688) | rule-assigned |
+| 2026-10-19 | Bio-inspired Thrust-Assisted Trotting on a legged-Aerial Robot via Real-Time QP-MPC | Shreyansh Pitroda, Eric Sihite, Alireza Ramezani, Morteza Gharib | [Abstract](https://arxiv.org/abs/2610.26810) · [PDF](https://arxiv.org/pdf/2610.26810) | rule-assigned |
+| 2026-10-17 | Anticipatory Gait Switching for Quadrupeds via Look-Ahead MDP Planning | Kelvin Aladum, Justin Peel, Nisar Ahmed | [Abstract](https://arxiv.org/abs/2610.24895) · [PDF](https://arxiv.org/pdf/2610.24895) | rule-assigned |
+| 2026-10-14 | Persistent Profile-Guided Reset-Free Recovery Improves Final Gait Selection after Irreversible Leg Damage | Minjoong Kim | [Abstract](https://arxiv.org/abs/2610.20838) · [PDF](https://arxiv.org/pdf/2610.20838) | rule-assigned |
 | 2026-10-13 | Tread: A Visuo-Inertial Framework for Terrain and Locomotion Context-Aware Gait-Phase and Speed Estimation in Wearable Robotics | Debadrata Sarkar, Akash Bachhar, Aman Arora | [Abstract](https://arxiv.org/abs/2610.19067) · [PDF](https://arxiv.org/pdf/2610.19067) | rule-assigned |
 | 2026-10-11 | Geometry-Aware Predictive Control for Walk-to-Run Bipedal Obstacle Crossing | Aashish Sahu, R. Prasanth Kumar | [Abstract](https://arxiv.org/abs/2610.15735) · [PDF](https://arxiv.org/pdf/2610.15735) | rule-assigned |
 | 2026-10-08 | Walking on Roofs: Exploring the Potential of Walking Robots for Construction Work on Roofs | Bjoern-Felix Dettmar, Arne Roennau | [Abstract](https://arxiv.org/abs/2610.12272) · [PDF](https://arxiv.org/pdf/2610.12272) | rule-assigned |
@@ -213,6 +219,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-09-27 | Multi-Terrain Mastery: A Comprehensive Controller for Bipedal Locomotion | Oluwami Dosunmu-Ogunbi, Aayushi Shrivastava | [Abstract](https://arxiv.org/abs/2609.33174) · [PDF](https://arxiv.org/pdf/2609.33174) | rule-assigned |
 | 2026-09-22 | Teaching Reinforcement Learning and Humanoid Robotics to High-School Students: An Expert-Validated Curriculum Design on a Low-Cost Open Platform | Yuanzhe Dong, Jie Cao, Shuman Wang | [Abstract](https://arxiv.org/abs/2609.25674) · [PDF](https://arxiv.org/pdf/2609.25674) | rule-assigned |
 | 2026-09-22 | Learning Expressive Humanoid Locomotion from Monocular Runway Videos for Robot Fashion Shows | Kyrylo Kolesnichenko, Irvin Steve Cardenas, Jong-Hoon Kim | [Abstract](https://arxiv.org/abs/2609.27003) · [PDF](https://arxiv.org/pdf/2609.27003) | rule-assigned |
+| 2026-09-22 | Adaptive Rejection of Unknown Hybrid Sinusoidal Disturbances with Application to Humanoid Walking under Unknown Ground Motion | I-Chia Chang, Jacob Stewart, Petros A. Ioannou, Yan Gu | [Abstract](https://arxiv.org/abs/2610.23879) · [PDF](https://arxiv.org/pdf/2610.23879) | rule-assigned |
 | 2026-09-21 | Angular momentum analysis on Karate roundhouse kicks: a longitudinal case study | Jan C. L. Lau, Christian Mele, Jonathan Feng-Shun Lin, Katja Mombaur | [Abstract](https://arxiv.org/abs/2609.25374) · [PDF](https://arxiv.org/pdf/2609.25374) | rule-assigned |
 | 2026-09-18 | When to Waddle: A Comparative Study of Bipedal Torso-Stabilization on Low-Friction Surfaces | Ben Gu, Naomi Oke, George Ortiz, Stacy Ashlyn et al. | [Abstract](https://arxiv.org/abs/2609.21185) · [PDF](https://arxiv.org/pdf/2609.21185) | rule-assigned |
 | 2026-09-17 | Walking on the Slope: Stable Bipedal Gaits with Genetic-Algorithm-Optimized Trajectories | Madhav Rijal | [Abstract](https://arxiv.org/abs/2609.20570) · [PDF](https://arxiv.org/pdf/2609.20570) | rule-assigned |
@@ -289,6 +296,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-03-19 | PRIOR: Perceptive Learning for Humanoid Locomotion with Reference Gait Priors | Chenxi Han, Shilu He, Yi Cheng, Linqi Ye et al. | [Abstract](https://arxiv.org/abs/2603.18979) · [PDF](https://arxiv.org/pdf/2603.18979) | rule-assigned |
 | 2026-03-18 | Uncovering Latent Phase Structures and Branching Logic in Locomotion Policies: A Case Study on HalfCheetah | Daisuke Yasui, Toshitaka Matsuki, Hiroshi Sato | [Abstract](https://arxiv.org/abs/2603.18084) · [PDF](https://arxiv.org/pdf/2603.18084) | rule-assigned |
 | 2026-03-17 | Task-Specified Compliance Bounds for Humanoids via Lipschitz-Constrained Policies | Zewen He, Yoshihiko Nakamura | [Abstract](https://arxiv.org/abs/2603.16180) · [PDF](https://arxiv.org/pdf/2603.16180) | rule-assigned |
+| 2026-03-17 | Kamino: GPU-based Simulation of Rigid Multi-Body Physics with Kinematic Loops | Vassilios Tsounis, Guirec Maloisel, Christian Schumacher, Ruben Grandia et al. | [Abstract](https://arxiv.org/abs/2603.16536) · [PDF](https://arxiv.org/pdf/2603.16536) | rule-assigned |
 | 2026-03-16 | User-Tailored Learning to Forecast Walking Modes for Exosuits | Gabriele Abbate, Enrica Tricomi, Nathalie Gierden, Alessandro Giusti et al. | [Abstract](https://arxiv.org/abs/2603.15329) · [PDF](https://arxiv.org/pdf/2603.15329) | rule-assigned |
 | 2026-03-11 | SteadyTray: Learning Object Balancing Tasks in Humanoid Tray Transport via Residual Reinforcement Learning | Anlun Huang, Zhenyu Wu, Soofiyan Atar, Yuheng Zhi et al. | [Abstract](https://arxiv.org/abs/2603.10306) · [PDF](https://arxiv.org/pdf/2603.10306) | rule-assigned |
 | 2026-03-11 | RL-Augmented MPC for Non-Gaited Legged and Hybrid Locomotion | Andrea Patrizi, Carlo Rizzardo, Arturo Laurenzi, Francesco Ruscelli et al. | [Abstract](https://arxiv.org/abs/2603.10878) · [PDF](https://arxiv.org/pdf/2603.10878) | rule-assigned |
@@ -543,9 +551,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-29 | Adaptive Hierarchical Origami Metastructures | Yanbin Li, Antonio Di Lallo, Junxi Zhu, Yinding Chi et al. | [Abstract](https://arxiv.org/abs/2311.18055) · [PDF](https://arxiv.org/pdf/2311.18055) | rule-assigned |
 | 2023-11-13 | Predicting Continuous Locomotion Modes via Multidimensional Feature Learning from sEMG | Peiwen Fu, Wenjuan Zhong, Yuyang Zhang, Wenxuan Xiong et al. | [Abstract](https://arxiv.org/abs/2311.07395) · [PDF](https://arxiv.org/pdf/2311.07395) | rule-assigned |
 | 2023-11-12 | Advanced Feedback Linearization Control for Tiltrotor UAVs: Gait Plan, Controller Design, and Stability Analysis | Zhe Shen | [Abstract](https://arxiv.org/abs/2311.06725) · [PDF](https://arxiv.org/pdf/2311.06725) | rule-assigned |
-| 2023-10-17 | Signal Temporal Logic-Guided Model Predictive Control for Robust Bipedal Locomotion Resilient to Runtime External Perturbations | Zhaoyuan Gu, Rongming Guo, William Yates, Yipu Chen et al. | [Abstract](https://arxiv.org/abs/2310.11290) · [PDF](https://arxiv.org/pdf/2310.11290) | rule-assigned |
-| 2023-10-15 | Socially Acceptable Bipedal Navigation: A Signal-Temporal-Logic- Driven Approach for Safe Locomotion | Abdulaziz Shamsah, Ye Zhao | [Abstract](https://arxiv.org/abs/2310.09969) · [PDF](https://arxiv.org/pdf/2310.09969) | rule-assigned |
-| 2023-10-15 | Reinforcement Learning for Reduced-order Models of Legged Robots | Yu-Ming Chen, Hien Bui, Michael Posa | [Abstract](https://arxiv.org/abs/2310.09873) · [PDF](https://arxiv.org/pdf/2310.09873) | rule-assigned |
 
 ---
 

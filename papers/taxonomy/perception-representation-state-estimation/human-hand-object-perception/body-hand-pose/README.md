@@ -1,7 +1,7 @@
 # Body & Hand Pose · 人体与手部姿态
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Human%20%26%20Hand-object%20Perception&specialty=Body%20%26%20Hand%20Pose#research-workbench)
@@ -32,6 +32,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-19 | EgoRayFormer: Ray-Space Stereo Refinement for Egocentric 3D Human Pose Estimation | Haozhe Wang, Songyuan Wu, Jihai Xu, Jie Zhao | [Abstract](https://arxiv.org/abs/2610.26641) · [PDF](https://arxiv.org/pdf/2610.26641) | rule-assigned |
 | 2026-09-08 | TacClip: a clip-on sensor measures dynamic contact forces without covering the fingerpads | Yuqian Ye, Hao Li, Jingxi Xu, Haojun Feng et al. | [Abstract](https://arxiv.org/abs/2609.08214) · [PDF](https://arxiv.org/pdf/2609.08214) | rule-assigned |
 | 2026-09-04 | Sound-based Multi-Person 3D Pose Estimation | Yusuke Oumi, Yuto Shibata, Go Irie, Akisato Kimura et al. | [Abstract](https://arxiv.org/abs/2609.04902) · [PDF](https://arxiv.org/pdf/2609.04902) | rule-assigned |
 | 2026-07-23 | Factorized Spatio-Temporal Convolutions for Human Pose Estimation from Planar Lidar | Simone Arreghini, Mirko Nava, Nicholas Carlotti, Antonio Paolillo et al. | [Abstract](https://arxiv.org/abs/2607.21309) · [PDF](https://arxiv.org/pdf/2607.21309) | rule-assigned |
@@ -77,7 +78,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-11 | Navigating Open Set Scenarios for Skeleton-based Action Recognition | Kunyu Peng, Cheng Yin, Junwei Zheng, Ruiping Liu et al. | [Abstract](https://arxiv.org/abs/2312.06330) · [PDF](https://arxiv.org/pdf/2312.06330) | rule-assigned |
 | 2023-12-11 | 3D Hand Pose Estimation in Everyday Egocentric Images | Aditya Prakash, Ruisen Tu, Matthew Chang, Saurabh Gupta | [Abstract](https://arxiv.org/abs/2312.06583) · [PDF](https://arxiv.org/pdf/2312.06583) | rule-assigned |
 | 2023-11-08 | Exploring Event-based Human Pose Estimation with 3D Event Representations | Xiaoting Yin, Hao Shi, Jiaan Chen, Ze Wang et al. | [Abstract](https://arxiv.org/abs/2311.04591) · [PDF](https://arxiv.org/pdf/2311.04591) | rule-assigned |
-| 2023-10-15 | MoEmo Vision Transformer: Integrating Cross-Attention and Movement Vectors in 3D Pose Estimation for HRI Emotion Detection | David C. Jeong, Tianma Shen, Hongji Liu, Raghav Kapoor et al. | [Abstract](https://arxiv.org/abs/2310.09757) · [PDF](https://arxiv.org/pdf/2310.09757) | rule-assigned |
 
 ---
 

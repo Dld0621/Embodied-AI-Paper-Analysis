@@ -1,12 +1,12 @@
 # Domain Adaptation & Transfer · 域适配与迁移
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Sim-to-real%20Transfer&specialty=Domain%20Adaptation%20%26%20Transfer#research-workbench)
 
-> 42 conference papers · 257 recent arXiv papers
+> 42 conference papers · 260 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -67,10 +67,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Towards Inclusive HRI: Using Sim2Real to Address Underrepresentation in Emotion Expression Recognition | IROS · Sim2Real | [Paper](https://arxiv.org/pdf/2208.07472) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982252) | rule-assigned |
 | 2022 | Transferring Multi-Agent Reinforcement Learning Policies for Autonomous Driving using Sim-to-Real | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2203.11653) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981319) | rule-assigned |
 
-## Recent arXiv papers (257)
+## Recent arXiv papers (260)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-21 | PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration | Xiujian Liang, Jiacheng Liu, Mingyang Sun, Qichen He et al. | [Abstract](https://arxiv.org/abs/2610.29432) · [PDF](https://arxiv.org/pdf/2610.29432) | rule-assigned |
+| 2026-10-20 | PCLA-Bridge: A Framework for Cross-Domain Deployment of CARLA Agents | Masoud Jamshidiyan Tehrani, Jinhan Kim, Paolo Tonella | [Abstract](https://arxiv.org/abs/2610.28696) · [PDF](https://arxiv.org/pdf/2610.28696) | rule-assigned |
+| 2026-10-19 | Physical AI: Concepts, Techniques, and Challenges | Weinan Zhang, Chunhua Shen, Tianfan Xue, Bin Zhao et al. | [Abstract](https://arxiv.org/abs/2610.27045) · [PDF](https://arxiv.org/pdf/2610.27045) | rule-assigned |
+| 2026-10-16 | PASS: A Trustworthy Precision Approach Simulation System for CAT III Integrity Algorithm Development | Lang Zhu, Xin Zhang, Yulong Sun, Nan Liu et al. | [Abstract](https://arxiv.org/abs/2610.23019) · [PDF](https://arxiv.org/pdf/2610.23019) | rule-assigned |
+| 2026-10-15 | Sim-to-Real Reinforcement Learning for Path-Safe Target Reaching in Robotic Harvesting of Hydroponic Lettuce | Al Bashir, Partho Ghose, Yibin Wang, Robert G. Hardin et al. | [Abstract](https://arxiv.org/abs/2610.22337) · [PDF](https://arxiv.org/pdf/2610.22337) | rule-assigned |
+| 2026-10-15 | Embodiment-Classifier Guidance: Transferring Frozen VLAs Across Robot Dynamics without Demonstrations | Devin Han, Hershraj Niranjani | [Abstract](https://arxiv.org/abs/2610.22576) · [PDF](https://arxiv.org/pdf/2610.22576) | rule-assigned |
 | 2026-10-14 | AutoRSR: Automated Real-to-Sim-to-Real Data Generation for Scalable Robot Learning | Jiawei Zhang, Chang Liu, Litao Deng, Tao Zhang et al. | [Abstract](https://arxiv.org/abs/2610.20336) · [PDF](https://arxiv.org/pdf/2610.20336) | rule-assigned |
 | 2026-10-12 | DexNinja: Learning Robust Dexterous Cutting Policy with a Real-to-Sim-to-Real Data Engine | Haozhe Lou, Runyi Yang, Wanqi Zhong, Caiyun Liu et al. | [Abstract](https://arxiv.org/abs/2610.17208) · [PDF](https://arxiv.org/pdf/2610.17208) | rule-assigned |
 | 2026-10-08 | Sim-to-Real RL for ASVs using SysID | Cody Sheltraw, Tsimafei Lazouski, Maani Ghaffari, Alan Papalia | [Abstract](https://arxiv.org/abs/2610.12202) · [PDF](https://arxiv.org/pdf/2610.12202) | rule-assigned |
@@ -113,7 +119,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-07-06 | SILO: Simulation-in-the-Loop Sim-to-Real Transfer for Multi-Stage Cable Routing | Stone Tao, Jie Xu, Hesam Rabeti, Yashraj Narang et al. | [Abstract](https://arxiv.org/abs/2607.04616) · [PDF](https://arxiv.org/pdf/2607.04616) | rule-assigned |
 | 2026-07-01 | BIFROST: Bridging Invariant Feature Representation for Observation-space Sim2Real Transfer | Yunfu Deng, Josiah P. Hanna | [Abstract](https://arxiv.org/abs/2607.01410) · [PDF](https://arxiv.org/pdf/2607.01410) | rule-assigned |
 | 2026-06-30 | Efficient Sim-to-Real Transfer of World-Action Models from Synthetic Priors | Zixing Wang, Kausik Sivakumar, Jinghuan Shang, Yafei Hu et al. | [Abstract](https://arxiv.org/abs/2606.31101) · [PDF](https://arxiv.org/pdf/2606.31101) | rule-assigned |
-| 2026-06-30 | ASPIRE: Agentic /Skills Discovery for Robotics | Runyu Lu, Yubo Wu, Ethan Kou, Letian Fu et al. | [Abstract](https://arxiv.org/abs/2607.00272) · [PDF](https://arxiv.org/pdf/2607.00272) | rule-assigned |
 | 2026-06-29 | ConCent: Contact-Centric Real-to-Sim-to-Real Learning from One Demonstration | Heecheol Kim, Namiko Saito, Katsushi Ikeuchi, Yasuyuki Matsushita | [Abstract](https://arxiv.org/abs/2606.30268) · [PDF](https://arxiv.org/pdf/2606.30268) | rule-assigned |
 | 2026-06-27 | Physics Models for Sim-to-Real Transfer in Professional-Level Robot Table Tennis | Christian Conti, Bilan Yang, Alexander Sigrist, Lorenzo Miele et al. | [Abstract](https://arxiv.org/abs/2606.28805) · [PDF](https://arxiv.org/pdf/2606.28805) | rule-assigned |
 | 2026-06-26 | PPO-EAL: Exact Augmented Lagrangian Proximal Policy Optimization for Safe Robotic Control | Jiatao Ding, Songqun Gao, Andrea Del Prete, Matteo Saveriano | [Abstract](https://arxiv.org/abs/2606.27861) · [PDF](https://arxiv.org/pdf/2606.27861) | rule-assigned |
@@ -326,8 +331,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-09 | Differentiable Fluid Physics Parameter Identification Via Stirring | Wenqiang Xu, Dongzhe Zheng, Yutong Li, Jieji Ren et al. | [Abstract](https://arxiv.org/abs/2311.05137) · [PDF](https://arxiv.org/pdf/2311.05137) | rule-assigned |
 | 2023-11-07 | Imitation learning for sim-to-real transfer of robotic cutting policies based on residual Gaussian process disturbance force model | Jamie Hathaway, Rustam Stolkin, Alireza Rastegarpanah | [Abstract](https://arxiv.org/abs/2311.04096) · [PDF](https://arxiv.org/pdf/2311.04096) | rule-assigned |
 | 2023-11-02 | An Efficient Detection and Control System for Underwater Docking using Machine Learning and Realistic Simulation: A Comprehensive Approach | Jalil Chavez-Galaviz, Jianwen Li, Matthew Bergman, Miras Mengdibayev et al. | [Abstract](https://arxiv.org/abs/2311.01522) · [PDF](https://arxiv.org/pdf/2311.01522) | rule-assigned |
-| 2023-10-21 | Unsupervised Sim-to-Real Adaptation of Soft Robot Proprioception using a Dual Cross-modal Autoencoder | Chaeree Park, Hyunkyu Park, Jung Kim | [Abstract](https://arxiv.org/abs/2310.14075) · [PDF](https://arxiv.org/pdf/2310.14075) | rule-assigned |
-| 2023-10-17 | Sim-to-Real Transfer of Adaptive Control Parameters for AUV Stabilization under Current Disturbance | Thomas Chaffre, Jonathan Wheare, Andrew Lammas, Paulo Santos et al. | [Abstract](https://arxiv.org/abs/2310.11075) · [PDF](https://arxiv.org/pdf/2310.11075) | rule-assigned |
 
 ---
 

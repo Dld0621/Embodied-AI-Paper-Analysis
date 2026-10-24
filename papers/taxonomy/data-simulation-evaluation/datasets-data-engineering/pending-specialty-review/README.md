@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engineering&specialty=Pending%20specialty%20review#research-workbench)
 
-> 122 conference papers · 631 recent arXiv papers
+> 122 conference papers · 634 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -147,10 +147,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Realistic Real-Time Simulation of RGB and Depth Sensors for Dynamic Scenarios using Augmented Image Based Rendering | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982014) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982014) | needs-review |
 | 2022 | FlyView: a bio-informed optical flow truth dataset for visual navigation using panoramic stereo vision | NeurIPS · Navigation | [Paper](https://doi.org/10.52202/068431-2038) · [Publisher](https://doi.org/10.52202/068431-2038) | needs-review |
 
-## Recent arXiv papers (631)
+## Recent arXiv papers (634)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | SCOPE: Scene-graph Construction Optimized by Plan Error-correction for Robot Long-term Planning Datasets | Chaoyue Li, Zeyu Gao, Yanfeng Lu, Fan Luo | [Abstract](https://arxiv.org/abs/2610.31518) · [PDF](https://arxiv.org/pdf/2610.31518) | needs-review |
+| 2026-10-20 | SynCalib: Breaking Dataset Shortcuts in LiDAR-Camera Calibration via Extrinsic-Controllable Synthesis | Huihua Zhu, Shuyang Zhang, Dongqing Chen, Zhuo Yu et al. | [Abstract](https://arxiv.org/abs/2610.27547) · [PDF](https://arxiv.org/pdf/2610.27547) | needs-review |
+| 2026-10-20 | Distributed Platoon Control for Safe and Smooth Crossing at an Unsignalized Intersection-Part I: Stability Analysis | Bin-Bin Hu, Shuwei Pei, Saeed Ahmed, Bayu Jayawardhana | [Abstract](https://arxiv.org/abs/2610.28290) · [PDF](https://arxiv.org/pdf/2610.28290) | needs-review |
+| 2026-10-17 | GazeAct: A Human-Gaze-Annotated Manipulation Dataset for Attention-Regularized Policies | Anupam Pani, Wang Yuan, Qifan Wang, Yanchao Yang | [Abstract](https://arxiv.org/abs/2610.24507) · [PDF](https://arxiv.org/pdf/2610.24507) | needs-review |
+| 2026-10-17 | Escape Without a Recipe: Maneuver-Agnostic Mars Rover Recovery from Granular Entrapment | Meraj Hossain Promit, Chandak Chakma, Md Jubair Ahmed Sourov, Sejuti Rahman | [Abstract](https://arxiv.org/abs/2610.24827) · [PDF](https://arxiv.org/pdf/2610.24827) | needs-review |
+| 2026-10-15 | TriSAR-3D and PaintFusion: A Novel Trimodal LiDAR-RGB-Thermal Dataset and Method for 3D Person Detection in Search and Rescue | Markus Kramer, Jan Wachenfeld, Oskar von Stryk | [Abstract](https://arxiv.org/abs/2610.22509) · [PDF](https://arxiv.org/pdf/2610.22509) | needs-review |
 | 2026-10-12 | Toward Study on the Effects of Robot's Humorous Apology on Human's Trust Recovery | Gayoung Kim, Go-Eum Cha, Wonse Jo | [Abstract](https://arxiv.org/abs/2610.16334) · [PDF](https://arxiv.org/pdf/2610.16334) | needs-review |
 | 2026-10-12 | DiTSG: Context-Aware Air Traffic Scene Generation with Multi-Agent Diffusion Transformers | Seokbin Yoon, Kyungmin Kim, Taejung Kwon, Keumjin Lee et al. | [Abstract](https://arxiv.org/abs/2610.16959) · [PDF](https://arxiv.org/pdf/2610.16959) | needs-review |
 | 2026-10-09 | Towards Safer Cities: A Design Process for Perception Datasets in Urban Driving Scenarios | Alexander Kroth, Cristian Martinez, Steven Peters | [Abstract](https://arxiv.org/abs/2610.13077) · [PDF](https://arxiv.org/pdf/2610.13077) | needs-review |
@@ -168,6 +174,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-09-30 | SimEX: Simulation-Integrated Robotics AutoResearch | Jiaheng Hu, Roberto Martin-Martin, Peter Stone, Rocky Duan et al. | [Abstract](https://arxiv.org/abs/2609.38982) · [PDF](https://arxiv.org/pdf/2609.38982) | needs-review |
 | 2026-09-30 | FlapKAD: A Simulation Dataset of Coupled Wing Kinematics and Aerodynamic Dynamics for Flapping-Wing Aerial Vehicles | Haichuan Li | [Abstract](https://arxiv.org/abs/2609.38719) · [PDF](https://arxiv.org/pdf/2609.38719) | needs-review |
 | 2026-09-28 | SynIL: Leveraging Synergy for Offline Imitation Learning from Imperfect Demonstration Datasets | Yuto Tanaka, Kyo Kutsuzawa, Martina Doku, Dai Owaki et al. | [Abstract](https://arxiv.org/abs/2609.38225) · [PDF](https://arxiv.org/pdf/2609.38225) | needs-review |
+| 2026-09-27 | When Does Backpropagating Through Policy Memory Matter? Separating Representation Credit from Closed-Loop Credit | Xingjian Li, Jianhua Z. Huang, Junli Duan | [Abstract](https://arxiv.org/abs/2609.33169) · [PDF](https://arxiv.org/pdf/2609.33169) | needs-review |
 | 2026-09-24 | Timed Rule-Based Supervision of an End-to-End Autonomous Parking Policy | Kejia Gao, Liguo Zhou, Lei Yu, Alois Knoll | [Abstract](https://arxiv.org/abs/2609.31773) · [PDF](https://arxiv.org/pdf/2609.31773) | needs-review |
 | 2026-09-24 | PolyUMI: Accessible Visual-Tactile-Audio Data Collection for Object Inference and Manipulation | Conor W. Hayes, Rickmer Krohn, Aravind Ramaswami, Anunth Ramaswami et al. | [Abstract](https://arxiv.org/abs/2609.29760) · [PDF](https://arxiv.org/pdf/2609.29760) | needs-review |
 | 2026-09-24 | Ego-Exo4D Human Meshes Dataset: 4D Human Motion Reconstruction for Ego-Exo Captures | Abhiram Maddukuri, Georgios Pavlakos | [Abstract](https://arxiv.org/abs/2609.30187) · [PDF](https://arxiv.org/pdf/2609.30187) | needs-review |
@@ -292,7 +299,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-03-17 | Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation | Mutian Xu, Tianbao Zhang, Tianqi Liu, Zhaoxi Chen et al. | [Abstract](https://arxiv.org/abs/2603.16669) · [PDF](https://arxiv.org/pdf/2603.16669) | needs-review |
 | 2026-03-16 | Zero-Shot Generalization from Motion Demonstrations to New Tasks | Kilian Freitag, Alvin Combrink, Nadia Figueroa | [Abstract](https://arxiv.org/abs/2603.15445) · [PDF](https://arxiv.org/pdf/2603.15445) | needs-review |
 | 2026-03-16 | FEEL (Force-Enhanced Egocentric Learning): A Dataset for Physical Action Understanding | Eadom Dessalene, Botao He, Michael Maynord, Yonatan Tussa et al. | [Abstract](https://arxiv.org/abs/2603.15847) · [PDF](https://arxiv.org/pdf/2603.15847) | needs-review |
-| 2026-03-16 | End-to-End Dexterous Grasp Learning from Single-View Point Clouds via a Multi-Object Scene Dataset | Tao Geng, Dapeng Yang, Ziwei Liu, Le Zhang et al. | [Abstract](https://arxiv.org/abs/2603.15410) · [PDF](https://arxiv.org/pdf/2603.15410) | needs-review |
+| 2026-03-16 | DGS-Net: Learning Dexterous Grasps from Single-View Point Clouds via a Multi-Object Scene Dataset | Tao Geng, Dapeng Yang, Ziwei Liu, Le Zhang et al. | [Abstract](https://arxiv.org/abs/2603.15410) · [PDF](https://arxiv.org/pdf/2603.15410) | needs-review |
 | 2026-03-15 | Interp3R: Continuous-time 3D Geometry Estimation with Frames and Events | Shuang Guo, Filbert Febryanto, Lei Sun, Luc Van Gool et al. | [Abstract](https://arxiv.org/abs/2603.14528) · [PDF](https://arxiv.org/pdf/2603.14528) | needs-review |
 | 2026-03-15 | Deconfounded Lifelong Learning for Autonomous Driving via Dynamic Knowledge Spaces | Jiayuan Du, Yuebing Song, Yiming Zhao, Xianghui Pan et al. | [Abstract](https://arxiv.org/abs/2603.14354) · [PDF](https://arxiv.org/pdf/2603.14354) | needs-review |
 | 2026-03-13 | SldprtNet: A Large-Scale Multimodal Dataset for CAD Generation in Language-Driven 3D Design | Ruogu Li, Sikai Li, Yao Mu, Mingyu Ding | [Abstract](https://arxiv.org/abs/2603.13098) · [PDF](https://arxiv.org/pdf/2603.13098) | needs-review |
@@ -778,10 +785,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-31 | An Introduction to Causal Inference Methods for Observational Human-Robot Interaction Research | Jaron J. R. Lee, Gopika Ajaykumar, Ilya Shpitser, Chien-Ming Huang | [Abstract](https://arxiv.org/abs/2310.20468) · [PDF](https://arxiv.org/pdf/2310.20468) | needs-review |
 | 2023-10-25 | The GOOSE Dataset for Perception in Unstructured Environments | Peter Mortimer, Raphael Hagmanns, Miguel Granero, Thorsten Luettel et al. | [Abstract](https://arxiv.org/abs/2310.16788) · [PDF](https://arxiv.org/pdf/2310.16788) | needs-review |
 | 2023-10-25 | ParisLuco3D: A high-quality target dataset for domain generalization of LiDAR perception | Jules Sanchez, Louis Soum-Fontez, Jean-Emmanuel Deschaud, Francois Goulette | [Abstract](https://arxiv.org/abs/2310.16542) · [PDF](https://arxiv.org/pdf/2310.16542) | needs-review |
-| 2023-10-20 | What you see is what you get: Experience ranking with deep neural dataset-to-dataset similarity for topological localisation | Matthew Gadd, Benjamin Ramtoula, Daniele De Martini, Paul Newman | [Abstract](https://arxiv.org/abs/2310.13622) · [PDF](https://arxiv.org/pdf/2310.13622) | needs-review |
-| 2023-10-19 | Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding | Zhejun Zhang, Alexander Liniger, Christos Sakaridis, Fisher Yu et al. | [Abstract](https://arxiv.org/abs/2310.12970) · [PDF](https://arxiv.org/pdf/2310.12970) | needs-review |
-| 2023-10-18 | Flymation: Interactive Animation for Flying Robots | Yunlong Song, Davide Scaramuzza | [Abstract](https://arxiv.org/abs/2310.11659) · [PDF](https://arxiv.org/pdf/2310.11659) | needs-review |
-| 2023-10-16 | Bayesian Filtering for Homography Estimation | Arturo Del Castillo Bernal, Philippe Decoste, James Richard Forbes | [Abstract](https://arxiv.org/abs/2310.10612) · [PDF](https://arxiv.org/pdf/2310.10612) | needs-review |
 
 ---
 

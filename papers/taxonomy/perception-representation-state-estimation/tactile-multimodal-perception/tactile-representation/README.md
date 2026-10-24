@@ -1,12 +1,12 @@
 # Tactile Representation · 触觉表征
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Tactile%20Representation#research-workbench)
 
-> 62 conference papers · 129 recent arXiv papers
+> 62 conference papers · 132 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,7 +29,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | MultiDiffSense: Diffusion-Based Multi-Modal Visuo-Tactile Image Generation Conditioned on Object Shape and Contact Pose | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2602.19348) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696419) | rule-assigned |
 | 2026 | Tactile Recognition of Both Shapes and Materials with Automatic Feature Optimization-Enabled Meta Learning | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2603.08423) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696120) | rule-assigned |
 | 2026 | Touch with Insight: Physics-Aware Data-Driven Learning for EIT-Based Tactile Sensing | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696850) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696850) | rule-assigned |
-| 2025 | Sensor-Invariant Tactile Representation | ICLR · Tactile | [Paper](https://arxiv.org/abs/2502.19638) · [Index](https://dblp.org/rec/journals/corr/abs-2502-19638) | rule-assigned |
+| 2025 | Sensor-Invariant Tactile Representation | ICLR · Tactile | [Paper](https://arxiv.org/abs/2502.19638) · [Index](https://dblp.org/rec/conf/iclr/GuptaMJ025) | rule-assigned |
 | 2025 | ACROSS: A Deformation-Based Cross-Modal Representation for Robotic Tactile Perception | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2411.08533) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127851) | rule-assigned |
 | 2025 | Enhancing Adaptivity of Two-Fingered Object Reorientation Using Tactile-Based Online Optimization of Deconstructed Actions | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2503.11041) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127901) | rule-assigned |
 | 2025 | Self-Mixing Laser Interferometry for Robotic Tactile Sensing | ICRA · Tactile | [Paper](https://arxiv.org/abs/2502.15390) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128331) | rule-assigned |
@@ -51,7 +51,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Dual-modal Tactile E-skin: Enabling Bidirectional Human-Robot Interaction via Integrated Tactile Perception and Feedback | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2402.05725) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610074) | rule-assigned |
 | 2024 | Enhancing Tactile Sensing in Robotics: Dual-Modal Force and Shape Perception with EIT-based Sensors and MM-CNN | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610215) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610215) | rule-assigned |
 | 2024 | GelLink: A Compact Multi-phalanx Finger with Vision-based Tactile Sensing and Proprioception | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2403.14887) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610823) | rule-assigned |
-| 2024 | Learning Motion Reconstruction from Demonstration via Multi-Modal Soft Tactile Sensing | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610135) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610135) | rule-assigned |
+| 2024 | Learning Motion Reconstruction from Demonstration via Multi-Modal Soft Tactile Sensing | ICRA · Tactile | [Paper](https://infoscience.epfl.ch/handle/20.500.14299/244690) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610135) | rule-assigned |
 | 2024 | Leveraging Compliant Tactile Perception for Haptic Blind Surface Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2402.18511) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610162) | rule-assigned |
 | 2024 | Multimodal Visual-Tactile Representation Learning through Self-Supervised Contrastive Pre-Training | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2401.12024) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610228) | rule-assigned |
 | 2024 | Optimizing Multi-Touch Textile and Tactile Skin Sensing Through Circuit Parameter Estimation | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2404.15131) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610053) | rule-assigned |
@@ -87,10 +87,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Play it by Ear: Learning Skills amidst Occlusion through Audio-Visual Imitation Learning | RSS · Imitation Learning | [Paper](https://arxiv.org/pdf/2205.14850) · [Index](https://dblp.org/rec/journals/corr/abs-2205-14850) | rule-assigned |
 | 2022 | Understanding Dynamic Tactile Sensing for Liquid Property Estimation | RSS · Tactile | [Paper](https://arxiv.org/pdf/2205.08771) · [Index](https://dblp.org/rec/journals/corr/abs-2205-08771) | rule-assigned |
 
-## Recent arXiv papers (129)
+## Recent arXiv papers (132)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | VecTile: A Low-Cost Flexible Tactile Array for 3-DoF Force Sensing | Jian Hou, Xin Zhou, Adam J. Spiers | [Abstract](https://arxiv.org/abs/2610.31472) · [PDF](https://arxiv.org/pdf/2610.31472) | rule-assigned |
+| 2026-10-20 | Learning Tactile-Aware Hand Representations from Human Hand-Object Interaction Data | Yeonguk Yu, Jaehong Kim, Byungok Han | [Abstract](https://arxiv.org/abs/2610.27995) · [PDF](https://arxiv.org/pdf/2610.27995) | rule-assigned |
+| 2026-10-19 | PhantomTac: Hijacking Robotic Tactile Systems with Deploy-and-forget Tags | Binbin Zhang, Yifeng Zhang, Xiaomeng Chen, Dongyao Chen | [Abstract](https://arxiv.org/abs/2610.26174) · [PDF](https://arxiv.org/pdf/2610.26174) | rule-assigned |
 | 2026-10-14 | Tactile-Guided Robot Learning: From Representation Learning to Foundation Models | Kiyanoush Nazari, Luchen Li, Haoshu Fang, Nima Fazeli et al. | [Abstract](https://arxiv.org/abs/2610.20134) · [PDF](https://arxiv.org/pdf/2610.20134) | rule-assigned |
 | 2026-10-07 | Tactile Reconstruction of Contact Task Frames and Forces for Hybrid Force/Motion Control | Antonio Rapuano, Simone Orelli, Barbara Bazzana, Antonio Franchi et al. | [Abstract](https://arxiv.org/abs/2610.10020) · [PDF](https://arxiv.org/pdf/2610.10020) | rule-assigned |
 | 2026-10-07 | Factorized Tactile Representation and Control for Sim-to-Real Manipulation | Siqi Shang, Bianca Aumann, Tye Brady, Joshua Migdal et al. | [Abstract](https://arxiv.org/abs/2610.10510) · [PDF](https://arxiv.org/pdf/2610.10510) | rule-assigned |

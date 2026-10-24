@@ -1,12 +1,12 @@
 # Global Path Planning · 全局路径规划 · arXiv 2023
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 65 papers · complete list for this taxonomy leaf
+> 55 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -65,13 +65,3 @@
 | 2023-10-26 | Bin Assignment and Decentralized Path Planning for Multi-Robot Parcel Sorting | Teng Guo, Jingjin Yu | [Abstract](https://arxiv.org/abs/2310.17753) · [PDF](https://arxiv.org/pdf/2310.17753) | rule-assigned |
 | 2023-10-25 | Neural Potential Field for Obstacle-Aware Local Motion Planning | Muhammad Alhaddad, Konstantin Mironov, Aleksey Staroverov, Aleksandr Panov | [Abstract](https://arxiv.org/abs/2310.16362) · [PDF](https://arxiv.org/pdf/2310.16362) | rule-assigned |
 | 2023-10-24 | Reinforcement learning based local path planning for mobile robot | Mehmet Gok, Mehmet Tekerek, Hamza Aydemir | [Abstract](https://arxiv.org/abs/2403.12463) · [PDF](https://arxiv.org/pdf/2403.12463) | rule-assigned |
-| 2023-10-23 | Robot-Assisted Navigation for Visually Impaired through Adaptive Impedance and Path Planning | Pietro Balatti, Idil Ozdamar, Doganay Sirintuna, Luca Fortini et al. | [Abstract](https://arxiv.org/abs/2310.14705) · [PDF](https://arxiv.org/pdf/2310.14705) | rule-assigned |
-| 2023-10-22 | Motion Planning for Autonomous Ground Vehicles Using Artificial Potential Fields: A Review | Aziz ur Rehman, Ahsan Tanveer, M. Touseef Ashraf, Umer Khan | [Abstract](https://arxiv.org/abs/2310.14339) · [PDF](https://arxiv.org/pdf/2310.14339) | rule-assigned |
-| 2023-10-21 | FHT-Map: Feature-based Hierarchical Topological Map for Relocalization and Path Planning | Kun Song, Wenhang Liu, Gaoming Chen, Xiang Xu et al. | [Abstract](https://arxiv.org/abs/2310.13899) · [PDF](https://arxiv.org/pdf/2310.13899) | rule-assigned |
-| 2023-10-21 | Fast Path Planning for Autonomous Vehicle Parking with Safety-Guarantee using Hamilton-Jacobi Reachability | Xuemin Chi, Jun Zeng, Jihao Huang, Zhitao Liu et al. | [Abstract](https://arxiv.org/abs/2310.15190) · [PDF](https://arxiv.org/pdf/2310.15190) | rule-assigned |
-| 2023-10-19 | Multi-Robot Local Motion Planning Using Dynamic Optimization Fabrics | Saray Bakker, Luzia Knoedler, Max Spahn, Wendelin Böhmer et al. | [Abstract](https://arxiv.org/abs/2310.12816) · [PDF](https://arxiv.org/pdf/2310.12816) | rule-assigned |
-| 2023-10-19 | Local Non-Cooperative Games with Principled Player Selection for Scalable Motion Planning | Makram Chahine, Roya Firoozi, Wei Xiao, Mac Schwager et al. | [Abstract](https://arxiv.org/abs/2310.12958) · [PDF](https://arxiv.org/pdf/2310.12958) | rule-assigned |
-| 2023-10-19 | Flexible Informed Trees (FIT*): Adaptive Batch-Size Approach in Informed Sampling-Based Path Planning | Liding Zhang, Zhenshan Bing, Kejia Chen, Lingyun Chen et al. | [Abstract](https://arxiv.org/abs/2310.12828) · [PDF](https://arxiv.org/pdf/2310.12828) | rule-assigned |
-| 2023-10-19 | Denoising Heat-inspired Diffusion with Insulators for Collision Free Motion Planning | Junwoo Chang, Hyunwoo Ryu, Jiwoo Kim, Soochul Yoo et al. | [Abstract](https://arxiv.org/abs/2310.12609) · [PDF](https://arxiv.org/pdf/2310.12609) | rule-assigned |
-| 2023-10-16 | Temporally Robust Multi-Agent STL Motion Planning in Continuous Time | Joris Verhagen, Lars Lindemann, Jana Tumova | [Abstract](https://arxiv.org/abs/2310.10585) · [PDF](https://arxiv.org/pdf/2310.10585) | rule-assigned |
-| 2023-10-16 | BEVGPT: Generative Pre-trained Large Model for Autonomous Driving Prediction, Decision-Making, and Planning | Pengqin Wang, Meixin Zhu, Hongliang Lu, Hui Zhong et al. | [Abstract](https://arxiv.org/abs/2310.10357) · [PDF](https://arxiv.org/pdf/2310.10357) | rule-assigned |

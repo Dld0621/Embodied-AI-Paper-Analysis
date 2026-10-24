@@ -1,7 +1,7 @@
 # Special-environment Robots · 特殊环境机器人
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Soft%20%26%20Specialized%20Robots&specialty=Special-environment%20Robots#research-workbench)
@@ -32,6 +32,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-19 | Design and Control of a Multimodal Legged-Aerial Robot Through Separate Control Contraction Metrics | Kaushik Venkatesh Krishnamurthy, Eric Sihite, Alireza Ramezani, Morteza Gharib | [Abstract](https://arxiv.org/abs/2610.27315) · [PDF](https://arxiv.org/pdf/2610.27315) | rule-assigned |
 | 2026-10-13 | MARTS: A Modular Agricultural Robot for Targeted Spraying of Diseased Tomato Plants in Greenhouses | Rajmeet Singh, Manveen Kaur, Yusuf Adamu, Lochan Kshetrimayum et al. | [Abstract](https://arxiv.org/abs/2610.18123) · [PDF](https://arxiv.org/pdf/2610.18123) | rule-assigned |
 | 2026-09-20 | Towards Reliable Underwater Diver-Robot Interaction: Gesture Design, Interaction Logic, and Real-World Evaluation | Yingqi Liu, Kanzhong Yao, Zimeng Peng, Yuanbo Bi et al. | [Abstract](https://arxiv.org/abs/2609.23392) · [PDF](https://arxiv.org/pdf/2609.23392) | rule-assigned |
 | 2026-09-15 | Artificial Intelligence-Enabled Space Robot Operations: Technologies, Challenges and Prospects | Zeyuan Huang, Gang Chen, Zixuan Hao, Guoqin Tang et al. | [Abstract](https://arxiv.org/abs/2609.16880) · [PDF](https://arxiv.org/pdf/2609.16880) | rule-assigned |
@@ -56,7 +57,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-10-11 | Design and Control of an Omnidirectional Aerial Robot with a Miniaturized Haptic Joystick for Physical Interaction | Julien Mellet, Andrea Berra, Salvatore Marcellini, Miguel Ángel Trujillo Soto et al. | [Abstract](https://arxiv.org/abs/2410.09003) · [PDF](https://arxiv.org/pdf/2410.09003) | rule-assigned |
 | 2024-03-04 | Aerial Tensile Perching and Disentangling Mechanism for Long-Term Environmental Monitoring | Tian Lan, Luca Romanello, Mirko Kovac, Sophie F. Armanini et al. | [Abstract](https://arxiv.org/abs/2403.01890) · [PDF](https://arxiv.org/pdf/2403.01890) | rule-assigned |
 | 2023-12-04 | Geranos: a Novel Tilted-Rotors Aerial Robot for the Transportation of Poles | Nicolas Gorlo, Samuel Bamert, Rafael Cathomen, Gabriel Käppeli et al. | [Abstract](https://arxiv.org/abs/2312.01988) · [PDF](https://arxiv.org/pdf/2312.01988) | rule-assigned |
-| 2023-10-16 | A perching and tilting aerial robot for precise and versatile power tool work on vertical walls | Roman Dautzenberg, Timo Küster, Timon Mathis, Yann Roth et al. | [Abstract](https://arxiv.org/abs/2310.10548) · [PDF](https://arxiv.org/pdf/2310.10548) | rule-assigned |
 
 ---
 

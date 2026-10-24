@@ -1,12 +1,12 @@
 # Simulated Trajectory Generation · 仿真轨迹生成
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Synthetic%20%26%20Augmented%20Data&specialty=Simulated%20Trajectory%20Generation#research-workbench)
 
-> 2 conference papers · 63 recent arXiv papers
+> 2 conference papers · 64 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,10 +27,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | MetaFold: Language-Guided Multi-Category Garment Folding Framework via Trajectory Generation and Foundation Model | IROS · Foundation Model | [Paper](https://arxiv.org/pdf/2503.08372) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246072) | rule-assigned |
 | 2024 | A Fast Online Omnidirectional Quadrupedal Jumping Framework Via Virtual-Model Control and Minimum Jerk Trajectory Generation | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2407.00658) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802277) | rule-assigned |
 
-## Recent arXiv papers (63)
+## Recent arXiv papers (64)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-18 | Learning Waypoints and Passage Events for Decentralized Multi-Quadrotor Trajectory Planning | Yunhan Shi, Jia Deng, Zehao Jia, Lin Cheng et al. | [Abstract](https://arxiv.org/abs/2610.25024) · [PDF](https://arxiv.org/pdf/2610.25024) | rule-assigned |
 | 2026-09-20 | FlockDiffusion: Assignment-Conditioned Diffusion for Multi-Drone Task Allocation and Completion | Iana Zhura, Satenik Akopyan, Roohan Ahmed Khan, Miguel Altamirano Cabrera et al. | [Abstract](https://arxiv.org/abs/2609.23745) · [PDF](https://arxiv.org/pdf/2609.23745) | rule-assigned |
 | 2026-09-14 | Planning in the Backbone: DiffAdapterVLA for Native Continuous Trajectory Generation with Driving VLMs | Changxin Lu, Xiaoliang Meng, Yu Wu, Rui Huang et al. | [Abstract](https://arxiv.org/abs/2609.15322) · [PDF](https://arxiv.org/pdf/2609.15322) | rule-assigned |
 | 2026-09-11 | D3DWA: Adaptive Weight and Prediction-Horizon for Dynamic Window Approach via Dueling Double Deep Q-Network | Zahra Jooyandeh, Masato Kobayashi, Yuki Uranishi | [Abstract](https://arxiv.org/abs/2609.22276) · [PDF](https://arxiv.org/pdf/2609.22276) | rule-assigned |

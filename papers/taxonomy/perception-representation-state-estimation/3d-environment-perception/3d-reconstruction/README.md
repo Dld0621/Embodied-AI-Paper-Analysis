@@ -1,12 +1,12 @@
 # 3D Reconstruction · 三维重建
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=3D%20Reconstruction#research-workbench)
 
-> 8 conference papers · 236 recent arXiv papers
+> 8 conference papers · 241 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,15 +33,21 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling | CoRL · Dynamics Model | [Paper](https://arxiv.org/abs/2410.18912) · [Index](https://dblp.org/rec/journals/corr/abs-2410-18912) | rule-assigned |
 | 2024 | Touch-GS: Visual-Tactile Supervised 3D Gaussian Splatting | IROS · Tactile | [Paper](https://arxiv.org/pdf/2403.09875) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802412) | rule-assigned |
 
-## Recent arXiv papers (236)
+## Recent arXiv papers (241)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-21 | AOV-GS: Active Open-Vocabulary Semantic Mapping with 3D Gaussian Splatting | Rodion Shkokov, Tatiana Zemskova, Dmitry Yudin | [Abstract](https://arxiv.org/abs/2610.29374) · [PDF](https://arxiv.org/pdf/2610.29374) | rule-assigned |
+| 2026-10-20 | PanoGraphGS: Unifying Panoptic Segmentation and Hierarchical 3D Scene Graphs with Gaussian Splatting | Jinghan Gao, Siyu Wang, Dongyu Feng, Yiyuan Pan et al. | [Abstract](https://arxiv.org/abs/2610.27696) · [PDF](https://arxiv.org/pdf/2610.27696) | rule-assigned |
+| 2026-10-17 | RoMo-GS: Efficient Online 3D Gaussian Splatting for Robot Mapping via Exposure-Integrated Motion Blur | Sangwoo Jung, Di Deng, Jiahui Fu, Laura Herlant et al. | [Abstract](https://arxiv.org/abs/2610.24605) · [PDF](https://arxiv.org/pdf/2610.24605) | rule-assigned |
+| 2026-10-15 | Training-Free Target-Aware Refinement of 3D Gaussian Language Map | Sibaek Lee, Kyeongsu Kang, Seongbo Ha, Yewon Jeon et al. | [Abstract](https://arxiv.org/abs/2610.21619) · [PDF](https://arxiv.org/pdf/2610.21619) | rule-assigned |
+| 2026-10-15 | DriveWorld3D Evidence Constrained 3D World Modeling and Generative Simulation for Real-World Autonomous Driving | Wei Wang, Yiru Veronika Wang, Yihan Wang, Zihao Li et al. | [Abstract](https://arxiv.org/abs/2610.22450) · [PDF](https://arxiv.org/pdf/2610.22450) | rule-assigned |
 | 2026-10-14 | Why 3D Reconstruction Breaks Down on Under-Ice AUV Video, and How to Predict It | Ana-Ştefania Kogălniceanu, Klára Orbán, Ashwin Nedungadi, Stefan Lüdtke et al. | [Abstract](https://arxiv.org/abs/2610.19993) · [PDF](https://arxiv.org/pdf/2610.19993) | rule-assigned |
 | 2026-10-13 | Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments | Klára Orbán, Ashwin Nedungadi, Ana-Ştefania Kogălniceanu, Bianca-Marcela Sava et al. | [Abstract](https://arxiv.org/abs/2610.19097) · [PDF](https://arxiv.org/pdf/2610.19097) | rule-assigned |
 | 2026-10-09 | NovaSplat: Model-Free 6D Object Pose Estimation via 3D Gaussian Splatting Onboarding and Refinement | Georgios Floros, Evangelos Sartinas, Orestis Vangelis, Maria Pateraki | [Abstract](https://arxiv.org/abs/2610.13309) · [PDF](https://arxiv.org/pdf/2610.13309) | rule-assigned |
 | 2026-10-08 | Rendering-Free Lookahead for Question-Guided Active Vision | Koya Sakamoto, Daichi Azuma, Shuhei Kurita, Naoya Chiba et al. | [Abstract](https://arxiv.org/abs/2610.11039) · [PDF](https://arxiv.org/pdf/2610.11039) | rule-assigned |
 | 2026-10-01 | CLoSeR: Closing the Loop for Long-Context Streaming Reconstruction | Moyang Li, Zihan Zhu, Wei Zhang, Marc Pollefeys et al. | [Abstract](https://arxiv.org/abs/2610.01927) · [PDF](https://arxiv.org/pdf/2610.01927) | rule-assigned |
+| 2026-09-28 | MicroSplat: Towards Automating 3D Small-Scale Reconstruction | Roman Mineyev, Robert Azarcon, Suvrat Jain, Chuizheng Kong et al. | [Abstract](https://arxiv.org/abs/2610.23899) · [PDF](https://arxiv.org/pdf/2610.23899) | rule-assigned |
 | 2026-09-25 | RECAST: From Log Replay to Closed-Loop Driving Simulation with View-Complete Actors | Zijun Zhao, Liewen Liao, Kang Shen, Songan Zhang et al. | [Abstract](https://arxiv.org/abs/2609.31374) · [PDF](https://arxiv.org/pdf/2609.31374) | rule-assigned |
 | 2026-09-24 | SplatLabel: Pseudo-Labelling through 4D Gaussian Splatting | Nitya Nanvani, Andras Palffy, Holger Caesar | [Abstract](https://arxiv.org/abs/2609.29836) · [PDF](https://arxiv.org/pdf/2609.29836) | rule-assigned |
 | 2026-09-22 | φ-RIE: From Photorealistic Reconstruction to Interactive Environments | Runyi Yang, Deheng Zhang, Xiaoye Wang, Kanzhi Wu et al. | [Abstract](https://arxiv.org/abs/2609.26795) · [PDF](https://arxiv.org/pdf/2609.26795) | rule-assigned |
@@ -272,7 +278,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-07 | Towards Knowledge-driven Autonomous Driving | Xin Li, Yeqi Bai, Pinlong Cai, Licheng Wen et al. | [Abstract](https://arxiv.org/abs/2312.04316) · [PDF](https://arxiv.org/pdf/2312.04316) | rule-assigned |
 | 2023-11-23 | Towards Transferable Multi-modal Perception Representation Learning for Autonomy: NeRF-Supervised Masked AutoEncoder | Xiaohao Xu | [Abstract](https://arxiv.org/abs/2311.13750) · [PDF](https://arxiv.org/pdf/2311.13750) | rule-assigned |
 | 2023-11-02 | CADSim: Robust and Scalable in-the-wild 3D Reconstruction for Controllable Sensor Simulation | Jingkang Wang, Sivabalan Manivasagam, Yun Chen, Ze Yang et al. | [Abstract](https://arxiv.org/abs/2311.01447) · [PDF](https://arxiv.org/pdf/2311.01447) | rule-assigned |
-| 2023-10-17 | Field Robot for High-throughput and High-resolution 3D Plant Phenotyping | Felix Esser, Radu Alexandru Rosu, André Cornelißen, Lasse Klingbeil et al. | [Abstract](https://arxiv.org/abs/2310.11516) · [PDF](https://arxiv.org/pdf/2310.11516) | rule-assigned |
 
 ---
 

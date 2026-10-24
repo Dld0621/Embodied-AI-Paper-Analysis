@@ -1,12 +1,12 @@
 # Local Avoidance & Trajectory Optimization · 局部避障与轨迹优化
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Motion%20Planning%20%26%20Exploration&specialty=Local%20Avoidance%20%26%20Trajectory%20Optimization#research-workbench)
 
-> 36 conference papers · 486 recent arXiv papers
+> 36 conference papers · 490 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -61,15 +61,23 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | CoMBiNED: Multi-Constrained Model Based Planning for Navigation in Dynamic Environments | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981479) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981479) | rule-assigned |
 | 2022 | Imitation Learning and Model Integrated Excavator Trajectory Planning | IROS · Imitation Learning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981220) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981220) | rule-assigned |
 
-## Recent arXiv papers (486)
+## Recent arXiv papers (490)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-21 | State-Dependent Objective Coordination for End-to-End Balance and Navigation | Xuhao Huang, Xitao Xu, Yuxin Zheng, Yunfan Ren et al. | [Abstract](https://arxiv.org/abs/2610.29142) · [PDF](https://arxiv.org/pdf/2610.29142) | rule-assigned |
+| 2026-10-20 | Navigation Explainability for Object Avoidance with LLMs for Assistive Robots | Courtney Young, Yi Lian, Taery Kim, Sehoon Ha | [Abstract](https://arxiv.org/abs/2610.28920) · [PDF](https://arxiv.org/pdf/2610.28920) | rule-assigned |
+| 2026-10-19 | Learning Geometry-Aware Planning Representations for Monocular Flight with Cross-Modal Supervision | Wencan Feng, Bailing Tian, Yulin Hui, Zhiyu Li et al. | [Abstract](https://arxiv.org/abs/2610.26508) · [PDF](https://arxiv.org/pdf/2610.26508) | rule-assigned |
+| 2026-10-18 | CusADi2: Latency-Optimized Batch Computation of Robot Kinematics, Jacobians, and Hessians on the GPU | John Viljoen, Lasse Peters, Masayoshi Tomizuka, Negar Mehr | [Abstract](https://arxiv.org/abs/2610.25476) · [PDF](https://arxiv.org/pdf/2610.25476) | rule-assigned |
+| 2026-10-16 | TransNav: Transformer-Based End-to-End Navigation Method for Static and Dynamic Quadrotor Obstacle Avoidance | Jianghan Zhu, Zhuo Li, Yanjun Zhang, Jian Sun | [Abstract](https://arxiv.org/abs/2610.23635) · [PDF](https://arxiv.org/pdf/2610.23635) | rule-assigned |
+| 2026-10-14 | Optimally Trading Energy for Information through Speed Trajectory Optimization of Sustainably Powered Mobile Robots | Kavin M. Govindarajan, Dimitra Panagou, Chris Vermillion | [Abstract](https://arxiv.org/abs/2610.20875) · [PDF](https://arxiv.org/pdf/2610.20875) | rule-assigned |
+| 2026-10-14 | LEAP: Gradient Flow Augmented Lagrangian Trajectory Optimization for Contact Constrained Robots | César E. Ramos Chuquiure, Ryan Tsai, Yutong Zhou, Zihang Huang et al. | [Abstract](https://arxiv.org/abs/2610.20936) · [PDF](https://arxiv.org/pdf/2610.20936) | rule-assigned |
 | 2026-10-12 | Learning Reachability-Based Safety Representations for Real-Time Robot Navigation in Unknown and Dynamic Environments | Bojan Derajić | [Abstract](https://arxiv.org/abs/2610.16522) · [PDF](https://arxiv.org/pdf/2610.16522) | rule-assigned |
 | 2026-10-12 | Constrained Differentiable Policy Learning for Safe Quadrotor Navigation | Yan Rui Tan, Praveen Krishnapur, Zeyu Feng, Han Bao et al. | [Abstract](https://arxiv.org/abs/2610.16119) · [PDF](https://arxiv.org/pdf/2610.16119) | rule-assigned |
 | 2026-10-10 | Safety-Critical Quadrotor Navigation Using Fourth-Order Control Barrier Functions with Full Nonlinear Quadrotor Dynamics | Yanze Liu, Yaşar İdikut, Dhruv Madhusudan Agrawal, Wei Xiao et al. | [Abstract](https://arxiv.org/abs/2610.14522) · [PDF](https://arxiv.org/pdf/2610.14522) | rule-assigned |
 | 2026-10-08 | Towards Path-Creative Navigation: Robot Navigation through Embodied Interaction | Haoyu Xi, Siwei Cheng, Xiangyuan Liu, Brenda Li et al. | [Abstract](https://arxiv.org/abs/2610.11072) · [PDF](https://arxiv.org/pdf/2610.11072) | rule-assigned |
 | 2026-10-08 | RESETTLE: Robotic Recovery through Disagreement-Triggered Retrieval and Efficient Corrective Control | Yuxin Chen, Senqiao Yang, Zixuan Wang, Jinhui Ye et al. | [Abstract](https://arxiv.org/abs/2610.12185) · [PDF](https://arxiv.org/pdf/2610.12185) | rule-assigned |
+| 2026-10-08 | ESCAPE: Egocentric Sensing for Collision Avoidance and Policy Execution | Weiqing Shen, Wenhao Huang, Baokang Zhang, Shuo Shang et al. | [Abstract](https://arxiv.org/abs/2610.23943) · [PDF](https://arxiv.org/pdf/2610.23943) | rule-assigned |
 | 2026-10-07 | AeroEval: Staged Program and Execution Validation for AI-Generated Drone Missions | Kautuk Astu, Naina Rabha, Yogesh Simmhan | [Abstract](https://arxiv.org/abs/2610.09764) · [PDF](https://arxiv.org/pdf/2610.09764) | rule-assigned |
 | 2026-10-05 | An Autonomous, 3D Printed, Waterjet-Powered, Open-Source Robotic Trimaran for Environmental Inspection and Monitoring | Reuben O'Brien, Martin Lambrechtse-Reid, Minas Liarokapis | [Abstract](https://arxiv.org/abs/2610.07398) · [PDF](https://arxiv.org/pdf/2610.07398) | rule-assigned |
 | 2026-10-04 | GJK-CBF: Control Barrier Functions for Convex Rigid Body Collision Avoidance on SE(3) | Yi-Hsuan Chen, Shuo Liu, Wei Xiao, Michael Otte et al. | [Abstract](https://arxiv.org/abs/2610.04910) · [PDF](https://arxiv.org/pdf/2610.04910) | rule-assigned |
@@ -547,10 +555,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-06 | Safe and Efficient Trajectory Optimization for Autonomous Vehicles using B-spline with Incremental Path Flattening | Jongseo Choi, Hyuntai Chin, Hyunwoo Park, Daehyeok Kwon et al. | [Abstract](https://arxiv.org/abs/2311.02957) · [PDF](https://arxiv.org/pdf/2311.02957) | rule-assigned |
 | 2023-11-06 | Collision Avoidance using Iterative Dynamic and Nonlinear Programming with Adaptive Grid Refinements | Rebecca Richter, Alberto De Marchi, Matthias Gerdts | [Abstract](https://arxiv.org/abs/2311.03148) · [PDF](https://arxiv.org/pdf/2311.03148) | rule-assigned |
 | 2023-10-25 | Certifying Bimanual RRT Motion Plans in a Second | Alexandre Amice, Peter Werner, Russ Tedrake | [Abstract](https://arxiv.org/abs/2310.16603) · [PDF](https://arxiv.org/pdf/2310.16603) | rule-assigned |
-| 2023-10-21 | POVNav: A Pareto-Optimal Mapless Visual Navigator | Durgakant Pushp, Zheng Chen, Chaomin Luo, Jason M. Gregory et al. | [Abstract](https://arxiv.org/abs/2310.14065) · [PDF](https://arxiv.org/pdf/2310.14065) | rule-assigned |
-| 2023-10-20 | Transformers for Trajectory Optimization with Application to Spacecraft Rendezvous | Tommaso Guffanti, Daniele Gammelli, Simone D'Amico, Marco Pavone | [Abstract](https://arxiv.org/abs/2310.13831) · [PDF](https://arxiv.org/pdf/2310.13831) | rule-assigned |
-| 2023-10-16 | Collision Cone Control Barrier Functions: Experimental Validation on UGVs for Kinematic Obstacle Avoidance | Bhavya Giri Goswami, Manan Tayal, Karthik Rajgopal, Pushpak Jagtap et al. | [Abstract](https://arxiv.org/abs/2310.10839) · [PDF](https://arxiv.org/pdf/2310.10839) | rule-assigned |
-| 2023-10-15 | Free as a Bird: Event-based Dynamic Sense-and-Avoid for Ornithopter Robot Flight | J. P. Rodríguez-Gómez, R. Tapia, M. M. Guzmán, J. R. Martínez-de Dios et al. | [Abstract](https://arxiv.org/abs/2310.09875) · [PDF](https://arxiv.org/pdf/2310.09875) | rule-assigned |
 
 ---
 

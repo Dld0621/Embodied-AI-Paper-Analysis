@@ -1,12 +1,12 @@
 # Motion Imitation & Generation · 动作模仿与生成
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Motion%20Transfer&specialty=Motion%20Imitation%20%26%20Generation#research-workbench)
 
-> 24 conference papers · 279 recent arXiv papers
+> 24 conference papers · 287 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -49,10 +49,22 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Learning a Single Policy for Diverse Behaviors on a Quadrupedal Robot Using Scalable Motion Imitation | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2303.15331) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341709) | rule-assigned |
 | 2022 | A Riemannian Take on Human Motion Analysis and Retargeting | IROS · Retargeting | [Paper](https://arxiv.org/pdf/2208.01372) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982127) | rule-assigned |
 
-## Recent arXiv papers (279)
+## Recent arXiv papers (287)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | Whole-Body Motion Guided Reference Generation for Uncertainty-Aware Compliant Assistance | Muyuan Ma, Long Cheng, Lijun Han, Haotian Zhai et al. | [Abstract](https://arxiv.org/abs/2610.31302) · [PDF](https://arxiv.org/pdf/2610.31302) | rule-assigned |
+| 2026-10-22 | Robot Motion Transition with Human Motion Prior | Taehyun Byun, Taemoon Jeong, Yoonbyung Chai, Woojin Wie et al. | [Abstract](https://arxiv.org/abs/2610.30817) · [PDF](https://arxiv.org/pdf/2610.30817) | rule-assigned |
+| 2026-10-22 | Calibration-free IMU-based Relative Orientation Estimation under Dynamic Human Motion | Ruiyuan Li, Hassan Osman, Ajay Seth, Manon Kok | [Abstract](https://arxiv.org/abs/2610.31156) · [PDF](https://arxiv.org/pdf/2610.31156) | rule-assigned |
+| 2026-10-21 | PhysibleMDM: Enforcing Inference-Time Physical Feasibility Constraints on Motion Diffusion Models via Noise Optimization | Maximilian Stölzle, David Müller, Agon Serifi, Ruben Grandia et al. | [Abstract](https://arxiv.org/abs/2610.30500) · [PDF](https://arxiv.org/pdf/2610.30500) | rule-assigned |
+| 2026-10-21 | HuMiT: Low-Latency Whole-Body Humanoid Teleoperation via Compact Reference Tracking | Liu Cao, Botian Xu, Ruoqu Chen, Jiajun Liu et al. | [Abstract](https://arxiv.org/abs/2610.29903) · [PDF](https://arxiv.org/pdf/2610.29903) | rule-assigned |
+| 2026-10-20 | VLM-Guided Contact Retargeting and Generative Partner Modeling for Humanoid-Human Interaction | Yuto Shibata, Kotaro Amaya, Kashu Yamazaki, Lalit Jayanti et al. | [Abstract](https://arxiv.org/abs/2610.28523) · [PDF](https://arxiv.org/pdf/2610.28523) | rule-assigned |
+| 2026-10-19 | InteractAgent: Agentic Human Motion Interaction with Memory-Augmented Reflection | Senhe Zhang, Tao Zhang, Yujia Zhang, Zeyu Zhang et al. | [Abstract](https://arxiv.org/abs/2610.25649) · [PDF](https://arxiv.org/pdf/2610.25649) | rule-assigned |
+| 2026-10-19 | Determination of the Human-Robot Interaction Workspace for Robot Assisted Head Stabilization Control | Xinmin Liu, Alexander L. Van Slyke, Destinee Holloman, Ahmad Sakaamini et al. | [Abstract](https://arxiv.org/abs/2610.27336) · [PDF](https://arxiv.org/pdf/2610.27336) | rule-assigned |
+| 2026-10-19 | Data-Efficient Learning from Demonstration for Humanoid Robots via Feature-Level Perception and Prompt-Based Object Detection | Keyhan Rayati, AliReza Beigy, Anoosheh Saadati, Pourya Shahverdi et al. | [Abstract](https://arxiv.org/abs/2610.26170) · [PDF](https://arxiv.org/pdf/2610.26170) | rule-assigned |
+| 2026-10-17 | MOMO: Human Motion from Moving Sounds | Deli Cai, Shuyang Xu, Zhiyang Dou, Zitong Lan et al. | [Abstract](https://arxiv.org/abs/2610.24522) · [PDF](https://arxiv.org/pdf/2610.24522) | rule-assigned |
+| 2026-10-16 | Beyond Human-Derived Motion: Exploring Robot-Specific Execution for Construction Humanoids | MinJun Chang, Taehyung Kim, Yong K. Cho, Francis Baek | [Abstract](https://arxiv.org/abs/2610.24312) · [PDF](https://arxiv.org/pdf/2610.24312) | rule-assigned |
+| 2026-10-15 | TRACE: Typed Reference-Aware Conversational Editing for Humanoid Motion Diffusion | Zejian Kang, Yifu Luo, Boyang Shen, Jingxuan Li et al. | [Abstract](https://arxiv.org/abs/2610.21515) · [PDF](https://arxiv.org/pdf/2610.21515) | rule-assigned |
 | 2026-10-14 | PingpongDuo: Agile Humanoid Table Tennis Doubles with Safe Team Coordination | Haoran Jiang, Yichao Zhong, Kai Zhang, Cheng Liu et al. | [Abstract](https://arxiv.org/abs/2610.20579) · [PDF](https://arxiv.org/pdf/2610.20579) | rule-assigned |
 | 2026-10-13 | Learning Robot Policies for Whole-Body Mobility Assistance via Dynamic Human Motion Generation | Shikun Ban, Shohei Nagai, Qingyang Song, Hanxi Wan et al. | [Abstract](https://arxiv.org/abs/2610.17750) · [PDF](https://arxiv.org/pdf/2610.17750) | rule-assigned |
 | 2026-10-13 | Contact Trajectory Prompting: In-Context Transfer of Contact-Rich Behaviors from a Single Demonstration | Xian Nie, Yujie Zang, Yuhang Zheng, Yupeng Zheng et al. | [Abstract](https://arxiv.org/abs/2610.18848) · [PDF](https://arxiv.org/pdf/2610.18848) | rule-assigned |
@@ -176,7 +188,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-02-15 | ProAct: Harnessing Streaming Motion Generation and Agentic Reasoning for Real-Time Embodied Social Interaction | Zeyi Zhang, Zixi Kang, Ruijie Zhao, Yusen Feng et al. | [Abstract](https://arxiv.org/abs/2602.14048) · [PDF](https://arxiv.org/pdf/2602.14048) | rule-assigned |
 | 2026-02-13 | PMG: Parameterized Motion Generator for Human-like Locomotion Control | Chenxi Han, Yuheng Min, Zihao Huang, Ao Hong et al. | [Abstract](https://arxiv.org/abs/2602.12656) · [PDF](https://arxiv.org/pdf/2602.12656) | rule-assigned |
 | 2026-02-13 | CLOT: Closed-Loop Global Motion Tracking for Whole-Body Humanoid Teleoperation | Tengjie Zhu, Guanyu Cai, Yang Zhaohui, Guanzhu Ren et al. | [Abstract](https://arxiv.org/abs/2602.15060) · [PDF](https://arxiv.org/pdf/2602.15060) | rule-assigned |
-| 2026-02-11 | ExtremControl: Low-Latency Humanoid Teleoperation with Direct Extremity Control | Ziyan Xiong, Lixing Fang, Junyun Huang, Kashu Yamazaki et al. | [Abstract](https://arxiv.org/abs/2602.11321) · [PDF](https://arxiv.org/pdf/2602.11321) | rule-assigned |
 | 2026-02-10 | TeleGate: Whole-Body Humanoid Teleoperation via Gated Expert Selection with Motion Prior | Jie Li, Bing Tang, Feng Wu | [Abstract](https://arxiv.org/abs/2602.09628) · [PDF](https://arxiv.org/pdf/2602.09628) | rule-assigned |
 | 2026-02-09 | MOSAIC: Bridging the Sim-to-Real Gap in Generalist Humanoid Motion Tracking and Teleoperation with Rapid Residual Adaptation | Zhenguo Sun, Bo-Sheng Huang, Yibo Peng, Xukun Li et al. | [Abstract](https://arxiv.org/abs/2602.08594) · [PDF](https://arxiv.org/pdf/2602.08594) | rule-assigned |
 | 2026-02-07 | TextOp: Real-time Interactive Text-Driven Humanoid Robot Motion Generation and Control | Weiji Xie, Jiakun Zheng, Jinrui Han, Jiyuan Shi et al. | [Abstract](https://arxiv.org/abs/2602.07439) · [PDF](https://arxiv.org/pdf/2602.07439) | rule-assigned |
@@ -329,9 +340,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-28 | InsActor: Instruction-driven Physics-based Characters | Jiawei Ren, Mingyuan Zhang, Cunjun Yu, Xiao Ma et al. | [Abstract](https://arxiv.org/abs/2312.17135) · [PDF](https://arxiv.org/pdf/2312.17135) | rule-assigned |
 | 2023-11-17 | Human motion trajectory prediction using the Social Force Model for real-time and low computational cost applications | Oscar Gil, Alberto Sanfeliu | [Abstract](https://arxiv.org/abs/2311.10582) · [PDF](https://arxiv.org/pdf/2311.10582) | rule-assigned |
 | 2023-10-26 | cuRobo: Parallelized Collision-Free Minimum-Jerk Robot Motion Generation | Balakumar Sundaralingam, Siva Kumar Sastry Hari, Adam Fishman, Caelan Garrett et al. | [Abstract](https://arxiv.org/abs/2310.17274) · [PDF](https://arxiv.org/pdf/2310.17274) | rule-assigned |
-| 2023-10-19 | Object-Aware Impedance Control for Human-Robot Collaborative Task with Online Object Parameter Estimation | Jinseong Park, Yong-Sik Shin, Sanghyun Kim | [Abstract](https://arxiv.org/abs/2310.12409) · [PDF](https://arxiv.org/pdf/2310.12409) | rule-assigned |
-| 2023-10-16 | A Human Motion Compensation Framework for a Supernumerary Robotic Arm | Xin Zhang, Pietro Balatti, Mattia Leonori, Arash Ajoudani | [Abstract](https://arxiv.org/abs/2310.10029) · [PDF](https://arxiv.org/pdf/2310.10029) | rule-assigned |
-| 2023-10-15 | Overconstrained Locomotion | Haoran Sun, Bangchao Huang, Zishang Zhang, Ronghan Xu et al. | [Abstract](https://arxiv.org/abs/2310.09824) · [PDF](https://arxiv.org/pdf/2310.09824) | rule-assigned |
 
 ---
 

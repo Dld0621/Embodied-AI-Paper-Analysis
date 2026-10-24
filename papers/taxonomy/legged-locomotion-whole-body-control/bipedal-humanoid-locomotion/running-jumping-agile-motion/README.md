@@ -1,12 +1,12 @@
 # Running, Jumping & Agile Motion · 跑跳与敏捷运动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Running%2C%20Jumping%20%26%20Agile%20Motion#research-workbench)
 
-> 21 conference papers · 103 recent arXiv papers
+> 21 conference papers · 106 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -46,10 +46,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Scalable Simulation and Demonstration of Jumping Piezoelectric 2-D Soft Robots | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2202.13521) · [Publisher](https://doi.org/10.1109/ICRA46639.2022.9811927) | rule-assigned |
 | 2022 | SMORS: A soft multirotor UAV for multimodal locomotion and robust interaction | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2204.02165) · [Index](https://dblp.org/rec/conf/icra/RyllK22) | rule-assigned |
 
-## Recent arXiv papers (103)
+## Recent arXiv papers (106)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-21 | Compressing Onboard Language Models for Space Robots under a Behavioral-Fidelity Requirement | Jia Deng, Zizhe Wang, Xin Lu, Yi Huang et al. | [Abstract](https://arxiv.org/abs/2610.29302) · [PDF](https://arxiv.org/pdf/2610.29302) | rule-assigned |
+| 2026-10-20 | Planning under Noise with Neural Operators | Michael Chen, Hong Chul Nam, Xi Deng, Anima Anandkumar | [Abstract](https://arxiv.org/abs/2610.28623) · [PDF](https://arxiv.org/pdf/2610.28623) | rule-assigned |
+| 2026-10-20 | HyperDrone: Simulation-to-Reality Transfer at Millions of Frames per Second | Jonas Eschmann, Giuseppe Loianno | [Abstract](https://arxiv.org/abs/2610.28950) · [PDF](https://arxiv.org/pdf/2610.28950) | rule-assigned |
+| 2026-10-18 | Self-Crystallizing Behavior Trees: Amortizing Foundation-Model Reasoning into Deterministic Control for Autonomous Drones | Behnam Moradi | [Abstract](https://arxiv.org/abs/2610.25455) · [PDF](https://arxiv.org/pdf/2610.25455) | rule-assigned |
+| 2026-10-15 | Has GPT-6-Astra Achieved Embodied Intelligence? | SenseNova, Joint Research Team, Zhongang Cai, Ziang Cao et al. | [Abstract](https://arxiv.org/abs/2610.22471) · [PDF](https://arxiv.org/pdf/2610.22471) | rule-assigned |
+| 2026-10-15 | FCTS: Failure-Guided Curriculum Tree Search Over Generated Terrain for Legged Parkour | Narayanan Palghat Parameswaran, Dong-Ki Kim, Jay Patrikar, Santiago Gutierrez et al. | [Abstract](https://arxiv.org/abs/2610.22619) · [PDF](https://arxiv.org/pdf/2610.22619) | rule-assigned |
 | 2026-10-07 | Learning Situation-Conditioned Thinking Policies for Long-Term LLM Agents | Hong Su | [Abstract](https://arxiv.org/abs/2610.09590) · [PDF](https://arxiv.org/pdf/2610.09590) | rule-assigned |
 | 2026-10-06 | Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou, Nikolaos Kekatos, Sophia Petridou, Stylianos Basagiannis | [Abstract](https://arxiv.org/abs/2610.08771) · [PDF](https://arxiv.org/pdf/2610.08771) | rule-assigned |
 | 2026-10-01 | Managing Context and Communication in Distributed Agentic UAV Swarms | Andrea Iannoli, Ivan Zyrianoff, Angelo Trotta, Lorenzo Gigli et al. | [Abstract](https://arxiv.org/abs/2610.01569) · [PDF](https://arxiv.org/pdf/2610.01569) | rule-assigned |
@@ -150,9 +156,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-17 | Learning Agile Locomotion on Risky Terrains | Chong Zhang, Nikita Rudin, David Hoeller, Marco Hutter | [Abstract](https://arxiv.org/abs/2311.10484) · [PDF](https://arxiv.org/pdf/2311.10484) | rule-assigned |
 | 2023-11-16 | Dynamic modeling of wing-assisted inclined running with a morphing multi-modal robot | Eric Sihite, Alireza Ramezani, Morteza Gharib | [Abstract](https://arxiv.org/abs/2311.09963) · [PDF](https://arxiv.org/pdf/2311.09963) | rule-assigned |
 | 2023-11-08 | RAMIEL: A Parallel-Wire Driven Monopedal Robot for High and Continuous Jumping | Temma Suzuki, Yasunori Toshimitsu, Yuya Nagamatsu, Kento Kawaharazuka et al. | [Abstract](https://arxiv.org/abs/2311.04573) · [PDF](https://arxiv.org/pdf/2311.04573) | rule-assigned |
-| 2023-10-23 | Martian Lava Tube Exploration Using Jumping Legged Robots: A Concept Study | Jørgen Anker Olsen, Kostas Alexis | [Abstract](https://arxiv.org/abs/2310.14876) · [PDF](https://arxiv.org/pdf/2310.14876) | rule-assigned |
-| 2023-10-19 | From Propeller Damage Estimation and Adaptation to Fault Tolerant Control: Enhancing Quadrotor Resilience | Jeffrey Mao, Jennifer Yeom, Suraj Nair, Giuseppe Loianno | [Abstract](https://arxiv.org/abs/2310.13091) · [PDF](https://arxiv.org/pdf/2310.13091) | rule-assigned |
-| 2023-10-18 | Guaranteed, Predictable, Polynomial AGV Time-Pathing | James Forster | [Abstract](https://arxiv.org/abs/2310.12006) · [PDF](https://arxiv.org/pdf/2310.12006) | rule-assigned |
 
 ---
 

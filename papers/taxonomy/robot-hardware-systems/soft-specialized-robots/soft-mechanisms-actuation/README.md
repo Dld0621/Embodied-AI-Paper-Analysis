@@ -1,12 +1,12 @@
 # Soft Mechanisms & Actuation · 软体机构与驱动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Soft%20%26%20Specialized%20Robots&specialty=Soft%20Mechanisms%20%26%20Actuation#research-workbench)
 
-> 4 conference papers · 66 recent arXiv papers
+> 4 conference papers · 68 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,10 +29,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Strong Compliant Grasps Using a Cable-Driven Soft Gripper | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS58592.2024.10801693) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801693) | rule-assigned |
 | 2022 | Collision-Aware Fast Simulation for Soft Robots by Optimization-Based Geometric Computing | IROS · Simulation | [Paper](https://arxiv.org/pdf/2203.02054) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981870) | rule-assigned |
 
-## Recent arXiv papers (66)
+## Recent arXiv papers (68)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-19 | A Probabilistic, Rotation-Preserving Kernel Operator Surrogate for Continuum-Robot Design Spaces | Branden Frieden, Alan Kuntz, Varun Shankar | [Abstract](https://arxiv.org/abs/2610.26605) · [PDF](https://arxiv.org/pdf/2610.26605) | rule-assigned |
+| 2026-10-18 | Adaptive Bendpoint Formation in Octopus-Inspired Soft Continuum Arms | Jessica Gumowski, Julian Finn, Krishna Manaswi Digumarti, David Howard | [Abstract](https://arxiv.org/abs/2610.25585) · [PDF](https://arxiv.org/pdf/2610.25585) | rule-assigned |
 | 2026-09-30 | Magnetic based In-situ Self 3D Pose Estimation for a Modular Soft Tendon-Driven Continuum Robot via IMU-Fusion | Zheng Cao, Guo Ning Sue, Xiangyun Bu, David Quinn et al. | [Abstract](https://arxiv.org/abs/2609.39950) · [PDF](https://arxiv.org/pdf/2609.39950) | rule-assigned |
 | 2026-09-18 | LOInK: Learned Optimal Inverse Kinematics via Structured Neural Surrogate Models | Michael Somerfield, Damian Abood, Ruigang Wang, Ian R. Manchester | [Abstract](https://arxiv.org/abs/2609.21275) · [PDF](https://arxiv.org/pdf/2609.21275) | rule-assigned |
 | 2026-09-14 | Tendon-Driven Continuum Robot with Modular Stiffness and In-Situ Self Pose Estimation | Guo Ning Sue, Zheng Cao, Junzhe Hu, Xiangyun Bu et al. | [Abstract](https://arxiv.org/abs/2609.16256) · [PDF](https://arxiv.org/pdf/2609.16256) | rule-assigned |

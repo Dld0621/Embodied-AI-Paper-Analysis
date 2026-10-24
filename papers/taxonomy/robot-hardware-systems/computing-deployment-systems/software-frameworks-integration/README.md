@@ -1,12 +1,12 @@
 # Software Frameworks & Integration · 软件框架与系统集成
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Computing%20%26%20Deployment%20Systems&specialty=Software%20Frameworks%20%26%20Integration#research-workbench)
 
-> 4 conference papers · 43 recent arXiv papers
+> 4 conference papers · 44 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,10 +29,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Aggregating Single-Wheeled Mobile Robots for Omnidirectional Movements | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2308.03328) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341772) | rule-assigned |
 | 2023 | Development of the Whole-Body Waterproof Shell Applying and Removing System Using Phase-Change Paraffin and Grease for the Multi-DOF Robot | IROS · Whole Body | [Paper](https://doi.org/10.1109/IROS55552.2023.10341470) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341470) | rule-assigned |
 
-## Recent arXiv papers (43)
+## Recent arXiv papers (44)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-16 | MOSS: Multimodal Origami Swamp Robot System | Tian Lan, Atar Babgei, Luca Romanello, Mirko Kovac et al. | [Abstract](https://arxiv.org/abs/2610.23813) · [PDF](https://arxiv.org/pdf/2610.23813) | rule-assigned |
 | 2026-09-16 | ULOHA: An Underwater Bimanual Robot System for Robot Learning | Masato Kobayashi, Takeru Tsunoori | [Abstract](https://arxiv.org/abs/2609.19200) · [PDF](https://arxiv.org/pdf/2609.19200) | rule-assigned |
 | 2026-08-14 | PRM-as-a-Judge 1.5: A Toolkit for Robot Process Assessment | Yuyang Liu, Yanqing Shen, Ruike Chen, Jifan Zhao et al. | [Abstract](https://arxiv.org/abs/2608.14284) · [PDF](https://arxiv.org/pdf/2608.14284) | rule-assigned |
 | 2026-06-19 | RoverDevKit: An open, physics-grounded tradespace toolkit for conceptual design of lunar micro-rovers | Jon Reifschneider | [Abstract](https://arxiv.org/abs/2606.21755) · [PDF](https://arxiv.org/pdf/2606.21755) | rule-assigned |

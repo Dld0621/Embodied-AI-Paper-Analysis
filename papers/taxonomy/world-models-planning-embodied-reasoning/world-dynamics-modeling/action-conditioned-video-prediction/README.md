@@ -1,12 +1,12 @@
 # Action-conditioned Video Prediction · 动作条件视频预测
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=World%20%26%20Dynamics%20Modeling&specialty=Action-conditioned%20Video%20Prediction#research-workbench)
 
-> 3 conference papers · 97 recent arXiv papers
+> 3 conference papers · 104 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | SAMPO:Scale-wise Autoregression with Motion PrOmpt for generative world models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2509.15536) · [Index](https://dblp.org/rec/conf/nips/WangTWLLDXZTH25) | rule-assigned |
 | 2024 | iVideoGPT: Interactive VideoGPTs are Scalable World Models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2405.15223) · [Index](https://dblp.org/rec/journals/corr/abs-2405-15223) | rule-assigned |
 
-## Recent arXiv papers (97)
+## Recent arXiv papers (104)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | UniFlowWAM: A Unified World-Action Model with Visual Semantics and 4D Geometry | Jialin Tian, Zhuofan Li, Xinkai Wang, Bokai Lin et al. | [Abstract](https://arxiv.org/abs/2610.30991) · [PDF](https://arxiv.org/pdf/2610.30991) | rule-assigned |
+| 2026-10-22 | Skeleton-Grounded Latent Action Model for Robot World Models | Qi Lv, Jiayi Lin, Yuxin Jiang, Jianzong Wang et al. | [Abstract](https://arxiv.org/abs/2610.31474) · [PDF](https://arxiv.org/pdf/2610.31474) | reviewed |
+| 2026-10-21 | Agentic World Action Models | Zhuoyang Liu, Dantong Niu, Botong Zhang, Boning Shao et al. | [Abstract](https://arxiv.org/abs/2610.30136) · [PDF](https://arxiv.org/pdf/2610.30136) | rule-assigned |
+| 2026-10-19 | Training Controllable World Models via Action Influence Maximization | Samuel M. Bateman, Tenny Yin, Chongyi Zheng, Lei Huang et al. | [Abstract](https://arxiv.org/abs/2610.27387) · [PDF](https://arxiv.org/pdf/2610.27387) | rule-assigned |
+| 2026-10-19 | PICA-WAM: Visual Perturbation Invariance via Cross-Appearance Self-Alignment in World Action Models | Yude Zou, Yifei Yao, Guanbo Jiao, Jianming Ma et al. | [Abstract](https://arxiv.org/abs/2610.26813) · [PDF](https://arxiv.org/pdf/2610.26813) | rule-assigned |
+| 2026-10-15 | TS-WAM: Temporal Latent Actions and World-Action Coupling for Vision-Language Robot Control | Menghao Yin, Jiaju Yin, Xiyue Dong, Lixin Xu et al. | [Abstract](https://arxiv.org/abs/2610.21922) · [PDF](https://arxiv.org/pdf/2610.21922) | rule-assigned |
 | 2026-10-13 | LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts | Wenxuan Guo, Yingping Liang, Zhaoguo Wang, Ziyuan Li et al. | [Abstract](https://arxiv.org/abs/2610.18873) · [PDF](https://arxiv.org/pdf/2610.18873) | rule-assigned |
 | 2026-10-13 | From Pixels to Executable Physics: Behavior-Grounded World Models for Embodied Action Consequence Prediction | Ruo Chen, Jiahua Pang, Yingjie Niu, Hongyi Lin et al. | [Abstract](https://arxiv.org/abs/2610.17630) · [PDF](https://arxiv.org/pdf/2610.17630) | rule-assigned |
 | 2026-10-13 | Data-Free Continual Learning for World Action Model with Rectified Generative Replay | Kaipeng Fang, Hangxu Liu, Chaojian Shi, Yunsong Zhou et al. | [Abstract](https://arxiv.org/abs/2610.18038) · [PDF](https://arxiv.org/pdf/2610.18038) | rule-assigned |
@@ -76,6 +82,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-27 | Riemann-1.0: An Embodied World Action Model for Physical AI | Haofeng Sun, Jiangbo Pei, Fei Kang, Zexiang Liu et al. | [Abstract](https://arxiv.org/abs/2608.27033) · [PDF](https://arxiv.org/pdf/2608.27033) | rule-assigned |
 | 2026-08-24 | GeoWAM: Visual Geometry World Action Models for Autonomous Driving | Yiren Lu, Xin Ye, Jiaming Liu, Philip Jacobson et al. | [Abstract](https://arxiv.org/abs/2608.23486) · [PDF](https://arxiv.org/pdf/2608.23486) | rule-assigned |
 | 2026-08-23 | WAM-OPD: Joint Video-Action Supervision for World Action Model Post-Training with On-Policy Distillation | Liuhaichen Yang, Zhengyang Zhong, Hanshang Zhu, Ningwei Bai et al. | [Abstract](https://arxiv.org/abs/2608.22364) · [PDF](https://arxiv.org/pdf/2608.22364) | rule-assigned |
+| 2026-08-19 | DA-WAM: Decision-Aligned Future Latents for Driving World Models | Ruiguo Zhong, Xiaolong Chen, Benshan Ma, Lang Zhang et al. | [Abstract](https://arxiv.org/abs/2608.19085) · [PDF](https://arxiv.org/pdf/2608.19085) | rule-assigned |
 | 2026-08-18 | Hydra-0: Action Flow for Generalist World Modeling and Control | Hongyu Li, Bowen Wen, Xinghao Zhu, Yixuan Wang et al. | [Abstract](https://arxiv.org/abs/2608.18077) · [PDF](https://arxiv.org/pdf/2608.18077) | rule-assigned |
 | 2026-08-13 | DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation | DreamX Team, Rui Chen, Xiangxiang Chu, Geng Li et al. | [Abstract](https://arxiv.org/abs/2608.13489) · [PDF](https://arxiv.org/pdf/2608.13489) | rule-assigned |
 | 2026-08-11 | Flex-$π$: A Multi-Stream World-Action Model with Compute Flexibility | Ge Yan, Jinghao Liu, Yuzhi Fan, Lei Cai et al. | [Abstract](https://arxiv.org/abs/2608.10860) · [PDF](https://arxiv.org/pdf/2608.10860) | rule-assigned |

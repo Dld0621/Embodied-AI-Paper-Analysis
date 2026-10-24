@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Pending%20specialty%20review#research-workbench)
 
-> 25 conference papers · 136 recent arXiv papers
+> 25 conference papers · 138 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -50,10 +50,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | HandoverSim: A Simulation Framework and Benchmark for Human-to-Robot Object Handovers | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2205.09747) · [Index](https://dblp.org/rec/journals/corr/abs-2205-09747) | needs-review |
 | 2022 | HoloOcean: An Underwater Robotics Simulator | ICRA · Simulator | [Paper](https://doi.org/10.1109/icra46639.2022.9812353) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812353) | needs-review |
 
-## Recent arXiv papers (136)
+## Recent arXiv papers (138)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-21 | SimPT: An Automated Simulation Framework for Intervention-Based VLA Post-Training | Caicheng Wang, Zipeng Ye, Zhexuan Zhou, Zilong Huang et al. | [Abstract](https://arxiv.org/abs/2610.29161) · [PDF](https://arxiv.org/pdf/2610.29161) | needs-review |
+| 2026-10-20 | MARE: An Open-Source Lunar Rover Simulator with Shadow Ground Truth for Perception and Autonomy | Raúl Castilla-Arquillo, Miguel Olivares-Mendez | [Abstract](https://arxiv.org/abs/2610.28465) · [PDF](https://arxiv.org/pdf/2610.28465) | needs-review |
 | 2026-10-13 | WoVR+: World Model as Reliable Simulator for Versatile VLA Policy Optimization with RL | Shangqing Zhou, Zhennan Jiang, Ning Ma, Xin Fu et al. | [Abstract](https://arxiv.org/abs/2610.17922) · [PDF](https://arxiv.org/pdf/2610.17922) | needs-review |
 | 2026-10-10 | C2Flight: A Closed-Loop Co-Simulation Framework for Early-Stage Evaluation of Heterogeneous UAV Computing Systems | Xizhu Chen, Shuyuan Zhang, Yixuan Li, Huazhong Yang et al. | [Abstract](https://arxiv.org/abs/2610.14715) · [PDF](https://arxiv.org/pdf/2610.14715) | needs-review |
 | 2026-10-02 | RoboChemGym: A Protocol-Driven Generative Simulation Framework for Long-Horizon Chemical Manipulation | Chenxi Li, Haiyuan Wan, Rui Li, Jingyuan Li et al. | [Abstract](https://arxiv.org/abs/2610.02708) · [PDF](https://arxiv.org/pdf/2610.02708) | needs-review |

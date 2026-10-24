@@ -1,15 +1,25 @@
 # Global Path Planning · 全局路径规划 · arXiv 2026
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 360 papers · complete list for this taxonomy leaf
+> 370 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | Continuous-Time Motion Planning and Steering with Global Convergence | Mohsen Amiri, Sima Didari, Davoud Ataee Tarzanagh, Hankyu Moon et al. | [Abstract](https://arxiv.org/abs/2610.30607) · [PDF](https://arxiv.org/pdf/2610.30607) | rule-assigned |
+| 2026-10-21 | Linear Twisting Sidewinding Gaits for Twistable Snake Robot Motion Planning on Complex Terrains | Qingling Fan, Zhongqiang Ren | [Abstract](https://arxiv.org/abs/2610.29461) · [PDF](https://arxiv.org/pdf/2610.29461) | rule-assigned |
+| 2026-10-21 | Integrating Flow Matching and Model Predictive Control for Safe Robot Navigation | Philipp Holzmann, Maik Pfefferkorn, Joao Carvalho, Ali Younes et al. | [Abstract](https://arxiv.org/abs/2610.29377) · [PDF](https://arxiv.org/pdf/2610.29377) | rule-assigned |
+| 2026-10-17 | CARVS: A Congestion-Aware Algorithm for Online Multi-Agent Pickup-and-Delivery in Human-Collaborative Warehouses | Chaoran Li, Zeyuan Zhao, Shao Zhang | [Abstract](https://arxiv.org/abs/2610.24549) · [PDF](https://arxiv.org/pdf/2610.24549) | rule-assigned |
+| 2026-10-16 | FLASH-CBF-RRT: Fast Lipschitz-Adaptive Safe Horizon CBF Steering for Certified Motion Planning | Mani Amani, Hesam Mojtahedi, Reza Akhavian, Nikolay Atanasov et al. | [Abstract](https://arxiv.org/abs/2610.24149) · [PDF](https://arxiv.org/pdf/2610.24149) | rule-assigned |
+| 2026-10-15 | Vision-Guided Closed-Loop Autonomous Navigation of Light-Driven Janus Microbots | Kanhu Charan Andia, Harsh Prashant Katole, Parth Nitinkumar Bhosale, Hemant Kumar et al. | [Abstract](https://arxiv.org/abs/2610.21222) · [PDF](https://arxiv.org/pdf/2610.21222) | rule-assigned |
+| 2026-10-15 | Time-Optimal Ergodic Retrieval | Christian Sulana, Christian Hughes, Ian Abraham | [Abstract](https://arxiv.org/abs/2610.21823) · [PDF](https://arxiv.org/pdf/2610.21823) | rule-assigned |
+| 2026-10-15 | Safe and Fuel-Efficient Motion Planning for Lunar Propulsive Drones | Elena Wittemyer, Graco Gao | [Abstract](https://arxiv.org/abs/2610.22225) · [PDF](https://arxiv.org/pdf/2610.22225) | rule-assigned |
+| 2026-10-15 | CLIS-MPPI: Closed-Loop Model Predictive Path Integral Control With Initial-State Sampling Under Execution Delay | Zidong Liu, Xu Chen | [Abstract](https://arxiv.org/abs/2610.21239) · [PDF](https://arxiv.org/pdf/2610.21239) | rule-assigned |
+| 2026-10-15 | Auditable and Deployable Multi-Agent Motion Planning via Posetal Games from Legal Guidelines | Florian Lercher, Karan Mahesh, Yujun Huang, Meshal Alharbi et al. | [Abstract](https://arxiv.org/abs/2610.22277) · [PDF](https://arxiv.org/pdf/2610.22277) | rule-assigned |
 | 2026-10-14 | FPTAS for Polygonal Multi-Robot Motion Planning | Sayan Bandyapadhyay, William Lochet, Saket Saurabh, Jie Xue | [Abstract](https://arxiv.org/abs/2610.20244) · [PDF](https://arxiv.org/pdf/2610.20244) | rule-assigned |
 | 2026-10-13 | Learning Keypoint Constraints from Visual Demonstrations for Safe Motion Planning | Zheng Qiu, Zhouyu Zhang, Ninghan Zhong, Glen Chou | [Abstract](https://arxiv.org/abs/2610.19295) · [PDF](https://arxiv.org/pdf/2610.19295) | rule-assigned |
 | 2026-10-11 | Distributed area coverage path planning subject to the inclusion of a headland path | Mogens Plessen | [Abstract](https://arxiv.org/abs/2610.15739) · [PDF](https://arxiv.org/pdf/2610.15739) | rule-assigned |
@@ -50,6 +60,7 @@
 | 2026-09-28 | CollisionSplatting: Collision-Aware Motion Planning in 3DGS Scenes with Image-Conditioned Objectives and Adjustable Conservatism | R. Khorrambakht, Joaquim Ortiz-Haro, Stephan Weiss, Ludovic Righetti | [Abstract](https://arxiv.org/abs/2609.35619) · [PDF](https://arxiv.org/pdf/2609.35619) | rule-assigned |
 | 2026-09-26 | Towards Kinematic Actionable Infeasibility Detection in Motion Planning | Aayush Rath, Lakshya Jindal, Antony Thomas | [Abstract](https://arxiv.org/abs/2609.32806) · [PDF](https://arxiv.org/pdf/2609.32806) | rule-assigned |
 | 2026-09-26 | Proactive Motion Planning for Human-Robot Cooperation | Elena Basei, Edoardo Lamon, Matteo Saveriano, Daniele Fontanelli et al. | [Abstract](https://arxiv.org/abs/2609.32354) · [PDF](https://arxiv.org/pdf/2609.32354) | rule-assigned |
+| 2026-09-26 | PrismPlan: A Shared GPU Substrate for Motion Planning Across Paradigms | Hong Wu, ChaoXuan Liu, ShuJie Wang | [Abstract](https://arxiv.org/abs/2610.23884) · [PDF](https://arxiv.org/pdf/2610.23884) | rule-assigned |
 | 2026-09-25 | Path Planning with Motion Primitives in Dynamic Environments: SIPP on Lattices | Marat Agranovskiy | [Abstract](https://arxiv.org/abs/2609.31803) · [PDF](https://arxiv.org/pdf/2609.31803) | rule-assigned |
 | 2026-09-25 | dRVG: Quadtree-Guided, Resolution-Complete Online Motion Planning for Polygonal Robots in Unknown Environments | Duo Zhang, Hechen Zhang, Junshan Huang, Jingjin Yu | [Abstract](https://arxiv.org/abs/2609.31412) · [PDF](https://arxiv.org/pdf/2609.31412) | rule-assigned |
 | 2026-09-24 | ReVAMP: Vector-Accelerated Motion Planning for Kinematically-Constrained Systems via Reparameterization | Shrutheesh R. Iyer, Thomas Cohn, Zachary Kingston | [Abstract](https://arxiv.org/abs/2609.30213) · [PDF](https://arxiv.org/pdf/2609.30213) | rule-assigned |
@@ -262,7 +273,6 @@
 | 2026-04-11 | A Ray Intersection Algorithm for Fast Growth Distance Computation Between Convex Sets | Akshay Thirugnanam, Koushil Sreenath | [Abstract](https://arxiv.org/abs/2604.10058) · [PDF](https://arxiv.org/pdf/2604.10058) | rule-assigned |
 | 2026-04-09 | One Interface, Many Robots: Unified Real-Time Low-Level Motion Planning for Collaborative Arms | Yue Feng, Weicheng Huang, I-Ming Chen | [Abstract](https://arxiv.org/abs/2604.08787) · [PDF](https://arxiv.org/pdf/2604.08787) | rule-assigned |
 | 2026-04-09 | On-Policy Distillation of Language Models for Autonomous Vehicle Motion Planning | Amirhossein Afsharrad, Amirhesam Abedsoltan, Ahmadreza Moradipari, Sanjay Lall | [Abstract](https://arxiv.org/abs/2604.07944) · [PDF](https://arxiv.org/pdf/2604.07944) | rule-assigned |
-| 2026-04-03 | Orientation Matters: Learning Radiation Patterns of Multi-Rotor UAVs In-Flight to Enhance Communication Availability Modeling | Martin Zoula, Daniel Bonilla Licea, Jan Faigl, Václav Navrátil et al. | [Abstract](https://arxiv.org/abs/2604.02827) · [PDF](https://arxiv.org/pdf/2604.02827) | rule-assigned |
 | 2026-04-03 | Goal-Conditioned Neural ODEs with Guaranteed Safety and Stability for Learning-Based All-Pairs Motion Planning | Dechuan Liu, Ruigang Wang, Ian R. Manchester | [Abstract](https://arxiv.org/abs/2604.02821) · [PDF](https://arxiv.org/pdf/2604.02821) | rule-assigned |
 | 2026-04-02 | Smooth Feedback Motion Planning with Reduced Curvature | Aref Amiri, Steven M. LaValle | [Abstract](https://arxiv.org/abs/2604.01614) · [PDF](https://arxiv.org/pdf/2604.01614) | rule-assigned |
 | 2026-04-02 | Robust Autonomous Control of a Magnetic Millirobot in In Vitro Cardiac Flow | Anuruddha Bhattacharjee, Xinhao Chen, Lamar O. Mair, Suraj Raval et al. | [Abstract](https://arxiv.org/abs/2604.01523) · [PDF](https://arxiv.org/pdf/2604.01523) | rule-assigned |

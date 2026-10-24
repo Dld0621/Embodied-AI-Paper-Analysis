@@ -1,12 +1,12 @@
 # Video-to-robot Demonstrations · 视频到机器人示教
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Human%20Demonstrations%20to%20Dexterous%20Skills&specialty=Video-to-robot%20Demonstrations#research-workbench)
 
-> 23 conference papers · 148 recent arXiv papers
+> 23 conference papers · 150 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -48,10 +48,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Human-to-Robot Imitation in the Wild | RSS · Learning from human video | [Paper](https://www.roboticsproceedings.org/rss18/p026.pdf) · [Official](https://www.roboticsproceedings.org/rss18/p026.html) | rule-assigned |
 | 2022 | Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on Youtube | RSS · Robotic Hand | [Paper](https://doi.org/10.15607/rss.2022.xviii.023) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.023) | rule-assigned |
 
-## Recent arXiv papers (148)
+## Recent arXiv papers (150)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | RGraph-Eval: Task-Grounded Scene Graphs for Evaluating Robot Video Generation | Aleksandr Lazarev, Sofia Zimina, Roman Kuznetsov, Tatiana Zemskova et al. | [Abstract](https://arxiv.org/abs/2610.31121) · [PDF](https://arxiv.org/pdf/2610.31121) | rule-assigned |
+| 2026-10-21 | Self-Distilling Future Video Representations for World Action Models | Huiwon Jang, Suhyeok Jang, Hyeonmo Kang, Seungku Kim et al. | [Abstract](https://arxiv.org/abs/2610.30320) · [PDF](https://arxiv.org/pdf/2610.30320) | rule-assigned |
+| 2026-10-17 | Gen2Dex: Learning Dexterous Manipulation from Simulation-Initialized Generated Video Demonstrations | Xiaowen Qiu, Yian Wang, Haoxiang You, Chuang Gan | [Abstract](https://arxiv.org/abs/2610.24392) · [PDF](https://arxiv.org/pdf/2610.24392) | rule-assigned |
 | 2026-10-13 | FACT: A Multimodal Force-Action-Track Foundation Model for Human-to-Robot Dexterity | Zhi Cao, Yining Hong, Jiaolong Yang, Yejin Choi et al. | [Abstract](https://arxiv.org/abs/2610.19155) · [PDF](https://arxiv.org/pdf/2610.19155) | rule-assigned |
 | 2026-10-13 | DexStitch: Learning and Composing Dexterous Skills from Human Videos via Contact-Aware Robotic Inpainting | Byeonggyeol Choi, Seongmin Jung, Unghui Nam, Youngbo Song et al. | [Abstract](https://arxiv.org/abs/2610.17789) · [PDF](https://arxiv.org/pdf/2610.17789) | reviewed |
 | 2026-10-09 | Learning Transferable World-Action Models from Task-Paired Human Videos | Jeongeun Park, Taekyung Kim, Dongyoon Han, Sangdoo Yun | [Abstract](https://arxiv.org/abs/2610.14351) · [PDF](https://arxiv.org/pdf/2610.14351) | rule-assigned |
@@ -100,7 +103,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-04-30 | Robot Learning from Human Videos: A Survey | Junyi Ma, Erhang Zhang, Haoran Yang, Ditao Li et al. | [Abstract](https://arxiv.org/abs/2604.27621) · [PDF](https://arxiv.org/pdf/2604.27621) | rule-assigned |
 | 2026-04-25 | BridgeACT: Bridging Human Demonstrations to Robot Actions via Unified Tool-Target Affordances | Yifan Han, Jianxiang Liu, Haoyu Zhang, Yuqi Gu et al. | [Abstract](https://arxiv.org/abs/2604.23249) · [PDF](https://arxiv.org/pdf/2604.23249) | rule-assigned |
 | 2026-04-23 | FingerViP: Learning Real-World Dexterous Manipulation with Fingertip Visual Perception | Zhen Zhang, Weinan Wang, Hejia Sun, Qingpeng Ding et al. | [Abstract](https://arxiv.org/abs/2604.21331) · [PDF](https://arxiv.org/pdf/2604.21331) | rule-assigned |
-| 2026-04-12 | WARPED: Wrist-Aligned Rendering for Robot Policy Learning from Egocentric Human Demonstrations | Harry Freeman, Chung Hee Kim, George Kantor | [Abstract](https://arxiv.org/abs/2604.10809) · [PDF](https://arxiv.org/pdf/2604.10809) | rule-assigned |
+| 2026-04-12 | WARPED: Wrist-Aligned Rendering for Robot Policy Learning from Egocentric Human Demonstrations | Harry Freeman, Chung Hee Kim, Jenny Wang, George Kantor | [Abstract](https://arxiv.org/abs/2604.10809) · [PDF](https://arxiv.org/pdf/2604.10809) | rule-assigned |
 | 2026-04-12 | LIDEA: Human-to-Robot Imitation Learning via Implicit Feature Distillation and Explicit Geometry Alignment | Yifu Xu, Bokai Lin, Xinyu Zhan, Hongjie Fang et al. | [Abstract](https://arxiv.org/abs/2604.10677) · [PDF](https://arxiv.org/pdf/2604.10677) | rule-assigned |
 | 2026-04-09 | A Unified Multi-Layer Framework for Skill Acquisition from Imperfect Human Demonstrations | Zi-Qi Yang, Mehrdad R. Kermani | [Abstract](https://arxiv.org/abs/2604.08341) · [PDF](https://arxiv.org/pdf/2604.08341) | rule-assigned |
 | 2026-03-23 | Learning Sidewalk Autopilot from Multi-Scale Imitation with Corrective Behavior Expansion | Honglin He, Yukai Ma, Brad Squicciarini, Wayne Wu et al. | [Abstract](https://arxiv.org/abs/2603.22527) · [PDF](https://arxiv.org/pdf/2603.22527) | rule-assigned |
@@ -199,7 +202,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-09 | SynH2R: Synthesizing Hand-Object Motions for Learning Human-to-Robot Handovers | Sammy Christen, Lan Feng, Wei Yang, Yu-Wei Chao et al. | [Abstract](https://arxiv.org/abs/2311.05599) · [PDF](https://arxiv.org/pdf/2311.05599) | rule-assigned |
 | 2023-11-04 | Constrained Equation Learner Networks for Precision-Preserving Extrapolation of Robotic Skills | Hector Perez-Villeda, Justus Piater, Matteo Saveriano | [Abstract](https://arxiv.org/abs/2311.02475) · [PDF](https://arxiv.org/pdf/2311.02475) | rule-assigned |
 | 2023-10-24 | TimewarpVAE: Simultaneous Time-Warping and Representation Learning of Trajectories | Travers Rhodes, Daniel D. Lee | [Abstract](https://arxiv.org/abs/2310.16027) · [PDF](https://arxiv.org/pdf/2310.16027) | rule-assigned |
-| 2023-10-22 | Learning to Discern: Imitating Heterogeneous Human Demonstrations with Preference and Representation Learning | Sachit Kuhar, Shuo Cheng, Shivang Chopra, Matthew Bronars et al. | [Abstract](https://arxiv.org/abs/2310.14196) · [PDF](https://arxiv.org/pdf/2310.14196) | rule-assigned |
 
 ---
 

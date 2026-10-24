@@ -1,12 +1,12 @@
 # Multicontact Interaction · 多接触交互
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Locomotion-Manipulation%20Coordination&specialty=Multicontact%20Interaction#research-workbench)
 
-> 0 conference papers · 4 recent arXiv papers
+> 0 conference papers · 5 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (4)
+## Recent arXiv papers (5)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-19 | OmniInteract: Towards Unified Whole-Body Interaction Control for Dual Humanoids | Yinghao Li, Tianyu Zhang, Zhuohao Li, Yi-Lin Wei et al. | [Abstract](https://arxiv.org/abs/2610.26043) · [PDF](https://arxiv.org/pdf/2610.26043) | rule-assigned |
 | 2026-07-17 | Handroid: Bridging Dexterous Hand and Humanoid | Ruogu Li, Chenyang Ma, Sikai Li, Zhenyu Wei et al. | [Abstract](https://arxiv.org/abs/2607.16187) · [PDF](https://arxiv.org/pdf/2607.16187) | rule-assigned |
 | 2026-06-16 | HumanoidArena: Benchmarking Egocentric Hierarchical Whole-body Learning | Taowen Wang, Zikang Xie, Bin Yang, Yunheng Wang et al. | [Abstract](https://arxiv.org/abs/2606.17833) · [PDF](https://arxiv.org/pdf/2606.17833) | rule-assigned |
 | 2026-03-10 | ZeroWBC: Learning Natural Whole-Body Humanoid Interaction from Human Egocentric Data | Haoran Yang, Jiacheng Bao, Yucheng Xin, Haoming Song et al. | [Abstract](https://arxiv.org/abs/2603.09170) · [PDF](https://arxiv.org/pdf/2603.09170) | rule-assigned |

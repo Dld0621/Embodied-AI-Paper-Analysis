@@ -1,12 +1,12 @@
 # Combining Imitation & Reinforcement · 模仿与强化学习结合
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Reinforcement%20Learning&specialty=Combining%20Imitation%20%26%20Reinforcement#research-workbench)
 
-> 0 conference papers · 15 recent arXiv papers
+> 0 conference papers · 16 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (15)
+## Recent arXiv papers (16)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-20 | Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking | Yuxuan Kuang, Jiashun Wang, Yixuan Sun, Yufei Ye et al. | [Abstract](https://arxiv.org/abs/2610.28628) · [PDF](https://arxiv.org/pdf/2610.28628) | reviewed |
 | 2026-07-21 | End-to-end Conditional Diffusion for Realistic and Controllable Visual Traffic Scenario Generation | Jingzheng Li, Yufei Ge, Zhijun Chen, Qianren Mao et al. | [Abstract](https://arxiv.org/abs/2607.18637) · [PDF](https://arxiv.org/pdf/2607.18637) | rule-assigned |
 | 2026-06-15 | Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes | Tongyan Fang, Siyuan Huang, Naiyu Fang, Ganlong Zhao et al. | [Abstract](https://arxiv.org/abs/2606.17043) · [PDF](https://arxiv.org/pdf/2606.17043) | rule-assigned |
 | 2026-06-02 | MAGNIFIED: RL Fine-tuning of Multimodal Large Language Models for Motion Planning | Letian Chen, Yiren Lu, Justin Fu, Yichen Xie et al. | [Abstract](https://arxiv.org/abs/2606.20641) · [PDF](https://arxiv.org/pdf/2606.20641) | rule-assigned |

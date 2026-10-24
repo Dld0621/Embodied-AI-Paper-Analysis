@@ -1,12 +1,12 @@
 # Shared Autonomy & Assistance · 共享自主与辅助控制
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Control&specialty=Shared%20Autonomy%20%26%20Assistance#research-workbench)
 
-> 7 conference papers · 63 recent arXiv papers
+> 7 conference papers · 64 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -32,10 +32,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Blending Primitive Policies in Shared Control for Assisted Teleoperation | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2204.07026) · [Index](https://dblp.org/rec/journals/corr/abs-2204-07026) | rule-assigned |
 | 2022 | Skill-CPD: Real-time Skill Refinement for Shared Autonomy in Manipulator Teleoperation | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982077) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982077) | rule-assigned |
 
-## Recent arXiv papers (63)
+## Recent arXiv papers (64)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-18 | Intent-Informed Model Predictive Control for Shared Autonomy in Remote Manipulation Tasks | Lorena Maria Genua, Camilla Tabasso, Mya Schroder, Joshua Migdal et al. | [Abstract](https://arxiv.org/abs/2610.25436) · [PDF](https://arxiv.org/pdf/2610.25436) | rule-assigned |
 | 2026-10-10 | Shared-Control Teleoperation of Omnidirectional Aerial Robots for Continuous Valve Rotation | Jinjie Li, Yicheng Chen, Haokun Liu, Moju Zhao | [Abstract](https://arxiv.org/abs/2610.14478) · [PDF](https://arxiv.org/pdf/2610.14478) | rule-assigned |
 | 2026-10-09 | DexFLEX: Contact-Aware Foundation Controller for Command-Guided Dexterity | Weikang Wan, Zeyu Lai, Jianyu Hou, Yuchen Zhou et al. | [Abstract](https://arxiv.org/abs/2610.14372) · [PDF](https://arxiv.org/pdf/2610.14372) | rule-assigned |
 | 2026-10-06 | Fast Non-Parametric Heteroscedastic Imitation Learning With Geometric Priors | Maximilian Mühlbauer, Arne Sachtler, Markus Knauer, Cem Küçükgenç et al. | [Abstract](https://arxiv.org/abs/2610.08650) · [PDF](https://arxiv.org/pdf/2610.08650) | rule-assigned |

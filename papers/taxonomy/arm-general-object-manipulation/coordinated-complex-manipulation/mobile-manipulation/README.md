@@ -1,12 +1,12 @@
 # Mobile Manipulation · 移动操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Mobile%20Manipulation#research-workbench)
 
-> 50 conference papers · 181 recent arXiv papers
+> 50 conference papers · 183 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -75,10 +75,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Symbolic Failure Detection for Grasping and Mobile Manipulation Tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982223) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982223) | rule-assigned |
 | 2022 | Ω2: Optimal Hierarchical Planner for Object Search in Large Environments via Mobile Manipulation | IROS · Mobile Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981194) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981194) | rule-assigned |
 
-## Recent arXiv papers (181)
+## Recent arXiv papers (183)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-16 | Foundation-Model-Driven 3D Scene Graphs for Mobile Manipulation | Dominic Maggio, Lorenzo Shaikewitz, Aryan Naveen, Kris Hauser et al. | [Abstract](https://arxiv.org/abs/2610.23622) · [PDF](https://arxiv.org/pdf/2610.23622) | rule-assigned |
+| 2026-10-15 | MuSTMM: Learning Sound-Triggered Mobile Manipulation across Multiple Scenes | Hao Ju, Feng Yan, Zhihao Zhong, Heng Yang et al. | [Abstract](https://arxiv.org/abs/2610.21429) · [PDF](https://arxiv.org/pdf/2610.21429) | rule-assigned |
+| 2026-10-14 | MoCaP: Mobile Code-as-Policies for Zero-Shot Mobile Manipulation from Passive Human Videos | Yiyang Cai, Tatsuya Kamijo, Ninghao Lu, Zijin Hu et al. | [Abstract](https://arxiv.org/abs/2610.20998) · [PDF](https://arxiv.org/pdf/2610.20998) | rule-assigned |
 | 2026-10-14 | Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance | Zhefei Gong, Hefeifei Jiang, Zehao Wang, Jiachen Li | [Abstract](https://arxiv.org/abs/2610.20607) · [PDF](https://arxiv.org/pdf/2610.20607) | rule-assigned |
 | 2026-10-14 | Cracking Mobile Manipulation: From Failure Diagnosis to Agentic Robot System | Zixuan Wang, Jia-Ning Li, Yinzhou Tang, Yanzhao Yu et al. | [Abstract](https://arxiv.org/abs/2610.19600) · [PDF](https://arxiv.org/pdf/2610.19600) | rule-assigned |
 | 2026-10-11 | Look Before You Move: Agent-Interface-Aligned Supervision for Open-World Mobile Manipulation | Ronghe Qiu, Teli Ma, Jiaming Zhou, Zeying Gong et al. | [Abstract](https://arxiv.org/abs/2610.15572) · [PDF](https://arxiv.org/pdf/2610.15572) | rule-assigned |
@@ -259,7 +262,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-11 | A Novel Planning Framework for Complex Flipping Manipulation of Multiple Mobile Manipulators | Wenhang Liu, Meng Ren, Kun Song, Michael Yu Wang et al. | [Abstract](https://arxiv.org/abs/2312.06168) · [PDF](https://arxiv.org/pdf/2312.06168) | rule-assigned |
 | 2023-11-02 | Using Augmented Reality to Assess and Modify Mobile Manipulator Surface Repair Plans | Frank Regal, Steven Swanbeck, Fabian Parra, Jared Rosenbaum et al. | [Abstract](https://arxiv.org/abs/2311.00988) · [PDF](https://arxiv.org/pdf/2311.00988) | rule-assigned |
 | 2023-10-24 | EquivAct: SIM(3)-Equivariant Visuomotor Policies beyond Rigid Object Manipulation | Jingyun Yang, Congyue Deng, Jimmy Wu, Rika Antonova et al. | [Abstract](https://arxiv.org/abs/2310.16050) · [PDF](https://arxiv.org/pdf/2310.16050) | rule-assigned |
-| 2023-10-21 | Concept-based Anomaly Detection in Retail Stores for Automatic Correction using Mobile Robots | Aditya Kapoor, Vartika Sengar, Nijil George, Vighnesh Vatsal et al. | [Abstract](https://arxiv.org/abs/2310.14063) · [PDF](https://arxiv.org/pdf/2310.14063) | rule-assigned |
 
 ---
 

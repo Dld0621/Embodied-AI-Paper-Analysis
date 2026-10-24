@@ -1,12 +1,12 @@
 # Visual, LiDAR & Multisensor SLAM · 视觉／激光／多传感器 SLAM
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Visual%2C%20LiDAR%20%26%20Multisensor%20SLAM#research-workbench)
 
-> 14 conference papers · 552 recent arXiv papers
+> 14 conference papers · 556 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -39,10 +39,17 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | 3D Lidar Reconstruction with Probabilistic Depth Completion for Robotic Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2207.12520) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981531) | rule-assigned |
 | 2022 | Visual Confined-Space Navigation Using an Efficient Learned Bilinear Optic Flow Approximation for Insect-scale Robots | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981585) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981585) | rule-assigned |
 
-## Recent arXiv papers (552)
+## Recent arXiv papers (556)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | Consistent Distributed Invariant EKF SLAM with Point and Object Features | Mengya Xu, Xianjia Yu, Ha Sier, Shoudong Huang et al. | [Abstract](https://arxiv.org/abs/2610.31221) · [PDF](https://arxiv.org/pdf/2610.31221) | rule-assigned |
+| 2026-10-21 | Reading the Room: Scale-ambiguous Semantic Registration of Sparse VSLAM Maps to Floor Plans in Partially Built Environments | Bjorn Stragier, Emilia Szymańska, J. Micah Prendergast, Lukas Rosenberger Schmid | [Abstract](https://arxiv.org/abs/2610.29647) · [PDF](https://arxiv.org/pdf/2610.29647) | rule-assigned |
+| 2026-10-19 | SpaRV: Sparse Radiance Voxels for Scalable Geometrically Consistent LiDAR-Visual Mapping and Rendering | Jianheng Liu, Yunfei Wan, Fangming Cheng, Xiangyu Hong et al. | [Abstract](https://arxiv.org/abs/2610.25665) · [PDF](https://arxiv.org/pdf/2610.25665) | rule-assigned |
+| 2026-10-19 | CAOS-SLAM: Class-Agnostic Object-Aware Real-Time vSLAM for Dynamic Environments | Gaia Borghi, João Carlos Virgolino Soares, Angelo Bratta, Shahab Heshmati-Alamdari et al. | [Abstract](https://arxiv.org/abs/2610.26633) · [PDF](https://arxiv.org/pdf/2610.26633) | rule-assigned |
+| 2026-10-16 | FLoTS-SLAM: Optical Flow-Derived Uncertainty for Monocular Dynamic SLAM with Two-Stage Optimization | Haorui Du, Lipu Zhou | [Abstract](https://arxiv.org/abs/2610.23496) · [PDF](https://arxiv.org/pdf/2610.23496) | rule-assigned |
+| 2026-10-15 | RTISSLAM-3D: Full 6-DoF SLAM With an In-Air 3D Imaging Sonar | Jan Steckel, Vincent Katter, Wouter Jansen | [Abstract](https://arxiv.org/abs/2610.22552) · [PDF](https://arxiv.org/pdf/2610.22552) | rule-assigned |
+| 2026-10-15 | LIN-SLAM: Lightweight LiDAR--Inertial Neural SLAM for Real-Time Onboard Navigation | Shiqi Che, Yijie Liu, Shuo Wang, Wenxin Liu | [Abstract](https://arxiv.org/abs/2610.21199) · [PDF](https://arxiv.org/pdf/2610.21199) | rule-assigned |
 | 2026-10-13 | RTISSLAM: In-air Imaging Sonar SLAM using a Robust Pose Graph and Occupancy Grid Mapping | Jan Steckel | [Abstract](https://arxiv.org/abs/2610.18479) · [PDF](https://arxiv.org/pdf/2610.18479) | rule-assigned |
 | 2026-10-13 | Autonomous 3D Visual-Thermal Inspection for Utility-Scale Solar Farms | Lachlan Tychsen-Smith, Mark Cox, Brett Wood, David Haddon et al. | [Abstract](https://arxiv.org/abs/2610.17762) · [PDF](https://arxiv.org/pdf/2610.17762) | rule-assigned |
 | 2026-10-12 | Physical SLAM: Physics-aware Simultaneous Localisation and Mapping | Guangming Wang, Zhishuo Liu, Haibing Wu, Wanli Ma et al. | [Abstract](https://arxiv.org/abs/2610.17260) · [PDF](https://arxiv.org/pdf/2610.17260) | rule-assigned |
@@ -114,7 +121,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-26 | LXD-SLAM: LiDAR+X Dense SLAM with $\sum_{i=0}^{5}C_5^i$ Configurable Sensor Combinations | Zhong Wang, Lin Zhang, Linfei Li, Ying Shen et al. | [Abstract](https://arxiv.org/abs/2606.27811) · [PDF](https://arxiv.org/pdf/2606.27811) | rule-assigned |
 | 2026-06-26 | Improvement of Robot's Simultaneous Localization and Mapping Using an Effective Transformation to Achieve Linear Model | Seyed Farzad Bahreinian, Maziar Palhang, Mohammad Reza Taban, Hasan Enami Eraghi | [Abstract](https://arxiv.org/abs/2606.28475) · [PDF](https://arxiv.org/pdf/2606.28475) | rule-assigned |
 | 2026-06-26 | Fast and Accurate Outlier-Aware LiDAR Super-Resolution for SLAM Applications | Christos Anagnostopoulos, Alexandros Gkillas, Nikos Piperigkos, Aris S. Lalos | [Abstract](https://arxiv.org/abs/2606.28607) · [PDF](https://arxiv.org/pdf/2606.28607) | rule-assigned |
-| 2026-06-24 | RoboAtlas: Contextual Active SLAM | Alexander Schperberg, Shivam K. Panda, Abraham P. Vinod, Rokaha Bhagawan et al. | [Abstract](https://arxiv.org/abs/2606.26046) · [PDF](https://arxiv.org/pdf/2606.26046) | rule-assigned |
+| 2026-06-24 | RoboAtlas: Contextual Active SLAM | Alexander Schperberg, Shivam K. Panda, Abraham P. Vinod, Bhagawan Rokaha et al. | [Abstract](https://arxiv.org/abs/2606.26046) · [PDF](https://arxiv.org/pdf/2606.26046) | rule-assigned |
 | 2026-06-24 | DSP-SLAM++: A Unified Framework for Multi-Class, High-Fidelity Object SLAM in the Wild | Ahmad Kourani, Ghina Daoud, Daniel Asmar, Imad Elhajj | [Abstract](https://arxiv.org/abs/2606.25953) · [PDF](https://arxiv.org/pdf/2606.25953) | rule-assigned |
 | 2026-06-20 | GeoFlow-SLAM++: A Robust Multi-Camera Visual-Inertial SLAM System with Relocalization | Wei Feng, Tingyang Xiao, Liu Liu, Xiaolin Zhou et al. | [Abstract](https://arxiv.org/abs/2606.22051) · [PDF](https://arxiv.org/pdf/2606.22051) | rule-assigned |
 | 2026-06-19 | Spectral GS-SLAM: Observability-Aware, Degeneracy-Robust Tracking for Real-Time 3D Gaussian Splatting SLAM | Edward Beng Wai Tan, Siew-Kei Lam, Dongshuo Zhang | [Abstract](https://arxiv.org/abs/2606.21258) · [PDF](https://arxiv.org/pdf/2606.21258) | rule-assigned |
@@ -592,9 +599,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-30 | Distributed multi-agent magnetic field norm SLAM with Gaussian processes | Frida Viset, Rudy Helmons, Manon Kok | [Abstract](https://arxiv.org/abs/2310.19400) · [PDF](https://arxiv.org/pdf/2310.19400) | rule-assigned |
 | 2023-10-28 | KernelGPA: A Globally Optimal Solution to Deformable SLAM in Closed-form | Fang Bai, Kanzhi Wu, Adrien Bartoli | [Abstract](https://arxiv.org/abs/2310.18697) · [PDF](https://arxiv.org/pdf/2310.18697) | rule-assigned |
 | 2023-10-26 | Navigating to Success in Multi-Modal Human-Robot Collaboration: Analysis and Corpus Release | Stephanie M. Lukin, Kimberly A. Pollard, Claire Bonial, Taylor Hudson et al. | [Abstract](https://arxiv.org/abs/2310.17568) · [PDF](https://arxiv.org/pdf/2310.17568) | rule-assigned |
-| 2023-10-20 | Higher or Lower: Challenges in Object based SLAM | Zhihe Zhang, Hao Wei, Hongtao Nie | [Abstract](https://arxiv.org/abs/2310.13256) · [PDF](https://arxiv.org/pdf/2310.13256) | rule-assigned |
-| 2023-10-20 | ColAG: A Collaborative Air-Ground Framework for Perception-Limited UGVs' Navigation | Zhehan Li, Rui Mao, Nanhe Chen, Chao Xu et al. | [Abstract](https://arxiv.org/abs/2310.13324) · [PDF](https://arxiv.org/pdf/2310.13324) | rule-assigned |
-| 2023-10-16 | The Invisible Map: Visual-Inertial SLAM with Fiducial Markers for Smartphone-based Indoor Navigation | Paul Ruvolo, Ayush Chakraborty, Rucha Dave, Richard Li et al. | [Abstract](https://arxiv.org/abs/2310.10862) · [PDF](https://arxiv.org/pdf/2310.10862) | rule-assigned |
 
 ---
 

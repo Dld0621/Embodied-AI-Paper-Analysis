@@ -1,12 +1,12 @@
 # Task Decomposition & Symbolic Planning · 任务分解与符号规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Task%20Reasoning%20%26%20Planning&specialty=Task%20Decomposition%20%26%20Symbolic%20Planning#research-workbench)
 
-> 47 conference papers · 230 recent arXiv papers
+> 47 conference papers · 228 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -72,10 +72,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Robot Skill Learning with Identification of Preconditions and Postconditions via Level Set Estimation | IROS · Skill Learning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981933) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981933) | rule-assigned |
 | 2022 | Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement | IROS · Object Rearrangement | [Paper](https://arxiv.org/pdf/2207.08078) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981715) | rule-assigned |
 
-## Recent arXiv papers (230)
+## Recent arXiv papers (228)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-20 | SLoSa: Small, Low-Power, and Safe Foundation Models for Robotic Task Planning | Weizhe Xu, Jialiang Fan, Essien Taylor, Zijun Wang et al. | [Abstract](https://arxiv.org/abs/2610.28955) · [PDF](https://arxiv.org/pdf/2610.28955) | rule-assigned |
 | 2026-10-13 | APTree: Extended Behavior Trees for Adaptive and Scalable Automated Robotic Task Planning in Construction | Shermin Sherkat, Thomas Wortmann, Andreas Wortmann | [Abstract](https://arxiv.org/abs/2610.18523) · [PDF](https://arxiv.org/pdf/2610.18523) | rule-assigned |
 | 2026-10-08 | SafeInferCom: Safe Inference-Time Compute via Verifier-Guided Mid-Generation Intervention for Robotic Task Planning | Weizhe Xu, Jialiang Fan, Mengyu Liu, Fanxin Kong | [Abstract](https://arxiv.org/abs/2610.11223) · [PDF](https://arxiv.org/pdf/2610.11223) | rule-assigned |
 | 2026-10-08 | Embodied Zero-Shot Task Planning via Hardware-Aware LLM-VLM Integration for Grounded Robotic Manipulation | Lonnie Tankersley, Noorbakhsh Amiri Golilarz, Soroush Korivand | [Abstract](https://arxiv.org/abs/2610.14106) · [PDF](https://arxiv.org/pdf/2610.14106) | rule-assigned |
@@ -303,9 +304,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-20 | GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration | Naoki Wake, Atsushi Kanehira, Kazuhiro Sasabuchi, Jun Takamatsu et al. | [Abstract](https://arxiv.org/abs/2311.12015) · [PDF](https://arxiv.org/pdf/2311.12015) | rule-assigned |
 | 2023-11-02 | Vision-Language Interpreter for Robot Task Planning | Keisuke Shirai, Cristian C. Beltran-Hernandez, Masashi Hamaya, Atsushi Hashimoto et al. | [Abstract](https://arxiv.org/abs/2311.00967) · [PDF](https://arxiv.org/pdf/2311.00967) | rule-assigned |
 | 2023-10-30 | GG-LLM: Geometrically Grounding Large Language Models for Zero-shot Human Activity Forecasting in Human-Aware Task Planning | Moritz A. Graule, Volkan Isler | [Abstract](https://arxiv.org/abs/2310.20034) · [PDF](https://arxiv.org/pdf/2310.20034) | rule-assigned |
-| 2023-10-23 | Adaptive Tuning of Robotic Polishing Skills based on Force Feedback Model | Yu Wang, Zhouyi Zheng, Chen Chen, Zezheng Wang et al. | [Abstract](https://arxiv.org/abs/2310.14860) · [PDF](https://arxiv.org/pdf/2310.14860) | rule-assigned |
-| 2023-10-16 | Interactive Task Planning with Language Models | Boyi Li, Philipp Wu, Pieter Abbeel, Jitendra Malik | [Abstract](https://arxiv.org/abs/2310.10645) · [PDF](https://arxiv.org/pdf/2310.10645) | rule-assigned |
-| 2023-10-16 | Adaptive Robot Assistance: Expertise and Influence in Multi-User Task Planning | Abhinav Dahiya, Stephen L. Smith | [Abstract](https://arxiv.org/abs/2310.10502) · [PDF](https://arxiv.org/pdf/2310.10502) | rule-assigned |
 
 ---
 

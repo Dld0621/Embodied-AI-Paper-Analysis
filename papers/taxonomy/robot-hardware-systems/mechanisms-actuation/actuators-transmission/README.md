@@ -1,12 +1,12 @@
 # Actuators & Transmission · 执行器与传动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Actuators%20%26%20Transmission#research-workbench)
 
-> 47 conference papers · 326 recent arXiv papers
+> 47 conference papers · 331 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -72,11 +72,17 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Agile Hybrid Whole-body Motor Skills for Thruster-Aided Humanoid Robots | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9981974) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981974) | rule-assigned |
 | 2022 | Omnidirectional walking of a quadruped robot enabled by compressible tendon-driven soft actuators | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981314) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981314) | rule-assigned |
 
-## Recent arXiv papers (326)
+## Recent arXiv papers (331)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
-| 2026-10-14 | Enabling Tidying Tasks in Robotic Vacuum Cleaners via a Geometry-Induced Self-Locking Deployable Linkage | Eunseok Song, inwoong Kim, Sohee Lim, Taehyeong Kim et al. | [Abstract](https://arxiv.org/abs/2610.20150) · [PDF](https://arxiv.org/pdf/2610.20150) | rule-assigned |
+| 2026-10-22 | IORA: Irregular Object Immobilization under Restricted Actuation | Sang-Hun Han, Changyeon Won, JunGyu Lee, Min-Gyu Park et al. | [Abstract](https://arxiv.org/abs/2610.30969) · [PDF](https://arxiv.org/pdf/2610.30969) | rule-assigned |
+| 2026-10-21 | Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use | Yanzhe Chen, Ziyi Yang, Jifeng Zhu, Qiming Huang et al. | [Abstract](https://arxiv.org/abs/2610.30108) · [PDF](https://arxiv.org/pdf/2610.30108) | rule-assigned |
+| 2026-10-21 | Make it Walk: Computational Design of LEGO Walkers | Siqi Li, Fancheng Gao, Chi-Wing Fu, Peng Song | [Abstract](https://arxiv.org/abs/2610.29505) · [PDF](https://arxiv.org/pdf/2610.29505) | rule-assigned |
+| 2026-10-19 | Validation of Human Motor Development Scales with Humanoid Robots | Fanxing Meng, Jing Xiao | [Abstract](https://arxiv.org/abs/2610.25701) · [PDF](https://arxiv.org/pdf/2610.25701) | rule-assigned |
+| 2026-10-16 | Rollbot 2: Agile Locomotion by a Single-Actuator Spherical Robot | Jingxian Wang*, Chen Yu*, Sam Kriegman, Michael Rubenstein | [Abstract](https://arxiv.org/abs/2610.24129) · [PDF](https://arxiv.org/pdf/2610.24129) | rule-assigned |
+| 2026-10-16 | Hardware-as-Regularization: Enhancing Data Consistency in Imitation Learning via an Adjustable Passive Compliant Leader Arm | Hideyuki Ichiwara, Yushi Kaida, Hirokazu Ishida | [Abstract](https://arxiv.org/abs/2610.22977) · [PDF](https://arxiv.org/pdf/2610.22977) | rule-assigned |
+| 2026-10-14 | Enabling Tidying Tasks in Robotic Vacuum Cleaners via a Geometry-Induced Self-Locking Deployable Linkage | Eunseok Song, Jinwoong Kim, Sohee Lim, Taehyeong Kim et al. | [Abstract](https://arxiv.org/abs/2610.20150) · [PDF](https://arxiv.org/pdf/2610.20150) | rule-assigned |
 | 2026-10-13 | Sim4RAD: A MATLAB Toolkit for Design-Phase Sizing, Actuator Selection and URDF-Model Verification of Serial Robotic Arms | Jingchen Li | [Abstract](https://arxiv.org/abs/2610.17534) · [PDF](https://arxiv.org/pdf/2610.17534) | rule-assigned |
 | 2026-10-13 | Contact-UAN: Unsupervised Actuator Networks as a Residual World Model for Humanoid Control | Nolan Fey, Khai Nguyen, Yash Prabhu, Gabriel B. Margolis et al. | [Abstract](https://arxiv.org/abs/2610.18991) · [PDF](https://arxiv.org/pdf/2610.18991) | rule-assigned |
 | 2026-10-12 | Extending Wire-Driven Parallel Robots to Multi-Floating-Link Systems with an Inter-Body Wire | Shintaro Inoue, Kento Kawaharazuka, Temma Suzuki, Sota Yuzaki et al. | [Abstract](https://arxiv.org/abs/2610.16173) · [PDF](https://arxiv.org/pdf/2610.16173) | rule-assigned |
@@ -232,7 +238,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-11-22 | A Unified Multi-Dynamics Framework for Perception-Oriented Modeling in Tendon-Driven Continuum Robots | Ibrahim Alsarraj, Yuhao Wang, Abdalla Swikir, Cesare Stefanini et al. | [Abstract](https://arxiv.org/abs/2511.18088) · [PDF](https://arxiv.org/pdf/2511.18088) | rule-assigned |
 | 2025-11-21 | Feasibility of Embodied Dynamics Based Bayesian Learning for Continuous Pursuit Motion Control of Assistive Mobile Robots in the Built Environment | Xiaoshan Zhou, Carol C. Menassa, Vineet R. Kamat | [Abstract](https://arxiv.org/abs/2511.17401) · [PDF](https://arxiv.org/pdf/2511.17401) | rule-assigned |
 | 2025-11-19 | Optimus-Q: Utilizing Federated Learning in Adaptive Robots for Intelligent Nuclear Power Plant Operations through Quantum Cryptography | Sai Puppala, Ismail Hossain, Jahangir Alam, Sajedul Talukder | [Abstract](https://arxiv.org/abs/2511.15614) · [PDF](https://arxiv.org/pdf/2511.15614) | rule-assigned |
-| 2025-11-15 | Multilaminate piezoelectric PVDF actuators to enhance performance of soft micro robots | Nicholas Gunter, Heiko Kabutz, Kaushik Jayaram | [Abstract](https://arxiv.org/abs/2511.12380) · [PDF](https://arxiv.org/pdf/2511.12380) | rule-assigned |
+| 2025-11-15 | Multilaminate piezoelectric polymer actuators for insect-scale softrobots | Nicholas Gunter, Heiko Kabutz, Alexander Hedrick, Kaushik Jayaram | [Abstract](https://arxiv.org/abs/2511.12380) · [PDF](https://arxiv.org/pdf/2511.12380) | rule-assigned |
 | 2025-11-11 | A Two-Layer Electrostatic Film Actuator with High Actuation Stress and Integrated Brake | Huacen Wang, Hongqiang Wang | [Abstract](https://arxiv.org/abs/2511.08005) · [PDF](https://arxiv.org/pdf/2511.08005) | rule-assigned |
 | 2025-11-03 | Model to Model: Understanding the Venus Flytrap Snapping Mechanism and Transferring it to a 3D-printed Bistable Soft Robotic Demonstrator | Maartje H. M. Wermelink, Renate Sachse, Sebastian Kruppert, Thomas Speck et al. | [Abstract](https://arxiv.org/abs/2511.01350) · [PDF](https://arxiv.org/pdf/2511.01350) | rule-assigned |
 | 2025-10-30 | Embodied Intelligence for Advanced Bioinspired Microrobotics: Examples and Insights | Nestor O. Perez-Arancibia | [Abstract](https://arxiv.org/abs/2510.26132) · [PDF](https://arxiv.org/pdf/2510.26132) | rule-assigned |
@@ -401,7 +407,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-06 | Reconfigurable, Transformable Soft Pneumatic Actuator with Tunable 3D Deformations for Dexterous Soft Robotics Applications | Dickson Chiu Yu Wong, Mingtan Li, Shijie Kang, Lifan Luo et al. | [Abstract](https://arxiv.org/abs/2311.03032) · [PDF](https://arxiv.org/pdf/2311.03032) | rule-assigned |
 | 2023-11-02 | Learning to See Physical Properties with Active Sensing Motor Policies | Gabriel B. Margolis, Xiang Fu, Yandong Ji, Pulkit Agrawal | [Abstract](https://arxiv.org/abs/2311.01405) · [PDF](https://arxiv.org/pdf/2311.01405) | rule-assigned |
 | 2023-10-26 | Single-Motor Robotic Gripper With Three Functional Modes for Grasping in Confined Spaces | Toshihiro Nishimura, Tetsuyou Watanabe | [Abstract](https://arxiv.org/abs/2310.17192) · [PDF](https://arxiv.org/pdf/2310.17192) | rule-assigned |
-| 2023-10-17 | Origami-inspired Bi-directional Actuator with Orthogonal Actuation | Shuai Liu, Sheeraz Athar, Michael Yu Wang | [Abstract](https://arxiv.org/abs/2310.10959) · [PDF](https://arxiv.org/pdf/2310.10959) | rule-assigned |
 
 ---
 

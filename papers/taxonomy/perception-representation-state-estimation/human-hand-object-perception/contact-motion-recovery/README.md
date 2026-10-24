@@ -1,12 +1,12 @@
 # Contact & Motion Recovery · 接触与运动恢复
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Human%20%26%20Hand-object%20Perception&specialty=Contact%20%26%20Motion%20Recovery#research-workbench)
 
-> 3 conference papers · 27 recent arXiv papers
+> 3 conference papers · 28 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | A Data-Driven Contact Estimation Method for Wheeled-Biped Robots | ICRA · Biped | [Paper](https://arxiv.org/pdf/2410.12345) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128254) | rule-assigned |
 | 2025 | ORBiT: Optimizing Robot-Assisted Bite Transfer Leveraging a Real2Sim2Real Framework | IROS · Sim2Real | [Paper](https://doi.org/10.1109/IROS60139.2025.11247185) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247185) | rule-assigned |
 
-## Recent arXiv papers (27)
+## Recent arXiv papers (28)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-15 | Compliant GMT: Making General Motion Tracking Compliant via Residual Reference Adaptation | Venki Parsuram, Michelle Wang, Jin-Hyuk Hong, Pulkit Agrawal | [Abstract](https://arxiv.org/abs/2610.22119) · [PDF](https://arxiv.org/pdf/2610.22119) | rule-assigned |
 | 2026-09-15 | Beyond Gestures: Estimating Full Hand Pose and Contact Forces from Wrist-Worn Pressure Sensor Array | Svetoslav Kolev, Lingni Ma, Michael Goesele, Renzo De Nardi et al. | [Abstract](https://arxiv.org/abs/2609.16518) · [PDF](https://arxiv.org/pdf/2609.16518) | rule-assigned |
 | 2026-09-08 | Remotely Detectable Keyed Communication through Motion | Benjamin Chang, Michael Amir, Manon Flageat, Amanda Prorok | [Abstract](https://arxiv.org/abs/2609.08920) · [PDF](https://arxiv.org/pdf/2609.08920) | rule-assigned |
 | 2026-08-13 | AMR-Pose: An Active LED Marker-Based Relative Pose Estimation Framework With Probabilistic Switching PnP for Cooperative AUVs | Zeyu Sha, Xiaorui Wang, Mingyang Yang, Feitian Zhang | [Abstract](https://arxiv.org/abs/2608.12866) · [PDF](https://arxiv.org/pdf/2608.12866) | rule-assigned |

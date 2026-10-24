@@ -1,12 +1,12 @@
 # Whole-body Optimization & Control · 全身优化控制
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Coordination%20%26%20Balance&specialty=Whole-body%20Optimization%20%26%20Control#research-workbench)
 
-> 39 conference papers · 202 recent arXiv papers
+> 39 conference papers · 207 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -64,10 +64,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Nonprehensile Object Transportation with a Legged Manipulator | ICRA · Legged | [Paper](https://doi.org/10.1109/icra46639.2022.9811810) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811810) | rule-assigned |
 | 2022 | Whole-Body Control of Series-Parallel Hybrid Robots | ICRA · Whole Body | [Paper](https://doi.org/10.1109/icra46639.2022.9811616) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811616) | rule-assigned |
 
-## Recent arXiv papers (202)
+## Recent arXiv papers (207)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-21 | SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation | Zhaohui Yang, Quanbao Lin, Chengqi Shi, Zhenglang Weng et al. | [Abstract](https://arxiv.org/abs/2610.30044) · [PDF](https://arxiv.org/pdf/2610.30044) | rule-assigned |
+| 2026-10-20 | One Policy, Many Styles: Where to Aggregate Preferences for Steerable Humanoid Control? | Ziqian Huang, Yuzhuo Chen, Shimin Zhang, Junyang He et al. | [Abstract](https://arxiv.org/abs/2610.28925) · [PDF](https://arxiv.org/pdf/2610.28925) | rule-assigned |
+| 2026-10-17 | Learning Structured Locomotion References for Optimization-Based Whole-Body Control | Ömer Tarık Banuş, Uluç Saranlı, M. Mert Ankaralı | [Abstract](https://arxiv.org/abs/2610.24779) · [PDF](https://arxiv.org/pdf/2610.24779) | rule-assigned |
+| 2026-10-16 | Reinforcement Learning Based Multi-Terrain Adaptive Whole-Body Control for a Quadruped Manipulator | Yanzhou Jin, Fei Suo, Chang Liu, Yasuhisa Hasegawa et al. | [Abstract](https://arxiv.org/abs/2610.23548) · [PDF](https://arxiv.org/pdf/2610.23548) | rule-assigned |
 | 2026-10-14 | Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion | Huixuan Cheng, Bike Zhang, Shankar Sastry, Koushil Sreenath | [Abstract](https://arxiv.org/abs/2610.20606) · [PDF](https://arxiv.org/pdf/2610.20606) | rule-assigned |
 | 2026-10-14 | Beyond Kinematic Tracking: Preserving Expressive Characteristics in Humanoid Whole-Body Control | Lingfan Bao, Hanshang Zhu, Yan Pan, Jincheng Wang et al. | [Abstract](https://arxiv.org/abs/2610.19393) · [PDF](https://arxiv.org/pdf/2610.19393) | rule-assigned |
 | 2026-10-13 | TRACE: Efficient Transfer Learning for Neural Whole-Body Control Across Humanoid Embodiments | Qingyu Lan, Zhihao Tian, Zifan Wang, Junwei Liang | [Abstract](https://arxiv.org/abs/2610.17999) · [PDF](https://arxiv.org/pdf/2610.17999) | rule-assigned |
@@ -165,6 +169,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-02-25 | Iterative Closed-Loop Motion Synthesis for Scaling the Capabilities of Humanoid Control | Weisheng Xu, Qiwei Wu, Jiaxi Zhang, Tan Jing et al. | [Abstract](https://arxiv.org/abs/2602.21599) · [PDF](https://arxiv.org/pdf/2602.21599) | rule-assigned |
 | 2026-02-14 | Humanoid Hanoi: Investigating Shared Whole-Body Control for Skill-Based Box Rearrangement | Minku Kim, Kuan-Chia Chen, Aayam Shrestha, Li Fuxin et al. | [Abstract](https://arxiv.org/abs/2602.13850) · [PDF](https://arxiv.org/pdf/2602.13850) | rule-assigned |
 | 2026-02-12 | General Humanoid Whole-Body Control via Pretraining and Fast Adaptation | Zepeng Wang, Jiangxing Wang, Shiqing Yao, Yu Zhang et al. | [Abstract](https://arxiv.org/abs/2602.11929) · [PDF](https://arxiv.org/pdf/2602.11929) | rule-assigned |
+| 2026-02-11 | ExtremControl: Low-Latency Humanoid Teleoperation with Scaled Velocity Feedforward | Ziyan Xiong, Lixing Fang, Junyun Huang, Kashu Yamazaki et al. | [Abstract](https://arxiv.org/abs/2602.11321) · [PDF](https://arxiv.org/pdf/2602.11321) | rule-assigned |
 | 2026-02-10 | Humanoid Factors: Design Principles for AI Humanoids in Human Worlds | Xinyuan Liu, Eren Sadikoglu, Ransalu Senanayake, Lixiao Huang | [Abstract](https://arxiv.org/abs/2602.10069) · [PDF](https://arxiv.org/pdf/2602.10069) | rule-assigned |
 | 2026-02-05 | Scalable and General Whole-Body Control for Cross-Humanoid Locomotion | Yufei Xue, YunFeng Lin, Wentao Dong, Yang Tang et al. | [Abstract](https://arxiv.org/abs/2602.05791) · [PDF](https://arxiv.org/pdf/2602.05791) | rule-assigned |
 | 2026-02-04 | HoRD: Robust Humanoid Control via History-Conditioned Reinforcement Learning and Online Distillation | Puyue Wang, Jiawei Hu, Yan Gao, Junyan Wang et al. | [Abstract](https://arxiv.org/abs/2602.04412) · [PDF](https://arxiv.org/pdf/2602.04412) | rule-assigned |

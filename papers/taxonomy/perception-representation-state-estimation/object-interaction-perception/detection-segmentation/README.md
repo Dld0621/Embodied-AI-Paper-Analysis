@@ -1,12 +1,12 @@
 # Detection & Segmentation · 物体检测与分割
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Object%20%26%20Interaction%20Perception&specialty=Detection%20%26%20Segmentation#research-workbench)
 
-> 23 conference papers · 529 recent arXiv papers
+> 23 conference papers · 522 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -48,7 +48,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Demonstrate Once, Imitate Immediately (DOME): Learning Visual Servoing for One-Shot Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2204.02863) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981982) | rule-assigned |
 | 2022 | SESR: Self-Ensembling Sim-to-Real Instance Segmentation for Auto-Store Bin Picking | IROS · Sim To Real | [Paper](https://doi.org/10.1109/IROS47612.2022.9981845) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981845) | rule-assigned |
 
-## Recent arXiv papers (529)
+## Recent arXiv papers (522)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -574,13 +574,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-30 | Radar-Lidar Fusion for Object Detection by Designing Effective Convolution Networks | Farzeen Munir, Shoaib Azam, Tomasz Kucner, Ville Kyrki et al. | [Abstract](https://arxiv.org/abs/2310.19405) · [PDF](https://arxiv.org/pdf/2310.19405) | rule-assigned |
 | 2023-10-27 | What You See Is What You Detect: Towards better Object Densification in 3D detection | Tianran Liu, Zeping Zhang, Morteza Mousa Pasandi, Robert Laganiere | [Abstract](https://arxiv.org/abs/2310.17842) · [PDF](https://arxiv.org/pdf/2310.17842) | rule-assigned |
 | 2023-10-27 | ProcNet: Deep Predictive Coding Model for Robust-to-occlusion Visual Segmentation and Pose Estimation | Michael Zechmair, Alban Bornet, Yannick Morel | [Abstract](https://arxiv.org/abs/2310.18009) · [PDF](https://arxiv.org/pdf/2310.18009) | rule-assigned |
-| 2023-10-20 | ROSS: Radar Off-road Semantic Segmentation | Peng Jiang, Srikanth Saripalli | [Abstract](https://arxiv.org/abs/2310.13551) · [PDF](https://arxiv.org/pdf/2310.13551) | rule-assigned |
-| 2023-10-20 | Dynamic Object Detection in Range data using Spatiotemporal Normals | Raphael Falque, Cedric Le Gentil, Fouad Sukkar | [Abstract](https://arxiv.org/abs/2310.13273) · [PDF](https://arxiv.org/pdf/2310.13273) | rule-assigned |
-| 2023-10-19 | Lidar Panoptic Segmentation and Tracking without Bells and Whistles | Abhinav Agarwalla, Xuhua Huang, Jason Ziglar, Francesco Ferroni et al. | [Abstract](https://arxiv.org/abs/2310.12464) · [PDF](https://arxiv.org/pdf/2310.12464) | rule-assigned |
-| 2023-10-17 | Language Models as Zero-Shot Trajectory Generators | Teyun Kwon, Norman Di Palo, Edward Johns | [Abstract](https://arxiv.org/abs/2310.11604) · [PDF](https://arxiv.org/pdf/2310.11604) | rule-assigned |
-| 2023-10-17 | Diver Interest via Pointing in Three Dimensions: 3D Pointing Reconstruction for Diver-AUV Communication | Chelsey Edge, Demetrious Kutzke, Megdalia Bromhal, Junaed Sattar | [Abstract](https://arxiv.org/abs/2310.11536) · [PDF](https://arxiv.org/pdf/2310.11536) | rule-assigned |
-| 2023-10-17 | An empirical study of automatic wildlife detection using drone thermal imaging and object detection | Miao Chang, Tan Vuong, Manas Palaparthi, Lachlan Howell et al. | [Abstract](https://arxiv.org/abs/2310.11257) · [PDF](https://arxiv.org/pdf/2310.11257) | rule-assigned |
-| 2023-10-16 | RoboLLM: Robotic Vision Tasks Grounded on Multimodal Large Language Models | Zijun Long, George Killick, Richard McCreadie, Gerardo Aragon Camarasa | [Abstract](https://arxiv.org/abs/2310.10221) · [PDF](https://arxiv.org/pdf/2310.10221) | rule-assigned |
 
 ---
 

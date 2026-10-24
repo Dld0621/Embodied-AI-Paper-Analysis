@@ -1,12 +1,12 @@
 # Diffusion Policies · 扩散策略
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generative%20Action%20Policies&specialty=Diffusion%20Policies#research-workbench)
 
-> 24 conference papers · 231 recent arXiv papers
+> 24 conference papers · 232 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -49,10 +49,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation | RSS · Visuomotor | [Paper](https://arxiv.org/abs/2405.07503) · [Index](https://dblp.org/rec/conf/rss/PrasadLWZB24) | rule-assigned |
 | 2023 | Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | RSS · Diffusion policy | [Paper](https://arxiv.org/abs/2303.04137) · [Official](https://roboticsproceedings.org/rss19/p026.html) · [Code](https://github.com/real-stanford/diffusion_policy) | rule-assigned |
 
-## Recent arXiv papers (231)
+## Recent arXiv papers (232)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-18 | Energy-Score Stabilized Attentive Mixture-Density Policy: A Lightweight Approach to Multimodal Robot Motion | Sachiya Fujita, Hideyuki Ichiwara, Shigeki Sugano, Tetsuya Ogata | [Abstract](https://arxiv.org/abs/2610.25401) · [PDF](https://arxiv.org/pdf/2610.25401) | rule-assigned |
 | 2026-10-13 | Steertuning Policies from a Few Human Videos | Billy Yan, Isaac Tu, Kelly Lee, Blake Chang et al. | [Abstract](https://arxiv.org/abs/2610.18711) · [PDF](https://arxiv.org/pdf/2610.18711) | rule-assigned |
 | 2026-10-13 | ForeTac: Predictive Contact Guidance for Generative Robot Policies | Zhiyuan Chen, Shuai Chen, Haoran Zhou, Yizhe Zhao et al. | [Abstract](https://arxiv.org/abs/2610.18118) · [PDF](https://arxiv.org/pdf/2610.18118) | rule-assigned |
 | 2026-10-10 | CFG-Policy: Unified Diffusion Policy Learning Framework via Classifier-free Guidance | Shutong Ding, Zhaoyang Liu, Yimiao Zhou, Jingya Wang et al. | [Abstract](https://arxiv.org/abs/2610.14936) · [PDF](https://arxiv.org/pdf/2610.14936) | rule-assigned |

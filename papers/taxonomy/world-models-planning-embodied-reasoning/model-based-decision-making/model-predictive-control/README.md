@@ -1,7 +1,7 @@
 # Model Predictive Control · 模型预测控制
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Model-based%20Decision%20Making&specialty=Model%20Predictive%20Control#research-workbench)
@@ -40,7 +40,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-20 | Real-Time Disturbance-Aware Koopman Model Predictive Control for Quadrotors in Spatially Varying Winds | Stella Kombo, Masih Haseli, Alejandro A. Stefan-Zavala, Peter I. Renn et al. | [Abstract](https://arxiv.org/abs/2610.27414) · [PDF](https://arxiv.org/pdf/2610.27414) | rule-assigned |
+| 2026-10-16 | Switch-Time-Aware Hybrid Model Predictive Control Using the Hybrid Minimum Principle | Valentin Gaucher, Wenlong Zhang | [Abstract](https://arxiv.org/abs/2610.24125) · [PDF](https://arxiv.org/pdf/2610.24125) | rule-assigned |
+| 2026-10-15 | Dexterity from Supervised Play | Botao He, Yiming Dou, Yiannis Aloimonos, Jitendra Malik et al. | [Abstract](https://arxiv.org/abs/2610.22340) · [PDF](https://arxiv.org/pdf/2610.22340) | rule-assigned |
 | 2026-10-14 | VIGOR-MPC: Vision-Guided Objective Regulation MPC | Jelena Trisovic, Rahel Rickenbach, Marek Landert, Panagiotis Minos et al. | [Abstract](https://arxiv.org/abs/2610.20333) · [PDF](https://arxiv.org/pdf/2610.20333) | rule-assigned |
+| 2026-10-14 | Planning to Learn: Real-Time Robust Adaptive Control on the GPU with Guaranteed Future Learning | Anutam Srinivasan, Siddhant Panse, Glen Chou | [Abstract](https://arxiv.org/abs/2610.20925) · [PDF](https://arxiv.org/pdf/2610.20925) | rule-assigned |
 | 2026-10-12 | Task-Space Motion-Force Nonlinear Model Predictive Control for Precise and Compliant Control under Uncertainties | Quang-Nam Nguyen, Ludovic Righetti | [Abstract](https://arxiv.org/abs/2610.17069) · [PDF](https://arxiv.org/pdf/2610.17069) | rule-assigned |
 | 2026-10-12 | Imitation Learning of Avoidance Modes for Efficient Multimodal Model Predictive Control | Changyu Lee, Byung-Kwan Lee, Kanghoon Yoon | [Abstract](https://arxiv.org/abs/2610.16326) · [PDF](https://arxiv.org/pdf/2610.16326) | rule-assigned |
 | 2026-10-11 | Efficient Hybrid Hard--Soft Signal Temporal Logic MPC for Driving under Multimodal Uncertainty | Kumar Manas, Adrian Paschke | [Abstract](https://arxiv.org/abs/2610.15934) · [PDF](https://arxiv.org/pdf/2610.15934) | rule-assigned |
@@ -336,10 +340,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-10-27 | Interactive Joint Planning for Autonomous Vehicles | Yuxiao Chen, Sushant Veer, Peter Karkus, Marco Pavone | [Abstract](https://arxiv.org/abs/2310.18301) · [PDF](https://arxiv.org/pdf/2310.18301) | rule-assigned |
 | 2023-10-25 | TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers | Anoushka Alavilli, Khai Nguyen, Sam Schoedel, Brian Plancher et al. | [Abstract](https://arxiv.org/abs/2310.16985) · [PDF](https://arxiv.org/pdf/2310.16985) | rule-assigned |
 | 2023-10-24 | A Resilient Framework for 5G-Edge-Connected UAVs based on Switching Edge-MPC and Onboard-PID Control | Gerasimos Damigos, Achilleas Santi Seisa, Sumeet Gajanan Satpute, Tore Lindgren et al. | [Abstract](https://arxiv.org/abs/2310.15849) · [PDF](https://arxiv.org/pdf/2310.15849) | rule-assigned |
-| 2023-10-23 | End-to-End Learning of Behavioural Inputs for Autonomous Driving in Dense Traffic | Jatan Shrestha, Simon Idoko, Basant Sharma, Arun Kumar Singh | [Abstract](https://arxiv.org/abs/2310.14766) · [PDF](https://arxiv.org/pdf/2310.14766) | rule-assigned |
-| 2023-10-21 | Risk-Aware Wasserstein Distributionally Robust Control of Vessels in Natural Waterways | Juan Moreno Nadales, Astghik Hakobyan, David Muñoz de la Peña, Daniel Limon et al. | [Abstract](https://arxiv.org/abs/2310.14038) · [PDF](https://arxiv.org/pdf/2310.14038) | rule-assigned |
-| 2023-10-19 | NeuroSMPC: A Neural Network guided Sampling Based MPC for On-Road Autonomous Driving | Kaustab Pal, Aditya Sharma, Mohd Omama, Parth N. Shah et al. | [Abstract](https://arxiv.org/abs/2310.13077) · [PDF](https://arxiv.org/pdf/2310.13077) | rule-assigned |
-| 2023-10-15 | Adaptive Contact-Implicit Model Predictive Control with Online Residual Learning | Wei-Cheng Huang, Alp Aydinoglu, Wanxin Jin, Michael Posa | [Abstract](https://arxiv.org/abs/2310.09893) · [PDF](https://arxiv.org/pdf/2310.09893) | rule-assigned |
 
 ---
 

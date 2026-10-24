@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-15** · 顶会快照 / Conference: **2026-10-15** · arXiv 快照: **2026-10-15** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Pending%20specialty%20review#research-workbench)
 
-> 21 conference papers · 72 recent arXiv papers
+> 21 conference papers · 74 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -46,10 +46,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Maximal Manipulation Framework using Quadratic Programming for a Teleoperated Robotic System with Articulated bodies | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra46639.2022.9811602) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811602) | needs-review |
 | 2022 | A Contact-Safe Reinforcement Learning Framework for Contact-Rich Robot Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2207.13438) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981185) | needs-review |
 
-## Recent arXiv papers (72)
+## Recent arXiv papers (74)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-19 | GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation | Chen Yang, Linzhe Shi, Hang Zhang, Mu Xu et al. | [Abstract](https://arxiv.org/abs/2610.26846) · [PDF](https://arxiv.org/pdf/2610.26846) | needs-review |
+| 2026-10-16 | Ego2Contact: Predicting Touch from Egocentric Human Video for Contact-Rich Robot Manipulation | Qianqian Yang, Dayou Li, Bangya Liu, Zihao Zhu et al. | [Abstract](https://arxiv.org/abs/2610.22932) · [PDF](https://arxiv.org/pdf/2610.22932) | needs-review |
+| 2026-10-15 | CQDC-Warp: GPU-Accelerated Differentiable Quasi-Dynamic Simulation for Contact-Rich Manipulation | Yanchen Ding, Jiayi Chen, Jianfeng Xu, Wei Zhao et al. | [Abstract](https://arxiv.org/abs/2610.21349) · [PDF](https://arxiv.org/pdf/2610.21349) | needs-review |
 | 2026-10-14 | FOMI: A Force-Feedback Manipulation Interface for Teaching Contact-Rich Manipulation | Yishu Shen, Yiming Luo, Ruilin Wang, Bowen Yang et al. | [Abstract](https://arxiv.org/abs/2610.19839) · [PDF](https://arxiv.org/pdf/2610.19839) | needs-review |
 | 2026-10-13 | Interaction Latents as Actions for Contact-Rich Manipulation | Yuhang Zheng, Yujie Zang, Yuchen Liu, Yupeng Zheng et al. | [Abstract](https://arxiv.org/abs/2610.18855) · [PDF](https://arxiv.org/pdf/2610.18855) | needs-review |
 | 2026-10-07 | Do My Samples Help? Compute Budget Allocation for Real-World Sampling-Based MPC in Contact-Rich Manipulation | Magnus Dierking, João Carvalho, Vince Kurtz, Jan Peters et al. | [Abstract](https://arxiv.org/abs/2610.14064) · [PDF](https://arxiv.org/pdf/2610.14064) | needs-review |
@@ -66,7 +69,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-02 | CAAT: Contact-Aware Attention Scaling and Tactile Masking for Data-Efficient Contact-Rich Manipulation | Jiaming Jiang, Yuzhe Huang, Hao Liang, Pei Lin et al. | [Abstract](https://arxiv.org/abs/2608.01102) · [PDF](https://arxiv.org/pdf/2608.01102) | needs-review |
 | 2026-07-31 | TRACT: Temporally Routed Action Chunks with Chronological Phase Authority for Contact-Rich Manipulation | Jiahao Liu, Kento Kawaharazuka, Tasuku Makabe, Kei Okada | [Abstract](https://arxiv.org/abs/2607.29285) · [PDF](https://arxiv.org/pdf/2607.29285) | needs-review |
 | 2026-07-26 | $N_0$-TWAM: Scaling Tactile-Native World-Action Model for Contact-Rich Manipulation | NeoteAI Team, Fudan TEAI Team | [Abstract](https://arxiv.org/abs/2607.23783) · [PDF](https://arxiv.org/pdf/2607.23783) | needs-review |
-| 2026-07-17 | Data and Learning Where it Matters for Contact-Rich Manipulation | Oliver Hausdörfer, Linus Schwarz, Gabor Marko, Christian Dietz et al. | [Abstract](https://arxiv.org/abs/2607.15982) · [PDF](https://arxiv.org/pdf/2607.15982) | needs-review |
 | 2026-07-16 | Representation-Aligned Tactile Grounding for Contact-Rich Robotic Manipulation | Ruilin Chen, Jingkai Jia, Tong Yang, Xinyu Zhou et al. | [Abstract](https://arxiv.org/abs/2607.14609) · [PDF](https://arxiv.org/pdf/2607.14609) | needs-review |
 | 2026-07-02 | VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation | Shuai Tian, Yupeng Zheng, Yuhang Zheng, Songen Gu et al. | [Abstract](https://arxiv.org/abs/2607.02503) · [PDF](https://arxiv.org/pdf/2607.02503) | needs-review |
 | 2026-06-25 | Bridging Handheld and Teleoperated Supervision for Contact-Rich Manipulation via State-Gated Experts | Vidullan Surendran, Neehar Peri, David Watkins | [Abstract](https://arxiv.org/abs/2606.26603) · [PDF](https://arxiv.org/pdf/2606.26603) | needs-review |
