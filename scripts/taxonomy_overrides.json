@@ -484,6 +484,107 @@
     "excluded_topics": ["Retargeting", "Hand Retargeting", "Whole-body Retargeting"],
     "related_topics": ["World Models", "Dexterous Manipulation"]
   },
+  "kinematic tactile aligned dexterous retargeting with contact wrench space alignment": {
+    "title": "Kinematic-Tactile Aligned Dexterous Retargeting with Contact Wrench Space Alignment",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Physics & Dynamics Retargeting"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: the framework aligns kinematics and contacts, constructs human contact-wrench support from tactile forces, and optimizes robot fingertip force targets before converting them into joint-position corrections; explicit physical wrench and force transfer, rather than pose matching alone, defines the contribution. Official abstract: https://arxiv.org/abs/2610.39582",
+    "related_topics": ["Hand Retargeting", "Dexterous Manipulation", "Contact-rich"]
+  },
+  "touchbridge tactile conditioned human to robot transfer for dexterous manipulation": {
+    "title": "TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Human Demonstrations to Dexterous Skills",
+      "Video-to-robot Demonstrations"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: TouchBridge converts human visual and tactile demonstrations into robot-domain policy-training data through a co-designed interface, visual synthesis and action conversion; its Tac-Retarget module transfers fingertip contact patches and their spatial relations, supporting a Hand Retargeting association while retaining the broader demonstration-to-skill primary path. Official abstract: https://arxiv.org/abs/2610.40349",
+    "related_topics": ["Hand Retargeting", "Dexterous Manipulation", "Contact-rich"]
+  },
+  "acrossdex 1 0 from human motion pretraining to bimanual dexterous manipulation across hand embodiments": {
+    "title": "AcrossDEX 1.0: From Human Motion Pretraining to Bimanual Dexterous Manipulation across Hand Embodiments",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Human Demonstrations to Dexterous Skills",
+      "Demonstration Refinement & Skill Transfer"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: AcrossDEX connects human-motion pretraining, simulation-based expert learning, robot demonstrations and closed-loop execution across Inspire and Allegro hands using shared wrist representations and embodiment-specific finger fields; object reorientation is an evaluation task, not the primary contribution, and the abstract does not establish a distinct human-to-hand retargeting algorithm. Official abstract: https://arxiv.org/abs/2610.40210",
+    "excluded_topics": ["Hand Retargeting", "Whole-body Retargeting"],
+    "related_topics": ["Dexterous Manipulation", "Bimanual"]
+  },
+  "swapbot tool centric robot manipulation via interchangeable end effectors and tactile sensing": {
+    "title": "SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing",
+    "path": [
+      "Robot Hardware & Systems",
+      "Mechanisms & Actuation",
+      "Hands, Grippers & Arms"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: SwapBot introduces a modular end-effector system with a fixed robot-side coupling and low-cost tactile-equipped tool-side adapters for autonomous swapping; teleoperation and learned tool-use tasks evaluate this hardware architecture rather than define a new articulated-object manipulation algorithm or tactile representation estimator. Official abstract: https://arxiv.org/abs/2610.40646",
+    "related_topics": ["Contact-rich", "Teleoperation"]
+  },
+  "utility wam correcting future induced action changes": {
+    "title": "Utility-WAM: Correcting Future-Induced Action Changes",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "VLA & Generalist Robot Policies",
+      "Pending specialty review"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: Utility-WAM trains a residual velocity adapter on a frozen world-action policy and uses a counterfactual pre-generation gate to bypass unhelpful future-video computation; bimanual manipulation is an evaluation setting, not its primary skill contribution. The schema lacks an exact specialty for generalist world-action-policy correction and gating, so the appropriate policy parent retains Pending specialty review rather than implying a new VLA architecture, language-conditioning contribution, or test-time adaptation. Official abstract: https://arxiv.org/abs/2610.39367",
+    "related_topics": ["World Models"]
+  },
+  "logiv graph verified execution with causal local repair for long horizon robot tasks": {
+    "title": "LOGIV: Graph-Verified Execution with Causal Local Repair for Long-Horizon Robot Tasks",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "Memory & Autonomous Execution",
+      "Failure Detection & Replanning"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: LOGIV verifies physical condition-support and resource-ordering dependencies during execution and traces causal dependencies for validated local repair; it operates above existing VLA and WAM backbones without additional trainable components, making failure detection and continuation repair the contribution rather than a new action-model architecture. Official abstract: https://arxiv.org/abs/2610.40016",
+    "related_topics": ["World Models"]
+  },
+  "roboseed multidimensional evaluation of vision language action and world action models capability resource affordability and research evidence": {
+    "title": "RoboSeed: Multidimensional Evaluation of Vision-Language-Action and World-Action Models: Capability, Resource Affordability, and Research Evidence",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Benchmarks & Experimental Methods",
+      "Reproducibility & Statistical Comparison"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: RoboSeed compares action-model capability, training and deployment affordability, local research value and reproduction evidence using explicit protocol checks and normalization anchors; incomplete measurements remain unranked. Its contribution is auditable comparative evaluation, not a new VLA or world-action architecture. Official abstract: https://arxiv.org/abs/2610.40026",
+    "related_topics": ["World Models"]
+  },
+  "jedi joint embedding demonstration compression for in context imitation learning": {
+    "title": "JEDI: Joint-Embedding Demonstration Compression for In-Context Imitation Learning",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "Imitation Learning",
+      "Behavior Cloning & Sequence Modeling"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: JEDI compresses multimodal demonstration sequences into execution-relevant latent slots for in-context imitation learning; frozen video-JEPA future-keyframe prediction supplies the compression objective rather than a standalone robot video world model. The chosen specialty denotes demonstration-sequence modeling and does not assert that the method trains a behavior-cloning action loss. Official abstract: https://arxiv.org/abs/2610.40356",
+    "related_topics": []
+  },
+  "prime w0 physical priors from world models for embodied manipulation": {
+    "title": "PRIME W0: Physical Priors from World Models for Embodied Manipulation",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "VLA & Generalist Robot Policies",
+      "Hierarchical & Mixture Policies"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: PRIME W0 proposes a hierarchical conditional flow-matching policy with per-layer VLM KV injection, an adaptive mixture-of-experts action head and kinematically structured action noise; world-model subgoal images and historical visual features condition that policy, rather than making a latent dynamics predictor the primary contribution. Official abstract: https://arxiv.org/abs/2610.39528",
+    "related_topics": ["World Models"]
+  },
+  "umi live for in the wild bimanual robotics data collection": {
+    "title": "UMI-Live for In-The-Wild Bimanual Robotics Data Collection",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Datasets & Data Engineering",
+      "Robot Demonstration Datasets"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: UMI-Live supplies an integrated portable bimanual recording and SLAM-processing pipeline, training-ready robot demonstrations and a released 40-hour dataset across three tasks; downstream policy trials evaluate data utility, not a new data-quality filtering algorithm. The dataset-and-collection path retains this data-engineering contribution without claiming independently reproduced hardware or policy results. Official abstract: https://arxiv.org/abs/2610.39385",
+    "related_topics": ["Bimanual", "Teleoperation"]
+  },
   "contributing factors in human robot handshake compliance hand grip and synchrony": {
     "title": "Contributing Factors in Human-Robot Handshake: Compliance, Hand Grip, and Synchrony",
     "path": [

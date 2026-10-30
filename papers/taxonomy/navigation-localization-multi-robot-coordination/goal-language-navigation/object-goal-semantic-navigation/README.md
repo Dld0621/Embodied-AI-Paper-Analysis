@@ -1,12 +1,12 @@
 # Object-goal & Semantic Navigation · 物体目标与语义导航
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Goal%20%26%20Language%20Navigation&specialty=Object-goal%20%26%20Semantic%20Navigation#research-workbench)
 
-> 27 conference papers · 102 recent arXiv papers
+> 27 conference papers · 103 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -52,10 +52,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Zero-Shot Object Goal Visual Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2206.07423) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161289) | rule-assigned |
 | 2022 | Learning Active Camera for Multi-Object Navigation | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.07505) · [Index](https://dblp.org/rec/conf/nips/ChenJLH0LTG22) | rule-assigned |
 
-## Recent arXiv papers (102)
+## Recent arXiv papers (103)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-23 | SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning | Yuhan Liu, Lianhui Qin, Shenji Wan | [Abstract](https://arxiv.org/abs/2610.32978) · [PDF](https://arxiv.org/pdf/2610.32978) | rule-assigned |
 | 2026-10-14 | F2A-ObjectNav: An Adaptive Agentic Architecture for Object-Goal Navigation | Seyed Ali Mirghasemi, Alireza Taheri | [Abstract](https://arxiv.org/abs/2610.19618) · [PDF](https://arxiv.org/pdf/2610.19618) | rule-assigned |
 | 2026-10-11 | Have You Seen It Clearly? Uncertainty-Guided Belief Refinement for Zero-Shot Object Navigation | Jingzhi Huang, Junkai Huang, Yuhang Peng, Keyu Mu et al. | [Abstract](https://arxiv.org/abs/2610.15375) · [PDF](https://arxiv.org/pdf/2610.15375) | rule-assigned |
 | 2026-10-05 | MarvisNav: Making Memory Visible on Route Choices for Zero-Shot Object Navigation | Jincheng Wang, Chi Pui Chan, Wei Zeng, Shuyang Zhang et al. | [Abstract](https://arxiv.org/abs/2610.06510) · [PDF](https://arxiv.org/pdf/2610.06510) | rule-assigned |

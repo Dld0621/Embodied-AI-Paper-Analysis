@@ -1,12 +1,12 @@
 # Human-aware & Social Navigation · 人群交互与社会规范导航
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Multi-robot%20%26%20Social%20Navigation&specialty=Human-aware%20%26%20Social%20Navigation#research-workbench)
 
-> 56 conference papers · 179 recent arXiv papers
+> 56 conference papers · 180 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -81,10 +81,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Watch out! There may be a Human. Addressing Invisible Humans in Social Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2211.12216) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982186) | rule-assigned |
 | 2022 | You Are In My Way: Non-verbal Social Cues for Legible Robot Navigation Behaviors | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981754) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981754) | rule-assigned |
 
-## Recent arXiv papers (179)
+## Recent arXiv papers (180)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | Don't Risk It!: Trajectory-Conditioned Distributional Risk for LiDAR-Only Crowd Navigation | Mathai Mathew Pulicken, Laksh Nanwani, Basant Sharma, Phani Teja Singamaneni et al. | [Abstract](https://arxiv.org/abs/2610.40050) · [PDF](https://arxiv.org/pdf/2610.40050) | rule-assigned |
 | 2026-10-15 | Onboard Lightweight LLM Reasoning for Human-Aware Safe UAV Navigation | Siwei Cai, Yuwei Wu, Vijay Kumar, Lifeng Zhou | [Abstract](https://arxiv.org/abs/2610.22092) · [PDF](https://arxiv.org/pdf/2610.22092) | rule-assigned |
 | 2026-10-15 | Mothership: A Two Tier Autonomous Refuse Collection System for Pedestrian Campuses | Wei Wang, Yiru Veronika Wang, Yihan Wang, Zihao Li et al. | [Abstract](https://arxiv.org/abs/2610.22461) · [PDF](https://arxiv.org/pdf/2610.22461) | rule-assigned |
 | 2026-10-12 | Estimating the Causal Impact of Social Navigation Signals in Corridor Scenarios | Francesco Baldo, Luca Castri, Gloria Beraldo, Nicola Bellotto | [Abstract](https://arxiv.org/abs/2610.16411) · [PDF](https://arxiv.org/pdf/2610.16411) | rule-assigned |

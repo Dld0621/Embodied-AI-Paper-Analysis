@@ -1,7 +1,7 @@
 # Gripper & Suction Grasp Planning · 夹爪与吸盘抓取规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Grasping%20%26%20Pick-place&specialty=Gripper%20%26%20Suction%20Grasp%20Planning#research-workbench)
@@ -117,6 +117,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | SimTO-Robust: Automated Design of Soft Grippers Robust to Grasp Pose and Object Geometry | Kurt Enkera, Joshua Pinskier, Marcus Gallagher, David Howard | [Abstract](https://arxiv.org/abs/2610.39560) · [PDF](https://arxiv.org/pdf/2610.39560) | rule-assigned |
+| 2026-10-26 | MMGNet: Multi-Modal 6-DoF Grasp Synthesis for Cluttered Scenes | Rui Cao, Jia-Hui Pan, Yichuan Li, Yunfan Yu et al. | [Abstract](https://arxiv.org/abs/2610.34893) · [PDF](https://arxiv.org/pdf/2610.34893) | rule-assigned |
 | 2026-10-13 | Cross-Embodiment Affordance Transfer for Robotic Manipulation | Sawera Yaseen, Serge Thill, Rekha Raja | [Abstract](https://arxiv.org/abs/2610.18194) · [PDF](https://arxiv.org/pdf/2610.18194) | rule-assigned |
 | 2026-10-08 | How Firm Should a Grasp Be? | Matthew Beveridge, Shree K. Nayar | [Abstract](https://arxiv.org/abs/2610.11221) · [PDF](https://arxiv.org/pdf/2610.11221) | rule-assigned |
 | 2026-10-03 | RAGrasp: Geometry-Semantic Template Retrieval and Grasp Transfer | Shenzhe Zhu, Chengxiao He, Jan Harder | [Abstract](https://arxiv.org/abs/2610.04438) · [PDF](https://arxiv.org/pdf/2610.04438) | rule-assigned |
@@ -265,8 +267,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-10 | Intersection-free Robot Manipulation with Soft-Rigid Coupled Incremental Potential Contact | Wenxin Du, Siqiong Yao, Xinlei Wang, Yuhang Xu et al. | [Abstract](https://arxiv.org/abs/2311.05945) · [PDF](https://arxiv.org/pdf/2311.05945) | rule-assigned |
 | 2023-11-09 | Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter | Georgios Tziafas, Yucheng Xu, Arushi Goel, Mohammadreza Kasaei et al. | [Abstract](https://arxiv.org/abs/2311.05779) · [PDF](https://arxiv.org/pdf/2311.05779) | rule-assigned |
 | 2023-11-05 | Towards Feasible Dynamic Grasping: Leveraging Gaussian Process Distance Field, SE(3) Equivariance and Riemannian Mixture Models | Ho Jin Choi, Nadia Figueroa | [Abstract](https://arxiv.org/abs/2311.02576) · [PDF](https://arxiv.org/pdf/2311.02576) | rule-assigned |
-| 2023-10-27 | Parallel-Jaw Gripper and Grasp Co-Optimization for Sets of Planar Objects | Rebecca H. Jiang, Neel Doshi, Ravi Gondhalekar, Alberto Rodriguez | [Abstract](https://arxiv.org/abs/2310.18425) · [PDF](https://arxiv.org/pdf/2310.18425) | rule-assigned |
-| 2023-10-27 | Multi-fingered Dynamic Grasping for Unknown Objects | Yannick Burkhardt, Qian Feng, Jianxiang Feng, Karan Sharma et al. | [Abstract](https://arxiv.org/abs/2310.17923) · [PDF](https://arxiv.org/pdf/2310.17923) | rule-assigned |
 
 ---
 

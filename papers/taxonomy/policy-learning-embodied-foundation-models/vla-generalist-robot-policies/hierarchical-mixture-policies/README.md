@@ -1,12 +1,12 @@
 # Hierarchical & Mixture Policies · 分层策略与专家混合
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=VLA%20%26%20Generalist%20Robot%20Policies&specialty=Hierarchical%20%26%20Mixture%20Policies#research-workbench)
 
-> 0 conference papers · 36 recent arXiv papers
+> 0 conference papers · 37 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (36)
+## Recent arXiv papers (37)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | PRIME W0: Physical Priors from World Models for Embodied Manipulation | Huabin Peng, Fagang Jin, Yancong Wei, Tengfei Ma et al. | [Abstract](https://arxiv.org/abs/2610.39528) · [PDF](https://arxiv.org/pdf/2610.39528) | reviewed |
 | 2026-10-13 | UniW(A)M: A Unified Mixture-of-Experts Framework for World and World-Action Models | Jingbo Xu, Jianjie Fang, Zhuohang Li, Zihao Song et al. | [Abstract](https://arxiv.org/abs/2610.18697) · [PDF](https://arxiv.org/pdf/2610.18697) | rule-assigned |
 | 2026-07-29 | Route by Kinematics, Act by Observation: Kinematics-Supervised Expert Routing in MoE-Augmented VLA | Tianhang Yang, Yanze Zheng, Junjie Wang, Wei-Bin Kou et al. | [Abstract](https://arxiv.org/abs/2607.26807) · [PDF](https://arxiv.org/pdf/2607.26807) | rule-assigned |
 | 2026-07-22 | Emergent Compositional Skills in Mixture-of-Experts VLAs | Shlok Shah, Rhiaan Jhaveri, Tharun Kumar Tiruppali Kalidoss, Chirayu Nimonkar et al. | [Abstract](https://arxiv.org/abs/2607.20771) · [PDF](https://arxiv.org/pdf/2607.20771) | rule-assigned |

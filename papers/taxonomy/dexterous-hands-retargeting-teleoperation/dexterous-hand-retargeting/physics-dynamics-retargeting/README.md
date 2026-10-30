@@ -1,12 +1,12 @@
 # Physics & Dynamics Retargeting · 物理与动力学重定向
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Dexterous%20Hand%20Retargeting&specialty=Physics%20%26%20Dynamics%20Retargeting#research-workbench)
 
-> 0 conference papers · 8 recent arXiv papers
+> 0 conference papers · 9 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (8)
+## Recent arXiv papers (9)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | Kinematic-Tactile Aligned Dexterous Retargeting with Contact Wrench Space Alignment | Xinyuan He, Ziheng Xu, Yueyuan Chen, Yufan Ye et al. | [Abstract](https://arxiv.org/abs/2610.39582) · [PDF](https://arxiv.org/pdf/2610.39582) | reviewed |
 | 2026-10-09 | OATH: Object-Agnostic Tracking for Dexterous Hands, Enabling Rapid Physics-based Retargeting | Solvin Sigurdson, Prasanna Sriganesh, Juan Borbon, Joel Burdick et al. | [Abstract](https://arxiv.org/abs/2610.14379) · [PDF](https://arxiv.org/pdf/2610.14379) | rule-assigned |
 | 2026-10-08 | Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation | Dechen Gao, Yue Yang, Ben Abbatematteo, Nathan Godwin et al. | [Abstract](https://arxiv.org/abs/2610.12440) · [PDF](https://arxiv.org/pdf/2610.12440) | reviewed |
 | 2026-10-05 | DexForge: High-Fidelity Physics-Informed Dexterous Retargeting | Meizhong Wang, Kun Cao, Ruiqi Ni, Lihua Xie et al. | [Abstract](https://arxiv.org/abs/2610.06331) · [PDF](https://arxiv.org/pdf/2610.06331) | reviewed |

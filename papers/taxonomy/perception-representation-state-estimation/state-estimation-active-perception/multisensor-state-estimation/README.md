@@ -1,12 +1,12 @@
 # Multisensor State Estimation · 多传感器状态估计
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=State%20Estimation%20%26%20Active%20Perception&specialty=Multisensor%20State%20Estimation#research-workbench)
 
-> 26 conference papers · 228 recent arXiv papers
+> 26 conference papers · 230 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -51,10 +51,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | STEADY: Simultaneous State Estimation and Dynamics Learning from Indirect Observations | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2203.01299) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981279) | rule-assigned |
 | 2022 | The Uncertainty Aware Salted Kalman Filter: State Estimation for Hybrid Systems with Uncertain Guards | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2202.12729) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981218) | rule-assigned |
 
-## Recent arXiv papers (228)
+## Recent arXiv papers (230)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-27 | SVIn+: Multi-Modal Framework for Robust Underwater State Estimation using 3D Sonar, Visual-Inertial, Water-Pressure, and DVL | Chinmay Burgul, Xiaoming Zhao, Yewei Huang, Michalis Chatzispyrou et al. | [Abstract](https://arxiv.org/abs/2610.36454) · [PDF](https://arxiv.org/pdf/2610.36454) | rule-assigned |
+| 2026-10-27 | State estimation for a hybrid rigid-continuum space manipulator system | Lorenzo Ticozzi, Patricio A. Vela, Panagiotis Tsiotras | [Abstract](https://arxiv.org/abs/2610.37043) · [PDF](https://arxiv.org/pdf/2610.37043) | rule-assigned |
 | 2026-10-22 | Tilt-Rotor Quadcopter with Learned Residual Control and Mode-Dependent State Estimation | Ninad Joshi, Prabhat Kumar | [Abstract](https://arxiv.org/abs/2610.31051) · [PDF](https://arxiv.org/pdf/2610.31051) | rule-assigned |
 | 2026-10-16 | Foundation Models for Autonomous Space Robotics: Architectures, Physical Adaptation, and Validation | Zizhe Wang, Jia Deng, Xin Lu, Zehao Jia et al. | [Abstract](https://arxiv.org/abs/2610.23068) · [PDF](https://arxiv.org/pdf/2610.23068) | rule-assigned |
 | 2026-10-14 | Towards Certifiable State Estimation under Observability Degeneracy | Baoshan Song | [Abstract](https://arxiv.org/abs/2610.20490) · [PDF](https://arxiv.org/pdf/2610.20490) | rule-assigned |
@@ -114,6 +116,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-05 | Sensorless State Estimation and Control for Agile Cable-Suspended Payload Transport by Quadrotors | Ana Maria Nascimento, Augusto Sales, Antonio Marcus Lima, Tiago Nascimento | [Abstract](https://arxiv.org/abs/2605.03666) · [PDF](https://arxiv.org/pdf/2605.03666) | rule-assigned |
 | 2026-05-03 | Observability Conditions and Filter Design for Visual Pose Estimation via Dual Quaternions | Nicholas B. Andrews, Kristi A. Morgansen | [Abstract](https://arxiv.org/abs/2605.02054) · [PDF](https://arxiv.org/pdf/2605.02054) | rule-assigned |
 | 2026-04-20 | Relative State Estimation using Event-Based Propeller Sensing | Ravi Kumar Thakur, Luis Granados Segura, Jan Klivan, Radim Špetlík et al. | [Abstract](https://arxiv.org/abs/2604.18289) · [PDF](https://arxiv.org/pdf/2604.18289) | rule-assigned |
+| 2026-04-17 | Factor Graph-Based Continuum Robot State Estimation with Magnus Expansion Priors | Lorenzo Ticozzi, Sabyasachi Dash, Yangkun Liu, Patricio A. Vela et al. | [Abstract](https://arxiv.org/abs/2604.15619) · [PDF](https://arxiv.org/pdf/2604.15619) | rule-assigned |
 | 2026-04-15 | Neuromorphic Spiking Ring Attractor for Proprioceptive Joint-State Estimation | Federica Ferrari, Flavia Davidhi, Bernard Maacaron, Alberto Motta et al. | [Abstract](https://arxiv.org/abs/2604.14021) · [PDF](https://arxiv.org/pdf/2604.14021) | rule-assigned |
 | 2026-04-11 | Natural Gradient Gaussian Approximation Filter on Lie Groups for Robot State Estimation | Tianyi Zhang, Wenhan Cao, Chang Liu, Yao Lyu et al. | [Abstract](https://arxiv.org/abs/2604.10057) · [PDF](https://arxiv.org/pdf/2604.10057) | rule-assigned |
 | 2026-04-05 | DINO-VO: Learning Where to Focus for Enhanced State Estimation | Qi Chen, Guanghao Li, Sijia Hu, Xin Gao et al. | [Abstract](https://arxiv.org/abs/2604.04055) · [PDF](https://arxiv.org/pdf/2604.04055) | rule-assigned |
@@ -282,7 +285,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-06 | Weathering Ongoing Uncertainty: Learning and Planning in a Time-Varying Partially Observable Environment | Gokul Puthumanaillam, Xiangyu Liu, Negar Mehr, Melkior Ornik | [Abstract](https://arxiv.org/abs/2312.03263) · [PDF](https://arxiv.org/pdf/2312.03263) | rule-assigned |
 | 2023-11-30 | Event-based Visual Inertial Velometer | Xiuyuan Lu, Yi Zhou, Junkai Niu, Sheng Zhong et al. | [Abstract](https://arxiv.org/abs/2311.18189) · [PDF](https://arxiv.org/pdf/2311.18189) | rule-assigned |
 | 2023-11-07 | Proprioceptive Invariant Robot State Estimation | Tzu-Yuan Lin, Tingjun Li, Wenzhe Tong, Maani Ghaffari | [Abstract](https://arxiv.org/abs/2311.04320) · [PDF](https://arxiv.org/pdf/2311.04320) | rule-assigned |
-| 2023-10-24 | navlie: A Python Package for State Estimation on Lie Groups | Charles Champagne Cossette, Mitchell Cohen, Vassili Korotkine, Arturo del Castillo Bernal et al. | [Abstract](https://arxiv.org/abs/2310.15774) · [PDF](https://arxiv.org/pdf/2310.15774) | rule-assigned |
 
 ---
 

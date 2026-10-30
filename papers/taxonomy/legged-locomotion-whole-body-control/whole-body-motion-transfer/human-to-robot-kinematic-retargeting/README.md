@@ -1,12 +1,12 @@
 # Human-to-robot Kinematic Retargeting · 人体到机器人运动学重定向
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Motion%20Transfer&specialty=Human-to-robot%20Kinematic%20Retargeting#research-workbench)
 
-> 6 conference papers · 36 recent arXiv papers
+> 6 conference papers · 37 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -31,12 +31,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Redefining Data Pairing for Motion Retargeting Leveraging a Human Body Prior | IROS · Retargeting | [Paper](https://arxiv.org/pdf/2409.13208) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801789) | rule-assigned |
 | 2023 | Robust Real-Time Motion Retargeting via Neural Latent Prediction | IROS · Retargeting | [Paper](https://doi.org/10.1109/IROS55552.2023.10342022) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342022) | rule-assigned |
 
-## Recent arXiv papers (36)
+## Recent arXiv papers (37)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-27 | An Empirical Study of Wrist-Target Construction and Joint-Angle Limits in Humanoid Arm Retargeting | MinJun Chang | [Abstract](https://arxiv.org/abs/2610.37801) · [PDF](https://arxiv.org/pdf/2610.37801) | rule-assigned |
 | 2026-10-21 | SMR: Learning streaming motion retargeting for humanoids from human semantic | Chun Gu, Juntong Zhang, Jingyu Li, Li Zhang | [Abstract](https://arxiv.org/abs/2610.29169) · [PDF](https://arxiv.org/pdf/2610.29169) | rule-assigned |
-| 2026-10-21 | Motion Retargeting with Spatiotemporal Preferences for Humanoid Loco-Manipulation | Xiongbo Shi, Shihang Du, Zongyou Yu, Ao Zhou et al. | [Abstract](https://arxiv.org/abs/2610.30540) · [PDF](https://arxiv.org/pdf/2610.30540) | rule-assigned |
+| 2026-10-21 | Motion Retargeting with Spatiotemporal Preferences for Humanoid Loco-Manipulation | Xiongbo Shi, Shihang Du, Zongyou Yu, Ziyu Lin et al. | [Abstract](https://arxiv.org/abs/2610.30540) · [PDF](https://arxiv.org/pdf/2610.30540) | rule-assigned |
 | 2026-10-20 | Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning | Daniel Marew, Sangjun Park, Nisal Perera, Donghyun Kim | [Abstract](https://arxiv.org/abs/2610.28470) · [PDF](https://arxiv.org/pdf/2610.28470) | rule-assigned |
 | 2026-10-11 | Embodiment-Aware Inference-Time Search for Human Reaction Selection in Humanoid Retargeting | Yongpeng Cao, Masahiro Hirano, Yuji Yamakawa | [Abstract](https://arxiv.org/abs/2610.15274) · [PDF](https://arxiv.org/pdf/2610.15274) | rule-assigned |
 | 2026-10-08 | PriMoRetarget: Humanoid Motion Transfer Through Prioritized Motion Retargeting | Nicholas Ioannidis, Dun Yang, Max Smith, Tue Vu et al. | [Abstract](https://arxiv.org/abs/2610.12642) · [PDF](https://arxiv.org/pdf/2610.12642) | rule-assigned |

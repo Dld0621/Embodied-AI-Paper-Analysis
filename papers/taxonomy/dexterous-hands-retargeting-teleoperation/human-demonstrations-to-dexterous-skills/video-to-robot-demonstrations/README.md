@@ -1,12 +1,12 @@
 # Video-to-robot Demonstrations · 视频到机器人示教
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Human%20Demonstrations%20to%20Dexterous%20Skills&specialty=Video-to-robot%20Demonstrations#research-workbench)
 
-> 23 conference papers · 150 recent arXiv papers
+> 23 conference papers · 152 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -48,11 +48,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Human-to-Robot Imitation in the Wild | RSS · Learning from human video | [Paper](https://www.roboticsproceedings.org/rss18/p026.pdf) · [Official](https://www.roboticsproceedings.org/rss18/p026.html) | rule-assigned |
 | 2022 | Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on Youtube | RSS · Robotic Hand | [Paper](https://doi.org/10.15607/rss.2022.xviii.023) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.023) | rule-assigned |
 
-## Recent arXiv papers (150)
+## Recent arXiv papers (152)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation | Haozhe Zhang, Gu Zhang, Zirui Zou, Yuzheng Chen et al. | [Abstract](https://arxiv.org/abs/2610.40349) · [PDF](https://arxiv.org/pdf/2610.40349) | reviewed |
+| 2026-10-24 | AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking | Jianibieke Adalibieke, Qianwei Han, Xueyi Liu, Yuzhe Qin et al. | [Abstract](https://arxiv.org/abs/2610.33852) · [PDF](https://arxiv.org/pdf/2610.33852) | rule-assigned |
 | 2026-10-22 | RGraph-Eval: Task-Grounded Scene Graphs for Evaluating Robot Video Generation | Aleksandr Lazarev, Sofia Zimina, Roman Kuznetsov, Tatiana Zemskova et al. | [Abstract](https://arxiv.org/abs/2610.31121) · [PDF](https://arxiv.org/pdf/2610.31121) | rule-assigned |
+| 2026-10-22 | FLORA: An Open Model Suite for Scaling Robotics Data Engines | Sicong Leng, Yunze Man, Zhiqi Li, Jing Wang et al. | [Abstract](https://arxiv.org/abs/2610.31779) · [PDF](https://arxiv.org/pdf/2610.31779) | rule-assigned |
 | 2026-10-21 | Self-Distilling Future Video Representations for World Action Models | Huiwon Jang, Suhyeok Jang, Hyeonmo Kang, Seungku Kim et al. | [Abstract](https://arxiv.org/abs/2610.30320) · [PDF](https://arxiv.org/pdf/2610.30320) | rule-assigned |
 | 2026-10-17 | Gen2Dex: Learning Dexterous Manipulation from Simulation-Initialized Generated Video Demonstrations | Xiaowen Qiu, Yian Wang, Haoxiang You, Chuang Gan | [Abstract](https://arxiv.org/abs/2610.24392) · [PDF](https://arxiv.org/pdf/2610.24392) | rule-assigned |
 | 2026-10-13 | FACT: A Multimodal Force-Action-Track Foundation Model for Human-to-Robot Dexterity | Zhi Cao, Yining Hong, Jiaolong Yang, Yejin Choi et al. | [Abstract](https://arxiv.org/abs/2610.19155) · [PDF](https://arxiv.org/pdf/2610.19155) | rule-assigned |
@@ -201,7 +204,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-05 | Human Demonstrations are Generalizable Knowledge for Robots | Te Cui, Tianxing Zhou, Zicai Peng, Mengxiao Hu et al. | [Abstract](https://arxiv.org/abs/2312.02419) · [PDF](https://arxiv.org/pdf/2312.02419) | rule-assigned |
 | 2023-11-09 | SynH2R: Synthesizing Hand-Object Motions for Learning Human-to-Robot Handovers | Sammy Christen, Lan Feng, Wei Yang, Yu-Wei Chao et al. | [Abstract](https://arxiv.org/abs/2311.05599) · [PDF](https://arxiv.org/pdf/2311.05599) | rule-assigned |
 | 2023-11-04 | Constrained Equation Learner Networks for Precision-Preserving Extrapolation of Robotic Skills | Hector Perez-Villeda, Justus Piater, Matteo Saveriano | [Abstract](https://arxiv.org/abs/2311.02475) · [PDF](https://arxiv.org/pdf/2311.02475) | rule-assigned |
-| 2023-10-24 | TimewarpVAE: Simultaneous Time-Warping and Representation Learning of Trajectories | Travers Rhodes, Daniel D. Lee | [Abstract](https://arxiv.org/abs/2310.16027) · [PDF](https://arxiv.org/pdf/2310.16027) | rule-assigned |
 
 ---
 

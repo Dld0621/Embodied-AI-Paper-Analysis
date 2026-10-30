@@ -1,12 +1,12 @@
 # Flexible & Soft Objects · 柔性与软体物体
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation&specialty=Flexible%20%26%20Soft%20Objects#research-workbench)
 
-> 15 conference papers · 55 recent arXiv papers
+> 15 conference papers · 56 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -40,10 +40,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | ToolFlowNet: Robotic Manipulation with Tools via Predicting Tool Flow from Point Clouds | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2211.09006) · [Index](https://dblp.org/rec/conf/corl/SeitaWSLEH22) | rule-assigned |
 | 2022 | DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object Manipulations with Tools | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2203.17275) · [Index](https://dblp.org/rec/conf/iclr/LinHLTHG22) | rule-assigned |
 
-## Recent arXiv papers (55)
+## Recent arXiv papers (56)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | A Tutorial on Shape Servoing of Deformable Objects-Part I: Fundamentals | Ignacio Cuiral-Zueco, Alessio Caporali, Miguel Aranda, Gianluca Palli et al. | [Abstract](https://arxiv.org/abs/2610.40559) · [PDF](https://arxiv.org/pdf/2610.40559) | rule-assigned |
 | 2026-10-16 | DefFlow: Goal-Conditioned Deformable Object Manipulation using 3D Point Flows | Gaurav Singh, Sergio Orozco, Ryan Duong, Mete Tuluhan Akbulut et al. | [Abstract](https://arxiv.org/abs/2610.22827) · [PDF](https://arxiv.org/pdf/2610.22827) | rule-assigned |
 | 2026-10-13 | Physical-Field-Bridged Material Parameter Inference from Multi-View Deformation Videos | Linrui Shou, Jie Li, Yu Liu, Tao Huang | [Abstract](https://arxiv.org/abs/2610.17591) · [PDF](https://arxiv.org/pdf/2610.17591) | rule-assigned |
 | 2026-10-09 | Refine Where It Matters: Contact-Adaptive Meshing for Deformable Object Manipulation | Gabriel Johnson, Tom Olesch, Fei Liu | [Abstract](https://arxiv.org/abs/2610.14142) · [PDF](https://arxiv.org/pdf/2610.14142) | rule-assigned |

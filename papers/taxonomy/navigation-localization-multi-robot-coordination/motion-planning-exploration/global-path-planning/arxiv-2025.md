@@ -1,12 +1,12 @@
 # Global Path Planning · 全局路径规划 · arXiv 2025
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 465 papers · complete list for this taxonomy leaf
+> 464 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@
 | 2025-12-25 | Structural Induced Exploration for Balanced and Scalable Multi-Robot Path Planning | Zikun Guo, Adeyinka P. Adedigba, Rammohan Mallipeddi, Heoncheol Lee | [Abstract](https://arxiv.org/abs/2512.21654) · [PDF](https://arxiv.org/pdf/2512.21654) | rule-assigned |
 | 2025-12-24 | Safe Path Planning and Observation Quality Enhancement Strategy for Unmanned Aerial Vehicles in Water Quality Monitoring Tasks | Yuanshuang Fu, Qianyao Wang, Qihao Wang, Bonan Zhang et al. | [Abstract](https://arxiv.org/abs/2512.21375) · [PDF](https://arxiv.org/pdf/2512.21375) | rule-assigned |
 | 2025-12-22 | Results of the 2024 CommonRoad Motion Planning Competition for Autonomous Vehicles | Yanliang Huang, Xia Yan, Peiran Yin, Zhenduo Zhang et al. | [Abstract](https://arxiv.org/abs/2512.19564) · [PDF](https://arxiv.org/pdf/2512.19564) | rule-assigned |
-| 2025-12-22 | Collaborative Continuum Robots: A Survey | Xinyu Li, Qian Tang, Guoxin Yin, Gang Zheng et al. | [Abstract](https://arxiv.org/abs/2601.10721) · [PDF](https://arxiv.org/pdf/2601.10721) | rule-assigned |
+| 2025-12-22 | Collaborative Continuum Robots: A Survey from an Automation-System Perspective | Xinyu Li, Qian Tang, Guoxin Yin, Gang Zheng et al. | [Abstract](https://arxiv.org/abs/2601.10721) · [PDF](https://arxiv.org/pdf/2601.10721) | rule-assigned |
 | 2025-12-19 | Optimized Scheduling and Positioning of Mobile Manipulators in Collaborative Applications | Christian Cella, Sole Ester Sonnino, Marco Faroni, Andrea Zanchettin et al. | [Abstract](https://arxiv.org/abs/2512.17584) · [PDF](https://arxiv.org/pdf/2512.17584) | rule-assigned |
 | 2025-12-19 | A Dual Quaternion based RRT* Path Planning Approach for Satellite Rendezvous and Docking | Ana Stankovic, Mohamed Khalil Ben-Larbi, Wolfgang H. Müller | [Abstract](https://arxiv.org/abs/2512.17680) · [PDF](https://arxiv.org/pdf/2512.17680) | rule-assigned |
 | 2025-12-16 | Interactive Motion Planning for Human-Robot Collaboration Based on Human-Centric Configuration Space Ergonomic Field | Chenzui Li, Yiming Chen, Xi Wu, Tao Teng et al. | [Abstract](https://arxiv.org/abs/2512.14111) · [PDF](https://arxiv.org/pdf/2512.14111) | rule-assigned |
@@ -45,7 +45,6 @@
 | 2025-11-22 | Time-aware Motion Planning in Dynamic Environments with Conformal Prediction | Kaier Liang, Licheng Luo, Yixuan Wang, Mingyu Cai et al. | [Abstract](https://arxiv.org/abs/2511.18170) · [PDF](https://arxiv.org/pdf/2511.18170) | rule-assigned |
 | 2025-11-21 | Vector Cost Behavioral Planning for Autonomous Robotic Systems with Contemporary Validation Strategies | Benjamin R. Toaz, Quentin Goss, John Thompson, Seta Boğosyan et al. | [Abstract](https://arxiv.org/abs/2511.17375) · [PDF](https://arxiv.org/pdf/2511.17375) | rule-assigned |
 | 2025-11-21 | MDG: Masked Denoising Generation for Multi-Agent Behavior Modeling in Traffic Environments | Zhiyu Huang, Zewei Zhou, Tianhui Cai, Yun Zhang et al. | [Abstract](https://arxiv.org/abs/2511.17496) · [PDF](https://arxiv.org/pdf/2511.17496) | rule-assigned |
-| 2025-11-21 | IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation | Yifan Li, Lichi Li, Anh Dao, Xinyu Zhou et al. | [Abstract](https://arxiv.org/abs/2511.17384) · [PDF](https://arxiv.org/pdf/2511.17384) | rule-assigned |
 | 2025-11-20 | A*-based Temporal Logic Path Planning with User Preferences on Relaxed Task Satisfaction | Disha Kamale, Xi Yu, Cristian-Ioan Vasile | [Abstract](https://arxiv.org/abs/2511.16844) · [PDF](https://arxiv.org/pdf/2511.16844) | rule-assigned |
 | 2025-11-19 | Strong Duality and Dual Ascent Approach to Continuous-Time Chance-Constrained Stochastic Optimal Control | Apurva Patil, Alfredo Duarte, Fabrizio Bisetti, Takashi Tanaka | [Abstract](https://arxiv.org/abs/2511.19451) · [PDF](https://arxiv.org/pdf/2511.19451) | rule-assigned |
 | 2025-11-19 | RRT*former: Environment-Aware Sampling-Based Motion Planning using Transformer | Mingyang Feng, Shaoyuan Li, Xiang Yin | [Abstract](https://arxiv.org/abs/2511.15414) · [PDF](https://arxiv.org/pdf/2511.15414) | rule-assigned |

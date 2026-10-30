@@ -1,12 +1,12 @@
 # Interactive Imitation & Correction · 交互式模仿与纠错
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Imitation%20Learning&specialty=Interactive%20Imitation%20%26%20Correction#research-workbench)
 
-> 2 conference papers · 20 recent arXiv papers
+> 2 conference papers · 19 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,7 +27,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Model-Based Runtime Monitoring with Interactive Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2310.17552) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611038) | rule-assigned |
 | 2022 | Eliciting Compatible Demonstrations for Multi-Human Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2210.08073) · [Index](https://dblp.org/rec/journals/corr/abs-2210-08073) | rule-assigned |
 
-## Recent arXiv papers (20)
+## Recent arXiv papers (19)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -50,7 +50,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-09-09 | Interactive incremental learning of generalizable skills with local trajectory modulation | Markus Knauer, Alin Albu-Schäffer, Freek Stulp, João Silvério | [Abstract](https://arxiv.org/abs/2409.05655) · [PDF](https://arxiv.org/pdf/2409.05655) | rule-assigned |
 | 2024-06-24 | MEReQ: Max-Ent Residual-Q Inverse RL for Sample-Efficient Alignment from Intervention | Yuxin Chen, Chen Tang, Jianglan Wei, Chenran Li et al. | [Abstract](https://arxiv.org/abs/2406.16258) · [PDF](https://arxiv.org/pdf/2406.16258) | rule-assigned |
 | 2024-02-21 | Leveraging Demonstrator-perceived Precision for Safe Interactive Imitation Learning of Clearance-limited Tasks | Hanbit Oh, Takamitsu Matsubara | [Abstract](https://arxiv.org/abs/2402.13466) · [PDF](https://arxiv.org/pdf/2402.13466) | rule-assigned |
-| 2023-10-26 | Model-Based Runtime Monitoring with Interactive Imitation Learning | Huihan Liu, Shivin Dass, Roberto Martín-Martín, Yuke Zhu | [Abstract](https://arxiv.org/abs/2310.17552) · [PDF](https://arxiv.org/pdf/2310.17552) | rule-assigned |
 
 ---
 

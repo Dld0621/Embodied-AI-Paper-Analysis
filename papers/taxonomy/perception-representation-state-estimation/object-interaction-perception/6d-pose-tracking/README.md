@@ -1,12 +1,12 @@
 # 6D Pose & Tracking · 六维姿态与跟踪
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Object%20%26%20Interaction%20Perception&specialty=6D%20Pose%20%26%20Tracking#research-workbench)
 
-> 38 conference papers · 202 recent arXiv papers
+> 38 conference papers · 203 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -63,10 +63,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Simultaneous Contact Location and Object Pose Estimation Using Proprioception and Tactile Feedback | IROS · Tactile | [Paper](https://arxiv.org/pdf/2206.01245) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981762) | rule-assigned |
 | 2022 | SLAM-Supported Self-Training for 6D Object Pose Estimation | IROS · Object Pose | [Paper](https://arxiv.org/pdf/2203.04424) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981145) | rule-assigned |
 
-## Recent arXiv papers (202)
+## Recent arXiv papers (203)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-27 | Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well | Ian Chuang, Hiya Shah, Vamsi Chilamkur, Iman Soltani et al. | [Abstract](https://arxiv.org/abs/2610.37652) · [PDF](https://arxiv.org/pdf/2610.37652) | rule-assigned |
+| 2026-10-27 | Polarity--Time Interaction and Multi-Level Reliability for Event-Based Spacecraft Pose Estimation | Yonglong Zhang, Zongwu Xie, Yang Liu | [Abstract](https://arxiv.org/abs/2610.36625) · [PDF](https://arxiv.org/pdf/2610.36625) | rule-assigned |
 | 2026-10-20 | RoPT: Robust 6DoF Object Pose Tracking in Video | Yongqing Liang, Yuzhong Chen, Sihang Li, Junsuk Kim et al. | [Abstract](https://arxiv.org/abs/2610.28962) · [PDF](https://arxiv.org/pdf/2610.28962) | rule-assigned |
 | 2026-10-15 | Uni-PNP: Unified Prehensile and Non-prehensile Policy Learning for Generalizable Object Pose Reaching | Wenxuan Zhu, Yuze Wang, Jiangran Lyu, Jiayi Chen et al. | [Abstract](https://arxiv.org/abs/2610.21735) · [PDF](https://arxiv.org/pdf/2610.21735) | rule-assigned |
 | 2026-10-15 | CLAD: Keypoint Matching Using Global Line Correspondences | Masaki Satoh | [Abstract](https://arxiv.org/abs/2610.21409) · [PDF](https://arxiv.org/pdf/2610.21409) | rule-assigned |
@@ -90,7 +92,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-29 | PS-MOT: Cultivating Instance Awareness from Point Seeds for Multi-Object Tracking | Kai Luo, Fei Teng, Mengfei Duan, Wanjun Jia et al. | [Abstract](https://arxiv.org/abs/2606.30476) · [PDF](https://arxiv.org/pdf/2606.30476) | rule-assigned |
 | 2026-06-29 | MF-UAVPose6D: A Model-Free Monocular 6-DoF Pose Estimation Framework for Fixed-Wing UAVs | Juanqin Liu, Leonardo Plotegher, Eloy Roura, Shaoming He | [Abstract](https://arxiv.org/abs/2606.29697) · [PDF](https://arxiv.org/pdf/2606.29697) | rule-assigned |
 | 2026-06-29 | FalconTrack: Photorealistic Auto-Labeled Perception and Physics-Aware Vision-Based Aerial Tracking | Yan Miao, Karteek Gandiboyina, Noah Giles, Hideki Okamoto et al. | [Abstract](https://arxiv.org/abs/2606.29783) · [PDF](https://arxiv.org/pdf/2606.29783) | rule-assigned |
-| 2026-06-29 | CylindTrack: Depth-Aware Cylindrical Motion Modeling for Panoramic Multi-Object Tracking | Buyin Deng, Kai Luo, Lingxin Huang, Xinqi Liu et al. | [Abstract](https://arxiv.org/abs/2606.30097) · [PDF](https://arxiv.org/pdf/2606.30097) | rule-assigned |
+| 2026-06-29 | CylindTrack: Depth-Aware Cylindrical Motion Modeling for Panoramic Multi-Object Tracking in Mobile Robots | Buyin Deng, Kai Luo, Lingxin Huang, Xinqi Liu et al. | [Abstract](https://arxiv.org/abs/2606.30097) · [PDF](https://arxiv.org/pdf/2606.30097) | rule-assigned |
 | 2026-06-27 | You Only Touch Once: 6-DoF Object Pose Estimation from Single Tactile Contact | Pengfei Ye, Yuxiang Ma, Haonan Chen, Guangming Wang et al. | [Abstract](https://arxiv.org/abs/2606.28899) · [PDF](https://arxiv.org/pdf/2606.28899) | rule-assigned |
 | 2026-06-22 | Flow6D: Discrete-to-Continuous Flow Matching for Efficient and Accurate Category-Level 6D Pose Estimation | Mingyu Mei, Li Zhang, Zibo Dai, Han Sun et al. | [Abstract](https://arxiv.org/abs/2606.23293) · [PDF](https://arxiv.org/pdf/2606.23293) | rule-assigned |
 | 2026-06-16 | SPARK: Low Latency Single-Camera 3D Pose Estimation for Autonomous Racing using Keypoints | Dominic Ebner, Markus Lienkamp | [Abstract](https://arxiv.org/abs/2606.17936) · [PDF](https://arxiv.org/pdf/2606.17936) | rule-assigned |
@@ -268,7 +270,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-06 | Obstacle- and Occlusion-Responsive Visual Tracking Control for Redundant Manipulators using Reachability Measure | Mincheul Kang, Junhyoung Ha | [Abstract](https://arxiv.org/abs/2311.03029) · [PDF](https://arxiv.org/pdf/2311.03029) | rule-assigned |
 | 2023-11-05 | Fast Point Cloud to Mesh Reconstruction for Deformable Object Tracking | Elham Amin Mansour, Hehui Zheng, Robert K. Katzschmann | [Abstract](https://arxiv.org/abs/2311.02749) · [PDF](https://arxiv.org/pdf/2311.02749) | rule-assigned |
 | 2023-10-30 | CARPE-ID: Continuously Adaptable Re-identification for Personalized Robot Assistance | Federico Rollo, Andrea Zunino, Nikolaos Tsagarakis, Enrico Mingo Hoffman et al. | [Abstract](https://arxiv.org/abs/2310.19413) · [PDF](https://arxiv.org/pdf/2310.19413) | rule-assigned |
-| 2023-10-25 | Real-time 6-DoF Pose Estimation by an Event-based Camera using Active LED Markers | Gerald Ebmer, Adam Loch, Minh Nhat Vu, Germain Haessig et al. | [Abstract](https://arxiv.org/abs/2310.16618) · [PDF](https://arxiv.org/pdf/2310.16618) | rule-assigned |
 
 ---
 

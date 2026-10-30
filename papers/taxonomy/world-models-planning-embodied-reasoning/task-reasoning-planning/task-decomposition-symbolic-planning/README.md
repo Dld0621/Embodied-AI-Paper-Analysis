@@ -1,12 +1,12 @@
 # Task Decomposition & Symbolic Planning · 任务分解与符号规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Task%20Reasoning%20%26%20Planning&specialty=Task%20Decomposition%20%26%20Symbolic%20Planning#research-workbench)
 
-> 47 conference papers · 228 recent arXiv papers
+> 47 conference papers · 231 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -72,10 +72,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Robot Skill Learning with Identification of Preconditions and Postconditions via Level Set Estimation | IROS · Skill Learning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981933) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981933) | rule-assigned |
 | 2022 | Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement | IROS · Object Rearrangement | [Paper](https://arxiv.org/pdf/2207.08078) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981715) | rule-assigned |
 
-## Recent arXiv papers (228)
+## Recent arXiv papers (231)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | ProLoop: Progress-Aware Closed-Loop Framework via Structured State Relations for Long-Horizon Robotic Task Planning | Runxin Zou, Qingmiao Liang, Jiatao Zhang, Xinyan Lv et al. | [Abstract](https://arxiv.org/abs/2610.39319) · [PDF](https://arxiv.org/pdf/2610.39319) | rule-assigned |
+| 2026-10-29 | EmbodiExp: Compositional Experience Transfer for Embodied Agents | Zhifeng Gu, Ying Chen, Rui Jiang, Lei Yi et al. | [Abstract](https://arxiv.org/abs/2610.39180) · [PDF](https://arxiv.org/pdf/2610.39180) | rule-assigned |
+| 2026-10-26 | FISRF: Flexible Instructional Scaffolding Reflection Framework for Robotics Task Planning with Large Language Model | Qingmiao Liang, Jiatao Zhang, Runxin Zou, Yufan Song et al. | [Abstract](https://arxiv.org/abs/2610.35686) · [PDF](https://arxiv.org/pdf/2610.35686) | rule-assigned |
 | 2026-10-20 | SLoSa: Small, Low-Power, and Safe Foundation Models for Robotic Task Planning | Weizhe Xu, Jialiang Fan, Essien Taylor, Zijun Wang et al. | [Abstract](https://arxiv.org/abs/2610.28955) · [PDF](https://arxiv.org/pdf/2610.28955) | rule-assigned |
 | 2026-10-13 | APTree: Extended Behavior Trees for Adaptive and Scalable Automated Robotic Task Planning in Construction | Shermin Sherkat, Thomas Wortmann, Andreas Wortmann | [Abstract](https://arxiv.org/abs/2610.18523) · [PDF](https://arxiv.org/pdf/2610.18523) | rule-assigned |
 | 2026-10-08 | SafeInferCom: Safe Inference-Time Compute via Verifier-Guided Mid-Generation Intervention for Robotic Task Planning | Weizhe Xu, Jialiang Fan, Mengyu Liu, Fanxin Kong | [Abstract](https://arxiv.org/abs/2610.11223) · [PDF](https://arxiv.org/pdf/2610.11223) | rule-assigned |

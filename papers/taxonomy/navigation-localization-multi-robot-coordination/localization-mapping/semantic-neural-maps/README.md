@@ -1,7 +1,7 @@
 # Semantic & Neural Maps · 语义与神经地图
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Semantic%20%26%20Neural%20Maps#research-workbench)
@@ -52,7 +52,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | EVSMap: An Efficient Volumetric-Semantic Mapping Approach for Embedded Systems | IROS · Semantic Mapping | [Paper](https://doi.org/10.1109/IROS58592.2024.10801849) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801849) | rule-assigned |
 | 2024 | IN-Sight: Interactive Navigation through Sight | IROS · Navigation | [Paper](https://arxiv.org/abs/2408.00343) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801928) | rule-assigned |
 | 2024 | Volumetric Mapping with Panoptic Refinement using Kernel Density Estimation for Mobile Robots | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2412.11241) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802224) | rule-assigned |
-| 2024 | Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation | RSS · 3D Scene | [Paper](https://arxiv.org/pdf/2403.17846) · [Publisher](https://doi.org/10.15607/RSS.2024.XX.077) | rule-assigned |
+| 2024 | Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation | RSS · 3D Scene | [Paper](https://doi.org/10.15607/rss.2024.xx.077) · [Publisher](https://doi.org/10.15607/RSS.2024.XX.077) | rule-assigned |
 | 2023 | Learning Navigational Visual Representations with Semantic Map Supervision | ICCV · Navigation | [Paper](https://arxiv.org/pdf/2307.12335) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.00284) | rule-assigned |
 | 2023 | Multi-label affordance mapping from egocentric vision | ICCV · Affordance | [Paper](https://arxiv.org/pdf/2309.02120) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.00483) | rule-assigned |
 | 2023 | A real-time dynamic obstacle tracking and mapping system for UAV navigation and collision avoidance with an RGB-D camera | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2209.08258) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161194) | rule-assigned |
@@ -76,6 +76,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-26 | SPECOLA: A Tool for Specification Driven Robot Evaluation | Immanuel Ampomah Mensah, Hadas Kress-Gazit | [Abstract](https://arxiv.org/abs/2610.35730) · [PDF](https://arxiv.org/pdf/2610.35730) | rule-assigned |
 | 2026-10-22 | Point-Level Refinable Semantic Mapping for Spatial Understanding | Taimeng Fu, Yi Du, Zitong Zhan, Qiwei Du et al. | [Abstract](https://arxiv.org/abs/2610.31476) · [PDF](https://arxiv.org/pdf/2610.31476) | rule-assigned |
 | 2026-10-22 | OASIS: Online Anchor-centric Scene Inference System for Open-Vocabulary Retrieval and Navigation in Dynamic Environments | Kaiyao Liao, Qingfeng Li, Chen Chen, Xiaoze Wu et al. | [Abstract](https://arxiv.org/abs/2610.30589) · [PDF](https://arxiv.org/pdf/2610.30589) | rule-assigned |
 | 2026-10-14 | Tiered-Resolution Volumetric Mapping for Real-Time Simultaneous Planning and Mapping on Natural Outdoor Environments | Afonso E. Carvalho, David Portugal, Paulo Peixoto, George Kantor | [Abstract](https://arxiv.org/abs/2610.20476) · [PDF](https://arxiv.org/pdf/2610.20476) | rule-assigned |
@@ -439,7 +440,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-08 | An Efficient Probabilistic Solution to Mapping Errors in LiDAR-Camera Fusion for Autonomous Vehicles | Dan Shen, Zhengming Zhang, Renran Tian, Yaobin Chen et al. | [Abstract](https://arxiv.org/abs/2311.04410) · [PDF](https://arxiv.org/pdf/2311.04410) | rule-assigned |
 | 2023-11-07 | Interactive Semantic Map Representation for Skill-based Visual Object Navigation | Tatiana Zemskova, Aleksei Staroverov, Kirill Muravyev, Dmitry Yudin et al. | [Abstract](https://arxiv.org/abs/2311.04107) · [PDF](https://arxiv.org/pdf/2311.04107) | rule-assigned |
 | 2023-11-01 | nvblox: GPU-Accelerated Incremental Signed Distance Field Mapping | Alexander Millane, Helen Oleynikova, Emilie Wirbel, Remo Steiner et al. | [Abstract](https://arxiv.org/abs/2311.00626) · [PDF](https://arxiv.org/pdf/2311.00626) | rule-assigned |
-| 2023-10-24 | ConvBKI: Real-Time Probabilistic Semantic Mapping Network with Quantifiable Uncertainty | Joey Wilson, Yuewei Fu, Joshua Friesen, Parker Ewen et al. | [Abstract](https://arxiv.org/abs/2310.16020) · [PDF](https://arxiv.org/pdf/2310.16020) | rule-assigned |
 
 ---
 

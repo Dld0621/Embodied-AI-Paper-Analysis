@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-30",
   "window": {
     "start": 2022,
     "end": 2026
@@ -4638,7 +4638,7 @@
       "track": "Data, Simulation & Evaluation",
       "topic": "Benchmark",
       "abstract": "Brain–computer interfaces (BCIs) provide a hands-free control modality for mobile robotics, yet decoding user intent during real-world navigation remains challenging. This work presents a brain–robot control framework for offline decoding of driving commands during robotic rover operation. A 4WD Rover Pro platform was remotely operated by 12 participants who navigated a predefined route using a joystick, executing the following commands: forward, reverse, left, right, and stop. Electroencephalogram (EEG) signals were recorded with a 16-channel OpenBCI cap and aligned with motor actions at ∆ = 0 ms and eight future prediction horizons (∆ > 0 ms). After data preprocessing, eleven deep learning (DL) models were benchmarked for the task of intent classification, across the Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), and Transformer architectural families. ShallowConvNet achieved the highest performance for both action prediction (F1-score 67% at ∆ = 0 ms) and intent prediction (F1-score 66% at ∆ = 300 ms), maintaining robust performance at future horizons. By combining real-world robotic control with multi-horizon EEG intention decoding, this study introduces a reproducible benchmark and reveals key design insights for predictive, DL-based BCI systems.",
-      "paper_url": "https://doi.org/10.1109/ICRA57385.2026.11696100",
+      "paper_url": "https://arxiv.org/pdf/2602.20041",
       "official_url": "https://doi.org/10.1109/ICRA57385.2026.11696100",
       "source_type": "publisher",
       "discovery_source": "Semantic Scholar bulk API",
@@ -10166,7 +10166,7 @@
       "track": "Navigation, Localization & Multi-robot Coordination",
       "topic": "Benchmark",
       "abstract": "In the context of asset inspection, the size of the environment to be covered can be large. Mobile robotic systems are capable of acquiring more extensive data than static sensors, but the capacity of the robotic platform used can be limited by its autonomy and sensing capabilities. This is why multi-robot systems are interesting in such applications. However, scaling up to larger robot team sizes requires coordination among robots to be carried out efficiently. In this work, we investigate a hybrid coordination strategy with a team of micro-aerial vehicles, where a ground station centrally assigns tasks in real time to the robots, and the robots distributively coordinate their trajectories to carry out the coverage of a known asset. In particular, we perform the benchmarking and experimental validation of such a strategy. Several variants of the strategy are implemented by adapting existing state-of-the-art solutions to this context. Extensive simulation experiments are carried out in various environments to benchmark each variant and evaluate how their performance scales with the robot team size. The results show that the strategy scales well for larger robot teams, thanks to its efficient task generation process. Notably, despite its relatively simple but efficient task generation technique, it outperforms or is comparable to other methods employing more complex schemes (such as information gain or frontiers). Finally, we validated the proposed strategy with teams of up to three robots in physical experiments.",
-      "paper_url": "https://infoscience.epfl.ch/handle/20.500.14299/263908",
+      "paper_url": "https://infoscience.epfl.ch/bitstreams/e0144670-0603-4ca4-863a-54f171bce43a/download",
       "official_url": "https://doi.org/10.1109/ICRA57385.2026.11695883",
       "source_type": "publisher",
       "discovery_source": "Semantic Scholar bulk API",
@@ -15221,7 +15221,7 @@
       "track": "Policy Learning & Embodied Foundation Models",
       "topic": "Dexterous",
       "abstract": "Achieving human-like dexterous manipulation is essential for general-purpose robots but remains a challenge. Recent advances in Vision-Language-Action (VLA) models offer the potential to learn flexible skills from demonstration data. However, training effective VLAs requires a large amount of high-quality data, which is difficult to obtain: fully manual teleoperation cognitively overloads human operators, while automated planning produces unnatural motions and lacks data diversity. We present a Shared Autonomy framework: a human operator teleoperates the arm for global motion, while an autonomous DexGrasp-VLA policy, as an AI Copilot, generates force-adaptive actions for a five-finger hand with tactile feedback – drastically reducing human effort and enabling efficient collection of high-quality demonstrations. Using these data, we train an end-to-end VLA policy with a novel Arm-Hand Feature Enhancement module – shared representations are conjunct with separate arm and hand latent features, representing the distinct dynamics of macro and micro movements, leading to more robust and natural coordination of arm-hand motions. Our Corrective Teleoperation can further refine the policy with failure-recovery demonstrations via human intervention. Experiments show our approach efficiently generates high-quality data and learns policies with a high success rate and natural behaviors. The trained arm-hand VLA policy is effectively generalized to both seen and unseen objects, with a success rate of around 90% in more than 50 diverse objects.",
-      "paper_url": "https://doi.org/10.1109/ICRA57385.2026.11697534",
+      "paper_url": "https://discovery.ucl.ac.uk/id/eprint/10232454/1/DexVLA___ICRA_2026%20submission%20version.pdf",
       "official_url": "https://doi.org/10.1109/ICRA57385.2026.11697534",
       "source_type": "publisher",
       "discovery_source": "Semantic Scholar bulk API",
@@ -16413,7 +16413,7 @@
       "track": "Robot Hardware & Systems",
       "topic": "Manipulation",
       "abstract": "Object manipulation is a fundamental challenge in robotics, where systems must balance trade-offs among manipulation capabilities, system complexity, and throughput. Distributed manipulator systems (DMS) use the coordinated motion of actuator arrays to perform complex object manipulation tasks, seeing widespread exploration within the literature and in industry. However, existing DMS designs typically rely on high actuator densities and impose constraints on object-to-actuator scale ratios, limiting their adaptability. We present a novel DMS design utilizing an array of 3-DoF, origami-inspired robotic tiles interconnected by a compliant surface layer. Unlike conventional DMS, our approach enables manipulation not only at the actuator end effectors but also across a flexible surface connecting all actuators; creating a continuous, controllable manipulation surface. We analyse the combined workspace of such a system, derive simple motion primitives, and demonstrate its capabilities to translate simple geometric objects across an array of tiles. By leveraging the inter-tile connective material, our approach significantly reduces actuator density, increasing the area over which an object can be manipulated by approximately ×1.84 without an increase in the number of actuators. This design offers a lower cost and complexity alternative to traditional high-density arrays and introduces new opportunities for manipulation strategies that leverage the flexibility of the interconnected surface.",
-      "paper_url": "https://arxiv.org/pdf/2509.13998",
+      "paper_url": "https://pure.itu.dk/portal/da/publications/9718d4de-877d-4078-88e1-303ed0ac2719",
       "official_url": "https://doi.org/10.1109/ICRA57385.2026.11696072",
       "source_type": "publisher",
       "discovery_source": "Semantic Scholar bulk API",
@@ -16439,7 +16439,7 @@
       "track": "Robot Hardware & Systems",
       "topic": "Locomotion",
       "abstract": "A quadruped robot is a promising system that can offer assistance comparable to that of guide dogs due to its similar form factor. However, various challenges remain in making these robots a reliable option for blind and low-vision (BLV) individuals. Among these challenges, noise and jerky motion during walking are critical drawbacks of existing quadruped robots. While these issues have largely been overlooked in guide dog robot research, our interviews with guide dog handlers and trainers revealed that acoustic and physical disturbances can be particularly disruptive for BLV individuals, who rely heavily on environmental sounds for navigation. To address these issues, we developed a novel walking controller for slow stepping and smooth foot swing/contact while maintaining human walking speed, as well as robust and stable balance control. The controller integrates with a perception system to facilitate locomotion over non-flat terrains, such as stairs. Our controller was extensively tested on the Unitree Go1 robot and, when compared with other control methods, demonstrated significant noise reduction – half of the default locomotion controller. To evaluate the usability, workload, and perceived noise of the developed system from a user’s perspective, we conducted indoor walking experiments. In these tests, participants compared our controller with the robot’s default controller. The results demonstrated higher user acceptance of our controller, highlighting its potential to improve the overall user experience of robotic guide dogs. Video demonstration (best viewed with audio) available at: https://guidedogrobot-stairclimbing.github.io.",
-      "paper_url": "https://arxiv.org/pdf/2505.11808",
+      "paper_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13663884/pdf/nihms-2202471.pdf",
       "official_url": "https://doi.org/10.1109/ICRA57385.2026.11696250",
       "source_type": "publisher",
       "discovery_source": "Semantic Scholar bulk API",
@@ -25563,9 +25563,13 @@
       "topic": "Manipulation",
       "abstract": "Effective generalization in robotic manipulation requires representations that capture invariant patterns of interaction across environments and tasks. We present a self-supervised framework for learning hierarchical manipulation concepts that encode these invariant patterns through cross-modal sensory correlations and multi-level temporal abstractions without requiring human annotation. Our approach combines a cross-modal correlation network that identifies persistent patterns across sensory modalities with a multi-horizon predictor that organizes representations hierarchically across temporal scales. Manipulation concepts learned through this dual structure enable policies to focus on transferable relational patterns while maintaining awareness of both immediate actions and longer-term goals. Empirical evaluation across simulated benchmarks and real-world deployments demonstrates significant performance improvements with our concept-enhanced policies. Analysis reveals that the learned concepts resemble human-interpretable manipulation primitives despite receiving no semantic supervision. This work advances both the understanding of representation learning for manipulation and provides a practical approach to enhancing robotic performance in complex scenarios.",
       "paper_url": "https://arxiv.org/abs/2510.11321",
-      "official_url": "https://dblp.org/rec/conf/nips/LiuZLSCSY25",
-      "source_type": "bibliographic",
-      "discovery_source": "Semantic Scholar bulk API",
+      "official_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/97a9a4de4337c7a0ef2b603ca0fa1d6a-Abstract-Conference.html",
+      "source_type": "official",
+      "discovery_source": "hand-verified seed",
+      "source_verified_on": "2026-10-30",
+      "verification_urls": [
+        "https://proceedings.neurips.cc/paper_files/paper/2025/hash/97a9a4de4337c7a0ef2b603ca0fa1d6a-Abstract-Conference.html"
+      ],
       "admission_track": "Manipulation & Imitation",
       "subcategory": "Grasping & Pick-place",
       "specialty": "Pending specialty review",
@@ -26912,7 +26916,7 @@
       "track": "Data, Simulation & Evaluation",
       "topic": "Simulator",
       "abstract": "Deep reinforcement learning (RL) often relies on simulators as abstract oracles to model interactions within complex environments. While differentiable simulators have recently emerged for multi-body robotic systems, they remain underutilized, despite their potential to provide richer information. This underutilization, coupled with the high computational cost of exploration-exploitation in high-dimensional state spaces, limits the practical application of RL in the real-world. We propose a method that integrates learning with differentiable simulators to enhance the efficiency of exploration-exploitation. Our approach learns value functions, state trajectories, and control policies from locally optimal runs of a model-based trajectory optimizer. The learned value function acts as a proxy to shorten the preview horizon, while approximated state and control policies guide the trajectory optimization. We benchmark our algorithm on three classical control problems and a torque-controlled 7 degree-of-freedom robot manipulator arm, demonstrating faster convergence and a more efficient symbiotic relationship between learning and simulation for end-to-end training of complex, poly-articulated systems.",
-      "paper_url": "https://doi.org/10.1109/ICRA55743.2025.11127746",
+      "paper_url": "https://hal.science/hal-05294931v1/document",
       "official_url": "https://doi.org/10.1109/ICRA55743.2025.11127746",
       "source_type": "publisher",
       "discovery_source": "Semantic Scholar bulk API",
@@ -60457,6 +60461,30 @@
       "related_taxonomy_paths": []
     },
     {
+      "title": "Demonstrating Event-Triggered Investigation and Sample Collection for Human Scientists using Field Robots and Large Foundation Models",
+      "year": 2024,
+      "venue": "RSS",
+      "track": "Arm & General Object Manipulation",
+      "topic": "Foundation Model",
+      "abstract": "—In this paper, we introduce a pioneering end-to-end system demonstrated on a team of robots and sensors, designed to augment scientific exploration and discovery for human scientists in remote or inaccessible environments. We demonstrate and analyse our system’s capability in a mock-up test-bed scenario. In this futuristic hypothetical scenario human scientists located in a controlled lunar habitat, are assisted by a team of robots in investigating an unknown seismic phenomena like moon-quakes or meteor impact detected by a sensor network deployed on the lunar surface. They do so by autonomously collecting data, providing contextual semantic information and collecting scientific sample for future analysis upon the direction of humans. This work is among the earliest to present a feasible way to integrate large foundational models (LFMs) into field robotic deployment, enabling easy semantic and contextual understanding of the objects in the environment and natural language-based interactions with the robot for the scientist. In addition we bring together state-of-the-art techniques in mapping, object detection, navigation, mobile manipulation, soft grippers, event detection and present details of the integration, insights and lessons learnt from the deployment. While demonstrated in a limited setting in a mock-up environment with ground robots, the system architecture and approach presented in this paper is easily generalised with domain-specific customised components and robots for a variety of event-driven scientific discoveries e",
+      "paper_url": "https://doi.org/10.15607/rss.2024.xx.017",
+      "official_url": "https://doi.org/10.15607/rss.2024.xx.017",
+      "source_type": "publisher",
+      "discovery_source": "Semantic Scholar bulk API",
+      "admission_track": "Foundation Models & VLA",
+      "subcategory": "Coordinated & Complex Manipulation",
+      "specialty": "Mobile Manipulation",
+      "taxonomy_evidence": "abstract:mobile manipulation",
+      "primary_evidence": "rule:contribution vocabulary",
+      "subcategory_status": "rule-supported",
+      "classification_status": "rule-assigned",
+      "method_tags": [],
+      "embodiment_tags": [],
+      "data_tags": [],
+      "related_topics": [],
+      "related_taxonomy_paths": []
+    },
+    {
       "title": "GRaCE: Balancing Multiple Criteria to Achieve Stable, Collision-Free, and Functional Grasps",
       "year": 2024,
       "venue": "RSS",
@@ -60601,7 +60629,7 @@
       "track": "Arm & General Object Manipulation",
       "topic": "Manipulation",
       "abstract": "Open-world generalization requires robotic systems to have a profound understanding of the physical world and the user command to solve diverse and complex tasks. While the recent advancement in vision-language models (VLMs) has offered unprecedented opportunities to solve open-world problems, how to leverage their capabilities to control robots remains a grand challenge. In this paper, we introduce Marking Open-world Keypoint Affordances (MOKA), an approach that employs VLMs to solve robotic manipulation tasks specified by free-form language instructions. Central to our approach is a compact point-based representation of affordance, which bridges the VLM's predictions on observed images and the robot's actions in the physical world. By prompting the pre-trained VLM, our approach utilizes the VLM's commonsense knowledge and concept understanding acquired from broad data sources to predict affordances and generate motions. To facilitate the VLM's reasoning in zero-shot and few-shot manners, we propose a visual prompting technique that annotates marks on images, converting affordance reasoning into a series of visual question-answering problems that are solvable by the VLM. We further explore methods to enhance performance with robot experiences collected by MOKA through in-context learning and policy distillation. We evaluate and analyze MOKA's performance on various table-top manipulation tasks including tool use, deformable body manipulation, and object rearrangement.",
-      "paper_url": "https://arxiv.org/abs/2403.03174",
+      "paper_url": "https://doi.org/10.15607/rss.2024.xx.062",
       "official_url": "https://doi.org/10.15607/rss.2024.xx.062",
       "source_type": "publisher",
       "discovery_source": "Semantic Scholar bulk API",
@@ -71168,7 +71196,7 @@
       "track": "Legged Locomotion & Whole-body Control",
       "topic": "Biped",
       "abstract": "Legged robots have achieved impressive feats in dynamic locomotion in challenging unstructured terrain. However, in entertainment applications, the design and control of these robots face additional challenges in appealing to human audiences. This work aims to unify expressive, artist-directed motions and robust dynamic mobility for legged robots. To this end, we introduce a new bipedal robot, designed with a focus on character-driven mechanical features. We present a reinforcement learning-based control architecture to robustly execute artistic motions conditioned on command signals. During runtime, these command signals are generated by an animation engine which composes and blends between multiple animation sources. Finally, an intuitive operator interface enables real-time show performances with the robot. The complete system results in a believable robotic character, and paves the way for enhanced human-robot engagement in various contexts, in entertainment robotics and beyond.",
-      "paper_url": "https://arxiv.org/pdf/2501.05204",
+      "paper_url": "https://doi.org/10.15607/rss.2024.xx.103",
       "official_url": "https://doi.org/10.15607/RSS.2024.XX.103",
       "source_type": "publisher",
       "discovery_source": "Semantic Scholar bulk API",
@@ -71475,7 +71503,7 @@
       "topic": "Imitation Learning",
       "abstract": "Online Imitation Learning struggles with the gap between extensive online exploration space and limited expert trajectories, hindering efficient exploration due to inaccurate reward estimation. Inspired by the findings from cognitive neuroscience, we hypothesize that an agent could estimate precise task-aware reward for efficient online exploration, through decomposing the target task into the objectives of\"what to do\"and the mechanisms of\"how to do\". In this work, we introduce the hybrid Key-state guided Online Imitation (KOI) learning method, which leverages the integration of semantic and motion key states as guidance for reward estimation. Initially, we utilize visual-language models to extract semantic key states from expert trajectory, indicating the objectives of\"what to do\". Within the intervals between semantic key states, optical flow is employed to capture motion key states to understand the mechanisms of\"how to do\". By integrating a thorough grasp of hybrid key states, we refine the trajectory-matching reward computation, accelerating online imitation learning with task-aware exploration. We evaluate not only the success rate of the tasks in the Meta-World and LIBERO environments, but also the trend of variance during online imitation learning, proving that our method is more sample efficient. We also conduct real-world robotic manipulation experiments to validate the efficacy of our method, demonstrating the practical applicability of our KOI method. Videos and code are available at https://gewu-lab.github.io/Keystate_Online_Imitation/.",
       "paper_url": "https://arxiv.org/abs/2408.02912",
-      "official_url": "https://dblp.org/rec/journals/corr/abs-2408-02912",
+      "official_url": "https://dblp.org/rec/conf/corl/LuX0000024",
       "source_type": "bibliographic",
       "discovery_source": "Semantic Scholar bulk API",
       "admission_track": "Manipulation & Imitation",
@@ -77622,7 +77650,7 @@
       "track": "Navigation, Localization & Multi-robot Coordination",
       "topic": "3D Scene",
       "abstract": "Recent open-vocabulary robot mapping methods enrich dense geometric maps with pre-trained visual-language features. While these maps allow for the prediction of point-wise saliency maps when queried for a certain language concept, large-scale environments and abstract queries beyond the object level still pose a considerable hurdle, ultimately limiting language-grounded robotic navigation. In this work, we present HOV-SG, a hierarchical open-vocabulary 3D scene graph mapping approach for language-grounded robot navigation. Leveraging open-vocabulary vision foundation models, we first obtain state-of-the-art open-vocabulary segment-level maps in 3D and subsequently construct a 3D scene graph hierarchy consisting of floor, room, and object concepts, each enriched with open-vocabulary features. Our approach is able to represent multi-story buildings and allows robotic traversal of those using a cross-floor Voronoi graph. HOV-SG is evaluated on three distinct datasets and surpasses previous baselines in open-vocabulary semantic accuracy on the object, room, and floor level while producing a 75% reduction in representation size compared to dense open-vocabulary maps. In order to prove the efficacy and generalization capabilities of HOV-SG, we showcase successful long-horizon language-conditioned robot navigation within real-world multi-storage environments. We provide code and trial video data at http://hovsg.github.io/.",
-      "paper_url": "https://arxiv.org/pdf/2403.17846",
+      "paper_url": "https://doi.org/10.15607/rss.2024.xx.077",
       "official_url": "https://doi.org/10.15607/RSS.2024.XX.077",
       "source_type": "publisher",
       "discovery_source": "Semantic Scholar bulk API",
@@ -81868,7 +81896,7 @@
       "track": "Policy Learning & Embodied Foundation Models",
       "topic": "Robotic Hand",
       "abstract": "We propose MetaEMG, a meta-learning approach for fast adaptation in intent inferral on a robotic hand orthosis for stroke. One key challenge in machine learning for assistive and rehabilitative robotics with disabled-bodied subjects is the difficulty of collecting labeled training data. Muscle tone and spasticity often vary significantly among stroke subjects, and hand function can even change across different use sessions of the device for the same subject. We investigate the use of metalearning to mitigate the burden of data collection needed to adapt high-capacity neural networks to a new session or subject. Our experiments on real clinical data collected from five stroke subjects show that MetaEMG can improve the intent inferral accuracy with a small session- or subject-specific dataset and very few fine-tuning epochs. To the best of our knowledge, we are the first to formulate intent inferral on stroke subjects as a meta-learning problem and demonstrate fast adaptation to a new session or subject for controlling a robotic hand orthosis with EMG signals.",
-      "paper_url": "https://arxiv.org/pdf/2403.13147",
+      "paper_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12323764/pdf/nihms-2039983.pdf",
       "official_url": "https://doi.org/10.1109/IROS58592.2024.10801596",
       "source_type": "publisher",
       "discovery_source": "Semantic Scholar bulk API",
@@ -120952,7 +120980,7 @@
       "track": "Robot Hardware & Systems",
       "topic": "Grasp",
       "abstract": "Robots using classical control have revolutionised assembly lines where the environment and manipulated objects are restricted and predictable. However, they have proven less effective when the manipulated objects are deformable due to their complex and unpredictable behaviour. The use of tactile sensors and continuous monitoring of tactile feedback is there-fore particularly important for pick-and-place tasks using these materials. This is in part due to the need to use multiple points of contact for the manipulation of deformable objects which can result in slippage with inadequate coordination between manipulators. In this paper, continuous monitoring of tactile feedback, using a liquid metal soft force sensor, for grasping deformable objects is presented. The trained data-driven model distinguishes between successful grasps, slippage and failure during a manipulation task for multiple deformable objects. Slippage could be anticipated before failure occurred using data acquired over a 30 ms period with a greater than 95% accuracy using a random forest classifier. The results were achieved using a single sensor that can be mounted on the fingertips of existing grippers and contributes to the development of an automated pick-and-place process for deformable objects.",
-      "paper_url": "https://infoscience.epfl.ch/handle/20.500.14299/192207",
+      "paper_url": "https://infoscience.epfl.ch/bitstreams/47b1a145-38bb-433b-ae3b-66dc9a0765f9/download",
       "official_url": "https://doi.org/10.1109/IROS47612.2022.9981174",
       "source_type": "publisher",
       "discovery_source": "Semantic Scholar bulk API",
@@ -121356,13 +121384,13 @@
     "classification": "Source admission uses scripts/sync_conference_census.py; all three organization levels and cross-topic tags use scripts/taxonomy.py and reviewed exceptions. admission_track preserves the discovery label.",
     "taxonomy_version": 4,
     "seed_policy": "Hand-verified records override discovered duplicates",
-    "snapshot_date": "2026-10-24",
+    "snapshot_date": "2026-10-30",
     "venue_discovery": {
       "RSS": {
-        "matched_records": 253,
-        "classified_records": 116,
-        "new_records": 109,
-        "included_records": 124
+        "matched_records": 256,
+        "classified_records": 117,
+        "new_records": 110,
+        "included_records": 125
       },
       "CoRL": {
         "matched_records": 505,
@@ -121371,7 +121399,7 @@
         "included_records": 282
       },
       "ICRA": {
-        "matched_records": 4864,
+        "matched_records": 4866,
         "classified_records": 2022,
         "new_records": 2022,
         "included_records": 2024
@@ -121397,7 +121425,7 @@
       "NeurIPS": {
         "matched_records": 455,
         "classified_records": 97,
-        "new_records": 95,
+        "new_records": 94,
         "included_records": 99
       },
       "CVPR": {
@@ -122298,7 +122326,7 @@
   },
   "taxonomy_counts": {
     "level_1": {
-      "Arm & General Object Manipulation": 1147,
+      "Arm & General Object Manipulation": 1148,
       "Data, Simulation & Evaluation": 360,
       "Dexterous Hands, Retargeting & Teleoperation": 268,
       "Legged Locomotion & Whole-body Control": 704,
@@ -122310,7 +122338,7 @@
     },
     "level_2": {
       "Arm & General Object Manipulation / Contact-rich Manipulation": 231,
-      "Arm & General Object Manipulation / Coordinated & Complex Manipulation": 139,
+      "Arm & General Object Manipulation / Coordinated & Complex Manipulation": 140,
       "Arm & General Object Manipulation / Deformable Object Manipulation": 54,
       "Arm & General Object Manipulation / Grasping & Pick-place": 723,
       "Data, Simulation & Evaluation / Benchmarks & Experimental Methods": 79,
@@ -122359,7 +122387,7 @@
       "Arm & General Object Manipulation / Contact-rich Manipulation / Tools & Articulated Objects": 35,
       "Arm & General Object Manipulation / Coordinated & Complex Manipulation / Dual-arm Collaboration": 47,
       "Arm & General Object Manipulation / Coordinated & Complex Manipulation / Long-horizon & Task-motion Planning": 32,
-      "Arm & General Object Manipulation / Coordinated & Complex Manipulation / Mobile Manipulation": 50,
+      "Arm & General Object Manipulation / Coordinated & Complex Manipulation / Mobile Manipulation": 51,
       "Arm & General Object Manipulation / Coordinated & Complex Manipulation / Pending specialty review": 10,
       "Arm & General Object Manipulation / Deformable Object Manipulation / Cloth & Garments": 22,
       "Arm & General Object Manipulation / Deformable Object Manipulation / Flexible & Soft Objects": 15,
@@ -122489,7 +122517,7 @@
       "World Models, Planning & Embodied Reasoning / World & Dynamics Modeling / Pending specialty review": 14
     },
     "classification_evidence": {
-      "abstract": 958,
+      "abstract": 959,
       "fallback": 953,
       "reviewed": 4,
       "title": 2448
@@ -122497,7 +122525,7 @@
     "review_status": {
       "needs-review": 1389,
       "reviewed": 3,
-      "rule-assigned": 2971
+      "rule-assigned": 2972
     }
   }
 }

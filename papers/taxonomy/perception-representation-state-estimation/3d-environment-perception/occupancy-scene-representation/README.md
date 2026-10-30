@@ -1,12 +1,12 @@
 # Occupancy & Scene Representation · 占据与场景表达
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=Occupancy%20%26%20Scene%20Representation#research-workbench)
 
-> 34 conference papers · 334 recent arXiv papers
+> 34 conference papers · 336 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -59,10 +59,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models | CoRL · Language Model | [Paper](https://arxiv.org/pdf/2207.11514) · [Index](https://dblp.org/rec/conf/corl/HaS22) | rule-assigned |
 | 2022 | Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization | RSS · 3D Scene | [Paper](https://arxiv.org/pdf/2201.13360) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.050) | rule-assigned |
 
-## Recent arXiv papers (334)
+## Recent arXiv papers (336)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | PriorMaskMap: Robust Online Vectorized Map Construction with Biased Priors | Haoming Xu, Wei Li, Yu Hu | [Abstract](https://arxiv.org/abs/2610.39283) · [PDF](https://arxiv.org/pdf/2610.39283) | rule-assigned |
+| 2026-10-25 | T-ConSG: A LiDAR-Based Real-Time Temporal Construction Scene Graph for Dynamic and Evolving Environments | Yilong Chen, Yong K. Cho | [Abstract](https://arxiv.org/abs/2610.34041) · [PDF](https://arxiv.org/pdf/2610.34041) | rule-assigned |
 | 2026-10-21 | OMAR: Open-World Multi-Attribute Reasoning for Scene-Conditioned Shelf Organization | Benedikt Kreis, Rohit Menon, Benno Wingender, Muhammad Ehsan Ullah et al. | [Abstract](https://arxiv.org/abs/2610.29761) · [PDF](https://arxiv.org/pdf/2610.29761) | rule-assigned |
 | 2026-10-21 | Failure Modes of Vision-Language Models for Human Activity Understanding in Thermal HRI | Han Hu, He Chen | [Abstract](https://arxiv.org/abs/2610.29244) · [PDF](https://arxiv.org/pdf/2610.29244) | rule-assigned |
 | 2026-10-20 | SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images | Rundong Luo, Yunong Liu, Di Cao, Matthew Tancik et al. | [Abstract](https://arxiv.org/abs/2610.28585) · [PDF](https://arxiv.org/pdf/2610.28585) | rule-assigned |

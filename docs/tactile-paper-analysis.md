@@ -1,7 +1,7 @@
 # Tactile and contact-rich manipulation · 触觉与接触操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 > Verified mini-map: 3 formally accepted papers from RSS 2024, RSS 2025, and CoRL 2025.

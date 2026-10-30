@@ -1,12 +1,12 @@
 # View Selection & Active Observation · 视角选择与主动观测
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=State%20Estimation%20%26%20Active%20Perception&specialty=View%20Selection%20%26%20Active%20Observation#research-workbench)
 
-> 10 conference papers · 63 recent arXiv papers
+> 10 conference papers · 65 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -35,10 +35,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Decentralised Active Perception in Continuous Action Spaces for the Coordinated Escort Problem | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2305.01869) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161026) | rule-assigned |
 | 2023 | Learning Continuous Control Policies for Information-Theoretic Active Perception | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2209.12427) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160455) | rule-assigned |
 
-## Recent arXiv papers (63)
+## Recent arXiv papers (65)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-28 | SpaceAct: Benchmarking 3D Spatial and Temporal Reasoning via Closed-Loop Action and Active Perception | Chenglong Shi, Zekai Yuan, Yue Song, Jon Pu et al. | [Abstract](https://arxiv.org/abs/2610.38405) · [PDF](https://arxiv.org/pdf/2610.38405) | rule-assigned |
+| 2026-10-22 | StackGen3D: Stable 3D Block Stack Generation from Multiview Silhouettes | Xiaopeng Zhang, Luzhe Sun, Yiqing Xu, Matthew R. Walter | [Abstract](https://arxiv.org/abs/2610.31803) · [PDF](https://arxiv.org/pdf/2610.31803) | rule-assigned |
 | 2026-10-15 | Illumination-Aware Active Perception for Spacecraft Inspection | Sagarika Rao Valluri, Benjamin Riviere | [Abstract](https://arxiv.org/abs/2610.22335) · [PDF](https://arxiv.org/pdf/2610.22335) | rule-assigned |
 | 2026-10-14 | Active Perception of Upper-Limb Functional Mobility through Human-Robot Handovers | Francesco Semeraro, Marta Lagomarsino, Alberto Ranavolo, Arash Ajoudani | [Abstract](https://arxiv.org/abs/2610.19896) · [PDF](https://arxiv.org/pdf/2610.19896) | rule-assigned |
 | 2026-10-13 | Receding-Horizon Next-Best-View Planning for Highly Occluded Target Perception | Ayse Gul Yildiz, Rekha Raja | [Abstract](https://arxiv.org/abs/2610.19082) · [PDF](https://arxiv.org/pdf/2610.19082) | rule-assigned |

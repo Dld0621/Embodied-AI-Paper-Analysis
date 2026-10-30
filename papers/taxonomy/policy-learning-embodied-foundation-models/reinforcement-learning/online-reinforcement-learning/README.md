@@ -1,12 +1,12 @@
 # Online Reinforcement Learning · 在线强化学习
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Reinforcement%20Learning&specialty=Online%20Reinforcement%20Learning#research-workbench)
 
-> 53 conference papers · 1,150 recent arXiv papers
+> 53 conference papers · 1,160 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -78,10 +78,23 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | How to Spend Your Robot Time: Bridging Kickstarting and Offline Reinforcement Learning for Vision-based Robotic Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2205.03353) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981126) | rule-assigned |
 | 2022 | Impact Makes a Sound and Sound Makes an Impact: Sound Guides Representations and Explorations | IROS · Exploration | [Paper](https://arxiv.org/pdf/2208.02680) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981510) | rule-assigned |
 
-## Recent arXiv papers (1,150)
+## Recent arXiv papers (1,160)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | Event2Reward: Learning Robotic Rewards from Progress Relations | Junnan Nie, Zitian Fan, Jiachen Zhang, Junyi Lao et al. | [Abstract](https://arxiv.org/abs/2610.39212) · [PDF](https://arxiv.org/pdf/2610.39212) | rule-assigned |
+| 2026-10-28 | Force-Driven Hook Disassembly via Constraint-Aware Object-Centric Reinforcement Learning | Nadeen Elhadad, Takuya Kiyokawa, Kensuke Harada | [Abstract](https://arxiv.org/abs/2610.38513) · [PDF](https://arxiv.org/pdf/2610.38513) | rule-assigned |
+| 2026-10-28 | CSO: Refining Robotic Policies via Skill Distribution Alignment and Skill-Grained Optimization | Zhiyuan Xiang, Xiang Deng, Wanjie Tao, Xu Chen et al. | [Abstract](https://arxiv.org/abs/2610.38357) · [PDF](https://arxiv.org/pdf/2610.38357) | rule-assigned |
+| 2026-10-27 | When, Where, and What to Correct: Human-Guided Adaptive Residual Correction for Robot Policies | Anukriti Singh, Maxime Caniot, Pratap Tokekar, Firas Abi-Farraj | [Abstract](https://arxiv.org/abs/2610.37547) · [PDF](https://arxiv.org/pdf/2610.37547) | rule-assigned |
+| 2026-10-27 | Learning from Relative Action Credit for Escaping Local Minima | Giovanni Minelli, Giulio Turrisi, Lorenzo Amatucci, Victor Barasuol et al. | [Abstract](https://arxiv.org/abs/2610.38034) · [PDF](https://arxiv.org/pdf/2610.38034) | rule-assigned |
+| 2026-10-27 | Echo: Scaling Visual Reinforcement Learning with Off-policy Experience | Gagan Khandate | [Abstract](https://arxiv.org/abs/2610.37865) · [PDF](https://arxiv.org/pdf/2610.37865) | rule-assigned |
+| 2026-10-26 | Enhancing Deep Reinforcement Learning for Robotic Motion Planning via Task Decomposition | Yuanzhi He, Victor Romero-Cano, Jiayu Xu, Juan David Hernández et al. | [Abstract](https://arxiv.org/abs/2610.35494) · [PDF](https://arxiv.org/pdf/2610.35494) | rule-assigned |
+| 2026-10-26 | DriveUniTok: A Unified Multimodal Tokenizer for Driving World-Action Models | Jingbo Xu, Hanchao Leng, JiaHui Huang, Hanbing Li et al. | [Abstract](https://arxiv.org/abs/2610.35044) · [PDF](https://arxiv.org/pdf/2610.35044) | rule-assigned |
+| 2026-10-26 | Behavioural Quality Is Not Learning Utility: Objective Mismatch in Human Behaviour Models for Robot Learning | Haoyang Jiang, Dana Kulic, Michael Burke, Pamela Carreno-Medrano | [Abstract](https://arxiv.org/abs/2610.34839) · [PDF](https://arxiv.org/pdf/2610.34839) | rule-assigned |
+| 2026-10-23 | TravSUITE: Traversability via Self-Supervised, Uncertainty-Aware IRL and Terrain Estimation | Samuel Triest, Amirreza Shaban, David D. Fan, Wenshan Wang et al. | [Abstract](https://arxiv.org/abs/2610.32130) · [PDF](https://arxiv.org/pdf/2610.32130) | rule-assigned |
+| 2026-10-23 | $R^2E:$ A Role-driven Reward Evolutionary Framework for Automated Reward Function Design | Shouhao Chang, Xuan Liu, Hongye Zhu, Xinning Chen et al. | [Abstract](https://arxiv.org/abs/2610.32439) · [PDF](https://arxiv.org/pdf/2610.32439) | rule-assigned |
+| 2026-10-22 | SEVI: Safe Evidential Real-World Reinforcement Learning | Shaekh Mohammad Shithil, Lantao Liu | [Abstract](https://arxiv.org/abs/2610.31829) · [PDF](https://arxiv.org/pdf/2610.31829) | rule-assigned |
+| 2026-10-22 | PrefO2O: Zero-Shot Preference-Based Reinforcement Learning via Offline-to-Online Latent Preference Transfer | Ruiqi Wang, Dezhong Zhao, Xuesu Xiao, Erdem Biyik et al. | [Abstract](https://arxiv.org/abs/2610.31812) · [PDF](https://arxiv.org/pdf/2610.31812) | rule-assigned |
 | 2026-10-21 | TerraTransfer++: Demonstration-Free End-to-End Planner | Zikang Xiong, Weixin Li, Zhouchonghao Wu, Akshay Rangesh et al. | [Abstract](https://arxiv.org/abs/2610.30319) · [PDF](https://arxiv.org/pdf/2610.30319) | rule-assigned |
 | 2026-10-21 | End-to-End Reinforcement Learning for Quadrupedal Jumping in Lunar Gravity | Levin Müller, Oliver Fischer, Marco Trentini, Yusuke Tanaka et al. | [Abstract](https://arxiv.org/abs/2610.29586) · [PDF](https://arxiv.org/pdf/2610.29586) | rule-assigned |
 | 2026-10-21 | DriveMLP: When Training Strategy Outperforms Model Complexity in Autonomous Driving | Alessandro Canevaro, Julian Schmidt, Hang Yu, Ye Jin et al. | [Abstract](https://arxiv.org/abs/2610.29676) · [PDF](https://arxiv.org/pdf/2610.29676) | rule-assigned |
@@ -1229,9 +1242,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-02 | Conformal Policy Learning for Sensorimotor Control Under Distribution Shifts | Huang Huang, Satvik Sharma, Antonio Loquercio, Anastasios Angelopoulos et al. | [Abstract](https://arxiv.org/abs/2311.01457) · [PDF](https://arxiv.org/pdf/2311.01457) | rule-assigned |
 | 2023-10-31 | Safe multi-agent motion planning under uncertainty for drones using filtered reinforcement learning | Sleiman Safaoui, Abraham P. Vinod, Ankush Chakrabarty, Rien Quirynen et al. | [Abstract](https://arxiv.org/abs/2311.00063) · [PDF](https://arxiv.org/pdf/2311.00063) | rule-assigned |
 | 2023-10-30 | Variational Curriculum Reinforcement Learning for Unsupervised Discovery of Skills | Seongun Kim, Kyowoon Lee, Jaesik Choi | [Abstract](https://arxiv.org/abs/2310.19424) · [PDF](https://arxiv.org/pdf/2310.19424) | rule-assigned |
-| 2023-10-27 | Guided Data Augmentation for Offline Reinforcement Learning and Imitation Learning | Nicholas E. Corrado, Yuxiao Qu, John U. Balis, Adam Labiosa et al. | [Abstract](https://arxiv.org/abs/2310.18247) · [PDF](https://arxiv.org/pdf/2310.18247) | rule-assigned |
-| 2023-10-27 | Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models | Pushkal Katara, Zhou Xian, Katerina Fragkiadaki | [Abstract](https://arxiv.org/abs/2310.18308) · [PDF](https://arxiv.org/pdf/2310.18308) | rule-assigned |
-| 2023-10-25 | Conditionally Combining Robot Skills using Large Language Models | K. R. Zentner, Ryan Julian, Brian Ichter, Gaurav S. Sukhatme | [Abstract](https://arxiv.org/abs/2310.17019) · [PDF](https://arxiv.org/pdf/2310.17019) | rule-assigned |
 
 ---
 

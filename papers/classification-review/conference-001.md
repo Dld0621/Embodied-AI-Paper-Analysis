@@ -1,7 +1,7 @@
 # conference classification review · 1–200
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
@@ -89,7 +89,7 @@
 | [H-Zero: Cross-Humanoid Locomotion Pretraining Enables Few-shot Novel Embodiment Transfer](https://arxiv.org/pdf/2512.00971) | 2026 · conference | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
 | [HeRO: Hierarchical 3D Semantic Representation for Pose-aware Object Manipulation](https://arxiv.org/pdf/2602.18817) | 2026 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation](https://arxiv.org/pdf/2511.14756) | 2026 · conference | Arm & General Object Manipulation → Contact-rich Manipulation → Pending specialty review | title:object manipulation; title:contact rich |
-| [Human-Centered Development of Guide Dog Robots: Quiet and Stable Locomotion Control](https://arxiv.org/pdf/2505.11808) | 2026 · conference | 暂定二级 / provisional: Robot Hardware & Systems → Mechanisms & Actuation → Pending specialty review | title:hardware or deployment contribution; fallback |
+| [Human-Centered Development of Guide Dog Robots: Quiet and Stable Locomotion Control](https://pmc.ncbi.nlm.nih.gov/articles/PMC13663884/pdf/nihms-2202471.pdf) | 2026 · conference | 暂定二级 / provisional: Robot Hardware & Systems → Mechanisms & Actuation → Pending specialty review | title:hardware or deployment contribution; fallback |
 | [Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation](https://arxiv.org/pdf/2510.08807) | 2026 · conference | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:dataset |
 | [Hybrid Diffusion Policies with Projective Geometric Algebra for Efficient Robot Manipulation Learning](https://arxiv.org/pdf/2507.05695) | 2026 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Hydrosoft: Non-Holonomic Hydroelastic Models for Compliant Tactile Manipulation](https://arxiv.org/pdf/2509.13126) | 2026 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |

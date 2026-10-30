@@ -1,12 +1,12 @@
 # Running, Jumping & Agile Motion · 跑跳与敏捷运动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Running%2C%20Jumping%20%26%20Agile%20Motion#research-workbench)
 
-> 21 conference papers · 106 recent arXiv papers
+> 21 conference papers · 111 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -46,10 +46,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Scalable Simulation and Demonstration of Jumping Piezoelectric 2-D Soft Robots | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2202.13521) · [Publisher](https://doi.org/10.1109/ICRA46639.2022.9811927) | rule-assigned |
 | 2022 | SMORS: A soft multirotor UAV for multimodal locomotion and robust interaction | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2204.02165) · [Index](https://dblp.org/rec/conf/icra/RyllK22) | rule-assigned |
 
-## Recent arXiv papers (106)
+## Recent arXiv papers (111)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-28 | Minimum Sufficient Communication for Independent Behaviour Tree Robot Teams | Sherry Jiang, Oliver Obst | [Abstract](https://arxiv.org/abs/2610.38176) · [PDF](https://arxiv.org/pdf/2610.38176) | rule-assigned |
+| 2026-10-27 | HC2Robot: Hyper-Connection Transformers with Predicted Foresight for Multi-Terrain Humanoid Parkour | Wenhao Xu, Yanheng Mai, Yifei Fu, Nan Zheng et al. | [Abstract](https://arxiv.org/abs/2610.36825) · [PDF](https://arxiv.org/pdf/2610.36825) | rule-assigned |
+| 2026-10-25 | The German Tank Problem & Navigating by Scent | Kordel Kade France | [Abstract](https://arxiv.org/abs/2610.34583) · [PDF](https://arxiv.org/pdf/2610.34583) | rule-assigned |
+| 2026-10-24 | Replicate What Varies: Resource Sharing for Domain-Randomized Embodied Simulation | Zixu Hao, Weijun Wang, Xiangyu Li, Liang Mi et al. | [Abstract](https://arxiv.org/abs/2610.33582) · [PDF](https://arxiv.org/pdf/2610.33582) | rule-assigned |
+| 2026-10-24 | Memory-Aware Keyframe Management for Dense Maps on Memory-Constrained Robots | Huichang Yun, Jaeyeul Kim, Seungho Yoo | [Abstract](https://arxiv.org/abs/2610.33574) · [PDF](https://arxiv.org/pdf/2610.33574) | rule-assigned |
 | 2026-10-21 | Compressing Onboard Language Models for Space Robots under a Behavioral-Fidelity Requirement | Jia Deng, Zizhe Wang, Xin Lu, Yi Huang et al. | [Abstract](https://arxiv.org/abs/2610.29302) · [PDF](https://arxiv.org/pdf/2610.29302) | rule-assigned |
 | 2026-10-20 | Planning under Noise with Neural Operators | Michael Chen, Hong Chul Nam, Xi Deng, Anima Anandkumar | [Abstract](https://arxiv.org/abs/2610.28623) · [PDF](https://arxiv.org/pdf/2610.28623) | rule-assigned |
 | 2026-10-20 | HyperDrone: Simulation-to-Reality Transfer at Millions of Frames per Second | Jonas Eschmann, Giuseppe Loianno | [Abstract](https://arxiv.org/abs/2610.28950) · [PDF](https://arxiv.org/pdf/2610.28950) | rule-assigned |

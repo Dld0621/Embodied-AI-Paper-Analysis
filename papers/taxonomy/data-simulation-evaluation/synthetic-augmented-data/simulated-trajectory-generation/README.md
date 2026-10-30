@@ -1,7 +1,7 @@
 # Simulated Trajectory Generation · 仿真轨迹生成
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Synthetic%20%26%20Augmented%20Data&specialty=Simulated%20Trajectory%20Generation#research-workbench)
@@ -31,6 +31,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-25 | Trajectory Generation and Control for Quadrotors | Sandesh Thapa | [Abstract](https://arxiv.org/abs/2610.34456) · [PDF](https://arxiv.org/pdf/2610.34456) | rule-assigned |
 | 2026-10-18 | Learning Waypoints and Passage Events for Decentralized Multi-Quadrotor Trajectory Planning | Yunhan Shi, Jia Deng, Zehao Jia, Lin Cheng et al. | [Abstract](https://arxiv.org/abs/2610.25024) · [PDF](https://arxiv.org/pdf/2610.25024) | rule-assigned |
 | 2026-09-20 | FlockDiffusion: Assignment-Conditioned Diffusion for Multi-Drone Task Allocation and Completion | Iana Zhura, Satenik Akopyan, Roohan Ahmed Khan, Miguel Altamirano Cabrera et al. | [Abstract](https://arxiv.org/abs/2609.23745) · [PDF](https://arxiv.org/pdf/2609.23745) | rule-assigned |
 | 2026-09-14 | Planning in the Backbone: DiffAdapterVLA for Native Continuous Trajectory Generation with Driving VLMs | Changxin Lu, Xiaoliang Meng, Yu Wu, Rui Huang et al. | [Abstract](https://arxiv.org/abs/2609.15322) · [PDF](https://arxiv.org/pdf/2609.15322) | rule-assigned |
@@ -94,7 +95,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-21 | TSDiT: Traffic Scene Diffusion Models With Transformers | Chen Yang, Tianyu Shi | [Abstract](https://arxiv.org/abs/2405.02289) · [PDF](https://arxiv.org/pdf/2405.02289) | rule-assigned |
 | 2023-12-05 | An alternating peak-optimization method for optimal trajectory generation of quadrotor drones | Wytze A. B. de Vries, Ming Li, Qirui Song, Zhiyong Sun | [Abstract](https://arxiv.org/abs/2312.02944) · [PDF](https://arxiv.org/pdf/2312.02944) | rule-assigned |
 | 2023-11-27 | SceneDM: Scene-level Multi-agent Trajectory Generation with Consistent Diffusion Models | Zhiming Guo, Xing Gao, Jianlan Zhou, Xinyu Cai et al. | [Abstract](https://arxiv.org/abs/2311.15736) · [PDF](https://arxiv.org/pdf/2311.15736) | rule-assigned |
-| 2023-10-26 | MMP++: Motion Manifold Primitives with Parametric Curve Models | Yonghyeon Lee | [Abstract](https://arxiv.org/abs/2310.17072) · [PDF](https://arxiv.org/pdf/2310.17072) | rule-assigned |
 
 ---
 

@@ -1,12 +1,12 @@
 # Domain Adaptation & Transfer · 域适配与迁移
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Sim-to-real%20Transfer&specialty=Domain%20Adaptation%20%26%20Transfer#research-workbench)
 
-> 42 conference papers · 260 recent arXiv papers
+> 42 conference papers · 262 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -67,10 +67,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Towards Inclusive HRI: Using Sim2Real to Address Underrepresentation in Emotion Expression Recognition | IROS · Sim2Real | [Paper](https://arxiv.org/pdf/2208.07472) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982252) | rule-assigned |
 | 2022 | Transferring Multi-Agent Reinforcement Learning Policies for Autonomous Driving using Sim-to-Real | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2203.11653) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981319) | rule-assigned |
 
-## Recent arXiv papers (260)
+## Recent arXiv papers (262)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-25 | Learning Interaction-Aware Path Corrections from Unlabeled Trajectories: A LiDAR-Based Sim-to-Real GNN Framework for Construction Robots | Yilong Chen, Yong K. Cho | [Abstract](https://arxiv.org/abs/2610.34060) · [PDF](https://arxiv.org/pdf/2610.34060) | rule-assigned |
+| 2026-10-23 | Regularised RL improves sim-to-real transfer | Danilo Vucetic, Mohamad H. Danesh, Florence Clerc, Hsiu-Chin Lin et al. | [Abstract](https://arxiv.org/abs/2610.32855) · [PDF](https://arxiv.org/pdf/2610.32855) | rule-assigned |
 | 2026-10-21 | PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration | Xiujian Liang, Jiacheng Liu, Mingyang Sun, Qichen He et al. | [Abstract](https://arxiv.org/abs/2610.29432) · [PDF](https://arxiv.org/pdf/2610.29432) | rule-assigned |
 | 2026-10-20 | PCLA-Bridge: A Framework for Cross-Domain Deployment of CARLA Agents | Masoud Jamshidiyan Tehrani, Jinhan Kim, Paolo Tonella | [Abstract](https://arxiv.org/abs/2610.28696) · [PDF](https://arxiv.org/pdf/2610.28696) | rule-assigned |
 | 2026-10-19 | Physical AI: Concepts, Techniques, and Challenges | Weinan Zhang, Chunhua Shen, Tianfan Xue, Bin Zhao et al. | [Abstract](https://arxiv.org/abs/2610.27045) · [PDF](https://arxiv.org/pdf/2610.27045) | rule-assigned |

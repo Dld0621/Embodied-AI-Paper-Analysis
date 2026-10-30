@@ -1,12 +1,12 @@
 # Behavior Cloning & Sequence Modeling · 行为克隆与序列建模
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Imitation%20Learning&specialty=Behavior%20Cloning%20%26%20Sequence%20Modeling#research-workbench)
 
-> 14 conference papers · 126 recent arXiv papers
+> 14 conference papers · 129 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -39,10 +39,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning | RSS · Behaviour Cloning | [Paper](https://arxiv.org/abs/2405.18196) · [Index](https://dblp.org/rec/conf/rss/VosyliusSUJ24) | rule-assigned |
 | 2023 | A Framework for Few-Shot Policy Transfer Through Observation Mapping and Behavior Cloning | IROS · Behavior Cloning | [Paper](https://arxiv.org/pdf/2310.08836) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342477) | rule-assigned |
 
-## Recent arXiv papers (126)
+## Recent arXiv papers (129)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | JEDI: Joint-Embedding Demonstration Compression for In-Context Imitation Learning | Jiazhao Liang, Zhewen He, Shuaihang Yuan, Hao Huang et al. | [Abstract](https://arxiv.org/abs/2610.40356) · [PDF](https://arxiv.org/pdf/2610.40356) | reviewed |
+| 2026-10-25 | AdaPolicy: Action-Driven Anticipatory Robot Policies via Next-Chunk Prediction | Fan Yang, Yuting Su, Chen Zhao, Fugui Fan et al. | [Abstract](https://arxiv.org/abs/2610.34280) · [PDF](https://arxiv.org/pdf/2610.34280) | rule-assigned |
+| 2026-10-23 | Tiny Recursive Policy: Recursive Latent Refinement for Visuomotor Control | Hakan Aktas, Cengiz Oztireli | [Abstract](https://arxiv.org/abs/2610.33288) · [PDF](https://arxiv.org/pdf/2610.33288) | rule-assigned |
+| 2026-10-23 | DiscoDemo: Discovering Efficient and Diverse Robot Demonstrations for Imitation Learning | Minho Park, Kinam Kim, Donghu Kim, Byungkun Lee et al. | [Abstract](https://arxiv.org/abs/2610.32093) · [PDF](https://arxiv.org/pdf/2610.32093) | rule-assigned |
 | 2026-10-20 | T-WLA: Bridging Slow Vision and Fast Touch | Kaichen Zhou, Yuzhen Chen, Hannah Yao, Chonghe Jiang et al. | [Abstract](https://arxiv.org/abs/2610.28814) · [PDF](https://arxiv.org/pdf/2610.28814) | rule-assigned |
 | 2026-10-19 | ALIGN: Aligning Condition Estimation and Expression in Advantage-Conditioned Behavior Cloning | Zechen Wang, Zhenqi Qiu, Houlong Xiong, Suohang Zhang et al. | [Abstract](https://arxiv.org/abs/2610.26455) · [PDF](https://arxiv.org/pdf/2610.26455) | rule-assigned |
 | 2026-10-18 | TILDE: Teacher-in-the-Loop Distillation from Embodied Foundation Models | Yuxiang Lu, Yantong Liu, Jinghua Hou, Xueli Sun et al. | [Abstract](https://arxiv.org/abs/2610.25376) · [PDF](https://arxiv.org/pdf/2610.25376) | rule-assigned |
@@ -97,7 +101,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-08 | Drifting Field Policy: A One-Step Generative Policy via Wasserstein Gradient Flow | Juil Koo, Mingue Park, Jiwon Choi, Yunhong Min et al. | [Abstract](https://arxiv.org/abs/2605.07727) · [PDF](https://arxiv.org/pdf/2605.07727) | rule-assigned |
 | 2026-05-04 | OGPO: Sample Efficient Full-Finetuning of Generative Control Policies | Sarvesh Patil, Mitsuhiko Nakamoto, Manan Agarwal, Shashwat Saxena et al. | [Abstract](https://arxiv.org/abs/2605.03065) · [PDF](https://arxiv.org/pdf/2605.03065) | rule-assigned |
 | 2026-04-15 | Behavior Cloning Under PD Control: A Finite-Horizon Theory of Gain-Dependent Error Amplification | Junghoon Seo | [Abstract](https://arxiv.org/abs/2604.14484) · [PDF](https://arxiv.org/pdf/2604.14484) | rule-assigned |
-| 2026-03-26 | Emergent Neural Automaton Policies: Learning Symbolic Structure from Visuomotor Trajectories | Yiyuan Pan, Xusheng Luo, Hanjiang Hu, Peiqi Yu et al. | [Abstract](https://arxiv.org/abs/2603.25903) · [PDF](https://arxiv.org/pdf/2603.25903) | rule-assigned |
 | 2026-03-24 | Generative Event Pretraining with Foundation Model Alignment | Jianwen Cao, Jiaxu Xing, Nico Messikommer, Davide Scaramuzza | [Abstract](https://arxiv.org/abs/2603.23032) · [PDF](https://arxiv.org/pdf/2603.23032) | rule-assigned |
 | 2026-03-16 | You've Got a Golden Ticket: Improving Generative Robot Policies With A Single Noise Vector | Omkar Patil, Ondrej Biza, Thomas Weng, Karl Schmeckpeper et al. | [Abstract](https://arxiv.org/abs/2603.15757) · [PDF](https://arxiv.org/pdf/2603.15757) | rule-assigned |
 | 2026-03-10 | Update-Free On-Policy Steering via Verifiers | Maria Attarian, Ian Vyse, Jasper Gerigk, Evgenii Opryshko et al. | [Abstract](https://arxiv.org/abs/2603.10282) · [PDF](https://arxiv.org/pdf/2603.10282) | rule-assigned |

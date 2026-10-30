@@ -1,12 +1,12 @@
 # Cross-robot Transfer · 跨机器人迁移
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generalization%20%26%20Adaptation&specialty=Cross-robot%20Transfer#research-workbench)
 
-> 1 conference papers · 65 recent arXiv papers
+> 1 conference papers · 67 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2025 | Universal Actions for Enhanced Embodied Foundation Models | CVPR · Foundation Model | [Paper](https://arxiv.org/pdf/2501.10105) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02096) | rule-assigned |
 
-## Recent arXiv papers (65)
+## Recent arXiv papers (67)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-27 | Ego-CEVR: Learning Cross-Embodiment Visual Representations from Human Egocentric Videos | Keru Zhou, Zhirui Fang, Xinrun Xu, Yaopeng Lou et al. | [Abstract](https://arxiv.org/abs/2610.37509) · [PDF](https://arxiv.org/pdf/2610.37509) | rule-assigned |
+| 2026-10-24 | EXE: Egocentric Cross-Embodiment Pretraining via Factorized Latent Actions for VLA Models | Qingyuan Cai, Bo Zhang, Yongzhen Huang, Jianyu Chen | [Abstract](https://arxiv.org/abs/2610.33685) · [PDF](https://arxiv.org/pdf/2610.33685) | rule-assigned |
 | 2026-10-20 | Multi-View Latent Action Pretraining for Cross-Embodiment Robot Learning from Videos | Oliver Hausdörfer, Felix Minzenmay, Mani Majd, Maximilian P. Christof et al. | [Abstract](https://arxiv.org/abs/2610.27794) · [PDF](https://arxiv.org/pdf/2610.27794) | rule-assigned |
 | 2026-09-30 | Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling | Xiangyu Zhu, Jin Xu, Yue Guo, Xin Wu et al. | [Abstract](https://arxiv.org/abs/2609.40153) · [PDF](https://arxiv.org/pdf/2609.40153) | rule-assigned |
 | 2026-09-29 | Video2STL: Grounding VLM-Generated Temporal Specifications for Robot Learning | Merve Atasever, Keyan Azbijari, Cagan Bakirci, Bo-Ruei Huang et al. | [Abstract](https://arxiv.org/abs/2609.37519) · [PDF](https://arxiv.org/pdf/2609.37519) | rule-assigned |

@@ -1,12 +1,12 @@
 # Swarms & Formation · 群体与编队
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Multi-robot%20%26%20Social%20Navigation&specialty=Swarms%20%26%20Formation#research-workbench)
 
-> 11 conference papers · 118 recent arXiv papers
+> 11 conference papers · 120 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -36,10 +36,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Barrier Function-based Safe Reinforcement Learning for Formation Control of Mobile Robots | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/icra46639.2022.9811604) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811604) | rule-assigned |
 | 2022 | Driving Swarm: A Swarm Robotics Framework for Intelligent Navigation in a Self-organized World | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811852) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811852) | rule-assigned |
 
-## Recent arXiv papers (118)
+## Recent arXiv papers (120)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-26 | Distributed Predictive Flocking for a Swarm of Miniature Vibration-Driven Robots in a Confined Arena | Prajol Shrestha, Siddhant Mohapatra, Filip Novkoski, Julian Oelhaf et al. | [Abstract](https://arxiv.org/abs/2610.35582) · [PDF](https://arxiv.org/pdf/2610.35582) | rule-assigned |
+| 2026-10-22 | Distributed Swarm Morphogenesis with Neural Cellular Automata | Ray Verma, Eliseo Ferrante, Anthony Tzes | [Abstract](https://arxiv.org/abs/2610.31900) · [PDF](https://arxiv.org/pdf/2610.31900) | rule-assigned |
 | 2026-10-05 | Visual Swarm Navigation via Deep Reinforcement Learning and Evolutionary Hybrid Design | Álvaro Díez, Fidel Aznar | [Abstract](https://arxiv.org/abs/2610.06400) · [PDF](https://arxiv.org/pdf/2610.06400) | rule-assigned |
 | 2026-10-03 | Budget-Constrained Fault-Tolerant Mutual Visibility for Autonomous Robots under the Mobility Fault Model | Prakhar Shukla, Animesh Maiti, Shivam Kumar, Subhash Bhagat | [Abstract](https://arxiv.org/abs/2610.04402) · [PDF](https://arxiv.org/pdf/2610.04402) | rule-assigned |
 | 2026-09-16 | Body-Motion Control of a Simulated Aerial Swarm from a First-Person View | Yang Chen, Darius Giannoli, Dario Floreano | [Abstract](https://arxiv.org/abs/2609.18881) · [PDF](https://arxiv.org/pdf/2609.18881) | rule-assigned |

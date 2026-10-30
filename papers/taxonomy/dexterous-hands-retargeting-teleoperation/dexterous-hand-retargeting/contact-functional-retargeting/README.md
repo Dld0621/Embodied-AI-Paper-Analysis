@@ -1,12 +1,12 @@
 # Contact & Functional Retargeting · 接触与功能重定向
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Dexterous%20Hand%20Retargeting&specialty=Contact%20%26%20Functional%20Retargeting#research-workbench)
 
-> 0 conference papers · 11 recent arXiv papers
+> 0 conference papers · 12 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (11)
+## Recent arXiv papers (12)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-27 | CARD: Contact-Anchored Retargeting for Dexterous Manipulation | Cunxi Dai, Botao He, Francois R Hogan, Wei Pan et al. | [Abstract](https://arxiv.org/abs/2610.36539) · [PDF](https://arxiv.org/pdf/2610.36539) | rule-assigned |
 | 2026-10-19 | DexOAK: Object-Aware Kinematic Retargeting | Federica Spinola, Robert Katzschmann, Cordelia Schmid | [Abstract](https://arxiv.org/abs/2610.26762) · [PDF](https://arxiv.org/pdf/2610.26762) | reviewed |
 | 2026-10-13 | EgoCPT: Learning Dexterous Manipulation from a Single Ego-Centric Video with Contact-Aware Optimization | Zhixin Sun, Kairui Shi, Tianao Ren, Ming Yang et al. | [Abstract](https://arxiv.org/abs/2610.17572) · [PDF](https://arxiv.org/pdf/2610.17572) | reviewed |
 | 2026-09-23 | Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy | Tara Sadjadpour, Siming He, C. K. Wolfe, Haozhi Qi et al. | [Abstract](https://arxiv.org/abs/2609.28660) · [PDF](https://arxiv.org/pdf/2609.28660) | reviewed |

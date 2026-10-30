@@ -1,12 +1,12 @@
 # Force, Contact & Slip Estimation · 力、接触与滑移估计
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Force%2C%20Contact%20%26%20Slip%20Estimation#research-workbench)
 
-> 10 conference papers · 39 recent arXiv papers
+> 10 conference papers · 41 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -35,10 +35,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | External Force Estimation of Legged Robots via a Factor Graph Framework with a Disturbance Observer | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161525) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161525) | rule-assigned |
 | 2022 | Tactile Pattern Super Resolution with Taxel-based Sensors | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS47612.2022.9981062) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981062) | rule-assigned |
 
-## Recent arXiv papers (39)
+## Recent arXiv papers (41)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-28 | Proprioceptive Finger Force Estimation for Reliable Box Manipulation | Junha Cha, Chanwoo Kim, Kisang Park, Yeoncheol Jang et al. | [Abstract](https://arxiv.org/abs/2610.38351) · [PDF](https://arxiv.org/pdf/2610.38351) | rule-assigned |
+| 2026-10-26 | 3D-Force Estimation for Dual-arm Manipulation of Deformable Linear Objects via Factor Graphs | Annika Delucchi, Vincenzo Di Paola, Bruno Marco Quadrelli, Matteo Zoppi | [Abstract](https://arxiv.org/abs/2610.35058) · [PDF](https://arxiv.org/pdf/2610.35058) | rule-assigned |
 | 2026-09-29 | Tactile Perception through Fluid-Solid Interaction | Arman Goshtasbi, Minke Berghuis, Aida Parvaresh, Saravana Prashanth Murali Babu et al. | [Abstract](https://arxiv.org/abs/2610.03773) · [PDF](https://arxiv.org/pdf/2610.03773) | rule-assigned |
 | 2026-09-28 | Proprioceptive Force Estimation for Quadruped Locomotion and Human-Robot Interaction | Run Wang, Xu Yang, Alapati Tuerxun, Yilin Mo | [Abstract](https://arxiv.org/abs/2609.34222) · [PDF](https://arxiv.org/pdf/2609.34222) | rule-assigned |
 | 2026-09-15 | Fleet-To-Lab: A Transfer Learning Framework For Lunar Rover Slippage Estimation Via Model Fusion | Riccardo Viviano, Saki Omi, Andrej Orsula, Miguel Olivares-Mendez | [Abstract](https://arxiv.org/abs/2609.17187) · [PDF](https://arxiv.org/pdf/2609.17187) | rule-assigned |

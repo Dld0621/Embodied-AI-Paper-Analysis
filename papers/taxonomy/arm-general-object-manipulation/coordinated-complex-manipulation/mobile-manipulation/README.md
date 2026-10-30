@@ -1,12 +1,12 @@
 # Mobile Manipulation · 移动操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Mobile%20Manipulation#research-workbench)
 
-> 50 conference papers · 183 recent arXiv papers
+> 51 conference papers · 183 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,7 +20,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (50)
+## Conference papers (51)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
@@ -58,6 +58,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | MAkEable: Memory-centered and Affordance-based Task Execution Framework for Transferable Mobile Manipulation Skills | IROS · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2401.16899) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801986) | rule-assigned |
 | 2024 | On Learning Scene-aware Generative State Abstractions for Task-level Mobile Manipulation Planning | IROS · Mobile Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802285) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802285) | rule-assigned |
 | 2024 | Demonstrating Adaptive Mobile Manipulation in Retail Environments | RSS · Mobile Manipulation | [Paper](https://doi.org/10.15607/rss.2024.xx.047) · [Publisher](https://doi.org/10.15607/rss.2024.xx.047) | rule-assigned |
+| 2024 | Demonstrating Event-Triggered Investigation and Sample Collection for Human Scientists using Field Robots and Large Foundation Models | RSS · Foundation Model | [Paper](https://doi.org/10.15607/rss.2024.xx.017) · [Publisher](https://doi.org/10.15607/rss.2024.xx.017) | rule-assigned |
 | 2023 | HomeRobot: Open-Vocabulary Mobile Manipulation | CoRL · Mobile manipulation | [Paper](https://arxiv.org/abs/2306.11565) · [Official](https://proceedings.mlr.press/v229/) · [Code](https://github.com/facebookresearch/home-robot) | rule-assigned |
 | 2023 | Open-World Object Manipulation using Pre-trained Vision-Language Models | CoRL · Language Model | [Paper](https://arxiv.org/abs/2303.00905) · [Index](https://dblp.org/rec/journals/corr/abs-2303-00905) | rule-assigned |
 | 2023 | Skill Transformer: A Monolithic Policy for Mobile Manipulation | ICCV · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2308.09873) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.00996) | rule-assigned |
@@ -79,6 +80,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-28 | HERON: Real-Time Obstacle-Aware Reachability Maps for Mobile Manipulators | G. Dupoiron, F. Michaud, J. P. Roberge | [Abstract](https://arxiv.org/abs/2610.38233) · [PDF](https://arxiv.org/pdf/2610.38233) | rule-assigned |
+| 2026-10-27 | On Shaky Ground: Characterising Non-Rigid Base Effects in Mobile Manipulation | Zongyuan Zhang, Christopher Lehnert, Will N. Browne, Jonathan M. Roberts | [Abstract](https://arxiv.org/abs/2610.36725) · [PDF](https://arxiv.org/pdf/2610.36725) | rule-assigned |
 | 2026-10-16 | Foundation-Model-Driven 3D Scene Graphs for Mobile Manipulation | Dominic Maggio, Lorenzo Shaikewitz, Aryan Naveen, Kris Hauser et al. | [Abstract](https://arxiv.org/abs/2610.23622) · [PDF](https://arxiv.org/pdf/2610.23622) | rule-assigned |
 | 2026-10-15 | MuSTMM: Learning Sound-Triggered Mobile Manipulation across Multiple Scenes | Hao Ju, Feng Yan, Zhihao Zhong, Heng Yang et al. | [Abstract](https://arxiv.org/abs/2610.21429) · [PDF](https://arxiv.org/pdf/2610.21429) | rule-assigned |
 | 2026-10-14 | MoCaP: Mobile Code-as-Policies for Zero-Shot Mobile Manipulation from Passive Human Videos | Yiyang Cai, Tatsuya Kamijo, Ninghao Lu, Zijin Hu et al. | [Abstract](https://arxiv.org/abs/2610.20998) · [PDF](https://arxiv.org/pdf/2610.20998) | rule-assigned |
@@ -140,7 +143,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-03-04 | Risk-Aware Reinforcement Learning for Mobile Manipulation | Michael Groom, James Wilson, Nick Hawes, Lars Kunze | [Abstract](https://arxiv.org/abs/2603.04579) · [PDF](https://arxiv.org/pdf/2603.04579) | rule-assigned |
 | 2026-02-26 | InCoM: Intent-Driven Perception and Structured Coordination for Mobile Manipulation | Jiahao Liu, Cui Wenbo, Zhongpu Xia, Yongliang Wang et al. | [Abstract](https://arxiv.org/abs/2602.23024) · [PDF](https://arxiv.org/pdf/2602.23024) | rule-assigned |
 | 2026-02-18 | Articulated 3D Scene Graphs for Open-World Mobile Manipulation | Martin Büchner, Adrian Röfer, Tim Engelbracht, Tim Welschehold et al. | [Abstract](https://arxiv.org/abs/2602.16356) · [PDF](https://arxiv.org/pdf/2602.16356) | rule-assigned |
-| 2026-02-13 | UniManip: General-Purpose Zero-Shot Robotic Manipulation with Agentic Operational Graph | Haichao Liu, Yuanjiang Xue, Yuheng Zhou, Haoyuan Deng et al. | [Abstract](https://arxiv.org/abs/2602.13086) · [PDF](https://arxiv.org/pdf/2602.13086) | rule-assigned |
 | 2026-02-11 | YOR: Your Own Mobile Manipulator for Generalizable Robotics | Manan H Anjaria, Mehmet Enes Erciyes, Vedant Ghatnekar, Neha Navarkar et al. | [Abstract](https://arxiv.org/abs/2602.11150) · [PDF](https://arxiv.org/pdf/2602.11150) | rule-assigned |
 | 2026-02-06 | The Law of Task-Achieving Body Motion: Axiomatizing Success of Robot Manipulation Actions | Malte Huerkamp, Jonas Dech, Michael Beetz | [Abstract](https://arxiv.org/abs/2602.06572) · [PDF](https://arxiv.org/pdf/2602.06572) | rule-assigned |
 | 2026-02-05 | MobileManiBench: Simplifying Model Verification for Mobile Manipulation | Wenbo Wang, Fangyun Wei, QiXiu Li, Xi Chen et al. | [Abstract](https://arxiv.org/abs/2602.05233) · [PDF](https://arxiv.org/pdf/2602.05233) | rule-assigned |
@@ -261,7 +263,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-11 | Harmonic Mobile Manipulation | Ruihan Yang, Yejin Kim, Rose Hendrix, Aniruddha Kembhavi et al. | [Abstract](https://arxiv.org/abs/2312.06639) · [PDF](https://arxiv.org/pdf/2312.06639) | rule-assigned |
 | 2023-12-11 | A Novel Planning Framework for Complex Flipping Manipulation of Multiple Mobile Manipulators | Wenhang Liu, Meng Ren, Kun Song, Michael Yu Wang et al. | [Abstract](https://arxiv.org/abs/2312.06168) · [PDF](https://arxiv.org/pdf/2312.06168) | rule-assigned |
 | 2023-11-02 | Using Augmented Reality to Assess and Modify Mobile Manipulator Surface Repair Plans | Frank Regal, Steven Swanbeck, Fabian Parra, Jared Rosenbaum et al. | [Abstract](https://arxiv.org/abs/2311.00988) · [PDF](https://arxiv.org/pdf/2311.00988) | rule-assigned |
-| 2023-10-24 | EquivAct: SIM(3)-Equivariant Visuomotor Policies beyond Rigid Object Manipulation | Jingyun Yang, Congyue Deng, Jimmy Wu, Rika Antonova et al. | [Abstract](https://arxiv.org/abs/2310.16050) · [PDF](https://arxiv.org/pdf/2310.16050) | rule-assigned |
 
 ---
 

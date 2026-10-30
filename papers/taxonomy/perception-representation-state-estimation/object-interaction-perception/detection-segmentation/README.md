@@ -1,12 +1,12 @@
 # Detection & Segmentation · 物体检测与分割
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Object%20%26%20Interaction%20Perception&specialty=Detection%20%26%20Segmentation#research-workbench)
 
-> 23 conference papers · 522 recent arXiv papers
+> 23 conference papers · 526 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -48,10 +48,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Demonstrate Once, Imitate Immediately (DOME): Learning Visual Servoing for One-Shot Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2204.02863) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981982) | rule-assigned |
 | 2022 | SESR: Self-Ensembling Sim-to-Real Instance Segmentation for Auto-Store Bin Picking | IROS · Sim To Real | [Paper](https://doi.org/10.1109/IROS47612.2022.9981845) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981845) | rule-assigned |
 
-## Recent arXiv papers (522)
+## Recent arXiv papers (526)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | Seeing and Imagining as One: Unified Video Generation and 4D Perception for Embodied World Modeling | Haitang Feng, Zhuoman Liu, Zhennan Wang, Sheng Wang et al. | [Abstract](https://arxiv.org/abs/2610.39232) · [PDF](https://arxiv.org/pdf/2610.39232) | rule-assigned |
+| 2026-10-28 | TRIM: Temporal Run-Time Monitoring of 3D Object Detection via Activation Statistics | Hakan Yekta Yatbaz, Konstantinos Koufos, Mehrdad Dianati | [Abstract](https://arxiv.org/abs/2610.38613) · [PDF](https://arxiv.org/pdf/2610.38613) | rule-assigned |
+| 2026-10-27 | FastBEVFusion: Simple Multi-Modal Fusion for 3D Object Detection at 50 FPS | Tom Sanitz, Emre Gülsoylu, Simone Frintrop, Christian Wilms | [Abstract](https://arxiv.org/abs/2610.37153) · [PDF](https://arxiv.org/pdf/2610.37153) | rule-assigned |
+| 2026-10-26 | Uncertainty Evaluation to Support Safety of the Intended Functionality Analysis for Determining the Applicability of Performance Targets Across Triggering Conditions in ML-Based LiDAR Object Detection | Milin Patel, Rolf Jung | [Abstract](https://arxiv.org/abs/2610.35092) · [PDF](https://arxiv.org/pdf/2610.35092) | rule-assigned |
+| 2026-10-22 | KiRoSe: Using Kinematic Data for Efficient Segmentation of Robot Demonstrations | Shuangyu Xie, Kaiyuan Chen, Muhammad Zubair Irshad, Richard Cheng et al. | [Abstract](https://arxiv.org/abs/2610.31801) · [PDF](https://arxiv.org/pdf/2610.31801) | rule-assigned |
 | 2026-10-09 | Beyond the Snowflakes: Disentangling Weather Effects from Confounding Meta-Factors in LiDAR Object Detection | Yiming Yang, Jeremy P. Bos | [Abstract](https://arxiv.org/abs/2610.13891) · [PDF](https://arxiv.org/pdf/2610.13891) | rule-assigned |
 | 2026-10-08 | UltraLight Luma: A Novel Edge-Deployable Perception Network for Crop-Row Segmentation in Agricultural Robotics | Dhanushka Balasingham, Shamod Ginigaddarage, Hanojhan Rajahrajasingh, Nuwan Kodagoda et al. | [Abstract](https://arxiv.org/abs/2610.11764) · [PDF](https://arxiv.org/pdf/2610.11764) | rule-assigned |
 | 2026-10-02 | EmbPASS: Towards Cross-Embodiment Open Panoramic Segmentation | Pujun Guo, Yuanfan Zheng, Fei Teng, Mengfei Duan et al. | [Abstract](https://arxiv.org/abs/2610.03248) · [PDF](https://arxiv.org/pdf/2610.03248) | rule-assigned |
@@ -84,6 +89,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-29 | Albireo: Adaptive, Energy-Efficient Inference Framework for Video Object Detection on the Edge | Amir Taherin, José Cano, Bin Ren, Yanzhi Wang et al. | [Abstract](https://arxiv.org/abs/2609.29648) · [PDF](https://arxiv.org/pdf/2609.29648) | rule-assigned |
 | 2026-08-27 | TADP: Task-Aware Deformable Prediction for Single-Stage 3D Object Detection | Su Wang, Yaochen Li, Min Yang, Jiaohao Nie et al. | [Abstract](https://arxiv.org/abs/2608.27282) · [PDF](https://arxiv.org/pdf/2608.27282) | rule-assigned |
 | 2026-08-24 | Contextrast++: Robust Multi-Scale Contextual Contrastive Learning for Semantic Segmentation | Changki Sung, Hyungtae Lim, Wanhee Kim, Youngwoo Seo et al. | [Abstract](https://arxiv.org/abs/2608.22679) · [PDF](https://arxiv.org/pdf/2608.22679) | rule-assigned |
+| 2026-08-23 | Understanding Temporal Semantic Stability in Open-Vocabulary UAV Perception through Metric 3D Fusion | Saurbh Singh Jamwal | [Abstract](https://arxiv.org/abs/2608.28665) · [PDF](https://arxiv.org/pdf/2608.28665) | rule-assigned |
 | 2026-08-21 | Multi-Modal Traffic Sign Detection with Semantic Attributes for Autonomous Driving | Meda Lazar, Sourab Sridhar, Shashwata Gupta, Alexandra Tripcea et al. | [Abstract](https://arxiv.org/abs/2608.20874) · [PDF](https://arxiv.org/pdf/2608.20874) | rule-assigned |
 | 2026-08-19 | HarvestPoint-ACT: Explicit Target Selection and Harvest-Point Conditioning for Robotic Fruit Harvesting under Occlusion | Hanying Hu, Weipeng Li, Yikun Huang, Hao Chen et al. | [Abstract](https://arxiv.org/abs/2608.18446) · [PDF](https://arxiv.org/pdf/2608.18446) | rule-assigned |
 | 2026-08-15 | FloodReasonBench: Benchmarking VLM Reasoning Segmentation for Embodied Flood Response at the Edge | Rajat Bhattacharjya, Yoomee Jung, Minwoo Kim, Sing-Yao Wu et al. | [Abstract](https://arxiv.org/abs/2608.15410) · [PDF](https://arxiv.org/pdf/2608.15410) | rule-assigned |
@@ -222,7 +228,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-10-10 | Exploring Single Domain Generalization of LiDAR-based Semantic Segmentation under Imperfect Labels | Weitong Kong, Zichao Zeng, Di Wen, Jiale Wei et al. | [Abstract](https://arxiv.org/abs/2510.09035) · [PDF](https://arxiv.org/pdf/2510.09035) | rule-assigned |
 | 2025-10-09 | A Multimodal Depth-Aware Method For Embodied Reference Understanding | Fevziye Irem Eyiokur, Dogucan Yaman, Hazım Kemal Ekenel, Alexander Waibel | [Abstract](https://arxiv.org/abs/2510.08278) · [PDF](https://arxiv.org/pdf/2510.08278) | rule-assigned |
 | 2025-10-08 | HARP-NeXt: High-Speed and Accurate Range-Point Fusion Network for 3D LiDAR Semantic Segmentation | Samir Abou Haidar, Alexandre Chariot, Mehdi Darouich, Cyril Joly et al. | [Abstract](https://arxiv.org/abs/2510.06876) · [PDF](https://arxiv.org/pdf/2510.06876) | rule-assigned |
-| 2025-10-06 | CLEAR-IR: Clarity-Enhanced Active Reconstruction of Infrared Imagery | Nathan Shankar, Pawel Ladosz, Hujun Yin | [Abstract](https://arxiv.org/abs/2510.04883) · [PDF](https://arxiv.org/pdf/2510.04883) | rule-assigned |
+| 2025-10-06 | CLEAR-IR: Clarity-Enhanced Active Reconstruction of Infrared Imagery | Nathan Shankar, Marton Gonczy, Hujun Yin, Pawel Ladosz | [Abstract](https://arxiv.org/abs/2510.04883) · [PDF](https://arxiv.org/pdf/2510.04883) | rule-assigned |
 | 2025-10-04 | Robust Visual Embodiment: How Robots Discover Their Bodies in Real Environments | Salim Rezvani, Ammar Jaleel Mahmood, Robin Chhabra | [Abstract](https://arxiv.org/abs/2510.03677) · [PDF](https://arxiv.org/pdf/2510.03677) | rule-assigned |
 | 2025-09-29 | Evaluation of Polarimetric Fusion for Semantic Segmentation in Aquatic Environments | Luis F. W. Batista, Tom Bourbon, Cedric Pradalier | [Abstract](https://arxiv.org/abs/2509.24731) · [PDF](https://arxiv.org/pdf/2509.24731) | rule-assigned |
 | 2025-09-26 | Learnable Conformal Prediction with Context-Aware Nonconformity Functions for Robotic Planning and Perception | Divake Kumar, Sina Tayebati, Francesco Migliarba, Ranganath Krishnan et al. | [Abstract](https://arxiv.org/abs/2509.21955) · [PDF](https://arxiv.org/pdf/2509.21955) | rule-assigned |
@@ -238,7 +244,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-09-12 | CaR1: A Multi-Modal Baseline for BEV Vehicle Segmentation via Camera-Radar Fusion | Santiago Montiel-Marín, Angel Llamazares, Miguel Antunes-García, Fabio Sánchez-García et al. | [Abstract](https://arxiv.org/abs/2509.10139) · [PDF](https://arxiv.org/pdf/2509.10139) | rule-assigned |
 | 2025-09-11 | Model-Agnostic Open-Set Air-to-Air Visual Object Detection for Reliable UAV Perception | Spyridon Loukovitis, Anastasios Arsenos, Vasileios Karampinis, Athanasios Voulodimos | [Abstract](https://arxiv.org/abs/2509.09297) · [PDF](https://arxiv.org/pdf/2509.09297) | rule-assigned |
 | 2025-09-11 | Classification of Driver Behaviour Using External Observation Techniques for Autonomous Vehicles | Ian Nell, Shane Gilroy | [Abstract](https://arxiv.org/abs/2509.09349) · [PDF](https://arxiv.org/pdf/2509.09349) | rule-assigned |
-| 2025-09-05 | Quaternion Approximation Networks for Enhanced Image Classification and Oriented Object Detection | Bryce Grant, Peng Wang | [Abstract](https://arxiv.org/abs/2509.05512) · [PDF](https://arxiv.org/pdf/2509.05512) | rule-assigned |
+| 2025-09-05 | Quaternion Approximate Networks for Enhanced Image Classification and Oriented Object Detection | Bryce Grant, Peng Wang | [Abstract](https://arxiv.org/abs/2509.05512) · [PDF](https://arxiv.org/pdf/2509.05512) | rule-assigned |
 | 2025-09-04 | Domain Adaptation for Different Sensor Configurations in 3D Object Detection | Satoshi Tanaka, Kok Seang Tan, Isamu Yamashita | [Abstract](https://arxiv.org/abs/2509.04711) · [PDF](https://arxiv.org/pdf/2509.04711) | rule-assigned |
 | 2025-09-01 | Metamorphic Testing of Multimodal Human Trajectory Prediction | Helge Spieker, Nadjib Lazaar, Arnaud Gotlieb, Nassim Belmecheri | [Abstract](https://arxiv.org/abs/2509.01294) · [PDF](https://arxiv.org/pdf/2509.01294) | rule-assigned |
 | 2025-08-30 | Domain Adaptation-Based Crossmodal Knowledge Distillation for 3D Semantic Segmentation | Jialiang Kang, Jiawen Wang, Dingsheng Luo | [Abstract](https://arxiv.org/abs/2509.00379) · [PDF](https://arxiv.org/pdf/2509.00379) | rule-assigned |
@@ -572,8 +578,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-02 | MemorySeg: Online LiDAR Semantic Segmentation with a Latent Memory | Enxu Li, Sergio Casas, Raquel Urtasun | [Abstract](https://arxiv.org/abs/2311.01556) · [PDF](https://arxiv.org/pdf/2311.01556) | rule-assigned |
 | 2023-10-30 | RGB-X Object Detection via Scene-Specific Fusion Modules | Sri Aditya Deevi, Connor Lee, Lu Gan, Sushruth Nagesh et al. | [Abstract](https://arxiv.org/abs/2310.19372) · [PDF](https://arxiv.org/pdf/2310.19372) | rule-assigned |
 | 2023-10-30 | Radar-Lidar Fusion for Object Detection by Designing Effective Convolution Networks | Farzeen Munir, Shoaib Azam, Tomasz Kucner, Ville Kyrki et al. | [Abstract](https://arxiv.org/abs/2310.19405) · [PDF](https://arxiv.org/pdf/2310.19405) | rule-assigned |
-| 2023-10-27 | What You See Is What You Detect: Towards better Object Densification in 3D detection | Tianran Liu, Zeping Zhang, Morteza Mousa Pasandi, Robert Laganiere | [Abstract](https://arxiv.org/abs/2310.17842) · [PDF](https://arxiv.org/pdf/2310.17842) | rule-assigned |
-| 2023-10-27 | ProcNet: Deep Predictive Coding Model for Robust-to-occlusion Visual Segmentation and Pose Estimation | Michael Zechmair, Alban Bornet, Yannick Morel | [Abstract](https://arxiv.org/abs/2310.18009) · [PDF](https://arxiv.org/pdf/2310.18009) | rule-assigned |
 
 ---
 

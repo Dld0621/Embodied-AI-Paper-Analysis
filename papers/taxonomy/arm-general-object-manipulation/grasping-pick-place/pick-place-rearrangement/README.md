@@ -1,12 +1,12 @@
 # Pick-place & Rearrangement · 拾放与物体重排
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Grasping%20%26%20Pick-place&specialty=Pick-place%20%26%20Rearrangement#research-workbench)
 
-> 94 conference papers · 206 recent arXiv papers
+> 94 conference papers · 207 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -119,10 +119,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Rearrangement-Based Manipulation via Kinodynamic Planning and Dynamic Planning Horizons | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2208.02312) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981599) | rule-assigned |
 | 2022 | Sequential Manipulation Planning on Scene Graph | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2207.04364) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981735) | rule-assigned |
 
-## Recent arXiv papers (206)
+## Recent arXiv papers (207)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-26 | Learning Multi-Phase Robot Loco-Manipulation via Phase-Conditioned Policy Optimization | Simone Manni, Annika Wollschläger, Dario Bellicoso, Abel Gawel et al. | [Abstract](https://arxiv.org/abs/2610.36270) · [PDF](https://arxiv.org/pdf/2610.36270) | rule-assigned |
 | 2026-10-20 | UniWALM: Unified World Action Language Model for Embodied Robot Control | Rahul Sajnani, Diego Romeres, Mingyuan Zhang, Kai Gao et al. | [Abstract](https://arxiv.org/abs/2610.28626) · [PDF](https://arxiv.org/pdf/2610.28626) | rule-assigned |
 | 2026-10-19 | Long-Horizon Multi-Object Rearrangement via Distilled Tree Search over Continuous Actions | Kallol Saha, Yining Hong, Amber Li, Yejin Choi et al. | [Abstract](https://arxiv.org/abs/2610.25785) · [PDF](https://arxiv.org/pdf/2610.25785) | rule-assigned |
 | 2026-10-12 | REAP: Learning General Rearrangement Heuristics from Motion-Planner Feedback | Daniel Swoboda, Hector Geffner | [Abstract](https://arxiv.org/abs/2610.23973) · [PDF](https://arxiv.org/pdf/2610.23973) | rule-assigned |

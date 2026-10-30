@@ -1,12 +1,12 @@
 # Embodied QA & Spatial Reasoning · 具身问答与空间推理
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Task%20Reasoning%20%26%20Planning&specialty=Embodied%20QA%20%26%20Spatial%20Reasoning#research-workbench)
 
-> 12 conference papers · 116 recent arXiv papers
+> 12 conference papers · 114 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -37,7 +37,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Explore until Confident: Efficient Exploration for Embodied Question Answering | RSS · Exploration | [Paper](https://arxiv.org/abs/2403.15941) · [Index](https://dblp.org/rec/conf/rss/RenCDIMS24) | rule-assigned |
 | 2022 | Inner Monologue: Embodied Reasoning through Planning with Language Models | CoRL · Language Model | [Paper](https://arxiv.org/abs/2207.05608) · [Index](https://dblp.org/rec/conf/corl/HuangXXCLFZTMCS22) | rule-assigned |
 
-## Recent arXiv papers (116)
+## Recent arXiv papers (114)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -155,8 +155,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-20 | Interactive Visual Task Learning for Robots | Weiwei Gu, Anant Sah, Nakul Gopalan | [Abstract](https://arxiv.org/abs/2312.13219) · [PDF](https://arxiv.org/pdf/2312.13219) | rule-assigned |
 | 2023-12-02 | Exploring and Improving the Spatial Reasoning Abilities of Large Language Models | Manasi Sharma | [Abstract](https://arxiv.org/abs/2312.01054) · [PDF](https://arxiv.org/pdf/2312.01054) | rule-assigned |
 | 2023-11-01 | RoboVQA: Multimodal Long-Horizon Reasoning for Robotics | Pierre Sermanet, Tianli Ding, Jeffrey Zhao, Fei Xia et al. | [Abstract](https://arxiv.org/abs/2311.00899) · [PDF](https://arxiv.org/pdf/2311.00899) | rule-assigned |
-| 2023-10-25 | Binary State Recognition by Robots using Visual Question Answering of Pre-Trained Vision-Language Model | Kento Kawaharazuka, Yoshiki Obinata, Naoaki Kanazawa, Kei Okada et al. | [Abstract](https://arxiv.org/abs/2310.16405) · [PDF](https://arxiv.org/pdf/2310.16405) | rule-assigned |
-| 2023-10-24 | tagE: Enabling an Embodied Agent to Understand Human Instructions | Chayan Sarkar, Avik Mitra, Pradip Pramanick, Tapas Nayak | [Abstract](https://arxiv.org/abs/2310.15605) · [PDF](https://arxiv.org/pdf/2310.15605) | rule-assigned |
 
 ---
 

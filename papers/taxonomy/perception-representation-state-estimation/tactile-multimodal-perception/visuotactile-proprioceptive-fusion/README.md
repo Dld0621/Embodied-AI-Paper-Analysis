@@ -1,12 +1,12 @@
 # Visuotactile & Proprioceptive Fusion · 视觉触觉与本体感知融合
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Visuotactile%20%26%20Proprioceptive%20Fusion#research-workbench)
 
-> 22 conference papers · 156 recent arXiv papers
+> 22 conference papers · 158 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -47,10 +47,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning-based Six-axis Force/Torque Estimation Using GelStereo Fingertip Visuotactile Sensing | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS47612.2022.9981100) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981100) | rule-assigned |
 | 2022 | Visual-Tactile Multimodality for Following Deformable Linear Objects Using Reinforcement Learning | IROS · Tactile | [Paper](https://arxiv.org/pdf/2204.00117) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982218) | rule-assigned |
 
-## Recent arXiv papers (156)
+## Recent arXiv papers (158)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-27 | RoboSTD: Zero-Shot Single-to-Dual Transfer via Sagittal Mirroring for Bimanual Learning | Hongyu Wu, Chong Liu, Shaoxuan Xie, Shaqi Luo et al. | [Abstract](https://arxiv.org/abs/2610.36685) · [PDF](https://arxiv.org/pdf/2610.36685) | rule-assigned |
+| 2026-10-26 | Revisiting Direct Control: A Field Evaluation of Sensor Fusion Efficacy in Teleoperating Full-Scale Autonomous Vehicles via Bird's Eye View | Stanisław Kuczma, Sławomir K. Tadeja, Michał R. Nowicki | [Abstract](https://arxiv.org/abs/2610.35630) · [PDF](https://arxiv.org/pdf/2610.35630) | rule-assigned |
 | 2026-10-22 | GelSlim 5.0: Unifying Vision and Touch with a Single Fingertip Camera | Xiangdong Wang, I-Hsuan Huang, Xiaohao Xu, Xili Yi et al. | [Abstract](https://arxiv.org/abs/2610.31334) · [PDF](https://arxiv.org/pdf/2610.31334) | reviewed |
 | 2026-10-07 | TacHair: Tactile Contact-Distribution Guided Online Correction for Robotic Hair Stroking and Perception | Ruiyi Hu, Yongqiang Zhao, Daniel Bak, Yupeng Wang et al. | [Abstract](https://arxiv.org/abs/2610.10637) · [PDF](https://arxiv.org/pdf/2610.10637) | rule-assigned |
 | 2026-10-07 | Enhancing Robotic Perception and Adaptability through Sensor Fusion and Origami-Inspired Designs | Namai Chandra, Jaison Jose, Kavi Arya, Shivaram Kalyanakrishnan | [Abstract](https://arxiv.org/abs/2610.09828) · [PDF](https://arxiv.org/pdf/2610.09828) | rule-assigned |

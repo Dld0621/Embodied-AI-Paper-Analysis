@@ -1,12 +1,12 @@
 # 3D Reconstruction · 三维重建
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=3D%20Reconstruction#research-workbench)
 
-> 8 conference papers · 241 recent arXiv papers
+> 8 conference papers · 244 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,10 +33,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling | CoRL · Dynamics Model | [Paper](https://arxiv.org/abs/2410.18912) · [Index](https://dblp.org/rec/journals/corr/abs-2410-18912) | rule-assigned |
 | 2024 | Touch-GS: Visual-Tactile Supervised 3D Gaussian Splatting | IROS · Tactile | [Paper](https://arxiv.org/pdf/2403.09875) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802412) | rule-assigned |
 
-## Recent arXiv papers (241)
+## Recent arXiv papers (244)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-27 | GOFish: Full Field-of-View Gaussian Splatting and Mesh Extraction | Allen Tu, Meher Gitika Karumuri, Shifan Zhu, Hailing Wang et al. | [Abstract](https://arxiv.org/abs/2610.37818) · [PDF](https://arxiv.org/pdf/2610.37818) | rule-assigned |
+| 2026-10-26 | SceneAgent: An Agentic Pipeline from 3D and 4D Captures to Simulation Environments | Luke Hollis, Tianxing Fan, Heng Yang | [Abstract](https://arxiv.org/abs/2610.34745) · [PDF](https://arxiv.org/pdf/2610.34745) | rule-assigned |
 | 2026-10-21 | AOV-GS: Active Open-Vocabulary Semantic Mapping with 3D Gaussian Splatting | Rodion Shkokov, Tatiana Zemskova, Dmitry Yudin | [Abstract](https://arxiv.org/abs/2610.29374) · [PDF](https://arxiv.org/pdf/2610.29374) | rule-assigned |
 | 2026-10-20 | PanoGraphGS: Unifying Panoptic Segmentation and Hierarchical 3D Scene Graphs with Gaussian Splatting | Jinghan Gao, Siyu Wang, Dongyu Feng, Yiyuan Pan et al. | [Abstract](https://arxiv.org/abs/2610.27696) · [PDF](https://arxiv.org/pdf/2610.27696) | rule-assigned |
 | 2026-10-17 | RoMo-GS: Efficient Online 3D Gaussian Splatting for Robot Mapping via Exposure-Integrated Motion Blur | Sangwoo Jung, Di Deng, Jiahui Fu, Laura Herlant et al. | [Abstract](https://arxiv.org/abs/2610.24605) · [PDF](https://arxiv.org/pdf/2610.24605) | rule-assigned |
@@ -44,7 +46,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-10-15 | DriveWorld3D Evidence Constrained 3D World Modeling and Generative Simulation for Real-World Autonomous Driving | Wei Wang, Yiru Veronika Wang, Yihan Wang, Zihao Li et al. | [Abstract](https://arxiv.org/abs/2610.22450) · [PDF](https://arxiv.org/pdf/2610.22450) | rule-assigned |
 | 2026-10-14 | Why 3D Reconstruction Breaks Down on Under-Ice AUV Video, and How to Predict It | Ana-Ştefania Kogălniceanu, Klára Orbán, Ashwin Nedungadi, Stefan Lüdtke et al. | [Abstract](https://arxiv.org/abs/2610.19993) · [PDF](https://arxiv.org/pdf/2610.19993) | rule-assigned |
 | 2026-10-13 | Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments | Klára Orbán, Ashwin Nedungadi, Ana-Ştefania Kogălniceanu, Bianca-Marcela Sava et al. | [Abstract](https://arxiv.org/abs/2610.19097) · [PDF](https://arxiv.org/pdf/2610.19097) | rule-assigned |
-| 2026-10-09 | NovaSplat: Model-Free 6D Object Pose Estimation via 3D Gaussian Splatting Onboarding and Refinement | Georgios Floros, Evangelos Sartinas, Orestis Vangelis, Maria Pateraki | [Abstract](https://arxiv.org/abs/2610.13309) · [PDF](https://arxiv.org/pdf/2610.13309) | rule-assigned |
+| 2026-10-09 | NovaSplat: Model-Free 6D Object Pose Estimation via 3D Gaussian Splatting Onboarding and Refinement | Georgios Floros, Evangelos Sartinas, Orestis Vaggelis, Maria Pateraki | [Abstract](https://arxiv.org/abs/2610.13309) · [PDF](https://arxiv.org/pdf/2610.13309) | rule-assigned |
 | 2026-10-08 | Rendering-Free Lookahead for Question-Guided Active Vision | Koya Sakamoto, Daichi Azuma, Shuhei Kurita, Naoya Chiba et al. | [Abstract](https://arxiv.org/abs/2610.11039) · [PDF](https://arxiv.org/pdf/2610.11039) | rule-assigned |
 | 2026-10-01 | CLoSeR: Closing the Loop for Long-Context Streaming Reconstruction | Moyang Li, Zihan Zhu, Wei Zhang, Marc Pollefeys et al. | [Abstract](https://arxiv.org/abs/2610.01927) · [PDF](https://arxiv.org/pdf/2610.01927) | rule-assigned |
 | 2026-09-28 | MicroSplat: Towards Automating 3D Small-Scale Reconstruction | Roman Mineyev, Robert Azarcon, Suvrat Jain, Chuizheng Kong et al. | [Abstract](https://arxiv.org/abs/2610.23899) · [PDF](https://arxiv.org/pdf/2610.23899) | rule-assigned |
@@ -98,6 +100,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-04-08 | Genie Sim PanoRecon: Fast Immersive Scene Generation from Single-View Panorama | Zhijun Li, Yongxin Su, Di Yang, Jichao Wang et al. | [Abstract](https://arxiv.org/abs/2604.07105) · [PDF](https://arxiv.org/pdf/2604.07105) | rule-assigned |
 | 2026-04-02 | F3DGS: Federated 3D Gaussian Splatting for Decentralized Multi-Agent World Modeling | Morui Zhu, Mohammad Dehghani Tezerjani, Mátyás Szántó, Márton Vaitkus et al. | [Abstract](https://arxiv.org/abs/2604.01605) · [PDF](https://arxiv.org/pdf/2604.01605) | rule-assigned |
 | 2026-03-31 | Efficient Camera Pose Augmentation for View Generalization in Robotic Policy Learning | Sen Wang, Huaiyi Dong, Jingyi Tian, Jiayi Li et al. | [Abstract](https://arxiv.org/abs/2603.29192) · [PDF](https://arxiv.org/pdf/2603.29192) | rule-assigned |
+| 2026-03-27 | RigidDriveGS: Object-Centric Vehicle Reconstruction from Fixed Multi-Camera Drive-Through Captures | Nitin Kulkarni, Akhil Devarashetti, Charlie Cluss, Livio Forte et al. | [Abstract](https://arxiv.org/abs/2603.26638) · [PDF](https://arxiv.org/pdf/2603.26638) | rule-assigned |
 | 2026-03-25 | SLAT-Phys: Fast Material Property Field Prediction from Structured 3D Latents | Rocktim Jyoti Das, Dinesh Manocha | [Abstract](https://arxiv.org/abs/2603.23973) · [PDF](https://arxiv.org/pdf/2603.23973) | rule-assigned |
 | 2026-03-24 | PhotoAgent: A Robotic Photographer with Spatial and Aesthetic Understanding | Lirong Che, Zhenfeng Gan, Yanbo Chen, Junbo Tan et al. | [Abstract](https://arxiv.org/abs/2603.22796) · [PDF](https://arxiv.org/pdf/2603.22796) | rule-assigned |
 | 2026-03-16 | LiDAR-EVS: Enhance Extrapolated View Synthesis for 3D Gaussian Splatting with Pseudo-LiDAR Supervision | Yiming Huang, Xin Kang, Sipeng Zhang, Hongliang Ren et al. | [Abstract](https://arxiv.org/abs/2603.14763) · [PDF](https://arxiv.org/pdf/2603.14763) | rule-assigned |

@@ -1,7 +1,7 @@
 # Vision-Language-Action Modeling · 视觉语言动作建模 · Conference 2026
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
@@ -31,7 +31,7 @@
 | 2026 | InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2505.13888) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695884) | rule-assigned |
 | 2026 | IntentionVLA: Generalizable and Efficient Embodied Intention Reasoning for Human-Robot Interaction | ICRA · Vla | [Paper](https://arxiv.org/pdf/2510.07778) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697087) | rule-assigned |
 | 2026 | Learning Affordances at Inference-Time for Vision-Language-Action Models | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2510.19752) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697401) | rule-assigned |
-| 2026 | Learning End-to-End Dexterous Arm-Hand VLA Policies with Shared Autonomy: DexGrasp AI Copilot for Efficient Teleoperation | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697534) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697534) | rule-assigned |
+| 2026 | Learning End-to-End Dexterous Arm-Hand VLA Policies with Shared Autonomy: DexGrasp AI Copilot for Efficient Teleoperation | ICRA · Dexterous | [Paper](https://discovery.ucl.ac.uk/id/eprint/10232454/1/DexVLA___ICRA_2026%20submission%20version.pdf) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697534) | rule-assigned |
 | 2026 | MAP-VLA: Memory-Augmented Prompting for Vision-Language-Action Model in Robotic Manipulation | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2511.09516) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697046) | rule-assigned |
 | 2026 | OmniVLA: An Omni-Modal Vision-Language-Action Model for Robot Navigation | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2509.19480) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697566) | rule-assigned |
 | 2026 | OmniVLA: Physically-Grounded Multimodal VLA with Unified Multi-Sensor Perception for Robotic Manipulation | ICRA · Vla | [Paper](https://arxiv.org/pdf/2511.01210) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695776) | rule-assigned |

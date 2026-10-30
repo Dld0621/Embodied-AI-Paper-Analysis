@@ -1,17 +1,27 @@
-# Retargeting · 201–312
+# Retargeting · 201–322
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Topic index](retargeting.md)
 
 | Paper | Source layer | Primary path | Classification status |
 |---|---|---|---|
+| [Workhorse: Learning Robust Whole-Body Humanoid Loco-Manipulation from Human Data](https://arxiv.org/abs/2610.09117) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Locomotion-Manipulation Coordination → Humanoid Loco-manipulation | rule-assigned |
+| [WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation](https://arxiv.org/abs/2607.06438) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Coordination & Balance → Whole-body Optimization & Control | rule-assigned |
+| [X-Morph: Human Motion Priors for Scalable Robot Learning Across Morphologies](https://arxiv.org/abs/2606.30290) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Motion Imitation & Generation | rule-assigned |
+| [X-OP: Cross-Morphology Whole-Body Teleoperation via MPC Retargeting](https://arxiv.org/abs/2606.07934) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Coordination & Balance → Whole-body Optimization & Control | rule-assigned |
+| [A Principled Approach for Creating High-fidelity Synthetic Demonstrations for Imitation Learning](https://arxiv.org/abs/2605.01232) | arxiv · arXiv | Navigation, Localization & Multi-robot Coordination → Motion Planning & Exploration → Local Avoidance & Trajectory Optimization | rule-assigned |
+| [Hand-centric Human-to-Robot Trajectory Transfer from Video Demonstrations via Object Category-agnostic Temporal Localization](https://arxiv.org/abs/2606.10743) | arxiv · arXiv | Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Odometry & Relocalization | rule-assigned |
+| [HOI-Retarget: Contact-Centric Retargeting for Human-Object Interaction](https://arxiv.org/abs/2609.34674) | arxiv · arXiv | Navigation, Localization & Multi-robot Coordination → Motion Planning & Exploration → Local Avoidance & Trajectory Optimization | rule-assigned |
+| [Multi-Resolution End-to-End Deep Neural Network for Optimizing Latency-Accuracy Tradeoff in Autonomous Driving](https://arxiv.org/abs/2605.29138) | arxiv · arXiv | Navigation, Localization & Multi-robot Coordination → Motion Planning & Exploration → Active Exploration & Information Gain | rule-assigned |
+| [AGILE: Hand-Object Interaction Reconstruction from Video via Agentic Generation](https://arxiv.org/abs/2602.04672) | arxiv · arXiv | Perception, Representation & State Estimation → Human & Hand-object Perception → Hand-object Interaction Reconstruction | rule-assigned |
 | [Hand2Robot: Object-Centric 4D Hand Reconstruction from Human Demonstrations for Robotics](https://arxiv.org/abs/2610.15769) | arxiv · arXiv | Perception, Representation & State Estimation → Object & Interaction Perception → 6D Pose & Tracking | rule-assigned |
 | [RLHND: Video Foundation Models as Physically Grounded Hand Trackers for Robot Learning](https://arxiv.org/abs/2610.09455) | arxiv · arXiv | Perception, Representation & State Estimation → Human & Hand-object Perception → Hand-object Interaction Reconstruction | rule-assigned |
 | [T-800: An 800 Hz Data Glove for Precise Hand Gesture Tracking](https://arxiv.org/abs/2603.26403) | arxiv · arXiv | Perception, Representation & State Estimation → Human & Hand-object Perception → Contact & Motion Recovery | rule-assigned |
 | [Demo-JEPA: Joint-Embedding Predictive Architecture for One-shot Cross-Embodiment Imitation](https://arxiv.org/abs/2605.20811) | arxiv · arXiv | Policy Learning & Embodied Foundation Models → Generalization & Adaptation → Cross-robot Transfer | rule-assigned |
+| [EgoForesight: Effectively Scaling Policy Learning with Noisy Egocentric Actions](https://arxiv.org/abs/2610.31845) | arxiv · arXiv | Policy Learning & Embodied Foundation Models → VLA & Generalist Robot Policies → Vision-Language-Action Modeling | rule-assigned |
 | [Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://arxiv.org/abs/2607.08448) | arxiv · arXiv | Policy Learning & Embodied Foundation Models → VLA & Generalist Robot Policies → Vision-Language-Action Modeling | rule-assigned |
 | [Learning a Unified Latent Space for Cross-Embodiment Robot Control](https://arxiv.org/abs/2601.15419) | arxiv · arXiv | Policy Learning & Embodied Foundation Models → Generalization & Adaptation → Cross-robot Transfer | rule-assigned |
 | [Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2603.11346) | arxiv · arXiv | Policy Learning & Embodied Foundation Models → Reinforcement Learning → Online Reinforcement Learning | rule-assigned |

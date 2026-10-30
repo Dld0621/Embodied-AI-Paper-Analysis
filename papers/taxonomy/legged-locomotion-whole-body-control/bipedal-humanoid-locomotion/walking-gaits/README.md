@@ -1,12 +1,12 @@
 # Walking & Gaits · 行走与步态
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Walking%20%26%20Gaits#research-workbench)
 
-> 167 conference papers · 355 recent arXiv papers
+> 167 conference papers · 357 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -126,7 +126,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Stable Wheel Gait Generation for Planar X-shaped Walker with Telescopic Legs Based on Asymmetric Impact Posture | IROS · Gait | [Paper](https://doi.org/10.1109/IROS58592.2024.10802771) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802771) | rule-assigned |
 | 2024 | Structural Optimization of Lightweight Bipedal Robot via SERL | IROS · Biped | [Paper](https://arxiv.org/pdf/2408.15632) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801349) | rule-assigned |
 | 2024 | Whleaper: A 10-DOF Flexible Bipedal Wheeled Robot | IROS · Biped | [Paper](https://arxiv.org/pdf/2504.21767) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801355) | rule-assigned |
-| 2024 | Design and Control of a Bipedal Robotic Character | RSS · Biped | [Paper](https://arxiv.org/pdf/2501.05204) · [Publisher](https://doi.org/10.15607/RSS.2024.XX.103) | rule-assigned |
+| 2024 | Design and Control of a Bipedal Robotic Character | RSS · Biped | [Paper](https://doi.org/10.15607/rss.2024.xx.103) · [Publisher](https://doi.org/10.15607/RSS.2024.XX.103) | rule-assigned |
 | 2023 | Bipedal Robot Walking Control Using Human Whole-Body Dynamic Telelocomotion | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2209.06964) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160278) | rule-assigned |
 | 2023 | Bootstrapping the Dynamic Gait Controller of the Soft Robot Arm | ICRA · Gait | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160579) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160579) | rule-assigned |
 | 2023 | Deep Reinforcement Learning based Personalized Locomotion Planning for Lower-Limb Exoskeletons | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161559) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161559) | rule-assigned |
@@ -192,10 +192,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Simultaneous Contact-Rich Grasping and Locomotion via Distributed Optimization Enabling Free-Climbing for Multi-Limbed Robots | IROS · Grasp | [Paper](https://arxiv.org/pdf/2207.01418) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981579) | rule-assigned |
 | 2022 | Three-Dimensional Dynamic Running with a Point-Foot Biped based on Differentially Flat SLIP | IROS · Biped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981516) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981516) | rule-assigned |
 
-## Recent arXiv papers (355)
+## Recent arXiv papers (357)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-27 | REACH: An RL-based Hierarchical Humanoid Crawling Framework for Adaptable Confined Space Traversal | Shengzhang Xu, Yuning Guo, Weiyi Hu, Yifeng Xu et al. | [Abstract](https://arxiv.org/abs/2610.36546) · [PDF](https://arxiv.org/pdf/2610.36546) | rule-assigned |
+| 2026-10-27 | METATRON: A Promptable Whole-Body Execution Layer for Humanoids | Chen Tessler, Yifeng Jiang, Alec Otto, Yi Shi et al. | [Abstract](https://arxiv.org/abs/2610.38027) · [PDF](https://arxiv.org/pdf/2610.38027) | rule-assigned |
+| 2026-10-23 | RAIWAY: A Large-Wheeled Bipedal Robot with Contact-Informed Blind Locomotion | Kyungmin Nam, Jiseong Lee, Donghyuk Choi, Jeongsoo Park et al. | [Abstract](https://arxiv.org/abs/2610.33172) · [PDF](https://arxiv.org/pdf/2610.33172) | rule-assigned |
 | 2026-10-21 | Watch Your Step: Anticipated Perception for Humanoid Locomotion | Matthias Heyrman, Chenhao Li, Ioannis Dadiotis, Marco Hutter | [Abstract](https://arxiv.org/abs/2610.29612) · [PDF](https://arxiv.org/pdf/2610.29612) | rule-assigned |
 | 2026-10-21 | S-Rolling: Steerable Rolling Gaits for Twistable Snake Robots in Low-Clearance Environments | Qingling Fan, Zhongqiang Ren | [Abstract](https://arxiv.org/abs/2610.29478) · [PDF](https://arxiv.org/pdf/2610.29478) | rule-assigned |
 | 2026-10-20 | Adaptive Traversal Tubes for Posture-Aware Navigation of Bipedal Humanoids | Zijian Ge | [Abstract](https://arxiv.org/abs/2610.27688) · [PDF](https://arxiv.org/pdf/2610.27688) | rule-assigned |
@@ -244,7 +247,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-06 | KILVO: Kinematic-Inertial-LiDAR-Visual Odometry with Robust Multimodal Adaptation for Humanoid Robots | Jixin Gao, Fucheng Liu, Teng Zhang, Fusheng Zha | [Abstract](https://arxiv.org/abs/2608.05647) · [PDF](https://arxiv.org/pdf/2608.05647) | rule-assigned |
 | 2026-08-03 | Toward Certified Functional Safety for Industrial Humanoid Robots: The Fail-Passive Gap and a Feasibility Study | Caiwu Ding, Tao Cui, Lingyun Wang, Chengtao Wen | [Abstract](https://arxiv.org/abs/2608.02809) · [PDF](https://arxiv.org/pdf/2608.02809) | rule-assigned |
 | 2026-08-03 | Residual-Based Adaptive Kalman Filtering for Legged Robot State Estimation | Mihaela Popescu, Dennis Mronga, Shivesh Kumar, Frank Kirchner | [Abstract](https://arxiv.org/abs/2608.02316) · [PDF](https://arxiv.org/pdf/2608.02316) | rule-assigned |
-| 2026-08-01 | Staged Multi-Agent Training (SMAT) for Hip Exoskeletons: Metabolic and Biomechanical Validation of a Simulation-Trained Co-Adaptive Controller | Yifei Yuan, Jakob Wolf, Ghaith Androwis, Xianlian Zhou | [Abstract](https://arxiv.org/abs/2608.00715) · [PDF](https://arxiv.org/pdf/2608.00715) | rule-assigned |
 | 2026-07-21 | Loco-Loco-RL: Low-Cost Terrain Mapping for Humanoid Locomotion with Reinforcement Learning | Jordan Dowdy, Gryffin Reizian, Jean Chagas Vaz | [Abstract](https://arxiv.org/abs/2609.19041) · [PDF](https://arxiv.org/pdf/2609.19041) | rule-assigned |
 | 2026-07-21 | Koopman DCM: Unstable Eigenfunctions as Data-driven Representations for Legged Balancing | Stéphane Caron | [Abstract](https://arxiv.org/abs/2607.18760) · [PDF](https://arxiv.org/pdf/2607.18760) | rule-assigned |
 | 2026-07-13 | SKooP: Symmetric Koopman Predictions for Faster and More Generalizable Legged Robot Locomotion with Reinforcement Learning | Evelyn D'Elia, Weishu Zhan, Giulio Turrisi, Giulio Romualdi et al. | [Abstract](https://arxiv.org/abs/2607.11624) · [PDF](https://arxiv.org/pdf/2607.11624) | rule-assigned |
@@ -456,7 +458,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-11-05 | A Behavior Architecture for Fast Humanoid Robot Door Traversals | Duncan Calvert, Luigi Penco, Dexton Anderson, Tomasz Bialek et al. | [Abstract](https://arxiv.org/abs/2411.03532) · [PDF](https://arxiv.org/pdf/2411.03532) | rule-assigned |
 | 2024-11-04 | Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing | Teng Bin, Jianming Yao, Tin Lun Lam, Tianwei Zhang | [Abstract](https://arxiv.org/abs/2411.01919) · [PDF](https://arxiv.org/pdf/2411.01919) | rule-assigned |
 | 2024-10-15 | Adaptive Ankle Torque Control for Bipedal Humanoid Walking on Surfaces with Unknown Horizontal and Vertical Motion | Jacob Stewart, I-Chia Chang, Yan Gu, Petros A. Ioannou | [Abstract](https://arxiv.org/abs/2410.11799) · [PDF](https://arxiv.org/pdf/2410.11799) | rule-assigned |
-| 2024-10-12 | The Indirect Method for Generating Libraries of Optimal Periodic Trajectories and Its Application to Economical Bipedal Walking | Maximilian Raff, Kathrin Flaßkamp, C. David Remy | [Abstract](https://arxiv.org/abs/2410.09512) · [PDF](https://arxiv.org/pdf/2410.09512) | rule-assigned |
+| 2024-10-12 | Indirect Optimal Control for Constructing Libraries of Periodic Trajectories: Application to Bipedal Walking | Maximilian Raff, Kathrin Flaßkamp, C. David Remy | [Abstract](https://arxiv.org/abs/2410.09512) · [PDF](https://arxiv.org/pdf/2410.09512) | rule-assigned |
 | 2024-10-11 | Design and Performance Evaluation of an Elbow-Based Biomechanical Energy Harvester | Hubert Huang, Jeffrey Huang | [Abstract](https://arxiv.org/abs/2410.09036) · [PDF](https://arxiv.org/pdf/2410.09036) | rule-assigned |
 | 2024-10-10 | Online DNN-driven Nonlinear MPC for Stylistic Humanoid Robot Walking with Step Adjustment | Giulio Romualdi, Paolo Maria Viceconte, Lorenzo Moretti, Ines Sorrentino et al. | [Abstract](https://arxiv.org/abs/2410.07849) · [PDF](https://arxiv.org/pdf/2410.07849) | rule-assigned |
 | 2024-10-09 | Discrete time model predictive control for humanoid walking with step adjustment | Vishnu Joshi, Suraj Kumar, Nithin V, Shishir Kolathaya | [Abstract](https://arxiv.org/abs/2410.06790) · [PDF](https://arxiv.org/pdf/2410.06790) | rule-assigned |

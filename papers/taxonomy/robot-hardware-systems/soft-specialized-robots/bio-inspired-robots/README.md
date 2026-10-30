@@ -1,12 +1,12 @@
 # Bio-inspired Robots · 仿生机器人
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Soft%20%26%20Specialized%20Robots&specialty=Bio-inspired%20Robots#research-workbench)
 
-> 9 conference papers · 76 recent arXiv papers
+> 9 conference papers · 78 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -34,10 +34,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Pegasus: a Novel Bio-inspired Quadruped Robot with Underactuated Wheeled-Legged Mechanism * | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611633) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611633) | rule-assigned |
 | 2024 | ViTacTip: Design and Verification of a Novel Biomimetic Physical Vision-Tactile Fusion Sensor | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2402.00199) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611186) | rule-assigned |
 
-## Recent arXiv papers (76)
+## Recent arXiv papers (78)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | MUSBRIC: LEGO-Compatible Pneumatic Muscle Bricks for Reconfigurable Musculoskeletal Robots | Qiyao Wang, Yinglei Zhu, Liang Zhou, Wenzhe Gong et al. | [Abstract](https://arxiv.org/abs/2610.40285) · [PDF](https://arxiv.org/pdf/2610.40285) | rule-assigned |
+| 2026-10-27 | Gradient flow of magnetic inclination and intensity as a GPS-free guidance mechanism | Zayed Herma, Philippe Cardin, Andréa Vassilev | [Abstract](https://arxiv.org/abs/2610.36812) · [PDF](https://arxiv.org/pdf/2610.36812) | rule-assigned |
+| 2026-10-27 | A generalist policy for muscle-driven control across individual musculoskeletal models | Bozhao Wang, Yinglei Zhu, Zhengqing Li, Zhiyuan Zhang et al. | [Abstract](https://arxiv.org/abs/2610.36535) · [PDF](https://arxiv.org/pdf/2610.36535) | rule-assigned |
 | 2026-10-19 | Robotic Physical Comparison of Biologically Motivated and Counterfactual Sensory Arrangements using Biomimetic Skin | Akihiro Miki, Shun Hasegawa, Yoshimoto Ribayashi, Yuta Sahara et al. | [Abstract](https://arxiv.org/abs/2610.26680) · [PDF](https://arxiv.org/pdf/2610.26680) | rule-assigned |
 | 2026-10-01 | Learning a Resolution-Consistent Jacobian Field for Bio-Inspired Rigid-Soft Finger | Tianyou Liang, Haisen Zeng, Shanjun Chen, YiMing Zhu et al. | [Abstract](https://arxiv.org/abs/2610.01668) · [PDF](https://arxiv.org/pdf/2610.01668) | rule-assigned |
 | 2026-09-19 | AquaWorld: Structure-Consistent Underwater World Generation for Robot Simulation | Bin Peng, Tiandong Zhang, Ruidong Wang, Min Luo et al. | [Abstract](https://arxiv.org/abs/2609.22670) · [PDF](https://arxiv.org/pdf/2609.22670) | rule-assigned |
@@ -113,7 +116,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-02-08 | Learning to Control Emulated Muscles in Real Robots: Towards Exploiting Bio-Inspired Actuator Morphology | Pierre Schumacher, Lorenz Krause, Jan Schneider, Dieter Büchler et al. | [Abstract](https://arxiv.org/abs/2402.05371) · [PDF](https://arxiv.org/pdf/2402.05371) | rule-assigned |
 | 2024-01-31 | ViTacTip: Design and Verification of a Novel Biomimetic Physical Vision-Tactile Fusion Sensor | Wen Fan, Haoran Li, Weiyong Si, Shan Luo et al. | [Abstract](https://arxiv.org/abs/2402.00199) · [PDF](https://arxiv.org/pdf/2402.00199) | rule-assigned |
 | 2024-01-23 | Sensing environmental physical interaction to traverse cluttered obstacles | Yaqing Wang, Ling Xu, Chen Li | [Abstract](https://arxiv.org/abs/2401.13062) · [PDF](https://arxiv.org/pdf/2401.13062) | rule-assigned |
-| 2023-10-27 | Development and Characteristics of a Highly Biomimetic Robotic Shoulder Through Bionics-Inspired Optimization | Haosen Yang, Guowu Wei, Lei Ren | [Abstract](https://arxiv.org/abs/2310.18283) · [PDF](https://arxiv.org/pdf/2310.18283) | rule-assigned |
 
 ---
 

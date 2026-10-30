@@ -1,12 +1,12 @@
 # Actuators & Transmission · 执行器与传动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Actuators%20%26%20Transmission#research-workbench)
 
-> 47 conference papers · 331 recent arXiv papers
+> 47 conference papers · 332 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,7 +25,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | A Novel Reconfigurable Dexterous Hand Based on Triple-Symmetric Bricard Parallel Mechanism | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2603.00892) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696369) | rule-assigned |
-| 2026 | Flexible and Foldable: Workspace Analysis and Object Manipulation Using a Soft, Interconnected, Origami-Inspired Actuator Array | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2509.13998) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696072) | rule-assigned |
+| 2026 | Flexible and Foldable: Workspace Analysis and Object Manipulation Using a Soft, Interconnected, Origami-Inspired Actuator Array | ICRA · Manipulation | [Paper](https://pure.itu.dk/portal/da/publications/9718d4de-877d-4078-88e1-303ed0ac2719) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696072) | rule-assigned |
 | 2026 | Robotic Grasping and Placement Controlled by EEG-Based Hybrid Visual and Motor Imagery | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2603.03181) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697488) | rule-assigned |
 | 2026 | Simple Models, Real Swimming: Digital Twins for Tendon-Driven Underwater Robots | ICRA · Digital Twin | [Paper](https://arxiv.org/pdf/2602.23283) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697241) | rule-assigned |
 | 2026 | SoftHand Model-W: A 3D-Printed, Anthropomorphic, Underactuated Robot Hand with Integrated Wrist and Carpal Tunnel | ICRA · Robot Hand | [Paper](https://arxiv.org/pdf/2604.00738) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697200) | rule-assigned |
@@ -72,10 +72,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Agile Hybrid Whole-body Motor Skills for Thruster-Aided Humanoid Robots | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9981974) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981974) | rule-assigned |
 | 2022 | Omnidirectional walking of a quadruped robot enabled by compressible tendon-driven soft actuators | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981314) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981314) | rule-assigned |
 
-## Recent arXiv papers (331)
+## Recent arXiv papers (332)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | CuBot-STT: Simultaneously Transport and Tighten for Lattice-type Modular Reconfiguration Robot | Chongxi Meng, Da Zhao, Yanmin Zhou, Runjie Shen et al. | [Abstract](https://arxiv.org/abs/2610.39279) · [PDF](https://arxiv.org/pdf/2610.39279) | rule-assigned |
+| 2026-10-26 | How Tuning, Reference Preview, Actuator Modeling, and Fallback Policies Change Quadrotor Controller Comparisons: A Reproducible Simulation Study | Xuan-Quy Dao, Le-Minh Nguyen, Ngoc-Bich Le | [Abstract](https://arxiv.org/abs/2610.35165) · [PDF](https://arxiv.org/pdf/2610.35165) | rule-assigned |
 | 2026-10-22 | IORA: Irregular Object Immobilization under Restricted Actuation | Sang-Hun Han, Changyeon Won, JunGyu Lee, Min-Gyu Park et al. | [Abstract](https://arxiv.org/abs/2610.30969) · [PDF](https://arxiv.org/pdf/2610.30969) | rule-assigned |
 | 2026-10-21 | Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use | Yanzhe Chen, Ziyi Yang, Jifeng Zhu, Qiming Huang et al. | [Abstract](https://arxiv.org/abs/2610.30108) · [PDF](https://arxiv.org/pdf/2610.30108) | rule-assigned |
 | 2026-10-21 | Make it Walk: Computational Design of LEGO Walkers | Siqi Li, Fancheng Gao, Chi-Wing Fu, Peng Song | [Abstract](https://arxiv.org/abs/2610.29505) · [PDF](https://arxiv.org/pdf/2610.29505) | rule-assigned |
@@ -406,7 +408,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-23 | Responsive Hydrogel-based Modular Microrobots for Multi-functional Micromanipulation | Liyuan Tan, David J. Cappelleri | [Abstract](https://arxiv.org/abs/2311.13809) · [PDF](https://arxiv.org/pdf/2311.13809) | rule-assigned |
 | 2023-11-06 | Reconfigurable, Transformable Soft Pneumatic Actuator with Tunable 3D Deformations for Dexterous Soft Robotics Applications | Dickson Chiu Yu Wong, Mingtan Li, Shijie Kang, Lifan Luo et al. | [Abstract](https://arxiv.org/abs/2311.03032) · [PDF](https://arxiv.org/pdf/2311.03032) | rule-assigned |
 | 2023-11-02 | Learning to See Physical Properties with Active Sensing Motor Policies | Gabriel B. Margolis, Xiang Fu, Yandong Ji, Pulkit Agrawal | [Abstract](https://arxiv.org/abs/2311.01405) · [PDF](https://arxiv.org/pdf/2311.01405) | rule-assigned |
-| 2023-10-26 | Single-Motor Robotic Gripper With Three Functional Modes for Grasping in Confined Spaces | Toshihiro Nishimura, Tetsuyou Watanabe | [Abstract](https://arxiv.org/abs/2310.17192) · [PDF](https://arxiv.org/pdf/2310.17192) | rule-assigned |
 
 ---
 

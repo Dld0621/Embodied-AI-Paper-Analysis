@@ -1,12 +1,12 @@
 # OOD & Uncertainty Evaluation · 分布外与不确定性评估
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Safety%20%26%20Reliability%20Evaluation&specialty=OOD%20%26%20Uncertainty%20Evaluation#research-workbench)
 
-> 8 conference papers · 144 recent arXiv papers
+> 8 conference papers · 146 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,12 +33,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | HRP: Human Affordances for Robotic Pre-Training | RSS · Affordance | [Paper](https://arxiv.org/abs/2407.18911) · [Index](https://dblp.org/rec/conf/rss/SriramaDB024) | rule-assigned |
 | 2023 | HYDRA: Hybrid Robot Actions for Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2306.17237) · [Index](https://dblp.org/rec/journals/corr/abs-2306-17237) | rule-assigned |
 
-## Recent arXiv papers (144)
+## Recent arXiv papers (146)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-28 | Robotic Data Inoculation | Qiyang Li, Zhiyuan Zhou, Charles Xu, Sergey Levine | [Abstract](https://arxiv.org/abs/2610.39054) · [PDF](https://arxiv.org/pdf/2610.39054) | rule-assigned |
+| 2026-10-27 | Trace-WAM: Learning to Act via 3D Motion Prediction for World Action Models | Xu Hu, Changjie Wu, Linzhe Shi, Hang Zhang et al. | [Abstract](https://arxiv.org/abs/2610.36840) · [PDF](https://arxiv.org/pdf/2610.36840) | rule-assigned |
 | 2026-10-18 | Learning When to Adapt: Reactivity-Conditioned Residual Adaptation under Human-Robot Distribution Shift | Immanuel R. Santjoko, Benedictus C. G. Cinun, Jing Chen, Bin Hu | [Abstract](https://arxiv.org/abs/2610.25419) · [PDF](https://arxiv.org/pdf/2610.25419) | rule-assigned |
 | 2026-10-15 | CoDA: Co-Evolution of Data Engines and Action Policies | Tianjiao Yu, Zhilin Ou, Yifan Shen, Xinzhuo Li et al. | [Abstract](https://arxiv.org/abs/2610.22362) · [PDF](https://arxiv.org/pdf/2610.22362) | rule-assigned |
+| 2026-10-14 | What Happens to the Goal? Distinct Failures of Policy Alignment in Goal Misgeneralization | Julia Barth, Armin Sommer, Kunvar Thaman, Jannik Schilling | [Abstract](https://arxiv.org/abs/2610.19731) · [PDF](https://arxiv.org/pdf/2610.19731) | rule-assigned |
 | 2026-10-12 | MOSAIC: Mode- and Support-Aware Inference-Time Control of Robot Diffusion Models | Sabrina Bodmer, Rahel Rickenbach, René Zurbrügg, Melanie N. Zeilinger et al. | [Abstract](https://arxiv.org/abs/2610.17001) · [PDF](https://arxiv.org/pdf/2610.17001) | rule-assigned |
 | 2026-10-08 | Higher-Order Action Supervision Makes A Strong Policy Class | Peng Cheng, Yunxian Hou, Zhi Zhou, Qian Zhang et al. | [Abstract](https://arxiv.org/abs/2610.11175) · [PDF](https://arxiv.org/pdf/2610.11175) | rule-assigned |
 | 2026-10-05 | Robotizing Human Videos with Physically Consistent Interactions | Ching-Lam Cheng, Shengfeng He, Bin Zhu | [Abstract](https://arxiv.org/abs/2610.06137) · [PDF](https://arxiv.org/pdf/2610.06137) | rule-assigned |
@@ -180,7 +183,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-02 | Learning Realistic Traffic Agents in Closed-loop | Chris Zhang, James Tu, Lunjun Zhang, Kelvin Wong et al. | [Abstract](https://arxiv.org/abs/2311.01394) · [PDF](https://arxiv.org/pdf/2311.01394) | rule-assigned |
 | 2023-11-02 | C3DM: Constrained-Context Conditional Diffusion Models for Imitation Learning | Vaibhav Saxena, Yotto Koga, Danfei Xu | [Abstract](https://arxiv.org/abs/2311.01419) · [PDF](https://arxiv.org/pdf/2311.01419) | rule-assigned |
 | 2023-11-02 | Adapt On-the-Go: Behavior Modulation for Single-Life Robot Deployment | Annie S. Chen, Govind Chada, Laura Smith, Archit Sharma et al. | [Abstract](https://arxiv.org/abs/2311.01059) · [PDF](https://arxiv.org/pdf/2311.01059) | rule-assigned |
-| 2023-10-26 | Drive Anywhere: Generalizable End-to-end Autonomous Driving with Multi-modal Foundation Models | Tsun-Hsuan Wang, Alaa Maalouf, Wei Xiao, Yutong Ban et al. | [Abstract](https://arxiv.org/abs/2310.17642) · [PDF](https://arxiv.org/pdf/2310.17642) | rule-assigned |
 
 ---
 

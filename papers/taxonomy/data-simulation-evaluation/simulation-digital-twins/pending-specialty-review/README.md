@@ -1,7 +1,7 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Pending%20specialty%20review#research-workbench)
@@ -30,7 +30,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | Reliable and Scalable Robot Policy Evaluation with Imperfect Simulators | ICRA · Simulator | [Paper](https://arxiv.org/pdf/2510.04354) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697329) | needs-review |
 | 2025 | Reinforcement Learning Control of a Physical Robot Device for Assisted Human Walking without a Simulator | ICML · Simulator | [Paper](https://www.semanticscholar.org/paper/209d0357403302fcf74e926a278c5cbb219d38f2) · [Index](https://dblp.org/rec/conf/icml/ZhongYSWZS25) | needs-review |
 | 2025 | Incremental Few-Shot Adaptation for Non-Prehensile Object Manipulation Using Parallelizable Physics Simulators | ICRA · Simulator | [Paper](https://arxiv.org/pdf/2409.13228) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128222) | needs-review |
-| 2025 | Optimizing Complex Control Systems with Differentiable Simulators: A Hybrid Approach to Reinforcement Learning and Trajectory Planning | ICRA · Simulator | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127746) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127746) | needs-review |
+| 2025 | Optimizing Complex Control Systems with Differentiable Simulators: A Hybrid Approach to Reinforcement Learning and Trajectory Planning | ICRA · Simulator | [Paper](https://hal.science/hal-05294931v1/document) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127746) | needs-review |
 | 2025 | Robotic Space Simulator: Controls Implementation for Auxiliary Axes and Zero-G Dynamics | ICRA · Simulator | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128455) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128455) | needs-review |
 | 2025 | OceanSim: A GPU-Accelerated Underwater Robot Perception Simulation Framework | IROS · Simulation | [Paper](https://arxiv.org/abs/2503.01074) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246878) | needs-review |
 | 2024 | Learning Robotic Locomotion Affordances and Photorealistic Simulators from Human-Captured Data | CoRL · Locomotion | [Paper](https://www.semanticscholar.org/paper/c54b83c72057fc59dc86edafaceb9a315622f5f1) · [Index](https://dblp.org/rec/conf/corl/EscontrelaKSA24) | needs-review |
@@ -54,6 +54,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-24 | Learning Dexterous Manipulation: Hands, Simulators, Training, and Evaluation | Luai Abuelsamen | [Abstract](https://arxiv.org/abs/2610.33486) · [PDF](https://arxiv.org/pdf/2610.33486) | needs-review |
 | 2026-10-21 | SimPT: An Automated Simulation Framework for Intervention-Based VLA Post-Training | Caicheng Wang, Zipeng Ye, Zhexuan Zhou, Zilong Huang et al. | [Abstract](https://arxiv.org/abs/2610.29161) · [PDF](https://arxiv.org/pdf/2610.29161) | needs-review |
 | 2026-10-20 | MARE: An Open-Source Lunar Rover Simulator with Shadow Ground Truth for Perception and Autonomy | Raúl Castilla-Arquillo, Miguel Olivares-Mendez | [Abstract](https://arxiv.org/abs/2610.28465) · [PDF](https://arxiv.org/pdf/2610.28465) | needs-review |
 | 2026-10-13 | WoVR+: World Model as Reliable Simulator for Versatile VLA Policy Optimization with RL | Shangqing Zhou, Zhennan Jiang, Ning Ma, Xin Fu et al. | [Abstract](https://arxiv.org/abs/2610.17922) · [PDF](https://arxiv.org/pdf/2610.17922) | needs-review |
@@ -87,7 +88,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-13 | RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data | Harold Haodong Chen, Sirui Chen, Yingjie Xu, Wenhang Ge et al. | [Abstract](https://arxiv.org/abs/2605.13775) · [PDF](https://arxiv.org/pdf/2605.13775) | needs-review |
 | 2026-05-09 | REAP: Reinforcement-Learning End-to-End Autonomous Parking with Gaussian Splatting Simulator for Real2Sim2Real Transfer | Changze Li, Zhe Chen, Shaoyu Chen, Lisen Mu et al. | [Abstract](https://arxiv.org/abs/2605.08713) · [PDF](https://arxiv.org/pdf/2605.08713) | needs-review |
 | 2026-04-22 | ETac: A Lightweight and Efficient Tactile Simulation Framework for Learning Dexterous Manipulation | Zhe Xu, Feiyu Zhao, Xiyan Huang, Chenxi Xiao | [Abstract](https://arxiv.org/abs/2604.20295) · [PDF](https://arxiv.org/pdf/2604.20295) | needs-review |
-| 2026-04-20 | Does "Do Differentiable Simulators Give Better Policy Gradients?'' Give Better Policy Gradients? | Ku Onoda, Paavo Parmas, Manato Yaguchi, Yutaka Matsuo | [Abstract](https://arxiv.org/abs/2604.18161) · [PDF](https://arxiv.org/pdf/2604.18161) | needs-review |
+| 2026-04-20 | Does "Do Differentiable Simulators Give Better Policy Gradients?" Give Better Policy Gradients? | Ku Onoda, Paavo Parmas, Manato Yaguchi, Yutaka Matsuo | [Abstract](https://arxiv.org/abs/2604.18161) · [PDF](https://arxiv.org/pdf/2604.18161) | needs-review |
 | 2026-04-14 | Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting | Ziyuan Xia, Jingyi Xu, Chong Cui, Yuanhong Yu et al. | [Abstract](https://arxiv.org/abs/2604.12626) · [PDF](https://arxiv.org/pdf/2604.12626) | needs-review |
 | 2026-04-13 | Solving Physics Olympiad via Reinforcement Learning on Physics Simulators | Mihir Prabhudesai, Aryan Satpathy, Yangmin Li, Zheyang Qin et al. | [Abstract](https://arxiv.org/abs/2604.11805) · [PDF](https://arxiv.org/pdf/2604.11805) | needs-review |
 | 2026-03-19 | Fire as a Service: Augmenting Robot Simulators with Thermally and Visually Accurate Fire Dynamics | Anton R. Wagner, Madhan Balaji Rao, Helge Wrede, Sören Pirk et al. | [Abstract](https://arxiv.org/abs/2603.19063) · [PDF](https://arxiv.org/pdf/2603.19063) | needs-review |
@@ -191,7 +192,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-05 | Investigating Lane-Free Traffic with a Dynamic Driving Simulator | Maya Sekeran, Arslan Ali Syed, Johannes Lindner, Martin Margreiter et al. | [Abstract](https://arxiv.org/abs/2311.16142) · [PDF](https://arxiv.org/pdf/2311.16142) | needs-review |
 | 2023-11-04 | Survey of Simulators for Aerial Robots: An Overview and In-Depth Systematic Comparisons | Cora A. Dimmig, Giuseppe Silano, Kimberly McGuire, Chiara Gabellieri et al. | [Abstract](https://arxiv.org/abs/2311.02296) · [PDF](https://arxiv.org/pdf/2311.02296) | needs-review |
 | 2023-11-04 | A Comprehensive Dynamic Simulation Framework for Coupled Neuromusculoskeletal-Exoskeletal Systems | Wei Jin, Jiaqi Liu, Qiwei Zhang, Xiaoxu Zhang et al. | [Abstract](https://arxiv.org/abs/2311.02346) · [PDF](https://arxiv.org/pdf/2311.02346) | needs-review |
-| 2023-10-29 | Immersive 3D Simulator for Drone-as-a-Service | Jiamin Lin, Balsam Alkouz, Athman Bouguettaya, Amani Abusafia | [Abstract](https://arxiv.org/abs/2310.19199) · [PDF](https://arxiv.org/pdf/2310.19199) | needs-review |
 
 ---
 

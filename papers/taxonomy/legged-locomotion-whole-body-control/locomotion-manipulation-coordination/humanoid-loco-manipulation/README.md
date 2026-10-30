@@ -1,12 +1,12 @@
 # Humanoid Loco-manipulation · 人形移动操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Locomotion-Manipulation%20Coordination&specialty=Humanoid%20Loco-manipulation#research-workbench)
 
-> 11 conference papers · 152 recent arXiv papers
+> 11 conference papers · 156 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -36,10 +36,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Physically Consistent Online Inertial Adaptation for Humanoid Loco-manipulation | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2405.07901) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802012) | rule-assigned |
 | 2023 | Hierarchical Adaptive Loco-manipulation Control for Quadruped Robots | ICRA · Quadruped | [Paper](https://arxiv.org/pdf/2209.13145) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160523) | rule-assigned |
 
-## Recent arXiv papers (152)
+## Recent arXiv papers (156)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | LLM-guided Planar Loco-Manipulation for Quadruped Robots | Georges Jetti, Michael Khayyat, Jean-Pierre Sleiman, Stefano Arrigoni et al. | [Abstract](https://arxiv.org/abs/2610.40248) · [PDF](https://arxiv.org/pdf/2610.40248) | rule-assigned |
+| 2026-10-26 | Zero-HLM: Generalizable Humanoid Loco-Manipulation without Real Robot Data | Dianyi Yang, Mengya Liu, Zhumei Wang, Yu Liu et al. | [Abstract](https://arxiv.org/abs/2610.35075) · [PDF](https://arxiv.org/pdf/2610.35075) | rule-assigned |
+| 2026-10-26 | Learning Force-Reactive Humanoid Loco-Manipulation | Sihang Li, Xiaofeng Guo, Jinkun Cao, Charlie Cheng et al. | [Abstract](https://arxiv.org/abs/2610.35862) · [PDF](https://arxiv.org/pdf/2610.35862) | rule-assigned |
+| 2026-10-24 | MOTIO: Agentic Skill Engineering for Reality-Grounded Humanoid Loco-Manipulation | SpatialtemporalAI | [Abstract](https://arxiv.org/abs/2610.33446) · [PDF](https://arxiv.org/pdf/2610.33446) | rule-assigned |
 | 2026-10-22 | Memory before Goal: Role of Pre-History Memory for Humanoid Loco-Manipulation | Chenyuan Chen, Ran Ding, Lechen Zhang, Zewen He et al. | [Abstract](https://arxiv.org/abs/2610.31166) · [PDF](https://arxiv.org/pdf/2610.31166) | rule-assigned |
 | 2026-10-22 | LocoManiLab: A Unified Testbed for Data, Policies, Controllers, and Deployment in Humanoid Loco-Manipulation | Dewei Wang, Jinrui Han, Jiyuan Shi, Chenyun Zhang et al. | [Abstract](https://arxiv.org/abs/2610.30876) · [PDF](https://arxiv.org/pdf/2610.30876) | rule-assigned |
 | 2026-10-19 | Humanoid SRL: Augmenting Humanoids with Supernumerary Limbs for Coordinated Loco-Manipulation | Fukang Liu, Feiyang Wu, Paul Barsa, Jaehwi Jang et al. | [Abstract](https://arxiv.org/abs/2610.25628) · [PDF](https://arxiv.org/pdf/2610.25628) | rule-assigned |

@@ -1,12 +1,12 @@
 # Long-horizon & Task-motion Planning · 长时程操作与任务运动规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Long-horizon%20%26%20Task-motion%20Planning#research-workbench)
 
-> 32 conference papers · 203 recent arXiv papers
+> 32 conference papers · 205 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -57,10 +57,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Task and Motion Planning with Large Language Models for Object Rearrangement | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.06247) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342169) | rule-assigned |
 | 2022 | Visually Grounded Task and Motion Planning for Mobile Manipulation | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2202.10667) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812055) | rule-assigned |
 
-## Recent arXiv papers (203)
+## Recent arXiv papers (205)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-26 | Reward-Guided RRT* for Budgeted Task and Motion Planning | Vinícius Araújo de Oliveira, Gabriel Ferreira Mendes Lourenço, Paulo L. J. Drews-Jr, Armando Alves Neto et al. | [Abstract](https://arxiv.org/abs/2610.35289) · [PDF](https://arxiv.org/pdf/2610.35289) | rule-assigned |
+| 2026-10-25 | I Won't Know Until I Try: Interactive Information Gathering for Long-Horizon Manipulation | Linfei Yuan, Rachel Holladay | [Abstract](https://arxiv.org/abs/2610.33959) · [PDF](https://arxiv.org/pdf/2610.33959) | rule-assigned |
+| 2026-10-24 | RoboLongR: Causally Consistent Rewards Teach Robots to Progressively Master Long-Horizon Manipulation | Zixuan Chen, Lin Cao, Fenggang Zhang, Haotong Zhang et al. | [Abstract](https://arxiv.org/abs/2610.33863) · [PDF](https://arxiv.org/pdf/2610.33863) | rule-assigned |
+| 2026-10-23 | Predictive Long-Horizon Progress Modeling with Action-Aware Quantification | Tianchi Xu, Yalin Zheng, Yangxin Zhu, Ruonan Ren et al. | [Abstract](https://arxiv.org/abs/2610.32776) · [PDF](https://arxiv.org/pdf/2610.32776) | rule-assigned |
 | 2026-10-20 | Plausible Future, Wrong Choice: Steering World-Action Models toward Intended Future | Zhuohao Li, Jiawei He, Yuxuan Yan, Lang Zhou et al. | [Abstract](https://arxiv.org/abs/2610.28431) · [PDF](https://arxiv.org/pdf/2610.28431) | rule-assigned |
 | 2026-10-19 | Progress-Guided Preference Generation for Aligning Generative Control Policies | Tung M. Luu, Tri Ton, Duc M. Nguyen, Xuan Thanh Nguyen et al. | [Abstract](https://arxiv.org/abs/2610.25692) · [PDF](https://arxiv.org/pdf/2610.25692) | rule-assigned |
 | 2026-10-19 | Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation | Jiaming Liu, Xinghao Zhu, Yiming Zhang, Shanghang Zhang et al. | [Abstract](https://arxiv.org/abs/2610.26854) · [PDF](https://arxiv.org/pdf/2610.26854) | rule-assigned |
@@ -262,8 +266,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-04 | Multi-Modal MPPI and Active Inference for Reactive Task and Motion Planning | Yuezhe Zhang, Corrado Pezzato, Elia Trevisan, Chadi Salmi et al. | [Abstract](https://arxiv.org/abs/2312.02328) · [PDF](https://arxiv.org/pdf/2312.02328) | rule-assigned |
 | 2023-11-24 | Offline Skill Generalization via Task and Motion Planning | Shin Watanabe, Geir Horn, Jim Tørresen, Kai Olav Ellefsen | [Abstract](https://arxiv.org/abs/2311.14328) · [PDF](https://arxiv.org/pdf/2311.14328) | rule-assigned |
 | 2023-11-02 | NOD-TAMP: Generalizable Long-Horizon Planning with Neural Object Descriptors | Shuo Cheng, Caelan Garrett, Ajay Mandlekar, Danfei Xu | [Abstract](https://arxiv.org/abs/2311.01530) · [PDF](https://arxiv.org/pdf/2311.01530) | rule-assigned |
-| 2023-10-26 | Interactive Robot Learning from Verbal Correction | Huihan Liu, Alice Chen, Yuke Zhu, Adith Swaminathan et al. | [Abstract](https://arxiv.org/abs/2310.17555) · [PDF](https://arxiv.org/pdf/2310.17555) | rule-assigned |
-| 2023-10-24 | Human-in-the-Loop Task and Motion Planning for Imitation Learning | Ajay Mandlekar, Caelan Garrett, Danfei Xu, Dieter Fox | [Abstract](https://arxiv.org/abs/2310.16014) · [PDF](https://arxiv.org/pdf/2310.16014) | rule-assigned |
 
 ---
 

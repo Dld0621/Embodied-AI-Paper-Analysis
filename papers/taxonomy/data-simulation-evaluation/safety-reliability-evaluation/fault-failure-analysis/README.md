@@ -1,12 +1,12 @@
 # Fault & Failure Analysis · 故障与失效分析
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Safety%20%26%20Reliability%20Evaluation&specialty=Fault%20%26%20Failure%20Analysis#research-workbench)
 
-> 3 conference papers · 109 recent arXiv papers
+> 3 conference papers · 110 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | Pseudocode-Guided Structured Reasoning for Automating Reliable Inference in Vision-Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2605.19663) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697384) | rule-assigned |
 | 2025 | On the Vulnerability of LLM/VLM-Controlled Robotics | IROS · Llm | [Paper](https://arxiv.org/pdf/2402.10340) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246863) | rule-assigned |
 
-## Recent arXiv papers (109)
+## Recent arXiv papers (110)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-26 | Resource-Performance Trade-offs in Intra-Aisle Robotic Picking: A Discrete-Event Simulation Comparison of Shuttle Configurations With and Without an Onboard Tote Lift | Mohsen Reda Mahmoud Moursi | [Abstract](https://arxiv.org/abs/2610.34708) · [PDF](https://arxiv.org/pdf/2610.34708) | rule-assigned |
 | 2026-10-22 | Know When to Escalate: Critic-Guided Adaptive Execution for Cloud-Local Embodied Agents | Wei Zhang, Lirong Xiang, Charles Fleming | [Abstract](https://arxiv.org/abs/2610.30587) · [PDF](https://arxiv.org/pdf/2610.30587) | rule-assigned |
 | 2026-10-22 | Causal Analysis of Failures of Cyber-Physical Systems with Continuous Inputs | Tom Yaacov, David A. Kelly, Khen Elimelech, Hana Chockler | [Abstract](https://arxiv.org/abs/2610.30737) · [PDF](https://arxiv.org/pdf/2610.30737) | rule-assigned |
 | 2026-10-13 | Behavioural self-monitoring for autonomous earth observation agents: The attribute reliability monitor (ARM) | Alejandro D. Mousist | [Abstract](https://arxiv.org/abs/2610.18548) · [PDF](https://arxiv.org/pdf/2610.18548) | rule-assigned |

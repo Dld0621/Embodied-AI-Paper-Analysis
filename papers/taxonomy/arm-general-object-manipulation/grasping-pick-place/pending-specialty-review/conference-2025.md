@@ -1,7 +1,7 @@
 # Pending specialty review · 待审专题 · Conference 2025
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
@@ -145,7 +145,7 @@
 | 2025 | DynaRend: Learning 3D Dynamics via Masked Future Rendering for Robotic Manipulation | NeurIPS · Manipulation | [Paper](https://arxiv.org/abs/2510.24261) · [Index](https://dblp.org/rec/conf/nips/TianWZWLH25) | needs-review |
 | 2025 | EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation | NeurIPS · Manipulation | [Paper](https://arxiv.org/abs/2501.01895) · [Index](https://dblp.org/rec/journals/corr/abs-2501-01895) | needs-review |
 | 2025 | FreqPolicy: Frequency Autoregressive Visuomotor Policy with Continuous Tokens | NeurIPS · Visuomotor | [Paper](https://arxiv.org/abs/2506.01583) · [Index](https://dblp.org/rec/journals/corr/abs-2506-01583) | needs-review |
-| 2025 | HiMaCon: Discovering Hierarchical Manipulation Concepts from Unlabeled Multi-Modal Data | NeurIPS · Manipulation | [Paper](https://arxiv.org/abs/2510.11321) · [Index](https://dblp.org/rec/conf/nips/LiuZLSCSY25) | needs-review |
+| 2025 | HiMaCon: Discovering Hierarchical Manipulation Concepts from Unlabeled Multi-Modal Data | NeurIPS · Manipulation | [Paper](https://arxiv.org/abs/2510.11321) · [Official](https://proceedings.neurips.cc/paper_files/paper/2025/hash/97a9a4de4337c7a0ef2b603ca0fa1d6a-Abstract-Conference.html) | needs-review |
 | 2025 | Hyper-GoalNet: Goal-Conditioned Manipulation Policy Learning with HyperNetworks | NeurIPS · Manipulation | [Paper](https://arxiv.org/abs/2512.00085) · [Index](https://dblp.org/rec/conf/nips/ZhouYLZY25) | needs-review |
 | 2025 | MonoLift: Learning 3D Manipulation Policies from Monocular RGB via Distillation | NeurIPS · Manipulation | [Paper](https://doi.org/10.52202/085713-0181) · [Publisher](https://doi.org/10.52202/085713-0181) | needs-review |
 | 2025 | PAC Bench: Do Foundation Models Understand Prerequisites for Executing Manipulation Policies? | NeurIPS · Foundation Model | [Paper](https://arxiv.org/abs/2506.23725) · [Index](https://dblp.org/rec/journals/corr/abs-2506-23725) | needs-review |

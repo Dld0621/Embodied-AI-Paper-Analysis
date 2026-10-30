@@ -1,12 +1,12 @@
 # Affordances & Interaction Relations · 可供性与交互关系
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Object%20%26%20Interaction%20Perception&specialty=Affordances%20%26%20Interaction%20Relations#research-workbench)
 
-> 31 conference papers · 66 recent arXiv papers
+> 31 conference papers · 68 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -56,10 +56,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | AssistQ: Affordance-centric Question-driven Task Completion for Egocentric Assistant | ECCV · Affordance | [Paper](https://arxiv.org/abs/2203.04203) · [Index](https://dblp.org/rec/conf/eccv/WongCWLMGS22) | rule-assigned |
 | 2022 | Affordance Learning from Play for Sample-Efficient Policy Learning | ICRA · Affordance | [Paper](https://arxiv.org/abs/2203.00352) · [Index](https://dblp.org/rec/journals/corr/abs-2203-00352) | rule-assigned |
 
-## Recent arXiv papers (66)
+## Recent arXiv papers (68)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | EgoContact: Evaluating Physical Intelligence with Egocentric Video | Adam Deryło, Alexey Gavryushin, Daniel Cremers, Marc Pollefeys et al. | [Abstract](https://arxiv.org/abs/2610.39167) · [PDF](https://arxiv.org/pdf/2610.39167) | rule-assigned |
+| 2026-10-29 | Decoding Geometry, Not Tokens: Efficient VLMs for Robot Affordance and Trajectory Prediction | Akila Ayanthi, Darshana Priyasad, Tharindu Fernando, Dimity Miller et al. | [Abstract](https://arxiv.org/abs/2610.39416) · [PDF](https://arxiv.org/pdf/2610.39416) | rule-assigned |
 | 2026-10-12 | Phase-Conditioned Affordance Fields for SE(3)-Equivariant Visuomotor Policies | Xinzhe Chen, Liqi Huang, Sihua Ren, Haowen Sun et al. | [Abstract](https://arxiv.org/abs/2610.17281) · [PDF](https://arxiv.org/pdf/2610.17281) | rule-assigned |
 | 2026-09-01 | Part Grounding, Not Action Knowledge: Locating the Bottleneck in VLM Affordance Prediction | Sarthak Sattigeri | [Abstract](https://arxiv.org/abs/2609.13225) · [PDF](https://arxiv.org/pdf/2609.13225) | rule-assigned |
 | 2026-08-31 | CoLT-Drive: Counterfactual Long-Tail Benchmarking and Knowledge-Preserving Adaptation for Driving Affordance Prediction | Zhengxu Tang, Guofeng Cui, Ziyu Gong, Xiaozhou Zhang et al. | [Abstract](https://arxiv.org/abs/2609.00242) · [PDF](https://arxiv.org/pdf/2609.00242) | rule-assigned |
@@ -90,7 +92,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-02-05 | Affordance-Aware Interactive Decision-Making and Execution for Ambiguous Instructions | Hengxuan Xu, Fengbo Lan, Zhixin Zhao, Shengjie Wang et al. | [Abstract](https://arxiv.org/abs/2602.05273) · [PDF](https://arxiv.org/pdf/2602.05273) | rule-assigned |
 | 2025-12-18 | Active Sensing Shapes Real-World Decision-Making through Dynamic Evidence Accumulation | Hongliang Lu, Yunmeng Liu, Junjie Yang | [Abstract](https://arxiv.org/abs/2601.04214) · [PDF](https://arxiv.org/pdf/2601.04214) | rule-assigned |
 | 2025-12-16 | A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning | Zixin Zhang, Kanghao Chen, Hanqing Wang, Hongfei Zhang et al. | [Abstract](https://arxiv.org/abs/2512.14442) · [PDF](https://arxiv.org/pdf/2512.14442) | rule-assigned |
-| 2025-12-03 | CRAFT-E: A Neuro-Symbolic Framework for Embodied Affordance Grounding | Zhou Chen, Joe Lin, Carson Bulgin, Sathyanarayanan N. Aakur | [Abstract](https://arxiv.org/abs/2512.04231) · [PDF](https://arxiv.org/pdf/2512.04231) | rule-assigned |
+| 2025-12-03 | CRAFT-E: An Interpretable and Editable Neuro-Symbolic Framework for Affordance-Grounded Active Object Retrieval | Zhou Chen, Joe Lin, Carson Bulgin, Sathyanarayanan N. Aakur | [Abstract](https://arxiv.org/abs/2512.04231) · [PDF](https://arxiv.org/pdf/2512.04231) | rule-assigned |
 | 2025-11-03 | TRACE: Textual Reasoning for Affordance Coordinate Extraction | Sangyun Park, Jin Kim, Yuchen Cui, Matthew S. Brown | [Abstract](https://arxiv.org/abs/2511.01999) · [PDF](https://arxiv.org/pdf/2511.01999) | rule-assigned |
 | 2025-10-13 | More than A Point: Capturing Uncertainty with Adaptive Affordance Heatmaps for Spatial Grounding in Robotic Tasks | Xinyu Shao, Yanzhe Tang, Pengwei Xie, Kaiwen Zhou et al. | [Abstract](https://arxiv.org/abs/2510.10912) · [PDF](https://arxiv.org/pdf/2510.10912) | rule-assigned |
 | 2025-10-03 | Mask2IV: Interaction-Centric Video Generation via Mask Trajectories | Gen Li, Bo Zhao, Jianfei Yang, Laura Sevilla-Lara | [Abstract](https://arxiv.org/abs/2510.03135) · [PDF](https://arxiv.org/pdf/2510.03135) | rule-assigned |

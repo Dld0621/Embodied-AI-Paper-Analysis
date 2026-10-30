@@ -1,12 +1,12 @@
 # Few-shot & Test-time Adaptation · 少样本与测试时适配
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generalization%20%26%20Adaptation&specialty=Few-shot%20%26%20Test-time%20Adaptation#research-workbench)
 
-> 22 conference papers · 276 recent arXiv papers
+> 22 conference papers · 279 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -40,17 +40,22 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | What Do We Learn from a Large-Scale Study of Pre-Trained Visual Representations in Sim and Real Environments? | ICRA · Visual Representation | [Paper](https://arxiv.org/pdf/2310.02219) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610218) | rule-assigned |
 | 2024 | BayRnTune: Adaptive Bayesian Domain Randomization via Strategic Fine-tuning | IROS · Domain Randomization | [Paper](https://arxiv.org/pdf/2310.10606) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802145) | rule-assigned |
 | 2024 | BTGenBot: Behavior Tree Generation for Robotic Tasks with Lightweight LLMs | IROS · Llm | [Paper](https://arxiv.org/pdf/2403.12761) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802304) | rule-assigned |
-| 2024 | Meta-Learning for Fast Adaptation in Intent Inferral on a Robotic Hand Orthosis for Stroke | IROS · Robotic Hand | [Paper](https://arxiv.org/pdf/2403.13147) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801596) | rule-assigned |
+| 2024 | Meta-Learning for Fast Adaptation in Intent Inferral on a Robotic Hand Orthosis for Stroke | IROS · Robotic Hand | [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12323764/pdf/nihms-2039983.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801596) | rule-assigned |
 | 2024 | Text2Map: From Navigational Instructions to Graph-Based Indoor Map Representations Using LLMs | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802370) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802370) | rule-assigned |
 | 2023 | Grounding Language with Visual Affordances over Unstructured Data | ICRA · Affordance | [Paper](https://arxiv.org/pdf/2210.01911) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160396) | rule-assigned |
 | 2023 | Semantic Scene Difference Detection in Daily Life Patroling by Mobile Robots Using Pre-Trained Large-Scale Vision-Language Model | IROS · Language Model | [Paper](https://arxiv.org/pdf/2309.16552) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342467) | rule-assigned |
 | 2023 | TidyBot: Personalized Robot Assistance with Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2305.05658) · [Publisher](https://doi.org/10.1007/s10514-023-10139-z) | rule-assigned |
 | 2023 | Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects | NeurIPS · Affordance | [Paper](https://arxiv.org/pdf/2309.07473) · [Index](https://dblp.org/rec/journals/corr/abs-2309-07473) | rule-assigned |
 
-## Recent arXiv papers (276)
+## Recent arXiv papers (279)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-28 | Open-World Object Motion Anticipation via Meta-Learned Semantic Adaptation | Mason Peterson, Gage MacLin, Camilla Tabasso, Jonathan P. How et al. | [Abstract](https://arxiv.org/abs/2610.38993) · [PDF](https://arxiv.org/pdf/2610.38993) | rule-assigned |
+| 2026-10-27 | GRAFT: Geometry-Aware Residual Adaptation for Foundation Trackers | Liang Li, Guoyao Zhang, Xingyu Chen, Sikai Wu et al. | [Abstract](https://arxiv.org/abs/2610.36507) · [PDF](https://arxiv.org/pdf/2610.36507) | rule-assigned |
+| 2026-10-26 | Program-Level Adversarial Co-Adaptive Self-Play for Robotic Security | Leo Benaharon, Chi Zhang, Wei Zheng, Weifan Zhang et al. | [Abstract](https://arxiv.org/abs/2610.36143) · [PDF](https://arxiv.org/pdf/2610.36143) | rule-assigned |
+| 2026-10-24 | RoboJev: An Open Vision-Language Judge for Robot Success Detection | Josef Liyanjun Chen | [Abstract](https://arxiv.org/abs/2610.33718) · [PDF](https://arxiv.org/pdf/2610.33718) | rule-assigned |
+| 2026-10-23 | TinyFlow: Breaking the Warping Bottleneck for Edge Optical Flow | Xiao'ao Song, Chahat Deep Singh | [Abstract](https://arxiv.org/abs/2610.33338) · [PDF](https://arxiv.org/pdf/2610.33338) | rule-assigned |
 | 2026-10-19 | SteerAct: Unlocking Action Models through Few-Shot Temporal Steering | Kaichen Zhou, Zhiyan Li, Chongkai Gao, Yuhan Wang et al. | [Abstract](https://arxiv.org/abs/2610.25632) · [PDF](https://arxiv.org/pdf/2610.25632) | rule-assigned |
 | 2026-10-19 | Learning from Fleet Experience: Collective Experience Learning Across 96 Robots | Chao Yu, Shu'ang Yu, Hao Lin, Hongzhi Zang et al. | [Abstract](https://arxiv.org/abs/2610.25736) · [PDF](https://arxiv.org/pdf/2610.25736) | rule-assigned |
 | 2026-10-19 | ACE-Brain-0.6: Scaling Spatial Grounding for Physical Foundation Models | Yinhe Wang, Tao Tao, Zexin He, Shuang Luo et al. | [Abstract](https://arxiv.org/abs/2610.27040) · [PDF](https://arxiv.org/pdf/2610.27040) | rule-assigned |
@@ -106,7 +111,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-07-02 | NeoMap: Training-free Novel-View Synthesis from Single Images and Videos | Jinxi Li, Tianyi Zhang, Yafei Yang, Zihui Zhang et al. | [Abstract](https://arxiv.org/abs/2607.01962) · [PDF](https://arxiv.org/pdf/2607.01962) | rule-assigned |
 | 2026-07-01 | What's Hidden Matters: Identifying Planning-Critical Occluded Agents using Vision-Language Models | Amirhosein Chahe, Tyler Naes, Jovin D'sa, Faizan M. Tariq et al. | [Abstract](https://arxiv.org/abs/2607.00283) · [PDF](https://arxiv.org/pdf/2607.00283) | rule-assigned |
 | 2026-06-26 | LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior | Qinhong Zhou, Chuang Gan, Anoop Cherian | [Abstract](https://arxiv.org/abs/2606.28182) · [PDF](https://arxiv.org/pdf/2606.28182) | rule-assigned |
-| 2026-06-25 | Inference-Time Robot Behavior Steering through Physically-Aware Reconfiguration of Task-Structure | Yiyuan Pan, Hanjiang Hu, Shangtao Li, Xusheng Luo et al. | [Abstract](https://arxiv.org/abs/2606.26588) · [PDF](https://arxiv.org/pdf/2606.26588) | rule-assigned |
 | 2026-06-18 | One-to-Two Acting: A Novel Framework for Single-arm Agent Action Expansion to Dual Arms | Youbin Yao, Nieqin Cao, Mingyan Li, Yan Ding et al. | [Abstract](https://arxiv.org/abs/2606.19897) · [PDF](https://arxiv.org/pdf/2606.19897) | rule-assigned |
 | 2026-06-15 | Unified Motion-Action Modeling for Heterogeneous Robot Learning | Yunhao Cao, Shitong Liu, Chao Feng, Meryl Zhang et al. | [Abstract](https://arxiv.org/abs/2606.16917) · [PDF](https://arxiv.org/pdf/2606.16917) | rule-assigned |
 | 2026-06-12 | Optimality-Preserving Decomposition for Scalable QAOA in Natural-Language-Guided Multi-Drone Assignment | Junyeop Bang, Byongho Lee, Dohyun An, Hwangnam Kim | [Abstract](https://arxiv.org/abs/2606.14252) · [PDF](https://arxiv.org/pdf/2606.14252) | rule-assigned |
@@ -326,7 +330,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-17 | A Language Agent for Autonomous Driving | Jiageng Mao, Junjie Ye, Yuxi Qian, Marco Pavone et al. | [Abstract](https://arxiv.org/abs/2311.10813) · [PDF](https://arxiv.org/pdf/2311.10813) | rule-assigned |
 | 2023-11-14 | Human-Centric Autonomous Systems With LLMs for User Command Reasoning | Yi Yang, Qingwen Zhang, Ci Li, Daniel Simões Marta et al. | [Abstract](https://arxiv.org/abs/2311.08206) · [PDF](https://arxiv.org/pdf/2311.08206) | rule-assigned |
 | 2023-11-02 | Vision-Language Foundation Models as Effective Robot Imitators | Xinghang Li, Minghuan Liu, Hanbo Zhang, Cunjun Yu et al. | [Abstract](https://arxiv.org/abs/2311.01378) · [PDF](https://arxiv.org/pdf/2311.01378) | rule-assigned |
-| 2023-10-27 | Fine-Tuning Language Models Using Formal Methods Feedback | Yunhao Yang, Neel P. Bhatt, Tyler Ingebrand, William Ward et al. | [Abstract](https://arxiv.org/abs/2310.18239) · [PDF](https://arxiv.org/pdf/2310.18239) | rule-assigned |
 
 ---
 

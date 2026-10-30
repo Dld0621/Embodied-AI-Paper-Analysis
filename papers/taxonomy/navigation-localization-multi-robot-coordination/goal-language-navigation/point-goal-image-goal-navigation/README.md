@@ -1,12 +1,12 @@
 # Point-goal & Image-goal Navigation · 点目标与图像目标导航
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Goal%20%26%20Language%20Navigation&specialty=Point-goal%20%26%20Image-goal%20Navigation#research-workbench)
 
-> 24 conference papers · 116 recent arXiv papers
+> 24 conference papers · 119 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -49,10 +49,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Topological Semantic Graph Memory for Image-Goal Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2209.08274) · [Index](https://dblp.org/rec/journals/corr/abs-2209-08274) | rule-assigned |
 | 2022 | ZSON: Zero-Shot Object-Goal Navigation using Multimodal Goal Embeddings | NeurIPS · Navigation | [Paper](https://arxiv.org/pdf/2206.12403) · [Index](https://dblp.org/rec/journals/corr/abs-2206-12403) | rule-assigned |
 
-## Recent arXiv papers (116)
+## Recent arXiv papers (119)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-27 | Omni-IGN: Onboard Image-Goal Navigation for Drones with Omnidirectional Vision | Zichen Yan, Rui Huang, Shenao Wang, Yucong Wang et al. | [Abstract](https://arxiv.org/abs/2610.36968) · [PDF](https://arxiv.org/pdf/2610.36968) | rule-assigned |
+| 2026-10-25 | ScheNav: Schematic-Guided Object Goal Navigation | Guichen Huang, Chenchen Jing, Che Sun, Yuwei Wu et al. | [Abstract](https://arxiv.org/abs/2610.34286) · [PDF](https://arxiv.org/pdf/2610.34286) | rule-assigned |
+| 2026-10-22 | See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space | Jiawei Chen, Yinxi Wang, Zihan Yang, Meijun Gao et al. | [Abstract](https://arxiv.org/abs/2610.31762) · [PDF](https://arxiv.org/pdf/2610.31762) | rule-assigned |
 | 2026-10-22 | A Sparse Topometric Graph for Scalable Cross-Session Indoor Navigation | Eun Sun Lee, Minkyun Seo, Gwangtak Bae, Junho Kim et al. | [Abstract](https://arxiv.org/abs/2610.31432) · [PDF](https://arxiv.org/pdf/2610.31432) | rule-assigned |
 | 2026-10-20 | EchoNav: Evidential BEV Completion from Historical Observations for Visual Navigation | Diwen Liu, Yiyang Shao, Borui Wang, Chi Zhang et al. | [Abstract](https://arxiv.org/abs/2610.27616) · [PDF](https://arxiv.org/pdf/2610.27616) | rule-assigned |
 | 2026-10-20 | CovNav: Conformal Prediction-Guided Adaptive Inference for Object Goal Navigation | Pengying Wu, Zhejia Wen, Kang Ding, Kangjie Zhou et al. | [Abstract](https://arxiv.org/abs/2610.27677) · [PDF](https://arxiv.org/pdf/2610.27677) | rule-assigned |

@@ -1,7 +1,7 @@
 # Soft Mechanisms & Actuation · 软体机构与驱动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Soft%20%26%20Specialized%20Robots&specialty=Soft%20Mechanisms%20%26%20Actuation#research-workbench)
@@ -33,6 +33,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-28 | Controlling Continuum Robot Shape in Enclosed Space with Embedded Sensing using IMU and Actuator Feedback | Jiahe Wang, Sultan Haidar Ali, Eric Weissman, Jiefeng Sun | [Abstract](https://arxiv.org/abs/2610.39055) · [PDF](https://arxiv.org/pdf/2610.39055) | rule-assigned |
 | 2026-10-19 | A Probabilistic, Rotation-Preserving Kernel Operator Surrogate for Continuum-Robot Design Spaces | Branden Frieden, Alan Kuntz, Varun Shankar | [Abstract](https://arxiv.org/abs/2610.26605) · [PDF](https://arxiv.org/pdf/2610.26605) | rule-assigned |
 | 2026-10-18 | Adaptive Bendpoint Formation in Octopus-Inspired Soft Continuum Arms | Jessica Gumowski, Julian Finn, Krishna Manaswi Digumarti, David Howard | [Abstract](https://arxiv.org/abs/2610.25585) · [PDF](https://arxiv.org/pdf/2610.25585) | rule-assigned |
 | 2026-09-30 | Magnetic based In-situ Self 3D Pose Estimation for a Modular Soft Tendon-Driven Continuum Robot via IMU-Fusion | Zheng Cao, Guo Ning Sue, Xiangyun Bu, David Quinn et al. | [Abstract](https://arxiv.org/abs/2609.39950) · [PDF](https://arxiv.org/pdf/2609.39950) | rule-assigned |
@@ -46,7 +47,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-07-17 | Continuously Stable Structure through Plastic Deformation | Junlong Xiao, Yaoqiang Pan, Xuan Zhang, Michael Yu Wang et al. | [Abstract](https://arxiv.org/abs/2607.15659) · [PDF](https://arxiv.org/pdf/2607.15659) | rule-assigned |
 | 2026-07-16 | Hybrid Rigid-Soft Robotic Gripper with Shape Adaptation, Uniform Force Distribution, and Self-Locking Capabilities | Xi Chen, Yun Wang, Lichao Yang, Haitao Li et al. | [Abstract](https://arxiv.org/abs/2607.14730) · [PDF](https://arxiv.org/pdf/2607.14730) | rule-assigned |
 | 2026-06-02 | Optimal Design and Analytical Modeling of a Soft Fin-Ray Effect Gripper Finger Using the Finite Rigid Elements Method | Sara Adeli, Hassan Sayyaadi | [Abstract](https://arxiv.org/abs/2606.03798) · [PDF](https://arxiv.org/pdf/2606.03798) | rule-assigned |
-| 2026-04-17 | Factor Graph-Based Shape Estimation for Continuum Robots via Magnus Expansion | Lorenzo Ticozzi, Patricio A. Vela, Panagiotis Tsiotras | [Abstract](https://arxiv.org/abs/2604.15619) · [PDF](https://arxiv.org/pdf/2604.15619) | rule-assigned |
 | 2026-04-17 | Contact-Aware Planning and Control of Continuum Robots in Highly Constrained Environments | Aedan Mangan, Kehan Long, Ki Myung Brian Lee, Miheer Potdar et al. | [Abstract](https://arxiv.org/abs/2604.15638) · [PDF](https://arxiv.org/pdf/2604.15638) | rule-assigned |
 | 2026-04-01 | An Integrated Soft Robotic System for Measuring Vital Signs in Search and Rescue Environments | Jorge Francisco García-Samartín, Christyan Cruz Ulloa, Andrés Sánchez-Silva, Jaime del Cerro et al. | [Abstract](https://arxiv.org/abs/2604.00971) · [PDF](https://arxiv.org/pdf/2604.00971) | rule-assigned |
 | 2026-03-23 | Trajectory Generation for Underactuated Soft Robot Manipulators using Discrete Elastic Rod Dynamics | Beibei Liu, Akua K. Dickson, Ran Jing, Andrew P. Sabelhaus | [Abstract](https://arxiv.org/abs/2603.22604) · [PDF](https://arxiv.org/pdf/2603.22604) | rule-assigned |

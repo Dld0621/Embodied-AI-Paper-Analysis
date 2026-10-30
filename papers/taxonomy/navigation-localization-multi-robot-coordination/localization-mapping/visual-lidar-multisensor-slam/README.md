@@ -1,12 +1,12 @@
 # Visual, LiDAR & Multisensor SLAM · 视觉／激光／多传感器 SLAM
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Visual%2C%20LiDAR%20%26%20Multisensor%20SLAM#research-workbench)
 
-> 14 conference papers · 556 recent arXiv papers
+> 14 conference papers · 557 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -39,10 +39,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | 3D Lidar Reconstruction with Probabilistic Depth Completion for Robotic Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2207.12520) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981531) | rule-assigned |
 | 2022 | Visual Confined-Space Navigation Using an Efficient Learned Bilinear Optic Flow Approximation for Insect-scale Robots | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981585) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981585) | rule-assigned |
 
-## Recent arXiv papers (556)
+## Recent arXiv papers (557)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-27 | RAVEN: A Unified Active SLAM System for Rapid Autonomous Visual Exploration with Aerial Robots under Localization Uncertainty | Xinyi Chen, Yichen Zhang, Chenxing Jiang, Shaojie Shen | [Abstract](https://arxiv.org/abs/2610.37111) · [PDF](https://arxiv.org/pdf/2610.37111) | rule-assigned |
+| 2026-10-26 | SG^2SLAM: Spatial Geometry-Informed 3D Gaussian Splatting SLAM for Monocular Outdoor Navigation | Ziang Guo, Didar Seyidov, Yixiao Zhou, Xuefeng Zhang et al. | [Abstract](https://arxiv.org/abs/2610.36312) · [PDF](https://arxiv.org/pdf/2610.36312) | rule-assigned |
+| 2026-10-23 | Bracketing Shows the Way: Adaptive Multi-Exposure Policy as Input for Robust Visual SLAM | Olivier Gamache, Anthony Lavertu, David-Alexandre Duclos, Jean-Michel Fortin et al. | [Abstract](https://arxiv.org/abs/2610.33174) · [PDF](https://arxiv.org/pdf/2610.33174) | rule-assigned |
 | 2026-10-22 | Consistent Distributed Invariant EKF SLAM with Point and Object Features | Mengya Xu, Xianjia Yu, Ha Sier, Shoudong Huang et al. | [Abstract](https://arxiv.org/abs/2610.31221) · [PDF](https://arxiv.org/pdf/2610.31221) | rule-assigned |
 | 2026-10-21 | Reading the Room: Scale-ambiguous Semantic Registration of Sparse VSLAM Maps to Floor Plans in Partially Built Environments | Bjorn Stragier, Emilia Szymańska, J. Micah Prendergast, Lukas Rosenberger Schmid | [Abstract](https://arxiv.org/abs/2610.29647) · [PDF](https://arxiv.org/pdf/2610.29647) | rule-assigned |
 | 2026-10-19 | SpaRV: Sparse Radiance Voxels for Scalable Geometrically Consistent LiDAR-Visual Mapping and Rendering | Jianheng Liu, Yunfei Wan, Fangming Cheng, Xiangyu Hong et al. | [Abstract](https://arxiv.org/abs/2610.25665) · [PDF](https://arxiv.org/pdf/2610.25665) | rule-assigned |
@@ -216,7 +219,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-01-08 | Discrete Fourier Transform-based Point Cloud Compression for Efficient SLAM in Featureless Terrain | Riku Suzuki, Ayumi Umemura, Shreya Santra, Kentaro Uno et al. | [Abstract](https://arxiv.org/abs/2601.04551) · [PDF](https://arxiv.org/pdf/2601.04551) | rule-assigned |
 | 2026-01-03 | VISO: Robust Underwater Visual-Inertial-Sonar SLAM with Photometric Rendering for Dense 3D Reconstruction | Shu Pan, Simon Archieri, Ahmet Cinar, Jonatan Scharff Willners et al. | [Abstract](https://arxiv.org/abs/2601.01144) · [PDF](https://arxiv.org/pdf/2601.01144) | rule-assigned |
 | 2026-01-02 | Variable Elimination in Hybrid Factor Graphs for Discrete-Continuous Inference & Estimation | Varun Agrawal, Frank Dellaert | [Abstract](https://arxiv.org/abs/2601.00545) · [PDF](https://arxiv.org/pdf/2601.00545) | rule-assigned |
-| 2025-12-28 | RGS-SLAM: Robust Gaussian Splatting SLAM with One-Shot Dense Initialization | Wei-Tse Cheng, Yen-Jen Chiou, Yuan-Fu Yang | [Abstract](https://arxiv.org/abs/2601.00705) · [PDF](https://arxiv.org/pdf/2601.00705) | rule-assigned |
+| 2025-12-28 | Rethinking Densification in Gaussian SLAM: A Stationary Sampling Perspective | Wei-Tse Cheng, Yen-Jen Chiou, Yuan-Fu Yang | [Abstract](https://arxiv.org/abs/2601.00705) · [PDF](https://arxiv.org/pdf/2601.00705) | rule-assigned |
 | 2025-12-19 | Research on Dead Reckoning Algorithm for Self-Propelled Pipeline Robots in Three-Dimensional Complex Pipelines | Yan Gao, Jiliang Wang, Minghan Wang, Xiaohua Chen et al. | [Abstract](https://arxiv.org/abs/2512.17215) · [PDF](https://arxiv.org/pdf/2512.17215) | rule-assigned |
 | 2025-12-13 | Navigation Around Unknown Space Objects Using Visible-Thermal Image Fusion | Eric J. Elias, Michael Esswein, Jonathan P. How, David W. Miller | [Abstract](https://arxiv.org/abs/2512.12203) · [PDF](https://arxiv.org/pdf/2512.12203) | rule-assigned |
 | 2025-12-10 | MI-SLAM: Magnetic Inertial SLAM Systems | Chuan Huang, Gustaf Hendeby, Isaac Skog | [Abstract](https://arxiv.org/abs/2512.10128) · [PDF](https://arxiv.org/pdf/2512.10128) | rule-assigned |
@@ -597,8 +600,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-02 | Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM | Hyungtae Lim, Beomsoo Kim, Daebeom Kim, Eungchang Mason Lee et al. | [Abstract](https://arxiv.org/abs/2311.00928) · [PDF](https://arxiv.org/pdf/2311.00928) | rule-assigned |
 | 2023-11-01 | LiDAR-based SLAM for robotic mapping: state of the art and new frontiers | Xiangdi Yue, Yihuan Zhang, Miaolei He | [Abstract](https://arxiv.org/abs/2311.00276) · [PDF](https://arxiv.org/pdf/2311.00276) | rule-assigned |
 | 2023-10-30 | Distributed multi-agent magnetic field norm SLAM with Gaussian processes | Frida Viset, Rudy Helmons, Manon Kok | [Abstract](https://arxiv.org/abs/2310.19400) · [PDF](https://arxiv.org/pdf/2310.19400) | rule-assigned |
-| 2023-10-28 | KernelGPA: A Globally Optimal Solution to Deformable SLAM in Closed-form | Fang Bai, Kanzhi Wu, Adrien Bartoli | [Abstract](https://arxiv.org/abs/2310.18697) · [PDF](https://arxiv.org/pdf/2310.18697) | rule-assigned |
-| 2023-10-26 | Navigating to Success in Multi-Modal Human-Robot Collaboration: Analysis and Corpus Release | Stephanie M. Lukin, Kimberly A. Pollard, Claire Bonial, Taylor Hudson et al. | [Abstract](https://arxiv.org/abs/2310.17568) · [PDF](https://arxiv.org/pdf/2310.17568) | rule-assigned |
 
 ---
 

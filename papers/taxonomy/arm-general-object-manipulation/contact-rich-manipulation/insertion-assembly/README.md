@@ -1,12 +1,12 @@
 # Insertion & Assembly · 插入与装配
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Insertion%20%26%20Assembly#research-workbench)
 
-> 126 conference papers · 367 recent arXiv papers
+> 126 conference papers · 365 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -151,10 +151,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Tactile-Sensitive NewtonianVAE for High-Accuracy Industrial Connector Insertion | IROS · Tactile | [Paper](https://arxiv.org/pdf/2203.05955) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981610) | rule-assigned |
 | 2022 | Factory: Fast Contact for Robotic Assembly | RSS · Assembly | [Paper](https://arxiv.org/abs/2205.03532) · [Index](https://dblp.org/rec/journals/corr/abs-2205-03532) | rule-assigned |
 
-## Recent arXiv papers (367)
+## Recent arXiv papers (365)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | DAWN: Diffusion-based Alignment and unfastening Workflow Network | Hemant Kumar, Piyush Goenka, Nikhil Chopra | [Abstract](https://arxiv.org/abs/2610.40537) · [PDF](https://arxiv.org/pdf/2610.40537) | rule-assigned |
+| 2026-10-23 | Geometry-Aware Reinforcement Learning for Close-Fitting Wearable Insertion | Takuma Tsukakoshi, Elle Miller, Tamon Miyake, Namiko Saito et al. | [Abstract](https://arxiv.org/abs/2610.32143) · [PDF](https://arxiv.org/pdf/2610.32143) | rule-assigned |
 | 2026-10-21 | Learning to Absorb Corrections: Critic-Weighted Residual Flow for Vision-Based Insertion | Yiqing Yuan, Zhi Li, Jinrong Yang, Mingshan Sun et al. | [Abstract](https://arxiv.org/abs/2610.29117) · [PDF](https://arxiv.org/pdf/2610.29117) | rule-assigned |
 | 2026-10-21 | CW-WAM: A Structured Contact-Wrench World Action Model for Force-Sensitive Manipulation | Houzhu Ding, Xinda Qi, Luqi Wang, Ming Yang | [Abstract](https://arxiv.org/abs/2610.30117) · [PDF](https://arxiv.org/pdf/2610.30117) | rule-assigned |
 | 2026-10-20 | Towards Autonomous Bricklaying Using Boston Dynamics Spot | Karl-Johan Sorensen, Nico vom Hofe, Frank H. P. Fitzek | [Abstract](https://arxiv.org/abs/2610.27472) · [PDF](https://arxiv.org/pdf/2610.27472) | rule-assigned |
@@ -518,10 +520,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-01 | Constant-time Motion Planning with Anytime Refinement for Manipulation | Itamar Mishani, Hayden Feddock, Maxim Likhachev | [Abstract](https://arxiv.org/abs/2311.00837) · [PDF](https://arxiv.org/pdf/2311.00837) | rule-assigned |
 | 2023-10-31 | Large-Scale Multi-Robot Assembly Planning for Autonomous Manufacturing | Kyle Brown, Dylan M. Asmar, Mac Schwager, Mykel J. Kochenderfer | [Abstract](https://arxiv.org/abs/2311.00192) · [PDF](https://arxiv.org/pdf/2311.00192) | rule-assigned |
 | 2023-10-30 | Scalable underwater assembly with reconfigurable visual fiducials | Samuel Lensgraf, Ankita Sarkar, Adithya Pediredla, Devin Balkcom et al. | [Abstract](https://arxiv.org/abs/2310.19408) · [PDF](https://arxiv.org/pdf/2310.19408) | rule-assigned |
-| 2023-10-26 | Optimal Robotic Assembly Sequence Planning: A Sequential Decision-Making Approach | Kartik Nagpal, Negar Mehr | [Abstract](https://arxiv.org/abs/2310.17115) · [PDF](https://arxiv.org/pdf/2310.17115) | rule-assigned |
-| 2023-10-26 | Lightweight High-Speed and High-Force Gripper for Assembly | Toshihiro Nishimura, Takeshi Takaki, Yosuke Suzuki, Tokuo Tsuji et al. | [Abstract](https://arxiv.org/abs/2310.17197) · [PDF](https://arxiv.org/pdf/2310.17197) | rule-assigned |
-| 2023-10-25 | MimicTouch: Leveraging Multi-modal Human Tactile Demonstrations for Contact-rich Manipulation | Kelin Yu, Yunhai Han, Qixian Wang, Vaibhav Saxena et al. | [Abstract](https://arxiv.org/abs/2310.16917) · [PDF](https://arxiv.org/pdf/2310.16917) | rule-assigned |
-| 2023-10-25 | Directly 3D Printed, Pneumatically Actuated Multi-Material Robotic Hand | Hanna Matusik, Chao Liu, Daniela Rus | [Abstract](https://arxiv.org/abs/2310.16280) · [PDF](https://arxiv.org/pdf/2310.16280) | rule-assigned |
 
 ---
 

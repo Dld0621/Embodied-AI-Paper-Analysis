@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Pending%20specialty%20review#research-workbench)
 
-> 21 conference papers · 74 recent arXiv papers
+> 21 conference papers · 75 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -46,10 +46,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Maximal Manipulation Framework using Quadratic Programming for a Teleoperated Robotic System with Articulated bodies | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra46639.2022.9811602) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811602) | needs-review |
 | 2022 | A Contact-Safe Reinforcement Learning Framework for Contact-Rich Robot Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2207.13438) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981185) | needs-review |
 
-## Recent arXiv papers (74)
+## Recent arXiv papers (75)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | FORCA: A Force-Aware Coding Agent for Contact-Rich Robot Manipulation | Xiao Tan, Yixuan Wang, Zhexi Wang, Wenzhen Yuan | [Abstract](https://arxiv.org/abs/2610.31841) · [PDF](https://arxiv.org/pdf/2610.31841) | needs-review |
 | 2026-10-19 | GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation | Chen Yang, Linzhe Shi, Hang Zhang, Mu Xu et al. | [Abstract](https://arxiv.org/abs/2610.26846) · [PDF](https://arxiv.org/pdf/2610.26846) | needs-review |
 | 2026-10-16 | Ego2Contact: Predicting Touch from Egocentric Human Video for Contact-Rich Robot Manipulation | Qianqian Yang, Dayou Li, Bangya Liu, Zihao Zhu et al. | [Abstract](https://arxiv.org/abs/2610.22932) · [PDF](https://arxiv.org/pdf/2610.22932) | needs-review |
 | 2026-10-15 | CQDC-Warp: GPU-Accelerated Differentiable Quasi-Dynamic Simulation for Contact-Rich Manipulation | Yanchen Ding, Jiayi Chen, Jianfeng Xu, Wei Zhao et al. | [Abstract](https://arxiv.org/abs/2610.21349) · [PDF](https://arxiv.org/pdf/2610.21349) | needs-review |

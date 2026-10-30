@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Pending%20specialty%20review#research-workbench)
 
-> 10 conference papers · 13 recent arXiv papers
+> 10 conference papers · 14 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -35,10 +35,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Bimanual Scooping Policies for Food Acquisition | CoRL · Bimanual | [Paper](https://arxiv.org/abs/2211.14652) · [Index](https://dblp.org/rec/conf/corl/GrannenWBS22) | needs-review |
 | 2022 | SpeedFolding: Learning Efficient Bimanual Folding of Garments | IROS · Bimanual | [Paper](https://arxiv.org/pdf/2208.10552) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981402) | needs-review |
 
-## Recent arXiv papers (13)
+## Recent arXiv papers (14)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-27 | Keeping Contact: Task-Adaptive Friction Margins for Bimanual Non-Prehensile Manipulation | Qian Ying Lee, Lin Yang, Domenico Campolo | [Abstract](https://arxiv.org/abs/2610.36961) · [PDF](https://arxiv.org/pdf/2610.36961) | needs-review |
 | 2026-09-19 | Kinematic Interface for the Wild: Modular Bimanual Loco-Manipulation Capture from 360$^{\circ}$ Cameras Alone | Benjamin Yang, Weiying Wang, Shenggao Li, Keming Yan et al. | [Abstract](https://arxiv.org/abs/2609.22809) · [PDF](https://arxiv.org/pdf/2609.22809) | needs-review |
 | 2026-09-15 | AthenaZero: A low-inertia, bimanual robot for dynamic manipulation | Andrew S. Morgan, Gregory Xie, Capprin Bass, Rachel Thomasson et al. | [Abstract](https://arxiv.org/abs/2609.19194) · [PDF](https://arxiv.org/pdf/2609.19194) | needs-review |
 | 2026-07-23 | Grasp, Handover, Rotate: Bimanual Object Reorientation via Compositional Diffusion and Energy-Based Optimization | Wun Lam Yeung, Wenjun Liu, Yui Cheung Yu, Zhengyan Lambo Qin et al. | [Abstract](https://arxiv.org/abs/2607.21341) · [PDF](https://arxiv.org/pdf/2607.21341) | needs-review |

@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-30",
+  "snapshot_date": "2026-10-30",
+  "timezone": "Asia/Hong_Kong",
+  "baseline_commit": "fc44c1ea4bd268778a2873e05b85b948bcf3ad07",
+  "scope": "Title, venue, year and first-party publication-provenance checks only; not full-paper review, experiment reproduction, a semantic classification review or expanded admission rules.",
+  "source_policy": "Existing hand-verified seeds override discovered duplicates. A preprint bibliographic entry is not used as the sole evidence of conference acceptance when verified formal proceedings are available.",
+  "conference_records_before": 4363,
+  "conference_records_after": 4364,
+  "conference_additions": [
+    {
+      "title": "Demonstrating Event-Triggered Investigation and Sample Collection for Human Scientists using Field Robots and Large Foundation Models",
+      "year": 2024,
+      "venue": "RSS",
+      "official_url": "https://doi.org/10.15607/rss.2024.xx.017",
+      "discovery_source": "Semantic Scholar bulk API",
+      "primary_evidence": {
+        "kind": "official conference proceedings",
+        "url": "https://www.roboticsproceedings.org/rss20/p017.html",
+        "verified_claim": "The official RSS XX proceedings give the same title and list it in Proceedings of Robotics: Science and Systems, July 2024, with DOI 10.15607/RSS.2024.XX.017."
+      },
+      "action": "retain_newly_discovered_formal_conference_record",
+      "reason": "The paper is a newly admitted 2024 conference record, not a newly published October 2026 paper. Its title beginning with Demonstrating does not determine the acceptance tier; the formal proceedings do. The truncated Semantic Scholar abstract is retained as observed rather than completed by inference."
+    }
+  ],
+  "conference_removals": [],
+  "provenance_corrections": [
+    {
+      "title": "HiMaCon: Discovering Hierarchical Manipulation Concepts from Unlabeled Multi-Modal Data",
+      "year": 2025,
+      "venue": "NeurIPS",
+      "baseline_official_url": "https://dblp.org/rec/conf/nips/LiuZLSCSY25",
+      "bulk_refresh_official_url": "https://dblp.org/rec/journals/corr/abs-2510-11321",
+      "verified_official_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/97a9a4de4337c7a0ef2b603ca0fa1d6a-Abstract-Conference.html",
+      "primary_evidence": {
+        "kind": "official conference proceedings",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/97a9a4de4337c7a0ef2b603ca0fa1d6a-Abstract-Conference.html",
+        "verified_claim": "The official NeurIPS proceedings identify the title and authors in Advances in Neural Information Processing Systems 38 Main Conference (NeurIPS 2025), Main Conference Track, with DOI 10.52202/085713-3520."
+      },
+      "action": "promote_existing_record_to_hand_verified_seed",
+      "source_type_after": "official",
+      "discovery_source_after": "hand-verified seed",
+      "source_verified_on": "2026-10-30",
+      "reason": "The discovery index changed this existing record's provenance from a conference DBLP entry to an arXiv DBLP entry. A preprint entry alone does not substantiate conference acceptance. The formal NeurIPS proceedings were separately verified and are now stored as stable first-party provenance. The paper's identity, year, reading link, source abstract and pending taxonomy-review state are preserved; this is not a new paper or a completed semantic review."
+    }
+  ],
+  "final_seed_records": 78,
+  "final_bulk_records": 4286,
+  "ledger_adjustment": "NeurIPS new_records is reduced from 95 to 94 after the existing HiMaCon record is promoted to a seed, so the final non-seed merge total plus seeds reconciles to 4364. Actual harvest matched_records and classified_records remain unchanged.",
+  "limitations": [
+    "This review verifies formal-publication provenance for the one new conference entry and the one regressed provenance link; it is not an independent acceptance audit of every conference record.",
+    "The RSS record's supplied abstract is truncated. It is not silently rewritten from another source or represented as a complete abstract.",
+    "The old 77 seeds and their historical verification dates remain unchanged; only the newly verified HiMaCon provenance is dated 2026-10-30.",
+    "An original publication year, a source-observation snapshot and a document synchronization date are distinct. Earlier dated refresh receipts remain immutable."
+  ]
+}

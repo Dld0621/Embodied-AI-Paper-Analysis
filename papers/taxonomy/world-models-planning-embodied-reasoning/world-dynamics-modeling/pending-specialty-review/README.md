@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=World%20%26%20Dynamics%20Modeling&specialty=Pending%20specialty%20review#research-workbench)
 
-> 14 conference papers · 84 recent arXiv papers
+> 14 conference papers · 87 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -39,10 +39,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Multi-View Masked World Models for Visual Robotic Manipulation | ICML · Multi-view world models | [Paper](https://proceedings.mlr.press/v202/seo23a.html) · [Official](https://proceedings.mlr.press/v202/seo23a.html) | needs-review |
 | 2022 | Masked World Models for Visual Control | CoRL · Visual world models | [Paper](https://proceedings.mlr.press/v205/seo23a.html) · [Official](https://proceedings.mlr.press/v205/seo23a.html) | needs-review |
 
-## Recent arXiv papers (84)
+## Recent arXiv papers (87)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-24 | WorldFailBench: Do World Models Understand Policy Failures? | Zheng Zhang, Xiaoyang Tang, Shuaiqi Cheng, Jiakai Huang et al. | [Abstract](https://arxiv.org/abs/2610.33565) · [PDF](https://arxiv.org/pdf/2610.33565) | needs-review |
+| 2026-10-24 | RoboWorM: Evaluating Movement Realism, Consistency and Acceleration Affects in Embodied Video World Models | Doanh Le Thien, Viet-Thanh Nguyen, Pham Tri Quang, Nhi Pham et al. | [Abstract](https://arxiv.org/abs/2610.33807) · [PDF](https://arxiv.org/pdf/2610.33807) | needs-review |
 | 2026-10-21 | PhysiCalWorld: In-Context Physics Calibration for World Models | Yunhao Luo, Wentao He, Yinpei Dai, Hyelin Nam et al. | [Abstract](https://arxiv.org/abs/2610.30125) · [PDF](https://arxiv.org/pdf/2610.30125) | needs-review |
 | 2026-10-19 | Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience | Tianqi Liu, Hanfei Zhao, Qifeng Liang, Hui En Pang et al. | [Abstract](https://arxiv.org/abs/2610.26855) · [PDF](https://arxiv.org/pdf/2610.26855) | needs-review |
 | 2026-10-13 | WorldOracle: Benchmarking Action-Conditioned World Models against Real-World Executions | Haoyi Duan, Liliang Chen, Nan Wang, Yang Zhang et al. | [Abstract](https://arxiv.org/abs/2610.18826) · [PDF](https://arxiv.org/pdf/2610.18826) | needs-review |
@@ -97,6 +99,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-12-01 | GrndCtrl: Grounding World Models via Self-Supervised Reward Alignment | Haoyang He, Jay Patrikar, Dong-Ki Kim, Max Smith et al. | [Abstract](https://arxiv.org/abs/2512.01952) · [PDF](https://arxiv.org/pdf/2512.01952) | needs-review |
 | 2025-11-21 | Target-Bench: Can Video World Models Achieve Mapless Path Planning with Semantic Targets? | Dingrui Wang, Zhihao Liang, Hongyuan Ye, Zhexiao Sun et al. | [Abstract](https://arxiv.org/abs/2511.17792) · [PDF](https://arxiv.org/pdf/2511.17792) | needs-review |
 | 2025-11-14 | Scalable Policy Evaluation with Video World Models | Wei-Cheng Tseng, Jinwei Gu, Qinsheng Zhang, Hanzi Mao et al. | [Abstract](https://arxiv.org/abs/2511.11520) · [PDF](https://arxiv.org/pdf/2511.11520) | needs-review |
+| 2025-10-22 | Semantic World Models | Jacob Berg, Chuning Zhu, Yanda Bao, Ishan Durugkar et al. | [Abstract](https://arxiv.org/abs/2510.19818) · [PDF](https://arxiv.org/pdf/2510.19818) | needs-review |
 | 2025-10-07 | The Safety Challenge of World Models for Embodied AI Agents: A Review | Lorenzo Baraldi, Zifan Zeng, Chongzhe Zhang, Aradhana Nayak et al. | [Abstract](https://arxiv.org/abs/2510.05865) · [PDF](https://arxiv.org/pdf/2510.05865) | needs-review |
 | 2025-10-02 | A Recipe for Efficient Sim-to-Real Transfer in Manipulation with Online Imitation-Pretrained World Models | Yilin Wang, Shangzhe Li, Haoyi Niu, Jiawei Fu et al. | [Abstract](https://arxiv.org/abs/2510.02538) · [PDF](https://arxiv.org/pdf/2510.02538) | needs-review |
 | 2025-09-25 | KeyWorld: Key Frame Reasoning Enables Effective and Efficient World Models | Sibo Li, Qianyue Hao, Yu Shang, Yong Li | [Abstract](https://arxiv.org/abs/2509.21027) · [PDF](https://arxiv.org/pdf/2509.21027) | needs-review |
@@ -112,7 +115,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-06-01 | Humanoid World Models: Open World Foundation Models for Humanoid Robotics | Muhammad Qasim Ali, Aditya Sridhar, Shahbuland Matiana, Alex Wong et al. | [Abstract](https://arxiv.org/abs/2506.01182) · [PDF](https://arxiv.org/pdf/2506.01182) | needs-review |
 | 2025-05-19 | DreamGen: Unlocking Generalization in Robot Learning through Video World Models | Joel Jang, Seonghyeon Ye, Zongyu Lin, Jiannan Xiang et al. | [Abstract](https://arxiv.org/abs/2505.12705) · [PDF](https://arxiv.org/pdf/2505.12705) | needs-review |
 | 2025-03-26 | Perspective-Shifted Neuro-Symbolic World Models: A Framework for Socially-Aware Robot Navigation | Kevin Alcedo, Pedro U. Lima, Rachid Alami | [Abstract](https://arxiv.org/abs/2503.20425) · [PDF](https://arxiv.org/pdf/2503.20425) | needs-review |
-| 2025-03-10 | Delta-Triplane Transformers as Occupancy World Models | Haoran Xu, Peixi Peng, Guang Tan, Yiqian Chang et al. | [Abstract](https://arxiv.org/abs/2503.07338) · [PDF](https://arxiv.org/pdf/2503.07338) | needs-review |
+| 2025-03-10 | Aligned Delta-Triplane Transformers as Occupancy World Models | Haoran Xu, Peixi Peng, Shijun Guo, Guang Tan et al. | [Abstract](https://arxiv.org/abs/2503.07338) · [PDF](https://arxiv.org/pdf/2503.07338) | needs-review |
 | 2025-03-04 | Four Principles for Physically Interpretable World Models | Jordan Peper, Zhenjiang Mao, Yuang Geng, Siyuan Pan et al. | [Abstract](https://arxiv.org/abs/2503.02143) · [PDF](https://arxiv.org/pdf/2503.02143) | needs-review |
 | 2025-02-14 | Unlocking Efficient Vehicle Dynamics Modeling via Analytic World Models | Asen Nachkov, Danda Pani Paudel, Jan-Nico Zaech, Davide Scaramuzza et al. | [Abstract](https://arxiv.org/abs/2502.10012) · [PDF](https://arxiv.org/pdf/2502.10012) | needs-review |
 | 2025-01-20 | A Survey of World Models for Autonomous Driving | Tuo Feng, Wenguan Wang, Yi Yang | [Abstract](https://arxiv.org/abs/2501.11260) · [PDF](https://arxiv.org/pdf/2501.11260) | needs-review |

@@ -1,12 +1,12 @@
 # Global Path Planning · 全局路径规划 · arXiv 2024
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 413 papers · complete list for this taxonomy leaf
+> 412 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -148,7 +148,6 @@
 | 2024-09-18 | Learning-accelerated A* Search for Risk-aware Path Planning | Jun Xiang, Junfei Xie, Jun Chen | [Abstract](https://arxiv.org/abs/2409.11634) · [PDF](https://arxiv.org/pdf/2409.11634) | rule-assigned |
 | 2024-09-18 | C-Uniform Trajectory Sampling For Fast Motion Planning | O. Goktug Poyrazoglu, Yukang Cao, Volkan Isler | [Abstract](https://arxiv.org/abs/2409.12266) · [PDF](https://arxiv.org/pdf/2409.12266) | rule-assigned |
 | 2024-09-17 | Rigid Body Path Planning using Mixed-Integer Linear Programming | Mingxin Yu, Chuchu Fan | [Abstract](https://arxiv.org/abs/2409.11520) · [PDF](https://arxiv.org/pdf/2409.11520) | rule-assigned |
-| 2024-09-17 | Optimization of Rulebooks via Asymptotically Representing Lexicographic Hierarchies for Autonomous Vehicles | Matteo Penlington, Alessandro Zanardi, Emilio Frazzoli | [Abstract](https://arxiv.org/abs/2409.11199) · [PDF](https://arxiv.org/pdf/2409.11199) | rule-assigned |
 | 2024-09-17 | Exact Wavefront Propagation for Globally Optimal One-to-All Path Planning on 2D Cartesian Grids | Ibrahim Ibrahim, Joris Gillis, Wilm Decré, Jan Swevers | [Abstract](https://arxiv.org/abs/2409.11545) · [PDF](https://arxiv.org/pdf/2409.11545) | rule-assigned |
 | 2024-09-17 | Autonomous Navigation in Ice-Covered Waters with Learned Predictions on Ship-Ice Interactions | Ninghan Zhong, Alessandro Potenza, Stephen L. Smith | [Abstract](https://arxiv.org/abs/2409.11326) · [PDF](https://arxiv.org/pdf/2409.11326) | rule-assigned |
 | 2024-09-16 | ViewActive: Active viewpoint optimization from a single image | Jiayi Wu, Xiaomin Lin, Botao He, Cornelia Fermuller et al. | [Abstract](https://arxiv.org/abs/2409.09997) · [PDF](https://arxiv.org/pdf/2409.09997) | rule-assigned |

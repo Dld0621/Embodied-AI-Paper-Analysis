@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Sensors%20%26%20Human%20Interfaces&specialty=Pending%20specialty%20review#research-workbench)
 
-> 8 conference papers · 45 recent arXiv papers
+> 8 conference papers · 47 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,10 +33,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | A Force-Sensitive Exoskeleton for Teleoperation: An Application in Elderly Care Robotics | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161175) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161175) | needs-review |
 | 2022 | Reactive Stepping for Humanoid Robots using Reinforcement Learning: Application to Standing Push Recovery on the Exoskeleton Atalante | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2203.01148) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982234) | needs-review |
 
-## Recent arXiv papers (45)
+## Recent arXiv papers (47)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-27 | Multi-Agent Reinforcement Learning of Co-Adaptive Hip Exoskeleton Control (MARL-Exo) for Metabolic Energy Reduction | Yifei Yuan, Jakob Wolf, Ghaith Androwis, Xianlian Zhou | [Abstract](https://arxiv.org/abs/2610.37441) · [PDF](https://arxiv.org/pdf/2610.37441) | needs-review |
 | 2026-10-06 | ExoBridge: Learning a Bare Hand to Hand-Worn Exoskeleton Mapping through Human Limb Coupling | Ruitong Tian, Xianyao Li, Noah B. Wilson, Fang Xu et al. | [Abstract](https://arxiv.org/abs/2610.07692) · [PDF](https://arxiv.org/pdf/2610.07692) | needs-review |
 | 2026-10-02 | Subject-Specific Predictive Musculoskeletal Simulations of Lower-Limb Exoskeleton Assistance: Metabolic and Biomechanical Effects of Joint Assistance Strategies | Neethan Ratnakumar, Mariya Tohfafarosh, Xianlian Zhou | [Abstract](https://arxiv.org/abs/2610.02991) · [PDF](https://arxiv.org/pdf/2610.02991) | needs-review |
 | 2026-09-23 | Learning a Speed-adaptive Hip Exoskeleton Control Policy Via Sim-to-real Reinforcement Learning | Bin Li, Zhimin Hou, Jiacheng Hou, Zenian Liang et al. | [Abstract](https://arxiv.org/abs/2609.28027) · [PDF](https://arxiv.org/pdf/2609.28027) | needs-review |
@@ -47,6 +48,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-09-13 | A Personalized Dynamic Balance Evaluation Paradigm for Hip Exoskeleton-Assisted Walking under Unexpected Ground Perturbations | Yun Chen, Oluwasegun T. Akinniyi, Qiang Zhang | [Abstract](https://arxiv.org/abs/2609.14765) · [PDF](https://arxiv.org/pdf/2609.14765) | needs-review |
 | 2026-08-10 | Personalized Lower-limb Exoskeleton Assistance via Preference-based Bayesian Optimization | Xiao-Yin Liu, Guotao Li, Weiqun Wang, Zeng-Guang Hou | [Abstract](https://arxiv.org/abs/2608.09015) · [PDF](https://arxiv.org/pdf/2608.09015) | needs-review |
 | 2026-08-07 | Identifying the Key Biomechanical Features of Movement Adaptation during Exoskeleton-Assisted Locomotion | Peter Seungjune Lee, Katja Mombaur | [Abstract](https://arxiv.org/abs/2608.07140) · [PDF](https://arxiv.org/pdf/2608.07140) | needs-review |
+| 2026-08-01 | Staged Multi-Agent Training for Human-Exoskeleton Co-Adaptation: Simulation-Based Learning and Real-World Metabolic and Biomechanical Validation | Yifei Yuan, Jakob Wolf, Ghaith Androwis, Xianlian Zhou | [Abstract](https://arxiv.org/abs/2608.00715) · [PDF](https://arxiv.org/pdf/2608.00715) | needs-review |
 | 2026-06-16 | Continual Online Personalization of Exoskeleton Control via Manifold-Aware Experience Replay | Changseob Song, Inseung Kang | [Abstract](https://arxiv.org/abs/2606.17455) · [PDF](https://arxiv.org/pdf/2606.17455) | needs-review |
 | 2026-06-12 | Universal Manipulation Exoskeleton: Learning Compliant Whole-body Policies with Real-time Torque Feedback | Litian Liang, Jingxi Xu, Xinda Qi, Yujun Cai et al. | [Abstract](https://arxiv.org/abs/2606.14218) · [PDF](https://arxiv.org/pdf/2606.14218) | needs-review |
 | 2026-06-10 | Improving Human Diving Endurance with a Field-Deployable Exoskeleton | Zhihao Zhou, Zhenmeng Ju, Chenxi Zhang, Ming Xu et al. | [Abstract](https://arxiv.org/abs/2606.11704) · [PDF](https://arxiv.org/pdf/2606.11704) | needs-review |

@@ -1,12 +1,12 @@
 # Cloth & Garments · 布料与衣物
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation&specialty=Cloth%20%26%20Garments#research-workbench)
 
-> 22 conference papers · 58 recent arXiv papers
+> 22 conference papers · 57 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -47,7 +47,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Iterative residual policy: For goal-conditioned dynamic manipulation of deformable objects | RSS · Manipulation | [Paper](https://arxiv.org/abs/2203.00663) · [Publisher](https://doi.org/10.1177/02783649231201201) | rule-assigned |
 | 2022 | Mesh-based Dynamics with Occlusion Reasoning for Cloth Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/pdf/2206.02881) · [Index](https://dblp.org/rec/journals/corr/abs-2206-02881) | rule-assigned |
 
-## Recent arXiv papers (58)
+## Recent arXiv papers (57)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -108,7 +108,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-27 | On Bringing Robots Home | Nur Muhammad Mahi Shafiullah, Anant Rai, Haritheja Etukuru, Yiqian Liu et al. | [Abstract](https://arxiv.org/abs/2311.16098) · [PDF](https://arxiv.org/pdf/2311.16098) | rule-assigned |
 | 2023-11-09 | Differentiable Cloth Parameter Identification and State Estimation in Manipulation | Dongzhe Zheng, Siqiong Yao, Wenqiang Xu, Cewu Lu | [Abstract](https://arxiv.org/abs/2311.05141) · [PDF](https://arxiv.org/pdf/2311.05141) | rule-assigned |
 | 2023-11-02 | UniFolding: Towards Sample-efficient, Scalable, and Generalizable Robotic Garment Folding | Han Xue, Yutong Li, Wenqiang Xu, Huanyu Li et al. | [Abstract](https://arxiv.org/abs/2311.01267) · [PDF](https://arxiv.org/pdf/2311.01267) | rule-assigned |
-| 2023-10-25 | The Teenager's Problem: Efficient Garment Decluttering as Probabilistic Set Cover | Aviv Adler, Ayah Ahmad, Yulei Qiu, Shengyin Wang et al. | [Abstract](https://arxiv.org/abs/2310.16951) · [PDF](https://arxiv.org/pdf/2310.16951) | rule-assigned |
 
 ---
 

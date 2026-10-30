@@ -1,12 +1,12 @@
 # Calibration & Time Alignment · 标定与时间对齐
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=State%20Estimation%20%26%20Active%20Perception&specialty=Calibration%20%26%20Time%20Alignment#research-workbench)
 
-> 4 conference papers · 163 recent arXiv papers
+> 4 conference papers · 164 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,10 +29,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | MEMROC: Multi-Eye to Mobile RObot Calibration | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2410.08805) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801771) | rule-assigned |
 | 2023 | Ego-Noise Reduction of a Mobile Robot Using Noise Spatial Covariance Matrix Learning and Minimum Variance Distortionless Response | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2303.00829) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342193) | rule-assigned |
 
-## Recent arXiv papers (163)
+## Recent arXiv papers (164)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | Language-Grounded Force/Torque Pretraining for Extrinsic Contact Perception | Kazuki Takahashi, Hiroaki Murakami, Ryota Sakuma, Mitsuhiro Kamezaki et al. | [Abstract](https://arxiv.org/abs/2610.39314) · [PDF](https://arxiv.org/pdf/2610.39314) | rule-assigned |
+| 2026-10-28 | Same Label, Different Interface: Beyond Action-Space Labels in Robot Learning | Arshia Sangwan, Zhongyang Zhang | [Abstract](https://arxiv.org/abs/2610.38104) · [PDF](https://arxiv.org/pdf/2610.38104) | rule-assigned |
 | 2026-10-20 | VeriCalib: Verifiable Target-Based LiDAR-Camera Calibration | Xiangcheng Hu, Xieyuanli Chen, Feiyi Chen, Shengli Ren et al. | [Abstract](https://arxiv.org/abs/2610.28791) · [PDF](https://arxiv.org/pdf/2610.28791) | rule-assigned |
 | 2026-10-20 | Agentic discovery of interpretable car-following laws from multi-source trajectory data | Jiamei Xu, Jie Sun, Keshuang Tang, Jian Sun | [Abstract](https://arxiv.org/abs/2610.27836) · [PDF](https://arxiv.org/pdf/2610.27836) | rule-assigned |
 | 2026-10-16 | HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents | Hongcheng Gao, Alex Zhou, Jay Zhu, Zelin Zheng et al. | [Abstract](https://arxiv.org/abs/2610.23479) · [PDF](https://arxiv.org/pdf/2610.23479) | rule-assigned |
@@ -50,7 +52,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-09-22 | Laser-Tracker-Assisted Camera-to-Robot Calibration for Mobile Robots | Jan A. Rudolph, Öykü Kandemir, Markus Ulrich | [Abstract](https://arxiv.org/abs/2609.27006) · [PDF](https://arxiv.org/pdf/2609.27006) | rule-assigned |
 | 2026-09-21 | Robotic Valve Turning: Axial Misalignment Correction Using Reaction Torque Feedback | Amit Kumar, Sri Harsha Turlapati, Gautami Golani, Yang Lin et al. | [Abstract](https://arxiv.org/abs/2609.24413) · [PDF](https://arxiv.org/pdf/2609.24413) | rule-assigned |
 | 2026-09-19 | Context-Aware RGB-Thermal-Radar Obstacle Perception for Resource-Constrained ASVs | Pranav Kedia, Edwin Redhead, Heiko Hamann | [Abstract](https://arxiv.org/abs/2610.23873) · [PDF](https://arxiv.org/pdf/2610.23873) | rule-assigned |
-| 2026-09-18 | A Novel Path-Tracking Algorithm for Automated Tractor-Trailer Forward and Backward Maneuvers | Alexandre Lombard, Florent Perronnet, Nicolas Gaud, Abdeljalil Abbas-Turki | [Abstract](https://arxiv.org/abs/2609.21718) · [PDF](https://arxiv.org/pdf/2609.21718) | rule-assigned |
+| 2026-09-18 | A Novel Path-Tracking Algorithm for Automated Tractor-Trailer Forward and Backward Maneuvers | Alexandre Lombard, Florent Perronnet, Théo Rigal, Nicolas Gaud et al. | [Abstract](https://arxiv.org/abs/2609.21718) · [PDF](https://arxiv.org/pdf/2609.21718) | rule-assigned |
 | 2026-09-16 | Predict Before You Deploy: Offline Prediction of Quantization-Induced Task Degradation for World Action Models | Jiuyi Xu, Jinjia Guo, Meida Chen, Jing Du et al. | [Abstract](https://arxiv.org/abs/2609.19441) · [PDF](https://arxiv.org/pdf/2609.19441) | rule-assigned |
 | 2026-09-14 | Comparing Trajectories from Positions Alone: Curvature-Based Time Alignment and Drift Error Metric | Effie Daum, Daniele De Martini, Claire Dune, François Pomerleau | [Abstract](https://arxiv.org/abs/2609.14936) · [PDF](https://arxiv.org/pdf/2609.14936) | rule-assigned |
 | 2026-09-09 | Belief-State Engine: Augmenting LLMs for Principled Planning Under Partial Observability | Arnab Chattopadhayay, Debdipta Halder | [Abstract](https://arxiv.org/abs/2609.10036) · [PDF](https://arxiv.org/pdf/2609.10036) | rule-assigned |
@@ -195,7 +197,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-20 | Robot Hand-Eye Calibration using Structure-from-Motion | Nicolas Andreff, Radu Horaud, Bernard Espiau | [Abstract](https://arxiv.org/abs/2311.11808) · [PDF](https://arxiv.org/pdf/2311.11808) | rule-assigned |
 | 2023-11-07 | Self-Contained and Automatic Calibration of a Multi-Fingered Hand Using Only Pairwise Contact Measurements | Johannes Tenhumberg, Leon Sievers, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2311.03957) · [PDF](https://arxiv.org/pdf/2311.03957) | rule-assigned |
 | 2023-11-02 | Automatic Robot Hand-Eye Calibration Enabled by Learning-Based 3D Vision | Leihui Li, Xingyu Yang, Riwei Wang, Xuping Zhang | [Abstract](https://arxiv.org/abs/2311.01335) · [PDF](https://arxiv.org/pdf/2311.01335) | rule-assigned |
-| 2023-10-25 | EdgeCalib: Multi-Frame Weighted Edge Features for Automatic Targetless LiDAR-Camera Calibration | Xingchen Li, Yifan Duan, Beibei Wang, Haojie Ren et al. | [Abstract](https://arxiv.org/abs/2310.16629) · [PDF](https://arxiv.org/pdf/2310.16629) | rule-assigned |
 
 ---
 

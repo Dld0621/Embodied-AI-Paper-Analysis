@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=VLA%20%26%20Generalist%20Robot%20Policies&specialty=Pending%20specialty%20review#research-workbench)
 
-> 1 conference papers · 3 recent arXiv papers
+> 1 conference papers · 4 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2025 | DiffusionVLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression | ICML · Vla | [Paper](https://www.semanticscholar.org/paper/f0d17501c051e4c7220affd296a307763741bada) · [Index](https://dblp.org/rec/conf/icml/WenZZTLZL0PF25) | needs-review |
 
-## Recent arXiv papers (3)
+## Recent arXiv papers (4)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | Utility-WAM: Correcting Future-Induced Action Changes | Feihong Zhang, Xi Lin, Yulong Shi, Zuxing Lu et al. | [Abstract](https://arxiv.org/abs/2610.39367) · [PDF](https://arxiv.org/pdf/2610.39367) | needs-review |
 | 2026-10-08 | ARC: A Reasoning Recipe for Robot Foundation Models | Gokul Puthumanaillam, Tao Sun, Elie Aljalbout, Moritz Reuss et al. | [Abstract](https://arxiv.org/abs/2610.12386) · [PDF](https://arxiv.org/pdf/2610.12386) | needs-review |
 | 2025-06-21 | Risk-Guided Diffusion: Toward Deploying Robot Foundation Models in Space, Where Failure Is Not An Option | Rohan Thakker, Adarsh Patnaik, Vince Kurtz, Jonas Frey et al. | [Abstract](https://arxiv.org/abs/2506.17601) · [PDF](https://arxiv.org/pdf/2506.17601) | needs-review |
 | 2025-03-10 | Towards Safe Robot Foundation Models | Maximilian Tölle, Theo Gruner, Daniel Palenicek, Jonas Günster et al. | [Abstract](https://arxiv.org/abs/2503.07404) · [PDF](https://arxiv.org/pdf/2503.07404) | needs-review |

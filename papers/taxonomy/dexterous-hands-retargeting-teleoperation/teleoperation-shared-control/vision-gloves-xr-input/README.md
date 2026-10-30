@@ -1,12 +1,12 @@
 # Vision, Gloves & XR Input · 视觉／手套／XR 输入
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Control&specialty=Vision%2C%20Gloves%20%26%20XR%20Input#research-workbench)
 
-> 73 conference papers · 322 recent arXiv papers
+> 73 conference papers · 323 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -98,10 +98,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | The Predictive Kinematic Control Tree: Enhancing Teleoperation of Redundant Robots through Probabilistic User Models | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982150) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982150) | rule-assigned |
 | 2022 | Gaze Complements Control Input for Goal Prediction During Assisted Teleoperation | RSS · Teleoperation | [Paper](https://doi.org/10.15607/rss.2022.xviii.025) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.025) | rule-assigned |
 
-## Recent arXiv papers (322)
+## Recent arXiv papers (323)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | Gaze-Assisted Supervisory Control for Lunar Robotic Arm Teleoperation Under Concurrent Monitoring | Jiayu He, Yifan Li, Oliver R. Runswick, Ernest N. Kamavuako et al. | [Abstract](https://arxiv.org/abs/2610.39998) · [PDF](https://arxiv.org/pdf/2610.39998) | rule-assigned |
+| 2026-10-27 | DexSuite: An All-in-One Framework for Dexterous Manipulation Across Arms, Hands, and Tasks | Anas Houssaini, Hugo He, Junming Shi, Amin Abyaneh et al. | [Abstract](https://arxiv.org/abs/2610.37799) · [PDF](https://arxiv.org/pdf/2610.37799) | rule-assigned |
 | 2026-10-21 | Preserving Operator Intent Under Actuation Constraints: Teleoperation of Manipulators with Coupled Transmissions | Xuhan Miao, Zijin Han, Yutong Shen, Haidong Huang et al. | [Abstract](https://arxiv.org/abs/2610.29565) · [PDF](https://arxiv.org/pdf/2610.29565) | rule-assigned |
 | 2026-10-20 | What Novice Operators See Changes What the Policy Learns: A User Study of Keypoint Hand Visual Representation for Teleoperated Demonstration | Amane Yamaguchi, Shohei Kamiguchi, Masashi Hamaya, Shigeo Yoshida et al. | [Abstract](https://arxiv.org/abs/2610.27907) · [PDF](https://arxiv.org/pdf/2610.27907) | rule-assigned |
 | 2026-10-20 | A Head Camera Is (Almost) All You Need: An Electronics-Free UMI Glove Labelled and Observed by One Moving Camera | Yosub Shin, Yuan Liu, Igor Molybog | [Abstract](https://arxiv.org/abs/2610.27622) · [PDF](https://arxiv.org/pdf/2610.27622) | rule-assigned |
@@ -423,7 +425,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-01 | AV4EV: Open-Source Modular Autonomous Electric Vehicle Platform for Making Mobility Research Accessible | Zhijie Qiao, Mingyan Zhou, Zhijun Zhuang, Tejas Agarwal et al. | [Abstract](https://arxiv.org/abs/2312.00951) · [PDF](https://arxiv.org/pdf/2312.00951) | rule-assigned |
 | 2023-11-11 | Bootstrapping Robotic Skill Learning With Intuitive Teleoperation: Initial Feasibility Study | Xiangyu Chu, Yunxi Tang, Lam Him Kwok, Yuanpei Cai et al. | [Abstract](https://arxiv.org/abs/2311.06543) · [PDF](https://arxiv.org/pdf/2311.06543) | rule-assigned |
 | 2023-11-06 | Enabling In-Situ Resources Utilisation by leveraging collaborative robotics and astronaut-robot interaction | Silvia Romero-Azpitarte, Cristina Luna, Alba Guerra, Mercedes Alonso et al. | [Abstract](https://arxiv.org/abs/2311.03146) · [PDF](https://arxiv.org/pdf/2311.03146) | rule-assigned |
-| 2023-10-25 | Translating Universal Scene Descriptions into Knowledge Graphs for Robotic Environment | Giang Hoang Nguyen, Daniel Bessler, Simon Stelter, Mihai Pomarlan et al. | [Abstract](https://arxiv.org/abs/2310.16737) · [PDF](https://arxiv.org/pdf/2310.16737) | rule-assigned |
 
 ---
 

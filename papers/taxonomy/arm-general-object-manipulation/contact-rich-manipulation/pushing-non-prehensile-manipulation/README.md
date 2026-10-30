@@ -1,12 +1,12 @@
 # Pushing & Non-prehensile Manipulation · 推滑与非抓取操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Pushing%20%26%20Non-prehensile%20Manipulation#research-workbench)
 
-> 49 conference papers · 140 recent arXiv papers
+> 49 conference papers · 143 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -74,10 +74,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | To ask for help or not to ask: A predictive approach to human-in-the-loop motion planning for robot manipulation tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981679) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981679) | rule-assigned |
 | 2022 | Data Augmentation for Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2205.02886) · [Index](https://dblp.org/rec/journals/corr/abs-2205-02886) | rule-assigned |
 
-## Recent arXiv papers (140)
+## Recent arXiv papers (143)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-28 | Selective Sliding Mode Control Enhances Robustness of Aerial Robots Under Disturbances | Anoop Kiran, Thales C. Silva, Nora Ayanian | [Abstract](https://arxiv.org/abs/2610.38930) · [PDF](https://arxiv.org/pdf/2610.38930) | rule-assigned |
+| 2026-10-26 | RoKON: Efficient and Adaptive Data-Enabled Predictive Control for Robotic Manipulation | Akshun Sharma, Zhongqi Wei, Buqing Ou, Frederike Dümbgen | [Abstract](https://arxiv.org/abs/2610.35458) · [PDF](https://arxiv.org/pdf/2610.35458) | rule-assigned |
+| 2026-10-26 | PushAround: Collaborative Path Clearing via Physics-Informed Hybrid Search | Zili Tang, Zongyuan Li, Zishao Qiao, Meng Guo | [Abstract](https://arxiv.org/abs/2610.35062) · [PDF](https://arxiv.org/pdf/2610.35062) | rule-assigned |
 | 2026-10-19 | ReDOA: Real-World Distillation via Observation Alignment for Image-Based Manipulation Policy Learning | Kotaro Kajitsuka, Masaki Murooka, Fumio Kanehiro | [Abstract](https://arxiv.org/abs/2610.25691) · [PDF](https://arxiv.org/pdf/2610.25691) | rule-assigned |
 | 2026-10-17 | DiPLO: Self-distilled Diffusion Planning for Loco-manipulation | Shafeef Omar, Sebastian Sanokowski, Elham Daneshmand, Dian Yu et al. | [Abstract](https://arxiv.org/abs/2610.24847) · [PDF](https://arxiv.org/pdf/2610.24847) | rule-assigned |
 | 2026-10-16 | Shape-Aware Neural Time Fields for Rigid-Body Motion and Manipulation Planning | Yanming Zhou, Yuchen Liu, Ahmed H. Qureshi | [Abstract](https://arxiv.org/abs/2610.22762) · [PDF](https://arxiv.org/pdf/2610.22762) | rule-assigned |
@@ -124,7 +127,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-02-22 | Visual Prompt Guided Unified Pushing Policy | Hieu Bui, Ziyan Gao, Yuya Hosoda, Joo-Ho Lee | [Abstract](https://arxiv.org/abs/2602.19193) · [PDF](https://arxiv.org/pdf/2602.19193) | rule-assigned |
 | 2026-02-12 | SToRM: Supervised Token Reduction for Multi-modal LLMs toward efficient end-to-end autonomous driving | Seo Hyun Kim, Jin Bok Park, Do Yeon Koo, Hogun Park et al. | [Abstract](https://arxiv.org/abs/2602.11656) · [PDF](https://arxiv.org/pdf/2602.11656) | rule-assigned |
 | 2026-02-10 | Certified Gradient-Based Contact-Rich Manipulation via Smoothing-Error Reachable Tubes | Wei-Chen Li, Glen Chou | [Abstract](https://arxiv.org/abs/2602.09368) · [PDF](https://arxiv.org/pdf/2602.09368) | rule-assigned |
-| 2026-02-09 | Combined Constrained Sampling and Reinforcement Learning for Robotic Manipulation | Marc Toussaint, Cornelius V. Braun, Armand Jordana, Sayantan Auddy et al. | [Abstract](https://arxiv.org/abs/2602.08557) · [PDF](https://arxiv.org/pdf/2602.08557) | rule-assigned |
+| 2026-02-09 | Combining Constrained Sampling and Reinforcement Learning for Manipulation | Marc Toussaint, Cornelius V. Braun, Armand Jordana, Sayantan Auddy et al. | [Abstract](https://arxiv.org/abs/2602.08557) · [PDF](https://arxiv.org/pdf/2602.08557) | rule-assigned |
 | 2026-02-04 | A Unified Complementarity-based Approach for Rigid-Body Manipulation and Motion Prediction | Bingkun Huang, Xin Ma, Nilanjan Chakraborty, Riddhiman Laha | [Abstract](https://arxiv.org/abs/2602.04522) · [PDF](https://arxiv.org/pdf/2602.04522) | rule-assigned |
 | 2026-02-02 | Uncertainty-Aware Non-Prehensile Manipulation with Mobile Manipulators under Object-Induced Occlusion | Jiwoo Hwang, Taegeun Yang, Jeil Jeong, Minsung Yoon et al. | [Abstract](https://arxiv.org/abs/2602.01731) · [PDF](https://arxiv.org/pdf/2602.01731) | rule-assigned |
 | 2026-01-18 | Autonomous Manipulation of Hazardous Chemicals and Delicate Objects in a Self-Driving Laboratory: A Sliding Mode Approach | Shifa Sulaiman, Francesco Schetter, Tobias Jensen, Simon Bøgh et al. | [Abstract](https://arxiv.org/abs/2602.06977) · [PDF](https://arxiv.org/pdf/2602.06977) | rule-assigned |

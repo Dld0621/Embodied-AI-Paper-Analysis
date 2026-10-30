@@ -1,7 +1,7 @@
 # Contact & Motion Recovery · 接触与运动恢复
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Human%20%26%20Hand-object%20Perception&specialty=Contact%20%26%20Motion%20Recovery#research-workbench)
@@ -34,7 +34,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---|---|---|---|---|
 | 2026-10-15 | Compliant GMT: Making General Motion Tracking Compliant via Residual Reference Adaptation | Venki Parsuram, Michelle Wang, Jin-Hyuk Hong, Pulkit Agrawal | [Abstract](https://arxiv.org/abs/2610.22119) · [PDF](https://arxiv.org/pdf/2610.22119) | rule-assigned |
 | 2026-09-15 | Beyond Gestures: Estimating Full Hand Pose and Contact Forces from Wrist-Worn Pressure Sensor Array | Svetoslav Kolev, Lingni Ma, Michael Goesele, Renzo De Nardi et al. | [Abstract](https://arxiv.org/abs/2609.16518) · [PDF](https://arxiv.org/pdf/2609.16518) | rule-assigned |
-| 2026-09-08 | Remotely Detectable Keyed Communication through Motion | Benjamin Chang, Michael Amir, Manon Flageat, Amanda Prorok | [Abstract](https://arxiv.org/abs/2609.08920) · [PDF](https://arxiv.org/pdf/2609.08920) | rule-assigned |
+| 2026-09-08 | Robot Motion as a Keyed Communication Channel | Benjamin Chang, Michael Amir, Manon Flageat, Amanda Prorok | [Abstract](https://arxiv.org/abs/2609.08920) · [PDF](https://arxiv.org/pdf/2609.08920) | rule-assigned |
 | 2026-08-13 | AMR-Pose: An Active LED Marker-Based Relative Pose Estimation Framework With Probabilistic Switching PnP for Cooperative AUVs | Zeyu Sha, Xiaorui Wang, Mingyang Yang, Feitian Zhang | [Abstract](https://arxiv.org/abs/2608.12866) · [PDF](https://arxiv.org/pdf/2608.12866) | rule-assigned |
 | 2026-08-10 | A Height-Constrained 2-Point Minimal Solver for Pose Estimation from Active LED Markers with Event Cameras | Runze Yuan, Alexander Kappler, Jun Zhang, Kuangyi Chen et al. | [Abstract](https://arxiv.org/abs/2608.09520) · [PDF](https://arxiv.org/pdf/2608.09520) | rule-assigned |
 | 2026-06-12 | SyLink Hand: A Synergy-Inspired Linkage-Driven Anthropomorphic Hand for Human-Like Dexterity | Hao Wu, Yanzhe Wang, Yu Feng, Yitong Li et al. | [Abstract](https://arxiv.org/abs/2606.14250) · [PDF](https://arxiv.org/pdf/2606.14250) | rule-assigned |

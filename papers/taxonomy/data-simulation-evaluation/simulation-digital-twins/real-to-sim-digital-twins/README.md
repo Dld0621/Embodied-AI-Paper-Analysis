@@ -1,12 +1,12 @@
 # Real-to-sim & Digital Twins · 现实场景重建与数字孪生
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Real-to-sim%20%26%20Digital%20Twins#research-workbench)
 
-> 6 conference papers · 129 recent arXiv papers
+> 6 conference papers · 133 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -31,10 +31,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Neuro-Adaptive Dynamic Control with Edge-Computing for Collaborative Digital Twin of an Industrial Robotic Manipulator | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161113) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161113) | rule-assigned |
 | 2022 | Dynamic Modeling and Digital Twin of a Harmonic Drive Based Collaborative Robot Joint | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/icra46639.2022.9812458) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812458) | rule-assigned |
 
-## Recent arXiv papers (129)
+## Recent arXiv papers (133)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | ScheduleGen: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning | Neel Jawale, Stephan Pleines, Soha Pouya, Yuke Zhu et al. | [Abstract](https://arxiv.org/abs/2610.39429) · [PDF](https://arxiv.org/pdf/2610.39429) | rule-assigned |
+| 2026-10-27 | AuRaSim: A Ray-Tracing Based Automotive FMCW Radar Simulator for Dynamic Scenarios | Zhaoze Wang, Changxu Zhang, Tai Fei, Christopher Grimm et al. | [Abstract](https://arxiv.org/abs/2610.37403) · [PDF](https://arxiv.org/pdf/2610.37403) | rule-assigned |
+| 2026-10-23 | Semantic Representation for Agentic Self-Play in Automated Laboratories | Yves Delley, John Coller, Zachary Cutts, Alexander Daryin et al. | [Abstract](https://arxiv.org/abs/2610.32755) · [PDF](https://arxiv.org/pdf/2610.32755) | rule-assigned |
+| 2026-10-22 | WorldMirror: Agentic Real-to-Sim Generation of Interactive Worlds from In-the-Wild Robot Demonstrations | Tianling Xu, Weijie Wan, Honghao Su, Kailun Su et al. | [Abstract](https://arxiv.org/abs/2610.31834) · [PDF](https://arxiv.org/pdf/2610.31834) | rule-assigned |
 | 2026-10-16 | Self-Building Labs | Jiaru Bai, Yuchi Zhao, Han Hao, Miroslav Bogdanovic et al. | [Abstract](https://arxiv.org/abs/2610.23826) · [PDF](https://arxiv.org/pdf/2610.23826) | rule-assigned |
 | 2026-10-15 | De-Risking Robotic Welding for In-Space Metal Joining Through Physics-Grounded Digital Twins | Zhou Daniel Hao, Umer Masood Chaudry, Robert Shaw, Andrew Cheney et al. | [Abstract](https://arxiv.org/abs/2610.21939) · [PDF](https://arxiv.org/pdf/2610.21939) | rule-assigned |
 | 2026-10-14 | Probabilistic Physics Digital Twin for Human-Robot Interaction | Yushen Hu, Harshvardhan Chandirasekar, Apurv Kushwaha, Jonathan King et al. | [Abstract](https://arxiv.org/abs/2610.19336) · [PDF](https://arxiv.org/pdf/2610.19336) | rule-assigned |

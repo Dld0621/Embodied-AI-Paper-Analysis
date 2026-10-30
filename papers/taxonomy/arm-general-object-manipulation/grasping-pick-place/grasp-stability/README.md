@@ -1,12 +1,12 @@
 # Grasp Stability · 抓取稳定性
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Grasping%20%26%20Pick-place&specialty=Grasp%20Stability#research-workbench)
 
-> 15 conference papers · 43 recent arXiv papers
+> 15 conference papers · 42 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -40,7 +40,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Grasp Stability Prediction with Sim-to-Real Transfer from Tactile Sensing | IROS · Sim To Real | [Paper](https://arxiv.org/abs/2208.02885) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981863) | rule-assigned |
 | 2022 | The Good Grasp, the Bad Grasp, and the Plateau in Tactile-Based Grasp Stability Prediction | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9981360) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981360) | rule-assigned |
 
-## Recent arXiv papers (43)
+## Recent arXiv papers (42)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -86,7 +86,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-03-22 | PseudoTouch: Efficiently Imaging the Surface Feel of Objects for Robotic Manipulation | Adrian Röfer, Nick Heppert, Abdallah Ayad, Eugenio Chisari et al. | [Abstract](https://arxiv.org/abs/2403.15107) · [PDF](https://arxiv.org/pdf/2403.15107) | rule-assigned |
 | 2023-12-08 | Grasp Force Optimization as a Bilinear Matrix Inequality Problem: A Deep Learning Approach | Hirakjyoti Basumatary, Daksh Adhar, Riddhiman Shaw, Shyamanta M. Hazarika | [Abstract](https://arxiv.org/abs/2312.05034) · [PDF](https://arxiv.org/pdf/2312.05034) | rule-assigned |
 | 2023-11-22 | A model-free approach to fingertip slip and disturbance detection for grasp stability inference | Dounia Kitouni, Mahdi Khoramshahi, Veronique Perdereau | [Abstract](https://arxiv.org/abs/2311.13245) · [PDF](https://arxiv.org/pdf/2311.13245) | rule-assigned |
-| 2023-10-27 | VFAS-Grasp: Closed Loop Grasping with Visual Feedback and Adaptive Sampling | Pedro Piacenza, Jiacheng Yuan, Jinwook Huh, Volkan Isler | [Abstract](https://arxiv.org/abs/2310.18459) · [PDF](https://arxiv.org/pdf/2310.18459) | rule-assigned |
 
 ---
 

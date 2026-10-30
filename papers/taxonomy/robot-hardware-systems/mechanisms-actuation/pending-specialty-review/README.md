@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Pending%20specialty%20review#research-workbench)
 
-> 81 conference papers · 221 recent arXiv papers
+> 81 conference papers · 226 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,7 +27,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | Balancing Marker and Markerless Modes in Vision-Based Tactile Sensors with a Translucent Skin | ICRA · Tactile | [Paper](https://kclpure.kcl.ac.uk/ws/files/372959715/ICRA26_MagicSkin.pdf) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696251) | needs-review |
 | 2026 | Design, Mapping, and Contact Anticipation with 3D-printed Whole-Body Tactile and Proximity Sensors | ICRA · Whole Body | [Paper](https://arxiv.org/pdf/2603.04714) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695936) | needs-review |
 | 2026 | EasyMimic: A Low-Cost Framework for Robot Imitation Learning from Human Videos | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2602.11464) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696502) | needs-review |
-| 2026 | Human-Centered Development of Guide Dog Robots: Quiet and Stable Locomotion Control | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2505.11808) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696250) | needs-review |
+| 2026 | Human-Centered Development of Guide Dog Robots: Quiet and Stable Locomotion Control | ICRA · Locomotion | [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC13663884/pdf/nihms-2202471.pdf) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696250) | needs-review |
 | 2026 | Investigation of Multiple Buoyancy Controller Equipped Underwater Glider Robot Modeling for Control System Development and Gliding Simulation | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697088) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697088) | needs-review |
 | 2026 | Morphogenetic Assembly and Adaptive Control for Heterogeneous Modular Robots | ICRA · Assembly | [Paper](https://arxiv.org/abs/2602.10561) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697421) | needs-review |
 | 2026 | MultiHand: Design and Verification of a Dexterous Hand with Multi-modal Grasping Capabilities | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697015) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697015) | needs-review |
@@ -106,10 +106,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Development and Control of Robot Hand with Finger Camera for Garment Handling Tasks | IROS · Robot Hand | [Paper](https://doi.org/10.1109/IROS47612.2022.9982134) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982134) | needs-review |
 | 2022 | Large-Scale ADMM-based Co-Design of Legged Robots | IROS · Legged | [Paper](https://doi.org/10.1109/IROS47612.2022.9981641) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981641) | needs-review |
 
-## Recent arXiv papers (221)
+## Recent arXiv papers (226)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-27 | VLA-Stem: A Lightweight Safety Mechanism for Vision-Language-Action Models via Reinforcement Learning | Bojun Zou, Wenhao Yu, Jiaohao Li, Jiaxuan Lin et al. | [Abstract](https://arxiv.org/abs/2610.37378) · [PDF](https://arxiv.org/pdf/2610.37378) | needs-review |
+| 2026-10-27 | From Biological Curves to Soft Modular Robots: Learning-Based Inverse Design with Uncertainty-Guided Refinement | Dixiang Wang, Minghao Zha, Arifur Rahman, Yinhong Qin et al. | [Abstract](https://arxiv.org/abs/2610.36681) · [PDF](https://arxiv.org/pdf/2610.36681) | needs-review |
+| 2026-10-27 | From 12 to 200 Demonstrations: How ACT, Diffusion Policy, SmolVLA and $π_{0.5}$ Scale on a Low-Cost Arm | Simon Cowling | [Abstract](https://arxiv.org/abs/2610.37170) · [PDF](https://arxiv.org/pdf/2610.37170) | needs-review |
+| 2026-10-26 | TrySee: Modular Perception-Enhanced VLM Grounding for Closed-Loop Robot Task Planning in Specialized Domains | Elias Hofele, Thomas Trapp, David Timmermann, Tristan Schnell et al. | [Abstract](https://arxiv.org/abs/2610.35687) · [PDF](https://arxiv.org/pdf/2610.35687) | needs-review |
+| 2026-10-24 | C-DFF: Concept-Level Diagnostics for Mechanism Parity in Simulation-Based Validation of Autonomous Driving Perception | Danial Safaei, Siddartha Khastgir, Matthew Higgins, Jeroen Ploeg et al. | [Abstract](https://arxiv.org/abs/2610.33760) · [PDF](https://arxiv.org/pdf/2610.33760) | needs-review |
+| 2026-10-23 | ORBIT: A Modular Multi-finger Robotic Hand Platform with Rotational Finger Reconfiguration | Benito Ribadeneira, Siqi Shang, Lillian Chin | [Abstract](https://arxiv.org/abs/2610.33241) · [PDF](https://arxiv.org/pdf/2610.33241) | needs-review |
 | 2026-10-16 | Pedicel-Targeted Strawberry Harvesting via Imitation Learning on a Low-Cost Teleoperated Robotic Arm | Nitin Rai, Won Suk Lee, Hongyoung Leon, Heping Zhu | [Abstract](https://arxiv.org/abs/2610.22765) · [PDF](https://arxiv.org/pdf/2610.22765) | needs-review |
 | 2026-10-12 | DeTac: Dual-branch Decoupling of Texture and Force Signals in Vision-Based Tactile Sensors | Zhirui Zhang, Yunkai Tang, Jiahang Li, Fan Fei et al. | [Abstract](https://arxiv.org/abs/2610.16463) · [PDF](https://arxiv.org/pdf/2610.16463) | needs-review |
 | 2026-10-10 | Design and Evaluation of a Collaborative Teleoperation Interface for Multi-Operator Multi-Robot Systems in Challenging Environments | Alperen Kenan, Juan José García Cárdenas, Adriana Tapus, Paul Bremner et al. | [Abstract](https://arxiv.org/abs/2610.15001) · [PDF](https://arxiv.org/pdf/2610.15001) | needs-review |
@@ -157,7 +163,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-08 | How to Utilize Failure Demo Data?: Effective Data Selection for Imitation Learning Using Distribution Differences in Attention Mechanism | Kana Miyamoto, Kanata Suzuki, Tetsuya Ogata | [Abstract](https://arxiv.org/abs/2605.07560) · [PDF](https://arxiv.org/pdf/2605.07560) | needs-review |
 | 2026-04-27 | SPLIT: Separating Physical-Contact via Latent Arithmetic in Image-Based Tactile Sensors | Wadhah Zai El Amri, Nicolás Navarro-Guerrero | [Abstract](https://arxiv.org/abs/2604.24449) · [PDF](https://arxiv.org/pdf/2604.24449) | needs-review |
 | 2026-04-13 | Identifying and Exploiting Structure in Robot Co-Design | Apoorv Vaish, Oliver Brock | [Abstract](https://arxiv.org/abs/2604.11768) · [PDF](https://arxiv.org/pdf/2604.11768) | needs-review |
-| 2026-03-27 | SwarmCoDe: A Scalable Co-Design Framework for Heterogeneous Robot Swarms via Dynamic Speciation | Andrew Wilhelm, Josie Hughes | [Abstract](https://arxiv.org/abs/2603.26240) · [PDF](https://arxiv.org/pdf/2603.26240) | needs-review |
 | 2026-03-27 | Ruka-v2: Tendon Driven Open-Source Dexterous Hand with Wrist and Abduction for Robot Learning | Xinqi Lucas Liu, Ruoxi Hu, Alejandro Ojeda Olarte, Zhuoran Chen et al. | [Abstract](https://arxiv.org/abs/2603.26660) · [PDF](https://arxiv.org/pdf/2603.26660) | needs-review |
 | 2026-03-20 | KUKAloha: A General, Low-Cost, and Shared-Control based Teleoperation Framework for Construction Robot Arm | Yifan Xu, Qizhang Shen, Vineet Kamat, Carol Menassa | [Abstract](https://arxiv.org/abs/2603.20129) · [PDF](https://arxiv.org/pdf/2603.20129) | needs-review |
 | 2026-03-12 | CRAFT: A Tendon-Driven Hand with Hybrid Hard-Soft Compliance | Leo Lin, Shivansh Patel, Jay Moon, Svetlana Lazebnik et al. | [Abstract](https://arxiv.org/abs/2603.12120) · [PDF](https://arxiv.org/pdf/2603.12120) | needs-review |
@@ -192,8 +197,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-10-15 | Development of an Intuitive GUI for Non-Expert Teleoperation of Humanoid Robots | Austin Barret, Meng Cheng Lau | [Abstract](https://arxiv.org/abs/2510.13594) · [PDF](https://arxiv.org/pdf/2510.13594) | needs-review |
 | 2025-10-15 | A Modular Object Detection System for Humanoid Robots Using YOLO | Nicolas Pottier, Meng Cheng Lau | [Abstract](https://arxiv.org/abs/2510.13625) · [PDF](https://arxiv.org/pdf/2510.13625) | needs-review |
 | 2025-10-09 | Evaluation of a Robust Control System in Real-World Cable-Driven Parallel Robots | Damir Nurtdinov, Aliaksei Korshuk, Alexei Kornaev, Alexander Maloletov | [Abstract](https://arxiv.org/abs/2510.08270) · [PDF](https://arxiv.org/pdf/2510.08270) | needs-review |
+| 2025-10-03 | Toward Physical Recursive Self-Improvement: A Call for Body-Control Co-Design for Humanoid Robot | Guiliang Liu, Bo Yue, Yi Jin Kim, Kui Jia | [Abstract](https://arxiv.org/abs/2510.03081) · [PDF](https://arxiv.org/pdf/2510.03081) | needs-review |
 | 2025-10-03 | Single-Rod Brachiation Robot: Mechatronic Control Design and Validation of Prejump Phases | Juraj Lieskovský, Hijiri Akahane, Aoto Osawa, Jaroslav Bušek et al. | [Abstract](https://arxiv.org/abs/2510.02946) · [PDF](https://arxiv.org/pdf/2510.02946) | needs-review |
-| 2025-10-03 | Embracing Evolution: A Call for Body-Control Co-Design in Embodied Humanoid Robot | Guiliang Liu, Bo Yue, Yi Jin Kim, Kui Jia | [Abstract](https://arxiv.org/abs/2510.03081) · [PDF](https://arxiv.org/pdf/2510.03081) | needs-review |
 | 2025-09-23 | TacEva: A Performance Evaluation Framework For Vision-Based Tactile Sensors | Qingzheng Cong, Steven Oh, Wen Fan, Shan Luo et al. | [Abstract](https://arxiv.org/abs/2509.19037) · [PDF](https://arxiv.org/pdf/2509.19037) | needs-review |
 | 2025-09-16 | Underactuated Robotic Hand with Grasp State Estimation Using Tendon-Based Proprioception | Jae-Hyun Lee, Jonghoo Park, Kyu-Jin Cho | [Abstract](https://arxiv.org/abs/2509.12969) · [PDF](https://arxiv.org/pdf/2509.12969) | needs-review |
 | 2025-09-16 | PerchMobi^3: A Multi-Modal Robot with Power-Reuse Quad-Fan Mechanism for Air-Ground-Wall Locomotion | Yikai Chen, Zhi Zheng, Jin Wang, Bingye He et al. | [Abstract](https://arxiv.org/abs/2509.12620) · [PDF](https://arxiv.org/pdf/2509.12620) | needs-review |
@@ -224,7 +229,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-05-27 | COM Adjustment Mechanism Control for Multi-Configuration Motion Stability of Unmanned Deformable Vehicle | Jun Liu, Hongxun Liu, Cheng Zhang, Jiandang Xing et al. | [Abstract](https://arxiv.org/abs/2505.20926) · [PDF](https://arxiv.org/pdf/2505.20926) | needs-review |
 | 2025-05-26 | Whole-body Multi-contact Motion Control for Humanoid Robots Based on Distributed Tactile Sensors | Masaki Murooka, Kensuke Fukumitsu, Marwan Hamze, Mitsuharu Morisawa et al. | [Abstract](https://arxiv.org/abs/2505.19580) · [PDF](https://arxiv.org/pdf/2505.19580) | needs-review |
 | 2025-05-19 | The Robot of Theseus: A modular robotic testbed for legged locomotion | Karthik Urs, Jessica Carlson, Aditya Srinivas Manohar, Michael Rakowiecki et al. | [Abstract](https://arxiv.org/abs/2505.12649) · [PDF](https://arxiv.org/pdf/2505.12649) | needs-review |
-| 2025-05-19 | Investigating Active Sampling for Hardness Classification with Vision-Based Tactile Sensors | Junyi Chen, Alap Kshirsagar, Frederik Heller, Mario Gómez Andreu et al. | [Abstract](https://arxiv.org/abs/2505.13231) · [PDF](https://arxiv.org/pdf/2505.13231) | needs-review |
+| 2025-05-19 | Investigating Active Sampling for Hardness Classification with Vision-Based Tactile Sensors | Junyi Chen, Frederik Heller, Mario Gómez Andreu, Boris Belousov et al. | [Abstract](https://arxiv.org/abs/2505.13231) · [PDF](https://arxiv.org/pdf/2505.13231) | needs-review |
 | 2025-05-17 | Human-Centered Development of Guide Dog Robots: Quiet and Stable Locomotion Control | Shangqun Yu, Hochul Hwang, Trung M. Dang, Joydeep Biswas et al. | [Abstract](https://arxiv.org/abs/2505.11808) · [PDF](https://arxiv.org/pdf/2505.11808) | needs-review |
 | 2025-05-01 | Agile legged locomotion in reconfigurable modular robots | Chen Yu, David Matthews, Jingxian Wang, Jing Gu et al. | [Abstract](https://arxiv.org/abs/2505.00784) · [PDF](https://arxiv.org/pdf/2505.00784) | needs-review |
 | 2025-04-29 | SPARK Hand: Scooping-Pinching Adaptive Robotic Hand with Kempe Mechanism for Vertical Passive Grasp in Environmental Constraints | Jiaqi Yin, Tianyi Bi, Wenzeng Zhang | [Abstract](https://arxiv.org/abs/2504.20506) · [PDF](https://arxiv.org/pdf/2504.20506) | needs-review |

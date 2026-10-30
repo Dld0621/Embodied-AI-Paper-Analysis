@@ -1,12 +1,12 @@
 # Global Path Planning · 全局路径规划 · arXiv 2023
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 55 papers · complete list for this taxonomy leaf
+> 50 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -60,8 +60,3 @@
 | 2023-10-31 | Learning Lyapunov-Stable Polynomial Dynamical Systems through Imitation | Amin Abyaneh, Hsiu-Chin Lin | [Abstract](https://arxiv.org/abs/2310.20605) · [PDF](https://arxiv.org/pdf/2310.20605) | rule-assigned |
 | 2023-10-31 | An Enhanced RRT based Algorithm for Dynamic Path Planning and Energy Management of a Mobile Robot | Ronit Chitre, Arpita Sinha | [Abstract](https://arxiv.org/abs/2310.20590) · [PDF](https://arxiv.org/pdf/2310.20590) | rule-assigned |
 | 2023-10-30 | Rule-Based Lloyd Algorithm for Multi-Robot Motion Planning and Control with Safety and Convergence Guarantees | Manuel Boldrer, Alvaro Serra-Gomez, Lorenzo Lyons, Vit Kratky et al. | [Abstract](https://arxiv.org/abs/2310.19511) · [PDF](https://arxiv.org/pdf/2310.19511) | rule-assigned |
-| 2023-10-29 | Robotic Barrier Construction through Weaved, Inflatable Tubes | H. J. Kim, H. Abdel-Raziq, X. Liu, A. Y. Siskovic et al. | [Abstract](https://arxiv.org/abs/2310.19185) · [PDF](https://arxiv.org/pdf/2310.19185) | rule-assigned |
-| 2023-10-27 | Decision-theoretic MPC: Motion Planning with Weighted Maneuver Preferences Under Uncertainty | Ömer Şahin Taş, Philipp Heinrich Brusius, Christoph Stiller | [Abstract](https://arxiv.org/abs/2310.17963) · [PDF](https://arxiv.org/pdf/2310.17963) | rule-assigned |
-| 2023-10-26 | Bin Assignment and Decentralized Path Planning for Multi-Robot Parcel Sorting | Teng Guo, Jingjin Yu | [Abstract](https://arxiv.org/abs/2310.17753) · [PDF](https://arxiv.org/pdf/2310.17753) | rule-assigned |
-| 2023-10-25 | Neural Potential Field for Obstacle-Aware Local Motion Planning | Muhammad Alhaddad, Konstantin Mironov, Aleksey Staroverov, Aleksandr Panov | [Abstract](https://arxiv.org/abs/2310.16362) · [PDF](https://arxiv.org/pdf/2310.16362) | rule-assigned |
-| 2023-10-24 | Reinforcement learning based local path planning for mobile robot | Mehmet Gok, Mehmet Tekerek, Hamza Aydemir | [Abstract](https://arxiv.org/abs/2403.12463) · [PDF](https://arxiv.org/pdf/2403.12463) | rule-assigned |

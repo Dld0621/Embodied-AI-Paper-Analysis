@@ -1,7 +1,7 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Pending%20specialty%20review#research-workbench)
@@ -71,6 +71,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-26 | High-resolution tactile observation makes hidden racket-control mechanisms learnable | Haoyang Tian, Zhengwei Li, Houcheng Li, Xu Yang et al. | [Abstract](https://arxiv.org/abs/2610.35563) · [PDF](https://arxiv.org/pdf/2610.35563) | needs-review |
 | 2026-10-20 | GPT-6-Astra Understands Touch and Outperform Vision--Tactile--Language--Action Models | Ziyong Wang, Yupei Lin, Runxuan Huang, Liang Lin et al. | [Abstract](https://arxiv.org/abs/2610.28457) · [PDF](https://arxiv.org/pdf/2610.28457) | needs-review |
 | 2026-10-17 | Touch Where It Matters: Learning Local Tactile Policies for Fine-Grained Gripper Control | Mingyuan Ba, Yanan Zhou, James Zhao, Weiming Zhi | [Abstract](https://arxiv.org/abs/2610.24485) · [PDF](https://arxiv.org/pdf/2610.24485) | needs-review |
 | 2026-10-13 | TacSpin: Tactile Tracking of In-Gripper Object Rotation on SO(3) via Axis-Magnitude Estimation | Yuhao Wu, Linhao Song, Huan Yin | [Abstract](https://arxiv.org/abs/2610.17574) · [PDF](https://arxiv.org/pdf/2610.17574) | needs-review |
@@ -117,7 +118,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-04-01 | A soft and lightweight fabric-based pneumatic interface for multimodal fingertip tactile feedback | Rui Chen, Daniele Leonardis, Antonio Frisoli | [Abstract](https://arxiv.org/abs/2604.01390) · [PDF](https://arxiv.org/pdf/2604.01390) | needs-review |
 | 2026-03-24 | VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs | Haoran Yuan, Weigang Yi, Zhenyu Zhang, Wendi Chen et al. | [Abstract](https://arxiv.org/abs/2603.23481) · [PDF](https://arxiv.org/pdf/2603.23481) | needs-review |
 | 2026-03-15 | OCRA: Object-Centric Learning with 3D and Tactile Priors for Human-to-Robot Action Transfer | Kuanning Wang, Ke Fan, Yuqian Fu, Siyu Lin et al. | [Abstract](https://arxiv.org/abs/2603.14401) · [PDF](https://arxiv.org/pdf/2603.14401) | needs-review |
-| 2026-03-14 | ArrayTac: A Closed-loop Piezoelectric Tactile Platform for Continuously Tunable Rendering of Shape, Stiffness, and Friction | Tianhai Liang, Shiyi Guo, Baiye Cheng, Zhengrong Xue et al. | [Abstract](https://arxiv.org/abs/2603.13829) · [PDF](https://arxiv.org/pdf/2603.13829) | needs-review |
+| 2026-03-14 | ArrayTac: A Closed-Loop Piezoelectric Tactile Platform for Continuously Tunable Rendering of Shape, Stiffness, and Friction | Tianhai Liang, Shiyi Guo, Baiye Cheng, Zhengrong Xue et al. | [Abstract](https://arxiv.org/abs/2603.13829) · [PDF](https://arxiv.org/pdf/2603.13829) | needs-review |
 | 2026-03-09 | FlowTouch: View-Invariant Visuo-Tactile Prediction | Seongjin Bien, Carlo Kneissl, Tobias Jülg, Frank Fundel et al. | [Abstract](https://arxiv.org/abs/2603.08255) · [PDF](https://arxiv.org/pdf/2603.08255) | needs-review |
 | 2026-02-28 | HydroShear: Hydroelastic Shear Simulation for Tactile Sim-to-Real Reinforcement Learning | An Dang, Jayjun Lee, Mustafa Mukadam, X. Alice Wu et al. | [Abstract](https://arxiv.org/abs/2603.00446) · [PDF](https://arxiv.org/pdf/2603.00446) | needs-review |
 | 2026-02-25 | Tacmap: Bridging the Tactile Sim-to-Real Gap via Geometry-Consistent Penetration Depth Map | Lei Su, Zhijie Peng, Renyuan Ren, Shengping Mao et al. | [Abstract](https://arxiv.org/abs/2602.21625) · [PDF](https://arxiv.org/pdf/2602.21625) | needs-review |
@@ -178,7 +179,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-13 | Towards Transferring Tactile-based Continuous Force Control Policies from Simulation to Robot | Luca Lach, Robert Haschke, Davide Tateo, Jan Peters et al. | [Abstract](https://arxiv.org/abs/2311.07245) · [PDF](https://arxiv.org/pdf/2311.07245) | needs-review |
 | 2023-11-13 | TIAGo RL: Simulated Reinforcement Learning Environments with Tactile Data for Mobile Robots | Luca Lach, Francesco Ferro, Robert Haschke | [Abstract](https://arxiv.org/abs/2311.07260) · [PDF](https://arxiv.org/pdf/2311.07260) | needs-review |
 | 2023-11-04 | Precise Robotic Needle-Threading with Tactile Perception and Reinforcement Learning | Zhenjun Yu, Wenqiang Xu, Siqiong Yao, Jieji Ren et al. | [Abstract](https://arxiv.org/abs/2311.02396) · [PDF](https://arxiv.org/pdf/2311.02396) | needs-review |
-| 2023-10-27 | Pouring by Feel: An Analysis of Tactile and Proprioceptive Sensing for Accurate Pouring | Pedro Piacenza, Daewon Lee, Volkan Isler | [Abstract](https://arxiv.org/abs/2310.18473) · [PDF](https://arxiv.org/pdf/2310.18473) | needs-review |
 
 ---
 

@@ -1,12 +1,12 @@
 # Depth & Point Clouds · 深度与点云
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=Depth%20%26%20Point%20Clouds#research-workbench)
 
-> 15 conference papers · 444 recent arXiv papers
+> 15 conference papers · 447 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -40,10 +40,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Any2Policy: Learning Visuomotor Policy with Any-Modality | NeurIPS · Visuomotor | [Paper](https://doi.org/10.52202/079017-4244) · [Publisher](https://doi.org/10.52202/079017-4244) | rule-assigned |
 | 2022 | f-Cal: Aleatoric uncertainty quantification for robot perception via calibrated neural regression | ICRA · Robot Perception | [Paper](https://doi.org/10.1109/icra46639.2022.9811903) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811903) | rule-assigned |
 
-## Recent arXiv papers (444)
+## Recent arXiv papers (447)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | Compressed Orientation Reachability Maps for Sub-Second Robotic Needle Entry Point Planning | Prabhu Nithin Gollapudi, Andreas Maier, Franziska Mathis-Ullrich, Water Zhao et al. | [Abstract](https://arxiv.org/abs/2610.39879) · [PDF](https://arxiv.org/pdf/2610.39879) | rule-assigned |
+| 2026-10-27 | Efficacy of Monocular Depth Estimation in Lunar Environments | Michael W. Lanighan, Kenji Brameld, Seth Gee | [Abstract](https://arxiv.org/abs/2610.38080) · [PDF](https://arxiv.org/pdf/2610.38080) | rule-assigned |
+| 2026-10-27 | A Singularity Avoiding Track Model for Race Car Optimization | Adwait Verulkar, Behzad Danaei, Srikanth Sivaramakrishnan, Ryan Trinter | [Abstract](https://arxiv.org/abs/2610.36430) · [PDF](https://arxiv.org/pdf/2610.36430) | rule-assigned |
+| 2026-10-25 | Robust Single-Parameter Point Cloud Registration using Truncated Lp Functions | Seong Hun Lee, Patrick Vandewalle, Javier Civera | [Abstract](https://arxiv.org/abs/2610.34271) · [PDF](https://arxiv.org/pdf/2610.34271) | rule-assigned |
+| 2026-10-24 | Real-Time Human Trajectory Prediction from RGB-D for Mobile Robots Using Bi-Mamba | Basheer Al-Tawil, Magnus Jung, Ayoub Al-Hamadi | [Abstract](https://arxiv.org/abs/2610.33916) · [PDF](https://arxiv.org/pdf/2610.33916) | rule-assigned |
 | 2026-10-19 | On Maximum Clique and Maximum Consensus Formulations in Point Cloud Registration | Abolfazl Babanazari, Kaveh Fathian | [Abstract](https://arxiv.org/abs/2610.27275) · [PDF](https://arxiv.org/pdf/2610.27275) | rule-assigned |
 | 2026-10-16 | Multimodal Interaction Estimation for Contact-Aware Adaptive Impedance Control | Mateusz Jaszczuk, Paris Perdikaris, Nadia Figueroa | [Abstract](https://arxiv.org/abs/2610.24235) · [PDF](https://arxiv.org/pdf/2610.24235) | rule-assigned |
 | 2026-10-11 | Harnessing SPAD Noise: Test-Time Gated Attention for Indoor Depth Estimation | Yiquan Gao | [Abstract](https://arxiv.org/abs/2610.15431) · [PDF](https://arxiv.org/pdf/2610.15431) | rule-assigned |
@@ -92,7 +97,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-13 | Attention from Action, for Action: Emergent Visual Bottlenecks for Policy Learning | Zheyu Zhuang, Ruiyu Wang, Nick Heppert, Johannes Fabian Hahn et al. | [Abstract](https://arxiv.org/abs/2608.13422) · [PDF](https://arxiv.org/pdf/2608.13422) | rule-assigned |
 | 2026-08-12 | Repurposing RGB-based Foundation Model for Depth Estimation on Thermal Images Using Hierarchical Supervision | Jie Hong, Tingtian Li, Xuesong Li, Xiao Li | [Abstract](https://arxiv.org/abs/2608.11564) · [PDF](https://arxiv.org/pdf/2608.11564) | rule-assigned |
 | 2026-08-11 | GESTO: Human-Centric Spatio-Temporal Memory for Reasoning in Dynamic Scenes | Ermanno Bartoli, Buwei He, Dennis Rotondi, Sebastian Koch et al. | [Abstract](https://arxiv.org/abs/2608.10886) · [PDF](https://arxiv.org/pdf/2608.10886) | rule-assigned |
-| 2026-08-08 | Ego-OSCAR: Egocentric Open source Stereo CAptuRe System | Gunjan Paul, Senthil Palanisamy, Satpal Singh Rathore, Pratyush Kumar Patnaik et al. | [Abstract](https://arxiv.org/abs/2608.08285) · [PDF](https://arxiv.org/pdf/2608.08285) | rule-assigned |
 | 2026-08-02 | FeDepth: Federated Learning for Depth Estimation under Robot Heterogeneity | Ganghyeon Lee, Inha Lee, Junhee Lee, Jeongeon Lee et al. | [Abstract](https://arxiv.org/abs/2608.01129) · [PDF](https://arxiv.org/pdf/2608.01129) | rule-assigned |
 | 2026-08-01 | OmniAI: A Surface-Adaptive Aerial Projection Interface for Human--Drone Interaction | Nikita Kuzmin, Yuhua Jin, Georgii Demianchuk, Mariya Lezina et al. | [Abstract](https://arxiv.org/abs/2608.00721) · [PDF](https://arxiv.org/pdf/2608.00721) | rule-assigned |
 | 2026-07-29 | Dense Soft Weighting for Radar Ego-Velocity Estimation | Atar Babgei, Chenyu Zhao, Michael Breza, Julie A. McCann | [Abstract](https://arxiv.org/abs/2607.26980) · [PDF](https://arxiv.org/pdf/2607.26980) | rule-assigned |
@@ -487,7 +491,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-21 | Multi-Resolution Planar Region Extraction for Uneven Terrains | Yinghan Sun, Linfang Zheng, Hua Chen, Wei Zhang | [Abstract](https://arxiv.org/abs/2311.12562) · [PDF](https://arxiv.org/pdf/2311.12562) | rule-assigned |
 | 2023-11-08 | 3D Pose Estimation of Tomato Peduncle Nodes using Deep Keypoint Detection and Point Cloud | Jianchao Ci, Xin Wang, David Rapado-Rincón, Akshay K. Burusa et al. | [Abstract](https://arxiv.org/abs/2311.04699) · [PDF](https://arxiv.org/pdf/2311.04699) | rule-assigned |
 | 2023-11-02 | UltraLiDAR: Learning Compact Representations for LiDAR Completion and Generation | Yuwen Xiong, Wei-Chiu Ma, Jingkang Wang, Raquel Urtasun | [Abstract](https://arxiv.org/abs/2311.01448) · [PDF](https://arxiv.org/pdf/2311.01448) | rule-assigned |
-| 2023-10-25 | Metrically Scaled Monocular Depth Estimation through Sparse Priors for Underwater Robots | Luca Ebner, Gideon Billings, Stefan Williams | [Abstract](https://arxiv.org/abs/2310.16750) · [PDF](https://arxiv.org/pdf/2310.16750) | rule-assigned |
 
 ---
 

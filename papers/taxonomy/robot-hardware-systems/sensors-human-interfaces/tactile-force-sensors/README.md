@@ -1,7 +1,7 @@
 # Tactile & Force Sensors · 触觉与力传感器
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Sensors%20%26%20Human%20Interfaces&specialty=Tactile%20%26%20Force%20Sensors#research-workbench)
@@ -69,7 +69,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | DenseTact: Optical Tactile Sensor for Dense Shape Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/abs/2201.01367) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811966) | rule-assigned |
 | 2022 | Design of a Biomimetic Tactile Sensor for Material Classification | ICRA · Tactile | [Paper](https://arxiv.org/abs/2203.15941) · [Index](https://dblp.org/rec/journals/corr/abs-2203-15941) | rule-assigned |
 | 2022 | Load-sensitive Data Acquisition for a Tactile Sensor System of Multi-fingered Robotic Hands | ICRA · Multi Finger | [Paper](https://doi.org/10.1109/icra46639.2022.9812260) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812260) | rule-assigned |
-| 2022 | Slip Anticipation for Grasping Deformable Objects Using a Soft Force Sensor | IROS · Grasp | [Paper](https://infoscience.epfl.ch/handle/20.500.14299/192207) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981174) | rule-assigned |
+| 2022 | Slip Anticipation for Grasping Deformable Objects Using a Soft Force Sensor | IROS · Grasp | [Paper](https://infoscience.epfl.ch/bitstreams/47b1a145-38bb-433b-ae3b-66dc9a0765f9/download) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981174) | rule-assigned |
 
 ## Recent arXiv papers (63)
 

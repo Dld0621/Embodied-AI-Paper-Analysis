@@ -1,12 +1,12 @@
 # World-model Planning · 世界模型辅助规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Model-based%20Decision%20Making&specialty=World-model%20Planning#research-workbench)
 
-> 1 conference papers · 20 recent arXiv papers
+> 1 conference papers · 21 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2026 | IMPASTO: Integrating Model-Based Planning with Learned Dynamics Models for Robotic Oil Painting Reproduction | ICRA · Dynamics Model | [Paper](https://arxiv.org/pdf/2603.29315) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696393) | rule-assigned |
 
-## Recent arXiv papers (20)
+## Recent arXiv papers (21)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | Surrogate Uncertainty for Black-box Visual Grounding | Hanbo Zhang, Tianrun Hu, Cedar Site Bai, Anxing Xiao et al. | [Abstract](https://arxiv.org/abs/2610.39798) · [PDF](https://arxiv.org/pdf/2610.39798) | rule-assigned |
 | 2026-10-14 | Back on Track: Deployment-time Policy Improvement via World Model Planning | Colton Crosby, Hao Wang, Mac Schwager, Somil Bansal | [Abstract](https://arxiv.org/abs/2610.19579) · [PDF](https://arxiv.org/pdf/2610.19579) | rule-assigned |
 | 2026-10-09 | PILOT: Guiding Long-Horizon World-Model Planning for Robot Manipulation with Visual Subgoals and Policy Priors | Yang Liu, Hanchen Cui, Karthik Desingh | [Abstract](https://arxiv.org/abs/2610.14335) · [PDF](https://arxiv.org/pdf/2610.14335) | rule-assigned |
 | 2026-09-28 | ATLAS: Aligned Transport of Latent Structure for Reliable World Model Planning | Ke Fang, Yupu Yao, Lu Cheng | [Abstract](https://arxiv.org/abs/2609.36333) · [PDF](https://arxiv.org/pdf/2609.36333) | rule-assigned |

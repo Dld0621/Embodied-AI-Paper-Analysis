@@ -1,12 +1,12 @@
 # Failure Detection & Replanning · 失败检测、纠错与重规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Memory%20%26%20Autonomous%20Execution&specialty=Failure%20Detection%20%26%20Replanning#research-workbench)
 
-> 10 conference papers · 159 recent arXiv papers
+> 10 conference papers · 162 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -35,10 +35,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots | IROS · Llm | [Paper](https://arxiv.org/pdf/2507.05118) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246320) | rule-assigned |
 | 2023 | BITS: Bi-level Imitation for Traffic Simulation | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2208.12403) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161167) | rule-assigned |
 
-## Recent arXiv papers (159)
+## Recent arXiv papers (162)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | LOGIV: Graph-Verified Execution with Causal Local Repair for Long-Horizon Robot Tasks | Enqiao Lu, Yuxiang Xie, Xingrui Yu, Yuyang Wang et al. | [Abstract](https://arxiv.org/abs/2610.40016) · [PDF](https://arxiv.org/pdf/2610.40016) | reviewed |
+| 2026-10-29 | Assuring Learning-Enabled Cyber-Physical Systems with Foundation Models: A Neuro-Symbolic Agenda for Testing, Verification, and Runtime Assurance | Xi Zheng, Ivan Ruchkin, Hong Jin Kang, Tevfik Bultan et al. | [Abstract](https://arxiv.org/abs/2610.39547) · [PDF](https://arxiv.org/pdf/2610.39547) | rule-assigned |
 | 2026-10-22 | Progress Probes $P^2$: Lightweight Runtime Monitoring for Vision-Language-Action Models | Atiksh Bhardwaj, Edward W. Duan, Junwon Seo, Prithwish Dan et al. | [Abstract](https://arxiv.org/abs/2610.31613) · [PDF](https://arxiv.org/pdf/2610.31613) | reviewed |
 | 2026-10-22 | LAST-V2X: Language-Driven Adaptive Scenario Synthesis and Testing for Communication-Induced Failures in V2X Safety Applications | Keshu Wu, Hao Zhang, Rui Gan, Pei Li et al. | [Abstract](https://arxiv.org/abs/2610.30979) · [PDF](https://arxiv.org/pdf/2610.30979) | rule-assigned |
 | 2026-10-21 | CausGround: Causal Interaction Grounding for Adaptive Embodied Planning | Yijun Shen, Diqi He, Jinbang Guo, Wanyue Zhang et al. | [Abstract](https://arxiv.org/abs/2610.29702) · [PDF](https://arxiv.org/pdf/2610.29702) | rule-assigned |
@@ -90,6 +92,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-18 | Dual-Agent Framework for Cross-Model Verified Translation of Natural-Language Protocols into Robotic Laboratory Platform | Hyeonna Choi, Jung Yup Kim, Hyuneui Lim, Seunggyu Jeon | [Abstract](https://arxiv.org/abs/2606.20120) · [PDF](https://arxiv.org/pdf/2606.20120) | rule-assigned |
 | 2026-06-16 | Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement | Mingtong Zhang, Dhruv Shah | [Abstract](https://arxiv.org/abs/2606.18247) · [PDF](https://arxiv.org/pdf/2606.18247) | rule-assigned |
 | 2026-06-16 | AI Sandboxes: A Threat Model, Taxonomy, and Measurement Framework | Inderjeet Singh, Haitham Mahmoud, Andrés Murillo | [Abstract](https://arxiv.org/abs/2606.18532) · [PDF](https://arxiv.org/pdf/2606.18532) | rule-assigned |
+| 2026-06-08 | Who Is the Agent Talking To? Participant-Aware Role Switching for Embodied Student-Support Dialogue | Iro Samuel, Filip Janik, Ewa Olton, Robert Smales et al. | [Abstract](https://arxiv.org/abs/2606.09255) · [PDF](https://arxiv.org/pdf/2606.09255) | rule-assigned |
 | 2026-06-04 | Dynamic Multi-Agent Pickup and Delivery in Robotic Cellular Warehousing Systems | Cheng Ren, Ming Li, Xinping Guan, George Q. Huang | [Abstract](https://arxiv.org/abs/2606.05669) · [PDF](https://arxiv.org/pdf/2606.05669) | rule-assigned |
 | 2026-06-02 | Denoising Tells When to Replan: Denoising-Variance Adaptive Chunking for Flow-Based Robot Policies | Xiangdong Feng, Yuxuan Cheng, Chen Shi, Boyao Han et al. | [Abstract](https://arxiv.org/abs/2606.03847) · [PDF](https://arxiv.org/pdf/2606.03847) | rule-assigned |
 | 2026-05-26 | AURA: Asymptotically Optimal Uncertainty-Robust Replanning Algorithm for Kinodynamic Systems | Seyedali Golestaneh, Zhuoyun Zhong, Donghyung Lee, Constantinos Chamzas | [Abstract](https://arxiv.org/abs/2605.27699) · [PDF](https://arxiv.org/pdf/2605.27699) | rule-assigned |

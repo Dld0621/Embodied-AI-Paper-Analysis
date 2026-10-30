@@ -1,7 +1,7 @@
 # conference classification review · 401–600
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
@@ -53,7 +53,7 @@
 | [Optimal Gait Control for a Tendon-Driven Soft Quadruped Robot by Model-Based Reinforcement Learning](https://arxiv.org/pdf/2406.07069) | 2025 · conference | 暂定二级 / provisional: Robot Hardware & Systems → Mechanisms & Actuation → Pending specialty review | title:hardware or deployment contribution; fallback |
 | [Optimization Based Human-Guided Variable-Stiffness Visual Impedance Control for Contact-Rich Tasks](https://doi.org/10.1109/IROS60139.2025.11247255) | 2025 · conference | Arm & General Object Manipulation → Contact-rich Manipulation → Pending specialty review | fallback; title:contact rich |
 | [Optimize and Coordinate Multiple DMPs Under Constraints to Achieve a Collaborative Manipulation Task](https://orbilu.uni.lu/handle/10993/66139) | 2025 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
-| [Optimizing Complex Control Systems with Differentiable Simulators: A Hybrid Approach to Reinforcement Learning and Trajectory Planning](https://doi.org/10.1109/ICRA55743.2025.11127746) | 2025 · conference | Data, Simulation & Evaluation → Simulation & Digital Twins → Pending specialty review | title:data or evaluation contribution; title:simulators |
+| [Optimizing Complex Control Systems with Differentiable Simulators: A Hybrid Approach to Reinforcement Learning and Trajectory Planning](https://hal.science/hal-05294931v1/document) | 2025 · conference | Data, Simulation & Evaluation → Simulation & Digital Twins → Pending specialty review | title:data or evaluation contribution; title:simulators |
 | [PAC Bench: Do Foundation Models Understand Prerequisites for Executing Manipulation Policies?](https://arxiv.org/abs/2506.23725) | 2025 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [PACR: Point-Axis Constraint Reasoning for Enhanced Robotic Manipulation with Dexterity and Compliance](https://doi.org/10.1109/IROS60139.2025.11246460) | 2025 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [PartGrasp: Generalizable Part-level Grasping via Semantic-Geometric Alignment](https://doi.org/10.1109/IROS60139.2025.11246282) | 2025 · conference | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasping |

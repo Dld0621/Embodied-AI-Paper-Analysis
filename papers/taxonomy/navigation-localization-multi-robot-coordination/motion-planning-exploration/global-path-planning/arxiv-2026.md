@@ -1,15 +1,20 @@
 # Global Path Planning · 全局路径规划 · arXiv 2026
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 370 papers · complete list for this taxonomy leaf
+> 375 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | Optimal Path Planning with Localization constraints | Chinmay Mundane, Manav Mishra, PB Sujit | [Abstract](https://arxiv.org/abs/2610.40429) · [PDF](https://arxiv.org/pdf/2610.40429) | rule-assigned |
+| 2026-10-27 | Leveraging Distributed Sensing and Hyperdimensional Computing for Non-Line-of-Sight Passive Object Sensing | Placido Mursia, Marco Rossanese, Francesco Devoti, Adrian Lendinez Ibanez et al. | [Abstract](https://arxiv.org/abs/2610.37519) · [PDF](https://arxiv.org/pdf/2610.37519) | rule-assigned |
+| 2026-10-26 | Continuous-Time Safe Planning and Control for Agile Quadrupeds | Gage MacLin, Mason Peterson, Camilla Tabasso, Venanzio Cichella et al. | [Abstract](https://arxiv.org/abs/2610.35670) · [PDF](https://arxiv.org/pdf/2610.35670) | rule-assigned |
+| 2026-10-25 | Extended LASMP: Language Aided Subset Sampling Based Motion Planner for Drone Navigation | Saswati Bhattacharjee, Anirban Sinha, Mukulika Ghosh, Chinwe Ekenna | [Abstract](https://arxiv.org/abs/2610.34054) · [PDF](https://arxiv.org/pdf/2610.34054) | rule-assigned |
+| 2026-10-23 | Graphs of Trajectory Bundles for Nonlinear Motion Planning | Joris Verhagen, Jon Arrizabalaga, Jana Tumova, Zachary Manchester | [Abstract](https://arxiv.org/abs/2610.32365) · [PDF](https://arxiv.org/pdf/2610.32365) | rule-assigned |
 | 2026-10-22 | Continuous-Time Motion Planning and Steering with Global Convergence | Mohsen Amiri, Sima Didari, Davoud Ataee Tarzanagh, Hankyu Moon et al. | [Abstract](https://arxiv.org/abs/2610.30607) · [PDF](https://arxiv.org/pdf/2610.30607) | rule-assigned |
 | 2026-10-21 | Linear Twisting Sidewinding Gaits for Twistable Snake Robot Motion Planning on Complex Terrains | Qingling Fan, Zhongqiang Ren | [Abstract](https://arxiv.org/abs/2610.29461) · [PDF](https://arxiv.org/pdf/2610.29461) | rule-assigned |
 | 2026-10-21 | Integrating Flow Matching and Model Predictive Control for Safe Robot Navigation | Philipp Holzmann, Maik Pfefferkorn, Joao Carvalho, Ali Younes et al. | [Abstract](https://arxiv.org/abs/2610.29377) · [PDF](https://arxiv.org/pdf/2610.29377) | rule-assigned |
@@ -17,7 +22,7 @@
 | 2026-10-16 | FLASH-CBF-RRT: Fast Lipschitz-Adaptive Safe Horizon CBF Steering for Certified Motion Planning | Mani Amani, Hesam Mojtahedi, Reza Akhavian, Nikolay Atanasov et al. | [Abstract](https://arxiv.org/abs/2610.24149) · [PDF](https://arxiv.org/pdf/2610.24149) | rule-assigned |
 | 2026-10-15 | Vision-Guided Closed-Loop Autonomous Navigation of Light-Driven Janus Microbots | Kanhu Charan Andia, Harsh Prashant Katole, Parth Nitinkumar Bhosale, Hemant Kumar et al. | [Abstract](https://arxiv.org/abs/2610.21222) · [PDF](https://arxiv.org/pdf/2610.21222) | rule-assigned |
 | 2026-10-15 | Time-Optimal Ergodic Retrieval | Christian Sulana, Christian Hughes, Ian Abraham | [Abstract](https://arxiv.org/abs/2610.21823) · [PDF](https://arxiv.org/pdf/2610.21823) | rule-assigned |
-| 2026-10-15 | Safe and Fuel-Efficient Motion Planning for Lunar Propulsive Drones | Elena Wittemyer, Graco Gao | [Abstract](https://arxiv.org/abs/2610.22225) · [PDF](https://arxiv.org/pdf/2610.22225) | rule-assigned |
+| 2026-10-15 | Safe and Fuel-Efficient Motion Planning for Lunar Propulsive Drones | Elena Wittemyer, Grace Gao | [Abstract](https://arxiv.org/abs/2610.22225) · [PDF](https://arxiv.org/pdf/2610.22225) | rule-assigned |
 | 2026-10-15 | CLIS-MPPI: Closed-Loop Model Predictive Path Integral Control With Initial-State Sampling Under Execution Delay | Zidong Liu, Xu Chen | [Abstract](https://arxiv.org/abs/2610.21239) · [PDF](https://arxiv.org/pdf/2610.21239) | rule-assigned |
 | 2026-10-15 | Auditable and Deployable Multi-Agent Motion Planning via Posetal Games from Legal Guidelines | Florian Lercher, Karan Mahesh, Yujun Huang, Meshal Alharbi et al. | [Abstract](https://arxiv.org/abs/2610.22277) · [PDF](https://arxiv.org/pdf/2610.22277) | rule-assigned |
 | 2026-10-14 | FPTAS for Polygonal Multi-Robot Motion Planning | Sayan Bandyapadhyay, William Lochet, Saket Saurabh, Jie Xue | [Abstract](https://arxiv.org/abs/2610.20244) · [PDF](https://arxiv.org/pdf/2610.20244) | rule-assigned |

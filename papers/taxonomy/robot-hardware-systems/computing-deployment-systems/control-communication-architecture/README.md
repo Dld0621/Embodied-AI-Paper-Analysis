@@ -1,12 +1,12 @@
 # Control & Communication Architecture · 控制与通信架构
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Computing%20%26%20Deployment%20Systems&specialty=Control%20%26%20Communication%20Architecture#research-workbench)
 
-> 2 conference papers · 75 recent arXiv papers
+> 2 conference papers · 74 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,10 +27,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Image to Patterning: Density-specified Patterning of Micro-structured Surfaces with a Mobile Robot | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS58592.2024.10802317) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802317) | rule-assigned |
 | 2022 | ROS-PyBullet Interface: A Framework for Reliable Contact Simulation and Human-Robot Interaction | CoRL · Simulation | [Paper](https://arxiv.org/abs/2210.06887) · [Index](https://dblp.org/rec/conf/corl/MowerS0RYBGVBV22) | rule-assigned |
 
-## Recent arXiv papers (75)
+## Recent arXiv papers (74)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-28 | When "No Worries" Went Wrong: HRI Lessons for Foundation-Model Robots | Eliahu Khalastchi | [Abstract](https://arxiv.org/abs/2610.38400) · [PDF](https://arxiv.org/pdf/2610.38400) | rule-assigned |
 | 2026-10-22 | Multi-Tool Selection for Robotic Systems: Comparing Semantic Retrieval and LLM | Miguel Sousa, Luis Ramos Pinto, João P. Matos-Carvalho | [Abstract](https://arxiv.org/abs/2610.31013) · [PDF](https://arxiv.org/pdf/2610.31013) | rule-assigned |
 | 2026-10-15 | Sub-Millisecond Reflexes for Continuous Physical Human-Robot Interaction | Jon Škerlj, Sami Haddadin | [Abstract](https://arxiv.org/abs/2610.21913) · [PDF](https://arxiv.org/pdf/2610.21913) | rule-assigned |
 | 2026-10-14 | Learning from Demonstrations Meets Symbolic Control - A Supervisory Control Architecture for Formal Certification of Learned Motion | Ashok Kumar, Mahathi Anand, Angela P. Schoellig, Abdalla Swikir | [Abstract](https://arxiv.org/abs/2610.19815) · [PDF](https://arxiv.org/pdf/2610.19815) | rule-assigned |
@@ -45,7 +46,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-26 | VirTooS: A ROS 2 - Unity Virtualization Toolkit for Fleet Management of Autonomous Mobile Robots | Andrea Drudi, Lorenzo Pichierri, Andrea Testa, Giuseppe Notarstefano | [Abstract](https://arxiv.org/abs/2608.26066) · [PDF](https://arxiv.org/pdf/2608.26066) | rule-assigned |
 | 2026-08-25 | ROS2 Connect: A new ROS2 over WAN Solution | Daniel Schott, Lakshminarasimhan Srinivasan, Christian Herrmann, Andreas Nüchter | [Abstract](https://arxiv.org/abs/2608.25102) · [PDF](https://arxiv.org/pdf/2608.25102) | rule-assigned |
 | 2026-08-20 | Keeping the Franka Emika Panda alive: a ROS 2 stack with a reliable position interface | Antonio Langella, Davide Risi, Vincenzo Petrone, Enrico Ferrentino et al. | [Abstract](https://arxiv.org/abs/2608.19740) · [PDF](https://arxiv.org/pdf/2608.19740) | rule-assigned |
-| 2026-07-24 | Plug, Play, and Comply: A Modular Framework for Online Variable Impedance with Arbitrarily Oriented Compliance Axes | Mihael Simonič, Xiaocong Li | [Abstract](https://arxiv.org/abs/2607.22483) · [PDF](https://arxiv.org/pdf/2607.22483) | rule-assigned |
 | 2026-07-13 | Casting Everything to Online API Services? A Survey of Integrating Localized Speech Recognition Models in Robotic Systems | Sheng Li, Jing Li, Felix Schijve, Jun Hu et al. | [Abstract](https://arxiv.org/abs/2607.11792) · [PDF](https://arxiv.org/pdf/2607.11792) | rule-assigned |
 | 2026-06-26 | RIPA: Sensory-Vector Prompt Injection Attacks on LLM-Controlled ROS 2 Robots | Nima Dorzhiev | [Abstract](https://arxiv.org/abs/2606.28649) · [PDF](https://arxiv.org/pdf/2606.28649) | rule-assigned |
 | 2026-06-24 | Layered Outer-Loop Control for Disturbance-Robust Multi-Waypoint UAV Arrival | Runfeng Ling | [Abstract](https://arxiv.org/abs/2606.26315) · [PDF](https://arxiv.org/pdf/2606.26315) | rule-assigned |
@@ -105,7 +105,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-02-25 | ROS-Causal: A ROS-based Causal Analysis Framework for Human-Robot Interaction Applications | Luca Castri, Gloria Beraldo, Sariah Mghames, Marc Hanheide et al. | [Abstract](https://arxiv.org/abs/2402.16068) · [PDF](https://arxiv.org/pdf/2402.16068) | rule-assigned |
 | 2024-02-25 | Controlling Deformable Objects with Non-negligible Dynamics: a Shape-Regulation Approach to End-Point Positioning | Sebastien Tiburzio, Tomás Coleman, Daniel Feliu-Talegon, Cosimo Della Santina | [Abstract](https://arxiv.org/abs/2402.16114) · [PDF](https://arxiv.org/pdf/2402.16114) | rule-assigned |
 | 2023-12-11 | Stoch BiRo: Design and Control of a low cost bipedal robot | GVS Mothish, Karthik Rajgopal, Ravi Kola, Manan Tayal et al. | [Abstract](https://arxiv.org/abs/2312.06512) · [PDF](https://arxiv.org/pdf/2312.06512) | rule-assigned |
-| 2023-10-25 | Diseno y Desarrollo de Prototipos Roboticos para Competencias de Futbol utilizando Motores Dynamixel | Pablo Moraes, Hiago Sodre, Monica Rodriguez, Andre Kelbouscas et al. | [Abstract](https://arxiv.org/abs/2310.17058) · [PDF](https://arxiv.org/pdf/2310.17058) | rule-assigned |
 
 ---
 

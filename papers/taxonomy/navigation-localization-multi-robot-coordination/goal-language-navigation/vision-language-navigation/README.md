@@ -1,12 +1,12 @@
 # Vision-Language Navigation · 视觉语言导航
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Goal%20%26%20Language%20Navigation&specialty=Vision-Language%20Navigation#research-workbench)
 
-> 33 conference papers · 266 recent arXiv papers
+> 33 conference papers · 270 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -58,10 +58,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Depth-Aware Vision-and-Language Navigation using Scene Query Attention Network | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811921) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811921) | rule-assigned |
 | 2022 | Weakly-Supervised Multi-Granularity Map Learning for Vision-and-Language Navigation | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.07506) · [Index](https://dblp.org/rec/conf/nips/ChenJLZLTG22) | rule-assigned |
 
-## Recent arXiv papers (266)
+## Recent arXiv papers (270)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | Ask to Evolve: A Unified Harness for Lifelong Embodied Navigation with Hybrid Action Space and Persistent Memory | Kai Sheng, Liuyi Wang, Jinlong Li, Haojie Dai et al. | [Abstract](https://arxiv.org/abs/2610.39446) · [PDF](https://arxiv.org/pdf/2610.39446) | rule-assigned |
+| 2026-10-28 | What Should a Navigator Remember? Spatiotemporal Memory for Zero-Shot Vision-Language Navigation | Yuhang Peng, Zhikai Wang, Ziyi Wang, Jiaru Zhong et al. | [Abstract](https://arxiv.org/abs/2610.38318) · [PDF](https://arxiv.org/pdf/2610.38318) | rule-assigned |
+| 2026-10-28 | MATCH: Execution-Aware Hierarchical Reinforcement Learning for Vision-and-Language Navigation in Continuous Environment | Shuhao Ye, Yufei Wei, Demao Wang, Shichao Zhai et al. | [Abstract](https://arxiv.org/abs/2610.38248) · [PDF](https://arxiv.org/pdf/2610.38248) | rule-assigned |
+| 2026-10-24 | MOON: Learning When to Forget and How to Move On in Vision-and-Language Navigation | Jingmeng Zhou, Seson Sun, Binyao Xu, Lingming Zhang et al. | [Abstract](https://arxiv.org/abs/2610.33546) · [PDF](https://arxiv.org/pdf/2610.33546) | rule-assigned |
 | 2026-10-19 | Revealing and Bridging the Physical Executability Gap in Vision-Language Navigation | Gang He, Zhile Cheng, Kepeng Xu, Zhenyang Liu et al. | [Abstract](https://arxiv.org/abs/2610.25687) · [PDF](https://arxiv.org/pdf/2610.25687) | rule-assigned |
 | 2026-10-19 | ReInsVLN: Revisiting Historical Evidence for Training-Free Vision-and-Language Navigation | Siwei Cheng, Hao Wu, Zitong Qi, Xinming Zhang et al. | [Abstract](https://arxiv.org/abs/2610.26545) · [PDF](https://arxiv.org/pdf/2610.26545) | rule-assigned |
 | 2026-10-18 | Structure over Reasoning: Unified Zero-Shot Navigation with a Small Vision-Language Model | Zeqi Li, Xunyi Zhao, Zerui Li, Sihao Lin et al. | [Abstract](https://arxiv.org/abs/2610.25130) · [PDF](https://arxiv.org/pdf/2610.25130) | rule-assigned |
@@ -116,7 +120,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-13 | AirForesight: Current-to-Future Spatial Map Imagination with Cross-Space Planning Consistency for UAV-VLN | Yutong Liu, Xiaojie Li, Mingzhu Xu, Jianlong Wu | [Abstract](https://arxiv.org/abs/2608.12835) · [PDF](https://arxiv.org/pdf/2608.12835) | rule-assigned |
 | 2026-08-10 | SAIN: Structure-Aware Interactive Navigation with Active Dialogue Grounding for Mobile Robot | Yuhao Cao, Xiao Liu, Yang Xie, Lu Liu et al. | [Abstract](https://arxiv.org/abs/2608.09196) · [PDF](https://arxiv.org/pdf/2608.09196) | rule-assigned |
 | 2026-08-07 | WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN | Yuehao Huang, Yunzi Wu, Xiaotao Zhang, Xinhai Li et al. | [Abstract](https://arxiv.org/abs/2608.07267) · [PDF](https://arxiv.org/pdf/2608.07267) | rule-assigned |
-| 2026-08-07 | VLN on the Fly: An Onboard Vision-Language Navigation Stack for Aerial Robots | Marco S. Tayar, Felipe Tommaselli, Gianluca Capezutto, Pedro Antonio Rabelo Saraiva et al. | [Abstract](https://arxiv.org/abs/2609.20191) · [PDF](https://arxiv.org/pdf/2609.20191) | rule-assigned |
+| 2026-08-07 | VLN on the Fly: An Onboard Vision-Language Navigation Stack for Aerial Robots | Marco S. Tayar, Felipe Tommaselli, Gianluca Capezzuto, Pedro Antonio Rabelo Saraiva et al. | [Abstract](https://arxiv.org/abs/2609.20191) · [PDF](https://arxiv.org/pdf/2609.20191) | rule-assigned |
 | 2026-08-04 | From Routes to Steps: Separating Semantic Progress from Local Execution in Vision-and-Language Navigation | Xiangyun Huang, Xiangchen Wang, Runfeng Lin, Yihao Xu et al. | [Abstract](https://arxiv.org/abs/2608.03143) · [PDF](https://arxiv.org/pdf/2608.03143) | rule-assigned |
 | 2026-08-03 | CoNav-UAV: Cooperative Dual-Altitude Aerial Navigation via Stackelberg Learning | Junru Song, Wenhao Zhang, Yang Yang, Xuekai Qiu et al. | [Abstract](https://arxiv.org/abs/2608.01802) · [PDF](https://arxiv.org/pdf/2608.01802) | rule-assigned |
 | 2026-08-02 | FreqNav: Stage-Wise Frequency Routing for Object-Oriented Aerial Vision-Language Navigation | Yin Tang, Jiawei Ma, Jiahao Li, Hao Zhang et al. | [Abstract](https://arxiv.org/abs/2608.00970) · [PDF](https://arxiv.org/pdf/2608.00970) | rule-assigned |

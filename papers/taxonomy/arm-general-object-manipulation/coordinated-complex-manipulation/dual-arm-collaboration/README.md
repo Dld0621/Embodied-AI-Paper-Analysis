@@ -1,12 +1,12 @@
 # Dual-arm Collaboration · 双臂协作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Dual-arm%20Collaboration#research-workbench)
 
-> 47 conference papers · 162 recent arXiv papers
+> 47 conference papers · 164 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -72,10 +72,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Temporal Task Models from Human Bimanual Demonstrations | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS47612.2022.9981068) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981068) | rule-assigned |
 | 2022 | Nonlinear Model Predictive Control for Human-Robot Handover with Application to the Aerial Case | IROS · Robot Hand | [Paper](https://hal.science/hal-03716664) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981045) | rule-assigned |
 
-## Recent arXiv papers (162)
+## Recent arXiv papers (164)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-27 | GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation | Yang Liu, Xiaoli Liu, Liuzhao Li, Yuduo Song et al. | [Abstract](https://arxiv.org/abs/2610.37091) · [PDF](https://arxiv.org/pdf/2610.37091) | rule-assigned |
+| 2026-10-25 | X-World: Transferring Video Priors to Variable-View Robot Control | Chun Gu, Xiaofei Wei, Yiming Chen, Juntong Zhang et al. | [Abstract](https://arxiv.org/abs/2610.34105) · [PDF](https://arxiv.org/pdf/2610.34105) | rule-assigned |
 | 2026-10-21 | Training in Deployment: Human-in-the-loop Online Post-Training for Robot Manipulation | Chun Gu, Xiaofei Wei, Yiming Chen, Bozhou Zhang et al. | [Abstract](https://arxiv.org/abs/2610.29264) · [PDF](https://arxiv.org/pdf/2610.29264) | rule-assigned |
 | 2026-10-16 | GRASP: Global-Local Representation Alignment and Spatial-Physical Grounding for Bimanual Robotic Manipulation | Zeyuan Ren, Guanxun Zhao, Qi Li, Hao Wang et al. | [Abstract](https://arxiv.org/abs/2610.23123) · [PDF](https://arxiv.org/pdf/2610.23123) | rule-assigned |
 | 2026-10-16 | Embodiment-Aware Planning for Heterogeneous Bimanual Manipulation | Sukhvansh Jain, Anurag Maurya, Shivam Vats, Narendra Kumar Dhar et al. | [Abstract](https://arxiv.org/abs/2610.23551) · [PDF](https://arxiv.org/pdf/2610.23551) | rule-assigned |

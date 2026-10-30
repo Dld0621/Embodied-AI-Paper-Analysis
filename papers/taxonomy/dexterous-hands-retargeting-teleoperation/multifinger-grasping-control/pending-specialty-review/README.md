@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Multifinger%20Grasping%20%26%20Control&specialty=Pending%20specialty%20review#research-workbench)
 
-> 63 conference papers · 229 recent arXiv papers
+> 63 conference papers · 233 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -88,10 +88,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Toward Dexterous Flapping Flight: Effective Large Yaw Torque Generation by $2\times 2$-Degrees-of-Freedom Flapping Wings | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS47612.2022.9981990) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981990) | needs-review |
 | 2022 | Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning | NeurIPS · Dexterous | [Paper](https://arxiv.org/abs/2206.08686) · [Index](https://dblp.org/rec/conf/nips/ChenWWFJLMDZY22) | needs-review |
 
-## Recent arXiv papers (229)
+## Recent arXiv papers (233)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | CAPTURER: A Dexterous Aerial Manipulator for Dynamic and Precise Grasping across Diverse Environments | Meng Wang, Jindou Jia, Sicheng Zhou, Zeshuai Chen et al. | [Abstract](https://arxiv.org/abs/2610.39119) · [PDF](https://arxiv.org/pdf/2610.39119) | needs-review |
+| 2026-10-28 | Catch It All!: Generalizable Dynamic Catching with a Dexterous Hand | Arth Shukla, Kehlani Fay, Huaze Liu, Darin Djapri et al. | [Abstract](https://arxiv.org/abs/2610.39044) · [PDF](https://arxiv.org/pdf/2610.39044) | needs-review |
+| 2026-10-26 | The Language of Deformation: Semantic Failure Analysis as a Prerequisite for Dexterous Manipulation of Deformable Objects | Ignacio Cuiral-Zueco, David Hardman, Michele Pierallini, Erfan Shahriari | [Abstract](https://arxiv.org/abs/2610.35103) · [PDF](https://arxiv.org/pdf/2610.35103) | needs-review |
+| 2026-10-25 | Scaling Dexterous Manipulation via Action Representation Pretraining | Yanjinghao Xu, Jiexin Zhang, Huan Zhao, Jianjia Mo et al. | [Abstract](https://arxiv.org/abs/2610.34453) · [PDF](https://arxiv.org/pdf/2610.34453) | needs-review |
+| 2026-10-24 | MDPO: Multi-constraint Dexterous Policy Optimization with Reinforcement Learning | Ao Zhou, Zongyou Yu, Ke Wu, Tao Xu et al. | [Abstract](https://arxiv.org/abs/2610.33480) · [PDF](https://arxiv.org/pdf/2610.33480) | needs-review |
 | 2026-10-15 | Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation | Tianxing Chen, Wenwei Lin, Chuqiao Lyu, Peicheng Xiang et al. | [Abstract](https://arxiv.org/abs/2610.22342) · [PDF](https://arxiv.org/pdf/2610.22342) | needs-review |
 | 2026-10-15 | Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation | Zirui Wu, Chen Guo, Tianjian Jiang, Zeren Jiang et al. | [Abstract](https://arxiv.org/abs/2610.22363) · [PDF](https://arxiv.org/pdf/2610.22363) | needs-review |
 | 2026-10-13 | DexMimic: A Generalist Dexterous Hand-Object Tracking Policy via Value-Guided Reset Allocation | Zhexi Luo, Zhixuan Xu, Rui Yang, Zeyu Xiao et al. | [Abstract](https://arxiv.org/abs/2610.19089) · [PDF](https://arxiv.org/pdf/2610.19089) | needs-review |
@@ -158,7 +163,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-10 | Zero-Shot Sim-to-Real Robot Learning: A Dexterous Manipulation Study on Reactive Catching | Kejia Ren, Gaotian Wang, Andrew S. Morgan, Kaiyu Hang | [Abstract](https://arxiv.org/abs/2605.09789) · [PDF](https://arxiv.org/pdf/2605.09789) | needs-review |
 | 2026-05-05 | Learning Reactive Dexterous Grasping via Hierarchical Task-Space RL Planning and Joint-Space QP Control | Ho Jae Lee, Yonghyeon Lee, Alexander Alexiev, Tzu-Yuan Lin et al. | [Abstract](https://arxiv.org/abs/2605.03363) · [PDF](https://arxiv.org/pdf/2605.03363) | needs-review |
 | 2026-05-03 | DexSim2Real: Foundation Model-Guided Sim-to-Real Transfer for Generalizable Dexterous Manipulation | Zijian Zeng, Fei Ding, Huiming Yang, Xianwei Li et al. | [Abstract](https://arxiv.org/abs/2605.05241) · [PDF](https://arxiv.org/pdf/2605.05241) | needs-review |
-| 2026-05-02 | High-Speed, Scalable Sensor Readout for Dexterous Robotic Hands via Shift-Register Multiplexing | Jaehoon Kim, Lazaros Christoforidis, Michalis Papadakis, Victor Kartsch et al. | [Abstract](https://arxiv.org/abs/2605.01434) · [PDF](https://arxiv.org/pdf/2605.01434) | needs-review |
+| 2026-05-02 | High-Speed, Scalable Sensor Readout for Dexterous Robotic Hands via Shift-Register Multiplexing | Jaehoon Kim, Boshi An, Lazaros Christoforidis, Michail Papadakis et al. | [Abstract](https://arxiv.org/abs/2605.01434) · [PDF](https://arxiv.org/pdf/2605.01434) | needs-review |
 | 2026-04-30 | Function-based Parametric Co-Design Optimization of Dexterous Hands | Mohammad Amin Mirzaee, Harsh Gupta, Wenzhen Yuan | [Abstract](https://arxiv.org/abs/2604.27557) · [PDF](https://arxiv.org/pdf/2604.27557) | needs-review |
 | 2026-04-28 | Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty | Clinton Enwerem, Shreya Kalyanaraman, John S. Baras, Calin Belta | [Abstract](https://arxiv.org/abs/2604.25897) · [PDF](https://arxiv.org/pdf/2604.25897) | needs-review |
 | 2026-04-28 | HANDFUL: Sequential Grasp-Conditioned Dexterous Manipulation with Resource Awareness | Ethan Foong, Yunshuang Li, Hao Jiang, Gaurav S. Sukhatme et al. | [Abstract](https://arxiv.org/abs/2604.25126) · [PDF](https://arxiv.org/pdf/2604.25126) | needs-review |
@@ -320,7 +325,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-11 | HoLLiE C -- A Multifunctional Bimanual Mobile Robot Supporting Versatile Care Applications | Lea Steffen, Martin Schulze, Christian Eichmann, Robin Koch et al. | [Abstract](https://arxiv.org/abs/2312.06292) · [PDF](https://arxiv.org/pdf/2312.06292) | needs-review |
 | 2023-12-05 | Dexterous Functional Grasping | Ananye Agarwal, Shagun Uppal, Kenneth Shaw, Deepak Pathak | [Abstract](https://arxiv.org/abs/2312.02975) · [PDF](https://arxiv.org/pdf/2312.02975) | needs-review |
 | 2023-10-30 | DEFT: Dexterous Fine-Tuning for Real-World Hand Policies | Aditya Kannan, Kenneth Shaw, Shikhar Bahl, Pragna Mannam et al. | [Abstract](https://arxiv.org/abs/2310.19797) · [PDF](https://arxiv.org/pdf/2310.19797) | needs-review |
-| 2023-10-25 | SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation | Qianxu Wang, Haotong Zhang, Congyue Deng, Yang You et al. | [Abstract](https://arxiv.org/abs/2310.16838) · [PDF](https://arxiv.org/pdf/2310.16838) | needs-review |
 
 ---
 

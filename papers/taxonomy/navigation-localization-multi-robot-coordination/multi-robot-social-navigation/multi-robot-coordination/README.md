@@ -1,12 +1,12 @@
 # Multi-robot Coordination · 多机器人协调
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Multi-robot%20%26%20Social%20Navigation&specialty=Multi-robot%20Coordination#research-workbench)
 
-> 67 conference papers · 385 recent arXiv papers
+> 67 conference papers · 386 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,7 +25,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | A Multimodal Stochastic Planning Approach for Navigation and Multi-Robot Coordination | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2509.19168) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695728) | rule-assigned |
-| 2026 | Benchmarking and Experimental Validation of a Real-Time Multi-Robot Hybrid Coverage Algorithm for Known Environments | ICRA · Benchmark | [Paper](https://infoscience.epfl.ch/handle/20.500.14299/263908) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695883) | rule-assigned |
+| 2026 | Benchmarking and Experimental Validation of a Real-Time Multi-Robot Hybrid Coverage Algorithm for Known Environments | ICRA · Benchmark | [Paper](https://infoscience.epfl.ch/bitstreams/e0144670-0603-4ca4-863a-54f171bce43a/download) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695883) | rule-assigned |
 | 2026 | Higher Order Reasoning for Collaborative Communicationless Mobile Robot Operations | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2605.21901) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695878) | rule-assigned |
 | 2026 | Learning Visuomotor Policy for Multi-Robot Laser Tag Game | ICRA · Visuomotor | [Paper](https://arxiv.org/pdf/2603.11980) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695888) | rule-assigned |
 | 2025 | PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability | CVPR · Language Model | [Paper](https://arxiv.org/pdf/2503.08481) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.00651) | rule-assigned |
@@ -92,10 +92,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Multi-Robot Unknown Area Exploration Using Frontier Trees | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS47612.2022.9981914) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981914) | rule-assigned |
 | 2022 | PropEM-L: Radio Propagation Environment Modeling and Learning for Communication-Aware Multi-Robot Exploration | RSS · Exploration | [Paper](https://arxiv.org/abs/2205.01267) · [Index](https://dblp.org/rec/journals/corr/abs-2205-01267) | rule-assigned |
 
-## Recent arXiv papers (385)
+## Recent arXiv papers (386)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-28 | SKiD-SLAM: Resource-Aware Distributed Multi-Robot LiDAR SLAM for Planetary Missions with Field Deployments at Analog Sites | Hogyun Kim, Juwon Kim, Dongjin Cho, Jiwon Choi et al. | [Abstract](https://arxiv.org/abs/2610.38141) · [PDF](https://arxiv.org/pdf/2610.38141) | rule-assigned |
+| 2026-10-27 | EARS-Info: Information-Aware Event-Driven Reallocation for Multi-Robot Exploration | Kabeh Mohsenzadegan, Vahid Tavakkoli, Kyandoghere Kyamakya | [Abstract](https://arxiv.org/abs/2610.38040) · [PDF](https://arxiv.org/pdf/2610.38040) | rule-assigned |
 | 2026-10-22 | Dispersive Tree Agreements for Multi-Robot Coordination | Shashank A. Deshpande, Blake T. Edwards, Jonathan P. How | [Abstract](https://arxiv.org/abs/2610.31540) · [PDF](https://arxiv.org/pdf/2610.31540) | rule-assigned |
 | 2026-10-22 | Co^2Gen: Collaboratively Generating Task Plans for Decentralized Multi-Robot and Human Collaboration | Yi Loo, Siddhant Shrivastava, Minh Long Pham, Malika Meghjani | [Abstract](https://arxiv.org/abs/2610.30671) · [PDF](https://arxiv.org/pdf/2610.30671) | rule-assigned |
 | 2026-10-20 | Robot-Task Suitability in Heterogeneous Multi-Robot Task Allocation | Daniel Weiner, Raj Korpan | [Abstract](https://arxiv.org/abs/2610.27504) · [PDF](https://arxiv.org/pdf/2610.27504) | rule-assigned |
@@ -224,7 +226,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-02-04 | KGLAMP: Knowledge Graph-guided Language model for Adaptive Multi-robot Planning and Replanning | Chak Lam Shek, Faizan M. Tariq, Sangjae Bae, David Isele et al. | [Abstract](https://arxiv.org/abs/2602.04129) · [PDF](https://arxiv.org/pdf/2602.04129) | rule-assigned |
 | 2026-01-30 | MOSAIC: Modular Scalable Autonomy for Intelligent Coordination of Heterogeneous Robotic Teams | David Oberacker, Julia Richter, Philip Arm, Marvin Grosse Besselmann et al. | [Abstract](https://arxiv.org/abs/2601.23038) · [PDF](https://arxiv.org/pdf/2601.23038) | rule-assigned |
 | 2026-01-28 | MeCo: Enhancing LLM-Empowered Multi-Robot Collaboration via Similar Task Memoization | Baiqing Wang, Helei Cui, Bo Zhang, Xiaolong Zheng et al. | [Abstract](https://arxiv.org/abs/2601.20577) · [PDF](https://arxiv.org/pdf/2601.20577) | rule-assigned |
-| 2026-01-23 | Adaptive Reinforcement and Model Predictive Control Switching for Safe Human-Robot Cooperative Navigation | Ning Liu, Sen Shen, Zheng Li, Matthew D'Souza et al. | [Abstract](https://arxiv.org/abs/2601.16686) · [PDF](https://arxiv.org/pdf/2601.16686) | rule-assigned |
 | 2026-01-16 | EmboTeam: Grounding LLM Reasoning into Reactive Behavior Trees via PDDL for Embodied Multi-Robot Collaboration | Haishan Zeng, Mengna Wang, Peng Li | [Abstract](https://arxiv.org/abs/2601.11063) · [PDF](https://arxiv.org/pdf/2601.11063) | rule-assigned |
 | 2026-01-15 | CoCoPlan: Adaptive Coordination and Communication for Multi-robot Systems in Dynamic and Unknown Environments | Xintong Zhang, Junfeng Chen, Yuxiao Zhu, Bing Luo et al. | [Abstract](https://arxiv.org/abs/2601.10116) · [PDF](https://arxiv.org/pdf/2601.10116) | rule-assigned |
 | 2026-01-15 | CHORAL: Traversal-Aware Planning for Safe and Efficient Heterogeneous Multi-Robot Routing | David Morilla-Cabello, Eduardo Montijano | [Abstract](https://arxiv.org/abs/2601.10340) · [PDF](https://arxiv.org/pdf/2601.10340) | rule-assigned |

@@ -1,12 +1,12 @@
 # Action-conditioned Video Prediction · 动作条件视频预测
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=World%20%26%20Dynamics%20Modeling&specialty=Action-conditioned%20Video%20Prediction#research-workbench)
 
-> 3 conference papers · 104 recent arXiv papers
+> 3 conference papers · 112 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,18 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | SAMPO:Scale-wise Autoregression with Motion PrOmpt for generative world models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2509.15536) · [Index](https://dblp.org/rec/conf/nips/WangTWLLDXZTH25) | rule-assigned |
 | 2024 | iVideoGPT: Interactive VideoGPTs are Scalable World Models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2405.15223) · [Index](https://dblp.org/rec/journals/corr/abs-2405-15223) | rule-assigned |
 
-## Recent arXiv papers (104)
+## Recent arXiv papers (112)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-27 | World Dreamer v5-lite: A Multi-Robot World Action Model with One Dreamer | Guoning Wu, Zijian Cai, Yuhang Zhang, Ying Liu et al. | [Abstract](https://arxiv.org/abs/2610.37518) · [PDF](https://arxiv.org/pdf/2610.37518) | rule-assigned |
+| 2026-10-27 | TAPESTRY: A Single Backbone for Video Generation and Robot Control | Jeremy A. Collins, Seungjae Lee, Rachanon Wachakorn, Krishnan Srinivasan et al. | [Abstract](https://arxiv.org/abs/2610.36823) · [PDF](https://arxiv.org/pdf/2610.36823) | rule-assigned |
+| 2026-10-27 | How Much Can Best-of-N Help a World Action Model? Measuring Selectable Headroom and Realizing It in Closed Loop | Haojia Gao, Yue Cao, Yumin Liu, Haohua Que et al. | [Abstract](https://arxiv.org/abs/2610.37196) · [PDF](https://arxiv.org/pdf/2610.37196) | rule-assigned |
+| 2026-10-26 | Video World Models Need Predictable Latents | Mattia Scardecchia, Sherry Yang | [Abstract](https://arxiv.org/abs/2610.34663) · [PDF](https://arxiv.org/pdf/2610.34663) | rule-assigned |
+| 2026-10-26 | OSWAM: An Effective World Action Model with One-Step Action Generation | Guowen Zhang, Liyi Chen, Xu Hu, Pengfei Wang et al. | [Abstract](https://arxiv.org/abs/2610.35850) · [PDF](https://arxiv.org/pdf/2610.35850) | rule-assigned |
+| 2026-10-26 | E0.5: From Reconstructive to Future-Predictive 3D Foundations for Robotic World-Action Modeling | X-Era AI Lab Team, :, Jianhao Lai, Zhihao Zhan et al. | [Abstract](https://arxiv.org/abs/2610.36011) · [PDF](https://arxiv.org/pdf/2610.36011) | rule-assigned |
+| 2026-10-25 | What Does World Modeling Actually Improve in Robot Action Learning? | Hanwen Cui, Yuanyuan Li, Qing Guo, Zhida Zhang et al. | [Abstract](https://arxiv.org/abs/2610.34593) · [PDF](https://arxiv.org/pdf/2610.34593) | rule-assigned |
+| 2026-10-25 | AuRA: From Atoms to Bits through Autonomous Robot Interaction | Xinchen Yu, Yoonkyo Jung, Haoran Chen, Zikui Cai et al. | [Abstract](https://arxiv.org/abs/2610.34452) · [PDF](https://arxiv.org/pdf/2610.34452) | rule-assigned |
 | 2026-10-22 | UniFlowWAM: A Unified World-Action Model with Visual Semantics and 4D Geometry | Jialin Tian, Zhuofan Li, Xinkai Wang, Bokai Lin et al. | [Abstract](https://arxiv.org/abs/2610.30991) · [PDF](https://arxiv.org/pdf/2610.30991) | rule-assigned |
 | 2026-10-22 | Skeleton-Grounded Latent Action Model for Robot World Models | Qi Lv, Jiayi Lin, Yuxin Jiang, Jianzong Wang et al. | [Abstract](https://arxiv.org/abs/2610.31474) · [PDF](https://arxiv.org/pdf/2610.31474) | reviewed |
 | 2026-10-21 | Agentic World Action Models | Zhuoyang Liu, Dantong Niu, Botong Zhang, Boning Shao et al. | [Abstract](https://arxiv.org/abs/2610.30136) · [PDF](https://arxiv.org/pdf/2610.30136) | rule-assigned |

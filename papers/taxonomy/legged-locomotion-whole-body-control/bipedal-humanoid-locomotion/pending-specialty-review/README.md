@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Pending%20specialty%20review#research-workbench)
 
-> 162 conference papers · 521 recent arXiv papers
+> 162 conference papers · 526 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -187,10 +187,17 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Torque-Actuated Multimodal Locomotion of Ferrofluid Robot With Environment and Task Adaptability | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9981041) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981041) | needs-review |
 | 2022 | Rapid locomotion via reinforcement learning | RSS · Locomotion | [Paper](https://arxiv.org/pdf/2205.02824) · [Publisher](https://doi.org/10.1177/02783649231224053) | needs-review |
 
-## Recent arXiv papers (521)
+## Recent arXiv papers (526)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | A Two-Wheeled Quadrotor with All-Clockwise Tilted Rotors for Level-Attitude Surface Locomotnion | Takumi Ito, Satoshi Nakano | [Abstract](https://arxiv.org/abs/2610.40502) · [PDF](https://arxiv.org/pdf/2610.40502) | needs-review |
+| 2026-10-28 | Compositional Diffusion Planning with Chunk Selection and Reachability Measure | Chanyoung Park, Youngjoong Kim, Jaesik Park | [Abstract](https://arxiv.org/abs/2610.38291) · [PDF](https://arxiv.org/pdf/2610.38291) | needs-review |
+| 2026-10-27 | Tokens of Motion: Primitive Motion Learning for Human-Humanoid Skill Transfer | Hanwen Ren, Meng Zheng, Wenzhe Cui, Benjamin Planche et al. | [Abstract](https://arxiv.org/abs/2610.37330) · [PDF](https://arxiv.org/pdf/2610.37330) | needs-review |
+| 2026-10-27 | Remember Where You Walk: Learning Spatial Memory for End-to-End Legged Robot Exploration | Leon Magnus, Nico Bohlinger, Jan Peters, Oleg Arenz | [Abstract](https://arxiv.org/abs/2610.37203) · [PDF](https://arxiv.org/pdf/2610.37203) | needs-review |
+| 2026-10-27 | A fully articulated humanoid dexterous hand with human-level joint structure enabled by linkage-based actuation | Jihao Li, Jianguo Wang, Haotian Guo, Yanzhe Wang et al. | [Abstract](https://arxiv.org/abs/2610.36789) · [PDF](https://arxiv.org/pdf/2610.36789) | needs-review |
+| 2026-10-23 | Active Reachability Learning for Humanoid Recoverability Monitoring | Zeyuan Feng, Baljeet Singh, Sarthak Ranjeet Kaingade, Somil Bansal et al. | [Abstract](https://arxiv.org/abs/2610.33317) · [PDF](https://arxiv.org/pdf/2610.33317) | needs-review |
+| 2026-10-22 | Not an Accident: Exploiting Safety Filter Inadequacy in Humanoid Robots | Tiffany Bao, Shangtao Li, Yifan Sun, Mengwen He et al. | [Abstract](https://arxiv.org/abs/2610.31923) · [PDF](https://arxiv.org/pdf/2610.31923) | needs-review |
 | 2026-10-22 | Humanoid Mobility via Attention-based Contacts | Junzhe He, Kehan Wen, Chong Zhang, Clemens Schwarke et al. | [Abstract](https://arxiv.org/abs/2610.31608) · [PDF](https://arxiv.org/pdf/2610.31608) | needs-review |
 | 2026-10-21 | PHD-Hand: A Printable Humanoid Dexterous Hand with Linkage-Driven 3-DOA Digits | Neel Adwani, Muhaiminul Islam Akash, Saffia Ouali, Ethan Liu et al. | [Abstract](https://arxiv.org/abs/2610.29030) · [PDF](https://arxiv.org/pdf/2610.29030) | needs-review |
 | 2026-10-21 | MPBRS: Multi-Potential-Based Reward Shaping for Unified Reward Configuration in Humanoid Locomotion | Van Chung Nguyen, Hung Manh La | [Abstract](https://arxiv.org/abs/2610.30334) · [PDF](https://arxiv.org/pdf/2610.30334) | needs-review |
@@ -710,8 +717,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-06 | The European Moon Rover System: a modular multipurpose rover for future complex lunar missions | Cristina Luna, Manuel Esquer, Jorge Barrientos-Díez, Alba Guerra et al. | [Abstract](https://arxiv.org/abs/2311.03136) · [PDF](https://arxiv.org/pdf/2311.03136) | needs-review |
 | 2023-11-03 | A Graph-to-Text Approach to Knowledge-Grounded Response Generation in Human-Robot Interaction | Nicholas Thomas Walker, Stefan Ultes, Pierre Lison | [Abstract](https://arxiv.org/abs/2311.16137) · [PDF](https://arxiv.org/pdf/2311.16137) | needs-review |
 | 2023-11-01 | Mechanically-Inflatable Bio-Inspired Locomotion for Robotic Pipeline Inspection | Mostafa A. Atalla, Fabian Trauzettel, Sebastiaan P. van Gelder, Paul Breedveld et al. | [Abstract](https://arxiv.org/abs/2311.00232) · [PDF](https://arxiv.org/pdf/2311.00232) | needs-review |
-| 2023-10-25 | Toward the use of proxies for efficient learning manipulation and locomotion strategies on soft robots | Etienne Ménager, Quentin Peyron, Christian Duriez | [Abstract](https://arxiv.org/abs/2310.17029) · [PDF](https://arxiv.org/pdf/2310.17029) | needs-review |
-| 2023-10-25 | Aplicacion de Robots Humanoides como Guias Interactivos en Museos: Una Simulacion con el Robot NAO | Hiago Sodre, Pablo Moraes, Monica Rodriguez, Victor Castelli et al. | [Abstract](https://arxiv.org/abs/2310.17060) · [PDF](https://arxiv.org/pdf/2310.17060) | needs-review |
 
 ---
 

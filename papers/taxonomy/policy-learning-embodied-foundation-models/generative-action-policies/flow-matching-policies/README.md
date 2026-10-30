@@ -1,12 +1,12 @@
 # Flow-matching Policies · Flow Matching 策略
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generative%20Action%20Policies&specialty=Flow-matching%20Policies#research-workbench)
 
-> 3 conference papers · 128 recent arXiv papers
+> 3 conference papers · 131 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2510.02738) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697008) | rule-assigned |
 | 2026 | Shifted Flow Policy: Uncertainty-aware Time Reparameterization for Visuomotor Learning | ICRA · Visuomotor | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696791) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696791) | rule-assigned |
 
-## Recent arXiv papers (128)
+## Recent arXiv papers (131)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | Learning Safe Flow Matching Robot Policies from Binary Feasibility Oracles | Jianming Ma, Rongjun Jin, Yizhi Chen, Yue Gao | [Abstract](https://arxiv.org/abs/2610.40075) · [PDF](https://arxiv.org/pdf/2610.40075) | rule-assigned |
+| 2026-10-29 | Coupled Guidance for Flow Matching | Mateo Clémente, Léo Maxime Brunswic, Rui Heng Yang, Amir Rasouli | [Abstract](https://arxiv.org/abs/2610.40109) · [PDF](https://arxiv.org/pdf/2610.40109) | rule-assigned |
+| 2026-10-23 | Coupling Execution Horizon and Sampling Depth in Flow-Matching VLA Policies | Jiabing Yang, Yuan Xu, Yixiang Chen, Qisen Ma et al. | [Abstract](https://arxiv.org/abs/2610.32102) · [PDF](https://arxiv.org/pdf/2610.32102) | rule-assigned |
 | 2026-10-22 | When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies | Shivakanth Sujit, Luca Nunziante, Rousslan Fernand Julien Dossa, Kai Arulkumaran | [Abstract](https://arxiv.org/abs/2610.30735) · [PDF](https://arxiv.org/pdf/2610.30735) | rule-assigned |
 | 2026-10-16 | TrajEdit: Real-Time Flow-Matching Trajectory Adaptation via FlowEdit and CBF Safety Filter | Wondmgezahu Teshome, Arya Honarpisheh, Octavia Camps, Mario Sznaier | [Abstract](https://arxiv.org/abs/2610.24256) · [PDF](https://arxiv.org/pdf/2610.24256) | rule-assigned |
 | 2026-10-15 | MOSS: Mode-Oriented Source Shaping for Robot Flow Matching Policies | Zirun Ma, Jindou Jia, Tuo An, Jiaqi Bai et al. | [Abstract](https://arxiv.org/abs/2610.22193) · [PDF](https://arxiv.org/pdf/2610.22193) | rule-assigned |
@@ -82,7 +85,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-07-15 | ConFlow: Constraints-Guided Learning with Flow Matching for Motion Generation | Nutan Chen, Jianxiang Feng, Marvin Alles, Botond Cseke | [Abstract](https://arxiv.org/abs/2607.14424) · [PDF](https://arxiv.org/pdf/2607.14424) | rule-assigned |
 | 2026-07-11 | Source-Lifted Flow Matching for Intervenable Multimodal Imitation | He Zhang, Ying Sun, Ziyang Chen, Qicheng Luo et al. | [Abstract](https://arxiv.org/abs/2607.10206) · [PDF](https://arxiv.org/pdf/2607.10206) | rule-assigned |
 | 2026-07-10 | Implicit Behavior Coordination from Sub-Task Demonstrations by Exploiting Overlap-Induced Multimodality | Ahmed Shokry, Usama Ahmed Siddiquie, Sicong Pan, Maren Bennewitz | [Abstract](https://arxiv.org/abs/2607.09234) · [PDF](https://arxiv.org/pdf/2607.09234) | rule-assigned |
-| 2026-07-08 | Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation | Seulbin Hwang, Kiyoung Om, Daejung Kim, Jinhan Lee | [Abstract](https://arxiv.org/abs/2607.06957) · [PDF](https://arxiv.org/pdf/2607.06957) | rule-assigned |
+| 2026-07-08 | Flow-ERD: Agent-type Aware Flow Matching With Entropy-Regularized Distillation for Diverse Traffic Simulation | Seulbin Hwang, Kiyoung Om, Dae Jung Kim, Jinhan Lee | [Abstract](https://arxiv.org/abs/2607.06957) · [PDF](https://arxiv.org/pdf/2607.06957) | rule-assigned |
 | 2026-07-07 | Optimal Transport Q-Learning for Flow Policy Steering and Acceleration | Andreas Sochopoulos, Esmeralda S. Whitammer, Nikolaos Tsagkas, João Moura et al. | [Abstract](https://arxiv.org/abs/2607.06262) · [PDF](https://arxiv.org/pdf/2607.06262) | rule-assigned |
 | 2026-07-04 | High-Fidelity One-Step Generative Visuomotor Policy via Recursive Correction, Frequency Consistency, and Contrastive Flow Matching | Yuran Chen, Xinye Cai, Zhonglin Gong, Yang Huang | [Abstract](https://arxiv.org/abs/2607.03865) · [PDF](https://arxiv.org/pdf/2607.03865) | rule-assigned |
 | 2026-06-29 | OpenSPM: An Environment-Transferable Robotic Key Spatial Pose Memory and Closed-Loop High-Frequency Flow-Matching Action Generation Model | Iok Tong Lei, Qingchen Xie, Yifan Wang, Yap Ying Jie et al. | [Abstract](https://arxiv.org/abs/2606.29936) · [PDF](https://arxiv.org/pdf/2606.29936) | rule-assigned |

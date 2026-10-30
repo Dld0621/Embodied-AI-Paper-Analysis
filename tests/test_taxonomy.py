@@ -386,18 +386,24 @@ class TaxonomyClassifierTests(unittest.TestCase):
                     self.assertFalse(annotated["taxonomy_evidence"].startswith("reviewed:"))
 
     def test_pending_override_keeps_uncertainty_without_changing_resolved_exceptions(self):
-        pending = []
+        pending = {}
         for entry in OVERRIDES.values():
             with self.subTest(title=entry["title"]):
                 annotated = annotate_paper(paper(entry["title"]))
                 if entry["path"][2] == GENERAL_SPECIALTY:
-                    pending.append(entry["title"])
+                    pending[entry["title"]] = annotated
                     self.assertEqual(annotated["classification_status"], "needs-review")
-                    self.assertIn("lacks a precise physical-HRI specialty", annotated["taxonomy_evidence"])
+                    self.assertEqual(tuple(annotated[k] for k in ("track", "subcategory", "specialty")),
+                                     tuple(entry["path"]))
+                    self.assertEqual(annotated, annotate_paper(deepcopy(annotated)))
                 else:
                     self.assertEqual(annotated["classification_status"], "reviewed")
-        self.assertEqual(pending, [UPDATED_SOURCE_REVIEW_CASES[
-            "https://doi.org/10.1109/ICRA57385.2026.11696443"][0]])
+        handshake = UPDATED_SOURCE_REVIEW_CASES[
+            "https://doi.org/10.1109/ICRA57385.2026.11696443"][0]
+        utility = "Utility-WAM: Correcting Future-Induced Action Changes"
+        self.assertEqual(set(pending), {handshake, utility})
+        self.assertIn("lacks a precise physical-HRI specialty", pending[handshake]["taxonomy_evidence"])
+        self.assertIn("schema lacks an exact specialty", pending[utility]["taxonomy_evidence"])
 
     def test_updated_whole_body_transfer_and_grasp_generation_are_not_hand_retargeting(self):
         share = annotate_paper(paper(UPDATED_SOURCE_REVIEW_CASES["https://arxiv.org/abs/2601.07284"][0]))

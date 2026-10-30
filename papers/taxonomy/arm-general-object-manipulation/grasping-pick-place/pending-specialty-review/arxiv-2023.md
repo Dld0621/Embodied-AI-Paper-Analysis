@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题 · arXiv 2023
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 57 papers · complete list for this taxonomy leaf
+> 53 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -63,7 +63,3 @@
 | 2023-10-31 | Meta Learning for Multi-View Visuomotor Systems | Benji Alwis | [Abstract](https://arxiv.org/abs/2310.20414) · [PDF](https://arxiv.org/pdf/2310.20414) | needs-review |
 | 2023-10-31 | Combining Shape Completion and Grasp Prediction for Fast and Versatile Grasping with a Multi-Fingered Hand | Matthias Humt, Dominik Winkelbauer, Ulrich Hillenbrand, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2310.20350) · [PDF](https://arxiv.org/pdf/2310.20350) | needs-review |
 | 2023-10-30 | Knolling bot 2.0: Enhancing Object Organization with Self-supervised Graspability Estimation | Yuhang Hu, Zhizhuo Zhang, Hod Lipson | [Abstract](https://arxiv.org/abs/2310.19226) · [PDF](https://arxiv.org/pdf/2310.19226) | needs-review |
-| 2023-10-28 | Enhancing Grasping Performance of Novel Objects through an Improved Fine-Tuning Process | Xiao Hu, Xiangsheng Chen | [Abstract](https://arxiv.org/abs/2310.18569) · [PDF](https://arxiv.org/pdf/2310.18569) | needs-review |
-| 2023-10-26 | Learning Extrinsic Dexterity with Parameterized Manipulation Primitives | Shih-Min Yang, Martin Magnusson, Johannes A. Stork, Todor Stoyanov | [Abstract](https://arxiv.org/abs/2310.17785) · [PDF](https://arxiv.org/pdf/2310.17785) | needs-review |
-| 2023-10-26 | 6-DoF Stability Field via Diffusion Models | Takuma Yoneda, Tianchong Jiang, Gregory Shakhnarovich, Matthew R. Walter | [Abstract](https://arxiv.org/abs/2310.17649) · [PDF](https://arxiv.org/pdf/2310.17649) | needs-review |
-| 2023-10-24 | Grasp Multiple Objects with One Hand | Yuyang Li, Bo Liu, Yiran Geng, Puhao Li et al. | [Abstract](https://arxiv.org/abs/2310.15599) · [PDF](https://arxiv.org/pdf/2310.15599) | needs-review |

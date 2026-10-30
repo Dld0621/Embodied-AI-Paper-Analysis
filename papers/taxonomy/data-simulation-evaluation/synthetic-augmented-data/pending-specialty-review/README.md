@@ -1,7 +1,7 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Synthetic%20%26%20Augmented%20Data&specialty=Pending%20specialty%20review#research-workbench)
@@ -34,6 +34,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-24 | RoboReason: Boosting Robotics-Relevant VLM Reasoning Through Scalable Data Generation | Sagnik Anupam, Utkarsh Lal, Aneesh Edara, Botong Zhang et al. | [Abstract](https://arxiv.org/abs/2610.33778) · [PDF](https://arxiv.org/pdf/2610.33778) | needs-review |
 | 2026-10-13 | OneDemo: Unified Policy Learning and Data Generation from a Single Demonstration | Ying Qian, Jianshu Hu, Han Fang, Shuguang Li et al. | [Abstract](https://arxiv.org/abs/2610.18188) · [PDF](https://arxiv.org/pdf/2610.18188) | needs-review |
 | 2026-09-28 | SkillWeaver: Agentic Exploration over Neural Interaction Skills for Scalable Robot Data Generation | He Zhu, Lusen Zhao, Kwan Man Cheng, Su Li et al. | [Abstract](https://arxiv.org/abs/2609.36171) · [PDF](https://arxiv.org/pdf/2609.36171) | needs-review |
 | 2026-09-22 | MotionForge: A Data Generation Pipeline and Large-Scale Benchmark for Long-Horizon Manipulation of Dynamic Objects with Domain Shifts | Mohan Liu, Dengchen Mei, Haotian Xian, Ruyang Han et al. | [Abstract](https://arxiv.org/abs/2609.25689) · [PDF](https://arxiv.org/pdf/2609.25689) | needs-review |
@@ -71,7 +72,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-10-16 | Configurable Embodied Data Generation for Class-Agnostic RGB-D Video Segmentation | Anthony Opipari, Aravindhan K Krishnan, Shreekant Gayaka, Min Sun et al. | [Abstract](https://arxiv.org/abs/2410.12995) · [PDF](https://arxiv.org/pdf/2410.12995) | needs-review |
 | 2024-10-04 | GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs | Pu Hua, Minghuan Liu, Annabella Macaluso, Yunfeng Lin et al. | [Abstract](https://arxiv.org/abs/2410.03645) · [PDF](https://arxiv.org/pdf/2410.03645) | needs-review |
 | 2024-05-02 | IntervenGen: Interventional Data Generation for Robust and Data-Efficient Robot Imitation Learning | Ryan Hoque, Ajay Mandlekar, Caelan Garrett, Ken Goldberg et al. | [Abstract](https://arxiv.org/abs/2405.01472) · [PDF](https://arxiv.org/pdf/2405.01472) | needs-review |
-| 2023-10-26 | MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations | Ajay Mandlekar, Soroush Nasiriany, Bowen Wen, Iretiayo Akinola et al. | [Abstract](https://arxiv.org/abs/2310.17596) · [PDF](https://arxiv.org/pdf/2310.17596) | needs-review |
 
 ---
 

@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-24** · 顶会快照 / Conference: **2026-10-24** · arXiv 快照: **2026-10-24** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Imitation%20Learning&specialty=Pending%20specialty%20review#research-workbench)
 
-> 64 conference papers · 497 recent arXiv papers
+> 64 conference papers · 503 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -89,10 +89,17 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning and Retrieval from Prior Data for Skill-based Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/pdf/2210.11435) · [Index](https://dblp.org/rec/journals/corr/abs-2210-11435) | needs-review |
 | 2022 | Divide & Conquer Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2204.07404) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982020) | needs-review |
 
-## Recent arXiv papers (497)
+## Recent arXiv papers (503)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-29 | Smooth Action Chunking Via Movement-Primitive Representations for Imitation Learning | Shota Nomura, Takayuki Osa, Yasuhiro Kato, Kazuki Ota et al. | [Abstract](https://arxiv.org/abs/2610.39451) · [PDF](https://arxiv.org/pdf/2610.39451) | needs-review |
+| 2026-10-29 | PASA-KV: Attacking Action-Facing Visual Routes in World Action Models | Zhongbo Wu, Jiakai Huang, Zheng Zhang, Siyu Xu et al. | [Abstract](https://arxiv.org/abs/2610.39816) · [PDF](https://arxiv.org/pdf/2610.39816) | needs-review |
+| 2026-10-26 | From Language to Drives: A Multimodal Framework for Aligning Autonomous Robots with Human Purposes | Diana Cerdas-Vargas, Alejandro Romero, Richard J. Duro | [Abstract](https://arxiv.org/abs/2610.35629) · [PDF](https://arxiv.org/pdf/2610.35629) | needs-review |
+| 2026-10-26 | Context-Aware Generation and Modulation of Expressive Motion Behavior using Multimodal Foundation Models | Till Hielscher, Fabio Scaparro, Kai O. Arras | [Abstract](https://arxiv.org/abs/2610.35615) · [PDF](https://arxiv.org/pdf/2610.35615) | needs-review |
+| 2026-10-25 | Execution Logs Sway VLM Judges of Robot Progress | Weiyan Zhao, Sunny Yang | [Abstract](https://arxiv.org/abs/2610.34151) · [PDF](https://arxiv.org/pdf/2610.34151) | needs-review |
+| 2026-10-24 | Open-World Law-to-Action: Vision-Language Priors and Touch for Parts with Hidden Physics | Mohamed A. Mabrok | [Abstract](https://arxiv.org/abs/2610.33705) · [PDF](https://arxiv.org/pdf/2610.33705) | needs-review |
+| 2026-10-22 | SAGE: A hybrid vision-language and geometry framework for work-zone pathway prediction under temporary traffic control | Jiaxi Liu, Keshu Wu, Weizhe Tang, Bofeng Cao et al. | [Abstract](https://arxiv.org/abs/2610.31835) · [PDF](https://arxiv.org/pdf/2610.31835) | needs-review |
 | 2026-10-21 | Relational Geometry Forcing for World Action Models | Yuan Xu, Yixiang Chen, Qisen Ma, Jiabing Yang et al. | [Abstract](https://arxiv.org/abs/2610.29282) · [PDF](https://arxiv.org/pdf/2610.29282) | needs-review |
 | 2026-10-20 | When Does Experience Memory Help Closed-Loop LLM Driving Agents? A Controlled Evaluation with Resampled Warmup Pools, Token-Matched Fillers, and Audited Baselines | Yingxin Jia, Xuanyi Li | [Abstract](https://arxiv.org/abs/2610.27714) · [PDF](https://arxiv.org/pdf/2610.27714) | needs-review |
 | 2026-10-20 | Give the Model a Finger: Developmentally Aligned Evaluation of Counting in Vision-Language Models | Yingxin Jia, Hui Geng, Wenxin Yang, Mohan Zhang | [Abstract](https://arxiv.org/abs/2610.27756) · [PDF](https://arxiv.org/pdf/2610.27756) | needs-review |
@@ -589,7 +596,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-02 | ProAgent: From Robotic Process Automation to Agentic Process Automation | Yining Ye, Xin Cong, Shizuo Tian, Jiannan Cao et al. | [Abstract](https://arxiv.org/abs/2311.10751) · [PDF](https://arxiv.org/pdf/2311.10751) | needs-review |
 | 2023-10-31 | Towards A Natural Language Interface for Flexible Multi-Agent Task Assignment | Jake Brawer, Kayleigh Bishop, Bradley Hayes, Alessandro Roncone | [Abstract](https://arxiv.org/abs/2311.00153) · [PDF](https://arxiv.org/pdf/2311.00153) | needs-review |
 | 2023-10-30 | RayDF: Neural Ray-surface Distance Fields with Multi-view Consistency | Zhuoman Liu, Bo Yang, Yan Luximon, Ajay Kumar et al. | [Abstract](https://arxiv.org/abs/2310.19629) · [PDF](https://arxiv.org/pdf/2310.19629) | needs-review |
-| 2023-10-26 | Dialogue-based generation of self-driving simulation scenarios using Large Language Models | Antonio Valerio Miceli-Barone, Alex Lascarides, Craig Innes | [Abstract](https://arxiv.org/abs/2310.17372) · [PDF](https://arxiv.org/pdf/2310.17372) | needs-review |
 
 ---
 
