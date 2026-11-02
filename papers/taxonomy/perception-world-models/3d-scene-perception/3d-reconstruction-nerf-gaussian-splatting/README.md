@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=3D%20Reconstruction%2C%20NeRF%20%26%20Gaussian%20Splatting#research-workbench)
 
-> 4 conference papers · 110 recent arXiv papers
+> 4 conference papers · 113 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,10 +23,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | OpenOcc: Open Vocabulary 3D Scene Reconstruction via Occupancy Representation | IROS · 3D Scene | [Paper](https://arxiv.org/pdf/2403.11796) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801860) |
 | 2022 | Touching a NeRF: Leveraging Neural Radiance Fields for Tactile Sensory Data Generation | CoRL · Tactile | [Paper](https://www.semanticscholar.org/paper/52ad7e7133b19adf85e49478fe17229fc893cd8f) · [Index](https://dblp.org/rec/conf/corl/ZhongAJMP22) |
 
-## Recent arXiv papers (110)
+## Recent arXiv papers (113)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-20 | SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images | Rundong Luo, Yunong Liu, Di Cao, Matthew Tancik et al. | [Abstract](https://arxiv.org/abs/2610.28585) · [PDF](https://arxiv.org/pdf/2610.28585) |
+| 2026-10-20 | PanoGraphGS: Unifying Panoptic Segmentation and Hierarchical 3D Scene Graphs with Gaussian Splatting | Jinghan Gao, Siyu Wang, Dongyu Feng, Yiyuan Pan et al. | [Abstract](https://arxiv.org/abs/2610.27696) · [PDF](https://arxiv.org/pdf/2610.27696) |
 | 2026-10-06 | OpenSplatGraph: From Dense Semantic Maps to Structured Scene Graphs for Open-Vocabulary Robot Perception | Binh Long Nguyen, Kien Nguyen, Clinton Fookes, Peyman Moghadam | [Abstract](https://arxiv.org/abs/2610.07569) · [PDF](https://arxiv.org/pdf/2610.07569) |
 | 2026-10-01 | LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction | Zhening Huang, Yueyan Li, Johnathan Chiu, Xiaoyang Lyu et al. | [Abstract](https://arxiv.org/abs/2610.01863) · [PDF](https://arxiv.org/pdf/2610.01863) |
 | 2026-09-30 | Measuring Asset and Scene Reconstruction Effects in Real-to-Sim Robot Evaluation | Sanya Verma, Luca Cilio, Velissarios Christodoulou, Tyler Fermelis et al. | [Abstract](https://arxiv.org/abs/2610.00731) · [PDF](https://arxiv.org/pdf/2610.00731) |
@@ -54,6 +56,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-04-29 | Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations | Andrii Zadaianchuk, Leonardo Barcellona, Lennard Schuenemann, Christian Gumbsch et al. | [Abstract](https://arxiv.org/abs/2604.27106) · [PDF](https://arxiv.org/pdf/2604.27106) |
 | 2026-04-10 | Genie 4D: Semantic-Prior-Guided 4D Dynamic Scene Reconstruction | Yiru Yang, Zhuojie Wu, Nishant Kumar Singh, Max Schulthess | [Abstract](https://arxiv.org/abs/2604.09877) · [PDF](https://arxiv.org/pdf/2604.09877) |
 | 2026-04-02 | F3DGS: Federated 3D Gaussian Splatting for Decentralized Multi-Agent World Modeling | Morui Zhu, Mohammad Dehghani Tezerjani, Mátyás Szántó, Márton Vaitkus et al. | [Abstract](https://arxiv.org/abs/2604.01605) · [PDF](https://arxiv.org/pdf/2604.01605) |
+| 2026-03-27 | RigidDriveGS: Object-Centric Vehicle Reconstruction from Fixed Multi-Camera Drive-Through Captures | Nitin Kulkarni, Akhil Devarashetti, Charlie Cluss, Livio Forte et al. | [Abstract](https://arxiv.org/abs/2603.26638) · [PDF](https://arxiv.org/pdf/2603.26638) |
 | 2026-03-22 | HyReach: Vision-Guided Hybrid Manipulator Reaching in Unseen Cluttered Environments | Shivani Kamtikar, Kendall Koe, Justin Wasserman, Samhita Marri et al. | [Abstract](https://arxiv.org/abs/2603.21421) · [PDF](https://arxiv.org/pdf/2603.21421) |
 | 2026-03-17 | MessyKitchens: Contact-rich object-level 3D scene reconstruction | Junaid Ahmed Ansari, Ran Ding, Fabio Pizzati, Ivan Laptev | [Abstract](https://arxiv.org/abs/2603.16868) · [PDF](https://arxiv.org/pdf/2603.16868) |
 | 2026-03-14 | GelSphere: An Omnidirectional Rolling Vision-Based Tactile Sensor for Online 3D Reconstruction and Normal Force Estimation | Seoyeon Lee, Mohammad Amin Mirzaee, Wenzhen Yuan | [Abstract](https://arxiv.org/abs/2603.14104) · [PDF](https://arxiv.org/pdf/2603.14104) |

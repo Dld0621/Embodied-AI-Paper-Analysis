@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Humanoid%20Whole-body%20Control&specialty=Humanoid%20Teleoperation%20%26%20Interaction#research-workbench)
 
-> 5 conference papers · 38 recent arXiv papers
+> 5 conference papers · 42 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2403.04436) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801984) |
 | 2022 | Human-Humanoid Robot Cooperative Load Transportation: Model-based Control Approach | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9981487) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981487) |
 
-## Recent arXiv papers (38)
+## Recent arXiv papers (42)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-27 | Tokens of Motion: Primitive Motion Learning for Human-Humanoid Skill Transfer | Hanwen Ren, Meng Zheng, Wenzhe Cui, Benjamin Planche et al. | [Abstract](https://arxiv.org/abs/2610.37330) · [PDF](https://arxiv.org/pdf/2610.37330) |
+| 2026-10-27 | HumiMimic: Mimetic Embodiment Transfer of Human-Humanoid Interaction from In-the-Wild Videos | Nghia Le, Khang Nguyen, Ba Long Tran, Thi Quynh Nhu Pham et al. | [Abstract](https://arxiv.org/abs/2610.36615) · [PDF](https://arxiv.org/pdf/2610.36615) |
+| 2026-10-21 | HuMiT: Low-Latency Whole-Body Humanoid Teleoperation via Compact Reference Tracking | Liu Cao, Botian Xu, Ruoqu Chen, Jiajun Liu et al. | [Abstract](https://arxiv.org/abs/2610.29903) · [PDF](https://arxiv.org/pdf/2610.29903) |
+| 2026-10-19 | OmniInteract: Towards Unified Whole-Body Interaction Control for Dual Humanoids | Yinghao Li, Tianyu Zhang, Zhuohao Li, Yi-Lin Wei et al. | [Abstract](https://arxiv.org/abs/2610.26043) · [PDF](https://arxiv.org/pdf/2610.26043) |
 | 2026-10-15 | Inertially Significant Humanoid Teleoperation via Whole Body Model Predictive Control and Online Parameter Estimation | James Foster, Beomyeong Park, Luigi Penco, Robert Griffin | [Abstract](https://arxiv.org/abs/2610.22176) · [PDF](https://arxiv.org/pdf/2610.22176) |
 | 2026-10-06 | iGPC: Generative Motion Priors for Object-Aware Humanoid Interaction | Anujith Muraleedharan, Abdul Ahad Butt, Nolan Fey, Yash Prabhu et al. | [Abstract](https://arxiv.org/abs/2610.08120) · [PDF](https://arxiv.org/pdf/2610.08120) |
 | 2026-10-06 | Beyond Retargeting: Low-Latency and Robust Humanoid Whole-Body Teleoperation with Learned Atomic Motion Primitives | Xiayan Xu, Jiyu Yu, Xingzhou Chen, Siyi Qian et al. | [Abstract](https://arxiv.org/abs/2610.07891) · [PDF](https://arxiv.org/pdf/2610.07891) |
@@ -49,7 +53,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-10 | ZeroWBC: Learning Natural Whole-Body Humanoid Interaction from Human Egocentric Data | Haoran Yang, Jiacheng Bao, Yucheng Xin, Haoming Song et al. | [Abstract](https://arxiv.org/abs/2603.09170) · [PDF](https://arxiv.org/pdf/2603.09170) |
 | 2026-03-04 | Cognition to Control - Multi-Agent Learning for Human-Humanoid Collaborative Transport | Hao Zhang, Yisen Li, Ruize Geng, Yves Tseng et al. | [Abstract](https://arxiv.org/abs/2603.03768) · [PDF](https://arxiv.org/pdf/2603.03768) |
 | 2026-02-25 | LessMimic: Long-Horizon Humanoid Interaction with Unified Distance Field Representations | Yutang Lin, Jieming Cui, Yixuan Li, Baoxiong Jia et al. | [Abstract](https://arxiv.org/abs/2602.21723) · [PDF](https://arxiv.org/pdf/2602.21723) |
-| 2026-02-11 | ExtremControl: Low-Latency Humanoid Teleoperation with Direct Extremity Control | Ziyan Xiong, Lixing Fang, Junyun Huang, Kashu Yamazaki et al. | [Abstract](https://arxiv.org/abs/2602.11321) · [PDF](https://arxiv.org/pdf/2602.11321) |
+| 2026-02-11 | ExtremControl: Low-Latency Humanoid Teleoperation with Scaled Velocity Feedforward | Ziyan Xiong, Lixing Fang, Junyun Huang, Kashu Yamazaki et al. | [Abstract](https://arxiv.org/abs/2602.11321) · [PDF](https://arxiv.org/pdf/2602.11321) |
 | 2026-02-10 | TeleGate: Whole-Body Humanoid Teleoperation via Gated Expert Selection with Motion Prior | Jie Li, Bing Tang, Feng Wu | [Abstract](https://arxiv.org/abs/2602.09628) · [PDF](https://arxiv.org/pdf/2602.09628) |
 | 2026-02-10 | Humanoid Factors: Design Principles for AI Humanoids in Human Worlds | Xinyuan Liu, Eren Sadikoglu, Ransalu Senanayake, Lixiao Huang | [Abstract](https://arxiv.org/abs/2602.10069) · [PDF](https://arxiv.org/pdf/2602.10069) |
 | 2026-02-02 | HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos | Yinhuai Wang, Qihan Zhao, Yuen Fui Lau, Runyi Yu et al. | [Abstract](https://arxiv.org/abs/2602.02473) · [PDF](https://arxiv.org/pdf/2602.02473) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engines&specialty=Synthetic%20Data%20Generation#research-workbench)
 
-> 7 conference papers · 127 recent arXiv papers
+> 7 conference papers · 128 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,12 +24,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | SynthAct: Towards Generalizable Human Action Recognition based on Synthetic Data | ICRA · Synthetic Data | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611486) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611486) |
 | 2023 | MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations | CoRL · Demonstration generation | [Paper](https://arxiv.org/abs/2310.17596) · [Official](https://proceedings.mlr.press/v229/) · [Code](https://github.com/NVlabs/mimicgen) |
 | 2023 | MIMIR-UW: A Multipurpose Synthetic Dataset for Underwater Navigation and Inspection | IROS · Synthetic Data | [Paper](https://doi.org/10.1109/IROS55552.2023.10341436) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341436) |
-| 2022 | ParaPose: Parameter and Domain Randomization Optimization for Pose Estimation using Synthetic Data | IROS · Synthetic Data | [Paper](https://arxiv.org/abs/2203.00945) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981511) |
+| 2022 | ParaPose: Parameter and Domain Randomization Optimization for Pose Estimation using Synthetic Data | IROS · Synthetic Data | [Paper](https://findresearcher.sdu.dk/ws/files/220065804/parapose.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981511) |
 
-## Recent arXiv papers (127)
+## Recent arXiv papers (128)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-22 | Learning Robot Behavior Priors from Non-Robotic Synthetic Data | Mateusz Odrowaz-Sypniewski, Michael Amir, Jasmine Bayrooti, Ajay Shankar et al. | [Abstract](https://arxiv.org/abs/2610.31275) · [PDF](https://arxiv.org/pdf/2610.31275) |
 | 2026-10-14 | NavAble: A Large-Scale Dataset and Synthetic Data Generation Pipeline for Blind Navigation | Hochul Hwang, Jahir Sadik Monon, Soowan Yang, Shiven Umeshbhai Patel et al. | [Abstract](https://arxiv.org/abs/2610.19330) · [PDF](https://arxiv.org/pdf/2610.19330) |
 | 2026-10-13 | OneDemo: Unified Policy Learning and Data Generation from a Single Demonstration | Ying Qian, Jianshu Hu, Han Fang, Shuguang Li et al. | [Abstract](https://arxiv.org/abs/2610.18188) · [PDF](https://arxiv.org/pdf/2610.18188) |
 | 2026-10-10 | TartanMatch: Towards Universal Dense Correspondence Across Modalities | Hyeokjoon Kwon, Jiting Cai, Ruogu Li, Kritan Bhandari et al. | [Abstract](https://arxiv.org/abs/2610.14513) · [PDF](https://arxiv.org/pdf/2610.14513) |
@@ -37,6 +38,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-10-07 | ECHO: Embodied Camera Observations of Human Object Carrying | Xuefei Sun, Lorin Achey, Kali Hamilton, Alberto Speranzon et al. | [Abstract](https://arxiv.org/abs/2610.10438) · [PDF](https://arxiv.org/pdf/2610.10438) |
 | 2026-09-30 | Identifiable Decomposition of Submovements in Human Hand Trajectories | Adrian Prados, James Hermus, Ramon Barber, Sylvain Calinon | [Abstract](https://arxiv.org/abs/2609.40012) · [PDF](https://arxiv.org/pdf/2609.40012) |
 | 2026-09-28 | SkillWeaver: Agentic Exploration over Neural Interaction Skills for Scalable Robot Data Generation | He Zhu, Lusen Zhao, Kwan Man Cheng, Su Li et al. | [Abstract](https://arxiv.org/abs/2609.36171) · [PDF](https://arxiv.org/pdf/2609.36171) |
+| 2026-09-28 | MicroSplat: Towards Automating 3D Small-Scale Reconstruction | Roman Mineyev, Robert Azarcon, Suvrat Jain, Chuizheng Kong et al. | [Abstract](https://arxiv.org/abs/2610.23899) · [PDF](https://arxiv.org/pdf/2610.23899) |
 | 2026-09-25 | NavGen: Visual Generative Models as a Scalable Data Engine for Embodied 3D Navigation | Xijie Huang, Yongyang Wan, Chengbin Dong, Zimo Ding et al. | [Abstract](https://arxiv.org/abs/2609.30770) · [PDF](https://arxiv.org/pdf/2609.30770) |
 | 2026-09-24 | MorphIK: Morphology-Conditioned Neural Inverse Kinematics for Unknown Robots | Lennart Clasmeier, Jan Gerrit Habekost, Cornelius Weber, Stefan Wermter | [Abstract](https://arxiv.org/abs/2609.29908) · [PDF](https://arxiv.org/pdf/2609.29908) |
 | 2026-09-21 | ARSTAG: An Agentic Real2Sim2Real System for Task-Specific Robot Data Generation | Bowei Li, Yuner Zhang, Changliu Liu | [Abstract](https://arxiv.org/abs/2609.24563) · [PDF](https://arxiv.org/pdf/2609.24563) |
@@ -156,7 +158,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-04 | Using human and robot synthetic data for training smart hand tools | Jose Bendana, Sundar Sripada V. S., Carlos D. Salazar, Sandeep Chinchali et al. | [Abstract](https://arxiv.org/abs/2312.01550) · [PDF](https://arxiv.org/pdf/2312.01550) |
 | 2023-11-30 | Event-based Visual Inertial Velometer | Xiuyuan Lu, Yi Zhou, Junkai Niu, Sheng Zhong et al. | [Abstract](https://arxiv.org/abs/2311.18189) · [PDF](https://arxiv.org/pdf/2311.18189) |
 | 2023-11-18 | Synthetic Data Generation for Bridging Sim2Real Gap in a Production Environment | Parth Rawal, Mrunal Sompura, Wolfgang Hintze | [Abstract](https://arxiv.org/abs/2311.11039) · [PDF](https://arxiv.org/pdf/2311.11039) |
-| 2023-10-26 | MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations | Ajay Mandlekar, Soroush Nasiriany, Bowen Wen, Iretiayo Akinola et al. | [Abstract](https://arxiv.org/abs/2310.17596) · [PDF](https://arxiv.org/pdf/2310.17596) |
 
 ---
 

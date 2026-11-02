@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Field%2C%20Aerial%20%26%20Marine%20Robotics&specialty=Autonomous%20Driving%20%26%20Ground%20Vehicles#research-workbench)
 
-> 13 conference papers · 140 recent arXiv papers
+> 13 conference papers · 141 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -32,10 +32,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Risk-Aware Off-Road Navigation via a Learned Speed Distribution Map | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.13429) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982200) |
 | 2022 | VI-IKD: High-Speed Accurate Off-Road Navigation using Learned Visual-Inertial Inverse Kinodynamics | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.15983) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982060) |
 
-## Recent arXiv papers (140)
+## Recent arXiv papers (141)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | Mechanistic Interpretability for End-to-End Self-Driving | Manav Gagvani, Benjamin Namikas, Sivamurugan Velmurugan, Nysa Kumar et al. | [Abstract](https://arxiv.org/abs/2610.41185) · [PDF](https://arxiv.org/pdf/2610.41185) |
+| 2026-10-22 | ProTrav: Probabilistic Traversability with Elevation Uncertainty Propagation for Risk-aware Off-road Navigation | Chuanlin Zuo, Miloš Prágr, Arun Kumar Singh, Mohammad Loni et al. | [Abstract](https://arxiv.org/abs/2610.30839) · [PDF](https://arxiv.org/pdf/2610.30839) |
 | 2026-10-06 | Toward Evidence-Driven Human-Agent-Robot Teaming for Earth-Independent Anomaly Triage | Ignacio G Lopez-Francos, Alexis Gallagher, Samira Shalal | [Abstract](https://arxiv.org/abs/2610.08933) · [PDF](https://arxiv.org/pdf/2610.08933) |
 | 2026-10-06 | CUSP: CUSUM-Governed Survival Hazard Alarms at the Perception Onset for Off-Road Navigation | Inuk Kang, Seung-Woo Seo | [Abstract](https://arxiv.org/abs/2610.07882) · [PDF](https://arxiv.org/pdf/2610.07882) |
 | 2026-10-03 | Autoware in Construction: Gap Analysis and LiDAR Perception Toward Off-Road Autonomous Driving | Yu Otsuki, Teja Emmey, Sena Matsushita, Akiro Harada et al. | [Abstract](https://arxiv.org/abs/2610.04187) · [PDF](https://arxiv.org/pdf/2610.04187) |
@@ -175,7 +177,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-05 | Estimation of articulated angle in six-wheeled dump trucks using multiple GNSS receivers for autonomous driving | Taro Suzuki, Kazunori Ohno, Syotaro Kojima, Naoto Miyamoto et al. | [Abstract](https://arxiv.org/abs/2312.02510) · [PDF](https://arxiv.org/pdf/2312.02510) |
 | 2023-11-17 | Imagination-Augmented Hierarchical Reinforcement Learning for Safe and Interactive Autonomous Driving in Urban Environments | Sang-Hyun Lee, Yoonjae Jung, Seung-Woo Seo | [Abstract](https://arxiv.org/abs/2311.10309) · [PDF](https://arxiv.org/pdf/2311.10309) |
 | 2023-11-14 | PPAD: Iterative Interactions of Prediction and Planning for End-to-end Autonomous Driving | Zhili Chen, Maosheng Ye, Shuangjie Xu, Tongyi Cao et al. | [Abstract](https://arxiv.org/abs/2311.08100) · [PDF](https://arxiv.org/pdf/2311.08100) |
-| 2023-11-01 | PIAug -- Physics Informed Augmentation for Learning Vehicle Dynamics for Off-Road Navigation | Parv Maheshwari, Wenshan Wang, Samuel Triest, Matthew Sivaprakasam et al. | [Abstract](https://arxiv.org/abs/2311.00815) · [PDF](https://arxiv.org/pdf/2311.00815) |
 
 ---
 

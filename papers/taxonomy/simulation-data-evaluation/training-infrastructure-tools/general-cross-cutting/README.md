@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Training%20Infrastructure%20%26%20Tools&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 1 conference papers · 47 recent arXiv papers
+> 1 conference papers · 49 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | ORBiT: Optimizing Robot-Assisted Bite Transfer Leveraging a Real2Sim2Real Framework | IROS · Sim2Real | [Paper](https://doi.org/10.1109/IROS60139.2025.11247185) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247185) |
 
-## Recent arXiv papers (47)
+## Recent arXiv papers (49)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-26 | VisGeo-PipeTrack: A Visual Geometric Servo Control Framework with MPC-RCAPID Control for UAV-Based Dynamic Pipes Tracking | Zhenyang Gao, Jianlin Chen, Yang Yu, Honghao Shan et al. | [Abstract](https://arxiv.org/abs/2610.35342) · [PDF](https://arxiv.org/pdf/2610.35342) |
+| 2026-10-20 | Distributed Platoon Control for Safe and Smooth Crossing at an Unsignalized Intersection-Part I: Stability Analysis | Bin-Bin Hu, Shuwei Pei, Saeed Ahmed, Bayu Jayawardhana | [Abstract](https://arxiv.org/abs/2610.28290) · [PDF](https://arxiv.org/pdf/2610.28290) |
 | 2026-09-18 | Latent Policy Steering: An Efficient and Flexible Framework for Cross-Embodiment Transfer | Yiqi Wang, Mrinal Verghese, Jeff Schneider | [Abstract](https://arxiv.org/abs/2609.22521) · [PDF](https://arxiv.org/pdf/2609.22521) |
 | 2026-09-15 | DriveMCP: An Agentic AI framework for Advanced Driver Assistance System | Farzad Nadiri, Mehdi Cina, Ahmad B. Rad | [Abstract](https://arxiv.org/abs/2609.17247) · [PDF](https://arxiv.org/pdf/2609.17247) |
 | 2026-09-07 | Conflict-Predictive Variable Horizons in Multi-Drone Distributed Model Predictive Control | Linda Mümken, Michael Schwung, Stefan Lier, Andreas Schwung | [Abstract](https://arxiv.org/abs/2609.13270) · [PDF](https://arxiv.org/pdf/2609.13270) |

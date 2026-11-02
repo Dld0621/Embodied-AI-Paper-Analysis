@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Contact-rich%20%26%20Deformable%20Manipulation&specialty=Pushing%2C%20Sliding%20%26%20Non-prehensile%20Skills#research-workbench)
 
-> 38 conference papers · 93 recent arXiv papers
+> 38 conference papers · 94 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -57,10 +57,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Data Augmentation for Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2205.02886) · [Publisher](https://doi.org/10.48550/arXiv.2205.02886) |
 | 2022 | Iterative residual policy: For goal-conditioned dynamic manipulation of deformable objects | RSS · Manipulation | [Paper](https://arxiv.org/abs/2203.00663) · [Publisher](https://doi.org/10.1177/02783649231201201) |
 
-## Recent arXiv papers (93)
+## Recent arXiv papers (94)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-22 | Multimodal MPC via Bayesian Set Optimization for Dynamic Manipulation of Deformable Linear Objects | Youyuan Long, Gokhan Solak, Arash Ajoudani | [Abstract](https://arxiv.org/abs/2610.31852) · [PDF](https://arxiv.org/pdf/2610.31852) |
 | 2026-10-16 | Shape-Aware Neural Time Fields for Rigid-Body Motion and Manipulation Planning | Yanming Zhou, Yuchen Liu, Ahmed H. Qureshi | [Abstract](https://arxiv.org/abs/2610.22762) · [PDF](https://arxiv.org/pdf/2610.22762) |
 | 2026-10-14 | Enabling Tidying Tasks in Robotic Vacuum Cleaners via a Geometry-Induced Self-Locking Deployable Linkage | Eunseok Song, Jinwoong Kim, Sohee Lim, Taehyeong Kim et al. | [Abstract](https://arxiv.org/abs/2610.20150) · [PDF](https://arxiv.org/pdf/2610.20150) |
 | 2026-10-13 | ForceWAM: Decoupling Future and Response Learning from Demo and Play Data for Contact-Rich Manipulation | Zijun Xu, Wendi Chen, Xinkai Wang, Jiachen Zou et al. | [Abstract](https://arxiv.org/abs/2610.18852) · [PDF](https://arxiv.org/pdf/2610.18852) |

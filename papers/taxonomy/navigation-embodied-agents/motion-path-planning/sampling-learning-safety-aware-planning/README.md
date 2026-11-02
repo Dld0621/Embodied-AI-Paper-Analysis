@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Motion%20%26%20Path%20Planning&specialty=Sampling%2C%20Learning%20%26%20Safety-aware%20Planning#research-workbench)
 
-> 20 conference papers · 246 recent arXiv papers
+> 20 conference papers · 251 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -39,10 +39,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Learning-Guided Exploration for Efficient Sampling-Based Motion Planning in High Dimensions | ICRA · Exploration | [Paper](https://doi.org/10.1109/icra46639.2022.9812184) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812184) |
 | 2022 | Elevation State-Space: Surfel-Based Navigation in Uneven Environments for Mobile Robots | IROS · Navigation | [Paper](https://arxiv.org/abs/2208.08202) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981647) |
 
-## Recent arXiv papers (246)
+## Recent arXiv papers (251)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | Interaction-Aware Sampling-Based Motion Planning for Autonomous Surface Vessels in Urban Waterways | Elia Trevisan, Alejandro Gonzalez-Garcia, Jan Swevers, Javier Alonso-Mora | [Abstract](https://arxiv.org/abs/2610.41676) · [PDF](https://arxiv.org/pdf/2610.41676) |
+| 2026-10-30 | Capability-Conditioned Graph Control Barrier Functions for Zero-Shot Safe Navigation of Heterogeneous Mobile Robot Teams | Joonkyung Kim, Janghyun Cho, Jeehyun Lee, Changjoo Nam et al. | [Abstract](https://arxiv.org/abs/2610.41214) · [PDF](https://arxiv.org/pdf/2610.41214) |
+| 2026-10-26 | Reward-Guided RRT* for Budgeted Task and Motion Planning | Vinícius Araújo de Oliveira, Gabriel Ferreira Mendes Lourenço, Paulo L. J. Drews-Jr, Armando Alves Neto et al. | [Abstract](https://arxiv.org/abs/2610.35289) · [PDF](https://arxiv.org/pdf/2610.35289) |
+| 2026-10-25 | Extended LASMP: Language Aided Subset Sampling Based Motion Planner for Drone Navigation | Saswati Bhattacharjee, Anirban Sinha, Mukulika Ghosh, Chinwe Ekenna | [Abstract](https://arxiv.org/abs/2610.34054) · [PDF](https://arxiv.org/pdf/2610.34054) |
+| 2026-10-16 | FLASH-CBF-RRT: Fast Lipschitz-Adaptive Safe Horizon CBF Steering for Certified Motion Planning | Mani Amani, Hesam Mojtahedi, Reza Akhavian, Nikolay Atanasov et al. | [Abstract](https://arxiv.org/abs/2610.24149) · [PDF](https://arxiv.org/pdf/2610.24149) |
 | 2026-10-14 | BubbleCBF: Constructive Safety for Second-Order Systems and Application to Autonomous Robot Navigation in Unknown Environments | Mani Amani, Mohammed Alyaseen, Zhirui Dai, Ki Myung Brian Lee et al. | [Abstract](https://arxiv.org/abs/2610.20895) · [PDF](https://arxiv.org/pdf/2610.20895) |
 | 2026-10-13 | Learning Keypoint Constraints from Visual Demonstrations for Safe Motion Planning | Zheng Qiu, Zhouyu Zhang, Ninghan Zhong, Glen Chou | [Abstract](https://arxiv.org/abs/2610.19295) · [PDF](https://arxiv.org/pdf/2610.19295) |
 | 2026-10-10 | Safety-Critical Quadrotor Navigation Using Fourth-Order Control Barrier Functions with Full Nonlinear Quadrotor Dynamics | Yanze Liu, Yaşar İdikut, Dhruv Madhusudan Agrawal, Wei Xiao et al. | [Abstract](https://arxiv.org/abs/2610.14522) · [PDF](https://arxiv.org/pdf/2610.14522) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 113 conference papers · 186 recent arXiv papers
+> 113 conference papers · 192 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -132,10 +132,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Action Conditioned Tactile Prediction: a case study on slip prediction | RSS · Tactile | [Paper](https://arxiv.org/pdf/2205.09430) · [Publisher](https://doi.org/10.48550/arXiv.2205.09430) |
 | 2022 | Understanding Dynamic Tactile Sensing for Liquid Property Estimation | RSS · Tactile | [Paper](https://arxiv.org/pdf/2205.08771) · [Publisher](https://doi.org/10.48550/arXiv.2205.08771) |
 
-## Recent arXiv papers (186)
+## Recent arXiv papers (192)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-26 | High-resolution tactile observation makes hidden racket-control mechanisms learnable | Haoyang Tian, Zhengwei Li, Houcheng Li, Xu Yang et al. | [Abstract](https://arxiv.org/abs/2610.35563) · [PDF](https://arxiv.org/pdf/2610.35563) |
+| 2026-10-22 | GelSlim 5.0: Unifying Vision and Touch with a Single Fingertip Camera | Xiangdong Wang, I-Hsuan Huang, Xiaohao Xu, Xili Yi et al. | [Abstract](https://arxiv.org/abs/2610.31334) · [PDF](https://arxiv.org/pdf/2610.31334) |
+| 2026-10-20 | GPT-6-Astra Understands Touch and Outperform Vision--Tactile--Language--Action Models | Ziyong Wang, Yupei Lin, Runxuan Huang, Liang Lin et al. | [Abstract](https://arxiv.org/abs/2610.28457) · [PDF](https://arxiv.org/pdf/2610.28457) |
+| 2026-10-19 | Robotic Physical Comparison of Biologically Motivated and Counterfactual Sensory Arrangements using Biomimetic Skin | Akihiro Miki, Shun Hasegawa, Yoshimoto Ribayashi, Yuta Sahara et al. | [Abstract](https://arxiv.org/abs/2610.26680) · [PDF](https://arxiv.org/pdf/2610.26680) |
+| 2026-10-19 | PhantomTac: Hijacking Robotic Tactile Systems with Deploy-and-forget Tags | Binbin Zhang, Yifeng Zhang, Xiaomeng Chen, Dongyao Chen | [Abstract](https://arxiv.org/abs/2610.26174) · [PDF](https://arxiv.org/pdf/2610.26174) |
+| 2026-10-16 | ACTS: Learning Visuo-Tactile World Models from Human Physical Interaction | Yuxiang Ma, Weihan Xu, Pengfei Ye, Anna Mei et al. | [Abstract](https://arxiv.org/abs/2610.24285) · [PDF](https://arxiv.org/pdf/2610.24285) |
 | 2026-10-12 | FEM-Validated Real-Time Modelling of Soft Tactile Deformation | Silvia Terrile, Kaichen Shi, Taejun Kwon, Jiseok Lee et al. | [Abstract](https://arxiv.org/abs/2610.16667) · [PDF](https://arxiv.org/pdf/2610.16667) |
 | 2026-10-04 | TacGELLO: Tactile Contact Feedback for a 3D-Printed Teleoperation Leader | Younsoo Kim, Sangmin Song, Sarath Kodagoda, Marc Carmichael et al. | [Abstract](https://arxiv.org/abs/2610.05583) · [PDF](https://arxiv.org/pdf/2610.05583) |
 | 2026-10-03 | DNPush: Distributed Nonparallel Pushing Force Control of Multi-Robot Systems for Object Transportation | Duy Anh Nguyen, Pham Duy Hung, Trung Dung Ngo | [Abstract](https://arxiv.org/abs/2610.04764) · [PDF](https://arxiv.org/pdf/2610.04764) |
@@ -185,7 +191,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-04-27 | SPLIT: Separating Physical-Contact via Latent Arithmetic in Image-Based Tactile Sensors | Wadhah Zai El Amri, Nicolás Navarro-Guerrero | [Abstract](https://arxiv.org/abs/2604.24449) · [PDF](https://arxiv.org/pdf/2604.24449) |
 | 2026-03-26 | System Design for Maintaining Internal State Consistency in Long-Horizon Robotic Tabletop Games | Guangyu Zhao, Ceyao Zhang, Chengdong Ma, Tao Wu et al. | [Abstract](https://arxiv.org/abs/2603.25405) · [PDF](https://arxiv.org/pdf/2603.25405) |
 | 2026-03-15 | OCRA: Object-Centric Learning with 3D and Tactile Priors for Human-to-Robot Action Transfer | Kuanning Wang, Ke Fan, Yuqian Fu, Siyu Lin et al. | [Abstract](https://arxiv.org/abs/2603.14401) · [PDF](https://arxiv.org/pdf/2603.14401) |
-| 2026-03-14 | ArrayTac: A Closed-loop Piezoelectric Tactile Platform for Continuously Tunable Rendering of Shape, Stiffness, and Friction | Tianhai Liang, Shiyi Guo, Baiye Cheng, Zhengrong Xue et al. | [Abstract](https://arxiv.org/abs/2603.13829) · [PDF](https://arxiv.org/pdf/2603.13829) |
+| 2026-03-14 | ArrayTac: A Closed-Loop Piezoelectric Tactile Platform for Continuously Tunable Rendering of Shape, Stiffness, and Friction | Tianhai Liang, Shiyi Guo, Baiye Cheng, Zhengrong Xue et al. | [Abstract](https://arxiv.org/abs/2603.13829) · [PDF](https://arxiv.org/pdf/2603.13829) |
 | 2026-03-13 | Skill-informed Data-driven Haptic Nudges for High-dimensional Human Motor Learning | Ankur Kamboj, Rajiv Ranganathan, Xiaobo Tan, Vaibhav Srivastava | [Abstract](https://arxiv.org/abs/2603.12583) · [PDF](https://arxiv.org/pdf/2603.12583) |
 | 2026-03-09 | FlowTouch: View-Invariant Visuo-Tactile Prediction | Seongjin Bien, Carlo Kneissl, Tobias Jülg, Frank Fundel et al. | [Abstract](https://arxiv.org/abs/2603.08255) · [PDF](https://arxiv.org/pdf/2603.08255) |
 | 2026-02-23 | TactiVerse: Generalizing Multi-Point Tactile Sensing in Soft Robotics Using Single-Point Data | Junhui Lee, Hyosung Kim, Saekwang Nam | [Abstract](https://arxiv.org/abs/2602.19850) · [PDF](https://arxiv.org/pdf/2602.19850) |
@@ -237,7 +243,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-06-03 | Efficient Tactile Perception with Soft Electrical Impedance Tomography and Pre-trained Transformer | Huazhi Dong, Ronald B. Liu, Sihao Teng, Delin Hu et al. | [Abstract](https://arxiv.org/abs/2506.02824) · [PDF](https://arxiv.org/pdf/2506.02824) |
 | 2025-05-23 | Task-Optimized Convolutional Recurrent Networks Align with Tactile Processing in the Rodent Brain | Trinity Chung, Yuchen Shen, Nathan C. L. Kong, Aran Nayebi | [Abstract](https://arxiv.org/abs/2505.18361) · [PDF](https://arxiv.org/pdf/2505.18361) |
 | 2025-05-21 | WaveTouch: Active Tactile Sensing Using Vibro-Feedback for Classification of Variable Stiffness and Infill Density Objects | Danissa Sandykbayeva, Valeriya Kostyukova, Aditya Shekhar Nittala, Zhanat Kappassov et al. | [Abstract](https://arxiv.org/abs/2505.16062) · [PDF](https://arxiv.org/pdf/2505.16062) |
-| 2025-05-19 | Investigating Active Sampling for Hardness Classification with Vision-Based Tactile Sensors | Junyi Chen, Alap Kshirsagar, Frederik Heller, Mario Gómez Andreu et al. | [Abstract](https://arxiv.org/abs/2505.13231) · [PDF](https://arxiv.org/pdf/2505.13231) |
+| 2025-05-19 | Investigating Active Sampling for Hardness Classification with Vision-Based Tactile Sensors | Junyi Chen, Frederik Heller, Mario Gómez Andreu, Boris Belousov et al. | [Abstract](https://arxiv.org/abs/2505.13231) · [PDF](https://arxiv.org/pdf/2505.13231) |
 | 2025-05-13 | A Comparative Study of Human Activity Recognition: Motion, Tactile, and multi-modal Approaches | Valerio Belcamino, Nhat Minh Dinh Le, Quan Khanh Luu, Alessandro Carfì et al. | [Abstract](https://arxiv.org/abs/2505.08657) · [PDF](https://arxiv.org/pdf/2505.08657) |
 | 2025-04-30 | Optimized Lattice-Structured Flexible EIT Sensor for Tactile Reconstruction and Classification | Huazhi Dong, Sihao Teng, Xu Han, Xiaopeng Wu et al. | [Abstract](https://arxiv.org/abs/2505.00161) · [PDF](https://arxiv.org/pdf/2505.00161) |
 | 2025-04-20 | A Modularized Design Approach for GelSight Family of Vision-based Tactile Sensors | Arpit Agarwal, Mohammad Amin Mirzaee, Xiping Sun, Wenzhen Yuan | [Abstract](https://arxiv.org/abs/2504.14739) · [PDF](https://arxiv.org/pdf/2504.14739) |

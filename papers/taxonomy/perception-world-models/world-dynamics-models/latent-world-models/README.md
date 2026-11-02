@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=World%20%26%20Dynamics%20Models&specialty=Latent%20World%20Models#research-workbench)
 
-> 30 conference papers · 373 recent arXiv papers
+> 30 conference papers · 393 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -49,10 +49,30 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Structured World Models from Human Videos | RSS · World Model | [Paper](https://doi.org/10.15607/rss.2023.xix.012) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.012) |
 | 2022 | DayDreamer: World Models for Physical Robot Learning | CoRL · World Model | [Paper](https://arxiv.org/abs/2206.14176) · [Index](https://dblp.org/rec/conf/corl/WuEHAG22) |
 
-## Recent arXiv papers (373)
+## Recent arXiv papers (393)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | Hierarchical World Models with Implicit Dynamics | Gaoyue Zhou, Yvonne Wu, Zichen Jeff Cui, Nicolas Ballas et al. | [Abstract](https://arxiv.org/abs/2610.42146) · [PDF](https://arxiv.org/pdf/2610.42146) |
+| 2026-10-29 | Seeing and Imagining as One: Unified Video Generation and 4D Perception for Embodied World Modeling | Haitang Feng, Zhuoman Liu, Zhennan Wang, Sheng Wang et al. | [Abstract](https://arxiv.org/abs/2610.39232) · [PDF](https://arxiv.org/pdf/2610.39232) |
+| 2026-10-29 | Continuous-Action World Models: Learning Cross-Embodiment Spatiotemporal Dynamics Priors | Liangyu Li, Qingwen Liu | [Abstract](https://arxiv.org/abs/2610.40401) · [PDF](https://arxiv.org/pdf/2610.40401) |
+| 2026-10-27 | When More Planning Hurts: Learned Planners for World Models | Josef Chen | [Abstract](https://arxiv.org/abs/2610.37891) · [PDF](https://arxiv.org/pdf/2610.37891) |
+| 2026-10-27 | SWIM: Learning What Matters from Behaviors for JEPA World Models | Jiaming Hu, Shi Bo, Yan Zheng, Tian Wang et al. | [Abstract](https://arxiv.org/abs/2610.36662) · [PDF](https://arxiv.org/pdf/2610.36662) |
+| 2026-10-27 | RynnWorld-Latent: A Cross-Embodiment World Model Conditioned on Universal Latent Actions | Haoyu Zhao, Yinzhou Tang, Zixuan Wang, Minghao Zhu et al. | [Abstract](https://arxiv.org/abs/2610.36791) · [PDF](https://arxiv.org/pdf/2610.36791) |
+| 2026-10-26 | Video World Models Need Predictable Latents | Mattia Scardecchia, Sherry Yang | [Abstract](https://arxiv.org/abs/2610.34663) · [PDF](https://arxiv.org/pdf/2610.34663) |
+| 2026-10-26 | Rollback: Experience Backtracking in World Models for Policy Improvement | Jiayi Luo, Yang Zhang, Liliang Chen, Nan Wang et al. | [Abstract](https://arxiv.org/abs/2610.36068) · [PDF](https://arxiv.org/pdf/2610.36068) |
+| 2026-10-26 | Dream to Assist: Intent-Conditioned World Models for Shared Vehicle Control | Jonathan DeCastro, Thomas Balch, Emily Sumner, Deepak Gopinath et al. | [Abstract](https://arxiv.org/abs/2610.34650) · [PDF](https://arxiv.org/pdf/2610.34650) |
+| 2026-10-26 | Adapt for Planning, Not just Prediction: Optimistic Test-Time World Model Adaptation | Akshay Mete, Dileep Kalathil, P. R. Kumar | [Abstract](https://arxiv.org/abs/2610.35636) · [PDF](https://arxiv.org/pdf/2610.35636) |
+| 2026-10-25 | What Does World Modeling Actually Improve in Robot Action Learning? | Hanwen Cui, Yuanyuan Li, Qing Guo, Zhida Zhang et al. | [Abstract](https://arxiv.org/abs/2610.34593) · [PDF](https://arxiv.org/pdf/2610.34593) |
+| 2026-10-24 | WorldFailBench: Do World Models Understand Policy Failures? | Zheng Zhang, Xiaoyang Tang, Shuaiqi Cheng, Jiakai Huang et al. | [Abstract](https://arxiv.org/abs/2610.33565) · [PDF](https://arxiv.org/pdf/2610.33565) |
+| 2026-10-24 | RoboWorM: Evaluating Movement Realism, Consistency and Acceleration Affects in Embodied Video World Models | Doanh Le Thien, Viet-Thanh Nguyen, Pham Tri Quang, Nhi Pham et al. | [Abstract](https://arxiv.org/abs/2610.33807) · [PDF](https://arxiv.org/pdf/2610.33807) |
+| 2026-10-23 | Adaptive World-Models for Anomaly Recognition (AWARE): A Framework for Robot Dynamics Prediction and Introspection | Luke Beddow, George Mavroghenis, Rodrigo Chacon Quesada, Kamil Dreczkowski et al. | [Abstract](https://arxiv.org/abs/2610.32742) · [PDF](https://arxiv.org/pdf/2610.32742) |
+| 2026-10-22 | Skeleton-Grounded Latent Action Model for Robot World Models | Qi Lv, Jiayi Lin, Yuxin Jiang, Jianzong Wang et al. | [Abstract](https://arxiv.org/abs/2610.31474) · [PDF](https://arxiv.org/pdf/2610.31474) |
+| 2026-10-22 | Inside-JEPA: From Prediction to Relational Grounding in Latent World Models | Hossein Resani, Javen Qinfeng Shi | [Abstract](https://arxiv.org/abs/2610.31194) · [PDF](https://arxiv.org/pdf/2610.31194) |
+| 2026-10-22 | In-Context Learning World Models for Robot Dual-Arm Manipulation of Soft Garment with Partial Observations | Hengyi Sim, Quentin Rouxel, Dennis Hong, Darwin Caldwell et al. | [Abstract](https://arxiv.org/abs/2610.30988) · [PDF](https://arxiv.org/pdf/2610.30988) |
+| 2026-10-21 | Causal world models under physical parameter shifts | Chu Lin, Yi Sun | [Abstract](https://arxiv.org/abs/2610.29088) · [PDF](https://arxiv.org/pdf/2610.29088) |
+| 2026-10-19 | Training Controllable World Models via Action Influence Maximization | Samuel M. Bateman, Tenny Yin, Chongyi Zheng, Lei Huang et al. | [Abstract](https://arxiv.org/abs/2610.27387) · [PDF](https://arxiv.org/pdf/2610.27387) |
+| 2026-10-18 | Latent World Models Should Plan with Distances Along the Latent Manifold | Zunzhi You, Linwei Tao, Siyu Xu, Yunke Wang et al. | [Abstract](https://arxiv.org/abs/2610.25013) · [PDF](https://arxiv.org/pdf/2610.25013) |
 | 2026-10-16 | LAW: Unifying Language, Action, and World Modeling for Agentic Physical Intelligence | Jiajun Cao, Kai Tang, Bohua Zhang, Zezhong Qian et al. | [Abstract](https://arxiv.org/abs/2610.23334) · [PDF](https://arxiv.org/pdf/2610.23334) |
 | 2026-10-16 | Beyond Action Prediction: Learning Search-Free Planning in Latent Space | Guanchen Du, Jinhao Du, Yanpeng Sun, Shan Zhang et al. | [Abstract](https://arxiv.org/abs/2610.23615) · [PDF](https://arxiv.org/pdf/2610.23615) |
 | 2026-10-15 | T2-z: Test-Time Optimization of Environment Latents for Robotic World Models | Chenyuan Zhou, Yining Hong, Huang Huang, Yunfan Jiang et al. | [Abstract](https://arxiv.org/abs/2610.22364) · [PDF](https://arxiv.org/pdf/2610.22364) |
@@ -61,6 +81,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-10-13 | Into the LidarVerse: A Real-Time Unified LiDAR World Model Across Tasks and Sensors | Henry Che, Xuanchi Ren, Sanja Fidler, Shenlong Wang et al. | [Abstract](https://arxiv.org/abs/2610.19201) · [PDF](https://arxiv.org/pdf/2610.19201) |
 | 2026-10-13 | Grid or Nodes? Probing Object Memory in World Models Under Partial Observability | Justin McMillen, Yasin Yilmaz | [Abstract](https://arxiv.org/abs/2610.18637) · [PDF](https://arxiv.org/pdf/2610.18637) |
 | 2026-10-13 | From Pixels to Executable Physics: Behavior-Grounded World Models for Embodied Action Consequence Prediction | Ruo Chen, Jiahua Pang, Yingjie Niu, Hongyi Lin et al. | [Abstract](https://arxiv.org/abs/2610.17630) · [PDF](https://arxiv.org/pdf/2610.17630) |
+| 2026-10-12 | IMPULSE: Push First, Then Predict in V-JEPA 2 Feature Space | Tingan Jin | [Abstract](https://arxiv.org/abs/2610.23968) · [PDF](https://arxiv.org/pdf/2610.23968) |
 | 2026-10-12 | Directional Pullback Regularization for Long-Horizon Rollout of Latent World Models in Autonomous Driving | Shatadal Mishra, Ahmadreza Moradipari, Nejib Ammar | [Abstract](https://arxiv.org/abs/2610.16139) · [PDF](https://arxiv.org/pdf/2610.16139) |
 | 2026-10-11 | ProWorld: Multi-View World Model with Proprioceptive Feedback for Closed-Loop Policy Evaluation | Zijun Wang, Tianyi Yan, Haokun Lin, Panwen Hu et al. | [Abstract](https://arxiv.org/abs/2610.15294) · [PDF](https://arxiv.org/pdf/2610.15294) |
 | 2026-10-11 | LeHami: Symplectic Latent Dynamics for World Models | Romina Yalovetzky, Randall Balestriero, Yann LeCun | [Abstract](https://arxiv.org/abs/2610.15267) · [PDF](https://arxiv.org/pdf/2610.15267) |
@@ -143,7 +164,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-08-25 | Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning | Sixiang Chen, Jiaming Liu, Jixian Wu, Yichen Guo et al. | [Abstract](https://arxiv.org/abs/2608.24885) · [PDF](https://arxiv.org/pdf/2608.24885) |
 | 2026-08-23 | Beyond Instance Slots: Semantically Rich World Models for Physical Interaction Planning | Juntao Cheng, Jingkai Wang, Yijun Shen, Xiansheng Chen et al. | [Abstract](https://arxiv.org/abs/2608.22294) · [PDF](https://arxiv.org/pdf/2608.22294) |
 | 2026-08-21 | Graph-Operator World Models for Morphology-Parameter Generalization in Continuous Control | Xu Yang, Yiqin Yang, Qianchuan Zhao | [Abstract](https://arxiv.org/abs/2608.20936) · [PDF](https://arxiv.org/pdf/2608.20936) |
-| 2026-08-19 | DA-WAM: Decision-Aligned Future Latents for Driving World Models | Ruiguo Zhong, Benshan Ma, Xiaolong Chen, Lang Zhang et al. | [Abstract](https://arxiv.org/abs/2608.19085) · [PDF](https://arxiv.org/pdf/2608.19085) |
+| 2026-08-20 | Calibrated for Which Policy? Conformal Uncertainty for Fixed World Models Under Intervention | Ayush Mittal, Dhruv Gupta | [Abstract](https://arxiv.org/abs/2610.35877) · [PDF](https://arxiv.org/pdf/2610.35877) |
+| 2026-08-19 | DA-WAM: Decision-Aligned Future Latents for Driving World Models | Ruiguo Zhong, Xiaolong Chen, Benshan Ma, Lang Zhang et al. | [Abstract](https://arxiv.org/abs/2608.19085) · [PDF](https://arxiv.org/pdf/2608.19085) |
 | 2026-08-18 | Hydra-0: Action Flow for Generalist World Modeling and Control | Hongyu Li, Bowen Wen, Xinghao Zhu, Yixuan Wang et al. | [Abstract](https://arxiv.org/abs/2608.18077) · [PDF](https://arxiv.org/pdf/2608.18077) |
 | 2026-08-17 | Orbit-Planner: Towards Latent World Models for On-Orbit Obstacle Avoidance of Satellite Agents | Zhijian Li, Chao Ren, Peijin Wang, Xian Sun | [Abstract](https://arxiv.org/abs/2608.16651) · [PDF](https://arxiv.org/pdf/2608.16651) |
 | 2026-08-15 | Low-Rank Dynamics-Effective Latent Carriers for Counterfactual Rollout in Learned World Models | Yang Liu, Yuming Chen | [Abstract](https://arxiv.org/abs/2608.15156) · [PDF](https://arxiv.org/pdf/2608.15156) |
@@ -217,7 +239,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-08 | iMaC: Translating Actions into Motion and Contact Images for Embodied World Models | Zhenyu Wu, Xiuwei Xu, Yukun Zhou, Yifan Li et al. | [Abstract](https://arxiv.org/abs/2606.09813) · [PDF](https://arxiv.org/pdf/2606.09813) |
 | 2026-06-08 | ATM: Why Latent World Models Can Fail to Plan | Jiaheng Chen, Tinghe Zhang, Yucheng Xiao, Xinyong Cai et al. | [Abstract](https://arxiv.org/abs/2606.09028) · [PDF](https://arxiv.org/pdf/2606.09028) |
 | 2026-06-08 | $ω$-EVA: Envision, Verify, and Act with Latent Interactive World Models | Zhenguo Sun, Yu Sun, Hande Huang, Alois Knoll | [Abstract](https://arxiv.org/abs/2606.09457) · [PDF](https://arxiv.org/pdf/2606.09457) |
-| 2026-06-06 | PRISM: PRior-guided Imagination Sampling in world Models | Yuhai Wang, Jiawei Xia, Rongxuan Zhou, Xiao Hu et al. | [Abstract](https://arxiv.org/abs/2606.07974) · [PDF](https://arxiv.org/pdf/2606.07974) |
+| 2026-06-06 | PRISM: PRior-guided Imagination Sampling in world Models | Yuhai Wang, Jiawei Xia, Bowen Sun, Rongxuan Zhou et al. | [Abstract](https://arxiv.org/abs/2606.07974) · [PDF](https://arxiv.org/pdf/2606.07974) |
 | 2026-06-05 | STRIPS-WM: Learning Grounded Propositional STRIPS-style World Models from Images | Abhiroop Ajith, Constantinos Chamzas | [Abstract](https://arxiv.org/abs/2606.06832) · [PDF](https://arxiv.org/pdf/2606.06832) |
 | 2026-06-04 | PLAN-S: Bridging Planning with Latent Style Dynamics for Autonomous Driving World Models | Xiaoyun Qiu, Jingtao He, Yijie Chen, Yusong Huang et al. | [Abstract](https://arxiv.org/abs/2606.06014) · [PDF](https://arxiv.org/pdf/2606.06014) |
 | 2026-06-03 | OSCAR: Omni-Embodiment Action-Conditioned World Model for Robotics | Zhuoyuan Wu, Jun Gao | [Abstract](https://arxiv.org/abs/2606.04463) · [PDF](https://arxiv.org/pdf/2606.04463) |
@@ -424,8 +446,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-20 | MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations | Daniel Bogdoll, Yitian Yang, Tim Joseph, Melih Yazgan et al. | [Abstract](https://arxiv.org/abs/2311.11762) · [PDF](https://arxiv.org/pdf/2311.11762) |
 | 2023-11-02 | Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion | Lunjun Zhang, Yuwen Xiong, Ze Yang, Sergio Casas et al. | [Abstract](https://arxiv.org/abs/2311.01017) · [PDF](https://arxiv.org/pdf/2311.01017) |
 | 2023-11-02 | Automatic Configuration of Multi-Agent Model Predictive Controllers based on Semantic Graph World Models | K. de Vos, E. Torta, H. Bruyninckx, C. A. Lopez Martinez et al. | [Abstract](https://arxiv.org/abs/2311.01180) · [PDF](https://arxiv.org/pdf/2311.01180) |
-| 2023-10-25 | TD-MPC2: Scalable, Robust World Models for Continuous Control | Nicklas Hansen, Hao Su, Xiaolong Wang | [Abstract](https://arxiv.org/abs/2310.16828) · [PDF](https://arxiv.org/pdf/2310.16828) |
-| 2023-10-24 | Finetuning Offline World Models in the Real World | Yunhai Feng, Nicklas Hansen, Ziyan Xiong, Chandramouli Rajagopalan et al. | [Abstract](https://arxiv.org/abs/2310.16029) · [PDF](https://arxiv.org/pdf/2310.16029) |
 
 ---
 

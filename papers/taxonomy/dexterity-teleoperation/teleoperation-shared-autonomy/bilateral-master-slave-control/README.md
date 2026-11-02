@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Autonomy&specialty=Bilateral%20%26%20Master-slave%20Control#research-workbench)
 
-> 8 conference papers · 21 recent arXiv papers
+> 8 conference papers · 23 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,10 +27,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Towards 6DoF Bilateral Teleoperation of an Omnidirectional Aerial Vehicle for Aerial Physical Interaction | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2203.03177) · [Publisher](https://doi.org/10.48550/arXiv.2203.03177) |
 | 2022 | Haptic Teleoperation of High-dimensional Robotic Systems Using a Feedback MPC Framework | IROS · Teleoperation | [Paper](https://arxiv.org/abs/2207.14635) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981290) |
 
-## Recent arXiv papers (21)
+## Recent arXiv papers (23)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-21 | Preserving Operator Intent Under Actuation Constraints: Teleoperation of Manipulators with Coupled Transmissions | Xuhan Miao, Zijin Han, Yutong Shen, Haidong Huang et al. | [Abstract](https://arxiv.org/abs/2610.29565) · [PDF](https://arxiv.org/pdf/2610.29565) |
+| 2026-10-20 | LocoPilot: Single-Operator Bilateral Teleoperation for Loco-Manipulation Policy Learning | Antonio Langella, Giovanni Minelli, Giovanni B. Dessy, Lorenzo Amatucci et al. | [Abstract](https://arxiv.org/abs/2610.27998) · [PDF](https://arxiv.org/pdf/2610.27998) |
 | 2026-10-10 | LETS: Low-Overhead External-Torque Sensing for Force-Feedback Bilateral Teleoperation | Zonghao Guo, Dongchen Guan, Yubo Wang, Peng Yang | [Abstract](https://arxiv.org/abs/2610.14889) · [PDF](https://arxiv.org/pdf/2610.14889) |
 | 2026-09-17 | Compliance for Free: Learning Identifiable Impedance via Bilateral Teleoperation | Harsha Guda, Adrià Colomé, Carme Torras | [Abstract](https://arxiv.org/abs/2609.19976) · [PDF](https://arxiv.org/pdf/2609.19976) |
 | 2026-09-11 | MR-GLi: Mixed Reality-Based Gripper-Linked Overlays for Underwater Robot Arm Teleoperation via Bilateral Control | Masashi Sasago, Masato Kobayashi, Yuki Uranishi | [Abstract](https://arxiv.org/abs/2609.16041) · [PDF](https://arxiv.org/pdf/2609.16041) |

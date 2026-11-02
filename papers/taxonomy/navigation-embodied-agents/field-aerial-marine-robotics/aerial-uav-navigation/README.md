@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Field%2C%20Aerial%20%26%20Marine%20Robotics&specialty=Aerial%20%26%20UAV%20Navigation#research-workbench)
 
-> 2 conference papers · 106 recent arXiv papers
+> 2 conference papers · 104 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,10 +21,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Drones Guiding Drones: Cooperative Navigation of a Less-Equipped Micro Aerial Vehicle in Cluttered Environments | IROS · Navigation | [Paper](https://arxiv.org/pdf/2312.09786) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802770) |
 | 2022 | UAV-miniUGV Hybrid System for Hidden Area Exploration and Manipulation | IROS · Exploration | [Paper](https://arxiv.org/pdf/2209.11704) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981957) |
 
-## Recent arXiv papers (106)
+## Recent arXiv papers (104)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-29 | Information-Driven Collaborative Autonomy for Heterogeneous UAV/UGV Teams | Joshua Yuriv Pilipovsky | [Abstract](https://arxiv.org/abs/2610.39379) · [PDF](https://arxiv.org/pdf/2610.39379) |
 | 2026-10-12 | ClearNav: Perception-Aligned Quadrotor Flight Using Differential-Physics | Aditya Azad, Arthur Huang, Guanrui Li | [Abstract](https://arxiv.org/abs/2610.17419) · [PDF](https://arxiv.org/pdf/2610.17419) |
 | 2026-09-29 | Drone Soccer: Learning to Manipulate with Multicopter Downwash | Neelay Joglekar, Bavin Saravanan, Yutong Wang, Varun Kandiyappan et al. | [Abstract](https://arxiv.org/abs/2609.38588) · [PDF](https://arxiv.org/pdf/2609.38588) |
 | 2026-09-20 | FlockDiffusion: Assignment-Conditioned Diffusion for Multi-Drone Task Allocation and Completion | Iana Zhura, Satenik Akopyan, Roohan Ahmed Khan, Miguel Altamirano Cabrera et al. | [Abstract](https://arxiv.org/abs/2609.23745) · [PDF](https://arxiv.org/pdf/2609.23745) |
@@ -128,9 +129,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-19 | Adaptive Tracking and Perching for Quadrotor in Dynamic Scenarios | Yuman Gao, Jialin Ji, Qianhao Wang, Rui Jin et al. | [Abstract](https://arxiv.org/abs/2312.11866) · [PDF](https://arxiv.org/pdf/2312.11866) |
 | 2023-12-15 | Overcome the Fear Of Missing Out: Active Sensing UAV Scanning for Precision Agriculture | Marios Krestenitis, Emmanuel K. Raptis, Athanasios Ch. Kapoutsis, Konstantinos Ioannidis et al. | [Abstract](https://arxiv.org/abs/2312.09730) · [PDF](https://arxiv.org/pdf/2312.09730) |
 | 2023-12-15 | Drones Guiding Drones: Cooperative Navigation of a Less-Equipped Micro Aerial Vehicle in Cluttered Environments | Václav Pritzl, Matouš Vrba, Yurii Stasinchuk, Vít Krátký et al. | [Abstract](https://arxiv.org/abs/2312.09786) · [PDF](https://arxiv.org/pdf/2312.09786) |
-| 2023-10-25 | A Comprehensive Review of AI-enabled Unmanned Aerial Vehicle: Trends, Vision , and Challenges | Osim Kumar Pal, Md Sakib Hossain Shovon, M. F. Mridha, Jungpil Shin | [Abstract](https://arxiv.org/abs/2310.16360) · [PDF](https://arxiv.org/pdf/2310.16360) |
-| 2023-10-20 | Quadrotor Dead Reckoning with Multiple Inertial Sensors | Dror Hurwitz, Itzik Klein | [Abstract](https://arxiv.org/abs/2310.13452) · [PDF](https://arxiv.org/pdf/2310.13452) |
-| 2023-10-19 | Enhancing Multi-Drone Coordination for Filming Group Behaviours in Dynamic Environments | Aditya Rauniyar, Jiaoyang Li, Sebastian Scherer | [Abstract](https://arxiv.org/abs/2310.13184) · [PDF](https://arxiv.org/pdf/2310.13184) |
 
 ---
 

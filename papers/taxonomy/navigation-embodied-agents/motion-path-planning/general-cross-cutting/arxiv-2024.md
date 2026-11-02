@@ -2,7 +2,7 @@
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 630 papers · complete list for this taxonomy leaf
+> 629 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -220,7 +220,6 @@
 | 2024-09-20 | Guaranteed Reach-Avoid for Black-Box Systems through Narrow Gaps via Neural Network Reachability | Long Kiu Chung, Wonsuhk Jung, Srivatsank Pullabhotla, Parth Shinde et al. | [Abstract](https://arxiv.org/abs/2409.13195) · [PDF](https://arxiv.org/pdf/2409.13195) |
 | 2024-09-17 | UniLCD: Unified Local-Cloud Decision-Making via Reinforcement Learning | Kathakoli Sengupta, Zhongkai Shangguan, Sandesh Bharadwaj, Sanjay Arora et al. | [Abstract](https://arxiv.org/abs/2409.11403) · [PDF](https://arxiv.org/pdf/2409.11403) |
 | 2024-09-17 | PC-SRIF: Preconditioned Cholesky-based Square Root Information Filter for Vision-aided Inertial Navigation | Tong Ke, Parth Agrawal, Yun Zhang, Weikun Zhen et al. | [Abstract](https://arxiv.org/abs/2409.11372) · [PDF](https://arxiv.org/pdf/2409.11372) |
-| 2024-09-17 | Optimization of Rulebooks via Asymptotically Representing Lexicographic Hierarchies for Autonomous Vehicles | Matteo Penlington, Alessandro Zanardi, Emilio Frazzoli | [Abstract](https://arxiv.org/abs/2409.11199) · [PDF](https://arxiv.org/pdf/2409.11199) |
 | 2024-09-17 | Multi-Floor Zero-Shot Object Navigation Policy | Lingfeng Zhang, Hao Wang, Erjia Xiao, Xinyao Zhang et al. | [Abstract](https://arxiv.org/abs/2409.10906) · [PDF](https://arxiv.org/pdf/2409.10906) |
 | 2024-09-17 | EffiTune: Diagnosing and Mitigating Training Inefficiency for Parameter Tuner in Robot Navigation System | Shiwei Feng, Xuan Chen, Zikang Xiong, Zhiyuan Cheng et al. | [Abstract](https://arxiv.org/abs/2409.10832) · [PDF](https://arxiv.org/pdf/2409.10832) |
 | 2024-09-17 | Air-FAR: Fast and Adaptable Routing for Aerial Navigation in Large-scale Complex Unknown Environments | Botao He, Guofei Chen, Cornelia Fermuller, Yiannis Aloimonos et al. | [Abstract](https://arxiv.org/abs/2409.11188) · [PDF](https://arxiv.org/pdf/2409.11188) |

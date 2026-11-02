@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 12 conference papers · 15 recent arXiv papers
+> 12 conference papers · 16 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -31,10 +31,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields | ICRA · Biped | [Paper](https://arxiv.org/pdf/2210.04932) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161544) |
 | 2023 | Overtaking Moving Obstacles with Digit: Path Following for Bipedal Robots via Model Predictive Contouring Control | IROS · Biped | [Paper](https://arxiv.org/pdf/2308.00119) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342209) |
 
-## Recent arXiv papers (15)
+## Recent arXiv papers (16)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-20 | Adaptive Traversal Tubes for Posture-Aware Navigation of Bipedal Humanoids | Zijian Ge | [Abstract](https://arxiv.org/abs/2610.27688) · [PDF](https://arxiv.org/pdf/2610.27688) |
 | 2026-10-02 | Reinforcement Learning from Real-Robot Interaction without High-Quality State Estimates | Ryan Gao, Ashvin Anilkumar, Nicholas Corrado, William Cong et al. | [Abstract](https://arxiv.org/abs/2610.14042) · [PDF](https://arxiv.org/pdf/2610.14042) |
 | 2026-03-07 | Learning From Failures: Efficient Reinforcement Learning Control with Episodic Memory | Chenyang Miao | [Abstract](https://arxiv.org/abs/2603.07110) · [PDF](https://arxiv.org/pdf/2603.07110) |
 | 2025-11-13 | Robot Crash Course: Learning Soft and Stylized Falling | Pascal Strauch, David Müller, Sammy Christen, Agon Serifi et al. | [Abstract](https://arxiv.org/abs/2511.10635) · [PDF](https://arxiv.org/pdf/2511.10635) |

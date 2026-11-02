@@ -40,6 +40,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-27 | State estimation for a hybrid rigid-continuum space manipulator system | Lorenzo Ticozzi, Patricio A. Vela, Panagiotis Tsiotras | [Abstract](https://arxiv.org/abs/2610.37043) · [PDF](https://arxiv.org/pdf/2610.37043) |
+| 2026-10-22 | Tilt-Rotor Quadcopter with Learned Residual Control and Mode-Dependent State Estimation | Ninad Joshi, Prabhat Kumar | [Abstract](https://arxiv.org/abs/2610.31051) · [PDF](https://arxiv.org/pdf/2610.31051) |
 | 2026-10-14 | Towards Certifiable State Estimation under Observability Degeneracy | Baoshan Song | [Abstract](https://arxiv.org/abs/2610.20490) · [PDF](https://arxiv.org/pdf/2610.20490) |
 | 2026-10-13 | Contractor Filters | Simon Rohou | [Abstract](https://arxiv.org/abs/2610.18040) · [PDF](https://arxiv.org/pdf/2610.18040) |
 | 2026-10-12 | MSC: Multi-Stage Caster-aware Control Framework with Uncertainty-Aware NMPC and RL-based Execution Layer | Jinho Park, Jeongtae Lee, Jeonghyeok Lim, Keun Ha Choi et al. | [Abstract](https://arxiv.org/abs/2610.16199) · [PDF](https://arxiv.org/pdf/2610.16199) |
@@ -158,8 +160,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-06 | Weathering Ongoing Uncertainty: Learning and Planning in a Time-Varying Partially Observable Environment | Gokul Puthumanaillam, Xiangyu Liu, Negar Mehr, Melkior Ornik | [Abstract](https://arxiv.org/abs/2312.03263) · [PDF](https://arxiv.org/pdf/2312.03263) |
 | 2023-11-12 | Multimodal Learning of Soft Robot Dynamics using Differentiable Filters | Xiao Liu, Yifan Zhou, Shuhei Ikemoto, Heni Ben Amor | [Abstract](https://arxiv.org/abs/2311.06954) · [PDF](https://arxiv.org/pdf/2311.06954) |
 | 2023-11-02 | Estimating Infinite-Dimensional Continuum Robot States From the Tip | Tongjia Zheng, Ciera McFarland, Margaret Coad, Hai Lin | [Abstract](https://arxiv.org/abs/2311.01517) · [PDF](https://arxiv.org/pdf/2311.01517) |
-| 2023-10-28 | A Stochastic Nonlinear Model Predictive Control with an Uncertainty Propagation Horizon for Autonomous Vehicle Motion Control | Baha Zarrouki, Chenyang Wang, Johannes Betz | [Abstract](https://arxiv.org/abs/2310.18753) · [PDF](https://arxiv.org/pdf/2310.18753) |
-| 2023-10-24 | navlie: A Python Package for State Estimation on Lie Groups | Charles Champagne Cossette, Mitchell Cohen, Vassili Korotkine, Arturo del Castillo Bernal et al. | [Abstract](https://arxiv.org/abs/2310.15774) · [PDF](https://arxiv.org/pdf/2310.15774) |
 
 ---
 

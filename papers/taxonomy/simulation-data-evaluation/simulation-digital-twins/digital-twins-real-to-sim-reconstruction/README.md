@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Digital%20Twins%20%26%20Real-to-sim%20Reconstruction#research-workbench)
 
-> 20 conference papers · 236 recent arXiv papers
+> 20 conference papers · 243 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -39,11 +39,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Digital Twin with Integrated Robot-Human/Environment Interaction Dynamics for an Industrial Mobile Manipulator | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/icra46639.2022.9812004) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812004) |
 | 2022 | Dynamic Modeling and Digital Twin of a Harmonic Drive Based Collaborative Robot Joint | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/icra46639.2022.9812458) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812458) |
 
-## Recent arXiv papers (236)
+## Recent arXiv papers (243)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
-| 2026-10-16 | Self-Building Labs | Jiaru Bai, Yuchi Zhao, Han Hao, Miroslav Bogdanovic et al. | [Abstract](https://arxiv.org/abs/2610.23826) · [PDF](https://arxiv.org/pdf/2610.23826) |
+| 2026-10-27 | GOFish: Full Field-of-View Gaussian Splatting and Mesh Extraction | Allen Tu, Meher Gitika Karumuri, Shifan Zhu, Hailing Wang et al. | [Abstract](https://arxiv.org/abs/2610.37818) · [PDF](https://arxiv.org/pdf/2610.37818) |
+| 2026-10-27 | AuRaSim: A Ray-Tracing Based Automotive FMCW Radar Simulator for Dynamic Scenarios | Zhaoze Wang, Changxu Zhang, Tai Fei, Christopher Grimm et al. | [Abstract](https://arxiv.org/abs/2610.37403) · [PDF](https://arxiv.org/pdf/2610.37403) |
+| 2026-10-25 | EAST: Embodied AI Safety Testing via Systematic Fault Injection in Digital Twins | Yuhao Tian, Tao Li, Ling Zhou, Dave Towey et al. | [Abstract](https://arxiv.org/abs/2610.34358) · [PDF](https://arxiv.org/pdf/2610.34358) |
+| 2026-10-23 | Semantic Representation for Agentic Self-Play in Automated Laboratories | Yves Delley, John Coller, Zachary Cutts, Alexander Daryin et al. | [Abstract](https://arxiv.org/abs/2610.32755) · [PDF](https://arxiv.org/pdf/2610.32755) |
+| 2026-10-22 | WorldMirror: Agentic Real-to-Sim Generation of Interactive Worlds from In-the-Wild Robot Demonstrations | Tianling Xu, Weijie Wan, Honghao Su, Kailun Su et al. | [Abstract](https://arxiv.org/abs/2610.31834) · [PDF](https://arxiv.org/pdf/2610.31834) |
+| 2026-10-19 | Physical AI: Concepts, Techniques, and Challenges | Weinan Zhang, Chunhua Shen, Tianfan Xue, Bin Zhao et al. | [Abstract](https://arxiv.org/abs/2610.27045) · [PDF](https://arxiv.org/pdf/2610.27045) |
+| 2026-10-19 | K-AoI: A Spatio-Temporal Synchronization Metric for Digital Twin-based Teleoperation in Dynamic Network Environments | Lu Tian, Zhenhui Yuan, Zexin Deng, Wenjuan Zhang | [Abstract](https://arxiv.org/abs/2610.26201) · [PDF](https://arxiv.org/pdf/2610.26201) |
+| 2026-10-16 | Self-Building Labs | Jiaru Bai, Yuchi Zhao, Han Hao, Elia Savino et al. | [Abstract](https://arxiv.org/abs/2610.23826) · [PDF](https://arxiv.org/pdf/2610.23826) |
 | 2026-10-15 | De-Risking Robotic Welding for In-Space Metal Joining Through Physics-Grounded Digital Twins | Zhou Daniel Hao, Umer Masood Chaudry, Robert Shaw, Andrew Cheney et al. | [Abstract](https://arxiv.org/abs/2610.21939) · [PDF](https://arxiv.org/pdf/2610.21939) |
 | 2026-10-14 | Probabilistic Physics Digital Twin for Human-Robot Interaction | Yushen Hu, Harshvardhan Chandirasekar, Apurv Kushwaha, Jonathan King et al. | [Abstract](https://arxiv.org/abs/2610.19336) · [PDF](https://arxiv.org/pdf/2610.19336) |
 | 2026-10-14 | Mixed-Reality Feedback Control: Towards Blending of Control and Digital Twinning | Melisa Soydan, Mario Gleirscher | [Abstract](https://arxiv.org/abs/2610.19759) · [PDF](https://arxiv.org/pdf/2610.19759) |

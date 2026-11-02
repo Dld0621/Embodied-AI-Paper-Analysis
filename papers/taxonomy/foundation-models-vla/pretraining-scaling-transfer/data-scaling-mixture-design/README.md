@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Pretraining%2C%20Scaling%20%26%20Transfer&specialty=Data%20Scaling%20%26%20Mixture%20Design#research-workbench)
 
-> 0 conference papers · 6 recent arXiv papers
+> 0 conference papers · 7 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,10 +18,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (6)
+## Recent arXiv papers (7)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-19 | Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy | Zekai Li, Jiayi Yu, Jinlu Zhang, Luyang Niu et al. | [Abstract](https://arxiv.org/abs/2610.26848) · [PDF](https://arxiv.org/pdf/2610.26848) |
 | 2026-08-27 | Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models | Senqiao Yang, Chengyao Wang, Yuxin Chen, Zixuan Wang et al. | [Abstract](https://arxiv.org/abs/2608.27550) · [PDF](https://arxiv.org/pdf/2608.27550) |
 | 2026-08-24 | Physics Filtering Favors the Generalization of Robot Learning | Jindou Jia, Shixuan Han, Meng Wang, Gen Li et al. | [Abstract](https://arxiv.org/abs/2608.22701) · [PDF](https://arxiv.org/pdf/2608.22701) |
 | 2026-03-10 | 3D UAV Trajectory Estimation and Classification from Internet Videos via Language Model | Haoxiang Lei, Daotong Wang, Shenghai Yuan, Jianbo Su | [Abstract](https://arxiv.org/abs/2603.09070) · [PDF](https://arxiv.org/pdf/2603.09070) |

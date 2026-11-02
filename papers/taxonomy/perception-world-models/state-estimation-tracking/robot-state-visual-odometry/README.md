@@ -47,6 +47,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-05-21 | Decoupling Ego-Motion from Target Dynamics via Dual-Interval Motion Cues for UAV Detection | Liuyang Wang, Feitian Zhang | [Abstract](https://arxiv.org/abs/2605.22605) · [PDF](https://arxiv.org/pdf/2605.22605) |
 | 2026-05-17 | MUSE: Multimodal Uncertainty Quantification of State Estimation | Minkyung Kim, Henry Che, Bhargav Chandaka, Bhumsitt Pramuanpornsatid et al. | [Abstract](https://arxiv.org/abs/2605.17421) · [PDF](https://arxiv.org/pdf/2605.17421) |
 | 2026-04-21 | Radar Odometry Subject to High Tilt Dynamics of Subarctic Environments | Matěj Boxan, William Larrivée-Hardy, François Pomerleau | [Abstract](https://arxiv.org/abs/2604.19962) · [PDF](https://arxiv.org/pdf/2604.19962) |
+| 2026-04-17 | Factor Graph-Based Continuum Robot State Estimation with Magnus Expansion Priors | Lorenzo Ticozzi, Sabyasachi Dash, Yangkun Liu, Patricio A. Vela et al. | [Abstract](https://arxiv.org/abs/2604.15619) · [PDF](https://arxiv.org/pdf/2604.15619) |
 | 2026-04-13 | 3DRO: Lidar-level SE(3) Direct Radar Odometry Using a 2D Imaging Radar and a Gyroscope | Cedric Le Gentil, Daniil Lisus, Timothy D. Barfoot | [Abstract](https://arxiv.org/abs/2604.12027) · [PDF](https://arxiv.org/pdf/2604.12027) |
 | 2026-04-11 | Natural Gradient Gaussian Approximation Filter on Lie Groups for Robot State Estimation | Tianyi Zhang, Wenhan Cao, Chang Liu, Yao Lyu et al. | [Abstract](https://arxiv.org/abs/2604.10057) · [PDF](https://arxiv.org/pdf/2604.10057) |
 | 2026-04-05 | DINO-VO: Learning Where to Focus for Enhanced State Estimation | Qi Chen, Guanghao Li, Sijia Hu, Xin Gao et al. | [Abstract](https://arxiv.org/abs/2604.04055) · [PDF](https://arxiv.org/pdf/2604.04055) |
@@ -54,7 +55,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-24 | Tightly-Coupled Radar-Visual-Inertial Odometry | Morten Nissov, Mohit Singh, Kostas Alexis | [Abstract](https://arxiv.org/abs/2603.23052) · [PDF](https://arxiv.org/pdf/2603.23052) |
 | 2026-03-19 | ROFT-VINS: Robust Feature Tracking-based Visual-Inertial State Estimation for Harsh Environment | Sanghyun Park, Soohee Han | [Abstract](https://arxiv.org/abs/2603.18746) · [PDF](https://arxiv.org/pdf/2603.18746) |
 | 2026-03-16 | On the Derivation of Tightly-Coupled LiDAR-Inertial Odometry with VoxelMap | Zhihao Zhan | [Abstract](https://arxiv.org/abs/2603.15471) · [PDF](https://arxiv.org/pdf/2603.15471) |
-| 2026-02-02 | Vision-only UAV State Estimation for Fast Flights Without External Localization Systems: A2RL Drone Racing Finalist Approach | Filip Novák, Matěj Petrlík, Matej Novosad, Parakh M. Gupta et al. | [Abstract](https://arxiv.org/abs/2602.01860) · [PDF](https://arxiv.org/pdf/2602.01860) |
+| 2026-02-02 | Onboard UAV State Estimation for Fast Flights Without External Localization Systems: A2RL Drone Racing Finalist Approach | Filip Novák, Matěj Petrlík, Matej Novosad, Parakh M. Gupta et al. | [Abstract](https://arxiv.org/abs/2602.01860) · [PDF](https://arxiv.org/pdf/2602.01860) |
 | 2026-01-12 | Fiducial Exoskeletons: Image-Centric Robot State Estimation | Cameron Smith, Basile Van Hoorick, Vitor Guizilini, Yue Wang | [Abstract](https://arxiv.org/abs/2601.08034) · [PDF](https://arxiv.org/pdf/2601.08034) |
 | 2025-12-19 | Adaptive Covariance and Quaternion-Focused Hybrid Error-State EKF/UKF for Visual-Inertial Odometry | Ufuk Asil, Efendi Nasibov | [Abstract](https://arxiv.org/abs/2512.17505) · [PDF](https://arxiv.org/pdf/2512.17505) |
 | 2025-12-10 | Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization | Zhiheng Li, Weihua Wang, Qiang Shen, Yichen Zhao et al. | [Abstract](https://arxiv.org/abs/2512.09608) · [PDF](https://arxiv.org/pdf/2512.09608) |
@@ -108,7 +109,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-15 | Multi-Radar Inertial Odometry for 3D State Estimation using mmWave Imaging Radar | Jui-Te Huang, Ruoyang Xu, Akshay Hinduja, Michael Kaess | [Abstract](https://arxiv.org/abs/2311.08608) · [PDF](https://arxiv.org/pdf/2311.08608) |
 | 2023-11-08 | PLV-IEKF: Consistent Visual-Inertial Odometry using Points, Lines, and Vanishing Points | Tong Hua, Tao Li, Liang Pang, Guoqing Liu et al. | [Abstract](https://arxiv.org/abs/2311.04477) · [PDF](https://arxiv.org/pdf/2311.04477) |
 | 2023-11-07 | Proprioceptive Invariant Robot State Estimation | Tzu-Yuan Lin, Tingjun Li, Wenzhe Tong, Maani Ghaffari | [Abstract](https://arxiv.org/abs/2311.04320) · [PDF](https://arxiv.org/pdf/2311.04320) |
-| 2023-10-27 | Do we need scan-matching in radar odometry? | Vladimír Kubelka, Emil Fritz, Martin Magnusson | [Abstract](https://arxiv.org/abs/2310.18117) · [PDF](https://arxiv.org/pdf/2310.18117) |
 
 ---
 

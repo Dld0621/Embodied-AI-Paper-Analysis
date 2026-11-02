@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Balance%2C%20Dynamics%20%26%20Recovery&specialty=Fall%20Prevention%20%26%20Recovery#research-workbench)
 
-> 5 conference papers · 16 recent arXiv papers
+> 5 conference papers · 19 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Humanoid Arm Motion Planning for Improved Disturbance Recovery Using Model Hierarchy Predictive Control | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra46639.2022.9811878) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811878) |
 | 2022 | Reactive Stepping for Humanoid Robots using Reinforcement Learning: Application to Standing Push Recovery on the Exoskeleton Atalante | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2203.01148) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982234) |
 
-## Recent arXiv papers (16)
+## Recent arXiv papers (19)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | ROOF: Learning Humanoid Fall Recovery under Overhead Constraints | Yidan Lu, Jiayuan Yu, Zongrui Cai, Jingwen Sun et al. | [Abstract](https://arxiv.org/abs/2610.42097) · [PDF](https://arxiv.org/pdf/2610.42097) |
+| 2026-10-21 | Test-Time Motion Steering for Perceptive Humanoid Fall Recovery | Osher Azulay, Cheng-Lin Hsieh, Stella X. Yu | [Abstract](https://arxiv.org/abs/2610.30061) · [PDF](https://arxiv.org/pdf/2610.30061) |
 | 2026-10-08 | FallGown: A Soft Pneumatic Wearable Device for Fall Prevention | Megan C. Coram, Haoran Lei, Steven H. Collins, Steve B. Cousins et al. | [Abstract](https://arxiv.org/abs/2610.12706) · [PDF](https://arxiv.org/pdf/2610.12706) |
 | 2026-10-02 | KungfuAthleteBot: learning high-dynamic humanoid motion from video with unified robust recovery | Zhongxiang Lei, Lulu Cao, Xuyang Wang, Tianyi Qian et al. | [Abstract](https://arxiv.org/abs/2610.03388) · [PDF](https://arxiv.org/pdf/2610.03388) |
 | 2026-09-30 | LocoWM: High-Precision Locomotion through World-Model-Guided Residual Adaptation | Zijie Zhao, Shengqian Chen, Xiaoxu Wang, Han Jiang et al. | [Abstract](https://arxiv.org/abs/2609.39179) · [PDF](https://arxiv.org/pdf/2609.39179) |
@@ -35,6 +37,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-12 | Robust Fall Recovery for Armless Bipedal-Wheeled Robots Via Force-Guided Learning | Haidong Hou, Zhangguo Yu, Tao Han, Hengbo Qi et al. | [Abstract](https://arxiv.org/abs/2606.14270) · [PDF](https://arxiv.org/pdf/2606.14270) |
 | 2026-06-11 | Stubborn: A Streamlined and Unified Reinforcement Learning Framework for Robust Motion Tracking and Fall Recovery for Humanoids | Xiao Ren, Yuhui Yang, Zongbiao Weng, Zhijie Liu et al. | [Abstract](https://arxiv.org/abs/2606.12814) · [PDF](https://arxiv.org/pdf/2606.12814) |
 | 2026-06-08 | UniReLo: Learning a Unified Humanoid Policy from Fall Recovery to Locomotion across Diverse Terrains | Xiaoyu Xu, Zhiming Chen, Yuenan Zhao, Ran Song et al. | [Abstract](https://arxiv.org/abs/2606.08922) · [PDF](https://arxiv.org/pdf/2606.08922) |
+| 2026-02-14 | KungfuAthleteBot: Learning High-Dynamic Motion from Videos with Unified Robust Recovery | Zhongxiang Lei, Lulu Cao, Xuyang Wang, Tianyi Qian et al. | [Abstract](https://arxiv.org/abs/2602.13656) · [PDF](https://arxiv.org/pdf/2602.13656) |
 | 2026-02-06 | Cerebellar-Inspired Residual Control for Fault Recovery: From Inference-Time Adaptation to Structural Consolidation | Nethmi Jayasinghe, Diana Gontero, Spencer T. Brown, Vinod K. Sangwan et al. | [Abstract](https://arxiv.org/abs/2602.07227) · [PDF](https://arxiv.org/pdf/2602.07227) |
 | 2025-10-25 | Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and Morphology for Fall Recovery | Bo Yue, Sheng Xu, Kui Jia, Guiliang Liu | [Abstract](https://arxiv.org/abs/2510.22336) · [PDF](https://arxiv.org/pdf/2510.22336) |
 | 2025-05-16 | Bracing for Impact: Robust Humanoid Push Recovery and Locomotion with Reduced Order Models | Lizhi Yang, Blake Werner, Adrian B. Ghansah, Aaron D. Ames | [Abstract](https://arxiv.org/abs/2505.11495) · [PDF](https://arxiv.org/pdf/2505.11495) |

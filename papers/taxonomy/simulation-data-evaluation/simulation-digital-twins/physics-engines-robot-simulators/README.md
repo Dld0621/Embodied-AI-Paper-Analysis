@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Physics%20Engines%20%26%20Robot%20Simulators#research-workbench)
 
-> 14 conference papers · 177 recent arXiv papers
+> 15 conference papers · 179 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,7 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (14)
+## Conference papers (15)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -29,14 +29,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Demonstrating HumanTHOR: A Simulation Platform and Benchmark for Human-Robot Collaboration in a Shared Workspace | RSS · Simulation | [Paper](https://arxiv.org/abs/2406.06498) · [Publisher](https://doi.org/10.48550/arXiv.2406.06498) |
 | 2024 | From Compliant to Rigid Contact Simulation: a Unified and Efficient Approach | RSS · Simulation | [Paper](https://arxiv.org/abs/2405.17020) · [Publisher](https://doi.org/10.48550/arXiv.2405.17020) |
 | 2023 | DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2210.02697) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160982) |
+| 2023 | Real2Sim2Real Transfer for Control of Cable-Driven Robots Via a Differentiable Physics Engine | IROS · Sim2Real | [Paper](https://arxiv.org/pdf/2209.06261) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341811) |
 | 2023 | Demonstrating RFUniverse: A Multiphysics Simulation Platform for Embodied AI | RSS · Simulation | [Paper](https://doi.org/10.15607/rss.2023.xix.087) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.087) |
 | 2022 | Scalable Simulation and Demonstration of Jumping Piezoelectric 2-D Soft Robots | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2202.13521) · [Publisher](https://doi.org/10.1109/ICRA46639.2022.9811927) |
 | 2022 | Gazebo Fluids: SPH-based simulation of fluid interaction with articulated rigid body dynamics | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982036) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982036) |
 
-## Recent arXiv papers (177)
+## Recent arXiv papers (179)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | When the Simulator Fails, Not the Policy: Auditing Contact Artifacts in Simulated Robot Benchmarks | Alex Zhou, Junhao Wu, Xueyang Zhou, Yixiao Huo et al. | [Abstract](https://arxiv.org/abs/2610.41857) · [PDF](https://arxiv.org/pdf/2610.41857) |
+| 2026-10-29 | FlapSim: A Composable MuJoCo Simulation Platform and Reduced-Order Aerodynamic Model Hierarchy for Flapping-Wing Robotics | Mingshan He | [Abstract](https://arxiv.org/abs/2610.40902) · [PDF](https://arxiv.org/pdf/2610.40902) |
+| 2026-10-25 | Enabling Motion-Induced WiFi-CSI Sensing in Multi-Robot Systems: A Simulation Framework | Brendan Dijkstra, Ninad Jadhav, Maurice Stoffijn, Stephanie Gil et al. | [Abstract](https://arxiv.org/abs/2610.34034) · [PDF](https://arxiv.org/pdf/2610.34034) |
+| 2026-10-24 | Replicate What Varies: Resource Sharing for Domain-Randomized Embodied Simulation | Zixu Hao, Weijun Wang, Xiangyu Li, Liang Mi et al. | [Abstract](https://arxiv.org/abs/2610.33582) · [PDF](https://arxiv.org/pdf/2610.33582) |
 | 2026-10-14 | A Master-to-Simulation Interface with Demonstration-Trajectory Guidance for Vascular Intervention | Mingyu Zou, Shuxiang Guo, Sheng Cao, Pengcheng Li et al. | [Abstract](https://arxiv.org/abs/2610.19395) · [PDF](https://arxiv.org/pdf/2610.19395) |
 | 2026-10-13 | Code2Worlds-2: Physically Plausible Agent Harness for Embodied World Simulation | Haoyu Zhang, Siming Li, Zeyu Zhang, Yi Zhang et al. | [Abstract](https://arxiv.org/abs/2610.17651) · [PDF](https://arxiv.org/pdf/2610.17651) |
 | 2026-10-11 | An Open MuJoCo Simulation Framework for a Quadrotor Carrying a Tendon-Driven Soft Continuum Arm | Haitham El-Hussieny | [Abstract](https://arxiv.org/abs/2610.15308) · [PDF](https://arxiv.org/pdf/2610.15308) |
@@ -212,8 +217,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-21 | Open-Source Reinforcement Learning Environments Implemented in MuJoCo with Franka Manipulator | Zichun Xu, Yuntao Li, Xiaohang Yang, Zhiyuan Zhao et al. | [Abstract](https://arxiv.org/abs/2312.13788) · [PDF](https://arxiv.org/pdf/2312.13788) |
 | 2023-11-11 | An Intelligent Social Learning-based Optimization Strategy for Black-box Robotic Control with Reinforcement Learning | Xubo Yang, Jian Gao, Ting Wang, Yaozhen He | [Abstract](https://arxiv.org/abs/2311.06576) · [PDF](https://arxiv.org/pdf/2311.06576) |
 | 2023-11-02 | An Efficient Detection and Control System for Underwater Docking using Machine Learning and Realistic Simulation: A Comprehensive Approach | Jalil Chavez-Galaviz, Jianwen Li, Matthew Bergman, Miras Mengdibayev et al. | [Abstract](https://arxiv.org/abs/2311.01522) · [PDF](https://arxiv.org/pdf/2311.01522) |
-| 2023-10-19 | Hibikino-Musashi@Home 2023 Team Description Paper | Tomoya Shiba, Akinobu Mizutani, Yuga Yano, Tomohiro Ono et al. | [Abstract](https://arxiv.org/abs/2310.12650) · [PDF](https://arxiv.org/pdf/2310.12650) |
-| 2023-10-19 | Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots | Xavier Puig, Eric Undersander, Andrew Szot, Mikael Dallaire Cote et al. | [Abstract](https://arxiv.org/abs/2310.13724) · [PDF](https://arxiv.org/pdf/2310.13724) |
 
 ---
 

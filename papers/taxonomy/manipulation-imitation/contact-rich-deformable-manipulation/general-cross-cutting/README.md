@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Contact-rich%20%26%20Deformable%20Manipulation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 26 conference papers · 196 recent arXiv papers
+> 26 conference papers · 203 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -45,10 +45,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Demonstrating Large-Scale Package Manipulation via Learned Metrics of Pick Success | RSS · Manipulation | [Paper](https://doi.org/10.15607/rss.2023.xix.023) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.023) |
 | 2022 | Simultaneous Contact-Rich Grasping and Locomotion via Distributed Optimization Enabling Free-Climbing for Multi-Limbed Robots | IROS · Grasp | [Paper](https://arxiv.org/pdf/2207.01418) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981579) |
 
-## Recent arXiv papers (196)
+## Recent arXiv papers (203)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-26 | 3D-Force Estimation for Dual-arm Manipulation of Deformable Linear Objects via Factor Graphs | Annika Delucchi, Vincenzo Di Paola, Bruno Marco Quadrelli, Matteo Zoppi | [Abstract](https://arxiv.org/abs/2610.35058) · [PDF](https://arxiv.org/pdf/2610.35058) |
+| 2026-10-25 | PS-DLO: Property- and Spatially Aware Deformable Linear Object Manipulation Policy | Mengdi Li, Boxian Yao, Xiyu Zhu, Yifan Yang et al. | [Abstract](https://arxiv.org/abs/2610.34147) · [PDF](https://arxiv.org/pdf/2610.34147) |
+| 2026-10-25 | How High Can GPT-6 Astra Climb in Contact-Rich Manipulation? PhysLadder: A Hierarchical, Matched Sim-Real Benchmark for Physical Interaction | Haibao Yu, Jiaqi Meng, Zijian Zhang, Bowen Jing et al. | [Abstract](https://arxiv.org/abs/2610.34527) · [PDF](https://arxiv.org/pdf/2610.34527) |
+| 2026-10-22 | TEAR: Task-Evidence Authority Routing for Robotic Manipulation | Shicheng Zhang, Hui Liu, Haoliang Li | [Abstract](https://arxiv.org/abs/2610.30819) · [PDF](https://arxiv.org/pdf/2610.30819) |
+| 2026-10-22 | FORCA: A Force-Aware Coding Agent for Contact-Rich Robot Manipulation | Xiao Tan, Yixuan Wang, Zhexi Wang, Wenzhen Yuan | [Abstract](https://arxiv.org/abs/2610.31841) · [PDF](https://arxiv.org/pdf/2610.31841) |
+| 2026-10-20 | T-WLA: Bridging Slow Vision and Fast Touch | Kaichen Zhou, Yuzhen Chen, Hannah Yao, Chonghe Jiang et al. | [Abstract](https://arxiv.org/abs/2610.28814) · [PDF](https://arxiv.org/pdf/2610.28814) |
+| 2026-10-19 | GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation | Chen Yang, Linzhe Shi, Hang Zhang, Mu Xu et al. | [Abstract](https://arxiv.org/abs/2610.26846) · [PDF](https://arxiv.org/pdf/2610.26846) |
+| 2026-10-19 | FR-VLA: Implicit Force Reasoning VLA for Contact-Rich Manipulation | Jiaju He, Zhiyuan Yang, Ruyang Han, Jiahong Tang et al. | [Abstract](https://arxiv.org/abs/2610.25981) · [PDF](https://arxiv.org/pdf/2610.25981) |
+| 2026-10-17 | ContactBench 1.0: A Benchmark for Everyday Contact-Rich Robotic Manipulation | Jingyi Xiang, Yixuan Wang, Jeannette Bohg, Wenzhen Yuan | [Abstract](https://arxiv.org/abs/2610.24512) · [PDF](https://arxiv.org/pdf/2610.24512) |
 | 2026-10-16 | Ego2Contact: Predicting Touch from Egocentric Human Video for Contact-Rich Robot Manipulation | Qianqian Yang, Dayou Li, Bangya Liu, Zihao Zhu et al. | [Abstract](https://arxiv.org/abs/2610.22932) · [PDF](https://arxiv.org/pdf/2610.22932) |
 | 2026-10-15 | SPEAR: Selective Preference Elicitation with Adaptive Rewards for VLM-Guided Robotic Manipulation | Zewen Wu, Ruizhe Liu, Pei Zhou, Feng Chen et al. | [Abstract](https://arxiv.org/abs/2610.21621) · [PDF](https://arxiv.org/pdf/2610.21621) |
 | 2026-10-15 | MAIA: Anticipating Interaction Anomalies in Contact-Rich Manipulation via Multimodal World Models | Yi Qiao, Maolin Zheng, Haoran Sun, Lujia Dong et al. | [Abstract](https://arxiv.org/abs/2610.21686) · [PDF](https://arxiv.org/pdf/2610.21686) |
@@ -80,7 +89,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-09-17 | Coding Agents with Harness for Safe Robot Control | Bingxin Xu, Yuzhang Shang, Zhen Dong, Emilio Ferrara | [Abstract](https://arxiv.org/abs/2609.20822) · [PDF](https://arxiv.org/pdf/2609.20822) |
 | 2026-09-16 | TAO-Force: Unifying Force-Aware Perception and Fast-Slow Control for Contact-Rich Manipulation | Bohan Gan, Xuanzhang Wen, Yongsheng Zhao, Baoping Cheng et al. | [Abstract](https://arxiv.org/abs/2609.18497) · [PDF](https://arxiv.org/pdf/2609.18497) |
 | 2026-09-16 | Online Multimodal Workload Assessment in Contact-Rich Physical Human-Robot Interaction | Yanyi Chen, Fan Yang, Min Deng | [Abstract](https://arxiv.org/abs/2609.18031) · [PDF](https://arxiv.org/pdf/2609.18031) |
-| 2026-09-16 | ForceDelta-VLA: Distilling Force-Conditioned ActionCorrections for Contact-Rich Manipulation | Ju Dong, Yu Fu, Jian Chen, Yimeng Liu et al. | [Abstract](https://arxiv.org/abs/2609.18242) · [PDF](https://arxiv.org/pdf/2609.18242) |
+| 2026-09-16 | ForceDelta-VLA: Distilling Force-Conditioned Action Corrections for Contact-Rich Manipulation | Ju Dong, Yu Fu, Jian Chen, Yimeng Liu et al. | [Abstract](https://arxiv.org/abs/2609.18242) · [PDF](https://arxiv.org/pdf/2609.18242) |
 | 2026-09-16 | Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation | Guanhua Ji, Tianyu Li, Dayoon Suh, Yuqian Zhang et al. | [Abstract](https://arxiv.org/abs/2609.19137) · [PDF](https://arxiv.org/pdf/2609.19137) |
 | 2026-09-16 | DeformSmith: Physics Harness-Guided Hierarchical Generation of Deformable Assets for Robot Manipulation | Can Li, Jie Gu, Zishun Deng, Jingmin Chen et al. | [Abstract](https://arxiv.org/abs/2609.18620) · [PDF](https://arxiv.org/pdf/2609.18620) |
 | 2026-09-14 | XRoboToolKit-T: Teleoperation with High Stability and Precision with Tactile Sensing for Contact-rich Manipulation | Xiwen Dengxiong, Xueting Wang, Ke Jing, Rui Li et al. | [Abstract](https://arxiv.org/abs/2609.16437) · [PDF](https://arxiv.org/pdf/2609.16437) |
@@ -98,9 +107,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-31 | TRACT: Temporally Routed Action Chunks with Chronological Phase Authority for Contact-Rich Manipulation | Jiahao Liu, Kento Kawaharazuka, Tasuku Makabe, Kei Okada | [Abstract](https://arxiv.org/abs/2607.29285) · [PDF](https://arxiv.org/pdf/2607.29285) |
 | 2026-07-26 | $N_0$-TWAM: Scaling Tactile-Native World-Action Model for Contact-Rich Manipulation | NeoteAI Team, Fudan TEAI Team | [Abstract](https://arxiv.org/abs/2607.23783) · [PDF](https://arxiv.org/pdf/2607.23783) |
 | 2026-07-24 | ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation | Yunao Huang, Shiyu Sang, Suting Ni, Haotao Lu et al. | [Abstract](https://arxiv.org/abs/2607.22530) · [PDF](https://arxiv.org/pdf/2607.22530) |
-| 2026-07-24 | Plug, Play, and Comply: A Modular Framework for Online Variable Impedance with Arbitrarily Oriented Compliance Axes | Mihael Simonič, Xiaocong Li | [Abstract](https://arxiv.org/abs/2607.22483) · [PDF](https://arxiv.org/pdf/2607.22483) |
 | 2026-07-22 | FELT: Generating Tactile Signals from Vision for Visuo-Tactile Manipulation | Zinan Li, Yiyang Ling, Yuming Gu, Binghao Huang et al. | [Abstract](https://arxiv.org/abs/2607.20683) · [PDF](https://arxiv.org/pdf/2607.20683) |
-| 2026-07-17 | Data and Learning Where it Matters for Contact-Rich Manipulation | Oliver Hausdörfer, Linus Schwarz, Gabor Marko, Christian Dietz et al. | [Abstract](https://arxiv.org/abs/2607.15982) · [PDF](https://arxiv.org/pdf/2607.15982) |
 | 2026-07-16 | Representation-Aligned Tactile Grounding for Contact-Rich Robotic Manipulation | Ruilin Chen, Jingkai Jia, Tong Yang, Xinyu Zhou et al. | [Abstract](https://arxiv.org/abs/2607.14609) · [PDF](https://arxiv.org/pdf/2607.14609) |
 | 2026-07-03 | Feeling the Unexpected: ResTacVLA for Contact-Rich Manipulation via Residual Tactile Representation | Pengwei Zhang, Bin Xie, Xinpan Meng, Xinyu Guo et al. | [Abstract](https://arxiv.org/abs/2607.03387) · [PDF](https://arxiv.org/pdf/2607.03387) |
 | 2026-07-02 | Imagining the Sense of Touch: Touch-Informed Manipulation via Imagined Tactile Representations | Zhiyuan Zhang, Adeesh Desai, Jyun-Chi Hu, Yosuke Saka et al. | [Abstract](https://arxiv.org/abs/2607.01684) · [PDF](https://arxiv.org/pdf/2607.01684) |

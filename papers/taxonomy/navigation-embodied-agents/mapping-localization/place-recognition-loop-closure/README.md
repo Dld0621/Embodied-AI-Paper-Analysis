@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Mapping%20%26%20Localization&specialty=Place%20Recognition%20%26%20Loop%20Closure#research-workbench)
 
-> 2 conference papers · 223 recent arXiv papers
+> 2 conference papers · 225 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,10 +21,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Probabilistic Active Loop Closure for Autonomous Exploration | ICRA · Exploration | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610213) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610213) |
 | 2022 | ULSM: Underground Localization and Semantic Mapping with Salient Region Loop Closure under Perceptually-Degraded Environment | IROS · Semantic Mapping | [Paper](https://doi.org/10.1109/IROS47612.2022.9982170) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982170) |
 
-## Recent arXiv papers (223)
+## Recent arXiv papers (225)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-26 | VPR-Space: A Benchmark for Visual Place Recognition in Space Analog Domains | Richard Fechner, Peer Neubert | [Abstract](https://arxiv.org/abs/2610.35642) · [PDF](https://arxiv.org/pdf/2610.35642) |
+| 2026-10-20 | OmniVLoc: Topo-metric Visual Localization for Omnidirectional Cameras | Zhuo Yu, Shuyang Zhang, Huihua Zhu, Wenjia Ouyang et al. | [Abstract](https://arxiv.org/abs/2610.27522) · [PDF](https://arxiv.org/pdf/2610.27522) |
+| 2026-10-19 | TNVD-SC: Diagnosing Scan Context Failures in Forests with Terrain-Normalized Vertical Distributions | Jineon Kim, Jhonghyun An | [Abstract](https://arxiv.org/abs/2610.25637) · [PDF](https://arxiv.org/pdf/2610.25637) |
 | 2026-10-14 | HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration | Annie Bhalla, Dennis Rotondi, Riccardo Giubilato, Kai O. Arras et al. | [Abstract](https://arxiv.org/abs/2610.19742) · [PDF](https://arxiv.org/pdf/2610.19742) |
 | 2026-10-08 | GLIO2: A GPU-Parallelized Tightly-Coupled LiDAR-Inertial-GNSS System for Robust and Real-Time Global Localization and Mapping | Qi Zhang, Xikun Liu, Qijun Qin, Xiangru Wang et al. | [Abstract](https://arxiv.org/abs/2610.12411) · [PDF](https://arxiv.org/pdf/2610.12411) |
 | 2026-09-30 | BatSLAM 2.0: Sequence-Verified Sonar Place Recognition in a Robust Pose Graph | Jan Steckel | [Abstract](https://arxiv.org/abs/2609.40085) · [PDF](https://arxiv.org/pdf/2609.40085) |
@@ -247,7 +250,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-22 | Applications of Spiking Neural Networks in Visual Place Recognition | Somayeh Hussaini, Michael Milford, Tobias Fischer | [Abstract](https://arxiv.org/abs/2311.13186) · [PDF](https://arxiv.org/pdf/2311.13186) |
 | 2023-11-06 | SemanticTopoLoop: Semantic Loop Closure With 3D Topological Graph Based on Quadric-Level Object Map | Zhenzhong Cao | [Abstract](https://arxiv.org/abs/2311.02831) · [PDF](https://arxiv.org/pdf/2311.02831) |
 | 2023-11-06 | LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition | Zijie Zhou, Jingyi Xu, Guangming Xiong, Junyi Ma | [Abstract](https://arxiv.org/abs/2311.03198) · [PDF](https://arxiv.org/pdf/2311.03198) |
-| 2023-10-24 | Cross-view Self-localization from Synthesized Scene-graphs | Ryogo Yamamoto, Kanji Tanaka | [Abstract](https://arxiv.org/abs/2310.15504) · [PDF](https://arxiv.org/pdf/2310.15504) |
 
 ---
 

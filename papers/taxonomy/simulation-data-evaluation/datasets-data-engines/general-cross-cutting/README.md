@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engines&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 6 conference papers · 57 recent arXiv papers
+> 6 conference papers · 59 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,10 +25,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Robot Team Data Collection with Anywhere Communication | IROS · Data Collection | [Paper](https://doi.org/10.1109/IROS55552.2023.10342349) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342349) |
 | 2022 | Decentralized Data Collection for Robotic Fleet Learning: A Game-Theoretic Approach | CoRL · Data Collection | [Paper](https://www.semanticscholar.org/paper/8f4577cf50fa3f60fd0e5ceb48a8a23c39b6a46c) · [Index](https://dblp.org/rec/conf/corl/AkcinLAC22) |
 
-## Recent arXiv papers (57)
+## Recent arXiv papers (59)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-22 | FLORA: An Open Model Suite for Scaling Robotics Data Engines | Sicong Leng, Yunze Man, Zhiqi Li, Jing Wang et al. | [Abstract](https://arxiv.org/abs/2610.31779) · [PDF](https://arxiv.org/pdf/2610.31779) |
+| 2026-10-20 | VeriCalib: Verifiable Target-Based LiDAR-Camera Calibration | Xiangcheng Hu, Xieyuanli Chen, Feiyi Chen, Shengli Ren et al. | [Abstract](https://arxiv.org/abs/2610.28791) · [PDF](https://arxiv.org/pdf/2610.28791) |
+| 2026-10-19 | Learning from Fleet Experience: Collective Experience Learning Across 96 Robots | Chao Yu, Shu'ang Yu, Hao Lin, Hongzhi Zang et al. | [Abstract](https://arxiv.org/abs/2610.25736) · [PDF](https://arxiv.org/pdf/2610.25736) |
 | 2026-10-15 | CoDA: Co-Evolution of Data Engines and Action Policies | Tianjiao Yu, Zhilin Ou, Yifan Shen, Xinzhuo Li et al. | [Abstract](https://arxiv.org/abs/2610.22362) · [PDF](https://arxiv.org/pdf/2610.22362) |
 | 2026-10-05 | Mulligan: Performance-Guided Data Collection for Efficient On-Robot Learning | Lars Ankile, Perry Dong, Rohan Bhowmik, Aneesh Muppidi et al. | [Abstract](https://arxiv.org/abs/2610.05882) · [PDF](https://arxiv.org/pdf/2610.05882) |
 | 2026-10-05 | AeroBuoy: A Drone Deployable, 3D Printed, Autonomous Robotic Buoy for Environmental Inspection in Remote and Hazardous River Systems | Reuben O'Brien, Angus Lynch, Minas Liarokapis | [Abstract](https://arxiv.org/abs/2610.07390) · [PDF](https://arxiv.org/pdf/2610.07390) |
@@ -85,7 +88,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-01-04 | AERIAL-CORE: AI-Powered Aerial Robots for Inspection and Maintenance of Electrical Power Infrastructures | Anibal Ollero, Alejandro Suarez, Christos Papaioannidis, Ioannis Pitas et al. | [Abstract](https://arxiv.org/abs/2401.02343) · [PDF](https://arxiv.org/pdf/2401.02343) |
 | 2023-11-13 | Data-Efficient Task Generalization via Probabilistic Model-based Meta Reinforcement Learning | Arjun Bhardwaj, Jonas Rothfuss, Bhavya Sukhija, Yarden As et al. | [Abstract](https://arxiv.org/abs/2311.07558) · [PDF](https://arxiv.org/pdf/2311.07558) |
 | 2023-11-02 | UniFolding: Towards Sample-efficient, Scalable, and Generalizable Robotic Garment Folding | Han Xue, Yutong Li, Wenqiang Xu, Huanyu Li et al. | [Abstract](https://arxiv.org/abs/2311.01267) · [PDF](https://arxiv.org/pdf/2311.01267) |
-| 2023-10-31 | An Introduction to Causal Inference Methods for Observational Human-Robot Interaction Research | Jaron J. R. Lee, Gopika Ajaykumar, Ilya Shpitser, Chien-Ming Huang | [Abstract](https://arxiv.org/abs/2310.20468) · [PDF](https://arxiv.org/pdf/2310.20468) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 80 papers · complete list for this taxonomy leaf
+> 81 papers · complete list for this taxonomy leaf
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -80,6 +80,7 @@
 | 2023 | Temporal Logic-Based Intent Monitoring for Mobile Robots | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS55552.2023.10341623) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341623) |
 | 2023 | Terrain-Aware Kinodynamic Planning with Efficiently Adaptive State Lattices for Mobile Robot Navigation in Off-Road Environments | IROS · Navigation | [Paper](https://arxiv.org/pdf/2504.17889) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341537) |
 | 2023 | Toward Human-Like Social Robot Navigation: A Large-Scale, Multi-Modal, Social Human Navigation Dataset | IROS · Navigation | [Paper](https://arxiv.org/pdf/2303.14880) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342447) |
+| 2023 | VERN: Vegetation-Aware Robot Navigation in Dense Unstructured Outdoor Environments | IROS · Navigation | [Paper](https://arxiv.org/pdf/2303.14502) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342393) |
 | 2023 | Vision-Based Vineyard Navigation Solution with Automatic Annotation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2303.14347) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341261) |
 | 2023 | Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents | NeurIPS · Grounded planning | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/bb3cfcb0284642a973dd631ec9184f2f-Abstract-Conference.html) · [Official](https://proceedings.neurips.cc/paper_files/paper/2023/hash/bb3cfcb0284642a973dd631ec9184f2f-Abstract-Conference.html) |
 | 2023 | NeRF-IBVS: Visual Servo Based on NeRF for Visual Localization and Navigation | NeurIPS · Navigation | [Paper](https://doi.org/10.52202/075280-0365) · [Publisher](https://doi.org/10.52202/075280-0365) |

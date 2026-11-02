@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Manipulation%20Policy%20Learning&specialty=Generative%20%26%20Diffusion%20Policies#research-workbench)
 
-> 29 conference papers · 292 recent arXiv papers
+> 29 conference papers · 297 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -48,10 +48,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | ChainedDiffuser: Unifying Trajectory Diffusion and Keypose Prediction for Robotic Manipulation | CoRL · Manipulation | [Paper](https://www.semanticscholar.org/paper/c36f3635e090aba84e5e83b904a7697e83730be6) · [Index](https://dblp.org/rec/conf/corl/XianGGKF23) |
 | 2023 | Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | RSS · Diffusion policy | [Paper](https://arxiv.org/abs/2303.04137) · [Official](https://roboticsproceedings.org/rss19/p026.html) · [Code](https://github.com/real-stanford/diffusion_policy) |
 
-## Recent arXiv papers (292)
+## Recent arXiv papers (297)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | Direct Action-Manifold Modeling for Efficient and Robust Bimanual Manipulation | Hongren Wang, Mingyu You, Zihan Li, Zhipeng Wang et al. | [Abstract](https://arxiv.org/abs/2610.41643) · [PDF](https://arxiv.org/pdf/2610.41643) |
+| 2026-10-27 | From 12 to 200 Demonstrations: How ACT, Diffusion Policy, SmolVLA and $π_{0.5}$ Scale on a Low-Cost Arm | Simon Cowling | [Abstract](https://arxiv.org/abs/2610.37170) · [PDF](https://arxiv.org/pdf/2610.37170) |
+| 2026-10-24 | HA-DiPO: Diffusion Policy Optimization for Heterogeneous Cooperative Transport | Xuebin Li, Jinpeng Xiao, Zong Chen, Pierluigi Arpenti et al. | [Abstract](https://arxiv.org/abs/2610.33584) · [PDF](https://arxiv.org/pdf/2610.33584) |
+| 2026-10-19 | Progress-Guided Preference Generation for Aligning Generative Control Policies | Tung M. Luu, Tri Ton, Duc M. Nguyen, Xuan Thanh Nguyen et al. | [Abstract](https://arxiv.org/abs/2610.25692) · [PDF](https://arxiv.org/pdf/2610.25692) |
+| 2026-10-18 | Energy-Score Stabilized Attentive Mixture-Density Policy: A Lightweight Approach to Multimodal Robot Motion | Sachiya Fujita, Hideyuki Ichiwara, Shigeki Sugano, Tetsuya Ogata | [Abstract](https://arxiv.org/abs/2610.25401) · [PDF](https://arxiv.org/pdf/2610.25401) |
 | 2026-10-16 | Robotic Spatiotemporal Editing: A Unified Interface for Controllable Action Generation via Masked Action Reconstruction | Yanbang Li, Bu He, Yi Tian, Yu-Chiao Huang et al. | [Abstract](https://arxiv.org/abs/2610.23002) · [PDF](https://arxiv.org/pdf/2610.23002) |
 | 2026-10-15 | MOSS: Mode-Oriented Source Shaping for Robot Flow Matching Policies | Zirun Ma, Jindou Jia, Tuo An, Jiaqi Bai et al. | [Abstract](https://arxiv.org/abs/2610.22193) · [PDF](https://arxiv.org/pdf/2610.22193) |
 | 2026-10-14 | Refine Actions If Needed: Adaptive Action Chunk Refinement for Robot Manipulation | Hanlin Liu, Zichen Zhou, Jiacheng Zhang, Liuyuan Na et al. | [Abstract](https://arxiv.org/abs/2610.19765) · [PDF](https://arxiv.org/pdf/2610.19765) |

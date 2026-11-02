@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Dexterous%20Hand%20Control&specialty=Dexterous%20Grasping#research-workbench)
 
-> 15 conference papers · 27 recent arXiv papers
+> 15 conference papers · 28 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -34,10 +34,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | SpringGrasp: Synthesizing Compliant, Dexterous Grasps under Shape Uncertainty | RSS · Dexterous | [Paper](https://arxiv.org/abs/2404.13532) · [Publisher](https://doi.org/10.48550/arXiv.2404.13532) |
 | 2023 | UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy | CVPR · Dexterous | [Paper](https://arxiv.org/pdf/2303.00938) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.00459) |
 
-## Recent arXiv papers (27)
+## Recent arXiv papers (28)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-18 | DexGraspFlow: Topology-Aware SE(3) Flow Matching for Cross-Embodiment Dexterous Grasp Generation | Bin Zhou, Boyu Ma, Xinyu Zhou, Jiahua Dong et al. | [Abstract](https://arxiv.org/abs/2610.26962) · [PDF](https://arxiv.org/pdf/2610.26962) |
 | 2026-10-10 | Edge-Native Temporal--Graph Dual-Expert Inference for Dexterous Grasp Classification | Jiajian Zheng, Bin Zhang, Wen Fan, Yanan Liu | [Abstract](https://arxiv.org/abs/2610.14926) · [PDF](https://arxiv.org/pdf/2610.14926) |
 | 2026-10-07 | Temporal Visuo-Tactile Learning for Dexterous Grasp Stability | Ken Nakahara, Aleksei Buvailik, Prokhor Kotov, Roberto Calandra | [Abstract](https://arxiv.org/abs/2610.10283) · [PDF](https://arxiv.org/pdf/2610.10283) |
 | 2026-10-06 | From Wearable Interfaces to Dexterous Policies: Contact Shifts and Tactile Representations | Ruitong Tian, Fang Xu, Noah B. Wilson, Xianyao Li et al. | [Abstract](https://arxiv.org/abs/2610.08870) · [PDF](https://arxiv.org/pdf/2610.08870) |
@@ -45,7 +46,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-09-23 | DEAL-Grasp: Decoupled Alignment Representation for Geometry-Aware Dexterous Grasp Generation | Fuqiang Zhao, Qian Liu | [Abstract](https://arxiv.org/abs/2609.28131) · [PDF](https://arxiv.org/pdf/2609.28131) |
 | 2026-09-18 | 2nd Place Solution to the HANDS 2026 Workshop Challenge-Dexterous Grasp Motion Track: Single-Shot Trajectory Warping for Grasp Motion Generation | Muneeb A. Khan, Woojin Kim, Shinwoo Kim, Muhammad Munsif et al. | [Abstract](https://arxiv.org/abs/2609.21511) · [PDF](https://arxiv.org/pdf/2609.21511) |
 | 2026-09-16 | TacBPM: A Tactile-conditioned Behavior Prior Model for Dexterous Reorientation | Jie Yin, Wanli Xing, Zeyuan Zhao, Xuezhou Zhu et al. | [Abstract](https://arxiv.org/abs/2609.18174) · [PDF](https://arxiv.org/pdf/2609.18174) |
-| 2026-08-11 | Real-World Cooperative Bimanual Dexterous Grasp of Large Objects from Single-View Observations | Ziming Li, Mingxuan Wu, Jiaqi Zhang, Hongfei Li et al. | [Abstract](https://arxiv.org/abs/2608.10383) · [PDF](https://arxiv.org/pdf/2608.10383) |
+| 2026-08-11 | Learning Cooperative Bimanual Dexterous Grasp of Large Objects with Tactile Sensing | Ziming Li, Mingxuan Wu, Jiaqi Zhang, Hongfei Li et al. | [Abstract](https://arxiv.org/abs/2608.10383) · [PDF](https://arxiv.org/pdf/2608.10383) |
 | 2026-07-16 | MIDAS Hand: Modular low-Impedance Direct-drive Anthropomorphic Sensing Hand | Alvin Zhu, Mingzhang Zhu, Beom Jun Kim, Quanyou Wang et al. | [Abstract](https://arxiv.org/abs/2607.14487) · [PDF](https://arxiv.org/pdf/2607.14487) |
 | 2026-07-13 | GraspGraphNet: Graph-Structured Multi-Embodiment Dexterous Grasp Generation | Yeonseo Lee, Taeyeop Lee, Hyosup Shin, Guebin Hwang et al. | [Abstract](https://arxiv.org/abs/2607.11031) · [PDF](https://arxiv.org/pdf/2607.11031) |
 | 2026-07-06 | HUGS: Guiding Unified Dexterous Grasp Synthesis Across Modes and Scales via Learned Human Priors | Mingrui Yu, Yongpeng Jiang, Yongyi Jia, Kangchen Lv et al. | [Abstract](https://arxiv.org/abs/2607.04554) · [PDF](https://arxiv.org/pdf/2607.04554) |

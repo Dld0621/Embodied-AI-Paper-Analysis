@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Manipulation%20Policy%20Learning&specialty=Visuomotor%20%26%20Closed-loop%20Policies#research-workbench)
 
-> 42 conference papers · 278 recent arXiv papers
+> 42 conference papers · 280 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -61,10 +61,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Generalization with Lossy Affordances: Leveraging Broad Offline Data for Learning Visuomotor Tasks | CoRL · Visuomotor | [Paper](https://arxiv.org/abs/2210.06601) · [Publisher](https://doi.org/10.48550/arXiv.2210.06601) |
 | 2022 | Closed-Loop Next-Best-View Planning for Target-Driven Grasping | IROS · Grasp | [Paper](https://arxiv.org/pdf/2207.10543) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981472) |
 
-## Recent arXiv papers (278)
+## Recent arXiv papers (280)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | RTPolicy: Real-Time (32.9 Hz) Multi-View Visuomotor Policy for Robotic Manipulation on Edge Devices | Xianbao Hou, Zehao Ni, Yonghao He, Lingfeng Qian et al. | [Abstract](https://arxiv.org/abs/2610.41625) · [PDF](https://arxiv.org/pdf/2610.41625) |
+| 2026-10-29 | PRIME W0: Physical Priors from World Models for Embodied Manipulation | Huabin Peng, Fagang Jin, Yancong Wei, Tengfei Ma et al. | [Abstract](https://arxiv.org/abs/2610.39528) · [PDF](https://arxiv.org/pdf/2610.39528) |
+| 2026-10-23 | Tiny Recursive Policy: Recursive Latent Refinement for Visuomotor Control | Hakan Aktas, Cengiz Oztireli | [Abstract](https://arxiv.org/abs/2610.33288) · [PDF](https://arxiv.org/pdf/2610.33288) |
+| 2026-10-23 | RoboCode: Learning Reusable Action Primitives for Robot Manipulation | Xianyue Peng, Devi Amarsaikhan, Iman Soltani | [Abstract](https://arxiv.org/abs/2610.32225) · [PDF](https://arxiv.org/pdf/2610.32225) |
 | 2026-10-16 | ORD-WM: Learning Object-Centric Rigid Dynamics for 3D World Modeling in Robotic Manipulation | Yueyang Weng, Xiaopeng Zhang, Yuxi Ou, Yongjin Mu et al. | [Abstract](https://arxiv.org/abs/2610.23156) · [PDF](https://arxiv.org/pdf/2610.23156) |
 | 2026-10-16 | GR-VIP: Geometric representation conditioning for precise visuomotor policy | Chanhwi Lee, Jiwon Seong, Eunje Choi, Hohyung Lee et al. | [Abstract](https://arxiv.org/abs/2610.22997) · [PDF](https://arxiv.org/pdf/2610.22997) |
 | 2026-10-15 | Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation | Tianxing Chen, Wenwei Lin, Chuqiao Lyu, Peicheng Xiang et al. | [Abstract](https://arxiv.org/abs/2610.22342) · [PDF](https://arxiv.org/pdf/2610.22342) |
@@ -341,8 +345,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-02 | Evetac: An Event-based Optical Tactile Sensor for Robotic Manipulation | Niklas Funk, Erik Helmut, Georgia Chalvatzaki, Roberto Calandra et al. | [Abstract](https://arxiv.org/abs/2312.01236) · [PDF](https://arxiv.org/pdf/2312.01236) |
 | 2023-11-29 | Learning Free Terminal Time Optimal Closed-loop Control of Manipulators | Wei Hu, Yue Zhao, Weinan E, Jiequn Han et al. | [Abstract](https://arxiv.org/abs/2311.17749) · [PDF](https://arxiv.org/pdf/2311.17749) |
 | 2023-11-28 | ROSO: Improving Robotic Policy Inference via Synthetic Observations | Yusuke Miyashita, Dimitris Gahtidis, Colin La, Jeremy Rabinowicz et al. | [Abstract](https://arxiv.org/abs/2311.16680) · [PDF](https://arxiv.org/pdf/2311.16680) |
-| 2023-10-31 | Meta Learning for Multi-View Visuomotor Systems | Benji Alwis | [Abstract](https://arxiv.org/abs/2310.20414) · [PDF](https://arxiv.org/pdf/2310.20414) |
-| 2023-10-24 | EquivAct: SIM(3)-Equivariant Visuomotor Policies beyond Rigid Object Manipulation | Jingyun Yang, Congyue Deng, Jimmy Wu, Rika Antonova et al. | [Abstract](https://arxiv.org/abs/2310.16050) · [PDF](https://arxiv.org/pdf/2310.16050) |
 
 ---
 

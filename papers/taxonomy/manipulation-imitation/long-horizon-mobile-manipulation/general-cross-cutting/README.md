@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 20 conference papers · 81 recent arXiv papers
+> 20 conference papers · 83 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -39,10 +39,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Language Guided Robotic Grasping with Fine-Grained Instructions | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS55552.2023.10342331) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342331) |
 | 2022 | Sequential Manipulation Planning on Scene Graph | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2207.04364) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981735) |
 
-## Recent arXiv papers (81)
+## Recent arXiv papers (83)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents | Kehong Gong, Xiaoxu Zheng, Guanli Hou, Seunghun Lee et al. | [Abstract](https://arxiv.org/abs/2610.41216) · [PDF](https://arxiv.org/pdf/2610.41216) |
+| 2026-10-30 | SketchMate: Agentic Geometric Reasoning for Zero-Shot Precision Insertion | Jiaming Wang | [Abstract](https://arxiv.org/abs/2610.41844) · [PDF](https://arxiv.org/pdf/2610.41844) |
 | 2026-10-13 | RoboSimStudio: An Interactive Toolkit for Human and Agent Rapid Real2Sim of Robot Manipulation Tasks | Kaiyuan Chen, Shuangyu Xie, Uksang Yoo, Xinyue Zhu et al. | [Abstract](https://arxiv.org/abs/2610.18835) · [PDF](https://arxiv.org/pdf/2610.18835) |
 | 2026-10-12 | PINT: A Unified Model with Shared Predictive Intent for Robot Manipulation | Xinyu Guo, Chao Jing, Li Yi, Xingyu Chen et al. | [Abstract](https://arxiv.org/abs/2610.16355) · [PDF](https://arxiv.org/pdf/2610.16355) |
 | 2026-10-06 | PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation | Kun Song, Yiming Wang, Yilin Chen, Tianyi Ding et al. | [Abstract](https://arxiv.org/abs/2610.08784) · [PDF](https://arxiv.org/pdf/2610.08784) |

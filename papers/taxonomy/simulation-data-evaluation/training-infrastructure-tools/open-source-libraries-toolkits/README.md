@@ -24,6 +24,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | OpenVIO: A Versatile Open-Source Visual-Inertial Odometry System | Seungwon Choi | [Abstract](https://arxiv.org/abs/2610.41671) · [PDF](https://arxiv.org/pdf/2610.41671) |
+| 2026-10-26 | Distributed Predictive Flocking for a Swarm of Miniature Vibration-Driven Robots in a Confined Arena | Prajol Shrestha, Siddhant Mohapatra, Filip Novkoski, Julian Oelhaf et al. | [Abstract](https://arxiv.org/abs/2610.35582) · [PDF](https://arxiv.org/pdf/2610.35582) |
 | 2026-10-05 | An Autonomous, 3D Printed, Waterjet-Powered, Open-Source Robotic Trimaran for Environmental Inspection and Monitoring | Reuben O'Brien, Martin Lambrechtse-Reid, Minas Liarokapis | [Abstract](https://arxiv.org/abs/2610.07398) · [PDF](https://arxiv.org/pdf/2610.07398) |
 | 2026-10-01 | ALFRED: Requirement-driven development of an open-source mobile manipulator for long-term plant monitoring | Ciarán Miceal Johnson, Christopher Quail, Garry Ellard, Alistair McConnell et al. | [Abstract](https://arxiv.org/abs/2610.01477) · [PDF](https://arxiv.org/pdf/2610.01477) |
 | 2026-09-21 | SPARSER: Sparse Variable Projection by Exploiting Separable Structure in Robotic Perception | Nikolas R. Sanderson, Andrew Fishberg, Haoyu Han, Heng Yang et al. | [Abstract](https://arxiv.org/abs/2609.24708) · [PDF](https://arxiv.org/pdf/2609.24708) |
@@ -31,7 +33,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-09-10 | CARLAverse: A Highly Modular, Distributed, and Multimodal Framework for Human-in-the-Loop Simulation | Patrick Rebling, Philipp Nenninger, Reiner Kriesten | [Abstract](https://arxiv.org/abs/2609.11478) · [PDF](https://arxiv.org/pdf/2609.11478) |
 | 2026-08-17 | ScenarioCharacterization: A Modular Toolkit for Characterizing Safety across Trajectory Datasets | Ingrid Navarro, Yutong Duan, Jonathan Francis, Jean Oh | [Abstract](https://arxiv.org/abs/2608.16041) · [PDF](https://arxiv.org/pdf/2608.16041) |
 | 2026-08-11 | Seeing above the waves: A modular sensing framework for data acquisition at sea | Jonathan E. Schmidt, Julius Wirbel, P. Nicholas Hansen, Morgan Louédec et al. | [Abstract](https://arxiv.org/abs/2608.10997) · [PDF](https://arxiv.org/pdf/2608.10997) |
-| 2026-08-08 | Ego-OSCAR: Egocentric Open source Stereo CAptuRe System | Gunjan Paul, Senthil Palanisamy, Satpal Singh Rathore, Pratyush Kumar Patnaik et al. | [Abstract](https://arxiv.org/abs/2608.08285) · [PDF](https://arxiv.org/pdf/2608.08285) |
 | 2026-06-19 | RoverDevKit: An open, physics-grounded tradespace toolkit for conceptual design of lunar micro-rovers | Jon Reifschneider | [Abstract](https://arxiv.org/abs/2606.21755) · [PDF](https://arxiv.org/pdf/2606.21755) |
 | 2026-06-03 | MineXplore: An Open-Source Reinforcement Learning Exploration Benchmark for GNSS-Denied Underground Environment | Abhishek S, Badrikanath Praharaj, Sreeram MV | [Abstract](https://arxiv.org/abs/2606.04569) · [PDF](https://arxiv.org/pdf/2606.04569) |
 | 2026-06-02 | CADET: A Modular Platform for Evaluating Distributed Cooperative Autonomy in Connected Autonomous Vehicles | Pragya Sharma, Brian Wang, Mani Srivastava | [Abstract](https://arxiv.org/abs/2606.04072) · [PDF](https://arxiv.org/pdf/2606.04072) |
@@ -70,7 +71,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-04-16 | SPONGE: Open-Source Designs of Modular Articulated Soft Robots | Tim-Lukas Habich, Jonas Haack, Mehdi Belhadj, Dustin Lehmann et al. | [Abstract](https://arxiv.org/abs/2404.10734) · [PDF](https://arxiv.org/pdf/2404.10734) |
 | 2024-01-25 | Scilab-RL: A software framework for efficient reinforcement learning and cognitive modeling research | Jan Dohmen, Frank Röder, Manfred Eppe | [Abstract](https://arxiv.org/abs/2401.14488) · [PDF](https://arxiv.org/pdf/2401.14488) |
 | 2023-11-30 | OpenMORE: an open-source tool for sampling-based path replanning in ROS | Cesare Tonola, Manuel Beschi, Marco Faroni, Nicola Pedrocchi | [Abstract](https://arxiv.org/abs/2311.18406) · [PDF](https://arxiv.org/pdf/2311.18406) |
-| 2023-10-20 | RL-X: A Deep Reinforcement Learning Library (not only) for RoboCup | Nico Bohlinger, Klaus Dorer | [Abstract](https://arxiv.org/abs/2310.13396) · [PDF](https://arxiv.org/pdf/2310.13396) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=VLA%20Architectures&specialty=Real-time%20%26%20On-device%20VLA#research-workbench)
 
-> 15 conference papers · 297 recent arXiv papers
+> 15 conference papers · 305 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -34,10 +34,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution | NeurIPS · Vla | [Paper](https://arxiv.org/abs/2411.02359) · [Publisher](https://doi.org/10.48550/arXiv.2411.02359) |
 | 2024 | Real-Time Anomaly Detection and Reactive Planning with Large Language Models | RSS · Large Language Model | [Paper](https://arxiv.org/abs/2407.08735) · [Publisher](https://doi.org/10.48550/arXiv.2407.08735) |
 
-## Recent arXiv papers (297)
+## Recent arXiv papers (305)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-29 | Utility-WAM: Correcting Future-Induced Action Changes | Feihong Zhang, Xi Lin, Yulong Shi, Zuxing Lu et al. | [Abstract](https://arxiv.org/abs/2610.39367) · [PDF](https://arxiv.org/pdf/2610.39367) |
+| 2026-10-27 | Perceiving and Predicting Dynamic Sports: Spatiotemporal Intelligence in Vision Models for Egocentric Tennis Video | Tudor Braicu, Joseph DelPreto, Jared Boyer, Mónika Farsang et al. | [Abstract](https://arxiv.org/abs/2610.37619) · [PDF](https://arxiv.org/pdf/2610.37619) |
+| 2026-10-27 | PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations | Hanqing Wang, Zhaotian Cai, Ruichuan An, Bohan Zeng et al. | [Abstract](https://arxiv.org/abs/2610.37381) · [PDF](https://arxiv.org/pdf/2610.37381) |
+| 2026-10-26 | VLA-HWBench: Where the Time Goes When VLA Models Run on Edge Hardware | Borui Xu, Hongshi Tan, Wenqi Jiang, Bingsheng He et al. | [Abstract](https://arxiv.org/abs/2610.34717) · [PDF](https://arxiv.org/pdf/2610.34717) |
+| 2026-10-25 | TRIAGE: Efficient Vision-Language-Action Inference Needs Both Reuse and Pruning | Sooyoung Kwon, Carlee Joe-Wong, Kyunghan Lee | [Abstract](https://arxiv.org/abs/2610.34519) · [PDF](https://arxiv.org/pdf/2610.34519) |
+| 2026-10-20 | De-Diffusing WAMs: Action-Sufficient Direct Prediction for Robot Control | Shaoyi Zheng, Zhongtao Jiang, Yue Peng, Wenbo Lu et al. | [Abstract](https://arxiv.org/abs/2610.28122) · [PDF](https://arxiv.org/pdf/2610.28122) |
+| 2026-10-18 | AeroDASH: Asynchronous Vision-Language-Action Control for Continuous UAV Flight | Zhe Liu, Yuxuan Zheng, Jinzhe Qin, Ziqi Gao et al. | [Abstract](https://arxiv.org/abs/2610.25407) · [PDF](https://arxiv.org/pdf/2610.25407) |
+| 2026-10-17 | Scene-Adaptive VLA: Efficient Autonomous Driving via Dynamic Layer Routing | Yujia Yang, Quan Yuan, Jiawei Fan, Yang Li et al. | [Abstract](https://arxiv.org/abs/2610.24590) · [PDF](https://arxiv.org/pdf/2610.24590) |
 | 2026-10-15 | FastVLA: Task-Conditioned and Temporally Adaptive Visual Token Compression for Efficient Vision-Language-Action Models | Jiuyi Xu, Chengyuan Qian, Zhengzhong Tu, Yang Sui et al. | [Abstract](https://arxiv.org/abs/2610.22146) · [PDF](https://arxiv.org/pdf/2610.22146) |
 | 2026-10-13 | TacitVLA: Reasoning Vision-Language-Action Models Without Reasoning Latency | Jack Lu, Yurong You, Boyi Li, Yulong Cao et al. | [Abstract](https://arxiv.org/abs/2610.17540) · [PDF](https://arxiv.org/pdf/2610.17540) |
 | 2026-10-10 | BridgeWAM: Bridging Video and Action Experts via Latent Bridge Queries | Jiaxin Fang, Ruitong Liu, Zeyu Lai, Xingyu Wang et al. | [Abstract](https://arxiv.org/abs/2610.14746) · [PDF](https://arxiv.org/pdf/2610.14746) |
@@ -175,6 +183,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-26 | Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving | Zehao Wang, Huaide Jiang, Shuaiwu Dong, Yuping Wang et al. | [Abstract](https://arxiv.org/abs/2603.25740) · [PDF](https://arxiv.org/pdf/2603.25740) |
 | 2026-03-24 | Agile-VLA: Few-Shot Industrial Pose Rectification via Implicit Affordance Anchoring | Teng Yan, Zhengyang Pei, Chengyu Shi, Yue Yu et al. | [Abstract](https://arxiv.org/abs/2603.22899) · [PDF](https://arxiv.org/pdf/2603.22899) |
 | 2026-03-23 | DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models | Zhide Zhong, Junfeng Li, Junjie He, Haodong Yan et al. | [Abstract](https://arxiv.org/abs/2603.22280) · [PDF](https://arxiv.org/pdf/2603.22280) |
+| 2026-03-22 | Semantically Adaptive Control Barrier Functions with Vision-Language Models for Real-Time Robot Navigation | Jeffrey Chen, Rohan Chandra | [Abstract](https://arxiv.org/abs/2603.21142) · [PDF](https://arxiv.org/pdf/2603.21142) |
 | 2026-03-21 | RoboECC: Multi-Factor-Aware Edge-Cloud Collaborative Deployment for VLA Models | Zihao Zheng, Hangyu Cao, Jiayu Chen, Sicheng Tian et al. | [Abstract](https://arxiv.org/abs/2603.20711) · [PDF](https://arxiv.org/pdf/2603.20711) |
 | 2026-03-19 | FASTER: Rethinking Real-Time Flow VLAs | Yuxiang Lu, Zhe Liu, Xianzhe Fan, Zhenya Yang et al. | [Abstract](https://arxiv.org/abs/2603.19199) · [PDF](https://arxiv.org/pdf/2603.19199) |
 | 2026-03-17 | S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight | Haodong Yan, Zhide Zhong, Jiaguan Zhu, Junjie He et al. | [Abstract](https://arxiv.org/abs/2603.16195) · [PDF](https://arxiv.org/pdf/2603.16195) |
@@ -187,7 +196,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-11 | DepthCache: Depth-Guided Training-Free Visual Token Merging for Vision-Language-Action Model Inference | Yuquan Li, Lianjie Ma, Han Ding, Lijun Zhu | [Abstract](https://arxiv.org/abs/2603.10469) · [PDF](https://arxiv.org/pdf/2603.10469) |
 | 2026-03-11 | COHORT: Hybrid RL for Collaborative Large DNN Inference on Multi-Robot Systems Under Real-Time Constraints | Mohammad Saeid Anwar, Anuradha Ravi, Indrajeet Ghosh, Gaurav Shinde et al. | [Abstract](https://arxiv.org/abs/2603.10436) · [PDF](https://arxiv.org/pdf/2603.10436) |
 | 2026-03-09 | SaiVLA-0: Cerebrum--Pons--Cerebellum Tripartite Architecture for Compute-Aware Vision-Language-Action | Xiang Shi, Wenlong Huang, Menglin Zou, Xinhai Sun | [Abstract](https://arxiv.org/abs/2603.08124) · [PDF](https://arxiv.org/pdf/2603.08124) |
-| 2026-03-09 | RAPID: Redundancy-Aware and Compatibility-Optimal Edge-Cloud Partitioned Inference for Diverse VLA Models | Zihao Zheng, Sicheng Tian, Hangyu Cao, Chenyue Li et al. | [Abstract](https://arxiv.org/abs/2603.07949) · [PDF](https://arxiv.org/pdf/2603.07949) |
 | 2026-03-09 | APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model | Yuanjie Lu, Beichen Wang, Zhengqi Wu, Yang Li et al. | [Abstract](https://arxiv.org/abs/2603.08862) · [PDF](https://arxiv.org/pdf/2603.08862) |
 | 2026-03-08 | TempoFit: Plug-and-Play Layer-Wise Temporal KV Memory for Long-Horizon Vision-Language-Action Manipulation | Jun Sun, Boyu Yang, Jiahao Zhang, Ning Ma et al. | [Abstract](https://arxiv.org/abs/2603.07647) · [PDF](https://arxiv.org/pdf/2603.07647) |
 | 2026-03-08 | LITHE: Bridging Best-Effort Python and Real-Time C++ for Hot-Swapping Robotic Control Laws on Commodity Linux | He Kai Lim, Tyler R. Clites | [Abstract](https://arxiv.org/abs/2603.07442) · [PDF](https://arxiv.org/pdf/2603.07442) |

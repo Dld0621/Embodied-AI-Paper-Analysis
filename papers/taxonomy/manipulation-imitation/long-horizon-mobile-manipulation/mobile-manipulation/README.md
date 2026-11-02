@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=Mobile%20Manipulation#research-workbench)
 
-> 7 conference papers · 55 recent arXiv papers
+> 7 conference papers · 58 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Bayesian Imitation Learning for End-to-End Mobile Manipulation | ICML · Manipulation | [Paper](https://arxiv.org/abs/2202.07600) · [Index](https://dblp.org/rec/journals/corr/abs-2202-07600) |
 | 2022 | Learning Symbolic Failure Detection for Grasping and Mobile Manipulation Tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982223) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982223) |
 
-## Recent arXiv papers (55)
+## Recent arXiv papers (58)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-28 | HERON: Real-Time Obstacle-Aware Reachability Maps for Mobile Manipulators | G. Dupoiron, F. Michaud, J. P. Roberge | [Abstract](https://arxiv.org/abs/2610.38233) · [PDF](https://arxiv.org/pdf/2610.38233) |
+| 2026-10-22 | AstroBench: Benchmarking Free-Floating Capture and Space Robotic Manipulation | Zizhe Wang, Jia Deng, Xin Lu, Zehao Jia et al. | [Abstract](https://arxiv.org/abs/2610.31064) · [PDF](https://arxiv.org/pdf/2610.31064) |
+| 2026-10-20 | COWBOY: A Scalable Sim-to-Real Framework for Learning Contextual Whole-Body Manipulation | Jiahui Yang, Jason Jingzhou Liu, Ray Muxin Liu, Andrew E. Wang et al. | [Abstract](https://arxiv.org/abs/2610.28948) · [PDF](https://arxiv.org/pdf/2610.28948) |
 | 2026-10-13 | I3L: Iterative Interactive Imitation Learning for Whole-Body Mobile Manipulation | Wensi Ai, Christopher Luey, Karthik Dharmarajan, Evans Han et al. | [Abstract](https://arxiv.org/abs/2610.17748) · [PDF](https://arxiv.org/pdf/2610.17748) |
 | 2026-10-05 | MobileVISTA: Generative Data Augmentation for Pose Generalization in Mobile Manipulation | Suzannah Wistreich, Stephen Tian, Isabella Huang, Vitor Campagnolo Guizilini et al. | [Abstract](https://arxiv.org/abs/2610.07511) · [PDF](https://arxiv.org/pdf/2610.07511) |
 | 2026-09-28 | SAKI: Skill Assembly and Kinematic Imitation from Human Videos for Long-Horizon Mobile Manipulation | Yijie Lu, James Zhao, Weiming Zhi | [Abstract](https://arxiv.org/abs/2609.36031) · [PDF](https://arxiv.org/pdf/2609.36031) |

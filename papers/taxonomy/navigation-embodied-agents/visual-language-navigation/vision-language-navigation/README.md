@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Visual%20%26%20Language%20Navigation&specialty=Vision-language%20Navigation#research-workbench)
 
-> 9 conference papers · 127 recent arXiv papers
+> 9 conference papers · 130 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | MG-VLN: Benchmarking Multi-Goal and Long-Horizon Vision-Language Navigation with Language Enhanced Memory Map | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801689) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801689) |
 | 2024 | Multimodal Evolutionary Encoder for Continuous Vision-Language Navigation | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802484) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802484) |
 
-## Recent arXiv papers (127)
+## Recent arXiv papers (130)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-28 | What Should a Navigator Remember? Spatiotemporal Memory for Zero-Shot Vision-Language Navigation | Yuhang Peng, Zhikai Wang, Ziyi Wang, Jiaru Zhong et al. | [Abstract](https://arxiv.org/abs/2610.38318) · [PDF](https://arxiv.org/pdf/2610.38318) |
+| 2026-10-24 | MOON: Learning When to Forget and How to Move On in Vision-and-Language Navigation | Jingmeng Zhou, Seson Sun, Binyao Xu, Lingming Zhang et al. | [Abstract](https://arxiv.org/abs/2610.33546) · [PDF](https://arxiv.org/pdf/2610.33546) |
+| 2026-10-19 | Revealing and Bridging the Physical Executability Gap in Vision-Language Navigation | Gang He, Zhile Cheng, Kepeng Xu, Zhenyang Liu et al. | [Abstract](https://arxiv.org/abs/2610.25687) · [PDF](https://arxiv.org/pdf/2610.25687) |
 | 2026-10-16 | SimpleVLN: Towards Simple and Frontier Vision-Language Navigation | Lingyi Hong, Weiren Cai, Jiayu Chen, Xinyu Zhou et al. | [Abstract](https://arxiv.org/abs/2610.23203) · [PDF](https://arxiv.org/pdf/2610.23203) |
 | 2026-10-16 | PASS-VLN: Passability-Aware Local-Command Vision-and-Language Navigation | Cong Zou, Xiangsheng Shi, Xuanhui Wang, Fubin Wang et al. | [Abstract](https://arxiv.org/abs/2610.22812) · [PDF](https://arxiv.org/pdf/2610.22812) |
 | 2026-10-15 | X-Fly: Learning to Reach and Stop in Full-Chunk Aerial Vision-Language Navigation | Ruibin Ju, Ruifeng Cai, Min Xu, Lin Wang | [Abstract](https://arxiv.org/abs/2610.21450) · [PDF](https://arxiv.org/pdf/2610.21450) |
@@ -60,10 +63,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-08-18 | If, Then, Otherwise: Diagnosing Conditional Branching in Vision-Language Navigation | Seoyoung Lee, Neel P. Bhatt, Pranay Samineni, Cong Liu et al. | [Abstract](https://arxiv.org/abs/2608.17318) · [PDF](https://arxiv.org/pdf/2608.17318) |
 | 2026-08-13 | AirForesight: Current-to-Future Spatial Map Imagination with Cross-Space Planning Consistency for UAV-VLN | Yutong Liu, Xiaojie Li, Mingzhu Xu, Jianlong Wu | [Abstract](https://arxiv.org/abs/2608.12835) · [PDF](https://arxiv.org/pdf/2608.12835) |
 | 2026-08-07 | WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN | Yuehao Huang, Yunzi Wu, Xiaotao Zhang, Xinhai Li et al. | [Abstract](https://arxiv.org/abs/2608.07267) · [PDF](https://arxiv.org/pdf/2608.07267) |
-| 2026-08-07 | VLN on the Fly: An Onboard Vision-Language Navigation Stack for Aerial Robots | Marco S. Tayar, Felipe Tommaselli, Gianluca Capezutto, Pedro Antonio Rabelo Saraiva et al. | [Abstract](https://arxiv.org/abs/2609.20191) · [PDF](https://arxiv.org/pdf/2609.20191) |
+| 2026-08-07 | VLN on the Fly: An Onboard Vision-Language Navigation Stack for Aerial Robots | Marco S. Tayar, Felipe Tommaselli, Gianluca Capezzuto, Pedro Antonio Rabelo Saraiva et al. | [Abstract](https://arxiv.org/abs/2609.20191) · [PDF](https://arxiv.org/pdf/2609.20191) |
 | 2026-08-02 | FreqNav: Stage-Wise Frequency Routing for Object-Oriented Aerial Vision-Language Navigation | Yin Tang, Jiawei Ma, Jiahao Li, Hao Zhang et al. | [Abstract](https://arxiv.org/abs/2608.00970) · [PDF](https://arxiv.org/pdf/2608.00970) |
 | 2026-07-31 | HAM-VLN: Harnessing Hierarchical Agentic Memory for Zero-Shot Vision-and-Language Navigation | An Liu, Bingxi Liu, Hongyu Ding, Yixuan Jiang et al. | [Abstract](https://arxiv.org/abs/2607.29600) · [PDF](https://arxiv.org/pdf/2607.29600) |
 | 2026-07-29 | BioVLN: A Simulation Platform for Visual Language Navigation in Biomedical Laboratories | Zhe Liu, Quan Lu, Zhaohui Du, Zhe Wang et al. | [Abstract](https://arxiv.org/abs/2607.26914) · [PDF](https://arxiv.org/pdf/2607.26914) |
+| 2026-07-28 | Embodied Agents Take Control: Minimal-Interface Zero-Shot Agents Rival Industrial-Scale Policies in Vision-and-Language Navigation | Jian Zhou, Xunyi Zhao, Gengze Zhou, Zerui Li et al. | [Abstract](https://arxiv.org/abs/2607.26148) · [PDF](https://arxiv.org/pdf/2607.26148) |
 | 2026-07-24 | Offline Vision-Language Navigation with Geometric Goal Localization for Outdoor Environments | Ali Salmasi, Xianjia Yu, Tomi Westerlund | [Abstract](https://arxiv.org/abs/2607.22226) · [PDF](https://arxiv.org/pdf/2607.22226) |
 | 2026-07-20 | VLN-AVP: Zero-Shot Vision-Language Navigation with Hybrid Long-Short-Term Memory for Autonomous Valet Parking | Yijian Li, Xiangru Mu, Changze Li, Hantian Shi et al. | [Abstract](https://arxiv.org/abs/2607.17767) · [PDF](https://arxiv.org/pdf/2607.17767) |
 | 2026-07-18 | Token-Wise Latent Streaming from Slow Reasoners to Fast Planners for Dynamic Vision Language Navigation | Tianshuai Hu, Yangyi Zhong, Zeying Gong, Lingdong Kong et al. | [Abstract](https://arxiv.org/abs/2607.16806) · [PDF](https://arxiv.org/pdf/2607.16806) |
@@ -77,7 +81,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-02 | LIME: Learning Intent-aware Camera Motion from Egocentric Video | Boyang Sun, Jiajie Li, Yung-Hsu Yang, Chenyangguang Zhang et al. | [Abstract](https://arxiv.org/abs/2607.02417) · [PDF](https://arxiv.org/pdf/2607.02417) |
 | 2026-07-01 | DART-VLN: Test-Time Memory Decay and Anti-Loop Regularization for Discrete Vision-Language Navigation | Shaoheng Zhang, Zhichen Li, Guangfu Ma, Jie Mei | [Abstract](https://arxiv.org/abs/2607.01043) · [PDF](https://arxiv.org/pdf/2607.01043) |
 | 2026-06-30 | DynFly: Dynamic-Aware Continuous Trajectory Generation for UAV Vision-Language Navigation in Urban Environments | Wen Jiang, Hanfang Liang, Li Wang, Kangyao Huang et al. | [Abstract](https://arxiv.org/abs/2606.31654) · [PDF](https://arxiv.org/pdf/2606.31654) |
-| 2026-06-29 | Automating the Design of Embodied Agent Architectures | Jian Zhou, Sihao Lin, Jin Li, Shuai Fu et al. | [Abstract](https://arxiv.org/abs/2606.30111) · [PDF](https://arxiv.org/pdf/2606.30111) |
 | 2026-06-08 | SpaceVLN: A Zero-Shot Vision-and-Language Navigation Agent with Online Spatial Cognitive Memory and Reasoning | Yucheng Deng, Pingrui Lai, Xinhai Li, Chenjia Bai et al. | [Abstract](https://arxiv.org/abs/2606.08992) · [PDF](https://arxiv.org/pdf/2606.08992) |
 | 2026-06-05 | Beyond Waypoints: A Trajectory-Centric Waypointing Paradigm for Vision-Language Navigation | Haoxiang Shi, Xiang Deng, Haoyu Zhang, Qiaohui Chu et al. | [Abstract](https://arxiv.org/abs/2606.07244) · [PDF](https://arxiv.org/pdf/2606.07244) |
 | 2026-06-02 | GN0: Toward a Unified Paradigm for Generation, Evaluation, and Policy Learning in Visual-Language Navigation | Xinhai Li, Xiaotao Zhang, Yuehao Huang, Jiankun Dong et al. | [Abstract](https://arxiv.org/abs/2606.03682) · [PDF](https://arxiv.org/pdf/2606.03682) |

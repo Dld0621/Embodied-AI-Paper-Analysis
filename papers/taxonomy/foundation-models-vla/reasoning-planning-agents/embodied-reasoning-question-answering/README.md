@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=Embodied%20Reasoning%20%26%20Question%20Answering#research-workbench)
 
-> 8 conference papers · 100 recent arXiv papers
+> 8 conference papers · 101 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,10 +27,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2403.11289) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801993) |
 | 2022 | Inner Monologue: Embodied Reasoning through Planning with Language Models | CoRL · Language Model | [Paper](https://arxiv.org/abs/2207.05608) · [Publisher](https://doi.org/10.48550/arXiv.2207.05608) |
 
-## Recent arXiv papers (100)
+## Recent arXiv papers (101)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-23 | CEMIR vs. FISER: a comparative study of reasoning-based and enrichment-based approaches to pragmatic intent recognition | Ziya Hosseynzadeh, Farjad Fallah, Farnoosh Fallah, Soroush Gooran et al. | [Abstract](https://arxiv.org/abs/2610.32022) · [PDF](https://arxiv.org/pdf/2610.32022) |
 | 2026-10-10 | GG-Nav: Goal-oriented Grounding Chain-of-Thought Elicits Reasoning in Navigation Foundation Models | Shaohao Zhu, Wensi Huang, Siqi Zhang, Yuqiang Yang et al. | [Abstract](https://arxiv.org/abs/2610.14541) · [PDF](https://arxiv.org/pdf/2610.14541) |
 | 2026-10-06 | VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning | Zewei Zhou, Rachel Luo, Yulong Cao, Chaowei Xiao et al. | [Abstract](https://arxiv.org/abs/2610.08761) · [PDF](https://arxiv.org/pdf/2610.08761) |
 | 2026-10-06 | EgoLAP: Learning from Egocentric Human Data through Language-Action Reasoning | Lihan Zha, Shresth Grover, Tenny Yin, Samuel M. Bateman et al. | [Abstract](https://arxiv.org/abs/2610.08726) · [PDF](https://arxiv.org/pdf/2610.08726) |

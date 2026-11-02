@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=VLA%20Architectures&specialty=Diffusion%20%26%20Flow%20Policies#research-workbench)
 
-> 2 conference papers · 159 recent arXiv papers
+> 2 conference papers · 165 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,10 +21,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026 | ACG: Action Coherence Guidance for Flow-based Vision-Language-Action models | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2510.22201) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695974) |
 | 2025 | VideoVLA: Video Generators Can Be Generalizable Robot Manipulators | NeurIPS · Vla | [Paper](https://arxiv.org/abs/2512.06963) · [Publisher](https://doi.org/10.48550/arXiv.2512.06963) |
 
-## Recent arXiv papers (159)
+## Recent arXiv papers (165)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-28 | SaiVLA-JEPA: Evaluating Future Latent Prediction in JEPA-Conditioned VLA Control | Rufeng Xiao, Ruihao Xiao, Wei Chen, Xinhai Sun | [Abstract](https://arxiv.org/abs/2610.38508) · [PDF](https://arxiv.org/pdf/2610.38508) |
+| 2026-10-23 | If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs | Thomas Landeg, Thierry Tambe | [Abstract](https://arxiv.org/abs/2610.32941) · [PDF](https://arxiv.org/pdf/2610.32941) |
+| 2026-10-23 | Coupling Execution Horizon and Sampling Depth in Flow-Matching VLA Policies | Jiabing Yang, Yuan Xu, Yixiang Chen, Qisen Ma et al. | [Abstract](https://arxiv.org/abs/2610.32102) · [PDF](https://arxiv.org/pdf/2610.32102) |
+| 2026-10-22 | When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies | Shivakanth Sujit, Luca Nunziante, Rousslan Fernand Julien Dossa, Kai Arulkumaran | [Abstract](https://arxiv.org/abs/2610.30735) · [PDF](https://arxiv.org/pdf/2610.30735) |
+| 2026-10-20 | Perceives but Doesn't Brake: A Perception-Action Binding Gap in Reasoning Driving VLAs | Matteo Cercola, Katie Z Luo, Simone Formentin, Marco Pavone | [Abstract](https://arxiv.org/abs/2610.28184) · [PDF](https://arxiv.org/pdf/2610.28184) |
 | 2026-10-16 | MambaAct: Efficient Mamba Action Experts for Flow-Matching Vision-Language-Action Models | Khuyen Pham, Tran Nguyen Le, Edoardo Fazzari, Cesare Stefanini | [Abstract](https://arxiv.org/abs/2610.22951) · [PDF](https://arxiv.org/pdf/2610.22951) |
 | 2026-10-15 | When Plans Change, Remember: Replanning-Guided Visual Memory for Vision-Language-Action Models | Victoria Smelova, Daniil Kazachkov, Georgiy Kazantsev, Iuliia Tsvetkova et al. | [Abstract](https://arxiv.org/abs/2610.22556) · [PDF](https://arxiv.org/pdf/2610.22556) |
 | 2026-10-15 | What Should Robot Policies Learn to Predict? Rethinking Supervision Targets in Vision-Language-Action Learning | Haitao Shen, Hanyu Liu, Yihan Lin, Huiping Liu et al. | [Abstract](https://arxiv.org/abs/2610.21915) · [PDF](https://arxiv.org/pdf/2610.21915) |
@@ -170,6 +175,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-10-11 | Reinforcement Fine-Tuning of Flow-Matching Policies for Vision-Language-Action Models | Mingyang Lyu, Yinqian Sun, Erliang Lin, Huangrui Li et al. | [Abstract](https://arxiv.org/abs/2510.09976) · [PDF](https://arxiv.org/pdf/2510.09976) |
 | 2025-10-01 | Compose Your Policies! Improving Diffusion-based or Flow-based Robot Policies via Test-time Distribution-level Composition | Jiahang Cao, Yize Huang, Hanzhong Guo, Rui Zhang et al. | [Abstract](https://arxiv.org/abs/2510.01068) · [PDF](https://arxiv.org/pdf/2510.01068) |
 | 2025-09-26 | RobustVLA: On Robustness of Vision-Language-Action Model against Multi-Modal Perturbations | Jianing Guo, Zhenhong Wu, Chang Tu, Yiyao Ma et al. | [Abstract](https://arxiv.org/abs/2510.00037) · [PDF](https://arxiv.org/pdf/2510.00037) |
+| 2025-09-26 | EMMA: Enhancing Robotic Control Robustness through a Generative Visual Model | Zhehao Dong, Xiaofeng Wang, Zheng Zhu, Yirui Wang et al. | [Abstract](https://arxiv.org/abs/2509.22407) · [PDF](https://arxiv.org/pdf/2509.22407) |
 | 2025-09-24 | Beyond Human Demonstrations: Diffusion-Based Reinforcement Learning to Generate Data for VLA Training | Rushuai Yang, Hangxing Wei, Ran Zhang, Zhiyuan Feng et al. | [Abstract](https://arxiv.org/abs/2509.19752) · [PDF](https://arxiv.org/pdf/2509.19752) |
 | 2025-09-05 | FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies | Moritz Reuss, Hongyi Zhou, Marcel Rühle, Ömer Erdinç Yağmurlu et al. | [Abstract](https://arxiv.org/abs/2509.04996) · [PDF](https://arxiv.org/pdf/2509.04996) |
 | 2025-09-04 | Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models | Hongyin Zhang, Shiyuan Zhang, Junxi Jin, Qixin Zeng et al. | [Abstract](https://arxiv.org/abs/2509.04063) · [PDF](https://arxiv.org/pdf/2509.04063) |

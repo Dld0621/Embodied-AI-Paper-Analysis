@@ -52,6 +52,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-26 | RoKON: Efficient and Adaptive Data-Enabled Predictive Control for Robotic Manipulation | Akshun Sharma, Zhongqi Wei, Buqing Ou, Frederike Dümbgen | [Abstract](https://arxiv.org/abs/2610.35458) · [PDF](https://arxiv.org/pdf/2610.35458) |
+| 2026-10-18 | Intent-Informed Model Predictive Control for Shared Autonomy in Remote Manipulation Tasks | Lorena Maria Genua, Camilla Tabasso, Mya Schroder, Joshua Migdal et al. | [Abstract](https://arxiv.org/abs/2610.25436) · [PDF](https://arxiv.org/pdf/2610.25436) |
 | 2026-10-12 | Imitation Learning of Avoidance Modes for Efficient Multimodal Model Predictive Control | Changyu Lee, Byung-Kwan Lee, Kanghoon Yoon | [Abstract](https://arxiv.org/abs/2610.16326) · [PDF](https://arxiv.org/pdf/2610.16326) |
 | 2026-10-08 | RESETTLE: Robotic Recovery through Disagreement-Triggered Retrieval and Efficient Corrective Control | Yuxin Chen, Senqiao Yang, Zixuan Wang, Jinhui Ye et al. | [Abstract](https://arxiv.org/abs/2610.12185) · [PDF](https://arxiv.org/pdf/2610.12185) |
 | 2026-10-03 | DreamFormer: Dream Imitation with a Transformer World Model for Language-Conditioned Robotic Manipulation | Mostafa Kotb, Cornelius Weber, Muhammad Burhan Hafez, Stefan Wermter | [Abstract](https://arxiv.org/abs/2610.04540) · [PDF](https://arxiv.org/pdf/2610.04540) |
@@ -194,8 +196,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-11 | DiffVL: Scaling Up Soft Body Manipulation using Vision-Language Driven Differentiable Physics | Zhiao Huang, Feng Chen, Yewen Pu, Chunru Lin et al. | [Abstract](https://arxiv.org/abs/2312.06408) · [PDF](https://arxiv.org/pdf/2312.06408) |
 | 2023-11-24 | Multi-tap Resistive Sensing and FEM Modeling enables Shape and Force Estimation in Soft Robots | Sizhe Tian, Barnabas Gavin Cangan, Stefan Escaida Navarro, Artem Beger et al. | [Abstract](https://arxiv.org/abs/2311.14566) · [PDF](https://arxiv.org/pdf/2311.14566) |
 | 2023-11-23 | Tube-NeRF: Efficient Imitation Learning of Visuomotor Policies from MPC using Tube-Guided Data Augmentation and NeRFs | Andrea Tagliabue, Jonathan P. How | [Abstract](https://arxiv.org/abs/2311.14153) · [PDF](https://arxiv.org/pdf/2311.14153) |
-| 2023-11-01 | Neural Field Dynamics Model for Granular Object Piles Manipulation | Shangjie Xue, Shuo Cheng, Pujith Kachana, Danfei Xu | [Abstract](https://arxiv.org/abs/2311.00802) · [PDF](https://arxiv.org/pdf/2311.00802) |
-| 2023-10-20 | ManiCast: Collaborative Manipulation with Cost-Aware Human Forecasting | Kushal Kedia, Prithwish Dan, Atiksh Bhardwaj, Sanjiban Choudhury | [Abstract](https://arxiv.org/abs/2310.13258) · [PDF](https://arxiv.org/pdf/2310.13258) |
 
 ---
 

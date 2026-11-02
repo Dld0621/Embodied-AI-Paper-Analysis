@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Stairs%2C%20Terrain%20%26%20Rough-ground%20Traversal#research-workbench)
 
-> 27 conference papers · 75 recent arXiv papers
+> 27 conference papers · 78 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -46,11 +46,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | mCLARI: A Shape-Morphing Insect-Scale Robot Capable of Omnidirectional Terrain-Adaptive Locomotion in Laterally Confined Spaces | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2310.04538) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341588) |
 | 2022 | PI-ARS: Accelerating Evolution-Learned Visual-Locomotion with Predictive Information Representations | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2207.13224) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981952) |
 
-## Recent arXiv papers (75)
+## Recent arXiv papers (78)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
-| 2026-10-16 | MOSS: Multimodal Origami Swamp Robot System | T. Lan, A. Babgei, L. Romanello, M. Kovac et al. | [Abstract](https://arxiv.org/abs/2610.23813) · [PDF](https://arxiv.org/pdf/2610.23813) |
+| 2026-10-27 | HC2Robot: Hyper-Connection Transformers with Predicted Foresight for Multi-Terrain Humanoid Parkour | Wenhao Xu, Yanheng Mai, Yifei Fu, Nan Zheng et al. | [Abstract](https://arxiv.org/abs/2610.36825) · [PDF](https://arxiv.org/pdf/2610.36825) |
+| 2026-10-23 | RAIWAY: A Large-Wheeled Bipedal Robot with Contact-Informed Blind Locomotion | Kyungmin Nam, Jiseong Lee, Donghyuk Choi, Jeongsoo Park et al. | [Abstract](https://arxiv.org/abs/2610.33172) · [PDF](https://arxiv.org/pdf/2610.33172) |
+| 2026-10-21 | Watch Your Step: Anticipated Perception for Humanoid Locomotion | Matthias Heyrman, Chenhao Li, Ioannis Dadiotis, Marco Hutter | [Abstract](https://arxiv.org/abs/2610.29612) · [PDF](https://arxiv.org/pdf/2610.29612) |
+| 2026-10-16 | MOSS: Multimodal Origami Swamp Robot System | Tian Lan, Atar Babgei, Luca Romanello, Mirko Kovac et al. | [Abstract](https://arxiv.org/abs/2610.23813) · [PDF](https://arxiv.org/pdf/2610.23813) |
 | 2026-10-14 | Efficient Test-Time Adaptation For Robot Policies | Motasem Alfarra, Pietro Mazzaglia, Markus Peschl, Daniel Dijkman et al. | [Abstract](https://arxiv.org/abs/2610.20318) · [PDF](https://arxiv.org/pdf/2610.20318) |
 | 2026-10-07 | Terrain Traversal Without Motion Priors: Expert-Routed Humanoid Locomotion at Deployment Fidelity | Thanh Ly, Chien Le, Truong-Duy Dang, Duy M. H. Nguyen et al. | [Abstract](https://arxiv.org/abs/2610.14061) · [PDF](https://arxiv.org/pdf/2610.14061) |
 | 2026-10-02 | Terrain-Dependent Intra-Cycle Leg Timing for Effective Locomotion on Granular Slopes | Long Zhao, Xingjue Liao, Feifei Qian | [Abstract](https://arxiv.org/abs/2610.04144) · [PDF](https://arxiv.org/pdf/2610.04144) |

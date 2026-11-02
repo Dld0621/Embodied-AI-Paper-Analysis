@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=Task%20%26%20Long-horizon%20Planning#research-workbench)
 
-> 53 conference papers · 231 recent arXiv papers
+> 53 conference papers · 235 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -72,10 +72,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | ProgPrompt: Generating Situated Robot Task Plans using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2209.11302) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161317) |
 | 2023 | Generating Executable Action Plans with Environmentally-Aware Language Models | IROS · Language Model | [Paper](https://arxiv.org/pdf/2210.04964) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341989) |
 
-## Recent arXiv papers (231)
+## Recent arXiv papers (235)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-29 | LOGIV: Graph-Verified Execution with Causal Local Repair for Long-Horizon Robot Tasks | Enqiao Lu, Yuxiang Xie, Xingrui Yu, Yuyang Wang et al. | [Abstract](https://arxiv.org/abs/2610.40016) · [PDF](https://arxiv.org/pdf/2610.40016) |
+| 2026-10-26 | FISRF: Flexible Instructional Scaffolding Reflection Framework for Robotics Task Planning with Large Language Model | Qingmiao Liang, Jiatao Zhang, Runxin Zou, Yufan Song et al. | [Abstract](https://arxiv.org/abs/2610.35686) · [PDF](https://arxiv.org/pdf/2610.35686) |
+| 2026-10-23 | Predictive Long-Horizon Progress Modeling with Action-Aware Quantification | Tianchi Xu, Yalin Zheng, Yangxin Zhu, Ruonan Ren et al. | [Abstract](https://arxiv.org/abs/2610.32776) · [PDF](https://arxiv.org/pdf/2610.32776) |
+| 2026-10-21 | Plan First, Act Later: Streaming Reasoning for Executable Memory in Robot Control | Qinghang Liu, Conglin Wang, Zongsheng Li, Boyong He et al. | [Abstract](https://arxiv.org/abs/2610.29329) · [PDF](https://arxiv.org/pdf/2610.29329) |
+| 2026-10-21 | CausGround: Causal Interaction Grounding for Adaptive Embodied Planning | Yijun Shen, Diqi He, Jinbang Guo, Wanyue Zhang et al. | [Abstract](https://arxiv.org/abs/2610.29702) · [PDF](https://arxiv.org/pdf/2610.29702) |
+| 2026-10-20 | SLoSa: Small, Low-Power, and Safe Foundation Models for Robotic Task Planning | Weizhe Xu, Jialiang Fan, Essien Taylor, Zijun Wang et al. | [Abstract](https://arxiv.org/abs/2610.28955) · [PDF](https://arxiv.org/pdf/2610.28955) |
+| 2026-10-17 | Refuse the Harm, Complete the Task via Graph-of-Rules Planning for LLM-Enabled Robots | Ali Taheri, Alireza Taban, Qizhou Wang, Wanhua Li | [Abstract](https://arxiv.org/abs/2610.24603) · [PDF](https://arxiv.org/pdf/2610.24603) |
 | 2026-10-15 | DeciCAD: Harness-Grounded Learning of Action Policies for CAD Agents | Yufeng Peng, Yixin Zhang, Ziyi Liu, Zhikun Xu et al. | [Abstract](https://arxiv.org/abs/2610.21755) · [PDF](https://arxiv.org/pdf/2610.21755) |
 | 2026-10-12 | Evaluating Long-Horizon Robot Planning under Uncertainty | Harsh Muriki, Gayathri Aravindan, Yuchen Zheng, Sonia Chernova | [Abstract](https://arxiv.org/abs/2610.17326) · [PDF](https://arxiv.org/pdf/2610.17326) |
 | 2026-10-08 | Embodied Zero-Shot Task Planning via Hardware-Aware LLM-VLM Integration for Grounded Robotic Manipulation | Lonnie Tankersley, Noorbakhsh Amiri Golilarz, Soroush Korivand | [Abstract](https://arxiv.org/abs/2610.14106) · [PDF](https://arxiv.org/pdf/2610.14106) |
@@ -304,9 +311,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-29 | Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning | Yingdong Hu, Fanqi Lin, Tong Zhang, Li Yi et al. | [Abstract](https://arxiv.org/abs/2311.17842) · [PDF](https://arxiv.org/pdf/2311.17842) |
 | 2023-11-29 | LLM-State: Open World State Representation for Long-horizon Task Planning with Large Language Model | Siwei Chen, Anxing Xiao, David Hsu | [Abstract](https://arxiv.org/abs/2311.17406) · [PDF](https://arxiv.org/pdf/2311.17406) |
 | 2023-11-09 | LLM Augmented Hierarchical Agents | Bharat Prakash, Tim Oates, Tinoosh Mohsenin | [Abstract](https://arxiv.org/abs/2311.05596) · [PDF](https://arxiv.org/pdf/2311.05596) |
-| 2023-11-01 | RoboVQA: Multimodal Long-Horizon Reasoning for Robotics | Pierre Sermanet, Tianli Ding, Jeffrey Zhao, Fei Xia et al. | [Abstract](https://arxiv.org/abs/2311.00899) · [PDF](https://arxiv.org/pdf/2311.00899) |
-| 2023-10-30 | GG-LLM: Geometrically Grounding Large Language Models for Zero-shot Human Activity Forecasting in Human-Aware Task Planning | Moritz A. Graule, Volkan Isler | [Abstract](https://arxiv.org/abs/2310.20034) · [PDF](https://arxiv.org/pdf/2310.20034) |
-| 2023-10-26 | Interactive Robot Learning from Verbal Correction | Huihan Liu, Alice Chen, Yuke Zhu, Adith Swaminathan et al. | [Abstract](https://arxiv.org/abs/2310.17555) · [PDF](https://arxiv.org/pdf/2310.17555) |
 
 ---
 

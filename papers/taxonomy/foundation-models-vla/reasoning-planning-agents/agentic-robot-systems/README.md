@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=Agentic%20Robot%20Systems#research-workbench)
 
-> 13 conference papers · 195 recent arXiv papers
+> 13 conference papers · 198 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -32,10 +32,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | RoCo: Dialectic Multi-Robot Collaboration with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2307.04738) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610855) |
 | 2024 | Leveraging Large Language Model for Heterogeneous Ad Hoc Teamwork Collaboration | RSS · Large Language Model | [Paper](https://arxiv.org/abs/2406.12224) · [Publisher](https://doi.org/10.48550/arXiv.2406.12224) |
 
-## Recent arXiv papers (195)
+## Recent arXiv papers (198)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-29 | The Athlete as a Scientist of One: Agentic Bayesian Experimental Design for Individualized Physiology from Consumer Wearables | Behnam Moradi | [Abstract](https://arxiv.org/abs/2610.40370) · [PDF](https://arxiv.org/pdf/2610.40370) |
+| 2026-10-29 | Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense | Khawaja Abaid Ullah, Ananya Acharya, Mohammad Javad Khojasteh | [Abstract](https://arxiv.org/abs/2610.41044) · [PDF](https://arxiv.org/pdf/2610.41044) |
+| 2026-10-26 | RobotAgentBench: Towards Open-world Robot Autonomy | Lingjun Mao, Jinglin Cao, Lukun He, Wenpeng Xu et al. | [Abstract](https://arxiv.org/abs/2610.34649) · [PDF](https://arxiv.org/pdf/2610.34649) |
+| 2026-10-23 | UAV-SwarmAgent: Scalable Multi-UAV Reconnaissance and Task Allocation via Code Generation and Vision-Language Reasoning | Oleg Sautenkov, Yasheerah Yaqoot, Muhammad Ahsan Mustafa, Grigorii Kalinin et al. | [Abstract](https://arxiv.org/abs/2610.32559) · [PDF](https://arxiv.org/pdf/2610.32559) |
+| 2026-10-20 | AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics | Xinxin Liu, Bingxin Xu, Wenrui Bao, Ming Li et al. | [Abstract](https://arxiv.org/abs/2610.28589) · [PDF](https://arxiv.org/pdf/2610.28589) |
 | 2026-10-15 | An Agentic Framework for Proactive Robots with Procedural Assistance Memory | Dohyun Lee, Minho Park, Jeonghoon Park, Dongyoon Hwang et al. | [Abstract](https://arxiv.org/abs/2610.21211) · [PDF](https://arxiv.org/pdf/2610.21211) |
 | 2026-10-14 | Towards Agentic Robots: Model, Data, Environment, and Harness | Chonghan Qin, Dongming Wu, Kaituo Feng, Jiaxu Wang et al. | [Abstract](https://arxiv.org/abs/2610.20442) · [PDF](https://arxiv.org/pdf/2610.20442) |
 | 2026-10-13 | SEAR: Self-Evolving Agentic Robotics | Xinyi Wang, Bangzheng Li, Hanyu Wang, Lin Zhang et al. | [Abstract](https://arxiv.org/abs/2610.18792) · [PDF](https://arxiv.org/pdf/2610.18792) |
@@ -97,6 +102,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-25 | LATS: Large Language Model Assisted Teacher-Student Framework for Multi-Agent Reinforcement Learning in Traffic Signal Control | Yifeng Zhang, Peizhuo Li, Tingguang Zhou, Mingfeng Fan et al. | [Abstract](https://arxiv.org/abs/2603.24361) · [PDF](https://arxiv.org/pdf/2603.24361) |
 | 2026-03-25 | Environment-Grounded Multi-Agent Workflow for Autonomous Penetration Testing | Michael Somma, Markus Großpointner, Paul Zabalegui, Eppu Heilimo et al. | [Abstract](https://arxiv.org/abs/2603.24221) · [PDF](https://arxiv.org/pdf/2603.24221) |
 | 2026-03-20 | Beyond detection: cooperative multi-agent reasoning for rapid onboard EO crisis response | Alejandro D. Mousist, Pedro Delgado de Robles Martín, Raquel Lladró Climent, Julian Cobos Aparicio | [Abstract](https://arxiv.org/abs/2603.19858) · [PDF](https://arxiv.org/pdf/2603.19858) |
+| 2026-03-15 | AeroGen: Structured Prompting for Low-Code Drone-as-a-Service Mission Composition | Kautuk Astu, Yogesh Simmhan | [Abstract](https://arxiv.org/abs/2603.14236) · [PDF](https://arxiv.org/pdf/2603.14236) |
 | 2026-03-09 | A Recipe for Stable Offline Multi-agent Reinforcement Learning | Dongsu Lee, Daehee Lee, Amy Zhang | [Abstract](https://arxiv.org/abs/2603.08399) · [PDF](https://arxiv.org/pdf/2603.08399) |
 | 2026-03-05 | RACAS: Controlling Diverse Robots With a Single Agentic System | Dylan R. Ashley, Jan Przepióra, Yimeng Chen, Ali Abualsaud et al. | [Abstract](https://arxiv.org/abs/2603.05621) · [PDF](https://arxiv.org/pdf/2603.05621) |
 | 2026-03-04 | MistyPilot: An Agentic Fast-Slow Thinking LLM Framework for Misty Social Robots | Xiao Wang, Lu Dong, Jingchen Sun, Ifeoma Nwogu et al. | [Abstract](https://arxiv.org/abs/2603.03640) · [PDF](https://arxiv.org/pdf/2603.03640) |
@@ -228,9 +234,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-08 | Vision-based Learning for Drones: A Survey | Jiaping Xiao, Rangya Zhang, Yuhang Zhang, Mir Feroskhan | [Abstract](https://arxiv.org/abs/2312.05019) · [PDF](https://arxiv.org/pdf/2312.05019) |
 | 2023-11-20 | Multi-Agent Strategy Explanations for Human-Robot Collaboration | Ravi Pandya, Michelle Zhao, Changliu Liu, Reid Simmons et al. | [Abstract](https://arxiv.org/abs/2311.11955) · [PDF](https://arxiv.org/pdf/2311.11955) |
 | 2023-11-02 | ProAgent: From Robotic Process Automation to Agentic Process Automation | Yining Ye, Xin Cong, Shizuo Tian, Jiannan Cao et al. | [Abstract](https://arxiv.org/abs/2311.10751) · [PDF](https://arxiv.org/pdf/2311.10751) |
-| 2023-10-31 | Towards A Natural Language Interface for Flexible Multi-Agent Task Assignment | Jake Brawer, Kayleigh Bishop, Bradley Hayes, Alessandro Roncone | [Abstract](https://arxiv.org/abs/2311.00153) · [PDF](https://arxiv.org/pdf/2311.00153) |
-| 2023-10-31 | Multi-Agent Consensus Seeking via Large Language Models | Huaben Chen, Wenkang Ji, Lufeng Xu, Shiyu Zhao | [Abstract](https://arxiv.org/abs/2310.20151) · [PDF](https://arxiv.org/pdf/2310.20151) |
-| 2023-10-19 | Creative Robot Tool Use with Large Language Models | Mengdi Xu, Peide Huang, Wenhao Yu, Shiqi Liu et al. | [Abstract](https://arxiv.org/abs/2310.13065) · [PDF](https://arxiv.org/pdf/2310.13065) |
 
 ---
 

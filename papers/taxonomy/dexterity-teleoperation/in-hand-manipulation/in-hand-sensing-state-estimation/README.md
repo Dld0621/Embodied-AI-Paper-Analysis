@@ -26,7 +26,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
-| 2026-10-15 | Dexterity from Supervised Play | Botao He, Yiming Dou, Yiannis Aloimonos, Jitendra Malik et al. | [Abstract](https://arxiv.org/abs/2610.22340) · [PDF](https://arxiv.org/pdf/2610.22340) |
+| 2026-10-15 | PlayPolicy: Dexterity from Supervised Play | Botao He, Yiming Dou, Yiannis Aloimonos, Jitendra Malik et al. | [Abstract](https://arxiv.org/abs/2610.22340) · [PDF](https://arxiv.org/pdf/2610.22340) |
 | 2025-06-13 | ViTaSCOPE: Visuo-tactile Implicit Representation for In-hand Pose and Extrinsic Contact Estimation | Jayjun Lee, Nima Fazeli | [Abstract](https://arxiv.org/abs/2506.12239) · [PDF](https://arxiv.org/pdf/2506.12239) |
 
 ---

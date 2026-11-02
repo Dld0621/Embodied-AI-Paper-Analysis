@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Autonomy&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 38 conference papers · 113 recent arXiv papers
+> 39 conference papers · 119 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,7 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (38)
+## Conference papers (39)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -47,6 +47,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Conformalized Teleoperation: Confidently Mapping Human Inputs to High-Dimensional Robot Actions | RSS · Teleoperation | [Paper](https://arxiv.org/abs/2406.07767) · [Publisher](https://doi.org/10.48550/arXiv.2406.07767) |
 | 2023 | Dual quaternion based dynamic movement primitives to learn industrial tasks using teleoperation | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160970) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160970) |
 | 2023 | Evaluation of Performance and Mental Workload during Time Delayed Teleoperation for the Lunar Surface Construction | ICRA · Teleoperation | [Paper](https://doi.org/10.22260/icra2023/0005) · [Publisher](https://doi.org/10.22260/icra2023/0005) |
+| 2023 | HAT: Head-Worn Assistive Teleoperation of Mobile Manipulators | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2209.13097) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160431) |
 | 2023 | Monocular Reactive Collision Avoidance for MAV Teleoperation with Deep Reinforcement Learning | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160427) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160427) |
 | 2023 | Visual Backtracking Teleoperation: A Data Collection Protocol for Offline Image-Based Reinforcement Learning | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2210.02343) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161096) |
 | 2023 | Adaptive PD Control Using Deep Reinforcement Learning for Local-Remote Teleoperation with Stochastic Time Delays | IROS · Teleoperation | [Paper](https://arxiv.org/pdf/2305.16979) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341953) |
@@ -57,10 +58,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Manipulability-Aware Shared Locomanipulation Motion Generation for Teleoperation of Mobile Manipulators | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982220) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982220) |
 | 2022 | The Predictive Kinematic Control Tree: Enhancing Teleoperation of Redundant Robots through Probabilistic User Models | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982150) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982150) |
 
-## Recent arXiv papers (113)
+## Recent arXiv papers (119)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-23 | Retiming Robot Demonstrations with a Learned Speed Prior | Seungyong Moon, Deokjae Lee, Hansang Lee, Munkhtselmeg Battsengel et al. | [Abstract](https://arxiv.org/abs/2610.32676) · [PDF](https://arxiv.org/pdf/2610.32676) |
+| 2026-10-22 | Robotic Budding: From Homogeneous Cells to Diverse Morphologies in Physical Self-Reproduction | Siyuan Zhang, Junyan Liu, Wanglin He, Hod Lipson | [Abstract](https://arxiv.org/abs/2610.31929) · [PDF](https://arxiv.org/pdf/2610.31929) |
+| 2026-10-22 | PATH: Preference-Aware Traversability Estimation for Robotic Teleoperation in Off-Road Navigation | Xianghao Meng, Wenshuo Wang, Cheng Shao, Lewei Feng et al. | [Abstract](https://arxiv.org/abs/2610.30605) · [PDF](https://arxiv.org/pdf/2610.30605) |
+| 2026-10-20 | Warping the Workspace: Expanding Visual Access with Adjustable Reach Mapping for Humanoid Teleoperation | Keigo Minamida, Koya Dendo, Yuto Nakamura, Jun Rekimoto | [Abstract](https://arxiv.org/abs/2610.28712) · [PDF](https://arxiv.org/pdf/2610.28712) |
+| 2026-10-20 | Real2Sem2Real: 3D Semantic Augmentations for Robot Learning from a Single Human RGB Demonstration | Matthew Strong, Ankush K. Dhawan, Julien Poffet, Giuse Pham et al. | [Abstract](https://arxiv.org/abs/2610.28880) · [PDF](https://arxiv.org/pdf/2610.28880) |
+| 2026-10-16 | Evaluating Lightweight Contact Feedback in Dual-Operator Collaborative Humanoid Teleoperation | Austin Graves, Chuizheng Kong, Yunho Cho, Yuanshao Yang et al. | [Abstract](https://arxiv.org/abs/2610.24257) · [PDF](https://arxiv.org/pdf/2610.24257) |
 | 2026-10-14 | RoboSpan: Learning Modular Coordination Policies for High-DoF Whole-Body Mobile Manipulation with Teleoperation | Keqiang Ren, Xuecheng Ye, Hanyu Liu, Zhihua Wang et al. | [Abstract](https://arxiv.org/abs/2610.19594) · [PDF](https://arxiv.org/pdf/2610.19594) |
 | 2026-10-10 | Shared-Control Teleoperation of Omnidirectional Aerial Robots for Continuous Valve Rotation | Jinjie Li, Yicheng Chen, Haokun Liu, Moju Zhao | [Abstract](https://arxiv.org/abs/2610.14478) · [PDF](https://arxiv.org/pdf/2610.14478) |
 | 2026-10-09 | Mapless, Stabilizing, and Anti-Stuck Flipper Control for Articulated Tracked Robots | Valentýn Číhala, Pavel Sarga, Martin Pecka, Tomáš Svoboda et al. | [Abstract](https://arxiv.org/abs/2610.13838) · [PDF](https://arxiv.org/pdf/2610.13838) |

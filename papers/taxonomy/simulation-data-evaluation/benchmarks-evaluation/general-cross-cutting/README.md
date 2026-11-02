@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Evaluation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 25 conference papers · 144 recent arXiv papers
+> 25 conference papers · 149 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -44,10 +44,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2201.09863) · [Index](https://dblp.org/rec/conf/nips/BhatiaJTXM21) |
 | 2022 | VLMbench: A Compositional Benchmark for Vision-and-Language Manipulation | NeurIPS · Language manipulation benchmark | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/04543a88eae2683133c1acbef5a6bf77-Abstract-Datasets_and_Benchmarks.html) · [Official](https://proceedings.neurips.cc/paper_files/paper/2022/hash/04543a88eae2683133c1acbef5a6bf77-Abstract-Datasets_and_Benchmarks.html) |
 
-## Recent arXiv papers (144)
+## Recent arXiv papers (149)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-26 | SPECOLA: A Tool for Specification Driven Robot Evaluation | Immanuel Ampomah Mensah, Hadas Kress-Gazit | [Abstract](https://arxiv.org/abs/2610.35730) · [PDF](https://arxiv.org/pdf/2610.35730) |
+| 2026-10-25 | BEHAVIOR-Spatial Benchmark: Evaluating Spatial Understanding for Robotics | Sirui Chen, Huang Huang, Qineng Wang, Wenlong Huang et al. | [Abstract](https://arxiv.org/abs/2610.34051) · [PDF](https://arxiv.org/pdf/2610.34051) |
+| 2026-10-19 | RoboValue: A Fine-Grained Sim-and-Real Benchmark for Unified Evaluation of Robotic Value Models | Shengbang Liu, Zhengye Du, Zhilong Wan, Honghao Su et al. | [Abstract](https://arxiv.org/abs/2610.26663) · [PDF](https://arxiv.org/pdf/2610.26663) |
+| 2026-10-19 | Embodied Playground: A Long-Horizon Agentic Robotics Benchmark for Physical, Strategic, and Spatial Reasoning | Feng Chen, Pei Zhou, Lixuan He, Yunchao Yao et al. | [Abstract](https://arxiv.org/abs/2610.27039) · [PDF](https://arxiv.org/pdf/2610.27039) |
+| 2026-10-19 | AeroIntent: A Synchronized Multimodal Benchmark for UAV Mission Intent Recognition | Yutong Chen, Jingxin Mao, Zhiwei Wei, Bing Li et al. | [Abstract](https://arxiv.org/abs/2610.25869) · [PDF](https://arxiv.org/pdf/2610.25869) |
 | 2026-10-13 | RoboFQE: Rollout-Free Evaluation of Visual Robot Policies from Offline Trajectories | Yunfu Deng, Sangwoo Shin, Brahma S. Pavse, Josiah P. Hanna | [Abstract](https://arxiv.org/abs/2610.18699) · [PDF](https://arxiv.org/pdf/2610.18699) |
 | 2026-10-13 | HelpMeOut: A Neuropsychology-Grounded Benchmark for Error-Aware Monitoring of Household Task Execution | Haoran Wang, Jingwei Huang, Anqing Duan, Ho Seok Ahn et al. | [Abstract](https://arxiv.org/abs/2610.17694) · [PDF](https://arxiv.org/pdf/2610.17694) |
 | 2026-10-07 | Lifelong small-object navigation in changing object layouts: a benchmark and method | Jiagan Huang, Zikun Zhou, Zijian Ni, Hongpeng Wang et al. | [Abstract](https://arxiv.org/abs/2610.10125) · [PDF](https://arxiv.org/pdf/2610.10125) |

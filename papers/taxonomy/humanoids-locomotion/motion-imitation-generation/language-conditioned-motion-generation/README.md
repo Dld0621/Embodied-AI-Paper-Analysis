@@ -22,6 +22,7 @@ No conference papers currently map to this specialty.
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-17 | MOMO: Human Motion from Moving Sounds | Deli Cai, Shuyang Xu, Zhiyang Dou, Zitong Lan et al. | [Abstract](https://arxiv.org/abs/2610.24522) · [PDF](https://arxiv.org/pdf/2610.24522) |
 | 2026-10-09 | Sonic-AMG: Streaming Human Motion Generation from Spatial Audio | Jingcheng Ni, Zekun Li, Zhiyang Dou, Xiaoyan Cong et al. | [Abstract](https://arxiv.org/abs/2610.13300) · [PDF](https://arxiv.org/pdf/2610.13300) |
 | 2026-10-08 | A Physics-Informed Collision Learning Framework for Collaborative Robot Motion Generation | Chen Cai, Steven Liu | [Abstract](https://arxiv.org/abs/2610.12404) · [PDF](https://arxiv.org/pdf/2610.12404) |
 | 2026-10-05 | Controllable and Photorealistic Pedestrian Risky Motion Generation for End-to-End Driving Safety Evaluation | Siyuan Liu, Miao Li, Haibao Yu, Haohong Lin et al. | [Abstract](https://arxiv.org/abs/2610.06171) · [PDF](https://arxiv.org/pdf/2610.06171) |
@@ -86,7 +87,6 @@ No conference papers currently map to this specialty.
 | 2024-03-20 | Motion Generation from Fine-grained Textual Descriptions | Kunhang Li, Yansong Feng | [Abstract](https://arxiv.org/abs/2403.13518) · [PDF](https://arxiv.org/pdf/2403.13518) |
 | 2023-12-28 | InsActor: Instruction-driven Physics-based Characters | Jiawei Ren, Mingyuan Zhang, Cunjun Yu, Xiao Ma et al. | [Abstract](https://arxiv.org/abs/2312.17135) · [PDF](https://arxiv.org/pdf/2312.17135) |
 | 2023-12-19 | MotionScript: Natural Language Descriptions for Expressive 3D Human Motions | Payam Jome Yazdian, Rachel Lagasse, Hamid Mohammadi, Eric Liu et al. | [Abstract](https://arxiv.org/abs/2312.12634) · [PDF](https://arxiv.org/pdf/2312.12634) |
-| 2023-10-26 | cuRobo: Parallelized Collision-Free Minimum-Jerk Robot Motion Generation | Balakumar Sundaralingam, Siva Kumar Sastry Hari, Adam Fishman, Caelan Garrett et al. | [Abstract](https://arxiv.org/abs/2310.17274) · [PDF](https://arxiv.org/pdf/2310.17274) |
 
 ---
 

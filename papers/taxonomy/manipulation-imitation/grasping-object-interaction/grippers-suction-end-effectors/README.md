@@ -105,6 +105,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | Flexibility-Aware Robotic Manipulation: Deformation Estimation, Kinematics, and Control via Distributed Inertial Measurement | Amir Hossein Barjini, Sadeq Yaqubi, Pauli Mustalahti, Jouni Mattila | [Abstract](https://arxiv.org/abs/2610.41702) · [PDF](https://arxiv.org/pdf/2610.41702) |
+| 2026-10-29 | SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing | Yunchu Zhang, Ray Song, Junhan Jiao, Liyiming Ke et al. | [Abstract](https://arxiv.org/abs/2610.40646) · [PDF](https://arxiv.org/pdf/2610.40646) |
+| 2026-10-27 | OpenJaws: An Open Hardware UMI Framework with Stereo Localization for Generalist Manipulation | Adithyavairavan Murali, Yash Oza, Karanbir Chahal, Neel Jawale et al. | [Abstract](https://arxiv.org/abs/2610.36598) · [PDF](https://arxiv.org/pdf/2610.36598) |
+| 2026-10-25 | AuRA: From Atoms to Bits through Autonomous Robot Interaction | Xinchen Yu, Yoonkyo Jung, Haoran Chen, Zikui Cai et al. | [Abstract](https://arxiv.org/abs/2610.34452) · [PDF](https://arxiv.org/pdf/2610.34452) |
+| 2026-10-20 | EventSync: Event-Driven Memory Updates for History-Dependent Manipulation | Jingjiao Zhao, Dong Jing, Mingyu Cao, Ruochuan Shi et al. | [Abstract](https://arxiv.org/abs/2610.27917) · [PDF](https://arxiv.org/pdf/2610.27917) |
+| 2026-10-17 | Touch Where It Matters: Learning Local Tactile Policies for Fine-Grained Gripper Control | Mingyuan Ba, Yanan Zhou, James Zhao, Weiming Zhi | [Abstract](https://arxiv.org/abs/2610.24485) · [PDF](https://arxiv.org/pdf/2610.24485) |
 | 2026-10-16 | Embodiment-Aware Planning for Heterogeneous Bimanual Manipulation | Sukhvansh Jain, Anurag Maurya, Shivam Vats, Narendra Kumar Dhar et al. | [Abstract](https://arxiv.org/abs/2610.23551) · [PDF](https://arxiv.org/pdf/2610.23551) |
 | 2026-10-13 | TacSpin: Tactile Tracking of In-Gripper Object Rotation on SO(3) via Axis-Magnitude Estimation | Yuhao Wu, Linhao Song, Huan Yin | [Abstract](https://arxiv.org/abs/2610.17574) · [PDF](https://arxiv.org/pdf/2610.17574) |
 | 2026-10-13 | Force Sensor-Based Picking Pattern Analysis and Two-Jaw Gripper Design for Cherry Tomato Robotic Harvesting in Greenhouse | Rajmeet Singh, Manveen Kaur, Yusuf Adamu, Irfan Hussain | [Abstract](https://arxiv.org/abs/2610.18160) · [PDF](https://arxiv.org/pdf/2610.18160) |
@@ -449,12 +455,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-07 | Towards Autonomous Crop Monitoring: Inserting Sensors in Cluttered Environments | Moonyoung Lee, Aaron Berger, Dominic Guri, Kevin Zhang et al. | [Abstract](https://arxiv.org/abs/2311.03697) · [PDF](https://arxiv.org/pdf/2311.03697) |
 | 2023-11-06 | CLIP-Motion: Learning Reward Functions for Robotic Actions Using Consecutive Observations | Xuzhe Dang, Stefan Edelkamp | [Abstract](https://arxiv.org/abs/2311.03485) · [PDF](https://arxiv.org/pdf/2311.03485) |
 | 2023-11-03 | HASHI: Highly Adaptable Seafood Handling Instrument for Manipulation in Industrial Settings | Austin Allison, Nathaniel Hanson, Sebastian Wicke, Taşkın Padır | [Abstract](https://arxiv.org/abs/2311.02277) · [PDF](https://arxiv.org/pdf/2311.02277) |
-| 2023-11-01 | An Integrated Approach to Aerial Grasping: Combining a Bistable Gripper with Adaptive Control | Rishabh Dev Yadav, Brycen Jones, Saksham Gupta, Amitabh Sharma et al. | [Abstract](https://arxiv.org/abs/2311.00769) · [PDF](https://arxiv.org/pdf/2311.00769) |
-| 2023-11-01 | A Modular Pneumatic Soft Gripper Design for Aerial Grasping and Landing | Hiu Ching Cheung, Ching-Wei Chang, Bailun Jiang, Chih-Yung Wen et al. | [Abstract](https://arxiv.org/abs/2311.00390) · [PDF](https://arxiv.org/pdf/2311.00390) |
-| 2023-10-28 | Enhancing Grasping Performance of Novel Objects through an Improved Fine-Tuning Process | Xiao Hu, Xiangsheng Chen | [Abstract](https://arxiv.org/abs/2310.18569) · [PDF](https://arxiv.org/pdf/2310.18569) |
-| 2023-10-27 | Parallel-Jaw Gripper and Grasp Co-Optimization for Sets of Planar Objects | Rebecca H. Jiang, Neel Doshi, Ravi Gondhalekar, Alberto Rodriguez | [Abstract](https://arxiv.org/abs/2310.18425) · [PDF](https://arxiv.org/pdf/2310.18425) |
-| 2023-10-26 | Single-Motor Robotic Gripper With Three Functional Modes for Grasping in Confined Spaces | Toshihiro Nishimura, Tetsuyou Watanabe | [Abstract](https://arxiv.org/abs/2310.17192) · [PDF](https://arxiv.org/pdf/2310.17192) |
-| 2023-10-21 | Initial Analysis of Data-Driven Haptic Search for the Smart Suction Cup | Jungpyo Lee, Sebastian D. Lee, Tae Myung Huh, Hannah S. Stuart | [Abstract](https://arxiv.org/abs/2401.06354) · [PDF](https://arxiv.org/pdf/2401.06354) |
 
 ---
 

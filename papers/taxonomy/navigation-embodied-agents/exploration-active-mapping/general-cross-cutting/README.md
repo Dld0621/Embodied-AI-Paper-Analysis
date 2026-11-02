@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Exploration%20%26%20Active%20Mapping&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 89 conference papers · 245 recent arXiv papers
+> 89 conference papers · 253 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -108,10 +108,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Smart Explorer: Recognizing Objects in Dense Clutter via Interactive Exploration | IROS · Exploration | [Paper](https://arxiv.org/pdf/2208.03496) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981813) |
 | 2022 | Resilient Multi-Sensor Exploration of Multifarious Environments with a Team of Aerial Robots | RSS · Exploration | [Paper](https://doi.org/10.15607/rss.2022.xviii.004) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.004) |
 
-## Recent arXiv papers (245)
+## Recent arXiv papers (253)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-28 | Explore Where It Matters: Targeted Exploration for Efficient Rover Adaptation | Jacob Levy, Arthur Bouton, Tristan D. Hassler, Hari Nayar et al. | [Abstract](https://arxiv.org/abs/2610.38657) · [PDF](https://arxiv.org/pdf/2610.38657) |
+| 2026-10-27 | Remember Where You Walk: Learning Spatial Memory for End-to-End Legged Robot Exploration | Leon Magnus, Nico Bohlinger, Jan Peters, Oleg Arenz | [Abstract](https://arxiv.org/abs/2610.37203) · [PDF](https://arxiv.org/pdf/2610.37203) |
+| 2026-10-26 | VISTA: Active Exploration for Self-Improvement in Embodied Agents | Zhang Zhang, Shengjun Zhang, Simin Huang, Min Chen et al. | [Abstract](https://arxiv.org/abs/2610.35051) · [PDF](https://arxiv.org/pdf/2610.35051) |
+| 2026-10-26 | Bridging Exploration and Loss of Plasticity in On-Policy Reinforcement Learning | Andrea Vasco Grieco, Evelyn D'Elia, Edoardo Caldarelli, Raffaello Camoriano | [Abstract](https://arxiv.org/abs/2610.36309) · [PDF](https://arxiv.org/pdf/2610.36309) |
+| 2026-10-25 | Intrinsic Goals for Autonomous Agents: Hierarchical Exploration Captures Future Volitional Action in Drosophila | Declan Kutscher, Reece Keller, Alyn Kirsch, Felix Pei et al. | [Abstract](https://arxiv.org/abs/2610.34638) · [PDF](https://arxiv.org/pdf/2610.34638) |
+| 2026-10-24 | Sybil-Resilient Multi-Drone Exploration of Indoor and Confined Spaces | Shyaam Mahesh, Aditya B Prakash, Rubal Sagwal, Avinash Gautam | [Abstract](https://arxiv.org/abs/2610.33906) · [PDF](https://arxiv.org/pdf/2610.33906) |
+| 2026-10-24 | ReSight: Task-Driven Self-Improving Memory for Embodied Agents | Lirong Che, Yang Chen, Yimeng Su, Daqi Liu et al. | [Abstract](https://arxiv.org/abs/2610.33487) · [PDF](https://arxiv.org/pdf/2610.33487) |
+| 2026-10-21 | Asymmetric On-Policy Distillation Learns In-Context Exploration | Sriyash Poddar, Yanda Bao, Jacob Krantz, Matthew Chang et al. | [Abstract](https://arxiv.org/abs/2610.30105) · [PDF](https://arxiv.org/pdf/2610.30105) |
+| 2026-10-20 | MAPLE: Mondrian-Anchored Prior for Learning-free Indoor Exploration | Kelvin Aladum, Nisar Ahmed | [Abstract](https://arxiv.org/abs/2610.28566) · [PDF](https://arxiv.org/pdf/2610.28566) |
+| 2026-10-20 | Design and implementation of thermal control strategy for micro-size lunar exploration rover hakuto | Toshiki Tanaka, Takuto Oikawa, Keeni Shruti, Teruhito Iida et al. | [Abstract](https://arxiv.org/abs/2610.28127) · [PDF](https://arxiv.org/pdf/2610.28127) |
+| 2026-10-18 | Compile Once, Run Cheap: Frozen, Portable Skills for Embodied Agents, and What Recursive Self-Improvement Adds | Jingwen Bai, Guochao Bai, Canbo Zhang, Shuangqi Li et al. | [Abstract](https://arxiv.org/abs/2610.25114) · [PDF](https://arxiv.org/pdf/2610.25114) |
 | 2026-10-16 | SenseSwarm: Swarm Exploration via Neural Structure Estimation with Shared World-Anticipation for Rapid Mapping | Haohua Que, Haojia Gao, Mingkai Liu, Hoiian Au et al. | [Abstract](https://arxiv.org/abs/2610.22905) · [PDF](https://arxiv.org/pdf/2610.22905) |
 | 2026-10-15 | Scaling Online Exploration for Robot Agents | Runhan Huang, Xiangcheng Zhang, Haoyu Chen, Yitong Li et al. | [Abstract](https://arxiv.org/abs/2610.22496) · [PDF](https://arxiv.org/pdf/2610.22496) |
 | 2026-10-08 | A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control | Octi Zhang, Mateo Guaman Castro, Patrick Yin, Ignacio Dagnino et al. | [Abstract](https://arxiv.org/abs/2610.12465) · [PDF](https://arxiv.org/pdf/2610.12465) |
@@ -151,6 +162,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-26 | Try Once, Then Optimal: De-Redundified Procedure Memory for Cross-Episode Exploration Amortization | Haizhou Ge, Haochen Ouyang, Zhixing Chen, Yufei Jia et al. | [Abstract](https://arxiv.org/abs/2607.23702) · [PDF](https://arxiv.org/pdf/2607.23702) |
 | 2026-07-17 | Beyond Frontiers: Scene-Anomaly Guided Autonomous Exploration | Akash Kumbar, Abhinav Raundhal, Madhava Krishna | [Abstract](https://arxiv.org/abs/2607.15828) · [PDF](https://arxiv.org/pdf/2607.15828) |
 | 2026-07-14 | Directional Constraints for Efficient Exploration in Safe Reinforcement Learning | Paolo Magliano, Puze Liu, Jan Peters, Davide Tateo et al. | [Abstract](https://arxiv.org/abs/2607.12784) · [PDF](https://arxiv.org/pdf/2607.12784) |
+| 2026-07-10 | Dec-MARVEL: Decentralized Multi-Agent Exploration without Communication under Budget Constraints | Janghyun Cho, Jimmy Chiun, Guillaume Sartoretti, Changjoo Nam | [Abstract](https://arxiv.org/abs/2607.09060) · [PDF](https://arxiv.org/pdf/2607.09060) |
 | 2026-06-28 | SPACE: Swarm Pheromone Fields for Adaptive Collision-Aware Exploration | Haohua Que, Haojia Gao, Mingkai Liu, Qian Zhang et al. | [Abstract](https://arxiv.org/abs/2606.29372) · [PDF](https://arxiv.org/pdf/2606.29372) |
 | 2026-06-27 | Keypose Exploration: Efficient Automatic Trajectory Labelling and Cross-Embodiment Policy Transfer | Yupu Lu, Hang Xu, Yizhou Chen, Jia Pan | [Abstract](https://arxiv.org/abs/2606.29028) · [PDF](https://arxiv.org/pdf/2606.29028) |
 | 2026-06-23 | TACTFUL: Tactile-Driven Exploration For Object Localization and Identification in Confined Environments | Shivani Kamtikar, Chung Hee Kim, Camilla Tabasso, Tye Brady et al. | [Abstract](https://arxiv.org/abs/2606.24712) · [PDF](https://arxiv.org/pdf/2606.24712) |
@@ -353,10 +365,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-15 | A novel concept for Titan robotic exploration based on soft morphing aerial robots | Fernando Ruiz, Begona Arrue, Anibal Ollero | [Abstract](https://arxiv.org/abs/2311.08952) · [PDF](https://arxiv.org/pdf/2311.08952) |
 | 2023-11-06 | Modularity for lunar exploration: European Moon Rover System Pre-Phase A Design and Field Test Campaign Results | Cristina Luna, Jorge Barrientos-Díez, Manuel Esquer, Alba Guerra et al. | [Abstract](https://arxiv.org/abs/2311.03098) · [PDF](https://arxiv.org/pdf/2311.03098) |
 | 2023-11-02 | Multi-agent robotic systems and exploration algorithms: Applications for data collection in construction sites | Samuel A. Prieto, Nikolaos Giakoumidis, Borja Garcia de Soto | [Abstract](https://arxiv.org/abs/2311.01078) · [PDF](https://arxiv.org/pdf/2311.01078) |
-| 2023-10-30 | Efficient Exploration in Continuous-time Model-based Reinforcement Learning | Lenart Treven, Jonas Hübotter, Bhavya Sukhija, Florian Dörfler et al. | [Abstract](https://arxiv.org/abs/2310.19848) · [PDF](https://arxiv.org/pdf/2310.19848) |
-| 2023-10-27 | Autonomous 3D Exploration in Large-Scale Environments with Dynamic Obstacles | Emil Wiman, Ludvig Widén, Mattias Tiger, Fredrik Heintz | [Abstract](https://arxiv.org/abs/2310.17977) · [PDF](https://arxiv.org/pdf/2310.17977) |
-| 2023-10-26 | Navigating to Success in Multi-Modal Human-Robot Collaboration: Analysis and Corpus Release | Stephanie M. Lukin, Kimberly A. Pollard, Claire Bonial, Taylor Hudson et al. | [Abstract](https://arxiv.org/abs/2310.17568) · [PDF](https://arxiv.org/pdf/2310.17568) |
-| 2023-10-24 | GO-FEAP: Global Optimal UAV Planner Using Frontier-Omission-Aware Exploration and Altitude-Stratified Planning | Weiye Zhang, Wenshuai Yu, Licong Zhuang, Xiaoyi Zhang et al. | [Abstract](https://arxiv.org/abs/2310.15931) · [PDF](https://arxiv.org/pdf/2310.15931) |
 
 ---
 

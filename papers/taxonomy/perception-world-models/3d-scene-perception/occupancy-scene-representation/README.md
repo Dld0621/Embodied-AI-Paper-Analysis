@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=Occupancy%20%26%20Scene%20Representation#research-workbench)
 
-> 7 conference papers · 79 recent arXiv papers
+> 7 conference papers · 80 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization | RSS · 3D Scene | [Paper](https://arxiv.org/pdf/2201.13360) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.050) |
 | 2022 | iSDF: Real-Time Neural Signed Distance Fields for Robot Perception | RSS · Robot Perception | [Paper](https://arxiv.org/abs/2204.02296) · [Publisher](https://doi.org/10.48550/arXiv.2204.02296) |
 
-## Recent arXiv papers (79)
+## Recent arXiv papers (80)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-20 | CoGaussian: Open-Vocabulary Gaussian-based Collaborative 3D Scene Understanding | Om Shivam Verma, Shaya Farahmand, Lingjun Zhao, Lu Gan | [Abstract](https://arxiv.org/abs/2610.28530) · [PDF](https://arxiv.org/pdf/2610.28530) |
 | 2026-10-13 | RadarGSOcc: Doppler-Aware 3D Semantic Occupancy Prediction Using 4D Radar Tensor with Geometric-Semantic Feature Extraction | Christofel Rio Goenawan, Dong-Hee Paek, Seung-Hyun Kong | [Abstract](https://arxiv.org/abs/2610.18686) · [PDF](https://arxiv.org/pdf/2610.18686) |
 | 2026-10-11 | GNFormer: Gaussian Neural Field Transformer for Efficient Camera-based Occupancy Prediction | Guangcheng Chen, Li He, Hong Zhang | [Abstract](https://arxiv.org/abs/2610.15522) · [PDF](https://arxiv.org/pdf/2610.15522) |
 | 2026-10-03 | SelectOccFlow: Selective Spatiotemporal Aggregation for 3D Occupancy and Scene Flow Prediction | Yuhang Wang, Kai Luo, Yuanfan Zheng, Kailun Yang | [Abstract](https://arxiv.org/abs/2610.04356) · [PDF](https://arxiv.org/pdf/2610.04356) |
@@ -81,7 +82,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-04-02 | Preference-Driven Active 3D Scene Representation for Robotic Inspection in Nuclear Decommissioning | Zhen Meng, Kan Chen, Xiangmin Xu, Erwin Jose Lopez Pulgarin et al. | [Abstract](https://arxiv.org/abs/2504.02161) · [PDF](https://arxiv.org/pdf/2504.02161) |
 | 2025-03-26 | Omnidirectional Depth-Aided Occupancy Prediction based on Cylindrical Voxel for Autonomous Driving | Chaofan Wu, Jiaheng Li, Jinghao Cao, Ming Li et al. | [Abstract](https://arxiv.org/abs/2504.01023) · [PDF](https://arxiv.org/pdf/2504.01023) |
 | 2025-03-11 | Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding | Tim Steinke, Martin Büchner, Niclas Vödisch, Abhinav Valada | [Abstract](https://arxiv.org/abs/2503.08474) · [PDF](https://arxiv.org/pdf/2503.08474) |
-| 2025-03-10 | Delta-Triplane Transformers as Occupancy World Models | Haoran Xu, Peixi Peng, Guang Tan, Yiqian Chang et al. | [Abstract](https://arxiv.org/abs/2503.07338) · [PDF](https://arxiv.org/pdf/2503.07338) |
+| 2025-03-10 | Aligned Delta-Triplane Transformers as Occupancy World Models | Haoran Xu, Peixi Peng, Shijun Guo, Guang Tan et al. | [Abstract](https://arxiv.org/abs/2503.07338) · [PDF](https://arxiv.org/pdf/2503.07338) |
 | 2025-03-04 | A comparison of visual representations for real-world reinforcement learning in the context of vacuum gripping | Nico Sutter, Valentin N. Hartmann, Stelian Coros | [Abstract](https://arxiv.org/abs/2503.02405) · [PDF](https://arxiv.org/pdf/2503.02405) |
 | 2025-03-03 | DYNEMO-SLAM: Dynamic Entity and Motion-Aware 3D Scene Graph SLAM | Marco Giberna, Muhammad Shaheer, Miguel Fernandez-Cortizas, Jose Andres Millan-Romera et al. | [Abstract](https://arxiv.org/abs/2503.02050) · [PDF](https://arxiv.org/pdf/2503.02050) |
 | 2024-12-13 | GaussianAD: Gaussian-Centric End-to-End Autonomous Driving | Wenzhao Zheng, Junjie Wu, Yao Zheng, Sicheng Zuo et al. | [Abstract](https://arxiv.org/abs/2412.10371) · [PDF](https://arxiv.org/pdf/2412.10371) |

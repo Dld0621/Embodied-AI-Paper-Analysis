@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Multi-agent%20%26%20Social%20Navigation&specialty=Swarm%20Navigation%20%26%20Formation#research-workbench)
 
-> 4 conference papers · 43 recent arXiv papers
+> 4 conference papers · 42 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,7 +23,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Robot Swarm Control Based on Smoothed Particle Hydrodynamics for Obstacle-Unaware Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2404.16309) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801800) |
 | 2022 | Barrier Function-based Safe Reinforcement Learning for Formation Control of Mobile Robots | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/icra46639.2022.9811604) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811604) |
 
-## Recent arXiv papers (43)
+## Recent arXiv papers (42)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -31,7 +31,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-27 | Quality-Adaptive Multi-UAV 3D Reconstruction with Sparse Workload Redistribution | Benjamin Sportich, Kenza Boubakri, Olivier Simonin, Alessandro Renzaglia | [Abstract](https://arxiv.org/abs/2607.24233) · [PDF](https://arxiv.org/pdf/2607.24233) |
 | 2026-05-13 | Uncertainty-Aware 3D Position Refinement for Multi-UAV Systems | Hosam Alamleh, Damir Pulatov | [Abstract](https://arxiv.org/abs/2605.13500) · [PDF](https://arxiv.org/pdf/2605.13500) |
 | 2026-03-30 | A Classification of Heterogeneity in Uncrewed Vehicle Swarms and the Effects of Its Inclusion on Overall Swarm Resilience | Abhishek Joshi, Abhishek Phadke, Tianxing Chu, F. Antonio Medrano | [Abstract](https://arxiv.org/abs/2603.28831) · [PDF](https://arxiv.org/pdf/2603.28831) |
-| 2026-03-27 | SwarmCoDe: A Scalable Co-Design Framework for Heterogeneous Robot Swarms via Dynamic Speciation | Andrew Wilhelm, Josie Hughes | [Abstract](https://arxiv.org/abs/2603.26240) · [PDF](https://arxiv.org/pdf/2603.26240) |
 | 2026-03-13 | GoalSwarm: Multi-UAV Semantic Coordination for Open-Vocabulary Object Navigation | MoniJesu Wonders James, Amir Atef Habel, Aleksey Fedoseev, Dzmitry Tsetserokou | [Abstract](https://arxiv.org/abs/2603.12908) · [PDF](https://arxiv.org/pdf/2603.12908) |
 | 2026-03-09 | Perception-Aware Communication-Free Multi-UAV Coordination in the Wild | Manuel Boldrer, Michal Kamler, Afzal Ahmad, Martin Saska | [Abstract](https://arxiv.org/abs/2603.08379) · [PDF](https://arxiv.org/pdf/2603.08379) |
 | 2026-02-25 | Position-Based Flocking for Persistent Alignment without Velocity Sensing | Hossein B. Jond, Veli Bakırcıoğlu, Logan E. Beaver, Nejat Tükenmez et al. | [Abstract](https://arxiv.org/abs/2602.22154) · [PDF](https://arxiv.org/pdf/2602.22154) |

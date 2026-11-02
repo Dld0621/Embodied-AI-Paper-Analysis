@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Force%2C%20Contact%20%26%20Slip%20Perception#research-workbench)
 
-> 17 conference papers · 15 recent arXiv papers
+> 17 conference papers · 17 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -36,10 +36,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | DenseTact 2.0: Optical Tactile Sensor for Shape and Force Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/abs/2209.10122) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161150) |
 | 2023 | RobotSweater: Scalable, Generalizable, and Customizable Machine-Knitted Tactile Skins for Robots | ICRA · Tactile | [Paper](https://arxiv.org/abs/2303.02858) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161321) |
 
-## Recent arXiv papers (15)
+## Recent arXiv papers (17)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-29 | Tactus: Tactile & Pose Sensing Glove for Natural Dexterity Data Collection | Li Guan, Rachael Granberry, Sahar Aseeri, Sahar Rostami et al. | [Abstract](https://arxiv.org/abs/2610.39076) · [PDF](https://arxiv.org/pdf/2610.39076) |
+| 2026-10-22 | VecTile: A Low-Cost Flexible Tactile Array for 3-DoF Force Sensing | Jian Hou, Xin Zhou, Adam J. Spiers | [Abstract](https://arxiv.org/abs/2610.31472) · [PDF](https://arxiv.org/pdf/2610.31472) |
 | 2026-09-14 | SlipSense: Multimodal Tactile Learning for Low-Latency and Generalized Slip Detection | Tong Jian, Aditya Thurvas Senthil Kumar, Xinyi Li, Ziling Chen et al. | [Abstract](https://arxiv.org/abs/2609.15910) · [PDF](https://arxiv.org/pdf/2609.15910) |
 | 2026-09-01 | A Wearable Pneumatic Device for Continuous, Closed-Loop, Bidirectional Tactile Interaction | Cosima du Pasquier, Aliyah Smith, Serin Huber, Joshua Phelps et al. | [Abstract](https://arxiv.org/abs/2609.00612) · [PDF](https://arxiv.org/pdf/2609.00612) |
 | 2026-08-25 | Robust Slip Detection and Material Classification via Spatiotemporal Transformers on a Uniformly-Illuminated Visuo-Tactile Sensor | Ziyang Ma, Yuhao Sun, Zichen Ai, Xiangyang Ji et al. | [Abstract](https://arxiv.org/abs/2608.24162) · [PDF](https://arxiv.org/pdf/2608.24162) |

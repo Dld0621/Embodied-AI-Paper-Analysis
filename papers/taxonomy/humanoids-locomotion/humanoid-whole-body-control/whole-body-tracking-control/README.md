@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Humanoid%20Whole-body%20Control&specialty=Whole-body%20Tracking%20%26%20Control#research-workbench)
 
-> 41 conference papers · 243 recent arXiv papers
+> 41 conference papers · 261 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -60,10 +60,28 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Whole-Body Control of Series-Parallel Hybrid Robots | ICRA · Whole Body | [Paper](https://doi.org/10.1109/icra46639.2022.9811616) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811616) |
 | 2022 | An Adaptive Approach to Whole-Body Balance Control of Wheel-Bipedal Robot Ollie | IROS · Biped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981985) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981985) |
 
-## Recent arXiv papers (243)
+## Recent arXiv papers (261)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | HIPC: Humanoid Iterative Planning and Control via Goal-Conditioned Motion Closure | Yi Han, Xingyu Chen, Zixuan Lang, Qianyang Wu et al. | [Abstract](https://arxiv.org/abs/2610.41334) · [PDF](https://arxiv.org/pdf/2610.41334) |
+| 2026-10-30 | DiffWBC: Unlocking Steerable General Humanoid Motion Tracking via One-Step Diffusion Whole-Body Control | Yifei Huang, Yazhao Yang, Weijia Li, Zhiheng Ma et al. | [Abstract](https://arxiv.org/abs/2610.41354) · [PDF](https://arxiv.org/pdf/2610.41354) |
+| 2026-10-30 | $\nabla$Mimic: Ultra-Efficient Humanoid Control with Differentiable Simulation | Weyl Lu, Yubei Chen | [Abstract](https://arxiv.org/abs/2610.41654) · [PDF](https://arxiv.org/pdf/2610.41654) |
+| 2026-10-29 | CuPIQP: A Batched and Differentiable QP Solver on GPUs for Robot Learning and Control | Fenglong Song, Roland Schwan, Yuwen Chen, Yuning Jiang et al. | [Abstract](https://arxiv.org/abs/2610.41021) · [PDF](https://arxiv.org/pdf/2610.41021) |
+| 2026-10-27 | Whole-Body Humanoid Control via Stochastic Motion Tokenization | Michael Drolet, Oleg Arenz, Jan Peters | [Abstract](https://arxiv.org/abs/2610.36452) · [PDF](https://arxiv.org/pdf/2610.36452) |
+| 2026-10-27 | FORGE: Feasible Online Reduced-Order Reference Generation and Whole-Body Execution for Agile Humanoid Locomotion | Adrian B. Ghansah, Yujin An, Jeeseop Kim, Soon-Jo Chung | [Abstract](https://arxiv.org/abs/2610.37974) · [PDF](https://arxiv.org/pdf/2610.37974) |
+| 2026-10-25 | HumanoidNDM: Closing the Training-Deployment Gap of Motion Tracking via Humanoid Neural Dynamics Model | Chao Chen, Zhenrong Wang, Jilong Wang, Yusen Feng et al. | [Abstract](https://arxiv.org/abs/2610.34126) · [PDF](https://arxiv.org/pdf/2610.34126) |
+| 2026-10-24 | MimicAll: Structured Embodiment Conditioning for Cross-Humanoid Whole-Body Motion Tracking | Jia Li, Lingyun Xu, Yitang Li, Hao Zhao | [Abstract](https://arxiv.org/abs/2610.33508) · [PDF](https://arxiv.org/pdf/2610.33508) |
+| 2026-10-23 | ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback | Zimo He, Tianyi Bian, Zizhong Yang, Hongjie Li et al. | [Abstract](https://arxiv.org/abs/2610.32966) · [PDF](https://arxiv.org/pdf/2610.32966) |
+| 2026-10-23 | HoloBoxing: A Simple Recipe for Humanoid Boxing with 7 Minutes of Single-GPU Training | Xihan Ma, Bo Zhang, Boxiong Li, Yuhan Bao et al. | [Abstract](https://arxiv.org/abs/2610.32909) · [PDF](https://arxiv.org/pdf/2610.32909) |
+| 2026-10-23 | Delay Randomization Widens the Delay Margin of Learned Humanoid Motion Trackers | Shaoqin Li, Yi Sun | [Abstract](https://arxiv.org/abs/2610.32277) · [PDF](https://arxiv.org/pdf/2610.32277) |
+| 2026-10-23 | CoCarry: Contact-Support-Structured Retargeting for Dual-Humanoid Cooperative Carrying | Ziyu Lin, Shihang Du, Tianhang Wang, Xiaodong Liu et al. | [Abstract](https://arxiv.org/abs/2610.32460) · [PDF](https://arxiv.org/pdf/2610.32460) |
+| 2026-10-21 | SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation | Zhaohui Yang, Quanbao Lin, Chengqi Shi, Zhenglang Weng et al. | [Abstract](https://arxiv.org/abs/2610.30044) · [PDF](https://arxiv.org/pdf/2610.30044) |
+| 2026-10-20 | SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model | Qiayuan Liao, Yiyang Shao, Junfeng Long, Kevin Zakka et al. | [Abstract](https://arxiv.org/abs/2610.28480) · [PDF](https://arxiv.org/pdf/2610.28480) |
+| 2026-10-20 | Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning | Daniel Marew, Sangjun Park, Nisal Perera, Donghyun Kim | [Abstract](https://arxiv.org/abs/2610.28470) · [PDF](https://arxiv.org/pdf/2610.28470) |
+| 2026-10-19 | RoboMMT: Learning Stable Tracking of Modulated Expressive and Interactive Robot Motion | Till Hielscher, Kai O. Arras | [Abstract](https://arxiv.org/abs/2610.26414) · [PDF](https://arxiv.org/pdf/2610.26414) |
+| 2026-10-19 | Determination of the Human-Robot Interaction Workspace for Robot Assisted Head Stabilization Control | Xinmin Liu, Alexander L. Van Slyke, Destinee Holloman, Ahmad Sakaamini et al. | [Abstract](https://arxiv.org/abs/2610.27336) · [PDF](https://arxiv.org/pdf/2610.27336) |
+| 2026-10-17 | Learning Structured Locomotion References for Optimization-Based Whole-Body Control | Ömer Tarık Banuş, Uluç Saranlı, M. Mert Ankaralı | [Abstract](https://arxiv.org/abs/2610.24779) · [PDF](https://arxiv.org/pdf/2610.24779) |
 | 2026-10-16 | Reinforcement Learning Based Multi-Terrain Adaptive Whole-Body Control for a Quadruped Manipulator | Yanzhou Jin, Fei Suo, Chang Liu, Yasuhisa Hasegawa et al. | [Abstract](https://arxiv.org/abs/2610.23548) · [PDF](https://arxiv.org/pdf/2610.23548) |
 | 2026-10-16 | BeJEPA: A Goal-Conditioned Humanoid Behavior World Model via Unsupervised RL | Liyun Yan, Haoyang Li, Yang Zhang, Jialing Zhu et al. | [Abstract](https://arxiv.org/abs/2610.23127) · [PDF](https://arxiv.org/pdf/2610.23127) |
 | 2026-10-15 | Compliant GMT: Making General Motion Tracking Compliant via Residual Reference Adaptation | Venki Parsuram, Michelle Wang, Jin-Hyuk Hong, Pulkit Agrawal | [Abstract](https://arxiv.org/abs/2610.22119) · [PDF](https://arxiv.org/pdf/2610.22119) |

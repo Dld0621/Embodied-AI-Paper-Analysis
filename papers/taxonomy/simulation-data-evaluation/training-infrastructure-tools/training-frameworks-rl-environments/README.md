@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Training%20Infrastructure%20%26%20Tools&specialty=Training%20Frameworks%20%26%20RL%20Environments#research-workbench)
 
-> 0 conference papers · 20 recent arXiv papers
+> 0 conference papers · 19 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (20)
+## Recent arXiv papers (19)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -41,7 +41,6 @@ No conference papers currently map to this specialty.
 | 2024-06-05 | Dynamically Expanding Capacity of Autonomous Driving with Near-Miss Focused Training Framework | Ziyuan Yang, Zhaoyang Li, Jianming Hu, Yi Zhang | [Abstract](https://arxiv.org/abs/2406.02865) · [PDF](https://arxiv.org/pdf/2406.02865) |
 | 2024-03-19 | Digital Twin-Driven Reinforcement Learning for Obstacle Avoidance in Robot Manipulators: A Self-Improving Online Training Framework | Yuzhu Sun, Mien Van, Stephen McIlvanna, Nguyen Minh Nhat et al. | [Abstract](https://arxiv.org/abs/2403.13090) · [PDF](https://arxiv.org/pdf/2403.13090) |
 | 2023-12-08 | Datasets, Models, and Algorithms for Multi-Sensor, Multi-agent Autonomy Using AVstack | R. Spencer Hallyburton, Miroslav Pajic | [Abstract](https://arxiv.org/abs/2312.04970) · [PDF](https://arxiv.org/pdf/2312.04970) |
-| 2023-10-22 | Learning to bag with a simulation-free reinforcement learning framework for robots | Francisco Munguia-Galeano, Jihong Zhu, Juan David Hernández, Ze Ji | [Abstract](https://arxiv.org/abs/2310.14398) · [PDF](https://arxiv.org/pdf/2310.14398) |
 
 ---
 

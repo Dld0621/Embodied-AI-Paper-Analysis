@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 36 conference papers · 191 recent arXiv papers
+> 36 conference papers · 198 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -45,7 +45,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | TacShade: A New 3D-printed Soft Optical Tactile Sensor Based on Light, Shadow and Greyscale for Shape Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2406.00485) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610508) |
 | 2024 | What Do We Learn from a Large-Scale Study of Pre-Trained Visual Representations in Sim and Real Environments? | ICRA · Visual Representation | [Paper](https://arxiv.org/pdf/2310.02219) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610218) |
 | 2024 | Commonsense Scene Graph-based Target Localization for Object Search | IROS · Scene Graph | [Paper](https://arxiv.org/pdf/2404.00343) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801656) |
-| 2024 | Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation | RSS · 3D Scene | [Paper](https://arxiv.org/pdf/2403.17846) · [Publisher](https://doi.org/10.15607/RSS.2024.XX.077) |
+| 2024 | Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation | RSS · 3D Scene | [Paper](https://doi.org/10.15607/rss.2024.xx.077) · [Publisher](https://doi.org/10.15607/RSS.2024.XX.077) |
 | 2023 | Context-Aware Entity Grounding with Open-Vocabulary 3D Scene Graphs | CoRL · 3D Scene | [Paper](https://arxiv.org/pdf/2309.15940) · [Publisher](https://doi.org/10.48550/arXiv.2309.15940) |
 | 2023 | 3D VSG: Long-term Semantic Scene Change Prediction through 3D Variable Scene Graphs | ICRA · Scene Graph | [Paper](https://arxiv.org/pdf/2209.07896) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161212) |
 | 2023 | A Comparison Between Framed-Based and Event-Based Cameras for Flapping-Wing Robot Perception | IROS · Robot Perception | [Paper](https://doi.org/10.1109/IROS55552.2023.10342500) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342500) |
@@ -55,10 +55,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Taskography: Evaluating robot task planning over large 3D scene graphs | CoRL · 3D Scene | [Paper](https://arxiv.org/abs/2207.05006) · [Publisher](https://doi.org/10.48550/arXiv.2207.05006) |
 | 2022 | DreamingV2: Reinforcement Learning with Discrete World Models without Reconstruction | IROS · World Model | [Paper](https://arxiv.org/pdf/2203.00494) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981405) |
 
-## Recent arXiv papers (191)
+## Recent arXiv papers (198)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-29 | PriorMaskMap: Robust Online Vectorized Map Construction with Biased Priors | Haoming Xu, Wei Li, Yu Hu | [Abstract](https://arxiv.org/abs/2610.39283) · [PDF](https://arxiv.org/pdf/2610.39283) |
+| 2026-10-29 | AquaProbe: Efficient Adaptation of Frozen Vision Models for Underwater Images | Md Shihabul Islam Shovo, Nishi Kanta Paul, Trung Dong, Xiaomin Lin | [Abstract](https://arxiv.org/abs/2610.40900) · [PDF](https://arxiv.org/pdf/2610.40900) |
+| 2026-10-28 | Controlling Continuum Robot Shape in Enclosed Space with Embedded Sensing using IMU and Actuator Feedback | Jiahe Wang, Sultan Haidar Ali, Eric Weissman, Jiefeng Sun | [Abstract](https://arxiv.org/abs/2610.39055) · [PDF](https://arxiv.org/pdf/2610.39055) |
+| 2026-10-26 | Thermal-Headroom Routing for Efficient Robot Perception in Extreme Heat | Sparsh Roy, Kevin Zhou, Arhaan Shah, Shreyan Garg et al. | [Abstract](https://arxiv.org/abs/2610.35231) · [PDF](https://arxiv.org/pdf/2610.35231) |
+| 2026-10-23 | Robust Offset-Free Lane-Keeping Control Framework for Vision-Only Automated Vehicles | Der-Hau Lee | [Abstract](https://arxiv.org/abs/2610.32666) · [PDF](https://arxiv.org/pdf/2610.32666) |
+| 2026-10-22 | RGraph-Eval: Task-Grounded Scene Graphs for Evaluating Robot Video Generation | Aleksandr Lazarev, Sofia Zimina, Roman Kuznetsov, Tatiana Zemskova et al. | [Abstract](https://arxiv.org/abs/2610.31121) · [PDF](https://arxiv.org/pdf/2610.31121) |
+| 2026-10-22 | CMAR-search: Commonsense and Memory Augmented Reasoning for Object Search in Dynamic Interactive Environments | Kaiyao Liao, Qingfeng Li, Xinlei Zhang, Chen Chen et al. | [Abstract](https://arxiv.org/abs/2610.30606) · [PDF](https://arxiv.org/pdf/2610.30606) |
+| 2026-10-20 | Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs | Noam Rotstein, Yoad Tewel, Chen Tessler, Haggai Maron et al. | [Abstract](https://arxiv.org/abs/2610.28632) · [PDF](https://arxiv.org/pdf/2610.28632) |
+| 2026-10-16 | Where Planning Changes the Outcome of Orbital Games | Duncan Eddy, Mahdi Al-Husseini, Mykel J. Kochenderfer | [Abstract](https://arxiv.org/abs/2610.37686) · [PDF](https://arxiv.org/pdf/2610.37686) |
 | 2026-10-16 | Foundation-Model-Driven 3D Scene Graphs for Mobile Manipulation | Dominic Maggio, Lorenzo Shaikewitz, Aryan Naveen, Kris Hauser et al. | [Abstract](https://arxiv.org/abs/2610.23622) · [PDF](https://arxiv.org/pdf/2610.23622) |
 | 2026-10-15 | GeoState: Learning View-Decoupled Geometry States for 3D World Modeling | Hongchang Liu, Jian Liu, Yujuan Ding, Liang Peng et al. | [Abstract](https://arxiv.org/abs/2610.22343) · [PDF](https://arxiv.org/pdf/2610.22343) |
 | 2026-10-08 | Traceable World State: A Provenance-Aware State Representation and Deterministic Replay Framework for Robotic Systems | Zoe Li | [Abstract](https://arxiv.org/abs/2610.12033) · [PDF](https://arxiv.org/pdf/2610.12033) |
@@ -109,7 +118,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-05-07 | Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models | Nilaksh, Saurav Jha, Artem Zholus, Sarath Chandar | [Abstract](https://arxiv.org/abs/2605.06388) · [PDF](https://arxiv.org/pdf/2605.06388) |
 | 2026-04-30 | Predictive Spatio-Temporal Scene Graphs for Semi-Static Scenes | Miguel Saavedra-Ruiz, Charlie Gauthier, Kumaraditya Gupta, Shima Shahfar et al. | [Abstract](https://arxiv.org/abs/2605.00121) · [PDF](https://arxiv.org/pdf/2605.00121) |
 | 2026-04-17 | PLAF: Pixel-wise Language-Aligned Feature Extraction for Efficient 3D Scene Understanding | Junjie Wen, Junlin He, Fei Ma, Jinqiang Cui | [Abstract](https://arxiv.org/abs/2604.15770) · [PDF](https://arxiv.org/pdf/2604.15770) |
-| 2026-04-17 | Factor Graph-Based Shape Estimation for Continuum Robots via Magnus Expansion | Lorenzo Ticozzi, Patricio A. Vela, Panagiotis Tsiotras | [Abstract](https://arxiv.org/abs/2604.15619) · [PDF](https://arxiv.org/pdf/2604.15619) |
 | 2026-04-13 | Diffusion Reinforcement Learning Based Online 3D Bin Packing Spatial Strategy Optimization | Jie Han, Tong Li, Qingyang Xu, Yong Song et al. | [Abstract](https://arxiv.org/abs/2604.10953) · [PDF](https://arxiv.org/pdf/2604.10953) |
 | 2026-03-30 | Pandora: Articulated 3D Scene Graphs from Egocentric Vision | Alan Yu, Yun Chang, Christopher Xie, Luca Carlone | [Abstract](https://arxiv.org/abs/2603.28732) · [PDF](https://arxiv.org/pdf/2603.28732) |
 | 2026-03-30 | Effort-Based Criticality Metrics for Evaluating 3D Perception Errors in Autonomous Driving | Sharang Kaul, Simon Bultmann, Mario Berk, Abhinav Valada | [Abstract](https://arxiv.org/abs/2603.28029) · [PDF](https://arxiv.org/pdf/2603.28029) |
@@ -160,7 +168,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-10-13 | J-ORA: A Framework and Multimodal Dataset for Japanese Object Identification, Reference, Action Prediction in Robot Perception | Jesse Atuhurra, Hidetaka Kamigaito, Taro Watanabe, Koichiro Yoshino | [Abstract](https://arxiv.org/abs/2510.21761) · [PDF](https://arxiv.org/pdf/2510.21761) |
 | 2025-10-09 | Gaze on the Prize: Shaping Visual Attention with Return-Guided Contrastive Learning | Andrew Lee, Ian Chuang, Dechen Gao, Kai Fukazawa et al. | [Abstract](https://arxiv.org/abs/2510.08442) · [PDF](https://arxiv.org/pdf/2510.08442) |
 | 2025-10-08 | Introspection in Learned Semantic Scene Graph Localisation | Manshika Charvi Bissessur, Efimia Panagiotaki, Daniele De Martini | [Abstract](https://arxiv.org/abs/2510.07053) · [PDF](https://arxiv.org/pdf/2510.07053) |
-| 2025-10-06 | CLEAR-IR: Clarity-Enhanced Active Reconstruction of Infrared Imagery | Nathan Shankar, Pawel Ladosz, Hujun Yin | [Abstract](https://arxiv.org/abs/2510.04883) · [PDF](https://arxiv.org/pdf/2510.04883) |
 | 2025-10-01 | KeySG: Hierarchical Keyframe-Based 3D Scene Graphs | Abdelrhman Werby, Dennis Rotondi, Fabio Scaparro, Kai O. Arras | [Abstract](https://arxiv.org/abs/2510.01049) · [PDF](https://arxiv.org/pdf/2510.01049) |
 | 2025-09-28 | From Static to Dynamic: a Survey of Topology-Aware Perception in Autonomous Driving | Yixiao Chen, Ruining Yang, Xin Chen, Jia He et al. | [Abstract](https://arxiv.org/abs/2509.23641) · [PDF](https://arxiv.org/pdf/2509.23641) |
 | 2025-09-27 | Open-Vocabulary Spatio-Temporal Scene Graph for Robot Perception and Teleoperation Planning | Yi Wang, Zeyu Xue, Mujie Liu, Tongqin Zhang et al. | [Abstract](https://arxiv.org/abs/2509.23107) · [PDF](https://arxiv.org/pdf/2509.23107) |

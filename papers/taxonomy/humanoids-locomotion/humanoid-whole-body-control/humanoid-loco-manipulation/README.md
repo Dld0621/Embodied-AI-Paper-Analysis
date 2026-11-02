@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Humanoid%20Whole-body%20Control&specialty=Humanoid%20Loco-manipulation#research-workbench)
 
-> 34 conference papers · 202 recent arXiv papers
+> 34 conference papers · 217 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -53,14 +53,29 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Hierarchical Adaptive Loco-manipulation Control for Quadruped Robots | ICRA · Quadruped | [Paper](https://arxiv.org/pdf/2209.13145) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160523) |
 | 2023 | Centralized Model Predictive Control for Collaborative Loco-Manipulation | RSS · Loco Manipulation | [Paper](https://doi.org/10.15607/rss.2023.xix.050) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.050) |
 
-## Recent arXiv papers (202)
+## Recent arXiv papers (217)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | Online Learning of Heterogeneous Locomotion Dynamics under Reinforcement Learning Policies for Precise Loco-Manipulation | Tianlin Zhang, Weipeng Xia, Lingwei Zhang, Yiyang Shao et al. | [Abstract](https://arxiv.org/abs/2610.41892) · [PDF](https://arxiv.org/pdf/2610.41892) |
+| 2026-10-29 | LLM-guided Planar Loco-Manipulation for Quadruped Robots | Georges Jetti, Michael Khayyat, Jean-Pierre Sleiman, Stefano Arrigoni et al. | [Abstract](https://arxiv.org/abs/2610.40248) · [PDF](https://arxiv.org/pdf/2610.40248) |
+| 2026-10-26 | Zero-HLM: Generalizable Humanoid Loco-Manipulation without Real Robot Data | Dianyi Yang, Mengya Liu, Zhumei Wang, Yu Liu et al. | [Abstract](https://arxiv.org/abs/2610.35075) · [PDF](https://arxiv.org/pdf/2610.35075) |
+| 2026-10-26 | Learning Multi-Phase Robot Loco-Manipulation via Phase-Conditioned Policy Optimization | Simone Manni, Annika Wollschläger, Dario Bellicoso, Abel Gawel et al. | [Abstract](https://arxiv.org/abs/2610.36270) · [PDF](https://arxiv.org/pdf/2610.36270) |
+| 2026-10-26 | Learning Force-Reactive Humanoid Loco-Manipulation | Sihang Li, Xiaofeng Guo, Jinkun Cao, Charlie Cheng et al. | [Abstract](https://arxiv.org/abs/2610.35862) · [PDF](https://arxiv.org/pdf/2610.35862) |
+| 2026-10-25 | ThinkLocoManip: A Whole-Body Control Agentic Harness for Legged Loco-Manipulation | Nuo Chen, Shizeng Zhang, Yujie Yang, Jinghong Wang et al. | [Abstract](https://arxiv.org/abs/2610.34370) · [PDF](https://arxiv.org/pdf/2610.34370) |
+| 2026-10-24 | MOTIO: Agentic Skill Engineering for Reality-Grounded Humanoid Loco-Manipulation | SpatialtemporalAI | [Abstract](https://arxiv.org/abs/2610.33446) · [PDF](https://arxiv.org/pdf/2610.33446) |
+| 2026-10-22 | Memory before Goal: Role of Pre-History Memory for Humanoid Loco-Manipulation | Chenyuan Chen, Ran Ding, Lechen Zhang, Zewen He et al. | [Abstract](https://arxiv.org/abs/2610.31166) · [PDF](https://arxiv.org/pdf/2610.31166) |
+| 2026-10-22 | LocoManiLab: A Unified Testbed for Data, Policies, Controllers, and Deployment in Humanoid Loco-Manipulation | Dewei Wang, Jinrui Han, Jiyuan Shi, Chenyun Zhang et al. | [Abstract](https://arxiv.org/abs/2610.30876) · [PDF](https://arxiv.org/pdf/2610.30876) |
+| 2026-10-21 | Motion Retargeting with Spatiotemporal Preferences for Humanoid Loco-Manipulation | Xiongbo Shi, Shihang Du, Zongyou Yu, Ziyu Lin et al. | [Abstract](https://arxiv.org/abs/2610.30540) · [PDF](https://arxiv.org/pdf/2610.30540) |
+| 2026-10-19 | Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience | Tianqi Liu, Hanfei Zhao, Qifeng Liang, Hui En Pang et al. | [Abstract](https://arxiv.org/abs/2610.26855) · [PDF](https://arxiv.org/pdf/2610.26855) |
+| 2026-10-19 | Humanoid SRL: Augmenting Humanoids with Supernumerary Limbs for Coordinated Loco-Manipulation | Fukang Liu, Feiyang Wu, Paul Barsa, Jaehwi Jang et al. | [Abstract](https://arxiv.org/abs/2610.25628) · [PDF](https://arxiv.org/pdf/2610.25628) |
+| 2026-10-19 | Compositional Humanoid Manipulation through Isomorphic Teleoperation and Independent Skill Routing | Yiming Wang, Peixian Yang, Lifeng Zhuo, Lai Wei et al. | [Abstract](https://arxiv.org/abs/2610.26169) · [PDF](https://arxiv.org/pdf/2610.26169) |
+| 2026-10-17 | DiPLO: Self-distilled Diffusion Planning for Loco-manipulation | Shafeef Omar, Sebastian Sanokowski, Elham Daneshmand, Dian Yu et al. | [Abstract](https://arxiv.org/abs/2610.24847) · [PDF](https://arxiv.org/pdf/2610.24847) |
+| 2026-10-17 | Action-Aligned Latent Planning for Versatile Humanoid Loco-Manipulation | Yutang Lin, Guanya Shi, C. Karen Liu | [Abstract](https://arxiv.org/abs/2610.24675) · [PDF](https://arxiv.org/pdf/2610.24675) |
 | 2026-10-15 | KODA: Kinematics--Observation Data Alignment for Humanoid Learning from Human Egocentric Demonstration | Zibo Zhou, Yueru Chen, Junsong Wu, Weiji Xie et al. | [Abstract](https://arxiv.org/abs/2610.21152) · [PDF](https://arxiv.org/pdf/2610.21152) |
 | 2026-10-14 | KinoGen: Customizable Humanoid Loco-Manipulation References via Kinematically Grounded Video Generation | Qi Wu, Lulu Zhao, Sanghyun Hahn, Rishi Yennu et al. | [Abstract](https://arxiv.org/abs/2610.20552) · [PDF](https://arxiv.org/pdf/2610.20552) |
 | 2026-10-13 | EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ | Yunsong Zhou, Xuekun Jiang, Haiqi Shen, Hangxu Liu et al. | [Abstract](https://arxiv.org/abs/2610.18872) · [PDF](https://arxiv.org/pdf/2610.18872) |
-| 2026-10-13 | $λ_0$: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation | Lambda-humanoid Team | [Abstract](https://arxiv.org/abs/2610.18950) · [PDF](https://arxiv.org/pdf/2610.18950) |
+| 2026-10-13 | $λ_0$: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation | Lambda-humanoid Team, :, Chongyang Xu, Jin Chen et al. | [Abstract](https://arxiv.org/abs/2610.18950) · [PDF](https://arxiv.org/pdf/2610.18950) |
 | 2026-10-11 | Learning Safety-Constrained Whole-Body Loco-Manipulation for Lunar Surface Operations | Alvaro Belmonte-Baeza, Miguel Cazorla, Gabriel J. García, Carlos J. Pérez-Del-Pulgar et al. | [Abstract](https://arxiv.org/abs/2610.15486) · [PDF](https://arxiv.org/pdf/2610.15486) |
 | 2026-10-10 | Test-Time Compute for Humanoid Behavior Foundation Models | Weiji Xie, Junsong Wu, Zibo Zhou, Yueru Chen et al. | [Abstract](https://arxiv.org/abs/2610.14896) · [PDF](https://arxiv.org/pdf/2610.14896) |
 | 2026-10-09 | VICAR: Video Imitation with Contact-Aware Retargeting for Humanoid Interactive Skills | Dvij Kalaria, Bike Zhang, S. Shankar Sastry | [Abstract](https://arxiv.org/abs/2610.13079) · [PDF](https://arxiv.org/pdf/2610.13079) |
@@ -92,6 +107,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-09-21 | Brace Yourself: Task-Conditioned Environmental Bracing for Forceful Humanoid Manipulation | Zongyuan Zhang, Christopher Lehnert, Will N. Browne, Jonathan M. Roberts | [Abstract](https://arxiv.org/abs/2609.25486) · [PDF](https://arxiv.org/pdf/2609.25486) |
 | 2026-09-20 | STRIDER: Stepping-Enabled Multi-Gait Hierarchical 3D Loco-Manipulation Framework for Humanoid Robots | Yuanzhuo Li, Wen Zhao, Zhe Yong, Xiang Meng et al. | [Abstract](https://arxiv.org/abs/2609.23483) · [PDF](https://arxiv.org/pdf/2609.23483) |
 | 2026-09-19 | Whole-Body UMI: Transferring UMI Manipulation Skills to Humanoid Whole-Body Manipulation via Real-Time Motion Generation | Yuxuan Nai, Leixin Chang, Liangjing Yang, Shuo Yang et al. | [Abstract](https://arxiv.org/abs/2609.22829) · [PDF](https://arxiv.org/pdf/2609.22829) |
+| 2026-09-19 | DUET: Decoupled Upper- and Lower-Body Execution for Task-Agnostic Humanoid Loco-Manipulation | Kapalik Khanal, Biswash Khatiwada, Stephen Afrifa, Fan Wu et al. | [Abstract](https://arxiv.org/abs/2610.23872) · [PDF](https://arxiv.org/pdf/2610.23872) |
 | 2026-09-18 | Learning Distance-Conditioned Object Transport for Humanoid Loco-Manipulation from a Single Motion Clip | Yuhyeon Hwang, Daniel Sungho Jung, YongHyeok Seo, Mingi Jung et al. | [Abstract](https://arxiv.org/abs/2609.21467) · [PDF](https://arxiv.org/pdf/2609.21467) |
 | 2026-09-18 | FRAMES: Failure Recovery And Monitoring of Embodied Skills for Humanoid Loco-Manipulation | Ajay Vikram Periasami, Xinyuan Luo, Haoyu Li, Xianyi Cheng | [Abstract](https://arxiv.org/abs/2609.22538) · [PDF](https://arxiv.org/pdf/2609.22538) |
 | 2026-09-16 | ViLoMan: Learning Visual-Proprioceptive Whole-Body Loco-Manipulation Skills for Humanoid Robots | Zejie Tian, Ruibing Hou, Bingpeng Ma, Börje F. Karlsson et al. | [Abstract](https://arxiv.org/abs/2609.19340) · [PDF](https://arxiv.org/pdf/2609.19340) |
@@ -141,7 +157,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-06 | SIMPLE: Simulation-Based Policy Learning and Evaluation for Humanoid Loco-manipulation | Songlin Wei, Zhenhao Ni, Jie Liu, Zhenyu Zhao et al. | [Abstract](https://arxiv.org/abs/2606.08278) · [PDF](https://arxiv.org/pdf/2606.08278) |
 | 2026-06-06 | Mind Your Steps: A General Learning Framework for Accurate Humanoid Foothold Tracking | Alessandro Montenegro, Shihao Li, Puze Liu, Alberto Maria Metelli et al. | [Abstract](https://arxiv.org/abs/2606.08253) · [PDF](https://arxiv.org/pdf/2606.08253) |
 | 2026-06-04 | MotionDisco: Motion Discovery for Extreme Humanoid Loco-Manipulation | Ilyass Taouil, Michal Ciebelski, Shafeef Omar, Haizhou Zhao et al. | [Abstract](https://arxiv.org/abs/2606.06139) · [PDF](https://arxiv.org/pdf/2606.06139) |
-| 2026-06-03 | GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors | Tianyi Xie, Haotian Zhang, Jinhyung Park, Zi Wang et al. | [Abstract](https://arxiv.org/abs/2606.05160) · [PDF](https://arxiv.org/pdf/2606.05160) |
+| 2026-06-03 | GRAIL: Generating Humanoid Loco-Manipulation from World Models | Tianyi Xie, Haotian Zhang, Jinhyung Park, Zi Wang et al. | [Abstract](https://arxiv.org/abs/2606.05160) · [PDF](https://arxiv.org/pdf/2606.05160) |
 | 2026-06-02 | SplitAdapter: Load-Aware Humanoid Loco-Manipulation via Factorized Adaptation | Jeonguk Kang, Hanbyel Cho, Sanghyun Kang, Donghan Koo | [Abstract](https://arxiv.org/abs/2606.03297) · [PDF](https://arxiv.org/pdf/2606.03297) |
 | 2026-06-02 | Dual Advantage Fields | Alexey Zemtsov, Maxim Bobrin, Alexander Nikulin, Dmitry V. Dylov et al. | [Abstract](https://arxiv.org/abs/2606.04188) · [PDF](https://arxiv.org/pdf/2606.04188) |
 | 2026-05-31 | LEGS: Fine-Tuning Teleop-Free VLAs for Humanoid Loco-manipulation in an Embodied Gaussian Splatting World | Hojune Kim, Timothy Chen, Jiankai Sun, Lars W. Osterberg et al. | [Abstract](https://arxiv.org/abs/2606.01458) · [PDF](https://arxiv.org/pdf/2606.01458) |
@@ -258,7 +274,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-21 | A Combined Learning and Optimization Framework to Transfer Human Whole-body Loco-manipulation Skills to Mobile Manipulators | Jianzhuang Zhao, Francesco Tassi, Yanlong Huang, Elena De Momi et al. | [Abstract](https://arxiv.org/abs/2402.13915) · [PDF](https://arxiv.org/pdf/2402.13915) |
 | 2024-02-09 | Learn to Teach: Sample-Efficient Privileged Learning for Humanoid Locomotion over Diverse Terrains | Feiyang Wu, Xavier Nal, Jaehwi Jang, Wei Zhu et al. | [Abstract](https://arxiv.org/abs/2402.06783) · [PDF](https://arxiv.org/pdf/2402.06783) |
 | 2023-12-19 | Dynamic Loco-manipulation on HECTOR: Humanoid for Enhanced ConTrol and Open-source Research | Junheng Li, Junchao Ma, Omar Kolt, Manas Shah et al. | [Abstract](https://arxiv.org/abs/2312.11868) · [PDF](https://arxiv.org/pdf/2312.11868) |
-| 2023-10-31 | Hierarchical Optimization-based Control for Whole-body Loco-manipulation of Heavy Objects | Alberto Rigo, Muqun Hu, Satyandra K. Gupta, Quan Nguyen | [Abstract](https://arxiv.org/abs/2311.00112) · [PDF](https://arxiv.org/pdf/2311.00112) |
 
 ---
 

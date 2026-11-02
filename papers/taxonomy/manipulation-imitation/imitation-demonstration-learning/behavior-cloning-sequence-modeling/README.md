@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Imitation%20%26%20Demonstration%20Learning&specialty=Behavior%20Cloning%20%26%20Sequence%20Modeling#research-workbench)
 
-> 16 conference papers · 107 recent arXiv papers
+> 16 conference papers · 111 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -35,10 +35,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | From Temporal-Evolving to Spatial-Fixing: A Keypoints-Based Learning Paradigm for Visual Robotic Manipulation | IROS · Manipulation | [Paper](https://hal.science/hal-04265635/document) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341397) |
 | 2022 | Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2209.05451) · [Publisher](https://doi.org/10.48550/arXiv.2209.05451) |
 
-## Recent arXiv papers (107)
+## Recent arXiv papers (111)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-28 | Embodied at Sea: Imitation Learning for Multi-Task Underwater Manipulation | Greta Perez-Haiek, Luca Macesanu, Kevin Angers, Mohammed Imam et al. | [Abstract](https://arxiv.org/abs/2610.38199) · [PDF](https://arxiv.org/pdf/2610.38199) |
+| 2026-10-23 | DiscoDemo: Discovering Efficient and Diverse Robot Demonstrations for Imitation Learning | Minho Park, Kinam Kim, Donghu Kim, Byungkun Lee et al. | [Abstract](https://arxiv.org/abs/2610.32093) · [PDF](https://arxiv.org/pdf/2610.32093) |
+| 2026-10-19 | VaDar: Implicit Goal Conditioning via Value Disaggregation | Shashwat Saxena, Mehul Goel, Sreyas Venkataraman, Sarvesh Patil et al. | [Abstract](https://arxiv.org/abs/2610.26629) · [PDF](https://arxiv.org/pdf/2610.26629) |
+| 2026-10-19 | ALIGN: Aligning Condition Estimation and Expression in Advantage-Conditioned Behavior Cloning | Zechen Wang, Zhenqi Qiu, Houlong Xiong, Suohang Zhang et al. | [Abstract](https://arxiv.org/abs/2610.26455) · [PDF](https://arxiv.org/pdf/2610.26455) |
 | 2026-10-14 | Investigating Behavior Cloning from Few Demonstrations for Autonomous Driving based on Bird's-Eye View in Simulated Cities | Eric Aislan Antonelo, Gustavo Claudio Karl Couto, Christian Möller, Pedro Henrique Fernandes | [Abstract](https://arxiv.org/abs/2610.20203) · [PDF](https://arxiv.org/pdf/2610.20203) |
 | 2026-10-14 | Graph-Reweighted Behavior Cloning with Human Interventions for Precise Robotic Manipulation | Xiaoman Li, Zhiqiang Yang, Jiayu Hu, Jipeng Kong et al. | [Abstract](https://arxiv.org/abs/2610.20504) · [PDF](https://arxiv.org/pdf/2610.20504) |
 | 2026-10-13 | Where Small Mistakes Matter: Quantifying State Criticality for Imitation Learning | Yusuf Umut Ciftci, Joonwon Kang, Ajay Suresha Sathya, Somil Bansal | [Abstract](https://arxiv.org/abs/2610.17709) · [PDF](https://arxiv.org/pdf/2610.17709) |

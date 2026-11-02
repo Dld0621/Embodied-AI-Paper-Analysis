@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Motion%20%26%20Path%20Planning&specialty=Trajectory%20Optimization%20%26%20MPC#research-workbench)
 
-> 41 conference papers · 410 recent arXiv papers
+> 41 conference papers · 413 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -60,11 +60,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | PUTN: A Plane-fitting based Uneven Terrain Navigation Framework | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.04541) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981038) |
 | 2022 | SMS-MPC: Adversarial Learning-based Simultaneous Prediction Control with Single Model for Mobile Robots | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981289) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981289) |
 
-## Recent arXiv papers (410)
+## Recent arXiv papers (413)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
-| 2026-10-15 | Safe and Fuel-Efficient Motion Planning for Lunar Propulsive Drones | Elena Wittemyer, Graco Gao | [Abstract](https://arxiv.org/abs/2610.22225) · [PDF](https://arxiv.org/pdf/2610.22225) |
+| 2026-10-30 | AC-SMPC: Differentiable Actor--Critic MPC with State Constraints for Safe and Fast Robot Navigation | Chaoran Wu, Jiayu Fan, Qichen Tan, Yuyi Liu et al. | [Abstract](https://arxiv.org/abs/2610.41477) · [PDF](https://arxiv.org/pdf/2610.41477) |
+| 2026-10-28 | Value Function-Guided MPPI for Hierarchical Planning and Control in Off-Road Autonomous Navigation | Anoushka Alavilli, Raymond Song, Guanya Shi, Jeff Schneider | [Abstract](https://arxiv.org/abs/2610.38731) · [PDF](https://arxiv.org/pdf/2610.38731) |
+| 2026-10-28 | A Multi-Layer Navigation System for Smart Wheelchairs with a Limited Input Interface | Piero Simonetto, Anna Polato, Francesco Pasti, Muhammad Rameez ur Rahman et al. | [Abstract](https://arxiv.org/abs/2610.38569) · [PDF](https://arxiv.org/pdf/2610.38569) |
+| 2026-10-27 | Learning Side-by-Side Navigation for Personal Mobility Vehicles from Human Drivers | Luis Yoichi Morales, Florent Ferreri | [Abstract](https://arxiv.org/abs/2610.36726) · [PDF](https://arxiv.org/pdf/2610.36726) |
+| 2026-10-26 | Learning Direct Control from Optimization for Dynamic Target Tracking | Bing Sun, Yue Lin, Canhui Wen, Xin Chen et al. | [Abstract](https://arxiv.org/abs/2610.34929) · [PDF](https://arxiv.org/pdf/2610.34929) |
+| 2026-10-21 | Object- and Task-Aware Active Perception for Safe Navigation of Mobile Manipulators in Semi-Static Environments | Jingxing Qian, Xintong Du, Jun Yang, Siqi Zhou et al. | [Abstract](https://arxiv.org/abs/2610.29964) · [PDF](https://arxiv.org/pdf/2610.29964) |
+| 2026-10-21 | Integrating Flow Matching and Model Predictive Control for Safe Robot Navigation | Philipp Holzmann, Maik Pfefferkorn, Joao Carvalho, Ali Younes et al. | [Abstract](https://arxiv.org/abs/2610.29377) · [PDF](https://arxiv.org/pdf/2610.29377) |
+| 2026-10-20 | Prescribed Performance Guided Safe Reinforcement Learning for Roundabout Navigation of Autonomous Vehicles | Wenhan Li, Yangrui Zhang, Hang Zhou, Peiran Liu et al. | [Abstract](https://arxiv.org/abs/2610.27732) · [PDF](https://arxiv.org/pdf/2610.27732) |
+| 2026-10-15 | Safe and Fuel-Efficient Motion Planning for Lunar Propulsive Drones | Elena Wittemyer, Grace Gao | [Abstract](https://arxiv.org/abs/2610.22225) · [PDF](https://arxiv.org/pdf/2610.22225) |
 | 2026-10-15 | CLIS-MPPI: Closed-Loop Model Predictive Path Integral Control With Initial-State Sampling Under Execution Delay | Zidong Liu, Xu Chen | [Abstract](https://arxiv.org/abs/2610.21239) · [PDF](https://arxiv.org/pdf/2610.21239) |
 | 2026-10-14 | VIGOR-MPC: Vision-Guided Objective Regulation MPC | Jelena Trisovic, Rahel Rickenbach, Marek Landert, Panagiotis Minos et al. | [Abstract](https://arxiv.org/abs/2610.20333) · [PDF](https://arxiv.org/pdf/2610.20333) |
 | 2026-10-14 | Optimally Trading Energy for Information through Speed Trajectory Optimization of Sustainably Powered Mobile Robots | Kavin M. Govindarajan, Dimitra Panagou, Chris Vermillion | [Abstract](https://arxiv.org/abs/2610.20875) · [PDF](https://arxiv.org/pdf/2610.20875) |
@@ -78,6 +86,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-09-30 | Rethinking Legibility in Social Robot Hallway Navigation: Impact of Intent Representation and Human Distraction | Pranav Goyal, Andrew Stratton, Christoforos Mavrogiannis | [Abstract](https://arxiv.org/abs/2609.40158) · [PDF](https://arxiv.org/pdf/2609.40158) |
 | 2026-09-30 | Occlusion-Aware, Quasi-Static, Stability-Oriented Trajectory Planning on Uneven Terrain | Amith Manoharan, Chinmay Mundane, Aayush Bahukhandi, K. Madhava Krishna et al. | [Abstract](https://arxiv.org/abs/2609.39105) · [PDF](https://arxiv.org/pdf/2609.39105) |
 | 2026-09-29 | Onboard Vision and MPC Navigation for Underwater Robots: An Open BlueROV2 Platform for Multi-Robot Experiments & Docking | Victor Nan Fernandez-Ayala, Wiktor Kowalczyk, Cezary Banaszek, Dimos V. Dimarogonas | [Abstract](https://arxiv.org/abs/2609.38511) · [PDF](https://arxiv.org/pdf/2609.38511) |
+| 2026-09-28 | Denoising Multirobot Trajectories | Yuhao Zhang, Keisuke Okumura, Ajay Shankar, Amanda Prorok | [Abstract](https://arxiv.org/abs/2609.35651) · [PDF](https://arxiv.org/pdf/2609.35651) |
 | 2026-09-28 | CollisionSplatting: Collision-Aware Motion Planning in 3DGS Scenes with Image-Conditioned Objectives and Adjustable Conservatism | R. Khorrambakht, Joaquim Ortiz-Haro, Stephan Weiss, Ludovic Righetti | [Abstract](https://arxiv.org/abs/2609.35619) · [PDF](https://arxiv.org/pdf/2609.35619) |
 | 2026-09-25 | Differentiable Dynamics for Autonomous Micro-Mobility Navigation | Grace Cai, Joey Lee, Nithin Parepally, Laura Zheng et al. | [Abstract](https://arxiv.org/abs/2609.31885) · [PDF](https://arxiv.org/pdf/2609.31885) |
 | 2026-09-24 | A Field-Deployable GNSS-based Navigation Stack for Outdoor Mobile Robots | Yiyuan Lin, Cole Regnier, Yu Jiang | [Abstract](https://arxiv.org/abs/2609.28933) · [PDF](https://arxiv.org/pdf/2609.28933) |
@@ -190,7 +199,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-01-29 | HPTune: Hierarchical Proactive Tuning for Collision-Free Model Predictive Control | Wei Zuo, Chengyang Li, Yikun Wang, Bingyang Cheng et al. | [Abstract](https://arxiv.org/abs/2601.21346) · [PDF](https://arxiv.org/pdf/2601.21346) |
 | 2026-01-26 | Fast and Safe Trajectory Optimization for Mobile Manipulators With Neural Configuration Space Distance Field | Yulin Li, Zhiyuan Song, Yiming Li, Zhicheng Song et al. | [Abstract](https://arxiv.org/abs/2601.18548) · [PDF](https://arxiv.org/pdf/2601.18548) |
 | 2026-01-23 | RENEW: Risk- and Energy-Aware Navigation in Dynamic Waterways | Mingi Jeong, Alberto Quattrini Li | [Abstract](https://arxiv.org/abs/2601.16424) · [PDF](https://arxiv.org/pdf/2601.16424) |
-| 2026-01-23 | Adaptive Reinforcement and Model Predictive Control Switching for Safe Human-Robot Cooperative Navigation | Ning Liu, Sen Shen, Zheng Li, Matthew D'Souza et al. | [Abstract](https://arxiv.org/abs/2601.16686) · [PDF](https://arxiv.org/pdf/2601.16686) |
 | 2026-01-22 | DualShield: Safe Model Predictive Diffusion via Reachability Analysis for Interactive Autonomous Driving | Rui Yang, Lei Zheng, Ruoyu Yao, Jun Ma | [Abstract](https://arxiv.org/abs/2601.15729) · [PDF](https://arxiv.org/pdf/2601.15729) |
 | 2026-01-21 | Spatially Generalizable Mobile Manipulation via Adaptive Experience Selection and Dynamic Imagination | Ping Zhong, Liangbai Liu, Bolei Chen, Tao Wu et al. | [Abstract](https://arxiv.org/abs/2601.14649) · [PDF](https://arxiv.org/pdf/2601.14649) |
 | 2026-01-21 | HumanDiffusion: A Vision-Based Diffusion Trajectory Planner with Human-Conditioned Goals for Search and Rescue UAV | Faryal Batool, Iana Zhura, Valerii Serpiva, Roohan Ahmed Khan et al. | [Abstract](https://arxiv.org/abs/2601.14973) · [PDF](https://arxiv.org/pdf/2601.14973) |
@@ -469,11 +477,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-07 | PUMA: Fully Decentralized Uncertainty-aware Multiagent Trajectory Planner with Real-time Image Segmentation-based Frame Alignment | Kota Kondo, Claudius T. Tewari, Mason B. Peterson, Annika Thomas et al. | [Abstract](https://arxiv.org/abs/2311.03655) · [PDF](https://arxiv.org/pdf/2311.03655) |
 | 2023-11-06 | Safe and Efficient Trajectory Optimization for Autonomous Vehicles using B-spline with Incremental Path Flattening | Jongseo Choi, Hyuntai Chin, Hyunwoo Park, Daehyeok Kwon et al. | [Abstract](https://arxiv.org/abs/2311.02957) · [PDF](https://arxiv.org/pdf/2311.02957) |
 | 2023-11-06 | iDb-A*: Iterative Search and Optimization for Optimal Kinodynamic Motion Planning | Joaquim Ortiz-Haro, Wolfgang Hoenig, Valentin N. Hartmann, Marc Toussaint | [Abstract](https://arxiv.org/abs/2311.03553) · [PDF](https://arxiv.org/pdf/2311.03553) |
-| 2023-10-27 | Decision-theoretic MPC: Motion Planning with Weighted Maneuver Preferences Under Uncertainty | Ömer Şahin Taş, Philipp Heinrich Brusius, Christoph Stiller | [Abstract](https://arxiv.org/abs/2310.17963) · [PDF](https://arxiv.org/pdf/2310.17963) |
-| 2023-10-25 | Neural Potential Field for Obstacle-Aware Local Motion Planning | Muhammad Alhaddad, Konstantin Mironov, Aleksey Staroverov, Aleksandr Panov | [Abstract](https://arxiv.org/abs/2310.16362) · [PDF](https://arxiv.org/pdf/2310.16362) |
-| 2023-10-24 | A Resilient Framework for 5G-Edge-Connected UAVs based on Switching Edge-MPC and Onboard-PID Control | Gerasimos Damigos, Achilleas Santi Seisa, Sumeet Gajanan Satpute, Tore Lindgren et al. | [Abstract](https://arxiv.org/abs/2310.15849) · [PDF](https://arxiv.org/pdf/2310.15849) |
-| 2023-10-23 | End-to-End Learning of Behavioural Inputs for Autonomous Driving in Dense Traffic | Jatan Shrestha, Simon Idoko, Basant Sharma, Arun Kumar Singh | [Abstract](https://arxiv.org/abs/2310.14766) · [PDF](https://arxiv.org/pdf/2310.14766) |
-| 2023-10-21 | Visual Tracking Nonlinear Model Predictive Control Method for Autonomous Wind Turbine Inspection | Abdelhakim Amer, Mohit Mehndiratta, Jonas le Fevre Sejersen, Huy Xuan Pham et al. | [Abstract](https://arxiv.org/abs/2310.14030) · [PDF](https://arxiv.org/pdf/2310.14030) |
 
 ---
 

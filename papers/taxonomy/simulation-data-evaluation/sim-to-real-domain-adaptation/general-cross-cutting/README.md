@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Sim-to-real%20%26%20Domain%20Adaptation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 36 conference papers · 87 recent arXiv papers
+> 37 conference papers · 89 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,7 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (36)
+## Conference papers (37)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -44,6 +44,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Skill Transfer and Discovery for Sim-to-Real Learning: A Representation-Based Viewpoint | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2404.05051) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801637) |
 | 2024 | Natural Language Can Help Bridge the Sim2Real Gap | RSS · Sim2Real | [Paper](https://arxiv.org/abs/2405.10020) · [Publisher](https://doi.org/10.48550/arXiv.2405.10020) |
 | 2023 | FRIDA: A Collaborative Robot Painter with a Differentiable, Real2Sim2Real Planning Environment | ICRA · Sim2Real | [Paper](https://arxiv.org/pdf/2210.00664) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160702) |
+| 2023 | Sim2Real2: Actively Building Explicit Physics Model for Precise Articulated Object Manipulation | ICRA · Sim2Real | [Paper](https://arxiv.org/abs/2302.10693) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160370) |
 | 2023 | Attention for Robot Touch: Tactile Saliency Prediction for Robust Sim-to-Real Tactile Control | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2307.14510) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341888) |
 | 2023 | Real is Better than Perfect: Sim-to-Real Robotic System in Secondary School Education | IROS · Sim To Real | [Paper](https://doi.org/10.1109/IROS55552.2023.10341903) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341903) |
 | 2022 | ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer | CVPR · Sim2Real | [Paper](https://arxiv.org/pdf/2204.02389) · [Publisher](https://doi.org/10.1109/CVPR52688.2022.01034) |
@@ -55,10 +56,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Sim2Real Instance-Level Style Transfer for 6D Pose Estimation | IROS · Sim2Real | [Paper](https://arxiv.org/pdf/2203.02069) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981878) |
 | 2022 | Towards Inclusive HRI: Using Sim2Real to Address Underrepresentation in Emotion Expression Recognition | IROS · Sim2Real | [Paper](https://arxiv.org/pdf/2208.07472) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982252) |
 
-## Recent arXiv papers (87)
+## Recent arXiv papers (89)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-25 | Learning Interaction-Aware Path Corrections from Unlabeled Trajectories: A LiDAR-Based Sim-to-Real GNN Framework for Construction Robots | Yilong Chen, Yong K. Cho | [Abstract](https://arxiv.org/abs/2610.34060) · [PDF](https://arxiv.org/pdf/2610.34060) |
+| 2026-10-20 | Physical AI for Intralogistics: Benchmarking the NVIDIA Sim-to-Real Ecosystem for Cosmos-Enhanced COMPASS Navigation on Industrial Mobile Robots | Charbel Abi Hana, Rayan Zaitouni, Kameel Amareen, Mohamad Mostafa et al. | [Abstract](https://arxiv.org/abs/2610.28432) · [PDF](https://arxiv.org/pdf/2610.28432) |
 | 2026-10-15 | Sim-to-Real Reinforcement Learning for Path-Safe Target Reaching in Robotic Harvesting of Hydroponic Lettuce | Al Bashir, Partho Ghose, Yibin Wang, Robert G. Hardin et al. | [Abstract](https://arxiv.org/abs/2610.22337) · [PDF](https://arxiv.org/pdf/2610.22337) |
 | 2026-10-08 | SimVLA: Zero-Shot Sim-to-Real VLA Learning for Mobile Manipulation | Kyoungin Baik, Youngwoon Lee | [Abstract](https://arxiv.org/abs/2610.11248) · [PDF](https://arxiv.org/pdf/2610.11248) |
 | 2026-10-07 | Factorized Tactile Representation and Control for Sim-to-Real Manipulation | Siqi Shang, Bianca Aumann, Tye Brady, Joshua Migdal et al. | [Abstract](https://arxiv.org/abs/2610.10510) · [PDF](https://arxiv.org/pdf/2610.10510) |

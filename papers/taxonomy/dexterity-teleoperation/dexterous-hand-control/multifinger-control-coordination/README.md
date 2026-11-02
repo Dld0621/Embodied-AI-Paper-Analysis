@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Dexterous%20Hand%20Control&specialty=Multifinger%20Control%20%26%20Coordination#research-workbench)
 
-> 24 conference papers · 41 recent arXiv papers
+> 24 conference papers · 42 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -43,10 +43,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | A Two-stage Learning Architecture that Generates High-Quality Grasps for a Multi-Fingered Hand | IROS · Multi Finger | [Paper](https://doi.org/10.1109/IROS47612.2022.9981133) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981133) |
 | 2022 | Multi-Finger Grasping Like Humans | IROS · Multi Finger | [Paper](https://arxiv.org/pdf/2211.07304) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981805) |
 
-## Recent arXiv papers (41)
+## Recent arXiv papers (42)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-26 | DEX-PHD: A Dexterous Portable Handheld Device for Multimodal Data Collection | Jooyoung Hong, Noboru Myers, Obin Kwon, Yixian Yang et al. | [Abstract](https://arxiv.org/abs/2610.35462) · [PDF](https://arxiv.org/pdf/2610.35462) |
+| 2026-10-23 | ORBIT: A Modular Multi-finger Robotic Hand Platform with Rotational Finger Reconfiguration | Benito Ribadeneira, Siqi Shang, Lillian Chin | [Abstract](https://arxiv.org/abs/2610.33241) · [PDF](https://arxiv.org/pdf/2610.33241) |
+| 2026-10-20 | Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking | Yuxuan Kuang, Jiashun Wang, Yixuan Sun, Yufei Ye et al. | [Abstract](https://arxiv.org/abs/2610.28628) · [PDF](https://arxiv.org/pdf/2610.28628) |
 | 2026-10-14 | HiFun: a Hierarchical Framework for Efficient Functional Dexterous Manipulation Learning | Linyi Huang, Guowei Huai, Weibin Liu, Shulong Jiang et al. | [Abstract](https://arxiv.org/abs/2610.19518) · [PDF](https://arxiv.org/pdf/2610.19518) |
 | 2026-10-13 | PACT: Posture-Aligned Co-Design Technique for Hand Configuration and Retargeting in Multi-Finger Imitation Learning | Koyo Sasazaki, Satoshi Funabashi, Pranav Ponnivalavan, Alexander Schmitz et al. | [Abstract](https://arxiv.org/abs/2610.18443) · [PDF](https://arxiv.org/pdf/2610.18443) |
 | 2026-10-10 | DexCast: Learning Real-World Dexterous Control from Human Videos | Zihan Gao, Yuhong Zhang, Mengzhe Wang, Kaisheng Liu et al. | [Abstract](https://arxiv.org/abs/2610.14691) · [PDF](https://arxiv.org/pdf/2610.14691) |
@@ -86,8 +89,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-01-29 | Print-N-Grip: A Disposable, Compliant, Scalable and One-Shot 3D-Printed Multi-Fingered Robotic Hand | Alon Laron, Eran Sne, Yaron Perets, Avishai Sintov | [Abstract](https://arxiv.org/abs/2401.16463) · [PDF](https://arxiv.org/pdf/2401.16463) |
 | 2024-01-26 | RESPRECT: Speeding-up Multi-fingered Grasping with Residual Reinforcement Learning | Federico Ceola, Lorenzo Rosasco, Lorenzo Natale | [Abstract](https://arxiv.org/abs/2401.14858) · [PDF](https://arxiv.org/pdf/2401.14858) |
 | 2023-11-07 | Self-Contained and Automatic Calibration of a Multi-Fingered Hand Using Only Pairwise Contact Measurements | Johannes Tenhumberg, Leon Sievers, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2311.03957) · [PDF](https://arxiv.org/pdf/2311.03957) |
-| 2023-10-31 | Combining Shape Completion and Grasp Prediction for Fast and Versatile Grasping with a Multi-Fingered Hand | Matthias Humt, Dominik Winkelbauer, Ulrich Hillenbrand, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2310.20350) · [PDF](https://arxiv.org/pdf/2310.20350) |
-| 2023-10-27 | Multi-fingered Dynamic Grasping for Unknown Objects | Yannick Burkhardt, Qian Feng, Jianxiang Feng, Karan Sharma et al. | [Abstract](https://arxiv.org/abs/2310.17923) · [PDF](https://arxiv.org/pdf/2310.17923) |
 
 ---
 

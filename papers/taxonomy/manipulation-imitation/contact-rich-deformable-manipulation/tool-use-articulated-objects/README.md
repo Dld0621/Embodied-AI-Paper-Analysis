@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Contact-rich%20%26%20Deformable%20Manipulation&specialty=Tool%20Use%20%26%20Articulated%20Objects#research-workbench)
 
-> 17 conference papers · 65 recent arXiv papers
+> 17 conference papers · 69 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -36,10 +36,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Learning Category-Level Manipulation Tasks from Point Clouds with Dynamic Graph CNNs | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2209.06331) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160820) |
 | 2023 | Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusions | NeurIPS · Manipulation | [Paper](https://arxiv.org/pdf/2309.07510) · [Publisher](https://doi.org/10.48550/arXiv.2309.07510) |
 
-## Recent arXiv papers (65)
+## Recent arXiv papers (69)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | Learning from Physical Experience:Context-Space Adaptation for Robotic Manipulation | Yihan Zeng, Yisu Li, Kaixin Huang, Marc WuDunn et al. | [Abstract](https://arxiv.org/abs/2610.41320) · [PDF](https://arxiv.org/pdf/2610.41320) |
+| 2026-10-27 | Which Hand Was Late? Diagnosis for Robot Failure Recovery in Bimanual Tool Use | Baptiste Bonin, Caro Strickland, Audrey Durand | [Abstract](https://arxiv.org/abs/2610.37533) · [PDF](https://arxiv.org/pdf/2610.37533) |
+| 2026-10-27 | TOPS: Reshaping Flow Source and Transport for Multi-Task Robot Manipulation | Tuo An, Chuhao Zhou, Jiahua Dong, Jingliang Li et al. | [Abstract](https://arxiv.org/abs/2610.36694) · [PDF](https://arxiv.org/pdf/2610.36694) |
+| 2026-10-27 | Kinematic Constraint-Referenced Evaluation for Articulated Object Manipulation | Baptiste Bonin, Caro Strickland, Audrey Durand | [Abstract](https://arxiv.org/abs/2610.37550) · [PDF](https://arxiv.org/pdf/2610.37550) |
 | 2026-10-08 | SpatialHarness: Test-Time Spatial Scaffolding for Fine Robotic Manipulation | Jiayu Wang, Yue Yu, Bin Zhu, Zhiyao Yang et al. | [Abstract](https://arxiv.org/abs/2610.12457) · [PDF](https://arxiv.org/pdf/2610.12457) |
 | 2026-10-06 | SMART: Zero-Shot Sim-to-Real Articulated Object Manipulation via Large-Scale Synthetic Pretraining | Jicong Ao, Shuhan Jiang, Yuling Zhong, Yanwen Liu et al. | [Abstract](https://arxiv.org/abs/2610.07652) · [PDF](https://arxiv.org/pdf/2610.07652) |
 | 2026-09-29 | Learning to Explore Hidden Kinematics for Articulated Object Manipulation | Ruiyao Liu, Boshu Lei, Zhuoyang Pan, Kostas Daniilidis | [Abstract](https://arxiv.org/abs/2609.36553) · [PDF](https://arxiv.org/pdf/2609.36553) |

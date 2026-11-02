@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Memory%20%26%20World%20Knowledge&specialty=World-Action%20%26%20Predictive%20Models#research-workbench)
 
-> 1 conference papers · 115 recent arXiv papers
+> 1 conference papers · 124 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | Latent Action Pretraining from Videos | ICLR · Learning from video | [Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/45d74e190008c7bff2845ffc8e3facd3-Abstract-Conference.html) · [Official](https://proceedings.iclr.cc/paper_files/paper/2025/hash/45d74e190008c7bff2845ffc8e3facd3-Abstract-Conference.html) |
 
-## Recent arXiv papers (115)
+## Recent arXiv papers (124)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-27 | World Dreamer v5-lite: A Multi-Robot World Action Model with One Dreamer | Guoning Wu, Zijian Cai, Yuhang Zhang, Ying Liu et al. | [Abstract](https://arxiv.org/abs/2610.37518) · [PDF](https://arxiv.org/pdf/2610.37518) |
+| 2026-10-27 | How Much Can Best-of-N Help a World Action Model? Measuring Selectable Headroom and Realizing It in Closed Loop | Haojia Gao, Yue Cao, Yumin Liu, Haohua Que et al. | [Abstract](https://arxiv.org/abs/2610.37196) · [PDF](https://arxiv.org/pdf/2610.37196) |
+| 2026-10-27 | GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation | Yang Liu, Xiaoli Liu, Liuzhao Li, Yuduo Song et al. | [Abstract](https://arxiv.org/abs/2610.37091) · [PDF](https://arxiv.org/pdf/2610.37091) |
+| 2026-10-26 | OSWAM: An Effective World Action Model with One-Step Action Generation | Guowen Zhang, Liyi Chen, Xu Hu, Pengfei Wang et al. | [Abstract](https://arxiv.org/abs/2610.35850) · [PDF](https://arxiv.org/pdf/2610.35850) |
+| 2026-10-26 | E0.5: From Reconstructive to Future-Predictive 3D Foundations for Robotic World-Action Modeling | X-Era AI Lab Team, :, Jianhao Lai, Zhihao Zhan et al. | [Abstract](https://arxiv.org/abs/2610.36011) · [PDF](https://arxiv.org/pdf/2610.36011) |
+| 2026-10-26 | DriveUniTok: A Unified Multimodal Tokenizer for Driving World-Action Models | Jingbo Xu, Hanchao Leng, JiaHui Huang, Hanbing Li et al. | [Abstract](https://arxiv.org/abs/2610.35044) · [PDF](https://arxiv.org/pdf/2610.35044) |
+| 2026-10-22 | UniFlowWAM: A Unified World-Action Model with Visual Semantics and 4D Geometry | Jialin Tian, Zhuofan Li, Xinkai Wang, Bokai Lin et al. | [Abstract](https://arxiv.org/abs/2610.30991) · [PDF](https://arxiv.org/pdf/2610.30991) |
+| 2026-10-21 | CW-WAM: A Structured Contact-Wrench World Action Model for Force-Sensitive Manipulation | Houzhu Ding, Xinda Qi, Luqi Wang, Ming Yang | [Abstract](https://arxiv.org/abs/2610.30117) · [PDF](https://arxiv.org/pdf/2610.30117) |
+| 2026-10-21 | Agentic World Action Models | Zhuoyang Liu, Dantong Niu, Botong Zhang, Boning Shao et al. | [Abstract](https://arxiv.org/abs/2610.30136) · [PDF](https://arxiv.org/pdf/2610.30136) |
 | 2026-10-15 | TS-WAM: Temporal Latent Actions and World-Action Coupling for Vision-Language Robot Control | Menghao Yin, Jiaju Yin, Xiyue Dong, Lixin Xu et al. | [Abstract](https://arxiv.org/abs/2610.21922) · [PDF](https://arxiv.org/pdf/2610.21922) |
 | 2026-10-15 | Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation | Zirui Wu, Chen Guo, Tianjian Jiang, Zeren Jiang et al. | [Abstract](https://arxiv.org/abs/2610.22363) · [PDF](https://arxiv.org/pdf/2610.22363) |
 | 2026-10-13 | Data-Free Continual Learning for World Action Model with Rectified Generative Replay | Kaipeng Fang, Hangxu Liu, Chaojian Shi, Yunsong Zhou et al. | [Abstract](https://arxiv.org/abs/2610.18038) · [PDF](https://arxiv.org/pdf/2610.18038) |

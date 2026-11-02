@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=World%20%26%20Dynamics%20Models&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 0 conference papers · 20 recent arXiv papers
+> 0 conference papers · 21 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,10 +18,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (20)
+## Recent arXiv papers (21)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-20 | Real-Time Disturbance-Aware Koopman Model Predictive Control for Quadrotors in Spatially Varying Winds | Stella Kombo, Masih Haseli, Alejandro A. Stefan-Zavala, Peter I. Renn et al. | [Abstract](https://arxiv.org/abs/2610.27414) · [PDF](https://arxiv.org/pdf/2610.27414) |
 | 2026-07-31 | AquaJEPA: An Action-Conditioned Multimodal JEPA Family for Underwater Robot Dynamics | Alan-Barsag Gazzaev, Alexey Gavrilov, Sergey Muravyov | [Abstract](https://arxiv.org/abs/2607.29393) · [PDF](https://arxiv.org/pdf/2607.29393) |
 | 2026-07-01 | Structured 4D Latent Predictive Model for Robot Planning | Zhiyi Li, Peilin Wu, Xiaoshen Han, Ruojin Cai et al. | [Abstract](https://arxiv.org/abs/2607.01166) · [PDF](https://arxiv.org/pdf/2607.01166) |
 | 2026-04-22 | A Systematic Review and Taxonomy of Reinforcement Learning-Model Predictive Control Integration for Linear Systems | Mohsen Jalaeian Farimani, Roya Khalili Amirabadi, Davoud Nikkhouy, Malihe Abdolbaghi et al. | [Abstract](https://arxiv.org/abs/2604.21030) · [PDF](https://arxiv.org/pdf/2604.21030) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Active%20%26%20Multiview%20Perception&specialty=Active%20Perception%20%26%20Information%20Gathering#research-workbench)
 
-> 9 conference papers · 35 recent arXiv papers
+> 9 conference papers · 36 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,13 +28,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Decentralised Active Perception in Continuous Action Spaces for the Coordinated Escort Problem | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2305.01869) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161026) |
 | 2023 | Learning Continuous Control Policies for Information-Theoretic Active Perception | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2209.12427) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160455) |
 
-## Recent arXiv papers (35)
+## Recent arXiv papers (36)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
 | 2026-10-15 | Illumination-Aware Active Perception for Spacecraft Inspection | Sagarika Rao Valluri, Benjamin Riviere | [Abstract](https://arxiv.org/abs/2610.22335) · [PDF](https://arxiv.org/pdf/2610.22335) |
 | 2026-10-13 | Perception Beyond the Visible: Incompleteness-Aware Scene Understanding for Robot Autonomy | Rohit Mohan | [Abstract](https://arxiv.org/abs/2610.18670) · [PDF](https://arxiv.org/pdf/2610.18670) |
 | 2026-10-03 | ROMA: LLM System for Real-World Object-Centric Multi-Sensory Active Perception | Ruoxuan Feng, Yutong Chen, Ruihua Song, Huan Yang et al. | [Abstract](https://arxiv.org/abs/2610.06955) · [PDF](https://arxiv.org/pdf/2610.06955) |
+| 2026-09-28 | When to Make a Decision: Task-Sufficient Active Perception for Mobile Manipulator Robots | Mariana da Silva Barros, Matthias Kerzel, Cornelius Weber, Stefan Wermter | [Abstract](https://arxiv.org/abs/2610.23891) · [PDF](https://arxiv.org/pdf/2610.23891) |
 | 2026-09-27 | DeltaSeek: Toward Active Perception in Evolving Construction Environments | Sanjay Acharjee, Md Nazmus Sakib | [Abstract](https://arxiv.org/abs/2609.33836) · [PDF](https://arxiv.org/pdf/2609.33836) |
 | 2026-09-26 | Vision-Language Agents for Active Perception in Optics Laboratories | Ryan Lopez, Sachin Vaidya, Seou Choi, Serena Landers et al. | [Abstract](https://arxiv.org/abs/2609.32918) · [PDF](https://arxiv.org/pdf/2609.32918) |
 | 2026-09-22 | Robust Active-Perception Control for Global-State-Free Aerial-Ground Cooperation | Mingxuan Zhang, Jiajun Yu, Baozhe Zhang, Pengxiang Zhou et al. | [Abstract](https://arxiv.org/abs/2609.25898) · [PDF](https://arxiv.org/pdf/2609.25898) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Multimodal%20Grounding&specialty=3D%20%26%20Spatial%20Grounding#research-workbench)
 
-> 5 conference papers · 35 recent arXiv papers
+> 5 conference papers · 36 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Tag Map: A Text-Based Map for Spatial Reasoning and Navigation with Large Language Models | CoRL · Large Language Model | [Paper](https://arxiv.org/abs/2409.15451) · [Publisher](https://doi.org/10.48550/arXiv.2409.15451) |
 | 2023 | SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Task Planning | CoRL · Large Language Model | [Paper](https://arxiv.org/pdf/2307.06135) · [Publisher](https://doi.org/10.48550/arXiv.2307.06135) |
 
-## Recent arXiv papers (35)
+## Recent arXiv papers (36)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-19 | ACE-Brain-0.6: Scaling Spatial Grounding for Physical Foundation Models | Yinhe Wang, Tao Tao, Zexin He, Shuang Luo et al. | [Abstract](https://arxiv.org/abs/2610.27040) · [PDF](https://arxiv.org/pdf/2610.27040) |
 | 2026-09-24 | Retrieve-to-Localize: Bridging Large Language Models and LiDAR Geometry for Spatial Grounding | Byounggun Park, Giyong Moon, Jusung Kim, Soonmin Hwang | [Abstract](https://arxiv.org/abs/2609.29835) · [PDF](https://arxiv.org/pdf/2609.29835) |
 | 2026-09-20 | Grounded Action Model: 3D Grounding as a Foundation for Robotics | Gehao Zhang, Weikai Huang, Shailesh Shailesh, Yiyan Peng et al. | [Abstract](https://arxiv.org/abs/2609.23863) · [PDF](https://arxiv.org/pdf/2609.23863) |
 | 2026-09-03 | GraFT: A Training-Free Framework for Spatial Reasoning in Multimodal Large Language Models via 3D Scene Graphs | Junqing Du, Fernando Ropero, Erkin Turkoz, Yanfeng Zhang et al. | [Abstract](https://arxiv.org/abs/2609.03892) · [PDF](https://arxiv.org/pdf/2609.03892) |

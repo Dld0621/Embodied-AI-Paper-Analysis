@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Multimodal%20Grounding&specialty=Language-conditioned%20Control#research-workbench)
 
-> 20 conference papers · 78 recent arXiv papers
+> 20 conference papers · 84 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -39,10 +39,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Embodied Concept Learner: Self-supervised Learning of Concepts and Mapping through Instruction Following | CoRL · Instruction Following | [Paper](https://arxiv.org/abs/2304.03767) · [Publisher](https://doi.org/10.48550/arXiv.2304.03767) |
 | 2022 | Modularity through Attention: Efficient Training and Transfer of Language-Conditioned Policies for Robot Manipulation | CoRL · Language Conditioned | [Paper](https://arxiv.org/abs/2212.04573) · [Publisher](https://doi.org/10.48550/arXiv.2212.04573) |
 
-## Recent arXiv papers (78)
+## Recent arXiv papers (84)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-28 | AtomTree: A Hierarchical Framework for State-Aware Embodied Instruction Following with LLMs | Haotian Zhai, Tianming Sha, Junnan Li | [Abstract](https://arxiv.org/abs/2610.38744) · [PDF](https://arxiv.org/pdf/2610.38744) |
+| 2026-10-26 | Preemptive Instruction Following with Resumption | Zerun Liu, Lechao Cheng, Yimin Liu, Shengeng Tang et al. | [Abstract](https://arxiv.org/abs/2610.35576) · [PDF](https://arxiv.org/pdf/2610.35576) |
+| 2026-10-23 | OWLS: Open-world Language-conditioned Speed Fields for Zero-Shot Rover Navigation | Chahyon Ku, Erica Tevere, Georgios Georgakis, Rudra Mukherjee et al. | [Abstract](https://arxiv.org/abs/2610.32596) · [PDF](https://arxiv.org/pdf/2610.32596) |
+| 2026-10-20 | Frontier LLMs Enter the World of Robotics: A Cross-Model Evaluation on RoboColiseum | Da Huang, Jichao Wang, Junhui Wu, Tong Ran et al. | [Abstract](https://arxiv.org/abs/2610.27865) · [PDF](https://arxiv.org/pdf/2610.27865) |
+| 2026-10-19 | ScaleNav: Scalable Internet Video Pretraining for Language-Conditioned Local Navigation | Yihui Yang, Yuanhong Yu, Jiawei Wang, Zhongrui Yu et al. | [Abstract](https://arxiv.org/abs/2610.25690) · [PDF](https://arxiv.org/pdf/2610.25690) |
+| 2026-10-19 | Cartender: Verifiable Language-Conditioned Driving by Learning the Drives Not Taken | Zhiwen Chen, Benjin Zhu, Yan Xie, Jun Ma | [Abstract](https://arxiv.org/abs/2610.26390) · [PDF](https://arxiv.org/pdf/2610.26390) |
 | 2026-10-12 | Same Goal, Different Words: Spatial Instruction Sensitivity in World-Action Models | Ali-Adeeb Abbas, Esmaeil Seraj, Behrad Toghi, Taşkın Padır | [Abstract](https://arxiv.org/abs/2610.16242) · [PDF](https://arxiv.org/pdf/2610.16242) |
 | 2026-10-12 | Generative Flow on Symbolic Abstractions for Embodiment Capability Discovery | Youwei Yu, Lantao Liu | [Abstract](https://arxiv.org/abs/2610.17174) · [PDF](https://arxiv.org/pdf/2610.17174) |
 | 2026-09-29 | doPlan: A Variable-Horizon Dataset for Multi-Stage Language-Conditioned Planning in Autonomous Driving | Parthib Roy, Yash Tandon, Marcus Blennemann, Giovanni Tapia Lopez et al. | [Abstract](https://arxiv.org/abs/2609.38028) · [PDF](https://arxiv.org/pdf/2609.38028) |

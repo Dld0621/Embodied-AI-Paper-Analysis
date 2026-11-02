@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Multimodal%20Grounding&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 16 conference papers · 99 recent arXiv papers
+> 16 conference papers · 101 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -35,10 +35,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Chat with the Environment: Interactive Multimodal Perception Using Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.08268) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342363) |
 | 2022 | Do As I Can, Not As I Say: Grounding Language in Robotic Affordances | CoRL · Language-grounded planning | [Paper](https://arxiv.org/abs/2204.01691) · [Official](https://proceedings.mlr.press/v205/ichter23a.html) · [Code](https://say-can.github.io/) |
 
-## Recent arXiv papers (99)
+## Recent arXiv papers (101)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-26 | From Language to Drives: A Multimodal Framework for Aligning Autonomous Robots with Human Purposes | Diana Cerdas-Vargas, Alejandro Romero, Richard J. Duro | [Abstract](https://arxiv.org/abs/2610.35629) · [PDF](https://arxiv.org/pdf/2610.35629) |
+| 2026-10-20 | RoboJudge: Multimodal Language Models as Judges for Embodied Video Generation | Siyuan Ma, Yu Qi, Cheng Ye, Ruotian Peng et al. | [Abstract](https://arxiv.org/abs/2610.27782) · [PDF](https://arxiv.org/pdf/2610.27782) |
+| 2026-10-18 | The Bitter Lesson Comes to Robotics | Christopher Leet, Achyutha Menon, Sravanthi Machcha, Sven Koenig et al. | [Abstract](https://arxiv.org/abs/2610.25287) · [PDF](https://arxiv.org/pdf/2610.25287) |
 | 2026-09-30 | ScaffoldM3C: A Multimodal Sequential Monte Carlo Framework for Generative Stable Construction Planning | Gadiel Sznaier Camps, Chengyang He, Guillaume Sartoretti, Eduardo Montijano et al. | [Abstract](https://arxiv.org/abs/2610.00487) · [PDF](https://arxiv.org/pdf/2610.00487) |
 | 2026-09-26 | WSM-Aware HRI: An IoT-Enhanced Framework for Early Detection and Norm-Guided Repair of Failures with LLM Guidance | Hanlin Zhang, Yuquan Wang, Tianwei Zhang, Zhenglong Sun | [Abstract](https://arxiv.org/abs/2609.32336) · [PDF](https://arxiv.org/pdf/2609.32336) |
 | 2026-09-21 | Learning to Plan in Human-Robot Collaboration: Multimodal Reinforcement Learning for Adaptive Interaction | Afagh Mehri Shervedani, Siyu Li, Natawut Monaikul, Bahareh Abbasi et al. | [Abstract](https://arxiv.org/abs/2609.25274) · [PDF](https://arxiv.org/pdf/2609.25274) |
@@ -137,7 +140,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-29 | LEAP: LLM-Generation of Egocentric Action Programs | Eadom Dessalene, Michael Maynord, Cornelia Fermüller, Yiannis Aloimonos | [Abstract](https://arxiv.org/abs/2312.00055) · [PDF](https://arxiv.org/pdf/2312.00055) |
 | 2023-11-27 | RoboGPT: an intelligent agent of making embodied long-term decisions for daily instruction tasks | Yaran Chen, Wenbo Cui, Yuanwen Chen, Mining Tan et al. | [Abstract](https://arxiv.org/abs/2311.15649) · [PDF](https://arxiv.org/pdf/2311.15649) |
 | 2023-11-25 | Agent as Cerebrum, Controller as Cerebellum: Implementing an Embodied LMM-based Agent on Drones | Haoran Zhao, Fengxing Pan, Huqiuyue Ping, Yaoming Zhou | [Abstract](https://arxiv.org/abs/2311.15033) · [PDF](https://arxiv.org/pdf/2311.15033) |
-| 2023-10-26 | Dialogue-based generation of self-driving simulation scenarios using Large Language Models | Antonio Valerio Miceli-Barone, Alex Lascarides, Craig Innes | [Abstract](https://arxiv.org/abs/2310.17372) · [PDF](https://arxiv.org/pdf/2310.17372) |
 
 ---
 

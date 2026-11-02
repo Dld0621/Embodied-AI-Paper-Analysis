@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Visuotactile%20%26%20Multisensory%20Fusion#research-workbench)
 
-> 14 conference papers · 37 recent arXiv papers
+> 14 conference papers · 38 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,10 +33,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Learning-based Six-axis Force/Torque Estimation Using GelStereo Fingertip Visuotactile Sensing | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS47612.2022.9981100) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981100) |
 | 2022 | Visual-Tactile Multimodality for Following Deformable Linear Objects Using Reinforcement Learning | IROS · Tactile | [Paper](https://arxiv.org/pdf/2204.00117) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982218) |
 
-## Recent arXiv papers (37)
+## Recent arXiv papers (38)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-20 | Physical Canvas: A Vision Tactile World Model For Robot Policy Evaluation And Learning | Zebin Xing, Yuhang Zheng, Yupeng Zheng, Yichen Zhang et al. | [Abstract](https://arxiv.org/abs/2610.28613) · [PDF](https://arxiv.org/pdf/2610.28613) |
 | 2026-10-07 | TacHair: Tactile Contact-Distribution Guided Online Correction for Robotic Hair Stroking and Perception | Ruiyi Hu, Yongqiang Zhao, Daniel Bak, Yupeng Wang et al. | [Abstract](https://arxiv.org/abs/2610.10637) · [PDF](https://arxiv.org/pdf/2610.10637) |
 | 2026-09-29 | What to Attend, What to Keep: Skill-Conditioned Visuotactile Representation with Progress-Guided Event Memory | Amir-Hossein Shahidzadeh, Seungjae Lee, Eadom Dessalene, Shanthosh Raaj Mohanram Mageswari et al. | [Abstract](https://arxiv.org/abs/2609.38494) · [PDF](https://arxiv.org/pdf/2609.38494) |
 | 2026-09-28 | Dexterous Tactile World Model | Ziyao Zeng, Xiatao Sun, Hao Wang, Yueyang Pan et al. | [Abstract](https://arxiv.org/abs/2609.34286) · [PDF](https://arxiv.org/pdf/2609.34286) |

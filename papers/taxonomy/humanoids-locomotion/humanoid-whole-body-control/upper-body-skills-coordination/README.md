@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Humanoid%20Whole-body%20Control&specialty=Upper-body%20Skills%20%26%20Coordination#research-workbench)
 
-> 5 conference papers · 32 recent arXiv papers
+> 5 conference papers · 33 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Proprioceptive External Torque Learning for Floating Base Robot and its Applications to Humanoid Locomotion | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2309.04138) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342530) |
 | 2022 | Introducing RH5 Manus: A Powerful Humanoid Upper Body Design for Dynamic Movements | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra46639.2022.9811843) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811843) |
 
-## Recent arXiv papers (32)
+## Recent arXiv papers (33)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-29 | SONIC-K1: Porting a Universal Humanoid Motion Tracker to a Small Humanoid on a Single GPU | Kyrylo Kolesnichenko, Jong-Hoon Kim | [Abstract](https://arxiv.org/abs/2610.39327) · [PDF](https://arxiv.org/pdf/2610.39327) |
 | 2026-09-30 | Toward Humanoid Robots in Construction: A Teleoperation Feasibility Study | Parastoo Ali Pour, David R. Martin, Chang Min Hur, Bo Zhang et al. | [Abstract](https://arxiv.org/abs/2610.00718) · [PDF](https://arxiv.org/pdf/2610.00718) |
 | 2026-09-27 | CompliantWBC: Whole-Body Compliance for Heavy Humanoids via Force Latent Estimation and Residual Impedance Targets | Tan-Dzung Do, Cuc T. Trinh, Tuan Dat Phuong, Chien Le et al. | [Abstract](https://arxiv.org/abs/2609.33310) · [PDF](https://arxiv.org/pdf/2609.33310) |
 | 2026-09-17 | Diverse and Adaptable Arm Coordination for Octopus-Crawling via Diffusion-Based Uncertainty-Aware Optimization | Seung Hyun Kim, Heng-Sheng Chang, Kimia Kazemi, Prashant Mehta et al. | [Abstract](https://arxiv.org/abs/2609.21138) · [PDF](https://arxiv.org/pdf/2609.21138) |

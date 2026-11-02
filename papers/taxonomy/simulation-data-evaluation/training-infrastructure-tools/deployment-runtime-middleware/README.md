@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Training%20Infrastructure%20%26%20Tools&specialty=Deployment%2C%20Runtime%20%26%20Middleware#research-workbench)
 
-> 3 conference papers · 32 recent arXiv papers
+> 3 conference papers · 33 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -22,10 +22,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned | IROS · Dataset | [Paper](https://arxiv.org/pdf/2304.04362) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342377) |
 | 2022 | ROS-PyBullet Interface: A Framework for Reliable Contact Simulation and Human-Robot Interaction | CoRL · Simulation | [Paper](https://arxiv.org/abs/2210.06887) · [Publisher](https://doi.org/10.48550/arXiv.2210.06887) |
 
-## Recent arXiv papers (32)
+## Recent arXiv papers (33)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-20 | PCLA-Bridge: A Framework for Cross-Domain Deployment of CARLA Agents | Masoud Jamshidiyan Tehrani, Jinhan Kim, Paolo Tonella | [Abstract](https://arxiv.org/abs/2610.28696) · [PDF](https://arxiv.org/pdf/2610.28696) |
 | 2026-09-25 | RoboMonitor: Label-Efficient Runtime Monitoring of Robot Task Execution via Predictive Representation Learning | Abhiroop Ajith, Gokul Narayanan, Kyle Coelho, Tingji Zhao et al. | [Abstract](https://arxiv.org/abs/2609.30715) · [PDF](https://arxiv.org/pdf/2609.30715) |
 | 2026-07-13 | Casting Everything to Online API Services? A Survey of Integrating Localized Speech Recognition Models in Robotic Systems | Sheng Li, Jing Li, Felix Schijve, Jun Hu et al. | [Abstract](https://arxiv.org/abs/2607.11792) · [PDF](https://arxiv.org/pdf/2607.11792) |
 | 2026-07-02 | EVA-Client: A Unified Data Collection, Inference, and Deployment Framework for Embodied Policies on Real Robots | Heqing Yang, Yang Yi, Liyao Wang, Linqing Zhong et al. | [Abstract](https://arxiv.org/abs/2607.02646) · [PDF](https://arxiv.org/pdf/2607.02646) |

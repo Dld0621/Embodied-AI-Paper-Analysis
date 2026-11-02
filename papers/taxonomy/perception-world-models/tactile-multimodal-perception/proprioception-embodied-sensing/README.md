@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Proprioception%20%26%20Embodied%20Sensing#research-workbench)
 
-> 11 conference papers · 17 recent arXiv papers
+> 11 conference papers · 16 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -30,7 +30,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Simultaneous Contact Location and Object Pose Estimation Using Proprioception and Tactile Feedback | IROS · Tactile | [Paper](https://arxiv.org/pdf/2206.01245) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981762) |
 | 2022 | Whisker-Inspired Tactile Sensing for Contact Localization on Robot Manipulators | IROS · Tactile | [Paper](https://arxiv.org/pdf/2210.12387) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982122) |
 
-## Recent arXiv papers (17)
+## Recent arXiv papers (16)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -50,7 +50,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-03-21 | GelLink: A Compact Multi-phalanx Finger with Vision-based Tactile Sensing and Proprioception | Yuxiang Ma, Jialiang Zhao, Edward Adelson | [Abstract](https://arxiv.org/abs/2403.14887) · [PDF](https://arxiv.org/pdf/2403.14887) |
 | 2024-02-14 | Tactile-Informed Action Primitives Mitigate Jamming in Dense Clutter | Dane Brouwer, Joshua Citron, Hojung Choi, Marion Lepert et al. | [Abstract](https://arxiv.org/abs/2402.09564) · [PDF](https://arxiv.org/pdf/2402.09564) |
 | 2023-12-15 | Proprioceptive State Estimation for Amphibious Tactile Sensing | Ning Guo, Xudong Han, Shuqiao Zhong, Zhiyuan Zhou et al. | [Abstract](https://arxiv.org/abs/2312.09863) · [PDF](https://arxiv.org/pdf/2312.09863) |
-| 2023-10-27 | Pouring by Feel: An Analysis of Tactile and Proprioceptive Sensing for Accurate Pouring | Pedro Piacenza, Daewon Lee, Volkan Isler | [Abstract](https://arxiv.org/abs/2310.18473) · [PDF](https://arxiv.org/pdf/2310.18473) |
 
 ---
 

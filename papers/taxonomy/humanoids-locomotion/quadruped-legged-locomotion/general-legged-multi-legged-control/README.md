@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Quadruped%20%26%20Legged%20Locomotion&specialty=General%20Legged%20%26%20Multi-legged%20Control#research-workbench)
 
-> 160 conference papers · 302 recent arXiv papers
+> 160 conference papers · 307 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -179,10 +179,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Real-time Digital Double Framework to Predict Collapsible Terrains for Legged Robots | IROS · Legged | [Paper](https://arxiv.org/pdf/2209.09508) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981613) |
 | 2022 | Safe Reinforcement Learning for Legged Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2203.02638) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982038) |
 
-## Recent arXiv papers (302)
+## Recent arXiv papers (307)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-29 | RAIBO-Wagon: Real-Time Navigation System for a Legged Robot Towing a Wagon | Insung Yang, Eunchae Kim, Jungwoo Hur, Seunghun Jeon et al. | [Abstract](https://arxiv.org/abs/2610.39267) · [PDF](https://arxiv.org/pdf/2610.39267) |
+| 2026-10-28 | OmniQuad: a Wheeled-Legged Hybrid Robot with Omnidirectional Wheels | Francesco Iotti, Alok Ranjan, Franco Angelini, Manolo Garabini | [Abstract](https://arxiv.org/abs/2610.38502) · [PDF](https://arxiv.org/pdf/2610.38502) |
+| 2026-10-27 | RESPLE2: Inertial-Informed Recursive Non-Uniform Spline Estimation for Multi-Sensor Odometry with Global Refinement | Ziyu Cao, William Talbot, Song Li, Pakpong Chirarattananon et al. | [Abstract](https://arxiv.org/abs/2610.37602) · [PDF](https://arxiv.org/pdf/2610.37602) |
+| 2026-10-26 | Differentiable Contact Dynamics for Legged Locomotion: Policy Learning and Contact-Implicit Trajectory Optimization | Gijeong Kim, Seungbin Oh, Dongyun Kang, Hae-Won Park | [Abstract](https://arxiv.org/abs/2610.35852) · [PDF](https://arxiv.org/pdf/2610.35852) |
+| 2026-10-23 | From Tabletop to Walking Bot: Deploying a VLA Model on a Legged Manipulator Robot | Giovanni Minelli, Antonio Langella, Giovanni B. Dessy, Lorenzo Amatucci et al. | [Abstract](https://arxiv.org/abs/2610.32271) · [PDF](https://arxiv.org/pdf/2610.32271) |
+| 2026-10-19 | Learning Wheel Motion Uncertainty for Degeneracy-Aware LiDAR-Inertial Odometry on Quadrupedal Wheel-Legged Robots | Hairuo Wei, Yunfan Ren, Renda Yang, Qiangsheng Huang et al. | [Abstract](https://arxiv.org/abs/2610.26550) · [PDF](https://arxiv.org/pdf/2610.26550) |
+| 2026-10-19 | Design and Control of a Multimodal Legged-Aerial Robot Through Separate Control Contraction Metrics | Kaushik Venkatesh Krishnamurthy, Eric Sihite, Alireza Ramezani, Morteza Gharib | [Abstract](https://arxiv.org/abs/2610.27315) · [PDF](https://arxiv.org/pdf/2610.27315) |
+| 2026-10-19 | Bio-inspired Thrust-Assisted Trotting on a legged-Aerial Robot via Real-Time QP-MPC | Shreyansh Pitroda, Eric Sihite, Alireza Ramezani, Morteza Gharib | [Abstract](https://arxiv.org/abs/2610.26810) · [PDF](https://arxiv.org/pdf/2610.26810) |
 | 2026-10-15 | Training-Free Target-Aware Refinement of 3D Gaussian Language Map | Sibaek Lee, Kyeongsu Kang, Seongbo Ha, Yewon Jeon et al. | [Abstract](https://arxiv.org/abs/2610.21619) · [PDF](https://arxiv.org/pdf/2610.21619) |
 | 2026-10-13 | Walk Like This: Stylized Locomotion for Physics-Based Characters through Example-Driven Diffusion | Joshua Aurand, Agon Serifi, Sammy Christen, Ruben Grandia et al. | [Abstract](https://arxiv.org/abs/2610.18147) · [PDF](https://arxiv.org/pdf/2610.18147) |
 | 2026-10-13 | LAG-IO: Multi-IMU State Estimation for Legged Robots Using Factor Graphs | Yicheng Zhou, Longwen Chen, Qinghua Yu, Junhao Xiao et al. | [Abstract](https://arxiv.org/abs/2610.17870) · [PDF](https://arxiv.org/pdf/2610.17870) |
@@ -408,6 +416,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-10-22 | Cycloidal Quasi-Direct Drive Actuator Designs with Learning-based Torque Estimation for Legged Robotics | Alvin Zhu, Yusuke Tanaka, Fadi Rafeedi, Dennis Hong | [Abstract](https://arxiv.org/abs/2410.16591) · [PDF](https://arxiv.org/pdf/2410.16591) |
 | 2024-10-17 | State Estimation Transformers for Agile Legged Locomotion | Chen Yu, Yichu Yang, Tianlin Liu, Yangwei You et al. | [Abstract](https://arxiv.org/abs/2410.13496) · [PDF](https://arxiv.org/pdf/2410.13496) |
 | 2024-10-14 | Traversability-Aware Legged Navigation by Learning from Real-World Visual Data | Hongbo Zhang, Zhongyu Li, Xuanqi Zeng, Laura Smith et al. | [Abstract](https://arxiv.org/abs/2410.10621) · [PDF](https://arxiv.org/pdf/2410.10621) |
+| 2024-10-04 | Synergistic Action and Style Priors for Learning Legged Locomotion | Oliver Hausdörfer, Alexander von Rohr, Éric Lefort, Angela Schoellig | [Abstract](https://arxiv.org/abs/2410.03246) · [PDF](https://arxiv.org/pdf/2410.03246) |
 | 2024-10-03 | Gait Optimization for Legged Systems Through Mixed Distribution Cross-Entropy Optimization | Ioannis Tsikelis, Konstantinos Chatzilygeroudis | [Abstract](https://arxiv.org/abs/2410.02891) · [PDF](https://arxiv.org/pdf/2410.02891) |
 | 2024-10-01 | Steering Elongate Multi-legged Robots By Modulating Body Undulation Waves | Esteban Flores, Baxi Chong, Daniel Soto, Daniel I. Goldman | [Abstract](https://arxiv.org/abs/2410.01050) · [PDF](https://arxiv.org/pdf/2410.01050) |
 | 2024-10-01 | Effective self-righting strategies for elongate multi-legged robots | Erik Teder, Baxi Chong, Juntao He, Tianyu Wang et al. | [Abstract](https://arxiv.org/abs/2410.01056) · [PDF](https://arxiv.org/pdf/2410.01056) |
@@ -481,10 +490,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-10 | Explosive Legged Robotic Hopping: Energy Accumulation and Power Amplification via Pneumatic Augmentation | Yifei Chen, Arturo Gamboa-Gonzalez, Michael Wehner, Xiaobin Xiong | [Abstract](https://arxiv.org/abs/2312.05773) · [PDF](https://arxiv.org/pdf/2312.05773) |
 | 2023-11-25 | How Strong a Kick Should be to Topple Northeastern's Tumbling Robot? | Adarsh Salagame, Neha Bhattachan, Andre Caetano, Ian McCarthy et al. | [Abstract](https://arxiv.org/abs/2311.14878) · [PDF](https://arxiv.org/pdf/2311.14878) |
 | 2023-11-07 | Design and Experimental Verification of a Jumping Legged Robot for Martian Lava Tube Exploration | Jørgen Anker Olsen, Kostas Alexis | [Abstract](https://arxiv.org/abs/2311.03854) · [PDF](https://arxiv.org/pdf/2311.03854) |
-| 2023-10-31 | Modeling multi-legged robot locomotion with slipping and its experimental validation | Ziyou Wu, Dan Zhao, Shai Revzen | [Abstract](https://arxiv.org/abs/2310.20669) · [PDF](https://arxiv.org/pdf/2310.20669) |
-| 2023-10-26 | Grow Your Limits: Continuous Improvement with Real-World RL for Robotic Locomotion | Laura Smith, Yunhao Cao, Sergey Levine | [Abstract](https://arxiv.org/abs/2310.17634) · [PDF](https://arxiv.org/pdf/2310.17634) |
-| 2023-10-24 | Learning Agility and Adaptive Legged Locomotion via Curricular Hindsight Reinforcement Learning | Sicen Li, Yiming Pang, Panju Bai, Zhaojin Liu et al. | [Abstract](https://arxiv.org/abs/2310.15583) · [PDF](https://arxiv.org/pdf/2310.15583) |
-| 2023-10-23 | Martian Lava Tube Exploration Using Jumping Legged Robots: A Concept Study | Jørgen Anker Olsen, Kostas Alexis | [Abstract](https://arxiv.org/abs/2310.14876) · [PDF](https://arxiv.org/pdf/2310.14876) |
 
 ---
 

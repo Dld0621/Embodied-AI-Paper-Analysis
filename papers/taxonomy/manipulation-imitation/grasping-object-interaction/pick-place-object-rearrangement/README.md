@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Grasping%20%26%20Object%20Interaction&specialty=Pick-place%20%26%20Object%20Rearrangement#research-workbench)
 
-> 62 conference papers · 161 recent arXiv papers
+> 62 conference papers · 165 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -81,10 +81,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Rearrangement-Based Manipulation via Kinodynamic Planning and Dynamic Planning Horizons | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2208.02312) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981599) |
 | 2022 | Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement | IROS · Object Rearrangement | [Paper](https://arxiv.org/pdf/2207.08078) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981715) |
 
-## Recent arXiv papers (161)
+## Recent arXiv papers (165)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-29 | Language-Grounded Force/Torque Pretraining for Extrinsic Contact Perception | Kazuki Takahashi, Hiroaki Murakami, Ryota Sakuma, Mitsuhiro Kamezaki et al. | [Abstract](https://arxiv.org/abs/2610.39314) · [PDF](https://arxiv.org/pdf/2610.39314) |
+| 2026-10-28 | Proprioceptive Finger Force Estimation for Reliable Box Manipulation | Junha Cha, Chanwoo Kim, Kisang Park, Yeoncheol Jang et al. | [Abstract](https://arxiv.org/abs/2610.38351) · [PDF](https://arxiv.org/pdf/2610.38351) |
+| 2026-10-19 | Long-Horizon Multi-Object Rearrangement via Distilled Tree Search over Continuous Actions | Kallol Saha, Yining Hong, Amber Li, Yejin Choi et al. | [Abstract](https://arxiv.org/abs/2610.25785) · [PDF](https://arxiv.org/pdf/2610.25785) |
+| 2026-10-12 | REAP: Learning General Rearrangement Heuristics from Motion-Planner Feedback | Daniel Swoboda, Hector Geffner | [Abstract](https://arxiv.org/abs/2610.23973) · [PDF](https://arxiv.org/pdf/2610.23973) |
 | 2026-10-01 | Is Success All You Need? Investigating the Impact of Input Perturbations on VLA Behaviour in Tabletop Manipulation Tasks | Sophie Higham, Riccardo Andrea Izzo, Matteo Matteucci, Alessandro Suglia | [Abstract](https://arxiv.org/abs/2610.01351) · [PDF](https://arxiv.org/pdf/2610.01351) |
 | 2026-09-25 | Evaluating the Impact of Adaptive Extended Reality on Human-Robot Interaction Across the Reality-Virtuality Continuum | Carl Tornberg, Alicia Torck, Lotfi El Hafi, Tadahiro Taniguchi | [Abstract](https://arxiv.org/abs/2609.31138) · [PDF](https://arxiv.org/pdf/2609.31138) |
 | 2026-09-22 | MultiPush: Learning to Rearrange with Teams of Car-Like Pushers | Jeeho Ahn, Christoforos Mavrogiannis | [Abstract](https://arxiv.org/abs/2609.27005) · [PDF](https://arxiv.org/pdf/2609.27005) |

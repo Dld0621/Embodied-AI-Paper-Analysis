@@ -27,6 +27,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-27 | Efficacy of Monocular Depth Estimation in Lunar Environments | Michael W. Lanighan, Kenji Brameld, Seth Gee | [Abstract](https://arxiv.org/abs/2610.38080) · [PDF](https://arxiv.org/pdf/2610.38080) |
+| 2026-10-21 | DepState-JEPA: Learning Depth-Grounded State Representation for Visual Perception and Manipulation | Xiujian Liang, Liuyuan Na, Zehao Du, Jiacheng Xu et al. | [Abstract](https://arxiv.org/abs/2610.29246) · [PDF](https://arxiv.org/pdf/2610.29246) |
+| 2026-10-19 | EgoRayFormer: Ray-Space Stereo Refinement for Egocentric 3D Human Pose Estimation | Haozhe Wang, Songyuan Wu, Jihai Xu, Jie Zhao | [Abstract](https://arxiv.org/abs/2610.26641) · [PDF](https://arxiv.org/pdf/2610.26641) |
 | 2026-10-11 | Harnessing SPAD Noise: Test-Time Gated Attention for Indoor Depth Estimation | Yiquan Gao | [Abstract](https://arxiv.org/abs/2610.15431) · [PDF](https://arxiv.org/pdf/2610.15431) |
 | 2026-10-08 | CoCam4D: Geometry-Aware Cooperative 4D Perception for Camera-Only Autonomous Driving | Soham Pahari, Sudip Das, Arindam Das, Ujjwal Bhattacharya | [Abstract](https://arxiv.org/abs/2610.11577) · [PDF](https://arxiv.org/pdf/2610.11577) |
 | 2026-10-02 | Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis | Keerthi Kaashyap, Dennis Anthony, Akshay Krishnan, Nhi Ngoc Nguyen et al. | [Abstract](https://arxiv.org/abs/2610.03717) · [PDF](https://arxiv.org/pdf/2610.03717) |
@@ -143,9 +146,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-10 | GenDepth: Generalizing Monocular Depth Estimation for Arbitrary Camera Parameters via Ground Plane Embedding | Karlo Koledić, Luka Petrović, Ivan Petrović, Ivan Marković | [Abstract](https://arxiv.org/abs/2312.06021) · [PDF](https://arxiv.org/pdf/2312.06021) |
 | 2023-12-07 | Camera Height Doesn't Change: Unsupervised Training for Metric Monocular Road-Scene Depth Estimation | Genki Kinoshita, Ko Nishino | [Abstract](https://arxiv.org/abs/2312.04530) · [PDF](https://arxiv.org/pdf/2312.04530) |
 | 2023-11-23 | MonoNav: MAV Navigation via Monocular Depth Estimation and Reconstruction | Nathaniel Simon, Anirudha Majumdar | [Abstract](https://arxiv.org/abs/2311.14100) · [PDF](https://arxiv.org/pdf/2311.14100) |
-| 2023-10-27 | What You See Is What You Detect: Towards better Object Densification in 3D detection | Tianran Liu, Zeping Zhang, Morteza Mousa Pasandi, Robert Laganiere | [Abstract](https://arxiv.org/abs/2310.17842) · [PDF](https://arxiv.org/pdf/2310.17842) |
-| 2023-10-25 | Metrically Scaled Monocular Depth Estimation through Sparse Priors for Underwater Robots | Luca Ebner, Gideon Billings, Stefan Williams | [Abstract](https://arxiv.org/abs/2310.16750) · [PDF](https://arxiv.org/pdf/2310.16750) |
-| 2023-10-23 | RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions | Lingdong Kong, Shaoyuan Xie, Hanjiang Hu, Lai Xing Ng et al. | [Abstract](https://arxiv.org/abs/2310.15171) · [PDF](https://arxiv.org/pdf/2310.15171) |
 
 ---
 

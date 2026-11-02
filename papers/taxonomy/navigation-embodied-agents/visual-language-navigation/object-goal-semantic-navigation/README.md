@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Visual%20%26%20Language%20Navigation&specialty=Object-goal%20%26%20Semantic%20Navigation#research-workbench)
 
-> 11 conference papers · 55 recent arXiv papers
+> 11 conference papers · 58 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -30,10 +30,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Self-Supervised Object Goal Navigation with In-Situ Finetuning | IROS · Navigation | [Paper](https://arxiv.org/pdf/2212.05923) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341959) |
 | 2022 | ZSON: Zero-Shot Object-Goal Navigation using Multimodal Goal Embeddings | NeurIPS · Navigation | [Paper](https://arxiv.org/pdf/2206.12403) · [Publisher](https://doi.org/10.48550/arXiv.2206.12403) |
 
-## Recent arXiv papers (55)
+## Recent arXiv papers (58)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-25 | ScheNav: Schematic-Guided Object Goal Navigation | Guichen Huang, Chenchen Jing, Che Sun, Yuwei Wu et al. | [Abstract](https://arxiv.org/abs/2610.34286) · [PDF](https://arxiv.org/pdf/2610.34286) |
+| 2026-10-20 | CovNav: Conformal Prediction-Guided Adaptive Inference for Object Goal Navigation | Pengying Wu, Zhejia Wen, Kang Ding, Kangjie Zhou et al. | [Abstract](https://arxiv.org/abs/2610.27677) · [PDF](https://arxiv.org/pdf/2610.27677) |
+| 2026-10-20 | CLOSER: Evidence-Aware Active Visual Verification for Embodied Object-Goal Navigation | Pengying Wu, Mingye Jiang, Yunze Hu, Zhejia Wen et al. | [Abstract](https://arxiv.org/abs/2610.28476) · [PDF](https://arxiv.org/pdf/2610.28476) |
 | 2026-10-16 | StopWatch: Goal Grounding for Object-goal Navigation | Xinhao Liu, Yunsheng Tian, Yuheng Qiu, Pieter Abbeel et al. | [Abstract](https://arxiv.org/abs/2610.23841) · [PDF](https://arxiv.org/pdf/2610.23841) |
 | 2026-10-14 | HM3D-M3: A Benchmark for Multi-Agent, Multi-Modal, Multi-Object Goal Navigation | Hongyu Ding, Kanyu Xu, Mingjia Chen, Zixuan Chen et al. | [Abstract](https://arxiv.org/abs/2610.20121) · [PDF](https://arxiv.org/pdf/2610.20121) |
 | 2026-10-14 | F2A-ObjectNav: An Adaptive Agentic Architecture for Object-Goal Navigation | Seyed Ali Mirghasemi, Alireza Taheri | [Abstract](https://arxiv.org/abs/2610.19618) · [PDF](https://arxiv.org/pdf/2610.19618) |

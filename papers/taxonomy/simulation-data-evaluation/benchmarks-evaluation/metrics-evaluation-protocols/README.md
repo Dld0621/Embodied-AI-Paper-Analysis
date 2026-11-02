@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Evaluation&specialty=Metrics%20%26%20Evaluation%20Protocols#research-workbench)
 
-> 6 conference papers · 74 recent arXiv papers
+> 6 conference papers · 76 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,11 +25,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2506.06677) · [Publisher](https://doi.org/10.48550/arXiv.2506.06677) |
 | 2024 | The Design of the Barkour Benchmark for Robot Agility | IROS · Benchmark | [Paper](https://doi.org/10.1109/IROS58592.2024.10801377) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801377) |
 
-## Recent arXiv papers (74)
+## Recent arXiv papers (76)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
-| 2026-10-15 | Comfortably Stuck: Evaluation Pitfalls in Bench2Drive's Closed-Loop Protocol | Thomas Schwarzfischer, Emad Aghajanzadeh, Moritz Thoma, Nael Fasfous et al. | [Abstract](https://arxiv.org/abs/2610.21741) · [PDF](https://arxiv.org/pdf/2610.21741) |
+| 2026-10-27 | Making Self-Driving Laboratories Auditable:A Unified Framework for Hybrid Actions,Measurements, and Safe Execution | Zihan Zhang, Zeyu Wu, Xin Zhang, Mingyu Luo et al. | [Abstract](https://arxiv.org/abs/2610.36761) · [PDF](https://arxiv.org/pdf/2610.36761) |
+| 2026-10-26 | Behavioural Quality Is Not Learning Utility: Objective Mismatch in Human Behaviour Models for Robot Learning | Haoyang Jiang, Dana Kulic, Michael Burke, Pamela Carreno-Medrano | [Abstract](https://arxiv.org/abs/2610.34839) · [PDF](https://arxiv.org/pdf/2610.34839) |
+| 2026-10-19 | Which Depth Estimator for Jetson AGX Orin? A 2026 Benchmark of Monocular and Stereo Methods | Leaf Jiang | [Abstract](https://arxiv.org/abs/2610.27199) · [PDF](https://arxiv.org/pdf/2610.27199) |
+| 2026-10-15 | Comfortably Stuck: Evaluation Pitfalls in Bench2Drive's Closed-Loop Protocol | Emad Aghajanzadeh, Thomas Schwarzfischer, Moritz Thoma, Nael Fasfous et al. | [Abstract](https://arxiv.org/abs/2610.21741) · [PDF](https://arxiv.org/pdf/2610.21741) |
 | 2026-10-14 | Instruction-Conditioned Motion Control for Robotic Arms: Language-to-Code Decomposition and Reinforcement Learning | Fan Huang, Dezhong Tong, Changyu Chen, Haewoon Kwak et al. | [Abstract](https://arxiv.org/abs/2610.19617) · [PDF](https://arxiv.org/pdf/2610.19617) |
 | 2026-10-13 | YUBI-Real2Sim: 3DGS Scene Verification for Reliable Policy Evaluation | Hiroki Nishizawa, Takehiko Ohkawa, Nicola Scianca, Tatsuya Matsushima et al. | [Abstract](https://arxiv.org/abs/2610.17521) · [PDF](https://arxiv.org/pdf/2610.17521) |
 | 2026-10-13 | Reference Wording Shapes Retrieval of Robot Task Instructions | Jahnavi Yelamanchi | [Abstract](https://arxiv.org/abs/2610.17549) · [PDF](https://arxiv.org/pdf/2610.17549) |
@@ -102,7 +105,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-03-07 | Towards learning-based planning:The nuPlan benchmark for real-world autonomous driving | Napat Karnchanachari, Dimitris Geromichalos, Kok Seang Tan, Nanxiang Li et al. | [Abstract](https://arxiv.org/abs/2403.04133) · [PDF](https://arxiv.org/pdf/2403.04133) |
 | 2024-02-06 | Online Informative Sampling using Semantic Features in Underwater Environments | Shrutika Vishal Thengane, Yu Xiang Tan, Marcel Bartholomeus Prasetyo, Malika Meghjani | [Abstract](https://arxiv.org/abs/2402.03636) · [PDF](https://arxiv.org/pdf/2402.03636) |
 | 2023-11-24 | IDD-AW: A Benchmark for Safe and Robust Segmentation of Drive Scenes in Unstructured Traffic and Adverse Weather | Furqan Ahmed Shaik, Abhishek Malreddy, Nikhil Reddy Billa, Kunal Chaudhary et al. | [Abstract](https://arxiv.org/abs/2311.14459) · [PDF](https://arxiv.org/pdf/2311.14459) |
-| 2023-10-23 | DICE: Diverse Diffusion Model with Scoring for Trajectory Prediction | Younwoo Choi, Ray Coden Mercurius, Soheil Mohamad Alizadeh Shabestary, Amir Rasouli | [Abstract](https://arxiv.org/abs/2310.14570) · [PDF](https://arxiv.org/pdf/2310.14570) |
 
 ---
 

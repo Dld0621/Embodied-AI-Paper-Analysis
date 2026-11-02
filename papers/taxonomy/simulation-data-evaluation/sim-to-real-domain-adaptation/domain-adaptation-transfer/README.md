@@ -47,6 +47,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-23 | Regularised RL improves sim-to-real transfer | Danilo Vucetic, Mohamad H. Danesh, Florence Clerc, Hsiu-Chin Lin et al. | [Abstract](https://arxiv.org/abs/2610.32855) · [PDF](https://arxiv.org/pdf/2610.32855) |
+| 2026-10-21 | PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration | Xiujian Liang, Jiacheng Liu, Mingyang Sun, Qichen He et al. | [Abstract](https://arxiv.org/abs/2610.29432) · [PDF](https://arxiv.org/pdf/2610.29432) |
 | 2026-10-08 | Sim-to-Real RL for ASVs using SysID | Cody Sheltraw, Tsimafei Lazouski, Maani Ghaffari, Alan Papalia | [Abstract](https://arxiv.org/abs/2610.12202) · [PDF](https://arxiv.org/pdf/2610.12202) |
 | 2026-10-07 | RoboRender: Robot-Oriented Video Generation for Visual Sim-to-Real Transfer | Huang Huang, Wensi Ai, Ziyu Chen, Youhui Wang et al. | [Abstract](https://arxiv.org/abs/2610.09254) · [PDF](https://arxiv.org/pdf/2610.09254) |
 | 2026-10-06 | Micro Neural Policies for Safe Real-Time Robotic Control | Hongpeng Cao, Riccardo Curcio, Daniele Ottaviano, Marco Caccamo | [Abstract](https://arxiv.org/abs/2610.08541) · [PDF](https://arxiv.org/pdf/2610.08541) |
@@ -72,7 +74,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-06 | SILO: Simulation-in-the-Loop Sim-to-Real Transfer for Multi-Stage Cable Routing | Stone Tao, Jie Xu, Hesam Rabeti, Yashraj Narang et al. | [Abstract](https://arxiv.org/abs/2607.04616) · [PDF](https://arxiv.org/pdf/2607.04616) |
 | 2026-07-06 | Efficient Transfer Learning of Robot Dynamic Models Using Morphological Similarity | Pavlo Kupyn, Yuya Hamamatsu, Roza Gkliva, Asko Ristolainen et al. | [Abstract](https://arxiv.org/abs/2607.05665) · [PDF](https://arxiv.org/pdf/2607.05665) |
 | 2026-07-01 | BIFROST: Bridging Invariant Feature Representation for Observation-space Sim2Real Transfer | Yunfu Deng, Josiah P. Hanna | [Abstract](https://arxiv.org/abs/2607.01410) · [PDF](https://arxiv.org/pdf/2607.01410) |
-| 2026-06-30 | ASPIRE: Agentic /Skills Discovery for Robotics | Runyu Lu, Yubo Wu, Ethan Kou, Letian Fu et al. | [Abstract](https://arxiv.org/abs/2607.00272) · [PDF](https://arxiv.org/pdf/2607.00272) |
 | 2026-06-29 | FalconTrack: Photorealistic Auto-Labeled Perception and Physics-Aware Vision-Based Aerial Tracking | Yan Miao, Karteek Gandiboyina, Noah Giles, Hideki Okamoto et al. | [Abstract](https://arxiv.org/abs/2606.29783) · [PDF](https://arxiv.org/pdf/2606.29783) |
 | 2026-06-27 | Physics Models for Sim-to-Real Transfer in Professional-Level Robot Table Tennis | Christian Conti, Bilan Yang, Alexander Sigrist, Lorenzo Miele et al. | [Abstract](https://arxiv.org/abs/2606.28805) · [PDF](https://arxiv.org/pdf/2606.28805) |
 | 2026-06-25 | IDEA: Insensitive to Dynamics Mismatch via Effect Alignment for Sim-to-Real Transfer in Multi-Agent Control | Chenlong Liu, Zhuohui Zhang, Xinyan Chen, Zhipeng Wang et al. | [Abstract](https://arxiv.org/abs/2606.26575) · [PDF](https://arxiv.org/pdf/2606.26575) |
@@ -213,7 +214,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-06 | Irrotational Contact Fields | Alejandro Castro, Xuchen Han, Joseph Masterjohn | [Abstract](https://arxiv.org/abs/2312.03908) · [PDF](https://arxiv.org/pdf/2312.03908) |
 | 2023-11-07 | TWIST: Teacher-Student World Model Distillation for Efficient Sim-to-Real Transfer | Jun Yamada, Marc Rigter, Jack Collins, Ingmar Posner | [Abstract](https://arxiv.org/abs/2311.03622) · [PDF](https://arxiv.org/pdf/2311.03622) |
 | 2023-11-07 | Imitation learning for sim-to-real transfer of robotic cutting policies based on residual Gaussian process disturbance force model | Jamie Hathaway, Rustam Stolkin, Alireza Rastegarpanah | [Abstract](https://arxiv.org/abs/2311.04096) · [PDF](https://arxiv.org/pdf/2311.04096) |
-| 2023-10-21 | Unsupervised Sim-to-Real Adaptation of Soft Robot Proprioception using a Dual Cross-modal Autoencoder | Chaeree Park, Hyunkyu Park, Jung Kim | [Abstract](https://arxiv.org/abs/2310.14075) · [PDF](https://arxiv.org/pdf/2310.14075) |
 
 ---
 

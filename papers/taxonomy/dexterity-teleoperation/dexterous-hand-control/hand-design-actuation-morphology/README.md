@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Dexterous%20Hand%20Control&specialty=Hand%20Design%2C%20Actuation%20%26%20Morphology#research-workbench)
 
-> 14 conference papers · 63 recent arXiv papers
+> 14 conference papers · 65 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,10 +33,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | LEAP Hand: Low-Cost, Efficient, and Anthropomorphic Hand for Robot Learning | RSS · Dexterous hardware | [Paper](https://arxiv.org/abs/2309.06440) · [Official](https://roboticsproceedings.org/rss19/index.html) · [Code](https://github.com/leap-hand/LEAP_Hand_API) |
 | 2022 | Toward Dexterous Flapping Flight: Effective Large Yaw Torque Generation by $2\times 2$-Degrees-of-Freedom Flapping Wings | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS47612.2022.9981990) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981990) |
 
-## Recent arXiv papers (63)
+## Recent arXiv papers (65)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-27 | A fully articulated humanoid dexterous hand with human-level joint structure enabled by linkage-based actuation | Jihao Li, Jianguo Wang, Haotian Guo, Yanzhe Wang et al. | [Abstract](https://arxiv.org/abs/2610.36789) · [PDF](https://arxiv.org/pdf/2610.36789) |
+| 2026-10-21 | PHD-Hand: A Printable Humanoid Dexterous Hand with Linkage-Driven 3-DOA Digits | Neel Adwani, Muhaiminul Islam Akash, Saffia Ouali, Ethan Liu et al. | [Abstract](https://arxiv.org/abs/2610.29030) · [PDF](https://arxiv.org/pdf/2610.29030) |
 | 2026-10-01 | Learning a Resolution-Consistent Jacobian Field for Bio-Inspired Rigid-Soft Finger | Tianyou Liang, Haisen Zeng, Shanjun Chen, YiMing Zhu et al. | [Abstract](https://arxiv.org/abs/2610.01668) · [PDF](https://arxiv.org/pdf/2610.01668) |
 | 2026-09-28 | Design and Validation of an Antagonistic Tendon-Driven Dexterous Robotic Hand with Bidirectional Operation | Chunghyeon Lee, Hyukjun Kwon, Sungeon Kim, Saehyun Moon et al. | [Abstract](https://arxiv.org/abs/2609.36241) · [PDF](https://arxiv.org/pdf/2609.36241) |
 | 2026-09-21 | Dexterous Robot Manipulation from Human Demonstrations via Contact-Anchored Retargeting and Residual Policy Learning | Zihao Yang, Chengyuan Liu, Yu Zhou, Runze Lv et al. | [Abstract](https://arxiv.org/abs/2609.24093) · [PDF](https://arxiv.org/pdf/2609.24093) |
@@ -54,7 +56,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-08 | YUBI: Yielding Universal Bidigital Interface for Bimanual Dexterous Manipulation at Scale | Takehiko Ohkawa, Jumpei Arima, Yuki Noguchi, Masatoshi Tateno et al. | [Abstract](https://arxiv.org/abs/2606.10244) · [PDF](https://arxiv.org/pdf/2606.10244) |
 | 2026-05-28 | Any-ttach: Quick End-effector Swapping Enables Manipulation Dexterity with Simplicity | Weizhe Ni, Jinzhou Li, Haoyu Li, Cody Andres Alessio-Bunnell et al. | [Abstract](https://arxiv.org/abs/2605.30569) · [PDF](https://arxiv.org/pdf/2605.30569) |
 | 2026-05-13 | Towards Robotic Dexterous Hand Intelligence: A Survey | Weiguang Zhao, Tian Liang, Xihao Guo, Rui Zhang et al. | [Abstract](https://arxiv.org/abs/2605.13925) · [PDF](https://arxiv.org/pdf/2605.13925) |
-| 2026-05-02 | High-Speed, Scalable Sensor Readout for Dexterous Robotic Hands via Shift-Register Multiplexing | Jaehoon Kim, Lazaros Christoforidis, Michalis Papadakis, Victor Kartsch et al. | [Abstract](https://arxiv.org/abs/2605.01434) · [PDF](https://arxiv.org/pdf/2605.01434) |
+| 2026-05-02 | High-Speed, Scalable Sensor Readout for Dexterous Robotic Hands via Shift-Register Multiplexing | Jaehoon Kim, Boshi An, Lazaros Christoforidis, Michail Papadakis et al. | [Abstract](https://arxiv.org/abs/2605.01434) · [PDF](https://arxiv.org/pdf/2605.01434) |
 | 2026-04-30 | Function-based Parametric Co-Design Optimization of Dexterous Hands | Mohammad Amin Mirzaee, Harsh Gupta, Wenzhen Yuan | [Abstract](https://arxiv.org/abs/2604.27557) · [PDF](https://arxiv.org/pdf/2604.27557) |
 | 2026-04-22 | A Kinematic Framework for Screening Candidate Pinch Configurations in Robotic Hand Design without Object or Contact Models | HyoJae Kang, Joonho Lee, Hyunmok Jung, Dong Il Park | [Abstract](https://arxiv.org/abs/2604.20692) · [PDF](https://arxiv.org/pdf/2604.20692) |
 | 2026-04-20 | Periodic Steady-State Control of a Handkerchief-Spinning Task Using a Parallel Anti-Parallelogram Tendon-driven Wrist | Lei Liu, Haonan Zhang, Huahang Xu, Zefan Zhang et al. | [Abstract](https://arxiv.org/abs/2604.17863) · [PDF](https://arxiv.org/pdf/2604.17863) |

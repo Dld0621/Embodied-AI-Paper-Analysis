@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Tactile%20%26%20Haptic%20Interfaces&specialty=Tactile%20Sensing%20%26%20Representation#research-workbench)
 
-> 8 conference papers · 55 recent arXiv papers
+> 8 conference papers · 56 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,10 +27,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | FingerTac - An Interchangeable and Wearable Tactile Sensor for the Fingertips of Human and Robot Hands | IROS · Robot Hand | [Paper](https://arxiv.org/pdf/2310.09201) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342285) |
 | 2022 | Load-sensitive Data Acquisition for a Tactile Sensor System of Multi-fingered Robotic Hands | ICRA · Multi Finger | [Paper](https://doi.org/10.1109/icra46639.2022.9812260) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812260) |
 
-## Recent arXiv papers (55)
+## Recent arXiv papers (56)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-22 | OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing | Ariel Slepyan, Geeta Chandra Raju Bethala, Jiafeng Gu, Anagha Rajendra Dangle et al. | [Abstract](https://arxiv.org/abs/2610.31661) · [PDF](https://arxiv.org/pdf/2610.31661) |
 | 2026-09-30 | OccluDex: Hierarchical 3D Visuo-Tactile Representation Learning for Egocentric Dexterous Manipulation under Self-Occlusion | Ziheng Xu, Yueyuan Chen, Xinyuan He, Guoxing Liu et al. | [Abstract](https://arxiv.org/abs/2609.39017) · [PDF](https://arxiv.org/pdf/2609.39017) |
 | 2026-09-26 | GlowTact: Simple and Compact Vision-Based Tactile Sensing with High Sensitivity and Spatial Resolution | Yuxiang Ma, Megha Tippur, Pengfei Ye, Sandra Q. Liu et al. | [Abstract](https://arxiv.org/abs/2609.32471) · [PDF](https://arxiv.org/pdf/2609.32471) |
 | 2026-09-24 | Tactile Sensing Array for Multi-Phalanx Sensing in Humanoid Hands | Neel Adwani, Muhaiminul Islam Akash, Rituja Bhattacharya, Cong Wang | [Abstract](https://arxiv.org/abs/2609.30506) · [PDF](https://arxiv.org/pdf/2609.30506) |

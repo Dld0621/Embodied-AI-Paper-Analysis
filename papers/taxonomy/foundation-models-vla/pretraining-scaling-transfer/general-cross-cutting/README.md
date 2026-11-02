@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Pretraining%2C%20Scaling%20%26%20Transfer&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 17 conference papers · 195 recent arXiv papers
+> 18 conference papers · 200 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,7 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (17)
+## Conference papers (18)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -33,13 +33,20 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Composing Pre-Trained Object-Centric Representations for Robotics From "What" and "Where" Foundation Models | ICRA · Foundation Model | [Paper](https://arxiv.org/pdf/2404.13474) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610695) |
 | 2024 | Self-Recovery Prompting: Promptable General Purpose Service Robot System with Foundation Models and Self-Recovery | ICRA · Foundation Model | [Paper](https://arxiv.org/pdf/2309.14425) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611640) |
 | 2024 | ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots | IROS · Foundation Model | [Paper](https://arxiv.org/pdf/2405.06964) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801782) |
+| 2024 | Demonstrating Event-Triggered Investigation and Sample Collection for Human Scientists using Field Robots and Large Foundation Models | RSS · Foundation Model | [Paper](https://doi.org/10.15607/rss.2024.xx.017) · [Publisher](https://doi.org/10.15607/rss.2024.xx.017) |
 | 2024 | DrEureka: Language Model Guided Sim-To-Real Transfer | RSS · Language Model | [Paper](https://arxiv.org/abs/2406.01967) · [Publisher](https://doi.org/10.48550/arXiv.2406.01967) |
 | 2023 | Gesture-Informed Robot Assistance via Foundation Models | CoRL · Foundation Model | [Paper](https://arxiv.org/pdf/2309.02721) · [Publisher](https://doi.org/10.48550/arXiv.2309.02721) |
 
-## Recent arXiv papers (195)
+## Recent arXiv papers (200)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | META-Robot: Self-Cognition and Capability Scaling in Agentic Robots | Xuanzhi Feng, Zeyu Liu, Weiheng Gao, Xinchen Li et al. | [Abstract](https://arxiv.org/abs/2610.41868) · [PDF](https://arxiv.org/pdf/2610.41868) |
+| 2026-10-28 | When "No Worries" Went Wrong: HRI Lessons for Foundation-Model Robots | Eliahu Khalastchi | [Abstract](https://arxiv.org/abs/2610.38400) · [PDF](https://arxiv.org/pdf/2610.38400) |
+| 2026-10-19 | Foundation Model Driven Optical Flow | Praroop Chanda, Suryansh Kumar | [Abstract](https://arxiv.org/abs/2610.26690) · [PDF](https://arxiv.org/pdf/2610.26690) |
+| 2026-10-18 | TILDE: Teacher-in-the-Loop Distillation from Embodied Foundation Models | Yuxiang Lu, Yantong Liu, Jinghua Hou, Xueli Sun et al. | [Abstract](https://arxiv.org/abs/2610.25376) · [PDF](https://arxiv.org/pdf/2610.25376) |
+| 2026-10-18 | Self-Crystallizing Behavior Trees: Amortizing Foundation-Model Reasoning into Deterministic Control for Autonomous Drones | Behnam Moradi | [Abstract](https://arxiv.org/abs/2610.25455) · [PDF](https://arxiv.org/pdf/2610.25455) |
+| 2026-10-17 | LIBERO-Pro2.0: A Benchmark for Evaluating the Robustness of Embodied Foundation Models | Xueyang Zhou, Yangming Xu, Qianjiang Li, Guiyao Tie et al. | [Abstract](https://arxiv.org/abs/2610.24587) · [PDF](https://arxiv.org/pdf/2610.24587) |
 | 2026-10-16 | Foundation Models for Autonomous Space Robotics: Architectures, Physical Adaptation, and Validation | Zizhe Wang, Jia Deng, Xin Lu, Zehao Jia et al. | [Abstract](https://arxiv.org/abs/2610.23068) · [PDF](https://arxiv.org/pdf/2610.23068) |
 | 2026-10-14 | Why 3D Reconstruction Breaks Down on Under-Ice AUV Video, and How to Predict It | Ana-Ştefania Kogălniceanu, Klára Orbán, Ashwin Nedungadi, Stefan Lüdtke et al. | [Abstract](https://arxiv.org/abs/2610.19993) · [PDF](https://arxiv.org/pdf/2610.19993) |
 | 2026-10-13 | Acting Through Registers | Yiwei Zhang, Yantai Yang, Jin Gao, Jin Lou et al. | [Abstract](https://arxiv.org/abs/2610.17638) · [PDF](https://arxiv.org/pdf/2610.17638) |
@@ -234,7 +241,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-18 | CLIPSwarm: Converting text into formations of robots | Pablo Pueyo, Eduardo Montijano, Ana C. Murillo, Mac Schwager | [Abstract](https://arxiv.org/abs/2311.11047) · [PDF](https://arxiv.org/pdf/2311.11047) |
 | 2023-11-12 | DialMAT: Dialogue-Enabled Transformer with Moment-Based Adversarial Training | Kanta Kaneda, Ryosuke Korekata, Yuiga Wada, Shunya Nagashima et al. | [Abstract](https://arxiv.org/abs/2311.06855) · [PDF](https://arxiv.org/pdf/2311.06855) |
 | 2023-11-03 | RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches | Jiayuan Gu, Sean Kirmani, Paul Wohlhart, Yao Lu et al. | [Abstract](https://arxiv.org/abs/2311.01977) · [PDF](https://arxiv.org/pdf/2311.01977) |
-| 2023-10-26 | Drive Anywhere: Generalizable End-to-end Autonomous Driving with Multi-modal Foundation Models | Tsun-Hsuan Wang, Alaa Maalouf, Wei Xiao, Yutong Ban et al. | [Abstract](https://arxiv.org/abs/2310.17642) · [PDF](https://arxiv.org/pdf/2310.17642) |
 
 ---
 

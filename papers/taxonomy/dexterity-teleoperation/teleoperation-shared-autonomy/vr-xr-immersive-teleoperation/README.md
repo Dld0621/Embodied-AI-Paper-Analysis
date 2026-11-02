@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Autonomy&specialty=VR%2C%20XR%20%26%20Immersive%20Teleoperation#research-workbench)
 
-> 13 conference papers · 44 recent arXiv papers
+> 13 conference papers · 46 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -32,10 +32,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Orbital Head-Mounted Display: A Novel Interface for Viewpoint Control during Robot Teleoperation in Cluttered Environments | IROS · Teleoperation | [Paper](https://repository.tudelft.nl/file/File_26aebecf-3ff9-4d5e-a65b-acb925dc7491) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341733) |
 | 2022 | Tactile Classification of Object Materials for Virtual Reality based Robot Teleoperation | ICRA · Teleoperation | [Paper](https://hal.science/hal-03644224) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811825) |
 
-## Recent arXiv papers (44)
+## Recent arXiv papers (46)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-29 | Gaze-Assisted Supervisory Control for Lunar Robotic Arm Teleoperation Under Concurrent Monitoring | Jiayu He, Yifan Li, Oliver R. Runswick, Ernest N. Kamavuako et al. | [Abstract](https://arxiv.org/abs/2610.39998) · [PDF](https://arxiv.org/pdf/2610.39998) |
+| 2026-10-18 | Scalable, Intuitive, Mixed Reality-Based Semi-Autonomous Robotic Telemanipulation for the Execution of a Fine-Grained Bimanual Task | Shifei Duan, Zhe Wang, Francesco De Pace, Minas Liarokapis | [Abstract](https://arxiv.org/abs/2610.25006) · [PDF](https://arxiv.org/pdf/2610.25006) |
 | 2026-08-29 | GHOST in the Robots: Real-Time Exocentric Dual-Robot VR Teleoperation from Onboard Cameras | Yichen Wei, Faisal Zaghloul, Soujanya C Aryal, Aanya K. Agrawal et al. | [Abstract](https://arxiv.org/abs/2608.29080) · [PDF](https://arxiv.org/pdf/2608.29080) |
 | 2026-08-27 | Remote Human-Robot Interaction In Greenhouses via Virtual Reality: How Plant Canopy Structure Affects Leaf Disease and Soil Moisture Inspection | Daniel Udekwe, Hasan Seyyedhasani | [Abstract](https://arxiv.org/abs/2608.27545) · [PDF](https://arxiv.org/pdf/2608.27545) |
 | 2026-08-10 | Intuitive Directional Sense Presentation to the Torso Using McKibben-Based Surface Haptic Sensation in Immersive Space | Kenta Yokoe, Tadayoshi Aoyama, Yuki Funabora, Masaru Takeuchi et al. | [Abstract](https://arxiv.org/abs/2608.09177) · [PDF](https://arxiv.org/pdf/2608.09177) |

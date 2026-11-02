@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Balance%2C%20Dynamics%20%26%20Recovery&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 5 conference papers · 52 recent arXiv papers
+> 5 conference papers · 53 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Heading Control for Obstacle Avoidance using Dynamic Posture Manipulation during Tumbling Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS58592.2024.10801515) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801515) |
 | 2022 | Online Learning of Centroidal Angular Momentum towards Enhancing DCM-based Locomotion | ICRA · Locomotion | [Paper](https://doi.org/10.1109/icra46639.2022.9811708) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811708) |
 
-## Recent arXiv papers (52)
+## Recent arXiv papers (53)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-20 | Towards Autonomous Bricklaying Using Boston Dynamics Spot | Karl-Johan Sorensen, Nico vom Hofe, Frank H. P. Fitzek | [Abstract](https://arxiv.org/abs/2610.27472) · [PDF](https://arxiv.org/pdf/2610.27472) |
 | 2026-10-09 | Composable Dynamics for Cooperative Humanoids: A RoboCompiler Extension | Mehdi Heydari Shahna, Jouni Mattila | [Abstract](https://arxiv.org/abs/2610.14237) · [PDF](https://arxiv.org/pdf/2610.14237) |
 | 2026-10-08 | Autonomous thermodynamic cycles via robotic mobility and sensing | Sofia Kuperman, Ezra Ben-Abu, Yaron Veksler, Anna Zigelman et al. | [Abstract](https://arxiv.org/abs/2610.11667) · [PDF](https://arxiv.org/pdf/2610.11667) |
 | 2026-10-07 | RFPO: Rectified Flow Policy Optimization for Embodied Control | Ting Huang, Lisiyu Pan, Haoyu Wang, Zeyu Zhang et al. | [Abstract](https://arxiv.org/abs/2610.10453) · [PDF](https://arxiv.org/pdf/2610.10453) |

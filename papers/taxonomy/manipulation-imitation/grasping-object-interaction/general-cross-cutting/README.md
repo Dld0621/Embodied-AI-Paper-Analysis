@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Grasping%20%26%20Object%20Interaction&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 96 conference papers · 277 recent arXiv papers
+> 96 conference papers · 280 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -115,11 +115,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Visual Manipulation Relationship Detection based on Gated Graph Neural Network for Robotic Grasping | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981077) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981077) |
 | 2022 | Visual-tactile Sensing for Real-time Liquid Volume Estimation in Grasping | IROS · Grasp | [Paper](https://arxiv.org/pdf/2202.11503) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981153) |
 
-## Recent arXiv papers (277)
+## Recent arXiv papers (280)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory | Shengguang Wu, Suning Huang, Cherie Ho, Ria Doshi et al. | [Abstract](https://arxiv.org/abs/2610.42141) · [PDF](https://arxiv.org/pdf/2610.42141) |
+| 2026-10-30 | MolmoSpaces-CommonSense: Evaluating Commonsense in Robotic Manipulation Policies | Arjun Guru, Max Argus, Jae Sung Park, Jiafei Duan et al. | [Abstract](https://arxiv.org/abs/2610.41377) · [PDF](https://arxiv.org/pdf/2610.41377) |
+| 2026-10-29 | EgoContact: Evaluating Physical Intelligence with Egocentric Video | Adam Deryło, Alexey Gavryushin, Daniel Cremers, Marc Pollefeys et al. | [Abstract](https://arxiv.org/abs/2610.39167) · [PDF](https://arxiv.org/pdf/2610.39167) |
+| 2026-10-29 | CAPTURER: A Dexterous Aerial Manipulator for Dynamic and Precise Grasping across Diverse Environments | Meng Wang, Jindou Jia, Sicheng Zhou, Zeshuai Chen et al. | [Abstract](https://arxiv.org/abs/2610.39119) · [PDF](https://arxiv.org/pdf/2610.39119) |
+| 2026-10-28 | Skeleton-Guided Geometry-Aware Auto-Labeling for Robotic Grasping: From 4-DoF Learning to 6-DoF Execution | Ali Sabzejou, Farbod Azimmohseni, Mehdi Tale Masouleh, Ahmad Kalhor | [Abstract](https://arxiv.org/abs/2610.38443) · [PDF](https://arxiv.org/pdf/2610.38443) |
+| 2026-10-27 | EgoThumb: A Vision-Driven Supernumerary Robotic Thumb for Autonomous Grasp and Holding Assistance | Jianyu Hou, Jiawei Fu, Weikang Wan, Minghui Jiang et al. | [Abstract](https://arxiv.org/abs/2610.37582) · [PDF](https://arxiv.org/pdf/2610.37582) |
 | 2026-10-16 | GRASP: Global-Local Representation Alignment and Spatial-Physical Grounding for Bimanual Robotic Manipulation | Zeyuan Ren, Guanxun Zhao, Qi Li, Hao Wang et al. | [Abstract](https://arxiv.org/abs/2610.23123) · [PDF](https://arxiv.org/pdf/2610.23123) |
+| 2026-10-16 | CLARO: Clutter Aware Robot Orchestrator for Open-Vocabulary Grasping using VLM Agents | Sungsu Kim, Vineet Bhat, Prashanth Krishnamurthy, Ramesh Karri et al. | [Abstract](https://arxiv.org/abs/2610.24016) · [PDF](https://arxiv.org/pdf/2610.24016) |
 | 2026-10-15 | Mothership: A Two Tier Autonomous Refuse Collection System for Pedestrian Campuses | Wei Wang, Yiru Veronika Wang, Yihan Wang, Zihao Li et al. | [Abstract](https://arxiv.org/abs/2610.22461) · [PDF](https://arxiv.org/pdf/2610.22461) |
 | 2026-10-14 | TGrasp6D: Task-Informed Vision-Language Priors and Pose Refinement enable Zero-Shot Task-Oriented 6DoF Grasping | Manav Kulshrestha, Apoorva Vashisth, Damon Conover, Aniket Bera | [Abstract](https://arxiv.org/abs/2610.20901) · [PDF](https://arxiv.org/pdf/2610.20901) |
 | 2026-10-13 | Physics-Aware Object-Centric SE(3) Forecasting for Real-Time Proactive Dynamic Grasping | Yirui Zhou, Hongli Xu, Ying Zheng, Yi Wang et al. | [Abstract](https://arxiv.org/abs/2610.17843) · [PDF](https://arxiv.org/pdf/2610.17843) |
@@ -132,6 +139,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-10-03 | An End-to-End Framework for Modelling Pneumatic Soft Robots Based on Differentiable Finite Element Methods | Shaohong Zhong, Yao Yao, Perla Maiolino, Ingmar Posner | [Abstract](https://arxiv.org/abs/2610.04612) · [PDF](https://arxiv.org/pdf/2610.04612) |
 | 2026-10-02 | World Action Learning via Interaction-Centric Spectral Latent Guidance | Zhiming Liu, Yikun Miao, Ying Chen, Hongrui Yin et al. | [Abstract](https://arxiv.org/abs/2610.03607) · [PDF](https://arxiv.org/pdf/2610.03607) |
 | 2026-09-30 | Beyond the Current Scene: Event-Referential Grasping with Active View Selection | Hyunjoon Lee, Haebeom Jung, Eunsung Cha, Daeun Lee et al. | [Abstract](https://arxiv.org/abs/2609.39375) · [PDF](https://arxiv.org/pdf/2609.39375) |
+| 2026-09-28 | MoDex: Towards Universal Multi-Object Dexterous Grasping | Jing Xiong, Jiale Xie, Haoqi Yuan, Chaoyi Xu et al. | [Abstract](https://arxiv.org/abs/2610.23888) · [PDF](https://arxiv.org/pdf/2610.23888) |
 | 2026-09-28 | Graph-Based Simultaneous Path and Foothold Planning for Multi-Limbed Intra-Vehicular Robots in Space Stations | Masazumi Imai, Kentaro Uno, Toshinori Kuwahara, Kazuya Yoshida | [Abstract](https://arxiv.org/abs/2609.35000) · [PDF](https://arxiv.org/pdf/2609.35000) |
 | 2026-09-24 | Real-Time Force Regulation for Whole-Hand Dexterous Grasping | Sang Min Kim, Alexander Alexiev, Tzu-Yuan Lin, Sangbae Kim et al. | [Abstract](https://arxiv.org/abs/2609.30082) · [PDF](https://arxiv.org/pdf/2609.30082) |
 | 2026-09-23 | A Quasi-Direct-Drive Underactuated Asymmetric Hand for Dexterous and Efficient Grasping and Manipulation | Benjamin Davis, Chase Kidder, Hannah S. Stuart | [Abstract](https://arxiv.org/abs/2609.27240) · [PDF](https://arxiv.org/pdf/2609.27240) |
@@ -199,6 +207,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-31 | GraSP-STL: A Graph-Based Framework for Zero-Shot Signal Temporal Logic Planning via Offline Goal-Conditioned Reinforcement Learning | Ancheng Hou, Ruijia Liu, Xiang Yin | [Abstract](https://arxiv.org/abs/2603.29533) · [PDF](https://arxiv.org/pdf/2603.29533) |
 | 2026-03-27 | DiffusionAnything: End-to-End In-context Diffusion Learning for Unified Navigation and Pre-Grasp Motion | Iana Zhura, Yara Mahmoud, Jeffrin Sam, Hung Khang Nguyen et al. | [Abstract](https://arxiv.org/abs/2603.26322) · [PDF](https://arxiv.org/pdf/2603.26322) |
 | 2026-03-11 | AdaClearGrasp: Learning Adaptive Clearing for Zero-Shot Robust Dexterous Grasping in Densely Cluttered Environments | Zixuan Chen, Wenquan Zhang, Jing Fang, Ruiming Zeng et al. | [Abstract](https://arxiv.org/abs/2603.10616) · [PDF](https://arxiv.org/pdf/2603.10616) |
+| 2026-03-09 | DeReCo: Decoupling Representation and Coordination Learning for Object-Adaptive Decentralized Multi-Robot Cooperative Grasping and Lifting | Kazuki Shibata, Ryosuke Sota, Shandil Dhiresh Bosch, Yuki Kadokawa et al. | [Abstract](https://arxiv.org/abs/2603.08111) · [PDF](https://arxiv.org/pdf/2603.08111) |
 | 2026-03-03 | Robotic Grasping and Placement Controlled by EEG-Based Hybrid Visual and Motor Imagery | Yichang Liu, Tianyu Wang, Ziyi Ye, Yawei Li et al. | [Abstract](https://arxiv.org/abs/2603.03181) · [PDF](https://arxiv.org/pdf/2603.03181) |
 | 2026-03-01 | D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping | Haozhe Lou, Mingtong Zhang, Haoran Geng, Hanyang Zhou et al. | [Abstract](https://arxiv.org/abs/2603.01151) · [PDF](https://arxiv.org/pdf/2603.01151) |
 | 2026-02-24 | Grasp to Act: Dexterous Grasping for Tool Use in Dynamic Settings | Harsh Gupta, Mohammad Amin Mirzaee, Wenzhen Yuan | [Abstract](https://arxiv.org/abs/2602.20466) · [PDF](https://arxiv.org/pdf/2602.20466) |
@@ -390,12 +399,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-28 | RGBGrasp: Image-based Object Grasping by Capturing Multiple Views during Robot Arm Movement with Neural Radiance Fields | Chang Liu, Kejian Shi, Kaichen Zhou, Haoxiao Wang et al. | [Abstract](https://arxiv.org/abs/2311.16592) · [PDF](https://arxiv.org/pdf/2311.16592) |
 | 2023-11-23 | FViT-Grasp: Grasping Objects With Using Fast Vision Transformers | Arda Sarp Yenicesu, Berk Cicek, Ozgur S. Oguz | [Abstract](https://arxiv.org/abs/2311.13986) · [PDF](https://arxiv.org/pdf/2311.13986) |
 | 2023-11-04 | Anthropomorphic Grasping with Neural Object Shape Completion | Diego Hidalgo-Carvajal, Hanzhi Chen, Gemma C. Bettelani, Jaesug Jung et al. | [Abstract](https://arxiv.org/abs/2311.02510) · [PDF](https://arxiv.org/pdf/2311.02510) |
-| 2023-10-30 | Knolling bot 2.0: Enhancing Object Organization with Self-supervised Graspability Estimation | Yuhang Hu, Zhizhuo Zhang, Hod Lipson | [Abstract](https://arxiv.org/abs/2310.19226) · [PDF](https://arxiv.org/pdf/2310.19226) |
-| 2023-10-26 | 6-DoF Stability Field via Diffusion Models | Takuma Yoneda, Tianchong Jiang, Gregory Shakhnarovich, Matthew R. Walter | [Abstract](https://arxiv.org/abs/2310.17649) · [PDF](https://arxiv.org/pdf/2310.17649) |
-| 2023-10-24 | Grasp Multiple Objects with One Hand | Yuyang Li, Bo Liu, Yiran Geng, Puhao Li et al. | [Abstract](https://arxiv.org/abs/2310.15599) · [PDF](https://arxiv.org/pdf/2310.15599) |
-| 2023-10-22 | Value of Assistance for Grasping | Mohammad Masarwy, Yuval Goshen, David Dovrat, Sarah Keren | [Abstract](https://arxiv.org/abs/2310.14402) · [PDF](https://arxiv.org/pdf/2310.14402) |
-| 2023-10-19 | PGA: Personalizing Grasping Agents with Single Human-Robot Interaction | Junghyun Kim, Gi-Cheon Kang, Jaein Kim, Seoyun Yang et al. | [Abstract](https://arxiv.org/abs/2310.12547) · [PDF](https://arxiv.org/pdf/2310.12547) |
-| 2023-10-19 | Fine-Tuning Generative Models as an Inference Method for Robotic Tasks | Orr Krupnik, Elisei Shafer, Tom Jurgenson, Aviv Tamar | [Abstract](https://arxiv.org/abs/2310.12862) · [PDF](https://arxiv.org/pdf/2310.12862) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=Task-and-motion%20Planning#research-workbench)
 
-> 8 conference papers · 21 recent arXiv papers
+> 8 conference papers · 19 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,7 +27,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Simultaneous Action and Grasp Feasibility Prediction for Task and Motion Planning Through Multi-Task Learning | IROS · Grasp | [Paper](https://laas.hal.science/hal-04016581v1/file/IROS2023sub_AGFP-NET.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341257) |
 | 2023 | Spatial Reasoning via Deep Vision Models for Robotic Sequential Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2306.17053) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342010) |
 
-## Recent arXiv papers (21)
+## Recent arXiv papers (19)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -50,8 +50,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-08-13 | Learn2Decompose: Learning Problem Decomposition for Efficient Sequential Multi-object Manipulation Planning | Yan Zhang, Teng Xue, Amirreza Razmjoo, Sylvain Calinon | [Abstract](https://arxiv.org/abs/2408.06843) · [PDF](https://arxiv.org/pdf/2408.06843) |
 | 2024-05-06 | Efficient Symbolic Planning with Views | Stephan Hasler, Daniel Tanneberg, Michael Gienger | [Abstract](https://arxiv.org/abs/2405.03307) · [PDF](https://arxiv.org/pdf/2405.03307) |
 | 2024-05-03 | Solving Sequential Manipulation Puzzles by Finding Easier Subproblems | Svetlana Levit, Joaquim Ortiz-Haro, Marc Toussaint | [Abstract](https://arxiv.org/abs/2405.02053) · [PDF](https://arxiv.org/pdf/2405.02053) |
-| 2023-10-24 | Human-in-the-Loop Task and Motion Planning for Imitation Learning | Ajay Mandlekar, Caelan Garrett, Danfei Xu, Dieter Fox | [Abstract](https://arxiv.org/abs/2310.16014) · [PDF](https://arxiv.org/pdf/2310.16014) |
-| 2023-10-23 | Modular Multi-Level Replanning TAMP Framework for Dynamic Environment | Tao Lin, Chengfei Yue, Ziran Liu, Xibin Cao | [Abstract](https://arxiv.org/abs/2310.14816) · [PDF](https://arxiv.org/pdf/2310.14816) |
 
 ---
 

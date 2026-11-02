@@ -34,6 +34,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-29 | MUSBRIC: LEGO-Compatible Pneumatic Muscle Bricks for Reconfigurable Musculoskeletal Robots | Qiyao Wang, Yinglei Zhu, Liang Zhou, Wenzhe Gong et al. | [Abstract](https://arxiv.org/abs/2610.40285) · [PDF](https://arxiv.org/pdf/2610.40285) |
+| 2026-10-27 | A generalist policy for muscle-driven control across individual musculoskeletal models | Bozhao Wang, Yinglei Zhu, Zhengqing Li, Zhiyuan Zhang et al. | [Abstract](https://arxiv.org/abs/2610.36535) · [PDF](https://arxiv.org/pdf/2610.36535) |
 | 2026-09-17 | UniExo: Unified Multi-Skill Policies for Musculoskeletal Locomotion and Co-Adaptive Exoskeleton Control | Yifei Yuan, Jakob Wolf, Ghaith Androwis, Xianlian Zhou | [Abstract](https://arxiv.org/abs/2609.19690) · [PDF](https://arxiv.org/pdf/2609.19690) |
 | 2026-08-24 | Design of a Biomimetic Joint-Covering Skin with Tissue-Like Structure to Enhance Proprioception in a Musculoskeletal Humanoid | Akihiro Miki, Shun Hasegawa, Yoshimoto Ribayashi, Kento Kawaharazuka et al. | [Abstract](https://arxiv.org/abs/2608.23304) · [PDF](https://arxiv.org/pdf/2608.23304) |
 | 2026-06-19 | A Novel Bio-Inspired Fish Robot with Tunable Stiffness via Particle Jamming | Jack Stonecipher, Allen Gao, Wei Wang | [Abstract](https://arxiv.org/abs/2606.21771) · [PDF](https://arxiv.org/pdf/2606.21771) |
@@ -85,8 +87,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-04-01 | Development of Musculoskeletal Legs with Planar Interskeletal Structures to Realize Human Comparable Moving Function | Moritaka Onitsuka, Manabu Nishiura, Kento Kawaharazuka, Kei Tsuzuki et al. | [Abstract](https://arxiv.org/abs/2404.00890) · [PDF](https://arxiv.org/pdf/2404.00890) |
 | 2024-03-19 | Theoretical Modeling and Bio-inspired Trajectory Optimization of A Multiple-locomotion Origami Robot | Keqi Zhu, Haotian Guo, Wei Yu, Hassen Nigatu et al. | [Abstract](https://arxiv.org/abs/2403.12471) · [PDF](https://arxiv.org/pdf/2403.12471) |
 | 2024-03-18 | Hardware Design and Learning-Based Software Architecture of Musculoskeletal Wheeled Robot Musashi-W for Real-World Applications | Kento Kawaharazuka, Akihiro Miki, Masahiro Bando, Temma Suzuki et al. | [Abstract](https://arxiv.org/abs/2403.11729) · [PDF](https://arxiv.org/pdf/2403.11729) |
-| 2023-11-01 | Mechanically-Inflatable Bio-Inspired Locomotion for Robotic Pipeline Inspection | Mostafa A. Atalla, Fabian Trauzettel, Sebastiaan P. van Gelder, Paul Breedveld et al. | [Abstract](https://arxiv.org/abs/2311.00232) · [PDF](https://arxiv.org/pdf/2311.00232) |
-| 2023-10-25 | Toward the use of proxies for efficient learning manipulation and locomotion strategies on soft robots | Etienne Ménager, Quentin Peyron, Christian Duriez | [Abstract](https://arxiv.org/abs/2310.17029) · [PDF](https://arxiv.org/pdf/2310.17029) |
 
 ---
 

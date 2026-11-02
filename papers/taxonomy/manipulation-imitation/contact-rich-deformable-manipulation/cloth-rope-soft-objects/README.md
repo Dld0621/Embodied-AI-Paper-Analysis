@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Contact-rich%20%26%20Deformable%20Manipulation&specialty=Cloth%2C%20Rope%20%26%20Soft%20Objects#research-workbench)
 
-> 39 conference papers · 131 recent arXiv papers
+> 39 conference papers · 133 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -58,10 +58,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Reactive Motion Planning for Rope Manipulation and Collision Avoidance using Aerial Robots | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981658) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981658) |
 | 2022 | Mesh-based Dynamics with Occlusion Reasoning for Cloth Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/pdf/2206.02881) · [Publisher](https://doi.org/10.48550/arXiv.2206.02881) |
 
-## Recent arXiv papers (131)
+## Recent arXiv papers (133)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | Suspended-Fabric Robotic Manipulation Surfaces: Modelling, Design Space, and Multimodular Extensio | Pratik Ingle, Jørn Lambertsen, Kasper Støy, Andres Faiña | [Abstract](https://arxiv.org/abs/2610.41982) · [PDF](https://arxiv.org/pdf/2610.41982) |
+| 2026-10-29 | A Tutorial on Shape Servoing of Deformable Objects-Part I: Fundamentals | Ignacio Cuiral-Zueco, Alessio Caporali, Miguel Aranda, Gianluca Palli et al. | [Abstract](https://arxiv.org/abs/2610.40559) · [PDF](https://arxiv.org/pdf/2610.40559) |
+| 2026-10-26 | The Language of Deformation: Semantic Failure Analysis as a Prerequisite for Dexterous Manipulation of Deformable Objects | Ignacio Cuiral-Zueco, David Hardman, Michele Pierallini, Erfan Shahriari | [Abstract](https://arxiv.org/abs/2610.35103) · [PDF](https://arxiv.org/pdf/2610.35103) |
 | 2026-10-16 | DefFlow: Goal-Conditioned Deformable Object Manipulation using 3D Point Flows | Gaurav Singh, Sergio Orozco, Ryan Duong, Mete Tuluhan Akbulut et al. | [Abstract](https://arxiv.org/abs/2610.22827) · [PDF](https://arxiv.org/pdf/2610.22827) |
 | 2026-10-09 | Refine Where It Matters: Contact-Adaptive Meshing for Deformable Object Manipulation | Gabriel Johnson, Tom Olesch, Fei Liu | [Abstract](https://arxiv.org/abs/2610.14142) · [PDF](https://arxiv.org/pdf/2610.14142) |
 | 2026-10-09 | Cooperative Aerial Transportation of a Payload with a Sliding Cable Attachment | Sebastian Tilaguy Lezama, Diego S D'Antonio | [Abstract](https://arxiv.org/abs/2610.13665) · [PDF](https://arxiv.org/pdf/2610.13665) |
@@ -192,7 +195,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-16 | Enhancing Deformable Object Manipulation By Using Interactive Perception and Assistive Tools | Peng Zhou | [Abstract](https://arxiv.org/abs/2311.09659) · [PDF](https://arxiv.org/pdf/2311.09659) |
 | 2023-11-09 | Differentiable Cloth Parameter Identification and State Estimation in Manipulation | Dongzhe Zheng, Siqiong Yao, Wenqiang Xu, Cewu Lu | [Abstract](https://arxiv.org/abs/2311.05141) · [PDF](https://arxiv.org/pdf/2311.05141) |
 | 2023-11-05 | Make a Donut: Hierarchical EMD-Space Planning for Zero-Shot Deformable Manipulation with Tools | Yang You, Bokui Shen, Congyue Deng, Haoran Geng et al. | [Abstract](https://arxiv.org/abs/2311.02787) · [PDF](https://arxiv.org/pdf/2311.02787) |
-| 2023-10-25 | The Teenager's Problem: Efficient Garment Decluttering as Probabilistic Set Cover | Aviv Adler, Ayah Ahmad, Yulei Qiu, Shengyin Wang et al. | [Abstract](https://arxiv.org/abs/2310.16951) · [PDF](https://arxiv.org/pdf/2310.16951) |
 
 ---
 

@@ -49,7 +49,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | In-Hand Manipulation in Power Grasp: Design of an Adaptive Robot Hand with Active Surfaces | ICRA · In Hand | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161516) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161516) |
 | 2023 | Mechanical Intelligence for Prehensile In-Hand Manipulation of Spatial Trajectories | ICRA · In Hand | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161170) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161170) |
 | 2023 | Picking by Tilting: In-Hand Manipulation for Object Picking using Effector with Curved Form | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2411.16055) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160404) |
-| 2023 | D-PALI: A Low-Cost Open Source Robotic Gripper Platform for Planar In-Hand-Manipulation | IROS · In Hand | [Paper](https://doi.org/10.1109/IROS55552.2023.10341860) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341860) |
+| 2023 | D-PALI: A Low-Cost Open Source Robotic Gripper Platform for Planar In-Hand-Manipulation | IROS · In Hand | [Paper](https://spiral.imperial.ac.uk/bitstreams/9f756f37-89b0-4625-97b5-22d143a90fab/download) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341860) |
 | 2023 | External Sensor-Less in-Hand Object Position Manipulation for an Under-Actuated Hand Using Data-Driven-Based Methods to Compensate for the Nonlinearity of Self-Locking Mechanism | IROS · In Hand | [Paper](https://doi.org/10.1109/IROS55552.2023.10341517) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341517) |
 | 2023 | Hybrid Learning- and Model-Based Planning and Control of In-Hand Manipulation | IROS · In Hand | [Paper](https://arxiv.org/pdf/2209.10040) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342153) |
 | 2023 | In-Hand Cube Reconfiguration: Simplified | IROS · In Hand | [Paper](https://arxiv.org/pdf/2308.12178) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341521) |
@@ -65,6 +65,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-27 | Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well | Ian Chuang, Hiya Shah, Vamsi Chilamkur, Iman Soltani et al. | [Abstract](https://arxiv.org/abs/2610.37652) · [PDF](https://arxiv.org/pdf/2610.37652) |
 | 2026-10-13 | Receding-Horizon Next-Best-View Planning for Highly Occluded Target Perception | Ayse Gul Yildiz, Rekha Raja | [Abstract](https://arxiv.org/abs/2610.19082) · [PDF](https://arxiv.org/pdf/2610.19082) |
 | 2026-10-06 | Reactive Task-Oriented Robot-Human Handovers via Generative Hypothesis Selection | Carmen Scheidemann, Andreea Tulbure, Pascal Burkhardt, Marco Hutter | [Abstract](https://arxiv.org/abs/2610.08003) · [PDF](https://arxiv.org/pdf/2610.08003) |
 | 2026-10-04 | VICON: Visual-Inertial-Contact based Hand-Object Tracking for Manipulation Datasets | Youbeen Jeon, Uiseong Shin, Hwanchul La, Jaeseong Kang et al. | [Abstract](https://arxiv.org/abs/2610.05180) · [PDF](https://arxiv.org/pdf/2610.05180) |
@@ -161,7 +162,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-25 | Automated Lane Merging via Game Theory and Branch Model Predictive Control | Luyao Zhang, Shaohang Han, Sergio Grammatico | [Abstract](https://arxiv.org/abs/2311.14916) · [PDF](https://arxiv.org/pdf/2311.14916) |
 | 2023-11-25 | Active Surface with Passive Omni-Directional Adaptation of Soft Polyhedral Fingers for In-Hand Manipulation | Sen Li, Fang Wan, Chaoyang Song | [Abstract](https://arxiv.org/abs/2311.14974) · [PDF](https://arxiv.org/pdf/2311.14974) |
 | 2023-11-10 | R$^2$NMPC: A Real-Time Reduced Robustified Nonlinear Model Predictive Control with Ellipsoidal Uncertainty Sets for Autonomous Vehicle Motion Control | Baha Zarrouki, João Nunes, Johannes Betz | [Abstract](https://arxiv.org/abs/2311.06420) · [PDF](https://arxiv.org/pdf/2311.06420) |
-| 2023-10-23 | Containerized Vertical Farming Using Cobots | Dasharadhan Mahalingam, Aditya Patankar, Khiem Phi, Nilanjan Chakraborty et al. | [Abstract](https://arxiv.org/abs/2310.15385) · [PDF](https://arxiv.org/pdf/2310.15385) |
 
 ---
 

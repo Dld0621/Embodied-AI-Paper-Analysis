@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Contact-rich%20%26%20Deformable%20Manipulation&specialty=Insertion%2C%20Assembly%20%26%20Precision%20Tasks#research-workbench)
 
-> 108 conference papers · 379 recent arXiv papers
+> 108 conference papers · 381 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -124,13 +124,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Flexible and Precision Snap-Fit Peg-in-Hole Assembly Based on Multiple Sensations and Damping Identification | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS47612.2022.9981639) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981639) |
 | 2022 | GoferBot: A Visual Guided Human-Robot Collaborative Assembly System | IROS · Assembly | [Paper](https://arxiv.org/pdf/2304.08840) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981122) |
 | 2022 | On CAD Informed Adaptive Robotic Assembly | IROS · Assembly | [Paper](https://arxiv.org/pdf/2208.01773) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982242) |
-| 2022 | Slip Anticipation for Grasping Deformable Objects Using a Soft Force Sensor | IROS · Grasp | [Paper](https://infoscience.epfl.ch/handle/20.500.14299/192207) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981174) |
+| 2022 | Slip Anticipation for Grasping Deformable Objects Using a Soft Force Sensor | IROS · Grasp | [Paper](https://infoscience.epfl.ch/bitstreams/47b1a145-38bb-433b-ae3b-66dc9a0765f9/download) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981174) |
 | 2022 | Factory: Fast Contact for Robotic Assembly | RSS · Assembly | [Paper](https://arxiv.org/abs/2205.03532) · [Publisher](https://doi.org/10.48550/arXiv.2205.03532) |
 
-## Recent arXiv papers (379)
+## Recent arXiv papers (381)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | Physically Constrained Kinematic Calibration for High-Precision Robotic Needle Guidance | Prabhu Nithin Gollapudi, Andreas Maier, Franziska Mathis-Ullrich, Water Zhao et al. | [Abstract](https://arxiv.org/abs/2610.41429) · [PDF](https://arxiv.org/pdf/2610.41429) |
+| 2026-10-29 | Cross-Controller Transfer via In-Context Behavior Adaptation | Jonathan Yang, Chelsea Finn, Dorsa Sadigh | [Abstract](https://arxiv.org/abs/2610.39280) · [PDF](https://arxiv.org/pdf/2610.39280) |
+| 2026-10-27 | Learning from Relative Action Credit for Escaping Local Minima | Giovanni Minelli, Giulio Turrisi, Lorenzo Amatucci, Victor Barasuol et al. | [Abstract](https://arxiv.org/abs/2610.38034) · [PDF](https://arxiv.org/pdf/2610.38034) |
+| 2026-10-25 | AdaPolicy: Action-Driven Anticipatory Robot Policies via Next-Chunk Prediction | Fan Yang, Yuting Su, Chen Zhao, Fugui Fan et al. | [Abstract](https://arxiv.org/abs/2610.34280) · [PDF](https://arxiv.org/pdf/2610.34280) |
+| 2026-10-23 | Geometry-Aware Reinforcement Learning for Close-Fitting Wearable Insertion | Takuma Tsukakoshi, Elle Miller, Tamon Miyake, Namiko Saito et al. | [Abstract](https://arxiv.org/abs/2610.32143) · [PDF](https://arxiv.org/pdf/2610.32143) |
+| 2026-10-22 | Distributed Swarm Morphogenesis with Neural Cellular Automata | Ray Verma, Eliseo Ferrante, Anthony Tzes | [Abstract](https://arxiv.org/abs/2610.31900) · [PDF](https://arxiv.org/pdf/2610.31900) |
+| 2026-10-21 | Learning to Absorb Corrections: Critic-Weighted Residual Flow for Vision-Based Insertion | Yiqing Yuan, Zhi Li, Jinrong Yang, Mingshan Sun et al. | [Abstract](https://arxiv.org/abs/2610.29117) · [PDF](https://arxiv.org/pdf/2610.29117) |
+| 2026-10-20 | JARVIS: From Visual Manuals to Autonomous Robotic Assembly | Fan Ding, Fucai Ke, Kevin Yuchen Ma, Xuewen Luo et al. | [Abstract](https://arxiv.org/abs/2610.27618) · [PDF](https://arxiv.org/pdf/2610.27618) |
 | 2026-10-16 | Not All Actions Contribute Equally: Learning Precise Progress Estimation from Imprecise Demonstrations | Huanqian Wang, Boshi Tang, Botong Xiao, Jie Zhang et al. | [Abstract](https://arxiv.org/abs/2610.23769) · [PDF](https://arxiv.org/pdf/2610.23769) |
 | 2026-10-16 | Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts | Antonia Bronars, Younghyo Park, Kushal Kedia, Pulkit Agrawal | [Abstract](https://arxiv.org/abs/2610.23849) · [PDF](https://arxiv.org/pdf/2610.23849) |
 | 2026-10-15 | Modular Inverse Dynamics and Wrench Recovery for Closed-Chain Mechanisms Using Path Assembly | Mohammad Dastranj, Jouni Mattila | [Abstract](https://arxiv.org/abs/2610.21400) · [PDF](https://arxiv.org/pdf/2610.21400) |
@@ -153,6 +161,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-09-29 | DRHeC: Differentiable Rendering for Hand-Eye Calibration with RGB-Based Gradients | Xiaotian Zhang, Yusheng Wang, Naoya Kagawa, Noritaka Takamura et al. | [Abstract](https://arxiv.org/abs/2609.36779) · [PDF](https://arxiv.org/pdf/2609.36779) |
 | 2026-09-27 | TacGooseBumps (TacGB): Retrofitting Normal-Only Tactile Sensors with Shear Encoding for Learning Contact-Rich Manipulation | Wenjie Li, Binyu Yang, Yuxin Chen, Ambrose Wang et al. | [Abstract](https://arxiv.org/abs/2609.34006) · [PDF](https://arxiv.org/pdf/2609.34006) |
 | 2026-09-27 | AI-Driven Collaborative Assembly Line Inspection: System Integration and Deployment Challenges | Asya Ünal, Amr Okasha, Ege Çırakman, Perin Ünal | [Abstract](https://arxiv.org/abs/2609.33522) · [PDF](https://arxiv.org/pdf/2609.33522) |
+| 2026-09-26 | ContactKernels: Adaptive Proposals using Geometry-COnditioned Wrenches for Contact-Rich Manipulation | Aditya Kamireddypalli, Matías Mattamala, João Moura, Sethu Vijayakumar et al. | [Abstract](https://arxiv.org/abs/2610.23887) · [PDF](https://arxiv.org/pdf/2610.23887) |
 | 2026-09-25 | PHASE: Compliance-Enabled Tactile Phase Retrieval for Few-Shot Insertion Learning | Jeremy Siburian, Cristian C. Beltran-Hernandez, Tatsuya Matsushima, Yusuke Iwasawa et al. | [Abstract](https://arxiv.org/abs/2609.30889) · [PDF](https://arxiv.org/pdf/2609.30889) |
 | 2026-09-25 | Learning to Leverage Compliance: A Policy-Admittance Learning Framework for Robotic Insertion | Chongren Wang, Minghe Li, Honghua Dai, Zhicheng Lin et al. | [Abstract](https://arxiv.org/abs/2609.31439) · [PDF](https://arxiv.org/pdf/2609.31439) |
 | 2026-09-25 | Imp-ACT: Adaptive Impedance Control and Action Chunking with Transformers to Learn Contact-Rich Manipulation from Demonstrations | Luca Zanetti, Doganay Sirintuna, Idil Ozdamar, Pietro Balatti et al. | [Abstract](https://arxiv.org/abs/2609.31225) · [PDF](https://arxiv.org/pdf/2609.31225) |
@@ -229,7 +238,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-05-26 | Learning Compositional Symbolic Task Rules from Demonstrations with Inductive Logic Programming | Oleh Borys, Karla Stepanova | [Abstract](https://arxiv.org/abs/2605.26828) · [PDF](https://arxiv.org/pdf/2605.26828) |
 | 2026-05-26 | Agentic Language-to-Objective Synthesis for Optofluidic Assembly | Ivan Saraev, Elena Erben, Weida Liao, Fan Nan et al. | [Abstract](https://arxiv.org/abs/2605.27643) · [PDF](https://arxiv.org/pdf/2605.27643) |
 | 2026-05-22 | Sparse Compositional Flow Matching by geometric assembly from motion primitives | Yan Tang, Yuanbo Tang, Tingyu Cao, Shaolun Huang et al. | [Abstract](https://arxiv.org/abs/2605.23341) · [PDF](https://arxiv.org/pdf/2605.23341) |
-| 2026-05-21 | TacO: Benchmarking Tactile Sensors for Object Manipulation | Anya Zorin, Zilin Si, Myungsun Park, Junsung Park et al. | [Abstract](https://arxiv.org/abs/2605.21976) · [PDF](https://arxiv.org/pdf/2605.21976) |
+| 2026-05-21 | TacO: Benchmarking Tactile Sensors for Object Manipulation | Anya Zorin, Zilin Si, Sachin Bhadang, Myungsun Park et al. | [Abstract](https://arxiv.org/abs/2605.21976) · [PDF](https://arxiv.org/pdf/2605.21976) |
 | 2026-05-21 | CoRMA: Contrastive RMA for Contact-Rich Meta-Adaptation | Wentian Wang, Chutong Wen, Hongxu Ma, Wuhao Wang et al. | [Abstract](https://arxiv.org/abs/2605.22082) · [PDF](https://arxiv.org/pdf/2605.22082) |
 | 2026-05-20 | Component Influence-Driven Fastener Reduction for Robotic Disassemblability-Aware Design Simplification | Takuya Kiyokawa, Tomoki Ishikura, Shingo Hamada, Genichiro Matsuda et al. | [Abstract](https://arxiv.org/abs/2605.21026) · [PDF](https://arxiv.org/pdf/2605.21026) |
 | 2026-05-19 | Spacetime Optimal-Transport Attention for Visuo-Haptic Imitation Learning of Contact-Rich Manipulation | Yue Feng, Weicheng Huang, I-Ming Chen | [Abstract](https://arxiv.org/abs/2605.20433) · [PDF](https://arxiv.org/pdf/2605.20433) |
@@ -339,7 +348,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-07-25 | GEAR: Gaze-Enabled Human-Robot Collaborative Assembly | Asad Ali Shahid, Angelo Moroncelli, Drazen Brscic, Takayuki Kanda et al. | [Abstract](https://arxiv.org/abs/2507.18947) · [PDF](https://arxiv.org/pdf/2507.18947) |
 | 2025-07-25 | Fast Learning of Non-Cooperative Spacecraft 3D Models through Primitive Initialization | Pol Francesch Huc, Emily Bates, Simone D'Amico | [Abstract](https://arxiv.org/abs/2507.19459) · [PDF](https://arxiv.org/pdf/2507.19459) |
 | 2025-07-17 | CubeSat Orbit Insertion Maneuvering Using J2 Perturbation | M. Amin Alandihallaj, M. Reza Emami | [Abstract](https://arxiv.org/abs/2507.13017) · [PDF](https://arxiv.org/pdf/2507.13017) |
-| 2025-07-15 | EquiContact: A Hierarchical SE(3) Vision-to-Force Equivariant Policy for Spatially Generalizable Contact-rich Tasks | Joohwan Seo, Arvind Kruthiventy, Soomi Lee, Megan Teng et al. | [Abstract](https://arxiv.org/abs/2507.10961) · [PDF](https://arxiv.org/pdf/2507.10961) |
+| 2025-07-15 | EquiContact: A Hierarchical SE(3) Vision-to-Force Equivariant Framework for Spatially Generalizable Contact-rich Tasks | Joohwan Seo, Arvind Kruthiventy, Soomi Lee, Megan Teng et al. | [Abstract](https://arxiv.org/abs/2507.10961) · [PDF](https://arxiv.org/pdf/2507.10961) |
 | 2025-07-15 | Enhancing Autonomous Manipulator Control with Human-in-loop for Uncertain Assembly Environments | Ashutosh Mishra, Shreya Santra, Hazal Gozbasi, Kentaro Uno et al. | [Abstract](https://arxiv.org/abs/2507.11006) · [PDF](https://arxiv.org/pdf/2507.11006) |
 | 2025-07-05 | Accurate Pose Estimation Using Contact Manifold Sampling for Safe Peg-in-Hole Insertion of Complex Geometries | Abhay Negi, Omey M. Manyar, Dhanush K. Penmetsa, Satyandra K. Gupta | [Abstract](https://arxiv.org/abs/2507.03925) · [PDF](https://arxiv.org/pdf/2507.03925) |
 | 2025-06-28 | Robust Peg-in-Hole Assembly under Uncertainties via Compliant and Interactive Contact-Rich Manipulation | Yiting Chen, Kenneth Kimble, Howard H. Qian, Podshara Chanrungmaneekul et al. | [Abstract](https://arxiv.org/abs/2506.22766) · [PDF](https://arxiv.org/pdf/2506.22766) |
@@ -389,7 +398,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-03-06 | SRSA: Skill Retrieval and Adaptation for Robotic Assembly Tasks | Yijie Guo, Bingjie Tang, Iretiayo Akinola, Dieter Fox et al. | [Abstract](https://arxiv.org/abs/2503.04538) · [PDF](https://arxiv.org/pdf/2503.04538) |
 | 2025-03-03 | AVR: Active Vision-Driven Precise Robot Manipulation with Viewpoint and Focal Length Optimization | Yushan Liu, Shilong Mu, Xintao Chao, Zizhen Li et al. | [Abstract](https://arxiv.org/abs/2503.01439) · [PDF](https://arxiv.org/pdf/2503.01439) |
 | 2025-02-25 | Design of a Breakaway Utensil Attachment for Enhanced Safety in Robot-Assisted Feeding | Hau Wen Chang, J-Anne Yow, Lek Syn Lim, Wei Tech Ang | [Abstract](https://arxiv.org/abs/2502.17774) · [PDF](https://arxiv.org/pdf/2502.17774) |
-| 2025-02-20 | DEFT: Differentiable Branched Discrete Elastic Rods for Modeling Furcated DLOs in Real-Time | Yizhou Chen, Xiaoyue Wu, Yeheng Zong, Yuzhen Chen et al. | [Abstract](https://arxiv.org/abs/2502.15037) · [PDF](https://arxiv.org/pdf/2502.15037) |
+| 2025-02-20 | DEFT: Differentiable Branched Discrete Elastic Rods for Modeling Furcated DLOs in Real-Time | Yizhou Chen, Felicia Sang, Shicheng Peng, Xiaoyue Wu et al. | [Abstract](https://arxiv.org/abs/2502.15037) · [PDF](https://arxiv.org/pdf/2502.15037) |
 | 2025-02-18 | Memory-updated-based Framework for 100% Reliable Flexible Flat Cables Insertion | Zhengrong Ling, Xiong Yang, Dong Guo, Hongyuan Chang et al. | [Abstract](https://arxiv.org/abs/2502.12514) · [PDF](https://arxiv.org/pdf/2502.12514) |
 | 2025-02-07 | REASSEMBLE: A Multimodal Dataset for Contact-rich Robotic Assembly and Disassembly | Daniel Sliwowski, Shail Jadav, Sergej Stanovcic, Jedrzej Orbik et al. | [Abstract](https://arxiv.org/abs/2502.05086) · [PDF](https://arxiv.org/pdf/2502.05086) |
 | 2025-02-07 | Force interaction, modeling and soft tissue deformation during reciprocating insertion of multi-part probe | Tassanai Parittotokkaporn, Matthew Oldfield, Luca Frasson, Ferdinando Rodriguez y Baena | [Abstract](https://arxiv.org/abs/2502.04609) · [PDF](https://arxiv.org/pdf/2502.04609) |
@@ -503,13 +512,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-02 | STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics | Lehong Wang, Savita V. Kendre, Haotian Liu, Markus P. Nemitz | [Abstract](https://arxiv.org/abs/2312.01130) · [PDF](https://arxiv.org/pdf/2312.01130) |
 | 2023-11-30 | CLS-CAD: Synthesizing CAD Assemblies in Fusion 360 | Constantin Chaumet, Jakob Rehof | [Abstract](https://arxiv.org/abs/2311.18492) · [PDF](https://arxiv.org/pdf/2311.18492) |
 | 2023-11-13 | Bridging the Sim-to-Real Gap with Dynamic Compliance Tuning for Industrial Insertion | Xiang Zhang, Masayoshi Tomizuka, Hui Li | [Abstract](https://arxiv.org/abs/2311.07499) · [PDF](https://arxiv.org/pdf/2311.07499) |
-| 2023-10-31 | Large-Scale Multi-Robot Assembly Planning for Autonomous Manufacturing | Kyle Brown, Dylan M. Asmar, Mac Schwager, Mykel J. Kochenderfer | [Abstract](https://arxiv.org/abs/2311.00192) · [PDF](https://arxiv.org/pdf/2311.00192) |
-| 2023-10-30 | Scalable underwater assembly with reconfigurable visual fiducials | Samuel Lensgraf, Ankita Sarkar, Adithya Pediredla, Devin Balkcom et al. | [Abstract](https://arxiv.org/abs/2310.19408) · [PDF](https://arxiv.org/pdf/2310.19408) |
-| 2023-10-26 | Optimal Robotic Assembly Sequence Planning: A Sequential Decision-Making Approach | Kartik Nagpal, Negar Mehr | [Abstract](https://arxiv.org/abs/2310.17115) · [PDF](https://arxiv.org/pdf/2310.17115) |
-| 2023-10-26 | Lightweight High-Speed and High-Force Gripper for Assembly | Toshihiro Nishimura, Takeshi Takaki, Yosuke Suzuki, Tokuo Tsuji et al. | [Abstract](https://arxiv.org/abs/2310.17197) · [PDF](https://arxiv.org/pdf/2310.17197) |
-| 2023-10-25 | MimicTouch: Leveraging Multi-modal Human Tactile Demonstrations for Contact-rich Manipulation | Kelin Yu, Yunhai Han, Qixian Wang, Vaibhav Saxena et al. | [Abstract](https://arxiv.org/abs/2310.16917) · [PDF](https://arxiv.org/pdf/2310.16917) |
-| 2023-10-20 | A Review of Prospects and Opportunities in Disassembly with Human-Robot Collaboration | Meng-Lun Lee, Xiao Liang, Boyi Hu, Gulcan Onel et al. | [Abstract](https://arxiv.org/abs/2310.13643) · [PDF](https://arxiv.org/pdf/2310.13643) |
-| 2023-10-19 | Object-Aware Impedance Control for Human-Robot Collaborative Task with Online Object Parameter Estimation | Jinseong Park, Yong-Sik Shin, Sanghyun Kim | [Abstract](https://arxiv.org/abs/2310.12409) · [PDF](https://arxiv.org/pdf/2310.12409) |
 
 ---
 

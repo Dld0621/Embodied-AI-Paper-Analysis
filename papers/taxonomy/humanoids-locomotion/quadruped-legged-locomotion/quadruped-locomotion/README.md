@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Quadruped%20%26%20Legged%20Locomotion&specialty=Quadruped%20Locomotion#research-workbench)
 
-> 168 conference papers · 394 recent arXiv papers
+> 168 conference papers · 401 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -187,14 +187,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Zero-Shot Retargeting of Learned Quadruped Locomotion Policies Using Hybrid Kinodynamic Model Predictive Control | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2209.14123) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981967) |
 | 2022 | Learning Forward Dynamics Model and Informed Trajectory Sampler for Safe Quadruped Navigation | RSS · Quadruped | [Paper](https://arxiv.org/abs/2204.08647) · [Publisher](https://doi.org/10.48550/arXiv.2204.08647) |
 
-## Recent arXiv papers (394)
+## Recent arXiv papers (401)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
-| 2026-10-14 | When a robot can trust reversing wind to find an odour source | Junlong Shen, Shunsuke Shigaki | [Abstract](https://arxiv.org/abs/2610.20970) · [PDF](https://arxiv.org/pdf/2610.20970) |
+| 2026-10-28 | ELEVATE: Agentic Controller Acquisition from Task Failure for Quadrupedal Manipulation | Shiqi Liu, Radu Corcodel, Ding Zhao | [Abstract](https://arxiv.org/abs/2610.38388) · [PDF](https://arxiv.org/pdf/2610.38388) |
+| 2026-10-27 | Camera-to-Quadruped Robot Pose Estimation from Sequential Images | Seobin Hwang, Ji-Seong Beom, Yeong-Jun Cho | [Abstract](https://arxiv.org/abs/2610.36599) · [PDF](https://arxiv.org/pdf/2610.36599) |
+| 2026-10-27 | A Trainable CPG Framework for Quadruped Locomotion | Xiyan Liu, Yide Liu, Guoyong Mao, Shaoxing Qu | [Abstract](https://arxiv.org/abs/2610.36537) · [PDF](https://arxiv.org/pdf/2610.36537) |
+| 2026-10-21 | End-to-End Reinforcement Learning for Quadrupedal Jumping in Lunar Gravity | Levin Müller, Oliver Fischer, Marco Trentini, Yusuke Tanaka et al. | [Abstract](https://arxiv.org/abs/2610.29586) · [PDF](https://arxiv.org/pdf/2610.29586) |
+| 2026-10-19 | SkateNav: Learning Energy-Efficient Navigation through Adaptive Skating on Passive-Wheel Quadrupedal Robots | Jeil Jeong, Taeyun Kim, Sangjin Kim, Jinyoung Choi et al. | [Abstract](https://arxiv.org/abs/2610.25962) · [PDF](https://arxiv.org/pdf/2610.25962) |
+| 2026-10-17 | Solving a Giant Rubik's Cube with a Quadruped Robot | Lukas Amiet, Gabriel Sánchez-Blanco Repgen, Mayank Mittal, Victor Klemm et al. | [Abstract](https://arxiv.org/abs/2610.24610) · [PDF](https://arxiv.org/pdf/2610.24610) |
+| 2026-10-16 | Towards Reinforcement Learning for Space Robotics: Fast Training and Reliable Real-World Transfer | Abhishek Naik, Michael Wu, Michael O'Sullivan, Colin Bellinger et al. | [Abstract](https://arxiv.org/abs/2610.24241) · [PDF](https://arxiv.org/pdf/2610.24241) |
 | 2026-10-14 | SOMA: Stack-of-Objects Manipulation using a Quadruped Robot | Stergios E. Bachoumas, Panagiotis Artemiadis | [Abstract](https://arxiv.org/abs/2610.20968) · [PDF](https://arxiv.org/pdf/2610.20968) |
 | 2026-10-14 | Safe Reinforcement Learning with Receding-Horizon Safety Critic and Differentiable Action Shields | Siwei Ju, Jan Peters, Oleg Arenz | [Abstract](https://arxiv.org/abs/2610.20255) · [PDF](https://arxiv.org/pdf/2610.20255) |
 | 2026-10-14 | PolyMorph: Learning Locomotion Policy for Cross-Embodiment Adaptation | Hyunsik Oh, Seunghun Jeon, Donghoon Youm, Jungwoo Hur et al. | [Abstract](https://arxiv.org/abs/2610.19615) · [PDF](https://arxiv.org/pdf/2610.19615) |
+| 2026-10-14 | Flow structure decides whether a robot searching for odour should follow the wind | Junlong Shen, Shunsuke Shigaki | [Abstract](https://arxiv.org/abs/2610.20970) · [PDF](https://arxiv.org/pdf/2610.20970) |
 | 2026-10-14 | E2DRL: End-to-End Differentiable Reinforcement Learning for 3D Obstacle Avoidance in Quadruped Robots | Cheng Fan, Bingyang Zhou, Gang Yang, Zixuan Zhuang et al. | [Abstract](https://arxiv.org/abs/2610.19627) · [PDF](https://arxiv.org/pdf/2610.19627) |
 | 2026-10-12 | CopyQuad: Quadrupedal Skill Transfer from a Single Side-View Video Without a Depth Model | Mohamad H. Danesh, Raina Hu, Mengxue Xu, Hsiu-Chin Lin | [Abstract](https://arxiv.org/abs/2610.16737) · [PDF](https://arxiv.org/pdf/2610.16737) |
 | 2026-10-11 | PointWalker: Mapless Quadruped Locomotion Directly From Raw LiDAR Point Clouds | Sicen Li, Zhen Chu, Chao Li, Jun Zheng et al. | [Abstract](https://arxiv.org/abs/2610.15548) · [PDF](https://arxiv.org/pdf/2610.15548) |
@@ -271,7 +278,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-24 | MAPL: Multi-Objective Preference Learning for Robot Locomotion | Xiyue Chen, Muhan Lin, Shuyang Shi, Joseph Campbell | [Abstract](https://arxiv.org/abs/2606.25398) · [PDF](https://arxiv.org/pdf/2606.25398) |
 | 2026-06-23 | Learning Perceptive Platform Adaptive Locomotion Controllers for Quadrupedal Robots | David Rytz, Kim Tien Ly, Ioannis Havoutis | [Abstract](https://arxiv.org/abs/2606.25179) · [PDF](https://arxiv.org/pdf/2606.25179) |
 | 2026-06-22 | Asymmetric physics enables efficient learning in quadrupedal robot swarms | Yuang Zhang, Yunlong Song, Zhihao He, Zelin Ni et al. | [Abstract](https://arxiv.org/abs/2606.23153) · [PDF](https://arxiv.org/pdf/2606.23153) |
-| 2026-06-17 | ZiMPedance: Impedance-Aware ZMP Modeling and Control for Payload Carrying with Quadruped Robots | Giovanni B. Dessy, Lorenzo Amatucci, Victor Barasuol, Claudio Semini | [Abstract](https://arxiv.org/abs/2606.18883) · [PDF](https://arxiv.org/pdf/2606.18883) |
+| 2026-06-17 | ZiMPedance: Impedance-Aware ZMP Modeling and Control for Payload Carrying with Quadruped Robots | Giovanni B. Dessy, Lorenzo Amatucci, Claudio Semini, Victor Barasuol | [Abstract](https://arxiv.org/abs/2606.18883) · [PDF](https://arxiv.org/pdf/2606.18883) |
 | 2026-06-17 | Sensor Configuration Matters: A Systematic Evaluation of Multimodal SLAM on Quadruped Robots | Roberto Corlito, Fabian Schmidt, Nils Seibert, Markus Enzweiler et al. | [Abstract](https://arxiv.org/abs/2606.19067) · [PDF](https://arxiv.org/pdf/2606.19067) |
 | 2026-06-17 | SCAN-Planner: Spatial Collision-Aware Local Planning for Route-Guided Long-Range Quadruped Navigation | Han Zheng, Zhe Chen, Yiwen Fu, Ming Yang et al. | [Abstract](https://arxiv.org/abs/2606.19555) · [PDF](https://arxiv.org/pdf/2606.19555) |
 | 2026-06-17 | Safe, Real-Time Active Model Discrimination and Fault Diagnosis for Nonlinear Systems via Differentiable Reachability | Xinpei Ni, Melkior Ornik, Glen Chou, Samuel Coogan | [Abstract](https://arxiv.org/abs/2606.19590) · [PDF](https://arxiv.org/pdf/2606.19590) |
@@ -312,7 +319,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-17 | Beyond Cybathlon: On-demand Quadrupedal Assistance for People with Limited Mobility | Carmen Scheidemann, Andrei Cramariuc, Changan Chen, Jia-Ruei Chiu et al. | [Abstract](https://arxiv.org/abs/2603.16772) · [PDF](https://arxiv.org/pdf/2603.16772) |
 | 2026-03-16 | KiRAS: Keyframe Guided Self-Imitation for Robust and Adaptive Skill Learning in Quadruped Robots | Xiaoyi Wei, Peng Zhai, Jiaxin Tu, Yueqi Zhang et al. | [Abstract](https://arxiv.org/abs/2603.15179) · [PDF](https://arxiv.org/pdf/2603.15179) |
 | 2026-03-15 | MorFiC: Fixing Value Miscalibration for Zero-Shot Quadruped Transfer | Prakhar Mishra, Amir Hossain Raj, Xuesu Xiao, Dinesh Manocha | [Abstract](https://arxiv.org/abs/2603.14554) · [PDF](https://arxiv.org/pdf/2603.14554) |
-| 2026-03-13 | SmoothTurn: Learning to Turn Smoothly for Agile Navigation with Quadrupedal Robots | Zunzhi You, Yunke Wang, Haolan Guo, Chang Xu | [Abstract](https://arxiv.org/abs/2603.12842) · [PDF](https://arxiv.org/pdf/2603.12842) |
+| 2026-03-13 | Prepare to Turn: Learning Anticipatory Maneuvering for Fast Sequential Quadrupedal Navigation | Zunzhi You, Yunke Wang, Haolan Guo, Chang Xu | [Abstract](https://arxiv.org/abs/2603.12842) · [PDF](https://arxiv.org/pdf/2603.12842) |
 | 2026-03-13 | Panoramic Multimodal Semantic Occupancy Prediction for Quadruped Robots | Guoqiang Zhao, Zhe Yang, Sheng Wu, Fei Teng et al. | [Abstract](https://arxiv.org/abs/2603.13108) · [PDF](https://arxiv.org/pdf/2603.13108) |
 | 2026-03-12 | MiNI-Q: A Miniature, Wire-Free Quadruped with Unbounded, Independently Actuated Leg Joints | Daniel Koh, Suraj Shah, Yufeng Wu, Dennis Hong | [Abstract](https://arxiv.org/abs/2603.11537) · [PDF](https://arxiv.org/pdf/2603.11537) |
 | 2026-03-12 | Energy Prediction on Sloping Ground for Quadruped Robots | Mohamed Ounally, Cyrille Pierre, Johann Laconte | [Abstract](https://arxiv.org/abs/2603.11963) · [PDF](https://arxiv.org/pdf/2603.11963) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Multi-agent%20%26%20Social%20Navigation&specialty=Social%20%26%20Human-aware%20Navigation#research-workbench)
 
-> 12 conference papers · 39 recent arXiv papers
+> 12 conference papers · 40 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -31,10 +31,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Learning Crowd-Aware Robot Navigation from Challenging Environments via Distributed Deep Reinforcement Learning | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9812011) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812011) |
 | 2022 | Pedestrian-Robot Interactions on Autonomous Crowd Navigation: Reactive Control Methods and Evaluation Metrics | IROS · Navigation | [Paper](https://github.com/epfl-lasa/crowdbot-evaluation-tools) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981705) |
 
-## Recent arXiv papers (39)
+## Recent arXiv papers (40)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-29 | Don't Risk It!: Trajectory-Conditioned Distributional Risk for LiDAR-Only Crowd Navigation | Mathai Mathew Pulicken, Laksh Nanwani, Basant Sharma, Phani Teja Singamaneni et al. | [Abstract](https://arxiv.org/abs/2610.40050) · [PDF](https://arxiv.org/pdf/2610.40050) |
 | 2026-10-05 | Risk-Sensitive Crowd Navigation with Adaptive Ellipsoidal Conformal Prediction | Ruihan A. Li, Ziyao Guo, Yingying Li | [Abstract](https://arxiv.org/abs/2610.07474) · [PDF](https://arxiv.org/pdf/2610.07474) |
 | 2026-09-20 | Smartphone GNSS Booster: Centimeter-Level Pedestrian Positioning Using a Portable Signal Re-Radiator | Taro Suzuki | [Abstract](https://arxiv.org/abs/2609.23456) · [PDF](https://arxiv.org/pdf/2609.23456) |
 | 2026-08-11 | Social Graph Mamba: Forecasting Pedestrian Movements Based on Social Context | Hong-Son Nguyen, Yen-Chen Liu | [Abstract](https://arxiv.org/abs/2608.21411) · [PDF](https://arxiv.org/pdf/2608.21411) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 25 conference papers · 214 recent arXiv papers
+> 25 conference papers · 217 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -44,10 +44,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Task and Motion Planning with Large Language Models for Object Rearrangement | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.06247) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342169) |
 | 2023 | Demonstrating Large Language Models on Robots | RSS · Large Language Model | [Paper](https://doi.org/10.15607/rss.2023.xix.024) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.024) |
 
-## Recent arXiv papers (214)
+## Recent arXiv papers (217)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-27 | ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning | Chaehyun Kim, Chi-Pin Huang, Jisoo Kim, Min-Hung Chen et al. | [Abstract](https://arxiv.org/abs/2610.37666) · [PDF](https://arxiv.org/pdf/2610.37666) |
+| 2026-10-26 | ASPEN: Adaptive Semantic Reasoning via Command Persistence Prediction for Efficient Navigation VLAs | Vieri N. Akustia, Bin Hu | [Abstract](https://arxiv.org/abs/2610.36285) · [PDF](https://arxiv.org/pdf/2610.36285) |
+| 2026-10-21 | OMAR: Open-World Multi-Attribute Reasoning for Scene-Conditioned Shelf Organization | Benedikt Kreis, Rohit Menon, Benno Wingender, Muhammad Ehsan Ullah et al. | [Abstract](https://arxiv.org/abs/2610.29761) · [PDF](https://arxiv.org/pdf/2610.29761) |
+| 2026-10-21 | Alpha: Systematic Fault Injection and Robustness Evaluation for LLM-Driven Embodied Manipulation | Jona Joy | [Abstract](https://arxiv.org/abs/2610.30197) · [PDF](https://arxiv.org/pdf/2610.30197) |
+| 2026-10-16 | How exposed is work to robotics? Occupational, industry, and geographic measures | Sebastian Sartor, Robert Seamans, Neil Thompson | [Abstract](https://arxiv.org/abs/2610.24267) · [PDF](https://arxiv.org/pdf/2610.24267) |
 | 2026-10-15 | Onboard Lightweight LLM Reasoning for Human-Aware Safe UAV Navigation | Siwei Cai, Yuwei Wu, Vijay Kumar, Lifeng Zhou | [Abstract](https://arxiv.org/abs/2610.22092) · [PDF](https://arxiv.org/pdf/2610.22092) |
 | 2026-10-08 | PlanWAM: Planning-Shaped Future Representations for End-to-End Autonomous Driving | Jinchang Xu, Hongda Yu, Fengwei Dong, Wenhui Huang et al. | [Abstract](https://arxiv.org/abs/2610.11382) · [PDF](https://arxiv.org/pdf/2610.11382) |
 | 2026-10-06 | Proactive Robot Assistance via Event-Driven Reasoning over State Changes | Fengkai Liu, Hao Su, Haozhuang Chi, Rui Geng et al. | [Abstract](https://arxiv.org/abs/2610.08344) · [PDF](https://arxiv.org/pdf/2610.08344) |
@@ -181,7 +186,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-05-21 | Coloring Between the Lines: Personalization in the Null Space of Planning Constraints | Tom Silver, Rajat Kumar Jenamani, Ziang Liu, Ben Dodson et al. | [Abstract](https://arxiv.org/abs/2505.15503) · [PDF](https://arxiv.org/pdf/2505.15503) |
 | 2025-05-20 | Scan, Materialize, Simulate: A Generalizable Framework for Physically Grounded Robot Planning | Amine Elhafsi, Daniel Morton, Marco Pavone | [Abstract](https://arxiv.org/abs/2505.14938) · [PDF](https://arxiv.org/pdf/2505.14938) |
 | 2025-05-13 | Generative AI for Autonomous Driving: Frontiers and Opportunities | Yuping Wang, Shuo Xing, Cui Can, Renjie Li et al. | [Abstract](https://arxiv.org/abs/2505.08854) · [PDF](https://arxiv.org/pdf/2505.08854) |
-| 2025-05-10 | LLM-Flock: Decentralized Multi-Robot Flocking via Large Language Models and Influence-Based Consensus | Peihan Li, Lifeng Zhou | [Abstract](https://arxiv.org/abs/2505.06513) · [PDF](https://arxiv.org/pdf/2505.06513) |
+| 2025-05-10 | LLM-Flock: LLM-Driven Decentralized Multi-Robot Flocking via Influence-Based Consensus with Collision Avoidance | Peihan Li, Lifeng Zhou | [Abstract](https://arxiv.org/abs/2505.06513) · [PDF](https://arxiv.org/pdf/2505.06513) |
 | 2025-05-08 | DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning | Wenru Liu, Pei Liu, Jun Ma | [Abstract](https://arxiv.org/abs/2505.05360) · [PDF](https://arxiv.org/pdf/2505.05360) |
 | 2025-05-07 | Stow: Robotic Packing of Items into Fabric Pods | Nicolas Hudson, Josh Hooks, Rahul Warrier, Curt Salisbury et al. | [Abstract](https://arxiv.org/abs/2505.04572) · [PDF](https://arxiv.org/pdf/2505.04572) |
 | 2025-05-06 | Meta-Optimization and Program Search using Language Models for Task and Motion Planning | Denis Shcherba, Eckart Cobo-Briesewitz, Cornelius V. Braun, Marc Toussaint | [Abstract](https://arxiv.org/abs/2505.03725) · [PDF](https://arxiv.org/pdf/2505.03725) |
@@ -260,8 +265,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-13 | Large Language Models for Robotics: A Survey | Fanlong Zeng, Wensheng Gan, Zezheng Huai, Lichao Sun et al. | [Abstract](https://arxiv.org/abs/2311.07226) · [PDF](https://arxiv.org/pdf/2311.07226) |
 | 2023-11-06 | IR-STP: Enhancing Autonomous Driving with Interaction Reasoning in Spatio-Temporal Planning | Yingbing Chen, Jie Cheng, Lu Gan, Sheng Wang et al. | [Abstract](https://arxiv.org/abs/2311.02850) · [PDF](https://arxiv.org/pdf/2311.02850) |
 | 2023-11-02 | REAL: Resilience and Adaptation using Large Language Models on Autonomous Aerial Robots | Andrea Tagliabue, Kota Kondo, Tong Zhao, Mason Peterson et al. | [Abstract](https://arxiv.org/abs/2311.01403) · [PDF](https://arxiv.org/pdf/2311.01403) |
-| 2023-11-01 | SAGE: Smart home Agent with Grounded Execution | Dmitriy Rivkin, Francois Hogan, Amal Feriani, Abhisek Konar et al. | [Abstract](https://arxiv.org/abs/2311.00772) · [PDF](https://arxiv.org/pdf/2311.00772) |
-| 2023-10-30 | Large Trajectory Models are Scalable Motion Predictors and Planners | Qiao Sun, Shiduo Zhang, Danjiao Ma, Jingzhe Shi et al. | [Abstract](https://arxiv.org/abs/2310.19620) · [PDF](https://arxiv.org/pdf/2310.19620) |
 
 ---
 

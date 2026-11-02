@@ -2,7 +2,7 @@
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 97 papers · complete list for this taxonomy leaf
+> 78 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -84,22 +84,3 @@
 | 2023-11-02 | Using Augmented Reality to Assess and Modify Mobile Manipulator Surface Repair Plans | Frank Regal, Steven Swanbeck, Fabian Parra, Jared Rosenbaum et al. | [Abstract](https://arxiv.org/abs/2311.00988) · [PDF](https://arxiv.org/pdf/2311.00988) |
 | 2023-11-02 | Spontaneous-Ordering Platoon Control for Multirobot Path Navigation Using Guiding Vector Fields | Bin-Bin Hu, Hai-Tao Zhang, Weijia Yao, Jianing Ding et al. | [Abstract](https://arxiv.org/abs/2311.00976) · [PDF](https://arxiv.org/pdf/2311.00976) |
 | 2023-11-02 | GREEMA: Proposal and Experimental Verification of Growing Robot by Eating Environmental MAterial for Landslide Disaster | Yusuke Tsunoda, Yuya Sato, Koichi Osuka | [Abstract](https://arxiv.org/abs/2311.01107) · [PDF](https://arxiv.org/pdf/2311.01107) |
-| 2023-11-01 | RF-Enhanced Road Infrastructure for Intelligent Transportation | Dajiang Suo, Heyi Li, Rahul Bhattacharyya, Zijin Wang et al. | [Abstract](https://arxiv.org/abs/2311.00280) · [PDF](https://arxiv.org/pdf/2311.00280) |
-| 2023-10-31 | Near-Optimal Min-Sum Motion Planning for Two Square Robots in a Polygonal Environment | Pankaj K. Agarwal, Dan Halperin, Micha Sharir, Alex Steiger | [Abstract](https://arxiv.org/abs/2310.20615) · [PDF](https://arxiv.org/pdf/2310.20615) |
-| 2023-10-31 | Learning Lyapunov-Stable Polynomial Dynamical Systems through Imitation | Amin Abyaneh, Hsiu-Chin Lin | [Abstract](https://arxiv.org/abs/2310.20605) · [PDF](https://arxiv.org/pdf/2310.20605) |
-| 2023-10-30 | Spatiotemporal Attention Enhances Lidar-Based Robot Navigation in Dynamic Environments | Jorge de Heuvel, Xiangyu Zeng, Weixian Shi, Tharun Sethuraman et al. | [Abstract](https://arxiv.org/abs/2310.19670) · [PDF](https://arxiv.org/pdf/2310.19670) |
-| 2023-10-30 | Deep Learning for Visual Navigation of Underwater Robots | M. Sunbeam | [Abstract](https://arxiv.org/abs/2310.19495) · [PDF](https://arxiv.org/pdf/2310.19495) |
-| 2023-10-30 | CARPE-ID: Continuously Adaptable Re-identification for Personalized Robot Assistance | Federico Rollo, Andrea Zunino, Nikolaos Tsagarakis, Enrico Mingo Hoffman et al. | [Abstract](https://arxiv.org/abs/2310.19413) · [PDF](https://arxiv.org/pdf/2310.19413) |
-| 2023-10-28 | Bird's Eye View Based Pretrained World model for Visual Navigation | Kiran Lekkala, Chen Liu, Laurent Itti | [Abstract](https://arxiv.org/abs/2310.18847) · [PDF](https://arxiv.org/pdf/2310.18847) |
-| 2023-10-26 | MMP++: Motion Manifold Primitives with Parametric Curve Models | Yonghyeon Lee | [Abstract](https://arxiv.org/abs/2310.17072) · [PDF](https://arxiv.org/pdf/2310.17072) |
-| 2023-10-24 | tagE: Enabling an Embodied Agent to Understand Human Instructions | Chayan Sarkar, Avik Mitra, Pradip Pramanick, Tapas Nayak | [Abstract](https://arxiv.org/abs/2310.15605) · [PDF](https://arxiv.org/pdf/2310.15605) |
-| 2023-10-23 | Safe Navigation: Training Autonomous Vehicles using Deep Reinforcement Learning in CARLA | Ghadi Nehme, Tejas Y. Deo | [Abstract](https://arxiv.org/abs/2311.10735) · [PDF](https://arxiv.org/pdf/2311.10735) |
-| 2023-10-23 | Invariance is Key to Generalization: Examining the Role of Representation in Sim-to-Real Transfer for Visual Navigation | Bo Ai, Zhanxin Wu, David Hsu | [Abstract](https://arxiv.org/abs/2310.15020) · [PDF](https://arxiv.org/pdf/2310.15020) |
-| 2023-10-23 | Adaptive Tuning of Robotic Polishing Skills based on Force Feedback Model | Yu Wang, Zhouyi Zheng, Chen Chen, Zezheng Wang et al. | [Abstract](https://arxiv.org/abs/2310.14860) · [PDF](https://arxiv.org/pdf/2310.14860) |
-| 2023-10-22 | Motion Planning for Autonomous Ground Vehicles Using Artificial Potential Fields: A Review | Aziz ur Rehman, Ahsan Tanveer, M. Touseef Ashraf, Umer Khan | [Abstract](https://arxiv.org/abs/2310.14339) · [PDF](https://arxiv.org/pdf/2310.14339) |
-| 2023-10-21 | POVNav: A Pareto-Optimal Mapless Visual Navigator | Durgakant Pushp, Zheng Chen, Chaomin Luo, Jason M. Gregory et al. | [Abstract](https://arxiv.org/abs/2310.14065) · [PDF](https://arxiv.org/pdf/2310.14065) |
-| 2023-10-21 | Concept-based Anomaly Detection in Retail Stores for Automatic Correction using Mobile Robots | Aditya Kapoor, Vartika Sengar, Nijil George, Vighnesh Vatsal et al. | [Abstract](https://arxiv.org/abs/2310.14063) · [PDF](https://arxiv.org/pdf/2310.14063) |
-| 2023-10-20 | Enhanced Low-Dimensional Sensing Mapless Navigation of Terrestrial Mobile Robots Using Double Deep Reinforcement Learning Techniques | Linda Dotto de Moraes, Victor Augusto Kich, Alisson Henrique Kolling, Jair Augusto Bottega et al. | [Abstract](https://arxiv.org/abs/2310.13809) · [PDF](https://arxiv.org/pdf/2310.13809) |
-| 2023-10-20 | Correspondence learning between morphologically different robots via task demonstrations | Hakan Aktas, Yukie Nagai, Minoru Asada, Erhan Oztop et al. | [Abstract](https://arxiv.org/abs/2310.13458) · [PDF](https://arxiv.org/pdf/2310.13458) |
-| 2023-10-20 | ColAG: A Collaborative Air-Ground Framework for Perception-Limited UGVs' Navigation | Zhehan Li, Rui Mao, Nanhe Chen, Chao Xu et al. | [Abstract](https://arxiv.org/abs/2310.13324) · [PDF](https://arxiv.org/pdf/2310.13324) |
-| 2023-10-19 | Iterative PnP and its application in 3D-2D vascular image registration for robot navigation | Jingwei Song, Keke Yang, Zheng Zhang, Meng Li et al. | [Abstract](https://arxiv.org/abs/2310.12551) · [PDF](https://arxiv.org/pdf/2310.12551) |

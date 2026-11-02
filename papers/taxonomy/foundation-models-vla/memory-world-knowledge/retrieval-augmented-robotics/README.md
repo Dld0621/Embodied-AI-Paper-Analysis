@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Memory%20%26%20World%20Knowledge&specialty=Retrieval-augmented%20Robotics#research-workbench)
 
-> 5 conference papers · 53 recent arXiv papers
+> 5 conference papers · 55 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Lifelong Robot Library Learning: Bootstrapping Composable and Generalizable Skills for Embodied Control with Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2406.18746) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611448) |
 | 2024 | RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model | RSS · Large Language Model | [Paper](https://arxiv.org/abs/2402.10828) · [Publisher](https://doi.org/10.48550/arXiv.2402.10828) |
 
-## Recent arXiv papers (53)
+## Recent arXiv papers (55)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-22 | Multi-Tool Selection for Robotic Systems: Comparing Semantic Retrieval and LLM | Miguel Sousa, Luis Ramos Pinto, João P. Matos-Carvalho | [Abstract](https://arxiv.org/abs/2610.31013) · [PDF](https://arxiv.org/pdf/2610.31013) |
+| 2026-10-20 | When Does Experience Memory Help Closed-Loop LLM Driving Agents? A Controlled Evaluation with Resampled Warmup Pools, Token-Matched Fillers, and Audited Baselines | Yingxin Jia, Xuanyi Li | [Abstract](https://arxiv.org/abs/2610.27714) · [PDF](https://arxiv.org/pdf/2610.27714) |
 | 2026-09-28 | Beyond Retrieval Relevance: Scene-Grounded Risk Entailment for Vision-Language Driving | Jiaxin Liu, Ruilin Yu, Liang Peng, Jingkai Wang et al. | [Abstract](https://arxiv.org/abs/2609.34145) · [PDF](https://arxiv.org/pdf/2609.34145) |
 | 2026-09-08 | FRAME: Factored Retrieval via Attribute Readouts for Object-Centric Scene Memory | Woosang Jeon, Sanghyeok Choi, Minwoo Kim, Taehyun Jung et al. | [Abstract](https://arxiv.org/abs/2609.08886) · [PDF](https://arxiv.org/pdf/2609.08886) |
 | 2026-08-26 | RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation | Sanghwan Jang, Minjin Jeon, Minsoo Kim, Seongjin Choi et al. | [Abstract](https://arxiv.org/abs/2608.25585) · [PDF](https://arxiv.org/pdf/2608.25585) |

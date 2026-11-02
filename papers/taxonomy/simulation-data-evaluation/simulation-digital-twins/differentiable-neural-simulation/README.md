@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Differentiable%20%26%20Neural%20Simulation#research-workbench)
 
-> 7 conference papers · 40 recent arXiv papers
+> 7 conference papers · 43 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Rethinking Optimization with Differentiable Simulation from a Global Perspective | CoRL · Simulation | [Paper](https://arxiv.org/abs/2207.00167) · [Publisher](https://doi.org/10.48550/arXiv.2207.00167) |
 | 2022 | SAM-RL: Sensing-aware model-based reinforcement learning via differentiable physics-based simulation and rendering | RSS · Simulation | [Paper](https://arxiv.org/pdf/2210.15185) · [Publisher](https://doi.org/10.1177/02783649241284653) |
 
-## Recent arXiv papers (40)
+## Recent arXiv papers (43)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-28 | Learning Event-based Obstacle Avoidance via Differentiable Simulation | Chenlu Shou, Yunfan Ren, Jiaxu Xing, Davide Scaramuzza | [Abstract](https://arxiv.org/abs/2610.38967) · [PDF](https://arxiv.org/pdf/2610.38967) |
+| 2026-10-27 | Learning Visuomotor Quadrotor Flight Through Dynamic Narrow Gaps via Differentiable Simulation | Riccardo Bianco, Yunfan Ren, Jiaxu Xing, Davide Scaramuzza | [Abstract](https://arxiv.org/abs/2610.37557) · [PDF](https://arxiv.org/pdf/2610.37557) |
+| 2026-10-22 | DiffDreamer: Coupling World Models with Differentiable Simulation for Agile Quadrotor Control | Fanxing Li, Yuxiang Huang, Shengyang Wang, Fangyu Sun et al. | [Abstract](https://arxiv.org/abs/2610.31617) · [PDF](https://arxiv.org/pdf/2610.31617) |
 | 2026-09-25 | Learning Vision-Based Agile Gap Traversal: Differentiable Simulation with a Warm-Started Critic | Nuthasith Gerdpratoom, Tianchen Sun, Yichao Gao, Lin Zhao | [Abstract](https://arxiv.org/abs/2609.30696) · [PDF](https://arxiv.org/pdf/2609.30696) |
 | 2026-09-25 | Bundled Contact Gradients: Stabilizing Differentiable Simulation for Deployable Dynamic Tasks | Dyuman Aditya, Jin Cheng, Clemens Schwarke, Quan Nguyen et al. | [Abstract](https://arxiv.org/abs/2609.30951) · [PDF](https://arxiv.org/pdf/2609.30951) |
 | 2026-09-08 | Ostrich: Taking Large Strides Through Stiff Contact in Differentiable Dynamics | Aleš Kučera, Karel Zimmermann | [Abstract](https://arxiv.org/abs/2609.08800) · [PDF](https://arxiv.org/pdf/2609.08800) |

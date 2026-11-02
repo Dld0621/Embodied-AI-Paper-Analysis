@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Imitation%20%26%20Demonstration%20Learning&specialty=Learning%20from%20Demonstration#research-workbench)
 
-> 25 conference papers · 128 recent arXiv papers
+> 25 conference papers · 125 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -44,12 +44,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Understanding Acoustic Patterns of Human Teachers Demonstrating Manipulation Tasks to Robots | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2211.00352) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981053) |
 | 2022 | Use of Action Label in Deep Predictive Learning for Robot Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982091) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982091) |
 
-## Recent arXiv papers (128)
+## Recent arXiv papers (125)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
 | 2026-10-15 | DemoStream: Batched Task-and-Motion-Plan Optimization for Automated Learning from Demonstration | Caelan Garrett, Neel Jawale, Fabio Ramos | [Abstract](https://arxiv.org/abs/2610.22020) · [PDF](https://arxiv.org/pdf/2610.22020) |
-| 2026-10-14 | Learning from Demonstrations meets Symbolic Control - A Supervisory Control Architecture for Formal Certification of Learned Motion | Ashok Kumar, Mahathi Anand, Angela Schoellig, Abdalla Swikir | [Abstract](https://arxiv.org/abs/2610.19815) · [PDF](https://arxiv.org/pdf/2610.19815) |
+| 2026-10-14 | Learning from Demonstrations Meets Symbolic Control - A Supervisory Control Architecture for Formal Certification of Learned Motion | Ashok Kumar, Mahathi Anand, Angela P. Schoellig, Abdalla Swikir | [Abstract](https://arxiv.org/abs/2610.19815) · [PDF](https://arxiv.org/pdf/2610.19815) |
 | 2026-10-09 | EgoReveal: Learning Active Vision and Object Manipulation under Partial Occlusions from Egocentric Demonstrations | Hiromu Kurihara, Kazutoshi Tanaka, Masashi Hatano, Tadashi Kozuno et al. | [Abstract](https://arxiv.org/abs/2610.12999) · [PDF](https://arxiv.org/pdf/2610.12999) |
 | 2026-10-07 | Learning Unknown Constraints without Unsafe Data via Optimality and Counterfactual Regularization | Zhouyu Zhang, Chih-Yuan Chiu, Glen Chou | [Abstract](https://arxiv.org/abs/2610.09350) · [PDF](https://arxiv.org/pdf/2610.09350) |
 | 2026-10-01 | Recova: Agent-Guided Failure Recovery for Autonomous Robotic Manipulation | Isabella Liu, An-Chieh Cheng, Johan Bjorck, Zhiding Yu et al. | [Abstract](https://arxiv.org/abs/2610.01178) · [PDF](https://arxiv.org/pdf/2610.01178) |
@@ -69,7 +69,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-30 | HABIT: Human-Aware Behavior and Interaction Training Dataset for Robot Manipulation | Jaehwi Song, Suchae Jeong, Byeongguk Jeon, Sungdong Kim et al. | [Abstract](https://arxiv.org/abs/2606.31682) · [PDF](https://arxiv.org/pdf/2606.31682) |
 | 2026-06-29 | What Enables In-Context Behavior Prompting for Manipulation? | Austin Patel, Ben Pekarek, Joel Enrique Castro Hernandez, Shuran Song | [Abstract](https://arxiv.org/abs/2606.30457) · [PDF](https://arxiv.org/pdf/2606.30457) |
 | 2026-06-24 | ForceBand: Learning Forceful Manipulation with sEMG | Botao He, Zhi Wang, Linna Kuang, Ishaan Ghosh et al. | [Abstract](https://arxiv.org/abs/2606.26093) · [PDF](https://arxiv.org/pdf/2606.26093) |
-| 2026-06-23 | RE4: Transformation-aware Imitation of Object Interactions Using Manipulation Modes | Arsh Chawla, Rahul Shome | [Abstract](https://arxiv.org/abs/2606.24403) · [PDF](https://arxiv.org/pdf/2606.24403) |
 | 2026-06-22 | Improving Robotic Imitation Learning via Trajectory Standardization | Licheng Yang, Lingfeng Qian, Fei Zheng, Yonghao He et al. | [Abstract](https://arxiv.org/abs/2606.22907) · [PDF](https://arxiv.org/pdf/2606.22907) |
 | 2026-06-15 | LOPAL: Local Performance-Aware Active Learning from Imperfect Demonstrations | Johannes Heidersberger, Shail Jadav, Dongheui Lee | [Abstract](https://arxiv.org/abs/2606.16888) · [PDF](https://arxiv.org/pdf/2606.16888) |
 | 2026-06-03 | Learning from Demonstrations over Riemannian Manifolds using Neural ODEs: An Extended Abstract | Diana Cuervo Espinosa, Mahathi Anand, Angela P. Schoellig | [Abstract](https://arxiv.org/abs/2606.05422) · [PDF](https://arxiv.org/pdf/2606.05422) |
@@ -93,6 +92,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-11-06 | Temporal Action Selection for Action Chunking | Yueyang Weng, Xiaopeng Zhang, Yongjin Mu, Yingcong Zhu et al. | [Abstract](https://arxiv.org/abs/2511.04421) · [PDF](https://arxiv.org/pdf/2511.04421) |
 | 2025-11-03 | Learning from Watching: Scalable Extraction of Manipulation Trajectories from Human Videos | X. Hu, G. Ye | [Abstract](https://arxiv.org/abs/2512.00024) · [PDF](https://arxiv.org/pdf/2512.00024) |
 | 2025-10-17 | Improving the performance of AI-powered Affordable Robotics for Assistive Tasks | Dharunish Yugeswardeenoo | [Abstract](https://arxiv.org/abs/2510.21771) · [PDF](https://arxiv.org/pdf/2510.21771) |
+| 2025-10-14 | Actron3D: Learning Actionable Neural Functions from Videos for Transferable Robotic Manipulation | Anran Zhang, Hanzhi Chen, Yannick Burkhardt, Yao Zhong et al. | [Abstract](https://arxiv.org/abs/2510.12971) · [PDF](https://arxiv.org/pdf/2510.12971) |
 | 2025-10-10 | When a Robot is More Capable than a Human: Learning from Constrained Demonstrators | Xinhu Li, Ayush Jain, Zhaojing Yang, Yigit Korkmaz et al. | [Abstract](https://arxiv.org/abs/2510.09096) · [PDF](https://arxiv.org/pdf/2510.09096) |
 | 2025-10-09 | FastUMI-100K: Advancing Data-driven Robotic Manipulation with a Large-scale UMI-style Dataset | Kehui Liu, Zhongjie Jia, Yang Li, Zhaxizhuoma et al. | [Abstract](https://arxiv.org/abs/2510.08022) · [PDF](https://arxiv.org/pdf/2510.08022) |
 | 2025-10-01 | CroSTAta: Cross-State Transition Attention Transformer for Robotic Manipulation | Giovanni Minelli, Giulio Turrisi, Victor Barasuol, Claudio Semini | [Abstract](https://arxiv.org/abs/2510.00726) · [PDF](https://arxiv.org/pdf/2510.00726) |
@@ -173,9 +173,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-16 | Soft and Rigid Object Grasping With Cross-Structure Hand Using Bilateral Control-Based Imitation Learning | Koki Yamane, Sho Sakaino, Toshiaki Tsuji | [Abstract](https://arxiv.org/abs/2311.09555) · [PDF](https://arxiv.org/pdf/2311.09555) |
 | 2023-11-06 | Scalable and Efficient Continual Learning from Demonstration via a Hypernetwork-generated Stable Dynamics Model | Sayantan Auddy, Jakob Hollenstein, Matteo Saveriano, Antonio Rodríguez-Sánchez et al. | [Abstract](https://arxiv.org/abs/2311.03600) · [PDF](https://arxiv.org/pdf/2311.03600) |
 | 2023-11-03 | On Hand-Held Grippers and the Morphological Gap in Human Manipulation Demonstration | Kiran Doshi, Yijiang Huang, Stelian Coros | [Abstract](https://arxiv.org/abs/2311.01832) · [PDF](https://arxiv.org/pdf/2311.01832) |
-| 2023-10-23 | Revisiting Implicit Differentiation for Learning Problems in Optimal Control | Ming Xu, Timothy Molloy, Stephen Gould | [Abstract](https://arxiv.org/abs/2310.14468) · [PDF](https://arxiv.org/pdf/2310.14468) |
-| 2023-10-21 | Cold Diffusion on the Replay Buffer: Learning to Plan from Known Good States | Zidan Wang, Takeru Oba, Takuma Yoneda, Rui Shen et al. | [Abstract](https://arxiv.org/abs/2310.13914) · [PDF](https://arxiv.org/pdf/2310.13914) |
-| 2023-10-19 | How Can Everyday Users Efficiently Teach Robots by Demonstrations? | Maram Sakr, Zhikai Zhang, Benjamin Li, Haomiao Zhang et al. | [Abstract](https://arxiv.org/abs/2310.13083) · [PDF](https://arxiv.org/pdf/2310.13083) |
 
 ---
 

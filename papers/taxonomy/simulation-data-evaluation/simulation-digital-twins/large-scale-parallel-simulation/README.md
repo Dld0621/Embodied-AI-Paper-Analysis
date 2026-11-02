@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Large-scale%20Parallel%20Simulation#research-workbench)
 
-> 4 conference papers · 22 recent arXiv papers
+> 4 conference papers · 23 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,10 +23,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation | NeurIPS · Simulation | [Paper](https://arxiv.org/abs/2504.12908) · [Publisher](https://doi.org/10.48550/arXiv.2504.12908) |
 | 2024 | RoboCasa: Large-Scale Simulation of Household Tasks for Generalist Robots | RSS · Household simulation | [Paper](https://arxiv.org/abs/2306.14426) · [Official](https://roboticsproceedings.org/rss20/index.html) · [Code](https://github.com/ARISE-Initiative/robocasa) |
 
-## Recent arXiv papers (22)
+## Recent arXiv papers (23)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-19 | HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation | Tianwei Luo, Yiming He, Hongjin Wu, Ting Pan et al. | [Abstract](https://arxiv.org/abs/2610.26765) · [PDF](https://arxiv.org/pdf/2610.26765) |
 | 2026-10-01 | Network-in-the-Loop at Scale: GPU-Batched 5G Simulation for Massively Parallel Robot Learning | Zifan Zhang, Mingzhe Han, Kannan Athreya, Yuchen Liu | [Abstract](https://arxiv.org/abs/2610.02370) · [PDF](https://arxiv.org/pdf/2610.02370) |
 | 2026-10-01 | Multi-Fidelity Policy Gradients Stabilize Data-Scarce Reinforcement Learning | Xinjie Liu, Ruihan Zhao, Anirban Chaudhuri, Cyrus Neary et al. | [Abstract](https://arxiv.org/abs/2610.02505) · [PDF](https://arxiv.org/pdf/2610.02505) |
 | 2026-09-16 | WeaveRL: Weaving Reconstruction into Scene-Aware Fabrics for Perceptive Reinforcement Learning | Remo Steiner, Vikram Ramasamy, David Tingdahl, Sam Mady et al. | [Abstract](https://arxiv.org/abs/2609.18685) · [PDF](https://arxiv.org/pdf/2609.18685) |
@@ -36,7 +37,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-26 | Building a Scalable, Reproducible, Evaluatable, and Closed-Loop Simulation Environment Foundation for Embodied Intelligence | Junwu Xiong, Yongjian Guo, Mingxi Luo, Ning Qiao et al. | [Abstract](https://arxiv.org/abs/2606.27962) · [PDF](https://arxiv.org/pdf/2606.27962) |
 | 2026-05-28 | V2I Work Zone Geometry Reconstruction with Pose-Conditioned UWB Range Denoising | Jiaxi Liu, Hangyu Li, Yang Cheng, Rui Gana et al. | [Abstract](https://arxiv.org/abs/2606.00119) · [PDF](https://arxiv.org/pdf/2606.00119) |
 | 2026-03-17 | MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation | Abhay Deshpande, Maya Guru, Rose Hendrix, Snehal Jauhri et al. | [Abstract](https://arxiv.org/abs/2603.16861) · [PDF](https://arxiv.org/pdf/2603.16861) |
-| 2026-03-17 | Kamino: GPU-based Massively Parallel Simulation of Multi-Body Systems with Challenging Topologies | Vassilios Tsounis, Guirec Maloisel, Christian Schumacher, Ruben Grandia et al. | [Abstract](https://arxiv.org/abs/2603.16536) · [PDF](https://arxiv.org/pdf/2603.16536) |
+| 2026-03-17 | Kamino: GPU-based Simulation of Rigid Multi-Body Physics with Kinematic Loops | Vassilios Tsounis, Guirec Maloisel, Christian Schumacher, Ruben Grandia et al. | [Abstract](https://arxiv.org/abs/2603.16536) · [PDF](https://arxiv.org/pdf/2603.16536) |
 | 2026-03-17 | Early-Terminable Energy-Safe Iterative Coupling for Parallel Simulation of Partitioned Port-Hamiltonian Systems | Qi Wei, Jianfeng Tao, Hongyu Nie, Wangtao Tan | [Abstract](https://arxiv.org/abs/2603.16424) · [PDF](https://arxiv.org/pdf/2603.16424) |
 | 2026-03-04 | RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots | Soroush Nasiriany, Sepehr Nasiriany, Abhiram Maddukuri, Yuke Zhu | [Abstract](https://arxiv.org/abs/2603.04356) · [PDF](https://arxiv.org/pdf/2603.04356) |
 | 2025-09-29 | JuggleRL: Mastering Ball Juggling with a Quadrotor via Deep Reinforcement Learning | Shilong Ji, Yinuo Chen, Chuqi Wang, Jiayu Chen et al. | [Abstract](https://arxiv.org/abs/2509.24892) · [PDF](https://arxiv.org/pdf/2509.24892) |

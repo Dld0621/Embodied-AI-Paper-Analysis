@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Imitation%20%26%20Demonstration%20Learning&specialty=One-shot%2C%20Few-shot%20%26%20Skill%20Transfer#research-workbench)
 
-> 21 conference papers · 79 recent arXiv papers
+> 21 conference papers · 81 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -40,10 +40,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Demonstrate Once, Imitate Immediately (DOME): Learning Visual Servoing for One-Shot Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2204.02863) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981982) |
 | 2022 | Using human gaze in few-shot imitation learning for robot manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981706) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981706) |
 
-## Recent arXiv papers (79)
+## Recent arXiv papers (81)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-29 | Smooth Action Chunking Via Movement-Primitive Representations for Imitation Learning | Shota Nomura, Takayuki Osa, Yasuhiro Kato, Kazuki Ota et al. | [Abstract](https://arxiv.org/abs/2610.39451) · [PDF](https://arxiv.org/pdf/2610.39451) |
+| 2026-10-27 | Self-Labeled Preference Transfer for Steerable Robot Manipulation | Kaiwen Hong, Shaoting Peng, Xiangyu Zeng, Pengcheng Wang et al. | [Abstract](https://arxiv.org/abs/2610.38000) · [PDF](https://arxiv.org/pdf/2610.38000) |
 | 2026-10-15 | Trajectory-based Diffusion from One-shot Human Video for Generalizable Manipulation | Guoping Pan, Xinmiao Yu, Wannan Cao, Jincheng Li et al. | [Abstract](https://arxiv.org/abs/2610.21792) · [PDF](https://arxiv.org/pdf/2610.21792) |
 | 2026-10-06 | PhysEvo: Astra Can Act, Let It | Wenqing Tian, Zeyu Zhang, Zhaocheng Liu, Fengwei Liu et al. | [Abstract](https://arxiv.org/abs/2610.08995) · [PDF](https://arxiv.org/pdf/2610.08995) |
 | 2026-10-02 | Reward-DAgger: Robot-Gated Interactive Imitation Learning with General-Purpose Progress-Based Reward Models | Ryan Li, Yigit Korkmaz, Erdem Bıyık | [Abstract](https://arxiv.org/abs/2610.04054) · [PDF](https://arxiv.org/pdf/2610.04054) |

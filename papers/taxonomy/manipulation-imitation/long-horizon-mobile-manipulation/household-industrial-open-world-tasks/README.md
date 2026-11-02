@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=Household%2C%20Industrial%20%26%20Open-world%20Tasks#research-workbench)
 
-> 8 conference papers · 42 recent arXiv papers
+> 8 conference papers · 44 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,17 +20,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2026 | Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2512.24766) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697043) |
 | 2024 | Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation | ECCV · Manipulation | [Paper](https://arxiv.org/abs/2401.07487) · [Publisher](https://doi.org/10.48550/arXiv.2401.07487) |
-| 2024 | MOKA: Open-World Robotic Manipulation through Mark-Based Visual Prompting | RSS · Manipulation | [Paper](https://arxiv.org/abs/2403.03174) · [Publisher](https://doi.org/10.15607/rss.2024.xx.062) |
+| 2024 | MOKA: Open-World Robotic Manipulation through Mark-Based Visual Prompting | RSS · Manipulation | [Paper](https://doi.org/10.15607/rss.2024.xx.062) · [Publisher](https://doi.org/10.15607/rss.2024.xx.062) |
 | 2024 | RVT-2: Learning Precise Manipulation from Few Demonstrations | RSS · Manipulation | [Paper](https://arxiv.org/abs/2406.08545) · [Publisher](https://doi.org/10.48550/arXiv.2406.08545) |
 | 2023 | Local Neural Descriptor Fields: Locally Conditioned Object Representations for Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2302.03573) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160423) |
 | 2023 | Towards Open-World Interactive Disambiguation for Robotic Grasping | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161333) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161333) |
 | 2022 | RoboTube: Learning Household Manipulation from Human Videos with Simulated Twin Environments | CoRL · Manipulation | [Paper](https://www.semanticscholar.org/paper/6d2718d173b771edddbfae13ba8ec24c480363d3) · [Index](https://dblp.org/rec/conf/corl/XiongFZBZHXGL22) |
 | 2022 | A Method For Automated Drone Viewpoints to Support Remote Robot Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2208.04391) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982063) |
 
-## Recent arXiv papers (42)
+## Recent arXiv papers (44)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-19 | OV-PEAR: Observation-Verified Pose-Scale Estimation and Reconstruction for Unknown Industrial Manipulation Objects | Guoqin Tang, Qingxuan Jia, Yichen Tan, Zihang Lv et al. | [Abstract](https://arxiv.org/abs/2610.25840) · [PDF](https://arxiv.org/pdf/2610.25840) |
 | 2026-10-11 | Competitive Task Allocation with Temporal Proposal Windows and Improved Artificial Potential Fields for Dual-Arm Industrial Manipulation | Surya Prakash S. K, Bhuvan Narula, Jagannath Prasad Sahoo, Jayakumar VK et al. | [Abstract](https://arxiv.org/abs/2610.15763) · [PDF](https://arxiv.org/pdf/2610.15763) |
 | 2026-10-05 | Towards Robust Prehensile Manipulation in Open-Ended Environments | Mathilde Kappel, Mahdi Khoramshahi, Louis Annabi, Faïz Ben Amar et al. | [Abstract](https://arxiv.org/abs/2610.06376) · [PDF](https://arxiv.org/pdf/2610.06376) |
 | 2026-09-30 | Cue the Flow: Steering Flow-Matching Policies for Open-World Delivery Manipulation | Haoxuan Wang, Griffin Galimi, Junhua Huang, Selina Song et al. | [Abstract](https://arxiv.org/abs/2609.38989) · [PDF](https://arxiv.org/pdf/2609.38989) |
@@ -46,6 +47,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-04-10 | TouchAnything: Diffusion-Guided 3D Reconstruction from Sparse Robot Touches | Langzhe Gu, Hung-Jui Huang, Mohamad Qadri, Michael Kaess et al. | [Abstract](https://arxiv.org/abs/2604.08945) · [PDF](https://arxiv.org/pdf/2604.08945) |
 | 2026-03-14 | Building Explicit World Model for Zero-Shot Open-World Object Manipulation | Xiaotong Li, Gang Chen, Javier Alonso-Mora | [Abstract](https://arxiv.org/abs/2603.13825) · [PDF](https://arxiv.org/pdf/2603.13825) |
 | 2026-02-28 | Zero-Shot Robotic Manipulation via 3D Gaussian Splatting-Enhanced Multimodal Retrieval-Augmented Generation | Zilong Xie, Jingyu Gong, Xin Tan, Zhizhong Zhang et al. | [Abstract](https://arxiv.org/abs/2603.00500) · [PDF](https://arxiv.org/pdf/2603.00500) |
+| 2026-02-13 | UniManip: Open-World Robotic Manipulation via Agentic Operational Graphs | Haichao Liu, Yuanjiang Xue, Yuheng Zhou, Li Yang et al. | [Abstract](https://arxiv.org/abs/2602.13086) · [PDF](https://arxiv.org/pdf/2602.13086) |
 | 2026-01-04 | Online Estimation and Manipulation of Articulated Objects | Russell Buchanan, Adrian Röfer, João Moura, Abhinav Valada et al. | [Abstract](https://arxiv.org/abs/2601.01438) · [PDF](https://arxiv.org/pdf/2601.01438) |
 | 2025-12-31 | Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow | Karthik Dharmarajan, Wenlong Huang, Jiajun Wu, Li Fei-Fei et al. | [Abstract](https://arxiv.org/abs/2512.24766) · [PDF](https://arxiv.org/pdf/2512.24766) |
 | 2025-11-06 | CBMC-V3: A CNS-inspired Control Framework Towards Agile Manipulation with SNN | Yanbo Pang, Qingkai Li, Mingguo Zhao | [Abstract](https://arxiv.org/abs/2511.04109) · [PDF](https://arxiv.org/pdf/2511.04109) |

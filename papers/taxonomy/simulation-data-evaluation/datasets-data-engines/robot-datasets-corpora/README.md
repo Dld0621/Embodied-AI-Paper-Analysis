@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engines&specialty=Robot%20Datasets%20%26%20Corpora#research-workbench)
 
-> 98 conference papers · 641 recent arXiv papers
+> 98 conference papers · 644 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,7 +20,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2026 | AdapGrasp: A Stiffness and Grasp Affordance Dataset with a Transformer-based Adaptive Grasp Model | ICRA · Dataset | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696782) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696782) |
 | 2026 | CU-Multi: A Dataset for Multi-Robot Collaborative Perception | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2509.19463) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697041) |
-| 2026 | IndustryShapes: An RGB-D Benchmark dataset for 6D object pose estimation of industrial assembly components and tools | ICRA · Dataset | [Paper](https://doi.org/10.48550/arxiv.2602.05555) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697459) |
+| 2026 | IndustryShapes: An RGB-D Benchmark dataset for 6D object pose estimation of industrial assembly components and tools | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2602.05555) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697459) |
 | 2026 | Instrumentation for Imitation Learning: Enhancing Training Datasets for Clothes Hanger Insertion | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2605.23847) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696878) |
 | 2026 | iVISION-2DCD: A Long-Term Change Detection Dataset for Large-Scale Outdoor Construction Monitoring | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2607.03553) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697019) |
 | 2026 | Tempo-Vine: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2512.04772) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696237) |
@@ -117,10 +117,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Fisheye object detection based on standard image datasets with 24-points regression strategy | IROS · Dataset | [Paper](https://doi.org/10.1109/IROS47612.2022.9981891) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981891) |
 | 2022 | FusionPortable: A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms | IROS · Dataset | [Paper](https://arxiv.org/pdf/2208.11865) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982119) |
 
-## Recent arXiv papers (641)
+## Recent arXiv papers (644)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | MotorSense: A Video-EMG Dataset of Motoric Representations for Action Understanding | Eadom Dessalene, Michael Maynord, Amir-Hossein Shahidzadeh, Botao He et al. | [Abstract](https://arxiv.org/abs/2610.41127) · [PDF](https://arxiv.org/pdf/2610.41127) |
+| 2026-10-29 | RoboAtom: Large-scale Atomic-Action Supervision for Robot Learning | Xueyuan Wei, Xuanxu Wang, Xudong Li, Yuping He et al. | [Abstract](https://arxiv.org/abs/2610.40207) · [PDF](https://arxiv.org/pdf/2610.40207) |
+| 2026-10-29 | Coupled Guidance for Flow Matching | Mateo Clémente, Léo Maxime Brunswic, Rui Heng Yang, Amir Rasouli | [Abstract](https://arxiv.org/abs/2610.40109) · [PDF](https://arxiv.org/pdf/2610.40109) |
+| 2026-10-28 | Robotic Data Inoculation | Qiyang Li, Zhiyuan Zhou, Charles Xu, Sergey Levine | [Abstract](https://arxiv.org/abs/2610.39054) · [PDF](https://arxiv.org/pdf/2610.39054) |
+| 2026-10-22 | SCOPE: Scene-graph Construction Optimized by Plan Error-correction for Robot Long-term Planning Datasets | Chaoyue Li, Zeyu Gao, Yanfeng Lu, Fan Luo | [Abstract](https://arxiv.org/abs/2610.31518) · [PDF](https://arxiv.org/pdf/2610.31518) |
+| 2026-10-20 | SynCalib: Breaking Dataset Shortcuts in LiDAR-Camera Calibration via Extrinsic-Controllable Synthesis | Huihua Zhu, Shuyang Zhang, Dongqing Chen, Zhuo Yu et al. | [Abstract](https://arxiv.org/abs/2610.27547) · [PDF](https://arxiv.org/pdf/2610.27547) |
+| 2026-10-18 | AQUAACT: A Joystick-Level Underwater Teleoperation Dataset and Closed-Loop Benchmark | Zhenqi Wu, Trung Tien Dong, Aditya Penumarti, Mohamed A. Fouad et al. | [Abstract](https://arxiv.org/abs/2610.25534) · [PDF](https://arxiv.org/pdf/2610.25534) |
+| 2026-10-17 | GazeAct: A Human-Gaze-Annotated Manipulation Dataset for Attention-Regularized Policies | Anupam Pani, Wang Yuan, Qifan Wang, Yanchao Yang | [Abstract](https://arxiv.org/abs/2610.24507) · [PDF](https://arxiv.org/pdf/2610.24507) |
 | 2026-10-16 | Structured Perception Representations for Off-road Dynamics Learning | Micah Nye, Samuel Triest, Matthew Sivaprakasam, Isaiah Adu et al. | [Abstract](https://arxiv.org/abs/2610.22900) · [PDF](https://arxiv.org/pdf/2610.22900) |
 | 2026-10-15 | TriSAR-3D and PaintFusion: A Novel Trimodal LiDAR-RGB-Thermal Dataset and Method for 3D Person Detection in Search and Rescue | Markus Kramer, Jan Wachenfeld, Oskar von Stryk | [Abstract](https://arxiv.org/abs/2610.22509) · [PDF](https://arxiv.org/pdf/2610.22509) |
 | 2026-10-14 | TacClaw-Infinity: A Large-Scale Vision-Tactile-Language-Action Dataset for Dexterous Manipulation | Fucai Zhu, Xidong Zhang, Yichi Zhang, Yipan Wang et al. | [Abstract](https://arxiv.org/abs/2610.20320) · [PDF](https://arxiv.org/pdf/2610.20320) |
@@ -144,6 +152,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-09-28 | SynIL: Leveraging Synergy for Offline Imitation Learning from Imperfect Demonstration Datasets | Yuto Tanaka, Kyo Kutsuzawa, Martina Doku, Dai Owaki et al. | [Abstract](https://arxiv.org/abs/2609.38225) · [PDF](https://arxiv.org/pdf/2609.38225) |
 | 2026-09-28 | ForVis: An In-Field Dataset and Benchmark for VIO Using Under-Canopy UAV Flights in Forests | Arman Kiani, Masoud Ataei, Elvis Gyaase, Jeffrey Eiyike et al. | [Abstract](https://arxiv.org/abs/2609.35482) · [PDF](https://arxiv.org/pdf/2609.35482) |
 | 2026-09-27 | AevaScenes: An FMCW LiDAR Dataset and Benchmark for Long-Range Perception | Gautham Narayan Narasimhan, Heethesh Vhavle, Kumar Bhargav Viswanatha, James Reuther et al. | [Abstract](https://arxiv.org/abs/2609.33230) · [PDF](https://arxiv.org/pdf/2609.33230) |
+| 2026-09-25 | Metro-WM: Long-Horizon Latent Planning with Realisable Sub-Goals | Royson Lee, Fady Rezk, Titouan Parcollet, Timothy Hospedales et al. | [Abstract](https://arxiv.org/abs/2609.31868) · [PDF](https://arxiv.org/pdf/2609.31868) |
 | 2026-09-24 | Ego-Exo4D Human Meshes Dataset: 4D Human Motion Reconstruction for Ego-Exo Captures | Abhiram Maddukuri, Georgios Pavlakos | [Abstract](https://arxiv.org/abs/2609.30187) · [PDF](https://arxiv.org/pdf/2609.30187) |
 | 2026-09-23 | Human-in-the-Loop Geospatial Annotation for Rapid Dataset Construction in Field-Deployed UAV Systems | Morgan Masters, Adam Korycki, Nikolaas Bender, T. Luca Altaffer et al. | [Abstract](https://arxiv.org/abs/2609.28767) · [PDF](https://arxiv.org/pdf/2609.28767) |
 | 2026-09-23 | BranchDrive: A Branch-Structured Dataset for Action-Conditioned Driving Prediction | Feeza Khan Khanzada, Sudarshan Sridhar, Jaerock Kwon | [Abstract](https://arxiv.org/abs/2609.27275) · [PDF](https://arxiv.org/pdf/2609.27275) |
@@ -291,7 +300,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-02-15 | A Comprehensive Survey on Deep Learning-Based LiDAR Super-Resolution for Autonomous Driving | June Moh Goo, Zichao Zeng, Jan Boehm | [Abstract](https://arxiv.org/abs/2602.15904) · [PDF](https://arxiv.org/pdf/2602.15904) |
 | 2026-02-14 | UAV-SEAD: State Estimation Anomaly Dataset for UAVs | Aykut Kabaoglu, Sanem Sariel | [Abstract](https://arxiv.org/abs/2602.13900) · [PDF](https://arxiv.org/pdf/2602.13900) |
 | 2026-02-14 | Gaussian Sequences with Multi-Scale Dynamics for 4D Reconstruction from Monocular Casual Videos | Can Li, Jie Gu, Jingmin Chen, Fangzhou Qiu et al. | [Abstract](https://arxiv.org/abs/2602.13806) · [PDF](https://arxiv.org/pdf/2602.13806) |
-| 2026-02-14 | A Kung Fu Athlete Bot That Can Do It All Day: Highly Dynamic, Balance-Challenging Motion Dataset and Autonomous Fall-Resilient Tracking | Zhongxiang Lei, Lulu Cao, Xuyang Wang, Tianyi Qian et al. | [Abstract](https://arxiv.org/abs/2602.13656) · [PDF](https://arxiv.org/pdf/2602.13656) |
 | 2026-02-10 | RoboSubtaskNet: Temporal Sub-task Segmentation for Human-to-Robot Skill Transfer in Real-World Environments | Dharmendra Sharma, Archit Sharma, John Rebeiro, Vaibhav Kesharwani et al. | [Abstract](https://arxiv.org/abs/2602.10015) · [PDF](https://arxiv.org/pdf/2602.10015) |
 | 2026-02-10 | Confounding Robust Continuous Control via Automatic Reward Shaping | Mateo Juliani, Mingxuan Li, Elias Bareinboim | [Abstract](https://arxiv.org/abs/2602.10305) · [PDF](https://arxiv.org/pdf/2602.10305) |
 | 2026-02-08 | ForecastOcc: Vision-based Semantic Occupancy Forecasting | Riya Mohan, Juana Valeria Hurtado, Rohit Mohan, Abhinav Valada | [Abstract](https://arxiv.org/abs/2602.08006) · [PDF](https://arxiv.org/pdf/2602.08006) |
@@ -757,11 +765,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-05 | JRDB-Traj: A Dataset and Benchmark for Trajectory Forecasting in Crowds | Saeed Saadatnejad, Yang Gao, Hamid Rezatofighi, Alexandre Alahi | [Abstract](https://arxiv.org/abs/2311.02736) · [PDF](https://arxiv.org/pdf/2311.02736) |
 | 2023-11-05 | Get the Ball Rolling: Alerting Autonomous Robots When to Help to Close the Healthcare Loop | Jiaxin Shen, Yanyao Liu, Ziming Wang, Ziyuan Jiao et al. | [Abstract](https://arxiv.org/abs/2311.02602) · [PDF](https://arxiv.org/pdf/2311.02602) |
 | 2023-11-03 | SMORE: Score Models for Offline Goal-Conditioned Reinforcement Learning | Harshit Sikchi, Rohan Chitnis, Ahmed Touati, Alborz Geramifard et al. | [Abstract](https://arxiv.org/abs/2311.02013) · [PDF](https://arxiv.org/pdf/2311.02013) |
-| 2023-10-25 | The GOOSE Dataset for Perception in Unstructured Environments | Peter Mortimer, Raphael Hagmanns, Miguel Granero, Thorsten Luettel et al. | [Abstract](https://arxiv.org/abs/2310.16788) · [PDF](https://arxiv.org/pdf/2310.16788) |
-| 2023-10-25 | ParisLuco3D: A high-quality target dataset for domain generalization of LiDAR perception | Jules Sanchez, Louis Soum-Fontez, Jean-Emmanuel Deschaud, Francois Goulette | [Abstract](https://arxiv.org/abs/2310.16542) · [PDF](https://arxiv.org/pdf/2310.16542) |
-| 2023-10-20 | What you see is what you get: Experience ranking with deep neural dataset-to-dataset similarity for topological localisation | Matthew Gadd, Benjamin Ramtoula, Daniele De Martini, Paul Newman | [Abstract](https://arxiv.org/abs/2310.13622) · [PDF](https://arxiv.org/pdf/2310.13622) |
-| 2023-10-19 | Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding | Zhejun Zhang, Alexander Liniger, Christos Sakaridis, Fisher Yu et al. | [Abstract](https://arxiv.org/abs/2310.12970) · [PDF](https://arxiv.org/pdf/2310.12970) |
-| 2023-10-19 | Lidar Panoptic Segmentation and Tracking without Bells and Whistles | Abhinav Agarwalla, Xuhua Huang, Jason Ziglar, Francesco Ferroni et al. | [Abstract](https://arxiv.org/abs/2310.12464) · [PDF](https://arxiv.org/pdf/2310.12464) |
 
 ---
 

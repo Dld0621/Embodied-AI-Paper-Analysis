@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Visual%20%26%20Language%20Navigation&specialty=Image-goal%2C%20Point-goal%20%26%20Retrieval%20Navigation#research-workbench)
 
-> 8 conference papers · 29 recent arXiv papers
+> 8 conference papers · 31 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,11 +27,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation | ICCV · Navigation | [Paper](https://arxiv.org/pdf/2308.10306) · [Publisher](https://doi.org/10.1109/ICCV51070.2023.01009) |
 | 2022 | Topological Semantic Graph Memory for Image-Goal Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2209.08274) · [Publisher](https://doi.org/10.48550/arXiv.2209.08274) |
 
-## Recent arXiv papers (29)
+## Recent arXiv papers (31)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-27 | Omni-IGN: Onboard Image-Goal Navigation for Drones with Omnidirectional Vision | Zichen Yan, Rui Huang, Shenao Wang, Yucong Wang et al. | [Abstract](https://arxiv.org/abs/2610.36968) · [PDF](https://arxiv.org/pdf/2610.36968) |
 | 2026-10-14 | GS-PRM: Gaussian Visual Roadmap for Image-Goal Navigation | Ashraf Siddique, Kyung Min Han, Young J. Kim | [Abstract](https://arxiv.org/abs/2610.19541) · [PDF](https://arxiv.org/pdf/2610.19541) |
+| 2026-09-28 | InJePA: Intention-First Latent Planning with Coupled JEPA World Models for Visual Navigation | Siming Zhou, Bowen Ma, Ruiran Du, Pengcheng Zheng et al. | [Abstract](https://arxiv.org/abs/2610.23896) · [PDF](https://arxiv.org/pdf/2610.23896) |
 | 2026-08-19 | DevGRU: Depth-guided Visual Navigation using a Collision-aware Recurrent Model | Kyung Min Han, Eunsom Kim, Young J. Kim | [Abstract](https://arxiv.org/abs/2608.18470) · [PDF](https://arxiv.org/pdf/2608.18470) |
 | 2026-08-10 | Latent World Models with Monotone Planning Costs for Image-Goal Navigation | Amirhosein Chahe, Siwei Cai, Lifeng Zhou | [Abstract](https://arxiv.org/abs/2608.09073) · [PDF](https://arxiv.org/pdf/2608.09073) |
 | 2026-08-07 | Unordered Landmark Visual Navigation | Hao Ren, Junzhe Zhu, Yihan Li, Zetong Bi et al. | [Abstract](https://arxiv.org/abs/2608.06833) · [PDF](https://arxiv.org/pdf/2608.06833) |

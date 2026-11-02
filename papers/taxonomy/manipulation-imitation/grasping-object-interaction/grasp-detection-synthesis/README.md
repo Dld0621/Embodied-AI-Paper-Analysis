@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Grasping%20%26%20Object%20Interaction&specialty=Grasp%20Detection%20%26%20Synthesis#research-workbench)
 
-> 83 conference papers · 169 recent arXiv papers
+> 83 conference papers · 171 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -102,10 +102,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | On the Importance of Label Encoding and Uncertainty Estimation for Robotic Grasp Detection | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9981866) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981866) |
 | 2022 | Sample Efficient Grasp Learning Using Equivariant Models | RSS · Grasp | [Paper](https://doi.org/10.15607/rss.2022.xviii.071) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.071) |
 
-## Recent arXiv papers (169)
+## Recent arXiv papers (171)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-29 | SimTO-Robust: Automated Design of Soft Grippers Robust to Grasp Pose and Object Geometry | Kurt Enkera, Joshua Pinskier, Marcus Gallagher, David Howard | [Abstract](https://arxiv.org/abs/2610.39560) · [PDF](https://arxiv.org/pdf/2610.39560) |
+| 2026-10-26 | MMGNet: Multi-Modal 6-DoF Grasp Synthesis for Cluttered Scenes | Rui Cao, Jia-Hui Pan, Yichuan Li, Yunfan Yu et al. | [Abstract](https://arxiv.org/abs/2610.34893) · [PDF](https://arxiv.org/pdf/2610.34893) |
+| 2026-10-22 | IORA: Irregular Object Immobilization under Restricted Actuation | Sang-Hun Han, Changyeon Won, JunGyu Lee, Min-Gyu Park et al. | [Abstract](https://arxiv.org/abs/2610.30969) · [PDF](https://arxiv.org/pdf/2610.30969) |
+| 2026-10-18 | T(R,O) Grasp++: Cross-Embodiment Dexterous Grasping in Cluttered Environments at Scale | Xin Fei, Zhixuan Xu, Huaicong Fang, Fangjun Chen et al. | [Abstract](https://arxiv.org/abs/2610.25410) · [PDF](https://arxiv.org/pdf/2610.25410) |
 | 2026-10-01 | Continual Learning for 6-DoF Grasp Synthesis via Experience and Demonstrations | Giulio Schiavi, Andrei Cramariuc, Michael Pantic, Roland Siegwart | [Abstract](https://arxiv.org/abs/2610.01301) · [PDF](https://arxiv.org/pdf/2610.01301) |
 | 2026-09-27 | Steer2Grasp: Inference-Time Embodiment-Aware Steering for Diverse Physically Feasible Grasp Diffusion | Vignesh Vembar, Ayush Kaura, A Padmaprabhan, Siddharth Sinha et al. | [Abstract](https://arxiv.org/abs/2609.33546) · [PDF](https://arxiv.org/pdf/2609.33546) |
 | 2026-09-25 | Vision-Based 6-DoF Grasp Pose Estimation for Robot Cloth Unfolding | Domen Tabernik, Peter Nimac, Jan Jerićević, Danijel Skočaj et al. | [Abstract](https://arxiv.org/abs/2609.31452) · [PDF](https://arxiv.org/pdf/2609.31452) |
@@ -273,8 +277,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-10 | Intersection-free Robot Manipulation with Soft-Rigid Coupled Incremental Potential Contact | Wenxin Du, Siqiong Yao, Xinlei Wang, Yuhang Xu et al. | [Abstract](https://arxiv.org/abs/2311.05945) · [PDF](https://arxiv.org/pdf/2311.05945) |
 | 2023-11-09 | Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter | Georgios Tziafas, Yucheng Xu, Arushi Goel, Mohammadreza Kasaei et al. | [Abstract](https://arxiv.org/abs/2311.05779) · [PDF](https://arxiv.org/pdf/2311.05779) |
 | 2023-11-05 | Towards Feasible Dynamic Grasping: Leveraging Gaussian Process Distance Field, SE(3) Equivariance and Riemannian Mixture Models | Ho Jin Choi, Nadia Figueroa | [Abstract](https://arxiv.org/abs/2311.02576) · [PDF](https://arxiv.org/pdf/2311.02576) |
-| 2023-10-26 | Learning Extrinsic Dexterity with Parameterized Manipulation Primitives | Shih-Min Yang, Martin Magnusson, Johannes A. Stork, Todor Stoyanov | [Abstract](https://arxiv.org/abs/2310.17785) · [PDF](https://arxiv.org/pdf/2310.17785) |
-| 2023-10-24 | AO-Grasp: Articulated Object Grasp Generation | Carlota Parés Morlans, Claire Chen, Yijia Weng, Michelle Yi et al. | [Abstract](https://arxiv.org/abs/2310.15928) · [PDF](https://arxiv.org/pdf/2310.15928) |
 
 ---
 

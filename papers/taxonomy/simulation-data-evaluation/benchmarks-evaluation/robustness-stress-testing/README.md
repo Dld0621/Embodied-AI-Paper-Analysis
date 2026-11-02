@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Evaluation&specialty=Robustness%20%26%20Stress%20Testing#research-workbench)
 
-> 1 conference papers · 11 recent arXiv papers
+> 1 conference papers · 12 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2024 | THE COLOSSEUM: A Benchmark for Evaluating Generalization for Robotic Manipulation | RSS · Benchmark | [Paper](https://arxiv.org/abs/2402.08191) · [Publisher](https://doi.org/10.48550/arXiv.2402.08191) |
 
-## Recent arXiv papers (11)
+## Recent arXiv papers (12)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-23 | RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms | Xi Chen, Fengqi Hu, Zeyu Shen, Jiaying Xu et al. | [Abstract](https://arxiv.org/abs/2610.32971) · [PDF](https://arxiv.org/pdf/2610.32971) |
 | 2026-10-10 | Can Synthetic UAV Benchmarks Be Trusted? Real-Synthetic Validation for UAV Model Selection | Yuyi Zhi, Min Du, Bill Shi, Guodong Yuan et al. | [Abstract](https://arxiv.org/abs/2610.14647) · [PDF](https://arxiv.org/pdf/2610.14647) |
 | 2026-10-06 | Nine Trials to Recover: A Reproducible Benchmark for Repertoire-Free Soft-Robot Damage Adaptation | Siyuan Zhang | [Abstract](https://arxiv.org/abs/2610.07616) · [PDF](https://arxiv.org/pdf/2610.07616) |
 | 2026-08-18 | ControlledShifts: Towards Standardizing Robustness Evaluation in Trajectory Prediction Under Distribution Shifts | Ingrid Navarro, Pablo Ortega-Kral, Yutong Duan, Jonathan Francis et al. | [Abstract](https://arxiv.org/abs/2608.17882) · [PDF](https://arxiv.org/pdf/2608.17882) |

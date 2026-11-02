@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Pretraining%2C%20Scaling%20%26%20Transfer&specialty=Fine-tuning%2C%20Few-shot%20%26%20Adaptation#research-workbench)
 
-> 31 conference papers · 203 recent arXiv papers
+> 31 conference papers · 204 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -50,10 +50,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Large Language Models as Zero-Shot Human Models for Human-Robot Interaction | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.03548) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341488) |
 | 2023 | TidyBot: Personalized Robot Assistance with Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2305.05658) · [Publisher](https://doi.org/10.1007/s10514-023-10139-z) |
 
-## Recent arXiv papers (203)
+## Recent arXiv papers (204)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-25 | HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience | Yang Liu, Jiacheng Liu, Hengtao Li, Yuheng Huang et al. | [Abstract](https://arxiv.org/abs/2610.34186) · [PDF](https://arxiv.org/pdf/2610.34186) |
+| 2026-10-21 | Robot Generalization Beyond Volume: The Diversity Path via Zero-Shot Capabilities | Rafael Felix, Flavia Yanase | [Abstract](https://arxiv.org/abs/2610.29829) · [PDF](https://arxiv.org/pdf/2610.29829) |
+| 2026-10-20 | Embodied Task Agents Can Perform Fine Manipulation through Tactile In-Context Learning | Yubang Wang, Zezheng Huai, Yifei Zhang, Jinhao Wu et al. | [Abstract](https://arxiv.org/abs/2610.27613) · [PDF](https://arxiv.org/pdf/2610.27613) |
+| 2026-10-19 | SteerAct: Unlocking Action Models through Few-Shot Temporal Steering | Kaichen Zhou, Zhiyan Li, Chongkai Gao, Yuhan Wang et al. | [Abstract](https://arxiv.org/abs/2610.25632) · [PDF](https://arxiv.org/pdf/2610.25632) |
+| 2026-10-17 | SARAM: Sparse Adapter Allocation with Reuse and Merging for Lifelong Robot Learning | SeongJun Jeong, Chungwoo Lee, Gi-Cheon Kang, Byoung-Tak Zhang | [Abstract](https://arxiv.org/abs/2610.24804) · [PDF](https://arxiv.org/pdf/2610.24804) |
 | 2026-10-13 | Post-Training, Finetuning, and Steering:A Field Guide for Curating Training Data | Maria Attarian, Yifan Ruan, Claas Voelcker, Chenyang Cao et al. | [Abstract](https://arxiv.org/abs/2610.19143) · [PDF](https://arxiv.org/pdf/2610.19143) |
 | 2026-10-13 | LLM2R: From Large Language Models to 3D Reassemblers | Zhouhan Zhong, Qiuhong Shen, Xingyi Yang, Jinyi Xu et al. | [Abstract](https://arxiv.org/abs/2610.18604) · [PDF](https://arxiv.org/pdf/2610.18604) |
 | 2026-10-13 | GreenWAM: A World Foundation Model for Robotics | Gennady Sidorov, Valerii Kornilov, Denis Grankin, Polina Fedotova et al. | [Abstract](https://arxiv.org/abs/2610.18774) · [PDF](https://arxiv.org/pdf/2610.18774) |
@@ -253,10 +258,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-04 | LLM A*: Human in the Loop Large Language Models Enabled A* Search for Robotics | Hengjia Xiao, Peng Wang, Mingzhe Yu, Mattia Robbiani | [Abstract](https://arxiv.org/abs/2312.01797) · [PDF](https://arxiv.org/pdf/2312.01797) |
 | 2023-11-30 | Categorical Traffic Transformer: Interpretable and Diverse Behavior Prediction with Tokenized Latent | Yuxiao Chen, Sander Tonkens, Marco Pavone | [Abstract](https://arxiv.org/abs/2311.18307) · [PDF](https://arxiv.org/pdf/2311.18307) |
 | 2023-11-18 | Deploying and Evaluating LLMs to Program Service Mobile Robots | Zichao Hu, Francesca Lucchetti, Claire Schlesinger, Yash Saxena et al. | [Abstract](https://arxiv.org/abs/2311.11183) · [PDF](https://arxiv.org/pdf/2311.11183) |
-| 2023-10-27 | Fine-Tuning Language Models Using Formal Methods Feedback | Yunhao Yang, Neel P. Bhatt, Tyler Ingebrand, William Ward et al. | [Abstract](https://arxiv.org/abs/2310.18239) · [PDF](https://arxiv.org/pdf/2310.18239) |
-| 2023-10-25 | Conditionally Combining Robot Skills using Large Language Models | K. R. Zentner, Ryan Julian, Brian Ichter, Gaurav S. Sukhatme | [Abstract](https://arxiv.org/abs/2310.17019) · [PDF](https://arxiv.org/pdf/2310.17019) |
-| 2023-10-23 | Robot Fine-Tuning Made Easy: Pre-Training Rewards and Policies for Autonomous Real-World Reinforcement Learning | Jingyun Yang, Max Sobol Mark, Brandon Vu, Archit Sharma et al. | [Abstract](https://arxiv.org/abs/2310.15145) · [PDF](https://arxiv.org/pdf/2310.15145) |
-| 2023-10-19 | Eureka: Human-Level Reward Design via Coding Large Language Models | Yecheng Jason Ma, William Liang, Guanzhi Wang, De-An Huang et al. | [Abstract](https://arxiv.org/abs/2310.12931) · [PDF](https://arxiv.org/pdf/2310.12931) |
 
 ---
 

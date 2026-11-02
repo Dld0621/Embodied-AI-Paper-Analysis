@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Hardware%20%26%20Morphology&specialty=Actuators%2C%20Joints%20%26%20Transmission#research-workbench)
 
-> 1 conference papers · 27 recent arXiv papers
+> 1 conference papers · 29 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | JiAo: A Versatile Snake Robot with Elliptical Wheels for Multimodal Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11247509) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247509) |
 
-## Recent arXiv papers (27)
+## Recent arXiv papers (29)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | Joint-Health-Aware Reinforcement Learning for Robust Robot Control Under Actuator Degradation | Haifa Zhang, Yijing Wang, Zhiqiang Zuo | [Abstract](https://arxiv.org/abs/2610.41348) · [PDF](https://arxiv.org/pdf/2610.41348) |
+| 2026-10-16 | Rollbot 2: Agile Locomotion by a Single-Actuator Spherical Robot | Jingxian Wang*, Chen Yu*, Sam Kriegman, Michael Rubenstein | [Abstract](https://arxiv.org/abs/2610.24129) · [PDF](https://arxiv.org/pdf/2610.24129) |
 | 2026-10-07 | Higher-Order Morphology Priors for Quadruped Reinforcement Learning Under Actuator Degradation | Derek You, Zafir Shamsi, Keqin Wang, Christine Allen-Blanchette | [Abstract](https://arxiv.org/abs/2610.10934) · [PDF](https://arxiv.org/pdf/2610.10934) |
 | 2026-09-29 | From Sky to Soil: A Morphing Aerial-Ground Robot for Seed Deployment | Namai Chandra, Lining Yao | [Abstract](https://arxiv.org/abs/2609.37072) · [PDF](https://arxiv.org/pdf/2609.37072) |
 | 2026-09-24 | A Tendon-Driven Robotic Jellyfish with Constrained Soft Actuation and Depth Control via Reinforcement Learning | Jiarui Peng, Yutong Wu, Zelong Wang, Ping Deng et al. | [Abstract](https://arxiv.org/abs/2609.29132) · [PDF](https://arxiv.org/pdf/2609.29132) |
@@ -34,7 +36,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-01-27 | RhoMorph: Rhombus-shaped Deformable Modular Robots for Stable, Medium-Independent Reconfiguration Motion | Jie Gu, Yirui Sun, Zhihao Xia, Tin Lun Lam et al. | [Abstract](https://arxiv.org/abs/2601.19529) · [PDF](https://arxiv.org/pdf/2601.19529) |
 | 2025-12-17 | Load-Based Variable Transmission Mechanism for Robotic Applications | Sinan Emre, Victor Barasuol, Matteo Villa, Claudio Semini | [Abstract](https://arxiv.org/abs/2512.15448) · [PDF](https://arxiv.org/pdf/2512.15448) |
 | 2025-12-12 | Untethered thin dielectric elastomer actuated soft robot | Xi Wang, Jing Liu, Siqian Li, Hengtai Dai et al. | [Abstract](https://arxiv.org/abs/2512.17940) · [PDF](https://arxiv.org/pdf/2512.17940) |
-| 2025-11-15 | Multilaminate piezoelectric PVDF actuators to enhance performance of soft micro robots | Nicholas Gunter, Heiko Kabutz, Kaushik Jayaram | [Abstract](https://arxiv.org/abs/2511.12380) · [PDF](https://arxiv.org/pdf/2511.12380) |
+| 2025-11-15 | Multilaminate piezoelectric polymer actuators for insect-scale softrobots | Nicholas Gunter, Heiko Kabutz, Alexander Hedrick, Kaushik Jayaram | [Abstract](https://arxiv.org/abs/2511.12380) · [PDF](https://arxiv.org/pdf/2511.12380) |
 | 2025-11-13 | PuffyBot: An Untethered Shape Morphing Robot for Multi-environment Locomotion | Shashwat Singh, Zilin Si, Zeynep Temel | [Abstract](https://arxiv.org/abs/2511.09885) · [PDF](https://arxiv.org/pdf/2511.09885) |
 | 2025-10-07 | The DISTANT Design for Remote Transmission and Steering Systems for Planetary Robotics | Cristina Luna, Alba Guerra, Almudena Moreno, Manuel Esquer et al. | [Abstract](https://arxiv.org/abs/2510.05981) · [PDF](https://arxiv.org/pdf/2510.05981) |
 | 2025-09-25 | Developing a Mono-Actuated Compliant GeoGami Robot | Archie Webster, Lee Skull, Seyed Amir Tafrishi | [Abstract](https://arxiv.org/abs/2509.21445) · [PDF](https://arxiv.org/pdf/2509.21445) |

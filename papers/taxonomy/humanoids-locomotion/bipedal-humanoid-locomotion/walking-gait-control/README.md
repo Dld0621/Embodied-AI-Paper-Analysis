@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Walking%20%26%20Gait%20Control#research-workbench)
 
-> 98 conference papers · 269 recent arXiv papers
+> 98 conference papers · 273 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,7 +20,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2026 | Asymptotically Stable Gait Generation and Instantaneous Walkability Determination for Planar Almost Linear Biped with Knees | ICRA · Biped | [Paper](https://arxiv.org/pdf/2604.12274) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697158) |
 | 2026 | Bipedal-Walking-Dynamics Model on Granular Terrains | ICRA · Biped | [Paper](https://arxiv.org/pdf/2604.11981) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696564) |
-| 2026 | Human-Centered Development of Guide Dog Robots: Quiet and Stable Locomotion Control | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2505.11808) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696250) |
+| 2026 | Human-Centered Development of Guide Dog Robots: Quiet and Stable Locomotion Control | ICRA · Locomotion | [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC13663884/pdf/nihms-2202471.pdf) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696250) |
 | 2026 | Motion Pattern Analysis of a Rolling Locomotion Robot Featuring Dual Rimless Wheels and Elastic Connectors | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696830) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696830) |
 | 2026 | NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning | ICRA · Gait | [Paper](https://arxiv.org/pdf/2510.11542) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696195) |
 | 2026 | RL-augmented Adaptive Model Predictive Control for Bipedal Locomotion over Challenging Terrain | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2509.18466) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697426) |
@@ -117,10 +117,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Robust Humanoid Walking System Considering Recognized Terrain and Robots' Balance | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9981410) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981410) |
 | 2022 | Uniform Global Exponential Stabilizing Passivity-Based Tracking Controller Applied to Planar Biped Robots | IROS · Biped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981206) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981206) |
 
-## Recent arXiv papers (269)
+## Recent arXiv papers (273)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-27 | When Black-Box Robot Policies Fail: Online Sensor Diagnosis and Repair with a Transparent Surrogate | Marc Ziegler, Batu Özen, Sami Mentes, Thomas Waschulzik et al. | [Abstract](https://arxiv.org/abs/2610.36852) · [PDF](https://arxiv.org/pdf/2610.36852) |
+| 2026-10-27 | TACOS: Terrain-Aware COntact Supervision for Visual Footstep Planning | Jean-Michel Fortin, William Larrivée-Hardy, Gabriel Jeanson, Olivier Gamache et al. | [Abstract](https://arxiv.org/abs/2610.37806) · [PDF](https://arxiv.org/pdf/2610.37806) |
+| 2026-10-27 | Multi-Agent Reinforcement Learning of Co-Adaptive Hip Exoskeleton Control (MARL-Exo) for Metabolic Energy Reduction | Yifei Yuan, Jakob Wolf, Ghaith Androwis, Xianlian Zhou | [Abstract](https://arxiv.org/abs/2610.37441) · [PDF](https://arxiv.org/pdf/2610.37441) |
+| 2026-10-21 | S-Rolling: Steerable Rolling Gaits for Twistable Snake Robots in Low-Clearance Environments | Qingling Fan, Zhongqiang Ren | [Abstract](https://arxiv.org/abs/2610.29478) · [PDF](https://arxiv.org/pdf/2610.29478) |
+| 2026-10-21 | Linear Twisting Sidewinding Gaits for Twistable Snake Robot Motion Planning on Complex Terrains | Qingling Fan, Zhongqiang Ren | [Abstract](https://arxiv.org/abs/2610.29461) · [PDF](https://arxiv.org/pdf/2610.29461) |
+| 2026-10-17 | Anticipatory Gait Switching for Quadrupeds via Look-Ahead MDP Planning | Kelvin Aladum, Justin Peel, Nisar Ahmed | [Abstract](https://arxiv.org/abs/2610.24895) · [PDF](https://arxiv.org/pdf/2610.24895) |
 | 2026-10-15 | Location-Based Safety Management with Wearable Seamless Indoor-Outdoor Positioning | Anh-Van Vu, Seungwoo Chae, Changmin Sung, Van-Tuan Nguyen et al. | [Abstract](https://arxiv.org/abs/2610.21503) · [PDF](https://arxiv.org/pdf/2610.21503) |
 | 2026-10-14 | Persistent Profile-Guided Reset-Free Recovery Improves Final Gait Selection after Irreversible Leg Damage | Minjoong Kim | [Abstract](https://arxiv.org/abs/2610.20838) · [PDF](https://arxiv.org/pdf/2610.20838) |
 | 2026-10-13 | Tread: A Visuo-Inertial Framework for Terrain and Locomotion Context-Aware Gait-Phase and Speed Estimation in Wearable Robotics | Debadrata Sarkar, Akash Bachhar, Aman Arora | [Abstract](https://arxiv.org/abs/2610.19067) · [PDF](https://arxiv.org/pdf/2610.19067) |
@@ -315,7 +321,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-11-06 | Real-Time Safe Bipedal Robot Navigation using Linear Discrete Control Barrier Functions | Chengyang Peng, Victor Paredes, Guillermo A. Castillo, Ayonga Hereid | [Abstract](https://arxiv.org/abs/2411.03619) · [PDF](https://arxiv.org/pdf/2411.03619) |
 | 2024-10-22 | Composing Diffusion Policies for Few-shot Learning of Movement Trajectories | Omkar Patil, Anant Sah, Nakul Gopalan | [Abstract](https://arxiv.org/abs/2410.17479) · [PDF](https://arxiv.org/pdf/2410.17479) |
 | 2024-10-15 | Adaptive Ankle Torque Control for Bipedal Humanoid Walking on Surfaces with Unknown Horizontal and Vertical Motion | Jacob Stewart, I-Chia Chang, Yan Gu, Petros A. Ioannou | [Abstract](https://arxiv.org/abs/2410.11799) · [PDF](https://arxiv.org/pdf/2410.11799) |
-| 2024-10-12 | The Indirect Method for Generating Libraries of Optimal Periodic Trajectories and Its Application to Economical Bipedal Walking | Maximilian Raff, Kathrin Flaßkamp, C. David Remy | [Abstract](https://arxiv.org/abs/2410.09512) · [PDF](https://arxiv.org/pdf/2410.09512) |
+| 2024-10-12 | Indirect Optimal Control for Constructing Libraries of Periodic Trajectories: Application to Bipedal Walking | Maximilian Raff, Kathrin Flaßkamp, C. David Remy | [Abstract](https://arxiv.org/abs/2410.09512) · [PDF](https://arxiv.org/pdf/2410.09512) |
 | 2024-10-12 | A Novel Multi-Gait Strategy for Stable and Efficient Quadruped Robot Locomotion | Daoxun Zhang, Xieyuanli Chen, Zhengyu Zhong, Ming Xu et al. | [Abstract](https://arxiv.org/abs/2410.09336) · [PDF](https://arxiv.org/pdf/2410.09336) |
 | 2024-10-11 | Design and Performance Evaluation of an Elbow-Based Biomechanical Energy Harvester | Hubert Huang, Jeffrey Huang | [Abstract](https://arxiv.org/abs/2410.09036) · [PDF](https://arxiv.org/pdf/2410.09036) |
 | 2024-10-08 | Sitting, Standing and Walking Control of the Series-Parallel Hybrid Recupera-Reha Exoskeleton | Ibrahim Tijjani, Rohit Kumar, Melya Boukheddimi, Mathias Trampler et al. | [Abstract](https://arxiv.org/abs/2410.06008) · [PDF](https://arxiv.org/pdf/2410.06008) |
@@ -388,8 +394,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-12 | Advanced Feedback Linearization Control for Tiltrotor UAVs: Gait Plan, Controller Design, and Stability Analysis | Zhe Shen | [Abstract](https://arxiv.org/abs/2311.06725) · [PDF](https://arxiv.org/pdf/2311.06725) |
 | 2023-11-03 | Learning Reduced-Order Soft Robot Controller | Chen Liang, Xifeng Gao, Kui Wu, Zherong Pan | [Abstract](https://arxiv.org/abs/2311.01720) · [PDF](https://arxiv.org/pdf/2311.01720) |
 | 2023-11-02 | Learning to See Physical Properties with Active Sensing Motor Policies | Gabriel B. Margolis, Xiang Fu, Yandong Ji, Pulkit Agrawal | [Abstract](https://arxiv.org/abs/2311.01405) · [PDF](https://arxiv.org/pdf/2311.01405) |
-| 2023-11-01 | MTAC: Hierarchical Reinforcement Learning-based Multi-gait Terrain-adaptive Quadruped Controller | Nishaant Shah, Kshitij Tiwari, Aniket Bera | [Abstract](https://arxiv.org/abs/2401.03337) · [PDF](https://arxiv.org/pdf/2401.03337) |
-| 2023-10-21 | Computational Approaches for Modeling Power Consumption on an Underwater Flapping Fin Propulsion System | Brian Zhou, Jason Geder, Alisha Sharma, Julian Lee et al. | [Abstract](https://arxiv.org/abs/2310.14135) · [PDF](https://arxiv.org/pdf/2310.14135) |
 
 ---
 

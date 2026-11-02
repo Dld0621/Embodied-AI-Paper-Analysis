@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=Failure%20Detection%20%26%20Self-correction#research-workbench)
 
-> 7 conference papers · 85 recent arXiv papers
+> 7 conference papers · 88 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots | IROS · Llm | [Paper](https://arxiv.org/pdf/2507.05118) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246320) |
 | 2024 | CoPAL: Corrective Planning of Robot Actions with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2310.07263) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610434) |
 
-## Recent arXiv papers (85)
+## Recent arXiv papers (88)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-29 | Assuring Learning-Enabled Cyber-Physical Systems with Foundation Models: A Neuro-Symbolic Agenda for Testing, Verification, and Runtime Assurance | Xi Zheng, Ivan Ruchkin, Hong Jin Kang, Tevfik Bultan et al. | [Abstract](https://arxiv.org/abs/2610.39547) · [PDF](https://arxiv.org/pdf/2610.39547) |
+| 2026-10-22 | LAST-V2X: Language-Driven Adaptive Scenario Synthesis and Testing for Communication-Induced Failures in V2X Safety Applications | Keshu Wu, Hao Zhang, Rui Gan, Pei Li et al. | [Abstract](https://arxiv.org/abs/2610.30979) · [PDF](https://arxiv.org/pdf/2610.30979) |
 | 2026-10-15 | VeriVLA: Adaptive Test-Time Verification for Flow-Based VLAs with Latent World Models | Xueli Sun, Yuxiang Lu, Yantong Liu, Xianzhe Fan et al. | [Abstract](https://arxiv.org/abs/2610.21985) · [PDF](https://arxiv.org/pdf/2610.21985) |
 | 2026-10-13 | Assessing the Quality of Concrete Scenarios Generated from Scenario Classes for Automated Driving | Lina Putze, Thies de Graaff, Jan Steffen Becker, Christian Neurohr | [Abstract](https://arxiv.org/abs/2610.18169) · [PDF](https://arxiv.org/pdf/2610.18169) |
 | 2026-10-05 | Future Anchored Verification and Online Recovery for World Action Models | Zhibin Qin, Zhenxiong Tan, Xinchao Wang | [Abstract](https://arxiv.org/abs/2610.06280) · [PDF](https://arxiv.org/pdf/2610.06280) |
@@ -57,6 +59,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-18 | Dual-Agent Framework for Cross-Model Verified Translation of Natural-Language Protocols into Robotic Laboratory Platform | Hyeonna Choi, Jung Yup Kim, Hyuneui Lim, Seunggyu Jeon | [Abstract](https://arxiv.org/abs/2606.20120) · [PDF](https://arxiv.org/pdf/2606.20120) |
 | 2026-06-16 | As You Wish: Mission Planning with Formal Verification using LLMs in Precision Agriculture | Marcos Abel Zuzuárregui, Stefano Carpin | [Abstract](https://arxiv.org/abs/2606.18519) · [PDF](https://arxiv.org/pdf/2606.18519) |
 | 2026-06-10 | AerialClaw: An Open-Source Framework for LLM-Driven Autonomous Aerial Agents | Ke Li, Jianfei Yang, Luyao Zhang, Guo Yu et al. | [Abstract](https://arxiv.org/abs/2606.12142) · [PDF](https://arxiv.org/pdf/2606.12142) |
+| 2026-06-08 | Who Is the Agent Talking To? Participant-Aware Role Switching for Embodied Student-Support Dialogue | Iro Samuel, Filip Janik, Ewa Olton, Robert Smales et al. | [Abstract](https://arxiv.org/abs/2606.09255) · [PDF](https://arxiv.org/pdf/2606.09255) |
 | 2026-05-19 | Reason--Imagine--Act: Closed-Loop LLM Decision Making with World Models for Autonomous Driving | Zhengqi Sun, Yiwen Sun, Boxuan Liu, Tailai Chen et al. | [Abstract](https://arxiv.org/abs/2605.24004) · [PDF](https://arxiv.org/pdf/2605.24004) |
 | 2026-05-10 | LASSA Architecture-Based Autonomous Fault-Tolerant Control of Unmanned Underwater Vehicles | Hong Chen, Zixiang Tang, Yuanbao Chen, Yu Liu | [Abstract](https://arxiv.org/abs/2605.09494) · [PDF](https://arxiv.org/pdf/2605.09494) |
 | 2026-05-04 | Semantic Risk-Aware Heuristic Planning for Robotic Navigation in Dynamic Environments: An LLM-Inspired Approach | Hamza Ahmed Durrani, Rafay Suleman Durrani | [Abstract](https://arxiv.org/abs/2605.02862) · [PDF](https://arxiv.org/pdf/2605.02862) |

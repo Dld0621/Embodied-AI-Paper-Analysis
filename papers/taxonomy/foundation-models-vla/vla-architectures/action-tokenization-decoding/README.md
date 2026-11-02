@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=VLA%20Architectures&specialty=Action%20Tokenization%20%26%20Decoding#research-workbench)
 
-> 1 conference papers · 87 recent arXiv papers
+> 1 conference papers · 94 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2026 | SlotVLA: Towards Modeling of Object-Relation Representations in Robotic Manipulation | ICRA · Vla | [Paper](https://arxiv.org/pdf/2511.06754) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695805) |
 
-## Recent arXiv papers (87)
+## Recent arXiv papers (94)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | VLA Policies Do Not Know When Not to Act: Unintended Task Execution and Start Suppression | Minsu Jang, Jae-Woo Choi, Youngwoo Yoon, Dohyung Kim | [Abstract](https://arxiv.org/abs/2610.41609) · [PDF](https://arxiv.org/pdf/2610.41609) |
+| 2026-10-22 | FastHarness: Experience-Driven Review Scheduling for Vision-Language-Action Policies | Tao Lin, Yuxin Du, Haoxiao Wang, Zile Zhong et al. | [Abstract](https://arxiv.org/abs/2610.31427) · [PDF](https://arxiv.org/pdf/2610.31427) |
+| 2026-10-22 | Echo: Coupled Action and Task Status Signal Denoising for Vision Language Action Models | Yufeng Liu, Bohao Fan, Juntu Zhao, Xinyi Wang et al. | [Abstract](https://arxiv.org/abs/2610.31569) · [PDF](https://arxiv.org/pdf/2610.31569) |
+| 2026-10-20 | PACT-VLA: Speculative Action-Chunk Verification with Pre-Commit Observations | Yixiang Zhu, Ruilong Wu, Yonghao Chen, Jiaxiang Zou et al. | [Abstract](https://arxiv.org/abs/2610.28019) · [PDF](https://arxiv.org/pdf/2610.28019) |
+| 2026-10-19 | HAF-VLA: Hierarchical Action Flow Framework for Humanoid Vision-Language-Action Control | Langzhe Gu, Chengkai Hou, Meng Li, Xinhua Wang et al. | [Abstract](https://arxiv.org/abs/2610.26584) · [PDF](https://arxiv.org/pdf/2610.26584) |
+| 2026-10-19 | CondenseVLA: Learnable History Condensation for Efficient Multi-Frame VLA | Feiyang Hong, Yujie Wei, Bo Zhao, Xiu Su et al. | [Abstract](https://arxiv.org/abs/2610.25927) · [PDF](https://arxiv.org/pdf/2610.25927) |
+| 2026-10-18 | VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse | Sicheng He, Yi Pan, Qiuting Yu, Jiaming Huang et al. | [Abstract](https://arxiv.org/abs/2610.25043) · [PDF](https://arxiv.org/pdf/2610.25043) |
 | 2026-10-16 | Unifying Embodied Foundation Models via a Model-to-Policy Formulation | Xinyi Hong, Mingyang Ren | [Abstract](https://arxiv.org/abs/2610.23053) · [PDF](https://arxiv.org/pdf/2610.23053) |
 | 2026-10-15 | Policy-Aligned Predictive Verification for Adaptive VLA Action-Chunk Execution | Minkyu Kim, Junhoo Lee, Seungyeon Kim, Suhyun Jeon et al. | [Abstract](https://arxiv.org/abs/2610.21434) · [PDF](https://arxiv.org/pdf/2610.21434) |
 | 2026-10-14 | FoveaVLA: Foveation Actions Replace the Wrist Camera in VLAs | Bingao Chen, Lihan Zha, C. Karen Liu, Guy Tevet | [Abstract](https://arxiv.org/abs/2610.20064) · [PDF](https://arxiv.org/pdf/2610.20064) |
@@ -68,7 +75,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-24 | Action ControlNet: A Lightweight Delay-Aware Adapter for Smooth Asynchronous Control in Vision-Language-Action Models | Tiecheng Guo, Meng Guo | [Abstract](https://arxiv.org/abs/2606.25985) · [PDF](https://arxiv.org/pdf/2606.25985) |
 | 2026-06-22 | UniFS: Unified Fast-to-Slow Hierarchical Architecture for Vision-Language-Action Models | Lin Sun, Zhiwei Guan, Conglin Wang, Zihong Chen et al. | [Abstract](https://arxiv.org/abs/2606.22794) · [PDF](https://arxiv.org/pdf/2606.22794) |
 | 2026-06-16 | PearlVLA: Progressive Embodied Action-Plan Refinement in Latent Space | Bochen Yang, Lianlei Shan | [Abstract](https://arxiv.org/abs/2606.17924) · [PDF](https://arxiv.org/pdf/2606.17924) |
-| 2026-06-15 | SafeDojo: Safe Reinforcement Learning for VLA via Interactive World Model | Kai Tang, Peidong Jia, Zhong Chu, Jixian Wu et al. | [Abstract](https://arxiv.org/abs/2606.20698) · [PDF](https://arxiv.org/pdf/2606.20698) |
+| 2026-06-15 | SafeDojo: Safe Reinforcement Learning for VLA via Interactive World Model | Kai Tang, Peidong Jia, Zhong Chu, Jiajun Cao et al. | [Abstract](https://arxiv.org/abs/2606.20698) · [PDF](https://arxiv.org/pdf/2606.20698) |
 | 2026-06-15 | Geometric Action Model for Robot Policy Learning | Jisang Han, Seonghu Jeon, Jaewoo Jung, René Zurbrügg et al. | [Abstract](https://arxiv.org/abs/2606.17046) · [PDF](https://arxiv.org/pdf/2606.17046) |
 | 2026-06-12 | Steering Autoregressive Vision-Language-Action Policies via Action Token Intervention | Jason Chan, Jonathan C. Kao | [Abstract](https://arxiv.org/abs/2606.15021) · [PDF](https://arxiv.org/pdf/2606.15021) |
 | 2026-06-12 | Elastic Queries Reinforcement Learning: Self-Aware Policy Execution for VLA Models | Ge Wang, Xinyu Tan, Xiang Li, Man Luo et al. | [Abstract](https://arxiv.org/abs/2606.14375) · [PDF](https://arxiv.org/pdf/2606.14375) |
@@ -81,16 +88,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-05-21 | Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts | Zhen Sun, Yongjian Guo, Haoran Sun, Luqiao Wang et al. | [Abstract](https://arxiv.org/abs/2605.22446) · [PDF](https://arxiv.org/pdf/2605.22446) |
 | 2026-05-21 | EvoScene-VLA: Evolving Scene Beliefs Inside the Action Decoder for Chunked Robot Control | Chushan Zhang, Ruihan Lu, Jinguang Tong, Xuesong Li et al. | [Abstract](https://arxiv.org/abs/2605.21862) · [PDF](https://arxiv.org/pdf/2605.21862) |
 | 2026-05-20 | PointACT: Vision-Language-Action Models with Multi-Scale Point-Action Interaction | Shizhe Chen, Paul Pacaud, Cordelia Schmid | [Abstract](https://arxiv.org/abs/2605.21414) · [PDF](https://arxiv.org/pdf/2605.21414) |
-| 2026-05-19 | DEFLECT: Temporal Counterfactual Preference Learning for Delay-Robust Asynchronous VLAs | Yixiang Zhu, Yonghao Chen, Zijie Yang, Yusong Hu et al. | [Abstract](https://arxiv.org/abs/2605.19294) · [PDF](https://arxiv.org/pdf/2605.19294) |
+| 2026-05-19 | DEFLECT: Temporal Counterfactual Preference Learning for Delay-Robust Asynchronous VLAs | Yixiang Zhu, Yonghao Chen, Jiaxiang Zou, Yusong Hu et al. | [Abstract](https://arxiv.org/abs/2605.19294) · [PDF](https://arxiv.org/pdf/2605.19294) |
 | 2026-05-12 | World Action Models: The Next Frontier in Embodied AI | Siyin Wang, Junhao Shi, Zhaoyang Fu, Xinzhe He et al. | [Abstract](https://arxiv.org/abs/2605.12090) · [PDF](https://arxiv.org/pdf/2605.12090) |
 | 2026-05-12 | GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization | Xiaosong Jia, Bowen Yang, Zuhao Ge, Xian Nie et al. | [Abstract](https://arxiv.org/abs/2605.12369) · [PDF](https://arxiv.org/pdf/2605.12369) |
 | 2026-05-11 | ALAM: Algebraically Consistent Latent Action Model for Vision-Language-Action Models | Zuojin Tang, Haoyun Liu, Xinyuan Chang, Changjie Wu et al. | [Abstract](https://arxiv.org/abs/2605.10819) · [PDF](https://arxiv.org/pdf/2605.10819) |
 | 2026-05-04 | MolmoAct2: Action Reasoning Models for Real-world Deployment | Haoquan Fang, Jiafei Duan, Donovan Clay, Sam Wang et al. | [Abstract](https://arxiv.org/abs/2605.02881) · [PDF](https://arxiv.org/pdf/2605.02881) |
 | 2026-04-29 | Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising | Jun Guo, Qiwei Li, Peiyan Li, Zilong Chen et al. | [Abstract](https://arxiv.org/abs/2604.26694) · [PDF](https://arxiv.org/pdf/2604.26694) |
-| 2026-04-17 | ReconVLA: An Uncertainty-Guided and Failure-Aware Vision-Language-Action Framework for Robotic Control | Lingling Chen, Zongyao Lyu, William J. Beksi | [Abstract](https://arxiv.org/abs/2604.16677) · [PDF](https://arxiv.org/pdf/2604.16677) |
 | 2026-04-06 | StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing | StarVLA Community | [Abstract](https://arxiv.org/abs/2604.05014) · [PDF](https://arxiv.org/pdf/2604.05014) |
 | 2026-03-26 | MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation | Yang Liu, Pengxiang Ding, Tengyue Jiang, Xudong Wang et al. | [Abstract](https://arxiv.org/abs/2603.25406) · [PDF](https://arxiv.org/pdf/2603.25406) |
 | 2026-03-10 | AR-VLA: True Autoregressive Action Expert for Vision-Language-Action Models | Yutong Hu, Jan-Nico Zaech, Nikolay Nikolov, Yuanqi Yao et al. | [Abstract](https://arxiv.org/abs/2603.10126) · [PDF](https://arxiv.org/pdf/2603.10126) |
+| 2026-03-09 | ActECC: Action Chunk Temporal Harnessing for Edge-Cloud Collaborative VLA Inference System | Zihao Zheng, Zhihao Mao, Hui Huang, Sicheng Tian et al. | [Abstract](https://arxiv.org/abs/2603.07949) · [PDF](https://arxiv.org/pdf/2603.07949) |
 | 2026-02-24 | VLA Knows Its Limits: Adaptive Execution Horizons for Robot Policies | Haoxuan Wang, Gengyu Zhang, Yan Yan, Ramana Rao Kompella et al. | [Abstract](https://arxiv.org/abs/2602.21445) · [PDF](https://arxiv.org/pdf/2602.21445) |
 | 2026-02-17 | ActionCodec: What Makes for Good Action Tokenizers | Zibin Dong, Yicheng Liu, Shiduo Zhang, Baijun Ye et al. | [Abstract](https://arxiv.org/abs/2602.15397) · [PDF](https://arxiv.org/pdf/2602.15397) |
 | 2026-02-09 | Mimic Intent, Not Just Trajectories | Renming Huang, Chendong Zeng, Wenjing Tang, Jintian Cai et al. | [Abstract](https://arxiv.org/abs/2602.08602) · [PDF](https://arxiv.org/pdf/2602.08602) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Manipulation%20Policy%20Learning&specialty=Reinforcement%20%26%20Offline%20RL#research-workbench)
 
-> 62 conference papers · 340 recent arXiv papers
+> 62 conference papers · 349 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -81,10 +81,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Learning Object Manipulation Skills from Video via Approximate Differentiable Physics | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2208.01960) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982084) |
 | 2022 | Learning to Grasp on the Moon from 3D Octree Observations with Deep Reinforcement Learning | IROS · Grasp | [Paper](https://vbn.aau.dk/da/publications/02da444c-b2e1-4928-8567-bf5acb6abcae) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981661) |
 
-## Recent arXiv papers (340)
+## Recent arXiv papers (349)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | ResMerge: Residual Policy Learning and Merging for Continual Adaptation of Pre-trained Robot Policies | Kefei Zhu, Lingyun Xu, Yue Xin, Xiaoqi Li et al. | [Abstract](https://arxiv.org/abs/2610.41663) · [PDF](https://arxiv.org/pdf/2610.41663) |
+| 2026-10-29 | Event2Reward: Learning Robotic Rewards from Progress Relations | Junnan Nie, Zitian Fan, Jiachen Zhang, Junyi Lao et al. | [Abstract](https://arxiv.org/abs/2610.39212) · [PDF](https://arxiv.org/pdf/2610.39212) |
+| 2026-10-29 | CuBot-STT: Simultaneously Transport and Tighten for Lattice-type Modular Reconfiguration Robot | Chongxi Meng, Da Zhao, Yanmin Zhou, Runjie Shen et al. | [Abstract](https://arxiv.org/abs/2610.39279) · [PDF](https://arxiv.org/pdf/2610.39279) |
+| 2026-10-28 | Force-Driven Hook Disassembly via Constraint-Aware Object-Centric Reinforcement Learning | Nadeen Elhadad, Takuya Kiyokawa, Kensuke Harada | [Abstract](https://arxiv.org/abs/2610.38513) · [PDF](https://arxiv.org/pdf/2610.38513) |
+| 2026-10-28 | CSO: Refining Robotic Policies via Skill Distribution Alignment and Skill-Grained Optimization | Zhiyuan Xiang, Xiang Deng, Wanjie Tao, Xu Chen et al. | [Abstract](https://arxiv.org/abs/2610.38357) · [PDF](https://arxiv.org/pdf/2610.38357) |
+| 2026-10-27 | When, Where, and What to Correct: Human-Guided Adaptive Residual Correction for Robot Policies | Anukriti Singh, Maxime Caniot, Pratap Tokekar, Firas Abi-Farraj | [Abstract](https://arxiv.org/abs/2610.37547) · [PDF](https://arxiv.org/pdf/2610.37547) |
+| 2026-10-22 | SEVI: Safe Evidential Real-World Reinforcement Learning | Shaekh Mohammad Shithil, Lantao Liu | [Abstract](https://arxiv.org/abs/2610.31829) · [PDF](https://arxiv.org/pdf/2610.31829) |
+| 2026-10-22 | PrefO2O: Zero-Shot Preference-Based Reinforcement Learning via Offline-to-Online Latent Preference Transfer | Ruiqi Wang, Dezhong Zhao, Xuesu Xiao, Erdem Biyik et al. | [Abstract](https://arxiv.org/abs/2610.31812) · [PDF](https://arxiv.org/pdf/2610.31812) |
+| 2026-10-21 | Training in Deployment: Human-in-the-loop Online Post-Training for Robot Manipulation | Chun Gu, Xiaofei Wei, Yiming Chen, Bozhou Zhang et al. | [Abstract](https://arxiv.org/abs/2610.29264) · [PDF](https://arxiv.org/pdf/2610.29264) |
+| 2026-10-21 | Tactile-Based Robotic Manipulation: From Mechanics-Driven to Data-Driven Perspectives | Jingyi Xiang, Yixuan Wang, Wenzhen Yuan | [Abstract](https://arxiv.org/abs/2610.30438) · [PDF](https://arxiv.org/pdf/2610.30438) |
+| 2026-10-21 | AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation | Likui Zhang, Zhe Zhu, Zhihao Zhan, Yibo Bai et al. | [Abstract](https://arxiv.org/abs/2610.30097) · [PDF](https://arxiv.org/pdf/2610.30097) |
+| 2026-10-20 | AWLS: Advantage-Weighted Latent Steering for One-Step Generative Robotic Manipulation Policies | Jiahong Tang, Jiaju He, Zhiyuan Yang, Ruyang Han et al. | [Abstract](https://arxiv.org/abs/2610.27736) · [PDF](https://arxiv.org/pdf/2610.27736) |
 | 2026-10-16 | No Eyes, No Problem: What Does Touch Contribute to Blind Baoding Ball Manipulation? | Ayush Deshmukh, Nalin Agarwal, Elle Miller, Sethu Vijayakumar | [Abstract](https://arxiv.org/abs/2610.23438) · [PDF](https://arxiv.org/pdf/2610.23438) |
 | 2026-10-15 | Value as Memory: Online Value-Guided Post-training for General Robot Policies | Wenye Yu, Yijin Chen, Kaiyi Xiong, Wenbo Han et al. | [Abstract](https://arxiv.org/abs/2610.22368) · [PDF](https://arxiv.org/pdf/2610.22368) |
 | 2026-10-15 | Uni-PNP: Unified Prehensile and Non-prehensile Policy Learning for Generalizable Object Pose Reaching | Wenxuan Zhu, Yuze Wang, Jiangran Lyu, Jiayi Chen et al. | [Abstract](https://arxiv.org/abs/2610.21735) · [PDF](https://arxiv.org/pdf/2610.21735) |
@@ -133,6 +145,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-08-06 | Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation | He Kong, Zengjue Chen, Qi Wang, Qianli Xing et al. | [Abstract](https://arxiv.org/abs/2608.05999) · [PDF](https://arxiv.org/pdf/2608.05999) |
 | 2026-08-04 | EvoHIL: Self-Evolving Reward and Flow-Matched Policy Optimization for Robust Human-in-the-Loop Reinforcement Learning | Shuoqin Zhang, Tongtong Cheng, Xiru Gao, Jinzhuo Peng et al. | [Abstract](https://arxiv.org/abs/2608.03872) · [PDF](https://arxiv.org/pdf/2608.03872) |
 | 2026-08-04 | Continue or Replan? Bernoulli-Continuation Policy Learning for Adaptive Horizon Execution | Weichen Xu, Zhenhua Liu, Lin Luo, Yaobo Liang et al. | [Abstract](https://arxiv.org/abs/2608.03483) · [PDF](https://arxiv.org/pdf/2608.03483) |
+| 2026-07-17 | Learning Where it Matters: Autonomous Data Collection and Offline Reinforcement Learning for Local Contact-Rich Manipulation | Oliver Hausdörfer, Linus Schwarz, Gabor Marko, Christian Dietz et al. | [Abstract](https://arxiv.org/abs/2607.15982) · [PDF](https://arxiv.org/pdf/2607.15982) |
 | 2026-07-15 | Reverse to Advance: Teleoperation-Cost Effective Hard Policy Learning from Reversed Easy Tasks | Qiyuan Qiao, Ge Yuan, Can Wang, Dong Xu | [Abstract](https://arxiv.org/abs/2607.13455) · [PDF](https://arxiv.org/pdf/2607.13455) |
 | 2026-07-15 | Learning Robust Execution in Robotic Manipulation with Agentic Reinforcement Learning | Xiaopeng Zhang, Yueyang Weng, Qi Liu, Yongjin Mu et al. | [Abstract](https://arxiv.org/abs/2607.13818) · [PDF](https://arxiv.org/pdf/2607.13818) |
 | 2026-07-14 | DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation | Yu Fang, Wanxi Dong, Jiaqi Liu, Yue Yang et al. | [Abstract](https://arxiv.org/abs/2607.13033) · [PDF](https://arxiv.org/pdf/2607.13033) |
@@ -196,7 +209,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-02-12 | Accelerating Robotic Reinforcement Learning with Agent Guidance | Haojun Chen, Zili Zou, Chengdong Ma, Yaoxiang Pu et al. | [Abstract](https://arxiv.org/abs/2602.11978) · [PDF](https://arxiv.org/pdf/2602.11978) |
 | 2026-02-11 | Human Preference Modeling Using Visual Motion Prediction Improves Robot Skill Learning from Egocentric Human Video | Mrinal Verghese, Christopher G. Atkeson | [Abstract](https://arxiv.org/abs/2602.11393) · [PDF](https://arxiv.org/pdf/2602.11393) |
 | 2026-02-09 | TwinRL: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation | Qinwen Xu, Jiaming Liu, Rui Zhou, Shaojun Shi et al. | [Abstract](https://arxiv.org/abs/2602.09023) · [PDF](https://arxiv.org/pdf/2602.09023) |
-| 2026-02-09 | Combined Constrained Sampling and Reinforcement Learning for Robotic Manipulation | Marc Toussaint, Cornelius V. Braun, Armand Jordana, Sayantan Auddy et al. | [Abstract](https://arxiv.org/abs/2602.08557) · [PDF](https://arxiv.org/pdf/2602.08557) |
+| 2026-02-09 | Combining Constrained Sampling and Reinforcement Learning for Manipulation | Marc Toussaint, Cornelius V. Braun, Armand Jordana, Sayantan Auddy et al. | [Abstract](https://arxiv.org/abs/2602.08557) · [PDF](https://arxiv.org/pdf/2602.08557) |
 | 2026-02-04 | ReFORM: Reflected Flows for On-support Offline RL via Noise Manipulation | Songyuan Zhang, Oswin So, H. M. Sabbir Ahmad, Eric Yang Yu et al. | [Abstract](https://arxiv.org/abs/2602.05051) · [PDF](https://arxiv.org/pdf/2602.05051) |
 | 2026-02-03 | AffordanceGrasp-R1:Leveraging Reasoning-Based Affordance Segmentation with Reinforcement Learning for Robotic Grasping | Dingyi Zhou, Mu He, Zhuowei Fang, Xiangtong Yao et al. | [Abstract](https://arxiv.org/abs/2602.03547) · [PDF](https://arxiv.org/pdf/2602.03547) |
 | 2026-02-02 | RFS: Reinforcement Learning with Residual Flow Steering for Dexterous Manipulation | Entong Su, Tyler Westenbroek, Anusha Nagabandi, Abhishek Gupta | [Abstract](https://arxiv.org/abs/2602.01789) · [PDF](https://arxiv.org/pdf/2602.01789) |
@@ -421,10 +434,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-14 | Deep Reinforcement Learning for 2D Physics-Based Object Manipulation in Clutter | Luca Renna | [Abstract](https://arxiv.org/abs/2312.04570) · [PDF](https://arxiv.org/pdf/2312.04570) |
 | 2023-11-07 | Estimator-Coupled Reinforcement Learning for Robust Purely Tactile In-Hand Manipulation | Lennart Röstel, Johannes Pitz, Leon Sievers, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2311.04060) · [PDF](https://arxiv.org/pdf/2311.04060) |
 | 2023-11-02 | Conformal Policy Learning for Sensorimotor Control Under Distribution Shifts | Huang Huang, Satvik Sharma, Antonio Loquercio, Anastasios Angelopoulos et al. | [Abstract](https://arxiv.org/abs/2311.01457) · [PDF](https://arxiv.org/pdf/2311.01457) |
-| 2023-11-01 | Learning to Design and Use Tools for Robotic Manipulation | Ziang Liu, Stephen Tian, Michelle Guo, C. Karen Liu et al. | [Abstract](https://arxiv.org/abs/2311.00754) · [PDF](https://arxiv.org/pdf/2311.00754) |
-| 2023-10-27 | Guided Data Augmentation for Offline Reinforcement Learning and Imitation Learning | Nicholas E. Corrado, Yuxiao Qu, John U. Balis, Adam Labiosa et al. | [Abstract](https://arxiv.org/abs/2310.18247) · [PDF](https://arxiv.org/pdf/2310.18247) |
-| 2023-10-23 | Robot Skill Generalization via Keypoint Integrated Soft Actor-Critic Gaussian Mixture Models | Iman Nematollahi, Kirill Yankov, Wolfram Burgard, Tim Welschehold | [Abstract](https://arxiv.org/abs/2310.15059) · [PDF](https://arxiv.org/pdf/2310.15059) |
-| 2023-10-23 | Enhancing Robotic Manipulation: Harnessing the Power of Multi-Task Reinforcement Learning and Single Life Reinforcement Learning in Meta-World | Ghadi Nehme, Ishan Sabane, Tejas Y. Deo | [Abstract](https://arxiv.org/abs/2311.12854) · [PDF](https://arxiv.org/pdf/2311.12854) |
 
 ---
 

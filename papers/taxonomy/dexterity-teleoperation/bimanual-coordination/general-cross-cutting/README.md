@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Bimanual%20Coordination&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 17 conference papers · 61 recent arXiv papers
+> 17 conference papers · 66 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -36,10 +36,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Simulation-Assisted Learning for Efficient Bin-Packing of Deformable Packages in a Bimanual Robotic Cell | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS58592.2024.10802246) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802246) |
 | 2022 | Learning Bimanual Scooping Policies for Food Acquisition | CoRL · Bimanual | [Paper](https://arxiv.org/abs/2211.14652) · [Publisher](https://doi.org/10.48550/arXiv.2211.14652) |
 
-## Recent arXiv papers (61)
+## Recent arXiv papers (66)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-29 | UMI-Live for In-The-Wild Bimanual Robotics Data Collection | Govind Velamoor, Adrian Lin, Sam Jung, Spencer Mateega et al. | [Abstract](https://arxiv.org/abs/2610.39385) · [PDF](https://arxiv.org/pdf/2610.39385) |
+| 2026-10-27 | RoboSTD: Zero-Shot Single-to-Dual Transfer via Sagittal Mirroring for Bimanual Learning | Hongyu Wu, Chong Liu, Shaoxuan Xie, Shaqi Luo et al. | [Abstract](https://arxiv.org/abs/2610.36685) · [PDF](https://arxiv.org/pdf/2610.36685) |
+| 2026-10-27 | Keeping Contact: Task-Adaptive Friction Margins for Bimanual Non-Prehensile Manipulation | Qian Ying Lee, Lin Yang, Domenico Campolo | [Abstract](https://arxiv.org/abs/2610.36961) · [PDF](https://arxiv.org/pdf/2610.36961) |
+| 2026-10-24 | Learning Functional Specialisation for Bimanual Robotic Control | Jingwen Li, Levin Kuhlmann, Jason Friedman, Gideon Kowadlo | [Abstract](https://arxiv.org/abs/2610.33947) · [PDF](https://arxiv.org/pdf/2610.33947) |
+| 2026-10-21 | Reconstruction-Augmented Visuomotor Pre-Training of 3D-Grounded Bimanual Dexterity from RGB-Only Human Videos | Xingyi He, Zhiwen Qiu, Adhitya Polavaram, Yunhao Cao et al. | [Abstract](https://arxiv.org/abs/2610.29716) · [PDF](https://arxiv.org/pdf/2610.29716) |
+| 2026-10-16 | Multimodal Interaction Estimation for Contact-Aware Adaptive Impedance Control | Mateusz Jaszczuk, Paris Perdikaris, Nadia Figueroa | [Abstract](https://arxiv.org/abs/2610.24235) · [PDF](https://arxiv.org/pdf/2610.24235) |
 | 2026-10-12 | Human-Like Redundancy Resolution for Real-Time Bimanual Humanoid Teleoperation | Chao Tan, Ming Shin Cindy Sung, Shuxian Liang, Chaoqun Wan et al. | [Abstract](https://arxiv.org/abs/2610.16855) · [PDF](https://arxiv.org/pdf/2610.16855) |
 | 2026-10-08 | RoboAware: Learning to Coordinate Embodied Skills from Counterfactual Outcomes | Bohan Zhou, Xingbei Chen, Emily Huang, Weilin Ruan et al. | [Abstract](https://arxiv.org/abs/2610.11480) · [PDF](https://arxiv.org/pdf/2610.11480) |
 | 2026-10-07 | Q-Learning with Scalar Adjoint Matching | Yonghoon Dong, Minsung Yoon, Jaehyuk Kim, Jungwoo Park et al. | [Abstract](https://arxiv.org/abs/2610.10437) · [PDF](https://arxiv.org/pdf/2610.10437) |
@@ -100,7 +106,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-01-13 | A metric for characterizing the arm nonuse workspace in poststroke individuals using a robot arm | Nathaniel Dennler, Amelia Cain, Erica De Guzman, Claudia Chiu et al. | [Abstract](https://arxiv.org/abs/2401.06974) · [PDF](https://arxiv.org/pdf/2401.06974) |
 | 2024-01-04 | Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation | Zipeng Fu, Tony Z. Zhao, Chelsea Finn | [Abstract](https://arxiv.org/abs/2401.02117) · [PDF](https://arxiv.org/pdf/2401.02117) |
 | 2023-12-11 | HoLLiE C -- A Multifunctional Bimanual Mobile Robot Supporting Versatile Care Applications | Lea Steffen, Martin Schulze, Christian Eichmann, Robin Koch et al. | [Abstract](https://arxiv.org/abs/2312.06292) · [PDF](https://arxiv.org/pdf/2312.06292) |
-| 2023-10-25 | Certifying Bimanual RRT Motion Plans in a Second | Alexandre Amice, Peter Werner, Russ Tedrake | [Abstract](https://arxiv.org/abs/2310.16603) · [PDF](https://arxiv.org/pdf/2310.16603) |
 
 ---
 

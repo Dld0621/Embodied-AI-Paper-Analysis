@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Mapping%20%26%20Localization&specialty=Semantic%2C%20Metric%20%26%20Neural%20Maps#research-workbench)
 
-> 13 conference papers · 61 recent arXiv papers
+> 13 conference papers · 60 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -32,7 +32,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Robust Fusion for Bayesian Semantic Mapping | IROS · Semantic Mapping | [Paper](https://arxiv.org/pdf/2303.07836) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342253) |
 | 2022 | Robust Semantic Mapping and Localization on a Free-Flying Robot in Microgravity | ICRA · Semantic Mapping | [Paper](https://doi.org/10.1109/icra46639.2022.9811862) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811862) |
 
-## Recent arXiv papers (61)
+## Recent arXiv papers (60)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -96,7 +96,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-01-16 | Object-Oriented Semantic Mapping for Reliable UAVs Navigation | Thanh Nguyen Canh, Armagan Elibol, Nak Young Chong, Xiem HoangVan | [Abstract](https://arxiv.org/abs/2401.08132) · [PDF](https://arxiv.org/pdf/2401.08132) |
 | 2023-11-27 | A Survey on Monocular Re-Localization: From the Perspective of Scene Map Representation | Jinyu Miao, Kun Jiang, Tuopu Wen, Yunlong Wang et al. | [Abstract](https://arxiv.org/abs/2311.15643) · [PDF](https://arxiv.org/pdf/2311.15643) |
 | 2023-11-07 | Interactive Semantic Map Representation for Skill-based Visual Object Navigation | Tatiana Zemskova, Aleksei Staroverov, Kirill Muravyev, Dmitry Yudin et al. | [Abstract](https://arxiv.org/abs/2311.04107) · [PDF](https://arxiv.org/pdf/2311.04107) |
-| 2023-10-21 | FHT-Map: Feature-based Hierarchical Topological Map for Relocalization and Path Planning | Kun Song, Wenhang Liu, Gaoming Chen, Xiang Xu et al. | [Abstract](https://arxiv.org/abs/2310.13899) · [PDF](https://arxiv.org/pdf/2310.13899) |
 
 ---
 

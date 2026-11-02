@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Exploration%20%26%20Active%20Mapping&specialty=Search%2C%20Inspection%20%26%20Discovery#research-workbench)
 
-> 16 conference papers · 75 recent arXiv papers
+> 16 conference papers · 76 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -35,10 +35,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Semantics-aware Exploration and Inspection Path Planning | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2303.07236) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160469) |
 | 2022 | Ω2: Optimal Hierarchical Planner for Object Search in Large Environments via Mobile Manipulation | IROS · Mobile Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981194) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981194) |
 
-## Recent arXiv papers (75)
+## Recent arXiv papers (76)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | SAFARI: Semantic- And Frontier-driven Autonomous Risk Inspection | Ugur Kafkasyali, Mihnea Toader, Julia Richter, Turcan Tuna et al. | [Abstract](https://arxiv.org/abs/2610.41456) · [PDF](https://arxiv.org/pdf/2610.41456) |
 | 2026-10-07 | RoboQuest: Generalist Physical Agents that Search, Inspect and Test | Liu Renhang, Navonil Majumder, Tej Deep Pala, Soujanya Poria | [Abstract](https://arxiv.org/abs/2610.10388) · [PDF](https://arxiv.org/pdf/2610.10388) |
 | 2026-09-18 | Active Spatial Inspection for Effective and Efficient Embodied Exploration | Wenbin Wang, Xiang Bai, Yizhao Wang, Hang Sun et al. | [Abstract](https://arxiv.org/abs/2609.22385) · [PDF](https://arxiv.org/pdf/2609.22385) |
 | 2026-09-16 | Pose-aware Legged Robot Semantic Exploration with Omnidirectional Perception in Confined Unknown Environments | Xiaoyang Zhan, Shiyu Chen, Kenji Shimada | [Abstract](https://arxiv.org/abs/2609.19460) · [PDF](https://arxiv.org/pdf/2609.19460) |
@@ -56,7 +57,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-10 | Caterpillar-Inspired Spring-Based Compressive Continuum Robot for Bristle-based Exploration | Zhixian Hu, Yu She, Juan Wachs | [Abstract](https://arxiv.org/abs/2603.09745) · [PDF](https://arxiv.org/pdf/2603.09745) |
 | 2026-03-04 | OmniPlanner: Universal Exploration and Inspection Path Planning Across Robot Morphologies | Angelos Zacharia, Mihir Dharmadhikari, Mohit Singh, Kostas Alexis | [Abstract](https://arxiv.org/abs/2603.04284) · [PDF](https://arxiv.org/pdf/2603.04284) |
 | 2026-02-25 | Enhancing Cellular-enabled Collaborative Robots Planning through GNSS data for SAR Scenarios | Arnau Romero, Carmen Delgado, Jana Baguer, Raúl Suárez et al. | [Abstract](https://arxiv.org/abs/2602.21899) · [PDF](https://arxiv.org/pdf/2602.21899) |
-| 2026-02-22 | WildOS: Open-Vocabulary Object Search in the Wild | Hardik Shah, Erica Tevere, Deegan Atha, Marcel Kaufmann et al. | [Abstract](https://arxiv.org/abs/2602.19308) · [PDF](https://arxiv.org/pdf/2602.19308) |
+| 2026-02-22 | WildOS: Open-Vocabulary Object Search in the Wild | Hardik Shah, Manthan Patel, Erica Tevere, Deegan Atha et al. | [Abstract](https://arxiv.org/abs/2602.19308) · [PDF](https://arxiv.org/pdf/2602.19308) |
 | 2026-02-12 | RF-Modulated Adaptive Communication Improves Multi-Agent Robotic Exploration | Lorin Achey, Breanne Crockett, Christoffer Heckman, Bradley Hayes | [Abstract](https://arxiv.org/abs/2602.12074) · [PDF](https://arxiv.org/pdf/2602.12074) |
 | 2026-02-12 | Effective Task Planning with Missing Objects using Learning-Informed Object Search | Raihan Islam Arnob, Max Merlin, Abhishek Paudel, Benned Hedegaard et al. | [Abstract](https://arxiv.org/abs/2602.11468) · [PDF](https://arxiv.org/pdf/2602.11468) |
 | 2026-02-12 | Counterfactual Conditional Likelihood Rewards for Multiagent Exploration | Ayhan Alp Aydeniz, Robert Loftin, Kagan Tumer | [Abstract](https://arxiv.org/abs/2602.11740) · [PDF](https://arxiv.org/pdf/2602.11740) |

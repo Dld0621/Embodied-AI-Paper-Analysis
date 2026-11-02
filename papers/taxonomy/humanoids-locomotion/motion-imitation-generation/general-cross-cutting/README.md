@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Motion%20Imitation%20%26%20Generation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 1 conference papers · 31 recent arXiv papers
+> 1 conference papers · 33 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | LocoVR: Multiuser Indoor Locomotion Dataset in Virtual Reality | ICLR · Locomotion | [Paper](https://arxiv.org/abs/2410.06437) · [Publisher](https://doi.org/10.48550/arXiv.2410.06437) |
 
-## Recent arXiv papers (31)
+## Recent arXiv papers (33)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-22 | Calibration-free IMU-based Relative Orientation Estimation under Dynamic Human Motion | Ruiyuan Li, Hassan Osman, Ajay Seth, Manon Kok | [Abstract](https://arxiv.org/abs/2610.31156) · [PDF](https://arxiv.org/pdf/2610.31156) |
+| 2026-10-19 | InteractAgent: Agentic Human Motion Interaction with Memory-Augmented Reflection | Senhe Zhang, Tao Zhang, Yujia Zhang, Zeyu Zhang et al. | [Abstract](https://arxiv.org/abs/2610.25649) · [PDF](https://arxiv.org/pdf/2610.25649) |
 | 2026-10-07 | HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion | Mike Zhang, Dongho Kang, Kevin Bergamin, Nicola Burger et al. | [Abstract](https://arxiv.org/abs/2610.10489) · [PDF](https://arxiv.org/pdf/2610.10489) |
 | 2026-09-30 | DiFF: Doppler-informed Flow Matching for Human Motion Flow | Kai Wang, Mingle Zhao | [Abstract](https://arxiv.org/abs/2609.39098) · [PDF](https://arxiv.org/pdf/2609.39098) |
 | 2026-09-29 | Comparing Utility of Inertial, Occupancy, Semantic, and Intent Information in Human Motion Prediction During Daily Tasks | Max Burns, Maisha Khanum, Monroe Kennedy, Steven H. Collins | [Abstract](https://arxiv.org/abs/2609.37971) · [PDF](https://arxiv.org/pdf/2609.37971) |

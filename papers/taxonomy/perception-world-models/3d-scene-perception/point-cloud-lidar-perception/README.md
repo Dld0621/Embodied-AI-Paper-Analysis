@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=Point-cloud%20%26%20LiDAR%20Perception#research-workbench)
 
-> 4 conference papers · 345 recent arXiv papers
+> 4 conference papers · 348 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,10 +23,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning | ICRA · Scene Graph | [Paper](https://arxiv.org/pdf/2309.08914) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610206) |
 | 2023 | Open-Vocabulary Affordance Detection in 3D Point Clouds | IROS · Affordance | [Paper](https://arxiv.org/pdf/2303.02401) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341553) |
 
-## Recent arXiv papers (345)
+## Recent arXiv papers (348)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-29 | Fundamental Limits of Sampling-Based Reachability: Geometry and Flow Distortion | Jixian Liu, Ihab Tabbara, Hussein Sibai, Enrique Mallada | [Abstract](https://arxiv.org/abs/2610.40473) · [PDF](https://arxiv.org/pdf/2610.40473) |
+| 2026-10-27 | A Singularity Avoiding Track Model for Race Car Optimization | Adwait Verulkar, Behzad Danaei, Srikanth Sivaramakrishnan, Ryan Trinter | [Abstract](https://arxiv.org/abs/2610.36430) · [PDF](https://arxiv.org/pdf/2610.36430) |
+| 2026-10-25 | T-ConSG: A LiDAR-Based Real-Time Temporal Construction Scene Graph for Dynamic and Evolving Environments | Yilong Chen, Yong K. Cho | [Abstract](https://arxiv.org/abs/2610.34041) · [PDF](https://arxiv.org/pdf/2610.34041) |
+| 2026-10-25 | Robust Single-Parameter Point Cloud Registration using Truncated Lp Functions | Seong Hun Lee, Patrick Vandewalle, Javier Civera | [Abstract](https://arxiv.org/abs/2610.34271) · [PDF](https://arxiv.org/pdf/2610.34271) |
+| 2026-10-19 | On Maximum Clique and Maximum Consensus Formulations in Point Cloud Registration | Abolfazl Babanazari, Kaveh Fathian | [Abstract](https://arxiv.org/abs/2610.27275) · [PDF](https://arxiv.org/pdf/2610.27275) |
 | 2026-10-01 | SonarVoxNet: Diver Detection in 3D Bounding Box using 3D Sonar | Eugene Park, Jiwon Lee, Seyoung Kan, Trung Dong et al. | [Abstract](https://arxiv.org/abs/2610.01644) · [PDF](https://arxiv.org/pdf/2610.01644) |
 | 2026-09-24 | TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations | Ayush Jain, Sreeharsha Paruchuri, Ishita Gupta, Fan Zhang et al. | [Abstract](https://arxiv.org/abs/2609.30222) · [PDF](https://arxiv.org/pdf/2609.30222) |
 | 2026-09-22 | Unsigned Distance Maps on 2D Point Cloud Registration | Ricardo B. Sousa, Giorgio Grisetti, Héber Miguel Sobreira, Carlos André Silva et al. | [Abstract](https://arxiv.org/abs/2609.25932) · [PDF](https://arxiv.org/pdf/2609.25932) |
@@ -370,8 +375,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-05 | Fast Point Cloud to Mesh Reconstruction for Deformable Object Tracking | Elham Amin Mansour, Hehui Zheng, Robert K. Katzschmann | [Abstract](https://arxiv.org/abs/2311.02749) · [PDF](https://arxiv.org/pdf/2311.02749) |
 | 2023-11-03 | Towards Unsupervised Object Detection From LiDAR Point Clouds | Lunjun Zhang, Anqi Joyce Yang, Yuwen Xiong, Sergio Casas et al. | [Abstract](https://arxiv.org/abs/2311.02007) · [PDF](https://arxiv.org/pdf/2311.02007) |
 | 2023-11-02 | LabelFormer: Object Trajectory Refinement for Offboard Perception from LiDAR Point Clouds | Anqi Joyce Yang, Sergio Casas, Nikita Dvornik, Sean Segal et al. | [Abstract](https://arxiv.org/abs/2311.01444) · [PDF](https://arxiv.org/pdf/2311.01444) |
-| 2023-10-25 | EdgeCalib: Multi-Frame Weighted Edge Features for Automatic Targetless LiDAR-Camera Calibration | Xingchen Li, Yifan Duan, Beibei Wang, Haojie Ren et al. | [Abstract](https://arxiv.org/abs/2310.16629) · [PDF](https://arxiv.org/pdf/2310.16629) |
-| 2023-10-23 | Converting Depth Images and Point Clouds for Feature-based Pose Estimation | Robert Lösch, Mark Sastuba, Jonas Toth, Bernhard Jung | [Abstract](https://arxiv.org/abs/2310.14924) · [PDF](https://arxiv.org/pdf/2310.14924) |
 
 ---
 

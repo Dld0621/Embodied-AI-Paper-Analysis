@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Motion%20%26%20Path%20Planning&specialty=Local%20Planning%20%26%20Obstacle%20Avoidance#research-workbench)
 
-> 50 conference papers · 378 recent arXiv papers
+> 50 conference papers · 382 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -69,11 +69,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | CoMBiNED: Multi-Constrained Model Based Planning for Navigation in Dynamic Environments | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981479) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981479) |
 | 2022 | Reactive Neural Path Planning with Dynamic Obstacle Avoidance in a Condensed Configuration Space | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2207.03959) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981453) |
 
-## Recent arXiv papers (378)
+## Recent arXiv papers (382)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | Contact-based optimization for collision-free motion planning for a million robots | Jan Kamm, Antonio Terpin, Raffaello D'Andrea | [Abstract](https://arxiv.org/abs/2610.41548) · [PDF](https://arxiv.org/pdf/2610.41548) |
+| 2026-10-30 | A complete analytical characterization of optimal collision-free motion for two robots | Jan Kamm, Antonio Terpin, Raffaello D'Andrea | [Abstract](https://arxiv.org/abs/2610.41558) · [PDF](https://arxiv.org/pdf/2610.41558) |
+| 2026-10-29 | Decision-Level Error Attribution and Depth-Aware Safety Evaluation of Monocular RGB Human Tracking for Autonomous Robot Navigation | Abdulahi Taiwo, Chijioke Cyriacus Ekechi | [Abstract](https://arxiv.org/abs/2610.40199) · [PDF](https://arxiv.org/pdf/2610.40199) |
+| 2026-10-27 | Rendering-Free Event Frame Simulation for Fast Reinforcement Learning of Autonomous Robot Navigation | Dequan Ou, Austin Lopez, Quentin Missinne, Christophe De Wagter et al. | [Abstract](https://arxiv.org/abs/2610.37543) · [PDF](https://arxiv.org/pdf/2610.37543) |
+| 2026-10-24 | SCET-CBF: Speed-Calibrated Soft Guidance for One-Step Dynamic Navigation | Xiaoyu Han, Dongkun Han | [Abstract](https://arxiv.org/abs/2610.33471) · [PDF](https://arxiv.org/pdf/2610.33471) |
+| 2026-10-23 | Neuromorphic Decision Dynamics for Deadlock-free Safe Navigation in Congested Environments | Himani Sinhmar, Vaibhav Srivastava, Naomi Ehrich Leonard | [Abstract](https://arxiv.org/abs/2610.33271) · [PDF](https://arxiv.org/pdf/2610.33271) |
+| 2026-10-23 | HGWM: Hierarchical Graph-Guided World Model for Zero-Shot Object Navigation via Graph Matching | I-Tak Ieong, Hao Tang | [Abstract](https://arxiv.org/abs/2610.32554) · [PDF](https://arxiv.org/pdf/2610.32554) |
+| 2026-10-21 | State-Dependent Objective Coordination for End-to-End Balance and Navigation | Xuhao Huang, Xitao Xu, Yuxin Zheng, Yunfan Ren et al. | [Abstract](https://arxiv.org/abs/2610.29142) · [PDF](https://arxiv.org/pdf/2610.29142) |
+| 2026-10-20 | Navigation Explainability for Object Avoidance with LLMs for Assistive Robots | Courtney Young, Yi Lian, Taery Kim, Sehoon Ha | [Abstract](https://arxiv.org/abs/2610.28920) · [PDF](https://arxiv.org/pdf/2610.28920) |
 | 2026-10-16 | TransNav: Transformer-Based End-to-End Navigation Method for Static and Dynamic Quadrotor Obstacle Avoidance | Jianghan Zhu, Zhuo Li, Yanjun Zhang, Jian Sun | [Abstract](https://arxiv.org/abs/2610.23635) · [PDF](https://arxiv.org/pdf/2610.23635) |
+| 2026-10-16 | TrajEdit: Real-Time Flow-Matching Trajectory Adaptation via FlowEdit and CBF Safety Filter | Wondmgezahu Teshome, Arya Honarpisheh, Octavia Camps, Mario Sznaier | [Abstract](https://arxiv.org/abs/2610.24256) · [PDF](https://arxiv.org/pdf/2610.24256) |
 | 2026-10-15 | From Optical Flow to Safety: Visual Safety Certification via Scale-Free Relative Motion | Bazeela Banday, Jishnu Keshavan | [Abstract](https://arxiv.org/abs/2610.21374) · [PDF](https://arxiv.org/pdf/2610.21374) |
 | 2026-10-13 | CoSMO: Conformal Semantic Mapping for Open-World Safe Robot Navigation | Shuqi Wang, Yiwei Zheng, Pingrui Zhang, Yue Gao et al. | [Abstract](https://arxiv.org/abs/2610.18321) · [PDF](https://arxiv.org/pdf/2610.18321) |
 | 2026-10-12 | Learning Reachability-Based Safety Representations for Real-Time Robot Navigation in Unknown and Dynamic Environments | Bojan Derajić | [Abstract](https://arxiv.org/abs/2610.16522) · [PDF](https://arxiv.org/pdf/2610.16522) |
@@ -445,12 +455,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-06 | Reinforcement Learning for Safety Testing: Lessons from A Mobile Robot Case Study | Tom P. Huck, Martin Kaiser, Constantin Cronrath, Bengt Lennartson et al. | [Abstract](https://arxiv.org/abs/2311.02907) · [PDF](https://arxiv.org/pdf/2311.02907) |
 | 2023-11-06 | Enabling In-Situ Resources Utilisation by leveraging collaborative robotics and astronaut-robot interaction | Silvia Romero-Azpitarte, Cristina Luna, Alba Guerra, Mercedes Alonso et al. | [Abstract](https://arxiv.org/abs/2311.03146) · [PDF](https://arxiv.org/pdf/2311.03146) |
 | 2023-11-06 | Collision Avoidance using Iterative Dynamic and Nonlinear Programming with Adaptive Grid Refinements | Rebecca Richter, Alberto De Marchi, Matthias Gerdts | [Abstract](https://arxiv.org/abs/2311.03148) · [PDF](https://arxiv.org/pdf/2311.03148) |
-| 2023-11-01 | Constant-time Motion Planning with Anytime Refinement for Manipulation | Itamar Mishani, Hayden Feddock, Maxim Likhachev | [Abstract](https://arxiv.org/abs/2311.00837) · [PDF](https://arxiv.org/pdf/2311.00837) |
-| 2023-10-31 | Safe multi-agent motion planning under uncertainty for drones using filtered reinforcement learning | Sleiman Safaoui, Abraham P. Vinod, Ankush Chakrabarty, Rien Quirynen et al. | [Abstract](https://arxiv.org/abs/2311.00063) · [PDF](https://arxiv.org/pdf/2311.00063) |
-| 2023-10-26 | Radar-Only Off-Road Local Navigation | Timothy Overbye, Srikanth Saripalli | [Abstract](https://arxiv.org/abs/2310.17620) · [PDF](https://arxiv.org/pdf/2310.17620) |
-| 2023-10-20 | PathRL: An End-to-End Path Generation Method for Collision Avoidance via Deep Reinforcement Learning | Wenhao Yu, Jie Peng, Quecheng Qiu, Hanyu Wang et al. | [Abstract](https://arxiv.org/abs/2310.13295) · [PDF](https://arxiv.org/pdf/2310.13295) |
-| 2023-10-19 | Local Non-Cooperative Games with Principled Player Selection for Scalable Motion Planning | Makram Chahine, Roya Firoozi, Wei Xiao, Mac Schwager et al. | [Abstract](https://arxiv.org/abs/2310.12958) · [PDF](https://arxiv.org/pdf/2310.12958) |
-| 2023-10-19 | Denoising Heat-inspired Diffusion with Insulators for Collision Free Motion Planning | Junwoo Chang, Hyunwoo Ryu, Jiwoo Kim, Soochul Yoo et al. | [Abstract](https://arxiv.org/abs/2310.12609) · [PDF](https://arxiv.org/pdf/2310.12609) |
 
 ---
 

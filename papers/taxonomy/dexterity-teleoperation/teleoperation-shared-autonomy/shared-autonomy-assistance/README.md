@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Learning End-to-End Dexterous Arm-Hand VLA Policies with Shared Autonomy: DexGrasp AI Copilot for Efficient Teleoperation | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697534) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697534) |
+| 2026 | Learning End-to-End Dexterous Arm-Hand VLA Policies with Shared Autonomy: DexGrasp AI Copilot for Efficient Teleoperation | ICRA · Dexterous | [Paper](https://discovery.ucl.ac.uk/id/eprint/10232454/1/DexVLA___ICRA_2026%20submission%20version.pdf) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697534) |
 | 2025 | Sampling-Based Grasp and Collision Prediction for Assisted Teleoperation | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2504.18186) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128199) |
 | 2025 | HACTS: a Human-As-Copilot Teleoperation System for Robot Learning | IROS · Teleoperation | [Paper](https://arxiv.org/pdf/2503.24070) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247309) |
 | 2025 | Landmark-Based Goal Recognition for Shared Autonomy: A Framework for Enhanced Teleoperation | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS60139.2025.11245815) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245815) |

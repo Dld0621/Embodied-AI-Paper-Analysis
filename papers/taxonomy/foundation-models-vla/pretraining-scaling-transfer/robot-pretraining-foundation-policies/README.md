@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Pretraining%2C%20Scaling%20%26%20Transfer&specialty=Robot%20Pretraining%20%26%20Foundation%20Policies#research-workbench)
 
-> 6 conference papers · 86 recent arXiv papers
+> 6 conference papers · 88 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,10 +25,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Octo: An Open-Source Generalist Robot Policy | RSS · Generalist robot policy | [Paper](https://arxiv.org/abs/2405.12213) · [Official](https://doi.org/10.15607/RSS.2024.XX.090) · [Code](https://github.com/octo-models/octo) |
 | 2023 | RT-1: Robotics Transformer for Real-World Control at Scale | RSS · Generalist robot policy | [Paper](https://arxiv.org/abs/2212.06817) · [Official](https://roboticsproceedings.org/rss19/p025.html) |
 
-## Recent arXiv papers (86)
+## Recent arXiv papers (88)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-29 | Confidence-Modulated Safety Filtering for End-to-End Policies | Javier Borquez, Jaime F. Fisac | [Abstract](https://arxiv.org/abs/2610.40922) · [PDF](https://arxiv.org/pdf/2610.40922) |
+| 2026-10-26 | RoboDoctor: Training-Free Recursive Self-Improvement for Robot Policies | Heyang Yu, Haomin Li, Sihang Li, Jixin Yan et al. | [Abstract](https://arxiv.org/abs/2610.35604) · [PDF](https://arxiv.org/pdf/2610.35604) |
 | 2026-10-16 | Sample-Efficient Reinforcement Learning for Policy Improvement via Flow-Reversed Action Anchors | Carl Qi, Weijun Dong, Xiaojie Wang, Peiyi Chen et al. | [Abstract](https://arxiv.org/abs/2610.22852) · [PDF](https://arxiv.org/pdf/2610.22852) |
 | 2026-10-14 | Multi-Dimensional Featurizers Yield Fine-Grained Steering and Data Shaping in Robot Foundation Models | Aiden Swann, Mozes Jacobs, Mathilde Papillon, Siddharth Boppana et al. | [Abstract](https://arxiv.org/abs/2610.20767) · [PDF](https://arxiv.org/pdf/2610.20767) |
 | 2026-10-14 | Causal Analysis of Robot Foundation Models Enables Efficiency Gains | Aiden Swann, Mathilde Papillon, Mozes Jacobs, Siddharth Boppana et al. | [Abstract](https://arxiv.org/abs/2610.20750) · [PDF](https://arxiv.org/pdf/2610.20750) |
@@ -57,7 +59,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-08-24 | Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency | Brian Zhu, Momen Khalil, E Harrison, Emanuele Poggi et al. | [Abstract](https://arxiv.org/abs/2608.23831) · [PDF](https://arxiv.org/pdf/2608.23831) |
 | 2026-08-19 | The Embodiment Gap in Robot Foundation Models | Yukiyasu Domae, Keisuke Shirai, Hanbit Oh, Ryoichi Nakajo et al. | [Abstract](https://arxiv.org/abs/2608.18433) · [PDF](https://arxiv.org/pdf/2608.18433) |
 | 2026-08-17 | $τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation | Xiaowei Cai, Yunuo Cai, Bingao Chen, Jingxiao Chen et al. | [Abstract](https://arxiv.org/abs/2608.16885) · [PDF](https://arxiv.org/pdf/2608.16885) |
-| 2026-08-11 | Adaptation of Generalist Robot Policies with Minimal Data | Shreyas Kowshik, Sreyas Venkataraman, Leo Wang, Niharika Pant et al. | [Abstract](https://arxiv.org/abs/2608.11363) · [PDF](https://arxiv.org/pdf/2608.11363) |
+| 2026-08-11 | What Does It Take For A Generalist Robot Policy To Adapt Using Minimal Data? | Shreyas Kowshik, Sreyas Venkataraman, Leo Wang, Niharika Pant et al. | [Abstract](https://arxiv.org/abs/2608.11363) · [PDF](https://arxiv.org/pdf/2608.11363) |
 | 2026-08-10 | RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance | Dongchi Huang, Hongyin Zhang, Bohan Hou, Siteng Huang et al. | [Abstract](https://arxiv.org/abs/2608.09853) · [PDF](https://arxiv.org/pdf/2608.09853) |
 | 2026-08-04 | ETA: A New Agentic Paradigm for Embodied Tasks | Yitong Chen, Zezheng Huai, Sixian Li, Yubang Wang et al. | [Abstract](https://arxiv.org/abs/2608.03924) · [PDF](https://arxiv.org/pdf/2608.03924) |
 | 2026-08-01 | Push-Wiper: Toward General-Purpose Robotic Cleaning across Varied Stains and Surfaces with Segmented Pushing Trajectories | Renhao Lu, Mingxin Wang, Chenyang Cao, Yang Yang et al. | [Abstract](https://arxiv.org/abs/2608.00730) · [PDF](https://arxiv.org/pdf/2608.00730) |

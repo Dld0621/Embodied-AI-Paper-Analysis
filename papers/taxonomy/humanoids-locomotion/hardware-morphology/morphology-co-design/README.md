@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Hardware%20%26%20Morphology&specialty=Morphology%20%26%20Co-design#research-workbench)
 
-> 3 conference papers · 34 recent arXiv papers
+> 3 conference papers · 36 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -22,10 +22,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | From CAD to URDF: Co-Design of a Jet-Powered Humanoid Robot Including CAD Geometry | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2410.07963) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802023) |
 | 2023 | SoftZoo: A Soft Robot Co-design Benchmark For Locomotion In Diverse Environments | ICLR · Locomotion | [Paper](https://arxiv.org/abs/2303.09555) · [Publisher](https://doi.org/10.48550/arXiv.2303.09555) |
 
-## Recent arXiv papers (34)
+## Recent arXiv papers (36)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-27 | A Bi-level Co-design Framework for Lunar Monoped with 2D Jump and Landing Control | Sanjay Ramkumar, Suraj Kumar | [Abstract](https://arxiv.org/abs/2610.37199) · [PDF](https://arxiv.org/pdf/2610.37199) |
+| 2026-10-21 | Make it Walk: Computational Design of LEGO Walkers | Siqi Li, Fancheng Gao, Chi-Wing Fu, Peng Song | [Abstract](https://arxiv.org/abs/2610.29505) · [PDF](https://arxiv.org/pdf/2610.29505) |
 | 2026-10-07 | LACE-CRAFT: Robot Co-Design with Actor Inheritance and Blackboard Collaboration | Yuhan Wen, Jiawei Wang, Qixuan Zhang, Calvin Zhang et al. | [Abstract](https://arxiv.org/abs/2610.09283) · [PDF](https://arxiv.org/pdf/2610.09283) |
 | 2026-10-06 | Beyond Task Reward: A Controller-Restriction Protocol for Evaluating Embodiment-Dependent Competence | Siyuan Zhang | [Abstract](https://arxiv.org/abs/2610.07629) · [PDF](https://arxiv.org/pdf/2610.07629) |
 | 2026-09-30 | Video2SwimFish: An Automated Pipeline for Reconstructing Controllable Fish Models and Biological Locomotion from Real Fish Videos | Hangong Chen, Linfeng Cheng, Tahsin Zaman Jilan, Ian Fuller et al. | [Abstract](https://arxiv.org/abs/2609.38966) · [PDF](https://arxiv.org/pdf/2609.38966) |

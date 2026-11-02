@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Multimodal%20Grounding&specialty=Vision-Language%20Grounding#research-workbench)
 
-> 99 conference papers · 657 recent arXiv papers
+> 99 conference papers · 679 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -118,11 +118,33 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models | RSS · Language Model | [Paper](https://arxiv.org/abs/2211.11736) · [Publisher](https://doi.org/10.48550/arXiv.2211.11736) |
 | 2022 | Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models | CoRL · Language Model | [Paper](https://arxiv.org/pdf/2207.11514) · [Publisher](https://doi.org/10.48550/arXiv.2207.11514) |
 
-## Recent arXiv papers (657)
+## Recent arXiv papers (679)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-29 | Surrogate Uncertainty for Black-box Visual Grounding | Hanbo Zhang, Tianrun Hu, Cedar Site Bai, Anxing Xiao et al. | [Abstract](https://arxiv.org/abs/2610.39798) · [PDF](https://arxiv.org/pdf/2610.39798) |
+| 2026-10-29 | STAR: Steering Action Representations during Inference | Guangyu Zhao, Yongchang Zhang, Haoxuan Ru, Kaichen He et al. | [Abstract](https://arxiv.org/abs/2610.41009) · [PDF](https://arxiv.org/pdf/2610.41009) |
+| 2026-10-29 | PhysVLMM: Interaction-Conditioned Physical Belief Maps for Articulated Objects in Robot Scene Maps | Dibyendu Ghosh | [Abstract](https://arxiv.org/abs/2610.40539) · [PDF](https://arxiv.org/pdf/2610.40539) |
+| 2026-10-29 | Decoding Geometry, Not Tokens: Efficient VLMs for Robot Affordance and Trajectory Prediction | Akila Ayanthi, Darshana Priyasad, Tharindu Fernando, Dimity Miller et al. | [Abstract](https://arxiv.org/abs/2610.39416) · [PDF](https://arxiv.org/pdf/2610.39416) |
+| 2026-10-28 | Open-World Object Motion Anticipation via Meta-Learned Semantic Adaptation | Mason Peterson, Gage MacLin, Camilla Tabasso, Jonathan P. How et al. | [Abstract](https://arxiv.org/abs/2610.38993) · [PDF](https://arxiv.org/pdf/2610.38993) |
+| 2026-10-26 | TrySee: Modular Perception-Enhanced VLM Grounding for Closed-Loop Robot Task Planning in Specialized Domains | Elias Hofele, Thomas Trapp, David Timmermann, Tristan Schnell et al. | [Abstract](https://arxiv.org/abs/2610.35687) · [PDF](https://arxiv.org/pdf/2610.35687) |
+| 2026-10-25 | Execution Logs Sway VLM Judges of Robot Progress | Weiyan Zhao, Sunny Yang | [Abstract](https://arxiv.org/abs/2610.34151) · [PDF](https://arxiv.org/pdf/2610.34151) |
+| 2026-10-24 | RoboReason: Boosting Robotics-Relevant VLM Reasoning Through Scalable Data Generation | Sagnik Anupam, Utkarsh Lal, Aneesh Edara, Botong Zhang et al. | [Abstract](https://arxiv.org/abs/2610.33778) · [PDF](https://arxiv.org/pdf/2610.33778) |
+| 2026-10-24 | RoboJev: An Open Vision-Language Judge for Robot Success Detection | Josef Liyanjun Chen | [Abstract](https://arxiv.org/abs/2610.33718) · [PDF](https://arxiv.org/pdf/2610.33718) |
+| 2026-10-24 | Open-World Law-to-Action: Vision-Language Priors and Touch for Parts with Hidden Physics | Mohamed A. Mabrok | [Abstract](https://arxiv.org/abs/2610.33705) · [PDF](https://arxiv.org/pdf/2610.33705) |
+| 2026-10-22 | TRACE: Traversability-aware Reactive Navigation via VLM-driven Adaptive Constraints Estimation | Mario A. V. Saucedo, Midhun Edatharam Kunnath, Elias Small, Akash Patel et al. | [Abstract](https://arxiv.org/abs/2610.30994) · [PDF](https://arxiv.org/pdf/2610.30994) |
+| 2026-10-22 | SAGE: A hybrid vision-language and geometry framework for work-zone pathway prediction under temporary traffic control | Jiaxi Liu, Keshu Wu, Weizhe Tang, Bofeng Cao et al. | [Abstract](https://arxiv.org/abs/2610.31835) · [PDF](https://arxiv.org/pdf/2610.31835) |
+| 2026-10-22 | KiRoSe: Using Kinematic Data for Efficient Segmentation of Robot Demonstrations | Shuangyu Xie, Kaiyuan Chen, Muhammad Zubair Irshad, Richard Cheng et al. | [Abstract](https://arxiv.org/abs/2610.31801) · [PDF](https://arxiv.org/pdf/2610.31801) |
+| 2026-10-21 | NavBind: Diagnosing Instruction-Action Binding at Route Forks in Navigation VLAs | Josh Qixuan Sun, Xiaoying Xing, Yurun Chen, Huaiyuan Weng et al. | [Abstract](https://arxiv.org/abs/2610.29203) · [PDF](https://arxiv.org/pdf/2610.29203) |
+| 2026-10-21 | From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation | Tingwen Du, Haoyu Guo, Hanxue Zhang, Xuanxu Wang et al. | [Abstract](https://arxiv.org/abs/2610.29560) · [PDF](https://arxiv.org/pdf/2610.29560) |
+| 2026-10-21 | Failure Modes of Vision-Language Models for Human Activity Understanding in Thermal HRI | Han Hu, He Chen | [Abstract](https://arxiv.org/abs/2610.29244) · [PDF](https://arxiv.org/pdf/2610.29244) |
+| 2026-10-20 | Give the Model a Finger: Developmentally Aligned Evaluation of Counting in Vision-Language Models | Yingxin Jia, Hui Geng, Wenxin Yang, Mohan Zhang | [Abstract](https://arxiv.org/abs/2610.27756) · [PDF](https://arxiv.org/pdf/2610.27756) |
+| 2026-10-20 | Evaluating Social Reasoning in Embodied Vision-Language Models | Daniel Weiner, Raj Korpan | [Abstract](https://arxiv.org/abs/2610.27496) · [PDF](https://arxiv.org/pdf/2610.27496) |
+| 2026-10-19 | Replan for Error Recovery: Training Embodied VLMs through Verifiable Interaction with Action-Grouped Turn-GSPO | Zhuoran Wang, Keqing Fan, Yang Li, Jinbo Su et al. | [Abstract](https://arxiv.org/abs/2610.27003) · [PDF](https://arxiv.org/pdf/2610.27003) |
+| 2026-10-18 | Structure over Reasoning: Unified Zero-Shot Navigation with a Small Vision-Language Model | Zeqi Li, Xunyi Zhao, Zerui Li, Sihao Lin et al. | [Abstract](https://arxiv.org/abs/2610.25130) · [PDF](https://arxiv.org/pdf/2610.25130) |
+| 2026-10-17 | When Better Policies Leave Harder Failures: Coverage Shift in VLM Success Monitoring | Isabel Guan, Dingyuan Zhang, Shipeng Lyu, I-Ming Chen | [Abstract](https://arxiv.org/abs/2610.24801) · [PDF](https://arxiv.org/pdf/2610.24801) |
 | 2026-10-16 | HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents | Hongcheng Gao, Alex Zhou, Jay Zhu, Zelin Zheng et al. | [Abstract](https://arxiv.org/abs/2610.23479) · [PDF](https://arxiv.org/pdf/2610.23479) |
+| 2026-10-16 | HAVANA: A Hierarchical Video-Action Model for Vision-Language Navigation | Dongzhihan Wang, Yi Du, Chen Wang, Xiuxian Li et al. | [Abstract](https://arxiv.org/abs/2610.24122) · [PDF](https://arxiv.org/pdf/2610.24122) |
 | 2026-10-15 | Do VLAs Really Follow Instructions? Diagnosing How-Level Instruction Following in Vision-Language-Action Models | Sangwu Park, Wonjoong Kim, Yeonjun In, Chanyoung Park | [Abstract](https://arxiv.org/abs/2610.21251) · [PDF](https://arxiv.org/pdf/2610.21251) |
 | 2026-10-14 | Eye, Robot: Learning Expressive Gaze Dynamics via a VLM-Guided Transformer-VAE | Yuhang Hu, Junlin Lyu, Yuan Fang, Xiaoying Shen et al. | [Abstract](https://arxiv.org/abs/2610.19635) · [PDF](https://arxiv.org/pdf/2610.19635) |
 | 2026-10-13 | MARTS: A Modular Agricultural Robot for Targeted Spraying of Diseased Tomato Plants in Greenhouses | Rajmeet Singh, Manveen Kaur, Yusuf Adamu, Lochan Kshetrimayum et al. | [Abstract](https://arxiv.org/abs/2610.18123) · [PDF](https://arxiv.org/pdf/2610.18123) |
@@ -164,6 +186,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-09-22 | Sometimes You Gotta Run Before You Can Walk: Run-then-Walk Scheduling Strategy for VLM Autonomous Driving | Yuqi Ye, Shangkun Sun, Junhong Lin, Jiayi Zhao et al. | [Abstract](https://arxiv.org/abs/2609.25831) · [PDF](https://arxiv.org/pdf/2609.25831) |
 | 2026-09-22 | Know Your Body: A Harness for Direct and Self-Improving Robot Control with VLMs | Zeyu Lou, Yanhong Zeng, Yong Wang, Chenyang Si | [Abstract](https://arxiv.org/abs/2609.28530) · [PDF](https://arxiv.org/pdf/2609.28530) |
 | 2026-09-21 | What do VLM-Based Vision-Language Navigation Models Rely on: Interpreting and Steering Policy Behavior | Débora Oliveira Makowski, Samiran Gode, Abhijeet Nayak, Marco Hutter et al. | [Abstract](https://arxiv.org/abs/2609.24576) · [PDF](https://arxiv.org/pdf/2609.24576) |
+| 2026-09-21 | Stress-Query and Temporal Reliability of Vision-Language Models as copilots in Autonomous UAV Navigation | Hiago Sodre, Sebastian Barcelona, Vincent Sandin, Pablo Moraes et al. | [Abstract](https://arxiv.org/abs/2610.23877) · [PDF](https://arxiv.org/pdf/2610.23877) |
 | 2026-09-21 | RoboTalk: Learning Multi-Robot Communication and Coordination from Multimodal Demonstrations | Dorian Benhamou Goldfajn, Mason Nakamura, Saaduddin Mahmud, Justin Svegliato et al. | [Abstract](https://arxiv.org/abs/2609.23997) · [PDF](https://arxiv.org/pdf/2609.23997) |
 | 2026-09-21 | LIBERO-VPro: Benchmarking Closed-Loop Visual Robustness of Robotic Foundation Models | Huiqiong Li, Zhiting Mei, Anirudha Majumdar, Jingjing Chen et al. | [Abstract](https://arxiv.org/abs/2609.24350) · [PDF](https://arxiv.org/pdf/2609.24350) |
 | 2026-09-20 | Which Terrain Is Better? Preference Learning with VLM Prototypes for Off-Road Traversability Ranking | Ji-Hoon Hwang, Jisung Bae, E-In Son, Dong-Wook Kim et al. | [Abstract](https://arxiv.org/abs/2609.23673) · [PDF](https://arxiv.org/pdf/2609.23673) |
@@ -171,6 +194,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-09-20 | PackLab: A Comprehensive Framework for Developing, Training, and Evaluating MLLMs in Robotic Bin Packing | Donghao Zhou, Jia-Hui Pan, Fan Zhang, Xingyuan Bu et al. | [Abstract](https://arxiv.org/abs/2609.23784) · [PDF](https://arxiv.org/pdf/2609.23784) |
 | 2026-09-20 | EmoPose: Vision-Language Model Guided Emotion-Aware Gesture Generation for Humanoid Robots | Daojie Peng, Bingtao Wang, Fulong Ma, Wenjun Yue et al. | [Abstract](https://arxiv.org/abs/2609.23414) · [PDF](https://arxiv.org/pdf/2609.23414) |
 | 2026-09-19 | Transferring the Intelligence of VLMs to Robotic Control | Meng-Hao Guo, Zhe-Han Mo, Jia-Jun Wang, Yi Zhang et al. | [Abstract](https://arxiv.org/abs/2609.22966) · [PDF](https://arxiv.org/pdf/2609.22966) |
+| 2026-09-19 | Adaptive Question Generation for Ambiguous Robot Instructions Based on Information Gain and Human Cognitive Characteristics | Ryo Terashima, Yuga Yano, Hakaru Tamukoh | [Abstract](https://arxiv.org/abs/2610.23874) · [PDF](https://arxiv.org/pdf/2610.23874) |
 | 2026-09-18 | When Should a Failing Robot Ask? Initiating Corrective Human-Robot Dialogue from Audited Sensor Evidence | Eshika Pathak, Leela Krishna | [Abstract](https://arxiv.org/abs/2609.21942) · [PDF](https://arxiv.org/pdf/2609.21942) |
 | 2026-09-18 | VLPSA: Vision-Language-Poisson-Safe Actions for Full-Body Safety of Learned Policies | Meg Wilkinson, Emily Fourney, Joel W. Burdick, Aaron D. Ames | [Abstract](https://arxiv.org/abs/2609.22462) · [PDF](https://arxiv.org/pdf/2609.22462) |
 | 2026-09-18 | FORTE: Task-Adaptive Force Capability Optimization for Mobile Manipulators | Xiao Wang, Heng Zhang, Gokhan Solak, Fei Zhao et al. | [Abstract](https://arxiv.org/abs/2609.21497) · [PDF](https://arxiv.org/pdf/2609.21497) |
@@ -207,7 +231,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-08-28 | Training-free Suction Grasp Detection for Deformed Aseptic Cartons Using Vision-Language Models and Geometric Surface Scoring | Marin Maletic, Goran Vasiljevic | [Abstract](https://arxiv.org/abs/2608.28246) · [PDF](https://arxiv.org/pdf/2608.28246) |
 | 2026-08-26 | Beyond Pairwise Feedback: Listwise Vision-Language Supervision for Preference-Based Reward Learning | Srivalli Katkuri, Maxwell Kawada, Juan Wachs | [Abstract](https://arxiv.org/abs/2608.25350) · [PDF](https://arxiv.org/pdf/2608.25350) |
 | 2026-08-25 | X-MULTI: VLM-based Imaging Factor Disentanglement for Factor-Aware Image Synthesis | Sonali Godavarthy, Matthias Neuwirth-Trapp, Tim-Felix Faasch, Maarten Bieshaar et al. | [Abstract](https://arxiv.org/abs/2608.24563) · [PDF](https://arxiv.org/pdf/2608.24563) |
-| 2026-08-24 | UniMem: Unifying Multimodal Memory and Control for Vision-Language-Action Models | Lars Osterberg, Maggie Wang, Mac Schwager | [Abstract](https://arxiv.org/abs/2608.22869) · [PDF](https://arxiv.org/pdf/2608.22869) |
 | 2026-08-24 | Pointing-VLA: Typed Spatial Grounding Interfaces for Vision-Language-Action Manipulation | Xiwen Chen, Zelin Li, Zhiruo Zhou, Huiming Chen et al. | [Abstract](https://arxiv.org/abs/2608.23138) · [PDF](https://arxiv.org/pdf/2608.23138) |
 | 2026-08-24 | Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models | Sangoh Lee, Sangwoo Mo, Wook-Shin Han | [Abstract](https://arxiv.org/abs/2608.23478) · [PDF](https://arxiv.org/pdf/2608.23478) |
 | 2026-08-21 | Roadside-Cooperative Autonomous Driving: From Data Platform to Vision-Language End-to-End Reasoning | Yitao Xu, Tong Wu, Yiyan Wu, Guoji Xu et al. | [Abstract](https://arxiv.org/abs/2608.21032) · [PDF](https://arxiv.org/pdf/2608.21032) |
@@ -335,7 +358,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-31 | Advancing Multi-Robot Networks via MLLM-Driven Sensing, Communication, and Computation: A Comprehensive Survey | Hyun Jong Yang, Howon Lee, Kyuhong Shim, Jeongho Kwak et al. | [Abstract](https://arxiv.org/abs/2604.00061) · [PDF](https://arxiv.org/pdf/2604.00061) |
 | 2026-03-24 | YOLO with Kolmogorov-Arnold networks and vision-language foundation models for interpretable object detection with trustworthy multimodal AI in computer vision perception | Marios Impraimakis, Daniel Vazquez, Feiyu Zhou | [Abstract](https://arxiv.org/abs/2603.23037) · [PDF](https://arxiv.org/pdf/2603.23037) |
 | 2026-03-24 | Grounding Sim-to-Real Generalization in Robotic Manipulation: An Empirical Study with Vision-Language-Action Models | Ruixing Jin, Zicheng Zhu, Ruixiang Ouyang, Sheng Xu et al. | [Abstract](https://arxiv.org/abs/2603.22876) · [PDF](https://arxiv.org/pdf/2603.22876) |
-| 2026-03-22 | Dynamic Control Barrier Function Regulation with Vision-Language Models for Safe, Adaptive, and Realtime Visual Navigation | Jeffrey Chen, Rohan Chandra | [Abstract](https://arxiv.org/abs/2603.21142) · [PDF](https://arxiv.org/pdf/2603.21142) |
 | 2026-03-21 | Swim2Real: VLM-Guided System Identification for Sim-to-Real Transfer | Kevin Qiu, Kyle Walker, Mike Y. Michelis, Marek Cygan et al. | [Abstract](https://arxiv.org/abs/2603.20827) · [PDF](https://arxiv.org/pdf/2603.20827) |
 | 2026-03-20 | The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning | Jiyu Lim, Youngwoo Yoon, Kwanghyun Park | [Abstract](https://arxiv.org/abs/2603.20164) · [PDF](https://arxiv.org/pdf/2603.20164) |
 | 2026-03-20 | Pedestrian Crossing Intent Prediction via Psychological Features and Transformer Fusion | Sima Ashayer, Hoang H. Nguyen, Yu Liang, Mina Sartipi | [Abstract](https://arxiv.org/abs/2603.19533) · [PDF](https://arxiv.org/pdf/2603.19533) |
@@ -373,6 +395,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-02-22 | Visual Prompt Guided Unified Pushing Policy | Hieu Bui, Ziyan Gao, Yuya Hosoda, Joo-Ho Lee | [Abstract](https://arxiv.org/abs/2602.19193) · [PDF](https://arxiv.org/pdf/2602.19193) |
 | 2026-02-22 | Seeing Farther and Smarter: Value-Guided Multi-Path Reflection for VLM Policy Optimization | Yanting Yang, Shenyuan Gao, Qingwen Bu, Li Chen et al. | [Abstract](https://arxiv.org/abs/2602.19372) · [PDF](https://arxiv.org/pdf/2602.19372) |
 | 2026-02-20 | CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation | Xia Su, Ruiqi Chen, Benlin Liu, Jingwei Ma et al. | [Abstract](https://arxiv.org/abs/2602.18424) · [PDF](https://arxiv.org/pdf/2602.18424) |
+| 2026-02-20 | AWARE: Action-Entropy-Weighted and Attention-Guided Retrieval of Observation Evidence for Vision-Language-Action Models | Jiabing Yang, Yixiang Chen, Yuan Xu, Peiyan Li et al. | [Abstract](https://arxiv.org/abs/2602.18020) · [PDF](https://arxiv.org/pdf/2602.18020) |
 | 2026-02-17 | VLM-DEWM: Dynamic External World Model for Verifiable and Resilient Vision-Language Planning in Manufacturing | Guoqin Tang, Qingxuan Jia, Gang Chen, Tong Li et al. | [Abstract](https://arxiv.org/abs/2602.15549) · [PDF](https://arxiv.org/pdf/2602.15549) |
 | 2026-02-12 | Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment | Jacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu et al. | [Abstract](https://arxiv.org/abs/2602.12281) · [PDF](https://arxiv.org/pdf/2602.12281) |
 | 2026-02-12 | 3DGSNav: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting | Wancai Zheng, Hao Chen, Xianlong Lu, Linlin Ou et al. | [Abstract](https://arxiv.org/abs/2602.12159) · [PDF](https://arxiv.org/pdf/2602.12159) |
@@ -778,7 +801,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-24 | GPT-4V Takes the Wheel: Promises and Challenges for Pedestrian Behavior Prediction | Jia Huang, Peng Jiang, Alvika Gautam, Srikanth Saripalli | [Abstract](https://arxiv.org/abs/2311.14786) · [PDF](https://arxiv.org/pdf/2311.14786) |
 | 2023-11-09 | On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving | Licheng Wen, Xuemeng Yang, Daocheng Fu, Xiaofeng Wang et al. | [Abstract](https://arxiv.org/abs/2311.05332) · [PDF](https://arxiv.org/pdf/2311.05332) |
 | 2023-11-02 | Vision-Language Foundation Models as Effective Robot Imitators | Xinghang Li, Minghuan Liu, Hanbo Zhang, Cunjun Yu et al. | [Abstract](https://arxiv.org/abs/2311.01378) · [PDF](https://arxiv.org/pdf/2311.01378) |
-| 2023-10-25 | Binary State Recognition by Robots using Visual Question Answering of Pre-Trained Vision-Language Model | Kento Kawaharazuka, Yoshiki Obinata, Naoaki Kanazawa, Kei Okada et al. | [Abstract](https://arxiv.org/abs/2310.16405) · [PDF](https://arxiv.org/pdf/2310.16405) |
 
 ---
 
