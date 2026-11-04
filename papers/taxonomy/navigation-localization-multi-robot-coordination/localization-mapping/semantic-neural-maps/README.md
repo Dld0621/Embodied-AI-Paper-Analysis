@@ -1,12 +1,12 @@
 # Semantic & Neural Maps · 语义与神经地图
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Semantic%20%26%20Neural%20Maps#research-workbench)
 
-> 47 conference papers · 364 recent arXiv papers
+> 47 conference papers · 362 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -72,7 +72,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Mapping of Spatiotemporal Scalar Fields by Mobile Robots using Gaussian Process Regression | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981548) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981548) | rule-assigned |
 | 2022 | Ranging-Aided Ground Robot Navigation Using UWB Nodes at Unknown Locations | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981186) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981186) | rule-assigned |
 
-## Recent arXiv papers (364)
+## Recent arXiv papers (362)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -113,7 +113,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-07 | M2-SMap: Memory-Efficient Semantic Mapping with Hierarchical Multi-Model Representation | QiYing Deng, ZhongLai Wang, Yuan Gao, Wei Dong | [Abstract](https://arxiv.org/abs/2608.07074) · [PDF](https://arxiv.org/pdf/2608.07074) | rule-assigned |
 | 2026-08-05 | Unified Planning-Learning Framework for Robust UUV Navigation Under Partial Observability | Md Ether Deowan, Eleni Kelasidi | [Abstract](https://arxiv.org/abs/2608.05365) · [PDF](https://arxiv.org/pdf/2608.05365) | rule-assigned |
 | 2026-08-05 | Deliberate Before You Fly: Vision-Guided Spatial Deliberation for UAV See-and-Reach Navigation | Fanfu Xue, En Yu, Bohang Liu, Hongjun Wang et al. | [Abstract](https://arxiv.org/abs/2608.04825) · [PDF](https://arxiv.org/pdf/2608.04825) | rule-assigned |
-| 2026-08-05 | Beyond Visibility: Real-Time Surface Accessibility Fields from Sparse LiDAR | Bradley Scott, Sam Schofield, Richard Green | [Abstract](https://arxiv.org/abs/2608.06412) · [PDF](https://arxiv.org/pdf/2608.06412) | rule-assigned |
 | 2026-07-30 | When Robots Exchange Meaning: A Demo of Goal-Oriented Semantic Communications for Collaborative Robotics | Peizheng Li, Xinyi Lin, Sajida Gufran, Adnan Aijaz | [Abstract](https://arxiv.org/abs/2607.28256) · [PDF](https://arxiv.org/pdf/2607.28256) | rule-assigned |
 | 2026-07-23 | HGeo-TopoMap: Boosting Topological Mapping with Hierarchical Geometric Priors | Siyu Li, Kunyu Peng, Di Wen, Beiping Hou et al. | [Abstract](https://arxiv.org/abs/2607.21281) · [PDF](https://arxiv.org/pdf/2607.21281) | rule-assigned |
 | 2026-07-17 | PRISM: Multimodal Terrain Mapping for Rover Navigation in Unstructured Environments | Raul Castilla-Arquillo, Carlos Perez-del-Pulgar, Levin Gerdes, Alfonso Garcia-Cerezo et al. | [Abstract](https://arxiv.org/abs/2607.16366) · [PDF](https://arxiv.org/pdf/2607.16366) | rule-assigned |
@@ -439,7 +438,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-16 | On the Overconfidence Problem in Semantic 3D Mapping | Joao Marcos Correia Marques, Albert Zhai, Shenlong Wang, Kris Hauser | [Abstract](https://arxiv.org/abs/2311.10018) · [PDF](https://arxiv.org/pdf/2311.10018) | rule-assigned |
 | 2023-11-08 | An Efficient Probabilistic Solution to Mapping Errors in LiDAR-Camera Fusion for Autonomous Vehicles | Dan Shen, Zhengming Zhang, Renran Tian, Yaobin Chen et al. | [Abstract](https://arxiv.org/abs/2311.04410) · [PDF](https://arxiv.org/pdf/2311.04410) | rule-assigned |
 | 2023-11-07 | Interactive Semantic Map Representation for Skill-based Visual Object Navigation | Tatiana Zemskova, Aleksei Staroverov, Kirill Muravyev, Dmitry Yudin et al. | [Abstract](https://arxiv.org/abs/2311.04107) · [PDF](https://arxiv.org/pdf/2311.04107) | rule-assigned |
-| 2023-11-01 | nvblox: GPU-Accelerated Incremental Signed Distance Field Mapping | Alexander Millane, Helen Oleynikova, Emilie Wirbel, Remo Steiner et al. | [Abstract](https://arxiv.org/abs/2311.00626) · [PDF](https://arxiv.org/pdf/2311.00626) | rule-assigned |
 
 ---
 

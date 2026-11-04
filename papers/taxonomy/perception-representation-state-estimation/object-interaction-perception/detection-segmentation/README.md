@@ -1,12 +1,12 @@
 # Detection & Segmentation · 物体检测与分割
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Object%20%26%20Interaction%20Perception&specialty=Detection%20%26%20Segmentation#research-workbench)
 
-> 23 conference papers · 526 recent arXiv papers
+> 23 conference papers · 521 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -48,7 +48,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Demonstrate Once, Imitate Immediately (DOME): Learning Visual Servoing for One-Shot Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2204.02863) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981982) | rule-assigned |
 | 2022 | SESR: Self-Ensembling Sim-to-Real Instance Segmentation for Auto-Store Bin Picking | IROS · Sim To Real | [Paper](https://doi.org/10.1109/IROS47612.2022.9981845) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981845) | rule-assigned |
 
-## Recent arXiv papers (526)
+## Recent arXiv papers (521)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -573,11 +573,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-06 | Segmentation of Drone Collision Hazards in Airborne RADAR Point Clouds Using PointNet | Hector Arroyo, Paul Kier, Dylan Angus, Santiago Matalonga et al. | [Abstract](https://arxiv.org/abs/2311.03221) · [PDF](https://arxiv.org/pdf/2311.03221) | rule-assigned |
 | 2023-11-05 | Scenario Diffusion: Controllable Driving Scenario Generation With Diffusion | Ethan Pronovost, Meghana Reddy Ganesina, Noureldin Hendy, Zeyu Wang et al. | [Abstract](https://arxiv.org/abs/2311.02738) · [PDF](https://arxiv.org/pdf/2311.02738) | rule-assigned |
 | 2023-11-04 | STOW: Discrete-Frame Segmentation and Tracking of Unseen Objects for Warehouse Picking Robots | Yi Li, Muru Zhang, Markus Grotz, Kaichun Mo et al. | [Abstract](https://arxiv.org/abs/2311.02337) · [PDF](https://arxiv.org/pdf/2311.02337) | rule-assigned |
-| 2023-11-03 | Towards Unsupervised Object Detection From LiDAR Point Clouds | Lunjun Zhang, Anqi Joyce Yang, Yuwen Xiong, Sergio Casas et al. | [Abstract](https://arxiv.org/abs/2311.02007) · [PDF](https://arxiv.org/pdf/2311.02007) | rule-assigned |
-| 2023-11-03 | Depth-guided Free-space Segmentation for a Mobile Robot | Christos Sevastopoulos, Joey Hussain, Stasinos Konstantopoulos, Vangelis Karkaletsis et al. | [Abstract](https://arxiv.org/abs/2311.01966) · [PDF](https://arxiv.org/pdf/2311.01966) | rule-assigned |
-| 2023-11-02 | MemorySeg: Online LiDAR Semantic Segmentation with a Latent Memory | Enxu Li, Sergio Casas, Raquel Urtasun | [Abstract](https://arxiv.org/abs/2311.01556) · [PDF](https://arxiv.org/pdf/2311.01556) | rule-assigned |
-| 2023-10-30 | RGB-X Object Detection via Scene-Specific Fusion Modules | Sri Aditya Deevi, Connor Lee, Lu Gan, Sushruth Nagesh et al. | [Abstract](https://arxiv.org/abs/2310.19372) · [PDF](https://arxiv.org/pdf/2310.19372) | rule-assigned |
-| 2023-10-30 | Radar-Lidar Fusion for Object Detection by Designing Effective Convolution Networks | Farzeen Munir, Shoaib Azam, Tomasz Kucner, Ville Kyrki et al. | [Abstract](https://arxiv.org/abs/2310.19405) · [PDF](https://arxiv.org/pdf/2310.19405) | rule-assigned |
 
 ---
 

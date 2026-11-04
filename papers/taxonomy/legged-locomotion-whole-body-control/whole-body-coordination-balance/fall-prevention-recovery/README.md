@@ -1,12 +1,12 @@
 # Fall Prevention & Recovery · 跌倒预防与恢复
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Coordination%20%26%20Balance&specialty=Fall%20Prevention%20%26%20Recovery#research-workbench)
 
-> 8 conference papers · 33 recent arXiv papers
+> 8 conference papers · 34 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,10 +33,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Efficient, Dynamic Locomotion through Step Placement with Straight Legs and Rolling Contacts | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2310.13134) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611056) | rule-assigned |
 | 2024 | HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2309.14225) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610449) | rule-assigned |
 
-## Recent arXiv papers (33)
+## Recent arXiv papers (34)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-30 | ROOF: Learning Humanoid Fall Recovery under Overhead Constraints | Yidan Lu, Jiayuan Yu, Zongrui Cai, Jingwen Sun et al. | [Abstract](https://arxiv.org/abs/2610.42097) · [PDF](https://arxiv.org/pdf/2610.42097) | rule-assigned |
 | 2026-10-21 | Test-Time Motion Steering for Perceptive Humanoid Fall Recovery | Osher Azulay, Cheng-Lin Hsieh, Stella X. Yu | [Abstract](https://arxiv.org/abs/2610.30061) · [PDF](https://arxiv.org/pdf/2610.30061) | rule-assigned |
 | 2026-10-08 | FallGown: A Soft Pneumatic Wearable Device for Fall Prevention | Megan C. Coram, Haoran Lei, Steven H. Collins, Steve B. Cousins et al. | [Abstract](https://arxiv.org/abs/2610.12706) · [PDF](https://arxiv.org/pdf/2610.12706) | rule-assigned |
 | 2026-10-02 | KungfuAthleteBot: learning high-dynamic humanoid motion from video with unified robust recovery | Zhongxiang Lei, Lulu Cao, Xuyang Wang, Tianyi Qian et al. | [Abstract](https://arxiv.org/abs/2610.03388) · [PDF](https://arxiv.org/pdf/2610.03388) | rule-assigned |

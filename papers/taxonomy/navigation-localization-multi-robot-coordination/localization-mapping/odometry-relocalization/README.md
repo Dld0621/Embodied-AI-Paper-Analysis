@@ -1,12 +1,12 @@
 # Odometry & Relocalization · 里程计与重定位
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Odometry%20%26%20Relocalization#research-workbench)
 
-> 57 conference papers · 1,063 recent arXiv papers
+> 57 conference papers · 1,067 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -82,10 +82,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Visibility-Inspired Models of Touch Sensors for Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.04751) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981084) | rule-assigned |
 | 2022 | Whisker-Inspired Tactile Sensing for Contact Localization on Robot Manipulators | IROS · Tactile | [Paper](https://arxiv.org/pdf/2210.12387) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982122) | rule-assigned |
 
-## Recent arXiv papers (1,063)
+## Recent arXiv papers (1,067)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | Sparse Anchors for Visual Multi-Session Registration in Changing Environments | Yunus Talha Erzurumlu, Niklas Trekel, Saurabh Gupta, Nico Koltermann et al. | [Abstract](https://arxiv.org/abs/2611.05084) · [PDF](https://arxiv.org/pdf/2611.05084) | rule-assigned |
+| 2026-11-03 | PadLoc: Training-Free Floor-Plan Localization by Sparse Geometric Matching | Marian Bookhahn, Frank Neumann | [Abstract](https://arxiv.org/abs/2611.05172) · [PDF](https://arxiv.org/pdf/2611.05172) | rule-assigned |
+| 2026-11-02 | MoSoLoco: Monocular 3D Human Localization through Visual Latent Features and Social Context | Yasamin Borhani, Javad Khoramdel, Yang Gao, Po-Chien Luan et al. | [Abstract](https://arxiv.org/abs/2611.03189) · [PDF](https://arxiv.org/pdf/2611.03189) | rule-assigned |
+| 2026-10-30 | PGGT-Loc: Primitive-Grounded Geometry Transformer for Feed-Forward Camera Localization | Hanqiao Ye, Yuzhou Liu, Mengqi Rong, Jian Liu et al. | [Abstract](https://arxiv.org/abs/2610.41833) · [PDF](https://arxiv.org/pdf/2610.41833) | rule-assigned |
+| 2026-10-30 | OpenVIO: A Versatile Open-Source Visual-Inertial Odometry System | Seungwon Choi | [Abstract](https://arxiv.org/abs/2610.41671) · [PDF](https://arxiv.org/pdf/2610.41671) | rule-assigned |
 | 2026-10-29 | Smartphone Indoor Localization Enhanced by Hierarchical Multi-Sensor Context Recognition | Wenhui Feng, Muhan Weng, Jianyu Liu, Xiansheng Yang et al. | [Abstract](https://arxiv.org/abs/2610.39691) · [PDF](https://arxiv.org/pdf/2610.39691) | rule-assigned |
 | 2026-10-29 | RoboAtom: Large-scale Atomic-Action Supervision for Robot Learning | Xueyuan Wei, Xuanxu Wang, Xudong Li, Yuping He et al. | [Abstract](https://arxiv.org/abs/2610.40207) · [PDF](https://arxiv.org/pdf/2610.40207) | rule-assigned |
 | 2026-10-29 | Information-Driven Collaborative Autonomy for Heterogeneous UAV/UGV Teams | Joshua Yuriv Pilipovsky | [Abstract](https://arxiv.org/abs/2610.39379) · [PDF](https://arxiv.org/pdf/2610.39379) | rule-assigned |
@@ -285,7 +290,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-30 | BEVIO: Efficient Bird's-Eye-View based Sparse-Update Visual-Inertial Odometry for Lunar Day-Night Navigation | Mohit Singh, Shehryar Khattak, Ashish Goel, Michael Paton et al. | [Abstract](https://arxiv.org/abs/2606.00709) · [PDF](https://arxiv.org/pdf/2606.00709) | rule-assigned |
 | 2026-05-29 | DisPlace: Discriminative Place Projections for Multi-Reference Visual Place Recognition | Dhyey Manish Rajani, Michael Milford, Tobias Fischer | [Abstract](https://arxiv.org/abs/2605.30769) · [PDF](https://arxiv.org/pdf/2605.30769) | rule-assigned |
 | 2026-05-28 | VLM-GLoc: Vision-Language Model Enhanced Monte Carlo Localization for Robust Semantic Global Localization in Cluttered Quasi-Static Environments | Shivendra Agrawal, Bradley Hayes | [Abstract](https://arxiv.org/abs/2605.30506) · [PDF](https://arxiv.org/pdf/2605.30506) | rule-assigned |
-| 2026-05-27 | SAFEVPR: Patch-Based Conformal Verification for Safe Cross-Condition Sequence Visual Place Recognition | Ha Sier, Jiaqiang Zhang, Zhuo Zou, Xianjia Yu et al. | [Abstract](https://arxiv.org/abs/2605.28048) · [PDF](https://arxiv.org/pdf/2605.28048) | rule-assigned |
+| 2026-05-27 | SAFEVPR: Patch-Based Verification with Empirical FDR Control for Cross-Condition Sequence Visual Place Recognition | Ha Sier, Jiaqiang Zhang, Zhuo Zou, Xianjia Yu et al. | [Abstract](https://arxiv.org/abs/2605.28048) · [PDF](https://arxiv.org/pdf/2605.28048) | rule-assigned |
 | 2026-05-27 | Con-DSO: Learning Short-Horizon Consistency Priors for RGB-D Direct Sparse Odometry | Haolan Zhang, Thanh Nguyen Canh, Chenghao Li, Ziyan Gao et al. | [Abstract](https://arxiv.org/abs/2605.27952) · [PDF](https://arxiv.org/pdf/2605.27952) | rule-assigned |
 | 2026-05-26 | YOLO26-RipeLoc Lite: A lightweight architecture for tomato ripeness detection and picking point localization in greenhouse robotic harvesting | Rajmeet Singh, Manveen Kaur, Shahpour Alirezaee, Irfan Hussain | [Abstract](https://arxiv.org/abs/2605.27129) · [PDF](https://arxiv.org/pdf/2605.27129) | rule-assigned |
 | 2026-05-23 | Elevator-LIO: Robust LiDAR-Inertial Odometry for Multi-Floor Navigation under Elevator-Induced Non-Inertial Motion | Yifan Zhang, Yudong Huang, Yuchong Zhang, Changze Li et al. | [Abstract](https://arxiv.org/abs/2605.24495) · [PDF](https://arxiv.org/pdf/2605.24495) | rule-assigned |
@@ -1148,7 +1153,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-06 | SemanticTopoLoop: Semantic Loop Closure With 3D Topological Graph Based on Quadric-Level Object Map | Zhenzhong Cao | [Abstract](https://arxiv.org/abs/2311.02831) · [PDF](https://arxiv.org/pdf/2311.02831) | rule-assigned |
 | 2023-11-06 | LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition | Zijie Zhou, Jingyi Xu, Guangming Xiong, Junyi Ma | [Abstract](https://arxiv.org/abs/2311.03198) · [PDF](https://arxiv.org/pdf/2311.03198) | rule-assigned |
 | 2023-11-04 | Active Laser-Camera Scanning for High-Precision Fruit Localization in Robotic Harvesting: System Design and Calibration | Kaixiang Zhang, Pengyu Chu, Kyle Lammers, Zhaojian Li et al. | [Abstract](https://arxiv.org/abs/2311.02500) · [PDF](https://arxiv.org/pdf/2311.02500) | rule-assigned |
-| 2023-11-03 | Multi-LiDAR Localization and Mapping Pipeline for Urban Autonomous Driving | Florian Sauerbeck, Dominik Kulmer, Markus Pielmeier, Maximilian Leitenstern et al. | [Abstract](https://arxiv.org/abs/2311.01823) · [PDF](https://arxiv.org/pdf/2311.01823) | rule-assigned |
 
 ---
 

@@ -1,12 +1,12 @@
 # Mobile Manipulation · 移动操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Mobile%20Manipulation#research-workbench)
 
-> 51 conference papers · 183 recent arXiv papers
+> 51 conference papers · 185 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -76,10 +76,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Symbolic Failure Detection for Grasping and Mobile Manipulation Tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982223) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982223) | rule-assigned |
 | 2022 | Ω2: Optimal Hierarchical Planner for Object Search in Large Environments via Mobile Manipulation | IROS · Mobile Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981194) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981194) | rule-assigned |
 
-## Recent arXiv papers (183)
+## Recent arXiv papers (185)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-02 | TAMPAgent: Agentic Belief-Space Planning for Mobile Manipulation | Utkarsh A. Mishra, Alperen Degirmenci, Yongxin Chen, Danfei Xu et al. | [Abstract](https://arxiv.org/abs/2611.03584) · [PDF](https://arxiv.org/pdf/2611.03584) | rule-assigned |
+| 2026-11-02 | FEIJOA: Task-Driven Grounding and Execution for Mobile Manipulation | Aditya Agarwal, William Shen, Sahit Chintalapudi, Lucy Cai et al. | [Abstract](https://arxiv.org/abs/2611.04080) · [PDF](https://arxiv.org/pdf/2611.04080) | rule-assigned |
+| 2026-10-31 | MOST: Memory of Object States and Task Progress for Long-Horizon Mobile Manipulation | Diqi He, Jinbang Guo, Yijun Shen, Zhiwei Yu et al. | [Abstract](https://arxiv.org/abs/2611.00734) · [PDF](https://arxiv.org/pdf/2611.00734) | rule-assigned |
 | 2026-10-28 | HERON: Real-Time Obstacle-Aware Reachability Maps for Mobile Manipulators | G. Dupoiron, F. Michaud, J. P. Roberge | [Abstract](https://arxiv.org/abs/2610.38233) · [PDF](https://arxiv.org/pdf/2610.38233) | rule-assigned |
 | 2026-10-27 | On Shaky Ground: Characterising Non-Rigid Base Effects in Mobile Manipulation | Zongyuan Zhang, Christopher Lehnert, Will N. Browne, Jonathan M. Roberts | [Abstract](https://arxiv.org/abs/2610.36725) · [PDF](https://arxiv.org/pdf/2610.36725) | rule-assigned |
 | 2026-10-16 | Foundation-Model-Driven 3D Scene Graphs for Mobile Manipulation | Dominic Maggio, Lorenzo Shaikewitz, Aryan Naveen, Kris Hauser et al. | [Abstract](https://arxiv.org/abs/2610.23622) · [PDF](https://arxiv.org/pdf/2610.23622) | rule-assigned |
@@ -262,7 +265,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-12 | High-density Electromyography for Effective Gesture-based Control of Physically Assistive Mobile Manipulators | Jehan Yang, Kent Shibata, Douglas Weber, Zackory Erickson | [Abstract](https://arxiv.org/abs/2312.07745) · [PDF](https://arxiv.org/pdf/2312.07745) | rule-assigned |
 | 2023-12-11 | Harmonic Mobile Manipulation | Ruihan Yang, Yejin Kim, Rose Hendrix, Aniruddha Kembhavi et al. | [Abstract](https://arxiv.org/abs/2312.06639) · [PDF](https://arxiv.org/pdf/2312.06639) | rule-assigned |
 | 2023-12-11 | A Novel Planning Framework for Complex Flipping Manipulation of Multiple Mobile Manipulators | Wenhang Liu, Meng Ren, Kun Song, Michael Yu Wang et al. | [Abstract](https://arxiv.org/abs/2312.06168) · [PDF](https://arxiv.org/pdf/2312.06168) | rule-assigned |
-| 2023-11-02 | Using Augmented Reality to Assess and Modify Mobile Manipulator Surface Repair Plans | Frank Regal, Steven Swanbeck, Fabian Parra, Jared Rosenbaum et al. | [Abstract](https://arxiv.org/abs/2311.00988) · [PDF](https://arxiv.org/pdf/2311.00988) | rule-assigned |
 
 ---
 

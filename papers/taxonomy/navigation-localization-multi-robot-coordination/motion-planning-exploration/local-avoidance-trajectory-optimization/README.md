@@ -1,12 +1,12 @@
 # Local Avoidance & Trajectory Optimization · 局部避障与轨迹优化
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Motion%20Planning%20%26%20Exploration&specialty=Local%20Avoidance%20%26%20Trajectory%20Optimization#research-workbench)
 
-> 36 conference papers · 497 recent arXiv papers
+> 36 conference papers · 500 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -61,15 +61,18 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | CoMBiNED: Multi-Constrained Model Based Planning for Navigation in Dynamic Environments | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981479) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981479) | rule-assigned |
 | 2022 | Imitation Learning and Model Integrated Excavator Trajectory Planning | IROS · Imitation Learning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981220) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981220) | rule-assigned |
 
-## Recent arXiv papers (497)
+## Recent arXiv papers (500)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-02 | Positive Safety Margins from Artificial Potential Field Reward Augmentation for Size-Robust Obstacle Avoidance under Partial Observability | Ziyi Hao | [Abstract](https://arxiv.org/abs/2611.02947) · [PDF](https://arxiv.org/pdf/2611.02947) | rule-assigned |
+| 2026-10-30 | AC-SMPC: Differentiable Actor--Critic MPC with State Constraints for Safe and Fast Robot Navigation | Chaoran Wu, Jiayu Fan, Qichen Tan, Yuyi Liu et al. | [Abstract](https://arxiv.org/abs/2610.41477) · [PDF](https://arxiv.org/pdf/2610.41477) | rule-assigned |
 | 2026-10-29 | Teaching a Tree to Recover: Online Distillation of an LLM Supervisor with Counterfactual Replay | Kristian Ceder, Kilian Freitag, Knut Åkesson | [Abstract](https://arxiv.org/abs/2610.39775) · [PDF](https://arxiv.org/pdf/2610.39775) | rule-assigned |
 | 2026-10-29 | Decision-Level Error Attribution and Depth-Aware Safety Evaluation of Monocular RGB Human Tracking for Autonomous Robot Navigation | Abdulahi Taiwo, Chijioke Cyriacus Ekechi | [Abstract](https://arxiv.org/abs/2610.40199) · [PDF](https://arxiv.org/pdf/2610.40199) | rule-assigned |
 | 2026-10-28 | Learning Event-based Obstacle Avoidance via Differentiable Simulation | Chenlu Shou, Yunfan Ren, Jiaxu Xing, Davide Scaramuzza | [Abstract](https://arxiv.org/abs/2610.38967) · [PDF](https://arxiv.org/pdf/2610.38967) | rule-assigned |
 | 2026-10-27 | Rendering-Free Event Frame Simulation for Fast Reinforcement Learning of Autonomous Robot Navigation | Dequan Ou, Austin Lopez, Quentin Missinne, Christophe De Wagter et al. | [Abstract](https://arxiv.org/abs/2610.37543) · [PDF](https://arxiv.org/pdf/2610.37543) | rule-assigned |
 | 2026-10-27 | A Bi-level Co-design Framework for Lunar Monoped with 2D Jump and Landing Control | Sanjay Ramkumar, Suraj Kumar | [Abstract](https://arxiv.org/abs/2610.37199) · [PDF](https://arxiv.org/pdf/2610.37199) | rule-assigned |
+| 2026-10-26 | DiffContact: Differentiable Contact Dynamics for Policy Learning and Contact-Implicit Trajectory Optimization | Gijeong Kim, Seungbin Oh, Dongyun Kang, Hae-Won Park | [Abstract](https://arxiv.org/abs/2610.35852) · [PDF](https://arxiv.org/pdf/2610.35852) | rule-assigned |
 | 2026-10-24 | SCET-CBF: Speed-Calibrated Soft Guidance for One-Step Dynamic Navigation | Xiaoyu Han, Dongkun Han | [Abstract](https://arxiv.org/abs/2610.33471) · [PDF](https://arxiv.org/pdf/2610.33471) | rule-assigned |
 | 2026-10-23 | Neuromorphic Decision Dynamics for Deadlock-free Safe Navigation in Congested Environments | Himani Sinhmar, Vaibhav Srivastava, Naomi Ehrich Leonard | [Abstract](https://arxiv.org/abs/2610.33271) · [PDF](https://arxiv.org/pdf/2610.33271) | rule-assigned |
 | 2026-10-22 | Move, don't think: sample-efficient collision avoidance with lossy proximity sensors | Carson Kohlbrenner, Niraj Pudasaini, William Xie, Naren Sivagnanadasan et al. | [Abstract](https://arxiv.org/abs/2610.31891) · [PDF](https://arxiv.org/pdf/2610.31891) | rule-assigned |
@@ -208,8 +211,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-03-25 | Goal-Oriented Reactive Simulation for Closed-Loop Trajectory Prediction | Harsh Yadav, Tobias Meisen | [Abstract](https://arxiv.org/abs/2603.24155) · [PDF](https://arxiv.org/pdf/2603.24155) | rule-assigned |
 | 2026-03-24 | Learning Multi-Agent Local Collision-Avoidance for Collaborative Carrying tasks with Coupled Quadrupedal Robots | Francesca Bray, Simone Tolomei, Andrei Cramariuc, Cesar Cadena et al. | [Abstract](https://arxiv.org/abs/2603.23278) · [PDF](https://arxiv.org/pdf/2603.23278) | rule-assigned |
 | 2026-03-23 | RTD-RAX: Fast, Safe Trajectory Planning for Systems under Unknown Disturbances | Evanns Morales-Cuadrado, Long Kiu Chung, Shreyas Kousik, Samuel Coogan | [Abstract](https://arxiv.org/abs/2603.21635) · [PDF](https://arxiv.org/pdf/2603.21635) | rule-assigned |
-| 2026-03-23 | From Singleton Obstacles to Clutter: Translation Invariant Compositional Avoid Sets | Prashant Solanki, Jasper Van Beers, Coen De Visser | [Abstract](https://arxiv.org/abs/2603.22146) · [PDF](https://arxiv.org/pdf/2603.22146) | rule-assigned |
-| 2026-03-22 | Dynamic Control Barrier Function Regulation with Vision-Language Models for Safe, Adaptive, and Realtime Visual Navigation | Jeffrey Chen, Rohan Chandra | [Abstract](https://arxiv.org/abs/2603.21142) · [PDF](https://arxiv.org/pdf/2603.21142) | rule-assigned |
+| 2026-03-23 | Reusable Neural Reachability via Local Refinement | Prashant Solanki, Jasper Van Beers, Coen De Visser | [Abstract](https://arxiv.org/abs/2603.22146) · [PDF](https://arxiv.org/pdf/2603.22146) | rule-assigned |
+| 2026-03-22 | Semantically Adaptive Control Barrier Functions with Vision-Language Models for Real-Time Robot Navigation | Jeffrey Chen, Rohan Chandra | [Abstract](https://arxiv.org/abs/2603.21142) · [PDF](https://arxiv.org/pdf/2603.21142) | rule-assigned |
 | 2026-03-20 | Not an Obstacle for Dog, but a Hazard for Human: A Co-Ego Navigation System for Guide Dog Robots | Ruiping Liu, Jingqi Zhang, Junwei Zheng, Yufan Chen et al. | [Abstract](https://arxiv.org/abs/2603.20121) · [PDF](https://arxiv.org/pdf/2603.20121) | rule-assigned |
 | 2026-03-20 | CeRLP: A Cross-embodiment Robot Local Planning Framework for Visual Navigation | Haoyu Xi, Mingao Tan, Xinming Zhang, Siwei Cheng et al. | [Abstract](https://arxiv.org/abs/2603.19602) · [PDF](https://arxiv.org/pdf/2603.19602) | rule-assigned |
 | 2026-03-17 | Featurized Occupation Measures for Structured Global Search in Numerical Optimal Control | Qi Wei, Jianfeng Tao, Haoyang Tan, Hongyu Nie | [Abstract](https://arxiv.org/abs/2603.16231) · [PDF](https://arxiv.org/pdf/2603.16231) | rule-assigned |

@@ -1,12 +1,12 @@
 # Pushing & Non-prehensile Manipulation · 推滑与非抓取操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Pushing%20%26%20Non-prehensile%20Manipulation#research-workbench)
 
-> 49 conference papers · 143 recent arXiv papers
+> 49 conference papers · 144 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -74,10 +74,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | To ask for help or not to ask: A predictive approach to human-in-the-loop motion planning for robot manipulation tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981679) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981679) | rule-assigned |
 | 2022 | Data Augmentation for Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2205.02886) · [Index](https://dblp.org/rec/journals/corr/abs-2205-02886) | rule-assigned |
 
-## Recent arXiv papers (143)
+## Recent arXiv papers (144)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-02 | BeyondContact: A Reinforcement Learning Framework for Airflow-Based Non-Contact Manipulation | Peiyu Yang, Mohamad S. Moudallal, Antonio Langella, Giulio Turrisi et al. | [Abstract](https://arxiv.org/abs/2611.03059) · [PDF](https://arxiv.org/pdf/2611.03059) | rule-assigned |
 | 2026-10-28 | Selective Sliding Mode Control Enhances Robustness of Aerial Robots Under Disturbances | Anoop Kiran, Thales C. Silva, Nora Ayanian | [Abstract](https://arxiv.org/abs/2610.38930) · [PDF](https://arxiv.org/pdf/2610.38930) | rule-assigned |
 | 2026-10-26 | RoKON: Efficient and Adaptive Data-Enabled Predictive Control for Robotic Manipulation | Akshun Sharma, Zhongqi Wei, Buqing Ou, Frederike Dümbgen | [Abstract](https://arxiv.org/abs/2610.35458) · [PDF](https://arxiv.org/pdf/2610.35458) | rule-assigned |
 | 2026-10-26 | PushAround: Collaborative Path Clearing via Physics-Informed Hybrid Search | Zili Tang, Zongyuan Li, Zishao Qiao, Meng Guo | [Abstract](https://arxiv.org/abs/2610.35062) · [PDF](https://arxiv.org/pdf/2610.35062) | rule-assigned |

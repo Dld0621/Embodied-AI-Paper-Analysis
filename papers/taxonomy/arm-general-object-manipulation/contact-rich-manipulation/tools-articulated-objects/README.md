@@ -1,12 +1,12 @@
 # Tools & Articulated Objects · 工具与关节物体操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Tools%20%26%20Articulated%20Objects#research-workbench)
 
-> 35 conference papers · 121 recent arXiv papers
+> 35 conference papers · 120 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -60,7 +60,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Sim2Real2: Actively Building Explicit Physics Model for Precise Articulated Object Manipulation | ICRA · Sim2Real | [Paper](https://arxiv.org/abs/2302.10693) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160370) | rule-assigned |
 | 2023 | Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusions | NeurIPS · Manipulation | [Paper](https://arxiv.org/pdf/2309.07510) · [Index](https://dblp.org/rec/journals/corr/abs-2309-07510) | rule-assigned |
 
-## Recent arXiv papers (121)
+## Recent arXiv papers (120)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-07 | Real-IKEA: Physical Fidelity is the Prerequisite for Robust Manipulation | Kunqi Xu, Zhenhao Huang, Siyuan Luo, Ziqiu Zeng et al. | [Abstract](https://arxiv.org/abs/2606.08564) · [PDF](https://arxiv.org/pdf/2606.08564) | rule-assigned |
 | 2026-06-04 | PhyRoGen: Synthetic Generation of Physical Robot Manipulation Puzzles Using Procedural Content Generation | Lennart Julian Droß, Andreas Orthey, Marc Toussaint | [Abstract](https://arxiv.org/abs/2606.06569) · [PDF](https://arxiv.org/pdf/2606.06569) | rule-assigned |
 | 2026-05-29 | GSAM: A Generalizable and Safe Robotic Framework for Articulated Object Manipulation | Beichen Shao, Mengying Xie, Heng Su, Wanyi Zhang et al. | [Abstract](https://arxiv.org/abs/2605.30740) · [PDF](https://arxiv.org/pdf/2605.30740) | rule-assigned |
-| 2026-05-28 | Any-ttach: Quick End-effector Swapping Enables Manipulation Dexterity with Simplicity | Weizhe Ni, Jinzhou Li, Haoyu Li, Cody Andres Alessio-Bunnell et al. | [Abstract](https://arxiv.org/abs/2605.30569) · [PDF](https://arxiv.org/pdf/2605.30569) | rule-assigned |
+| 2026-05-28 | Any-ttach: Quick End-effector Swapping Enables Manipulation Dexterity with Simplicity | Weizhe Ni, Jinzhou Li, Xinyu Ma, Haoyu Li et al. | [Abstract](https://arxiv.org/abs/2605.30569) · [PDF](https://arxiv.org/pdf/2605.30569) | rule-assigned |
 | 2026-05-07 | ReasonSTL: Bridging Natural Language and Signal Temporal Logic via Tool-Augmented Process-Rewarded Learning | Bowen Ye, Zhijian Li, Junyue Huang, Junkai Ma et al. | [Abstract](https://arxiv.org/abs/2605.06483) · [PDF](https://arxiv.org/pdf/2605.06483) | rule-assigned |
 | 2026-05-06 | Creative Robot Tool Use by Counterfactual Reasoning | M. Tuluhan Akbulut, Varun Satheesh, Ahmed Jaafar, Alper Ahmetoglu et al. | [Abstract](https://arxiv.org/abs/2605.05411) · [PDF](https://arxiv.org/pdf/2605.05411) | rule-assigned |
 | 2026-04-15 | UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception | Ziming Wang | [Abstract](https://arxiv.org/abs/2604.14089) · [PDF](https://arxiv.org/pdf/2604.14089) | rule-assigned |
@@ -113,6 +113,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-12-20 | AOMGen: Photoreal, Physics-Consistent Demonstration Generation for Articulated Object Manipulation | Yulu Wu, Jiujun Cheng, Haowen Wang, Dengyang Suo et al. | [Abstract](https://arxiv.org/abs/2512.18396) · [PDF](https://arxiv.org/pdf/2512.18396) | rule-assigned |
 | 2025-12-09 | Masked Generative Policy for Robotic Control | Lipeng Zhuang, Shiyu Fan, Florent P. Audonnet, Yingdong Ru et al. | [Abstract](https://arxiv.org/abs/2512.09101) · [PDF](https://arxiv.org/pdf/2512.09101) | rule-assigned |
 | 2025-12-08 | sim2art: Accurate Articulated Object Modeling from a Single Video using Synthetic Training Data Only | Arslan Artykov, Tom Ravaud, Corentin Sautier, Vincent Lepetit | [Abstract](https://arxiv.org/abs/2512.07698) · [PDF](https://arxiv.org/pdf/2512.07698) | rule-assigned |
+| 2025-12-03 | ResponsibleRobotBench: Benchmarking Risk-Aware Task-Level Decision Making for Robotic Manipulation with Large Multimodal Models | Lei Zhang, Ju Dong, Kaixin Bai, Minheng Ni et al. | [Abstract](https://arxiv.org/abs/2512.04308) · [PDF](https://arxiv.org/pdf/2512.04308) | rule-assigned |
 | 2025-11-25 | ArtiBench and ArtiBrain: Benchmarking Generalizable Vision-Language Articulated Object Manipulation | Yuhan Wu, Tiantian Wei, Shuo Wang, ZhiChao Wang et al. | [Abstract](https://arxiv.org/abs/2511.20330) · [PDF](https://arxiv.org/pdf/2511.20330) | rule-assigned |
 | 2025-11-06 | ForeRobo: Unlocking Infinite Simulation Data for 3D Goal-driven Robotic Manipulation | Dexin wang, Faliang Chang, Chunsheng Liu | [Abstract](https://arxiv.org/abs/2511.04381) · [PDF](https://arxiv.org/pdf/2511.04381) | rule-assigned |
 | 2025-10-29 | SynHLMA:Synthesizing Hand Language Manipulation for Articulated Object with Discrete Human Object Interaction Representation | Wang zhi, Yuyan Liu, Liu Liu, Li Zhang et al. | [Abstract](https://arxiv.org/abs/2510.25268) · [PDF](https://arxiv.org/pdf/2510.25268) | rule-assigned |
@@ -183,8 +184,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-01-28 | Data-Driven Strategies for Coping with Incomplete DVL Measurements | Nadav Cohen, Itzik Klein | [Abstract](https://arxiv.org/abs/2401.15620) · [PDF](https://arxiv.org/pdf/2401.15620) | rule-assigned |
 | 2023-12-03 | SAGE: Bridging Semantic and Actionable Parts for GEneralizable Manipulation of Articulated Objects | Haoran Geng, Songlin Wei, Congyue Deng, Bokui Shen et al. | [Abstract](https://arxiv.org/abs/2312.01307) · [PDF](https://arxiv.org/pdf/2312.01307) | rule-assigned |
 | 2023-11-06 | Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs | Wenke Xia, Dong Wang, Xincheng Pang, Zhigang Wang et al. | [Abstract](https://arxiv.org/abs/2311.02847) · [PDF](https://arxiv.org/pdf/2311.02847) | rule-assigned |
-| 2023-11-02 | The Power of the Senses: Generalizable Manipulation from Vision and Touch through Masked Multimodal Learning | Carmelo Sferrazza, Younggyo Seo, Hao Liu, Youngwoon Lee et al. | [Abstract](https://arxiv.org/abs/2311.00924) · [PDF](https://arxiv.org/pdf/2311.00924) | rule-assigned |
-| 2023-11-01 | Learning to Design and Use Tools for Robotic Manipulation | Ziang Liu, Stephen Tian, Michelle Guo, C. Karen Liu et al. | [Abstract](https://arxiv.org/abs/2311.00754) · [PDF](https://arxiv.org/pdf/2311.00754) | rule-assigned |
 
 ---
 

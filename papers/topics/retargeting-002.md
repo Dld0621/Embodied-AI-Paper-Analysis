@@ -1,13 +1,20 @@
-# Retargeting · 201–322
+# Retargeting · 201–329
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Topic index](retargeting.md)
 
 | Paper | Source layer | Primary path | Classification status |
 |---|---|---|---|
+| [VICAR: Video Imitation with Contact-Aware Retargeting for Humanoid Interactive Skills](https://arxiv.org/abs/2610.13079) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Locomotion-Manipulation Coordination → Humanoid Loco-manipulation | rule-assigned |
+| [Vision as Proprioception: Estimating Humanoid Robot Pose from Video](https://arxiv.org/abs/2610.25288) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | needs-review |
+| [ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback](https://arxiv.org/abs/2610.32966) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Coordination & Balance → Whole-body Optimization & Control | rule-assigned |
+| [VLM-Guided Contact Retargeting and Generative Partner Modeling for Humanoid-Human Interaction](https://arxiv.org/abs/2610.28523) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Motion Imitation & Generation | rule-assigned |
+| [WARP: Whole-Body Retargeting for Learning from Offline Human Demonstrations](https://arxiv.org/abs/2606.29940) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |
+| [Weave: Learning Whole-Body Dexterous Loco-Manipulation from Human-Object Interactions](https://arxiv.org/abs/2609.16683) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Locomotion-Manipulation Coordination → Humanoid Loco-manipulation | rule-assigned |
+| [Whole-Body Dexterity](https://arxiv.org/abs/2610.22184) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | needs-review |
 | [Workhorse: Learning Robust Whole-Body Humanoid Loco-Manipulation from Human Data](https://arxiv.org/abs/2610.09117) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Locomotion-Manipulation Coordination → Humanoid Loco-manipulation | rule-assigned |
 | [WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation](https://arxiv.org/abs/2607.06438) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Coordination & Balance → Whole-body Optimization & Control | rule-assigned |
 | [X-Morph: Human Motion Priors for Scalable Robot Learning Across Morphologies](https://arxiv.org/abs/2606.30290) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Motion Imitation & Generation | rule-assigned |
@@ -42,7 +49,6 @@
 | [DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation](https://arxiv.org/abs/2609.20649) | arxiv · arXiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Latent Dynamics | rule-assigned |
 | [GRAIL: Generating Humanoid Loco-Manipulation from World Models](https://arxiv.org/abs/2606.05160) | arxiv · arXiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Pending specialty review | needs-review |
 | [LD4WAM: Learning Latent Dynamics from Human Videos for World Action Models](https://arxiv.org/abs/2608.22403) | arxiv · arXiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Latent Dynamics | rule-assigned |
-| [Robot-Factored World Models via Robot Rendering](https://arxiv.org/abs/2607.22535) | arxiv · arXiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Action-conditioned Video Prediction | rule-assigned |
 | [Robots Need More than VLA and World Models](https://arxiv.org/abs/2606.06556) | arxiv · arXiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Latent Dynamics | rule-assigned |
 | [RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation](https://arxiv.org/abs/2607.06558) | arxiv · arXiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Latent Dynamics | rule-assigned |
 | [HOGraspFlow: Taxonomy-Aware Hand-Object Retargeting for Multi-Modal SE(3) Grasp Generation](https://arxiv.org/abs/2509.16871) | arxiv · arXiv | Arm & General Object Manipulation → Grasping & Pick-place → Gripper & Suction Grasp Planning | reviewed |
@@ -55,6 +61,7 @@
 | [RoboWheel: A Data Engine from Real-World Human Demonstrations for Cross-Embodiment Robotic Learning](https://arxiv.org/abs/2512.02729) | arxiv · arXiv | Data, Simulation & Evaluation → Synthetic & Augmented Data → Cross-robot Data Conversion | rule-assigned |
 | [Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation](https://arxiv.org/abs/2506.09384) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Kinematic & Pose Retargeting | reviewed |
 | [CaFe-TeleVision: A Coarse-to-Fine Teleoperation System with Immersive Situated Visualization for Enhanced Ergonomics](https://arxiv.org/abs/2512.14270) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Teleoperation & Shared Control → Vision, Gloves & XR Input | rule-assigned |
+| [DexCanvas: Bridging Human Demonstrations and Robot Learning for Dexterous Manipulation](https://arxiv.org/abs/2510.15786) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Human Demonstrations to Dexterous Skills → Video-to-robot Demonstrations | rule-assigned |
 | [DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and Interaction](https://arxiv.org/abs/2505.01083) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Contact & Functional Retargeting | reviewed |
 | [DexForce: Extracting Force-informed Actions from Kinesthetic Demonstrations for Dexterous Manipulation](https://arxiv.org/abs/2501.10356) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Human Demonstrations to Dexterous Skills → Video-to-robot Demonstrations | rule-assigned |
 | [DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation](https://arxiv.org/abs/2505.24853) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Contact & Functional Retargeting | reviewed |

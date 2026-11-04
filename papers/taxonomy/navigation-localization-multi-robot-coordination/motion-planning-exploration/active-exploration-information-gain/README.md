@@ -1,12 +1,12 @@
 # Active Exploration & Information Gain · 主动探索与信息增益
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Motion%20Planning%20%26%20Exploration&specialty=Active%20Exploration%20%26%20Information%20Gain#research-workbench)
 
-> 153 conference papers · 599 recent arXiv papers
+> 153 conference papers · 600 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -178,11 +178,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | UAV-miniUGV Hybrid System for Hidden Area Exploration and Manipulation | IROS · Exploration | [Paper](https://arxiv.org/pdf/2209.11704) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981957) | rule-assigned |
 | 2022 | Resilient Multi-Sensor Exploration of Multifarious Environments with a Team of Aerial Robots | RSS · Exploration | [Paper](https://doi.org/10.15607/rss.2022.xviii.004) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.004) | rule-assigned |
 
-## Recent arXiv papers (599)
+## Recent arXiv papers (600)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-30 | SAFARI: Semantic- And Frontier-driven Autonomous Risk Inspection | Ugur Kafkasyali, Mihnea Toader, Julia Richter, Turcan Tuna et al. | [Abstract](https://arxiv.org/abs/2610.41456) · [PDF](https://arxiv.org/pdf/2610.41456) | rule-assigned |
+| 2026-10-30 | Emergent Control of Ant Learning Walks in a Mobile Robot | Thomas Misiek, Andrew Philippides, Paul Graham, James Knight | [Abstract](https://arxiv.org/abs/2611.00392) · [PDF](https://arxiv.org/pdf/2611.00392) | rule-assigned |
 | 2026-10-29 | The Athlete as a Scientist of One: Agentic Bayesian Experimental Design for Individualized Physiology from Consumer Wearables | Behnam Moradi | [Abstract](https://arxiv.org/abs/2610.40370) · [PDF](https://arxiv.org/pdf/2610.40370) | rule-assigned |
+| 2026-10-29 | Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense | Khawaja Abaid Ullah, Ananya Acharya, Mohammad Javad Khojasteh | [Abstract](https://arxiv.org/abs/2610.41044) · [PDF](https://arxiv.org/pdf/2610.41044) | rule-assigned |
 | 2026-10-29 | AI for Science in Space: Orbital Laboratories, Planetary Fieldwork, and Embodied Autonomy | Zizhe Wang, Jia Deng, Xin Lu, Zehao Jia et al. | [Abstract](https://arxiv.org/abs/2610.39689) · [PDF](https://arxiv.org/pdf/2610.39689) | rule-assigned |
 | 2026-10-28 | Value Function-Guided MPPI for Hierarchical Planning and Control in Off-Road Autonomous Navigation | Anoushka Alavilli, Raymond Song, Guanya Shi, Jeff Schneider | [Abstract](https://arxiv.org/abs/2610.38731) · [PDF](https://arxiv.org/pdf/2610.38731) | rule-assigned |
 | 2026-10-28 | Explore Where It Matters: Targeted Exploration for Efficient Rover Adaptation | Jacob Levy, Arthur Bouton, Tristan D. Hassler, Hari Nayar et al. | [Abstract](https://arxiv.org/abs/2610.38657) · [PDF](https://arxiv.org/pdf/2610.38657) | rule-assigned |
@@ -341,6 +344,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-04-16 | Trajectory Planning for Safe Dual Control with Active Exploration | Kaleb Ben Naveed, Manveer Singh, Devansh R. Agrawal, Dimitra Panagou | [Abstract](https://arxiv.org/abs/2604.15507) · [PDF](https://arxiv.org/pdf/2604.15507) | rule-assigned |
 | 2026-04-15 | Learning-Guided Sparsification of Dynamic Graphs in Robotic Exploration | Adithya V. Sastry, Bibek Poudel, Weizi Li | [Abstract](https://arxiv.org/abs/2604.16509) · [PDF](https://arxiv.org/pdf/2604.16509) | rule-assigned |
 | 2026-04-13 | Olfactory pursuit: catching a moving odor source in complex flows | Maurizio Carbone, Lorenzo Piro, Robin A. Heinonen, Luca Biferale et al. | [Abstract](https://arxiv.org/abs/2604.13121) · [PDF](https://arxiv.org/pdf/2604.13121) | rule-assigned |
+| 2026-04-07 | CoEnv: Code-Driven Exploration in Real-to-Sim Digital Twins for Multi-Arm Manipulation | Li Kang, Yutao Fan, Rui Li, Heng Zhou et al. | [Abstract](https://arxiv.org/abs/2604.05484) · [PDF](https://arxiv.org/pdf/2604.05484) | rule-assigned |
 | 2026-04-03 | Asymptotically-Bounded 3D Frontier Exploration enhanced with Bayesian Information Gain | John Lewis, Meysam Basiri, Pedro U. Lima | [Abstract](https://arxiv.org/abs/2604.03008) · [PDF](https://arxiv.org/pdf/2604.03008) | rule-assigned |
 | 2026-04-02 | Preferential Bayesian Optimization with Crash Feedback | Johanna Menn, David Stenger, Sebastian Trimpe | [Abstract](https://arxiv.org/abs/2604.01776) · [PDF](https://arxiv.org/pdf/2604.01776) | rule-assigned |
 | 2026-04-02 | From Impact to Insight: Dynamics-Aware Proprioceptive Terrain Sensing on Granular Media | Yifeng Zhang, Yue Wu, Jake Futterman, Jacob Meseha et al. | [Abstract](https://arxiv.org/abs/2604.02563) · [PDF](https://arxiv.org/pdf/2604.02563) | rule-assigned |
@@ -380,7 +384,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-03-03 | Emerging trends in Cislunar Space for Lunar Science Exploration and Space Robotics aiding Human Spaceflight Safety | Arsalan Muhammad, Yue Wang, Hai Huang, Hao Wang | [Abstract](https://arxiv.org/abs/2603.02878) · [PDF](https://arxiv.org/pdf/2603.02878) | rule-assigned |
 | 2026-02-26 | SCOPE: Skeleton Graph-Based Computation-Efficient Framework for Autonomous UAV Exploration | Kai Li, Shengtao Zheng, Linkun Xiu, Yuze Sheng et al. | [Abstract](https://arxiv.org/abs/2602.22707) · [PDF](https://arxiv.org/pdf/2602.22707) | rule-assigned |
 | 2026-02-26 | Relational Appliances: A Robot in the Refrigerator for Home-Based Health Promotion | Timothy Bickmore, Mehdi Arjmand, Yunus Terzioglu | [Abstract](https://arxiv.org/abs/2602.22542) · [PDF](https://arxiv.org/pdf/2602.22542) | rule-assigned |
-| 2026-02-22 | WildOS: Open-Vocabulary Object Search in the Wild | Hardik Shah, Erica Tevere, Deegan Atha, Marcel Kaufmann et al. | [Abstract](https://arxiv.org/abs/2602.19308) · [PDF](https://arxiv.org/pdf/2602.19308) | rule-assigned |
+| 2026-02-22 | WildOS: Open-Vocabulary Object Search in the Wild | Hardik Shah, Manthan Patel, Erica Tevere, Deegan Atha et al. | [Abstract](https://arxiv.org/abs/2602.19308) · [PDF](https://arxiv.org/pdf/2602.19308) | rule-assigned |
 | 2026-02-21 | Temporal-Logic-Aware Frontier-Based Exploration | Azizollah Taheri, Derya Aksaray | [Abstract](https://arxiv.org/abs/2602.18951) · [PDF](https://arxiv.org/pdf/2602.18951) | rule-assigned |
 | 2026-02-15 | Autonomous Robotic Tissue Palpation and Abnormalities Characterisation via Ergodic Exploration | Luca Beber, Edoardo Lamon, Matteo Saveriano, Daniele Fontanelli et al. | [Abstract](https://arxiv.org/abs/2602.14287) · [PDF](https://arxiv.org/pdf/2602.14287) | rule-assigned |
 | 2026-02-14 | XIT: Exploration and Exploitation Informed Trees for Active Gas Distribution Mapping in Unknown Environments | Mal Fazliu, Matthew Coombes, Sen Wang, Cunjia Liu | [Abstract](https://arxiv.org/abs/2602.13739) · [PDF](https://arxiv.org/pdf/2602.13739) | rule-assigned |
@@ -404,7 +408,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-01-26 | Learning the Pareto Space of Multi-Objective Autonomous Driving: A Modular, Data-Driven Approach | Mohammad Elayan, Wissam Kontar | [Abstract](https://arxiv.org/abs/2601.18913) · [PDF](https://arxiv.org/pdf/2601.18913) | rule-assigned |
 | 2026-01-21 | FARE: Fast-Slow Agentic Robotic Exploration | Shuhao Liao, Xuxin Lv, Jeric Lew, Shizhe Zhang et al. | [Abstract](https://arxiv.org/abs/2601.14681) · [PDF](https://arxiv.org/pdf/2601.14681) | rule-assigned |
 | 2026-01-13 | VLingNav: Embodied Navigation with Adaptive Reasoning and Visual-Assisted Linguistic Memory | Shaoan Wang, Yuanfei Luo, Xingyu Chen, Aocheng Luo et al. | [Abstract](https://arxiv.org/abs/2601.08665) · [PDF](https://arxiv.org/pdf/2601.08665) | rule-assigned |
-| 2026-01-13 | Large Multimodal Models for Embodied Intelligent Driving: The Next Frontier in Self-Driving? | Long Zhang, Yuchen Xia, Bingqing Wei, Zhen Liu et al. | [Abstract](https://arxiv.org/abs/2601.08434) · [PDF](https://arxiv.org/pdf/2601.08434) | rule-assigned |
 | 2026-01-12 | HERE: Hierarchical Active Exploration of Radiance Field with Epistemic Uncertainty Minimization | Taekbeom Lee, Dabin Kim, Youngseok Jang, H. Jin Kim | [Abstract](https://arxiv.org/abs/2601.07242) · [PDF](https://arxiv.org/pdf/2601.07242) | rule-assigned |
 | 2026-01-12 | FMAC: a Fair Fiducial Marker Accuracy Comparison Software | Guillaume J. Laurent, Patrick Sandoz | [Abstract](https://arxiv.org/abs/2601.07723) · [PDF](https://arxiv.org/pdf/2601.07723) | rule-assigned |
 | 2026-01-10 | Follow the Signs: Using Textual Cues and LLMs to Guide Efficient Robot Navigation | Jing Cao, Nishanth Kumar, Aidan Curtis | [Abstract](https://arxiv.org/abs/2601.06652) · [PDF](https://arxiv.org/pdf/2601.06652) | rule-assigned |
@@ -779,8 +782,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-07 | Autonomous Exploration and General Visual Inspection of Ship Ballast Water Tanks using Aerial Robots | Mihir Dharmadhikari, Paolo De Petris, Mihir Kulkarni, Nikhil Khedekar et al. | [Abstract](https://arxiv.org/abs/2311.03838) · [PDF](https://arxiv.org/pdf/2311.03838) | rule-assigned |
 | 2023-11-06 | Modularity for lunar exploration: European Moon Rover System Pre-Phase A Design and Field Test Campaign Results | Cristina Luna, Jorge Barrientos-Díez, Manuel Esquer, Alba Guerra et al. | [Abstract](https://arxiv.org/abs/2311.03098) · [PDF](https://arxiv.org/pdf/2311.03098) | rule-assigned |
 | 2023-11-06 | Exploitation-Guided Exploration for Semantic Embodied Navigation | Justin Wasserman, Girish Chowdhary, Abhinav Gupta, Unnat Jain | [Abstract](https://arxiv.org/abs/2311.03357) · [PDF](https://arxiv.org/pdf/2311.03357) | rule-assigned |
-| 2023-11-01 | Active Neural Topological Mapping for Multi-Agent Exploration | Xinyi Yang, Yuxiang Yang, Chao Yu, Jiayu Chen et al. | [Abstract](https://arxiv.org/abs/2311.00252) · [PDF](https://arxiv.org/pdf/2311.00252) | rule-assigned |
-| 2023-10-30 | Efficient Exploration in Continuous-time Model-based Reinforcement Learning | Lenart Treven, Jonas Hübotter, Bhavya Sukhija, Florian Dörfler et al. | [Abstract](https://arxiv.org/abs/2310.19848) · [PDF](https://arxiv.org/pdf/2310.19848) | rule-assigned |
 
 ---
 

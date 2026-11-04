@@ -1,12 +1,12 @@
 # Grasp Stability · 抓取稳定性
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Grasping%20%26%20Pick-place&specialty=Grasp%20Stability#research-workbench)
 
-> 15 conference papers · 42 recent arXiv papers
+> 15 conference papers · 43 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -40,7 +40,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Grasp Stability Prediction with Sim-to-Real Transfer from Tactile Sensing | IROS · Sim To Real | [Paper](https://arxiv.org/abs/2208.02885) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981863) | rule-assigned |
 | 2022 | The Good Grasp, the Bad Grasp, and the Plateau in Tactile-Based Grasp Stability Prediction | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9981360) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981360) | rule-assigned |
 
-## Recent arXiv papers (42)
+## Recent arXiv papers (43)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -53,6 +53,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-01 | Grasp Execution Without a Planner: Configuration-Space Grasp Distance Fields with Certified Safety & Guaranteed Quality | Clinton Enwerem, John S. Baras, Calin Belta | [Abstract](https://arxiv.org/abs/2608.00600) · [PDF](https://arxiv.org/pdf/2608.00600) | rule-assigned |
 | 2026-07-31 | SAGP: Semantic Affordance-Guided Grasp Planning via Coarse-Zone VLM Reasoning | Muhayy Ud Din, Irfan Hussain | [Abstract](https://arxiv.org/abs/2607.29374) · [PDF](https://arxiv.org/pdf/2607.29374) | rule-assigned |
 | 2026-07-20 | Predicting Grasping Compliance in Robotic Hands through Analytical-Model-Informed Neural Networks | Qianwen Zhao, Long Wang | [Abstract](https://arxiv.org/abs/2607.17541) · [PDF](https://arxiv.org/pdf/2607.17541) | rule-assigned |
+| 2026-07-17 | Harnessing Plastic Deformation for Continuous Passive Stability in Soft Grippers | Junlong Xiao, Yaoqiang Pan, Xuan Zhang, Michael Yu Wang et al. | [Abstract](https://arxiv.org/abs/2607.15659) · [PDF](https://arxiv.org/pdf/2607.15659) | rule-assigned |
 | 2026-06-26 | Learning Stable In-Grasp Manipulation in a Non-Dropping Action Space | Ha Thang Long Doan, Hikaru Arita, Kazuto Nakashima, Kenji Tahara | [Abstract](https://arxiv.org/abs/2606.28196) · [PDF](https://arxiv.org/pdf/2606.28196) | rule-assigned |
 | 2026-05-15 | KaRMA: A Kinematic Metric for Fine Manipulation Ability in Robotic Hands | Martin Peticco, Pulkit Agrawal | [Abstract](https://arxiv.org/abs/2605.15548) · [PDF](https://arxiv.org/pdf/2605.15548) | rule-assigned |
 | 2026-04-10 | Kinematics of continuum planar grasping | Udit Halder, Nicolas Echeverria Zambrano, Xincheng Li | [Abstract](https://arxiv.org/abs/2604.09800) · [PDF](https://arxiv.org/pdf/2604.09800) | rule-assigned |

@@ -1,12 +1,12 @@
 # Humanoid Loco-manipulation · 人形移动操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Locomotion-Manipulation%20Coordination&specialty=Humanoid%20Loco-manipulation#research-workbench)
 
-> 11 conference papers · 156 recent arXiv papers
+> 11 conference papers · 159 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -36,10 +36,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Physically Consistent Online Inertial Adaptation for Humanoid Loco-manipulation | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2405.07901) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802012) | rule-assigned |
 | 2023 | Hierarchical Adaptive Loco-manipulation Control for Quadruped Robots | ICRA · Quadruped | [Paper](https://arxiv.org/pdf/2209.13145) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160523) | rule-assigned |
 
-## Recent arXiv papers (156)
+## Recent arXiv papers (159)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | Coordinating Humanoid Loco-Manipulation through Action-Conditioned Latent Foresight | Ju Dong, Xinyu Xiao, Yiming Zhou, Tianshuo Yang et al. | [Abstract](https://arxiv.org/abs/2611.04839) · [PDF](https://arxiv.org/pdf/2611.04839) | rule-assigned |
+| 2026-11-02 | ReGATE: Recurrent Gated Visual Fusion for Reactive Humanoid-Object Interaction | Hao Zhu, Jorge Peña-Queralta | [Abstract](https://arxiv.org/abs/2611.02871) · [PDF](https://arxiv.org/pdf/2611.02871) | rule-assigned |
+| 2026-11-02 | Energy-Based Policy Orchestration | Weirui Ye, Yen-Jen Wang, Elvis Hsieh, Zhiyang Dou et al. | [Abstract](https://arxiv.org/abs/2611.02546) · [PDF](https://arxiv.org/pdf/2611.02546) | rule-assigned |
+| 2026-10-30 | Online Learning of Heterogeneous Locomotion Dynamics under Reinforcement Learning Policies for Precise Loco-Manipulation | Tianlin Zhang, Weipeng Xia, Lingwei Zhang, Yiyang Shao et al. | [Abstract](https://arxiv.org/abs/2610.41892) · [PDF](https://arxiv.org/pdf/2610.41892) | rule-assigned |
 | 2026-10-29 | LLM-guided Planar Loco-Manipulation for Quadruped Robots | Georges Jetti, Michael Khayyat, Jean-Pierre Sleiman, Stefano Arrigoni et al. | [Abstract](https://arxiv.org/abs/2610.40248) · [PDF](https://arxiv.org/pdf/2610.40248) | rule-assigned |
 | 2026-10-26 | Zero-HLM: Generalizable Humanoid Loco-Manipulation without Real Robot Data | Dianyi Yang, Mengya Liu, Zhumei Wang, Yu Liu et al. | [Abstract](https://arxiv.org/abs/2610.35075) · [PDF](https://arxiv.org/pdf/2610.35075) | rule-assigned |
 | 2026-10-26 | Learning Force-Reactive Humanoid Loco-Manipulation | Sihang Li, Xiaofeng Guo, Jinkun Cao, Charlie Cheng et al. | [Abstract](https://arxiv.org/abs/2610.35862) · [PDF](https://arxiv.org/pdf/2610.35862) | rule-assigned |
@@ -195,7 +199,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-03-25 | Arm-Constrained Curriculum Learning for Loco-Manipulation of the Wheel-Legged Robot | Zifan Wang, Yufei Jia, Lu Shi, Haoyu Wang et al. | [Abstract](https://arxiv.org/abs/2403.16535) · [PDF](https://arxiv.org/pdf/2403.16535) | rule-assigned |
 | 2024-02-21 | A Combined Learning and Optimization Framework to Transfer Human Whole-body Loco-manipulation Skills to Mobile Manipulators | Jianzhuang Zhao, Francesco Tassi, Yanlong Huang, Elena De Momi et al. | [Abstract](https://arxiv.org/abs/2402.13915) · [PDF](https://arxiv.org/pdf/2402.13915) | rule-assigned |
 | 2023-12-19 | Dynamic Loco-manipulation on HECTOR: Humanoid for Enhanced ConTrol and Open-source Research | Junheng Li, Junchao Ma, Omar Kolt, Manas Shah et al. | [Abstract](https://arxiv.org/abs/2312.11868) · [PDF](https://arxiv.org/pdf/2312.11868) | rule-assigned |
-| 2023-10-31 | Hierarchical Optimization-based Control for Whole-body Loco-manipulation of Heavy Objects | Alberto Rigo, Muqun Hu, Satyandra K. Gupta, Quan Nguyen | [Abstract](https://arxiv.org/abs/2311.00112) · [PDF](https://arxiv.org/pdf/2311.00112) | rule-assigned |
 
 ---
 

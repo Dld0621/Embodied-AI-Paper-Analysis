@@ -1,12 +1,12 @@
 # Tactile Representation · 触觉表征
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Tactile%20Representation#research-workbench)
 
-> 62 conference papers · 132 recent arXiv papers
+> 62 conference papers · 134 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -87,10 +87,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Play it by Ear: Learning Skills amidst Occlusion through Audio-Visual Imitation Learning | RSS · Imitation Learning | [Paper](https://arxiv.org/pdf/2205.14850) · [Index](https://dblp.org/rec/journals/corr/abs-2205-14850) | rule-assigned |
 | 2022 | Understanding Dynamic Tactile Sensing for Liquid Property Estimation | RSS · Tactile | [Paper](https://arxiv.org/pdf/2205.08771) · [Index](https://dblp.org/rec/journals/corr/abs-2205-08771) | rule-assigned |
 
-## Recent arXiv papers (132)
+## Recent arXiv papers (134)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-02 | Touching Projected Agents through the DAT Screen -System Design and Questions of Interaction Boundaries- | Takaya Tamamoto, Tomoko Yonezawa | [Abstract](https://arxiv.org/abs/2611.02525) · [PDF](https://arxiv.org/pdf/2611.02525) | rule-assigned |
+| 2026-11-01 | $TF^2$-Steering: Action Refinement with Tactile Forecasts and Feedback via Velocity-Field Steering | Yiming Chen, Xiaofei Wei, Chun Gu, Wei Xiao et al. | [Abstract](https://arxiv.org/abs/2611.01483) · [PDF](https://arxiv.org/pdf/2611.01483) | rule-assigned |
 | 2026-10-22 | VecTile: A Low-Cost Flexible Tactile Array for 3-DoF Force Sensing | Jian Hou, Xin Zhou, Adam J. Spiers | [Abstract](https://arxiv.org/abs/2610.31472) · [PDF](https://arxiv.org/pdf/2610.31472) | rule-assigned |
 | 2026-10-20 | Learning Tactile-Aware Hand Representations from Human Hand-Object Interaction Data | Yeonguk Yu, Jaehong Kim, Byungok Han | [Abstract](https://arxiv.org/abs/2610.27995) · [PDF](https://arxiv.org/pdf/2610.27995) | rule-assigned |
 | 2026-10-19 | PhantomTac: Hijacking Robotic Tactile Systems with Deploy-and-forget Tags | Binbin Zhang, Yifeng Zhang, Xiaomeng Chen, Dongyao Chen | [Abstract](https://arxiv.org/abs/2610.26174) · [PDF](https://arxiv.org/pdf/2610.26174) | rule-assigned |

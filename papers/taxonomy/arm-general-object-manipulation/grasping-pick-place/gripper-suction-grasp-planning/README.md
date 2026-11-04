@@ -1,12 +1,12 @@
 # Gripper & Suction Grasp Planning · 夹爪与吸盘抓取规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Grasping%20%26%20Pick-place&specialty=Gripper%20%26%20Suction%20Grasp%20Planning#research-workbench)
 
-> 88 conference papers · 150 recent arXiv papers
+> 88 conference papers · 152 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -113,10 +113,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | On the Importance of Label Encoding and Uncertainty Estimation for Robotic Grasp Detection | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9981866) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981866) | rule-assigned |
 | 2022 | Sample Efficient Grasp Learning Using Equivariant Models | RSS · Grasp | [Paper](https://doi.org/10.15607/rss.2022.xviii.071) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.071) | rule-assigned |
 
-## Recent arXiv papers (150)
+## Recent arXiv papers (152)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-02 | Exploring Proximity and Tactile Sensing for Robotic Manipulation | Eric T. Chang, Bianca Aumann, Zhanpeng He, Mohamed Elnoor et al. | [Abstract](https://arxiv.org/abs/2611.03489) · [PDF](https://arxiv.org/pdf/2611.03489) | rule-assigned |
+| 2026-11-01 | UA-Depth: Uncertainty-Aware Depth Restoration for Material-Agnostic Object Manipulation | Rui Cao, Jia-Hui Pan, Yin Zhang, Qiwei Meng et al. | [Abstract](https://arxiv.org/abs/2611.01645) · [PDF](https://arxiv.org/pdf/2611.01645) | rule-assigned |
 | 2026-10-29 | SimTO-Robust: Automated Design of Soft Grippers Robust to Grasp Pose and Object Geometry | Kurt Enkera, Joshua Pinskier, Marcus Gallagher, David Howard | [Abstract](https://arxiv.org/abs/2610.39560) · [PDF](https://arxiv.org/pdf/2610.39560) | rule-assigned |
 | 2026-10-26 | MMGNet: Multi-Modal 6-DoF Grasp Synthesis for Cluttered Scenes | Rui Cao, Jia-Hui Pan, Yichuan Li, Yunfan Yu et al. | [Abstract](https://arxiv.org/abs/2610.34893) · [PDF](https://arxiv.org/pdf/2610.34893) | rule-assigned |
 | 2026-10-13 | Cross-Embodiment Affordance Transfer for Robotic Manipulation | Sawera Yaseen, Serge Thill, Rekha Raja | [Abstract](https://arxiv.org/abs/2610.18194) · [PDF](https://arxiv.org/pdf/2610.18194) | rule-assigned |

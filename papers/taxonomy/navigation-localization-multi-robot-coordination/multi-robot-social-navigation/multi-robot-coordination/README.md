@@ -1,12 +1,12 @@
 # Multi-robot Coordination · 多机器人协调
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Multi-robot%20%26%20Social%20Navigation&specialty=Multi-robot%20Coordination#research-workbench)
 
-> 67 conference papers · 386 recent arXiv papers
+> 67 conference papers · 388 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -92,10 +92,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Multi-Robot Unknown Area Exploration Using Frontier Trees | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS47612.2022.9981914) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981914) | rule-assigned |
 | 2022 | PropEM-L: Radio Propagation Environment Modeling and Learning for Communication-Aware Multi-Robot Exploration | RSS · Exploration | [Paper](https://arxiv.org/abs/2205.01267) · [Index](https://dblp.org/rec/journals/corr/abs-2205-01267) | rule-assigned |
 
-## Recent arXiv papers (386)
+## Recent arXiv papers (388)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | Nested Field-of-View Barriers for Teleoperated Multi-Robot Relay Chains | Arthur Vangasse, Theo Cruz, Thales Soares, André Cid et al. | [Abstract](https://arxiv.org/abs/2611.05074) · [PDF](https://arxiv.org/pdf/2611.05074) | rule-assigned |
+| 2026-11-02 | Late Autumn: LLM Agents Specialize a General Multi-Robot Planner for One Warehouse | Yimin Tang, Han Zhang, Shao-Hung Chan, Erdem Bıyık et al. | [Abstract](https://arxiv.org/abs/2611.02391) · [PDF](https://arxiv.org/pdf/2611.02391) | rule-assigned |
+| 2026-10-31 | Reflex: Fast Robot Policy Serving by Reusing and Correcting Past Actions | Ziyang Lin, Zixuan Sun, Rami Nasser, Jianli Jin et al. | [Abstract](https://arxiv.org/abs/2611.00524) · [PDF](https://arxiv.org/pdf/2611.00524) | rule-assigned |
+| 2026-10-30 | CONSORT: Uncertainty-Constrained Multi-Robot Planning for Cooperative Localization in GPS-Denied Environments | Tony Zhang, Ryan Bartholomew, Kalliyan Velasco, Joshua Mangelson et al. | [Abstract](https://arxiv.org/abs/2610.41235) · [PDF](https://arxiv.org/pdf/2610.41235) | rule-assigned |
+| 2026-10-30 | Capability-Conditioned Graph Control Barrier Functions for Zero-Shot Safe Navigation of Heterogeneous Mobile Robot Teams | Joonkyung Kim, Janghyun Cho, Jeehyun Lee, Changjoo Nam et al. | [Abstract](https://arxiv.org/abs/2610.41214) · [PDF](https://arxiv.org/pdf/2610.41214) | rule-assigned |
+| 2026-10-30 | A Capability-Aware Backup-Recoverability Filter for Heterogeneous Multi-Robot Navigation | Joonkyung Kim, Yanze Zhang, Wenhao Luo, Yiwei Lyu | [Abstract](https://arxiv.org/abs/2610.41188) · [PDF](https://arxiv.org/pdf/2610.41188) | rule-assigned |
 | 2026-10-28 | SKiD-SLAM: Resource-Aware Distributed Multi-Robot LiDAR SLAM for Planetary Missions with Field Deployments at Analog Sites | Hogyun Kim, Juwon Kim, Dongjin Cho, Jiwon Choi et al. | [Abstract](https://arxiv.org/abs/2610.38141) · [PDF](https://arxiv.org/pdf/2610.38141) | rule-assigned |
 | 2026-10-27 | EARS-Info: Information-Aware Event-Driven Reallocation for Multi-Robot Exploration | Kabeh Mohsenzadegan, Vahid Tavakkoli, Kyandoghere Kyamakya | [Abstract](https://arxiv.org/abs/2610.38040) · [PDF](https://arxiv.org/pdf/2610.38040) | rule-assigned |
 | 2026-10-22 | Dispersive Tree Agreements for Multi-Robot Coordination | Shashank A. Deshpande, Blake T. Edwards, Jonathan P. How | [Abstract](https://arxiv.org/abs/2610.31540) · [PDF](https://arxiv.org/pdf/2610.31540) | rule-assigned |
@@ -117,7 +123,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-10-01 | DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication | Hanchu Zhou, Dechen Gao, Hang Wang, Brendan Lynch et al. | [Abstract](https://arxiv.org/abs/2610.02161) · [PDF](https://arxiv.org/pdf/2610.02161) | rule-assigned |
 | 2026-09-30 | Divide and Collapse: MAPF-Collapse via Exact Decomposition into Independent Sub-Instances | Oren Salzman | [Abstract](https://arxiv.org/abs/2609.39559) · [PDF](https://arxiv.org/pdf/2609.39559) | rule-assigned |
 | 2026-09-29 | Onboard Vision and MPC Navigation for Underwater Robots: An Open BlueROV2 Platform for Multi-Robot Experiments & Docking | Victor Nan Fernandez-Ayala, Wiktor Kowalczyk, Cezary Banaszek, Dimos V. Dimarogonas | [Abstract](https://arxiv.org/abs/2609.38511) · [PDF](https://arxiv.org/pdf/2609.38511) | rule-assigned |
-| 2026-09-28 | Denoising Multi-Robot Trajectories | Yuhao Zhang, Keisuke Okumura, Ajay Shankar, Amanda Prorok | [Abstract](https://arxiv.org/abs/2609.35651) · [PDF](https://arxiv.org/pdf/2609.35651) | rule-assigned |
+| 2026-09-28 | Denoising Multirobot Trajectories | Yuhao Zhang, Keisuke Okumura, Ajay Shankar, Amanda Prorok | [Abstract](https://arxiv.org/abs/2609.35651) · [PDF](https://arxiv.org/pdf/2609.35651) | rule-assigned |
 | 2026-09-25 | MR. POP: Multi-Robot Parallel Optimizing Planner for Almost-Surely Asymptotically Optimal Planning | Chih H. Huang, Roy Xing, Brian Plancher, Zachary Kingston | [Abstract](https://arxiv.org/abs/2609.30644) · [PDF](https://arxiv.org/pdf/2609.30644) | rule-assigned |
 | 2026-09-24 | Containing Behavioral Cascades from Manipulated Claims in LLM-Powered Multi-Robot Systems | Waleed Bin Khalid, Byung-Cheol Min | [Abstract](https://arxiv.org/abs/2609.30523) · [PDF](https://arxiv.org/pdf/2609.30523) | rule-assigned |
 | 2026-09-23 | Controlling Collectives of AI Agents in Reasoning Space with Spatial Transformers | Frederic Vatnsdal, Roshan Gopal, Romina Garcia Camargo, Vijay Kumar et al. | [Abstract](https://arxiv.org/abs/2609.28247) · [PDF](https://arxiv.org/pdf/2609.28247) | rule-assigned |
@@ -452,7 +458,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-03-14 | BRIEDGE: EEG-Adaptive Edge AI for Multi-Brain to Multi-Robot Interaction | Jinhui Ouyang, Mingzhu Wu, Xinglin Li, Hanhui Deng et al. | [Abstract](https://arxiv.org/abs/2403.15432) · [PDF](https://arxiv.org/pdf/2403.15432) | rule-assigned |
 | 2024-03-13 | A Novel Feature Learning-based Bio-inspired Neural Network for Real-time Collision-free Rescue of Multi-Robot Systems | Junfei Li, Simon X. Yang | [Abstract](https://arxiv.org/abs/2403.08238) · [PDF](https://arxiv.org/pdf/2403.08238) | rule-assigned |
 | 2024-03-09 | N-QR: Natural Quick Response Codes for Multi-Robot Instance Correspondence | Nathaniel Moore Glaser, Rajashree Ravi, Zsolt Kira | [Abstract](https://arxiv.org/abs/2403.05815) · [PDF](https://arxiv.org/pdf/2403.05815) | rule-assigned |
-| 2024-03-09 | Action-Consistent Decentralized Belief Space Planning with Inconsistent Beliefs and Limited Data Sharing: Framework and Simplification Algorithms with Formal Guarantees | Tanmoy Kundu, Moshe Rafaeli, Anton Gulyaev, Vadim Indelman | [Abstract](https://arxiv.org/abs/2403.05962) · [PDF](https://arxiv.org/pdf/2403.05962) | rule-assigned |
+| 2024-03-09 | Action-Consistent Decentralized Belief Space Planning with Inconsistent Beliefs and Limited Data Sharing: Framework and Simplification Algorithms with Formal Guarantees | Tanmoy Kundu, Moshe Rafaeli Shimron, Anton Gulyaev, Vadim Indelman | [Abstract](https://arxiv.org/abs/2403.05962) · [PDF](https://arxiv.org/pdf/2403.05962) | rule-assigned |
 | 2024-03-06 | Multi-Robot Autonomous Exploration and Mapping Under Localization Uncertainty with Expectation-Maximization | Yewei Huang, Xi Lin, Brendan Englot | [Abstract](https://arxiv.org/abs/2403.04021) · [PDF](https://arxiv.org/pdf/2403.04021) | rule-assigned |
 | 2024-03-04 | Sensor-based Multi-agent Coverage Control with Spatial Separation in Unstructured Environments | Xinyi Wang, Jiwen Xu, Chuanxiang Gao, Yizhou Chen et al. | [Abstract](https://arxiv.org/abs/2403.01710) · [PDF](https://arxiv.org/pdf/2403.01710) | rule-assigned |
 | 2024-02-29 | Conversational Language Models for Human-in-the-Loop Multi-Robot Coordination | William Hunt, Toby Godfrey, Mohammad D. Soorati | [Abstract](https://arxiv.org/abs/2402.19166) · [PDF](https://arxiv.org/pdf/2402.19166) | rule-assigned |
@@ -478,10 +484,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-13 | Collaborative Planning for Catching and Transporting Objects in Unstructured Environments | Liuao Pei, Junxiao Lin, Zhichao Han, Lun Quan et al. | [Abstract](https://arxiv.org/abs/2311.07100) · [PDF](https://arxiv.org/pdf/2311.07100) | rule-assigned |
 | 2023-11-13 | A Survey on Passing-through Control of Multi-Robot Systems in Cluttered Environments | Yan Gao, Chenggang Bai, Quan Quan | [Abstract](https://arxiv.org/abs/2311.07082) · [PDF](https://arxiv.org/pdf/2311.07082) | rule-assigned |
 | 2023-11-06 | Simultaneous Time Synchronization and Mutual Localization for Multi-robot System | Xiangyong Wen, Yingjian Wang, Xi Zheng, Kaiwei Wang et al. | [Abstract](https://arxiv.org/abs/2311.02948) · [PDF](https://arxiv.org/pdf/2311.02948) | rule-assigned |
-| 2023-11-03 | RDE: A Hybrid Policy Framework for Multi-Agent Path Finding Problem | Jianqi Gao, Yanjie Li, Xiaoqing Yang, Mingshan Tan | [Abstract](https://arxiv.org/abs/2311.01728) · [PDF](https://arxiv.org/pdf/2311.01728) | rule-assigned |
-| 2023-11-02 | Spontaneous-Ordering Platoon Control for Multirobot Path Navigation Using Guiding Vector Fields | Bin-Bin Hu, Hai-Tao Zhang, Weijia Yao, Jianing Ding et al. | [Abstract](https://arxiv.org/abs/2311.00976) · [PDF](https://arxiv.org/pdf/2311.00976) | rule-assigned |
-| 2023-10-31 | Multi-Agent Consensus Seeking via Large Language Models | Huaben Chen, Wenkang Ji, Lufeng Xu, Shiyu Zhao | [Abstract](https://arxiv.org/abs/2310.20151) · [PDF](https://arxiv.org/pdf/2310.20151) | rule-assigned |
-| 2023-10-31 | Collaborative Decision-Making Using Spatiotemporal Graphs in Connected Autonomy | Peng Gao, Yu Shen, Ming C. Lin | [Abstract](https://arxiv.org/abs/2310.20491) · [PDF](https://arxiv.org/pdf/2310.20491) | rule-assigned |
 
 ---
 

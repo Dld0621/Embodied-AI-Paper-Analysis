@@ -1,12 +1,12 @@
 # Data Curation & Quality · 数据清洗、标注与质量评估
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engineering&specialty=Data%20Curation%20%26%20Quality#research-workbench)
 
-> 11 conference papers · 93 recent arXiv papers
+> 11 conference papers · 95 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -36,10 +36,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | On Human Grasping and Manipulation in Kitchens: Automated Annotation, Insights, and Metrics for Effective Data Collection | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161171) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161171) | rule-assigned |
 | 2023 | HANDAL: A Dataset of Real-World Manipulable Object Categories with Pose Annotations, Affordances, and Reconstructions | IROS · Dataset | [Paper](https://arxiv.org/pdf/2308.01477) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341672) | rule-assigned |
 
-## Recent arXiv papers (93)
+## Recent arXiv papers (95)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | GUILD: Guided Iterative Data Collection for Imitation Learning | Shivin Dass, Kevin Nguyen, Rohan Yelandur, Junhong Xu et al. | [Abstract](https://arxiv.org/abs/2611.05368) · [PDF](https://arxiv.org/pdf/2611.05368) | reviewed |
+| 2026-10-30 | MotorSense: A Video-EMG Dataset of Motoric Representations for Action Understanding | Eadom Dessalene, Michael Maynord, Amir-Hossein Shahidzadeh, Botao He et al. | [Abstract](https://arxiv.org/abs/2610.41127) · [PDF](https://arxiv.org/pdf/2610.41127) | rule-assigned |
 | 2026-10-14 | TacClaw-Infinity: A Large-Scale Vision-Tactile-Language-Action Dataset for Dexterous Manipulation | Fucai Zhu, Xidong Zhang, Yichi Zhang, Yipan Wang et al. | [Abstract](https://arxiv.org/abs/2610.20320) · [PDF](https://arxiv.org/pdf/2610.20320) | rule-assigned |
 | 2026-10-13 | Where Small Mistakes Matter: Quantifying State Criticality for Imitation Learning | Yusuf Umut Ciftci, Joonwon Kang, Ajay Suresha Sathya, Somil Bansal | [Abstract](https://arxiv.org/abs/2610.17709) · [PDF](https://arxiv.org/pdf/2610.17709) | rule-assigned |
 | 2026-10-07 | MultiFly: A Real-World Multimodal Aerial Dataset with Annotation-Efficient Label Transfer and Cross-Modal Semantic Consistency | Markus Gross, Andreas Greiner, Taehyoung Kim, Sivasubiramaniam Subbiah et al. | [Abstract](https://arxiv.org/abs/2610.10359) · [PDF](https://arxiv.org/pdf/2610.10359) | rule-assigned |

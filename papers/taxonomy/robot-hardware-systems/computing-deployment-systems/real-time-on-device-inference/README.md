@@ -1,12 +1,12 @@
 # Real-time & On-device Inference · 实时与端侧推理
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Computing%20%26%20Deployment%20Systems&specialty=Real-time%20%26%20On-device%20Inference#research-workbench)
 
-> 3 conference papers · 58 recent arXiv papers
+> 3 conference papers · 57 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,7 +28,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | On-Device Diffusion Transformer Policy for Efficient Robot Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/pdf/2508.00697) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01306) | rule-assigned |
 | 2025 | Falcon: Fast Visuomotor Policies via Partial Denoising | ICML · Visuomotor | [Paper](https://arxiv.org/abs/2503.00339) · [Index](https://dblp.org/rec/journals/corr/abs-2503-00339) | rule-assigned |
 
-## Recent arXiv papers (58)
+## Recent arXiv papers (57)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -89,7 +89,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-06-17 | Model Adaptation for Time Constrained Embodied Control | Jaehyun Song, Minjong Yoo, Honguk Woo | [Abstract](https://arxiv.org/abs/2406.11128) · [PDF](https://arxiv.org/pdf/2406.11128) | rule-assigned |
 | 2024-03-21 | Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection | Tim Salzmann, Markus Ryll, Alex Bewley, Matthias Minderer | [Abstract](https://arxiv.org/abs/2403.14270) · [PDF](https://arxiv.org/pdf/2403.14270) | rule-assigned |
 | 2024-03-06 | On-device Self-supervised Learning of Visual Perception Tasks aboard Hardware-limited Nano-quadrotors | Elia Cereda, Manuele Rusci, Alessandro Giusti, Daniele Palossi | [Abstract](https://arxiv.org/abs/2403.04071) · [PDF](https://arxiv.org/pdf/2403.04071) | rule-assigned |
-| 2023-11-02 | Ultra-Efficient On-Device Object Detection on AI-Integrated Smart Glasses with TinyissimoYOLO | Julian Moosmann, Pietro Bonazzi, Yawei Li, Sizhen Bian et al. | [Abstract](https://arxiv.org/abs/2311.01057) · [PDF](https://arxiv.org/pdf/2311.01057) | rule-assigned |
 
 ---
 

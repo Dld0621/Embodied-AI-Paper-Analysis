@@ -1,7 +1,7 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Multifinger%20Grasping%20%26%20Control&specialty=Pending%20specialty%20review#research-workbench)
@@ -92,6 +92,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | DexHOT: Learning Hand-Object Configuration Transfer for Dexterous Manipulation | Zhewei Gui, Anthony Bolton, Jiyao Zhang, Zeyuan Chen et al. | [Abstract](https://arxiv.org/abs/2611.05119) · [PDF](https://arxiv.org/pdf/2611.05119) | needs-review |
 | 2026-10-29 | CAPTURER: A Dexterous Aerial Manipulator for Dynamic and Precise Grasping across Diverse Environments | Meng Wang, Jindou Jia, Sicheng Zhou, Zeshuai Chen et al. | [Abstract](https://arxiv.org/abs/2610.39119) · [PDF](https://arxiv.org/pdf/2610.39119) | needs-review |
 | 2026-10-28 | Catch It All!: Generalizable Dynamic Catching with a Dexterous Hand | Arth Shukla, Kehlani Fay, Huaze Liu, Darin Djapri et al. | [Abstract](https://arxiv.org/abs/2610.39044) · [PDF](https://arxiv.org/pdf/2610.39044) | needs-review |
 | 2026-10-26 | The Language of Deformation: Semantic Failure Analysis as a Prerequisite for Dexterous Manipulation of Deformable Objects | Ignacio Cuiral-Zueco, David Hardman, Michele Pierallini, Erfan Shahriari | [Abstract](https://arxiv.org/abs/2610.35103) · [PDF](https://arxiv.org/pdf/2610.35103) | needs-review |
@@ -324,7 +325,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-23 | DexDLO: Learning Goal-Conditioned Dexterous Policy for Dynamic Manipulation of Deformable Linear Objects | Sun Zhaole, Jihong Zhu, Robert B. Fisher | [Abstract](https://arxiv.org/abs/2312.15204) · [PDF](https://arxiv.org/pdf/2312.15204) | needs-review |
 | 2023-12-11 | HoLLiE C -- A Multifunctional Bimanual Mobile Robot Supporting Versatile Care Applications | Lea Steffen, Martin Schulze, Christian Eichmann, Robin Koch et al. | [Abstract](https://arxiv.org/abs/2312.06292) · [PDF](https://arxiv.org/pdf/2312.06292) | needs-review |
 | 2023-12-05 | Dexterous Functional Grasping | Ananye Agarwal, Shagun Uppal, Kenneth Shaw, Deepak Pathak | [Abstract](https://arxiv.org/abs/2312.02975) · [PDF](https://arxiv.org/pdf/2312.02975) | needs-review |
-| 2023-10-30 | DEFT: Dexterous Fine-Tuning for Real-World Hand Policies | Aditya Kannan, Kenneth Shaw, Shikhar Bahl, Pragna Mannam et al. | [Abstract](https://arxiv.org/abs/2310.19797) · [PDF](https://arxiv.org/pdf/2310.19797) | needs-review |
 
 ---
 

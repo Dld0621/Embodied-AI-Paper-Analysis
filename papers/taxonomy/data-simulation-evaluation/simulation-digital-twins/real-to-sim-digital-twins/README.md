@@ -1,12 +1,12 @@
 # Real-to-sim & Digital Twins · 现实场景重建与数字孪生
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Real-to-sim%20%26%20Digital%20Twins#research-workbench)
 
-> 6 conference papers · 133 recent arXiv papers
+> 6 conference papers · 132 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -31,7 +31,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Neuro-Adaptive Dynamic Control with Edge-Computing for Collaborative Digital Twin of an Industrial Robotic Manipulator | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161113) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161113) | rule-assigned |
 | 2022 | Dynamic Modeling and Digital Twin of a Harmonic Drive Based Collaborative Robot Joint | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/icra46639.2022.9812458) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812458) | rule-assigned |
 
-## Recent arXiv papers (133)
+## Recent arXiv papers (132)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-10-27 | AuRaSim: A Ray-Tracing Based Automotive FMCW Radar Simulator for Dynamic Scenarios | Zhaoze Wang, Changxu Zhang, Tai Fei, Christopher Grimm et al. | [Abstract](https://arxiv.org/abs/2610.37403) · [PDF](https://arxiv.org/pdf/2610.37403) | rule-assigned |
 | 2026-10-23 | Semantic Representation for Agentic Self-Play in Automated Laboratories | Yves Delley, John Coller, Zachary Cutts, Alexander Daryin et al. | [Abstract](https://arxiv.org/abs/2610.32755) · [PDF](https://arxiv.org/pdf/2610.32755) | rule-assigned |
 | 2026-10-22 | WorldMirror: Agentic Real-to-Sim Generation of Interactive Worlds from In-the-Wild Robot Demonstrations | Tianling Xu, Weijie Wan, Honghao Su, Kailun Su et al. | [Abstract](https://arxiv.org/abs/2610.31834) · [PDF](https://arxiv.org/pdf/2610.31834) | rule-assigned |
-| 2026-10-16 | Self-Building Labs | Jiaru Bai, Yuchi Zhao, Han Hao, Miroslav Bogdanovic et al. | [Abstract](https://arxiv.org/abs/2610.23826) · [PDF](https://arxiv.org/pdf/2610.23826) | rule-assigned |
+| 2026-10-16 | Self-Building Labs | Jiaru Bai, Yuchi Zhao, Han Hao, Elia Savino et al. | [Abstract](https://arxiv.org/abs/2610.23826) · [PDF](https://arxiv.org/pdf/2610.23826) | rule-assigned |
 | 2026-10-15 | De-Risking Robotic Welding for In-Space Metal Joining Through Physics-Grounded Digital Twins | Zhou Daniel Hao, Umer Masood Chaudry, Robert Shaw, Andrew Cheney et al. | [Abstract](https://arxiv.org/abs/2610.21939) · [PDF](https://arxiv.org/pdf/2610.21939) | rule-assigned |
 | 2026-10-14 | Probabilistic Physics Digital Twin for Human-Robot Interaction | Yushen Hu, Harshvardhan Chandirasekar, Apurv Kushwaha, Jonathan King et al. | [Abstract](https://arxiv.org/abs/2610.19336) · [PDF](https://arxiv.org/pdf/2610.19336) | rule-assigned |
 | 2026-10-14 | Atomic-WAM: Execution-Grounded Atomic-Motion Reasoning for World Action Models | Shijun Shi, Zhe Liu, Zhi Hou, Yinan Chen et al. | [Abstract](https://arxiv.org/abs/2610.20157) · [PDF](https://arxiv.org/pdf/2610.20157) | rule-assigned |
@@ -83,7 +83,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-04-14 | GeoVision-Enabled Digital Twin for Hybrid Autonomous-Teleoperated Medical Responses | Parham Kebria, Soheil Sabri, Laura J Brattain | [Abstract](https://arxiv.org/abs/2604.13248) · [PDF](https://arxiv.org/pdf/2604.13248) | rule-assigned |
 | 2026-04-09 | SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds | Yunsong Zhou, Hangxu Liu, Xuekun Jiang, Xing Shen et al. | [Abstract](https://arxiv.org/abs/2604.08544) · [PDF](https://arxiv.org/pdf/2604.08544) | rule-assigned |
 | 2026-04-09 | AgiPIX: Bridging Simulation and Reality in Indoor Aerial Inspection | Sasanka Kuruppu Arachchige, Juan Jose Garcia, Changda Tian, Lauri Suomela et al. | [Abstract](https://arxiv.org/abs/2604.08009) · [PDF](https://arxiv.org/pdf/2604.08009) | rule-assigned |
-| 2026-04-07 | CoEnv: Driving Embodied Multi-Agent Collaboration via Compositional Environment | Li Kang, Yutao Fan, Rui Li, Heng Zhou et al. | [Abstract](https://arxiv.org/abs/2604.05484) · [PDF](https://arxiv.org/pdf/2604.05484) | rule-assigned |
 | 2026-03-21 | Current state of the multi-agent multi-view experimental and digital twin rendezvous (MMEDR-Autonomous) framework | Logan Banker, Michael Wozniak, Mohanad Alameer, Smriti Nandan Paul et al. | [Abstract](https://arxiv.org/abs/2603.20575) · [PDF](https://arxiv.org/pdf/2603.20575) | rule-assigned |
 | 2026-03-18 | Multisource human-in-the-loop digital twin testbed for connected and autonomous vehicles in mixed traffic flow | Jianghong Dong, Chunying Yang, Mengchi Cai, Chaoyi Chen et al. | [Abstract](https://arxiv.org/abs/2603.17751) · [PDF](https://arxiv.org/pdf/2603.17751) | rule-assigned |
 | 2026-03-18 | From Optimizable to Interactable: Mixed Digital Twin-Empowered Testing of Vehicle-Infrastructure Cooperation Systems | Jianghong Dong, Chunying Yang, Mengchi Cai, Chaoyi Chen et al. | [Abstract](https://arxiv.org/abs/2603.17497) · [PDF](https://arxiv.org/pdf/2603.17497) | rule-assigned |

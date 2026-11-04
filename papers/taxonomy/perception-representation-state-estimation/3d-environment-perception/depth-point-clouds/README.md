@@ -1,12 +1,12 @@
 # Depth & Point Clouds · 深度与点云
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=Depth%20%26%20Point%20Clouds#research-workbench)
 
-> 15 conference papers · 447 recent arXiv papers
+> 15 conference papers · 452 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -40,10 +40,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Any2Policy: Learning Visuomotor Policy with Any-Modality | NeurIPS · Visuomotor | [Paper](https://doi.org/10.52202/079017-4244) · [Publisher](https://doi.org/10.52202/079017-4244) | rule-assigned |
 | 2022 | f-Cal: Aleatoric uncertainty quantification for robot perception via calibrated neural regression | ICRA · Robot Perception | [Paper](https://doi.org/10.1109/icra46639.2022.9811903) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811903) | rule-assigned |
 
-## Recent arXiv papers (447)
+## Recent arXiv papers (452)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | Physics-Based Plausibility Assessment of AI-Predicted Vehicle Parameters for Automotive Radar in Pre-Crash Scenarios | Rainer Engert, Patrick Zaumseil, Thomas Brandmeier | [Abstract](https://arxiv.org/abs/2611.04871) · [PDF](https://arxiv.org/pdf/2611.04871) | rule-assigned |
+| 2026-11-03 | Do Agentic Policies Need to Look at Every Step? Geometric Abstraction for Reasoning and Action | Yihang Liu, Yiming Chen, Mingzhe Zheng | [Abstract](https://arxiv.org/abs/2611.05058) · [PDF](https://arxiv.org/pdf/2611.05058) | rule-assigned |
+| 2026-11-02 | 3D-BBDA: Backpropagation-Free Black-Box Domain Adaptation for Robust 3D Point Cloud Recognition | Shivangi Rai, Kunal Jangid, Vaibhav Kumar, Vinod K Kurmi | [Abstract](https://arxiv.org/abs/2611.03588) · [PDF](https://arxiv.org/pdf/2611.03588) | rule-assigned |
+| 2026-10-31 | A Reproducible Reconstruction and Evaluation Framework for Photorealistic Lunar Analog Scene Reconstruction Toward Digital Twins | Antar Mazumder, Ryan Hartzell, Luke Boyd, Alexander Robinson et al. | [Abstract](https://arxiv.org/abs/2611.00870) · [PDF](https://arxiv.org/pdf/2611.00870) | rule-assigned |
+| 2026-10-30 | CalibSwitch: Observation-Driven Camera-LiDAR Extrinsic Recovery and Selective Maintenance for Multimodal Perception | Haifa Zhang, Yijing Wang, Zhiqiang Zuo | [Abstract](https://arxiv.org/abs/2610.41352) · [PDF](https://arxiv.org/pdf/2610.41352) | rule-assigned |
 | 2026-10-29 | Compressed Orientation Reachability Maps for Sub-Second Robotic Needle Entry Point Planning | Prabhu Nithin Gollapudi, Andreas Maier, Franziska Mathis-Ullrich, Water Zhao et al. | [Abstract](https://arxiv.org/abs/2610.39879) · [PDF](https://arxiv.org/pdf/2610.39879) | rule-assigned |
 | 2026-10-27 | Efficacy of Monocular Depth Estimation in Lunar Environments | Michael W. Lanighan, Kenji Brameld, Seth Gee | [Abstract](https://arxiv.org/abs/2610.38080) · [PDF](https://arxiv.org/pdf/2610.38080) | rule-assigned |
 | 2026-10-27 | A Singularity Avoiding Track Model for Race Car Optimization | Adwait Verulkar, Behzad Danaei, Srikanth Sivaramakrishnan, Ryan Trinter | [Abstract](https://arxiv.org/abs/2610.36430) · [PDF](https://arxiv.org/pdf/2610.36430) | rule-assigned |
@@ -97,6 +102,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-13 | Attention from Action, for Action: Emergent Visual Bottlenecks for Policy Learning | Zheyu Zhuang, Ruiyu Wang, Nick Heppert, Johannes Fabian Hahn et al. | [Abstract](https://arxiv.org/abs/2608.13422) · [PDF](https://arxiv.org/pdf/2608.13422) | rule-assigned |
 | 2026-08-12 | Repurposing RGB-based Foundation Model for Depth Estimation on Thermal Images Using Hierarchical Supervision | Jie Hong, Tingtian Li, Xuesong Li, Xiao Li | [Abstract](https://arxiv.org/abs/2608.11564) · [PDF](https://arxiv.org/pdf/2608.11564) | rule-assigned |
 | 2026-08-11 | GESTO: Human-Centric Spatio-Temporal Memory for Reasoning in Dynamic Scenes | Ermanno Bartoli, Buwei He, Dennis Rotondi, Sebastian Koch et al. | [Abstract](https://arxiv.org/abs/2608.10886) · [PDF](https://arxiv.org/pdf/2608.10886) | rule-assigned |
+| 2026-08-05 | Beyond Visibility: Real-Time Surface Accessibility Fields from Sparse LiDAR | Bradley Scott, Sam Schofield, Richard Green | [Abstract](https://arxiv.org/abs/2608.06412) · [PDF](https://arxiv.org/pdf/2608.06412) | rule-assigned |
 | 2026-08-02 | FeDepth: Federated Learning for Depth Estimation under Robot Heterogeneity | Ganghyeon Lee, Inha Lee, Junhee Lee, Jeongeon Lee et al. | [Abstract](https://arxiv.org/abs/2608.01129) · [PDF](https://arxiv.org/pdf/2608.01129) | rule-assigned |
 | 2026-08-01 | OmniAI: A Surface-Adaptive Aerial Projection Interface for Human--Drone Interaction | Nikita Kuzmin, Yuhua Jin, Georgii Demianchuk, Mariya Lezina et al. | [Abstract](https://arxiv.org/abs/2608.00721) · [PDF](https://arxiv.org/pdf/2608.00721) | rule-assigned |
 | 2026-07-29 | Dense Soft Weighting for Radar Ego-Velocity Estimation | Atar Babgei, Chenyu Zhao, Michael Breza, Julie A. McCann | [Abstract](https://arxiv.org/abs/2607.26980) · [PDF](https://arxiv.org/pdf/2607.26980) | rule-assigned |
@@ -490,7 +496,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-21 | Robust Hole-Detection in Triangular Meshes Irrespective of the Presence of Singular Vertices | Mauhing Yip, Annette Stahl, Christian Schellewald | [Abstract](https://arxiv.org/abs/2311.12466) · [PDF](https://arxiv.org/pdf/2311.12466) | rule-assigned |
 | 2023-11-21 | Multi-Resolution Planar Region Extraction for Uneven Terrains | Yinghan Sun, Linfang Zheng, Hua Chen, Wei Zhang | [Abstract](https://arxiv.org/abs/2311.12562) · [PDF](https://arxiv.org/pdf/2311.12562) | rule-assigned |
 | 2023-11-08 | 3D Pose Estimation of Tomato Peduncle Nodes using Deep Keypoint Detection and Point Cloud | Jianchao Ci, Xin Wang, David Rapado-Rincón, Akshay K. Burusa et al. | [Abstract](https://arxiv.org/abs/2311.04699) · [PDF](https://arxiv.org/pdf/2311.04699) | rule-assigned |
-| 2023-11-02 | UltraLiDAR: Learning Compact Representations for LiDAR Completion and Generation | Yuwen Xiong, Wei-Chiu Ma, Jingkang Wang, Raquel Urtasun | [Abstract](https://arxiv.org/abs/2311.01448) · [PDF](https://arxiv.org/pdf/2311.01448) | rule-assigned |
 
 ---
 

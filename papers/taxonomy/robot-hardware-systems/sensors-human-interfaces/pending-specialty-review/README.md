@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Sensors%20%26%20Human%20Interfaces&specialty=Pending%20specialty%20review#research-workbench)
 
-> 8 conference papers · 47 recent arXiv papers
+> 8 conference papers · 48 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,10 +33,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | A Force-Sensitive Exoskeleton for Teleoperation: An Application in Elderly Care Robotics | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161175) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161175) | needs-review |
 | 2022 | Reactive Stepping for Humanoid Robots using Reinforcement Learning: Application to Standing Push Recovery on the Exoskeleton Atalante | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2203.01148) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982234) | needs-review |
 
-## Recent arXiv papers (47)
+## Recent arXiv papers (48)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-30 | Design and Validation of a Robotic Knee Exoskeleton with Musculoskeletal Simulation-Derived Biological Torque Control | Rajiv V. Joshi, Jimin An, Ilseung Park, Dawit Lee et al. | [Abstract](https://arxiv.org/abs/2610.41981) · [PDF](https://arxiv.org/pdf/2610.41981) | needs-review |
 | 2026-10-27 | Multi-Agent Reinforcement Learning of Co-Adaptive Hip Exoskeleton Control (MARL-Exo) for Metabolic Energy Reduction | Yifei Yuan, Jakob Wolf, Ghaith Androwis, Xianlian Zhou | [Abstract](https://arxiv.org/abs/2610.37441) · [PDF](https://arxiv.org/pdf/2610.37441) | needs-review |
 | 2026-10-06 | ExoBridge: Learning a Bare Hand to Hand-Worn Exoskeleton Mapping through Human Limb Coupling | Ruitong Tian, Xianyao Li, Noah B. Wilson, Fang Xu et al. | [Abstract](https://arxiv.org/abs/2610.07692) · [PDF](https://arxiv.org/pdf/2610.07692) | needs-review |
 | 2026-10-02 | Subject-Specific Predictive Musculoskeletal Simulations of Lower-Limb Exoskeleton Assistance: Metabolic and Biomechanical Effects of Joint Assistance Strategies | Neethan Ratnakumar, Mariya Tohfafarosh, Xianlian Zhou | [Abstract](https://arxiv.org/abs/2610.02991) · [PDF](https://arxiv.org/pdf/2610.02991) | needs-review |

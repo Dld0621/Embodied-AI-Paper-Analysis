@@ -1,7 +1,7 @@
 # Behavior Cloning & Sequence Modeling · 行为克隆与序列建模
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Imitation%20Learning&specialty=Behavior%20Cloning%20%26%20Sequence%20Modeling#research-workbench)
@@ -43,6 +43,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-02 | RoboScope Kit: Unified Interfaces for Fast and Scalable Embodied-AI Evaluation | Deng-Ke Wu, Yifan Jin, Yida Yang, Lei Qian et al. | [Abstract](https://arxiv.org/abs/2611.03850) · [PDF](https://arxiv.org/pdf/2611.03850) | rule-assigned |
 | 2026-10-29 | JEDI: Joint-Embedding Demonstration Compression for In-Context Imitation Learning | Jiazhao Liang, Zhewen He, Shuaihang Yuan, Hao Huang et al. | [Abstract](https://arxiv.org/abs/2610.40356) · [PDF](https://arxiv.org/pdf/2610.40356) | reviewed |
 | 2026-10-25 | AdaPolicy: Action-Driven Anticipatory Robot Policies via Next-Chunk Prediction | Fan Yang, Yuting Su, Chen Zhao, Fugui Fan et al. | [Abstract](https://arxiv.org/abs/2610.34280) · [PDF](https://arxiv.org/pdf/2610.34280) | rule-assigned |
 | 2026-10-23 | Tiny Recursive Policy: Recursive Latent Refinement for Visuomotor Control | Hakan Aktas, Cengiz Oztireli | [Abstract](https://arxiv.org/abs/2610.33288) · [PDF](https://arxiv.org/pdf/2610.33288) | rule-assigned |
@@ -171,7 +172,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-01-17 | DiffClone: Enhanced Behaviour Cloning in Robotics with Diffusion-Driven Policy Learning | Sabariswaran Mani, Sreyas Venkataraman, Abhranil Chandra, Adyan Rizvi et al. | [Abstract](https://arxiv.org/abs/2401.09243) · [PDF](https://arxiv.org/pdf/2401.09243) | rule-assigned |
 | 2024-01-08 | DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement | Jiaqi Liu, Peng Hang, Xiaocong Zhao, Jianqiang Wang et al. | [Abstract](https://arxiv.org/abs/2401.03629) · [PDF](https://arxiv.org/pdf/2401.03629) | rule-assigned |
 | 2023-12-07 | Trajeglish: Traffic Modeling as Next-Token Prediction | Jonah Philion, Xue Bin Peng, Sanja Fidler | [Abstract](https://arxiv.org/abs/2312.04535) · [PDF](https://arxiv.org/pdf/2312.04535) | rule-assigned |
-| 2023-10-30 | Large Trajectory Models are Scalable Motion Predictors and Planners | Qiao Sun, Shiduo Zhang, Danjiao Ma, Jingzhe Shi et al. | [Abstract](https://arxiv.org/abs/2310.19620) · [PDF](https://arxiv.org/pdf/2310.19620) | rule-assigned |
 
 ---
 

@@ -1,12 +1,12 @@
 # Terrain & Footstep Planning · 复杂地形与落脚规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Terrain%20%26%20Footstep%20Planning#research-workbench)
 
-> 12 conference papers · 39 recent arXiv papers
+> 12 conference papers · 40 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -37,11 +37,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Anisotropic-Stiffness Belt in Mono wheeled Flexible Track for Rough Terrain Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9981247) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981247) | rule-assigned |
 | 2022 | Elevation Mapping for Locomotion and Navigation using GPU | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2204.12876) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981507) | rule-assigned |
 
-## Recent arXiv papers (39)
+## Recent arXiv papers (40)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
 | 2026-10-27 | TACOS: Terrain-Aware COntact Supervision for Visual Footstep Planning | Jean-Michel Fortin, William Larrivée-Hardy, Gabriel Jeanson, Olivier Gamache et al. | [Abstract](https://arxiv.org/abs/2610.37806) · [PDF](https://arxiv.org/pdf/2610.37806) | rule-assigned |
+| 2026-10-21 | Do Earth-Trained Humanoid Controllers Walk on the Moon? Gravity, Terrain, and Soil Transfer | Guillem Casadesus Vila, Sri Aditya Deevi, Grace X. Gao | [Abstract](https://arxiv.org/abs/2610.30080) · [PDF](https://arxiv.org/pdf/2610.30080) | rule-assigned |
 | 2026-09-25 | Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators | Zachary Olkin, William D. Compton, Aaron D. Ames | [Abstract](https://arxiv.org/abs/2609.31577) · [PDF](https://arxiv.org/pdf/2609.31577) | rule-assigned |
 | 2026-09-18 | FootQuery: Future-Touchdown-Guided Retrieval from Depth History for Perceptive Humanoid Locomotion | Tao Dong, Jia Yu, Yuxuan Fan, Linna Zhao et al. | [Abstract](https://arxiv.org/abs/2609.21447) · [PDF](https://arxiv.org/pdf/2609.21447) | rule-assigned |
 | 2026-09-16 | Learning Safe Humanoid Navigation from Reduced Order Models | William D. Compton, Zachary Olkin, Ryan Bena, Aaron D. Ames | [Abstract](https://arxiv.org/abs/2609.19272) · [PDF](https://arxiv.org/pdf/2609.19272) | rule-assigned |

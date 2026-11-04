@@ -1,12 +1,12 @@
 # Vision-Language Navigation · 视觉语言导航
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Goal%20%26%20Language%20Navigation&specialty=Vision-Language%20Navigation#research-workbench)
 
-> 33 conference papers · 270 recent arXiv papers
+> 33 conference papers · 271 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -58,10 +58,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Depth-Aware Vision-and-Language Navigation using Scene Query Attention Network | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811921) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811921) | rule-assigned |
 | 2022 | Weakly-Supervised Multi-Granularity Map Learning for Vision-and-Language Navigation | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.07506) · [Index](https://dblp.org/rec/conf/nips/ChenJLZLTG22) | rule-assigned |
 
-## Recent arXiv papers (270)
+## Recent arXiv papers (271)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | WayTrace: A Map-to-Language-to-Trace Hierarchy for Embodied Urban Navigation | Manthan Patel, Jonas Frey, Pascal Roth, Marco Hutter et al. | [Abstract](https://arxiv.org/abs/2611.05129) · [PDF](https://arxiv.org/pdf/2611.05129) | rule-assigned |
 | 2026-10-29 | Ask to Evolve: A Unified Harness for Lifelong Embodied Navigation with Hybrid Action Space and Persistent Memory | Kai Sheng, Liuyi Wang, Jinlong Li, Haojie Dai et al. | [Abstract](https://arxiv.org/abs/2610.39446) · [PDF](https://arxiv.org/pdf/2610.39446) | rule-assigned |
 | 2026-10-28 | What Should a Navigator Remember? Spatiotemporal Memory for Zero-Shot Vision-Language Navigation | Yuhang Peng, Zhikai Wang, Ziyi Wang, Jiaru Zhong et al. | [Abstract](https://arxiv.org/abs/2610.38318) · [PDF](https://arxiv.org/pdf/2610.38318) | rule-assigned |
 | 2026-10-28 | MATCH: Execution-Aware Hierarchical Reinforcement Learning for Vision-and-Language Navigation in Continuous Environment | Shuhao Ye, Yufei Wei, Demao Wang, Shichao Zhai et al. | [Abstract](https://arxiv.org/abs/2610.38248) · [PDF](https://arxiv.org/pdf/2610.38248) | rule-assigned |

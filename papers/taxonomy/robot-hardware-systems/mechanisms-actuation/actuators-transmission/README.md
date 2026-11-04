@@ -1,12 +1,12 @@
 # Actuators & Transmission · 执行器与传动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Actuators%20%26%20Transmission#research-workbench)
 
-> 47 conference papers · 332 recent arXiv papers
+> 47 conference papers · 336 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -72,10 +72,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Agile Hybrid Whole-body Motor Skills for Thruster-Aided Humanoid Robots | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9981974) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981974) | rule-assigned |
 | 2022 | Omnidirectional walking of a quadruped robot enabled by compressible tendon-driven soft actuators | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981314) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981314) | rule-assigned |
 
-## Recent arXiv papers (332)
+## Recent arXiv papers (336)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | PACT: Pose-Robust Actuation Co-Design for Tendon-Driven Robotic Hands | Prashant Kumar, Rachael Granberry, Taylor Niehues, Andrew A. Stanley et al. | [Abstract](https://arxiv.org/abs/2611.05302) · [PDF](https://arxiv.org/pdf/2611.05302) | rule-assigned |
+| 2026-11-02 | Towards end-to-end co-design for one-shot printable task-specific soft robots | James Wood, André Farinha, Will Browne, Josh Pinskier et al. | [Abstract](https://arxiv.org/abs/2611.03216) · [PDF](https://arxiv.org/pdf/2611.03216) | rule-assigned |
+| 2026-11-02 | Neuro Inspired Robotics: What Robot Learning Can Borrow from the Sensorimotor Brain | Ruihan Zhang, Davy Deng | [Abstract](https://arxiv.org/abs/2611.02510) · [PDF](https://arxiv.org/pdf/2611.02510) | rule-assigned |
+| 2026-10-30 | Joint-Health-Aware Reinforcement Learning for Robust Robot Control Under Actuator Degradation | Haifa Zhang, Yijing Wang, Zhiqiang Zuo | [Abstract](https://arxiv.org/abs/2610.41348) · [PDF](https://arxiv.org/pdf/2610.41348) | rule-assigned |
 | 2026-10-29 | CuBot-STT: Simultaneously Transport and Tighten for Lattice-type Modular Reconfiguration Robot | Chongxi Meng, Da Zhao, Yanmin Zhou, Runjie Shen et al. | [Abstract](https://arxiv.org/abs/2610.39279) · [PDF](https://arxiv.org/pdf/2610.39279) | rule-assigned |
 | 2026-10-26 | How Tuning, Reference Preview, Actuator Modeling, and Fallback Policies Change Quadrotor Controller Comparisons: A Reproducible Simulation Study | Xuan-Quy Dao, Le-Minh Nguyen, Ngoc-Bich Le | [Abstract](https://arxiv.org/abs/2610.35165) · [PDF](https://arxiv.org/pdf/2610.35165) | rule-assigned |
 | 2026-10-22 | IORA: Irregular Object Immobilization under Restricted Actuation | Sang-Hun Han, Changyeon Won, JunGyu Lee, Min-Gyu Park et al. | [Abstract](https://arxiv.org/abs/2610.30969) · [PDF](https://arxiv.org/pdf/2610.30969) | rule-assigned |
@@ -86,6 +90,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-10-16 | Hardware-as-Regularization: Enhancing Data Consistency in Imitation Learning via an Adjustable Passive Compliant Leader Arm | Hideyuki Ichiwara, Yushi Kaida, Hirokazu Ishida | [Abstract](https://arxiv.org/abs/2610.22977) · [PDF](https://arxiv.org/pdf/2610.22977) | rule-assigned |
 | 2026-10-14 | Enabling Tidying Tasks in Robotic Vacuum Cleaners via a Geometry-Induced Self-Locking Deployable Linkage | Eunseok Song, Jinwoong Kim, Sohee Lim, Taehyeong Kim et al. | [Abstract](https://arxiv.org/abs/2610.20150) · [PDF](https://arxiv.org/pdf/2610.20150) | rule-assigned |
 | 2026-10-13 | Sim4RAD: A MATLAB Toolkit for Design-Phase Sizing, Actuator Selection and URDF-Model Verification of Serial Robotic Arms | Jingchen Li | [Abstract](https://arxiv.org/abs/2610.17534) · [PDF](https://arxiv.org/pdf/2610.17534) | rule-assigned |
+| 2026-10-13 | DiffGIPC: Differentiable Mixed-Coordinate Contact Mechanics on GPU | Kemeng Huang, Bowen Ren, Xinyu Lu, Minchen Li et al. | [Abstract](https://arxiv.org/abs/2610.19091) · [PDF](https://arxiv.org/pdf/2610.19091) | rule-assigned |
 | 2026-10-13 | Contact-UAN: Unsupervised Actuator Networks as a Residual World Model for Humanoid Control | Nolan Fey, Khai Nguyen, Yash Prabhu, Gabriel B. Margolis et al. | [Abstract](https://arxiv.org/abs/2610.18991) · [PDF](https://arxiv.org/pdf/2610.18991) | rule-assigned |
 | 2026-10-12 | Extending Wire-Driven Parallel Robots to Multi-Floating-Link Systems with an Inter-Body Wire | Shintaro Inoue, Kento Kawaharazuka, Temma Suzuki, Sota Yuzaki et al. | [Abstract](https://arxiv.org/abs/2610.16173) · [PDF](https://arxiv.org/pdf/2610.16173) | rule-assigned |
 | 2026-10-12 | Design and Analysis of a Nonlinear Parallel Mechanism Coupling for Dynamic Humanoid Legs | Rohit Kumar, Heiner Peters, Felix Wiebe, Franek Stark et al. | [Abstract](https://arxiv.org/abs/2610.16604) · [PDF](https://arxiv.org/pdf/2610.16604) | rule-assigned |
@@ -407,7 +412,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-07 | Rapid Motor Adaptation for Robotic Manipulator Arms | Yichao Liang, Kevin Ellis, João Henriques | [Abstract](https://arxiv.org/abs/2312.04670) · [PDF](https://arxiv.org/pdf/2312.04670) | rule-assigned |
 | 2023-11-23 | Responsive Hydrogel-based Modular Microrobots for Multi-functional Micromanipulation | Liyuan Tan, David J. Cappelleri | [Abstract](https://arxiv.org/abs/2311.13809) · [PDF](https://arxiv.org/pdf/2311.13809) | rule-assigned |
 | 2023-11-06 | Reconfigurable, Transformable Soft Pneumatic Actuator with Tunable 3D Deformations for Dexterous Soft Robotics Applications | Dickson Chiu Yu Wong, Mingtan Li, Shijie Kang, Lifan Luo et al. | [Abstract](https://arxiv.org/abs/2311.03032) · [PDF](https://arxiv.org/pdf/2311.03032) | rule-assigned |
-| 2023-11-02 | Learning to See Physical Properties with Active Sensing Motor Policies | Gabriel B. Margolis, Xiang Fu, Yandong Ji, Pulkit Agrawal | [Abstract](https://arxiv.org/abs/2311.01405) · [PDF](https://arxiv.org/pdf/2311.01405) | rule-assigned |
 
 ---
 

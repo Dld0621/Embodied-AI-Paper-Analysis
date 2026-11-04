@@ -1,12 +1,12 @@
 # Domain Randomization · 域随机化
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Sim-to-real%20Transfer&specialty=Domain%20Randomization#research-workbench)
 
-> 6 conference papers · 10 recent arXiv papers
+> 6 conference papers · 9 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -31,7 +31,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Domain Randomization for Robust, Affordable and Effective Closed-Loop Control of Soft Robots | IROS · Domain Randomization | [Paper](https://arxiv.org/pdf/2303.04136) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342537) | rule-assigned |
 | 2022 | Conditional Patch-Based Domain Randomization: Improving Texture Domain Randomization Using Natural Image Patches | IROS · Domain Randomization | [Paper](https://pure-oai.bham.ac.uk/ws/files/177697714/IROS_2022_CPDR_Camera_Ready_Submitted_Version.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981381) | rule-assigned |
 
-## Recent arXiv papers (10)
+## Recent arXiv papers (9)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -44,7 +44,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-04-30 | One Net to Rule Them All: Domain Randomization in Quadcopter Racing Across Different Platforms | Robin Ferede, Till Blaha, Erin Lucassen, Christophe De Wagter et al. | [Abstract](https://arxiv.org/abs/2504.21586) · [PDF](https://arxiv.org/pdf/2504.21586) | rule-assigned |
 | 2025-02-03 | Flow-based Domain Randomization for Learning and Sequencing Robotic Skills | Aidan Curtis, Eric Li, Michael Noseworthy, Nishad Gothoskar et al. | [Abstract](https://arxiv.org/abs/2502.01800) · [PDF](https://arxiv.org/pdf/2502.01800) | rule-assigned |
 | 2024-03-18 | Continual Domain Randomization | Josip Josifovski, Sayantan Auddy, Mohammadhossein Malmir, Justus Piater et al. | [Abstract](https://arxiv.org/abs/2403.12193) · [PDF](https://arxiv.org/pdf/2403.12193) | rule-assigned |
-| 2023-11-03 | Domain Randomization via Entropy Maximization | Gabriele Tiboni, Pascal Klink, Jan Peters, Tatiana Tommasi et al. | [Abstract](https://arxiv.org/abs/2311.01885) · [PDF](https://arxiv.org/pdf/2311.01885) | rule-assigned |
 
 ---
 

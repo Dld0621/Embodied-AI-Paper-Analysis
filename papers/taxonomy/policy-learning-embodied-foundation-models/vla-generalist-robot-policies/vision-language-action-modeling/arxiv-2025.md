@@ -1,7 +1,7 @@
 # Vision-Language-Action Modeling · 视觉语言动作建模 · arXiv 2025
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
@@ -116,7 +116,7 @@
 | 2025-11-03 | PixelVLA: Advancing Pixel-level Understanding in Vision-Language-Action Model | Wenqi Liang, Gan Sun, Yao He, Jiahua Dong et al. | [Abstract](https://arxiv.org/abs/2511.01571) · [PDF](https://arxiv.org/pdf/2511.01571) | rule-assigned |
 | 2025-11-03 | OmniVLA: Physically-Grounded Multimodal VLA with Unified Multi-Sensor Perception for Robotic Manipulation | Heyu Guo, Shanmu Wang, Ruichun Ma, Shiqi Jiang et al. | [Abstract](https://arxiv.org/abs/2511.01210) · [PDF](https://arxiv.org/pdf/2511.01210) | rule-assigned |
 | 2025-11-03 | Embodiment Transfer Learning for Vision-Language-Action Models | Chengmeng Li, Yaxin Peng | [Abstract](https://arxiv.org/abs/2511.01224) · [PDF](https://arxiv.org/pdf/2511.01224) | rule-assigned |
-| 2025-11-02 | Maestro: Orchestrating Robotics Modules with Vision-Language Models for Zero-Shot Generalist Robots | Junyao Shi, Rujia Yang, Kaitian Chao, Selina Bingqing Wan et al. | [Abstract](https://arxiv.org/abs/2511.00917) · [PDF](https://arxiv.org/pdf/2511.00917) | rule-assigned |
+| 2025-11-02 | MAESTRO: Orchestrating Robotics Modules with Coding Agents for Zero-Shot Generalist Robots | Junyao Shi, Rujia Yang, Kaitian Chao, Selina Bingqing Wan et al. | [Abstract](https://arxiv.org/abs/2511.00917) · [PDF](https://arxiv.org/pdf/2511.00917) | rule-assigned |
 | 2025-11-01 | iFlyBot-VLA Technical Report | Yuan Zhang, Chenyu Xue, Wenjie Xu, Chao Ji et al. | [Abstract](https://arxiv.org/abs/2511.01914) · [PDF](https://arxiv.org/pdf/2511.01914) | rule-assigned |
 | 2025-10-31 | Foundation Models for Trajectory Planning in Autonomous Driving: A Review of Progress and Open Challenges | Kemal Oksuz, Alexandru Buburuzan, Anthony Knittel, Yuhan Yao et al. | [Abstract](https://arxiv.org/abs/2512.00021) · [PDF](https://arxiv.org/pdf/2512.00021) | rule-assigned |
 | 2025-10-31 | EBT-Policy: Energy Unlocks Emergent Physical Reasoning Capabilities | Travis Davies, Yiqi Huang, Alexi Gladstone, Yunxin Liu et al. | [Abstract](https://arxiv.org/abs/2510.27545) · [PDF](https://arxiv.org/pdf/2510.27545) | rule-assigned |

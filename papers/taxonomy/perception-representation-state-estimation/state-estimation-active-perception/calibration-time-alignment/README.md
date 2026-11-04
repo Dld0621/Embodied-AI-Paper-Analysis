@@ -1,12 +1,12 @@
 # Calibration & Time Alignment · 标定与时间对齐
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=State%20Estimation%20%26%20Active%20Perception&specialty=Calibration%20%26%20Time%20Alignment#research-workbench)
 
-> 4 conference papers · 164 recent arXiv papers
+> 4 conference papers · 166 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,10 +29,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | MEMROC: Multi-Eye to Mobile RObot Calibration | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2410.08805) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801771) | rule-assigned |
 | 2023 | Ego-Noise Reduction of a Mobile Robot Using Noise Spatial Covariance Matrix Learning and Minimum Variance Distortionless Response | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2303.00829) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342193) | rule-assigned |
 
-## Recent arXiv papers (164)
+## Recent arXiv papers (166)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-02 | SyncHeC: Markerless Spatio-Temporal Hand-Eye Calibration via Differentiable Rendering and Continuous-Time Joint Optimization | Zhengdong Hong | [Abstract](https://arxiv.org/abs/2611.02999) · [PDF](https://arxiv.org/pdf/2611.02999) | rule-assigned |
+| 2026-11-02 | AnchorHEC: Targetless Hand-Eye Calibration of Wrist and Fixed Cameras | Guebin Hwang, Taeyeop Lee, Yeonseo Lee, Hyosup Shin et al. | [Abstract](https://arxiv.org/abs/2611.02884) · [PDF](https://arxiv.org/pdf/2611.02884) | rule-assigned |
+| 2026-10-30 | Physically Constrained Kinematic Calibration for High-Precision Robotic Needle Guidance | Prabhu Nithin Gollapudi, Andreas Maier, Franziska Mathis-Ullrich, Water Zhao et al. | [Abstract](https://arxiv.org/abs/2610.41429) · [PDF](https://arxiv.org/pdf/2610.41429) | rule-assigned |
 | 2026-10-29 | Language-Grounded Force/Torque Pretraining for Extrinsic Contact Perception | Kazuki Takahashi, Hiroaki Murakami, Ryota Sakuma, Mitsuhiro Kamezaki et al. | [Abstract](https://arxiv.org/abs/2610.39314) · [PDF](https://arxiv.org/pdf/2610.39314) | rule-assigned |
 | 2026-10-28 | Same Label, Different Interface: Beyond Action-Space Labels in Robot Learning | Arshia Sangwan, Zhongyang Zhang | [Abstract](https://arxiv.org/abs/2610.38104) · [PDF](https://arxiv.org/pdf/2610.38104) | rule-assigned |
 | 2026-10-20 | VeriCalib: Verifiable Target-Based LiDAR-Camera Calibration | Xiangcheng Hu, Xieyuanli Chen, Feiyi Chen, Shengli Ren et al. | [Abstract](https://arxiv.org/abs/2610.28791) · [PDF](https://arxiv.org/pdf/2610.28791) | rule-assigned |
@@ -196,7 +199,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-21 | Hand-Eye Calibration | Radu Horaud, Fadi Dornaika | [Abstract](https://arxiv.org/abs/2311.12655) · [PDF](https://arxiv.org/pdf/2311.12655) | rule-assigned |
 | 2023-11-20 | Robot Hand-Eye Calibration using Structure-from-Motion | Nicolas Andreff, Radu Horaud, Bernard Espiau | [Abstract](https://arxiv.org/abs/2311.11808) · [PDF](https://arxiv.org/pdf/2311.11808) | rule-assigned |
 | 2023-11-07 | Self-Contained and Automatic Calibration of a Multi-Fingered Hand Using Only Pairwise Contact Measurements | Johannes Tenhumberg, Leon Sievers, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2311.03957) · [PDF](https://arxiv.org/pdf/2311.03957) | rule-assigned |
-| 2023-11-02 | Automatic Robot Hand-Eye Calibration Enabled by Learning-Based 3D Vision | Leihui Li, Xingyu Yang, Riwei Wang, Xuping Zhang | [Abstract](https://arxiv.org/abs/2311.01335) · [PDF](https://arxiv.org/pdf/2311.01335) | rule-assigned |
 
 ---
 

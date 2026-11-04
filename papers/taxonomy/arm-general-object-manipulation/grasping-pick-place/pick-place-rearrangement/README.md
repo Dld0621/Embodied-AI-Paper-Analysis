@@ -1,7 +1,7 @@
 # Pick-place & Rearrangement · 拾放与物体重排
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Grasping%20%26%20Pick-place&specialty=Pick-place%20%26%20Rearrangement#research-workbench)
@@ -123,6 +123,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | VARP: A Visual Adaptive Rearrangement Planner for Non-Monotone Object Rearrangement Planning | Hanwen Ren, Meng Zheng, Zhongpai Gao, Anwesa Choudhuri et al. | [Abstract](https://arxiv.org/abs/2611.04093) · [PDF](https://arxiv.org/pdf/2611.04093) | rule-assigned |
+| 2026-11-03 | HLO-AMP: Hierarchical Loco-Manipulation from Object-Aware Motion Priors | Jean-Pierre Sleiman, Bilal Hammoud, He Li, Jonathan Foster et al. | [Abstract](https://arxiv.org/abs/2611.05113) · [PDF](https://arxiv.org/pdf/2611.05113) | rule-assigned |
 | 2026-10-26 | Learning Multi-Phase Robot Loco-Manipulation via Phase-Conditioned Policy Optimization | Simone Manni, Annika Wollschläger, Dario Bellicoso, Abel Gawel et al. | [Abstract](https://arxiv.org/abs/2610.36270) · [PDF](https://arxiv.org/pdf/2610.36270) | rule-assigned |
 | 2026-10-20 | UniWALM: Unified World Action Language Model for Embodied Robot Control | Rahul Sajnani, Diego Romeres, Mingyuan Zhang, Kai Gao et al. | [Abstract](https://arxiv.org/abs/2610.28626) · [PDF](https://arxiv.org/pdf/2610.28626) | rule-assigned |
 | 2026-10-19 | Long-Horizon Multi-Object Rearrangement via Distilled Tree Search over Continuous Actions | Kallol Saha, Yining Hong, Amber Li, Yejin Choi et al. | [Abstract](https://arxiv.org/abs/2610.25785) · [PDF](https://arxiv.org/pdf/2610.25785) | rule-assigned |
@@ -328,8 +330,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-04 | Working Backwards: Learning to Place by Picking | Oliver Limoyo, Abhisek Konar, Trevor Ablett, Jonathan Kelly et al. | [Abstract](https://arxiv.org/abs/2312.02352) · [PDF](https://arxiv.org/pdf/2312.02352) | rule-assigned |
 | 2023-12-03 | LVDiffusor: Distilling Functional Rearrangement Priors from Large Models into Diffusor | Yiming Zeng, Mingdong Wu, Long Yang, Jiyao Zhang et al. | [Abstract](https://arxiv.org/abs/2312.01474) · [PDF](https://arxiv.org/pdf/2312.01474) | rule-assigned |
 | 2023-11-10 | GOAT: GO to Any Thing | Matthew Chang, Theophile Gervet, Mukul Khanna, Sriram Yenamandra et al. | [Abstract](https://arxiv.org/abs/2311.06430) · [PDF](https://arxiv.org/pdf/2311.06430) | rule-assigned |
-| 2023-11-03 | RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches | Jiayuan Gu, Sean Kirmani, Paul Wohlhart, Yao Lu et al. | [Abstract](https://arxiv.org/abs/2311.01977) · [PDF](https://arxiv.org/pdf/2311.01977) | rule-assigned |
-| 2023-11-02 | M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place | Wentao Yuan, Adithyavairavan Murali, Arsalan Mousavian, Dieter Fox | [Abstract](https://arxiv.org/abs/2311.00926) · [PDF](https://arxiv.org/pdf/2311.00926) | rule-assigned |
 
 ---
 

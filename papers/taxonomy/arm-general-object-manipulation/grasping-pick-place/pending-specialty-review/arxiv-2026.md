@@ -1,15 +1,32 @@
 # Pending specialty review · 待审专题 · arXiv 2026
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 612 papers · complete list for this taxonomy leaf
+> 629 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | Grasping and Stabilizing Tumbling Objects with Rotating-Base Multi-Arm Space Manipulators | Farhad Aghili | [Abstract](https://arxiv.org/abs/2611.04176) · [PDF](https://arxiv.org/pdf/2611.04176) | needs-review |
+| 2026-11-03 | Action Intent as a Bridge: Transferring Manipulation Knowledge from Human-Centric Videos to Robots | Zhiqian Xia, Lianyang Ma, Haifeng Xia, Siyu Xia et al. | [Abstract](https://arxiv.org/abs/2611.04522) · [PDF](https://arxiv.org/pdf/2611.04522) | needs-review |
+| 2026-11-02 | VerifLM: Physically Verified Image-Edit-Guided Goal Pose Generation for Robotic Manipulation | Xuanyou Chen, Jinyu Chen, Glen Chou | [Abstract](https://arxiv.org/abs/2611.03268) · [PDF](https://arxiv.org/pdf/2611.03268) | needs-review |
+| 2026-11-02 | SomaAlign: Reliability-Aware Multimodal Representation Learning for Soft Robotic Grasping | Haoyuan Wang, Shuai Peng, Yongkai Liao, Yuxiao Sun et al. | [Abstract](https://arxiv.org/abs/2611.02794) · [PDF](https://arxiv.org/pdf/2611.02794) | needs-review |
+| 2026-11-02 | Self-Consistent Neural Control: Learning Trajectories for Implicit Equilibrium | Hengyi Zhou, Haobo Fang, Xiaonan Huang, Dezhong Tong et al. | [Abstract](https://arxiv.org/abs/2611.03885) · [PDF](https://arxiv.org/pdf/2611.03885) | needs-review |
+| 2026-11-02 | PointPilot: Unified Robotic Manipulation via Object-Centric 3D Point Flow Prediction | Yihan Fang, Yuxin Tian, Ruixiang Wang, Zhanqi Zhang et al. | [Abstract](https://arxiv.org/abs/2611.02930) · [PDF](https://arxiv.org/pdf/2611.02930) | needs-review |
+| 2026-11-02 | HeLM: Hierarchical Explicit Language Memory for Non-Markovian Manipulation | Gyeonghun Kim, Donghoon Kim, Minsoo Choi, Suyun Lee | [Abstract](https://arxiv.org/abs/2611.02660) · [PDF](https://arxiv.org/pdf/2611.02660) | needs-review |
+| 2026-11-01 | Human Sensorimotor Model Adaptation to Account for Robot Accuracy and Speed Augmentation in Human-Robot Co-Manipulation | Frits van Hall, Kevin Haninger, Luka Peternel | [Abstract](https://arxiv.org/abs/2611.02181) · [PDF](https://arxiv.org/pdf/2611.02181) | needs-review |
+| 2026-10-31 | Shades of Success: Evaluating Manipulation Quality from Object-Centric Constraints | Lorena Maria Genua, Sarvesh Prajapati, Ananya Trivedi, Taskin Padir | [Abstract](https://arxiv.org/abs/2611.01250) · [PDF](https://arxiv.org/pdf/2611.01250) | needs-review |
+| 2026-10-31 | PREM: Prediction-Regulated Memory for Robot Manipulation | Xiao Huang, Ya Zhang, Weidi Xie | [Abstract](https://arxiv.org/abs/2611.00634) · [PDF](https://arxiv.org/pdf/2611.00634) | needs-review |
+| 2026-10-31 | Generalizable robotic manipulation through compositional skill reuse | Hao Ren, Shuohan Chen, Senyuan Mu, Ruihan Huang et al. | [Abstract](https://arxiv.org/abs/2611.00978) · [PDF](https://arxiv.org/pdf/2611.00978) | needs-review |
+| 2026-10-30 | TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents | Kehong Gong, Xiaoxu Zheng, Guanli Hou, Seunghun Lee et al. | [Abstract](https://arxiv.org/abs/2610.41216) · [PDF](https://arxiv.org/pdf/2610.41216) | needs-review |
+| 2026-10-30 | TacMind: Benchmarking and Modeling Tactile Interaction States for Robotic Manipulation | Jiaxin Shi, Zibin Wu, Yichi Zhang, Jianghua Duan et al. | [Abstract](https://arxiv.org/abs/2611.00455) · [PDF](https://arxiv.org/pdf/2611.00455) | needs-review |
+| 2026-10-30 | RTPolicy: Real-Time (32.9 Hz) Multi-View Visuomotor Policy for Robotic Manipulation on Edge Devices | Xianbao Hou, Zehao Ni, Yonghao He, Lingfeng Qian et al. | [Abstract](https://arxiv.org/abs/2610.41625) · [PDF](https://arxiv.org/pdf/2610.41625) | needs-review |
+| 2026-10-30 | MolmoSpaces-CommonSense: Evaluating Commonsense in Robotic Manipulation Policies | Arjun Guru, Max Argus, Jae Sung Park, Jiafei Duan et al. | [Abstract](https://arxiv.org/abs/2610.41377) · [PDF](https://arxiv.org/pdf/2610.41377) | needs-review |
+| 2026-10-30 | Learning from Physical Experience:Context-Space Adaptation for Robotic Manipulation | Yihan Zeng, Yisu Li, Kaixin Huang, Marc WuDunn et al. | [Abstract](https://arxiv.org/abs/2610.41320) · [PDF](https://arxiv.org/pdf/2610.41320) | needs-review |
+| 2026-10-30 | Flexibility-Aware Robotic Manipulation: Deformation Estimation, Kinematics, and Control via Distributed Inertial Measurement | Amir Hossein Barjini, Sadeq Yaqubi, Pauli Mustalahti, Jouni Mattila | [Abstract](https://arxiv.org/abs/2610.41702) · [PDF](https://arxiv.org/pdf/2610.41702) | needs-review |
 | 2026-10-29 | SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors | Fnu Aryan, Yaqi Xie, Joseph Campbell, Woojun Kim et al. | [Abstract](https://arxiv.org/abs/2610.40632) · [PDF](https://arxiv.org/pdf/2610.40632) | needs-review |
 | 2026-10-29 | Improving Fine-Grained Manipulation through Demonstration Expansion and Execution Design | Jingxu Gu, Dongze Lian | [Abstract](https://arxiv.org/abs/2610.40430) · [PDF](https://arxiv.org/pdf/2610.40430) | needs-review |
 | 2026-10-28 | Skeleton-Guided Geometry-Aware Auto-Labeling for Robotic Grasping: From 4-DoF Learning to 6-DoF Execution | Ali Sabzejou, Farbod Azimmohseni, Mehdi Tale Masouleh, Ahmad Kalhor | [Abstract](https://arxiv.org/abs/2610.38443) · [PDF](https://arxiv.org/pdf/2610.38443) | needs-review |
@@ -215,7 +232,7 @@
 | 2026-09-04 | GE-Act 2.0: Pretraining and Scaling a World-Action Model for Robotic Manipulation | Renhang Liu, Wenzhi Zhao, Zhuo Yang, Liliang Chen et al. | [Abstract](https://arxiv.org/abs/2609.05588) · [PDF](https://arxiv.org/pdf/2609.05588) | needs-review |
 | 2026-09-03 | MINERVA: How Small Can a Manipulation Policy Be and Still Solve LIBERO? | Kohei Sendai, Tatsuya Matsushima, Yusuke Iwasawa | [Abstract](https://arxiv.org/abs/2609.03715) · [PDF](https://arxiv.org/pdf/2609.03715) | needs-review |
 | 2026-09-02 | Real-Time Dynamics-Based Torque-Sampling MPPI for Compliant and Force Aware Manipulation | Euncheol Im, Taehyun Kim, Yonghwan Oh, Myotaeg Lim et al. | [Abstract](https://arxiv.org/abs/2609.02020) · [PDF](https://arxiv.org/pdf/2609.02020) | needs-review |
-| 2026-09-02 | Learning Manipulation-Sufficient Representations via Outcome Bottlenecks | Md Selim Sarowar, Sungho Kim | [Abstract](https://arxiv.org/abs/2609.13235) · [PDF](https://arxiv.org/pdf/2609.13235) | needs-review |
+| 2026-09-02 | Pose accuracy is not grasp reliability: residual pose posteriors improve simulated robotic grasp planning | Md Selim Sarowar, Sungho Kim | [Abstract](https://arxiv.org/abs/2609.13235) · [PDF](https://arxiv.org/pdf/2609.13235) | needs-review |
 | 2026-09-02 | HINT: Human-Intent Inception for Long-Horizon Robot Manipulation | Mingyu Mei, Haojie Xu, Shihao Jin, Zibo Dai et al. | [Abstract](https://arxiv.org/abs/2609.02653) · [PDF](https://arxiv.org/pdf/2609.02653) | needs-review |
 | 2026-09-01 | One Demonstration, Many Objects: Generalizing Manipulation via Local Contact Geometry | Satvik Sharma, Samrat Sahoo, Huang Huang, Fei-Fei Li et al. | [Abstract](https://arxiv.org/abs/2609.01938) · [PDF](https://arxiv.org/pdf/2609.01938) | needs-review |
 | 2026-08-31 | Zeva: In-Context Causal Learning for Generalizable Embodied Manipulation | Fu Chen, Xin Ding, Bingjia Huang, Xiangyu Li et al. | [Abstract](https://arxiv.org/abs/2608.30880) · [PDF](https://arxiv.org/pdf/2608.30880) | needs-review |

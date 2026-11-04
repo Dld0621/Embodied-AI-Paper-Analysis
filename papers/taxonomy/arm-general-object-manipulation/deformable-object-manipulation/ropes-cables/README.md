@@ -1,7 +1,7 @@
 # Ropes & Cables · 绳索与线缆
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation&specialty=Ropes%20%26%20Cables#research-workbench)
@@ -36,7 +36,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
-| 2026-10-25 | PS-DLO: Property- and Spatially Aware Deformable Linear Object Manipulation Policy | Mengdi Li, Boxian Yao, Xiyu Zhu, Yifan Yang et al. | [Abstract](https://arxiv.org/abs/2610.34147) · [PDF](https://arxiv.org/pdf/2610.34147) | rule-assigned |
+| 2026-10-25 | PS-DLO: Property- and Spatially Aware Deformable Linear Object Manipulation Policy | Mengdi Li, Boxian Yao, Xiyu Zhu, Yunfan Lou et al. | [Abstract](https://arxiv.org/abs/2610.34147) · [PDF](https://arxiv.org/pdf/2610.34147) | rule-assigned |
 | 2026-10-24 | POD-RoPE: Rotary Position Encoding over Physical Observation Distributions for Embodied AI | Xiaodi Huang, Zilin Wang, Jinpeng Liu, Pengchuan Xiao et al. | [Abstract](https://arxiv.org/abs/2610.33745) · [PDF](https://arxiv.org/pdf/2610.33745) | rule-assigned |
 | 2026-10-22 | Multimodal MPC via Bayesian Set Optimization for Dynamic Manipulation of Deformable Linear Objects | Youyuan Long, Gokhan Solak, Arash Ajoudani | [Abstract](https://arxiv.org/abs/2610.31852) · [PDF](https://arxiv.org/pdf/2610.31852) | rule-assigned |
 | 2026-10-15 | RoPE-Flow: Monocular Vision-based Robot Pose Estimation via 2D Graph-Conditioned 3D Flow Matching | Liangjing Shao, Wanhao Liu, Zhiwei Fang, Rulin Zhou et al. | [Abstract](https://arxiv.org/abs/2610.21086) · [PDF](https://arxiv.org/pdf/2610.21086) | rule-assigned |

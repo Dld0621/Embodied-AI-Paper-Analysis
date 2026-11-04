@@ -1,7 +1,7 @@
 # Hands, Grippers & Arms · 手、夹爪与机械臂设计
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Hands%2C%20Grippers%20%26%20Arms#research-workbench)
@@ -31,6 +31,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-02 | MABEL: An Open Anthropomorphic Mobile Bimanual Platform for Teleoperation and Learning | Qilong Cheng, Rooholla Khorrambakht, Mohamed Yassine Kabouri, Quang Nam Nguyen et al. | [Abstract](https://arxiv.org/abs/2611.04083) · [PDF](https://arxiv.org/pdf/2611.04083) | reviewed |
 | 2026-10-29 | SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing | Yunchu Zhang, Ray Song, Junhan Jiao, Liyiming Ke et al. | [Abstract](https://arxiv.org/abs/2610.40646) · [PDF](https://arxiv.org/pdf/2610.40646) | reviewed |
 | 2026-10-13 | PACT: Posture-Aligned Co-Design Technique for Hand Configuration and Retargeting in Multi-Finger Imitation Learning | Koyo Sasazaki, Satoshi Funabashi, Pranav Ponnivalavan, Alexander Schmitz et al. | [Abstract](https://arxiv.org/abs/2610.18443) · [PDF](https://arxiv.org/pdf/2610.18443) | reviewed |
 | 2026-10-13 | Force Sensor-Based Picking Pattern Analysis and Two-Jaw Gripper Design for Cherry Tomato Robotic Harvesting in Greenhouse | Rajmeet Singh, Manveen Kaur, Yusuf Adamu, Irfan Hussain | [Abstract](https://arxiv.org/abs/2610.18160) · [PDF](https://arxiv.org/pdf/2610.18160) | rule-assigned |
@@ -50,7 +51,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-02-23 | Dynamics-Guided Diffusion Model for Sensor-less Robot Manipulator Design | Xiaomeng Xu, Huy Ha, Shuran Song | [Abstract](https://arxiv.org/abs/2402.15038) · [PDF](https://arxiv.org/pdf/2402.15038) | rule-assigned |
 | 2024-01-19 | G.O.G: A Versatile Gripper-On-Gripper Design for Bimanual Cloth Manipulation with a Single Robotic Arm | Dongmyoung Lee, Wei Chen, Xiaoshuai Chen, Nicolas Rojas | [Abstract](https://arxiv.org/abs/2401.10702) · [PDF](https://arxiv.org/pdf/2401.10702) | rule-assigned |
 | 2023-12-08 | BaRiFlex: A Robotic Gripper with Versatility and Collision Robustness for Robot Learning | Gu-Cheol Jeong, Arpit Bahety, Gabriel Pedraza, Ashish D. Deshpande et al. | [Abstract](https://arxiv.org/abs/2312.05323) · [PDF](https://arxiv.org/pdf/2312.05323) | rule-assigned |
-| 2023-11-01 | A Modular Pneumatic Soft Gripper Design for Aerial Grasping and Landing | Hiu Ching Cheung, Ching-Wei Chang, Bailun Jiang, Chih-Yung Wen et al. | [Abstract](https://arxiv.org/abs/2311.00390) · [PDF](https://arxiv.org/pdf/2311.00390) | rule-assigned |
 
 ---
 

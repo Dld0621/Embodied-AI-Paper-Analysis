@@ -585,6 +585,108 @@
     "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: UMI-Live supplies an integrated portable bimanual recording and SLAM-processing pipeline, training-ready robot demonstrations and a released 40-hour dataset across three tasks; downstream policy trials evaluate data utility, not a new data-quality filtering algorithm. The dataset-and-collection path retains this data-engineering contribution without claiming independently reproduced hardware or policy results. Official abstract: https://arxiv.org/abs/2610.39385",
     "related_topics": ["Bimanual", "Teleoperation"]
   },
+  "hilo wam decoupling long horizon task evolution and local dynamics in world action models": {
+    "title": "HiLo-WAM: Decoupling Long-Horizon Task Evolution and Local Dynamics in World Action Models",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "World & Dynamics Modeling",
+      "Action-conditioned Video Prediction"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: HiLo-WAM jointly models robot actions with a sparse long-horizon visual stream and a dense local visual-dynamics stream in a dual-DiT architecture; long-horizon manipulation evaluates that predictive world-action model rather than defining a task-and-motion planner. Official abstract: https://arxiv.org/abs/2611.05023",
+    "related_topics": ["World Models"]
+  },
+  "primesim a generalist world model simulator from large scale cross embodiment demonstrations": {
+    "title": "PrimeSim: A Generalist World Model Simulator from Large-Scale Cross-Embodiment Demonstrations",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "World & Dynamics Modeling",
+      "Action-conditioned Video Prediction"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: PrimeSim learns an action-conditioned multiview video world model with cross-embodiment action conditioning, view-aware attention, causal rollout training and temporal memory; simulator describes its learned predictive use, not a new physical dynamics engine or conventional simulation integration platform. Official abstract: https://arxiv.org/abs/2611.04870",
+    "related_topics": ["World Models"]
+  },
+  "cronos benchmarking non episodic reinforcement learning for robotic manipulation": {
+    "title": "CRONOS: Benchmarking Non-Episodic Reinforcement Learning for Robotic Manipulation",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Benchmarks & Experimental Methods",
+      "Task & Capability Benchmarks"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: CRONOS introduces a shared-scene simulation benchmark for non-episodic reinforcement-learning fine-tuning of pretrained action policies and studies scene-reset allocation and configuration shifts; long-horizon manipulation is a measured capability, not a new task-and-motion planning method. Official abstract: https://arxiv.org/abs/2611.05080",
+    "related_topics": []
+  },
+  "loopq fair closed loop evaluation of quantized vision language action models": {
+    "title": "LoopQ: Fair, Closed-Loop Evaluation of Quantized Vision-Language-Action Models",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Benchmarks & Experimental Methods",
+      "Reproducibility & Statistical Comparison"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: LoopQ compares post-training quantization methods under matched checkpoints, layers and engines, uses paired closed-loop evaluation and checks public-release reproducibility across hardware; quantized VLAs are the comparison subjects rather than a newly proposed action-model architecture. Official abstract: https://arxiv.org/abs/2611.05093",
+    "related_topics": []
+  },
+  "dimure diagnosis guided multilevel recovery for robotic task execution": {
+    "title": "DiMuRe: Diagnosis-Guided Multilevel Recovery for Robotic Task Execution",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "Memory & Autonomous Execution",
+      "Failure Detection & Replanning"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: DiMuRe uses phase-specific diagnosis, method preconditions, program reuse, bounded recovery skills, corrective code and local verification after disturbances; a VLA grasping skill is one recovery option, not the primary contribution or evidence of a new VLA architecture. Official abstract: https://arxiv.org/abs/2611.04226",
+    "related_topics": []
+  },
+  "mabel an open anthropomorphic mobile bimanual platform for teleoperation and learning": {
+    "title": "MABEL: An Open Anthropomorphic Mobile Bimanual Platform for Teleoperation and Learning",
+    "path": [
+      "Robot Hardware & Systems",
+      "Mechanisms & Actuation",
+      "Hands, Grippers & Arms"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: MABEL introduces an open mobile bimanual hardware platform combining articulated arms and hands, a torso, lift, neck and holonomic wheeled base; XR teleoperation and imitation learning demonstrate the integrated platform rather than establish a new XR-input algorithm. The selected hardware specialty covers its arm-and-hand mechanisms without claiming that the entire wheeled system is a legged robot. Official abstract: https://arxiv.org/abs/2611.04083",
+    "related_topics": ["Bimanual", "Teleoperation"]
+  },
+  "recontact reconstruct and retarget human contacts from video for contact rich humanoid manipulation": {
+    "title": "ReContact: Reconstruct and Retarget Human Contacts from Video for Contact-Rich Humanoid Manipulation",
+    "path": [
+      "Legged Locomotion & Whole-body Control",
+      "Whole-body Motion Transfer",
+      "Contact & Dynamic Retargeting"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: ReContact reconstructs and transfers human-object interactions through object-centric contact phases, pairs, anchors, pressing directions and sticking or sliding modes, then trains residual control over a frozen whole-body tracker; support transitions across the body, including thigh-supported regrasping, make this contact-aware whole-body retargeting rather than a hand-only retargeter or merely a generic loco-manipulation task. Official abstract: https://arxiv.org/abs/2611.02968",
+    "excluded_topics": ["Hand Retargeting"],
+    "related_topics": ["Retargeting", "Whole-body Retargeting", "Contact-rich"]
+  },
+  "robotryon synthesizing dexterous robot demonstrations from human videos via virtual try on": {
+    "title": "RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Human Demonstrations to Dexterous Skills",
+      "Video-to-robot Demonstrations"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: RoboTryOn synthesizes target-robot videos from human videos using reference-image virtual try-on and hand-skeleton conditioning, then infers action labels with a depth-aware inverse-dynamics model; human-pose retargeting appears as a prior approach whose visual or action gaps motivate the method, not a demonstrated human-joint-to-robot retargeting contribution. The human-video-to-robot-demonstration primary path is retained without misleading Retargeting associations. Official abstract: https://arxiv.org/abs/2611.05163",
+    "excluded_topics": ["Retargeting", "Hand Retargeting", "Whole-body Retargeting"],
+    "related_topics": ["Bimanual"]
+  },
+  "future representation distillation for imagination free world action models": {
+    "title": "Future Representation Distillation for Imagination-Free World Action Models",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "VLA & Generalist Robot Policies",
+      "Pending specialty review"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: DreamFree distills a frozen video-diffusion model's representation into a student visual encoder that uses only the current observation, then trains an action module over that predictive representation. The abstract establishes neither reinforcement learning nor a runtime future-video rollout or a latent state-transition dynamics model. The schema lacks an exact specialty for predictive-encoder-distillation control policies, so the generalist-policy parent retains Pending specialty review rather than implying a new language-conditioning contribution or a resolved VLA leaf. Official abstract: https://arxiv.org/abs/2611.04527",
+    "related_topics": ["World Models"]
+  },
+  "guild guided iterative data collection for imitation learning": {
+    "title": "GUILD: Guided Iterative Data Collection for Imitation Learning",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Datasets & Data Engineering",
+      "Data Curation & Quality"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: GUILD actively proposes data-collection conditions and uses predictive data attribution to estimate downstream policy benefit, feeding that signal into subsequent acquisition; the data-quality contribution guides which new trajectories to collect, rather than only filtering an existing dataset or introducing an interactive behavior-cloning correction loss. Official abstract: https://arxiv.org/abs/2611.05368",
+    "related_topics": ["Teleoperation"]
+  },
   "contributing factors in human robot handshake compliance hand grip and synchrony": {
     "title": "Contributing Factors in Human-Robot Handshake: Compliance, Hand Grip, and Synchrony",
     "path": [

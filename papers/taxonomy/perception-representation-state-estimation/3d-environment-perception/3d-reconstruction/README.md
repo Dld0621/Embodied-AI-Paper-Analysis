@@ -1,12 +1,12 @@
 # 3D Reconstruction · 三维重建
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=3D%20Reconstruction#research-workbench)
 
-> 8 conference papers · 244 recent arXiv papers
+> 8 conference papers · 245 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,10 +33,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling | CoRL · Dynamics Model | [Paper](https://arxiv.org/abs/2410.18912) · [Index](https://dblp.org/rec/journals/corr/abs-2410-18912) | rule-assigned |
 | 2024 | Touch-GS: Visual-Tactile Supervised 3D Gaussian Splatting | IROS · Tactile | [Paper](https://arxiv.org/pdf/2403.09875) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802412) | rule-assigned |
 
-## Recent arXiv papers (244)
+## Recent arXiv papers (245)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments | Zhipeng Zhong, Matthew Coombes, Cunjia Liu | [Abstract](https://arxiv.org/abs/2611.05361) · [PDF](https://arxiv.org/pdf/2611.05361) | rule-assigned |
+| 2026-10-31 | 3D Neural Rendering for Automated Ultrasonic Laser Scans | Thomas Pierson, Matthew Mitchell, Kira Perna, Anand Iyer et al. | [Abstract](https://arxiv.org/abs/2611.00527) · [PDF](https://arxiv.org/pdf/2611.00527) | rule-assigned |
 | 2026-10-27 | GOFish: Full Field-of-View Gaussian Splatting and Mesh Extraction | Allen Tu, Meher Gitika Karumuri, Shifan Zhu, Hailing Wang et al. | [Abstract](https://arxiv.org/abs/2610.37818) · [PDF](https://arxiv.org/pdf/2610.37818) | rule-assigned |
 | 2026-10-26 | SceneAgent: An Agentic Pipeline from 3D and 4D Captures to Simulation Environments | Luke Hollis, Tianxing Fan, Heng Yang | [Abstract](https://arxiv.org/abs/2610.34745) · [PDF](https://arxiv.org/pdf/2610.34745) | rule-assigned |
 | 2026-10-21 | AOV-GS: Active Open-Vocabulary Semantic Mapping with 3D Gaussian Splatting | Rodion Shkokov, Tatiana Zemskova, Dmitry Yudin | [Abstract](https://arxiv.org/abs/2610.29374) · [PDF](https://arxiv.org/pdf/2610.29374) | rule-assigned |
@@ -280,7 +282,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-01-30 | Physical Priors Augmented Event-Based 3D Reconstruction | Jiaxu Wang, Junhao He, Ziyi Zhang, Renjing Xu | [Abstract](https://arxiv.org/abs/2401.17121) · [PDF](https://arxiv.org/pdf/2401.17121) | rule-assigned |
 | 2023-12-07 | Towards Knowledge-driven Autonomous Driving | Xin Li, Yeqi Bai, Pinlong Cai, Licheng Wen et al. | [Abstract](https://arxiv.org/abs/2312.04316) · [PDF](https://arxiv.org/pdf/2312.04316) | rule-assigned |
 | 2023-11-23 | Towards Transferable Multi-modal Perception Representation Learning for Autonomy: NeRF-Supervised Masked AutoEncoder | Xiaohao Xu | [Abstract](https://arxiv.org/abs/2311.13750) · [PDF](https://arxiv.org/pdf/2311.13750) | rule-assigned |
-| 2023-11-02 | CADSim: Robust and Scalable in-the-wild 3D Reconstruction for Controllable Sensor Simulation | Jingkang Wang, Sivabalan Manivasagam, Yun Chen, Ze Yang et al. | [Abstract](https://arxiv.org/abs/2311.01447) · [PDF](https://arxiv.org/pdf/2311.01447) | rule-assigned |
 
 ---
 

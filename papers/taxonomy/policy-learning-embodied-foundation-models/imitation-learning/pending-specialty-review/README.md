@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Imitation%20Learning&specialty=Pending%20specialty%20review#research-workbench)
 
-> 64 conference papers · 503 recent arXiv papers
+> 64 conference papers · 504 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -89,10 +89,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning and Retrieval from Prior Data for Skill-based Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/pdf/2210.11435) · [Index](https://dblp.org/rec/journals/corr/abs-2210-11435) | needs-review |
 | 2022 | Divide & Conquer Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2204.07404) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982020) | needs-review |
 
-## Recent arXiv papers (503)
+## Recent arXiv papers (504)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | DreamX: Video Diffusion Model is a Universal Latent Action Learner | Jisoo Kim, Chaehyun Kim, Junsu Kim, Jiho Park et al. | [Abstract](https://arxiv.org/abs/2611.05377) · [PDF](https://arxiv.org/pdf/2611.05377) | needs-review |
+| 2026-11-03 | Cycle WAM: Coupling Action and Video through Cycle Consistency | Qinglin Yang, Jiepeng Wang, Yuxing Huang, Haibin Huang et al. | [Abstract](https://arxiv.org/abs/2611.04711) · [PDF](https://arxiv.org/pdf/2611.04711) | needs-review |
+| 2026-11-03 | CLARA: A Cognitively-Driven Clarification Framework for Grounding Ambiguous Requests | Dimitrios Bekris, Marios Glytsos, Panagiotis P. Filntisis, Niki Efthymiou et al. | [Abstract](https://arxiv.org/abs/2611.04708) · [PDF](https://arxiv.org/pdf/2611.04708) | needs-review |
+| 2026-11-02 | Seeing Through the Illusion: Test-Time Scaling for World Action Models | Cheikh Ahmed, Mahdi Mostajabdaveh, Milad Yazdani, Zirui Zhou | [Abstract](https://arxiv.org/abs/2611.03585) · [PDF](https://arxiv.org/pdf/2611.03585) | needs-review |
+| 2026-10-30 | META-Robot: Self-Cognition and Capability Scaling in Agentic Robots | Xuanzhi Feng, Zeyu Liu, Weiheng Gao, Xinchen Li et al. | [Abstract](https://arxiv.org/abs/2610.41868) · [PDF](https://arxiv.org/pdf/2610.41868) | needs-review |
 | 2026-10-29 | Smooth Action Chunking Via Movement-Primitive Representations for Imitation Learning | Shota Nomura, Takayuki Osa, Yasuhiro Kato, Kazuki Ota et al. | [Abstract](https://arxiv.org/abs/2610.39451) · [PDF](https://arxiv.org/pdf/2610.39451) | needs-review |
 | 2026-10-29 | PASA-KV: Attacking Action-Facing Visual Routes in World Action Models | Zhongbo Wu, Jiakai Huang, Zheng Zhang, Siyu Xu et al. | [Abstract](https://arxiv.org/abs/2610.39816) · [PDF](https://arxiv.org/pdf/2610.39816) | needs-review |
 | 2026-10-26 | From Language to Drives: A Multimodal Framework for Aligning Autonomous Robots with Human Purposes | Diana Cerdas-Vargas, Alejandro Romero, Richard J. Duro | [Abstract](https://arxiv.org/abs/2610.35629) · [PDF](https://arxiv.org/pdf/2610.35629) | needs-review |
@@ -592,10 +597,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-13 | Large Language Models for Robotics: A Survey | Fanlong Zeng, Wensheng Gan, Zezheng Huai, Lichao Sun et al. | [Abstract](https://arxiv.org/abs/2311.07226) · [PDF](https://arxiv.org/pdf/2311.07226) | needs-review |
 | 2023-11-11 | NewsGPT: ChatGPT Integration for Robot-Reporter | Abdelhadi Hireche, Abdelkader Nasreddine Belkacem, Sadia Jamil, Chao Chen | [Abstract](https://arxiv.org/abs/2311.06640) · [PDF](https://arxiv.org/pdf/2311.06640) | needs-review |
 | 2023-11-07 | Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI | Song Yaoxian, Sun Penglei, Liu Haoyu, Li Zhixu et al. | [Abstract](https://arxiv.org/abs/2311.03783) · [PDF](https://arxiv.org/pdf/2311.03783) | needs-review |
-| 2023-11-02 | REAL: Resilience and Adaptation using Large Language Models on Autonomous Aerial Robots | Andrea Tagliabue, Kota Kondo, Tong Zhao, Mason Peterson et al. | [Abstract](https://arxiv.org/abs/2311.01403) · [PDF](https://arxiv.org/pdf/2311.01403) | needs-review |
-| 2023-11-02 | ProAgent: From Robotic Process Automation to Agentic Process Automation | Yining Ye, Xin Cong, Shizuo Tian, Jiannan Cao et al. | [Abstract](https://arxiv.org/abs/2311.10751) · [PDF](https://arxiv.org/pdf/2311.10751) | needs-review |
-| 2023-10-31 | Towards A Natural Language Interface for Flexible Multi-Agent Task Assignment | Jake Brawer, Kayleigh Bishop, Bradley Hayes, Alessandro Roncone | [Abstract](https://arxiv.org/abs/2311.00153) · [PDF](https://arxiv.org/pdf/2311.00153) | needs-review |
-| 2023-10-30 | RayDF: Neural Ray-surface Distance Fields with Multi-view Consistency | Zhuoman Liu, Bo Yang, Yan Luximon, Ajay Kumar et al. | [Abstract](https://arxiv.org/abs/2310.19629) · [PDF](https://arxiv.org/pdf/2310.19629) | needs-review |
 
 ---
 

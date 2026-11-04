@@ -1,12 +1,12 @@
 # Tactile & Force Sensors · 触觉与力传感器
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Sensors%20%26%20Human%20Interfaces&specialty=Tactile%20%26%20Force%20Sensors#research-workbench)
 
-> 46 conference papers · 63 recent arXiv papers
+> 46 conference papers · 65 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -71,10 +71,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Load-sensitive Data Acquisition for a Tactile Sensor System of Multi-fingered Robotic Hands | ICRA · Multi Finger | [Paper](https://doi.org/10.1109/icra46639.2022.9812260) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812260) | rule-assigned |
 | 2022 | Slip Anticipation for Grasping Deformable Objects Using a Soft Force Sensor | IROS · Grasp | [Paper](https://infoscience.epfl.ch/bitstreams/47b1a145-38bb-433b-ae3b-66dc9a0765f9/download) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981174) | rule-assigned |
 
-## Recent arXiv papers (63)
+## Recent arXiv papers (65)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-02 | PanoTac: A Dense Three-Axis Tactile Sensor for Robust Touch-Centric Manipulation | Binglin, Wang, Xiaole, Jiang et al. | [Abstract](https://arxiv.org/abs/2611.03520) · [PDF](https://arxiv.org/pdf/2611.03520) | rule-assigned |
+| 2026-11-01 | MagPillar: A Soft Magnetopillar Array Tactile Sensor for Robotic Surface Perception | Haotian Guo, Yu Feng, Hao Wu, Jiazhi Tang et al. | [Abstract](https://arxiv.org/abs/2611.01609) · [PDF](https://arxiv.org/pdf/2611.01609) | rule-assigned |
 | 2026-10-22 | OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing | Ariel Slepyan, Geeta Chandra Raju Bethala, Jiafeng Gu, Anagha Rajendra Dangle et al. | [Abstract](https://arxiv.org/abs/2610.31661) · [PDF](https://arxiv.org/pdf/2610.31661) | reviewed |
 | 2026-10-07 | MagCilia: A Compact Magnetociliary Tactile Sensor with 3D Force Sensing for Robotic Contact Perception and Grasping Feedback | Yu Feng, Hao Wu, Haotian Guo, Haoming Liu et al. | [Abstract](https://arxiv.org/abs/2610.09536) · [PDF](https://arxiv.org/pdf/2610.09536) | rule-assigned |
 | 2026-10-01 | SoTa: Soft Tactile Skins for Dexterous Manipulation | Jingyun Yang, Baiyu Shi, Timothy Yu, Haitian Liu et al. | [Abstract](https://arxiv.org/abs/2610.02338) · [PDF](https://arxiv.org/pdf/2610.02338) | reviewed |

@@ -1,12 +1,12 @@
 # Contact & Dynamic Retargeting · 接触与动力学重定向
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Motion%20Transfer&specialty=Contact%20%26%20Dynamic%20Retargeting#research-workbench)
 
-> 0 conference papers · 0 recent arXiv papers
+> 0 conference papers · 1 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,9 +24,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (0)
+## Recent arXiv papers (1)
 
-No recent arXiv papers currently map to this specialty.
+| Date | Paper | Authors | Online links | Review status |
+|---|---|---|---|---|
+| 2026-11-02 | ReContact: Reconstruct and Retarget Human Contacts from Video for Contact-Rich Humanoid Manipulation | Zhongkai Gu, Yang Liu, Wei Zhu, Mitsuhiro Hayashibe | [Abstract](https://arxiv.org/abs/2611.02968) · [PDF](https://arxiv.org/pdf/2611.02968) | reviewed |
 
 ---
 

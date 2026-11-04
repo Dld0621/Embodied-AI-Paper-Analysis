@@ -1,12 +1,12 @@
 # Bio-inspired Robots · 仿生机器人
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Soft%20%26%20Specialized%20Robots&specialty=Bio-inspired%20Robots#research-workbench)
 
-> 9 conference papers · 78 recent arXiv papers
+> 9 conference papers · 79 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -34,10 +34,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Pegasus: a Novel Bio-inspired Quadruped Robot with Underactuated Wheeled-Legged Mechanism * | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611633) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611633) | rule-assigned |
 | 2024 | ViTacTip: Design and Verification of a Novel Biomimetic Physical Vision-Tactile Fusion Sensor | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2402.00199) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611186) | rule-assigned |
 
-## Recent arXiv papers (78)
+## Recent arXiv papers (79)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-02 | Learning Purposeful Co-designs of Bio-inspired Quadrupedal Robots | Fabio Boekel, Jiatao Ding, Cosimo Della Santina | [Abstract](https://arxiv.org/abs/2611.02462) · [PDF](https://arxiv.org/pdf/2611.02462) | rule-assigned |
 | 2026-10-29 | MUSBRIC: LEGO-Compatible Pneumatic Muscle Bricks for Reconfigurable Musculoskeletal Robots | Qiyao Wang, Yinglei Zhu, Liang Zhou, Wenzhe Gong et al. | [Abstract](https://arxiv.org/abs/2610.40285) · [PDF](https://arxiv.org/pdf/2610.40285) | rule-assigned |
 | 2026-10-27 | Gradient flow of magnetic inclination and intensity as a GPS-free guidance mechanism | Zayed Herma, Philippe Cardin, Andréa Vassilev | [Abstract](https://arxiv.org/abs/2610.36812) · [PDF](https://arxiv.org/pdf/2610.36812) | rule-assigned |
 | 2026-10-27 | A generalist policy for muscle-driven control across individual musculoskeletal models | Bozhao Wang, Yinglei Zhu, Zhengqing Li, Zhiyuan Zhang et al. | [Abstract](https://arxiv.org/abs/2610.36535) · [PDF](https://arxiv.org/pdf/2610.36535) | rule-assigned |

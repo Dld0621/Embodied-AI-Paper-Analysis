@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "documents_updated_on": "2026-10-30",
+  "documents_updated_on": "2026-11-04",
   "timezone": "Asia/Hong_Kong",
   "conference_snapshot_on": "2026-10-30",
-  "arxiv_snapshot_on": "2026-10-30",
+  "arxiv_snapshot_on": "2026-11-04",
   "arxiv_window": {
-    "start": "2023-10-30",
-    "end": "2026-10-30",
+    "start": "2023-11-04",
+    "end": "2026-11-04",
     "years": [
       2023,
       2024,
@@ -14,20 +14,20 @@
       2026
     ]
   },
-  "latest_arxiv_published": "2026-10-29",
+  "latest_arxiv_published": "2026-11-03",
   "conference_records": 4364,
-  "arxiv_records": 26563,
-  "combined_unique_records": 29013,
-  "arxiv_candidates": 34014,
-  "arxiv_outside_admission_rules": 7451,
+  "arxiv_records": 26707,
+  "combined_unique_records": 29171,
+  "arxiv_candidates": 34174,
+  "arxiv_outside_admission_rules": 7467,
   "api_candidate_count_verified": true,
-  "api_declared_candidate_records": 34014,
-  "conference_source_age_days": 0,
+  "api_declared_candidate_records": 34174,
+  "conference_source_age_days": 5,
   "arxiv_source_age_days": 0,
   "classification_status_counts": {
-    "needs-review": 6972,
-    "rule-assigned": 23897,
-    "reviewed": 58
+    "needs-review": 6986,
+    "rule-assigned": 24018,
+    "reviewed": 67
   },
   "coverage_claim": "Exhaustive only within the declared retrieval/admission boundary, not all embodied-AI literature.",
   "limitations": [

@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题 · arXiv 2023
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 53 papers · complete list for this taxonomy leaf
+> 43 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -53,13 +53,3 @@
 | 2023-11-06 | Proactive Robot Control for Collaborative Manipulation Using Human Intent | Zhanibek Rysbek, Siyu Li, Afagh Mehri Shervedani, Milos Zefran | [Abstract](https://arxiv.org/abs/2311.02809) · [PDF](https://arxiv.org/pdf/2311.02809) | needs-review |
 | 2023-11-06 | Learning Reusable Manipulation Strategies | Jiayuan Mao, Joshua B. Tenenbaum, Tomás Lozano-Pérez, Leslie Pack Kaelbling | [Abstract](https://arxiv.org/abs/2311.03293) · [PDF](https://arxiv.org/pdf/2311.03293) | needs-review |
 | 2023-11-04 | Anthropomorphic Grasping with Neural Object Shape Completion | Diego Hidalgo-Carvajal, Hanzhi Chen, Gemma C. Bettelani, Jaesug Jung et al. | [Abstract](https://arxiv.org/abs/2311.02510) · [PDF](https://arxiv.org/pdf/2311.02510) | needs-review |
-| 2023-11-03 | What Makes Pre-Trained Visual Representations Successful for Robust Manipulation? | Kaylee Burns, Zach Witzel, Jubayer Ibn Hamid, Tianhe Yu et al. | [Abstract](https://arxiv.org/abs/2312.12444) · [PDF](https://arxiv.org/pdf/2312.12444) | needs-review |
-| 2023-11-03 | On Hand-Held Grippers and the Morphological Gap in Human Manipulation Demonstration | Kiran Doshi, Yijiang Huang, Stelian Coros | [Abstract](https://arxiv.org/abs/2311.01832) · [PDF](https://arxiv.org/pdf/2311.01832) | needs-review |
-| 2023-11-03 | LOTUS: Continual Imitation Learning for Robot Manipulation Through Unsupervised Skill Discovery | Weikang Wan, Yifeng Zhu, Rutav Shah, Yuke Zhu | [Abstract](https://arxiv.org/abs/2311.02058) · [PDF](https://arxiv.org/pdf/2311.02058) | needs-review |
-| 2023-11-03 | HASHI: Highly Adaptable Seafood Handling Instrument for Manipulation in Industrial Settings | Austin Allison, Nathaniel Hanson, Sebastian Wicke, Taşkın Padır | [Abstract](https://arxiv.org/abs/2311.02277) · [PDF](https://arxiv.org/pdf/2311.02277) | needs-review |
-| 2023-11-03 | CraterGrader: Autonomous Robotic Terrain Manipulation for Lunar Site Preparation and Earthmoving | Ryan Lee, Benjamin Younes, Alexander Pletta, John Harrington et al. | [Abstract](https://arxiv.org/abs/2311.01697) · [PDF](https://arxiv.org/pdf/2311.01697) | needs-review |
-| 2023-11-01 | Neural Field Dynamics Model for Granular Object Piles Manipulation | Shangjie Xue, Shuo Cheng, Pujith Kachana, Danfei Xu | [Abstract](https://arxiv.org/abs/2311.00802) · [PDF](https://arxiv.org/pdf/2311.00802) | needs-review |
-| 2023-11-01 | An Integrated Approach to Aerial Grasping: Combining a Bistable Gripper with Adaptive Control | Rishabh Dev Yadav, Brycen Jones, Saksham Gupta, Amitabh Sharma et al. | [Abstract](https://arxiv.org/abs/2311.00769) · [PDF](https://arxiv.org/pdf/2311.00769) | needs-review |
-| 2023-10-31 | Meta Learning for Multi-View Visuomotor Systems | Benji Alwis | [Abstract](https://arxiv.org/abs/2310.20414) · [PDF](https://arxiv.org/pdf/2310.20414) | needs-review |
-| 2023-10-31 | Combining Shape Completion and Grasp Prediction for Fast and Versatile Grasping with a Multi-Fingered Hand | Matthias Humt, Dominik Winkelbauer, Ulrich Hillenbrand, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2310.20350) · [PDF](https://arxiv.org/pdf/2310.20350) | needs-review |
-| 2023-10-30 | Knolling bot 2.0: Enhancing Object Organization with Self-supervised Graspability Estimation | Yuhang Hu, Zhizhuo Zhang, Hod Lipson | [Abstract](https://arxiv.org/abs/2310.19226) · [PDF](https://arxiv.org/pdf/2310.19226) | needs-review |

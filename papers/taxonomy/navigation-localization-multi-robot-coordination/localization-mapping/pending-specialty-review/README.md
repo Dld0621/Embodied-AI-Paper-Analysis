@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Pending%20specialty%20review#research-workbench)
 
-> 190 conference papers · 962 recent arXiv papers
+> 190 conference papers · 960 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -215,10 +215,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | VER: Scaling On-Policy RL Leads to the Emergence of Navigation in Embodied Rearrangement | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.05064) · [Index](https://dblp.org/rec/conf/nips/WijmansEB22) | needs-review |
 | 2022 | ViKiNG: Vision-Based Kilometer-Scale Navigation with Geographic Hints | RSS · Navigation | [Paper](https://doi.org/10.15607/rss.2022.xviii.019) · [Publisher](https://doi.org/10.15607/RSS.2022.XVIII.019) | needs-review |
 
-## Recent arXiv papers (962)
+## Recent arXiv papers (960)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-02 | Safe-Ballbot: Tilt-Consistent MPC with Control Barrier Functions for Ballbot Navigation | Duc Cuong Vu, Tung Lam Nguyen | [Abstract](https://arxiv.org/abs/2611.03307) · [PDF](https://arxiv.org/pdf/2611.03307) | needs-review |
+| 2026-11-02 | Clinician-AI Collaboration in Endovascular Neurointerventions: In-Vitro User Study of Copilot Assistance Modes for Robotic Navigation Across the Autonomy Spectrum | Nikola Fischer, Harry Robertshaw, S. M. Hadi Sadati, Xingyu Chen et al. | [Abstract](https://arxiv.org/abs/2611.03446) · [PDF](https://arxiv.org/pdf/2611.03446) | needs-review |
+| 2026-10-29 | Robot Navigation and Canine Welfare: A Pilot Study Surfacing Challenges for Cross-Species Legibility and Proxy Validity in Animal-Machine Interaction | Haoxiang Zhang, Nancy Smith | [Abstract](https://arxiv.org/abs/2610.40921) · [PDF](https://arxiv.org/pdf/2610.40921) | needs-review |
 | 2026-10-28 | A Multi-Layer Navigation System for Smart Wheelchairs with a Limited Input Interface | Piero Simonetto, Anna Polato, Francesco Pasti, Muhammad Rameez ur Rahman et al. | [Abstract](https://arxiv.org/abs/2610.38569) · [PDF](https://arxiv.org/pdf/2610.38569) | needs-review |
 | 2026-10-27 | KEPT: Conformal Keepouts Kept in Planning for Enclosed-Space Navigation in Degraded Sensing | Eric Minwoo Kim, Jong-Kook Kim | [Abstract](https://arxiv.org/abs/2610.37217) · [PDF](https://arxiv.org/pdf/2610.37217) | needs-review |
 | 2026-10-27 | Forward-Backward Map Matching for Airborne Magnetic Anomaly Navigation | Joseph O'Leary, Tapio Simula, Tom Kimpson, Corey Davey et al. | [Abstract](https://arxiv.org/abs/2610.38047) · [PDF](https://arxiv.org/pdf/2610.38047) | needs-review |
@@ -253,7 +256,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-10-14 | From Failures to Learnable Worlds: Policy-Conditioned Environment Generation for Navigation Agents | Yue Zhang, Han Lin, Zun Wang, Yidong Huang et al. | [Abstract](https://arxiv.org/abs/2610.19420) · [PDF](https://arxiv.org/pdf/2610.19420) | needs-review |
 | 2026-10-14 | Clarity-Driven Adaptive Mission Planning for a Solar-Powered Autonomous Surface Vessel | Kavin M. Govindarajan, Kaleb Ben Naveed, David Li, Devansh R. Agrawal et al. | [Abstract](https://arxiv.org/abs/2610.20871) · [PDF](https://arxiv.org/pdf/2610.20871) | needs-review |
 | 2026-10-14 | BubbleCBF: Constructive Safety for Second-Order Systems and Application to Autonomous Robot Navigation in Unknown Environments | Mani Amani, Mohammed Alyaseen, Zhirui Dai, Ki Myung Brian Lee et al. | [Abstract](https://arxiv.org/abs/2610.20895) · [PDF](https://arxiv.org/pdf/2610.20895) | needs-review |
-| 2026-10-14 | $S^3$-Nav: Structured Spatial-Semantic Decision Making for Language-Guided Robot Navigation | Chaemin Lee, Hae Min Cho | [Abstract](https://arxiv.org/abs/2610.19431) · [PDF](https://arxiv.org/pdf/2610.19431) | needs-review |
 | 2026-10-13 | Training Generalist Navigation Policies via Action Self-Distillation | Bowen Feng, Keqin Wang, Yulong Yang, Amogh Joshi et al. | [Abstract](https://arxiv.org/abs/2610.17593) · [PDF](https://arxiv.org/pdf/2610.17593) | needs-review |
 | 2026-10-13 | ATOM: Abstract Transition and Option Modeling - Experience-Informed Hierarchical Navigation | Changxuan Yao, Panagiotis Tsiotras | [Abstract](https://arxiv.org/abs/2610.17555) · [PDF](https://arxiv.org/pdf/2610.17555) | needs-review |
 | 2026-10-13 | A Minimum Exact Disjunctive Basis for Two-Robot Solvability Profiles | Tsukasa Ninomiya, Shota Naito, Naoki Kitamura, Yuichi Sudo et al. | [Abstract](https://arxiv.org/abs/2610.17677) · [PDF](https://arxiv.org/pdf/2610.17677) | needs-review |
@@ -297,7 +299,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-09-26 | RECAST: Recasting Vision-Language Semantics into an Actionable Cost Map for Robot Navigation | Incheol Cho, Jintae Park, Jinkyu Kim, Jungbeom Lee et al. | [Abstract](https://arxiv.org/abs/2609.32595) · [PDF](https://arxiv.org/pdf/2609.32595) | needs-review |
 | 2026-09-25 | SeA-RVINS: Semantic-Aware Tightly Coupled RTK-Visual-Inertial System with Correlation-Preserving Robust Estimation for Urban Navigation | Wang Hu, Bo Wu | [Abstract](https://arxiv.org/abs/2609.30814) · [PDF](https://arxiv.org/pdf/2609.30814) | needs-review |
 | 2026-09-25 | Comparative Evaluation of an XR Pen-based Control Interface for Semi-Autonomous Mobile Robot Navigation in Service Environments | Alicia Torc, Carl Tornberg, Eric Piette, Renaud Ronsse et al. | [Abstract](https://arxiv.org/abs/2609.31117) · [PDF](https://arxiv.org/pdf/2609.31117) | needs-review |
-| 2026-09-23 | Compressed delayed-information projection for six-degree-of-freedom underwater vehicle navigation under delayed acoustic positioning | Shuyue Li, Miguel López-Benítez, Eng Gee Lim, Fei Ma et al. | [Abstract](https://arxiv.org/abs/2609.27439) · [PDF](https://arxiv.org/pdf/2609.27439) | needs-review |
+| 2026-09-23 | Compressed delayed-information projection for underwater navigation under acoustic measurement latency | Shuyue Li, Miguel López-Benítez, Eng Gee Lim, Fei Ma et al. | [Abstract](https://arxiv.org/abs/2609.27439) · [PDF](https://arxiv.org/pdf/2609.27439) | needs-review |
 | 2026-09-22 | Underwater Navigation in Unsteady Flows Using Measurement Histories from a Single Sensing Unit | Linhao Jin, Qimin Feng, Peter Gunnarson, Qiang Zhong | [Abstract](https://arxiv.org/abs/2609.26753) · [PDF](https://arxiv.org/pdf/2609.26753) | needs-review |
 | 2026-09-22 | HINT-Blimp: Human INTent Inference from Multimodal Cues for Robotic Blimps | Subhadeep Koley, Benjamin Greenberg, Yifei Simon Shao, Juan Aceros et al. | [Abstract](https://arxiv.org/abs/2609.27154) · [PDF](https://arxiv.org/pdf/2609.27154) | needs-review |
 | 2026-09-22 | FLINT: Fast Lightweight Inference for Traversability | William Bonilla, Maxime Boisvert, David-Alexandre Poissant, David Meger et al. | [Abstract](https://arxiv.org/abs/2609.26857) · [PDF](https://arxiv.org/pdf/2609.26857) | needs-review |
@@ -439,7 +441,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-25 | NightSight: Passive Computation for Navigation in Dark Using Events | Deepak Singh, Brijan Vaghasiya, Shreyas Khobragade, Nitin Sanket | [Abstract](https://arxiv.org/abs/2605.26330) · [PDF](https://arxiv.org/pdf/2605.26330) | needs-review |
 | 2026-05-24 | Loosely Coupled Factor Graph Optimization for Pseudolite-Augmented Navigation | Chih-Chun Chen, Lipeng Tan, Shiyu Bai, Heike Vallery | [Abstract](https://arxiv.org/abs/2605.24980) · [PDF](https://arxiv.org/pdf/2605.24980) | needs-review |
 | 2026-05-24 | Grow-Prune-Freeze Networks: Adaptive & Continual Learning Technique for Olfactory Navigation | Kordel K. France, Ovidiu Daescu | [Abstract](https://arxiv.org/abs/2605.25170) · [PDF](https://arxiv.org/pdf/2605.25170) | needs-review |
-| 2026-05-21 | RED: Adaptive Real-Time DAG Scheduling for Robotic Inference under Environmental Dynamics | Zexin Li, Tao Ren, Johnathan Liu, Xiaoxi He et al. | [Abstract](https://arxiv.org/abs/2605.24044) · [PDF](https://arxiv.org/pdf/2605.24044) | needs-review |
 | 2026-05-20 | Q-SpiRL: Quantum Spiking Reinforcement Learning for Adaptive Robot Navigation | Mohamed Khair Altrabulsi, Nouhaila Innan, Alberto Marchisio, Muhammad Kashif et al. | [Abstract](https://arxiv.org/abs/2605.20801) · [PDF](https://arxiv.org/pdf/2605.20801) | needs-review |
 | 2026-05-19 | World-Ego Modeling for Embodied Video Generation in Long-Horizon Navigation-Manipulation Tasks | Zuyao Lin, Jianhui Zhang, Peidong Jia, Xiaoguang Zhao et al. | [Abstract](https://arxiv.org/abs/2605.19957) · [PDF](https://arxiv.org/pdf/2605.19957) | needs-review |
 | 2026-05-17 | Beyond Geometry: Efficient Topologically-Grounded Navigation in Complex 3D Environments | Yifan Du, Chengwei Zhang, Siyu Liao, Zhongfeng Wang | [Abstract](https://arxiv.org/abs/2605.17302) · [PDF](https://arxiv.org/pdf/2605.17302) | needs-review |
@@ -1178,9 +1179,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-12 | A Survey on Socially Aware Robot Navigation: Taxonomy and Future Challenges | Phani Teja Singamaneni, Pilar Bachiller-Burgos, Luis J. Manso, Anaís Garrell et al. | [Abstract](https://arxiv.org/abs/2311.06922) · [PDF](https://arxiv.org/pdf/2311.06922) | needs-review |
 | 2023-11-07 | Model-Free Source Seeking by a Novel Single-Integrator with Attenuating Oscillations and Better Convergence Rate: Robotic Experiments | Shivam Bajpai, Ahmed A. Elgohary, Sameh A. Eisa | [Abstract](https://arxiv.org/abs/2311.04330) · [PDF](https://arxiv.org/pdf/2311.04330) | needs-review |
 | 2023-11-06 | OVIR-3D: Open-Vocabulary 3D Instance Retrieval Without Training on 3D Data | Shiyang Lu, Haonan Chang, Eric Pu Jing, Abdeslam Boularias et al. | [Abstract](https://arxiv.org/abs/2311.02873) · [PDF](https://arxiv.org/pdf/2311.02873) | needs-review |
-| 2023-11-01 | PIAug -- Physics Informed Augmentation for Learning Vehicle Dynamics for Off-Road Navigation | Parv Maheshwari, Wenshan Wang, Samuel Triest, Matthew Sivaprakasam et al. | [Abstract](https://arxiv.org/abs/2311.00815) · [PDF](https://arxiv.org/pdf/2311.00815) | needs-review |
-| 2023-10-30 | Spatiotemporal Attention Enhances Lidar-Based Robot Navigation in Dynamic Environments | Jorge de Heuvel, Xiangyu Zeng, Weixian Shi, Tharun Sethuraman et al. | [Abstract](https://arxiv.org/abs/2310.19670) · [PDF](https://arxiv.org/pdf/2310.19670) | needs-review |
-| 2023-10-30 | Deep Learning for Visual Navigation of Underwater Robots | M. Sunbeam | [Abstract](https://arxiv.org/abs/2310.19495) · [PDF](https://arxiv.org/pdf/2310.19495) | needs-review |
 
 ---
 

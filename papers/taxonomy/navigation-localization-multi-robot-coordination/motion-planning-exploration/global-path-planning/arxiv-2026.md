@@ -1,15 +1,23 @@
 # Global Path Planning · 全局路径规划 · arXiv 2026
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 375 papers · complete list for this taxonomy leaf
+> 382 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-02 | h-NESDF: An Infinitely Differentiable Signed Distance Between Two Sets with Robotic Applications | Vinicius Mariano Gonçalves, Pedro Antonio de Souza Campos Rodrigues | [Abstract](https://arxiv.org/abs/2611.03944) · [PDF](https://arxiv.org/pdf/2611.03944) | rule-assigned |
+| 2026-11-01 | Control Barrier Functions for Safety-Aware Latent-Space Motion Planning | Chandrakiran Ravula, Siddhanth Ramesh | [Abstract](https://arxiv.org/abs/2611.01814) · [PDF](https://arxiv.org/pdf/2611.01814) | rule-assigned |
+| 2026-10-30 | Mechanistic Interpretability for End-to-End Self-Driving | Manav Gagvani, Benjamin Namikas, Sivamurugan Velmurugan, Nysa Kumar et al. | [Abstract](https://arxiv.org/abs/2610.41185) · [PDF](https://arxiv.org/pdf/2610.41185) | rule-assigned |
+| 2026-10-30 | Interaction-Aware Sampling-Based Motion Planning for Autonomous Surface Vessels in Urban Waterways | Elia Trevisan, Alejandro Gonzalez-Garcia, Jan Swevers, Javier Alonso-Mora | [Abstract](https://arxiv.org/abs/2610.41676) · [PDF](https://arxiv.org/pdf/2610.41676) | rule-assigned |
+| 2026-10-30 | GPU-accelerated Incremental Euclidean Distance Transform for Online Motion Planning of Mobile Robots | Yizhou Chen, Shupeng Lai, Jinqiang Cui, Biao Wang et al. | [Abstract](https://arxiv.org/abs/2610.41667) · [PDF](https://arxiv.org/pdf/2610.41667) | rule-assigned |
+| 2026-10-30 | Contact-based optimization for collision-free motion planning for a million robots | Jan Kamm, Antonio Terpin, Raffaello D'Andrea | [Abstract](https://arxiv.org/abs/2610.41548) · [PDF](https://arxiv.org/pdf/2610.41548) | rule-assigned |
+| 2026-10-30 | A Hybrid Path Planning Framework for Assistive Wheelchair Navigation in Dynamic Pedestrian Environments | Damla Leblebicioğlu, Rachel Barume, Taşkın Padır | [Abstract](https://arxiv.org/abs/2610.42049) · [PDF](https://arxiv.org/pdf/2610.42049) | rule-assigned |
+| 2026-10-30 | A complete analytical characterization of optimal collision-free motion for two robots | Jan Kamm, Antonio Terpin, Raffaello D'Andrea | [Abstract](https://arxiv.org/abs/2610.41558) · [PDF](https://arxiv.org/pdf/2610.41558) | rule-assigned |
 | 2026-10-29 | Optimal Path Planning with Localization constraints | Chinmay Mundane, Manav Mishra, PB Sujit | [Abstract](https://arxiv.org/abs/2610.40429) · [PDF](https://arxiv.org/pdf/2610.40429) | rule-assigned |
 | 2026-10-27 | Leveraging Distributed Sensing and Hyperdimensional Computing for Non-Line-of-Sight Passive Object Sensing | Placido Mursia, Marco Rossanese, Francesco Devoti, Adrian Lendinez Ibanez et al. | [Abstract](https://arxiv.org/abs/2610.37519) · [PDF](https://arxiv.org/pdf/2610.37519) | rule-assigned |
 | 2026-10-26 | Continuous-Time Safe Planning and Control for Agile Quadrupeds | Gage MacLin, Mason Peterson, Camilla Tabasso, Venanzio Cichella et al. | [Abstract](https://arxiv.org/abs/2610.35670) · [PDF](https://arxiv.org/pdf/2610.35670) | rule-assigned |
@@ -303,7 +311,6 @@
 | 2026-03-19 | CSSDF-Net: Safe Motion Planning Based on Neural Implicit Representations of Configuration Space Distance Field | Haohua Chen, Yixuan Zhou, Yifan Zhou, Hesheng Wang | [Abstract](https://arxiv.org/abs/2603.18669) · [PDF](https://arxiv.org/pdf/2603.18669) | rule-assigned |
 | 2026-03-18 | Neural Radiance Maps for Extraterrestrial Navigation and Path Planning | Adam Dai, Shubh Gupta, Grace Gao | [Abstract](https://arxiv.org/abs/2603.17236) · [PDF](https://arxiv.org/pdf/2603.17236) | rule-assigned |
 | 2026-03-17 | Ultrafast Sampling-based Kinodynamic Planning via Differential Flatness | Thai Duong, Clayton W. Ramsey, Zachary Kingston, Wil Thomason et al. | [Abstract](https://arxiv.org/abs/2603.16059) · [PDF](https://arxiv.org/pdf/2603.16059) | rule-assigned |
-| 2026-03-17 | Contingency-Aware Planning via Certified Neural Hamilton-Jacobi Reachability | Kasidit Muenprasitivej, Derya Aksaray | [Abstract](https://arxiv.org/abs/2603.17022) · [PDF](https://arxiv.org/pdf/2603.17022) | rule-assigned |
 | 2026-03-16 | Topological Motion Planning Diffusion: Generative Tangle-Free Path Planning for Tethered Robots in Obstacle-Rich Environments | Yifu Tian, Xinhang Xu, Thien-Minh Nguyen, Muqing Cao | [Abstract](https://arxiv.org/abs/2603.26696) · [PDF](https://arxiv.org/pdf/2603.26696) | rule-assigned |
 | 2026-03-15 | Architecting Autonomy for Safe Microgravity Free-Flyer Inspection | Keenan Albee, David C. Sternberg, Alexander Hansson, David Schwartz et al. | [Abstract](https://arxiv.org/abs/2603.14524) · [PDF](https://arxiv.org/pdf/2603.14524) | rule-assigned |
 | 2026-03-13 | Route Fragmentation Based on Resource-centric Prioritisation for Efficient Multi-Robot Path Planning in Agricultural Environments | James R. Heselden, Gautham P. Das | [Abstract](https://arxiv.org/abs/2603.12994) · [PDF](https://arxiv.org/pdf/2603.12994) | rule-assigned |

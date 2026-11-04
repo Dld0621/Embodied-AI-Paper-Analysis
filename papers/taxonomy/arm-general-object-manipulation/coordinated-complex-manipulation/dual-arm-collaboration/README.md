@@ -1,12 +1,12 @@
 # Dual-arm Collaboration · 双臂协作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Dual-arm%20Collaboration#research-workbench)
 
-> 47 conference papers · 164 recent arXiv papers
+> 47 conference papers · 168 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -72,10 +72,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Temporal Task Models from Human Bimanual Demonstrations | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS47612.2022.9981068) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981068) | rule-assigned |
 | 2022 | Nonlinear Model Predictive Control for Human-Robot Handover with Application to the Aerial Case | IROS · Robot Hand | [Paper](https://hal.science/hal-03716664) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981045) | rule-assigned |
 
-## Recent arXiv papers (164)
+## Recent arXiv papers (168)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-02 | AIRoA-0: Long-Horizon, Precise, Cross-Embodiment Manipulation from Handheld Data | Yueh-Hua Wu, Kei Ota, Hanlong Li, Hayata Yuasa et al. | [Abstract](https://arxiv.org/abs/2611.03815) · [PDF](https://arxiv.org/pdf/2611.03815) | rule-assigned |
+| 2026-10-31 | Auriga Technical Report: A Task-Agnostic Agent Harness for Zero-Shot Embodied Manipulation | Chengcheng Wang, Yuheng Shi, Siyu Xu, Yutong Wang et al. | [Abstract](https://arxiv.org/abs/2611.01112) · [PDF](https://arxiv.org/pdf/2611.01112) | rule-assigned |
+| 2026-10-30 | Direct Action-Manifold Modeling for Efficient and Robust Bimanual Manipulation | Hongren Wang, Mingyu You, Zihan Li, Zhipeng Wang et al. | [Abstract](https://arxiv.org/abs/2610.41643) · [PDF](https://arxiv.org/pdf/2610.41643) | rule-assigned |
+| 2026-10-30 | BioAgent: Self-Directed Skill Acquisition and Capability Growth for Long-Horizon Laboratory Protocols | Gaojing Zhang, Changwen Chen, Zichen Luo, Jialiang Li et al. | [Abstract](https://arxiv.org/abs/2610.41383) · [PDF](https://arxiv.org/pdf/2610.41383) | rule-assigned |
 | 2026-10-27 | GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation | Yang Liu, Xiaoli Liu, Liuzhao Li, Yuduo Song et al. | [Abstract](https://arxiv.org/abs/2610.37091) · [PDF](https://arxiv.org/pdf/2610.37091) | rule-assigned |
 | 2026-10-25 | X-World: Transferring Video Priors to Variable-View Robot Control | Chun Gu, Xiaofei Wei, Yiming Chen, Juntong Zhang et al. | [Abstract](https://arxiv.org/abs/2610.34105) · [PDF](https://arxiv.org/pdf/2610.34105) | rule-assigned |
 | 2026-10-21 | Training in Deployment: Human-in-the-loop Online Post-Training for Robot Manipulation | Chun Gu, Xiaofei Wei, Yiming Chen, Bozhou Zhang et al. | [Abstract](https://arxiv.org/abs/2610.29264) · [PDF](https://arxiv.org/pdf/2610.29264) | rule-assigned |

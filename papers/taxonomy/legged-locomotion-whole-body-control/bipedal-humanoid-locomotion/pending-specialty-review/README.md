@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Pending%20specialty%20review#research-workbench)
 
-> 162 conference papers · 526 recent arXiv papers
+> 162 conference papers · 532 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -187,10 +187,19 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Torque-Actuated Multimodal Locomotion of Ferrofluid Robot With Environment and Task Adaptability | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9981041) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981041) | needs-review |
 | 2022 | Rapid locomotion via reinforcement learning | RSS · Locomotion | [Paper](https://arxiv.org/pdf/2205.02824) · [Publisher](https://doi.org/10.1177/02783649231224053) | needs-review |
 
-## Recent arXiv papers (526)
+## Recent arXiv papers (532)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | RAIPAL: A Powerful and Agile Humanoid Arm for Human Tasks | Donggeon Kim, Hyungho Chris Choi, Donghyuk Choi, Jeongsoo Park et al. | [Abstract](https://arxiv.org/abs/2611.04334) · [PDF](https://arxiv.org/pdf/2611.04334) | needs-review |
+| 2026-11-03 | ActOR: Ambient AI-Based Agentic Orchestration for Humanoid Autonomy in Operating Rooms | Han Zhang, Sicheng Lu, Aleks Santari, Jeffrey K. Jopling et al. | [Abstract](https://arxiv.org/abs/2611.04255) · [PDF](https://arxiv.org/pdf/2611.04255) | needs-review |
+| 2026-11-02 | TRAILS: Trajectory Generation for Automated Indoor Locomotion Studies | Juho Kalliokoski, Evan G. Center, Steven M. LaValle, Timo Ojala et al. | [Abstract](https://arxiv.org/abs/2611.03254) · [PDF](https://arxiv.org/pdf/2611.03254) | needs-review |
+| 2026-11-02 | Sequential Recovery Updates for Learned Controllers under Successful-Trajectory Preservation | Zongtan Li, Tianming Liu, Ye Zhao | [Abstract](https://arxiv.org/abs/2611.02555) · [PDF](https://arxiv.org/pdf/2611.02555) | needs-review |
+| 2026-11-02 | Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations | Jason Jingzhou Liu, Tony Tao, Deepak Pathak, Ruslan Salakhutdinov | [Abstract](https://arxiv.org/abs/2611.03647) · [PDF](https://arxiv.org/pdf/2611.03647) | needs-review |
+| 2026-11-02 | Central pivot point control of a body-attached spring-mass runner: periodic gaits, stabilization, template embedding and approximate analytic return maps | İzel Sever, O. Kaan Karagöz, M. Mert Ankaralı | [Abstract](https://arxiv.org/abs/2611.02564) · [PDF](https://arxiv.org/pdf/2611.02564) | needs-review |
+| 2026-11-02 | A Study on the Effects of Finger Movements on a Humanoid Hugging Robot | Daigo Suhara, Tomoko Yonezawa | [Abstract](https://arxiv.org/abs/2611.02517) · [PDF](https://arxiv.org/pdf/2611.02517) | needs-review |
+| 2026-11-01 | HuG: Learning Humanoid Whole-Body Affordance-Aware Grasping with Active Perception | Xuanbin Peng, Lai Wei, Yuze Zhai, Qingyuan Yu et al. | [Abstract](https://arxiv.org/abs/2611.01659) · [PDF](https://arxiv.org/pdf/2611.01659) | needs-review |
+| 2026-11-01 | Beyond Ensemble Disagreement: Predictive STL Monitoring of RL Locomotion under Distribution Shift | Qurban Ali, Badaruddin Chachar, Maqsood Ali, Sajjad Ali Rajper | [Abstract](https://arxiv.org/abs/2611.02218) · [PDF](https://arxiv.org/pdf/2611.02218) | needs-review |
 | 2026-10-29 | A Two-Wheeled Quadrotor with All-Clockwise Tilted Rotors for Level-Attitude Surface Locomotnion | Takumi Ito, Satoshi Nakano | [Abstract](https://arxiv.org/abs/2610.40502) · [PDF](https://arxiv.org/pdf/2610.40502) | needs-review |
 | 2026-10-28 | Compositional Diffusion Planning with Chunk Selection and Reachability Measure | Chanyoung Park, Youngjoong Kim, Jaesik Park | [Abstract](https://arxiv.org/abs/2610.38291) · [PDF](https://arxiv.org/pdf/2610.38291) | needs-review |
 | 2026-10-27 | Tokens of Motion: Primitive Motion Learning for Human-Humanoid Skill Transfer | Hanwen Ren, Meng Zheng, Wenzhe Cui, Benjamin Planche et al. | [Abstract](https://arxiv.org/abs/2610.37330) · [PDF](https://arxiv.org/pdf/2610.37330) | needs-review |
@@ -201,7 +210,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-10-22 | Humanoid Mobility via Attention-based Contacts | Junzhe He, Kehan Wen, Chong Zhang, Clemens Schwarke et al. | [Abstract](https://arxiv.org/abs/2610.31608) · [PDF](https://arxiv.org/pdf/2610.31608) | needs-review |
 | 2026-10-21 | PHD-Hand: A Printable Humanoid Dexterous Hand with Linkage-Driven 3-DOA Digits | Neel Adwani, Muhaiminul Islam Akash, Saffia Ouali, Ethan Liu et al. | [Abstract](https://arxiv.org/abs/2610.29030) · [PDF](https://arxiv.org/pdf/2610.29030) | needs-review |
 | 2026-10-21 | MPBRS: Multi-Potential-Based Reward Shaping for Unified Reward Configuration in Humanoid Locomotion | Van Chung Nguyen, Hung Manh La | [Abstract](https://arxiv.org/abs/2610.30334) · [PDF](https://arxiv.org/pdf/2610.30334) | needs-review |
-| 2026-10-21 | Do Earth-Trained Humanoid Controllers Walk on the Moon? Gravity, Terrain, and Soil Transfer | Guillem Casadesus Vila, Sri Aditya Deevi, Grace X. Gao | [Abstract](https://arxiv.org/abs/2610.30080) · [PDF](https://arxiv.org/pdf/2610.30080) | needs-review |
 | 2026-10-20 | Warping the Workspace: Expanding Visual Access with Adjustable Reach Mapping for Humanoid Teleoperation | Keigo Minamida, Koya Dendo, Yuto Nakamura, Jun Rekimoto | [Abstract](https://arxiv.org/abs/2610.28712) · [PDF](https://arxiv.org/pdf/2610.28712) | needs-review |
 | 2026-10-20 | Temporal Difference Learning of Probabilistic Reach-Avoid Value Functions | Elias Fontanari, Pietro Noah Crestaz, Matteo Saveriano, Andrea Del Prete | [Abstract](https://arxiv.org/abs/2610.28106) · [PDF](https://arxiv.org/pdf/2610.28106) | needs-review |
 | 2026-10-20 | COWBOY: A Scalable Sim-to-Real Framework for Learning Contextual Whole-Body Manipulation | Jiahui Yang, Jason Jingzhou Liu, Ray Muxin Liu, Andrew E. Wang et al. | [Abstract](https://arxiv.org/abs/2610.28948) · [PDF](https://arxiv.org/pdf/2610.28948) | needs-review |
@@ -715,8 +723,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-14 | Self-Contained Calibration of an Elastic Humanoid Upper Body Using Only a Head-Mounted RGB Camera | Johannes Tenhumberg, Dominik Winkelbauer, Darius Burschka, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2311.08338) · [PDF](https://arxiv.org/pdf/2311.08338) | needs-review |
 | 2023-11-14 | Calibration of an Elastic Humanoid Upper Body and Efficient Compensation for Motion Planning | Johannes Tenhumberg, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2311.08333) · [PDF](https://arxiv.org/pdf/2311.08333) | needs-review |
 | 2023-11-06 | The European Moon Rover System: a modular multipurpose rover for future complex lunar missions | Cristina Luna, Manuel Esquer, Jorge Barrientos-Díez, Alba Guerra et al. | [Abstract](https://arxiv.org/abs/2311.03136) · [PDF](https://arxiv.org/pdf/2311.03136) | needs-review |
-| 2023-11-03 | A Graph-to-Text Approach to Knowledge-Grounded Response Generation in Human-Robot Interaction | Nicholas Thomas Walker, Stefan Ultes, Pierre Lison | [Abstract](https://arxiv.org/abs/2311.16137) · [PDF](https://arxiv.org/pdf/2311.16137) | needs-review |
-| 2023-11-01 | Mechanically-Inflatable Bio-Inspired Locomotion for Robotic Pipeline Inspection | Mostafa A. Atalla, Fabian Trauzettel, Sebastiaan P. van Gelder, Paul Breedveld et al. | [Abstract](https://arxiv.org/abs/2311.00232) · [PDF](https://arxiv.org/pdf/2311.00232) | needs-review |
 
 ---
 

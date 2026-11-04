@@ -1,12 +1,12 @@
 # Physics Engines & Parallel Simulation · 物理引擎与并行仿真
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Physics%20Engines%20%26%20Parallel%20Simulation#research-workbench)
 
-> 15 conference papers · 124 recent arXiv papers
+> 15 conference papers · 126 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -40,10 +40,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Out-of-Dynamics Imitation Learning from Multimodal Demonstrations | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2211.06839) · [Index](https://dblp.org/rec/conf/corl/Qiu0CL22) | rule-assigned |
 | 2022 | Gazebo Fluids: SPH-based simulation of fluid interaction with articulated rigid body dynamics | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982036) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982036) | rule-assigned |
 
-## Recent arXiv papers (124)
+## Recent arXiv papers (126)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-01 | Dual Path Following for an Aerial Manipulator Under State and Input Constraints via Transverse Feedback Linearization | Hamza Tariq, Adeel Akhtar | [Abstract](https://arxiv.org/abs/2611.01442) · [PDF](https://arxiv.org/pdf/2611.01442) | rule-assigned |
+| 2026-10-29 | FlapSim: A Composable MuJoCo Simulation Platform and Reduced-Order Aerodynamic Model Hierarchy for Flapping-Wing Robotics | Mingshan He | [Abstract](https://arxiv.org/abs/2610.40902) · [PDF](https://arxiv.org/pdf/2610.40902) | rule-assigned |
 | 2026-10-25 | Enabling Motion-Induced WiFi-CSI Sensing in Multi-Robot Systems: A Simulation Framework | Brendan Dijkstra, Ninad Jadhav, Maurice Stoffijn, Stephanie Gil et al. | [Abstract](https://arxiv.org/abs/2610.34034) · [PDF](https://arxiv.org/pdf/2610.34034) | rule-assigned |
 | 2026-10-16 | Where Planning Changes the Outcome of Orbital Games | Duncan Eddy, Mahdi Al-Husseini, Mykel J. Kochenderfer | [Abstract](https://arxiv.org/abs/2610.37686) · [PDF](https://arxiv.org/pdf/2610.37686) | rule-assigned |
 | 2026-10-14 | A Master-to-Simulation Interface with Demonstration-Trajectory Guidance for Vascular Intervention | Mingyu Zou, Shuxiang Guo, Sheng Cao, Pengcheng Li et al. | [Abstract](https://arxiv.org/abs/2610.19395) · [PDF](https://arxiv.org/pdf/2610.19395) | rule-assigned |

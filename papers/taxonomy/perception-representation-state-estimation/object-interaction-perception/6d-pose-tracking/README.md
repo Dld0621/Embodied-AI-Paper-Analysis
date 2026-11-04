@@ -1,7 +1,7 @@
 # 6D Pose & Tracking · 六维姿态与跟踪
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Object%20%26%20Interaction%20Perception&specialty=6D%20Pose%20%26%20Tracking#research-workbench)
@@ -67,8 +67,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
-| 2026-10-27 | Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well | Ian Chuang, Hiya Shah, Vamsi Chilamkur, Iman Soltani et al. | [Abstract](https://arxiv.org/abs/2610.37652) · [PDF](https://arxiv.org/pdf/2610.37652) | rule-assigned |
 | 2026-10-27 | Polarity--Time Interaction and Multi-Level Reliability for Event-Based Spacecraft Pose Estimation | Yonglong Zhang, Zongwu Xie, Yang Liu | [Abstract](https://arxiv.org/abs/2610.36625) · [PDF](https://arxiv.org/pdf/2610.36625) | rule-assigned |
+| 2026-10-27 | Dexterous In-Hand Object Pose Reaching with Learned Safety Filters | Ian Chuang, Hiya Shah, Vamsi Chilamkur, Iman Soltani et al. | [Abstract](https://arxiv.org/abs/2610.37652) · [PDF](https://arxiv.org/pdf/2610.37652) | rule-assigned |
 | 2026-10-20 | RoPT: Robust 6DoF Object Pose Tracking in Video | Yongqing Liang, Yuzhong Chen, Sihang Li, Junsuk Kim et al. | [Abstract](https://arxiv.org/abs/2610.28962) · [PDF](https://arxiv.org/pdf/2610.28962) | rule-assigned |
 | 2026-10-15 | Uni-PNP: Unified Prehensile and Non-prehensile Policy Learning for Generalizable Object Pose Reaching | Wenxuan Zhu, Yuze Wang, Jiangran Lyu, Jiayi Chen et al. | [Abstract](https://arxiv.org/abs/2610.21735) · [PDF](https://arxiv.org/pdf/2610.21735) | rule-assigned |
 | 2026-10-15 | CLAD: Keypoint Matching Using Global Line Correspondences | Masaki Satoh | [Abstract](https://arxiv.org/abs/2610.21409) · [PDF](https://arxiv.org/pdf/2610.21409) | rule-assigned |
@@ -184,6 +184,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-04-09 | Multi-Object Tracking for Collision Avoidance Using Multiple Cameras in Open RAN Networks | Jordi Serra, Anton Aguilar, Ebrahim Abu-Helalah, Raúl Parada et al. | [Abstract](https://arxiv.org/abs/2504.07163) · [PDF](https://arxiv.org/pdf/2504.07163) | rule-assigned |
 | 2025-03-28 | Bimanual Regrasp Planning and Control for Active Reduction of Object Pose Uncertainty | Ryuta Nagahama, Weiwei Wan, Zhengtao Hu, Kensuke Harada | [Abstract](https://arxiv.org/abs/2503.22240) · [PDF](https://arxiv.org/pdf/2503.22240) | rule-assigned |
 | 2025-03-25 | Visuo-Tactile Object Pose Estimation for a Multi-Finger Robot Hand with Low-Resolution In-Hand Tactile Sensing | Lukas Mack, Felix Grüninger, Benjamin A. Richardson, Regine Lendway et al. | [Abstract](https://arxiv.org/abs/2503.19893) · [PDF](https://arxiv.org/pdf/2503.19893) | rule-assigned |
+| 2025-03-25 | Design of an Underwater Vehicle With Orientation-Adjustable Thrusters and Adaptive Tracking Control | Yifei Wang, Shihan Kong, Zhanhua Xin, Kaiwei Zhu et al. | [Abstract](https://arxiv.org/abs/2503.19288) · [PDF](https://arxiv.org/pdf/2503.19288) | rule-assigned |
 | 2025-03-24 | Any6D: Model-free 6D Pose Estimation of Novel Objects | Taeyeop Lee, Bowen Wen, Minjun Kang, Gyuree Kang et al. | [Abstract](https://arxiv.org/abs/2503.18673) · [PDF](https://arxiv.org/pdf/2503.18673) | rule-assigned |
 | 2025-03-18 | Foundation Feature-Driven Online End-Effector Pose Estimation: A Marker-Free and Learning-Free Approach | Tianshu Wu, Jiyao Zhang, Shiqian Liang, Zhengxiao Han et al. | [Abstract](https://arxiv.org/abs/2503.14051) · [PDF](https://arxiv.org/pdf/2503.14051) | rule-assigned |
 | 2025-03-17 | OptiPMB: Enhancing 3D Multi-Object Tracking with Optimized Poisson Multi-Bernoulli Filtering | Guanhua Ding, Yuxuan Xia, Runwei Guan, Qinchen Wu et al. | [Abstract](https://arxiv.org/abs/2503.12968) · [PDF](https://arxiv.org/pdf/2503.12968) | rule-assigned |
@@ -269,7 +270,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-09 | Visually Guided Model Predictive Robot Control via 6D Object Pose Localization and Tracking | Mederic Fourmy, Vojtech Priban, Jan Kristof Behrens, Nicolas Mansard et al. | [Abstract](https://arxiv.org/abs/2311.05344) · [PDF](https://arxiv.org/pdf/2311.05344) | rule-assigned |
 | 2023-11-06 | Obstacle- and Occlusion-Responsive Visual Tracking Control for Redundant Manipulators using Reachability Measure | Mincheul Kang, Junhyoung Ha | [Abstract](https://arxiv.org/abs/2311.03029) · [PDF](https://arxiv.org/pdf/2311.03029) | rule-assigned |
 | 2023-11-05 | Fast Point Cloud to Mesh Reconstruction for Deformable Object Tracking | Elham Amin Mansour, Hehui Zheng, Robert K. Katzschmann | [Abstract](https://arxiv.org/abs/2311.02749) · [PDF](https://arxiv.org/pdf/2311.02749) | rule-assigned |
-| 2023-10-30 | CARPE-ID: Continuously Adaptable Re-identification for Personalized Robot Assistance | Federico Rollo, Andrea Zunino, Nikolaos Tsagarakis, Enrico Mingo Hoffman et al. | [Abstract](https://arxiv.org/abs/2310.19413) · [PDF](https://arxiv.org/pdf/2310.19413) | rule-assigned |
 
 ---
 

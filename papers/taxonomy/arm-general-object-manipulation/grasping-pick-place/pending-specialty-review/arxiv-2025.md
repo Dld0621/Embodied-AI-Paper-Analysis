@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题 · arXiv 2025
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 450 papers · complete list for this taxonomy leaf
+> 449 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -43,7 +43,6 @@
 | 2025-12-04 | FALCON: Actively Decoupled Visuomotor Policies for Loco-Manipulation with Foundation-Model-Based Coordination | Chengyang He, Ge Sun, Yue Bai, Junkai Lu et al. | [Abstract](https://arxiv.org/abs/2512.04381) · [PDF](https://arxiv.org/pdf/2512.04381) | needs-review |
 | 2025-12-04 | Closed-Loop Robotic Manipulation of Transparent Substrates for Self-Driving Laboratories using Deep Learning Micro-Error Correction | Kelsey Fontenot, Anjali Gorti, Iva Goel, Tonio Buonassisi et al. | [Abstract](https://arxiv.org/abs/2512.06038) · [PDF](https://arxiv.org/pdf/2512.06038) | needs-review |
 | 2025-12-03 | VAT: Vision Action Transformer by Unlocking Full Representation of ViT | Wenhao Li, Chengwei Ma, Weixin Mao | [Abstract](https://arxiv.org/abs/2512.06013) · [PDF](https://arxiv.org/pdf/2512.06013) | needs-review |
-| 2025-12-03 | ResponsibleRobotBench: Benchmarking Responsible Robot Manipulation using Multi-modal Large Language Models | Lei Zhang, Ju Dong, Kaixin Bai, Minheng Ni et al. | [Abstract](https://arxiv.org/abs/2512.04308) · [PDF](https://arxiv.org/pdf/2512.04308) | needs-review |
 | 2025-12-03 | AdaPower: Specializing World Foundation Models for Predictive Manipulation | Yuhang Huang, Shilong Zou, Jiazhao Zhang, Xinwang Liu et al. | [Abstract](https://arxiv.org/abs/2512.03538) · [PDF](https://arxiv.org/pdf/2512.03538) | needs-review |
 | 2025-12-02 | SAM2Grasp: Resolve Multi-modal Grasping via Prompt-conditioned Temporal Action Prediction | Shengkai Wu, Jinrong Yang, Wenqiu Luo, Linfeng Gao et al. | [Abstract](https://arxiv.org/abs/2512.02609) · [PDF](https://arxiv.org/pdf/2512.02609) | needs-review |
 | 2025-12-02 | Diagnose, Correct, and Learn from Manipulation Failures via Visual Symbols | Xianchao Zeng, Xinyu Zhou, Youcheng Li, Jiayou Shi et al. | [Abstract](https://arxiv.org/abs/2512.02787) · [PDF](https://arxiv.org/pdf/2512.02787) | needs-review |

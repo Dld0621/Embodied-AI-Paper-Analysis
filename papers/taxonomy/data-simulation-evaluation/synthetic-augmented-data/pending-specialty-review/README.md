@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Synthetic%20%26%20Augmented%20Data&specialty=Pending%20specialty%20review#research-workbench)
 
-> 5 conference papers · 38 recent arXiv papers
+> 5 conference papers · 39 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -30,10 +30,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations | CoRL · Demonstration generation | [Paper](https://arxiv.org/abs/2310.17596) · [Official](https://proceedings.mlr.press/v229/) · [Code](https://github.com/NVlabs/mimicgen) | needs-review |
 | 2022 | Touching a NeRF: Leveraging Neural Radiance Fields for Tactile Sensory Data Generation | CoRL · Tactile | [Paper](https://www.semanticscholar.org/paper/52ad7e7133b19adf85e49478fe17229fc893cd8f) · [Index](https://dblp.org/rec/conf/corl/ZhongAJMP22) | needs-review |
 
-## Recent arXiv papers (38)
+## Recent arXiv papers (39)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-31 | ClothDojo: Learned Data Generation and Benchmarking for Bimanual Garment Flattening and Folding | Zilong Huang, Zipeng Ye, Caicheng Wang, Yuchen Xie et al. | [Abstract](https://arxiv.org/abs/2611.01190) · [PDF](https://arxiv.org/pdf/2611.01190) | needs-review |
 | 2026-10-24 | RoboReason: Boosting Robotics-Relevant VLM Reasoning Through Scalable Data Generation | Sagnik Anupam, Utkarsh Lal, Aneesh Edara, Botong Zhang et al. | [Abstract](https://arxiv.org/abs/2610.33778) · [PDF](https://arxiv.org/pdf/2610.33778) | needs-review |
 | 2026-10-13 | OneDemo: Unified Policy Learning and Data Generation from a Single Demonstration | Ying Qian, Jianshu Hu, Han Fang, Shuguang Li et al. | [Abstract](https://arxiv.org/abs/2610.18188) · [PDF](https://arxiv.org/pdf/2610.18188) | needs-review |
 | 2026-09-28 | SkillWeaver: Agentic Exploration over Neural Interaction Skills for Scalable Robot Data Generation | He Zhu, Lusen Zhao, Kwan Man Cheng, Su Li et al. | [Abstract](https://arxiv.org/abs/2609.36171) · [PDF](https://arxiv.org/pdf/2609.36171) | needs-review |

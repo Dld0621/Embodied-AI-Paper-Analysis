@@ -1,7 +1,7 @@
 # Generative Data Augmentation · 生成模型辅助数据
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Synthetic%20%26%20Augmented%20Data&specialty=Generative%20Data%20Augmentation#research-workbench)
@@ -40,6 +40,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-30 | CausalWAM: Learning the Causes of Actions in World Action Models | Juntao Cheng, Jinzhou Tang, Fan Feng, Henrik I. Christensen et al. | [Abstract](https://arxiv.org/abs/2610.42096) · [PDF](https://arxiv.org/pdf/2610.42096) | rule-assigned |
 | 2026-10-22 | Learning Robot Behavior Priors from Non-Robotic Synthetic Data | Mateusz Odrowaz-Sypniewski, Michael Amir, Jasmine Bayrooti, Ajay Shankar et al. | [Abstract](https://arxiv.org/abs/2610.31275) · [PDF](https://arxiv.org/pdf/2610.31275) | rule-assigned |
 | 2026-10-21 | Robot Generalization Beyond Volume: The Diversity Path via Zero-Shot Capabilities | Rafael Felix, Flavia Yanase | [Abstract](https://arxiv.org/abs/2610.29829) · [PDF](https://arxiv.org/pdf/2610.29829) | rule-assigned |
 | 2026-10-14 | NavAble: A Large-Scale Dataset and Synthetic Data Generation Pipeline for Blind Navigation | Hochul Hwang, Jahir Sadik Monon, Soowan Yang, Shiven Umeshbhai Patel et al. | [Abstract](https://arxiv.org/abs/2610.19330) · [PDF](https://arxiv.org/pdf/2610.19330) | rule-assigned |
@@ -151,7 +152,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-04 | Using human and robot synthetic data for training smart hand tools | Jose Bendana, Sundar Sripada V. S., Carlos D. Salazar, Sandeep Chinchali et al. | [Abstract](https://arxiv.org/abs/2312.01550) · [PDF](https://arxiv.org/pdf/2312.01550) | rule-assigned |
 | 2023-11-23 | Tube-NeRF: Efficient Imitation Learning of Visuomotor Policies from MPC using Tube-Guided Data Augmentation and NeRFs | Andrea Tagliabue, Jonathan P. How | [Abstract](https://arxiv.org/abs/2311.14153) · [PDF](https://arxiv.org/pdf/2311.14153) | rule-assigned |
 | 2023-11-18 | Synthetic Data Generation for Bridging Sim2Real Gap in a Production Environment | Parth Rawal, Mrunal Sompura, Wolfgang Hintze | [Abstract](https://arxiv.org/abs/2311.11039) · [PDF](https://arxiv.org/pdf/2311.11039) | rule-assigned |
-| 2023-10-31 | Addressing Limitations of State-Aware Imitation Learning for Autonomous Driving | Luca Cultrera, Federico Becattini, Lorenzo Seidenari, Pietro Pala et al. | [Abstract](https://arxiv.org/abs/2310.20650) · [PDF](https://arxiv.org/pdf/2310.20650) | rule-assigned |
 
 ---
 

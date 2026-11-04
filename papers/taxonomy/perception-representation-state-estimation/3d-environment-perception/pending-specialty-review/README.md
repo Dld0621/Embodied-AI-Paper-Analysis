@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=Pending%20specialty%20review#research-workbench)
 
-> 25 conference papers · 461 recent arXiv papers
+> 25 conference papers · 459 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -50,10 +50,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | End-to-End Learning of Hybrid Inverse Dynamics Models for Precise and Compliant Impedance Control | RSS · Dynamics Model | [Paper](https://arxiv.org/pdf/2205.13804) · [Index](https://dblp.org/rec/conf/rss/ReussD0BSN22) | needs-review |
 | 2022 | iSDF: Real-Time Neural Signed Distance Fields for Robot Perception | RSS · Robot Perception | [Paper](https://arxiv.org/abs/2204.02296) · [Index](https://dblp.org/rec/journals/corr/abs-2204-02296) | needs-review |
 
-## Recent arXiv papers (461)
+## Recent arXiv papers (459)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-30 | TRACE: Target-State Risk-Aligned Conditional Execution for Embodied Tracking | Mingyang Lyu, Gongce Cao, Yiyang Jia, Lu Jia et al. | [Abstract](https://arxiv.org/abs/2610.41275) · [PDF](https://arxiv.org/pdf/2610.41275) | needs-review |
 | 2026-10-29 | Fundamental Limits of Sampling-Based Reachability: Geometry and Flow Distortion | Jixian Liu, Ihab Tabbara, Hussein Sibai, Enrique Mallada | [Abstract](https://arxiv.org/abs/2610.40473) · [PDF](https://arxiv.org/pdf/2610.40473) | needs-review |
 | 2026-10-26 | VisGeo-PipeTrack: A Visual Geometric Servo Control Framework with MPC-RCAPID Control for UAV-Based Dynamic Pipes Tracking | Zhenyang Gao, Jianlin Chen, Yang Yu, Honghao Shan et al. | [Abstract](https://arxiv.org/abs/2610.35342) · [PDF](https://arxiv.org/pdf/2610.35342) | needs-review |
 | 2026-10-26 | Thermal-Headroom Routing for Efficient Robot Perception in Extreme Heat | Sparsh Roy, Kevin Zhou, Arhaan Shah, Shreyan Garg et al. | [Abstract](https://arxiv.org/abs/2610.35231) · [PDF](https://arxiv.org/pdf/2610.35231) | needs-review |
@@ -164,7 +165,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-18 | ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop | Yining Hong, Jiageng Liu, Han Yin, Manling Li et al. | [Abstract](https://arxiv.org/abs/2605.18746) · [PDF](https://arxiv.org/pdf/2605.18746) | needs-review |
 | 2026-05-16 | Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy | Wenxiao Chen, Xueyu Yuan, Liu Liu, Di Wu et al. | [Abstract](https://arxiv.org/abs/2605.17033) · [PDF](https://arxiv.org/pdf/2605.17033) | needs-review |
 | 2026-05-15 | Task-Semantic Graph-Driven Distributed Agent Networking for Underwater Target Tracking | Shengchao Zhu, Guangjie Han, Chuan Lin, Yu He | [Abstract](https://arxiv.org/abs/2605.15528) · [PDF](https://arxiv.org/pdf/2605.15528) | needs-review |
-| 2026-05-15 | Constrained MPC-Based Motion Planning for Morphing Quadrotors in Ultra-Narrow Passages under Limited Perception | Harsh Modi, Xiao Liang, Minghui Zheng | [Abstract](https://arxiv.org/abs/2605.15999) · [PDF](https://arxiv.org/pdf/2605.15999) | needs-review |
 | 2026-05-13 | CUBic: Coordinated Unified Bimanual Perception and Control Framework | Xingyu Wang, Pengxiang Ding, Jingkai Xu, Donglin Wang et al. | [Abstract](https://arxiv.org/abs/2605.13452) · [PDF](https://arxiv.org/pdf/2605.13452) | needs-review |
 | 2026-05-12 | Cooperative Robotics Reinforced by Collective Perception for Traffic Moderation | Mohammad Khoshkdahan, John Pravin Arockiasamy, Andy Flores Comeca, Alexey Vinel | [Abstract](https://arxiv.org/abs/2605.11972) · [PDF](https://arxiv.org/pdf/2605.11972) | needs-review |
 | 2026-05-08 | Operating Within the Operational Design Domain: Zero-Shot Perception with Vision-Language Models | Berkehan Ünal, Hauke Dierend, Dren Fazlija, Christopher Plachetka | [Abstract](https://arxiv.org/abs/2605.07649) · [PDF](https://arxiv.org/pdf/2605.07649) | needs-review |
@@ -513,8 +513,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-10 | Robust Adversarial Attacks Detection for Deep Learning based Relative Pose Estimation for Space Rendezvous | Ziwei Wang, Nabil Aouf, Jose Pizarro, Christophe Honvault | [Abstract](https://arxiv.org/abs/2311.05992) · [PDF](https://arxiv.org/pdf/2311.05992) | needs-review |
 | 2023-11-06 | Initialisation of Autonomous Aircraft Visual Inspection Systems via CNN-Based Camera Pose Estimation | Xueyan Oh, Leonard Loh, Shaohui Foong, Zhong Bao Andy Koh et al. | [Abstract](https://arxiv.org/abs/2311.02900) · [PDF](https://arxiv.org/pdf/2311.02900) | needs-review |
 | 2023-11-06 | Evolution of Collective Decision-Making Mechanisms for Collective Perception | Tanja Katharina Kaiser, Tristan Potten, Heiko Hamann | [Abstract](https://arxiv.org/abs/2311.02994) · [PDF](https://arxiv.org/pdf/2311.02994) | needs-review |
-| 2023-11-02 | Open-Set Object Recognition Using Mechanical Properties During Interaction | Pakorn Uttayopas, Xiaoxiao Cheng, Etienne Burdet | [Abstract](https://arxiv.org/abs/2311.01540) · [PDF](https://arxiv.org/pdf/2311.01540) | needs-review |
-| 2023-11-02 | LabelFormer: Object Trajectory Refinement for Offboard Perception from LiDAR Point Clouds | Anqi Joyce Yang, Sergio Casas, Nikita Dvornik, Sean Segal et al. | [Abstract](https://arxiv.org/abs/2311.01444) · [PDF](https://arxiv.org/pdf/2311.01444) | needs-review |
 
 ---
 

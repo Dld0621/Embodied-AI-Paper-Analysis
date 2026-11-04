@@ -1,7 +1,7 @@
 # Insertion & Assembly · 插入与装配
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Insertion%20%26%20Assembly#research-workbench)
@@ -155,6 +155,9 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-31 | Task-Specialized Language-Conditioned Models for Fine-Grained Robotic Manipulation | Chanho Kim, Soyun Choi | [Abstract](https://arxiv.org/abs/2611.00955) · [PDF](https://arxiv.org/pdf/2611.00955) | rule-assigned |
+| 2026-10-30 | Teach, Abstract, Apply: A Framework for Dialogue-Driven Task Learning with Collaborative Robots | Chalamalasetti Kranti, Sherzod Hakimov, David Schlangen | [Abstract](https://arxiv.org/abs/2611.00297) · [PDF](https://arxiv.org/pdf/2611.00297) | rule-assigned |
+| 2026-10-30 | SketchMate: Agentic Geometric Reasoning for Zero-Shot Precision Insertion | Jiaming Wang | [Abstract](https://arxiv.org/abs/2610.41844) · [PDF](https://arxiv.org/pdf/2610.41844) | rule-assigned |
 | 2026-10-29 | DAWN: Diffusion-based Alignment and unfastening Workflow Network | Hemant Kumar, Piyush Goenka, Nikhil Chopra | [Abstract](https://arxiv.org/abs/2610.40537) · [PDF](https://arxiv.org/pdf/2610.40537) | rule-assigned |
 | 2026-10-23 | Geometry-Aware Reinforcement Learning for Close-Fitting Wearable Insertion | Takuma Tsukakoshi, Elle Miller, Tamon Miyake, Namiko Saito et al. | [Abstract](https://arxiv.org/abs/2610.32143) · [PDF](https://arxiv.org/pdf/2610.32143) | rule-assigned |
 | 2026-10-21 | Learning to Absorb Corrections: Critic-Weighted Residual Flow for Vision-Based Insertion | Yiqing Yuan, Zhi Li, Jinrong Yang, Mingshan Sun et al. | [Abstract](https://arxiv.org/abs/2610.29117) · [PDF](https://arxiv.org/pdf/2610.29117) | rule-assigned |
@@ -368,7 +371,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-07-25 | GEAR: Gaze-Enabled Human-Robot Collaborative Assembly | Asad Ali Shahid, Angelo Moroncelli, Drazen Brscic, Takayuki Kanda et al. | [Abstract](https://arxiv.org/abs/2507.18947) · [PDF](https://arxiv.org/pdf/2507.18947) | rule-assigned |
 | 2025-07-20 | Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper | Xinyue Zhu, Binghao Huang, Yunzhu Li | [Abstract](https://arxiv.org/abs/2507.15062) · [PDF](https://arxiv.org/pdf/2507.15062) | rule-assigned |
 | 2025-07-17 | CubeSat Orbit Insertion Maneuvering Using J2 Perturbation | M. Amin Alandihallaj, M. Reza Emami | [Abstract](https://arxiv.org/abs/2507.13017) · [PDF](https://arxiv.org/pdf/2507.13017) | rule-assigned |
-| 2025-07-15 | EquiContact: A Hierarchical SE(3) Vision-to-Force Equivariant Policy for Spatially Generalizable Contact-rich Tasks | Joohwan Seo, Arvind Kruthiventy, Soomi Lee, Megan Teng et al. | [Abstract](https://arxiv.org/abs/2507.10961) · [PDF](https://arxiv.org/pdf/2507.10961) | rule-assigned |
+| 2025-07-15 | EquiContact: A Hierarchical SE(3) Vision-to-Force Equivariant Framework for Spatially Generalizable Contact-rich Tasks | Joohwan Seo, Arvind Kruthiventy, Soomi Lee, Megan Teng et al. | [Abstract](https://arxiv.org/abs/2507.10961) · [PDF](https://arxiv.org/pdf/2507.10961) | rule-assigned |
 | 2025-07-15 | Enhancing Autonomous Manipulator Control with Human-in-loop for Uncertain Assembly Environments | Ashutosh Mishra, Shreya Santra, Hazal Gozbasi, Kentaro Uno et al. | [Abstract](https://arxiv.org/abs/2507.11006) · [PDF](https://arxiv.org/pdf/2507.11006) | rule-assigned |
 | 2025-07-09 | Failure Forecasting Boosts Robustness of Sim2Real Rhythmic Insertion Policies | Yuhan Liu, Xinyu Zhang, Haonan Chang, Abdeslam Boularias | [Abstract](https://arxiv.org/abs/2507.06519) · [PDF](https://arxiv.org/pdf/2507.06519) | rule-assigned |
 | 2025-07-05 | Accurate Pose Estimation Using Contact Manifold Sampling for Safe Peg-in-Hole Insertion of Complex Geometries | Abhay Negi, Omey M. Manyar, Dhanush K. Penmetsa, Satyandra K. Gupta | [Abstract](https://arxiv.org/abs/2507.03925) · [PDF](https://arxiv.org/pdf/2507.03925) | rule-assigned |
@@ -517,9 +520,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-30 | CLS-CAD: Synthesizing CAD Assemblies in Fusion 360 | Constantin Chaumet, Jakob Rehof | [Abstract](https://arxiv.org/abs/2311.18492) · [PDF](https://arxiv.org/pdf/2311.18492) | rule-assigned |
 | 2023-11-26 | A Quick Response Algorithm for Dynamic Autonomous Mobile Robot Routing Problem with Time Windows | Lulu Cheng, Ning Zhao, Mengge Yuan, Kan Wu | [Abstract](https://arxiv.org/abs/2311.15302) · [PDF](https://arxiv.org/pdf/2311.15302) | rule-assigned |
 | 2023-11-13 | Bridging the Sim-to-Real Gap with Dynamic Compliance Tuning for Industrial Insertion | Xiang Zhang, Masayoshi Tomizuka, Hui Li | [Abstract](https://arxiv.org/abs/2311.07499) · [PDF](https://arxiv.org/pdf/2311.07499) | rule-assigned |
-| 2023-11-01 | Constant-time Motion Planning with Anytime Refinement for Manipulation | Itamar Mishani, Hayden Feddock, Maxim Likhachev | [Abstract](https://arxiv.org/abs/2311.00837) · [PDF](https://arxiv.org/pdf/2311.00837) | rule-assigned |
-| 2023-10-31 | Large-Scale Multi-Robot Assembly Planning for Autonomous Manufacturing | Kyle Brown, Dylan M. Asmar, Mac Schwager, Mykel J. Kochenderfer | [Abstract](https://arxiv.org/abs/2311.00192) · [PDF](https://arxiv.org/pdf/2311.00192) | rule-assigned |
-| 2023-10-30 | Scalable underwater assembly with reconfigurable visual fiducials | Samuel Lensgraf, Ankita Sarkar, Adithya Pediredla, Devin Balkcom et al. | [Abstract](https://arxiv.org/abs/2310.19408) · [PDF](https://arxiv.org/pdf/2310.19408) | rule-assigned |
 
 ---
 

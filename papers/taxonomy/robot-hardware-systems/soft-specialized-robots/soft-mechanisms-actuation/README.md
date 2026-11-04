@@ -1,12 +1,12 @@
 # Soft Mechanisms & Actuation · 软体机构与驱动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Soft%20%26%20Specialized%20Robots&specialty=Soft%20Mechanisms%20%26%20Actuation#research-workbench)
 
-> 4 conference papers · 68 recent arXiv papers
+> 4 conference papers · 65 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,7 +29,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Strong Compliant Grasps Using a Cable-Driven Soft Gripper | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS58592.2024.10801693) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801693) | rule-assigned |
 | 2022 | Collision-Aware Fast Simulation for Soft Robots by Optimization-Based Geometric Computing | IROS · Simulation | [Paper](https://arxiv.org/pdf/2203.02054) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981870) | rule-assigned |
 
-## Recent arXiv papers (68)
+## Recent arXiv papers (65)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -44,7 +44,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-31 | Learning to infer and manipulate through distributed whole-arm interaction in a soft robot | Chuhan Zhang, Ebrahim Shahabi, Kseniia Khomenko, Wei Pan et al. | [Abstract](https://arxiv.org/abs/2608.30773) · [PDF](https://arxiv.org/pdf/2608.30773) | rule-assigned |
 | 2026-08-14 | Real-time Estimator of Actuator Control and Health (REACH) on an Eel-Inspired Soft Robot | Zhangjingyi Jiang, Myungsun Park, Michael T. Tolley, Mark Campbell | [Abstract](https://arxiv.org/abs/2608.14865) · [PDF](https://arxiv.org/pdf/2608.14865) | rule-assigned |
 | 2026-08-14 | Modeling and Control of an Eel-Inspired Soft Robot for Design Optimization | Zhangjingyi Jiang, Mark Campbell | [Abstract](https://arxiv.org/abs/2608.14860) · [PDF](https://arxiv.org/pdf/2608.14860) | rule-assigned |
-| 2026-07-17 | Continuously Stable Structure through Plastic Deformation | Junlong Xiao, Yaoqiang Pan, Xuan Zhang, Michael Yu Wang et al. | [Abstract](https://arxiv.org/abs/2607.15659) · [PDF](https://arxiv.org/pdf/2607.15659) | rule-assigned |
 | 2026-07-16 | Hybrid Rigid-Soft Robotic Gripper with Shape Adaptation, Uniform Force Distribution, and Self-Locking Capabilities | Xi Chen, Yun Wang, Lichao Yang, Haitao Li et al. | [Abstract](https://arxiv.org/abs/2607.14730) · [PDF](https://arxiv.org/pdf/2607.14730) | rule-assigned |
 | 2026-06-02 | Optimal Design and Analytical Modeling of a Soft Fin-Ray Effect Gripper Finger Using the Finite Rigid Elements Method | Sara Adeli, Hassan Sayyaadi | [Abstract](https://arxiv.org/abs/2606.03798) · [PDF](https://arxiv.org/pdf/2606.03798) | rule-assigned |
 | 2026-04-17 | Contact-Aware Planning and Control of Continuum Robots in Highly Constrained Environments | Aedan Mangan, Kehan Long, Ki Myung Brian Lee, Miheer Potdar et al. | [Abstract](https://arxiv.org/abs/2604.15638) · [PDF](https://arxiv.org/pdf/2604.15638) | rule-assigned |
@@ -99,8 +98,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-08 | Fluidic FlowBots: Intelligence embodied in the characteristics of recirculating fluid flow | Maks Gepner, Jonah Mack, Francesco Giorgio-Serchi, Adam A. Stokes | [Abstract](https://arxiv.org/abs/2312.05198) · [PDF](https://arxiv.org/pdf/2312.05198) | rule-assigned |
 | 2023-11-21 | Fin-QD: A Computational Design Framework for Soft Grippers: Integrating MAP-Elites and High-fidelity FEM | Yue Xie, Xing Wang, Fumiya Iida, David Howard | [Abstract](https://arxiv.org/abs/2311.12477) · [PDF](https://arxiv.org/pdf/2311.12477) | rule-assigned |
 | 2023-11-12 | Multimodal Learning of Soft Robot Dynamics using Differentiable Filters | Xiao Liu, Yifan Zhou, Shuhei Ikemoto, Heni Ben Amor | [Abstract](https://arxiv.org/abs/2311.06954) · [PDF](https://arxiv.org/pdf/2311.06954) | rule-assigned |
-| 2023-11-03 | Learning Reduced-Order Soft Robot Controller | Chen Liang, Xifeng Gao, Kui Wu, Zherong Pan | [Abstract](https://arxiv.org/abs/2311.01720) · [PDF](https://arxiv.org/pdf/2311.01720) | rule-assigned |
-| 2023-11-02 | Estimating Infinite-Dimensional Continuum Robot States From the Tip | Tongjia Zheng, Ciera McFarland, Margaret Coad, Hai Lin | [Abstract](https://arxiv.org/abs/2311.01517) · [PDF](https://arxiv.org/pdf/2311.01517) | rule-assigned |
 
 ---
 

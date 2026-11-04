@@ -1,12 +1,12 @@
 # Embodied QA & Spatial Reasoning · 具身问答与空间推理
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Task%20Reasoning%20%26%20Planning&specialty=Embodied%20QA%20%26%20Spatial%20Reasoning#research-workbench)
 
-> 12 conference papers · 114 recent arXiv papers
+> 12 conference papers · 117 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -37,10 +37,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Explore until Confident: Efficient Exploration for Embodied Question Answering | RSS · Exploration | [Paper](https://arxiv.org/abs/2403.15941) · [Index](https://dblp.org/rec/conf/rss/RenCDIMS24) | rule-assigned |
 | 2022 | Inner Monologue: Embodied Reasoning through Planning with Language Models | CoRL · Language Model | [Paper](https://arxiv.org/abs/2207.05608) · [Index](https://dblp.org/rec/conf/corl/HuangXXCLFZTMCS22) | rule-assigned |
 
-## Recent arXiv papers (114)
+## Recent arXiv papers (117)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-01 | Do Embodied VLMs Actually Use Their Scene-Graph Memory? | Shubh Garg, Divyansh Pandey, Vedant Khandelwal, Niyati Rawal et al. | [Abstract](https://arxiv.org/abs/2611.02056) · [PDF](https://arxiv.org/pdf/2611.02056) | rule-assigned |
+| 2026-11-01 | Answering Without Arriving: An Evidence Audit for Embodied Question Answering | Shubh Garg, Divyansh Pandey, Niyati Rawal, Vedant Khandelwal et al. | [Abstract](https://arxiv.org/abs/2611.01958) · [PDF](https://arxiv.org/pdf/2611.01958) | rule-assigned |
+| 2026-10-30 | SPARK: Self-Correcting Embodied Memory via Physical Re-Observation | Dmytro Kurdydyk, Aadi Palnitkar, Sebastian Scherer, Seungchan Kim | [Abstract](https://arxiv.org/abs/2611.00344) · [PDF](https://arxiv.org/pdf/2611.00344) | rule-assigned |
+| 2026-10-30 | Learning to Live: A Step Toward Lifelong Embodied Intelligence | Lirong Che, Peidong Wang, Yimeng Su, Jiong Wang et al. | [Abstract](https://arxiv.org/abs/2611.00180) · [PDF](https://arxiv.org/pdf/2611.00180) | rule-assigned |
 | 2026-10-15 | Spatial Memory by Agents, for Agents | Qianwei Wang, Ce Zhang, Zhanpeng Luo, Pengpeng Su et al. | [Abstract](https://arxiv.org/abs/2610.22736) · [PDF](https://arxiv.org/pdf/2610.22736) | rule-assigned |
 | 2026-10-13 | Towards a Systematic Study of Embodied System 2 over Full Task Execution Cycles | Yuxi Wei, Ye Fang, Shuai Yang, Tong Wu et al. | [Abstract](https://arxiv.org/abs/2610.17657) · [PDF](https://arxiv.org/pdf/2610.17657) | rule-assigned |
 | 2026-10-06 | VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning | Zewei Zhou, Rachel Luo, Yulong Cao, Chaowei Xiao et al. | [Abstract](https://arxiv.org/abs/2610.08761) · [PDF](https://arxiv.org/pdf/2610.08761) | rule-assigned |
@@ -154,7 +158,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-21 | LingoQA: Visual Question Answering for Autonomous Driving | Ana-Maria Marcu, Long Chen, Jan Hünermann, Alice Karnsund et al. | [Abstract](https://arxiv.org/abs/2312.14115) · [PDF](https://arxiv.org/pdf/2312.14115) | rule-assigned |
 | 2023-12-20 | Interactive Visual Task Learning for Robots | Weiwei Gu, Anant Sah, Nakul Gopalan | [Abstract](https://arxiv.org/abs/2312.13219) · [PDF](https://arxiv.org/pdf/2312.13219) | rule-assigned |
 | 2023-12-02 | Exploring and Improving the Spatial Reasoning Abilities of Large Language Models | Manasi Sharma | [Abstract](https://arxiv.org/abs/2312.01054) · [PDF](https://arxiv.org/pdf/2312.01054) | rule-assigned |
-| 2023-11-01 | RoboVQA: Multimodal Long-Horizon Reasoning for Robotics | Pierre Sermanet, Tianli Ding, Jeffrey Zhao, Fei Xia et al. | [Abstract](https://arxiv.org/abs/2311.00899) · [PDF](https://arxiv.org/pdf/2311.00899) | rule-assigned |
 
 ---
 

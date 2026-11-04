@@ -1,12 +1,12 @@
 # Action-conditioned Video Prediction · 动作条件视频预测
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=World%20%26%20Dynamics%20Modeling&specialty=Action-conditioned%20Video%20Prediction#research-workbench)
 
-> 3 conference papers · 112 recent arXiv papers
+> 3 conference papers · 115 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | SAMPO:Scale-wise Autoregression with Motion PrOmpt for generative world models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2509.15536) · [Index](https://dblp.org/rec/conf/nips/WangTWLLDXZTH25) | rule-assigned |
 | 2024 | iVideoGPT: Interactive VideoGPTs are Scalable World Models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2405.15223) · [Index](https://dblp.org/rec/journals/corr/abs-2405-15223) | rule-assigned |
 
-## Recent arXiv papers (112)
+## Recent arXiv papers (115)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | PrimeSim: A Generalist World Model Simulator from Large-Scale Cross-Embodiment Demonstrations | Travis Davies, Wentao Ma, Lihao Guo, Tengfei Ma et al. | [Abstract](https://arxiv.org/abs/2611.04870) · [PDF](https://arxiv.org/pdf/2611.04870) | reviewed |
+| 2026-11-03 | HiLo-WAM: Decoupling Long-Horizon Task Evolution and Local Dynamics in World Action Models | Xingyu Wang, Yanjiang Guo, Zhijing Ding, Jiaxin Fang et al. | [Abstract](https://arxiv.org/abs/2611.05023) · [PDF](https://arxiv.org/pdf/2611.05023) | reviewed |
+| 2026-10-31 | pico-WAM: Evaluating Counterfactual Prediction and Planning Error in a Compact World Action Model | Keivalya Pandya | [Abstract](https://arxiv.org/abs/2611.01039) · [PDF](https://arxiv.org/pdf/2611.01039) | rule-assigned |
 | 2026-10-27 | World Dreamer v5-lite: A Multi-Robot World Action Model with One Dreamer | Guoning Wu, Zijian Cai, Yuhang Zhang, Ying Liu et al. | [Abstract](https://arxiv.org/abs/2610.37518) · [PDF](https://arxiv.org/pdf/2610.37518) | rule-assigned |
 | 2026-10-27 | TAPESTRY: A Single Backbone for Video Generation and Robot Control | Jeremy A. Collins, Seungjae Lee, Rachanon Wachakorn, Krishnan Srinivasan et al. | [Abstract](https://arxiv.org/abs/2610.36823) · [PDF](https://arxiv.org/pdf/2610.36823) | rule-assigned |
 | 2026-10-27 | How Much Can Best-of-N Help a World Action Model? Measuring Selectable Headroom and Realizing It in Closed Loop | Haojia Gao, Yue Cao, Yumin Liu, Haohua Que et al. | [Abstract](https://arxiv.org/abs/2610.37196) · [PDF](https://arxiv.org/pdf/2610.37196) | rule-assigned |

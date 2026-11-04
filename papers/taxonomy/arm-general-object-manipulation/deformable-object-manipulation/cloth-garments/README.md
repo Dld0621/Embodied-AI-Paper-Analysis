@@ -1,7 +1,7 @@
 # Cloth & Garments · 布料与衣物
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation&specialty=Cloth%20%26%20Garments#research-workbench)
@@ -51,6 +51,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-30 | Suspended-Fabric Robotic Manipulation Surfaces: Modelling, Design Space, and Multimodular Extensio | Pratik Ingle, Jørn Lambertsen, Kasper Støy, Andres Faiña | [Abstract](https://arxiv.org/abs/2610.41982) · [PDF](https://arxiv.org/pdf/2610.41982) | rule-assigned |
 | 2026-10-09 | Continuous-Time Cloth Dynamics with Physics-Informed Neural ODEs | Yingdong Ru, Lipeng Zhuang, Zhuo He, Gerardo Aragon Camarasa | [Abstract](https://arxiv.org/abs/2610.14342) · [PDF](https://arxiv.org/pdf/2610.14342) | rule-assigned |
 | 2026-10-07 | Same Action, Different Outcome: Variability in Dynamic Cloth Manipulation | Mahed Dadgostar, Guillem Alenyà, Júlia Borràs | [Abstract](https://arxiv.org/abs/2610.10801) · [PDF](https://arxiv.org/pdf/2610.10801) | rule-assigned |
 | 2026-10-07 | FoldBack: Self-Correcting Masked Generative Policy for Long-Horizon Garment Folding | Lipeng Zhuang, Shiyu Fan, Yingdong Ru, Zhuo He et al. | [Abstract](https://arxiv.org/abs/2610.10462) · [PDF](https://arxiv.org/pdf/2610.10462) | rule-assigned |
@@ -107,7 +108,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-01-24 | TraKDis: A Transformer-based Knowledge Distillation Approach for Visual Reinforcement Learning with Application to Cloth Manipulation | Wei Chen, Nicolas Rojas | [Abstract](https://arxiv.org/abs/2401.13362) · [PDF](https://arxiv.org/pdf/2401.13362) | rule-assigned |
 | 2023-11-27 | On Bringing Robots Home | Nur Muhammad Mahi Shafiullah, Anant Rai, Haritheja Etukuru, Yiqian Liu et al. | [Abstract](https://arxiv.org/abs/2311.16098) · [PDF](https://arxiv.org/pdf/2311.16098) | rule-assigned |
 | 2023-11-09 | Differentiable Cloth Parameter Identification and State Estimation in Manipulation | Dongzhe Zheng, Siqiong Yao, Wenqiang Xu, Cewu Lu | [Abstract](https://arxiv.org/abs/2311.05141) · [PDF](https://arxiv.org/pdf/2311.05141) | rule-assigned |
-| 2023-11-02 | UniFolding: Towards Sample-efficient, Scalable, and Generalizable Robotic Garment Folding | Han Xue, Yutong Li, Wenqiang Xu, Huanyu Li et al. | [Abstract](https://arxiv.org/abs/2311.01267) · [PDF](https://arxiv.org/pdf/2311.01267) | rule-assigned |
 
 ---
 

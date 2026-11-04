@@ -1,12 +1,12 @@
 # OOD & Uncertainty Evaluation · 分布外与不确定性评估
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Safety%20%26%20Reliability%20Evaluation&specialty=OOD%20%26%20Uncertainty%20Evaluation#research-workbench)
 
-> 8 conference papers · 146 recent arXiv papers
+> 8 conference papers · 145 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,10 +33,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | HRP: Human Affordances for Robotic Pre-Training | RSS · Affordance | [Paper](https://arxiv.org/abs/2407.18911) · [Index](https://dblp.org/rec/conf/rss/SriramaDB024) | rule-assigned |
 | 2023 | HYDRA: Hybrid Robot Actions for Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2306.17237) · [Index](https://dblp.org/rec/journals/corr/abs-2306-17237) | rule-assigned |
 
-## Recent arXiv papers (146)
+## Recent arXiv papers (145)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | All-For-One: Distilling Visual Foundation Models to a Fast, Memory-Efficient Visuomotor Policy | Byungkun Lee, Minho Park, Hojoon Lee, Dongyoon Hwang et al. | [Abstract](https://arxiv.org/abs/2611.04485) · [PDF](https://arxiv.org/pdf/2611.04485) | rule-assigned |
+| 2026-10-31 | Faster Imitation by Re-timing Demonstrations Within the Controller Limit | Zongtan Li, Tianming Liu, Ye Zhao | [Abstract](https://arxiv.org/abs/2611.00539) · [PDF](https://arxiv.org/pdf/2611.00539) | rule-assigned |
 | 2026-10-28 | Robotic Data Inoculation | Qiyang Li, Zhiyuan Zhou, Charles Xu, Sergey Levine | [Abstract](https://arxiv.org/abs/2610.39054) · [PDF](https://arxiv.org/pdf/2610.39054) | rule-assigned |
 | 2026-10-27 | Trace-WAM: Learning to Act via 3D Motion Prediction for World Action Models | Xu Hu, Changjie Wu, Linzhe Shi, Hang Zhang et al. | [Abstract](https://arxiv.org/abs/2610.36840) · [PDF](https://arxiv.org/pdf/2610.36840) | rule-assigned |
 | 2026-10-18 | Learning When to Adapt: Reactivity-Conditioned Residual Adaptation under Human-Robot Distribution Shift | Immanuel R. Santjoko, Benedictus C. G. Cinun, Jing Chen, Bin Hu | [Abstract](https://arxiv.org/abs/2610.25419) · [PDF](https://arxiv.org/pdf/2610.25419) | rule-assigned |
@@ -97,7 +99,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-03-26 | Can Vision Foundation Models Navigate? Zero-Shot Real-World Evaluation and Lessons Learned | Maeva Guerrier, Karthik Soma, Jana Pavlasek, Giovanni Beltrame | [Abstract](https://arxiv.org/abs/2603.25937) · [PDF](https://arxiv.org/pdf/2603.25937) | rule-assigned |
 | 2026-03-25 | Toward Generalist Neural Motion Planners for Robotic Manipulators: Challenges and Opportunities | Davood Soleymanzadeh, Ivan Lopez-Sanchez, Hao Su, Yunzhu Li et al. | [Abstract](https://arxiv.org/abs/2603.24318) · [PDF](https://arxiv.org/pdf/2603.24318) | rule-assigned |
 | 2026-03-24 | Edge Radar Material Classification Under Geometry Shifts | Jannik Hohmann, Dong Wang, Andreas Nüchter | [Abstract](https://arxiv.org/abs/2603.23342) · [PDF](https://arxiv.org/pdf/2603.23342) | rule-assigned |
-| 2026-03-16 | FlatLands: Generative Floormap Completion From a Single Egocentric View | Subhransu S. Bhattacharjee, Dylan Campbell, Rahul Shome | [Abstract](https://arxiv.org/abs/2603.16016) · [PDF](https://arxiv.org/pdf/2603.16016) | rule-assigned |
+| 2026-03-16 | FlatLands: Indoor floormap completion from a single egocentric view | Subhransu S. Bhattacharjee, Dylan Campbell, Rahul Shome | [Abstract](https://arxiv.org/abs/2603.16016) · [PDF](https://arxiv.org/pdf/2603.16016) | rule-assigned |
 | 2026-03-13 | Show, Don't Tell: Detecting Novel Objects by Watching Human Videos | James Akl, Jose Nicolas Avendano Arbelaez, James Barabas, Jennifer L. Barry et al. | [Abstract](https://arxiv.org/abs/2603.12751) · [PDF](https://arxiv.org/pdf/2603.12751) | rule-assigned |
 | 2026-03-09 | Decision-Aware Uncertainty Evaluation of Vision-Language Model-Based Early Action Anticipation for Human-Robot Interaction | Zhaoda Du, Michael Bowman, Qiaojie Zheng, Xiaoli Zhang | [Abstract](https://arxiv.org/abs/2603.10061) · [PDF](https://arxiv.org/pdf/2603.10061) | rule-assigned |
 | 2026-03-05 | TransMASK: Masked State Representation through Learned Transformation | Sagar Parekh, Preston Culbertson, Dylan P. Losey | [Abstract](https://arxiv.org/abs/2603.05670) · [PDF](https://arxiv.org/pdf/2603.05670) | rule-assigned |
@@ -180,9 +182,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-10 | Modifying RL Policies with Imagined Actions: How Predictable Policies Can Enable Users to Perform Novel Tasks | Isaac Sheidlower, Reuben Aronson, Elaine Short | [Abstract](https://arxiv.org/abs/2312.05991) · [PDF](https://arxiv.org/pdf/2312.05991) | rule-assigned |
 | 2023-11-16 | Robust Conformal Prediction for STL Runtime Verification under Distribution Shift | Yiqi Zhao, Bardh Hoxha, Georgios Fainekos, Jyotirmoy V. Deshmukh et al. | [Abstract](https://arxiv.org/abs/2311.09482) · [PDF](https://arxiv.org/pdf/2311.09482) | rule-assigned |
 | 2023-11-11 | Topology-Matching Normalizing Flows for Out-of-Distribution Detection in Robot Learning | Jianxiang Feng, Jongseok Lee, Simon Geisler, Stephan Gunnemann et al. | [Abstract](https://arxiv.org/abs/2311.06481) · [PDF](https://arxiv.org/pdf/2311.06481) | rule-assigned |
-| 2023-11-02 | Learning Realistic Traffic Agents in Closed-loop | Chris Zhang, James Tu, Lunjun Zhang, Kelvin Wong et al. | [Abstract](https://arxiv.org/abs/2311.01394) · [PDF](https://arxiv.org/pdf/2311.01394) | rule-assigned |
-| 2023-11-02 | C3DM: Constrained-Context Conditional Diffusion Models for Imitation Learning | Vaibhav Saxena, Yotto Koga, Danfei Xu | [Abstract](https://arxiv.org/abs/2311.01419) · [PDF](https://arxiv.org/pdf/2311.01419) | rule-assigned |
-| 2023-11-02 | Adapt On-the-Go: Behavior Modulation for Single-Life Robot Deployment | Annie S. Chen, Govind Chada, Laura Smith, Archit Sharma et al. | [Abstract](https://arxiv.org/abs/2311.01059) · [PDF](https://arxiv.org/pdf/2311.01059) | rule-assigned |
 
 ---
 

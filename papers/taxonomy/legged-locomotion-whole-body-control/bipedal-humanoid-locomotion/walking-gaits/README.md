@@ -1,12 +1,12 @@
 # Walking & Gaits · 行走与步态
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Walking%20%26%20Gaits#research-workbench)
 
-> 167 conference papers · 357 recent arXiv papers
+> 167 conference papers · 358 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -192,10 +192,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Simultaneous Contact-Rich Grasping and Locomotion via Distributed Optimization Enabling Free-Climbing for Multi-Limbed Robots | IROS · Grasp | [Paper](https://arxiv.org/pdf/2207.01418) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981579) | rule-assigned |
 | 2022 | Three-Dimensional Dynamic Running with a Point-Foot Biped based on Differentially Flat SLIP | IROS · Biped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981516) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981516) | rule-assigned |
 
-## Recent arXiv papers (357)
+## Recent arXiv papers (358)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-31 | HALO-LP: A Homogeneous All-Shifted Non-Interior-Point Method for Linear Programming | Jose Rojas, Ana Aguilar, Eusebio Bugarin | [Abstract](https://arxiv.org/abs/2611.01038) · [PDF](https://arxiv.org/pdf/2611.01038) | rule-assigned |
 | 2026-10-27 | REACH: An RL-based Hierarchical Humanoid Crawling Framework for Adaptable Confined Space Traversal | Shengzhang Xu, Yuning Guo, Weiyi Hu, Yifeng Xu et al. | [Abstract](https://arxiv.org/abs/2610.36546) · [PDF](https://arxiv.org/pdf/2610.36546) | rule-assigned |
 | 2026-10-27 | METATRON: A Promptable Whole-Body Execution Layer for Humanoids | Chen Tessler, Yifeng Jiang, Alec Otto, Yi Shi et al. | [Abstract](https://arxiv.org/abs/2610.38027) · [PDF](https://arxiv.org/pdf/2610.38027) | rule-assigned |
 | 2026-10-23 | RAIWAY: A Large-Wheeled Bipedal Robot with Contact-Informed Blind Locomotion | Kyungmin Nam, Jiseong Lee, Donghyuk Choi, Jeongsoo Park et al. | [Abstract](https://arxiv.org/abs/2610.33172) · [PDF](https://arxiv.org/pdf/2610.33172) | rule-assigned |

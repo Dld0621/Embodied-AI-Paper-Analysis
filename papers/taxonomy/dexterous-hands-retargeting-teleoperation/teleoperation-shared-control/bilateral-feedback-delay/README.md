@@ -1,12 +1,12 @@
 # Bilateral Feedback & Delay · 双向力反馈与延迟处理
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Control&specialty=Bilateral%20Feedback%20%26%20Delay#research-workbench)
 
-> 10 conference papers · 49 recent arXiv papers
+> 10 conference papers · 51 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -35,10 +35,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | HaPPArray: Haptic Pneumatic Pouch Array for Feedback in handheld Robots | ICRA · In Hand | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160648) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160648) | rule-assigned |
 | 2022 | Towards 6DoF Bilateral Teleoperation of an Omnidirectional Aerial Vehicle for Aerial Physical Interaction | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2203.03177) · [Index](https://dblp.org/rec/conf/icra/AllenspachLTS22) | rule-assigned |
 
-## Recent arXiv papers (49)
+## Recent arXiv papers (51)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-31 | Trading Transparency for Stability: Friction-Cone-Constrained Bilateral Teleoperation for Opening Doors of Unsecured Furniture | Cheng Zhou, Jing Li | [Abstract](https://arxiv.org/abs/2611.00898) · [PDF](https://arxiv.org/pdf/2611.00898) | rule-assigned |
+| 2026-10-31 | MESSPa: A Multi-modal Embodiment Stimulation Shoulder Pad for Preserving the Sense of Agency in a Detachable Robotic Arm | Vitvasin Vimolmongkolporn, Guillaume Gourmelen, Yukiko Iwasaki, Hiroyasu Iwata | [Abstract](https://arxiv.org/abs/2611.00509) · [PDF](https://arxiv.org/pdf/2611.00509) | rule-assigned |
 | 2026-10-20 | LocoPilot: Single-Operator Bilateral Teleoperation for Loco-Manipulation Policy Learning | Antonio Langella, Giovanni Minelli, Giovanni B. Dessy, Lorenzo Amatucci et al. | [Abstract](https://arxiv.org/abs/2610.27998) · [PDF](https://arxiv.org/pdf/2610.27998) | reviewed |
 | 2026-10-10 | LETS: Low-Overhead External-Torque Sensing for Force-Feedback Bilateral Teleoperation | Zonghao Guo, Dongchen Guan, Yubo Wang, Peng Yang | [Abstract](https://arxiv.org/abs/2610.14889) · [PDF](https://arxiv.org/pdf/2610.14889) | rule-assigned |
 | 2026-10-01 | Towards Physical Underwater Robotic Assistance for Scuba Diver Movement in Confined Spaces | Demetrious T. Kutzke, Junaed Sattar | [Abstract](https://arxiv.org/abs/2610.01906) · [PDF](https://arxiv.org/pdf/2610.01906) | rule-assigned |

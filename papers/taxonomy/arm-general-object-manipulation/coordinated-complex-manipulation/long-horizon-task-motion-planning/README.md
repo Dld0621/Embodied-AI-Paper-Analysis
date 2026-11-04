@@ -1,12 +1,12 @@
 # Long-horizon & Task-motion Planning · 长时程操作与任务运动规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Long-horizon%20%26%20Task-motion%20Planning#research-workbench)
 
-> 32 conference papers · 205 recent arXiv papers
+> 32 conference papers · 206 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -57,10 +57,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Task and Motion Planning with Large Language Models for Object Rearrangement | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.06247) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342169) | rule-assigned |
 | 2022 | Visually Grounded Task and Motion Planning for Mobile Manipulation | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2202.10667) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812055) | rule-assigned |
 
-## Recent arXiv papers (205)
+## Recent arXiv papers (206)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-30 | When the Past Shapes Action: Understanding Embodied Memory | Siqi Li, Ziyi Bai, Xinrun Xu, Tinglei Huang et al. | [Abstract](https://arxiv.org/abs/2610.41688) · [PDF](https://arxiv.org/pdf/2610.41688) | rule-assigned |
+| 2026-10-30 | Scaling Trusted Autonomy: Towards Generally Capable Verifiable Robots | Benedict Quartey | [Abstract](https://arxiv.org/abs/2611.00158) · [PDF](https://arxiv.org/pdf/2611.00158) | rule-assigned |
 | 2026-10-26 | Reward-Guided RRT* for Budgeted Task and Motion Planning | Vinícius Araújo de Oliveira, Gabriel Ferreira Mendes Lourenço, Paulo L. J. Drews-Jr, Armando Alves Neto et al. | [Abstract](https://arxiv.org/abs/2610.35289) · [PDF](https://arxiv.org/pdf/2610.35289) | rule-assigned |
 | 2026-10-25 | I Won't Know Until I Try: Interactive Information Gathering for Long-Horizon Manipulation | Linfei Yuan, Rachel Holladay | [Abstract](https://arxiv.org/abs/2610.33959) · [PDF](https://arxiv.org/pdf/2610.33959) | rule-assigned |
 | 2026-10-24 | RoboLongR: Causally Consistent Rewards Teach Robots to Progressively Master Long-Horizon Manipulation | Zixuan Chen, Lin Cao, Fenggang Zhang, Haotong Zhang et al. | [Abstract](https://arxiv.org/abs/2610.33863) · [PDF](https://arxiv.org/pdf/2610.33863) | rule-assigned |
@@ -265,7 +267,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-05 | D-LGP: Dynamic Logic-Geometric Program for Reactive Task and Motion Planning | Teng Xue, Amirreza Razmjoo, Sylvain Calinon | [Abstract](https://arxiv.org/abs/2312.02731) · [PDF](https://arxiv.org/pdf/2312.02731) | rule-assigned |
 | 2023-12-04 | Multi-Modal MPPI and Active Inference for Reactive Task and Motion Planning | Yuezhe Zhang, Corrado Pezzato, Elia Trevisan, Chadi Salmi et al. | [Abstract](https://arxiv.org/abs/2312.02328) · [PDF](https://arxiv.org/pdf/2312.02328) | rule-assigned |
 | 2023-11-24 | Offline Skill Generalization via Task and Motion Planning | Shin Watanabe, Geir Horn, Jim Tørresen, Kai Olav Ellefsen | [Abstract](https://arxiv.org/abs/2311.14328) · [PDF](https://arxiv.org/pdf/2311.14328) | rule-assigned |
-| 2023-11-02 | NOD-TAMP: Generalizable Long-Horizon Planning with Neural Object Descriptors | Shuo Cheng, Caelan Garrett, Ajay Mandlekar, Danfei Xu | [Abstract](https://arxiv.org/abs/2311.01530) · [PDF](https://arxiv.org/pdf/2311.01530) | rule-assigned |
 
 ---
 

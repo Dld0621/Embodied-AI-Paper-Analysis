@@ -1,12 +1,12 @@
 # Latent Dynamics · 潜空间动力学
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=World%20%26%20Dynamics%20Modeling&specialty=Latent%20Dynamics#research-workbench)
 
-> 31 conference papers · 547 recent arXiv papers
+> 31 conference papers · 559 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -56,10 +56,22 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | DayDreamer: World Models for Physical Robot Learning | CoRL · World Model | [Paper](https://arxiv.org/abs/2206.14176) · [Index](https://dblp.org/rec/conf/corl/WuEHAG22) | rule-assigned |
 | 2022 | DreamingV2: Reinforcement Learning with Discrete World Models without Reconstruction | IROS · World Model | [Paper](https://arxiv.org/pdf/2203.00494) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981405) | rule-assigned |
 
-## Recent arXiv papers (547)
+## Recent arXiv papers (559)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | Trajectory Evaluation via Rollout-Free World Model for End-to-end Autonomous Driving | Junzhe Wang, Jinqing Zhang, Qingjie Liu | [Abstract](https://arxiv.org/abs/2611.05072) · [PDF](https://arxiv.org/pdf/2611.05072) | rule-assigned |
+| 2026-11-02 | Toward Uncertainty-Aware, Physics-Grounded Human World Models | Yufei Zhang, Zijun Cui | [Abstract](https://arxiv.org/abs/2611.03428) · [PDF](https://arxiv.org/pdf/2611.03428) | rule-assigned |
+| 2026-11-02 | Right Ranking, Wrong Scale: Reproducing the Robotic World Model's Dynamics Model and Testing the Uncertainty of Its Follow-up | Joyjeet Singh | [Abstract](https://arxiv.org/abs/2611.02699) · [PDF](https://arxiv.org/pdf/2611.02699) | rule-assigned |
+| 2026-11-02 | Physical Experience Builds Continual Spatial World Models | Yuhang Sun | [Abstract](https://arxiv.org/abs/2611.04016) · [PDF](https://arxiv.org/pdf/2611.04016) | rule-assigned |
+| 2026-11-02 | ForceLDM: A Force-aware Latent Dynamics Model for Contact-Rich Manipulation | Peiyuan Tang, Yao Li, Xiaodong Zhang, Wuyang Zhang et al. | [Abstract](https://arxiv.org/abs/2611.03294) · [PDF](https://arxiv.org/pdf/2611.03294) | rule-assigned |
+| 2026-11-01 | SCOUT: Planning under Occlusion via Object-Centric World Model Rollouts | Amir Hossain Raj, Xuesu Xiao | [Abstract](https://arxiv.org/abs/2611.01600) · [PDF](https://arxiv.org/pdf/2611.01600) | rule-assigned |
+| 2026-11-01 | OpenNWM: A Generalist Navigation World Model with Latent Action Pretraining | Dujun Nie, Ruiqi Song, Zixuan Wang, Hanqing Wang et al. | [Abstract](https://arxiv.org/abs/2611.01844) · [PDF](https://arxiv.org/pdf/2611.01844) | rule-assigned |
+| 2026-10-31 | WorldSketch: Sketching World Models for Zero-Shot Mobile Manipulation | Jiaming Wang | [Abstract](https://arxiv.org/abs/2611.00513) · [PDF](https://arxiv.org/pdf/2611.00513) | rule-assigned |
+| 2026-10-31 | Why Koopman Structure Does Not Help Differentiable World Models for Humanoid Whole-Body Tracking | Haizhou Ge, Mengshuo Wang, Yufei Jia, Lei Han et al. | [Abstract](https://arxiv.org/abs/2611.00951) · [PDF](https://arxiv.org/pdf/2611.00951) | rule-assigned |
+| 2026-10-31 | Roz: A Taste Test for World Model Latents | Kenneth Ge, Dhruv Sheth, Kunvar Thaman | [Abstract](https://arxiv.org/abs/2611.00612) · [PDF](https://arxiv.org/pdf/2611.00612) | rule-assigned |
+| 2026-10-30 | Hierarchical World Models with Implicit Dynamics | Gaoyue Zhou, Yvonne Wu, Zichen Jeff Cui, Nicolas Ballas et al. | [Abstract](https://arxiv.org/abs/2610.42146) · [PDF](https://arxiv.org/pdf/2610.42146) | rule-assigned |
+| 2026-10-30 | Cross-Embodiment Motion Planning by Coupling Body-Agnostic World Model with Differentiable Ego-Dynamics | Zhidong Wang, Zirui Li, Haoran Xu, Yujie Yan et al. | [Abstract](https://arxiv.org/abs/2610.41330) · [PDF](https://arxiv.org/pdf/2610.41330) | rule-assigned |
 | 2026-10-29 | Continuous-Action World Models: Learning Cross-Embodiment Spatiotemporal Dynamics Priors | Liangyu Li, Qingwen Liu | [Abstract](https://arxiv.org/abs/2610.40401) · [PDF](https://arxiv.org/pdf/2610.40401) | rule-assigned |
 | 2026-10-27 | When More Planning Hurts: Learned Planners for World Models | Josef Chen | [Abstract](https://arxiv.org/abs/2610.37891) · [PDF](https://arxiv.org/pdf/2610.37891) | rule-assigned |
 | 2026-10-27 | SWIM: Learning What Matters from Behaviors for JEPA World Models | Jiaming Hu, Shi Bo, Yan Zheng, Tian Wang et al. | [Abstract](https://arxiv.org/abs/2610.36662) · [PDF](https://arxiv.org/pdf/2610.36662) | rule-assigned |

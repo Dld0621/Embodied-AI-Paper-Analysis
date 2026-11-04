@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=World%20%26%20Dynamics%20Modeling&specialty=Pending%20specialty%20review#research-workbench)
 
-> 14 conference papers · 87 recent arXiv papers
+> 14 conference papers · 84 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -39,7 +39,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Multi-View Masked World Models for Visual Robotic Manipulation | ICML · Multi-view world models | [Paper](https://proceedings.mlr.press/v202/seo23a.html) · [Official](https://proceedings.mlr.press/v202/seo23a.html) | needs-review |
 | 2022 | Masked World Models for Visual Control | CoRL · Visual world models | [Paper](https://proceedings.mlr.press/v205/seo23a.html) · [Official](https://proceedings.mlr.press/v205/seo23a.html) | needs-review |
 
-## Recent arXiv papers (87)
+## Recent arXiv papers (84)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -92,7 +92,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-02-11 | Say, Dream, and Act: Learning Video World Models for Instruction-Driven Robot Manipulation | Songen Gu, Yunuo Cai, Tianyu Wang, Simo Wu et al. | [Abstract](https://arxiv.org/abs/2602.10717) · [PDF](https://arxiv.org/pdf/2602.10717) | needs-review |
 | 2026-02-02 | From Perception to Action: Spatial AI Agents and World Models | Gloria Felicia, Nolan Bryant, Handi Putra, Ayaan Gazali et al. | [Abstract](https://arxiv.org/abs/2602.01644) · [PDF](https://arxiv.org/pdf/2602.01644) | needs-review |
 | 2026-01-31 | DISK: Dynamic Inference SKipping for World Models | Anugunj Naman, Gaibo Zhang, Ayushman Singh, Yaguang Zhang | [Abstract](https://arxiv.org/abs/2602.00440) · [PDF](https://arxiv.org/pdf/2602.00440) | needs-review |
-| 2026-01-18 | ReWorld: Multi-Dimensional Reward Modeling for Embodied World Models | Baorui Peng, Wenyao Zhang, Liang Xu, Zekun Qi et al. | [Abstract](https://arxiv.org/abs/2601.12428) · [PDF](https://arxiv.org/pdf/2601.12428) | needs-review |
 | 2025-12-28 | Value-guided action planning with JEPA world models | Matthieu Destrade, Oumayma Bounou, Quentin Le Lidec, Jean Ponce et al. | [Abstract](https://arxiv.org/abs/2601.00844) · [PDF](https://arxiv.org/pdf/2601.00844) | needs-review |
 | 2025-12-09 | Learning Robot Manipulation from Audio World Models | Fan Zhang, Michael Gienger | [Abstract](https://arxiv.org/abs/2512.08405) · [PDF](https://arxiv.org/pdf/2512.08405) | needs-review |
 | 2025-12-05 | World Models That Know When They Don't Know - Controllable Video Generation with Calibrated Uncertainty | Zhiting Mei, Tenny Yin, Micah Baker, Ola Shorinwa et al. | [Abstract](https://arxiv.org/abs/2512.05927) · [PDF](https://arxiv.org/pdf/2512.05927) | needs-review |
@@ -128,8 +127,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-03-05 | World Models for Autonomous Driving: An Initial Survey | Yanchen Guan, Haicheng Liao, Zhenning Li, Jia Hu et al. | [Abstract](https://arxiv.org/abs/2403.02622) · [PDF](https://arxiv.org/pdf/2403.02622) | needs-review |
 | 2024-02-06 | The Essential Role of Causality in Foundation World Models for Embodied AI | Tarun Gupta, Wenbo Gong, Chao Ma, Nick Pawlowski et al. | [Abstract](https://arxiv.org/abs/2402.06665) · [PDF](https://arxiv.org/pdf/2402.06665) | needs-review |
 | 2023-12-08 | Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning | Zhiting Hu, Tianmin Shu | [Abstract](https://arxiv.org/abs/2312.05230) · [PDF](https://arxiv.org/pdf/2312.05230) | needs-review |
-| 2023-11-02 | Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion | Lunjun Zhang, Yuwen Xiong, Ze Yang, Sergio Casas et al. | [Abstract](https://arxiv.org/abs/2311.01017) · [PDF](https://arxiv.org/pdf/2311.01017) | needs-review |
-| 2023-11-02 | Automatic Configuration of Multi-Agent Model Predictive Controllers based on Semantic Graph World Models | K. de Vos, E. Torta, H. Bruyninckx, C. A. Lopez Martinez et al. | [Abstract](https://arxiv.org/abs/2311.01180) · [PDF](https://arxiv.org/pdf/2311.01180) | needs-review |
 
 ---
 

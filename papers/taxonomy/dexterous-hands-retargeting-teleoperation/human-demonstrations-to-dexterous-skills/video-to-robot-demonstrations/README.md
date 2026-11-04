@@ -1,12 +1,12 @@
 # Video-to-robot Demonstrations · 视频到机器人示教
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Human%20Demonstrations%20to%20Dexterous%20Skills&specialty=Video-to-robot%20Demonstrations#research-workbench)
 
-> 23 conference papers · 152 recent arXiv papers
+> 23 conference papers · 155 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -48,11 +48,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Human-to-Robot Imitation in the Wild | RSS · Learning from human video | [Paper](https://www.roboticsproceedings.org/rss18/p026.pdf) · [Official](https://www.roboticsproceedings.org/rss18/p026.html) | rule-assigned |
 | 2022 | Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on Youtube | RSS · Robotic Hand | [Paper](https://doi.org/10.15607/rss.2022.xviii.023) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.023) | rule-assigned |
 
-## Recent arXiv papers (152)
+## Recent arXiv papers (155)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On | Seungyong Lee, Suhyeok Jang, Minyoung Kim, Jinwoo Shin | [Abstract](https://arxiv.org/abs/2611.05163) · [PDF](https://arxiv.org/pdf/2611.05163) | reviewed |
+| 2026-10-29 | WorldBridge: Bridging Video and Action for Task Generalization in World Action Models | Jun Cen, Yubo Guo, Hao Li, Liangkai Li et al. | [Abstract](https://arxiv.org/abs/2610.40748) · [PDF](https://arxiv.org/pdf/2610.40748) | rule-assigned |
 | 2026-10-29 | TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation | Haozhe Zhang, Gu Zhang, Zirui Zou, Yuzheng Chen et al. | [Abstract](https://arxiv.org/abs/2610.40349) · [PDF](https://arxiv.org/pdf/2610.40349) | reviewed |
+| 2026-10-29 | Contact Imitation Interface: Transferring Dexterous Skills by Showing How Contact Unfolds | Zhixuan Xu, Yichen Li, Bingchen Wu, Rui Wang et al. | [Abstract](https://arxiv.org/abs/2610.41028) · [PDF](https://arxiv.org/pdf/2610.41028) | rule-assigned |
 | 2026-10-24 | AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking | Jianibieke Adalibieke, Qianwei Han, Xueyi Liu, Yuzhe Qin et al. | [Abstract](https://arxiv.org/abs/2610.33852) · [PDF](https://arxiv.org/pdf/2610.33852) | rule-assigned |
 | 2026-10-22 | RGraph-Eval: Task-Grounded Scene Graphs for Evaluating Robot Video Generation | Aleksandr Lazarev, Sofia Zimina, Roman Kuznetsov, Tatiana Zemskova et al. | [Abstract](https://arxiv.org/abs/2610.31121) · [PDF](https://arxiv.org/pdf/2610.31121) | rule-assigned |
 | 2026-10-22 | FLORA: An Open Model Suite for Scaling Robotics Data Engines | Sicong Leng, Yunze Man, Zhiqi Li, Jing Wang et al. | [Abstract](https://arxiv.org/abs/2610.31779) · [PDF](https://arxiv.org/pdf/2610.31779) | rule-assigned |

@@ -1,12 +1,12 @@
 # Motion Imitation & Generation · 动作模仿与生成
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Motion%20Transfer&specialty=Motion%20Imitation%20%26%20Generation#research-workbench)
 
-> 24 conference papers · 291 recent arXiv papers
+> 24 conference papers · 294 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -49,11 +49,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Learning a Single Policy for Diverse Behaviors on a Quadrupedal Robot Using Scalable Motion Imitation | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2303.15331) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341709) | rule-assigned |
 | 2022 | A Riemannian Take on Human Motion Analysis and Retargeting | IROS · Retargeting | [Paper](https://arxiv.org/pdf/2208.01372) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982127) | rule-assigned |
 
-## Recent arXiv papers (291)
+## Recent arXiv papers (294)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
-| 2026-10-29 | SONIC-K1: Porting a Universal Humanoid Motion Tracker to a Small Humanoid on a Single GPU | Kyrylo Kolesnichenko, Jong-Hoon Kim | [Abstract](https://arxiv.org/abs/2610.39327) · [PDF](https://arxiv.org/pdf/2610.39327) | rule-assigned |
+| 2026-11-02 | MAPO: Mixture of Experts with Alternating Policy Optimization for Universal Humanoid Motion Tracking | Seonghyeon Lim, Hyeonwoo Lee, Mincheol Kim, Kimin Lee et al. | [Abstract](https://arxiv.org/abs/2611.02613) · [PDF](https://arxiv.org/pdf/2611.02613) | rule-assigned |
+| 2026-10-30 | Movens-Zero: Scaling Humanoid Motion Foundation Models with Large-Scale Human Videos | Wendong Bu, Tinghong Ye, Qizhou Wang, Jiacheng Li et al. | [Abstract](https://arxiv.org/abs/2610.41877) · [PDF](https://arxiv.org/pdf/2610.41877) | rule-assigned |
+| 2026-10-30 | HIPC: Humanoid Iterative Planning and Control via Goal-Conditioned Motion Closure | Yi Han, Xingyu Chen, Zixuan Lang, Qianyang Wu et al. | [Abstract](https://arxiv.org/abs/2610.41334) · [PDF](https://arxiv.org/pdf/2610.41334) | rule-assigned |
+| 2026-10-29 | SONIC-K1: Porting a Universal Humanoid Motion Tracker to a Small Humanoid on a Single GPU | Kyrylo Kolesnichenko, Irvin Steve Cardenas, Jong-Hoon Kim | [Abstract](https://arxiv.org/abs/2610.39327) · [PDF](https://arxiv.org/pdf/2610.39327) | rule-assigned |
 | 2026-10-27 | HumiMimic: Mimetic Embodiment Transfer of Human-Humanoid Interaction from In-the-Wild Videos | Nghia Le, Khang Nguyen, Ba Long Tran, Thi Quynh Nhu Pham et al. | [Abstract](https://arxiv.org/abs/2610.36615) · [PDF](https://arxiv.org/pdf/2610.36615) | rule-assigned |
 | 2026-10-25 | HumanoidNDM: Closing the Training-Deployment Gap of Motion Tracking via Humanoid Neural Dynamics Model | Chao Chen, Zhenrong Wang, Jilong Wang, Yusen Feng et al. | [Abstract](https://arxiv.org/abs/2610.34126) · [PDF](https://arxiv.org/pdf/2610.34126) | rule-assigned |
 | 2026-10-24 | MimicAll: Structured Embodiment Conditioning for Cross-Humanoid Whole-Body Motion Tracking | Jia Li, Lingyun Xu, Yitang Li, Hao Zhao | [Abstract](https://arxiv.org/abs/2610.33508) · [PDF](https://arxiv.org/pdf/2610.33508) | rule-assigned |

@@ -1,12 +1,12 @@
 # Global Path Planning · 全局路径规划 · arXiv 2023
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 50 papers · complete list for this taxonomy leaf
+> 41 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -51,12 +51,3 @@
 | 2023-11-09 | FogROS2-Config: Optimizing Latency and Cost for Multi-Cloud Robot Applications | Kaiyuan Chen, Kush Hari, Rohil Khare, Charlotte Le et al. | [Abstract](https://arxiv.org/abs/2311.05600) · [PDF](https://arxiv.org/pdf/2311.05600) | rule-assigned |
 | 2023-11-06 | IR-STP: Enhancing Autonomous Driving with Interaction Reasoning in Spatio-Temporal Planning | Yingbing Chen, Jie Cheng, Lu Gan, Sheng Wang et al. | [Abstract](https://arxiv.org/abs/2311.02850) · [PDF](https://arxiv.org/pdf/2311.02850) | rule-assigned |
 | 2023-11-06 | iDb-A*: Iterative Search and Optimization for Optimal Kinodynamic Motion Planning | Joaquim Ortiz-Haro, Wolfgang Hoenig, Valentin N. Hartmann, Marc Toussaint | [Abstract](https://arxiv.org/abs/2311.03553) · [PDF](https://arxiv.org/pdf/2311.03553) | rule-assigned |
-| 2023-11-03 | Second-Order Convergent Collision-Constrained Optimization-Based Planner | Chen Liang, Xifeng Gao, Kui Wu, Zherong Pan | [Abstract](https://arxiv.org/abs/2311.01717) · [PDF](https://arxiv.org/pdf/2311.01717) | rule-assigned |
-| 2023-11-02 | Adv3D: Generating Safety-Critical 3D Objects through Closed-Loop Simulation | Jay Sarva, Jingkang Wang, James Tu, Yuwen Xiong et al. | [Abstract](https://arxiv.org/abs/2311.01446) · [PDF](https://arxiv.org/pdf/2311.01446) | rule-assigned |
-| 2023-11-01 | Design, Modeling, and Control of a Low-Cost and Rapid Response Soft-Growing Manipulator for Orchard Operations | Ryan Dorosh, Justin Allen, Zixuan He, Christopher Ninatanta et al. | [Abstract](https://arxiv.org/abs/2311.00197) · [PDF](https://arxiv.org/pdf/2311.00197) | rule-assigned |
-| 2023-11-01 | An efficient tangent based topologically distinctive path finding for grid maps | Zhuo Yao, Wei Wang | [Abstract](https://arxiv.org/abs/2311.00853) · [PDF](https://arxiv.org/pdf/2311.00853) | rule-assigned |
-| 2023-10-31 | Near-Optimal Min-Sum Motion Planning for Two Square Robots in a Polygonal Environment | Pankaj K. Agarwal, Dan Halperin, Micha Sharir, Alex Steiger | [Abstract](https://arxiv.org/abs/2310.20615) · [PDF](https://arxiv.org/pdf/2310.20615) | rule-assigned |
-| 2023-10-31 | Near-Optimal Coverage Path Planning with Turn Costs | Dominik Michael Krupke | [Abstract](https://arxiv.org/abs/2310.20340) · [PDF](https://arxiv.org/pdf/2310.20340) | rule-assigned |
-| 2023-10-31 | Learning Lyapunov-Stable Polynomial Dynamical Systems through Imitation | Amin Abyaneh, Hsiu-Chin Lin | [Abstract](https://arxiv.org/abs/2310.20605) · [PDF](https://arxiv.org/pdf/2310.20605) | rule-assigned |
-| 2023-10-31 | An Enhanced RRT based Algorithm for Dynamic Path Planning and Energy Management of a Mobile Robot | Ronit Chitre, Arpita Sinha | [Abstract](https://arxiv.org/abs/2310.20590) · [PDF](https://arxiv.org/pdf/2310.20590) | rule-assigned |
-| 2023-10-30 | Rule-Based Lloyd Algorithm for Multi-Robot Motion Planning and Control with Safety and Convergence Guarantees | Manuel Boldrer, Alvaro Serra-Gomez, Lorenzo Lyons, Vit Kratky et al. | [Abstract](https://arxiv.org/abs/2310.19511) · [PDF](https://arxiv.org/pdf/2310.19511) | rule-assigned |

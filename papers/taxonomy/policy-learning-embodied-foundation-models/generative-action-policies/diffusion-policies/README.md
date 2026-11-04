@@ -1,12 +1,12 @@
 # Diffusion Policies · 扩散策略
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generative%20Action%20Policies&specialty=Diffusion%20Policies#research-workbench)
 
-> 24 conference papers · 235 recent arXiv papers
+> 24 conference papers · 238 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -49,10 +49,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation | RSS · Visuomotor | [Paper](https://arxiv.org/abs/2405.07503) · [Index](https://dblp.org/rec/conf/rss/PrasadLWZB24) | rule-assigned |
 | 2023 | Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | RSS · Diffusion policy | [Paper](https://arxiv.org/abs/2303.04137) · [Official](https://roboticsproceedings.org/rss19/p026.html) · [Code](https://github.com/real-stanford/diffusion_policy) | rule-assigned |
 
-## Recent arXiv papers (235)
+## Recent arXiv papers (238)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | Spectrally Routed Diffusion Policy for Multi-Task Robotic Manipulation | Mingcong Li, Yihan Zhou, Jiayu Qu, Xueyang Guo et al. | [Abstract](https://arxiv.org/abs/2611.04477) · [PDF](https://arxiv.org/pdf/2611.04477) | rule-assigned |
+| 2026-11-03 | Physical Diffusion Policy via MPM-Guided 3D Gaussian Simulation | Can Wang, Qiyuan Qiao, Lei Liu, Ge Yuan et al. | [Abstract](https://arxiv.org/abs/2611.04493) · [PDF](https://arxiv.org/pdf/2611.04493) | rule-assigned |
+| 2026-11-02 | Visuo-tactile Diffusion Policy for Robotic Manipulation with Auxiliary Tactile Dynamics Prediction | Kaihong Ouyang, Zihao Su, Chengxuan Zheng, Weiyi Lai et al. | [Abstract](https://arxiv.org/abs/2611.02677) · [PDF](https://arxiv.org/pdf/2611.02677) | rule-assigned |
 | 2026-10-24 | HA-DiPO: Diffusion Policy Optimization for Heterogeneous Cooperative Transport | Xuebin Li, Jinpeng Xiao, Zong Chen, Pierluigi Arpenti et al. | [Abstract](https://arxiv.org/abs/2610.33584) · [PDF](https://arxiv.org/pdf/2610.33584) | rule-assigned |
 | 2026-10-23 | Robotic Optical Coherence Tomography-Guided Geometric Modeling of Soft Tissue: 3D Representations for Data-Driven Closed-Loop Shape Control | Chaoyu Zhang, Guangshen Ma, Mark Draelos | [Abstract](https://arxiv.org/abs/2610.32961) · [PDF](https://arxiv.org/pdf/2610.32961) | rule-assigned |
 | 2026-10-18 | Energy-Score Stabilized Attentive Mixture-Density Policy: A Lightweight Approach to Multimodal Robot Motion | Sachiya Fujita, Hideyuki Ichiwara, Shigeki Sugano, Tetsuya Ogata | [Abstract](https://arxiv.org/abs/2610.25401) · [PDF](https://arxiv.org/pdf/2610.25401) | rule-assigned |

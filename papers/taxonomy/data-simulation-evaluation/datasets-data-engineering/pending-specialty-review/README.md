@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engineering&specialty=Pending%20specialty%20review#research-workbench)
 
-> 122 conference papers · 636 recent arXiv papers
+> 122 conference papers · 639 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -147,10 +147,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Realistic Real-Time Simulation of RGB and Depth Sensors for Dynamic Scenarios using Augmented Image Based Rendering | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982014) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982014) | needs-review |
 | 2022 | FlyView: a bio-informed optical flow truth dataset for visual navigation using panoramic stereo vision | NeurIPS · Navigation | [Paper](https://doi.org/10.52202/068431-2038) · [Publisher](https://doi.org/10.52202/068431-2038) | needs-review |
 
-## Recent arXiv papers (636)
+## Recent arXiv papers (639)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-02 | Robot-Matched Soft Fingers for UMI Data Collection: Lessons from 100 Hours of Pick and Place | Kobi Kelemen, Tomasz Niedziałkowski, Marcin Paszczak, Victoriano Montesinos | [Abstract](https://arxiv.org/abs/2611.03779) · [PDF](https://arxiv.org/pdf/2611.03779) | needs-review |
+| 2026-11-02 | MS-DOTT: A Multi-Modal Dataset for Off-Road Traversability Estimation | Shivani Subramanyan, Saksham Sharma, Samahith SA, Ahaan Kotian et al. | [Abstract](https://arxiv.org/abs/2611.02992) · [PDF](https://arxiv.org/pdf/2611.02992) | needs-review |
+| 2026-11-02 | Evaluating Depth-Augmented Visual Features for Cross-Dataset Lunar Traversability Estimation | Jan Baturo, Bartosz Ptak | [Abstract](https://arxiv.org/abs/2611.03430) · [PDF](https://arxiv.org/pdf/2611.03430) | needs-review |
+| 2026-11-02 | Closing the Dynamics Gap through Self-Directed Robotic Interaction | Xilun Zhang, Liam Achenbach, Luis Pabon, Matthew Foutter et al. | [Abstract](https://arxiv.org/abs/2611.02691) · [PDF](https://arxiv.org/pdf/2611.02691) | needs-review |
+| 2026-10-30 | Behavior Graphs: Unsupervised Graph Structures for Interpreting Robot Deployment Data | Erik Bauer, Jakob Thumm, Christopher Agia, Rohan Sinha et al. | [Abstract](https://arxiv.org/abs/2611.00405) · [PDF](https://arxiv.org/pdf/2611.00405) | needs-review |
 | 2026-10-29 | Tactus: Tactile & Pose Sensing Glove for Natural Dexterity Data Collection | Li Guan, Rachael Granberry, Sahar Aseeri, Sahar Rostami et al. | [Abstract](https://arxiv.org/abs/2610.39076) · [PDF](https://arxiv.org/pdf/2610.39076) | needs-review |
 | 2026-10-26 | DEX-PHD: A Dexterous Portable Handheld Device for Multimodal Data Collection | Jooyoung Hong, Noboru Myers, Obin Kwon, Yixian Yang et al. | [Abstract](https://arxiv.org/abs/2610.35462) · [PDF](https://arxiv.org/pdf/2610.35462) | needs-review |
 | 2026-10-23 | DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection | Amber Xie, Jiawei Fu, Xiaofeng Guo, Carmelo Sferrazza et al. | [Abstract](https://arxiv.org/abs/2610.32969) · [PDF](https://arxiv.org/pdf/2610.32969) | needs-review |
@@ -785,8 +790,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-05 | Get the Ball Rolling: Alerting Autonomous Robots When to Help to Close the Healthcare Loop | Jiaxin Shen, Yanyao Liu, Ziming Wang, Ziyuan Jiao et al. | [Abstract](https://arxiv.org/abs/2311.02602) · [PDF](https://arxiv.org/pdf/2311.02602) | needs-review |
 | 2023-11-04 | ECMD: An Event-Centric Multisensory Driving Dataset for SLAM | Peiyu Chen, Weipeng Guan, Feng Huang, Yihan Zhong et al. | [Abstract](https://arxiv.org/abs/2311.02327) · [PDF](https://arxiv.org/pdf/2311.02327) | needs-review |
 | 2023-11-04 | Digital Twins for Human-Robot Collaboration: A Future Perspective | Mohamad Shaaban, Alessandro Carfì, Fulvio Mastrogiovanni | [Abstract](https://arxiv.org/abs/2311.02421) · [PDF](https://arxiv.org/pdf/2311.02421) | needs-review |
-| 2023-11-02 | Multi-agent robotic systems and exploration algorithms: Applications for data collection in construction sites | Samuel A. Prieto, Nikolaos Giakoumidis, Borja Garcia de Soto | [Abstract](https://arxiv.org/abs/2311.01078) · [PDF](https://arxiv.org/pdf/2311.01078) | needs-review |
-| 2023-10-31 | An Introduction to Causal Inference Methods for Observational Human-Robot Interaction Research | Jaron J. R. Lee, Gopika Ajaykumar, Ilya Shpitser, Chien-Ming Huang | [Abstract](https://arxiv.org/abs/2310.20468) · [PDF](https://arxiv.org/pdf/2310.20468) | needs-review |
 
 ---
 

@@ -1,7 +1,7 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Pending%20specialty%20review#research-workbench)
@@ -110,6 +110,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-30 | Does Validation Loss Predict Real-Robot Success? Evidence from Four Imitation-Learning Policies on a Low-Cost Arm | Simon Cowling | [Abstract](https://arxiv.org/abs/2611.00283) · [PDF](https://arxiv.org/pdf/2611.00283) | needs-review |
 | 2026-10-27 | VLA-Stem: A Lightweight Safety Mechanism for Vision-Language-Action Models via Reinforcement Learning | Bojun Zou, Wenhao Yu, Jiaohao Li, Jiaxuan Lin et al. | [Abstract](https://arxiv.org/abs/2610.37378) · [PDF](https://arxiv.org/pdf/2610.37378) | needs-review |
 | 2026-10-27 | From Biological Curves to Soft Modular Robots: Learning-Based Inverse Design with Uncertainty-Guided Refinement | Dixiang Wang, Minghao Zha, Arifur Rahman, Yinhong Qin et al. | [Abstract](https://arxiv.org/abs/2610.36681) · [PDF](https://arxiv.org/pdf/2610.36681) | needs-review |
 | 2026-10-27 | From 12 to 200 Demonstrations: How ACT, Diffusion Policy, SmolVLA and $π_{0.5}$ Scale on a Low-Cost Arm | Simon Cowling | [Abstract](https://arxiv.org/abs/2610.37170) · [PDF](https://arxiv.org/pdf/2610.37170) | needs-review |
@@ -157,7 +158,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-30 | A passive universal grasping mechanism based on an everting shell | Mythra V. S. Balakuntala, Safvan Palathingal, G. K. Ananthasuresh | [Abstract](https://arxiv.org/abs/2606.00470) · [PDF](https://arxiv.org/pdf/2606.00470) | needs-review |
 | 2026-05-27 | Robo-Blocks: Generative Scaffolding in End-User Design and Programming of Social Robots | Arissa J. Sato, Callie Y. Kim, Nathan Thomas White, Abhinav Maneesh et al. | [Abstract](https://arxiv.org/abs/2605.28154) · [PDF](https://arxiv.org/pdf/2605.28154) | needs-review |
 | 2026-05-26 | Towards Shared Embodied Intelligence in Humanoid Robots through Optimization Development and Testing of the Human Aware ergoCub Robot | Carlotta Sartore, Mohamed Elobaid, Lorenzo Rapetti, Giulio Romualdi et al. | [Abstract](https://arxiv.org/abs/2605.26991) · [PDF](https://arxiv.org/pdf/2605.26991) | needs-review |
-| 2026-05-21 | TacO: Benchmarking Tactile Sensors for Object Manipulation | Anya Zorin, Zilin Si, Myungsun Park, Junsung Park et al. | [Abstract](https://arxiv.org/abs/2605.21976) · [PDF](https://arxiv.org/pdf/2605.21976) | needs-review |
+| 2026-05-21 | TacO: Benchmarking Tactile Sensors for Object Manipulation | Anya Zorin, Zilin Si, Sachin Bhadang, Myungsun Park et al. | [Abstract](https://arxiv.org/abs/2605.21976) · [PDF](https://arxiv.org/pdf/2605.21976) | needs-review |
 | 2026-05-12 | Rainbow Deep Q-Learning with Kinematics-Aware Design for Cooperative Delta and 3-RRS Parallel Robot Insertion | Hassen Nigatu, Gaokun Shi, Jituo Li, Wang Jin et al. | [Abstract](https://arxiv.org/abs/2605.11697) · [PDF](https://arxiv.org/pdf/2605.11697) | needs-review |
 | 2026-05-12 | EvoNav: Evolutionary Reward Function Design for Robot Navigation with Large Language Models | Zhikai Zhao, Chuanbo Hua, Federico Berto, Zihan Ma et al. | [Abstract](https://arxiv.org/abs/2605.11859) · [PDF](https://arxiv.org/pdf/2605.11859) | needs-review |
 | 2026-05-08 | How to Utilize Failure Demo Data?: Effective Data Selection for Imitation Learning Using Distribution Differences in Attention Mechanism | Kana Miyamoto, Kanata Suzuki, Tetsuya Ogata | [Abstract](https://arxiv.org/abs/2605.07560) · [PDF](https://arxiv.org/pdf/2605.07560) | needs-review |
@@ -335,7 +336,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-28 | Design and trajectory tracking control of CuRobot: A Cubic Reversible Robot | Kai Yang, Jiahui Wang, Yuchen Weng, Baolei Wu et al. | [Abstract](https://arxiv.org/abs/2311.16809) · [PDF](https://arxiv.org/pdf/2311.16809) | needs-review |
 | 2023-11-20 | Design of Planar Collision-free Trochoidal Paths for a Multi-robot Swarm | Adil Shiyas, Sachit Rao | [Abstract](https://arxiv.org/abs/2311.11720) · [PDF](https://arxiv.org/pdf/2311.11720) | needs-review |
 | 2023-11-06 | CarbonFish -- A Bistable Underactuated Compliant Fish Robot capable of High Frequency Undulation | Zechen Xiong, Zihan Guo, Mark Liu, Jialong Ning et al. | [Abstract](https://arxiv.org/abs/2311.03223) · [PDF](https://arxiv.org/pdf/2311.03223) | needs-review |
-| 2023-11-02 | Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors | Gabriele M. Caddeo, Andrea Maracani, Paolo D. Alfano, Nicola A. Piga et al. | [Abstract](https://arxiv.org/abs/2311.01380) · [PDF](https://arxiv.org/pdf/2311.01380) | needs-review |
 
 ---
 

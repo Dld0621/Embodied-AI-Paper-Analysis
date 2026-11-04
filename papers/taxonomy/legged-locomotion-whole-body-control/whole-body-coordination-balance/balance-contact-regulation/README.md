@@ -1,12 +1,12 @@
 # Balance & Contact Regulation · 平衡与接触调节
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Coordination%20%26%20Balance&specialty=Balance%20%26%20Contact%20Regulation#research-workbench)
 
-> 12 conference papers · 75 recent arXiv papers
+> 12 conference papers · 74 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -37,7 +37,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Admittance Model Optimization for Gait Balance Assistance of a Robotic Walker: Passive Model-based Mechanical Assessment | ICRA · Gait | [Paper](https://doi.org/10.1109/icra46639.2022.9811594) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811594) | rule-assigned |
 | 2022 | Humanoid Arm Motion Planning for Improved Disturbance Recovery Using Model Hierarchy Predictive Control | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra46639.2022.9811878) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811878) | rule-assigned |
 
-## Recent arXiv papers (75)
+## Recent arXiv papers (74)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -115,7 +115,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-15 | I Was Blind but Now I See: Implementing Vision-Enabled Dialogue in Social Robots | Giulio Antonio Abbo, Tony Belpaeme | [Abstract](https://arxiv.org/abs/2311.08957) · [PDF](https://arxiv.org/pdf/2311.08957) | rule-assigned |
 | 2023-11-12 | Review of PID Controller Applications for UAVs | Hans Oersted, Yudong Ma | [Abstract](https://arxiv.org/abs/2311.06809) · [PDF](https://arxiv.org/pdf/2311.06809) | rule-assigned |
 | 2023-11-10 | Quantized Distillation: Optimizing Driver Activity Recognition Models for Resource-Constrained Environments | Calvin Tanama, Kunyu Peng, Zdravko Marinov, Rainer Stiefelhagen et al. | [Abstract](https://arxiv.org/abs/2311.05970) · [PDF](https://arxiv.org/pdf/2311.05970) | rule-assigned |
-| 2023-11-01 | RF-Enhanced Road Infrastructure for Intelligent Transportation | Dajiang Suo, Heyi Li, Rahul Bhattacharyya, Zijin Wang et al. | [Abstract](https://arxiv.org/abs/2311.00280) · [PDF](https://arxiv.org/pdf/2311.00280) | rule-assigned |
 
 ---
 

@@ -1,12 +1,12 @@
 # Persistent Task Execution · 持续任务执行
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Memory%20%26%20Autonomous%20Execution&specialty=Persistent%20Task%20Execution#research-workbench)
 
-> 1 conference papers · 21 recent arXiv papers
+> 1 conference papers · 23 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2022 | Instruction-driven history-aware policies for robotic manipulations | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2209.04899) · [Index](https://dblp.org/rec/conf/corl/GuhurCPTLS22) | rule-assigned |
 
-## Recent arXiv papers (21)
+## Recent arXiv papers (23)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | LLM-Assisted Planning with Distributed Onboard Behaviour Tree Execution for Multi-AUV Missions | Ehsan Khorrambakht, Cristiano Caissutti, Andrea Munafo, Andrea Caiti | [Abstract](https://arxiv.org/abs/2611.04518) · [PDF](https://arxiv.org/pdf/2611.04518) | rule-assigned |
+| 2026-11-01 | Serving Agentic Robot Fleets: Workload Characterization, KV-Cache Thrashing, and Admission Control | Sida He | [Abstract](https://arxiv.org/abs/2611.01404) · [PDF](https://arxiv.org/pdf/2611.01404) | rule-assigned |
 | 2026-10-22 | Robotic Budding: From Homogeneous Cells to Diverse Morphologies in Physical Self-Reproduction | Siyuan Zhang, Junyan Liu, Wanglin He, Hod Lipson | [Abstract](https://arxiv.org/abs/2610.31929) · [PDF](https://arxiv.org/pdf/2610.31929) | rule-assigned |
 | 2026-10-13 | Agentic Robot Creation through Generation, Verification, and Revision | Xuebing Li, Yibo He, Sitong Liu, Ran Ji et al. | [Abstract](https://arxiv.org/abs/2610.17881) · [PDF](https://arxiv.org/pdf/2610.17881) | rule-assigned |
 | 2026-10-05 | Recursive Video In-Context Learning for Agentic Robot | Wenrui Bao, Xinxin Liu, Bingxin Xu, Yuzhang Shang | [Abstract](https://arxiv.org/abs/2610.06843) · [PDF](https://arxiv.org/pdf/2610.06843) | rule-assigned |

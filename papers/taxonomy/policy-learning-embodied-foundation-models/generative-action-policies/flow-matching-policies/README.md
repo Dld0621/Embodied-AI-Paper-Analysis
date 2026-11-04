@@ -1,12 +1,12 @@
 # Flow-matching Policies · Flow Matching 策略
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generative%20Action%20Policies&specialty=Flow-matching%20Policies#research-workbench)
 
-> 3 conference papers · 131 recent arXiv papers
+> 3 conference papers · 133 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2510.02738) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697008) | rule-assigned |
 | 2026 | Shifted Flow Policy: Uncertainty-aware Time Reparameterization for Visuomotor Learning | ICRA · Visuomotor | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696791) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696791) | rule-assigned |
 
-## Recent arXiv papers (131)
+## Recent arXiv papers (133)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | Aero-VPA: Few-Step Flow-Matching Control over Non-Reconstructive JEPA Latents for Agile Flight on Edge Hardware | Yeonseok Lee | [Abstract](https://arxiv.org/abs/2611.04392) · [PDF](https://arxiv.org/pdf/2611.04392) | rule-assigned |
+| 2026-10-31 | DriftingPlanner: Drifting Generative Models for One-Step Trajectory Planning in End-to-End Autonomous Driving | Ziming Liu, Yizhan Qu, Leichen Wang, Hao Sun | [Abstract](https://arxiv.org/abs/2611.01283) · [PDF](https://arxiv.org/pdf/2611.01283) | rule-assigned |
 | 2026-10-29 | Learning Safe Flow Matching Robot Policies from Binary Feasibility Oracles | Jianming Ma, Rongjun Jin, Yizhi Chen, Yue Gao | [Abstract](https://arxiv.org/abs/2610.40075) · [PDF](https://arxiv.org/pdf/2610.40075) | rule-assigned |
 | 2026-10-29 | Coupled Guidance for Flow Matching | Mateo Clémente, Léo Maxime Brunswic, Rui Heng Yang, Amir Rasouli | [Abstract](https://arxiv.org/abs/2610.40109) · [PDF](https://arxiv.org/pdf/2610.40109) | rule-assigned |
 | 2026-10-23 | Coupling Execution Horizon and Sampling Depth in Flow-Matching VLA Policies | Jiabing Yang, Yuan Xu, Yixiang Chen, Qisen Ma et al. | [Abstract](https://arxiv.org/abs/2610.32102) · [PDF](https://arxiv.org/pdf/2610.32102) | rule-assigned |

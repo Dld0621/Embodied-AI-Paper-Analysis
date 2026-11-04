@@ -1,12 +1,12 @@
 # Domain Adaptation & Transfer · 域适配与迁移
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Sim-to-real%20Transfer&specialty=Domain%20Adaptation%20%26%20Transfer#research-workbench)
 
-> 42 conference papers · 262 recent arXiv papers
+> 42 conference papers · 266 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -67,10 +67,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Towards Inclusive HRI: Using Sim2Real to Address Underrepresentation in Emotion Expression Recognition | IROS · Sim2Real | [Paper](https://arxiv.org/pdf/2208.07472) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982252) | rule-assigned |
 | 2022 | Transferring Multi-Agent Reinforcement Learning Policies for Autonomous Driving using Sim-to-Real | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2203.11653) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981319) | rule-assigned |
 
-## Recent arXiv papers (262)
+## Recent arXiv papers (266)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-02 | KlaskTron: An Open-Source Platform for Physical Adversarial Multi-Agent RL | Aswin Ramachandran, Jona Schulz, Maurus Derungs, Carlo Angelini et al. | [Abstract](https://arxiv.org/abs/2611.03138) · [PDF](https://arxiv.org/pdf/2611.03138) | rule-assigned |
+| 2026-11-02 | KlaskTron-IL: A Contact-Rich Adversarial Imitation Learning Benchmark with a Validated Sim-to-Real Bridge | Nicklas Sohm, Aswin Ramachandran, Raffaello D'Andrea | [Abstract](https://arxiv.org/abs/2611.03091) · [PDF](https://arxiv.org/pdf/2611.03091) | rule-assigned |
+| 2026-11-02 | Geometric Refinement and Distributional Alignment for Sim2Real Roadside LiDAR Detection | Aman Upganlawar | [Abstract](https://arxiv.org/abs/2611.03936) · [PDF](https://arxiv.org/pdf/2611.03936) | rule-assigned |
+| 2026-11-02 | Coordinate Frame Recovery, Per Class NMS and Null Return Modelling for Sim2Real V2X LiDAR Detection | Aman Upganlawar | [Abstract](https://arxiv.org/abs/2611.03940) · [PDF](https://arxiv.org/pdf/2611.03940) | rule-assigned |
+| 2026-11-02 | A Practical Causal Framework for Autonomous Mobile Robots: From Simulation to Real-World Human Environments | Luca Castri, Gloria Beraldo, Nicola Bellotto | [Abstract](https://arxiv.org/abs/2611.04027) · [PDF](https://arxiv.org/pdf/2611.04027) | rule-assigned |
 | 2026-10-25 | Learning Interaction-Aware Path Corrections from Unlabeled Trajectories: A LiDAR-Based Sim-to-Real GNN Framework for Construction Robots | Yilong Chen, Yong K. Cho | [Abstract](https://arxiv.org/abs/2610.34060) · [PDF](https://arxiv.org/pdf/2610.34060) | rule-assigned |
 | 2026-10-23 | Regularised RL improves sim-to-real transfer | Danilo Vucetic, Mohamad H. Danesh, Florence Clerc, Hsiu-Chin Lin et al. | [Abstract](https://arxiv.org/abs/2610.32855) · [PDF](https://arxiv.org/pdf/2610.32855) | rule-assigned |
 | 2026-10-21 | PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration | Xiujian Liang, Jiacheng Liu, Mingyang Sun, Qichen He et al. | [Abstract](https://arxiv.org/abs/2610.29432) · [PDF](https://arxiv.org/pdf/2610.29432) | rule-assigned |
@@ -332,7 +337,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-28 | HD Maps are Lane Detection Generalizers: A Novel Generative Framework for Single-Source Domain Generalization | Daeun Lee, Minhyeok Heo, Jiwon Kim | [Abstract](https://arxiv.org/abs/2311.16589) · [PDF](https://arxiv.org/pdf/2311.16589) | rule-assigned |
 | 2023-11-09 | Differentiable Fluid Physics Parameter Identification Via Stirring | Wenqiang Xu, Dongzhe Zheng, Yutong Li, Jieji Ren et al. | [Abstract](https://arxiv.org/abs/2311.05137) · [PDF](https://arxiv.org/pdf/2311.05137) | rule-assigned |
 | 2023-11-07 | Imitation learning for sim-to-real transfer of robotic cutting policies based on residual Gaussian process disturbance force model | Jamie Hathaway, Rustam Stolkin, Alireza Rastegarpanah | [Abstract](https://arxiv.org/abs/2311.04096) · [PDF](https://arxiv.org/pdf/2311.04096) | rule-assigned |
-| 2023-11-02 | An Efficient Detection and Control System for Underwater Docking using Machine Learning and Realistic Simulation: A Comprehensive Approach | Jalil Chavez-Galaviz, Jianwen Li, Matthew Bergman, Miras Mengdibayev et al. | [Abstract](https://arxiv.org/abs/2311.01522) · [PDF](https://arxiv.org/pdf/2311.01522) | rule-assigned |
 
 ---
 

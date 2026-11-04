@@ -1,12 +1,12 @@
 # Task Decomposition & Symbolic Planning · 任务分解与符号规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Task%20Reasoning%20%26%20Planning&specialty=Task%20Decomposition%20%26%20Symbolic%20Planning#research-workbench)
 
-> 47 conference papers · 231 recent arXiv papers
+> 47 conference papers · 229 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -72,7 +72,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Robot Skill Learning with Identification of Preconditions and Postconditions via Level Set Estimation | IROS · Skill Learning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981933) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981933) | rule-assigned |
 | 2022 | Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement | IROS · Object Rearrangement | [Paper](https://arxiv.org/pdf/2207.08078) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981715) | rule-assigned |
 
-## Recent arXiv papers (231)
+## Recent arXiv papers (229)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -305,8 +305,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-29 | LLM-State: Open World State Representation for Long-horizon Task Planning with Large Language Model | Siwei Chen, Anxing Xiao, David Hsu | [Abstract](https://arxiv.org/abs/2311.17406) · [PDF](https://arxiv.org/pdf/2311.17406) | rule-assigned |
 | 2023-11-27 | Task Tree Retrieval For Robotic Cooking | Chakradhar Reddy Nallu | [Abstract](https://arxiv.org/abs/2312.09434) · [PDF](https://arxiv.org/pdf/2312.09434) | rule-assigned |
 | 2023-11-20 | GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration | Naoki Wake, Atsushi Kanehira, Kazuhiro Sasabuchi, Jun Takamatsu et al. | [Abstract](https://arxiv.org/abs/2311.12015) · [PDF](https://arxiv.org/pdf/2311.12015) | rule-assigned |
-| 2023-11-02 | Vision-Language Interpreter for Robot Task Planning | Keisuke Shirai, Cristian C. Beltran-Hernandez, Masashi Hamaya, Atsushi Hashimoto et al. | [Abstract](https://arxiv.org/abs/2311.00967) · [PDF](https://arxiv.org/pdf/2311.00967) | rule-assigned |
-| 2023-10-30 | GG-LLM: Geometrically Grounding Large Language Models for Zero-shot Human Activity Forecasting in Human-Aware Task Planning | Moritz A. Graule, Volkan Isler | [Abstract](https://arxiv.org/abs/2310.20034) · [PDF](https://arxiv.org/pdf/2310.20034) | rule-assigned |
 
 ---
 

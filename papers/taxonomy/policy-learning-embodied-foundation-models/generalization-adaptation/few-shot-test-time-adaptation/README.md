@@ -1,12 +1,12 @@
 # Few-shot & Test-time Adaptation · 少样本与测试时适配
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generalization%20%26%20Adaptation&specialty=Few-shot%20%26%20Test-time%20Adaptation#research-workbench)
 
-> 22 conference papers · 279 recent arXiv papers
+> 22 conference papers · 280 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -47,10 +47,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | TidyBot: Personalized Robot Assistance with Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2305.05658) · [Publisher](https://doi.org/10.1007/s10514-023-10139-z) | rule-assigned |
 | 2023 | Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects | NeurIPS · Affordance | [Paper](https://arxiv.org/pdf/2309.07473) · [Index](https://dblp.org/rec/journals/corr/abs-2309-07473) | rule-assigned |
 
-## Recent arXiv papers (279)
+## Recent arXiv papers (280)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-03 | DRAP: Dynamics-Risk Adaptive Plasticity for Continual Learning in Physical AI | Oswaldo Ludwig | [Abstract](https://arxiv.org/abs/2611.05029) · [PDF](https://arxiv.org/pdf/2611.05029) | rule-assigned |
+| 2026-10-29 | AquaProbe: Efficient Adaptation of Frozen Vision Models for Underwater Images | Md Shihabul Islam Shovo, Nishi Kanta Paul, Trung Dong, Xiaomin Lin | [Abstract](https://arxiv.org/abs/2610.40900) · [PDF](https://arxiv.org/pdf/2610.40900) | rule-assigned |
 | 2026-10-28 | Open-World Object Motion Anticipation via Meta-Learned Semantic Adaptation | Mason Peterson, Gage MacLin, Camilla Tabasso, Jonathan P. How et al. | [Abstract](https://arxiv.org/abs/2610.38993) · [PDF](https://arxiv.org/pdf/2610.38993) | rule-assigned |
 | 2026-10-27 | GRAFT: Geometry-Aware Residual Adaptation for Foundation Trackers | Liang Li, Guoyao Zhang, Xingyu Chen, Sikai Wu et al. | [Abstract](https://arxiv.org/abs/2610.36507) · [PDF](https://arxiv.org/pdf/2610.36507) | rule-assigned |
 | 2026-10-26 | Program-Level Adversarial Co-Adaptive Self-Play for Robotic Security | Leo Benaharon, Chi Zhang, Wei Zheng, Weifan Zhang et al. | [Abstract](https://arxiv.org/abs/2610.36143) · [PDF](https://arxiv.org/pdf/2610.36143) | rule-assigned |
@@ -329,7 +331,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-18 | Deploying and Evaluating LLMs to Program Service Mobile Robots | Zichao Hu, Francesca Lucchetti, Claire Schlesinger, Yash Saxena et al. | [Abstract](https://arxiv.org/abs/2311.11183) · [PDF](https://arxiv.org/pdf/2311.11183) | rule-assigned |
 | 2023-11-17 | A Language Agent for Autonomous Driving | Jiageng Mao, Junjie Ye, Yuxi Qian, Marco Pavone et al. | [Abstract](https://arxiv.org/abs/2311.10813) · [PDF](https://arxiv.org/pdf/2311.10813) | rule-assigned |
 | 2023-11-14 | Human-Centric Autonomous Systems With LLMs for User Command Reasoning | Yi Yang, Qingwen Zhang, Ci Li, Daniel Simões Marta et al. | [Abstract](https://arxiv.org/abs/2311.08206) · [PDF](https://arxiv.org/pdf/2311.08206) | rule-assigned |
-| 2023-11-02 | Vision-Language Foundation Models as Effective Robot Imitators | Xinghang Li, Minghuan Liu, Hanbo Zhang, Cunjun Yu et al. | [Abstract](https://arxiv.org/abs/2311.01378) · [PDF](https://arxiv.org/pdf/2311.01378) | rule-assigned |
 
 ---
 

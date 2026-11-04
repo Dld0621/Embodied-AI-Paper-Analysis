@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-10-30** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-10-30** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Experimental%20Methods&specialty=Pending%20specialty%20review#research-workbench)
 
-> 1 conference papers · 6 recent arXiv papers
+> 1 conference papers · 7 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2023 | CoWs on Pasture: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation | CVPR · Navigation | [Paper](https://arxiv.org/pdf/2203.10421) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.02219) | needs-review |
 
-## Recent arXiv papers (6)
+## Recent arXiv papers (7)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-31 | A Straight Line Is Not a Camera Pose: Auditing Short-Clip Pose Benchmarks | Xinyi Shi | [Abstract](https://arxiv.org/abs/2611.00482) · [PDF](https://arxiv.org/pdf/2611.00482) | needs-review |
 | 2026-08-30 | Do World Models Make Better Robots? A Survey of Evaluation Benchmarks for Predictive Embodied Intelligence | Gaytri Jena, Kapil Wanaskar, Vinija Jain, Aman Chadha et al. | [Abstract](https://arxiv.org/abs/2609.29669) · [PDF](https://arxiv.org/pdf/2609.29669) | needs-review |
 | 2026-05-05 | Beyond Fixed Thresholds and Domain-Specific Benchmarks for Explainable Multi-Task Classification in Autonomous Vehicles | Maryam Sadat Hosseini Azad, Shahriar Baradaran Shokouhi | [Abstract](https://arxiv.org/abs/2605.04299) · [PDF](https://arxiv.org/pdf/2605.04299) | needs-review |
 | 2026-04-24 | Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines | Ziyao Wang, Bingying Wang, Hanrong Zhang, Tingting Du et al. | [Abstract](https://arxiv.org/abs/2604.23001) · [PDF](https://arxiv.org/pdf/2604.23001) | needs-review |
