@@ -1,7 +1,7 @@
 # Terrain Adaptation · 地形适应
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Quadruped%20%26%20Multilegged%20Locomotion&specialty=Terrain%20Adaptation#research-workbench)
@@ -26,7 +26,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2026 | CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2603.03067) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696024) | rule-assigned |
 | 2026 | Terra: Hierarchical Terrain-Aware 3D Scene Graph for Task-Agnostic Outdoor Mapping | ICRA · 3D Scene | [Paper](https://arxiv.org/pdf/2509.19579) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696096) | rule-assigned |
-| 2025 | Whole-Body End-Effector Pose Tracking | ICRA · Whole Body | [Paper](https://arxiv.org/abs/2409.16048) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127964) | rule-assigned |
+| 2025 | Whole-Body End-Effector Pose Tracking | ICRA · Whole Body | [Paper](https://arxiv.org/pdf/2409.16048) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127964) | rule-assigned |
 | 2025 | BeeTLe: Blind Terrain-aware Learned Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11246775) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246775) | rule-assigned |
 | 2025 | Learning to Exploit Leg Odometry Enables Terrain-Aware Quadrupedal Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11247127) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247127) | rule-assigned |
 | 2023 | Learning Terrain-Adaptive Locomotion with Agile Behaviors by Imitating Animals | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2308.03273) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342271) | rule-assigned |
@@ -37,6 +37,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-05 | STEP: Spatiotemporal Training with Explicit Prediction for Perceptive Humanoid Locomotion | Youhao Lyu, Chenghao Sun, Zhenxuan Ding, Shuting Zhang et al. | [Abstract](https://arxiv.org/abs/2611.08097) · [PDF](https://arxiv.org/pdf/2611.08097) | rule-assigned |
 | 2026-10-07 | Terrain Traversal Without Motion Priors: Expert-Routed Humanoid Locomotion at Deployment Fidelity | Thanh Ly, Chien Le, Truong-Duy Dang, Duy M. H. Nguyen et al. | [Abstract](https://arxiv.org/abs/2610.14061) · [PDF](https://arxiv.org/pdf/2610.14061) | rule-assigned |
 | 2026-10-05 | BRACE: Adapting Whole-Body References for Force and Terrain Aware Humanoid Motion Tracking | Sudarshan Harithas, Chen Yu, Juan Borbon, Shubhankar Mondal et al. | [Abstract](https://arxiv.org/abs/2610.07052) · [PDF](https://arxiv.org/pdf/2610.07052) | rule-assigned |
 | 2026-09-29 | TERRA: Terrain-Aware Reconstruction, Retargeting and Control for Musculoskeletal Locomotion | Merkourios Simos, Chengkun Li, Bianca Ziliotto, Alexander Mathis | [Abstract](https://arxiv.org/abs/2609.38653) · [PDF](https://arxiv.org/pdf/2609.38653) | rule-assigned |
@@ -44,7 +45,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-17 | Robot-Body-Aware Traversal Risk Graph Planning for Wheeled-Legged Robots in Complex Terrain | Zhiqiao Guo, Bichi Zhang, Sören Schwertfeger | [Abstract](https://arxiv.org/abs/2608.16433) · [PDF](https://arxiv.org/pdf/2608.16433) | rule-assigned |
 | 2026-08-02 | VertiAKD: Adaptive Off-Road Kinodynamics on Vertically Challenging Terrain | Tong Xu, Chenhui Pan, Francesco Cancelliere, Xuesu Xiao | [Abstract](https://arxiv.org/abs/2608.00945) · [PDF](https://arxiv.org/pdf/2608.00945) | rule-assigned |
 | 2026-07-15 | EgoHTR: Egocentric 4D Demonstrations of Human Terrain Traversal | Alex Brandes, Haig Conti Georges Sajelian, Manthan Patel, Dominik Hollidt et al. | [Abstract](https://arxiv.org/abs/2607.13472) · [PDF](https://arxiv.org/pdf/2607.13472) | rule-assigned |
-| 2026-06-17 | CTS-MoE: Implicit Terrain Adaptation via Mixture-of-Experts for Perceptive Locomotion | Francisco Affonso, Matheus P. Angarola, Ana Luiza Mineiro, Aditya Potnis et al. | [Abstract](https://arxiv.org/abs/2606.19633) · [PDF](https://arxiv.org/pdf/2606.19633) | rule-assigned |
 | 2026-06-05 | T-GMP: Terrain-conditioned Generative Motion Priors for Versatile and Natural Humanoid Locomotion | Junhong Guo, Hao Hu, Chen Chen, Haoxuan Han et al. | [Abstract](https://arxiv.org/abs/2606.06944) · [PDF](https://arxiv.org/pdf/2606.06944) | rule-assigned |
 | 2026-06-04 | TAGA: Terrain-aware Active Gaze Learning for Generalizable Agile Humanoid Locomotion | Peizhuo Li, Hongyi Li, Mingfeng Fan, Yutong Wang et al. | [Abstract](https://arxiv.org/abs/2606.05880) · [PDF](https://arxiv.org/pdf/2606.05880) | rule-assigned |
 | 2026-04-23 | Reasoning About Traversability: Language-Guided Off-Road 3D Trajectory Planning | Byounggun Park, Soonmin Hwang | [Abstract](https://arxiv.org/abs/2604.21249) · [PDF](https://arxiv.org/pdf/2604.21249) | rule-assigned |

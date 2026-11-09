@@ -1,7 +1,7 @@
 # Robot Demonstration Datasets · 机器人示教数据集
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engineering&specialty=Robot%20Demonstration%20Datasets#research-workbench)
@@ -43,6 +43,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | ToolDex: An Ego-Exo Human Demonstration Dataset for Creative Physical Tool Use | Mohamed Elmoghany, Kehan Li, Ruoqu Chen, Tarun Chiruvolu et al. | [Abstract](https://arxiv.org/abs/2611.09036) · [PDF](https://arxiv.org/pdf/2611.09036) | rule-assigned |
 | 2026-11-03 | PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data | Kewei Zhang, Juncheng Ma, Guodong Lv, Duomin Wang et al. | [Abstract](https://arxiv.org/abs/2611.05320) · [PDF](https://arxiv.org/pdf/2611.05320) | rule-assigned |
 | 2026-10-29 | UMI-Live for In-The-Wild Bimanual Robotics Data Collection | Govind Velamoor, Adrian Lin, Sam Jung, Spencer Mateega et al. | [Abstract](https://arxiv.org/abs/2610.39385) · [PDF](https://arxiv.org/pdf/2610.39385) | reviewed |
 | 2026-10-28 | CuraEval: Evaluating Demonstration Curation on Mixed-Skill Robot Data | Jiuyi Xu, Meida Chen, Yang Ye, Yangming Shi | [Abstract](https://arxiv.org/abs/2610.38221) · [PDF](https://arxiv.org/pdf/2610.38221) | rule-assigned |
@@ -75,7 +76,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-03-04 | AMP2026: A Multi-Platform Marine Robotics Dataset for Tracking and Mapping | Edwin Meriaux, Shuo Wen, David Widhalm, Zhizun Wang et al. | [Abstract](https://arxiv.org/abs/2603.04225) · [PDF](https://arxiv.org/pdf/2603.04225) | rule-assigned |
 | 2026-03-03 | LLM-MLFFN: Multi-Level Autonomous Driving Behavior Feature Fusion via Large Language Model | Xiangyu Li, Tianyi Wang, Xi Cheng, Rakesh Chowdary Machineni et al. | [Abstract](https://arxiv.org/abs/2603.02528) · [PDF](https://arxiv.org/pdf/2603.02528) | rule-assigned |
 | 2026-02-25 | The Swarm Intelligence Freeway-Urban Trajectories (SWIFTraj) Dataset -- Part II: A Graph-Based Approach for Trajectory Connection | Xinkai Ji, Pan Liu, Ying Yang, Yu Han | [Abstract](https://arxiv.org/abs/2602.21954) · [PDF](https://arxiv.org/pdf/2602.21954) | rule-assigned |
-| 2026-02-21 | RoboCurate: Harnessing Diversity with Action-Verified Neural Trajectory for Robot Learning | Seungku Kim, Suhyeok Jang, Byungjun Yoon, Dongyoung Kim et al. | [Abstract](https://arxiv.org/abs/2602.18742) · [PDF](https://arxiv.org/pdf/2602.18742) | rule-assigned |
 | 2026-02-20 | GrandTour: A Legged Robotics Dataset in the Wild for Multi-Modal Perception and State Estimation | Turcan Tuna, Jonas Frey, Frank Fu, Katharine Patterson et al. | [Abstract](https://arxiv.org/abs/2602.18164) · [PDF](https://arxiv.org/pdf/2602.18164) | rule-assigned |
 | 2026-01-21 | Rethinking Video Generation Model for the Embodied World | Yufan Deng, Zilin Pan, Hongyu Zhang, Xiaojie Li et al. | [Abstract](https://arxiv.org/abs/2601.15282) · [PDF](https://arxiv.org/pdf/2601.15282) | rule-assigned |
 | 2026-01-16 | The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents | Ziyu Wang, Chenyuan Liu, Yushun Xiang, Runhao Zhang et al. | [Abstract](https://arxiv.org/abs/2601.11421) · [PDF](https://arxiv.org/pdf/2601.11421) | rule-assigned |

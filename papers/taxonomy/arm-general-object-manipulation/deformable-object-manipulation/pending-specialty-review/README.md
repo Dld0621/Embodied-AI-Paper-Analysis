@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation&specialty=Pending%20specialty%20review#research-workbench)
 
-> 10 conference papers · 30 recent arXiv papers
+> 10 conference papers · 31 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,7 +24,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | DynDLO: Learning-Based Trajectory Planning for Dynamic Robotic Manipulation of Deformable Linear Objects | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697081) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697081) | needs-review |
+| 2026 | DynDLO: Learning-Based Trajectory Planning for Dynamic Robotic Manipulation of Deformable Linear Objects | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11697081) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697081) | needs-review |
 | 2026 | Sparse Meets Dense: Correspondence Guided Robotic Manipulation with Rigid-Deformable Interactions | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2608.01083) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696784) | needs-review |
 | 2025 | Shape-Space Deformer: Unified Visuo-Tactile Representations for Robotic Manipulation of Deformable Objects | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2409.12419) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127499) | needs-review |
 | 2025 | Multi-Robot Assembly of Deformable Linear Objects Using Multi-Modal Perception | IROS · Assembly | [Paper](https://arxiv.org/abs/2506.22034) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246285) | needs-review |
@@ -35,10 +35,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Manipulation via Membranes: High-Resolution and Highly Deformable Tactile Sensing and Control | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2209.13432) · [Index](https://dblp.org/rec/journals/corr/abs-2209-13432) | needs-review |
 | 2022 | Grasp Transfer for Deformable Objects by Functional Map Correspondence | ICRA · Grasp | [Paper](https://arxiv.org/abs/2203.00776) · [Index](https://dblp.org/rec/conf/icra/FariasTSM22) | needs-review |
 
-## Recent arXiv papers (30)
+## Recent arXiv papers (31)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-04 | Adaptive Hybrid Force-Vision Control with EMG-Derived References for Deformable Bottle Manipulation | Jeffrey Lee, Geoffrey Hanks, Evangeline Bouganim, Yue Hu | [Abstract](https://arxiv.org/abs/2611.07235) · [PDF](https://arxiv.org/pdf/2611.07235) | needs-review |
 | 2026-09-22 | Manipulation with Stability Guarantees: Linear Deformable Objects with Non-negligible Physical Response Grasped at Multiple Location | Daniel Feliu-Talegon, Cosimo Della Santina | [Abstract](https://arxiv.org/abs/2609.26004) · [PDF](https://arxiv.org/pdf/2609.26004) | needs-review |
 | 2026-09-22 | Manipulation of Deformable Linear Objects Using Model Predictive Path Integral Control with Bidirectional Long Short-Term Memory Learning | Lukas Zeh, Johannes Meiwaldt, Zexu Zhou, Armin Lechler et al. | [Abstract](https://arxiv.org/abs/2609.26238) · [PDF](https://arxiv.org/pdf/2609.26238) | needs-review |
 | 2026-09-19 | DiagGen: Agentic Generation of Deformable Assets with Sim-based Diagnostics for Robotic Simulation | Guanxiong Chen, Yiduo Qu, Qianjun Xia, Pengyu Jing et al. | [Abstract](https://arxiv.org/abs/2609.23103) · [PDF](https://arxiv.org/pdf/2609.23103) | needs-review |

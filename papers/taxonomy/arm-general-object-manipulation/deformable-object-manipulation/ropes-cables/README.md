@@ -1,7 +1,7 @@
 # Ropes & Cables · 绳索与线缆
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation&specialty=Ropes%20%26%20Cables#research-workbench)
@@ -29,7 +29,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Force-based semantic representation and estimation of feature points for robotic cable manipulation with environmental contacts | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610686) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610686) | rule-assigned |
 | 2023 | HANDLOOM: Learned Tracing of One-Dimensional Objects for Inspection and Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2303.08975) · [Index](https://dblp.org/rec/conf/corl/ViswanathSPAKIC23) | rule-assigned |
 | 2023 | Goal-Image Conditioned Dynamic Cable Manipulation through Bayesian Inference and Multi-Objective Black-Box Optimization | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2301.11538) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160884) | rule-assigned |
-| 2022 | Metal Wire Manipulation Planning for 3D Curving - A Low Payload Robot that Uses a Bending Machine to Bend High-Stiffness Wire | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981672) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981672) | rule-assigned |
+| 2022 | Metal Wire Manipulation Planning for 3D Curving - A Low Payload Robot that Uses a Bending Machine to Bend High-Stiffness Wire | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2203.04024) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981672) | rule-assigned |
 | 2022 | Reactive Motion Planning for Rope Manipulation and Collision Avoidance using Aerial Robots | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981658) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981658) | rule-assigned |
 
 ## Recent arXiv papers (17)

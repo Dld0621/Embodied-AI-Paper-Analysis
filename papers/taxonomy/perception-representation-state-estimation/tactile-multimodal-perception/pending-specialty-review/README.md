@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Pending%20specialty%20review#research-workbench)
 
-> 42 conference papers · 108 recent arXiv papers
+> 42 conference papers · 106 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,13 +24,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | A Tactile Rubbing Gripper for Reliable Fabric Separation | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696008) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696008) | needs-review |
+| 2026 | A Tactile Rubbing Gripper for Reliable Fabric Separation | ICRA · Tactile | [Paper](https://doi.org/10.1109/icra57385.2026.11696008) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696008) | needs-review |
 | 2026 | Learning Controlled Separation of Small Objects Between Two Fingers with a Tactile Skin | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2605.31486) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697077) | needs-review |
 | 2026 | Magnet-Based Soft Robotic Skin Using a 3D-Printed Multi-Lattice Structure and CNN-Based Tactile Super-Resolution | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2605.28352) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696460) | needs-review |
-| 2026 | Non-contact Tactile Perception in Human-Robot Interaction: Deep Learning-Enhanced Super-resolution Spatial Sensing | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696435) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696435) | needs-review |
+| 2026 | Non-contact Tactile Perception in Human-Robot Interaction: Deep Learning-Enhanced Super-resolution Spatial Sensing | ICRA · Tactile | [Paper](https://doi.org/10.1109/icra57385.2026.11696435) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696435) | needs-review |
 | 2026 | OCRA: Object-Centric Learning with 3D and Tactile Priors for Human-to-Robot Action Transfer | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2603.14401) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696205) | needs-review |
 | 2026 | SuckTac: Camera-based Tactile Sucker for Unstructured Surface Perception and Interaction | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2511.02294) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696453) | needs-review |
-| 2026 | Tactile Hide and Seek: Bimanual Object Blind Search and Retrieval via Tactile-Only Feedback | ICRA · Bimanual | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696735) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696735) | needs-review |
+| 2026 | Tactile Hide and Seek: Bimanual Object Blind Search and Retrieval via Tactile-Only Feedback | ICRA · Bimanual | [Paper](https://doi.org/10.1109/icra57385.2026.11696735) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696735) | needs-review |
 | 2025 | Learning Active Tactile Perception Through Belief-Space Control | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2312.00215) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127425) | needs-review |
 | 2025 | ShadowTac: Dense Measurement of Shear and Normal Deformation of a Tactile Membrane from Colored Shadows | ICRA · Tactile | [Paper](https://infoscience.epfl.ch/handle/20.500.14299/254682) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128441) | needs-review |
 | 2025 | Whisker-Based Active Tactile Perception for Contour Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2507.23305) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128114) | needs-review |
@@ -51,23 +51,23 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Precise Robotic Needle-Threading with Tactile Perception and Reinforcement Learning | CoRL · Tactile | [Paper](https://arxiv.org/abs/2311.02396) · [Index](https://dblp.org/rec/journals/corr/abs-2311-02396) | needs-review |
 | 2023 | Enable Natural Tactile Interaction for Robot Dog based on Large-format Distributed Flexible Pressure Sensors | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2303.07595) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161049) | needs-review |
 | 2023 | Estimating Tactile Models of Heterogeneous Deformable Objects in Real Time | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160731) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160731) | needs-review |
-| 2023 | Tac-VGNN: A Voronoi Graph Neural Network for Pose-Based Tactile Servoing | ICRA · Tactile | [Paper](https://arxiv.org/abs/2303.02708) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160288) | needs-review |
+| 2023 | Tac-VGNN: A Voronoi Graph Neural Network for Pose-Based Tactile Servoing | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2303.02708) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160288) | needs-review |
 | 2023 | Tactile based robotic skills for cable routing operations | ICRA · Tactile | [Paper](https://iris.polito.it/bitstream/11583/2984170/2/Tactile_based_robotic_skills_for_cable_routing_operations_postprint_author.pdf) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160729) | needs-review |
 | 2023 | Acquisition and Prediction of High-Density Tactile Field Data for Rigid and Flexible Objects | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS55552.2023.10341734) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341734) | needs-review |
-| 2023 | Deep Functional Predictive Control (deep-FPC): Robot Pushing 3-D Cluster Using Tactile Prediction | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS55552.2023.10342410) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342410) | needs-review |
+| 2023 | Deep Functional Predictive Control (deep-FPC): Robot Pushing 3-D Cluster Using Tactile Prediction | IROS · Tactile | [Paper](https://arxiv.org/pdf/2303.05393) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342410) | needs-review |
 | 2023 | On the Potentials of Surface Tactile Imaging and Dilated Residual Networks for Early Detection of Colorectal Cancer Polyps | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS55552.2023.10342161) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342161) | needs-review |
 | 2023 | Touch if it's Transparent! ACTOR: Active Tactile-Based Category-Level Transparent Object Reconstruction | IROS · Tactile | [Paper](https://eprints.gla.ac.uk/315591/1/315591.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341680) | needs-review |
 | 2022 | Learning the Dynamics of Compliant Tool-Environment Interaction for Visuo-Tactile Contact Servoing | CoRL · Tactile | [Paper](https://arxiv.org/abs/2210.03836) · [Index](https://dblp.org/rec/journals/corr/abs-2210-03836) | needs-review |
 | 2022 | VIRDO++: Real-World, Visuo-tactile Dynamics and Perception of Deformable Objects | CoRL · Tactile | [Paper](https://arxiv.org/abs/2210.03701) · [Index](https://dblp.org/rec/journals/corr/abs-2210-03701) | needs-review |
-| 2022 | Learning to Synthesize Volumetric Meshes from Vision-based Tactile Imprints | ICRA · Tactile | [Paper](https://arxiv.org/abs/2203.15155) · [Index](https://dblp.org/rec/journals/corr/abs-2203-15155) | needs-review |
+| 2022 | Learning to Synthesize Volumetric Meshes from Vision-based Tactile Imprints | ICRA · Tactile | [Paper](https://arxiv.org/abs/2203.15155) · [Index](https://dblp.org/rec/conf/icra/ZhuJTB22) | needs-review |
 | 2022 | Online Payload Identification for Tactile Robots Using the Momentum Observer | ICRA · Tactile | [Paper](https://doi.org/10.1109/icra46639.2022.9811691) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811691) | needs-review |
 | 2022 | Pouring by Feel: An Analysis of Tactile and Proprioceptive Sensing for Accurate Pouring | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2310.18473) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811898) | needs-review |
-| 2022 | VIRDO: Visio-tactile Implicit Representations of Deformable Objects | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2202.00868) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812097) | needs-review |
-| 2022 | Semi-Supervised Disentanglement of Tactile Contact Geometry from Sliding-Induced Shear | IROS · Tactile | [Paper](https://arxiv.org/abs/2208.12500) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982165) | needs-review |
+| 2022 | VIRDO: Visio-tactile Implicit Representations of Deformable Objects | ICRA · Tactile | [Paper](https://arxiv.org/abs/2202.00868) · [Index](https://dblp.org/rec/conf/icra/WiFZF22) | needs-review |
+| 2022 | Semi-Supervised Disentanglement of Tactile Contact Geometry from Sliding-Induced Shear | IROS · Tactile | [Paper](https://arxiv.org/pdf/2208.12500) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982165) | needs-review |
 | 2022 | Soft Tactile Contour Following for Robot-Assisted Wiping and Bathing | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS47612.2022.9982071) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982071) | needs-review |
 | 2022 | Action Conditioned Tactile Prediction: a case study on slip prediction | RSS · Tactile | [Paper](https://arxiv.org/pdf/2205.09430) · [Index](https://dblp.org/rec/journals/corr/abs-2205-09430) | needs-review |
 
-## Recent arXiv papers (108)
+## Recent arXiv papers (106)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-18 | TaCauchy: An Extensible FEM Framework for Vision-Based Tactile Simulation | Hengfei Zhao, Yifan Xie, Junhao Gong, Yue Sun et al. | [Abstract](https://arxiv.org/abs/2606.20426) · [PDF](https://arxiv.org/pdf/2606.20426) | needs-review |
 | 2026-06-14 | GeoTLM: Geometry-aware Tactile-Language Models for Contact Motion Orientation Reasoning of Dynamic Objects | Qiutian Li, Zinan Liu, Lin Wang | [Abstract](https://arxiv.org/abs/2606.15909) · [PDF](https://arxiv.org/pdf/2606.15909) | needs-review |
 | 2026-06-12 | TacStyle: Personalizing Tactile Robot Policies using Structured Behavior Representations | Kevin Robledo, Matías I. Torres Galaz, Kumar Dixhant Rai, Shelly Sara Ulman et al. | [Abstract](https://arxiv.org/abs/2606.14862) · [PDF](https://arxiv.org/pdf/2606.14862) | needs-review |
-| 2026-06-04 | Wave Focusing in Metamaterials: Tactile Displays Beyond the Diffraction Limit | Gregory Reardon, Max Linnander, Dustin Goetz, Neeli Tummala et al. | [Abstract](https://arxiv.org/abs/2606.05572) · [PDF](https://arxiv.org/pdf/2606.05572) | needs-review |
+| 2026-06-04 | Metamaterial tactile displays with programmable virtual pixels | Gregory Reardon, Max Linnander, Dustin Goetz, Neeli Tummala et al. | [Abstract](https://arxiv.org/abs/2606.05572) · [PDF](https://arxiv.org/pdf/2606.05572) | needs-review |
 | 2026-06-03 | TransTac: Visuo-Tactile Modality Transition via Ultraviolet-Encoded Transparent Elastomers | Lingyue Yang, Bin Fang | [Abstract](https://arxiv.org/abs/2606.04477) · [PDF](https://arxiv.org/pdf/2606.04477) | needs-review |
 | 2026-05-29 | Learning Controlled Separation of Small Objects Between Two Fingers with a Tactile Skin | Ulf Kasolowsky, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2605.31486) · [PDF](https://arxiv.org/pdf/2605.31486) | needs-review |
 | 2026-05-27 | Magnet-Based Soft Robotic Skin Using a 3D-Printed Multi-Lattice Structure and CNN-Based Tactile Super-Resolution | Yunseong Bang, Joowon Park, Suan Sim, Youngjun Ryu et al. | [Abstract](https://arxiv.org/abs/2605.28352) · [PDF](https://arxiv.org/pdf/2605.28352) | needs-review |
@@ -116,7 +116,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-06 | Reduced-order Neural Modeling with Differentiable Simulation for High-Detail Tactile Perception | Yuhu Guo, Zhikai Shen, Jiasheng Qu, Chenghao Qian et al. | [Abstract](https://arxiv.org/abs/2605.05053) · [PDF](https://arxiv.org/pdf/2605.05053) | needs-review |
 | 2026-04-02 | VitaTouch: Property-Aware Vision-Tactile-Language Model for Robotic Quality Inspection in Manufacturing | Junyi Zong, Qingxuan Jia, Meixian Shi, Tong Li et al. | [Abstract](https://arxiv.org/abs/2604.03322) · [PDF](https://arxiv.org/pdf/2604.03322) | needs-review |
 | 2026-04-01 | A soft and lightweight fabric-based pneumatic interface for multimodal fingertip tactile feedback | Rui Chen, Daniele Leonardis, Antonio Frisoli | [Abstract](https://arxiv.org/abs/2604.01390) · [PDF](https://arxiv.org/pdf/2604.01390) | needs-review |
-| 2026-03-24 | VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs | Haoran Yuan, Weigang Yi, Zhenyu Zhang, Wendi Chen et al. | [Abstract](https://arxiv.org/abs/2603.23481) · [PDF](https://arxiv.org/pdf/2603.23481) | needs-review |
 | 2026-03-15 | OCRA: Object-Centric Learning with 3D and Tactile Priors for Human-to-Robot Action Transfer | Kuanning Wang, Ke Fan, Yuqian Fu, Siyu Lin et al. | [Abstract](https://arxiv.org/abs/2603.14401) · [PDF](https://arxiv.org/pdf/2603.14401) | needs-review |
 | 2026-03-14 | ArrayTac: A Closed-Loop Piezoelectric Tactile Platform for Continuously Tunable Rendering of Shape, Stiffness, and Friction | Tianhai Liang, Shiyi Guo, Baiye Cheng, Zhengrong Xue et al. | [Abstract](https://arxiv.org/abs/2603.13829) · [PDF](https://arxiv.org/pdf/2603.13829) | needs-review |
 | 2026-03-09 | FlowTouch: View-Invariant Visuo-Tactile Prediction | Seongjin Bien, Carlo Kneissl, Tobias Jülg, Frank Fundel et al. | [Abstract](https://arxiv.org/abs/2603.08255) · [PDF](https://arxiv.org/pdf/2603.08255) | needs-review |
@@ -178,7 +177,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-30 | Learning active tactile perception through belief-space control | Jean-François Tremblay, David Meger, Francois Hogan, Gregory Dudek | [Abstract](https://arxiv.org/abs/2312.00215) · [PDF](https://arxiv.org/pdf/2312.00215) | needs-review |
 | 2023-11-13 | Towards Transferring Tactile-based Continuous Force Control Policies from Simulation to Robot | Luca Lach, Robert Haschke, Davide Tateo, Jan Peters et al. | [Abstract](https://arxiv.org/abs/2311.07245) · [PDF](https://arxiv.org/pdf/2311.07245) | needs-review |
 | 2023-11-13 | TIAGo RL: Simulated Reinforcement Learning Environments with Tactile Data for Mobile Robots | Luca Lach, Francesco Ferro, Robert Haschke | [Abstract](https://arxiv.org/abs/2311.07260) · [PDF](https://arxiv.org/pdf/2311.07260) | needs-review |
-| 2023-11-04 | Precise Robotic Needle-Threading with Tactile Perception and Reinforcement Learning | Zhenjun Yu, Wenqiang Xu, Siqiong Yao, Jieji Ren et al. | [Abstract](https://arxiv.org/abs/2311.02396) · [PDF](https://arxiv.org/pdf/2311.02396) | needs-review |
 
 ---
 

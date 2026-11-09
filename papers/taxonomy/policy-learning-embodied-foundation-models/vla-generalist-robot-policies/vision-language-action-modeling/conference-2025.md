@@ -1,21 +1,25 @@
 # Vision-Language-Action Modeling · 视觉语言动作建模 · Conference 2025
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 20 papers · complete list for this taxonomy leaf
+> 24 papers · complete list for this taxonomy leaf
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2025 | GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation | CVPR · Vla | [Paper](https://arxiv.org/abs/2512.16811) · [Index](https://dblp.org/rec/journals/corr/abs-2512-16811) | rule-assigned |
 | 2025 | MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation | CVPR · Vision Language Action | [Paper](https://arxiv.org/abs/2503.13446) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.00167) | rule-assigned |
 | 2025 | Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation | CVPR · Vision Language Action | [Paper](https://doi.org/10.1109/CVPR52734.2025.02574) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02574) | rule-assigned |
+| 2025 | When Robots Obey the Patch: Universal Transferable Patch Attacks on Vision-Language-Action Models | CVPR · Vision Language Action | [Paper](https://arxiv.org/abs/2511.21192) · [Index](https://dblp.org/rec/journals/corr/abs-2511-21192) | rule-assigned |
 | 2025 | π0.5: a Vision-Language-Action Model with Open-World Generalization | CoRL · Open-world VLA | [Paper](https://proceedings.mlr.press/v305/black25a.html) · [Official](https://proceedings.mlr.press/v305/black25a.html) · [Code](https://github.com/Physical-Intelligence/openpi) | rule-assigned |
 | 2025 | CoA-VLA: Improving Vision-Language-Action Models via Visual-Textual Chain-of-Affordance | ICCV · Vision Language Action | [Paper](https://arxiv.org/pdf/2412.20451) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00910) | rule-assigned |
 | 2025 | Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics | ICCV · Vision Language Action | [Paper](https://arxiv.org/pdf/2411.13587) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00653) | rule-assigned |
 | 2025 | FedVLA: Federated Vision-Language-Action Learning with Dual Gating Mixture-of-Experts for Robotic Manipulation | ICCV · Vision Language Action | [Paper](https://arxiv.org/pdf/2508.02190) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00649) | rule-assigned |
+| 2025 | Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation | ICLR · Vision Language Action | [Paper](https://arxiv.org/abs/2509.22093) · [Index](https://dblp.org/rec/journals/corr/abs-2509-22093) | rule-assigned |
+| 2025 | TwinVLA: Data-Efficient Bimanual Manipulation with Twin Single-Arm Vision-Language-Action Models | ICLR · Vision Language Action | [Paper](https://arxiv.org/abs/2511.05275) · [Index](https://dblp.org/rec/journals/corr/abs-2511-05275) | rule-assigned |
 | 2025 | VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation | ICLR · Vision Language Action | [Paper](https://arxiv.org/abs/2502.13508) · [Index](https://dblp.org/rec/journals/corr/abs-2502-13508) | rule-assigned |
 | 2025 | Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models | ICML · Vision Language Action | [Paper](https://arxiv.org/abs/2502.19417) · [Index](https://dblp.org/rec/conf/icml/ShiIEKPVTWWFLDG25) | rule-assigned |
 | 2025 | Effective Tuning Strategies for Generalist Robot Manipulation Policies | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2410.01220) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127492) | rule-assigned |

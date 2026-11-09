@@ -1,12 +1,12 @@
 # Insertion & Assembly · 插入与装配
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Insertion%20%26%20Assembly#research-workbench)
 
-> 126 conference papers · 365 recent arXiv papers
+> 126 conference papers · 368 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,15 +28,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | Compositional Context Fine-Tuning Vision-Language Model for Complex Assembly Action Understanding from Videos | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2607.10797) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695916) | rule-assigned |
 | 2026 | IDfRA: Self-Verification for Iterative Design in Robotic Assembly | ICRA · Assembly | [Paper](https://arxiv.org/pdf/2509.16998) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697014) | rule-assigned |
 | 2026 | Leveraging Two Robotic Arms for Tight Assembly Performance Gains | ICRA · Assembly | [Paper](https://arxiv.org/pdf/2607.17876) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697537) | rule-assigned |
-| 2026 | LLM-Guided Semantic Stereo Adaptive Visual Servoing for Precise Peg-in-Hole | ICRA · Llm | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697080) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697080) | rule-assigned |
+| 2026 | LLM-Guided Semantic Stereo Adaptive Visual Servoing for Precise Peg-in-Hole | ICRA · Llm | [Paper](https://doi.org/10.1109/icra57385.2026.11697080) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697080) | rule-assigned |
 | 2026 | Manual2Skill++: Connector-Aware General Robotic Assembly from Instruction Manuals via Vision–Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2510.16344) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696095) | rule-assigned |
 | 2026 | Multi-Modal Manipulation via Multi-Modal Policy Consensus | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2509.23468) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697268) | rule-assigned |
-| 2026 | Programmable Assembly and Cooperative Manipulation of Heterogeneous Microspheres via Optoelectronic Tweezers | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697109) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697109) | rule-assigned |
+| 2026 | Programmable Assembly and Cooperative Manipulation of Heterogeneous Microspheres via Optoelectronic Tweezers | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11697109) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697109) | rule-assigned |
 | 2026 | Robust Online Residual Refinement via Koopman-Guided Dynamics Modeling | ICRA · Dynamics Model | [Paper](https://arxiv.org/pdf/2509.12562) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697387) | rule-assigned |
 | 2026 | SHaRe-RL: Structured, Interactive Reinforcement Learning for Contact-Rich Industrial Assembly Tasks | ICRA · Assembly | [Paper](https://arxiv.org/pdf/2509.13949) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696413) | rule-assigned |
 | 2026 | SPARR: Simulation-based Policies with Asymmetric Real-world Residuals for Assembly | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2602.23253) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696987) | rule-assigned |
 | 2026 | Symmetry-Aware Fusion of Vision and Tactile Sensing via Bilateral Force Priors for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2602.13689) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696474) | rule-assigned |
-| 2026 | Tactile Execution Monitoring of Robotic Manipulation via Time-Series based Predictive Encoding | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696475) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696475) | rule-assigned |
+| 2026 | Tactile Execution Monitoring of Robotic Manipulation via Time-Series based Predictive Encoding | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11696475) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696475) | rule-assigned |
 | 2026 | The Curse of Precision: A Data Scaling Law for High-Precision Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2607.23108) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696208) | rule-assigned |
 | 2026 | TranTac: Leveraging Transient Tactile Signals for Contact-Rich Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2509.16550) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696888) | rule-assigned |
 | 2026 | Video-to-BT: Generating Reactive Behavior Trees from Human Demonstration Videos for Robotic Assembly | ICRA · Assembly | [Paper](https://arxiv.org/pdf/2509.16611) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697420) | rule-assigned |
@@ -112,8 +112,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Using Augmented Reality in Human-Robot Assembly: A Comparative Study of Eye-Gaze and Hand-Ray Pointing Methods | IROS · Assembly | [Paper](https://www.repository.cam.ac.uk/bitstreams/11d9a52b-e984-46c0-97f0-33be5e52f13b/download) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802282) | rule-assigned |
 | 2024 | AutoMate: Specialist and Generalist Assembly Policies over Diverse Geometries | RSS · Assembly | [Paper](https://arxiv.org/abs/2407.08028) · [Index](https://dblp.org/rec/journals/corr/abs-2407-08028) | rule-assigned |
 | 2023 | Efficient Sim-to-real Transfer of Contact-Rich Manipulation Skills with Online Admittance Residual Learning | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2310.10509) · [Index](https://dblp.org/rec/conf/corl/ZhangWSWZT23) | rule-assigned |
-| 2023 | A Tactile Feedback Insertion Strategy for Peg-in-Hole Tasks | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160879) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160879) | rule-assigned |
-| 2023 | Auto-Assembly: a framework for automated robotic assembly directly from CAD | ICRA · Assembly | [Paper](https://arxiv.org/abs/2301.02643) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161376) | rule-assigned |
+| 2023 | A Tactile Feedback Insertion Strategy for Peg-in-Hole Tasks | ICRA · Tactile | [Paper](https://ora.ox.ac.uk/objects/uuid:23c9414f-a935-4aa1-a6d9-cea63d5ab3d8/files/shm50tt33w) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160879) | rule-assigned |
+| 2023 | Auto-Assembly: a framework for automated robotic assembly directly from CAD | ICRA · Assembly | [Paper](https://arxiv.org/pdf/2301.02643) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161376) | rule-assigned |
 | 2023 | Cable Routing and Assembly using Tactile-driven Motion Primitives | ICRA · Assembly | [Paper](https://arxiv.org/pdf/2303.11765) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161069) | rule-assigned |
 | 2023 | CFVS: Coarse-to-Fine Visual Servoing for 6-DoF Object-Agnostic Peg-In-Hole Assembly | ICRA · Assembly | [Paper](https://arxiv.org/pdf/2209.08864) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160525) | rule-assigned |
 | 2023 | Grey-Box Learning of Adaptive Manipulation Primitives for Robotic Assembly | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161077) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161077) | rule-assigned |
@@ -151,10 +151,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Tactile-Sensitive NewtonianVAE for High-Accuracy Industrial Connector Insertion | IROS · Tactile | [Paper](https://arxiv.org/pdf/2203.05955) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981610) | rule-assigned |
 | 2022 | Factory: Fast Contact for Robotic Assembly | RSS · Assembly | [Paper](https://arxiv.org/abs/2205.03532) · [Index](https://dblp.org/rec/journals/corr/abs-2205-03532) | rule-assigned |
 
-## Recent arXiv papers (365)
+## Recent arXiv papers (368)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | It Takes Two to Tangram: Multi-Agent Object Centric Reinforcement Learning for Assembly | Paul Knaußt, Kay Pompetzki, Nico Bohlinger, Niklas Funk et al. | [Abstract](https://arxiv.org/abs/2611.08814) · [PDF](https://arxiv.org/pdf/2611.08814) | rule-assigned |
+| 2026-11-04 | Rethinking Self-Repair in Code-as-Policy Agents: What Drives Retry Success? | Siddharth Aphale, Ayushman Singh | [Abstract](https://arxiv.org/abs/2611.06863) · [PDF](https://arxiv.org/pdf/2611.06863) | rule-assigned |
 | 2026-10-31 | Task-Specialized Language-Conditioned Models for Fine-Grained Robotic Manipulation | Chanho Kim, Soyun Choi | [Abstract](https://arxiv.org/abs/2611.00955) · [PDF](https://arxiv.org/pdf/2611.00955) | rule-assigned |
 | 2026-10-30 | Teach, Abstract, Apply: A Framework for Dialogue-Driven Task Learning with Collaborative Robots | Chalamalasetti Kranti, Sherzod Hakimov, David Schlangen | [Abstract](https://arxiv.org/abs/2611.00297) · [PDF](https://arxiv.org/pdf/2611.00297) | rule-assigned |
 | 2026-10-30 | SketchMate: Agentic Geometric Reasoning for Zero-Shot Precision Insertion | Jiaming Wang | [Abstract](https://arxiv.org/abs/2610.41844) · [PDF](https://arxiv.org/pdf/2610.41844) | rule-assigned |
@@ -250,6 +252,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-07-15 | Stress-Sharing for Decentralized Fault Repair in Modular Spacecraft | Sidhdharth D. Sikka, Yue Shen, Shaoshuai Mou | [Abstract](https://arxiv.org/abs/2607.13444) · [PDF](https://arxiv.org/pdf/2607.13444) | rule-assigned |
 | 2026-07-15 | Learning Forward & Reverse Skills from a Single Unfinished Demonstration for Constrained Manipulation Tasks | Yexin Hu, Haoyi Zheng, Johannes Heidersberger, Dongheui Lee | [Abstract](https://arxiv.org/abs/2607.13882) · [PDF](https://arxiv.org/pdf/2607.13882) | rule-assigned |
 | 2026-07-07 | OmniSCS: Omni Safety-Critical Scenario Synthesis for Autonomous Driving via a Fully Editable Driving World | Xiaoyun Dong, Qian Xu, Yang Lu, Yang Lou et al. | [Abstract](https://arxiv.org/abs/2607.09764) · [PDF](https://arxiv.org/pdf/2607.09764) | rule-assigned |
+| 2026-06-30 | Warp: Structured Output-Space Adaptation for Frozen Robot Policies | Ethan Hirschowitz, Fabio Ramos | [Abstract](https://arxiv.org/abs/2606.31043) · [PDF](https://arxiv.org/pdf/2606.31043) | rule-assigned |
 | 2026-06-29 | Real-Time Compliance and Position Control of a Hyper-redundant Soft Robotic Arm | Runze Zuo, Tianhua Zou, Naike Wu, Mingyuan Li et al. | [Abstract](https://arxiv.org/abs/2606.29731) · [PDF](https://arxiv.org/pdf/2606.29731) | rule-assigned |
 | 2026-06-25 | Learning 3D Affordances for Blade Insertion in Cluttered Stowing | Tianyu Li, Harpreet Sawhney, Minju Jung, Aditya Mehrotra et al. | [Abstract](https://arxiv.org/abs/2607.02549) · [PDF](https://arxiv.org/pdf/2607.02549) | rule-assigned |
 | 2026-06-24 | CoStream: Composing Simple Behaviors for Generalizable Complex Manipulation | Haonan Chen, Yuxiang Ma, Stephen Tian, Xiaoshen Han et al. | [Abstract](https://arxiv.org/abs/2606.26423) · [PDF](https://arxiv.org/pdf/2606.26423) | rule-assigned |
@@ -277,7 +280,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-04-29 | Learning Tactile-Aware Quadrupedal Loco-Manipulation Policies | Pokuang Zhou, Yuhao Zhou, Quan Khanh Luu, Seungho Han et al. | [Abstract](https://arxiv.org/abs/2604.27224) · [PDF](https://arxiv.org/pdf/2604.27224) | rule-assigned |
 | 2026-04-28 | Slot-hopping Enabled Loiter Guidance and Automation for Fixed-wing UAV Corridors | Pradeep J, Siddhardha Kedarisetty, Ashwini Ratnoo | [Abstract](https://arxiv.org/abs/2604.25292) · [PDF](https://arxiv.org/pdf/2604.25292) | rule-assigned |
 | 2026-04-27 | Computational Design and Co-Robotic Fabrication for Material Reuse in Architecture | Arash Adel, Daniel Ruan, Ruxin Xie | [Abstract](https://arxiv.org/abs/2604.24648) · [PDF](https://arxiv.org/pdf/2604.24648) | rule-assigned |
-| 2026-04-24 | Learning-augmented robotic automation for real-world manufacturing | Yunho Kim, Quan Nguyen, Taewhan Kim, Youngjin Heo et al. | [Abstract](https://arxiv.org/abs/2604.22235) · [PDF](https://arxiv.org/pdf/2604.22235) | rule-assigned |
+| 2026-04-24 | Learning-augmented robotic automation for real-world manufacturing | Yunho Kim, Quan Nguyen, Taewhan Kim, Young Jin Heo et al. | [Abstract](https://arxiv.org/abs/2604.22235) · [PDF](https://arxiv.org/pdf/2604.22235) | rule-assigned |
 | 2026-04-22 | Visual-Tactile Peg-in-Hole Assembly Learning from Peg-out-of-Hole Disassembly | Yongqiang Zhao, Xuyang Zhang, Zhuo Chen, Matteo Leonetti et al. | [Abstract](https://arxiv.org/abs/2604.20712) · [PDF](https://arxiv.org/pdf/2604.20712) | rule-assigned |
 | 2026-04-21 | Learning Hybrid-Control Policies for High-Precision In-Contact Manipulation Under Uncertainty | Hunter L. Brown, Geoffrey Hollinger, Stefan Lee | [Abstract](https://arxiv.org/abs/2604.19677) · [PDF](https://arxiv.org/pdf/2604.19677) | rule-assigned |
 | 2026-04-18 | Refinement of Accelerated Demonstrations via Incremental Iterative Reference Learning Control for Fast Contact-Rich Imitation Learning | Koki Yamane, Cristian C. Beltran-Hernandez, Steven Oh, Masashi Hamaya et al. | [Abstract](https://arxiv.org/abs/2604.16850) · [PDF](https://arxiv.org/pdf/2604.16850) | rule-assigned |

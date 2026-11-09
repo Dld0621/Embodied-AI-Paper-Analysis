@@ -1,7 +1,7 @@
 # Grasp Stability · 抓取稳定性
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Grasping%20%26%20Pick-place&specialty=Grasp%20Stability#research-workbench)
@@ -24,10 +24,10 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | SureGrip: Perceptual Grasping of Natural Handholds for Free-Climbing Robots | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695918) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695918) | rule-assigned |
+| 2026 | SureGrip: Perceptual Grasping of Natural Handholds for Free-Climbing Robots | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra57385.2026.11695918) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695918) | rule-assigned |
 | 2025 | Patch Tree: Exploiting the Gauss Map and Principal Component Analysis for Robotic Grasping | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127440) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127440) | rule-assigned |
 | 2025 | PseudoTouch: Efficiently Imaging the Surface Feel of Objects for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2403.15107) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128208) | rule-assigned |
-| 2025 | Beyond Anthropomorphism: Enhancing Grasping and Eliminating a Degree of Freedom by Fusing the Abduction of Digits Four and Five | IROS · Grasp | [Paper](https://arxiv.org/abs/2509.13074) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245941) | rule-assigned |
+| 2025 | Beyond Anthropomorphism: Enhancing Grasping and Eliminating a Degree of Freedom by Fusing the Abduction of Digits Four and Five | IROS · Grasp | [Paper](https://arxiv.org/pdf/2509.13074) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245941) | rule-assigned |
 | 2025 | Manip4Care: Robotic Manipulation of Human Limbs for Solving Assistive Tasks | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2508.02649) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245972) | rule-assigned |
 | 2025 | Measuring Uncertainty in Shape Completion to Improve Grasp Quality | IROS · Grasp | [Paper](https://arxiv.org/pdf/2504.16183) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245992) | rule-assigned |
 | 2024 | Physical and Digital Adversarial Attacks on Grasp Quality Networks | ICRA · Grasp | [Paper](https://kclpure.kcl.ac.uk/portal/en/publications/0185237c-29e9-44f0-ab68-e97eaf80afc1) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610886) | rule-assigned |
@@ -37,7 +37,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Learning-Based Real-Time Torque Prediction for Grasping Unknown Objects with a Multi-Fingered Hand | IROS · Multi Finger | [Paper](https://doi.org/10.1109/IROS55552.2023.10341970) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341970) | rule-assigned |
 | 2023 | Learning-Free Grasping of Unknown Objects Using Hidden Superquadrics | RSS · Grasp | [Paper](https://arxiv.org/abs/2305.06591) · [Index](https://dblp.org/rec/journals/corr/abs-2305-06591) | rule-assigned |
 | 2022 | Volumetric-based Contact Point Detection for 7-DoF Grasping | CoRL · Grasp | [Paper](https://arxiv.org/abs/2209.06675) · [Index](https://dblp.org/rec/journals/corr/abs-2209-06675) | rule-assigned |
-| 2022 | Grasp Stability Prediction with Sim-to-Real Transfer from Tactile Sensing | IROS · Sim To Real | [Paper](https://arxiv.org/abs/2208.02885) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981863) | rule-assigned |
+| 2022 | Grasp Stability Prediction with Sim-to-Real Transfer from Tactile Sensing | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2208.02885) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981863) | rule-assigned |
 | 2022 | The Good Grasp, the Bad Grasp, and the Plateau in Tactile-Based Grasp Stability Prediction | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS47612.2022.9981360) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981360) | rule-assigned |
 
 ## Recent arXiv papers (43)

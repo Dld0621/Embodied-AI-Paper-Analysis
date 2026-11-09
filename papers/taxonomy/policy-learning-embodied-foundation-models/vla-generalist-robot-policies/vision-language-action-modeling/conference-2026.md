@@ -1,18 +1,30 @@
 # Vision-Language-Action Modeling · 视觉语言动作建模 · Conference 2026
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 37 papers · complete list for this taxonomy leaf
+> 49 papers · complete list for this taxonomy leaf
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation | CVPR · Vision Language Action | [Paper](https://arxiv.org/abs/2601.08325) · [Index](https://dblp.org/rec/journals/corr/abs-2601-08325) | rule-assigned |
+| 2026 | AT-VLA: Adaptive Tactile Injection for Enhanced Feedback Reaction in Vision-Language-Action Models | CVPR · Vision Language Action | [Paper](https://arxiv.org/abs/2605.07308) · [Index](https://dblp.org/rec/journals/corr/abs-2605-07308) | rule-assigned |
+| 2026 | From Manuals to Actions: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation | CVPR · Vla | [Paper](https://www.semanticscholar.org/paper/177efd1e2565d06162e473fb4b78c88e0d1734f8) · [Index](https://dblp.org/rec/conf/cvpr/GuLCHWLLLZJHZ26) | rule-assigned |
+| 2026 | Global Prior Meets Local Consistency: Dual-Memory Augmented Vision-Language-Action Model for Efficient Robotic Manipulation | CVPR · Vision Language Action | [Paper](https://arxiv.org/abs/2602.20200) · [Index](https://dblp.org/rec/conf/cvpr/LiHSCJXHN26) | rule-assigned |
+| 2026 | Localizing, Structuring, and Rendering: Bridging 3D and 2D Vision-Language-Action Models for Robotic Manipulation | CVPR · Vision Language Action | [Paper](https://www.semanticscholar.org/paper/70f4f7c971d35f6b6c268dc4870825ce2a74bf78) · [Index](https://dblp.org/rec/conf/cvpr/ZhaoDCCHYYFWS26) | rule-assigned |
 | 2026 | SaPaVe: Towards Active Perception and Manipulation in Vision-Language Action Models for Robotics | CVPR · Active perception | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_SaPaVe_Towards_Active_Perception_and_Manipulation_in_Vision-Language_Action_Models_CVPR_2026_paper.html) · [Official](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_SaPaVe_Towards_Active_Perception_and_Manipulation_in_Vision-Language_Action_Models_CVPR_2026_paper.html) | rule-assigned |
+| 2026 | Grounding Sim-to-Real Generalization in Robotic Manipulation: An Empirical Study with Vision-Language-Action Models | ECCV · Vision Language Action | [Paper](https://arxiv.org/pdf/2603.22876) · [Publisher](https://doi.org/10.1007/978-3-032-37602-2_2) | rule-assigned |
+| 2026 | MobileVLA-R1: Reinforcing Vision-Language-Action for Mobile Robots | ECCV · Vision Language Action | [Paper](https://arxiv.org/abs/2511.17889) · [Index](https://dblp.org/rec/conf/eccv/HuangLYZYT26) | rule-assigned |
+| 2026 | SAFE-Pruner: Semantic Attention-Guided Future-Aware Token Pruning for Efficient Vision-Language-Action Manipulation | ECCV · Vision Language Action | [Paper](https://arxiv.org/abs/2605.29662) · [Index](https://dblp.org/rec/journals/corr/abs-2605-29662) | rule-assigned |
+| 2026 | Tactile Modality Fusion for Vision-Language-Action Models | ECCV · Vision Language Action | [Paper](https://arxiv.org/abs/2603.14604) · [Index](https://dblp.org/rec/journals/corr/abs-2603-14604) | rule-assigned |
 | 2026 | Hybrid Training for Vision-Language-Action Models | ICLR · Reasoning and action | [Paper](https://openreview.net/forum?id=IBJtOltTbx) · [Official](https://openreview.net/forum?id=IBJtOltTbx) | rule-assigned |
+| 2026 | Interleave-VLA: Enhancing Robot Manipulation with Image-Text Interleaved Instructions | ICLR · Vla | [Paper](https://www.semanticscholar.org/paper/977933c480a57e4f18733fc4a5142da4d41afe88) · [Index](https://dblp.org/rec/conf/iclr/FanJSWWGZTYYD26) | rule-assigned |
 | 2026 | MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation | ICLR · Memory-augmented VLA | [Paper](https://proceedings.iclr.cc/papers/search?q=MemoryVLA) · [Official](https://proceedings.iclr.cc/papers/search?q=MemoryVLA) | rule-assigned |
+| 2026 | Policy Contrastive Decoding for Robotic Foundation Models | ICLR · Foundation Model | [Paper](https://arxiv.org/abs/2505.13255) · [Index](https://dblp.org/rec/conf/iclr/WuLZXSSG26) | rule-assigned |
+| 2026 | Robust Finetuning of Vision-Language-Action Robot Policies via Parameter Merging | ICLR · Vision Language Action | [Paper](https://arxiv.org/abs/2512.08333) · [Index](https://dblp.org/rec/conf/iclr/YadavZWPL26) | rule-assigned |
 | 2026 | Vision-Language-Action Instruction Tuning: From Understanding to Manipulation | ICLR · Instruction tuning | [Paper](https://proceedings.iclr.cc/papers/search?q=Vision-Language-Action+Instruction+Tuning) · [Official](https://proceedings.iclr.cc/papers/search?q=Vision-Language-Action+Instruction+Tuning) | rule-assigned |
 | 2026 | WholeBodyVLA: Towards Unified Latent VLA for Whole-body Loco-manipulation Control | ICLR · Whole-body VLA | [Paper](https://proceedings.iclr.cc/papers/search?q=WholeBodyVLA) · [Official](https://proceedings.iclr.cc/papers/search?q=WholeBodyVLA) | rule-assigned |
 | 2026 | ACG: Action Coherence Guidance for Flow-based Vision-Language-Action models | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2510.22201) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695974) | rule-assigned |
@@ -35,12 +47,12 @@
 | 2026 | MAP-VLA: Memory-Augmented Prompting for Vision-Language-Action Model in Robotic Manipulation | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2511.09516) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697046) | rule-assigned |
 | 2026 | OmniVLA: An Omni-Modal Vision-Language-Action Model for Robot Navigation | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2509.19480) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697566) | rule-assigned |
 | 2026 | OmniVLA: Physically-Grounded Multimodal VLA with Unified Multi-Sensor Perception for Robotic Manipulation | ICRA · Vla | [Paper](https://arxiv.org/pdf/2511.01210) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695776) | rule-assigned |
-| 2026 | Open-World Object Manipulation with Vision-Language-Action Models via Synthetic Multi-Modal Data | ICRA · Vision Language Action | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697248) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697248) | rule-assigned |
+| 2026 | Open-World Object Manipulation with Vision-Language-Action Models via Synthetic Multi-Modal Data | ICRA · Vision Language Action | [Paper](https://doi.org/10.1109/icra57385.2026.11697248) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697248) | rule-assigned |
 | 2026 | RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2509.14687) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696718) | rule-assigned |
 | 2026 | RetoVLA: Reusing Register Tokens for Spatial Reasoning in Vision-Language-Action Models | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2509.21243) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696818) | rule-assigned |
 | 2026 | Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2510.21571) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697552) | rule-assigned |
-| 2026 | Stream-to-Act: ROS 2 Native Token Streaming for Continuous Motion Execution of Vision-Language-Action Models | ICRA · Vision Language Action | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697598) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697598) | rule-assigned |
-| 2026 | SVP: Improving Vision-Language-Action Models with Dual Stochastic Visual Prompting | ICRA · Vision Language Action | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697157) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697157) | rule-assigned |
+| 2026 | Stream-to-Act: ROS 2 Native Token Streaming for Continuous Motion Execution of Vision-Language-Action Models | ICRA · Vision Language Action | [Paper](https://doi.org/10.1109/icra57385.2026.11697598) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697598) | rule-assigned |
+| 2026 | SVP: Improving Vision-Language-Action Models with Dual Stochastic Visual Prompting | ICRA · Vision Language Action | [Paper](https://doi.org/10.1109/icra57385.2026.11697157) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697157) | rule-assigned |
 | 2026 | The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2509.12594) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696503) | rule-assigned |
 | 2026 | TMR-VLA:Vision-Language-Action Model for Magnetic Motion Control of Tri-leg Silicone-based Soft Robot | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2603.00420) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695705) | rule-assigned |
 | 2026 | Toward Embodiment Equivariant Vision-Language-Action Policy | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2509.14630) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697130) | rule-assigned |

@@ -1,7 +1,7 @@
 # Human-aware & Social Navigation · 人群交互与社会规范导航
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Multi-robot%20%26%20Social%20Navigation&specialty=Human-aware%20%26%20Social%20Navigation#research-workbench)
@@ -26,16 +26,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2026 | COLSON: Controllable Learning-Based Social Navigation via Diffusion-Based Reinforcement Learning | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2503.13934) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696595) | rule-assigned |
 | 2026 | Crowd-FM: Learned Optimal Selection of Conditional Flow Matching-generated Trajectories for Crowd Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2602.06698) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696381) | rule-assigned |
-| 2026 | DRL-SFM: Learning Social Navigation from Costmaps and Social Forces for Mobile Robots and Intelligent Wheelchairs | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697464) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697464) | rule-assigned |
+| 2026 | DRL-SFM: Learning Social Navigation from Costmaps and Social Forces for Mobile Robots and Intelligent Wheelchairs | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra57385.2026.11697464) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697464) | rule-assigned |
 | 2026 | Empirical Prediction of Pedestrian Comfort in Mobile Robot–Pedestrian Encounters | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2604.13677) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697239) | rule-assigned |
-| 2026 | Human2Nav: Learning Crowd Navigation from Human Videos across Robots via Feasibility-Guided Flow Matching | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697243) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697243) | rule-assigned |
+| 2026 | Human2Nav: Learning Crowd Navigation from Human Videos across Robots via Feasibility-Guided Flow Matching | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra57385.2026.11697243) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697243) | rule-assigned |
 | 2026 | Learning Social Navigation from Positive and Negative Demonstrations and Rule-Based Specifications | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2510.12215) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696125) | rule-assigned |
 | 2026 | LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2512.09920) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695757) | rule-assigned |
 | 2026 | SPLC: Social Preference Learning for Crowd Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2607.01925) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697373) | rule-assigned |
 | 2026 | Unified Generation-Refinement Planning: Bridging Guided Flow Matching and Sampling-Based MPC for Social Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2508.01192) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696822) | rule-assigned |
 | 2025 | Following the Human Thread in Social Navigation | ICLR · Navigation | [Paper](https://arxiv.org/abs/2404.11327) · [Index](https://dblp.org/rec/conf/iclr/ScofanoSCSSBG25) | rule-assigned |
 | 2025 | A Hybrid Approach to Indoor Social Navigation: Integrating Reactive Local Planning and Proactive Global Planning | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2506.02593) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127475) | rule-assigned |
-| 2025 | Arena 4.0: a Comprehensive Ros2 Development and Benchmarking Platform for Human-Centric Navigation Using Generative-Model-Based Environment Generation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.12471) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127635) | rule-assigned |
+| 2025 | Arena 4.0: a Comprehensive Ros2 Development and Benchmarking Platform for Human-Centric Navigation Using Generative-Model-Based Environment Generation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.12471) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127635) | rule-assigned |
 | 2025 | CrowdSurfer: Sampling Optimization Augmented with Vector-Quantized Variational AutoEncoder for Dense Crowd Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.16011) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128132) | rule-assigned |
 | 2025 | From Cognition to Precognition: A Future-Aware Framework for Social Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.13244) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127910) | rule-assigned |
 | 2025 | GA-TEB: Goal-Adaptive Framework for Efficient Navigation Based on Goal Lines | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.10009) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128136) | rule-assigned |
@@ -51,7 +51,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | PathCluster: Pedestrian Group-Adaptive Social Navigation in Dense Crowds | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246339) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246339) | rule-assigned |
 | 2025 | Safe and Efficient Navigation for Differential-Drive Robots in Dynamic Pedestrian Environments | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246088) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246088) | rule-assigned |
 | 2025 | Safe Navigation in Uncertain Crowded Environments Using Risk Adaptive CVaR Barrier Functions | IROS · Navigation | [Paper](https://arxiv.org/pdf/2504.06513) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246134) | rule-assigned |
-| 2025 | Social-LLaVA: Enhancing Social Robot Navigation through Human-Language Reasoning | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS60139.2025.11247618) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247618) | rule-assigned |
+| 2025 | Social-LLaVA: Enhancing Social Robot Navigation through Human-Language Reasoning | IROS · Navigation | [Paper](https://arxiv.org/pdf/2501.09024) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247618) | rule-assigned |
 | 2024 | Integrating Predictive Motion Uncertainties with Distributionally Robust Risk-Aware Control for Safe Robot Navigation in Crowds | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2403.05081) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610404) | rule-assigned |
 | 2024 | Rethinking Social Robot Navigation: Leveraging the Best of Two Worlds | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2309.13466) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611710) | rule-assigned |
 | 2024 | SocialGAIL: Faithful Crowd Simulation for Social Robot Navigation | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610371) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610371) | rule-assigned |
@@ -77,7 +77,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Unfreezing Social Navigation: Dynamical Systems based Compliance for Contact Control in Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2203.01053) · [Publisher](https://doi.org/10.1109/ICRA46639.2022.9811772) | rule-assigned |
 | 2022 | An Online Interactive Approach for Crowd Navigation of Quadrupedal Robots | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981697) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981697) | rule-assigned |
 | 2022 | NavDreams: Towards Camera-Only RL Navigation Among Humans | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.12299) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982045) | rule-assigned |
-| 2022 | Pedestrian-Robot Interactions on Autonomous Crowd Navigation: Reactive Control Methods and Evaluation Metrics | IROS · Navigation | [Paper](https://github.com/epfl-lasa/crowdbot-evaluation-tools) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981705) | rule-assigned |
+| 2022 | Pedestrian-Robot Interactions on Autonomous Crowd Navigation: Reactive Control Methods and Evaluation Metrics | IROS · Navigation | [Paper](https://arxiv.org/pdf/2208.02121) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981705) | rule-assigned |
 | 2022 | Watch out! There may be a Human. Addressing Invisible Humans in Social Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2211.12216) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982186) | rule-assigned |
 | 2022 | You Are In My Way: Non-verbal Social Cues for Legible Robot Navigation Behaviors | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981754) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981754) | rule-assigned |
 

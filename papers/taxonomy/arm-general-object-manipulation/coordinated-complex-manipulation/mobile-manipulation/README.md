@@ -1,12 +1,12 @@
 # Mobile Manipulation · 移动操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Mobile%20Manipulation#research-workbench)
 
-> 51 conference papers · 185 recent arXiv papers
+> 55 conference papers · 187 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,17 +20,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (51)
+## Conference papers (55)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | Expanding Spatial and Temporal Context for Robotic Imitation Learning With Scene Graphs | CVPR · Imitation Learning | [Paper](https://arxiv.org/abs/2606.01072) · [Index](https://dblp.org/rec/conf/cvpr/QianPPFJBK26) | rule-assigned |
+| 2026 | Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation | ECCV · Embodied Agent | [Paper](https://arxiv.org/abs/2607.13653) · [Index](https://dblp.org/rec/journals/corr/abs-2607-13653) | rule-assigned |
+| 2026 | MobileManiBench: Simplifying Model Verification for Mobile Manipulation | ECCV · Mobile Manipulation | [Paper](https://arxiv.org/abs/2602.05233) · [Index](https://dblp.org/rec/journals/corr/abs-2602-05233) | rule-assigned |
+| 2026 | MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation | ICLR · Bimanual | [Paper](https://arxiv.org/abs/2510.18316) · [Index](https://dblp.org/rec/conf/iclr/LiXBYJHWGGZLWMF26) | rule-assigned |
 | 2026 | BINDER: Instantly Adaptive Mobile Manipulation with Open-Vocabulary Commands | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2511.22364) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697005) | rule-assigned |
 | 2026 | EmbodiedCoder: Parameterized Embodied Mobile Manipulation via Modern Coding Model | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2510.06207) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696691) | rule-assigned |
-| 2026 | Fully Distributed Real-Time MPC for Cooperative Mobile Manipulation via Box-iLQR and ADMM with an Object-Centric Planar Projection | ICRA · Mobile Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695997) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695997) | rule-assigned |
+| 2026 | Fully Distributed Real-Time MPC for Cooperative Mobile Manipulation via Box-iLQR and ADMM with an Object-Centric Planar Projection | ICRA · Mobile Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11695997) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695997) | rule-assigned |
 | 2026 | Rapid Adaptation of Particle Dynamics for Generalized Deformable Object Mobile Manipulation | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2603.18246) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695951) | rule-assigned |
 | 2026 | Seeing the Bigger Picture: 3D Latent Mapping for Mobile Manipulation Policy Learning | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2510.03885) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697430) | rule-assigned |
-| 2026 | SHOPPER: Practical Insights on Grasp Strategies for Mobile Manipulation in the Wild | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2504.12512) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697060) | rule-assigned |
-| 2026 | SM2ITH: Safe Mobile Manipulation with Interactive Human Prediction via Task-Hierarchical Bilevel Model Predictive Control | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/abs/2511.17798) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696584) | rule-assigned |
+| 2026 | SHOPPER: Practical Insights on Grasp Strategies for Mobile Manipulation in the Wild | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11697060) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697060) | rule-assigned |
+| 2026 | SM2ITH: Safe Mobile Manipulation with Interactive Human Prediction via Task-Hierarchical Bilevel Model Predictive Control | ICRA · Mobile Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11696584) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696584) | rule-assigned |
 | 2025 | Active Semantic Mapping with Mobile Manipulator in Horticultural Environments | ICRA · Semantic Mapping | [Paper](https://arxiv.org/pdf/2412.10515) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127547) | rule-assigned |
 | 2025 | BUMBLE: Unifying Reasoning and Acting with Vision-Language Models for Building-wide Mobile Manipulation | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2410.06237) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128444) | rule-assigned |
 | 2025 | Closed-Loop Open-Vocabulary Mobile Manipulation with GPT-4V | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2404.10220) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127975) | rule-assigned |
@@ -76,10 +80,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Symbolic Failure Detection for Grasping and Mobile Manipulation Tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982223) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982223) | rule-assigned |
 | 2022 | Ω2: Optimal Hierarchical Planner for Object Search in Large Environments via Mobile Manipulation | IROS · Mobile Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981194) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981194) | rule-assigned |
 
-## Recent arXiv papers (185)
+## Recent arXiv papers (187)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-05 | MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation | Sateesh Kumar, Arnav Balaji, Arpit Bahety, Skand Peri et al. | [Abstract](https://arxiv.org/abs/2611.08372) · [PDF](https://arxiv.org/pdf/2611.08372) | rule-assigned |
+| 2026-11-04 | Robocasa-Mem: Benchmarking Environment and Process Memory in Long-Horizon Mobile Manipulation | Sihang Chen, Chen Ye, Wei Chen, Xiaohan Lei et al. | [Abstract](https://arxiv.org/abs/2611.06475) · [PDF](https://arxiv.org/pdf/2611.06475) | rule-assigned |
 | 2026-11-02 | TAMPAgent: Agentic Belief-Space Planning for Mobile Manipulation | Utkarsh A. Mishra, Alperen Degirmenci, Yongxin Chen, Danfei Xu et al. | [Abstract](https://arxiv.org/abs/2611.03584) · [PDF](https://arxiv.org/pdf/2611.03584) | rule-assigned |
 | 2026-11-02 | FEIJOA: Task-Driven Grounding and Execution for Mobile Manipulation | Aditya Agarwal, William Shen, Sahit Chintalapudi, Lucy Cai et al. | [Abstract](https://arxiv.org/abs/2611.04080) · [PDF](https://arxiv.org/pdf/2611.04080) | rule-assigned |
 | 2026-10-31 | MOST: Memory of Object States and Task Progress for Long-Horizon Mobile Manipulation | Diqi He, Jinbang Guo, Yijun Shen, Zhiwei Yu et al. | [Abstract](https://arxiv.org/abs/2611.00734) · [PDF](https://arxiv.org/pdf/2611.00734) | rule-assigned |
@@ -91,7 +97,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-10-14 | Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance | Zhefei Gong, Hefeifei Jiang, Zehao Wang, Jiachen Li | [Abstract](https://arxiv.org/abs/2610.20607) · [PDF](https://arxiv.org/pdf/2610.20607) | rule-assigned |
 | 2026-10-14 | Cracking Mobile Manipulation: From Failure Diagnosis to Agentic Robot System | Zixuan Wang, Jia-Ning Li, Yinzhou Tang, Yanzhao Yu et al. | [Abstract](https://arxiv.org/abs/2610.19600) · [PDF](https://arxiv.org/pdf/2610.19600) | rule-assigned |
 | 2026-10-11 | Look Before You Move: Agent-Interface-Aligned Supervision for Open-World Mobile Manipulation | Ronghe Qiu, Teli Ma, Jiaming Zhou, Zeying Gong et al. | [Abstract](https://arxiv.org/abs/2610.15572) · [PDF](https://arxiv.org/pdf/2610.15572) | rule-assigned |
-| 2026-10-06 | VOMMI: Collecting and Leveraging Portable Demonstrations for Mobile Manipulation | Yutian Zhang, Xingrui Xiong, Siyuan Ma, Yang Li et al. | [Abstract](https://arxiv.org/abs/2610.08220) · [PDF](https://arxiv.org/pdf/2610.08220) | rule-assigned |
+| 2026-10-06 | VOMMI: Collecting and Leveraging Portable Demonstrations for Mobile Manipulation | Yutian Zhang, Xingrui Xiong, Siyuan Ma, Donghao Wang et al. | [Abstract](https://arxiv.org/abs/2610.08220) · [PDF](https://arxiv.org/pdf/2610.08220) | rule-assigned |
 | 2026-10-05 | MobileVISTA: Generative Data Augmentation for Pose Generalization in Mobile Manipulation | Suzannah Wistreich, Stephen Tian, Isabella Huang, Vitor Campagnolo Guizilini et al. | [Abstract](https://arxiv.org/abs/2610.07511) · [PDF](https://arxiv.org/pdf/2610.07511) | rule-assigned |
 | 2026-10-02 | MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation | Chenzhi Liu, Yue Zhang, Jiehong Lin, Jianan Wang et al. | [Abstract](https://arxiv.org/abs/2610.03476) · [PDF](https://arxiv.org/pdf/2610.03476) | rule-assigned |
 | 2026-10-02 | LOCUS: Landmark-Oriented Container Discrimination Using Spatial Graphs | Taylor Bergeron, Shibani Senthilbabu, Kevin Leahy | [Abstract](https://arxiv.org/abs/2610.02803) · [PDF](https://arxiv.org/pdf/2610.02803) | rule-assigned |

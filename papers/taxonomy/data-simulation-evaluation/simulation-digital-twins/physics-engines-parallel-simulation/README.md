@@ -1,12 +1,12 @@
 # Physics Engines & Parallel Simulation · 物理引擎与并行仿真
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Physics%20Engines%20%26%20Parallel%20Simulation#research-workbench)
 
-> 15 conference papers · 126 recent arXiv papers
+> 16 conference papers · 131 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,12 +20,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (15)
+## Conference papers (16)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | SPEAR: A Simulator for Photorealistic Embodied AI Research | ECCV · Simulator | [Paper](https://arxiv.org/abs/2607.06701) · [Index](https://dblp.org/rec/conf/eccv/RobertsWZDLRMRTLHSK26) | rule-assigned |
 | 2026 | ROOM: A Physics-Based Continuum Robot Simulator for Photorealistic Medical Datasets Generation | ICRA · Simulator | [Paper](https://arxiv.org/pdf/2509.13177) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696113) | rule-assigned |
-| 2026 | The iMETRO Dynamic Simulation: An Open-Source Simulator for Intravehicular Space Robotics Research | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696400) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696400) | rule-assigned |
+| 2026 | The iMETRO Dynamic Simulation: An Open-Source Simulator for Intravehicular Space Robotics Research | ICRA · Simulation | [Paper](https://doi.org/10.1109/icra57385.2026.11696400) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696400) | rule-assigned |
 | 2026 | Unreal Robotics Lab: A High-Fidelity Robotics Simulator with Advanced Physics and Rendering | ICRA · Simulator | [Paper](https://arxiv.org/pdf/2504.14135) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696537) | rule-assigned |
 | 2025 | MetaUrban: An Embodied AI Simulation Platform for Urban Micromobility | ICLR · Urban simulation | [Paper](https://proceedings.iclr.cc/paper_files/paper/2025/file/ad63cdaffe7c95c5f9c12276cdd893f9-Paper-Conference.pdf) · [Official](https://proceedings.iclr.cc/paper_files/paper/2025/hash/ad63cdaffe7c95c5f9c12276cdd893f9-Abstract-Conference.html) | rule-assigned |
 | 2025 | Dynamic Tube MPC: Learning Tube Dynamics with Massively Parallel Simulation for Robust Safety in Practice | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2411.15350) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127279) | rule-assigned |
@@ -40,10 +41,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Out-of-Dynamics Imitation Learning from Multimodal Demonstrations | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2211.06839) · [Index](https://dblp.org/rec/conf/corl/Qiu0CL22) | rule-assigned |
 | 2022 | Gazebo Fluids: SPH-based simulation of fluid interaction with articulated rigid body dynamics | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982036) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982036) | rule-assigned |
 
-## Recent arXiv papers (126)
+## Recent arXiv papers (131)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | RevoSim: Scalable Multimodal Tactile Simulation for Dexterous Manipulation | Ke Zhang, Lixin Xu, Ziyi Wang, Xiyue Dong et al. | [Abstract](https://arxiv.org/abs/2611.08939) · [PDF](https://arxiv.org/pdf/2611.08939) | reviewed |
+| 2026-11-06 | HomeLoop: A Simulation Framework and Benchmark for Robot-IoT Coordination in Everyday Domestic Assistance and Safety | Ramy ElMallah, Marc Bishara, Hyegang Kim, Yuxi Zhang et al. | [Abstract](https://arxiv.org/abs/2611.08914) · [PDF](https://arxiv.org/pdf/2611.08914) | rule-assigned |
+| 2026-11-05 | VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception | Sacha Jungerman, Kaustubh Sadekar, Avery Gump, Sriram Narayanan et al. | [Abstract](https://arxiv.org/abs/2611.08368) · [PDF](https://arxiv.org/pdf/2611.08368) | rule-assigned |
+| 2026-11-05 | TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation | Yijiong Lin, Wenhao He, Toby Jack, Max Yang et al. | [Abstract](https://arxiv.org/abs/2611.07881) · [PDF](https://arxiv.org/pdf/2611.07881) | reviewed |
 | 2026-11-01 | Dual Path Following for an Aerial Manipulator Under State and Input Constraints via Transverse Feedback Linearization | Hamza Tariq, Adeel Akhtar | [Abstract](https://arxiv.org/abs/2611.01442) · [PDF](https://arxiv.org/pdf/2611.01442) | rule-assigned |
 | 2026-10-29 | FlapSim: A Composable MuJoCo Simulation Platform and Reduced-Order Aerodynamic Model Hierarchy for Flapping-Wing Robotics | Mingshan He | [Abstract](https://arxiv.org/abs/2610.40902) · [PDF](https://arxiv.org/pdf/2610.40902) | rule-assigned |
 | 2026-10-25 | Enabling Motion-Induced WiFi-CSI Sensing in Multi-Robot Systems: A Simulation Framework | Brendan Dijkstra, Ninad Jadhav, Maurice Stoffijn, Stephanie Gil et al. | [Abstract](https://arxiv.org/abs/2610.34034) · [PDF](https://arxiv.org/pdf/2610.34034) | rule-assigned |
@@ -69,6 +74,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-29 | Agri-Sim: Agricultural Simulation Platform for Embodied Intelligence Evaluation in Greenhouse Robotics | Shuhan Shi, Zhenfeng Xue, Minghao Mei, Chao Zheng et al. | [Abstract](https://arxiv.org/abs/2608.29100) · [PDF](https://arxiv.org/pdf/2608.29100) | rule-assigned |
 | 2026-08-21 | Roadside-Cooperative Autonomous Driving: From Data Platform to Vision-Language End-to-End Reasoning | Yitao Xu, Tong Wu, Yiyan Wu, Guoji Xu et al. | [Abstract](https://arxiv.org/abs/2608.21032) · [PDF](https://arxiv.org/pdf/2608.21032) | rule-assigned |
 | 2026-08-17 | Observation-Constrained Joint-Space Viewpoint Optimization for Robotic Inspection of Cylindrical Cavities | Yuezhong Wang, Rongshen Yin, Bichi Zhang, Sören Schwertfeger | [Abstract](https://arxiv.org/abs/2608.16442) · [PDF](https://arxiv.org/pdf/2608.16442) | rule-assigned |
+| 2026-08-14 | MMUSV-Sim: A Maritime Simulation Platform for Multi-USV Cooperative Perception | Ziao Li, Jianxiong Ye, Biao Tang, Leping Zhang et al. | [Abstract](https://arxiv.org/abs/2608.14207) · [PDF](https://arxiv.org/pdf/2608.14207) | rule-assigned |
 | 2026-08-13 | Semantic Radiance Fields as Simulators for Spatial Reasoning in Real-World Scenes | Nico Heider, Michał Jan Włodarczyk, Katarzyna Wasielewska-Michniewska, Przemysław Hołda et al. | [Abstract](https://arxiv.org/abs/2608.13095) · [PDF](https://arxiv.org/pdf/2608.13095) | rule-assigned |
 | 2026-08-13 | HumanoidVLN: A Physics-Grounded Simulator and Benchmark for Vision-Language Navigation Across Diverse Humanoid Embodiments | Quan-Dung Pham, Anh Dao, The-Anh Nguyen, Minh Nguyen-Dinh et al. | [Abstract](https://arxiv.org/abs/2608.12860) · [PDF](https://arxiv.org/pdf/2608.12860) | rule-assigned |
 | 2026-08-12 | D3D-GEN: Robot-Aware Domain-Grounded Interactive 3D World Generation for Social Robotics | Anh Duc Do, Volodymyr Shcherbyna, Tai Duc Nguyen, Spaarsh Thakkar et al. | [Abstract](https://arxiv.org/abs/2608.11876) · [PDF](https://arxiv.org/pdf/2608.11876) | rule-assigned |

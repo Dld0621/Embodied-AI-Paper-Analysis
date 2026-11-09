@@ -1,12 +1,12 @@
 # Multi-robot Coordination · 多机器人协调
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Multi-robot%20%26%20Social%20Navigation&specialty=Multi-robot%20Coordination#research-workbench)
 
-> 67 conference papers · 388 recent arXiv papers
+> 67 conference papers · 390 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -83,7 +83,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | CAMETA: Conflict-Aware Multi-Agent Estimated Time of Arrival Prediction for Mobile Robots | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2503.00074) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341937) | rule-assigned |
 | 2023 | Decentralised Multi-Robot Exploration Using Monte Carlo Tree Search | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS55552.2023.10341485) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341485) | rule-assigned |
 | 2023 | Hydra-Multi: Collaborative Online Construction of 3D Scene Graphs with Multi-Robot Teams | IROS · 3D Scene | [Paper](https://arxiv.org/pdf/2304.13487) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341838) | rule-assigned |
-| 2023 | SEAL: Simultaneous Exploration and Localization for Multi-Robot Systems | IROS · Exploration | [Paper](https://arxiv.org/abs/2306.12623) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342157) | rule-assigned |
+| 2023 | SEAL: Simultaneous Exploration and Localization for Multi-Robot Systems | IROS · Exploration | [Paper](https://arxiv.org/pdf/2306.12623) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342157) | rule-assigned |
 | 2023 | Social Triangles and Aggressive Lines: Multi-Robot Formations Impact Navigation and Approach | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342372) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342372) | rule-assigned |
 | 2022 | A Deep Reinforcement Learning Environment for Particle Robot Navigation and Object Manipulation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2203.06464) · [Publisher](https://doi.org/10.1109/ICRA46639.2022.9811965) | rule-assigned |
 | 2022 | Enhancing Deep Reinforcement Learning Approaches for Multi-Robot Navigation via Single-Robot Evolutionary Policy Search | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9812341) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812341) | rule-assigned |
@@ -92,10 +92,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Multi-Robot Unknown Area Exploration Using Frontier Trees | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS47612.2022.9981914) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981914) | rule-assigned |
 | 2022 | PropEM-L: Radio Propagation Environment Modeling and Learning for Communication-Aware Multi-Robot Exploration | RSS · Exploration | [Paper](https://arxiv.org/abs/2205.01267) · [Index](https://dblp.org/rec/journals/corr/abs-2205-01267) | rule-assigned |
 
-## Recent arXiv papers (388)
+## Recent arXiv papers (390)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | FASTFUNNELS: Agile Multi Robot Navigation in Narrow Spaces via Adaptive Dynamic Funnels | Vignesh Rajagopal, Rohan Chandra | [Abstract](https://arxiv.org/abs/2611.09005) · [PDF](https://arxiv.org/pdf/2611.09005) | rule-assigned |
+| 2026-11-05 | H-TRIP: Exact Many-to-Many Distance Index for Multi-Robot Exploration | Elif A. Özaslan, Tolga Özaslan | [Abstract](https://arxiv.org/abs/2611.08139) · [PDF](https://arxiv.org/pdf/2611.08139) | rule-assigned |
+| 2026-11-04 | Closed-Loop Adaptive Sampling on a Generative Ocean Model | Shayesteh Hafezi, Alan Papalia | [Abstract](https://arxiv.org/abs/2611.05776) · [PDF](https://arxiv.org/pdf/2611.05776) | rule-assigned |
 | 2026-11-03 | Nested Field-of-View Barriers for Teleoperated Multi-Robot Relay Chains | Arthur Vangasse, Theo Cruz, Thales Soares, André Cid et al. | [Abstract](https://arxiv.org/abs/2611.05074) · [PDF](https://arxiv.org/pdf/2611.05074) | rule-assigned |
 | 2026-11-02 | Late Autumn: LLM Agents Specialize a General Multi-Robot Planner for One Warehouse | Yimin Tang, Han Zhang, Shao-Hung Chan, Erdem Bıyık et al. | [Abstract](https://arxiv.org/abs/2611.02391) · [PDF](https://arxiv.org/pdf/2611.02391) | rule-assigned |
 | 2026-10-31 | Reflex: Fast Robot Policy Serving by Reusing and Correcting Past Actions | Ziyang Lin, Zixuan Sun, Rami Nasser, Jianli Jin et al. | [Abstract](https://arxiv.org/abs/2611.00524) · [PDF](https://arxiv.org/pdf/2611.00524) | rule-assigned |
@@ -232,7 +235,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-02-04 | KGLAMP: Knowledge Graph-guided Language model for Adaptive Multi-robot Planning and Replanning | Chak Lam Shek, Faizan M. Tariq, Sangjae Bae, David Isele et al. | [Abstract](https://arxiv.org/abs/2602.04129) · [PDF](https://arxiv.org/pdf/2602.04129) | rule-assigned |
 | 2026-01-30 | MOSAIC: Modular Scalable Autonomy for Intelligent Coordination of Heterogeneous Robotic Teams | David Oberacker, Julia Richter, Philip Arm, Marvin Grosse Besselmann et al. | [Abstract](https://arxiv.org/abs/2601.23038) · [PDF](https://arxiv.org/pdf/2601.23038) | rule-assigned |
 | 2026-01-28 | MeCo: Enhancing LLM-Empowered Multi-Robot Collaboration via Similar Task Memoization | Baiqing Wang, Helei Cui, Bo Zhang, Xiaolong Zheng et al. | [Abstract](https://arxiv.org/abs/2601.20577) · [PDF](https://arxiv.org/pdf/2601.20577) | rule-assigned |
-| 2026-01-16 | EmboTeam: Grounding LLM Reasoning into Reactive Behavior Trees via PDDL for Embodied Multi-Robot Collaboration | Haishan Zeng, Mengna Wang, Peng Li | [Abstract](https://arxiv.org/abs/2601.11063) · [PDF](https://arxiv.org/pdf/2601.11063) | rule-assigned |
+| 2026-01-16 | EmboTeam: Asymmetric State Grounding for Heterogeneous Multi-Robot Collaboration | Haishan Zeng, Mengna Wang, Peng Li | [Abstract](https://arxiv.org/abs/2601.11063) · [PDF](https://arxiv.org/pdf/2601.11063) | rule-assigned |
 | 2026-01-15 | CoCoPlan: Adaptive Coordination and Communication for Multi-robot Systems in Dynamic and Unknown Environments | Xintong Zhang, Junfeng Chen, Yuxiao Zhu, Bing Luo et al. | [Abstract](https://arxiv.org/abs/2601.10116) · [PDF](https://arxiv.org/pdf/2601.10116) | rule-assigned |
 | 2026-01-15 | CHORAL: Traversal-Aware Planning for Safe and Efficient Heterogeneous Multi-Robot Routing | David Morilla-Cabello, Eduardo Montijano | [Abstract](https://arxiv.org/abs/2601.10340) · [PDF](https://arxiv.org/pdf/2601.10340) | rule-assigned |
 | 2026-01-03 | ORION: Option-Regularized Deep Reinforcement Learning for Cooperative Multi-Agent Online Navigation | Shizhe Zhang, Jingsong Liang, Zhitao Zhou, Shuhan Ye et al. | [Abstract](https://arxiv.org/abs/2601.01155) · [PDF](https://arxiv.org/pdf/2601.01155) | rule-assigned |
@@ -483,7 +486,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-18 | CLIPSwarm: Converting text into formations of robots | Pablo Pueyo, Eduardo Montijano, Ana C. Murillo, Mac Schwager | [Abstract](https://arxiv.org/abs/2311.11047) · [PDF](https://arxiv.org/pdf/2311.11047) | rule-assigned |
 | 2023-11-13 | Collaborative Planning for Catching and Transporting Objects in Unstructured Environments | Liuao Pei, Junxiao Lin, Zhichao Han, Lun Quan et al. | [Abstract](https://arxiv.org/abs/2311.07100) · [PDF](https://arxiv.org/pdf/2311.07100) | rule-assigned |
 | 2023-11-13 | A Survey on Passing-through Control of Multi-Robot Systems in Cluttered Environments | Yan Gao, Chenggang Bai, Quan Quan | [Abstract](https://arxiv.org/abs/2311.07082) · [PDF](https://arxiv.org/pdf/2311.07082) | rule-assigned |
-| 2023-11-06 | Simultaneous Time Synchronization and Mutual Localization for Multi-robot System | Xiangyong Wen, Yingjian Wang, Xi Zheng, Kaiwei Wang et al. | [Abstract](https://arxiv.org/abs/2311.02948) · [PDF](https://arxiv.org/pdf/2311.02948) | rule-assigned |
 
 ---
 

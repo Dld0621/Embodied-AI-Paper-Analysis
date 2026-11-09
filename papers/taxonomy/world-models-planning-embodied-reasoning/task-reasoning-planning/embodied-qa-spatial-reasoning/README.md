@@ -1,12 +1,12 @@
 # Embodied QA & Spatial Reasoning · 具身问答与空间推理
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Task%20Reasoning%20%26%20Planning&specialty=Embodied%20QA%20%26%20Spatial%20Reasoning#research-workbench)
 
-> 12 conference papers · 117 recent arXiv papers
+> 16 conference papers · 117 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (12)
+## Conference papers (16)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | When Robots Should Say "I Don't Know": Benchmarking Abstention in Embodied Question Answering | CVPR · Benchmark | [Paper](https://arxiv.org/abs/2512.04597) · [Index](https://dblp.org/rec/conf/cvpr/WuZZCPY26) | rule-assigned |
+| 2026 | Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation | ICLR · Manipulation | [Paper](https://www.semanticscholar.org/paper/98cb63795ad96df7955f39929546b81699937763) · [Index](https://dblp.org/rec/conf/iclr/YuanCHCNDLZTH26) | rule-assigned |
+| 2026 | Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes | ICLR · Language Model | [Paper](https://arxiv.org/abs/2510.19400) · [Index](https://dblp.org/rec/conf/iclr/FengKWDYSYLDLYA26) | rule-assigned |
+| 2026 | Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning | ICLR · Vision Language Action | [Paper](https://arxiv.org/abs/2510.11027) · [Index](https://dblp.org/rec/conf/iclr/YangZHWLWCCCSZQ26) | rule-assigned |
 | 2026 | CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction | ICRA · Llm | [Paper](https://arxiv.org/pdf/2602.06038) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696967) | rule-assigned |
 | 2025 | RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics | CVPR · Language Model | [Paper](https://arxiv.org/pdf/2411.16537) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01470) | rule-assigned |
 | 2025 | 3D Spatial Understanding in MLLMs: Disambiguation and Evaluation | ICRA · Llm | [Paper](https://arxiv.org/pdf/2412.06613) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128559) | rule-assigned |

@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Pending%20specialty%20review#research-workbench)
 
-> 25 conference papers · 138 recent arXiv papers
+> 26 conference papers · 137 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (25)
+## Conference papers (26)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots | ICLR · Simulation | [Paper](https://arxiv.org/abs/2603.04356) · [Index](https://dblp.org/rec/journals/corr/abs-2603-04356) | needs-review |
 | 2026 | ETac: A Lightweight and Efficient Tactile Simulation Framework for Learning Dexterous Manipulation | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2604.20295) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696765) | needs-review |
 | 2026 | GRACE: A Unified 2D Multi-Robot Path Planning Simulator & Benchmark for Grid, Roadmap, And Continuous Environments | ICRA · Simulator | [Paper](https://arxiv.org/pdf/2603.10858) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695963) | needs-review |
 | 2026 | NavGSim: High-Fidelity Gaussian Splatting Simulator for Large-Scale Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2603.15186) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697434) | needs-review |
@@ -50,10 +51,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | HandoverSim: A Simulation Framework and Benchmark for Human-to-Robot Object Handovers | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2205.09747) · [Index](https://dblp.org/rec/journals/corr/abs-2205-09747) | needs-review |
 | 2022 | HoloOcean: An Underwater Robotics Simulator | ICRA · Simulator | [Paper](https://doi.org/10.1109/icra46639.2022.9812353) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812353) | needs-review |
 
-## Recent arXiv papers (138)
+## Recent arXiv papers (137)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | Lodos: A Lightweight Simulator Designed for Contact-Rich Interactions with Detailed Meshes | Onur Beker, Andreas René Geist, Georg Martius | [Abstract](https://arxiv.org/abs/2611.08872) · [PDF](https://arxiv.org/pdf/2611.08872) | needs-review |
+| 2026-10-30 | When Does Test-Time Search Help World Action Models? An Empirical Audit of Candidate Selection and Simulator Integrity | Jun Liu, Dajie Sun, Zhenglun Kong, Zhenjiang Fan et al. | [Abstract](https://arxiv.org/abs/2610.41970) · [PDF](https://arxiv.org/pdf/2610.41970) | needs-review |
 | 2026-10-24 | Learning Dexterous Manipulation: Hands, Simulators, Training, and Evaluation | Luai Abuelsamen | [Abstract](https://arxiv.org/abs/2610.33486) · [PDF](https://arxiv.org/pdf/2610.33486) | needs-review |
 | 2026-10-21 | SimPT: An Automated Simulation Framework for Intervention-Based VLA Post-Training | Caicheng Wang, Zipeng Ye, Zhexuan Zhou, Zilong Huang et al. | [Abstract](https://arxiv.org/abs/2610.29161) · [PDF](https://arxiv.org/pdf/2610.29161) | needs-review |
 | 2026-10-20 | MARE: An Open-Source Lunar Rover Simulator with Shadow Ground Truth for Perception and Autonomy | Raúl Castilla-Arquillo, Miguel Olivares-Mendez | [Abstract](https://arxiv.org/abs/2610.28465) · [PDF](https://arxiv.org/pdf/2610.28465) | needs-review |
@@ -189,9 +192,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-29 | DisMech: A Discrete Differential Geometry-based Physical Simulator for Soft Robots and Structures | Andrew Choi, Ran Jing, Andrew Sabelhaus, Mohammad Khalid Jawed | [Abstract](https://arxiv.org/abs/2311.18126) · [PDF](https://arxiv.org/pdf/2311.18126) | needs-review |
 | 2023-11-18 | Choose Your Simulator Wisely: A Review on Open-source Simulators for Autonomous Driving | Yueyuan Li, Wei Yuan, Songan Zhang, Weihao Yan et al. | [Abstract](https://arxiv.org/abs/2311.11056) · [PDF](https://arxiv.org/pdf/2311.11056) | needs-review |
 | 2023-11-17 | From Concept to Field Tests: Accelerated Development of Multi-AUV Missions Using a High-Fidelity Faster-than-Real-Time Simulator | Timothy R. Player, Arjo Chakravarty, Mabel M. Zhang, Ben Yair Raanan et al. | [Abstract](https://arxiv.org/abs/2311.10377) · [PDF](https://arxiv.org/pdf/2311.10377) | needs-review |
-| 2023-11-05 | Investigating Lane-Free Traffic with a Dynamic Driving Simulator | Maya Sekeran, Arslan Ali Syed, Johannes Lindner, Martin Margreiter et al. | [Abstract](https://arxiv.org/abs/2311.16142) · [PDF](https://arxiv.org/pdf/2311.16142) | needs-review |
-| 2023-11-04 | Survey of Simulators for Aerial Robots: An Overview and In-Depth Systematic Comparisons | Cora A. Dimmig, Giuseppe Silano, Kimberly McGuire, Chiara Gabellieri et al. | [Abstract](https://arxiv.org/abs/2311.02296) · [PDF](https://arxiv.org/pdf/2311.02296) | needs-review |
-| 2023-11-04 | A Comprehensive Dynamic Simulation Framework for Coupled Neuromusculoskeletal-Exoskeletal Systems | Wei Jin, Jiaqi Liu, Qiwei Zhang, Xiaoxu Zhang et al. | [Abstract](https://arxiv.org/abs/2311.02346) · [PDF](https://arxiv.org/pdf/2311.02346) | needs-review |
 
 ---
 

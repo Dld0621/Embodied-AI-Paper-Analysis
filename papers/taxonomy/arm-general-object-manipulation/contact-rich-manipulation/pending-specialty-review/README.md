@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Pending%20specialty%20review#research-workbench)
 
-> 21 conference papers · 76 recent arXiv papers
+> 23 conference papers · 78 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,11 +20,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (21)
+## Conference papers (23)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Gravity-Assisted Shape-Locking Articulated Discrete Serial Robot for Ceiling-Mounted Manipulation in Patient Care | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695906) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695906) | needs-review |
+| 2026 | Clay-to-Stone: Phase-wise 3D Gaussian Splatting for Monocular Articulated Hand-Object Manipulation Modeling | CVPR · Hand Object | [Paper](https://www.semanticscholar.org/paper/a5946f8ff7fad4ed9623ecf6b823108a0ba5fc93) · [Index](https://dblp.org/rec/conf/cvpr/LiuRQSZLW26) | needs-review |
+| 2026 | ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation | CVPR · Manipulation | [Paper](https://arxiv.org/abs/2603.15169) · [Index](https://dblp.org/rec/journals/corr/abs-2603-15169) | needs-review |
+| 2026 | Gravity-Assisted Shape-Locking Articulated Discrete Serial Robot for Ceiling-Mounted Manipulation in Patient Care | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11695906) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695906) | needs-review |
 | 2026 | HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2511.14756) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697254) | needs-review |
 | 2026 | ShapeForce: Low-Cost Soft Robotic Wrist for Contact-Rich Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2511.19955) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697322) | needs-review |
 | 2026 | TacUMI: A Multi-Modal Universal Manipulation Interface for Contact-Rich Tasks | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2601.14550) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695727) | needs-review |
@@ -46,10 +48,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Maximal Manipulation Framework using Quadratic Programming for a Teleoperated Robotic System with Articulated bodies | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra46639.2022.9811602) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811602) | needs-review |
 | 2022 | A Contact-Safe Reinforcement Learning Framework for Contact-Rich Robot Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2207.13438) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981185) | needs-review |
 
-## Recent arXiv papers (76)
+## Recent arXiv papers (78)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-05 | Semantics-to-Contact: A Stagewise Framework for Robust Contact-Rich Manipulation | Guanren Qiao, Ruixiang Ouyang, Sheng Xu, Yueci Deng et al. | [Abstract](https://arxiv.org/abs/2611.07532) · [PDF](https://arxiv.org/pdf/2611.07532) | needs-review |
 | 2026-10-31 | Evaluating Tactile Foundation Models for End-to-End Imitation Learning in Contact-Rich Manipulation | Masaki Murooka, Ryoichi Nakajo, Tomohiro Motoda, Koshi Makihara et al. | [Abstract](https://arxiv.org/abs/2611.00957) · [PDF](https://arxiv.org/pdf/2611.00957) | needs-review |
 | 2026-10-22 | FORCA: A Force-Aware Coding Agent for Contact-Rich Robot Manipulation | Xiao Tan, Yixuan Wang, Zhexi Wang, Wenzhen Yuan | [Abstract](https://arxiv.org/abs/2610.31841) · [PDF](https://arxiv.org/pdf/2610.31841) | needs-review |
 | 2026-10-19 | GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation | Chen Yang, Linzhe Shi, Hang Zhang, Mu Xu et al. | [Abstract](https://arxiv.org/abs/2610.26846) · [PDF](https://arxiv.org/pdf/2610.26846) | needs-review |
@@ -85,6 +88,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-17 | From a Single Demonstration to a General Policy for Contact-Rich Manipulation | Xing Li, Oliver Brock | [Abstract](https://arxiv.org/abs/2605.17601) · [PDF](https://arxiv.org/pdf/2605.17601) | needs-review |
 | 2026-05-04 | CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation | Berk Çiçek, Mert K. Er, Ozgur S. Oguz | [Abstract](https://arxiv.org/abs/2605.02600) · [PDF](https://arxiv.org/pdf/2605.02600) | needs-review |
 | 2026-04-29 | Global Sampling-Based Trajectory Optimization for Contact-Rich Manipulation via KernelSOS | Zhongqi Wei, Frederike Dümbgen | [Abstract](https://arxiv.org/abs/2604.27175) · [PDF](https://arxiv.org/pdf/2604.27175) | needs-review |
+| 2026-03-24 | VTAM: Efficient Visuo-Tactile World-Action Models for Contact-Rich Manipulation without Tactile Pretraining | Haoran Yuan, Weigang Yi, Zhenyu Zhang, Wendi Chen et al. | [Abstract](https://arxiv.org/abs/2603.23481) · [PDF](https://arxiv.org/pdf/2603.23481) | needs-review |
 | 2026-03-16 | ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation | Yang Li, Zhaxizhuoma, Hongru Jiang, Junjie Xia et al. | [Abstract](https://arxiv.org/abs/2603.15169) · [PDF](https://arxiv.org/pdf/2603.15169) | needs-review |
 | 2026-03-09 | PhaForce: Phase-Scheduled Visual-Force Policy Learning with Slow Planning and Fast Correction for Contact-Rich Manipulation | Mingxin Wang, Zhirun Yue, Renhao Lu, Yizhe Li et al. | [Abstract](https://arxiv.org/abs/2603.08342) · [PDF](https://arxiv.org/pdf/2603.08342) | needs-review |
 | 2026-03-04 | Bi-HIL: Bilateral Control-Based Multimodal Hierarchical Imitation Learning via Subtask-Level Progress Rate and Keyframe Memory for Long-Horizon Contact-Rich Robotic Manipulation | Thanpimon Buamanee, Masato Kobayashi, Yuki Uranishi | [Abstract](https://arxiv.org/abs/2603.13315) · [PDF](https://arxiv.org/pdf/2603.13315) | needs-review |

@@ -1,12 +1,12 @@
 # Model Predictive Control · 模型预测控制
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Model-based%20Decision%20Making&specialty=Model%20Predictive%20Control#research-workbench)
 
-> 11 conference papers · 299 recent arXiv papers
+> 11 conference papers · 300 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -36,7 +36,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Nonlinear Model Predictive Control with Cost Function Scheduling for a Wheeled Mobile Robot | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981066) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981066) | rule-assigned |
 | 2022 | SMS-MPC: Adversarial Learning-based Simultaneous Prediction Control with Single Model for Mobile Robots | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981289) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981289) | rule-assigned |
 
-## Recent arXiv papers (299)
+## Recent arXiv papers (300)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-10-12 | Task-Space Motion-Force Nonlinear Model Predictive Control for Precise and Compliant Control under Uncertainties | Quang-Nam Nguyen, Ludovic Righetti | [Abstract](https://arxiv.org/abs/2610.17069) · [PDF](https://arxiv.org/pdf/2610.17069) | rule-assigned |
 | 2026-10-12 | Imitation Learning of Avoidance Modes for Efficient Multimodal Model Predictive Control | Changyu Lee, Byung-Kwan Lee, Kanghoon Yoon | [Abstract](https://arxiv.org/abs/2610.16326) · [PDF](https://arxiv.org/pdf/2610.16326) | rule-assigned |
 | 2026-10-11 | Efficient Hybrid Hard--Soft Signal Temporal Logic MPC for Driving under Multimodal Uncertainty | Kumar Manas, Adrian Paschke | [Abstract](https://arxiv.org/abs/2610.15934) · [PDF](https://arxiv.org/pdf/2610.15934) | rule-assigned |
-| 2026-10-08 | LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC | Shashank Hegde, Alexander Popov, Elie Aljalbout, Nikolai Smolyanskiy | [Abstract](https://arxiv.org/abs/2610.12407) · [PDF](https://arxiv.org/pdf/2610.12407) | rule-assigned |
+| 2026-10-08 | Diffusion-Steering-Based MPC with a JEPA World Action Model | Shashank Hegde, Alexander Popov, Elie Aljalbout, Nikolai Smolyanskiy | [Abstract](https://arxiv.org/abs/2610.12407) · [PDF](https://arxiv.org/pdf/2610.12407) | rule-assigned |
 | 2026-10-05 | MagServo: Uncertainty-Resilient Hierarchical Magnetic Servoing via Learned Latent Representations | Yuhan Tan, Yameng Zhang, Pei Liu, Yao Zhong et al. | [Abstract](https://arxiv.org/abs/2610.06046) · [PDF](https://arxiv.org/pdf/2610.06046) | rule-assigned |
 | 2026-10-05 | Distribution-Transfer Safe-Horizon MPC under Mode Uncertainty | Stephen Crawford, Nora Ayanian | [Abstract](https://arxiv.org/abs/2610.07277) · [PDF](https://arxiv.org/pdf/2610.07277) | rule-assigned |
 | 2026-10-04 | Optimal Control with Learned Critics under Unmodeled State Dependencies | Philipp Schoch, Markus Ryll | [Abstract](https://arxiv.org/abs/2610.05359) · [PDF](https://arxiv.org/pdf/2610.05359) | rule-assigned |
@@ -172,6 +172,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-09-29 | Crop Spirals: Re-thinking the field layout for future robotic agriculture | Lakshan Lavan, Lanojithan Thiyagarasa, Udara Muthugala, Rajitha de Silva | [Abstract](https://arxiv.org/abs/2509.25091) · [PDF](https://arxiv.org/pdf/2509.25091) | rule-assigned |
 | 2025-09-29 | CineWild: Balancing Art and Robotics for Ethical Wildlife Documentary Filmmaking | Pablo Pueyo, Fernando Caballero, Ana Cristina Murillo, Eduardo Montijano | [Abstract](https://arxiv.org/abs/2509.24921) · [PDF](https://arxiv.org/pdf/2509.24921) | rule-assigned |
 | 2025-09-28 | MAD-PINN: A Decentralized Physics-Informed Machine Learning Framework for Safe and Optimal Multi-Agent Control | Manan Tayal, Aditya Singh, Shishir Kolathaya, Somil Bansal | [Abstract](https://arxiv.org/abs/2509.23960) · [PDF](https://arxiv.org/pdf/2509.23960) | rule-assigned |
+| 2025-09-27 | GUARD: Sensitivity-aware Uncertainty Attribution for Safe Traditional and Learning-based Robot Control | Woo-Jeong Baek, Johannes A. Gaus, Jonas Kiemel, Junheon Yoon et al. | [Abstract](https://arxiv.org/abs/2509.23312) · [PDF](https://arxiv.org/pdf/2509.23312) | rule-assigned |
 | 2025-09-26 | An Intention-driven Lane Change Framework Considering Heterogeneous Dynamic Cooperation in Mixed-traffic Environment | Xiaoyun Qiu, Haichao Liu, Yue Pan, Jun Ma et al. | [Abstract](https://arxiv.org/abs/2509.22550) · [PDF](https://arxiv.org/pdf/2509.22550) | rule-assigned |
 | 2025-09-25 | Wall Inspector: Quadrotor Control in Wall-proximity Through Model Compensation | Peiwen Yang, Weisong Wen, Runqiu Yang, Yingming Chen et al. | [Abstract](https://arxiv.org/abs/2509.21496) · [PDF](https://arxiv.org/pdf/2509.21496) | rule-assigned |
 | 2025-09-25 | Efficient Differentiable Contact Model with Long-range Influence | Xiaohan Ye, Kui Wu, Zherong Pan, Taku Komura | [Abstract](https://arxiv.org/abs/2509.20917) · [PDF](https://arxiv.org/pdf/2509.20917) | rule-assigned |

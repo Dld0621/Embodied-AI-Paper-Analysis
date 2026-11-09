@@ -1,12 +1,12 @@
 # Point-goal & Image-goal Navigation · 点目标与图像目标导航
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Goal%20%26%20Language%20Navigation&specialty=Point-goal%20%26%20Image-goal%20Navigation#research-workbench)
 
-> 24 conference papers · 119 recent arXiv papers
+> 27 conference papers · 120 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,15 +20,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (24)
+## Conference papers (27)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | A scalar per patch from pre-trained ViTs enables fast moving navigation in the real world | ECCV · Navigation | [Paper](https://arxiv.org/abs/2606.21216) · [Index](https://dblp.org/rec/conf/eccv/JannyAW26) | rule-assigned |
+| 2026 | CompassNav: Steering From Path Imitation To Decision Understanding In Navigation | ICLR · Navigation | [Paper](https://arxiv.org/abs/2510.10154) · [Index](https://dblp.org/rec/conf/iclr/LiZXTL26) | rule-assigned |
 | 2026 | CLUE: Adaptively Prioritized Contextual Cues by Leveraging a Unified Semantic Map for Effective Zero-Shot Object-Goal Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2605.19206) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697331) | rule-assigned |
-| 2026 | DSSM-SG: Dynamic 3D Scene Graphs with Spatio-Semantic Memory for Long-Term Indoor Navigation Tasks | ICRA · 3D Scene | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695756) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695756) | rule-assigned |
+| 2026 | DSSM-SG: Dynamic 3D Scene Graphs with Spatio-Semantic Memory for Long-Term Indoor Navigation Tasks | ICRA · 3D Scene | [Paper](https://doi.org/10.1109/icra57385.2026.11695756) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695756) | rule-assigned |
 | 2026 | Narrate2Nav: Real-Time Visual Navigation with Implicit Language Reasoning in Human-Centric Environments | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2506.14233) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696112) | rule-assigned |
 | 2026 | SurveilNav: Collaborative Object Goal Navigation with Robot and Surveillance System | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2606.25119) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697410) | rule-assigned |
 | 2026 | The One Ring: a Robotic Indoor Navigation Generalist | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2412.14401) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696447) | rule-assigned |
+| 2025 | What Matters in RL-Based Methods for Object-Goal Navigation? An Empirical Study and A Unified Framework | ECCV · Navigation | [Paper](https://arxiv.org/abs/2510.01830) · [Index](https://dblp.org/rec/journals/corr/abs-2510-01830) | rule-assigned |
 | 2025 | IGL-Nav: Incremental 3D Gaussian Localization for Image-Goal Navigation | ICCV · Navigation | [Paper](https://arxiv.org/pdf/2508.00823) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00640) | rule-assigned |
 | 2025 | BEINGS: Bayesian Embodied Image-Goal Navigation With Gaussian Splatting | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.10216) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127919) | rule-assigned |
 | 2025 | NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2502.13894) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127507) | rule-assigned |
@@ -49,7 +52,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Topological Semantic Graph Memory for Image-Goal Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2209.08274) · [Index](https://dblp.org/rec/journals/corr/abs-2209-08274) | rule-assigned |
 | 2022 | ZSON: Zero-Shot Object-Goal Navigation using Multimodal Goal Embeddings | NeurIPS · Navigation | [Paper](https://arxiv.org/pdf/2206.12403) · [Index](https://dblp.org/rec/journals/corr/abs-2206-12403) | rule-assigned |
 
-## Recent arXiv papers (119)
+## Recent arXiv papers (120)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -110,6 +113,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-12-26 | VL-LN Bench: Towards Long-horizon Goal-oriented Navigation with Active Dialogs | Wensi Huang, Shaohao Zhu, Meng Wei, Siqi Zhang et al. | [Abstract](https://arxiv.org/abs/2512.22342) · [PDF](https://arxiv.org/pdf/2512.22342) | rule-assigned |
 | 2025-12-14 | D3D-VLP: Dynamic 3D Vision-Language-Planning Model for Embodied Grounding and Navigation | Zihan Wang, Seungjun Lee, Guangzhao Dai, Gim Hee Lee | [Abstract](https://arxiv.org/abs/2512.12622) · [PDF](https://arxiv.org/pdf/2512.12622) | rule-assigned |
 | 2025-12-10 | YOPO-Nav: Visual Navigation using 3DGS Graphs from One-Pass Videos | Ryan Meegan, Adam D'Souza, Bryan Bo Cao, Shubham Jain et al. | [Abstract](https://arxiv.org/abs/2512.09903) · [PDF](https://arxiv.org/pdf/2512.09903) | rule-assigned |
+| 2025-12-08 | VLD: Visual Learned Distance as an Interface for Reinforcement Learning Navigation | Lazar Milikic, Manthan Patel, Jonas Frey | [Abstract](https://arxiv.org/abs/2512.07976) · [PDF](https://arxiv.org/pdf/2512.07976) | rule-assigned |
 | 2025-11-30 | FOM-Nav: Frontier-Object Maps for Object Goal Navigation | Thomas Chabal, Shizhe Chen, Jean Ponce, Cordelia Schmid | [Abstract](https://arxiv.org/abs/2512.01009) · [PDF](https://arxiv.org/pdf/2512.01009) | rule-assigned |
 | 2025-11-27 | MG-Nav: Dual-Scale Visual Navigation via Sparse Spatial Memory | Bo Wang, Jiehong Lin, Chenzhi Liu, Xinting Hu et al. | [Abstract](https://arxiv.org/abs/2511.22609) · [PDF](https://arxiv.org/pdf/2511.22609) | rule-assigned |
 | 2025-11-17 | SplatSearch: Instance Image Goal Navigation for Mobile Robots using 3D Gaussian Splatting and Diffusion Models | Siddarth Narasimhan, Matthew Lisondra, Haitong Wang, Goldie Nejat | [Abstract](https://arxiv.org/abs/2511.12972) · [PDF](https://arxiv.org/pdf/2511.12972) | rule-assigned |

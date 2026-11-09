@@ -1,12 +1,12 @@
 # Visual, LiDAR & Multisensor SLAM · 视觉／激光／多传感器 SLAM
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Visual%2C%20LiDAR%20%26%20Multisensor%20SLAM#research-workbench)
 
-> 14 conference papers · 559 recent arXiv papers
+> 14 conference papers · 558 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -39,10 +39,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | 3D Lidar Reconstruction with Probabilistic Depth Completion for Robotic Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2207.12520) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981531) | rule-assigned |
 | 2022 | Visual Confined-Space Navigation Using an Efficient Learned Bilinear Optic Flow Approximation for Insect-scale Robots | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981585) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981585) | rule-assigned |
 
-## Recent arXiv papers (559)
+## Recent arXiv papers (558)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-05 | An Integrated Open-Source Stack for Vision-Based Autonomous Navigation of Wheeled Rovers | Iaroslav Kolomiets, Iaroslav Sheipak, Mikhail Reppo, Vsevolod Egorov et al. | [Abstract](https://arxiv.org/abs/2611.08100) · [PDF](https://arxiv.org/pdf/2611.08100) | rule-assigned |
 | 2026-11-02 | CoReMatch: Recurrent Continuous Coordinate Refinement for Real-Time Robotic Feature Matching | Robert J. Wang, Charles Ling, Boyu Wang | [Abstract](https://arxiv.org/abs/2611.03932) · [PDF](https://arxiv.org/pdf/2611.03932) | rule-assigned |
 | 2026-11-02 | A Tightly Coupled Magnetic-Inertial SLAM System for Field Robots | Chuan Huang, Tongxing Peng | [Abstract](https://arxiv.org/abs/2611.03106) · [PDF](https://arxiv.org/pdf/2611.03106) | rule-assigned |
 | 2026-10-30 | Visual-Inertial RGB-D SLAM with Encoders for a Differential Wheeled Robot | Zhanghao Zhu, Yutaka Kaizu, Kenichi Furuhashi, Kenji Imou | [Abstract](https://arxiv.org/abs/2610.41768) · [PDF](https://arxiv.org/pdf/2610.41768) | rule-assigned |
@@ -600,8 +601,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-18 | SNI-SLAM: Semantic Neural Implicit SLAM | Siting Zhu, Guangming Wang, Hermann Blum, Jiuming Liu et al. | [Abstract](https://arxiv.org/abs/2311.11016) · [PDF](https://arxiv.org/pdf/2311.11016) | rule-assigned |
 | 2023-11-16 | NGEL-SLAM: Neural Implicit Representation-based Global Consistent Low-Latency SLAM System | Yunxuan Mao, Xuan Yu, Kai Wang, Yue Wang et al. | [Abstract](https://arxiv.org/abs/2311.09525) · [PDF](https://arxiv.org/pdf/2311.09525) | rule-assigned |
 | 2023-11-14 | CP-SLAM: Collaborative Neural Point-based SLAM System | Jiarui Hu, Mao Mao, Hujun Bao, Guofeng Zhang et al. | [Abstract](https://arxiv.org/abs/2311.08013) · [PDF](https://arxiv.org/pdf/2311.08013) | rule-assigned |
-| 2023-11-07 | Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM | Seongwook Yoon, Jaehyun Kim, Sanghoon Sull | [Abstract](https://arxiv.org/abs/2311.03722) · [PDF](https://arxiv.org/pdf/2311.03722) | rule-assigned |
-| 2023-11-06 | Osprey: Multi-Session Autonomous Aerial Mapping with LiDAR-based SLAM and Next Best View Planning | Rowan Border, Nived Chebrolu, Yifu Tao, Jonathan D. Gammell et al. | [Abstract](https://arxiv.org/abs/2311.03484) · [PDF](https://arxiv.org/pdf/2311.03484) | rule-assigned |
 
 ---
 

@@ -1,12 +1,12 @@
 # Reproducibility & Statistical Comparison · 复现协议与统计比较
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Experimental%20Methods&specialty=Reproducibility%20%26%20Statistical%20Comparison#research-workbench)
 
-> 1 conference papers · 68 recent arXiv papers
+> 1 conference papers · 69 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,12 +26,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2025 | Hri-Free: Cognitive Robotic Simulation for Evaluating Embodied Social Attention Models | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127539) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127539) | rule-assigned |
 
-## Recent arXiv papers (68)
+## Recent arXiv papers (69)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | Scenario Orchestration for Closed-loop Policy Evaluation of Autonomous Driving | Frieda Rong, Zhaoyue Wang, Veer Kapadia, Vishaka Rajani et al. | [Abstract](https://arxiv.org/abs/2611.09888) · [PDF](https://arxiv.org/pdf/2611.09888) | rule-assigned |
 | 2026-11-03 | LoopQ: Fair, Closed-Loop Evaluation of Quantized Vision-Language-Action Models | Syed Umer Bukhari, Magnus Almgren, Ahmed Ali-Eldin | [Abstract](https://arxiv.org/abs/2611.05093) · [PDF](https://arxiv.org/pdf/2611.05093) | reviewed |
-| 2026-10-30 | When appearance and motion disagree: evaluating class--motion consistency against disguised uncrewed surface vessels | Jon Reifschneider | [Abstract](https://arxiv.org/abs/2611.00367) · [PDF](https://arxiv.org/pdf/2611.00367) | rule-assigned |
+| 2026-10-30 | When appearance and motion disagree: evaluating class-motion consistency against disguised uncrewed surface vessels | Jon Reifschneider | [Abstract](https://arxiv.org/abs/2611.00367) · [PDF](https://arxiv.org/pdf/2611.00367) | rule-assigned |
 | 2026-10-29 | RoboSeed: Multidimensional Evaluation of Vision-Language-Action and World-Action Models: Capability, Resource Affordability, and Research Evidence | Xin Ma, Furong Chen, Xinlong Man, Bo Zhang et al. | [Abstract](https://arxiv.org/abs/2610.40026) · [PDF](https://arxiv.org/pdf/2610.40026) | reviewed |
 | 2026-10-27 | Making Self-Driving Laboratories Auditable:A Unified Framework for Hybrid Actions,Measurements, and Safe Execution | Zihan Zhang, Zeyu Wu, Xin Zhang, Mingyu Luo et al. | [Abstract](https://arxiv.org/abs/2610.36761) · [PDF](https://arxiv.org/pdf/2610.36761) | rule-assigned |
 | 2026-10-25 | EAST: Embodied AI Safety Testing via Systematic Fault Injection in Digital Twins | Yuhao Tian, Tao Li, Ling Zhou, Dave Towey et al. | [Abstract](https://arxiv.org/abs/2610.34358) · [PDF](https://arxiv.org/pdf/2610.34358) | rule-assigned |

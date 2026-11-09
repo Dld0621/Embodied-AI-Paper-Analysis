@@ -1,12 +1,12 @@
 # Video-to-robot Demonstrations · 视频到机器人示教
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Human%20Demonstrations%20to%20Dexterous%20Skills&specialty=Video-to-robot%20Demonstrations#research-workbench)
 
-> 23 conference papers · 155 recent arXiv papers
+> 24 conference papers · 153 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,16 +20,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (23)
+## Conference papers (24)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video | ICLR · Dexterous | [Paper](https://arxiv.org/abs/2505.11709) · [Index](https://dblp.org/rec/conf/iclr/HoqueHYSZ26) | rule-assigned |
 | 2026 | DemoBot: Efficient Learning of Bimanual Manipulation with Dexterous Hands From Third-Person Human Videos | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2601.01651) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697032) | rule-assigned |
 | 2026 | DexKnot: Generalizable Visuomotor Policy Learning for Dexterous Bag-Knotting Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2603.07136) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696591) | rule-assigned |
 | 2026 | Generative adversarial imitation learning for robot swarms: Learning from human demonstrations and trained policies | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2603.02783) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696594) | rule-assigned |
 | 2026 | LLM Trainer: Automated Robotic Data Generating via Demonstration Augmentation using LLMs | ICRA · Llm | [Paper](https://arxiv.org/pdf/2509.20070) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696363) | rule-assigned |
 | 2026 | Scaling Single Human Demonstrations for Imitation Learning using Generative Foundational Models | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2602.12734) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697256) | rule-assigned |
-| 2025 | Robotic Mushroom Harvesting with Real2Sim2Real and Model Predictive Path Integral (MPPI) Based Planning | ICRA · Sim2Real | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127567) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127567) | rule-assigned |
+| 2025 | Robotic Mushroom Harvesting with Real2Sim2Real and Model Predictive Path Integral (MPPI) Based Planning | ICRA · Sim2Real | [Paper](https://repository.essex.ac.uk/40176/1/Robotic%20Mushroom%20Harvesting%20with%20Real2Sim2Real%20and%20Model%20Predictive%20Path%20Integral%20based%20Planning.pdf) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127567) | rule-assigned |
 | 2025 | VTAO-BiManip: Masked Visual-Tactile-Action Pre-training with Object Understanding for Bimanual Dexterous Manipulation | IROS · Dexterous | [Paper](https://arxiv.org/pdf/2501.03606) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246950) | rule-assigned |
 | 2025 | Scaffolding Dexterous Manipulation with Vision-Language Models | NeurIPS · Language Model | [Paper](https://arxiv.org/abs/2506.19212) · [Index](https://dblp.org/rec/conf/nips/BakkerHLCTBNBS25) | rule-assigned |
 | 2024 | CyberDemo: Augmenting Simulated Human Demonstration for Real-World Dexterous Manipulation | CVPR · Dexterous | [Paper](https://arxiv.org/pdf/2402.14795) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01700) | rule-assigned |
@@ -46,17 +47,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Masked Imitation Learning: Discovering Environment-Invariant Modalities in Multimodal Demonstrations | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2209.07682) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341728) | rule-assigned |
 | 2023 | Scalable. Intuitive Human to Robot Skill Transfer with Wearable Human Machine Interfaces: On Complex, Dexterous Tasks | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS55552.2023.10341661) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341661) | rule-assigned |
 | 2022 | Human-to-Robot Imitation in the Wild | RSS · Learning from human video | [Paper](https://www.roboticsproceedings.org/rss18/p026.pdf) · [Official](https://www.roboticsproceedings.org/rss18/p026.html) | rule-assigned |
-| 2022 | Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on Youtube | RSS · Robotic Hand | [Paper](https://doi.org/10.15607/rss.2022.xviii.023) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.023) | rule-assigned |
+| 2022 | Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on Youtube | RSS · Robotic Hand | [Paper](https://arxiv.org/abs/2202.10448) · [Index](https://dblp.org/rec/conf/rss/SivakumarSP22) | rule-assigned |
 
-## Recent arXiv papers (155)
+## Recent arXiv papers (153)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
-| 2026-11-03 | RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On | Seungyong Lee, Suhyeok Jang, Minyoung Kim, Jinwoo Shin | [Abstract](https://arxiv.org/abs/2611.05163) · [PDF](https://arxiv.org/pdf/2611.05163) | reviewed |
+| 2026-11-03 | Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On | Seungyong Lee, Suhyeok Jang, Minyoung Kim, Jinwoo Shin | [Abstract](https://arxiv.org/abs/2611.05163) · [PDF](https://arxiv.org/pdf/2611.05163) | reviewed |
 | 2026-10-29 | WorldBridge: Bridging Video and Action for Task Generalization in World Action Models | Jun Cen, Yubo Guo, Hao Li, Liangkai Li et al. | [Abstract](https://arxiv.org/abs/2610.40748) · [PDF](https://arxiv.org/pdf/2610.40748) | rule-assigned |
 | 2026-10-29 | TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation | Haozhe Zhang, Gu Zhang, Zirui Zou, Yuzheng Chen et al. | [Abstract](https://arxiv.org/abs/2610.40349) · [PDF](https://arxiv.org/pdf/2610.40349) | reviewed |
 | 2026-10-29 | Contact Imitation Interface: Transferring Dexterous Skills by Showing How Contact Unfolds | Zhixuan Xu, Yichen Li, Bingchen Wu, Rui Wang et al. | [Abstract](https://arxiv.org/abs/2610.41028) · [PDF](https://arxiv.org/pdf/2610.41028) | rule-assigned |
-| 2026-10-24 | AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking | Jianibieke Adalibieke, Qianwei Han, Xueyi Liu, Yuzhe Qin et al. | [Abstract](https://arxiv.org/abs/2610.33852) · [PDF](https://arxiv.org/pdf/2610.33852) | rule-assigned |
 | 2026-10-22 | RGraph-Eval: Task-Grounded Scene Graphs for Evaluating Robot Video Generation | Aleksandr Lazarev, Sofia Zimina, Roman Kuznetsov, Tatiana Zemskova et al. | [Abstract](https://arxiv.org/abs/2610.31121) · [PDF](https://arxiv.org/pdf/2610.31121) | rule-assigned |
 | 2026-10-22 | FLORA: An Open Model Suite for Scaling Robotics Data Engines | Sicong Leng, Yunze Man, Zhiqi Li, Jing Wang et al. | [Abstract](https://arxiv.org/abs/2610.31779) · [PDF](https://arxiv.org/pdf/2610.31779) | rule-assigned |
 | 2026-10-21 | Self-Distilling Future Video Representations for World Action Models | Huiwon Jang, Suhyeok Jang, Hyeonmo Kang, Seungku Kim et al. | [Abstract](https://arxiv.org/abs/2610.30320) · [PDF](https://arxiv.org/pdf/2610.30320) | rule-assigned |
@@ -206,7 +206,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-18 | Aligning Human Intent from Imperfect Demonstrations with Confidence-based Inverse soft-Q Learning | Xizhou Bu, Wenjuan Li, Zhengxiong Liu, Zhiqiang Ma et al. | [Abstract](https://arxiv.org/abs/2312.11194) · [PDF](https://arxiv.org/pdf/2312.11194) | rule-assigned |
 | 2023-12-05 | Human Demonstrations are Generalizable Knowledge for Robots | Te Cui, Tianxing Zhou, Zicai Peng, Mengxiao Hu et al. | [Abstract](https://arxiv.org/abs/2312.02419) · [PDF](https://arxiv.org/pdf/2312.02419) | rule-assigned |
 | 2023-11-09 | SynH2R: Synthesizing Hand-Object Motions for Learning Human-to-Robot Handovers | Sammy Christen, Lan Feng, Wei Yang, Yu-Wei Chao et al. | [Abstract](https://arxiv.org/abs/2311.05599) · [PDF](https://arxiv.org/pdf/2311.05599) | rule-assigned |
-| 2023-11-04 | Constrained Equation Learner Networks for Precision-Preserving Extrapolation of Robotic Skills | Hector Perez-Villeda, Justus Piater, Matteo Saveriano | [Abstract](https://arxiv.org/abs/2311.02475) · [PDF](https://arxiv.org/pdf/2311.02475) | rule-assigned |
 
 ---
 

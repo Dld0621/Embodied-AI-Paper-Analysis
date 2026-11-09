@@ -1,12 +1,12 @@
 # Calibration & Time Alignment · 标定与时间对齐
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=State%20Estimation%20%26%20Active%20Perception&specialty=Calibration%20%26%20Time%20Alignment#research-workbench)
 
-> 4 conference papers · 166 recent arXiv papers
+> 4 conference papers · 165 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,10 +29,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | MEMROC: Multi-Eye to Mobile RObot Calibration | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2410.08805) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801771) | rule-assigned |
 | 2023 | Ego-Noise Reduction of a Mobile Robot Using Noise Spatial Covariance Matrix Learning and Minimum Variance Distortionless Response | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2303.00829) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342193) | rule-assigned |
 
-## Recent arXiv papers (166)
+## Recent arXiv papers (165)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | Polarization calibration of fisheye cameras using skylight in the wild | Shuo Wang, Shiqi Che, Dianze Dong, Wenxin Liu | [Abstract](https://arxiv.org/abs/2611.08911) · [PDF](https://arxiv.org/pdf/2611.08911) | rule-assigned |
+| 2026-11-05 | Kinematic Hypothesis Context: Embodiment-Conditioned Learned Video Coding for Bandwidth-Limited Robot Policy Uplinks | Yuze Lu | [Abstract](https://arxiv.org/abs/2611.07411) · [PDF](https://arxiv.org/pdf/2611.07411) | rule-assigned |
 | 2026-11-02 | SyncHeC: Markerless Spatio-Temporal Hand-Eye Calibration via Differentiable Rendering and Continuous-Time Joint Optimization | Zhengdong Hong | [Abstract](https://arxiv.org/abs/2611.02999) · [PDF](https://arxiv.org/pdf/2611.02999) | rule-assigned |
 | 2026-11-02 | AnchorHEC: Targetless Hand-Eye Calibration of Wrist and Fixed Cameras | Guebin Hwang, Taeyeop Lee, Yeonseo Lee, Hyosup Shin et al. | [Abstract](https://arxiv.org/abs/2611.02884) · [PDF](https://arxiv.org/pdf/2611.02884) | rule-assigned |
 | 2026-10-30 | Physically Constrained Kinematic Calibration for High-Precision Robotic Needle Guidance | Prabhu Nithin Gollapudi, Andreas Maier, Franziska Mathis-Ullrich, Water Zhao et al. | [Abstract](https://arxiv.org/abs/2610.41429) · [PDF](https://arxiv.org/pdf/2610.41429) | rule-assigned |
@@ -40,7 +42,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-10-28 | Same Label, Different Interface: Beyond Action-Space Labels in Robot Learning | Arshia Sangwan, Zhongyang Zhang | [Abstract](https://arxiv.org/abs/2610.38104) · [PDF](https://arxiv.org/pdf/2610.38104) | rule-assigned |
 | 2026-10-20 | VeriCalib: Verifiable Target-Based LiDAR-Camera Calibration | Xiangcheng Hu, Xieyuanli Chen, Feiyi Chen, Shengli Ren et al. | [Abstract](https://arxiv.org/abs/2610.28791) · [PDF](https://arxiv.org/pdf/2610.28791) | rule-assigned |
 | 2026-10-20 | Agentic discovery of interpretable car-following laws from multi-source trajectory data | Jiamei Xu, Jie Sun, Keshuang Tang, Jian Sun | [Abstract](https://arxiv.org/abs/2610.27836) · [PDF](https://arxiv.org/pdf/2610.27836) | rule-assigned |
-| 2026-10-16 | HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents | Hongcheng Gao, Alex Zhou, Jay Zhu, Zelin Zheng et al. | [Abstract](https://arxiv.org/abs/2610.23479) · [PDF](https://arxiv.org/pdf/2610.23479) | rule-assigned |
 | 2026-10-05 | Propagating Elevation-Map Uncertainty Through the Contact Maximum in Closed Form | Aleš Kučera, Karel Zimmermann | [Abstract](https://arxiv.org/abs/2610.06103) · [PDF](https://arxiv.org/pdf/2610.06103) | rule-assigned |
 | 2026-10-05 | CentriQ: Calibration-Free Quantization of Diffusion Transformers via Exact Mean Centering | Nataša Jovanović, Mathieu Salzmann, Saqib Javed | [Abstract](https://arxiv.org/abs/2610.06260) · [PDF](https://arxiv.org/pdf/2610.06260) | rule-assigned |
 | 2026-10-04 | Building A Multi-Sensor Platform For Autonomous Driving Research: Challenges and Lessons Learned | Paulo Ricardo Marques de Araujo, Eslam Mounier, Qamar Bader, Emma Dawson et al. | [Abstract](https://arxiv.org/abs/2610.05604) · [PDF](https://arxiv.org/pdf/2610.05604) | rule-assigned |
@@ -90,7 +91,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-08 | 123D: Unifying Multi-Modal Autonomous Driving Data at Scale | Daniel Dauner, Valentin Charraut, Bastian Berle, Tianyu Li et al. | [Abstract](https://arxiv.org/abs/2605.08084) · [PDF](https://arxiv.org/pdf/2605.08084) | rule-assigned |
 | 2026-05-06 | Optimal Uncertainty-Aware Calibration for the AX=YB Problem | Yanjia Chen, Xiangfei Li, Huan Zhao, Yiyuan Hong et al. | [Abstract](https://arxiv.org/abs/2605.04809) · [PDF](https://arxiv.org/pdf/2605.04809) | rule-assigned |
 | 2026-04-30 | DOT-Sim: Differentiable Optical Tactile Simulation with Precise Real-to-Sim Physical Calibration | Yang You, Won Kyung Do, Aiden Swann, Rika Antonova et al. | [Abstract](https://arxiv.org/abs/2604.27367) · [PDF](https://arxiv.org/pdf/2604.27367) | rule-assigned |
-| 2026-04-22 | AAC: Admissible-by-Architecture Differentiable Landmark Compression for ALT | An T. Le, Vien Ngo | [Abstract](https://arxiv.org/abs/2604.20744) · [PDF](https://arxiv.org/pdf/2604.20744) | rule-assigned |
 | 2026-04-07 | Uncertainty Estimation for Deep Reconstruction in Actuatic Disaster Scenarios with Autonomous Vehicles | Samuel Yanes Luis, Alejandro Casado Pérez, Alejandro Mendoza Barrionuevo, Dame Seck Diop et al. | [Abstract](https://arxiv.org/abs/2604.06387) · [PDF](https://arxiv.org/pdf/2604.06387) | rule-assigned |
 | 2026-04-07 | Delta6: A Low-Cost, 6-DOF Force-Sensing Flexible End-Effector | Yue Feng, Weicheng Huang, Chen Qiu, Huixu Dong et al. | [Abstract](https://arxiv.org/abs/2604.06150) · [PDF](https://arxiv.org/pdf/2604.06150) | rule-assigned |
 | 2026-03-31 | Industrial-Grade Robust Robot Vision for Screw Detection and Removal under Uneven Conditions | Tomoki Ishikura, Genichiro Matsuda, Takuya Kiyokawa, Kensuke Harada | [Abstract](https://arxiv.org/abs/2603.29363) · [PDF](https://arxiv.org/pdf/2603.29363) | rule-assigned |
@@ -198,7 +198,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-29 | Calibration and evaluation of a motion measurement system for PET imaging studies | Junxiang Wang, Ti Wu, Iulian I. Iordachita, Peter Kazanzides | [Abstract](https://arxiv.org/abs/2311.18009) · [PDF](https://arxiv.org/pdf/2311.18009) | rule-assigned |
 | 2023-11-21 | Hand-Eye Calibration | Radu Horaud, Fadi Dornaika | [Abstract](https://arxiv.org/abs/2311.12655) · [PDF](https://arxiv.org/pdf/2311.12655) | rule-assigned |
 | 2023-11-20 | Robot Hand-Eye Calibration using Structure-from-Motion | Nicolas Andreff, Radu Horaud, Bernard Espiau | [Abstract](https://arxiv.org/abs/2311.11808) · [PDF](https://arxiv.org/pdf/2311.11808) | rule-assigned |
-| 2023-11-07 | Self-Contained and Automatic Calibration of a Multi-Fingered Hand Using Only Pairwise Contact Measurements | Johannes Tenhumberg, Leon Sievers, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2311.03957) · [PDF](https://arxiv.org/pdf/2311.03957) | rule-assigned |
 
 ---
 

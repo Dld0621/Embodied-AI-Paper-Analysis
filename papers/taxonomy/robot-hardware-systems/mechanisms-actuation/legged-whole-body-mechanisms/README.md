@@ -1,7 +1,7 @@
 # Legged & Whole-body Mechanisms · 腿式与全身机构
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Legged%20%26%20Whole-body%20Mechanisms#research-workbench)
@@ -29,7 +29,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | ChatBuilder: LLM-assisted Modular Robot Creation | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11247761) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247761) | rule-assigned |
 | 2025 | DecARt Leg: Design and Evaluation of a Novel Humanoid Robot Leg with Decoupled Actuation for Agile Locomotion | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2511.10021) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247361) | rule-assigned |
 | 2022 | Development of a Collaborative Wheeled Mobile Robot: Design Considerations, Drive Unit Torque Control, and Preliminary Result | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/icra46639.2022.9812006) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812006) | rule-assigned |
-| 2022 | Soft Robots Learn to Crawl: Jointly Optimizing Design and Control with Sim-to-Real Transfer | RSS · Sim To Real | [Paper](https://doi.org/10.15607/rss.2022.xviii.062) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.062) | rule-assigned |
+| 2022 | Soft Robots Learn to Crawl: Jointly Optimizing Design and Control with Sim-to-Real Transfer | RSS · Sim To Real | [Paper](https://arxiv.org/abs/2202.04575) · [Index](https://dblp.org/rec/conf/rss/SchaffSW22) | rule-assigned |
 
 ## Recent arXiv papers (37)
 

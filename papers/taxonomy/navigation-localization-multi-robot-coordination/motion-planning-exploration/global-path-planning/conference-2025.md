@@ -1,7 +1,7 @@
 # Global Path Planning · 全局路径规划 · Conference 2025
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
@@ -16,7 +16,7 @@
 | 2025 | COLLAGE: Collaborative Human-Agent Interaction Generation Using Hierarchical Latent Diffusion and Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2409.20502) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128777) | rule-assigned |
 | 2025 | Dual-BEV Nav: Dual-Layer BEV-Based Heuristic Path Planning for Robotic Navigation in Unstructured Outdoor Environments | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2501.18351) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128157) | rule-assigned |
 | 2025 | Dynamic Multi-Objective Ergodic Path Planning Using Decomposition Methods | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128676) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128676) | rule-assigned |
-| 2025 | Dynamically Feasible Path Planning in Cluttered Environments via Reachable BéZier Polytopes | ICRA · Path Planning | [Paper](https://arxiv.org/abs/2411.13507) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127577) | rule-assigned |
+| 2025 | Dynamically Feasible Path Planning in Cluttered Environments via Reachable BéZier Polytopes | ICRA · Path Planning | [Paper](https://arxiv.org/pdf/2411.13507) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127577) | rule-assigned |
 | 2025 | Efficient Path Planning in Complex Environments with Trust Region Continuous Belief Tree Search | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127956) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127956) | rule-assigned |
 | 2025 | Exploring Adversarial Obstacle Attacks in Search-Based Path Planning for Autonomous Mobile Robots | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2504.06154) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128179) | rule-assigned |
 | 2025 | Fully Differentiable Adaptive Informative Path Planning | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127801) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127801) | rule-assigned |

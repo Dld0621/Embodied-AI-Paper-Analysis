@@ -1,12 +1,12 @@
 # Affordances & Interaction Relations · 可供性与交互关系
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Object%20%26%20Interaction%20Perception&specialty=Affordances%20%26%20Interaction%20Relations#research-workbench)
 
-> 31 conference papers · 68 recent arXiv papers
+> 31 conference papers · 70 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,7 +28,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | GarmentPile++: Affordance-Driven Cluttered Garments Retrieval with Vision-Language Reasoning | ICRA · Affordance | [Paper](https://arxiv.org/pdf/2603.04158) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696185) | rule-assigned |
 | 2026 | PerceptTwin: Semantic Scene Reconstruction for Iterative LLM Planning and Verification | ICRA · Llm | [Paper](https://arxiv.org/pdf/2606.04226) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696188) | rule-assigned |
 | 2026 | RoboHitch: Learning Visual Affordance from Disordered Keypoints for Hitch Knots Tying | ICRA · Affordance | [Paper](https://arxiv.org/pdf/2605.24394) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695742) | rule-assigned |
-| 2026 | SAGrid: Scaling Robot Simulation through Automatic Affordance Annotation on In-the-Wild 3D Assets | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697139) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697139) | rule-assigned |
+| 2026 | SAGrid: Scaling Robot Simulation through Automatic Affordance Annotation on In-the-Wild 3D Assets | ICRA · Simulation | [Paper](https://doi.org/10.1109/icra57385.2026.11697139) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697139) | rule-assigned |
 | 2025 | GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency | CVPR · Affordance | [Paper](https://arxiv.org/pdf/2412.09511) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.00164) | rule-assigned |
 | 2025 | GREAT: Geometry-Intention Collaborative Inference for Open-Vocabulary 3D Object Affordance Grounding | CVPR · Affordance | [Paper](https://arxiv.org/pdf/2411.19626) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01615) | rule-assigned |
 | 2025 | Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions | CVPR · Affordance | [Paper](https://arxiv.org/pdf/2504.04744) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01616) | rule-assigned |
@@ -56,10 +56,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | AssistQ: Affordance-centric Question-driven Task Completion for Egocentric Assistant | ECCV · Affordance | [Paper](https://arxiv.org/abs/2203.04203) · [Index](https://dblp.org/rec/conf/eccv/WongCWLMGS22) | rule-assigned |
 | 2022 | Affordance Learning from Play for Sample-Efficient Policy Learning | ICRA · Affordance | [Paper](https://arxiv.org/abs/2203.00352) · [Index](https://dblp.org/rec/journals/corr/abs-2203-00352) | rule-assigned |
 
-## Recent arXiv papers (68)
+## Recent arXiv papers (70)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-05 | Reversible Dynamics, Asymmetric Actions: Parking as a Trajectory-Level Affordance | Adam Y. Shavit | [Abstract](https://arxiv.org/abs/2611.07965) · [PDF](https://arxiv.org/pdf/2611.07965) | rule-assigned |
+| 2026-11-05 | AffordJEV: Affordance Grounding by Confirming Candidate Regions | Jincheng Li, Yutian Zhang, Jianyu Zhang, Xinshun Wang et al. | [Abstract](https://arxiv.org/abs/2611.07896) · [PDF](https://arxiv.org/pdf/2611.07896) | rule-assigned |
 | 2026-10-29 | EgoContact: Evaluating Physical Intelligence with Egocentric Video | Adam Deryło, Alexey Gavryushin, Daniel Cremers, Marc Pollefeys et al. | [Abstract](https://arxiv.org/abs/2610.39167) · [PDF](https://arxiv.org/pdf/2610.39167) | rule-assigned |
 | 2026-10-29 | Decoding Geometry, Not Tokens: Efficient VLMs for Robot Affordance and Trajectory Prediction | Akila Ayanthi, Darshana Priyasad, Tharindu Fernando, Dimity Miller et al. | [Abstract](https://arxiv.org/abs/2610.39416) · [PDF](https://arxiv.org/pdf/2610.39416) | rule-assigned |
 | 2026-10-12 | Phase-Conditioned Affordance Fields for SE(3)-Equivariant Visuomotor Policies | Xinzhe Chen, Liqi Huang, Sihua Ren, Haowen Sun et al. | [Abstract](https://arxiv.org/abs/2610.17281) · [PDF](https://arxiv.org/pdf/2610.17281) | rule-assigned |

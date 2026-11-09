@@ -1,7 +1,7 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=In-hand%20Manipulation&specialty=Pending%20specialty%20review#research-workbench)
@@ -24,7 +24,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Bi-Hap: a Bi-directional Learning-Based Control and Momentum-based Haptic Feedback System for Dexterous In-hand Telemanipulation | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697388) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697388) | needs-review |
+| 2026 | Bi-Hap: a Bi-directional Learning-Based Control and Momentum-based Haptic Feedback System for Dexterous In-hand Telemanipulation | ICRA · Dexterous | [Paper](https://doi.org/10.1109/icra57385.2026.11697388) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697388) | needs-review |
 | 2025 | Learning In-Hand Translation Using Tactile Skin with Shear and Normal Force Sensing | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2407.07885) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127974) | needs-review |
 | 2025 | Wearing a Robotic Hand to Feel 3D Force Feedback: Analysis and Virtual Reality Application of the Hand-in-Hand System | IROS · In Hand | [Paper](https://doi.org/10.1109/IROS60139.2025.11246130) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246130) | needs-review |
 | 2024 | SonicSense: Object Perception from In-Hand Acoustic Vibration | CoRL · In Hand | [Paper](https://arxiv.org/abs/2406.17932) · [Index](https://dblp.org/rec/conf/corl/Liu024) | needs-review |

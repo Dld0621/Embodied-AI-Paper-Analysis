@@ -1,13 +1,18 @@
-# Retargeting · 201–329
+# Retargeting · 201–333
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Topic index](retargeting.md)
 
 | Paper | Source layer | Primary path | Classification status |
 |---|---|---|---|
+| [TERRA: Terrain-Aware Reconstruction, Retargeting and Control for Musculoskeletal Locomotion](https://arxiv.org/abs/2609.38653) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Quadruped & Multilegged Locomotion → Terrain Adaptation | rule-assigned |
+| [Traceable Human-to-Humanoid Sign Language Benchmarking](https://arxiv.org/abs/2609.33354) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Motion Imitation & Generation | rule-assigned |
+| [ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation](https://arxiv.org/abs/2603.03279) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Locomotion-Manipulation Coordination → Humanoid Loco-manipulation | rule-assigned |
+| [Unified Motion Retargeting for Humanoids with Learned Point Cloud Correspondence](https://arxiv.org/abs/2609.02134) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |
+| [Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors](https://arxiv.org/abs/2606.28237) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Quadruped & Multilegged Locomotion → Gaits & Locomotion Control | rule-assigned |
 | [VICAR: Video Imitation with Contact-Aware Retargeting for Humanoid Interactive Skills](https://arxiv.org/abs/2610.13079) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Locomotion-Manipulation Coordination → Humanoid Loco-manipulation | rule-assigned |
 | [Vision as Proprioception: Estimating Humanoid Robot Pose from Video](https://arxiv.org/abs/2610.25288) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | needs-review |
 | [ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback](https://arxiv.org/abs/2610.32966) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Coordination & Balance → Whole-body Optimization & Control | rule-assigned |
@@ -81,7 +86,6 @@
 | [Do You Have Freestyle? Expressive Humanoid Locomotion via Audio Control](https://arxiv.org/abs/2512.23650) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | needs-review |
 | [EMP: Executable Motion Prior for Humanoid Robot Standing Upper-body Motion Imitation](https://arxiv.org/abs/2507.15649) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Motion Imitation & Generation | rule-assigned |
 | [From Generated Human Videos to Physically Plausible Robot Trajectories](https://arxiv.org/abs/2512.05094) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Motion Imitation & Generation | rule-assigned |
-| [From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance](https://arxiv.org/abs/2510.14952) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Coordination & Balance → Whole-body Optimization & Control | rule-assigned |
 | [GBC: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation](https://arxiv.org/abs/2508.09960) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Motion Imitation & Generation | rule-assigned |
 | [Heavy lifting tasks via haptic teleoperation of a wheeled humanoid](https://arxiv.org/abs/2505.19530) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Coordination & Balance → Whole-body Optimization & Control | rule-assigned |
 | [InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions](https://arxiv.org/abs/2502.20390) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Coordination & Balance → Whole-body Optimization & Control | rule-assigned |

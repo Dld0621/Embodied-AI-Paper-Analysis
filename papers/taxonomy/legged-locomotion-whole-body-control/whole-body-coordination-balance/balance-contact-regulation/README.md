@@ -1,7 +1,7 @@
 # Balance & Contact Regulation · 平衡与接触调节
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Coordination%20%26%20Balance&specialty=Balance%20%26%20Contact%20Regulation#research-workbench)
@@ -24,9 +24,9 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Adaptive Friction-based Inchworm-like Locomotion | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696680) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696680) | rule-assigned |
-| 2026 | COLA: Learning Human-Humanoid Coordination for Collaborative Object Carrying | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2510.14293) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696713) | rule-assigned |
-| 2026 | Hydrodynamic Optimization of a Spherical Amphibious Robot’s Paddle-Wheel for Effective Water Surface Locomotion * | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696365) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696365) | rule-assigned |
+| 2026 | Adaptive Friction-based Inchworm-like Locomotion | ICRA · Locomotion | [Paper](https://doi.org/10.1109/icra57385.2026.11696680) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696680) | rule-assigned |
+| 2026 | COLA: Learning Human-Humanoid Coordination for Collaborative Object Carrying | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra57385.2026.11696713) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696713) | rule-assigned |
+| 2026 | Hydrodynamic Optimization of a Spherical Amphibious Robot’s Paddle-Wheel for Effective Water Surface Locomotion * | ICRA · Locomotion | [Paper](https://doi.org/10.1109/icra57385.2026.11696365) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696365) | rule-assigned |
 | 2026 | SCU-Hand with Integrated Single-Sheet Valve: A Funnel-Shaped Robotic Hand for Milligram-Scale Powder Handling | ICRA · Robotic Hand | [Paper](https://arxiv.org/pdf/2512.07091) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697543) | rule-assigned |
 | 2025 | Human-Robot Collaboration for the Remote Control of Mobile Humanoid Robots With Torso-Arm Coordination | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2505.05773) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128048) | rule-assigned |
 | 2025 | Humanoid Whole-Body Locomotion on Narrow Terrain via Dynamic Balance and Reinforcement Learning | IROS · Humanoid | [Paper](https://arxiv.org/abs/2502.17219) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246060) | rule-assigned |

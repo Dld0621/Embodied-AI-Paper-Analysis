@@ -1,7 +1,7 @@
 # 3D Reconstruction · 三维重建
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=3D%20Reconstruction#research-workbench)
@@ -25,7 +25,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | GaussTwin: Unified Simulation and Correction with Gaussian Splatting for Robotic Digital Twins | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2603.05108) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696587) | rule-assigned |
-| 2026 | GS-UVCE: Gaussian Splatting-Driven Unsupervised Visual Consistency Enhancement for Underwater 3D Scene Reconstruction | ICRA · 3D Scene | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696993) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696993) | rule-assigned |
+| 2026 | GS-UVCE: Gaussian Splatting-Driven Unsupervised Visual Consistency Enhancement for Underwater 3D Scene Reconstruction | ICRA · 3D Scene | [Paper](https://doi.org/10.1109/icra57385.2026.11696993) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696993) | rule-assigned |
 | 2026 | Observer–Actor: Active Vision Imitation Learning with Sparse-View Gaussian Splatting | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2511.18140) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697290) | rule-assigned |
 | 2025 | Real-Time 3D Reconstruction via Camera-Lidar (2D) Fusion for Mobile Robots: A Gaussian Splatting Approach | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128228) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128228) | rule-assigned |
 | 2025 | The Radiance of Neural Fields: Democratizing Photorealistic and Dynamic Robotic Simulation | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2411.16940) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128250) | rule-assigned |

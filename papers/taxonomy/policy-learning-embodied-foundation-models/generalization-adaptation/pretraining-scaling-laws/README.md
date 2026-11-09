@@ -1,12 +1,12 @@
 # Pretraining & Scaling Laws · 预训练与规模化规律
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generalization%20%26%20Adaptation&specialty=Pretraining%20%26%20Scaling%20Laws#research-workbench)
 
-> 1 conference papers · 20 recent arXiv papers
+> 1 conference papers · 22 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2025 | DexScale: Automating Data Scaling for Sim2Real Generalizable Robot Control | ICML · Sim2Real | [Paper](https://www.semanticscholar.org/paper/cc19b3dda0e6774626918571bd5d47524e3c084c) · [Index](https://dblp.org/rec/conf/icml/LiuDZ0CCXTJ25) | rule-assigned |
 
-## Recent arXiv papers (20)
+## Recent arXiv papers (22)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | Can LLMs Debug Robots by Editing Their Weights? | Jusheng Zhang, Keze Wang, Liang Lin | [Abstract](https://arxiv.org/abs/2611.09376) · [PDF](https://arxiv.org/pdf/2611.09376) | rule-assigned |
+| 2026-11-04 | Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models | Juncheng Ma, Jiaxin Li, Jiankai Tu, Bo Liang et al. | [Abstract](https://arxiv.org/abs/2611.06817) · [PDF](https://arxiv.org/pdf/2611.06817) | rule-assigned |
 | 2026-11-01 | Beyond Validation Loss: Coverage and Reliability Dynamics in Robot Policy Pretraining | Zhanyi Sun, Max Simchowitz, Shuran Song | [Abstract](https://arxiv.org/abs/2611.01565) · [PDF](https://arxiv.org/pdf/2611.01565) | rule-assigned |
 | 2026-10-29 | Confidence-Modulated Safety Filtering for End-to-End Policies | Javier Borquez, Jaime F. Fisac | [Abstract](https://arxiv.org/abs/2610.40922) · [PDF](https://arxiv.org/pdf/2610.40922) | rule-assigned |
 | 2026-10-19 | Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy | Zekai Li, Jiayi Yu, Jinlu Zhang, Luyang Niu et al. | [Abstract](https://arxiv.org/abs/2610.26848) · [PDF](https://arxiv.org/pdf/2610.26848) | rule-assigned |

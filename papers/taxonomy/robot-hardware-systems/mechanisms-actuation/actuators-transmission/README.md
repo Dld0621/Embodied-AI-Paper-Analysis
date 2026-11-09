@@ -1,12 +1,12 @@
 # Actuators & Transmission · 执行器与传动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Actuators%20%26%20Transmission#research-workbench)
 
-> 47 conference papers · 336 recent arXiv papers
+> 47 conference papers · 337 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -72,10 +72,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Agile Hybrid Whole-body Motor Skills for Thruster-Aided Humanoid Robots | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9981974) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981974) | rule-assigned |
 | 2022 | Omnidirectional walking of a quadruped robot enabled by compressible tendon-driven soft actuators | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981314) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981314) | rule-assigned |
 
-## Recent arXiv papers (336)
+## Recent arXiv papers (337)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-05 | SCALE: Real-Time Latent Communication for Cyber-Physical Agents | Shanghao Shi, Jian Xiao, Ching-Hsiang Chan, Sanjoy Baruah et al. | [Abstract](https://arxiv.org/abs/2611.08390) · [PDF](https://arxiv.org/pdf/2611.08390) | rule-assigned |
 | 2026-11-03 | PACT: Pose-Robust Actuation Co-Design for Tendon-Driven Robotic Hands | Prashant Kumar, Rachael Granberry, Taylor Niehues, Andrew A. Stanley et al. | [Abstract](https://arxiv.org/abs/2611.05302) · [PDF](https://arxiv.org/pdf/2611.05302) | rule-assigned |
 | 2026-11-02 | Towards end-to-end co-design for one-shot printable task-specific soft robots | James Wood, André Farinha, Will Browne, Josh Pinskier et al. | [Abstract](https://arxiv.org/abs/2611.03216) · [PDF](https://arxiv.org/pdf/2611.03216) | rule-assigned |
 | 2026-11-02 | Neuro Inspired Robotics: What Robot Learning Can Borrow from the Sensorimotor Brain | Ruihan Zhang, Davy Deng | [Abstract](https://arxiv.org/abs/2611.02510) · [PDF](https://arxiv.org/pdf/2611.02510) | rule-assigned |
@@ -141,6 +142,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-26 | A Tendon-Driven Five-Fingered Hand with Distributed Tactile Perception for Dexterous Manipulation | Huayang Chen, Longhui Qin | [Abstract](https://arxiv.org/abs/2608.25547) · [PDF](https://arxiv.org/pdf/2608.25547) | rule-assigned |
 | 2026-08-20 | Magnetically Self-Sealed MR Haptic Actuator With PWM-Based Excitation and High-Fidelity Torque Control | Dong Qiang, Tian Yuan, Song Yang, Kequan Xia et al. | [Abstract](https://arxiv.org/abs/2608.19635) · [PDF](https://arxiv.org/pdf/2608.19635) | rule-assigned |
 | 2026-08-17 | H-PAC Hand: Control-Oriented Modeling and Tendon-Elasticity Compensation for an Underactuated Robotic Hand | Teng Yan, Jiongxu Chen, Teng Wang, Yue Yu et al. | [Abstract](https://arxiv.org/abs/2608.16712) · [PDF](https://arxiv.org/pdf/2608.16712) | rule-assigned |
+| 2026-08-16 | Vision-Guided Reorientation and Color Sorting of Writing Utensils Using a Low-Cost 4-DoF Arm | Anirudh Rangarajan, Bibit Bianchini | [Abstract](https://arxiv.org/abs/2608.15968) · [PDF](https://arxiv.org/pdf/2608.15968) | rule-assigned |
 | 2026-08-14 | Communication in modular robotic motor control: Bilateral controllers under realistic constraints | Jingwen Li, Levin Kuhlmann, Jason Friedman, Gideon Kowadlo | [Abstract](https://arxiv.org/abs/2608.13904) · [PDF](https://arxiv.org/pdf/2608.13904) | rule-assigned |
 | 2026-08-13 | FAM-DQ: A Dual-Quadrotor-Based Fully Actuated Aerial Manipulator for High-Torque Interaction | Xuwei Yang, Ruoyu Ren, Ziqian Guo | [Abstract](https://arxiv.org/abs/2608.13220) · [PDF](https://arxiv.org/pdf/2608.13220) | rule-assigned |
 | 2026-08-10 | Ultra-Low-Impedance Robotic Gripper for High-Bandwidth and Transparent Physical Interaction | Joon Lee, Ari Choi, Seokhwan Jeong | [Abstract](https://arxiv.org/abs/2608.09198) · [PDF](https://arxiv.org/pdf/2608.09198) | rule-assigned |
@@ -411,7 +413,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-29 | Actuator-Constrained Reinforcement Learning for High-Speed Quadrupedal Locomotion | Young-Ha Shin, Tae-Gyu Song, Gwanghyeon Ji, Hae-Won Park | [Abstract](https://arxiv.org/abs/2312.17507) · [PDF](https://arxiv.org/pdf/2312.17507) | rule-assigned |
 | 2023-12-07 | Rapid Motor Adaptation for Robotic Manipulator Arms | Yichao Liang, Kevin Ellis, João Henriques | [Abstract](https://arxiv.org/abs/2312.04670) · [PDF](https://arxiv.org/pdf/2312.04670) | rule-assigned |
 | 2023-11-23 | Responsive Hydrogel-based Modular Microrobots for Multi-functional Micromanipulation | Liyuan Tan, David J. Cappelleri | [Abstract](https://arxiv.org/abs/2311.13809) · [PDF](https://arxiv.org/pdf/2311.13809) | rule-assigned |
-| 2023-11-06 | Reconfigurable, Transformable Soft Pneumatic Actuator with Tunable 3D Deformations for Dexterous Soft Robotics Applications | Dickson Chiu Yu Wong, Mingtan Li, Shijie Kang, Lifan Luo et al. | [Abstract](https://arxiv.org/abs/2311.03032) · [PDF](https://arxiv.org/pdf/2311.03032) | rule-assigned |
 
 ---
 

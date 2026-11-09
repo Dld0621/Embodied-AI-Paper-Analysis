@@ -1,12 +1,12 @@
 # Episodic Memory & Retrieval · 情景记忆与经验检索
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Memory%20%26%20Autonomous%20Execution&specialty=Episodic%20Memory%20%26%20Retrieval#research-workbench)
 
-> 3 conference papers · 68 recent arXiv papers
+> 3 conference papers · 69 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Retrieval-Augmented Embodied Agents | CVPR · Embodied Agent | [Paper](https://arxiv.org/pdf/2404.11699) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01703) | rule-assigned |
 | 2024 | RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model | RSS · Large Language Model | [Paper](https://arxiv.org/abs/2402.10828) · [Index](https://dblp.org/rec/conf/rss/YuanSOZ0KG24) | rule-assigned |
 
-## Recent arXiv papers (68)
+## Recent arXiv papers (69)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-05 | Embodied RAG++: Retrieval-Augmented Generation From What Exists to What Works in Embodied Scenes | Fan Yang, Tatsuya Kikuzuki, Jun Liang, Jun Liu et al. | [Abstract](https://arxiv.org/abs/2611.07517) · [PDF](https://arxiv.org/pdf/2611.07517) | rule-assigned |
 | 2026-10-22 | CMAR-search: Commonsense and Memory Augmented Reasoning for Object Search in Dynamic Interactive Environments | Kaiyao Liao, Qingfeng Li, Xinlei Zhang, Chen Chen et al. | [Abstract](https://arxiv.org/abs/2610.30606) · [PDF](https://arxiv.org/pdf/2610.30606) | rule-assigned |
 | 2026-10-21 | Externalise the Memory: A Pre-Registered Study of Where an Embodied Agent's Experience Should Live | Cheng-Yin Tu | [Abstract](https://arxiv.org/abs/2610.30478) · [PDF](https://arxiv.org/pdf/2610.30478) | rule-assigned |
 | 2026-10-03 | Test-Time Training as Residual Memory for Robot Policies | Haoxuan Wang, Gengyu Zhang, Ramana Rao Kompella, Gaowen Liu et al. | [Abstract](https://arxiv.org/abs/2610.04701) · [PDF](https://arxiv.org/pdf/2610.04701) | rule-assigned |

@@ -1,12 +1,12 @@
 # Demonstration Refinement & Skill Transfer · 示教精炼与技能迁移
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Human%20Demonstrations%20to%20Dexterous%20Skills&specialty=Demonstration%20Refinement%20%26%20Skill%20Transfer#research-workbench)
 
-> 1 conference papers · 16 recent arXiv papers
+> 3 conference papers · 18 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,18 +20,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (1)
+## Conference papers (3)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking | CVPR · Dexterous | [Paper](https://arxiv.org/abs/2610.33852) · [Index](https://dblp.org/rec/conf/cvpr/AdalibiekeHLQY26) | reviewed |
+| 2026 | Structural Action Transformer for 3D Dexterous Manipulation | CVPR · Dexterous | [Paper](https://arxiv.org/abs/2603.03960) · [Index](https://dblp.org/rec/conf/cvpr/LeiWWZL26) | rule-assigned |
 | 2023 | Dexterous Imitation Made Easy: A Learning-Based Framework for Efficient Dexterous Manipulation | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2203.13251) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160275) | rule-assigned |
 
-## Recent arXiv papers (16)
+## Recent arXiv papers (18)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-04 | Learning Object-Centric Motion Priors from Human for Robotic Dexterous Manipulation | Zhengdong Hong, Guofeng Zhang | [Abstract](https://arxiv.org/abs/2611.05979) · [PDF](https://arxiv.org/pdf/2611.05979) | reviewed |
 | 2026-10-30 | HandMimicX: Learning Human-Like Dexterous Manipulation via an Object-Centric Policy from Egocentric Videos | Zihan Gao, Yufei Liu, Yuhong Zhang, Zhen Yu et al. | [Abstract](https://arxiv.org/abs/2610.41336) · [PDF](https://arxiv.org/pdf/2610.41336) | rule-assigned |
 | 2026-10-29 | AcrossDEX 1.0: From Human Motion Pretraining to Bimanual Dexterous Manipulation across Hand Embodiments | Xiaoyu Yang, Nan Wu | [Abstract](https://arxiv.org/abs/2610.40210) · [PDF](https://arxiv.org/pdf/2610.40210) | reviewed |
+| 2026-10-24 | AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking | Jianibieke Adalibieke, Qianwei Han, Xueyi Liu, Yuzhe Qin et al. | [Abstract](https://arxiv.org/abs/2610.33852) · [PDF](https://arxiv.org/pdf/2610.33852) | reviewed |
 | 2026-10-21 | DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations | Mingze Sun, Ziang Cao, Yuan Fei, Qiankuan Tao et al. | [Abstract](https://arxiv.org/abs/2610.29997) · [PDF](https://arxiv.org/pdf/2610.29997) | reviewed |
 | 2026-10-12 | CopyQuad: Quadrupedal Skill Transfer from a Single Side-View Video Without a Depth Model | Mohamad H. Danesh, Raina Hu, Mengxue Xu, Hsiu-Chin Lin | [Abstract](https://arxiv.org/abs/2610.16737) · [PDF](https://arxiv.org/pdf/2610.16737) | rule-assigned |
 | 2026-10-10 | DexCast: Learning Real-World Dexterous Control from Human Videos | Zihan Gao, Yuhong Zhang, Mengzhe Wang, Kaisheng Liu et al. | [Abstract](https://arxiv.org/abs/2610.14691) · [PDF](https://arxiv.org/pdf/2610.14691) | rule-assigned |

@@ -1,7 +1,7 @@
 # Fall Prevention & Recovery · 跌倒预防与恢复
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Coordination%20%26%20Balance&specialty=Fall%20Prevention%20%26%20Recovery#research-workbench)
@@ -24,8 +24,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Iterative Learning-based Centre-of-Mass Impedance Control for Articulated-Soft Humanoid Robots | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697108) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697108) | rule-assigned |
-| 2026 | Mixture-of-Experts Policy for Smooth and Stable Multi-Posture Fall Recovery in Bipedal Robot | ICRA · Biped | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696734) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696734) | rule-assigned |
+| 2026 | Iterative Learning-based Centre-of-Mass Impedance Control for Articulated-Soft Humanoid Robots | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra57385.2026.11697108) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697108) | rule-assigned |
+| 2026 | Mixture-of-Experts Policy for Smooth and Stable Multi-Posture Fall Recovery in Bipedal Robot | ICRA · Biped | [Paper](https://doi.org/10.1109/icra57385.2026.11696734) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696734) | rule-assigned |
 | 2026 | MUJICA: Multi-skill Unified Joint Integration of Control Architecture for Wheeled-Legged Robots | ICRA · Legged | [Paper](https://arxiv.org/pdf/2605.13058) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696604) | rule-assigned |
 | 2026 | Unified Humanoid Fall-Safety Policy from A Few Demonstrations | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2511.07407) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696999) | rule-assigned |
 | 2025 | FRASA: An End-to-End Reinforcement Learning Agent for Fall Recovery and Stand Up of Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2410.08655) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128664) | rule-assigned |

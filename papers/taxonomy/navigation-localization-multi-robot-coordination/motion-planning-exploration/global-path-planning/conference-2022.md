@@ -1,7 +1,7 @@
 # Global Path Planning · 全局路径规划 · Conference 2022
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
@@ -19,9 +19,9 @@
 | 2022 | A Novel Perceptive Robotic Cane with Haptic Navigation for Enabling Vision-Independent Participation in the Social Dynamics of Seat Choice | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981219) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981219) | rule-assigned |
 | 2022 | AB-Mapper: Attention and BicNet based Multi-agent Path Planning for Dynamic Environment | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981513) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981513) | rule-assigned |
 | 2022 | Adaptive Coverage Path Planning for Efficient Exploration of Unknown Environments | IROS · Exploration | [Paper](https://arxiv.org/pdf/2302.03164) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982287) | rule-assigned |
-| 2022 | CGLR: Dense Multi-Agent Navigation Using Voronoi Cells and Congestion Metric-based Replanning | IROS · Navigation | [Paper](https://arxiv.org/abs/2202.11334) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982110) | rule-assigned |
+| 2022 | CGLR: Dense Multi-Agent Navigation Using Voronoi Cells and Congestion Metric-based Replanning | IROS · Navigation | [Paper](https://arxiv.org/pdf/2202.11334) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982110) | rule-assigned |
 | 2022 | Collision and Rollover-Free g2 Path Planning for Mobile Manipulation | IROS · Mobile Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981151) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981151) | rule-assigned |
-| 2022 | db-A*: Discontinuity-bounded Search for Kinodynamic Mobile Robot Motion Planning | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2203.11108) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981577) | rule-assigned |
+| 2022 | db-A*: Discontinuity-bounded Search for Kinodynamic Mobile Robot Motion Planning | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2203.11108) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981577) | rule-assigned |
 | 2022 | Efficient Sampling-Based Planning for Subterranean Exploration | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS47612.2022.9982169) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982169) | rule-assigned |
 | 2022 | Elevation State-Space: Surfel-Based Navigation in Uneven Environments for Mobile Robots | IROS · Navigation | [Paper](https://arxiv.org/abs/2208.08202) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981647) | rule-assigned |
 | 2022 | Fast 3D Sparse Topological Skeleton Graph Generation for Mobile Robot Global Planning | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2208.04248) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981397) | rule-assigned |
@@ -41,4 +41,4 @@
 | 2022 | Temporal Logic Path Planning under Localization Uncertainty | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981624) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981624) | rule-assigned |
 | 2022 | TIGRIS: An Informed Sampling-based Algorithm for Informative Path Planning | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2203.12830) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981992) | rule-assigned |
 | 2022 | DiPCAN: Distilling Privileged Information for Crowd-Aware Navigation | RSS · Navigation | [Paper](https://doi.org/10.15607/rss.2022.xviii.045) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.045) | rule-assigned |
-| 2022 | Sub-1.5 Time-Optimal Multi-Robot Path Planning on Grids in Polynomial Time | RSS · Path Planning | [Paper](https://doi.org/10.15607/rss.2022.xviii.057) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.057) | rule-assigned |
+| 2022 | Sub-1.5 Time-Optimal Multi-Robot Path Planning on Grids in Polynomial Time | RSS · Path Planning | [Paper](https://arxiv.org/abs/2201.08976) · [Index](https://dblp.org/rec/journals/corr/abs-2201-08976) | rule-assigned |

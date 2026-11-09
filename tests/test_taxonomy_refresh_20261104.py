@@ -93,15 +93,21 @@ class November4TaxonomyReviewTests(unittest.TestCase):
         cls.conference = json.loads((ROOT / "data/papers.json").read_text())["papers"]
 
     def test_ten_exact_arxiv_titles_have_legal_paths_and_no_conference_title_collision(self):
+        receipt = json.loads((ROOT / "data/catalog-refresh-2026-11-04.json").read_text())
+        admitted = receipt["layers"]["arxiv_recent.json"]["added"]
         keys = {normalize_text(case[0]) for case in CASES.values()}
-        matches = [p for p in self.arxiv["papers"] if normalize_text(p["title"]) in keys]
+        matches = [p for p in admitted if normalize_text(p["title"]) in keys]
         self.assertEqual(len(matches), len(CASES))
-        self.assertEqual({p["arxiv_id"] for p in matches}, set(CASES))
+        self.assertEqual({p["id"] for p in matches}, set(CASES))
         self.assertTrue(all(normalize_text(p["title"]) not in keys for p in self.conference))
+        historical_titles = {p["id"]: p["title"] for p in matches}
         for identifier, (title, path, _) in CASES.items():
             with self.subTest(identifier=identifier):
                 original = self.records[identifier]
-                self.assertEqual(original["title"], title)
+                self.assertEqual(historical_titles[identifier], title)
+                current_entry = OVERRIDES[normalize_text(original["title"])]
+                self.assertEqual(normalize_text(current_entry["title"]), normalize_text(original["title"]))
+                self.assertEqual(tuple(current_entry["path"]), path)
                 self.assertGreater(original["published"], "2026-10-30")
                 entry = OVERRIDES[normalize_text(title)]
                 self.assertEqual(entry["title"], title)

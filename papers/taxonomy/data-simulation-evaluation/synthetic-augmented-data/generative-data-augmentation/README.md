@@ -1,12 +1,12 @@
 # Generative Data Augmentation · 生成模型辅助数据
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Synthetic%20%26%20Augmented%20Data&specialty=Generative%20Data%20Augmentation#research-workbench)
 
-> 11 conference papers · 112 recent arXiv papers
+> 13 conference papers · 113 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,13 +20,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (11)
+## Conference papers (13)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | Video2Robo: 3DGS-based Synthetic Data from One Video Enables Scalable Robot Learning | CVPR · Synthetic Data | [Paper](https://www.semanticscholar.org/paper/69ce1f1f7d6799a7dcd2c34ab7868ce499f41f28) · [Index](https://dblp.org/rec/conf/cvpr/DengHCDWZAYY26) | rule-assigned |
 | 2026 | OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2509.26633) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696487) | rule-assigned |
+| 2025 | H2OFlow: Grounding Human-Object Affordances with 3D Generative Models and Dense Diffused Flows | ICLR · Affordance | [Paper](https://arxiv.org/abs/2510.21769) · [Index](https://dblp.org/rec/journals/corr/abs-2510-21769) | rule-assigned |
 | 2025 | Visually Robust Adversarial Imitation Learning from Videos with Contrastive Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2407.12792) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127595) | rule-assigned |
-| 2025 | Synthetica: Large Scale Synthetic Data Generation for Robot Perception | IROS · Synthetic Data | [Paper](https://arxiv.org/abs/2410.21153) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247126) | rule-assigned |
+| 2025 | Synthetica: Large Scale Synthetic Data Generation for Robot Perception | IROS · Synthetic Data | [Paper](https://arxiv.org/pdf/2410.21153) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247126) | rule-assigned |
 | 2025 | DexFlyWheel: A Scalable and Self-improving Data Generation Framework for Dexterous Manipulation | NeurIPS · Dexterous | [Paper](https://arxiv.org/abs/2509.23829) · [Index](https://dblp.org/rec/journals/corr/abs-2509-23829) | rule-assigned |
 | 2024 | Close the Sim2real Gap via Physically-based Structured Light Synthetic Data Simulation | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2407.12449) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611401) | rule-assigned |
 | 2024 | STARK: A Unified Framework for Strongly Coupled Simulation of Rigid and Deformable Bodies with Frictional Contact | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610574) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610574) | rule-assigned |
@@ -36,7 +38,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | GenAug: Retargeting behaviors to unseen situations via Generative Augmentation | RSS · Retargeting | [Paper](https://arxiv.org/abs/2302.06671) · [Index](https://dblp.org/rec/journals/corr/abs-2302-06671) | rule-assigned |
 | 2022 | Learning-based Ellipse Detection for Robotic Grasps of Cylinders and Ellipsoids | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra46639.2022.9812363) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812363) | rule-assigned |
 
-## Recent arXiv papers (112)
+## Recent arXiv papers (113)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -71,6 +73,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-03-25 | Towards automatic smoke detector inspection: Recognition of the smoke detectors in industrial facilities and preparation for future drone integration | Lukas Kratochvila, Jakub Stefansky, Simon Bilik, Robert Rous et al. | [Abstract](https://arxiv.org/abs/2603.24850) · [PDF](https://arxiv.org/pdf/2603.24850) | rule-assigned |
 | 2026-03-17 | ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K | Kaixuan Wang, Tianxing Chen, Jiawei Liu, Honghao Su et al. | [Abstract](https://arxiv.org/abs/2603.16866) · [PDF](https://arxiv.org/pdf/2603.16866) | rule-assigned |
 | 2026-03-06 | A Hazard-Informed Data Pipeline for Robotics Physical Safety | Alexei Odinokov, Rostislav Yavorskiy | [Abstract](https://arxiv.org/abs/2603.06130) · [PDF](https://arxiv.org/pdf/2603.06130) | rule-assigned |
+| 2026-02-21 | RoboCurate: Harnessing Diversity with Action-Verified Synthetic Data for Robot Learning | Seungku Kim, Suhyeok Jang, Byungjun Yoon, Dongyoung Kim et al. | [Abstract](https://arxiv.org/abs/2602.18742) · [PDF](https://arxiv.org/pdf/2602.18742) | rule-assigned |
 | 2026-02-21 | LaS-Comp: Zero-shot 3D Completion with Latent-Spatial Consistency | Weilong Yan, Haipeng Li, Hao Xu, Nianjin Ye et al. | [Abstract](https://arxiv.org/abs/2602.18735) · [PDF](https://arxiv.org/pdf/2602.18735) | rule-assigned |
 | 2026-02-13 | When Environments Shift: Safe Planning with Generative Priors and Robust Conformal Prediction | Kaizer Rahaman, Jyotirmoy V. Deshmukh, Ashish R. Hota, Lars Lindemann | [Abstract](https://arxiv.org/abs/2602.12616) · [PDF](https://arxiv.org/pdf/2602.12616) | rule-assigned |
 | 2026-02-06 | Realistic Synthetic Household Data Generation at Scale | Siddharth Singh, Ifrah Idrees, Abraham Dauhajre | [Abstract](https://arxiv.org/abs/2602.07243) · [PDF](https://arxiv.org/pdf/2602.07243) | rule-assigned |

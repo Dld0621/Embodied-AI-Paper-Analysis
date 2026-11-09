@@ -1,12 +1,12 @@
 # System Identification & Sim Calibration · 系统辨识与仿真校准
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Sim-to-real%20Transfer&specialty=System%20Identification%20%26%20Sim%20Calibration#research-workbench)
 
-> 1 conference papers · 17 recent arXiv papers
+> 2 conference papers · 18 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,13 +20,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (1)
+## Conference papers (2)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2025 | Adaptive Model-Based Control of Quadrupeds via Online System Identification using Kalman Filter | IROS · Quadruped | [Paper](https://arxiv.org/abs/2506.13432) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246753) | rule-assigned |
+| 2026 | D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping | ICLR · Dexterous | [Paper](https://arxiv.org/abs/2603.01151) · [Index](https://dblp.org/rec/journals/corr/abs-2603-01151) | reviewed |
+| 2025 | Adaptive Model-Based Control of Quadrupeds via Online System Identification using Kalman Filter | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2506.13432) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246753) | rule-assigned |
 
-## Recent arXiv papers (17)
+## Recent arXiv papers (18)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -35,6 +36,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-07-01 | Learning from Demonstration via Spatiotemporal Tubes for Unknown Euler-Lagrange Systems | Ratnangshu Das, Puneeth Shankar, Varuni Buereddy, Ravi Prakash et al. | [Abstract](https://arxiv.org/abs/2607.00534) · [PDF](https://arxiv.org/pdf/2607.00534) | rule-assigned |
 | 2026-03-10 | NanoBench: A Multi-Task Benchmark Dataset for Nano-Quadrotor System Identification, Control, and State Estimation | Syed Izzat Ullah, Jose Baca | [Abstract](https://arxiv.org/abs/2603.09908) · [PDF](https://arxiv.org/pdf/2603.09908) | rule-assigned |
 | 2026-03-08 | LITHE: Bridging Best-Effort Python and Real-Time C++ for Hot-Swapping Robotic Control Laws on Commodity Linux | He Kai Lim, Tyler R. Clites | [Abstract](https://arxiv.org/abs/2603.07442) · [PDF](https://arxiv.org/pdf/2603.07442) | rule-assigned |
+| 2026-03-01 | D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping | Haozhe Lou, Mingtong Zhang, Haoran Geng, Hanyang Zhou et al. | [Abstract](https://arxiv.org/abs/2603.01151) · [PDF](https://arxiv.org/pdf/2603.01151) | reviewed |
 | 2026-02-18 | System Identification under Constraints and Disturbance: A Bayesian Estimation Approach | Sergi Martinez, Steve Tonneau, Carlos Mastalli | [Abstract](https://arxiv.org/abs/2602.16358) · [PDF](https://arxiv.org/pdf/2602.16358) | rule-assigned |
 | 2025-12-16 | Nonlinear System Identification Nano-drone Benchmark | Riccardo Busetto, Elia Cereda, Marco Forgione, Gabriele Maroni et al. | [Abstract](https://arxiv.org/abs/2512.14450) · [PDF](https://arxiv.org/pdf/2512.14450) | rule-assigned |
 | 2025-06-19 | DRIVE Through the Unpredictability:From a Protocol Investigating Slip to a Metric Estimating Command Uncertainty | Nicolas Samson, William Larrivée-Hardy, William Dubois, Élie Roy-Brouard et al. | [Abstract](https://arxiv.org/abs/2506.16593) · [PDF](https://arxiv.org/pdf/2506.16593) | rule-assigned |

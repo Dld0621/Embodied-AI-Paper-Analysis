@@ -1,12 +1,12 @@
 # Global Path Planning · 全局路径规划 · arXiv 2023
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 41 papers · complete list for this taxonomy leaf
+> 39 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -49,5 +49,3 @@
 | 2023-11-11 | Five-Tiered Route Planner for Multi-AUV Accessing Fixed Nodes in Uncertain Ocean Environments | Jiaxin Zhang, Meiqin Liu, Senlin Zhang, Ronghao Zheng et al. | [Abstract](https://arxiv.org/abs/2311.06579) · [PDF](https://arxiv.org/pdf/2311.06579) | rule-assigned |
 | 2023-11-09 | Improving Human Legibility in Collaborative Robot Tasks through Augmented Reality and Workspace Preparation | Yi-Shiuan Tung, Matthew B. Luebbers, Alessandro Roncone, Bradley Hayes | [Abstract](https://arxiv.org/abs/2311.05562) · [PDF](https://arxiv.org/pdf/2311.05562) | rule-assigned |
 | 2023-11-09 | FogROS2-Config: Optimizing Latency and Cost for Multi-Cloud Robot Applications | Kaiyuan Chen, Kush Hari, Rohil Khare, Charlotte Le et al. | [Abstract](https://arxiv.org/abs/2311.05600) · [PDF](https://arxiv.org/pdf/2311.05600) | rule-assigned |
-| 2023-11-06 | IR-STP: Enhancing Autonomous Driving with Interaction Reasoning in Spatio-Temporal Planning | Yingbing Chen, Jie Cheng, Lu Gan, Sheng Wang et al. | [Abstract](https://arxiv.org/abs/2311.02850) · [PDF](https://arxiv.org/pdf/2311.02850) | rule-assigned |
-| 2023-11-06 | iDb-A*: Iterative Search and Optimization for Optimal Kinodynamic Motion Planning | Joaquim Ortiz-Haro, Wolfgang Hoenig, Valentin N. Hartmann, Marc Toussaint | [Abstract](https://arxiv.org/abs/2311.03553) · [PDF](https://arxiv.org/pdf/2311.03553) | rule-assigned |

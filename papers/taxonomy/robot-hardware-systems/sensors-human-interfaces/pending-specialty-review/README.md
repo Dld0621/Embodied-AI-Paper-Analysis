@@ -1,7 +1,7 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Sensors%20%26%20Human%20Interfaces&specialty=Pending%20specialty%20review#research-workbench)
@@ -25,7 +25,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | CDF-Glove: A Cable-Driven Force Feedback Glove for Dexterous Teleoperation | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2603.05804) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696309) | needs-review |
-| 2026 | MIMO: A Multimodal Imitation Learning Framework for Mobile Manipulation with Exoskeleton-VR Teleoperation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697478) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697478) | needs-review |
+| 2026 | MIMO: A Multimodal Imitation Learning Framework for Mobile Manipulation with Exoskeleton-VR Teleoperation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11697478) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697478) | needs-review |
 | 2026 | SpikeATac: A Multimodal Tactile Finger with Taxelized Dynamic Sensing for Dexterous Manipulation | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2510.27048) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696054) | needs-review |
 | 2025 | Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning | IROS · Dexterous | [Paper](https://arxiv.org/pdf/2503.01543) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246287) | needs-review |
 | 2024 | Sensorized Soft Skin for Dexterous Robotic Hands | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2404.19448) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611404) | needs-review |

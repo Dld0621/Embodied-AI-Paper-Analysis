@@ -1,12 +1,12 @@
 # Hand-object Interaction Reconstruction · 手—物交互重建
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Human%20%26%20Hand-object%20Perception&specialty=Hand-object%20Interaction%20Reconstruction#research-workbench)
 
-> 6 conference papers · 15 recent arXiv papers
+> 8 conference papers · 16 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (6)
+## Conference papers (8)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | Glove2Hand: Synthesizing Natural Hand-Object Interaction from Multi-Modal Sensing Gloves | CVPR · Hand Object | [Paper](https://arxiv.org/abs/2603.20850) · [Index](https://dblp.org/rec/journals/corr/abs-2603-20850) | rule-assigned |
+| 2026 | HO-Flow: Generalizable Hand-Object Interaction Generation with Latent Flow Matching | ECCV · Hand Object | [Paper](https://arxiv.org/abs/2604.10836) · [Index](https://dblp.org/rec/conf/eccv/ChenPCDSZ26) | rule-assigned |
 | 2025 | Hand-Object Interaction Pretraining from Videos | ICRA · Hand Object | [Paper](https://arxiv.org/pdf/2409.08273) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127811) | rule-assigned |
 | 2025 | Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos | IROS · Hand Object | [Paper](https://arxiv.org/pdf/2405.04370) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247704) | rule-assigned |
 | 2025 | MEgoHand: Multimodal Egocentric Hand-Object Interaction Motion Generation | NeurIPS · Hand Object | [Paper](https://arxiv.org/abs/2505.16602) · [Index](https://dblp.org/rec/journals/corr/abs-2505-16602) | rule-assigned |
@@ -31,10 +33,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | HandNeRF: Learning to Reconstruct Hand-Object Interaction Scene from a Single RGB Image | ICRA · Hand Object | [Paper](https://arxiv.org/pdf/2309.07891) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611230) | rule-assigned |
 | 2024 | HandyPriors: Physically Consistent Perception of Hand-Object Interactions with Differentiable Priors | ICRA · Hand Object | [Paper](https://arxiv.org/pdf/2311.16552) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610748) | rule-assigned |
 
-## Recent arXiv papers (15)
+## Recent arXiv papers (16)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-05 | HaNDF: Object-Conditioned Geometric Neural Hand Distance Fields | Zuhao Liu, Melih Darcan, Zhengdi Yu, Riza Alp Guler et al. | [Abstract](https://arxiv.org/abs/2611.08578) · [PDF](https://arxiv.org/pdf/2611.08578) | rule-assigned |
 | 2026-10-07 | RLHND: Video Foundation Models as Physically Grounded Hand Trackers for Robot Learning | Seungjun Moon, Subin Jeon, Sangwoo Kim, Hanbyul Joo et al. | [Abstract](https://arxiv.org/abs/2610.09455) · [PDF](https://arxiv.org/pdf/2610.09455) | rule-assigned |
 | 2026-10-06 | Reactive Task-Oriented Robot-Human Handovers via Generative Hypothesis Selection | Carmen Scheidemann, Andreea Tulbure, Pascal Burkhardt, Marco Hutter | [Abstract](https://arxiv.org/abs/2610.08003) · [PDF](https://arxiv.org/pdf/2610.08003) | rule-assigned |
 | 2026-10-02 | World Action Learning via Interaction-Centric Spectral Latent Guidance | Zhiming Liu, Yikun Miao, Ying Chen, Hongrui Yin et al. | [Abstract](https://arxiv.org/abs/2610.03607) · [PDF](https://arxiv.org/pdf/2610.03607) | rule-assigned |

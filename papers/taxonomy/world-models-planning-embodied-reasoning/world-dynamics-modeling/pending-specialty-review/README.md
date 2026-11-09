@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=World%20%26%20Dynamics%20Modeling&specialty=Pending%20specialty%20review#research-workbench)
 
-> 14 conference papers · 84 recent arXiv papers
+> 17 conference papers · 86 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,15 +20,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (14)
+## Conference papers (17)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | Target-Bench: Can Video World Models Achieve Mapless Path Planning with Semantic Targets? | ECCV · Path Planning | [Paper](https://arxiv.org/pdf/2511.17792) · [Publisher](https://doi.org/10.1007/978-3-032-37092-1_23) | needs-review |
+| 2026 | What if? Emulative Simulation with World Models for Situated Reasoning | ECCV · Simulation | [Paper](https://arxiv.org/abs/2603.06445) · [Index](https://dblp.org/rec/journals/corr/abs-2603-06445) | needs-review |
 | 2026 | Goal-VLA: Image-Generative VLMs as Object-Centric World Models Empowering Zero-shot Robot Manipulation | ICRA · Vla | [Paper](https://arxiv.org/pdf/2506.23919) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696379) | needs-review |
 | 2025 | Learning 4D Embodied World Models | ICCV · World Model | [Paper](https://doi.org/10.1109/ICCV51701.2025.00507) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00507) | needs-review |
 | 2025 | FOSP: Fine-tuning Offline Safe Policy through World Models | ICLR · World Model | [Paper](https://arxiv.org/abs/2407.04942) · [Index](https://dblp.org/rec/conf/iclr/CaoXWHYT025) | needs-review |
 | 2025 | Learning View-invariant World Models for Visual Robotic Manipulation | ICLR · Manipulation | [Paper](https://www.semanticscholar.org/paper/33098a2681013c4a39246dd638e1234da5478530) · [Index](https://dblp.org/rec/conf/iclr/PangTLTCZ0S025) | needs-review |
-| 2025 | SR-AIF: Solving Sparse-Reward Robotic Tasks From Pixels with Active Inference and World Models | ICRA · World Model | [Paper](https://arxiv.org/abs/2409.14216) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127713) | needs-review |
+| 2025 | Vid2World: Crafting Video Diffusion Models to Interactive World Models | ICLR · World Model | [Paper](https://arxiv.org/abs/2505.14357) · [Index](https://dblp.org/rec/journals/corr/abs-2505-14357) | needs-review |
+| 2025 | SR-AIF: Solving Sparse-Reward Robotic Tasks From Pixels with Active Inference and World Models | ICRA · World Model | [Paper](https://arxiv.org/pdf/2409.14216) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127713) | needs-review |
 | 2025 | Agents Robust to Distribution Shifts Learn Causal World Models Even Under Mediation | NeurIPS · World Model | [Paper](https://doi.org/10.52202/085713-2602) · [Publisher](https://doi.org/10.52202/085713-2602) | needs-review |
 | 2025 | RLVR-World: Training World Models with Reinforcement Learning | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2505.13934) · [Index](https://dblp.org/rec/journals/corr/abs-2505-13934) | needs-review |
 | 2025 | WorldModelBench: Judging Video Generation Models As World Models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2502.20694) · [Index](https://dblp.org/rec/conf/nips/LiFCYCWLWYGSHL25) | needs-review |
@@ -39,10 +42,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Multi-View Masked World Models for Visual Robotic Manipulation | ICML · Multi-view world models | [Paper](https://proceedings.mlr.press/v202/seo23a.html) · [Official](https://proceedings.mlr.press/v202/seo23a.html) | needs-review |
 | 2022 | Masked World Models for Visual Control | CoRL · Visual world models | [Paper](https://proceedings.mlr.press/v205/seo23a.html) · [Official](https://proceedings.mlr.press/v205/seo23a.html) | needs-review |
 
-## Recent arXiv papers (84)
+## Recent arXiv papers (86)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-05 | Learning Robotic World Models with Semantic and Visual Feedback | Hao Wu, Yuqi Li, Yizhou Zhao, Kun Wang et al. | [Abstract](https://arxiv.org/abs/2611.07850) · [PDF](https://arxiv.org/pdf/2611.07850) | needs-review |
+| 2026-11-04 | Detecting Silent Action-Interface Mismatch with Calibrated Relational World Models | Rui Zhu, Xurui Li, Haixu Tang | [Abstract](https://arxiv.org/abs/2611.06653) · [PDF](https://arxiv.org/pdf/2611.06653) | needs-review |
 | 2026-10-24 | WorldFailBench: Do World Models Understand Policy Failures? | Zheng Zhang, Xiaoyang Tang, Shuaiqi Cheng, Jiakai Huang et al. | [Abstract](https://arxiv.org/abs/2610.33565) · [PDF](https://arxiv.org/pdf/2610.33565) | needs-review |
 | 2026-10-24 | RoboWorM: Evaluating Movement Realism, Consistency and Acceleration Affects in Embodied Video World Models | Doanh Le Thien, Viet-Thanh Nguyen, Pham Tri Quang, Nhi Pham et al. | [Abstract](https://arxiv.org/abs/2610.33807) · [PDF](https://arxiv.org/pdf/2610.33807) | needs-review |
 | 2026-10-21 | PhysiCalWorld: In-Context Physics Calibration for World Models | Yunhao Luo, Wentao He, Yinpei Dai, Hyelin Nam et al. | [Abstract](https://arxiv.org/abs/2610.30125) · [PDF](https://arxiv.org/pdf/2610.30125) | needs-review |

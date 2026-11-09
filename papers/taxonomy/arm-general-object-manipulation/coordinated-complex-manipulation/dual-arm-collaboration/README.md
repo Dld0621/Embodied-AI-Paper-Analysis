@@ -1,12 +1,12 @@
 # Dual-arm Collaboration · 双臂协作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Dual-arm%20Collaboration#research-workbench)
 
-> 47 conference papers · 168 recent arXiv papers
+> 51 conference papers · 171 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,24 +20,28 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (47)
+## Conference papers (51)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | Action-Geometry Prediction with 3D Geometric Prior for Bimanual Manipulation | CVPR · Bimanual | [Paper](https://arxiv.org/abs/2602.23814) · [Index](https://dblp.org/rec/conf/cvpr/XuLCFFL26) | rule-assigned |
+| 2026 | Abstracting Robot Manipulation Skills via Mixture-of-Experts Diffusion Policies | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2601.21251) · [Index](https://dblp.org/rec/conf/iclr/HaoZLS26) | rule-assigned |
+| 2026 | When would Vision-Proprioception Policies Fail in Robotic Manipulation? | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2602.12032) · [Index](https://dblp.org/rec/journals/corr/abs-2602-12032) | rule-assigned |
 | 2026 | A Computationally Efficient Nonparametric Approach for Robot Imitation Learning | ICRA · Imitation Learning | [Paper](https://elib.dlr.de/222563/1/ICRA26_2776_FI.pdf) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696310) | rule-assigned |
 | 2026 | ActiveUMI: Robotic Manipulation with Active Perception from Robot-Free Human Demonstrations | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2510.01607) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696372) | rule-assigned |
 | 2026 | Adaptive Diffusion Constrained Sampling for Bimanual Robot Manipulation | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2505.13667) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696510) | rule-assigned |
 | 2026 | BiGraspFormer: End-to-End Bimanual Grasp Transformer | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2509.19142) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696482) | rule-assigned |
-| 2026 | GSWorld: Closed-Loop Photorealistic Simulation Suite for Robot Manipulation | ICRA · Simulation | [Paper](https://arxiv.org/abs/2510.20813) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697084) | rule-assigned |
+| 2026 | GSWorld: Closed-Loop Photorealistic Simulation Suite for Robot Manipulation | ICRA · Simulation | [Paper](https://doi.org/10.1109/icra57385.2026.11697084) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697084) | rule-assigned |
 | 2026 | MiniBEE: A New Form Factor for Compact Bimanual Dexterity | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2510.01603) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696911) | rule-assigned |
 | 2026 | MonoDuo: Using One Robot Arm to Learn Bimanual Policies | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2605.29298) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696275) | rule-assigned |
-| 2026 | PA-BiCoop: A Primary-Auxiliary Cooperative Framework for General Bimanual Manipulation | ICRA · Bimanual | [Paper](https://arxiv.org/abs/2606.28192) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697181) | rule-assigned |
+| 2026 | PA-BiCoop: A Primary-Auxiliary Cooperative Framework for General Bimanual Manipulation | ICRA · Bimanual | [Paper](https://doi.org/10.1109/icra57385.2026.11697181) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697181) | rule-assigned |
 | 2026 | RoTri-Diff: A Spatial Robot–Object Triadic Interaction-Guided Diffusion Model for Bimanual Manipulation | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2603.07165) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695867) | rule-assigned |
 | 2026 | TOCALib: Optimal control library with interpolation for bimanual manipulation and obstacles avoidance | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2504.07708) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697527) | rule-assigned |
 | 2025 | MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data | CVPR · Robot Hand | [Paper](https://arxiv.org/pdf/2501.04595) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01614) | rule-assigned |
 | 2025 | Diffusion-Based Imaginative Coordination for Bimanual Manipulation | ICCV · Bimanual | [Paper](https://arxiv.org/pdf/2507.11296) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01067) | rule-assigned |
 | 2025 | Rethinking Bimanual Robotic Manipulation: Learning with Decoupled Interaction Framework | ICCV · Bimanual | [Paper](https://arxiv.org/pdf/2503.09186) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01155) | rule-assigned |
 | 2025 | RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation | ICLR · Bimanual foundation model | [Paper](https://arxiv.org/abs/2410.07864) · [Official](https://proceedings.iclr.cc/paper_files/paper/2025/hash/49f80e4d2471ad4f2edf4f5f1ab62339-Abstract-Conference.html) · [Code](https://github.com/thu-ml/RoboticsDiffusionTransformer) | rule-assigned |
+| 2025 | VLBiMan: Vision-Language Anchored One-Shot Demonstration Enables Generalizable Bimanual Robotic Manipulation | ICLR · Bimanual | [Paper](https://arxiv.org/abs/2509.21723) · [Index](https://dblp.org/rec/journals/corr/abs-2509-21723) | rule-assigned |
 | 2025 | Da-Vil: Adaptive Dual-Arm Manipulation with Reinforcement Learning and Variable Impedance Control | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2410.19712) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127487) | rule-assigned |
 | 2025 | Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover | ICRA · Robot Hand | [Paper](https://arxiv.org/pdf/2408.14997) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128648) | rule-assigned |
 | 2025 | EgoMimic: Scaling Imitation Learning via Egocentric Video | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2410.24221) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127989) | rule-assigned |
@@ -56,7 +60,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Learning Dual-arm Object Rearrangement for Cartesian Robots | ICRA · Object Rearrangement | [Paper](https://arxiv.org/pdf/2402.13634) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610573) | rule-assigned |
 | 2024 | APEX: Ambidextrous Dual-Arm Robotic Manipulation Using Collision-Free Generative Diffusion Models | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2404.02284) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802655) | rule-assigned |
 | 2024 | Constrained 6-DoF Grasp Generation on Complex Shapes for Improved Dual-Arm Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2404.04643) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802268) | rule-assigned |
-| 2024 | Efficient Tactile Sensing-based Learning from Limited Real-world Demonstrations for Dual-arm Fine Pinch-Grasp Skills | IROS · Grasp | [Paper](https://discovery.ucl.ac.uk/id/eprint/10210062/1/Tactip_LfD_RAL%20%281%29.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802651) | rule-assigned |
+| 2024 | Efficient Tactile Sensing-based Learning from Limited Real-world Demonstrations for Dual-arm Fine Pinch-Grasp Skills | IROS · Grasp | [Paper](https://arxiv.org/pdf/2307.04619) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802651) | rule-assigned |
 | 2024 | Formalization of Temporal and Spatial Constraints of Bimanual Manipulation Categories | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS58592.2024.10801861) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801861) | rule-assigned |
 | 2024 | Learning Bimanual Manipulation Policies for Bathing Bed-bound People | IROS · Bimanual | [Paper](https://hdl.handle.net/10044/1/118859) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801478) | rule-assigned |
 | 2024 | Multi-task real-robot data with gaze attention for dual-arm fine manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2401.07603) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802034) | rule-assigned |
@@ -72,10 +76,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Temporal Task Models from Human Bimanual Demonstrations | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS47612.2022.9981068) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981068) | rule-assigned |
 | 2022 | Nonlinear Model Predictive Control for Human-Robot Handover with Application to the Aerial Case | IROS · Robot Hand | [Paper](https://hal.science/hal-03716664) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981045) | rule-assigned |
 
-## Recent arXiv papers (168)
+## Recent arXiv papers (171)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | On Agentic Manipulation Policies | Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji, Jesse T. Gonzalez et al. | [Abstract](https://arxiv.org/abs/2611.09892) · [PDF](https://arxiv.org/pdf/2611.09892) | rule-assigned |
+| 2026-11-05 | Dual-Arm Tabletop Rearrangement with Movable Stacking and Gap-Aware Push Transfers | Mohammadreza Firoozalizadeh, Zakiye Rostamirad, Arman Barghi, Ahmad Kalhor et al. | [Abstract](https://arxiv.org/abs/2611.07726) · [PDF](https://arxiv.org/pdf/2611.07726) | rule-assigned |
 | 2026-11-02 | AIRoA-0: Long-Horizon, Precise, Cross-Embodiment Manipulation from Handheld Data | Yueh-Hua Wu, Kei Ota, Hanlong Li, Hayata Yuasa et al. | [Abstract](https://arxiv.org/abs/2611.03815) · [PDF](https://arxiv.org/pdf/2611.03815) | rule-assigned |
 | 2026-10-31 | Auriga Technical Report: A Task-Agnostic Agent Harness for Zero-Shot Embodied Manipulation | Chengcheng Wang, Yuheng Shi, Siyu Xu, Yutong Wang et al. | [Abstract](https://arxiv.org/abs/2611.01112) · [PDF](https://arxiv.org/pdf/2611.01112) | rule-assigned |
 | 2026-10-30 | Direct Action-Manifold Modeling for Efficient and Robust Bimanual Manipulation | Hongren Wang, Mingyu You, Zihan Li, Zhipeng Wang et al. | [Abstract](https://arxiv.org/abs/2610.41643) · [PDF](https://arxiv.org/pdf/2610.41643) | rule-assigned |
@@ -83,6 +89,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-10-27 | GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation | Yang Liu, Xiaoli Liu, Liuzhao Li, Yuduo Song et al. | [Abstract](https://arxiv.org/abs/2610.37091) · [PDF](https://arxiv.org/pdf/2610.37091) | rule-assigned |
 | 2026-10-25 | X-World: Transferring Video Priors to Variable-View Robot Control | Chun Gu, Xiaofei Wei, Yiming Chen, Juntong Zhang et al. | [Abstract](https://arxiv.org/abs/2610.34105) · [PDF](https://arxiv.org/pdf/2610.34105) | rule-assigned |
 | 2026-10-21 | Training in Deployment: Human-in-the-loop Online Post-Training for Robot Manipulation | Chun Gu, Xiaofei Wei, Yiming Chen, Bozhou Zhang et al. | [Abstract](https://arxiv.org/abs/2610.29264) · [PDF](https://arxiv.org/pdf/2610.29264) | rule-assigned |
+| 2026-10-16 | HexaShell: A Universal Harness for Robot Coding Agents in Simulation and the Real World | Hongcheng Gao, Jianshu Zeng, Alex Zhou, Shijia Ge et al. | [Abstract](https://arxiv.org/abs/2610.23479) · [PDF](https://arxiv.org/pdf/2610.23479) | rule-assigned |
 | 2026-10-16 | GRASP: Global-Local Representation Alignment and Spatial-Physical Grounding for Bimanual Robotic Manipulation | Zeyuan Ren, Guanxun Zhao, Qi Li, Hao Wang et al. | [Abstract](https://arxiv.org/abs/2610.23123) · [PDF](https://arxiv.org/pdf/2610.23123) | rule-assigned |
 | 2026-10-16 | Embodiment-Aware Planning for Heterogeneous Bimanual Manipulation | Sukhvansh Jain, Anurag Maurya, Shivam Vats, Narendra Kumar Dhar et al. | [Abstract](https://arxiv.org/abs/2610.23551) · [PDF](https://arxiv.org/pdf/2610.23551) | rule-assigned |
 | 2026-10-14 | Dual-arm Cooperation for Tabletop Wiping with Temporal Object Removal | Pengqi Zhang, Longchang Yu, Daohan Li, Liang Yan et al. | [Abstract](https://arxiv.org/abs/2610.19527) · [PDF](https://arxiv.org/pdf/2610.19527) | rule-assigned |

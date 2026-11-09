@@ -1,12 +1,12 @@
 # Failure Detection & Replanning · 失败检测、纠错与重规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Memory%20%26%20Autonomous%20Execution&specialty=Failure%20Detection%20%26%20Replanning#research-workbench)
 
-> 10 conference papers · 163 recent arXiv papers
+> 11 conference papers · 164 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,11 +20,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (10)
+## Conference papers (11)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | CorrectManip: A Data-Driven Closed-Loop Framework for Autonomous Skill Learning with Failure Recovery | ICRA · Skill Learning | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696724) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696724) | rule-assigned |
+| 2026 | Self-Refining Vision Language Model for Robotic Failure Detection and Reasoning | ICLR · Language Model | [Paper](https://arxiv.org/abs/2602.12405) · [Index](https://dblp.org/rec/journals/corr/abs-2602-12405) | rule-assigned |
+| 2026 | CorrectManip: A Data-Driven Closed-Loop Framework for Autonomous Skill Learning with Failure Recovery | ICRA · Skill Learning | [Paper](https://doi.org/10.1109/icra57385.2026.11696724) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696724) | rule-assigned |
 | 2026 | Failure Identification in Imitation Learning via Statistical and Semantic Filtering | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2604.13788) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696900) | rule-assigned |
 | 2026 | I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2509.16072) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695934) | rule-assigned |
 | 2026 | Seeing Farther and Smarter: Value-Guided Multi-Path Reflection for VLM Policy Optimization | ICRA · Vlm | [Paper](https://arxiv.org/pdf/2602.19372) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695749) | rule-assigned |
@@ -35,10 +36,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots | IROS · Llm | [Paper](https://arxiv.org/pdf/2507.05118) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246320) | rule-assigned |
 | 2023 | BITS: Bi-level Imitation for Traffic Simulation | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2208.12403) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161167) | rule-assigned |
 
-## Recent arXiv papers (163)
+## Recent arXiv papers (164)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-05 | Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement | Wenbo Huang, Jianxin Bi, Shunyu Yang, Ruiyang Si et al. | [Abstract](https://arxiv.org/abs/2611.08318) · [PDF](https://arxiv.org/pdf/2611.08318) | rule-assigned |
 | 2026-11-03 | DiMuRe: Diagnosis-Guided Multilevel Recovery for Robotic Task Execution | Renkai Yi, Yuwei Wu, Haoyu Zhang, Penghao Dai et al. | [Abstract](https://arxiv.org/abs/2611.04226) · [PDF](https://arxiv.org/pdf/2611.04226) | reviewed |
 | 2026-10-29 | LOGIV: Graph-Verified Execution with Causal Local Repair for Long-Horizon Robot Tasks | Enqiao Lu, Yuxiang Xie, Xingrui Yu, Yuyang Wang et al. | [Abstract](https://arxiv.org/abs/2610.40016) · [PDF](https://arxiv.org/pdf/2610.40016) | reviewed |
 | 2026-10-29 | Assuring Learning-Enabled Cyber-Physical Systems with Foundation Models: A Neuro-Symbolic Agenda for Testing, Verification, and Runtime Assurance | Xi Zheng, Ivan Ruchkin, Hong Jin Kang, Tevfik Bultan et al. | [Abstract](https://arxiv.org/abs/2610.39547) · [PDF](https://arxiv.org/pdf/2610.39547) | rule-assigned |

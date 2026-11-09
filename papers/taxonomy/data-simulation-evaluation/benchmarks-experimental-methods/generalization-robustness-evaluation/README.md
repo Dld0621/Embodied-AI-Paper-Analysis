@@ -1,12 +1,12 @@
 # Generalization & Robustness Evaluation · 泛化与鲁棒性评测
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Experimental%20Methods&specialty=Generalization%20%26%20Robustness%20Evaluation#research-workbench)
 
-> 0 conference papers · 8 recent arXiv papers
+> 0 conference papers · 9 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (8)
+## Recent arXiv papers (9)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | Auditing Grasp Feasibility Predictors with Planner-Verified Counterfactuals | Sajid Ansari, Antony Thomas, Girish Varma | [Abstract](https://arxiv.org/abs/2611.09130) · [PDF](https://arxiv.org/pdf/2611.09130) | reviewed |
 | 2026-10-10 | Can Synthetic UAV Benchmarks Be Trusted? Real-Synthetic Validation for UAV Model Selection | Yuyi Zhi, Min Du, Bill Shi, Guodong Yuan et al. | [Abstract](https://arxiv.org/abs/2610.14647) · [PDF](https://arxiv.org/pdf/2610.14647) | rule-assigned |
 | 2026-09-19 | Geometric Coherence via Weighted Matching for 3D Heterogeneous Multi-Agent Reach-Avoid Games | Prajwal Vijay | [Abstract](https://arxiv.org/abs/2610.06882) · [PDF](https://arxiv.org/pdf/2610.06882) | rule-assigned |
 | 2026-08-18 | ControlledShifts: Towards Standardizing Robustness Evaluation in Trajectory Prediction Under Distribution Shifts | Ingrid Navarro, Pablo Ortega-Kral, Yutong Duan, Jonathan Francis et al. | [Abstract](https://arxiv.org/abs/2608.17882) · [PDF](https://arxiv.org/pdf/2608.17882) | rule-assigned |

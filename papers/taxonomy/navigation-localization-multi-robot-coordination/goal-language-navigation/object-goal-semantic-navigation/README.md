@@ -1,7 +1,7 @@
 # Object-goal & Semantic Navigation · 物体目标与语义导航
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Goal%20%26%20Language%20Navigation&specialty=Object-goal%20%26%20Semantic%20Navigation#research-workbench)
@@ -30,7 +30,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | RAVEN: Resilient Aerial Navigation via Open-Set Semantic Memory and Behavior Adaptation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2509.23563) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696892) | rule-assigned |
 | 2026 | SSMG-Nav: Enhancing Lifelong Object Navigation with Semantic Skeleton Memory Graph | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2603.01813) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697433) | rule-assigned |
 | 2026 | Strive: Structured Representation Integrating VLM Reasoning for Efficient Object Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2505.06729) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696623) | rule-assigned |
-| 2026 | VLION: Vision-Language Guided Interactive Object Navigation with Mobile Manipulation | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696398) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696398) | rule-assigned |
+| 2026 | VLION: Vision-Language Guided Interactive Object Navigation with Mobile Manipulation | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra57385.2026.11696398) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696398) | rule-assigned |
 | 2025 | Active Perception Meets Rule-Guided RL: A Two-Phase Approach for Precise Object Navigation in Complex Environments | ICCV · Navigation | [Paper](https://doi.org/10.1109/ICCV51701.2025.00713) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00713) | rule-assigned |
 | 2025 | Multi-Floor Zero-Shot Object Navigation Policy | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.10906) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128607) | rule-assigned |
 | 2025 | Transferring Visual Knowledge: Semi-Supervised Instance Segmentation for Object Navigation Across Varying Height Viewpoints | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128621) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128621) | rule-assigned |

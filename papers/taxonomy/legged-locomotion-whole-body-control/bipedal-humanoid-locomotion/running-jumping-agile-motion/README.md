@@ -1,12 +1,12 @@
 # Running, Jumping & Agile Motion · 跑跳与敏捷运动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Running%2C%20Jumping%20%26%20Agile%20Motion#research-workbench)
 
-> 21 conference papers · 111 recent arXiv papers
+> 22 conference papers · 114 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (21)
+## Conference papers (22)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | Towards Motion Turing Test: Evaluating Human-Likeness in Humanoid Robots | CVPR · Humanoid | [Paper](https://arxiv.org/abs/2603.06181) · [Index](https://dblp.org/rec/conf/cvpr/LiLWLZYXZWXSW26) | rule-assigned |
 | 2025 | Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2409.15610) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127320) | rule-assigned |
 | 2025 | Realtime Limb Trajectory Optimization for Humanoid Running Through Centroidal Angular Momentum Dynamics | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2501.17351) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127382) | rule-assigned |
 | 2025 | Robust Robot Walker: Learning Agile Locomotion over Tiny Traps | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2409.07409) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128309) | rule-assigned |
@@ -31,9 +32,9 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Learning Visual Parkour from Generated Images | CoRL · Parkour | [Paper](https://arxiv.org/abs/2411.00083) · [Index](https://dblp.org/rec/conf/corl/YuYCRLI24) | rule-assigned |
 | 2024 | Extreme Parkour with Legged Robots | ICRA · Legged | [Paper](https://arxiv.org/pdf/2309.14341) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610200) | rule-assigned |
 | 2024 | Learning Agile Locomotion and Adaptive Behaviors via RL-augmented MPC | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2310.09442) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610453) | rule-assigned |
-| 2024 | Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End | ICRA · Legged | [Paper](https://arxiv.org/abs/2310.03581) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611254) | rule-assigned |
-| 2024 | SpaceHopper: A Small-Scale Legged Robot for Exploring Low-Gravity Celestial Bodies | ICRA · Legged | [Paper](https://arxiv.org/abs/2403.02831) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610057) | rule-assigned |
-| 2024 | Learning Agile Locomotion on Risky Terrains | IROS · Locomotion | [Paper](https://arxiv.org/abs/2311.10484) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801909) | rule-assigned |
+| 2024 | Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End | ICRA · Legged | [Paper](https://arxiv.org/pdf/2310.03581) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611254) | rule-assigned |
+| 2024 | SpaceHopper: A Small-Scale Legged Robot for Exploring Low-Gravity Celestial Bodies | ICRA · Legged | [Paper](https://arxiv.org/pdf/2403.02831) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610057) | rule-assigned |
+| 2024 | Learning Agile Locomotion on Risky Terrains | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2311.10484) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801909) | rule-assigned |
 | 2024 | LEEPS: Learning End-to-End Legged Perceptive Parkour Skills on Challenging Terrains | IROS · Legged | [Paper](https://doi.org/10.1109/IROS58592.2024.10801925) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801925) | rule-assigned |
 | 2023 | Generalized Animal Imitator: Agile Locomotion with Versatile Motion Prior | CoRL · Locomotion | [Paper](https://arxiv.org/pdf/2310.01408) · [Index](https://dblp.org/rec/journals/corr/abs-2310-01408) | rule-assigned |
 | 2023 | Robot Parkour Learning | CoRL · Parkour | [Paper](https://arxiv.org/pdf/2309.05665) · [Index](https://dblp.org/rec/journals/corr/abs-2309-05665) | rule-assigned |
@@ -46,10 +47,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Scalable Simulation and Demonstration of Jumping Piezoelectric 2-D Soft Robots | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2202.13521) · [Publisher](https://doi.org/10.1109/ICRA46639.2022.9811927) | rule-assigned |
 | 2022 | SMORS: A soft multirotor UAV for multimodal locomotion and robust interaction | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2204.02165) · [Index](https://dblp.org/rec/conf/icra/RyllK22) | rule-assigned |
 
-## Recent arXiv papers (111)
+## Recent arXiv papers (114)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-05 | Terrain-Indexed Motion Priors and Geometric Support for Extreme Humanoid Parkour | Chenghao Sun, Youhao Lyu, Zizheng Li, Shuting Zhang et al. | [Abstract](https://arxiv.org/abs/2611.08056) · [PDF](https://arxiv.org/pdf/2611.08056) | rule-assigned |
+| 2026-11-05 | Fast and Reliable Open-Vocabulary Object Search with Absence Detection from Robot Memory | Nicholas Paul, Devson Butani, Eric Martinson | [Abstract](https://arxiv.org/abs/2611.07493) · [PDF](https://arxiv.org/pdf/2611.07493) | rule-assigned |
+| 2026-11-04 | RACE: Calibrated Cumulative Scoring for Rollout-Free Robot Policy Checkpoint Selection | Changyeon Kim, Yekyung Nah, Kimin Lee | [Abstract](https://arxiv.org/abs/2611.05838) · [PDF](https://arxiv.org/pdf/2611.05838) | rule-assigned |
+| 2026-11-04 | Playing Soccer Like Humans Do: Learning Versatile and Agile Humanoid Soccer via Latent Motion Priors | Haoyu Shao, Yunshen Wang, Jingze Zhang, Shaohang Zhu et al. | [Abstract](https://arxiv.org/abs/2611.06564) · [PDF](https://arxiv.org/pdf/2611.06564) | rule-assigned |
 | 2026-10-28 | Minimum Sufficient Communication for Independent Behaviour Tree Robot Teams | Sherry Jiang, Oliver Obst | [Abstract](https://arxiv.org/abs/2610.38176) · [PDF](https://arxiv.org/pdf/2610.38176) | rule-assigned |
 | 2026-10-27 | HC2Robot: Hyper-Connection Transformers with Predicted Foresight for Multi-Terrain Humanoid Parkour | Wenhao Xu, Yanheng Mai, Yifei Fu, Nan Zheng et al. | [Abstract](https://arxiv.org/abs/2610.36825) · [PDF](https://arxiv.org/pdf/2610.36825) | rule-assigned |
 | 2026-10-25 | The German Tank Problem & Navigating by Scent | Kordel Kade France | [Abstract](https://arxiv.org/abs/2610.34583) · [PDF](https://arxiv.org/pdf/2610.34583) | rule-assigned |
@@ -160,7 +165,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-22 | Kinematic Characterization of Micro-Mobility Vehicles During Evasive Maneuvers | Paolo Terranova, Shu-Yuan Liu, Sparsh Jain, Johan Engstrom et al. | [Abstract](https://arxiv.org/abs/2312.14717) · [PDF](https://arxiv.org/pdf/2312.14717) | rule-assigned |
 | 2023-11-17 | Learning Agile Locomotion on Risky Terrains | Chong Zhang, Nikita Rudin, David Hoeller, Marco Hutter | [Abstract](https://arxiv.org/abs/2311.10484) · [PDF](https://arxiv.org/pdf/2311.10484) | rule-assigned |
 | 2023-11-16 | Dynamic modeling of wing-assisted inclined running with a morphing multi-modal robot | Eric Sihite, Alireza Ramezani, Morteza Gharib | [Abstract](https://arxiv.org/abs/2311.09963) · [PDF](https://arxiv.org/pdf/2311.09963) | rule-assigned |
-| 2023-11-08 | RAMIEL: A Parallel-Wire Driven Monopedal Robot for High and Continuous Jumping | Temma Suzuki, Yasunori Toshimitsu, Yuya Nagamatsu, Kento Kawaharazuka et al. | [Abstract](https://arxiv.org/abs/2311.04573) · [PDF](https://arxiv.org/pdf/2311.04573) | rule-assigned |
 
 ---
 

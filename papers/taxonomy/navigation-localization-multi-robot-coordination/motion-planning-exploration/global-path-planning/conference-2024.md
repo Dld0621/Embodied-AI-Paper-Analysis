@@ -1,7 +1,7 @@
 # Global Path Planning · 全局路径规划 · Conference 2024
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
@@ -21,7 +21,7 @@
 | 2024 | Interactive Navigation in Environments with Traversable Obstacles Using Large Language and Vision-Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2310.08873) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610751) | rule-assigned |
 | 2024 | MTG: Mapless Trajectory Generator with Traversability Coverage for Outdoor Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2309.08214) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611319) | rule-assigned |
 | 2024 | Multi-query TDSP for Path Planning in Time-varying Flow Fields | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611501) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611501) | rule-assigned |
-| 2024 | Multi-Robot Informative Path Planning from Regression with Sparse Gaussian Processes | ICRA · Path Planning | [Paper](https://arxiv.org/abs/2309.07050) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610484) | rule-assigned |
+| 2024 | Multi-Robot Informative Path Planning from Regression with Sparse Gaussian Processes | ICRA · Path Planning | [Paper](https://arxiv.org/pdf/2309.07050) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610484) | rule-assigned |
 | 2024 | Multi-Sample Long Range Path Planning under Sensing Uncertainty for Off-Road Autonomous Driving | ICRA · Path Planning | [Paper](https://arxiv.org/pdf/2403.11298) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610476) | rule-assigned |
 | 2024 | NaviFormer: A Data-Driven Robot Navigation Approach via Sequence Modeling and Path Planning with Safety Verification | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610076) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610076) | rule-assigned |
 | 2024 | Neural Informed RRT*: Learning-based Path Planning with Point Cloud State Representations under Admissible Ellipsoidal Constraints | ICRA · Path Planning | [Paper](https://arxiv.org/pdf/2309.14595) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611099) | rule-assigned |
@@ -34,7 +34,7 @@
 | 2024 | Thermal Voyager: A Comparative Study of RGB and Thermal Cameras for Night-Time Autonomous Navigation | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611311) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611311) | rule-assigned |
 | 2024 | Traffic Flow Learning Enhanced Large-Scale Multi-Robot Cooperative Path Planning Under Uncertainties | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610592) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610592) | rule-assigned |
 | 2024 | Tree-based Representation of Locally Shortest Paths for 2D k-Shortest Non-homotopic Path Planning | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610073) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610073) | rule-assigned |
-| 2024 | ViPlanner: Visual Semantic Imperative Learning for Local Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2310.00982) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610025) | rule-assigned |
+| 2024 | ViPlanner: Visual Semantic Imperative Learning for Local Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2310.00982) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610025) | rule-assigned |
 | 2024 | Wait, That Feels Familiar: Learning to Extrapolate Human Preferences for Preference-Aligned Path Planning | ICRA · Path Planning | [Paper](https://arxiv.org/pdf/2309.09912) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611475) | rule-assigned |
 | 2024 | Well-Connected Set and Its Application to Multi-Robot Path Planning | ICRA · Path Planning | [Paper](https://arxiv.org/pdf/2402.11766) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610741) | rule-assigned |
 | 2024 | 3D Global Path Planning for Walking Robots on Sparse Volumetric Maps | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS58592.2024.10802767) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802767) | rule-assigned |
@@ -45,7 +45,7 @@
 | 2024 | Learning Social Cost Functions for Human-Aware Path Planning | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2407.10547) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802768) | rule-assigned |
 | 2024 | Learning-informed Long-Horizon Navigation under Uncertainty for Vehicles with Dynamics | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801880) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801880) | rule-assigned |
 | 2024 | Local Path Planning among Pushable Objects based on Reinforcement Learning | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2303.02407) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802257) | rule-assigned |
-| 2024 | Multi-Goal Path Planning in Cluttered Environments with PRM-Guided Self-Organising Maps | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS58592.2024.10802120) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802120) | rule-assigned |
+| 2024 | Multi-Goal Path Planning in Cluttered Environments with PRM-Guided Self-Organising Maps | IROS · Path Planning | [Paper](https://opus.lib.uts.edu.au/bitstream/10453/182336/3/cd64bfce-3427-4427-85cc-e7baa0395069%20%20%20AM.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802120) | rule-assigned |
 | 2024 | Multi-Robot Path Planning With Boolean Specification Tasks Under Motion Uncertainties | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS58592.2024.10801558) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801558) | rule-assigned |
 | 2024 | Potential Field-Based Online Path Planning for Robust Cable Routing | IROS · Path Planning | [Paper](https://doi.org/10.1109/IROS58592.2024.10801463) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801463) | rule-assigned |
 | 2024 | RaceMOP: Mapless Online Path Planning for Multi-Agent Autonomous Racing using Residual Policy Learning | IROS · Path Planning | [Paper](https://arxiv.org/pdf/2403.07129) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801657) | rule-assigned |

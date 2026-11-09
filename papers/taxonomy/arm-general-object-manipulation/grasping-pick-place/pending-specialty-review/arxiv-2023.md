@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题 · arXiv 2023
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 43 papers · complete list for this taxonomy leaf
+> 38 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -48,8 +48,3 @@
 | 2023-11-15 | Generalizable Imitation Learning Through Pre-Trained Representations | Wei-Di Chang, Francois Hogan, Scott Fujimoto, David Meger et al. | [Abstract](https://arxiv.org/abs/2311.09350) · [PDF](https://arxiv.org/pdf/2311.09350) | needs-review |
 | 2023-11-14 | Deep Reinforcement Learning for 2D Physics-Based Object Manipulation in Clutter | Luca Renna | [Abstract](https://arxiv.org/abs/2312.04570) · [PDF](https://arxiv.org/pdf/2312.04570) | needs-review |
 | 2023-11-13 | Towards Robotic Tree Manipulation: Leveraging Graph Representations | Chung Hee Kim, Moonyoung Lee, Oliver Kroemer, George Kantor | [Abstract](https://arxiv.org/abs/2311.07479) · [PDF](https://arxiv.org/pdf/2311.07479) | needs-review |
-| 2023-11-07 | Towards Autonomous Crop Monitoring: Inserting Sensors in Cluttered Environments | Moonyoung Lee, Aaron Berger, Dominic Guri, Kevin Zhang et al. | [Abstract](https://arxiv.org/abs/2311.03697) · [PDF](https://arxiv.org/pdf/2311.03697) | needs-review |
-| 2023-11-06 | Scalable and Efficient Continual Learning from Demonstration via a Hypernetwork-generated Stable Dynamics Model | Sayantan Auddy, Jakob Hollenstein, Matteo Saveriano, Antonio Rodríguez-Sánchez et al. | [Abstract](https://arxiv.org/abs/2311.03600) · [PDF](https://arxiv.org/pdf/2311.03600) | needs-review |
-| 2023-11-06 | Proactive Robot Control for Collaborative Manipulation Using Human Intent | Zhanibek Rysbek, Siyu Li, Afagh Mehri Shervedani, Milos Zefran | [Abstract](https://arxiv.org/abs/2311.02809) · [PDF](https://arxiv.org/pdf/2311.02809) | needs-review |
-| 2023-11-06 | Learning Reusable Manipulation Strategies | Jiayuan Mao, Joshua B. Tenenbaum, Tomás Lozano-Pérez, Leslie Pack Kaelbling | [Abstract](https://arxiv.org/abs/2311.03293) · [PDF](https://arxiv.org/pdf/2311.03293) | needs-review |
-| 2023-11-04 | Anthropomorphic Grasping with Neural Object Shape Completion | Diego Hidalgo-Carvajal, Hanzhi Chen, Gemma C. Bettelani, Jaesug Jung et al. | [Abstract](https://arxiv.org/abs/2311.02510) · [PDF](https://arxiv.org/pdf/2311.02510) | needs-review |

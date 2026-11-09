@@ -1,7 +1,7 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=VLA%20%26%20Generalist%20Robot%20Policies&specialty=Pending%20specialty%20review#research-workbench)
@@ -30,7 +30,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
-| 2026-11-03 | Future Representation Distillation for Imagination-Free World Action Models | Jaehyeong Jo, Sangwon Jang, Sihyun Yu, Seonghyeon Ye et al. | [Abstract](https://arxiv.org/abs/2611.04527) · [PDF](https://arxiv.org/pdf/2611.04527) | needs-review |
+| 2026-11-03 | Future Representation Distillation for Imagination-free World Action Models | Jaehyeong Jo, Sangwon Jang, Sihyun Yu, Seonghyeon Ye et al. | [Abstract](https://arxiv.org/abs/2611.04527) · [PDF](https://arxiv.org/pdf/2611.04527) | needs-review |
 | 2026-10-29 | Utility-WAM: Correcting Future-Induced Action Changes | Feihong Zhang, Xi Lin, Yulong Shi, Zuxing Lu et al. | [Abstract](https://arxiv.org/abs/2610.39367) · [PDF](https://arxiv.org/pdf/2610.39367) | needs-review |
 | 2026-10-08 | ARC: A Reasoning Recipe for Robot Foundation Models | Gokul Puthumanaillam, Tao Sun, Elie Aljalbout, Moritz Reuss et al. | [Abstract](https://arxiv.org/abs/2610.12386) · [PDF](https://arxiv.org/pdf/2610.12386) | needs-review |
 | 2025-06-21 | Risk-Guided Diffusion: Toward Deploying Robot Foundation Models in Space, Where Failure Is Not An Option | Rohan Thakker, Adarsh Patnaik, Vince Kurtz, Jonas Frey et al. | [Abstract](https://arxiv.org/abs/2506.17601) · [PDF](https://arxiv.org/pdf/2506.17601) | needs-review |

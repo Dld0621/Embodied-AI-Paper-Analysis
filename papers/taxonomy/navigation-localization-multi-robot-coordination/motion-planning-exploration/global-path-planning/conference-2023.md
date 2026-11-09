@@ -1,7 +1,7 @@
 # Global Path Planning · 全局路径规划 · Conference 2023
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
@@ -19,7 +19,7 @@
 | 2023 | Contextual Multi-Objective Path Planning | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160781) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160781) | rule-assigned |
 | 2023 | Deep Reinforcement Learning-based Task Assignment and Path Planning for Multi-agent Construction Robots | ICRA · Path Planning | [Paper](https://www.iaarc.org/./publications/fulltext/06_ICRA_2023_Paper_36.pdf) · [Publisher](https://doi.org/10.22260/icra2023/0008) | rule-assigned |
 | 2023 | DQN-based on-line Path Planning Method for Automatic Navigation of Miniature Robots | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161023) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161023) | rule-assigned |
-| 2023 | Informable Multi-Objective and Multi-Directional RRT* System for Robot Path Planning | ICRA · Path Planning | [Paper](https://arxiv.org/abs/2205.14853) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160838) | rule-assigned |
+| 2023 | Informable Multi-Objective and Multi-Directional RRT* System for Robot Path Planning | ICRA · Path Planning | [Paper](https://arxiv.org/pdf/2205.14853) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160838) | rule-assigned |
 | 2023 | Motion Planning for a Climbing Robot with Stochastic Grasps | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2209.10687) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160218) | rule-assigned |
 | 2023 | Online Coverage Path Planning Scheme for a Size-Variable Robot | ICRA · Path Planning | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160733) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160733) | rule-assigned |
 | 2023 | Online Social Robot Navigation in Indoor, Large and Crowded Environments | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160603) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160603) | rule-assigned |

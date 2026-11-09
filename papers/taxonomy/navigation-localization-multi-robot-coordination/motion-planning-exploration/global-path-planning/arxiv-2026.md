@@ -1,15 +1,18 @@
 # Global Path Planning · 全局路径规划 · arXiv 2026
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 382 papers · complete list for this taxonomy leaf
+> 385 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | TPS-A*: Path Planning for Any-Shape Vehicles with Certified Collision Checking in Trajectory Parameter Space | Jose Luis Blanco-Claraco, Shravan S. Rai, Fernando Cañadas-Aránega, José Luis Torres-Moreno et al. | [Abstract](https://arxiv.org/abs/2611.09210) · [PDF](https://arxiv.org/pdf/2611.09210) | rule-assigned |
+| 2026-11-05 | H-BRICK: Hierarchical Boundary Reachability Index with Compressed Kleene Closure for Directed Grid Graphs | Tolga Özaslan, Elif A. Özaslan | [Abstract](https://arxiv.org/abs/2611.08119) · [PDF](https://arxiv.org/pdf/2611.08119) | rule-assigned |
+| 2026-11-04 | cuRoboV2-Fast: Fast Torque-Limited Collision-Free Motion Planning | Balakumar Sundaralingam, Adithyavairavan Murali, Stan Birchfield | [Abstract](https://arxiv.org/abs/2611.06913) · [PDF](https://arxiv.org/pdf/2611.06913) | rule-assigned |
 | 2026-11-02 | h-NESDF: An Infinitely Differentiable Signed Distance Between Two Sets with Robotic Applications | Vinicius Mariano Gonçalves, Pedro Antonio de Souza Campos Rodrigues | [Abstract](https://arxiv.org/abs/2611.03944) · [PDF](https://arxiv.org/pdf/2611.03944) | rule-assigned |
 | 2026-11-01 | Control Barrier Functions for Safety-Aware Latent-Space Motion Planning | Chandrakiran Ravula, Siddhanth Ramesh | [Abstract](https://arxiv.org/abs/2611.01814) · [PDF](https://arxiv.org/pdf/2611.01814) | rule-assigned |
 | 2026-10-30 | Mechanistic Interpretability for End-to-End Self-Driving | Manav Gagvani, Benjamin Namikas, Sivamurugan Velmurugan, Nysa Kumar et al. | [Abstract](https://arxiv.org/abs/2610.41185) · [PDF](https://arxiv.org/pdf/2610.41185) | rule-assigned |

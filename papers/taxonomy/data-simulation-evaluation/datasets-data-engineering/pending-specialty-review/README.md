@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engineering&specialty=Pending%20specialty%20review#research-workbench)
 
-> 122 conference papers · 639 recent arXiv papers
+> 126 conference papers · 636 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,17 +20,20 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (122)
+## Conference papers (126)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | AdapGrasp: A Stiffness and Grasp Affordance Dataset with a Transformer-based Adaptive Grasp Model | ICRA · Dataset | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696782) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696782) | needs-review |
-| 2026 | Amortized NeuralSDF-Mesh Collision Detection for Robotic Contact Simulation | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696362) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696362) | needs-review |
-| 2026 | Bi3: A Biplatform, Bicultural, Biperson Dataset for Social Robot Navigation* | ICRA · Navigation | [Paper](https://arxiv.org/abs/2605.06863) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695969) | needs-review |
+| 2026 | Breaking the 3D Dataset Bottleneck: Fast Scalable Generation of Aligned 3D Assets from Scratch for Category 6D Pose Estimation and Robotic Grasping | CVPR · Dataset | [Paper](https://www.semanticscholar.org/paper/c17ab4ddc0e2f94e681ab0dc7d703e6c7c0caccf) · [Index](https://dblp.org/rec/conf/cvpr/DuretMZPC26) | needs-review |
+| 2026 | Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models | ECCV · Tactile | [Paper](https://arxiv.org/abs/2607.05390) · [Index](https://dblp.org/rec/conf/eccv/LiFCLHJHLFLSSKL26) | needs-review |
+| 2026 | Cross-Embodiment Offline Reinforcement Learning for Heterogeneous Robot Datasets | ICLR · Dataset | [Paper](https://arxiv.org/abs/2602.18025) · [Index](https://dblp.org/rec/conf/iclr/AbeOMH26) | needs-review |
+| 2026 | AdapGrasp: A Stiffness and Grasp Affordance Dataset with a Transformer-based Adaptive Grasp Model | ICRA · Dataset | [Paper](https://doi.org/10.1109/icra57385.2026.11696782) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696782) | needs-review |
+| 2026 | Amortized NeuralSDF-Mesh Collision Detection for Robotic Contact Simulation | ICRA · Simulation | [Paper](https://doi.org/10.1109/icra57385.2026.11696362) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696362) | needs-review |
+| 2026 | Bi3: A Biplatform, Bicultural, Biperson Dataset for Social Robot Navigation* | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra57385.2026.11695969) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695969) | needs-review |
 | 2026 | CU-Multi: A Dataset for Multi-Robot Collaborative Perception | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2509.19463) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697041) | needs-review |
 | 2026 | FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2506.01941) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696142) | needs-review |
-| 2026 | Galaxy Open-World Dataset and G0 Dual-System VLA Model | ICRA · Vla | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696535) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696535) | needs-review |
-| 2026 | GuideTWSI: A Diverse Tactile Walking Surface Indicator Dataset from Synthetic and Real-World Images for Blind and Low-Vision Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2603.07060) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697415) | needs-review |
+| 2026 | Galaxy Open-World Dataset and G0 Dual-System VLA Model | ICRA · Vla | [Paper](https://doi.org/10.1109/icra57385.2026.11696535) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696535) | needs-review |
+| 2026 | GuideTWSI: A Diverse Tactile Walking Surface Indicator Dataset from Synthetic and Real-World Images for Blind and Low-Vision Navigation | ICRA · Navigation | [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC13663904/pdf/nihms-2202474.pdf) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697415) | needs-review |
 | 2026 | Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2510.08807) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696267) | needs-review |
 | 2026 | Instrumentation for Imitation Learning: Enhancing Training Datasets for Clothes Hanger Insertion | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2605.23847) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696878) | needs-review |
 | 2026 | iVISION-2DCD: A Long-Term Change Detection Dataset for Large-Scale Outdoor Construction Monitoring | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2607.03553) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697019) | needs-review |
@@ -40,6 +43,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | Tempo-Vine: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2512.04772) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696237) | needs-review |
 | 2026 | Twist2 : Scalable, Portable, and Holistic Humanoid Data Collection System | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2511.02832) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696896) | needs-review |
 | 2025 | Pixel-aligned RGB-NIR Stereo Imaging and Dataset for Robot Vision | CVPR · Dataset | [Paper](https://arxiv.org/pdf/2411.18025) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01072) | needs-review |
+| 2025 | RobotSeg: A Model and Dataset for Segmenting Robots in Image and Video | CVPR · Dataset | [Paper](https://arxiv.org/abs/2511.22950) · [Index](https://dblp.org/rec/journals/corr/abs-2511-22950) | needs-review |
 | 2025 | FastUMI: A Scalable and Hardware-Independent Universal Manipulation Interface with Dataset | CoRL · Scalable data collection | [Paper](https://proceedings.mlr.press/v305/zhaxizhuoma25a.html) · [Official](https://proceedings.mlr.press/v305/zhaxizhuoma25a.html) | needs-review |
 | 2025 | RobAVA: A Large-Scale Dataset and Baseline Towards Video Based Robotic Arm Action Understanding | ICCV · Dataset | [Paper](https://doi.org/10.1109/ICCV51701.2025.01298) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01298) | needs-review |
 | 2025 | LocoVR: Multiuser Indoor Locomotion Dataset in Virtual Reality | ICLR · Locomotion | [Paper](https://arxiv.org/abs/2410.06437) · [Index](https://dblp.org/rec/conf/iclr/TakeyamaLS25) | needs-review |
@@ -50,7 +54,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | DiTer++: Diverse Terrain and Multi-Modal Dataset for Multi-Robot SLAM in Multi-Session Environments | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2412.05839) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128593) | needs-review |
 | 2025 | EnvoDat: A Large-Scale Multisensory Dataset for Robotic Spatial Awareness and Semantic Reasoning in Heterogeneous Environments | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2410.22200) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127594) | needs-review |
 | 2025 | Excavating in the Wild: The GOOSE-Ex Dataset for Semantic Segmentation | ICRA · Dataset | [Paper](https://arxiv.org/abs/2409.18788) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127604) | needs-review |
-| 2025 | Flat'n'Fold: A Diverse Multi-Modal Dataset for Garment Perception and Manipulation | ICRA · Dataset | [Paper](https://eprints.gla.ac.uk/349229/1/349229.pdf) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127794) | needs-review |
+| 2025 | Flat'n'Fold: A Diverse Multi-Modal Dataset for Garment Perception and Manipulation | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2409.18297) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127794) | needs-review |
 | 2025 | Gnd: Global Navigation Dataset With Multi-Modal Perception and Multi-Category Traversability in Outdoor Campus Environments | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.14262) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128193) | needs-review |
 | 2025 | HeRCULES: Heterogeneous Radar Dataset in Complex Urban Environment for Multi-Session Radar SLAM | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2502.01946) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128678) | needs-review |
 | 2025 | M3DSS: A Multi-Platform, Multi-Sensor, and Multi-Scenario Dataset for SLAM System | ICRA · Dataset | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128631) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128631) | needs-review |
@@ -73,8 +77,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | NuExo: A Wearable Exoskeleton Covering all Upper Limb ROM for Outdoor Data Collection and Teleoperation of Humanoid Robots | IROS · Teleoperation | [Paper](https://arxiv.org/pdf/2503.10554) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247718) | needs-review |
 | 2025 | Online Iterative Learning with Forward Simulation for Sub-minimum End-effector Displacement Positioning | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS60139.2025.11247711) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247711) | needs-review |
 | 2025 | RH20T-P: A Primitive-Level Robotic Manipulation Dataset towards Composable Generalization Agents in Real-world Scenarios | IROS · Dataset | [Paper](https://doi.org/10.1109/IROS60139.2025.11246228) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246228) | needs-review |
-| 2025 | Shaken, Not Stirred: A Novel Dataset for Visual Understanding of Glasses in Human-Robot Bartending Tasks | IROS · Dataset | [Paper](https://arxiv.org/abs/2503.04308) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246715) | needs-review |
-| 2025 | TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2505.10696) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246002) | needs-review |
+| 2025 | Shaken, Not Stirred: A Novel Dataset for Visual Understanding of Glasses in Human-Robot Bartending Tasks | IROS · Dataset | [Paper](https://arxiv.org/pdf/2503.04308) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246715) | needs-review |
+| 2025 | TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2505.10696) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246002) | needs-review |
 | 2025 | The Common Objects Underwater (COU) Dataset for Robust Underwater Object Detection | IROS · Dataset | [Paper](https://arxiv.org/abs/2502.20651) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246089) | needs-review |
 | 2025 | The Monado SLAM Dataset for Egocentric Visual-Inertial Tracking | IROS · Dataset | [Paper](https://doi.org/10.1109/iros60139.2025.11247240) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247240) | needs-review |
 | 2025 | VRobotix: A Scalable and Cost-Effective Virtual-Reality-Based Robotic Manipulation Dataset Generation Framework | IROS · Dataset | [Paper](https://doi.org/10.1109/IROS60139.2025.11247610) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247610) | needs-review |
@@ -128,14 +132,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | An Evaluation of Action Segmentation Algorithms on Bimanual Manipulation Datasets | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS55552.2023.10341956) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341956) | needs-review |
 | 2023 | DORMADL - Dataset of Human-Operated Robot Arm Motion in Activities of Daily Living | IROS · Dataset | [Paper](https://doi.org/10.1109/IROS55552.2023.10341459) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341459) | needs-review |
 | 2023 | Exploring Visual Pre-training for Robot Manipulation: Datasets, Models and Methods | IROS · Dataset | [Paper](https://arxiv.org/pdf/2308.03620) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342201) | needs-review |
-| 2023 | Hardware-in-the-Loop Simulation of Vehicle-Manipulator Systems for Physical Interaction Tasks | IROS · Simulation | [Paper](https://hdl.handle.net/11250/3118984) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342250) | needs-review |
+| 2023 | Hardware-in-the-Loop Simulation of Vehicle-Manipulator Systems for Physical Interaction Tasks | IROS · Simulation | [Paper](https://repositum.tuwien.at/bitstream/20.500.12708/193765/1/Das-2023-Hardware-in-the-Loop%20Simulation%20of%20Vehicle-Manipulator%20Systems%20fo...-am.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342250) | needs-review |
 | 2023 | Hierarchical Transformer for Visual Affordance Understanding using a Large-scale Dataset | IROS · Dataset | [Paper](https://doi.org/10.1109/IROS55552.2023.10341976) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341976) | needs-review |
 | 2023 | IPA-3D1K: A Large Retail 3D Model Dataset for Robot Picking | IROS · Dataset | [Paper](https://doi.org/10.1109/IROS55552.2023.10342260) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342260) | needs-review |
 | 2023 | MIMIR-UW: A Multipurpose Synthetic Dataset for Underwater Navigation and Inspection | IROS · Synthetic Data | [Paper](https://doi.org/10.1109/IROS55552.2023.10341436) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341436) | needs-review |
 | 2023 | Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned | IROS · Dataset | [Paper](https://arxiv.org/pdf/2304.04362) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342377) | needs-review |
 | 2023 | RGBD Fusion Grasp Network with Large-Scale Tableware Grasp Dataset | IROS · Dataset | [Paper](https://doi.org/10.1109/IROS55552.2023.10341357) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341357) | needs-review |
 | 2023 | Robot Team Data Collection with Anywhere Communication | IROS · Data Collection | [Paper](https://doi.org/10.1109/IROS55552.2023.10342349) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342349) | needs-review |
-| 2023 | The Audio-Visual BatVision Dataset for Research on Sight and Sound | IROS · Dataset | [Paper](https://arxiv.org/abs/2303.07257) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341715) | needs-review |
+| 2023 | The Audio-Visual BatVision Dataset for Research on Sight and Sound | IROS · Dataset | [Paper](https://arxiv.org/pdf/2303.07257) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341715) | needs-review |
 | 2023 | The Bystander Affect Detection (BAD) Dataset for Failure Detection in HRI | IROS · Dataset | [Paper](https://arxiv.org/pdf/2303.04835) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342442) | needs-review |
 | 2023 | Toward Human-Like Social Robot Navigation: A Large-Scale, Multi-Modal, Social Human Navigation Dataset | IROS · Navigation | [Paper](https://arxiv.org/pdf/2303.14880) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342447) | needs-review |
 | 2023 | Behavior Retrieval: Few-Shot Imitation Learning by Querying Unlabeled Datasets | RSS · Dataset | [Paper](https://arxiv.org/abs/2304.08742) · [Index](https://dblp.org/rec/conf/rss/DuNSF23) | needs-review |
@@ -147,10 +151,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Realistic Real-Time Simulation of RGB and Depth Sensors for Dynamic Scenarios using Augmented Image Based Rendering | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982014) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982014) | needs-review |
 | 2022 | FlyView: a bio-informed optical flow truth dataset for visual navigation using panoramic stereo vision | NeurIPS · Navigation | [Paper](https://doi.org/10.52202/068431-2038) · [Publisher](https://doi.org/10.52202/068431-2038) | needs-review |
 
-## Recent arXiv papers (639)
+## Recent arXiv papers (636)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-05 | Training-Independent Validation of a Learning-Based Controller for Stunt Maneuvers | Kiruthiga Chandra Shekar, Aliasghar Arab, Jingang Yi | [Abstract](https://arxiv.org/abs/2611.07516) · [PDF](https://arxiv.org/pdf/2611.07516) | needs-review |
+| 2026-11-04 | Interactive World Simulation with Cosmos for Physical AI | NVIDIA, :, Anis Ahmad, Jon Allen et al. | [Abstract](https://arxiv.org/abs/2611.06627) · [PDF](https://arxiv.org/pdf/2611.06627) | needs-review |
 | 2026-11-02 | Robot-Matched Soft Fingers for UMI Data Collection: Lessons from 100 Hours of Pick and Place | Kobi Kelemen, Tomasz Niedziałkowski, Marcin Paszczak, Victoriano Montesinos | [Abstract](https://arxiv.org/abs/2611.03779) · [PDF](https://arxiv.org/pdf/2611.03779) | needs-review |
 | 2026-11-02 | MS-DOTT: A Multi-Modal Dataset for Off-Road Traversability Estimation | Shivani Subramanyan, Saksham Sharma, Samahith SA, Ahaan Kotian et al. | [Abstract](https://arxiv.org/abs/2611.02992) · [PDF](https://arxiv.org/pdf/2611.02992) | needs-review |
 | 2026-11-02 | Evaluating Depth-Augmented Visual Features for Cross-Dataset Lunar Traversability Estimation | Jan Baturo, Bartosz Ptak | [Abstract](https://arxiv.org/abs/2611.03430) · [PDF](https://arxiv.org/pdf/2611.03430) | needs-review |
@@ -785,11 +791,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-26 | A Framework for Realistic Simulation of Daily Human Activity | Ifrah Idrees, Siddharth Singh, Kerui Xu, Dylan F. Glas | [Abstract](https://arxiv.org/abs/2311.15400) · [PDF](https://arxiv.org/pdf/2311.15400) | needs-review |
 | 2023-11-20 | Real-Time Surface-to-Air Missile Engagement Zone Prediction Using Simulation and Machine Learning | Joao P. A. Dantas, Diego Geraldo, Felipe L. L. Medeiros, Marcos R. O. A. Maximo et al. | [Abstract](https://arxiv.org/abs/2311.11905) · [PDF](https://arxiv.org/pdf/2311.11905) | needs-review |
 | 2023-11-09 | Reconstructing Objects in-the-wild for Realistic Sensor Simulation | Ze Yang, Sivabalan Manivasagam, Yun Chen, Jingkang Wang et al. | [Abstract](https://arxiv.org/abs/2311.05602) · [PDF](https://arxiv.org/pdf/2311.05602) | needs-review |
-| 2023-11-08 | The voraus-AD Dataset for Anomaly Detection in Robot Applications | Jan Thieß Brockmann, Marco Rudolph, Bodo Rosenhahn, Bastian Wandt | [Abstract](https://arxiv.org/abs/2311.04765) · [PDF](https://arxiv.org/pdf/2311.04765) | needs-review |
-| 2023-11-05 | Race Against the Machine: a Fully-annotated, Open-design Dataset of Autonomous and Piloted High-speed Flight | Michael Bosello, Davide Aguiari, Yvo Keuter, Enrico Pallotta et al. | [Abstract](https://arxiv.org/abs/2311.02667) · [PDF](https://arxiv.org/pdf/2311.02667) | needs-review |
-| 2023-11-05 | Get the Ball Rolling: Alerting Autonomous Robots When to Help to Close the Healthcare Loop | Jiaxin Shen, Yanyao Liu, Ziming Wang, Ziyuan Jiao et al. | [Abstract](https://arxiv.org/abs/2311.02602) · [PDF](https://arxiv.org/pdf/2311.02602) | needs-review |
-| 2023-11-04 | ECMD: An Event-Centric Multisensory Driving Dataset for SLAM | Peiyu Chen, Weipeng Guan, Feng Huang, Yihan Zhong et al. | [Abstract](https://arxiv.org/abs/2311.02327) · [PDF](https://arxiv.org/pdf/2311.02327) | needs-review |
-| 2023-11-04 | Digital Twins for Human-Robot Collaboration: A Future Perspective | Mohamad Shaaban, Alessandro Carfì, Fulvio Mastrogiovanni | [Abstract](https://arxiv.org/abs/2311.02421) · [PDF](https://arxiv.org/pdf/2311.02421) | needs-review |
 
 ---
 

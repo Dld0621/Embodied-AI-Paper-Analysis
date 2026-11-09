@@ -1,12 +1,12 @@
 # Depth & Point Clouds · 深度与点云
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=Depth%20%26%20Point%20Clouds#research-workbench)
 
-> 15 conference papers · 452 recent arXiv papers
+> 16 conference papers · 451 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (15)
+## Conference papers (16)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents | CVPR · Embodied Agent | [Paper](https://arxiv.org/abs/2602.23205) · [Index](https://dblp.org/rec/conf/cvpr/WangPPLRWLYDTK26) | rule-assigned |
 | 2026 | FRESHR-GSI: A Generalized Safety Model and Evaluation Framework for Mobile Robots in Multi-Human Environments | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2501.03467) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696627) | rule-assigned |
 | 2026 | InvariantCloud: A Globally Invariant, Uniquely Indexed Point Cloud Framework for Robust 6-DoF Tactile Pose Tracking | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2605.25216) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696184) | rule-assigned |
 | 2026 | ROPA: Synthetic Robot Pose Generation for RGB-D Bimanual Data Augmentation | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2509.19454) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697378) | rule-assigned |
@@ -38,9 +39,9 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2407.06077) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801936) | rule-assigned |
 | 2024 | PS6D: Point Cloud Based Symmetry-Aware 6D Object Pose Estimation in Robot Bin-Picking | IROS · Object Pose | [Paper](https://arxiv.org/pdf/2405.11257) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802046) | rule-assigned |
 | 2024 | Any2Policy: Learning Visuomotor Policy with Any-Modality | NeurIPS · Visuomotor | [Paper](https://doi.org/10.52202/079017-4244) · [Publisher](https://doi.org/10.52202/079017-4244) | rule-assigned |
-| 2022 | f-Cal: Aleatoric uncertainty quantification for robot perception via calibrated neural regression | ICRA · Robot Perception | [Paper](https://doi.org/10.1109/icra46639.2022.9811903) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811903) | rule-assigned |
+| 2022 | f-Cal: Aleatoric uncertainty quantification for robot perception via calibrated neural regression | ICRA · Robot Perception | [Paper](https://arxiv.org/pdf/2109.13913) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811903) | rule-assigned |
 
-## Recent arXiv papers (452)
+## Recent arXiv papers (451)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -495,7 +496,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-02 | Paved2Paradise: Cost-Effective and Scalable LiDAR Simulation by Factoring the Real World | Michael A. Alcorn, Noah Schwartz | [Abstract](https://arxiv.org/abs/2312.01117) · [PDF](https://arxiv.org/pdf/2312.01117) | rule-assigned |
 | 2023-11-21 | Robust Hole-Detection in Triangular Meshes Irrespective of the Presence of Singular Vertices | Mauhing Yip, Annette Stahl, Christian Schellewald | [Abstract](https://arxiv.org/abs/2311.12466) · [PDF](https://arxiv.org/pdf/2311.12466) | rule-assigned |
 | 2023-11-21 | Multi-Resolution Planar Region Extraction for Uneven Terrains | Yinghan Sun, Linfang Zheng, Hua Chen, Wei Zhang | [Abstract](https://arxiv.org/abs/2311.12562) · [PDF](https://arxiv.org/pdf/2311.12562) | rule-assigned |
-| 2023-11-08 | 3D Pose Estimation of Tomato Peduncle Nodes using Deep Keypoint Detection and Point Cloud | Jianchao Ci, Xin Wang, David Rapado-Rincón, Akshay K. Burusa et al. | [Abstract](https://arxiv.org/abs/2311.04699) · [PDF](https://arxiv.org/pdf/2311.04699) | rule-assigned |
 
 ---
 

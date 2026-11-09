@@ -1,12 +1,12 @@
 # Occupancy & Scene Representation · 占据与场景表达
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=Occupancy%20%26%20Scene%20Representation#research-workbench)
 
-> 34 conference papers · 337 recent arXiv papers
+> 35 conference papers · 337 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,18 +20,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (34)
+## Conference papers (35)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | Perceptual 3D Simulation With Physical World Modeling | CVPR · Simulation | [Paper](https://arxiv.org/abs/2606.27575) · [Index](https://dblp.org/rec/conf/cvpr/LeeKVWY26) | rule-assigned |
 | 2026 | Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning | ICRA · Llm | [Paper](https://arxiv.org/pdf/2506.15828) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696962) | rule-assigned |
 | 2026 | KeySG: Hierarchical Keyframe-Based 3D Scene Graphs | ICRA · 3D Scene | [Paper](https://arxiv.org/pdf/2510.01049) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697466) | rule-assigned |
-| 2026 | Language Enabled Hierarchical Scene Graphs For Precision Agriculture Autonomy | ICRA · Scene Graph | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695996) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695996) | rule-assigned |
-| 2026 | One Prompt, Many Rooms: A Force-Directed Approach to 3D Scene Generation for Robotics Simulation | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696816) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696816) | rule-assigned |
+| 2026 | Language Enabled Hierarchical Scene Graphs For Precision Agriculture Autonomy | ICRA · Scene Graph | [Paper](https://doi.org/10.1109/icra57385.2026.11695996) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695996) | rule-assigned |
+| 2026 | One Prompt, Many Rooms: A Force-Directed Approach to 3D Scene Generation for Robotics Simulation | ICRA · Simulation | [Paper](https://doi.org/10.1109/icra57385.2026.11696816) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696816) | rule-assigned |
 | 2026 | Relationship-Aware Hierarchical 3D Scene Graph for Task Reasoning | ICRA · 3D Scene | [Paper](https://arxiv.org/pdf/2602.02456) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696439) | rule-assigned |
-| 2026 | SA-VLM v2: Useful, Comprehensive, and Concise Guidance for Guide-Dog Robots Assisting the Visually Impaired | ICRA · Vlm | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695842) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695842) | rule-assigned |
+| 2026 | SA-VLM v2: Useful, Comprehensive, and Concise Guidance for Guide-Dog Robots Assisting the Visually Impaired | ICRA · Vlm | [Paper](https://doi.org/10.1109/icra57385.2026.11695842) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695842) | rule-assigned |
 | 2026 | Structured Interfaces for Automated Reasoning with 3D Scene Graphs | ICRA · 3D Scene | [Paper](https://arxiv.org/pdf/2510.16643) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695762) | rule-assigned |
-| 2026 | Y-MAP-Net: Learning from Foundation Models for Real-Time, Multi-Task Scene Perception | ICRA · Foundation Model | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696039) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696039) | rule-assigned |
+| 2026 | Y-MAP-Net: Learning from Foundation Models for Real-Time, Multi-Task Scene Perception | ICRA · Foundation Model | [Paper](https://doi.org/10.1109/icra57385.2026.11696039) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696039) | rule-assigned |
 | 2025 | Beyond Bare Queries: Open-Vocabulary Object Grounding with 3D Scene Graph | ICRA · 3D Scene | [Paper](https://arxiv.org/pdf/2406.07113) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128059) | rule-assigned |
 | 2025 | Enhancing 3D Scene Graphs with Real-Time Room Classification | ICRA · 3D Scene | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128432) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128432) | rule-assigned |
 | 2025 | Interaction-Driven Updates: 3D Scene Graph Maintenance During Robot Task Execution | ICRA · 3D Scene | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128194) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128194) | rule-assigned |

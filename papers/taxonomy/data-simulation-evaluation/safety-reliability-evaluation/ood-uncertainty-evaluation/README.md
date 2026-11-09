@@ -1,12 +1,12 @@
 # OOD & Uncertainty Evaluation · 分布外与不确定性评估
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Safety%20%26%20Reliability%20Evaluation&specialty=OOD%20%26%20Uncertainty%20Evaluation#research-workbench)
 
-> 8 conference papers · 145 recent arXiv papers
+> 8 conference papers · 146 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,10 +33,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | HRP: Human Affordances for Robotic Pre-Training | RSS · Affordance | [Paper](https://arxiv.org/abs/2407.18911) · [Index](https://dblp.org/rec/conf/rss/SriramaDB024) | rule-assigned |
 | 2023 | HYDRA: Hybrid Robot Actions for Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2306.17237) · [Index](https://dblp.org/rec/journals/corr/abs-2306-17237) | rule-assigned |
 
-## Recent arXiv papers (145)
+## Recent arXiv papers (146)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | Augmentron: Scalable Multi-View Visual Augmentation for Robot Learning | Tanay Tandon, Aseem Doriwala, Jade Choghari, Catherine Weaver et al. | [Abstract](https://arxiv.org/abs/2611.09145) · [PDF](https://arxiv.org/pdf/2611.09145) | rule-assigned |
 | 2026-11-03 | All-For-One: Distilling Visual Foundation Models to a Fast, Memory-Efficient Visuomotor Policy | Byungkun Lee, Minho Park, Hojoon Lee, Dongyoon Hwang et al. | [Abstract](https://arxiv.org/abs/2611.04485) · [PDF](https://arxiv.org/pdf/2611.04485) | rule-assigned |
 | 2026-10-31 | Faster Imitation by Re-timing Demonstrations Within the Controller Limit | Zongtan Li, Tianming Liu, Ye Zhao | [Abstract](https://arxiv.org/abs/2611.00539) · [PDF](https://arxiv.org/pdf/2611.00539) | rule-assigned |
 | 2026-10-28 | Robotic Data Inoculation | Qiyang Li, Zhiyuan Zhou, Charles Xu, Sergey Levine | [Abstract](https://arxiv.org/abs/2610.39054) · [PDF](https://arxiv.org/pdf/2610.39054) | rule-assigned |

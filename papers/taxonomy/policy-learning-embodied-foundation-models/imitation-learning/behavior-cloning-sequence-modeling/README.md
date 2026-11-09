@@ -1,7 +1,7 @@
 # Behavior Cloning & Sequence Modeling · 行为克隆与序列建模
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Imitation%20Learning&specialty=Behavior%20Cloning%20%26%20Sequence%20Modeling#research-workbench)
@@ -30,7 +30,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | Rethinking Latent Redundancy in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation | ICML · Manipulation | [Paper](https://arxiv.org/abs/2502.02853) · [Index](https://dblp.org/rec/conf/icml/BaiZDZWC25) | rule-assigned |
 | 2025 | Feasibility-Aware Imitation Learning from Observations Through a Hand-Mounted Demonstration Interface | ICRA · Imitation Learning | [Paper](https://naist.repo.nii.ac.jp/records/2001695) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127364) | rule-assigned |
 | 2025 | SAFE-GIL: SAFEty Guided Imitation Learning for Robotic Systems | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2404.05249) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128298) | rule-assigned |
-| 2025 | Constrained Behavior Cloning for Robotic Learning | IROS · Behavior Cloning | [Paper](https://doi.org/10.1109/IROS60139.2025.11246164) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246164) | rule-assigned |
+| 2025 | Constrained Behavior Cloning for Robotic Learning | IROS · Behavior Cloning | [Paper](https://arxiv.org/pdf/2408.10568) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246164) | rule-assigned |
 | 2025 | Fast Policy: Accelerating Visuomotor Policies without Re-training | IROS · Visuomotor | [Paper](https://doi.org/10.1109/IROS60139.2025.11246259) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246259) | rule-assigned |
 | 2024 | Dreamitate: Real-World Visuomotor Policy Learning via Video Generation | CoRL · Visuomotor | [Paper](https://arxiv.org/abs/2406.16862) · [Index](https://dblp.org/rec/conf/corl/LiangLOSDTSV24) | rule-assigned |
 | 2024 | Manipulate-Anything: Automating Real-World Robots using Vision-Language Models | CoRL · Language Model | [Paper](https://arxiv.org/abs/2406.18915) · [Index](https://dblp.org/rec/conf/corl/DuanYPWEFK24) | rule-assigned |

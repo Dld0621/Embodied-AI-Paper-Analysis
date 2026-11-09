@@ -1,12 +1,12 @@
 # Tools & Articulated Objects · 工具与关节物体操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Tools%20%26%20Articulated%20Objects#research-workbench)
 
-> 35 conference papers · 120 recent arXiv papers
+> 37 conference papers · 119 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,14 +20,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (35)
+## Conference papers (37)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Learning Constraint-Aware Dynamical Systems from Human Demonstrations for Constrained Manipulation Tasks | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695978) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695978) | rule-assigned |
-| 2026 | Planning Using Belief Summaries for Goal-Directed Manipulation of Articulated Objects with Force and Proprioception | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695821) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695821) | rule-assigned |
+| 2026 | Learning Part-Aware Dense 3D Feature Field for Generalizable Articulated Object Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2602.14193) · [Index](https://dblp.org/rec/conf/iclr/ChenJZLTLWD26) | rule-assigned |
+| 2026 | Learning Constraint-Aware Dynamical Systems from Human Demonstrations for Constrained Manipulation Tasks | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11695978) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695978) | rule-assigned |
+| 2026 | Planning Using Belief Summaries for Goal-Directed Manipulation of Articulated Objects with Force and Proprioception | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11695821) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695821) | rule-assigned |
 | 2026 | Robustness-Aware Tool Selection and Manipulation Planning with Learned Energy-Informed Guidance | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2506.03362) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695929) | rule-assigned |
 | 2026 | Vi-TacMan: Articulated Object Manipulation via Vision and Touch | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2510.06339) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697058) | rule-assigned |
+| 2025 | Physically Ground Commonsense Knowledge for Articulated Object Manipulation with Analytic Concepts | CVPR · Manipulation | [Paper](https://arxiv.org/abs/2503.23348) · [Index](https://dblp.org/rec/journals/corr/abs-2503-23348) | rule-assigned |
 | 2025 | Adaptive Articulated Object Manipulation on the Fly with Foundation Model Reasoning and Part Grounding | ICCV · Foundation Model | [Paper](https://arxiv.org/pdf/2507.18276) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01211) | rule-assigned |
 | 2025 | Learning Precise Affordances From Egocentric Videos for Robotic Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/pdf/2408.10123) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00985) | rule-assigned |
 | 2025 | AdaManip: Adaptive Articulated Object Manipulation Environments and Policy Learning | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2502.11124) · [Index](https://dblp.org/rec/journals/corr/abs-2502-11124) | rule-assigned |
@@ -55,12 +57,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Learning to Design and Use Tools for Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2311.00754) · [Index](https://dblp.org/rec/journals/corr/abs-2311-00754) | rule-assigned |
 | 2023 | RoboCook: Long-Horizon Elasto-Plastic Object Manipulation with Diverse Tools | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2306.14447) · [Index](https://dblp.org/rec/journals/corr/abs-2306-14447) | rule-assigned |
 | 2023 | Extraneousness-Aware Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2210.01379) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161521) | rule-assigned |
-| 2023 | Human-Guided Planning for Complex Manipulation Tasks Using the Screw Geometry of Motion | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2209.05672) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161130) | rule-assigned |
+| 2023 | Human-Guided Planning for Complex Manipulation Tasks Using the Screw Geometry of Motion | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2209.05672) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161130) | rule-assigned |
 | 2023 | Learning Category-Level Manipulation Tasks from Point Clouds with Dynamic Graph CNNs | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2209.06331) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160820) | rule-assigned |
 | 2023 | Sim2Real2: Actively Building Explicit Physics Model for Precise Articulated Object Manipulation | ICRA · Sim2Real | [Paper](https://arxiv.org/abs/2302.10693) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160370) | rule-assigned |
 | 2023 | Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusions | NeurIPS · Manipulation | [Paper](https://arxiv.org/pdf/2309.07510) · [Index](https://dblp.org/rec/journals/corr/abs-2309-07510) | rule-assigned |
 
-## Recent arXiv papers (120)
+## Recent arXiv papers (119)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -183,7 +185,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-02-01 | Deep hybrid models: infer and plan in a dynamic world | Matteo Priorelli, Ivilin Peev Stoianov | [Abstract](https://arxiv.org/abs/2402.10088) · [PDF](https://arxiv.org/pdf/2402.10088) | rule-assigned |
 | 2024-01-28 | Data-Driven Strategies for Coping with Incomplete DVL Measurements | Nadav Cohen, Itzik Klein | [Abstract](https://arxiv.org/abs/2401.15620) · [PDF](https://arxiv.org/pdf/2401.15620) | rule-assigned |
 | 2023-12-03 | SAGE: Bridging Semantic and Actionable Parts for GEneralizable Manipulation of Articulated Objects | Haoran Geng, Songlin Wei, Congyue Deng, Bokui Shen et al. | [Abstract](https://arxiv.org/abs/2312.01307) · [PDF](https://arxiv.org/pdf/2312.01307) | rule-assigned |
-| 2023-11-06 | Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs | Wenke Xia, Dong Wang, Xincheng Pang, Zhigang Wang et al. | [Abstract](https://arxiv.org/abs/2311.02847) · [PDF](https://arxiv.org/pdf/2311.02847) | rule-assigned |
 
 ---
 

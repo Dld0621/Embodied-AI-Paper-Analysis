@@ -1,12 +1,12 @@
 # Safety Tests & Constraint Verification · 安全测试与约束验证
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Safety%20%26%20Reliability%20Evaluation&specialty=Safety%20Tests%20%26%20Constraint%20Verification#research-workbench)
 
-> 2 conference papers · 78 recent arXiv papers
+> 2 conference papers · 79 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,10 +27,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | As You Wish: Mission Planning with Formal Verification using LLMs in Precision Agriculture | ICRA · Llm | [Paper](https://arxiv.org/pdf/2606.18519) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697380) | rule-assigned |
 | 2024 | Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents | ICRA · Llm | [Paper](https://arxiv.org/pdf/2309.09919) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611447) | rule-assigned |
 
-## Recent arXiv papers (78)
+## Recent arXiv papers (79)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | Safe Circumnavigation on Heterogeneous Orbits: A Range-Only HOCBF-QP Framework for Nonholonomic Multi-Agent Systems | Shubham Singh, Anand Singh, Anjali Tiwari, Lara Briñón-Arranz et al. | [Abstract](https://arxiv.org/abs/2611.09112) · [PDF](https://arxiv.org/pdf/2611.09112) | rule-assigned |
 | 2026-10-15 | From Optical Flow to Safety: Visual Safety Certification via Scale-Free Relative Motion | Bazeela Banday, Jishnu Keshavan | [Abstract](https://arxiv.org/abs/2610.21374) · [PDF](https://arxiv.org/pdf/2610.21374) | rule-assigned |
 | 2026-10-03 | Human Behavior-Informed Crash Scenario Generation with Real-World Crash Priors for Autonomous Vehicle Safety Evaluation | Mingxing Peng, Xusen Guo, Long Chen, Xintao Yan et al. | [Abstract](https://arxiv.org/abs/2610.04366) · [PDF](https://arxiv.org/pdf/2610.04366) | rule-assigned |
 | 2026-10-02 | SceneFactory-3D: Lifting 2D Traffic Scenes into 3D Physical Counterfactuals for Scalable Physically Grounded Safety Evaluation | Yicheng Zhu, Linfeng Tian, Tianmu Zhao, Yang Chen et al. | [Abstract](https://arxiv.org/abs/2610.02874) · [PDF](https://arxiv.org/pdf/2610.02874) | rule-assigned |

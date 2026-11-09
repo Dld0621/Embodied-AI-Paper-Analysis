@@ -1,12 +1,12 @@
 # Task Decomposition & Symbolic Planning · 任务分解与符号规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Task%20Reasoning%20%26%20Planning&specialty=Task%20Decomposition%20%26%20Symbolic%20Planning#research-workbench)
 
-> 47 conference papers · 229 recent arXiv papers
+> 49 conference papers · 229 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,25 +20,27 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (47)
+## Conference papers (49)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | RoboAgent: Chaining Basic Capabilities for Embodied Task Planning | CVPR · Embodied planning | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_RoboAgent_Chaining_Basic_Capabilities_for_Embodied_Task_Planning_CVPR_2026_paper.html) · [Official](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_RoboAgent_Chaining_Basic_Capabilities_for_Embodied_Task_Planning_CVPR_2026_paper.html) | rule-assigned |
 | 2026 | Hierarchical LLM-Based Multi-Agent Framework with Prompt Optimization for Multi-Robot Task Planning | ICRA · Llm | [Paper](https://arxiv.org/pdf/2602.21670) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697460) | rule-assigned |
 | 2026 | IMR-LLM: Industrial Multi-Robot Task Planning and Program Generation using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2603.02669) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695905) | rule-assigned |
-| 2026 | Privacy-aware LLM-assisted Task Planning for Home Robots | ICRA · Llm | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696813) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696813) | rule-assigned |
+| 2026 | Privacy-aware LLM-assisted Task Planning for Home Robots | ICRA · Llm | [Paper](https://doi.org/10.1109/icra57385.2026.11696813) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696813) | rule-assigned |
 | 2026 | PSALM-V: Automating Symbolic Planning in Interactive Visual Environments with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2506.20097) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695799) | rule-assigned |
 | 2026 | VeriGraph: Scene Graphs for Execution Verifiable Robot Planning | ICRA · Scene Graph | [Paper](https://arxiv.org/pdf/2411.10446) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697591) | rule-assigned |
 | 2025 | BadRobot: Jailbreaking Embodied LLM Agents in the Physical World | ICLR · Llm | [Paper](https://arxiv.org/abs/2407.20242) · [Index](https://dblp.org/rec/conf/iclr/ZhangZ00YLXWHLG25) | rule-assigned |
+| 2025 | MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning | ICLR · Language Model | [Paper](https://arxiv.org/abs/2512.16909) · [Index](https://dblp.org/rec/journals/corr/abs-2512-16909) | rule-assigned |
+| 2025 | REI-Bench: Can Embodied Agents Understand Vague Human Instructions in Task Planning? | ICLR · Embodied Agent | [Paper](https://arxiv.org/abs/2505.10872) · [Index](https://dblp.org/rec/journals/corr/abs-2505-10872) | rule-assigned |
 | 2025 | AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement | ICRA · Llm | [Paper](https://arxiv.org/pdf/2502.02067) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128062) | rule-assigned |
-| 2025 | AlignBot: Aligning VLM-Powered Customized Task Planning with User Reminders Through Fine-Tuning for Household Robots | ICRA · Vlm | [Paper](https://arxiv.org/abs/2409.11905) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128775) | rule-assigned |
+| 2025 | AlignBot: Aligning VLM-Powered Customized Task Planning with User Reminders Through Fine-Tuning for Household Robots | ICRA · Vlm | [Paper](https://arxiv.org/pdf/2409.11905) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128775) | rule-assigned |
 | 2025 | ConceptAgent: LLM-Driven Precondition Grounding and Tree Search for Robust Task Planning and Execution | ICRA · Llm | [Paper](https://arxiv.org/pdf/2410.06108) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128414) | rule-assigned |
 | 2025 | DELTA: Decomposed Efficient Long-Term Robot Task Planning Using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2404.03275) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127838) | rule-assigned |
 | 2025 | DoorBot: Closed-Loop Task Planning and Manipulation for Door Opening in the Wild with Haptic Feedback | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2504.09358) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128394) | rule-assigned |
 | 2025 | Fast and Accurate Task Planning using Neuro-Symbolic Language Models and Multi-Level Goal Decomposition | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2409.19250) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127617) | rule-assigned |
 | 2025 | Large Language Model Based Autonomous Task Planning for Abstract Commands | ICRA · Large Language Model | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128343) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128343) | rule-assigned |
-| 2025 | LLM-as-BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning | ICRA · Llm | [Paper](https://arxiv.org/abs/2409.10444) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128454) | rule-assigned |
+| 2025 | LLM-as-BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning | ICRA · Llm | [Paper](https://arxiv.org/pdf/2409.10444) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128454) | rule-assigned |
 | 2025 | MultiTalk: Introspective and Extrospective Dialogue for Human-Environment-LLM Alignment | ICRA · Llm | [Paper](https://arxiv.org/pdf/2409.16455) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128486) | rule-assigned |
 | 2025 | Neuro-Symbolic Imitation Learning: Discovering Symbolic Abstractions for Skill Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2503.21406) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127692) | rule-assigned |
 | 2025 | Retrieval-Augmented Hierarchical in-Context Reinforcement Learning and Hindsight Modular Reflections for Task Planning with LLMs | ICRA · Llm | [Paper](https://arxiv.org/pdf/2408.06520) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128105) | rule-assigned |

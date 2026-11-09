@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Synthetic%20%26%20Augmented%20Data&specialty=Pending%20specialty%20review#research-workbench)
 
-> 5 conference papers · 39 recent arXiv papers
+> 5 conference papers · 38 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -30,7 +30,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations | CoRL · Demonstration generation | [Paper](https://arxiv.org/abs/2310.17596) · [Official](https://proceedings.mlr.press/v229/) · [Code](https://github.com/NVlabs/mimicgen) | needs-review |
 | 2022 | Touching a NeRF: Leveraging Neural Radiance Fields for Tactile Sensory Data Generation | CoRL · Tactile | [Paper](https://www.semanticscholar.org/paper/52ad7e7133b19adf85e49478fe17229fc893cd8f) · [Index](https://dblp.org/rec/conf/corl/ZhongAJMP22) | needs-review |
 
-## Recent arXiv papers (39)
+## Recent arXiv papers (38)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -43,7 +43,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-09-16 | Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation | Guanhua Ji, Tianyu Li, Dayoon Suh, Yuqian Zhang et al. | [Abstract](https://arxiv.org/abs/2609.19137) · [PDF](https://arxiv.org/pdf/2609.19137) | needs-review |
 | 2026-09-10 | LTLDiff: Finite Linear Temporal Logic-Guided Data Generation and Diffusion Policies for Multi-agent Robotic Manipulation | Chuhan Meng, Haiyan Yin | [Abstract](https://arxiv.org/abs/2609.11043) · [PDF](https://arxiv.org/pdf/2609.11043) | needs-review |
 | 2026-09-05 | IM-ENGINE: Image Editing for Embodied Data Generation | Yian Wang, Junyi Cao, Xiaowen Qiu, Chuang Gan | [Abstract](https://arxiv.org/abs/2609.06279) · [PDF](https://arxiv.org/pdf/2609.06279) | needs-review |
-| 2026-08-14 | MMUSV-Sim: A Perception-Oriented Simulation and Data-Generation Platform for Multi-USV Cooperative Perception | Ziao Li, Jianxiong Ye, Biao Tang, Leping Zhang et al. | [Abstract](https://arxiv.org/abs/2608.14207) · [PDF](https://arxiv.org/pdf/2608.14207) | needs-review |
 | 2026-08-07 | Synthetic LiDAR Data Generation and Deterministic Downsampling for Point Cloud Classification on the Edge | Niclas Meyer, Stefan Reitmann | [Abstract](https://arxiv.org/abs/2608.07106) · [PDF](https://arxiv.org/pdf/2608.07106) | needs-review |
 | 2026-05-26 | HumanoidMimicGen: Data Generation for Loco-Manipulation via Whole-Body Planning | Kevin Lin, Ajay Mandlekar, Caelan Reed Garrett, Nikita Chernyadev et al. | [Abstract](https://arxiv.org/abs/2605.27724) · [PDF](https://arxiv.org/pdf/2605.27724) | needs-review |
 | 2026-05-20 | PGDG: Physically Grounded Data Generation for Robust Bimanual Policy Learning from a Single Demonstration | Cunxi Dai, Haoran Chang, Aditya Nisal, Rahul Kumar et al. | [Abstract](https://arxiv.org/abs/2605.21710) · [PDF](https://arxiv.org/pdf/2605.21710) | needs-review |

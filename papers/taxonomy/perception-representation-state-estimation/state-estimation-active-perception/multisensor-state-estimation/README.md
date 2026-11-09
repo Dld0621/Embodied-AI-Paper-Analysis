@@ -1,7 +1,7 @@
 # Multisensor State Estimation · 多传感器状态估计
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=State%20Estimation%20%26%20Active%20Perception&specialty=Multisensor%20State%20Estimation#research-workbench)
@@ -31,7 +31,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | State Estimation for Compliant and Morphologically Adaptive Robots | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2509.25945) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697279) | rule-assigned |
 | 2025 | Cascade IPG Observer for Underwater Robot State Estimation | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2504.15235) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128435) | rule-assigned |
 | 2025 | Hybrid State Estimation and Mode Identification of an Amphibious Robot | ICRA · State Estimation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127611) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127611) | rule-assigned |
-| 2025 | Mixing Data-Driven and Geometric Models for Satellite Docking Port State Estimation Using an Rgb or Event Camera | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2409.15581) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128225) | rule-assigned |
+| 2025 | Mixing Data-Driven and Geometric Models for Satellite Docking Port State Estimation Using an Rgb or Event Camera | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2409.15581) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128225) | rule-assigned |
 | 2025 | RaggeDi: Diffusion-Based State Estimation of Disordered Rags, Sheets, Towels and Blankets | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2409.11831) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128504) | rule-assigned |
 | 2025 | Simultaneous Ground Reaction Force and State Estimation Via Constrained Moving Horizon Estimation | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2411.12047) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127398) | rule-assigned |
 | 2024 | A Group Theoretic Metric for Robot State Estimation Leveraging Chebyshev Interpolation | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2401.17463) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611072) | rule-assigned |
@@ -55,6 +55,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-05 | Real-Time Event-Based LED Tracking and Pose Estimation with PWM-Encoded Markers | Junkai Niu, Sheng Zhong, Delei Kong, Xin Wang et al. | [Abstract](https://arxiv.org/abs/2611.07630) · [PDF](https://arxiv.org/pdf/2611.07630) | rule-assigned |
 | 2026-10-27 | SVIn+: Multi-Modal Framework for Robust Underwater State Estimation using 3D Sonar, Visual-Inertial, Water-Pressure, and DVL | Chinmay Burgul, Xiaoming Zhao, Yewei Huang, Michalis Chatzispyrou et al. | [Abstract](https://arxiv.org/abs/2610.36454) · [PDF](https://arxiv.org/pdf/2610.36454) | rule-assigned |
 | 2026-10-27 | State estimation for a hybrid rigid-continuum space manipulator system | Lorenzo Ticozzi, Patricio A. Vela, Panagiotis Tsiotras | [Abstract](https://arxiv.org/abs/2610.37043) · [PDF](https://arxiv.org/pdf/2610.37043) | rule-assigned |
 | 2026-10-22 | Tilt-Rotor Quadcopter with Learned Residual Control and Mode-Dependent State Estimation | Ninad Joshi, Prabhat Kumar | [Abstract](https://arxiv.org/abs/2610.31051) · [PDF](https://arxiv.org/pdf/2610.31051) | rule-assigned |
@@ -284,7 +285,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-11 | Data-Driven Modeling and Verification of Perception-Based Autonomous Systems | Thomas Waite, Alexander Robey, Hassani Hamed, George J. Pappas et al. | [Abstract](https://arxiv.org/abs/2312.06848) · [PDF](https://arxiv.org/pdf/2312.06848) | rule-assigned |
 | 2023-12-06 | Weathering Ongoing Uncertainty: Learning and Planning in a Time-Varying Partially Observable Environment | Gokul Puthumanaillam, Xiangyu Liu, Negar Mehr, Melkior Ornik | [Abstract](https://arxiv.org/abs/2312.03263) · [PDF](https://arxiv.org/pdf/2312.03263) | rule-assigned |
 | 2023-11-30 | Event-based Visual Inertial Velometer | Xiuyuan Lu, Yi Zhou, Junkai Niu, Sheng Zhong et al. | [Abstract](https://arxiv.org/abs/2311.18189) · [PDF](https://arxiv.org/pdf/2311.18189) | rule-assigned |
-| 2023-11-07 | Proprioceptive Invariant Robot State Estimation | Tzu-Yuan Lin, Tingjun Li, Wenzhe Tong, Maani Ghaffari | [Abstract](https://arxiv.org/abs/2311.04320) · [PDF](https://arxiv.org/pdf/2311.04320) | rule-assigned |
 
 ---
 

@@ -1,12 +1,12 @@
 # Motion Imitation & Generation · 动作模仿与生成
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Motion%20Transfer&specialty=Motion%20Imitation%20%26%20Generation#research-workbench)
 
-> 24 conference papers · 294 recent arXiv papers
+> 25 conference papers · 295 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,19 +20,20 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (24)
+## Conference papers (25)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance | ICLR · Humanoid | [Paper](https://arxiv.org/abs/2510.14952) · [Index](https://dblp.org/rec/conf/iclr/LiWZPHWWCXZ26) | reviewed |
 | 2026 | Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2509.13534) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697242) | rule-assigned |
 | 2026 | Flip Stunts on Bicycle Robots using Iterative Motion Imitation | ICRA · Motion Imitation | [Paper](https://arxiv.org/pdf/2603.27944) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697028) | rule-assigned |
-| 2026 | MAKP: Multi-mode Accurate Kicking Policy for Humanoid Robots | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697574) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697574) | rule-assigned |
+| 2026 | MAKP: Multi-mode Accurate Kicking Policy for Humanoid Robots | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra57385.2026.11697574) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697574) | rule-assigned |
 | 2026 | PMG: Parameterized Motion Generator for Human-like Locomotion Control | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2602.12656) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696988) | rule-assigned |
 | 2026 | Unveiling the Impact of Data and Model Scaling on High-Level Control for Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2511.09241) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696742) | rule-assigned |
 | 2025 | Enhancing Context-Aware Human Motion Prediction for Efficient Robot Handovers | IROS · Robot Hand | [Paper](https://hdl.handle.net/2117/459520) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246683) | rule-assigned |
 | 2025 | Natural Humanoid Robot Locomotion with Generative Motion Prior | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2503.09015) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247682) | rule-assigned |
 | 2025 | Physics-Informed Learning for Human Whole-Body Kinematics Prediction via Sparse IMUs | IROS · Whole Body | [Paper](https://arxiv.org/abs/2509.25704) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246792) | rule-assigned |
-| 2025 | Reinforcement Learning-based Optimization of Humanoid Joint Motion Control via Text-driven Human Motion Mapping | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS60139.2025.11247451) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247451) | rule-assigned |
+| 2025 | Reinforcement Learning-based Optimization of Humanoid Joint Motion Control via Text-driven Human Motion Mapping | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2506.05117) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247451) | rule-assigned |
 | 2025 | Whole-Body Impedance Control of a Humanoid Robot Based on Human-Human Demonstration for Human-Robot Collaboration | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS60139.2025.11246994) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246994) | rule-assigned |
 | 2025 | Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning | NeurIPS · Humanoid | [Paper](https://arxiv.org/abs/2504.14305) · [Index](https://dblp.org/rec/conf/nips/ShiLWLSZSBL25) | rule-assigned |
 | 2024 | Forecasting of 3D Whole-Body Human Poses with Grasping Objects | CVPR · Whole Body | [Paper](https://doi.org/10.1109/CVPR52733.2024.00170) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.00170) | rule-assigned |
@@ -49,7 +50,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Learning a Single Policy for Diverse Behaviors on a Quadrupedal Robot Using Scalable Motion Imitation | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2303.15331) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341709) | rule-assigned |
 | 2022 | A Riemannian Take on Human Motion Analysis and Retargeting | IROS · Retargeting | [Paper](https://arxiv.org/pdf/2208.01372) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982127) | rule-assigned |
 
-## Recent arXiv papers (294)
+## Recent arXiv papers (295)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -224,6 +225,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-11-03 | FoldPath: End-to-End Object-Centric Motion Generation via Modulated Implicit Paths | Paolo Rabino, Gabriele Tiboni, Tatiana Tommasi | [Abstract](https://arxiv.org/abs/2511.01407) · [PDF](https://arxiv.org/pdf/2511.01407) | rule-assigned |
 | 2025-10-28 | Dynamically-Consistent Trajectory Optimization for Legged Robots via Contact Point Decomposition | Sangmin Kim, Hajun Kim, Gijeong Kim, Min-Gyu Kim et al. | [Abstract](https://arxiv.org/abs/2510.24069) · [PDF](https://arxiv.org/pdf/2510.24069) | rule-assigned |
 | 2025-10-20 | Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints | Junli Ren, Junfeng Long, Tao Huang, Huayi Wang et al. | [Abstract](https://arxiv.org/abs/2510.18002) · [PDF](https://arxiv.org/pdf/2510.18002) | rule-assigned |
+| 2025-10-16 | From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance | Zhe Li, Cheng Chi, Yangyang Wei, Boan Zhu et al. | [Abstract](https://arxiv.org/abs/2510.14952) · [PDF](https://arxiv.org/pdf/2510.14952) | reviewed |
 | 2025-10-13 | PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System | Huayi Wang, Wentao Zhang, Runyi Yu, Tao Huang et al. | [Abstract](https://arxiv.org/abs/2510.11072) · [PDF](https://arxiv.org/pdf/2510.11072) | rule-assigned |
 | 2025-10-11 | UF-RNN: Real-Time Adaptive Motion Generation Using Uncertainty-Driven Foresight Prediction | Hyogo Hiruma, Hiroshi Ito, Tetsuya Ogata | [Abstract](https://arxiv.org/abs/2510.10217) · [PDF](https://arxiv.org/pdf/2510.10217) | rule-assigned |
 | 2025-10-10 | Guiding Energy-Efficient Locomotion through Impact Mitigation Rewards | Chenghao Wang, Arjun Viswanathan, Eric Sihite, Alireza Ramezani | [Abstract](https://arxiv.org/abs/2510.09543) · [PDF](https://arxiv.org/pdf/2510.09543) | rule-assigned |

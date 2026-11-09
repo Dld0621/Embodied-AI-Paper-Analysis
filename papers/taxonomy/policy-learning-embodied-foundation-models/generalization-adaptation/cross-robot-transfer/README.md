@@ -1,12 +1,12 @@
 # Cross-robot Transfer · 跨机器人迁移
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generalization%20%26%20Adaptation&specialty=Cross-robot%20Transfer#research-workbench)
 
-> 1 conference papers · 67 recent arXiv papers
+> 2 conference papers · 67 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (1)
+## Conference papers (2)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2025 | TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos | CVPR · World Model | [Paper](https://arxiv.org/abs/2511.21690) · [Index](https://dblp.org/rec/journals/corr/abs-2511-21690) | rule-assigned |
 | 2025 | Universal Actions for Enhanced Embodied Foundation Models | CVPR · Foundation Model | [Paper](https://arxiv.org/pdf/2501.10105) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02096) | rule-assigned |
 
 ## Recent arXiv papers (67)

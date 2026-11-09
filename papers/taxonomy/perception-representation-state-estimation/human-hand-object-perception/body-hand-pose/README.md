@@ -1,12 +1,12 @@
 # Body & Hand Pose · 人体与手部姿态
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Human%20%26%20Hand-object%20Perception&specialty=Body%20%26%20Hand%20Pose#research-workbench)
 
-> 3 conference papers · 46 recent arXiv papers
+> 3 conference papers · 45 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,7 +28,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Contextual Emotion Recognition using Large Vision Language Models | IROS · Language Model | [Paper](https://arxiv.org/pdf/2405.08992) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802538) | rule-assigned |
 | 2023 | PoseFusion: Robust Object-in-Hand Pose Estimation with SelectLSTM | IROS · In Hand | [Paper](https://arxiv.org/pdf/2304.04523) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341688) | rule-assigned |
 
-## Recent arXiv papers (46)
+## Recent arXiv papers (45)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -77,7 +77,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-01-09 | Autonomous robotic re-alignment for face-to-face underwater human-robot interaction | Demetrious T. Kutzke, Ashwin Wariar, Junaed Sattar | [Abstract](https://arxiv.org/abs/2401.04320) · [PDF](https://arxiv.org/pdf/2401.04320) | rule-assigned |
 | 2023-12-11 | Navigating Open Set Scenarios for Skeleton-based Action Recognition | Kunyu Peng, Cheng Yin, Junwei Zheng, Ruiping Liu et al. | [Abstract](https://arxiv.org/abs/2312.06330) · [PDF](https://arxiv.org/pdf/2312.06330) | rule-assigned |
 | 2023-12-11 | 3D Hand Pose Estimation in Everyday Egocentric Images | Aditya Prakash, Ruisen Tu, Matthew Chang, Saurabh Gupta | [Abstract](https://arxiv.org/abs/2312.06583) · [PDF](https://arxiv.org/pdf/2312.06583) | rule-assigned |
-| 2023-11-08 | Exploring Event-based Human Pose Estimation with 3D Event Representations | Xiaoting Yin, Hao Shi, Jiaan Chen, Ze Wang et al. | [Abstract](https://arxiv.org/abs/2311.04591) · [PDF](https://arxiv.org/pdf/2311.04591) | rule-assigned |
 
 ---
 

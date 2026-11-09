@@ -1,12 +1,12 @@
 # Flow-matching Policies · Flow Matching 策略
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generative%20Action%20Policies&specialty=Flow-matching%20Policies#research-workbench)
 
-> 3 conference papers · 133 recent arXiv papers
+> 4 conference papers · 136 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,18 +20,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (3)
+## Conference papers (4)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | Efficient Hybrid SE(3)-Equivariant Visuomotor Flow Policy via Spherical Harmonics for Robot Manipulation | CVPR · Manipulation | [Paper](https://arxiv.org/abs/2603.23227) · [Index](https://dblp.org/rec/conf/cvpr/ZhangCDFLL26) | rule-assigned |
 | 2026 | ABPolicy: Asynchronous B-Spline Flow Policy for Real-Time and Smooth Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2602.23901) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697047) | rule-assigned |
 | 2026 | Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2510.02738) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697008) | rule-assigned |
-| 2026 | Shifted Flow Policy: Uncertainty-aware Time Reparameterization for Visuomotor Learning | ICRA · Visuomotor | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696791) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696791) | rule-assigned |
+| 2026 | Shifted Flow Policy: Uncertainty-aware Time Reparameterization for Visuomotor Learning | ICRA · Visuomotor | [Paper](https://doi.org/10.1109/icra57385.2026.11696791) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696791) | rule-assigned |
 
-## Recent arXiv papers (133)
+## Recent arXiv papers (136)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | EGT: Execution-Grounded Traversability through Learned Closed-Loop Trajectory Distributions | Chinmay Mundane, Amith Manoharan, Arun Kumar Singh | [Abstract](https://arxiv.org/abs/2611.09270) · [PDF](https://arxiv.org/pdf/2611.09270) | rule-assigned |
+| 2026-11-05 | GPWM: Modeling the World as 3D Particle Motion | Robert Ren, Matthew Bronars, He Zhu, Yikai Tang et al. | [Abstract](https://arxiv.org/abs/2611.08338) · [PDF](https://arxiv.org/pdf/2611.08338) | rule-assigned |
+| 2026-11-05 | CS-Pi: Constraint-Satisfying Flow Policy Sampling | Soumojit Bhattacharya, Oliver Kroemer, Shubham Tulsiani | [Abstract](https://arxiv.org/abs/2611.08654) · [PDF](https://arxiv.org/pdf/2611.08654) | rule-assigned |
 | 2026-11-03 | Aero-VPA: Few-Step Flow-Matching Control over Non-Reconstructive JEPA Latents for Agile Flight on Edge Hardware | Yeonseok Lee | [Abstract](https://arxiv.org/abs/2611.04392) · [PDF](https://arxiv.org/pdf/2611.04392) | rule-assigned |
 | 2026-10-31 | DriftingPlanner: Drifting Generative Models for One-Step Trajectory Planning in End-to-End Autonomous Driving | Ziming Liu, Yizhan Qu, Leichen Wang, Hao Sun | [Abstract](https://arxiv.org/abs/2611.01283) · [PDF](https://arxiv.org/pdf/2611.01283) | rule-assigned |
 | 2026-10-29 | Learning Safe Flow Matching Robot Policies from Binary Feasibility Oracles | Jianming Ma, Rongjun Jin, Yizhi Chen, Yue Gao | [Abstract](https://arxiv.org/abs/2610.40075) · [PDF](https://arxiv.org/pdf/2610.40075) | rule-assigned |

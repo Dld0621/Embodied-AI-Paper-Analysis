@@ -1,12 +1,12 @@
 # Flexible & Soft Objects · 柔性与软体物体
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation&specialty=Flexible%20%26%20Soft%20Objects#research-workbench)
 
-> 15 conference papers · 57 recent arXiv papers
+> 15 conference papers · 56 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,7 +24,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Dual Quaternion based Compliant Movement Primitives for Deformable Object Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695696) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695696) | rule-assigned |
+| 2026 | Dual Quaternion based Compliant Movement Primitives for Deformable Object Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11695696) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695696) | rule-assigned |
 | 2026 | LeHome: A Simulation Environment for Deformable Object Manipulation in Household Scenarios | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2604.22363) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696568) | rule-assigned |
 | 2026 | NovaFlow: Zero-Shot Manipulation via Actionable Flow from Generated Videos | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2510.08568) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696411) | rule-assigned |
 | 2025 | Deformpam: Data-Efficient Learning for Long-Horizon Deformable Object Manipulation Via Preference-Based Action Alignment | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2410.11584) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127926) | rule-assigned |
@@ -40,7 +40,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | ToolFlowNet: Robotic Manipulation with Tools via Predicting Tool Flow from Point Clouds | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2211.09006) · [Index](https://dblp.org/rec/conf/corl/SeitaWSLEH22) | rule-assigned |
 | 2022 | DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object Manipulations with Tools | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2203.17275) · [Index](https://dblp.org/rec/conf/iclr/LinHLTHG22) | rule-assigned |
 
-## Recent arXiv papers (57)
+## Recent arXiv papers (56)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -100,7 +100,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-16 | A Survey on Robotic Manipulation of Deformable Objects: Recent Advances, Open Challenges and New Frontiers | Feida Gu, Yanmin Zhou, Zhipeng Wang, Shuo Jiang et al. | [Abstract](https://arxiv.org/abs/2312.10419) · [PDF](https://arxiv.org/pdf/2312.10419) | rule-assigned |
 | 2023-11-30 | DeformGS: Scene Flow in Highly Deformable Scenes for Deformable Object Manipulation | Bardienus P. Duisterhof, Zhao Mandi, Yunchao Yao, Jia-Wei Liu et al. | [Abstract](https://arxiv.org/abs/2312.00583) · [PDF](https://arxiv.org/pdf/2312.00583) | rule-assigned |
 | 2023-11-16 | Enhancing Deformable Object Manipulation By Using Interactive Perception and Assistive Tools | Peng Zhou | [Abstract](https://arxiv.org/abs/2311.09659) · [PDF](https://arxiv.org/pdf/2311.09659) | rule-assigned |
-| 2023-11-05 | Make a Donut: Hierarchical EMD-Space Planning for Zero-Shot Deformable Manipulation with Tools | Yang You, Bokui Shen, Congyue Deng, Haoran Geng et al. | [Abstract](https://arxiv.org/abs/2311.02787) · [PDF](https://arxiv.org/pdf/2311.02787) | rule-assigned |
 
 ---
 

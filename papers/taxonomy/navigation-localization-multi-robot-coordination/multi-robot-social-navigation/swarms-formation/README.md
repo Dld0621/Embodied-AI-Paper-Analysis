@@ -1,12 +1,12 @@
 # Swarms & Formation · 群体与编队
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Multi-robot%20%26%20Social%20Navigation&specialty=Swarms%20%26%20Formation#research-workbench)
 
-> 11 conference papers · 121 recent arXiv papers
+> 11 conference papers · 120 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,7 +24,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | SwarmNav: Swarm Robotics Navigation in Dynamic and Dense Environments via Reinforcement Learning | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696841) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696841) | rule-assigned |
+| 2026 | SwarmNav: Swarm Robotics Navigation in Dynamic and Dense Environments via Reinforcement Learning | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra57385.2026.11696841) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696841) | rule-assigned |
 | 2025 | Real-Time Grasp Quality in Boundary-Constrained Granular Swarm Robots | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128071) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128071) | rule-assigned |
 | 2025 | Bio-inspired Shape Self-Assembly in Large-Scale Swarm Robots Under Information Asymmetry * | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS60139.2025.11246356) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246356) | rule-assigned |
 | 2025 | Exploring Spontaneous Social Interaction Swarm Robotics Powered by Large Language Models | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246362) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246362) | rule-assigned |
@@ -36,7 +36,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Barrier Function-based Safe Reinforcement Learning for Formation Control of Mobile Robots | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/icra46639.2022.9811604) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811604) | rule-assigned |
 | 2022 | Driving Swarm: A Swarm Robotics Framework for Intelligent Navigation in a Self-organized World | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811852) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811852) | rule-assigned |
 
-## Recent arXiv papers (121)
+## Recent arXiv papers (120)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -160,7 +160,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-02-02 | Efficient and Interaction-Aware Trajectory Planning for Autonomous Vehicles with Particle Swarm Optimization | Lin Song, David Isele, Naira Hovakimyan, Sangjae Bae | [Abstract](https://arxiv.org/abs/2402.01575) · [PDF](https://arxiv.org/pdf/2402.01575) | rule-assigned |
 | 2024-01-30 | An ARGoS plug-in for the Crazyflie drone | Daniel H. Stolfi, Grégoire Danoy | [Abstract](https://arxiv.org/abs/2401.16948) · [PDF](https://arxiv.org/pdf/2401.16948) | rule-assigned |
 | 2024-01-23 | Self-organizing Nervous Systems for Robot Swarms | W. Zhu, S. Oguz, M. K. Heinrich, M. Allwright et al. | [Abstract](https://arxiv.org/abs/2401.13103) · [PDF](https://arxiv.org/pdf/2401.13103) | rule-assigned |
-| 2023-11-06 | Imitation Learning based Alternative Multi-Agent Proximal Policy Optimization for Well-Formed Swarm-Oriented Pursuit Avoidance | Sizhao Li, Yuming Xiang, Rongpeng Li, Zhifeng Zhao et al. | [Abstract](https://arxiv.org/abs/2311.02912) · [PDF](https://arxiv.org/pdf/2311.02912) | rule-assigned |
 
 ---
 

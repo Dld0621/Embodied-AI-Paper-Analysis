@@ -1,12 +1,12 @@
 # Hierarchical & Mixture Policies · 分层策略与专家混合
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=VLA%20%26%20Generalist%20Robot%20Policies&specialty=Hierarchical%20%26%20Mixture%20Policies#research-workbench)
 
-> 0 conference papers · 37 recent arXiv papers
+> 1 conference papers · 37 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,9 +20,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (0)
+## Conference papers (1)
 
-No conference papers currently map to this specialty.
+| Year | Paper | Venue / topic | Online links | Review status |
+|---:|---|---|---|---|
+| 2026 | AtomicVLA: Unlocking the Potential of Atomic Skill Learning in Robots | CVPR · Vla | [Paper](https://arxiv.org/abs/2603.07648) · [Index](https://dblp.org/rec/conf/cvpr/ZhangTZCCHZXXWL26) | rule-assigned |
 
 ## Recent arXiv papers (37)
 

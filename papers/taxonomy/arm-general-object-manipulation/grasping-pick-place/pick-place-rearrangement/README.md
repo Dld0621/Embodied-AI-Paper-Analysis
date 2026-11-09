@@ -1,12 +1,12 @@
 # Pick-place & Rearrangement · 拾放与物体重排
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Grasping%20%26%20Pick-place&specialty=Pick-place%20%26%20Rearrangement#research-workbench)
 
-> 94 conference papers · 207 recent arXiv papers
+> 94 conference papers · 208 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,18 +24,18 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Beyond the Teacher: Leveraging Mixed-Skill Demonstrations for Robust Imitation Learning | ICRA · Imitation Learning | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696772) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696772) | rule-assigned |
-| 2026 | Closing the Communication Loop for Robotic Failures: Multi-Turn, Behavior-Tree-Grounded Explanations with Large Language Models | ICRA · Large Language Model | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696394) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696394) | rule-assigned |
-| 2026 | Differentiable Optimization-Based Modular Planning Framework for Pick-and-Place with Regrasp | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696037) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696037) | rule-assigned |
+| 2026 | Beyond the Teacher: Leveraging Mixed-Skill Demonstrations for Robust Imitation Learning | ICRA · Imitation Learning | [Paper](https://doi.org/10.1109/icra57385.2026.11696772) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696772) | rule-assigned |
+| 2026 | Closing the Communication Loop for Robotic Failures: Multi-Turn, Behavior-Tree-Grounded Explanations with Large Language Models | ICRA · Large Language Model | [Paper](https://doi.org/10.1109/icra57385.2026.11696394) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696394) | rule-assigned |
+| 2026 | Differentiable Optimization-Based Modular Planning Framework for Pick-and-Place with Regrasp | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra57385.2026.11696037) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696037) | rule-assigned |
 | 2026 | Imagine2Act: Leveraging Object-Action Motion Consistency from Imagined Goals for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2509.17125) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696814) | rule-assigned |
 | 2026 | LACY: A Vision-Language Model-based Language-Action Cycle for Self-Improving Robotic Manipulation | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2511.02239) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697276) | rule-assigned |
 | 2026 | MO-SeGMan: A Rearrangement Planning Framework for Multi-Objective Sequential and Guided Manipulation in Constrained Environments | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2511.01476) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695987) | rule-assigned |
 | 2026 | Notes-to-Self: Scratchpad Augmented VLAs for Memory Dependent Manipulation Tasks | ICRA · Vla | [Paper](https://arxiv.org/pdf/2602.21013) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696758) | rule-assigned |
-| 2026 | Supportive Relationships-aware Hierarchical Reinforcement Learning for Efficient Ex-situ Object Rearrangement | ICRA · Object Rearrangement | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696422) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696422) | rule-assigned |
+| 2026 | Supportive Relationships-aware Hierarchical Reinforcement Learning for Efficient Ex-situ Object Rearrangement | ICRA · Object Rearrangement | [Paper](https://doi.org/10.1109/icra57385.2026.11696422) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696422) | rule-assigned |
 | 2025 | Hierarchical Visual Policy Learning for Long-Horizon Robot Manipulation in Densely Cluttered Scenes | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2312.02697) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128752) | rule-assigned |
 | 2025 | IntelliRMS: A Robotic Manipulation System for Domain-Specific Tasks Using Vision and Language Foundational Models | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127298) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127298) | rule-assigned |
 | 2025 | Match Policy: A Simple Pipeline from Point Cloud Registration to Manipulation Policies | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2409.15517) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128725) | rule-assigned |
-| 2025 | ORLA*: Mobile Manipulator-Based Object Rearrangement with Lazy A* | ICRA · Object Rearrangement | [Paper](https://arxiv.org/abs/2309.13707) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127569) | rule-assigned |
+| 2025 | ORLA*: Mobile Manipulator-Based Object Rearrangement with Lazy A* | ICRA · Object Rearrangement | [Paper](https://arxiv.org/pdf/2309.13707) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127569) | rule-assigned |
 | 2025 | Planning for Tabletop Object Rearrangement | ICRA · Object Rearrangement | [Paper](https://arxiv.org/pdf/2411.10899) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127905) | rule-assigned |
 | 2025 | ReloPush: Multi-Object Rearrangement in Confined Spaces with a Nonholonomic Mobile Robot Pusher | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2409.18231) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128108) | rule-assigned |
 | 2025 | RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning | ICRA · Sim2Real | [Paper](https://arxiv.org/pdf/2409.20291) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128103) | rule-assigned |
@@ -119,10 +119,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Rearrangement-Based Manipulation via Kinodynamic Planning and Dynamic Planning Horizons | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2208.02312) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981599) | rule-assigned |
 | 2022 | Sequential Manipulation Planning on Scene Graph | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2207.04364) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981735) | rule-assigned |
 
-## Recent arXiv papers (207)
+## Recent arXiv papers (208)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation | Xun Tu, Minghao Zou, Karthik Desingh | [Abstract](https://arxiv.org/abs/2611.09864) · [PDF](https://arxiv.org/pdf/2611.09864) | rule-assigned |
 | 2026-11-03 | VARP: A Visual Adaptive Rearrangement Planner for Non-Monotone Object Rearrangement Planning | Hanwen Ren, Meng Zheng, Zhongpai Gao, Anwesa Choudhuri et al. | [Abstract](https://arxiv.org/abs/2611.04093) · [PDF](https://arxiv.org/pdf/2611.04093) | rule-assigned |
 | 2026-11-03 | HLO-AMP: Hierarchical Loco-Manipulation from Object-Aware Motion Priors | Jean-Pierre Sleiman, Bilal Hammoud, He Li, Jonathan Foster et al. | [Abstract](https://arxiv.org/abs/2611.05113) · [PDF](https://arxiv.org/pdf/2611.05113) | rule-assigned |
 | 2026-10-26 | Learning Multi-Phase Robot Loco-Manipulation via Phase-Conditioned Policy Optimization | Simone Manni, Annika Wollschläger, Dario Bellicoso, Abel Gawel et al. | [Abstract](https://arxiv.org/abs/2610.36270) · [PDF](https://arxiv.org/pdf/2610.36270) | rule-assigned |

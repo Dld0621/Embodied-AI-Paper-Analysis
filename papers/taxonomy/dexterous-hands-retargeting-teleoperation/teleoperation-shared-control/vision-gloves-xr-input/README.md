@@ -1,12 +1,12 @@
 # Vision, Gloves & XR Input · 视觉／手套／XR 输入
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Control&specialty=Vision%2C%20Gloves%20%26%20XR%20Input#research-workbench)
 
-> 73 conference papers · 324 recent arXiv papers
+> 74 conference papers · 323 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,20 +20,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (73)
+## Conference papers (74)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | UniHM: Unified Dexterous Hand Manipulation with Vision Language Model | ICLR · Language Model | [Paper](https://arxiv.org/abs/2603.00732) · [Index](https://dblp.org/rec/conf/iclr/ZhangLSW26) | rule-assigned |
 | 2026 | Cobalt: Crowdsourcing Robot Learning via Cloud-Based Teleoperation with Smartphones | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2605.19138) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695941) | rule-assigned |
-| 2026 | Gaze-based Teleoperation with Intent Inference Model for Robotic Manipulators * | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696397) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696397) | rule-assigned |
+| 2026 | Gaze-based Teleoperation with Intent Inference Model for Robotic Manipulators * | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/icra57385.2026.11696397) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696397) | rule-assigned |
 | 2026 | HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2603.30042) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697404) | rule-assigned |
 | 2026 | Human Motion Intent Inferencing in Teleoperation Through a SINDy Paradigm | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2511.08377) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696246) | rule-assigned |
 | 2026 | Interpretable Multimodal Gesture Recognition for Drone and Mobile Robot Teleoperation via Log-Likelihood Ratio Fusion | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2602.23694) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696154) | rule-assigned |
-| 2026 | Mixed Reality-Based, Immersive, Semi-Autonomous Robotic Telemanipulation for the Execution of Peg-In-Hole Tasks | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696446) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696446) | rule-assigned |
+| 2026 | Mixed Reality-Based, Immersive, Semi-Autonomous Robotic Telemanipulation for the Execution of Peg-In-Hole Tasks | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11696446) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696446) | rule-assigned |
 | 2026 | Open-Vocabulary Spatio-Temporal Scene Graph for Robot Perception and Teleoperation Planning | ICRA · Robot Perception | [Paper](https://arxiv.org/pdf/2509.23107) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695811) | rule-assigned |
 | 2026 | Real-Time and Accurate Collision-Free Teleoperation via Differentiable Constraint-Based Trajectory Planning | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2606.08725) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697275) | rule-assigned |
 | 2026 | SUBTA: A Framework for Supported User-Guided Bimanual Teleoperation in Structured Assembly | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2603.10459) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696315) | rule-assigned |
-| 2026 | UTTG: A Universal Teleoperation Framework via Online Trajectory Generation | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696317) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696317) | rule-assigned |
+| 2026 | UTTG: A Universal Teleoperation Framework via Online Trajectory Generation | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/icra57385.2026.11696317) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696317) | rule-assigned |
 | 2025 | A Comparative Study Between a Virtual Wand and a One-to-One Approach for the Teleoperation of a Nearby Robotic Manipulator | ICRA · Teleoperation | [Paper](https://hal.science/hal-05367775) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127740) | rule-assigned |
 | 2025 | A Modeling and Control Strategy for the Gaze-Guided Teleoperation of Robotic Manipulators via Smart Glasses | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127772) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127772) | rule-assigned |
 | 2025 | Design, Implementation, and Validation of an Ungrounded Visuo-Tactile Haptic Interface for Robotic Teleoperation in High-Risk Steel Production | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128864) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128864) | rule-assigned |
@@ -49,7 +50,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | HACTS: a Human-As-Copilot Teleoperation System for Robot Learning | IROS · Teleoperation | [Paper](https://arxiv.org/pdf/2503.24070) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247309) | rule-assigned |
 | 2025 | LLplace: Embodied 3D Indoor Layout Synthesis Framework with Large Language Model | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246995) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246995) | rule-assigned |
 | 2025 | Online Imitation Learning for Manipulation via Decaying Relative Correction through Teleoperation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2503.15368) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246547) | rule-assigned |
-| 2025 | ORCA: An Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning | IROS · Dexterous | [Paper](https://arxiv.org/abs/2504.04259) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246681) | rule-assigned |
+| 2025 | ORCA: An Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning | IROS · Dexterous | [Paper](https://arxiv.org/pdf/2504.04259) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246681) | rule-assigned |
 | 2025 | Real-time Photorealistic Mapping for Situational Awareness in Robot Teleoperation | IROS · Teleoperation | [Paper](https://arxiv.org/pdf/2509.06433) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246001) | rule-assigned |
 | 2025 | Six-DoF Hand-Based Teleoperation for Omnidirectional Aerial Robots | IROS · Teleoperation | [Paper](https://arxiv.org/pdf/2506.15009) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247292) | rule-assigned |
 | 2025 | Touch-Linked Sleeve: A Haptic Interface for Augmented Tactile Perception in Robotic Teleoperation | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS60139.2025.11245835) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245835) | rule-assigned |
@@ -93,12 +94,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Incremental Learning for Enhanced Personalization of Autocomplete Teleoperation | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/icra46639.2022.9812108) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812108) | rule-assigned |
 | 2022 | Tactile Classification of Object Materials for Virtual Reality based Robot Teleoperation | ICRA · Teleoperation | [Paper](https://hal.science/hal-03644224) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811825) | rule-assigned |
 | 2022 | The effect of challenging work environment on human-robot interaction and cognitive load during teleoperation: a case study of teleoperated excavator in a virtual experiment | ICRA · Teleoperation | [Paper](https://doi.org/10.22260/icra2022/0017) · [Publisher](https://doi.org/10.22260/icra2022/0017) | rule-assigned |
-| 2022 | Haptic Teleoperation of High-dimensional Robotic Systems Using a Feedback MPC Framework | IROS · Teleoperation | [Paper](https://arxiv.org/abs/2207.14635) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981290) | rule-assigned |
-| 2022 | Manipulability-Aware Shared Locomanipulation Motion Generation for Teleoperation of Mobile Manipulators | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982220) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982220) | rule-assigned |
+| 2022 | Haptic Teleoperation of High-dimensional Robotic Systems Using a Feedback MPC Framework | IROS · Teleoperation | [Paper](https://arxiv.org/pdf/2207.14635) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981290) | rule-assigned |
+| 2022 | Manipulability-Aware Shared Locomanipulation Motion Generation for Teleoperation of Mobile Manipulators | IROS · Teleoperation | [Paper](https://zenodo.org/record/7035640) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982220) | rule-assigned |
 | 2022 | The Predictive Kinematic Control Tree: Enhancing Teleoperation of Redundant Robots through Probabilistic User Models | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982150) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982150) | rule-assigned |
 | 2022 | Gaze Complements Control Input for Goal Prediction During Assisted Teleoperation | RSS · Teleoperation | [Paper](https://doi.org/10.15607/rss.2022.xviii.025) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.025) | rule-assigned |
 
-## Recent arXiv papers (324)
+## Recent arXiv papers (323)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -425,7 +426,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-11 | On the Feasibility of Fingerprinting Collaborative Robot Network Traffic | Cheng Tang, Diogo Barradas, Urs Hengartner, Yue Hu | [Abstract](https://arxiv.org/abs/2312.06802) · [PDF](https://arxiv.org/pdf/2312.06802) | rule-assigned |
 | 2023-12-01 | AV4EV: Open-Source Modular Autonomous Electric Vehicle Platform for Making Mobility Research Accessible | Zhijie Qiao, Mingyan Zhou, Zhijun Zhuang, Tejas Agarwal et al. | [Abstract](https://arxiv.org/abs/2312.00951) · [PDF](https://arxiv.org/pdf/2312.00951) | rule-assigned |
 | 2023-11-11 | Bootstrapping Robotic Skill Learning With Intuitive Teleoperation: Initial Feasibility Study | Xiangyu Chu, Yunxi Tang, Lam Him Kwok, Yuanpei Cai et al. | [Abstract](https://arxiv.org/abs/2311.06543) · [PDF](https://arxiv.org/pdf/2311.06543) | rule-assigned |
-| 2023-11-06 | Enabling In-Situ Resources Utilisation by leveraging collaborative robotics and astronaut-robot interaction | Silvia Romero-Azpitarte, Cristina Luna, Alba Guerra, Mercedes Alonso et al. | [Abstract](https://arxiv.org/abs/2311.03146) · [PDF](https://arxiv.org/pdf/2311.03146) | rule-assigned |
 
 ---
 

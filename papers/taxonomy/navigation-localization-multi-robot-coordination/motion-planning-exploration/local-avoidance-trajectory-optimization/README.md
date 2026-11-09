@@ -1,12 +1,12 @@
 # Local Avoidance & Trajectory Optimization · 局部避障与轨迹优化
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Motion%20Planning%20%26%20Exploration&specialty=Local%20Avoidance%20%26%20Trajectory%20Optimization#research-workbench)
 
-> 36 conference papers · 500 recent arXiv papers
+> 36 conference papers · 497 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,12 +24,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | From VO to NAO: Reactive Robot Navigation using Velocity and Acceleration Obstacles | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695859) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695859) | rule-assigned |
+| 2026 | From VO to NAO: Reactive Robot Navigation using Velocity and Acceleration Obstacles | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra57385.2026.11695859) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695859) | rule-assigned |
 | 2026 | Gaussian Process Implicit Surfaces as Control Barrier Functions for Safe Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2510.12919) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695796) | rule-assigned |
 | 2026 | Simulation-Driven Evolutionary Motion Parameterization for Contact-Rich Granular Scooping with a Soft Conical Robotic Hand | ICRA · Robotic Hand | [Paper](https://arxiv.org/pdf/2604.05531) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697467) | rule-assigned |
 | 2025 | Data-Driven Sampling Based Stochastic MPC for Skid-Steer Mobile Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2411.03289) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127456) | rule-assigned |
 | 2025 | Differentiable Composite Neural Signed Distance Fields for Robot Navigation in Dynamic Indoor Environments | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2502.02664) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128172) | rule-assigned |
-| 2025 | FlightForge: Advancing UAV Research with Procedural Generation of High-Fidelity Simulation and Integrated Autonomy | ICRA · Simulation | [Paper](https://arxiv.org/abs/2502.05038) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127704) | rule-assigned |
+| 2025 | FlightForge: Advancing UAV Research with Procedural Generation of High-Fidelity Simulation and Integrated Autonomy | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2502.05038) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127704) | rule-assigned |
 | 2025 | Reactive Collision Avoidance for Safe Agile Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.11962) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127284) | rule-assigned |
 | 2025 | Relative Velocity-Based Reward Model for Socially-Aware Navigation with Deep Reinforcement Learning | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127606) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127606) | rule-assigned |
 | 2025 | Safe Quadrotor Navigation Using Composite Control Barrier Functions | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2502.04101) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127368) | rule-assigned |
@@ -61,7 +61,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | CoMBiNED: Multi-Constrained Model Based Planning for Navigation in Dynamic Environments | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981479) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981479) | rule-assigned |
 | 2022 | Imitation Learning and Model Integrated Excavator Trajectory Planning | IROS · Imitation Learning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981220) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981220) | rule-assigned |
 
-## Recent arXiv papers (500)
+## Recent arXiv papers (497)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -562,9 +562,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-29 | Method for robotic motion compensation during PET imaging of mobile subjects | Junxiang Wang, Iulian I. Iordachita, Peter Kazanzides | [Abstract](https://arxiv.org/abs/2311.17861) · [PDF](https://arxiv.org/pdf/2311.17861) | rule-assigned |
 | 2023-11-16 | Model Checking for Closed-Loop Robot Reactive Planning | Christopher Chandler, Bernd Porr, Alice Miller, Giulia Lafratta | [Abstract](https://arxiv.org/abs/2311.09780) · [PDF](https://arxiv.org/pdf/2311.09780) | rule-assigned |
 | 2023-11-10 | Efficient Learning of Fast Inverse Kinematics with Collision Avoidance | Johannes Tenhumberg, Arman Mielke, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2311.05938) · [PDF](https://arxiv.org/pdf/2311.05938) | rule-assigned |
-| 2023-11-07 | Active Collision Avoidance System for E-Scooters in Pedestrian Environment | Xuke Yan, Dan Shen | [Abstract](https://arxiv.org/abs/2311.04383) · [PDF](https://arxiv.org/pdf/2311.04383) | rule-assigned |
-| 2023-11-06 | Safe and Efficient Trajectory Optimization for Autonomous Vehicles using B-spline with Incremental Path Flattening | Jongseo Choi, Hyuntai Chin, Hyunwoo Park, Daehyeok Kwon et al. | [Abstract](https://arxiv.org/abs/2311.02957) · [PDF](https://arxiv.org/pdf/2311.02957) | rule-assigned |
-| 2023-11-06 | Collision Avoidance using Iterative Dynamic and Nonlinear Programming with Adaptive Grid Refinements | Rebecca Richter, Alberto De Marchi, Matthias Gerdts | [Abstract](https://arxiv.org/abs/2311.03148) · [PDF](https://arxiv.org/pdf/2311.03148) | rule-assigned |
 
 ---
 

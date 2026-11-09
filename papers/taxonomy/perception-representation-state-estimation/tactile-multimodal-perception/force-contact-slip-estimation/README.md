@@ -1,7 +1,7 @@
 # Force, Contact & Slip Estimation · 力、接触与滑移估计
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Force%2C%20Contact%20%26%20Slip%20Estimation#research-workbench)
@@ -24,10 +24,10 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | TacTip-based Dynamic Contact Force Estimation with Sequential Tactile Images and Its Applications to Robotic Force Tracking | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695909) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695909) | rule-assigned |
-| 2026 | UVDtact: UV Marker-Embedded Fingertip-Like Vision-Based Tactile Sensor for Shape Reconstruction and Force Estimation | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697065) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697065) | rule-assigned |
+| 2026 | TacTip-based Dynamic Contact Force Estimation with Sequential Tactile Images and Its Applications to Robotic Force Tracking | ICRA · Tactile | [Paper](https://doi.org/10.1109/icra57385.2026.11695909) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695909) | rule-assigned |
+| 2026 | UVDtact: UV Marker-Embedded Fingertip-Like Vision-Based Tactile Sensor for Shape Reconstruction and Force Estimation | ICRA · Tactile | [Paper](https://doi.org/10.1109/icra57385.2026.11697065) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697065) | rule-assigned |
 | 2025 | Simultaneous Collision Detection and Force Estimation for Dynamic Quadrupedal Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2504.17201) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128205) | rule-assigned |
-| 2025 | Tactile-based force estimation for interaction control with robot fingers | IROS · Tactile | [Paper](https://arxiv.org/abs/2411.13335) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246923) | rule-assigned |
+| 2025 | Tactile-based force estimation for interaction control with robot fingers | IROS · Tactile | [Paper](https://arxiv.org/pdf/2411.13335) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246923) | rule-assigned |
 | 2025 | The Foundation for Tactile Robots: Approaching the Holistic Analysis of a Robot’s Force Sensing Capabilities | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS60139.2025.11246184) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246184) | rule-assigned |
 | 2024 | Acoustic Soft Tactile Skin (AST Skin) | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2303.17355) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610768) | rule-assigned |
 | 2024 | Weakly-Supervised Depth Completion during Robotic Micromanipulation from a Monocular Microscopic Image | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611357) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611357) | rule-assigned |
@@ -39,6 +39,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | Mechanical Interaction Sensing for Robotic Kiwifruit Handling with an Optoelectronic Soft Suction Cup | Romina Adhami, Ebrahim Shahabi, Alessio Mondini, Samuel M. Youssef et al. | [Abstract](https://arxiv.org/abs/2611.09468) · [PDF](https://arxiv.org/pdf/2611.09468) | reviewed |
 | 2026-10-28 | Proprioceptive Finger Force Estimation for Reliable Box Manipulation | Junha Cha, Chanwoo Kim, Kisang Park, Yeoncheol Jang et al. | [Abstract](https://arxiv.org/abs/2610.38351) · [PDF](https://arxiv.org/pdf/2610.38351) | rule-assigned |
 | 2026-10-26 | 3D-Force Estimation for Dual-arm Manipulation of Deformable Linear Objects via Factor Graphs | Annika Delucchi, Vincenzo Di Paola, Bruno Marco Quadrelli, Matteo Zoppi | [Abstract](https://arxiv.org/abs/2610.35058) · [PDF](https://arxiv.org/pdf/2610.35058) | rule-assigned |
 | 2026-09-29 | Tactile Perception through Fluid-Solid Interaction | Arman Goshtasbi, Minke Berghuis, Aida Parvaresh, Saravana Prashanth Murali Babu et al. | [Abstract](https://arxiv.org/abs/2610.03773) · [PDF](https://arxiv.org/pdf/2610.03773) | rule-assigned |
@@ -79,7 +80,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-03-02 | Automated Continuous Force-Torque Sensor Bias Estimation | Philippe Nadeau, Miguel Rogel Garcia, Emmett Wise, Jonathan Kelly | [Abstract](https://arxiv.org/abs/2403.01068) · [PDF](https://arxiv.org/pdf/2403.01068) | rule-assigned |
 | 2023-12-13 | Integrated Path Tracking with DYC and MPC using LSTM Based Tire Force Estimator for Four-wheel Independent Steering and Driving Vehicle | Sungjin Lim, Bilal Sadiq, Yongsik Jin, Sangho Lee et al. | [Abstract](https://arxiv.org/abs/2312.07826) · [PDF](https://arxiv.org/pdf/2312.07826) | rule-assigned |
 | 2023-11-24 | Multi-tap Resistive Sensing and FEM Modeling enables Shape and Force Estimation in Soft Robots | Sizhe Tian, Barnabas Gavin Cangan, Stefan Escaida Navarro, Artem Beger et al. | [Abstract](https://arxiv.org/abs/2311.14566) · [PDF](https://arxiv.org/pdf/2311.14566) | rule-assigned |
-| 2023-11-07 | Terrain Recognition and Contact Force Estimation through a Sensorized Paw for Legged Robots | Aleksander Vangen, Tejal Barnwal, Jørgen Anker Olsen, Kostas Alexis | [Abstract](https://arxiv.org/abs/2311.03855) · [PDF](https://arxiv.org/pdf/2311.03855) | rule-assigned |
 
 ---
 

@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Pending%20specialty%20review#research-workbench)
 
-> 162 conference papers · 532 recent arXiv papers
+> 165 conference papers · 537 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,13 +20,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (162)
+## Conference papers (165)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | Do You Have Freestyle? Expressive Humanoid Locomotion via Audio Control | CVPR · Humanoid | [Paper](https://arxiv.org/abs/2512.23650) · [Index](https://dblp.org/rec/conf/cvpr/LiCWZHSPWWLXZ26) | needs-review |
+| 2026 | Scalable Trajectory Generation for Whole-Body Mobile Manipulation | CVPR · Whole Body | [Paper](https://arxiv.org/abs/2604.12565) · [Index](https://dblp.org/rec/journals/corr/abs-2604-12565) | needs-review |
+| 2026 | RoboGesture: Real-Time Semantic-Aligned Co-speech Gestures Generation for Humanoid Interaction | ECCV · Humanoid | [Paper](https://arxiv.org/pdf/2608.28693) · [Publisher](https://doi.org/10.1007/978-3-032-37429-5_8) | needs-review |
 | 2026 | A Pin-Array Structured Climbing Robot for Stable Locomotion on Steep Rocky Terrain | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2603.16543) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696688) | needs-review |
-| 2026 | Agile Hauler Curriculum: Learning High-Speed Locomotion for Robots under Demanding Payloads | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695866) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695866) | needs-review |
-| 2026 | Blinking Into Emotion: How Context and LED Frequency Shape Non-Humanoid Robots’ Emotional Transparency | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696710) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696710) | needs-review |
+| 2026 | Agile Hauler Curriculum: Learning High-Speed Locomotion for Robots under Demanding Payloads | ICRA · Locomotion | [Paper](https://doi.org/10.1109/icra57385.2026.11695866) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695866) | needs-review |
+| 2026 | Blinking Into Emotion: How Context and LED Frequency Shape Non-Humanoid Robots’ Emotional Transparency | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra57385.2026.11696710) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696710) | needs-review |
 | 2026 | Control of Humanoid Robots with Parallel Mechanisms using Differential Actuation Models | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2503.22459) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696573) | needs-review |
 | 2026 | Design and Control of Modular Magnetic Millirobots for Multimodal Locomotion and Shape Reconfiguration | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2602.19346) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697213) | needs-review |
 | 2026 | Disturbance-Aware Adaptive Compensation in Hybrid Force-Position Locomotion Policy for Legged Robots | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2506.00472) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697406) | needs-review |
@@ -35,18 +38,18 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | Feasibility-Guided Planning over Multi-Specialized Locomotion Policies | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2602.07932) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696529) | needs-review |
 | 2026 | Grip as Needed, Glide on Demand: Ultrasonic Lubrication for Robotic Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2602.15608) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696075) | needs-review |
 | 2026 | H-Zero: Cross-Humanoid Locomotion Pretraining Enables Few-shot Novel Embodiment Transfer | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2512.00971) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696837) | needs-review |
-| 2026 | Learning to Control the Whole-body Shape of a Soft Robotic Arm in Unknown Situations | ICRA · Whole Body | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697492) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697492) | needs-review |
+| 2026 | Learning to Control the Whole-body Shape of a Soft Robotic Arm in Unknown Situations | ICRA · Whole Body | [Paper](https://doi.org/10.1109/icra57385.2026.11697492) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697492) | needs-review |
 | 2026 | Look Forward to Walk Backward: Efficient Terrain Memory for Backward Locomotion with Forward Vision | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2603.03138) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696282) | needs-review |
-| 2026 | MemClaw-RAG: Memory-Driven Navigation and Adaptive Locomotion for Wheeled-Legged Robots in Dynamic Environments | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695775) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695775) | needs-review |
+| 2026 | MemClaw-RAG: Memory-Driven Navigation and Adaptive Locomotion for Wheeled-Legged Robots in Dynamic Environments | ICRA · Locomotion | [Paper](https://doi.org/10.1109/icra57385.2026.11695775) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695775) | needs-review |
 | 2026 | MimicDroid: In-Context Learning for Humanoid Robot Manipulation from Human Play Videos | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2509.09769) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696685) | needs-review |
 | 2026 | Multifingered force-aware control for humanoid robots | ICRA · Multifinger | [Paper](https://arxiv.org/pdf/2603.08142) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696121) | needs-review |
 | 2026 | OpenHEART: Opening Heterogeneous Articulated Objects with a Legged Manipulator | ICRA · Legged | [Paper](https://arxiv.org/pdf/2603.05830) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697069) | needs-review |
-| 2026 | Path Tracking Control for A Transformable Wheel-Legged Robot Using Model Predictive Control | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696934) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696934) | needs-review |
-| 2026 | Real-Time Model Predictive Control of Nonlinear Coupled Joints Using MPPI: Application to Humanoid Ankle Joints | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696094) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696094) | needs-review |
+| 2026 | Path Tracking Control for A Transformable Wheel-Legged Robot Using Model Predictive Control | ICRA · Legged | [Paper](https://doi.org/10.1109/icra57385.2026.11696934) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696934) | needs-review |
+| 2026 | Real-Time Model Predictive Control of Nonlinear Coupled Joints Using MPPI: Application to Humanoid Ankle Joints | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra57385.2026.11696094) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696094) | needs-review |
 | 2026 | Towards Proprioception-Aware Embodied Planning for Dual-Arm Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2510.07882) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696567) | needs-review |
-| 2026 | Trajectory Optimization Through Mixed-Integer Optimization of Contact Dynamics for Switching End Effector Locomotion | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695825) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695825) | needs-review |
+| 2026 | Trajectory Optimization Through Mixed-Integer Optimization of Contact Dynamics for Switching End Effector Locomotion | ICRA · Locomotion | [Paper](https://doi.org/10.1109/icra57385.2026.11695825) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695825) | needs-review |
 | 2026 | VividFace: Real-Time and Realistic Facial Expression Shadowing for Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2602.07506) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696970) | needs-review |
-| 2026 | When the Adversary Knows You Better: Adversarial Training for Learning-Based Legged Robots | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696620) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696620) | needs-review |
+| 2026 | When the Adversary Knows You Better: Adversarial Training for Learning-Based Legged Robots | ICRA · Legged | [Paper](https://doi.org/10.1109/icra57385.2026.11696620) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696620) | needs-review |
 | 2026 | WiXus: A Wheeled-Legged Robot with Wire-Driven Environmental Utilizing to Integrate Mobility and Manipulation | ICRA · Legged | [Paper](https://arxiv.org/pdf/2605.20932) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696692) | needs-review |
 | 2025 | LookOut: Real-World Humanoid Egocentric Navigation | ICCV · Humanoid | [Paper](https://arxiv.org/pdf/2508.14466) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.02316) | needs-review |
 | 2025 | 3D Whole-Body Pose Estimation Using Graph High-Resolution Network for Humanoid Robot Teleoperation | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128446) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128446) | needs-review |
@@ -88,7 +91,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | Magnetic Microswarms with Controlled Locomotion in Liquid and Air Environments | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11246958) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246958) | needs-review |
 | 2025 | Prototypes, Mathematical Modeling and Motion Analysis of Heptagonal Passive Rotating Locomotion Robots with Elastic Elements Arranged on Diagonal Lines | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS60139.2025.11246716) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246716) | needs-review |
 | 2025 | Real-time Whole-body Motion Planning Based on Optimized NMPC in Static and Dynamic Environments for Mobile Manipulator | IROS · Whole Body | [Paper](https://doi.org/10.1109/IROS60139.2025.11246870) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246870) | needs-review |
-| 2025 | Stabilizing Humanoid Robot Trajectory Generation via Physics-Informed Learning and Control-Informed Steering | IROS · Humanoid | [Paper](https://arxiv.org/abs/2509.24697) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247546) | needs-review |
+| 2025 | Stabilizing Humanoid Robot Trajectory Generation via Physics-Informed Learning and Control-Informed Steering | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2509.24697) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247546) | needs-review |
 | 2025 | Teacher Motion Priors: Enhancing Robot Locomotion over Challenging Terrain | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2504.10390) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247486) | needs-review |
 | 2025 | The KIT Robotic Hands – A Scalable Humanoid Hand Platform With Multi-Modal Sensing and In-Hand Embedded Processing | IROS · In Hand | [Paper](https://doi.org/10.1109/IROS60139.2025.11245848) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245848) | needs-review |
 | 2025 | Transferable Latent-To-Latent Locomotion Policy for Efficient and Versatile Motion Control of Diverse Legged Robots | IROS · Locomotion | [Paper](https://arxiv.org/abs/2503.17626) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246100) | needs-review |
@@ -117,7 +120,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Seabed intervention with an underwater legged robot | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611135) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611135) | needs-review |
 | 2024 | Terrestrial Locomotion of PogoX: From Hardware Design to Energy Shaping and Step-to-step Dynamics Based Control | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2309.13737) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611545) | needs-review |
 | 2024 | Trajectory Optimization Strategy That Considers Body Tip-Over Stability, Limb Dynamics, and Motion Continuity in Legged Robots | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611365) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611365) | needs-review |
-| 2024 | VAPOR: Legged Robot Navigation in Unstructured Outdoor Environments using Offline Reinforcement Learning | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610132) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610132) | needs-review |
+| 2024 | VAPOR: Legged Robot Navigation in Unstructured Outdoor Environments using Offline Reinforcement Learning | ICRA · Legged | [Paper](https://arxiv.org/pdf/2309.07832) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610132) | needs-review |
 | 2024 | Explosive Legged Robotic Hopping: Energy Accumulation and Power Amplification via Pneumatic Augmentation | IROS · Legged | [Paper](https://arxiv.org/pdf/2312.05773) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801632) | needs-review |
 | 2024 | Fly by Book: How to Train a Humanoid Robot to Fly an Airplane using Large Language Models | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS58592.2024.10802288) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802288) | needs-review |
 | 2024 | Heading Control for Obstacle Avoidance using Dynamic Posture Manipulation during Tumbling Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS58592.2024.10801515) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801515) | needs-review |
@@ -141,7 +144,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Failure Detection and Fault Tolerant Control of a Jet-Powered Flying Humanoid Robot | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2305.16075) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160615) | needs-review |
 | 2023 | Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2210.08065) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160293) | needs-review |
 | 2023 | Learning an Efficient Terrain Representation for Haptic Localization of a Legged Robot | ICRA · Legged | [Paper](https://arxiv.org/pdf/2209.15135) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160340) | needs-review |
-| 2023 | Learning Arm-Assisted Fall Damage Reduction and Recovery for Legged Mobile Manipulators | ICRA · Legged | [Paper](https://arxiv.org/abs/2303.05486) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160582) | needs-review |
+| 2023 | Learning Arm-Assisted Fall Damage Reduction and Recovery for Legged Mobile Manipulators | ICRA · Legged | [Paper](https://arxiv.org/pdf/2303.05486) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160582) | needs-review |
 | 2023 | MMIC-I: A Robotic Platform for Assembly Integration and Internal Locomotion through Mechanical Meta-Material Structures | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161263) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161263) | needs-review |
 | 2023 | Mobility Analysis of Screw-Based Locomotion and Propulsion in Various Media | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2301.10878) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160777) | needs-review |
 | 2023 | Multi-embodiment Legged Robot Control as a Sequence Modeling Problem | ICRA · Legged | [Paper](https://arxiv.org/pdf/2212.09078) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161034) | needs-review |
@@ -161,7 +164,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Underwater and Surface Aquatic Locomotion of Soft Biomimetic Robot Based on Bending Rolled Dielectric Elastomer Actuators | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2310.11426) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342144) | needs-review |
 | 2023 | Causal Policy Gradient for Whole-Body Mobile Manipulation | RSS · Whole Body | [Paper](https://arxiv.org/pdf/2305.04866) · [Index](https://dblp.org/rec/conf/rss/HuSM23) | needs-review |
 | 2022 | Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior | CoRL · Legged locomotion | [Paper](https://proceedings.mlr.press/v205/margolis23a/margolis23a.pdf) · [Official](https://proceedings.mlr.press/v205/margolis23a.html) · [Code](https://gmargo11.github.io/walk-these-ways) | needs-review |
-| 2022 | A Collision-Free MPC for Whole-Body Dynamic Locomotion and Manipulation | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2202.12385) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812280) | needs-review |
+| 2022 | A Collision-Free MPC for Whole-Body Dynamic Locomotion and Manipulation | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2202.12385) · [Index](https://dblp.org/rec/conf/icra/ChiuSMF022) | needs-review |
 | 2022 | A Novel Model of Interaction Dynamics between Legged Robots and Deformable Terrain | ICRA · Legged | [Paper](https://doi.org/10.1109/icra46639.2022.9812351) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812351) | needs-review |
 | 2022 | Convex Model Predictive Control of Single Rigid Body Model on SO(3) for Versatile Dynamic Legged Motions | ICRA · Legged | [Paper](https://doi.org/10.1109/icra46639.2022.9811926) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811926) | needs-review |
 | 2022 | DanceHAT: Generate Stable Dances for Humanoid Robots with Adversarial Training | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra46639.2022.9811649) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811649) | needs-review |
@@ -174,7 +177,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Bioinspired Antagonist-agonist Artificial Muscles for Humanoid Eyeball Motions | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9982226) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982226) | needs-review |
 | 2022 | Comparison of EKF-Based Floating Base Estimators for Humanoid Robots with Flat Feet | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9982275) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982275) | needs-review |
 | 2022 | Distributed Coach-Based Reinforcement Learning Controller for Snake Robot Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9981749) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981749) | needs-review |
-| 2022 | Hands-free Telelocomotion of a Wheeled Humanoid | IROS · Humanoid | [Paper](https://arxiv.org/abs/2203.03558) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981629) | needs-review |
+| 2022 | Hands-free Telelocomotion of a Wheeled Humanoid | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2203.03558) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981629) | needs-review |
 | 2022 | Holo-SpoK: Affordance-Aware Augmented Reality Control of Legged Manipulators | IROS · Legged | [Paper](https://doi.org/10.1109/IROS47612.2022.9981989) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981989) | needs-review |
 | 2022 | Hybrid LMC: Hybrid Learning and Model-based Control for Wheeled Humanoid Robot via Ensemble Deep Reinforcement Learning | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2204.03159) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981913) | needs-review |
 | 2022 | Imitation Behavior of the Outer Edge of the Foot by Humanoids Using a Simplified Contact State Representation | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9981673) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981673) | needs-review |
@@ -187,10 +190,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Torque-Actuated Multimodal Locomotion of Ferrofluid Robot With Environment and Task Adaptability | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9981041) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981041) | needs-review |
 | 2022 | Rapid locomotion via reinforcement learning | RSS · Locomotion | [Paper](https://arxiv.org/pdf/2205.02824) · [Publisher](https://doi.org/10.1177/02783649231224053) | needs-review |
 
-## Recent arXiv papers (532)
+## Recent arXiv papers (537)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards | Nico Bohlinger, Jan Peters | [Abstract](https://arxiv.org/abs/2611.08857) · [PDF](https://arxiv.org/pdf/2611.08857) | needs-review |
+| 2026-11-05 | Whole-Body Elasto-Geometrical Calibration of Wheeled Humanoid Robots Using a Shared-Waist Dual-Chain Model | Pengxin Zha, Yi Lu, Haojun Ma, Jun Zhu et al. | [Abstract](https://arxiv.org/abs/2611.07560) · [PDF](https://arxiv.org/pdf/2611.07560) | needs-review |
+| 2026-11-05 | PhySA: Decoupling Aesthetic and Physical Rewards for Humanoid Locomotion | Yunwan Fu, Sicheng He, Jiageng Mao, Yue Wang | [Abstract](https://arxiv.org/abs/2611.07679) · [PDF](https://arxiv.org/pdf/2611.07679) | needs-review |
+| 2026-11-05 | CRISP: Constraint-Resolved Interactions between Subsystems for Predictive Whole-Body Cooperation | Dario Valenzuela, Jeeseop Kim | [Abstract](https://arxiv.org/abs/2611.07268) · [PDF](https://arxiv.org/pdf/2611.07268) | needs-review |
+| 2026-11-04 | Riemannian Optimization-based Whole-body Obstacle Avoidance for Mobile Continuum Robots in Cluttered Environments | Duo Tang, Ping Deng, Sophie Armanini, Yajing Shen et al. | [Abstract](https://arxiv.org/abs/2611.06214) · [PDF](https://arxiv.org/pdf/2611.06214) | needs-review |
+| 2026-11-04 | Perceptive Humanoid Motion from Simulation | Siyuan Hu, Abulikemu Abuduweili, Yue Meng, Shipeng Liu et al. | [Abstract](https://arxiv.org/abs/2611.06908) · [PDF](https://arxiv.org/pdf/2611.06908) | needs-review |
 | 2026-11-03 | RAIPAL: A Powerful and Agile Humanoid Arm for Human Tasks | Donggeon Kim, Hyungho Chris Choi, Donghyuk Choi, Jeongsoo Park et al. | [Abstract](https://arxiv.org/abs/2611.04334) · [PDF](https://arxiv.org/pdf/2611.04334) | needs-review |
 | 2026-11-03 | ActOR: Ambient AI-Based Agentic Orchestration for Humanoid Autonomy in Operating Rooms | Han Zhang, Sicheng Lu, Aleks Santari, Jeffrey K. Jopling et al. | [Abstract](https://arxiv.org/abs/2611.04255) · [PDF](https://arxiv.org/pdf/2611.04255) | needs-review |
 | 2026-11-02 | TRAILS: Trajectory Generation for Automated Indoor Locomotion Studies | Juho Kalliokoski, Evan G. Center, Steven M. LaValle, Timo Ojala et al. | [Abstract](https://arxiv.org/abs/2611.03254) · [PDF](https://arxiv.org/pdf/2611.03254) | needs-review |
@@ -722,7 +731,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-30 | Whole-body Dynamic Collision Avoidance with Time-varying Control Barrier Functions | Jihao Huang, Xuemin Chi, Zhitao Liu, Hongye Su | [Abstract](https://arxiv.org/abs/2311.18212) · [PDF](https://arxiv.org/pdf/2311.18212) | needs-review |
 | 2023-11-14 | Self-Contained Calibration of an Elastic Humanoid Upper Body Using Only a Head-Mounted RGB Camera | Johannes Tenhumberg, Dominik Winkelbauer, Darius Burschka, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2311.08338) · [PDF](https://arxiv.org/pdf/2311.08338) | needs-review |
 | 2023-11-14 | Calibration of an Elastic Humanoid Upper Body and Efficient Compensation for Motion Planning | Johannes Tenhumberg, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2311.08333) · [PDF](https://arxiv.org/pdf/2311.08333) | needs-review |
-| 2023-11-06 | The European Moon Rover System: a modular multipurpose rover for future complex lunar missions | Cristina Luna, Manuel Esquer, Jorge Barrientos-Díez, Alba Guerra et al. | [Abstract](https://arxiv.org/abs/2311.03136) · [PDF](https://arxiv.org/pdf/2311.03136) | needs-review |
 
 ---
 

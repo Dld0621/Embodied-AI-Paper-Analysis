@@ -1,7 +1,7 @@
 # Pending specialty review · 待审专题 · Conference 2023
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
@@ -39,7 +39,7 @@
 | 2023 | Mastering Robot Manipulation with Multimodal Prompts through Pretraining and Multi-task Fine-tuning | ICML · Manipulation | [Paper](https://arxiv.org/abs/2310.09676) · [Index](https://dblp.org/rec/journals/corr/abs-2310-09676) | needs-review |
 | 2023 | VIMA: Robot Manipulation with Multimodal Prompts | ICML · Multimodal prompting | [Paper](https://arxiv.org/abs/2210.03094) · [Official](https://proceedings.mlr.press/v202/jiang23b.html) · [Code](https://github.com/vimalabs/VIMA) | needs-review |
 | 2023 | 3DSGrasp: 3D Shape-Completion for Robotic Grasp | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2301.00866) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160350) | needs-review |
-| 2023 | A Complete Set of Connectivity-aware Local Topology Manipulation Operations for Robot Swarms | ICRA · Manipulation | [Paper](https://iris.unimore.it/bitstream/11380/1310367/2/2210.00037.pdf) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160312) | needs-review |
+| 2023 | A Complete Set of Connectivity-aware Local Topology Manipulation Operations for Robot Swarms | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2210.00037) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160312) | needs-review |
 | 2023 | Avatarm: an Avatar With Manipulation Capabilities for the Physical Metaverse | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2303.15187) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161572) | needs-review |
 | 2023 | Bioinspired tearing manipulation with a robotic fish | ICRA · Manipulation | [Paper](https://escholarship.org/content/qt6km778mq/qt6km778mq.pdf?t=s16wba) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161292) | needs-review |
 | 2023 | Clothes Grasping and Unfolding Based on RGB-D Semantic Segmentation | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2305.03259) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160268) | needs-review |
@@ -63,7 +63,7 @@
 | 2023 | Natural Language Instruction Understanding for Robotic Manipulation: a Multisensory Perception Approach | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160906) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160906) | needs-review |
 | 2023 | Real-time Acoustic Holography with Iterative Unsupervised Learning for Acoustic Robotic Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160962) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160962) | needs-review |
 | 2023 | Reinforcement Learning Based Pushing and Grasping Objects from Ungraspable Poses | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2302.13328) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160491) | needs-review |
-| 2023 | RLAfford: End-to-End Affordance Learning for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2209.12941) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161571) | needs-review |
+| 2023 | RLAfford: End-to-End Affordance Learning for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2209.12941) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161571) | needs-review |
 | 2023 | Simplifying Aerial Manipulation Using Intentional Collisions | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161462) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161462) | needs-review |
 | 2023 | Tactile-Driven Gentle Grasping for Human-Robot Collaborative Tasks | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2303.09346) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161036) | needs-review |
 | 2023 | Towards Open-World Interactive Disambiguation for Robotic Grasping | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161333) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161333) | needs-review |

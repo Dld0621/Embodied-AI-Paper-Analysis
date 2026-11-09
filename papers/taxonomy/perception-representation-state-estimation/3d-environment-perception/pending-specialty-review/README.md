@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=Pending%20specialty%20review#research-workbench)
 
-> 25 conference papers · 459 recent arXiv papers
+> 26 conference papers · 460 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (25)
+## Conference papers (26)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | Bootstrap Dynamic-Aware 3D Visual Representation for Scalable Robot Learning | CVPR · Visual Representation | [Paper](https://www.semanticscholar.org/paper/ac2baad4dba9b1cfdc1c03edf156396db82e5cfe) · [Index](https://dblp.org/rec/conf/cvpr/LiangCLZLQYLX26) | needs-review |
 | 2026 | A Counterfactual Reasoning Framework for Fault Diagnosis in Robot Perception Systems | ICRA · Robot Perception | [Paper](https://arxiv.org/pdf/2509.18460) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697565) | needs-review |
 | 2026 | Compose by Focus: Scene Graph-based Atomic Skills | ICRA · Scene Graph | [Paper](https://arxiv.org/pdf/2509.16053) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696519) | needs-review |
 | 2025 | DVS-Aware Visual Perception for Pose Estimation of Mobile Robots with Neuromorphic Implementation | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128155) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128155) | needs-review |
@@ -41,19 +42,22 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds | ICLR · Embodied Agent | [Paper](https://arxiv.org/abs/2310.13255) · [Index](https://dblp.org/rec/journals/corr/abs-2310-13255) | needs-review |
 | 2023 | Learning Temporally AbstractWorld Models without Online Experimentation | ICML · World Model | [Paper](https://www.semanticscholar.org/paper/b3e25f99d7a0e06173099538579f2b08827a6d1d) · [Index](https://dblp.org/rec/conf/icml/FreedVS0C23) | needs-review |
 | 2023 | SGTM 2.0: Autonomously Untangling Long Cables using Interactive Perception | ICRA · Active Perception | [Paper](https://arxiv.org/pdf/2209.13706) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160574) | needs-review |
-| 2023 | A Comparison Between Framed-Based and Event-Based Cameras for Flapping-Wing Robot Perception | IROS · Robot Perception | [Paper](https://doi.org/10.1109/IROS55552.2023.10342500) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342500) | needs-review |
+| 2023 | A Comparison Between Framed-Based and Event-Based Cameras for Flapping-Wing Robot Perception | IROS · Robot Perception | [Paper](https://arxiv.org/pdf/2309.05450) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342500) | needs-review |
 | 2023 | Bagging by Learning to Singulate Layers Using Interactive Perception | IROS · Active Perception | [Paper](https://arxiv.org/pdf/2303.16898) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341634) | needs-review |
 | 2022 | Adaptive Gradient-Descent Extended Kalman Filter for Pose Estimation of Mobile Robots with Sparse Reference Signals | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981893) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981893) | needs-review |
 | 2022 | Efficient Learning of Inverse Dynamics Models for Adaptive Computed Torque Control | IROS · Dynamics Model | [Paper](https://arxiv.org/pdf/2205.04796) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981744) | needs-review |
-| 2022 | ParaPose: Parameter and Domain Randomization Optimization for Pose Estimation using Synthetic Data | IROS · Synthetic Data | [Paper](https://findresearcher.sdu.dk/ws/files/220065804/parapose.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981511) | needs-review |
+| 2022 | ParaPose: Parameter and Domain Randomization Optimization for Pose Estimation using Synthetic Data | IROS · Synthetic Data | [Paper](https://arxiv.org/pdf/2203.00945) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981511) | needs-review |
 | 2022 | Uniform Global Exponential Stabilizing Passivity-Based Tracking Controller Applied to Planar Biped Robots | IROS · Biped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981206) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981206) | needs-review |
 | 2022 | End-to-End Learning of Hybrid Inverse Dynamics Models for Precise and Compliant Impedance Control | RSS · Dynamics Model | [Paper](https://arxiv.org/pdf/2205.13804) · [Index](https://dblp.org/rec/conf/rss/ReussD0BSN22) | needs-review |
 | 2022 | iSDF: Real-Time Neural Signed Distance Fields for Robot Perception | RSS · Robot Perception | [Paper](https://arxiv.org/abs/2204.02296) · [Index](https://dblp.org/rec/journals/corr/abs-2204-02296) | needs-review |
 
-## Recent arXiv papers (459)
+## Recent arXiv papers (460)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | What Limits mmWave Human-State Sensing for Robot Perception? | Shuntian Zheng, Guangming Wang, Hongyang He, Shuai He et al. | [Abstract](https://arxiv.org/abs/2611.08863) · [PDF](https://arxiv.org/pdf/2611.08863) | needs-review |
+| 2026-11-04 | UniLoop: Unified Loop Closure Detection from Retrieval to Geometric Verification and Relative Pose Estimation | Jingwen Yu, Pengyu Wang, Jin Wu, Weinan Chen et al. | [Abstract](https://arxiv.org/abs/2611.06378) · [PDF](https://arxiv.org/pdf/2611.06378) | needs-review |
+| 2026-11-04 | 3D Pose Estimation in Projection Space via Pixel-level Visible Light Communication | Michikuni Eguchi, Takefumi Hiraki | [Abstract](https://arxiv.org/abs/2611.06121) · [PDF](https://arxiv.org/pdf/2611.06121) | needs-review |
 | 2026-10-30 | TRACE: Target-State Risk-Aligned Conditional Execution for Embodied Tracking | Mingyang Lyu, Gongce Cao, Yiyang Jia, Lu Jia et al. | [Abstract](https://arxiv.org/abs/2610.41275) · [PDF](https://arxiv.org/pdf/2610.41275) | needs-review |
 | 2026-10-29 | Fundamental Limits of Sampling-Based Reachability: Geometry and Flow Distortion | Jixian Liu, Ihab Tabbara, Hussein Sibai, Enrique Mallada | [Abstract](https://arxiv.org/abs/2610.40473) · [PDF](https://arxiv.org/pdf/2610.40473) | needs-review |
 | 2026-10-26 | VisGeo-PipeTrack: A Visual Geometric Servo Control Framework with MPC-RCAPID Control for UAV-Based Dynamic Pipes Tracking | Zhenyang Gao, Jianlin Chen, Yang Yu, Honghao Shan et al. | [Abstract](https://arxiv.org/abs/2610.35342) · [PDF](https://arxiv.org/pdf/2610.35342) | needs-review |
@@ -116,7 +120,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-01 | GeminiPainter's sequence-formed pipeline comprised of perception, cognition, planning, and action stages | Miguel Altamirano Cabrera, Aleksey Fedoseev, Iana Zhura, Dzmitry Tsetserukou | [Abstract](https://arxiv.org/abs/2608.00829) · [PDF](https://arxiv.org/pdf/2608.00829) | needs-review |
 | 2026-07-31 | CorrelationFlow: A Training-Free Geometric Approach for LiDAR Scene Flow Estimation | Minh-Quan Dao, Yancong Lin, Shiming Wang, Julie Stephany Berrio Perez et al. | [Abstract](https://arxiv.org/abs/2607.29237) · [PDF](https://arxiv.org/pdf/2607.29237) | needs-review |
 | 2026-07-26 | Memory for Attention: Language-Conditioned Re-Perception with a Vision--Language--Motion Map | Dibyendu Ghosh | [Abstract](https://arxiv.org/abs/2607.23797) · [PDF](https://arxiv.org/pdf/2607.23797) | needs-review |
-| 2026-07-25 | Hold-Out Self-Validation Cannot Certify Photogrammetric Accuracy: Saturation and Blindness to Coherent Distortion | Behnam Asadi | [Abstract](https://arxiv.org/abs/2607.24852) · [PDF](https://arxiv.org/pdf/2607.24852) | needs-review |
 | 2026-07-22 | ReferTrack: Referring Then Tracking for Embodied Visual Tracking | Hanjing Ye, Tianle Zeng, Jiazhao Zhang, Shaoan Wang et al. | [Abstract](https://arxiv.org/abs/2607.20061) · [PDF](https://arxiv.org/pdf/2607.20061) | needs-review |
 | 2026-07-22 | Gimbal-Based Human Tracking for Companion Robots Using Continual Learning | Cong-Thanh Vu, Ching-Chieh Liu, Yen-Chen Liu | [Abstract](https://arxiv.org/abs/2608.21388) · [PDF](https://arxiv.org/pdf/2608.21388) | needs-review |
 | 2026-07-20 | Configuration-Induced Passive Self-Rotation for Perception-Enhanced Autonomous Flight | Xurui Liu, Miao Wang, Tianyu He, Linrui Yang et al. | [Abstract](https://arxiv.org/abs/2607.17646) · [PDF](https://arxiv.org/pdf/2607.17646) | needs-review |
@@ -140,6 +143,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-22 | Autonomous Subsea Cable Search and Tracking with Graph-Optimised Priors and Visual Tracking | Ibrahim Fadhil Djauhari, Adrian Bodenmann, Samuel Simmons, Cailei Liang et al. | [Abstract](https://arxiv.org/abs/2606.23606) · [PDF](https://arxiv.org/pdf/2606.23606) | needs-review |
 | 2026-06-22 | A Relaxed Quadratic-Program-based Framework for Trajectory Tracking of Unicycle Robots with Singularity Avoidance | Hamza Tariq, Usman Ali, Adeel Akhtar | [Abstract](https://arxiv.org/abs/2606.23355) · [PDF](https://arxiv.org/pdf/2606.23355) | needs-review |
 | 2026-06-21 | Multi-AUV Marine Life Tracking with Single Hydrophone Payloads via a Hidden Markov Model Equipped Particle Filter | Christopher Herrera, Kehlani Fay, Christopher Clark, Alberto Soto et al. | [Abstract](https://arxiv.org/abs/2606.22335) · [PDF](https://arxiv.org/pdf/2606.22335) | needs-review |
+| 2026-06-17 | Keeping Jerk in Check: Jointly Trained Perception-Gated Experts for Smooth Terrain Transitions | Francisco Affonso, Matheus P. Angarola, Ana Luiza Mineiro, Aditya Potnis et al. | [Abstract](https://arxiv.org/abs/2606.19633) · [PDF](https://arxiv.org/pdf/2606.19633) | needs-review |
 | 2026-06-17 | Hardware- and Vision-in-the-Loop Validation of Deep Monocular Pose Estimation for Autonomous Maritime UAV Flight | Maneesha Wickramasuriya, Beomyeol Yu, Jaden Shin, Mason Huslig et al. | [Abstract](https://arxiv.org/abs/2606.19176) · [PDF](https://arxiv.org/pdf/2606.19176) | needs-review |
 | 2026-06-16 | WAM-RL: World-Action Model Reinforcement Learning with Reconstruction Rewards and Online Video SFT | Zezhong Qian, Xiaowei Chi, Yu Qi, Haozhan Li et al. | [Abstract](https://arxiv.org/abs/2606.17906) · [PDF](https://arxiv.org/pdf/2606.17906) | needs-review |
 | 2026-06-15 | VENOM: Versatile Embodied Network for Omni-bodied Motion tracking | Siddharth Padmanabhan, Kazuki Miyazawa, Takato Horii | [Abstract](https://arxiv.org/abs/2606.16696) · [PDF](https://arxiv.org/pdf/2606.16696) | needs-review |
@@ -511,8 +515,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-21 | Attacking Motion Planners Using Adversarial Perception Errors | Jonathan Sadeghi, Nicholas A. Lord, John Redford, Romain Mueller | [Abstract](https://arxiv.org/abs/2311.12722) · [PDF](https://arxiv.org/pdf/2311.12722) | needs-review |
 | 2023-11-13 | Collaborative Goal Tracking of Multiple Mobile Robots Based on Geometric Graph Neural Network | Weining Lu, Qingquan Lin, Litong Meng, Chenxi Li et al. | [Abstract](https://arxiv.org/abs/2311.07105) · [PDF](https://arxiv.org/pdf/2311.07105) | needs-review |
 | 2023-11-10 | Robust Adversarial Attacks Detection for Deep Learning based Relative Pose Estimation for Space Rendezvous | Ziwei Wang, Nabil Aouf, Jose Pizarro, Christophe Honvault | [Abstract](https://arxiv.org/abs/2311.05992) · [PDF](https://arxiv.org/pdf/2311.05992) | needs-review |
-| 2023-11-06 | Initialisation of Autonomous Aircraft Visual Inspection Systems via CNN-Based Camera Pose Estimation | Xueyan Oh, Leonard Loh, Shaohui Foong, Zhong Bao Andy Koh et al. | [Abstract](https://arxiv.org/abs/2311.02900) · [PDF](https://arxiv.org/pdf/2311.02900) | needs-review |
-| 2023-11-06 | Evolution of Collective Decision-Making Mechanisms for Collective Perception | Tanja Katharina Kaiser, Tristan Potten, Heiko Hamann | [Abstract](https://arxiv.org/abs/2311.02994) · [PDF](https://arxiv.org/pdf/2311.02994) | needs-review |
 
 ---
 

@@ -1,12 +1,12 @@
 # Control & Communication Architecture · 控制与通信架构
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Computing%20%26%20Deployment%20Systems&specialty=Control%20%26%20Communication%20Architecture#research-workbench)
 
-> 2 conference papers · 74 recent arXiv papers
+> 2 conference papers · 75 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,10 +27,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Image to Patterning: Density-specified Patterning of Micro-structured Surfaces with a Mobile Robot | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS58592.2024.10802317) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802317) | rule-assigned |
 | 2022 | ROS-PyBullet Interface: A Framework for Reliable Contact Simulation and Human-Robot Interaction | CoRL · Simulation | [Paper](https://arxiv.org/abs/2210.06887) · [Index](https://dblp.org/rec/conf/corl/MowerS0RYBGVBV22) | rule-assigned |
 
-## Recent arXiv papers (74)
+## Recent arXiv papers (75)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-05 | Educational robotics beyond ROS: a custom library for direct transfer of Webots controllers in the Turtlebot3 | Jaime P. Pérez-Moro, Alejandro Romero, Hector Quintian, Francisco Bellas | [Abstract](https://arxiv.org/abs/2611.08142) · [PDF](https://arxiv.org/pdf/2611.08142) | rule-assigned |
 | 2026-10-28 | When "No Worries" Went Wrong: HRI Lessons for Foundation-Model Robots | Eliahu Khalastchi | [Abstract](https://arxiv.org/abs/2610.38400) · [PDF](https://arxiv.org/pdf/2610.38400) | rule-assigned |
 | 2026-10-22 | Multi-Tool Selection for Robotic Systems: Comparing Semantic Retrieval and LLM | Miguel Sousa, Luis Ramos Pinto, João P. Matos-Carvalho | [Abstract](https://arxiv.org/abs/2610.31013) · [PDF](https://arxiv.org/pdf/2610.31013) | rule-assigned |
 | 2026-10-15 | Sub-Millisecond Reflexes for Continuous Physical Human-Robot Interaction | Jon Škerlj, Sami Haddadin | [Abstract](https://arxiv.org/abs/2610.21913) · [PDF](https://arxiv.org/pdf/2610.21913) | rule-assigned |

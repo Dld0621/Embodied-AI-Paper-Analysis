@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Pending%20specialty%20review#research-workbench)
 
-> 190 conference papers · 960 recent arXiv papers
+> 196 conference papers · 962 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,17 +20,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (190)
+## Conference papers (196)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | MindPower: Enabling Theory-of-Mind Reasoning in VLM-based Embodied Agents | CVPR · Embodied Agent | [Paper](https://arxiv.org/abs/2511.23055) · [Index](https://dblp.org/rec/conf/cvpr/ZhangZZLWJWXFC26) | needs-review |
+| 2026 | STRNet: Visual Navigation with Spatio-Temporal Representation through Dynamic Graph Aggregation | CVPR · Navigation | [Paper](https://arxiv.org/abs/2604.02829) · [Index](https://dblp.org/rec/journals/corr/abs-2604-02829) | needs-review |
+| 2026 | VideoWeaver: Multimodal Multi-View Video-to-Video Transfer for Embodied Agents | CVPR · Embodied Agent | [Paper](https://arxiv.org/abs/2603.25420) · [Index](https://dblp.org/rec/conf/cvpr/EskandarSACBYL26) | needs-review |
+| 2026 | CoReLIN: Constraint-Based Reasoning for Zero-Shot Lifelong Interactive Navigation | ECCV · Navigation | [Paper](https://arxiv.org/pdf/2602.20055) · [Publisher](https://doi.org/10.1007/978-3-032-37461-5_30) | needs-review |
+| 2026 | Ordinal Neural Collapse as a Representation Prior for Visual Navigation | ECCV · Navigation | [Paper](https://arxiv.org/pdf/2606.26839) · [Publisher](https://doi.org/10.1007/978-3-032-37356-4_24) | needs-review |
 | 2026 | A Contrastive Few-shot RGB-D Traversability Segmentation Framework for Indoor Robotic Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2603.06927) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696029) | needs-review |
-| 2026 | A Model-Based Framework for Assessing Operator Performance in Navigational Bronchoscopy | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696817) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696817) | needs-review |
+| 2026 | A Model-Based Framework for Assessing Operator Performance in Navigational Bronchoscopy | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra57385.2026.11696817) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696817) | needs-review |
 | 2026 | Adaptive Dynamics Planning for Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2510.05330) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696086) | needs-review |
-| 2026 | Bending Perception-Based Variable Stiffness Control for Snake Robots in Pipe Navigation | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696978) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696978) | needs-review |
+| 2026 | Bending Perception-Based Variable Stiffness Control for Snake Robots in Pipe Navigation | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra57385.2026.11696978) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696978) | needs-review |
 | 2026 | Enhancing Vision-Based Policies with Omni-View and Cross-Modality Knowledge Distillation for Mobile Robots | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2603.20679) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697538) | needs-review |
 | 2026 | Latent Activation Editing: Inference-Time Refinement of Learned Policies for Safer Multirobot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2509.20623) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696670) | needs-review |
-| 2026 | MinNav: Minimalist Navigation For Active Tiny Aerial Robots | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695981) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695981) | needs-review |
+| 2026 | MinNav: Minimalist Navigation For Active Tiny Aerial Robots | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra57385.2026.11695981) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695981) | needs-review |
 | 2026 | NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2505.08712) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696748) | needs-review |
 | 2026 | NavMoe: Hybrid Model- and Learning-based Traversability Estimation for Local Navigation via Mixture of Experts | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2509.12747) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696902) | needs-review |
 | 2026 | NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2510.08173) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696470) | needs-review |
@@ -38,7 +43,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | Occlusion-Aware Consistent Model Predictive Control for Robot Navigation in Occluded Obstacle-Dense Environments | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2503.04563) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695747) | needs-review |
 | 2026 | Quadrotor Navigation using Reinforcement Learning with Privileged Information | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2509.08177) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695761) | needs-review |
 | 2026 | Responsibility and Engagement – Evaluating Interactions in Social Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2509.12890) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696295) | needs-review |
-| 2026 | Robust Robot Navigation through Failure-Aversion Learning | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697006) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697006) | needs-review |
+| 2026 | Robust Robot Navigation through Failure-Aversion Learning | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra57385.2026.11697006) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697006) | needs-review |
 | 2026 | SaferPath: Hierarchical Visual Navigation with Learned Guidance and Safety-Constrained Control | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2603.01898) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696126) | needs-review |
 | 2026 | SuReNav: Superpixel Graph-based Constraint Relaxation for Navigation in Over-constrained Environments | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2602.06807) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697269) | needs-review |
 | 2026 | Synthetic vs. Real Training Data for Visual Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2509.11791) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696703) | needs-review |
@@ -47,7 +52,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | CityWalker: Learning Embodied Urban Navigation from Web-Scale Videos | CVPR · Navigation | [Paper](https://arxiv.org/abs/2411.17820) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.00645) | needs-review |
 | 2025 | Does Matter: Visual Navigation via Denoising Diffusion Bridge Models | CVPR · Navigation | [Paper](https://arxiv.org/pdf/2504.10041) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01130) | needs-review |
 | 2025 | Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation | CVPR · Navigation | [Paper](https://arxiv.org/pdf/2501.06693) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.00155) | needs-review |
-| 2025 | Embodied Navigation with Auxiliary Task of Action Description Prediction | ICCV · Navigation | [Paper](https://arxiv.org/abs/2510.21809) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00660) | needs-review |
+| 2025 | Embodied Navigation with Auxiliary Task of Action Description Prediction | ICCV · Navigation | [Paper](https://arxiv.org/pdf/2510.21809) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00660) | needs-review |
+| 2025 | CE-Nav: Flow-Guided Reinforcement Refinement for Cross-Embodiment Local Navigation | ICLR · Navigation | [Paper](https://arxiv.org/abs/2509.23203) · [Index](https://dblp.org/rec/journals/corr/abs-2509-23203) | needs-review |
 | 2025 | ADMM-MCBF-LCA: A Layered Control Architecture for Safe Real-Time Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2503.02208) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128869) | needs-review |
 | 2025 | An Algorithm for Geometric Navigation Planning Under Uncertainty Using Terrain Boundary Detection | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127819) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127819) | needs-review |
 | 2025 | Anomalies-by-Synthesis: Anomaly Detection using Generative Diffusion Models for Off-Road Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2505.22805) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128540) | needs-review |
@@ -64,12 +70,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | NaviDiffusor: Cost-Guided Diffusion Model for Visual Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2504.10003) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127466) | needs-review |
 | 2025 | OPPA: Online Planner's Parameter Adaptation for Enhanced Mobile Robot Navigation | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128768) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128768) | needs-review |
 | 2025 | Point2Graph: An End-to-End Point Cloud-Based 3D Open-Vocabulary Scene Graph for Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.10350) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127471) | needs-review |
-| 2025 | QuasiNav: Asymmetric Cost-Aware Navigation Planning with Constrained Quasimetric Reinforcement Learning | ICRA · Navigation | [Paper](https://arxiv.org/abs/2410.16666) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127346) | needs-review |
+| 2025 | QuasiNav: Asymmetric Cost-Aware Navigation Planning with Constrained Quasimetric Reinforcement Learning | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2410.16666) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127346) | needs-review |
 | 2025 | ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.13682) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127706) | needs-review |
 | 2025 | SALON: Self-supervised Adaptive Learning for Off-road Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2412.07826) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128268) | needs-review |
 | 2025 | Self-Reflective Perceptual Adaptation for Robust Ground Navigation in Unstructured Off-Road Environments | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127392) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127392) | needs-review |
 | 2025 | UAV-Assisted Self-Supervised Terrain Awareness for Off-Road Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.18253) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128050) | needs-review |
-| 2025 | VLM-GroNav: Robot Navigation Using Physically Grounded Vision-Language Models in Outdoor Environments | ICRA · Language Model | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128264) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128264) | needs-review |
+| 2025 | VLM-GroNav: Robot Navigation Using Physically Grounded Vision-Language Models in Outdoor Environments | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2409.20445) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128264) | needs-review |
 | 2025 | X-MOBILITY: End-to-End Generalizable Navigation via World Modeling | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2410.17491) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128692) | needs-review |
 | 2025 | A Skill-Based Hierarchical Framework with Dangerous Action Masking for Autonomous Navigation of Jumping Robots | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS60139.2025.11247313) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247313) | needs-review |
 | 2025 | Autonomous Hiking Trail Navigation via Semantic Segmentation and Geometric Analysis | IROS · Navigation | [Paper](https://arxiv.org/pdf/2409.15671) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245853) | needs-review |
@@ -144,7 +150,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | TrustNavGPT: Modeling Uncertainty to Improve Trustworthiness of Audio-Guided LLM-Based Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2408.01867) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801932) | needs-review |
 | 2024 | VANP: Learning Where to See for Navigation with Self-Supervised Vision-Action Pre-Training | IROS · Navigation | [Paper](https://arxiv.org/pdf/2403.08109) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802451) | needs-review |
 | 2024 | Demonstrating CropFollow++: Robust Under-Canopy Navigation with Keypoints | RSS · Navigation | [Paper](https://doi.org/10.15607/rss.2024.xx.023) · [Publisher](https://doi.org/10.15607/rss.2024.xx.023) | needs-review |
-| 2024 | Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation | RSS · Navigation | [Paper](https://arxiv.org/abs/2402.19432) · [Index](https://dblp.org/rec/conf/rss/YangGBSVFSL24) | needs-review |
+| 2024 | Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation | RSS · Navigation | [Paper](https://arxiv.org/abs/2402.19432) · [Index](https://dblp.org/rec/journals/corr/abs-2402-19432) | needs-review |
 | 2023 | Context-Aware Deep Reinforcement Learning for Autonomous Robotic Navigation in Unknown Area | CoRL · Navigation | [Paper](https://www.semanticscholar.org/paper/29e11e51d01f52bb28f1d335227270806c090452) · [Index](https://dblp.org/rec/conf/corl/LiangWCCZS23) | needs-review |
 | 2023 | Tell Me Where to Go: A Composable Framework for Context-Aware Embodied Robot Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2306.09523) · [Index](https://dblp.org/rec/conf/corl/BiggieMWH23) | needs-review |
 | 2023 | ViNT: A Foundation Model for Visual Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2306.14846) · [Index](https://dblp.org/rec/journals/corr/abs-2306-14846) | needs-review |
@@ -193,12 +199,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action | CoRL · Navigation | [Paper](https://arxiv.org/abs/2207.04429) · [Index](https://dblp.org/rec/conf/corl/ShahOIL22) | needs-review |
 | 2022 | Offline Reinforcement Learning for Visual Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2212.08244) · [Index](https://dblp.org/rec/journals/corr/abs-2212-08244) | needs-review |
 | 2022 | Rethinking Sim2Real: Lower Fidelity Simulation Leads to Higher Sim2Real Transfer in Navigation | CoRL · Simulation | [Paper](https://arxiv.org/pdf/2207.10821) · [Index](https://dblp.org/rec/conf/corl/TruongRYCBR22) | needs-review |
-| 2022 | A Novel Assistive Controller Based on Differential Geometry for Users of the Differential-Drive Wheeled Mobile Robots | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2202.01969) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811593) | needs-review |
+| 2022 | A Novel Assistive Controller Based on Differential Geometry for Users of the Differential-Drive Wheeled Mobile Robots | ICRA · Mobile Robot | [Paper](https://arxiv.org/abs/2202.01969) · [Index](https://dblp.org/rec/journals/corr/abs-2202-01969) | needs-review |
 | 2022 | Active Learning for Testing and Evaluation in Field Robotics: A Case Study in Autonomous, Off-Road Navigation | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9812453) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812453) | needs-review |
 | 2022 | APF-RL: Safe Mapless Navigation in Unknown Environments | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811537) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811537) | needs-review |
 | 2022 | Confidence-Based Robot Navigation Under Sensor Occlusion with Deep Reinforcement Learning | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9812090) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812090) | needs-review |
 | 2022 | Exact-likelihood User Intention Estimation for Scene-compliant Shared-control Navigation | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811913) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811913) | needs-review |
-| 2022 | Motion Primitives-based Navigation Planning using Deep Collision Prediction | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2201.03254) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812231) | needs-review |
+| 2022 | Motion Primitives-based Navigation Planning using Deep Collision Prediction | ICRA · Navigation | [Paper](https://arxiv.org/abs/2201.03254) · [Index](https://dblp.org/rec/journals/corr/abs-2201-03254) | needs-review |
 | 2022 | On the Role of Hyperdimensional Computing for Behavioral Prioritization in Reactive Robot Navigation Tasks | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811939) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811939) | needs-review |
 | 2022 | Audio-Visual Depth and Material Estimation for Robot Navigation | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981549) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981549) | needs-review |
 | 2022 | Collaborative Teleoperation with Haptic Feedback for Collision-Free Navigation of Ground Robots | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981426) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981426) | needs-review |
@@ -215,10 +221,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | VER: Scaling On-Policy RL Leads to the Emergence of Navigation in Embodied Rearrangement | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.05064) · [Index](https://dblp.org/rec/conf/nips/WijmansEB22) | needs-review |
 | 2022 | ViKiNG: Vision-Based Kilometer-Scale Navigation with Geographic Hints | RSS · Navigation | [Paper](https://doi.org/10.15607/rss.2022.xviii.019) · [Publisher](https://doi.org/10.15607/RSS.2022.XVIII.019) | needs-review |
 
-## Recent arXiv papers (960)
+## Recent arXiv papers (962)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-05 | MessyNav: Zero-Shot Navigation via Manipulation in Messy Environments | Kenneth Llontop, Cherie Ho, Dylan Zhou, Anuva Banwasi et al. | [Abstract](https://arxiv.org/abs/2611.07417) · [PDF](https://arxiv.org/pdf/2611.07417) | needs-review |
+| 2026-11-05 | LMGN: A Unified Policy Learning Model for Last-Mile Grasp-Navigation | Xuenmin Hu, Qingxue Qian, Wei Luo, Benyi Ma et al. | [Abstract](https://arxiv.org/abs/2611.07515) · [PDF](https://arxiv.org/pdf/2611.07515) | needs-review |
+| 2026-11-04 | Beyond Infraction Scores: Failure-Boundary Profiles for Closed-Loop Evaluation of Driving and Robot Navigation Agents | Milan Bulat, Gino Ardelean, Ellington Kirby | [Abstract](https://arxiv.org/abs/2611.06453) · [PDF](https://arxiv.org/pdf/2611.06453) | needs-review |
+| 2026-11-03 | $\mathcal{C}^\infty$ Smooth Trajectory Planning with Application to Soft Robots | Reinhard M. Grassmann, Abdulaziz Y. Alkayas, Lingyun Chen, Sami Haddadin | [Abstract](https://arxiv.org/abs/2611.05615) · [PDF](https://arxiv.org/pdf/2611.05615) | needs-review |
 | 2026-11-02 | Safe-Ballbot: Tilt-Consistent MPC with Control Barrier Functions for Ballbot Navigation | Duc Cuong Vu, Tung Lam Nguyen | [Abstract](https://arxiv.org/abs/2611.03307) · [PDF](https://arxiv.org/pdf/2611.03307) | needs-review |
 | 2026-11-02 | Clinician-AI Collaboration in Endovascular Neurointerventions: In-Vitro User Study of Copilot Assistance Modes for Robotic Navigation Across the Autonomy Spectrum | Nikola Fischer, Harry Robertshaw, S. M. Hadi Sadati, Xingyu Chen et al. | [Abstract](https://arxiv.org/abs/2611.03446) · [PDF](https://arxiv.org/pdf/2611.03446) | needs-review |
 | 2026-10-29 | Robot Navigation and Canine Welfare: A Pilot Study Surfacing Challenges for Cross-Species Legibility and Proxy Validity in Animal-Machine Interaction | Haoxiang Zhang, Nancy Smith | [Abstract](https://arxiv.org/abs/2610.40921) · [PDF](https://arxiv.org/pdf/2610.40921) | needs-review |
@@ -583,6 +593,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-12-24 | Fast Navigation Through Occluded Spaces via Language-Conditioned Map Prediction | Rahul Moorthy Mahesh, Oguzhan Goktug Poyrazoglu, Yukang Cao, Volkan Isler | [Abstract](https://arxiv.org/abs/2512.21398) · [PDF](https://arxiv.org/pdf/2512.21398) | needs-review |
 | 2025-12-24 | Certifiable Alignment of GNSS and Local Frames via Lagrangian Duality | Baoshan Song, Matthew Giamou, Penggao Yan, Chunxi Xia et al. | [Abstract](https://arxiv.org/abs/2512.20931) · [PDF](https://arxiv.org/pdf/2512.20931) | needs-review |
 | 2025-12-22 | CoDrone: Autonomous Drone Navigation Assisted by Edge and Cloud Foundation Models | Pengyu Chen, Tao Ouyang, Ke Luo, Weijie Hong et al. | [Abstract](https://arxiv.org/abs/2512.19083) · [PDF](https://arxiv.org/pdf/2512.19083) | needs-review |
+| 2025-12-17 | Representations of 3D Rotations: Mathematical Foundations and Comparative Analysis | Aizierjiang Aiersilan, Haochen Liu, James Hahn | [Abstract](https://arxiv.org/abs/2605.08086) · [PDF](https://arxiv.org/pdf/2605.08086) | needs-review |
 | 2025-12-17 | HERO: Hierarchical Traversable 3D Scene Graphs for Embodied Navigation Among Movable Obstacles | Yunheng Wang, Yixiao Feng, Yuetong Fang, Shuning Zhang et al. | [Abstract](https://arxiv.org/abs/2512.15047) · [PDF](https://arxiv.org/pdf/2512.15047) | needs-review |
 | 2025-12-15 | SocialNav-MoE: A Mixture-of-Experts Vision Language Model for Socially Compliant Navigation with Reinforcement Fine-Tuning | Tomohito Kawabata, Xinyu Zhang, Ling Xiao | [Abstract](https://arxiv.org/abs/2512.14757) · [PDF](https://arxiv.org/pdf/2512.14757) | needs-review |
 | 2025-12-15 | Evaluating the Navigation Capabilities of a Modified COAST Guidewire Robot in an Anatomical Phantom Model | Timothy A. Brumfiel, Revanth Konda, Drew Elliott, Jaydev P. Desai | [Abstract](https://arxiv.org/abs/2512.13477) · [PDF](https://arxiv.org/pdf/2512.13477) | needs-review |
@@ -593,7 +604,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-12-11 | Curriculum-Based Reinforcement Learning for Autonomous UAV Navigation in Unknown Curved Tubular Conduit | Zamirddine Mari, Jérôme Pasquet, Julien Seinturier | [Abstract](https://arxiv.org/abs/2512.10934) · [PDF](https://arxiv.org/pdf/2512.10934) | needs-review |
 | 2025-12-10 | UrbanNav: Learning Language-Guided Urban Navigation from Web-Scale Human Trajectories | Yanghong Mei, Yirong Yang, Longteng Guo, Qunbo Wang et al. | [Abstract](https://arxiv.org/abs/2512.09607) · [PDF](https://arxiv.org/pdf/2512.09607) | needs-review |
 | 2025-12-09 | Learning Spatiotemporal Tubes for Temporal Reach-Avoid-Stay Tasks using Physics-Informed Neural Networks | Ahan Basu, Ratnangshu Das, Pushpak Jagtap | [Abstract](https://arxiv.org/abs/2512.08248) · [PDF](https://arxiv.org/pdf/2512.08248) | needs-review |
-| 2025-12-08 | VLD: Visual Language Goal Distance for Reinforcement Learning Navigation | Lazar Milikic, Manthan Patel, Jonas Frey | [Abstract](https://arxiv.org/abs/2512.07976) · [PDF](https://arxiv.org/pdf/2512.07976) | needs-review |
 | 2025-12-05 | Cascaded Tightly-Coupled Observer Design for Single-Range-Aided Inertial Navigation | Oussama Sifour, Soulaimane Berkane, Abdelhamid Tayebi | [Abstract](https://arxiv.org/abs/2512.06198) · [PDF](https://arxiv.org/pdf/2512.06198) | needs-review |
 | 2025-12-04 | SIMA 2: A Generalist Embodied Agent for Virtual Worlds | SIMA team, Adrian Bolton, Alexander Lerchner, Alexandra Cordell et al. | [Abstract](https://arxiv.org/abs/2512.04797) · [PDF](https://arxiv.org/pdf/2512.04797) | needs-review |
 | 2025-12-03 | NavMapFusion: Diffusion-based Fusion of Navigation Maps for Online Vectorized HD Map Construction | Thomas Monninger, Zihan Zhang, Steffen Staab, Sihao Ding | [Abstract](https://arxiv.org/abs/2512.03317) · [PDF](https://arxiv.org/pdf/2512.03317) | needs-review |
@@ -1177,8 +1187,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-15 | Motion Control of Two Mobile Robots under Allowable Collisions | Li Tan, Wei Ren, Xi-Ming Sun, Junlin Xiong | [Abstract](https://arxiv.org/abs/2311.08880) · [PDF](https://arxiv.org/pdf/2311.08880) | needs-review |
 | 2023-11-14 | Language and Sketching: An LLM-driven Interactive Multimodal Multitask Robot Navigation Framework | Weiqin Zu, Wenbin Song, Ruiqing Chen, Ze Guo et al. | [Abstract](https://arxiv.org/abs/2311.08244) · [PDF](https://arxiv.org/pdf/2311.08244) | needs-review |
 | 2023-11-12 | A Survey on Socially Aware Robot Navigation: Taxonomy and Future Challenges | Phani Teja Singamaneni, Pilar Bachiller-Burgos, Luis J. Manso, Anaís Garrell et al. | [Abstract](https://arxiv.org/abs/2311.06922) · [PDF](https://arxiv.org/pdf/2311.06922) | needs-review |
-| 2023-11-07 | Model-Free Source Seeking by a Novel Single-Integrator with Attenuating Oscillations and Better Convergence Rate: Robotic Experiments | Shivam Bajpai, Ahmed A. Elgohary, Sameh A. Eisa | [Abstract](https://arxiv.org/abs/2311.04330) · [PDF](https://arxiv.org/pdf/2311.04330) | needs-review |
-| 2023-11-06 | OVIR-3D: Open-Vocabulary 3D Instance Retrieval Without Training on 3D Data | Shiyang Lu, Haonan Chang, Eric Pu Jing, Abdeslam Boularias et al. | [Abstract](https://arxiv.org/abs/2311.02873) · [PDF](https://arxiv.org/pdf/2311.02873) | needs-review |
 
 ---
 

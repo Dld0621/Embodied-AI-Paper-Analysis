@@ -1,12 +1,12 @@
 # Action-conditioned Video Prediction · 动作条件视频预测
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=World%20%26%20Dynamics%20Modeling&specialty=Action-conditioned%20Video%20Prediction#research-workbench)
 
-> 3 conference papers · 115 recent arXiv papers
+> 4 conference papers · 118 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,18 +20,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (3)
+## Conference papers (4)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation | ECCV · Manipulation | [Paper](https://arxiv.org/abs/2605.22882) · [Index](https://dblp.org/rec/conf/eccv/ZhouCZHCCQDLLW26) | rule-assigned |
 | 2025 | Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations | ICML · Visual Representation | [Paper](https://arxiv.org/abs/2412.14803) · [Index](https://dblp.org/rec/conf/icml/HuGWCWZSL025) | rule-assigned |
 | 2025 | SAMPO:Scale-wise Autoregression with Motion PrOmpt for generative world models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2509.15536) · [Index](https://dblp.org/rec/conf/nips/WangTWLLDXZTH25) | rule-assigned |
 | 2024 | iVideoGPT: Interactive VideoGPTs are Scalable World Models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2405.15223) · [Index](https://dblp.org/rec/journals/corr/abs-2405-15223) | rule-assigned |
 
-## Recent arXiv papers (115)
+## Recent arXiv papers (118)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-05 | VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding | Yu-Cheng Chou, Shihao Wang, Jin Huang, Chi-Pin Huang et al. | [Abstract](https://arxiv.org/abs/2611.08449) · [PDF](https://arxiv.org/pdf/2611.08449) | rule-assigned |
+| 2026-11-05 | Structure from Collision via Hypothesis-Space Reasoning | Takuhiro Kaneko | [Abstract](https://arxiv.org/abs/2611.07900) · [PDF](https://arxiv.org/pdf/2611.07900) | rule-assigned |
+| 2026-11-05 | Reinforcing End-to-End Autonomous Driving Safety via Negative-Aware Planning in a Unified World-Action Model | Zihao Zhang, Xinyu Zhang, Bing Zeng, Xingyu Chen et al. | [Abstract](https://arxiv.org/abs/2611.08111) · [PDF](https://arxiv.org/pdf/2611.08111) | rule-assigned |
 | 2026-11-03 | PrimeSim: A Generalist World Model Simulator from Large-Scale Cross-Embodiment Demonstrations | Travis Davies, Wentao Ma, Lihao Guo, Tengfei Ma et al. | [Abstract](https://arxiv.org/abs/2611.04870) · [PDF](https://arxiv.org/pdf/2611.04870) | reviewed |
 | 2026-11-03 | HiLo-WAM: Decoupling Long-Horizon Task Evolution and Local Dynamics in World Action Models | Xingyu Wang, Yanjiang Guo, Zhijing Ding, Jiaxin Fang et al. | [Abstract](https://arxiv.org/abs/2611.05023) · [PDF](https://arxiv.org/pdf/2611.05023) | reviewed |
 | 2026-10-31 | pico-WAM: Evaluating Counterfactual Prediction and Planning Error in a Compact World Action Model | Keivalya Pandya | [Abstract](https://arxiv.org/abs/2611.01039) · [PDF](https://arxiv.org/pdf/2611.01039) | rule-assigned |

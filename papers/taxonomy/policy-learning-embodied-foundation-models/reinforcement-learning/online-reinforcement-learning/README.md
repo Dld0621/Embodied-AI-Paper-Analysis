@@ -1,12 +1,12 @@
 # Online Reinforcement Learning · 在线强化学习
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Reinforcement%20Learning&specialty=Online%20Reinforcement%20Learning#research-workbench)
 
-> 53 conference papers · 1,163 recent arXiv papers
+> 55 conference papers · 1,162 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,15 +20,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (53)
+## Conference papers (55)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | Tac2Real: Reliable and GPU Visuotactile Simulation for Online Reinforcement Learning and Zero-Shot Real-World Deployment | ECCV · Simulation | [Paper](https://arxiv.org/abs/2603.28475) · [Index](https://dblp.org/rec/conf/eccv/YanWSWWXP26) | rule-assigned |
+| 2026 | RFS: Reinforcement Learning with Residual Flow Steering for Dexterous Manipulation | ICLR · Dexterous | [Paper](https://arxiv.org/abs/2602.01789) · [Index](https://dblp.org/rec/journals/corr/abs-2602-01789) | reviewed |
 | 2026 | Efficient and Versatile Quadrupedal Skating: Optimal Co-design via Reinforcement Learning and Bayesian Optimization | ICRA · Quadruped | [Paper](https://arxiv.org/pdf/2603.18408) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696963) | rule-assigned |
 | 2026 | Hierarchical DLO Routing with Reinforcement Learning and In-Context Vision-Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2510.19268) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696258) | rule-assigned |
 | 2026 | Masked IRL: LLM-Guided Reward Disambiguation from Demonstrations and Language | ICRA · Llm | [Paper](https://arxiv.org/pdf/2511.14565) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696140) | rule-assigned |
 | 2026 | RoboMorph: Evolving Robot Morphology using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2407.08626) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696020) | rule-assigned |
-| 2026 | Using Non-Expert Data to Robustify Imitation Learning via Offline Reinforcement Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2510.19495) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696132) | rule-assigned |
+| 2026 | Using Non-Expert Data to Robustify Imitation Learning via Offline Reinforcement Learning | ICRA · Imitation Learning | [Paper](https://doi.org/10.1109/icra57385.2026.11696132) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696132) | rule-assigned |
 | 2025 | Automated Hybrid Reward Scheduling Via Large Language Models for Robotic Skill Learning | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2505.02483) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127726) | rule-assigned |
 | 2025 | Deep Reinforcement Learning for Coordinated Payload Transport in Biped-Wheeled Robots | ICRA · Biped | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127939) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127939) | rule-assigned |
 | 2025 | Dynamic Object Goal Pushing with Mobile Manipulators Through Model-Free Constrained Reinforcement Learning | ICRA · Object Goal | [Paper](https://arxiv.org/pdf/2502.01546) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128166) | rule-assigned |
@@ -78,10 +80,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | How to Spend Your Robot Time: Bridging Kickstarting and Offline Reinforcement Learning for Vision-based Robotic Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2205.03353) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981126) | rule-assigned |
 | 2022 | Impact Makes a Sound and Sound Makes an Impact: Sound Guides Representations and Explorations | IROS · Exploration | [Paper](https://arxiv.org/pdf/2208.02680) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981510) | rule-assigned |
 
-## Recent arXiv papers (1,163)
+## Recent arXiv papers (1,162)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-05 | An Empirical Study of Reinforcement Learning for Keypoint Positioning of Deformable Linear Objects | Vinay Rodrigues, Sara Zeynalpour, Gokhan Solak, Sebastian Hjorth et al. | [Abstract](https://arxiv.org/abs/2611.07261) · [PDF](https://arxiv.org/pdf/2611.07261) | rule-assigned |
+| 2026-11-04 | TwinBridge: Digital Twin-Driven Policy and Reward Transfer for Real-World Reinforcement Learning in Laboratory Robotics | Shu'ang Sun, Yibo Qiu, Haoliang Ye, Zan Huang et al. | [Abstract](https://arxiv.org/abs/2611.06442) · [PDF](https://arxiv.org/pdf/2611.06442) | rule-assigned |
+| 2026-11-04 | Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement | Michal Korniak, Marco Bagatella, Ralf Römer, Michal Nauman et al. | [Abstract](https://arxiv.org/abs/2611.06905) · [PDF](https://arxiv.org/pdf/2611.06905) | rule-assigned |
+| 2026-11-04 | Compounding Physical RSI: Turning Execution Failure into Inherited Capability | Yixuan Yang, Qiang Chen, Run Shao, Shuwei Dong et al. | [Abstract](https://arxiv.org/abs/2611.06654) · [PDF](https://arxiv.org/pdf/2611.06654) | rule-assigned |
 | 2026-11-03 | PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning | Yuhan Liu, Xinqi Liu, Zixuan Dong, Keith W. Ross et al. | [Abstract](https://arxiv.org/abs/2611.05372) · [PDF](https://arxiv.org/pdf/2611.05372) | rule-assigned |
 | 2026-11-03 | LLMs as MDP Designers: A Dependency-Aware Agentic Framework for Automated Robot Policy Generation | Hong Je-Gal, Jinwoo Kim, Chanbin Yi, Hyun-Suk Lee | [Abstract](https://arxiv.org/abs/2611.04974) · [PDF](https://arxiv.org/pdf/2611.04974) | rule-assigned |
 | 2026-11-03 | GSBR: Geometric Support Behavior Regularization for Online RL | Charles Xu, Jacob Berg, Liyiming Ke, Sergey Levine | [Abstract](https://arxiv.org/abs/2611.05295) · [PDF](https://arxiv.org/pdf/2611.05295) | rule-assigned |
@@ -265,7 +271,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-07-02 | CoRe: Combined Rewards with Vision-Language Model Feedback for Preference-Aligned Reinforcement Learning | Hexian Ni, Tao Lu, Yinghao Cai | [Abstract](https://arxiv.org/abs/2607.01721) · [PDF](https://arxiv.org/pdf/2607.01721) | rule-assigned |
 | 2026-07-01 | VLM-AR3L: Vision-Language Models for Absolute and Relative Rewards in Reinforcement Learning | Kuan-Chen Chen, Winston Chen, Wei-Fang Sun, Min-Chun Hu | [Abstract](https://arxiv.org/abs/2607.00483) · [PDF](https://arxiv.org/pdf/2607.00483) | rule-assigned |
 | 2026-07-01 | Simulation Based Reward Function Validation for Multi-Agent On Orbit Inspection | Patrick Quinn, Bala Prenith Reddy Gopu, George M. Nehma, Madhur Tiwari | [Abstract](https://arxiv.org/abs/2607.01367) · [PDF](https://arxiv.org/pdf/2607.01367) | rule-assigned |
-| 2026-06-30 | Warp RL: Reshaping Base Policy Distributions for Dynamics Adaptation | Ethan Hirschowitz, Fabio Ramos | [Abstract](https://arxiv.org/abs/2606.31043) · [PDF](https://arxiv.org/pdf/2606.31043) | rule-assigned |
 | 2026-06-30 | Stage-Transition Dense Reward Modeling for Reinforcement Learning | Yang Yang, Bingjie Chen, Zihan Wang, Yizhe Li et al. | [Abstract](https://arxiv.org/abs/2606.31377) · [PDF](https://arxiv.org/pdf/2606.31377) | rule-assigned |
 | 2026-06-30 | Learning Expert Strategy for Autonomous Robotic Endovascular Intervention via Decoupled Procedural Execution | Yanxi Chen, Tianliang Yao, Shaolong Tang, Jiyuan Zhao et al. | [Abstract](https://arxiv.org/abs/2607.00066) · [PDF](https://arxiv.org/pdf/2607.00066) | rule-assigned |
 | 2026-06-30 | Distributed Multi Robot Lunar Cargo Transportation via Phase Decomposed Reinforcement Learning | Ashutosh Mishra, Elian Neppel, Shreya Santra, Antoine Jonquières et al. | [Abstract](https://arxiv.org/abs/2607.00160) · [PDF](https://arxiv.org/pdf/2607.00160) | rule-assigned |
@@ -470,6 +475,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-02-05 | InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions | Sirui Xu, Samuel Schulter, Morteza Ziyadi, Xialin He et al. | [Abstract](https://arxiv.org/abs/2602.06035) · [PDF](https://arxiv.org/pdf/2602.06035) | rule-assigned |
 | 2026-02-04 | Optimal Multi-Debris Mission Planning in LEO: A Deep Reinforcement Learning Approach with Co-Elliptic Transfers and Refueling | Agni Bandyopadhyay, Gunther Waxenegger-Wilfing | [Abstract](https://arxiv.org/abs/2602.17685) · [PDF](https://arxiv.org/pdf/2602.17685) | rule-assigned |
 | 2026-02-03 | Training and Simulation of Quadrupedal Robot in Adaptive Stair Climbing and Descending for Indoor Firefighting: An End-to-End Reinforcement Learning Approach | Baixiao Huang, Baiyu Huang, Yu Hou | [Abstract](https://arxiv.org/abs/2602.03087) · [PDF](https://arxiv.org/pdf/2602.03087) | rule-assigned |
+| 2026-02-02 | RFS: Reinforcement Learning with Residual Flow Steering for Dexterous Manipulation | Entong Su, Tyler Westenbroek, Anusha Nagabandi, Abhishek Gupta | [Abstract](https://arxiv.org/abs/2602.01789) · [PDF](https://arxiv.org/pdf/2602.01789) | reviewed |
 | 2026-01-31 | Agentic Reward Modeling: Verifying GUI Agent via Progressive Trajectory-Grounded Interaction | Chaoqun Cui, Jing Huang, Shijing Wang, Liming Zheng et al. | [Abstract](https://arxiv.org/abs/2602.00575) · [PDF](https://arxiv.org/pdf/2602.00575) | rule-assigned |
 | 2026-01-30 | MTDrive: Multi-turn Interactive Reinforcement Learning for Autonomous Driving | Xidong Li, Mingyu Guo, Chenchao Xu, Bailin Li et al. | [Abstract](https://arxiv.org/abs/2601.22930) · [PDF](https://arxiv.org/pdf/2601.22930) | rule-assigned |
 | 2026-01-30 | IRL-DAL: Safe and Adaptive Trajectory Planning for Autonomous Driving via Energy-Guided Diffusion Models | Seyed Ahmad Hosseini Miangoleh, Amin Jalal Aghdasian, Farzaneh Abdollahi | [Abstract](https://arxiv.org/abs/2601.23266) · [PDF](https://arxiv.org/pdf/2601.23266) | rule-assigned |
@@ -1240,11 +1246,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-12 | Model-assisted Reinforcement Learning of a Quadrotor | Arshad Javeed | [Abstract](https://arxiv.org/abs/2311.06914) · [PDF](https://arxiv.org/pdf/2311.06914) | rule-assigned |
 | 2023-11-11 | An Intelligent Social Learning-based Optimization Strategy for Black-box Robotic Control with Reinforcement Learning | Xubo Yang, Jian Gao, Ting Wang, Yaozhen He | [Abstract](https://arxiv.org/abs/2311.06576) · [PDF](https://arxiv.org/pdf/2311.06576) | rule-assigned |
 | 2023-11-09 | LLM Augmented Hierarchical Agents | Bharat Prakash, Tim Oates, Tinoosh Mohsenin | [Abstract](https://arxiv.org/abs/2311.05596) · [PDF](https://arxiv.org/pdf/2311.05596) | rule-assigned |
-| 2023-11-06 | Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization | Kun Lei, Zhengmao He, Chenhao Lu, Kaizhe Hu et al. | [Abstract](https://arxiv.org/abs/2311.03351) · [PDF](https://arxiv.org/pdf/2311.03351) | rule-assigned |
-| 2023-11-06 | Reinforcement Learning for Safety Testing: Lessons from A Mobile Robot Case Study | Tom P. Huck, Martin Kaiser, Constantin Cronrath, Bengt Lennartson et al. | [Abstract](https://arxiv.org/abs/2311.02907) · [PDF](https://arxiv.org/pdf/2311.02907) | rule-assigned |
-| 2023-11-06 | CLIP-Motion: Learning Reward Functions for Robotic Actions Using Consecutive Observations | Xuzhe Dang, Stefan Edelkamp | [Abstract](https://arxiv.org/abs/2311.03485) · [PDF](https://arxiv.org/pdf/2311.03485) | rule-assigned |
-| 2023-11-04 | MAAIP: Multi-Agent Adversarial Interaction Priors for imitation from fighting demonstrations for physics-based characters | Mohamed Younes, Ewa Kijak, Richard Kulpa, Simon Malinowski et al. | [Abstract](https://arxiv.org/abs/2311.02502) · [PDF](https://arxiv.org/pdf/2311.02502) | rule-assigned |
-| 2023-11-04 | Accelerating Reinforcement Learning of Robotic Manipulations via Feedback from Large Language Models | Kun Chu, Xufeng Zhao, Cornelius Weber, Mengdi Li et al. | [Abstract](https://arxiv.org/abs/2311.02379) · [PDF](https://arxiv.org/pdf/2311.02379) | rule-assigned |
 
 ---
 

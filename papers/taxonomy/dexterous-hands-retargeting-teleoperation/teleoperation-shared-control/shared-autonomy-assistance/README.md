@@ -1,12 +1,12 @@
 # Shared Autonomy & Assistance · 共享自主与辅助控制
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Control&specialty=Shared%20Autonomy%20%26%20Assistance#research-workbench)
 
-> 7 conference papers · 65 recent arXiv papers
+> 7 conference papers · 64 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,11 +28,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | Uncertainty-Aware Shared Control for Vision-Based Micromanipulation | IROS · Manipulation | [Paper](https://kclpure.kcl.ac.uk/ws/files/342204454/IROS_2025_Huanyu_shared_control_and_calibration_under_uncertain-10.pdf) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247762) | rule-assigned |
 | 2023 | HAT: Head-Worn Assistive Teleoperation of Mobile Manipulators | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2209.13097) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160431) | rule-assigned |
 | 2023 | Shared Autonomy Control for Slosh-Free Teleoperation | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342234) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342234) | rule-assigned |
-| 2022 | ASHA: Assistive Teleoperation via Human-in-the-Loop Reinforcement Learning | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2202.02465) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812442) | rule-assigned |
+| 2022 | ASHA: Assistive Teleoperation via Human-in-the-Loop Reinforcement Learning | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2202.02465) · [Index](https://dblp.org/rec/journals/corr/abs-2202-02465) | rule-assigned |
 | 2022 | Blending Primitive Policies in Shared Control for Assisted Teleoperation | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2204.07026) · [Index](https://dblp.org/rec/journals/corr/abs-2204-07026) | rule-assigned |
 | 2022 | Skill-CPD: Real-time Skill Refinement for Shared Autonomy in Manipulator Teleoperation | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982077) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982077) | rule-assigned |
 
-## Recent arXiv papers (65)
+## Recent arXiv papers (64)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -100,7 +100,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-01-22 | A System for Human-Robot Teaming through End-User Programming and Shared Autonomy | Michael Hagenow, Emmanuel Senft, Robert Radwin, Michael Gleicher et al. | [Abstract](https://arxiv.org/abs/2401.12380) · [PDF](https://arxiv.org/pdf/2401.12380) | rule-assigned |
 | 2024-01-05 | Integrating Open-World Shared Control in Immersive Avatars | Patrick Naughton, James Seungbum Nam, Andrew Stratton, Kris Hauser | [Abstract](https://arxiv.org/abs/2401.03079) · [PDF](https://arxiv.org/pdf/2401.03079) | rule-assigned |
 | 2023-12-05 | Design and Evaluation of an Uncertainty-Aware Shared-Autonomy System with Hierarchical Conservative Skill Inference | Taewoo Kim, Donghyung Kim, Minsu Jang, Jaehong Kim | [Abstract](https://arxiv.org/abs/2312.02488) · [PDF](https://arxiv.org/pdf/2312.02488) | rule-assigned |
-| 2023-11-06 | A Reactive performance-based Shared Control Framework for Assistive Robotic Manipulators | Francisco J. Ruiz-Ruiz, Cristina Urdiales, Manuel Fernández-Carmona, Jesús M. Gómez-de-Gabriel | [Abstract](https://arxiv.org/abs/2311.03232) · [PDF](https://arxiv.org/pdf/2311.03232) | rule-assigned |
 
 ---
 

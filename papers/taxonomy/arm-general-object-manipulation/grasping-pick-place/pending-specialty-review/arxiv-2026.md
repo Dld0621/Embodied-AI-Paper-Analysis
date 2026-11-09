@@ -1,16 +1,25 @@
 # Pending specialty review · 待审专题 · arXiv 2026
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 629 papers · complete list for this taxonomy leaf
+> 637 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | Seeing What Matters: Benchmarking Task-Conditioned Actionable Spatial Belief for Manipulation | Yina Jian, Mingkun Xu | [Abstract](https://arxiv.org/abs/2611.09794) · [PDF](https://arxiv.org/pdf/2611.09794) | needs-review |
+| 2026-11-06 | A Controlled Study of Models, Skills, Feedback, and Curriculum in Agentic Robotics | Kaiyuan Chen, Xinyue Zhu, Shuangyu Xie, Uksang Yoo et al. | [Abstract](https://arxiv.org/abs/2611.09030) · [PDF](https://arxiv.org/pdf/2611.09030) | needs-review |
+| 2026-11-05 | VREgo: Consumer VR Headsets for Learning Robot Manipulation from Egocentric Demonstrations | Liuchuan Yu | [Abstract](https://arxiv.org/abs/2611.07272) · [PDF](https://arxiv.org/pdf/2611.07272) | needs-review |
+| 2026-11-05 | Concertina: Embodying Manipulation and Cognition in One Diffusion Vision-Language Model | Chengcheng Wang, Wei He, Wenhao Li, Hongguang Li et al. | [Abstract](https://arxiv.org/abs/2611.07513) · [PDF](https://arxiv.org/pdf/2611.07513) | needs-review |
+| 2026-11-05 | Closed-Loop Physics-Based Manipulation Evaluation at a Commodity Price: What 4.4 L4 GPU hours at $3.50 Buys You | Rohun Kshirsagar, Diana Rypkema | [Abstract](https://arxiv.org/abs/2611.07441) · [PDF](https://arxiv.org/pdf/2611.07441) | needs-review |
+| 2026-11-05 | Aligning Policy Encoders with a Shape Teacher | Madelon Bernardy, Mohammad Mahdi Derakhshani, David M Knigge, Riccardo Valperga et al. | [Abstract](https://arxiv.org/abs/2611.08275) · [PDF](https://arxiv.org/pdf/2611.08275) | needs-review |
+| 2026-11-04 | Vortex-Induced Torque in Grasping Soft Objects: Influence of Geometry and Pneumatic Parameters | Roman Mykhailyshyn, Tomohiro Motoda, Ivan Virgala, Ann Majewicz Fey et al. | [Abstract](https://arxiv.org/abs/2611.06359) · [PDF](https://arxiv.org/pdf/2611.06359) | needs-review |
+| 2026-11-04 | Spatial-UMI-Dream: Scaling World Action Models with Metric Geometry for UMI Manipulation | Weiduo Yuan, Ze Yuan, Sihan Liu, Jionghao Wang et al. | [Abstract](https://arxiv.org/abs/2611.07229) · [PDF](https://arxiv.org/pdf/2611.07229) | needs-review |
 | 2026-11-03 | Grasping and Stabilizing Tumbling Objects with Rotating-Base Multi-Arm Space Manipulators | Farhad Aghili | [Abstract](https://arxiv.org/abs/2611.04176) · [PDF](https://arxiv.org/pdf/2611.04176) | needs-review |
+| 2026-11-03 | ELA: End-to-End Latent Action Policy Learning from Video Demonstrations | Cheng-Chun Hsu, Peter Stone | [Abstract](https://arxiv.org/abs/2611.05571) · [PDF](https://arxiv.org/pdf/2611.05571) | needs-review |
 | 2026-11-03 | Action Intent as a Bridge: Transferring Manipulation Knowledge from Human-Centric Videos to Robots | Zhiqian Xia, Lianyang Ma, Haifeng Xia, Siyu Xia et al. | [Abstract](https://arxiv.org/abs/2611.04522) · [PDF](https://arxiv.org/pdf/2611.04522) | needs-review |
 | 2026-11-02 | VerifLM: Physically Verified Image-Edit-Guided Goal Pose Generation for Robotic Manipulation | Xuanyou Chen, Jinyu Chen, Glen Chou | [Abstract](https://arxiv.org/abs/2611.03268) · [PDF](https://arxiv.org/pdf/2611.03268) | needs-review |
 | 2026-11-02 | SomaAlign: Reliability-Aware Multimodal Representation Learning for Soft Robotic Grasping | Haoyuan Wang, Shuai Peng, Yongkai Liao, Yuxiao Sun et al. | [Abstract](https://arxiv.org/abs/2611.02794) · [PDF](https://arxiv.org/pdf/2611.02794) | needs-review |
@@ -262,7 +271,6 @@
 | 2026-08-18 | CompCPZ: Preserving Multi-Modal Intent in Language-Guided Robot Manipulation | Zhen Zhang, Ahmad Hafez, Peng Xie, Yanliang Huang et al. | [Abstract](https://arxiv.org/abs/2608.17717) · [PDF](https://arxiv.org/pdf/2608.17717) | needs-review |
 | 2026-08-17 | VLCP: Vision Language Control Policy Closed-Loop Code Replanning for Robot Manipulation | Dhia Naouali, Minghan Wu, Claudia Wong, Abhinav Puthran et al. | [Abstract](https://arxiv.org/abs/2608.16978) · [PDF](https://arxiv.org/pdf/2608.16978) | needs-review |
 | 2026-08-16 | Vision-Based Tactile Intelligence for Robotics: Sensing, Learning, and Embodied Manipulation | Peng Zhou, Jun Hu, Sihan Chen, Zeqing Zhang et al. | [Abstract](https://arxiv.org/abs/2608.15490) · [PDF](https://arxiv.org/pdf/2608.15490) | needs-review |
-| 2026-08-16 | Tabletop Pen Manipulation With a Vision-Guided 4-DoF Arm | Anirudh Rangarajan, Bibit Bianchini | [Abstract](https://arxiv.org/abs/2608.15968) · [PDF](https://arxiv.org/pdf/2608.15968) | needs-review |
 | 2026-08-16 | Scaling Manual-Grounded Appliance Manipulation with Data Synthesis and Unified Planning | Yuxing Long, Lei Kang, Ziyan Yu, Yuzheng Gao et al. | [Abstract](https://arxiv.org/abs/2608.15863) · [PDF](https://arxiv.org/pdf/2608.15863) | needs-review |
 | 2026-08-16 | Robo-Dopamine 2.0: History-Conditioned and OOD-Aware Process Reward Modeling for Robotic Manipulation | Yijie Xu, Haopeng Jin, Run Zhou, Shengbang Liu et al. | [Abstract](https://arxiv.org/abs/2608.15680) · [PDF](https://arxiv.org/pdf/2608.15680) | needs-review |
 | 2026-08-15 | GUIDER: Evaluating Goal-Free Human Intent Inference for Teleoperated Manipulation on Real-Robot Data | Nicholas Kenny, Cesar Alan Contreras, Basile Ouedraogo, Rustam Stolkin et al. | [Abstract](https://arxiv.org/abs/2608.15446) · [PDF](https://arxiv.org/pdf/2608.15446) | needs-review |

@@ -1,12 +1,12 @@
 # Detection & Segmentation · 物体检测与分割
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Object%20%26%20Interaction%20Perception&specialty=Detection%20%26%20Segmentation#research-workbench)
 
-> 23 conference papers · 521 recent arXiv papers
+> 23 conference papers · 518 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,7 +25,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | DRUM: Diffusion-based Raydrop-aware Unpaired Mapping for Sim2Real LiDAR Segmentation | ICRA · Sim2Real | [Paper](https://arxiv.org/pdf/2603.26263) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697452) | rule-assigned |
-| 2026 | Multi-state Consistency Visual Language Model Combine Wavelet Transform for Weakly Supervised Robot Image Segmentation | ICRA · Language Model | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696915) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696915) | rule-assigned |
+| 2026 | Multi-state Consistency Visual Language Model Combine Wavelet Transform for Weakly Supervised Robot Image Segmentation | ICRA · Language Model | [Paper](https://doi.org/10.1109/icra57385.2026.11696915) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696915) | rule-assigned |
 | 2025 | 2HandedAfforder: Learning Precise Actionable Bimanual Affordances from Human Videos | ICCV · Bimanual | [Paper](https://arxiv.org/pdf/2503.09320) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01368) | rule-assigned |
 | 2025 | Domain Randomization for Object Detection in Manufacturing Applications Using Synthetic Data: A Comprehensive Study | ICRA · Synthetic Data | [Paper](https://arxiv.org/pdf/2506.07539) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128647) | rule-assigned |
 | 2025 | VLM-Vac: Enhancing Smart Vacuums Through VLM Knowledge Distillation and Language-Guided Experience Replay | ICRA · Vlm | [Paper](https://arxiv.org/pdf/2409.14096) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128167) | rule-assigned |
@@ -36,7 +36,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Action-By-Detection: Efficient Forklift Action Detection for Autonomous Mobile Robots in Warehouses | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611659) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611659) | rule-assigned |
 | 2024 | Few-Shot Panoptic Segmentation With Foundation Models | ICRA · Foundation Model | [Paper](https://arxiv.org/pdf/2309.10726) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611624) | rule-assigned |
 | 2024 | RoboLLM: Robotic Vision Tasks Grounded on Multimodal Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2310.10221) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610797) | rule-assigned |
-| 2024 | Tree Instance Segmentation and Traits Estimation for Forestry Environments Exploiting LiDAR Data Collected by Mobile Robots | ICRA · Mobile Robot | [Paper](https://www.dora.lib4ri.ch/wsl/dload/wsl:37257/PDF2/view) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611169) | rule-assigned |
+| 2024 | Tree Instance Segmentation and Traits Estimation for Forestry Environments Exploiting LiDAR Data Collected by Mobile Robots | ICRA · Mobile Robot | [Paper](https://ora.ox.ac.uk/objects/uuid:d29224bc-f133-484f-b8eb-f99fb34b6eb3) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611169) | rule-assigned |
 | 2024 | Extrinsic Calibration of Multiple LiDARs for a Mobile Robot based on Floor Plane And Object Segmentation | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2403.14161) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802291) | rule-assigned |
 | 2024 | Making the Flow Glow – Robot Perception under Severe Lighting Conditions using Normalizing Flow Gradients | IROS · Robot Perception | [Paper](https://arxiv.org/pdf/2412.07565) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801601) | rule-assigned |
 | 2024 | Multi-target Tracking with Occlusion Resistance for Mobile Robots in Dynamic Environments* | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS58592.2024.10802834) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802834) | rule-assigned |
@@ -48,10 +48,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Demonstrate Once, Imitate Immediately (DOME): Learning Visual Servoing for One-Shot Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2204.02863) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981982) | rule-assigned |
 | 2022 | SESR: Self-Ensembling Sim-to-Real Instance Segmentation for Auto-Store Bin Picking | IROS · Sim To Real | [Paper](https://doi.org/10.1109/IROS47612.2022.9981845) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981845) | rule-assigned |
 
-## Recent arXiv papers (521)
+## Recent arXiv papers (518)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-05 | Energy-Aware Open-Vocabulary Detection Scheduling for Low-Power Robotic Autonomy | Abdul Basit, Muhammad Shafique | [Abstract](https://arxiv.org/abs/2611.07663) · [PDF](https://arxiv.org/pdf/2611.07663) | rule-assigned |
 | 2026-10-29 | Seeing and Imagining as One: Unified Video Generation and 4D Perception for Embodied World Modeling | Haitang Feng, Zhuoman Liu, Zhennan Wang, Sheng Wang et al. | [Abstract](https://arxiv.org/abs/2610.39232) · [PDF](https://arxiv.org/pdf/2610.39232) | rule-assigned |
 | 2026-10-28 | TRIM: Temporal Run-Time Monitoring of 3D Object Detection via Activation Statistics | Hakan Yekta Yatbaz, Konstantinos Koufos, Mehrdad Dianati | [Abstract](https://arxiv.org/abs/2610.38613) · [PDF](https://arxiv.org/pdf/2610.38613) | rule-assigned |
 | 2026-10-27 | FastBEVFusion: Simple Multi-Modal Fusion for 3D Object Detection at 50 FPS | Tom Sanitz, Emre Gülsoylu, Simone Frintrop, Christian Wilms | [Abstract](https://arxiv.org/abs/2610.37153) · [PDF](https://arxiv.org/pdf/2610.37153) | rule-assigned |
@@ -569,10 +570,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-10 | ASSIST: Interactive Scene Nodes for Scalable and Realistic Indoor Simulation | Zhide Zhong, Jiakai Cao, Songen Gu, Sirui Xie et al. | [Abstract](https://arxiv.org/abs/2311.06211) · [PDF](https://arxiv.org/pdf/2311.06211) | rule-assigned |
 | 2023-11-09 | TLCFuse: Temporal Multi-Modality Fusion Towards Occlusion-Aware Semantic Segmentation-Aided Motion Planning | Gustavo Salazar-Gomez, Wenqian Liu, Manuel Diaz-Zapata, David Sierra-Gonzalez et al. | [Abstract](https://arxiv.org/abs/2311.05319) · [PDF](https://arxiv.org/pdf/2311.05319) | rule-assigned |
 | 2023-11-09 | Object-centric Cross-modal Feature Distillation for Event-based Object Detection | Lei Li, Alexander Liniger, Mario Millhaeusler, Vagia Tsiminaki et al. | [Abstract](https://arxiv.org/abs/2311.05494) · [PDF](https://arxiv.org/pdf/2311.05494) | rule-assigned |
-| 2023-11-07 | PUMA: Fully Decentralized Uncertainty-aware Multiagent Trajectory Planner with Real-time Image Segmentation-based Frame Alignment | Kota Kondo, Claudius T. Tewari, Mason B. Peterson, Annika Thomas et al. | [Abstract](https://arxiv.org/abs/2311.03655) · [PDF](https://arxiv.org/pdf/2311.03655) | rule-assigned |
-| 2023-11-06 | Segmentation of Drone Collision Hazards in Airborne RADAR Point Clouds Using PointNet | Hector Arroyo, Paul Kier, Dylan Angus, Santiago Matalonga et al. | [Abstract](https://arxiv.org/abs/2311.03221) · [PDF](https://arxiv.org/pdf/2311.03221) | rule-assigned |
-| 2023-11-05 | Scenario Diffusion: Controllable Driving Scenario Generation With Diffusion | Ethan Pronovost, Meghana Reddy Ganesina, Noureldin Hendy, Zeyu Wang et al. | [Abstract](https://arxiv.org/abs/2311.02738) · [PDF](https://arxiv.org/pdf/2311.02738) | rule-assigned |
-| 2023-11-04 | STOW: Discrete-Frame Segmentation and Tracking of Unseen Objects for Warehouse Picking Robots | Yi Li, Muru Zhang, Markus Grotz, Kaichun Mo et al. | [Abstract](https://arxiv.org/abs/2311.02337) · [PDF](https://arxiv.org/pdf/2311.02337) | rule-assigned |
 
 ---
 

@@ -1,12 +1,12 @@
 # Software Frameworks & Integration · 软件框架与系统集成
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Computing%20%26%20Deployment%20Systems&specialty=Software%20Frameworks%20%26%20Integration#research-workbench)
 
-> 4 conference papers · 46 recent arXiv papers
+> 4 conference papers · 45 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,10 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2025 | SARO: Space-Aware Robot System for Terrain Crossing via Vision-Language Model | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2407.16412) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128428) | rule-assigned |
 | 2024 | Self-Recovery Prompting: Promptable General Purpose Service Robot System with Foundation Models and Self-Recovery | ICRA · Foundation Model | [Paper](https://arxiv.org/pdf/2309.14425) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611640) | rule-assigned |
-| 2023 | Aggregating Single-Wheeled Mobile Robots for Omnidirectional Movements | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2308.03328) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341772) | rule-assigned |
+| 2023 | Aggregating Single-Wheeled Mobile Robots for Omnidirectional Movements | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2308.03328) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341772) | rule-assigned |
 | 2023 | Development of the Whole-Body Waterproof Shell Applying and Removing System Using Phase-Change Paraffin and Grease for the Multi-DOF Robot | IROS · Whole Body | [Paper](https://doi.org/10.1109/IROS55552.2023.10341470) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341470) | rule-assigned |
 
-## Recent arXiv papers (46)
+## Recent arXiv papers (45)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -78,7 +78,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-01-29 | CognitiveOS: Large Multimodal Model based System to Endow Any Type of Robot with Generative AI | Artem Lykov, Mikhail Konenkov, Koffivi Fidèle Gbagbe, Mikhail Litvinov et al. | [Abstract](https://arxiv.org/abs/2401.16205) · [PDF](https://arxiv.org/pdf/2401.16205) | rule-assigned |
 | 2024-01-27 | Parallel Self-assembly for Modular USVs with Diverse Docking Mechanism Layouts | Lianxin Zhang, Yang Jiao, Yihan Huang, Ziyou Wang et al. | [Abstract](https://arxiv.org/abs/2401.15399) · [PDF](https://arxiv.org/pdf/2401.15399) | rule-assigned |
 | 2023-11-16 | Learning effects in variable autonomy human-robot systems: how much training is enough? | Manolis Chiou, Mohammed Talha, Rustam Stolkin | [Abstract](https://arxiv.org/abs/2311.09803) · [PDF](https://arxiv.org/pdf/2311.09803) | rule-assigned |
-| 2023-11-07 | Design and Experimental Verification of a Jumping Legged Robot for Martian Lava Tube Exploration | Jørgen Anker Olsen, Kostas Alexis | [Abstract](https://arxiv.org/abs/2311.03854) · [PDF](https://arxiv.org/pdf/2311.03854) | rule-assigned |
 
 ---
 

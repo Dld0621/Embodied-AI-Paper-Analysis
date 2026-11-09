@@ -1,12 +1,12 @@
 # Object Rotation & Repositioning · 物体旋转与重定位
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=In-hand%20Manipulation&specialty=Object%20Rotation%20%26%20Repositioning#research-workbench)
 
-> 37 conference papers · 73 recent arXiv papers
+> 38 conference papers · 72 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,12 +20,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (37)
+## Conference papers (38)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
-| 2026 | Flow Before Imitation: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696089) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696089) | rule-assigned |
-| 2026 | Soft Vortex Gripper for Dexterous Manipulation using Hand-Like Robots | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696920) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696920) | rule-assigned |
+| 2026 | House Of Dextra : Cross-Embodied Co-Design for Dexterous Hands | ICLR · Dexterous | [Paper](https://arxiv.org/abs/2512.03743) · [Index](https://dblp.org/rec/conf/iclr/FayDZCLSTYW26) | rule-assigned |
+| 2026 | Flow Before Imitation: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy | ICRA · Dexterous | [Paper](https://doi.org/10.1109/icra57385.2026.11696089) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696089) | rule-assigned |
+| 2026 | Soft Vortex Gripper for Dexterous Manipulation using Hand-Like Robots | ICRA · Dexterous | [Paper](https://doi.org/10.1109/icra57385.2026.11696920) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696920) | rule-assigned |
 | 2026 | Suction Leap-Hand: Suction Cups on a Multi-fingered Hand Enable Embodied Dexterity and In-Hand Teleoperation | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2509.20646) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695882) | rule-assigned |
 | 2025 | Composing Dextrous Grasping and In-Hand Manipulation via Scoring with a Reinforcement Learning Critic | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2505.13253) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127792) | rule-assigned |
 | 2025 | DROP: Dexterous Reorientation via Online Planning | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2409.14562) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128433) | rule-assigned |
@@ -62,7 +63,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning a State Estimator for Tactile In-Hand Manipulation | IROS · In Hand | [Paper](https://doi.org/10.1109/IROS47612.2022.9981730) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981730) | rule-assigned |
 | 2022 | Optical Proximity Sensing for Pose Estimation During In-Hand Manipulation | IROS · In Hand | [Paper](https://arxiv.org/pdf/2204.02371) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981692) | rule-assigned |
 
-## Recent arXiv papers (73)
+## Recent arXiv papers (72)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -138,7 +139,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-20 | Neural feels with neural fields: Visuo-tactile perception for in-hand manipulation | Sudharshan Suresh, Haozhi Qi, Tingfan Wu, Taosha Fan et al. | [Abstract](https://arxiv.org/abs/2312.13469) · [PDF](https://arxiv.org/pdf/2312.13469) | rule-assigned |
 | 2023-12-04 | Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing | Ying Yuan, Haichuan Che, Yuzhe Qin, Binghao Huang et al. | [Abstract](https://arxiv.org/abs/2312.01853) · [PDF](https://arxiv.org/pdf/2312.01853) | rule-assigned |
 | 2023-11-25 | Active Surface with Passive Omni-Directional Adaptation of Soft Polyhedral Fingers for In-Hand Manipulation | Sen Li, Fang Wan, Chaoyang Song | [Abstract](https://arxiv.org/abs/2311.14974) · [PDF](https://arxiv.org/pdf/2311.14974) | rule-assigned |
-| 2023-11-07 | Estimator-Coupled Reinforcement Learning for Robust Purely Tactile In-Hand Manipulation | Lennart Röstel, Johannes Pitz, Leon Sievers, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2311.04060) · [PDF](https://arxiv.org/pdf/2311.04060) | rule-assigned |
 
 ---
 

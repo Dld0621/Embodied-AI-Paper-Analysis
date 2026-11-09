@@ -1,12 +1,12 @@
 # World-model Planning · 世界模型辅助规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Model-based%20Decision%20Making&specialty=World-model%20Planning#research-workbench)
 
-> 1 conference papers · 22 recent arXiv papers
+> 2 conference papers · 22 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,11 +20,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (1)
+## Conference papers (2)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2026 | IMPASTO: Integrating Model-Based Planning with Learned Dynamics Models for Robotic Oil Painting Reproduction | ICRA · Dynamics Model | [Paper](https://arxiv.org/pdf/2603.29315) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696393) | rule-assigned |
+| 2025 | Sparse Imagination for Efficient Visual World Model Planning | ICLR · World Model | [Paper](https://arxiv.org/abs/2506.01392) · [Index](https://dblp.org/rec/journals/corr/abs-2506-01392) | rule-assigned |
 
 ## Recent arXiv papers (22)
 

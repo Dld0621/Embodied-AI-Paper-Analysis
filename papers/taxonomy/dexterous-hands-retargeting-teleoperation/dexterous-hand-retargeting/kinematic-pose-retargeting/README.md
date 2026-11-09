@@ -1,7 +1,7 @@
 # Kinematic & Pose Retargeting · 运动学与姿态重定向
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Dexterous%20Hand%20Retargeting&specialty=Kinematic%20%26%20Pose%20Retargeting#research-workbench)
@@ -32,7 +32,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
-| 2026-07-09 | AnyDexRT: Calibration-Free Dexterous Hand Retargeting with Few-Shot Human Guidance | Chenxi Wang, Ying Feng, Hongjie Fang, Shangning Xia et al. | [Abstract](https://arxiv.org/abs/2607.08341) · [PDF](https://arxiv.org/pdf/2607.08341) | reviewed |
+| 2026-07-09 | AnyDexRT: Calibration-Efficient Dexterous Hand Retargeting with Few-Shot Human Guidance | Chenxi Wang, Ying Feng, Hongjie Fang, Shangning Xia et al. | [Abstract](https://arxiv.org/abs/2607.08341) · [PDF](https://arxiv.org/pdf/2607.08341) | reviewed |
 | 2026-07-08 | Smooth Operator: A Real-Time Sampling-Based Algorithm for Kinematic Hand Retargeting | Robert Jomar Malate, Erik Bauer, Norica Bacuieti, Stefanos Charalambous et al. | [Abstract](https://arxiv.org/abs/2607.07491) · [PDF](https://arxiv.org/pdf/2607.07491) | reviewed |
 | 2026-07-07 | DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control | Yuanchuan Lai, Qing Gao, Ziyan Liang, Xianfeng Cheng et al. | [Abstract](https://arxiv.org/abs/2607.05883) · [PDF](https://arxiv.org/pdf/2607.05883) | reviewed |
 | 2026-03-31 | Kilohertz-Safe: A Scalable Framework for Constrained Dexterous Retargeting | Yinxiao Tian, Ziyi Yang, Zinan Zhao, Zhen Kan | [Abstract](https://arxiv.org/abs/2603.29213) · [PDF](https://arxiv.org/pdf/2603.29213) | reviewed |

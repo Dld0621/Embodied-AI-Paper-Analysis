@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Pending%20specialty%20review#research-workbench)
 
-> 81 conference papers · 226 recent arXiv papers
+> 81 conference papers · 225 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,10 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | Design, Mapping, and Contact Anticipation with 3D-printed Whole-Body Tactile and Proximity Sensors | ICRA · Whole Body | [Paper](https://arxiv.org/pdf/2603.04714) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695936) | needs-review |
 | 2026 | EasyMimic: A Low-Cost Framework for Robot Imitation Learning from Human Videos | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2602.11464) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696502) | needs-review |
 | 2026 | Human-Centered Development of Guide Dog Robots: Quiet and Stable Locomotion Control | ICRA · Locomotion | [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC13663884/pdf/nihms-2202471.pdf) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696250) | needs-review |
-| 2026 | Investigation of Multiple Buoyancy Controller Equipped Underwater Glider Robot Modeling for Control System Development and Gliding Simulation | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697088) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697088) | needs-review |
-| 2026 | Morphogenetic Assembly and Adaptive Control for Heterogeneous Modular Robots | ICRA · Assembly | [Paper](https://arxiv.org/abs/2602.10561) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697421) | needs-review |
-| 2026 | MultiHand: Design and Verification of a Dexterous Hand with Multi-modal Grasping Capabilities | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697015) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697015) | needs-review |
-| 2026 | Proactive Grasp Assistance in a Robotic Hand Exoskeleton Improves Performance and Preference in Challenging Tasks | ICRA · Robotic Hand | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696073) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696073) | needs-review |
+| 2026 | Investigation of Multiple Buoyancy Controller Equipped Underwater Glider Robot Modeling for Control System Development and Gliding Simulation | ICRA · Simulation | [Paper](https://doi.org/10.1109/icra57385.2026.11697088) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697088) | needs-review |
+| 2026 | Morphogenetic Assembly and Adaptive Control for Heterogeneous Modular Robots | ICRA · Assembly | [Paper](https://doi.org/10.1109/icra57385.2026.11697421) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697421) | needs-review |
+| 2026 | MultiHand: Design and Verification of a Dexterous Hand with Multi-modal Grasping Capabilities | ICRA · Dexterous | [Paper](https://doi.org/10.1109/icra57385.2026.11697015) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697015) | needs-review |
+| 2026 | Proactive Grasp Assistance in a Robotic Hand Exoskeleton Improves Performance and Preference in Challenging Tasks | ICRA · Robotic Hand | [Paper](https://doi.org/10.1109/icra57385.2026.11696073) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696073) | needs-review |
 | 2026 | Underactuated multimodal jumping robot for extraterrestrial exploration | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2603.06525) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697336) | needs-review |
 | 2025 | AnyTouch: Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors | ICLR · Tactile | [Paper](https://arxiv.org/abs/2502.12191) · [Index](https://dblp.org/rec/journals/corr/abs-2502-12191) | needs-review |
 | 2025 | ReGen: Generative Robot Simulation via Inverse Design | ICLR · Simulation | [Paper](https://arxiv.org/abs/2511.04769) · [Index](https://dblp.org/rec/conf/iclr/NguyenWHASRKR25) | needs-review |
@@ -68,7 +68,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Visual Feedback Control of an Underactuated Hand for Grasping Brittle and Soft Foods | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610649) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610649) | needs-review |
 | 2024 | What Matters for Active Texture Recognition With Vision-Based Tactile Sensors | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2403.13701) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610274) | needs-review |
 | 2024 | Cooperative Modular Manipulation with Numerous Cable-Driven Robots for Assistive Construction and Gap Crossing | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2403.13124) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801616) | needs-review |
-| 2024 | Demonstrating a Robust Walking Algorithm for Underactuated Bipedal Robots in Non-flat, Non-stationary Environments | IROS · Biped | [Paper](https://arxiv.org/abs/2403.02486) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802406) | needs-review |
+| 2024 | Demonstrating a Robust Walking Algorithm for Underactuated Bipedal Robots in Non-flat, Non-stationary Environments | IROS · Biped | [Paper](https://arxiv.org/pdf/2403.02486) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802406) | needs-review |
 | 2024 | Design of a Multi-robot Coordination System based on Functional Expressions using Large Language Models | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS58592.2024.10802571) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802571) | needs-review |
 | 2024 | Design of a Soft Shell for a Spherical Exploration Robot Traversing Varying Terrain | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS58592.2024.10802644) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802644) | needs-review |
 | 2024 | Development of a Bilateral Control Teleoperation System for Bipedal Humanoid Robot Utilizing Foot Sole Haptics Feedback * | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS58592.2024.10801625) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801625) | needs-review |
@@ -77,7 +77,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Ensuring Safety in LLM-Driven Robotics: A Cross-Layer Sequence Supervision Mechanism | IROS · Llm | [Paper](https://doi.org/10.1109/IROS58592.2024.10801576) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801576) | needs-review |
 | 2024 | From CAD to URDF: Co-Design of a Jet-Powered Humanoid Robot Including CAD Geometry | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2410.07963) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802023) | needs-review |
 | 2024 | GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators | IROS · Low-cost teleoperation | [Paper](https://arxiv.org/abs/2309.13037) · [Official](https://doi.org/10.1109/IROS58592.2024.10801581) · [Code](https://github.com/wuphilipp/gello_software) | needs-review |
-| 2024 | Large-scale Deployment of Vision-based Tactile Sensors on Multi-fingered Grippers | IROS · Multi Finger | [Paper](https://arxiv.org/abs/2408.02206) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801566) | needs-review |
+| 2024 | Large-scale Deployment of Vision-based Tactile Sensors on Multi-fingered Grippers | IROS · Multi Finger | [Paper](https://arxiv.org/pdf/2408.02206) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801566) | needs-review |
 | 2024 | MANIP: A Modular Architecture for Integrating Interactive Perception for Robot Manipulation | IROS · Manipulation | [Paper](https://escholarship.org/uc/item/0qk2269m) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801746) | needs-review |
 | 2024 | Revolutionizing Battery Disassembly: The Design and Implementation of a Battery Disassembly Autonomous Mobile Manipulator Robot(BEAM-1) | IROS · Assembly | [Paper](https://arxiv.org/pdf/2407.06590) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802225) | needs-review |
 | 2024 | Stable Object Placing using Curl and Diff Features of Vision-based Tactile Sensors | IROS · Tactile | [Paper](https://arxiv.org/pdf/2403.19129) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801674) | needs-review |
@@ -87,7 +87,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | In-Hand Manipulation in Power Grasp: Design of an Adaptive Robot Hand with Active Surfaces | ICRA · In Hand | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161516) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161516) | needs-review |
 | 2023 | A Fabrication and Simulation Recipe for Untethering Soft-Rigid Robots with Cable-Driven Stiffness Modulation | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS55552.2023.10341630) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341630) | needs-review |
 | 2023 | Arena-Rosnav 2.0: A Development and Benchmarking Platform for Robot Navigation in Highly Dynamic Environments | IROS · Navigation | [Paper](https://arxiv.org/pdf/2302.10023) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342152) | needs-review |
-| 2023 | D-PALI: A Low-Cost Open Source Robotic Gripper Platform for Planar In-Hand-Manipulation | IROS · In Hand | [Paper](https://doi.org/10.1109/IROS55552.2023.10341860) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341860) | needs-review |
+| 2023 | D-PALI: A Low-Cost Open Source Robotic Gripper Platform for Planar In-Hand-Manipulation | IROS · In Hand | [Paper](https://spiral.imperial.ac.uk/bitstreams/9f756f37-89b0-4625-97b5-22d143a90fab/download) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341860) | needs-review |
 | 2023 | Design and Control of Microscale Dual Locomotion Mode Multi-Functional Robots (μDMMFs) | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS55552.2023.10341659) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341659) | needs-review |
 | 2023 | Development of a Five-Fingerd Biomimetic Soft Robotic Hand by 3D Printing the Skin and Skeleton as One Unit | IROS · Robotic Hand | [Paper](https://arxiv.org/pdf/2503.00789) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341570) | needs-review |
 | 2023 | Exploring Kinodynamic Fabrics for Reactive Whole-Body Control of Underactuated Humanoid Robots | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2303.04279) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342091) | needs-review |
@@ -106,7 +106,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Development and Control of Robot Hand with Finger Camera for Garment Handling Tasks | IROS · Robot Hand | [Paper](https://doi.org/10.1109/IROS47612.2022.9982134) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982134) | needs-review |
 | 2022 | Large-Scale ADMM-based Co-Design of Legged Robots | IROS · Legged | [Paper](https://doi.org/10.1109/IROS47612.2022.9981641) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981641) | needs-review |
 
-## Recent arXiv papers (226)
+## Recent arXiv papers (225)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -335,7 +335,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-28 | Integration of Robotics, Computer Vision, and Algorithm Design: A Chinese Poker Self-Playing Robot | Kuan-Huang Yu | [Abstract](https://arxiv.org/abs/2312.09455) · [PDF](https://arxiv.org/pdf/2312.09455) | needs-review |
 | 2023-11-28 | Design and trajectory tracking control of CuRobot: A Cubic Reversible Robot | Kai Yang, Jiahui Wang, Yuchen Weng, Baolei Wu et al. | [Abstract](https://arxiv.org/abs/2311.16809) · [PDF](https://arxiv.org/pdf/2311.16809) | needs-review |
 | 2023-11-20 | Design of Planar Collision-free Trochoidal Paths for a Multi-robot Swarm | Adil Shiyas, Sachit Rao | [Abstract](https://arxiv.org/abs/2311.11720) · [PDF](https://arxiv.org/pdf/2311.11720) | needs-review |
-| 2023-11-06 | CarbonFish -- A Bistable Underactuated Compliant Fish Robot capable of High Frequency Undulation | Zechen Xiong, Zihan Guo, Mark Liu, Jialong Ning et al. | [Abstract](https://arxiv.org/abs/2311.03223) · [PDF](https://arxiv.org/pdf/2311.03223) | needs-review |
 
 ---
 

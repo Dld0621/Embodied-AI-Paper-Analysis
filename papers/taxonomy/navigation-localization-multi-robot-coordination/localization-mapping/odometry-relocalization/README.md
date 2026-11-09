@@ -1,7 +1,7 @@
 # Odometry & Relocalization · 里程计与重定位
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Odometry%20%26%20Relocalization#research-workbench)
@@ -47,7 +47,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Online Calibration of a Single-Track Ground Vehicle Dynamics Model by Tight Fusion with Visual-Inertial Odometry | ICRA · Dynamics Model | [Paper](https://arxiv.org/pdf/2309.11148) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610157) | rule-assigned |
 | 2024 | Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning | ICRA · Scene Graph | [Paper](https://arxiv.org/pdf/2309.08914) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610206) | rule-assigned |
 | 2024 | PlaceNav: Topological Navigation through Place Recognition | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2309.17260) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610575) | rule-assigned |
-| 2024 | RoboHop: Segment-based Topological Map Representation for Open-World Visual Navigation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2405.05792) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610234) | rule-assigned |
+| 2024 | RoboHop: Segment-based Topological Map Representation for Open-World Visual Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2405.05792) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610234) | rule-assigned |
 | 2024 | Sense in Motion with Belief Clustering: Efficient Gas Source Localization with Mobile Robots | ICRA · Mobile Robot | [Paper](https://infoscience.epfl.ch/bitstreams/2abb588a-b524-4612-bc8d-22f5fa9a1434/download) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611440) | rule-assigned |
 | 2024 | UIVNAV: Underwater Information-driven Vision-based Navigation via Imitation Learning | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2309.08806) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611203) | rule-assigned |
 | 2024 | UNRealNet: Learning Uncertainty-Aware Navigation Features from High-Fidelity Scans of Real Environments | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2407.08720) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610724) | rule-assigned |
@@ -86,8 +86,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | Extended Model-Based Learned Inertial Odometry | Sasanka Kuruppu Arachchige, Joni-Kristian Kämäräinen | [Abstract](https://arxiv.org/abs/2611.09584) · [PDF](https://arxiv.org/pdf/2611.09584) | rule-assigned |
+| 2026-11-05 | Radio-to-Pose Information for Gauge-Drift Correction in Cooperative Localization | Aditya Iyer, Andy Ye, Akshay Narayan, Nora Ayanian | [Abstract](https://arxiv.org/abs/2611.08361) · [PDF](https://arxiv.org/pdf/2611.08361) | rule-assigned |
+| 2026-11-05 | FREE-LIVO: Physically Decoupled Yet Tightly Coupled LiDAR-Inertial-Visual Odometry | Reon Tabata, Kenji Koide, Shuji Oishi, Taku Okawara et al. | [Abstract](https://arxiv.org/abs/2611.07463) · [PDF](https://arxiv.org/pdf/2611.07463) | rule-assigned |
+| 2026-11-04 | Scale Anchoring via Implicit Semantics and Sequence-Consistent Loop Closure for VGGT-Based SLAM | Ziyi Jin, Kangjin Yu, Beichen Wang, Can Jiang et al. | [Abstract](https://arxiv.org/abs/2611.06308) · [PDF](https://arxiv.org/pdf/2611.06308) | rule-assigned |
 | 2026-11-03 | Sparse Anchors for Visual Multi-Session Registration in Changing Environments | Yunus Talha Erzurumlu, Niklas Trekel, Saurabh Gupta, Nico Koltermann et al. | [Abstract](https://arxiv.org/abs/2611.05084) · [PDF](https://arxiv.org/pdf/2611.05084) | rule-assigned |
 | 2026-11-03 | PadLoc: Training-Free Floor-Plan Localization by Sparse Geometric Matching | Marian Bookhahn, Frank Neumann | [Abstract](https://arxiv.org/abs/2611.05172) · [PDF](https://arxiv.org/pdf/2611.05172) | rule-assigned |
+| 2026-11-03 | OdorSpaces: Visual-Olfactory Embodied Navigation in 3D Environments | Changyeon Lee, Kelin Yu, Zheng Wei, Shuna Ni et al. | [Abstract](https://arxiv.org/abs/2611.05738) · [PDF](https://arxiv.org/pdf/2611.05738) | rule-assigned |
 | 2026-11-02 | MoSoLoco: Monocular 3D Human Localization through Visual Latent Features and Social Context | Yasamin Borhani, Javad Khoramdel, Yang Gao, Po-Chien Luan et al. | [Abstract](https://arxiv.org/abs/2611.03189) · [PDF](https://arxiv.org/pdf/2611.03189) | rule-assigned |
 | 2026-10-30 | PGGT-Loc: Primitive-Grounded Geometry Transformer for Feed-Forward Camera Localization | Hanqiao Ye, Yuzhou Liu, Mengqi Rong, Jian Liu et al. | [Abstract](https://arxiv.org/abs/2610.41833) · [PDF](https://arxiv.org/pdf/2610.41833) | rule-assigned |
 | 2026-10-30 | OpenVIO: A Versatile Open-Source Visual-Inertial Odometry System | Seungwon Choi | [Abstract](https://arxiv.org/abs/2610.41671) · [PDF](https://arxiv.org/pdf/2610.41671) | rule-assigned |
@@ -285,7 +290,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-02 | Semantic-weighted ICP for LiDAR Odometry: Class-Aware Residual Reweighting for Robust Scan Registration | Vasco Carvalho, Tiago Barros, Urbano J. Nunes | [Abstract](https://arxiv.org/abs/2606.03905) · [PDF](https://arxiv.org/pdf/2606.03905) | rule-assigned |
 | 2026-06-02 | MARIO: Motion-Augmented Real-Time Multi-Sensor Inertial Odometry | Yiquan Li, Taeyoung Yeon, Chenfeng Gao, Vasco Xu et al. | [Abstract](https://arxiv.org/abs/2606.02996) · [PDF](https://arxiv.org/pdf/2606.02996) | rule-assigned |
 | 2026-06-01 | FlatVPR: Plug-and-play Geo-linear Residual Adapter for Geometric Rectification of Foundation Model Feature Manifolds | Rai Hisada, Kanji Tanaka | [Abstract](https://arxiv.org/abs/2606.01734) · [PDF](https://arxiv.org/pdf/2606.01734) | rule-assigned |
-| 2026-06-01 | Closed-Form Pose Estimation of Endoluminal Medical Devices via Gradiometer-Based Electromagnetic Localization System | Zhiwei Wu, Jiahao Luo, Yubo Pu, Siyi Wei et al. | [Abstract](https://arxiv.org/abs/2606.01946) · [PDF](https://arxiv.org/pdf/2606.01946) | rule-assigned |
+| 2026-06-01 | Closed-Form 6-DoF Pose Estimation of Medical Tools via Gradiometer-Based Electromagnetic Localization System | Zhiwei Wu, Jiahao Luo, Yubo Pu, Siyi Wei et al. | [Abstract](https://arxiv.org/abs/2606.01946) · [PDF](https://arxiv.org/pdf/2606.01946) | rule-assigned |
 | 2026-05-30 | Dynamic Resilient Spatio-Semantic Memory with Hybrid Localization for Mobile Manipulation | Zhijie Yan, Shufei Li, Ze Zhang, Xin Liu et al. | [Abstract](https://arxiv.org/abs/2606.00576) · [PDF](https://arxiv.org/pdf/2606.00576) | rule-assigned |
 | 2026-05-30 | BEVIO: Efficient Bird's-Eye-View based Sparse-Update Visual-Inertial Odometry for Lunar Day-Night Navigation | Mohit Singh, Shehryar Khattak, Ashish Goel, Michael Paton et al. | [Abstract](https://arxiv.org/abs/2606.00709) · [PDF](https://arxiv.org/pdf/2606.00709) | rule-assigned |
 | 2026-05-29 | DisPlace: Discriminative Place Projections for Multi-Reference Visual Place Recognition | Dhyey Manish Rajani, Michael Milford, Tobias Fischer | [Abstract](https://arxiv.org/abs/2605.30769) · [PDF](https://arxiv.org/pdf/2605.30769) | rule-assigned |
@@ -447,7 +452,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-12-17 | OMCL: Open-vocabulary Monte Carlo Localization | Evgenii Kruzhkov, Raphael Memmesheimer, Sven Behnke | [Abstract](https://arxiv.org/abs/2512.15557) · [PDF](https://arxiv.org/pdf/2512.15557) | rule-assigned |
 | 2025-12-17 | Infrastructure-based Autonomous Mobile Robots for Internal Logistics -- Challenges and Future Perspectives | Erik Brorsson, Kristian Ceder, Ze Zhang, Sabino Francesco Roselli et al. | [Abstract](https://arxiv.org/abs/2512.15215) · [PDF](https://arxiv.org/pdf/2512.15215) | rule-assigned |
 | 2025-12-17 | BEV-Patch-PF: Particle Filtering with BEV-Aerial Feature Matching for Off-Road Geo-Localization | Dongmyeong Lee, Jesse Quattrociocchi, Christian Ellis, Rwik Rana et al. | [Abstract](https://arxiv.org/abs/2512.15111) · [PDF](https://arxiv.org/pdf/2512.15111) | rule-assigned |
-| 2025-12-16 | SUPER -- A Framework for Sensitivity-based Uncertainty-aware Performance and Risk Assessment in Visual Inertial Odometry | Johannes A. Gaus, Daniel Häufle, Woo-Jeong Baek | [Abstract](https://arxiv.org/abs/2512.14189) · [PDF](https://arxiv.org/pdf/2512.14189) | rule-assigned |
 | 2025-12-14 | VLG-Loc: Vision-Language Global Localization from Labeled Footprint Maps | Mizuho Aoki, Kohei Honda, Yasuhiro Yoshimura, Takeshi Ishita et al. | [Abstract](https://arxiv.org/abs/2512.12793) · [PDF](https://arxiv.org/pdf/2512.12793) | rule-assigned |
 | 2025-12-13 | Robust Underwater Localization of Buoyancy Driven microFloats Using Acoustic Time-of-Flight Measurements | Murad Mehrab Abrar, Trevor W. Harrison | [Abstract](https://arxiv.org/abs/2512.12233) · [PDF](https://arxiv.org/pdf/2512.12233) | rule-assigned |
 | 2025-12-13 | B-ActiveSEAL: Scalable Uncertainty-Aware Active Exploration with Tightly Coupled Localization-Mapping | Min-Won Seo, Aamodh Suresh, Carlos Nieto-Granda, Solmaz S. Kia | [Abstract](https://arxiv.org/abs/2512.12194) · [PDF](https://arxiv.org/pdf/2512.12194) | rule-assigned |
@@ -1149,10 +1153,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-13 | Geo-Localization Based on Dynamically Weighted Factor-Graph | Miguel Ángel Muñoz-Bañón, Alejandro Olivas, Edison Velasco-Sánchez, Francisco A. Candelas et al. | [Abstract](https://arxiv.org/abs/2311.07301) · [PDF](https://arxiv.org/pdf/2311.07301) | rule-assigned |
 | 2023-11-10 | Dense Visual Odometry Using Genetic Algorithm | Slimane Djema, Zoubir Abdeslem Benselama, Ramdane Hedjar, Krabi Abdallah | [Abstract](https://arxiv.org/abs/2311.06149) · [PDF](https://arxiv.org/pdf/2311.06149) | rule-assigned |
 | 2023-11-09 | PL-CVIO: Point-Line Cooperative Visual-Inertial Odometry | Yanyu Zhang, Pengxiang Zhu, Wei Ren | [Abstract](https://arxiv.org/abs/2311.05717) · [PDF](https://arxiv.org/pdf/2311.05717) | rule-assigned |
-| 2023-11-08 | PLV-IEKF: Consistent Visual-Inertial Odometry using Points, Lines, and Vanishing Points | Tong Hua, Tao Li, Liang Pang, Guoqing Liu et al. | [Abstract](https://arxiv.org/abs/2311.04477) · [PDF](https://arxiv.org/pdf/2311.04477) | rule-assigned |
-| 2023-11-06 | SemanticTopoLoop: Semantic Loop Closure With 3D Topological Graph Based on Quadric-Level Object Map | Zhenzhong Cao | [Abstract](https://arxiv.org/abs/2311.02831) · [PDF](https://arxiv.org/pdf/2311.02831) | rule-assigned |
-| 2023-11-06 | LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition | Zijie Zhou, Jingyi Xu, Guangming Xiong, Junyi Ma | [Abstract](https://arxiv.org/abs/2311.03198) · [PDF](https://arxiv.org/pdf/2311.03198) | rule-assigned |
-| 2023-11-04 | Active Laser-Camera Scanning for High-Precision Fruit Localization in Robotic Harvesting: System Design and Calibration | Kaixiang Zhang, Pengyu Chu, Kyle Lammers, Zhaojian Li et al. | [Abstract](https://arxiv.org/abs/2311.02500) · [PDF](https://arxiv.org/pdf/2311.02500) | rule-assigned |
 
 ---
 

@@ -1,12 +1,12 @@
 # 6D Pose & Tracking · 六维姿态与跟踪
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Object%20%26%20Interaction%20Perception&specialty=6D%20Pose%20%26%20Tracking#research-workbench)
 
-> 38 conference papers · 203 recent arXiv papers
+> 38 conference papers · 201 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,13 +26,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2026 | Benchmarking the Effects of Object Pose Estimation and Reconstruction on Robotic Grasping Success | ICRA · Benchmark | [Paper](https://arxiv.org/pdf/2602.17101) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695812) | rule-assigned |
 | 2026 | Event-based Motion & Appearance Fusion for 6D Object Pose Tracking | ICRA · Object Pose | [Paper](https://arxiv.org/pdf/2603.08264) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695872) | rule-assigned |
-| 2026 | M-VTOP: Modular Visuo-Tactile Object Pose Estimation for High-Precision Robotic Manipulation | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697428) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697428) | rule-assigned |
-| 2026 | Sym-Servo: Disambiguate Symmetric Object Pose by End-to-End Optimal Visual Servo | ICRA · Object Pose | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696707) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696707) | rule-assigned |
+| 2026 | M-VTOP: Modular Visuo-Tactile Object Pose Estimation for High-Precision Robotic Manipulation | ICRA · Tactile | [Paper](https://doi.org/10.1109/icra57385.2026.11697428) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697428) | rule-assigned |
+| 2026 | Sym-Servo: Disambiguate Symmetric Object Pose by End-to-End Optimal Visual Servo | ICRA · Object Pose | [Paper](https://doi.org/10.1109/icra57385.2026.11696707) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696707) | rule-assigned |
 | 2026 | You Only Pose Once: A Minimalist’s Detection Transformer for Monocular RGB Category-level 9D Multi-Object Pose Estimation | ICRA · Object Pose | [Paper](https://arxiv.org/pdf/2508.14965) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695892) | rule-assigned |
 | 2025 | 6D Object Pose Tracking in Internet Videos for Robotic Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2503.10307) · [Index](https://dblp.org/rec/journals/corr/abs-2503-10307) | rule-assigned |
 | 2025 | A Unified End-to-End Network for Category-Level and Instance-Level Object Pose Estimation from RGB Images | ICRA · Object Pose | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128247) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128247) | rule-assigned |
 | 2025 | Generalizable Zero-Shot Object Pose Estimation for Bin-Picking | ICRA · Object Pose | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128200) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128200) | rule-assigned |
-| 2025 | KALM: Keypoint Abstraction Using Large Models for Object-Relative Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2410.23254) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128681) | rule-assigned |
+| 2025 | KALM: Keypoint Abstraction Using Large Models for Object-Relative Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2410.23254) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128681) | rule-assigned |
 | 2025 | MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model | ICRA · Object Pose | [Paper](https://arxiv.org/pdf/2504.10433) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127837) | rule-assigned |
 | 2025 | Multi-Layer Feature Exchange Transformer for Multi-View 6D Object Pose Estimation in Robot Bin Picking | ICRA · Object Pose | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127530) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127530) | rule-assigned |
 | 2025 | Visuo-Tactile Object Pose Estimation for a Multi-Finger Robot Hand With Low-Resolution in-Hand Tactile Sensing | ICRA · In Hand | [Paper](https://arxiv.org/abs/2503.19893) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127966) | rule-assigned |
@@ -42,7 +42,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Implicit Coarse-to-Fine 3D Perception for Category-level Object Pose Estimation from Monocular RGB Image | ICRA · Object Pose | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610570) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610570) | rule-assigned |
 | 2024 | RGBManip: Monocular Image-based Robotic Manipulation through Active Object Pose Estimation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2310.03478) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610690) | rule-assigned |
 | 2024 | Sim-to-real Object Pose Estimation for Random Bin Picking | ICRA · Sim To Real | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611240) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611240) | rule-assigned |
-| 2024 | ZS6D: Zero-shot 6D Object Pose Estimation using Vision Transformers | ICRA · Object Pose | [Paper](https://arxiv.org/abs/2309.11986) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611464) | rule-assigned |
+| 2024 | ZS6D: Zero-shot 6D Object Pose Estimation using Vision Transformers | ICRA · Object Pose | [Paper](https://arxiv.org/pdf/2309.11986) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611464) | rule-assigned |
 | 2024 | NeuSurfEmb: A Complete Pipeline for Dense Correspondence-based 6D Object Pose Estimation without CAD Models | IROS · Object Pose | [Paper](https://arxiv.org/pdf/2407.12207) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801399) | rule-assigned |
 | 2024 | Object Pose Estimation by Camera Arm Control Based on the Next Viewpoint Estimation | IROS · Object Pose | [Paper](https://arxiv.org/pdf/2504.17424) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801633) | rule-assigned |
 | 2024 | ToolEENet: Tool Affordance 6D Pose Estimation | IROS · Affordance | [Paper](https://arxiv.org/pdf/2404.04193) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801680) | rule-assigned |
@@ -63,7 +63,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Simultaneous Contact Location and Object Pose Estimation Using Proprioception and Tactile Feedback | IROS · Tactile | [Paper](https://arxiv.org/pdf/2206.01245) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981762) | rule-assigned |
 | 2022 | SLAM-Supported Self-Training for 6D Object Pose Estimation | IROS · Object Pose | [Paper](https://arxiv.org/pdf/2203.04424) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981145) | rule-assigned |
 
-## Recent arXiv papers (203)
+## Recent arXiv papers (201)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -268,8 +268,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-17 | Collaborative Grid Mapping for Moving Object Tracking Evaluation | Rémy Huet, Antoine Lima, Philippe Xu, Véronique Cherfaoui et al. | [Abstract](https://arxiv.org/abs/2311.10415) · [PDF](https://arxiv.org/pdf/2311.10415) | rule-assigned |
 | 2023-11-13 | ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers | Edison P. Velasco Sánchez, Miguel Ángel Muñoz-Bañón, Francisco A. Candelas, Santiago T. Puente et al. | [Abstract](https://arxiv.org/abs/2311.07268) · [PDF](https://arxiv.org/pdf/2311.07268) | rule-assigned |
 | 2023-11-09 | Visually Guided Model Predictive Robot Control via 6D Object Pose Localization and Tracking | Mederic Fourmy, Vojtech Priban, Jan Kristof Behrens, Nicolas Mansard et al. | [Abstract](https://arxiv.org/abs/2311.05344) · [PDF](https://arxiv.org/pdf/2311.05344) | rule-assigned |
-| 2023-11-06 | Obstacle- and Occlusion-Responsive Visual Tracking Control for Redundant Manipulators using Reachability Measure | Mincheul Kang, Junhyoung Ha | [Abstract](https://arxiv.org/abs/2311.03029) · [PDF](https://arxiv.org/pdf/2311.03029) | rule-assigned |
-| 2023-11-05 | Fast Point Cloud to Mesh Reconstruction for Deformable Object Tracking | Elham Amin Mansour, Hehui Zheng, Robert K. Katzschmann | [Abstract](https://arxiv.org/abs/2311.02749) · [PDF](https://arxiv.org/pdf/2311.02749) | rule-assigned |
 
 ---
 

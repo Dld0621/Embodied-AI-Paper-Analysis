@@ -1,7 +1,7 @@
 # Pending specialty review · 待审专题 · Conference 2024
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
@@ -14,7 +14,7 @@
 | 2024 | Generate Subgoal Images Before Act: Unlocking the Chain-of-Thought Reasoning in Diffusion Model for Robot Manipulation with Multimodal Prompts | CVPR · Manipulation | [Paper](https://doi.org/10.1109/CVPR52733.2024.01327) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01327) | needs-review |
 | 2024 | ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation | CVPR · Large Language Model | [Paper](https://arxiv.org/pdf/2312.16217) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01710) | needs-review |
 | 2024 | Composable Part-Based Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2405.05876) · [Index](https://dblp.org/rec/journals/corr/abs-2405-05876) | needs-review |
-| 2024 | Contrastive Imitation Learning for Language-guided Multi-Task Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2406.09738) · [Index](https://dblp.org/rec/conf/corl/MaZWQ024) | needs-review |
+| 2024 | Contrastive Imitation Learning for Language-guided Multi-Task Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2406.09738) · [Index](https://dblp.org/rec/journals/corr/abs-2406-09738) | needs-review |
 | 2024 | CrossFormer: Scaling Cross-Embodied Learning for Manipulation | CoRL · Cross-embodiment learning | [Paper](https://arxiv.org/abs/2408.11812) · [Official](https://proceedings.mlr.press/v270/) | needs-review |
 | 2024 | D3RoMa: Disparity Diffusion-based Depth Sensing for Material-Agnostic Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2409.14365) · [Index](https://dblp.org/rec/journals/corr/abs-2409-14365) | needs-review |
 | 2024 | DeliGrasp: Inferring Object Properties with LLMs for Adaptive Grasp Policies | CoRL · Llm | [Paper](https://arxiv.org/abs/2403.07832) · [Index](https://dblp.org/rec/conf/corl/XieVLC24) | needs-review |
@@ -87,7 +87,7 @@
 | 2024 | Robot Trajectron: Trajectory Prediction-based Shared Control for Robot Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2402.02499) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611507) | needs-review |
 | 2024 | Robust and Energy-Efficient Control for Multi-task Aerial Manipulation with Automatic Arm-switching | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610031) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610031) | needs-review |
 | 2024 | Scaling Object-centric Robotic Manipulation with Multimodal Object Identification | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611181) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611181) | needs-review |
-| 2024 | Self-supervised Learning for Joint Pushing and Grasping Policies in Highly Cluttered Environments | ICRA · Grasp | [Paper](https://research.rug.nl/en/publications/f920f16d-e2a7-49cf-92d5-e3f6e711bea0) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611650) | needs-review |
+| 2024 | Self-supervised Learning for Joint Pushing and Grasping Policies in Highly Cluttered Environments | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2203.02511) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611650) | needs-review |
 | 2024 | Sim2Real Manipulation on Unknown Objects with Tactile-based Reinforcement Learning | ICRA · Sim2Real | [Paper](https://arxiv.org/pdf/2403.12170) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611113) | needs-review |
 | 2024 | Stereo Image-based Visual Servoing Towards Feature-based Grasping | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611604) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611604) | needs-review |
 | 2024 | Stochastic Games for Interactive Manipulation Domains | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2403.04910) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611623) | needs-review |
@@ -117,7 +117,7 @@
 | 2024 | LAC-Net: Linear-Fusion Attention-Guided Convolutional Network for Accurate Robotic Grasping Under the Occlusion | IROS · Grasp | [Paper](https://arxiv.org/pdf/2408.03238) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802054) | needs-review |
 | 2024 | Learning a Pre-Grasp Manipulation Policy to Effectively Retrieve a Target in Dense Clutter | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801734) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801734) | needs-review |
 | 2024 | Learning Generalizable Manipulation Policy with Adapter-Based Parameter Fine-Tuning | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801544) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801544) | needs-review |
-| 2024 | Learning to Recover from Plan Execution Errors during Robot Manipulation: A Neuro-symbolic Approach | IROS · Manipulation | [Paper](https://arxiv.org/abs/2405.18948) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801831) | needs-review |
+| 2024 | Learning to Recover from Plan Execution Errors during Robot Manipulation: A Neuro-symbolic Approach | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2405.18948) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801831) | needs-review |
 | 2024 | Loco-Manipulation with Nonimpulsive Contact-Implicit Planning in a Slithering Robot | IROS · Loco Manipulation | [Paper](https://arxiv.org/pdf/2404.08174) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802450) | needs-review |
 | 2024 | Modeling of Hydraulic Soft Hand with Rubber Sheet Reservoir and Evaluation of its Grasping Flexibility and Control | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS58592.2024.10802355) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802355) | needs-review |
 | 2024 | MPGNet: Learning Move-Push-Grasping Synergy for Target-Oriented Grasping in Occluded Scenes | IROS · Grasp | [Paper](https://arxiv.org/pdf/2408.10525) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802784) | needs-review |

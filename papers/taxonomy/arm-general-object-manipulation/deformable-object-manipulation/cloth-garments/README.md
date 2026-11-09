@@ -1,7 +1,7 @@
 # Cloth & Garments · 布料与衣物
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation&specialty=Cloth%20%26%20Garments#research-workbench)
@@ -44,7 +44,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Quadratic Dynamic Matrix Control for Fast Cloth Manipulation | IROS · Manipulation | [Paper](https://upcommons.upc.edu/bitstreams/14be0a3b-9c7e-4595-9989-7cdcbf746561/download) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341850) | rule-assigned |
 | 2022 | Visuotactile Affordances for Cloth Manipulation with Local Control | CoRL · Tactile | [Paper](https://arxiv.org/abs/2212.05108) · [Index](https://dblp.org/rec/conf/corl/SunilWSAG22) | rule-assigned |
 | 2022 | Learning to Singulate Layers of Cloth using Tactile Feedback | IROS · Tactile | [Paper](https://arxiv.org/pdf/2207.11196) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981341) | rule-assigned |
-| 2022 | Iterative residual policy: For goal-conditioned dynamic manipulation of deformable objects | RSS · Manipulation | [Paper](https://arxiv.org/abs/2203.00663) · [Publisher](https://doi.org/10.1177/02783649231201201) | rule-assigned |
+| 2022 | Iterative residual policy: For goal-conditioned dynamic manipulation of deformable objects | RSS · Manipulation | [Paper](https://arxiv.org/pdf/2203.00663) · [Publisher](https://doi.org/10.1177/02783649231201201) | rule-assigned |
 | 2022 | Mesh-based Dynamics with Occlusion Reasoning for Cloth Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/pdf/2206.02881) · [Index](https://dblp.org/rec/journals/corr/abs-2206-02881) | rule-assigned |
 
 ## Recent arXiv papers (57)

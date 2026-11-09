@@ -1,12 +1,12 @@
 # Humanoid Loco-manipulation · 人形移动操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-04** · 顶会快照 / Conference: **2026-10-30** · arXiv 快照: **2026-11-04** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Locomotion-Manipulation%20Coordination&specialty=Humanoid%20Loco-manipulation#research-workbench)
 
-> 11 conference papers · 159 recent arXiv papers
+> 13 conference papers · 162 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,26 +20,31 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 Rule-derived assignments are not full-paper reviews. See the [classification guide](../../../../../docs/taxonomy-guide.md) and [review queue](../../../../classification-review/README.md).
 A pending entry with subcategory_status=provisional is only a storage location, not confirmed membership of this subfield. 二级暂定的待审记录只是暂挂入口，不代表已确认属于这个领域。
 
-## Conference papers (11)
+## Conference papers (13)
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
+| 2026 | Humanoid Whole-Body Manipulation via Active Spatial Brain and Generalizable Action Cerebellum | ECCV · Humanoid | [Paper](https://arxiv.org/abs/2605.21133) · [Index](https://dblp.org/rec/conf/eccv/LiangWCLHLLLZ26) | rule-assigned |
 | 2026 | Safe Whole-Body Loco-Manipulation via Combined Model and Learning-based Control | ICRA · Loco Manipulation | [Paper](https://arxiv.org/pdf/2603.02443) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697564) | rule-assigned |
 | 2026 | SEEC: Stable End-Effector Control with Model-Enhanced Residual Learning for Humanoid Loco-Manipulation | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2509.21231) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697024) | rule-assigned |
+| 2025 | VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation | CVPR · Humanoid | [Paper](https://arxiv.org/abs/2511.15200) · [Index](https://dblp.org/rec/journals/corr/abs-2511-15200) | rule-assigned |
 | 2025 | Efficient Learning of A Unified Policy For Whole-body Manipulation and Locomotion Skills | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2507.04229) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246644) | rule-assigned |
 | 2025 | Generalizable Humanoid Manipulation with 3D Diffusion Policies | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2410.10803) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246340) | rule-assigned |
 | 2025 | Preferenced Oracle Guided Multi-mode Policies for Dynamic Bipedal Loco-Manipulation | IROS · Biped | [Paper](https://arxiv.org/pdf/2410.01030) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246602) | rule-assigned |
 | 2024 | Hierarchical Optimization-based Control for Whole-body Loco-manipulation of Heavy Objects | ICRA · Loco Manipulation | [Paper](https://arxiv.org/pdf/2311.00112) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611656) | rule-assigned |
 | 2024 | Sim-to-Real Learning for Humanoid Box Loco-Manipulation | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2310.03191) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610977) | rule-assigned |
-| 2024 | Arm-Constrained Curriculum Learning for Loco-Manipulation of a Wheel-Legged Robot | IROS · Legged | [Paper](https://arxiv.org/abs/2403.16535) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802062) | rule-assigned |
+| 2024 | Arm-Constrained Curriculum Learning for Loco-Manipulation of a Wheel-Legged Robot | IROS · Legged | [Paper](https://arxiv.org/pdf/2403.16535) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802062) | rule-assigned |
 | 2024 | Autonomous Behavior Planning For Humanoid Loco-manipulation Through Grounded Language Model | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2408.08282) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802344) | rule-assigned |
 | 2024 | Physically Consistent Online Inertial Adaptation for Humanoid Loco-manipulation | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2405.07901) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802012) | rule-assigned |
 | 2023 | Hierarchical Adaptive Loco-manipulation Control for Quadruped Robots | ICRA · Quadruped | [Paper](https://arxiv.org/pdf/2209.13145) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160523) | rule-assigned |
 
-## Recent arXiv papers (159)
+## Recent arXiv papers (162)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | SUGARv2: Learning Diverse Visual Humanoid Loco-Manipulation Skills from Synthesized Interaction References | Tianshu Wu, Tianxiang Gui, Yue Chen, Tingxu Liu et al. | [Abstract](https://arxiv.org/abs/2611.09266) · [PDF](https://arxiv.org/pdf/2611.09266) | rule-assigned |
+| 2026-11-06 | Autonomous Whole-body Loco-manipulation Using a Snake Robot | Adarsh Salagame, Henry Noyes, Haroon Hublikar, Alireza Ramezani | [Abstract](https://arxiv.org/abs/2611.09777) · [PDF](https://arxiv.org/pdf/2611.09777) | rule-assigned |
+| 2026-11-03 | Ctrl-F: Force as an Interface for Humanoid Loco-Manipulation | Mengjie Zhao, Yuxin Chen, Yiyang Shao, Chuye Hong et al. | [Abstract](https://arxiv.org/abs/2611.05507) · [PDF](https://arxiv.org/pdf/2611.05507) | rule-assigned |
 | 2026-11-03 | Coordinating Humanoid Loco-Manipulation through Action-Conditioned Latent Foresight | Ju Dong, Xinyu Xiao, Yiming Zhou, Tianshuo Yang et al. | [Abstract](https://arxiv.org/abs/2611.04839) · [PDF](https://arxiv.org/pdf/2611.04839) | rule-assigned |
 | 2026-11-02 | ReGATE: Recurrent Gated Visual Fusion for Reactive Humanoid-Object Interaction | Hao Zhu, Jorge Peña-Queralta | [Abstract](https://arxiv.org/abs/2611.02871) · [PDF](https://arxiv.org/pdf/2611.02871) | rule-assigned |
 | 2026-11-02 | Energy-Based Policy Orchestration | Weirui Ye, Yen-Jen Wang, Elvis Hsieh, Zhiyang Dou et al. | [Abstract](https://arxiv.org/abs/2611.02546) · [PDF](https://arxiv.org/pdf/2611.02546) | rule-assigned |
