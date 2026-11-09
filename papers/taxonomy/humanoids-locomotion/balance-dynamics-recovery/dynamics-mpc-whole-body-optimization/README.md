@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Balance%2C%20Dynamics%20%26%20Recovery&specialty=Dynamics%2C%20MPC%20%26%20Whole-body%20Optimization#research-workbench)
 
-> 15 conference papers · 54 recent arXiv papers
+> 15 conference papers · 53 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -34,7 +34,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Convex Model Predictive Control of Single Rigid Body Model on SO(3) for Versatile Dynamic Legged Motions | ICRA · Legged | [Paper](https://doi.org/10.1109/icra46639.2022.9811926) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811926) |
 | 2022 | Online Non-linear Centroidal MPC for Humanoid Robot Locomotion with Step Adjustment | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2203.04489) · [Publisher](https://doi.org/10.48550/arXiv.2203.04489) |
 
-## Recent arXiv papers (54)
+## Recent arXiv papers (53)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -91,7 +91,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-01-26 | Neuromorphic quadratic programming for efficient and scalable model predictive control | Ashish Rao Mangalore, Gabriel Andres Fonseca Guerra, Sumedh R. Risbud, Philipp Stratmann et al. | [Abstract](https://arxiv.org/abs/2401.14885) · [PDF](https://arxiv.org/pdf/2401.14885) |
 | 2023-12-14 | Versatile Telescopic-Wheeled-Legged Locomotion of Tachyon 3 via Full-Centroidal Nonlinear Model Predictive Control | Sotaro Katayama, Noriaki Takasugi, Mitsuhisa Kaneko, Masaya Kinoshita | [Abstract](https://arxiv.org/abs/2312.08668) · [PDF](https://arxiv.org/pdf/2312.08668) |
 | 2023-11-29 | ReLU-QP: A GPU-Accelerated Quadratic Programming Solver for Model-Predictive Control | Arun L. Bishop, John Z. Zhang, Swaminathan Gurumurthy, Kevin Tracy et al. | [Abstract](https://arxiv.org/abs/2311.18056) · [PDF](https://arxiv.org/pdf/2311.18056) |
-| 2023-11-04 | Imitating and Finetuning Model Predictive Control for Robust and Symmetric Quadrupedal Locomotion | Donghoon Youm, Hyunyoung Jung, Hyeongjun Kim, Jemin Hwangbo et al. | [Abstract](https://arxiv.org/abs/2311.02304) · [PDF](https://arxiv.org/pdf/2311.02304) |
 
 ---
 

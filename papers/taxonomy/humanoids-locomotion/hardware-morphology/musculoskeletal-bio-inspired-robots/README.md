@@ -19,7 +19,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2026 | Grip as Needed, Glide on Demand: Ultrasonic Lubrication for Robotic Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2602.15608) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696075) |
-| 2026 | MorphoBall: A Bio-Inspired Transformable Spherical Robot with Dual Terrestrial Gaits and Surface Swimming Capability | ICRA · Gait | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696098) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696098) |
+| 2026 | MorphoBall: A Bio-Inspired Transformable Spherical Robot with Dual Terrestrial Gaits and Surface Swimming Capability | ICRA · Gait | [Paper](https://doi.org/10.1109/icra57385.2026.11696098) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696098) |
 | 2025 | A Novel Underwater Robot with Carangiform Locomotion Achieved via Single Degree of Actuation and Magnetically Transmitted Traveling Wave | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127395) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127395) |
 | 2025 | Bio-Inspired Distributed Neural Locomotion Controller (D-NLC) for Robust Locomotion and Emergent Behaviors | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128090) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128090) |
 | 2025 | Tensiworm: A Novel Tensegrity Robot with Enhanced Peristaltic Locomotion Efficiency | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127767) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127767) |

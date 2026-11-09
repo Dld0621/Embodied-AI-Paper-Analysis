@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Multimodal%20Grounding&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 16 conference papers · 101 recent arXiv papers
+> 16 conference papers · 103 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | SHAF: Small Language Model Integrated with Motion Modality for Multimodal Interaction | ICRA · Language Model | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697346) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697346) |
+| 2026 | SHAF: Small Language Model Integrated with Motion Modality for Multimodal Interaction | ICRA · Language Model | [Paper](https://doi.org/10.1109/icra57385.2026.11697346) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697346) |
 | 2025 | RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete | CVPR · Robot multimodal model | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Ji_RoboBrain_A_Unified_Brain_Model_for_Robotic_Manipulation_from_Abstract_CVPR_2025_paper.html) · [Official](https://openaccess.thecvf.com/content/CVPR2025/html/Ji_RoboBrain_A_Unified_Brain_Model_for_Robotic_Manipulation_from_Abstract_CVPR_2025_paper.html) |
 | 2025 | Hyperbolic Transformers with LLMs for Multimodal Human Activity Recognition | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11247069) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247069) |
 | 2025 | Semantic Enhancement for Object SLAM with Heterogeneous Multimodal Large Language Model Agents | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2411.06752) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246672) |
@@ -35,10 +35,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Chat with the Environment: Interactive Multimodal Perception Using Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.08268) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342363) |
 | 2022 | Do As I Can, Not As I Say: Grounding Language in Robotic Affordances | CoRL · Language-grounded planning | [Paper](https://arxiv.org/abs/2204.01691) · [Official](https://proceedings.mlr.press/v205/ichter23a.html) · [Code](https://say-can.github.io/) |
 
-## Recent arXiv papers (101)
+## Recent arXiv papers (103)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-04 | Robots in the City: Persona-Based Perceptions of Urban Robots | Keonhee Jang, Kanghoon Lee, Seokwoo Yun, Namwoo Kim et al. | [Abstract](https://arxiv.org/abs/2611.05954) · [PDF](https://arxiv.org/pdf/2611.05954) |
 | 2026-10-26 | From Language to Drives: A Multimodal Framework for Aligning Autonomous Robots with Human Purposes | Diana Cerdas-Vargas, Alejandro Romero, Richard J. Duro | [Abstract](https://arxiv.org/abs/2610.35629) · [PDF](https://arxiv.org/pdf/2610.35629) |
 | 2026-10-20 | RoboJudge: Multimodal Language Models as Judges for Embodied Video Generation | Siyuan Ma, Yu Qi, Cheng Ye, Ruotian Peng et al. | [Abstract](https://arxiv.org/abs/2610.27782) · [PDF](https://arxiv.org/pdf/2610.27782) |
 | 2026-10-18 | The Bitter Lesson Comes to Robotics | Christopher Leet, Achyutha Menon, Sravanthi Machcha, Sven Koenig et al. | [Abstract](https://arxiv.org/abs/2610.25287) · [PDF](https://arxiv.org/pdf/2610.25287) |
@@ -58,7 +59,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-01 | DriveCode: Domain Specific Numerical Encoding for LLM-Based Autonomous Driving | Zhiye Wang, Yanbo Jiang, Rui Zhou, Bo Zhang et al. | [Abstract](https://arxiv.org/abs/2603.00919) · [PDF](https://arxiv.org/pdf/2603.00919) |
 | 2026-02-14 | Ontological grounding for sound and natural robot explanations via large language models | Alberto Olivares-Alarcos, Muhammad Ahsan, Satrio Sanjaya, Hsien-I Lin et al. | [Abstract](https://arxiv.org/abs/2602.13800) · [PDF](https://arxiv.org/pdf/2602.13800) |
 | 2026-01-27 | HARMONI: Multimodal Personalization of Multi-User Human-Robot Interactions with LLMs | Jeanne Malécot, Hamed Rahimi, Jeanne Cattoni, Marie Samson et al. | [Abstract](https://arxiv.org/abs/2601.19839) · [PDF](https://arxiv.org/pdf/2601.19839) |
-| 2026-01-13 | Large Multimodal Models for Embodied Intelligent Driving: The Next Frontier in Self-Driving? | Long Zhang, Yuchen Xia, Bingqing Wei, Zhen Liu et al. | [Abstract](https://arxiv.org/abs/2601.08434) · [PDF](https://arxiv.org/pdf/2601.08434) |
+| 2026-01-16 | EmboTeam: Asymmetric State Grounding for Heterogeneous Multi-Robot Collaboration | Haishan Zeng, Mengna Wang, Peng Li | [Abstract](https://arxiv.org/abs/2601.11063) · [PDF](https://arxiv.org/pdf/2601.11063) |
+| 2026-01-13 | Large Multimodal Models for Embodied Intelligent Driving: Enabling the Next Generation of Autonomous Mobility | Long Zhang, Yuchen Xia, Bingqing Wei, Zhen Liu et al. | [Abstract](https://arxiv.org/abs/2601.08434) · [PDF](https://arxiv.org/pdf/2601.08434) |
 | 2026-01-03 | EduSim-LLM: An Educational Platform Integrating Large Language Models and Robotic Simulation for Beginners | Shenqi Lu, Liangwei Zhang | [Abstract](https://arxiv.org/abs/2601.01196) · [PDF](https://arxiv.org/pdf/2601.01196) |
 | 2025-11-23 | SO-Bench: A Structural Output Evaluation of Multimodal LLMs | Di Feng, Kaixin Ma, Feng Nan, Haofeng Chen et al. | [Abstract](https://arxiv.org/abs/2511.21750) · [PDF](https://arxiv.org/pdf/2511.21750) |
 | 2025-11-22 | QuickLAP: Quick Language-Action Preference Learning for Semi-Autonomous Agents | Jordan Abi Nader, David Lee, Nathaniel Dennler, Andreea Bobu | [Abstract](https://arxiv.org/abs/2511.17855) · [PDF](https://arxiv.org/pdf/2511.17855) |

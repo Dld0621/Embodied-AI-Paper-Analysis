@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Digital%20Twins%20%26%20Real-to-sim%20Reconstruction#research-workbench)
 
-> 20 conference papers · 243 recent arXiv papers
+> 23 conference papers · 244 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,15 +14,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (20)
+## Conference papers (23)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | TabletopGen: Tabletop Scene Generation and Interactive Simulation for Robotic Manipulation | ECCV · Simulation | [Paper](https://arxiv.org/pdf/2512.01204) · [Publisher](https://doi.org/10.1007/978-3-032-37281-9_6) |
+| 2026 | Twin-DAgger: Synergizing Digital Twins and Human Corrections for Efficient Robot Manipulation | ECCV · Digital Twin | [Paper](https://doi.org/10.1007/978-3-032-37314-4_7) · [Publisher](https://doi.org/10.1007/978-3-032-37314-4_7) |
 | 2026 | Few-Shot Neural Differentiable Simulator: Real-to-Sim Rigid-Contact Modeling | ICRA · Simulator | [Paper](https://arxiv.org/pdf/2603.06218) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695915) |
 | 2026 | GaussTwin: Unified Simulation and Correction with Gaussian Splatting for Robotic Digital Twins | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2603.05108) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696587) |
-| 2026 | RE3SIM: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation | ICRA · Simulation | [Paper](https://arxiv.org/abs/2502.08645) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695858) |
+| 2026 | RE3SIM: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation | ICRA · Simulation | [Paper](https://doi.org/10.1109/icra57385.2026.11695858) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695858) |
 | 2026 | Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2511.04665) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696757) |
 | 2026 | Simple Models, Real Swimming: Digital Twins for Tendon-Driven Underwater Robots | ICRA · Digital Twin | [Paper](https://arxiv.org/pdf/2602.23283) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697241) |
+| 2025 | RobotArena ∞: Scalable Robot Benchmarking via Real-to-Sim Translation | ICLR · Benchmark | [Paper](https://arxiv.org/abs/2510.23571) · [Publisher](https://doi.org/10.48550/arXiv.2510.23571) |
 | 2025 | Towards Autonomous Verification: Integrating Cognitive AI and Semantic Digital Twins in Medical Robotics | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127803) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127803) |
 | 2025 | Automatic Real-to-Sim-to-Real System through Iterative Interactions for Robust Robot Manipulation Policy Learning with Unseen Objects | IROS · Sim To Real | [Paper](https://doi.org/10.1109/IROS60139.2025.11247488) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247488) |
 | 2025 | Botany-Bot: Digital Twin Monitoring of Occluded and Underleaf Plant Structures with Gaussian Splats | IROS · Digital Twin | [Paper](https://arxiv.org/pdf/2510.17783) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247474) |
@@ -39,10 +42,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Digital Twin with Integrated Robot-Human/Environment Interaction Dynamics for an Industrial Mobile Manipulator | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/icra46639.2022.9812004) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812004) |
 | 2022 | Dynamic Modeling and Digital Twin of a Harmonic Drive Based Collaborative Robot Joint | ICRA · Digital Twin | [Paper](https://doi.org/10.1109/icra46639.2022.9812458) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812458) |
 
-## Recent arXiv papers (243)
+## Recent arXiv papers (244)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-05 | TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation | Yijiong Lin, Wenhao He, Toby Jack, Max Yang et al. | [Abstract](https://arxiv.org/abs/2611.07881) · [PDF](https://arxiv.org/pdf/2611.07881) |
+| 2026-11-04 | TwinBridge: Digital Twin-Driven Policy and Reward Transfer for Real-World Reinforcement Learning in Laboratory Robotics | Shu'ang Sun, Yibo Qiu, Haoliang Ye, Zan Huang et al. | [Abstract](https://arxiv.org/abs/2611.06442) · [PDF](https://arxiv.org/pdf/2611.06442) |
 | 2026-10-27 | GOFish: Full Field-of-View Gaussian Splatting and Mesh Extraction | Allen Tu, Meher Gitika Karumuri, Shifan Zhu, Hailing Wang et al. | [Abstract](https://arxiv.org/abs/2610.37818) · [PDF](https://arxiv.org/pdf/2610.37818) |
 | 2026-10-27 | AuRaSim: A Ray-Tracing Based Automotive FMCW Radar Simulator for Dynamic Scenarios | Zhaoze Wang, Changxu Zhang, Tai Fei, Christopher Grimm et al. | [Abstract](https://arxiv.org/abs/2610.37403) · [PDF](https://arxiv.org/pdf/2610.37403) |
 | 2026-10-25 | EAST: Embodied AI Safety Testing via Systematic Fault Injection in Digital Twins | Yuhao Tian, Tao Li, Ling Zhou, Dave Towey et al. | [Abstract](https://arxiv.org/abs/2610.34358) · [PDF](https://arxiv.org/pdf/2610.34358) |
@@ -115,7 +120,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-04-09 | SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds | Yunsong Zhou, Hangxu Liu, Xuekun Jiang, Xing Shen et al. | [Abstract](https://arxiv.org/abs/2604.08544) · [PDF](https://arxiv.org/pdf/2604.08544) |
 | 2026-04-09 | AgiPIX: Bridging Simulation and Reality in Indoor Aerial Inspection | Sasanka Kuruppu Arachchige, Juan Jose Garcia, Changda Tian, Lauri Suomela et al. | [Abstract](https://arxiv.org/abs/2604.08009) · [PDF](https://arxiv.org/pdf/2604.08009) |
 | 2026-04-08 | Telecom World Models: Unifying Digital Twins, Foundation Models, and Predictive Planning for 6G | Hang Zou, Yuzhi Yang, Lina Bariah, Yu Tian et al. | [Abstract](https://arxiv.org/abs/2604.06882) · [PDF](https://arxiv.org/pdf/2604.06882) |
-| 2026-04-07 | CoEnv: Driving Embodied Multi-Agent Collaboration via Compositional Environment | Li Kang, Yutao Fan, Rui Li, Heng Zhou et al. | [Abstract](https://arxiv.org/abs/2604.05484) · [PDF](https://arxiv.org/pdf/2604.05484) |
+| 2026-04-07 | CoEnv: Code-Driven Exploration in Real-to-Sim Digital Twins for Multi-Arm Manipulation | Li Kang, Yutao Fan, Rui Li, Heng Zhou et al. | [Abstract](https://arxiv.org/abs/2604.05484) · [PDF](https://arxiv.org/pdf/2604.05484) |
 | 2026-03-25 | SLAT-Phys: Fast Material Property Field Prediction from Structured 3D Latents | Rocktim Jyoti Das, Dinesh Manocha | [Abstract](https://arxiv.org/abs/2603.23973) · [PDF](https://arxiv.org/pdf/2603.23973) |
 | 2026-03-21 | Current state of the multi-agent multi-view experimental and digital twin rendezvous (MMEDR-Autonomous) framework | Logan Banker, Michael Wozniak, Mohanad Alameer, Smriti Nandan Paul et al. | [Abstract](https://arxiv.org/abs/2603.20575) · [PDF](https://arxiv.org/pdf/2603.20575) |
 | 2026-03-18 | Multisource human-in-the-loop digital twin testbed for connected and autonomous vehicles in mixed traffic flow | Jianghong Dong, Chunying Yang, Mengchi Cai, Chaoyi Chen et al. | [Abstract](https://arxiv.org/abs/2603.17751) · [PDF](https://arxiv.org/pdf/2603.17751) |
@@ -285,7 +290,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-25 | Smart Mobility Digital Twin for Automated Driving: Design and Proof-of-Concept | Kui Wang, Zongdian Li, Tao Yu, Kei Sakaguchi | [Abstract](https://arxiv.org/abs/2401.08654) · [PDF](https://arxiv.org/pdf/2401.08654) |
 | 2023-12-20 | How to Integrate Digital Twin and Virtual Reality in Robotics Systems? Design and Implementation for Providing Robotics Maintenance Services in Data Centers | Lin Xie, Hanyi Li | [Abstract](https://arxiv.org/abs/2312.13076) · [PDF](https://arxiv.org/pdf/2312.13076) |
 | 2023-11-24 | Digital Twin Technology Enabled Proactive Safety Application for Vulnerable Road Users: A Real-World Case Study | Erik Rua, Kazi Hasan Shakib, Sagar Dasgupta, Mizanur Rahman et al. | [Abstract](https://arxiv.org/abs/2312.10041) · [PDF](https://arxiv.org/pdf/2312.10041) |
-| 2023-11-04 | Digital Twins for Human-Robot Collaboration: A Future Perspective | Mohamad Shaaban, Alessandro Carfì, Fulvio Mastrogiovanni | [Abstract](https://arxiv.org/abs/2311.02421) · [PDF](https://arxiv.org/pdf/2311.02421) |
 
 ---
 

@@ -28,7 +28,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
-| 2026-10-29 | SONIC-K1: Porting a Universal Humanoid Motion Tracker to a Small Humanoid on a Single GPU | Kyrylo Kolesnichenko, Jong-Hoon Kim | [Abstract](https://arxiv.org/abs/2610.39327) · [PDF](https://arxiv.org/pdf/2610.39327) |
+| 2026-11-03 | RAIPAL: A Powerful and Agile Humanoid Arm for Human Tasks | Donggeon Kim, Hyungho Chris Choi, Donghyuk Choi, Jeongsoo Park et al. | [Abstract](https://arxiv.org/abs/2611.04334) · [PDF](https://arxiv.org/pdf/2611.04334) |
 | 2026-09-30 | Toward Humanoid Robots in Construction: A Teleoperation Feasibility Study | Parastoo Ali Pour, David R. Martin, Chang Min Hur, Bo Zhang et al. | [Abstract](https://arxiv.org/abs/2610.00718) · [PDF](https://arxiv.org/pdf/2610.00718) |
 | 2026-09-27 | CompliantWBC: Whole-Body Compliance for Heavy Humanoids via Force Latent Estimation and Residual Impedance Targets | Tan-Dzung Do, Cuc T. Trinh, Tuan Dat Phuong, Chien Le et al. | [Abstract](https://arxiv.org/abs/2609.33310) · [PDF](https://arxiv.org/pdf/2609.33310) |
 | 2026-09-17 | Diverse and Adaptable Arm Coordination for Octopus-Crawling via Diffusion-Based Uncertainty-Aware Optimization | Seung Hyun Kim, Heng-Sheng Chang, Kimia Kazemi, Prashant Mehta et al. | [Abstract](https://arxiv.org/abs/2609.21138) · [PDF](https://arxiv.org/pdf/2609.21138) |

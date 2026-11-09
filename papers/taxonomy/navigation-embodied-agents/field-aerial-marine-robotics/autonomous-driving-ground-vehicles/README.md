@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Field%2C%20Aerial%20%26%20Marine%20Robotics&specialty=Autonomous%20Driving%20%26%20Ground%20Vehicles#research-workbench)
 
-> 13 conference papers · 141 recent arXiv papers
+> 13 conference papers · 142 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -32,10 +32,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Risk-Aware Off-Road Navigation via a Learned Speed Distribution Map | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.13429) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982200) |
 | 2022 | VI-IKD: High-Speed Accurate Off-Road Navigation using Learned Visual-Inertial Inverse Kinodynamics | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.15983) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982060) |
 
-## Recent arXiv papers (141)
+## Recent arXiv papers (142)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-04 | When to Ask for Help: Uncertainty-Triggered Aerial Refinement for Off-Road Navigation | Pranay Samineni, Adam Thorpe, John Chubick, Anand Balakrishnan et al. | [Abstract](https://arxiv.org/abs/2611.06702) · [PDF](https://arxiv.org/pdf/2611.06702) |
 | 2026-10-30 | Mechanistic Interpretability for End-to-End Self-Driving | Manav Gagvani, Benjamin Namikas, Sivamurugan Velmurugan, Nysa Kumar et al. | [Abstract](https://arxiv.org/abs/2610.41185) · [PDF](https://arxiv.org/pdf/2610.41185) |
 | 2026-10-22 | ProTrav: Probabilistic Traversability with Elevation Uncertainty Propagation for Risk-aware Off-road Navigation | Chuanlin Zuo, Miloš Prágr, Arun Kumar Singh, Mohammad Loni et al. | [Abstract](https://arxiv.org/abs/2610.30839) · [PDF](https://arxiv.org/pdf/2610.30839) |
 | 2026-10-06 | Toward Evidence-Driven Human-Agent-Robot Teaming for Earth-Independent Anomaly Triage | Ignacio G Lopez-Francos, Alexis Gallagher, Samira Shalal | [Abstract](https://arxiv.org/abs/2610.08933) · [PDF](https://arxiv.org/pdf/2610.08933) |

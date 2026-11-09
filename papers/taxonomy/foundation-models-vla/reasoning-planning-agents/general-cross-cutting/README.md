@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 25 conference papers · 217 recent arXiv papers
+> 26 conference papers · 218 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (25)
+## Conference papers (26)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation | CVPR · Vla | [Paper](https://arxiv.org/abs/2605.05126) · [Publisher](https://doi.org/10.48550/arXiv.2605.05126) |
 | 2026 | From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation | ICLR · Spatial reasoning | [Paper](https://openreview.net/forum?id=yngvAamNQi) · [Official](https://openreview.net/forum?id=yngvAamNQi) |
 | 2026 | A Natural Language Interface for Multi-Constraint Spatiotemporal Planning via LLM-Parameterized Mixed-Integer Scheduling and A | ICRA · Llm | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696582) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696582) |
 | 2026 | Grounding Language Models with Semantic Digital Twins for Robotic Planning | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2506.16493) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696242) |
@@ -44,10 +45,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Task and Motion Planning with Large Language Models for Object Rearrangement | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.06247) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342169) |
 | 2023 | Demonstrating Large Language Models on Robots | RSS · Large Language Model | [Paper](https://doi.org/10.15607/rss.2023.xix.024) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.024) |
 
-## Recent arXiv papers (217)
+## Recent arXiv papers (218)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-05 | VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding | Yu-Cheng Chou, Shihao Wang, Jin Huang, Chi-Pin Huang et al. | [Abstract](https://arxiv.org/abs/2611.08449) · [PDF](https://arxiv.org/pdf/2611.08449) |
+| 2026-10-31 | Knowing Where to Look: Interactive Object Search via Spatial-Semantic Fusion | Aditya Agarwal, Lucy Cai, Kelly Lu, Travis Manderson et al. | [Abstract](https://arxiv.org/abs/2611.00499) · [PDF](https://arxiv.org/pdf/2611.00499) |
 | 2026-10-27 | ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning | Chaehyun Kim, Chi-Pin Huang, Jisoo Kim, Min-Hung Chen et al. | [Abstract](https://arxiv.org/abs/2610.37666) · [PDF](https://arxiv.org/pdf/2610.37666) |
 | 2026-10-26 | ASPEN: Adaptive Semantic Reasoning via Command Persistence Prediction for Efficient Navigation VLAs | Vieri N. Akustia, Bin Hu | [Abstract](https://arxiv.org/abs/2610.36285) · [PDF](https://arxiv.org/pdf/2610.36285) |
 | 2026-10-21 | OMAR: Open-World Multi-Attribute Reasoning for Scene-Conditioned Shelf Organization | Benedikt Kreis, Rohit Menon, Benno Wingender, Muhammad Ehsan Ullah et al. | [Abstract](https://arxiv.org/abs/2610.29761) · [PDF](https://arxiv.org/pdf/2610.29761) |
@@ -83,6 +86,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-11 | Large Language Model Enhanced Differentiable Trajectory Planning for IoT-Enabled Autonomous Driving | Shihao Zhang, Jing Yang, Ziyu Song, Zheng Lin et al. | [Abstract](https://arxiv.org/abs/2607.10438) · [PDF](https://arxiv.org/pdf/2607.10438) |
 | 2026-07-11 | Interleaved POMDP Planning for Multi-Object Search in Unknown Multi-Room Household Environments | Ruochu Yang, Ziyi Xia, Huibo Zhang, Yatong Han et al. | [Abstract](https://arxiv.org/abs/2607.10437) · [PDF](https://arxiv.org/pdf/2607.10437) |
 | 2026-07-07 | Towards Reliable Aerial Ground Vehicle Collaboration: An Integrated Planning and Autonomy Framework for Field Deployment | Md Safwan Mondal, Luca Russo, James D. Humann, James M. Dotterweich et al. | [Abstract](https://arxiv.org/abs/2607.07350) · [PDF](https://arxiv.org/pdf/2607.07350) |
+| 2026-07-07 | EvoPlan: Evolutionary Neuro-Symbolic Robot Planning with Spatio-Temporal Guarantees | Bhavya Sai Nukapotula, Samin Moosavi, Haoze Wang, Luke Duncan et al. | [Abstract](https://arxiv.org/abs/2607.06724) · [PDF](https://arxiv.org/pdf/2607.06724) |
 | 2026-06-12 | ParkingTransformer: LLM-Enhanced End-to-End Trajectory Planning for Autonomous Parking | Hauteng Wu, Xu Li, Dong Kong, Zihang Wang et al. | [Abstract](https://arxiv.org/abs/2606.17082) · [PDF](https://arxiv.org/pdf/2606.17082) |
 | 2026-06-11 | Computing Smooth Geodesics under Two-Sided Curvature Bounds with Applications to Robotics and Image Analysis | Da Chen, Zhenjiang Li, Jean-Marie Mirebeau, Xuecheng Tai et al. | [Abstract](https://arxiv.org/abs/2606.14794) · [PDF](https://arxiv.org/pdf/2606.14794) |
 | 2026-06-07 | Personalized and Robust Proactive Robot Assistance with Uncertainty-Guided LLM Reasoning | Alvaro Gonzalez, M. H. Hasan Shovo, Ali Ayub | [Abstract](https://arxiv.org/abs/2606.08458) · [PDF](https://arxiv.org/pdf/2606.08458) |
@@ -263,8 +267,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-21 | A Safer Vision-based Autonomous Planning System for Quadrotor UAVs with Dynamic Obstacle Trajectory Prediction and Its Application with LLMs | Jiageng Zhong, Ming Li, Yinliang Chen, Zihang Wei et al. | [Abstract](https://arxiv.org/abs/2311.12893) · [PDF](https://arxiv.org/pdf/2311.12893) |
 | 2023-11-14 | Human-Centric Autonomous Systems With LLMs for User Command Reasoning | Yi Yang, Qingwen Zhang, Ci Li, Daniel Simões Marta et al. | [Abstract](https://arxiv.org/abs/2311.08206) · [PDF](https://arxiv.org/pdf/2311.08206) |
 | 2023-11-13 | Large Language Models for Robotics: A Survey | Fanlong Zeng, Wensheng Gan, Zezheng Huai, Lichao Sun et al. | [Abstract](https://arxiv.org/abs/2311.07226) · [PDF](https://arxiv.org/pdf/2311.07226) |
-| 2023-11-06 | IR-STP: Enhancing Autonomous Driving with Interaction Reasoning in Spatio-Temporal Planning | Yingbing Chen, Jie Cheng, Lu Gan, Sheng Wang et al. | [Abstract](https://arxiv.org/abs/2311.02850) · [PDF](https://arxiv.org/pdf/2311.02850) |
-| 2023-11-02 | REAL: Resilience and Adaptation using Large Language Models on Autonomous Aerial Robots | Andrea Tagliabue, Kota Kondo, Tong Zhao, Mason Peterson et al. | [Abstract](https://arxiv.org/abs/2311.01403) · [PDF](https://arxiv.org/pdf/2311.01403) |
 
 ---
 

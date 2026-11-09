@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Dexterous%20Hand%20Control&specialty=Multifinger%20Control%20%26%20Coordination#research-workbench)
 
-> 24 conference papers · 42 recent arXiv papers
+> 25 conference papers · 41 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,16 +14,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (24)
+## Conference papers (25)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2026 | UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos | CVPR · Cross-hand dexterous control | [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_UniDex_A_Robot_Foundation_Suite_for_Universal_Dexterous_Hand_Control_CVPR_2026_paper.pdf) · [Official](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_UniDex_A_Robot_Foundation_Suite_for_Universal_Dexterous_Hand_Control_CVPR_2026_paper.html) |
+| 2026 | House Of Dextra : Cross-Embodied Co-Design for Dexterous Hands | ICLR · Dexterous | [Paper](https://arxiv.org/abs/2512.03743) · [Index](https://dblp.org/rec/conf/iclr/FayDZCLSTYW26) |
 | 2026 | Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations | ICRA · Multi Finger | [Paper](https://arxiv.org/pdf/2511.16661) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697220) |
 | 2026 | Multifingered force-aware control for humanoid robots | ICRA · Multifinger | [Paper](https://arxiv.org/pdf/2603.08142) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696121) |
 | 2025 | DemoStart: Demonstration-Led Auto-Curriculum Applied to Sim-to-Real with Multi-Fingered Robots | ICRA · Multi Finger | [Paper](https://arxiv.org/pdf/2409.06613) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127813) |
 | 2025 | ContactDexNet: Multi-fingered Robotic Hand Grasping in Cluttered Environments through Hand-Object Contact Semantic Mapping | IROS · Multi Finger | [Paper](https://arxiv.org/pdf/2404.08844) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247756) |
-| 2025 | Design of an Affordable, Fully-Actuated Biomimetic Hand for Dexterous Teleoperation Systems | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS60139.2025.11245814) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245814) |
+| 2025 | Design of an Affordable, Fully-Actuated Biomimetic Hand for Dexterous Teleoperation Systems | IROS · Dexterous | [Paper](https://arxiv.org/pdf/2510.16931) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245814) |
 | 2025 | Exploiting Policy Idling for Dexterous Manipulation | IROS · Dexterous | [Paper](https://arxiv.org/pdf/2508.15669) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246124) |
 | 2025 | Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand | IROS · Multifinger | [Paper](https://arxiv.org/pdf/2507.06822) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246691) |
 | 2024 | Object-Centric Dexterous Manipulation from Human Motion Data | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2411.04005) · [Publisher](https://doi.org/10.48550/arXiv.2411.04005) |
@@ -43,7 +44,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | A Two-stage Learning Architecture that Generates High-Quality Grasps for a Multi-Fingered Hand | IROS · Multi Finger | [Paper](https://doi.org/10.1109/IROS47612.2022.9981133) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981133) |
 | 2022 | Multi-Finger Grasping Like Humans | IROS · Multi Finger | [Paper](https://arxiv.org/pdf/2211.07304) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981805) |
 
-## Recent arXiv papers (42)
+## Recent arXiv papers (41)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -88,7 +89,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-04-12 | ContactDexNet: Multi-fingered Robotic Hand Grasping in Cluttered Environments through Hand-object Contact Semantic Mapping | Lei Zhang, Kaixin Bai, Guowen Huang, Zhenshan Bing et al. | [Abstract](https://arxiv.org/abs/2404.08844) · [PDF](https://arxiv.org/pdf/2404.08844) |
 | 2024-01-29 | Print-N-Grip: A Disposable, Compliant, Scalable and One-Shot 3D-Printed Multi-Fingered Robotic Hand | Alon Laron, Eran Sne, Yaron Perets, Avishai Sintov | [Abstract](https://arxiv.org/abs/2401.16463) · [PDF](https://arxiv.org/pdf/2401.16463) |
 | 2024-01-26 | RESPRECT: Speeding-up Multi-fingered Grasping with Residual Reinforcement Learning | Federico Ceola, Lorenzo Rosasco, Lorenzo Natale | [Abstract](https://arxiv.org/abs/2401.14858) · [PDF](https://arxiv.org/pdf/2401.14858) |
-| 2023-11-07 | Self-Contained and Automatic Calibration of a Multi-Fingered Hand Using Only Pairwise Contact Measurements | Johannes Tenhumberg, Leon Sievers, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2311.03957) · [PDF](https://arxiv.org/pdf/2311.03957) |
 
 ---
 

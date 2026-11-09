@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Pretraining%2C%20Scaling%20%26%20Transfer&specialty=Robot%20Pretraining%20%26%20Foundation%20Policies#research-workbench)
 
-> 6 conference papers · 88 recent arXiv papers
+> 7 conference papers · 91 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (6)
+## Conference papers (7)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Policy Contrastive Decoding for Robotic Foundation Models | ICLR · Foundation Model | [Paper](https://arxiv.org/abs/2505.13255) · [Publisher](https://doi.org/10.48550/arXiv.2505.13255) |
 | 2025 | DiffusionVLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression | ICML · Vla | [Paper](https://www.semanticscholar.org/paper/f0d17501c051e4c7220affd296a307763741bada) · [Index](https://dblp.org/rec/conf/icml/WenZZTLZL0PF25) |
 | 2025 | PAC Bench: Do Foundation Models Understand Prerequisites for Executing Manipulation Policies? | NeurIPS · Foundation Model | [Paper](https://arxiv.org/abs/2506.23725) · [Publisher](https://doi.org/10.48550/arXiv.2506.23725) |
 | 2024 | Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance | CoRL · Foundation Model | [Paper](https://arxiv.org/abs/2410.13816) · [Publisher](https://doi.org/10.48550/arXiv.2410.13816) |
@@ -25,10 +26,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Octo: An Open-Source Generalist Robot Policy | RSS · Generalist robot policy | [Paper](https://arxiv.org/abs/2405.12213) · [Official](https://doi.org/10.15607/RSS.2024.XX.090) · [Code](https://github.com/octo-models/octo) |
 | 2023 | RT-1: Robotics Transformer for Real-World Control at Scale | RSS · Generalist robot policy | [Paper](https://arxiv.org/abs/2212.06817) · [Official](https://roboticsproceedings.org/rss19/p025.html) |
 
-## Recent arXiv papers (88)
+## Recent arXiv papers (91)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-04 | Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement | Michal Korniak, Marco Bagatella, Ralf Römer, Michal Nauman et al. | [Abstract](https://arxiv.org/abs/2611.06905) · [PDF](https://arxiv.org/pdf/2611.06905) |
+| 2026-11-01 | When Delay Meets Drift: Physical Safety of Robot Foundation Models Is a Cross-Layer Problem | Liangkai Liu, Bimal Thapa Magar | [Abstract](https://arxiv.org/abs/2611.02101) · [PDF](https://arxiv.org/pdf/2611.02101) |
+| 2026-10-30 | From Concepts to Actual Causes: Toward Closing the Concept-Malfunction Gap in Robot Foundation Models | Gihyuk Ko | [Abstract](https://arxiv.org/abs/2611.00155) · [PDF](https://arxiv.org/pdf/2611.00155) |
 | 2026-10-29 | Confidence-Modulated Safety Filtering for End-to-End Policies | Javier Borquez, Jaime F. Fisac | [Abstract](https://arxiv.org/abs/2610.40922) · [PDF](https://arxiv.org/pdf/2610.40922) |
 | 2026-10-26 | RoboDoctor: Training-Free Recursive Self-Improvement for Robot Policies | Heyang Yu, Haomin Li, Sihang Li, Jixin Yan et al. | [Abstract](https://arxiv.org/abs/2610.35604) · [PDF](https://arxiv.org/pdf/2610.35604) |
 | 2026-10-16 | Sample-Efficient Reinforcement Learning for Policy Improvement via Flow-Reversed Action Anchors | Carl Qi, Weijun Dong, Xiaojie Wang, Peiyi Chen et al. | [Abstract](https://arxiv.org/abs/2610.22852) · [PDF](https://arxiv.org/pdf/2610.22852) |
@@ -75,7 +79,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-05-27 | Turning Video Models into Generalist Robot Policies | Sizhe Lester Li, Evan Kim, Xingjian Bai, Tong Zhao et al. | [Abstract](https://arxiv.org/abs/2605.27817) · [PDF](https://arxiv.org/pdf/2605.27817) |
 | 2026-05-01 | Learning While Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies | Yi Wang, Xinchen Li, Pengwei Xie, Pu Yang et al. | [Abstract](https://arxiv.org/abs/2605.00416) · [PDF](https://arxiv.org/pdf/2605.00416) |
 | 2026-03-26 | Towards Generalizable Robotic Data Flywheel: High-Dimensional Factorization and Composition | Yuyang Xiao, Yifei Zhou, Haoran Wang, Wenxuan Ou et al. | [Abstract](https://arxiv.org/abs/2603.25583) · [PDF](https://arxiv.org/pdf/2603.25583) |
-| 2026-03-09 | OmniGuide: Universal Guidance Fields for Enhancing Generalist Robot Policies | Yunzhou Song, Long Le, Yong-Hyun Park, Jie Wang et al. | [Abstract](https://arxiv.org/abs/2603.10052) · [PDF](https://arxiv.org/pdf/2603.10052) |
+| 2026-03-09 | OmniGuide: Universal Spatial Guidance Fields for Enhancing Generalist Robot Policies | Yunzhou Song, Long Le, Yong-Hyun Park, Jie Wang et al. | [Abstract](https://arxiv.org/abs/2603.10052) · [PDF](https://arxiv.org/pdf/2603.10052) |
 | 2026-03-02 | Robometer: Scaling General-Purpose Robotic Reward Models via Trajectory Comparisons | Anthony Liang, Yigit Korkmaz, Jiahui Zhang, Minyoung Hwang et al. | [Abstract](https://arxiv.org/abs/2603.02115) · [PDF](https://arxiv.org/pdf/2603.02115) |
 | 2026-02-06 | DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos | Shenyuan Gao, William Liang, Kaiyuan Zheng, Ayaan Malik et al. | [Abstract](https://arxiv.org/abs/2602.06949) · [PDF](https://arxiv.org/pdf/2602.06949) |
 | 2026-02-04 | Capturing Visual Environment Structure Correlates with Control Performance | Jiahua Dong, Yunze Man, Pavel Tokmakov, Yu-Xiong Wang | [Abstract](https://arxiv.org/abs/2602.04880) · [PDF](https://arxiv.org/pdf/2602.04880) |

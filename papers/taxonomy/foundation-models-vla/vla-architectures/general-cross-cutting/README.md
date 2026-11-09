@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=VLA%20Architectures&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 56 conference papers · 1,087 recent arXiv papers
+> 67 conference papers · 1,106 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,11 +14,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (56)
+## Conference papers (67)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation | CVPR · Vision Language Action | [Paper](https://arxiv.org/abs/2601.08325) · [Publisher](https://doi.org/10.48550/arXiv.2601.08325) |
+| 2026 | From Manuals to Actions: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation | CVPR · Vla | [Paper](https://www.semanticscholar.org/paper/177efd1e2565d06162e473fb4b78c88e0d1734f8) · [Index](https://dblp.org/rec/conf/cvpr/GuLCHWLLLZJHZ26) |
+| 2026 | Global Prior Meets Local Consistency: Dual-Memory Augmented Vision-Language-Action Model for Efficient Robotic Manipulation | CVPR · Vision Language Action | [Paper](https://arxiv.org/abs/2602.20200) · [Publisher](https://doi.org/10.48550/arXiv.2602.20200) |
+| 2026 | Localizing, Structuring, and Rendering: Bridging 3D and 2D Vision-Language-Action Models for Robotic Manipulation | CVPR · Vision Language Action | [Paper](https://www.semanticscholar.org/paper/70f4f7c971d35f6b6c268dc4870825ce2a74bf78) · [Index](https://dblp.org/rec/conf/cvpr/ZhaoDCCHYYFWS26) |
+| 2026 | MobileVLA-R1: Reinforcing Vision-Language-Action for Mobile Robots | ECCV · Vision Language Action | [Paper](https://arxiv.org/abs/2511.17889) · [Publisher](https://doi.org/10.48550/arXiv.2511.17889) |
 | 2026 | Hybrid Training for Vision-Language-Action Models | ICLR · Reasoning and action | [Paper](https://openreview.net/forum?id=IBJtOltTbx) · [Official](https://openreview.net/forum?id=IBJtOltTbx) |
+| 2026 | Interleave-VLA: Enhancing Robot Manipulation with Image-Text Interleaved Instructions | ICLR · Vla | [Paper](https://www.semanticscholar.org/paper/977933c480a57e4f18733fc4a5142da4d41afe88) · [Index](https://dblp.org/rec/conf/iclr/FanJSWWGZTYYD26) |
+| 2026 | Robust Finetuning of Vision-Language-Action Robot Policies via Parameter Merging | ICLR · Vision Language Action | [Paper](https://arxiv.org/abs/2512.08333) · [Publisher](https://doi.org/10.48550/arXiv.2512.08333) |
+| 2026 | Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning | ICLR · Vision Language Action | [Paper](https://arxiv.org/abs/2510.11027) · [Publisher](https://doi.org/10.48550/arXiv.2510.11027) |
 | 2026 | Adaptive Capacity Allocation for Vision Language Action Fine-tuning | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2603.07404) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696052) |
 | 2026 | Audio-VLA: Adding Contact Audio Perception to Vision-Language-Action Model for Robotic Manipulation | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2511.09958) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697481) |
 | 2026 | AugVLA-3D: Depth-Driven Feature Augmentation for Vision-Language-Action Models | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2602.10698) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696118) |
@@ -27,30 +35,33 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026 | EveryDayVLA: A Vision-Language-Action Model for Affordable Robotic Manipulation | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2511.05397) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696905) |
 | 2026 | Exploiting Vulnerabilities: Universal Adversarial Attacks on Vision-Language-Action Models in Robotics | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2609.39178) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696897) |
 | 2026 | FD-VLA: Force-Distilled Vision-Language-Action Model for Contact-Rich Manipulation | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2602.02142) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695889) |
-| 2026 | Galaxy Open-World Dataset and G0 Dual-System VLA Model | ICRA · Vla | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696535) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696535) |
+| 2026 | Galaxy Open-World Dataset and G0 Dual-System VLA Model | ICRA · Vla | [Paper](https://doi.org/10.1109/icra57385.2026.11696535) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696535) |
 | 2026 | Goal-VLA: Image-Generative VLMs as Object-Centric World Models Empowering Zero-shot Robot Manipulation | ICRA · Vla | [Paper](https://arxiv.org/pdf/2506.23919) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696379) |
-| 2026 | IRPFuzz: Fuzzing Industrial Robot Protocol via LLM-driven Traffic Semantic Analysis | ICRA · Llm | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696045) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696045) |
+| 2026 | IRPFuzz: Fuzzing Industrial Robot Protocol via LLM-driven Traffic Semantic Analysis | ICRA · Llm | [Paper](https://doi.org/10.1109/icra57385.2026.11696045) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696045) |
 | 2026 | Learning Affordances at Inference-Time for Vision-Language-Action Models | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2510.19752) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697401) |
 | 2026 | OmniVLA: An Omni-Modal Vision-Language-Action Model for Robot Navigation | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2509.19480) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697566) |
 | 2026 | OmniVLA: Physically-Grounded Multimodal VLA with Unified Multi-Sensor Perception for Robotic Manipulation | ICRA · Vla | [Paper](https://arxiv.org/pdf/2511.01210) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695776) |
-| 2026 | Open-World Object Manipulation with Vision-Language-Action Models via Synthetic Multi-Modal Data | ICRA · Vision Language Action | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697248) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697248) |
+| 2026 | Open-World Object Manipulation with Vision-Language-Action Models via Synthetic Multi-Modal Data | ICRA · Vision Language Action | [Paper](https://doi.org/10.1109/icra57385.2026.11697248) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697248) |
 | 2026 | RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2509.14687) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696718) |
 | 2026 | Rethinking the Practicality of Vision-language-action Model: A Comprehensive Benchmark and An Improved Baseline | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2602.22663) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696071) |
 | 2026 | RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation | ICRA · Vla | [Paper](https://arxiv.org/pdf/2509.15212) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697407) |
 | 2026 | Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2510.21571) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697552) |
-| 2026 | SVP: Improving Vision-Language-Action Models with Dual Stochastic Visual Prompting | ICRA · Vision Language Action | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697157) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697157) |
+| 2026 | SVP: Improving Vision-Language-Action Models with Dual Stochastic Visual Prompting | ICRA · Vision Language Action | [Paper](https://doi.org/10.1109/icra57385.2026.11697157) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697157) |
 | 2026 | TMR-VLA:Vision-Language-Action Model for Magnetic Motion Control of Tri-leg Silicone-based Soft Robot | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2603.00420) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695705) |
 | 2026 | Toward Embodiment Equivariant Vision-Language-Action Policy | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2509.14630) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697130) |
 | 2026 | TrackVLA++: Unleashing Reasoning and Memory Capabilities in VLA Models for Embodied Visual Tracking | ICRA · Vla | [Paper](https://arxiv.org/pdf/2510.07134) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695801) |
 | 2026 | UrbanVLA: A Vision-Language-Action Model for Urban Micromobility | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2510.23576) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695786) |
 | 2026 | VLA-Reasoner: Empowering Vision-Language-Action Models with Reasoning via Online Monte Carlo Tree Search | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2509.22643) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695971) |
+| 2025 | GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation | CVPR · Vla | [Paper](https://arxiv.org/abs/2512.16811) · [Publisher](https://doi.org/10.48550/arXiv.2512.16811) |
 | 2025 | MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation | CVPR · Vision Language Action | [Paper](https://arxiv.org/abs/2503.13446) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.00167) |
 | 2025 | Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation | CVPR · Vision Language Action | [Paper](https://doi.org/10.1109/CVPR52734.2025.02574) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02574) |
+| 2025 | When Robots Obey the Patch: Universal Transferable Patch Attacks on Vision-Language-Action Models | CVPR · Vision Language Action | [Paper](https://arxiv.org/abs/2511.21192) · [Publisher](https://doi.org/10.48550/arXiv.2511.21192) |
 | 2025 | π0.5: a Vision-Language-Action Model with Open-World Generalization | CoRL · Open-world VLA | [Paper](https://proceedings.mlr.press/v305/black25a.html) · [Official](https://proceedings.mlr.press/v305/black25a.html) · [Code](https://github.com/Physical-Intelligence/openpi) |
 | 2025 | CoA-VLA: Improving Vision-Language-Action Models via Visual-Textual Chain-of-Affordance | ICCV · Vision Language Action | [Paper](https://arxiv.org/pdf/2412.20451) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00910) |
 | 2025 | Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics | ICCV · Vision Language Action | [Paper](https://arxiv.org/pdf/2411.13587) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00653) |
 | 2025 | HAMSTER: Hierarchical Action Models for Open-World Robot Manipulation | ICLR · Hierarchical VLA | [Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/3bfee3bc6639c36e6e7b058db909f760-Abstract-Conference.html) · [Official](https://proceedings.iclr.cc/paper_files/paper/2025/hash/3bfee3bc6639c36e6e7b058db909f760-Abstract-Conference.html) |
 | 2025 | LASeR: Towards Diversified and Generalizable Robot Design with Large Language Models | ICLR · Large Language Model | [Paper](https://www.semanticscholar.org/paper/17621b2a91a7dd47ea217dc7d8b04e2568f4e177) · [Index](https://dblp.org/rec/conf/iclr/SongYXPYW25) |
+| 2025 | TwinVLA: Data-Efficient Bimanual Manipulation with Twin Single-Arm Vision-Language-Action Models | ICLR · Vision Language Action | [Paper](https://arxiv.org/abs/2511.05275) · [Publisher](https://doi.org/10.48550/arXiv.2511.05275) |
 | 2025 | VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation | ICLR · Vision Language Action | [Paper](https://arxiv.org/abs/2502.13508) · [Publisher](https://doi.org/10.48550/arXiv.2502.13508) |
 | 2025 | Automated Hybrid Reward Scheduling Via Large Language Models for Robotic Skill Learning | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2505.02483) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127726) |
 | 2025 | Improving Vision-Language-Action Model with Online Reinforcement Learning | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2501.16664) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127299) |
@@ -75,14 +86,34 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | QUAR-VLA: Vision-Language-Action Model for Quadruped Robots | ECCV · Vision Language Action | [Paper](https://arxiv.org/abs/2312.14457) · [Publisher](https://doi.org/10.48550/arXiv.2312.14457) |
 | 2023 | Code as Policies: Language Model Programs for Embodied Control | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2209.07753) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160591) |
 
-## Recent arXiv papers (1,087)
+## Recent arXiv papers (1,106)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-06 | PRISM: Primitive Routing via In-context Skill Mixing for Retentive VLA Adaptation | Jiachen Tao, Gengyu Zhang, Haoxuan Wang, Bing Liu et al. | [Abstract](https://arxiv.org/abs/2611.08917) · [PDF](https://arxiv.org/pdf/2611.08917) |
+| 2026-11-06 | DobotTrack: Target-Grounded Vision-Language-Action Learning for Embodied Person Tracking | Shengjun Deng, Yinghan Zhang, Chengrui Wei, Liu Liang et al. | [Abstract](https://arxiv.org/abs/2611.09041) · [PDF](https://arxiv.org/pdf/2611.09041) |
+| 2026-11-06 | Can LLMs Debug Robots by Editing Their Weights? | Jusheng Zhang, Keze Wang, Liang Lin | [Abstract](https://arxiv.org/abs/2611.09376) · [PDF](https://arxiv.org/pdf/2611.09376) |
+| 2026-11-05 | VICTR: Value-Informed In-Context Learning for Vision-Language-Action Models | Luca Macesanu, Tianluo Zhang, Aditya Patil, Archit Sharma et al. | [Abstract](https://arxiv.org/abs/2611.08698) · [PDF](https://arxiv.org/pdf/2611.08698) |
+| 2026-11-05 | T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models | Mohammed Hassan, Zhenyang Chen, Zheng Wang, Zhixin Zhu et al. | [Abstract](https://arxiv.org/abs/2611.08413) · [PDF](https://arxiv.org/pdf/2611.08413) |
+| 2026-11-05 | SLA: Scaling Spatial-Language-Action Model via Continual Pre-training | Fuhao Li, Wenxuan Song, Qizhou Huang, Ziyang Zhou et al. | [Abstract](https://arxiv.org/abs/2611.08373) · [PDF](https://arxiv.org/pdf/2611.08373) |
+| 2026-11-05 | OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions | Arpit Bahety, Skand Peri, Sriniket Ambatipudi, Chen Xu et al. | [Abstract](https://arxiv.org/abs/2611.08462) · [PDF](https://arxiv.org/pdf/2611.08462) |
+| 2026-11-05 | Kinematic Hypothesis Context: Embodiment-Conditioned Learned Video Coding for Bandwidth-Limited Robot Policy Uplinks | Yuze Lu | [Abstract](https://arxiv.org/abs/2611.07411) · [PDF](https://arxiv.org/pdf/2611.07411) |
+| 2026-11-03 | Trusting Imagined Futures: Auditing Imagined Rewards for VLA Post-Training | Zicheng Kong, Zhenbo Xu, Haoyan Zhang, Jinghan Yang et al. | [Abstract](https://arxiv.org/abs/2611.04873) · [PDF](https://arxiv.org/pdf/2611.04873) |
+| 2026-11-03 | RAFT: Reasoning-Aligned Fine-Tuning Improves Robustness of VLA Post-Training | Shresth Grover, Andrey Kolobov, Dhruv Shah | [Abstract](https://arxiv.org/abs/2611.04368) · [PDF](https://arxiv.org/pdf/2611.04368) |
+| 2026-11-03 | PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data | Kewei Zhang, Juncheng Ma, Guodong Lv, Duomin Wang et al. | [Abstract](https://arxiv.org/abs/2611.05320) · [PDF](https://arxiv.org/pdf/2611.05320) |
+| 2026-11-03 | PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning | Yuhan Liu, Xinqi Liu, Zixuan Dong, Keith W. Ross et al. | [Abstract](https://arxiv.org/abs/2611.05372) · [PDF](https://arxiv.org/pdf/2611.05372) |
+| 2026-11-03 | DRAP: Dynamics-Risk Adaptive Plasticity for Continual Learning in Physical AI | Oswaldo Ludwig | [Abstract](https://arxiv.org/abs/2611.05029) · [PDF](https://arxiv.org/pdf/2611.05029) |
+| 2026-11-03 | DiMuRe: Diagnosis-Guided Multilevel Recovery for Robotic Task Execution | Renkai Yi, Yuwei Wu, Haoyu Zhang, Penghao Dai et al. | [Abstract](https://arxiv.org/abs/2611.04226) · [PDF](https://arxiv.org/pdf/2611.04226) |
+| 2026-11-03 | Cycle WAM: Coupling Action and Video through Cycle Consistency | Qinglin Yang, Jiepeng Wang, Yuxing Huang, Haibin Huang et al. | [Abstract](https://arxiv.org/abs/2611.04711) · [PDF](https://arxiv.org/pdf/2611.04711) |
+| 2026-11-02 | RoboColosseum: Evaluating Physical Intelligence at Scale In-The-Wild | Tan Sang Nguyen, Yi Ru Wang, Shailesh Shailesh, Gang Yang et al. | [Abstract](https://arxiv.org/abs/2611.02497) · [PDF](https://arxiv.org/pdf/2611.02497) |
+| 2026-11-01 | Democratizing Robot-Use Agents: A Unified Harness with Open Models | Jiarui Yuan, Yuxin Zuo, Xiaoyu Huang, Wenbo Zhang et al. | [Abstract](https://arxiv.org/abs/2611.01560) · [PDF](https://arxiv.org/pdf/2611.01560) |
+| 2026-10-31 | Verifying Test-State Identity in Paired Evaluation of Vision-Language-Action Models | Rafiqul Islam | [Abstract](https://arxiv.org/abs/2611.00896) · [PDF](https://arxiv.org/pdf/2611.00896) |
+| 2026-10-31 | Behavioral Steering of Vision-Language-Action Models in the Low-Parameter Regime | James Tcheng, Feiyu Gavin Zhu | [Abstract](https://arxiv.org/abs/2611.00522) · [PDF](https://arxiv.org/pdf/2611.00522) |
 | 2026-10-30 | TRACE: Target-State Risk-Aligned Conditional Execution for Embodied Tracking | Mingyang Lyu, Gongce Cao, Yiyang Jia, Lu Jia et al. | [Abstract](https://arxiv.org/abs/2610.41275) · [PDF](https://arxiv.org/pdf/2610.41275) |
 | 2026-10-30 | SACQ: Structure-Aware Codebook Quantization for Ultra-Low-Bit Vision-Language-Action Models | Haesung Lee, Insu Han | [Abstract](https://arxiv.org/abs/2610.41408) · [PDF](https://arxiv.org/pdf/2610.41408) |
 | 2026-10-30 | Nexus-VLA: Bridging Human and Robot Experiences via a Shared Hierarchical Semantic Latent Space | Biaoliang Guan, Tingyu Yuan, Wen Ye, Ziming Ji et al. | [Abstract](https://arxiv.org/abs/2610.42021) · [PDF](https://arxiv.org/pdf/2610.42021) |
 | 2026-10-29 | Teaching a Tree to Recover: Online Distillation of an LLM Supervisor with Counterfactual Replay | Kristian Ceder, Kilian Freitag, Knut Åkesson | [Abstract](https://arxiv.org/abs/2610.39775) · [PDF](https://arxiv.org/pdf/2610.39775) |
+| 2026-10-29 | STAR: Steering Action Representations with Proprioception for VLA Inference | Guangyu Zhao, Yongchang Zhang, Haoxuan Ru, Kaichen He et al. | [Abstract](https://arxiv.org/abs/2610.41009) · [PDF](https://arxiv.org/pdf/2610.41009) |
 | 2026-10-29 | RoboSeed: Multidimensional Evaluation of Vision-Language-Action and World-Action Models: Capability, Resource Affordability, and Research Evidence | Xin Ma, Furong Chen, Xinlong Man, Bo Zhang et al. | [Abstract](https://arxiv.org/abs/2610.40026) · [PDF](https://arxiv.org/pdf/2610.40026) |
 | 2026-10-29 | OpenFlyV2: An onboard vision-language-action model for aerial perception and navigation | Junli Liu, Zhongrui You, Chenhui Li, Zhen Li et al. | [Abstract](https://arxiv.org/abs/2610.39287) · [PDF](https://arxiv.org/pdf/2610.39287) |
 | 2026-10-29 | How Much Should a VLA Trust Its Reasoning? Step-Level Guidance as a Measured Action-Value Function | Dabin Seo, Eunhyek Joa | [Abstract](https://arxiv.org/abs/2610.40002) · [PDF](https://arxiv.org/pdf/2610.40002) |
@@ -502,7 +533,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-13 | Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models | Dianqiao Lei, Lianlei Shan | [Abstract](https://arxiv.org/abs/2606.15099) · [PDF](https://arxiv.org/pdf/2606.15099) |
 | 2026-06-13 | MotionVLA: Vision-Language-Action Model for Humanoid Motion | Nonghai Zhang, Siyu Zhai, Yanjun Li, Zeyu Zhang et al. | [Abstract](https://arxiv.org/abs/2606.15142) · [PDF](https://arxiv.org/pdf/2606.15142) |
 | 2026-06-12 | When and How Severely: Scenario-Specific Safety Envelopes for Driving VLAs | Abhinaw Priyadershi, Jelena Frtunikj | [Abstract](https://arxiv.org/abs/2606.14238) · [PDF](https://arxiv.org/pdf/2606.14238) |
-| 2026-06-12 | Self-Improving VLA Policies: Selected Diffusion Noise for Spurious-Robust Action Smoothing | Duc Minh Nguyen, Bao-Ngoc Dao, Tung M. Luu, Binh Gia Nguyen et al. | [Abstract](https://arxiv.org/abs/2606.14084) · [PDF](https://arxiv.org/pdf/2606.14084) |
+| 2026-06-12 | Test-Time Improvement of VLA Policies via Selected Diffusion Noise for Spurious-Robust Action Smoothing | Duc Minh Nguyen, Bao-Ngoc Dao, Tung M. Luu, Binh Gia Nguyen et al. | [Abstract](https://arxiv.org/abs/2606.14084) · [PDF](https://arxiv.org/pdf/2606.14084) |
 | 2026-06-12 | Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack | He Zhang, Lingzhu Xiang, Haitao Lin, Zeyu Huang et al. | [Abstract](https://arxiv.org/abs/2606.14409) · [PDF](https://arxiv.org/pdf/2606.14409) |
 | 2026-06-12 | Encoder Winners Do Not Reliably Transfer Across VLA Backbone Scale: A Frozen-Backbone Grafting Diagnostic | Qingping Zeng, Fei She | [Abstract](https://arxiv.org/abs/2606.14153) · [PDF](https://arxiv.org/pdf/2606.14153) |
 | 2026-06-11 | Trajectory-Level Redirection Attacks on Vision-Language-Action Models | Gokul Puthumanaillam, Vardhan Dongre, Pranay Thangeda, Hooshang Nayyeri et al. | [Abstract](https://arxiv.org/abs/2606.12978) · [PDF](https://arxiv.org/pdf/2606.12978) |
@@ -1165,7 +1196,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-13 | Interaction is all You Need? A Study of Robots Ability to Understand and Execute | Kushal Koshti, Nidhir Bhavsar | [Abstract](https://arxiv.org/abs/2311.07150) · [PDF](https://arxiv.org/pdf/2311.07150) |
 | 2023-11-12 | Model-assisted Reinforcement Learning of a Quadrotor | Arshad Javeed | [Abstract](https://arxiv.org/abs/2311.06914) · [PDF](https://arxiv.org/pdf/2311.06914) |
 | 2023-11-11 | NewsGPT: ChatGPT Integration for Robot-Reporter | Abdelhadi Hireche, Abdelkader Nasreddine Belkacem, Sadia Jamil, Chao Chen | [Abstract](https://arxiv.org/abs/2311.06640) · [PDF](https://arxiv.org/pdf/2311.06640) |
-| 2023-11-04 | Accelerating Reinforcement Learning of Robotic Manipulations via Feedback from Large Language Models | Kun Chu, Xufeng Zhao, Cornelius Weber, Mengdi Li et al. | [Abstract](https://arxiv.org/abs/2311.02379) · [PDF](https://arxiv.org/pdf/2311.02379) |
 
 ---
 

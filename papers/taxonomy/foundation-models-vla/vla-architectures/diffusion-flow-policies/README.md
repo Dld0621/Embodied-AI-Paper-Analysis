@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=VLA%20Architectures&specialty=Diffusion%20%26%20Flow%20Policies#research-workbench)
 
-> 2 conference papers · 165 recent arXiv papers
+> 2 conference papers · 168 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,10 +21,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026 | ACG: Action Coherence Guidance for Flow-based Vision-Language-Action models | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2510.22201) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695974) |
 | 2025 | VideoVLA: Video Generators Can Be Generalizable Robot Manipulators | NeurIPS · Vla | [Paper](https://arxiv.org/abs/2512.06963) · [Publisher](https://doi.org/10.48550/arXiv.2512.06963) |
 
-## Recent arXiv papers (165)
+## Recent arXiv papers (168)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-03 | Correct Robots Before They Make Mistakes: Proactive Human-in-the-Loop Intervention via Preference Learning | Xinkai Jiang, Jing Jiang, Hongyi Zhou, Pankhuri Vanjani et al. | [Abstract](https://arxiv.org/abs/2611.05667) · [PDF](https://arxiv.org/pdf/2611.05667) |
+| 2026-11-02 | Beyond Policy Patches: Distilling RL Specialists into Vision-Language-Action Policies | Zhennan Jiang, Tingying Xie, Shilong Ji, Shu'ang Yu et al. | [Abstract](https://arxiv.org/abs/2611.02777) · [PDF](https://arxiv.org/pdf/2611.02777) |
+| 2026-11-01 | GatedVLA with Camera-Based Emergency Braking: AlpaSim E2E Closed Loop Challenge Technical Report | Kaneyoshi Hiratsuka, Naoki Takada, Makoto Kawano | [Abstract](https://arxiv.org/abs/2611.01663) · [PDF](https://arxiv.org/pdf/2611.01663) |
 | 2026-10-28 | SaiVLA-JEPA: Evaluating Future Latent Prediction in JEPA-Conditioned VLA Control | Rufeng Xiao, Ruihao Xiao, Wei Chen, Xinhai Sun | [Abstract](https://arxiv.org/abs/2610.38508) · [PDF](https://arxiv.org/pdf/2610.38508) |
 | 2026-10-23 | If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs | Thomas Landeg, Thierry Tambe | [Abstract](https://arxiv.org/abs/2610.32941) · [PDF](https://arxiv.org/pdf/2610.32941) |
 | 2026-10-23 | Coupling Execution Horizon and Sampling Depth in Flow-Matching VLA Policies | Jiabing Yang, Yuan Xu, Yixiang Chen, Qisen Ma et al. | [Abstract](https://arxiv.org/abs/2610.32102) · [PDF](https://arxiv.org/pdf/2610.32102) |

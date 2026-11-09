@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Sim-to-real%20%26%20Domain%20Adaptation&specialty=Domain%20Randomization#research-workbench)
 
-> 11 conference papers · 26 recent arXiv papers
+> 11 conference papers · 25 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -30,7 +30,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Conditional Patch-Based Domain Randomization: Improving Texture Domain Randomization Using Natural Image Patches | IROS · Domain Randomization | [Paper](https://pure-oai.bham.ac.uk/ws/files/177697714/IROS_2022_CPDR_Camera_Ready_Submitted_Version.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981381) |
 | 2022 | Transferring Multi-Agent Reinforcement Learning Policies for Autonomous Driving using Sim-to-Real | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2203.11653) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981319) |
 
-## Recent arXiv papers (26)
+## Recent arXiv papers (25)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -59,7 +59,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-03-16 | Mixed-Reality Digital Twins: Leveraging the Physical and Virtual Worlds for Hybrid Sim2Real Transition of Multi-Agent Reinforcement Learning Policies | Chinmay Vilas Samak, Tanmay Vilas Samak, Venkat Narayan Krovi | [Abstract](https://arxiv.org/abs/2403.10996) · [PDF](https://arxiv.org/pdf/2403.10996) |
 | 2024-03-05 | Autonomous vehicle decision and control through reinforcement learning with traffic flow randomization | Yuan Lin, Antai Xie, Xiao Liu | [Abstract](https://arxiv.org/abs/2403.02882) · [PDF](https://arxiv.org/pdf/2403.02882) |
 | 2023-12-29 | Exploring Deep Reinforcement Learning for Robust Target Tracking using Micro Aerial Vehicles | Alberto Dionigi, Mirko Leomanni, Alessandro Saviolo, Giuseppe Loianno et al. | [Abstract](https://arxiv.org/abs/2312.17552) · [PDF](https://arxiv.org/pdf/2312.17552) |
-| 2023-11-03 | Domain Randomization via Entropy Maximization | Gabriele Tiboni, Pascal Klink, Jan Peters, Tatiana Tommasi et al. | [Abstract](https://arxiv.org/abs/2311.01885) · [PDF](https://arxiv.org/pdf/2311.01885) |
 
 ---
 

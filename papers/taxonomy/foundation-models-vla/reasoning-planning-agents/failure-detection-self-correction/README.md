@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=Failure%20Detection%20%26%20Self-correction#research-workbench)
 
-> 7 conference papers · 88 recent arXiv papers
+> 8 conference papers · 90 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (7)
+## Conference papers (8)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Self-Refining Vision Language Model for Robotic Failure Detection and Reasoning | ICLR · Language Model | [Paper](https://arxiv.org/abs/2602.12405) · [Publisher](https://doi.org/10.48550/arXiv.2602.12405) |
 | 2026 | As You Wish: Mission Planning with Formal Verification using LLMs in Precision Agriculture | ICRA · Llm | [Paper](https://arxiv.org/pdf/2606.18519) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697380) |
 | 2026 | Do What You Say: Steering Vision-Language-Action Models via Runtime Reasoning-Action Alignment Verification | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2510.16281) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696392) |
 | 2026 | LAD-VF: LLM-Automatic Differentiation Enables Fine-Tuning-Free Robot Planning from Formal Methods Feedback | ICRA · Llm | [Paper](https://arxiv.org/pdf/2509.18384) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695863) |
@@ -26,10 +27,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots | IROS · Llm | [Paper](https://arxiv.org/pdf/2507.05118) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246320) |
 | 2024 | CoPAL: Corrective Planning of Robot Actions with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2310.07263) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610434) |
 
-## Recent arXiv papers (88)
+## Recent arXiv papers (90)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-04 | A Layered View of LLM Support in Underwater Robotics | Federico Celi, Leonardo Zacchini, Gabriele Ferri | [Abstract](https://arxiv.org/abs/2611.06162) · [PDF](https://arxiv.org/pdf/2611.06162) |
+| 2026-11-03 | LLM-Assisted Planning with Distributed Onboard Behaviour Tree Execution for Multi-AUV Missions | Ehsan Khorrambakht, Cristiano Caissutti, Andrea Munafo, Andrea Caiti | [Abstract](https://arxiv.org/abs/2611.04518) · [PDF](https://arxiv.org/pdf/2611.04518) |
 | 2026-10-29 | Assuring Learning-Enabled Cyber-Physical Systems with Foundation Models: A Neuro-Symbolic Agenda for Testing, Verification, and Runtime Assurance | Xi Zheng, Ivan Ruchkin, Hong Jin Kang, Tevfik Bultan et al. | [Abstract](https://arxiv.org/abs/2610.39547) · [PDF](https://arxiv.org/pdf/2610.39547) |
 | 2026-10-22 | LAST-V2X: Language-Driven Adaptive Scenario Synthesis and Testing for Communication-Induced Failures in V2X Safety Applications | Keshu Wu, Hao Zhang, Rui Gan, Pei Li et al. | [Abstract](https://arxiv.org/abs/2610.30979) · [PDF](https://arxiv.org/pdf/2610.30979) |
 | 2026-10-15 | VeriVLA: Adaptive Test-Time Verification for Flow-Based VLAs with Latent World Models | Xueli Sun, Yuxiang Lu, Yantong Liu, Xianzhe Fan et al. | [Abstract](https://arxiv.org/abs/2610.21985) · [PDF](https://arxiv.org/pdf/2610.21985) |

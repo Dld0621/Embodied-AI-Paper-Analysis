@@ -30,6 +30,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-01 | Do Embodied VLMs Actually Use Their Scene-Graph Memory? | Shubh Garg, Divyansh Pandey, Vedant Khandelwal, Niyati Rawal et al. | [Abstract](https://arxiv.org/abs/2611.02056) · [PDF](https://arxiv.org/pdf/2611.02056) |
 | 2026-06-10 | Extracting Semantics: LLM-Guided Automatic Population of Robot Ontology from URDF | Bastien Dussard, Guillaume Sarthou | [Abstract](https://arxiv.org/abs/2606.17073) · [PDF](https://arxiv.org/pdf/2606.17073) |
 | 2026-06-08 | From USD Scenes to Knowledge Graphs: Zero-Shot Ontology Grounding with LLMs | Jiangtao Shuai, Zongxiong Chen, Manfred Hauswirth, Sonja Schimmler | [Abstract](https://arxiv.org/abs/2606.09134) · [PDF](https://arxiv.org/pdf/2606.09134) |
 | 2026-02-04 | KGLAMP: Knowledge Graph-guided Language model for Adaptive Multi-robot Planning and Replanning | Chak Lam Shek, Faizan M. Tariq, Sangjae Bae, David Isele et al. | [Abstract](https://arxiv.org/abs/2602.04129) · [PDF](https://arxiv.org/pdf/2602.04129) |
@@ -51,7 +52,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-06-26 | Mental Modeling of Reinforcement Learning Agents by Language Models | Wenhao Lu, Xufeng Zhao, Josua Spisak, Jae Hee Lee et al. | [Abstract](https://arxiv.org/abs/2406.18505) · [PDF](https://arxiv.org/pdf/2406.18505) |
 | 2024-06-20 | What Teaches Robots to Walk, Teaches Them to Trade too -- Regime Adaptive Execution using Informed Data and LLMs | Raeid Saqur | [Abstract](https://arxiv.org/abs/2406.15508) · [PDF](https://arxiv.org/pdf/2406.15508) |
 | 2024-03-19 | LBAP: Improved Uncertainty Alignment of LLM Planners using Bayesian Inference | James F. Mullen, Dinesh Manocha | [Abstract](https://arxiv.org/abs/2403.13198) · [PDF](https://arxiv.org/pdf/2403.13198) |
-| 2023-11-07 | Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI | Song Yaoxian, Sun Penglei, Liu Haoyu, Li Zhixu et al. | [Abstract](https://arxiv.org/abs/2311.03783) · [PDF](https://arxiv.org/pdf/2311.03783) |
 
 ---
 

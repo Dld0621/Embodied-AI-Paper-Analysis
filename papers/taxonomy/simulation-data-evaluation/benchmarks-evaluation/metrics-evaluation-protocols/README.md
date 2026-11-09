@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Evaluation&specialty=Metrics%20%26%20Evaluation%20Protocols#research-workbench)
 
-> 6 conference papers · 76 recent arXiv papers
+> 6 conference papers · 80 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,10 +25,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2506.06677) · [Publisher](https://doi.org/10.48550/arXiv.2506.06677) |
 | 2024 | The Design of the Barkour Benchmark for Robot Agility | IROS · Benchmark | [Paper](https://doi.org/10.1109/IROS58592.2024.10801377) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801377) |
 
-## Recent arXiv papers (76)
+## Recent arXiv papers (80)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-04 | WayPOP: A Panoramic Open-Set Panoptic Tracking Benchmark | Rohit Mohan, Maximilian Luz, Swarnava Chowdhury, Yao Lu et al. | [Abstract](https://arxiv.org/abs/2611.05801) · [PDF](https://arxiv.org/pdf/2611.05801) |
+| 2026-11-02 | RoboScope Kit: Unified Interfaces for Fast and Scalable Embodied-AI Evaluation | Deng-Ke Wu, Yifan Jin, Yida Yang, Lei Qian et al. | [Abstract](https://arxiv.org/abs/2611.03850) · [PDF](https://arxiv.org/pdf/2611.03850) |
+| 2026-10-31 | A Reproducible Reconstruction and Evaluation Framework for Photorealistic Lunar Analog Scene Reconstruction Toward Digital Twins | Antar Mazumder, Ryan Hartzell, Luke Boyd, Alexander Robinson et al. | [Abstract](https://arxiv.org/abs/2611.00870) · [PDF](https://arxiv.org/pdf/2611.00870) |
+| 2026-10-30 | When appearance and motion disagree: evaluating class-motion consistency against disguised uncrewed surface vessels | Jon Reifschneider | [Abstract](https://arxiv.org/abs/2611.00367) · [PDF](https://arxiv.org/pdf/2611.00367) |
 | 2026-10-27 | Making Self-Driving Laboratories Auditable:A Unified Framework for Hybrid Actions,Measurements, and Safe Execution | Zihan Zhang, Zeyu Wu, Xin Zhang, Mingyu Luo et al. | [Abstract](https://arxiv.org/abs/2610.36761) · [PDF](https://arxiv.org/pdf/2610.36761) |
 | 2026-10-26 | Behavioural Quality Is Not Learning Utility: Objective Mismatch in Human Behaviour Models for Robot Learning | Haoyang Jiang, Dana Kulic, Michael Burke, Pamela Carreno-Medrano | [Abstract](https://arxiv.org/abs/2610.34839) · [PDF](https://arxiv.org/pdf/2610.34839) |
 | 2026-10-19 | Which Depth Estimator for Jetson AGX Orin? A 2026 Benchmark of Monocular and Stereo Methods | Leaf Jiang | [Abstract](https://arxiv.org/abs/2610.27199) · [PDF](https://arxiv.org/pdf/2610.27199) |

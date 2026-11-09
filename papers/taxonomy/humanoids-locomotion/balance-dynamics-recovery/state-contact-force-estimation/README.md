@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Balance%2C%20Dynamics%20%26%20Recovery&specialty=State%2C%20Contact%20%26%20Force%20Estimation#research-workbench)
 
-> 2 conference papers · 12 recent arXiv papers
+> 2 conference papers · 11 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,7 +21,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | A Data-Driven Contact Estimation Method for Wheeled-Biped Robots | ICRA · Biped | [Paper](https://arxiv.org/pdf/2410.12345) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128254) |
 | 2025 | Simultaneous Collision Detection and Force Estimation for Dynamic Quadrupedal Locomotion | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2504.17201) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128205) |
 
-## Recent arXiv papers (12)
+## Recent arXiv papers (11)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -36,7 +36,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-10-16 | A Data-driven Contact Estimation Method for Wheeled-Biped Robots | Ü. Bora Gökbakan, Frederike Dümbgen, Stéphane Caron | [Abstract](https://arxiv.org/abs/2410.12345) · [PDF](https://arxiv.org/pdf/2410.12345) |
 | 2024-06-24 | Musculoskeletal AutoEncoder: A Unified Online Acquisition Method of Intersensory Networks for State Estimation, Control, and Simulation of Musculoskeletal Humanoids | Kento Kawaharazuka, Kei Tsuzuki, Moritaka Onitsuka, Yuki Asano et al. | [Abstract](https://arxiv.org/abs/2406.17134) · [PDF](https://arxiv.org/pdf/2406.17134) |
 | 2023-12-18 | Centroidal State Estimation and Control for Hardware-constrained Humanoid Robots | Grzegorz Ficht, Sven Behnke | [Abstract](https://arxiv.org/abs/2312.11019) · [PDF](https://arxiv.org/pdf/2312.11019) |
-| 2023-11-07 | Terrain Recognition and Contact Force Estimation through a Sensorized Paw for Legged Robots | Aleksander Vangen, Tejal Barnwal, Jørgen Anker Olsen, Kostas Alexis | [Abstract](https://arxiv.org/abs/2311.03855) · [PDF](https://arxiv.org/pdf/2311.03855) |
 
 ---
 

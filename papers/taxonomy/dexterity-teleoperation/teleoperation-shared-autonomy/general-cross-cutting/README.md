@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Gaze-based Teleoperation with Intent Inference Model for Robotic Manipulators * | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696397) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696397) |
+| 2026 | Gaze-based Teleoperation with Intent Inference Model for Robotic Manipulators * | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/icra57385.2026.11696397) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696397) |
 | 2026 | Human Motion Intent Inferencing in Teleoperation Through a SINDy Paradigm | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2511.08377) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696246) |
 | 2026 | Interpretable Multimodal Gesture Recognition for Drone and Mobile Robot Teleoperation via Log-Likelihood Ratio Fusion | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2602.23694) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696154) |
 | 2026 | Real-Time and Accurate Collision-Free Teleoperation via Differentiable Constraint-Based Trajectory Planning | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2606.08725) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697275) |
@@ -55,7 +55,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System | RSS · Teleoperation | [Paper](https://arxiv.org/abs/2307.04577) · [Official](https://roboticsproceedings.org/rss19/p015.html) · [Code](https://github.com/dexsuite/dex-retargeting) |
 | 2022 | Incremental Learning for Enhanced Personalization of Autocomplete Teleoperation | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/icra46639.2022.9812108) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812108) |
 | 2022 | The effect of challenging work environment on human-robot interaction and cognitive load during teleoperation: a case study of teleoperated excavator in a virtual experiment | ICRA · Teleoperation | [Paper](https://doi.org/10.22260/icra2022/0017) · [Publisher](https://doi.org/10.22260/icra2022/0017) |
-| 2022 | Manipulability-Aware Shared Locomanipulation Motion Generation for Teleoperation of Mobile Manipulators | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982220) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982220) |
+| 2022 | Manipulability-Aware Shared Locomanipulation Motion Generation for Teleoperation of Mobile Manipulators | IROS · Teleoperation | [Paper](https://zenodo.org/record/7035640) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982220) |
 | 2022 | The Predictive Kinematic Control Tree: Enhancing Teleoperation of Redundant Robots through Probabilistic User Models | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982150) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982150) |
 
 ## Recent arXiv papers (119)

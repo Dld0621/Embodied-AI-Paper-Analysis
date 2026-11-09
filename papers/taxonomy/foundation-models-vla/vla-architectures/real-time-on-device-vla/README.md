@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=VLA%20Architectures&specialty=Real-time%20%26%20On-device%20VLA#research-workbench)
 
-> 15 conference papers · 305 recent arXiv papers
+> 18 conference papers · 316 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,17 +14,20 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (15)
+## Conference papers (18)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Closing the Communication Loop for Robotic Failures: Multi-Turn, Behavior-Tree-Grounded Explanations with Large Language Models | ICRA · Large Language Model | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696394) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696394) |
+| 2026 | AT-VLA: Adaptive Tactile Injection for Enhanced Feedback Reaction in Vision-Language-Action Models | CVPR · Vision Language Action | [Paper](https://arxiv.org/abs/2605.07308) · [Publisher](https://doi.org/10.48550/arXiv.2605.07308) |
+| 2026 | SAFE-Pruner: Semantic Attention-Guided Future-Aware Token Pruning for Efficient Vision-Language-Action Manipulation | ECCV · Vision Language Action | [Paper](https://arxiv.org/abs/2605.29662) · [Publisher](https://doi.org/10.48550/arXiv.2605.29662) |
+| 2026 | Closing the Communication Loop for Robotic Failures: Multi-Turn, Behavior-Tree-Grounded Explanations with Large Language Models | ICRA · Large Language Model | [Paper](https://doi.org/10.1109/icra57385.2026.11696394) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696394) |
 | 2026 | ExpReS-VLA: Specializing Vision-Language-Action Models Through Experience Replay and Retrieval | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2511.06202) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696296) |
 | 2026 | MAP-VLA: Memory-Augmented Prompting for Vision-Language-Action Model in Robotic Manipulation | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2511.09516) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697046) |
-| 2026 | Stream-to-Act: ROS 2 Native Token Streaming for Continuous Motion Execution of Vision-Language-Action Models | ICRA · Vision Language Action | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697598) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697598) |
+| 2026 | Stream-to-Act: ROS 2 Native Token Streaming for Continuous Motion Execution of Vision-Language-Action Models | ICRA · Vision Language Action | [Paper](https://doi.org/10.1109/icra57385.2026.11697598) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697598) |
 | 2026 | The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2509.12594) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696503) |
-| 2026 | Y-MAP-Net: Learning from Foundation Models for Real-Time, Multi-Task Scene Perception | ICRA · Foundation Model | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696039) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696039) |
-| 2025 | Quart-Online: Latency-Free Multimodal Large Language Model for Quadruped Robot Learning | ICRA · Large Language Model | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127693) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127693) |
+| 2026 | Y-MAP-Net: Learning from Foundation Models for Real-Time, Multi-Task Scene Perception | ICRA · Foundation Model | [Paper](https://doi.org/10.1109/icra57385.2026.11696039) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696039) |
+| 2025 | Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation | ICLR · Vision Language Action | [Paper](https://arxiv.org/abs/2509.22093) · [Publisher](https://doi.org/10.48550/arXiv.2509.22093) |
+| 2025 | Quart-Online: Latency-Free Multimodal Large Language Model for Quadruped Robot Learning | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2412.15576) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127693) |
 | 2025 | CLGA: A Collaborative LLM Framework for Dynamic Goal Assignment in Multi-Robot Systems | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11246692) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246692) |
 | 2025 | Computationally Efficient FPGA-based Large Language Model Inference for Real-Time Decision-Making in Robotic Systems | IROS · Large Language Model | [Paper](https://repository.essex.ac.uk/43780/1/IROS%20%281%29.pdf) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247019) |
 | 2025 | TR-LLM: Integrating Trajectory Data for Scene-Aware LLM-Based Human Action Prediction | IROS · Llm | [Paper](https://arxiv.org/pdf/2410.03993) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246714) |
@@ -34,10 +37,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution | NeurIPS · Vla | [Paper](https://arxiv.org/abs/2411.02359) · [Publisher](https://doi.org/10.48550/arXiv.2411.02359) |
 | 2024 | Real-Time Anomaly Detection and Reactive Planning with Large Language Models | RSS · Large Language Model | [Paper](https://arxiv.org/abs/2407.08735) · [Publisher](https://doi.org/10.48550/arXiv.2407.08735) |
 
-## Recent arXiv papers (305)
+## Recent arXiv papers (316)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-06 | VLA Handover: Failure-Prediction-Based Switching from On-Robot to Server VLA Models | Takayuki Nishio | [Abstract](https://arxiv.org/abs/2611.08987) · [PDF](https://arxiv.org/pdf/2611.08987) |
+| 2026-11-06 | SURE:Spatiotemporal Uncertainty Representation for Efficient Vision-Language-Action Learning | Jingye Zhang, Choo Sin Wai, Dake Zhong, Zhifang Liu et al. | [Abstract](https://arxiv.org/abs/2611.09684) · [PDF](https://arxiv.org/pdf/2611.09684) |
+| 2026-11-05 | SCALE: Real-Time Latent Communication for Cyber-Physical Agents | Shanghao Shi, Jian Xiao, Ching-Hsiang Chan, Sanjoy Baruah et al. | [Abstract](https://arxiv.org/abs/2611.08390) · [PDF](https://arxiv.org/pdf/2611.08390) |
+| 2026-11-05 | Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing | Michal P. Podolinsky, Yunhao Yang, Daniel Little, Hong Lu et al. | [Abstract](https://arxiv.org/abs/2611.08425) · [PDF](https://arxiv.org/pdf/2611.08425) |
+| 2026-11-04 | Where Is VLA Inference Time Spent? Bottlenecks and Optimization Interactions Across GPUs | Muhammad Danish Waseem, Ahmed Ali-Eldin Hassan | [Abstract](https://arxiv.org/abs/2611.06710) · [PDF](https://arxiv.org/pdf/2611.06710) |
+| 2026-11-03 | LoopQ: Fair, Closed-Loop Evaluation of Quantized Vision-Language-Action Models | Syed Umer Bukhari, Magnus Almgren, Ahmed Ali-Eldin | [Abstract](https://arxiv.org/abs/2611.05093) · [PDF](https://arxiv.org/pdf/2611.05093) |
+| 2026-11-03 | Asynchronous Robot Policies | Sombit Dey, Luc Van Gool, Danda Pani Paudel | [Abstract](https://arxiv.org/abs/2611.05155) · [PDF](https://arxiv.org/pdf/2611.05155) |
+| 2026-11-02 | W2A: Distilling World Priors into Action Models for Real-Time Robotic Control | Xiaopeng Zhang, Yongjin Mu, Yueyang Weng, Chengzhi Zhao et al. | [Abstract](https://arxiv.org/abs/2611.02600) · [PDF](https://arxiv.org/pdf/2611.02600) |
+| 2026-11-02 | VLALagBench: Understanding When and Why VLA Inference Latency Matters | Qi Wen, Borui Xu, Hussein Amro, Hongshi Tan et al. | [Abstract](https://arxiv.org/abs/2611.03103) · [PDF](https://arxiv.org/pdf/2611.03103) |
+| 2026-11-01 | Same Path, Less Time: Training-Free Fast Execution of Vision-Language-Action Models under Inference Latency | Fuyi Chen | [Abstract](https://arxiv.org/abs/2611.01390) · [PDF](https://arxiv.org/pdf/2611.01390) |
+| 2026-10-31 | Vision-Language Models Are Joint Denoisers in Robotic Action Generation | Xicheng Gong, Wenxuan Song, Chengze Liu, Qiwei Li et al. | [Abstract](https://arxiv.org/abs/2611.01215) · [PDF](https://arxiv.org/pdf/2611.01215) |
 | 2026-10-29 | Utility-WAM: Correcting Future-Induced Action Changes | Feihong Zhang, Xi Lin, Yulong Shi, Zuxing Lu et al. | [Abstract](https://arxiv.org/abs/2610.39367) · [PDF](https://arxiv.org/pdf/2610.39367) |
 | 2026-10-27 | Perceiving and Predicting Dynamic Sports: Spatiotemporal Intelligence in Vision Models for Egocentric Tennis Video | Tudor Braicu, Joseph DelPreto, Jared Boyer, Mónika Farsang et al. | [Abstract](https://arxiv.org/abs/2610.37619) · [PDF](https://arxiv.org/pdf/2610.37619) |
 | 2026-10-27 | PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations | Hanqing Wang, Zhaotian Cai, Ruichuan An, Bohan Zeng et al. | [Abstract](https://arxiv.org/abs/2610.37381) · [PDF](https://arxiv.org/pdf/2610.37381) |

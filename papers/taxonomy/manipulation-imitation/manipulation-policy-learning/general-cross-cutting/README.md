@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Manipulation%20Policy%20Learning&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 160 conference papers · 683 recent arXiv papers
+> 175 conference papers · 691 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,27 +14,39 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (160)
+## Conference papers (175)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Beyond Success: Refining Elegant Robot Manipulation from Mixed-Quality Data via Just-in-Time Intervention | CVPR · Manipulation | [Paper](https://www.semanticscholar.org/paper/c514e1db9474085e30864ba24b80a084d17440a8) · [Index](https://dblp.org/rec/conf/cvpr/MaoFZXY26) |
+| 2026 | Diagnose, Correct, and Learn from Manipulation Failures via Visual Symbols | CVPR · Manipulation | [Paper](https://arxiv.org/abs/2512.02787) · [Publisher](https://doi.org/10.48550/arXiv.2512.02787) |
+| 2026 | DiffuView: Multi-View Diffusion Pretraining for 3D Aware Robotic Manipulation | CVPR · Manipulation | [Paper](https://www.semanticscholar.org/paper/d73be691cfc0ff1265c3a6145fee3fe2b1e0e8a5) · [Index](https://dblp.org/rec/conf/cvpr/ZhangNLGXHD26) |
+| 2026 | DynBridge: Bridging Imagination and Control through Interaction Dynamics for Robot Manipulation | CVPR · Manipulation | [Paper](https://www.semanticscholar.org/paper/9dbbd9848e12866ec48ab1e634454d3631c0e5bb) · [Index](https://dblp.org/rec/conf/cvpr/WangDBZYDLW26) |
 | 2026 | FM-Steer: Enhance Generalist Policies with Value-Guided Cascaded Denoising | CVPR · Test-time policy steering | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Song_FM-Steer_Enhance_Generalist_Policies_with_Value-Guided_Cascaded_Denoising_CVPR_2026_paper.html) · [Official](https://openaccess.thecvf.com/content/CVPR2026/html/Song_FM-Steer_Enhance_Generalist_Policies_with_Value-Guided_Cascaded_Denoising_CVPR_2026_paper.html) · [Code](https://hume-vla.github.io/) |
+| 2026 | INSIGHT Bench: Towards Grounded IN-SItu Guidance for Robotic ManipulaTion | CVPR · Manipulation | [Paper](https://www.semanticscholar.org/paper/04926df119ec57f4180fb4bc57766bff742f7aee) · [Index](https://dblp.org/rec/conf/cvpr/KimHLO26) |
+| 2026 | Rethinking Camera Choice: An Empirical Study on Fisheye Camera Properties in Robotic Manipulation | CVPR · Manipulation | [Paper](https://arxiv.org/abs/2603.02139) · [Publisher](https://doi.org/10.48550/arXiv.2603.02139) |
+| 2026 | EmbodiedVAE: Disentangled Video VAE for Efficient and Controllable Embodied Manipulation | ECCV · Manipulation | [Paper](https://arxiv.org/abs/2608.02990) · [Publisher](https://doi.org/10.48550/arXiv.2608.02990) |
+| 2026 | GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation | ECCV · Manipulation | [Paper](https://arxiv.org/abs/2605.22882) · [Publisher](https://doi.org/10.48550/arXiv.2605.22882) |
+| 2026 | PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation | ECCV · Manipulation | [Paper](https://arxiv.org/abs/2607.01938) · [Publisher](https://doi.org/10.48550/arXiv.2607.01938) |
+| 2026 | EquAct: An SE(3)-Equivariant Multi-Task Transformer for 3D Robotic Manipulation | ICLR · Manipulation | [Paper](https://www.semanticscholar.org/paper/13dce81fc5cba9ed0ed2ad819b504632433712a1) · [Index](https://dblp.org/rec/conf/iclr/ZhuQZWP26) |
+| 2026 | ManipEvalAgent: Promptable and Efficient Evaluation Framework for Robotic Manipulation Policies | ICLR · Manipulation | [Paper](https://www.semanticscholar.org/paper/d89c0e7743b6ef15ce87440af550bbb1ec747005) · [Index](https://dblp.org/rec/conf/iclr/ChenZLWZW26) |
+| 2026 | When would Vision-Proprioception Policies Fail in Robotic Manipulation? | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2602.12032) · [Publisher](https://doi.org/10.48550/arXiv.2602.12032) |
 | 2026 | ActiveUMI: Robotic Manipulation with Active Perception from Robot-Free Human Demonstrations | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2510.01607) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696372) |
-| 2026 | Built Different: Tactile Perception to Overcome Cross-Embodiment Capability Differences in Collaborative Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2409.14896) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696875) |
+| 2026 | Built Different: Tactile Perception to Overcome Cross-Embodiment Capability Differences in Collaborative Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11696875) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696875) |
 | 2026 | Cooperation or collaboration? On a human-inspired impedance strategy in a human–robot co-manipulation task | ICRA · Manipulation | [Paper](https://hal.science/hal-03589692) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696343) |
 | 2026 | Distracted Robot: How Visual Clutter Undermine Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2511.22780) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697207) |
 | 2026 | Flexible and Foldable: Workspace Analysis and Object Manipulation Using a Soft, Interconnected, Origami-Inspired Actuator Array | ICRA · Manipulation | [Paper](https://pure.itu.dk/portal/da/publications/9718d4de-877d-4078-88e1-303ed0ac2719) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696072) |
 | 2026 | FP3: A 3D Foundation Policy for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2503.08950) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697164) |
-| 2026 | From Dream to Action: Hierarchical Policy Learning with 3D World Imagination for Robotic Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697202) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697202) |
+| 2026 | From Dream to Action: Hierarchical Policy Learning with 3D World Imagination for Robotic Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11697202) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697202) |
 | 2026 | GP3: A 3D Geometry-Aware Policy with Multi-View Images for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2509.15733) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696869) |
-| 2026 | Gravity-Assisted Shape-Locking Articulated Discrete Serial Robot for Ceiling-Mounted Manipulation in Patient Care | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695906) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695906) |
+| 2026 | Gravity-Assisted Shape-Locking Articulated Discrete Serial Robot for Ceiling-Mounted Manipulation in Patient Care | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11695906) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695906) |
 | 2026 | Impact-Robust Posture Optimization for Aerial Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2602.13762) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696845) |
-| 2026 | Integrating Artificial Vision and Wearable Robotics: Adaptive Assistance enabled by Manipulation Context Awareness | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697113) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697113) |
+| 2026 | Integrating Artificial Vision and Wearable Robotics: Adaptive Assistance enabled by Manipulation Context Awareness | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11697113) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697113) |
 | 2026 | Learning Structural Latent Points for Efficient Visual Representations in Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2605.21258) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696212) |
 | 2026 | Localized Graph-Based Neural Dynamics Models for Terrain Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2503.23270) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696214) |
 | 2026 | Multi-Modal Manipulation via Multi-Modal Policy Consensus | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2509.23468) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697268) |
 | 2026 | One-Policy-Fits-All: Geometry-Aware Action Latents for Cross-Embodiment Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2603.14522) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695895) |
-| 2026 | Robotic Cell Manipulation at the Solid-Liquid Interface for Cryopreservation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696730) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696730) |
+| 2026 | Robotic Cell Manipulation at the Solid-Liquid Interface for Cryopreservation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11696730) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696730) |
 | 2026 | Subsecond 3D Mesh Generation for Robot Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2512.24428) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697544) |
 | 2026 | VFP: Variational Flow-Matching Policy for Multi-Modal Robot Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2508.01622) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696236) |
 | 2025 | DynScene: Scalable Generation of Dynamic Robotic Manipulation Scenes for Embodied AI | CVPR · Manipulation | [Paper](https://doi.org/10.1109/CVPR52734.2025.01136) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01136) |
@@ -47,12 +59,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation | CVPR · Manipulation | [Paper](https://arxiv.org/pdf/2504.00420) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02102) |
 | 2025 | VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation | CVPR · Manipulation | [Paper](https://mediatum.ub.tum.de/1779995) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02576) |
 | 2025 | EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow | ICCV · Learning from video | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_EC-Flow_Enabling_Versatile_Robotic_Manipulation_from_Action-Unlabeled_Videos_via_Embodiment-Centric_ICCV_2025_paper.html) · [Official](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_EC-Flow_Enabling_Versatile_Robotic_Manipulation_from_Action-Unlabeled_Videos_via_Embodiment-Centric_ICCV_2025_paper.html) |
-| 2025 | iManip: Skill-Incremental Learning for Robotic Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/abs/2503.07087) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01289) |
+| 2025 | iManip: Skill-Incremental Learning for Robotic Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/pdf/2503.07087) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01289) |
 | 2025 | Moto: Latent Motion Token as the Bridging Language for Learning Robot Manipulation from Videos | ICCV · Manipulation | [Paper](https://arxiv.org/pdf/2412.04445) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01837) |
 | 2025 | RoboTron-Mani: All-in-One Multimodal Large Model for Robotic Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/pdf/2412.07215) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01272) |
 | 2025 | SD2 Actor: Continuous State Decomposition Via Diffusion Embeddings for Robotic Manipulation | ICCV · Manipulation | [Paper](https://doi.org/10.1109/ICCV51701.2025.01276) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01276) |
 | 2025 | AdaManip: Adaptive Articulated Object Manipulation Environments and Policy Learning | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2502.11124) · [Publisher](https://doi.org/10.48550/arXiv.2502.11124) |
+| 2025 | Ctrl-World: A Controllable Generative World Model for Robot Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2510.10125) · [Publisher](https://doi.org/10.48550/arXiv.2510.10125) |
+| 2025 | Generalizable Coarse-to-Fine Robot Manipulation via Language-Aligned 3D Keypoints | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2509.23575) · [Publisher](https://doi.org/10.48550/arXiv.2509.23575) |
 | 2025 | Learning View-invariant World Models for Visual Robotic Manipulation | ICLR · Manipulation | [Paper](https://www.semanticscholar.org/paper/33098a2681013c4a39246dd638e1234da5478530) · [Index](https://dblp.org/rec/conf/iclr/PangTLTCZ0S025) |
+| 2025 | RoboOmni: Proactive Robot Manipulation in Omni-modal Context | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2510.23763) · [Publisher](https://doi.org/10.48550/arXiv.2510.23763) |
 | 2025 | VIP: Vision Instructed Pre-training for Robotic Manipulation | ICML · Manipulation | [Paper](https://www.semanticscholar.org/paper/778dfce2e48fbc64c33f3cafdbd6716504bc039f) · [Index](https://dblp.org/rec/conf/icml/LiRYZ00BZ25) |
 | 2025 | Acoustic Wave Manipulation Through Sparse Robotic Actuation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2502.08784) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128588) |
 | 2025 | Cage: Causal Attention Enables Data-Efficient Generalizable Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2410.14974) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127739) |
@@ -120,7 +135,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Bridging Language, Vision and Action: Multimodal VAEs in Robotic Manipulation Tasks | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2404.01932) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802160) |
 | 2024 | Incremental Learning of Robotic Manipulation Tasks through Virtual Reality Demonstrations | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802774) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802774) |
 | 2024 | Interactive Learning of Physical Object Properties Through Robot Manipulation and Database of Object Measurements | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2404.07344) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802249) |
-| 2024 | Learning to Recover from Plan Execution Errors during Robot Manipulation: A Neuro-symbolic Approach | IROS · Manipulation | [Paper](https://arxiv.org/abs/2405.18948) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801831) |
+| 2024 | Learning to Recover from Plan Execution Errors during Robot Manipulation: A Neuro-symbolic Approach | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2405.18948) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801831) |
 | 2024 | Multimodal Failure Prediction for Vision-based Manipulation Tasks with Camera Faults | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802274) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802274) |
 | 2024 | Programming Passive Fingertip Deformation for Improved Grasping and Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801459) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801459) |
 | 2024 | Robot Generating Data for Learning Generalizable Visual Robotic Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801742) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801742) |
@@ -140,7 +155,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2312.13139) · [Publisher](https://doi.org/10.48550/arXiv.2312.13139) |
 | 2023 | Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2310.10639) · [Publisher](https://doi.org/10.48550/arXiv.2310.10639) |
 | 2023 | Mastering Robot Manipulation with Multimodal Prompts through Pretraining and Multi-task Fine-tuning | ICML · Manipulation | [Paper](https://arxiv.org/abs/2310.09676) · [Publisher](https://doi.org/10.48550/arXiv.2310.09676) |
-| 2023 | A Complete Set of Connectivity-aware Local Topology Manipulation Operations for Robot Swarms | ICRA · Manipulation | [Paper](https://iris.unimore.it/bitstream/11380/1310367/2/2210.00037.pdf) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160312) |
+| 2023 | A Complete Set of Connectivity-aware Local Topology Manipulation Operations for Robot Swarms | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2210.00037) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160312) |
 | 2023 | Avatarm: an Avatar With Manipulation Capabilities for the Physical Metaverse | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2303.15187) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161572) |
 | 2023 | Bioinspired tearing manipulation with a robotic fish | ICRA · Manipulation | [Paper](https://escholarship.org/content/qt6km778mq/qt6km778mq.pdf?t=s16wba) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161292) |
 | 2023 | EXOT: Exit-aware Object Tracker for Safe Robotic Manipulation of Moving Object | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2306.05262) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160481) |
@@ -167,7 +182,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Maximal Manipulation Framework using Quadratic Programming for a Teleoperated Robotic System with Articulated bodies | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra46639.2022.9811602) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811602) |
 | 2022 | Multi-Arm Payload Manipulation via Mixed Reality | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra46639.2022.9811580) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811580) |
 | 2022 | On Wearable, Lightweight, Low-Cost Human Machine Interfaces for the Intuitive Collection of Robot Grasping and Manipulation Data | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra46639.2022.9812198) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812198) |
-| 2022 | Temporal Logic Guided Motion Primitives for Complex Manipulation Tasks with User Preferences | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2202.04375) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811707) |
+| 2022 | Temporal Logic Guided Motion Primitives for Complex Manipulation Tasks with User Preferences | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2202.04375) · [Publisher](https://doi.org/10.48550/arXiv.2202.04375) |
 | 2022 | A-RIFT: Visual Substitution of Force Feedback for a Zero-Cost Interface in Telemanipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981365) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981365) |
 | 2022 | Bio-inspired Reflex System for Learning Visual Information for Resilient Robotic Manipulation | IROS · Manipulation | [Paper](https://infoscience.epfl.ch/record/296926/files/IROS_Pain_Reflex_Manipulation%20%281%29.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981310) |
 | 2022 | Design and Characterisation of a Soft Barometric Sensing Skin for Robotic Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981855) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981855) |
@@ -179,10 +194,20 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Real-time Acoustic Holography with Physics-based Deep Learning for Acoustic Robotic Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981395) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981395) |
 | 2022 | Variable Impedance Control for Safety and Usability in Telemanipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982118) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982118) |
 
-## Recent arXiv papers (683)
+## Recent arXiv papers (691)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-06 | Augmentron: Scalable Multi-View Visual Augmentation for Robot Learning | Tanay Tandon, Aseem Doriwala, Jade Choghari, Catherine Weaver et al. | [Abstract](https://arxiv.org/abs/2611.09145) · [PDF](https://arxiv.org/pdf/2611.09145) |
+| 2026-11-05 | LMGN: A Unified Policy Learning Model for Last-Mile Grasp-Navigation | Xuenmin Hu, Qingxue Qian, Wei Luo, Benyi Ma et al. | [Abstract](https://arxiv.org/abs/2611.07515) · [PDF](https://arxiv.org/pdf/2611.07515) |
+| 2026-11-04 | Rethinking Self-Repair in Code-as-Policy Agents: What Drives Retry Success? | Siddharth Aphale, Ayushman Singh | [Abstract](https://arxiv.org/abs/2611.06863) · [PDF](https://arxiv.org/pdf/2611.06863) |
+| 2026-11-04 | $A^3$-VLA: Automatic Perception-Guided Attention Alignment for Robot Manipulation | Shengzhe Zhang, Qi Zhang, Dazhong Shen, Chao Wang et al. | [Abstract](https://arxiv.org/abs/2611.06447) · [PDF](https://arxiv.org/pdf/2611.06447) |
+| 2026-11-03 | ELA: End-to-End Latent Action Policy Learning from Video Demonstrations | Cheng-Chun Hsu, Peter Stone | [Abstract](https://arxiv.org/abs/2611.05571) · [PDF](https://arxiv.org/pdf/2611.05571) |
+| 2026-11-03 | Action Intent as a Bridge: Transferring Manipulation Knowledge from Human-Centric Videos to Robots | Zhiqian Xia, Lianyang Ma, Haifeng Xia, Siyu Xia et al. | [Abstract](https://arxiv.org/abs/2611.04522) · [PDF](https://arxiv.org/pdf/2611.04522) |
+| 2026-11-02 | VerifLM: Physically Verified Image-Edit-Guided Goal Pose Generation for Robotic Manipulation | Xuanyou Chen, Jinyu Chen, Glen Chou | [Abstract](https://arxiv.org/abs/2611.03268) · [PDF](https://arxiv.org/pdf/2611.03268) |
+| 2026-11-02 | Neuro Inspired Robotics: What Robot Learning Can Borrow from the Sensorimotor Brain | Ruihan Zhang, Davy Deng | [Abstract](https://arxiv.org/abs/2611.02510) · [PDF](https://arxiv.org/pdf/2611.02510) |
+| 2026-11-02 | HeLM: Hierarchical Explicit Language Memory for Non-Markovian Manipulation | Gyeonghun Kim, Donghoon Kim, Minsoo Choi, Suyun Lee | [Abstract](https://arxiv.org/abs/2611.02660) · [PDF](https://arxiv.org/pdf/2611.02660) |
+| 2026-10-31 | Generalizable robotic manipulation through compositional skill reuse | Hao Ren, Shuohan Chen, Senyuan Mu, Ruihan Huang et al. | [Abstract](https://arxiv.org/abs/2611.00978) · [PDF](https://arxiv.org/pdf/2611.00978) |
 | 2026-10-29 | Learning Safe Flow Matching Robot Policies from Binary Feasibility Oracles | Jianming Ma, Rongjun Jin, Yizhi Chen, Yue Gao | [Abstract](https://arxiv.org/abs/2610.40075) · [PDF](https://arxiv.org/pdf/2610.40075) |
 | 2026-10-29 | AI for Science in Space: Orbital Laboratories, Planetary Fieldwork, and Embodied Autonomy | Zizhe Wang, Jia Deng, Xin Lu, Zehao Jia et al. | [Abstract](https://arxiv.org/abs/2610.39689) · [PDF](https://arxiv.org/pdf/2610.39689) |
 | 2026-10-28 | Same Label, Different Interface: Beyond Action-Space Labels in Robot Learning | Arshia Sangwan, Zhongyang Zhang | [Abstract](https://arxiv.org/abs/2610.38104) · [PDF](https://arxiv.org/pdf/2610.38104) |
@@ -384,6 +409,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-05-31 | Learning Multi-Modal Trajectory Policies for Data-Efficient Robotic Manipulation | Zijia Chen, Yuenan Hou, Xinhua Jiang, Yu Li et al. | [Abstract](https://arxiv.org/abs/2606.01047) · [PDF](https://arxiv.org/pdf/2606.01047) |
 | 2026-05-31 | Implicit Drifting Policy: One-Step Action Generation via Conditional Expert Geometry | Zemin Yang, Yaoyu He, Yiming Zhong, Yuhao Zhang et al. | [Abstract](https://arxiv.org/abs/2606.01098) · [PDF](https://arxiv.org/pdf/2606.01098) |
 | 2026-05-31 | $τ_0$-WM: A Unified Video-Action World Model for Robotic Manipulation | Pengfei Zhou, Shengcong Chen, Di Chen, Jiaxu Wang et al. | [Abstract](https://arxiv.org/abs/2606.01027) · [PDF](https://arxiv.org/pdf/2606.01027) |
+| 2026-05-30 | PACE: Phase-Aware Chunk Execution for Robot Policies with Action Chunking | Junnan Nie, Jiayi Li, Chenghao Liu, Junyi Lao et al. | [Abstract](https://arxiv.org/abs/2606.00537) · [PDF](https://arxiv.org/pdf/2606.00537) |
 | 2026-05-28 | Gaze2Act: Gaze-Conditioned Vision-Language-Action Policies for Interactive Robot Manipulation | Kuangji Zuo, Gen Li, Bofan Lyu, Yanshuo Lu et al. | [Abstract](https://arxiv.org/abs/2605.30282) · [PDF](https://arxiv.org/pdf/2605.30282) |
 | 2026-05-28 | DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation | Jusuk Lee, Seungjae Lee, Jonghun Shin, Hoseong Jung et al. | [Abstract](https://arxiv.org/abs/2605.30350) · [PDF](https://arxiv.org/pdf/2605.30350) |
 | 2026-05-28 | Decentralized LLM-Driven Coordination of Acoustic Robots for Contactless Object Manipulation | Yingying Wang, Narsimlu Kemsaram, Sriram Subramanian | [Abstract](https://arxiv.org/abs/2605.29378) · [PDF](https://arxiv.org/pdf/2605.29378) |
@@ -863,9 +889,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-23 | Responsive Hydrogel-based Modular Microrobots for Multi-functional Micromanipulation | Liyuan Tan, David J. Cappelleri | [Abstract](https://arxiv.org/abs/2311.13809) · [PDF](https://arxiv.org/pdf/2311.13809) |
 | 2023-11-17 | Distilling and Retrieving Generalizable Knowledge for Robot Manipulation via Language Corrections | Lihan Zha, Yuchen Cui, Li-Heng Lin, Minae Kwon et al. | [Abstract](https://arxiv.org/abs/2311.10678) · [PDF](https://arxiv.org/pdf/2311.10678) |
 | 2023-11-11 | Bootstrapping Robotic Skill Learning With Intuitive Teleoperation: Initial Feasibility Study | Xiangyu Chu, Yunxi Tang, Lam Him Kwok, Yuanpei Cai et al. | [Abstract](https://arxiv.org/abs/2311.06543) · [PDF](https://arxiv.org/pdf/2311.06543) |
-| 2023-11-06 | Proactive Robot Control for Collaborative Manipulation Using Human Intent | Zhanibek Rysbek, Siyu Li, Afagh Mehri Shervedani, Milos Zefran | [Abstract](https://arxiv.org/abs/2311.02809) · [PDF](https://arxiv.org/pdf/2311.02809) |
-| 2023-11-03 | What Makes Pre-Trained Visual Representations Successful for Robust Manipulation? | Kaylee Burns, Zach Witzel, Jubayer Ibn Hamid, Tianhe Yu et al. | [Abstract](https://arxiv.org/abs/2312.12444) · [PDF](https://arxiv.org/pdf/2312.12444) |
-| 2023-11-02 | UltraLiDAR: Learning Compact Representations for LiDAR Completion and Generation | Yuwen Xiong, Wei-Chiu Ma, Jingkang Wang, Raquel Urtasun | [Abstract](https://arxiv.org/abs/2311.01448) · [PDF](https://arxiv.org/pdf/2311.01448) |
 
 ---
 

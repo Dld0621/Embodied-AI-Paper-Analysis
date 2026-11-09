@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Stairs%2C%20Terrain%20%26%20Rough-ground%20Traversal#research-workbench)
 
-> 27 conference papers · 78 recent arXiv papers
+> 27 conference papers · 80 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -19,7 +19,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2026 | A Pin-Array Structured Climbing Robot for Stable Locomotion on Steep Rocky Terrain | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2603.16543) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696688) |
-| 2026 | Adaptive Friction-based Inchworm-like Locomotion | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696680) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696680) |
+| 2026 | Adaptive Friction-based Inchworm-like Locomotion | ICRA · Locomotion | [Paper](https://doi.org/10.1109/icra57385.2026.11696680) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696680) |
 | 2026 | Feasibility-Guided Planning over Multi-Specialized Locomotion Policies | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2602.07932) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696529) |
 | 2026 | Look Forward to Walk Backward: Efficient Terrain Memory for Backward Locomotion with Forward Vision | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2603.03138) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696282) |
 | 2026 | Probabilistically-Safe Bipedal Navigation over Uncertain Terrain via Conformal Prediction and Contraction Analysis | ICRA · Biped | [Paper](https://arxiv.org/pdf/2510.07725) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696709) |
@@ -46,10 +46,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | mCLARI: A Shape-Morphing Insect-Scale Robot Capable of Omnidirectional Terrain-Adaptive Locomotion in Laterally Confined Spaces | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2310.04538) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341588) |
 | 2022 | PI-ARS: Accelerating Evolution-Learned Visual-Locomotion with Predictive Information Representations | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2207.13224) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981952) |
 
-## Recent arXiv papers (78)
+## Recent arXiv papers (80)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-05 | STEP: Spatiotemporal Training with Explicit Prediction for Perceptive Humanoid Locomotion | Youhao Lyu, Chenghao Sun, Zhenxuan Ding, Shuting Zhang et al. | [Abstract](https://arxiv.org/abs/2611.08097) · [PDF](https://arxiv.org/pdf/2611.08097) |
 | 2026-10-27 | HC2Robot: Hyper-Connection Transformers with Predicted Foresight for Multi-Terrain Humanoid Parkour | Wenhao Xu, Yanheng Mai, Yifei Fu, Nan Zheng et al. | [Abstract](https://arxiv.org/abs/2610.36825) · [PDF](https://arxiv.org/pdf/2610.36825) |
 | 2026-10-23 | RAIWAY: A Large-Wheeled Bipedal Robot with Contact-Informed Blind Locomotion | Kyungmin Nam, Jiseong Lee, Donghyuk Choi, Jeongsoo Park et al. | [Abstract](https://arxiv.org/abs/2610.33172) · [PDF](https://arxiv.org/pdf/2610.33172) |
 | 2026-10-21 | Watch Your Step: Anticipated Perception for Humanoid Locomotion | Matthias Heyrman, Chenhao Li, Ioannis Dadiotis, Marco Hutter | [Abstract](https://arxiv.org/abs/2610.29612) · [PDF](https://arxiv.org/pdf/2610.29612) |
@@ -72,6 +73,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-30 | Learning Locomotion on Discrete Terrain via Minimal Proximity Sensing | Jiale Fan, Connor Flynn, Tianao Xu, Junzhe He et al. | [Abstract](https://arxiv.org/abs/2606.31912) · [PDF](https://arxiv.org/pdf/2606.31912) |
 | 2026-06-24 | StairMaster: Learning to Conquer Risky Hollow Stairs for Agile Quadrupedal Robots | Xincheng Tang, Youhan Xie, Zhengjie Shu, Wanyu Li et al. | [Abstract](https://arxiv.org/abs/2606.25765) · [PDF](https://arxiv.org/pdf/2606.25765) |
 | 2026-06-23 | DynaWM: Dynamics-Aware Distillation with World Model and Momentum Targets for Smooth Locomotion over Continuous Stairs | Haidong Hou, Zhangguo Yu, Hengbo Qi, Jianlin Zhang | [Abstract](https://arxiv.org/abs/2606.24089) · [PDF](https://arxiv.org/pdf/2606.24089) |
+| 2026-06-17 | Keeping Jerk in Check: Jointly Trained Perception-Gated Experts for Smooth Terrain Transitions | Francisco Affonso, Matheus P. Angarola, Ana Luiza Mineiro, Aditya Potnis et al. | [Abstract](https://arxiv.org/abs/2606.19633) · [PDF](https://arxiv.org/pdf/2606.19633) |
 | 2026-06-06 | TACT-ful: Multi-Channel Terrain Affordance and Compliance Training for Payload-Robust Perceptive Humanoid Locomotion | Thanh Ly, Truong-Duy Dang, Chien Le, Tan-Dzung Do et al. | [Abstract](https://arxiv.org/abs/2606.20645) · [PDF](https://arxiv.org/pdf/2606.20645) |
 | 2026-06-05 | T-GMP: Terrain-conditioned Generative Motion Priors for Versatile and Natural Humanoid Locomotion | Junhong Guo, Hao Hu, Chen Chen, Haoxuan Han et al. | [Abstract](https://arxiv.org/abs/2606.06944) · [PDF](https://arxiv.org/pdf/2606.06944) |
 | 2026-06-05 | Learning All-Terrain Locomotion for a Planetary Rover with Actively Articulated Suspension | Arthur Bouton, Tristan D. Hasseler, Michael Paton, Travis Brown et al. | [Abstract](https://arxiv.org/abs/2606.06790) · [PDF](https://arxiv.org/pdf/2606.06790) |

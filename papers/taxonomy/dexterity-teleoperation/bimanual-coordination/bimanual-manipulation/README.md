@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Bimanual%20Coordination&specialty=Bimanual%20Manipulation#research-workbench)
 
-> 31 conference papers · 41 recent arXiv papers
+> 34 conference papers · 41 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,23 +14,26 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (31)
+## Conference papers (34)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Action-Geometry Prediction with 3D Geometric Prior for Bimanual Manipulation | CVPR · Bimanual | [Paper](https://arxiv.org/abs/2602.23814) · [Publisher](https://doi.org/10.48550/arXiv.2602.23814) |
+| 2026 | MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation | ICLR · Bimanual | [Paper](https://arxiv.org/abs/2510.18316) · [Publisher](https://doi.org/10.48550/arXiv.2510.18316) |
 | 2026 | Bi-Adapt: Few-shot Bimanual Adaptation for Novel Categories of 3D Objects via Semantic Correspondence | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2602.08425) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695815) |
 | 2026 | BiGraspFormer: End-to-End Bimanual Grasp Transformer | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2509.19142) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696482) |
 | 2026 | DemoBot: Efficient Learning of Bimanual Manipulation with Dexterous Hands From Third-Person Human Videos | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2601.01651) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697032) |
 | 2026 | MiniBEE: A New Form Factor for Compact Bimanual Dexterity | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2510.01603) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696911) |
 | 2026 | MonoDuo: Using One Robot Arm to Learn Bimanual Policies | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2605.29298) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696275) |
-| 2026 | PA-BiCoop: A Primary-Auxiliary Cooperative Framework for General Bimanual Manipulation | ICRA · Bimanual | [Paper](https://arxiv.org/abs/2606.28192) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697181) |
-| 2026 | Planning-Guided Diffusion Policy Learning for Contact-Rich Bimanual Object Reorientation | ICRA · Bimanual | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697318) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697318) |
+| 2026 | PA-BiCoop: A Primary-Auxiliary Cooperative Framework for General Bimanual Manipulation | ICRA · Bimanual | [Paper](https://doi.org/10.1109/icra57385.2026.11697181) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697181) |
+| 2026 | Planning-Guided Diffusion Policy Learning for Contact-Rich Bimanual Object Reorientation | ICRA · Bimanual | [Paper](https://doi.org/10.1109/icra57385.2026.11697318) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697318) |
 | 2026 | ROPA: Synthetic Robot Pose Generation for RGB-D Bimanual Data Augmentation | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2509.19454) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697378) |
 | 2026 | RoTri-Diff: A Spatial Robot–Object Triadic Interaction-Guided Diffusion Model for Bimanual Manipulation | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2603.07165) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695867) |
 | 2026 | TOCALib: Optimal control library with interpolation for bimanual manipulation and obstacles avoidance | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2504.07708) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697527) |
 | 2025 | ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning | CVPR · Bimanual skill transfer | [Paper](https://arxiv.org/abs/2503.21860) · [Official](https://openaccess.thecvf.com/content/CVPR2025/html/Li_ManipTrans_Efficient_Dexterous_Bimanual_Manipulation_Transfer_via_Residual_Learning_CVPR_2025_paper.html) |
 | 2025 | Diffusion-Based Imaginative Coordination for Bimanual Manipulation | ICCV · Bimanual | [Paper](https://arxiv.org/pdf/2507.11296) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01067) |
 | 2025 | Rethinking Bimanual Robotic Manipulation: Learning with Decoupled Interaction Framework | ICCV · Bimanual | [Paper](https://arxiv.org/pdf/2503.09186) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01155) |
+| 2025 | VLBiMan: Vision-Language Anchored One-Shot Demonstration Enables Generalizable Bimanual Robotic Manipulation | ICLR · Bimanual | [Paper](https://arxiv.org/abs/2509.21723) · [Publisher](https://doi.org/10.48550/arXiv.2509.21723) |
 | 2025 | Learning Coordinated Bimanual Manipulation Policies Using State Diffusion and Inverse Dynamics Models | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2503.23271) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127387) |
 | 2025 | TWIN: Two-handed Intelligent Benchmark for Bimanual Manipulation | ICRA · Bimanual | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128527) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128527) |
 | 2025 | Ag2x2: Robust Agent-Agnostic Visual Representations for Zero-Shot Bimanual Manipulation | IROS · Bimanual | [Paper](https://arxiv.org/abs/2507.19817) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246626) |

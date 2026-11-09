@@ -20,14 +20,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2026 | Pose Retargeting from a Single RGB Camera: Optimization-Based Hand Pose Retargeting and Wrist Pose Estimation | ICRA · Retargeting | [Paper](https://eprints.whiterose.ac.uk/id/eprint/238695/1/ICRA26_0903_FI.pdf) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697437) |
 | 2025 | Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm | IROS · Retargeting | [Paper](https://arxiv.org/abs/2503.07541) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247700) |
-| 2022 | DexVIP: Learning Dexterous Grasping with Human Hand Pose Priors from Video | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2202.00164) · [Index](https://dblp.org/rec/journals/corr/abs-2202-00164) |
+| 2022 | DexVIP: Learning Dexterous Grasping with Human Hand Pose Priors from Video | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2202.00164) · [Publisher](https://doi.org/10.48550/arXiv.2202.00164) |
 
 ## Recent arXiv papers (5)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
 | 2026-09-23 | Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy | Tara Sadjadpour, Siming He, C. K. Wolfe, Haozhi Qi et al. | [Abstract](https://arxiv.org/abs/2609.28660) · [PDF](https://arxiv.org/pdf/2609.28660) |
-| 2026-07-09 | AnyDexRT: Calibration-Free Dexterous Hand Retargeting with Few-Shot Human Guidance | Chenxi Wang, Ying Feng, Hongjie Fang, Shangning Xia et al. | [Abstract](https://arxiv.org/abs/2607.08341) · [PDF](https://arxiv.org/pdf/2607.08341) |
+| 2026-07-09 | AnyDexRT: Calibration-Efficient Dexterous Hand Retargeting with Few-Shot Human Guidance | Chenxi Wang, Ying Feng, Hongjie Fang, Shangning Xia et al. | [Abstract](https://arxiv.org/abs/2607.08341) · [PDF](https://arxiv.org/pdf/2607.08341) |
 | 2026-07-08 | Smooth Operator: A Real-Time Sampling-Based Algorithm for Kinematic Hand Retargeting | Robert Jomar Malate, Erik Bauer, Norica Bacuieti, Stefanos Charalambous et al. | [Abstract](https://arxiv.org/abs/2607.07491) · [PDF](https://arxiv.org/pdf/2607.07491) |
 | 2025-05-02 | DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and Interaction | Xiaoyi Lin, Kunpeng Yao, Lixin Xu, Xueqiang Wang et al. | [Abstract](https://arxiv.org/abs/2505.01083) · [PDF](https://arxiv.org/pdf/2505.01083) |
 | 2025-03-10 | Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm | Zhao-Heng Yin, Changhao Wang, Luis Pineda, Krishna Bodduluri et al. | [Abstract](https://arxiv.org/abs/2503.07541) · [PDF](https://arxiv.org/pdf/2503.07541) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Visual%20%26%20Language%20Navigation&specialty=Embodied%20QA%20%26%20Interactive%20Navigation#research-workbench)
 
-> 2 conference papers · 16 recent arXiv papers
+> 2 conference papers · 18 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,10 +21,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | OpenEQA: Embodied Question Answering in the Era of Foundation Models | CVPR · Embodied question answering | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.pdf) · [Official](https://openaccess.thecvf.com/content/CVPR2024/html/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.html) |
 | 2024 | Explore until Confident: Efficient Exploration for Embodied Question Answering | RSS · Exploration | [Paper](https://arxiv.org/abs/2403.15941) · [Publisher](https://doi.org/10.48550/arXiv.2403.15941) |
 
-## Recent arXiv papers (16)
+## Recent arXiv papers (18)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-01 | Answering Without Arriving: An Evidence Audit for Embodied Question Answering | Shubh Garg, Divyansh Pandey, Niyati Rawal, Vedant Khandelwal et al. | [Abstract](https://arxiv.org/abs/2611.01958) · [PDF](https://arxiv.org/pdf/2611.01958) |
+| 2026-10-30 | SPARK: Self-Correcting Embodied Memory via Physical Re-Observation | Dmytro Kurdydyk, Aadi Palnitkar, Sebastian Scherer, Seungchan Kim | [Abstract](https://arxiv.org/abs/2611.00344) · [PDF](https://arxiv.org/pdf/2611.00344) |
 | 2026-09-27 | Informative Viewpoint Selection for Episodic-Memory Embodied Question Answering using Omnidirectional Images | Kaname Kitamura, Asako Kanezaki | [Abstract](https://arxiv.org/abs/2609.33288) · [PDF](https://arxiv.org/pdf/2609.33288) |
 | 2026-09-22 | Hierarchical Floorplan-Guided Vision-Language Exploration for Embodied Question Answering | Albert Gassol Puigjaner, Kostas Alexis | [Abstract](https://arxiv.org/abs/2609.26360) · [PDF](https://arxiv.org/pdf/2609.26360) |
 | 2026-07-23 | Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering | Zikui Cai, Kaushal Janga, Tan Dat Dao, Seungjae Lee et al. | [Abstract](https://arxiv.org/abs/2607.21571) · [PDF](https://arxiv.org/pdf/2607.21571) |

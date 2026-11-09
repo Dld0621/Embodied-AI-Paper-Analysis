@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Manipulation%20Policy%20Learning&specialty=Model-based%20Control%20%26%20Trajectory%20Optimization#research-workbench)
 
-> 29 conference papers · 144 recent arXiv papers
+> 29 conference papers · 146 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -48,11 +48,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Constraint-based Task Specification and Trajectory Optimization for Sequential Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2208.09219) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981909) |
 | 2022 | Robot Skill Learning with Identification of Preconditions and Postconditions via Level Set Estimation | IROS · Skill Learning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981933) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981933) |
 
-## Recent arXiv papers (144)
+## Recent arXiv papers (146)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-01 | Human Sensorimotor Model Adaptation to Account for Robot Accuracy and Speed Augmentation in Human-Robot Co-Manipulation | Frits van Hall, Kevin Haninger, Luka Peternel | [Abstract](https://arxiv.org/abs/2611.02181) · [PDF](https://arxiv.org/pdf/2611.02181) |
 | 2026-10-26 | RoKON: Efficient and Adaptive Data-Enabled Predictive Control for Robotic Manipulation | Akshun Sharma, Zhongqi Wei, Buqing Ou, Frederike Dümbgen | [Abstract](https://arxiv.org/abs/2610.35458) · [PDF](https://arxiv.org/pdf/2610.35458) |
+| 2026-10-26 | DiffContact: Differentiable Contact Dynamics for Policy Learning and Contact-Implicit Trajectory Optimization | Gijeong Kim, Seungbin Oh, Dongyun Kang, Hae-Won Park | [Abstract](https://arxiv.org/abs/2610.35852) · [PDF](https://arxiv.org/pdf/2610.35852) |
 | 2026-10-18 | Intent-Informed Model Predictive Control for Shared Autonomy in Remote Manipulation Tasks | Lorena Maria Genua, Camilla Tabasso, Mya Schroder, Joshua Migdal et al. | [Abstract](https://arxiv.org/abs/2610.25436) · [PDF](https://arxiv.org/pdf/2610.25436) |
 | 2026-10-12 | Imitation Learning of Avoidance Modes for Efficient Multimodal Model Predictive Control | Changyu Lee, Byung-Kwan Lee, Kanghoon Yoon | [Abstract](https://arxiv.org/abs/2610.16326) · [PDF](https://arxiv.org/pdf/2610.16326) |
 | 2026-10-08 | RESETTLE: Robotic Recovery through Disagreement-Triggered Retrieval and Efficient Corrective Control | Yuxin Chen, Senqiao Yang, Zixuan Wang, Jinhui Ye et al. | [Abstract](https://arxiv.org/abs/2610.12185) · [PDF](https://arxiv.org/pdf/2610.12185) |

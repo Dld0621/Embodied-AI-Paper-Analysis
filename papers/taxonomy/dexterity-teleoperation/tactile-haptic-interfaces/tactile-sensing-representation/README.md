@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Tactile%20%26%20Haptic%20Interfaces&specialty=Tactile%20Sensing%20%26%20Representation#research-workbench)
 
-> 8 conference papers · 56 recent arXiv papers
+> 9 conference papers · 58 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,23 +14,28 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (8)
+## Conference papers (9)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | AdaDexGrasp: Adaptive Dexterous Grasping via 3D Visuo-Tactile Representation Fusion | ECCV · Dexterous | [Paper](https://arxiv.org/pdf/2608.07600) · [Publisher](https://doi.org/10.1007/978-3-032-36969-7_13) |
 | 2026 | How to Train your Tactile Model: Tactile Perception with Multi-fingered Robot Hands | ICRA · Multi Finger | [Paper](https://arxiv.org/pdf/2604.00744) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696942) |
 | 2025 | Task-Specific Embodied Tactile Sensing for Dexterous Hand | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127318) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127318) |
 | 2025 | Tactile sensing soft fingertip with dual air bag structure for an anthropomorphic robotic hand | IROS · Robotic Hand | [Paper](https://doi.org/10.1109/IROS60139.2025.11246016) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246016) |
 | 2024 | Fully 3D printable Robot Hand and Soft Tactile Sensor based on Air-pressure and Capacitive Proximity Sensing | ICRA · Robot Hand | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610731) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610731) |
-| 2024 | Large-scale Deployment of Vision-based Tactile Sensors on Multi-fingered Grippers | IROS · Multi Finger | [Paper](https://arxiv.org/abs/2408.02206) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801566) |
+| 2024 | Large-scale Deployment of Vision-based Tactile Sensors on Multi-fingered Grippers | IROS · Multi Finger | [Paper](https://arxiv.org/pdf/2408.02206) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801566) |
 | 2023 | MagTac: Magnetic Six-Axis Force/Torque Fingertip Tactile Sensor for Robotic Hand Applications | ICRA · Robotic Hand | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161042) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161042) |
 | 2023 | FingerTac - An Interchangeable and Wearable Tactile Sensor for the Fingertips of Human and Robot Hands | IROS · Robot Hand | [Paper](https://arxiv.org/pdf/2310.09201) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342285) |
 | 2022 | Load-sensitive Data Acquisition for a Tactile Sensor System of Multi-fingered Robotic Hands | ICRA · Multi Finger | [Paper](https://doi.org/10.1109/icra46639.2022.9812260) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812260) |
 
-## Recent arXiv papers (56)
+## Recent arXiv papers (58)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-06 | Robust Readout of Cross-Point Resistive Arrays via Time-Domain Optimization | Taro Tako, Hiroshi Kaminaga, Taisuke Kobayashi | [Abstract](https://arxiv.org/abs/2611.09059) · [PDF](https://arxiv.org/pdf/2611.09059) |
+| 2026-11-05 | Flexible Piezoelectric Tactile Sensing System for Intelligent Object Recognition | Razan Khalifeh, Mohamad Yaacoub, Christian Gianoglio, Moustafa Saleh et al. | [Abstract](https://arxiv.org/abs/2611.07779) · [PDF](https://arxiv.org/pdf/2611.07779) |
+| 2026-11-04 | LumiTac: Compact, High-Rate Six-Axis Optical Tactile Sensing for Human-Robot Interaction | Hao Wu, Haotian Guo, Yu Feng, Yutong Wang et al. | [Abstract](https://arxiv.org/abs/2611.05936) · [PDF](https://arxiv.org/pdf/2611.05936) |
+| 2026-11-02 | Touching Projected Agents through the DAT Screen -System Design and Questions of Interaction Boundaries- | Takaya Tamamoto, Tomoko Yonezawa | [Abstract](https://arxiv.org/abs/2611.02525) · [PDF](https://arxiv.org/pdf/2611.02525) |
 | 2026-10-22 | OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing | Ariel Slepyan, Geeta Chandra Raju Bethala, Jiafeng Gu, Anagha Rajendra Dangle et al. | [Abstract](https://arxiv.org/abs/2610.31661) · [PDF](https://arxiv.org/pdf/2610.31661) |
 | 2026-09-30 | OccluDex: Hierarchical 3D Visuo-Tactile Representation Learning for Egocentric Dexterous Manipulation under Self-Occlusion | Ziheng Xu, Yueyuan Chen, Xinyuan He, Guoxing Liu et al. | [Abstract](https://arxiv.org/abs/2609.39017) · [PDF](https://arxiv.org/pdf/2609.39017) |
 | 2026-09-26 | GlowTact: Simple and Compact Vision-Based Tactile Sensing with High Sensitivity and Spatial Resolution | Yuxiang Ma, Megha Tippur, Pengfei Ye, Sandra Q. Liu et al. | [Abstract](https://arxiv.org/abs/2609.32471) · [PDF](https://arxiv.org/pdf/2609.32471) |
@@ -85,8 +90,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-29 | TEXterity -- Tactile Extrinsic deXterity: Simultaneous Tactile Estimation and Control for Extrinsic Dexterity | Sangwoon Kim, Antonia Bronars, Parag Patre, Alberto Rodriguez | [Abstract](https://arxiv.org/abs/2403.00049) · [PDF](https://arxiv.org/pdf/2403.00049) |
 | 2024-01-30 | Optical Tactile Sensing for Aerial Multi-Contact Interaction: Design, Integration, and Evaluation | Emanuele Aucone, Carmelo Sferrazza, Manuel Gregor, Raffaello D'Andrea et al. | [Abstract](https://arxiv.org/abs/2401.17149) · [PDF](https://arxiv.org/pdf/2401.17149) |
 | 2024-01-23 | DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity | Kang-Won Lee, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim | [Abstract](https://arxiv.org/abs/2401.12496) · [PDF](https://arxiv.org/pdf/2401.12496) |
-| 2023-11-07 | Cyclic Fusion of Measuring Information in Curved Elastomer Contact via Vision-Based Tactile Sensing | Zilan Li, Zhibin Zou, Weiliang Xu, Yuanzhi Zhou et al. | [Abstract](https://arxiv.org/abs/2311.04002) · [PDF](https://arxiv.org/pdf/2311.04002) |
-| 2023-11-06 | A multi-modal approach to continuous material identification through tactile sensing | Augusto Gómez Eguíluz, Ignacio Rañó, Sonya A. Coleman, T. Martin McGinnity | [Abstract](https://arxiv.org/abs/2311.03090) · [PDF](https://arxiv.org/pdf/2311.03090) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=Point-cloud%20%26%20LiDAR%20Perception#research-workbench)
 
-> 4 conference papers · 348 recent arXiv papers
+> 4 conference papers · 346 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,10 +23,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning | ICRA · Scene Graph | [Paper](https://arxiv.org/pdf/2309.08914) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610206) |
 | 2023 | Open-Vocabulary Affordance Detection in 3D Point Clouds | IROS · Affordance | [Paper](https://arxiv.org/pdf/2303.02401) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341553) |
 
-## Recent arXiv papers (348)
+## Recent arXiv papers (346)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-03 | Physics-Based Plausibility Assessment of AI-Predicted Vehicle Parameters for Automotive Radar in Pre-Crash Scenarios | Rainer Engert, Patrick Zaumseil, Thomas Brandmeier | [Abstract](https://arxiv.org/abs/2611.04871) · [PDF](https://arxiv.org/pdf/2611.04871) |
 | 2026-10-29 | Fundamental Limits of Sampling-Based Reachability: Geometry and Flow Distortion | Jixian Liu, Ihab Tabbara, Hussein Sibai, Enrique Mallada | [Abstract](https://arxiv.org/abs/2610.40473) · [PDF](https://arxiv.org/pdf/2610.40473) |
 | 2026-10-27 | A Singularity Avoiding Track Model for Race Car Optimization | Adwait Verulkar, Behzad Danaei, Srikanth Sivaramakrishnan, Ryan Trinter | [Abstract](https://arxiv.org/abs/2610.36430) · [PDF](https://arxiv.org/pdf/2610.36430) |
 | 2026-10-25 | T-ConSG: A LiDAR-Based Real-Time Temporal Construction Scene Graph for Dynamic and Evolving Environments | Yilong Chen, Yong K. Cho | [Abstract](https://arxiv.org/abs/2610.34041) · [PDF](https://arxiv.org/pdf/2610.34041) |
@@ -48,6 +49,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-08-17 | Cyclops: LiDAR as a Camera That Dreams in Color | Wei Gao, Jian Shu, Mingle Zhao, Maani Ghaffari et al. | [Abstract](https://arxiv.org/abs/2608.16264) · [PDF](https://arxiv.org/pdf/2608.16264) |
 | 2026-08-07 | Vernata: Self-Supervised Learning of LiDAR Point Representations | Oliver Lemke, Alexander Liniger, Abel Gawel, Marco Hutter | [Abstract](https://arxiv.org/abs/2608.06919) · [PDF](https://arxiv.org/pdf/2608.06919) |
 | 2026-08-06 | PathCover: A Fast Convex Decomposition along a Path via Randomized Iterative Space Partitioning (RISP) on Point Clouds | Kunal S. Narkhede, Abhijeet M. Kulkarni, Guoquan Huang, Ioannis Poulakakis | [Abstract](https://arxiv.org/abs/2608.05586) · [PDF](https://arxiv.org/pdf/2608.05586) |
+| 2026-08-05 | Beyond Visibility: Real-Time Surface Accessibility Fields from Sparse LiDAR | Bradley Scott, Sam Schofield, Richard Green | [Abstract](https://arxiv.org/abs/2608.06412) · [PDF](https://arxiv.org/pdf/2608.06412) |
 | 2026-08-04 | Multimodal Plant Root Phenotyping with Integration of 3D Skeleton Extraction and Language Analysis | Jiakai Lin, Zijun Li, Guoyu Lu | [Abstract](https://arxiv.org/abs/2608.03109) · [PDF](https://arxiv.org/pdf/2608.03109) |
 | 2026-07-30 | RaDiVe: Robust 4D Radar Odometry with Distance-Bounded NDT and Velocity-Discrepancy Point Uncertainty | Sangwoo Jung, Dongjae Lee, Chiyun Noh, Ayoung Kim | [Abstract](https://arxiv.org/abs/2607.28045) · [PDF](https://arxiv.org/pdf/2607.28045) |
 | 2026-07-20 | Two-Stage Extrinsic Calibration of a Static Line-Scanning Lidar with a Rotary Platform | Vikram Shree, Hike Danakian, Long Nguyen, Rajanish Gokidi et al. | [Abstract](https://arxiv.org/abs/2607.18578) · [PDF](https://arxiv.org/pdf/2607.18578) |
@@ -371,10 +373,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-27 | MOT-DETR: 3D Single Shot Detection and Tracking with Transformers to build 3D representations for Agro-Food Robots | David Rapado-Rincon, Henk Nap, Katarina Smolenova, Eldert J. van Henten et al. | [Abstract](https://arxiv.org/abs/2311.15674) · [PDF](https://arxiv.org/pdf/2311.15674) |
 | 2023-11-21 | Robust Hole-Detection in Triangular Meshes Irrespective of the Presence of Singular Vertices | Mauhing Yip, Annette Stahl, Christian Schellewald | [Abstract](https://arxiv.org/abs/2311.12466) · [PDF](https://arxiv.org/pdf/2311.12466) |
 | 2023-11-13 | LiLO: Lightweight and low-bias LiDAR Odometry method based on spherical range image filtering | Edison P. Velasco-Sánchez, Miguel Ángel Muñoz-Bañón, Francisco A. Candelas, Santiago T. Puente et al. | [Abstract](https://arxiv.org/abs/2311.07291) · [PDF](https://arxiv.org/pdf/2311.07291) |
-| 2023-11-08 | 3D Pose Estimation of Tomato Peduncle Nodes using Deep Keypoint Detection and Point Cloud | Jianchao Ci, Xin Wang, David Rapado-Rincón, Akshay K. Burusa et al. | [Abstract](https://arxiv.org/abs/2311.04699) · [PDF](https://arxiv.org/pdf/2311.04699) |
-| 2023-11-05 | Fast Point Cloud to Mesh Reconstruction for Deformable Object Tracking | Elham Amin Mansour, Hehui Zheng, Robert K. Katzschmann | [Abstract](https://arxiv.org/abs/2311.02749) · [PDF](https://arxiv.org/pdf/2311.02749) |
-| 2023-11-03 | Towards Unsupervised Object Detection From LiDAR Point Clouds | Lunjun Zhang, Anqi Joyce Yang, Yuwen Xiong, Sergio Casas et al. | [Abstract](https://arxiv.org/abs/2311.02007) · [PDF](https://arxiv.org/pdf/2311.02007) |
-| 2023-11-02 | LabelFormer: Object Trajectory Refinement for Offboard Perception from LiDAR Point Clouds | Anqi Joyce Yang, Sergio Casas, Nikita Dvornik, Sean Segal et al. | [Abstract](https://arxiv.org/abs/2311.01444) · [PDF](https://arxiv.org/pdf/2311.01444) |
 
 ---
 

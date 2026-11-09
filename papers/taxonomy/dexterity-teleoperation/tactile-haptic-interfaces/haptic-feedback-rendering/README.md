@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Tactile%20%26%20Haptic%20Interfaces&specialty=Haptic%20Feedback%20%26%20Rendering#research-workbench)
 
-> 9 conference papers · 58 recent arXiv papers
+> 9 conference papers · 62 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Bi-Hap: a Bi-directional Learning-Based Control and Momentum-based Haptic Feedback System for Dexterous In-hand Telemanipulation | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697388) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697388) |
+| 2026 | Bi-Hap: a Bi-directional Learning-Based Control and Momentum-based Haptic Feedback System for Dexterous In-hand Telemanipulation | ICRA · Dexterous | [Paper](https://doi.org/10.1109/icra57385.2026.11697388) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697388) |
 | 2026 | CDF-Glove: A Cable-Driven Force Feedback Glove for Dexterous Teleoperation | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2603.05804) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696309) |
 | 2026 | HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2603.30042) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697404) |
 | 2025 | Design, Implementation, and Validation of an Ungrounded Visuo-Tactile Haptic Interface for Robotic Teleoperation in High-Risk Steel Production | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128864) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128864) |
@@ -28,10 +28,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | HaPPArray: Haptic Pneumatic Pouch Array for Feedback in handheld Robots | ICRA · In Hand | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160648) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160648) |
 | 2022 | Collaborative Teleoperation with Haptic Feedback for Collision-Free Navigation of Ground Robots | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981426) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981426) |
 
-## Recent arXiv papers (58)
+## Recent arXiv papers (62)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-06 | A wearable input/output interface learns personalized models of haptic perception | Wen Li, E. Magnus Adams, Zijie Xu, Jiawen Yao et al. | [Abstract](https://arxiv.org/abs/2611.09708) · [PDF](https://arxiv.org/pdf/2611.09708) |
+| 2026-11-04 | Cognitive and Behavioural Effects of Haptic Feedback for ROV Teleoperation in Hazardous Environments | Joshua Brown, Ildar Farkhatdinov, Michael Jenkin | [Abstract](https://arxiv.org/abs/2611.06689) · [PDF](https://arxiv.org/pdf/2611.06689) |
+| 2026-11-03 | Haptic Shared Control for Multi-Robot Systems | Maxime Bernard | [Abstract](https://arxiv.org/abs/2611.05027) · [PDF](https://arxiv.org/pdf/2611.05027) |
+| 2026-10-31 | MESSPa: A Multi-modal Embodiment Stimulation Shoulder Pad for Preserving the Sense of Agency in a Detachable Robotic Arm | Vitvasin Vimolmongkolporn, Guillaume Gourmelen, Yukiko Iwasaki, Hiroyasu Iwata | [Abstract](https://arxiv.org/abs/2611.00509) · [PDF](https://arxiv.org/pdf/2611.00509) |
 | 2026-10-01 | Towards Physical Underwater Robotic Assistance for Scuba Diver Movement in Confined Spaces | Demetrious T. Kutzke, Junaed Sattar | [Abstract](https://arxiv.org/abs/2610.01906) · [PDF](https://arxiv.org/pdf/2610.01906) |
 | 2026-09-17 | RoboFind: Multi-Agent Personalized Object Search for People Who Are Blind or Have Low Vision | Ruiping Liu, Shaofang Quan, Qian Yin, Jingqi Zhang et al. | [Abstract](https://arxiv.org/abs/2609.20330) · [PDF](https://arxiv.org/pdf/2609.20330) |
 | 2026-09-12 | An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users | Ali Akarma, Adeel Ahmad, Toqeer Ali Syed | [Abstract](https://arxiv.org/abs/2609.22277) · [PDF](https://arxiv.org/pdf/2609.22277) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=State%20Estimation%20%26%20Tracking&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 17 conference papers · 120 recent arXiv papers
+> 17 conference papers · 119 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -22,7 +22,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026 | Large-Language-Model-Guided State Estimation for Partially Observable Task and Motion Planning | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2603.03704) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697209) |
 | 2026 | Reformulating AI-based Multi-Object Relative State Estimation for Aleatoric Uncertainty-based Outlier Rejection of Partial Measurements | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2602.02006) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696312) |
 | 2025 | Hybrid State Estimation and Mode Identification of an Amphibious Robot | ICRA · State Estimation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127611) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127611) |
-| 2025 | Mixing Data-Driven and Geometric Models for Satellite Docking Port State Estimation Using an Rgb or Event Camera | ICRA · State Estimation | [Paper](https://arxiv.org/abs/2409.15581) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128225) |
+| 2025 | Mixing Data-Driven and Geometric Models for Satellite Docking Port State Estimation Using an Rgb or Event Camera | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2409.15581) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128225) |
 | 2025 | RaggeDi: Diffusion-Based State Estimation of Disordered Rags, Sheets, Towels and Blankets | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2409.11831) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128504) |
 | 2025 | Simultaneous Ground Reaction Force and State Estimation Via Constrained Moving Horizon Estimation | ICRA · State Estimation | [Paper](https://arxiv.org/pdf/2411.12047) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127398) |
 | 2024 | Adaptive State Estimation with Constant-Curvature Dynamics Using Force-Torque Sensors with Application to a Soft Pneumatic Actuator | ICRA · State Estimation | [Paper](https://repo.uni-hannover.de/handle/123456789/20230) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610370) |
@@ -36,7 +36,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | STEADY: Simultaneous State Estimation and Dynamics Learning from Indirect Observations | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2203.01299) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981279) |
 | 2022 | The Uncertainty Aware Salted Kalman Filter: State Estimation for Hybrid Systems with Uncertain Guards | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2202.12729) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981218) |
 
-## Recent arXiv papers (120)
+## Recent arXiv papers (119)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -159,7 +159,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-14 | A Computationally Efficient Maximum A Posteriori Sequence Estimation via Stein Variational Inference | Min-Won Seo, Solmaz S. Kia | [Abstract](https://arxiv.org/abs/2312.08684) · [PDF](https://arxiv.org/pdf/2312.08684) |
 | 2023-12-06 | Weathering Ongoing Uncertainty: Learning and Planning in a Time-Varying Partially Observable Environment | Gokul Puthumanaillam, Xiangyu Liu, Negar Mehr, Melkior Ornik | [Abstract](https://arxiv.org/abs/2312.03263) · [PDF](https://arxiv.org/pdf/2312.03263) |
 | 2023-11-12 | Multimodal Learning of Soft Robot Dynamics using Differentiable Filters | Xiao Liu, Yifan Zhou, Shuhei Ikemoto, Heni Ben Amor | [Abstract](https://arxiv.org/abs/2311.06954) · [PDF](https://arxiv.org/pdf/2311.06954) |
-| 2023-11-02 | Estimating Infinite-Dimensional Continuum Robot States From the Tip | Tongjia Zheng, Ciera McFarland, Margaret Coad, Hai Lin | [Abstract](https://arxiv.org/abs/2311.01517) · [PDF](https://arxiv.org/pdf/2311.01517) |
 
 ---
 

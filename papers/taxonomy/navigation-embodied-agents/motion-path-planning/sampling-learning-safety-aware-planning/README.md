@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Motion%20%26%20Path%20Planning&specialty=Sampling%2C%20Learning%20%26%20Safety-aware%20Planning#research-workbench)
 
-> 20 conference papers · 251 recent arXiv papers
+> 21 conference papers · 251 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,11 +14,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (20)
+## Conference papers (21)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2026 | Gaussian Process Implicit Surfaces as Control Barrier Functions for Safe Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2510.12919) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695796) |
+| 2025 | AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions | CVPR · Embodied Agent | [Paper](https://arxiv.org/abs/2506.14697) · [Publisher](https://doi.org/10.48550/arXiv.2506.14697) |
 | 2025 | A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.09868) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128723) |
 | 2025 | Certificated Actor-Critic: Hierarchical Reinforcement Learning with Control Barrier Functions for Safe Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2501.17424) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127225) |
 | 2025 | Safe Quadrotor Navigation Using Composite Control Barrier Functions | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2502.04101) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127368) |
@@ -43,6 +44,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-01 | Control Barrier Functions for Safety-Aware Latent-Space Motion Planning | Chandrakiran Ravula, Siddhanth Ramesh | [Abstract](https://arxiv.org/abs/2611.01814) · [PDF](https://arxiv.org/pdf/2611.01814) |
 | 2026-10-30 | Interaction-Aware Sampling-Based Motion Planning for Autonomous Surface Vessels in Urban Waterways | Elia Trevisan, Alejandro Gonzalez-Garcia, Jan Swevers, Javier Alonso-Mora | [Abstract](https://arxiv.org/abs/2610.41676) · [PDF](https://arxiv.org/pdf/2610.41676) |
 | 2026-10-30 | Capability-Conditioned Graph Control Barrier Functions for Zero-Shot Safe Navigation of Heterogeneous Mobile Robot Teams | Joonkyung Kim, Janghyun Cho, Jeehyun Lee, Changjoo Nam et al. | [Abstract](https://arxiv.org/abs/2610.41214) · [PDF](https://arxiv.org/pdf/2610.41214) |
 | 2026-10-26 | Reward-Guided RRT* for Budgeted Task and Motion Planning | Vinícius Araújo de Oliveira, Gabriel Ferreira Mendes Lourenço, Paulo L. J. Drews-Jr, Armando Alves Neto et al. | [Abstract](https://arxiv.org/abs/2610.35289) · [PDF](https://arxiv.org/pdf/2610.35289) |
@@ -119,7 +121,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-27 | Visual-RRT: Finding Paths toward Visual-Goals via Differentiable Rendering | Sebin Lee, Jumin Lee, Taeyeon Kim, Younju Na et al. | [Abstract](https://arxiv.org/abs/2604.16388) · [PDF](https://arxiv.org/pdf/2604.16388) |
 | 2026-03-23 | IGV-RRT: Prior-Real-Time Observation Fusion for Active Object Search in Changing Environments | Wei Zhang, Ping Gong, Yujie Wang, Leilei Yao et al. | [Abstract](https://arxiv.org/abs/2603.21887) · [PDF](https://arxiv.org/pdf/2603.21887) |
 | 2026-03-17 | Ultrafast Sampling-based Kinodynamic Planning via Differential Flatness | Thai Duong, Clayton W. Ramsey, Zachary Kingston, Wil Thomason et al. | [Abstract](https://arxiv.org/abs/2603.16059) · [PDF](https://arxiv.org/pdf/2603.16059) |
-| 2026-03-17 | Contingency-Aware Planning via Certified Neural Hamilton-Jacobi Reachability | Kasidit Muenprasitivej, Derya Aksaray | [Abstract](https://arxiv.org/abs/2603.17022) · [PDF](https://arxiv.org/pdf/2603.17022) |
 | 2026-03-12 | GNN-DIP: Neural Corridor Selection for Decomposition-Based Motion Planning | Peng Xie, Yanliang Huang, Wenyuan Wu, Amr Alanwar | [Abstract](https://arxiv.org/abs/2603.12361) · [PDF](https://arxiv.org/pdf/2603.12361) |
 | 2026-03-11 | Safe Probabilistic Planning for Human-Robot Interaction using Conformal Risk Control | Jake Gonzales, Kazuki Mizuta, Karen Leung, Lillian J. Ratliff | [Abstract](https://arxiv.org/abs/2603.10392) · [PDF](https://arxiv.org/pdf/2603.10392) |
 | 2026-03-11 | Rethinking Gaussian Trajectory Predictors: Calibrated Uncertainty for Safe Planning | Fatemeh Cheraghi Pouria, Mahsa Golchoubian, Katherine Driggs-Campbell | [Abstract](https://arxiv.org/abs/2603.10407) · [PDF](https://arxiv.org/pdf/2603.10407) |

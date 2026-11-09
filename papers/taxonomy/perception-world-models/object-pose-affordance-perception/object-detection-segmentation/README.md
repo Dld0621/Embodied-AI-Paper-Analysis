@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Object%2C%20Pose%20%26%20Affordance%20Perception&specialty=Object%20Detection%20%26%20Segmentation#research-workbench)
 
-> 1 conference papers · 255 recent arXiv papers
+> 1 conference papers · 251 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,7 +20,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2024 | Making the Flow Glow – Robot Perception under Severe Lighting Conditions using Normalizing Flow Gradients | IROS · Robot Perception | [Paper](https://arxiv.org/pdf/2412.07565) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801601) |
 
-## Recent arXiv papers (255)
+## Recent arXiv papers (251)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -275,10 +275,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-23 | Low Latency Instance Segmentation by Continuous Clustering for LiDAR Sensors | Andreas Reich, Mirko Maehlisch | [Abstract](https://arxiv.org/abs/2311.13976) · [PDF](https://arxiv.org/pdf/2311.13976) |
 | 2023-11-11 | Topology-Matching Normalizing Flows for Out-of-Distribution Detection in Robot Learning | Jianxiang Feng, Jongseok Lee, Simon Geisler, Stephan Gunnemann et al. | [Abstract](https://arxiv.org/abs/2311.06481) · [PDF](https://arxiv.org/pdf/2311.06481) |
 | 2023-11-09 | Object-centric Cross-modal Feature Distillation for Event-based Object Detection | Lei Li, Alexander Liniger, Mario Millhaeusler, Vagia Tsiminaki et al. | [Abstract](https://arxiv.org/abs/2311.05494) · [PDF](https://arxiv.org/pdf/2311.05494) |
-| 2023-11-06 | Segmentation of Drone Collision Hazards in Airborne RADAR Point Clouds Using PointNet | Hector Arroyo, Paul Kier, Dylan Angus, Santiago Matalonga et al. | [Abstract](https://arxiv.org/abs/2311.03221) · [PDF](https://arxiv.org/pdf/2311.03221) |
-| 2023-11-05 | Scenario Diffusion: Controllable Driving Scenario Generation With Diffusion | Ethan Pronovost, Meghana Reddy Ganesina, Noureldin Hendy, Zeyu Wang et al. | [Abstract](https://arxiv.org/abs/2311.02738) · [PDF](https://arxiv.org/pdf/2311.02738) |
-| 2023-11-02 | Ultra-Efficient On-Device Object Detection on AI-Integrated Smart Glasses with TinyissimoYOLO | Julian Moosmann, Pietro Bonazzi, Yawei Li, Sizhen Bian et al. | [Abstract](https://arxiv.org/abs/2311.01057) · [PDF](https://arxiv.org/pdf/2311.01057) |
-| 2023-11-02 | MemorySeg: Online LiDAR Semantic Segmentation with a Latent Memory | Enxu Li, Sergio Casas, Raquel Urtasun | [Abstract](https://arxiv.org/abs/2311.01556) · [PDF](https://arxiv.org/pdf/2311.01556) |
 
 ---
 

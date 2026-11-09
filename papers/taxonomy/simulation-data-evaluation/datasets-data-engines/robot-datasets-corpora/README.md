@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engines&specialty=Robot%20Datasets%20%26%20Corpora#research-workbench)
 
-> 98 conference papers · 644 recent arXiv papers
+> 102 conference papers · 641 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,18 +14,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (98)
+## Conference papers (102)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | AdapGrasp: A Stiffness and Grasp Affordance Dataset with a Transformer-based Adaptive Grasp Model | ICRA · Dataset | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696782) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696782) |
+| 2026 | Breaking the 3D Dataset Bottleneck: Fast Scalable Generation of Aligned 3D Assets from Scratch for Category 6D Pose Estimation and Robotic Grasping | CVPR · Dataset | [Paper](https://www.semanticscholar.org/paper/c17ab4ddc0e2f94e681ab0dc7d703e6c7c0caccf) · [Index](https://dblp.org/rec/conf/cvpr/DuretMZPC26) |
+| 2026 | Cross-Embodiment Offline Reinforcement Learning for Heterogeneous Robot Datasets | ICLR · Dataset | [Paper](https://arxiv.org/abs/2602.18025) · [Publisher](https://doi.org/10.48550/arXiv.2602.18025) |
+| 2026 | AdapGrasp: A Stiffness and Grasp Affordance Dataset with a Transformer-based Adaptive Grasp Model | ICRA · Dataset | [Paper](https://doi.org/10.1109/icra57385.2026.11696782) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696782) |
 | 2026 | CU-Multi: A Dataset for Multi-Robot Collaborative Perception | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2509.19463) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697041) |
 | 2026 | IndustryShapes: An RGB-D Benchmark dataset for 6D object pose estimation of industrial assembly components and tools | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2602.05555) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697459) |
 | 2026 | Instrumentation for Imitation Learning: Enhancing Training Datasets for Clothes Hanger Insertion | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2605.23847) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696878) |
 | 2026 | iVISION-2DCD: A Long-Term Change Detection Dataset for Large-Scale Outdoor Construction Monitoring | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2607.03553) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697019) |
 | 2026 | Tempo-Vine: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2512.04772) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696237) |
+| 2025 | Hoi! - A Multimodal Dataset for Force-Grounded, Cross-View Articulated Manipulation | CVPR · Dataset | [Paper](https://arxiv.org/abs/2512.04884) · [Publisher](https://doi.org/10.48550/arXiv.2512.04884) |
 | 2025 | Pixel-aligned RGB-NIR Stereo Imaging and Dataset for Robot Vision | CVPR · Dataset | [Paper](https://arxiv.org/pdf/2411.18025) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01072) |
 | 2025 | RoboSense: Large-scale Dataset and Benchmark for Egocentric Robot Perception and Navigation in Crowded and Unstructured Environments | CVPR · Dataset | [Paper](https://arxiv.org/pdf/2408.15503) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02556) |
+| 2025 | RobotSeg: A Model and Dataset for Segmenting Robots in Image and Video | CVPR · Dataset | [Paper](https://arxiv.org/abs/2511.22950) · [Publisher](https://doi.org/10.48550/arXiv.2511.22950) |
 | 2025 | RobAVA: A Large-Scale Dataset and Baseline Towards Video Based Robotic Arm Action Understanding | ICCV · Dataset | [Paper](https://doi.org/10.1109/ICCV51701.2025.01298) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01298) |
 | 2025 | Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets | ICLR · Dataset | [Paper](https://arxiv.org/abs/2410.22325) · [Publisher](https://doi.org/10.48550/arXiv.2410.22325) |
 | 2025 | What Matters in Learning from Large-Scale Datasets for Robot Manipulation | ICLR · Dataset | [Paper](https://arxiv.org/abs/2506.13536) · [Publisher](https://doi.org/10.48550/arXiv.2506.13536) |
@@ -34,7 +38,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | DiTer++: Diverse Terrain and Multi-Modal Dataset for Multi-Robot SLAM in Multi-Session Environments | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2412.05839) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128593) |
 | 2025 | EnvoDat: A Large-Scale Multisensory Dataset for Robotic Spatial Awareness and Semantic Reasoning in Heterogeneous Environments | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2410.22200) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127594) |
 | 2025 | Excavating in the Wild: The GOOSE-Ex Dataset for Semantic Segmentation | ICRA · Dataset | [Paper](https://arxiv.org/abs/2409.18788) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127604) |
-| 2025 | Flat'n'Fold: A Diverse Multi-Modal Dataset for Garment Perception and Manipulation | ICRA · Dataset | [Paper](https://eprints.gla.ac.uk/349229/1/349229.pdf) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127794) |
+| 2025 | Flat'n'Fold: A Diverse Multi-Modal Dataset for Garment Perception and Manipulation | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2409.18297) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127794) |
 | 2025 | HeRCULES: Heterogeneous Radar Dataset in Complex Urban Environment for Multi-Session Radar SLAM | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2502.01946) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128678) |
 | 2025 | M3DSS: A Multi-Platform, Multi-Sensor, and Multi-Scenario Dataset for SLAM System | ICRA · Dataset | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128631) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128631) |
 | 2025 | MBE-ARI: A Multimodal Dataset Mapping Bi-Directional Engagement in Animal-Robot Interaction | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2504.08646) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127962) |
@@ -54,7 +58,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions | IROS · Dataset | [Paper](https://arxiv.org/pdf/2410.01105) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245902) |
 | 2025 | OpenRoboCare: A Multimodal Multi-Task Expert Demonstration Dataset for Robot Caregiving | IROS · Dataset | [Paper](https://arxiv.org/pdf/2511.13707) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247516) |
 | 2025 | RH20T-P: A Primitive-Level Robotic Manipulation Dataset towards Composable Generalization Agents in Real-world Scenarios | IROS · Dataset | [Paper](https://doi.org/10.1109/IROS60139.2025.11246228) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246228) |
-| 2025 | Shaken, Not Stirred: A Novel Dataset for Visual Understanding of Glasses in Human-Robot Bartending Tasks | IROS · Dataset | [Paper](https://arxiv.org/abs/2503.04308) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246715) |
+| 2025 | Shaken, Not Stirred: A Novel Dataset for Visual Understanding of Glasses in Human-Robot Bartending Tasks | IROS · Dataset | [Paper](https://arxiv.org/pdf/2503.04308) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246715) |
 | 2025 | The Common Objects Underwater (COU) Dataset for Robust Underwater Object Detection | IROS · Dataset | [Paper](https://arxiv.org/abs/2502.20651) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246089) |
 | 2025 | The Monado SLAM Dataset for Egocentric Visual-Inertial Tracking | IROS · Dataset | [Paper](https://doi.org/10.1109/iros60139.2025.11247240) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247240) |
 | 2025 | VRobotix: A Scalable and Cost-Effective Virtual-Reality-Based Robotic Manipulation Dataset Generation Framework | IROS · Dataset | [Paper](https://doi.org/10.1109/IROS60139.2025.11247610) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247610) |
@@ -92,7 +96,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset | RSS · Robot dataset | [Paper](https://arxiv.org/abs/2403.12945) · [Official](https://doi.org/10.15607/RSS.2024.XX.120) · [Code](https://github.com/droid-dataset/droid) |
 | 2023 | An Unbiased Look at Datasets for Visuo-Motor Pre-Training | CoRL · Dataset | [Paper](https://arxiv.org/abs/2310.09289) · [Publisher](https://doi.org/10.48550/arXiv.2310.09289) |
 | 2023 | BridgeData V2: A Dataset for Robot Learning at Scale | CoRL · Dataset | [Paper](https://arxiv.org/pdf/2308.12952) · [Publisher](https://doi.org/10.48550/arXiv.2308.12952) |
-| 2023 | 3D-DAT: 3D-Dataset Annotation Toolkit for Robotic Vision | ICRA · Dataset | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160669) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160669) |
+| 2023 | 3D-DAT: 3D-Dataset Annotation Toolkit for Robotic Vision | ICRA · Dataset | [Paper](https://repositum.tuwien.at/bitstream/20.500.12708/192801/1/Suchi-2023-3D-DAT%203D-Dataset%20Annotation%20Toolkit%20for%20Robotic%20Vision-am.pdf) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160669) |
 | 2023 | A Virtual Reality Framework For Fast Dataset Creation Applied to Cloth Manipulation with Automatic Semantic Labelling | ICRA · Dataset | [Paper](https://upcommons.upc.edu/bitstreams/1fafcf5c-cab9-4609-9089-bba93a64ab06/download) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161122) |
 | 2023 | ARMBench: An Object-centric Benchmark Dataset for Robotic Manipulation | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2303.16382) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160846) |
 | 2023 | ATTACH Dataset: Annotated Two-Handed Assembly Actions for Human Action Understanding | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2304.08210) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160633) |
@@ -106,7 +110,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | IPA-3D1K: A Large Retail 3D Model Dataset for Robot Picking | IROS · Dataset | [Paper](https://doi.org/10.1109/IROS55552.2023.10342260) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342260) |
 | 2023 | RGBD Fusion Grasp Network with Large-Scale Tableware Grasp Dataset | IROS · Dataset | [Paper](https://doi.org/10.1109/IROS55552.2023.10341357) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341357) |
 | 2023 | T2FPV: Dataset and Method for Correcting First-Person View Errors in Pedestrian Trajectory Prediction | IROS · Dataset | [Paper](https://arxiv.org/pdf/2209.11294) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341874) |
-| 2023 | The Audio-Visual BatVision Dataset for Research on Sight and Sound | IROS · Dataset | [Paper](https://arxiv.org/abs/2303.07257) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341715) |
+| 2023 | The Audio-Visual BatVision Dataset for Research on Sight and Sound | IROS · Dataset | [Paper](https://arxiv.org/pdf/2303.07257) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341715) |
 | 2023 | The Bystander Affect Detection (BAD) Dataset for Failure Detection in HRI | IROS · Dataset | [Paper](https://arxiv.org/pdf/2303.04835) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342442) |
 | 2023 | WIT-UAS: A Wildland-Fire Infrared Thermal Dataset to Detect Crew Assets from Aerial Views | IROS · Dataset | [Paper](https://arxiv.org/pdf/2312.09159) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341683) |
 | 2023 | Behavior Retrieval: Few-Shot Imitation Learning by Querying Unlabeled Datasets | RSS · Dataset | [Paper](https://arxiv.org/abs/2304.08742) · [Publisher](https://doi.org/10.48550/arXiv.2304.08742) |
@@ -117,10 +121,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Fisheye object detection based on standard image datasets with 24-points regression strategy | IROS · Dataset | [Paper](https://doi.org/10.1109/IROS47612.2022.9981891) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981891) |
 | 2022 | FusionPortable: A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms | IROS · Dataset | [Paper](https://arxiv.org/pdf/2208.11865) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982119) |
 
-## Recent arXiv papers (644)
+## Recent arXiv papers (641)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-03 | GSBR: Geometric Support Behavior Regularization for Online RL | Charles Xu, Jacob Berg, Liyiming Ke, Sergey Levine | [Abstract](https://arxiv.org/abs/2611.05295) · [PDF](https://arxiv.org/pdf/2611.05295) |
+| 2026-11-02 | MS-DOTT: A Multi-Modal Dataset for Off-Road Traversability Estimation | Shivani Subramanyan, Saksham Sharma, Samahith SA, Ahaan Kotian et al. | [Abstract](https://arxiv.org/abs/2611.02992) · [PDF](https://arxiv.org/pdf/2611.02992) |
+| 2026-11-02 | Evaluating Depth-Augmented Visual Features for Cross-Dataset Lunar Traversability Estimation | Jan Baturo, Bartosz Ptak | [Abstract](https://arxiv.org/abs/2611.03430) · [PDF](https://arxiv.org/pdf/2611.03430) |
 | 2026-10-30 | MotorSense: A Video-EMG Dataset of Motoric Representations for Action Understanding | Eadom Dessalene, Michael Maynord, Amir-Hossein Shahidzadeh, Botao He et al. | [Abstract](https://arxiv.org/abs/2610.41127) · [PDF](https://arxiv.org/pdf/2610.41127) |
 | 2026-10-29 | RoboAtom: Large-scale Atomic-Action Supervision for Robot Learning | Xueyuan Wei, Xuanxu Wang, Xudong Li, Yuping He et al. | [Abstract](https://arxiv.org/abs/2610.40207) · [PDF](https://arxiv.org/pdf/2610.40207) |
 | 2026-10-29 | Coupled Guidance for Flow Matching | Mateo Clémente, Léo Maxime Brunswic, Rui Heng Yang, Amir Rasouli | [Abstract](https://arxiv.org/abs/2610.40109) · [PDF](https://arxiv.org/pdf/2610.40109) |
@@ -759,12 +766,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-19 | RflyMAD: A Dataset for Multicopter Fault Detection and Health Assessment | Xiangli Le, Bo Jin, Gen Cui, Xunhua Dai et al. | [Abstract](https://arxiv.org/abs/2311.11340) · [PDF](https://arxiv.org/pdf/2311.11340) |
 | 2023-11-17 | A Video-Based Activity Classification of Human Pickers in Agriculture | Abhishesh Pal, Antonio C. Leite, Jon G. O. Gjevestad, Pål J. From | [Abstract](https://arxiv.org/abs/2311.10885) · [PDF](https://arxiv.org/pdf/2311.10885) |
 | 2023-11-10 | Quantized Distillation: Optimizing Driver Activity Recognition Models for Resource-Constrained Environments | Calvin Tanama, Kunyu Peng, Zdravko Marinov, Rainer Stiefelhagen et al. | [Abstract](https://arxiv.org/abs/2311.05970) · [PDF](https://arxiv.org/pdf/2311.05970) |
-| 2023-11-08 | The voraus-AD Dataset for Anomaly Detection in Robot Applications | Jan Thieß Brockmann, Marco Rudolph, Bodo Rosenhahn, Bastian Wandt | [Abstract](https://arxiv.org/abs/2311.04765) · [PDF](https://arxiv.org/pdf/2311.04765) |
-| 2023-11-06 | Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization | Kun Lei, Zhengmao He, Chenhao Lu, Kaizhe Hu et al. | [Abstract](https://arxiv.org/abs/2311.03351) · [PDF](https://arxiv.org/pdf/2311.03351) |
-| 2023-11-05 | Race Against the Machine: a Fully-annotated, Open-design Dataset of Autonomous and Piloted High-speed Flight | Michael Bosello, Davide Aguiari, Yvo Keuter, Enrico Pallotta et al. | [Abstract](https://arxiv.org/abs/2311.02667) · [PDF](https://arxiv.org/pdf/2311.02667) |
-| 2023-11-05 | JRDB-Traj: A Dataset and Benchmark for Trajectory Forecasting in Crowds | Saeed Saadatnejad, Yang Gao, Hamid Rezatofighi, Alexandre Alahi | [Abstract](https://arxiv.org/abs/2311.02736) · [PDF](https://arxiv.org/pdf/2311.02736) |
-| 2023-11-05 | Get the Ball Rolling: Alerting Autonomous Robots When to Help to Close the Healthcare Loop | Jiaxin Shen, Yanyao Liu, Ziming Wang, Ziyuan Jiao et al. | [Abstract](https://arxiv.org/abs/2311.02602) · [PDF](https://arxiv.org/pdf/2311.02602) |
-| 2023-11-03 | SMORE: Score Models for Offline Goal-Conditioned Reinforcement Learning | Harshit Sikchi, Rohan Chitnis, Ahmed Touati, Alborz Geramifard et al. | [Abstract](https://arxiv.org/abs/2311.02013) · [PDF](https://arxiv.org/pdf/2311.02013) |
 
 ---
 

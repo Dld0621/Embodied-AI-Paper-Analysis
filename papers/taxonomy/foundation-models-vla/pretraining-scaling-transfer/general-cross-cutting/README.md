@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Pretraining%2C%20Scaling%20%26%20Transfer&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 18 conference papers · 200 recent arXiv papers
+> 18 conference papers · 201 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,7 +23,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation | ICLR · Bimanual foundation model | [Paper](https://arxiv.org/abs/2410.07864) · [Official](https://proceedings.iclr.cc/paper_files/paper/2025/hash/49f80e4d2471ad4f2edf4f5f1ab62339-Abstract-Conference.html) · [Code](https://github.com/thu-ml/RoboticsDiffusionTransformer) |
 | 2025 | SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation | ICML · Foundation Model | [Paper](https://arxiv.org/abs/2501.18564) · [Publisher](https://doi.org/10.48550/arXiv.2501.18564) |
 | 2025 | ASCENT: Autonomous Skill Learning Toward Complex Embodied Tasks With Foundation Models | ICRA · Foundation Model | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127927) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127927) |
-| 2025 | AnyBipe: An Automated End-to-End Framework for Training and Deploying Bipedal Robots Powered by Large Language Models | IROS · Large Language Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246492) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246492) |
+| 2025 | AnyBipe: An Automated End-to-End Framework for Training and Deploying Bipedal Robots Powered by Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2409.08904) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246492) |
 | 2025 | CLAP: A Closed-Loop Diffusion Transformer Action Foundation Model for Robotic Manipulation | IROS · Foundation Model | [Paper](https://doi.org/10.1109/IROS60139.2025.11246478) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246478) |
 | 2025 | MetaFold: Language-Guided Multi-Category Garment Folding Framework via Trajectory Generation and Foundation Model | IROS · Foundation Model | [Paper](https://arxiv.org/pdf/2503.08372) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246072) |
 | 2024 | CoViS-Net: A Cooperative Visual Spatial Foundation Model for Multi-Robot Applications | CoRL · Foundation Model | [Paper](https://arxiv.org/abs/2405.01107) · [Publisher](https://doi.org/10.48550/arXiv.2405.01107) |
@@ -37,10 +37,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | DrEureka: Language Model Guided Sim-To-Real Transfer | RSS · Language Model | [Paper](https://arxiv.org/abs/2406.01967) · [Publisher](https://doi.org/10.48550/arXiv.2406.01967) |
 | 2023 | Gesture-Informed Robot Assistance via Foundation Models | CoRL · Foundation Model | [Paper](https://arxiv.org/pdf/2309.02721) · [Publisher](https://doi.org/10.48550/arXiv.2309.02721) |
 
-## Recent arXiv papers (200)
+## Recent arXiv papers (201)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-03 | MESA: An Evaluation Framework for Compositional, Semantic, and Spatial Generalization in Robotics | Albert Wilcox, Frank Chang, Nhi Nguyen, Aishani Chakraborty et al. | [Abstract](https://arxiv.org/abs/2611.05567) · [PDF](https://arxiv.org/pdf/2611.05567) |
+| 2026-11-02 | AnchorHEC: Targetless Hand-Eye Calibration of Wrist and Fixed Cameras | Guebin Hwang, Taeyeop Lee, Yeonseo Lee, Hyosup Shin et al. | [Abstract](https://arxiv.org/abs/2611.02884) · [PDF](https://arxiv.org/pdf/2611.02884) |
 | 2026-10-30 | META-Robot: Self-Cognition and Capability Scaling in Agentic Robots | Xuanzhi Feng, Zeyu Liu, Weiheng Gao, Xinchen Li et al. | [Abstract](https://arxiv.org/abs/2610.41868) · [PDF](https://arxiv.org/pdf/2610.41868) |
 | 2026-10-28 | When "No Worries" Went Wrong: HRI Lessons for Foundation-Model Robots | Eliahu Khalastchi | [Abstract](https://arxiv.org/abs/2610.38400) · [PDF](https://arxiv.org/pdf/2610.38400) |
 | 2026-10-19 | Foundation Model Driven Optical Flow | Praroop Chanda, Suryansh Kumar | [Abstract](https://arxiv.org/abs/2610.26690) · [PDF](https://arxiv.org/pdf/2610.26690) |
@@ -240,7 +242,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-24 | Robot Learning in the Era of Foundation Models: A Survey | Xuan Xiao, Jiahang Liu, Zhipeng Wang, Yanmin Zhou et al. | [Abstract](https://arxiv.org/abs/2311.14379) · [PDF](https://arxiv.org/pdf/2311.14379) |
 | 2023-11-18 | CLIPSwarm: Converting text into formations of robots | Pablo Pueyo, Eduardo Montijano, Ana C. Murillo, Mac Schwager | [Abstract](https://arxiv.org/abs/2311.11047) · [PDF](https://arxiv.org/pdf/2311.11047) |
 | 2023-11-12 | DialMAT: Dialogue-Enabled Transformer with Moment-Based Adversarial Training | Kanta Kaneda, Ryosuke Korekata, Yuiga Wada, Shunya Nagashima et al. | [Abstract](https://arxiv.org/abs/2311.06855) · [PDF](https://arxiv.org/pdf/2311.06855) |
-| 2023-11-03 | RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches | Jiayuan Gu, Sean Kirmani, Paul Wohlhart, Yao Lu et al. | [Abstract](https://arxiv.org/abs/2311.01977) · [PDF](https://arxiv.org/pdf/2311.01977) |
 
 ---
 

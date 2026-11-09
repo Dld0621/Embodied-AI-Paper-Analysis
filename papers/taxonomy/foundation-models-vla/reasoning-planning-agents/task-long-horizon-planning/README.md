@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=Task%20%26%20Long-horizon%20Planning#research-workbench)
 
-> 53 conference papers · 235 recent arXiv papers
+> 54 conference papers · 235 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,26 +14,27 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (53)
+## Conference papers (54)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2026 | AssemMate: Graph-Based LLM for Robotic Assembly Assistance | ICRA · Llm | [Paper](https://arxiv.org/pdf/2509.11617) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696465) |
 | 2026 | Hierarchical LLM-Based Multi-Agent Framework with Prompt Optimization for Multi-Robot Task Planning | ICRA · Llm | [Paper](https://arxiv.org/pdf/2602.21670) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697460) |
 | 2026 | IMR-LLM: Industrial Multi-Robot Task Planning and Program Generation using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2603.02669) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695905) |
-| 2026 | Privacy-aware LLM-assisted Task Planning for Home Robots | ICRA · Llm | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696813) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696813) |
-| 2026 | SafeNet: A Neural-Symbolic Network for Safe Planning in Robotic Systems using Formal Method-Guided LLM Fine-Tuning | ICRA · Llm | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697001) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697001) |
+| 2026 | Privacy-aware LLM-assisted Task Planning for Home Robots | ICRA · Llm | [Paper](https://doi.org/10.1109/icra57385.2026.11696813) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696813) |
+| 2026 | SafeNet: A Neural-Symbolic Network for Safe Planning in Robotic Systems using Formal Method-Guided LLM Fine-Tuning | ICRA · Llm | [Paper](https://doi.org/10.1109/icra57385.2026.11697001) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697001) |
 | 2026 | The Price Is Not Right: Neuro-Symbolic Methods Outperform VLAs on Structured Long-Horizon Manipulation Tasks with Significantly Lower Energy Consumption | ICRA · Vla | [Paper](https://arxiv.org/pdf/2602.19260) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696327) |
 | 2025 | VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks | ICCV · Vla | [Paper](https://arxiv.org/pdf/2412.18194) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01037) |
 | 2025 | BadRobot: Jailbreaking Embodied LLM Agents in the Physical World | ICLR · Llm | [Paper](https://arxiv.org/abs/2407.20242) · [Index](https://dblp.org/rec/conf/iclr/ZhangZ00YLXWHLG25) |
-| 2025 | AlignBot: Aligning VLM-Powered Customized Task Planning with User Reminders Through Fine-Tuning for Household Robots | ICRA · Vlm | [Paper](https://arxiv.org/abs/2409.11905) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128775) |
+| 2025 | MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning | ICLR · Language Model | [Paper](https://arxiv.org/abs/2512.16909) · [Publisher](https://doi.org/10.48550/arXiv.2512.16909) |
+| 2025 | AlignBot: Aligning VLM-Powered Customized Task Planning with User Reminders Through Fine-Tuning for Household Robots | ICRA · Vlm | [Paper](https://arxiv.org/pdf/2409.11905) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128775) |
 | 2025 | COHERENT: Collaboration of Heterogeneous Multi-Robot System with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2409.15146) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127808) |
 | 2025 | ConceptAgent: LLM-Driven Precondition Grounding and Tree Search for Robust Task Planning and Execution | ICRA · Llm | [Paper](https://arxiv.org/pdf/2410.06108) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128414) |
 | 2025 | DELTA: Decomposed Efficient Long-Term Robot Task Planning Using Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2404.03275) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127838) |
 | 2025 | Fast and Accurate Task Planning using Neuro-Symbolic Language Models and Multi-Level Goal Decomposition | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2409.19250) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127617) |
 | 2025 | Guiding Long-Horizon Task and Motion Planning with Vision Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2410.02193) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128705) |
 | 2025 | Large Language Model Based Autonomous Task Planning for Abstract Commands | ICRA · Large Language Model | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128343) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128343) |
-| 2025 | LLM-as-BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning | ICRA · Llm | [Paper](https://arxiv.org/abs/2409.10444) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128454) |
+| 2025 | LLM-as-BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning | ICRA · Llm | [Paper](https://arxiv.org/pdf/2409.10444) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128454) |
 | 2025 | MultiTalk: Introspective and Extrospective Dialogue for Human-Environment-LLM Alignment | ICRA · Llm | [Paper](https://arxiv.org/pdf/2409.16455) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128486) |
 | 2025 | Self-Corrective Task Planning by Inverse Prompting with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2503.07317) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128028) |
 | 2025 | SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2409.19471) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128420) |
@@ -76,6 +77,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-03 | HiLo-WAM: Decoupling Long-Horizon Task Evolution and Local Dynamics in World Action Models | Xingyu Wang, Yanjiang Guo, Zhijing Ding, Jiaxin Fang et al. | [Abstract](https://arxiv.org/abs/2611.05023) · [PDF](https://arxiv.org/pdf/2611.05023) |
 | 2026-10-29 | LOGIV: Graph-Verified Execution with Causal Local Repair for Long-Horizon Robot Tasks | Enqiao Lu, Yuxiang Xie, Xingrui Yu, Yuyang Wang et al. | [Abstract](https://arxiv.org/abs/2610.40016) · [PDF](https://arxiv.org/pdf/2610.40016) |
 | 2026-10-26 | FISRF: Flexible Instructional Scaffolding Reflection Framework for Robotics Task Planning with Large Language Model | Qingmiao Liang, Jiatao Zhang, Runxin Zou, Yufan Song et al. | [Abstract](https://arxiv.org/abs/2610.35686) · [PDF](https://arxiv.org/pdf/2610.35686) |
 | 2026-10-23 | Predictive Long-Horizon Progress Modeling with Action-Aware Quantification | Tianchi Xu, Yalin Zheng, Yangxin Zhu, Ruonan Ren et al. | [Abstract](https://arxiv.org/abs/2610.32776) · [PDF](https://arxiv.org/pdf/2610.32776) |
@@ -156,7 +158,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-02-07 | Differentiate-and-Inject: Enhancing VLAs via Functional Differentiation Induced by In-Parameter Structural Reasoning | Jingyi Hou, Leyu Zhou, Chenchen Jing, Jinghan Yang et al. | [Abstract](https://arxiv.org/abs/2602.07541) · [PDF](https://arxiv.org/pdf/2602.07541) |
 | 2026-02-02 | BTGenBot-2: Efficient Behavior Tree Generation with Small Language Models | Riccardo Andrea Izzo, Gianluca Bardaro, Matteo Matteucci | [Abstract](https://arxiv.org/abs/2602.01870) · [PDF](https://arxiv.org/pdf/2602.01870) |
 | 2026-02-01 | Coordinated Control of Multiple Construction Machines Using LLM-Generated Behavior Trees with Flag-Based Synchronization | Akinosuke Tsutsumi, Tomoya Itsuka, Yuichiro Kasahara, Tomoya Kouno et al. | [Abstract](https://arxiv.org/abs/2602.01041) · [PDF](https://arxiv.org/pdf/2602.01041) |
-| 2026-01-16 | EmboTeam: Grounding LLM Reasoning into Reactive Behavior Trees via PDDL for Embodied Multi-Robot Collaboration | Haishan Zeng, Mengna Wang, Peng Li | [Abstract](https://arxiv.org/abs/2601.11063) · [PDF](https://arxiv.org/pdf/2601.11063) |
 | 2025-12-24 | Quadrupped-Legged Robot Movement Plan Generation using Large Language Model | Muhtadin, Vincentius Gusti Putu A. B. M., Ahmad Zaini, Mauridhi Hery Purnomo et al. | [Abstract](https://arxiv.org/abs/2512.21293) · [PDF](https://arxiv.org/pdf/2512.21293) |
 | 2025-12-18 | MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning | Yuanchen Ju, Yongyuan Liang, Yen-Jen Wang, Nandiraju Gireesh et al. | [Abstract](https://arxiv.org/abs/2512.16909) · [PDF](https://arxiv.org/pdf/2512.16909) |
 | 2025-12-15 | Towards Spatial Trace with Reasoning in Vision-Language Models for Robotics | Enshen Zhou, Yibo Li, Jingkun An, Jiayuan Zhang et al. | [Abstract](https://arxiv.org/abs/2512.13660) · [PDF](https://arxiv.org/pdf/2512.13660) |

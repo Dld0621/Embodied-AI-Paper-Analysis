@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=In-hand%20Manipulation&specialty=Object%20Reorientation%20%26%20Rotation#research-workbench)
 
-> 9 conference papers · 29 recent arXiv papers
+> 9 conference papers · 30 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Rotating without Seeing: Towards In-hand Dexterity through Touch | RSS · In Hand | [Paper](https://arxiv.org/abs/2303.10880) · [Publisher](https://doi.org/10.48550/arXiv.2303.10880) |
 | 2022 | In-Hand Object Rotation via Rapid Motor Adaptation | CoRL · Dexterous control | [Paper](https://arxiv.org/abs/2210.04887) · [Official](https://proceedings.mlr.press/v205/qi23a.html) · [Code](https://haozhi.io/hora/) |
 
-## Recent arXiv papers (29)
+## Recent arXiv papers (30)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-01 | GoalDex: Learning Image-Goal-Conditioned Policies for Dexterous In-Hand Manipulation | Arjun Bhardwaj, Mayank Mittal, Maximum Wilder-Smith, Vaishakh Patil et al. | [Abstract](https://arxiv.org/abs/2611.02171) · [PDF](https://arxiv.org/pdf/2611.02171) |
 | 2026-10-19 | Tactile In-Hand Object Rotation: A Comparative Study of Hand Morphology in Simulation and Hardware | Wenhao He, Max Yang, Chenghua Lu, Yijiong Lin et al. | [Abstract](https://arxiv.org/abs/2610.26759) · [PDF](https://arxiv.org/pdf/2610.26759) |
 | 2026-09-12 | Learning In-Hand Object Reaching to General 6D Poses | Junxiao Lin, Tianyue Wu, Jie Yin, Jia Pan et al. | [Abstract](https://arxiv.org/abs/2609.13761) · [PDF](https://arxiv.org/pdf/2609.13761) |
 | 2026-09-08 | AURORA: Active Uncertainty-Driven Re-Orientation for In-Hand Reconstruction | Feiyu Zhao, Yuetong Li, Chenxi Xiao | [Abstract](https://arxiv.org/abs/2609.08493) · [PDF](https://arxiv.org/pdf/2609.08493) |

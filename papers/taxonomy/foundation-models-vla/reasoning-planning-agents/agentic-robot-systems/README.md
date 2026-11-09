@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=Agentic%20Robot%20Systems#research-workbench)
 
-> 13 conference papers · 198 recent arXiv papers
+> 13 conference papers · 201 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,15 +27,19 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Automatic MILP Model Construction for Multi-Robot Task Allocation and Scheduling Based on Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2503.13813) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246517) |
 | 2025 | AutoMisty: A Multi-Agent LLM Framework for Automated Code Generation in the Misty Social Robot | IROS · Llm | [Paper](https://arxiv.org/abs/2503.06791) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247695) |
 | 2025 | Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation | IROS · Foundation Model | [Paper](https://arxiv.org/pdf/2503.01700) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247174) |
-| 2025 | MALMM: Multi-Agent Large Language Models for Zero-Shot Robotic Manipulation | IROS · Large Language Model | [Paper](https://arxiv.org/abs/2411.17636) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247340) |
+| 2025 | MALMM: Multi-Agent Large Language Models for Zero-Shot Robotic Manipulation | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2411.17636) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247340) |
 | 2024 | Eurekaverse: Environment Curriculum Generation via Large Language Models | CoRL · Large Language Model | [Paper](https://arxiv.org/abs/2411.01775) · [Publisher](https://doi.org/10.48550/arXiv.2411.01775) |
 | 2024 | RoCo: Dialectic Multi-Robot Collaboration with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2307.04738) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610855) |
 | 2024 | Leveraging Large Language Model for Heterogeneous Ad Hoc Teamwork Collaboration | RSS · Large Language Model | [Paper](https://arxiv.org/abs/2406.12224) · [Publisher](https://doi.org/10.48550/arXiv.2406.12224) |
 
-## Recent arXiv papers (198)
+## Recent arXiv papers (201)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-06 | Toward the Era of Agentic Embodied Intelligence | Chao Liang, Ke Chen, Fengxiaoxiao Li, Shibo Huang et al. | [Abstract](https://arxiv.org/abs/2611.09124) · [PDF](https://arxiv.org/pdf/2611.09124) |
+| 2026-11-03 | LLMs as MDP Designers: A Dependency-Aware Agentic Framework for Automated Robot Policy Generation | Hong Je-Gal, Jinwoo Kim, Chanbin Yi, Hyun-Suk Lee | [Abstract](https://arxiv.org/abs/2611.04974) · [PDF](https://arxiv.org/pdf/2611.04974) |
+| 2026-11-03 | Do Agentic Policies Need to Look at Every Step? Geometric Abstraction for Reasoning and Action | Yihang Liu, Yiming Chen, Mingzhe Zheng | [Abstract](https://arxiv.org/abs/2611.05058) · [PDF](https://arxiv.org/pdf/2611.05058) |
+| 2026-11-02 | Late Autumn: LLM Agents Specialize a General Multi-Robot Planner for One Warehouse | Yimin Tang, Han Zhang, Shao-Hung Chan, Erdem Bıyık et al. | [Abstract](https://arxiv.org/abs/2611.02391) · [PDF](https://arxiv.org/pdf/2611.02391) |
 | 2026-10-29 | The Athlete as a Scientist of One: Agentic Bayesian Experimental Design for Individualized Physiology from Consumer Wearables | Behnam Moradi | [Abstract](https://arxiv.org/abs/2610.40370) · [PDF](https://arxiv.org/pdf/2610.40370) |
 | 2026-10-29 | Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense | Khawaja Abaid Ullah, Ananya Acharya, Mohammad Javad Khojasteh | [Abstract](https://arxiv.org/abs/2610.41044) · [PDF](https://arxiv.org/pdf/2610.41044) |
 | 2026-10-26 | RobotAgentBench: Towards Open-world Robot Autonomy | Lingjun Mao, Jinglin Cao, Lukun He, Wenpeng Xu et al. | [Abstract](https://arxiv.org/abs/2610.34649) · [PDF](https://arxiv.org/pdf/2610.34649) |
@@ -233,7 +237,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-14 | LLM-MARS: Large Language Model for Behavior Tree Generation and NLP-enhanced Dialogue in Multi-Agent Robot Systems | Artem Lykov, Maria Dronova, Nikolay Naglov, Mikhail Litvinov et al. | [Abstract](https://arxiv.org/abs/2312.09348) · [PDF](https://arxiv.org/pdf/2312.09348) |
 | 2023-12-08 | Vision-based Learning for Drones: A Survey | Jiaping Xiao, Rangya Zhang, Yuhang Zhang, Mir Feroskhan | [Abstract](https://arxiv.org/abs/2312.05019) · [PDF](https://arxiv.org/pdf/2312.05019) |
 | 2023-11-20 | Multi-Agent Strategy Explanations for Human-Robot Collaboration | Ravi Pandya, Michelle Zhao, Changliu Liu, Reid Simmons et al. | [Abstract](https://arxiv.org/abs/2311.11955) · [PDF](https://arxiv.org/pdf/2311.11955) |
-| 2023-11-02 | ProAgent: From Robotic Process Automation to Agentic Process Automation | Yining Ye, Xin Cong, Shizuo Tian, Jiannan Cao et al. | [Abstract](https://arxiv.org/abs/2311.10751) · [PDF](https://arxiv.org/pdf/2311.10751) |
 
 ---
 

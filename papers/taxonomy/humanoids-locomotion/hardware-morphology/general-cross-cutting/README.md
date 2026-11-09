@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Hardware%20%26%20Morphology&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 4 conference papers · 16 recent arXiv papers
+> 4 conference papers · 15 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,7 +23,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | MMIC-I: A Robotic Platform for Assembly Integration and Internal Locomotion through Mechanical Meta-Material Structures | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161263) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161263) |
 | 2022 | Torque-Actuated Multimodal Locomotion of Ferrofluid Robot With Environment and Task Adaptability | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9981041) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981041) |
 
-## Recent arXiv papers (16)
+## Recent arXiv papers (15)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -42,7 +42,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-09-08 | CARDinality: Interactive Card-shaped Robots with Locomotion and Haptics using Vibration | Aditya Retnanto, Emilie Faracci, Anup Sathya, Yukai Hung et al. | [Abstract](https://arxiv.org/abs/2409.05203) · [PDF](https://arxiv.org/pdf/2409.05203) |
 | 2024-09-02 | Upgrading Pepper Robot s Social Interaction with Advanced Hardware and Perception Enhancements | Paolo Magri, Javad Amirian, Mohamed Chetouani | [Abstract](https://arxiv.org/abs/2409.01036) · [PDF](https://arxiv.org/pdf/2409.01036) |
 | 2024-06-28 | Text2Robot: Evolutionary Robot Design from Text Descriptions | Ryan P. Ringel, Zachary S. Charlick, Jiaxun Liu, Boxi Xia et al. | [Abstract](https://arxiv.org/abs/2406.19963) · [PDF](https://arxiv.org/pdf/2406.19963) |
-| 2023-11-06 | CarbonFish -- A Bistable Underactuated Compliant Fish Robot capable of High Frequency Undulation | Zechen Xiong, Zihan Guo, Mark Liu, Jialong Ning et al. | [Abstract](https://arxiv.org/abs/2311.03223) · [PDF](https://arxiv.org/pdf/2311.03223) |
 
 ---
 

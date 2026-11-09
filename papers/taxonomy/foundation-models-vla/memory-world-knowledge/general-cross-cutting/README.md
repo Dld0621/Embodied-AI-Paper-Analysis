@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Memory%20%26%20World%20Knowledge&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 6 conference papers · 140 recent arXiv papers
+> 7 conference papers · 144 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,21 +14,26 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (6)
+## Conference papers (7)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2026 | Notes-to-Self: Scratchpad Augmented VLAs for Memory Dependent Manipulation Tasks | ICRA · Vla | [Paper](https://arxiv.org/pdf/2602.21013) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696758) |
-| 2025 | GRACE: Generating Socially Appropriate Robot Actions Leveraging LLMs and Human Explanations | ICRA · Llm | [Paper](https://repository.bilkent.edu.tr/bitstreams/88e30304-4676-49b3-bd3c-2fbc3703eab2/download) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127826) |
+| 2025 | Affordance Field Intervention: Enabling VLAs to Escape Memory Traps in Robotic Manipulation | CVPR · Vla | [Paper](https://arxiv.org/abs/2512.07472) · [Publisher](https://doi.org/10.48550/arXiv.2512.07472) |
+| 2025 | GRACE: Generating Socially Appropriate Robot Actions Leveraging LLMs and Human Explanations | ICRA · Llm | [Paper](https://arxiv.org/pdf/2409.16879) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127826) |
 | 2025 | Building Knowledge from Interactions: An LLM-Based Architecture for Adaptive Tutoring and Social Reasoning | IROS · Llm | [Paper](https://arxiv.org/abs/2504.01588) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246882) |
 | 2025 | ContextCache: Task-Aware Lifecycle Management for Memory-Efficient LLM Agent Deployment | IROS · Llm | [Paper](https://doi.org/10.1109/IROS60139.2025.11247595) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247595) |
 | 2024 | Learning Reward for Robot Skills Using Large Language Models via Self-Alignment | ICML · Large Language Model | [Paper](https://arxiv.org/abs/2405.07162) · [Publisher](https://doi.org/10.48550/arXiv.2405.07162) |
 | 2024 | SiSCo: Signal Synthesis for Effective Human-Robot Communication Via Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2409.13927) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802561) |
 
-## Recent arXiv papers (140)
+## Recent arXiv papers (144)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-05 | GuidedWAM: Training-Free Energy Guidance for World Action Models in Autonomous Driving | Xiyan Su, Finn Rasmus Schäfer, Hojun Lim, Frank Diermeyer et al. | [Abstract](https://arxiv.org/abs/2611.07912) · [PDF](https://arxiv.org/pdf/2611.07912) |
+| 2026-11-03 | Future Representation Distillation for Imagination-free World Action Models | Jaehyeong Jo, Sangwon Jang, Sihyun Yu, Seonghyeon Ye et al. | [Abstract](https://arxiv.org/abs/2611.04527) · [PDF](https://arxiv.org/pdf/2611.04527) |
+| 2026-11-02 | Seeing Through the Illusion: Test-Time Scaling for World Action Models | Cheikh Ahmed, Mahdi Mostajabdaveh, Milad Yazdani, Zirui Zhou | [Abstract](https://arxiv.org/abs/2611.03585) · [PDF](https://arxiv.org/pdf/2611.03585) |
+| 2026-10-30 | When Does Test-Time Search Help World Action Models? An Empirical Audit of Candidate Selection and Simulator Integrity | Jun Liu, Dajie Sun, Zhenglun Kong, Zhenjiang Fan et al. | [Abstract](https://arxiv.org/abs/2610.41970) · [PDF](https://arxiv.org/pdf/2610.41970) |
 | 2026-10-30 | CausalWAM: Learning the Causes of Actions in World Action Models | Juntao Cheng, Jinzhou Tang, Fan Feng, Henrik I. Christensen et al. | [Abstract](https://arxiv.org/abs/2610.42096) · [PDF](https://arxiv.org/pdf/2610.42096) |
 | 2026-10-29 | PASA-KV: Attacking Action-Facing Visual Routes in World Action Models | Zhongbo Wu, Jiakai Huang, Zheng Zhang, Siyu Xu et al. | [Abstract](https://arxiv.org/abs/2610.39816) · [PDF](https://arxiv.org/pdf/2610.39816) |
 | 2026-10-27 | Trace-WAM: Learning to Act via 3D Motion Prediction for World Action Models | Xu Hu, Changjie Wu, Linzhe Shi, Hang Zhang et al. | [Abstract](https://arxiv.org/abs/2610.36840) · [PDF](https://arxiv.org/pdf/2610.36840) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Contact-rich%20%26%20Deformable%20Manipulation&specialty=Cloth%2C%20Rope%20%26%20Soft%20Objects#research-workbench)
 
-> 39 conference papers · 133 recent arXiv papers
+> 40 conference papers · 134 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,12 +14,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (39)
+## Conference papers (40)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Adaptive Curvature-Aware Routing for Stiff Cable Control via dual manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696283) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696283) |
-| 2026 | Dual Quaternion based Compliant Movement Primitives for Deformable Object Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695696) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695696) |
+| 2026 | GraspALL: Adaptive Structural Compensation from Illumination Variation for Robotic Garment Grasping in Any Low-Light Conditions | CVPR · Grasp | [Paper](https://arxiv.org/abs/2603.14789) · [Publisher](https://doi.org/10.48550/arXiv.2603.14789) |
+| 2026 | Adaptive Curvature-Aware Routing for Stiff Cable Control via dual manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11696283) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696283) |
+| 2026 | Dual Quaternion based Compliant Movement Primitives for Deformable Object Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11695696) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695696) |
 | 2026 | TacUMI: A Multi-Modal Universal Manipulation Interface for Contact-Rich Tasks | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2601.14550) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695727) |
 | 2026 | ViTac-Tracing: Visual-Tactile Imitation Learning of Deformable Object Tracing | ICRA · Imitation Learning | [Paper](https://kclpure.kcl.ac.uk/portal/en/publications/8988765e-25f9-4aad-add9-4ee50d6fdf56) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695932) |
 | 2025 | Geometry-aware RL for Manipulation of Varying Shapes and Deformable Objects | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2502.07005) · [Publisher](https://doi.org/10.48550/arXiv.2502.07005) |
@@ -58,10 +59,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Reactive Motion Planning for Rope Manipulation and Collision Avoidance using Aerial Robots | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981658) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981658) |
 | 2022 | Mesh-based Dynamics with Occlusion Reasoning for Cloth Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/pdf/2206.02881) · [Publisher](https://doi.org/10.48550/arXiv.2206.02881) |
 
-## Recent arXiv papers (133)
+## Recent arXiv papers (134)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-02 | Self-Consistent Neural Control: Learning Trajectories for Implicit Equilibrium | Hengyi Zhou, Haobo Fang, Xiaonan Huang, Dezhong Tong et al. | [Abstract](https://arxiv.org/abs/2611.03885) · [PDF](https://arxiv.org/pdf/2611.03885) |
+| 2026-11-02 | A Tutorial on Shape Servoing of Deformable Objects-Part II: Advanced Concepts | Ignacio Cuiral-Zueco, Alessio Caporali, Miguel Aranda, Gianluca Palli et al. | [Abstract](https://arxiv.org/abs/2611.03825) · [PDF](https://arxiv.org/pdf/2611.03825) |
 | 2026-10-30 | Suspended-Fabric Robotic Manipulation Surfaces: Modelling, Design Space, and Multimodular Extensio | Pratik Ingle, Jørn Lambertsen, Kasper Støy, Andres Faiña | [Abstract](https://arxiv.org/abs/2610.41982) · [PDF](https://arxiv.org/pdf/2610.41982) |
 | 2026-10-29 | A Tutorial on Shape Servoing of Deformable Objects-Part I: Fundamentals | Ignacio Cuiral-Zueco, Alessio Caporali, Miguel Aranda, Gianluca Palli et al. | [Abstract](https://arxiv.org/abs/2610.40559) · [PDF](https://arxiv.org/pdf/2610.40559) |
 | 2026-10-26 | The Language of Deformation: Semantic Failure Analysis as a Prerequisite for Dexterous Manipulation of Deformable Objects | Ignacio Cuiral-Zueco, David Hardman, Michele Pierallini, Erfan Shahriari | [Abstract](https://arxiv.org/abs/2610.35103) · [PDF](https://arxiv.org/pdf/2610.35103) |
@@ -194,7 +197,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-30 | DeformGS: Scene Flow in Highly Deformable Scenes for Deformable Object Manipulation | Bardienus P. Duisterhof, Zhao Mandi, Yunchao Yao, Jia-Wei Liu et al. | [Abstract](https://arxiv.org/abs/2312.00583) · [PDF](https://arxiv.org/pdf/2312.00583) |
 | 2023-11-16 | Enhancing Deformable Object Manipulation By Using Interactive Perception and Assistive Tools | Peng Zhou | [Abstract](https://arxiv.org/abs/2311.09659) · [PDF](https://arxiv.org/pdf/2311.09659) |
 | 2023-11-09 | Differentiable Cloth Parameter Identification and State Estimation in Manipulation | Dongzhe Zheng, Siqiong Yao, Wenqiang Xu, Cewu Lu | [Abstract](https://arxiv.org/abs/2311.05141) · [PDF](https://arxiv.org/pdf/2311.05141) |
-| 2023-11-05 | Make a Donut: Hierarchical EMD-Space Planning for Zero-Shot Deformable Manipulation with Tools | Yang You, Bokui Shen, Congyue Deng, Haoran Geng et al. | [Abstract](https://arxiv.org/abs/2311.02787) · [PDF](https://arxiv.org/pdf/2311.02787) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Training%20Infrastructure%20%26%20Tools&specialty=Open-source%20Libraries%20%26%20Toolkits#research-workbench)
 
-> 1 conference papers · 47 recent arXiv papers
+> 1 conference papers · 48 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2024 | CloudGripper: An Open Source Cloud Robotics Testbed for Robotic Manipulation Research, Benchmarking and Data Collection at Scale | ICRA · Benchmark | [Paper](https://arxiv.org/pdf/2309.12786) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611548) |
 
-## Recent arXiv papers (47)
+## Recent arXiv papers (48)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-02 | KlaskTron: An Open-Source Platform for Physical Adversarial Multi-Agent RL | Aswin Ramachandran, Jona Schulz, Maurus Derungs, Carlo Angelini et al. | [Abstract](https://arxiv.org/abs/2611.03138) · [PDF](https://arxiv.org/pdf/2611.03138) |
 | 2026-10-30 | OpenVIO: A Versatile Open-Source Visual-Inertial Odometry System | Seungwon Choi | [Abstract](https://arxiv.org/abs/2610.41671) · [PDF](https://arxiv.org/pdf/2610.41671) |
 | 2026-10-26 | Distributed Predictive Flocking for a Swarm of Miniature Vibration-Driven Robots in a Confined Arena | Prajol Shrestha, Siddhant Mohapatra, Filip Novkoski, Julian Oelhaf et al. | [Abstract](https://arxiv.org/abs/2610.35582) · [PDF](https://arxiv.org/pdf/2610.35582) |
 | 2026-10-05 | An Autonomous, 3D Printed, Waterjet-Powered, Open-Source Robotic Trimaran for Environmental Inspection and Monitoring | Reuben O'Brien, Martin Lambrechtse-Reid, Minas Liarokapis | [Abstract](https://arxiv.org/abs/2610.07398) · [PDF](https://arxiv.org/pdf/2610.07398) |

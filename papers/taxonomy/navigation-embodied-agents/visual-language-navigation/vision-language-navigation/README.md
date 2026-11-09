@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Visual%20%26%20Language%20Navigation&specialty=Vision-language%20Navigation#research-workbench)
 
-> 9 conference papers · 130 recent arXiv papers
+> 10 conference papers · 130 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,7 +14,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (9)
+## Conference papers (10)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -22,6 +22,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026 | LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2510.19655) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696861) |
 | 2026 | SFCo-Nav: Efficient Zero-Shot Visual Language Navigation via Collaboration of Slow LLM and Fast Attributed Graph Alignment | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2603.01477) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697553) |
 | 2026 | SINGER: An Onboard Generalist Vision-Language Navigation Policy for Drones | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2509.18610) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697135) |
+| 2025 | OmniNav: A Unified Framework for Prospective Exploration and Visual-Language Navigation | ICLR · Navigation | [Paper](https://arxiv.org/abs/2509.25687) · [Publisher](https://doi.org/10.48550/arXiv.2509.25687) |
 | 2025 | Active Test-time Vision-Language Navigation | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2506.06630) · [Publisher](https://doi.org/10.48550/arXiv.2506.06630) |
 | 2024 | Discuss Before Moving: Visual Language Navigation via Multi-expert Discussions | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2309.11382) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611565) |
 | 2024 | Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems | IROS · Navigation | [Paper](https://arxiv.org/pdf/2407.07392) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802618) |
@@ -37,7 +38,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-10-19 | Revealing and Bridging the Physical Executability Gap in Vision-Language Navigation | Gang He, Zhile Cheng, Kepeng Xu, Zhenyang Liu et al. | [Abstract](https://arxiv.org/abs/2610.25687) · [PDF](https://arxiv.org/pdf/2610.25687) |
 | 2026-10-16 | SimpleVLN: Towards Simple and Frontier Vision-Language Navigation | Lingyi Hong, Weiren Cai, Jiayu Chen, Xinyu Zhou et al. | [Abstract](https://arxiv.org/abs/2610.23203) · [PDF](https://arxiv.org/pdf/2610.23203) |
 | 2026-10-16 | PASS-VLN: Passability-Aware Local-Command Vision-and-Language Navigation | Cong Zou, Xiangsheng Shi, Xuanhui Wang, Fubin Wang et al. | [Abstract](https://arxiv.org/abs/2610.22812) · [PDF](https://arxiv.org/pdf/2610.22812) |
-| 2026-10-15 | X-Fly: Learning to Reach and Stop in Full-Chunk Aerial Vision-Language Navigation | Ruibin Ju, Ruifeng Cai, Min Xu, Lin Wang | [Abstract](https://arxiv.org/abs/2610.21450) · [PDF](https://arxiv.org/pdf/2610.21450) |
+| 2026-10-15 | X-Fly: Learning to Reach and Stop in Full-Chunk Aerial Vision-Language Navigation | Ruibin Ju, Ruifeng Cai, Min Xu, Zhuojie Chen et al. | [Abstract](https://arxiv.org/abs/2610.21450) · [PDF](https://arxiv.org/pdf/2610.21450) |
 | 2026-10-13 | MemoryVLN: From Ego-Aware Memory Representation to Cross-Context Memory Reuse in Vision-Language Navigation | Xueyao Wei, Yifei Wang, Delun Li, Shaoan Wang et al. | [Abstract](https://arxiv.org/abs/2610.18478) · [PDF](https://arxiv.org/pdf/2610.18478) |
 | 2026-10-05 | Sim-to-Real Transfer of Vision-Language Navigation in Continuous Environments Using an Ackermann-Steered Mobile Robot | Chalindu Abeywansa, Sahan Gunasekara, Devindi De Silva, Seniru Dissanayake et al. | [Abstract](https://arxiv.org/abs/2610.07192) · [PDF](https://arxiv.org/pdf/2610.07192) |
 | 2026-10-02 | GeoScaffold: Learning Compact Geometric Latents via Reconstruction for Efficient Vision-Language Navigation | Yixuan Jiang, Wentong Li, An Liu, Zihao Xin et al. | [Abstract](https://arxiv.org/abs/2610.02697) · [PDF](https://arxiv.org/pdf/2610.02697) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Visual%20%26%20Language%20Navigation&specialty=Object-goal%20%26%20Semantic%20Navigation#research-workbench)
 
-> 11 conference papers · 58 recent arXiv papers
+> 12 conference papers · 58 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,13 +14,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (11)
+## Conference papers (12)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2026 | CLUE: Adaptively Prioritized Contextual Cues by Leveraging a Unified Semantic Map for Effective Zero-Shot Object-Goal Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2605.19206) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697331) |
 | 2026 | RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Visual Contextual Adaptation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2512.24212) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696276) |
 | 2026 | SurveilNav: Collaborative Object Goal Navigation with Robot and Surveillance System | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2606.25119) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697410) |
+| 2025 | What Matters in RL-Based Methods for Object-Goal Navigation? An Empirical Study and A Unified Framework | ECCV · Navigation | [Paper](https://arxiv.org/abs/2510.01830) · [Publisher](https://doi.org/10.48550/arXiv.2510.01830) |
 | 2025 | Dynamic Object Goal Pushing with Mobile Manipulators Through Model-Free Constrained Reinforcement Learning | ICRA · Object Goal | [Paper](https://arxiv.org/pdf/2502.01546) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128166) |
 | 2025 | Advancing Object-Goal Navigation through LLM-enhanced Object Affinities Transfer | IROS · Navigation | [Paper](https://arxiv.org/pdf/2403.09971) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247308) |
 | 2024 | VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2312.03275) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610712) |

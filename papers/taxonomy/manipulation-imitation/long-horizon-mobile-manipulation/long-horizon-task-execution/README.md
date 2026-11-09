@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=Long-horizon%20Task%20Execution#research-workbench)
 
-> 19 conference papers · 194 recent arXiv papers
+> 23 conference papers · 195 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (19)
+## Conference papers (23)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation | CVPR · Manipulation | [Paper](https://arxiv.org/abs/2601.07060) · [Publisher](https://doi.org/10.48550/arXiv.2601.07060) |
+| 2026 | From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation | ECCV · Manipulation | [Paper](https://arxiv.org/abs/2603.15600) · [Publisher](https://doi.org/10.48550/arXiv.2603.15600) |
+| 2026 | Trajectory-Level Continuous Action Representation for Robotic Manipulation | ECCV · Manipulation | [Paper](https://arxiv.org/pdf/2608.24111) · [Publisher](https://doi.org/10.1007/978-3-032-37369-4_24) |
+| 2026 | SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2509.25358) · [Publisher](https://doi.org/10.48550/arXiv.2509.25358) |
 | 2026 | COMPASS: Confined-space Manipulation Planning with Active Sensing Strategy | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2509.14787) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697396) |
 | 2026 | GeoLanG: Geometry-Aware Language-Guided Grasping with Unified RGB-D Multimodal Learning | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2602.04231) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696203) |
 | 2026 | Mixed-Initiative Dialog for Human-Robot Collaborative Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2508.05535) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696000) |
@@ -35,13 +39,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | SCaR: Refining Skill Chaining for Long-Horizon Robotic Manipulation via Dual Regularization | NeurIPS · Manipulation | [Paper](https://doi.org/10.52202/079017-3547) · [Publisher](https://doi.org/10.52202/079017-3547) |
 | 2023 | RoboCook: Long-Horizon Elasto-Plastic Object Manipulation with Diverse Tools | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2306.14447) · [Publisher](https://doi.org/10.48550/arXiv.2306.14447) |
 | 2023 | Structured Motion Generation with Predictive Learning: Proposing Subgoal for Long-Horizon Manipulation | ICRA · Manipulation | [Paper](https://www.research.ed.ac.uk/files/330016610/Structured_Motion_SAITO_DOA02032023_AFV_CC_BY.pdf) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161046) |
-| 2022 | Learning Multi-step Robotic Manipulation Policies from Visual Observation of Scene and Q-value Predictions of Previous Action | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2202.11280) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812251) |
+| 2022 | Learning Multi-step Robotic Manipulation Policies from Visual Observation of Scene and Q-value Predictions of Previous Action | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2202.11280) · [Publisher](https://doi.org/10.48550/arXiv.2202.11280) |
 | 2022 | Relationship Oriented Semantic Scene Understanding for Daily Manipulation Tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981960) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981960) |
 
-## Recent arXiv papers (194)
+## Recent arXiv papers (195)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-02 | FineCraft: Enhancing VLA Models for Fine-Grained Manipulation | Shuaike Zhang, Ziheng Quan, Junhao Ran, Muhe Ding et al. | [Abstract](https://arxiv.org/abs/2611.03163) · [PDF](https://arxiv.org/pdf/2611.03163) |
+| 2026-11-02 | AIRoA-0: Long-Horizon, Precise, Cross-Embodiment Manipulation from Handheld Data | Yueh-Hua Wu, Kei Ota, Hanlong Li, Hayata Yuasa et al. | [Abstract](https://arxiv.org/abs/2611.03815) · [PDF](https://arxiv.org/pdf/2611.03815) |
 | 2026-10-29 | SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors | Fnu Aryan, Yaqi Xie, Joseph Campbell, Woojun Kim et al. | [Abstract](https://arxiv.org/abs/2610.40632) · [PDF](https://arxiv.org/pdf/2610.40632) |
 | 2026-10-29 | DAWN: Diffusion-based Alignment and unfastening Workflow Network | Hemant Kumar, Piyush Goenka, Nikhil Chopra | [Abstract](https://arxiv.org/abs/2610.40537) · [PDF](https://arxiv.org/pdf/2610.40537) |
 | 2026-10-25 | I Won't Know Until I Try: Interactive Information Gathering for Long-Horizon Manipulation | Linfei Yuan, Rachel Holladay | [Abstract](https://arxiv.org/abs/2610.33959) · [PDF](https://arxiv.org/pdf/2610.33959) |
@@ -235,7 +241,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-19 | LHManip: A Dataset for Long-Horizon Language-Grounded Manipulation Tasks in Cluttered Tabletop Environments | Federico Ceola, Lorenzo Natale, Niko Sünderhauf, Krishan Rana | [Abstract](https://arxiv.org/abs/2312.12036) · [PDF](https://arxiv.org/pdf/2312.12036) |
 | 2023-12-14 | Detecting Grasping Sites in a Martian Lava Tube: Multi-Stage Perception Trade Study for ReachBot | Julia Di | [Abstract](https://arxiv.org/abs/2312.09302) · [PDF](https://arxiv.org/pdf/2312.09302) |
 | 2023-12-04 | I-PHYRE: Interactive Physical Reasoning | Shiqian Li, Kewen Wu, Chi Zhang, Yixin Zhu | [Abstract](https://arxiv.org/abs/2312.03009) · [PDF](https://arxiv.org/pdf/2312.03009) |
-| 2023-11-02 | NOD-TAMP: Generalizable Long-Horizon Planning with Neural Object Descriptors | Shuo Cheng, Caelan Garrett, Ajay Mandlekar, Danfei Xu | [Abstract](https://arxiv.org/abs/2311.01530) · [PDF](https://arxiv.org/pdf/2311.01530) |
 
 ---
 

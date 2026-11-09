@@ -31,10 +31,10 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | A Large-area Tactile Sensor for Distributed Force Sensing Using Highly Sensitive Piezoresistive Sponge | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610739) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610739) |
 | 2024 | Optimizing Multi-Touch Textile and Tactile Skin Sensing Through Circuit Parameter Estimation | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2404.15131) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610053) |
 | 2024 | STNet: Spatio-Temporal Fusion-Based SelfAttention for Slip Detection in Visuo-Tactile Sensors | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610734) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610734) |
-| 2024 | 3D Localization of Objects Buried within Granular Material Using a Distributed 3-Axis Tactile Sensor | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS58592.2024.10802276) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802276) |
+| 2024 | 3D Localization of Objects Buried within Granular Material Using a Distributed 3-Axis Tactile Sensor | IROS · Tactile | [Paper](https://qmro.qmul.ac.uk/xmlui/bitstream/123456789/99429/4/Chen%203D%20Localization%20of%20Objects%202024%20Accepted.pdf) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802276) |
 | 2024 | Multidirectional slip detection and avoidance using dynamic 3D tactile meshes from visuotactile sensors | IROS · Tactile | [Paper](https://hal.science/hal-05410157/document) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802378) |
-| 2023 | DenseTact 2.0: Optical Tactile Sensor for Shape and Force Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/abs/2209.10122) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161150) |
-| 2023 | RobotSweater: Scalable, Generalizable, and Customizable Machine-Knitted Tactile Skins for Robots | ICRA · Tactile | [Paper](https://arxiv.org/abs/2303.02858) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161321) |
+| 2023 | DenseTact 2.0: Optical Tactile Sensor for Shape and Force Reconstruction | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2209.10122) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161150) |
+| 2023 | RobotSweater: Scalable, Generalizable, and Customizable Machine-Knitted Tactile Skins for Robots | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2303.02858) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161321) |
 
 ## Recent arXiv papers (17)
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=Task-and-motion%20Planning#research-workbench)
 
-> 8 conference papers · 19 recent arXiv papers
+> 8 conference papers · 20 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,10 +27,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Simultaneous Action and Grasp Feasibility Prediction for Task and Motion Planning Through Multi-Task Learning | IROS · Grasp | [Paper](https://laas.hal.science/hal-04016581v1/file/IROS2023sub_AGFP-NET.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341257) |
 | 2023 | Spatial Reasoning via Deep Vision Models for Robotic Sequential Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2306.17053) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342010) |
 
-## Recent arXiv papers (19)
+## Recent arXiv papers (20)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-30 | Scaling Trusted Autonomy: Towards Generally Capable Verifiable Robots | Benedict Quartey | [Abstract](https://arxiv.org/abs/2611.00158) · [PDF](https://arxiv.org/pdf/2611.00158) |
 | 2026-10-14 | Dual-arm Cooperation for Tabletop Wiping with Temporal Object Removal | Pengqi Zhang, Longchang Yu, Daohan Li, Liang Yan et al. | [Abstract](https://arxiv.org/abs/2610.19527) · [PDF](https://arxiv.org/pdf/2610.19527) |
 | 2026-09-21 | MIGU: Multimodal Instruction Grounding under Uncertainty for Manipulation Planning | Mingke Lu, Anxing Xiao, David Hsu | [Abstract](https://arxiv.org/abs/2609.24995) · [PDF](https://arxiv.org/pdf/2609.24995) |
 | 2026-08-28 | Deciding If, When, and Where to Replan for Robust Manipulation | Narendhiran Vijayakumar, Puru Ojha, Nav Singhal, Girish Varma et al. | [Abstract](https://arxiv.org/abs/2608.28075) · [PDF](https://arxiv.org/pdf/2608.28075) |

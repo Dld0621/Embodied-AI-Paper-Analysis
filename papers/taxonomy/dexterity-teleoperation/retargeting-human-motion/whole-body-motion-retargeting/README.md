@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Retargeting%20%26%20Human%20Motion&specialty=Whole-body%20%26%20Motion%20Retargeting#research-workbench)
 
-> 5 conference papers · 31 recent arXiv papers
+> 5 conference papers · 32 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Redefining Data Pairing for Motion Retargeting Leveraging a Human Body Prior | IROS · Retargeting | [Paper](https://arxiv.org/pdf/2409.13208) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801789) |
 | 2023 | Robust Real-Time Motion Retargeting via Neural Latent Prediction | IROS · Retargeting | [Paper](https://doi.org/10.1109/IROS55552.2023.10342022) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342022) |
 
-## Recent arXiv papers (31)
+## Recent arXiv papers (32)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-03 | GRASP: Gradient-Guided Sampling for Contact-Rich Physics-Based Motion Retargeting | Yang Liu, Tong Wang, Yiming Bao, Heng Yang | [Abstract](https://arxiv.org/abs/2611.05754) · [PDF](https://arxiv.org/pdf/2611.05754) |
 | 2026-10-30 | Geometry-Aware Humanoid Retargeting via Manifold ODEs | Pengyu Zhu, Heye Wang, Xi Wang, Xuyang Wu et al. | [Abstract](https://arxiv.org/abs/2610.41349) · [PDF](https://arxiv.org/pdf/2610.41349) |
 | 2026-10-27 | An Empirical Study of Wrist-Target Construction and Joint-Angle Limits in Humanoid Arm Retargeting | MinJun Chang | [Abstract](https://arxiv.org/abs/2610.37801) · [PDF](https://arxiv.org/pdf/2610.37801) |
 | 2026-10-21 | SMR: Learning streaming motion retargeting for humanoids from human semantic | Chun Gu, Juntong Zhang, Jingyu Li, Li Zhang | [Abstract](https://arxiv.org/abs/2610.29169) · [PDF](https://arxiv.org/pdf/2610.29169) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engines&specialty=Synthetic%20Data%20Generation#research-workbench)
 
-> 7 conference papers · 128 recent arXiv papers
+> 8 conference papers · 129 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,19 +14,20 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (7)
+## Conference papers (8)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Video2Robo: 3DGS-based Synthetic Data from One Video Enables Scalable Robot Learning | CVPR · Synthetic Data | [Paper](https://www.semanticscholar.org/paper/69ce1f1f7d6799a7dcd2c34ab7868ce499f41f28) · [Index](https://dblp.org/rec/conf/cvpr/DengHCDWZAYY26) |
 | 2025 | Domain Randomization for Object Detection in Manufacturing Applications Using Synthetic Data: A Comprehensive Study | ICRA · Synthetic Data | [Paper](https://arxiv.org/pdf/2506.07539) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128647) |
 | 2025 | Category-Level 6D Object Pose Estimation in Agricultural Settings Using a Lattice-Deformation Framework and Diffusion-Augmented Synthetic Data | IROS · Synthetic Data | [Paper](https://arxiv.org/pdf/2505.24636) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247523) |
-| 2025 | Synthetica: Large Scale Synthetic Data Generation for Robot Perception | IROS · Synthetic Data | [Paper](https://arxiv.org/abs/2410.21153) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247126) |
+| 2025 | Synthetica: Large Scale Synthetic Data Generation for Robot Perception | IROS · Synthetic Data | [Paper](https://arxiv.org/pdf/2410.21153) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247126) |
 | 2024 | SynthAct: Towards Generalizable Human Action Recognition based on Synthetic Data | ICRA · Synthetic Data | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611486) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611486) |
 | 2023 | MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations | CoRL · Demonstration generation | [Paper](https://arxiv.org/abs/2310.17596) · [Official](https://proceedings.mlr.press/v229/) · [Code](https://github.com/NVlabs/mimicgen) |
 | 2023 | MIMIR-UW: A Multipurpose Synthetic Dataset for Underwater Navigation and Inspection | IROS · Synthetic Data | [Paper](https://doi.org/10.1109/IROS55552.2023.10341436) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341436) |
-| 2022 | ParaPose: Parameter and Domain Randomization Optimization for Pose Estimation using Synthetic Data | IROS · Synthetic Data | [Paper](https://findresearcher.sdu.dk/ws/files/220065804/parapose.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981511) |
+| 2022 | ParaPose: Parameter and Domain Randomization Optimization for Pose Estimation using Synthetic Data | IROS · Synthetic Data | [Paper](https://arxiv.org/pdf/2203.00945) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981511) |
 
-## Recent arXiv papers (128)
+## Recent arXiv papers (129)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -75,6 +76,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-03-09 | Seed2Scale: A Self-Evolving Data Engine with Parallel Worlds Expansion for Scalable Robot Learning | Cong Tai, Zhaoyu Zheng, Haixu Long, Hansheng Wu et al. | [Abstract](https://arxiv.org/abs/2603.08260) · [PDF](https://arxiv.org/pdf/2603.08260) |
 | 2026-03-09 | Real-Time Monocular Scene Analysis for UAV in Outdoor Environments | Yara AlaaEldin | [Abstract](https://arxiv.org/abs/2603.13368) · [PDF](https://arxiv.org/pdf/2603.13368) |
 | 2026-02-24 | Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones | Rong Zou, Marco Cannici, Davide Scaramuzza | [Abstract](https://arxiv.org/abs/2602.21101) · [PDF](https://arxiv.org/pdf/2602.21101) |
+| 2026-02-21 | RoboCurate: Harnessing Diversity with Action-Verified Synthetic Data for Robot Learning | Seungku Kim, Suhyeok Jang, Byungjun Yoon, Dongyoung Kim et al. | [Abstract](https://arxiv.org/abs/2602.18742) · [PDF](https://arxiv.org/pdf/2602.18742) |
 | 2026-02-21 | LaS-Comp: Zero-shot 3D Completion with Latent-Spatial Consistency | Weilong Yan, Haipeng Li, Hao Xu, Nianjin Ye et al. | [Abstract](https://arxiv.org/abs/2602.18735) · [PDF](https://arxiv.org/pdf/2602.18735) |
 | 2026-02-12 | Scene2Demo: Self-Evolving Embodied Data Generation via Object-Action Graph | Xiang Liu, Sen Cui, Guocai Yao, Zhong Cao et al. | [Abstract](https://arxiv.org/abs/2602.12065) · [PDF](https://arxiv.org/pdf/2602.12065) |
 | 2026-02-09 | Informative Object-centric Next Best View for Object-aware 3D Gaussian Splatting in Cluttered Scenes | Seunghoon Jeong, Eunho Lee, Jeongyun Kim, Ayoung Kim | [Abstract](https://arxiv.org/abs/2602.08266) · [PDF](https://arxiv.org/pdf/2602.08266) |

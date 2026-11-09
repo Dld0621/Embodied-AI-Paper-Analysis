@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Humanoid%20Whole-body%20Control&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 135 conference papers · 693 recent arXiv papers
+> 139 conference papers · 706 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,11 +14,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (135)
+## Conference papers (139)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Blinking Into Emotion: How Context and LED Frequency Shape Non-Humanoid Robots’ Emotional Transparency | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696710) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696710) |
+| 2026 | Do You Have Freestyle? Expressive Humanoid Locomotion via Audio Control | CVPR · Humanoid | [Paper](https://arxiv.org/abs/2512.23650) · [Publisher](https://doi.org/10.48550/arXiv.2512.23650) |
+| 2026 | Scalable Trajectory Generation for Whole-Body Mobile Manipulation | CVPR · Whole Body | [Paper](https://arxiv.org/abs/2604.12565) · [Publisher](https://doi.org/10.48550/arXiv.2604.12565) |
+| 2026 | From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance | ICLR · Humanoid | [Paper](https://arxiv.org/abs/2510.14952) · [Publisher](https://doi.org/10.48550/arXiv.2510.14952) |
+| 2026 | Towards Bridging the Gap between Large-Scale Pretraining and Efficient Finetuning for Humanoid Control | ICLR · Humanoid | [Paper](https://arxiv.org/abs/2601.21363) · [Publisher](https://doi.org/10.48550/arXiv.2601.21363) |
+| 2026 | Blinking Into Emotion: How Context and LED Frequency Shape Non-Humanoid Robots’ Emotional Transparency | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra57385.2026.11696710) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696710) |
 | 2026 | CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2603.03067) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696024) |
 | 2026 | Control of Humanoid Robots with Parallel Mechanisms using Differential Actuation Models | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2503.22459) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696573) |
 | 2026 | Design and Control of Modular Magnetic Millirobots for Multimodal Locomotion and Shape Reconfiguration | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2602.19346) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697213) |
@@ -26,12 +30,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026 | DSPv2: Improved Dense Policy for Effective and Generalizable Whole-body Mobile Manipulation | ICRA · Whole Body | [Paper](https://arxiv.org/pdf/2509.16063) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697116) |
 | 2026 | Ego-Vision World Model for Humanoid Contact Planning | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2510.11682) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697055) |
 | 2026 | H-Zero: Cross-Humanoid Locomotion Pretraining Enables Few-shot Novel Embodiment Transfer | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2512.00971) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696837) |
-| 2026 | Iterative Learning-based Centre-of-Mass Impedance Control for Articulated-Soft Humanoid Robots | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697108) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697108) |
+| 2026 | Iterative Learning-based Centre-of-Mass Impedance Control for Articulated-Soft Humanoid Robots | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra57385.2026.11697108) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697108) |
 | 2026 | Learning Motion Skills with Adaptive Assistive Curriculum Force in Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2506.23125) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696575) |
-| 2026 | Learning to Control the Whole-body Shape of a Soft Robotic Arm in Unknown Situations | ICRA · Whole Body | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697492) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697492) |
+| 2026 | Learning to Control the Whole-body Shape of a Soft Robotic Arm in Unknown Situations | ICRA · Whole Body | [Paper](https://doi.org/10.1109/icra57385.2026.11697492) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697492) |
 | 2026 | MimicDroid: In-Context Learning for Humanoid Robot Manipulation from Human Play Videos | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2509.09769) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696685) |
 | 2026 | PolygMap: A Perceptive Locomotion Framework for Humanoid Robot Stair Climbing | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2510.12346) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696224) |
-| 2026 | Real-Time Model Predictive Control of Nonlinear Coupled Joints Using MPPI: Application to Humanoid Ankle Joints | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696094) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696094) |
+| 2026 | Real-Time Model Predictive Control of Nonlinear Coupled Joints Using MPPI: Application to Humanoid Ankle Joints | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra57385.2026.11696094) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696094) |
 | 2026 | SignBot: Learning Human-to-Humanoid Sign Language Interaction | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2505.24266) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696513) |
 | 2026 | Tactile-Proprioceptive Sensor Fusion for Contact Wrench Estimation in Whole-Body Physical Human-Robot Interaction | ICRA · Whole Body | [Paper](https://arxiv.org/pdf/2605.28412) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696164) |
 | 2026 | Towards Proprioception-Aware Embodied Planning for Dual-Arm Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2510.07882) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696567) |
@@ -44,7 +48,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | LookOut: Real-World Humanoid Egocentric Navigation | ICCV · Humanoid | [Paper](https://arxiv.org/pdf/2508.14466) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.02316) |
 | 2025 | 3D Whole-Body Pose Estimation Using Graph High-Resolution Network for Humanoid Robot Teleoperation | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128446) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128446) |
 | 2025 | A Large-Scale Dataset for Humanoid Robotics Enabling a Novel Data-Driven Fall Prediction | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128646) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128646) |
-| 2025 | A Novel Telelocomotion Framework with CoM Estimation for Scalable Locomotion on Humanoid Robots | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127761) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127761) |
+| 2025 | A Novel Telelocomotion Framework with CoM Estimation for Scalable Locomotion on Humanoid Robots | ICRA · Humanoid | [Paper](https://vtechworks.lib.vt.edu/bitstreams/1e9290e7-e8c2-41b0-a160-8c0b2e249821/download) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127761) |
 | 2025 | Berkeley Humanoid: A Research Platform for Learning-Based Control | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2407.21781) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127524) |
 | 2025 | GenTact Toolbox: A Computational Design Pipeline to Procedurally Generate Context-Driven 3D Printed Whole-Body Artificial Skins | ICRA · Whole Body | [Paper](https://arxiv.org/pdf/2412.00711) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128675) |
 | 2025 | Humanoid Walking Stabilization via Model Predictive Control with Step Adjustment Based on the 3D Divergent Component of Motion | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128625) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128625) |
@@ -56,7 +60,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Reduced-Order Model Guided Contact-Implicit Model Predictive Control for Humanoid Locomotion | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2502.15630) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127605) |
 | 2025 | RM-Planner: Integrating Reinforcement Learning with Whole-Body Model Predictive Control for Mobile Manipulation | ICRA · Whole Body | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127719) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127719) |
 | 2025 | Social Gesture Recognition in spHRI: Leveraging Fabric-Based Tactile Sensing on Humanoid Robots | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2503.03234) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127985) |
-| 2025 | Whole-Body End-Effector Pose Tracking | ICRA · Whole Body | [Paper](https://arxiv.org/abs/2409.16048) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127964) |
+| 2025 | Whole-Body End-Effector Pose Tracking | ICRA · Whole Body | [Paper](https://arxiv.org/pdf/2409.16048) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127964) |
 | 2025 | Approximate Convex Decomposition-based Whole-Body Trajectory Optimization for Robots in Dense Environments | IROS · Whole Body | [Paper](https://doi.org/10.1109/IROS60139.2025.11247539) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247539) |
 | 2025 | Automated Repositioning from Supine to Lateral with a Humanoid Robot Based on Body Modeling | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS60139.2025.11246762) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246762) |
 | 2025 | Deep Predictive Learning with Proprioceptive and Visual Attention for Humanoid Robot Repositioning Assistance | IROS · Humanoid | [Paper](https://arxiv.org/abs/2407.13376) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246394) |
@@ -77,8 +81,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Natural Humanoid Robot Locomotion with Generative Motion Prior | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2503.09015) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247682) |
 | 2025 | Physics-Informed Learning for Human Whole-Body Kinematics Prediction via Sparse IMUs | IROS · Whole Body | [Paper](https://arxiv.org/abs/2509.25704) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246792) |
 | 2025 | Real-time Whole-body Motion Planning Based on Optimized NMPC in Static and Dynamic Environments for Mobile Manipulator | IROS · Whole Body | [Paper](https://doi.org/10.1109/IROS60139.2025.11246870) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246870) |
-| 2025 | Reinforcement Learning-based Optimization of Humanoid Joint Motion Control via Text-driven Human Motion Mapping | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS60139.2025.11247451) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247451) |
-| 2025 | Stabilizing Humanoid Robot Trajectory Generation via Physics-Informed Learning and Control-Informed Steering | IROS · Humanoid | [Paper](https://iris.polito.it/bitstream/11583/3017201/2/2509.24697v1%20%281%29.pdf) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247546) |
+| 2025 | Reinforcement Learning-based Optimization of Humanoid Joint Motion Control via Text-driven Human Motion Mapping | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2506.05117) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247451) |
+| 2025 | Stabilizing Humanoid Robot Trajectory Generation via Physics-Informed Learning and Control-Informed Steering | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2509.24697) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247546) |
 | 2025 | Transporting Heavy Payloads with a Humanoid riding a Hoverboard | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS60139.2025.11247121) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247121) |
 | 2025 | Unified Locomotion Transformer with Simultaneous Sim-to-Real Transfer for Quadrupeds | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2503.08997) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246319) |
 | 2025 | Whole-Body Impedance Control of a Humanoid Robot Based on Human-Human Demonstration for Human-Robot Collaboration | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS60139.2025.11246994) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246994) |
@@ -126,13 +130,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Integrable Whole-Body Orientation Coordinates for Legged Robots | IROS · Legged | [Paper](https://arxiv.org/pdf/2210.08111) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341531) |
 | 2023 | Investigations into Exploiting the Full Capabilities of a Series-Parallel Hybrid Humanoid Using Whole Body Trajectory Optimization | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS55552.2023.10341784) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341784) |
 | 2023 | Locomotion and Obstacle Avoidance of a Worm-Like Soft Robot | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2304.04301) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341586) |
-| 2023 | Multi-IMU Proprioceptive State Estimator for Humanoid Robots | IROS · Humanoid | [Paper](https://arxiv.org/abs/2307.14125) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341849) |
+| 2023 | Multi-IMU Proprioceptive State Estimator for Humanoid Robots | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2307.14125) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341849) |
 | 2023 | Real-Time Whole-Body Collision Avoidance and Path Following of a Snake Robot Through MPC-based Optimization Strategies | IROS · Whole Body | [Paper](https://doi.org/10.1109/IROS55552.2023.10342404) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342404) |
 | 2023 | Robo-Centric ESDF: A Fast and Accurate Whole-Body Collision Evaluation Tool for Any-Shape Robotic Planning | IROS · Whole Body | [Paper](https://arxiv.org/pdf/2306.16046) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342074) |
 | 2023 | Towards Connecting Control to Perception: High-Performance Whole-Body Collision Avoidance Using Control-Compatible Obstacles | IROS · Whole Body | [Paper](https://arxiv.org/pdf/2309.06873) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342515) |
 | 2023 | Whole-Body Torque Control Without Joint Position Control Using Vibration-Suppressed Friction Compensation for Bipedal Locomotion of Gear-Driven Torque Sensorless Humanoid | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS55552.2023.10341698) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341698) |
 | 2023 | Causal Policy Gradient for Whole-Body Mobile Manipulation | RSS · Whole Body | [Paper](https://arxiv.org/pdf/2305.04866) · [Publisher](https://doi.org/10.48550/arXiv.2305.04866) |
-| 2022 | A Collision-Free MPC for Whole-Body Dynamic Locomotion and Manipulation | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2202.12385) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812280) |
+| 2022 | A Collision-Free MPC for Whole-Body Dynamic Locomotion and Manipulation | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2202.12385) · [Publisher](https://doi.org/10.48550/arXiv.2202.12385) |
 | 2022 | DanceHAT: Generate Stable Dances for Humanoid Robots with Adversarial Training | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra46639.2022.9811649) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811649) |
 | 2022 | Design and Development for Humanoid-Vehicle Transformer Platform with Plastic Resin Structure and Distributed Redundant Sensors | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra46639.2022.9811683) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811683) |
 | 2022 | Locomotion as a Risk-mitigating Behavior in Uncertain Environments: A Rapid Planning and Few-shot Failure Adaptation Approach | ICRA · Locomotion | [Paper](https://doi.org/10.1109/icra46639.2022.9812103) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812103) |
@@ -145,7 +149,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Bioinspired Antagonist-agonist Artificial Muscles for Humanoid Eyeball Motions | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9982226) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982226) |
 | 2022 | Comparison of EKF-Based Floating Base Estimators for Humanoid Robots with Flat Feet | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9982275) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982275) |
 | 2022 | Distributed Coach-Based Reinforcement Learning Controller for Snake Robot Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9981749) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981749) |
-| 2022 | Hands-free Telelocomotion of a Wheeled Humanoid | IROS · Humanoid | [Paper](https://arxiv.org/abs/2203.03558) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981629) |
+| 2022 | Hands-free Telelocomotion of a Wheeled Humanoid | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2203.03558) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981629) |
 | 2022 | Hybrid LMC: Hybrid Learning and Model-based Control for Wheeled Humanoid Robot via Ensemble Deep Reinforcement Learning | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2204.03159) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981913) |
 | 2022 | Imitation Behavior of the Outer Edge of the Foot by Humanoids Using a Simplified Contact State Representation | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9981673) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981673) |
 | 2022 | Learning Agile Hybrid Whole-body Motor Skills for Thruster-Aided Humanoid Robots | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9981974) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981974) |
@@ -154,10 +158,25 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | The Flatworm-like Mesh Robot WORMESH-II: Steering Control of Pedal Wave Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9982155) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982155) |
 | 2022 | Whole-body model predictive control with rigid contacts via online switching time optimization | IROS · Whole Body | [Paper](https://arxiv.org/pdf/2203.00997) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981790) |
 
-## Recent arXiv papers (693)
+## Recent arXiv papers (706)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-06 | STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards | Nico Bohlinger, Jan Peters | [Abstract](https://arxiv.org/abs/2611.08857) · [PDF](https://arxiv.org/pdf/2611.08857) |
+| 2026-11-05 | Whole-Body Elasto-Geometrical Calibration of Wheeled Humanoid Robots Using a Shared-Waist Dual-Chain Model | Pengxin Zha, Yi Lu, Haojun Ma, Jun Zhu et al. | [Abstract](https://arxiv.org/abs/2611.07560) · [PDF](https://arxiv.org/pdf/2611.07560) |
+| 2026-11-05 | PhySA: Decoupling Aesthetic and Physical Rewards for Humanoid Locomotion | Yunwan Fu, Sicheng He, Jiageng Mao, Yue Wang | [Abstract](https://arxiv.org/abs/2611.07679) · [PDF](https://arxiv.org/pdf/2611.07679) |
+| 2026-11-05 | HITCH: Teaching a Vision-Language Model to Operate a Humanoid through a Whole-Body Harness | Qingzhou Lu, Chenxin Liu, Xinming Wang, Liu Cao et al. | [Abstract](https://arxiv.org/abs/2611.08039) · [PDF](https://arxiv.org/pdf/2611.08039) |
+| 2026-11-05 | CRISP: Constraint-Resolved Interactions between Subsystems for Predictive Whole-Body Cooperation | Dario Valenzuela, Jeeseop Kim | [Abstract](https://arxiv.org/abs/2611.07268) · [PDF](https://arxiv.org/pdf/2611.07268) |
+| 2026-11-04 | Riemannian Optimization-based Whole-body Obstacle Avoidance for Mobile Continuum Robots in Cluttered Environments | Duo Tang, Ping Deng, Sophie Armanini, Yajing Shen et al. | [Abstract](https://arxiv.org/abs/2611.06214) · [PDF](https://arxiv.org/pdf/2611.06214) |
+| 2026-11-04 | Perceptive Humanoid Motion from Simulation | Siyuan Hu, Abulikemu Abuduweili, Yue Meng, Shipeng Liu et al. | [Abstract](https://arxiv.org/abs/2611.06908) · [PDF](https://arxiv.org/pdf/2611.06908) |
+| 2026-11-03 | Online Hamilton-Jacobi Reachability Onboard the Robot Control Loop: A Real-Time GPU Solver for Safety-Critical Autonomy | Kevin Weekly, Alexandre M. Bayen | [Abstract](https://arxiv.org/abs/2611.04096) · [PDF](https://arxiv.org/pdf/2611.04096) |
+| 2026-11-03 | Contact-Implicit Whole-Body Trajectory Optimization for Dynamic Humanoid Locomotion on Parameterizable Uneven Terrain | Roberto Mauceri, Stefano Dafarra, Giulio Romualdi, Marco Gabiccini et al. | [Abstract](https://arxiv.org/abs/2611.05585) · [PDF](https://arxiv.org/pdf/2611.05585) |
+| 2026-11-03 | ActOR: Ambient AI-Based Agentic Orchestration for Humanoid Autonomy in Operating Rooms | Han Zhang, Sicheng Lu, Aleks Santari, Jeffrey K. Jopling et al. | [Abstract](https://arxiv.org/abs/2611.04255) · [PDF](https://arxiv.org/pdf/2611.04255) |
+| 2026-11-02 | TRAILS: Trajectory Generation for Automated Indoor Locomotion Studies | Juho Kalliokoski, Evan G. Center, Steven M. LaValle, Timo Ojala et al. | [Abstract](https://arxiv.org/abs/2611.03254) · [PDF](https://arxiv.org/pdf/2611.03254) |
+| 2026-11-02 | A Study on the Effects of Finger Movements on a Humanoid Hugging Robot | Daigo Suhara, Tomoko Yonezawa | [Abstract](https://arxiv.org/abs/2611.02517) · [PDF](https://arxiv.org/pdf/2611.02517) |
+| 2026-11-01 | HuG: Learning Humanoid Whole-Body Affordance-Aware Grasping with Active Perception | Xuanbin Peng, Lai Wei, Yuze Zhai, Qingyuan Yu et al. | [Abstract](https://arxiv.org/abs/2611.01659) · [PDF](https://arxiv.org/pdf/2611.01659) |
+| 2026-11-01 | Beyond Ensemble Disagreement: Predictive STL Monitoring of RL Locomotion under Distribution Shift | Qurban Ali, Badaruddin Chachar, Maqsood Ali, Sajjad Ali Rajper | [Abstract](https://arxiv.org/abs/2611.02218) · [PDF](https://arxiv.org/pdf/2611.02218) |
+| 2026-10-31 | Faster Imitation by Re-timing Demonstrations Within the Controller Limit | Zongtan Li, Tianming Liu, Ye Zhao | [Abstract](https://arxiv.org/abs/2611.00539) · [PDF](https://arxiv.org/pdf/2611.00539) |
 | 2026-10-30 | Movens-Zero: Scaling Humanoid Motion Foundation Models with Large-Scale Human Videos | Wendong Bu, Tinghong Ye, Qizhou Wang, Jiacheng Li et al. | [Abstract](https://arxiv.org/abs/2610.41877) · [PDF](https://arxiv.org/pdf/2610.41877) |
 | 2026-10-30 | FOCUS: First-Order Control Using Optimal Transport Supervision for Imitation from Observations | João A. Cândido Ramos, Lionel Blondé, Hugues Vinzant, Jacopo Castellini et al. | [Abstract](https://arxiv.org/abs/2610.41540) · [PDF](https://arxiv.org/pdf/2610.41540) |
 | 2026-10-29 | Humanoid Dodgeball: Learning Fast Dynamic Obstacle Avoidance Motions for Humanoids | Aoqian Zhang, Chunzheng Wang, Haoran Chen, Annan Tang et al. | [Abstract](https://arxiv.org/abs/2610.40003) · [PDF](https://arxiv.org/pdf/2610.40003) |
@@ -849,8 +868,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-22 | Robot at the Mirror: Learning to Imitate via Associating Self-supervised Models | Andrej Lucny, Kristina Malinovska, Igor Farkas | [Abstract](https://arxiv.org/abs/2311.13226) · [PDF](https://arxiv.org/pdf/2311.13226) |
 | 2023-11-21 | Multi-Resolution Planar Region Extraction for Uneven Terrains | Yinghan Sun, Linfang Zheng, Hua Chen, Wei Zhang | [Abstract](https://arxiv.org/abs/2311.12562) · [PDF](https://arxiv.org/pdf/2311.12562) |
 | 2023-11-10 | Efficient Learning of Fast Inverse Kinematics with Collision Avoidance | Johannes Tenhumberg, Arman Mielke, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2311.05938) · [PDF](https://arxiv.org/pdf/2311.05938) |
-| 2023-11-06 | The European Moon Rover System: a modular multipurpose rover for future complex lunar missions | Cristina Luna, Manuel Esquer, Jorge Barrientos-Díez, Alba Guerra et al. | [Abstract](https://arxiv.org/abs/2311.03136) · [PDF](https://arxiv.org/pdf/2311.03136) |
-| 2023-11-03 | A Graph-to-Text Approach to Knowledge-Grounded Response Generation in Human-Robot Interaction | Nicholas Thomas Walker, Stefan Ultes, Pierre Lison | [Abstract](https://arxiv.org/abs/2311.16137) · [PDF](https://arxiv.org/pdf/2311.16137) |
 
 ---
 

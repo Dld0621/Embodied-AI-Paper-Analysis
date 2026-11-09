@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Dexterous%20Hand%20Control&specialty=Hand%20Design%2C%20Actuation%20%26%20Morphology#research-workbench)
 
-> 14 conference papers · 65 recent arXiv papers
+> 14 conference papers · 64 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,8 +23,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | VSB - Variable Stiffness Based on Bowden Cables: A Simple Mechanism for Soft Robotic Hands | ICRA · Robotic Hand | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127353) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127353) |
 | 2025 | A Novel Robot Hand with Hoeckens Linkages and Soft Phalanges for Scooping and Self-Adaptive Grasping in Environmental Constraints | IROS · Robot Hand | [Paper](https://arxiv.org/pdf/2510.13535) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246074) |
 | 2025 | High DOF Tendon-Driven Soft Hand: A Modular System for Versatile and Dexterous Manipulation | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS60139.2025.11246988) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246988) |
-| 2025 | ORCA: An Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning | IROS · Dexterous | [Paper](https://arxiv.org/abs/2504.04259) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246681) |
-| 2025 | Sampling-Based Model Predictive Control for Dexterous Manipulation on a Biomimetic Tendon-Driven Hand | IROS · Dexterous | [Paper](https://arxiv.org/abs/2411.06183) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246473) |
+| 2025 | ORCA: An Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning | IROS · Dexterous | [Paper](https://arxiv.org/pdf/2504.04259) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246681) |
+| 2025 | Sampling-Based Model Predictive Control for Dexterous Manipulation on a Biomimetic Tendon-Driven Hand | IROS · Dexterous | [Paper](https://arxiv.org/pdf/2411.06183) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246473) |
 | 2024 | Direct Self-Identification of Inverse Jacobians for Dexterous Manipulation Through Particle Filtering | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611052) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611052) |
 | 2024 | Sensorized Soft Skin for Dexterous Robotic Hands | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2404.19448) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611404) |
 | 2024 | The New Dexterity Modular, Dexterous, Anthropomorphic, Open-Source, Bimanual Manipulation Platform: Combining Adaptive and Hybrid Actuation Systems with Lockable Joints | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610343) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610343) |
@@ -33,10 +33,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | LEAP Hand: Low-Cost, Efficient, and Anthropomorphic Hand for Robot Learning | RSS · Dexterous hardware | [Paper](https://arxiv.org/abs/2309.06440) · [Official](https://roboticsproceedings.org/rss19/index.html) · [Code](https://github.com/leap-hand/LEAP_Hand_API) |
 | 2022 | Toward Dexterous Flapping Flight: Effective Large Yaw Torque Generation by $2\times 2$-Degrees-of-Freedom Flapping Wings | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS47612.2022.9981990) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981990) |
 
-## Recent arXiv papers (65)
+## Recent arXiv papers (64)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-03 | PACT: Pose-Robust Actuation Co-Design for Tendon-Driven Robotic Hands | Prashant Kumar, Rachael Granberry, Taylor Niehues, Andrew A. Stanley et al. | [Abstract](https://arxiv.org/abs/2611.05302) · [PDF](https://arxiv.org/pdf/2611.05302) |
 | 2026-10-27 | A fully articulated humanoid dexterous hand with human-level joint structure enabled by linkage-based actuation | Jihao Li, Jianguo Wang, Haotian Guo, Yanzhe Wang et al. | [Abstract](https://arxiv.org/abs/2610.36789) · [PDF](https://arxiv.org/pdf/2610.36789) |
 | 2026-10-21 | PHD-Hand: A Printable Humanoid Dexterous Hand with Linkage-Driven 3-DOA Digits | Neel Adwani, Muhaiminul Islam Akash, Saffia Ouali, Ethan Liu et al. | [Abstract](https://arxiv.org/abs/2610.29030) · [PDF](https://arxiv.org/pdf/2610.29030) |
 | 2026-10-01 | Learning a Resolution-Consistent Jacobian Field for Bio-Inspired Rigid-Soft Finger | Tianyou Liang, Haisen Zeng, Shanjun Chen, YiMing Zhu et al. | [Abstract](https://arxiv.org/abs/2610.01668) · [PDF](https://arxiv.org/pdf/2610.01668) |
@@ -54,7 +55,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-12 | SyLink Hand: A Synergy-Inspired Linkage-Driven Anthropomorphic Hand for Human-Like Dexterity | Hao Wu, Yanzhe Wang, Yu Feng, Yitong Li et al. | [Abstract](https://arxiv.org/abs/2606.14250) · [PDF](https://arxiv.org/pdf/2606.14250) |
 | 2026-06-11 | MCR-Bionic Hand: Anatomical Structural Priors for Dexterous Manipulation | Haosen Yang, Guowu Wei | [Abstract](https://arxiv.org/abs/2606.13601) · [PDF](https://arxiv.org/pdf/2606.13601) |
 | 2026-06-08 | YUBI: Yielding Universal Bidigital Interface for Bimanual Dexterous Manipulation at Scale | Takehiko Ohkawa, Jumpei Arima, Yuki Noguchi, Masatoshi Tateno et al. | [Abstract](https://arxiv.org/abs/2606.10244) · [PDF](https://arxiv.org/pdf/2606.10244) |
-| 2026-05-28 | Any-ttach: Quick End-effector Swapping Enables Manipulation Dexterity with Simplicity | Weizhe Ni, Jinzhou Li, Haoyu Li, Cody Andres Alessio-Bunnell et al. | [Abstract](https://arxiv.org/abs/2605.30569) · [PDF](https://arxiv.org/pdf/2605.30569) |
 | 2026-05-13 | Towards Robotic Dexterous Hand Intelligence: A Survey | Weiguang Zhao, Tian Liang, Xihao Guo, Rui Zhang et al. | [Abstract](https://arxiv.org/abs/2605.13925) · [PDF](https://arxiv.org/pdf/2605.13925) |
 | 2026-05-02 | High-Speed, Scalable Sensor Readout for Dexterous Robotic Hands via Shift-Register Multiplexing | Jaehoon Kim, Boshi An, Lazaros Christoforidis, Michail Papadakis et al. | [Abstract](https://arxiv.org/abs/2605.01434) · [PDF](https://arxiv.org/pdf/2605.01434) |
 | 2026-04-30 | Function-based Parametric Co-Design Optimization of Dexterous Hands | Mohammad Amin Mirzaee, Harsh Gupta, Wenzhen Yuan | [Abstract](https://arxiv.org/abs/2604.27557) · [PDF](https://arxiv.org/pdf/2604.27557) |
@@ -101,7 +101,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-06-18 | Tactile SoftHand-A: 3D-Printed, Tactile, Highly-underactuated, Anthropomorphic Robot Hand with an Antagonistic Tendon Mechanism | Haoran Li, Christopher J. Ford, Chenghua Lu, Yijiong Lin et al. | [Abstract](https://arxiv.org/abs/2406.12731) · [PDF](https://arxiv.org/pdf/2406.12731) |
 | 2024-04-30 | Sensorized Soft Skin for Dexterous Robotic Hands | Jana Egli, Benedek Forrai, Thomas Buchner, Jiangtao Su et al. | [Abstract](https://arxiv.org/abs/2404.19448) · [PDF](https://arxiv.org/pdf/2404.19448) |
 | 2024-03-15 | Design and Control Co-Optimization for Automated Design Iteration of Dexterous Anthropomorphic Soft Robotic Hands | Pragna Mannam, Xingyu Liu, Ding Zhao, Jean Oh et al. | [Abstract](https://arxiv.org/abs/2403.09933) · [PDF](https://arxiv.org/pdf/2403.09933) |
-| 2023-11-06 | Reconfigurable, Transformable Soft Pneumatic Actuator with Tunable 3D Deformations for Dexterous Soft Robotics Applications | Dickson Chiu Yu Wong, Mingtan Li, Shijie Kang, Lifan Luo et al. | [Abstract](https://arxiv.org/abs/2311.03032) · [PDF](https://arxiv.org/pdf/2311.03032) |
 
 ---
 

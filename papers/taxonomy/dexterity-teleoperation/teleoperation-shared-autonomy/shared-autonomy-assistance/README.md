@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Autonomy&specialty=Shared%20Autonomy%20%26%20Assistance#research-workbench)
 
-> 10 conference papers · 25 recent arXiv papers
+> 10 conference papers · 26 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,16 +23,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | HACTS: a Human-As-Copilot Teleoperation System for Robot Learning | IROS · Teleoperation | [Paper](https://arxiv.org/pdf/2503.24070) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247309) |
 | 2025 | Landmark-Based Goal Recognition for Shared Autonomy: A Framework for Enhanced Teleoperation | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS60139.2025.11245815) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245815) |
 | 2023 | Shared Autonomy Control for Slosh-Free Teleoperation | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342234) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342234) |
-| 2022 | ASHA: Assistive Teleoperation via Human-in-the-Loop Reinforcement Learning | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2202.02465) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812442) |
+| 2022 | ASHA: Assistive Teleoperation via Human-in-the-Loop Reinforcement Learning | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2202.02465) · [Publisher](https://doi.org/10.48550/arXiv.2202.02465) |
 | 2022 | Blending Primitive Policies in Shared Control for Assisted Teleoperation | ICRA · Teleoperation | [Paper](https://arxiv.org/abs/2204.07026) · [Publisher](https://doi.org/10.48550/arXiv.2204.07026) |
 | 2022 | Skill-CPD: Real-time Skill Refinement for Shared Autonomy in Manipulator Teleoperation | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982077) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982077) |
 | 2022 | Gaze Complements Control Input for Goal Prediction During Assisted Teleoperation | RSS · Teleoperation | [Paper](https://doi.org/10.15607/rss.2022.xviii.025) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.025) |
 | 2022 | PATO: Policy Assisted TeleOperation for Scalable Robot Data Collection | RSS · Teleoperation | [Paper](https://arxiv.org/abs/2212.04708) · [Publisher](https://doi.org/10.48550/arXiv.2212.04708) |
 
-## Recent arXiv papers (25)
+## Recent arXiv papers (26)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-03 | Nested Field-of-View Barriers for Teleoperated Multi-Robot Relay Chains | Arthur Vangasse, Theo Cruz, Thales Soares, André Cid et al. | [Abstract](https://arxiv.org/abs/2611.05074) · [PDF](https://arxiv.org/pdf/2611.05074) |
 | 2026-09-17 | Affective Shared Autonomy: Temporal Affect Dynamics and Subjective Evaluation in Bimanual Teleoperation Tasks | Zhengji Liang, Guiyin Tian, Sijin Qu, Hainan Liu et al. | [Abstract](https://arxiv.org/abs/2609.19802) · [PDF](https://arxiv.org/pdf/2609.19802) |
 | 2026-08-20 | Keeping the Franka Emika Panda alive: a ROS 2 stack with a reliable position interface | Antonio Langella, Davide Risi, Vincenzo Petrone, Enrico Ferrentino et al. | [Abstract](https://arxiv.org/abs/2608.19740) · [PDF](https://arxiv.org/pdf/2608.19740) |
 | 2026-07-16 | AHEAD: Anticipatory Hand-Driven Teleoperation via Human Intent Prediction | Seok Joon Kim, Junho Lee, Federica Spinola, Taein Kwon et al. | [Abstract](https://arxiv.org/abs/2607.15172) · [PDF](https://arxiv.org/pdf/2607.15172) |

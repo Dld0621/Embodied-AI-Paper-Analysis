@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Mapping%20%26%20Localization&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 22 conference papers · 544 recent arXiv papers
+> 22 conference papers · 545 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,7 +29,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Sense in Motion with Belief Clustering: Efficient Gas Source Localization with Mobile Robots | ICRA · Mobile Robot | [Paper](https://infoscience.epfl.ch/bitstreams/2abb588a-b524-4612-bc8d-22f5fa9a1434/download) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611440) |
 | 2024 | Evidential Semantic Mapping in Off-road Environments with Uncertainty-aware Bayesian Kernel Inference | IROS · Semantic Mapping | [Paper](https://arxiv.org/pdf/2403.14138) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802766) |
 | 2024 | Text2Map: From Navigational Instructions to Graph-Based Indoor Map Representations Using LLMs | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802370) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802370) |
-| 2024 | Volumetric Mapping with Panoptic Refinement using Kernel Density Estimation for Mobile Robots | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2412.11241) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802224) |
+| 2024 | Volumetric Mapping with Panoptic Refinement using Kernel Density Estimation for Mobile Robots | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2412.11241) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802224) |
 | 2023 | Active Metric-Semantic Mapping by Multiple Aerial Robots | ICRA · Semantic Mapping | [Paper](https://arxiv.org/pdf/2209.08465) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161564) |
 | 2023 | Convolutional Bayesian Kernel Inference for 3D Semantic Mapping | ICRA · Semantic Mapping | [Paper](https://arxiv.org/pdf/2209.10663) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161360) |
 | 2023 | Portable Multi-Hypothesis Monte Carlo Localization for Mobile Robots | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2209.07586) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160957) |
@@ -41,10 +41,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration | IROS · Exploration | [Paper](https://arxiv.org/pdf/2202.09631) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981251) |
 | 2022 | Mapping of Spatiotemporal Scalar Fields by Mobile Robots using Gaussian Process Regression | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981548) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981548) |
 
-## Recent arXiv papers (544)
+## Recent arXiv papers (545)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-05 | Radio-to-Pose Information for Gauge-Drift Correction in Cooperative Localization | Aditya Iyer, Andy Ye, Akshay Narayan, Nora Ayanian | [Abstract](https://arxiv.org/abs/2611.08361) · [PDF](https://arxiv.org/pdf/2611.08361) |
+| 2026-11-05 | MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation | Sateesh Kumar, Arnav Balaji, Arpit Bahety, Skand Peri et al. | [Abstract](https://arxiv.org/abs/2611.08372) · [PDF](https://arxiv.org/pdf/2611.08372) |
+| 2026-11-03 | PadLoc: Training-Free Floor-Plan Localization by Sparse Geometric Matching | Marian Bookhahn, Frank Neumann | [Abstract](https://arxiv.org/abs/2611.05172) · [PDF](https://arxiv.org/pdf/2611.05172) |
+| 2026-11-02 | MoSoLoco: Monocular 3D Human Localization through Visual Latent Features and Social Context | Yasamin Borhani, Javad Khoramdel, Yang Gao, Po-Chien Luan et al. | [Abstract](https://arxiv.org/abs/2611.03189) · [PDF](https://arxiv.org/pdf/2611.03189) |
 | 2026-10-30 | PGGT-Loc: Primitive-Grounded Geometry Transformer for Feed-Forward Camera Localization | Hanqiao Ye, Yuzhou Liu, Mengqi Rong, Jian Liu et al. | [Abstract](https://arxiv.org/abs/2610.41833) · [PDF](https://arxiv.org/pdf/2610.41833) |
 | 2026-10-30 | CONSORT: Uncertainty-Constrained Multi-Robot Planning for Cooperative Localization in GPS-Denied Environments | Tony Zhang, Ryan Bartholomew, Kalliyan Velasco, Joshua Mangelson et al. | [Abstract](https://arxiv.org/abs/2610.41235) · [PDF](https://arxiv.org/pdf/2610.41235) |
 | 2026-10-29 | AFast Robot Localization Method Based on Monte Carlo Sampling | He Zhaoqing, Hang Li, Xian Pu, Li Wang | [Abstract](https://arxiv.org/abs/2610.39708) · [PDF](https://arxiv.org/pdf/2610.39708) |
@@ -153,7 +157,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-08 | Trajectory Optimization in Single and Dual-UAV Bearing-Only Target Localization | Zhijian Xiao, Huayu Huang, Bin Li, Yang Shang et al. | [Abstract](https://arxiv.org/abs/2606.09188) · [PDF](https://arxiv.org/pdf/2606.09188) |
 | 2026-06-03 | MAD: Mapping-Aware World Models for Agile Quadrotor Flight | Xinhong Zhang, Runqing Wang, Yunfan Ren, Ding Yu et al. | [Abstract](https://arxiv.org/abs/2606.04534) · [PDF](https://arxiv.org/pdf/2606.04534) |
 | 2026-06-03 | Cooperative Circumnavigation for Multiple Unmanned Surface Vehicles Without External Localization | Xueming Liu, Lin Li, Xiang Zhou, Tianjiang Hu et al. | [Abstract](https://arxiv.org/abs/2606.04518) · [PDF](https://arxiv.org/pdf/2606.04518) |
-| 2026-06-01 | Closed-Form Pose Estimation of Endoluminal Medical Devices via Gradiometer-Based Electromagnetic Localization System | Zhiwei Wu, Jiahao Luo, Yubo Pu, Siyi Wei et al. | [Abstract](https://arxiv.org/abs/2606.01946) · [PDF](https://arxiv.org/pdf/2606.01946) |
+| 2026-06-01 | Closed-Form 6-DoF Pose Estimation of Medical Tools via Gradiometer-Based Electromagnetic Localization System | Zhiwei Wu, Jiahao Luo, Yubo Pu, Siyi Wei et al. | [Abstract](https://arxiv.org/abs/2606.01946) · [PDF](https://arxiv.org/pdf/2606.01946) |
 | 2026-05-28 | Uncertainty-driven 3D Gaussian Splatting Active Mapping via Anisotropic Visibility Field | Shangjie Xue, Jesse Dill, Dhruv Ahuja, Frank Dellaert et al. | [Abstract](https://arxiv.org/abs/2605.30342) · [PDF](https://arxiv.org/pdf/2605.30342) |
 | 2026-05-27 | Human-in-the-Loop Swarms: A Bionic Swarm Approach to Real-World Soil Mapping | Petras Swissler, Mohammadali Rashidioun, Nicholas Sahu, Raaid Kabir et al. | [Abstract](https://arxiv.org/abs/2605.29091) · [PDF](https://arxiv.org/pdf/2605.29091) |
 | 2026-05-26 | YOLO26-RipeLoc Lite: A lightweight architecture for tomato ripeness detection and picking point localization in greenhouse robotic harvesting | Rajmeet Singh, Manveen Kaur, Shahpour Alirezaee, Irfan Hussain | [Abstract](https://arxiv.org/abs/2605.27129) · [PDF](https://arxiv.org/pdf/2605.27129) |
@@ -586,9 +590,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-15 | High-Precision Fruit Localization Using Active Laser-Camera Scanning: Robust Laser Line Extraction for 2D-3D Transformation | Pengyu Chu, Zhaojian Li, Kaixiang Zhang, Kyle Lammers et al. | [Abstract](https://arxiv.org/abs/2311.08674) · [PDF](https://arxiv.org/pdf/2311.08674) |
 | 2023-11-14 | Roadside LiDAR Assisted Cooperative Localization for Connected Autonomous Vehicles | Yuze Jiang, Ehsan Javanmardi, Jin Nakazato, Manabu Tsukada et al. | [Abstract](https://arxiv.org/abs/2311.07913) · [PDF](https://arxiv.org/pdf/2311.07913) |
 | 2023-11-13 | Geo-Localization Based on Dynamically Weighted Factor-Graph | Miguel Ángel Muñoz-Bañón, Alejandro Olivas, Edison Velasco-Sánchez, Francisco A. Candelas et al. | [Abstract](https://arxiv.org/abs/2311.07301) · [PDF](https://arxiv.org/pdf/2311.07301) |
-| 2023-11-08 | An Efficient Probabilistic Solution to Mapping Errors in LiDAR-Camera Fusion for Autonomous Vehicles | Dan Shen, Zhengming Zhang, Renran Tian, Yaobin Chen et al. | [Abstract](https://arxiv.org/abs/2311.04410) · [PDF](https://arxiv.org/pdf/2311.04410) |
-| 2023-11-04 | Active Laser-Camera Scanning for High-Precision Fruit Localization in Robotic Harvesting: System Design and Calibration | Kaixiang Zhang, Pengyu Chu, Kyle Lammers, Zhaojian Li et al. | [Abstract](https://arxiv.org/abs/2311.02500) · [PDF](https://arxiv.org/pdf/2311.02500) |
-| 2023-11-03 | Multi-LiDAR Localization and Mapping Pipeline for Urban Autonomous Driving | Florian Sauerbeck, Dominik Kulmer, Markus Pielmeier, Maximilian Leitenstern et al. | [Abstract](https://arxiv.org/abs/2311.01823) · [PDF](https://arxiv.org/pdf/2311.01823) |
 
 ---
 

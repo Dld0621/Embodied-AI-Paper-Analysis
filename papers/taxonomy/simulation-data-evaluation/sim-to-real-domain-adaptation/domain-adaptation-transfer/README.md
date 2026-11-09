@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Sim-to-real%20%26%20Domain%20Adaptation&specialty=Domain%20Adaptation%20%26%20Transfer#research-workbench)
 
-> 24 conference papers · 167 recent arXiv papers
+> 24 conference papers · 168 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | ConTact: Contrastive Tactile Alignment for Sim-to-Real Robotic Manipulation | ICRA · Sim To Real | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696004) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696004) |
+| 2026 | ConTact: Contrastive Tactile Alignment for Sim-to-Real Robotic Manipulation | ICRA · Sim To Real | [Paper](https://doi.org/10.1109/icra57385.2026.11696004) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696004) |
 | 2026 | Zero-shot Sim2Real Transfer for Magnet-Based Tactile Sensor on Insertion Tasks | ICRA · Sim2Real | [Paper](https://arxiv.org/pdf/2505.02915) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696106) |
 | 2025 | RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning | ICRA · Sim2Real | [Paper](https://arxiv.org/pdf/2409.20291) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128103) |
 | 2025 | Robotic Sim-to-Real Transfer for Long-Horizon Pick-and-Place Tasks in the Robotic Sim2Real Competition | ICRA · Sim To Real | [Paper](https://arxiv.org/pdf/2503.11012) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128837) |
@@ -40,13 +40,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Contact Reduction with Bounded Stiffness for Robust Sim-to-Real Transfer of Robot Assembly | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2306.06675) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341866) |
 | 2023 | Robust Visual Sim-to-Real Transfer for Robotic Manipulation | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2307.15320) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342471) |
 | 2022 | i-Sim2Real: Reinforcement Learning of Robotic Policies in Tight Human-Robot Interaction Loops | CoRL · Sim2Real | [Paper](https://arxiv.org/pdf/2207.06572) · [Publisher](https://doi.org/10.48550/arXiv.2207.06572) |
-| 2022 | Grasp Stability Prediction with Sim-to-Real Transfer from Tactile Sensing | IROS · Sim To Real | [Paper](https://arxiv.org/abs/2208.02885) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981863) |
-| 2022 | Soft Robots Learn to Crawl: Jointly Optimizing Design and Control with Sim-to-Real Transfer | RSS · Sim To Real | [Paper](https://doi.org/10.15607/rss.2022.xviii.062) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.062) |
+| 2022 | Grasp Stability Prediction with Sim-to-Real Transfer from Tactile Sensing | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2208.02885) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981863) |
+| 2022 | Soft Robots Learn to Crawl: Jointly Optimizing Design and Control with Sim-to-Real Transfer | RSS · Sim To Real | [Paper](https://arxiv.org/abs/2202.04575) · [Publisher](https://doi.org/10.48550/arXiv.2202.04575) |
 
-## Recent arXiv papers (167)
+## Recent arXiv papers (168)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-05 | An Empirical Study of Reinforcement Learning for Keypoint Positioning of Deformable Linear Objects | Vinay Rodrigues, Sara Zeynalpour, Gokhan Solak, Sebastian Hjorth et al. | [Abstract](https://arxiv.org/abs/2611.07261) · [PDF](https://arxiv.org/pdf/2611.07261) |
+| 2026-11-02 | KlaskTron-IL: A Contact-Rich Adversarial Imitation Learning Benchmark with a Validated Sim-to-Real Bridge | Nicklas Sohm, Aswin Ramachandran, Raffaello D'Andrea | [Abstract](https://arxiv.org/abs/2611.03091) · [PDF](https://arxiv.org/pdf/2611.03091) |
+| 2026-11-02 | 3D-BBDA: Backpropagation-Free Black-Box Domain Adaptation for Robust 3D Point Cloud Recognition | Shivangi Rai, Kunal Jangid, Vaibhav Kumar, Vinod K Kurmi | [Abstract](https://arxiv.org/abs/2611.03588) · [PDF](https://arxiv.org/pdf/2611.03588) |
 | 2026-10-23 | Regularised RL improves sim-to-real transfer | Danilo Vucetic, Mohamad H. Danesh, Florence Clerc, Hsiu-Chin Lin et al. | [Abstract](https://arxiv.org/abs/2610.32855) · [PDF](https://arxiv.org/pdf/2610.32855) |
 | 2026-10-21 | PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration | Xiujian Liang, Jiacheng Liu, Mingyang Sun, Qichen He et al. | [Abstract](https://arxiv.org/abs/2610.29432) · [PDF](https://arxiv.org/pdf/2610.29432) |
 | 2026-10-08 | Sim-to-Real RL for ASVs using SysID | Cody Sheltraw, Tsimafei Lazouski, Maani Ghaffari, Alan Papalia | [Abstract](https://arxiv.org/abs/2610.12202) · [PDF](https://arxiv.org/pdf/2610.12202) |
@@ -212,8 +215,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-03-07 | Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs | Nikhil Mishra, Maximilian Sieb, Pieter Abbeel, Xi Chen | [Abstract](https://arxiv.org/abs/2403.04114) · [PDF](https://arxiv.org/pdf/2403.04114) |
 | 2023-12-07 | Sim-to-Real Causal Transfer: A Metric Learning Approach to Causally-Aware Interaction Representations | Ahmad Rahimi, Po-Chien Luan, Yuejiang Liu, Frano Rajič et al. | [Abstract](https://arxiv.org/abs/2312.04540) · [PDF](https://arxiv.org/pdf/2312.04540) |
 | 2023-12-06 | Irrotational Contact Fields | Alejandro Castro, Xuchen Han, Joseph Masterjohn | [Abstract](https://arxiv.org/abs/2312.03908) · [PDF](https://arxiv.org/pdf/2312.03908) |
-| 2023-11-07 | TWIST: Teacher-Student World Model Distillation for Efficient Sim-to-Real Transfer | Jun Yamada, Marc Rigter, Jack Collins, Ingmar Posner | [Abstract](https://arxiv.org/abs/2311.03622) · [PDF](https://arxiv.org/pdf/2311.03622) |
-| 2023-11-07 | Imitation learning for sim-to-real transfer of robotic cutting policies based on residual Gaussian process disturbance force model | Jamie Hathaway, Rustam Stolkin, Alireza Rastegarpanah | [Abstract](https://arxiv.org/abs/2311.04096) · [PDF](https://arxiv.org/pdf/2311.04096) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=In-hand%20Manipulation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 42 conference papers · 97 recent arXiv papers
+> 45 conference papers · 100 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,11 +14,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (42)
+## Conference papers (45)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Flow Before Imitation: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy | ICRA · Dexterous | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696089) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696089) |
+| 2026 | Clay-to-Stone: Phase-wise 3D Gaussian Splatting for Monocular Articulated Hand-Object Manipulation Modeling | CVPR · Hand Object | [Paper](https://www.semanticscholar.org/paper/a5946f8ff7fad4ed9623ecf6b823108a0ba5fc93) · [Index](https://dblp.org/rec/conf/cvpr/LiuRQSZLW26) |
+| 2026 | Glove2Hand: Synthesizing Natural Hand-Object Interaction from Multi-Modal Sensing Gloves | CVPR · Hand Object | [Paper](https://arxiv.org/abs/2603.20850) · [Publisher](https://doi.org/10.48550/arXiv.2603.20850) |
+| 2026 | HO-Flow: Generalizable Hand-Object Interaction Generation with Latent Flow Matching | ECCV · Hand Object | [Paper](https://arxiv.org/abs/2604.10836) · [Publisher](https://doi.org/10.48550/arXiv.2604.10836) |
+| 2026 | Flow Before Imitation: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy | ICRA · Dexterous | [Paper](https://doi.org/10.1109/icra57385.2026.11696089) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696089) |
 | 2026 | Suction Leap-Hand: Suction Cups on a Multi-fingered Hand Enable Embodied Dexterity and In-Hand Teleoperation | ICRA · In Hand | [Paper](https://arxiv.org/pdf/2509.20646) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695882) |
 | 2025 | TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation | CVPR · Hand Object | [Paper](https://arxiv.org/pdf/2503.11423) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02578) |
 | 2025 | Modeling Fine-Grained Hand-Object Dynamics for Egocentric Video Representation Learning | ICLR · Hand Object | [Paper](https://arxiv.org/abs/2503.00986) · [Publisher](https://doi.org/10.48550/arXiv.2503.00986) |
@@ -61,11 +64,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | In-hand Manipulation Exploiting Bending and Compression Deformations of Caterpillar-Locomotion-Inspired Fingers | IROS · In Hand | [Paper](https://doi.org/10.1109/IROS47612.2022.9982281) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982281) |
 | 2022 | Optical Proximity Sensing for Pose Estimation During In-Hand Manipulation | IROS · In Hand | [Paper](https://arxiv.org/pdf/2204.02371) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981692) |
 
-## Recent arXiv papers (97)
+## Recent arXiv papers (100)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
-| 2026-10-27 | Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well | Ian Chuang, Hiya Shah, Vamsi Chilamkur, Iman Soltani et al. | [Abstract](https://arxiv.org/abs/2610.37652) · [PDF](https://arxiv.org/pdf/2610.37652) |
+| 2026-11-06 | HOC2R: Hand-Object Contact Trajectories for Human-to-Robot Motion Transfer | Hongkun Yu, Francisco M. López, Francisco Cruz | [Abstract](https://arxiv.org/abs/2611.08920) · [PDF](https://arxiv.org/pdf/2611.08920) |
+| 2026-11-05 | HaNDF: Object-Conditioned Geometric Neural Hand Distance Fields | Zuhao Liu, Melih Darcan, Zhengdi Yu, Riza Alp Guler et al. | [Abstract](https://arxiv.org/abs/2611.08578) · [PDF](https://arxiv.org/pdf/2611.08578) |
+| 2026-11-02 | SyncHeC: Markerless Spatio-Temporal Hand-Eye Calibration via Differentiable Rendering and Continuous-Time Joint Optimization | Zhengdong Hong | [Abstract](https://arxiv.org/abs/2611.02999) · [PDF](https://arxiv.org/pdf/2611.02999) |
+| 2026-10-27 | Dexterous In-Hand Object Pose Reaching with Learned Safety Filters | Ian Chuang, Hiya Shah, Vamsi Chilamkur, Iman Soltani et al. | [Abstract](https://arxiv.org/abs/2610.37652) · [PDF](https://arxiv.org/pdf/2610.37652) |
 | 2026-10-13 | Receding-Horizon Next-Best-View Planning for Highly Occluded Target Perception | Ayse Gul Yildiz, Rekha Raja | [Abstract](https://arxiv.org/abs/2610.19082) · [PDF](https://arxiv.org/pdf/2610.19082) |
 | 2026-10-06 | Reactive Task-Oriented Robot-Human Handovers via Generative Hypothesis Selection | Carmen Scheidemann, Andreea Tulbure, Pascal Burkhardt, Marco Hutter | [Abstract](https://arxiv.org/abs/2610.08003) · [PDF](https://arxiv.org/pdf/2610.08003) |
 | 2026-10-04 | VICON: Visual-Inertial-Contact based Hand-Object Tracking for Manipulation Datasets | Youbeen Jeon, Uiseong Shin, Hwanchul La, Jaeseong Kang et al. | [Abstract](https://arxiv.org/abs/2610.05180) · [PDF](https://arxiv.org/pdf/2610.05180) |

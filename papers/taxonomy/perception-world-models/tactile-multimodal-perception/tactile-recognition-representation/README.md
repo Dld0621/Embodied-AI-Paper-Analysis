@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Tactile%20Recognition%20%26%20Representation#research-workbench)
 
-> 11 conference papers · 24 recent arXiv papers
+> 12 conference papers · 24 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,15 +14,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (11)
+## Conference papers (12)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | AnyTouch 2: General Optical Tactile Representation Learning For Dynamic Tactile Perception | ICLR · Tactile | [Paper](https://arxiv.org/abs/2602.09617) · [Publisher](https://doi.org/10.48550/arXiv.2602.09617) |
 | 2026 | MultiDiffSense: Diffusion-Based Multi-Modal Visuo-Tactile Image Generation Conditioned on Object Shape and Contact Pose | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2602.19348) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696419) |
 | 2026 | Tactile Recognition of Both Shapes and Materials with Automatic Feature Optimization-Enabled Meta Learning | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2603.08423) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696120) |
 | 2025 | Sensor-Invariant Tactile Representation | ICLR · Tactile | [Paper](https://arxiv.org/abs/2502.19638) · [Publisher](https://doi.org/10.48550/arXiv.2502.19638) |
 | 2025 | ACROSS: A Deformation-Based Cross-Modal Representation for Robotic Tactile Perception | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2411.08533) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127851) |
-| 2025 | UniTac-NV: A Unified Tactile Representation For Non-Vision-Based Tactile Sensors * | IROS · Tactile | [Paper](https://arxiv.org/abs/2506.19699) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247617) |
+| 2025 | UniTac-NV: A Unified Tactile Representation For Non-Vision-Based Tactile Sensors * | IROS · Tactile | [Paper](https://arxiv.org/pdf/2506.19699) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247617) |
 | 2024 | Multimodal Visual-Tactile Representation Learning through Self-Supervised Contrastive Pre-Training | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2401.12024) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610228) |
 | 2024 | Probabilistic Spiking Neural Network for Robotic Tactile Continual Learning | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610553) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610553) |
 | 2024 | X-Tacformer : Spatio-tempral Attention Model for Tactile Recognition | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610365) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610365) |

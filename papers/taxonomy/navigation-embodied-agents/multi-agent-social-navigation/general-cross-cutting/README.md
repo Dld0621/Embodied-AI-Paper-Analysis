@@ -25,6 +25,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-06 | Safe Circumnavigation on Heterogeneous Orbits: A Range-Only HOCBF-QP Framework for Nonholonomic Multi-Agent Systems | Shubham Singh, Anand Singh, Anjali Tiwari, Lara Briñón-Arranz et al. | [Abstract](https://arxiv.org/abs/2611.09112) · [PDF](https://arxiv.org/pdf/2611.09112) |
 | 2026-10-17 | CARVS: A Congestion-Aware Algorithm for Online Multi-Agent Pickup-and-Delivery in Human-Collaborative Warehouses | Chaoran Li, Zeyuan Zhao, Shao Zhang | [Abstract](https://arxiv.org/abs/2610.24549) · [PDF](https://arxiv.org/pdf/2610.24549) |
 | 2026-10-14 | Uncertainty-Driven Self-Play for Robust Multi-Agent Driving Policies | Sajad Marvi, Julian Schmidt, Alessandro Canevaro, Julian Jordan et al. | [Abstract](https://arxiv.org/abs/2610.19714) · [PDF](https://arxiv.org/pdf/2610.19714) |
 | 2026-10-06 | One for All, All for One: Coordinated Multi-Agent Diffusion Steering via Stochastic Optimal Control | Riccardo Barbano, Vincent Pauline, Runchang Li, George Webber et al. | [Abstract](https://arxiv.org/abs/2610.08595) · [PDF](https://arxiv.org/pdf/2610.08595) |
@@ -66,7 +67,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-04-25 | Optimal and Bounded Suboptimal Any-Angle Multi-agent Pathfinding | Konstantin Yakovlev, Anton Andreychuk, Roni Stern | [Abstract](https://arxiv.org/abs/2404.16379) · [PDF](https://arxiv.org/pdf/2404.16379) |
 | 2024-02-01 | High-Level, Collaborative Task Planning Grammar and Execution for Heterogeneous Agents | Amy Fang, Hadas Kress-Gazit | [Abstract](https://arxiv.org/abs/2402.00296) · [PDF](https://arxiv.org/pdf/2402.00296) |
 | 2024-01-22 | A System for Human-Robot Teaming through End-User Programming and Shared Autonomy | Michael Hagenow, Emmanuel Senft, Robert Radwin, Michael Gleicher et al. | [Abstract](https://arxiv.org/abs/2401.12380) · [PDF](https://arxiv.org/pdf/2401.12380) |
-| 2023-11-03 | RDE: A Hybrid Policy Framework for Multi-Agent Path Finding Problem | Jianqi Gao, Yanjie Li, Xiaoqing Yang, Mingshan Tan | [Abstract](https://arxiv.org/abs/2311.01728) · [PDF](https://arxiv.org/pdf/2311.01728) |
 
 ---
 

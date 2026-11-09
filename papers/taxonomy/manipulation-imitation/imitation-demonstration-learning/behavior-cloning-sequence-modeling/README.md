@@ -26,7 +26,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Feasibility-Aware Imitation Learning from Observations Through a Hand-Mounted Demonstration Interface | ICRA · Imitation Learning | [Paper](https://naist.repo.nii.ac.jp/records/2001695) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127364) |
 | 2025 | SAFE-GIL: SAFEty Guided Imitation Learning for Robotic Systems | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2404.05249) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128298) |
 | 2025 | Self-Improving Autonomous Underwater Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2410.18969) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128759) |
-| 2025 | Constrained Behavior Cloning for Robotic Learning | IROS · Behavior Cloning | [Paper](https://doi.org/10.1109/IROS60139.2025.11246164) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246164) |
+| 2025 | Constrained Behavior Cloning for Robotic Learning | IROS · Behavior Cloning | [Paper](https://arxiv.org/pdf/2408.10568) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246164) |
 | 2024 | Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2412.15109) · [Publisher](https://doi.org/10.48550/arXiv.2412.15109) |
 | 2024 | Data Efficient Behavior Cloning for Fine Manipulation via Continuity-based Corrective Labels | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2405.19307) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801414) |
 | 2024 | Offline Imitation Learning Through Graph Search and Retrieval | RSS · Imitation Learning | [Paper](https://arxiv.org/abs/2407.15403) · [Publisher](https://doi.org/10.48550/arXiv.2407.15403) |
@@ -39,6 +39,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-04 | Can Astra Solve RoboMME without Breaking the Bank? | Bingao Chen, Haoquan Fang, C. Karen Liu | [Abstract](https://arxiv.org/abs/2611.06184) · [PDF](https://arxiv.org/pdf/2611.06184) |
 | 2026-10-28 | Embodied at Sea: Imitation Learning for Multi-Task Underwater Manipulation | Greta Perez-Haiek, Luca Macesanu, Kevin Angers, Mohammed Imam et al. | [Abstract](https://arxiv.org/abs/2610.38199) · [PDF](https://arxiv.org/pdf/2610.38199) |
 | 2026-10-23 | DiscoDemo: Discovering Efficient and Diverse Robot Demonstrations for Imitation Learning | Minho Park, Kinam Kim, Donghu Kim, Byungkun Lee et al. | [Abstract](https://arxiv.org/abs/2610.32093) · [PDF](https://arxiv.org/pdf/2610.32093) |
 | 2026-10-19 | VaDar: Implicit Goal Conditioning via Value Disaggregation | Shashwat Saxena, Mehul Goel, Sreyas Venkataraman, Sarvesh Patil et al. | [Abstract](https://arxiv.org/abs/2610.26629) · [PDF](https://arxiv.org/pdf/2610.26629) |
@@ -149,7 +150,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-03-01 | Never-Ending Behavior-Cloning Agent for Robotic Manipulation | Wenqi Liang, Gan Sun, Yao He, Yu Ren et al. | [Abstract](https://arxiv.org/abs/2403.00336) · [PDF](https://arxiv.org/pdf/2403.00336) |
 | 2024-02-27 | Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning | Xiaoyu Zhang, Matthew Chang, Pranav Kumar, Saurabh Gupta | [Abstract](https://arxiv.org/abs/2402.17768) · [PDF](https://arxiv.org/pdf/2402.17768) |
 | 2024-02-22 | BeTAIL: Behavior Transformer Adversarial Imitation Learning from Human Racing Gameplay | Catherine Weaver, Chen Tang, Ce Hao, Kenta Kawamoto et al. | [Abstract](https://arxiv.org/abs/2402.14194) · [PDF](https://arxiv.org/pdf/2402.14194) |
-| 2023-11-02 | C3DM: Constrained-Context Conditional Diffusion Models for Imitation Learning | Vaibhav Saxena, Yotto Koga, Danfei Xu | [Abstract](https://arxiv.org/abs/2311.01419) · [PDF](https://arxiv.org/pdf/2311.01419) |
 
 ---
 

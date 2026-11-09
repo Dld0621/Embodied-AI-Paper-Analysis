@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Quadruped%20%26%20Legged%20Locomotion&specialty=General%20Legged%20%26%20Multi-legged%20Control#research-workbench)
 
-> 160 conference papers · 307 recent arXiv papers
+> 161 conference papers · 306 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,23 +14,24 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (160)
+## Conference papers (161)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | A Novel Paddling Propulsion Gait for a Wheel-Legged Robot on Sand Terrain | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696483) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696483) |
+| 2026 | A Novel Paddling Propulsion Gait for a Wheel-Legged Robot on Sand Terrain | ICRA · Legged | [Paper](https://doi.org/10.1109/icra57385.2026.11696483) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696483) |
 | 2026 | Disturbance-Aware Adaptive Compensation in Hybrid Force-Position Locomotion Policy for Legged Robots | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2506.00472) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697406) |
 | 2026 | Dribble Master: Learning Agile Humanoid Dribbling through Legged Locomotion | ICRA · Humanoid | [Paper](https://arxiv.org/pdf/2505.12679) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697201) |
-| 2026 | MemClaw-RAG: Memory-Driven Navigation and Adaptive Locomotion for Wheeled-Legged Robots in Dynamic Environments | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695775) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695775) |
+| 2026 | MemClaw-RAG: Memory-Driven Navigation and Adaptive Locomotion for Wheeled-Legged Robots in Dynamic Environments | ICRA · Locomotion | [Paper](https://doi.org/10.1109/icra57385.2026.11695775) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695775) |
 | 2026 | MUJICA: Multi-skill Unified Joint Integration of Control Architecture for Wheeled-Legged Robots | ICRA · Legged | [Paper](https://arxiv.org/pdf/2605.13058) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696604) |
 | 2026 | OpenHEART: Opening Heterogeneous Articulated Objects with a Legged Manipulator | ICRA · Legged | [Paper](https://arxiv.org/pdf/2603.05830) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697069) |
-| 2026 | Path Tracking Control for A Transformable Wheel-Legged Robot Using Model Predictive Control | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696934) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696934) |
+| 2026 | Path Tracking Control for A Transformable Wheel-Legged Robot Using Model Predictive Control | ICRA · Legged | [Paper](https://doi.org/10.1109/icra57385.2026.11696934) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696934) |
 | 2026 | Simultaneous Calibration of Noise Covariance and Kinematics for State Estimation of Legged Robots via Bi-level Optimization | ICRA · Legged | [Paper](https://arxiv.org/pdf/2510.11539) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697412) |
 | 2026 | SlipSense: Multimodal Sensing for Online Slip Detection in Legged Robots | ICRA · Legged | [Paper](https://arxiv.org/pdf/2606.24350) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696041) |
-| 2026 | SURF-Loco: Mastering Complex Industrial Terrains with 3D Surfel-based Reinforcement Learning for Legged Robots | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697514) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697514) |
-| 2026 | Teaching to Individual Needs: Bidirectional Teacher-Student Learning for Wheeled-Legged Locomotion | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696471) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696471) |
-| 2026 | When the Adversary Knows You Better: Adversarial Training for Learning-Based Legged Robots | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696620) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696620) |
+| 2026 | SURF-Loco: Mastering Complex Industrial Terrains with 3D Surfel-based Reinforcement Learning for Legged Robots | ICRA · Legged | [Paper](https://doi.org/10.1109/icra57385.2026.11697514) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697514) |
+| 2026 | Teaching to Individual Needs: Bidirectional Teacher-Student Learning for Wheeled-Legged Locomotion | ICRA · Locomotion | [Paper](https://doi.org/10.1109/icra57385.2026.11696471) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696471) |
+| 2026 | When the Adversary Knows You Better: Adversarial Training for Learning-Based Legged Robots | ICRA · Legged | [Paper](https://doi.org/10.1109/icra57385.2026.11696620) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696620) |
 | 2026 | WiXus: A Wheeled-Legged Robot with Wire-Driven Environmental Utilizing to Integrate Mobility and Manipulation | ICRA · Legged | [Paper](https://arxiv.org/pdf/2605.20932) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696692) |
+| 2025 | OneOcc: Semantic Occupancy Prediction for Legged Robots with a Single Panoramic Camera | CVPR · Legged | [Paper](https://arxiv.org/abs/2511.03571) · [Publisher](https://doi.org/10.48550/arXiv.2511.03571) |
 | 2025 | A Learning Framework for Diverse Legged Robot Locomotion Using Barrier-Based Style Rewards | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2409.15780) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128517) |
 | 2025 | Added Mass and Accuracy of the FF -SLIP Model for Legged Swimming | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128491) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128491) |
 | 2025 | Addition of a Peristaltic Wave Improves Multi-Legged Locomotion Performance on Complex Terrains | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2410.01046) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127656) |
@@ -95,14 +96,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Pegasus: a Novel Bio-inspired Quadruped Robot with Underactuated Wheeled-Legged Mechanism * | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611633) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611633) |
 | 2024 | Reinforcement Learning for Blind Stair Climbing with Legged and Wheeled-Legged Robots | ICRA · Legged | [Paper](https://arxiv.org/pdf/2402.06143) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610069) |
 | 2024 | Reinforcement Learning for Reduced-order Models of Legged Robots | ICRA · Legged | [Paper](https://arxiv.org/pdf/2310.09873) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610747) |
-| 2024 | Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End | ICRA · Legged | [Paper](https://arxiv.org/abs/2310.03581) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611254) |
+| 2024 | Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End | ICRA · Legged | [Paper](https://arxiv.org/pdf/2310.03581) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611254) |
 | 2024 | Safety-Critical Coordination of Legged Robots via Layered Controllers and Forward Reachable Set based Control Barrier Functions | ICRA · Legged | [Paper](https://arxiv.org/pdf/2312.08689) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610589) |
 | 2024 | Seabed intervention with an underwater legged robot | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611135) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611135) |
-| 2024 | SpaceHopper: A Small-Scale Legged Robot for Exploring Low-Gravity Celestial Bodies | ICRA · Legged | [Paper](https://arxiv.org/abs/2403.02831) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610057) |
+| 2024 | SpaceHopper: A Small-Scale Legged Robot for Exploring Low-Gravity Celestial Bodies | ICRA · Legged | [Paper](https://arxiv.org/pdf/2403.02831) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610057) |
 | 2024 | Towards Standardized Disturbance Rejection Testing of Legged Robot Locomotion with Linear Impactor: A Preliminary Study, Observations, and Implications | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2308.14636) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610064) |
-| 2024 | VAPOR: Legged Robot Navigation in Unstructured Outdoor Environments using Offline Reinforcement Learning | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610132) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610132) |
+| 2024 | VAPOR: Legged Robot Navigation in Unstructured Outdoor Environments using Offline Reinforcement Learning | ICRA · Legged | [Paper](https://arxiv.org/pdf/2309.07832) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610132) |
 | 2024 | Accelerating Model Predictive Control for Legged Robots through Distributed Optimization | IROS · Legged | [Paper](https://arxiv.org/pdf/2403.11742) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801676) |
-| 2024 | Arm-Constrained Curriculum Learning for Loco-Manipulation of a Wheel-Legged Robot | IROS · Legged | [Paper](https://arxiv.org/abs/2403.16535) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802062) |
+| 2024 | Arm-Constrained Curriculum Learning for Loco-Manipulation of a Wheel-Legged Robot | IROS · Legged | [Paper](https://arxiv.org/pdf/2403.16535) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802062) |
 | 2024 | CaT: Constraints as Terminations for Legged Locomotion Reinforcement Learning | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2403.18765) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802334) |
 | 2024 | Centroidal State Estimation Based on the Koopman Embedding for Dynamic Legged Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2403.13366) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801750) |
 | 2024 | DecAP : Decaying Action Priors for Accelerated Imitation Learning of Torque-Based Legged Locomotion Policies | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2310.05714) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802000) |
@@ -137,7 +138,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Generating a Terrain-Robustness Benchmark for Legged Locomotion: A Prototype via Terrain Authoring and Active Learning | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2208.07681) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160522) |
 | 2023 | Getting Air: Modelling and Control of a Hybrid Pneumatic-Electric Legged Robot | ICRA · Legged | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160737) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160737) |
 | 2023 | Learning an Efficient Terrain Representation for Haptic Localization of a Legged Robot | ICRA · Legged | [Paper](https://arxiv.org/pdf/2209.15135) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160340) |
-| 2023 | Learning Arm-Assisted Fall Damage Reduction and Recovery for Legged Mobile Manipulators | ICRA · Legged | [Paper](https://arxiv.org/abs/2303.05486) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160582) |
+| 2023 | Learning Arm-Assisted Fall Damage Reduction and Recovery for Legged Mobile Manipulators | ICRA · Legged | [Paper](https://arxiv.org/pdf/2303.05486) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160582) |
 | 2023 | Multi-embodiment Legged Robot Control as a Sequence Modeling Problem | ICRA · Legged | [Paper](https://arxiv.org/pdf/2212.09078) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161034) |
 | 2023 | Multi-segmented Adaptive Feet for Versatile Legged Locomotion in Natural Terrain | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2209.08499) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161515) |
 | 2023 | Probabilistic Contact State Estimation for Legged Robots using Inertial Information | ICRA · Legged | [Paper](https://arxiv.org/pdf/2303.00538) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161485) |
@@ -179,14 +180,14 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Real-time Digital Double Framework to Predict Collapsible Terrains for Legged Robots | IROS · Legged | [Paper](https://arxiv.org/pdf/2209.09508) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981613) |
 | 2022 | Safe Reinforcement Learning for Legged Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2203.02638) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982038) |
 
-## Recent arXiv papers (307)
+## Recent arXiv papers (306)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-03 | Caging Vision-Language Navigation for Legged Robots via Barrier-Certified Safety Architecture | Abhijeet M. Kulkarni, Saimouli Katragadda, Yuze Du, Zijun Sha et al. | [Abstract](https://arxiv.org/abs/2611.04972) · [PDF](https://arxiv.org/pdf/2611.04972) |
 | 2026-10-29 | RAIBO-Wagon: Real-Time Navigation System for a Legged Robot Towing a Wagon | Insung Yang, Eunchae Kim, Jungwoo Hur, Seunghun Jeon et al. | [Abstract](https://arxiv.org/abs/2610.39267) · [PDF](https://arxiv.org/pdf/2610.39267) |
 | 2026-10-28 | OmniQuad: a Wheeled-Legged Hybrid Robot with Omnidirectional Wheels | Francesco Iotti, Alok Ranjan, Franco Angelini, Manolo Garabini | [Abstract](https://arxiv.org/abs/2610.38502) · [PDF](https://arxiv.org/pdf/2610.38502) |
 | 2026-10-27 | RESPLE2: Inertial-Informed Recursive Non-Uniform Spline Estimation for Multi-Sensor Odometry with Global Refinement | Ziyu Cao, William Talbot, Song Li, Pakpong Chirarattananon et al. | [Abstract](https://arxiv.org/abs/2610.37602) · [PDF](https://arxiv.org/pdf/2610.37602) |
-| 2026-10-26 | Differentiable Contact Dynamics for Legged Locomotion: Policy Learning and Contact-Implicit Trajectory Optimization | Gijeong Kim, Seungbin Oh, Dongyun Kang, Hae-Won Park | [Abstract](https://arxiv.org/abs/2610.35852) · [PDF](https://arxiv.org/pdf/2610.35852) |
 | 2026-10-23 | From Tabletop to Walking Bot: Deploying a VLA Model on a Legged Manipulator Robot | Giovanni Minelli, Antonio Langella, Giovanni B. Dessy, Lorenzo Amatucci et al. | [Abstract](https://arxiv.org/abs/2610.32271) · [PDF](https://arxiv.org/pdf/2610.32271) |
 | 2026-10-19 | Learning Wheel Motion Uncertainty for Degeneracy-Aware LiDAR-Inertial Odometry on Quadrupedal Wheel-Legged Robots | Hairuo Wei, Yunfan Ren, Renda Yang, Qiangsheng Huang et al. | [Abstract](https://arxiv.org/abs/2610.26550) · [PDF](https://arxiv.org/pdf/2610.26550) |
 | 2026-10-19 | Design and Control of a Multimodal Legged-Aerial Robot Through Separate Control Contraction Metrics | Kaushik Venkatesh Krishnamurthy, Eric Sihite, Alireza Ramezani, Morteza Gharib | [Abstract](https://arxiv.org/abs/2610.27315) · [PDF](https://arxiv.org/pdf/2610.27315) |
@@ -489,7 +490,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-14 | Safety-Critical Coordination of Legged Robots via Layered Controllers and Forward Reachable Set based Control Barrier Functions | Jeeseop Kim, Jaemin Lee, Aaron D. Ames | [Abstract](https://arxiv.org/abs/2312.08689) · [PDF](https://arxiv.org/pdf/2312.08689) |
 | 2023-12-10 | Explosive Legged Robotic Hopping: Energy Accumulation and Power Amplification via Pneumatic Augmentation | Yifei Chen, Arturo Gamboa-Gonzalez, Michael Wehner, Xiaobin Xiong | [Abstract](https://arxiv.org/abs/2312.05773) · [PDF](https://arxiv.org/pdf/2312.05773) |
 | 2023-11-25 | How Strong a Kick Should be to Topple Northeastern's Tumbling Robot? | Adarsh Salagame, Neha Bhattachan, Andre Caetano, Ian McCarthy et al. | [Abstract](https://arxiv.org/abs/2311.14878) · [PDF](https://arxiv.org/pdf/2311.14878) |
-| 2023-11-07 | Design and Experimental Verification of a Jumping Legged Robot for Martian Lava Tube Exploration | Jørgen Anker Olsen, Kostas Alexis | [Abstract](https://arxiv.org/abs/2311.03854) · [PDF](https://arxiv.org/pdf/2311.03854) |
 
 ---
 

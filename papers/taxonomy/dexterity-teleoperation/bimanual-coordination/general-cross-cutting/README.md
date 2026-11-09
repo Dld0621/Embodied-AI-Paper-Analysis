@@ -19,8 +19,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2026 | Foundational World Models Accurately Detect Bimanual Manipulator Failures | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2603.06987) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695977) |
-| 2026 | Multi-modal Affordance Planner with Temporal-Context Action Policy for Long-Horizon Bimanual Robot Manipulation | ICRA · Bimanual | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695814) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695814) |
-| 2026 | Tactile Hide and Seek: Bimanual Object Blind Search and Retrieval via Tactile-Only Feedback | ICRA · Bimanual | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696735) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696735) |
+| 2026 | Multi-modal Affordance Planner with Temporal-Context Action Policy for Long-Horizon Bimanual Robot Manipulation | ICRA · Bimanual | [Paper](https://doi.org/10.1109/icra57385.2026.11695814) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695814) |
+| 2026 | Tactile Hide and Seek: Bimanual Object Blind Search and Retrieval via Tactile-Only Feedback | ICRA · Bimanual | [Paper](https://doi.org/10.1109/icra57385.2026.11696735) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696735) |
 | 2026 | Towards Exploratory and Focused Manipulation with Bimanual Active Perception: A New Problem, Benchmark and Strategy | ICRA · Bimanual | [Paper](https://arxiv.org/pdf/2602.01939) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696771) |
 | 2025 | Spatial-Temporal Graph Diffusion Policy with Kinematic Modeling for Bimanual Robotic Manipulation | CVPR · Bimanual | [Paper](https://arxiv.org/pdf/2503.10743) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01621) |
 | 2025 | 2HandedAfforder: Learning Precise Actionable Bimanual Affordances from Human Videos | ICCV · Bimanual | [Paper](https://arxiv.org/pdf/2503.09320) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01368) |
@@ -40,6 +40,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-02 | MABEL: An Open Anthropomorphic Mobile Bimanual Platform for Teleoperation and Learning | Qilong Cheng, Rooholla Khorrambakht, Mohamed Yassine Kabouri, Quang Nam Nguyen et al. | [Abstract](https://arxiv.org/abs/2611.04083) · [PDF](https://arxiv.org/pdf/2611.04083) |
 | 2026-10-29 | UMI-Live for In-The-Wild Bimanual Robotics Data Collection | Govind Velamoor, Adrian Lin, Sam Jung, Spencer Mateega et al. | [Abstract](https://arxiv.org/abs/2610.39385) · [PDF](https://arxiv.org/pdf/2610.39385) |
 | 2026-10-27 | RoboSTD: Zero-Shot Single-to-Dual Transfer via Sagittal Mirroring for Bimanual Learning | Hongyu Wu, Chong Liu, Shaoxuan Xie, Shaqi Luo et al. | [Abstract](https://arxiv.org/abs/2610.36685) · [PDF](https://arxiv.org/pdf/2610.36685) |
 | 2026-10-27 | Keeping Contact: Task-Adaptive Friction Margins for Bimanual Non-Prehensile Manipulation | Qian Ying Lee, Lin Yang, Domenico Campolo | [Abstract](https://arxiv.org/abs/2610.36961) · [PDF](https://arxiv.org/pdf/2610.36961) |
@@ -64,7 +65,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-29 | STEAM: Self-Supervised Temporal Ensemble Advantage Modeling for Real-World Robot Learning | Zhihao Liu, Qiuyi Gu, Yitao Wang, Dongming Qiao et al. | [Abstract](https://arxiv.org/abs/2606.29834) · [PDF](https://arxiv.org/pdf/2606.29834) |
 | 2026-06-29 | SPINE: Bridging the Cyber-Physical Gap with Agentic AI | Minkyu Ham, Dongho Kim, Chan Lee, Min Jun Kim et al. | [Abstract](https://arxiv.org/abs/2607.13049) · [PDF](https://arxiv.org/pdf/2607.13049) |
 | 2026-06-18 | Start Right, Arrive Right: Asynchronous Execution via Initial Noise Selection | Trong-Bao Ho, Quang-Tan Nguyen, Thien-Loc Ha, Gia-Binh Nguyen et al. | [Abstract](https://arxiv.org/abs/2606.19774) · [PDF](https://arxiv.org/pdf/2606.19774) |
-| 2026-05-30 | PACE: Phase-Aware Chunk Execution for Robot Policies with Action Chunking | Junnan Nie, Jiayi Li, Chenghao Liu, Junyi Lao et al. | [Abstract](https://arxiv.org/abs/2606.00537) · [PDF](https://arxiv.org/pdf/2606.00537) |
 | 2026-05-15 | Nori A3: A Bimanual Mobile Manipulator at the Appliance Price Point | Antonio Li | [Abstract](https://arxiv.org/abs/2605.16537) · [PDF](https://arxiv.org/pdf/2605.16537) |
 | 2026-05-13 | TouchAnything: A Dataset and Framework for Bimanual Tactile Estimation from Egocentric Video | Jianyi Zhou, Ziteng Gao, Feiyang Hong, Zirui Liu et al. | [Abstract](https://arxiv.org/abs/2605.13083) · [PDF](https://arxiv.org/pdf/2605.13083) |
 | 2026-03-10 | Cutting the Cord: System Architecture for Low-Cost, GPU-Accelerated Bimanual Mobile Manipulation | Artemis Shaw, Chen Liu, Justin Costa, Rane Gray et al. | [Abstract](https://arxiv.org/abs/2603.09051) · [PDF](https://arxiv.org/pdf/2603.09051) |

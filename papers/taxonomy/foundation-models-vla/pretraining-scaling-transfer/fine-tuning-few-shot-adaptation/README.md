@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Pretraining%2C%20Scaling%20%26%20Transfer&specialty=Fine-tuning%2C%20Few-shot%20%26%20Adaptation#research-workbench)
 
-> 31 conference papers · 204 recent arXiv papers
+> 31 conference papers · 205 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,9 +20,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2026 | Compositional Context Fine-Tuning Vision-Language Model for Complex Assembly Action Understanding from Videos | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2607.10797) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695916) |
 | 2026 | Point2Act: Efficient 3D Distillation of Multimodal LLMs for Zero-Shot Context-Aware Grasping | ICRA · Llm | [Paper](https://arxiv.org/pdf/2508.03099) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697250) |
-| 2025 | Lift3D Policy: Lifting 2D Foundation Models for Robust 3D Robotic Manipulation | CVPR · Foundation Model | [Paper](https://doi.org/10.1109/CVPR52734.2025.01617) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01617) |
+| 2025 | Lift3D Policy: Lifting 2D Foundation Models for Robust 3D Robotic Manipulation | CVPR · Foundation Model | [Paper](https://arxiv.org/pdf/2411.18623) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01617) |
 | 2025 | Tartan IMU: A Light Foundation Model for Inertial Positioning in Robotics | CVPR · Foundation Model | [Paper](https://doi.org/10.1109/CVPR52734.2025.02097) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02097) |
-| 2025 | ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2403.09583) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127622) |
+| 2025 | ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2403.09583) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127622) |
 | 2025 | In-Context Learning Enables Robot Action Prediction in LLMs | ICRA · Llm | [Paper](https://arxiv.org/pdf/2410.12782) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128807) |
 | 2025 | ZeroCAP: Zero-Shot Multi-Robot Context Aware Pattern Formation via Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2404.02318) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127452) |
 | 2025 | Boosting Omnidirectional Stereo Matching with a Pre-trained Depth Foundation Model | IROS · Foundation Model | [Paper](https://infoscience.epfl.ch/handle/20.500.14299/252124) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246233) |
@@ -50,10 +50,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Large Language Models as Zero-Shot Human Models for Human-Robot Interaction | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.03548) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341488) |
 | 2023 | TidyBot: Personalized Robot Assistance with Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2305.05658) · [Publisher](https://doi.org/10.1007/s10514-023-10139-z) |
 
-## Recent arXiv papers (204)
+## Recent arXiv papers (205)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-02 | D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models | Marius Memmel, Shawn Yin, Urvi Rutia, Angad Wadhwa et al. | [Abstract](https://arxiv.org/abs/2611.03622) · [PDF](https://arxiv.org/pdf/2611.03622) |
 | 2026-10-25 | HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience | Yang Liu, Jiacheng Liu, Hengtao Li, Yuheng Huang et al. | [Abstract](https://arxiv.org/abs/2610.34186) · [PDF](https://arxiv.org/pdf/2610.34186) |
 | 2026-10-21 | Robot Generalization Beyond Volume: The Diversity Path via Zero-Shot Capabilities | Rafael Felix, Flavia Yanase | [Abstract](https://arxiv.org/abs/2610.29829) · [PDF](https://arxiv.org/pdf/2610.29829) |
 | 2026-10-20 | Embodied Task Agents Can Perform Fine Manipulation through Tactile In-Context Learning | Yubang Wang, Zezheng Huai, Yifei Zhang, Jinhao Wu et al. | [Abstract](https://arxiv.org/abs/2610.27613) · [PDF](https://arxiv.org/pdf/2610.27613) |
@@ -143,7 +144,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-11-16 | Are LLMs The Way Forward? A Case Study on LLM-Guided Reinforcement Learning for Decentralized Autonomous Driving | Timur Anvar, Jeffrey Chen, Yuyan Wang, Rohan Chandra | [Abstract](https://arxiv.org/abs/2511.12751) · [PDF](https://arxiv.org/pdf/2511.12751) |
 | 2025-11-13 | Opinion: Towards Unified Expressive Policy Optimization for Robust Robot Learning | Haidong Huang, Haiyue Zhu. Jiayu Song, Xixin Zhao, Yaohua Zhou et al. | [Abstract](https://arxiv.org/abs/2511.10087) · [PDF](https://arxiv.org/pdf/2511.10087) |
 | 2025-11-08 | VLAD-Grasp: Zero-shot Grasp Detection via Vision-Language Models | Manav Kulshrestha, S. Talha Bukhari, Damon Conover, Aniket Bera | [Abstract](https://arxiv.org/abs/2511.05791) · [PDF](https://arxiv.org/pdf/2511.05791) |
-| 2025-11-02 | Maestro: Orchestrating Robotics Modules with Vision-Language Models for Zero-Shot Generalist Robots | Junyao Shi, Rujia Yang, Kaitian Chao, Selina Bingqing Wan et al. | [Abstract](https://arxiv.org/abs/2511.00917) · [PDF](https://arxiv.org/pdf/2511.00917) |
+| 2025-11-02 | MAESTRO: Orchestrating Robotics Modules with Coding Agents for Zero-Shot Generalist Robots | Junyao Shi, Rujia Yang, Kaitian Chao, Selina Bingqing Wan et al. | [Abstract](https://arxiv.org/abs/2511.00917) · [PDF](https://arxiv.org/pdf/2511.00917) |
 | 2025-10-23 | Dino-Diffusion Modular Designs Bridge the Cross-Domain Gap in Autonomous Parking | Zixuan Wu, Hengyuan Zhang, Ting-Hsuan Chen, Yuliang Guo et al. | [Abstract](https://arxiv.org/abs/2510.20335) · [PDF](https://arxiv.org/pdf/2510.20335) |
 | 2025-10-12 | Zero-Shot Large Language Model Agents for Fully Automated Radiotherapy Treatment Planning | Dongrong Yang, Xin Wu, Yibo Xie, Xinyi Li et al. | [Abstract](https://arxiv.org/abs/2510.11754) · [PDF](https://arxiv.org/pdf/2510.11754) |
 | 2025-10-07 | D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI | Suhwan Choi, Jaeyoon Jung, Haebin Seong, Minchan Kim et al. | [Abstract](https://arxiv.org/abs/2510.05684) · [PDF](https://arxiv.org/pdf/2510.05684) |

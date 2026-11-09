@@ -67,6 +67,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-04-09 | Multi-Object Tracking for Collision Avoidance Using Multiple Cameras in Open RAN Networks | Jordi Serra, Anton Aguilar, Ebrahim Abu-Helalah, Raúl Parada et al. | [Abstract](https://arxiv.org/abs/2504.07163) · [PDF](https://arxiv.org/pdf/2504.07163) |
 | 2025-04-05 | Risk-Aware Robot Control in Dynamic Environments Using Belief Control Barrier Functions | Shaohang Han, Matti Vahs, Jana Tumova | [Abstract](https://arxiv.org/abs/2504.04097) · [PDF](https://arxiv.org/pdf/2504.04097) |
 | 2025-03-29 | Event Camera Meets Mobile Embodied Perception: Abstraction, Algorithm, Acceleration, Application | Haoyang Wang, Ruishan Guo, Pengtao Ma, Ciyu Ruan et al. | [Abstract](https://arxiv.org/abs/2503.22943) · [PDF](https://arxiv.org/pdf/2503.22943) |
+| 2025-03-25 | Design of an Underwater Vehicle With Orientation-Adjustable Thrusters and Adaptive Tracking Control | Yifei Wang, Shihan Kong, Zhanhua Xin, Kaiwei Zhu et al. | [Abstract](https://arxiv.org/abs/2503.19288) · [PDF](https://arxiv.org/pdf/2503.19288) |
 | 2025-03-17 | OptiPMB: Enhancing 3D Multi-Object Tracking with Optimized Poisson Multi-Bernoulli Filtering | Guanhua Ding, Yuxuan Xia, Runwei Guan, Qinchen Wu et al. | [Abstract](https://arxiv.org/abs/2503.12968) · [PDF](https://arxiv.org/pdf/2503.12968) |
 | 2025-03-13 | 3D Extended Object Tracking based on Extruded B-Spline Side View Profiles | Longfei Han, Klaus Kefferpütz, Jürgen Beyerer | [Abstract](https://arxiv.org/abs/2503.10730) · [PDF](https://arxiv.org/pdf/2503.10730) |
 | 2025-03-06 | Omnidirectional Multi-Object Tracking | Kai Luo, Hao Shi, Sheng Wu, Fei Teng et al. | [Abstract](https://arxiv.org/abs/2503.04565) · [PDF](https://arxiv.org/pdf/2503.04565) |
@@ -107,7 +108,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-01-29 | A comparison of RL-based and PID controllers for 6-DOF swimming robots: hybrid underwater object tracking | Faraz Lotfi, Khalil Virji, Nicholas Dudek, Gregory Dudek | [Abstract](https://arxiv.org/abs/2401.16618) · [PDF](https://arxiv.org/pdf/2401.16618) |
 | 2023-12-18 | Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking | Shihao Feng, Pengpeng Liang, Jin Gao, Erkang Cheng | [Abstract](https://arxiv.org/abs/2312.11051) · [PDF](https://arxiv.org/pdf/2312.11051) |
 | 2023-12-11 | System-level Safety Guard: Safe Tracking Control through Uncertain Neural Network Dynamics Models | Xiao Li, Yutong Li, Anouck Girard, Ilya Kolmanovsky | [Abstract](https://arxiv.org/abs/2312.06810) · [PDF](https://arxiv.org/pdf/2312.06810) |
-| 2023-11-06 | Obstacle- and Occlusion-Responsive Visual Tracking Control for Redundant Manipulators using Reachability Measure | Mincheul Kang, Junhyoung Ha | [Abstract](https://arxiv.org/abs/2311.03029) · [PDF](https://arxiv.org/pdf/2311.03029) |
 
 ---
 

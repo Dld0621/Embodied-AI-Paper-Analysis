@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Mapping%20%26%20Localization&specialty=Visual-inertial%20%26%20LiDAR%20Odometry#research-workbench)
 
-> 9 conference papers · 256 recent arXiv papers
+> 9 conference papers · 255 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,17 +28,18 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Tightly-Coupled Visual- DVL- Inertial Odometry for Robot-Based Ice-Water Boundary Exploration | IROS · Exploration | [Paper](https://arxiv.org/pdf/2303.17005) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342024) |
 | 2022 | Is Mapping Necessary for Realistic PointGoal Navigation? | CVPR · Navigation | [Paper](https://arxiv.org/pdf/2206.00997) · [Publisher](https://doi.org/10.1109/CVPR52688.2022.01672) |
 
-## Recent arXiv papers (256)
+## Recent arXiv papers (255)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-05 | FREE-LIVO: Physically Decoupled Yet Tightly Coupled LiDAR-Inertial-Visual Odometry | Reon Tabata, Kenji Koide, Shuji Oishi, Taku Okawara et al. | [Abstract](https://arxiv.org/abs/2611.07463) · [PDF](https://arxiv.org/pdf/2611.07463) |
 | 2026-10-23 | TinyFlow: Breaking the Warping Bottleneck for Edge Optical Flow | Xiao'ao Song, Chahat Deep Singh | [Abstract](https://arxiv.org/abs/2610.33338) · [PDF](https://arxiv.org/pdf/2610.33338) |
 | 2026-10-23 | Resilient Decentralized Radar-LiDAR-Inertial Odometry in Challenging Subterranean Environments | Moumita Mukherjee, Avijit Banerjee, Anton Koval, George Nikolakopoulos | [Abstract](https://arxiv.org/abs/2610.35363) · [PDF](https://arxiv.org/pdf/2610.35363) |
 | 2026-10-20 | Real-Time Ground Normal Vector Estimation for Spherical Mobile 3D Mapping using LiDAR-Inertial Odometry | Tim Schubert, Fabian Arzberger, Andreas Nüchter | [Abstract](https://arxiv.org/abs/2610.28701) · [PDF](https://arxiv.org/pdf/2610.28701) |
 | 2026-10-16 | F-LIVO: A Feature-Level Geometric Measurement Framework for LiDAR-Inertial-Visual Odometry | Xinye Dai, Yapeng Wang, Shujie Zhou, Zihao Wang et al. | [Abstract](https://arxiv.org/abs/2610.23595) · [PDF](https://arxiv.org/pdf/2610.23595) |
 | 2026-10-14 | Line-Augmented cuVSLAM: Robust Visual Odometry in Low-Texture Environments | Dara Molloy, Terry Wu, Wonju Lee, Abhilash Nand Kumar et al. | [Abstract](https://arxiv.org/abs/2610.20958) · [PDF](https://arxiv.org/pdf/2610.20958) |
 | 2026-10-09 | When LiDAR Fades, Radar Takes Over: LiDAR Reliability-Aware Adaptive Localization Under Airborne Obscurants | Moumita Mukherjee, Avijit Banerjee, Anton Koval, George Nikolakopoulo | [Abstract](https://arxiv.org/abs/2610.13788) · [PDF](https://arxiv.org/pdf/2610.13788) |
-| 2026-10-06 | VOMMI: Collecting and Leveraging Portable Demonstrations for Mobile Manipulation | Yutian Zhang, Xingrui Xiong, Siyuan Ma, Yang Li et al. | [Abstract](https://arxiv.org/abs/2610.08220) · [PDF](https://arxiv.org/pdf/2610.08220) |
+| 2026-10-06 | VOMMI: Collecting and Leveraging Portable Demonstrations for Mobile Manipulation | Yutian Zhang, Xingrui Xiong, Siyuan Ma, Donghao Wang et al. | [Abstract](https://arxiv.org/abs/2610.08220) · [PDF](https://arxiv.org/pdf/2610.08220) |
 | 2026-10-05 | Embedded Bare-Metal Radar-Inertial Odometry | Nicolai Adil Øyen Aatif, Morten Nissov, Kostas Alexis | [Abstract](https://arxiv.org/abs/2610.07278) · [PDF](https://arxiv.org/pdf/2610.07278) |
 | 2026-10-04 | GR-LIO: A Local Ground-Aware LiDAR-Inertial Odometry System Using Body-to-Ground Height | Zhixin Zhang, Yang Song, Liang Zhao, Nathan Shankar et al. | [Abstract](https://arxiv.org/abs/2610.05546) · [PDF](https://arxiv.org/pdf/2610.05546) |
 | 2026-10-01 | Real-time Event-camera Stereo Visual Odometry via Keytime Gaussian Process Regression | Nikan Nobari, Jonathan D. Gammell | [Abstract](https://arxiv.org/abs/2610.02601) · [PDF](https://arxiv.org/pdf/2610.02601) |
@@ -108,7 +109,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-12-30 | Learning to Anchor Visual Odometry: KAN-Based Pose Regression for Planetary Landing | Xubo Luo, Zhaojin Li, Xue Wan, Wei Zhang et al. | [Abstract](https://arxiv.org/abs/2602.06968) · [PDF](https://arxiv.org/pdf/2602.06968) |
 | 2025-12-23 | FAR-AVIO: Fast and Robust Schur-Complement Based Acoustic-Visual-Inertial Fusion Odometry with Sensor Calibration | Hao Wei, Peiji Wang, Qianhao Wang, Tong Qin et al. | [Abstract](https://arxiv.org/abs/2512.20355) · [PDF](https://arxiv.org/pdf/2512.20355) |
 | 2025-12-18 | A2VISR: An Active and Adaptive Ground-Aerial Localization System Using Visual Inertial and Single-Range Fusion | Sijia Chen, Wei Dong | [Abstract](https://arxiv.org/abs/2512.16367) · [PDF](https://arxiv.org/pdf/2512.16367) |
-| 2025-12-16 | SUPER -- A Framework for Sensitivity-based Uncertainty-aware Performance and Risk Assessment in Visual Inertial Odometry | Johannes A. Gaus, Daniel Häufle, Woo-Jeong Baek | [Abstract](https://arxiv.org/abs/2512.14189) · [PDF](https://arxiv.org/pdf/2512.14189) |
 | 2025-12-09 | Enabling Autonomous Navigation in a Snake Robot through Visual-Inertial Odometry and Closed-Loop Trajectory Tracking Control | Mohammed Irfan Ali | [Abstract](https://arxiv.org/abs/2512.11886) · [PDF](https://arxiv.org/pdf/2512.11886) |
 | 2025-12-04 | Seabed-to-Sky Mapping of Maritime Environments with a Dual Orthogonal SONAR and LiDAR Sensor Suite | Christian Westerdahl, Jonas Poulsen, Daniel Holmelund, Peter Nicholas Hansen et al. | [Abstract](https://arxiv.org/abs/2512.05303) · [PDF](https://arxiv.org/pdf/2512.05303) |
 | 2025-11-28 | MARVO: Marine-Adaptive Radiance-aware Visual Odometry | Sacchin Sundar, Atman Kikani, Aaliya Alam, Sumukh Shrote et al. | [Abstract](https://arxiv.org/abs/2511.22860) · [PDF](https://arxiv.org/pdf/2511.22860) |
@@ -287,7 +287,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-16 | LIO-EKF: High Frequency LiDAR-Inertial Odometry using Extended Kalman Filters | Yibin Wu, Tiziano Guadagnino, Louis Wiesmann, Lasse Klingbeil et al. | [Abstract](https://arxiv.org/abs/2311.09887) · [PDF](https://arxiv.org/pdf/2311.09887) |
 | 2023-11-15 | Range-Visual-Inertial Sensor Fusion for Micro Aerial Vehicle Localization and Navigation | Abhishek Goudar, Wenda Zhao, Angela P. Schoellig | [Abstract](https://arxiv.org/abs/2311.09056) · [PDF](https://arxiv.org/pdf/2311.09056) |
 | 2023-11-10 | Dense Visual Odometry Using Genetic Algorithm | Slimane Djema, Zoubir Abdeslem Benselama, Ramdane Hedjar, Krabi Abdallah | [Abstract](https://arxiv.org/abs/2311.06149) · [PDF](https://arxiv.org/pdf/2311.06149) |
-| 2023-11-07 | Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM | Seongwook Yoon, Jaehyun Kim, Sanghoon Sull | [Abstract](https://arxiv.org/abs/2311.03722) · [PDF](https://arxiv.org/pdf/2311.03722) |
 
 ---
 

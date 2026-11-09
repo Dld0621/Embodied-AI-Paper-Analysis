@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Memory%20%26%20World%20Knowledge&specialty=World-Action%20%26%20Predictive%20Models#research-workbench)
 
-> 1 conference papers · 124 recent arXiv papers
+> 1 conference papers · 130 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,10 +20,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | Latent Action Pretraining from Videos | ICLR · Learning from video | [Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/45d74e190008c7bff2845ffc8e3facd3-Abstract-Conference.html) · [Official](https://proceedings.iclr.cc/paper_files/paper/2025/hash/45d74e190008c7bff2845ffc8e3facd3-Abstract-Conference.html) |
 
-## Recent arXiv papers (124)
+## Recent arXiv papers (130)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-06 | MDF++: Visuo-Tactile World Action Model with End-to-end Representation Learning | Zixuan Huang, Jinhao Yu, Zachary Charlick, Dmitry Berenson | [Abstract](https://arxiv.org/abs/2611.09293) · [PDF](https://arxiv.org/pdf/2611.09293) |
+| 2026-11-05 | Reinforcing End-to-End Autonomous Driving Safety via Negative-Aware Planning in a Unified World-Action Model | Zihao Zhang, Xinyu Zhang, Bing Zeng, Xingyu Chen et al. | [Abstract](https://arxiv.org/abs/2611.08111) · [PDF](https://arxiv.org/pdf/2611.08111) |
+| 2026-11-04 | Spatial-UMI-Dream: Scaling World Action Models with Metric Geometry for UMI Manipulation | Weiduo Yuan, Ze Yuan, Sihan Liu, Jionghao Wang et al. | [Abstract](https://arxiv.org/abs/2611.07229) · [PDF](https://arxiv.org/pdf/2611.07229) |
+| 2026-11-03 | DreamX: Video Diffusion Model is a Universal Latent Action Learner | Jisoo Kim, Chaehyun Kim, Junsu Kim, Jiho Park et al. | [Abstract](https://arxiv.org/abs/2611.05377) · [PDF](https://arxiv.org/pdf/2611.05377) |
+| 2026-10-31 | pico-WAM: Evaluating Counterfactual Prediction and Planning Error in a Compact World Action Model | Keivalya Pandya | [Abstract](https://arxiv.org/abs/2611.01039) · [PDF](https://arxiv.org/pdf/2611.01039) |
 | 2026-10-27 | World Dreamer v5-lite: A Multi-Robot World Action Model with One Dreamer | Guoning Wu, Zijian Cai, Yuhang Zhang, Ying Liu et al. | [Abstract](https://arxiv.org/abs/2610.37518) · [PDF](https://arxiv.org/pdf/2610.37518) |
 | 2026-10-27 | How Much Can Best-of-N Help a World Action Model? Measuring Selectable Headroom and Realizing It in Closed Loop | Haojia Gao, Yue Cao, Yumin Liu, Haohua Que et al. | [Abstract](https://arxiv.org/abs/2610.37196) · [PDF](https://arxiv.org/pdf/2610.37196) |
 | 2026-10-27 | GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation | Yang Liu, Xiaoli Liu, Liuzhao Li, Yuduo Song et al. | [Abstract](https://arxiv.org/abs/2610.37091) · [PDF](https://arxiv.org/pdf/2610.37091) |
@@ -41,8 +46,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-10-10 | CAG-WAM: Causal Action-Gain World Action Models for Robot Manipulation | Peizheng Guo, Cheng Zhang, Xingyu Zhang, Changwen Zheng et al. | [Abstract](https://arxiv.org/abs/2610.14720) · [PDF](https://arxiv.org/pdf/2610.14720) |
 | 2026-10-09 | SmolWAM: A Latent World-Action Model for Robotic Manipulation on Edge Devices | Timi Owolabi, Hikmah Olawore, Frances Adelakun, Ayotomiwa Oyewumi | [Abstract](https://arxiv.org/abs/2610.13740) · [PDF](https://arxiv.org/pdf/2610.13740) |
 | 2026-10-08 | UNITAS: A 3D-Native World Action Model for Embodied Manipulation | Ruixiang Wang, Yongyi Su, Wenlve Zhou, Bo Yue et al. | [Abstract](https://arxiv.org/abs/2610.12099) · [PDF](https://arxiv.org/pdf/2610.12099) |
-| 2026-10-08 | LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC | Shashank Hegde, Alexander Popov, Elie Aljalbout, Nikolai Smolyanskiy | [Abstract](https://arxiv.org/abs/2610.12407) · [PDF](https://arxiv.org/pdf/2610.12407) |
 | 2026-10-08 | HWAM: Humanoid World Action Model With Joint State--Action Generation | Yan Yang, Jikun Rong, Minzhao Zhu, Zheyi Zhao et al. | [Abstract](https://arxiv.org/abs/2610.12026) · [PDF](https://arxiv.org/pdf/2610.12026) |
+| 2026-10-08 | Diffusion-Steering-Based MPC with a JEPA World Action Model | Shashank Hegde, Alexander Popov, Elie Aljalbout, Nikolai Smolyanskiy | [Abstract](https://arxiv.org/abs/2610.12407) · [PDF](https://arxiv.org/pdf/2610.12407) |
 | 2026-10-07 | ΔWAM: Distilling Action Tangent Fields into World Action Models | Ke Wu, Hanwen Huang, Bo Gu, Kaizhao Zhang et al. | [Abstract](https://arxiv.org/abs/2610.09734) · [PDF](https://arxiv.org/pdf/2610.09734) |
 | 2026-10-07 | RealtimeWAM: How Fast Can I Run My World Action Model? | Huanan Liu, Ye Li, Kangye Ji, Xiaoyu Chen et al. | [Abstract](https://arxiv.org/abs/2610.10079) · [PDF](https://arxiv.org/pdf/2610.10079) |
 | 2026-10-07 | Long-WAM: Scaling the Context of World-Action Models | Wei Huang, Bohan Zhang, Chenzhi Liu, Isabella Liu et al. | [Abstract](https://arxiv.org/abs/2610.10528) · [PDF](https://arxiv.org/pdf/2610.10528) |
@@ -143,6 +148,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-04-28 | Privileged Foresight Distillation: Zero-Cost Future Correction for World Action Models | Pengcheng Fang, Hongli Chen, Xiaohao Cai | [Abstract](https://arxiv.org/abs/2604.25859) · [PDF](https://arxiv.org/pdf/2604.25859) |
 | 2026-04-13 | AIM: Intent-Aware Unified world action Modeling with Spatial Value Maps | Liaoyuan Fan, Zetian Xu, Chen Cao, Wenyao Zhang et al. | [Abstract](https://arxiv.org/abs/2604.11135) · [PDF](https://arxiv.org/pdf/2604.11135) |
 | 2026-04-02 | DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning | Yang Zhou, Xiaofeng Wang, Hao Shao, Letian Wang et al. | [Abstract](https://arxiv.org/abs/2604.01765) · [PDF](https://arxiv.org/pdf/2604.01765) |
+| 2026-03-24 | VTAM: Efficient Visuo-Tactile World-Action Models for Contact-Rich Manipulation without Tactile Pretraining | Haoran Yuan, Weigang Yi, Zhenyu Zhang, Wendi Chen et al. | [Abstract](https://arxiv.org/abs/2603.23481) · [PDF](https://arxiv.org/pdf/2603.23481) |
 | 2026-02-03 | MVP-LAM: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction | Jung Min Lee, Dohyeok Lee, Seokhun Ju, Taehyun Cho et al. | [Abstract](https://arxiv.org/abs/2602.03668) · [PDF](https://arxiv.org/pdf/2602.03668) |
 | 2025-11-20 | LAOF: Robust Latent Action Learning with Optical Flow Constraints | Xizhou Bu, Jiexi Lyu, Fulei Sun, Ruichen Yang et al. | [Abstract](https://arxiv.org/abs/2511.16407) · [PDF](https://arxiv.org/pdf/2511.16407) |
 | 2025-05-08 | CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations | Anthony Liang, Pavel Czempin, Matthew M. Hong, Yutai Zhou et al. | [Abstract](https://arxiv.org/abs/2505.04999) · [PDF](https://arxiv.org/pdf/2505.04999) |

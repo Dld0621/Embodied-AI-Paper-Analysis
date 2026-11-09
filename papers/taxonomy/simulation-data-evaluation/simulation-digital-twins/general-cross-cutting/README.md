@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 81 conference papers · 1,113 recent arXiv papers
+> 85 conference papers · 1,115 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,26 +14,30 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (81)
+## Conference papers (85)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Amortized NeuralSDF-Mesh Collision Detection for Robotic Contact Simulation | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696362) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696362) |
+| 2026 | Perceptual 3D Simulation With Physical World Modeling | CVPR · Simulation | [Paper](https://arxiv.org/abs/2606.27575) · [Publisher](https://doi.org/10.48550/arXiv.2606.27575) |
+| 2026 | What if? Emulative Simulation with World Models for Situated Reasoning | ECCV · Simulation | [Paper](https://arxiv.org/abs/2603.06445) · [Publisher](https://doi.org/10.48550/arXiv.2603.06445) |
+| 2026 | Manipulation as in Simulation: Enabling Accurate Geometry Perception in Robots | ICLR · Simulation | [Paper](https://arxiv.org/abs/2509.02530) · [Publisher](https://doi.org/10.48550/arXiv.2509.02530) |
+| 2026 | Amortized NeuralSDF-Mesh Collision Detection for Robotic Contact Simulation | ICRA · Simulation | [Paper](https://doi.org/10.1109/icra57385.2026.11696362) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696362) |
 | 2026 | Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2510.02738) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697008) |
-| 2026 | GSWorld: Closed-Loop Photorealistic Simulation Suite for Robot Manipulation | ICRA · Simulation | [Paper](https://arxiv.org/abs/2510.20813) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697084) |
-| 2026 | Investigation of Multiple Buoyancy Controller Equipped Underwater Glider Robot Modeling for Control System Development and Gliding Simulation | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697088) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697088) |
+| 2026 | GSWorld: Closed-Loop Photorealistic Simulation Suite for Robot Manipulation | ICRA · Simulation | [Paper](https://doi.org/10.1109/icra57385.2026.11697084) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697084) |
+| 2026 | Investigation of Multiple Buoyancy Controller Equipped Underwater Glider Robot Modeling for Control System Development and Gliding Simulation | ICRA · Simulation | [Paper](https://doi.org/10.1109/icra57385.2026.11697088) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697088) |
 | 2026 | LeHome: A Simulation Environment for Deformable Object Manipulation in Household Scenarios | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2604.22363) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696568) |
 | 2026 | MOSAIC: Skill-Centric Manipulation Planning with Physics Simulation | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2504.16738) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697074) |
-| 2026 | One Prompt, Many Rooms: A Force-Directed Approach to 3D Scene Generation for Robotics Simulation | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696816) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696816) |
-| 2026 | SAGrid: Scaling Robot Simulation through Automatic Affordance Annotation on In-the-Wild 3D Assets | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697139) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697139) |
+| 2026 | One Prompt, Many Rooms: A Force-Directed Approach to 3D Scene Generation for Robotics Simulation | ICRA · Simulation | [Paper](https://doi.org/10.1109/icra57385.2026.11696816) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696816) |
+| 2026 | SAGrid: Scaling Robot Simulation through Automatic Affordance Annotation on In-the-Wild 3D Assets | ICRA · Simulation | [Paper](https://doi.org/10.1109/icra57385.2026.11697139) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697139) |
 | 2026 | SPARR: Simulation-based Policies with Asymmetric Real-world Residuals for Assembly | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2602.23253) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696987) |
 | 2026 | Towards Real-World Identification of Fatigued Muscle Groups via Musculoskeletal Simulation | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2605.26151) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697100) |
-| 2025 | RoboPearls: Editable Video Simulation for Robot Manipulation | ICCV · Simulation | [Paper](https://arxiv.org/abs/2506.22756) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00943) |
+| 2025 | RoboPearls: Editable Video Simulation for Robot Manipulation | ICCV · Simulation | [Paper](https://arxiv.org/pdf/2506.22756) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00943) |
+| 2025 | AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory | ICLR · Simulation | [Paper](https://arxiv.org/abs/2505.14030) · [Publisher](https://doi.org/10.48550/arXiv.2505.14030) |
 | 2025 | ReGen: Generative Robot Simulation via Inverse Design | ICLR · Simulation | [Paper](https://arxiv.org/abs/2511.04769) · [Publisher](https://doi.org/10.48550/arXiv.2511.04769) |
 | 2025 | Reinforcement Learning Control of a Physical Robot Device for Assisted Human Walking without a Simulator | ICML · Simulator | [Paper](https://www.semanticscholar.org/paper/209d0357403302fcf74e926a278c5cbb219d38f2) · [Index](https://dblp.org/rec/conf/icml/ZhongYSWZS25) |
 | 2025 | Embedded IPC: Fast and Intersection-Free Simulation in Reduced Subspace for Robot Manipulation | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2409.16385) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128485) |
 | 2025 | Extended Friction Models for the Physics Simulation of Servo Actuators | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2410.08650) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128640) |
-| 2025 | FlightForge: Advancing UAV Research with Procedural Generation of High-Fidelity Simulation and Integrated Autonomy | ICRA · Simulation | [Paper](https://arxiv.org/abs/2502.05038) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127704) |
+| 2025 | FlightForge: Advancing UAV Research with Procedural Generation of High-Fidelity Simulation and Integrated Autonomy | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2502.05038) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127704) |
 | 2025 | Hri-Free: Cognitive Robotic Simulation for Evaluating Embodied Social Attention Models | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127539) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127539) |
 | 2025 | Incremental Few-Shot Adaptation for Non-Prehensile Object Manipulation Using Parallelizable Physics Simulators | ICRA · Simulator | [Paper](https://arxiv.org/pdf/2409.13228) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128222) |
 | 2025 | Multi-Robot Collaboration Through Reinforcement Learning and Abstract Simulation | ICRA · Simulation | [Paper](https://arxiv.org/abs/2503.05092) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127323) |
@@ -82,7 +86,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | A Fabrication and Simulation Recipe for Untethering Soft-Rigid Robots with Cable-Driven Stiffness Modulation | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS55552.2023.10341630) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341630) |
 | 2023 | Characteristics of Permanent Magnet Coupling Based Wireless Manipulation via Simulation | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS55552.2023.10341587) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341587) |
 | 2023 | DiffClothAI: Differentiable Cloth Simulation with Intersection-free Frictional Contact and Differentiable Two-Way Coupling with Articulated Rigid Bodies | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS55552.2023.10341573) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341573) |
-| 2023 | Hardware-in-the-Loop Simulation of Vehicle-Manipulator Systems for Physical Interaction Tasks | IROS · Simulation | [Paper](https://hdl.handle.net/11250/3118984) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342250) |
+| 2023 | Hardware-in-the-Loop Simulation of Vehicle-Manipulator Systems for Physical Interaction Tasks | IROS · Simulation | [Paper](https://repositum.tuwien.at/bitstream/20.500.12708/193765/1/Das-2023-Hardware-in-the-Loop%20Simulation%20of%20Vehicle-Manipulator%20Systems%20fo...-am.pdf) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342250) |
 | 2023 | Learning Robotic Powder Weighing from Simulation for Laboratory Automation | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342463) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342463) |
 | 2023 | Granular Gym: High Performance Simulation for Robotic Tasks with Granular Materials | RSS · Simulation | [Paper](https://arxiv.org/abs/2306.01369) · [Publisher](https://doi.org/10.48550/arXiv.2306.01369) |
 | 2022 | Efficient Tactile Simulation with Differentiability for Robotic Manipulation | CoRL · Simulation | [Paper](https://www.semanticscholar.org/paper/21d422afe146e721be382c6ed62751630d709c21) · [Index](https://dblp.org/rec/conf/corl/0028K0GAMS22) |
@@ -100,10 +104,24 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Realistic Real-Time Simulation of RGB and Depth Sensors for Dynamic Scenarios using Augmented Image Based Rendering | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982014) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982014) |
 | 2022 | Simulation-based Learning of the Peg-in-Hole Process Using Robot-Skills | IROS · Simulation | [Paper](https://eprints.sztaki.hu/10435/1/Lammle_9340_33588502_ny.pdf) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982212) |
 
-## Recent arXiv papers (1,113)
+## Recent arXiv papers (1,115)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-06 | RevoSim: Scalable Multimodal Tactile Simulation for Dexterous Manipulation | Ke Zhang, Lixin Xu, Ziyi Wang, Xiyue Dong et al. | [Abstract](https://arxiv.org/abs/2611.08939) · [PDF](https://arxiv.org/pdf/2611.08939) |
+| 2026-11-06 | Lodos: A Lightweight Simulator Designed for Contact-Rich Interactions with Detailed Meshes | Onur Beker, Andreas René Geist, Georg Martius | [Abstract](https://arxiv.org/abs/2611.08872) · [PDF](https://arxiv.org/pdf/2611.08872) |
+| 2026-11-05 | Training-Independent Validation of a Learning-Based Controller for Stunt Maneuvers | Kiruthiga Chandra Shekar, Aliasghar Arab, Jingang Yi | [Abstract](https://arxiv.org/abs/2611.07516) · [PDF](https://arxiv.org/pdf/2611.07516) |
+| 2026-11-05 | Symmetry-Aware Surrogate-Assisted Testing of UAVs | Anas Shrinah, Chris Bennett, Kerstin Eder | [Abstract](https://arxiv.org/abs/2611.08012) · [PDF](https://arxiv.org/pdf/2611.08012) |
+| 2026-11-05 | Structure from Collision via Hypothesis-Space Reasoning | Takuhiro Kaneko | [Abstract](https://arxiv.org/abs/2611.07900) · [PDF](https://arxiv.org/pdf/2611.07900) |
+| 2026-11-05 | Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement | Wenbo Huang, Jianxin Bi, Shunyu Yang, Ruiyang Si et al. | [Abstract](https://arxiv.org/abs/2611.08318) · [PDF](https://arxiv.org/pdf/2611.08318) |
+| 2026-11-04 | Interactive World Simulation with Cosmos for Physical AI | NVIDIA, :, Anis Ahmad, Jon Allen et al. | [Abstract](https://arxiv.org/abs/2611.06627) · [PDF](https://arxiv.org/pdf/2611.06627) |
+| 2026-11-03 | PrimeSim: A Generalist World Model Simulator from Large-Scale Cross-Embodiment Demonstrations | Travis Davies, Wentao Ma, Lihao Guo, Tengfei Ma et al. | [Abstract](https://arxiv.org/abs/2611.04870) · [PDF](https://arxiv.org/pdf/2611.04870) |
+| 2026-11-03 | Hybrid Particle-Voxel Dynamics for Multimodal 3D World Simulation | Jimmy Wang, Yifan Chou, Kaifeng Zhang, Yixuan Wang et al. | [Abstract](https://arxiv.org/abs/2611.04492) · [PDF](https://arxiv.org/pdf/2611.04492) |
+| 2026-11-03 | Aero-VPA: Few-Step Flow-Matching Control over Non-Reconstructive JEPA Latents for Agile Flight on Edge Hardware | Yeonseok Lee | [Abstract](https://arxiv.org/abs/2611.04392) · [PDF](https://arxiv.org/pdf/2611.04392) |
+| 2026-11-02 | Towards end-to-end co-design for one-shot printable task-specific soft robots | James Wood, André Farinha, Will Browne, Josh Pinskier et al. | [Abstract](https://arxiv.org/abs/2611.03216) · [PDF](https://arxiv.org/pdf/2611.03216) |
+| 2026-11-02 | Closing the Dynamics Gap through Self-Directed Robotic Interaction | Xilun Zhang, Liam Achenbach, Luis Pabon, Matthew Foutter et al. | [Abstract](https://arxiv.org/abs/2611.02691) · [PDF](https://arxiv.org/pdf/2611.02691) |
+| 2026-11-02 | A Practical Causal Framework for Autonomous Mobile Robots: From Simulation to Real-World Human Environments | Luca Castri, Gloria Beraldo, Nicola Bellotto | [Abstract](https://arxiv.org/abs/2611.04027) · [PDF](https://arxiv.org/pdf/2611.04027) |
+| 2026-10-31 | Hi-CoLA: High Confidence Lower Bound Approximation Based Reinforcement Learning for Flex-Route Transit Operation Control | Qi Kang, Haris N. Koutsopoulos, Hongliang Guo, Jinhua Zhao | [Abstract](https://arxiv.org/abs/2611.01071) · [PDF](https://arxiv.org/pdf/2611.01071) |
 | 2026-10-30 | Design and Validation of a Robotic Knee Exoskeleton with Musculoskeletal Simulation-Derived Biological Torque Control | Rajiv V. Joshi, Jimin An, Ilseung Park, Dawit Lee et al. | [Abstract](https://arxiv.org/abs/2610.41981) · [PDF](https://arxiv.org/pdf/2610.41981) |
 | 2026-10-29 | Gym-Anything for Robotics: Scaling physical simulations with digital agents | Pranjal Aggarwal, Sean Welleck | [Abstract](https://arxiv.org/abs/2610.40565) · [PDF](https://arxiv.org/pdf/2610.40565) |
 | 2026-10-27 | TAPESTRY: A Single Backbone for Video Generation and Robot Control | Jeremy A. Collins, Seungjae Lee, Rachanon Wachakorn, Krishnan Srinivasan et al. | [Abstract](https://arxiv.org/abs/2610.36823) · [PDF](https://arxiv.org/pdf/2610.36823) |
@@ -111,7 +129,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-10-27 | Echo: Scaling Visual Reinforcement Learning with Off-policy Experience | Gagan Khandate | [Abstract](https://arxiv.org/abs/2610.37865) · [PDF](https://arxiv.org/pdf/2610.37865) |
 | 2026-10-26 | SceneAgent: An Agentic Pipeline from 3D and 4D Captures to Simulation Environments | Luke Hollis, Tianxing Fan, Heng Yang | [Abstract](https://arxiv.org/abs/2610.34745) · [PDF](https://arxiv.org/pdf/2610.34745) |
 | 2026-10-26 | Resource-Performance Trade-offs in Intra-Aisle Robotic Picking: A Discrete-Event Simulation Comparison of Shuttle Configurations With and Without an Onboard Tote Lift | Mohsen Reda Mahmoud Moursi | [Abstract](https://arxiv.org/abs/2610.34708) · [PDF](https://arxiv.org/pdf/2610.34708) |
-| 2026-10-26 | Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent | Benjamin Pikus, Daniel Saunders, Mircea Mironenco, Salman Mohammadi et al. | [Abstract](https://arxiv.org/abs/2610.35817) · [PDF](https://arxiv.org/pdf/2610.35817) |
+| 2026-10-26 | Pretraining Knows What, Simulation Teaches How: Compositional Generalization for Agentic Robotics | Benjamin Pikus, Daniel Saunders, Mircea Mironenco, Salman Mohammadi et al. | [Abstract](https://arxiv.org/abs/2610.35817) · [PDF](https://arxiv.org/pdf/2610.35817) |
 | 2026-10-26 | How Tuning, Reference Preview, Actuator Modeling, and Fallback Policies Change Quadrotor Controller Comparisons: A Reproducible Simulation Study | Xuan-Quy Dao, Le-Minh Nguyen, Ngoc-Bich Le | [Abstract](https://arxiv.org/abs/2610.35165) · [PDF](https://arxiv.org/pdf/2610.35165) |
 | 2026-10-25 | Lightweight Change Detection for Adaptive Collective Perception in Dynamic Environments | Thiemen Siemensma, Tiago Travassos, Jiacheng Zhang, Bahar Haghighat | [Abstract](https://arxiv.org/abs/2610.34059) · [PDF](https://arxiv.org/pdf/2610.34059) |
 | 2026-10-24 | POD-RoPE: Rotary Position Encoding over Physical Observation Distributions for Embodied AI | Xiaodi Huang, Zilin Wang, Jinpeng Liu, Pengchuan Xiao et al. | [Abstract](https://arxiv.org/abs/2610.33745) · [PDF](https://arxiv.org/pdf/2610.33745) |
@@ -132,6 +150,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-10-19 | A Probabilistic, Rotation-Preserving Kernel Operator Surrogate for Continuum-Robot Design Spaces | Branden Frieden, Alan Kuntz, Varun Shankar | [Abstract](https://arxiv.org/abs/2610.26605) · [PDF](https://arxiv.org/pdf/2610.26605) |
 | 2026-10-17 | Escape Without a Recipe: Maneuver-Agnostic Mars Rover Recovery from Granular Entrapment | Meraj Hossain Promit, Chandak Chakma, Md Jubair Ahmed Sourov, Sejuti Rahman | [Abstract](https://arxiv.org/abs/2610.24827) · [PDF](https://arxiv.org/pdf/2610.24827) |
 | 2026-10-16 | PASS: A Trustworthy Precision Approach Simulation System for CAT III Integrity Algorithm Development | Lang Zhu, Xin Zhang, Yulong Sun, Nan Liu et al. | [Abstract](https://arxiv.org/abs/2610.23019) · [PDF](https://arxiv.org/pdf/2610.23019) |
+| 2026-10-16 | HexaShell: A Universal Harness for Robot Coding Agents in Simulation and the Real World | Hongcheng Gao, Jianshu Zeng, Alex Zhou, Shijia Ge et al. | [Abstract](https://arxiv.org/abs/2610.23479) · [PDF](https://arxiv.org/pdf/2610.23479) |
 | 2026-10-15 | DriveWorld3D Evidence Constrained 3D World Modeling and Generative Simulation for Real-World Autonomous Driving | Wei Wang, Yiru Veronika Wang, Yihan Wang, Zihao Li et al. | [Abstract](https://arxiv.org/abs/2610.22450) · [PDF](https://arxiv.org/pdf/2610.22450) |
 | 2026-10-14 | SHRED: Self-Play for Heterogeneous Road-Users without Expert Demonstrations | Wei-Jer Chang, Zhouchonghao Wu, Akshay Rangesh, Weixin Li et al. | [Abstract](https://arxiv.org/abs/2610.20866) · [PDF](https://arxiv.org/pdf/2610.20866) |
 | 2026-10-14 | Active Generative Simulation: Meta-Learning What to Simulate for Sim-and-Real Policy Co-Training | Liqian Ma, Vaibhav Saxena, Utkarsh Aashu Mishra, Shuo Cheng et al. | [Abstract](https://arxiv.org/abs/2610.19479) · [PDF](https://arxiv.org/pdf/2610.19479) |
@@ -251,7 +270,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-08-16 | Tactile Sim2Real without Tactile Simulation via Bottlenecked Latent Reconstruction | Fan Yang, Youngsun Wi, Jinhao Yu, Nima Fazeli et al. | [Abstract](https://arxiv.org/abs/2608.15897) · [PDF](https://arxiv.org/pdf/2608.15897) |
 | 2026-08-16 | RAPAC-DP: Response-Aligned Pending-Action Compensation for Diffusion Policies under Delayed Execution | Tao Wang, Wei Wang, Jianhui Wang, ZhengYang Ye et al. | [Abstract](https://arxiv.org/abs/2608.15924) · [PDF](https://arxiv.org/pdf/2608.15924) |
 | 2026-08-15 | NPU Offloading of a Frozen Visual Encoder for Robot Policy Training | Hyojun Yun, Seungjae Won, Hyungpil Moon | [Abstract](https://arxiv.org/abs/2608.15002) · [PDF](https://arxiv.org/pdf/2608.15002) |
-| 2026-08-14 | MMUSV-Sim: A Perception-Oriented Simulation and Data-Generation Platform for Multi-USV Cooperative Perception | Ziao Li, Jianxiong Ye, Biao Tang, Leping Zhang et al. | [Abstract](https://arxiv.org/abs/2608.14207) · [PDF](https://arxiv.org/pdf/2608.14207) |
 | 2026-08-14 | Knowledge-Data-Dual-Driven Reinforcement Learning for Autonomous Vehicle Control in Mixed Traffic | Jie Fang, Wei Zheng, Mengyun Xu, Eui-Jin Kim | [Abstract](https://arxiv.org/abs/2608.13878) · [PDF](https://arxiv.org/pdf/2608.13878) |
 | 2026-08-14 | FlatLab: A Unified Methodology Framework and Simulation-Based Benchmark for Robotic Manipulation of Flat Objects | Xingyu Zhu, Wenshuo Han, Zhouyu Wang, Yuran Wang et al. | [Abstract](https://arxiv.org/abs/2608.14049) · [PDF](https://arxiv.org/pdf/2608.14049) |
 | 2026-08-14 | Communication in modular robotic motor control: Bilateral controllers under realistic constraints | Jingwen Li, Levin Kuhlmann, Jason Friedman, Gideon Kowadlo | [Abstract](https://arxiv.org/abs/2608.13904) · [PDF](https://arxiv.org/pdf/2608.13904) |
@@ -471,7 +489,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-02-25 | SunnyParking: Multi-Shot Trajectory Generation and Motion State Awareness for Human-like Parking | Jishu Miao, Han Chen, Jiankun Zhai, Qi Liu et al. | [Abstract](https://arxiv.org/abs/2602.21682) · [PDF](https://arxiv.org/pdf/2602.21682) |
 | 2026-02-24 | CableRobotGraphSim: A Graph Neural Network for Modeling Partially Observable Cable-Driven Robot Dynamics | Nelson Chen, William R. Johnson, Rebecca Kramer-Bottiglio, Kostas Bekris et al. | [Abstract](https://arxiv.org/abs/2602.21331) · [PDF](https://arxiv.org/pdf/2602.21331) |
 | 2026-02-23 | What Matters for Simulation to Online Reinforcement Learning on Real Robots | Yarden As, Dhruva Tirumala, René Zurbrügg, Chenhao Li et al. | [Abstract](https://arxiv.org/abs/2602.20220) · [PDF](https://arxiv.org/pdf/2602.20220) |
-| 2026-02-21 | RoboCurate: Harnessing Diversity with Action-Verified Neural Trajectory for Robot Learning | Seungku Kim, Suhyeok Jang, Byungjun Yoon, Dongyoung Kim et al. | [Abstract](https://arxiv.org/abs/2602.18742) · [PDF](https://arxiv.org/pdf/2602.18742) |
 | 2026-02-20 | Dynamic Deception: When Pedestrians Team Up to Fool Autonomous Cars | Masoud Jamshidiyan Tehrani, Marco Gabriel, Jinhan Kim, Paolo Tonella | [Abstract](https://arxiv.org/abs/2602.18079) · [PDF](https://arxiv.org/pdf/2602.18079) |
 | 2026-02-19 | Reinforcement-Learning-Based Assistance Reduces Squat Effort with a Modular Hip--Knee Exoskeleton | Neethan Ratnakumar, Mariya Huzaifa Tohfafarosh, Saanya Jauhri, Xianlian Zhou | [Abstract](https://arxiv.org/abs/2602.17794) · [PDF](https://arxiv.org/pdf/2602.17794) |
 | 2026-02-19 | Conditional Flow Matching for Continuous Anomaly Detection in Autonomous Driving on a Manifold-Aware Spectral Space | Antonio Guillen-Perez | [Abstract](https://arxiv.org/abs/2602.17586) · [PDF](https://arxiv.org/pdf/2602.17586) |
@@ -1206,17 +1223,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-10 | ASSIST: Interactive Scene Nodes for Scalable and Realistic Indoor Simulation | Zhide Zhong, Jiakai Cao, Songen Gu, Sirui Xie et al. | [Abstract](https://arxiv.org/abs/2311.06211) · [PDF](https://arxiv.org/pdf/2311.06211) |
 | 2023-11-09 | Reconstructing Objects in-the-wild for Realistic Sensor Simulation | Ze Yang, Sivabalan Manivasagam, Yun Chen, Jingkang Wang et al. | [Abstract](https://arxiv.org/abs/2311.05602) · [PDF](https://arxiv.org/pdf/2311.05602) |
 | 2023-11-09 | PL-CVIO: Point-Line Cooperative Visual-Inertial Odometry | Yanyu Zhang, Pengxiang Zhu, Wei Ren | [Abstract](https://arxiv.org/abs/2311.05717) · [PDF](https://arxiv.org/pdf/2311.05717) |
-| 2023-11-06 | Evolution of Collective Decision-Making Mechanisms for Collective Perception | Tanja Katharina Kaiser, Tristan Potten, Heiko Hamann | [Abstract](https://arxiv.org/abs/2311.02994) · [PDF](https://arxiv.org/pdf/2311.02994) |
-| 2023-11-05 | Investigating Lane-Free Traffic with a Dynamic Driving Simulator | Maya Sekeran, Arslan Ali Syed, Johannes Lindner, Martin Margreiter et al. | [Abstract](https://arxiv.org/abs/2311.16142) · [PDF](https://arxiv.org/pdf/2311.16142) |
-| 2023-11-04 | Survey of Simulators for Aerial Robots: An Overview and In-Depth Systematic Comparisons | Cora A. Dimmig, Giuseppe Silano, Kimberly McGuire, Chiara Gabellieri et al. | [Abstract](https://arxiv.org/abs/2311.02296) · [PDF](https://arxiv.org/pdf/2311.02296) |
-| 2023-11-04 | MAAIP: Multi-Agent Adversarial Interaction Priors for imitation from fighting demonstrations for physics-based characters | Mohamed Younes, Ewa Kijak, Richard Kulpa, Simon Malinowski et al. | [Abstract](https://arxiv.org/abs/2311.02502) · [PDF](https://arxiv.org/pdf/2311.02502) |
-| 2023-11-04 | Enhancing the Performance of Pneu-net Actuators Using a Torsion Resistant Strain Limiting Layer | Ian Sullivan Good, Srivatsan Balaji, Jeffrey Ian Lipton | [Abstract](https://arxiv.org/abs/2311.02454) · [PDF](https://arxiv.org/pdf/2311.02454) |
-| 2023-11-04 | A Comprehensive Dynamic Simulation Framework for Coupled Neuromusculoskeletal-Exoskeletal Systems | Wei Jin, Jiaqi Liu, Qiwei Zhang, Xiaoxu Zhang et al. | [Abstract](https://arxiv.org/abs/2311.02346) · [PDF](https://arxiv.org/pdf/2311.02346) |
-| 2023-11-02 | RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation | Yufei Wang, Zhou Xian, Feng Chen, Tsun-Hsuan Wang et al. | [Abstract](https://arxiv.org/abs/2311.01455) · [PDF](https://arxiv.org/pdf/2311.01455) |
-| 2023-11-02 | Learning Realistic Traffic Agents in Closed-loop | Chris Zhang, James Tu, Lunjun Zhang, Kelvin Wong et al. | [Abstract](https://arxiv.org/abs/2311.01394) · [PDF](https://arxiv.org/pdf/2311.01394) |
-| 2023-11-02 | DRNet: A Decision-Making Method for Autonomous Lane Changingwith Deep Reinforcement Learning | Kunpeng Xu, Lifei Chen, Shengrui Wang | [Abstract](https://arxiv.org/abs/2311.01602) · [PDF](https://arxiv.org/pdf/2311.01602) |
-| 2023-11-02 | CADSim: Robust and Scalable in-the-wild 3D Reconstruction for Controllable Sensor Simulation | Jingkang Wang, Sivabalan Manivasagam, Yun Chen, Ze Yang et al. | [Abstract](https://arxiv.org/abs/2311.01447) · [PDF](https://arxiv.org/pdf/2311.01447) |
-| 2023-11-02 | Adv3D: Generating Safety-Critical 3D Objects through Closed-Loop Simulation | Jay Sarva, Jingkang Wang, James Tu, Yuwen Xiong et al. | [Abstract](https://arxiv.org/abs/2311.01446) · [PDF](https://arxiv.org/pdf/2311.01446) |
 
 ---
 

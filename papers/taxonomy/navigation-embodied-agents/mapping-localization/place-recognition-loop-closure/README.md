@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Mapping%20%26%20Localization&specialty=Place%20Recognition%20%26%20Loop%20Closure#research-workbench)
 
-> 2 conference papers · 225 recent arXiv papers
+> 2 conference papers · 224 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,10 +21,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Probabilistic Active Loop Closure for Autonomous Exploration | ICRA · Exploration | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610213) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610213) |
 | 2022 | ULSM: Underground Localization and Semantic Mapping with Salient Region Loop Closure under Perceptually-Degraded Environment | IROS · Semantic Mapping | [Paper](https://doi.org/10.1109/IROS47612.2022.9982170) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982170) |
 
-## Recent arXiv papers (225)
+## Recent arXiv papers (224)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-03 | Sparse Anchors for Visual Multi-Session Registration in Changing Environments | Yunus Talha Erzurumlu, Niklas Trekel, Saurabh Gupta, Nico Koltermann et al. | [Abstract](https://arxiv.org/abs/2611.05084) · [PDF](https://arxiv.org/pdf/2611.05084) |
 | 2026-10-26 | VPR-Space: A Benchmark for Visual Place Recognition in Space Analog Domains | Richard Fechner, Peer Neubert | [Abstract](https://arxiv.org/abs/2610.35642) · [PDF](https://arxiv.org/pdf/2610.35642) |
 | 2026-10-20 | OmniVLoc: Topo-metric Visual Localization for Omnidirectional Cameras | Zhuo Yu, Shuyang Zhang, Huihua Zhu, Wenjia Ouyang et al. | [Abstract](https://arxiv.org/abs/2610.27522) · [PDF](https://arxiv.org/pdf/2610.27522) |
 | 2026-10-19 | TNVD-SC: Diagnosing Scan Context Failures in Forests with Terrain-Normalized Vertical Distributions | Jineon Kim, Jhonghyun An | [Abstract](https://arxiv.org/abs/2610.25637) · [PDF](https://arxiv.org/pdf/2610.25637) |
@@ -59,7 +60,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-09 | A Distributed Multi-UGV Exploration Framework With Loop-Aware Planning and Descriptor-Aided Localization in Resource-Limited Environments | Zhiwei Li, Haiou Liu, Xijun Zhao, Ji Li et al. | [Abstract](https://arxiv.org/abs/2606.11088) · [PDF](https://arxiv.org/pdf/2606.11088) |
 | 2026-06-04 | Meridian: Metric-Semantic Primitive Matching for Cross-View Geo-Localization Beyond Urban Environments | Mason Peterson, Qingyuan Li, Yixuan Jia, Fernando Cladera et al. | [Abstract](https://arxiv.org/abs/2606.06312) · [PDF](https://arxiv.org/pdf/2606.06312) |
 | 2026-05-29 | DisPlace: Discriminative Place Projections for Multi-Reference Visual Place Recognition | Dhyey Manish Rajani, Michael Milford, Tobias Fischer | [Abstract](https://arxiv.org/abs/2605.30769) · [PDF](https://arxiv.org/pdf/2605.30769) |
-| 2026-05-27 | SAFEVPR: Patch-Based Conformal Verification for Safe Cross-Condition Sequence Visual Place Recognition | Ha Sier, Jiaqiang Zhang, Zhuo Zou, Xianjia Yu et al. | [Abstract](https://arxiv.org/abs/2605.28048) · [PDF](https://arxiv.org/pdf/2605.28048) |
+| 2026-05-27 | SAFEVPR: Patch-Based Verification with Empirical FDR Control for Cross-Condition Sequence Visual Place Recognition | Ha Sier, Jiaqiang Zhang, Zhuo Zou, Xianjia Yu et al. | [Abstract](https://arxiv.org/abs/2605.28048) · [PDF](https://arxiv.org/pdf/2605.28048) |
 | 2026-05-19 | Faster or Stronger: Towards Flexible Visual Place Recognition via Weighted Aggregation and Token Pruning | Zichao Zeng, June Moh Goo, Junwei Zheng, Weijia Fan et al. | [Abstract](https://arxiv.org/abs/2605.20551) · [PDF](https://arxiv.org/pdf/2605.20551) |
 | 2026-05-08 | Offline-Online Hierarchical 3D Global Relocalization With Synthetic LiDAR Sensing and Descriptor-Space Retrieval | Jiahua Ren, Kai Shen, Muhua Zhang, Lei Ma | [Abstract](https://arxiv.org/abs/2605.07741) · [PDF](https://arxiv.org/pdf/2605.07741) |
 | 2026-05-04 | EdgeLPR: On the Deep Neural Network trade-off between Precision and Performance in LiDAR Place Recognition | Pierpaolo Serio, Hetian Wang, Zixiang Wei, Vincenzo Infantino et al. | [Abstract](https://arxiv.org/abs/2605.02275) · [PDF](https://arxiv.org/pdf/2605.02275) |
@@ -248,8 +249,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-01 | Improving Efficiency of DNN-based Relocalization Module for Autonomous Driving with Server-side Computing | Dengbo Li, Jieren Cheng, Boyi Liu | [Abstract](https://arxiv.org/abs/2312.00316) · [PDF](https://arxiv.org/pdf/2312.00316) |
 | 2023-12-01 | Global Localization: Utilizing Relative Spatio-Temporal Geometric Constraints from Adjacent and Distant Cameras | Mohammad Altillawi, Zador Pataki, Shile Li, Ziyuan Liu | [Abstract](https://arxiv.org/abs/2312.00500) · [PDF](https://arxiv.org/pdf/2312.00500) |
 | 2023-11-22 | Applications of Spiking Neural Networks in Visual Place Recognition | Somayeh Hussaini, Michael Milford, Tobias Fischer | [Abstract](https://arxiv.org/abs/2311.13186) · [PDF](https://arxiv.org/pdf/2311.13186) |
-| 2023-11-06 | SemanticTopoLoop: Semantic Loop Closure With 3D Topological Graph Based on Quadric-Level Object Map | Zhenzhong Cao | [Abstract](https://arxiv.org/abs/2311.02831) · [PDF](https://arxiv.org/pdf/2311.02831) |
-| 2023-11-06 | LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition | Zijie Zhou, Jingyi Xu, Guangming Xiong, Junyi Ma | [Abstract](https://arxiv.org/abs/2311.03198) · [PDF](https://arxiv.org/pdf/2311.03198) |
 
 ---
 

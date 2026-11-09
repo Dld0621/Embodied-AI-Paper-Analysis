@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=Occupancy%20%26%20Scene%20Representation#research-workbench)
 
-> 7 conference papers · 80 recent arXiv papers
+> 8 conference papers · 80 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,11 +14,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (7)
+## Conference papers (8)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | DSSM-SG: Dynamic 3D Scene Graphs with Spatio-Semantic Memory for Long-Term Indoor Navigation Tasks | ICRA · 3D Scene | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695756) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695756) |
+| 2026 | DSSM-SG: Dynamic 3D Scene Graphs with Spatio-Semantic Memory for Long-Term Indoor Navigation Tasks | ICRA · 3D Scene | [Paper](https://doi.org/10.1109/icra57385.2026.11695756) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695756) |
+| 2025 | H2OFlow: Grounding Human-Object Affordances with 3D Generative Models and Dense Diffused Flows | ICLR · Affordance | [Paper](https://arxiv.org/abs/2510.21769) · [Publisher](https://doi.org/10.48550/arXiv.2510.21769) |
 | 2025 | Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding | IROS · 3D Scene | [Paper](https://arxiv.org/pdf/2503.08474) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245861) |
 | 2025 | Domain-Conditioned Scene Graphs for State-Grounded Task Planning | IROS · Scene Graph | [Paper](https://arxiv.org/pdf/2504.06661) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247213) |
 | 2025 | Generating Actionable Robot Knowledge Bases by Combining 3D Scene Graphs with Robot Ontologies | IROS · 3D Scene | [Paper](https://arxiv.org/pdf/2507.11770) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245658) |

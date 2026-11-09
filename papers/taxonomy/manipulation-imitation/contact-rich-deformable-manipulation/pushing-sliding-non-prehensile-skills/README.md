@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Contact-rich%20%26%20Deformable%20Manipulation&specialty=Pushing%2C%20Sliding%20%26%20Non-prehensile%20Skills#research-workbench)
 
-> 38 conference papers · 94 recent arXiv papers
+> 40 conference papers · 97 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,14 +14,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (38)
+## Conference papers (40)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Grasp-Oriented Non-Prehensile Manipulation via Learning a Graspability Field | ECCV · Manipulation | [Paper](https://arxiv.org/abs/2606.30474) · [Publisher](https://doi.org/10.48550/arXiv.2606.30474) |
+| 2026 | Towards Generalizable Robotic Manipulation in Dynamic Environments | ECCV · Manipulation | [Paper](https://arxiv.org/abs/2603.15620) · [Publisher](https://doi.org/10.48550/arXiv.2603.15620) |
 | 2026 | AdaptPNP: Integrating Prehensile and Non-Prehensile Skills for Adaptive Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2511.11052) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696979) |
-| 2026 | ALOHA Lightning: Learning Fast and Precise Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696199) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696199) |
-| 2026 | Dynamic Scoop-and-Flick Manipulation for Rapid Non-Prehensile High-Arc Object Transfer | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695751) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695751) |
-| 2026 | DynDLO: Learning-Based Trajectory Planning for Dynamic Robotic Manipulation of Deformable Linear Objects | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697081) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697081) |
+| 2026 | ALOHA Lightning: Learning Fast and Precise Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11696199) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696199) |
+| 2026 | Dynamic Scoop-and-Flick Manipulation for Rapid Non-Prehensile High-Arc Object Transfer | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11695751) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695751) |
+| 2026 | DynDLO: Learning-Based Trajectory Planning for Dynamic Robotic Manipulation of Deformable Linear Objects | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11697081) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697081) |
 | 2026 | Uncertainty-Aware Non-Prehensile Manipulation with Mobile Manipulators under Object-Induced Occlusion | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2602.01731) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696078) |
 | 2025 | DyWA: Dynamics-Adaptive World Action Model for Generalizable Non-Prehensile Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/pdf/2503.16806) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01029) |
 | 2025 | FLEX: A Framework for Learning Robot-Agnostic Force-Based Skills Involving Sustained Contact Object Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2503.13418) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127866) |
@@ -30,7 +32,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Non-Prehensile Shape Manipulation of Elastoplastic Objects With Reinforcement Learning | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127639) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127639) |
 | 2024 | Learning Visuotactile Estimation and Control for Non-prehensile Manipulation under Occlusions | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2412.13157) · [Publisher](https://doi.org/10.48550/arXiv.2412.13157) |
 | 2024 | Harnessing the Synergy between Pushing, Grasping, and Throwing to Enhance Object Manipulation in Cluttered Scenarios | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2402.16045) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610548) |
-| 2024 | Self-supervised Learning for Joint Pushing and Grasping Policies in Highly Cluttered Environments | ICRA · Grasp | [Paper](https://research.rug.nl/en/publications/f920f16d-e2a7-49cf-92d5-e3f6e711bea0) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611650) |
+| 2024 | Self-supervised Learning for Joint Pushing and Grasping Policies in Highly Cluttered Environments | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2203.02511) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611650) |
 | 2024 | Dynamic Manipulation of Deformable Objects using Imitation Learning with Adaptation to Hardware Constraints | IROS · Manipulation | [Paper](https://arxiv.org/abs/2403.12685) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802478) |
 | 2024 | Exploring How Non-Prehensile Manipulation Expands Capability in Robots Experiencing Multi-Joint Failure | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2410.01102) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801883) |
 | 2024 | How Physics and Background Attributes Impact Video Transformers in Robotic Manipulation: A Case Study on Planar Pushing | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2310.02044) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802583) |
@@ -50,17 +52,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Manipulation via Membranes: High-Resolution and Highly Deformable Tactile Sensing and Control | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2209.13432) · [Publisher](https://doi.org/10.48550/arXiv.2209.13432) |
 | 2022 | SE(2)-Equivariant Pushing Dynamics Models for Tabletop Object Manipulations | CoRL · Manipulation | [Paper](https://www.semanticscholar.org/paper/77caf708541c3bf513d032f9c0b57aaa2d4e850b) · [Index](https://dblp.org/rec/conf/corl/KimLL022) |
 | 2022 | That Sounds Right: Auditory Self-Supervision for Dynamic Robot Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2210.01116) · [Publisher](https://doi.org/10.48550/arXiv.2210.01116) |
-| 2022 | Persistent Homology for Effective Non-Prehensile Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2202.02937) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811848) |
+| 2022 | Persistent Homology for Effective Non-Prehensile Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2202.02937) · [Publisher](https://doi.org/10.48550/arXiv.2202.02937) |
 | 2022 | Push-to-See: Learning Non-Prehensile Manipulation to Enhance Instance Segmentation via Deep Q-Learning | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA46639.2022.9811645) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811645) |
 | 2022 | Tactile-Guided Dynamic Object Planar Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981270) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981270) |
 | 2022 | To ask for help or not to ask: A predictive approach to human-in-the-loop motion planning for robot manipulation tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981679) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981679) |
 | 2022 | Data Augmentation for Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2205.02886) · [Publisher](https://doi.org/10.48550/arXiv.2205.02886) |
-| 2022 | Iterative residual policy: For goal-conditioned dynamic manipulation of deformable objects | RSS · Manipulation | [Paper](https://arxiv.org/abs/2203.00663) · [Publisher](https://doi.org/10.1177/02783649231201201) |
+| 2022 | Iterative residual policy: For goal-conditioned dynamic manipulation of deformable objects | RSS · Manipulation | [Paper](https://arxiv.org/pdf/2203.00663) · [Publisher](https://doi.org/10.1177/02783649231201201) |
 
-## Recent arXiv papers (94)
+## Recent arXiv papers (97)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-05 | Time-Indexed Skill Success Models for Latency-Aware Skill Selection and Timing in Dynamic Manipulation | Mohsen Omidi, Maria Chiara Leva, Brian Vaughan | [Abstract](https://arxiv.org/abs/2611.07964) · [PDF](https://arxiv.org/pdf/2611.07964) |
+| 2026-11-05 | GPWM: Modeling the World as 3D Particle Motion | Robert Ren, Matthew Bronars, He Zhu, Yikai Tang et al. | [Abstract](https://arxiv.org/abs/2611.08338) · [PDF](https://arxiv.org/pdf/2611.08338) |
+| 2026-11-02 | ReContact: Reconstruct and Retarget Human Contacts from Video for Contact-Rich Humanoid Manipulation | Zhongkai Gu, Yang Liu, Wei Zhu, Mitsuhiro Hayashibe | [Abstract](https://arxiv.org/abs/2611.02968) · [PDF](https://arxiv.org/pdf/2611.02968) |
+| 2026-10-31 | PREM: Prediction-Regulated Memory for Robot Manipulation | Xiao Huang, Ya Zhang, Weidi Xie | [Abstract](https://arxiv.org/abs/2611.00634) · [PDF](https://arxiv.org/pdf/2611.00634) |
 | 2026-10-22 | Multimodal MPC via Bayesian Set Optimization for Dynamic Manipulation of Deformable Linear Objects | Youyuan Long, Gokhan Solak, Arash Ajoudani | [Abstract](https://arxiv.org/abs/2610.31852) · [PDF](https://arxiv.org/pdf/2610.31852) |
 | 2026-10-16 | Shape-Aware Neural Time Fields for Rigid-Body Motion and Manipulation Planning | Yanming Zhou, Yuchen Liu, Ahmed H. Qureshi | [Abstract](https://arxiv.org/abs/2610.22762) · [PDF](https://arxiv.org/pdf/2610.22762) |
 | 2026-10-14 | Enabling Tidying Tasks in Robotic Vacuum Cleaners via a Geometry-Induced Self-Locking Deployable Linkage | Eunseok Song, Jinwoong Kim, Sohee Lim, Taehyeong Kim et al. | [Abstract](https://arxiv.org/abs/2610.20150) · [PDF](https://arxiv.org/pdf/2610.20150) |
@@ -154,7 +160,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-23 | Safety-Conscious Pushing on Diverse Oriented Surfaces with Underactuated Aerial Vehicles | Tong Hui, Manuel J. Fernandez Gonzalez, Matteo Fumagalli | [Abstract](https://arxiv.org/abs/2402.15243) · [PDF](https://arxiv.org/pdf/2402.15243) |
 | 2024-02-15 | Towards Tight Convex Relaxations for Contact-Rich Manipulation | Bernhard Paus Graesdal, Shao Yuan Chew Chia, Tobia Marcucci, Savva Morozov et al. | [Abstract](https://arxiv.org/abs/2402.10312) · [PDF](https://arxiv.org/pdf/2402.10312) |
 | 2023-12-23 | DexDLO: Learning Goal-Conditioned Dexterous Policy for Dynamic Manipulation of Deformable Linear Objects | Sun Zhaole, Jihong Zhu, Robert B. Fisher | [Abstract](https://arxiv.org/abs/2312.15204) · [PDF](https://arxiv.org/pdf/2312.15204) |
-| 2023-11-08 | Versatile Airborne Ultrasonic NDT Technologies via Active Omni-Sliding with Over-Actuated Aerial Vehicles | Tong Hui, Florian Braun, Nicolas Scheidt, Marius Fehr et al. | [Abstract](https://arxiv.org/abs/2311.04662) · [PDF](https://arxiv.org/pdf/2311.04662) |
 
 ---
 

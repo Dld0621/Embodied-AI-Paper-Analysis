@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Humanoid%20Whole-body%20Control&specialty=Humanoid%20Teleoperation%20%26%20Interaction#research-workbench)
 
-> 5 conference papers · 42 recent arXiv papers
+> 7 conference papers · 44 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,20 +14,24 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (5)
+## Conference papers (7)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | COLA: Learning Human-Humanoid Coordination for Collaborative Object Carrying | ICRA · Humanoid | [Paper](https://arxiv.org/abs/2510.14293) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696713) |
+| 2026 | Towards Motion Turing Test: Evaluating Human-Likeness in Humanoid Robots | CVPR · Humanoid | [Paper](https://arxiv.org/abs/2603.06181) · [Publisher](https://doi.org/10.48550/arXiv.2603.06181) |
+| 2026 | RoboGesture: Real-Time Semantic-Aligned Co-speech Gestures Generation for Humanoid Interaction | ECCV · Humanoid | [Paper](https://arxiv.org/pdf/2608.28693) · [Publisher](https://doi.org/10.1007/978-3-032-37429-5_8) |
+| 2026 | COLA: Learning Human-Humanoid Coordination for Collaborative Object Carrying | ICRA · Humanoid | [Paper](https://doi.org/10.1109/icra57385.2026.11696713) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696713) |
 | 2025 | MPC-QP-Based Control Framework for Compliant Behavior of Humanoid Robots in Physical Collaboration with Humans | ICRA · Humanoid | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128037) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128037) |
 | 2024 | OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning | CoRL · Whole-body teleoperation | [Paper](https://arxiv.org/abs/2406.08858) · [Official](https://proceedings.mlr.press/v270/) · [Code](https://github.com/LeCAR-Lab/human2humanoid) |
 | 2024 | Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2403.04436) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801984) |
 | 2022 | Human-Humanoid Robot Cooperative Load Transportation: Model-based Control Approach | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9981487) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981487) |
 
-## Recent arXiv papers (42)
+## Recent arXiv papers (44)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-05 | Social Humanoid: Socially Responsive Human-Humanoid Interaction | Vongani H. Maluleke, James Ni, Kie Horiuchi, Lea Wilken et al. | [Abstract](https://arxiv.org/abs/2611.08407) · [PDF](https://arxiv.org/pdf/2611.08407) |
+| 2026-11-05 | AffectiveVLA: Safe and Intent-Aware VLA Control for Human-Humanoid Social Interaction | Nikita Kuzmin, Georgii Demianchuk, Mariya Lezina, Yara Mahmoud et al. | [Abstract](https://arxiv.org/abs/2611.07712) · [PDF](https://arxiv.org/pdf/2611.07712) |
 | 2026-10-27 | Tokens of Motion: Primitive Motion Learning for Human-Humanoid Skill Transfer | Hanwen Ren, Meng Zheng, Wenzhe Cui, Benjamin Planche et al. | [Abstract](https://arxiv.org/abs/2610.37330) · [PDF](https://arxiv.org/pdf/2610.37330) |
 | 2026-10-27 | HumiMimic: Mimetic Embodiment Transfer of Human-Humanoid Interaction from In-the-Wild Videos | Nghia Le, Khang Nguyen, Ba Long Tran, Thi Quynh Nhu Pham et al. | [Abstract](https://arxiv.org/abs/2610.36615) · [PDF](https://arxiv.org/pdf/2610.36615) |
 | 2026-10-21 | HuMiT: Low-Latency Whole-Body Humanoid Teleoperation via Compact Reference Tracking | Liu Cao, Botian Xu, Ruoqu Chen, Jiajun Liu et al. | [Abstract](https://arxiv.org/abs/2610.29903) · [PDF](https://arxiv.org/pdf/2610.29903) |

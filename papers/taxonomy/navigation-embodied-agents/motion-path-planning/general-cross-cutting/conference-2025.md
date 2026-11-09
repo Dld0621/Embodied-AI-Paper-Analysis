@@ -2,7 +2,7 @@
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 103 papers · complete list for this taxonomy leaf
+> 106 papers · complete list for this taxonomy leaf
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
@@ -10,19 +10,22 @@
 | 2025 | Does Matter: Visual Navigation via Denoising Diffusion Bridge Models | CVPR · Navigation | [Paper](https://arxiv.org/pdf/2504.10041) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01130) |
 | 2025 | Navigation World Models | CVPR · Navigation | [Paper](https://arxiv.org/pdf/2412.03572) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01472) |
 | 2025 | Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach | CVPR · Navigation | [Paper](https://arxiv.org/abs/2503.08306) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.01131) |
+| 2025 | SocialNav: Training Human-Inspired Foundation Model for Socially-Aware Embodied Navigation | CVPR · Navigation | [Paper](https://arxiv.org/abs/2511.21135) · [Publisher](https://doi.org/10.48550/arXiv.2511.21135) |
 | 2025 | Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation | CVPR · Navigation | [Paper](https://arxiv.org/pdf/2501.06693) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.00155) |
 | 2025 | Active Perception Meets Rule-Guided RL: A Two-Phase Approach for Precise Object Navigation in Complex Environments | ICCV · Navigation | [Paper](https://doi.org/10.1109/ICCV51701.2025.00713) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00713) |
-| 2025 | Embodied Navigation with Auxiliary Task of Action Description Prediction | ICCV · Navigation | [Paper](https://arxiv.org/abs/2510.21809) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00660) |
+| 2025 | Embodied Navigation with Auxiliary Task of Action Description Prediction | ICCV · Navigation | [Paper](https://arxiv.org/pdf/2510.21809) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00660) |
 | 2025 | MoMa-Kitchen: A 100K+ Benchmark for Affordance-Grounded Last-Mile Navigation in Mobile Manipulation | ICCV · Navigation | [Paper](https://arxiv.org/pdf/2503.11081) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00596) |
 | 2025 | monoVLN: Bridging the Observation Gap between Monocular and Panoramic Vision and Language Navigation | ICCV · Navigation | [Paper](https://doi.org/10.1109/ICCV51701.2025.00884) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00884) |
 | 2025 | Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation | ICCV · Navigation | [Paper](https://arxiv.org/pdf/2507.04047) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00761) |
+| 2025 | Embodied Navigation Foundation Model | ICLR · Navigation | [Paper](https://arxiv.org/abs/2509.12129) · [Publisher](https://doi.org/10.48550/arXiv.2509.12129) |
 | 2025 | Following the Human Thread in Social Navigation | ICLR · Navigation | [Paper](https://arxiv.org/abs/2404.11327) · [Publisher](https://doi.org/10.48550/arXiv.2404.11327) |
 | 2025 | General Scene Adaptation for Vision-and-Language Navigation | ICLR · Navigation | [Paper](https://arxiv.org/abs/2501.17403) · [Publisher](https://doi.org/10.48550/arXiv.2501.17403) |
+| 2025 | REI-Bench: Can Embodied Agents Understand Vague Human Instructions in Task Planning? | ICLR · Embodied Agent | [Paper](https://arxiv.org/abs/2505.10872) · [Publisher](https://doi.org/10.48550/arXiv.2505.10872) |
 | 2025 | A Hierarchical Graph-Based Terrain-Aware Autonomous Navigation Approach for Complementary Multimodal Ground-Aerial Exploration | ICRA · Navigation | [Paper](https://arxiv.org/abs/2505.14859) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128079) |
 | 2025 | ADMM-MCBF-LCA: A Layered Control Architecture for Safe Real-Time Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2503.02208) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128869) |
 | 2025 | An Algorithm for Geometric Navigation Planning Under Uncertainty Using Terrain Boundary Detection | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127819) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127819) |
 | 2025 | AquaMILR+: Design of an Untethered Limbless Robot for Complex Aquatic Terrain Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.18383) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128548) |
-| 2025 | Arena 4.0: a Comprehensive Ros2 Development and Benchmarking Platform for Human-Centric Navigation Using Generative-Model-Based Environment Generation | ICRA · Navigation | [Paper](https://arxiv.org/abs/2409.12471) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127635) |
+| 2025 | Arena 4.0: a Comprehensive Ros2 Development and Benchmarking Platform for Human-Centric Navigation Using Generative-Model-Based Environment Generation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.12471) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127635) |
 | 2025 | BoxMap: Efficient Structural Mapping and Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2410.06263) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127722) |
 | 2025 | CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2410.01273) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127664) |
 | 2025 | Closed-Loop Open-Vocabulary Mobile Manipulation with GPT-4V | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2404.10220) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127975) |
@@ -52,7 +55,7 @@
 | 2025 | OPPA: Online Planner's Parameter Adaptation for Enhanced Mobile Robot Navigation | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128768) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128768) |
 | 2025 | Overlapping Social Navigation Principles: A Framework for Social Robot Navigation | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128863) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128863) |
 | 2025 | Point2Graph: An End-to-End Point Cloud-Based 3D Open-Vocabulary Scene Graph for Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.10350) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127471) |
-| 2025 | QuasiNav: Asymmetric Cost-Aware Navigation Planning with Constrained Quasimetric Reinforcement Learning | ICRA · Navigation | [Paper](https://arxiv.org/abs/2410.16666) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127346) |
+| 2025 | QuasiNav: Asymmetric Cost-Aware Navigation Planning with Constrained Quasimetric Reinforcement Learning | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2410.16666) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127346) |
 | 2025 | ReloPush: Multi-Object Rearrangement in Confined Spaces with a Nonholonomic Mobile Robot Pusher | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2409.18231) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128108) |
 | 2025 | ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2409.13682) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127706) |
 | 2025 | Robot Navigation in Unknown and Cluttered Workspace with Dynamical System Modulation in Starshaped Roadmap | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2403.11484) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128318) |
@@ -98,9 +101,9 @@
 | 2025 | Safe Navigation in Uncertain Crowded Environments Using Risk Adaptive CVaR Barrier Functions | IROS · Navigation | [Paper](https://arxiv.org/pdf/2504.06513) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246134) |
 | 2025 | SDA-LLM: Spatial DisAmbiguation via Multi-turn Vision-Language Dialogues for Robot Navigation | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246115) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246115) |
 | 2025 | Set Phasers to Stun: Beaming Power and Control to Mobile Robots with Laser Light | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2504.17865) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247512) |
-| 2025 | Social-LLaVA: Enhancing Social Robot Navigation through Human-Language Reasoning | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS60139.2025.11247618) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247618) |
+| 2025 | Social-LLaVA: Enhancing Social Robot Navigation through Human-Language Reasoning | IROS · Navigation | [Paper](https://arxiv.org/pdf/2501.09024) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247618) |
 | 2025 | SplineFormer: An Explainable Transformer Network for Autonomous Endovascular Navigation | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS60139.2025.11246898) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246898) |
-| 2025 | TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation | IROS · Navigation | [Paper](https://arxiv.org/abs/2505.10696) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246002) |
+| 2025 | TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2505.10696) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246002) |
 | 2025 | VecNav: Vector Goal Robot Navigation from In-the-wild Videos | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS60139.2025.11247702) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247702) |
 | 2025 | λ: A Benchmark for Data-Efficiency in Long-Horizon Indoor Mobile Manipulation Robotics | IROS · Mobile Manipulation | [Paper](https://arxiv.org/pdf/2412.05313) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246789) |
 | 2025 | AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation | NeurIPS · Mobile Manipulation | [Paper](https://arxiv.org/abs/2507.01961) · [Publisher](https://doi.org/10.48550/arXiv.2507.01961) |

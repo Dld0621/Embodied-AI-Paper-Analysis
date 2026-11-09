@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Imitation%20%26%20Demonstration%20Learning&specialty=Learning%20from%20Demonstration#research-workbench)
 
-> 25 conference papers · 125 recent arXiv papers
+> 25 conference papers · 124 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -22,13 +22,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026 | Actron3D: Learning Actionable Neural Functions from Videos for Transferable Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2510.12971) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697134) |
 | 2026 | Failure Identification in Imitation Learning via Statistical and Semantic Filtering | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2604.13788) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696900) |
 | 2026 | GIFT: Geometry-Induced Functional Transfer for Category-level Object Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2503.15371) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696491) |
-| 2026 | Learning Constraint-Aware Dynamical Systems from Human Demonstrations for Constrained Manipulation Tasks | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695978) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695978) |
+| 2026 | Learning Constraint-Aware Dynamical Systems from Human Demonstrations for Constrained Manipulation Tasks | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11695978) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695978) |
 | 2026 | Scaling Single Human Demonstrations for Imitation Learning using Generative Foundational Models | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2602.12734) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697256) |
 | 2026 | Video-to-BT: Generating Reactive Behavior Trees from Human Demonstration Videos for Robotic Assembly | ICRA · Assembly | [Paper](https://arxiv.org/pdf/2509.16611) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697420) |
 | 2025 | Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation | CVPR · Manipulation | [Paper](https://arxiv.org/pdf/2406.14235) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02100) |
 | 2025 | Chain-of-Modality: Learning Manipulation Programs from Multimodal Human Videos with Vision-Language-Models | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2504.13351) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128270) |
 | 2025 | Enhanced View Planning for Robotic Harvesting: Tackling Occlusions with Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2503.10334) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127892) |
-| 2025 | KALM: Keypoint Abstraction Using Large Models for Object-Relative Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2410.23254) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128681) |
+| 2025 | KALM: Keypoint Abstraction Using Large Models for Object-Relative Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2410.23254) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128681) |
 | 2024 | Flow as the Cross-Domain Manipulation Interface | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2407.15208) · [Publisher](https://doi.org/10.48550/arXiv.2407.15208) |
 | 2024 | Hierarchical Human-to-Robot Imitation Learning for Long-Horizon Tasks via Cross-Domain Skill Alignment | ICRA · Imitation Learning | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610084) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610084) |
 | 2024 | Enabling Maintainablity of Robot Programs in Assembly by Extracting Compositions of Force- and Position-Based Robot Skills from Learning-from-Demonstration Models | IROS · Assembly | [Paper](https://doi.org/10.1109/IROS58592.2024.10802802) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802802) |
@@ -44,10 +44,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Understanding Acoustic Patterns of Human Teachers Demonstrating Manipulation Tasks to Robots | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2211.00352) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981053) |
 | 2022 | Use of Action Label in Deep Predictive Learning for Robot Manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982091) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982091) |
 
-## Recent arXiv papers (125)
+## Recent arXiv papers (124)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-04 | Online Adaptation to Latent Physical Properties for Learning from Demonstration | Kotaro Kajitsuka, Masaki Murooka, Fumio Kanehiro | [Abstract](https://arxiv.org/abs/2611.06118) · [PDF](https://arxiv.org/pdf/2611.06118) |
 | 2026-10-15 | DemoStream: Batched Task-and-Motion-Plan Optimization for Automated Learning from Demonstration | Caelan Garrett, Neel Jawale, Fabio Ramos | [Abstract](https://arxiv.org/abs/2610.22020) · [PDF](https://arxiv.org/pdf/2610.22020) |
 | 2026-10-14 | Learning from Demonstrations Meets Symbolic Control - A Supervisory Control Architecture for Formal Certification of Learned Motion | Ashok Kumar, Mahathi Anand, Angela P. Schoellig, Abdalla Swikir | [Abstract](https://arxiv.org/abs/2610.19815) · [PDF](https://arxiv.org/pdf/2610.19815) |
 | 2026-10-09 | EgoReveal: Learning Active Vision and Object Manipulation under Partial Occlusions from Egocentric Demonstrations | Hiromu Kurihara, Kazutoshi Tanaka, Masashi Hatano, Tadashi Kozuno et al. | [Abstract](https://arxiv.org/abs/2610.12999) · [PDF](https://arxiv.org/pdf/2610.12999) |
@@ -171,8 +172,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-06 | Deep Learning for Koopman-based Dynamic Movement Primitives | Tyler Han, Carl Glen Henshaw | [Abstract](https://arxiv.org/abs/2312.03328) · [PDF](https://arxiv.org/pdf/2312.03328) |
 | 2023-11-30 | Enabling Robots to Identify Missing Steps in Robot Tasks for Guided Learning from Demonstration | Maximilian Diehl, Tathagata Chakraborti, Karinne Ramirez-Amaro | [Abstract](https://arxiv.org/abs/2311.18355) · [PDF](https://arxiv.org/pdf/2311.18355) |
 | 2023-11-16 | Soft and Rigid Object Grasping With Cross-Structure Hand Using Bilateral Control-Based Imitation Learning | Koki Yamane, Sho Sakaino, Toshiaki Tsuji | [Abstract](https://arxiv.org/abs/2311.09555) · [PDF](https://arxiv.org/pdf/2311.09555) |
-| 2023-11-06 | Scalable and Efficient Continual Learning from Demonstration via a Hypernetwork-generated Stable Dynamics Model | Sayantan Auddy, Jakob Hollenstein, Matteo Saveriano, Antonio Rodríguez-Sánchez et al. | [Abstract](https://arxiv.org/abs/2311.03600) · [PDF](https://arxiv.org/pdf/2311.03600) |
-| 2023-11-03 | On Hand-Held Grippers and the Morphological Gap in Human Manipulation Demonstration | Kiran Doshi, Yijiang Huang, Stelian Coros | [Abstract](https://arxiv.org/abs/2311.01832) · [PDF](https://arxiv.org/pdf/2311.01832) |
 
 ---
 

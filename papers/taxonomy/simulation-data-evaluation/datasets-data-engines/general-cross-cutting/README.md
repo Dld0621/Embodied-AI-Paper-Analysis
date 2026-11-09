@@ -29,6 +29,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-03 | GUILD: Guided Iterative Data Collection for Imitation Learning | Shivin Dass, Kevin Nguyen, Rohan Yelandur, Junhong Xu et al. | [Abstract](https://arxiv.org/abs/2611.05368) · [PDF](https://arxiv.org/pdf/2611.05368) |
 | 2026-10-22 | FLORA: An Open Model Suite for Scaling Robotics Data Engines | Sicong Leng, Yunze Man, Zhiqi Li, Jing Wang et al. | [Abstract](https://arxiv.org/abs/2610.31779) · [PDF](https://arxiv.org/pdf/2610.31779) |
 | 2026-10-20 | VeriCalib: Verifiable Target-Based LiDAR-Camera Calibration | Xiangcheng Hu, Xieyuanli Chen, Feiyi Chen, Shengli Ren et al. | [Abstract](https://arxiv.org/abs/2610.28791) · [PDF](https://arxiv.org/pdf/2610.28791) |
 | 2026-10-19 | Learning from Fleet Experience: Collective Experience Learning Across 96 Robots | Chao Yu, Shu'ang Yu, Hao Lin, Hongzhi Zang et al. | [Abstract](https://arxiv.org/abs/2610.25736) · [PDF](https://arxiv.org/pdf/2610.25736) |
@@ -87,7 +88,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-01-04 | Autonomous Multi-Rotor UAVs: A Holistic Approach to Design, Optimization, and Fabrication | Aniruth A, Chirag Satpathy, Jothika K, Nitteesh M et al. | [Abstract](https://arxiv.org/abs/2401.02541) · [PDF](https://arxiv.org/pdf/2401.02541) |
 | 2024-01-04 | AERIAL-CORE: AI-Powered Aerial Robots for Inspection and Maintenance of Electrical Power Infrastructures | Anibal Ollero, Alejandro Suarez, Christos Papaioannidis, Ioannis Pitas et al. | [Abstract](https://arxiv.org/abs/2401.02343) · [PDF](https://arxiv.org/pdf/2401.02343) |
 | 2023-11-13 | Data-Efficient Task Generalization via Probabilistic Model-based Meta Reinforcement Learning | Arjun Bhardwaj, Jonas Rothfuss, Bhavya Sukhija, Yarden As et al. | [Abstract](https://arxiv.org/abs/2311.07558) · [PDF](https://arxiv.org/pdf/2311.07558) |
-| 2023-11-02 | UniFolding: Towards Sample-efficient, Scalable, and Generalizable Robotic Garment Folding | Han Xue, Yutong Li, Wenqiang Xu, Huanyu Li et al. | [Abstract](https://arxiv.org/abs/2311.01267) · [PDF](https://arxiv.org/pdf/2311.01267) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Object%2C%20Pose%20%26%20Affordance%20Perception&specialty=Affordance%20%26%20Interaction%20Prediction#research-workbench)
 
-> 34 conference papers · 69 recent arXiv papers
+> 34 conference papers · 71 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -53,10 +53,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | AssistQ: Affordance-centric Question-driven Task Completion for Egocentric Assistant | ECCV · Affordance | [Paper](https://arxiv.org/abs/2203.04203) · [Publisher](https://doi.org/10.48550/arXiv.2203.04203) |
 | 2022 | Affordance Learning from Play for Sample-Efficient Policy Learning | ICRA · Affordance | [Paper](https://arxiv.org/abs/2203.00352) · [Publisher](https://doi.org/10.48550/arXiv.2203.00352) |
 
-## Recent arXiv papers (69)
+## Recent arXiv papers (71)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-05 | Reversible Dynamics, Asymmetric Actions: Parking as a Trajectory-Level Affordance | Adam Y. Shavit | [Abstract](https://arxiv.org/abs/2611.07965) · [PDF](https://arxiv.org/pdf/2611.07965) |
+| 2026-11-05 | AffordJEV: Affordance Grounding by Confirming Candidate Regions | Jincheng Li, Yutian Zhang, Jianyu Zhang, Xinshun Wang et al. | [Abstract](https://arxiv.org/abs/2611.07896) · [PDF](https://arxiv.org/pdf/2611.07896) |
 | 2026-09-29 | Multi-Agent Flow Matching with Decoupled Generative Guidance | Ruoyu Lin, Magnus Egerstedt, Fabio Pasqualetti | [Abstract](https://arxiv.org/abs/2609.38133) · [PDF](https://arxiv.org/pdf/2609.38133) |
 | 2026-09-22 | Pro-Bench: Prompt-Robust Open-Vocabulary Visual Grounding Across Real-World Heterogeneous Environments | Linus Nwankwo, Muslim Alaran, Christian Rauch, Stanley Chukwuebuka Obilikpa et al. | [Abstract](https://arxiv.org/abs/2609.27076) · [PDF](https://arxiv.org/pdf/2609.27076) |
 | 2026-08-18 | Reproducible Multimodal Affordance Prediction | Tommaso Apicella, Alessio Xompero, Andrea Cavallaro | [Abstract](https://arxiv.org/abs/2608.18317) · [PDF](https://arxiv.org/pdf/2608.18317) |

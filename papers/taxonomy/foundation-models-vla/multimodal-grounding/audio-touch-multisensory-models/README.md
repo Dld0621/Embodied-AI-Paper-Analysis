@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Multimodal%20Grounding&specialty=Audio%2C%20Touch%20%26%20Multisensory%20Models#research-workbench)
 
-> 4 conference papers · 77 recent arXiv papers
+> 4 conference papers · 76 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -23,7 +23,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Towards Emotion Co-regulation with LLM-powered Socially Assistive Robots: Integrating LLM Prompts and Robotic Behaviors to Support Parent-Neurodivergent Child Dyads | IROS · Llm | [Paper](https://research.tue.nl/en/publications/dc2e3607-4e01-4b21-84b9-19b6225f8828) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246217) |
 | 2024 | Octopi: Object Property Reasoning with Large Tactile-Language Models | RSS · Language Model | [Paper](https://arxiv.org/abs/2405.02794) · [Publisher](https://doi.org/10.48550/arXiv.2405.02794) |
 
-## Recent arXiv papers (77)
+## Recent arXiv papers (76)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -49,7 +49,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-05-10 | ORICF -- Open Robotics Inference and Control Framework | Andrés Meseguer Valenzuela, Luís Miguel Bartolín Arnau | [Abstract](https://arxiv.org/abs/2605.09656) · [PDF](https://arxiv.org/pdf/2605.09656) |
 | 2026-04-02 | VitaTouch: Property-Aware Vision-Tactile-Language Model for Robotic Quality Inspection in Manufacturing | Junyi Zong, Qingxuan Jia, Meixian Shi, Tong Li et al. | [Abstract](https://arxiv.org/abs/2604.03322) · [PDF](https://arxiv.org/pdf/2604.03322) |
 | 2026-04-01 | Low-Burden LLM-Based Preference Learning: Personalizing Assistive Robots from Natural Language Feedback for Users with Paralysis | Keshav Shankar, Dan Ding, Wei Gao | [Abstract](https://arxiv.org/abs/2604.01463) · [PDF](https://arxiv.org/pdf/2604.01463) |
-| 2026-03-24 | VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs | Haoran Yuan, Weigang Yi, Zhenyu Zhang, Wendi Chen et al. | [Abstract](https://arxiv.org/abs/2603.23481) · [PDF](https://arxiv.org/pdf/2603.23481) |
 | 2026-03-04 | MRPoS: Mixed Reality-Based Robot Navigation Interface Using Spatial Pointing and Speech with Large Language Model | Eduardo Iglesius, Masato Kobayashi, Yuki Uranishi | [Abstract](https://arxiv.org/abs/2603.13313) · [PDF](https://arxiv.org/pdf/2603.13313) |
 | 2026-02-25 | Therapist-Robot-Patient Physical Interaction is Worth a Thousand Words: Enabling Intuitive Therapist Guidance via Remote Haptic Control | Beatrice Luciani, Alex van den Berg, Matti Lang, Alexandre L. Ratschat et al. | [Abstract](https://arxiv.org/abs/2602.21783) · [PDF](https://arxiv.org/pdf/2602.21783) |
 | 2026-02-23 | An Approach to Combining Video and Speech with Large Language Models in Human-Robot Interaction | Guanting Shen, Zi Tian | [Abstract](https://arxiv.org/abs/2602.20219) · [PDF](https://arxiv.org/pdf/2602.20219) |

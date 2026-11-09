@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterity%20%26%20Teleoperation&subcategory=Dexterous%20Hand%20Control&specialty=Dexterous%20Grasping#research-workbench)
 
-> 15 conference papers · 28 recent arXiv papers
+> 16 conference papers · 28 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,15 +14,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (15)
+## Conference papers (16)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical Workspace Learning | ECCV · Dexterous | [Paper](https://arxiv.org/pdf/2608.19776) · [Publisher](https://doi.org/10.1007/978-3-032-37574-2_7) |
 | 2026 | Adversarial Game-Theoretic Algorithm for Dexterous Grasp Synthesis | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2511.05809) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696904) |
 | 2026 | CEDex: Cross-Embodiment Dexterous Grasp Generation at Scale from Human-like Contact Representations | ICRA · Dexterous | [Paper](https://kclpure.kcl.ac.uk/portal/en/publications/37e7d80f-4588-40b7-8eb3-faaf140f6842) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696994) |
 | 2026 | CoorGrasp: Coordinated Contact Control for Adaptive Dexterous Grasping Under Uncertainty | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2607.03557) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696385) |
 | 2026 | OmniDexGrasp: Generalizable Dexterous Grasping via Foundation Model and Force Feedback | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2510.23119) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696965) |
-| 2025 | AffordDexGrasp: Open-Set Language-Guided Dexterous Grasp With Generalizable-Instructive Affordance | ICCV · Dexterous | [Paper](https://arxiv.org/abs/2503.07360) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01099) |
+| 2025 | AffordDexGrasp: Open-Set Language-Guided Dexterous Grasp With Generalizable-Instructive Affordance | ICCV · Dexterous | [Paper](https://arxiv.org/pdf/2503.07360) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01099) |
 | 2025 | DexVLG: Dexterous Vision-Language-Grasp Model at Scale | ICCV · Dexterous | [Paper](https://arxiv.org/pdf/2507.02747) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01322) |
 | 2025 | BODex: Scalable and Efficient Robotic Dexterous Grasp Synthesis Using Bilevel Optimization | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2412.16490) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127930) |
 | 2025 | ColaDex: Contact-guided Optimization and VLM-assisted Selection for Task-oriented Dexterous Grasp Generation | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS60139.2025.11246998) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246998) |

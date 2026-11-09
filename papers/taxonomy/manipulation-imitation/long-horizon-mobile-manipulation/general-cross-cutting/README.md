@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 20 conference papers · 83 recent arXiv papers
+> 24 conference papers · 83 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,12 +14,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (20)
+## Conference papers (24)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Action-Sketcher: From Reasoning to Action via Visual Sketches for Robotic Manipulation | CVPR · Manipulation | [Paper](https://www.semanticscholar.org/paper/a7a33393e8cf119f81491c7ca823bc1d73c456a3) · [Index](https://dblp.org/rec/conf/cvpr/TanCXRJCCZWWZ26) |
+| 2026 | Obstruction Reasoning for Robotic Grasping | CVPR · Grasp | [Paper](https://www.semanticscholar.org/paper/81cddc55b326359c107bdb38e920432ee85bcf63) · [Index](https://dblp.org/rec/conf/cvpr/JiaoBGFPMWP26) |
+| 2026 | Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation | ICLR · Manipulation | [Paper](https://www.semanticscholar.org/paper/98cb63795ad96df7955f39929546b81699937763) · [Index](https://dblp.org/rec/conf/iclr/YuanCHCNDLZTH26) |
+| 2026 | RoboInter: A Holistic Intermediate Representation Suite Towards Robotic Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2602.09973) · [Publisher](https://doi.org/10.48550/arXiv.2602.09973) |
 | 2026 | GAF: Gaussian Action Field as a 4D Representation for Dynamic World Modeling in Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2506.14135) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697292) |
-| 2025 | $A_{0}$: An Affordance-Aware Hierarchical Model for General Robotic Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/abs/2504.12636) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01253) |
+| 2025 | $A_{0}$: An Affordance-Aware Hierarchical Model for General Robotic Manipulation | ICCV · Manipulation | [Paper](https://arxiv.org/pdf/2504.12636) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.01253) |
 | 2025 | AR-VRM: Imitating Human Motions for Visual Robot Manipulation with Analogical Reasoning | ICCV · Human-video transfer | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_AR-VRM_Imitating_Human_Motions_for_Visual_Robot_Manipulation_with_Analogical_ICCV_2025_paper.html) · [Official](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_AR-VRM_Imitating_Human_Motions_for_Visual_Robot_Manipulation_with_Analogical_ICCV_2025_paper.html) · [Code](https://github.com/idejie/ar) |
 | 2025 | GraspCoT: Integrating Physical Property Reasoning for 6-DoF Grasping Under Flexible Language Instructions | ICCV · Grasp | [Paper](https://arxiv.org/pdf/2503.16013) · [Publisher](https://doi.org/10.1109/ICCV51701.2025.00944) |
 | 2025 | A Parameter-Efficient Tuning Framework for Language-Guided Object Grounding and Robot Grasping | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2409.19457) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128679) |
@@ -43,6 +47,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-06 | A Controlled Study of Models, Skills, Feedback, and Curriculum in Agentic Robotics | Kaiyuan Chen, Xinyue Zhu, Shuangyu Xie, Uksang Yoo et al. | [Abstract](https://arxiv.org/abs/2611.09030) · [PDF](https://arxiv.org/pdf/2611.09030) |
 | 2026-10-30 | TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents | Kehong Gong, Xiaoxu Zheng, Guanli Hou, Seunghun Lee et al. | [Abstract](https://arxiv.org/abs/2610.41216) · [PDF](https://arxiv.org/pdf/2610.41216) |
 | 2026-10-30 | SketchMate: Agentic Geometric Reasoning for Zero-Shot Precision Insertion | Jiaming Wang | [Abstract](https://arxiv.org/abs/2610.41844) · [PDF](https://arxiv.org/pdf/2610.41844) |
 | 2026-10-13 | RoboSimStudio: An Interactive Toolkit for Human and Agent Rapid Real2Sim of Robot Manipulation Tasks | Kaiyuan Chen, Shuangyu Xie, Uksang Yoo, Xinyue Zhu et al. | [Abstract](https://arxiv.org/abs/2610.18835) · [PDF](https://arxiv.org/pdf/2610.18835) |
@@ -125,7 +130,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-03-18 | Visual Preference Inference: An Image Sequence-Based Preference Reasoning in Tabletop Object Manipulation | Joonhyung Lee, Sangbeom Park, Yongin Kwon, Jemin Lee et al. | [Abstract](https://arxiv.org/abs/2403.11513) · [PDF](https://arxiv.org/pdf/2403.11513) |
 | 2023-12-22 | Semantic-based Loco-Manipulation for Human-Robot Collaboration in Industrial Environments | Federico Rollo, Gennaro Raiola, Nikolaos Tsagarakis, Marco Roveri et al. | [Abstract](https://arxiv.org/abs/2312.14487) · [PDF](https://arxiv.org/pdf/2312.14487) |
 | 2023-12-15 | Multi-Layered Reasoning from a Single Viewpoint for Learning See-Through Grasping | Fang Wan, Chaoyang Song | [Abstract](https://arxiv.org/abs/2312.09822) · [PDF](https://arxiv.org/pdf/2312.09822) |
-| 2023-11-06 | Learning Reusable Manipulation Strategies | Jiayuan Mao, Joshua B. Tenenbaum, Tomás Lozano-Pérez, Leslie Pack Kaelbling | [Abstract](https://arxiv.org/abs/2311.03293) · [PDF](https://arxiv.org/pdf/2311.03293) |
 
 ---
 

@@ -18,11 +18,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | SureGrip: Perceptual Grasping of Natural Handholds for Free-Climbing Robots | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695918) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695918) |
+| 2026 | SureGrip: Perceptual Grasping of Natural Handholds for Free-Climbing Robots | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra57385.2026.11695918) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695918) |
 | 2025 | Adaptive Perching and Grasping by Aerial Robot with Light-Weight and High Grip-Force Tendon-Driven Three-Fingered Hand Using Single Actuator | ICRA · Grasp | [Paper](https://arxiv.org/abs/2503.17711) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128377) |
 | 2025 | PseudoTouch: Efficiently Imaging the Surface Feel of Objects for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2403.15107) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128208) |
 | 2025 | Real-Time Grasp Quality in Boundary-Constrained Granular Swarm Robots | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128071) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128071) |
-| 2025 | Beyond Anthropomorphism: Enhancing Grasping and Eliminating a Degree of Freedom by Fusing the Abduction of Digits Four and Five | IROS · Grasp | [Paper](https://arxiv.org/abs/2509.13074) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245941) |
+| 2025 | Beyond Anthropomorphism: Enhancing Grasping and Eliminating a Degree of Freedom by Fusing the Abduction of Digits Four and Five | IROS · Grasp | [Paper](https://arxiv.org/pdf/2509.13074) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245941) |
 | 2025 | Manip4Care: Robotic Manipulation of Human Limbs for Solving Assistive Tasks | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2508.02649) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245972) |
 | 2025 | Measuring Uncertainty in Shape Completion to Improve Grasp Quality | IROS · Grasp | [Paper](https://arxiv.org/pdf/2504.16183) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245992) |
 | 2024 | Physical and Digital Adversarial Attacks on Grasp Quality Networks | ICRA · Grasp | [Paper](https://kclpure.kcl.ac.uk/portal/en/publications/0185237c-29e9-44f0-ab68-e97eaf80afc1) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610886) |

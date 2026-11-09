@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=3D%20Scene%20Perception&specialty=3D%20Reconstruction%2C%20NeRF%20%26%20Gaussian%20Splatting#research-workbench)
 
-> 4 conference papers · 113 recent arXiv papers
+> 4 conference papers · 114 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,15 +18,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | GS-UVCE: Gaussian Splatting-Driven Unsupervised Visual Consistency Enhancement for Underwater 3D Scene Reconstruction | ICRA · 3D Scene | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696993) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696993) |
+| 2026 | GS-UVCE: Gaussian Splatting-Driven Unsupervised Visual Consistency Enhancement for Underwater 3D Scene Reconstruction | ICRA · 3D Scene | [Paper](https://doi.org/10.1109/icra57385.2026.11696993) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696993) |
 | 2025 | DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation | IROS · Scene Graph | [Paper](https://arxiv.org/pdf/2502.15309) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246569) |
 | 2024 | OpenOcc: Open Vocabulary 3D Scene Reconstruction via Occupancy Representation | IROS · 3D Scene | [Paper](https://arxiv.org/pdf/2403.11796) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801860) |
 | 2022 | Touching a NeRF: Leveraging Neural Radiance Fields for Tactile Sensory Data Generation | CoRL · Tactile | [Paper](https://www.semanticscholar.org/paper/52ad7e7133b19adf85e49478fe17229fc893cd8f) · [Index](https://dblp.org/rec/conf/corl/ZhongAJMP22) |
 
-## Recent arXiv papers (113)
+## Recent arXiv papers (114)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-31 | 3D Neural Rendering for Automated Ultrasonic Laser Scans | Thomas Pierson, Matthew Mitchell, Kira Perna, Anand Iyer et al. | [Abstract](https://arxiv.org/abs/2611.00527) · [PDF](https://arxiv.org/pdf/2611.00527) |
 | 2026-10-20 | SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images | Rundong Luo, Yunong Liu, Di Cao, Matthew Tancik et al. | [Abstract](https://arxiv.org/abs/2610.28585) · [PDF](https://arxiv.org/pdf/2610.28585) |
 | 2026-10-20 | PanoGraphGS: Unifying Panoptic Segmentation and Hierarchical 3D Scene Graphs with Gaussian Splatting | Jinghan Gao, Siyu Wang, Dongyu Feng, Yiyuan Pan et al. | [Abstract](https://arxiv.org/abs/2610.27696) · [PDF](https://arxiv.org/pdf/2610.27696) |
 | 2026-10-06 | OpenSplatGraph: From Dense Semantic Maps to Structured Scene Graphs for Open-Vocabulary Robot Perception | Binh Long Nguyen, Kien Nguyen, Clinton Fookes, Peyman Moghadam | [Abstract](https://arxiv.org/abs/2610.07569) · [PDF](https://arxiv.org/pdf/2610.07569) |

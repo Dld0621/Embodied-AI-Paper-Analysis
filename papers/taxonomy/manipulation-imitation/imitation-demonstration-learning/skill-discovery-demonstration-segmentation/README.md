@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Imitation%20%26%20Demonstration%20Learning&specialty=Skill%20Discovery%20%26%20Demonstration%20Segmentation#research-workbench)
 
-> 2 conference papers · 10 recent arXiv papers
+> 2 conference papers · 9 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,7 +21,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | LOTUS: Continual Imitation Learning for Robot Manipulation Through Unsupervised Skill Discovery | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2311.02058) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611129) |
 | 2024 | DexSkills: Skill Segmentation Using Haptic Data for Learning Autonomous Long-Horizon Robotic Manipulation Tasks | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2405.03476) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802807) |
 
-## Recent arXiv papers (10)
+## Recent arXiv papers (9)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -34,7 +34,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-09-30 | M2Distill: Multi-Modal Distillation for Lifelong Imitation Learning | Kaushik Roy, Akila Dissanayake, Brendan Tidd, Peyman Moghadam | [Abstract](https://arxiv.org/abs/2410.00064) · [PDF](https://arxiv.org/pdf/2410.00064) |
 | 2024-05-06 | DexSkills: Skill Segmentation Using Haptic Data for Learning Autonomous Long-Horizon Robotic Manipulation Tasks | Xiaofeng Mao, Gabriele Giudici, Claudio Coppola, Kaspar Althoefer et al. | [Abstract](https://arxiv.org/abs/2405.03476) · [PDF](https://arxiv.org/pdf/2405.03476) |
 | 2024-02-27 | Rethinking Mutual Information for Language Conditioned Skill Discovery on Imitation Learning | Zhaoxun Ju, Chao Yang, Hongbo Wang, Yu Qiao et al. | [Abstract](https://arxiv.org/abs/2402.17511) · [PDF](https://arxiv.org/pdf/2402.17511) |
-| 2023-11-03 | LOTUS: Continual Imitation Learning for Robot Manipulation Through Unsupervised Skill Discovery | Weikang Wan, Yifeng Zhu, Rutav Shah, Yuke Zhu | [Abstract](https://arxiv.org/abs/2311.02058) · [PDF](https://arxiv.org/pdf/2311.02058) |
 
 ---
 

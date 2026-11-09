@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Training%20Infrastructure%20%26%20Tools&specialty=General%20/%20Cross-cutting#research-workbench)
 
-> 1 conference papers · 49 recent arXiv papers
+> 1 conference papers · 48 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,7 +20,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2025 | ORBiT: Optimizing Robot-Assisted Bite Transfer Leveraging a Real2Sim2Real Framework | IROS · Sim2Real | [Paper](https://doi.org/10.1109/IROS60139.2025.11247185) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247185) |
 
-## Recent arXiv papers (49)
+## Recent arXiv papers (48)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -72,7 +72,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-02 | Di-NeRF: Distributed NeRF for Collaborative Learning with Relative Pose Refinement | Mahboubeh Asadi, Kourosh Zareinia, Sajad Saeedi | [Abstract](https://arxiv.org/abs/2402.01485) · [PDF](https://arxiv.org/pdf/2402.01485) |
 | 2023-12-30 | Physics-Informed Multi-Agent Reinforcement Learning for Distributed Multi-Robot Problems | Eduardo Sebastian, Thai Duong, Nikolay Atanasov, Eduardo Montijano et al. | [Abstract](https://arxiv.org/abs/2401.00212) · [PDF](https://arxiv.org/pdf/2401.00212) |
 | 2023-11-28 | HD Maps are Lane Detection Generalizers: A Novel Generative Framework for Single-Source Domain Generalization | Daeun Lee, Minhyeok Heo, Jiwon Kim | [Abstract](https://arxiv.org/abs/2311.16589) · [PDF](https://arxiv.org/pdf/2311.16589) |
-| 2023-11-06 | A Reactive performance-based Shared Control Framework for Assistive Robotic Manipulators | Francisco J. Ruiz-Ruiz, Cristina Urdiales, Manuel Fernández-Carmona, Jesús M. Gómez-de-Gabriel | [Abstract](https://arxiv.org/abs/2311.03232) · [PDF](https://arxiv.org/pdf/2311.03232) |
 
 ---
 

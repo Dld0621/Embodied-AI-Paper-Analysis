@@ -8,7 +8,7 @@
 |---:|---|---|---|
 | 2023 | A New Path: Scaling Vision-and-Language Navigation with Synthetic Instructions and Imitation Learning | CVPR · Navigation | [Paper](https://arxiv.org/pdf/2210.03112) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.01041) |
 | 2023 | CoWs on Pasture: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation | CVPR · Navigation | [Paper](https://arxiv.org/pdf/2203.10421) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.02219) |
-| 2023 | Iterative Vision-and-Language Navigation | CVPR · Navigation | [Paper](https://arxiv.org/abs/2210.03087) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.01433) |
+| 2023 | Iterative Vision-and-Language Navigation | CVPR · Navigation | [Paper](https://arxiv.org/pdf/2210.03087) · [Publisher](https://doi.org/10.1109/CVPR52729.2023.01433) |
 | 2023 | Context-Aware Deep Reinforcement Learning for Autonomous Robotic Navigation in Unknown Area | CoRL · Navigation | [Paper](https://www.semanticscholar.org/paper/29e11e51d01f52bb28f1d335227270806c090452) · [Index](https://dblp.org/rec/conf/corl/LiangWCCZS23) |
 | 2023 | HomeRobot: Open-Vocabulary Mobile Manipulation | CoRL · Mobile manipulation | [Paper](https://arxiv.org/abs/2306.11565) · [Official](https://proceedings.mlr.press/v229/) · [Code](https://github.com/facebookresearch/home-robot) |
 | 2023 | Tell Me Where to Go: A Composable Framework for Context-Aware Embodied Robot Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2306.09523) · [Publisher](https://doi.org/10.48550/arXiv.2306.09523) |
@@ -49,7 +49,7 @@
 | 2023 | WAVN: Wide Area Visual Navigation for Large-scale, GPS-denied Environments | ICRA · Navigation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10160511) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160511) |
 | 2023 | A Safety Filter for Realizing Safe Robot Navigation in Crowds | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342054) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342054) |
 | 2023 | A Thousand Worlds: Scenery Specification and Generation for Simulation-Based Testing of Mobile Robot Navigation Stacks | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS55552.2023.10342315) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342315) |
-| 2023 | Aggregating Single-Wheeled Mobile Robots for Omnidirectional Movements | IROS · Mobile Robot | [Paper](https://arxiv.org/abs/2308.03328) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341772) |
+| 2023 | Aggregating Single-Wheeled Mobile Robots for Omnidirectional Movements | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2308.03328) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341772) |
 | 2023 | All Aware Robot Navigation in Human Environments Using Deep Reinforcement Learning | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS55552.2023.10341477) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341477) |
 | 2023 | An Attentional Recurrent Neural Network for Occlusion-Aware Proactive Anomaly Detection in Field Robot Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2309.16826) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341852) |
 | 2023 | Approximation Algorithms for Charging Station Placement for Mobile Robots | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS55552.2023.10341361) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341361) |

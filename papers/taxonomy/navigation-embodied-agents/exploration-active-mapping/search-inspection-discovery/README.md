@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Exploration%20%26%20Active%20Mapping&specialty=Search%2C%20Inspection%20%26%20Discovery#research-workbench)
 
-> 16 conference papers · 76 recent arXiv papers
+> 16 conference papers · 75 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -35,7 +35,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Semantics-aware Exploration and Inspection Path Planning | ICRA · Exploration | [Paper](https://arxiv.org/pdf/2303.07236) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160469) |
 | 2022 | Ω2: Optimal Hierarchical Planner for Object Search in Large Environments via Mobile Manipulation | IROS · Mobile Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981194) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981194) |
 
-## Recent arXiv papers (76)
+## Recent arXiv papers (75)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -114,7 +114,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-26 | Star-Searcher: A Complete and Efficient Aerial System for Autonomous Target Search in Complex Unknown Environments | Yiming Luo, Zixuan Zhuang, Neng Pan, Chen Feng et al. | [Abstract](https://arxiv.org/abs/2402.16348) · [PDF](https://arxiv.org/pdf/2402.16348) |
 | 2024-02-12 | Evaluation of a Smart Mobile Robotic System for Industrial Plant Inspection and Supervision | Georg K. J. Fischer, Max Bergau, D. Adriana Gómez-Rosal, Andreas Wachaja et al. | [Abstract](https://arxiv.org/abs/2402.07691) · [PDF](https://arxiv.org/pdf/2402.07691) |
 | 2024-01-23 | Sensing environmental physical interaction to traverse cluttered obstacles | Yaqing Wang, Ling Xu, Chen Li | [Abstract](https://arxiv.org/abs/2401.13062) · [PDF](https://arxiv.org/pdf/2401.13062) |
-| 2023-11-07 | Autonomous Exploration and General Visual Inspection of Ship Ballast Water Tanks using Aerial Robots | Mihir Dharmadhikari, Paolo De Petris, Mihir Kulkarni, Nikhil Khedekar et al. | [Abstract](https://arxiv.org/abs/2311.03838) · [PDF](https://arxiv.org/pdf/2311.03838) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Contact-rich%20%26%20Deformable%20Manipulation&specialty=Tool%20Use%20%26%20Articulated%20Objects#research-workbench)
 
-> 17 conference papers · 69 recent arXiv papers
+> 20 conference papers · 68 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,14 +14,17 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (17)
+## Conference papers (20)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation | CVPR · Manipulation | [Paper](https://arxiv.org/abs/2601.03782) · [Publisher](https://doi.org/10.48550/arXiv.2601.03782) |
+| 2026 | Learning Part-Aware Dense 3D Feature Field for Generalizable Articulated Object Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2602.14193) · [Publisher](https://doi.org/10.48550/arXiv.2602.14193) |
 | 2026 | HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2511.14756) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697254) |
-| 2026 | Planning Using Belief Summaries for Goal-Directed Manipulation of Articulated Objects with Force and Proprioception | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695821) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695821) |
+| 2026 | Planning Using Belief Summaries for Goal-Directed Manipulation of Articulated Objects with Force and Proprioception | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11695821) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695821) |
 | 2026 | Robustness-Aware Tool Selection and Manipulation Planning with Learned Energy-Informed Guidance | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2506.03362) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695929) |
 | 2026 | Vi-TacMan: Articulated Object Manipulation via Vision and Touch | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2510.06339) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697058) |
+| 2025 | Physically Ground Commonsense Knowledge for Articulated Object Manipulation with Analytic Concepts | CVPR · Manipulation | [Paper](https://arxiv.org/abs/2503.23348) · [Publisher](https://doi.org/10.48550/arXiv.2503.23348) |
 | 2025 | DoorBot: Closed-Loop Task Planning and Manipulation for Door Opening in the Wild with Haptic Feedback | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2504.09358) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128394) |
 | 2025 | You Only Estimate Once: Unified, One-stage, Real-Time Category-Level Articulated Object 6D Pose Estimation for Robotic Grasping | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2506.05719) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128513) |
 | 2025 | ManipGPT: Is Affordance Segmentation by Large Vision Models Enough for Articulated Object Manipulation? | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2412.10050) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246374) |
@@ -32,11 +35,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | The Power of the Senses: Generalizable Manipulation from Vision and Touch through Masked Multimodal Learning | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2311.00924) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802719) |
 | 2024 | General Articulated Objects Manipulation in Real Images via Part-Aware Diffusion Process | NeurIPS · Manipulation | [Paper](https://doi.org/10.52202/079017-0651) · [Publisher](https://doi.org/10.52202/079017-0651) |
 | 2023 | FlowBot++: Learning Generalized Articulated Objects Manipulation via Articulation Projection | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2306.12893) · [Publisher](https://doi.org/10.48550/arXiv.2306.12893) |
-| 2023 | Human-Guided Planning for Complex Manipulation Tasks Using the Screw Geometry of Motion | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2209.05672) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161130) |
+| 2023 | Human-Guided Planning for Complex Manipulation Tasks Using the Screw Geometry of Motion | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2209.05672) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161130) |
 | 2023 | Learning Category-Level Manipulation Tasks from Point Clouds with Dynamic Graph CNNs | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2209.06331) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160820) |
 | 2023 | Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusions | NeurIPS · Manipulation | [Paper](https://arxiv.org/pdf/2309.07510) · [Publisher](https://doi.org/10.48550/arXiv.2309.07510) |
 
-## Recent arXiv papers (69)
+## Recent arXiv papers (68)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -63,6 +66,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-05-06 | Creative Robot Tool Use by Counterfactual Reasoning | M. Tuluhan Akbulut, Varun Satheesh, Ahmed Jaafar, Alper Ahmetoglu et al. | [Abstract](https://arxiv.org/abs/2605.05411) · [PDF](https://arxiv.org/pdf/2605.05411) |
 | 2026-04-24 | QDTraj: Exploration of Diverse Trajectory Primitives for Articulated Objects Robotic Manipulation | Mathilde Kappel, Mahdi Khoramshahi, Louis Annabi, Faiz Ben Amar et al. | [Abstract](https://arxiv.org/abs/2604.22551) · [PDF](https://arxiv.org/pdf/2604.22551) |
 | 2026-04-15 | UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception | Ziming Wang | [Abstract](https://arxiv.org/abs/2604.14089) · [PDF](https://arxiv.org/pdf/2604.14089) |
+| 2026-04-09 | BLaFA: Bridging Language to 3D Functional Affordances for Dexterous Robotic Grasping in Tool Use | Fan Yang, Wenrui Chen, Guorun Yan, Ruize Liao et al. | [Abstract](https://arxiv.org/abs/2604.08410) · [PDF](https://arxiv.org/pdf/2604.08410) |
 | 2026-03-24 | PHANTOM Hand | Teng Yan, Jiongxu Chen, Qixiang Hua, Yue Yu et al. | [Abstract](https://arxiv.org/abs/2603.23152) · [PDF](https://arxiv.org/pdf/2603.23152) |
 | 2026-02-16 | PAct: Part-Decomposed Single-View Articulated Object Generation | Qingming Liu, Xinyue Yao, Shuyuan Zhang, Yueci Deng et al. | [Abstract](https://arxiv.org/abs/2602.14965) · [PDF](https://arxiv.org/pdf/2602.14965) |
 | 2026-02-15 | Learning Part-Aware Dense 3D Feature Field for Generalizable Articulated Object Manipulation | Yue Chen, Muqing Jiang, Kaifeng Zheng, Jiaqi Liang et al. | [Abstract](https://arxiv.org/abs/2602.14193) · [PDF](https://arxiv.org/pdf/2602.14193) |
@@ -107,8 +111,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-02-28 | Articulated Object Manipulation with Coarse-to-fine Affordance for Mitigating the Effect of Point Cloud Noise | Suhan Ling, Yian Wang, Shiguang Wu, Yuzheng Zhuang et al. | [Abstract](https://arxiv.org/abs/2402.18699) · [PDF](https://arxiv.org/pdf/2402.18699) |
 | 2024-02-18 | Dynamic planning in hierarchical active inference | Matteo Priorelli, Ivilin Peev Stoianov | [Abstract](https://arxiv.org/abs/2402.11658) · [PDF](https://arxiv.org/pdf/2402.11658) |
 | 2024-02-01 | Deep hybrid models: infer and plan in a dynamic world | Matteo Priorelli, Ivilin Peev Stoianov | [Abstract](https://arxiv.org/abs/2402.10088) · [PDF](https://arxiv.org/pdf/2402.10088) |
-| 2023-11-06 | Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs | Wenke Xia, Dong Wang, Xincheng Pang, Zhigang Wang et al. | [Abstract](https://arxiv.org/abs/2311.02847) · [PDF](https://arxiv.org/pdf/2311.02847) |
-| 2023-11-02 | The Power of the Senses: Generalizable Manipulation from Vision and Touch through Masked Multimodal Learning | Carmelo Sferrazza, Younggyo Seo, Hao Liu, Youngwoon Lee et al. | [Abstract](https://arxiv.org/abs/2311.00924) · [PDF](https://arxiv.org/pdf/2311.00924) |
 
 ---
 

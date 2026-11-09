@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Large-scale%20Parallel%20Simulation#research-workbench)
 
-> 4 conference papers · 23 recent arXiv papers
+> 5 conference papers · 24 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,19 +14,21 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (4)
+## Conference papers (5)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots | ICLR · Simulation | [Paper](https://arxiv.org/abs/2603.04356) · [Publisher](https://doi.org/10.48550/arXiv.2603.04356) |
 | 2025 | Dynamic Tube MPC: Learning Tube Dynamics with Massively Parallel Simulation for Robust Safety in Practice | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2411.15350) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127279) |
 | 2025 | DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments | IROS · Simulation | [Paper](https://arxiv.org/abs/2507.21981) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247559) |
 | 2025 | Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation | NeurIPS · Simulation | [Paper](https://arxiv.org/abs/2504.12908) · [Publisher](https://doi.org/10.48550/arXiv.2504.12908) |
 | 2024 | RoboCasa: Large-Scale Simulation of Household Tasks for Generalist Robots | RSS · Household simulation | [Paper](https://arxiv.org/abs/2306.14426) · [Official](https://roboticsproceedings.org/rss20/index.html) · [Code](https://github.com/ARISE-Initiative/robocasa) |
 
-## Recent arXiv papers (23)
+## Recent arXiv papers (24)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-06 | Lodos-v2: An Efficient Primal Formulation of the Exact Frictional Contact Problem | Onur Beker, Andreas René Geist, Georg Martius | [Abstract](https://arxiv.org/abs/2611.08868) · [PDF](https://arxiv.org/pdf/2611.08868) |
 | 2026-10-19 | HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation | Tianwei Luo, Yiming He, Hongjin Wu, Ting Pan et al. | [Abstract](https://arxiv.org/abs/2610.26765) · [PDF](https://arxiv.org/pdf/2610.26765) |
 | 2026-10-01 | Network-in-the-Loop at Scale: GPU-Batched 5G Simulation for Massively Parallel Robot Learning | Zifan Zhang, Mingzhe Han, Kannan Athreya, Yuchen Liu | [Abstract](https://arxiv.org/abs/2610.02370) · [PDF](https://arxiv.org/pdf/2610.02370) |
 | 2026-10-01 | Multi-Fidelity Policy Gradients Stabilize Data-Scarce Reinforcement Learning | Xinjie Liu, Ruihan Zhao, Anirban Chaudhuri, Cyrus Neary et al. | [Abstract](https://arxiv.org/abs/2610.02505) · [PDF](https://arxiv.org/pdf/2610.02505) |

@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Running%2C%20Jumping%20%26%20Agile%20Skills#research-workbench)
 
-> 23 conference papers · 148 recent arXiv papers
+> 23 conference papers · 152 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,8 +18,8 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | Agile Hauler Curriculum: Learning High-Speed Locomotion for Robots under Demanding Payloads | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695866) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695866) |
-| 2026 | OTTO: Dynamics and Control of Wheeled Bipedal Jumping Robot | ICRA · Biped | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696480) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696480) |
+| 2026 | Agile Hauler Curriculum: Learning High-Speed Locomotion for Robots under Demanding Payloads | ICRA · Locomotion | [Paper](https://doi.org/10.1109/icra57385.2026.11695866) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695866) |
+| 2026 | OTTO: Dynamics and Control of Wheeled Bipedal Jumping Robot | ICRA · Biped | [Paper](https://doi.org/10.1109/icra57385.2026.11696480) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696480) |
 | 2025 | Explosive Jumping with Rigid and Articulated Soft Quadrupeds via Example Guided Reinforcement Learning | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2503.16197) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247079) |
 | 2025 | Integrating Trajectory Optimization and Reinforcement Learning for Quadrupedal Jumping with Terrain-Adaptive Landing | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2509.12776) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246445) |
 | 2025 | Playful DoggyBot: Learning Agile and Precise Quadrupedal Locomotion | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2409.19920) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245880) |
@@ -42,10 +42,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | SMORS: A soft multirotor UAV for multimodal locomotion and robust interaction | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2204.02165) · [Publisher](https://doi.org/10.48550/arXiv.2204.02165) |
 | 2022 | Three-Dimensional Dynamic Running with a Point-Foot Biped based on Differentially Flat SLIP | IROS · Biped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981516) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981516) |
 
-## Recent arXiv papers (148)
+## Recent arXiv papers (152)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-05 | Terrain-Indexed Motion Priors and Geometric Support for Extreme Humanoid Parkour | Chenghao Sun, Youhao Lyu, Zizheng Li, Shuting Zhang et al. | [Abstract](https://arxiv.org/abs/2611.08056) · [PDF](https://arxiv.org/pdf/2611.08056) |
+| 2026-11-05 | Fast and Reliable Open-Vocabulary Object Search with Absence Detection from Robot Memory | Nicholas Paul, Devson Butani, Eric Martinson | [Abstract](https://arxiv.org/abs/2611.07493) · [PDF](https://arxiv.org/pdf/2611.07493) |
+| 2026-11-05 | CS-Pi: Constraint-Satisfying Flow Policy Sampling | Soumojit Bhattacharya, Oliver Kroemer, Shubham Tulsiani | [Abstract](https://arxiv.org/abs/2611.08654) · [PDF](https://arxiv.org/pdf/2611.08654) |
+| 2026-11-04 | RACE: Calibrated Cumulative Scoring for Rollout-Free Robot Policy Checkpoint Selection | Changyeon Kim, Yekyung Nah, Kimin Lee | [Abstract](https://arxiv.org/abs/2611.05838) · [PDF](https://arxiv.org/pdf/2611.05838) |
+| 2026-10-31 | Reflex: Fast Robot Policy Serving by Reusing and Correcting Past Actions | Ziyang Lin, Zixuan Sun, Rami Nasser, Jianli Jin et al. | [Abstract](https://arxiv.org/abs/2611.00524) · [PDF](https://arxiv.org/pdf/2611.00524) |
 | 2026-10-28 | Selective Sliding Mode Control Enhances Robustness of Aerial Robots Under Disturbances | Anoop Kiran, Thales C. Silva, Nora Ayanian | [Abstract](https://arxiv.org/abs/2610.38930) · [PDF](https://arxiv.org/pdf/2610.38930) |
 | 2026-10-28 | Minimum Sufficient Communication for Independent Behaviour Tree Robot Teams | Sherry Jiang, Oliver Obst | [Abstract](https://arxiv.org/abs/2610.38176) · [PDF](https://arxiv.org/pdf/2610.38176) |
 | 2026-10-26 | Continuous-Time Safe Planning and Control for Agile Quadrupeds | Gage MacLin, Mason Peterson, Camilla Tabasso, Venanzio Cichella et al. | [Abstract](https://arxiv.org/abs/2610.35670) · [PDF](https://arxiv.org/pdf/2610.35670) |
@@ -69,13 +74,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-09-01 | Behavior--Realization Separation for Constrained Physical Human--Robot Interaction | Yongyan Cao | [Abstract](https://arxiv.org/abs/2609.00669) · [PDF](https://arxiv.org/pdf/2609.00669) |
 | 2026-08-30 | Learning Agile Perceptive Traversal of Sparse 3D Structures for Humanoids | Efe Ongan, Chong Zhang, Boyang Sun, Andrei Cramariuc et al. | [Abstract](https://arxiv.org/abs/2608.29769) · [PDF](https://arxiv.org/pdf/2608.29769) |
 | 2026-08-11 | When Your State Estimator Has Lost The Plot: Detecting Estimator Failures Via Spectral Analysis | Christian Lanegger, Helen Oleynikova, Roland Siegwart, Michael Pantic | [Abstract](https://arxiv.org/abs/2608.10623) · [PDF](https://arxiv.org/pdf/2608.10623) |
-| 2026-08-05 | Beyond Visibility: Real-Time Surface Accessibility Fields from Sparse LiDAR | Bradley Scott, Sam Schofield, Richard Green | [Abstract](https://arxiv.org/abs/2608.06412) · [PDF](https://arxiv.org/pdf/2608.06412) |
 | 2026-08-02 | MixedComplementarityProblems.jl: A Fast, Batched, Open-Source Interior Point Solver for Mixed Complementarity Problems | David Fridovich-Keil | [Abstract](https://arxiv.org/abs/2608.00959) · [PDF](https://arxiv.org/pdf/2608.00959) |
 | 2026-07-16 | G$^2$SR: Geometric Methods for Fast and Memory-Efficient Gaussian-based Surface Reconstruction | Dasong Gao, Vivienne Sze, Sertac Karaman | [Abstract](https://arxiv.org/abs/2607.14470) · [PDF](https://arxiv.org/pdf/2607.14470) |
 | 2026-07-15 | Agile perceptive multi-skill locomotion for quadrupedal robots in the wild | Jun-Gill Kang, Jaehyun Park, Tae-Gyu Song, Joon-Ha Kim et al. | [Abstract](https://arxiv.org/abs/2607.13579) · [PDF](https://arxiv.org/pdf/2607.13579) |
 | 2026-07-13 | GaitSpan: Growing Humanoid Locomotion from Walking to Running | Kwan-Yee Lin, Zilin Wang, Janelle J. Liu, Stella X. Yu | [Abstract](https://arxiv.org/abs/2607.12114) · [PDF](https://arxiv.org/pdf/2607.12114) |
 | 2026-07-13 | Contract-Grounded Behavior Tree Synthesis via Coding Agents | Jonathan Salfity, Robert Blake Anderson, Mitch Pryor | [Abstract](https://arxiv.org/abs/2607.12220) · [PDF](https://arxiv.org/pdf/2607.12220) |
 | 2026-07-02 | Episodic-to-Semantic Consolidation Without Identity Drift | Xue Qin, Simin Luan, Cong Yang, Zhijun Li | [Abstract](https://arxiv.org/abs/2607.01988) · [PDF](https://arxiv.org/pdf/2607.01988) |
+| 2026-06-24 | Scaling Nonlinear Optimization: Many Problems One GPU | John Viljoen, Johanna Haffner, Lasse Peters, Masayoshi Tomizuka et al. | [Abstract](https://arxiv.org/abs/2606.26341) · [PDF](https://arxiv.org/pdf/2606.26341) |
 | 2026-06-24 | Direct Time-of-Flight Measurement Accuracy Improvement With Perimeter-Gated SPADs | Md Sakibur Sajal, Hunter Guthrie, Zexi Liu, Marc Dandin | [Abstract](https://arxiv.org/abs/2607.02546) · [PDF](https://arxiv.org/pdf/2607.02546) |
 | 2026-06-22 | When Robots Rate Their Own Interactions: Engagement Validity and the Strangeness Failure | Victor Lockwood, Hasan Mahmud, Mohammad Javad Khojasteh, Prabu David et al. | [Abstract](https://arxiv.org/abs/2606.23339) · [PDF](https://arxiv.org/pdf/2606.23339) |
 | 2026-06-22 | Autonomous Subsea Cable Search and Tracking with Graph-Optimised Priors and Visual Tracking | Ibrahim Fadhil Djauhari, Adrian Bodenmann, Samuel Simmons, Cailei Liang et al. | [Abstract](https://arxiv.org/abs/2606.23606) · [PDF](https://arxiv.org/pdf/2606.23606) |
@@ -91,7 +96,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-05-06 | ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving | Huimin Wang, Yue Wang, Bihao Cui, Pengxiang Li et al. | [Abstract](https://arxiv.org/abs/2605.04647) · [PDF](https://arxiv.org/pdf/2605.04647) |
 | 2026-05-05 | Height Control and Optimal Torque Planning for Jumping With Wheeled-Bipedal Robots | Yulun Zhuang, Yuan Xu, Binxin Huang, Mandan Chao et al. | [Abstract](https://arxiv.org/abs/2605.03302) · [PDF](https://arxiv.org/pdf/2605.03302) |
 | 2026-04-09 | Density-Driven Optimal Control: Convergence Guarantees for Stochastic LTI Multi-Agent Systems | Kooktae Lee | [Abstract](https://arxiv.org/abs/2604.08495) · [PDF](https://arxiv.org/pdf/2604.08495) |
-| 2026-03-23 | From Singleton Obstacles to Clutter: Translation Invariant Compositional Avoid Sets | Prashant Solanki, Jasper Van Beers, Coen De Visser | [Abstract](https://arxiv.org/abs/2603.22146) · [PDF](https://arxiv.org/pdf/2603.22146) |
+| 2026-03-23 | Reusable Neural Reachability via Local Refinement | Prashant Solanki, Jasper Van Beers, Coen De Visser | [Abstract](https://arxiv.org/abs/2603.22146) · [PDF](https://arxiv.org/pdf/2603.22146) |
 | 2026-03-23 | Disengagement Analysis and Field Tests of a Prototypical Open-Source Level 4 Autonomous Driving System | Marvin Seegert, Christian Oefinger, Korbinian Moller, Christoph Bank et al. | [Abstract](https://arxiv.org/abs/2603.21926) · [PDF](https://arxiv.org/pdf/2603.21926) |
 | 2026-03-17 | When Rolling Gets Weird: A Curved-Link Tensegrity Robot for Non-Intuitive Behavior | Lauren Ervin, Harish Bezawada, Vishesh Vikas | [Abstract](https://arxiv.org/abs/2603.16503) · [PDF](https://arxiv.org/pdf/2603.16503) |
 | 2026-03-17 | SLowRL: Safe Low-Rank Adaptation Reinforcement Learning for Locomotion | Elham Daneshmand, Shafeef Omar, Glen Berseth, Majid Khadiv et al. | [Abstract](https://arxiv.org/abs/2603.17092) · [PDF](https://arxiv.org/pdf/2603.17092) |
@@ -193,7 +198,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-12-05 | An alternating peak-optimization method for optimal trajectory generation of quadrotor drones | Wytze A. B. de Vries, Ming Li, Qirui Song, Zhiyong Sun | [Abstract](https://arxiv.org/abs/2312.02944) · [PDF](https://arxiv.org/pdf/2312.02944) |
 | 2023-11-16 | Dynamic modeling of wing-assisted inclined running with a morphing multi-modal robot | Eric Sihite, Alireza Ramezani, Morteza Gharib | [Abstract](https://arxiv.org/abs/2311.09963) · [PDF](https://arxiv.org/pdf/2311.09963) |
 | 2023-11-10 | Learning Agile Bipedal Motions on a Quadrupedal Robot | Yunfei Li, Jinhan Li, Wei Fu, Yi Wu | [Abstract](https://arxiv.org/abs/2311.05818) · [PDF](https://arxiv.org/pdf/2311.05818) |
-| 2023-11-08 | RAMIEL: A Parallel-Wire Driven Monopedal Robot for High and Continuous Jumping | Temma Suzuki, Yasunori Toshimitsu, Yuya Nagamatsu, Kento Kawaharazuka et al. | [Abstract](https://arxiv.org/abs/2311.04573) · [PDF](https://arxiv.org/pdf/2311.04573) |
 
 ---
 

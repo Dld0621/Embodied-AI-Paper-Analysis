@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%20%26%20Embodied%20Agents&subcategory=Mapping%20%26%20Localization&specialty=Visual%2C%20LiDAR%20%26%20Multi-sensor%20SLAM#research-workbench)
 
-> 10 conference papers · 615 recent arXiv papers
+> 10 conference papers · 614 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,10 +29,12 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | RVWO: A Robust Visual-Wheel SLAM System for Mobile Robots in Dynamic Environments | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS55552.2023.10342183) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342183) |
 | 2023 | Trajectory-Based SLAM for Indoor Mobile Robots with Limited Sensing Capabilities | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS55552.2023.10341518) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341518) |
 
-## Recent arXiv papers (615)
+## Recent arXiv papers (614)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-04 | Scale Anchoring via Implicit Semantics and Sequence-Consistent Loop Closure for VGGT-Based SLAM | Ziyi Jin, Kangjin Yu, Beichen Wang, Can Jiang et al. | [Abstract](https://arxiv.org/abs/2611.06308) · [PDF](https://arxiv.org/pdf/2611.06308) |
+| 2026-11-02 | A Tightly Coupled Magnetic-Inertial SLAM System for Field Robots | Chuan Huang, Tongxing Peng | [Abstract](https://arxiv.org/abs/2611.03106) · [PDF](https://arxiv.org/pdf/2611.03106) |
 | 2026-10-30 | Visual-Inertial RGB-D SLAM with Encoders for a Differential Wheeled Robot | Zhanghao Zhu, Yutaka Kaizu, Kenichi Furuhashi, Kenji Imou | [Abstract](https://arxiv.org/abs/2610.41768) · [PDF](https://arxiv.org/pdf/2610.41768) |
 | 2026-10-30 | DrawSplat: Atlanta World-Guided Implicit Gaussian SLAM for Indoor Reconstruction | Fan Zhu, Zhisong Xu, Ziyu Chen, Zhenjun Zhao et al. | [Abstract](https://arxiv.org/abs/2610.41602) · [PDF](https://arxiv.org/pdf/2610.41602) |
 | 2026-10-29 | Smartphone Indoor Localization Enhanced by Hierarchical Multi-Sensor Context Recognition | Wenhui Feng, Muhan Weng, Jianyu Liu, Xiansheng Yang et al. | [Abstract](https://arxiv.org/abs/2610.39691) · [PDF](https://arxiv.org/pdf/2610.39691) |
@@ -598,7 +600,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-03-12 | SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM | Siting Zhu, Renjie Qin, Guangming Wang, Jiuming Liu et al. | [Abstract](https://arxiv.org/abs/2403.07494) · [PDF](https://arxiv.org/pdf/2403.07494) |
 | 2024-03-12 | CMax-SLAM: Event-based Rotational-Motion Bundle Adjustment and SLAM System using Contrast Maximization | Shuang Guo, Guillermo Gallego | [Abstract](https://arxiv.org/abs/2403.08119) · [PDF](https://arxiv.org/pdf/2403.08119) |
 | 2024-03-10 | RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation | Mathieu Labbé, François Michaud | [Abstract](https://arxiv.org/abs/2403.06341) · [PDF](https://arxiv.org/pdf/2403.06341) |
-| 2024-03-09 | Action-Consistent Decentralized Belief Space Planning with Inconsistent Beliefs and Limited Data Sharing: Framework and Simplification Algorithms with Formal Guarantees | Tanmoy Kundu, Moshe Rafaeli, Anton Gulyaev, Vadim Indelman | [Abstract](https://arxiv.org/abs/2403.05962) · [PDF](https://arxiv.org/pdf/2403.05962) |
+| 2024-03-09 | Action-Consistent Decentralized Belief Space Planning with Inconsistent Beliefs and Limited Data Sharing: Framework and Simplification Algorithms with Formal Guarantees | Tanmoy Kundu, Moshe Rafaeli Shimron, Anton Gulyaev, Vadim Indelman | [Abstract](https://arxiv.org/abs/2403.05962) · [PDF](https://arxiv.org/pdf/2403.05962) |
 | 2024-03-04 | Tightly-Coupled LiDAR-Visual-Inertial SLAM and Large-Scale Volumetric Occupancy Mapping | Simon Boche, Sebastián Barbas Laina, Stefan Leutenegger | [Abstract](https://arxiv.org/abs/2403.02280) · [PDF](https://arxiv.org/pdf/2403.02280) |
 | 2024-03-04 | Structure from WiFi (SfW): RSSI-based Geometric Mapping of Indoor Environments | Junseo Kim, Jill Aghyourli Zalat, Yeganeh Bahoo, Sajad Saeedi | [Abstract](https://arxiv.org/abs/2403.02235) · [PDF](https://arxiv.org/pdf/2403.02235) |
 | 2024-03-01 | Joint Spatial-Temporal Calibration for Camera and Global Pose Sensor | Junlin Song, Antoine Richard, Miguel Olivares-Mendez | [Abstract](https://arxiv.org/abs/2403.00976) · [PDF](https://arxiv.org/pdf/2403.00976) |
@@ -645,9 +647,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-18 | SNI-SLAM: Semantic Neural Implicit SLAM | Siting Zhu, Guangming Wang, Hermann Blum, Jiuming Liu et al. | [Abstract](https://arxiv.org/abs/2311.11016) · [PDF](https://arxiv.org/pdf/2311.11016) |
 | 2023-11-16 | NGEL-SLAM: Neural Implicit Representation-based Global Consistent Low-Latency SLAM System | Yunxuan Mao, Xuan Yu, Kai Wang, Yue Wang et al. | [Abstract](https://arxiv.org/abs/2311.09525) · [PDF](https://arxiv.org/pdf/2311.09525) |
 | 2023-11-14 | CP-SLAM: Collaborative Neural Point-based SLAM System | Jiarui Hu, Mao Mao, Hujun Bao, Guofeng Zhang et al. | [Abstract](https://arxiv.org/abs/2311.08013) · [PDF](https://arxiv.org/pdf/2311.08013) |
-| 2023-11-06 | Osprey: Multi-Session Autonomous Aerial Mapping with LiDAR-based SLAM and Next Best View Planning | Rowan Border, Nived Chebrolu, Yifu Tao, Jonathan D. Gammell et al. | [Abstract](https://arxiv.org/abs/2311.03484) · [PDF](https://arxiv.org/pdf/2311.03484) |
-| 2023-11-04 | ECMD: An Event-Centric Multisensory Driving Dataset for SLAM | Peiyu Chen, Weipeng Guan, Feng Huang, Yihan Zhong et al. | [Abstract](https://arxiv.org/abs/2311.02327) · [PDF](https://arxiv.org/pdf/2311.02327) |
-| 2023-11-02 | Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM | Hyungtae Lim, Beomsoo Kim, Daebeom Kim, Eungchang Mason Lee et al. | [Abstract](https://arxiv.org/abs/2311.00928) · [PDF](https://arxiv.org/pdf/2311.00928) |
 
 ---
 

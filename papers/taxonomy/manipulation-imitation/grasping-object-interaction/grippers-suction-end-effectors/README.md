@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Grasping%20%26%20Object%20Interaction&specialty=Grippers%2C%20Suction%20%26%20End-effectors#research-workbench)
 
-> 82 conference papers · 350 recent arXiv papers
+> 85 conference papers · 350 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,22 +14,25 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (82)
+## Conference papers (85)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | A Novel Soft Gripper Design Integrating a Unilateral Fingernail-like Mechanism for Grasping Flat Objects | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696803) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696803) |
-| 2026 | Bio-Inspired Liquid Crystal Elastomer Suction Actuator for Intelligent Robotic Grasping | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697361) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697361) |
-| 2026 | EdgeGrasp: Enhancing Edge Perception for 7-DoF Grasping Pose Estimation in Cluttered Scenes | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697468) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697468) |
+| 2026 | GraspGen-X: Cross-Embodiment 6-DOF Diffusion-based Grasping | CVPR · Grasp | [Paper](https://arxiv.org/abs/2606.00998) · [Publisher](https://doi.org/10.48550/arXiv.2606.00998) |
+| 2026 | Language-Grounded Decoupled Action Representation for Robotic Manipulation | CVPR · Manipulation | [Paper](https://arxiv.org/abs/2603.12967) · [Publisher](https://doi.org/10.48550/arXiv.2603.12967) |
+| 2026 | A Novel Soft Gripper Design Integrating a Unilateral Fingernail-like Mechanism for Grasping Flat Objects | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra57385.2026.11696803) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696803) |
+| 2026 | Bio-Inspired Liquid Crystal Elastomer Suction Actuator for Intelligent Robotic Grasping | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra57385.2026.11697361) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697361) |
+| 2026 | EdgeGrasp: Enhancing Edge Perception for 7-DoF Grasping Pose Estimation in Cluttered Scenes | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra57385.2026.11697468) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697468) |
 | 2026 | GAPG: Geometry Aware Push-Grasping Synergy for Goal-Oriented Manipulation in Clutter | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2603.21195) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696088) |
 | 2026 | Grasp, Slide, Roll: Comparative Analysis of Contact Modes for Tactile-Based Shape Reconstruction | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2602.23206) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696539) |
 | 2026 | Imagine2Act: Leveraging Object-Action Motion Consistency from Imagined Goals for Robotic Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2509.17125) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696814) |
-| 2026 | INTACT-GRIP: An Inflatable Tactile Gripper for Soft Manipulation and High-Resolution Texture Mapping | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697411) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697411) |
+| 2026 | INTACT-GRIP: An Inflatable Tactile Gripper for Soft Manipulation and High-Resolution Texture Mapping | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11697411) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697411) |
 | 2026 | No Need to Look! Locating and Grasping Objects by a Robot Arm Covered with Sensitive Skin | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2508.17986) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697315) |
 | 2026 | PEEK: Guiding and Minimal Image Representations for Zero-Shot Generalization of Robot Manipulation Policies | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2509.18282) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697556) |
-| 2026 | Replicating Painting Strokes: Shape Aware Dynamic Motion Primitives for Robotic Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696134) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696134) |
+| 2026 | Replicating Painting Strokes: Shape Aware Dynamic Motion Primitives for Robotic Manipulation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11696134) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696134) |
 | 2026 | RoboPCA: Pose-centered Affordance Learning from Human Demonstrations for Robot Manipulation | ICRA · Manipulation | [Paper](https://arxiv.org/pdf/2603.07691) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697013) |
-| 2025 | 3D-MVP: 3D Multiview Pretraining for Manipulation | CVPR · Manipulation | [Paper](https://arxiv.org/abs/2406.18158) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02098) |
+| 2025 | 3D-MVP: 3D Multiview Pretraining for Manipulation | CVPR · Manipulation | [Paper](https://arxiv.org/pdf/2406.18158) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02098) |
+| 2025 | Geometry-aware 4D Video Generation for Robot Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2507.01099) · [Publisher](https://doi.org/10.48550/arXiv.2507.01099) |
 | 2025 | Design of a Novel Pneumatic Soft Gripper for Robust Adaptive Grasping | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127397) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127397) |
 | 2025 | Dexterous Ungrasping Manipulation in Three Dimensions | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127227) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127227) |
 | 2025 | Efficient 7-DoF Grasp for Target-Driven Object in Dense Cluttered Scenes | ICRA · Grasp | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127394) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127394) |
@@ -105,6 +108,9 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-05 | VREgo: Consumer VR Headsets for Learning Robot Manipulation from Egocentric Demonstrations | Liuchuan Yu | [Abstract](https://arxiv.org/abs/2611.07272) · [PDF](https://arxiv.org/pdf/2611.07272) |
+| 2026-11-04 | Vortex-Induced Torque in Grasping Soft Objects: Influence of Geometry and Pneumatic Parameters | Roman Mykhailyshyn, Tomohiro Motoda, Ivan Virgala, Ann Majewicz Fey et al. | [Abstract](https://arxiv.org/abs/2611.06359) · [PDF](https://arxiv.org/pdf/2611.06359) |
+| 2026-11-02 | Exploring Proximity and Tactile Sensing for Robotic Manipulation | Eric T. Chang, Bianca Aumann, Zhanpeng He, Mohamed Elnoor et al. | [Abstract](https://arxiv.org/abs/2611.03489) · [PDF](https://arxiv.org/pdf/2611.03489) |
 | 2026-10-30 | Flexibility-Aware Robotic Manipulation: Deformation Estimation, Kinematics, and Control via Distributed Inertial Measurement | Amir Hossein Barjini, Sadeq Yaqubi, Pauli Mustalahti, Jouni Mattila | [Abstract](https://arxiv.org/abs/2610.41702) · [PDF](https://arxiv.org/pdf/2610.41702) |
 | 2026-10-29 | SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing | Yunchu Zhang, Ray Song, Junhan Jiao, Liyiming Ke et al. | [Abstract](https://arxiv.org/abs/2610.40646) · [PDF](https://arxiv.org/pdf/2610.40646) |
 | 2026-10-27 | OpenJaws: An Open Hardware UMI Framework with Stereo Localization for Generalist Manipulation | Adithyavairavan Murali, Yash Oza, Karanbir Chahal, Neel Jawale et al. | [Abstract](https://arxiv.org/abs/2610.36598) · [PDF](https://arxiv.org/pdf/2610.36598) |
@@ -175,7 +181,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-08-20 | GOAG: Generative and Object-Agnostic Grasp Planner for Dexterous Robotic Manipulation | Julien Merand, Boris Meden, Mathieu Grossard, Liming Chen | [Abstract](https://arxiv.org/abs/2608.19759) · [PDF](https://arxiv.org/pdf/2608.19759) |
 | 2026-08-19 | HarvestPoint-ACT: Explicit Target Selection and Harvest-Point Conditioning for Robotic Fruit Harvesting under Occlusion | Hanying Hu, Weipeng Li, Yikun Huang, Hao Chen et al. | [Abstract](https://arxiv.org/abs/2608.18446) · [PDF](https://arxiv.org/pdf/2608.18446) |
 | 2026-08-18 | Effector-Centric NMPC of Tiltable-Multirotors for Offset-Free Omnidirectional Aerial Manipulation | Jinjie Li, Yicheng Chen, Johannes Kübel, Haokun Liu et al. | [Abstract](https://arxiv.org/abs/2608.17819) · [PDF](https://arxiv.org/pdf/2608.17819) |
-| 2026-08-16 | Tabletop Pen Manipulation With a Vision-Guided 4-DoF Arm | Anirudh Rangarajan, Bibit Bianchini | [Abstract](https://arxiv.org/abs/2608.15968) · [PDF](https://arxiv.org/pdf/2608.15968) |
+| 2026-08-16 | Vision-Guided Reorientation and Color Sorting of Writing Utensils Using a Low-Cost 4-DoF Arm | Anirudh Rangarajan, Bibit Bianchini | [Abstract](https://arxiv.org/abs/2608.15968) · [PDF](https://arxiv.org/pdf/2608.15968) |
 | 2026-08-16 | Detachable Wire Drive : Reconfigurable Robot Architecture with Shared Actuators | Takahiro Hattori, Kento Kawaharazuka, Kei Okada | [Abstract](https://arxiv.org/abs/2608.15461) · [PDF](https://arxiv.org/pdf/2608.15461) |
 | 2026-08-13 | FAM-DQ: A Dual-Quadrotor-Based Fully Actuated Aerial Manipulator for High-Torque Interaction | Xuwei Yang, Ruoyu Ren, Ziqian Guo | [Abstract](https://arxiv.org/abs/2608.13220) · [PDF](https://arxiv.org/pdf/2608.13220) |
 | 2026-08-10 | Ultra-Low-Impedance Robotic Gripper for High-Bandwidth and Transparent Physical Interaction | Joon Lee, Ari Choi, Seokhwan Jeong | [Abstract](https://arxiv.org/abs/2608.09198) · [PDF](https://arxiv.org/pdf/2608.09198) |
@@ -186,7 +192,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-20 | Receiver-Centered Robot-to-Human Handover with Grasp-Aware Object Orientation | Federico Biagi, Dario Onfiani, Simone Silenzi, Luigi Biagiotti | [Abstract](https://arxiv.org/abs/2607.17839) · [PDF](https://arxiv.org/pdf/2607.17839) |
 | 2026-07-20 | MEVION: Low-Cost Open-Source Data Collection System for Powerful and High-Speed Dual-Arm Manipulation | Kento Kawaharazuka, Yoshiki Obinata, Hirokazu Ishida, Jihoon Oh et al. | [Abstract](https://arxiv.org/abs/2607.17970) · [PDF](https://arxiv.org/pdf/2607.17970) |
 | 2026-07-19 | From Perception to Assistance: Open-Vocabulary Shared Autonomy for Robotic Manipulation | Murilo Vinicius da Silva, Ricardo V. Godoy, Juliano Negri, Gustavo J. G. Lahr et al. | [Abstract](https://arxiv.org/abs/2607.17323) · [PDF](https://arxiv.org/pdf/2607.17323) |
-| 2026-07-17 | Continuously Stable Structure through Plastic Deformation | Junlong Xiao, Yaoqiang Pan, Xuan Zhang, Michael Yu Wang et al. | [Abstract](https://arxiv.org/abs/2607.15659) · [PDF](https://arxiv.org/pdf/2607.15659) |
+| 2026-07-17 | Harnessing Plastic Deformation for Continuous Passive Stability in Soft Grippers | Junlong Xiao, Yaoqiang Pan, Xuan Zhang, Michael Yu Wang et al. | [Abstract](https://arxiv.org/abs/2607.15659) · [PDF](https://arxiv.org/pdf/2607.15659) |
 | 2026-07-16 | VTAP Gripper: Synergizing Fingertip Sensing and a Visuo-Tactile Active Palm for Dexterous In-Hand Manipulation | Yuhao Zhou, Sheeraz Athar, Zhixian Hu, Binghao Huang et al. | [Abstract](https://arxiv.org/abs/2607.15448) · [PDF](https://arxiv.org/pdf/2607.15448) |
 | 2026-07-16 | Hybrid Rigid-Soft Robotic Gripper with Shape Adaptation, Uniform Force Distribution, and Self-Locking Capabilities | Xi Chen, Yun Wang, Lichao Yang, Haitao Li et al. | [Abstract](https://arxiv.org/abs/2607.14730) · [PDF](https://arxiv.org/pdf/2607.14730) |
 | 2026-07-14 | Towards end-to-end optimization in multimaterial 3D printing | Xue-Ling Luo, Steven Yang, Jingye Tan, Robert F. Shepherd et al. | [Abstract](https://arxiv.org/abs/2607.13174) · [PDF](https://arxiv.org/pdf/2607.13174) |
@@ -200,7 +206,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-06-11 | Towards Reliable Sequential Object Picking in Clutter: The Runner-up Solution to RGMC 2025 | Wei Yu, Xidan Zhang, Ziyi Zheng, Weijie Kong et al. | [Abstract](https://arxiv.org/abs/2606.12954) · [PDF](https://arxiv.org/pdf/2606.12954) |
 | 2026-06-11 | AIR-VLA+: Decoupling Movement and Manipulation via Cascaded Dual-Action Decoders with Asymmetric MoE for Aerial Robots | Jianli Sun, Bin Tian, Qiyao Zhang, Zijian Liu et al. | [Abstract](https://arxiv.org/abs/2606.12859) · [PDF](https://arxiv.org/pdf/2606.12859) |
 | 2026-06-10 | Sparse2Act: Learning Action-Aligned Sparse 3D Representations for Cross-Domain Robot Manipulation | Yu Guo, Chang Yu, Siyu Ma, Yunuo Chen et al. | [Abstract](https://arxiv.org/abs/2606.12759) · [PDF](https://arxiv.org/pdf/2606.12759) |
-| 2026-06-10 | InDex: Empowering VLA Models with Intent-Conditioned Arm-Hand Coordination for Dexterous Manipulation | Chuanke Pang, Junyi Huang, Zhijun Zhao, Yaobing Wang et al. | [Abstract](https://arxiv.org/abs/2606.12109) · [PDF](https://arxiv.org/pdf/2606.12109) |
+| 2026-06-10 | Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning | Chuanke Pang, Junyi Huang, Jianye Fang, Zhijun Zhao et al. | [Abstract](https://arxiv.org/abs/2606.12109) · [PDF](https://arxiv.org/pdf/2606.12109) |
 | 2026-06-02 | Toward Gripper-Integrated Active Electrosense for Pre-Contact Sensing in Underwater Soft Grippers | Ahsan Tanveer, Muhammad Hamza, Waqar Hussain Afridi, Chen Wang et al. | [Abstract](https://arxiv.org/abs/2606.03204) · [PDF](https://arxiv.org/pdf/2606.03204) |
 | 2026-06-02 | Optimal Design and Analytical Modeling of a Soft Fin-Ray Effect Gripper Finger Using the Finite Rigid Elements Method | Sara Adeli, Hassan Sayyaadi | [Abstract](https://arxiv.org/abs/2606.03798) · [PDF](https://arxiv.org/pdf/2606.03798) |
 | 2026-05-31 | GraspGen-X: Cross-Embodiment 6-DOF Diffusion-based Grasping | Beining Han, Yu-Wei Chao, Erwin Coumans, Clemens Eppner et al. | [Abstract](https://arxiv.org/abs/2606.00998) · [PDF](https://arxiv.org/pdf/2606.00998) |
@@ -452,9 +458,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-21 | Visually Guided Object Grasping | Radu Horaud, Fadi Dornaika, Bernard Espiau | [Abstract](https://arxiv.org/abs/2311.12660) · [PDF](https://arxiv.org/pdf/2311.12660) |
 | 2023-11-21 | Fin-QD: A Computational Design Framework for Soft Grippers: Integrating MAP-Elites and High-fidelity FEM | Yue Xie, Xing Wang, Fumiya Iida, David Howard | [Abstract](https://arxiv.org/abs/2311.12477) · [PDF](https://arxiv.org/pdf/2311.12477) |
 | 2023-11-13 | Bio-Inspired Grasping Controller for Sensorized 2-DoF Grippers | Luca Lach, Séverin Lemaignan, Francesco Ferro, Helge Ritter et al. | [Abstract](https://arxiv.org/abs/2311.07257) · [PDF](https://arxiv.org/pdf/2311.07257) |
-| 2023-11-07 | Towards Autonomous Crop Monitoring: Inserting Sensors in Cluttered Environments | Moonyoung Lee, Aaron Berger, Dominic Guri, Kevin Zhang et al. | [Abstract](https://arxiv.org/abs/2311.03697) · [PDF](https://arxiv.org/pdf/2311.03697) |
-| 2023-11-06 | CLIP-Motion: Learning Reward Functions for Robotic Actions Using Consecutive Observations | Xuzhe Dang, Stefan Edelkamp | [Abstract](https://arxiv.org/abs/2311.03485) · [PDF](https://arxiv.org/pdf/2311.03485) |
-| 2023-11-03 | HASHI: Highly Adaptable Seafood Handling Instrument for Manipulation in Industrial Settings | Austin Allison, Nathaniel Hanson, Sebastian Wicke, Taşkın Padır | [Abstract](https://arxiv.org/abs/2311.02277) · [PDF](https://arxiv.org/pdf/2311.02277) |
 
 ---
 

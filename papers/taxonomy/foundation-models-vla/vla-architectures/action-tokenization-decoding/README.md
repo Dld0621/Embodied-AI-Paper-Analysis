@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=VLA%20Architectures&specialty=Action%20Tokenization%20%26%20Decoding#research-workbench)
 
-> 1 conference papers · 94 recent arXiv papers
+> 1 conference papers · 103 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -20,11 +20,20 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 |---:|---|---|---|
 | 2026 | SlotVLA: Towards Modeling of Object-Relation Representations in Robotic Manipulation | ICRA · Vla | [Paper](https://arxiv.org/pdf/2511.06754) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695805) |
 
-## Recent arXiv papers (94)
+## Recent arXiv papers (103)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-06 | ODEAction: From Predicting Chunks to Evolving Actions | Qishen Wang, Pengxiang Ding, Shifeng Bao, Mingyang Sun et al. | [Abstract](https://arxiv.org/abs/2611.09672) · [PDF](https://arxiv.org/pdf/2611.09672) |
+| 2026-11-06 | Localizing and Editing the Goal Representation of a Vision-Language-Action Model | Sudhanshu Srivastava, Faisal Aqlan | [Abstract](https://arxiv.org/abs/2611.08895) · [PDF](https://arxiv.org/pdf/2611.08895) |
+| 2026-11-06 | ActPrune: Action-Grounded Visual Token Pruning for Efficient Vision-Language-Action Models | Sungwon Moon, Minji Kim, Hyemin Boo, Daeun Song et al. | [Abstract](https://arxiv.org/abs/2611.08827) · [PDF](https://arxiv.org/pdf/2611.08827) |
+| 2026-11-05 | Meituan-Robotics-0: A Vision-Language-Action Foundation Model for Desktop Manipulation | Meituan Robotics Team, Caicheng Wang, Chen Zhao, Chengpeng Jin et al. | [Abstract](https://arxiv.org/abs/2611.08577) · [PDF](https://arxiv.org/pdf/2611.08577) |
+| 2026-11-03 | Should the Action Expert Train the VLM? Action-Token Supervision and Gradient Routing in Mixture-of-Transformer VLAs | Asher James Hancock, Boyi Li, Yuxiao Chen, Shuhan Tan et al. | [Abstract](https://arxiv.org/abs/2611.05249) · [PDF](https://arxiv.org/pdf/2611.05249) |
+| 2026-11-03 | Say the Same, Act Differently: Diagnosing and Steering Text-Action Divergence in Reasoning VLAs | Zihao Feng, Qingzhao Zhang, Chunyu Xia, Bo Yu et al. | [Abstract](https://arxiv.org/abs/2611.04166) · [PDF](https://arxiv.org/pdf/2611.04166) |
+| 2026-11-01 | Serving Agentic Robot Fleets: Workload Characterization, KV-Cache Thrashing, and Admission Control | Sida He | [Abstract](https://arxiv.org/abs/2611.01404) · [PDF](https://arxiv.org/pdf/2611.01404) |
+| 2026-11-01 | Route-Guided CBF-QP Repair for Safe Vision-Language-Action Models | Chan Park, Sunwoo Hong, Kirak Kim, Yoonjeong Park et al. | [Abstract](https://arxiv.org/abs/2611.01713) · [PDF](https://arxiv.org/pdf/2611.01713) |
 | 2026-10-30 | VLA Policies Do Not Know When Not to Act: Unintended Task Execution and Start Suppression | Minsu Jang, Jae-Woo Choi, Youngwoo Yoon, Dohyung Kim | [Abstract](https://arxiv.org/abs/2610.41609) · [PDF](https://arxiv.org/pdf/2610.41609) |
+| 2026-10-30 | CalVLA: Shaping Native Confidence in Vision-Language-Action Policies with Outcome Supervision | Boniface Chukwuemeka Godwin | [Abstract](https://arxiv.org/abs/2611.00394) · [PDF](https://arxiv.org/pdf/2611.00394) |
 | 2026-10-22 | FastHarness: Experience-Driven Review Scheduling for Vision-Language-Action Policies | Tao Lin, Yuxin Du, Haoxiao Wang, Zile Zhong et al. | [Abstract](https://arxiv.org/abs/2610.31427) · [PDF](https://arxiv.org/pdf/2610.31427) |
 | 2026-10-22 | Echo: Coupled Action and Task Status Signal Denoising for Vision Language Action Models | Yufeng Liu, Bohao Fan, Juntu Zhao, Xinyi Wang et al. | [Abstract](https://arxiv.org/abs/2610.31569) · [PDF](https://arxiv.org/pdf/2610.31569) |
 | 2026-10-20 | PACT-VLA: Speculative Action-Chunk Verification with Pre-Commit Observations | Yixiang Zhu, Ruilong Wu, Yonghao Chen, Jiaxiang Zou et al. | [Abstract](https://arxiv.org/abs/2610.28019) · [PDF](https://arxiv.org/pdf/2610.28019) |

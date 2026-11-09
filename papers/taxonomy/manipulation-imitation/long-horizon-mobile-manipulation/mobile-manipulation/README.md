@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Long-horizon%20%26%20Mobile%20Manipulation&specialty=Mobile%20Manipulation#research-workbench)
 
-> 7 conference papers · 58 recent arXiv papers
+> 7 conference papers · 62 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,18 +18,22 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
-| 2026 | MIMO: A Multimodal Imitation Learning Framework for Mobile Manipulation with Exoskeleton-VR Teleoperation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697478) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697478) |
-| 2026 | SHOPPER: Practical Insights on Grasp Strategies for Mobile Manipulation in the Wild | ICRA · Manipulation | [Paper](https://arxiv.org/abs/2504.12512) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697060) |
+| 2026 | MIMO: A Multimodal Imitation Learning Framework for Mobile Manipulation with Exoskeleton-VR Teleoperation | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11697478) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697478) |
+| 2026 | SHOPPER: Practical Insights on Grasp Strategies for Mobile Manipulation in the Wild | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra57385.2026.11697060) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697060) |
 | 2024 | An Open-Source Soft Robotic Platform for Autonomous Aerial Manipulation in the Wild | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2409.07662) · [Publisher](https://doi.org/10.48550/arXiv.2409.07662) |
 | 2024 | How to Prompt Your Robot: A PromptBook for Manipulation Skills with Code as Policies | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610784) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610784) |
 | 2024 | Revolutionizing Battery Disassembly: The Design and Implementation of a Battery Disassembly Autonomous Mobile Manipulator Robot(BEAM-1) | IROS · Assembly | [Paper](https://arxiv.org/pdf/2407.06590) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802225) |
-| 2022 | Bayesian Imitation Learning for End-to-End Mobile Manipulation | ICML · Manipulation | [Paper](https://arxiv.org/abs/2202.07600) · [Index](https://dblp.org/rec/journals/corr/abs-2202-07600) |
+| 2022 | Bayesian Imitation Learning for End-to-End Mobile Manipulation | ICML · Manipulation | [Paper](https://arxiv.org/abs/2202.07600) · [Publisher](https://doi.org/10.48550/arXiv.2202.07600) |
 | 2022 | Learning Symbolic Failure Detection for Grasping and Mobile Manipulation Tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982223) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982223) |
 
-## Recent arXiv papers (58)
+## Recent arXiv papers (62)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-06 | On Agentic Manipulation Policies | Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji, Jesse T. Gonzalez et al. | [Abstract](https://arxiv.org/abs/2611.09892) · [PDF](https://arxiv.org/pdf/2611.09892) |
+| 2026-11-02 | Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation | Tony Tao, Jason Jingzhou Liu, Ruslan Salakhutdinov, Deepak Pathak | [Abstract](https://arxiv.org/abs/2611.03648) · [PDF](https://arxiv.org/pdf/2611.03648) |
+| 2026-11-02 | Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations | Jason Jingzhou Liu, Tony Tao, Deepak Pathak, Ruslan Salakhutdinov | [Abstract](https://arxiv.org/abs/2611.03647) · [PDF](https://arxiv.org/pdf/2611.03647) |
+| 2026-11-02 | FEIJOA: Task-Driven Grounding and Execution for Mobile Manipulation | Aditya Agarwal, William Shen, Sahit Chintalapudi, Lucy Cai et al. | [Abstract](https://arxiv.org/abs/2611.04080) · [PDF](https://arxiv.org/pdf/2611.04080) |
 | 2026-10-28 | HERON: Real-Time Obstacle-Aware Reachability Maps for Mobile Manipulators | G. Dupoiron, F. Michaud, J. P. Roberge | [Abstract](https://arxiv.org/abs/2610.38233) · [PDF](https://arxiv.org/pdf/2610.38233) |
 | 2026-10-22 | AstroBench: Benchmarking Free-Floating Capture and Space Robotic Manipulation | Zizhe Wang, Jia Deng, Xin Lu, Zehao Jia et al. | [Abstract](https://arxiv.org/abs/2610.31064) · [PDF](https://arxiv.org/pdf/2610.31064) |
 | 2026-10-20 | COWBOY: A Scalable Sim-to-Real Framework for Learning Contextual Whole-Body Manipulation | Jiahui Yang, Jason Jingzhou Liu, Ray Muxin Liu, Andrew E. Wang et al. | [Abstract](https://arxiv.org/abs/2610.28948) · [PDF](https://arxiv.org/pdf/2610.28948) |

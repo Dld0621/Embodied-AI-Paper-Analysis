@@ -19,7 +19,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
 | 2026 | Cobalt: Crowdsourcing Robot Learning via Cloud-Based Teleoperation with Smartphones | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2605.19138) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695941) |
-| 2026 | UTTG: A Universal Teleoperation Framework via Online Trajectory Generation | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696317) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696317) |
+| 2026 | UTTG: A Universal Teleoperation Framework via Online Trajectory Generation | ICRA · Teleoperation | [Paper](https://doi.org/10.1109/icra57385.2026.11696317) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696317) |
 | 2024 | Autonomous and Teleoperation Control of a Drawing Robot Avatar | ICRA · Teleoperation | [Paper](https://arxiv.org/pdf/2407.20156) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610310) |
 | 2024 | Exploring Cognitive Load Dynamics in Human-Machine Interaction for Teleoperation: A User-Centric Perspective on Remote Operation System Design | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS58592.2024.10802226) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802226) |
 

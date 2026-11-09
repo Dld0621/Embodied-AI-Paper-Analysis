@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Humanoids%20%26%20Locomotion&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Walking%20%26%20Gait%20Control#research-workbench)
 
-> 98 conference papers · 273 recent arXiv papers
+> 98 conference papers · 271 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -21,10 +21,10 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026 | Asymptotically Stable Gait Generation and Instantaneous Walkability Determination for Planar Almost Linear Biped with Knees | ICRA · Biped | [Paper](https://arxiv.org/pdf/2604.12274) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697158) |
 | 2026 | Bipedal-Walking-Dynamics Model on Granular Terrains | ICRA · Biped | [Paper](https://arxiv.org/pdf/2604.11981) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696564) |
 | 2026 | Human-Centered Development of Guide Dog Robots: Quiet and Stable Locomotion Control | ICRA · Locomotion | [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC13663884/pdf/nihms-2202471.pdf) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696250) |
-| 2026 | Motion Pattern Analysis of a Rolling Locomotion Robot Featuring Dual Rimless Wheels and Elastic Connectors | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696830) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696830) |
+| 2026 | Motion Pattern Analysis of a Rolling Locomotion Robot Featuring Dual Rimless Wheels and Elastic Connectors | ICRA · Locomotion | [Paper](https://doi.org/10.1109/icra57385.2026.11696830) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696830) |
 | 2026 | NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning | ICRA · Gait | [Paper](https://arxiv.org/pdf/2510.11542) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696195) |
 | 2026 | RL-augmented Adaptive Model Predictive Control for Bipedal Locomotion over Challenging Terrain | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2509.18466) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697426) |
-| 2026 | Stability Principle Inherent in Wheel Gait of Planar X-shaped Walker Generated Using Constant Torque Drive and Mechanical Stoppers | ICRA · Gait | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696950) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696950) |
+| 2026 | Stability Principle Inherent in Wheel Gait of Planar X-shaped Walker Generated Using Constant Torque Drive and Mechanical Stoppers | ICRA · Gait | [Paper](https://doi.org/10.1109/icra57385.2026.11696950) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696950) |
 | 2026 | TOLEBI: Learning Fault-Tolerant Bipedal Locomotion via Online Status Estimation and Fallibility Rewards | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2602.05596) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696600) |
 | 2025 | A Virtual Gravity Controller for Efficient Underactuated Biped Robots | ICRA · Biped | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128793) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128793) |
 | 2025 | Adaptive Concertina Locomotion of a Robotic Snake Through Narrow Uncertain Channels | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127631) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127631) |
@@ -60,7 +60,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024 | Phase Synthesis for Spatial Locomotion Control of Retractable Worm Robots | ICRA · Locomotion | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610882) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610882) |
 | 2024 | Walking-by-Logic: Signal Temporal Logic-Guided Model Predictive Control for Bipedal Locomotion Resilient to External Perturbations | ICRA · Locomotion | [Paper](https://arxiv.org/pdf/2309.13172) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610811) |
 | 2024 | Climbing Gait for a Snake Robot by Adapting to a Flexible Net | IROS · Gait | [Paper](https://doi.org/10.1109/IROS58592.2024.10802564) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802564) |
-| 2024 | Demonstrating a Robust Walking Algorithm for Underactuated Bipedal Robots in Non-flat, Non-stationary Environments | IROS · Biped | [Paper](https://arxiv.org/abs/2403.02486) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802406) |
+| 2024 | Demonstrating a Robust Walking Algorithm for Underactuated Bipedal Robots in Non-flat, Non-stationary Environments | IROS · Biped | [Paper](https://arxiv.org/pdf/2403.02486) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802406) |
 | 2024 | Distilling Reinforcement Learning Policies for Interpretable Robot Locomotion: Gradient Boosting Machines and Symbolic Regression | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2403.14328) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802433) |
 | 2024 | Dynamic Walking on Highly Underactuated Point Foot Humanoids: Closing the Loop between HZD and HLIP | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2406.13115) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802542) |
 | 2024 | Environment-Adaptive Gait Planning for Obstacle Avoidance in Lower-Limb Robotic Exoskeletons | IROS · Gait | [Paper](https://doi.org/10.1109/IROS58592.2024.10802769) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802769) |
@@ -95,11 +95,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | A Universal Footstep Planning Methodology for Continuous Walking in Challenging Terrain Applicable to Different Types of Legged Robots | ICRA · Legged | [Paper](https://doi.org/10.26083/tuprints-00021493) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811711) |
 | 2022 | Admittance Model Optimization for Gait Balance Assistance of a Robotic Walker: Passive Model-based Mechanical Assessment | ICRA · Gait | [Paper](https://doi.org/10.1109/icra46639.2022.9811594) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811594) |
 | 2022 | Bayesian Optimization Meets Hybrid Zero Dynamics: Safe Parameter Learning for Bipedal Locomotion Control | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2203.02570) · [Publisher](https://doi.org/10.48550/arXiv.2203.02570) |
-| 2022 | Characterizing Error in Noncommutative Geometric Gait Analysis | ICRA · Gait | [Paper](https://arxiv.org/pdf/2202.10575) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812130) |
+| 2022 | Characterizing Error in Noncommutative Geometric Gait Analysis | ICRA · Gait | [Paper](https://arxiv.org/abs/2202.10575) · [Publisher](https://doi.org/10.48550/arXiv.2202.10575) |
 | 2022 | Design and Control of a Miniature Bipedal Robot with Proprioceptive Actuation for Dynamic Behaviors | ICRA · Biped | [Paper](https://doi.org/10.1109/icra46639.2022.9811790) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811790) |
 | 2022 | Development and Analysis of a Biped Robot with Prismatic Compliance | ICRA · Biped | [Paper](https://doi.org/10.1109/icra46639.2022.9811962) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811962) |
 | 2022 | Enhancing Maneuverability via Gait Design | ICRA · Gait | [Paper](https://doi.org/10.1109/icra46639.2022.9812061) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812061) |
-| 2022 | Generalized Omega Turn Gait Enables Agile Limbless Robot Turning in Complex Environments | ICRA · Gait | [Paper](https://arxiv.org/pdf/2202.01417) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811929) |
+| 2022 | Generalized Omega Turn Gait Enables Agile Limbless Robot Turning in Complex Environments | ICRA · Gait | [Paper](https://arxiv.org/abs/2202.01417) · [Publisher](https://doi.org/10.48550/arXiv.2202.01417) |
 | 2022 | Learning to Rock-and-Walk: Dynamic, Non-Prehensile, and Underactuated Object Locomotion Through Reinforcement Learning | ICRA · Locomotion | [Paper](https://doi.org/10.1109/icra46639.2022.9811554) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811554) |
 | 2022 | Online Assistance Control of a Pneumatic Gait Assistive Suit Using Physical Reservoir Computing Exploiting Air Dynamics | ICRA · Gait | [Paper](https://doi.org/10.1109/icra46639.2022.9812377) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812377) |
 | 2022 | PoseSDF: Simultaneous 3D Human Shape Reconstruction and Gait Pose Estimation Using Signed Distance Functions | ICRA · Gait | [Paper](https://doi.org/10.1109/icra46639.2022.9812051) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812051) |
@@ -117,7 +117,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Robust Humanoid Walking System Considering Recognized Terrain and Robots' Balance | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9981410) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981410) |
 | 2022 | Uniform Global Exponential Stabilizing Passivity-Based Tracking Controller Applied to Planar Biped Robots | IROS · Biped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981206) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981206) |
 
-## Recent arXiv papers (273)
+## Recent arXiv papers (271)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -392,8 +392,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-29 | Adaptive Hierarchical Origami Metastructures | Yanbin Li, Antonio Di Lallo, Junxi Zhu, Yinding Chi et al. | [Abstract](https://arxiv.org/abs/2311.18055) · [PDF](https://arxiv.org/pdf/2311.18055) |
 | 2023-11-13 | Predicting Continuous Locomotion Modes via Multidimensional Feature Learning from sEMG | Peiwen Fu, Wenjuan Zhong, Yuyang Zhang, Wenxuan Xiong et al. | [Abstract](https://arxiv.org/abs/2311.07395) · [PDF](https://arxiv.org/pdf/2311.07395) |
 | 2023-11-12 | Advanced Feedback Linearization Control for Tiltrotor UAVs: Gait Plan, Controller Design, and Stability Analysis | Zhe Shen | [Abstract](https://arxiv.org/abs/2311.06725) · [PDF](https://arxiv.org/pdf/2311.06725) |
-| 2023-11-03 | Learning Reduced-Order Soft Robot Controller | Chen Liang, Xifeng Gao, Kui Wu, Zherong Pan | [Abstract](https://arxiv.org/abs/2311.01720) · [PDF](https://arxiv.org/pdf/2311.01720) |
-| 2023-11-02 | Learning to See Physical Properties with Active Sensing Motor Policies | Gabriel B. Margolis, Xiang Fu, Yandong Ji, Pulkit Agrawal | [Abstract](https://arxiv.org/abs/2311.01405) · [PDF](https://arxiv.org/pdf/2311.01405) |
 
 ---
 

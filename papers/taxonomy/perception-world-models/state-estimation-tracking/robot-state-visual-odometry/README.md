@@ -36,6 +36,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-06 | Extended Model-Based Learned Inertial Odometry | Sasanka Kuruppu Arachchige, Joni-Kristian Kämäräinen | [Abstract](https://arxiv.org/abs/2611.09584) · [PDF](https://arxiv.org/pdf/2611.09584) |
 | 2026-10-05 | Structural Foundations of Nonlinear Systems with Unknown Inputs: The UID-Induced Normal Form and Minimal-Sensing Structure-from-Motion | Agostino Martinelli | [Abstract](https://arxiv.org/abs/2610.05939) · [PDF](https://arxiv.org/pdf/2610.05939) |
 | 2026-09-24 | TinyCVIO: A Constellation-Aided Visual-Inertial Odometry System for Nanodrones | Derin Ozturk, Kaan Akan, Irwin Wang, Christopher Batten | [Abstract](https://arxiv.org/abs/2609.30358) · [PDF](https://arxiv.org/pdf/2609.30358) |
 | 2026-09-18 | Robust Structureless Monocular Visual Inertial Initialization Exploiting Line Features and Vanishing Points | Junwan Choi, Woongrae Jo, Dong-Uk Seo, Jinwoo Jeon et al. | [Abstract](https://arxiv.org/abs/2609.21186) · [PDF](https://arxiv.org/pdf/2609.21186) |
@@ -66,6 +67,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025-10-28 | Supervisory Measurement-Guided Noise Covariance Estimation | Haoying Li, Yifan Peng, Xinghan Li, Junfeng Wu | [Abstract](https://arxiv.org/abs/2510.24508) · [PDF](https://arxiv.org/pdf/2510.24508) |
 | 2025-10-02 | Statistical Uncertainty Learning for Robust Visual-Inertial State Estimation | Seungwon Choi, Donggyu Park, Seo-Yeon Hwang, Tae-Wan Kim | [Abstract](https://arxiv.org/abs/2510.01648) · [PDF](https://arxiv.org/pdf/2510.01648) |
 | 2025-09-30 | State Estimation for Compliant and Morphologically Adaptive Robots | Valentin Yuryev, Max Polzin, Josie Hughes | [Abstract](https://arxiv.org/abs/2509.25945) · [PDF](https://arxiv.org/pdf/2509.25945) |
+| 2025-09-27 | GUARD: Sensitivity-aware Uncertainty Attribution for Safe Traditional and Learning-based Robot Control | Woo-Jeong Baek, Johannes A. Gaus, Jonas Kiemel, Junheon Yoon et al. | [Abstract](https://arxiv.org/abs/2509.23312) · [PDF](https://arxiv.org/pdf/2509.23312) |
 | 2025-09-23 | An Extended Kalman Filter for Systems with Infinite-Dimensional Measurements | Maxwell M. Varley, Timothy L. Molloy, Girish N. Nair | [Abstract](https://arxiv.org/abs/2509.18749) · [PDF](https://arxiv.org/pdf/2509.18749) |
 | 2025-09-22 | Reversible Kalman Filter for state estimation with Manifold | Svyatoslav Covanov, Cedric Pradalier | [Abstract](https://arxiv.org/abs/2509.18224) · [PDF](https://arxiv.org/pdf/2509.18224) |
 | 2025-09-04 | Odometry Calibration and Pose Estimation of a 4WIS4WID Mobile Wall Climbing Robot | Branimir Ćaran, Vladimir Milić, Marko Švaco, Bojan Jerbić | [Abstract](https://arxiv.org/abs/2509.04016) · [PDF](https://arxiv.org/pdf/2509.04016) |
@@ -107,8 +109,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-01-30 | A Group Theoretic Metric for Robot State Estimation Leveraging Chebyshev Interpolation | Varun Agrawal, Frank Dellaert | [Abstract](https://arxiv.org/abs/2401.17463) · [PDF](https://arxiv.org/pdf/2401.17463) |
 | 2023-12-04 | SE-LIO: Semantics-enhanced Solid-State-LiDAR-Inertial Odometry for Tree-rich Environments | Tisheng Zhang, Linfu Wei, Hailiang Tang, Liqiang Wang et al. | [Abstract](https://arxiv.org/abs/2312.01809) · [PDF](https://arxiv.org/pdf/2312.01809) |
 | 2023-11-15 | Multi-Radar Inertial Odometry for 3D State Estimation using mmWave Imaging Radar | Jui-Te Huang, Ruoyang Xu, Akshay Hinduja, Michael Kaess | [Abstract](https://arxiv.org/abs/2311.08608) · [PDF](https://arxiv.org/pdf/2311.08608) |
-| 2023-11-08 | PLV-IEKF: Consistent Visual-Inertial Odometry using Points, Lines, and Vanishing Points | Tong Hua, Tao Li, Liang Pang, Guoqing Liu et al. | [Abstract](https://arxiv.org/abs/2311.04477) · [PDF](https://arxiv.org/pdf/2311.04477) |
-| 2023-11-07 | Proprioceptive Invariant Robot State Estimation | Tzu-Yuan Lin, Tingjun Li, Wenzhe Tong, Maani Ghaffari | [Abstract](https://arxiv.org/abs/2311.04320) · [PDF](https://arxiv.org/pdf/2311.04320) |
 
 ---
 

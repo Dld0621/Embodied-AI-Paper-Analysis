@@ -2,7 +2,7 @@
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 78 papers · complete list for this taxonomy leaf
+> 69 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -75,12 +75,3 @@
 | 2023-11-09 | TLCFuse: Temporal Multi-Modality Fusion Towards Occlusion-Aware Semantic Segmentation-Aided Motion Planning | Gustavo Salazar-Gomez, Wenqian Liu, Manuel Diaz-Zapata, David Sierra-Gonzalez et al. | [Abstract](https://arxiv.org/abs/2311.05319) · [PDF](https://arxiv.org/pdf/2311.05319) |
 | 2023-11-09 | Improving Human Legibility in Collaborative Robot Tasks through Augmented Reality and Workspace Preparation | Yi-Shiuan Tung, Matthew B. Luebbers, Alessandro Roncone, Bradley Hayes | [Abstract](https://arxiv.org/abs/2311.05562) · [PDF](https://arxiv.org/pdf/2311.05562) |
 | 2023-11-09 | FogROS2-Config: Optimizing Latency and Cost for Multi-Cloud Robot Applications | Kaiyuan Chen, Kush Hari, Rohil Khare, Charlotte Le et al. | [Abstract](https://arxiv.org/abs/2311.05600) · [PDF](https://arxiv.org/pdf/2311.05600) |
-| 2023-11-07 | Model-Free Source Seeking by a Novel Single-Integrator with Attenuating Oscillations and Better Convergence Rate: Robotic Experiments | Shivam Bajpai, Ahmed A. Elgohary, Sameh A. Eisa | [Abstract](https://arxiv.org/abs/2311.04330) · [PDF](https://arxiv.org/pdf/2311.04330) |
-| 2023-11-06 | OVIR-3D: Open-Vocabulary 3D Instance Retrieval Without Training on 3D Data | Shiyang Lu, Haonan Chang, Eric Pu Jing, Abdeslam Boularias et al. | [Abstract](https://arxiv.org/abs/2311.02873) · [PDF](https://arxiv.org/pdf/2311.02873) |
-| 2023-11-06 | Exploitation-Guided Exploration for Semantic Embodied Navigation | Justin Wasserman, Girish Chowdhary, Abhinav Gupta, Unnat Jain | [Abstract](https://arxiv.org/abs/2311.03357) · [PDF](https://arxiv.org/pdf/2311.03357) |
-| 2023-11-03 | Second-Order Convergent Collision-Constrained Optimization-Based Planner | Chen Liang, Xifeng Gao, Kui Wu, Zherong Pan | [Abstract](https://arxiv.org/abs/2311.01717) · [PDF](https://arxiv.org/pdf/2311.01717) |
-| 2023-11-03 | Depth-guided Free-space Segmentation for a Mobile Robot | Christos Sevastopoulos, Joey Hussain, Stasinos Konstantopoulos, Vangelis Karkaletsis et al. | [Abstract](https://arxiv.org/abs/2311.01966) · [PDF](https://arxiv.org/pdf/2311.01966) |
-| 2023-11-02 | Vision-Language Interpreter for Robot Task Planning | Keisuke Shirai, Cristian C. Beltran-Hernandez, Masashi Hamaya, Atsushi Hashimoto et al. | [Abstract](https://arxiv.org/abs/2311.00967) · [PDF](https://arxiv.org/pdf/2311.00967) |
-| 2023-11-02 | Using Augmented Reality to Assess and Modify Mobile Manipulator Surface Repair Plans | Frank Regal, Steven Swanbeck, Fabian Parra, Jared Rosenbaum et al. | [Abstract](https://arxiv.org/abs/2311.00988) · [PDF](https://arxiv.org/pdf/2311.00988) |
-| 2023-11-02 | Spontaneous-Ordering Platoon Control for Multirobot Path Navigation Using Guiding Vector Fields | Bin-Bin Hu, Hai-Tao Zhang, Weijia Yao, Jianing Ding et al. | [Abstract](https://arxiv.org/abs/2311.00976) · [PDF](https://arxiv.org/pdf/2311.00976) |
-| 2023-11-02 | GREEMA: Proposal and Experimental Verification of Growing Robot by Eating Environmental MAterial for Landslide Disaster | Yusuke Tsunoda, Yuya Sato, Koichi Osuka | [Abstract](https://arxiv.org/abs/2311.01107) · [PDF](https://arxiv.org/pdf/2311.01107) |

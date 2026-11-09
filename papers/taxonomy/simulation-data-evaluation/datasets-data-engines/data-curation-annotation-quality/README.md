@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Simulation%2C%20Data%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engines&specialty=Data%20Curation%2C%20Annotation%20%26%20Quality#research-workbench)
 
-> 0 conference papers · 9 recent arXiv papers
+> 0 conference papers · 8 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -18,7 +18,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (9)
+## Recent arXiv papers (8)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
@@ -30,7 +30,6 @@ No conference papers currently map to this specialty.
 | 2025-11-30 | TrajDiff: End-to-end Autonomous Driving without Perception Annotation | Xingtai Gui, Jianbo Zhao, Wencheng Han, Jikai Wang et al. | [Abstract](https://arxiv.org/abs/2512.00723) · [PDF](https://arxiv.org/pdf/2512.00723) |
 | 2025-09-22 | OpenGVL -- Benchmarking Visual Temporal Progress for Data Curation | Paweł Budzianowski, Emilia Wiśnios, Michał Tyrolski, Gracjan Góral et al. | [Abstract](https://arxiv.org/abs/2509.17321) · [PDF](https://arxiv.org/pdf/2509.17321) |
 | 2025-02-12 | Robot Data Curation with Mutual Information Estimators | Joey Hejna, Suvir Mirchandani, Ashwin Balakrishna, Annie Xie et al. | [Abstract](https://arxiv.org/abs/2502.08623) · [PDF](https://arxiv.org/pdf/2502.08623) |
-| 2023-11-08 | Lidar Annotation Is All You Need | Dinar Sharafutdinov, Stanislav Kuskov, Saian Protasov, Alexey Voropaev | [Abstract](https://arxiv.org/abs/2311.04777) · [PDF](https://arxiv.org/pdf/2311.04777) |
 
 ---
 

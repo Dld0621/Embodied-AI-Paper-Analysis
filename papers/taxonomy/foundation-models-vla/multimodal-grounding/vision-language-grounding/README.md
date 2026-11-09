@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Multimodal%20Grounding&specialty=Vision-Language%20Grounding#research-workbench)
 
-> 99 conference papers · 679 recent arXiv papers
+> 108 conference papers · 678 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,11 +14,20 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (99)
+## Conference papers (108)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation | CVPR · Language Model | [Paper](https://arxiv.org/abs/2602.18424) · [Publisher](https://doi.org/10.48550/arXiv.2602.18424) |
+| 2026 | Rethinking Intermediate Representation for VLM-based Robot Manipulation | CVPR · Vlm | [Paper](https://www.semanticscholar.org/paper/b556267f6a6877cc300bcd6f94c4405b567dc4cb) · [Index](https://dblp.org/rec/conf/cvpr/TangGPWLLDHF26) |
+| 2026 | Grounding Sim-to-Real Generalization in Robotic Manipulation: An Empirical Study with Vision-Language-Action Models | ECCV · Vision Language Action | [Paper](https://arxiv.org/pdf/2603.22876) · [Publisher](https://doi.org/10.1007/978-3-032-37602-2_2) |
+| 2026 | RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics | ECCV · Language Model | [Paper](https://arxiv.org/abs/2603.12939) · [Publisher](https://doi.org/10.48550/arXiv.2603.12939) |
+| 2026 | Tactile Modality Fusion for Vision-Language-Action Models | ECCV · Vision Language Action | [Paper](https://arxiv.org/abs/2603.14604) · [Publisher](https://doi.org/10.48550/arXiv.2603.14604) |
+| 2026 | Towards Spatial Trace with Reasoning in Vision-Language Models for Robotics | ECCV · Language Model | [Paper](https://arxiv.org/pdf/2512.13660) · [Publisher](https://doi.org/10.1007/978-3-032-36969-7_21) |
+| 2026 | Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes | ICLR · Language Model | [Paper](https://arxiv.org/abs/2510.19400) · [Publisher](https://doi.org/10.48550/arXiv.2510.19400) |
+| 2026 | UniHM: Unified Dexterous Hand Manipulation with Vision Language Model | ICLR · Language Model | [Paper](https://arxiv.org/abs/2603.00732) · [Publisher](https://doi.org/10.48550/arXiv.2603.00732) |
 | 2026 | Vision-Language-Action Instruction Tuning: From Understanding to Manipulation | ICLR · Instruction tuning | [Paper](https://proceedings.iclr.cc/papers/search?q=Vision-Language-Action+Instruction+Tuning) · [Official](https://proceedings.iclr.cc/papers/search?q=Vision-Language-Action+Instruction+Tuning) |
+| 2026 | VLMgineer: Vision-Language Models as Robotic Toolsmiths | ICLR · Language Model | [Paper](https://www.semanticscholar.org/paper/44c22ed64a78c2685e4fa24a9ee63bbee3ce0571) · [Index](https://dblp.org/rec/conf/iclr/GaoLSLZFJ26) |
 | 2026 | LAST: Bridging Vision-Language and Action Manifolds via Gromov-Wasserstein Alignment | ICML · Representation alignment | [Paper](https://openreview.net/forum?id=gIkOQkb4fU) · [Official](https://openreview.net/forum?id=gIkOQkb4fU) |
 | 2026 | AutoFocus-IL: VLM-based Saliency Maps for Data-Efficient Visual Imitation Learning without Extra Human Annotations | ICRA · Vlm | [Paper](https://arxiv.org/pdf/2511.18617) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697262) |
 | 2026 | Direct Contact-Tolerant Motion Planning With Vision Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2603.05017) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697063) |
@@ -29,15 +38,15 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026 | InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2505.13888) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695884) |
 | 2026 | KITE: Keyframe-Indexed Tokenized Evidence for VLM-Based Robot Failure Analysis | ICRA · Vlm | [Paper](https://arxiv.org/pdf/2604.07034) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696281) |
 | 2026 | LACY: A Vision-Language Model-based Language-Action Cycle for Self-Improving Robotic Manipulation | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2511.02239) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697276) |
-| 2026 | LLM-Guided Semantic Stereo Adaptive Visual Servoing for Precise Peg-in-Hole | ICRA · Llm | [Paper](https://doi.org/10.1109/ICRA57385.2026.11697080) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697080) |
+| 2026 | LLM-Guided Semantic Stereo Adaptive Visual Servoing for Precise Peg-in-Hole | ICRA · Llm | [Paper](https://doi.org/10.1109/icra57385.2026.11697080) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697080) |
 | 2026 | Manual2Skill++: Connector-Aware General Robotic Assembly from Instruction Manuals via Vision–Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2510.16344) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696095) |
 | 2026 | MERGE: Guided Vision-Language Models for Multi-Actor Event Reasoning and Grounding in Human–Robot Interaction | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2603.18988) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695754) |
-| 2026 | Multi-state Consistency Visual Language Model Combine Wavelet Transform for Weakly Supervised Robot Image Segmentation | ICRA · Language Model | [Paper](https://doi.org/10.1109/ICRA57385.2026.11696915) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696915) |
+| 2026 | Multi-state Consistency Visual Language Model Combine Wavelet Transform for Weakly Supervised Robot Image Segmentation | ICRA · Language Model | [Paper](https://doi.org/10.1109/icra57385.2026.11696915) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696915) |
 | 2026 | NaviTrace: Evaluating Embodied Navigation of Vision-Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2510.26909) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697251) |
 | 2026 | Phys2Real: Fusing VLM Priors with Interactive Online Adaptation for Uncertainty-Aware Sim-to-Real Manipulation | ICRA · Vlm | [Paper](https://arxiv.org/pdf/2510.11689) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695746) |
 | 2026 | Pseudocode-Guided Structured Reasoning for Automating Reliable Inference in Vision-Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2605.19663) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697384) |
 | 2026 | RetoVLA: Reusing Register Tokens for Spatial Reasoning in Vision-Language-Action Models | ICRA · Vision Language Action | [Paper](https://arxiv.org/pdf/2509.21243) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696818) |
-| 2026 | SA-VLM v2: Useful, Comprehensive, and Concise Guidance for Guide-Dog Robots Assisting the Visually Impaired | ICRA · Vlm | [Paper](https://doi.org/10.1109/ICRA57385.2026.11695842) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695842) |
+| 2026 | SA-VLM v2: Useful, Comprehensive, and Concise Guidance for Guide-Dog Robots Assisting the Visually Impaired | ICRA · Vlm | [Paper](https://doi.org/10.1109/icra57385.2026.11695842) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695842) |
 | 2026 | Seeing Farther and Smarter: Value-Guided Multi-Path Reflection for VLM Policy Optimization | ICRA · Vlm | [Paper](https://arxiv.org/pdf/2602.19372) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695749) |
 | 2026 | The Robot’s Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning | ICRA · Vlm | [Paper](https://arxiv.org/pdf/2603.20164) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696712) |
 | 2026 | TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2510.07181) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696750) |
@@ -59,7 +68,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Towards Generalizable Vision-Language Robotic Manipulation: A Benchmark and LLM-Guided 3D Policy | ICRA · Llm | [Paper](https://hal.science/hal-04721101v1/file/ICRA25_Ricardo_GemBench_arxiv.pdf) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127315) |
 | 2025 | UniAff: A Unified Representation of Affordances for Tool Usage and Articulation with Vision-Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2409.20551) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127736) |
 | 2025 | Verifiably Following Complex Robot Instructions with Foundation Models | ICRA · Foundation Model | [Paper](https://arxiv.org/pdf/2402.11498) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127418) |
-| 2025 | VLM-GroNav: Robot Navigation Using Physically Grounded Vision-Language Models in Outdoor Environments | ICRA · Language Model | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128264) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128264) |
+| 2025 | VLM-GroNav: Robot Navigation Using Physically Grounded Vision-Language Models in Outdoor Environments | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2409.20445) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128264) |
 | 2025 | VLM-Vac: Enhancing Smart Vacuums Through VLM Knowledge Distillation and Language-Guided Experience Replay | ICRA · Vlm | [Paper](https://arxiv.org/pdf/2409.14096) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128167) |
 | 2025 | DiffGen: Robot Demonstration Generation via Differentiable Physics Simulation, Differentiable Rendering, and Vision-Language Model | IROS · Language Model | [Paper](https://arxiv.org/pdf/2405.07309) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247245) |
 | 2025 | Find Everything: A General Vision Language Model Approach to Multi-Object Search | IROS · Language Model | [Paper](https://arxiv.org/pdf/2410.00388) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246991) |
@@ -118,12 +127,13 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023 | Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models | RSS · Language Model | [Paper](https://arxiv.org/abs/2211.11736) · [Publisher](https://doi.org/10.48550/arXiv.2211.11736) |
 | 2022 | Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models | CoRL · Language Model | [Paper](https://arxiv.org/pdf/2207.11514) · [Publisher](https://doi.org/10.48550/arXiv.2207.11514) |
 
-## Recent arXiv papers (679)
+## Recent arXiv papers (678)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-11-05 | Concertina: Embodying Manipulation and Cognition in One Diffusion Vision-Language Model | Chengcheng Wang, Wei He, Wenhao Li, Hongguang Li et al. | [Abstract](https://arxiv.org/abs/2611.07513) · [PDF](https://arxiv.org/pdf/2611.07513) |
+| 2026-11-03 | CLARA: A Cognitively-Driven Clarification Framework for Grounding Ambiguous Requests | Dimitrios Bekris, Marios Glytsos, Panagiotis P. Filntisis, Niki Efthymiou et al. | [Abstract](https://arxiv.org/abs/2611.04708) · [PDF](https://arxiv.org/pdf/2611.04708) |
 | 2026-10-29 | Surrogate Uncertainty for Black-box Visual Grounding | Hanbo Zhang, Tianrun Hu, Cedar Site Bai, Anxing Xiao et al. | [Abstract](https://arxiv.org/abs/2610.39798) · [PDF](https://arxiv.org/pdf/2610.39798) |
-| 2026-10-29 | STAR: Steering Action Representations during Inference | Guangyu Zhao, Yongchang Zhang, Haoxuan Ru, Kaichen He et al. | [Abstract](https://arxiv.org/abs/2610.41009) · [PDF](https://arxiv.org/pdf/2610.41009) |
 | 2026-10-29 | PhysVLMM: Interaction-Conditioned Physical Belief Maps for Articulated Objects in Robot Scene Maps | Dibyendu Ghosh | [Abstract](https://arxiv.org/abs/2610.40539) · [PDF](https://arxiv.org/pdf/2610.40539) |
 | 2026-10-29 | Decoding Geometry, Not Tokens: Efficient VLMs for Robot Affordance and Trajectory Prediction | Akila Ayanthi, Darshana Priyasad, Tharindu Fernando, Dimity Miller et al. | [Abstract](https://arxiv.org/abs/2610.39416) · [PDF](https://arxiv.org/pdf/2610.39416) |
 | 2026-10-28 | Open-World Object Motion Anticipation via Meta-Learned Semantic Adaptation | Mason Peterson, Gage MacLin, Camilla Tabasso, Jonathan P. How et al. | [Abstract](https://arxiv.org/abs/2610.38993) · [PDF](https://arxiv.org/pdf/2610.38993) |
@@ -143,7 +153,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-10-19 | Replan for Error Recovery: Training Embodied VLMs through Verifiable Interaction with Action-Grouped Turn-GSPO | Zhuoran Wang, Keqing Fan, Yang Li, Jinbo Su et al. | [Abstract](https://arxiv.org/abs/2610.27003) · [PDF](https://arxiv.org/pdf/2610.27003) |
 | 2026-10-18 | Structure over Reasoning: Unified Zero-Shot Navigation with a Small Vision-Language Model | Zeqi Li, Xunyi Zhao, Zerui Li, Sihao Lin et al. | [Abstract](https://arxiv.org/abs/2610.25130) · [PDF](https://arxiv.org/pdf/2610.25130) |
 | 2026-10-17 | When Better Policies Leave Harder Failures: Coverage Shift in VLM Success Monitoring | Isabel Guan, Dingyuan Zhang, Shipeng Lyu, I-Ming Chen | [Abstract](https://arxiv.org/abs/2610.24801) · [PDF](https://arxiv.org/pdf/2610.24801) |
-| 2026-10-16 | HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents | Hongcheng Gao, Alex Zhou, Jay Zhu, Zelin Zheng et al. | [Abstract](https://arxiv.org/abs/2610.23479) · [PDF](https://arxiv.org/pdf/2610.23479) |
 | 2026-10-16 | HAVANA: A Hierarchical Video-Action Model for Vision-Language Navigation | Dongzhihan Wang, Yi Du, Chen Wang, Xiuxian Li et al. | [Abstract](https://arxiv.org/abs/2610.24122) · [PDF](https://arxiv.org/pdf/2610.24122) |
 | 2026-10-15 | Do VLAs Really Follow Instructions? Diagnosing How-Level Instruction Following in Vision-Language-Action Models | Sangwu Park, Wonjoong Kim, Yeonjun In, Chanyoung Park | [Abstract](https://arxiv.org/abs/2610.21251) · [PDF](https://arxiv.org/pdf/2610.21251) |
 | 2026-10-14 | Eye, Robot: Learning Expressive Gaze Dynamics via a VLM-Guided Transformer-VAE | Yuhang Hu, Junlin Lyu, Yuan Fang, Xiaoying Shen et al. | [Abstract](https://arxiv.org/abs/2610.19635) · [PDF](https://arxiv.org/pdf/2610.19635) |
@@ -273,7 +282,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2026-07-15 | The World According to a Social Robot -- Augmenting Human-Robot Dialogue With Vision Language Models | Thomas Sievers | [Abstract](https://arxiv.org/abs/2607.16318) · [PDF](https://arxiv.org/pdf/2607.16318) |
 | 2026-07-13 | Think When It Matters: Conditional VLM Reasoning for Social Navigation with RL Policies | Ali Ahmadi, Hamed Rahimi, Adrien Jacquet Cretides, Marie Samson et al. | [Abstract](https://arxiv.org/abs/2607.10991) · [PDF](https://arxiv.org/pdf/2607.10991) |
 | 2026-07-11 | ActiveFly-Bench: Aligning Embodied Question Answering with Vision-Language-Action for Aerial Embodied Perception | Weichen Zhang, Shiquan Yu, Yinan Zhu, Peizhi Tang et al. | [Abstract](https://arxiv.org/abs/2607.10180) · [PDF](https://arxiv.org/pdf/2607.10180) |
-| 2026-07-09 | CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding | Yuri Ishitoya, Jeremy Siburian, Masashi Hamaya, Kuniaki Saito et al. | [Abstract](https://arxiv.org/abs/2607.08974) · [PDF](https://arxiv.org/pdf/2607.08974) |
+| 2026-07-09 | CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding | Yuri Ishitoya, Jeremy Siburian, Masashi Hamaya, Haruto Suzuki et al. | [Abstract](https://arxiv.org/abs/2607.08974) · [PDF](https://arxiv.org/pdf/2607.08974) |
 | 2026-07-09 | APIVOT: Adaptive Planning with Interleaved Vision-Language Thoughts | Emily Jin, Joy Hsu, Yiqing Xu, Weiyu Liu et al. | [Abstract](https://arxiv.org/abs/2607.08024) · [PDF](https://arxiv.org/pdf/2607.08024) |
 | 2026-07-06 | VLM-CASE: Vision-Language Model Enabled Context-Adaptive Safety Envelopes for Anticipatory Safe Autonomous Driving | Tianjia Yang, Ke Li, Ruwen Qin, Xianbiao Hu | [Abstract](https://arxiv.org/abs/2607.05180) · [PDF](https://arxiv.org/pdf/2607.05180) |
 | 2026-07-06 | Green for Go, Red for No: Visual Grounding via Semantic Segmentation for VLA Navigation Policies | Adrian Szvoren, Dimitrios Kanoulas, Nilufer Tuptuk | [Abstract](https://arxiv.org/abs/2607.05122) · [PDF](https://arxiv.org/pdf/2607.05122) |
@@ -800,7 +809,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2023-11-27 | Reinforcement Learning from Diffusion Feedback: Q* for Image Search | Aboli Marathe | [Abstract](https://arxiv.org/abs/2311.15648) · [PDF](https://arxiv.org/pdf/2311.15648) |
 | 2023-11-24 | GPT-4V Takes the Wheel: Promises and Challenges for Pedestrian Behavior Prediction | Jia Huang, Peng Jiang, Alvika Gautam, Srikanth Saripalli | [Abstract](https://arxiv.org/abs/2311.14786) · [PDF](https://arxiv.org/pdf/2311.14786) |
 | 2023-11-09 | On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving | Licheng Wen, Xuemeng Yang, Daocheng Fu, Xiaofeng Wang et al. | [Abstract](https://arxiv.org/abs/2311.05332) · [PDF](https://arxiv.org/pdf/2311.05332) |
-| 2023-11-02 | Vision-Language Foundation Models as Effective Robot Imitators | Xinghang Li, Minghuan Liu, Hanbo Zhang, Cunjun Yu et al. | [Abstract](https://arxiv.org/abs/2311.01378) · [PDF](https://arxiv.org/pdf/2311.01378) |
 
 ---
 

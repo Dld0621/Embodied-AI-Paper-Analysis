@@ -31,6 +31,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-25 | LLM4Robot-Bench: How Far Can GPT-6 Astra Go in Robotic Manipulation? A Hierarchical, Paired Sim-Real Benchmark | Haibao Yu, Jiaqi Meng, Zijian Zhang, Bowen Jing et al. | [Abstract](https://arxiv.org/abs/2610.34527) · [PDF](https://arxiv.org/pdf/2610.34527) |
 | 2026-10-19 | OV-PEAR: Observation-Verified Pose-Scale Estimation and Reconstruction for Unknown Industrial Manipulation Objects | Guoqin Tang, Qingxuan Jia, Yichen Tan, Zihang Lv et al. | [Abstract](https://arxiv.org/abs/2610.25840) · [PDF](https://arxiv.org/pdf/2610.25840) |
 | 2026-10-11 | Competitive Task Allocation with Temporal Proposal Windows and Improved Artificial Potential Fields for Dual-Arm Industrial Manipulation | Surya Prakash S. K, Bhuvan Narula, Jagannath Prasad Sahoo, Jayakumar VK et al. | [Abstract](https://arxiv.org/abs/2610.15763) · [PDF](https://arxiv.org/pdf/2610.15763) |
 | 2026-10-05 | Towards Robust Prehensile Manipulation in Open-Ended Environments | Mathilde Kappel, Mahdi Khoramshahi, Louis Annabi, Faïz Ben Amar et al. | [Abstract](https://arxiv.org/abs/2610.06376) · [PDF](https://arxiv.org/pdf/2610.06376) |
@@ -74,7 +75,6 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2024-01-15 | Online Learning of Continuous Signed Distance Fields Using Piecewise Polynomials | Ante Marić, Yiming Li, Sylvain Calinon | [Abstract](https://arxiv.org/abs/2401.07698) · [PDF](https://arxiv.org/pdf/2401.07698) |
 | 2024-01-05 | Integrating Open-World Shared Control in Immersive Avatars | Patrick Naughton, James Seungbum Nam, Andrew Stratton, Kris Hauser | [Abstract](https://arxiv.org/abs/2401.03079) · [PDF](https://arxiv.org/pdf/2401.03079) |
 | 2023-11-20 | Kitchen Artist: Precise Control of Liquid Dispensing for Gourmet Plating | Hung-Jui Huang, Jingyi Xiang, Wenzhen Yuan | [Abstract](https://arxiv.org/abs/2311.12185) · [PDF](https://arxiv.org/pdf/2311.12185) |
-| 2023-11-04 | STOW: Discrete-Frame Segmentation and Tracking of Unseen Objects for Warehouse Picking Robots | Yi Li, Muru Zhang, Markus Grotz, Kaichun Mo et al. | [Abstract](https://arxiv.org/abs/2311.02337) · [PDF](https://arxiv.org/pdf/2311.02337) |
 
 ---
 

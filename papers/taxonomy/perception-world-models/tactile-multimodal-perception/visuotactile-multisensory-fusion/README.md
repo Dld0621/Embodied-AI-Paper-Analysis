@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%20%26%20World%20Models&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Visuotactile%20%26%20Multisensory%20Fusion#research-workbench)
 
-> 14 conference papers · 38 recent arXiv papers
+> 15 conference papers · 38 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -14,10 +14,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 
 顶会记录与 arXiv 预印本继续严格分层；下列每篇论文都只挂载到这一条主要三级分类路径。
 
-## Conference papers (14)
+## Conference papers (15)
 
 | Year | Paper | Venue / topic | Online links |
 |---:|---|---|---|
+| 2026 | Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models | ECCV · Tactile | [Paper](https://arxiv.org/abs/2607.05390) · [Publisher](https://doi.org/10.48550/arXiv.2607.05390) |
 | 2026 | MoiréTac: A Dual-Mode Visuotactile Sensor for Multidimensional Perception Using Moiré Pattern Amplification | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2509.12714) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696001) |
 | 2026 | SARL: Spatially-Aware Self-Supervised Representation Learning for Visuo-Tactile Perception | ICRA · Tactile | [Paper](https://arxiv.org/pdf/2512.01908) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696245) |
 | 2025 | Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation | CoRL · Tactile representation | [Paper](https://proceedings.mlr.press/v305/) · [Official](https://proceedings.mlr.press/v305/) |

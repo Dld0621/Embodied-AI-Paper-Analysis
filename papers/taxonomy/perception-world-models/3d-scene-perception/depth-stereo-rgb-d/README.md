@@ -21,7 +21,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | 3D Vision-tactile Reconstruction from Infrared and Visible Images for Robotic Fine-grained Tactile Perception | IROS · Tactile | [Paper](https://arxiv.org/pdf/2506.15087) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246893) |
 | 2024 | GelRoller: A Rolling Vision-based Tactile Sensor for Large Surface Reconstruction Using Self-Supervised Photometric Stereo Method | ICRA · Tactile | [Paper](https://doi.org/10.1109/ICRA57147.2024.10610417) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610417) |
 | 2024 | CompdVision: Combining Near-Field 3D Visual and Tactile Sensing Using a Compact Compound-Eye Imaging System | IROS · Tactile | [Paper](https://arxiv.org/pdf/2312.07146) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801461) |
-| 2022 | f-Cal: Aleatoric uncertainty quantification for robot perception via calibrated neural regression | ICRA · Robot Perception | [Paper](https://doi.org/10.1109/icra46639.2022.9811903) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811903) |
+| 2022 | f-Cal: Aleatoric uncertainty quantification for robot perception via calibrated neural regression | ICRA · Robot Perception | [Paper](https://arxiv.org/pdf/2109.13913) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811903) |
 
 ## Recent arXiv papers (119)
 

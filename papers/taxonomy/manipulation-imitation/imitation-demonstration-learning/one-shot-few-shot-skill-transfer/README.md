@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Manipulation%20%26%20Imitation&subcategory=Imitation%20%26%20Demonstration%20Learning&specialty=One-shot%2C%20Few-shot%20%26%20Skill%20Transfer#research-workbench)
 
-> 21 conference papers · 81 recent arXiv papers
+> 21 conference papers · 82 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -25,7 +25,7 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | One-Shot Dual-Arm Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/abs/2503.06831) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128338) |
 | 2025 | Elastic Motion Policy: An Adaptive Dynamical System for Robust and Efficient One-Shot Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2503.08029) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246142) |
 | 2025 | Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping | IROS · Grasp | [Paper](https://arxiv.org/pdf/2506.17110) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247354) |
-| 2025 | One-Shot Robust Imitation Learning for Long-Horizon Visuomotor Tasks from Unsegmented Demonstrations | IROS · Imitation Learning | [Paper](https://arxiv.org/abs/2410.01630) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246635) |
+| 2025 | One-Shot Robust Imitation Learning for Long-Horizon Visuomotor Tasks from Unsegmented Demonstrations | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2410.01630) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246635) |
 | 2025 | Semantic-Geometric-Physical-Driven Robot Manipulation Skill Transfer via Skill Library and Tactile Representation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2411.11714) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246218) |
 | 2024 | FlowRetrieval: Flow-Guided Data Retrieval for Few-Shot Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2408.16944) · [Publisher](https://doi.org/10.48550/arXiv.2408.16944) |
 | 2024 | RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2407.04689) · [Publisher](https://doi.org/10.48550/arXiv.2407.04689) |
@@ -40,10 +40,11 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2022 | Demonstrate Once, Imitate Immediately (DOME): Learning Visual Servoing for One-Shot Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2204.02863) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981982) |
 | 2022 | Using human gaze in few-shot imitation learning for robot manipulation | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981706) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981706) |
 
-## Recent arXiv papers (81)
+## Recent arXiv papers (82)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-31 | Auriga Technical Report: A Task-Agnostic Agent Harness for Zero-Shot Embodied Manipulation | Chengcheng Wang, Yuheng Shi, Siyu Xu, Yutong Wang et al. | [Abstract](https://arxiv.org/abs/2611.01112) · [PDF](https://arxiv.org/pdf/2611.01112) |
 | 2026-10-29 | Smooth Action Chunking Via Movement-Primitive Representations for Imitation Learning | Shota Nomura, Takayuki Osa, Yasuhiro Kato, Kazuki Ota et al. | [Abstract](https://arxiv.org/abs/2610.39451) · [PDF](https://arxiv.org/pdf/2610.39451) |
 | 2026-10-27 | Self-Labeled Preference Transfer for Steerable Robot Manipulation | Kaiwen Hong, Shaoting Peng, Xiangyu Zeng, Pengcheng Wang et al. | [Abstract](https://arxiv.org/abs/2610.38000) · [PDF](https://arxiv.org/pdf/2610.38000) |
 | 2026-10-15 | Trajectory-based Diffusion from One-shot Human Video for Generalizable Manipulation | Guoping Pan, Xinmiao Yu, Wannan Cao, Jincheng Li et al. | [Abstract](https://arxiv.org/abs/2610.21792) · [PDF](https://arxiv.org/pdf/2610.21792) |

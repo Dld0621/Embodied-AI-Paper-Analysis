@@ -2,7 +2,7 @@
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Foundation%20Models%20%26%20VLA&subcategory=Reasoning%2C%20Planning%20%26%20Agents&specialty=Embodied%20Reasoning%20%26%20Question%20Answering#research-workbench)
 
-> 8 conference papers · 101 recent arXiv papers
+> 8 conference papers · 102 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -22,15 +22,16 @@ Conference records and arXiv preprints remain separate provenance layers. Every 
 | 2025 | Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2502.06419) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127665) |
 | 2025 | Robo2VLM: Improving Visual Question Answering using Large-Scale Robot Manipulation Data | NeurIPS · Vlm | [Paper](https://doi.org/10.52202/085713-0733) · [Publisher](https://doi.org/10.52202/085713-0733) |
 | 2024 | DeliGrasp: Inferring Object Properties with LLMs for Adaptive Grasp Policies | CoRL · Llm | [Paper](https://arxiv.org/abs/2403.07832) · [Publisher](https://doi.org/10.48550/arXiv.2403.07832) |
-| 2024 | Interactive Planning Using Large Language Models for Partially Observable Robotic Tasks | ICRA · Large Language Model | [Paper](https://arxiv.org/abs/2312.06876) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610981) |
+| 2024 | Interactive Planning Using Large Language Models for Partially Observable Robotic Tasks | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2312.06876) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610981) |
 | 2024 | Statler: State-Maintaining Language Models for Embodied Reasoning | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2306.17840) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610634) |
 | 2024 | ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2403.11289) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801993) |
 | 2022 | Inner Monologue: Embodied Reasoning through Planning with Language Models | CoRL · Language Model | [Paper](https://arxiv.org/abs/2207.05608) · [Publisher](https://doi.org/10.48550/arXiv.2207.05608) |
 
-## Recent arXiv papers (101)
+## Recent arXiv papers (102)
 
 | Date | Paper | Authors | Online links |
 |---|---|---|---|
+| 2026-10-31 | STEER: Route-Aware Adaptive Reasoning for Autonomous Driving | Yangang Zou, Pei Liu, Nan Song, Bozhou Zhang et al. | [Abstract](https://arxiv.org/abs/2611.00718) · [PDF](https://arxiv.org/pdf/2611.00718) |
 | 2026-10-23 | CEMIR vs. FISER: a comparative study of reasoning-based and enrichment-based approaches to pragmatic intent recognition | Ziya Hosseynzadeh, Farjad Fallah, Farnoosh Fallah, Soroush Gooran et al. | [Abstract](https://arxiv.org/abs/2610.32022) · [PDF](https://arxiv.org/pdf/2610.32022) |
 | 2026-10-10 | GG-Nav: Goal-oriented Grounding Chain-of-Thought Elicits Reasoning in Navigation Foundation Models | Shaohao Zhu, Wensi Huang, Siqi Zhang, Yuqiang Yang et al. | [Abstract](https://arxiv.org/abs/2610.14541) · [PDF](https://arxiv.org/pdf/2610.14541) |
 | 2026-10-06 | VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning | Zewei Zhou, Rachel Luo, Yulong Cao, Chaowei Xiao et al. | [Abstract](https://arxiv.org/abs/2610.08761) · [PDF](https://arxiv.org/pdf/2610.08761) |
