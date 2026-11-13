@@ -1,12 +1,12 @@
 # Vision, Gloves & XR Input · 视觉／手套／XR 输入
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Control&specialty=Vision%2C%20Gloves%20%26%20XR%20Input#research-workbench)
 
-> 74 conference papers · 323 recent arXiv papers
+> 74 conference papers · 326 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -99,10 +99,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | The Predictive Kinematic Control Tree: Enhancing Teleoperation of Redundant Robots through Probabilistic User Models | IROS · Teleoperation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982150) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982150) | rule-assigned |
 | 2022 | Gaze Complements Control Input for Goal Prediction During Assisted Teleoperation | RSS · Teleoperation | [Paper](https://doi.org/10.15607/rss.2022.xviii.025) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.025) | rule-assigned |
 
-## Recent arXiv papers (323)
+## Recent arXiv papers (326)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | I See What You Want: Decoding Hierarchical Operator Intent from Visual Teleoperation History | Xiangyi Jia, Kaixian Qu, Shengzhi Wang, Chenyu Yang et al. | [Abstract](https://arxiv.org/abs/2611.16419) · [PDF](https://arxiv.org/pdf/2611.16419) | rule-assigned |
+| 2026-11-12 | HEIR: Harness Egocentric Intent for Human-Robot Interactions | Yichi Zhang, Bo Wang, Zhenghan Zhu, Yutong Han et al. | [Abstract](https://arxiv.org/abs/2611.17238) · [PDF](https://arxiv.org/pdf/2611.17238) | rule-assigned |
+| 2026-11-10 | A human-in-the-loop Control Paradigm for Construction Robotics: From VR-Guided Teleoperation to Semi-Autonomous Dual-Arm Operation | Jinhua Chen, Xiaoji Xu, Zhongyuan Liao, Huang Zhenmin et al. | [Abstract](https://arxiv.org/abs/2611.14062) · [PDF](https://arxiv.org/pdf/2611.14062) | rule-assigned |
+| 2026-11-09 | ROS2MR: Connecting ROS 2 Motion Planning to Mixed-Reality Trajectory Visualization | Santiago Berrezueta-Guzman, Habiba-Loai Khalil, Andrei Koshelev, Stefan Wagner | [Abstract](https://arxiv.org/abs/2611.11830) · [PDF](https://arxiv.org/pdf/2611.11830) | rule-assigned |
 | 2026-10-29 | Gaze-Assisted Supervisory Control for Lunar Robotic Arm Teleoperation Under Concurrent Monitoring | Jiayu He, Yifan Li, Oliver R. Runswick, Ernest N. Kamavuako et al. | [Abstract](https://arxiv.org/abs/2610.39998) · [PDF](https://arxiv.org/pdf/2610.39998) | rule-assigned |
 | 2026-10-29 | From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills and Offline Proxies for Dexterous Manipulation | Ammar N. Abbas, Aayush Jain, Prashanth Viswanath, Nivesh Gadipudi et al. | [Abstract](https://arxiv.org/abs/2610.40828) · [PDF](https://arxiv.org/pdf/2610.40828) | rule-assigned |
 | 2026-10-27 | DexSuite: An All-in-One Framework for Dexterous Manipulation Across Arms, Hands, and Tasks | Anas Houssaini, Hugo He, Junming Shi, Amin Abyaneh et al. | [Abstract](https://arxiv.org/abs/2610.37799) · [PDF](https://arxiv.org/pdf/2610.37799) | rule-assigned |
@@ -425,7 +429,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-12 | Exploring Large Language Models to Facilitate Variable Autonomy for Human-Robot Teaming | Younes Lakhnati, Max Pascher, Jens Gerken | [Abstract](https://arxiv.org/abs/2312.07214) · [PDF](https://arxiv.org/pdf/2312.07214) | rule-assigned |
 | 2023-12-11 | On the Feasibility of Fingerprinting Collaborative Robot Network Traffic | Cheng Tang, Diogo Barradas, Urs Hengartner, Yue Hu | [Abstract](https://arxiv.org/abs/2312.06802) · [PDF](https://arxiv.org/pdf/2312.06802) | rule-assigned |
 | 2023-12-01 | AV4EV: Open-Source Modular Autonomous Electric Vehicle Platform for Making Mobility Research Accessible | Zhijie Qiao, Mingyan Zhou, Zhijun Zhuang, Tejas Agarwal et al. | [Abstract](https://arxiv.org/abs/2312.00951) · [PDF](https://arxiv.org/pdf/2312.00951) | rule-assigned |
-| 2023-11-11 | Bootstrapping Robotic Skill Learning With Intuitive Teleoperation: Initial Feasibility Study | Xiangyu Chu, Yunxi Tang, Lam Him Kwok, Yuanpei Cai et al. | [Abstract](https://arxiv.org/abs/2311.06543) · [PDF](https://arxiv.org/pdf/2311.06543) | rule-assigned |
 
 ---
 

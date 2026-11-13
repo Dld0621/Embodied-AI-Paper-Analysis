@@ -1,12 +1,12 @@
 # Cross-robot Transfer · 跨机器人迁移
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generalization%20%26%20Adaptation&specialty=Cross-robot%20Transfer#research-workbench)
 
-> 2 conference papers · 67 recent arXiv papers
+> 2 conference papers · 70 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,10 +27,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos | CVPR · World Model | [Paper](https://arxiv.org/abs/2511.21690) · [Index](https://dblp.org/rec/journals/corr/abs-2511-21690) | rule-assigned |
 | 2025 | Universal Actions for Enhanced Embodied Foundation Models | CVPR · Foundation Model | [Paper](https://arxiv.org/pdf/2501.10105) · [Publisher](https://doi.org/10.1109/CVPR52734.2025.02096) | rule-assigned |
 
-## Recent arXiv papers (67)
+## Recent arXiv papers (70)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models | Jiachun Jin, Zetong Zhou, Haonan Wang, Xiao Yang et al. | [Abstract](https://arxiv.org/abs/2611.17110) · [PDF](https://arxiv.org/pdf/2611.17110) | rule-assigned |
+| 2026-11-06 | UniLatent: Cross-Embodiment Transfer via Latent Observation Alignment | Yufei Ding, Yi Du, Weiduo Yuan, Hao Jiang et al. | [Abstract](https://arxiv.org/abs/2611.10061) · [PDF](https://arxiv.org/pdf/2611.10061) | rule-assigned |
+| 2026-11-06 | BATCH: Behavior Alignment for Cross-Embodiment Learning from Humans | Zeyi Liu, Shuran Song | [Abstract](https://arxiv.org/abs/2611.10148) · [PDF](https://arxiv.org/pdf/2611.10148) | rule-assigned |
 | 2026-10-27 | Ego-CEVR: Learning Cross-Embodiment Visual Representations from Human Egocentric Videos | Keru Zhou, Zhirui Fang, Xinrun Xu, Yaopeng Lou et al. | [Abstract](https://arxiv.org/abs/2610.37509) · [PDF](https://arxiv.org/pdf/2610.37509) | rule-assigned |
 | 2026-10-24 | EXE: Egocentric Cross-Embodiment Pretraining via Factorized Latent Actions for VLA Models | Qingyuan Cai, Bo Zhang, Yongzhen Huang, Jianyu Chen | [Abstract](https://arxiv.org/abs/2610.33685) · [PDF](https://arxiv.org/pdf/2610.33685) | rule-assigned |
 | 2026-10-20 | Multi-View Latent Action Pretraining for Cross-Embodiment Robot Learning from Videos | Oliver Hausdörfer, Felix Minzenmay, Mani Majd, Maximilian P. Christof et al. | [Abstract](https://arxiv.org/abs/2610.27794) · [PDF](https://arxiv.org/pdf/2610.27794) | rule-assigned |

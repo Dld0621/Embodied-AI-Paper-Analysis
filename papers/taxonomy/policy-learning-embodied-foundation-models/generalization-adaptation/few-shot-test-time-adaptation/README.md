@@ -1,12 +1,12 @@
 # Few-shot & Test-time Adaptation · 少样本与测试时适配
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generalization%20%26%20Adaptation&specialty=Few-shot%20%26%20Test-time%20Adaptation#research-workbench)
 
-> 24 conference papers · 281 recent arXiv papers
+> 24 conference papers · 283 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -49,10 +49,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | TidyBot: Personalized Robot Assistance with Large Language Models | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2305.05658) · [Publisher](https://doi.org/10.1007/s10514-023-10139-z) | rule-assigned |
 | 2023 | Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects | NeurIPS · Affordance | [Paper](https://arxiv.org/pdf/2309.07473) · [Index](https://dblp.org/rec/journals/corr/abs-2309-07473) | rule-assigned |
 
-## Recent arXiv papers (281)
+## Recent arXiv papers (283)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-10 | Game-Enhanced Embodied Learning with Event and Foresight Pretraining | Lianlei Shan, Han Jin, Yaunchao Ma, Xinpeng Chen et al. | [Abstract](https://arxiv.org/abs/2611.13819) · [PDF](https://arxiv.org/pdf/2611.13819) | rule-assigned |
+| 2026-11-09 | Library of Hands: Fix the Hands, Not the World Model | Hasaan Ahmad, Qizhen Ying, Yuxuan Sun, Tianjin Huang et al. | [Abstract](https://arxiv.org/abs/2611.12678) · [PDF](https://arxiv.org/pdf/2611.12678) | reviewed |
+| 2026-11-09 | GAP: Generalized Adaptation Prior for Dexterous Piano Playing | Jinyi Chen, Hongyi Li, Lei Jiang, Xianwei Liu et al. | [Abstract](https://arxiv.org/abs/2611.12111) · [PDF](https://arxiv.org/pdf/2611.12111) | reviewed |
 | 2026-11-05 | Generate-then-Rank: Learning Symbolic Goal Interpretation for Embodied Agents | Jisen Lei, Huizhi Liang | [Abstract](https://arxiv.org/abs/2611.07825) · [PDF](https://arxiv.org/pdf/2611.07825) | rule-assigned |
 | 2026-11-03 | DRAP: Dynamics-Risk Adaptive Plasticity for Continual Learning in Physical AI | Oswaldo Ludwig | [Abstract](https://arxiv.org/abs/2611.05029) · [PDF](https://arxiv.org/pdf/2611.05029) | rule-assigned |
 | 2026-10-29 | AquaProbe: Efficient Adaptation of Frozen Vision Models for Underwater Images | Md Shihabul Islam Shovo, Nishi Kanta Paul, Trung Dong, Xiaomin Lin | [Abstract](https://arxiv.org/abs/2610.40900) · [PDF](https://arxiv.org/pdf/2610.40900) | rule-assigned |
@@ -172,7 +175,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-12-15 | Towards Spatial Trace with Reasoning in Vision-Language Models for Robotics | Enshen Zhou, Yibo Li, Jingkun An, Jiayuan Zhang et al. | [Abstract](https://arxiv.org/abs/2512.13660) · [PDF](https://arxiv.org/pdf/2512.13660) | rule-assigned |
 | 2025-12-10 | High-Resolution Water Sampling via a Solar-Powered Autonomous Surface Vehicle | Misael Mamani, Mariel Fernandez, Grace Luna, Steffani Limachi et al. | [Abstract](https://arxiv.org/abs/2512.09798) · [PDF](https://arxiv.org/pdf/2512.09798) | rule-assigned |
 | 2025-12-01 | RoaD: Rollouts as Demonstrations for Closed-Loop Supervised Fine-Tuning of Autonomous Driving Policies | Guillermo Garcia-Cobo, Maximilian Igl, Peter Karkus, Zhejun Zhang et al. | [Abstract](https://arxiv.org/abs/2512.01993) · [PDF](https://arxiv.org/pdf/2512.01993) | rule-assigned |
-| 2025-11-28 | Seeing before Observable: Potential Risk Reasoning in Autonomous Driving via Vision Language Models | Jiaxin Liu, Xiangyu Yan, Liang Peng, Lei Yang et al. | [Abstract](https://arxiv.org/abs/2511.22928) · [PDF](https://arxiv.org/pdf/2511.22928) | rule-assigned |
 | 2025-11-26 | Model-Based Policy Adaptation for Closed-Loop End-to-End Autonomous Driving | Haohong Lin, Yunzhi Zhang, Wenhao Ding, Jiajun Wu et al. | [Abstract](https://arxiv.org/abs/2511.21584) · [PDF](https://arxiv.org/pdf/2511.21584) | rule-assigned |
 | 2025-11-25 | NOIR 2.0: Neural Signal Operated Intelligent Robots for Everyday Activities | Tasha Kim, Yingke Wang, Hanvit Cho, Alex Hodges | [Abstract](https://arxiv.org/abs/2511.20848) · [PDF](https://arxiv.org/pdf/2511.20848) | rule-assigned |
 | 2025-11-24 | Autonomous Surface Selection For Manipulator-Based UV Disinfection In Hospitals Using Foundation Models | Xueyan Oh, Jonathan Her, Zhixiang Ong, Brandon Koh et al. | [Abstract](https://arxiv.org/abs/2511.18709) · [PDF](https://arxiv.org/pdf/2511.18709) | rule-assigned |

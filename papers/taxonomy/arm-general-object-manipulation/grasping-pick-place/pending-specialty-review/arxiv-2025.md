@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题 · arXiv 2025
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 449 papers · complete list for this taxonomy leaf
+> 451 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -47,7 +47,9 @@
 | 2025-12-02 | SAM2Grasp: Resolve Multi-modal Grasping via Prompt-conditioned Temporal Action Prediction | Shengkai Wu, Jinrong Yang, Wenqiu Luo, Linfeng Gao et al. | [Abstract](https://arxiv.org/abs/2512.02609) · [PDF](https://arxiv.org/pdf/2512.02609) | needs-review |
 | 2025-12-02 | Diagnose, Correct, and Learn from Manipulation Failures via Visual Symbols | Xianchao Zeng, Xinyu Zhou, Youcheng Li, Jiayou Shi et al. | [Abstract](https://arxiv.org/abs/2512.02787) · [PDF](https://arxiv.org/pdf/2512.02787) | needs-review |
 | 2025-12-01 | Modality-Augmented Fine-Tuning of Foundation Robot Policies for Cross-Embodiment Manipulation on GR1 and G1 | Junsung Park, Hogun Kee, Songhwai Oh | [Abstract](https://arxiv.org/abs/2512.01358) · [PDF](https://arxiv.org/pdf/2512.01358) | needs-review |
+| 2025-12-01 | Guardian: Detecting Robotic Manipulation Failures with Vision-Language Models | Paul Pacaud, Ricardo Garcia, Shizhe Chen, Cordelia Schmid | [Abstract](https://arxiv.org/abs/2512.01946) · [PDF](https://arxiv.org/pdf/2512.01946) | needs-review |
 | 2025-12-01 | $\mathbf{M^3A}$ Policy: Mutable Material Manipulation Augmentation Policy through Photometric Re-rendering | Jiayi Li, Yuxuan Hu, Haoran Geng, Xiangyu Chen et al. | [Abstract](https://arxiv.org/abs/2512.01446) · [PDF](https://arxiv.org/pdf/2512.01446) | needs-review |
+| 2025-11-30 | SAGAS: Semantic-Aware Graph-Assisted Stitching for Offline Temporal Logic Planning | Ruijia Liu, Ancheng Hou, Xiang Yin | [Abstract](https://arxiv.org/abs/2512.00775) · [PDF](https://arxiv.org/pdf/2512.00775) | needs-review |
 | 2025-11-30 | CycleManip: Enabling Cyclic Task Manipulation via Effective Historical Perception and Understanding | Yi-Lin Wei, Haoran Liao, Yuhao Lin, Pengyue Wang et al. | [Abstract](https://arxiv.org/abs/2512.01022) · [PDF](https://arxiv.org/pdf/2512.01022) | needs-review |
 | 2025-11-29 | Image Generation as a Visual Planner for Robotic Manipulation | Ye Pang | [Abstract](https://arxiv.org/abs/2512.00532) · [PDF](https://arxiv.org/pdf/2512.00532) | needs-review |
 | 2025-11-28 | Obstruction reasoning for robotic grasping | Runyu Jiao, Matteo Bortolon, Francesco Giuliari, Alice Fasoli et al. | [Abstract](https://arxiv.org/abs/2511.23186) · [PDF](https://arxiv.org/pdf/2511.23186) | needs-review |

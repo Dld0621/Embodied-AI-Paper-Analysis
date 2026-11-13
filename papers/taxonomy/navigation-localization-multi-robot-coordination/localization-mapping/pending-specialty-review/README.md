@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Pending%20specialty%20review#research-workbench)
 
-> 196 conference papers · 962 recent arXiv papers
+> 196 conference papers · 968 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -221,12 +221,19 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | VER: Scaling On-Policy RL Leads to the Emergence of Navigation in Embodied Rearrangement | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.05064) · [Index](https://dblp.org/rec/conf/nips/WijmansEB22) | needs-review |
 | 2022 | ViKiNG: Vision-Based Kilometer-Scale Navigation with Geographic Hints | RSS · Navigation | [Paper](https://doi.org/10.15607/rss.2022.xviii.019) · [Publisher](https://doi.org/10.15607/RSS.2022.XVIII.019) | needs-review |
 
-## Recent arXiv papers (962)
+## Recent arXiv papers (968)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | Autonomous Mobile Robots on a Computing Field | Yonghwan Kim, Gil-Tak Kong, Un-Sook Choi | [Abstract](https://arxiv.org/abs/2611.16652) · [PDF](https://arxiv.org/pdf/2611.16652) | needs-review |
+| 2026-11-10 | From Depth to Safe Depth: Uncertainty-Aware Monocular Perception for Mobile Robot Navigation | Saeid Firouzi Daghigh, Saeed Ayat | [Abstract](https://arxiv.org/abs/2611.13769) · [PDF](https://arxiv.org/pdf/2611.13769) | needs-review |
+| 2026-11-09 | LawKAN: Group-Law Layers for Composition -- When Imposing a Known Law Pays Off | Anna Mishchenko, Nikolai Gavrilin | [Abstract](https://arxiv.org/abs/2611.12567) · [PDF](https://arxiv.org/pdf/2611.12567) | needs-review |
+| 2026-11-08 | MOSU2: Long-range Navigation System with Multi-modal Scene Understanding | Jing Liang, Zhenyu Hou, Senthurbavan Kirubaharan, Md Safwan Mondal et al. | [Abstract](https://arxiv.org/abs/2611.11148) · [PDF](https://arxiv.org/pdf/2611.11148) | needs-review |
+| 2026-11-08 | ColNav: Uncertainty-Aware Spacetime Collision Checking with Bounding Volume Hierarchies | Sanjeev Ramkumar Sudha, Lars Ivar Hatledal, Erlend M. Coates | [Abstract](https://arxiv.org/abs/2611.11646) · [PDF](https://arxiv.org/pdf/2611.11646) | needs-review |
+| 2026-11-07 | BRACE: Belief-guided Residual Adaptive Control for Safe Navigation under Unknown Disturbances | Jaeyoun Choi, Niklas Schmid, Oswin So, Augustinos Saravanos et al. | [Abstract](https://arxiv.org/abs/2611.10938) · [PDF](https://arxiv.org/pdf/2611.10938) | needs-review |
 | 2026-11-05 | MessyNav: Zero-Shot Navigation via Manipulation in Messy Environments | Kenneth Llontop, Cherie Ho, Dylan Zhou, Anuva Banwasi et al. | [Abstract](https://arxiv.org/abs/2611.07417) · [PDF](https://arxiv.org/pdf/2611.07417) | needs-review |
 | 2026-11-05 | LMGN: A Unified Policy Learning Model for Last-Mile Grasp-Navigation | Xuenmin Hu, Qingxue Qian, Wei Luo, Benyi Ma et al. | [Abstract](https://arxiv.org/abs/2611.07515) · [PDF](https://arxiv.org/pdf/2611.07515) | needs-review |
+| 2026-11-05 | BEVCast: Path-Adaptive BEV for Efficient End-to-End Autonomous Driving | Qiren Wang, Mingyu Guo, Zixuan Wang, Weisong Shi | [Abstract](https://arxiv.org/abs/2611.08631) · [PDF](https://arxiv.org/pdf/2611.08631) | needs-review |
 | 2026-11-04 | Beyond Infraction Scores: Failure-Boundary Profiles for Closed-Loop Evaluation of Driving and Robot Navigation Agents | Milan Bulat, Gino Ardelean, Ellington Kirby | [Abstract](https://arxiv.org/abs/2611.06453) · [PDF](https://arxiv.org/pdf/2611.06453) | needs-review |
 | 2026-11-03 | $\mathcal{C}^\infty$ Smooth Trajectory Planning with Application to Soft Robots | Reinhard M. Grassmann, Abdulaziz Y. Alkayas, Lingyun Chen, Sami Haddadin | [Abstract](https://arxiv.org/abs/2611.05615) · [PDF](https://arxiv.org/pdf/2611.05615) | needs-review |
 | 2026-11-02 | Safe-Ballbot: Tilt-Consistent MPC with Control Barrier Functions for Ballbot Navigation | Duc Cuong Vu, Tung Lam Nguyen | [Abstract](https://arxiv.org/abs/2611.03307) · [PDF](https://arxiv.org/pdf/2611.03307) | needs-review |
@@ -1186,7 +1193,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-15 | Why Autonomous Vehicles Are Not Ready Yet: A Multi-Disciplinary Review of Problems, Attempted Solutions, and Future Directions | Xingshuai Dong, Max Cappuccio, Hamad Al Jassmi, Fady Alnajjar et al. | [Abstract](https://arxiv.org/abs/2311.09093) · [PDF](https://arxiv.org/pdf/2311.09093) | needs-review |
 | 2023-11-15 | Motion Control of Two Mobile Robots under Allowable Collisions | Li Tan, Wei Ren, Xi-Ming Sun, Junlin Xiong | [Abstract](https://arxiv.org/abs/2311.08880) · [PDF](https://arxiv.org/pdf/2311.08880) | needs-review |
 | 2023-11-14 | Language and Sketching: An LLM-driven Interactive Multimodal Multitask Robot Navigation Framework | Weiqin Zu, Wenbin Song, Ruiqing Chen, Ze Guo et al. | [Abstract](https://arxiv.org/abs/2311.08244) · [PDF](https://arxiv.org/pdf/2311.08244) | needs-review |
-| 2023-11-12 | A Survey on Socially Aware Robot Navigation: Taxonomy and Future Challenges | Phani Teja Singamaneni, Pilar Bachiller-Burgos, Luis J. Manso, Anaís Garrell et al. | [Abstract](https://arxiv.org/abs/2311.06922) · [PDF](https://arxiv.org/pdf/2311.06922) | needs-review |
 
 ---
 

@@ -1,7 +1,7 @@
 # Object Rotation & Repositioning · 物体旋转与重定位
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=In-hand%20Manipulation&specialty=Object%20Rotation%20%26%20Repositioning#research-workbench)
@@ -103,7 +103,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-08-07 | Do Robots Really Need Anthropomorphic Hands? A Comparison of Human and Robotic Hands | Alexander Fabisch, Wadhah Zai El Amri, Chandandeep Singh, Nicolás Navarro-Guerrero | [Abstract](https://arxiv.org/abs/2508.05415) · [PDF](https://arxiv.org/pdf/2508.05415) | rule-assigned |
 | 2025-08-03 | DexReMoE:In-hand Reorientation of General Object via Mixtures of Experts | Jun Wan, Xing Liu, Yunlong Dong | [Abstract](https://arxiv.org/abs/2508.01695) · [PDF](https://arxiv.org/pdf/2508.01695) | rule-assigned |
 | 2025-05-19 | Composing Dextrous Grasping and In-hand Manipulation via Scoring with a Reinforcement Learning Critic | Lennart Röstel, Dominik Winkelbauer, Johannes Pitz, Leon Sievers et al. | [Abstract](https://arxiv.org/abs/2505.13253) · [PDF](https://arxiv.org/pdf/2505.13253) | rule-assigned |
-| 2025-05-08 | Robust Model-Based In-Hand Manipulation with Integrated Real-Time Motion-Contact Planning and Tracking | Yongpeng Jiang, Mingrui Yu, Xinghao Zhu, Masayoshi Tomizuka et al. | [Abstract](https://arxiv.org/abs/2505.04978) · [PDF](https://arxiv.org/pdf/2505.04978) | rule-assigned |
+| 2025-05-08 | A Tactile-Informed Bi-Level Framework with Complementary Motion-Contact Planning and Tracking for Robust Model-Based In-Hand Manipulation | Yongpeng Jiang, Mingrui Yu, Yi Ren, Xiang Li | [Abstract](https://arxiv.org/abs/2505.04978) · [PDF](https://arxiv.org/pdf/2505.04978) | rule-assigned |
 | 2025-05-04 | Dexterous Contact-Rich Manipulation via the Contact Trust Region | H. J. Terry Suh, Tao Pang, Tong Zhao, Russ Tedrake | [Abstract](https://arxiv.org/abs/2505.02291) · [PDF](https://arxiv.org/pdf/2505.02291) | rule-assigned |
 | 2025-03-11 | Trajectory Optimization for In-Hand Manipulation with Tactile Force Control | Haegu Lee, Yitaek Kim, Victor Melbye Staven, Christoffer Sloth | [Abstract](https://arxiv.org/abs/2503.08222) · [PDF](https://arxiv.org/pdf/2503.08222) | rule-assigned |
 | 2025-03-04 | Variable-Friction In-Hand Manipulation for Arbitrary Objects via Diffusion-Based Imitation Learning | Qiyang Yan, Zihan Ding, Xin Zhou, Adam J. Spiers | [Abstract](https://arxiv.org/abs/2503.02738) · [PDF](https://arxiv.org/pdf/2503.02738) | rule-assigned |

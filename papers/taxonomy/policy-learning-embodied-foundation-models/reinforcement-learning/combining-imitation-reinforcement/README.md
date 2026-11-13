@@ -1,12 +1,12 @@
 # Combining Imitation & Reinforcement · 模仿与强化学习结合
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Reinforcement%20Learning&specialty=Combining%20Imitation%20%26%20Reinforcement#research-workbench)
 
-> 0 conference papers · 17 recent arXiv papers
+> 0 conference papers · 18 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,10 +24,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (17)
+## Recent arXiv papers (18)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-07 | Grip, Trace, Write: Force-Aware Imitation and Reinforcement Learning for High-DoF Robotic Handwriting | Rongqian Chen, Yiding Chen, Jijie Zhou, Tom Z. Jiahao | [Abstract](https://arxiv.org/abs/2611.10451) · [PDF](https://arxiv.org/pdf/2611.10451) | rule-assigned |
 | 2026-11-05 | Latent RL Priors for Data-Efficient Dexterous Manipulation | Yixiao Wang, Peiyi Chen, Mustafa Mukadam, Shreekant Gayaka et al. | [Abstract](https://arxiv.org/abs/2611.08458) · [PDF](https://arxiv.org/pdf/2611.08458) | reviewed |
 | 2026-10-20 | Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking | Yuxuan Kuang, Jiashun Wang, Yixuan Sun, Yufei Ye et al. | [Abstract](https://arxiv.org/abs/2610.28628) · [PDF](https://arxiv.org/pdf/2610.28628) | reviewed |
 | 2026-07-21 | End-to-end Conditional Diffusion for Realistic and Controllable Visual Traffic Scenario Generation | Jingzheng Li, Yufei Ge, Zhijun Chen, Qianren Mao et al. | [Abstract](https://arxiv.org/abs/2607.18637) · [PDF](https://arxiv.org/pdf/2607.18637) | rule-assigned |

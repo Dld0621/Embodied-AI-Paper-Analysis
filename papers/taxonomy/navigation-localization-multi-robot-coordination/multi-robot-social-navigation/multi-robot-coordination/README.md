@@ -1,12 +1,12 @@
 # Multi-robot Coordination · 多机器人协调
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Multi-robot%20%26%20Social%20Navigation&specialty=Multi-robot%20Coordination#research-workbench)
 
-> 67 conference papers · 390 recent arXiv papers
+> 67 conference papers · 391 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -92,7 +92,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Multi-Robot Unknown Area Exploration Using Frontier Trees | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS47612.2022.9981914) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981914) | rule-assigned |
 | 2022 | PropEM-L: Radio Propagation Environment Modeling and Learning for Communication-Aware Multi-Robot Exploration | RSS · Exploration | [Paper](https://arxiv.org/abs/2205.01267) · [Index](https://dblp.org/rec/journals/corr/abs-2205-01267) | rule-assigned |
 
-## Recent arXiv papers (390)
+## Recent arXiv papers (391)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -169,6 +169,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-23 | The Evaluation Cost of Task Specialization in Evolutionary Multi-Robot Systems | Paolo Leopardi, Heiko Hamann, Jonas Kuckling, Tanja Katharina Kaiser | [Abstract](https://arxiv.org/abs/2606.24191) · [PDF](https://arxiv.org/pdf/2606.24191) | rule-assigned |
 | 2026-06-23 | Decentralized Pose Graph Riemannian Optimization for Object-based Multi-Robot SLAM | Yixian Zhao, Yan Huang, Yang Xu, Liang Li et al. | [Abstract](https://arxiv.org/abs/2606.24489) · [PDF](https://arxiv.org/pdf/2606.24489) | rule-assigned |
 | 2026-06-22 | Cooperative-ORCA*: Real-Time Proactive Deadlock Avoidance for Continuous-Space Multi-Agent Navigation | Junfeng Wu, Jiaqi Chen, Hongkun Lyu, Kevin Zheng et al. | [Abstract](https://arxiv.org/abs/2606.22757) · [PDF](https://arxiv.org/pdf/2606.22757) | rule-assigned |
+| 2026-06-21 | Integrated hybrid edge-cloud architecture for multi-robot and human-robot collaboration using ROS 2-MQTT-FIWARE in Mediterranean Greenhouses | F. Cañadas-Aránega, M. Muñoz, J. C. Moreno, J. L. Blanco-Claraco | [Abstract](https://arxiv.org/abs/2606.22682) · [PDF](https://arxiv.org/pdf/2606.22682) | rule-assigned |
 | 2026-06-14 | Robots as Tokens: Unified Diffusion Transformer for Coordinated Multi-Robot Trajectory Generation | Ruofei Bai, Jie Chen, Yuxin Cai, Jun Li et al. | [Abstract](https://arxiv.org/abs/2606.15550) · [PDF](https://arxiv.org/pdf/2606.15550) | rule-assigned |
 | 2026-06-13 | OSDAG: Online Scheduling for Efficient Multi-Robot Collaboration | Thanh Nguyen Canh, Thang Tran Viet, Phuc Van Dinh, Xiem HoangVan et al. | [Abstract](https://arxiv.org/abs/2606.15255) · [PDF](https://arxiv.org/pdf/2606.15255) | rule-assigned |
 | 2026-06-12 | DynaHMRC: Decentralized Heterogeneous Multi-Robot Collaboration for Dynamic Tasks with Large Language Models | Wenhao Yu, Yu'ang Xie, Yifan Duan, Jie Peng et al. | [Abstract](https://arxiv.org/abs/2606.14882) · [PDF](https://arxiv.org/pdf/2606.14882) | rule-assigned |
@@ -176,7 +177,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-04 | Multi-Robot Planning and Control from CCTV Camera Networks in a Real Warehouse | Luke Robinson, Benjamin Ramtoula, Anas Izaaryene, Paul Newman et al. | [Abstract](https://arxiv.org/abs/2606.06762) · [PDF](https://arxiv.org/pdf/2606.06762) | rule-assigned |
 | 2026-06-04 | IDDMBSE: Integrating Data-Driven and Model-Based Systems Engineering for Trusted Autonomous Cyber-Physical Systems | John S. Baras, Sai Sandeep Damera, Ryan Matheu, Clinton Enwerem et al. | [Abstract](https://arxiv.org/abs/2606.06727) · [PDF](https://arxiv.org/pdf/2606.06727) | rule-assigned |
 | 2026-06-04 | Hardness of Multi-Agent Path Finding on Trees: A Unified Approach | Tzvika Geft | [Abstract](https://arxiv.org/abs/2606.06686) · [PDF](https://arxiv.org/pdf/2606.06686) | rule-assigned |
-| 2026-06-03 | CADENCE: Predicting Realized MAPF Execution Time Beyond Sum of Costs | Abhishek Seetharamu, Badrikanath Praharaj, Sreeram MV | [Abstract](https://arxiv.org/abs/2606.04746) · [PDF](https://arxiv.org/pdf/2606.04746) | rule-assigned |
+| 2026-06-03 | CADENCE: Predicting Realized MAPF Execution Time Beyond Sum of Costs | Abhishek Seetharamu, Badrikanath Praharaj, Sreeram MV, Mohan Prakash Reddy Vakati | [Abstract](https://arxiv.org/abs/2606.04746) · [PDF](https://arxiv.org/pdf/2606.04746) | rule-assigned |
 | 2026-05-31 | Coordinating Task Switching in a Robotics Multi-Agent System Using Behavior Trees | Lucas Haug, Anarosa Alves Franco Brandão, Arthur Casals | [Abstract](https://arxiv.org/abs/2606.01170) · [PDF](https://arxiv.org/pdf/2606.01170) | rule-assigned |
 | 2026-05-28 | Structured interactions improve distributed coordination beyond model scaling in a real-world multi-robot system | Junping Wang, Zhizhong Zhang, Yongqiang Tang, Geng Zheng et al. | [Abstract](https://arxiv.org/abs/2605.30383) · [PDF](https://arxiv.org/pdf/2605.30383) | rule-assigned |
 | 2026-05-26 | Multi-Robot Box Transport over Different Surfaces with Decentralized Role-based Proportional Control | Aditya Bhatt, Himavarshini Yarragangu, Urvish Shah, Venkata Sai Yaswanth Mohan Thota et al. | [Abstract](https://arxiv.org/abs/2605.26430) · [PDF](https://arxiv.org/pdf/2605.26430) | rule-assigned |

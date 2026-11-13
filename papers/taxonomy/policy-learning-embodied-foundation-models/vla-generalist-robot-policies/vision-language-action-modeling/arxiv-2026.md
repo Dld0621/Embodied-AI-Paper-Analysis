@@ -1,15 +1,40 @@
 # Vision-Language-Action Modeling · 视觉语言动作建模 · arXiv 2026
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 1,198 papers · complete list for this taxonomy leaf
+> 1,225 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation | Jinze Tao, Yuxiao Han, Kangkang Dong, Yancong Wei et al. | [Abstract](https://arxiv.org/abs/2611.16246) · [PDF](https://arxiv.org/pdf/2611.16246) | rule-assigned |
+| 2026-11-12 | STVLA: Spatial-aware and Temporal-memory forVision-Language-Action Models | Zhuo Han, Yeqiang Wang, Xinran Wang, Hongwei Han et al. | [Abstract](https://arxiv.org/abs/2611.16589) · [PDF](https://arxiv.org/pdf/2611.16589) | rule-assigned |
+| 2026-11-11 | What Makes a VLA Reactive? A Study of Execution Strategies for Dynamic Manipulation | Zhuoyue Li, Zhendong Han, Pankhuri Vanjani, Wenting Li et al. | [Abstract](https://arxiv.org/abs/2611.15491) · [PDF](https://arxiv.org/pdf/2611.15491) | rule-assigned |
+| 2026-11-11 | Scaling VLA Serving Under Robotic Execution Constraints | Yue Zhang, Zicong Ye, Lufang Chen, Dance Yang et al. | [Abstract](https://arxiv.org/abs/2611.14969) · [PDF](https://arxiv.org/pdf/2611.14969) | rule-assigned |
+| 2026-11-10 | One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge | Ilia Larchenko, Gleb Zarin, Atindra Nair, Keerti Manney et al. | [Abstract](https://arxiv.org/abs/2611.14432) · [PDF](https://arxiv.org/pdf/2611.14432) | rule-assigned |
+| 2026-11-10 | Learning Low-Latency Action Verification for Frozen Vision-Language-Action Models | Wen-Han Hsieh, Ken Jiankun Zheng, Chia-Chien Chen, David M. Chan et al. | [Abstract](https://arxiv.org/abs/2611.14834) · [PDF](https://arxiv.org/pdf/2611.14834) | rule-assigned |
+| 2026-11-10 | Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies | Chubin Zhang, Bo An | [Abstract](https://arxiv.org/abs/2611.14488) · [PDF](https://arxiv.org/pdf/2611.14488) | rule-assigned |
+| 2026-11-09 | VLA-MOPD: On-Policy Distillation for Multi-Task VLA Policy Consolidation | Yongxuan Lv, Zhen Fang, Lichen Man, Hao Li et al. | [Abstract](https://arxiv.org/abs/2611.12286) · [PDF](https://arxiv.org/pdf/2611.12286) | rule-assigned |
+| 2026-11-09 | VLA Adaptation with Real and Simulated Data: A Case Study on Robotic Chess | Matěj Kripner, Milan Straka | [Abstract](https://arxiv.org/abs/2611.12676) · [PDF](https://arxiv.org/pdf/2611.12676) | rule-assigned |
+| 2026-11-09 | Thermo-VLA: A Thermal-Aware Vision-Language-Action Model with Gated Residual Modulation for Robotic Manipulation | Jingxuan Chen, Junshi Luo, Chencheng Dong, Xiaojian Nie et al. | [Abstract](https://arxiv.org/abs/2611.11981) · [PDF](https://arxiv.org/pdf/2611.11981) | rule-assigned |
+| 2026-11-09 | RoboACE: Adversarial Co-Evolution for Robot Self-Improvement | Delin Zhao, Zhengrong Yue, Junlin He, Yali Wang | [Abstract](https://arxiv.org/abs/2611.13034) · [PDF](https://arxiv.org/pdf/2611.13034) | rule-assigned |
+| 2026-11-09 | Motion Belief Action: From a Visual Scene Map to Physical Decisions | Dibyendu Ghosh | [Abstract](https://arxiv.org/abs/2611.12113) · [PDF](https://arxiv.org/pdf/2611.12113) | rule-assigned |
+| 2026-11-09 | How Much of Your VLA Is kNN | Denis Grachev, Damien LaRocque, Omar Moured | [Abstract](https://arxiv.org/abs/2611.13160) · [PDF](https://arxiv.org/pdf/2611.13160) | rule-assigned |
+| 2026-11-09 | Distilling Instructions into Weights: Closed-Form Edits Fix a Robot Policy's Misreading | Ali-Adeeb Abbas, Esmaeil Seraj | [Abstract](https://arxiv.org/abs/2611.11894) · [PDF](https://arxiv.org/pdf/2611.11894) | rule-assigned |
+| 2026-11-09 | Decoupled Asynchronous System for Humanoids (DASH): Latency-Agnostic Scaling of Vision-Language-Action Models for Humanoid Manipulation | Bingzhang Wang, Nathan Zhao, Jialeng Ni, Jiayin Zheng et al. | [Abstract](https://arxiv.org/abs/2611.11854) · [PDF](https://arxiv.org/pdf/2611.11854) | rule-assigned |
+| 2026-11-09 | Be My Eye: Learning to See Beyond a Robot's Own Perspective | Baifu Huang, Shilin Fang, Jianan Wang | [Abstract](https://arxiv.org/abs/2611.12295) · [PDF](https://arxiv.org/pdf/2611.12295) | rule-assigned |
+| 2026-11-09 | AutoVLA-D: Learn a Trajectory-Geometric Condition from Reasoning for Autonomous Driving VLA | Yuguang Yang, Zhewen Tan, Canyu Chen, Linlin Yang et al. | [Abstract](https://arxiv.org/abs/2611.12382) · [PDF](https://arxiv.org/pdf/2611.12382) | rule-assigned |
+| 2026-11-08 | When Coding Agents Get Arms: Safety Risks Across the Digital-Physical Boundary | Yiming Sun, Mi Zhang | [Abstract](https://arxiv.org/abs/2611.11438) · [PDF](https://arxiv.org/pdf/2611.11438) | rule-assigned |
+| 2026-11-08 | Streaming Failure Forecasting: VLA Failure Monitors That Keep Learning After Deployment | Amit Jadhav, Shaurya Beriwala, David Q. Liu, Yanfei Liu | [Abstract](https://arxiv.org/abs/2611.11688) · [PDF](https://arxiv.org/pdf/2611.11688) | rule-assigned |
+| 2026-11-08 | Efficient VLA Inference via Retrieval-Based Speculation and Hardware Acceleration | Zhengyang Cheng, He Zhu, Zeyu Guo, Zihan Liu et al. | [Abstract](https://arxiv.org/abs/2611.11098) · [PDF](https://arxiv.org/pdf/2611.11098) | rule-assigned |
+| 2026-11-08 | DexForesight: Grounding Dexterous Policies with Implicit Spatial Foresight | Zhongxi Chen, Yi Yang, Xinyi Chen, Mingzhe Ye et al. | [Abstract](https://arxiv.org/abs/2611.11166) · [PDF](https://arxiv.org/pdf/2611.11166) | reviewed |
+| 2026-11-08 | Control-Aware Command Generation for Asynchronous Control and Action Inference with Vision-Based Policies towards Fast Execution | Takayuki Osa, Kazuki Ota | [Abstract](https://arxiv.org/abs/2611.11089) · [PDF](https://arxiv.org/pdf/2611.11089) | rule-assigned |
+| 2026-11-07 | Zero-Shot VLA Adaptation with Retrieved Guidance | Subin Kim, Anh-Quan Pham, Dinesh Jayaraman | [Abstract](https://arxiv.org/abs/2611.10894) · [PDF](https://arxiv.org/pdf/2611.10894) | rule-assigned |
+| 2026-11-07 | Spatial Representation Distillation and Knowledge Routing for Vision-Language-Action Models | Jungin Park, Chaoran Zhu, Changjae Oh, Kwanghoon Sohn | [Abstract](https://arxiv.org/abs/2611.10443) · [PDF](https://arxiv.org/pdf/2611.10443) | rule-assigned |
+| 2026-11-07 | DreamVLA: From Generated Human Motions to Humanoid Vision-Language-Action Policies | Kevin Park, Izat Rasyad, Dvij Kalaria, Shankar Sastry | [Abstract](https://arxiv.org/abs/2611.10872) · [PDF](https://arxiv.org/pdf/2611.10872) | rule-assigned |
 | 2026-11-06 | VLA Handover: Failure-Prediction-Based Switching from On-Robot to Server VLA Models | Takayuki Nishio | [Abstract](https://arxiv.org/abs/2611.08987) · [PDF](https://arxiv.org/pdf/2611.08987) | rule-assigned |
 | 2026-11-06 | SURE:Spatiotemporal Uncertainty Representation for Efficient Vision-Language-Action Learning | Jingye Zhang, Choo Sin Wai, Dake Zhong, Zhifang Liu et al. | [Abstract](https://arxiv.org/abs/2611.09684) · [PDF](https://arxiv.org/pdf/2611.09684) | rule-assigned |
 | 2026-11-06 | PRISM: Primitive Routing via In-context Skill Mixing for Retentive VLA Adaptation | Jiachen Tao, Gengyu Zhang, Haoxuan Wang, Bing Liu et al. | [Abstract](https://arxiv.org/abs/2611.08917) · [PDF](https://arxiv.org/pdf/2611.08917) | rule-assigned |
@@ -64,6 +89,7 @@
 | 2026-10-29 | CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents | Yijia Fan, Xilin He, Yilei Jiang, Dongming Wu et al. | [Abstract](https://arxiv.org/abs/2610.40799) · [PDF](https://arxiv.org/pdf/2610.40799) | rule-assigned |
 | 2026-10-28 | SaiVLA-JEPA: Evaluating Future Latent Prediction in JEPA-Conditioned VLA Control | Rufeng Xiao, Ruihao Xiao, Wei Chen, Xinhai Sun | [Abstract](https://arxiv.org/abs/2610.38508) · [PDF](https://arxiv.org/pdf/2610.38508) | rule-assigned |
 | 2026-10-28 | Quantize by Doing: Task-Guided Mixed-Precision Quantization of Vision-Language-Action Models | Jiuyi Xu, Xiao Hu, Meida Chen, Song Wang et al. | [Abstract](https://arxiv.org/abs/2610.38661) · [PDF](https://arxiv.org/pdf/2610.38661) | rule-assigned |
+| 2026-10-28 | How Many Demonstrations Does a VLA Need? On the Sample Efficiency of VLA Finetuning | Rahul Chand, Miguel Villa Floran | [Abstract](https://arxiv.org/abs/2611.09964) · [PDF](https://arxiv.org/pdf/2611.09964) | rule-assigned |
 | 2026-10-27 | When Black-Box Robot Policies Fail: Online Sensor Diagnosis and Repair with a Transparent Surrogate | Marc Ziegler, Batu Özen, Sami Mentes, Thomas Waschulzik et al. | [Abstract](https://arxiv.org/abs/2610.36852) · [PDF](https://arxiv.org/pdf/2610.36852) | rule-assigned |
 | 2026-10-27 | What Actually Matters? A Paired Evaluation of Inference Settings for $π_{0.5}$ on BEHAVIOR-1K | Ruben Hammele, Samira Huber, Mohammad Nazeri, Amirreza Payandeh et al. | [Abstract](https://arxiv.org/abs/2610.37917) · [PDF](https://arxiv.org/pdf/2610.37917) | rule-assigned |
 | 2026-10-27 | Vision-Language-Action or World-Action? Just Action Models | Yonghao Yu, Lang Huang, Runyi Li, Toshihiko Yamasaki | [Abstract](https://arxiv.org/abs/2610.37219) · [PDF](https://arxiv.org/pdf/2610.37219) | rule-assigned |
@@ -735,6 +761,7 @@
 | 2026-06-16 | PearlVLA: Progressive Embodied Action-Plan Refinement in Latent Space | Bochen Yang, Lianlei Shan | [Abstract](https://arxiv.org/abs/2606.17924) · [PDF](https://arxiv.org/pdf/2606.17924) | rule-assigned |
 | 2026-06-16 | MuseVLA: An Adaptive Multimodal Sensing Vision-Language-Action Model for Robotic Manipulation | Xingyuming Liu, Ruichun Ma, Heyu Guo, Qixiu Li et al. | [Abstract](https://arxiv.org/abs/2606.17598) · [PDF](https://arxiv.org/pdf/2606.17598) | rule-assigned |
 | 2026-06-16 | LoopVLA: cross-subtask event memory for looped task execution | Shoujing Zhu, Zhenyang Liu, Fungmiu Wang, Jiafeng Wang et al. | [Abstract](https://arxiv.org/abs/2606.17463) · [PDF](https://arxiv.org/pdf/2606.17463) | rule-assigned |
+| 2026-06-16 | AI Sandboxes: A Threat Model, Taxonomy, and Measurement Framework | Inderjeet Singh, Haitham Mahmoud, Andrés Murillo | [Abstract](https://arxiv.org/abs/2606.18532) · [PDF](https://arxiv.org/pdf/2606.18532) | rule-assigned |
 | 2026-06-15 | Scaling Short-Term Memory of Visuomotor Policies for Long-Horizon Tasks | Rutav Shah, Rajat Kumar Jenamani, Xiaohan Zhang, Lingfeng Sun et al. | [Abstract](https://arxiv.org/abs/2606.16178) · [PDF](https://arxiv.org/pdf/2606.16178) | rule-assigned |
 | 2026-06-15 | JoyAI-Sim: A Simulation-Enabled Interconversion Toolchain for the Embodied Data Pyramid | Peidong Liu, Yongce Liu, Songyan Guo, Fuyuan Ma et al. | [Abstract](https://arxiv.org/abs/2606.16776) · [PDF](https://arxiv.org/pdf/2606.16776) | rule-assigned |
 | 2026-06-15 | Geometric Action Model for Robot Policy Learning | Jisang Han, Seonghu Jeon, Jaewoo Jung, René Zurbrügg et al. | [Abstract](https://arxiv.org/abs/2606.17046) · [PDF](https://arxiv.org/pdf/2606.17046) | rule-assigned |

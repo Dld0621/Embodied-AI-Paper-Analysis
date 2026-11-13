@@ -1,12 +1,12 @@
 # Cloth & Garments · 布料与衣物
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation&specialty=Cloth%20%26%20Garments#research-workbench)
 
-> 22 conference papers · 57 recent arXiv papers
+> 22 conference papers · 56 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -47,7 +47,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Iterative residual policy: For goal-conditioned dynamic manipulation of deformable objects | RSS · Manipulation | [Paper](https://arxiv.org/pdf/2203.00663) · [Publisher](https://doi.org/10.1177/02783649231201201) | rule-assigned |
 | 2022 | Mesh-based Dynamics with Occlusion Reasoning for Cloth Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/pdf/2206.02881) · [Index](https://dblp.org/rec/journals/corr/abs-2206-02881) | rule-assigned |
 
-## Recent arXiv papers (57)
+## Recent arXiv papers (56)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -107,7 +107,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-03-07 | Standardization of Cloth Objects and its Relevance in Robotic Manipulation | Irene Garcia-Camacho, Alberta Longhini, Michael Welle, Guillem Alenyà et al. | [Abstract](https://arxiv.org/abs/2403.04608) · [PDF](https://arxiv.org/pdf/2403.04608) | rule-assigned |
 | 2024-01-24 | TraKDis: A Transformer-based Knowledge Distillation Approach for Visual Reinforcement Learning with Application to Cloth Manipulation | Wei Chen, Nicolas Rojas | [Abstract](https://arxiv.org/abs/2401.13362) · [PDF](https://arxiv.org/pdf/2401.13362) | rule-assigned |
 | 2023-11-27 | On Bringing Robots Home | Nur Muhammad Mahi Shafiullah, Anant Rai, Haritheja Etukuru, Yiqian Liu et al. | [Abstract](https://arxiv.org/abs/2311.16098) · [PDF](https://arxiv.org/pdf/2311.16098) | rule-assigned |
-| 2023-11-09 | Differentiable Cloth Parameter Identification and State Estimation in Manipulation | Dongzhe Zheng, Siqiong Yao, Wenqiang Xu, Cewu Lu | [Abstract](https://arxiv.org/abs/2311.05141) · [PDF](https://arxiv.org/pdf/2311.05141) | rule-assigned |
 
 ---
 

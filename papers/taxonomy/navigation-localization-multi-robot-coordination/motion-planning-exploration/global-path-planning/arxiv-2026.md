@@ -1,15 +1,21 @@
 # Global Path Planning · 全局路径规划 · arXiv 2026
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 385 papers · complete list for this taxonomy leaf
+> 391 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-11 | DIVAL: Diffeomorphic Vector-Field Alignment for Nonholonomic Motion Planning | Yike Qiao, Xiaodong He, An Zhuo, Zhiyong Sun et al. | [Abstract](https://arxiv.org/abs/2611.14918) · [PDF](https://arxiv.org/pdf/2611.14918) | rule-assigned |
+| 2026-11-10 | SIGMO: Sigmoid Gated Interaction-Aware Motion Planning | Avinash Singh, Manish Saroya, Fatemeh Cheraghi Pouria, Faizan Tariq et al. | [Abstract](https://arxiv.org/abs/2611.14414) · [PDF](https://arxiv.org/pdf/2611.14414) | rule-assigned |
+| 2026-11-10 | Optimization-Based Path Planning for Industrial Manipulators: Experimental Validation in Additive Manufacturing | Shiva Ganesh Murali, Valentin Bhend, Deepak Ingole, Gabriele Fadini et al. | [Abstract](https://arxiv.org/abs/2611.13983) · [PDF](https://arxiv.org/pdf/2611.13983) | rule-assigned |
+| 2026-11-10 | Learn-To-Propagate: Distributionally Robust Motion Planning for Nonlinear Uncertain Systems | Eduardo Figueiredo, Adrien Banse, Qi Heng Ho, Raphael Jungers et al. | [Abstract](https://arxiv.org/abs/2611.13863) · [PDF](https://arxiv.org/pdf/2611.13863) | rule-assigned |
+| 2026-11-09 | Maximizing Detection Probability in UAV Search Missions using Random-Key Optimizers | Antonio Dantas, Elcio Shiguemori, Antonio Chaves | [Abstract](https://arxiv.org/abs/2611.12317) · [PDF](https://arxiv.org/pdf/2611.12317) | rule-assigned |
+| 2026-11-09 | Graph-Sparse Distributed Predictive Control for Multi-Robot Motion Planning vianEdge-Consensus ADMM | Josep Borras-Borras, Pablo Segovia, Carlos Ocampo-Martinez | [Abstract](https://arxiv.org/abs/2611.11755) · [PDF](https://arxiv.org/pdf/2611.11755) | rule-assigned |
 | 2026-11-06 | TPS-A*: Path Planning for Any-Shape Vehicles with Certified Collision Checking in Trajectory Parameter Space | Jose Luis Blanco-Claraco, Shravan S. Rai, Fernando Cañadas-Aránega, José Luis Torres-Moreno et al. | [Abstract](https://arxiv.org/abs/2611.09210) · [PDF](https://arxiv.org/pdf/2611.09210) | rule-assigned |
 | 2026-11-05 | H-BRICK: Hierarchical Boundary Reachability Index with Compressed Kleene Closure for Directed Grid Graphs | Tolga Özaslan, Elif A. Özaslan | [Abstract](https://arxiv.org/abs/2611.08119) · [PDF](https://arxiv.org/pdf/2611.08119) | rule-assigned |
 | 2026-11-04 | cuRoboV2-Fast: Fast Torque-Limited Collision-Free Motion Planning | Balakumar Sundaralingam, Adithyavairavan Murali, Stan Birchfield | [Abstract](https://arxiv.org/abs/2611.06913) · [PDF](https://arxiv.org/pdf/2611.06913) | rule-assigned |

@@ -1,12 +1,12 @@
 # Insertion & Assembly · 插入与装配
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Insertion%20%26%20Assembly#research-workbench)
 
-> 126 conference papers · 368 recent arXiv papers
+> 126 conference papers · 371 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -151,10 +151,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Tactile-Sensitive NewtonianVAE for High-Accuracy Industrial Connector Insertion | IROS · Tactile | [Paper](https://arxiv.org/pdf/2203.05955) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981610) | rule-assigned |
 | 2022 | Factory: Fast Contact for Robotic Assembly | RSS · Assembly | [Paper](https://arxiv.org/abs/2205.03532) · [Index](https://dblp.org/rec/journals/corr/abs-2205-03532) | rule-assigned |
 
-## Recent arXiv papers (368)
+## Recent arXiv papers (371)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-10 | TanCRAFT: Context-Reasoned Anticipatory Feedback for Assembly Tasks | Sassan Mokhtar, Lars Doorenbos, Marius Bock, Sina Mokhtar et al. | [Abstract](https://arxiv.org/abs/2611.14470) · [PDF](https://arxiv.org/pdf/2611.14470) | rule-assigned |
+| 2026-11-09 | Fastener-centric acquisition and AND/OR graph representation of state-dependent disassembly knowledge from CAD-derived virtual assemblies | Shiki Iwase | [Abstract](https://arxiv.org/abs/2611.13379) · [PDF](https://arxiv.org/pdf/2611.13379) | rule-assigned |
+| 2026-11-07 | Task-Critical Part Alignment Improves Imitation of Object Interactions | Denis Hadjivelichkov, Sebastian Ægidius, Valerio Modugno, Dimitrios Kanoulas | [Abstract](https://arxiv.org/abs/2611.10664) · [PDF](https://arxiv.org/pdf/2611.10664) | rule-assigned |
 | 2026-11-06 | It Takes Two to Tangram: Multi-Agent Object Centric Reinforcement Learning for Assembly | Paul Knaußt, Kay Pompetzki, Nico Bohlinger, Niklas Funk et al. | [Abstract](https://arxiv.org/abs/2611.08814) · [PDF](https://arxiv.org/pdf/2611.08814) | rule-assigned |
 | 2026-11-04 | Rethinking Self-Repair in Code-as-Policy Agents: What Drives Retry Success? | Siddharth Aphale, Ayushman Singh | [Abstract](https://arxiv.org/abs/2611.06863) · [PDF](https://arxiv.org/pdf/2611.06863) | rule-assigned |
 | 2026-10-31 | Task-Specialized Language-Conditioned Models for Fine-Grained Robotic Manipulation | Chanho Kim, Soyun Choi | [Abstract](https://arxiv.org/abs/2611.00955) · [PDF](https://arxiv.org/pdf/2611.00955) | rule-assigned |
@@ -323,7 +326,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-01-27 | SimTO: A two-stage, simulation-driven topology optimization framework for bespoke soft robotic grippers | Kurt Enkera, Josh Pinskier, Marcus Gallagher, David Howard | [Abstract](https://arxiv.org/abs/2601.19098) · [PDF](https://arxiv.org/pdf/2601.19098) | rule-assigned |
 | 2026-01-15 | In-the-Wild Compliant Manipulation with UMI-FT | Hojung Choi, Yifan Hou, Chuer Pan, Seongheon Hong et al. | [Abstract](https://arxiv.org/abs/2601.09988) · [PDF](https://arxiv.org/pdf/2601.09988) | rule-assigned |
 | 2026-01-08 | Zero Wrench Control via Wrench Disturbance Observer for Learning-free Peg-in-hole Assembly | Kiyoung Choi, Juwon Jeong, Sehoon Oh | [Abstract](https://arxiv.org/abs/2601.04881) · [PDF](https://arxiv.org/pdf/2601.04881) | rule-assigned |
-| 2025-12-18 | DiffeoMorph: Learning to Morph 3D Shapes Using Differentiable Agent-Based Simulations | Seong Ho Pahng, Guoye Guan, Benjamin Fefferman, Sahand Hormoz | [Abstract](https://arxiv.org/abs/2512.17129) · [PDF](https://arxiv.org/pdf/2512.17129) | rule-assigned |
+| 2025-12-18 | DiffeoMorph: Learning Distributed 3D Morphogenesis with Rotation-Invariant Spectral Shape Matching | Seong Ho Pahng, Guoye Guan, Benjamin Fefferman, Sahand Hormoz | [Abstract](https://arxiv.org/abs/2512.17129) · [PDF](https://arxiv.org/pdf/2512.17129) | rule-assigned |
 | 2025-12-15 | A Unified Framework for Automated Assembly Sequence and Production Line Planning using Graph-based Optimization | Christoph Hartmann, Marios Demetriades, Kevin Prüfer, Zichen Zhang et al. | [Abstract](https://arxiv.org/abs/2512.13219) · [PDF](https://arxiv.org/pdf/2512.13219) | rule-assigned |
 | 2025-12-03 | GrOMP: Grasped Object Manifold Projection for Multimodal Imitation Learning of Manipulation | William van den Bogert, Gregory Linkowski, Nima Fazeli | [Abstract](https://arxiv.org/abs/2512.03347) · [PDF](https://arxiv.org/pdf/2512.03347) | rule-assigned |
 | 2025-12-03 | Autonomous Planning In-space Assembly Reinforcement-learning free-flYer (APIARY) International Space Station Astrobee Testing | Samantha Chapin, Kenneth Stewart, Roxana Leontie, Carl Glen Henshaw | [Abstract](https://arxiv.org/abs/2512.03729) · [PDF](https://arxiv.org/pdf/2512.03729) | rule-assigned |

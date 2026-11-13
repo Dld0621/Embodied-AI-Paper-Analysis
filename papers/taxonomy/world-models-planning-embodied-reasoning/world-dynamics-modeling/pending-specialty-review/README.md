@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=World%20%26%20Dynamics%20Modeling&specialty=Pending%20specialty%20review#research-workbench)
 
-> 17 conference papers · 86 recent arXiv papers
+> 17 conference papers · 89 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -42,10 +42,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Multi-View Masked World Models for Visual Robotic Manipulation | ICML · Multi-view world models | [Paper](https://proceedings.mlr.press/v202/seo23a.html) · [Official](https://proceedings.mlr.press/v202/seo23a.html) | needs-review |
 | 2022 | Masked World Models for Visual Control | CoRL · Visual world models | [Paper](https://proceedings.mlr.press/v205/seo23a.html) · [Official](https://proceedings.mlr.press/v205/seo23a.html) | needs-review |
 
-## Recent arXiv papers (86)
+## Recent arXiv papers (89)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-09 | Incorporating World Models in Decision Making for Next Best View Selection in Active Sensing | Nikita Sarawgi, Omey M. Manyar, Satyandra K. Gupta | [Abstract](https://arxiv.org/abs/2611.13229) · [PDF](https://arxiv.org/pdf/2611.13229) | needs-review |
+| 2026-11-09 | Action Representation for Spatial Generalization in Robot World Models | Yuhang Sun | [Abstract](https://arxiv.org/abs/2611.11869) · [PDF](https://arxiv.org/pdf/2611.11869) | needs-review |
+| 2026-11-07 | Multi-Objective Adaptation After Deployment: A Position on World Models for Remote Robot Teams | Jamie Santos, Kagan Tumer | [Abstract](https://arxiv.org/abs/2611.10435) · [PDF](https://arxiv.org/pdf/2611.10435) | needs-review |
 | 2026-11-05 | Learning Robotic World Models with Semantic and Visual Feedback | Hao Wu, Yuqi Li, Yizhou Zhao, Kun Wang et al. | [Abstract](https://arxiv.org/abs/2611.07850) · [PDF](https://arxiv.org/pdf/2611.07850) | needs-review |
 | 2026-11-04 | Detecting Silent Action-Interface Mismatch with Calibrated Relational World Models | Rui Zhu, Xurui Li, Haixu Tang | [Abstract](https://arxiv.org/abs/2611.06653) · [PDF](https://arxiv.org/pdf/2611.06653) | needs-review |
 | 2026-10-24 | WorldFailBench: Do World Models Understand Policy Failures? | Zheng Zhang, Xiaoyang Tang, Shuaiqi Cheng, Jiakai Huang et al. | [Abstract](https://arxiv.org/abs/2610.33565) · [PDF](https://arxiv.org/pdf/2610.33565) | needs-review |

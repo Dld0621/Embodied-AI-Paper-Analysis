@@ -1,12 +1,12 @@
 # Semantic & Neural Maps · 语义与神经地图
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Semantic%20%26%20Neural%20Maps#research-workbench)
 
-> 47 conference papers · 361 recent arXiv papers
+> 47 conference papers · 362 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -72,10 +72,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Mapping of Spatiotemporal Scalar Fields by Mobile Robots using Gaussian Process Regression | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981548) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981548) | rule-assigned |
 | 2022 | Ranging-Aided Ground Robot Navigation Using UWB Nodes at Unknown Locations | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981186) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981186) | rule-assigned |
 
-## Recent arXiv papers (361)
+## Recent arXiv papers (362)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | ScrewSense: Mapping the Invisible - Anomaly Detection and Error Classification in Screwdriving Processes | Tobias Lettner, Tatyana Ivanovska, Anwar Al Assadi, Christian Bergler | [Abstract](https://arxiv.org/abs/2611.16789) · [PDF](https://arxiv.org/pdf/2611.16789) | rule-assigned |
+| 2026-11-11 | EMS-Nav: Embodied Multi-Scale Navigation | Zenghui Yang, Xinan Wang, Danyang Li, Zhe Xu et al. | [Abstract](https://arxiv.org/abs/2611.15589) · [PDF](https://arxiv.org/pdf/2611.15589) | rule-assigned |
 | 2026-11-04 | When to Ask for Help: Uncertainty-Triggered Aerial Refinement for Off-Road Navigation | Pranay Samineni, Adam Thorpe, John Chubick, Anand Balakrishnan et al. | [Abstract](https://arxiv.org/abs/2611.06702) · [PDF](https://arxiv.org/pdf/2611.06702) | rule-assigned |
 | 2026-10-26 | SPECOLA: A Tool for Specification Driven Robot Evaluation | Immanuel Ampomah Mensah, Hadas Kress-Gazit | [Abstract](https://arxiv.org/abs/2610.35730) · [PDF](https://arxiv.org/pdf/2610.35730) | rule-assigned |
 | 2026-10-22 | Point-Level Refinable Semantic Mapping for Spatial Understanding | Taimeng Fu, Yi Du, Zitong Zhan, Qiwei Du et al. | [Abstract](https://arxiv.org/abs/2610.31476) · [PDF](https://arxiv.org/pdf/2610.31476) | rule-assigned |
@@ -87,7 +89,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-10-09 | Mapping Tire-Road Friction Coefficients Along Driven Trajectories | Risto Ojala | [Abstract](https://arxiv.org/abs/2610.14235) · [PDF](https://arxiv.org/pdf/2610.14235) | rule-assigned |
 | 2026-10-05 | FOCUS: Fine-Grained Open-Vocabulary Change Detection for Uncertainty-Aware Semi-Static Scenes | Can Xu, Mingfeng Yuan, Mahan Mohammadi, Steven L. Waslander | [Abstract](https://arxiv.org/abs/2610.05639) · [PDF](https://arxiv.org/pdf/2610.05639) | rule-assigned |
 | 2026-10-01 | GlassGuard: Verified Glass Plane Mapping for Robot Navigation | Hanwen Guo, Zhengzhi Lin, Yusen Xie, Ji Zhang | [Abstract](https://arxiv.org/abs/2610.02110) · [PDF](https://arxiv.org/pdf/2610.02110) | rule-assigned |
-| 2026-09-30 | Toward Controlling Biology with Language:Offline Learning of Prompt-Conditioned Interventions for Cells, Organoids, and Biobots | Nam H. Le, Douglas Blackiston, Michael Levin, Josh Bongard | [Abstract](https://arxiv.org/abs/2610.02247) · [PDF](https://arxiv.org/pdf/2610.02247) | rule-assigned |
 | 2026-09-30 | Active Mapping of Underwater Litter Using Camera-Sonar Fusion | David Rete, Patrick Boros, Lucian Busoniu | [Abstract](https://arxiv.org/abs/2609.39898) · [PDF](https://arxiv.org/pdf/2609.39898) | rule-assigned |
 | 2026-09-29 | BCNav: Bearing-Conditioned Depth Policies for Sound Source Navigation | Yaozhong Kang, Jiang Wang, Takeshi Ashizawa, Benjamin Yen et al. | [Abstract](https://arxiv.org/abs/2609.37084) · [PDF](https://arxiv.org/pdf/2609.37084) | rule-assigned |
 | 2026-09-28 | ExcavaTwin: Training-Free Geometry-Guided Semantic Elevation Mapping for Autonomous Excavation | Yu Deng, Lingshan Zeng, Tong Hu, Rushi Dai | [Abstract](https://arxiv.org/abs/2609.34719) · [PDF](https://arxiv.org/pdf/2609.34719) | rule-assigned |

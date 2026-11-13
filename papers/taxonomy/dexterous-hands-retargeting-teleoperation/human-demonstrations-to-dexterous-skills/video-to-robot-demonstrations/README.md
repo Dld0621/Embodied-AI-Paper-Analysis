@@ -1,7 +1,7 @@
 # Video-to-robot Demonstrations · 视频到机器人示教
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Human%20Demonstrations%20to%20Dexterous%20Skills&specialty=Video-to-robot%20Demonstrations#research-workbench)
@@ -53,6 +53,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-08 | Off-Policy RL with Online Inference Tuning: My Solution to the CoRL 2026 RoboEval Challenge | Ilia Larchenko | [Abstract](https://arxiv.org/abs/2611.11464) · [PDF](https://arxiv.org/pdf/2611.11464) | rule-assigned |
 | 2026-11-03 | Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On | Seungyong Lee, Suhyeok Jang, Minyoung Kim, Jinwoo Shin | [Abstract](https://arxiv.org/abs/2611.05163) · [PDF](https://arxiv.org/pdf/2611.05163) | reviewed |
 | 2026-10-29 | WorldBridge: Bridging Video and Action for Task Generalization in World Action Models | Jun Cen, Yubo Guo, Hao Li, Liangkai Li et al. | [Abstract](https://arxiv.org/abs/2610.40748) · [PDF](https://arxiv.org/pdf/2610.40748) | rule-assigned |
 | 2026-10-29 | TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation | Haozhe Zhang, Gu Zhang, Zirui Zou, Yuzheng Chen et al. | [Abstract](https://arxiv.org/abs/2610.40349) · [PDF](https://arxiv.org/pdf/2610.40349) | reviewed |
@@ -205,7 +206,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-31 | Effect of Optimizer, Initializer, and Architecture of Hypernetworks on Continual Learning from Demonstration | Sayantan Auddy, Sebastian Bergner, Justus Piater | [Abstract](https://arxiv.org/abs/2401.00524) · [PDF](https://arxiv.org/pdf/2401.00524) | rule-assigned |
 | 2023-12-18 | Aligning Human Intent from Imperfect Demonstrations with Confidence-based Inverse soft-Q Learning | Xizhou Bu, Wenjuan Li, Zhengxiong Liu, Zhiqiang Ma et al. | [Abstract](https://arxiv.org/abs/2312.11194) · [PDF](https://arxiv.org/pdf/2312.11194) | rule-assigned |
 | 2023-12-05 | Human Demonstrations are Generalizable Knowledge for Robots | Te Cui, Tianxing Zhou, Zicai Peng, Mengxiao Hu et al. | [Abstract](https://arxiv.org/abs/2312.02419) · [PDF](https://arxiv.org/pdf/2312.02419) | rule-assigned |
-| 2023-11-09 | SynH2R: Synthesizing Hand-Object Motions for Learning Human-to-Robot Handovers | Sammy Christen, Lan Feng, Wei Yang, Yu-Wei Chao et al. | [Abstract](https://arxiv.org/abs/2311.05599) · [PDF](https://arxiv.org/pdf/2311.05599) | rule-assigned |
 
 ---
 

@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engineering&specialty=Pending%20specialty%20review#research-workbench)
 
-> 126 conference papers · 636 recent arXiv papers
+> 126 conference papers · 641 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -151,10 +151,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Realistic Real-Time Simulation of RGB and Depth Sensors for Dynamic Scenarios using Augmented Image Based Rendering | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982014) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982014) | needs-review |
 | 2022 | FlyView: a bio-informed optical flow truth dataset for visual navigation using panoramic stereo vision | NeurIPS · Navigation | [Paper](https://doi.org/10.52202/068431-2038) · [Publisher](https://doi.org/10.52202/068431-2038) | needs-review |
 
-## Recent arXiv papers (636)
+## Recent arXiv papers (641)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | HALO: Human-Aligned Data Collection for WhoLe-body MObile Manipulation | Shuai Yang, Fangyi Xu, Yishu Shen, Kecheng Zheng et al. | [Abstract](https://arxiv.org/abs/2611.16439) · [PDF](https://arxiv.org/pdf/2611.16439) | needs-review |
+| 2026-11-11 | SPARC: RoboCup Standard Platform for Autonomous Rescue Competition with Initial Datasets, Software, and Simulation Environments | Yuezhong Wang, Bichi Zhang, Zhongli Yin, Pingcong Li et al. | [Abstract](https://arxiv.org/abs/2611.15443) · [PDF](https://arxiv.org/pdf/2611.15443) | needs-review |
+| 2026-11-11 | Robo-SWE: An Executable Issue-Resolution Dataset Mined from Robot Software Repositories | Vahid Haratian, Vahid Ansari, Mohammadhossein Malmir, Alois Knoll | [Abstract](https://arxiv.org/abs/2611.16116) · [PDF](https://arxiv.org/pdf/2611.16116) | needs-review |
+| 2026-11-11 | MiniPose: Miniature-Based Real Data Collection for 6D Pose Estimation of Large Industrial Pipe Segments | Hyunjun Kim, Youngjin Seo, Sungwon Seo, Jiyou Shin et al. | [Abstract](https://arxiv.org/abs/2611.15066) · [PDF](https://arxiv.org/pdf/2611.15066) | needs-review |
+| 2026-11-07 | RoboMoCap: A Large-Scale Whole-Body Motion Capture Dataset with Egocentric Vision for Robot Learning | Mayur Deshmukh, Aaron Tung, Junyi Li, Nikash Bhardwaj et al. | [Abstract](https://arxiv.org/abs/2611.10994) · [PDF](https://arxiv.org/pdf/2611.10994) | needs-review |
 | 2026-11-05 | Training-Independent Validation of a Learning-Based Controller for Stunt Maneuvers | Kiruthiga Chandra Shekar, Aliasghar Arab, Jingang Yi | [Abstract](https://arxiv.org/abs/2611.07516) · [PDF](https://arxiv.org/pdf/2611.07516) | needs-review |
 | 2026-11-04 | Interactive World Simulation with Cosmos for Physical AI | NVIDIA, :, Anis Ahmad, Jon Allen et al. | [Abstract](https://arxiv.org/abs/2611.06627) · [PDF](https://arxiv.org/pdf/2611.06627) | needs-review |
 | 2026-11-02 | Robot-Matched Soft Fingers for UMI Data Collection: Lessons from 100 Hours of Pick and Place | Kobi Kelemen, Tomasz Niedziałkowski, Marcin Paszczak, Victoriano Montesinos | [Abstract](https://arxiv.org/abs/2611.03779) · [PDF](https://arxiv.org/pdf/2611.03779) | needs-review |
@@ -189,6 +194,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-09-30 | SimEX: Simulation-Integrated Robotics AutoResearch | Jiaheng Hu, Roberto Martin-Martin, Peter Stone, Rocky Duan et al. | [Abstract](https://arxiv.org/abs/2609.38982) · [PDF](https://arxiv.org/pdf/2609.38982) | needs-review |
 | 2026-09-30 | FlapKAD: A Simulation Dataset of Coupled Wing Kinematics and Aerodynamic Dynamics for Flapping-Wing Aerial Vehicles | Haichuan Li | [Abstract](https://arxiv.org/abs/2609.38719) · [PDF](https://arxiv.org/pdf/2609.38719) | needs-review |
 | 2026-09-28 | SynIL: Leveraging Synergy for Offline Imitation Learning from Imperfect Demonstration Datasets | Yuto Tanaka, Kyo Kutsuzawa, Martina Doku, Dai Owaki et al. | [Abstract](https://arxiv.org/abs/2609.38225) · [PDF](https://arxiv.org/pdf/2609.38225) | needs-review |
+| 2026-09-28 | GeoWind2Plan: Mission-Time 3D Urban Wind Prediction for Energy-Efficient UAV Planning | Shaoxiang Qin, Yucheng Zhao, Fuyuan Lyu, Di Zhou et al. | [Abstract](https://arxiv.org/abs/2609.36056) · [PDF](https://arxiv.org/pdf/2609.36056) | needs-review |
 | 2026-09-27 | When Does Backpropagating Through Policy Memory Matter? Separating Representation Credit from Closed-Loop Credit | Xingjian Li, Jianhua Z. Huang, Junli Duan | [Abstract](https://arxiv.org/abs/2609.33169) · [PDF](https://arxiv.org/pdf/2609.33169) | needs-review |
 | 2026-09-24 | Timed Rule-Based Supervision of an End-to-End Autonomous Parking Policy | Kejia Gao, Liguo Zhou, Lei Yu, Alois Knoll | [Abstract](https://arxiv.org/abs/2609.31773) · [PDF](https://arxiv.org/pdf/2609.31773) | needs-review |
 | 2026-09-24 | PolyUMI: Accessible Visual-Tactile-Audio Data Collection for Object Inference and Manipulation | Conor W. Hayes, Rickmer Krohn, Aravind Ramaswami, Anunth Ramaswami et al. | [Abstract](https://arxiv.org/abs/2609.29760) · [PDF](https://arxiv.org/pdf/2609.29760) | needs-review |
@@ -790,7 +796,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-04 | Energy-based Potential Games for Joint Motion Forecasting and Control | Christopher Diehl, Tobias Klosek, Martin Krüger, Nils Murzyn et al. | [Abstract](https://arxiv.org/abs/2312.01811) · [PDF](https://arxiv.org/pdf/2312.01811) | needs-review |
 | 2023-11-26 | A Framework for Realistic Simulation of Daily Human Activity | Ifrah Idrees, Siddharth Singh, Kerui Xu, Dylan F. Glas | [Abstract](https://arxiv.org/abs/2311.15400) · [PDF](https://arxiv.org/pdf/2311.15400) | needs-review |
 | 2023-11-20 | Real-Time Surface-to-Air Missile Engagement Zone Prediction Using Simulation and Machine Learning | Joao P. A. Dantas, Diego Geraldo, Felipe L. L. Medeiros, Marcos R. O. A. Maximo et al. | [Abstract](https://arxiv.org/abs/2311.11905) · [PDF](https://arxiv.org/pdf/2311.11905) | needs-review |
-| 2023-11-09 | Reconstructing Objects in-the-wild for Realistic Sensor Simulation | Ze Yang, Sivabalan Manivasagam, Yun Chen, Jingkang Wang et al. | [Abstract](https://arxiv.org/abs/2311.05602) · [PDF](https://arxiv.org/pdf/2311.05602) | needs-review |
 
 ---
 

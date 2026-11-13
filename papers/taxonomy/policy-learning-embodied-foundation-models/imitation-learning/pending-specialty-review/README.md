@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Imitation%20Learning&specialty=Pending%20specialty%20review#research-workbench)
 
-> 66 conference papers · 504 recent arXiv papers
+> 66 conference papers · 509 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -91,10 +91,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning and Retrieval from Prior Data for Skill-based Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/pdf/2210.11435) · [Index](https://dblp.org/rec/journals/corr/abs-2210-11435) | needs-review |
 | 2022 | Divide & Conquer Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2204.07404) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982020) | needs-review |
 
-## Recent arXiv papers (504)
+## Recent arXiv papers (509)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-10 | Taxonomy-Agnostic Neurosymbolic Grounding of Robot Kinematics | Bastien Dussard, Aur{é}lie Clodic, Guillaume Sarthou | [Abstract](https://arxiv.org/abs/2611.13850) · [PDF](https://arxiv.org/pdf/2611.13850) | needs-review |
+| 2026-11-09 | RAIL: Representation-Aligned Imitation Learning for Student-Compatible Teacher Policies | Meraj Mammadov, Pedro Zuidberg Dos Martires, Johannes Andreas Stork | [Abstract](https://arxiv.org/abs/2611.12251) · [PDF](https://arxiv.org/pdf/2611.12251) | needs-review |
+| 2026-11-08 | CAFE: Closed-Loop Autonomous Task Formulation and Execution without Instance-Specific Instructions | Mingjia Chen, Xuewen Zhao, Philip Dames, Qi Mao et al. | [Abstract](https://arxiv.org/abs/2611.12983) · [PDF](https://arxiv.org/pdf/2611.12983) | needs-review |
+| 2026-11-08 | A Physical Testbed for Self-Driving Laboratories: Comparing Bayesian and Agentic Optimization in a Minimal Closed-Loop Color Formulation Task | Tony Qin, Ziheng Wu, Maximilian Schommer, Roya Amini-Naieni et al. | [Abstract](https://arxiv.org/abs/2611.11690) · [PDF](https://arxiv.org/pdf/2611.11690) | needs-review |
+| 2026-11-07 | Beating the Pool, Not the Game: A White-Box Equilibrium Agent for Language-Based Economic Games | Sudhanshu Srivastava, Faisal Aqlan | [Abstract](https://arxiv.org/abs/2611.10932) · [PDF](https://arxiv.org/pdf/2611.10932) | needs-review |
 | 2026-11-04 | Robots in the City: Persona-Based Perceptions of Urban Robots | Keonhee Jang, Kanghoon Lee, Seokwoo Yun, Namwoo Kim et al. | [Abstract](https://arxiv.org/abs/2611.05954) · [PDF](https://arxiv.org/pdf/2611.05954) | needs-review |
 | 2026-11-03 | DreamX: Video Diffusion Model is a Universal Latent Action Learner | Jisoo Kim, Chaehyun Kim, Junsu Kim, Jiho Park et al. | [Abstract](https://arxiv.org/abs/2611.05377) · [PDF](https://arxiv.org/pdf/2611.05377) | needs-review |
 | 2026-11-03 | Cycle WAM: Coupling Action and Video through Cycle Consistency | Qinglin Yang, Jiepeng Wang, Yuxing Huang, Haibin Huang et al. | [Abstract](https://arxiv.org/abs/2611.04711) · [PDF](https://arxiv.org/pdf/2611.04711) | needs-review |
@@ -122,6 +127,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-10-03 | ACG-WAM: World-Action Modeling via Action-Conditioned Geometric Latent Prediction | Jiangtao Liu, Zishang Xiang, Yage He, Lingguo Cui et al. | [Abstract](https://arxiv.org/abs/2610.06965) · [PDF](https://arxiv.org/pdf/2610.06965) | needs-review |
 | 2026-10-02 | OmniAct3D: Leveraging Foundation Geometry and Evidence-Grounded Reasoning for Panoramic 3D Detection | Runtong Wu, Fei Teng, Di Wen, Guoqiang Zhao et al. | [Abstract](https://arxiv.org/abs/2610.03015) · [PDF](https://arxiv.org/pdf/2610.03015) | needs-review |
 | 2026-10-01 | Building Trustworthy Household Robots through Open-World Safety | Yu-Lin Tsai, Muxi Lyu, Roei Herzig, Koushik Sen et al. | [Abstract](https://arxiv.org/abs/2610.14034) · [PDF](https://arxiv.org/pdf/2610.14034) | needs-review |
+| 2026-09-30 | Toward Controlling Biology with Language: Offline Learning of Prompt-Conditioned Interventions for Cells, Organoids, and Biobots | Nam H. Le, Douglas Blackiston, Michael Levin, Josh Bongard | [Abstract](https://arxiv.org/abs/2610.02247) · [PDF](https://arxiv.org/pdf/2610.02247) | needs-review |
 | 2026-09-29 | Learning Expressive and Compositional Motion Representation via Spectral Skills | Feiyang Wu, Chenxiao Gao, Chen Yang, Ye Zhao et al. | [Abstract](https://arxiv.org/abs/2609.37677) · [PDF](https://arxiv.org/pdf/2609.37677) | needs-review |
 | 2026-09-28 | WAM-OPD: Sharpening World Action Models via On-Policy Distillation | Panjun Liu, Xiaohan Lei, Shiqi Zhang, Yikun Wang et al. | [Abstract](https://arxiv.org/abs/2609.34250) · [PDF](https://arxiv.org/pdf/2609.34250) | needs-review |
 | 2026-09-28 | FutureDuet: Decoupling Observation Access from Future Supervision in World Action Models | Jie Wu, Yuzhi Huang, Junqi Liu, Weichen Zhang et al. | [Abstract](https://arxiv.org/abs/2609.34362) · [PDF](https://arxiv.org/pdf/2609.34362) | needs-review |
@@ -151,6 +157,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-28 | From Small Talk to Rapport: Exploring Robot Self-Disclosure in Collaborative Tasks | Kaitlynn Taylor Pineda, Anvii Mishra, Brian Chien, Angela Guo et al. | [Abstract](https://arxiv.org/abs/2608.28154) · [PDF](https://arxiv.org/pdf/2608.28154) | needs-review |
 | 2026-08-25 | X-MULTI: VLM-based Imaging Factor Disentanglement for Factor-Aware Image Synthesis | Sonali Godavarthy, Matthias Neuwirth-Trapp, Tim-Felix Faasch, Maarten Bieshaar et al. | [Abstract](https://arxiv.org/abs/2608.24563) · [PDF](https://arxiv.org/pdf/2608.24563) | needs-review |
 | 2026-08-25 | GaussianWAM: Distilling Geometry and Semantics from 3D Gaussian Fields into World-Action Models | Zijian Zhang, Yuqing Jiang, Weitao Zhou, Minglei Li et al. | [Abstract](https://arxiv.org/abs/2608.24714) · [PDF](https://arxiv.org/pdf/2608.24714) | needs-review |
+| 2026-08-24 | When Words and Bodies Disagree: Realizing Verbal and Nonverbal Mismatch | Parisa Ghanad Torshizi, Stacy Marsella | [Abstract](https://arxiv.org/abs/2608.22731) · [PDF](https://arxiv.org/pdf/2608.22731) | needs-review |
 | 2026-08-21 | Why did My Robot Just Change Personality? Prompting Guidelines for a Grounded Robot Persona in LLM-Based HRI | Ashita Ashok, Franziska Babel, Patrick Holthaus, Rucha Khot et al. | [Abstract](https://arxiv.org/abs/2608.26182) · [PDF](https://arxiv.org/pdf/2608.26182) | needs-review |
 | 2026-08-20 | Towards general embodied intelligence: integrating large language models, knowledge bases, and reasoning capabilities to build the next generation of AI agents | Fujiang Yuan, Xia Huang, Lusheng Wang, Jun Ding et al. | [Abstract](https://arxiv.org/abs/2608.19794) · [PDF](https://arxiv.org/pdf/2608.19794) | needs-review |
 | 2026-08-19 | Multimodal Rapport Estimation in Real-World HRI | Akihiro Sakuramoto, Takato Hayashi, Ryo Miyoshi, Yuki Okafuji et al. | [Abstract](https://arxiv.org/abs/2608.18401) · [PDF](https://arxiv.org/pdf/2608.18401) | needs-review |
@@ -217,7 +224,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-04 | Human-in-the-Loop Uncertainty Analysis in Self-Adaptive Robots Using LLMs | Hassan Sartaj, Jalil Boudjadar, Mirgita Frasheri, Shaukat Ali et al. | [Abstract](https://arxiv.org/abs/2605.02983) · [PDF](https://arxiv.org/pdf/2605.02983) | needs-review |
 | 2026-05-01 | Value Functions for Temporal Logic: Optimal Policies and Safety Filters | Oswin So, William Sharpless, Sylvia Herbert, Chuchu Fan | [Abstract](https://arxiv.org/abs/2605.01051) · [PDF](https://arxiv.org/pdf/2605.01051) | needs-review |
 | 2026-05-01 | Tempus: A Temporally Scalable Resource-Invariant GEMM Streaming Framework for Versal AI Edge | M. Grailoo, J. Núñez-Yáñez | [Abstract](https://arxiv.org/abs/2605.00536) · [PDF](https://arxiv.org/pdf/2605.00536) | needs-review |
-| 2026-05-01 | High-Speed Vision Improves Zero-Shot Semantic Understanding of Human Actions | Yongpeng Cao, Yuji Yamakawa | [Abstract](https://arxiv.org/abs/2605.00496) · [PDF](https://arxiv.org/pdf/2605.00496) | needs-review |
+| 2026-05-01 | Effect of Temporal Resolution on Zero-Shot Semantic Understanding of Rapid Human Actions | Yongpeng Cao, Yuji Yamakawa | [Abstract](https://arxiv.org/abs/2605.00496) · [PDF](https://arxiv.org/pdf/2605.00496) | needs-review |
 | 2026-04-27 | Generalizable Friction Coefficient Estimation via Material Embedding and Proxy Interaction Modeling | Zhendong Wang, Huamin Wang | [Abstract](https://arxiv.org/abs/2604.24188) · [PDF](https://arxiv.org/pdf/2604.24188) | needs-review |
 | 2026-04-24 | An LLM-Driven Closed-Loop Autonomous Learning Framework for Robots Facing Uncovered Tasks in Open Environments | Hong Su | [Abstract](https://arxiv.org/abs/2604.22199) · [PDF](https://arxiv.org/pdf/2604.22199) | needs-review |
 | 2026-04-19 | GaLa: Hypergraph-Guided Visual Language Models for Procedural Planning | Kun Wang, Yiming Li, Mingcheng Qu, Aqiang Zhang et al. | [Abstract](https://arxiv.org/abs/2604.17241) · [PDF](https://arxiv.org/pdf/2604.17241) | needs-review |
@@ -303,7 +310,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-09-23 | Bi-VLA: Bilateral Control-Based Imitation Learning via Vision-Language Fusion for Action Generation | Masato Kobayashi, Thanpimon Buamanee | [Abstract](https://arxiv.org/abs/2509.18865) · [PDF](https://arxiv.org/pdf/2509.18865) | needs-review |
 | 2025-09-22 | V2V-GoT: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models and Graph-of-Thoughts | Hsu-kuang Chiu, Ryo Hachiuma, Chien-Yi Wang, Yu-Chiang Frank Wang et al. | [Abstract](https://arxiv.org/abs/2509.18053) · [PDF](https://arxiv.org/pdf/2509.18053) | needs-review |
 | 2025-09-19 | Defining and Monitoring Complex Robot Activities via LLMs and Symbolic Reasoning | Francesco Argenziano, Elena Umili, Francesco Leotta, Daniele Nardi | [Abstract](https://arxiv.org/abs/2509.16006) · [PDF](https://arxiv.org/pdf/2509.16006) | needs-review |
-| 2025-09-19 | Agentic Aerial Cinematography: From Dialogue Cues to Cinematic Trajectories | Yifan Lin, Sophie Ziyu Liu, Ran Qi, George Z. Xue et al. | [Abstract](https://arxiv.org/abs/2509.16176) · [PDF](https://arxiv.org/pdf/2509.16176) | needs-review |
 | 2025-09-17 | GestOS: Advanced Hand Gesture Interpretation via Large Language Models to control Any Type of Robot | Artem Lykov, Oleg Kobzarev, Dzmitry Tsetserukou | [Abstract](https://arxiv.org/abs/2509.14412) · [PDF](https://arxiv.org/pdf/2509.14412) | needs-review |
 | 2025-09-15 | Growing Perspectives: Modelling Embodied Perspective Taking and Inner Narrative Development Using Large Language Models | Sabrina Patania, Luca Annese, Anna Lambiase, Anita Pellegrini et al. | [Abstract](https://arxiv.org/abs/2509.11868) · [PDF](https://arxiv.org/pdf/2509.11868) | needs-review |
 | 2025-09-11 | When and How to Express Empathy in Human-Robot Interaction Scenarios | Christian Arzate Cruz, Edwin C. Montiel-Vazquez, Chikara Maeda, Randy Gomez | [Abstract](https://arxiv.org/abs/2509.25200) · [PDF](https://arxiv.org/pdf/2509.25200) | needs-review |
@@ -598,7 +604,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-24 | Robot Learning in the Era of Foundation Models: A Survey | Xuan Xiao, Jiahang Liu, Zhipeng Wang, Yanmin Zhou et al. | [Abstract](https://arxiv.org/abs/2311.14379) · [PDF](https://arxiv.org/pdf/2311.14379) | needs-review |
 | 2023-11-20 | Multi-Agent Strategy Explanations for Human-Robot Collaboration | Ravi Pandya, Michelle Zhao, Changliu Liu, Reid Simmons et al. | [Abstract](https://arxiv.org/abs/2311.11955) · [PDF](https://arxiv.org/pdf/2311.11955) | needs-review |
 | 2023-11-13 | Large Language Models for Robotics: A Survey | Fanlong Zeng, Wensheng Gan, Zezheng Huai, Lichao Sun et al. | [Abstract](https://arxiv.org/abs/2311.07226) · [PDF](https://arxiv.org/pdf/2311.07226) | needs-review |
-| 2023-11-11 | NewsGPT: ChatGPT Integration for Robot-Reporter | Abdelhadi Hireche, Abdelkader Nasreddine Belkacem, Sadia Jamil, Chao Chen | [Abstract](https://arxiv.org/abs/2311.06640) · [PDF](https://arxiv.org/pdf/2311.06640) | needs-review |
 
 ---
 

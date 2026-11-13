@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Grasping%20%26%20Pick-place&specialty=Pending%20specialty%20review#research-workbench)
 
-> 569 conference papers · 1,455 recent arXiv papers
+> 569 conference papers · 1,473 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -30,10 +30,10 @@ This high-volume specialty is split into smaller complete lists so every page re
 |---|---:|---|
 | Conference 2026 | 111 | [Open](./conference-2026.md) |
 | Conference 2025 | 146 | [Open](./conference-2025.md) |
-| Conference 2024 | 148 | [Open](./conference-2024.md) |
-| Conference 2023 | 93 | [Open](./conference-2023.md) |
+| Conference 2024 | 147 | [Open](./conference-2024.md) |
+| Conference 2023 | 94 | [Open](./conference-2023.md) |
 | Conference 2022 | 71 | [Open](./conference-2022.md) |
-| arXiv 2026 | 637 | [Open](./arxiv-2026.md) |
-| arXiv 2025 | 449 | [Open](./arxiv-2025.md) |
-| arXiv 2024 | 331 | [Open](./arxiv-2024.md) |
+| arXiv 2026 | 652 | [Open](./arxiv-2026.md) |
+| arXiv 2025 | 451 | [Open](./arxiv-2025.md) |
+| arXiv 2024 | 332 | [Open](./arxiv-2024.md) |
 | arXiv 2023 | 38 | [Open](./arxiv-2023.md) |

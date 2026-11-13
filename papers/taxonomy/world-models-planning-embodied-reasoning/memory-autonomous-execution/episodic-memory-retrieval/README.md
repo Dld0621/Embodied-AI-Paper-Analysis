@@ -1,12 +1,12 @@
 # Episodic Memory & Retrieval · 情景记忆与经验检索
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Memory%20%26%20Autonomous%20Execution&specialty=Episodic%20Memory%20%26%20Retrieval#research-workbench)
 
-> 3 conference papers · 69 recent arXiv papers
+> 3 conference papers · 71 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,7 +28,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Retrieval-Augmented Embodied Agents | CVPR · Embodied Agent | [Paper](https://arxiv.org/pdf/2404.11699) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01703) | rule-assigned |
 | 2024 | RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model | RSS · Large Language Model | [Paper](https://arxiv.org/abs/2402.10828) · [Index](https://dblp.org/rec/conf/rss/YuanSOZ0KG24) | rule-assigned |
 
-## Recent arXiv papers (69)
+## Recent arXiv papers (71)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -43,6 +43,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-09-14 | P-POSEMEM: Projective Semantic Memory for Consistent Language Grounding under Pose-Graph Rewrites | Ha Sier, Ali Salmasi, Mengya Xu, Haizhou Zhang et al. | [Abstract](https://arxiv.org/abs/2609.15475) · [PDF](https://arxiv.org/pdf/2609.15475) | rule-assigned |
 | 2026-09-10 | Memory as Plans: World-Action Modeling with Memory-Grounded Planning | Sizhe Zhao, Haozhe Xie, Weiyu Zhao, Chenchu Zhang et al. | [Abstract](https://arxiv.org/abs/2609.11561) · [PDF](https://arxiv.org/pdf/2609.11561) | rule-assigned |
 | 2026-09-09 | PACE: Perceived-Latency-Aware Cascading Service Routing and Filler Control for QoE-Efficient Retrieval-Augmented Dialogue Serving | Lin Huang, Yujuan Tan, Weisheng Li, Lixiang Zeng et al. | [Abstract](https://arxiv.org/abs/2609.10372) · [PDF](https://arxiv.org/pdf/2609.10372) | rule-assigned |
+| 2026-08-22 | Building Rapport with Self-Disclosure in Human-Robot Interaction | Haritha Anupindi, Chayan Sarkar, Tapas Nayak, Marynel Vazquez | [Abstract](https://arxiv.org/abs/2611.09905) · [PDF](https://arxiv.org/pdf/2611.09905) | rule-assigned |
 | 2026-08-12 | Video2Track: From Real-World Interaction Videos to Steerable Adversarial Closed-Track Testing for Automated Driving Systems | Mengjie Tian, Xinrui Zhang, Tianyu Li, Peizhi Zhang et al. | [Abstract](https://arxiv.org/abs/2608.11592) · [PDF](https://arxiv.org/pdf/2608.11592) | rule-assigned |
 | 2026-07-27 | Not Forgotten: Implementation and Evaluation of a Personalized Episodic Memory for the Humanoid Robot Head Kim | Steve Aschenbrenner, Marcel Heisler, Thomas Sievers, Christian Becker-Asano | [Abstract](https://arxiv.org/abs/2607.24190) · [PDF](https://arxiv.org/pdf/2607.24190) | rule-assigned |
 | 2026-07-15 | Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving | Yuan Gao, Wenting Miao, Mattia Piccinini, Haoyu Wang et al. | [Abstract](https://arxiv.org/abs/2607.14387) · [PDF](https://arxiv.org/pdf/2607.14387) | rule-assigned |
@@ -79,6 +80,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-07-02 | BioMARS: A Multi-Agent Robotic System for Autonomous Biological Experiments | Yibo Qiu, Zan Huang, Zhiyu Wang, Handi Liu et al. | [Abstract](https://arxiv.org/abs/2507.01485) · [PDF](https://arxiv.org/pdf/2507.01485) | rule-assigned |
 | 2025-06-03 | AURA: Autonomous Upskilling with Retrieval-Augmented Agents | Alvin Zhu, Yusuke Tanaka, Andrew Goldberg, Dennis Hong | [Abstract](https://arxiv.org/abs/2506.02507) · [PDF](https://arxiv.org/pdf/2506.02507) | rule-assigned |
 | 2025-05-25 | Sensorimotor Self-Recognition in Multimodal Large Language Model-Driven Robots | Iñaki Dellibarda Varela, Pablo Romero-Sorozabal, Diego Torricelli, Gabriel Delgado-Oleas et al. | [Abstract](https://arxiv.org/abs/2505.19237) · [PDF](https://arxiv.org/pdf/2505.19237) | rule-assigned |
+| 2025-05-19 | OPA-Pack: Object-Property-Aware Robotic Bin Packing | Jia-Hui Pan, Yeok Tatt Cheah, Zhengzhe Liu, Ka-Hei Hui et al. | [Abstract](https://arxiv.org/abs/2505.13339) · [PDF](https://arxiv.org/pdf/2505.13339) | rule-assigned |
 | 2025-05-04 | Prompt-responsive Object Retrieval with Memory-augmented Student-Teacher Learning | Malte Mosbach, Sven Behnke | [Abstract](https://arxiv.org/abs/2505.02232) · [PDF](https://arxiv.org/pdf/2505.02232) | rule-assigned |
 | 2025-05-02 | Seeking to Collide: Online Safety-Critical Scenario Generation for Autonomous Driving with Retrieval Augmented Large Language Models | Yuewen Mei, Tong Nie, Jian Sun, Ye Tian | [Abstract](https://arxiv.org/abs/2505.00972) · [PDF](https://arxiv.org/pdf/2505.00972) | rule-assigned |
 | 2025-04-30 | LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics | Marc Glocker, Peter Hönig, Matthias Hirschmanner, Markus Vincze | [Abstract](https://arxiv.org/abs/2504.21716) · [PDF](https://arxiv.org/pdf/2504.21716) | rule-assigned |

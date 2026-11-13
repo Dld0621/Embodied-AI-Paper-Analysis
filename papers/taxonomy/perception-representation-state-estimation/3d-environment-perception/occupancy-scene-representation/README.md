@@ -1,12 +1,12 @@
 # Occupancy & Scene Representation · 占据与场景表达
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=Occupancy%20%26%20Scene%20Representation#research-workbench)
 
-> 35 conference papers · 337 recent arXiv papers
+> 35 conference papers · 342 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -60,10 +60,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models | CoRL · Language Model | [Paper](https://arxiv.org/pdf/2207.11514) · [Index](https://dblp.org/rec/conf/corl/HaS22) | rule-assigned |
 | 2022 | Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization | RSS · 3D Scene | [Paper](https://arxiv.org/pdf/2201.13360) · [Publisher](https://doi.org/10.15607/rss.2022.xviii.050) | rule-assigned |
 
-## Recent arXiv papers (337)
+## Recent arXiv papers (342)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-11 | Imitating the Imperfect: Offline-to-Online Robust Imitation Learning from Heterogeneous Demonstrators | Cheng Pan, Nan Lu, Kai Arulkumaran, Josie Hughes | [Abstract](https://arxiv.org/abs/2611.16020) · [PDF](https://arxiv.org/pdf/2611.16020) | rule-assigned |
+| 2026-11-10 | Route-Time Conflict Maps for Cooperative End-to-End Autonomous Driving | Haohua Que, Mingkai Liu, Tianle Zhu, Zhipeng Bao et al. | [Abstract](https://arxiv.org/abs/2611.13494) · [PDF](https://arxiv.org/pdf/2611.13494) | rule-assigned |
+| 2026-11-10 | Persistent Metric-Semantic Maritime Scene Memory from Open-Vocabulary 3D Scene Graphs | Kim Alexander Christensen, Dina Zimmermann, Martin Steinert, Eleni Kelasidi | [Abstract](https://arxiv.org/abs/2611.13903) · [PDF](https://arxiv.org/pdf/2611.13903) | rule-assigned |
+| 2026-11-08 | SoftPAT3D: Physics-Augmented Text-to-3D Scene Generation with Deformables | Lei Shu, Alberta Longhini, Leonidas Guibas, Gordon Wetzstein et al. | [Abstract](https://arxiv.org/abs/2611.11087) · [PDF](https://arxiv.org/pdf/2611.11087) | rule-assigned |
 | 2026-10-31 | Knowing Where to Look: Interactive Object Search via Spatial-Semantic Fusion | Aditya Agarwal, Lucy Cai, Kelly Lu, Travis Manderson et al. | [Abstract](https://arxiv.org/abs/2611.00499) · [PDF](https://arxiv.org/pdf/2611.00499) | rule-assigned |
 | 2026-10-29 | PriorMaskMap: Robust Online Vectorized Map Construction with Biased Priors | Haoming Xu, Wei Li, Yu Hu | [Abstract](https://arxiv.org/abs/2610.39283) · [PDF](https://arxiv.org/pdf/2610.39283) | rule-assigned |
 | 2026-10-25 | T-ConSG: A LiDAR-Based Real-Time Temporal Construction Scene Graph for Dynamic and Evolving Environments | Yilong Chen, Yong K. Cho | [Abstract](https://arxiv.org/abs/2610.34041) · [PDF](https://arxiv.org/pdf/2610.34041) | rule-assigned |
@@ -121,7 +125,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-07-10 | Hydra++: Real-Time Hierarchical 3D Scene Graph Construction With Object-Level Shape Estimation | Hyungtae Lim, Nathan Hughes, Xihang Yu, Ruihan Xu et al. | [Abstract](https://arxiv.org/abs/2607.09455) · [PDF](https://arxiv.org/pdf/2607.09455) | rule-assigned |
 | 2026-07-06 | GEM-Occ: From Visual Geometry Evidence to Embodied Semantic Occupancy Memory | Hu Zhu, Bohan Li, Xianda Guo, Yanlun Peng et al. | [Abstract](https://arxiv.org/abs/2607.05543) · [PDF](https://arxiv.org/pdf/2607.05543) | rule-assigned |
 | 2026-07-06 | Beyond Isolated Objects: Relationship-aware Open Vocabulary Scene Understanding via 3D Scene Graph Analysis | Xianhao Chen, Jiarui Hu, Yuanbo Yang, Xiyu Zhang et al. | [Abstract](https://arxiv.org/abs/2607.05348) · [PDF](https://arxiv.org/pdf/2607.05348) | rule-assigned |
-| 2026-07-06 | A Reliable Context-Aware and Temporal Planning Framework for Autonomous Driving | Argho Dey, Yunfei Yin, Swachha Ray, Md Minhazul Islam et al. | [Abstract](https://arxiv.org/abs/2607.04689) · [PDF](https://arxiv.org/pdf/2607.04689) | rule-assigned |
 | 2026-06-29 | Streaming Gaussian Encoding for 4D Panoptic Occupancy Tracking | Maximilian Luz, Thomas Nürnberg, Yakov Miron, Abhinav Valada | [Abstract](https://arxiv.org/abs/2606.30754) · [PDF](https://arxiv.org/pdf/2606.30754) | rule-assigned |
 | 2026-06-29 | OP3DSG: Open-Vocabulary Part-Aware 3D Scene Graph Generation for Real-World Environments | Yirum Kim, Ue-Hwan Kim | [Abstract](https://arxiv.org/abs/2606.29786) · [PDF](https://arxiv.org/pdf/2606.29786) | rule-assigned |
 | 2026-06-24 | Beyond a Shadow of a Doubt: Close Proximity Geometry Reconstruction Using FMCW Radar Shadow Effects | Felix de Trogoff du Boisguezennec, Benjamin Ramtoula, Daniele De Martini | [Abstract](https://arxiv.org/abs/2606.25829) · [PDF](https://arxiv.org/pdf/2606.25829) | rule-assigned |
@@ -211,6 +214,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-12-03 | What Is The Best 3D Scene Representation for Robotics? From Geometric to Foundation Models | Tianchen Deng, Yue Pan, Shenghai Yuan, Dong Li et al. | [Abstract](https://arxiv.org/abs/2512.03422) · [PDF](https://arxiv.org/pdf/2512.03422) | rule-assigned |
 | 2025-12-01 | SPARK: Sim-ready Part-level Articulated Reconstruction with VLM Knowledge | Yumeng He, Ying Jiang, Jiayin Lu, Yin Yang et al. | [Abstract](https://arxiv.org/abs/2512.01629) · [PDF](https://arxiv.org/pdf/2512.01629) | rule-assigned |
 | 2025-11-29 | Describe Anything Anywhere At Any Moment | Nicolas Gorlo, Lukas Schmid, Luca Carlone | [Abstract](https://arxiv.org/abs/2512.00565) · [PDF](https://arxiv.org/pdf/2512.00565) | rule-assigned |
+| 2025-11-28 | Predicting Risks Before They Happen: Vision-Language Reasoning for Autonomous Driving | Jiaxin Liu, Xiangyu Yan, Liang Peng, Lei Yang et al. | [Abstract](https://arxiv.org/abs/2511.22928) · [PDF](https://arxiv.org/pdf/2511.22928) | rule-assigned |
 | 2025-11-24 | Percept-WAM: Perception-Enhanced World-Awareness-Action Model for Robust End-to-End Autonomous Driving | Jianhua Han, Meng Tian, Jiangtong Zhu, Fan He et al. | [Abstract](https://arxiv.org/abs/2511.19221) · [PDF](https://arxiv.org/pdf/2511.19221) | rule-assigned |
 | 2025-11-24 | AIRHILT: A Human-in-the-Loop Testbed for Multimodal Conflict Detection in Aviation | Omar Garib, Jayaprakash D. Kambhampaty, Olivia J. Pinon Fischer, Dimitri N. Mavris | [Abstract](https://arxiv.org/abs/2511.18718) · [PDF](https://arxiv.org/pdf/2511.18718) | rule-assigned |
 | 2025-11-21 | QueryOcc: Query-based Self-Supervision for 3D Semantic Occupancy | Adam Lilja, Ji Lan, Junsheng Fu, Lars Hammarstrand | [Abstract](https://arxiv.org/abs/2511.17221) · [PDF](https://arxiv.org/pdf/2511.17221) | rule-assigned |
@@ -232,6 +236,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-09-23 | PIE: Perception and Interaction Enhanced End-to-End Motion Planning for Autonomous Driving | Chengran Yuan, Zijian Lu, Zhanqi Zhang, Yimin Zhao et al. | [Abstract](https://arxiv.org/abs/2509.18609) · [PDF](https://arxiv.org/pdf/2509.18609) | rule-assigned |
 | 2025-09-23 | Agentic Scene Policies | Sacha Morin, Kumaraditya Gupta, Mahtab Sandhu, Charlie Gauthier et al. | [Abstract](https://arxiv.org/abs/2509.19571) · [PDF](https://arxiv.org/pdf/2509.19571) | rule-assigned |
 | 2025-09-20 | Text-Scene: A Scene-to-Language Parsing Framework for 3D Scene Understanding | Haoyuan Li, Rui Liu, Hehe Fan, Yi Yang | [Abstract](https://arxiv.org/abs/2509.16721) · [PDF](https://arxiv.org/pdf/2509.16721) | rule-assigned |
+| 2025-09-19 | Agentic Aerial Cinematography: From Dialogue Cues to Cinematic Trajectories | Yifan Lin, Sophie Ziyu Liu, Ran Qi, George Z. Xue et al. | [Abstract](https://arxiv.org/abs/2509.16176) · [PDF](https://arxiv.org/pdf/2509.16176) | rule-assigned |
 | 2025-09-11 | Occupancy-aware Trajectory Planning for Autonomous Valet Parking in Uncertain Dynamic Environments | Farhad Nawaz, Faizan M. Tariq, Sangjae Bae, David Isele et al. | [Abstract](https://arxiv.org/abs/2509.09206) · [PDF](https://arxiv.org/pdf/2509.09206) | rule-assigned |
 | 2025-09-09 | DepthVision: Enabling Robust Vision-Language Models with GAN-Based LiDAR-to-RGB Synthesis for Autonomous Driving | Sven Kirchner, Nils Purschke, Ross Greer, Alois C. Knoll | [Abstract](https://arxiv.org/abs/2509.07463) · [PDF](https://arxiv.org/pdf/2509.07463) | rule-assigned |
 | 2025-08-27 | Context-Aware Risk Estimation in Home Environments: A Probabilistic Framework for Service Robots | Sena Ishii, Akash Chikhalikar, Ankit A. Ravankar, Jose Victorio Salazar Luces et al. | [Abstract](https://arxiv.org/abs/2508.19788) · [PDF](https://arxiv.org/pdf/2508.19788) | rule-assigned |

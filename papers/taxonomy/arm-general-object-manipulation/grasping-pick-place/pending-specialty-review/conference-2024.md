@@ -1,19 +1,18 @@
 # Pending specialty review · 待审专题 · Conference 2024
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 148 papers · complete list for this taxonomy leaf
+> 147 papers · complete list for this taxonomy leaf
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2024 | Diffusion-EDFs: Bi-Equivariant Denoising Generative Modeling on SE(3) for Visual Robotic Manipulation | CVPR · Manipulation | [Paper](https://arxiv.org/pdf/2309.02685) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01705) | needs-review |
 | 2024 | Generate Subgoal Images Before Act: Unlocking the Chain-of-Thought Reasoning in Diffusion Model for Robot Manipulation with Multimodal Prompts | CVPR · Manipulation | [Paper](https://doi.org/10.1109/CVPR52733.2024.01327) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01327) | needs-review |
 | 2024 | ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation | CVPR · Large Language Model | [Paper](https://arxiv.org/pdf/2312.16217) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.01710) | needs-review |
-| 2024 | Composable Part-Based Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2405.05876) · [Index](https://dblp.org/rec/journals/corr/abs-2405-05876) | needs-review |
 | 2024 | Contrastive Imitation Learning for Language-guided Multi-Task Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2406.09738) · [Index](https://dblp.org/rec/journals/corr/abs-2406-09738) | needs-review |
 | 2024 | CrossFormer: Scaling Cross-Embodied Learning for Manipulation | CoRL · Cross-embodiment learning | [Paper](https://arxiv.org/abs/2408.11812) · [Official](https://proceedings.mlr.press/v270/) | needs-review |
 | 2024 | D3RoMa: Disparity Diffusion-based Depth Sensing for Material-Agnostic Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2409.14365) · [Index](https://dblp.org/rec/journals/corr/abs-2409-14365) | needs-review |

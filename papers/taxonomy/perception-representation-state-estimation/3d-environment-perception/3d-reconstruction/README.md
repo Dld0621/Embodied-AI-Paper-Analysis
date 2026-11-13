@@ -1,12 +1,12 @@
 # 3D Reconstruction · 三维重建
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=3D%20Reconstruction#research-workbench)
 
-> 8 conference papers · 245 recent arXiv papers
+> 8 conference papers · 246 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,10 +33,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling | CoRL · Dynamics Model | [Paper](https://arxiv.org/abs/2410.18912) · [Index](https://dblp.org/rec/journals/corr/abs-2410-18912) | rule-assigned |
 | 2024 | Touch-GS: Visual-Tactile Supervised 3D Gaussian Splatting | IROS · Tactile | [Paper](https://arxiv.org/pdf/2403.09875) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802412) | rule-assigned |
 
-## Recent arXiv papers (245)
+## Recent arXiv papers (246)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | OfficeTwin: Realizing 3D Reconstruction of Redundant Scenes through Partial Viewpoint Perception | Quanyun Wu, Kyle Gao, Daisy Li, Kshitij Goyal et al. | [Abstract](https://arxiv.org/abs/2611.10241) · [PDF](https://arxiv.org/pdf/2611.10241) | rule-assigned |
 | 2026-11-03 | Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments | Zhipeng Zhong, Matthew Coombes, Cunjia Liu | [Abstract](https://arxiv.org/abs/2611.05361) · [PDF](https://arxiv.org/pdf/2611.05361) | rule-assigned |
 | 2026-10-31 | 3D Neural Rendering for Automated Ultrasonic Laser Scans | Thomas Pierson, Matthew Mitchell, Kira Perna, Anand Iyer et al. | [Abstract](https://arxiv.org/abs/2611.00527) · [PDF](https://arxiv.org/pdf/2611.00527) | rule-assigned |
 | 2026-10-27 | GOFish: Full Field-of-View Gaussian Splatting and Mesh Extraction | Allen Tu, Meher Gitika Karumuri, Shifan Zhu, Hailing Wang et al. | [Abstract](https://arxiv.org/abs/2610.37818) · [PDF](https://arxiv.org/pdf/2610.37818) | rule-assigned |

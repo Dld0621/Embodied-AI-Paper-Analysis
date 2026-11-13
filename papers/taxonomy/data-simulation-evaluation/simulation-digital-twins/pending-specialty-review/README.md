@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Pending%20specialty%20review#research-workbench)
 
-> 26 conference papers · 137 recent arXiv papers
+> 26 conference papers · 138 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -51,10 +51,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | HandoverSim: A Simulation Framework and Benchmark for Human-to-Robot Object Handovers | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2205.09747) · [Index](https://dblp.org/rec/journals/corr/abs-2205-09747) | needs-review |
 | 2022 | HoloOcean: An Underwater Robotics Simulator | ICRA · Simulator | [Paper](https://doi.org/10.1109/icra46639.2022.9812353) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812353) | needs-review |
 
-## Recent arXiv papers (137)
+## Recent arXiv papers (138)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-11 | Elastra: A Simulation Framework for Elastic Bodies | Youran Sun, Chugang Yi, Xingyu Ren, Haizhao Yang | [Abstract](https://arxiv.org/abs/2611.15112) · [PDF](https://arxiv.org/pdf/2611.15112) | needs-review |
 | 2026-11-06 | Lodos: A Lightweight Simulator Designed for Contact-Rich Interactions with Detailed Meshes | Onur Beker, Andreas René Geist, Georg Martius | [Abstract](https://arxiv.org/abs/2611.08872) · [PDF](https://arxiv.org/pdf/2611.08872) | needs-review |
 | 2026-10-30 | When Does Test-Time Search Help World Action Models? An Empirical Audit of Candidate Selection and Simulator Integrity | Jun Liu, Dajie Sun, Zhenglun Kong, Zhenjiang Fan et al. | [Abstract](https://arxiv.org/abs/2610.41970) · [PDF](https://arxiv.org/pdf/2610.41970) | needs-review |
 | 2026-10-24 | Learning Dexterous Manipulation: Hands, Simulators, Training, and Evaluation | Luai Abuelsamen | [Abstract](https://arxiv.org/abs/2610.33486) · [PDF](https://arxiv.org/pdf/2610.33486) | needs-review |

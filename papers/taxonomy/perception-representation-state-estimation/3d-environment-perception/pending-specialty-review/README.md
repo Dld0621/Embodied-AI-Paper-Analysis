@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=Pending%20specialty%20review#research-workbench)
 
-> 26 conference papers · 460 recent arXiv papers
+> 26 conference papers · 464 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -51,10 +51,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | End-to-End Learning of Hybrid Inverse Dynamics Models for Precise and Compliant Impedance Control | RSS · Dynamics Model | [Paper](https://arxiv.org/pdf/2205.13804) · [Index](https://dblp.org/rec/conf/rss/ReussD0BSN22) | needs-review |
 | 2022 | iSDF: Real-Time Neural Signed Distance Fields for Robot Perception | RSS · Robot Perception | [Paper](https://arxiv.org/abs/2204.02296) · [Index](https://dblp.org/rec/journals/corr/abs-2204-02296) | needs-review |
 
-## Recent arXiv papers (460)
+## Recent arXiv papers (464)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-11 | Where to Generate Touch: Do Image Latents Preserve Material Recognition? | Wanghao Ye, Aarosh Das, Sihan Chen, Yiting Wang et al. | [Abstract](https://arxiv.org/abs/2611.15834) · [PDF](https://arxiv.org/pdf/2611.15834) | needs-review |
+| 2026-11-11 | Interactive Perception of Granular Materials via Robotic Scooping and Force-Torque Sensing | Samuli Hynninen, Mohammad Amman, Meri Mäkelä, Anirvan Dutta et al. | [Abstract](https://arxiv.org/abs/2611.15339) · [PDF](https://arxiv.org/pdf/2611.15339) | needs-review |
+| 2026-11-10 | Personalized Affective Perception via Continual Learning in Human-Agent Negotiation | Mehmet Onur Keskin, Berk Buzcu, Nikhil Churamani, Reyhan Aydogan et al. | [Abstract](https://arxiv.org/abs/2611.14247) · [PDF](https://arxiv.org/pdf/2611.14247) | needs-review |
+| 2026-11-09 | UniOMA: Unified Optimal-Transport Multi-Modal Structural Alignment for Robot Perception | Xinrui Zu, Mark Hoogendoorn, Kevin Sebastian Luck, Shujian Yu | [Abstract](https://arxiv.org/abs/2611.12351) · [PDF](https://arxiv.org/pdf/2611.12351) | needs-review |
+| 2026-11-09 | Reliability-Adaptive Multimodal Relative Pose Tracking for Underwater Leader-Follower Robots | Mingyang Yang, Zeyu Sha, Xiaorui Wang, Jun Wang et al. | [Abstract](https://arxiv.org/abs/2611.11940) · [PDF](https://arxiv.org/pdf/2611.11940) | needs-review |
 | 2026-11-06 | What Limits mmWave Human-State Sensing for Robot Perception? | Shuntian Zheng, Guangming Wang, Hongyang He, Shuai He et al. | [Abstract](https://arxiv.org/abs/2611.08863) · [PDF](https://arxiv.org/pdf/2611.08863) | needs-review |
 | 2026-11-04 | UniLoop: Unified Loop Closure Detection from Retrieval to Geometric Verification and Relative Pose Estimation | Jingwen Yu, Pengyu Wang, Jin Wu, Weinan Chen et al. | [Abstract](https://arxiv.org/abs/2611.06378) · [PDF](https://arxiv.org/pdf/2611.06378) | needs-review |
 | 2026-11-04 | 3D Pose Estimation in Projection Space via Pixel-level Visible Light Communication | Michikuni Eguchi, Takefumi Hiraki | [Abstract](https://arxiv.org/abs/2611.06121) · [PDF](https://arxiv.org/pdf/2611.06121) | needs-review |
@@ -438,7 +443,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-08-01 | Enhancing Online Road Network Perception and Reasoning with Standard Definition Maps | Hengyuan Zhang, David Paz, Yuliang Guo, Arun Das et al. | [Abstract](https://arxiv.org/abs/2408.01471) · [PDF](https://arxiv.org/pdf/2408.01471) | needs-review |
 | 2024-07-24 | Pose Estimation from Camera Images for Underwater Inspection | Luyuan Peng, Hari Vishnu, Mandar Chitre, Yuen Min Too et al. | [Abstract](https://arxiv.org/abs/2407.16961) · [PDF](https://arxiv.org/pdf/2407.16961) | needs-review |
 | 2024-07-23 | PLM-Net: Perception Latency Mitigation Network for Vision-Based Lateral Control of Autonomous Vehicles | Aws Khalil, Jaerock Kwon | [Abstract](https://arxiv.org/abs/2407.16740) · [PDF](https://arxiv.org/pdf/2407.16740) | needs-review |
-| 2024-07-23 | Optimal camera-robot pose estimation in linear time from points and lines | Guangyang Zeng, Biqiang Mu, Qingcheng Zeng, Yuchen Song et al. | [Abstract](https://arxiv.org/abs/2407.16151) · [PDF](https://arxiv.org/pdf/2407.16151) | needs-review |
+| 2024-07-23 | FUSE-PnPL: Flexible, Unified, Statistically Consistent, and Asymptotically Efficient Camera Pose Estimation from Points and Lines | Guangyang Zeng, Yuan Shen, Yiguo Peng, Guodong Shi et al. | [Abstract](https://arxiv.org/abs/2407.16151) · [PDF](https://arxiv.org/pdf/2407.16151) | needs-review |
 | 2024-07-22 | Gel-OPTOFORT Sensor: Multi-axis Force/Torque Measurement and Geometry Observation Using GelSight and Optoelectronic Sensor Technology | Yohan Noh, Harshal Upare, Dalia Osman, Wanlin Li | [Abstract](https://arxiv.org/abs/2407.16082) · [PDF](https://arxiv.org/pdf/2407.16082) | needs-review |
 | 2024-07-17 | Planning and Perception for Unmanned Aerial Vehicles in Object and Environmental Monitoring | Harnaik Dhami | [Abstract](https://arxiv.org/abs/2407.13003) · [PDF](https://arxiv.org/pdf/2407.13003) | needs-review |
 | 2024-07-14 | 3D Foundation Models Enable Simultaneous Geometry and Pose Estimation of Grasped Objects | Weiming Zhi, Haozhan Tang, Tianyi Zhang, Matthew Johnson-Roberson | [Abstract](https://arxiv.org/abs/2407.10331) · [PDF](https://arxiv.org/pdf/2407.10331) | needs-review |
@@ -514,7 +519,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-23 | Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception | Lei Fan, Mingfu Liang, Yunxuan Li, Gang Hua et al. | [Abstract](https://arxiv.org/abs/2311.13793) · [PDF](https://arxiv.org/pdf/2311.13793) | needs-review |
 | 2023-11-21 | Attacking Motion Planners Using Adversarial Perception Errors | Jonathan Sadeghi, Nicholas A. Lord, John Redford, Romain Mueller | [Abstract](https://arxiv.org/abs/2311.12722) · [PDF](https://arxiv.org/pdf/2311.12722) | needs-review |
 | 2023-11-13 | Collaborative Goal Tracking of Multiple Mobile Robots Based on Geometric Graph Neural Network | Weining Lu, Qingquan Lin, Litong Meng, Chenxi Li et al. | [Abstract](https://arxiv.org/abs/2311.07105) · [PDF](https://arxiv.org/pdf/2311.07105) | needs-review |
-| 2023-11-10 | Robust Adversarial Attacks Detection for Deep Learning based Relative Pose Estimation for Space Rendezvous | Ziwei Wang, Nabil Aouf, Jose Pizarro, Christophe Honvault | [Abstract](https://arxiv.org/abs/2311.05992) · [PDF](https://arxiv.org/pdf/2311.05992) | needs-review |
 
 ---
 

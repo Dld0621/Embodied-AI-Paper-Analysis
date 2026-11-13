@@ -1,12 +1,12 @@
 # Failure Detection & Replanning · 失败检测、纠错与重规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Memory%20%26%20Autonomous%20Execution&specialty=Failure%20Detection%20%26%20Replanning#research-workbench)
 
-> 11 conference papers · 164 recent arXiv papers
+> 11 conference papers · 166 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -36,10 +36,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots | IROS · Llm | [Paper](https://arxiv.org/pdf/2507.05118) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246320) | rule-assigned |
 | 2023 | BITS: Bi-level Imitation for Traffic Simulation | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2208.12403) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161167) | rule-assigned |
 
-## Recent arXiv papers (164)
+## Recent arXiv papers (166)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-11 | Recover, Don't Just Continue: Learning from Feedback for Physical Failure Understanding and Correction | Miao Pan, Kaixiang Yao, Xiaohe Zhou, Xu Wang et al. | [Abstract](https://arxiv.org/abs/2611.15651) · [PDF](https://arxiv.org/pdf/2611.15651) | rule-assigned |
+| 2026-11-09 | SCALE: Small-Model-First Concept Abstraction with LLM-Guided Experience Internalization | Hong Su | [Abstract](https://arxiv.org/abs/2611.12120) · [PDF](https://arxiv.org/pdf/2611.12120) | rule-assigned |
+| 2026-11-09 | Correctness Boundaries of Typed Plans for Natural-Language Robot Fleet Control | Artem Tuzov, Dmitrii Vizitei, Evgenii Shlomov, Senya Belykh et al. | [Abstract](https://arxiv.org/abs/2611.12654) · [PDF](https://arxiv.org/pdf/2611.12654) | rule-assigned |
+| 2026-11-07 | REINS: A Self-Evolving Agent Harness for Real-Time Trajectory Planning | Zhihong Cui, Hengyu Liu, Haoran Tang, Shijun Liu et al. | [Abstract](https://arxiv.org/abs/2611.10748) · [PDF](https://arxiv.org/pdf/2611.10748) | rule-assigned |
 | 2026-11-05 | Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement | Wenbo Huang, Jianxin Bi, Shunyu Yang, Ruiyang Si et al. | [Abstract](https://arxiv.org/abs/2611.08318) · [PDF](https://arxiv.org/pdf/2611.08318) | rule-assigned |
 | 2026-11-03 | DiMuRe: Diagnosis-Guided Multilevel Recovery for Robotic Task Execution | Renkai Yi, Yuwei Wu, Haoyu Zhang, Penghao Dai et al. | [Abstract](https://arxiv.org/abs/2611.04226) · [PDF](https://arxiv.org/pdf/2611.04226) | reviewed |
 | 2026-10-29 | LOGIV: Graph-Verified Execution with Causal Local Repair for Long-Horizon Robot Tasks | Enqiao Lu, Yuxiang Xie, Xingrui Yu, Yuyang Wang et al. | [Abstract](https://arxiv.org/abs/2610.40016) · [PDF](https://arxiv.org/pdf/2610.40016) | reviewed |
@@ -94,7 +98,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-18 | MirrorDuo: Reflection-Consistent Visuomotor Learning from Mirrored Demonstration Pairs | Zheyu Zhuang, Ruiyu Wang, Giovanni Luca Marchetti, Florian T. Pokorny et al. | [Abstract](https://arxiv.org/abs/2606.20048) · [PDF](https://arxiv.org/pdf/2606.20048) | rule-assigned |
 | 2026-06-18 | Dual-Agent Framework for Cross-Model Verified Translation of Natural-Language Protocols into Robotic Laboratory Platform | Hyeonna Choi, Jung Yup Kim, Hyuneui Lim, Seunggyu Jeon | [Abstract](https://arxiv.org/abs/2606.20120) · [PDF](https://arxiv.org/pdf/2606.20120) | rule-assigned |
 | 2026-06-16 | Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement | Mingtong Zhang, Dhruv Shah | [Abstract](https://arxiv.org/abs/2606.18247) · [PDF](https://arxiv.org/pdf/2606.18247) | rule-assigned |
-| 2026-06-16 | AI Sandboxes: A Threat Model, Taxonomy, and Measurement Framework | Inderjeet Singh, Haitham Mahmoud, Andrés Murillo | [Abstract](https://arxiv.org/abs/2606.18532) · [PDF](https://arxiv.org/pdf/2606.18532) | rule-assigned |
 | 2026-06-08 | Who Is the Agent Talking To? Participant-Aware Role Switching for Embodied Student-Support Dialogue | Iro Samuel, Filip Janik, Ewa Olton, Robert Smales et al. | [Abstract](https://arxiv.org/abs/2606.09255) · [PDF](https://arxiv.org/pdf/2606.09255) | rule-assigned |
 | 2026-06-04 | Dynamic Multi-Agent Pickup and Delivery in Robotic Cellular Warehousing Systems | Cheng Ren, Ming Li, Xinping Guan, George Q. Huang | [Abstract](https://arxiv.org/abs/2606.05669) · [PDF](https://arxiv.org/pdf/2606.05669) | rule-assigned |
 | 2026-06-02 | Denoising Tells When to Replan: Denoising-Variance Adaptive Chunking for Flow-Based Robot Policies | Xiangdong Feng, Yuxuan Cheng, Chen Shi, Boyao Han et al. | [Abstract](https://arxiv.org/abs/2606.03847) · [PDF](https://arxiv.org/pdf/2606.03847) | rule-assigned |
@@ -130,7 +133,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-01-01 | SLAP: Slapband-based Autonomous Perching Drone with Failure Recovery for Vertical Tree Trunks | Julia Di, Kenneth A. W. Hoffmann, Tony G. Chen, Tian-Ao Ren et al. | [Abstract](https://arxiv.org/abs/2601.00238) · [PDF](https://arxiv.org/pdf/2601.00238) | rule-assigned |
 | 2025-12-24 | RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic | Le Wang, Zonghao Ying, Xiao Yang, Quanchen Zou et al. | [Abstract](https://arxiv.org/abs/2512.21220) · [PDF](https://arxiv.org/pdf/2512.21220) | rule-assigned |
 | 2025-12-12 | Architecting Large Action Models for Human-in-the-Loop Intelligent Robots | Kanisorn Sangchai, Methasit Boonpun, Withawin Kraipetchara, Paulo Garcia | [Abstract](https://arxiv.org/abs/2512.11620) · [PDF](https://arxiv.org/pdf/2512.11620) | rule-assigned |
-| 2025-12-01 | Guardian: Detecting Robotic Planning and Execution Errors with Vision-Language Models | Paul Pacaud, Ricardo Garcia, Shizhe Chen, Cordelia Schmid | [Abstract](https://arxiv.org/abs/2512.01946) · [PDF](https://arxiv.org/pdf/2512.01946) | rule-assigned |
 | 2025-12-01 | Data-Centric Visual Development for Self-Driving Labs | Anbang Liu, Guanzhong Hu, Jiayi Wang, Ping Guo et al. | [Abstract](https://arxiv.org/abs/2512.02018) · [PDF](https://arxiv.org/pdf/2512.02018) | rule-assigned |
 | 2025-11-23 | APULSE: A Scalable Hybrid Algorithm for the RCSPP on Large-Scale Dense Graphs | Nuno Soares, António Grilo | [Abstract](https://arxiv.org/abs/2511.18236) · [PDF](https://arxiv.org/pdf/2511.18236) | rule-assigned |
 | 2025-11-21 | ROVER: Regulator-Driven Robust Temporal Verification of Black-Box Robot Policies | Kristy Sakano, Jianyu An, Dinesh Manocha, Huan Xu | [Abstract](https://arxiv.org/abs/2511.17781) · [PDF](https://arxiv.org/pdf/2511.17781) | rule-assigned |

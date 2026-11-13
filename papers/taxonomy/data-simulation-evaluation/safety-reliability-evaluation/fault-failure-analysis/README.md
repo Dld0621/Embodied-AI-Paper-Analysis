@@ -1,12 +1,12 @@
 # Fault & Failure Analysis · 故障与失效分析
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Safety%20%26%20Reliability%20Evaluation&specialty=Fault%20%26%20Failure%20Analysis#research-workbench)
 
-> 3 conference papers · 110 recent arXiv papers
+> 3 conference papers · 112 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | Pseudocode-Guided Structured Reasoning for Automating Reliable Inference in Vision-Language Models | ICRA · Language Model | [Paper](https://arxiv.org/pdf/2605.19663) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697384) | rule-assigned |
 | 2025 | On the Vulnerability of LLM/VLM-Controlled Robotics | IROS · Llm | [Paper](https://arxiv.org/pdf/2402.10340) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246863) | rule-assigned |
 
-## Recent arXiv papers (110)
+## Recent arXiv papers (112)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | Maximizing LLM Utility While Managing LLM Fallibility | Ekta U. Samani, Christopher G. Atkeson | [Abstract](https://arxiv.org/abs/2611.17020) · [PDF](https://arxiv.org/pdf/2611.17020) | rule-assigned |
 | 2026-11-04 | A Layered View of LLM Support in Underwater Robotics | Federico Celi, Leonardo Zacchini, Gabriele Ferri | [Abstract](https://arxiv.org/abs/2611.06162) · [PDF](https://arxiv.org/pdf/2611.06162) | rule-assigned |
 | 2026-10-26 | Resource-Performance Trade-offs in Intra-Aisle Robotic Picking: A Discrete-Event Simulation Comparison of Shuttle Configurations With and Without an Onboard Tote Lift | Mohsen Reda Mahmoud Moursi | [Abstract](https://arxiv.org/abs/2610.34708) · [PDF](https://arxiv.org/pdf/2610.34708) | rule-assigned |
 | 2026-10-22 | Know When to Escalate: Critic-Guided Adaptive Execution for Cloud-Local Embodied Agents | Wei Zhang, Lirong Xiang, Charles Fleming | [Abstract](https://arxiv.org/abs/2610.30587) · [PDF](https://arxiv.org/pdf/2610.30587) | rule-assigned |
@@ -48,6 +49,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-24 | Privileged Critic Training Enables Sensor-Free Thruster Fault Adaptation in End-to-End RL | Ricard Marsal I Castan, Miguel A. Olivares-Méndez | [Abstract](https://arxiv.org/abs/2608.22976) · [PDF](https://arxiv.org/pdf/2608.22976) | rule-assigned |
 | 2026-08-16 | Detachable Wire Drive : Reconfigurable Robot Architecture with Shared Actuators | Takahiro Hattori, Kento Kawaharazuka, Kei Okada | [Abstract](https://arxiv.org/abs/2608.15461) · [PDF](https://arxiv.org/pdf/2608.15461) | rule-assigned |
 | 2026-07-26 | LabRobFail: A Benchmark for Robotic Failure Analysis in Chemical Self-driving Laboratory | Haobo Wang, Baoli Sun, Anqi Zou, Dongsheng Huang et al. | [Abstract](https://arxiv.org/abs/2607.23704) · [PDF](https://arxiv.org/pdf/2607.23704) | rule-assigned |
+| 2026-07-06 | RCT-AD: Reliability-Aware Context and Temporal BEV Reasoning for End-to-End Autonomous Driving | Argho Dey, Yunfei Yin, Swachha Ray, Md Minhazul Islam et al. | [Abstract](https://arxiv.org/abs/2607.04689) · [PDF](https://arxiv.org/pdf/2607.04689) | rule-assigned |
 | 2026-06-24 | Reliability-Asymmetric Spacecraft Autonomy: Co-Designing a Capable Learned GNC Stack with a Verified, Adaptation-Aware Runtime Shield | Alireza Shojaei | [Abstract](https://arxiv.org/abs/2606.25366) · [PDF](https://arxiv.org/pdf/2606.25366) | rule-assigned |
 | 2026-06-17 | Safe, Real-Time Active Model Discrimination and Fault Diagnosis for Nonlinear Systems via Differentiable Reachability | Xinpei Ni, Melkior Ornik, Glen Chou, Samuel Coogan | [Abstract](https://arxiv.org/abs/2606.19590) · [PDF](https://arxiv.org/pdf/2606.19590) | rule-assigned |
 | 2026-06-16 | When Robots Sleep: Offline Skill Consolidation for Shared-Policy Robot Learning | Nethmi Jayasinghe, Diana Gontero, Amit Ranjan Trivedi | [Abstract](https://arxiv.org/abs/2606.17493) · [PDF](https://arxiv.org/pdf/2606.17493) | rule-assigned |

@@ -1,7 +1,7 @@
 # Domain Adaptation & Transfer · 域适配与迁移
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Sim-to-real%20Transfer&specialty=Domain%20Adaptation%20%26%20Transfer#research-workbench)
@@ -71,6 +71,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-11 | Reading the Table: Sim-to-Real Game State Detection for the Chef's Hat Card Game | Connor Gäde, Matthias Kerzel, Hauke Bünning, Jan-Gerrit Habekost et al. | [Abstract](https://arxiv.org/abs/2611.15524) · [PDF](https://arxiv.org/pdf/2611.15524) | rule-assigned |
+| 2026-11-11 | Embedded Sim-to-Real Visual Servoing: Learned Reaching and Force-Guided Placement | Dezhi Sun, Duy Khang Banh, Kenan Niu | [Abstract](https://arxiv.org/abs/2611.15658) · [PDF](https://arxiv.org/pdf/2611.15658) | rule-assigned |
 | 2026-11-06 | Autonomous Particle Image Velocimetry Using Zero-Shot Sim-to-Real Reinforcement Learning | Chang Rajani, Luke Sebastien Marsden, Stephan Kunz, Claudio Mucignat et al. | [Abstract](https://arxiv.org/abs/2611.09679) · [PDF](https://arxiv.org/pdf/2611.09679) | rule-assigned |
 | 2026-11-02 | KlaskTron: An Open-Source Platform for Physical Adversarial Multi-Agent RL | Aswin Ramachandran, Jona Schulz, Maurus Derungs, Carlo Angelini et al. | [Abstract](https://arxiv.org/abs/2611.03138) · [PDF](https://arxiv.org/pdf/2611.03138) | rule-assigned |
 | 2026-11-02 | KlaskTron-IL: A Contact-Rich Adversarial Imitation Learning Benchmark with a Validated Sim-to-Real Bridge | Nicklas Sohm, Aswin Ramachandran, Raffaello D'Andrea | [Abstract](https://arxiv.org/abs/2611.03091) · [PDF](https://arxiv.org/pdf/2611.03091) | rule-assigned |
@@ -163,7 +165,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-04-01 | Simulating Realistic LiDAR Data Under Adverse Weather for Autonomous Vehicles: A Physics-Informed Learning Approach | Vivek Anand, Bharat Lohani, Rakesh Mishra, Gaurav Pandey | [Abstract](https://arxiv.org/abs/2604.01254) · [PDF](https://arxiv.org/pdf/2604.01254) | rule-assigned |
 | 2026-03-30 | Sim-to-Real Fruit Detection Using Synthetic Data: Quantitative Evaluation and Embedded Deployment with Isaac Sim | Martina Hutter-Mironovova | [Abstract](https://arxiv.org/abs/2603.28670) · [PDF](https://arxiv.org/pdf/2603.28670) | rule-assigned |
 | 2026-03-23 | RAFL: Generalizable Sim-to-Real of Soft Robots with Residual Acceleration Field Learning | Dong Heon Cho, Boyuan Chen | [Abstract](https://arxiv.org/abs/2603.22039) · [PDF](https://arxiv.org/pdf/2603.22039) | rule-assigned |
-| 2026-03-21 | Swim2Real: VLM-Guided System Identification for Sim-to-Real Transfer | Kevin Qiu, Kyle Walker, Mike Y. Michelis, Marek Cygan et al. | [Abstract](https://arxiv.org/abs/2603.20827) · [PDF](https://arxiv.org/pdf/2603.20827) | rule-assigned |
 | 2026-03-19 | Articulated-Body Dynamics Network: Dynamics-Grounded Prior for Robot Learning | Sangwoo Shin, Kunzhao Ren, Xiaobin Xiong, Josiah P. Hanna | [Abstract](https://arxiv.org/abs/2603.19078) · [PDF](https://arxiv.org/pdf/2603.19078) | rule-assigned |
 | 2026-03-17 | Neural Aided Adaptive Innovation-Based Invariant Kalman Filter | Barak Diker, Itzik Klein | [Abstract](https://arxiv.org/abs/2603.26709) · [PDF](https://arxiv.org/pdf/2603.26709) | rule-assigned |
 | 2026-03-16 | ExpertGen: Scalable Sim-to-Real Expert Policy Learning from Imperfect Behavior Priors | Zifan Xu, Ran Gong, Maria Vittoria Minniti, Kausik Sivakumar et al. | [Abstract](https://arxiv.org/abs/2603.15956) · [PDF](https://arxiv.org/pdf/2603.15956) | rule-assigned |
@@ -336,7 +337,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-02 | A Multifidelity Sim-to-Real Pipeline for Verifiable and Compositional Reinforcement Learning | Cyrus Neary, Christian Ellis, Aryaman Singh Samyal, Craig Lennon et al. | [Abstract](https://arxiv.org/abs/2312.01249) · [PDF](https://arxiv.org/pdf/2312.01249) | rule-assigned |
 | 2023-11-29 | Transfer Learning in Robotics: An Upcoming Breakthrough? A Review of Promises and Challenges | Noémie Jaquier, Michael C. Welle, Andrej Gams, Kunpeng Yao et al. | [Abstract](https://arxiv.org/abs/2311.18044) · [PDF](https://arxiv.org/pdf/2311.18044) | rule-assigned |
 | 2023-11-28 | HD Maps are Lane Detection Generalizers: A Novel Generative Framework for Single-Source Domain Generalization | Daeun Lee, Minhyeok Heo, Jiwon Kim | [Abstract](https://arxiv.org/abs/2311.16589) · [PDF](https://arxiv.org/pdf/2311.16589) | rule-assigned |
-| 2023-11-09 | Differentiable Fluid Physics Parameter Identification Via Stirring | Wenqiang Xu, Dongzhe Zheng, Yutong Li, Jieji Ren et al. | [Abstract](https://arxiv.org/abs/2311.05137) · [PDF](https://arxiv.org/pdf/2311.05137) | rule-assigned |
 
 ---
 

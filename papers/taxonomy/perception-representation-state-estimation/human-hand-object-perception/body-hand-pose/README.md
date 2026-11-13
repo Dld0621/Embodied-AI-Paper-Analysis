@@ -1,12 +1,12 @@
 # Body & Hand Pose · 人体与手部姿态
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Human%20%26%20Hand-object%20Perception&specialty=Body%20%26%20Hand%20Pose#research-workbench)
 
-> 3 conference papers · 45 recent arXiv papers
+> 3 conference papers · 46 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,17 +28,18 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Contextual Emotion Recognition using Large Vision Language Models | IROS · Language Model | [Paper](https://arxiv.org/pdf/2405.08992) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802538) | rule-assigned |
 | 2023 | PoseFusion: Robust Object-in-Hand Pose Estimation with SelectLSTM | IROS · In Hand | [Paper](https://arxiv.org/pdf/2304.04523) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341688) | rule-assigned |
 
-## Recent arXiv papers (45)
+## Recent arXiv papers (46)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-09 | EgoLabel: Zero-Shot Egocentric Auto-Labeling with Cross-Modal Consistency | Xiaozhi Zhang, Changjia Xu, Yaoyuan Yan, Haoxiang Jie et al. | [Abstract](https://arxiv.org/abs/2611.12149) · [PDF](https://arxiv.org/pdf/2611.12149) | rule-assigned |
 | 2026-10-19 | EgoRayFormer: Ray-Space Stereo Refinement for Egocentric 3D Human Pose Estimation | Haozhe Wang, Songyuan Wu, Jihai Xu, Jie Zhao | [Abstract](https://arxiv.org/abs/2610.26641) · [PDF](https://arxiv.org/pdf/2610.26641) | rule-assigned |
 | 2026-09-08 | TacClip: a clip-on sensor measures dynamic contact forces without covering the fingerpads | Yuqian Ye, Hao Li, Jingxi Xu, Haojun Feng et al. | [Abstract](https://arxiv.org/abs/2609.08214) · [PDF](https://arxiv.org/pdf/2609.08214) | rule-assigned |
 | 2026-09-04 | Sound-based Multi-Person 3D Pose Estimation | Yusuke Oumi, Yuto Shibata, Go Irie, Akisato Kimura et al. | [Abstract](https://arxiv.org/abs/2609.04902) · [PDF](https://arxiv.org/pdf/2609.04902) | rule-assigned |
 | 2026-07-23 | Factorized Spatio-Temporal Convolutions for Human Pose Estimation from Planar Lidar | Simone Arreghini, Mirko Nava, Nicholas Carlotti, Antonio Paolillo et al. | [Abstract](https://arxiv.org/abs/2607.21309) · [PDF](https://arxiv.org/pdf/2607.21309) | rule-assigned |
 | 2026-06-23 | Invariant Kalman filtering for extended pose estimation in multi-IMU articulated rigid-body systems | Sven Goffin, Cédric Schwartz, Silvère Bonnabel, Olivier Brüls et al. | [Abstract](https://arxiv.org/abs/2606.25083) · [PDF](https://arxiv.org/pdf/2606.25083) | rule-assigned |
 | 2026-06-08 | Real-time body pose non-verbal communication with a consistency-based reliability measure | Alina Marcu, Dragos Costea, Cristina Lazar, Marius Leordeanu | [Abstract](https://arxiv.org/abs/2606.09390) · [PDF](https://arxiv.org/pdf/2606.09390) | rule-assigned |
-| 2026-05-20 | AVI-HT: Adaptive Vision-IMU Fusion for 3D Hand Tracking | Ziyi Kou, Ankit Kumar, Mia Huang, Taylor Niehues et al. | [Abstract](https://arxiv.org/abs/2605.21714) · [PDF](https://arxiv.org/pdf/2605.21714) | rule-assigned |
+| 2026-05-20 | AVI-HT: Adaptive Vision-IMU Fusion for 3D Gloved Hand Tracking | Ziyi Kou, Ankit Kumar, Mia Huang, Taylor Niehues et al. | [Abstract](https://arxiv.org/abs/2605.21714) · [PDF](https://arxiv.org/pdf/2605.21714) | rule-assigned |
 | 2026-05-12 | EgoEV-HandPose: Egocentric 3D Hand Pose Estimation and Gesture Recognition with Stereo Event Cameras | Luming Wang, Hao Shi, Jiajun Zhai, Kailun Yang et al. | [Abstract](https://arxiv.org/abs/2605.12297) · [PDF](https://arxiv.org/pdf/2605.12297) | rule-assigned |
 | 2026-04-18 | Vision-Based Human Awareness Estimation for Enhanced Safety and Efficiency of AMRs in Industrial Warehouses | Maximilian Haug, Christian Stippel, Lukas Pscherer, Benjamin Schwendinger et al. | [Abstract](https://arxiv.org/abs/2604.18627) · [PDF](https://arxiv.org/pdf/2604.18627) | rule-assigned |
 | 2026-04-09 | GenPHRI: Agentic Generative Simulation for Physical Human-Robot Interaction | Junxiang Wang, Nir Pechuk, Xinwen Xu, Tiancheng Wu et al. | [Abstract](https://arxiv.org/abs/2604.08664) · [PDF](https://arxiv.org/pdf/2604.08664) | rule-assigned |

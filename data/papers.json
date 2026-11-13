@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-13",
   "window": {
     "start": 2022,
     "end": 2026
@@ -5870,6 +5870,36 @@
       ]
     },
     {
+      "title": "D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping",
+      "year": 2026,
+      "venue": "ICLR",
+      "track": "Data, Simulation & Evaluation",
+      "topic": "Dexterous",
+      "abstract": "Simulation provides a cost-effective and flexible platform for data generation and policy learning to develop robotic systems. However, bridging the gap between simulation and real-world dynamics remains a significant challenge, especially in physical parameter identification. In this work, we introduce a real-to-sim-to-real engine that leverages the Gaussian Splat representations to build a differentiable engine, enabling object mass identification from real-world visual observations and robot control signals, while enabling grasping policy learning simultaneously. Through optimizing the mass of the manipulated object, our method automatically builds high-fidelity and physically plausible digital twins. Additionally, we propose a novel approach to train force-aware grasping policies from limited data by transferring feasible human demonstrations into simulated robot demonstrations. Through comprehensive experiments, we demonstrate that our engine achieves accurate and robust performance in mass identification across various object geometries and mass values. Those optimized mass values facilitate force-aware policy learning, achieving superior and high performance in object grasping, effectively reducing the sim-to-real gap.",
+      "paper_url": "https://arxiv.org/abs/2603.01151",
+      "official_url": "https://dblp.org/rec/journals/corr/abs-2603-01151",
+      "source_type": "bibliographic",
+      "discovery_source": "Semantic Scholar bulk API",
+      "admission_track": "Dexterity & Teleoperation",
+      "subcategory": "Sim-to-real Transfer",
+      "specialty": "System Identification & Sim Calibration",
+      "taxonomy_evidence": "reviewed:Title/abstract review. The differentiable engine identifies object mass from visual observations and control signals. Calibrated digital twins support learning force-aware grasping policies from demonstrations. https://proceedings.iclr.cc/paper_files/paper/2026/hash/ca09b375e8e2b2c789698c079a9fc51c-Abstract-Conference.html",
+      "primary_evidence": "reviewed:Title/abstract review. The differentiable engine identifies object mass from visual observations and control signals. Calibrated digital twins support learning force-aware grasping policies from demonstrations. https://proceedings.iclr.cc/paper_files/paper/2026/hash/ca09b375e8e2b2c789698c079a9fc51c-Abstract-Conference.html",
+      "subcategory_status": "rule-supported",
+      "classification_status": "reviewed",
+      "method_tags": [],
+      "embodiment_tags": [
+        "Dexterous Hands"
+      ],
+      "data_tags": [
+        "Simulation"
+      ],
+      "related_topics": [
+        "Contact-rich"
+      ],
+      "related_taxonomy_paths": []
+    },
+    {
       "title": "DataMIL: Selecting Data for Robot Imitation Learning with Datamodels",
       "year": 2026,
       "venue": "ICLR",
@@ -7538,36 +7568,6 @@
       "related_taxonomy_paths": []
     },
     {
-      "title": "D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping",
-      "year": 2026,
-      "venue": "ICLR",
-      "track": "Data, Simulation & Evaluation",
-      "topic": "Dexterous",
-      "abstract": "Simulation provides a cost-effective and flexible platform for data generation and policy learning to develop robotic systems. However, bridging the gap between simulation and real-world dynamics remains a significant challenge, especially in physical parameter identification. In this work, we introduce a real-to-sim-to-real engine that leverages the Gaussian Splat representations to build a differentiable engine, enabling object mass identification from real-world visual observations and robot control signals, while enabling grasping policy learning simultaneously. Through optimizing the mass of the manipulated object, our method automatically builds high-fidelity and physically plausible digital twins. Additionally, we propose a novel approach to train force-aware grasping policies from limited data by transferring feasible human demonstrations into simulated robot demonstrations. Through comprehensive experiments, we demonstrate that our engine achieves accurate and robust performance in mass identification across various object geometries and mass values. Those optimized mass values facilitate force-aware policy learning, achieving superior and high performance in object grasping, effectively reducing the sim-to-real gap.",
-      "paper_url": "https://arxiv.org/abs/2603.01151",
-      "official_url": "https://dblp.org/rec/journals/corr/abs-2603-01151",
-      "source_type": "bibliographic",
-      "discovery_source": "Semantic Scholar bulk API",
-      "admission_track": "Dexterity & Teleoperation",
-      "subcategory": "Sim-to-real Transfer",
-      "specialty": "System Identification & Sim Calibration",
-      "taxonomy_evidence": "reviewed:Title/abstract review. The differentiable engine identifies object mass from visual observations and control signals. Calibrated digital twins support learning force-aware grasping policies from demonstrations. https://proceedings.iclr.cc/paper_files/paper/2026/hash/ca09b375e8e2b2c789698c079a9fc51c-Abstract-Conference.html",
-      "primary_evidence": "reviewed:Title/abstract review. The differentiable engine identifies object mass from visual observations and control signals. Calibrated digital twins support learning force-aware grasping policies from demonstrations. https://proceedings.iclr.cc/paper_files/paper/2026/hash/ca09b375e8e2b2c789698c079a9fc51c-Abstract-Conference.html",
-      "subcategory_status": "rule-supported",
-      "classification_status": "reviewed",
-      "method_tags": [],
-      "embodiment_tags": [
-        "Dexterous Hands"
-      ],
-      "data_tags": [
-        "Simulation"
-      ],
-      "related_topics": [
-        "Contact-rich"
-      ],
-      "related_taxonomy_paths": []
-    },
-    {
       "title": "DemoGrasp: Universal Dexterous Grasping from a Single Demonstration",
       "year": 2026,
       "venue": "ICLR",
@@ -7654,41 +7654,6 @@
       "subcategory_status": "rule-supported",
       "classification_status": "rule-assigned",
       "method_tags": [],
-      "embodiment_tags": [
-        "Dexterous Hands"
-      ],
-      "data_tags": [
-        "Simulation"
-      ],
-      "related_topics": [
-        "Dexterous Manipulation"
-      ],
-      "related_taxonomy_paths": []
-    },
-    {
-      "title": "RFS: Reinforcement Learning with Residual Flow Steering for Dexterous Manipulation",
-      "year": 2026,
-      "venue": "ICLR",
-      "track": "Policy Learning & Embodied Foundation Models",
-      "topic": "Dexterous",
-      "abstract": "Imitation learning has emerged as an effective approach for bootstrapping sequential decision-making in robotics, achieving strong performance even in high-dimensional dexterous manipulation tasks. Recent behavior cloning methods further leverage expressive generative models, such as diffusion models and flow matching, to represent multimodal action distributions. However, policies pretrained in this manner often exhibit limited generalization and require additional fine-tuning to achieve robust performance at deployment time. Such adaptation must preserve the global exploration benefits of pretraining while enabling rapid correction of local execution errors. We propose Residual Flow Steering(RFS), a data-efficient reinforcement learning framework for adapting pretrained generative policies. RFS steers a pretrained flow-matching policy by jointly optimizing a residual action and a latent noise distribution, enabling complementary forms of exploration: local refinement through residual corrections and global exploration through latent-space modulation. This design allows efficient adaptation while retaining the expressive structure of the pretrained policy. We demonstrate the effectiveness of RFS on dexterous manipulation tasks, showing efficient fine-tuning in both simulation and real-world settings when adapting pretrained base policies. Project website:https://weirdlabuw.github.io/rfs.",
-      "paper_url": "https://arxiv.org/abs/2602.01789",
-      "official_url": "https://dblp.org/rec/journals/corr/abs-2602-01789",
-      "source_type": "bibliographic",
-      "discovery_source": "Semantic Scholar bulk API",
-      "admission_track": "Dexterity & Teleoperation",
-      "subcategory": "Reinforcement Learning",
-      "specialty": "Online Reinforcement Learning",
-      "taxonomy_evidence": "reviewed:Title/abstract review. Reinforcement learning jointly steers a pretrained flow policy through a residual action and the distribution of its latent noise. The study evaluates dexterous manipulation policies. https://arxiv.org/abs/2602.01789",
-      "primary_evidence": "reviewed:Title/abstract review. Reinforcement learning jointly steers a pretrained flow policy through a residual action and the distribution of its latent noise. The study evaluates dexterous manipulation policies. https://arxiv.org/abs/2602.01789",
-      "subcategory_status": "rule-supported",
-      "classification_status": "reviewed",
-      "method_tags": [
-        "Diffusion",
-        "Flow Matching",
-        "Imitation Learning",
-        "Reinforcement Learning"
-      ],
       "embodiment_tags": [
         "Dexterous Hands"
       ],
@@ -17527,6 +17492,41 @@
         "Simulation"
       ],
       "related_topics": [],
+      "related_taxonomy_paths": []
+    },
+    {
+      "title": "RFS: Reinforcement Learning with Residual Flow Steering for Dexterous Manipulation",
+      "year": 2026,
+      "venue": "ICLR",
+      "track": "Policy Learning & Embodied Foundation Models",
+      "topic": "Dexterous",
+      "abstract": "Imitation learning has emerged as an effective approach for bootstrapping sequential decision-making in robotics, achieving strong performance even in high-dimensional dexterous manipulation tasks. Recent behavior cloning methods further leverage expressive generative models, such as diffusion models and flow matching, to represent multimodal action distributions. However, policies pretrained in this manner often exhibit limited generalization and require additional fine-tuning to achieve robust performance at deployment time. Such adaptation must preserve the global exploration benefits of pretraining while enabling rapid correction of local execution errors. We propose Residual Flow Steering(RFS), a data-efficient reinforcement learning framework for adapting pretrained generative policies. RFS steers a pretrained flow-matching policy by jointly optimizing a residual action and a latent noise distribution, enabling complementary forms of exploration: local refinement through residual corrections and global exploration through latent-space modulation. This design allows efficient adaptation while retaining the expressive structure of the pretrained policy. We demonstrate the effectiveness of RFS on dexterous manipulation tasks, showing efficient fine-tuning in both simulation and real-world settings when adapting pretrained base policies. Project website:https://weirdlabuw.github.io/rfs.",
+      "paper_url": "https://arxiv.org/abs/2602.01789",
+      "official_url": "https://dblp.org/rec/journals/corr/abs-2602-01789",
+      "source_type": "bibliographic",
+      "discovery_source": "Semantic Scholar bulk API",
+      "admission_track": "Dexterity & Teleoperation",
+      "subcategory": "Reinforcement Learning",
+      "specialty": "Online Reinforcement Learning",
+      "taxonomy_evidence": "reviewed:Title/abstract review. Reinforcement learning jointly steers a pretrained flow policy through a residual action and the distribution of its latent noise. The study evaluates dexterous manipulation policies. https://arxiv.org/abs/2602.01789",
+      "primary_evidence": "reviewed:Title/abstract review. Reinforcement learning jointly steers a pretrained flow policy through a residual action and the distribution of its latent noise. The study evaluates dexterous manipulation policies. https://arxiv.org/abs/2602.01789",
+      "subcategory_status": "rule-supported",
+      "classification_status": "reviewed",
+      "method_tags": [
+        "Diffusion",
+        "Flow Matching",
+        "Imitation Learning",
+        "Reinforcement Learning"
+      ],
+      "embodiment_tags": [
+        "Dexterous Hands"
+      ],
+      "data_tags": [
+        "Simulation"
+      ],
+      "related_topics": [
+        "Dexterous Manipulation"
+      ],
       "related_taxonomy_paths": []
     },
     {
@@ -40899,7 +40899,7 @@
       "topic": "Humanoid",
       "abstract": "Humans exhibit diverse and expressive whole-body movements. However, attaining human-like whole-body coordination in humanoid robots remains challenging, as conventional approaches that mimic whole-body motions often neglect the distinct roles of upper and lower body. This oversight leads to computationally intensive policy learning and frequently causes robot instability and falls during real-world execution. To address these issues, we propose Adversarial Locomotion and Motion Imitation (ALMI), a novel framework that enables adversarial policy learning between upper and lower body. Specifically, the lower body aims to provide robust locomotion capabilities to follow velocity commands while the upper body tracks various motions. Conversely, the upper-body policy ensures effective motion tracking when the robot executes velocity-based movements. Through iterative updates, these policies achieve coordinated whole-body control, which can be extended to loco-manipulation tasks with teleoperation systems. Extensive experiments demonstrate that our method achieves robust locomotion and precise motion tracking in both simulation and on the full-size Unitree H1 robot. Additionally, we release a large-scale whole-body motion control dataset featuring high-quality episodic trajectories from MuJoCo simulations deployable on real robots. The project page is https://almi-humanoid.github.io.",
       "paper_url": "https://arxiv.org/abs/2504.14305",
-      "official_url": "https://dblp.org/rec/conf/nips/ShiLWLSZSBL25",
+      "official_url": "https://dblp.org/rec/journals/corr/abs-2504-14305",
       "source_type": "bibliographic",
       "discovery_source": "Semantic Scholar bulk API",
       "admission_track": "Humanoids & Locomotion",
@@ -52636,7 +52636,7 @@
       "topic": "Visuomotor",
       "abstract": "Generative modeling-based visuomotor policies have been widely adopted in robotic manipulation, attributed to their ability to model multimodal action distributions. However, the high inference cost of multi-step sampling limits its applicability in real-time robotic systems. Existing approaches accelerate sampling in generative modeling-based visuomotor policies by adapting techniques originally developed to speed up image generation. However, a major distinction exists: image generation typically produces independent samples without temporal dependencies, while robotic manipulation requires generating action trajectories with continuity and temporal coherence. To this end, we propose FreqPolicy, a novel approach that first imposes frequency consistency constraints on flow-based visuomotor policies. Our work enables the action model to capture temporal structure effectively while supporting efficient, high-quality one-step action generation. Concretely, we introduce a frequency consistency constraint objective that enforces alignment of frequency-domain action features across different timesteps along the flow, thereby promoting convergence of one-step action generation toward the target distribution. In addition, we design an adaptive consistency loss to capture structural temporal variations inherent in robotic manipulation tasks. We assess FreqPolicy on 53 tasks across 3 simulation benchmarks, proving its superiority over existing one-step action generators. We further integrate FreqPolicy into the vision-language-action (VLA) model and achieve acceleration without performance degradation on 40 tasks of LIBERO. Besides, we show efficiency and effectiveness in real-world robotic scenarios with an inference frequency of 93.5 Hz.",
       "paper_url": "https://arxiv.org/abs/2506.08822",
-      "official_url": "https://dblp.org/rec/journals/corr/abs-2506-08822",
+      "official_url": "https://dblp.org/rec/conf/nips/SuLCZWLXCT25",
       "source_type": "bibliographic",
       "discovery_source": "Semantic Scholar bulk API",
       "admission_track": "Manipulation & Imitation",
@@ -57068,34 +57068,6 @@
         "Aerial Robots"
       ],
       "data_tags": [],
-      "related_topics": [],
-      "related_taxonomy_paths": []
-    },
-    {
-      "title": "Composable Part-Based Manipulation",
-      "year": 2024,
-      "venue": "CoRL",
-      "track": "Arm & General Object Manipulation",
-      "topic": "Manipulation",
-      "abstract": "In this paper, we propose composable part-based manipulation (CPM), a novel approach that leverages object-part decomposition and part-part correspondences to improve learning and generalization of robotic manipulation skills. By considering the functional correspondences between object parts, we conceptualize functional actions, such as pouring and constrained placing, as combinations of different correspondence constraints. CPM comprises a collection of composable diffusion models, where each model captures a different inter-object correspondence. These diffusion models can generate parameters for manipulation skills based on the specific object parts. Leveraging part-based correspondences coupled with the task decomposition into distinct constraints enables strong generalization to novel objects and object categories. We validate our approach in both simulated and real-world scenarios, demonstrating its effectiveness in achieving robust and generalized manipulation capabilities.",
-      "paper_url": "https://arxiv.org/abs/2405.05876",
-      "official_url": "https://dblp.org/rec/journals/corr/abs-2405-05876",
-      "source_type": "bibliographic",
-      "discovery_source": "Semantic Scholar bulk API",
-      "admission_track": "Manipulation & Imitation",
-      "subcategory": "Grasping & Pick-place",
-      "specialty": "Pending specialty review",
-      "taxonomy_evidence": "fallback",
-      "primary_evidence": "title:object manipulation",
-      "subcategory_status": "provisional",
-      "classification_status": "needs-review",
-      "method_tags": [
-        "Diffusion"
-      ],
-      "embodiment_tags": [],
-      "data_tags": [
-        "Simulation"
-      ],
       "related_topics": [],
       "related_taxonomy_paths": []
     },
@@ -67675,7 +67647,7 @@
       "track": "Data, Simulation & Evaluation",
       "topic": "Imitation Learning",
       "abstract": "While imitation learning provides a simple and effective framework for policy learning, acquiring consistent action during robot execution remains a challenging task. Existing approaches primarily focus on either modifying the action representation at data curation stage or altering the model itself, both of which do not fully address the scalability of consistent action generation. To overcome this limitation, we introduce the Diff-Control policy, which utilizes a diffusion-based model to learn action representation from a state-space modeling viewpoint. We demonstrate that diffusion-based policies can acquire statefulness through a Bayesian formulation facilitated by ControlNet, leading to improved robustness and success rates. Our experimental results demonstrate the significance of incorporating action statefulness in policy learning, where Diff-Control shows improved performance across various tasks. Specifically, Diff-Control achieves an average success rate of 72% and 84% on stateful and dynamic tasks, respectively. Notably, Diff-Control also shows consistent performance in the presence of perturbations, outperforming other state-of-the-art methods that falter under similar conditions. Project page: https://diff-control.github.io/",
-      "paper_url": "https://arxiv.org/pdf/2404.12539",
+      "paper_url": "https://kyutech.repo.nii.ac.jp/records/2001257",
       "official_url": "https://doi.org/10.1109/IROS58592.2024.10801557",
       "source_type": "publisher",
       "discovery_source": "Semantic Scholar bulk API",
@@ -68509,7 +68481,7 @@
       "topic": "Simulation",
       "abstract": "Whether rigid or compliant, contact interactions are inherent to robot motions, enabling them to move or manipulate things. Contact interactions result from complex physical phenomena, that can be mathematically cast as Nonlinear Complementarity Problems (NCPs) in the context of rigid or compliant point contact interactions. Such a class of complementarity problems is, in general, difficult to solve both from an optimization and numerical perspective. Over the past decades, dedicated and specialized contact solvers, implemented in modern robotics simulators (e.g., Bullet, Drake, MuJoCo, DART, Raisim) have emerged. Yet, most of these solvers tend either to solve a relaxed formulation of the original contact problems (at the price of physical inconsistencies) or to scale poorly with the problem dimension or its numerical conditioning (e.g., a robotic hand manipulating a paper sheet). In this paper, we introduce a unified and efficient approach to solving NCPs in the context of contact simulation. It relies on a sound combination of the Alternating Direction Method of Multipliers (ADMM) and proximal algorithms to account for both compliant and rigid contact interfaces in a unified way. To handle ill-conditioned problems and accelerate the convergence rate, we also propose an efficient update strategy to adapt the ADMM hyperparameters automatically. By leveraging proximal methods, we also propose new algorithmic solutions to efficiently evaluate the inverse dynamics involving rigid and compliant contact interactions, extending the approach developed in MuJoCo. We validate the efficiency and robustness of our contact solver against several alternative contact methods of the literature and benchmark them on various robotics and granular mechanics scenarios. Our code is made open-source at https://github.com/Simple-Robotics/Simple.",
       "paper_url": "https://arxiv.org/abs/2405.17020",
-      "official_url": "https://dblp.org/rec/journals/corr/abs-2405-17020",
+      "official_url": "https://dblp.org/rec/conf/rss/CarpentierLM24",
       "source_type": "bibliographic",
       "discovery_source": "Semantic Scholar bulk API",
       "admission_track": "Simulation, Data & Evaluation",
@@ -89945,6 +89917,34 @@
       "related_taxonomy_paths": []
     },
     {
+      "title": "Composable Part-Based Manipulation",
+      "year": 2023,
+      "venue": "CoRL",
+      "track": "Arm & General Object Manipulation",
+      "topic": "Manipulation",
+      "abstract": "In this paper, we propose composable part-based manipulation (CPM), a novel approach that leverages object-part decomposition and part-part correspondences to improve learning and generalization of robotic manipulation skills. By considering the functional correspondences between object parts, we conceptualize functional actions, such as pouring and constrained placing, as combinations of different correspondence constraints. CPM comprises a collection of composable diffusion models, where each model captures a different inter-object correspondence. These diffusion models can generate parameters for manipulation skills based on the specific object parts. Leveraging part-based correspondences coupled with the task decomposition into distinct constraints enables strong generalization to novel objects and object categories. We validate our approach in both simulated and real-world scenarios, demonstrating its effectiveness in achieving robust and generalized manipulation capabilities.",
+      "paper_url": "https://arxiv.org/abs/2405.05876",
+      "official_url": "https://dblp.org/rec/conf/corl/LiuMHHG023",
+      "source_type": "bibliographic",
+      "discovery_source": "Semantic Scholar bulk API",
+      "admission_track": "Manipulation & Imitation",
+      "subcategory": "Grasping & Pick-place",
+      "specialty": "Pending specialty review",
+      "taxonomy_evidence": "fallback",
+      "primary_evidence": "title:object manipulation",
+      "subcategory_status": "provisional",
+      "classification_status": "needs-review",
+      "method_tags": [
+        "Diffusion"
+      ],
+      "embodiment_tags": [],
+      "data_tags": [
+        "Simulation"
+      ],
+      "related_topics": [],
+      "related_taxonomy_paths": []
+    },
+    {
       "title": "Diff-LfD: Contact-aware Model-based Learning from Visual Demonstration for Robotic Manipulation via Differentiable Physics-based Simulation and Rendering",
       "year": 2023,
       "venue": "CoRL",
@@ -100449,7 +100449,7 @@
       "track": "Legged Locomotion & Whole-body Control",
       "topic": "Locomotion",
       "abstract": "Robotic locomotion is often approached with the goal of maximizing robustness and reactivity by increasing motion control frequency. We challenge this intuitive notion by demonstrating robust and dynamic locomotion with a learned motion controller executing at as low as 8 Hz on a real ANYmal C quadruped. The robot is able to robustly and repeatably achieve a high heading velocity of 1.5 ms-1, traverse uneven terrain, and resist unexpected external perturbations. We further present a comparative analysis of deep reinforcement learning (RL) based motion control policies trained and executed at frequencies ranging from 5 Hz to 200 Hz. We show that low-frequency policies are less sensitive to actuation latencies and variations in system dynamics. This is to the extent that a successful sim- to-real transfer can be performed even without any dynamics randomization or actuation modeling. We support this claim through a set of rigorous empirical evaluations. Moreover, to assist reproducibility, we provide the training and deployment code along with an extended analysis at https://ori-drs.github.io/lfmc/.",
-      "paper_url": "https://arxiv.org/pdf/2209.14887",
+      "paper_url": "https://ora.ox.ac.uk/objects/uuid:7eb84249-2c5d-42f4-a984-eaa6ad1f2987/files/s6395w8654",
       "official_url": "https://doi.org/10.1109/ICRA48891.2023.10160357",
       "source_type": "publisher",
       "discovery_source": "Semantic Scholar bulk API",
@@ -121163,7 +121163,7 @@
       "track": "Navigation, Localization & Multi-robot Coordination",
       "topic": "Navigation",
       "abstract": "Safe motion planning in robotics requires planning into space which has been verified to be free of obstacles. However, obtaining such environment representations using lidars is challenging by virtue of the sparsity of their depth measurements. We present a learning-aided 3D lidar reconstruction framework that upsamples sparse lidar depth measurements with the aid of overlapping camera images so as to generate denser reconstructions with more definitively free space than can be achieved with the raw lidar measurements alone. We use a neural network with an encoder-decoder structure to predict dense depth images along with depth uncertainty estimates which are fused using a volumetric mapping system. We conduct experiments on real-world outdoor datasets captured using a handheld sensing device and a legged robot. Using input data from a 16-beam lidar mapping a building network, our experiments showed that the amount of estimated free space was increased by more than 40% with our approach. We also show that our approach trained on a synthetic dataset generalises well to real-world outdoor scenes without additional fine-tuning. Finally, we demonstrate how motion planning tasks can benefit from these denser reconstructions.",
-      "paper_url": "https://arxiv.org/pdf/2207.12520",
+      "paper_url": "https://ora.ox.ac.uk/objects/uuid:88ae8904-2b4a-422c-9957-556de62ca8a9/files/sqr46r211q",
       "official_url": "https://doi.org/10.1109/IROS47612.2022.9981531",
       "source_type": "publisher",
       "discovery_source": "Semantic Scholar bulk API",
@@ -126166,7 +126166,7 @@
     "classification": "Source admission uses scripts/sync_conference_census.py; all three organization levels and cross-topic tags use scripts/taxonomy.py and reviewed exceptions. admission_track preserves the discovery label.",
     "taxonomy_version": 4,
     "seed_policy": "Hand-verified records override discovered duplicates",
-    "snapshot_date": "2026-11-09",
+    "snapshot_date": "2026-11-13",
     "venue_discovery": {
       "RSS": {
         "matched_records": 257,

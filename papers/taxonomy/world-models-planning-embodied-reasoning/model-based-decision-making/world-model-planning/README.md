@@ -1,12 +1,12 @@
 # World-model Planning · 世界模型辅助规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Model-based%20Decision%20Making&specialty=World-model%20Planning#research-workbench)
 
-> 2 conference papers · 22 recent arXiv papers
+> 2 conference papers · 23 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,10 +27,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | IMPASTO: Integrating Model-Based Planning with Learned Dynamics Models for Robotic Oil Painting Reproduction | ICRA · Dynamics Model | [Paper](https://arxiv.org/pdf/2603.29315) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696393) | rule-assigned |
 | 2025 | Sparse Imagination for Efficient Visual World Model Planning | ICLR · World Model | [Paper](https://arxiv.org/abs/2506.01392) · [Index](https://dblp.org/rec/journals/corr/abs-2506-01392) | rule-assigned |
 
-## Recent arXiv papers (22)
+## Recent arXiv papers (23)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | The World Model Planning Accelerator (WMPA): Hardware-Algorithm Co-Design for Embedded AI in Robotics | Prerana Ramkumar, Suhas Suresh Bharadwaj, Fazal Hameed | [Abstract](https://arxiv.org/abs/2611.10316) · [PDF](https://arxiv.org/pdf/2611.10316) | rule-assigned |
 | 2026-11-03 | Hybrid Particle-Voxel Dynamics for Multimodal 3D World Simulation | Jimmy Wang, Yifan Chou, Kaifeng Zhang, Yixuan Wang et al. | [Abstract](https://arxiv.org/abs/2611.04492) · [PDF](https://arxiv.org/pdf/2611.04492) | rule-assigned |
 | 2026-10-29 | Surrogate Uncertainty for Black-box Visual Grounding | Hanbo Zhang, Tianrun Hu, Cedar Site Bai, Anxing Xiao et al. | [Abstract](https://arxiv.org/abs/2610.39798) · [PDF](https://arxiv.org/pdf/2610.39798) | rule-assigned |
 | 2026-10-14 | Back on Track: Deployment-time Policy Improvement via World Model Planning | Colton Crosby, Hao Wang, Mac Schwager, Somil Bansal | [Abstract](https://arxiv.org/abs/2610.19579) · [PDF](https://arxiv.org/pdf/2610.19579) | rule-assigned |

@@ -1,12 +1,12 @@
 # Tactile & Force Sensors · 触觉与力传感器
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Sensors%20%26%20Human%20Interfaces&specialty=Tactile%20%26%20Force%20Sensors#research-workbench)
 
-> 46 conference papers · 66 recent arXiv papers
+> 46 conference papers · 67 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -71,10 +71,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Load-sensitive Data Acquisition for a Tactile Sensor System of Multi-fingered Robotic Hands | ICRA · Multi Finger | [Paper](https://doi.org/10.1109/icra46639.2022.9812260) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812260) | rule-assigned |
 | 2022 | Slip Anticipation for Grasping Deformable Objects Using a Soft Force Sensor | IROS · Grasp | [Paper](https://infoscience.epfl.ch/bitstreams/47b1a145-38bb-433b-ae3b-66dc9a0765f9/download) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981174) | rule-assigned |
 
-## Recent arXiv papers (66)
+## Recent arXiv papers (67)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-09 | PCTac: Mechanochromic Photonic-Crystal Tactile Sensor for Dexterous Manipulation | Ruilin Zhang, Xuanshuo Liu, Junzhe Dai, Kefei Wu et al. | [Abstract](https://arxiv.org/abs/2611.12383) · [PDF](https://arxiv.org/pdf/2611.12383) | rule-assigned |
+| 2026-11-07 | Which Taxels, Not How Many: Tactile Sensor Placement for Dexterous Policies | Taeyun Kim, Jinsoo Shin, Taehwa Kim, Taeyoon Kim et al. | [Abstract](https://arxiv.org/abs/2611.10647) · [PDF](https://arxiv.org/pdf/2611.10647) | rule-assigned |
 | 2026-11-04 | LumiTac: Compact, High-Rate Six-Axis Optical Tactile Sensing for Human-Robot Interaction | Hao Wu, Haotian Guo, Yu Feng, Yutong Wang et al. | [Abstract](https://arxiv.org/abs/2611.05936) · [PDF](https://arxiv.org/pdf/2611.05936) | reviewed |
 | 2026-11-02 | PanoTac: A Dense Three-Axis Tactile Sensor for Robust Touch-Centric Manipulation | Binglin, Wang, Xiaole, Jiang et al. | [Abstract](https://arxiv.org/abs/2611.03520) · [PDF](https://arxiv.org/pdf/2611.03520) | rule-assigned |
 | 2026-11-01 | MagPillar: A Soft Magnetopillar Array Tactile Sensor for Robotic Surface Perception | Haotian Guo, Yu Feng, Hao Wu, Jiazhi Tang et al. | [Abstract](https://arxiv.org/abs/2611.01609) · [PDF](https://arxiv.org/pdf/2611.01609) | rule-assigned |
@@ -140,7 +142,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-02-01 | SATac: A Thermoluminescence Enabled Tactile Sensor for Concurrent Perception of Temperature, Pressure, and Shear | Ziwu Song, Ran Yu, Xuan Zhang, Kit Wa Sou et al. | [Abstract](https://arxiv.org/abs/2402.00585) · [PDF](https://arxiv.org/pdf/2402.00585) | rule-assigned |
 | 2023-12-02 | Evetac: An Event-based Optical Tactile Sensor for Robotic Manipulation | Niklas Funk, Erik Helmut, Georgia Chalvatzaki, Roberto Calandra et al. | [Abstract](https://arxiv.org/abs/2312.01236) · [PDF](https://arxiv.org/pdf/2312.01236) | rule-assigned |
 | 2023-11-20 | Kitchen Artist: Precise Control of Liquid Dispensing for Gourmet Plating | Hung-Jui Huang, Jingyi Xiang, Wenzhen Yuan | [Abstract](https://arxiv.org/abs/2311.12185) · [PDF](https://arxiv.org/pdf/2311.12185) | rule-assigned |
-| 2023-11-10 | TacIPC: Intersection- and Inversion-free FEM-based Elastomer Simulation For Optical Tactile Sensors | Wenxin Du, Wenqiang Xu, Jieji Ren, Zhenjun Yu et al. | [Abstract](https://arxiv.org/abs/2311.05843) · [PDF](https://arxiv.org/pdf/2311.05843) | rule-assigned |
 
 ---
 

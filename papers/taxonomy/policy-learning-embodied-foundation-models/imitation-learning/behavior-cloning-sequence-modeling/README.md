@@ -1,12 +1,12 @@
 # Behavior Cloning & Sequence Modeling · 行为克隆与序列建模
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Imitation%20Learning&specialty=Behavior%20Cloning%20%26%20Sequence%20Modeling#research-workbench)
 
-> 14 conference papers · 129 recent arXiv papers
+> 14 conference papers · 132 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -39,10 +39,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning | RSS · Behaviour Cloning | [Paper](https://arxiv.org/abs/2405.18196) · [Index](https://dblp.org/rec/conf/rss/VosyliusSUJ24) | rule-assigned |
 | 2023 | A Framework for Few-Shot Policy Transfer Through Observation Mapping and Behavior Cloning | IROS · Behavior Cloning | [Paper](https://arxiv.org/pdf/2310.08836) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342477) | rule-assigned |
 
-## Recent arXiv papers (129)
+## Recent arXiv papers (132)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | Inner Product Regularization for Imitation Learning | Benjamin A. Christie, Tianyu Qiu, Amy H. Choi, David Fridovich-Keil et al. | [Abstract](https://arxiv.org/abs/2611.17159) · [PDF](https://arxiv.org/pdf/2611.17159) | rule-assigned |
+| 2026-11-10 | ExRL: Sample-Efficient Online Adaptation of Long-Chunk Policies via Execution Length Control | Xu Luo, Jiaying Yang, Hao Wu, Junlin Xie et al. | [Abstract](https://arxiv.org/abs/2611.13482) · [PDF](https://arxiv.org/pdf/2611.13482) | rule-assigned |
+| 2026-11-09 | The Relative Value of Demonstration Data: Execution Time Limits and Operator Mixtures in Behavior Cloning | Jiaxuan Guo, Xingyu Ren, Youran Sun, Jingxin Yang et al. | [Abstract](https://arxiv.org/abs/2611.11947) · [PDF](https://arxiv.org/pdf/2611.11947) | rule-assigned |
 | 2026-11-02 | RoboScope Kit: Unified Interfaces for Fast and Scalable Embodied-AI Evaluation | Deng-Ke Wu, Yifan Jin, Yida Yang, Lei Qian et al. | [Abstract](https://arxiv.org/abs/2611.03850) · [PDF](https://arxiv.org/pdf/2611.03850) | rule-assigned |
 | 2026-10-29 | JEDI: Joint-Embedding Demonstration Compression for In-Context Imitation Learning | Jiazhao Liang, Zhewen He, Shuaihang Yuan, Hao Huang et al. | [Abstract](https://arxiv.org/abs/2610.40356) · [PDF](https://arxiv.org/pdf/2610.40356) | reviewed |
 | 2026-10-25 | AdaPolicy: Action-Driven Anticipatory Robot Policies via Next-Chunk Prediction | Fan Yang, Yuting Su, Chen Zhao, Fugui Fan et al. | [Abstract](https://arxiv.org/abs/2610.34280) · [PDF](https://arxiv.org/pdf/2610.34280) | rule-assigned |

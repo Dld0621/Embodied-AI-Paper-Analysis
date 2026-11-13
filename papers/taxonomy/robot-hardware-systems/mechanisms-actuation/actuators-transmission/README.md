@@ -1,12 +1,12 @@
 # Actuators & Transmission · 执行器与传动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Actuators%20%26%20Transmission#research-workbench)
 
-> 47 conference papers · 337 recent arXiv papers
+> 47 conference papers · 338 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -72,10 +72,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Agile Hybrid Whole-body Motor Skills for Thruster-Aided Humanoid Robots | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS47612.2022.9981974) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981974) | rule-assigned |
 | 2022 | Omnidirectional walking of a quadruped robot enabled by compressible tendon-driven soft actuators | IROS · Quadruped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981314) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981314) | rule-assigned |
 
-## Recent arXiv papers (337)
+## Recent arXiv papers (338)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-09 | HolidayFactory 1.0: Simulating, Generating, and Evaluating Industrial Robot Tasks | Holiday Robotics, :, Jeongmin Lee, Taehyeon Kim et al. | [Abstract](https://arxiv.org/abs/2611.11789) · [PDF](https://arxiv.org/pdf/2611.11789) | rule-assigned |
+| 2026-11-09 | Design of a hybrid tendon-linkage finger with coupled and adaptive motion | Hyojae Kang, Giup Seo, Jae-Young Lee, Yeong Jae Park et al. | [Abstract](https://arxiv.org/abs/2611.11885) · [PDF](https://arxiv.org/pdf/2611.11885) | rule-assigned |
 | 2026-11-05 | SCALE: Real-Time Latent Communication for Cyber-Physical Agents | Shanghao Shi, Jian Xiao, Ching-Hsiang Chan, Sanjoy Baruah et al. | [Abstract](https://arxiv.org/abs/2611.08390) · [PDF](https://arxiv.org/pdf/2611.08390) | rule-assigned |
 | 2026-11-03 | PACT: Pose-Robust Actuation Co-Design for Tendon-Driven Robotic Hands | Prashant Kumar, Rachael Granberry, Taylor Niehues, Andrew A. Stanley et al. | [Abstract](https://arxiv.org/abs/2611.05302) · [PDF](https://arxiv.org/pdf/2611.05302) | rule-assigned |
 | 2026-11-02 | Towards end-to-end co-design for one-shot printable task-specific soft robots | James Wood, André Farinha, Will Browne, Josh Pinskier et al. | [Abstract](https://arxiv.org/abs/2611.03216) · [PDF](https://arxiv.org/pdf/2611.03216) | rule-assigned |
@@ -173,7 +175,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-29 | DRL-Based Pose Control for Double-Ackermann Robots Under Actuation Uncertainties | Oussama Zaim, Mélodie Daniel, Aly Magassouba, Miguel Aranda et al. | [Abstract](https://arxiv.org/abs/2606.00313) · [PDF](https://arxiv.org/pdf/2606.00313) | rule-assigned |
 | 2026-05-28 | Extreme dynamic symmetry enables omnidirectional and multifunctional robots | Jiaxun Liu, Boxi Xia, Boyuan Chen | [Abstract](https://arxiv.org/abs/2605.29254) · [PDF](https://arxiv.org/pdf/2605.29254) | rule-assigned |
 | 2026-05-26 | Learning to Balance Motor Thermal Safety and Quadrupedal Locomotion Performance with Residual Policy | Yuhang Wan, Weixian Lin, Letian Qian, Yiqi Zou et al. | [Abstract](https://arxiv.org/abs/2605.27046) · [PDF](https://arxiv.org/pdf/2605.27046) | rule-assigned |
-| 2026-05-24 | Soft Pneumatic Actuators for Soft Robotics: A Motion-Based Review of Actuation Mechanisms and Performance Trade-offs | Mohammed Abboodi | [Abstract](https://arxiv.org/abs/2605.25109) · [PDF](https://arxiv.org/pdf/2605.25109) | rule-assigned |
 | 2026-05-24 | Learning Transferable Motor Skills for Geometry-Aware Robotic Surface Tasks | Miroslav David, Karla Stepanova, Robert Babuska | [Abstract](https://arxiv.org/abs/2605.24881) · [PDF](https://arxiv.org/pdf/2605.24881) | rule-assigned |
 | 2026-05-20 | Modeling and Control of a Pneumatic Morphing Soft Quadrotor based on the SOFA Framework for Dynamic Soft Robotic Simulation | F. Labra Caso, V. Sumathy, P. Ferrentino, B. Vanderborght et al. | [Abstract](https://arxiv.org/abs/2605.21031) · [PDF](https://arxiv.org/pdf/2605.21031) | rule-assigned |
 | 2026-05-19 | Terrestrial Soft Mobile Robots: A Review | Dimuthu D. K. Arachchige | [Abstract](https://arxiv.org/abs/2605.20304) · [PDF](https://arxiv.org/pdf/2605.20304) | rule-assigned |

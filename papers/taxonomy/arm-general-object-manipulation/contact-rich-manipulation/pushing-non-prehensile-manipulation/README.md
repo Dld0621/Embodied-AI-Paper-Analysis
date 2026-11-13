@@ -1,12 +1,12 @@
 # Pushing & Non-prehensile Manipulation · 推滑与非抓取操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Pushing%20%26%20Non-prehensile%20Manipulation#research-workbench)
 
-> 49 conference papers · 144 recent arXiv papers
+> 49 conference papers · 146 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -74,10 +74,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | To ask for help or not to ask: A predictive approach to human-in-the-loop motion planning for robot manipulation tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981679) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981679) | rule-assigned |
 | 2022 | Data Augmentation for Manipulation | RSS · Manipulation | [Paper](https://arxiv.org/abs/2205.02886) · [Index](https://dblp.org/rec/journals/corr/abs-2205-02886) | rule-assigned |
 
-## Recent arXiv papers (144)
+## Recent arXiv papers (146)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-09 | Force-Closure Condition for Cooperative Multi-robot Pushing of Rectangular Objects | Duy Anh Nguyen, Trung Dung Ngo | [Abstract](https://arxiv.org/abs/2611.13268) · [PDF](https://arxiv.org/pdf/2611.13268) | rule-assigned |
+| 2026-11-08 | Single-Radar Bilateral 3D Near-Field Imaging for Mobile Robots | Yingqi Wang, Tingwei Chen, Zhongqin Wang, Min Xu | [Abstract](https://arxiv.org/abs/2611.11296) · [PDF](https://arxiv.org/pdf/2611.11296) | rule-assigned |
 | 2026-11-05 | Time-Indexed Skill Success Models for Latency-Aware Skill Selection and Timing in Dynamic Manipulation | Mohsen Omidi, Maria Chiara Leva, Brian Vaughan | [Abstract](https://arxiv.org/abs/2611.07964) · [PDF](https://arxiv.org/pdf/2611.07964) | rule-assigned |
 | 2026-11-02 | BeyondContact: A Reinforcement Learning Framework for Airflow-Based Non-Contact Manipulation | Peiyu Yang, Mohamad S. Moudallal, Antonio Langella, Giulio Turrisi et al. | [Abstract](https://arxiv.org/abs/2611.03059) · [PDF](https://arxiv.org/pdf/2611.03059) | rule-assigned |
 | 2026-10-28 | Selective Sliding Mode Control Enhances Robustness of Aerial Robots Under Disturbances | Anoop Kiran, Thales C. Silva, Nora Ayanian | [Abstract](https://arxiv.org/abs/2610.38930) · [PDF](https://arxiv.org/pdf/2610.38930) | rule-assigned |

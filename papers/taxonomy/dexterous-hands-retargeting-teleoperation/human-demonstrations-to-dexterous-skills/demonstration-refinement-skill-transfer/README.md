@@ -1,12 +1,12 @@
 # Demonstration Refinement & Skill Transfer · 示教精炼与技能迁移
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Human%20Demonstrations%20to%20Dexterous%20Skills&specialty=Demonstration%20Refinement%20%26%20Skill%20Transfer#research-workbench)
 
-> 3 conference papers · 18 recent arXiv papers
+> 3 conference papers · 19 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | Structural Action Transformer for 3D Dexterous Manipulation | CVPR · Dexterous | [Paper](https://arxiv.org/abs/2603.03960) · [Index](https://dblp.org/rec/conf/cvpr/LeiWWZL26) | rule-assigned |
 | 2023 | Dexterous Imitation Made Easy: A Learning-Based Framework for Efficient Dexterous Manipulation | ICRA · Dexterous | [Paper](https://arxiv.org/pdf/2203.13251) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160275) | rule-assigned |
 
-## Recent arXiv papers (18)
+## Recent arXiv papers (19)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-10 | DexSeed: Expanding Human Hand-Object Interactions into Robot Demonstrations for Dexterous Policy Learning | Huaijin Pi, Zehong Shen, Yong Wang, Kechun Xu et al. | [Abstract](https://arxiv.org/abs/2611.14092) · [PDF](https://arxiv.org/pdf/2611.14092) | reviewed |
 | 2026-11-04 | Learning Object-Centric Motion Priors from Human for Robotic Dexterous Manipulation | Zhengdong Hong, Guofeng Zhang | [Abstract](https://arxiv.org/abs/2611.05979) · [PDF](https://arxiv.org/pdf/2611.05979) | reviewed |
 | 2026-10-30 | HandMimicX: Learning Human-Like Dexterous Manipulation via an Object-Centric Policy from Egocentric Videos | Zihan Gao, Yufei Liu, Yuhong Zhang, Zhen Yu et al. | [Abstract](https://arxiv.org/abs/2610.41336) · [PDF](https://arxiv.org/pdf/2610.41336) | rule-assigned |
 | 2026-10-29 | AcrossDEX 1.0: From Human Motion Pretraining to Bimanual Dexterous Manipulation across Hand Embodiments | Xiaoyu Yang, Nan Wu | [Abstract](https://arxiv.org/abs/2610.40210) · [PDF](https://arxiv.org/pdf/2610.40210) | reviewed |

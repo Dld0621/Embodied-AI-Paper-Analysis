@@ -1,12 +1,12 @@
 # Arm & General Object Manipulation · 机械臂与通用物体操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Conference census](../README.md)
 
-> 1,207 conference papers · 3,305 recent arXiv papers · 2022–2026
+> 1,207 conference papers · 3,335 recent arXiv papers · 2022–2026
 
 What is the primary contribution to arm & general object manipulation?
 
@@ -18,16 +18,16 @@ What is the primary contribution to arm & general object manipulation?
 
 **Venues:** CVPR · CoRL · ECCV · ICCV · ICLR · ICML · ICRA · IROS · NeurIPS · RSS
 
-**Recent arXiv layer:** [3,305 papers from 2023-11-09–2026-11-09](../arxiv/arm-general-object-manipulation/README.md)
+**Recent arXiv layer:** [3,335 papers from 2023-11-13–2026-11-13](../arxiv/arm-general-object-manipulation/README.md)
 
 ## Subfield map · 二级子领域
 
 | Level-2 subfield | Conference | arXiv | Level-3 leaf catalogs |
 |---|---:|---:|---|
-| [Grasping & Pick-place · 抓取与拾放](../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Grasping%20%26%20Pick-place#research-workbench) | 768 | 1,857 | [Gripper & Suction Grasp Planning · 夹爪与吸盘抓取规划](../taxonomy/arm-general-object-manipulation/grasping-pick-place/gripper-suction-grasp-planning/README.md) — C 90 · A 151<br>[Grasp Stability · 抓取稳定性](../taxonomy/arm-general-object-manipulation/grasping-pick-place/grasp-stability/README.md) — C 15 · A 43<br>[Pick-place & Rearrangement · 拾放与物体重排](../taxonomy/arm-general-object-manipulation/grasping-pick-place/pick-place-rearrangement/README.md) — C 94 · A 208<br>[Pending specialty review · 待审专题](../taxonomy/arm-general-object-manipulation/grasping-pick-place/pending-specialty-review/README.md) — C 569 · A 1,455 |
-| [Contact-rich Manipulation · 接触丰富操作](../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation#research-workbench) | 235 | 709 | [Insertion & Assembly · 插入与装配](../taxonomy/arm-general-object-manipulation/contact-rich-manipulation/insertion-assembly/README.md) — C 126 · A 368<br>[Pushing & Non-prehensile Manipulation · 推滑与非抓取操作](../taxonomy/arm-general-object-manipulation/contact-rich-manipulation/pushing-non-prehensile-manipulation/README.md) — C 49 · A 144<br>[Tools & Articulated Objects · 工具与关节物体操作](../taxonomy/arm-general-object-manipulation/contact-rich-manipulation/tools-articulated-objects/README.md) — C 37 · A 119<br>[Pending specialty review · 待审专题](../taxonomy/arm-general-object-manipulation/contact-rich-manipulation/pending-specialty-review/README.md) — C 23 · A 78 |
-| [Deformable Object Manipulation · 可变形物体操作](../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation#research-workbench) | 54 | 161 | [Cloth & Garments · 布料与衣物](../taxonomy/arm-general-object-manipulation/deformable-object-manipulation/cloth-garments/README.md) — C 22 · A 57<br>[Ropes & Cables · 绳索与线缆](../taxonomy/arm-general-object-manipulation/deformable-object-manipulation/ropes-cables/README.md) — C 7 · A 17<br>[Flexible & Soft Objects · 柔性与软体物体](../taxonomy/arm-general-object-manipulation/deformable-object-manipulation/flexible-soft-objects/README.md) — C 15 · A 56<br>[Pending specialty review · 待审专题](../taxonomy/arm-general-object-manipulation/deformable-object-manipulation/pending-specialty-review/README.md) — C 10 · A 31 |
-| [Coordinated & Complex Manipulation · 协同与复杂操作](../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation#research-workbench) | 150 | 578 | [Dual-arm Collaboration · 双臂协作](../taxonomy/arm-general-object-manipulation/coordinated-complex-manipulation/dual-arm-collaboration/README.md) — C 51 · A 171<br>[Mobile Manipulation · 移动操作](../taxonomy/arm-general-object-manipulation/coordinated-complex-manipulation/mobile-manipulation/README.md) — C 55 · A 187<br>[Long-horizon & Task-motion Planning · 长时程操作与任务运动规划](../taxonomy/arm-general-object-manipulation/coordinated-complex-manipulation/long-horizon-task-motion-planning/README.md) — C 34 · A 206<br>[Pending specialty review · 待审专题](../taxonomy/arm-general-object-manipulation/coordinated-complex-manipulation/pending-specialty-review/README.md) — C 10 · A 14 |
+| [Grasping & Pick-place · 抓取与拾放](../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Grasping%20%26%20Pick-place#research-workbench) | 768 | 1,874 | [Gripper & Suction Grasp Planning · 夹爪与吸盘抓取规划](../taxonomy/arm-general-object-manipulation/grasping-pick-place/gripper-suction-grasp-planning/README.md) — C 90 · A 150<br>[Grasp Stability · 抓取稳定性](../taxonomy/arm-general-object-manipulation/grasping-pick-place/grasp-stability/README.md) — C 15 · A 43<br>[Pick-place & Rearrangement · 拾放与物体重排](../taxonomy/arm-general-object-manipulation/grasping-pick-place/pick-place-rearrangement/README.md) — C 94 · A 208<br>[Pending specialty review · 待审专题](../taxonomy/arm-general-object-manipulation/grasping-pick-place/pending-specialty-review/README.md) — C 569 · A 1,473 |
+| [Contact-rich Manipulation · 接触丰富操作](../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation#research-workbench) | 235 | 714 | [Insertion & Assembly · 插入与装配](../taxonomy/arm-general-object-manipulation/contact-rich-manipulation/insertion-assembly/README.md) — C 126 · A 371<br>[Pushing & Non-prehensile Manipulation · 推滑与非抓取操作](../taxonomy/arm-general-object-manipulation/contact-rich-manipulation/pushing-non-prehensile-manipulation/README.md) — C 49 · A 146<br>[Tools & Articulated Objects · 工具与关节物体操作](../taxonomy/arm-general-object-manipulation/contact-rich-manipulation/tools-articulated-objects/README.md) — C 37 · A 120<br>[Pending specialty review · 待审专题](../taxonomy/arm-general-object-manipulation/contact-rich-manipulation/pending-specialty-review/README.md) — C 23 · A 77 |
+| [Deformable Object Manipulation · 可变形物体操作](../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation#research-workbench) | 54 | 161 | [Cloth & Garments · 布料与衣物](../taxonomy/arm-general-object-manipulation/deformable-object-manipulation/cloth-garments/README.md) — C 22 · A 56<br>[Ropes & Cables · 绳索与线缆](../taxonomy/arm-general-object-manipulation/deformable-object-manipulation/ropes-cables/README.md) — C 7 · A 17<br>[Flexible & Soft Objects · 柔性与软体物体](../taxonomy/arm-general-object-manipulation/deformable-object-manipulation/flexible-soft-objects/README.md) — C 15 · A 57<br>[Pending specialty review · 待审专题](../taxonomy/arm-general-object-manipulation/deformable-object-manipulation/pending-specialty-review/README.md) — C 10 · A 31 |
+| [Coordinated & Complex Manipulation · 协同与复杂操作](../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation#research-workbench) | 150 | 586 | [Dual-arm Collaboration · 双臂协作](../taxonomy/arm-general-object-manipulation/coordinated-complex-manipulation/dual-arm-collaboration/README.md) — C 51 · A 174<br>[Mobile Manipulation · 移动操作](../taxonomy/arm-general-object-manipulation/coordinated-complex-manipulation/mobile-manipulation/README.md) — C 55 · A 189<br>[Long-horizon & Task-motion Planning · 长时程操作与任务运动规划](../taxonomy/arm-general-object-manipulation/coordinated-complex-manipulation/long-horizon-task-motion-planning/README.md) — C 34 · A 209<br>[Pending specialty review · 待审专题](../taxonomy/arm-general-object-manipulation/coordinated-complex-manipulation/pending-specialty-review/README.md) — C 10 · A 14 |
 
 ## 2026 (198)
 
@@ -550,7 +550,7 @@ What is the primary contribution to arm & general object manipulation?
 | SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation | NeurIPS | Grasping & Pick-place → Pending specialty review | [Paper](https://arxiv.org/abs/2502.13143) · [Index](https://dblp.org/rec/journals/corr/abs-2502-13143) |
 | Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper | NeurIPS | Contact-rich Manipulation → Insertion & Assembly | [Paper](https://arxiv.org/abs/2507.15062) · [Index](https://dblp.org/rec/journals/corr/abs-2507-15062) |
 
-## 2024 (324)
+## 2024 (323)
 
 | Paper | Venue | Subfield → specialty | Online links |
 |---|---|---|---|
@@ -565,7 +565,6 @@ What is the primary contribution to arm & general object manipulation?
 | 3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing | CoRL | Coordinated & Complex Manipulation → Dual-arm Collaboration | [Paper](https://arxiv.org/abs/2410.24091) · [Index](https://dblp.org/rec/journals/corr/abs-2410-24091) |
 | AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation | CoRL | Contact-rich Manipulation → Tools & Articulated Objects | [Paper](https://arxiv.org/abs/2406.11548) · [Index](https://dblp.org/rec/conf/corl/XiongS0Z0W024) |
 | An Open-Source Soft Robotic Platform for Autonomous Aerial Manipulation in the Wild | CoRL | Coordinated & Complex Manipulation → Mobile Manipulation | [Paper](https://arxiv.org/abs/2409.07662) · [Index](https://dblp.org/rec/conf/corl/BauerBSRCK24) |
-| Composable Part-Based Manipulation | CoRL | Grasping & Pick-place → Pending specialty review | [Paper](https://arxiv.org/abs/2405.05876) · [Index](https://dblp.org/rec/journals/corr/abs-2405-05876) |
 | Continuously Improving Mobile Manipulation with Autonomous Real-World RL | CoRL | Coordinated & Complex Manipulation → Mobile Manipulation | [Paper](https://arxiv.org/abs/2409.20568) · [Index](https://dblp.org/rec/journals/corr/abs-2409-20568) |
 | Contrastive Imitation Learning for Language-guided Multi-Task Robotic Manipulation | CoRL | Grasping & Pick-place → Pending specialty review | [Paper](https://arxiv.org/abs/2406.09738) · [Index](https://dblp.org/rec/journals/corr/abs-2406-09738) |
 | CrossFormer: Scaling Cross-Embodied Learning for Manipulation | CoRL | Grasping & Pick-place → Pending specialty review | [Paper](https://arxiv.org/abs/2408.11812) · [Official](https://proceedings.mlr.press/v270/) |
@@ -879,7 +878,7 @@ What is the primary contribution to arm & general object manipulation?
 | URDFormer: A Pipeline for Constructing Articulated Simulation Environments from Real-World Images | RSS | Contact-rich Manipulation → Tools & Articulated Objects | [Paper](https://arxiv.org/abs/2405.11656) · [Index](https://dblp.org/rec/journals/corr/abs-2405-11656) |
 | VLMPC: Vision-Language Model Predictive Control for Robotic Manipulation | RSS | Grasping & Pick-place → Pending specialty review | [Paper](https://arxiv.org/abs/2407.09829) · [Index](https://dblp.org/rec/conf/rss/ZhaoCMMS024) |
 
-## 2023 (221)
+## 2023 (222)
 
 | Paper | Venue | Subfield → specialty | Online links |
 |---|---|---|---|
@@ -892,6 +891,7 @@ What is the primary contribution to arm & general object manipulation?
 | Affordance-Driven Next-Best-View Planning for Robotic Grasping | CoRL | Grasping & Pick-place → Grasp Stability | [Paper](https://arxiv.org/pdf/2309.09556) · [Index](https://dblp.org/rec/journals/corr/abs-2309-09556) |
 | CALAMARI: Contact-Aware and Language conditioned spatial Action MApping for contact-RIch manipulation | CoRL | Contact-rich Manipulation → Pending specialty review | [Paper](https://www.semanticscholar.org/paper/75b86a1f6e9b740adc26f1404af52a538b7dd72a) · [Index](https://dblp.org/rec/conf/corl/WiMFZF23) |
 | ChainedDiffuser: Unifying Trajectory Diffusion and Keypose Prediction for Robotic Manipulation | CoRL | Grasping & Pick-place → Pending specialty review | [Paper](https://www.semanticscholar.org/paper/c36f3635e090aba84e5e83b904a7697e83730be6) · [Index](https://dblp.org/rec/conf/corl/XianGGKF23) |
+| Composable Part-Based Manipulation | CoRL | Grasping & Pick-place → Pending specialty review | [Paper](https://arxiv.org/abs/2405.05876) · [Index](https://dblp.org/rec/conf/corl/LiuMHHG023) |
 | Diff-LfD: Contact-aware Model-based Learning from Visual Demonstration for Robotic Manipulation via Differentiable Physics-based Simulation and Rendering | CoRL | Grasping & Pick-place → Pending specialty review | [Paper](https://www.semanticscholar.org/paper/de3eb53f4e4e5eec707ccd7f1991566697a68e13) · [Index](https://dblp.org/rec/conf/corl/ZhuKXSBLLZYLT023) |
 | Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation | CoRL | Grasping & Pick-place → Pending specialty review | [Paper](https://arxiv.org/pdf/2308.07931) · [Index](https://dblp.org/rec/journals/corr/abs-2308-07931) |
 | Dynamic Handover: Throw and Catch with Bimanual Hands | CoRL | Coordinated & Complex Manipulation → Pending specialty review | [Paper](https://arxiv.org/pdf/2309.05655) · [Index](https://dblp.org/rec/conf/corl/HuangCWQ00W23) |

@@ -1,12 +1,12 @@
 # Humanoid Loco-manipulation · 人形移动操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Locomotion-Manipulation%20Coordination&specialty=Humanoid%20Loco-manipulation#research-workbench)
 
-> 13 conference papers · 162 recent arXiv papers
+> 13 conference papers · 165 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -38,10 +38,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Physically Consistent Online Inertial Adaptation for Humanoid Loco-manipulation | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2405.07901) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802012) | rule-assigned |
 | 2023 | Hierarchical Adaptive Loco-manipulation Control for Quadruped Robots | ICRA · Quadruped | [Paper](https://arxiv.org/pdf/2209.13145) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160523) | rule-assigned |
 
-## Recent arXiv papers (162)
+## Recent arXiv papers (165)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | FORGE: Force-Aware Multi-Granularity Control for Efficient Humanoid Loco-Manipulation | Liangjun Xing, Ke Fan, Kailin Li, Bin Wang et al. | [Abstract](https://arxiv.org/abs/2611.17142) · [PDF](https://arxiv.org/pdf/2611.17142) | rule-assigned |
+| 2026-11-10 | ReACT: Reflection-Consistent Modulation and Cross-Load Consistency for Humanoid Velocity Tracking Under Asymmetric Loads | Xianghui Wang, Aoran Fu, Liyou Luo, Shanze Wang et al. | [Abstract](https://arxiv.org/abs/2611.13929) · [PDF](https://arxiv.org/pdf/2611.13929) | rule-assigned |
+| 2026-11-08 | Kimodo-Policy: Learning Kinematic Action Models for Humanoid Loco-Manipulation | Yunheng Wang, Jiaxi Zhang, Wei Lu, Yuetong Fang et al. | [Abstract](https://arxiv.org/abs/2611.11554) · [PDF](https://arxiv.org/pdf/2611.11554) | rule-assigned |
 | 2026-11-06 | SUGARv2: Learning Diverse Visual Humanoid Loco-Manipulation Skills from Synthesized Interaction References | Tianshu Wu, Tianxiang Gui, Yue Chen, Tingxu Liu et al. | [Abstract](https://arxiv.org/abs/2611.09266) · [PDF](https://arxiv.org/pdf/2611.09266) | rule-assigned |
 | 2026-11-06 | Autonomous Whole-body Loco-manipulation Using a Snake Robot | Adarsh Salagame, Henry Noyes, Haroon Hublikar, Alireza Ramezani | [Abstract](https://arxiv.org/abs/2611.09777) · [PDF](https://arxiv.org/pdf/2611.09777) | rule-assigned |
 | 2026-11-03 | Ctrl-F: Force as an Interface for Humanoid Loco-Manipulation | Mengjie Zhao, Yuxin Chen, Yiyang Shao, Chuye Hong et al. | [Abstract](https://arxiv.org/abs/2611.05507) · [PDF](https://arxiv.org/pdf/2611.05507) | rule-assigned |
@@ -152,7 +155,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-03-01 | Pro-HOI: Perceptive Root-guided Humanoid-Object Interaction | Yuhang Lin, Jiyuan Shi, Dewei Wang, Jipeng Kong et al. | [Abstract](https://arxiv.org/abs/2603.01126) · [PDF](https://arxiv.org/pdf/2603.01126) | rule-assigned |
 | 2026-02-18 | HERO: Learning Humanoid End-Effector Control for Visual Whole-Body Open-Vocabulary Object Grasping | Runpei Dong, Ziyan Li, Arjun Gupta, Xialin He et al. | [Abstract](https://arxiv.org/abs/2602.16705) · [PDF](https://arxiv.org/pdf/2602.16705) | rule-assigned |
 | 2026-02-16 | AdaptManip: Learning Adaptive Whole-Body Object Lifting and Delivery with Online Recurrent State Estimation | Morgan Byrd, Donghoon Baek, Kartik Garg, Hyunyoung Jung et al. | [Abstract](https://arxiv.org/abs/2602.14363) · [PDF](https://arxiv.org/pdf/2602.14363) | rule-assigned |
-| 2026-02-06 | Humanoid Manipulation Interface: Humanoid Whole-Body Manipulation from Robot-Free Demonstrations | Ruiqian Nai, Boyuan Zheng, Junming Zhao, Haodong Zhu et al. | [Abstract](https://arxiv.org/abs/2602.06643) · [PDF](https://arxiv.org/pdf/2602.06643) | rule-assigned |
+| 2026-02-06 | HuMI: Humanoid Whole-Body Manipulation from Humanoid-Free Demonstrations | Ruiqian Nai, Boyuan Zheng, Junming Zhao, Haodong Zhu et al. | [Abstract](https://arxiv.org/abs/2602.06643) · [PDF](https://arxiv.org/pdf/2602.06643) | rule-assigned |
 | 2026-02-06 | HiWET: Hierarchical World-Frame End-Effector Tracking for Long-Horizon Humanoid Loco-Manipulation | Zhanxiang Cao, Liyun Yan, Yang Zhang, Sirui Chen et al. | [Abstract](https://arxiv.org/abs/2602.06341) · [PDF](https://arxiv.org/pdf/2602.06341) | rule-assigned |
 | 2026-02-04 | ALORE: Autonomous Large-Object Rearrangement with a Legged Manipulator | Zhihai Bi, Yushan Zhang, Kai Chen, Guoyang Zhao et al. | [Abstract](https://arxiv.org/abs/2602.04214) · [PDF](https://arxiv.org/pdf/2602.04214) | rule-assigned |
 | 2026-01-30 | Postural Virtual Fixtures for Ergonomic Physical Interactions with Supernumerary Robotic Bodies | Theodora Kastritsi, Marta Lagomarsino, Arash Ajoudani | [Abstract](https://arxiv.org/abs/2601.22672) · [PDF](https://arxiv.org/pdf/2601.22672) | rule-assigned |

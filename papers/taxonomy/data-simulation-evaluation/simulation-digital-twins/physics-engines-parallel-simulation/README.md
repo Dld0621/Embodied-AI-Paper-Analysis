@@ -1,12 +1,12 @@
 # Physics Engines & Parallel Simulation · 物理引擎与并行仿真
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Physics%20Engines%20%26%20Parallel%20Simulation#research-workbench)
 
-> 16 conference papers · 131 recent arXiv papers
+> 16 conference papers · 133 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -36,15 +36,16 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | UBSoft: A Simulation Platform for Robotic Skill Learning in Unbounded Soft Environments | CoRL · Simulation | [Paper](https://arxiv.org/abs/2411.12711) · [Index](https://dblp.org/rec/journals/corr/abs-2411-12711) | rule-assigned |
 | 2024 | Simulation-Assisted Learning for Efficient Bin-Packing of Deformable Packages in a Bimanual Robotic Cell | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS58592.2024.10802246) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802246) | rule-assigned |
 | 2024 | Demonstrating HumanTHOR: A Simulation Platform and Benchmark for Human-Robot Collaboration in a Shared Workspace | RSS · Simulation | [Paper](https://arxiv.org/abs/2406.06498) · [Index](https://dblp.org/rec/journals/corr/abs-2406-06498) | rule-assigned |
-| 2024 | From Compliant to Rigid Contact Simulation: a Unified and Efficient Approach | RSS · Simulation | [Paper](https://arxiv.org/abs/2405.17020) · [Index](https://dblp.org/rec/journals/corr/abs-2405-17020) | rule-assigned |
+| 2024 | From Compliant to Rigid Contact Simulation: a Unified and Efficient Approach | RSS · Simulation | [Paper](https://arxiv.org/abs/2405.17020) · [Index](https://dblp.org/rec/conf/rss/CarpentierLM24) | rule-assigned |
 | 2023 | Demonstrating RFUniverse: A Multiphysics Simulation Platform for Embodied AI | RSS · Simulation | [Paper](https://doi.org/10.15607/rss.2023.xix.087) · [Publisher](https://doi.org/10.15607/RSS.2023.XIX.087) | rule-assigned |
 | 2022 | Out-of-Dynamics Imitation Learning from Multimodal Demonstrations | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2211.06839) · [Index](https://dblp.org/rec/conf/corl/Qiu0CL22) | rule-assigned |
 | 2022 | Gazebo Fluids: SPH-based simulation of fluid interaction with articulated rigid body dynamics | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982036) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982036) | rule-assigned |
 
-## Recent arXiv papers (131)
+## Recent arXiv papers (133)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | Alloy: A Multi-Material Physics Engine for Robot Learning | Pranay Gupta, Deepanshu Rohilla | [Abstract](https://arxiv.org/abs/2611.16312) · [PDF](https://arxiv.org/pdf/2611.16312) | rule-assigned |
 | 2026-11-06 | RevoSim: Scalable Multimodal Tactile Simulation for Dexterous Manipulation | Ke Zhang, Lixin Xu, Ziyi Wang, Xiyue Dong et al. | [Abstract](https://arxiv.org/abs/2611.08939) · [PDF](https://arxiv.org/pdf/2611.08939) | reviewed |
 | 2026-11-06 | HomeLoop: A Simulation Framework and Benchmark for Robot-IoT Coordination in Everyday Domestic Assistance and Safety | Ramy ElMallah, Marc Bishara, Hyegang Kim, Yuxi Zhang et al. | [Abstract](https://arxiv.org/abs/2611.08914) · [PDF](https://arxiv.org/pdf/2611.08914) | rule-assigned |
 | 2026-11-05 | VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception | Sacha Jungerman, Kaustubh Sadekar, Avery Gump, Sriram Narayanan et al. | [Abstract](https://arxiv.org/abs/2611.08368) · [PDF](https://arxiv.org/pdf/2611.08368) | rule-assigned |
@@ -101,6 +102,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-04-04 | Risk-Constrained Belief-Space Optimization for Safe Control under Latent Uncertainty | Clinton Enwerem, John S. Baras, Calin Belta | [Abstract](https://arxiv.org/abs/2604.03868) · [PDF](https://arxiv.org/pdf/2604.03868) | rule-assigned |
 | 2026-03-29 | Copilot-Assisted Second-Thought Framework for Brain-to-Robot Hand Motion Decoding | Yizhe Li, Shixiao Wang, Jian K. Liu | [Abstract](https://arxiv.org/abs/2603.27492) · [PDF](https://arxiv.org/pdf/2603.27492) | rule-assigned |
 | 2026-03-24 | AirSimAG: A High-Fidelity Simulation Platform for Air-Ground Collaborative Robotics | Yangjie Cui, Xin Dong, Boyang Gao, Jinwu Xiang et al. | [Abstract](https://arxiv.org/abs/2603.23079) · [PDF](https://arxiv.org/pdf/2603.23079) | rule-assigned |
+| 2026-03-21 | Swim2Real: Vision-Language Models for Simulator Calibration of a Soft Robotic Fish | Kevin Qiu, Kyle Liam Walker, Mike Yan Michelis, Marek Cygan et al. | [Abstract](https://arxiv.org/abs/2603.20827) · [PDF](https://arxiv.org/pdf/2603.20827) | rule-assigned |
 | 2026-03-17 | Early-Terminable Energy-Safe Iterative Coupling for Parallel Simulation of Partitioned Port-Hamiltonian Systems | Qi Wei, Jianfeng Tao, Hongyu Nie, Wangtao Tan | [Abstract](https://arxiv.org/abs/2603.16424) · [PDF](https://arxiv.org/pdf/2603.16424) | rule-assigned |
 | 2026-03-17 | BrickSim: A Physics-Based Simulator for Manipulating Interlocking Brick Assemblies | Haowei Wen, Ruixuan Liu, Weiyi Piao, Siyu Li et al. | [Abstract](https://arxiv.org/abs/2603.16853) · [PDF](https://arxiv.org/pdf/2603.16853) | rule-assigned |
 | 2026-03-16 | Dual Quaternion Based Contact Modeling for Fast and Smooth Collision Recovery of Quadrotors | Valentin Gaucher, Wenlong Zhang | [Abstract](https://arxiv.org/abs/2603.14698) · [PDF](https://arxiv.org/pdf/2603.14698) | rule-assigned |

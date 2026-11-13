@@ -1,12 +1,12 @@
 # Walking & Gaits · 行走与步态
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Walking%20%26%20Gaits#research-workbench)
 
-> 168 conference papers · 359 recent arXiv papers
+> 168 conference papers · 362 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -193,10 +193,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Simultaneous Contact-Rich Grasping and Locomotion via Distributed Optimization Enabling Free-Climbing for Multi-Limbed Robots | IROS · Grasp | [Paper](https://arxiv.org/pdf/2207.01418) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981579) | rule-assigned |
 | 2022 | Three-Dimensional Dynamic Running with a Point-Foot Biped based on Differentially Flat SLIP | IROS · Biped | [Paper](https://doi.org/10.1109/IROS47612.2022.9981516) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981516) | rule-assigned |
 
-## Recent arXiv papers (359)
+## Recent arXiv papers (362)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | MotionSkill: From Bipedal Motion Video to Control across Embodiments | Philip Niu, Xiaofeng Han, Sylvie Pan, Yang Wang | [Abstract](https://arxiv.org/abs/2611.16346) · [PDF](https://arxiv.org/pdf/2611.16346) | rule-assigned |
+| 2026-11-11 | Runtime Safety and Emergency Stops on a Full-Size Humanoid: Deployment Lessons and a Case for Graduated Force Authority | Max Conway, Yutong Zhang, Allen Devaraj, William Xie et al. | [Abstract](https://arxiv.org/abs/2611.15928) · [PDF](https://arxiv.org/pdf/2611.15928) | rule-assigned |
+| 2026-11-10 | Softness is something you also need! Why compliance helps control: information metrics of a passive walker with compliant ankle | Fabio Bonsignorio, Elisabetta Barletta, Sorin Dragomir, Francesco Esposito et al. | [Abstract](https://arxiv.org/abs/2611.13779) · [PDF](https://arxiv.org/pdf/2611.13779) | rule-assigned |
+| 2026-11-08 | Large-Scale Hierarchical Decision-Making in Robot Control via ADMM | Kai Pfeiffer, Jia Wang, Gordon Owusu Boateng, Yuquan Wang et al. | [Abstract](https://arxiv.org/abs/2611.11090) · [PDF](https://arxiv.org/pdf/2611.11090) | rule-assigned |
 | 2026-11-05 | HITCH: Teaching a Vision-Language Model to Operate a Humanoid through a Whole-Body Harness | Qingzhou Lu, Chenxin Liu, Xinming Wang, Liu Cao et al. | [Abstract](https://arxiv.org/abs/2611.08039) · [PDF](https://arxiv.org/pdf/2611.08039) | rule-assigned |
 | 2026-10-31 | HALO-LP: A Homogeneous All-Shifted Non-Interior-Point Method for Linear Programming | Jose Rojas, Ana Aguilar, Eusebio Bugarin | [Abstract](https://arxiv.org/abs/2611.01038) · [PDF](https://arxiv.org/pdf/2611.01038) | rule-assigned |
 | 2026-10-27 | REACH: An RL-based Hierarchical Humanoid Crawling Framework for Adaptable Confined Space Traversal | Shengzhang Xu, Yuning Guo, Weiyi Hu, Yifeng Xu et al. | [Abstract](https://arxiv.org/abs/2610.36546) · [PDF](https://arxiv.org/pdf/2610.36546) | rule-assigned |
@@ -555,7 +559,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-07 | A Cost-Effective Test Bench for Evaluating Safe Human-Robot Interaction in Mobile Robotics | Atefeh Fereydooni, Armin Azarakhsh, Ayda Shafiei, Hesam Zandi et al. | [Abstract](https://arxiv.org/abs/2312.04056) · [PDF](https://arxiv.org/pdf/2312.04056) | rule-assigned |
 | 2023-11-29 | Adaptive Hierarchical Origami Metastructures | Yanbin Li, Antonio Di Lallo, Junxi Zhu, Yinding Chi et al. | [Abstract](https://arxiv.org/abs/2311.18055) · [PDF](https://arxiv.org/pdf/2311.18055) | rule-assigned |
 | 2023-11-13 | Predicting Continuous Locomotion Modes via Multidimensional Feature Learning from sEMG | Peiwen Fu, Wenjuan Zhong, Yuyang Zhang, Wenxuan Xiong et al. | [Abstract](https://arxiv.org/abs/2311.07395) · [PDF](https://arxiv.org/pdf/2311.07395) | rule-assigned |
-| 2023-11-12 | Advanced Feedback Linearization Control for Tiltrotor UAVs: Gait Plan, Controller Design, and Stability Analysis | Zhe Shen | [Abstract](https://arxiv.org/abs/2311.06725) · [PDF](https://arxiv.org/pdf/2311.06725) | rule-assigned |
 
 ---
 

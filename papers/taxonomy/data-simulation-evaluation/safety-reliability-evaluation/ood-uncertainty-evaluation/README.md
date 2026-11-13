@@ -1,12 +1,12 @@
 # OOD & Uncertainty Evaluation · 分布外与不确定性评估
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Safety%20%26%20Reliability%20Evaluation&specialty=OOD%20%26%20Uncertainty%20Evaluation#research-workbench)
 
-> 8 conference papers · 146 recent arXiv papers
+> 8 conference papers · 147 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -33,10 +33,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | HRP: Human Affordances for Robotic Pre-Training | RSS · Affordance | [Paper](https://arxiv.org/abs/2407.18911) · [Index](https://dblp.org/rec/conf/rss/SriramaDB024) | rule-assigned |
 | 2023 | HYDRA: Hybrid Robot Actions for Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/abs/2306.17237) · [Index](https://dblp.org/rec/journals/corr/abs-2306-17237) | rule-assigned |
 
-## Recent arXiv papers (146)
+## Recent arXiv papers (147)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-11 | COMBS: Concealed Object Multi-modal Bayesian Search | Taylor Bergeron, Kevin Leahy | [Abstract](https://arxiv.org/abs/2611.15964) · [PDF](https://arxiv.org/pdf/2611.15964) | rule-assigned |
+| 2026-11-10 | Ego Guidance: Enhancing Robot Policy Learning with Action-Free Human Egocentric Videos | Lin Long, Tianren Ma, Zhong Chu, Di Wu et al. | [Abstract](https://arxiv.org/abs/2611.13685) · [PDF](https://arxiv.org/pdf/2611.13685) | rule-assigned |
 | 2026-11-06 | Augmentron: Scalable Multi-View Visual Augmentation for Robot Learning | Tanay Tandon, Aseem Doriwala, Jade Choghari, Catherine Weaver et al. | [Abstract](https://arxiv.org/abs/2611.09145) · [PDF](https://arxiv.org/pdf/2611.09145) | rule-assigned |
 | 2026-11-03 | All-For-One: Distilling Visual Foundation Models to a Fast, Memory-Efficient Visuomotor Policy | Byungkun Lee, Minho Park, Hojoon Lee, Dongyoon Hwang et al. | [Abstract](https://arxiv.org/abs/2611.04485) · [PDF](https://arxiv.org/pdf/2611.04485) | rule-assigned |
 | 2026-10-31 | Faster Imitation by Re-timing Demonstrations Within the Controller Limit | Zongtan Li, Tianming Liu, Ye Zhao | [Abstract](https://arxiv.org/abs/2611.00539) · [PDF](https://arxiv.org/pdf/2611.00539) | rule-assigned |
@@ -182,7 +184,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-19 | MotionScript: Natural Language Descriptions for Expressive 3D Human Motions | Payam Jome Yazdian, Rachel Lagasse, Hamid Mohammadi, Eric Liu et al. | [Abstract](https://arxiv.org/abs/2312.12634) · [PDF](https://arxiv.org/pdf/2312.12634) | rule-assigned |
 | 2023-12-10 | Modifying RL Policies with Imagined Actions: How Predictable Policies Can Enable Users to Perform Novel Tasks | Isaac Sheidlower, Reuben Aronson, Elaine Short | [Abstract](https://arxiv.org/abs/2312.05991) · [PDF](https://arxiv.org/pdf/2312.05991) | rule-assigned |
 | 2023-11-16 | Robust Conformal Prediction for STL Runtime Verification under Distribution Shift | Yiqi Zhao, Bardh Hoxha, Georgios Fainekos, Jyotirmoy V. Deshmukh et al. | [Abstract](https://arxiv.org/abs/2311.09482) · [PDF](https://arxiv.org/pdf/2311.09482) | rule-assigned |
-| 2023-11-11 | Topology-Matching Normalizing Flows for Out-of-Distribution Detection in Robot Learning | Jianxiang Feng, Jongseok Lee, Simon Geisler, Stephan Gunnemann et al. | [Abstract](https://arxiv.org/abs/2311.06481) · [PDF](https://arxiv.org/pdf/2311.06481) | rule-assigned |
 
 ---
 

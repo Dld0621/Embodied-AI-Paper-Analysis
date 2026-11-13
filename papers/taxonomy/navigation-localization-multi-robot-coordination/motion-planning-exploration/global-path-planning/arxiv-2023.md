@@ -1,12 +1,12 @@
 # Global Path Planning · 全局路径规划 · arXiv 2023
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 39 papers · complete list for this taxonomy leaf
+> 36 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -46,6 +46,3 @@
 | 2023-11-14 | Hierarchical Experience-informed Navigation for Multi-modal Quadrupedal Rebar Grid Traversal | Max Asselmeier, Jane Ivanova, Ziyi Zhou, Patricio A. Vela et al. | [Abstract](https://arxiv.org/abs/2311.08354) · [PDF](https://arxiv.org/pdf/2311.08354) | rule-assigned |
 | 2023-11-13 | Understanding Path Planning Explanations | Amar Halilovic, Senka Krivic | [Abstract](https://arxiv.org/abs/2311.07132) · [PDF](https://arxiv.org/pdf/2311.07132) | rule-assigned |
 | 2023-11-13 | RESenv: A Realistic Earthquake Simulation Environment based on Unreal Engine | Yitong Sun, Hanchun Wang, Zhejun Zhang, Cyriel Diels et al. | [Abstract](https://arxiv.org/abs/2311.07239) · [PDF](https://arxiv.org/pdf/2311.07239) | rule-assigned |
-| 2023-11-11 | Five-Tiered Route Planner for Multi-AUV Accessing Fixed Nodes in Uncertain Ocean Environments | Jiaxin Zhang, Meiqin Liu, Senlin Zhang, Ronghao Zheng et al. | [Abstract](https://arxiv.org/abs/2311.06579) · [PDF](https://arxiv.org/pdf/2311.06579) | rule-assigned |
-| 2023-11-09 | Improving Human Legibility in Collaborative Robot Tasks through Augmented Reality and Workspace Preparation | Yi-Shiuan Tung, Matthew B. Luebbers, Alessandro Roncone, Bradley Hayes | [Abstract](https://arxiv.org/abs/2311.05562) · [PDF](https://arxiv.org/pdf/2311.05562) | rule-assigned |
-| 2023-11-09 | FogROS2-Config: Optimizing Latency and Cost for Multi-Cloud Robot Applications | Kaiyuan Chen, Kush Hari, Rohil Khare, Charlotte Le et al. | [Abstract](https://arxiv.org/abs/2311.05600) · [PDF](https://arxiv.org/pdf/2311.05600) | rule-assigned |

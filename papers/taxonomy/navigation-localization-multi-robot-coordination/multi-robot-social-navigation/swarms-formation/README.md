@@ -1,12 +1,12 @@
 # Swarms & Formation · 群体与编队
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Multi-robot%20%26%20Social%20Navigation&specialty=Swarms%20%26%20Formation#research-workbench)
 
-> 11 conference papers · 120 recent arXiv papers
+> 11 conference papers · 121 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -36,10 +36,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Barrier Function-based Safe Reinforcement Learning for Formation Control of Mobile Robots | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/icra46639.2022.9811604) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811604) | rule-assigned |
 | 2022 | Driving Swarm: A Swarm Robotics Framework for Intelligent Navigation in a Self-organized World | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811852) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811852) | rule-assigned |
 
-## Recent arXiv papers (120)
+## Recent arXiv papers (121)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-08 | Tutorial: Vision-Based Formation Control with Differential-Drive Robots | Christian Marowski, Byung-Cheol Min | [Abstract](https://arxiv.org/abs/2611.11164) · [PDF](https://arxiv.org/pdf/2611.11164) | rule-assigned |
 | 2026-11-02 | Mediating Human-Swarm Interactions Through a Robot Helper: A Shepherding-Inspired Approach | Arihant Yadav, Sophie Jörg, Eakta Jain | [Abstract](https://arxiv.org/abs/2611.03548) · [PDF](https://arxiv.org/pdf/2611.03548) | rule-assigned |
 | 2026-10-26 | Distributed Predictive Flocking for a Swarm of Miniature Vibration-Driven Robots in a Confined Arena | Prajol Shrestha, Siddhant Mohapatra, Filip Novkoski, Julian Oelhaf et al. | [Abstract](https://arxiv.org/abs/2610.35582) · [PDF](https://arxiv.org/pdf/2610.35582) | rule-assigned |
 | 2026-10-22 | Distributed Swarm Morphogenesis with Neural Cellular Automata | Ray Verma, Anthony Tzes, Eliseo Ferrante | [Abstract](https://arxiv.org/abs/2610.31900) · [PDF](https://arxiv.org/pdf/2610.31900) | rule-assigned |

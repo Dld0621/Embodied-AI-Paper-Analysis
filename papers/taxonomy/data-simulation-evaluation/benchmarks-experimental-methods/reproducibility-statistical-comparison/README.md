@@ -1,12 +1,12 @@
 # Reproducibility & Statistical Comparison · 复现协议与统计比较
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Experimental%20Methods&specialty=Reproducibility%20%26%20Statistical%20Comparison#research-workbench)
 
-> 1 conference papers · 69 recent arXiv papers
+> 1 conference papers · 71 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -26,10 +26,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---:|---|---|---|---|
 | 2025 | Hri-Free: Cognitive Robotic Simulation for Evaluating Embodied Social Attention Models | ICRA · Simulation | [Paper](https://doi.org/10.1109/ICRA55743.2025.11127539) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127539) | rule-assigned |
 
-## Recent arXiv papers (69)
+## Recent arXiv papers (71)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | Hibikino-Musashi@Home 2026 Team Description Paper | Soma Fumoto, Ryohei Kobayashi, Taiki Watanabe, Yuga Yano et al. | [Abstract](https://arxiv.org/abs/2611.16297) · [PDF](https://arxiv.org/pdf/2611.16297) | rule-assigned |
+| 2026-11-09 | A Benchmark and Layered Evaluation Protocol for Evidence-Grounded Shared Belief Updating in Connected Robotics | Ranulfo Bezerra, Kimitoshi Yamazaki | [Abstract](https://arxiv.org/abs/2611.11842) · [PDF](https://arxiv.org/pdf/2611.11842) | rule-assigned |
 | 2026-11-06 | Scenario Orchestration for Closed-loop Policy Evaluation of Autonomous Driving | Frieda Rong, Zhaoyue Wang, Veer Kapadia, Vishaka Rajani et al. | [Abstract](https://arxiv.org/abs/2611.09888) · [PDF](https://arxiv.org/pdf/2611.09888) | rule-assigned |
 | 2026-11-03 | LoopQ: Fair, Closed-Loop Evaluation of Quantized Vision-Language-Action Models | Syed Umer Bukhari, Magnus Almgren, Ahmed Ali-Eldin | [Abstract](https://arxiv.org/abs/2611.05093) · [PDF](https://arxiv.org/pdf/2611.05093) | reviewed |
 | 2026-10-30 | When appearance and motion disagree: evaluating class-motion consistency against disguised uncrewed surface vessels | Jon Reifschneider | [Abstract](https://arxiv.org/abs/2611.00367) · [PDF](https://arxiv.org/pdf/2611.00367) | rule-assigned |

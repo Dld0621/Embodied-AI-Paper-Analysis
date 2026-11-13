@@ -1,12 +1,12 @@
 # Mobile Manipulation · 移动操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Mobile%20Manipulation#research-workbench)
 
-> 55 conference papers · 187 recent arXiv papers
+> 55 conference papers · 189 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -80,10 +80,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Symbolic Failure Detection for Grasping and Mobile Manipulation Tasks | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982223) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982223) | rule-assigned |
 | 2022 | Ω2: Optimal Hierarchical Planner for Object Search in Large Environments via Mobile Manipulation | IROS · Mobile Manipulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981194) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981194) | rule-assigned |
 
-## Recent arXiv papers (187)
+## Recent arXiv papers (189)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | AgriSense: Vision-Language Decision Support and Robotic Intervention in a Virtual Greenhouse Copy title | Lyes Saad Saoud, Oualid Doukhi, Reza Ghorbani, Moussa Ayyash | [Abstract](https://arxiv.org/abs/2611.16752) · [PDF](https://arxiv.org/pdf/2611.16752) | rule-assigned |
+| 2026-11-09 | Benchmarking Real-World Robotic Manipulation through Stochastic Challenges | Elias Gläßer, Gülhan Şikaroğlu, Pavlo Kupyn, Marc Pollefeys et al. | [Abstract](https://arxiv.org/abs/2611.12804) · [PDF](https://arxiv.org/pdf/2611.12804) | rule-assigned |
 | 2026-11-05 | MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation | Sateesh Kumar, Arnav Balaji, Arpit Bahety, Skand Peri et al. | [Abstract](https://arxiv.org/abs/2611.08372) · [PDF](https://arxiv.org/pdf/2611.08372) | rule-assigned |
 | 2026-11-04 | Robocasa-Mem: Benchmarking Environment and Process Memory in Long-Horizon Mobile Manipulation | Sihang Chen, Chen Ye, Wei Chen, Xiaohan Lei et al. | [Abstract](https://arxiv.org/abs/2611.06475) · [PDF](https://arxiv.org/pdf/2611.06475) | rule-assigned |
 | 2026-11-02 | TAMPAgent: Agentic Belief-Space Planning for Mobile Manipulation | Utkarsh A. Mishra, Alperen Degirmenci, Yongxin Chen, Danfei Xu et al. | [Abstract](https://arxiv.org/abs/2611.03584) · [PDF](https://arxiv.org/pdf/2611.03584) | rule-assigned |

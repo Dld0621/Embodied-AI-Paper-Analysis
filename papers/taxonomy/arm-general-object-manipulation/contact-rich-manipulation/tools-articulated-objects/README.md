@@ -1,12 +1,12 @@
 # Tools & Articulated Objects · 工具与关节物体操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Tools%20%26%20Articulated%20Objects#research-workbench)
 
-> 37 conference papers · 119 recent arXiv papers
+> 37 conference papers · 120 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -62,10 +62,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Sim2Real2: Actively Building Explicit Physics Model for Precise Articulated Object Manipulation | ICRA · Sim2Real | [Paper](https://arxiv.org/abs/2302.10693) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160370) | rule-assigned |
 | 2023 | Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusions | NeurIPS · Manipulation | [Paper](https://arxiv.org/pdf/2309.07510) · [Index](https://dblp.org/rec/journals/corr/abs-2309-07510) | rule-assigned |
 
-## Recent arXiv papers (119)
+## Recent arXiv papers (120)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-09 | Flip Anything with Agentic Robotics Self-Learning | Shuangyu Xie, Kaiyuan Chen, Ken Goldberg | [Abstract](https://arxiv.org/abs/2611.11941) · [PDF](https://arxiv.org/pdf/2611.11941) | rule-assigned |
 | 2026-10-27 | Which Hand Was Late? Diagnosis for Robot Failure Recovery in Bimanual Tool Use | Baptiste Bonin, Caro Strickland, Audrey Durand | [Abstract](https://arxiv.org/abs/2610.37533) · [PDF](https://arxiv.org/pdf/2610.37533) | rule-assigned |
 | 2026-10-27 | Kinematic Constraint-Referenced Evaluation for Articulated Object Manipulation | Baptiste Bonin, Caro Strickland, Audrey Durand | [Abstract](https://arxiv.org/abs/2610.37550) · [PDF](https://arxiv.org/pdf/2610.37550) | rule-assigned |
 | 2026-10-21 | From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks | May Espinola, Qifan Zhang, Yu Xiang | [Abstract](https://arxiv.org/abs/2610.30051) · [PDF](https://arxiv.org/pdf/2610.30051) | rule-assigned |

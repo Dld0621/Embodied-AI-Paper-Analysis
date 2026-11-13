@@ -1,7 +1,7 @@
 # Pick-place & Rearrangement · 拾放与物体重排
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Grasping%20%26%20Pick-place&specialty=Pick-place%20%26%20Rearrangement#research-workbench)
@@ -123,6 +123,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | ManiLadder: Benchmarking Robot Manipulation Through a Categorized and Multi-Difficulty Level Task Ladder | Chongkai Gao, Jieao Shi, Zhaoyu Mu, Yudi Lin et al. | [Abstract](https://arxiv.org/abs/2611.16374) · [PDF](https://arxiv.org/pdf/2611.16374) | rule-assigned |
 | 2026-11-06 | Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation | Xun Tu, Minghao Zou, Karthik Desingh | [Abstract](https://arxiv.org/abs/2611.09864) · [PDF](https://arxiv.org/pdf/2611.09864) | rule-assigned |
 | 2026-11-03 | VARP: A Visual Adaptive Rearrangement Planner for Non-Monotone Object Rearrangement Planning | Hanwen Ren, Meng Zheng, Zhongpai Gao, Anwesa Choudhuri et al. | [Abstract](https://arxiv.org/abs/2611.04093) · [PDF](https://arxiv.org/pdf/2611.04093) | rule-assigned |
 | 2026-11-03 | HLO-AMP: Hierarchical Loco-Manipulation from Object-Aware Motion Priors | Jean-Pierre Sleiman, Bilal Hammoud, He Li, Jonathan Foster et al. | [Abstract](https://arxiv.org/abs/2611.05113) · [PDF](https://arxiv.org/pdf/2611.05113) | rule-assigned |
@@ -330,7 +331,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-05 | Contact Energy Based Hindsight Experience Prioritization | Erdi Sayar, Zhenshan Bing, Carlo D'Eramo, Ozgur S. Oguz et al. | [Abstract](https://arxiv.org/abs/2312.02677) · [PDF](https://arxiv.org/pdf/2312.02677) | rule-assigned |
 | 2023-12-04 | Working Backwards: Learning to Place by Picking | Oliver Limoyo, Abhisek Konar, Trevor Ablett, Jonathan Kelly et al. | [Abstract](https://arxiv.org/abs/2312.02352) · [PDF](https://arxiv.org/pdf/2312.02352) | rule-assigned |
 | 2023-12-03 | LVDiffusor: Distilling Functional Rearrangement Priors from Large Models into Diffusor | Yiming Zeng, Mingdong Wu, Long Yang, Jiyao Zhang et al. | [Abstract](https://arxiv.org/abs/2312.01474) · [PDF](https://arxiv.org/pdf/2312.01474) | rule-assigned |
-| 2023-11-10 | GOAT: GO to Any Thing | Matthew Chang, Theophile Gervet, Mukul Khanna, Sriram Yenamandra et al. | [Abstract](https://arxiv.org/abs/2311.06430) · [PDF](https://arxiv.org/pdf/2311.06430) | rule-assigned |
 
 ---
 

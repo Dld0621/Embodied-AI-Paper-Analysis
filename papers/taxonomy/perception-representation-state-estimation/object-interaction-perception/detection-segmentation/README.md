@@ -1,12 +1,12 @@
 # Detection & Segmentation · 物体检测与分割
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Object%20%26%20Interaction%20Perception&specialty=Detection%20%26%20Segmentation#research-workbench)
 
-> 23 conference papers · 518 recent arXiv papers
+> 23 conference papers · 519 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -48,10 +48,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Demonstrate Once, Imitate Immediately (DOME): Learning Visual Servoing for One-Shot Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2204.02863) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981982) | rule-assigned |
 | 2022 | SESR: Self-Ensembling Sim-to-Real Instance Segmentation for Auto-Store Bin Picking | IROS · Sim To Real | [Paper](https://doi.org/10.1109/IROS47612.2022.9981845) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981845) | rule-assigned |
 
-## Recent arXiv papers (518)
+## Recent arXiv papers (519)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-10 | HiPFuse: Real-Time LiDAR Semantic Segmentation for Robotic Perception on Edge Devices | Haiyang Wu, George Vosselman, Ville Lehtola | [Abstract](https://arxiv.org/abs/2611.14025) · [PDF](https://arxiv.org/pdf/2611.14025) | rule-assigned |
+| 2026-11-09 | SAM-VTP: Video Memory and Measured Geometry for Continuous Traversability Segmentation | Lucas Hoefs, Hui Xie, Senjian An, Fangyi Zhang | [Abstract](https://arxiv.org/abs/2611.12099) · [PDF](https://arxiv.org/pdf/2611.12099) | rule-assigned |
+| 2026-11-09 | RaMOD: Moving-Object Detection from Raw mmWave Radar Cubes under Ego Motion | Yuan Fang, Long Zhuang, Lingzi Xing, Xijia Wei et al. | [Abstract](https://arxiv.org/abs/2611.13271) · [PDF](https://arxiv.org/pdf/2611.13271) | rule-assigned |
+| 2026-11-07 | Selective Cooperative Perception via Blind Spot Reasoning and Agentic Dialogue with Vision-Language Models | Chengyuan Ma, Shixiao Liang, Hangyu Li, Zheng Li et al. | [Abstract](https://arxiv.org/abs/2611.10819) · [PDF](https://arxiv.org/pdf/2611.10819) | rule-assigned |
 | 2026-11-05 | Energy-Aware Open-Vocabulary Detection Scheduling for Low-Power Robotic Autonomy | Abdul Basit, Muhammad Shafique | [Abstract](https://arxiv.org/abs/2611.07663) · [PDF](https://arxiv.org/pdf/2611.07663) | rule-assigned |
 | 2026-10-29 | Seeing and Imagining as One: Unified Video Generation and 4D Perception for Embodied World Modeling | Haitang Feng, Zhuoman Liu, Zhennan Wang, Sheng Wang et al. | [Abstract](https://arxiv.org/abs/2610.39232) · [PDF](https://arxiv.org/pdf/2610.39232) | rule-assigned |
 | 2026-10-28 | TRIM: Temporal Run-Time Monitoring of 3D Object Detection via Activation Statistics | Hakan Yekta Yatbaz, Konstantinos Koufos, Mehrdad Dianati | [Abstract](https://arxiv.org/abs/2610.38613) · [PDF](https://arxiv.org/pdf/2610.38613) | rule-assigned |
@@ -361,7 +365,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-03-04 | Class-Aware PillarMix: Can Mixed Sample Data Augmentation Enhance 3D Object Detection with Radar Point Clouds? | Miao Zhang, Sherif Abdulatif, Benedikt Loesch, Marco Altmann et al. | [Abstract](https://arxiv.org/abs/2503.02687) · [PDF](https://arxiv.org/pdf/2503.02687) | rule-assigned |
 | 2025-03-03 | Uncertainty Representation in a SOTIF-Related Use Case with Dempster-Shafer Theory for LiDAR Sensor-Based Object Detection | Milin Patel, Rolf Jung | [Abstract](https://arxiv.org/abs/2503.02087) · [PDF](https://arxiv.org/pdf/2503.02087) | rule-assigned |
 | 2025-03-02 | Shadow: Leveraging Segmentation Masks for Cross-Embodiment Policy Transfer | Marion Lepert, Ria Doshi, Jeannette Bohg | [Abstract](https://arxiv.org/abs/2503.00774) · [PDF](https://arxiv.org/pdf/2503.00774) | rule-assigned |
-| 2025-03-02 | LFX: Towards Unified Light Field Dense Semantic Segmentation and Salient Object Detection | Fei Teng, Lingxin Huang, Buyin Deng, Kai Luo et al. | [Abstract](https://arxiv.org/abs/2503.00747) · [PDF](https://arxiv.org/pdf/2503.00747) | rule-assigned |
+| 2025-03-02 | LFX: Fusion-Form-Flexible Light Field Modeling for Dense Semantic Segmentation and Salient Object Detection | Fei Teng, Lingxin Huang, Buyin Deng, Kai Luo et al. | [Abstract](https://arxiv.org/abs/2503.00747) · [PDF](https://arxiv.org/pdf/2503.00747) | rule-assigned |
 | 2025-03-02 | ICanC: Improving Camera-based Object Detection and Energy Consumption in Low-Illumination Environments | Daniel Ma, Ren Zhong, Weisong Shi | [Abstract](https://arxiv.org/abs/2503.00709) · [PDF](https://arxiv.org/pdf/2503.00709) | rule-assigned |
 | 2025-02-25 | Data Augmentation for Instruction Following Policies via Trajectory Segmentation | Niklas Höpner, Ilaria Tiddi, Herke van Hoof | [Abstract](https://arxiv.org/abs/2503.01871) · [PDF](https://arxiv.org/pdf/2503.01871) | rule-assigned |
 | 2025-02-24 | Experimental validation of UAV search and detection system in real wilderness environment | Stella Dumenčić, Luka Lanča, Karlo Jakac, Stefan Ivić | [Abstract](https://arxiv.org/abs/2502.17372) · [PDF](https://arxiv.org/pdf/2502.17372) | rule-assigned |
@@ -567,9 +571,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-21 | A Safer Vision-based Autonomous Planning System for Quadrotor UAVs with Dynamic Obstacle Trajectory Prediction and Its Application with LLMs | Jiageng Zhong, Ming Li, Yinliang Chen, Zihang Wei et al. | [Abstract](https://arxiv.org/abs/2311.12893) · [PDF](https://arxiv.org/pdf/2311.12893) | rule-assigned |
 | 2023-11-17 | Labeling Indoor Scenes with Fusion of Out-of-the-Box Perception Models | Yimeng Li, Navid Rajabi, Sulabh Shrestha, Md Alimoor Reza et al. | [Abstract](https://arxiv.org/abs/2311.10883) · [PDF](https://arxiv.org/pdf/2311.10883) | rule-assigned |
 | 2023-11-17 | A Video-Based Activity Classification of Human Pickers in Agriculture | Abhishesh Pal, Antonio C. Leite, Jon G. O. Gjevestad, Pål J. From | [Abstract](https://arxiv.org/abs/2311.10885) · [PDF](https://arxiv.org/pdf/2311.10885) | rule-assigned |
-| 2023-11-10 | ASSIST: Interactive Scene Nodes for Scalable and Realistic Indoor Simulation | Zhide Zhong, Jiakai Cao, Songen Gu, Sirui Xie et al. | [Abstract](https://arxiv.org/abs/2311.06211) · [PDF](https://arxiv.org/pdf/2311.06211) | rule-assigned |
-| 2023-11-09 | TLCFuse: Temporal Multi-Modality Fusion Towards Occlusion-Aware Semantic Segmentation-Aided Motion Planning | Gustavo Salazar-Gomez, Wenqian Liu, Manuel Diaz-Zapata, David Sierra-Gonzalez et al. | [Abstract](https://arxiv.org/abs/2311.05319) · [PDF](https://arxiv.org/pdf/2311.05319) | rule-assigned |
-| 2023-11-09 | Object-centric Cross-modal Feature Distillation for Event-based Object Detection | Lei Li, Alexander Liniger, Mario Millhaeusler, Vagia Tsiminaki et al. | [Abstract](https://arxiv.org/abs/2311.05494) · [PDF](https://arxiv.org/pdf/2311.05494) | rule-assigned |
 
 ---
 

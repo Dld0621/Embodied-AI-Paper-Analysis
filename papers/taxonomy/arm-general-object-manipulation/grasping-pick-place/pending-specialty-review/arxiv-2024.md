@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题 · arXiv 2024
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 331 papers · complete list for this taxonomy leaf
+> 332 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -107,6 +107,7 @@
 | 2024-10-10 | Synergizing Morphological Computation and Generative Design: Automatic Synthesis of Tendon-Driven Grippers | Kirill Zharkov, Mikhail Chaikovskii, Yefim Osipov, Rahaf Alshaowa et al. | [Abstract](https://arxiv.org/abs/2410.07865) · [PDF](https://arxiv.org/pdf/2410.07865) | needs-review |
 | 2024-10-10 | Modular Adaptive Aerial Manipulation under Unknown Dynamic Coupling Forces | Rishabh Dev Yadav, Swati Dantu, Wei Pan, Sihao Sun et al. | [Abstract](https://arxiv.org/abs/2410.08285) · [PDF](https://arxiv.org/pdf/2410.08285) | needs-review |
 | 2024-10-10 | LucidGrasp: Robotic Framework for Autonomous Manipulation of Laboratory Equipment with Different Degrees of Transparency via 6D Pose Estimation | Maria Makarova, Daria Trinitatova, Qian Liu, Dzmitry Tsetserukou | [Abstract](https://arxiv.org/abs/2410.07801) · [PDF](https://arxiv.org/pdf/2410.07801) | needs-review |
+| 2024-10-10 | Learning Beyond Rigid Manipulation with Hybrid Soft-Rigid Robots | Mariano Ramírez Montero, Ebrahim Shahabi, Giovanni Franzese, Jens Kober et al. | [Abstract](https://arxiv.org/abs/2410.07787) · [PDF](https://arxiv.org/pdf/2410.07787) | needs-review |
 | 2024-10-10 | Imitation Learning with Limited Actions via Diffusion Planners and Deep Koopman Controllers | Jianxin Bi, Kelvin Lim, Kaiqi Chen, Yifei Huang et al. | [Abstract](https://arxiv.org/abs/2410.07584) · [PDF](https://arxiv.org/pdf/2410.07584) | needs-review |
 | 2024-10-09 | VIP: Vision Instructed Pre-training for Robotic Manipulation | Zhuoling Li, Liangliang Ren, Jinrong Yang, Yong Zhao et al. | [Abstract](https://arxiv.org/abs/2410.07169) · [PDF](https://arxiv.org/pdf/2410.07169) | needs-review |
 | 2024-10-08 | Thrust Microstepping via Acceleration Feedback in Quadrotor Control for Aerial Grasping of Dynamic Payload | Ashish Kumar, Laxmidhar Behera | [Abstract](https://arxiv.org/abs/2410.05737) · [PDF](https://arxiv.org/pdf/2410.05737) | needs-review |

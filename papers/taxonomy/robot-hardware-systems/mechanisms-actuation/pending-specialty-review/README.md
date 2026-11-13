@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Pending%20specialty%20review#research-workbench)
 
-> 81 conference papers · 225 recent arXiv papers
+> 81 conference papers · 227 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -106,10 +106,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Development and Control of Robot Hand with Finger Camera for Garment Handling Tasks | IROS · Robot Hand | [Paper](https://doi.org/10.1109/IROS47612.2022.9982134) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982134) | needs-review |
 | 2022 | Large-Scale ADMM-based Co-Design of Legged Robots | IROS · Legged | [Paper](https://doi.org/10.1109/IROS47612.2022.9981641) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981641) | needs-review |
 
-## Recent arXiv papers (225)
+## Recent arXiv papers (227)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | Agibot: An Open-Source Modular Swerve-Drive Robot Platform for Agricultural Robotics Research and Education | Moeen Ul Islam, Bishal Adhikari, Kori Edwards, Lorien Harvey et al. | [Abstract](https://arxiv.org/abs/2611.10235) · [PDF](https://arxiv.org/pdf/2611.10235) | needs-review |
 | 2026-10-30 | Does Validation Loss Predict Real-Robot Success? Evidence from Four Imitation-Learning Policies on a Low-Cost Arm | Simon Cowling | [Abstract](https://arxiv.org/abs/2611.00283) · [PDF](https://arxiv.org/pdf/2611.00283) | needs-review |
 | 2026-10-27 | VLA-Stem: A Lightweight Safety Mechanism for Vision-Language-Action Models via Reinforcement Learning | Bojun Zou, Wenhao Yu, Jiaohao Li, Jiaxuan Lin et al. | [Abstract](https://arxiv.org/abs/2610.37378) · [PDF](https://arxiv.org/pdf/2610.37378) | needs-review |
 | 2026-10-27 | From Biological Curves to Soft Modular Robots: Learning-Based Inverse Design with Uncertainty-Guided Refinement | Dixiang Wang, Minghao Zha, Arifur Rahman, Yinhong Qin et al. | [Abstract](https://arxiv.org/abs/2610.36681) · [PDF](https://arxiv.org/pdf/2610.36681) | needs-review |
@@ -141,6 +142,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-09-03 | Robot Aware Computational Design of Object Specific Passive Grippers for Additive Manufacturing | Abdullah Yahya Abdullah Omaisan, Ibrahim Sheikh Mohamed | [Abstract](https://arxiv.org/abs/2609.03761) · [PDF](https://arxiv.org/pdf/2609.03761) | needs-review |
 | 2026-08-21 | GhostTac: Manipulating Tactile Sensors without Physical Contact | Kun Wang, Xuancun Lu, Ruochen Zhou, Kai Wang et al. | [Abstract](https://arxiv.org/abs/2608.20817) · [PDF](https://arxiv.org/pdf/2608.20817) | needs-review |
 | 2026-08-19 | Real-Time Control-Constrained DDP for Underactuated Balancing of Legged Robots | SeongWon Nam, Hyunyong Lee, Hansol Kang, Jiman Park et al. | [Abstract](https://arxiv.org/abs/2608.18552) · [PDF](https://arxiv.org/pdf/2608.18552) | needs-review |
+| 2026-08-15 | KR A1: Design and Preliminary Evaluation of a Humanoid-Robot Interaction Prototype Integrating Personalized Voice Synthesis, Contextual Dialogue, and Emotion-Aware Response Generation | Mahek Aanthu, Om Aanthu, Aaryan AK Aanthu | [Abstract](https://arxiv.org/abs/2611.09900) · [PDF](https://arxiv.org/pdf/2611.09900) | needs-review |
 | 2026-08-11 | Position: Robot Privacy as Embodied Boundary Work. Connecting Capabilities, Contexts, and Design Responses in Everyday Robotics | Liwen He, Shuning Zhang, Chengwen Zhang, Xin Yi et al. | [Abstract](https://arxiv.org/abs/2608.21410) · [PDF](https://arxiv.org/pdf/2608.21410) | needs-review |
 | 2026-07-31 | FBFM: A Training-Free Asynchronous Feedback Mechanism for Flow-Matching in World-Action Models Execution | Peize Li, Ruimeng Zhang, Ru Zhang, Cong Huang et al. | [Abstract](https://arxiv.org/abs/2607.29235) · [PDF](https://arxiv.org/pdf/2607.29235) | needs-review |
 | 2026-07-28 | Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-design | Huy Ha, C. Karen Liu, Shuran Song | [Abstract](https://arxiv.org/abs/2607.25798) · [PDF](https://arxiv.org/pdf/2607.25798) | needs-review |

@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Pending%20specialty%20review#research-workbench)
 
-> 23 conference papers · 78 recent arXiv papers
+> 23 conference papers · 77 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -48,7 +48,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Maximal Manipulation Framework using Quadratic Programming for a Teleoperated Robotic System with Articulated bodies | ICRA · Manipulation | [Paper](https://doi.org/10.1109/icra46639.2022.9811602) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811602) | needs-review |
 | 2022 | A Contact-Safe Reinforcement Learning Framework for Contact-Rich Robot Manipulation | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2207.13438) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981185) | needs-review |
 
-## Recent arXiv papers (78)
+## Recent arXiv papers (77)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -118,7 +118,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-12-12 | Should We Learn Contact-Rich Manipulation Policies from Sampling-Based Planners? | Huaijiang Zhu, Tong Zhao, Xinpei Ni, Jiuguang Wang et al. | [Abstract](https://arxiv.org/abs/2412.09743) · [PDF](https://arxiv.org/pdf/2412.09743) | needs-review |
 | 2024-11-24 | FoAR: Force-Aware Reactive Policy for Contact-Rich Robotic Manipulation | Zihao He, Hongjie Fang, Jingjing Chen, Hao-Shu Fang et al. | [Abstract](https://arxiv.org/abs/2411.15753) · [PDF](https://arxiv.org/pdf/2411.15753) | needs-review |
 | 2024-10-25 | Learning Diffusion Policies from Demonstrations For Compliant Contact-rich Manipulation | Malek Aburub, Cristian C. Beltran-Hernandez, Tatsuya Kamijo, Masashi Hamaya | [Abstract](https://arxiv.org/abs/2410.19235) · [PDF](https://arxiv.org/pdf/2410.19235) | needs-review |
-| 2024-10-10 | Mastering Contact-rich Tasks by Combining Soft and Rigid Robotics with Imitation Learning | Mariano Ramírez Montero, Ebrahim Shahabi, Giovanni Franzese, Jens Kober et al. | [Abstract](https://arxiv.org/abs/2410.07787) · [PDF](https://arxiv.org/pdf/2410.07787) | needs-review |
 | 2024-10-10 | ForceMimic: Force-Centric Imitation Learning with Force-Motion Capture System for Contact-Rich Manipulation | Wenhai Liu, Junbo Wang, Yiming Wang, Weiming Wang et al. | [Abstract](https://arxiv.org/abs/2410.07554) · [PDF](https://arxiv.org/pdf/2410.07554) | needs-review |
 | 2024-09-18 | LEMMo-Plan: LLM-Enhanced Learning from Multi-Modal Demonstration for Planning Sequential Contact-Rich Manipulation Tasks | Kejia Chen, Zheng Shen, Yue Zhang, Lingyun Chen et al. | [Abstract](https://arxiv.org/abs/2409.11863) · [PDF](https://arxiv.org/pdf/2409.11863) | needs-review |
 | 2024-07-24 | Simultaneous Trajectory Optimization and Contact Selection for Contact-rich Manipulation with High-Fidelity Geometry | Mengchao Zhang, Devesh K. Jha, Arvind U. Raghunathan, Kris Hauser | [Abstract](https://arxiv.org/abs/2407.16976) · [PDF](https://arxiv.org/pdf/2407.16976) | needs-review |

@@ -1,7 +1,7 @@
 # conference classification review · 601–800
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
@@ -84,7 +84,6 @@
 | [Combining Ontological Knowledge and Large Language Model for User-Friendly Service Robots](https://arxiv.org/pdf/2410.16804) | 2024 · conference | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
 | [Combining Sampling- and Gradient-based Planning for Contact-rich Manipulation](https://arxiv.org/pdf/2310.04822) | 2024 · conference | Arm & General Object Manipulation → Contact-rich Manipulation → Pending specialty review | title:object manipulation; title:contact rich |
 | [Composable Interaction Primitives: A Structured Policy Class for Efficiently Learning Sustained-Contact Manipulation Skills](https://doi.org/10.1109/ICRA57147.2024.10610846) | 2024 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
-| [Composable Part-Based Manipulation](https://arxiv.org/abs/2405.05876) | 2024 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Composing Pre-Trained Object-Centric Representations for Robotics From "What" and "Where" Foundation Models](https://arxiv.org/pdf/2404.13474) | 2024 · conference | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
 | [Configuration Space Distance Fields for Manipulation Planning](https://arxiv.org/abs/2406.01137) | 2024 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Constraint-Aware Intent Estimation for Dynamic Human-Robot Object Co-Manipulation](https://doi.org/10.15607/rss.2024.xx.028) | 2024 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
@@ -208,3 +207,4 @@
 | [Language and Sketching: An LLM-driven Interactive Multimodal Multitask Robot Navigation Framework](https://arxiv.org/pdf/2311.08244) | 2024 · conference | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
 | [Large Language Models for Robot Task Allocation](https://www.iaarc.org/./publications/fulltext/05_ICRA_2024_Paper_61.pdf) | 2024 · conference | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
 | [Large-scale Deployment of Vision-based Tactile Sensors on Multi-fingered Grippers](https://arxiv.org/pdf/2408.02206) | 2024 · conference | 暂定二级 / provisional: Robot Hardware & Systems → Mechanisms & Actuation → Pending specialty review | title:hardware or deployment contribution; fallback |
+| [Learning a Pre-Grasp Manipulation Policy to Effectively Retrieve a Target in Dense Clutter](https://doi.org/10.1109/IROS58592.2024.10801734) | 2024 · conference | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasp |

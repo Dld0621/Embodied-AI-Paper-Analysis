@@ -1,12 +1,12 @@
 # Hands, Grippers & Arms · 手、夹爪与机械臂设计
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Hands%2C%20Grippers%20%26%20Arms#research-workbench)
 
-> 2 conference papers · 20 recent arXiv papers
+> 2 conference papers · 21 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,10 +27,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | A Novel Soft Gripper Design Integrating a Unilateral Fingernail-like Mechanism for Grasping Flat Objects | ICRA · Grasp | [Paper](https://doi.org/10.1109/icra57385.2026.11696803) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696803) | rule-assigned |
 | 2024 | EyeSight Hand: Design of a Fully-Actuated Dexterous Robot Hand with Integrated Vision-Based Tactile Sensors and Compliant Actuation | IROS · Dexterous | [Paper](https://arxiv.org/pdf/2408.06265) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802778) | rule-assigned |
 
-## Recent arXiv papers (20)
+## Recent arXiv papers (21)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-11 | DexRemo: A Force-Sensing Hand Platform and Task Suite for Contact-Rich Removal Manipulation | Liman Wang, Hanyang Zhong, Sun Zhaole, Wenting Cao et al. | [Abstract](https://arxiv.org/abs/2611.15981) · [PDF](https://arxiv.org/pdf/2611.15981) | reviewed |
 | 2026-11-02 | MABEL: An Open Anthropomorphic Mobile Bimanual Platform for Teleoperation and Learning | Qilong Cheng, Rooholla Khorrambakht, Mohamed Yassine Kabouri, Quang Nam Nguyen et al. | [Abstract](https://arxiv.org/abs/2611.04083) · [PDF](https://arxiv.org/pdf/2611.04083) | reviewed |
 | 2026-10-29 | SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing | Yunchu Zhang, Ray Song, Junhan Jiao, Liyiming Ke et al. | [Abstract](https://arxiv.org/abs/2610.40646) · [PDF](https://arxiv.org/pdf/2610.40646) | reviewed |
 | 2026-10-13 | PACT: Posture-Aligned Co-Design Technique for Hand Configuration and Retargeting in Multi-Finger Imitation Learning | Koyo Sasazaki, Satoshi Funabashi, Pranav Ponnivalavan, Alexander Schmitz et al. | [Abstract](https://arxiv.org/abs/2610.18443) · [PDF](https://arxiv.org/pdf/2610.18443) | reviewed |

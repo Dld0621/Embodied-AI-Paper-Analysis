@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题 · Conference 2023
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 93 papers · complete list for this taxonomy leaf
+> 94 papers · complete list for this taxonomy leaf
 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
@@ -14,6 +14,7 @@
 | 2023 | A Universal Semantic-Geometric Representation for Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2306.10474) · [Index](https://dblp.org/rec/conf/corl/ZhangHCZG23) | needs-review |
 | 2023 | Act3D: 3D Feature Field Transformers for Multi-Task Robotic Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2306.17817) · [Index](https://dblp.org/rec/conf/corl/GervetXGF23) | needs-review |
 | 2023 | ChainedDiffuser: Unifying Trajectory Diffusion and Keypose Prediction for Robotic Manipulation | CoRL · Manipulation | [Paper](https://www.semanticscholar.org/paper/c36f3635e090aba84e5e83b904a7697e83730be6) · [Index](https://dblp.org/rec/conf/corl/XianGGKF23) | needs-review |
+| 2023 | Composable Part-Based Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2405.05876) · [Index](https://dblp.org/rec/conf/corl/LiuMHHG023) | needs-review |
 | 2023 | Diff-LfD: Contact-aware Model-based Learning from Visual Demonstration for Robotic Manipulation via Differentiable Physics-based Simulation and Rendering | CoRL · Simulation | [Paper](https://www.semanticscholar.org/paper/de3eb53f4e4e5eec707ccd7f1991566697a68e13) · [Index](https://dblp.org/rec/conf/corl/ZhuKXSBLLZYLT023) | needs-review |
 | 2023 | Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation | CoRL · Manipulation | [Paper](https://arxiv.org/pdf/2308.07931) · [Index](https://dblp.org/rec/journals/corr/abs-2308-07931) | needs-review |
 | 2023 | DYNAMO-GRASP: DYNAMics-aware Optimization for GRASP Point Detection in Suction Grippers | CoRL · Grasp | [Paper](https://www.semanticscholar.org/paper/b21ccd862c0a2d7fcc67324de028240dd18eaee0) · [Index](https://dblp.org/rec/conf/corl/YangAGB023) | needs-review |

@@ -1,12 +1,12 @@
 # Task & Capability Benchmarks · 任务与能力基准
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Experimental%20Methods&specialty=Task%20%26%20Capability%20Benchmarks#research-workbench)
 
-> 84 conference papers · 705 recent arXiv papers
+> 84 conference papers · 712 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -109,10 +109,18 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots | NeurIPS · Benchmark | [Paper](https://arxiv.org/abs/2201.09863) · [Index](https://dblp.org/rec/conf/nips/BhatiaJTXM21) | rule-assigned |
 | 2022 | VLMbench: A Compositional Benchmark for Vision-and-Language Manipulation | NeurIPS · Language manipulation benchmark | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/04543a88eae2683133c1acbef5a6bf77-Abstract-Datasets_and_Benchmarks.html) · [Official](https://proceedings.neurips.cc/paper_files/paper/2022/hash/04543a88eae2683133c1acbef5a6bf77-Abstract-Datasets_and_Benchmarks.html) | rule-assigned |
 
-## Recent arXiv papers (705)
+## Recent arXiv papers (712)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | UAV-Flow++: A Unified Suite for Benchmarking and Learning Language-Guided UAV Flight | Donglin Yang, Xiangyu Wang, Yantong Zhong, Wenhao Zheng et al. | [Abstract](https://arxiv.org/abs/2611.17163) · [PDF](https://arxiv.org/pdf/2611.17163) | rule-assigned |
+| 2026-11-12 | Informative Path Planning with Gaussian Processes: Error Bounds, Algorithms, and Benchmarks | Kalvik Jakkala, Jennifer Wakulicz, Donald G. Dansereau, Srinivas Akella et al. | [Abstract](https://arxiv.org/abs/2611.16877) · [PDF](https://arxiv.org/pdf/2611.16877) | rule-assigned |
+| 2026-11-12 | AstroMemBench: A Benchmark for Memory Systems in Embodied Spacecraft Agents | You Wu, Guhong Zhang, Hongwei Li, Xinyue Hong et al. | [Abstract](https://arxiv.org/abs/2611.16590) · [PDF](https://arxiv.org/pdf/2611.16590) | rule-assigned |
+| 2026-11-11 | JustRUA: A Controlled Study of GPT-6 Robot-Use Agents | Zefan Wang, Yufan Dang, Xuanwei Shi, Mingqi Gao et al. | [Abstract](https://arxiv.org/abs/2611.16009) · [PDF](https://arxiv.org/pdf/2611.16009) | rule-assigned |
+| 2026-11-11 | Genie Sim Benchmark: Real-to-Sim Fidelity and Evaluation | Di Yang, Da Huang, Yang Lv, Fan Yang et al. | [Abstract](https://arxiv.org/abs/2611.15020) · [PDF](https://arxiv.org/pdf/2611.15020) | rule-assigned |
+| 2026-11-09 | GeoMind: A Benchmark for Spatial Understanding in Robotic Manipulation | Jinghe Wang, Xinrui Cao, Duo Wu, Chenghao Gu et al. | [Abstract](https://arxiv.org/abs/2611.12175) · [PDF](https://arxiv.org/pdf/2611.12175) | rule-assigned |
+| 2026-11-09 | Embodied First Exam | Kangrui Wang, Qineng Wang, Changhe Chen, Pingyue Zhang et al. | [Abstract](https://arxiv.org/abs/2611.12177) · [PDF](https://arxiv.org/pdf/2611.12177) | reviewed |
+| 2026-11-07 | EmbodiedIntentBench: Benchmarking Intent-Driven Runtime Adaptation for Mobile Robotic Missions | Rajat Bhattacharjya, Changwoon Lee, Hyeonjong Ju, Sing-Yao Wu et al. | [Abstract](https://arxiv.org/abs/2611.10498) · [PDF](https://arxiv.org/pdf/2611.10498) | rule-assigned |
 | 2026-11-05 | Symmetry-Aware Surrogate-Assisted Testing of UAVs | Anas Shrinah, Chris Bennett, Kerstin Eder | [Abstract](https://arxiv.org/abs/2611.08012) · [PDF](https://arxiv.org/pdf/2611.08012) | rule-assigned |
 | 2026-11-05 | GraspBench: Execution-Aware Cross-Robot Evaluation of 6-DoF Grasp Generation in MuJoCo | Abdul Basit, Bibek Poudel, Muhammad Shafique | [Abstract](https://arxiv.org/abs/2611.07651) · [PDF](https://arxiv.org/pdf/2611.07651) | reviewed |
 | 2026-11-04 | WayPOP: A Panoramic Open-Set Panoptic Tracking Benchmark | Rohit Mohan, Maximilian Luz, Swarnava Chowdhury, Yao Lu et al. | [Abstract](https://arxiv.org/abs/2611.05801) · [PDF](https://arxiv.org/pdf/2611.05801) | rule-assigned |
@@ -342,7 +350,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-07 | IR-SIM: A Lightweight Declarative Simulator for Navigation Learning and Benchmarking | Ruihua Han, Shuai Wang, Chengyang Li, Rui Gao et al. | [Abstract](https://arxiv.org/abs/2606.08729) · [PDF](https://arxiv.org/pdf/2606.08729) | rule-assigned |
 | 2026-06-06 | EmbodimentSemantic: A Spatial Scene-Graph Dataset and Benchmark for Vision-Language Models on Embodied Manipulation Trajectories | Hassan Jaber, Refinath S N, Luca Cagliero, Christopher E. Mower et al. | [Abstract](https://arxiv.org/abs/2607.00020) · [PDF](https://arxiv.org/pdf/2607.00020) | rule-assigned |
 | 2026-06-05 | Dash2Sim: Closed-Loop Driving Simulation from in-the-wild Dashcam Videos | Anurag Ghosh, Francesco Pittaluga, Khiem Vuong, Angela Chen et al. | [Abstract](https://arxiv.org/abs/2606.07366) · [PDF](https://arxiv.org/pdf/2606.07366) | rule-assigned |
-| 2026-06-03 | MineXplore: An Open-Source Reinforcement Learning Exploration Benchmark for GNSS-Denied Underground Environment | Abhishek S, Badrikanath Praharaj, Sreeram MV | [Abstract](https://arxiv.org/abs/2606.04569) · [PDF](https://arxiv.org/pdf/2606.04569) | rule-assigned |
+| 2026-06-03 | MineXplore: An Open-Source Reinforcement Learning Exploration Benchmark for GNSS-Denied Underground Environment | Abhishek Seetharamu, Badrikanath Praharaj, Sreeram MV | [Abstract](https://arxiv.org/abs/2606.04569) · [PDF](https://arxiv.org/pdf/2606.04569) | rule-assigned |
 | 2026-06-02 | WorkBenchMark: A LEGO-Based Assembly Benchmark with an Assembly-by-Disassembly Baseline for the Smart Manufacturing League | Wenbo Ma, Daniel Swoboda, Matteo Tschesche, Till Hofmann | [Abstract](https://arxiv.org/abs/2606.19358) · [PDF](https://arxiv.org/pdf/2606.19358) | rule-assigned |
 | 2026-06-02 | VLESA: Vision-Language Embodied Safety Agent for Human Activity Monitoring | Hanjiang Hu, Yiyuan Pan, Jiaxing Li, Xusheng Luo et al. | [Abstract](https://arxiv.org/abs/2606.03954) · [PDF](https://arxiv.org/pdf/2606.03954) | rule-assigned |
 | 2026-06-02 | RobotValues: Evaluating Household Robots When Human Values Conflict | Jongwook Han, Hyeongjin Kim, Yohan Jo | [Abstract](https://arxiv.org/abs/2606.03312) · [PDF](https://arxiv.org/pdf/2606.03312) | rule-assigned |
@@ -817,7 +825,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-22 | A Propagation Perspective on Recursive Forward Dynamics for Systems with Kinematic Loops | Matthew Chignoli, Nicholas Adrian, Sangbae Kim, Patrick M. Wensing | [Abstract](https://arxiv.org/abs/2311.13732) · [PDF](https://arxiv.org/pdf/2311.13732) | rule-assigned |
 | 2023-11-15 | Nothing Stands Still: A Spatiotemporal Benchmark on 3D Point Cloud Registration Under Large Geometric and Temporal Change | Tao Sun, Yan Hao, Shengyu Huang, Silvio Savarese et al. | [Abstract](https://arxiv.org/abs/2311.09346) · [PDF](https://arxiv.org/pdf/2311.09346) | rule-assigned |
 | 2023-11-13 | Interaction is all You Need? A Study of Robots Ability to Understand and Execute | Kushal Koshti, Nidhir Bhavsar | [Abstract](https://arxiv.org/abs/2311.07150) · [PDF](https://arxiv.org/pdf/2311.07150) | rule-assigned |
-| 2023-11-09 | VoxNeRF: Bridging Voxel Representation and Neural Radiance Fields for Enhanced Indoor View Synthesis | Sen Wang, Qing Cheng, Stefano Gasperini, Wei Zhang et al. | [Abstract](https://arxiv.org/abs/2311.05289) · [PDF](https://arxiv.org/pdf/2311.05289) | rule-assigned |
 
 ---
 

@@ -1,12 +1,12 @@
 # Tactile Representation · 触觉表征
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Tactile%20Representation#research-workbench)
 
-> 64 conference papers · 136 recent arXiv papers
+> 64 conference papers · 137 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -89,10 +89,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Play it by Ear: Learning Skills amidst Occlusion through Audio-Visual Imitation Learning | RSS · Imitation Learning | [Paper](https://arxiv.org/pdf/2205.14850) · [Index](https://dblp.org/rec/journals/corr/abs-2205-14850) | rule-assigned |
 | 2022 | Understanding Dynamic Tactile Sensing for Liquid Property Estimation | RSS · Tactile | [Paper](https://arxiv.org/pdf/2205.08771) · [Index](https://dblp.org/rec/journals/corr/abs-2205-08771) | rule-assigned |
 
-## Recent arXiv papers (136)
+## Recent arXiv papers (137)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-09 | Learning Heterogeneous Tactile Representation for General Dexterous Manipulation | Bing Han, Yichuan Peng, Haoyu Dong, Yuanmeng Hu et al. | [Abstract](https://arxiv.org/abs/2611.12806) · [PDF](https://arxiv.org/pdf/2611.12806) | rule-assigned |
 | 2026-11-06 | Robust Readout of Cross-Point Resistive Arrays via Time-Domain Optimization | Taro Tako, Hiroshi Kaminaga, Taisuke Kobayashi | [Abstract](https://arxiv.org/abs/2611.09059) · [PDF](https://arxiv.org/pdf/2611.09059) | rule-assigned |
 | 2026-11-06 | A wearable input/output interface learns personalized models of haptic perception | Wen Li, E. Magnus Adams, Zijie Xu, Jiawen Yao et al. | [Abstract](https://arxiv.org/abs/2611.09708) · [PDF](https://arxiv.org/pdf/2611.09708) | rule-assigned |
 | 2026-11-05 | Flexible Piezoelectric Tactile Sensing System for Intelligent Object Recognition | Razan Khalifeh, Mohamad Yaacoub, Christian Gianoglio, Moustafa Saleh et al. | [Abstract](https://arxiv.org/abs/2611.07779) · [PDF](https://arxiv.org/pdf/2611.07779) | rule-assigned |

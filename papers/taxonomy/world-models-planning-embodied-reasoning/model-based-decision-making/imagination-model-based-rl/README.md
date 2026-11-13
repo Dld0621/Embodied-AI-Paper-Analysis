@@ -1,12 +1,12 @@
 # Imagination & Model-based RL · 想象训练与模型式 RL
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Model-based%20Decision%20Making&specialty=Imagination%20%26%20Model-based%20RL#research-workbench)
 
-> 4 conference papers · 52 recent arXiv papers
+> 4 conference papers · 55 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,10 +29,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Model-based Adversarial Imitation Learning from Demonstrations and Human Reward | IROS · Imitation Learning | [Paper](https://doi.org/10.1109/IROS55552.2023.10341411) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341411) | rule-assigned |
 | 2022 | SAM-RL: Sensing-aware model-based reinforcement learning via differentiable physics-based simulation and rendering | RSS · Simulation | [Paper](https://arxiv.org/pdf/2210.15185) · [Publisher](https://doi.org/10.1177/02783649241284653) | rule-assigned |
 
-## Recent arXiv papers (52)
+## Recent arXiv papers (55)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-11 | Bind-WAM: Binding-Uncertainty-Guided Selective Future Imagination in World Action Models | Chenhao Qiu, Shuyi Chen, Songen Gu, Shufeng Nan et al. | [Abstract](https://arxiv.org/abs/2611.15368) · [PDF](https://arxiv.org/pdf/2611.15368) | rule-assigned |
+| 2026-11-10 | Koopman Model-Based Reinforcement Learning | Wenjian Hao, Paulo C. Heredia, Shaoshuai Mou | [Abstract](https://arxiv.org/abs/2611.14186) · [PDF](https://arxiv.org/pdf/2611.14186) | rule-assigned |
+| 2026-11-10 | Elastic-WAM: Adaptive Spatiotemporal Imagination for Efficient Robot Control | Haitian Li, Tianfu Li, Xuxi Zhao, Zizheng Liu et al. | [Abstract](https://arxiv.org/abs/2611.14257) · [PDF](https://arxiv.org/pdf/2611.14257) | rule-assigned |
 | 2026-11-02 | W2A: Distilling World Priors into Action Models for Real-Time Robotic Control | Xiaopeng Zhang, Yongjin Mu, Yueyang Weng, Chengzhi Zhao et al. | [Abstract](https://arxiv.org/abs/2611.02600) · [PDF](https://arxiv.org/pdf/2611.02600) | rule-assigned |
 | 2026-10-27 | ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning | Chaehyun Kim, Chi-Pin Huang, Jisoo Kim, Min-Hung Chen et al. | [Abstract](https://arxiv.org/abs/2610.37666) · [PDF](https://arxiv.org/pdf/2610.37666) | rule-assigned |
 | 2026-10-22 | DiffDreamer: Coupling World Models with Differentiable Simulation for Agile Quadrotor Control | Fanxing Li, Yuxiang Huang, Shengyang Wang, Fangyu Sun et al. | [Abstract](https://arxiv.org/abs/2610.31617) · [PDF](https://arxiv.org/pdf/2610.31617) | reviewed |

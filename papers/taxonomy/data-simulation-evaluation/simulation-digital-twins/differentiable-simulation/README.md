@@ -1,12 +1,12 @@
 # Differentiable Simulation · 可微仿真
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Differentiable%20Simulation#research-workbench)
 
-> 7 conference papers · 38 recent arXiv papers
+> 7 conference papers · 39 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -32,10 +32,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | FRIDA: A Collaborative Robot Painter with a Differentiable, Real2Sim2Real Planning Environment | ICRA · Sim2Real | [Paper](https://arxiv.org/pdf/2210.00664) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160702) | rule-assigned |
 | 2022 | Rethinking Optimization with Differentiable Simulation from a Global Perspective | CoRL · Simulation | [Paper](https://arxiv.org/abs/2207.00167) · [Index](https://dblp.org/rec/conf/corl/AntonovaYJB22) | rule-assigned |
 
-## Recent arXiv papers (38)
+## Recent arXiv papers (39)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-09 | Same Physics, Different Gradients: A State-of-the-Art Report on Differentiable Physics Simulation | Lei Shu, Zizhou Huang, Yunuo Chen, Yifei Li et al. | [Abstract](https://arxiv.org/abs/2611.12162) · [PDF](https://arxiv.org/pdf/2611.12162) | rule-assigned |
 | 2026-10-29 | PhysVLMM: Interaction-Conditioned Physical Belief Maps for Articulated Objects in Robot Scene Maps | Dibyendu Ghosh | [Abstract](https://arxiv.org/abs/2610.40539) · [PDF](https://arxiv.org/pdf/2610.40539) | rule-assigned |
 | 2026-10-27 | Learning Visuomotor Quadrotor Flight Through Dynamic Narrow Gaps via Differentiable Simulation | Riccardo Bianco, Yunfan Ren, Jiaxu Xing, Davide Scaramuzza | [Abstract](https://arxiv.org/abs/2610.37557) · [PDF](https://arxiv.org/pdf/2610.37557) | rule-assigned |
 | 2026-10-06 | StableGrasp: Reconstructing Physically Stable Human Hand Grasps from Single Images | Han Jiang, Etienne Vouga, Qixing Huang, Georgios Pavlakos | [Abstract](https://arxiv.org/abs/2610.09195) · [PDF](https://arxiv.org/pdf/2610.09195) | rule-assigned |

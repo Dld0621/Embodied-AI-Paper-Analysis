@@ -1,12 +1,12 @@
 # Calibration & Time Alignment · 标定与时间对齐
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=State%20Estimation%20%26%20Active%20Perception&specialty=Calibration%20%26%20Time%20Alignment#research-workbench)
 
-> 4 conference papers · 165 recent arXiv papers
+> 4 conference papers · 167 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,10 +29,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | MEMROC: Multi-Eye to Mobile RObot Calibration | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2410.08805) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801771) | rule-assigned |
 | 2023 | Ego-Noise Reduction of a Mobile Robot Using Noise Spatial Covariance Matrix Learning and Minimum Variance Distortionless Response | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2303.00829) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342193) | rule-assigned |
 
-## Recent arXiv papers (165)
+## Recent arXiv papers (167)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-09 | Galilean Robots, Aristotelian Sensors: Joint Spatiotemporal Trajectory Estimation and Extrinsic Calibration | Abhishek Goudar, Jonathan Kelly, Timothy D. Barfoot | [Abstract](https://arxiv.org/abs/2611.12526) · [PDF](https://arxiv.org/pdf/2611.12526) | rule-assigned |
+| 2026-11-08 | CrossLiDAR: Controllable Multi-Sensor LiDAR Sequence Generation | Khanh Nguyen, Thomas Walker, Hichem Telli, Carlos de la Torre-Ortiz et al. | [Abstract](https://arxiv.org/abs/2611.11131) · [PDF](https://arxiv.org/pdf/2611.11131) | rule-assigned |
 | 2026-11-06 | Polarization calibration of fisheye cameras using skylight in the wild | Shuo Wang, Shiqi Che, Dianze Dong, Wenxin Liu | [Abstract](https://arxiv.org/abs/2611.08911) · [PDF](https://arxiv.org/pdf/2611.08911) | rule-assigned |
 | 2026-11-05 | Kinematic Hypothesis Context: Embodiment-Conditioned Learned Video Coding for Bandwidth-Limited Robot Policy Uplinks | Yuze Lu | [Abstract](https://arxiv.org/abs/2611.07411) · [PDF](https://arxiv.org/pdf/2611.07411) | rule-assigned |
 | 2026-11-02 | SyncHeC: Markerless Spatio-Temporal Hand-Eye Calibration via Differentiable Rendering and Continuous-Time Joint Optimization | Zhengdong Hong | [Abstract](https://arxiv.org/abs/2611.02999) · [PDF](https://arxiv.org/pdf/2611.02999) | rule-assigned |

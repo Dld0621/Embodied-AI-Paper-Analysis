@@ -1,12 +1,12 @@
 # Object-goal & Semantic Navigation · 物体目标与语义导航
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Goal%20%26%20Language%20Navigation&specialty=Object-goal%20%26%20Semantic%20Navigation#research-workbench)
 
-> 27 conference papers · 104 recent arXiv papers
+> 27 conference papers · 105 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -52,10 +52,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Zero-Shot Object Goal Visual Navigation | ICRA · Navigation | [Paper](https://arxiv.org/pdf/2206.07423) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161289) | rule-assigned |
 | 2022 | Learning Active Camera for Multi-Object Navigation | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.07505) · [Index](https://dblp.org/rec/conf/nips/ChenJLH0LTG22) | rule-assigned |
 
-## Recent arXiv papers (104)
+## Recent arXiv papers (105)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-11 | Decide Before You Move: Diffusion-Generated Search Reference for Zero-Shot Open-Vocabulary Object Navigation in Semi-Static Environments | Yuxuan Feng, Fujing Xie, Sören Schwertfeger, Hermann Blum | [Abstract](https://arxiv.org/abs/2611.15093) · [PDF](https://arxiv.org/pdf/2611.15093) | rule-assigned |
 | 2026-11-02 | SNAP: Semantic Navigation Among Pedestrians | Jakob Wolfram, Pascal Roth, Fan Yang, Cesar Cadena et al. | [Abstract](https://arxiv.org/abs/2611.03498) · [PDF](https://arxiv.org/pdf/2611.03498) | rule-assigned |
 | 2026-10-23 | SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning | Yuhan Liu, Lianhui Qin, Shenji Wan | [Abstract](https://arxiv.org/abs/2610.32978) · [PDF](https://arxiv.org/pdf/2610.32978) | rule-assigned |
 | 2026-10-14 | F2A-ObjectNav: An Adaptive Agentic Architecture for Object-Goal Navigation | Seyed Ali Mirghasemi, Alireza Taheri | [Abstract](https://arxiv.org/abs/2610.19618) · [PDF](https://arxiv.org/pdf/2610.19618) | rule-assigned |

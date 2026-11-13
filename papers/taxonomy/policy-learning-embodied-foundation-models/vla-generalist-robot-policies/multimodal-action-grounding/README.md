@@ -1,12 +1,12 @@
 # Multimodal Action Grounding · 多模态动作对齐
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=VLA%20%26%20Generalist%20Robot%20Policies&specialty=Multimodal%20Action%20Grounding#research-workbench)
 
-> 10 conference papers · 44 recent arXiv papers
+> 10 conference papers · 43 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -35,7 +35,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models | RSS · Language Model | [Paper](https://arxiv.org/abs/2211.11736) · [Index](https://dblp.org/rec/conf/rss/XiaoCSWBHLT23) | rule-assigned |
 | 2022 | Embodied Concept Learner: Self-supervised Learning of Concepts and Mapping through Instruction Following | CoRL · Instruction Following | [Paper](https://arxiv.org/abs/2304.03767) · [Index](https://dblp.org/rec/conf/corl/DingXCC0TG22) | rule-assigned |
 
-## Recent arXiv papers (44)
+## Recent arXiv papers (43)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -82,7 +82,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-02-09 | Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following | Brian Yang, Huangyuan Su, Nikolaos Gkanatsios, Tsung-Wei Ke et al. | [Abstract](https://arxiv.org/abs/2402.06559) · [PDF](https://arxiv.org/pdf/2402.06559) | rule-assigned |
 | 2024-01-23 | AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents | Michael Ahn, Debidatta Dwibedi, Chelsea Finn, Montse Gonzalez Arenas et al. | [Abstract](https://arxiv.org/abs/2401.12963) · [PDF](https://arxiv.org/pdf/2401.12963) | rule-assigned |
 | 2023-12-12 | LMDrive: Closed-Loop End-to-End Driving with Large Language Models | Hao Shao, Yuxuan Hu, Letian Wang, Steven L. Waslander et al. | [Abstract](https://arxiv.org/abs/2312.07488) · [PDF](https://arxiv.org/pdf/2312.07488) | rule-assigned |
-| 2023-11-12 | DialMAT: Dialogue-Enabled Transformer with Moment-Based Adversarial Training | Kanta Kaneda, Ryosuke Korekata, Yuiga Wada, Shunya Nagashima et al. | [Abstract](https://arxiv.org/abs/2311.06855) · [PDF](https://arxiv.org/pdf/2311.06855) | rule-assigned |
 
 ---
 

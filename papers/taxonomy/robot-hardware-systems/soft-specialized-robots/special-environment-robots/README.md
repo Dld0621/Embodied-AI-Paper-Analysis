@@ -1,12 +1,12 @@
 # Special-environment Robots · 特殊环境机器人
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Soft%20%26%20Specialized%20Robots&specialty=Special-environment%20Robots#research-workbench)
 
-> 3 conference papers · 25 recent arXiv papers
+> 3 conference papers · 26 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -28,10 +28,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Passive Underwater Robot Hand Utilizing Water Resistance | IROS · Robot Hand | [Paper](https://doi.org/10.1109/IROS58592.2024.10802745) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802745) | rule-assigned |
 | 2023 | A Non-planar Assembly of Modular Tetrahedral-shaped Aerial Robots | ICRA · Assembly | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161301) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161301) | rule-assigned |
 
-## Recent arXiv papers (25)
+## Recent arXiv papers (26)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-06 | Mobility Information Capacity of Multi-Robot Systems: Safety-Aware Maneuver Design | Weijie Yuan | [Abstract](https://arxiv.org/abs/2611.10298) · [PDF](https://arxiv.org/pdf/2611.10298) | rule-assigned |
 | 2026-10-19 | Design and Control of a Multimodal Legged-Aerial Robot Through Separate Control Contraction Metrics | Kaushik Venkatesh Krishnamurthy, Eric Sihite, Alireza Ramezani, Morteza Gharib | [Abstract](https://arxiv.org/abs/2610.27315) · [PDF](https://arxiv.org/pdf/2610.27315) | rule-assigned |
 | 2026-10-13 | MARTS: A Modular Agricultural Robot for Targeted Spraying of Diseased Tomato Plants in Greenhouses | Rajmeet Singh, Manveen Kaur, Yusuf Adamu, Lochan Kshetrimayum et al. | [Abstract](https://arxiv.org/abs/2610.18123) · [PDF](https://arxiv.org/pdf/2610.18123) | rule-assigned |
 | 2026-09-20 | Towards Reliable Underwater Diver-Robot Interaction: Gesture Design, Interaction Logic, and Real-World Evaluation | Yingqi Liu, Kanzhong Yao, Zimeng Peng, Yuanbo Bi et al. | [Abstract](https://arxiv.org/abs/2609.23392) · [PDF](https://arxiv.org/pdf/2609.23392) | rule-assigned |

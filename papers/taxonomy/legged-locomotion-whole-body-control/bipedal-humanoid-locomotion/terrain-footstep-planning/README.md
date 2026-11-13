@@ -1,12 +1,12 @@
 # Terrain & Footstep Planning · 复杂地形与落脚规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Terrain%20%26%20Footstep%20Planning#research-workbench)
 
-> 12 conference papers · 40 recent arXiv papers
+> 12 conference papers · 42 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -37,10 +37,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Anisotropic-Stiffness Belt in Mono wheeled Flexible Track for Rough Terrain Locomotion | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9981247) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981247) | rule-assigned |
 | 2022 | Elevation Mapping for Locomotion and Navigation using GPU | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2204.12876) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981507) | rule-assigned |
 
-## Recent arXiv papers (40)
+## Recent arXiv papers (42)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-08 | HINT-VLM: Humanoid Interactive Navigation over Rough Terrain with Embodiment-Grounded Vision-Language Model | Ziwon Yoon, Seok Hwan Kim, Yiyu Chen, Quan Nguyen et al. | [Abstract](https://arxiv.org/abs/2611.11665) · [PDF](https://arxiv.org/pdf/2611.11665) | rule-assigned |
+| 2026-11-06 | Capturability-Aware Footstep Planning in Cluttered Environments: A Recursively Feasible Sequential MPC on Axis-Aligned Safe Corridors | Athanasios Kyriakopoulos, Shubham S. Kumbhar, Kunal S. Narkhede, Abhijeet M. Kulkarni et al. | [Abstract](https://arxiv.org/abs/2611.10169) · [PDF](https://arxiv.org/pdf/2611.10169) | rule-assigned |
 | 2026-10-27 | TACOS: Terrain-Aware COntact Supervision for Visual Footstep Planning | Jean-Michel Fortin, William Larrivée-Hardy, Gabriel Jeanson, Olivier Gamache et al. | [Abstract](https://arxiv.org/abs/2610.37806) · [PDF](https://arxiv.org/pdf/2610.37806) | rule-assigned |
 | 2026-10-21 | Do Earth-Trained Humanoid Controllers Walk on the Moon? Gravity, Terrain, and Soil Transfer | Guillem Casadesus Vila, Sri Aditya Deevi, Grace X. Gao | [Abstract](https://arxiv.org/abs/2610.30080) · [PDF](https://arxiv.org/pdf/2610.30080) | rule-assigned |
 | 2026-09-25 | Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators | Zachary Olkin, William D. Compton, Aaron D. Ames | [Abstract](https://arxiv.org/abs/2609.31577) · [PDF](https://arxiv.org/pdf/2609.31577) | rule-assigned |
@@ -50,7 +52,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-06 | TACT-ful: Multi-Channel Terrain Affordance and Compliance Training for Payload-Robust Perceptive Humanoid Locomotion | Thanh Ly, Truong-Duy Dang, Chien Le, Tan-Dzung Do et al. | [Abstract](https://arxiv.org/abs/2606.20645) · [PDF](https://arxiv.org/pdf/2606.20645) | rule-assigned |
 | 2026-06-05 | Learning All-Terrain Locomotion for a Planetary Rover with Actively Articulated Suspension | Arthur Bouton, Tristan D. Hasseler, Michael Paton, Travis Brown et al. | [Abstract](https://arxiv.org/abs/2606.06790) · [PDF](https://arxiv.org/pdf/2606.06790) | rule-assigned |
 | 2026-05-30 | Global-Local Attention Decomposition for Terrain Encoding in Humanoid Perceptive Locomotion | Shengcheng Fu, Yang Zhang, Zhanxiang Cao, Liyun Yan et al. | [Abstract](https://arxiv.org/abs/2606.00637) · [PDF](https://arxiv.org/pdf/2606.00637) | rule-assigned |
-| 2026-05-29 | SSR: Scaling Surefooted and Symmetric Humanoid Traversal to the Open World | Ruiqi Yu, Yiwen Wang, Yuan Hao, Jun WU et al. | [Abstract](https://arxiv.org/abs/2605.30770) · [PDF](https://arxiv.org/pdf/2605.30770) | rule-assigned |
+| 2026-05-29 | SSR: Scaling Surefooted and Symmetric Humanoid Traversal Toward the Open World | Ruiqi Yu, Yiwen Wang, Yuan Hao, Jun Wu et al. | [Abstract](https://arxiv.org/abs/2605.30770) · [PDF](https://arxiv.org/pdf/2605.30770) | rule-assigned |
 | 2026-05-15 | Terrain Consistent Reference-Guided RL for Humanoid Navigation Autonomy | William D. Compton, Zachary Olkin, Aaron D. Ames | [Abstract](https://arxiv.org/abs/2605.15517) · [PDF](https://arxiv.org/pdf/2605.15517) | rule-assigned |
 | 2026-03-10 | Walking on Rough Terrain with Any Number of Legs | Zhuoyang Chen, Xinyuan Wang, Shai Revzen | [Abstract](https://arxiv.org/abs/2603.09147) · [PDF](https://arxiv.org/pdf/2603.09147) | rule-assigned |
 | 2026-03-09 | Omnidirectional Humanoid Locomotion on Stairs via Unsafe Stepping Penalty and Sparse LiDAR Elevation Mapping | Yuzhi Jiang, Yujun Liang, Junhao Li, Han Ding et al. | [Abstract](https://arxiv.org/abs/2603.07928) · [PDF](https://arxiv.org/pdf/2603.07928) | rule-assigned |

@@ -1,12 +1,12 @@
 # Local Avoidance & Trajectory Optimization · 局部避障与轨迹优化
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Motion%20Planning%20%26%20Exploration&specialty=Local%20Avoidance%20%26%20Trajectory%20Optimization#research-workbench)
 
-> 36 conference papers · 497 recent arXiv papers
+> 36 conference papers · 501 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -61,10 +61,15 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | CoMBiNED: Multi-Constrained Model Based Planning for Navigation in Dynamic Environments | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981479) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981479) | rule-assigned |
 | 2022 | Imitation Learning and Model Integrated Excavator Trajectory Planning | IROS · Imitation Learning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981220) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981220) | rule-assigned |
 
-## Recent arXiv papers (497)
+## Recent arXiv papers (501)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | Robot Navigation and Obstacle Avoidance from Randomly Positioned External Cameras | Raul Steinmetz, Jair Augusto Bottega, Ayanori Yorozu, Akihisa Ohya | [Abstract](https://arxiv.org/abs/2611.16282) · [PDF](https://arxiv.org/pdf/2611.16282) | rule-assigned |
+| 2026-11-11 | Generalized Inverse Kinematics via Conditional Flow | Kaitlyn Zhang, Tomás Lozano-Pérez, Leslie Pack Kaelbling | [Abstract](https://arxiv.org/abs/2611.15565) · [PDF](https://arxiv.org/pdf/2611.15565) | rule-assigned |
+| 2026-11-10 | DeRep: Learning Depth Representations for End-to-End Navigation in Cluttered Environments | Hanyu Jin, Kenji Shimada | [Abstract](https://arxiv.org/abs/2611.13499) · [PDF](https://arxiv.org/pdf/2611.13499) | rule-assigned |
+| 2026-11-09 | OASIS: Optimization-Aware Subgoal Inference with Safety Constraints for Autonomous Mobile Robot Navigation | Arian Hajizadeh, Javad Pourrafi Arabani, Negar Shenavar, Sana Bashiri et al. | [Abstract](https://arxiv.org/abs/2611.11996) · [PDF](https://arxiv.org/pdf/2611.11996) | rule-assigned |
+| 2026-11-07 | Model-Based Imitation Learning For Monocular Vision-Based Navigation | Basant Sharma, Prajyot Jadhav, Saqi Hussain Kalan, Arun Kumar Singh | [Abstract](https://arxiv.org/abs/2611.10635) · [PDF](https://arxiv.org/pdf/2611.10635) | rule-assigned |
 | 2026-11-02 | Positive Safety Margins from Artificial Potential Field Reward Augmentation for Size-Robust Obstacle Avoidance under Partial Observability | Ziyi Hao | [Abstract](https://arxiv.org/abs/2611.02947) · [PDF](https://arxiv.org/pdf/2611.02947) | rule-assigned |
 | 2026-10-30 | AC-SMPC: Differentiable Actor--Critic MPC with State Constraints for Safe and Fast Robot Navigation | Chaoran Wu, Jiayu Fan, Qichen Tan, Yuyi Liu et al. | [Abstract](https://arxiv.org/abs/2610.41477) · [PDF](https://arxiv.org/pdf/2610.41477) | rule-assigned |
 | 2026-10-29 | Teaching a Tree to Recover: Online Distillation of an LLM Supervisor with Counterfactual Replay | Kristian Ceder, Kilian Freitag, Knut Åkesson | [Abstract](https://arxiv.org/abs/2610.39775) · [PDF](https://arxiv.org/pdf/2610.39775) | rule-assigned |
@@ -561,7 +566,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-21 | Constraint-Informed Learning for Warm Starting Trajectory Optimization | Julia Briden, Changrak Choi, Kyongsik Yun, Richard Linares et al. | [Abstract](https://arxiv.org/abs/2312.14336) · [PDF](https://arxiv.org/pdf/2312.14336) | rule-assigned |
 | 2023-11-29 | Method for robotic motion compensation during PET imaging of mobile subjects | Junxiang Wang, Iulian I. Iordachita, Peter Kazanzides | [Abstract](https://arxiv.org/abs/2311.17861) · [PDF](https://arxiv.org/pdf/2311.17861) | rule-assigned |
 | 2023-11-16 | Model Checking for Closed-Loop Robot Reactive Planning | Christopher Chandler, Bernd Porr, Alice Miller, Giulia Lafratta | [Abstract](https://arxiv.org/abs/2311.09780) · [PDF](https://arxiv.org/pdf/2311.09780) | rule-assigned |
-| 2023-11-10 | Efficient Learning of Fast Inverse Kinematics with Collision Avoidance | Johannes Tenhumberg, Arman Mielke, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2311.05938) · [PDF](https://arxiv.org/pdf/2311.05938) | rule-assigned |
 
 ---
 

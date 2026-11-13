@@ -1,12 +1,12 @@
 # Soft Mechanisms & Actuation · 软体机构与驱动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Soft%20%26%20Specialized%20Robots&specialty=Soft%20Mechanisms%20%26%20Actuation#research-workbench)
 
-> 4 conference papers · 65 recent arXiv papers
+> 4 conference papers · 64 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,7 +29,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Strong Compliant Grasps Using a Cable-Driven Soft Gripper | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS58592.2024.10801693) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801693) | rule-assigned |
 | 2022 | Collision-Aware Fast Simulation for Soft Robots by Optimization-Based Geometric Computing | IROS · Simulation | [Paper](https://arxiv.org/pdf/2203.02054) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981870) | rule-assigned |
 
-## Recent arXiv papers (65)
+## Recent arXiv papers (64)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -97,7 +97,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-01-30 | 3D-Printed Hydraulic Fluidic Logic Circuitry for Soft Robots | Yuxin Lin, Xinyi Zhou, Wenhan Cao | [Abstract](https://arxiv.org/abs/2401.16827) · [PDF](https://arxiv.org/pdf/2401.16827) | rule-assigned |
 | 2023-12-08 | Fluidic FlowBots: Intelligence embodied in the characteristics of recirculating fluid flow | Maks Gepner, Jonah Mack, Francesco Giorgio-Serchi, Adam A. Stokes | [Abstract](https://arxiv.org/abs/2312.05198) · [PDF](https://arxiv.org/pdf/2312.05198) | rule-assigned |
 | 2023-11-21 | Fin-QD: A Computational Design Framework for Soft Grippers: Integrating MAP-Elites and High-fidelity FEM | Yue Xie, Xing Wang, Fumiya Iida, David Howard | [Abstract](https://arxiv.org/abs/2311.12477) · [PDF](https://arxiv.org/pdf/2311.12477) | rule-assigned |
-| 2023-11-12 | Multimodal Learning of Soft Robot Dynamics using Differentiable Filters | Xiao Liu, Yifan Zhou, Shuhei Ikemoto, Heni Ben Amor | [Abstract](https://arxiv.org/abs/2311.06954) · [PDF](https://arxiv.org/pdf/2311.06954) | rule-assigned |
 
 ---
 

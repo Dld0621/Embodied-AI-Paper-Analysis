@@ -1,12 +1,12 @@
 # Depth & Point Clouds · 深度与点云
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=Depth%20%26%20Point%20Clouds#research-workbench)
 
-> 16 conference papers · 451 recent arXiv papers
+> 16 conference papers · 454 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -41,10 +41,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Any2Policy: Learning Visuomotor Policy with Any-Modality | NeurIPS · Visuomotor | [Paper](https://doi.org/10.52202/079017-4244) · [Publisher](https://doi.org/10.52202/079017-4244) | rule-assigned |
 | 2022 | f-Cal: Aleatoric uncertainty quantification for robot perception via calibrated neural regression | ICRA · Robot Perception | [Paper](https://arxiv.org/pdf/2109.13913) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811903) | rule-assigned |
 
-## Recent arXiv papers (451)
+## Recent arXiv papers (454)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-11 | Adapting Monocular Depth Estimation in Novel Scenes through Disparity Refinement and Robot Ego-Motion | Dimitrios Chatziparaschis, Georgios Georgakis, Adnan I. Ansar, Shehryar Khattak et al. | [Abstract](https://arxiv.org/abs/2611.14958) · [PDF](https://arxiv.org/pdf/2611.14958) | rule-assigned |
+| 2026-11-10 | UGG: Unified Generative Geometry Model | Amani Kiruga, Zhiyi Li, Ruojin Cai, Hansen Lillemark et al. | [Abstract](https://arxiv.org/abs/2611.14440) · [PDF](https://arxiv.org/pdf/2611.14440) | rule-assigned |
+| 2026-11-09 | Rethinking Radar 3D Perception: Representation Learning from Raw Spectra | Miao Zhang, Mohamed Abdelsamad, Bin Yang, Sherif Abdulatif et al. | [Abstract](https://arxiv.org/abs/2611.12334) · [PDF](https://arxiv.org/pdf/2611.12334) | rule-assigned |
 | 2026-11-03 | Physics-Based Plausibility Assessment of AI-Predicted Vehicle Parameters for Automotive Radar in Pre-Crash Scenarios | Rainer Engert, Patrick Zaumseil, Thomas Brandmeier | [Abstract](https://arxiv.org/abs/2611.04871) · [PDF](https://arxiv.org/pdf/2611.04871) | rule-assigned |
 | 2026-11-03 | Do Agentic Policies Need to Look at Every Step? Geometric Abstraction for Reasoning and Action | Yihang Liu, Yiming Chen, Mingzhe Zheng | [Abstract](https://arxiv.org/abs/2611.05058) · [PDF](https://arxiv.org/pdf/2611.05058) | rule-assigned |
 | 2026-11-02 | 3D-BBDA: Backpropagation-Free Black-Box Domain Adaptation for Robust 3D Point Cloud Recognition | Shivangi Rai, Kunal Jangid, Vaibhav Kumar, Vinod K Kurmi | [Abstract](https://arxiv.org/abs/2611.03588) · [PDF](https://arxiv.org/pdf/2611.03588) | rule-assigned |

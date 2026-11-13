@@ -1,12 +1,12 @@
 # Long-horizon & Task-motion Planning · 长时程操作与任务运动规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Long-horizon%20%26%20Task-motion%20Planning#research-workbench)
 
-> 34 conference papers · 206 recent arXiv papers
+> 34 conference papers · 209 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -59,10 +59,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Task and Motion Planning with Large Language Models for Object Rearrangement | IROS · Large Language Model | [Paper](https://arxiv.org/pdf/2303.06247) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342169) | rule-assigned |
 | 2022 | Visually Grounded Task and Motion Planning for Mobile Manipulation | ICRA · Mobile Manipulation | [Paper](https://arxiv.org/abs/2202.10667) · [Index](https://dblp.org/rec/journals/corr/abs-2202-10667) | rule-assigned |
 
-## Recent arXiv papers (206)
+## Recent arXiv papers (209)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | Remember What Changes the Odds: Critic-Gated Event Memory for Long-Horizon Manipulation | Xuanzhuo Liu, Chuankang Li, Maoqing Yao, Guanghui Ren | [Abstract](https://arxiv.org/abs/2611.16386) · [PDF](https://arxiv.org/pdf/2611.16386) | rule-assigned |
+| 2026-11-11 | BiPOP: Partial-Order Planning for Long-Horizon Bimanual Robotic Manipulation | Kun Chu, Xufeng Zhao, Jan-Gerrit Habekost, Cornelius Weber et al. | [Abstract](https://arxiv.org/abs/2611.15317) · [PDF](https://arxiv.org/pdf/2611.15317) | rule-assigned |
+| 2026-11-10 | A computational framework for understanding embodied plans | Aalap D. Shah, Basil Saeed, Joshua B. Tenenbaum, Tobias Gerstenberg et al. | [Abstract](https://arxiv.org/abs/2611.13669) · [PDF](https://arxiv.org/pdf/2611.13669) | rule-assigned |
 | 2026-10-30 | When the Past Shapes Action: Understanding Embodied Memory | Siqi Li, Ziyi Bai, Xinrun Xu, Tinglei Huang et al. | [Abstract](https://arxiv.org/abs/2610.41688) · [PDF](https://arxiv.org/pdf/2610.41688) | rule-assigned |
 | 2026-10-30 | Scaling Trusted Autonomy: Towards Generally Capable Verifiable Robots | Benedict Quartey | [Abstract](https://arxiv.org/abs/2611.00158) · [PDF](https://arxiv.org/pdf/2611.00158) | rule-assigned |
 | 2026-10-26 | Reward-Guided RRT* for Budgeted Task and Motion Planning | Vinícius Araújo de Oliveira, Gabriel Ferreira Mendes Lourenço, Paulo L. J. Drews-Jr, Armando Alves Neto et al. | [Abstract](https://arxiv.org/abs/2610.35289) · [PDF](https://arxiv.org/pdf/2610.35289) | rule-assigned |

@@ -1,12 +1,12 @@
 # Vision-Language-Action Modeling · 视觉语言动作建模
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=VLA%20%26%20Generalist%20Robot%20Policies&specialty=Vision-Language-Action%20Modeling#research-workbench)
 
-> 83 conference papers · 1,583 recent arXiv papers
+> 83 conference papers · 1,610 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -32,7 +32,7 @@ This high-volume specialty is split into smaller complete lists so every page re
 | Conference 2025 | 24 | [Open](./conference-2025.md) |
 | Conference 2024 | 7 | [Open](./conference-2024.md) |
 | Conference 2023 | 3 | [Open](./conference-2023.md) |
-| arXiv 2026 | 1,198 | [Open](./arxiv-2026.md) |
+| arXiv 2026 | 1,225 | [Open](./arxiv-2026.md) |
 | arXiv 2025 | 350 | [Open](./arxiv-2025.md) |
 | arXiv 2024 | 33 | [Open](./arxiv-2024.md) |
 | arXiv 2023 | 2 | [Open](./arxiv-2023.md) |

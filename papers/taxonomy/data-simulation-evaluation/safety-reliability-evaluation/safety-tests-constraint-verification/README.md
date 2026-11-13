@@ -1,7 +1,7 @@
 # Safety Tests & Constraint Verification · 安全测试与约束验证
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Safety%20%26%20Reliability%20Evaluation&specialty=Safety%20Tests%20%26%20Constraint%20Verification#research-workbench)
@@ -31,6 +31,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-10 | LEASH: Stay Safe in Agentic Robotics | Qinfeng Zhu, Weiguang Zhao, Ke Sun, Xihao Guo et al. | [Abstract](https://arxiv.org/abs/2611.14115) · [PDF](https://arxiv.org/pdf/2611.14115) | rule-assigned |
 | 2026-11-06 | Safe Circumnavigation on Heterogeneous Orbits: A Range-Only HOCBF-QP Framework for Nonholonomic Multi-Agent Systems | Shubham Singh, Anand Singh, Anjali Tiwari, Lara Briñón-Arranz et al. | [Abstract](https://arxiv.org/abs/2611.09112) · [PDF](https://arxiv.org/pdf/2611.09112) | rule-assigned |
 | 2026-10-15 | From Optical Flow to Safety: Visual Safety Certification via Scale-Free Relative Motion | Bazeela Banday, Jishnu Keshavan | [Abstract](https://arxiv.org/abs/2610.21374) · [PDF](https://arxiv.org/pdf/2610.21374) | rule-assigned |
 | 2026-10-03 | Human Behavior-Informed Crash Scenario Generation with Real-World Crash Priors for Autonomous Vehicle Safety Evaluation | Mingxing Peng, Xusen Guo, Long Chen, Xintao Yan et al. | [Abstract](https://arxiv.org/abs/2610.04366) · [PDF](https://arxiv.org/pdf/2610.04366) | rule-assigned |
@@ -109,7 +110,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-02-28 | Fault Tolerant Neural Control Barrier Functions for Robotic Systems under Sensor Faults and Attacks | Hongchao Zhang, Luyao Niu, Andrew Clark, Radha Poovendran | [Abstract](https://arxiv.org/abs/2402.18677) · [PDF](https://arxiv.org/pdf/2402.18677) | rule-assigned |
 | 2024-01-25 | GCBF+: A Neural Graph Control Barrier Function Framework for Distributed Safe Multi-Agent Control | Songyuan Zhang, Oswin So, Kunal Garg, Chuchu Fan | [Abstract](https://arxiv.org/abs/2401.14554) · [PDF](https://arxiv.org/pdf/2401.14554) | rule-assigned |
 | 2024-01-03 | Robust Control Barrier Functions using Uncertainty Estimation with Application to Mobile Robots | Ersin Das, Joel W. Burdick | [Abstract](https://arxiv.org/abs/2401.01881) · [PDF](https://arxiv.org/pdf/2401.01881) | rule-assigned |
-| 2023-11-12 | Asymmetric Design of Control Barrier Function for Multiagent Autonomous Robotic Systems | Hiroki Etchu, Yuki Origane, Daisuke Kurabayashi | [Abstract](https://arxiv.org/abs/2311.06895) · [PDF](https://arxiv.org/pdf/2311.06895) | rule-assigned |
 
 ---
 

@@ -1,12 +1,12 @@
 # Whole-body Optimization & Control · 全身优化控制
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Coordination%20%26%20Balance&specialty=Whole-body%20Optimization%20%26%20Control#research-workbench)
 
-> 42 conference papers · 224 recent arXiv papers
+> 42 conference papers · 228 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -67,10 +67,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Nonprehensile Object Transportation with a Legged Manipulator | ICRA · Legged | [Paper](https://doi.org/10.1109/icra46639.2022.9811810) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811810) | rule-assigned |
 | 2022 | Whole-Body Control of Series-Parallel Hybrid Robots | ICRA · Whole Body | [Paper](https://doi.org/10.1109/icra46639.2022.9811616) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811616) | rule-assigned |
 
-## Recent arXiv papers (224)
+## Recent arXiv papers (228)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | PERA: Plug-in Experts for Robotic Actions in Continual Whole-Body Control | Shangchao Hu, Yadan Sun, Xibo Yu, Wei Huang | [Abstract](https://arxiv.org/abs/2611.16188) · [PDF](https://arxiv.org/pdf/2611.16188) | rule-assigned |
+| 2026-11-11 | PolyMorphWBC: Whole-Body Control from End-Effector Trajectories for Quadrupedal Mobile Manipulation across Arm Morphologies with Extended Reach | Heng Li, Yang Li, Yifan Duan, Ren Fang et al. | [Abstract](https://arxiv.org/abs/2611.15117) · [PDF](https://arxiv.org/pdf/2611.15117) | rule-assigned |
+| 2026-11-10 | RedirectMimic: Local Motion Content Redaction for Humanoid Whole-Body Control | Zepeng Wang, Xiaochuan Shi | [Abstract](https://arxiv.org/abs/2611.14049) · [PDF](https://arxiv.org/pdf/2611.14049) | rule-assigned |
+| 2026-11-09 | LHNav: Long-Horizon Humanoid Navigation via Multirate Coordination and Physics-Grounded Action Data | Xueyang Wang, Zehong Shen, Dingkun Wei, Huaijin Pi et al. | [Abstract](https://arxiv.org/abs/2611.12136) · [PDF](https://arxiv.org/pdf/2611.12136) | rule-assigned |
 | 2026-11-06 | DKWBC: Decoupling Motion Tracking and Balancing for Humanoid Whole-Body Control | Dingkun Wei, Zehong Shen, Huaijin Pi, Xueyang Wang et al. | [Abstract](https://arxiv.org/abs/2611.09605) · [PDF](https://arxiv.org/pdf/2611.09605) | rule-assigned |
 | 2026-11-05 | Social Humanoid: Socially Responsive Human-Humanoid Interaction | Vongani H. Maluleke, James Ni, Kie Horiuchi, Lea Wilken et al. | [Abstract](https://arxiv.org/abs/2611.08407) · [PDF](https://arxiv.org/pdf/2611.08407) | rule-assigned |
 | 2026-11-05 | ForPC: Force-Aware Whole-Body Control for Precise Humanoid Cart Pushing | ZhenYu Zou, Xing Liu, ShiChuang Wang, YunLong Dong et al. | [Abstract](https://arxiv.org/abs/2611.08664) · [PDF](https://arxiv.org/pdf/2611.08664) | rule-assigned |
@@ -80,7 +84,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-11-03 | Contact-Implicit Whole-Body Trajectory Optimization for Dynamic Humanoid Locomotion on Parameterizable Uneven Terrain | Roberto Mauceri, Stefano Dafarra, Giulio Romualdi, Marco Gabiccini et al. | [Abstract](https://arxiv.org/abs/2611.05585) · [PDF](https://arxiv.org/pdf/2611.05585) | rule-assigned |
 | 2026-11-01 | CompliantBot: Learning Whole-Body Compliance across Task Interfaces for Humanoid Control | Haoyang Li, Keqi Zhu, Zhanxiang Cao, Yang Zhang et al. | [Abstract](https://arxiv.org/abs/2611.01748) · [PDF](https://arxiv.org/pdf/2611.01748) | rule-assigned |
 | 2026-10-31 | Learning Agile Humanoid Dodgeball with Onboard Monocular Vision | Feng Tian, Yulin An, Chenhao Li, Matthias Heyrman et al. | [Abstract](https://arxiv.org/abs/2611.01197) · [PDF](https://arxiv.org/pdf/2611.01197) | rule-assigned |
-| 2026-10-30 | DiffWBC: Unlocking Steerable General Humanoid Motion Tracking via One-Step Diffusion Whole-Body Control | Yifei Huang, Yazhao Yang, Weijia Li, Zhiheng Ma et al. | [Abstract](https://arxiv.org/abs/2610.41354) · [PDF](https://arxiv.org/pdf/2610.41354) | rule-assigned |
+| 2026-10-30 | OneSteer: Unlocking Steerable General Humanoid Motion Tracking via One-Step Diffusion Whole-Body Control | Yifei Huang, Yazhao Yang, Li Weijia, Tianle Shi et al. | [Abstract](https://arxiv.org/abs/2610.41354) · [PDF](https://arxiv.org/pdf/2610.41354) | rule-assigned |
 | 2026-10-30 | Anchor 1: Precise and Stable Humanoid Control for Whole-Body Manipulation | Archon Robotics, :, Caojun Wang, Checheng Yu et al. | [Abstract](https://arxiv.org/abs/2611.00193) · [PDF](https://arxiv.org/pdf/2611.00193) | rule-assigned |
 | 2026-10-30 | $\nabla$Mimic: Ultra-Efficient Humanoid Control with Differentiable Simulation | Weyl Lu, Yubei Chen | [Abstract](https://arxiv.org/abs/2610.41654) · [PDF](https://arxiv.org/pdf/2610.41654) | rule-assigned |
 | 2026-10-27 | Whole-Body Humanoid Control via Stochastic Motion Tokenization | Michael Drolet, Oleg Arenz, Jan Peters | [Abstract](https://arxiv.org/abs/2610.36452) · [PDF](https://arxiv.org/pdf/2610.36452) | rule-assigned |

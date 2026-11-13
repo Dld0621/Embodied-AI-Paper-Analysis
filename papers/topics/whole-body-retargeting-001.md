@@ -1,7 +1,7 @@
-# Whole-body Retargeting · 1–53
+# Whole-body Retargeting · 1–54
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Topic index](whole-body-retargeting.md)
@@ -15,6 +15,7 @@
 | [Redefining Data Pairing for Motion Retargeting Leveraging a Human Body Prior](https://arxiv.org/pdf/2409.13208) | conference · IROS | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |
 | [Robust Real-Time Motion Retargeting via Neural Latent Prediction](https://doi.org/10.1109/IROS55552.2023.10342022) | conference · IROS | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |
 | [Zero-Shot Retargeting of Learned Quadruped Locomotion Policies Using Hybrid Kinodynamic Model Predictive Control](https://arxiv.org/pdf/2209.14123) | conference · IROS | Legged Locomotion & Whole-body Control → Quadruped & Multilegged Locomotion → Gaits & Locomotion Control | rule-assigned |
+| [GRASP: Gradient-Guided Sampling for Contact-Rich Physics-Based Motion Retargeting](https://arxiv.org/abs/2611.05754) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Physics & Dynamics Retargeting | reviewed |
 | [A Closed-Form Geometric Retargeting Solver for Upper Body Humanoid Robot Teleoperation](https://arxiv.org/abs/2602.01632) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |
 | [An Empirical Study of Wrist-Target Construction and Joint-Angle Limits in Humanoid Arm Retargeting](https://arxiv.org/abs/2610.37801) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |
 | [Beyond Retargeting: Low-Latency and Robust Humanoid Whole-Body Teleoperation with Learned Atomic Motion Primitives](https://arxiv.org/abs/2610.07891) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Motion Imitation & Generation | rule-assigned |
@@ -25,11 +26,11 @@
 | [Direct Dynamic Retargeting for Humanoid Imitation Learning from Videos](https://arxiv.org/abs/2605.23762) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Motion Imitation & Generation | rule-assigned |
 | [Embodiment-Aware Inference-Time Search for Human Reaction Selection in Humanoid Retargeting](https://arxiv.org/abs/2610.15274) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |
 | [Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning](https://arxiv.org/abs/2610.28470) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |
+| [From a Single RGB Image to Robot Execution: Metric Scene Alignment and Contact-Guided Retargeting](https://arxiv.org/abs/2611.14981) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Contact & Dynamic Retargeting | reviewed |
 | [From Legs to Wheels: Embodiment-Aware Human Motion Retargeting for Mobile-Base Humanoids](https://arxiv.org/abs/2610.08381) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |
 | [From Sign Language Generation to Humanoid Execution: Vision-Language Guided Retargeting with Collision Mitigation](https://arxiv.org/abs/2607.17769) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | needs-review |
 | [Geometry-Aware Humanoid Retargeting via Manifold ODEs](https://arxiv.org/abs/2610.41349) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |
 | [Geometry-Preserving Human-to-Robot Upper-Body Motion Retargeting from Monocular Video](https://arxiv.org/abs/2609.37776) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |
-| [GRASP: Gradient-Guided Sampling for Contact-Rich Physics-Based Motion Retargeting](https://arxiv.org/abs/2611.05754) | arxiv · arXiv | Dexterous Hands, Retargeting & Teleoperation → Dexterous Hand Retargeting → Physics & Dynamics Retargeting | reviewed |
 | [Human2Humanoid: Physics-Aware Cross-Morphology Motion Retargeting for Humanoid Robots](https://arxiv.org/abs/2606.03476) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |
 | [Kinodynamic Motion Retargeting for Humanoid Locomotion via Multi-Contact Whole-Body Trajectory Optimization](https://arxiv.org/abs/2603.09956) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Human-to-robot Kinematic Retargeting | rule-assigned |
 | [Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](https://arxiv.org/abs/2603.22201) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Coordination & Balance → Whole-body Optimization & Control | rule-assigned |

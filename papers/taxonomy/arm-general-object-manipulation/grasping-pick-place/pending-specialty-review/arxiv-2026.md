@@ -1,16 +1,31 @@
 # Pending specialty review · 待审专题 · arXiv 2026
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 637 papers · complete list for this taxonomy leaf
+> 652 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
-| 2026-11-06 | Seeing What Matters: Benchmarking Task-Conditioned Actionable Spatial Belief for Manipulation | Yina Jian, Mingkun Xu | [Abstract](https://arxiv.org/abs/2611.09794) · [PDF](https://arxiv.org/pdf/2611.09794) | needs-review |
+| 2026-11-12 | Input-output characterization of robotic grasping: Connecting design parameters to grasp behavior through the admittance | Julien Vanderheyden, Guillaume Drion, Pierre Sacré, Fulvio Forni | [Abstract](https://arxiv.org/abs/2611.16507) · [PDF](https://arxiv.org/pdf/2611.16507) | needs-review |
+| 2026-11-12 | EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming | Yaru Niu, Binghong Chen, Changwei Yao, Shangtao Li et al. | [Abstract](https://arxiv.org/abs/2611.16728) · [PDF](https://arxiv.org/pdf/2611.16728) | needs-review |
+| 2026-11-11 | Video-Action Models for Data-Efficient Industrial Manipulation | Eugenio Chisari, Stefanos Charalambous, Oliver Sanchez, Thomas Umbach et al. | [Abstract](https://arxiv.org/abs/2611.15974) · [PDF](https://arxiv.org/pdf/2611.15974) | needs-review |
+| 2026-11-11 | Single-View RGB-D Force--Deformation Estimation for Robotic Manipulation of Elasto-Plastic Materials | Dezhi Sun, Marijn van Hilten, Kenan Niu | [Abstract](https://arxiv.org/abs/2611.15650) · [PDF](https://arxiv.org/pdf/2611.15650) | needs-review |
+| 2026-11-11 | RUMI: A Robotiq-Matched Universal Manipulation Interface for Robot Learning with Augmented Reality and Haptic Feedback | Kevin Avdiu, Seongjin Bien, Yannik Blei, Philine Meister et al. | [Abstract](https://arxiv.org/abs/2611.15802) · [PDF](https://arxiv.org/pdf/2611.15802) | needs-review |
+| 2026-11-11 | MOSAIC: Modular Obstacle and Spatial-Aware Framework for Manipulation In Cluttered Scenes | Richard Shi, Mohammad Mahdavian, Mehrdad Momeni Zadeh, Mohammed Elmahgiubi et al. | [Abstract](https://arxiv.org/abs/2611.15937) · [PDF](https://arxiv.org/pdf/2611.15937) | needs-review |
+| 2026-11-10 | From Egocentric Human Video to Robot Manipulation in the Era of Embodied Intelligence | Yi Wang, Jingqiu Wu, Lei Yao, Zhaoshuo Li et al. | [Abstract](https://arxiv.org/abs/2611.13610) · [PDF](https://arxiv.org/pdf/2611.13610) | needs-review |
+| 2026-11-10 | CIALLO: Learning Shared Intent Representations for Cross-Embodiment Manipulation | Choo Sin Wai, Dake Zhong, Jingye Zhang, Zhifang Liu et al. | [Abstract](https://arxiv.org/abs/2611.13732) · [PDF](https://arxiv.org/pdf/2611.13732) | needs-review |
+| 2026-11-09 | SPARK: Simple Post-training for Adapting pRetrained Knowledge to Robot Control | Taekyung Kim, Jeongeun Park, Byeongho Heo, Sungjoon Choi et al. | [Abstract](https://arxiv.org/abs/2611.12102) · [PDF](https://arxiv.org/pdf/2611.12102) | needs-review |
+| 2026-11-09 | Robo-MLT: Dual-System Robotic Manipulation for Long-Horizon Medical Laboratory Tasks | Zequan Zeng, Kai Wang, Delvin Ce Zhang, Huaping Liu et al. | [Abstract](https://arxiv.org/abs/2611.13039) · [PDF](https://arxiv.org/pdf/2611.13039) | needs-review |
+| 2026-11-09 | PAIR: Proprioception-Aligned Image-Ray Representations for Viewpoint-Robust Manipulation | Sung-Wook Lee, Xuhui Kang, Dylan Losey, Yen-Ling Kuo | [Abstract](https://arxiv.org/abs/2611.11798) · [PDF](https://arxiv.org/pdf/2611.11798) | needs-review |
+| 2026-11-08 | HARP-Bench: Benchmarking Robot Manipulation Around Active Humans | Qinhong Zhou, Riley Zong, Chunru Lin, Diyi Hu et al. | [Abstract](https://arxiv.org/abs/2611.11123) · [PDF](https://arxiv.org/pdf/2611.11123) | needs-review |
+| 2026-11-07 | ReSkill: Selective Self-Improvement for Robot Manipulation | Zheng Sun, Zhihao Li, Zhuo Li, Wenrui Liu et al. | [Abstract](https://arxiv.org/abs/2611.10510) · [PDF](https://arxiv.org/pdf/2611.10510) | needs-review |
+| 2026-11-07 | MoE-DAgger: Transition-Aware Router-Entropy Gating for Selective Human Correction in Phase-Structured Manipulation | Sungjun Heo, Sungjun Yang, Heedon Jeong, Junhyoung Ha et al. | [Abstract](https://arxiv.org/abs/2611.10825) · [PDF](https://arxiv.org/pdf/2611.10825) | needs-review |
+| 2026-11-07 | Detecting and Explaining Robot Policy Failures from Sparse Internal Features | Riad Ahmed, Sujosh Nag, Moniruzzaman Akash, Momotaz Begum | [Abstract](https://arxiv.org/abs/2611.10400) · [PDF](https://arxiv.org/pdf/2611.10400) | needs-review |
+| 2026-11-06 | Seeing What Execution Needs: Benchmarking Task-Conditioned Actionable Spatial Belief for Manipulation | Yina Jian, Mingkun Xu | [Abstract](https://arxiv.org/abs/2611.09794) · [PDF](https://arxiv.org/pdf/2611.09794) | needs-review |
 | 2026-11-06 | A Controlled Study of Models, Skills, Feedback, and Curriculum in Agentic Robotics | Kaiyuan Chen, Xinyue Zhu, Shuangyu Xie, Uksang Yoo et al. | [Abstract](https://arxiv.org/abs/2611.09030) · [PDF](https://arxiv.org/pdf/2611.09030) | needs-review |
 | 2026-11-05 | VREgo: Consumer VR Headsets for Learning Robot Manipulation from Egocentric Demonstrations | Liuchuan Yu | [Abstract](https://arxiv.org/abs/2611.07272) · [PDF](https://arxiv.org/pdf/2611.07272) | needs-review |
 | 2026-11-05 | Concertina: Embodying Manipulation and Cognition in One Diffusion Vision-Language Model | Chengcheng Wang, Wei He, Wenhao Li, Hongguang Li et al. | [Abstract](https://arxiv.org/abs/2611.07513) · [PDF](https://arxiv.org/pdf/2611.07513) | needs-review |
@@ -254,7 +269,7 @@
 | 2026-08-27 | Active Surface-Driven Reconfigurable Gripper: Robust Grasping and Sequential Manipulation of Thin Objects | Ziyi Zheng, Keqi Zhu, Hao Wu, Yanzhe Wang et al. | [Abstract](https://arxiv.org/abs/2608.26883) · [PDF](https://arxiv.org/pdf/2608.26883) | needs-review |
 | 2026-08-26 | One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation | Xiaomi Embodied Intelligence Team, University of Macau, :, Shaoqing Xu et al. | [Abstract](https://arxiv.org/abs/2608.26058) · [PDF](https://arxiv.org/pdf/2608.26058) | needs-review |
 | 2026-08-26 | GaussianDream++: Efficient 3D Gaussian World Modeling for Robotic Manipulation | Yuqing Jiang, Zijian Zhang, Weitao Zhou, Jiawei Wang et al. | [Abstract](https://arxiv.org/abs/2608.25659) · [PDF](https://arxiv.org/pdf/2608.25659) | needs-review |
-| 2026-08-25 | Sensorless damage-safe grasping | Yusei Shuto, Danilo Vasconcellos Vargas | [Abstract](https://arxiv.org/abs/2608.23983) · [PDF](https://arxiv.org/pdf/2608.23983) | needs-review |
+| 2026-08-25 | Sensorless strain-bounded grasping of fruit | Yusei Shuto, Danilo Vasconcellos Vargas | [Abstract](https://arxiv.org/abs/2608.23983) · [PDF](https://arxiv.org/pdf/2608.23983) | needs-review |
 | 2026-08-25 | Longitudinal Robot Learning from Demonstration with Care Providers in a Home Environment | Nina Moorman, Julianna Schalkwyk, Vriksha Srihari, Qingyu Xiao et al. | [Abstract](https://arxiv.org/abs/2608.25196) · [PDF](https://arxiv.org/pdf/2608.25196) | needs-review |
 | 2026-08-25 | A Durable Vision-Based Tactile Fingertip for Robotic Manipulation | F. Richard Cottrell, Megha H. Tippur, Edward H. Adelson | [Abstract](https://arxiv.org/abs/2608.24242) · [PDF](https://arxiv.org/pdf/2608.24242) | needs-review |
 | 2026-08-23 | EMPIRE: Explicit Manipulation Planning as a Learnable Intermediate Representation for Egocentric Hand-Motion Forecasting | Wen Wang, Ruibing Hou, Hong Chang, Shiguang Shan et al. | [Abstract](https://arxiv.org/abs/2608.22449) · [PDF](https://arxiv.org/pdf/2608.22449) | needs-review |

@@ -1,12 +1,12 @@
 # Multicontact Interaction · 多接触交互
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Locomotion-Manipulation%20Coordination&specialty=Multicontact%20Interaction#research-workbench)
 
-> 0 conference papers · 5 recent arXiv papers
+> 0 conference papers · 6 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,7 +24,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (5)
+## Recent arXiv papers (6)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -32,6 +32,7 @@ No conference papers currently map to this specialty.
 | 2026-07-17 | Handroid: Bridging Dexterous Hand and Humanoid | Ruogu Li, Chenyang Ma, Sikai Li, Zhenyu Wei et al. | [Abstract](https://arxiv.org/abs/2607.16187) · [PDF](https://arxiv.org/pdf/2607.16187) | rule-assigned |
 | 2026-06-16 | HumanoidArena: Benchmarking Egocentric Hierarchical Whole-body Learning | Taowen Wang, Zikang Xie, Bin Yang, Yunheng Wang et al. | [Abstract](https://arxiv.org/abs/2606.17833) · [PDF](https://arxiv.org/pdf/2606.17833) | rule-assigned |
 | 2026-03-10 | ZeroWBC: Learning Natural Whole-Body Humanoid Interaction from Human Egocentric Data | Haoran Yang, Jiacheng Bao, Yucheng Xin, Haoming Song et al. | [Abstract](https://arxiv.org/abs/2603.09170) · [PDF](https://arxiv.org/pdf/2603.09170) | rule-assigned |
+| 2026-02-25 | LessMimic: Versatile Humanoid-Object Interaction with Unified Distance Field Representations | Yutang Lin, Jieming Cui, Yixuan Li, Wei Liang et al. | [Abstract](https://arxiv.org/abs/2602.21723) · [PDF](https://arxiv.org/pdf/2602.21723) | rule-assigned |
 | 2025-11-14 | Humanoid Whole-Body Badminton via an Annealed Reinforcement Learning Curriculum | Chenhao Liu, Leyun Jiang, Ningyuan Tian, Yibo Wang et al. | [Abstract](https://arxiv.org/abs/2511.11218) · [PDF](https://arxiv.org/pdf/2511.11218) | rule-assigned |
 
 ---

@@ -1,12 +1,12 @@
 # Running, Jumping & Agile Motion · 跑跳与敏捷运动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Running%2C%20Jumping%20%26%20Agile%20Motion#research-workbench)
 
-> 22 conference papers · 114 recent arXiv papers
+> 22 conference papers · 117 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -47,10 +47,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Scalable Simulation and Demonstration of Jumping Piezoelectric 2-D Soft Robots | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2202.13521) · [Publisher](https://doi.org/10.1109/ICRA46639.2022.9811927) | rule-assigned |
 | 2022 | SMORS: A soft multirotor UAV for multimodal locomotion and robust interaction | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2204.02165) · [Index](https://dblp.org/rec/conf/icra/RyllK22) | rule-assigned |
 
-## Recent arXiv papers (114)
+## Recent arXiv papers (117)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-10 | SunLightBots: Turning sunlight into self-sustained, high-power motion in soft robots | Yoo Jin Lee, Melanie Torres Crespo, Zhongxiao Deng, Andrew Tejada-Vega et al. | [Abstract](https://arxiv.org/abs/2611.14729) · [PDF](https://arxiv.org/pdf/2611.14729) | rule-assigned |
+| 2026-11-09 | Curie's Jarvis: Autonomous Robotic Chemistry Experiments from Printed Protocols | Rumi Loghmani, Bozhang Song, Victor Alvarado, Aliyah Redding et al. | [Abstract](https://arxiv.org/abs/2611.13251) · [PDF](https://arxiv.org/pdf/2611.13251) | rule-assigned |
+| 2026-11-08 | Brain-Aligned Latent Actions: Imposing Premotor Cortex Geometry on a Robot's Action Vocabulary | Amit Jadhav | [Abstract](https://arxiv.org/abs/2611.11674) · [PDF](https://arxiv.org/pdf/2611.11674) | rule-assigned |
 | 2026-11-05 | Terrain-Indexed Motion Priors and Geometric Support for Extreme Humanoid Parkour | Chenghao Sun, Youhao Lyu, Zizheng Li, Shuting Zhang et al. | [Abstract](https://arxiv.org/abs/2611.08056) · [PDF](https://arxiv.org/pdf/2611.08056) | rule-assigned |
 | 2026-11-05 | Fast and Reliable Open-Vocabulary Object Search with Absence Detection from Robot Memory | Nicholas Paul, Devson Butani, Eric Martinson | [Abstract](https://arxiv.org/abs/2611.07493) · [PDF](https://arxiv.org/pdf/2611.07493) | rule-assigned |
 | 2026-11-04 | RACE: Calibrated Cumulative Scoring for Rollout-Free Robot Policy Checkpoint Selection | Changyeon Kim, Yekyung Nah, Kimin Lee | [Abstract](https://arxiv.org/abs/2611.05838) · [PDF](https://arxiv.org/pdf/2611.05838) | rule-assigned |

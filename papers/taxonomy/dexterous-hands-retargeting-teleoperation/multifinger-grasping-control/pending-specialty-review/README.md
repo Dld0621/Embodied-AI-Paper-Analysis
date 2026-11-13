@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Multifinger%20Grasping%20%26%20Control&specialty=Pending%20specialty%20review#research-workbench)
 
-> 65 conference papers · 231 recent arXiv papers
+> 65 conference papers · 233 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -90,10 +90,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Toward Dexterous Flapping Flight: Effective Large Yaw Torque Generation by $2\times 2$-Degrees-of-Freedom Flapping Wings | IROS · Dexterous | [Paper](https://doi.org/10.1109/IROS47612.2022.9981990) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981990) | needs-review |
 | 2022 | Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning | NeurIPS · Dexterous | [Paper](https://arxiv.org/abs/2206.08686) · [Index](https://dblp.org/rec/conf/nips/ChenWWFJLMDZY22) | needs-review |
 
-## Recent arXiv papers (231)
+## Recent arXiv papers (233)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | BWM-Forge: Agentic World Programming for Embodied Intelligence | BWM Team | [Abstract](https://arxiv.org/abs/2611.16221) · [PDF](https://arxiv.org/pdf/2611.16221) | needs-review |
+| 2026-11-09 | Grasp-Taxonomy Conditioning as a Mode Switch for Dexterous Grasping of Climbing Holds | Rumi Loghmani, Abraham George, Amir Barati Farimani | [Abstract](https://arxiv.org/abs/2611.12017) · [PDF](https://arxiv.org/pdf/2611.12017) | needs-review |
 | 2026-11-04 | Dexterous Robotic Hands in the Foundation-Model Era: A Full-Stack Survey of Hardware, Data, Cross-Embodiment Transfer, Learning, and Evaluation | Ji Pei | [Abstract](https://arxiv.org/abs/2611.06724) · [PDF](https://arxiv.org/pdf/2611.06724) | needs-review |
 | 2026-11-03 | DexHOT: Learning Hand-Object Configuration Transfer for Dexterous Manipulation | Zhewei Gui, Anthony Bolton, Jiyao Zhang, Zeyuan Chen et al. | [Abstract](https://arxiv.org/abs/2611.05119) · [PDF](https://arxiv.org/pdf/2611.05119) | needs-review |
 | 2026-10-29 | CAPTURER: A Dexterous Aerial Manipulator for Dynamic and Precise Grasping across Diverse Environments | Meng Wang, Jindou Jia, Sicheng Zhou, Zeshuai Chen et al. | [Abstract](https://arxiv.org/abs/2610.39119) · [PDF](https://arxiv.org/pdf/2610.39119) | needs-review |

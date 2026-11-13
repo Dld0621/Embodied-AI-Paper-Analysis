@@ -1,7 +1,7 @@
 # 6D Pose & Tracking · 六维姿态与跟踪
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Object%20%26%20Interaction%20Perception&specialty=6D%20Pose%20%26%20Tracking#research-workbench)
@@ -67,12 +67,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | VOKE: Visual Object Kinematics Estimator for Dexterous In-Hand Manipulation | Shengjia Zhu, Wenqiang Xu, Lin Shao | [Abstract](https://arxiv.org/abs/2611.16423) · [PDF](https://arxiv.org/pdf/2611.16423) | reviewed |
 | 2026-10-27 | Polarity--Time Interaction and Multi-Level Reliability for Event-Based Spacecraft Pose Estimation | Yonglong Zhang, Zongwu Xie, Yang Liu | [Abstract](https://arxiv.org/abs/2610.36625) · [PDF](https://arxiv.org/pdf/2610.36625) | rule-assigned |
 | 2026-10-27 | Dexterous In-Hand Object Pose Reaching with Learned Safety Filters | Ian Chuang, Hiya Shah, Vamsi Chilamkur, Iman Soltani et al. | [Abstract](https://arxiv.org/abs/2610.37652) · [PDF](https://arxiv.org/pdf/2610.37652) | rule-assigned |
 | 2026-10-20 | RoPT: Robust 6DoF Object Pose Tracking in Video | Yongqing Liang, Yuzhong Chen, Sihang Li, Junsuk Kim et al. | [Abstract](https://arxiv.org/abs/2610.28962) · [PDF](https://arxiv.org/pdf/2610.28962) | rule-assigned |
 | 2026-10-15 | Uni-PNP: Unified Prehensile and Non-prehensile Policy Learning for Generalizable Object Pose Reaching | Wenxuan Zhu, Yuze Wang, Jiangran Lyu, Jiayi Chen et al. | [Abstract](https://arxiv.org/abs/2610.21735) · [PDF](https://arxiv.org/pdf/2610.21735) | rule-assigned |
 | 2026-10-15 | CLAD: Keypoint Matching Using Global Line Correspondences | Masaki Satoh | [Abstract](https://arxiv.org/abs/2610.21409) · [PDF](https://arxiv.org/pdf/2610.21409) | rule-assigned |
-| 2026-10-12 | IMPULSE: Push First, Then Predict in V-JEPA 2 Feature Space | Tingan Jin | [Abstract](https://arxiv.org/abs/2610.23968) · [PDF](https://arxiv.org/pdf/2610.23968) | rule-assigned |
+| 2026-10-12 | IMPULSE: Push First, Then Predict in V-JEPA 2 Feature Space | Tingan Jin, Chung-Hsien Chou | [Abstract](https://arxiv.org/abs/2610.23968) · [PDF](https://arxiv.org/pdf/2610.23968) | rule-assigned |
 | 2026-10-11 | Hand2Robot: Object-Centric 4D Hand Reconstruction from Human Demonstrations for Robotics | Zetao Du, Weiqing Wang, Hanbing Zhang, Yimiao Zhou et al. | [Abstract](https://arxiv.org/abs/2610.15769) · [PDF](https://arxiv.org/pdf/2610.15769) | rule-assigned |
 | 2026-10-08 | Neural Networks for Temporal Pattern Recognition and Dynamic Arm Gesture Speed Estimation for Robot Control | Milán Zsolt Bagladi, László Gulyás | [Abstract](https://arxiv.org/abs/2610.11631) · [PDF](https://arxiv.org/pdf/2610.11631) | rule-assigned |
 | 2026-10-07 | WAPR: A Foundation Model for Wide-Angle Refinement in Unseen Object Pose Estimation | Yulin Wang, Mengting Hu, Hongli Li, Jianghao Zhou et al. | [Abstract](https://arxiv.org/abs/2610.09535) · [PDF](https://arxiv.org/pdf/2610.09535) | rule-assigned |
@@ -267,7 +268,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-20 | CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement | Boni Hu, Lin Chen, Runjian Chen, Shuhui Bu et al. | [Abstract](https://arxiv.org/abs/2311.11604) · [PDF](https://arxiv.org/pdf/2311.11604) | rule-assigned |
 | 2023-11-17 | Collaborative Grid Mapping for Moving Object Tracking Evaluation | Rémy Huet, Antoine Lima, Philippe Xu, Véronique Cherfaoui et al. | [Abstract](https://arxiv.org/abs/2311.10415) · [PDF](https://arxiv.org/pdf/2311.10415) | rule-assigned |
 | 2023-11-13 | ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers | Edison P. Velasco Sánchez, Miguel Ángel Muñoz-Bañón, Francisco A. Candelas, Santiago T. Puente et al. | [Abstract](https://arxiv.org/abs/2311.07268) · [PDF](https://arxiv.org/pdf/2311.07268) | rule-assigned |
-| 2023-11-09 | Visually Guided Model Predictive Robot Control via 6D Object Pose Localization and Tracking | Mederic Fourmy, Vojtech Priban, Jan Kristof Behrens, Nicolas Mansard et al. | [Abstract](https://arxiv.org/abs/2311.05344) · [PDF](https://arxiv.org/pdf/2311.05344) | rule-assigned |
 
 ---
 

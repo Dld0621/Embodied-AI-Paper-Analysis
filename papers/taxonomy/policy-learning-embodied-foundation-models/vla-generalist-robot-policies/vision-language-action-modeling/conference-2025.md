@@ -1,7 +1,7 @@
 # Vision-Language-Action Modeling · 视觉语言动作建模 · Conference 2025
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
@@ -31,6 +31,6 @@
 | 2025 | Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization | NeurIPS · Vision Language Action | [Paper](https://arxiv.org/abs/2505.15660) · [Index](https://dblp.org/rec/journals/corr/abs-2505-15660) | rule-assigned |
 | 2025 | Fast-in-Slow: A Dual-System VLA Model Unifying Fast Manipulation within Slow Reasoning | NeurIPS · Vla | [Paper](https://doi.org/10.52202/085713-3276) · [Publisher](https://doi.org/10.52202/085713-3276) | rule-assigned |
 | 2025 | ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation | NeurIPS · Manipulation | [Paper](https://arxiv.org/abs/2505.22159) · [Index](https://dblp.org/rec/journals/corr/abs-2505-22159) | rule-assigned |
-| 2025 | FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency | NeurIPS · Visuomotor | [Paper](https://arxiv.org/abs/2506.08822) · [Index](https://dblp.org/rec/journals/corr/abs-2506-08822) | rule-assigned |
+| 2025 | FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency | NeurIPS · Visuomotor | [Paper](https://arxiv.org/abs/2506.08822) · [Index](https://dblp.org/rec/conf/nips/SuLCZWLXCT25) | rule-assigned |
 | 2025 | VideoVLA: Video Generators Can Be Generalizable Robot Manipulators | NeurIPS · Vla | [Paper](https://arxiv.org/abs/2512.06963) · [Index](https://dblp.org/rec/conf/nips/ShenWDLLYZG25) | rule-assigned |
 | 2025 | VLA-Cache: Efficient Vision-Language-Action Manipulation via Adaptive Token Caching | NeurIPS · Vision Language Action | [Paper](https://arxiv.org/pdf/2502.02175) · [Publisher](https://doi.org/10.52202/085713-5484) | rule-assigned |

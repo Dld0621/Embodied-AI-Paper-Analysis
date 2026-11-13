@@ -1,12 +1,12 @@
 # Action-conditioned Video Prediction · 动作条件视频预测
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=World%20%26%20Dynamics%20Modeling&specialty=Action-conditioned%20Video%20Prediction#research-workbench)
 
-> 4 conference papers · 118 recent arXiv papers
+> 4 conference papers · 122 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,10 +29,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | SAMPO:Scale-wise Autoregression with Motion PrOmpt for generative world models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2509.15536) · [Index](https://dblp.org/rec/conf/nips/WangTWLLDXZTH25) | rule-assigned |
 | 2024 | iVideoGPT: Interactive VideoGPTs are Scalable World Models | NeurIPS · World Model | [Paper](https://arxiv.org/abs/2405.15223) · [Index](https://dblp.org/rec/journals/corr/abs-2405-15223) | rule-assigned |
 
-## Recent arXiv papers (118)
+## Recent arXiv papers (122)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-11 | Prediction or Persistence? What Future-Prediction Scores Miss About World Models | Animesh Maheshwari | [Abstract](https://arxiv.org/abs/2611.15082) · [PDF](https://arxiv.org/pdf/2611.15082) | rule-assigned |
+| 2026-11-10 | WAM is capable in BEHAVIOR-1K: the 2nd-place solution to the 2026 BEHAVIOR Challenge | Yelin He, Jiaquan Ye, Xinming Wei, Wenjie Xiao et al. | [Abstract](https://arxiv.org/abs/2611.13818) · [PDF](https://arxiv.org/pdf/2611.13818) | rule-assigned |
+| 2026-11-10 | LaST0.5: A Generalist World Action Model with Interaction-Centric Latent Reasoning | Xuheng Zhang, Yiming Zhang, Jialin Gao, Hao Chen et al. | [Abstract](https://arxiv.org/abs/2611.14048) · [PDF](https://arxiv.org/pdf/2611.14048) | rule-assigned |
+| 2026-11-08 | ForeAct: Geometry-Guided Action Learning from World Representations | Wei Lu, Jiaxi Zhang, Yunheng Wang, Taowen Wang et al. | [Abstract](https://arxiv.org/abs/2611.11500) · [PDF](https://arxiv.org/pdf/2611.11500) | rule-assigned |
 | 2026-11-05 | VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding | Yu-Cheng Chou, Shihao Wang, Jin Huang, Chi-Pin Huang et al. | [Abstract](https://arxiv.org/abs/2611.08449) · [PDF](https://arxiv.org/pdf/2611.08449) | rule-assigned |
 | 2026-11-05 | Structure from Collision via Hypothesis-Space Reasoning | Takuhiro Kaneko | [Abstract](https://arxiv.org/abs/2611.07900) · [PDF](https://arxiv.org/pdf/2611.07900) | rule-assigned |
 | 2026-11-05 | Reinforcing End-to-End Autonomous Driving Safety via Negative-Aware Planning in a Unified World-Action Model | Zihao Zhang, Xinyu Zhang, Bing Zeng, Xingyu Chen et al. | [Abstract](https://arxiv.org/abs/2611.08111) · [PDF](https://arxiv.org/pdf/2611.08111) | rule-assigned |

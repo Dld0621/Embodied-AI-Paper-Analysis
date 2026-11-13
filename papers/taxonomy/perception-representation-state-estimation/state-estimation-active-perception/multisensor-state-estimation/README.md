@@ -1,12 +1,12 @@
 # Multisensor State Estimation · 多传感器状态估计
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=State%20Estimation%20%26%20Active%20Perception&specialty=Multisensor%20State%20Estimation#research-workbench)
 
-> 26 conference papers · 230 recent arXiv papers
+> 26 conference papers · 233 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -51,10 +51,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | STEADY: Simultaneous State Estimation and Dynamics Learning from Indirect Observations | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2203.01299) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981279) | rule-assigned |
 | 2022 | The Uncertainty Aware Salted Kalman Filter: State Estimation for Hybrid Systems with Uncertain Guards | IROS · State Estimation | [Paper](https://arxiv.org/pdf/2202.12729) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981218) | rule-assigned |
 
-## Recent arXiv papers (230)
+## Recent arXiv papers (233)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-09 | Particle Filtering with Generative Trajectory Models for State Estimation and Control | Lukas Lao Beyer, Samvit Das, Sertac Karaman | [Abstract](https://arxiv.org/abs/2611.11732) · [PDF](https://arxiv.org/pdf/2611.11732) | rule-assigned |
+| 2026-11-09 | Modeling and Estimation of a Towed Marine System | Josef Matouš, Simon Hoff, Damiano Varagnolo, Marius S. Rundhovde et al. | [Abstract](https://arxiv.org/abs/2611.12568) · [PDF](https://arxiv.org/pdf/2611.12568) | rule-assigned |
+| 2026-11-09 | Generalizable Output Feedback Optimal Control via Transformers Without Explicit State Estimation | Maitham F. AL-Sunni, Turki Bin Mohaya, John M. Dolan, Peter Seiler | [Abstract](https://arxiv.org/abs/2611.11815) · [PDF](https://arxiv.org/pdf/2611.11815) | rule-assigned |
 | 2026-11-05 | Real-Time Event-Based LED Tracking and Pose Estimation with PWM-Encoded Markers | Junkai Niu, Sheng Zhong, Delei Kong, Xin Wang et al. | [Abstract](https://arxiv.org/abs/2611.07630) · [PDF](https://arxiv.org/pdf/2611.07630) | rule-assigned |
 | 2026-10-27 | SVIn+: Multi-Modal Framework for Robust Underwater State Estimation using 3D Sonar, Visual-Inertial, Water-Pressure, and DVL | Chinmay Burgul, Xiaoming Zhao, Yewei Huang, Michalis Chatzispyrou et al. | [Abstract](https://arxiv.org/abs/2610.36454) · [PDF](https://arxiv.org/pdf/2610.36454) | rule-assigned |
 | 2026-10-27 | State estimation for a hybrid rigid-continuum space manipulator system | Lorenzo Ticozzi, Patricio A. Vela, Panagiotis Tsiotras | [Abstract](https://arxiv.org/abs/2610.37043) · [PDF](https://arxiv.org/pdf/2610.37043) | rule-assigned |

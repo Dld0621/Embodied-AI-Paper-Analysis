@@ -1,7 +1,7 @@
 # Hand-object Interaction Reconstruction · 手—物交互重建
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Human%20%26%20Hand-object%20Perception&specialty=Hand-object%20Interaction%20Reconstruction#research-workbench)
@@ -39,7 +39,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 |---|---|---|---|---|
 | 2026-11-05 | HaNDF: Object-Conditioned Geometric Neural Hand Distance Fields | Zuhao Liu, Melih Darcan, Zhengdi Yu, Riza Alp Guler et al. | [Abstract](https://arxiv.org/abs/2611.08578) · [PDF](https://arxiv.org/pdf/2611.08578) | rule-assigned |
 | 2026-10-07 | RLHND: Video Foundation Models as Physically Grounded Hand Trackers for Robot Learning | Seungjun Moon, Subin Jeon, Sangwoo Kim, Hanbyul Joo et al. | [Abstract](https://arxiv.org/abs/2610.09455) · [PDF](https://arxiv.org/pdf/2610.09455) | rule-assigned |
-| 2026-10-06 | Reactive Task-Oriented Robot-Human Handovers via Generative Hypothesis Selection | Carmen Scheidemann, Andreea Tulbure, Pascal Burkhardt, Marco Hutter | [Abstract](https://arxiv.org/abs/2610.08003) · [PDF](https://arxiv.org/pdf/2610.08003) | rule-assigned |
+| 2026-10-06 | Reactive Task-Oriented Robot-Human Handovers via Generative Hypothesis Selection | Carmen Scheidemann, Andreea Tulbure, Pascal Burkhard, Marco Hutter | [Abstract](https://arxiv.org/abs/2610.08003) · [PDF](https://arxiv.org/pdf/2610.08003) | rule-assigned |
 | 2026-10-02 | World Action Learning via Interaction-Centric Spectral Latent Guidance | Zhiming Liu, Yikun Miao, Ying Chen, Hongrui Yin et al. | [Abstract](https://arxiv.org/abs/2610.03607) · [PDF](https://arxiv.org/pdf/2610.03607) | rule-assigned |
 | 2026-09-28 | Action Chunking Proximal Policy Optimization with Feedback Correction | Sanghyun Hahn, Jonghyun Choi | [Abstract](https://arxiv.org/abs/2609.36250) · [PDF](https://arxiv.org/pdf/2609.36250) | rule-assigned |
 | 2026-08-13 | EgoPHI: Estimating 3D Hand-Object Contact and Force from Egocentric Vision | Andela Ilic, Rachel Schuchert, Yijing Jiang, Christian Holz | [Abstract](https://arxiv.org/abs/2608.13014) · [PDF](https://arxiv.org/pdf/2608.13014) | rule-assigned |

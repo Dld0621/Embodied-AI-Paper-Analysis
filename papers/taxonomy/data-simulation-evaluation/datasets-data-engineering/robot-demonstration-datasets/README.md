@@ -1,12 +1,12 @@
 # Robot Demonstration Datasets · 机器人示教数据集
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engineering&specialty=Robot%20Demonstration%20Datasets#research-workbench)
 
-> 14 conference papers · 71 recent arXiv papers
+> 14 conference papers · 72 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -39,10 +39,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | SiT Dataset: Socially Interactive Pedestrian Trajectory Dataset for Social Navigation Robots | NeurIPS · Navigation | [Paper](https://doi.org/10.52202/075280-1067) · [Publisher](https://doi.org/10.52202/075280-1067) | rule-assigned |
 | 2022 | PATO: Policy Assisted TeleOperation for Scalable Robot Data Collection | RSS · Teleoperation | [Paper](https://arxiv.org/abs/2212.04708) · [Index](https://dblp.org/rec/journals/corr/abs-2212-04708) | rule-assigned |
 
-## Recent arXiv papers (71)
+## Recent arXiv papers (72)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-11 | CrowdMAPS: Crowdsourcing Multiple Actions per State for Real-World Imitation Learning | Yilong Song, Harshvardhan Chandirasekar, Karthik Desingh, Chen Zhu-Tian | [Abstract](https://arxiv.org/abs/2611.15078) · [PDF](https://arxiv.org/pdf/2611.15078) | rule-assigned |
 | 2026-11-06 | ToolDex: An Ego-Exo Human Demonstration Dataset for Creative Physical Tool Use | Mohamed Elmoghany, Kehan Li, Ruoqu Chen, Tarun Chiruvolu et al. | [Abstract](https://arxiv.org/abs/2611.09036) · [PDF](https://arxiv.org/pdf/2611.09036) | rule-assigned |
 | 2026-11-03 | PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data | Kewei Zhang, Juncheng Ma, Guodong Lv, Duomin Wang et al. | [Abstract](https://arxiv.org/abs/2611.05320) · [PDF](https://arxiv.org/pdf/2611.05320) | rule-assigned |
 | 2026-10-29 | UMI-Live for In-The-Wild Bimanual Robotics Data Collection | Govind Velamoor, Adrian Lin, Sam Jung, Spencer Mateega et al. | [Abstract](https://arxiv.org/abs/2610.39385) · [PDF](https://arxiv.org/pdf/2610.39385) | reviewed |

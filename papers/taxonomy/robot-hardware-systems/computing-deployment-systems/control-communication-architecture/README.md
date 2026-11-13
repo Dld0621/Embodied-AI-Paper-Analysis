@@ -1,12 +1,12 @@
 # Control & Communication Architecture · 控制与通信架构
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Computing%20%26%20Deployment%20Systems&specialty=Control%20%26%20Communication%20Architecture#research-workbench)
 
-> 2 conference papers · 75 recent arXiv papers
+> 2 conference papers · 74 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,7 +27,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Image to Patterning: Density-specified Patterning of Micro-structured Surfaces with a Mobile Robot | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS58592.2024.10802317) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802317) | rule-assigned |
 | 2022 | ROS-PyBullet Interface: A Framework for Reliable Contact Simulation and Human-Robot Interaction | CoRL · Simulation | [Paper](https://arxiv.org/abs/2210.06887) · [Index](https://dblp.org/rec/conf/corl/MowerS0RYBGVBV22) | rule-assigned |
 
-## Recent arXiv papers (75)
+## Recent arXiv papers (74)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -50,7 +50,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-07-13 | Casting Everything to Online API Services? A Survey of Integrating Localized Speech Recognition Models in Robotic Systems | Sheng Li, Jing Li, Felix Schijve, Jun Hu et al. | [Abstract](https://arxiv.org/abs/2607.11792) · [PDF](https://arxiv.org/pdf/2607.11792) | rule-assigned |
 | 2026-06-26 | RIPA: Sensory-Vector Prompt Injection Attacks on LLM-Controlled ROS 2 Robots | Nima Dorzhiev | [Abstract](https://arxiv.org/abs/2606.28649) · [PDF](https://arxiv.org/pdf/2606.28649) | rule-assigned |
 | 2026-06-24 | Layered Outer-Loop Control for Disturbance-Robust Multi-Waypoint UAV Arrival | Runfeng Ling | [Abstract](https://arxiv.org/abs/2606.26315) · [PDF](https://arxiv.org/pdf/2606.26315) | rule-assigned |
-| 2026-06-21 | Integrated cloud-based architecture for robot-robot and human-robot collaboration using ROS 2--MQTT in Mediterranean Greenhouses | F. Cañadas-Aránega, M. Muñoz, J. C. Moreno, J. L. Blanco-Claraco | [Abstract](https://arxiv.org/abs/2606.22682) · [PDF](https://arxiv.org/pdf/2606.22682) | rule-assigned |
 | 2026-06-09 | A Modular Dual-Camera Pipeline for Micro-Inspection Using Aerial Robots | S. H. Mirtajadini, N. Rublein, R. M. Ramakrishnan, G. ter Maat et al. | [Abstract](https://arxiv.org/abs/2606.11419) · [PDF](https://arxiv.org/pdf/2606.11419) | rule-assigned |
 | 2026-06-08 | Harness Engineering for Physical AI: Robot Middleware Is the Harness Layer | Sanghoon Lee, Jiyeong Chae, Kyung-Joon Park | [Abstract](https://arxiv.org/abs/2606.09416) · [PDF](https://arxiv.org/pdf/2606.09416) | rule-assigned |
 | 2026-04-01 | A ROS 2 Wrapper for Florence-2: Multi-Mode Local Vision-Language Inference for Robotic Systems | J. E. Domínguez-Vidal | [Abstract](https://arxiv.org/abs/2604.01179) · [PDF](https://arxiv.org/pdf/2604.01179) | rule-assigned |

@@ -1,12 +1,12 @@
 # Data Curation & Quality · 数据清洗、标注与质量评估
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engineering&specialty=Data%20Curation%20%26%20Quality#research-workbench)
 
-> 13 conference papers · 94 recent arXiv papers
+> 13 conference papers · 97 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -32,16 +32,18 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Jacquard V2: Refining Datasets using the Human In the Loop Data Correction Method | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2402.05747) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611652) | rule-assigned |
 | 2024 | Mobile Robot Oriented Large-Scale Indoor Dataset for Dynamic Scene Understanding | ICRA · Mobile Robot | [Paper](https://arxiv.org/pdf/2406.19791) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611489) | rule-assigned |
 | 2024 | NYC-Indoor-VPR: A Long-Term Indoor Visual Place Recognition Dataset with Semi-Automatic Annotation | ICRA · Dataset | [Paper](https://arxiv.org/pdf/2404.00504) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610564) | rule-assigned |
-| 2024 | Diff-Control: A Stateful Diffusion-based Policy for Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2404.12539) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801557) | rule-assigned |
+| 2024 | Diff-Control: A Stateful Diffusion-based Policy for Imitation Learning | IROS · Imitation Learning | [Paper](https://kyutech.repo.nii.ac.jp/records/2001257) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801557) | rule-assigned |
 | 2024 | HO-Cap: A Capture System and Dataset for 3D Reconstruction and Pose Tracking of Hand-Object Interaction | NeurIPS · Hand Object | [Paper](https://arxiv.org/abs/2406.06843) · [Index](https://dblp.org/rec/journals/corr/abs-2406-06843) | rule-assigned |
 | 2023 | 3D-DAT: 3D-Dataset Annotation Toolkit for Robotic Vision | ICRA · Dataset | [Paper](https://repositum.tuwien.at/bitstream/20.500.12708/192801/1/Suchi-2023-3D-DAT%203D-Dataset%20Annotation%20Toolkit%20for%20Robotic%20Vision-am.pdf) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10160669) | rule-assigned |
 | 2023 | On Human Grasping and Manipulation in Kitchens: Automated Annotation, Insights, and Metrics for Effective Data Collection | ICRA · Manipulation | [Paper](https://doi.org/10.1109/ICRA48891.2023.10161171) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161171) | rule-assigned |
 | 2023 | HANDAL: A Dataset of Real-World Manipulable Object Categories with Pose Annotations, Affordances, and Reconstructions | IROS · Dataset | [Paper](https://arxiv.org/pdf/2308.01477) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10341672) | rule-assigned |
 
-## Recent arXiv papers (94)
+## Recent arXiv papers (97)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-09 | SWAM: Scaling World Action Models with Cross-Modal Alignment | Yu Zhou, Xinyuan Xia, Xuankun Yang, Yinghao Yang et al. | [Abstract](https://arxiv.org/abs/2611.12870) · [PDF](https://arxiv.org/pdf/2611.12870) | rule-assigned |
+| 2026-11-08 | ObjectWorld: Scaling Object-Centric World Models with A Large-Scale 3D Full-Object Flow Dataset | Haonan Chen, Sicheng Isabella Lu, Haitian Li, Jiajin Wu et al. | [Abstract](https://arxiv.org/abs/2611.11085) · [PDF](https://arxiv.org/pdf/2611.11085) | rule-assigned |
 | 2026-11-03 | GUILD: Guided Iterative Data Collection for Imitation Learning | Shivin Dass, Kevin Nguyen, Rohan Yelandur, Junhong Xu et al. | [Abstract](https://arxiv.org/abs/2611.05368) · [PDF](https://arxiv.org/pdf/2611.05368) | reviewed |
 | 2026-10-30 | MotorSense: A Video-EMG Dataset of Motoric Representations for Action Understanding | Eadom Dessalene, Michael Maynord, Amir-Hossein Shahidzadeh, Botao He et al. | [Abstract](https://arxiv.org/abs/2610.41127) · [PDF](https://arxiv.org/pdf/2610.41127) | rule-assigned |
 | 2026-10-14 | TacClaw-Infinity: A Large-Scale Vision-Tactile-Language-Action Dataset for Dexterous Manipulation | Fucai Zhu, Xidong Zhang, Yichi Zhang, Yipan Wang et al. | [Abstract](https://arxiv.org/abs/2610.20320) · [PDF](https://arxiv.org/pdf/2610.20320) | rule-assigned |
@@ -53,6 +55,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-09-23 | Less Language, More Latents: Annotation-Efficient VLAs for Driving | Alexey Zakharov, Kemal Oksuz, Puneet K. Dokania | [Abstract](https://arxiv.org/abs/2609.27747) · [PDF](https://arxiv.org/pdf/2609.27747) | rule-assigned |
 | 2026-09-23 | Human-in-the-Loop Geospatial Annotation for Rapid Dataset Construction in Field-Deployed UAV Systems | Morgan Masters, Adam Korycki, Nikolaas Bender, T. Luca Altaffer et al. | [Abstract](https://arxiv.org/abs/2609.28767) · [PDF](https://arxiv.org/pdf/2609.28767) | rule-assigned |
 | 2026-09-11 | A Multi-Vehicle Dataset with Camera, LiDAR, and Radar Sensors and Scanned 3D Models for Custom Auto-Annotation using RTK-GNSS | Philipp Berthold, Bianca Forkel, Mirko Maehlisch | [Abstract](https://arxiv.org/abs/2609.12871) · [PDF](https://arxiv.org/pdf/2609.12871) | rule-assigned |
+| 2026-08-22 | How to start a conversation proactively? | Mohit Nathani, Aaditya Gupta, Eshwar Dhande, Chayan Sarkar | [Abstract](https://arxiv.org/abs/2611.09906) · [PDF](https://arxiv.org/pdf/2611.09906) | rule-assigned |
 | 2026-08-19 | Beyond Placement and Articulation: Usage-Driven Code Scenes for Embodied Interaction | Zijian Xiao, Zipeng Ye, Jinkun Hao, Xiong Yang et al. | [Abstract](https://arxiv.org/abs/2608.18840) · [PDF](https://arxiv.org/pdf/2608.18840) | rule-assigned |
 | 2026-08-07 | Vernata: Self-Supervised Learning of LiDAR Point Representations | Oliver Lemke, Alexander Liniger, Abel Gawel, Marco Hutter | [Abstract](https://arxiv.org/abs/2608.06919) · [PDF](https://arxiv.org/pdf/2608.06919) | rule-assigned |
 | 2026-07-15 | Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning | Zishuo Li, Bowen Yang, Changtao Miao, Kai Zhu et al. | [Abstract](https://arxiv.org/abs/2607.14183) · [PDF](https://arxiv.org/pdf/2607.14183) | rule-assigned |

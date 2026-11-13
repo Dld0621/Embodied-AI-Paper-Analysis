@@ -1,12 +1,12 @@
 # Model Predictive Control · 模型预测控制
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Model-based%20Decision%20Making&specialty=Model%20Predictive%20Control#research-workbench)
 
-> 11 conference papers · 300 recent arXiv papers
+> 11 conference papers · 302 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -36,10 +36,14 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Nonlinear Model Predictive Control with Cost Function Scheduling for a Wheeled Mobile Robot | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981066) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981066) | rule-assigned |
 | 2022 | SMS-MPC: Adversarial Learning-based Simultaneous Prediction Control with Single Model for Mobile Robots | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981289) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981289) | rule-assigned |
 
-## Recent arXiv papers (300)
+## Recent arXiv papers (302)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | An Integrated Architecture for Data-Efficient Real-Time Neural Imitation of Nonlinear Time-Optimal Model Predictive Control | Maarten De Baecke, Flavia Sofia Acerbo, Andrea Giusti, Wilm Decré | [Abstract](https://arxiv.org/abs/2611.17005) · [PDF](https://arxiv.org/pdf/2611.17005) | rule-assigned |
+| 2026-11-10 | FAME-QP: A GPU-Accelerated Quadratic-Programming Solver for Real-Time Model Predictive Control | Santosh Mohan Rajkumar, Debdipta Goswami, Stephanie Stockar | [Abstract](https://arxiv.org/abs/2611.13766) · [PDF](https://arxiv.org/pdf/2611.13766) | rule-assigned |
+| 2026-11-09 | Data-Driven Precision Control of Soft Helicoid Robots | Roshan S. Kaundinya, Mark Leone, Roberto Sabella, Hugo Buurmeijer et al. | [Abstract](https://arxiv.org/abs/2611.11709) · [PDF](https://arxiv.org/pdf/2611.11709) | rule-assigned |
+| 2026-11-07 | Sampling-based Model Predictive Control as Sequential Monte Carlo Inference | Austin Garrett, Muyang Yan, Zachary Kingston | [Abstract](https://arxiv.org/abs/2611.10877) · [PDF](https://arxiv.org/pdf/2611.10877) | rule-assigned |
 | 2026-11-01 | When to Probe and When to Act: Clarity-Aware Risk-Adaptive Control for Interactive Driving | Youran Wang, Devodita Chakravarty, Yiwei Lyu | [Abstract](https://arxiv.org/abs/2611.02240) · [PDF](https://arxiv.org/pdf/2611.02240) | rule-assigned |
 | 2026-10-29 | CuPIQP: A Batched and Differentiable QP Solver on GPUs for Robot Learning and Control | Fenglong Song, Roland Schwan, Yuwen Chen, Yuning Jiang et al. | [Abstract](https://arxiv.org/abs/2610.41021) · [PDF](https://arxiv.org/pdf/2610.41021) | rule-assigned |
 | 2026-10-23 | Robust Offset-Free Lane-Keeping Control Framework for Vision-Only Automated Vehicles | Der-Hau Lee | [Abstract](https://arxiv.org/abs/2610.32666) · [PDF](https://arxiv.org/pdf/2610.32666) | rule-assigned |
@@ -108,7 +112,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-05-03 | Optimizing Trajectory-Trees in Belief Space: An Application from Model Predictive Control to Task and Motion Planning | Camille Phiquepal, Marc Toussaint | [Abstract](https://arxiv.org/abs/2605.01860) · [PDF](https://arxiv.org/pdf/2605.01860) | rule-assigned |
 | 2026-04-22 | A Systematic Review and Taxonomy of Reinforcement Learning-Model Predictive Control Integration for Linear Systems | Mohsen Jalaeian Farimani, Roya Khalili Amirabadi, Davoud Nikkhouy, Malihe Abdolbaghi et al. | [Abstract](https://arxiv.org/abs/2604.21030) · [PDF](https://arxiv.org/pdf/2604.21030) | rule-assigned |
 | 2026-04-21 | Autonomous UAV Pipeline Near-proximity Inspection via Disturbance-Aware Predictive Visual Servoing | Wen Li, Hui Wang, Jinya Su, Cunjia Liu et al. | [Abstract](https://arxiv.org/abs/2604.19618) · [PDF](https://arxiv.org/pdf/2604.19618) | rule-assigned |
-| 2026-04-17 | Emergency Stopping for Liquid-manipulating Robots | Samuli Hynninen, Ville Kyrki | [Abstract](https://arxiv.org/abs/2604.16667) · [PDF](https://arxiv.org/pdf/2604.16667) | rule-assigned |
+| 2026-04-17 | Model-Predictive Spill-Free Emergency Stopping for Liquid-Manipulating Robots | Samuli Hynninen, Ville Kyrki | [Abstract](https://arxiv.org/abs/2604.16667) · [PDF](https://arxiv.org/pdf/2604.16667) | rule-assigned |
 | 2026-04-15 | Beyond Conservative Automated Driving in Multi-Agent Scenarios via Coupled Model Predictive Control and Deep Reinforcement Learning | Saeed Rahmani, Gözde Körpe, Zhenlin, Xu et al. | [Abstract](https://arxiv.org/abs/2604.13891) · [PDF](https://arxiv.org/pdf/2604.13891) | rule-assigned |
 | 2026-04-09 | Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles | Jiawei Liu, Xun Gong, Fen Fang, Muli Yang et al. | [Abstract](https://arxiv.org/abs/2604.08031) · [PDF](https://arxiv.org/pdf/2604.08031) | rule-assigned |
 | 2026-04-08 | Safe Large-Scale Robust Nonlinear MPC in Milliseconds via Reachability-Constrained System Level Synthesis on the GPU | Jeffrey Fang, Glen Chou | [Abstract](https://arxiv.org/abs/2604.07644) · [PDF](https://arxiv.org/pdf/2604.07644) | rule-assigned |
@@ -121,7 +125,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-04-02 | Bridging Large-Model Reasoning and Real-Time Control via Agentic Fast-Slow Planning | Jiayi Chen, Shuai Wang, Guangxu Zhu, Chengzhong Xu | [Abstract](https://arxiv.org/abs/2604.01681) · [PDF](https://arxiv.org/pdf/2604.01681) | rule-assigned |
 | 2026-03-30 | Koopman Operator Framework for Modeling and Control of Off-Road Vehicle on Deformable Terrain | Kartik Loya, Phanindra Tallapragada | [Abstract](https://arxiv.org/abs/2603.28965) · [PDF](https://arxiv.org/pdf/2603.28965) | rule-assigned |
 | 2026-03-30 | A Self-Rotating Tri-Rotor UAV for Field of View Expansion and Autonomous Flight | Xiaobin Zhou, Zihao Zheng, Aoxu Jin, Lei Qiang et al. | [Abstract](https://arxiv.org/abs/2603.28581) · [PDF](https://arxiv.org/pdf/2603.28581) | rule-assigned |
-| 2026-03-25 | Towards Safe Learning-Based Non-Linear Model Predictive Control through Recurrent Neural Network Modeling | Mihaela-Larisa Clement, Mónika Farsang, Agnes Poks, Johannes Edelmann et al. | [Abstract](https://arxiv.org/abs/2603.24503) · [PDF](https://arxiv.org/pdf/2603.24503) | rule-assigned |
+| 2026-03-25 | Safe Approximate Nonlinear Model Predictive Control Without Expert Demonstrations | Mihaela-Larisa Clement, Mónika Farsang, Johannes Edelmann, Manfred Plöchl et al. | [Abstract](https://arxiv.org/abs/2603.24503) · [PDF](https://arxiv.org/pdf/2603.24503) | rule-assigned |
 | 2026-03-20 | High-Speed, All-Terrain Autonomy: Ensuring Safety at the Limits of Mobility | James R. Baxter, Bogdan I. Epureanu, Paramsothy Jayakumar, Tulga Ersal | [Abstract](https://arxiv.org/abs/2603.20525) · [PDF](https://arxiv.org/pdf/2603.20525) | rule-assigned |
 | 2026-03-19 | Safety-Guaranteed Imitation Learning from Nonlinear Model Predictive Control for Spacecraft Close Proximity Operations | Alexander Meinert, Niklas Baldauf, Peter Stadler, Alen Turnwald | [Abstract](https://arxiv.org/abs/2603.18910) · [PDF](https://arxiv.org/pdf/2603.18910) | rule-assigned |
 | 2026-03-19 | Graph-of-Constraints Model Predictive Control for Reactive Multi-agent Task and Motion Planning | Anastasios Manganaris, Jeremy Lu, Ahmed H. Qureshi, Suresh Jagannathan | [Abstract](https://arxiv.org/abs/2603.18400) · [PDF](https://arxiv.org/pdf/2603.18400) | rule-assigned |
@@ -313,7 +317,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-04-15 | A Generic Trajectory Planning Method for Constrained All-Wheel-Steering Robots | Ren Xin, Hongji Liu, Yingbing Chen, Jie Cheng et al. | [Abstract](https://arxiv.org/abs/2404.09677) · [PDF](https://arxiv.org/pdf/2404.09677) | rule-assigned |
 | 2024-04-09 | Robot Safe Planning In Dynamic Environments Based On Model Predictive Control Using Control Barrier Function | Zetao Lu, Kaijun Feng, Jun Xu, Haoyao Chen et al. | [Abstract](https://arxiv.org/abs/2404.05952) · [PDF](https://arxiv.org/pdf/2404.05952) | rule-assigned |
 | 2024-04-02 | Towards Scalable & Efficient Interaction-Aware Planning in Autonomous Vehicles using Knowledge Distillation | Piyush Gupta, David Isele, Sangjae Bae | [Abstract](https://arxiv.org/abs/2404.01746) · [PDF](https://arxiv.org/pdf/2404.01746) | rule-assigned |
-| 2024-04-02 | A Tutorial on Gaussian Process Learning-based Model Predictive Control | Jie Wang, Youmin Zhang | [Abstract](https://arxiv.org/abs/2404.03689) · [PDF](https://arxiv.org/pdf/2404.03689) | rule-assigned |
 | 2024-03-31 | Human-Robot Co-Transportation using Disturbance-Aware MPC with Pose Optimization | Al Jaber Mahmud, Amir Hossain Raj, Duc M. Nguyen, Weizi Li et al. | [Abstract](https://arxiv.org/abs/2404.00514) · [PDF](https://arxiv.org/pdf/2404.00514) | rule-assigned |
 | 2024-03-30 | Efficient Automatic Tuning for Data-driven Model Predictive Control via Meta-Learning | Baoyu Li, William Edwards, Kris Hauser | [Abstract](https://arxiv.org/abs/2404.00232) · [PDF](https://arxiv.org/pdf/2404.00232) | rule-assigned |
 | 2024-03-27 | An Efficient Risk-aware Branch MPC for Automated Driving that is Robust to Uncertain Vehicle Behaviors | Luyao Zhang, George Pantazis, Shaohang Han, Sergio Grammatico | [Abstract](https://arxiv.org/abs/2403.18695) · [PDF](https://arxiv.org/pdf/2403.18695) | rule-assigned |
@@ -339,7 +342,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-09 | Signatures Meet Dynamic Programming: Generalizing Bellman Equations for Trajectory Following | Motoya Ohnishi, Iretiayo Akinola, Jie Xu, Ajay Mandlekar et al. | [Abstract](https://arxiv.org/abs/2312.05547) · [PDF](https://arxiv.org/pdf/2312.05547) | rule-assigned |
 | 2023-11-29 | ReLU-QP: A GPU-Accelerated Quadratic Programming Solver for Model-Predictive Control | Arun L. Bishop, John Z. Zhang, Swaminathan Gurumurthy, Kevin Tracy et al. | [Abstract](https://arxiv.org/abs/2311.18056) · [PDF](https://arxiv.org/pdf/2311.18056) | rule-assigned |
 | 2023-11-25 | Automated Lane Merging via Game Theory and Branch Model Predictive Control | Luyao Zhang, Shaohang Han, Sergio Grammatico | [Abstract](https://arxiv.org/abs/2311.14916) · [PDF](https://arxiv.org/pdf/2311.14916) | rule-assigned |
-| 2023-11-10 | R$^2$NMPC: A Real-Time Reduced Robustified Nonlinear Model Predictive Control with Ellipsoidal Uncertainty Sets for Autonomous Vehicle Motion Control | Baha Zarrouki, João Nunes, Johannes Betz | [Abstract](https://arxiv.org/abs/2311.06420) · [PDF](https://arxiv.org/pdf/2311.06420) | rule-assigned |
 
 ---
 

@@ -1,13 +1,18 @@
-# Retargeting · 201–333
+# Retargeting · 201–338
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Topic index](retargeting.md)
 
 | Paper | Source layer | Primary path | Classification status |
 |---|---|---|---|
+| [SPARK: Skeleton-Parameter Aligned Retargeting on Humanoid Robots with Kinodynamic Trajectory Optimization](https://arxiv.org/abs/2603.11480) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Coordination & Balance → Whole-body Optimization & Control | rule-assigned |
+| [SPOT: Spatial Perception-Oriented Long-Horizon Humanoid Teleoperation](https://arxiv.org/abs/2609.07933) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Motion Imitation & Generation | rule-assigned |
+| [SUGAR: A Scalable Human-Video-Driven Generalizable Humanoid Loco-Manipulation Learning Framework](https://arxiv.org/abs/2605.20373) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Locomotion-Manipulation Coordination → Humanoid Loco-manipulation | rule-assigned |
+| [SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy](https://arxiv.org/abs/2604.18557) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Locomotion-Manipulation Coordination → Humanoid Loco-manipulation | rule-assigned |
+| [Teleopit: A Full-Embodiment Humanoid Teleoperation System](https://arxiv.org/abs/2608.01834) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | needs-review |
 | [TERRA: Terrain-Aware Reconstruction, Retargeting and Control for Musculoskeletal Locomotion](https://arxiv.org/abs/2609.38653) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Quadruped & Multilegged Locomotion → Terrain Adaptation | rule-assigned |
 | [Traceable Human-to-Humanoid Sign Language Benchmarking](https://arxiv.org/abs/2609.33354) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Whole-body Motion Transfer → Motion Imitation & Generation | rule-assigned |
 | [ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation](https://arxiv.org/abs/2603.03279) | arxiv · arXiv | Legged Locomotion & Whole-body Control → Locomotion-Manipulation Coordination → Humanoid Loco-manipulation | rule-assigned |

@@ -1,12 +1,12 @@
 # Diffusion Policies · 扩散策略
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generative%20Action%20Policies&specialty=Diffusion%20Policies#research-workbench)
 
-> 25 conference papers · 241 recent arXiv papers
+> 25 conference papers · 242 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -50,10 +50,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation | RSS · Visuomotor | [Paper](https://arxiv.org/abs/2405.07503) · [Index](https://dblp.org/rec/conf/rss/PrasadLWZB24) | rule-assigned |
 | 2023 | Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | RSS · Diffusion policy | [Paper](https://arxiv.org/abs/2303.04137) · [Official](https://roboticsproceedings.org/rss19/p026.html) · [Code](https://github.com/real-stanford/diffusion_policy) | rule-assigned |
 
-## Recent arXiv papers (241)
+## Recent arXiv papers (242)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-07 | Explicitly capturing demonstrator multi-modality for distillation into diffusion policies | Shao Yuan Chew Chia, Rebecca H. Jiang, Abhinav Agarwal, Andreas Hofmann et al. | [Abstract](https://arxiv.org/abs/2611.10949) · [PDF](https://arxiv.org/pdf/2611.10949) | rule-assigned |
 | 2026-11-06 | Horizon-Coupled Obstacle Guidance for Relative-Action Diffusion Policies | Guangyuan Wang, Haishan Xia, Zitao Zhang, Kejia Chen et al. | [Abstract](https://arxiv.org/abs/2611.09340) · [PDF](https://arxiv.org/pdf/2611.09340) | rule-assigned |
 | 2026-11-05 | Efficient Diffusion Policy Fine Tuning with Latent Noise Representation Bridging | Yuanchu Liang, Yue Yang, An-Chi He, Hanna Kurniawati | [Abstract](https://arxiv.org/abs/2611.07275) · [PDF](https://arxiv.org/pdf/2611.07275) | rule-assigned |
 | 2026-11-03 | Spectrally Routed Diffusion Policy for Multi-Task Robotic Manipulation | Mingcong Li, Yihan Zhou, Jiayu Qu, Xueyang Guo et al. | [Abstract](https://arxiv.org/abs/2611.04477) · [PDF](https://arxiv.org/pdf/2611.04477) | rule-assigned |

@@ -1,12 +1,12 @@
 # Legged & Whole-body Mechanisms · 腿式与全身机构
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Legged%20%26%20Whole-body%20Mechanisms#research-workbench)
 
-> 6 conference papers · 37 recent arXiv papers
+> 6 conference papers · 38 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -31,10 +31,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Development of a Collaborative Wheeled Mobile Robot: Design Considerations, Drive Unit Torque Control, and Preliminary Result | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/icra46639.2022.9812006) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812006) | rule-assigned |
 | 2022 | Soft Robots Learn to Crawl: Jointly Optimizing Design and Control with Sim-to-Real Transfer | RSS · Sim To Real | [Paper](https://arxiv.org/abs/2202.04575) · [Index](https://dblp.org/rec/conf/rss/SchaffSW22) | rule-assigned |
 
-## Recent arXiv papers (37)
+## Recent arXiv papers (38)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-09 | PneuGen: Task-Driven Agentic Co-Design of Soft Pneumatic Robots | Shaohong Zhong, Marco Pontin, Perla Maiolino | [Abstract](https://arxiv.org/abs/2611.13344) · [PDF](https://arxiv.org/pdf/2611.13344) | rule-assigned |
 | 2026-09-29 | Draft: A Parametric Tool for Robot Design Exploration | David Nguyen, Marcelo Coelho, Sangbae Kim | [Abstract](https://arxiv.org/abs/2609.38405) · [PDF](https://arxiv.org/pdf/2609.38405) | rule-assigned |
 | 2026-09-27 | Large Language Models for Model-Based Robot Design | Andrew Wilhelm, Angelina Zhou, Nils Napp | [Abstract](https://arxiv.org/abs/2609.33423) · [PDF](https://arxiv.org/pdf/2609.33423) | rule-assigned |
 | 2026-09-08 | Bridging Language and Physics: Automated Design of Continuum Robots with Large Language Models | Jingyi Chen, Mohan Zhang, Laura Yao, Yingtai Ni et al. | [Abstract](https://arxiv.org/abs/2609.08220) · [PDF](https://arxiv.org/pdf/2609.08220) | rule-assigned |

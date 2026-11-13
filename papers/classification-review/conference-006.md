@@ -1,14 +1,13 @@
 # conference classification review · 1001–1200
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
-| [VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning](https://arxiv.org/abs/2410.23156) | 2024 · conference | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Pending specialty review | title:prediction or reasoning; title:world models |
 | [VLMPC: Vision-Language Model Predictive Control for Robotic Manipulation](https://arxiv.org/abs/2407.09829) | 2024 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [WARABI Hand: Five-fingered Robotic Hand with Flexible Skin and Force Sensors for Social Interaction](https://doi.org/10.1109/ICRA57147.2024.10610697) | 2024 · conference | 暂定二级 / provisional: Dexterous Hands, Retargeting & Teleoperation → Multifinger Grasping & Control → Pending specialty review | fallback; fallback |
 | [WayFASTER: a Self-Supervised Traversability Prediction for Increased Navigation Awareness](https://arxiv.org/pdf/2402.00683) | 2024 · conference | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
@@ -66,6 +65,7 @@
 | [Characteristics of Permanent Magnet Coupling Based Wireless Manipulation via Simulation](https://doi.org/10.1109/IROS55552.2023.10341587) | 2023 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Clothes Grasping and Unfolding Based on RGB-D Semantic Segmentation](https://arxiv.org/pdf/2305.03259) | 2023 · conference | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasping |
 | [Comparison of Model-Based and Model-Free Reinforcement Learning for Real-World Dexterous Robotic Manipulation Tasks](https://doi.org/10.1109/ICRA48891.2023.10160983) | 2023 · conference | 暂定二级 / provisional: Dexterous Hands, Retargeting & Teleoperation → Multifinger Grasping & Control → Pending specialty review | title:dexterous hands or teleoperation; fallback |
+| [Composable Part-Based Manipulation](https://arxiv.org/abs/2405.05876) | 2023 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Context-Aware Deep Reinforcement Learning for Autonomous Robotic Navigation in Unknown Area](https://www.semanticscholar.org/paper/29e11e51d01f52bb28f1d335227270806c090452) | 2023 · conference | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
 | [CoWs on Pasture: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation](https://arxiv.org/pdf/2203.10421) | 2023 · conference | Data, Simulation & Evaluation → Benchmarks & Experimental Methods → Pending specialty review | title:data or evaluation contribution; title:benchmarks |
 | [CropNav: a Framework for Autonomous Navigation in Real Farms](https://arxiv.org/pdf/2411.10974) | 2023 · conference | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |

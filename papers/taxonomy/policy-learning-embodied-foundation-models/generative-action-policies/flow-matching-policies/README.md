@@ -1,12 +1,12 @@
 # Flow-matching Policies · Flow Matching 策略
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generative%20Action%20Policies&specialty=Flow-matching%20Policies#research-workbench)
 
-> 4 conference papers · 136 recent arXiv papers
+> 4 conference papers · 138 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,10 +29,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2510.02738) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697008) | rule-assigned |
 | 2026 | Shifted Flow Policy: Uncertainty-aware Time Reparameterization for Visuomotor Learning | ICRA · Visuomotor | [Paper](https://doi.org/10.1109/icra57385.2026.11696791) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696791) | rule-assigned |
 
-## Recent arXiv papers (136)
+## Recent arXiv papers (138)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-09 | Latent Barrier Steering: Hierarchical Safety for Generative Planning | Renhao Zhang, Mingzhe Li, Bruno Castro da Silva | [Abstract](https://arxiv.org/abs/2611.13227) · [PDF](https://arxiv.org/pdf/2611.13227) | rule-assigned |
+| 2026-11-08 | FlowEval: How Much Adaptation Does an Embodied Foundation Model Need at Deployment? | Zhang Xi-Jia, Roman Yakunin, Shivang Chopra, Chengyue Huang et al. | [Abstract](https://arxiv.org/abs/2611.11650) · [PDF](https://arxiv.org/pdf/2611.11650) | rule-assigned |
 | 2026-11-06 | EGT: Execution-Grounded Traversability through Learned Closed-Loop Trajectory Distributions | Chinmay Mundane, Amith Manoharan, Arun Kumar Singh | [Abstract](https://arxiv.org/abs/2611.09270) · [PDF](https://arxiv.org/pdf/2611.09270) | rule-assigned |
 | 2026-11-05 | GPWM: Modeling the World as 3D Particle Motion | Robert Ren, Matthew Bronars, He Zhu, Yikai Tang et al. | [Abstract](https://arxiv.org/abs/2611.08338) · [PDF](https://arxiv.org/pdf/2611.08338) | rule-assigned |
 | 2026-11-05 | CS-Pi: Constraint-Satisfying Flow Policy Sampling | Soumojit Bhattacharya, Oliver Kroemer, Shubham Tulsiani | [Abstract](https://arxiv.org/abs/2611.08654) · [PDF](https://arxiv.org/pdf/2611.08654) | rule-assigned |

@@ -1,12 +1,12 @@
 # Visuotactile & Proprioceptive Fusion · 视觉触觉与本体感知融合
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Visuotactile%20%26%20Proprioceptive%20Fusion#research-workbench)
 
-> 22 conference papers · 158 recent arXiv papers
+> 22 conference papers · 160 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -47,10 +47,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning-based Six-axis Force/Torque Estimation Using GelStereo Fingertip Visuotactile Sensing | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS47612.2022.9981100) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981100) | rule-assigned |
 | 2022 | Visual-Tactile Multimodality for Following Deformable Linear Objects Using Reinforcement Learning | IROS · Tactile | [Paper](https://arxiv.org/pdf/2204.00117) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982218) | rule-assigned |
 
-## Recent arXiv papers (158)
+## Recent arXiv papers (160)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-07 | Tactile Sensors Are an Effective Substitute for Wrist Cameras in Contact-Rich or Occluded Manipulation | Aijia Yang, Arsh Tangri, Sergey Zakharov, Krishna Murthy Jatavallabhula | [Abstract](https://arxiv.org/abs/2611.10490) · [PDF](https://arxiv.org/pdf/2611.10490) | reviewed |
+| 2026-11-07 | BAT-WAM: Bridging Action and Touch in World-Action Models for Dexterous Hands | Dong Fang, Feixuan Huang, Yuanxin Zhong, Yuxiang Gao et al. | [Abstract](https://arxiv.org/abs/2611.10967) · [PDF](https://arxiv.org/pdf/2611.10967) | reviewed |
 | 2026-11-06 | MDF++: Visuo-Tactile World Action Model with End-to-end Representation Learning | Zixuan Huang, Jinhao Yu, Zachary Charlick, Dmitry Berenson | [Abstract](https://arxiv.org/abs/2611.09293) · [PDF](https://arxiv.org/pdf/2611.09293) | rule-assigned |
 | 2026-10-27 | RoboSTD: Zero-Shot Single-to-Dual Transfer via Sagittal Mirroring for Bimanual Learning | Hongyu Wu, Chong Liu, Shaoxuan Xie, Shaqi Luo et al. | [Abstract](https://arxiv.org/abs/2610.36685) · [PDF](https://arxiv.org/pdf/2610.36685) | rule-assigned |
 | 2026-10-26 | Revisiting Direct Control: A Field Evaluation of Sensor Fusion Efficacy in Teleoperating Full-Scale Autonomous Vehicles via Bird's Eye View | Stanisław Kuczma, Sławomir K. Tadeja, Michał R. Nowicki | [Abstract](https://arxiv.org/abs/2610.35630) · [PDF](https://arxiv.org/pdf/2610.35630) | rule-assigned |

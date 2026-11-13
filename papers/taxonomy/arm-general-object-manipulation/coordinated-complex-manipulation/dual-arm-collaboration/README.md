@@ -1,12 +1,12 @@
 # Dual-arm Collaboration · 双臂协作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Dual-arm%20Collaboration#research-workbench)
 
-> 51 conference papers · 171 recent arXiv papers
+> 51 conference papers · 174 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -76,10 +76,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Temporal Task Models from Human Bimanual Demonstrations | IROS · Bimanual | [Paper](https://doi.org/10.1109/IROS47612.2022.9981068) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981068) | rule-assigned |
 | 2022 | Nonlinear Model Predictive Control for Human-Robot Handover with Application to the Aerial Case | IROS · Robot Hand | [Paper](https://hal.science/hal-03716664) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981045) | rule-assigned |
 
-## Recent arXiv papers (171)
+## Recent arXiv papers (174)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | ACE-CaP-0: Real-World Code-as-Policies in the Era of Experience | ACE-CaP Team, Changxu Wei, Yunpeng Qing, Guozheng Ma et al. | [Abstract](https://arxiv.org/abs/2611.16872) · [PDF](https://arxiv.org/pdf/2611.16872) | rule-assigned |
+| 2026-11-11 | Low-Cost Mobile Bimanual Manipulation for Long-Horizon Toilet Cleaning | Sven Schreiber, Bernard Burdiek, Lasse Huber-Saffer, Yung-Hui Li et al. | [Abstract](https://arxiv.org/abs/2611.15381) · [PDF](https://arxiv.org/pdf/2611.15381) | rule-assigned |
+| 2026-11-09 | World In-Context Learning for Agentic Robot Manipulation | Heng Fang, Zehui Guo, Yuehan Zhang, Mingyang Du et al. | [Abstract](https://arxiv.org/abs/2611.12885) · [PDF](https://arxiv.org/pdf/2611.12885) | rule-assigned |
 | 2026-11-06 | On Agentic Manipulation Policies | Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji, Jesse T. Gonzalez et al. | [Abstract](https://arxiv.org/abs/2611.09892) · [PDF](https://arxiv.org/pdf/2611.09892) | rule-assigned |
 | 2026-11-05 | Dual-Arm Tabletop Rearrangement with Movable Stacking and Gap-Aware Push Transfers | Mohammadreza Firoozalizadeh, Zakiye Rostamirad, Arman Barghi, Ahmad Kalhor et al. | [Abstract](https://arxiv.org/abs/2611.07726) · [PDF](https://arxiv.org/pdf/2611.07726) | rule-assigned |
 | 2026-11-02 | AIRoA-0: Long-Horizon, Precise, Cross-Embodiment Manipulation from Handheld Data | Yueh-Hua Wu, Kei Ota, Hanlong Li, Hayata Yuasa et al. | [Abstract](https://arxiv.org/abs/2611.03815) · [PDF](https://arxiv.org/pdf/2611.03815) | rule-assigned |

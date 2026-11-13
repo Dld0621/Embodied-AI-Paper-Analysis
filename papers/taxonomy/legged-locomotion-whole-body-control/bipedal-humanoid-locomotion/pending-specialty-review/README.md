@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Pending%20specialty%20review#research-workbench)
 
-> 165 conference papers · 537 recent arXiv papers
+> 165 conference papers · 539 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -190,10 +190,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Torque-Actuated Multimodal Locomotion of Ferrofluid Robot With Environment and Task Adaptability | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9981041) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981041) | needs-review |
 | 2022 | Rapid locomotion via reinforcement learning | RSS · Locomotion | [Paper](https://arxiv.org/pdf/2205.02824) · [Publisher](https://doi.org/10.1177/02783649231224053) | needs-review |
 
-## Recent arXiv papers (537)
+## Recent arXiv papers (539)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-11 | Can I join you? Extended Social Force Based Model with Predictive Control and Barrier Functions for Humanoid Group Repositioning Amidst Obstacles | Chuxuan Zhang, Niloofar Jahanshahi, Yasaman Etesam, Mo Chen et al. | [Abstract](https://arxiv.org/abs/2611.14853) · [PDF](https://arxiv.org/pdf/2611.14853) | needs-review |
+| 2026-11-09 | AHEADance: Anticipatory Humanoid Dance from Streaming Audio | Tianhu Peng, Yukun Wang, Lingfan Bao, Yiyang Jia et al. | [Abstract](https://arxiv.org/abs/2611.13370) · [PDF](https://arxiv.org/pdf/2611.13370) | needs-review |
 | 2026-11-06 | STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards | Nico Bohlinger, Jan Peters | [Abstract](https://arxiv.org/abs/2611.08857) · [PDF](https://arxiv.org/pdf/2611.08857) | needs-review |
 | 2026-11-05 | Whole-Body Elasto-Geometrical Calibration of Wheeled Humanoid Robots Using a Shared-Waist Dual-Chain Model | Pengxin Zha, Yi Lu, Haojun Ma, Jun Zhu et al. | [Abstract](https://arxiv.org/abs/2611.07560) · [PDF](https://arxiv.org/pdf/2611.07560) | needs-review |
 | 2026-11-05 | PhySA: Decoupling Aesthetic and Physical Rewards for Humanoid Locomotion | Yunwan Fu, Sicheng He, Jiageng Mao, Yue Wang | [Abstract](https://arxiv.org/abs/2611.07679) · [PDF](https://arxiv.org/pdf/2611.07679) | needs-review |
@@ -230,6 +232,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-10-16 | CoEvolve: Self-Evolving Code Policies from Skills to Strategies for Humanoid Robots | Zicheng Liu, Haochen Wu, Jiawei He, Suyun Zhao et al. | [Abstract](https://arxiv.org/abs/2610.23288) · [PDF](https://arxiv.org/pdf/2610.23288) | needs-review |
 | 2026-10-15 | Whole-Body Dexterity | Conor Mc Gartoll, An Dang, Pranay Thangeda, Arjun Gupta et al. | [Abstract](https://arxiv.org/abs/2610.22184) · [PDF](https://arxiv.org/pdf/2610.22184) | needs-review |
 | 2026-10-14 | RoboSpan: Learning Modular Coordination Policies for High-DoF Whole-Body Mobile Manipulation with Teleoperation | Keqiang Ren, Xuecheng Ye, Hanyu Liu, Zhihua Wang et al. | [Abstract](https://arxiv.org/abs/2610.19594) · [PDF](https://arxiv.org/pdf/2610.19594) | needs-review |
+| 2026-10-14 | A wind memory for odour source search in reversing wind | Junlong Shen, Shunsuke Shigaki | [Abstract](https://arxiv.org/abs/2610.20970) · [PDF](https://arxiv.org/pdf/2610.20970) | needs-review |
 | 2026-10-13 | Locomotion with Online Awareness of Dynamics for Precision Footholds | Kunzhao Ren, Zhishuo Zhu, Xiaobin Xiong | [Abstract](https://arxiv.org/abs/2610.17930) · [PDF](https://arxiv.org/pdf/2610.17930) | needs-review |
 | 2026-10-13 | I3L: Iterative Interactive Imitation Learning for Whole-Body Mobile Manipulation | Wensi Ai, Christopher Luey, Karthik Dharmarajan, Evans Han et al. | [Abstract](https://arxiv.org/abs/2610.17748) · [PDF](https://arxiv.org/pdf/2610.17748) | needs-review |
 | 2026-10-12 | SHOES: Sim-to-real Hardware-adaptation via On-policy Expansion of Skills for Legged Robots | Kota Tsuruhara, Tsung-Yuan Chen, Kento Kawaharazuka | [Abstract](https://arxiv.org/abs/2610.16457) · [PDF](https://arxiv.org/pdf/2610.16457) | needs-review |
@@ -401,7 +404,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-03-04 | Characterization and Correlation of Robotic Snake Scale Friction and Locomotion Speed | Umit Sen, Andri Mahegan, Gina Olson | [Abstract](https://arxiv.org/abs/2603.03735) · [PDF](https://arxiv.org/pdf/2603.03735) | needs-review |
 | 2026-03-03 | Look Forward to Walk Backward: Efficient Terrain Memory for Backward Locomotion with Forward Vision | Shixin Luo, Songbo Li, Yuan Hao, Yaqi Wang et al. | [Abstract](https://arxiv.org/abs/2603.03138) · [PDF](https://arxiv.org/pdf/2603.03138) | needs-review |
 | 2026-03-03 | HoMMI: Learning Whole-Body Mobile Manipulation from Human Demonstrations | Xiaomeng Xu, Jisang Park, Han Zhang, Eric Cousineau et al. | [Abstract](https://arxiv.org/abs/2603.03243) · [PDF](https://arxiv.org/pdf/2603.03243) | needs-review |
-| 2026-02-25 | LessMimic: Long-Horizon Humanoid Interaction with Unified Distance Field Representations | Yutang Lin, Jieming Cui, Yixuan Li, Baoxiong Jia et al. | [Abstract](https://arxiv.org/abs/2602.21723) · [PDF](https://arxiv.org/pdf/2602.21723) | needs-review |
 | 2026-02-22 | Design and Control of Modular Magnetic Millirobots for Multimodal Locomotion and Shape Reconfiguration | Erik Garcia Oyono, Jialin Lin, Dandan Zhang | [Abstract](https://arxiv.org/abs/2602.19346) · [PDF](https://arxiv.org/pdf/2602.19346) | needs-review |
 | 2026-02-20 | Whole-Brain Connectomic Graph Model Enables Whole-Body Locomotion Control in Fruit Fly | Zehao Jin, Yaoye Zhu, Chen Zhang, Yanan Sui | [Abstract](https://arxiv.org/abs/2602.17997) · [PDF](https://arxiv.org/pdf/2602.17997) | needs-review |
 | 2026-02-17 | Grip as Needed, Glide on Demand: Ultrasonic Lubrication for Robotic Locomotion | Mostafa A. Atalla, Daan van Bemmel, Jack Cummings, Paul Breedveld et al. | [Abstract](https://arxiv.org/abs/2602.15608) · [PDF](https://arxiv.org/pdf/2602.15608) | needs-review |
@@ -436,8 +438,8 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-12-11 | Symphony: A Heuristic Normalized Calibrated Advantage Actor and Critic Algorithm in application for Humanoid Robots | Timur Ishuov, Michele Folgheraiter, Madi Nurmanov, Goncalo Gordo et al. | [Abstract](https://arxiv.org/abs/2512.10477) · [PDF](https://arxiv.org/pdf/2512.10477) | needs-review |
 | 2025-12-10 | REASAN: Learning Reactive Safe Navigation for Legged Robots | Qihao Yuan, Ziyu Cao, Ming Cao, Kailai Li | [Abstract](https://arxiv.org/abs/2512.09537) · [PDF](https://arxiv.org/pdf/2512.09537) | needs-review |
 | 2025-12-08 | Inchworm-Inspired Soft Robot with Groove-Guided Locomotion | Hari Prakash Thanabalan, Lars Bengtsson, Ugo Lafont, Giovanni Volpe | [Abstract](https://arxiv.org/abs/2512.07813) · [PDF](https://arxiv.org/pdf/2512.07813) | needs-review |
-| 2025-11-30 | SAGAS: Semantic-Aware Graph-Assisted Stitching for Offline Temporal Logic Planning | Ruijia Liu, Ancheng Hou, Xiang Yin | [Abstract](https://arxiv.org/abs/2512.00775) · [PDF](https://arxiv.org/pdf/2512.00775) | needs-review |
 | 2025-11-30 | H-Zero: Cross-Humanoid Locomotion Pretraining Enables Few-shot Novel Embodiment Transfer | Yunfeng Lin, Minghuan Liu, Yufei Xue, Ming Zhou et al. | [Abstract](https://arxiv.org/abs/2512.00971) · [PDF](https://arxiv.org/pdf/2512.00971) | needs-review |
+| 2025-11-30 | Beyond Topology: A Morphological Symmetry Graph Representation for Locomotion Policy Learning | Sizhe Wei, Xulin Chen, Fengze Xie, Garrett Ethan Katz et al. | [Abstract](https://arxiv.org/abs/2512.00727) · [PDF](https://arxiv.org/pdf/2512.00727) | needs-review |
 | 2025-11-28 | SafeHumanoid: VLM-RAG-driven Control of Upper Body Impedance for Humanoid Robot | Yara Mahmoud, Jeffrin Sam, Nguyen Khang, Marcelino Fernando et al. | [Abstract](https://arxiv.org/abs/2511.23300) · [PDF](https://arxiv.org/pdf/2511.23300) | needs-review |
 | 2025-11-28 | Learning When to Ask: Simulation-Trained Humanoids for Mental-Health Diagnosis | Filippo Cenacchi, Deborah Richards, Longbing Cao | [Abstract](https://arxiv.org/abs/2512.08952) · [PDF](https://arxiv.org/pdf/2512.08952) | needs-review |
 | 2025-11-18 | Translating Cultural Choreography from Humanoid Forms to Robotic Arm | Chelsea-Xi Chen, Zhe Zhang, Aven-Le Zhou | [Abstract](https://arxiv.org/abs/2511.17603) · [PDF](https://arxiv.org/pdf/2511.17603) | needs-review |

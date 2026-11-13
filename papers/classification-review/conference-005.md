@@ -1,14 +1,13 @@
 # conference classification review · 801–1000
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
-| [Learning a Pre-Grasp Manipulation Policy to Effectively Retrieve a Target in Dense Clutter](https://doi.org/10.1109/IROS58592.2024.10801734) | 2024 · conference | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasp |
 | [Learning Cross-Hand Policies of High-DOF Reaching and Grasping](https://doi.org/10.1007/978-3-031-73404-5_16) | 2024 · conference | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasping |
 | [Learning Crowd Behaviors in Navigation with Attention-based Spatial-Temporal Graphs](https://arxiv.org/pdf/2401.06226) | 2024 · conference | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
 | [Learning Diverse Skills for Local Navigation under Multi-constraint Optimality](https://arxiv.org/pdf/2310.02440) | 2024 · conference | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
@@ -208,3 +207,4 @@
 | [Vision-Language Model-based Physical Reasoning for Robot Liquid Perception](https://arxiv.org/pdf/2404.06904) | 2024 · conference | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
 | [Visual Feedback Control of an Underactuated Hand for Grasping Brittle and Soft Foods](https://doi.org/10.1109/ICRA57147.2024.10610649) | 2024 · conference | 暂定二级 / provisional: Robot Hardware & Systems → Mechanisms & Actuation → Pending specialty review | title:hardware or deployment contribution; fallback |
 | [Visual Preference Inference: An Image Sequence-Based Preference Reasoning in Tabletop Object Manipulation](https://arxiv.org/pdf/2403.11513) | 2024 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
+| [VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning](https://arxiv.org/abs/2410.23156) | 2024 · conference | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Pending specialty review | title:prediction or reasoning; title:world models |

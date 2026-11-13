@@ -1,12 +1,12 @@
 # Vision-Language Navigation · 视觉语言导航
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Goal%20%26%20Language%20Navigation&specialty=Vision-Language%20Navigation#research-workbench)
 
-> 37 conference papers · 270 recent arXiv papers
+> 37 conference papers · 272 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -62,10 +62,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Depth-Aware Vision-and-Language Navigation using Scene Query Attention Network | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811921) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811921) | rule-assigned |
 | 2022 | Weakly-Supervised Multi-Granularity Map Learning for Vision-and-Language Navigation | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.07506) · [Index](https://dblp.org/rec/conf/nips/ChenJLZLTG22) | rule-assigned |
 
-## Recent arXiv papers (270)
+## Recent arXiv papers (272)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation | Guangyuan Sui, Yunzhong Hou, Chi Harold Liu | [Abstract](https://arxiv.org/abs/2611.17330) · [PDF](https://arxiv.org/pdf/2611.17330) | rule-assigned |
+| 2026-11-07 | CPNav: Calibrated Vision-Language Navigation for Object-Goal Search in Unseen Environments | Qizhao Chen, Yuanhong Zeng, Shoh Nishino, Anushri Dixit | [Abstract](https://arxiv.org/abs/2611.10366) · [PDF](https://arxiv.org/pdf/2611.10366) | rule-assigned |
 | 2026-11-03 | WayTrace: A Map-to-Language-to-Trace Hierarchy for Embodied Urban Navigation | Manthan Patel, Jonas Frey, Pascal Roth, Marco Hutter et al. | [Abstract](https://arxiv.org/abs/2611.05129) · [PDF](https://arxiv.org/pdf/2611.05129) | rule-assigned |
 | 2026-10-29 | Ask to Evolve: A Unified Harness for Lifelong Embodied Navigation with Hybrid Action Space and Persistent Memory | Kai Sheng, Liuyi Wang, Jinlong Li, Haojie Dai et al. | [Abstract](https://arxiv.org/abs/2610.39446) · [PDF](https://arxiv.org/pdf/2610.39446) | rule-assigned |
 | 2026-10-28 | What Should a Navigator Remember? Spatiotemporal Memory for Zero-Shot Vision-Language Navigation | Yuhang Peng, Zhikai Wang, Ziyi Wang, Jiaru Zhong et al. | [Abstract](https://arxiv.org/abs/2610.38318) · [PDF](https://arxiv.org/pdf/2610.38318) | rule-assigned |
@@ -215,7 +217,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-03-01 | ProFocus: Proactive Perception and Focused Reasoning in Vision-and-Language Navigation | Wei Xue, Mingcheng Li, Xuecheng Wu, Jingqun Tang et al. | [Abstract](https://arxiv.org/abs/2603.05530) · [PDF](https://arxiv.org/pdf/2603.05530) | rule-assigned |
 | 2026-02-27 | Enhancing Vision-Language Navigation with Multimodal Event Knowledge from Real-World Indoor Tour Videos | Haoxuan Xu, Tianfu Li, Wenbo Chen, Yi Liu et al. | [Abstract](https://arxiv.org/abs/2602.23937) · [PDF](https://arxiv.org/pdf/2602.23937) | rule-assigned |
 | 2026-02-20 | CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation | Xia Su, Ruiqi Chen, Benlin Liu, Jingwei Ma et al. | [Abstract](https://arxiv.org/abs/2602.18424) · [PDF](https://arxiv.org/pdf/2602.18424) | rule-assigned |
-| 2026-02-17 | One Agent to Guide Them All: Empowering MLLMs for Vision-and-Language Navigation via Explicit World Representation | Zerui Li, Hongpei Zheng, Fangguo Zhao, Aidan Chan et al. | [Abstract](https://arxiv.org/abs/2602.15400) · [PDF](https://arxiv.org/pdf/2602.15400) | rule-assigned |
+| 2026-02-17 | One Agent to Guide Them All: Empowering MLLMs for Vision-and-Language Navigation via Explicit World Representation | Zerui Li, Hongpei Zheng, Fangguo Zhao, Yanyan Shao et al. | [Abstract](https://arxiv.org/abs/2602.15400) · [PDF](https://arxiv.org/pdf/2602.15400) | rule-assigned |
 | 2026-02-07 | LCLA: Language-Conditioned Latent Alignment for Vision-Language Navigation | Nitesh Subedi, Adam Haroon, Samuel Tetteh, Prajwal Koirala et al. | [Abstract](https://arxiv.org/abs/2602.07629) · [PDF](https://arxiv.org/pdf/2602.07629) | rule-assigned |
 | 2026-02-06 | Nipping the Drift in the Bud: Retrospective Rectification for Robust Vision-Language Navigation | Gang He, Zhenyang Liu, Kepeng Xu, Li Xu et al. | [Abstract](https://arxiv.org/abs/2602.06356) · [PDF](https://arxiv.org/pdf/2602.06356) | rule-assigned |
 | 2026-02-05 | VLN-Pilot: Large Vision-Language Model as an Autonomous Indoor Drone Operator | Bessie Dominguez-Dager, Sergio Suescun-Ferrandiz, Felix Escalona, Francisco Gomez-Donoso et al. | [Abstract](https://arxiv.org/abs/2602.05552) · [PDF](https://arxiv.org/pdf/2602.05552) | rule-assigned |

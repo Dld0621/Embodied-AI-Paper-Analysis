@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-09** · 顶会快照 / Conference: **2026-11-09** · arXiv 快照: **2026-11-09** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generative%20Action%20Policies&specialty=Pending%20specialty%20review#research-workbench)
 
-> 0 conference papers · 0 recent arXiv papers
+> 0 conference papers · 1 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -24,9 +24,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 No conference papers currently map to this specialty.
 
-## Recent arXiv papers (0)
+## Recent arXiv papers (1)
 
-No recent arXiv papers currently map to this specialty.
+| Date | Paper | Authors | Online links | Review status |
+|---|---|---|---|---|
+| 2026-11-07 | GUARD: Anomaly-Informed Q-Steering for Generative Robot Policies in Dexterous Manipulation | Aryaman Gupta, Xiaoyue Wu, Rana Soltani Zarrin, Mark Van der Merwe | [Abstract](https://arxiv.org/abs/2611.10343) · [PDF](https://arxiv.org/pdf/2611.10343) | needs-review |
 
 ---
 

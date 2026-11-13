@@ -879,5 +879,120 @@
     ],
     "reason": "Title/abstract review. A controlled obstacle insertion tests whether grasp-feasibility predictors respond to collision geometry. The planner supplies the new label for each paired example. https://arxiv.org/abs/2611.09130",
     "related_topics": []
+  },
+  "dexseed expanding human hand object interactions into robot demonstrations for dexterous policy learning": {
+    "title": "DexSeed: Expanding Human Hand-Object Interactions into Robot Demonstrations for Dexterous Policy Learning",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Human Demonstrations to Dexterous Skills",
+      "Demonstration Refinement & Skill Transfer"
+    ],
+    "reason": "Title/abstract review. DexSeed expands human hand-object sequences into executable arm and finger demonstrations for VLA training. InteractionMesh-based retargeting preserves local hand-object relationships across objects and locations, while an RL finger controller generates successful simulated rollouts. https://arxiv.org/abs/2611.14092",
+    "related_topics": ["Hand Retargeting", "Contact-rich", "Dexterous Manipulation"],
+    "excluded_topics": ["Whole-body Retargeting"]
+  },
+  "from a single rgb image to robot execution metric scene alignment and contact guided retargeting": {
+    "title": "From a Single RGB Image to Robot Execution: Metric Scene Alignment and Contact-Guided Retargeting",
+    "path": [
+      "Legged Locomotion & Whole-body Control",
+      "Whole-body Motion Transfer",
+      "Contact & Dynamic Retargeting"
+    ],
+    "reason": "Title/abstract review. A single-image scene reconstruction supplies a human interaction reference. Metric alignment precedes humanoid retargeting, and Contact Guided Residual Retargeting then corrects robot support errors before pretrained humanoid trackers execute the reference. https://arxiv.org/abs/2611.14981",
+    "related_topics": ["Whole-body Retargeting", "Contact-rich"],
+    "excluded_topics": ["Hand Retargeting"]
+  },
+  "gap generalized adaptation prior for dexterous piano playing": {
+    "title": "GAP: Generalized Adaptation Prior for Dexterous Piano Playing",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "Generalization & Adaptation",
+      "Few-shot & Test-time Adaptation"
+    ],
+    "reason": "Title/abstract review. Simulation pretraining learns gradient guidance from paired executions. On hardware, feedback between executions adjusts the next action sequence, providing data-efficient adaptation for dexterous piano playing. https://arxiv.org/abs/2611.12111",
+    "related_topics": ["Dexterous Manipulation"],
+    "excluded_topics": ["Retargeting", "Hand Retargeting", "Whole-body Retargeting"]
+  },
+  "dexremo a force sensing hand platform and task suite for contact rich removal manipulation": {
+    "title": "DexRemo: A Force-Sensing Hand Platform and Task Suite for Contact-Rich Removal Manipulation",
+    "path": [
+      "Robot Hardware & Systems",
+      "Mechanisms & Actuation",
+      "Hands, Grippers & Arms"
+    ],
+    "reason": "Title/abstract review. DexRemo introduces a three-finger hand with modular fingertips, high-force actuation and three-axis fingertip force sensing, paired with a removal-manipulation task suite. Demonstration-trained policies fuse forces in a shared wrist frame with vision and proprioception. https://arxiv.org/abs/2611.15981",
+    "related_topics": ["Dexterous Manipulation", "Contact-rich"],
+    "excluded_topics": ["Retargeting", "Hand Retargeting", "Whole-body Retargeting"]
+  },
+  "embodied first exam": {
+    "title": "Embodied First Exam",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Benchmarks & Experimental Methods",
+      "Task & Capability Benchmarks"
+    ],
+    "reason": "Title/abstract review. The contribution is an evaluation framework for coding agents controlling diverse robots through direct actions, generated control code or learned policies. Sensor-only, realtime and privileged settings expose different control and observation constraints. https://arxiv.org/abs/2611.12177",
+    "related_topics": []
+  },
+  "guard anomaly informed q steering for generative robot policies in dexterous manipulation": {
+    "title": "GUARD: Anomaly-Informed Q-Steering for Generative Robot Policies in Dexterous Manipulation",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "Generative Action Policies",
+      "Pending specialty review"
+    ],
+    "reason": "Title/abstract review. A learned Q-function combines sparse task reward and dense anomaly scores to steer the denoising of pretrained diffusion and flow policies. This is a policy-guidance contribution. The current schema has separate diffusion and flow specialties, leaving the shared guidance contribution pending at their common parent. https://arxiv.org/abs/2611.10343",
+    "related_topics": ["Dexterous Manipulation"]
+  },
+  "dexforesight grounding dexterous policies with implicit spatial foresight": {
+    "title": "DexForesight: Grounding Dexterous Policies with Implicit Spatial Foresight",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "VLA & Generalist Robot Policies",
+      "Vision-Language-Action Modeling"
+    ],
+    "reason": "Title/abstract review. An offline action-conditioned spatial world model predicts hand-point motion and visual changes. Frozen predictive queries supervise a dexterous policy that takes RGB, language and robot state at deployment, transferring predictive representations into the action policy. https://arxiv.org/abs/2611.11166",
+    "related_topics": ["World Models", "Dexterous Manipulation"]
+  },
+  "bat wam bridging action and touch in world action models for dexterous hands": {
+    "title": "BAT-WAM: Bridging Action and Touch in World-Action Models for Dexterous Hands",
+    "path": [
+      "Perception, Representation & State Estimation",
+      "Tactile & Multimodal Perception",
+      "Visuotactile & Proprioceptive Fusion"
+    ],
+    "reason": "Title/abstract review. Separate tactile and action codebooks are connected through an RGB-conditioned latent bridge. The contribution learns joint representations for missing-modality recovery and future tactile prediction conditioned on target-time RGB and historical actions, with downstream WAM manipulation experiments. https://arxiv.org/abs/2611.10967",
+    "related_topics": ["World Models", "Contact-rich", "Dexterous Manipulation"]
+  },
+  "voke visual object kinematics estimator for dexterous in hand manipulation": {
+    "title": "VOKE: Visual Object Kinematics Estimator for Dexterous In-Hand Manipulation",
+    "path": [
+      "Perception, Representation & State Estimation",
+      "Object & Interaction Perception",
+      "6D Pose & Tracking"
+    ],
+    "reason": "Title/abstract review. A temporal perception module estimates object velocity and acceleration, then refines pose through a second-order motion prior. DexYCB and OakInk evaluate the perception contribution, and a downstream manipulation policy consumes the estimated kinematic state. https://arxiv.org/abs/2611.16423",
+    "related_topics": ["Dexterous Manipulation", "Contact-rich"]
+  },
+  "library of hands fix the hands not the world model": {
+    "title": "Library of Hands: Fix the Hands, Not the World Model",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "Generalization & Adaptation",
+      "Few-shot & Test-time Adaptation"
+    ],
+    "reason": "Title/abstract review. The method identifies and stores command-to-applied-action mappings from image transitions under a frozen world model. Recognition of returning configurations enables adaptation to camera or controller changes. The title uses hand as a name for this action mapping. https://arxiv.org/abs/2611.12678",
+    "related_topics": ["World Models"],
+    "excluded_topics": ["Hand Retargeting", "Whole-body Retargeting", "Dexterous Manipulation"]
+  },
+  "tactile sensors are an effective substitute for wrist cameras in contact rich or occluded manipulation": {
+    "title": "Tactile Sensors Are an Effective Substitute for Wrist Cameras in Contact-Rich or Occluded Manipulation",
+    "path": [
+      "Perception, Representation & State Estimation",
+      "Tactile & Multimodal Perception",
+      "Visuotactile & Proprioceptive Fusion"
+    ],
+    "reason": "Title/abstract review. Two tactile arrays supply contact feedback to a visuotactile ACT policy. Controlled wrist-camera and tactile-availability ablations compare modality contributions while holding demonstrations, architecture and optimization settings fixed. https://arxiv.org/abs/2611.10490",
+    "related_topics": ["Contact-rich"]
   }
 }
