@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="灵巧操作、灵巧手重定向与手物接触专题。按证据分层浏览当前论文库候选，保留会议与预印本来源，单列窗口外基础参考。">
+  <title>灵巧操作：重定向与接触 · Embodied AI</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/styles.css">
+  <link rel="stylesheet" href="assets/dexterity-focus.css">
+  <script src="assets/dexterity-focus.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#focus-results">跳到论文清单</a>
+  <header class="site-header">
+    <div class="shell header-inner df-header">
+      <a class="brand" href="./?lang=zh"><span class="brand-signal" aria-hidden="true"></span><span class="brand-copy"><strong>Embodied AI</strong><small>灵巧操作专题</small></span></a>
+      <div class="header-actions"><a class="df-back" href="./?lang=zh">返回论文库</a><button class="icon-button" id="focus-theme" type="button" aria-label="切换明暗主题" aria-pressed="false">◐</button></div>
+    </div>
+  </header>
+  <main class="shell df-main">
+    <section class="df-intro" aria-labelledby="focus-title">
+      <p class="section-kicker">专题阅读 / Focused reading</p>
+      <h1 id="focus-title">灵巧操作：<br>重定向与接触</h1>
+      <p class="df-lead">从人手示范，到机器人手的接触、力与动作。把重定向、接触控制、交互感知、数据与残差方法放在同一张阅读清单中。</p>
+      <p class="df-boundary">本清单筛选当前库中满足检索条件的候选。<strong>自动匹配不等于人工精读</strong>；会议与预印本来源分别保留，跨主题计数存在交叉。</p>
+      <p id="focus-snapshots" class="df-meta" aria-live="polite">正在读取专题数据…</p>
+      <div class="df-actions"><a href="data/dexterous-retargeting-contact.csv" download>下载完整 CSV ↓</a><a href="data/dexterous-retargeting-contact.json" download>完整 JSON ↓</a><a href="#focus-foundations-title">GRAB 等基础参考 ↓</a><a href="https://github.com/Dld0621/Embodied-AI-Paper-Analysis/tree/main/papers/focus/dexterous-retargeting-contact">GitHub 阅读目录 ↗</a></div>
+      <div id="focus-summary" class="df-summary" aria-label="专题范围"></div>
+    </section>
+    <section class="df-reading" aria-labelledby="focus-list-title">
+      <div class="df-section-title"><h2 id="focus-list-title">找到与当前问题相关的论文</h2><p>先看核查过的重点与强匹配，再展开延伸候选。</p></div>
+      <form id="focus-controls" class="df-controls" role="search">
+        <label class="df-search">搜索标题、方法或分类<input id="focus-search" type="search" autocomplete="off" placeholder="例如 SPIDER、contact、residual"></label>
+        <label>研究问题<select id="focus-group"><option value="all">全部问题</option></select></label>
+        <label>相关性<select id="focus-tier"><option value="direct">重点与强匹配</option><option value="reviewed">已核查重点</option><option value="strong-candidate">自动强匹配</option><option value="broad-candidate">延伸待复核</option><option value="all">全部候选</option></select></label>
+        <label>来源层<select id="focus-source"><option value="all">全部来源</option><option value="conference">含会议来源</option><option value="arxiv">含 arXiv 来源</option></select></label>
+        <button id="focus-reset" type="button">重置</button>
+      </form>
+      <p id="focus-result-status" class="df-result-status" role="status" aria-live="polite">正在载入…</p>
+      <div id="focus-results" class="df-list" aria-label="筛选后的论文清单"></div>
+      <button id="focus-more" class="df-more" type="button" hidden>继续显示</button>
+    </section>
+    <section class="df-foundations" aria-labelledby="focus-foundations-title">
+      <h2 id="focus-foundations-title">窗口外基础参考</h2>
+      <p>用于补齐经典数据与方法，不计入上方当前库候选总数，也不据此改写会议库或 arXiv 窗口。</p>
+      <details><summary id="focus-foundations-summary">展开基础参考</summary><div id="focus-foundations"></div></details>
+    </section>
+    <p class="df-footer">阅读时请核对原文的机器人本体、数据来源、接触信号与实验条件。仿真、实机、物体外力辅助、残差作用位置应分别判断。</p>
+    <noscript><p>当前浏览器未启用脚本。请打开 <a href="https://github.com/Dld0621/Embodied-AI-Paper-Analysis/tree/main/papers/focus/dexterous-retargeting-contact">完整 GitHub 目录</a>，或下载上方 CSV。</p></noscript>
+  </main>
+</body>
+</html>

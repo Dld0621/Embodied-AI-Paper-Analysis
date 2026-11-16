@@ -12,6 +12,7 @@ from pathlib import Path
 from urllib.parse import quote
 from render_taxonomy_views import render_views
 from freshness import build_status, hong_kong_today, render_coverage, stamp_markdown
+from dexterity_focus import build_focus, render_markdown as render_focus_markdown, render_exports as render_focus_exports
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -910,6 +911,7 @@ def render_root_readme(catalog: dict, arxiv: dict, language: str) -> str:
             "| 搜索、筛选、保存与导出论文 | [在线科研工作台](https://dld0621.github.io/Embodied-AI-Paper-Analysis/?lang=zh#research-workbench) |",
             "| 从 9 个方向逐级浏览到最细专题 | [三级研究分类图](papers/taxonomy/README.md) |",
             "| 浏览近五年顶会层 | [顶会论文总览](papers/README.md) |",
+            "| 灵巧操作的重定向、接触与残差文献 | [专题完整目录](papers/focus/dexterous-retargeting-contact/README.md) · [在线筛选](https://dld0621.github.io/Embodied-AI-Paper-Analysis/dexterous-retargeting-contact.html) · [CSV](data/dexterous-retargeting-contact.csv) |",
             "| 跨分类重定向检索、分类依据与待审 | [关联主题](papers/topics/README.md) · [分类说明](docs/taxonomy-guide.md) · [待审清单](papers/classification-review/README.md) |",
             "| 查看实际更新时间与完整性边界 | [更新日期与覆盖报告](docs/coverage-report.md) |",
             "| 使用机器可读数据 | [`papers.json`](data/papers.json) · [`arxiv_recent.json`](data/arxiv_recent.json) |",
@@ -1019,6 +1021,7 @@ def render_root_readme(catalog: dict, arxiv: dict, language: str) -> str:
             "| Search, filter, save, and export papers | [Interactive research workbench](https://dld0621.github.io/Embodied-AI-Paper-Analysis/#research-workbench) |",
             "| Browse from nine directions to the finest specialty | [Three-level taxonomy](papers/taxonomy/README.md) |",
             "| Browse the five-year conference layer | [Conference paper overview](papers/README.md) |",
+            "| Dexterous retargeting, contact, and residual methods | [Complete focused catalog](papers/focus/dexterous-retargeting-contact/README.md) · [Interactive view](https://dld0621.github.io/Embodied-AI-Paper-Analysis/dexterous-retargeting-contact.html) · [CSV](data/dexterous-retargeting-contact.csv) |",
             "| Cross-topic retargeting, evidence and review | [Topic views](papers/topics/README.md) · [Classification guide](docs/taxonomy-guide.md) · [Review queue](papers/classification-review/README.md) |",
             "| Check actual freshness and coverage boundaries | [Freshness and coverage report](docs/coverage-report.md) |",
             "| Use machine-readable data | [`papers.json`](data/papers.json) · [`arxiv_recent.json`](data/arxiv_recent.json) |",
@@ -1120,6 +1123,8 @@ def render_outputs(updated_on: str | None = None) -> dict[Path, str]:
         previous = json.loads(status_path.read_text()) if status_path.exists() else {}
         updated_on = max(catalog["as_of"], arxiv["as_of"], previous.get("documents_updated_on", ""))
     status = build_status(catalog, arxiv, updated_on)
+    curation = json.loads((ROOT / "data" / "dexterity-focus-curation.json").read_text(encoding="utf-8"))
+    focus = build_focus(catalog, arxiv, curation, status)
     outputs = {
         ROOT / "README.md": render_root_readme(catalog, arxiv, "en"),
         ROOT / "README.zh-CN.md": render_root_readme(catalog, arxiv, "zh"),
@@ -1128,6 +1133,7 @@ def render_outputs(updated_on: str | None = None) -> dict[Path, str]:
     }
     outputs.update(render_taxonomy_leaf_outputs(catalog, arxiv))
     outputs.update(render_views(ROOT, catalog, arxiv))
+    outputs.update(render_focus_markdown(focus, ROOT))
     for track in catalog["tracks"]:
         slug = slugify(track)
         outputs[TRACK_DIR / f"{slug}.md"] = render_track(catalog, arxiv, track)
@@ -1161,6 +1167,7 @@ def render_outputs(updated_on: str | None = None) -> dict[Path, str]:
         outputs[path] = path.read_text(encoding="utf-8")
     outputs[ROOT / "docs" / "coverage-report.md"] = render_coverage(status, catalog)
     outputs = {path: stamp_markdown(text, status) for path, text in outputs.items()}
+    outputs.update(render_focus_exports(focus, ROOT))
     outputs[status_path] = json.dumps(status, ensure_ascii=False, indent=2) + "\n"
     index = ROOT / "index.html"
     content = index.read_text(encoding="utf-8")
@@ -1191,7 +1198,7 @@ def main() -> int:
     updated_on = args.updated_on or (None if args.check else hong_kong_today())
     outputs = render_outputs(updated_on)
     stale = [path for path, rendered in outputs.items() if not path.exists() or path.read_text(encoding="utf-8") != rendered]
-    generated_roots = (TAXONOMY_DIR, ARXIV_DIR, TRACK_DIR, PAPERS_DIR / "classification-review", PAPERS_DIR / "topics")
+    generated_roots = (TAXONOMY_DIR, ARXIV_DIR, TRACK_DIR, PAPERS_DIR / "classification-review", PAPERS_DIR / "topics", PAPERS_DIR / "focus" / "dexterous-retargeting-contact")
     expected_generated = {
         path
         for path in outputs
