@@ -1,0 +1,572 @@
+{
+  "checked_on": "2026-11-16",
+  "review_scope": "Targeted primary-source title/abstract review for a prioritized reading index. Not full-paper audit, publisher verification for every venue, experimental reproduction, or global literature completeness.",
+  "curated_in_catalog": [
+    {
+      "arxiv_id": "2503.07541",
+      "title": "Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm",
+      "groups": [
+        "retargeting"
+      ],
+      "why_zh": "用几何原则构造人手指尖到机器人手指尖映射，是运动学重定向基线。",
+      "residual_role": "核对的摘要未明确声明动作残差结构，不能仅由重定向输出推断残差策略。",
+      "boundary_zh": "速度和姿态对应不等于手物动力学、抓取承重或完整任务成功。",
+      "urls": [
+        "https://arxiv.org/abs/2503.07541"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2607.08341",
+      "title": "AnyDexRT: Calibration-Efficient Dexterous Hand Retargeting with Few-Shot Human Guidance",
+      "groups": [
+        "retargeting",
+        "contact-perception"
+      ],
+      "why_zh": "自监督指尖对应、少样本人类引导及接触分类器，适合比较标定与捏合对应。",
+      "residual_role": "未在核对摘要中声明动作残差。",
+      "boundary_zh": "接触分类器改善姿态对应不等于重建真实接触力。",
+      "urls": [
+        "https://arxiv.org/abs/2607.08341"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2505.01083",
+      "title": "DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and Interaction",
+      "groups": [
+        "retargeting",
+        "contact-perception"
+      ],
+      "why_zh": "结合时间一致性与接触图修正人手到机器人手的交互几何。",
+      "residual_role": "未在核对摘要中声明残差策略。",
+      "boundary_zh": "接触图和减少穿透不自动保证动力学可执行。",
+      "urls": [
+        "https://arxiv.org/abs/2505.01083"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2505.24853",
+      "title": "DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation",
+      "groups": [
+        "retargeting",
+        "contact-control"
+      ],
+      "why_zh": "功能重定向通过人类手物示范的物体状态目标学习双手操作策略。",
+      "residual_role": "核心是逐步撤去虚拟物体控制器的课程；不据此称为残差策略学习。",
+      "boundary_zh": "虚拟辅助需区分训练引导和最终执行；不要把模拟基准全部解释为实机验证。",
+      "urls": [
+        "https://arxiv.org/abs/2505.24853"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2511.09484",
+      "title": "SPIDER: Scalable Physics-Informed Dexterous Retargeting",
+      "groups": [
+        "retargeting",
+        "contact-mechanics",
+        "datasets-simulation"
+      ],
+      "why_zh": "采样式物理求解将运动学示范变成动态可行机器人轨迹，可作逐轨迹优化对照。",
+      "residual_role": "非已核实的学习残差策略：核心为物理采样/轨迹搜索。",
+      "boundary_zh": "任务结构、接触引导和模拟成功与独立实物全程执行是不同证据。",
+      "urls": [
+        "https://arxiv.org/abs/2511.09484"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2610.01849",
+      "title": "FlashDexRetarget: Accelerating Dexterous Manipulation Data Generation through Multi-Motion Retargeting",
+      "groups": [
+        "retargeting",
+        "contact-control"
+      ],
+      "why_zh": "把多条人手物参考作为联合跟踪任务，用共享 RL 策略摊薄逐轨迹优化成本。",
+      "residual_role": "未在核对摘要中声明残差策略结构；共享跟踪策略不等于残差策略。",
+      "boundary_zh": "作者报告的成功率受50条动作、手型和计算预算限定，不跨协议直接排名。",
+      "urls": [
+        "https://arxiv.org/abs/2610.01849"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2502.09614",
+      "title": "DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References",
+      "groups": [
+        "retargeting",
+        "contact-control"
+      ],
+      "why_zh": "通过示范数据飞轮、RL/IL 和同伦优化构建可泛化神经跟踪控制器。",
+      "residual_role": "未在核对摘要中明确声明残差结构。",
+      "boundary_zh": "通用跟踪控制与逐轨迹优化示范的关系要分开，不能全称为无优化部署。",
+      "urls": [
+        "https://arxiv.org/abs/2502.09614"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2503.21860",
+      "title": "ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning",
+      "groups": [
+        "retargeting",
+        "contact-control",
+        "residual"
+      ],
+      "why_zh": "先学手运动模仿器，再以交互约束修正动作，适合研究双手接触迁移。",
+      "residual_role": "在预训练模仿器的模拟动作向量上逐元素叠加残差；向量含关节 PD 目标位置和腕部 6 维施力，随后按关节限制裁剪。模拟接触力属于观测、奖励和终止信号，不能当作同一个残差输出；实机接口须另核。",
+      "boundary_zh": "仿真手配置、实机手自由度与真实部署覆盖范围必须分别核对。",
+      "urls": [
+        "https://arxiv.org/abs/2503.21860",
+        "https://arxiv.org/html/2503.21860v1#S3.SS1",
+        "https://arxiv.org/html/2503.21860v1#S3.SS3"
+      ],
+      "review_basis": "title_abstract_and_selected_method_sections; not independent reproduction"
+    },
+    {
+      "arxiv_id": "2608.07045",
+      "title": "C2Dex: Contact-Consistent Reconstruction and Retargeting for Dexterous Manipulation from Monocular Video",
+      "groups": [
+        "retargeting",
+        "contact-perception",
+        "residual"
+      ],
+      "why_zh": "在物体规范空间聚合接触，联合引导 HOI 重建与跨手几何迁移。",
+      "residual_role": "明确残差 RL：在模拟中细化重定向轨迹。",
+      "boundary_zh": "摘要支持残差轨迹细化，未在本次审查中核验精确动作维度、公式或全部复现结果。",
+      "urls": [
+        "https://arxiv.org/abs/2608.07045"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2610.36539",
+      "title": "CARD: Contact-Anchored Retargeting for Dexterous Manipulation",
+      "groups": [
+        "retargeting",
+        "contact-perception",
+        "contact-control"
+      ],
+      "why_zh": "保留接触力目标，将视频/动捕/触觉手套汇成手与接触表示，并用触觉跟踪执行。",
+      "residual_role": "核对摘要强调接触目标和触觉跟踪控制器，未据此认定学习残差策略。",
+      "boundary_zh": "视频接触模型的预测与触觉实测来源要分开；开放环运动参考不等于无反馈触觉控制。",
+      "urls": [
+        "https://arxiv.org/abs/2610.36539"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2609.24093",
+      "title": "Dexterous Robot Manipulation from Human Demonstrations via Contact-Anchored Retargeting and Residual Policy Learning",
+      "groups": [
+        "retargeting",
+        "contact-mechanics",
+        "residual"
+      ],
+      "why_zh": "以指部区域、物体位置和接触时序为转移对象，将人手物记录转换为机器人策略。",
+      "residual_role": "明确两处残差 RL：模拟 MANO 物理细化及机器人重定向后的驱动适配。",
+      "boundary_zh": "共享策略适用设置、四个硬件任务与全部数据量不可混为全量实机成功。",
+      "urls": [
+        "https://arxiv.org/abs/2609.24093"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2607.00033",
+      "title": "Learning Dexterous Manipulation Using Contact Wrench Guidance From Human Demonstration",
+      "groups": [
+        "retargeting",
+        "contact-control",
+        "contact-mechanics"
+      ],
+      "why_zh": "CHORD 用物体中心接触力旋量空间连接人类参考和机器人运动能力。",
+      "residual_role": "核对摘要核心是接触 wrench 引导 RL，未据此称为动作残差。",
+      "boundary_zh": "4739条模拟任务规模与实物验证覆盖范围分开；不能用其缩写误配室内场景生成 CHOrD。",
+      "urls": [
+        "https://arxiv.org/abs/2607.00033"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2408.07855",
+      "title": "Complementarity-Free Multi-Contact Modeling and Optimization for Dexterous Manipulation",
+      "groups": [
+        "contact-mechanics",
+        "contact-control"
+      ],
+      "why_zh": "从接触优化模型对偶导出无互补约束模型，研究多接触预测和接触隐式 MPC。",
+      "residual_role": "不是以学习动作残差为核心。",
+      "boundary_zh": "模型满足库仑摩擦等性质有其推导与设定；不等于任意真实接触均被精确建模。",
+      "urls": [
+        "https://arxiv.org/abs/2408.07855"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2408.09612",
+      "title": "ContactSDF: Signed Distance Functions as Multi-Contact Models for Dexterous Manipulation",
+      "groups": [
+        "contact-mechanics",
+        "contact-control"
+      ],
+      "why_zh": "以碰撞和时间推进两个 SDF 近似多接触动力学，关联可微模型学习与控制。",
+      "residual_role": "不是以学习动作残差为核心。",
+      "boundary_zh": "硬件 Allegro 掌内物体姿态调整结果不等于人手示范跨本体迁移算法。",
+      "urls": [
+        "https://arxiv.org/abs/2408.09612"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2407.11436",
+      "title": "APriCoT: Action Primitives based on Contact-state Transition for In-Hand Tool Manipulation",
+      "groups": [
+        "contact-control"
+      ],
+      "why_zh": "把手内工具动作拆为接触状态转换原语，适合讨论接触建立、释放和重新抓取。",
+      "residual_role": "未在核对摘要中声明残差策略。",
+      "boundary_zh": "重点是工具内操作及接触转换，不是人手到机器人手重定向。",
+      "urls": [
+        "https://arxiv.org/abs/2407.11436"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2409.12339",
+      "title": "A Learning-based Controller for Multi-Contact Grasps on Unknown Objects with a Dexterous Hand",
+      "groups": [
+        "contact-control",
+        "contact-mechanics"
+      ],
+      "why_zh": "由关节力矩估计外部 wrench 并预测平衡所需力矩，保持未知物体多接触抓取。",
+      "residual_role": "不是已核实的残差策略；学习 wrench 估计器和力矩预测器。",
+      "boundary_zh": "动态扰动稳定抓持与完整搬运任务成功不同。",
+      "urls": [
+        "https://arxiv.org/abs/2409.12339"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2503.08222",
+      "title": "Trajectory Optimization for In-Hand Manipulation with Tactile Force Control",
+      "groups": [
+        "contact-control",
+        "contact-mechanics"
+      ],
+      "why_zh": "将触觉状态估计和手指力控制接到手内滚动轨迹优化。",
+      "residual_role": "未在核对摘要中声明残差学习。",
+      "boundary_zh": "接触点、顺应性与力反馈需区分；本研究不是示范重定向方法。",
+      "urls": [
+        "https://arxiv.org/abs/2503.08222"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2407.07885",
+      "title": "Learning In-Hand Translation Using Tactile Skin With Shear and Normal Force Sensing",
+      "groups": [
+        "contact-control",
+        "contact-perception"
+      ],
+      "why_zh": "法向及剪切触觉模型支持滑动接触下的手内平移，适合讨论摩擦与触觉闭环。",
+      "residual_role": "未在核对摘要中声明残差策略。",
+      "boundary_zh": "作者报告零样本 sim-to-real 不等于无模拟训练或无传感标定。",
+      "urls": [
+        "https://arxiv.org/abs/2407.07885"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2401.12496",
+      "title": "DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity",
+      "groups": [
+        "contact-control",
+        "contact-perception"
+      ],
+      "why_zh": "利用触觉进行无视觉多指搜索与操作，可作接触感知策略的对照。",
+      "residual_role": "未在核对摘要中声明残差策略。",
+      "boundary_zh": "有先验信息的无视觉操作不等于任意未知任务的盲操作。",
+      "urls": [
+        "https://arxiv.org/abs/2401.12496"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2409.09140",
+      "title": "ResPilot: Teleoperated Finger Gaiting via Gaussian Process Residual Learning",
+      "groups": [
+        "retargeting",
+        "contact-control",
+        "residual"
+      ],
+      "why_zh": "遥操作 finger gaiting，扩展可达工作空间，并协调指尖以保持物体接触。",
+      "residual_role": "明确 GP 残差：修正/扩展手映射工作空间；不是同一种残差 RL 动作控制器。",
+      "boundary_zh": "不把高斯过程残差学习与神经残差策略混为统一算法。",
+      "urls": [
+        "https://arxiv.org/abs/2409.09140"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2410.02475",
+      "title": "Efficient Residual Learning with Mixture-of-Experts for Universal Dexterous Grasping",
+      "groups": [
+        "contact-control",
+        "residual"
+      ],
+      "why_zh": "ResDex 组合基础抓取策略并学习残差动作，以提升跨物体多任务抓取。",
+      "residual_role": "明确残差动作与混合专家权重。",
+      "boundary_zh": "多物体抓取泛化不等于沿人手参考的时序重定向。",
+      "urls": [
+        "https://arxiv.org/abs/2410.02475"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2401.14858",
+      "title": "RESPRECT: Speeding-up Multi-fingered Grasping with Residual Reinforcement Learning",
+      "groups": [
+        "contact-control",
+        "residual"
+      ],
+      "why_zh": "在预训练 DRL 抓取策略上学习新物体残差，并复用 critic。",
+      "residual_role": "明确预训练策略上的残差策略；关注新物体适配。",
+      "boundary_zh": "不需要任务示范，因此不是示范重定向；模拟和实机结果分开。",
+      "urls": [
+        "https://arxiv.org/abs/2401.14858"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2603.10451",
+      "title": "FAR-Dex: Few-shot Data Augmentation and Adaptive Residual Policy Refinement for Dexterous Manipulation",
+      "groups": [
+        "contact-control",
+        "datasets-simulation",
+        "residual"
+      ],
+      "why_zh": "少量示范经仿真增强，再以自适应残差改善手臂与手协调。",
+      "residual_role": "明确 FAR-DexRes 策略细化模块；结合多步轨迹片段与观测特征。",
+      "boundary_zh": "摘要未给本次可核验的完整残差数学接口；不能从标题推断残差作用在力矩或接触力上。",
+      "urls": [
+        "https://arxiv.org/abs/2603.10451"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2411.19167",
+      "title": "HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos",
+      "groups": [
+        "datasets-simulation",
+        "contact-perception"
+      ],
+      "why_zh": "第一人称多视角手物跟踪数据，可提供几何参考和重建评测输入。",
+      "residual_role": "不适用：数据集。",
+      "boundary_zh": "动捕得到的手物位姿标注不是实测接触力真值。",
+      "urls": [
+        "https://arxiv.org/abs/2411.19167"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2611.17619",
+      "title": "TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real",
+      "groups": [
+        "datasets-simulation",
+        "contact-perception"
+      ],
+      "why_zh": "由实测人手触觉驱动物理重放，生成接触/力标签和增强视频。",
+      "residual_role": "不适用：触觉驱动的数据生成管线，非已验证机器人残差策略。",
+      "boundary_zh": "实测人手触觉、模拟生成力标签与实机机器人策略迁移是三种不同证据。",
+      "urls": [
+        "https://arxiv.org/abs/2611.17619"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2611.15981",
+      "title": "DexRemo: A Force-Sensing Hand Platform and Task Suite for Contact-Rich Removal Manipulation",
+      "groups": [
+        "contact-control",
+        "contact-perception",
+        "datasets-simulation"
+      ],
+      "why_zh": "高力三指平台、统一腕坐标力表达和拆除操作任务集，关联手部力观测与任务接触。",
+      "residual_role": "核对摘要采用 ACT 多模态策略，未据此认定动作残差。",
+      "boundary_zh": "硬件/任务集主贡献；作者声明 T-RO 接收不等于本次独立出版方核验。",
+      "urls": [
+        "https://arxiv.org/abs/2611.15981"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2610.30969",
+      "title": "IORA: Irregular Object Immobilization under Restricted Actuation",
+      "groups": [
+        "contact-control",
+        "contact-mechanics"
+      ],
+      "why_zh": "把支撑面接触与低自由度耦合手约束纳入抓取合成和物体固定。",
+      "residual_role": "未在核对摘要中声明残差策略。",
+      "boundary_zh": "Restricted actuation 是约束，不是执行器设计贡献，也不是示范重定向。",
+      "urls": [
+        "https://arxiv.org/abs/2610.30969"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    },
+    {
+      "arxiv_id": "2404.08844",
+      "title": "ContactDexNet: Multi-fingered Robotic Hand Grasping in Cluttered Environments through Hand-object Contact Semantic Mapping",
+      "groups": [
+        "contact-perception",
+        "contact-control"
+      ],
+      "why_zh": "从物体点云生成接触语义图，再合成和评估杂乱环境中的多指抓取。",
+      "residual_role": "未在核对摘要中声明残差策略。",
+      "boundary_zh": "接触语义图和抓取检测不是接触力真值，也不证明时序任务迁移。",
+      "urls": [
+        "https://arxiv.org/abs/2404.08844"
+      ],
+      "review_basis": "title_and_abstract; selected official GeoRT/FlashDexRetarget/ManipTrans materials where noted; not reproduction"
+    }
+  ],
+  "external_foundations": [
+    {
+      "arxiv_id": "2008.11200",
+      "title": "GRAB: A Dataset of Whole-Body Human Grasping of Objects",
+      "year": 2020,
+      "groups": [
+        "datasets-simulation",
+        "contact-perception"
+      ],
+      "why_zh": "全身动捕拟合的人手与物体网格序列，支持接触/功能示范研究。",
+      "boundary_zh": "网格计算接触不是力传感真值；旧年/cs.CV 基础参考，不计入当前三年 cs.RO 来源层。",
+      "urls": [
+        "https://arxiv.org/abs/2008.11200",
+        "https://grab.is.tue.mpg.de/"
+      ],
+      "review_basis": "official_arxiv_title_and_abstract; official project page where linked; no dataset access or experiments performed"
+    },
+    {
+      "arxiv_id": "2203.15709",
+      "title": "OakInk: A Large-scale Knowledge Repository for Understanding Hand-Object Interaction",
+      "year": 2022,
+      "groups": [
+        "datasets-simulation",
+        "contact-perception"
+      ],
+      "why_zh": "提供物体 affordance 知识及人手交互图像/形状数据，关联抓取与重建。",
+      "boundary_zh": "并非机器人控制示范或力真值；标题不应误配数学论文2203.15715。",
+      "urls": [
+        "https://arxiv.org/abs/2203.15709",
+        "https://oakink.net/"
+      ],
+      "review_basis": "official_arxiv_title_and_abstract; official project page where linked; no dataset access or experiments performed"
+    },
+    {
+      "arxiv_id": "2403.19417",
+      "title": "OAKINK2: A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion",
+      "year": 2024,
+      "groups": [
+        "datasets-simulation",
+        "contact-perception"
+      ],
+      "why_zh": "以 affordance、primitive、complex task 层次组织双手复杂操作及多物体位姿。",
+      "boundary_zh": "人类位姿与任务结构不等于机器人动作/力真值；当前源库未收录，独立补充。",
+      "urls": [
+        "https://arxiv.org/abs/2403.19417",
+        "https://oakink.net/v2/"
+      ],
+      "review_basis": "official_arxiv_title_and_abstract; official project page where linked; no dataset access or experiments performed"
+    },
+    {
+      "arxiv_id": "2104.04631",
+      "title": "DexYCB: A Benchmark for Capturing Hand Grasping of Objects",
+      "year": 2021,
+      "groups": [
+        "datasets-simulation",
+        "contact-perception"
+      ],
+      "why_zh": "手与物体位姿、检测及安全交接抓取的视觉评测数据。",
+      "boundary_zh": "不是完整动作控制或接触力数据集；旧年/cs.CV 独立基础参考。",
+      "urls": [
+        "https://arxiv.org/abs/2104.04631",
+        "https://dex-ycb.github.io/"
+      ],
+      "review_basis": "official_arxiv_title_and_abstract; official project page where linked; no dataset access or experiments performed"
+    },
+    {
+      "arxiv_id": "2104.07267",
+      "title": "ContactOpt: Optimizing Contact to Improve Grasps",
+      "year": 2021,
+      "groups": [
+        "contact-perception"
+      ],
+      "why_zh": "预测期望接触并用可微接触模型优化手姿，可借鉴接触损失设计。",
+      "boundary_zh": "为近似人手软组织，模型允许/鼓励一定网格穿透；不可直接当机器人无穿透或物理可行性保证。",
+      "urls": [
+        "https://arxiv.org/abs/2104.07267"
+      ],
+      "review_basis": "official_arxiv_title_and_abstract; official project page where linked; no dataset access or experiments performed"
+    },
+    {
+      "arxiv_id": "2007.09545",
+      "title": "ContactPose: A Dataset of Grasps with Object Contact and Hand Pose",
+      "year": 2020,
+      "groups": [
+        "datasets-simulation",
+        "contact-perception"
+      ],
+      "why_zh": "将物体接触、手姿、物体姿态与 RGB-D 图像配对，适合接触推断监督。",
+      "boundary_zh": "接触区域标注不是法向/切向接触力真值；静态抓姿样本不等于动态重定向示范。",
+      "urls": [
+        "https://arxiv.org/abs/2007.09545",
+        "https://contactpose.cc.gatech.edu/"
+      ],
+      "review_basis": "official_arxiv_title_and_abstract; official project page where linked; no dataset access or experiments performed"
+    },
+    {
+      "arxiv_id": "2204.13662",
+      "title": "ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation",
+      "year": 2022,
+      "groups": [
+        "datasets-simulation",
+        "contact-perception"
+      ],
+      "why_zh": "同步双手与关节物体网格及动态接触信息，适合复杂双手交互参考。",
+      "boundary_zh": "arXiv 初稿2022、CVPR论文2023；几何接触/交互距离不是实测接触力。",
+      "urls": [
+        "https://arxiv.org/abs/2204.13662",
+        "https://arctic.is.tue.mpg.de/"
+      ],
+      "review_basis": "official_arxiv_title_and_abstract; official project page where linked; no dataset access or experiments performed",
+      "conference_year": 2023
+    },
+    {
+      "arxiv_id": "2401.08399",
+      "title": "TACO: Benchmarking Generalizable Bimanual Tool-ACtion-Object Understanding",
+      "year": 2024,
+      "groups": [
+        "datasets-simulation",
+        "contact-perception"
+      ],
+      "why_zh": "多视角及动捕构成双手、工具和物体组合数据，支持动作、预测与协同抓取评测。",
+      "boundary_zh": "必须按全标题/ID区分同名触觉压缩、SLAM、四旋翼 TACO；不是这些同名记录。",
+      "urls": [
+        "https://arxiv.org/abs/2401.08399",
+        "https://taco2024.github.io/"
+      ],
+      "review_basis": "official_arxiv_title_and_abstract; official project page where linked; no dataset access or experiments performed"
+    }
+  ],
+  "discovery_notes": [
+    {
+      "title": "ReDexT: Learning a Generalizable Residual Policy for Dexterous Retargeting",
+      "url": "https://aim-uofa.github.io/ReDexT/",
+      "in_current_catalog": false,
+      "note_zh": "官方项目页公开共享 IK+状态依赖残差策略；当前目录未找到同名记录及 arXiv ID。本次不混入现有来源计数。若补近期非目录参考，应明示项目页来源、模拟单手设置和每手单独训练边界。"
+    }
+  ]
+}

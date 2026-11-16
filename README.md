@@ -20,6 +20,7 @@
 | Search, filter, save, and export papers | [Interactive research workbench](https://dld0621.github.io/Embodied-AI-Paper-Analysis/#research-workbench) |
 | Browse from nine directions to the finest specialty | [Three-level taxonomy](papers/taxonomy/README.md) |
 | Browse the five-year conference layer | [Conference paper overview](papers/README.md) |
+| Dexterous retargeting, contact, and residual methods | [Complete focused catalog](papers/focus/dexterous-retargeting-contact/README.md) · [Interactive view](https://dld0621.github.io/Embodied-AI-Paper-Analysis/dexterous-retargeting-contact.html) · [CSV](data/dexterous-retargeting-contact.csv) |
 | Cross-topic retargeting, evidence and review | [Topic views](papers/topics/README.md) · [Classification guide](docs/taxonomy-guide.md) · [Review queue](papers/classification-review/README.md) |
 | Check actual freshness and coverage boundaries | [Freshness and coverage report](docs/coverage-report.md) |
 | Use machine-readable data | [`papers.json`](data/papers.json) · [`arxiv_recent.json`](data/arxiv_recent.json) |
