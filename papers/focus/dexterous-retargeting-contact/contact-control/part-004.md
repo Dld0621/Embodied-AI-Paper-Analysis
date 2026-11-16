@@ -1,4 +1,4 @@
-# 接触控制与灵巧任务 · 4
+# 接触、力与阻抗控制 · 4
 
 <!-- catalog-freshness:start -->
 > 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
@@ -8,1008 +8,1009 @@
 
 | 论文 | 年份／优先来源 | 层级 | 关联专题 |
 |---|---|---|---|
-| [TransDex: Pre-training Visuo-Tactile Policy with Point Cloud Reconstruction for Dexterous Manipulation of Transparent Objects](https://arxiv.org/abs/2603.13869) | 2026 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [Transferring Contact, Not Just Motion: Compliant Grasping Across Dexterous Hands](https://arxiv.org/abs/2606.15516) | 2026 · arXiv | 明确元数据候选 | 手部重定向与示教迁移、接触控制与灵巧任务 |
-| [UniDex-ViTac: Learning Unified Visuo-Tactile Dexterous Manipulation Policy from Human Video Data](https://arxiv.org/abs/2609.16504) | 2026 · arXiv | 明确元数据候选 | 手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建、残差方法与执行修正 |
-| [UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_UniDex_A_Robot_Foundation_Suite_for_Universal_Dexterous_Hand_Control_CVPR_2026_paper.pdf) | 2026 · CVPR | 明确元数据候选 | 手部重定向与示教迁移、接触控制与灵巧任务 |
-| [Unified Visual-Tactile-Action Modeling from Human Demonstrations for Dexterous Manipulation](https://arxiv.org/abs/2609.34182) | 2026 · arXiv | 明确元数据候选 | 手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [UVDtact: UV Marker-Embedded Fingertip-Like Vision-Based Tactile Sensor for Shape Reconstruction and Force Estimation](https://doi.org/10.1109/icra57385.2026.11697065) | 2026 · ICRA | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty](https://arxiv.org/abs/2604.25897) | 2026 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [VibeAct: Vibration to Actions for Contact-Rich Reactive Robot Dexterity](https://arxiv.org/abs/2606.27344) | 2026 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建、数据集、仿真与数据生成、接触力学与物理可行性 |
-| [Vibro-Sense: Robust Vibration-based Impulse Response Localization and Trajectory Tracking for Robotic Hands](https://arxiv.org/abs/2601.20555) | 2026 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建、接触力学与物理可行性 |
-| [VICON: Visual-Inertial-Contact based Hand-Object Tracking for Manipulation Datasets](https://arxiv.org/abs/2610.05180) | 2026 · arXiv | 明确元数据候选 | 手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建、数据集、仿真与数据生成 |
-| [ViHaTeleop: A Low-Cost, Lightweight Visual-Haptic Teleoperation System for Dexterous Manipulation Learning](https://arxiv.org/abs/2608.16572) | 2026 · arXiv | 明确元数据候选 | 手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [VisForce: Visual Grounding of Current and Desired Forces for Goal-Conditioned Dexterous Manipulation](https://arxiv.org/abs/2609.25785) | 2026 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、接触力学与物理可行性 |
-| [VisTacAlign: Co-Training Dexterous Policies on Tactile Human and Robot Demonstrations using Visual-Tactile Alignment](https://arxiv.org/abs/2609.30959) | 2026 · arXiv | 明确元数据候选 | 手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建、接触力学与物理可行性 |
-| [VisuoTactile 6D Pose Estimation of an In-Hand Object using Vision and Tactile Sensor Data](https://arxiv.org/abs/2601.01675) | 2026 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [VTAP Gripper: Synergizing Fingertip Sensing and a Visuo-Tactile Active Palm for Dexterous In-Hand Manipulation](https://arxiv.org/abs/2607.15448) | 2026 · arXiv | 明确元数据候选 | 手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [When Does Touch Matter? Charting the Vision-Interaction Gap in Cluttered Dexterous Grasping](https://arxiv.org/abs/2609.24068) | 2026 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建、接触力学与物理可行性 |
-| [Which Taxels, Not How Many: Tactile Sensor Placement for Dexterous Policies](https://arxiv.org/abs/2611.10647) | 2026 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [Why Look at It at All?: Vision-Free Multifingered Blind Grasping Using Uniaxial Fingertip Force Sensing](https://arxiv.org/abs/2602.07326) | 2026 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [WM-Craftnet: World Synesthesia Model for Generalizable and Robust Dexterous In-Hand Manipulation](https://arxiv.org/abs/2609.07002) | 2026 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [Zero-shot Sim2Real Transfer for Magnet-Based Tactile Sensor on Insertion Tasks](https://arxiv.org/pdf/2505.02915) | 2026 · ICRA | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [ZeroDex: Zero-Shot Long-Horizon Dexterous Manipulation via Multi-View 3D-Grounded VLM Reasoning](https://arxiv.org/abs/2606.19340) | 2026 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [A Bionic Robotic Hand Designed with Multiple Grasping Modes and Magnetic-tactile Perception](https://doi.org/10.1109/IROS60139.2025.11246752) | 2025 · IROS | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [A Modularized Design Approach for GelSight Family of Vision-based Tactile Sensors](https://arxiv.org/abs/2504.14739) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [A multi-modal tactile fingertip design for robotic hands to enhance dexterous manipulation](https://arxiv.org/abs/2510.05382) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [A Novel Robot Hand with Hoeckens Linkages and Soft Phalanges for Scooping and Self-Adaptive Grasping in Environmental Constraints](https://arxiv.org/pdf/2510.13535) | 2025 · IROS | 明确元数据候选 | 接触控制与灵巧任务 |
-| [A Tactile-Informed Bi-Level Framework with Complementary Motion-Contact Planning and Tracking for Robust Model-Based In-Hand Manipulation](https://arxiv.org/abs/2505.04978) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [ACE-F: A Cross Embodiment Foldable System with Force Feedback for Dexterous Teleoperation](https://arxiv.org/abs/2511.20887) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [Adaptive Visuo-Tactile Fusion with Predictive Force Attention for Dexterous Manipulation](https://arxiv.org/pdf/2505.13982) | 2025 · IROS | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [Antagonistic Bowden-Cable Actuation of a Lightweight Robotic Hand: Toward Dexterous Manipulation for Payload Constrained Humanoids](https://arxiv.org/abs/2512.24657) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [AVO: Amortized Value Optimization for Contact Mode Switching in Multi-Finger Manipulation](https://arxiv.org/abs/2510.07548) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、接触力学与物理可行性 |
-| [Bio-Skin: A Cost-Effective Thermostatic Tactile Sensor with Multi-Modal Force and Temperature Detection](https://arxiv.org/pdf/2503.07989) | 2025 · IROS | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning](https://arxiv.org/pdf/2407.03162) | 2025 · IROS | 明确元数据候选 | 手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [Canonical Representation and Force-Based Pretraining of 3D Tactile for Dexterous Visuo-Tactile Policy Learning](https://arxiv.org/pdf/2409.17549) | 2025 · ICRA | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [ColaDex: Contact-guided Optimization and VLM-assisted Selection for Task-oriented Dexterous Grasp Generation](https://doi.org/10.1109/IROS60139.2025.11246998) | 2025 · IROS | 明确元数据候选 | 接触控制与灵巧任务 |
-| [Compliant Beaded-String Jamming For Variable Stiffness Anthropomorphic Fingers](https://arxiv.org/abs/2502.04190) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [Contact Map Transfer with Conditional Diffusion Model for Generalizable Dexterous Grasp Generation](https://arxiv.org/abs/2511.01276) | 2025 · NeurIPS | 明确元数据候选 | 接触控制与灵巧任务 |
-| [Contact-based Grasp Control and Inverse Kinematics for a Five-fingered Robotic Hand](https://arxiv.org/abs/2503.19171) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、接触力学与物理可行性 |
-| [CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World](https://arxiv.org/abs/2502.08449) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [D3-ARM: High-Dynamic, Dexterous and Fully Decoupled Cable-Driven Robotic Arm](https://arxiv.org/pdf/2502.12963) | 2025 · ICRA | 明确元数据候选 | 接触控制与灵巧任务 |
-| [D3Grasp: Diverse and Deformable Dexterous Grasping for General Objects](https://arxiv.org/abs/2509.19892) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [Development of a Multi-Fingered Soft Gripper Digital Twin for Machine Learning-based Underactuated Control](https://arxiv.org/abs/2502.15994) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [Development of the Bioinspired Tendon-Driven DexHand 021 with Proprioceptive Compliance Control](https://arxiv.org/abs/2511.03481) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [DexCanvas: Bridging Human Demonstrations and Robot Learning for Dexterous Manipulation](https://arxiv.org/abs/2510.15786) | 2025 · arXiv | 明确元数据候选 | 手部重定向与示教迁移、接触控制与灵巧任务、接触力学与物理可行性 |
-| [DexForce: Extracting Force-informed Actions from Kinesthetic Demonstrations for Dexterous Manipulation](https://arxiv.org/abs/2501.10356) | 2025 · arXiv | 明确元数据候选 | 手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建、接触力学与物理可行性 |
-| [DexFruit: Dexterous Manipulation and Gaussian Splatting Inspection of Fruit](https://arxiv.org/abs/2508.07118) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [DexHandDiff: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation](https://arxiv.org/pdf/2411.18562) | 2025 · CVPR | 明确元数据候选 | 接触控制与灵巧任务 |
-| [DexMan: Learning Bimanual Dexterous Manipulation from Human and Generated Videos](https://arxiv.org/abs/2510.08475) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [DexNDM: Closing the Reality Gap for Dexterous In-Hand Rotation via Joint-Wise Neural Dynamics Model](https://arxiv.org/abs/2510.08556) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy](https://arxiv.org/abs/2504.18829) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation](https://arxiv.org/abs/2509.04441) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration](https://arxiv.org/abs/2509.09671) | 2025 · arXiv | 明确元数据候选 | 手部重定向与示教迁移、接触控制与灵巧任务、残差方法与执行修正 |
-| [Dexterous Contact-Rich Manipulation via the Contact Trust Region](https://arxiv.org/abs/2505.02291) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、接触力学与物理可行性 |
-| [Dexterous Manipulation of Deformable Objects via Pneumatic Gripping: Lifting by One End](https://arxiv.org/abs/2501.05198) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [Dexterous Manipulation through Imitation Learning: A Survey](https://arxiv.org/abs/2504.03515) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、接触力学与物理可行性 |
-| [Dexterous Manipulation Transfer via Progressive Kinematic-Dynamic Alignment](https://arxiv.org/abs/2511.10987) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、残差方法与执行修正 |
-| [Dexterous Robotic Piano Playing at Scale](https://arxiv.org/abs/2511.02504) | 2025 · arXiv | 明确元数据候选 | 手部重定向与示教迁移、接触控制与灵巧任务 |
-| [Dexterous Three-Finger Gripper based on Offset Trimmed Helicoids (OTHs)](https://arxiv.org/abs/2503.00574) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [Dexterous Ungrasping Manipulation in Three Dimensions](https://doi.org/10.1109/ICRA55743.2025.11127227) | 2025 · ICRA | 明确元数据候选 | 接触控制与灵巧任务 |
-| [DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation](https://arxiv.org/abs/2505.21864) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [Diffusing Trajectory Optimization Problems for Recovery During Multi-Finger Manipulation](https://arxiv.org/abs/2510.07030) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [Do Robots Really Need Anthropomorphic Hands? A Comparison of Human and Robotic Hands](https://arxiv.org/abs/2508.05415) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove](https://arxiv.org/abs/2502.07730) | 2025 · arXiv | 明确元数据候选 | 手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [DROP: Dexterous Reorientation via Online Planning](https://arxiv.org/pdf/2409.14562) | 2025 · ICRA | 明确元数据候选 | 接触控制与灵巧任务 |
-| [DTactive: A Vision-Based Tactile Sensor with Active Surface](https://arxiv.org/pdf/2410.08337) | 2025 · IROS | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [Enhancing Regrasping Efficiency Using Prior Grasping Perceptions with Soft Fingertips](https://arxiv.org/abs/2503.11057) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning](https://arxiv.org/pdf/2503.01543) | 2025 · IROS | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [ExoStart: Efficient learning for dexterous manipulation with sensorized exoskeleton demonstrations](https://arxiv.org/abs/2506.11775) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、接触力学与物理可行性 |
-| [FBI: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy](https://arxiv.org/abs/2508.14441) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建、接触力学与物理可行性 |
-| [Focused Blind Switching Manipulation Based on Constrained and Regional Touch States of Multi-Fingered Hand Using Deep Learning](https://arxiv.org/abs/2503.07757) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands](https://arxiv.org/abs/2511.13710) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [G-DexGrasp: Generalizable Dexterous Grasping Synthesis Via Part-Aware Prior Retrieval and Prior-Assisted Generation](https://arxiv.org/abs/2503.19457) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [Geodesic Tracing-Based Kinematic Integration of Rolling and Sliding Contact on Manifold Meshes for Dexterous In-Hand Manipulation](https://arxiv.org/abs/2508.12439) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、接触力学与物理可行性 |
-| [GeoDEx: A Unified Geometric Framework for Tactile Dexterous and Extrinsic Manipulation under Force Uncertainty](https://arxiv.org/abs/2505.00647) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [Glovity: Learning Dexterous Contact-Rich Manipulation via Spatial Wrench Feedback Teleoperation System](https://arxiv.org/abs/2510.09229) | 2025 · arXiv | 明确元数据候选 | 手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2512.01801) | 2025 · arXiv | 明确元数据候选 | 手部重定向与示教迁移、接触控制与灵巧任务 |
-| [Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration](https://arxiv.org/abs/2509.08354) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [Grasp2Grasp: Vision-Based Dexterous Grasp Translation via Schrödinger Bridges](https://arxiv.org/abs/2506.02489) | 2025 · NeurIPS | 明确元数据候选 | 接触控制与灵巧任务、接触力学与物理可行性 |
-| [GraspQP: Differentiable Optimization of Force Closure for Diverse and Robust Dexterous Grasping](https://arxiv.org/abs/2508.15002) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、接触力学与物理可行性 |
-| [Hand-Object Contact Detection using Grasp Quality Metrics](https://arxiv.org/abs/2501.06987) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [Hoecken-D Hand: A Novel Robotic Hand for Linear Parallel Pinching and Self-Adaptive Grasping](https://arxiv.org/abs/2510.13553) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [HOGraspFlow: Taxonomy-Aware Hand-Object Retargeting for Multi-Modal SE(3) Grasp Generation](https://arxiv.org/abs/2509.16871) | 2025 · arXiv | 明确元数据候选 | 手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [Human-Inspired Soft Anthropomorphic Hand System for Neuromorphic Object and Pose Recognition Using Multimodal Signals](https://arxiv.org/abs/2509.02275) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [HumanFT: A Human-Like Fingertip Multimodal Visuo-Tactile Sensor](https://arxiv.org/pdf/2410.10353) | 2025 · ICRA | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [In-Hand Object Pose Estimation via Visual-Tactile Fusion](https://arxiv.org/abs/2506.10787) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [KineDex: Learning Tactile-Informed Visuomotor Policies via Kinesthetic Teaching for Dexterous Manipulation](https://arxiv.org/abs/2505.01974) | 2025 · arXiv | 明确元数据候选 | 手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [KineSoft: Learning Proprioceptive Manipulation Policies with Soft Robot Hands](https://arxiv.org/abs/2503.01078) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [Learning Dexterous Manipulation Skills from Imperfect Simulations](https://arxiv.org/abs/2512.02011) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建、接触力学与物理可行性 |
-| [Lightning Grasp: High Performance Procedural Grasp Synthesis with Contact Fields](https://arxiv.org/abs/2511.07418) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing](https://arxiv.org/abs/2512.20591) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建、接触力学与物理可行性 |
-| [Look-to-Touch: A Vision-Enhanced Proximity and Tactile Sensor for Distance and Geometry Perception in Robotic Manipulation](https://arxiv.org/abs/2504.10280) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [M3D-skin: Multi-material 3D-printed Tactile Sensor with Hierarchical Infill Structures for Pressure Sensing](https://arxiv.org/abs/2510.12419) | 2025 · IROS | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [MAPLE: Encoding Dexterous Robotic Manipulation Priors Learned From Egocentric Videos](https://arxiv.org/abs/2504.06084) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [MILE: A Mechanically Isomorphic Hand Exoskeleton and Visuotactile Robotic Hand for Data Collection in Dexterous Manipulation](https://arxiv.org/abs/2512.00324) | 2025 · arXiv | 明确元数据候选 | 手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建、数据集、仿真与数据生成 |
-| [Model Q-II: An Underactuated Hand with Enhanced Grasping Modes and Primitives for Dexterous Manipulation](https://doi.org/10.1109/ICRA55743.2025.11127291) | 2025 · ICRA | 明确元数据候选 | 接触控制与灵巧任务 |
-| [Multi-Goal Dexterous Hand Manipulation using Probabilistic Model-based Reinforcement Learning](https://arxiv.org/abs/2504.21585) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [Multi-Keypoint Affordance Representation for Functional Dexterous Grasping](https://arxiv.org/abs/2502.20018) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务 |
-| [NeuralTouch: Neural Descriptors for Precise Sim-to-Real Tactile Robot Control](https://arxiv.org/abs/2510.20390) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [Object Pose Estimation through Dexterous Touch](https://arxiv.org/abs/2509.13591) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
-| [OmniDexVLG: Learning Dexterous Grasp Generation from Vision Language Model-Guided Grasp Semantics, Taxonomy and Functional Affordance](https://arxiv.org/abs/2512.03874) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、接触力学与物理可行性 |
-| [OmniVTLA: Vision-Tactile-Language-Action Models with Semantic-Aligned Tactile Sensing](https://arxiv.org/abs/2508.08706) | 2025 · arXiv | 明确元数据候选 | 接触控制与灵巧任务、触觉、接触感知与交互重建 |
+| [EigenDEXplore: Structured Exploration for Dexterous Manipulation with Human Priors](https://arxiv.org/abs/2610.07681) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触规划、优化与 MPC、灵巧操作与手内任务 |
+| [Embodied Task Agents Can Perform Fine Manipulation through Tactile In-Context Learning](https://arxiv.org/abs/2610.27613) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配 |
+| [EmbodyHOI: Embodiment-Aware Generation of Hand-Object Interactions for Humanoid Dexterous Manipulation](https://arxiv.org/abs/2610.27242) | 2026 · arXiv | 明确元数据候选 | 重定向与示教迁移、接触、力与阻抗控制、灵巧操作与手内任务 |
+| [Energy-Based Injury Protection Database: Including Shearing Contact Thresholds for Hand and Finger Using Porcine Surrogates](https://arxiv.org/abs/2602.20362) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、物理人机交互与触觉交互 |
+| [Energy-Efficient Quadruped Locomotion with Compliant Feet](https://arxiv.org/abs/2605.14411) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、足式与全身多接触 |
+| [Enhancing Lightweight Vision Language Models through Group Competitive Learning for Socially Compliant Navigation](https://arxiv.org/abs/2603.11447) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制 |
+| [Ensuring Interaction Safety in Multitask Exoskeleton Control: A Simulation-Trained Variable Impedance Framework](https://arxiv.org/abs/2606.06370) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、数据集、仿真与数据生成、接触力学与物理可行性、物理人机交互与触觉交互 |
+| [EquiDexFlow: Contact-Grounded SE(3)-Equivariant Dexterous Grasp Generative Flows](https://arxiv.org/abs/2606.12728) | 2026 · arXiv | 明确元数据候选 | 重定向与示教迁移、接触、力与阻抗控制、接触力学与物理可行性、灵巧操作与手内任务 |
+| [Equivariant Visual-Tactile Diffusion Policy for Contact-Rich Manipulation](https://arxiv.org/abs/2610.03333) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建 |
+| [ETac: A Lightweight and Efficient Tactile Simulation Framework for Learning Dexterous Manipulation](https://arxiv.org/pdf/2604.20295) | 2026 · ICRA | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、数据集、仿真与数据生成、接触力学与物理可行性、机械臂接触操作与装配、灵巧操作与手内任务 |
+| [Evaluating Lightweight Contact Feedback in Dual-Operator Collaborative Humanoid Teleoperation](https://arxiv.org/abs/2610.24257) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制 |
+| [Evaluating Tactile Foundation Models for End-to-End Imitation Learning in Contact-Rich Manipulation](https://arxiv.org/abs/2611.00957) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配 |
+| [Event-Conditioned Diagnostics of Kinematic, Contact, and Object-Permanence Structure in Passive Object-State World Models](https://arxiv.org/abs/2606.28455) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制 |
+| [Exp-Force: Experience-Conditioned Pre-Grasp Force Selection with Vision-Language Models](https://arxiv.org/abs/2603.08668) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配 |
+| [Exploring LLM Capabilities for Situational Understanding and COLREG compliance on real-world maritime navigation scenarios](https://arxiv.org/abs/2608.08281) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制 |
+| [Exploring Proximity and Tactile Sensing for Robotic Manipulation](https://arxiv.org/abs/2611.03489) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配、灵巧操作与手内任务 |
+| [FA-RDP: A Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation](https://arxiv.org/abs/2607.28596) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制 |
+| [Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation](https://arxiv.org/abs/2609.01596) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、机械臂接触操作与装配 |
+| [Factorized Tactile Representation and Control for Sim-to-Real Manipulation](https://arxiv.org/abs/2610.10510) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配 |
+| [FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning](https://arxiv.org/abs/2606.12406) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制 |
+| [False Feasibility in Variable Impedance MPC for Legged Locomotion](https://arxiv.org/abs/2604.22251) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触规划、优化与 MPC、足式与全身多接触 |
+| [Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning](https://arxiv.org/abs/2610.28470) | 2026 · arXiv | 明确元数据候选 | 重定向与示教迁移、接触、力与阻抗控制、接触规划、优化与 MPC |
+| [FasTac: A Curved Multispectral Vision-Based Tactile Sensor for High-Speed High-Precision 3D Shape and Force Perception](https://arxiv.org/abs/2607.28416) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、灵巧操作与手内任务 |
+| [FastGrasp: Learning-based Whole-Body Control Method for Fast Dexterous Grasping with Mobile Manipulators](https://arxiv.org/abs/2604.12879) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配、足式与全身多接触、灵巧操作与手内任务 |
+| [FAVLA: A Force-Adaptive Fast-Slow VLA model for Contact-Rich Robotic Manipulation](https://arxiv.org/abs/2602.23648) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触力学与物理可行性、接触规划、优化与 MPC |
+| [FAWAM: Force-Aware World Action Models for Closed-Loop Contact-Rich Manipulation](https://arxiv.org/abs/2606.08555) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、残差方法与执行修正、机械臂接触操作与装配 |
+| [FD-VLA: Force-Distilled Vision-Language-Action Model for Contact-Rich Manipulation](https://arxiv.org/pdf/2602.02142) | 2026 · ICRA | 明确元数据候选 | 接触、力与阻抗控制、灵巧操作与手内任务 |
+| [Feasibility of Embedded Photoplethysmography Sensing in Short-Duration Tactile Interactions With Pocket-Sized Robots Using IMU- and Confidence-Based Filtering](https://arxiv.org/abs/2608.04242) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建 |
+| [Feel Robot Feels: Tactile Feedback Array Glove for Dexterous Manipulation](https://arxiv.org/abs/2603.28542) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、灵巧操作与手内任务 |
+| [Feeling the Unexpected: ResTacVLA for Contact-Rich Manipulation via Residual Tactile Representation](https://arxiv.org/abs/2607.03387) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建 |
+| [Feeling Through the Load: Compliant Quadruped Locomotion under Payload Interactions](https://arxiv.org/abs/2610.08637) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、足式与全身多接触 |
+| [FeelWorld: Visuo-Tactile World Model for Hierarchical Contact Prediction and Planning](https://arxiv.org/abs/2607.24267) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配、接触规划、优化与 MPC |
+| [FELT: Generating Tactile Signals from Vision for Visuo-Tactile Manipulation](https://arxiv.org/abs/2607.20683) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配 |
+| [FEM-Validated Real-Time Modelling of Soft Tactile Deformation](https://arxiv.org/abs/2610.16667) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建 |
+| [FG-CLTP: Fine-Grained Contrastive Language Tactile Pretraining for Robotic Manipulation](https://arxiv.org/abs/2603.10871) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配 |
+| [FingerEye: Learning Dexterous Manipulation with Continuous Vision-Tactile Sensing](https://arxiv.org/abs/2604.20689) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、接触力学与物理可行性、灵巧操作与手内任务 |
+| [FingerViP: Learning Real-World Dexterous Manipulation with Fingertip Visual Perception](https://arxiv.org/abs/2604.21331) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、足式与全身多接触、灵巧操作与手内任务 |
+| [FINGR: Learning Dexterous Hand Control for Real-World Rubik's Cube Solving](https://arxiv.org/abs/2609.33973) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触力学与物理可行性、灵巧操作与手内任务 |
+| [FIRMGrasp: A Friction-Informed Risk Margin for Robust Grasp Synthesis](https://arxiv.org/abs/2607.25049) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配、灵巧操作与手内任务 |
+| [FlashNeRD: Performance-First Contact-Rich Neural Robot Dynamics](https://arxiv.org/abs/2610.09130) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触规划、优化与 MPC、足式与全身多接触 |
+| [Flexible Piezoelectric Tactile Sensing System for Intelligent Object Recognition](https://arxiv.org/abs/2611.07779) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建 |
+| [FlexiTac: A Low-Cost, Open-Source, Scalable Tactile Sensing Solution for Robotic Systems](https://arxiv.org/abs/2604.28156) | 2026 · arXiv | 明确元数据候选 | 重定向与示教迁移、接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配 |
+| [FlexWorm: Primitive-augmented Hybrid Contact-motion Planning for Suction-based Multi-segment Deformable Robots](https://arxiv.org/abs/2608.16853) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触规划、优化与 MPC |
+| [FLOAT Drone for Physical Interaction: Lateral Airflow Reduction, Wrench Modeling, and Adaptive Control](https://arxiv.org/abs/2607.04260) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触力学与物理可行性 |
+| [Floor Friction Assessment from Robot Tire-Surface Interaction](https://arxiv.org/abs/2610.33735) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制 |
+| [Flow Before Imitation: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy](https://doi.org/10.1109/icra57385.2026.11696089) | 2026 · ICRA | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、接触力学与物理可行性、灵巧操作与手内任务 |
+| [FlowHOI: Flow-based Semantics-Grounded Generation of Hand-Object Interactions for Dexterous Robot Manipulation](https://arxiv.org/abs/2602.13444) | 2026 · arXiv | 明确元数据候选 | 重定向与示教迁移、接触、力与阻抗控制、灵巧操作与手内任务 |
+| [FlowTouch: View-Invariant Visuo-Tactile Prediction](https://arxiv.org/abs/2603.08255) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、接触规划、优化与 MPC |
+| [FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation](https://arxiv.org/abs/2607.18231) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、机械臂接触操作与装配 |
+| [FoLD: Force-Informed Learning for Dexterous Articulated Object Manipulation](https://arxiv.org/abs/2609.33551) | 2026 · arXiv | 明确元数据候选 | 重定向与示教迁移、接触、力与阻抗控制、接触力学与物理可行性、残差方法与执行修正、灵巧操作与手内任务 |
+| [FOMI: A Force-Feedback Manipulation Interface for Teaching Contact-Rich Manipulation](https://arxiv.org/abs/2610.19839) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、机械臂接触操作与装配 |
+| [FORCA: A Force-Aware Coding Agent for Contact-Rich Robot Manipulation](https://arxiv.org/abs/2610.31841) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、机械臂接触操作与装配 |
+| [Force Policy: Learning Hybrid Force-Position Control Policy under Interaction Frame for Contact-Rich Manipulation](https://arxiv.org/abs/2602.22088) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配 |
+| [Force-Aware Residual DAgger via Trajectory Editing for Precision Insertion with Impedance Control](https://arxiv.org/abs/2603.04038) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触力学与物理可行性、残差方法与执行修正、机械臂接触操作与装配 |
+| [Force-Closure Condition for Cooperative Multi-robot Pushing of Rectangular Objects](https://arxiv.org/abs/2611.13268) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配 |
+| [Force-Modulated Dexterity: Unified Compliance for Contact-Rich Manipulation](https://arxiv.org/abs/2610.17161) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配、灵巧操作与手内任务 |
+| [Force/Torque-Based Kinematic Adaptation for Robotic Manipulation Tasks](https://arxiv.org/abs/2608.21592) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、机械臂接触操作与装配、灵巧操作与手内任务 |
+| [ForceDelta-VLA: Distilling Force-Conditioned Action Corrections for Contact-Rich Manipulation](https://arxiv.org/abs/2609.18242) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触力学与物理可行性 |
+| [ForceFlow: Learning to Feel and Act via Contact-Driven Flow Matching](https://arxiv.org/abs/2605.11048) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触力学与物理可行性、物理人机交互与触觉交互 |
+| [ForceLDM: A Force-aware Latent Dynamics Model for Contact-Rich Manipulation](https://arxiv.org/abs/2611.03294) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建 |
+| [ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation](https://arxiv.org/abs/2603.15169) | 2026 · CVPR | 明确元数据候选 | 接触、力与阻抗控制、机械臂接触操作与装配 |
+| [ForceWAM: Decoupling Future and Response Learning from Demo and Play Data for Contact-Rich Manipulation](https://arxiv.org/abs/2610.18852) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配 |
+| [ForeTac-VLA: A Forecasting-Based Tactile-Vision-Language-Action Model for Contact-Rich Robotic Manipulation](https://arxiv.org/abs/2609.20980) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建 |
+| [ForeTac: Predictive Contact Guidance for Generative Robot Policies](https://arxiv.org/abs/2610.18118) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配 |
+| [FORGE-plus: Force-Budgeted Recovery for Contact-Rich Assembly with a Frozen LLM Supervisor](https://arxiv.org/abs/2607.21227) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、机械臂接触操作与装配 |
+| [FP2: Equipping Robotic Foundation Models with Force Control](https://arxiv.org/abs/2609.37433) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制 |
+| [FR-VLA: Implicit Force Reasoning VLA for Contact-Rich Manipulation](https://arxiv.org/abs/2610.25981) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制 |
+| [FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation](https://arxiv.org/pdf/2506.01941) | 2026 · ICRA | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、数据集、仿真与数据生成、机械臂接触操作与装配 |
+| [Frequency-aware decomposition learning for sensorless wrench estimation in vibration-rich robotic contact](https://arxiv.org/abs/2604.12905) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配 |
+| [From a Single Demonstration to a General Policy for Contact-Rich Manipulation](https://arxiv.org/abs/2605.17601) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配 |
+| [From a Single RGB Image to Robot Execution: Metric Scene Alignment and Contact-Guided Retargeting](https://arxiv.org/abs/2611.14981) | 2026 · arXiv | 明确元数据候选 | 重定向与示教迁移、接触、力与阻抗控制 |
+| [From Folding Mechanics to Robotic Function: A Unified Modeling Framework for Compliant Origami](https://arxiv.org/abs/2603.14900) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制 |
+| [From Grasps to Dexterity: Large-Scale Grasp Pretraining for Dexterous Manipulation](https://arxiv.org/abs/2606.30749) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、机械臂接触操作与装配、灵巧操作与手内任务 |
+| [From Reach to Insert: Tactile-Augmented Precision Assembly under Sub-Millimeter Tolerances](https://arxiv.org/abs/2605.04649) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、接触力学与物理可行性、机械臂接触操作与装配 |
+| [From Wearable Interfaces to Dexterous Policies: Contact Shifts and Tactile Representations](https://arxiv.org/abs/2610.08870) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配、物理人机交互与触觉交互、灵巧操作与手内任务 |
+| [FSAG: Enhancing Human-to-Dexterous-Hand Finger-Specific Affordance Grounding via Diffusion Models](https://arxiv.org/abs/2601.08246) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触力学与物理可行性、灵巧操作与手内任务 |
+| [FTP-1: A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation](https://arxiv.org/abs/2606.13102) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建 |
+| [Function-based Parametric Co-Design Optimization of Dexterous Hands](https://arxiv.org/abs/2604.27557) | 2026 · arXiv | 明确元数据候选 | 重定向与示教迁移、接触、力与阻抗控制、灵巧操作与手内任务 |
+| [Functional Force-Aware Retargeting from Virtual Human Demos to Soft Robot Policies](https://arxiv.org/abs/2604.01224) | 2026 · arXiv | 明确元数据候选 | 重定向与示教迁移、接触、力与阻抗控制、接触力学与物理可行性、灵巧操作与手内任务 |
+| [FWBC-VLA: Force-Aware Whole-Body Compensation for Contact-Rich Loco-Manipulation](https://arxiv.org/abs/2609.03889) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、机械臂接触操作与装配、足式与全身多接触 |
+| [GelNeuro: A Sensing-Computing Integrated Neuromorphic Tactile System for Texture Recognition](https://arxiv.org/abs/2607.05241) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建 |
+| [GelSphere: An Omnidirectional Rolling Vision-Based Tactile Sensor for Online 3D Reconstruction and Normal Force Estimation](https://arxiv.org/abs/2603.14104) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建 |
+| [Gen2Dex: Learning Dexterous Manipulation from Simulation-Initialized Generated Video Demonstrations](https://arxiv.org/abs/2610.24392) | 2026 · arXiv | 明确元数据候选 | 重定向与示教迁移、接触、力与阻抗控制、数据集、仿真与数据生成、残差方法与执行修正、灵巧操作与手内任务 |
+| [Generalizable Friction Coefficient Estimation via Material Embedding and Proxy Interaction Modeling](https://arxiv.org/abs/2604.24188) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制 |
+| [Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation](https://arxiv.org/abs/2610.12440) | 2026 · arXiv | 明确元数据候选 | 重定向与示教迁移、接触、力与阻抗控制、接触力学与物理可行性、接触规划、优化与 MPC、灵巧操作与手内任务 |
+| [GenerativeMPC: VLM-RAG-guided Whole-Body MPC with Virtual Impedance for Bimanual Mobile Manipulation](https://arxiv.org/abs/2604.19522) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、机械臂接触操作与装配、接触规划、优化与 MPC、足式与全身多接触、物理人机交互与触觉交互 |
+| [GenHOI: Contact-Aware Humanoid-Object Interaction by Imitating Generated Videos without Task-Specific Training](https://arxiv.org/abs/2606.12995) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制 |
+| [Geometric Reconstruction of Extrinsic Contact Trajectories using Tactile Sensing and Proprioception for Tool Manipulation](https://arxiv.org/abs/2606.22251) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、接触力学与物理可行性、机械臂接触操作与装配 |
+| [GeoTLM: Geometry-aware Tactile-Language Models for Contact Motion Orientation Reasoning of Dynamic Objects](https://arxiv.org/abs/2606.15909) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建 |
+| [GeoTrussRover: Morphological Computation with Contact-Semantic Control Primitives](https://arxiv.org/abs/2609.11361) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触规划、优化与 MPC、足式与全身多接触 |
+| [GhostTac: Manipulating Tactile Sensors without Physical Contact](https://arxiv.org/abs/2608.20817) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、接触力学与物理可行性、灵巧操作与手内任务 |
+| [GIFT: Glove-Inferred Force Transfer: Force-Aware Human-to-Robot Skill Transfer from a Wearable Sensing Glove to a Robot Hand Without Tactile Sensors](https://arxiv.org/abs/2609.14173) | 2026 · arXiv | 明确元数据候选 | 重定向与示教迁移、接触、力与阻抗控制、触觉、接触感知与交互重建、灵巧操作与手内任务 |
+| [Global Sampling-Based Trajectory Optimization for Contact-Rich Manipulation via KernelSOS](https://arxiv.org/abs/2604.27175) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配、接触规划、优化与 MPC、灵巧操作与手内任务 |
+| [GLoTouch: Global-to-Local Haptic Perception Using a Parallel Gripper for Object Search, Recognition, and Grasping Without External Vision](https://arxiv.org/abs/2609.27695) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配 |
+| [GlowTact: Simple and Compact Vision-Based Tactile Sensing with High Sensitivity and Spatial Resolution](https://arxiv.org/abs/2609.32471) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建 |
+| [GOAG: Generative and Object-Agnostic Grasp Planner for Dexterous Robotic Manipulation](https://arxiv.org/abs/2608.19759) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、机械臂接触操作与装配、接触规划、优化与 MPC、灵巧操作与手内任务 |
+| [GOTT: Object-centric Dexterous Manipulation with a Reusable Cross-Embodiment Primitive](https://arxiv.org/abs/2610.03861) | 2026 · arXiv | 明确元数据候选 | 重定向与示教迁移、接触、力与阻抗控制、接触规划、优化与 MPC、灵巧操作与手内任务 |
+| [GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation](https://arxiv.org/abs/2610.26846) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配 |
+| [GPT-6-Astra Understands Touch and Outperform Vision--Tactile--Language--Action Models](https://arxiv.org/abs/2610.28457) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建 |
+| [GPU-Accelerated Continuous-Time Successive Convexification for Contact-Implicit Legged Locomotion](https://arxiv.org/abs/2604.09993) | 2026 · arXiv | 明确元数据候选 | 接触、力与阻抗控制、接触规划、优化与 MPC、足式与全身多接触 |
 
 ## 逐条纳入证据
 
-### TransDex: Pre-training Visuo-Tactile Policy with Point Cloud Reconstruction for Dexterous Manipulation of Transparent Objects
+### EigenDEXplore: Structured Exploration for Dexterous Manipulation with Human Priors
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2603.13869)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触规划、优化与 MPC、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.07681)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, tactile；abstract: dexterous, tactile。
+- 元数据命中：title: dexterous；abstract: dexterous, in hand reorientation, human hand, contact, trajectory optimization。
 
-### Transferring Contact, Not Just Motion: Compliant Grasping Across Dexterous Hands
+### Embodied Task Agents Can Perform Fine Manipulation through Tactile In-Context Learning
 
-- 阅读层级：**明确元数据候选**；分组：手部重定向与示教迁移、接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.15516)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.27613)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, contact, compliant；abstract: dexterous, fingertip, retargeted, contact, contacts, slip, compliant。
+- 元数据命中：title: tactile；abstract: contact, tactile。
 
-### UniDex-ViTac: Learning Unified Visuo-Tactile Dexterous Manipulation Policy from Human Video Data
+### EmbodyHOI: Embodiment-Aware Generation of Hand-Object Interactions for Humanoid Dexterous Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建、残差方法与执行修正。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.16504)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：重定向与示教迁移、接触、力与阻抗控制、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.27242)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。 灵巧任务未明确多指机器人手本体；不能将一般灵巧操作等同于手内或多指手实验。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: dexterous, hand object；abstract: dexterous, human hand, hand object, retargeting, retargeted, contact, simulation。
+
+### Energy-Based Injury Protection Database: Including Shearing Contact Thresholds for Hand and Finger Using Porcine Surrogates
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、物理人机交互与触觉交互。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2602.20362)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 残差作用位置：action/control phrase; locus needs source review。
-- 元数据命中：title: dexterous, tactile；abstract: dexterous, fingertip, human demonstrations, human references, contact, tactile, residual reinforcement learning, simulation。
+- 元数据命中：title: contact；abstract: contact, contacts, dataset, datasets, human robot interaction。
 
-### UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos
+### Energy-Efficient Quadruped Locomotion with Compliant Feet
 
-- 阅读层级：**明确元数据候选**；分组：手部重定向与示教迁移、接触控制与灵巧任务。
-- 来源记录：[CVPR / conference](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_UniDex_A_Robot_Foundation_Suite_for_Universal_Dexterous_Hand_Control_CVPR_2026_paper.html) · [arXiv / arxiv](https://arxiv.org/abs/2603.22264)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2605.14411)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: compliant, quadruped, locomotion；abstract: contact, compliance, compliant, simulation, forces, quadruped, locomotion, walking。
+
+### Enhancing Lightweight Vision Language Models through Group Competitive Learning for Socially Compliant Navigation
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2603.11447)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, human hand, human hands, hand object, fingertip, retargeting, contacts, dataset, datasets。
+- 元数据命中：title: compliant；abstract: compliant, benchmarks。
 
-### Unified Visual-Tactile-Action Modeling from Human Demonstrations for Dexterous Manipulation
+### Ensuring Interaction Safety in Multitask Exoskeleton Control: A Simulation-Trained Variable Impedance Framework
 
-- 阅读层级：**明确元数据候选**；分组：手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.34182)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, human demonstrations, tactile；abstract: dexterous, human demonstrations, contact, tactile, dataset, motion capture。
-
-### UVDtact: UV Marker-Embedded Fingertip-Like Vision-Based Tactile Sensor for Shape Reconstruction and Force Estimation
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[ICRA / conference](https://doi.org/10.1109/ICRA57385.2026.11697065)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: fingertip, tactile, force estimation, tactile sensor；abstract: dexterous, fingertip, contact, tactile, force estimation, tactile sensor, tactile sensors。
-
-### Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2604.25897)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: multifingered, contact, tactile, dataset, simulation。
-
-### VibeAct: Vibration to Actions for Contact-Rich Reactive Robot Dexterity
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建、数据集、仿真与数据生成、接触力学与物理可行性。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.27344)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: contact；abstract: dexterous, robot hand, robot hands, fingertip, contact, tactile, slip, contact dynamics, simulation。
-
-### Vibro-Sense: Robust Vibration-based Impulse Response Localization and Trajectory Tracking for Robotic Hands
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建、接触力学与物理可行性。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2601.20555)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: robotic hands；abstract: robotic hand, contact, friction, tactile, contact dynamics, datasets, contact perception。
-
-### VICON: Visual-Inertial-Contact based Hand-Object Tracking for Manipulation Datasets
-
-- 阅读层级：**明确元数据候选**；分组：手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建、数据集、仿真与数据生成。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.05180)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、数据集、仿真与数据生成、接触力学与物理可行性、物理人机交互与触觉交互。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.06370)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 数据、仿真或评测支撑不等于已完成机器人重定向或控制。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: hand object, contact, datasets；abstract: dexterous, hand object, human demonstration, contact, dataset, datasets, motion capture, contact sensing, glove。
+- 元数据命中：title: impedance, simulation, exoskeleton；abstract: impedance, impedance control, dataset, data generation, simulation, torques, exoskeleton。
 
-### ViHaTeleop: A Low-Cost, Lightweight Visual-Haptic Teleoperation System for Dexterous Manipulation Learning
+### EquiDexFlow: Contact-Grounded SE(3)-Equivariant Dexterous Grasp Generative Flows
 
-- 阅读层级：**明确元数据候选**；分组：手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2608.16572)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：重定向与示教迁移、接触、力与阻抗控制、接触力学与物理可行性、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.12728)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, haptic；abstract: dexterous, leap hand, retargeting, contact, tactile, haptic, simulation。
+- 元数据命中：title: dexterous, contact；abstract: dexterous, fingertip, allegro hand, leap hand, retarget, retargeted, contact, contacts, friction, force closure, wrench, compliance, contact forces, friction cone, force, forces。
 
-### VisForce: Visual Grounding of Current and Desired Forces for Goal-Conditioned Dexterous Manipulation
+### Equivariant Visual-Tactile Diffusion Policy for Contact-Rich Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、接触力学与物理可行性。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.25785)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.03333)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, fingertip, contact, slip, contact forces。
+- 元数据命中：title: contact, tactile；abstract: contact, tactile, simulation。
 
-### VisTacAlign: Co-Training Dexterous Policies on Tactile Human and Robot Demonstrations using Visual-Tactile Alignment
+### ETac: A Lightweight and Efficient Tactile Simulation Framework for Learning Dexterous Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建、接触力学与物理可行性。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.30959)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、数据集、仿真与数据生成、接触力学与物理可行性、机械臂接触操作与装配、灵巧操作与手内任务。
+- 来源记录：[ICRA / conference](https://doi.org/10.1109/ICRA57385.2026.11696765) · [arXiv / arxiv](https://arxiv.org/abs/2604.20295)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧任务未明确多指机器人手本体；不能将一般灵巧操作等同于手内或多指手实验。 数据、仿真或评测支撑不等于已完成机器人重定向或控制。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: dexterous, tactile, simulation, simulation framework；abstract: dexterous, contact, tactile, contact dynamics, simulation, simulation framework, tactile sensors, contact perception, manipulators。
+
+### Evaluating Lightweight Contact Feedback in Dual-Operator Collaborative Humanoid Teleoperation
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.24257)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: contact；abstract: fingertip, contact。
+
+### Evaluating Tactile Foundation Models for End-to-End Imitation Learning in Contact-Rich Manipulation
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2611.00957)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, tactile；abstract: dexterous, robot hand, human hand, fingertip, retargeted, human demonstrations, tactile, finger force, glove。
+- 元数据命中：title: contact, tactile；abstract: contact, tactile, datasets, simulation。
 
-### VisuoTactile 6D Pose Estimation of an In-Hand Object using Vision and Tactile Sensor Data
+### Event-Conditioned Diagnostics of Kinematic, Contact, and Object-Permanence Structure in Passive Object-State World Models
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2601.01675)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.28455)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: hand object, tactile, tactile sensor；abstract: hand object, fingertips, contact, tactile, dataset, tactile sensor, tactile sensors。
+- 元数据命中：title: contact；abstract: contact, dataset。
 
-### VTAP Gripper: Synergizing Fingertip Sensing and a Visuo-Tactile Active Palm for Dexterous In-Hand Manipulation
+### Exp-Force: Experience-Conditioned Pre-Grasp Force Selection with Vision-Language Models
 
-- 阅读层级：**明确元数据候选**；分组：手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2607.15448)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2603.08668)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, in hand manipulation, fingertip, tactile；abstract: dexterous, human hand, retargeting, contact, tactile, compliant, data collection。
+- 元数据命中：title: grasp force, force；abstract: contact, grasp force, compliant, contact mechanics, force, grippers。
 
-### When Does Touch Matter? Charting the Vision-Interaction Gap in Cluttered Dexterous Grasping
+### Exploring LLM Capabilities for Situational Understanding and COLREG compliance on real-world maritime navigation scenarios
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建、接触力学与物理可行性。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.24068)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2608.08281)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, fingertip, leap hand, contact, contacts, tactile, wrench, compliant, compliant control, benchmark。
+- 元数据命中：title: compliance；abstract: dataset。
 
-### Which Taxels, Not How Many: Tactile Sensor Placement for Dexterous Policies
+### Exploring Proximity and Tactile Sensing for Robotic Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2611.10647)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2611.03489)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: tactile；abstract: robot hands, contact, tactile, touch sensing, tactile sensor, gripper, parallel jaw, insertion。
+
+### FA-RDP: A Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2607.28596)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, tactile, tactile sensor；abstract: dexterous, robot hands, contact, tactile, simulation。
+- 元数据命中：title: contact；abstract: contact, force feedback, force。
 
-### Why Look at It at All?: Vision-Free Multifingered Blind Grasping Using Uniaxial Fingertip Force Sensing
+### Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2602.07326)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.01596)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: multifingered, fingertip；abstract: multifingered, fingertip, tactile, simulation, tactile sensors。
+- 元数据命中：title: contact；abstract: contact, wrench, compliant, force, assembly。
 
-### WM-Craftnet: World Synesthesia Model for Generalizable and Robust Dexterous In-Hand Manipulation
+### Factorized Tactile Representation and Control for Sim-to-Real Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.07002)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.10510)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, in hand manipulation；abstract: dexterous, in hand manipulation, in hand rotation, contact, tactile, slip。
+- 元数据命中：title: tactile；abstract: contact, tactile, force tracking, simulation, force, insertion。
 
-### Zero-shot Sim2Real Transfer for Magnet-Based Tactile Sensor on Insertion Tasks
+### FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[ICRA / conference](https://doi.org/10.1109/ICRA57385.2026.11696106) · [arXiv / arxiv](https://arxiv.org/abs/2505.02915)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.12406)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: tactile, tactile sensor；abstract: dexterous, in hand manipulation, contact, tactile, simulation, tactile sensors。
+- 元数据命中：title: force sensing, force；abstract: contact, force feedback, force, torque, torques。
 
-### ZeroDex: Zero-Shot Long-Horizon Dexterous Manipulation via Multi-View 3D-Grounded VLM Reasoning
+### False Feasibility in Variable Impedance MPC for Legged Locomotion
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.19340)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触规划、优化与 MPC、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2604.22251)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: impedance, mpc, legged, locomotion；abstract: friction, impedance, model predictive control, mpc。
+
+### Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning
+
+- 阅读层级：**明确元数据候选**；分组：重定向与示教迁移、接触、力与阻抗控制、接触规划、优化与 MPC。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.28470)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: retargeting；abstract: retargeting, retargeted, contact, datasets, motion capture, trajectory optimization, contact implicit。
+
+### FasTac: A Curved Multispectral Vision-Based Tactile Sensor for High-Speed High-Precision 3D Shape and Force Perception
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2607.28416)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。 灵巧任务未明确多指机器人手本体；不能将一般灵巧操作等同于手内或多指手实验。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: tactile, tactile sensor, force；abstract: dexterous, fingertips, contact, tactile, force feedback, force estimation, contact sensing, tactile sensor, tactile sensors, force, forces。
+
+### FastGrasp: Learning-based Whole-Body Control Method for Fast Dexterous Grasping with Mobile Manipulators
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配、足式与全身多接触、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2604.12879)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: dexterous, manipulators, whole body；abstract: dexterous, contact, tactile, simulation, whole body。
+
+### FAVLA: A Force-Adaptive Fast-Slow VLA model for Contact-Rich Robotic Manipulation
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触力学与物理可行性、接触规划、优化与 MPC。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2602.23648)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, contact。
+- 元数据命中：title: contact, force；abstract: contact, slip, force torque, contact force, force, torque, planning。
 
-### A Bionic Robotic Hand Designed with Multiple Grasping Modes and Magnetic-tactile Perception
+### FAWAM: Force-Aware World Action Models for Closed-Loop Contact-Rich Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[IROS / conference](https://doi.org/10.1109/IROS60139.2025.11246752)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: robotic hand, tactile；abstract: robotic hand, fingertip, tactile。
-
-### A Modularized Design Approach for GelSight Family of Vision-based Tactile Sensors
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2504.14739)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: tactile, tactile sensors；abstract: robot hands, contact, tactile, simulation, tactile sensors。
-
-### A multi-modal tactile fingertip design for robotic hands to enhance dexterous manipulation
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2510.05382)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, robotic hands, fingertip, tactile；abstract: robotic hands, fingertip, contact, tactile, slip, tactile sensor, tactile sensors。
-
-### A Novel Robot Hand with Hoeckens Linkages and Soft Phalanges for Scooping and Self-Adaptive Grasping in Environmental Constraints
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[IROS / conference](https://doi.org/10.1109/IROS60139.2025.11246074) · [arXiv / arxiv](https://arxiv.org/abs/2510.13535)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: robot hand；abstract: robotic hand, fingertip, contact, compliance。
-
-### A Tactile-Informed Bi-Level Framework with Complementary Motion-Contact Planning and Tracking for Robust Model-Based In-Hand Manipulation
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2505.04978)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: in hand manipulation, contact, tactile；abstract: dexterous, in hand manipulation, contact, contacts, tactile。
-
-### ACE-F: A Cross Embodiment Foldable System with Force Feedback for Dexterous Teleoperation
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2511.20887)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, contact, data collection。
-
-### Adaptive Visuo-Tactile Fusion with Predictive Force Attention for Dexterous Manipulation
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[IROS / conference](https://doi.org/10.1109/IROS60139.2025.11246476) · [arXiv / arxiv](https://arxiv.org/abs/2505.13982)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, tactile；abstract: contact, tactile。
-
-### Antagonistic Bowden-Cable Actuation of a Lightweight Robotic Hand: Toward Dexterous Manipulation for Payload Constrained Humanoids
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2512.24657)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, robotic hand；abstract: dexterous, robotic hands, fingertip, anthropomorphic hand, contact。
-
-### AVO: Amortized Value Optimization for Contact Mode Switching in Multi-Finger Manipulation
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、接触力学与物理可行性。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2510.07548)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: multi finger, contact；abstract: dexterous, contact, contact forces, simulation。
-
-### Bio-Skin: A Cost-Effective Thermostatic Tactile Sensor with Multi-Modal Force and Temperature Detection
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[IROS / conference](https://doi.org/10.1109/IROS60139.2025.11246501) · [arXiv / arxiv](https://arxiv.org/abs/2503.07989)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: tactile, tactile sensor；abstract: allegro hand, contact, tactile, tactile sensor, tactile sensors。
-
-### Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning
-
-- 阅读层级：**明确元数据候选**；分组：手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[IROS / conference](https://doi.org/10.1109/IROS60139.2025.11247017) · [arXiv / arxiv](https://arxiv.org/abs/2407.03162)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, human demonstrations, haptic。
-
-### Canonical Representation and Force-Based Pretraining of 3D Tactile for Dexterous Visuo-Tactile Policy Learning
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[ICRA / conference](https://doi.org/10.1109/ICRA55743.2025.11128094) · [arXiv / arxiv](https://arxiv.org/abs/2409.17549)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, tactile；abstract: dexterous, contact, tactile, datasets。
-
-### ColaDex: Contact-guided Optimization and VLM-assisted Selection for Task-oriented Dexterous Grasp Generation
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[IROS / conference](https://doi.org/10.1109/IROS60139.2025.11246998)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, contact；abstract: dexterous, robotic hand, contact。
-
-### Compliant Beaded-String Jamming For Variable Stiffness Anthropomorphic Fingers
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2502.04190)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: compliant；abstract: robotic hands, human hand, compliance, compliant。
-
-### Contact Map Transfer with Conditional Diffusion Model for Generalizable Dexterous Grasp Generation
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[NeurIPS / conference](https://dblp.org/rec/conf/nips/MaCZD25) · [arXiv / arxiv](https://arxiv.org/abs/2511.01276)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, contact；abstract: dexterous, contact。
-
-### Contact-based Grasp Control and Inverse Kinematics for a Five-fingered Robotic Hand
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、接触力学与物理可行性。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2503.19171)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: robotic hand, contact；abstract: contact, force closure, simulation。
-
-### CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2502.08449)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, contact。
-
-### D3-ARM: High-Dynamic, Dexterous and Fully Decoupled Cable-Driven Robotic Arm
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[ICRA / conference](https://doi.org/10.1109/ICRA55743.2025.11127687) · [arXiv / arxiv](https://arxiv.org/abs/2502.12963)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: friction。
-
-### D3Grasp: Diverse and Deformable Dexterous Grasping for General Objects
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2509.19892)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, contact, tactile, compliant, benchmarks。
-
-### Development of a Multi-Fingered Soft Gripper Digital Twin for Machine Learning-based Underactuated Control
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2502.15994)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: multi fingered；abstract: multi fingered, compliant。
-
-### Development of the Bioinspired Tendon-Driven DexHand 021 with Proprioceptive Compliance Control
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2511.03481)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: compliance；abstract: dexterous, robotic hand, human hand, fingertip, force estimation。
-
-### DexCanvas: Bridging Human Demonstrations and Robot Learning for Dexterous Manipulation
-
-- 阅读层级：**明确元数据候选**；分组：手部重定向与示教迁移、接触控制与灵巧任务、接触力学与物理可行性。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2510.15786)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, human demonstrations；abstract: dexterous, in hand manipulation, robot hands, hand object, retargeting, contact, contacts, contact forces, dataset, motion capture, simulator, simulation。
-
-### DexForce: Extracting Force-informed Actions from Kinesthetic Demonstrations for Dexterous Manipulation
-
-- 阅读层级：**明确元数据候选**；分组：手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建、接触力学与物理可行性。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2501.10356)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, retargeting, contact, haptic, contact forces。
-
-### DexFruit: Dexterous Manipulation and Gaussian Splatting Inspection of Fruit
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2508.07118)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: tactile。
-
-### DexHandDiff: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[CVPR / conference](https://doi.org/10.1109/CVPR52734.2025.00170) · [arXiv / arxiv](https://arxiv.org/abs/2411.18562)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, contact。
-
-### DexMan: Learning Bimanual Dexterous Manipulation from Human and Generated Videos
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2510.08475)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, hand object, contact, datasets, benchmark, data collection, motion capture, simulation。
-
-### DexNDM: Closing the Reality Gap for Dexterous In-Hand Rotation via Joint-Wise Neural Dynamics Model
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2510.08556)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, in hand rotation；abstract: dexterous, hand object, contact, data collection, simulation。
-
-### Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2504.18829)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, contact, dataset, simulation。
-
-### DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2509.04441)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, robot hand, human hand, contact, tactile, data collection。
-
-### Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration
-
-- 阅读层级：**明确元数据候选**；分组：手部重定向与示教迁移、接触控制与灵巧任务、残差方法与执行修正。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2509.09671)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、残差方法与执行修正、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.08555)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
 - 残差作用位置：action/control phrase; locus needs source review。
-- 元数据命中：title: dexterous；abstract: dexterous, robot hands, hand object, retargeting, contact, residual correction, motion capture。
+- 元数据命中：title: contact, force；abstract: contact, wrench, force feedback, force torque, residual correction, force, torque。
 
-### Dexterous Contact-Rich Manipulation via the Contact Trust Region
+### FD-VLA: Force-Distilled Vision-Language-Action Model for Contact-Rich Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、接触力学与物理可行性。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2505.02291)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、灵巧操作与手内任务。
+- 来源记录：[ICRA / conference](https://doi.org/10.1109/ICRA57385.2026.11695889) · [arXiv / arxiv](https://arxiv.org/abs/2602.02142)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。 灵巧任务未明确多指机器人手本体；不能将一般灵巧操作等同于手内或多指手实验。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: contact, force；abstract: dexterous, contact, force sensing, force torque, force, torque。
+
+### Feasibility of Embedded Photoplethysmography Sensing in Short-Duration Tactile Interactions With Pocket-Sized Robots Using IMU- and Confidence-Based Filtering
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2608.04242)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, contact；abstract: dexterous, in hand manipulation, contact, contact dynamics, simulation。
+- 元数据命中：title: tactile；abstract: tactile。
 
-### Dexterous Manipulation of Deformable Objects via Pneumatic Gripping: Lifting by One End
+### Feel Robot Feels: Tactile Feedback Array Glove for Dexterous Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2501.05198)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2603.28542)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧任务未明确多指机器人手本体；不能将一般灵巧操作等同于手内或多指手实验。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: dexterous, tactile, glove；abstract: dexterous, contact, tactile, data collection, motion capture, glove, force, forces。
+
+### Feeling the Unexpected: ResTacVLA for Contact-Rich Manipulation via Residual Tactile Representation
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2607.03387)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, friction。
+- 元数据命中：title: contact, tactile；abstract: contact, tactile。
 
-### Dexterous Manipulation through Imitation Learning: A Survey
+### Feeling Through the Load: Compliant Quadruped Locomotion under Payload Interactions
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、接触力学与物理可行性。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2504.03515)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.08637)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: compliant, quadruped, locomotion；abstract: compliant, force estimation, force, quadruped, locomotion。
+
+### FeelWorld: Visuo-Tactile World Model for Hierarchical Contact Prediction and Planning
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配、接触规划、优化与 MPC。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2607.24267)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, multi fingered, robotic hand, human hand, contact, contact dynamics。
+- 元数据命中：title: contact, tactile, planning；abstract: contact, tactile, slip, force, insertion, planning。
 
-### Dexterous Manipulation Transfer via Progressive Kinematic-Dynamic Alignment
+### FELT: Generating Tactile Signals from Vision for Visuo-Tactile Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、残差方法与执行修正。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2511.10987)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2607.20683)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 残差作用位置：action/control phrase; locus needs source review。
-- 元数据命中：title: dexterous；abstract: dexterous, multi fingered, robot hand, human hand, human hands, contact, residual policies。
+- 元数据命中：title: tactile；abstract: contact, tactile。
 
-### Dexterous Robotic Piano Playing at Scale
+### FEM-Validated Real-Time Modelling of Soft Tactile Deformation
 
-- 阅读层级：**明确元数据候选**；分组：手部重定向与示教迁移、接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2511.02504)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.16667)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, robot hands, human demonstration, contact, dataset。
+- 元数据命中：title: tactile；abstract: contact, tactile, datasets, simulator, simulation, tactile sensors。
 
-### Dexterous Three-Finger Gripper based on Offset Trimmed Helicoids (OTHs)
+### FG-CLTP: Fine-Grained Contrastive Language Tactile Pretraining for Robotic Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2503.00574)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2603.10871)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: fingertip, compliance。
+- 元数据命中：title: tactile；abstract: contact, tactile, dataset, force。
 
-### Dexterous Ungrasping Manipulation in Three Dimensions
+### FingerEye: Learning Dexterous Manipulation with Continuous Vision-Tactile Sensing
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[ICRA / conference](https://doi.org/10.1109/ICRA55743.2025.11127227)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、接触力学与物理可行性、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2604.20689)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧任务未明确多指机器人手本体；不能将一般灵巧操作等同于手内或多指手实验。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: dexterous, tactile；abstract: dexterous, fingertip, contact, tactile, wrench, compliant, contact wrench, data collection, simulation。
+
+### FingerViP: Learning Real-World Dexterous Manipulation with Fingertip Visual Perception
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、足式与全身多接触、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2604.21331)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, contacts。
+- 元数据命中：title: dexterous, fingertip；abstract: dexterous, multi fingered, fingertip, fingertips, human demonstrations, contact, whole body。
 
-### DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation
+### FINGR: Learning Dexterous Hand Control for Real-World Rubik's Cube Solving
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2505.21864)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触力学与物理可行性、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.33973)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, human hand；abstract: dexterous, robot hand, robot hands, human hand, haptic, data collection。
+- 元数据命中：title: dexterous；abstract: dexterous, fingertip, contact, contact force, force。
 
-### Diffusing Trajectory Optimization Problems for Recovery During Multi-Finger Manipulation
+### FIRMGrasp: A Friction-Informed Risk Margin for Robust Grasp Synthesis
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2510.07030)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2607.25049)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: friction；abstract: allegro hand, leap hand, contact, friction, force closure, wrench, wrench space, force。
+
+### FlashNeRD: Performance-First Contact-Rich Neural Robot Dynamics
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触规划、优化与 MPC、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.09130)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: multi finger；abstract: multi fingered, contact。
+- 元数据命中：title: contact；abstract: contact, contacts, simulator, simulation, planning, mpc, locomotion。
 
-### Do Robots Really Need Anthropomorphic Hands? A Comparison of Human and Robotic Hands
+### Flexible Piezoelectric Tactile Sensing System for Intelligent Object Recognition
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2508.05415)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2611.07779)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: robotic hands；abstract: in hand manipulation, robotic hands, human hand, anthropomorphic hand, contacts。
+- 元数据命中：title: tactile；abstract: contact, tactile。
 
-### DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove
+### FlexiTac: A Low-Cost, Open-Source, Scalable Tactile Sensing Solution for Robotic Systems
 
-- 阅读层级：**明确元数据候选**；分组：手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2502.07730)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：重定向与示教迁移、接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2604.28156)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, haptic, glove；abstract: dexterous, robotic hands, fingertip, retargeting, contact, haptic, motion capture, glove。
+- 元数据命中：title: tactile；abstract: fingertip, contact, tactile, compliance, data collection, simulation, tactile sensor, grippers。
 
-### DROP: Dexterous Reorientation via Online Planning
+### FlexWorm: Primitive-augmented Hybrid Contact-motion Planning for Suction-based Multi-segment Deformable Robots
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[ICRA / conference](https://doi.org/10.1109/ICRA55743.2025.11128433) · [arXiv / arxiv](https://arxiv.org/abs/2409.14562)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触规划、优化与 MPC。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2608.16853)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: contact, simulation。
+- 元数据命中：title: contact, planning；abstract: simulation, planning。
 
-### DTactive: A Vision-Based Tactile Sensor with Active Surface
+### FLOAT Drone for Physical Interaction: Lateral Airflow Reduction, Wrench Modeling, and Adaptive Control
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[IROS / conference](https://doi.org/10.1109/IROS60139.2025.11247152) · [arXiv / arxiv](https://arxiv.org/abs/2410.08337)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触力学与物理可行性。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2607.04260)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: tactile, tactile sensor；abstract: in hand manipulation, hand object, contact, tactile, tactile sensor, tactile sensors。
+- 元数据命中：title: wrench；abstract: contact, wrench, contact forces, force, forces。
 
-### Enhancing Regrasping Efficiency Using Prior Grasping Perceptions with Soft Fingertips
+### Floor Friction Assessment from Robot Tire-Surface Interaction
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2503.11057)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.33735)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: fingertips；abstract: fingertip, slipping。
+- 元数据命中：title: friction；abstract: slip。
 
-### Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning
+### Flow Before Imitation: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[IROS / conference](https://doi.org/10.1109/IROS60139.2025.11246287) · [arXiv / arxiv](https://arxiv.org/abs/2503.01543)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, haptic；abstract: dexterous, haptic, data collection, motion capture, glove。
-
-### ExoStart: Efficient learning for dexterous manipulation with sensorized exoskeleton demonstrations
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、接触力学与物理可行性。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2506.11775)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, robotic hand, robotic hands, human hands, contact, dynamically feasible, data collection, simulation。
-
-### FBI: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建、接触力学与物理可行性。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2508.14441)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、接触力学与物理可行性、灵巧操作与手内任务。
+- 来源记录：[ICRA / conference](https://doi.org/10.1109/ICRA57385.2026.11696089)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
 - 元数据命中：title: dexterous, in hand manipulation；abstract: dexterous, in hand manipulation, contact, tactile, contact dynamics, simulation。
 
-### Focused Blind Switching Manipulation Based on Constrained and Regional Touch States of Multi-Fingered Hand Using Deep Learning
+### FlowHOI: Flow-based Semantics-Grounded Generation of Hand-Object Interactions for Dexterous Robot Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2503.07757)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：重定向与示教迁移、接触、力与阻抗控制、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2602.13444)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧任务未明确多指机器人手本体；不能将一般灵巧操作等同于手内或多指手实验。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: dexterous, hand object；abstract: dexterous, hand object, retargeting, contact, benchmarks, simulation。
+
+### FlowTouch: View-Invariant Visuo-Tactile Prediction
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、接触规划、优化与 MPC。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2603.08255)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: multi fingered；abstract: multi finger, tactile。
+- 元数据命中：title: tactile；abstract: contact, tactile, datasets, tactile sensors, forces, planning。
 
-### From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands
+### FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2511.13710)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2607.18231)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: multi fingered, robotic hands；abstract: dexterous, multi fingered, robotic hand, robotic hands, fingertip, contact, simulation。
+- 元数据命中：title: contact, force；abstract: contact, force, wiping。
 
-### G-DexGrasp: Generalizable Dexterous Grasping Synthesis Via Part-Aware Prior Retrieval and Prior-Assisted Generation
+### FoLD: Force-Informed Learning for Dexterous Articulated Object Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2503.19457)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：重定向与示教迁移、接触、力与阻抗控制、接触力学与物理可行性、残差方法与执行修正、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.33551)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧任务未明确多指机器人手本体；不能将一般灵巧操作等同于手内或多指手实验。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 残差作用位置：action/control phrase; locus needs source review。
+- 元数据命中：title: dexterous, force；abstract: dexterous, retargeted, human demonstrations, contact, contact dynamics, residual policy, benchmark, force。
+
+### FOMI: A Force-Feedback Manipulation Interface for Teaching Contact-Rich Manipulation
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.19839)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, contact。
+- 元数据命中：title: contact, force feedback, force；abstract: human demonstrations, contact, force feedback, force, forces, gripper。
 
-### Geodesic Tracing-Based Kinematic Integration of Rolling and Sliding Contact on Manifold Meshes for Dexterous In-Hand Manipulation
+### FORCA: A Force-Aware Coding Agent for Contact-Rich Robot Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、接触力学与物理可行性。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2508.12439)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.31841)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, in hand manipulation, contact；abstract: dexterous, multi finger, robotic hand, contact, contacts, contact forces, simulation。
+- 元数据命中：title: contact, force；abstract: contact, force feedback, force torque, simulation, force, torque, wiping。
 
-### GeoDEx: A Unified Geometric Framework for Tactile Dexterous and Extrinsic Manipulation under Force Uncertainty
+### Force Policy: Learning Hybrid Force-Position Control Policy under Interaction Frame for Contact-Rich Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2505.00647)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2602.22088)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, tactile；abstract: dexterous, contact, tactile, force estimation, tactile sensors。
+- 元数据命中：title: contact, force；abstract: contact, force feedback, contact stability, force。
 
-### Glovity: Learning Dexterous Contact-Rich Manipulation via Spatial Wrench Feedback Teleoperation System
+### Force-Aware Residual DAgger via Trajectory Editing for Precision Insertion with Impedance Control
 
-- 阅读层级：**明确元数据候选**；分组：手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2510.09229)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触力学与物理可行性、残差方法与执行修正、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2603.04038)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, contact, wrench；abstract: dexterous, fingertip, retargeting, contact, tactile, haptic, wrench, glove。
+- 残差作用位置：action/control phrase; locus needs source review。
+- 元数据命中：title: impedance, impedance control, force, insertion；abstract: contact, impedance, compliant, impedance control, residual policies, dataset, simulation, force, forces, insertion。
 
-### GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation
+### Force-Closure Condition for Cooperative Multi-robot Pushing of Rectangular Objects
 
-- 阅读层级：**明确元数据候选**；分组：手部重定向与示教迁移、接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2512.01801)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2611.13268)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, human demonstrations, compliant。
+- 元数据命中：title: force closure, force；abstract: contact, contacts, force closure, wrench, contact force, force, forces, torques。
 
-### Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration
+### Force-Modulated Dexterity: Unified Compliance for Contact-Rich Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2509.08354)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.17161)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。 灵巧任务未明确多指机器人手本体；不能将一般灵巧操作等同于手内或多指手实验。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: contact, compliance, force；abstract: dexterous, contact, contacts, compliance, contact forces, force, forces, assembly, screwdriving。
+
+### Force/Torque-Based Kinematic Adaptation for Robotic Manipulation Tasks
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2608.21592)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: force torque, force, torque；abstract: multi fingered, robot hand, contact, admittance, compliance, compliant, force torque, simulation, force, torque, insertion, peg in hole。
+
+### ForceDelta-VLA: Distilling Force-Conditioned Action Corrections for Contact-Rich Manipulation
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触力学与物理可行性。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.18242)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: multi fingered；abstract: dexterous, robotic hands, human hand, tactile, data collection, glove。
+- 元数据命中：title: contact, force；abstract: contact, contact force, force。
 
-### Grasp2Grasp: Vision-Based Dexterous Grasp Translation via Schrödinger Bridges
+### ForceFlow: Learning to Feel and Act via Contact-Driven Flow Matching
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、接触力学与物理可行性。
-- 来源记录：[NeurIPS / conference](https://dblp.org/rec/conf/nips/ZhongBA25) · [arXiv / arxiv](https://arxiv.org/abs/2506.02489)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触力学与物理可行性、物理人机交互与触觉交互。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2605.11048)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, robotic hands, hand object, contact, wrench, wrench space。
+- 元数据命中：title: contact；abstract: contact, force feedback, force torque, contact dynamics, contact force, force, torque, handover。
 
-### GraspQP: Differentiable Optimization of Force Closure for Diverse and Robust Dexterous Grasping
+### ForceLDM: A Force-aware Latent Dynamics Model for Contact-Rich Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、接触力学与物理可行性。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2508.15002)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2611.03294)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, force closure；abstract: dexterous, multi fingered, robotic hands, force closure, dataset。
+- 元数据命中：title: contact, force；abstract: contact, contacts, tactile, force torque, force, forces, torque。
 
-### Hand-Object Contact Detection using Grasp Quality Metrics
+### ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2501.06987)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配。
+- 来源记录：[CVPR / conference](https://dblp.org/rec/journals/corr/abs-2603-15169) · [arXiv / arxiv](https://arxiv.org/abs/2603.15169)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: hand object, contact, contact detection；abstract: hand object, contact, dataset, contact detection。
+- 元数据命中：title: contact, force；abstract: contact, dataset, force, forces, wiping。
 
-### Hoecken-D Hand: A Novel Robotic Hand for Linear Parallel Pinching and Self-Adaptive Grasping
+### ForceWAM: Decoupling Future and Response Learning from Demo and Play Data for Contact-Rich Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2510.13553)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.18852)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: robotic hand；abstract: fingertip, contact。
+- 元数据命中：title: contact；abstract: contact, wrench, force torque, contact dynamics, force, forces, torque。
 
-### HOGraspFlow: Taxonomy-Aware Hand-Object Retargeting for Multi-Modal SE(3) Grasp Generation
+### ForeTac-VLA: A Forecasting-Based Tactile-Vision-Language-Action Model for Contact-Rich Robotic Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2509.16871)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.20980)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: hand object, retargeting；abstract: hand object, retargets, human demonstrations, contact, contact reconstruction。
+- 元数据命中：title: contact, tactile；abstract: contact, tactile。
 
-### Human-Inspired Soft Anthropomorphic Hand System for Neuromorphic Object and Pose Recognition Using Multimodal Signals
+### ForeTac: Predictive Contact Guidance for Generative Robot Policies
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2509.02275)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.18118)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: anthropomorphic hand；abstract: human hand, anthropomorphic hand, tactile。
+- 元数据命中：title: contact；abstract: contact, tactile, wiping。
 
-### HumanFT: A Human-Like Fingertip Multimodal Visuo-Tactile Sensor
+### FORGE-plus: Force-Budgeted Recovery for Contact-Rich Assembly with a Frozen LLM Supervisor
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[ICRA / conference](https://doi.org/10.1109/ICRA55743.2025.11128300) · [arXiv / arxiv](https://arxiv.org/abs/2410.10353)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2607.21227)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: fingertip, tactile, tactile sensor；abstract: dexterous, fingertip, tactile, tactile sensors。
+- 元数据命中：title: contact, force, assembly；abstract: slip, simulation, force, grippers, insertion, assembly。
 
-### In-Hand Object Pose Estimation via Visual-Tactile Fusion
+### FP2: Equipping Robotic Foundation Models with Force Control
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2506.10787)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.37433)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: hand object, tactile；abstract: robotic hand, hand object, fingertips, tactile, tactile sensors。
+- 元数据命中：title: force control, force；abstract: contact, wrench, force control, force。
 
-### KineDex: Learning Tactile-Informed Visuomotor Policies via Kinesthetic Teaching for Dexterous Manipulation
+### FR-VLA: Implicit Force Reasoning VLA for Contact-Rich Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2505.01974)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.25981)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, tactile；abstract: dexterous, multi finger, human hand, retargeting, contact, tactile, data collection。
+- 元数据命中：title: contact, force；abstract: contact, wrench, force。
 
-### KineSoft: Learning Proprioceptive Manipulation Policies with Soft Robot Hands
+### FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2503.01078)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: robot hands；abstract: dexterous, robot hands, robotic hands, compliance。
-
-### Learning Dexterous Manipulation Skills from Imperfect Simulations
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建、接触力学与物理可行性。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2512.02011)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, multi fingered, contact, tactile, contact dynamics, simulation。
-
-### Lightning Grasp: High Performance Procedural Grasp Synthesis with Contact Fields
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2511.07418)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: contact；abstract: dexterous, contact。
-
-### LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建、接触力学与物理可行性。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2512.20591)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: fingertip, contact, tactile, contact sensing；abstract: fingertip, contact, contacts, tactile, contact force, tactile sensors。
-
-### Look-to-Touch: A Vision-Enhanced Proximity and Tactile Sensor for Distance and Geometry Perception in Robotic Manipulation
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2504.10280)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: tactile, tactile sensor；abstract: dexterous, robotic hands, contact, tactile, tactile sensors。
-
-### M3D-skin: Multi-material 3D-printed Tactile Sensor with Hierarchical Infill Structures for Pressure Sensing
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[IROS / conference](https://doi.org/10.1109/IROS60139.2025.11247774) · [arXiv / arxiv](https://arxiv.org/abs/2510.12419)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: tactile, tactile sensor；abstract: robotic hand, tactile, tactile sensor, tactile sensors。
-
-### MAPLE: Encoding Dexterous Robotic Manipulation Priors Learned From Egocentric Videos
-
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2504.06084)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
-- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
-- 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, robotic hand, contact, datasets, benchmarks, simulation。
-
-### MILE: A Mechanically Isomorphic Hand Exoskeleton and Visuotactile Robotic Hand for Data Collection in Dexterous Manipulation
-
-- 阅读层级：**明确元数据候选**；分组：手部重定向与示教迁移、接触控制与灵巧任务、触觉、接触感知与交互重建、数据集、仿真与数据生成。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2512.00324)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、数据集、仿真与数据生成、机械臂接触操作与装配。
+- 来源记录：[ICRA / conference](https://doi.org/10.1109/ICRA57385.2026.11696142) · [arXiv / arxiv](https://arxiv.org/abs/2506.01941)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 数据、仿真或评测支撑不等于已完成机器人重定向或控制。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous, robotic hand, data collection；abstract: dexterous, robot hand, robotic hand, robotic hands, human hand, fingertip, fingertips, retargeting, human demonstrations, contact, tactile, benchmark, data collection, glove。
+- 元数据命中：title: contact, tactile, data collection；abstract: contact, tactile, force feedback, dataset, datasets, data collection, tactile sensors, force, gripper。
 
-### Model Q-II: An Underactuated Hand with Enhanced Grasping Modes and Primitives for Dexterous Manipulation
+### Frequency-aware decomposition learning for sensorless wrench estimation in vibration-rich robotic contact
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[ICRA / conference](https://doi.org/10.1109/ICRA55743.2025.11127291)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2604.12905)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, robotic hand, contact。
+- 元数据命中：title: contact, wrench；abstract: contact, wrench, dataset, force, torque, manipulator, grinding。
 
-### Multi-Goal Dexterous Hand Manipulation using Probabilistic Model-based Reinforcement Learning
+### From a Single Demonstration to a General Policy for Contact-Rich Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2504.21585)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2605.17601)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, shadow hand, tactile, tactile sensors。
+- 元数据命中：title: contact；abstract: contact, compliant, contact dynamics。
 
-### Multi-Keypoint Affordance Representation for Functional Dexterous Grasping
+### From a Single RGB Image to Robot Execution: Metric Scene Alignment and Contact-Guided Retargeting
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2502.20018)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：重定向与示教迁移、接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2611.14981)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, hand object, contact, datasets, simulation。
+- 元数据命中：title: retargeting, contact；abstract: retargeting, retargets, contact, simulation。
 
-### NeuralTouch: Neural Descriptors for Precise Sim-to-Real Tactile Robot Control
+### From Folding Mechanics to Robotic Function: A Unified Modeling Framework for Compliant Origami
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2510.20390)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2603.14900)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: tactile；abstract: robot hand, contact, tactile, simulation。
+- 元数据命中：title: compliant；abstract: contact, friction, compliant。
 
-### Object Pose Estimation through Dexterous Touch
+### From Grasps to Dexterity: Large-Scale Grasp Pretraining for Dexterous Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2509.13591)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.30749)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧任务未明确多指机器人手本体；不能将一般灵巧操作等同于手内或多指手实验。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: dexterous；abstract: dexterous, hand object, contact, dataset, datasets, benchmark, simulation, tool use。
+
+### From Reach to Insert: Tactile-Augmented Precision Assembly under Sub-Millimeter Tolerances
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、接触力学与物理可行性、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2605.04649)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: robot hand, contact, tactile, tactile sensors。
+- 元数据命中：title: tactile, assembly；abstract: contact, tactile, contact forces, force, forces, torque, insertion, assembly。
 
-### OmniDexVLG: Learning Dexterous Grasp Generation from Vision Language Model-Guided Grasp Semantics, Taxonomy and Functional Affordance
+### From Wearable Interfaces to Dexterous Policies: Contact Shifts and Tactile Representations
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、接触力学与物理可行性。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2512.03874)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配、物理人机交互与触觉交互、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.08870)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。 灵巧任务未明确多指机器人手本体；不能将一般灵巧操作等同于手内或多指手实验。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: dexterous, contact, tactile；abstract: dexterous, contact, tactile, data generation, force, insertion, exoskeleton。
+
+### FSAG: Enhancing Human-to-Dexterous-Hand Finger-Specific Affordance Grounding via Diffusion Models
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触力学与物理可行性、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2601.08246)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: dexterous；abstract: dexterous, contact, force closure, dataset, simulation。
+- 元数据命中：title: dexterous；abstract: dexterous, multi fingered, fingertip, human demonstrations, contact, contacts, physical feasibility, datasets, data collection, simulation。
 
-### OmniVTLA: Vision-Tactile-Language-Action Models with Semantic-Aligned Tactile Sensing
+### FTP-1: A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation
 
-- 阅读层级：**明确元数据候选**；分组：接触控制与灵巧任务、触觉、接触感知与交互重建。
-- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2508.08706)。
-- 纳入理由：规范词组匹配到手部语境与目标主题；具体证据见标题／摘要命中。
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.13102)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
 - 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
 - 审核基础：automated metadata phrase matching; not full-paper review。
-- 元数据命中：title: tactile；abstract: dexterous, contact, tactile, dataset, datasets, tactile sensors。
+- 元数据命中：title: contact, tactile, tactile sensors；abstract: contact, tactile, datasets, tactile sensor。
+
+### Function-based Parametric Co-Design Optimization of Dexterous Hands
+
+- 阅读层级：**明确元数据候选**；分组：重定向与示教迁移、接触、力与阻抗控制、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2604.27557)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: dexterous；abstract: dexterous, robotic hand, fingertip, contact, simulation。
+
+### Functional Force-Aware Retargeting from Virtual Human Demos to Soft Robot Policies
+
+- 阅读层级：**明确元数据候选**；分组：重定向与示教迁移、接触、力与阻抗控制、接触力学与物理可行性、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2604.01224)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: retargeting, force；abstract: robot hand, robot hands, robotic hands, fingertip, retargeting, retarget, human demonstrations, contact, compliance, contact force, contact forces, simulation, force, forces；taxonomy: Hand Retargeting。
+
+### FWBC-VLA: Force-Aware Whole-Body Compensation for Contact-Rich Loco-Manipulation
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.03889)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: contact, force, whole body；abstract: contact, force torque, dataset, force, forces, torque, wiping, whole body, legged。
+
+### GelNeuro: A Sensing-Computing Integrated Neuromorphic Tactile System for Texture Recognition
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2607.05241)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: tactile；abstract: contact, tactile, benchmark。
+
+### GelSphere: An Omnidirectional Rolling Vision-Based Tactile Sensor for Online 3D Reconstruction and Normal Force Estimation
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2603.14104)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: tactile, force estimation, tactile sensor, force；abstract: tactile, tactile sensor, tactile sensors。
+
+### Gen2Dex: Learning Dexterous Manipulation from Simulation-Initialized Generated Video Demonstrations
+
+- 阅读层级：**明确元数据候选**；分组：重定向与示教迁移、接触、力与阻抗控制、数据集、仿真与数据生成、残差方法与执行修正、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.24392)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧任务未明确多指机器人手本体；不能将一般灵巧操作等同于手内或多指手实验。 数据、仿真或评测支撑不等于已完成机器人重定向或控制。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 残差作用位置：action/control phrase; locus needs source review。
+- 元数据命中：title: dexterous, simulation；abstract: dexterous, hand object, retargeting, retargeted, contacts, residual reinforcement learning, simulation。
+
+### Generalizable Friction Coefficient Estimation via Material Embedding and Proxy Interaction Modeling
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2604.24188)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: friction；abstract: friction, datasets, simulation。
+
+### Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation
+
+- 阅读层级：**明确元数据候选**；分组：重定向与示教迁移、接触、力与阻抗控制、接触力学与物理可行性、接触规划、优化与 MPC、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.12440)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧任务未明确多指机器人手本体；不能将一般灵巧操作等同于手内或多指手实验。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: dexterous, retargeting；abstract: dexterous, retargeting, retargets, human demonstrations, contact, contact force, dynamically feasible, dataset, data engine, force, model predictive control, mpc；taxonomy: Hand Retargeting。
+
+### GenerativeMPC: VLM-RAG-guided Whole-Body MPC with Virtual Impedance for Bimanual Mobile Manipulation
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配、接触规划、优化与 MPC、足式与全身多接触、物理人机交互与触觉交互。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2604.19522)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: impedance, mpc, whole body；abstract: impedance, admittance, compliance, compliant, manipulators, mpc, whole body, human robot interaction。
+
+### GenHOI: Contact-Aware Humanoid-Object Interaction by Imitating Generated Videos without Task-Specific Training
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.12995)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: contact；abstract: hand object, contact, simulation。
+
+### Geometric Reconstruction of Extrinsic Contact Trajectories using Tactile Sensing and Proprioception for Tool Manipulation
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、接触力学与物理可行性、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.22251)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: contact, tactile；abstract: contact, tactile, slip, slip detection, tactile sensor。
+
+### GeoTLM: Geometry-aware Tactile-Language Models for Contact Motion Orientation Reasoning of Dynamic Objects
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.15909)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: contact, tactile；abstract: contact, tactile。
+
+### GeoTrussRover: Morphological Computation with Contact-Semantic Control Primitives
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触规划、优化与 MPC、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.11361)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: contact；abstract: contact, planning, locomotion。
+
+### GhostTac: Manipulating Tactile Sensors without Physical Contact
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、接触力学与物理可行性、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2608.20817)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: contact, tactile, tactile sensors；abstract: dexterous, tactile, slip, slip detection, tactile sensors, force。
+
+### GIFT: Glove-Inferred Force Transfer: Force-Aware Human-to-Robot Skill Transfer from a Wearable Sensing Glove to a Robot Hand Without Tactile Sensors
+
+- 阅读层级：**明确元数据候选**；分组：重定向与示教迁移、接触、力与阻抗控制、触觉、接触感知与交互重建、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.14173)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: robot hand, tactile, tactile sensors, glove, force；abstract: robot hand, human hand, fingertip, retargeting, tactile, tactile sensors, glove, gloves, force。
+
+### Global Sampling-Based Trajectory Optimization for Contact-Rich Manipulation via KernelSOS
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配、接触规划、优化与 MPC、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2604.27175)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: contact, trajectory optimization；abstract: dexterous, in hand manipulation, contact, contact dynamics, trajectory optimization。
+
+### GLoTouch: Global-to-Local Haptic Perception Using a Parallel Gripper for Object Search, Recognition, and Grasping Without External Vision
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.27695)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: haptic, gripper, parallel gripper；abstract: contacts, haptic, simulation, force, gripper, grippers, parallel gripper。
+
+### GlowTact: Simple and Compact Vision-Based Tactile Sensing with High Sensitivity and Spatial Resolution
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.32471)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: tactile；abstract: fingertips, contact, tactile, force estimation, contact detection, tactile sensors, force。
+
+### GOAG: Generative and Object-Agnostic Grasp Planner for Dexterous Robotic Manipulation
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配、接触规划、优化与 MPC、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2608.19759)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: dexterous, planner；abstract: dexterous, multifingered, contact, dataset, datasets, gripper, grippers, planner, planners。
+
+### GOTT: Object-centric Dexterous Manipulation with a Reusable Cross-Embodiment Primitive
+
+- 阅读层级：**明确元数据候选**；分组：重定向与示教迁移、接触、力与阻抗控制、接触规划、优化与 MPC、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.03861)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: dexterous；abstract: dexterous, multi fingered, human demonstrations, contact, simulation, planning。
+
+### GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.26846)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: contact, tactile；abstract: contact, tactile, benchmark。
+
+### GPT-6-Astra Understands Touch and Outperform Vision--Tactile--Language--Action Models
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.28457)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: tactile；abstract: contact, tactile。
+
+### GPU-Accelerated Continuous-Time Successive Convexification for Contact-Implicit Legged Locomotion
+
+- 阅读层级：**明确元数据候选**；分组：接触、力与阻抗控制、接触规划、优化与 MPC、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2604.09993)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: contact, contact implicit, legged, locomotion；abstract: contact, friction, slip, simulation, torque, trajectory optimization, contact implicit, mpc, contact mode, legged, locomotion。

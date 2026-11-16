@@ -60,11 +60,13 @@ Do not add workshop-only, withdrawn, under-review, or arXiv-only papers to the c
    node --test tests/taxonomy-filters.test.cjs tests/workbench.test.cjs
    ```
 
-## Dexterous retargeting and contact focus
+## Contact methods, dexterous manipulation, and retargeting
 
 The [focused catalog](papers/focus/dexterous-retargeting-contact/README.md) is derived from the two existing source layers. Its deterministic screening rules live in `scripts/dexterity_focus.py`; primary-source reading priorities and separately labeled outside-window foundations live in `data/dexterity-focus-curation.json`.
 
 Run `python scripts/render_catalog.py` after either source or curation changes. This regenerates the complete paginated list, group views, JSON and CSV together. Each candidate retains its matching evidence, relevance tier, and conference/arXiv source variants. Cross-topic group counts overlap. Automatic matches are not full-paper reviews; supplemental foundations do not increase the conference or recent-arXiv census counts. Distinguish action/control residuals from representation adapters and optimization residuals.
+
+The focus covers contact methods across robot embodiments, dexterous manipulation, and human-to-robot retargeting. Arm contact, assembly, contact planning, legged contacts, and physical human–robot interaction have dedicated groups; none is automatically a multi-finger hand result. Preserve both source-layer inventories and distinguish conference index records from independently verified acceptance. Keep the existing focus URL for compatibility. Completeness is bounded by the declared venue, retrieval, and arXiv admission rules, not by a claim to have found all global literature.
 
 ## Analysis notes
 
