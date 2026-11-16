@@ -1,13 +1,18 @@
 # arxiv classification review · 4201–4400
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
+| [Anticipating Human Behavior for Safe Navigation and Efficient Collaborative Manipulation with Mobile Service Robots](https://arxiv.org/abs/2410.05015) | 2024 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
+| [Anticipation through Head Pose Estimation: a preliminary study](https://arxiv.org/abs/2408.05516) | 2024 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
+| [Appropriateness of LLM-equipped Robotic Well-being Coach Language in the Workplace: A Qualitative Evaluation](https://arxiv.org/abs/2401.14935) | 2024 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
+| [Aquaculture field robotics: Applications, lessons learned and future prospects](https://arxiv.org/abs/2404.12995) | 2024 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
+| [ARDuP: Active Region Video Diffusion for Universal Policies](https://arxiv.org/abs/2406.13301) | 2024 · arxiv | 暂定二级 / provisional: Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | fallback; fallback |
 | [Are Large Language Models Aligned with People's Social Intuitions for Human-Robot Interactions?](https://arxiv.org/abs/2403.05701) | 2024 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
 | [Are We Ready for Planetary Exploration Robots? The TAIL-Plus Dataset for SLAM in Granular Environments](https://arxiv.org/abs/2404.13600) | 2024 · arxiv | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:dataset |
 | [Are you a robot? Detecting Autonomous Vehicles from Behavior Analysis](https://arxiv.org/abs/2403.09571) | 2024 · arxiv | 暂定二级 / provisional: Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | fallback; fallback |
@@ -203,8 +208,3 @@
 | [Deep Learning Assisted Inertial Dead Reckoning and Fusion](https://arxiv.org/abs/2407.16387) | 2024 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
 | [Deep Reinforcement Learning with Enhanced PPO for Safe Mobile Robot Navigation](https://arxiv.org/abs/2405.16266) | 2024 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
 | [Deep SE(3)-Equivariant Geometric Reasoning for Precise Placement Tasks](https://arxiv.org/abs/2404.13478) | 2024 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | fallback; fallback |
-| [Deep-Learning Estimation of Weight Distribution Using Joint Kinematics for Lower-Limb Exoskeleton Control](https://arxiv.org/abs/2402.04180) | 2024 · arxiv | Robot Hardware & Systems → Sensors & Human Interfaces → Pending specialty review | title:hardware or deployment contribution; title:exoskeleton |
-| [DeepKalPose: An Enhanced Deep-Learning Kalman Filter for Temporally Consistent Monocular Vehicle Pose Estimation](https://arxiv.org/abs/2404.16558) | 2024 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
-| [DEF-oriCORN: efficient 3D scene understanding for robust language-directed manipulation without demonstrations](https://arxiv.org/abs/2407.21267) | 2024 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
-| [DeliGrasp: Inferring Object Properties with LLMs for Adaptive Grasp Policies](https://arxiv.org/abs/2403.07832) | 2024 · arxiv | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasp |
-| [DEMO: A Dynamics-Enhanced Learning Model for Multi-Horizon Trajectory Prediction in Autonomous Vehicles](https://arxiv.org/abs/2412.20784) | 2024 · arxiv | 暂定二级 / provisional: Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | fallback; fallback |

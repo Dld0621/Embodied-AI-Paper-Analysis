@@ -1,15 +1,16 @@
 # Global Path Planning · 全局路径规划 · arXiv 2026
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 391 papers · complete list for this taxonomy leaf
+> 392 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-13 | PoliMop: Policy-in-the-Loop Motion Planning in 3D Spaces for Mobile Robots | Yael Fassbind, Valentin N. Hartmann, Huang Su, Yijiang Huang et al. | [Abstract](https://arxiv.org/abs/2611.18110) · [PDF](https://arxiv.org/pdf/2611.18110) | rule-assigned |
 | 2026-11-11 | DIVAL: Diffeomorphic Vector-Field Alignment for Nonholonomic Motion Planning | Yike Qiao, Xiaodong He, An Zhuo, Zhiyong Sun et al. | [Abstract](https://arxiv.org/abs/2611.14918) · [PDF](https://arxiv.org/pdf/2611.14918) | rule-assigned |
 | 2026-11-10 | SIGMO: Sigmoid Gated Interaction-Aware Motion Planning | Avinash Singh, Manish Saroya, Fatemeh Cheraghi Pouria, Faizan Tariq et al. | [Abstract](https://arxiv.org/abs/2611.14414) · [PDF](https://arxiv.org/pdf/2611.14414) | rule-assigned |
 | 2026-11-10 | Optimization-Based Path Planning for Industrial Manipulators: Experimental Validation in Additive Manufacturing | Shiva Ganesh Murali, Valentin Bhend, Deepak Ingole, Gabriele Fadini et al. | [Abstract](https://arxiv.org/abs/2611.13983) · [PDF](https://arxiv.org/pdf/2611.13983) | rule-assigned |

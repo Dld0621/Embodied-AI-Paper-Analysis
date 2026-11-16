@@ -1,7 +1,7 @@
 # Task Decomposition & Symbolic Planning · 任务分解与符号规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Task%20Reasoning%20%26%20Planning&specialty=Task%20Decomposition%20%26%20Symbolic%20Planning#research-workbench)
@@ -102,7 +102,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-08 | GraphThink: Graph-Enhanced LLM Thinking for Long-Horizon Embodied Task Planning | Chen Li, Sijie Cheng, Yuelin Zhang, Junxi Li et al. | [Abstract](https://arxiv.org/abs/2608.07905) · [PDF](https://arxiv.org/pdf/2608.07905) | rule-assigned |
 | 2026-08-02 | Sampling-Based Visibility Task Planning | Stav Ashur, Avishai Sintov | [Abstract](https://arxiv.org/abs/2608.01027) · [PDF](https://arxiv.org/pdf/2608.01027) | rule-assigned |
 | 2026-08-01 | When Prompts Control Robots: Prompt Injection Attacks in Multi-Agent Robotic Systems | Neha Nagaraja, Amisha Bagari, Hayretdin Bahsi | [Abstract](https://arxiv.org/abs/2608.00747) · [PDF](https://arxiv.org/pdf/2608.00747) | rule-assigned |
-| 2026-07-22 | Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments | Md Ridwan Hossain Talukder, Roshan Dhakal, Elizabeth Phillips, Gregory J. Stein | [Abstract](https://arxiv.org/abs/2607.20289) · [PDF](https://arxiv.org/pdf/2607.20289) | rule-assigned |
+| 2026-07-22 | Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments | Md Ridwan Hossain Talukder, Elizabeth Phillips, Gregory J. Stein | [Abstract](https://arxiv.org/abs/2607.20289) · [PDF](https://arxiv.org/pdf/2607.20289) | rule-assigned |
 | 2026-07-20 | UniETP: Unifying Environments for Generalizable Embodied Task Planning | Peiran Xu, Jiaqi Zheng, Ziyou Wang, Yadong Mu | [Abstract](https://arxiv.org/abs/2607.18062) · [PDF](https://arxiv.org/pdf/2607.18062) | rule-assigned |
 | 2026-07-10 | Task Planning for Mobile Manipulation in Retail Stores using Foundation Models with Iterative Re-planning | Vismay Vakharia, Sanjana Garai, Rolif Lima, Nijil George et al. | [Abstract](https://arxiv.org/abs/2607.09962) · [PDF](https://arxiv.org/pdf/2607.09962) | rule-assigned |
 | 2026-06-24 | HEART: Coordination of Heterogeneous Expert Agents for Physically Grounded Robotic Task Planning | Junho Lee, Seabin Lee, Wonjong Lee, Nayoung Kim et al. | [Abstract](https://arxiv.org/abs/2606.25404) · [PDF](https://arxiv.org/pdf/2606.25404) | rule-assigned |

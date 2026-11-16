@@ -1,13 +1,18 @@
 # arxiv classification review · 5201–5400
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
+| [Safe Leaf Manipulation for Accurate Shape and Pose Estimation of Occluded Fruits](https://arxiv.org/abs/2409.17389) | 2024 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
+| [Safe Learning of Locomotion Skills from MPC](https://arxiv.org/abs/2407.11673) | 2024 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
+| [Safe Low-Altitude Navigation in Steep Terrain with Fixed-Wing Aerial Vehicles](https://arxiv.org/abs/2401.04831) | 2024 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
+| [Safe Navigation in Dynamic Environments using Density Functions](https://arxiv.org/abs/2411.12206) | 2024 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
+| [Safe Navigation in Unmapped Environments for Robotic Systems with Input Constraints](https://arxiv.org/abs/2410.02106) | 2024 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
 | [Safe Planning through Incremental Decomposition of Signal Temporal Logic Specifications](https://arxiv.org/abs/2403.10554) | 2024 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
 | [Safe Reference Tracking and Collision Avoidance for Taxiing Aircraft Using an MPC-CBF Framework](https://arxiv.org/abs/2410.03890) | 2024 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
 | [Safe Road-Crossing by Autonomous Wheelchairs: a Novel Dataset and its Experimental Evaluation](https://arxiv.org/abs/2403.08984) | 2024 · arxiv | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:dataset |
@@ -203,8 +208,3 @@
 | [Toward Unified Practices in Trajectory Prediction Research on Bird's-Eye-View Datasets](https://arxiv.org/abs/2405.00604) | 2024 · arxiv | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:datasets |
 | [Towards Comprehensive Multimodal Perception: Introducing the Touch-Language-Vision Dataset](https://arxiv.org/abs/2403.09813) | 2024 · arxiv | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:dataset |
 | [Towards Effective Utilization of Mixed-Quality Demonstrations in Robotic Manipulation via Segment-Level Selection and Optimization](https://arxiv.org/abs/2409.19917) | 2024 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
-| [Towards Fast and Safety-Guaranteed Trajectory Planning and Tracking for Time-Varying Systems](https://arxiv.org/abs/2412.04129) | 2024 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
-| [Towards Improving Learning from Demonstration Algorithms via MCMC Methods](https://arxiv.org/abs/2405.02243) | 2024 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | fallback; fallback |
-| [Towards Interactive Autonomous Vehicle Testing: Vehicle-Under-Test-Centered Traffic Simulation](https://arxiv.org/abs/2406.02860) | 2024 · arxiv | 暂定二级 / provisional: Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | fallback; fallback |
-| [Towards Interpretable Visuo-Tactile Predictive Models for Soft Robot Interactions](https://arxiv.org/abs/2407.12197) | 2024 · arxiv | Perception, Representation & State Estimation → Tactile & Multimodal Perception → Pending specialty review | title:perception or state; title:tactile |
-| [Towards Multi-Morphology Controllers with Diversity and Knowledge Distillation](https://arxiv.org/abs/2404.14625) | 2024 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |

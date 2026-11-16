@@ -1,13 +1,16 @@
 # arxiv classification review · 1201–1400
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
+| [Location-Aware Dispersion on Anonymous Graphs](https://arxiv.org/abs/2602.05948) | 2026 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
+| [Locomotion Variability and User Experience in Smart Wheelchair Human-Robot Interaction](https://arxiv.org/abs/2608.11417) | 2026 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
+| [Locomotion with Online Awareness of Dynamics for Precision Footholds](https://arxiv.org/abs/2610.17930) | 2026 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
 | [Lodos: A Lightweight Simulator Designed for Contact-Rich Interactions with Detailed Meshes](https://arxiv.org/abs/2611.08872) | 2026 · arxiv | Data, Simulation & Evaluation → Simulation & Digital Twins → Pending specialty review | title:data or evaluation contribution; title:simulator |
 | [Loiter UAV Reinsertion Guidance for Fixed-wing UAV Corridors](https://arxiv.org/abs/2605.13822) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | fallback; fallback |
 | [Long-Horizon Geometry-Aware Navigation among Polytopes via MILP-MPC and Minkowski-Based CBFs](https://arxiv.org/abs/2604.00162) | 2026 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
@@ -205,6 +208,3 @@
 | [One-Shot Learning for Double-Shot Latte Art: Adapting Cobot Pouring Skills with Dynamic Movement Primitives](https://arxiv.org/abs/2610.16179) | 2026 · arxiv | 暂定二级 / provisional: Dexterous Hands, Retargeting & Teleoperation → Multifinger Grasping & Control → Pending specialty review | fallback; fallback |
 | [One-Shot Learning from Demonstration of Contact-Rich Robotic Manipulation by Identifying Physical Interactions](https://arxiv.org/abs/2608.24741) | 2026 · arxiv | Arm & General Object Manipulation → Contact-rich Manipulation → Pending specialty review | title:object manipulation; title:contact rich |
 | [OneDemo: Unified Policy Learning and Data Generation from a Single Demonstration](https://arxiv.org/abs/2610.18188) | 2026 · arxiv | Data, Simulation & Evaluation → Synthetic & Augmented Data → Pending specialty review | title:data or evaluation contribution; title:data generation |
-| [Online Estimation and Manipulation of Articulated Objects](https://arxiv.org/abs/2601.01438) | 2026 · arxiv | Arm & General Object Manipulation → Contact-rich Manipulation → Pending specialty review | title:object manipulation; title:articulated |
-| [Ontological grounding for sound and natural robot explanations via large language models](https://arxiv.org/abs/2602.13800) | 2026 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
-| [Ontology-Guided Reasoning for Affordance-Based Explanations of Robot Navigation](https://arxiv.org/abs/2606.00117) | 2026 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |

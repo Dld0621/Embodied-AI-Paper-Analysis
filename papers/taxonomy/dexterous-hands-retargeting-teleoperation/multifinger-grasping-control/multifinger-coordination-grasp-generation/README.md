@@ -1,12 +1,12 @@
 # Multifinger Coordination & Grasp Generation · 多指协调与抓取生成
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Multifinger%20Grasping%20%26%20Control&specialty=Multifinger%20Coordination%20%26%20Grasp%20Generation#research-workbench)
 
-> 29 conference papers · 77 recent arXiv papers
+> 29 conference papers · 78 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -54,10 +54,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning Generalizable Dexterous Manipulation from Human Grasp Affordance | CoRL · Manipulation | [Paper](https://arxiv.org/abs/2204.02320) · [Index](https://dblp.org/rec/conf/corl/WuWW22) | rule-assigned |
 | 2022 | Multi-Finger Grasping Like Humans | IROS · Multi Finger | [Paper](https://arxiv.org/pdf/2211.07304) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981805) | rule-assigned |
 
-## Recent arXiv papers (77)
+## Recent arXiv papers (78)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-10-22 | IORA: Irregular Object Immobilization under Restricted Actuation | Sang-Hun Han, Changyeon Won, JunGyu Lee, Min-Gyu Park et al. | [Abstract](https://arxiv.org/abs/2610.30969) · [PDF](https://arxiv.org/pdf/2610.30969) | reviewed |
 | 2026-10-18 | T(R,O) Grasp++: Cross-Embodiment Dexterous Grasping in Cluttered Environments at Scale | Xin Fei, Zhixuan Xu, Huaicong Fang, Fangjun Chen et al. | [Abstract](https://arxiv.org/abs/2610.25410) · [PDF](https://arxiv.org/pdf/2610.25410) | rule-assigned |
 | 2026-10-18 | DexGraspFlow: Topology-Aware SE(3) Flow Matching for Cross-Embodiment Dexterous Grasp Generation | Bin Zhou, Boyu Ma, Xinyu Zhou, Jiahua Dong et al. | [Abstract](https://arxiv.org/abs/2610.26962) · [PDF](https://arxiv.org/pdf/2610.26962) | rule-assigned |
 | 2026-10-14 | HiFun: a Hierarchical Framework for Efficient Functional Dexterous Manipulation Learning | Linyi Huang, Guowei Huai, Weibin Liu, Shulong Jiang et al. | [Abstract](https://arxiv.org/abs/2610.19518) · [PDF](https://arxiv.org/pdf/2610.19518) | rule-assigned |

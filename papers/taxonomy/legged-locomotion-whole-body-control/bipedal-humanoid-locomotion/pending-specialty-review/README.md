@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Pending%20specialty%20review#research-workbench)
 
-> 165 conference papers · 539 recent arXiv papers
+> 165 conference papers · 538 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -98,7 +98,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | Unified Locomotion Transformer with Simultaneous Sim-to-Real Transfer for Quadrupeds | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2503.08997) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246319) | needs-review |
 | 2025 | ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills | RSS · Humanoid sim-to-real | [Paper](https://www.roboticsproceedings.org/rss21/p066.pdf) · [Official](https://www.roboticsproceedings.org/rss21/p066.html) · [Code](https://github.com/LeCAR-Lab/ASAP) | needs-review |
 | 2024 | HumanPlus: Humanoid Shadowing and Imitation from Humans | CoRL · Humanoid imitation | [Paper](https://arxiv.org/abs/2406.10454) · [Official](https://proceedings.mlr.press/v270/) · [Code](https://github.com/MarkFzp/humanplus) | needs-review |
-| 2024 | Jacta: A Versatile Planner for Learning Dexterous and Whole-body Manipulation | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2408.01258) · [Index](https://dblp.org/rec/journals/corr/abs-2408-01258) | needs-review |
+| 2024 | Jacta: A Versatile Planner for Learning Dexterous and Whole-body Manipulation | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2408.01258) · [Index](https://dblp.org/rec/conf/corl/BrudigamASFHGSW24) | needs-review |
 | 2024 | Learning to Open and Traverse Doors with a Legged Manipulator | CoRL · Legged | [Paper](https://arxiv.org/abs/2409.04882) · [Index](https://dblp.org/rec/journals/corr/abs-2409-04882) | needs-review |
 | 2024 | Mobile ALOHA: Learning Bimanual Mobile Manipulation using Low-Cost Whole-Body Teleoperation | CoRL · Bimanual | [Paper](https://www.semanticscholar.org/paper/8918ed27489ab267be3ee75573540dce4476b981) · [Index](https://dblp.org/rec/conf/corl/FuZF24) | needs-review |
 | 2024 | OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation | CoRL · Humanoid | [Paper](https://arxiv.org/abs/2410.11792) · [Index](https://dblp.org/rec/journals/corr/abs-2410-11792) | needs-review |
@@ -162,7 +162,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Robo-Centric ESDF: A Fast and Accurate Whole-Body Collision Evaluation Tool for Any-Shape Robotic Planning | IROS · Whole Body | [Paper](https://arxiv.org/pdf/2306.16046) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342074) | needs-review |
 | 2023 | Towards Connecting Control to Perception: High-Performance Whole-Body Collision Avoidance Using Control-Compatible Obstacles | IROS · Whole Body | [Paper](https://arxiv.org/pdf/2309.06873) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342515) | needs-review |
 | 2023 | Underwater and Surface Aquatic Locomotion of Soft Biomimetic Robot Based on Bending Rolled Dielectric Elastomer Actuators | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2310.11426) · [Publisher](https://doi.org/10.1109/IROS55552.2023.10342144) | needs-review |
-| 2023 | Causal Policy Gradient for Whole-Body Mobile Manipulation | RSS · Whole Body | [Paper](https://arxiv.org/pdf/2305.04866) · [Index](https://dblp.org/rec/conf/rss/HuSM23) | needs-review |
+| 2023 | Causal Policy Gradient for Whole-Body Mobile Manipulation | RSS · Whole Body | [Paper](https://arxiv.org/pdf/2305.04866) · [Index](https://dblp.org/rec/journals/corr/abs-2305-04866) | needs-review |
 | 2022 | Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior | CoRL · Legged locomotion | [Paper](https://proceedings.mlr.press/v205/margolis23a/margolis23a.pdf) · [Official](https://proceedings.mlr.press/v205/margolis23a.html) · [Code](https://gmargo11.github.io/walk-these-ways) | needs-review |
 | 2022 | A Collision-Free MPC for Whole-Body Dynamic Locomotion and Manipulation | ICRA · Locomotion | [Paper](https://arxiv.org/abs/2202.12385) · [Index](https://dblp.org/rec/conf/icra/ChiuSMF022) | needs-review |
 | 2022 | A Novel Model of Interaction Dynamics between Legged Robots and Deformable Terrain | ICRA · Legged | [Paper](https://doi.org/10.1109/icra46639.2022.9812351) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812351) | needs-review |
@@ -190,10 +190,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Torque-Actuated Multimodal Locomotion of Ferrofluid Robot With Environment and Task Adaptability | IROS · Locomotion | [Paper](https://doi.org/10.1109/IROS47612.2022.9981041) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981041) | needs-review |
 | 2022 | Rapid locomotion via reinforcement learning | RSS · Locomotion | [Paper](https://arxiv.org/pdf/2205.02824) · [Publisher](https://doi.org/10.1177/02783649231224053) | needs-review |
 
-## Recent arXiv papers (539)
+## Recent arXiv papers (538)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-13 | Reusing Locomotion Training Recipes Across Humanoids via Body-Aligned Virtual Joints | Sol Choi, Mingon Kim, Seokin Seo, Jongeun Choi et al. | [Abstract](https://arxiv.org/abs/2611.18003) · [PDF](https://arxiv.org/pdf/2611.18003) | needs-review |
 | 2026-11-11 | Can I join you? Extended Social Force Based Model with Predictive Control and Barrier Functions for Humanoid Group Repositioning Amidst Obstacles | Chuxuan Zhang, Niloofar Jahanshahi, Yasaman Etesam, Mo Chen et al. | [Abstract](https://arxiv.org/abs/2611.14853) · [PDF](https://arxiv.org/pdf/2611.14853) | needs-review |
 | 2026-11-09 | AHEADance: Anticipatory Humanoid Dance from Streaming Audio | Tianhu Peng, Yukun Wang, Lingfan Bao, Yiyang Jia et al. | [Abstract](https://arxiv.org/abs/2611.13370) · [PDF](https://arxiv.org/pdf/2611.13370) | needs-review |
 | 2026-11-06 | STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards | Nico Bohlinger, Jan Peters | [Abstract](https://arxiv.org/abs/2611.08857) · [PDF](https://arxiv.org/pdf/2611.08857) | needs-review |
@@ -731,8 +732,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-07 | PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction | Yinhuai Wang, Jing Lin, Ailing Zeng, Zhengyi Luo et al. | [Abstract](https://arxiv.org/abs/2312.04393) · [PDF](https://arxiv.org/pdf/2312.04393) | needs-review |
 | 2023-12-05 | HARMONIOUS -- Human-like reactive motion control and multimodal perception for humanoid robots | Jakub Rozlivek, Alessandro Roncone, Ugo Pattacini, Matej Hoffmann | [Abstract](https://arxiv.org/abs/2312.02711) · [PDF](https://arxiv.org/pdf/2312.02711) | needs-review |
 | 2023-11-30 | Whole-body Dynamic Collision Avoidance with Time-varying Control Barrier Functions | Jihao Huang, Xuemin Chi, Zhitao Liu, Hongye Su | [Abstract](https://arxiv.org/abs/2311.18212) · [PDF](https://arxiv.org/pdf/2311.18212) | needs-review |
-| 2023-11-14 | Self-Contained Calibration of an Elastic Humanoid Upper Body Using Only a Head-Mounted RGB Camera | Johannes Tenhumberg, Dominik Winkelbauer, Darius Burschka, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2311.08338) · [PDF](https://arxiv.org/pdf/2311.08338) | needs-review |
-| 2023-11-14 | Calibration of an Elastic Humanoid Upper Body and Efficient Compensation for Motion Planning | Johannes Tenhumberg, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2311.08333) · [PDF](https://arxiv.org/pdf/2311.08333) | needs-review |
 
 ---
 

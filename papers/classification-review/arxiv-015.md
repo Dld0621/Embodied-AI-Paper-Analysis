@@ -1,13 +1,18 @@
 # arxiv classification review · 2801–3000
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
+| [Embodied Co-Design for Rapidly Evolving Agents: Taxonomy, Frontiers, and Challenges](https://arxiv.org/abs/2512.04770) | 2025 · arxiv | 暂定二级 / provisional: Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | fallback; fallback |
+| [Embodied Hazard Mitigation using Vision-Language Models for Autonomous Mobile Robots](https://arxiv.org/abs/2509.06768) | 2025 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
+| [Embodied Intelligence for Flexible Manufacturing: A Survey](https://arxiv.org/abs/2602.06966) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | fallback; fallback |
+| [Embodied Intelligence in Disassembly: Multimodal Perception Cross-validation and Continual Learning in Neuro-Symbolic TAMP](https://arxiv.org/abs/2509.11270) | 2025 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
+| [Embodied multi-modal sensing with a soft modular arm powered by physical reservoir computing](https://arxiv.org/abs/2503.06733) | 2025 · arxiv | 暂定二级 / provisional: Robot Hardware & Systems → Mechanisms & Actuation → Pending specialty review | title:hardware or deployment contribution; fallback |
 | [Embodied Navigation with Auxiliary Task of Action Description Prediction](https://arxiv.org/abs/2510.21809) | 2025 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
 | [Embodied Robot Manipulation in the Era of Foundation Models: Planning and Learning Perspectives](https://arxiv.org/abs/2512.22983) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Embodied Tactile Perception of Soft Objects Properties](https://arxiv.org/abs/2508.09836) | 2025 · arxiv | Perception, Representation & State Estimation → Tactile & Multimodal Perception → Pending specialty review | title:perception or state; title:tactile |
@@ -203,8 +208,3 @@
 | [GRASPLAT: Enabling dexterous grasping through novel view synthesis](https://arxiv.org/abs/2510.19200) | 2025 · arxiv | Dexterous Hands, Retargeting & Teleoperation → Multifinger Grasping & Control → Pending specialty review | title:dexterous hands or teleoperation; title:dexterous grasping |
 | [GraspQP: Differentiable Optimization of Force Closure for Diverse and Robust Dexterous Grasping](https://arxiv.org/abs/2508.15002) | 2025 · arxiv | Dexterous Hands, Retargeting & Teleoperation → Multifinger Grasping & Control → Pending specialty review | title:dexterous hands or teleoperation; title:dexterous grasping |
 | [GraspView: Active Perception Scoring and Best-View Optimization for Robotic Grasping in Cluttered Environments](https://arxiv.org/abs/2511.04199) | 2025 · arxiv | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasping |
-| [GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data](https://arxiv.org/abs/2505.03233) | 2025 · arxiv | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasping |
-| [Gray-Box Computed Torque Control for Differential-Drive Mobile Robot Tracking](https://arxiv.org/abs/2509.00571) | 2025 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
-| [GreenhouseSplat: A Dataset of Photorealistic Greenhouse Simulations for Mobile Robotics](https://arxiv.org/abs/2510.01848) | 2025 · arxiv | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:dataset |
-| [GRIM: Task-Oriented Grasping with Conditioning on Generative Examples](https://arxiv.org/abs/2506.15607) | 2025 · arxiv | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasping |
-| [GRIP: A General Robotic Incremental Potential Contact Simulation Dataset for Unified Deformable-Rigid Coupled Grasping](https://arxiv.org/abs/2503.05020) | 2025 · arxiv | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:dataset |

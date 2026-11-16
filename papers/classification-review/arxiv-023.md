@@ -1,13 +1,18 @@
 # arxiv classification review · 4401–4600
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
+| [Deep-Learning Estimation of Weight Distribution Using Joint Kinematics for Lower-Limb Exoskeleton Control](https://arxiv.org/abs/2402.04180) | 2024 · arxiv | Robot Hardware & Systems → Sensors & Human Interfaces → Pending specialty review | title:hardware or deployment contribution; title:exoskeleton |
+| [DeepKalPose: An Enhanced Deep-Learning Kalman Filter for Temporally Consistent Monocular Vehicle Pose Estimation](https://arxiv.org/abs/2404.16558) | 2024 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
+| [DEF-oriCORN: efficient 3D scene understanding for robust language-directed manipulation without demonstrations](https://arxiv.org/abs/2407.21267) | 2024 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
+| [DeliGrasp: Inferring Object Properties with LLMs for Adaptive Grasp Policies](https://arxiv.org/abs/2403.07832) | 2024 · arxiv | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasp |
+| [DEMO: A Dynamics-Enhanced Learning Model for Multi-Horizon Trajectory Prediction in Autonomous Vehicles](https://arxiv.org/abs/2412.20784) | 2024 · arxiv | 暂定二级 / provisional: Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | fallback; fallback |
 | [Demonstrating a Robust Walking Algorithm for Underactuated Bipedal Robots in Non-flat, Non-stationary Environments](https://arxiv.org/abs/2403.02486) | 2024 · arxiv | 暂定二级 / provisional: Robot Hardware & Systems → Mechanisms & Actuation → Pending specialty review | title:hardware or deployment contribution; fallback |
 | [Demonstrating Data-to-Knowledge Pipelines for Connecting Production Sites in the World Wide Lab](https://arxiv.org/abs/2412.12231) | 2024 · arxiv | 暂定二级 / provisional: Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | fallback; fallback |
 | [Demonstration Based Explainable AI for Learning from Demonstration Methods](https://arxiv.org/abs/2410.05715) | 2024 · arxiv | Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | rule:contribution vocabulary; title:learning from demonstration |
@@ -203,8 +208,3 @@
 | [FuncGrasp: Learning Object-Centric Neural Grasp Functions from Single Annotated Example Object](https://arxiv.org/abs/2402.05644) | 2024 · arxiv | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasp |
 | [Functional Eigen-Grasping Using Approach Heatmaps](https://arxiv.org/abs/2401.11681) | 2024 · arxiv | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasping |
 | [FUSE-PnPL: Flexible, Unified, Statistically Consistent, and Asymptotically Efficient Camera Pose Estimation from Points and Lines](https://arxiv.org/abs/2407.16151) | 2024 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
-| [Fusion Dynamical Systems with Machine Learning in Imitation Learning: A Comprehensive Overview](https://arxiv.org/abs/2403.19916) | 2024 · arxiv | Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | rule:contribution vocabulary; title:imitation learning |
-| [FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments](https://arxiv.org/abs/2404.08563) | 2024 · arxiv | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:dataset |
-| [Future Success Prediction in Open-Vocabulary Object Manipulation Tasks Based on End-Effector Trajectories](https://arxiv.org/abs/2412.19112) | 2024 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
-| [Fuzzy Logic Control for Indoor Navigation of Mobile Robots](https://arxiv.org/abs/2409.02437) | 2024 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
-| [Fuzzy Logic Controller Design for Mobile Robot Outdoor Navigation](https://arxiv.org/abs/2401.01756) | 2024 · arxiv | 暂定二级 / provisional: Robot Hardware & Systems → Mechanisms & Actuation → Pending specialty review | title:hardware or deployment contribution; fallback |

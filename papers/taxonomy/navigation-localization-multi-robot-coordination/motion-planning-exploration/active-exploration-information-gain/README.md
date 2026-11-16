@@ -1,7 +1,7 @@
 # Active Exploration & Information Gain · 主动探索与信息增益
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Motion%20Planning%20%26%20Exploration&specialty=Active%20Exploration%20%26%20Information%20Gain#research-workbench)
@@ -184,6 +184,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-13 | Envisioning Agentic Robotics: A New Era of Robotic Systems | Grid Robotics, :, Qingfeng Lan, Duo Li et al. | [Abstract](https://arxiv.org/abs/2611.18359) · [PDF](https://arxiv.org/pdf/2611.18359) | rule-assigned |
 | 2026-11-12 | Reins: Frontier Multimodal Models Driving Real Robot Arms on Long-Horizon Tasks, Zero-Shot | Pengfei Ye, Zhiyang Dou, Yuxiang Ma, Haonan Chen et al. | [Abstract](https://arxiv.org/abs/2611.16632) · [PDF](https://arxiv.org/pdf/2611.16632) | rule-assigned |
 | 2026-11-09 | Learning Contextual Motion Constraints for Object Rearrangement Exploration | Lexing Zhang, Zeyu Zhang, Gang Zeng, Hangxin Liu | [Abstract](https://arxiv.org/abs/2611.12072) · [PDF](https://arxiv.org/pdf/2611.12072) | rule-assigned |
 | 2026-11-09 | Large Language Model Explainability for Planning Lunar Rover Trajectories under Uncertainty | Michelle Ho, Maximilian Adang, Zachary Booth, David E. Astle et al. | [Abstract](https://arxiv.org/abs/2611.13292) · [PDF](https://arxiv.org/pdf/2611.13292) | rule-assigned |
@@ -793,7 +794,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-22 | Revolutionizing Underwater Exploration of Autonomous Underwater Vehicles (AUVs) and Seabed Image Processing Techniques | Rajesh Sharma R, Akey Sungheetha, Dr Chinnaiyan R | [Abstract](https://arxiv.org/abs/2402.00004) · [PDF](https://arxiv.org/pdf/2402.00004) | rule-assigned |
 | 2023-11-21 | Autonomous Exploration of Unknown 3D Environments Using a Frontier-Based Collector Strategy | Ivan D. Changoluisa Caiza, Ana Milas, Marco A. Montes Grova, Francisco Javier Perez-Grau et al. | [Abstract](https://arxiv.org/abs/2311.12408) · [PDF](https://arxiv.org/pdf/2311.12408) | rule-assigned |
 | 2023-11-19 | Demonstrating HOUND: A Low-cost Research Platform for High-speed Off-road Underactuated Nonholonomic Driving | Sidharth Talia, Matt Schmittle, Alexander Lambert, Alexander Spitzer et al. | [Abstract](https://arxiv.org/abs/2311.11199) · [PDF](https://arxiv.org/pdf/2311.11199) | rule-assigned |
-| 2023-11-15 | A novel concept for Titan robotic exploration based on soft morphing aerial robots | Fernando Ruiz, Begona Arrue, Anibal Ollero | [Abstract](https://arxiv.org/abs/2311.08952) · [PDF](https://arxiv.org/pdf/2311.08952) | rule-assigned |
 
 ---
 

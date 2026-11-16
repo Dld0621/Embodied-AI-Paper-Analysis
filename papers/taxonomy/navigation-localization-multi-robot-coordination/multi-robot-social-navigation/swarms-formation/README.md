@@ -1,7 +1,7 @@
 # Swarms & Formation · 群体与编队
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Multi-robot%20%26%20Social%20Navigation&specialty=Swarms%20%26%20Formation#research-workbench)

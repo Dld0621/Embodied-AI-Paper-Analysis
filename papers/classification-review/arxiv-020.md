@@ -1,13 +1,18 @@
 # arxiv classification review · 3801–4000
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
+| [Synthesis of Deep Neural Networks with Safe Robust Adaptive Control for Reliable Operation of Wheeled Mobile Robots](https://arxiv.org/abs/2508.10634) | 2025 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
+| [Synthetic Data Pipelines for Adaptive, Mission-Ready Militarized Humanoids](https://arxiv.org/abs/2512.14411) | 2025 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
+| [Synthetic Enclosed Echoes: A New Dataset to Mitigate the Gap Between Simulated and Real-World Sonar Data](https://arxiv.org/abs/2505.15465) | 2025 · arxiv | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:dataset |
+| [Synthetic vs. Real Training Data for Visual Navigation](https://arxiv.org/abs/2509.11791) | 2025 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
+| [Systematic Constraint Formulation and Collision-Free Trajectory Planning Using Space-Time Graphs of Convex Sets](https://arxiv.org/abs/2508.10203) | 2025 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
 | [T(R,O) Grasp: Efficient Graph Diffusion of Robot-Object Spatial Transformation for Cross-Embodiment Dexterous Grasping](https://arxiv.org/abs/2510.12724) | 2025 · arxiv | Dexterous Hands, Retargeting & Teleoperation → Multifinger Grasping & Control → Pending specialty review | title:dexterous hands or teleoperation; title:dexterous grasping |
 | [T-ESKF: Transformed Error-State Kalman Filter for Consistent Visual-Inertial Navigation](https://arxiv.org/abs/2510.23359) | 2025 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
 | [T-Rex: Task-Adaptive Spatial Representation Extraction for Robotic Manipulation with Vision-Language Models](https://arxiv.org/abs/2506.19498) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
@@ -203,8 +208,3 @@
 | [Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](https://arxiv.org/abs/2508.02338) | 2025 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
 | [Vision-Guided Loco-Manipulation with a Snake Robot](https://arxiv.org/abs/2503.18308) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Vision-Guided Optic Flow Navigation for Small Lunar Missions](https://arxiv.org/abs/2511.17720) | 2025 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
-| [Vision-Guided Targeted Grasping and Vibration for Robotic Pollination in Controlled Environments](https://arxiv.org/abs/2510.06146) | 2025 · arxiv | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasping |
-| [Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation](https://arxiv.org/abs/2504.05225) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
-| [Vision-Language Models for Infrared Industrial Sensing in Additive Manufacturing Scene Description](https://arxiv.org/abs/2512.11098) | 2025 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
-| [ViT-VS: On the Applicability of Pretrained Vision Transformer Features for Generalizable Visual Servoing](https://arxiv.org/abs/2503.04545) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | fallback; fallback |
-| [ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation](https://arxiv.org/abs/2506.15953) | 2025 · arxiv | 暂定二级 / provisional: Dexterous Hands, Retargeting & Teleoperation → Multifinger Grasping & Control → Pending specialty review | title:dexterous hands or teleoperation; fallback |

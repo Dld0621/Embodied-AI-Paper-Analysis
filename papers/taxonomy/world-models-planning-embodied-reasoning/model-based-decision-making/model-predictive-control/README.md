@@ -1,12 +1,12 @@
 # Model Predictive Control · 模型预测控制
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Model-based%20Decision%20Making&specialty=Model%20Predictive%20Control#research-workbench)
 
-> 11 conference papers · 302 recent arXiv papers
+> 11 conference papers · 303 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -36,10 +36,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Nonlinear Model Predictive Control with Cost Function Scheduling for a Wheeled Mobile Robot | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981066) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981066) | rule-assigned |
 | 2022 | SMS-MPC: Adversarial Learning-based Simultaneous Prediction Control with Single Model for Mobile Robots | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS47612.2022.9981289) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981289) | rule-assigned |
 
-## Recent arXiv papers (302)
+## Recent arXiv papers (303)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-13 | Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation | Zihao Lu, Trong Gia Hung Nguyen, Fuquan Wang, Yifan Zhu | [Abstract](https://arxiv.org/abs/2611.18298) · [PDF](https://arxiv.org/pdf/2611.18298) | reviewed |
 | 2026-11-12 | An Integrated Architecture for Data-Efficient Real-Time Neural Imitation of Nonlinear Time-Optimal Model Predictive Control | Maarten De Baecke, Flavia Sofia Acerbo, Andrea Giusti, Wilm Decré | [Abstract](https://arxiv.org/abs/2611.17005) · [PDF](https://arxiv.org/pdf/2611.17005) | rule-assigned |
 | 2026-11-10 | FAME-QP: A GPU-Accelerated Quadratic-Programming Solver for Real-Time Model Predictive Control | Santosh Mohan Rajkumar, Debdipta Goswami, Stephanie Stockar | [Abstract](https://arxiv.org/abs/2611.13766) · [PDF](https://arxiv.org/pdf/2611.13766) | rule-assigned |
 | 2026-11-09 | Data-Driven Precision Control of Soft Helicoid Robots | Roshan S. Kaundinya, Mark Leone, Roberto Sabella, Hugo Buurmeijer et al. | [Abstract](https://arxiv.org/abs/2611.11709) · [PDF](https://arxiv.org/pdf/2611.11709) | rule-assigned |

@@ -1,12 +1,12 @@
 # Vision-Language Navigation · 视觉语言导航
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Goal%20%26%20Language%20Navigation&specialty=Vision-Language%20Navigation#research-workbench)
 
-> 37 conference papers · 272 recent arXiv papers
+> 37 conference papers · 273 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -62,10 +62,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Depth-Aware Vision-and-Language Navigation using Scene Query Attention Network | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9811921) · [Publisher](https://doi.org/10.1109/icra46639.2022.9811921) | rule-assigned |
 | 2022 | Weakly-Supervised Multi-Granularity Map Learning for Vision-and-Language Navigation | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.07506) · [Index](https://dblp.org/rec/conf/nips/ChenJLZLTG22) | rule-assigned |
 
-## Recent arXiv papers (272)
+## Recent arXiv papers (273)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | Racing the Clock: Teaching VLNs Budget-Conditioned Object Search | Maitree Meher, Siming He, S. Shankar Sastry, Jitendra Malik et al. | [Abstract](https://arxiv.org/abs/2611.17442) · [PDF](https://arxiv.org/pdf/2611.17442) | rule-assigned |
 | 2026-11-12 | ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation | Guangyuan Sui, Yunzhong Hou, Chi Harold Liu | [Abstract](https://arxiv.org/abs/2611.17330) · [PDF](https://arxiv.org/pdf/2611.17330) | rule-assigned |
 | 2026-11-07 | CPNav: Calibrated Vision-Language Navigation for Object-Goal Search in Unseen Environments | Qizhao Chen, Yuanhong Zeng, Shoh Nishino, Anushri Dixit | [Abstract](https://arxiv.org/abs/2611.10366) · [PDF](https://arxiv.org/pdf/2611.10366) | rule-assigned |
 | 2026-11-03 | WayTrace: A Map-to-Language-to-Trace Hierarchy for Embodied Urban Navigation | Manthan Patel, Jonas Frey, Pascal Roth, Marco Hutter et al. | [Abstract](https://arxiv.org/abs/2611.05129) · [PDF](https://arxiv.org/pdf/2611.05129) | rule-assigned |

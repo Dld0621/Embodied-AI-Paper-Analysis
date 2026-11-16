@@ -1,12 +1,12 @@
 # Failure Detection & Replanning · 失败检测、纠错与重规划
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=World%20Models%2C%20Planning%20%26%20Embodied%20Reasoning&subcategory=Memory%20%26%20Autonomous%20Execution&specialty=Failure%20Detection%20%26%20Replanning#research-workbench)
 
-> 11 conference papers · 166 recent arXiv papers
+> 11 conference papers · 165 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -36,7 +36,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots | IROS · Llm | [Paper](https://arxiv.org/pdf/2507.05118) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246320) | rule-assigned |
 | 2023 | BITS: Bi-level Imitation for Traffic Simulation | ICRA · Simulation | [Paper](https://arxiv.org/pdf/2208.12403) · [Publisher](https://doi.org/10.1109/ICRA48891.2023.10161167) | rule-assigned |
 
-## Recent arXiv papers (166)
+## Recent arXiv papers (165)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -205,7 +205,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-02-06 | Mission Planning and Safety Assessment for Pipeline Inspection Using Autonomous Underwater Vehicles: A Framework based on Behavior Trees | Martin Aubard, Sergio Quijano, Olaya Álvarez-Tuñón, László Antal et al. | [Abstract](https://arxiv.org/abs/2402.04045) · [PDF](https://arxiv.org/pdf/2402.04045) | rule-assigned |
 | 2024-01-24 | Towards an Autonomous Compost Turner: Current State of Research | Max Cichocki, Eva Reitbauer, Fabian Theurl, Christoph Schmied | [Abstract](https://arxiv.org/abs/2401.13493) · [PDF](https://arxiv.org/pdf/2401.13493) | rule-assigned |
 | 2023-11-30 | OpenMORE: an open-source tool for sampling-based path replanning in ROS | Cesare Tonola, Manuel Beschi, Marco Faroni, Nicola Pedrocchi | [Abstract](https://arxiv.org/abs/2311.18406) · [PDF](https://arxiv.org/pdf/2311.18406) | rule-assigned |
-| 2023-11-13 | Testing learning-enabled cyber-physical systems with Large-Language Models: A Formal Approach | Xi Zheng, Aloysius K. Mok, Ruzica Piskac, Yong Jae Lee et al. | [Abstract](https://arxiv.org/abs/2311.07377) · [PDF](https://arxiv.org/pdf/2311.07377) | rule-assigned |
 
 ---
 

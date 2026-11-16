@@ -1,15 +1,16 @@
 # Pending specialty review · 待审专题 · arXiv 2026
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 652 papers · complete list for this taxonomy leaf
+> 653 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-13 | When Will You Hand It Over? A Hidden Start Delay Makes Self-Play Handover Robust to Unfamiliar Partners | Mohammad Khoshnazar, Mike Degany, Deyuan Qu, Qing Yang et al. | [Abstract](https://arxiv.org/abs/2611.18491) · [PDF](https://arxiv.org/pdf/2611.18491) | needs-review |
 | 2026-11-12 | Input-output characterization of robotic grasping: Connecting design parameters to grasp behavior through the admittance | Julien Vanderheyden, Guillaume Drion, Pierre Sacré, Fulvio Forni | [Abstract](https://arxiv.org/abs/2611.16507) · [PDF](https://arxiv.org/pdf/2611.16507) | needs-review |
 | 2026-11-12 | EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming | Yaru Niu, Binghong Chen, Changwei Yao, Shangtao Li et al. | [Abstract](https://arxiv.org/abs/2611.16728) · [PDF](https://arxiv.org/pdf/2611.16728) | needs-review |
 | 2026-11-11 | Video-Action Models for Data-Efficient Industrial Manipulation | Eugenio Chisari, Stefanos Charalambous, Oliver Sanchez, Thomas Umbach et al. | [Abstract](https://arxiv.org/abs/2611.15974) · [PDF](https://arxiv.org/pdf/2611.15974) | needs-review |

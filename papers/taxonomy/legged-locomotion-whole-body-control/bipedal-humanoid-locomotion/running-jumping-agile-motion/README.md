@@ -1,7 +1,7 @@
 # Running, Jumping & Agile Motion · 跑跳与敏捷运动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Running%2C%20Jumping%20%26%20Agile%20Motion#research-workbench)

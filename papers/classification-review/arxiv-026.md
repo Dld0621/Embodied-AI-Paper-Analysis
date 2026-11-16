@@ -1,13 +1,18 @@
 # arxiv classification review · 5001–5200
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
+| [On-the-Go Tree Detection and Geometric Traits Estimation with Ground Mobile Robots in Fruit Tree Groves](https://arxiv.org/abs/2404.02516) | 2024 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
+| [One Filter to Deploy Them All: Robust Safety for Quadrupedal Navigation in Unknown Environments](https://arxiv.org/abs/2412.09989) | 2024 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
+| [One to rule them all: natural language to bind communication, perception and action](https://arxiv.org/abs/2411.15033) | 2024 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
+| [One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation](https://arxiv.org/abs/2405.13178) | 2024 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
+| [One-Shot Manipulation Strategy Learning by Making Contact Analogies](https://arxiv.org/abs/2411.09627) | 2024 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [One-Shot Robust Imitation Learning for Long-Horizon Visuomotor Tasks from Unsegmented Demonstrations](https://arxiv.org/abs/2410.01630) | 2024 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | fallback; fallback |
 | [Online Adaptation of Learned Vehicle Dynamics Model with Meta-Learning Approach](https://arxiv.org/abs/2409.14950) | 2024 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | fallback; fallback |
 | [Online Foundation Model Selection in Robotics](https://arxiv.org/abs/2402.08570) | 2024 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
@@ -203,8 +208,3 @@
 | [S-RAF: A Simulation-Based Robustness Assessment Framework for Responsible Autonomous Driving](https://arxiv.org/abs/2408.08584) | 2024 · arxiv | 暂定二级 / provisional: Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | fallback; fallback |
 | [S2O: An Integrated Driving Decision-making Performance Evaluation Method Bridging Subjective Feeling to Objective Evaluation](https://arxiv.org/abs/2409.14680) | 2024 · arxiv | 暂定二级 / provisional: Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | fallback; fallback |
 | [Safe Adaptive Cruise Control Under Perception Uncertainty: A Deep Ensemble and Conformal Tube Model Predictive Control Approach](https://arxiv.org/abs/2412.03792) | 2024 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
-| [Safe Leaf Manipulation for Accurate Shape and Pose Estimation of Occluded Fruits](https://arxiv.org/abs/2409.17389) | 2024 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
-| [Safe Learning of Locomotion Skills from MPC](https://arxiv.org/abs/2407.11673) | 2024 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
-| [Safe Low-Altitude Navigation in Steep Terrain with Fixed-Wing Aerial Vehicles](https://arxiv.org/abs/2401.04831) | 2024 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
-| [Safe Navigation in Dynamic Environments using Density Functions](https://arxiv.org/abs/2411.12206) | 2024 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
-| [Safe Navigation in Unmapped Environments for Robotic Systems with Input Constraints](https://arxiv.org/abs/2410.02106) | 2024 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |

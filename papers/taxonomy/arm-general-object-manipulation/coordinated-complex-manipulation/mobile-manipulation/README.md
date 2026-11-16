@@ -1,7 +1,7 @@
 # Mobile Manipulation · 移动操作
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Coordinated%20%26%20Complex%20Manipulation&specialty=Mobile%20Manipulation#research-workbench)
@@ -125,7 +125,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-06-18 | Duet: Dual-Robot Understanding via Efficient Teaching | Yiqi Zhao, Ruohai Ge, Celina Shiyu Wang, Junjie Ye et al. | [Abstract](https://arxiv.org/abs/2606.20990) · [PDF](https://arxiv.org/pdf/2606.20990) | rule-assigned |
 | 2026-06-17 | A Scalable Embodied Intelligence Platform for Seamless Real-to-Sim-to-Real Transfer of Household Mobile Manipulation Tasks | Kui Yang, Xianlei Long, Haoxuan Li, Yan Ding et al. | [Abstract](https://arxiv.org/abs/2606.18646) · [PDF](https://arxiv.org/pdf/2606.18646) | rule-assigned |
 | 2026-06-16 | EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies | Ning Gao, Jinliang Zheng, Xing Gao, Haoxiang Ma et al. | [Abstract](https://arxiv.org/abs/2606.18239) · [PDF](https://arxiv.org/pdf/2606.18239) | rule-assigned |
-| 2026-06-15 | Robots that Collaborate: Sequential Asymmetric Imitation for Learning Coupled Robot Policies | Yincong Chen, Ranpeng Qiu, Zihao Li, Yanan Zhou et al. | [Abstract](https://arxiv.org/abs/2606.16490) · [PDF](https://arxiv.org/pdf/2606.16490) | rule-assigned |
+| 2026-06-15 | Robots that Collaborate: Sequential Asymmetric Imitation for Learning Coupled Robot Policies | Ranpeng Qiu, Yincong Chen, Zihao Li, Yanan Zhou et al. | [Abstract](https://arxiv.org/abs/2606.16490) · [PDF](https://arxiv.org/pdf/2606.16490) | rule-assigned |
 | 2026-06-11 | SERF: Spatiotemporal Environment and Robot Feature Map for Long-Horizon Mobile Manipulation | Sunghwan Kim, Byeonghyun Pak, Kehan Long, Yulun Tian et al. | [Abstract](https://arxiv.org/abs/2606.12956) · [PDF](https://arxiv.org/pdf/2606.12956) | rule-assigned |
 | 2026-06-11 | GeoHAT: Geometry-Adaptive Hybrid Action Transformer for Mobile Manipulation | Xiangyu Zhu, Renjun Wu, Luzhou Ge, Jinyan Liu et al. | [Abstract](https://arxiv.org/abs/2606.13394) · [PDF](https://arxiv.org/pdf/2606.13394) | rule-assigned |
 | 2026-06-07 | Personalized and Robust Proactive Robot Assistance with Uncertainty-Guided LLM Reasoning | Alvaro Gonzalez, M. H. Hasan Shovo, Ali Ayub | [Abstract](https://arxiv.org/abs/2606.08458) · [PDF](https://arxiv.org/pdf/2606.08458) | rule-assigned |

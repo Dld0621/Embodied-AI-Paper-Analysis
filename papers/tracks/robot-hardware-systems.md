@@ -1,7 +1,7 @@
 # Robot Hardware & Systems · 机器人硬件与系统
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Conference census](../README.md)
@@ -18,7 +18,7 @@ What is the primary contribution to robot hardware & systems?
 
 **Venues:** CoRL · ICCV · ICLR · ICML · ICRA · IROS · RSS
 
-**Recent arXiv layer:** [1,144 papers from 2023-11-13–2026-11-13](../arxiv/robot-hardware-systems/README.md)
+**Recent arXiv layer:** [1,144 papers from 2023-11-16–2026-11-16](../arxiv/robot-hardware-systems/README.md)
 
 ## Subfield map · 二级子领域
 

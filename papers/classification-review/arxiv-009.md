@@ -1,13 +1,16 @@
 # arxiv classification review · 1601–1800
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
+| [ReCAT: Remember, Count, and Time: Structured Recurrent Memory for Robot Manipulation](https://arxiv.org/abs/2609.35200) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
+| [Receiver-Centered Robot-to-Human Handover with Grasp-Aware Object Orientation](https://arxiv.org/abs/2607.17839) | 2026 · arxiv | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasp |
+| [Reconstruction and Discrete-Event Simulation Assessment of an Analytical](https://arxiv.org/abs/2610.25967) | 2026 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
 | [Reconstruction-Augmented Visuomotor Pre-Training of 3D-Grounded Bimanual Dexterity from RGB-Only Human Videos](https://arxiv.org/abs/2610.29716) | 2026 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
 | [Recova: Agent-Guided Failure Recovery for Autonomous Robotic Manipulation](https://arxiv.org/abs/2610.01178) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [RecoverFormer: End-to-End Contact-Aware Recovery for Humanoid Robots](https://arxiv.org/abs/2604.22911) | 2026 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
@@ -55,6 +58,7 @@
 | [Rethinking World-Action Model for Compositional and In-Context Robotic Manipulation](https://arxiv.org/abs/2610.02368) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [ReTouch: Empowering Contact-Rich Dexterous Manipulation with Online-Refined Tactile Prediction](https://arxiv.org/abs/2608.01824) | 2026 · arxiv | 暂定二级 / provisional: Dexterous Hands, Retargeting & Teleoperation → Multifinger Grasping & Control → Pending specialty review | title:dexterous hands or teleoperation; fallback |
 | [RetroNav: Scene-Grounded Retrospection and Retry for Self-Evolving Lifelong Navigation](https://arxiv.org/abs/2610.35172) | 2026 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
+| [Reusing Locomotion Training Recipes Across Humanoids via Body-Aligned Virtual Joints](https://arxiv.org/abs/2611.18003) | 2026 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
 | [Revisiting Articulated Parts Perception in Robot Manipulation](https://arxiv.org/abs/2606.08103) | 2026 · arxiv | Arm & General Object Manipulation → Contact-rich Manipulation → Pending specialty review | title:object manipulation; title:articulated |
 | [Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation](https://arxiv.org/abs/2606.03784) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Revisiting the "Push-T" Robot Manipulation Task with Agentic Robotics](https://arxiv.org/abs/2608.18227) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
@@ -204,7 +208,3 @@
 | [Sequential Recovery Updates for Learned Controllers under Successful-Trajectory Preservation](https://arxiv.org/abs/2611.02555) | 2026 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | fallback; fallback |
 | [Series-Parallel Integrated Nonlinear Elastic Actuator applied to the lean motion of a bicycle simulator](https://arxiv.org/abs/2606.00201) | 2026 · arxiv | Data, Simulation & Evaluation → Simulation & Digital Twins → Pending specialty review | title:data or evaluation contribution; title:simulator |
 | [SERNF: Sample-Efficient Real-World Dexterous Policy Fine-Tuning via Action-Chunked Critics and Normalizing Flows](https://arxiv.org/abs/2602.09580) | 2026 · arxiv | 暂定二级 / provisional: Dexterous Hands, Retargeting & Teleoperation → Multifinger Grasping & Control → Pending specialty review | title:dexterous hands or teleoperation; fallback |
-| [SG-CADVLM: A Context-Aware Decoding Powered Vision Language Model for Safety-Critical Scenario Generation](https://arxiv.org/abs/2601.18442) | 2026 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
-| [SG-DOR: Learning Scene Graphs with Direction-Conditioned Occlusion Reasoning for Pepper Plants](https://arxiv.org/abs/2603.06512) | 2026 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | fallback; fallback |
-| [Shades of Success: Evaluating Manipulation Quality from Object-Centric Constraints](https://arxiv.org/abs/2611.01250) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
-| [SHAFT: A Slack-Compensating, Helical-Buckling-Attenuating Flexible-Shaft Transmission for Lightweight Multi-DoF Manipulation](https://arxiv.org/abs/2609.22677) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |

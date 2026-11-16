@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engineering&specialty=Pending%20specialty%20review#research-workbench)
 
-> 126 conference papers · 641 recent arXiv papers
+> 126 conference papers · 642 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -109,7 +109,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | BonnBeetClouds3D: A Dataset Towards Point Cloud-Based Organ-Level Phenotyping of Sugar Beet Plants Under Real Field Conditions | IROS · Dataset | [Paper](https://arxiv.org/abs/2312.14706) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802820) | needs-review |
 | 2024 | Boosting Generalizability towards Zero-Shot Cross-Dataset Single-Image Indoor Depth by Meta-Initialization | IROS · Dataset | [Paper](https://arxiv.org/pdf/2409.02486) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801638) | needs-review |
 | 2024 | DailySTR: A Daily Human Activity Pattern Recognition Dataset for Spatio-temporal Reasoning | IROS · Dataset | [Paper](https://doi.org/10.1109/IROS58592.2024.10802775) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802775) | needs-review |
-| 2024 | Exploring 3D Human Pose Estimation and Forecasting from the Robot’s Perspective: The HARPER Dataset | IROS · Dataset | [Paper](https://eprints.gla.ac.uk/view/author/70436.html>,) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802238) | needs-review |
+| 2024 | Exploring 3D Human Pose Estimation and Forecasting from the Robot’s Perspective: The HARPER Dataset | IROS · Dataset | [Paper](https://eprints.gla.ac.uk/330442/) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802238) | needs-review |
 | 2024 | MultiGripperGrasp: A Dataset for Robotic Grasping from Parallel Jaw Grippers to Dexterous Hands | IROS · Dexterous | [Paper](https://arxiv.org/pdf/2403.09841) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801708) | needs-review |
 | 2024 | NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields | IROS · Dataset | [Paper](https://arxiv.org/pdf/2309.11966) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801449) | needs-review |
 | 2024 | Sharing Attention Mechanism in V-SLAM: Relative Pose Estimation with Messenger Tokens on Small Datasets | IROS · Dataset | [Paper](https://doi.org/10.1109/IROS58592.2024.10801926) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801926) | needs-review |
@@ -151,10 +151,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Realistic Real-Time Simulation of RGB and Depth Sensors for Dynamic Scenarios using Augmented Image Based Rendering | IROS · Simulation | [Paper](https://doi.org/10.1109/IROS47612.2022.9982014) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982014) | needs-review |
 | 2022 | FlyView: a bio-informed optical flow truth dataset for visual navigation using panoramic stereo vision | NeurIPS · Navigation | [Paper](https://doi.org/10.52202/068431-2038) · [Publisher](https://doi.org/10.52202/068431-2038) | needs-review |
 
-## Recent arXiv papers (641)
+## Recent arXiv papers (642)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-13 | From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration | Ivana Ragusa, Lorenzo Guiducci, Filippo Cavallo | [Abstract](https://arxiv.org/abs/2611.18484) · [PDF](https://arxiv.org/pdf/2611.18484) | needs-review |
 | 2026-11-12 | HALO: Human-Aligned Data Collection for WhoLe-body MObile Manipulation | Shuai Yang, Fangyi Xu, Yishu Shen, Kecheng Zheng et al. | [Abstract](https://arxiv.org/abs/2611.16439) · [PDF](https://arxiv.org/pdf/2611.16439) | needs-review |
 | 2026-11-11 | SPARC: RoboCup Standard Platform for Autonomous Rescue Competition with Initial Datasets, Software, and Simulation Environments | Yuezhong Wang, Bichi Zhang, Zhongli Yin, Pingcong Li et al. | [Abstract](https://arxiv.org/abs/2611.15443) · [PDF](https://arxiv.org/pdf/2611.15443) | needs-review |
 | 2026-11-11 | Robo-SWE: An Executable Issue-Resolution Dataset Mined from Robot Software Repositories | Vahid Haratian, Vahid Ansari, Mohammadhossein Malmir, Alois Knoll | [Abstract](https://arxiv.org/abs/2611.16116) · [PDF](https://arxiv.org/pdf/2611.16116) | needs-review |

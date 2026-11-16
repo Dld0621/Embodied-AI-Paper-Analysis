@@ -1,12 +1,12 @@
 # Insertion & Assembly · 插入与装配
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Contact-rich%20Manipulation&specialty=Insertion%20%26%20Assembly#research-workbench)
 
-> 126 conference papers · 371 recent arXiv papers
+> 126 conference papers · 370 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -151,7 +151,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Tactile-Sensitive NewtonianVAE for High-Accuracy Industrial Connector Insertion | IROS · Tactile | [Paper](https://arxiv.org/pdf/2203.05955) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981610) | rule-assigned |
 | 2022 | Factory: Fast Contact for Robotic Assembly | RSS · Assembly | [Paper](https://arxiv.org/abs/2205.03532) · [Index](https://dblp.org/rec/journals/corr/abs-2205-03532) | rule-assigned |
 
-## Recent arXiv papers (371)
+## Recent arXiv papers (370)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -525,7 +525,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-02 | STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics | Lehong Wang, Savita V. Kendre, Haotian Liu, Markus P. Nemitz | [Abstract](https://arxiv.org/abs/2312.01130) · [PDF](https://arxiv.org/pdf/2312.01130) | rule-assigned |
 | 2023-11-30 | CLS-CAD: Synthesizing CAD Assemblies in Fusion 360 | Constantin Chaumet, Jakob Rehof | [Abstract](https://arxiv.org/abs/2311.18492) · [PDF](https://arxiv.org/pdf/2311.18492) | rule-assigned |
 | 2023-11-26 | A Quick Response Algorithm for Dynamic Autonomous Mobile Robot Routing Problem with Time Windows | Lulu Cheng, Ning Zhao, Mengge Yuan, Kan Wu | [Abstract](https://arxiv.org/abs/2311.15302) · [PDF](https://arxiv.org/pdf/2311.15302) | rule-assigned |
-| 2023-11-13 | Bridging the Sim-to-Real Gap with Dynamic Compliance Tuning for Industrial Insertion | Xiang Zhang, Masayoshi Tomizuka, Hui Li | [Abstract](https://arxiv.org/abs/2311.07499) · [PDF](https://arxiv.org/pdf/2311.07499) | rule-assigned |
 
 ---
 

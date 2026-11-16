@@ -1,13 +1,18 @@
 # arxiv classification review · 4801–5000
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
+| [Learning Diffusion Policies from Demonstrations For Compliant Contact-rich Manipulation](https://arxiv.org/abs/2410.19235) | 2024 · arxiv | Arm & General Object Manipulation → Contact-rich Manipulation → Pending specialty review | title:object manipulation; title:contact rich |
+| [Learning dissipative Hamiltonian dynamics with reproducing kernel Hilbert spaces and random Fourier features](https://arxiv.org/abs/2410.18656) | 2024 · arxiv | 暂定二级 / provisional: Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | fallback; fallback |
+| [Learning Distributional Demonstration Spaces for Task-Specific Cross-Pose Estimation](https://arxiv.org/abs/2405.04609) | 2024 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
+| [Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping](https://arxiv.org/abs/2406.15677) | 2024 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
+| [Learning from Demonstration Framework for Multi-Robot Systems Using Interaction Keypoints and Soft Actor-Critic Methods](https://arxiv.org/abs/2404.02324) | 2024 · arxiv | Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | rule:contribution vocabulary; title:learning from demonstration |
 | [Learning from Demonstration with Hierarchical Policy Abstractions Toward High-Performance and Courteous Autonomous Racing](https://arxiv.org/abs/2411.04735) | 2024 · arxiv | Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | rule:contribution vocabulary; title:learning from demonstration |
 | [Learning from Imperfect Demonstrations with Self-Supervision for Robotic Manipulation](https://arxiv.org/abs/2401.08957) | 2024 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Learning Generalizable 3D Manipulation With 10 Demonstrations](https://arxiv.org/abs/2411.10203) | 2024 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
@@ -203,8 +208,3 @@
 | [On the Synthesis of Reactive Collision-Free Whole-Body Robot Motions: A Complementarity-based Approach](https://arxiv.org/abs/2410.22049) | 2024 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
 | [On Time-Indexing as Inductive Bias in Deep RL for Sequential Manipulation Tasks](https://arxiv.org/abs/2401.01993) | 2024 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [On-Road Object Importance Estimation: A New Dataset and A Model with Multi-Fold Top-Down Guidance](https://arxiv.org/abs/2411.17152) | 2024 · arxiv | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:dataset |
-| [On-the-Go Tree Detection and Geometric Traits Estimation with Ground Mobile Robots in Fruit Tree Groves](https://arxiv.org/abs/2404.02516) | 2024 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
-| [One Filter to Deploy Them All: Robust Safety for Quadrupedal Navigation in Unknown Environments](https://arxiv.org/abs/2412.09989) | 2024 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
-| [One to rule them all: natural language to bind communication, perception and action](https://arxiv.org/abs/2411.15033) | 2024 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
-| [One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation](https://arxiv.org/abs/2405.13178) | 2024 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
-| [One-Shot Manipulation Strategy Learning by Making Contact Analogies](https://arxiv.org/abs/2411.09627) | 2024 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |

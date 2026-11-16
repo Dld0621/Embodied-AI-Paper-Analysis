@@ -1,13 +1,18 @@
 # arxiv classification review · 2601–2800
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
+| [Comparison of Forced and Unforced Rendezvous, Proximity Operations, and Docking Under Model Mismatch](https://arxiv.org/abs/2510.13004) | 2025 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
+| [Comparison of Waymo Rider-Only Crash Rates by Crash Type to Human Benchmarks at 56.7 Million Miles](https://arxiv.org/abs/2505.01515) | 2025 · arxiv | Data, Simulation & Evaluation → Benchmarks & Experimental Methods → Pending specialty review | title:data or evaluation contribution; title:benchmarks |
+| [COMPASS: Confined-space Manipulation Planning with Active Sensing Strategy](https://arxiv.org/abs/2509.14787) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
+| [Compose by Focus: Scene Graph-based Atomic Skills](https://arxiv.org/abs/2509.16053) | 2025 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | fallback; fallback |
+| [Computational Onboard Data Management for Heterogeneous Autonomous Vehicle Streams](https://arxiv.org/abs/2511.19453) | 2025 · arxiv | 暂定二级 / provisional: Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | fallback; fallback |
 | [CONCERT: a Modular Reconfigurable Robot for Construction](https://arxiv.org/abs/2504.04998) | 2025 · arxiv | 暂定二级 / provisional: Robot Hardware & Systems → Mechanisms & Actuation → Pending specialty review | title:hardware or deployment contribution; fallback |
 | [Consensus-Driven Uncertainty for Robotic Grasping based on RGB Perception](https://arxiv.org/abs/2506.20045) | 2025 · arxiv | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasping |
 | [Constrained Decoding for Safe Robot Navigation Foundation Models](https://arxiv.org/abs/2509.01728) | 2025 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
@@ -203,8 +208,3 @@
 | [Elevation Aware 2D/3D Co-simulation Framework for Large-scale Traffic Flow and High-fidelity Vehicle Dynamics](https://arxiv.org/abs/2512.11249) | 2025 · arxiv | Data, Simulation & Evaluation → Simulation & Digital Twins → Pending specialty review | title:data or evaluation contribution; title:simulation framework |
 | [ELMUR: External Layer Memory with Update/Rewrite for Long-Horizon RL Problems](https://arxiv.org/abs/2510.07151) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | fallback; fallback |
 | [Embodied AI: From LLMs to World Models](https://arxiv.org/abs/2509.20021) | 2025 · arxiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Pending specialty review | title:prediction or reasoning; title:world models |
-| [Embodied Co-Design for Rapidly Evolving Agents: Taxonomy, Frontiers, and Challenges](https://arxiv.org/abs/2512.04770) | 2025 · arxiv | 暂定二级 / provisional: Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | fallback; fallback |
-| [Embodied Hazard Mitigation using Vision-Language Models for Autonomous Mobile Robots](https://arxiv.org/abs/2509.06768) | 2025 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
-| [Embodied Intelligence for Flexible Manufacturing: A Survey](https://arxiv.org/abs/2602.06966) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | fallback; fallback |
-| [Embodied Intelligence in Disassembly: Multimodal Perception Cross-validation and Continual Learning in Neuro-Symbolic TAMP](https://arxiv.org/abs/2509.11270) | 2025 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
-| [Embodied multi-modal sensing with a soft modular arm powered by physical reservoir computing](https://arxiv.org/abs/2503.06733) | 2025 · arxiv | 暂定二级 / provisional: Robot Hardware & Systems → Mechanisms & Actuation → Pending specialty review | title:hardware or deployment contribution; fallback |

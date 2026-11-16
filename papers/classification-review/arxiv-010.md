@@ -1,13 +1,17 @@
 # arxiv classification review · 1801–2000
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
+| [SG-CADVLM: A Context-Aware Decoding Powered Vision Language Model for Safety-Critical Scenario Generation](https://arxiv.org/abs/2601.18442) | 2026 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
+| [SG-DOR: Learning Scene Graphs with Direction-Conditioned Occlusion Reasoning for Pepper Plants](https://arxiv.org/abs/2603.06512) | 2026 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | fallback; fallback |
+| [Shades of Success: Evaluating Manipulation Quality from Object-Centric Constraints](https://arxiv.org/abs/2611.01250) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
+| [SHAFT: A Slack-Compensating, Helical-Buckling-Attenuating Flexible-Shaft Transmission for Lightweight Multi-DoF Manipulation](https://arxiv.org/abs/2609.22677) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Shake to Learn: Dynamic Interrogation of Hidden Object Physics for Robotic Manipulation with Physical Reservoir Computing](https://arxiv.org/abs/2609.20970) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [ShapeGen: Robotic Data Generation for Category-Level Manipulation](https://arxiv.org/abs/2604.15569) | 2026 · arxiv | Data, Simulation & Evaluation → Synthetic & Augmented Data → Pending specialty review | title:data or evaluation contribution; title:data generation |
 | [ShapeGrasp: Simultaneous Visuo-Haptic Shape Completion and Grasping for Improved Robot Manipulation](https://arxiv.org/abs/2605.02347) | 2026 · arxiv | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasping |
@@ -204,7 +208,3 @@
 | [Temporal Learning for End-Effector Position Estimation under Aerodynamic Disturbances in Aerial Continuum Manipulation](https://arxiv.org/abs/2609.28716) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Temporal Policy: History-Initialized Action Generation for Robotic Learning from Demonstration](https://arxiv.org/abs/2607.29482) | 2026 · arxiv | Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | rule:contribution vocabulary; title:learning from demonstration |
 | [Temporal Self-Imitation Learning](https://arxiv.org/abs/2606.19752) | 2026 · arxiv | Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | rule:contribution vocabulary; title:imitation learning |
-| [Temporally-Sampled Efficiently Adaptive State Lattices for Autonomous Ground Robot Navigation in Partially Observed Environments](https://arxiv.org/abs/2602.13159) | 2026 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
-| [Tempus: A Temporally Scalable Resource-Invariant GEMM Streaming Framework for Versal AI Edge](https://arxiv.org/abs/2605.00536) | 2026 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
-| [Tension Tells the Tail: Cable-Obstacle Interaction Sensing for Tethered Mobile Robot Navigation](https://arxiv.org/abs/2610.24449) | 2026 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
-| [TERRA: Learning Transportable Latent Actions through Temporal Effect Representation and Relational Alignment](https://arxiv.org/abs/2610.09509) | 2026 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |

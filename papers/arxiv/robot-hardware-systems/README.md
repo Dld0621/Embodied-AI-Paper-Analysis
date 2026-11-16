@@ -1,12 +1,12 @@
 # Robot Hardware & Systems · 机器人硬件与系统 · Recent arXiv
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Direction conference catalog](../../tracks/robot-hardware-systems.md) · [All directions](../../README.md)
 
-> 1,144 arXiv papers · 2023-11-13–2026-11-13 · frozen 2026-11-13
+> 1,144 arXiv papers · 2023-11-16–2026-11-16 · frozen 2026-11-16
 
 What is the primary contribution to robot hardware & systems?
 
@@ -32,8 +32,8 @@ What is the primary contribution to robot hardware & systems?
 
 ## Scope · 范围
 
-This direction is the deterministic subset of the 34,545-record arXiv cs.RO census submitted between 2023-11-13 and 2026-11-13. It is a preprint index, not a conference-acceptance list.
+This direction is the deterministic subset of the 34,518-record arXiv cs.RO census submitted between 2023-11-16 and 2026-11-16. It is a preprint index, not a conference-acceptance list.
 
-本方向来自 arXiv cs.RO 近三年 34,545 条候选的确定性分类结果；这是预印本索引，不代表顶会录用。
+本方向来自 arXiv cs.RO 近三年 34,518 条候选的确定性分类结果；这是预印本索引，不代表顶会录用。
 
 Generated from [`data/arxiv_recent.json`](../../../data/arxiv_recent.json) with [`scripts/sync_arxiv_recent.py`](../../../scripts/sync_arxiv_recent.py).

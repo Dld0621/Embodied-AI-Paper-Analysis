@@ -1,12 +1,12 @@
 # Visual, LiDAR & Multisensor SLAM · 视觉／激光／多传感器 SLAM
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Visual%2C%20LiDAR%20%26%20Multisensor%20SLAM#research-workbench)
 
-> 14 conference papers · 563 recent arXiv papers
+> 14 conference papers · 562 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -39,7 +39,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | 3D Lidar Reconstruction with Probabilistic Depth Completion for Robotic Navigation | IROS · Navigation | [Paper](https://ora.ox.ac.uk/objects/uuid:88ae8904-2b4a-422c-9957-556de62ca8a9/files/sqr46r211q) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981531) | rule-assigned |
 | 2022 | Visual Confined-Space Navigation Using an Efficient Learned Bilinear Optic Flow Approximation for Insect-scale Robots | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981585) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981585) | rule-assigned |
 
-## Recent arXiv papers (563)
+## Recent arXiv papers (562)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -605,7 +605,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-19 | Radarize: Enhancing Radar SLAM with Generalizable Doppler-Based Odometry | Emerson Sie, Xinyu Wu, Heyu Guo, Deepak Vasisht | [Abstract](https://arxiv.org/abs/2311.11260) · [PDF](https://arxiv.org/pdf/2311.11260) | rule-assigned |
 | 2023-11-18 | SNI-SLAM: Semantic Neural Implicit SLAM | Siting Zhu, Guangming Wang, Hermann Blum, Jiuming Liu et al. | [Abstract](https://arxiv.org/abs/2311.11016) · [PDF](https://arxiv.org/pdf/2311.11016) | rule-assigned |
 | 2023-11-16 | NGEL-SLAM: Neural Implicit Representation-based Global Consistent Low-Latency SLAM System | Yunxuan Mao, Xuan Yu, Kai Wang, Yue Wang et al. | [Abstract](https://arxiv.org/abs/2311.09525) · [PDF](https://arxiv.org/pdf/2311.09525) | rule-assigned |
-| 2023-11-14 | CP-SLAM: Collaborative Neural Point-based SLAM System | Jiarui Hu, Mao Mao, Hujun Bao, Guofeng Zhang et al. | [Abstract](https://arxiv.org/abs/2311.08013) · [PDF](https://arxiv.org/pdf/2311.08013) | rule-assigned |
 
 ---
 

@@ -1,7 +1,7 @@
 # Soft Mechanisms & Actuation · 软体机构与驱动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Soft%20%26%20Specialized%20Robots&specialty=Soft%20Mechanisms%20%26%20Actuation#research-workbench)

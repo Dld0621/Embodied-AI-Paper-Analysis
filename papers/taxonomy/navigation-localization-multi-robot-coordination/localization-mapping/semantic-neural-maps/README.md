@@ -1,7 +1,7 @@
 # Semantic & Neural Maps · 语义与神经地图
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Semantic%20%26%20Neural%20Maps#research-workbench)

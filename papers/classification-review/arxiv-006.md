@@ -1,13 +1,14 @@
 # arxiv classification review · 1001–1200
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
+| [Identifying and Exploiting Structure in Robot Co-Design](https://arxiv.org/abs/2604.11768) | 2026 · arxiv | 暂定二级 / provisional: Robot Hardware & Systems → Mechanisms & Actuation → Pending specialty review | title:hardware or deployment contribution; fallback |
 | [Identifying Habit, Physics, and Nuisance in Robot World Models](https://arxiv.org/abs/2609.09210) | 2026 · arxiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Pending specialty review | title:prediction or reasoning; title:world models |
 | [Identifying the Key Biomechanical Features of Movement Adaptation during Exoskeleton-Assisted Locomotion](https://arxiv.org/abs/2608.07140) | 2026 · arxiv | Robot Hardware & Systems → Sensors & Human Interfaces → Pending specialty review | title:hardware or deployment contribution; title:exoskeleton |
 | [IL-ACT: Imitation Learning with Adaptive Cartesian Tracking Control for a 30-ton Excavator](https://arxiv.org/abs/2609.16696) | 2026 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
@@ -20,6 +21,7 @@
 | [Imitation Learning via Discrete and Rhythmic Primitive Composition](https://arxiv.org/abs/2610.15639) | 2026 · arxiv | Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | rule:contribution vocabulary; title:imitation learning |
 | [Imitation learning-based spacecraft rendezvous and docking method with Expert Demonstration](https://arxiv.org/abs/2601.12952) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | fallback; fallback |
 | [Imitation of Arm Gestures by the Semi-Humanoid Robot NICO](https://arxiv.org/abs/2607.18197) | 2026 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
+| [Imitation Policies Learn a Proprioceptive Anchor: A Predictive Law for Perception Noise and Its Closed Loop Cost](https://arxiv.org/abs/2611.17658) | 2026 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
 | [Impact of Dataset Composition on Embedded Real-Time UAV Wildfire Detection Using Compact YOLO Models](https://arxiv.org/abs/2608.07554) | 2026 · arxiv | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:dataset |
 | [Impact-Robust Posture Optimization for Aerial Manipulation](https://arxiv.org/abs/2602.13762) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [IMPACT: Learning Internal-Model Predictive Control for Forceful Robotic Manipulation](https://arxiv.org/abs/2606.10818) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
@@ -37,6 +39,7 @@
 | [Improving path-tracking performance of an articulated tractor-trailer system using a non-linear kinematic model](https://arxiv.org/abs/2606.31889) | 2026 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
 | [Improving Policy Learning from Delayed Interventions](https://arxiv.org/abs/2610.17298) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | fallback; fallback |
 | [In CEM, a World Model Is Also a Proposal Mechanism](https://arxiv.org/abs/2610.00921) | 2026 · arxiv | 暂定二级 / provisional: Robot Hardware & Systems → Mechanisms & Actuation → Pending specialty review | title:hardware or deployment contribution; fallback |
+| [In Situ Monitoring and Predictive Modeling of Harmful Algal Blooms with Autonomous Surface Vehicles](https://arxiv.org/abs/2611.18501) | 2026 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | fallback; fallback |
 | [In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks](https://arxiv.org/abs/2609.38173) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Incorporating World Models in Decision Making for Next Best View Selection in Active Sensing](https://arxiv.org/abs/2611.13229) | 2026 · arxiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Pending specialty review | title:prediction or reasoning; title:world models |
 | [Incremental-Smoothing-Based ARAIM Protection Levels for Tightly Coupled GNSS/IMU Integration in Urban Canyons](https://arxiv.org/abs/2610.32259) | 2026 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
@@ -205,6 +208,3 @@
 | [LMGN: A Unified Policy Learning Model for Last-Mile Grasp-Navigation](https://arxiv.org/abs/2611.07515) | 2026 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
 | [Local-Minimum Escaper: Programmatic Subgoal Generation for Robust Navigation in Unknown Environments](https://arxiv.org/abs/2609.38928) | 2026 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
 | [Localized Visual Feature Aggregation via Focus Pooling for Visuomotor Policies](https://arxiv.org/abs/2609.08408) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | fallback; fallback |
-| [Location-Aware Dispersion on Anonymous Graphs](https://arxiv.org/abs/2602.05948) | 2026 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
-| [Locomotion Variability and User Experience in Smart Wheelchair Human-Robot Interaction](https://arxiv.org/abs/2608.11417) | 2026 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
-| [Locomotion with Online Awareness of Dynamics for Precision Footholds](https://arxiv.org/abs/2610.17930) | 2026 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |

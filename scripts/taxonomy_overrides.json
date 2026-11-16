@@ -994,5 +994,165 @@
     ],
     "reason": "Title/abstract review. Two tactile arrays supply contact feedback to a visuotactile ACT policy. Controlled wrist-camera and tactile-availability ablations compare modality contributions while holding demonstrations, architecture and optimization settings fixed. https://arxiv.org/abs/2611.10490",
     "related_topics": ["Contact-rich"]
+  },
+  "touchtwin scaling human touch data via real to sim to real": {
+    "title": "TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Synthetic & Augmented Data",
+      "Simulated Trajectory Generation"
+    ],
+    "reason": "Title/abstract and selected full-text review. Measured TouchScale glove signals ground per-subject human-hand replays in MuJoCo. Perturbed demonstrations carry simulated contact and force labels and condition generated video. The contribution is a touch-grounded data-generation pipeline, not demonstrated cross-robot hand retargeting. https://arxiv.org/abs/2611.17619",
+    "related_topics": [
+      "Dexterous Manipulation",
+      "Contact-rich"
+    ],
+    "excluded_topics": [
+      "Retargeting",
+      "Hand Retargeting",
+      "Whole-body Retargeting"
+    ]
+  },
+  "iora irregular object immobilization under restricted actuation": {
+    "title": "IORA: Irregular Object Immobilization under Restricted Actuation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Multifinger Grasping & Control",
+      "Multifinger Coordination & Grasp Generation"
+    ],
+    "reason": "Title/abstract review of v2. Support-aware grasp synthesis matches local hand and object surface graphs, refines wrist pose and motor state, and validates physically executable grasps for low-DoF coupled hands. Restricted actuation is a problem constraint, not an actuator-design contribution. https://arxiv.org/abs/2610.30969",
+    "related_topics": [
+      "Dexterous Manipulation",
+      "Contact-rich"
+    ],
+    "excluded_topics": [
+      "Retargeting",
+      "Hand Retargeting",
+      "Whole-body Retargeting"
+    ]
+  },
+  "objectives as policies vision language model cost programs for contact rich manipulation": {
+    "title": "Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "Model-based Decision Making",
+      "Model Predictive Control"
+    ],
+    "reason": "Title/abstract review. A pretrained VLM writes editable stage-wise objective programs for a shared sampling-based MPC. Programs are revised using simulated rollouts in a real-to-sim digital twin before real-world execution. The central contribution connects language reasoning to contact-aware control through objectives. https://arxiv.org/abs/2611.18298",
+    "related_topics": [
+      "Contact-rich"
+    ]
+  },
+  "learning latent goal costs for visual world model planning with an expanding curriculum": {
+    "title": "Learning Latent Goal Costs for Visual World-Model Planning with an Expanding Curriculum",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "Model-based Decision Making",
+      "World-model Planning"
+    ],
+    "reason": "Title/abstract review. A residual adapter on frozen I-JEPA embeddings learns a goal cost from ordered planner trajectories and progressively expanded initial states. DotWall and PointMaze evaluate latent-cost improvements under frozen encoders and world models. https://arxiv.org/abs/2611.17529",
+    "related_topics": [
+      "World Models"
+    ],
+    "excluded_topics": [
+      "Retargeting",
+      "Hand Retargeting",
+      "Whole-body Retargeting",
+      "Dexterous Manipulation"
+    ]
+  },
+  "beyond prediction gain lasr as a metric for action grounded latents in world models": {
+    "title": "Beyond Prediction Gain: LASR as a Metric for Action-Grounded Latents in World Models",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Benchmarks & Experimental Methods",
+      "Reproducibility & Statistical Comparison"
+    ],
+    "reason": "Title/abstract review. LASR evaluates whether a latent supports action-related targets beyond state and other predictive shortcuts, with held-out episodes, matched predictors, positive and negative controls, and paired uncertainty comparisons. A lightweight residual adapter is a downstream demonstration of the evaluation protocol. https://arxiv.org/abs/2611.17775",
+    "related_topics": [
+      "World Models"
+    ],
+    "excluded_topics": [
+      "Retargeting",
+      "Hand Retargeting",
+      "Whole-body Retargeting",
+      "Dexterous Manipulation"
+    ]
+  },
+  "agentic teacher an agentic data engine for failure driven vla post training": {
+    "title": "Agentic-Teacher: An Agentic Data Engine for Failure-Driven VLA Post-Training",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Synthetic & Augmented Data",
+      "Simulated Trajectory Generation"
+    ],
+    "reason": "Title/abstract review. Failure rollouts guide coding-agent construction of closed-loop policies that generate successful demonstration continuations. Correlated action noise, idle-frame handling and frozen-model loss filtering curate demonstrations for VLA post-training. The primary contribution is a demonstration-generation and curation engine. https://arxiv.org/abs/2611.17394",
+    "related_topics": []
+  },
+  "esi an embodied self improvement flywheel for llm vla agents": {
+    "title": "ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "VLA & Generalist Robot Policies",
+      "Hierarchical & Mixture Policies"
+    ],
+    "reason": "Title/abstract review. ESI jointly refines LLM prompts, a shared skill interface and VLA parameters through environmental interaction. Semantic subtask supervision, effective corrections and policy continuations train coordination and handoff in a modular LLM-VLA agent. https://arxiv.org/abs/2611.18176",
+    "related_topics": []
+  },
+  "training reasoning models in simulation to natively use real robots": {
+    "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "Reinforcement Learning",
+      "Online Reinforcement Learning"
+    ],
+    "reason": "Title/abstract review. PEAR trains an open-weight reasoning model with robot-use reinforcement learning in simulation, without demonstrations. The policy reasons from observations and produces the next end-effector pose; held-out instructions, another robot and real-world trials study transfer. https://arxiv.org/abs/2611.18562",
+    "related_topics": []
+  },
+  "vision language action models a life cycle survey of design training and deployment": {
+    "title": "Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "VLA & Generalist Robot Policies",
+      "Vision-Language-Action Modeling"
+    ],
+    "reason": "Title/abstract review. This survey organizes VLA model design, data, post-training and real-time deployment along seven axes, contrasting action-only and world-action designs. Its contribution is synthesis of existing systems, not a newly validated policy. https://arxiv.org/abs/2611.18372",
+    "related_topics": []
+  },
+  "on the utility of pre trained visual representations for policy learning of contact rich insertion tasks": {
+    "title": "On the Utility of Pre-Trained Visual Representations for Policy Learning of Contact-Rich Insertion Tasks",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Benchmarks & Experimental Methods",
+      "Generalization & Robustness Evaluation"
+    ],
+    "reason": "Title/abstract review. Controlled comparisons of pretrained visual and explicit contact-centric representations vary occlusion and physical tolerance on two closely related insertion tasks, then examine real-world transfer. The contribution is evidence about representation and task-dependent robustness. https://arxiv.org/abs/2611.17631",
+    "related_topics": [
+      "Contact-rich"
+    ],
+    "excluded_topics": [
+      "Retargeting",
+      "Hand Retargeting",
+      "Whole-body Retargeting",
+      "Dexterous Manipulation"
+    ]
+  },
+  "modeling the frictional contact of continuum robots with environments through linear complementarity problem": {
+    "title": "Modeling the Frictional Contact of Continuum Robots with Environments through Linear Complementarity Problem",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "World & Dynamics Modeling",
+      "Object & Contact Dynamics"
+    ],
+    "reason": "Title/abstract review. A complementarity-constrained friction model predicts environmental static/sliding friction, hysteresis and resulting continuum-robot deformation, with physical validation on a tendon-driven continuum robot. The contribution is a contact-dynamics model. https://arxiv.org/abs/2611.18546",
+    "related_topics": [
+      "Contact-rich"
+    ],
+    "excluded_topics": [
+      "Retargeting",
+      "Hand Retargeting",
+      "Whole-body Retargeting",
+      "Dexterous Manipulation"
+    ]
   }
 }

@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Pending%20specialty%20review#research-workbench)
 
-> 196 conference papers · 968 recent arXiv papers
+> 196 conference papers · 965 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -197,7 +197,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023 | Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents | NeurIPS · Grounded planning | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/bb3cfcb0284642a973dd631ec9184f2f-Abstract-Conference.html) · [Official](https://proceedings.neurips.cc/paper_files/paper/2023/hash/bb3cfcb0284642a973dd631ec9184f2f-Abstract-Conference.html) | needs-review |
 | 2023 | Fast Traversability Estimation for Wild Visual Navigation | RSS · Navigation | [Paper](https://arxiv.org/abs/2305.08510) · [Index](https://dblp.org/rec/conf/rss/FreyMC0F023) | needs-review |
 | 2022 | LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action | CoRL · Navigation | [Paper](https://arxiv.org/abs/2207.04429) · [Index](https://dblp.org/rec/conf/corl/ShahOIL22) | needs-review |
-| 2022 | Offline Reinforcement Learning for Visual Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2212.08244) · [Index](https://dblp.org/rec/journals/corr/abs-2212-08244) | needs-review |
+| 2022 | Offline Reinforcement Learning for Visual Navigation | CoRL · Navigation | [Paper](https://arxiv.org/abs/2212.08244) · [Index](https://dblp.org/rec/conf/corl/ShahBLKRL22) | needs-review |
 | 2022 | Rethinking Sim2Real: Lower Fidelity Simulation Leads to Higher Sim2Real Transfer in Navigation | CoRL · Simulation | [Paper](https://arxiv.org/pdf/2207.10821) · [Index](https://dblp.org/rec/conf/corl/TruongRYCBR22) | needs-review |
 | 2022 | A Novel Assistive Controller Based on Differential Geometry for Users of the Differential-Drive Wheeled Mobile Robots | ICRA · Mobile Robot | [Paper](https://arxiv.org/abs/2202.01969) · [Index](https://dblp.org/rec/journals/corr/abs-2202-01969) | needs-review |
 | 2022 | Active Learning for Testing and Evaluation in Field Robotics: A Case Study in Autonomous, Off-Road Navigation | ICRA · Navigation | [Paper](https://doi.org/10.1109/icra46639.2022.9812453) · [Publisher](https://doi.org/10.1109/icra46639.2022.9812453) | needs-review |
@@ -221,7 +221,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | VER: Scaling On-Policy RL Leads to the Emergence of Navigation in Embodied Rearrangement | NeurIPS · Navigation | [Paper](https://arxiv.org/abs/2210.05064) · [Index](https://dblp.org/rec/conf/nips/WijmansEB22) | needs-review |
 | 2022 | ViKiNG: Vision-Based Kilometer-Scale Navigation with Geographic Hints | RSS · Navigation | [Paper](https://doi.org/10.15607/rss.2022.xviii.019) · [Publisher](https://doi.org/10.15607/RSS.2022.XVIII.019) | needs-review |
 
-## Recent arXiv papers (968)
+## Recent arXiv papers (965)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -1190,9 +1190,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-21 | FollowMe: a Robust Person Following Framework Based on Re-Identification and Gestures | Federico Rollo, Andrea Zunino, Gennaro Raiola, Fabio Amadio et al. | [Abstract](https://arxiv.org/abs/2311.12992) · [PDF](https://arxiv.org/pdf/2311.12992) | needs-review |
 | 2023-11-17 | Verified Compositional Neuro-Symbolic Control for Stochastic Systems with Temporal Logic Tasks | Jun Wang, Haojun Chen, Zihe Sun, Yiannis Kantaros | [Abstract](https://arxiv.org/abs/2311.10863) · [PDF](https://arxiv.org/pdf/2311.10863) | needs-review |
 | 2023-11-17 | Autonomous Port Navigation With Ranging Sensors Using Model-Based Reinforcement Learning | Siemen Herremans, Ali Anwar, Arne Troch, Ian Ravijts et al. | [Abstract](https://arxiv.org/abs/2312.05257) · [PDF](https://arxiv.org/pdf/2312.05257) | needs-review |
-| 2023-11-15 | Why Autonomous Vehicles Are Not Ready Yet: A Multi-Disciplinary Review of Problems, Attempted Solutions, and Future Directions | Xingshuai Dong, Max Cappuccio, Hamad Al Jassmi, Fady Alnajjar et al. | [Abstract](https://arxiv.org/abs/2311.09093) · [PDF](https://arxiv.org/pdf/2311.09093) | needs-review |
-| 2023-11-15 | Motion Control of Two Mobile Robots under Allowable Collisions | Li Tan, Wei Ren, Xi-Ming Sun, Junlin Xiong | [Abstract](https://arxiv.org/abs/2311.08880) · [PDF](https://arxiv.org/pdf/2311.08880) | needs-review |
-| 2023-11-14 | Language and Sketching: An LLM-driven Interactive Multimodal Multitask Robot Navigation Framework | Weiqin Zu, Wenbin Song, Ruiqing Chen, Ze Guo et al. | [Abstract](https://arxiv.org/abs/2311.08244) · [PDF](https://arxiv.org/pdf/2311.08244) | needs-review |
 
 ---
 

@@ -1,13 +1,18 @@
 # arxiv classification review · 3401–3600
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
+| [OmniShape: Zero-Shot Multi-Hypothesis Shape and Pose Estimation in the Real World](https://arxiv.org/abs/2508.03669) | 2025 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
+| [OmniVIC: A Self-Improving Variable Impedance Controller with Vision-Language In-Context Learning for Safe Robotic Manipulation](https://arxiv.org/abs/2510.17150) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
+| [On Disturbance-Aware Minimum-Time Trajectory Planning: Evidence from Tests on a Dynamic Driving Simulator](https://arxiv.org/abs/2512.04917) | 2025 · arxiv | Data, Simulation & Evaluation → Simulation & Digital Twins → Pending specialty review | title:data or evaluation contribution; title:simulator |
+| [On Learning Closed-Loop Probabilistic Multi-Agent Simulator](https://arxiv.org/abs/2508.00384) | 2025 · arxiv | Data, Simulation & Evaluation → Simulation & Digital Twins → Pending specialty review | title:data or evaluation contribution; title:simulator |
+| [On the causality between affective impact and coordinated human-robot reactions](https://arxiv.org/abs/2508.04834) | 2025 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | fallback; fallback |
 | [On the Dual-Use Dilemma in Physical Reasoning and Force](https://arxiv.org/abs/2505.18792) | 2025 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
 | [On-board Sonar Data Classification for Path Following in Underwater Vehicles using Fast Interval Type-2 Fuzzy Extreme Learning Machine](https://arxiv.org/abs/2506.12762) | 2025 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
 | [Online Human Action Detection during Escorting](https://arxiv.org/abs/2506.23573) | 2025 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
@@ -203,8 +208,3 @@
 | [RoboLinker: A Diffusion-model-based Matching Clothing Generator Between Humans and Companion Robots](https://arxiv.org/abs/2508.01165) | 2025 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | fallback; fallback |
 | [RoboManipBaselines: A Unified Framework for Imitation Learning in Robotic Manipulation across Real and Simulation Environments](https://arxiv.org/abs/2509.17057) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [RoboMIND 2.0: A Multimodal, Bimanual Mobile Manipulation Dataset for Generalizable Embodied Intelligence](https://arxiv.org/abs/2512.24653) | 2025 · arxiv | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:dataset |
-| [RoboMoRe: LLM-based Robot Co-design via Joint Optimization of Morphology and Reward](https://arxiv.org/abs/2506.00276) | 2025 · arxiv | 暂定二级 / provisional: Robot Hardware & Systems → Mechanisms & Actuation → Pending specialty review | title:hardware or deployment contribution; fallback |
-| [RoboOmni: Proactive Robot Manipulation in Omni-modal Context](https://arxiv.org/abs/2510.23763) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
-| [RoboPanoptes: The All-seeing Robot with Whole-body Dexterity](https://arxiv.org/abs/2501.05420) | 2025 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
-| [RoboPearls: Editable Video Simulation for Robot Manipulation](https://arxiv.org/abs/2506.22756) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
-| [RoboPilot: Generalizable Dynamic Robotic Manipulation with Dual-thinking Modes](https://arxiv.org/abs/2510.00154) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |

@@ -1,7 +1,7 @@
 # Cloth & Garments · 布料与衣物
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Arm%20%26%20General%20Object%20Manipulation&subcategory=Deformable%20Object%20Manipulation&specialty=Cloth%20%26%20Garments#research-workbench)
@@ -28,7 +28,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | Learning Efficient Robotic Garment Manipulation with Standardization | ICML · Manipulation | [Paper](https://arxiv.org/abs/2506.22769) · [Index](https://dblp.org/rec/journals/corr/abs-2506-22769) | rule-assigned |
 | 2025 | Hybrid Gripper with Passive Pneumatic Soft Joints for Grasping Deformable Thin Objects | ICRA · Grasp | [Paper](https://arxiv.org/pdf/2410.05789) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11127915) | rule-assigned |
 | 2025 | A Convex Formulation of Material Points and Rigid Bodies with GPU-Accelerated Async-Coupling for Interactive Simulation | IROS · Simulation | [Paper](https://arxiv.org/abs/2503.05046) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245821) | rule-assigned |
-| 2025 | Can Real-to-Sim Approaches Capture Dynamic Fabric Behavior for Robotic Fabric Manipulation? | IROS · Manipulation | [Paper](https://eprints.gla.ac.uk/view/author/67853.html>,) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245811) | rule-assigned |
+| 2025 | Can Real-to-Sim Approaches Capture Dynamic Fabric Behavior for Robotic Fabric Manipulation? | IROS · Manipulation | [Paper](https://eprints.gla.ac.uk/360594/) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11245811) | rule-assigned |
 | 2025 | Evaluating the Pre-Dressing Step: Unfolding Medical Garments via Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2507.18436) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247713) | rule-assigned |
 | 2025 | Learning Generalizable Language-Conditioned Cloth Manipulation from Long Demonstrations | IROS · Language Conditioned | [Paper](https://arxiv.org/pdf/2503.04557) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246306) | rule-assigned |
 | 2025 | SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation | IROS · Language Model | [Paper](https://arxiv.org/pdf/2409.18082) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246904) | rule-assigned |

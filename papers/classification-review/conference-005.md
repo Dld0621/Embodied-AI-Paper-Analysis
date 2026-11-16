@@ -1,7 +1,7 @@
 # conference classification review · 801–1000
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
@@ -13,7 +13,7 @@
 | [Learning Diverse Skills for Local Navigation under Multi-constraint Optimality](https://arxiv.org/pdf/2310.02440) | 2024 · conference | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
 | [Learning Extrinsic Dexterity with Parameterized Manipulation Primitives](https://arxiv.org/pdf/2310.17785) | 2024 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Learning Force Control for Legged Manipulation](https://arxiv.org/pdf/2405.01402) | 2024 · conference | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
-| [Learning Generalizable Manipulation Policy with Adapter-Based Parameter Fine-Tuning](https://doi.org/10.1109/IROS58592.2024.10801544) | 2024 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
+| [Learning Generalizable Manipulation Policy with Adapter-Based Parameter Fine-Tuning](https://ora.ox.ac.uk/objects/uuid:f08f03ed-6d9b-4440-8580-3c9662c61991/files/sqv33rz87f) | 2024 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Learning Interaction Constraints for Robot Manipulation via Set Correspondences](https://doi.org/10.1109/ICRA57147.2024.10611031) | 2024 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Learning Manipulation by Predicting Interaction](https://arxiv.org/abs/2406.00439) | 2024 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Learning Reward for Robot Skills Using Large Language Models via Self-Alignment](https://arxiv.org/abs/2405.07162) | 2024 · conference | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |

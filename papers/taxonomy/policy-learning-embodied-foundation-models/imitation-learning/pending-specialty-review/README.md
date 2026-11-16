@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Imitation%20Learning&specialty=Pending%20specialty%20review#research-workbench)
 
-> 66 conference papers · 509 recent arXiv papers
+> 66 conference papers · 508 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -91,7 +91,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Learning and Retrieval from Prior Data for Skill-based Imitation Learning | CoRL · Imitation Learning | [Paper](https://arxiv.org/pdf/2210.11435) · [Index](https://dblp.org/rec/journals/corr/abs-2210-11435) | needs-review |
 | 2022 | Divide & Conquer Imitation Learning | IROS · Imitation Learning | [Paper](https://arxiv.org/pdf/2204.07404) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982020) | needs-review |
 
-## Recent arXiv papers (509)
+## Recent arXiv papers (508)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -603,7 +603,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-29 | LEAP: LLM-Generation of Egocentric Action Programs | Eadom Dessalene, Michael Maynord, Cornelia Fermüller, Yiannis Aloimonos | [Abstract](https://arxiv.org/abs/2312.00055) · [PDF](https://arxiv.org/pdf/2312.00055) | needs-review |
 | 2023-11-24 | Robot Learning in the Era of Foundation Models: A Survey | Xuan Xiao, Jiahang Liu, Zhipeng Wang, Yanmin Zhou et al. | [Abstract](https://arxiv.org/abs/2311.14379) · [PDF](https://arxiv.org/pdf/2311.14379) | needs-review |
 | 2023-11-20 | Multi-Agent Strategy Explanations for Human-Robot Collaboration | Ravi Pandya, Michelle Zhao, Changliu Liu, Reid Simmons et al. | [Abstract](https://arxiv.org/abs/2311.11955) · [PDF](https://arxiv.org/pdf/2311.11955) | needs-review |
-| 2023-11-13 | Large Language Models for Robotics: A Survey | Fanlong Zeng, Wensheng Gan, Zezheng Huai, Lichao Sun et al. | [Abstract](https://arxiv.org/abs/2311.07226) · [PDF](https://arxiv.org/pdf/2311.07226) | needs-review |
 
 ---
 

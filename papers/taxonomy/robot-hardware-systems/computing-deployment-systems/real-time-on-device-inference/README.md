@@ -1,7 +1,7 @@
 # Real-time & On-device Inference · 实时与端侧推理
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Computing%20%26%20Deployment%20Systems&specialty=Real-time%20%26%20On-device%20Inference#research-workbench)

@@ -1,12 +1,12 @@
 # Local Avoidance & Trajectory Optimization · 局部避障与轨迹优化
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Motion%20Planning%20%26%20Exploration&specialty=Local%20Avoidance%20%26%20Trajectory%20Optimization#research-workbench)
 
-> 36 conference papers · 501 recent arXiv papers
+> 36 conference papers · 502 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -61,11 +61,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | CoMBiNED: Multi-Constrained Model Based Planning for Navigation in Dynamic Environments | IROS · Navigation | [Paper](https://doi.org/10.1109/IROS47612.2022.9981479) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981479) | rule-assigned |
 | 2022 | Imitation Learning and Model Integrated Excavator Trajectory Planning | IROS · Imitation Learning | [Paper](https://doi.org/10.1109/IROS47612.2022.9981220) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981220) | rule-assigned |
 
-## Recent arXiv papers (501)
+## Recent arXiv papers (502)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
 | 2026-11-12 | Robot Navigation and Obstacle Avoidance from Randomly Positioned External Cameras | Raul Steinmetz, Jair Augusto Bottega, Ayanori Yorozu, Akihisa Ohya | [Abstract](https://arxiv.org/abs/2611.16282) · [PDF](https://arxiv.org/pdf/2611.16282) | rule-assigned |
+| 2026-11-12 | Grounding Object-to-Object Hazard Reasoning into 3D Risk Fields for Task-Conditioned Safety | Mariana Sosa Guzmán, Yide Song, Amin Abyaneh, Gregory Dudek et al. | [Abstract](https://arxiv.org/abs/2611.17566) · [PDF](https://arxiv.org/pdf/2611.17566) | rule-assigned |
 | 2026-11-11 | Generalized Inverse Kinematics via Conditional Flow | Kaitlyn Zhang, Tomás Lozano-Pérez, Leslie Pack Kaelbling | [Abstract](https://arxiv.org/abs/2611.15565) · [PDF](https://arxiv.org/pdf/2611.15565) | rule-assigned |
 | 2026-11-10 | DeRep: Learning Depth Representations for End-to-End Navigation in Cluttered Environments | Hanyu Jin, Kenji Shimada | [Abstract](https://arxiv.org/abs/2611.13499) · [PDF](https://arxiv.org/pdf/2611.13499) | rule-assigned |
 | 2026-11-09 | OASIS: Optimization-Aware Subgoal Inference with Safety Constraints for Autonomous Mobile Robot Navigation | Arian Hajizadeh, Javad Pourrafi Arabani, Negar Shenavar, Sana Bashiri et al. | [Abstract](https://arxiv.org/abs/2611.11996) · [PDF](https://arxiv.org/pdf/2611.11996) | rule-assigned |

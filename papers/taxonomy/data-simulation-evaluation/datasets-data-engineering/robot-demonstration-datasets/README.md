@@ -1,7 +1,7 @@
 # Robot Demonstration Datasets · 机器人示教数据集
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engineering&specialty=Robot%20Demonstration%20Datasets#research-workbench)

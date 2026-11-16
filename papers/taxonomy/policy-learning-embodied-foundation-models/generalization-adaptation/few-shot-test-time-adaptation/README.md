@@ -1,7 +1,7 @@
 # Few-shot & Test-time Adaptation · 少样本与测试时适配
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Policy%20Learning%20%26%20Embodied%20Foundation%20Models&subcategory=Generalization%20%26%20Adaptation&specialty=Few-shot%20%26%20Test-time%20Adaptation#research-workbench)
@@ -53,6 +53,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-13 | A Generalizable Approach to Safety-Aware Robotic Behavior Planning with an Explicit Constraint Space | Xianxu Wu, Shang-Ching Liu, Zhaocong Liang, Hengxiang Chen et al. | [Abstract](https://arxiv.org/abs/2611.18026) · [PDF](https://arxiv.org/pdf/2611.18026) | rule-assigned |
 | 2026-11-10 | Game-Enhanced Embodied Learning with Event and Foresight Pretraining | Lianlei Shan, Han Jin, Yaunchao Ma, Xinpeng Chen et al. | [Abstract](https://arxiv.org/abs/2611.13819) · [PDF](https://arxiv.org/pdf/2611.13819) | rule-assigned |
 | 2026-11-09 | Library of Hands: Fix the Hands, Not the World Model | Hasaan Ahmad, Qizhen Ying, Yuxuan Sun, Tianjin Huang et al. | [Abstract](https://arxiv.org/abs/2611.12678) · [PDF](https://arxiv.org/pdf/2611.12678) | reviewed |
 | 2026-11-09 | GAP: Generalized Adaptation Prior for Dexterous Piano Playing | Jinyi Chen, Hongyi Li, Lei Jiang, Xianwei Liu et al. | [Abstract](https://arxiv.org/abs/2611.12111) · [PDF](https://arxiv.org/pdf/2611.12111) | reviewed |
@@ -335,7 +336,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-22 | Robot at the Mirror: Learning to Imitate via Associating Self-supervised Models | Andrej Lucny, Kristina Malinovska, Igor Farkas | [Abstract](https://arxiv.org/abs/2311.13226) · [PDF](https://arxiv.org/pdf/2311.13226) | rule-assigned |
 | 2023-11-18 | Deploying and Evaluating LLMs to Program Service Mobile Robots | Zichao Hu, Francesca Lucchetti, Claire Schlesinger, Yash Saxena et al. | [Abstract](https://arxiv.org/abs/2311.11183) · [PDF](https://arxiv.org/pdf/2311.11183) | rule-assigned |
 | 2023-11-17 | A Language Agent for Autonomous Driving | Jiageng Mao, Junjie Ye, Yuxi Qian, Marco Pavone et al. | [Abstract](https://arxiv.org/abs/2311.10813) · [PDF](https://arxiv.org/pdf/2311.10813) | rule-assigned |
-| 2023-11-14 | Human-Centric Autonomous Systems With LLMs for User Command Reasoning | Yi Yang, Qingwen Zhang, Ci Li, Daniel Simões Marta et al. | [Abstract](https://arxiv.org/abs/2311.08206) · [PDF](https://arxiv.org/pdf/2311.08206) | rule-assigned |
 
 ---
 

@@ -1,7 +1,7 @@
 # Occupancy & Scene Representation · 占据与场景表达
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=Occupancy%20%26%20Scene%20Representation#research-workbench)

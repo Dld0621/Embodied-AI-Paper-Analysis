@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题 · arXiv 2023
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 38 papers · complete list for this taxonomy leaf
+> 35 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -45,6 +45,3 @@
 | 2023-11-18 | Constraint-aware Policy for Compliant Manipulation | Daichi Saito, Kazuhiro Sasabuchi, Naoki Wake, Atsushi Kanehira et al. | [Abstract](https://arxiv.org/abs/2311.11007) · [PDF](https://arxiv.org/pdf/2311.11007) | needs-review |
 | 2023-11-17 | Distilling and Retrieving Generalizable Knowledge for Robot Manipulation via Language Corrections | Lihan Zha, Yuchen Cui, Li-Heng Lin, Minae Kwon et al. | [Abstract](https://arxiv.org/abs/2311.10678) · [PDF](https://arxiv.org/pdf/2311.10678) | needs-review |
 | 2023-11-16 | Soft and Rigid Object Grasping With Cross-Structure Hand Using Bilateral Control-Based Imitation Learning | Koki Yamane, Sho Sakaino, Toshiaki Tsuji | [Abstract](https://arxiv.org/abs/2311.09555) · [PDF](https://arxiv.org/pdf/2311.09555) | needs-review |
-| 2023-11-15 | Generalizable Imitation Learning Through Pre-Trained Representations | Wei-Di Chang, Francois Hogan, Scott Fujimoto, David Meger et al. | [Abstract](https://arxiv.org/abs/2311.09350) · [PDF](https://arxiv.org/pdf/2311.09350) | needs-review |
-| 2023-11-14 | Deep Reinforcement Learning for 2D Physics-Based Object Manipulation in Clutter | Luca Renna | [Abstract](https://arxiv.org/abs/2312.04570) · [PDF](https://arxiv.org/pdf/2312.04570) | needs-review |
-| 2023-11-13 | Towards Robotic Tree Manipulation: Leveraging Graph Representations | Chung Hee Kim, Moonyoung Lee, Oliver Kroemer, George Kantor | [Abstract](https://arxiv.org/abs/2311.07479) · [PDF](https://arxiv.org/pdf/2311.07479) | needs-review |

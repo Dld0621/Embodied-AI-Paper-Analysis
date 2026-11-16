@@ -1,7 +1,7 @@
 # conference classification review · 601–800
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
@@ -145,7 +145,7 @@
 | [Evaluating Real-World Robot Manipulation Policies in Simulation](https://arxiv.org/abs/2405.05941) | 2024 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Everyday finger: a robotic finger that meets the needs of everyday interactive manipulation](https://arxiv.org/pdf/2408.04142) | 2024 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Experience Consistency Distillation Continual Reinforcement Learning for Robotic Manipulation Tasks](https://doi.org/10.1109/ICRA57147.2024.10611494) | 2024 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
-| [Exploring 3D Human Pose Estimation and Forecasting from the Robot’s Perspective: The HARPER Dataset](https://eprints.gla.ac.uk/view/author/70436.html>,) | 2024 · conference | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:dataset |
+| [Exploring 3D Human Pose Estimation and Forecasting from the Robot’s Perspective: The HARPER Dataset](https://eprints.gla.ac.uk/330442/) | 2024 · conference | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:dataset |
 | [Explosive Legged Robotic Hopping: Energy Accumulation and Power Amplification via Pneumatic Augmentation](https://arxiv.org/pdf/2312.05773) | 2024 · conference | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
 | [Fine Manipulation Using a Tactile Skin: Learning in Simulation and Sim-to-Real Transfer](https://arxiv.org/pdf/2409.12735) | 2024 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Flow as the Cross-Domain Manipulation Interface](https://arxiv.org/abs/2407.15208) | 2024 · conference | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |

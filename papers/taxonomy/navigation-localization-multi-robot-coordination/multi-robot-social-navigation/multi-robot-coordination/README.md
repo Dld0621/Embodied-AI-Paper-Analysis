@@ -1,12 +1,12 @@
 # Multi-robot Coordination · 多机器人协调
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Multi-robot%20%26%20Social%20Navigation&specialty=Multi-robot%20Coordination#research-workbench)
 
-> 67 conference papers · 391 recent arXiv papers
+> 67 conference papers · 389 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -92,7 +92,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Multi-Robot Unknown Area Exploration Using Frontier Trees | IROS · Exploration | [Paper](https://doi.org/10.1109/IROS47612.2022.9981914) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981914) | rule-assigned |
 | 2022 | PropEM-L: Radio Propagation Environment Modeling and Learning for Communication-Aware Multi-Robot Exploration | RSS · Exploration | [Paper](https://arxiv.org/abs/2205.01267) · [Index](https://dblp.org/rec/journals/corr/abs-2205-01267) | rule-assigned |
 
-## Recent arXiv papers (391)
+## Recent arXiv papers (389)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -485,8 +485,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-24 | An Industrial Perspective on Multi-Agent Decision Making for Interoperable Robot Navigation following the VDA5050 Standard | Niels van Duijkeren, Luigi Palmieri, Ralph Lange, Alexander Kleiner | [Abstract](https://arxiv.org/abs/2311.14615) · [PDF](https://arxiv.org/pdf/2311.14615) | rule-assigned |
 | 2023-11-21 | CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems | Young-Hee Lee, Chen Zhu, Thomas Wiedemann, Emanuel Staudinger et al. | [Abstract](https://arxiv.org/abs/2311.12580) · [PDF](https://arxiv.org/pdf/2311.12580) | rule-assigned |
 | 2023-11-18 | CLIPSwarm: Converting text into formations of robots | Pablo Pueyo, Eduardo Montijano, Ana C. Murillo, Mac Schwager | [Abstract](https://arxiv.org/abs/2311.11047) · [PDF](https://arxiv.org/pdf/2311.11047) | rule-assigned |
-| 2023-11-13 | Collaborative Planning for Catching and Transporting Objects in Unstructured Environments | Liuao Pei, Junxiao Lin, Zhichao Han, Lun Quan et al. | [Abstract](https://arxiv.org/abs/2311.07100) · [PDF](https://arxiv.org/pdf/2311.07100) | rule-assigned |
-| 2023-11-13 | A Survey on Passing-through Control of Multi-Robot Systems in Cluttered Environments | Yan Gao, Chenggang Bai, Quan Quan | [Abstract](https://arxiv.org/abs/2311.07082) · [PDF](https://arxiv.org/pdf/2311.07082) | rule-assigned |
 
 ---
 

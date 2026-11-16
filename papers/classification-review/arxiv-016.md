@@ -1,13 +1,18 @@
 # arxiv classification review · 3001–3200
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
+| [GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data](https://arxiv.org/abs/2505.03233) | 2025 · arxiv | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasping |
+| [Gray-Box Computed Torque Control for Differential-Drive Mobile Robot Tracking](https://arxiv.org/abs/2509.00571) | 2025 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
+| [GreenhouseSplat: A Dataset of Photorealistic Greenhouse Simulations for Mobile Robotics](https://arxiv.org/abs/2510.01848) | 2025 · arxiv | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:dataset |
+| [GRIM: Task-Oriented Grasping with Conditioning on Generative Examples](https://arxiv.org/abs/2506.15607) | 2025 · arxiv | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasping |
+| [GRIP: A General Robotic Incremental Potential Contact Simulation Dataset for Unified Deformable-Rigid Coupled Grasping](https://arxiv.org/abs/2503.05020) | 2025 · arxiv | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:dataset |
 | [GripMap: An Efficient, Spatially Resolved Constraint Framework for Offline and Online Trajectory Planning in Autonomous Racing](https://arxiv.org/abs/2504.12115) | 2025 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
 | [GrndCtrl: Grounding World Models via Self-Supervised Reward Alignment](https://arxiv.org/abs/2512.01952) | 2025 · arxiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Pending specialty review | title:prediction or reasoning; title:world models |
 | [GRoQ-LoCO: Generalist and Robot-agnostic Quadruped Locomotion Control using Offline Datasets](https://arxiv.org/abs/2505.10973) | 2025 · arxiv | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:datasets |
@@ -203,8 +208,3 @@
 | [Learning Geometry-Aware Nonprehensile Pushing and Pulling with Dexterous Hands](https://arxiv.org/abs/2509.18455) | 2025 · arxiv | 暂定二级 / provisional: Dexterous Hands, Retargeting & Teleoperation → Multifinger Grasping & Control → Pending specialty review | title:dexterous hands or teleoperation; fallback |
 | [Learning More With Less: Sample Efficient Model-Based RL for Loco-Manipulation](https://arxiv.org/abs/2501.10499) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Learning Orientation Field for OSM-Guided Autonomous Navigation](https://arxiv.org/abs/2503.18276) | 2025 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
-| [Learning Parameterized Skills from Demonstrations](https://arxiv.org/abs/2510.24095) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | fallback; fallback |
-| [Learning Physics-Based Full-Body Human Reaching and Grasping from Brief Walking References](https://arxiv.org/abs/2503.07481) | 2025 · arxiv | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasping |
-| [Learning Predictive Visuomotor Coordination](https://arxiv.org/abs/2503.23300) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | fallback; fallback |
-| [Learning Primitive Embodied World Models: Towards Scalable Robotic Learning](https://arxiv.org/abs/2508.20840) | 2025 · arxiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Pending specialty review | title:prediction or reasoning; title:world models |
-| [Learning Robot Manipulation from Audio World Models](https://arxiv.org/abs/2512.08405) | 2025 · arxiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Pending specialty review | title:prediction or reasoning; title:world models |

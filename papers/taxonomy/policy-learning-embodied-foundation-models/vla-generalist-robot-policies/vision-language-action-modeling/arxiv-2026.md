@@ -1,15 +1,16 @@
 # Vision-Language-Action Modeling · 视觉语言动作建模 · arXiv 2026
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 1,225 papers · complete list for this taxonomy leaf
+> 1,226 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-13 | Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment | Suvarna Kadam, Soran Parsa | [Abstract](https://arxiv.org/abs/2611.18372) · [PDF](https://arxiv.org/pdf/2611.18372) | reviewed |
 | 2026-11-12 | What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation | Jinze Tao, Yuxiao Han, Kangkang Dong, Yancong Wei et al. | [Abstract](https://arxiv.org/abs/2611.16246) · [PDF](https://arxiv.org/pdf/2611.16246) | rule-assigned |
 | 2026-11-12 | STVLA: Spatial-aware and Temporal-memory forVision-Language-Action Models | Zhuo Han, Yeqiang Wang, Xinran Wang, Hongwei Han et al. | [Abstract](https://arxiv.org/abs/2611.16589) · [PDF](https://arxiv.org/pdf/2611.16589) | rule-assigned |
 | 2026-11-11 | What Makes a VLA Reactive? A Study of Execution Strategies for Dynamic Manipulation | Zhuoyue Li, Zhendong Han, Pankhuri Vanjani, Wenting Li et al. | [Abstract](https://arxiv.org/abs/2611.15491) · [PDF](https://arxiv.org/pdf/2611.15491) | rule-assigned |

@@ -1,12 +1,12 @@
 # Odometry & Relocalization · 里程计与重定位
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Localization%20%26%20Mapping&specialty=Odometry%20%26%20Relocalization#research-workbench)
 
-> 57 conference papers · 1,072 recent arXiv papers
+> 57 conference papers · 1,065 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -82,7 +82,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Visibility-Inspired Models of Touch Sensors for Navigation | IROS · Navigation | [Paper](https://arxiv.org/pdf/2203.04751) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981084) | rule-assigned |
 | 2022 | Whisker-Inspired Tactile Sensing for Contact Localization on Robot Manipulators | IROS · Tactile | [Paper](https://arxiv.org/pdf/2210.12387) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982122) | rule-assigned |
 
-## Recent arXiv papers (1,072)
+## Recent arXiv papers (1,065)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -1151,13 +1151,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-21 | Towards Accurate Loop Closure Detection in Semantic SLAM with 3D Semantic Covisibility Graphs | Zhentian Qian, Jie Fu, Jing Xiao | [Abstract](https://arxiv.org/abs/2311.12245) · [PDF](https://arxiv.org/pdf/2311.12245) | rule-assigned |
 | 2023-11-20 | MSCEqF: A Multi State Constraint Equivariant Filter for Vision-aided Inertial Navigation | Alessandro Fornasier, Pieter van Goor, Eren Allak, Robert Mahony et al. | [Abstract](https://arxiv.org/abs/2311.11649) · [PDF](https://arxiv.org/pdf/2311.11649) | rule-assigned |
 | 2023-11-16 | LIO-EKF: High Frequency LiDAR-Inertial Odometry using Extended Kalman Filters | Yibin Wu, Tiziano Guadagnino, Louis Wiesmann, Lasse Klingbeil et al. | [Abstract](https://arxiv.org/abs/2311.09887) · [PDF](https://arxiv.org/pdf/2311.09887) | rule-assigned |
-| 2023-11-15 | SwarMer: A Decentralized Localization Framework for Flying Light Specks | Hamed Alimohammadzadeh, Shahram Ghandeharizadeh | [Abstract](https://arxiv.org/abs/2312.04571) · [PDF](https://arxiv.org/pdf/2312.04571) | rule-assigned |
-| 2023-11-15 | Multi-Radar Inertial Odometry for 3D State Estimation using mmWave Imaging Radar | Jui-Te Huang, Ruoyang Xu, Akshay Hinduja, Michael Kaess | [Abstract](https://arxiv.org/abs/2311.08608) · [PDF](https://arxiv.org/pdf/2311.08608) | rule-assigned |
-| 2023-11-15 | High-Precision Fruit Localization Using Active Laser-Camera Scanning: Robust Laser Line Extraction for 2D-3D Transformation | Pengyu Chu, Zhaojian Li, Kaixiang Zhang, Kyle Lammers et al. | [Abstract](https://arxiv.org/abs/2311.08674) · [PDF](https://arxiv.org/pdf/2311.08674) | rule-assigned |
-| 2023-11-15 | AdVENTR: Autonomous Robot Navigation in Complex Outdoor Environments | Kasun Weerakoon, Adarsh Jagan Sathyamoorthy, Mohamed Elnoor, Dinesh Manocha | [Abstract](https://arxiv.org/abs/2311.08740) · [PDF](https://arxiv.org/pdf/2311.08740) | rule-assigned |
-| 2023-11-14 | Roadside LiDAR Assisted Cooperative Localization for Connected Autonomous Vehicles | Yuze Jiang, Ehsan Javanmardi, Jin Nakazato, Manabu Tsukada et al. | [Abstract](https://arxiv.org/abs/2311.07913) · [PDF](https://arxiv.org/pdf/2311.07913) | rule-assigned |
-| 2023-11-13 | LiLO: Lightweight and low-bias LiDAR Odometry method based on spherical range image filtering | Edison P. Velasco-Sánchez, Miguel Ángel Muñoz-Bañón, Francisco A. Candelas, Santiago T. Puente et al. | [Abstract](https://arxiv.org/abs/2311.07291) · [PDF](https://arxiv.org/pdf/2311.07291) | rule-assigned |
-| 2023-11-13 | Geo-Localization Based on Dynamically Weighted Factor-Graph | Miguel Ángel Muñoz-Bañón, Alejandro Olivas, Edison Velasco-Sánchez, Francisco A. Candelas et al. | [Abstract](https://arxiv.org/abs/2311.07301) · [PDF](https://arxiv.org/pdf/2311.07301) | rule-assigned |
 
 ---
 

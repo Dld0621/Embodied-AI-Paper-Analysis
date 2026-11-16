@@ -1,13 +1,17 @@
 # arxiv classification review · 2001–2200
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
+| [Temporally-Sampled Efficiently Adaptive State Lattices for Autonomous Ground Robot Navigation in Partially Observed Environments](https://arxiv.org/abs/2602.13159) | 2026 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
+| [Tempus: A Temporally Scalable Resource-Invariant GEMM Streaming Framework for Versal AI Edge](https://arxiv.org/abs/2605.00536) | 2026 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
+| [Tension Tells the Tail: Cable-Obstacle Interaction Sensing for Tethered Mobile Robot Navigation](https://arxiv.org/abs/2610.24449) | 2026 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
+| [TERRA: Learning Transportable Latent Actions through Temporal Effect Representation and Relational Alignment](https://arxiv.org/abs/2610.09509) | 2026 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
 | [Terrain characterization and locomotion adaptation in a small-scale lizard-inspired robot](https://arxiv.org/abs/2603.05837) | 2026 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
 | [Terrain-Dependent Intra-Cycle Leg Timing for Effective Locomotion on Granular Slopes](https://arxiv.org/abs/2610.04144) | 2026 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
 | [Test-Time Adaptation for Tactile-Vision-Language Models](https://arxiv.org/abs/2602.15873) | 2026 · arxiv | Perception, Representation & State Estimation → Tactile & Multimodal Perception → Pending specialty review | title:perception or state; title:tactile |
@@ -204,7 +208,3 @@
 | [Vision-Language-Delta-Action: Learning Compact Deltas as Actionable Transition Interfaces for Robotic Manipulation](https://arxiv.org/abs/2610.25874) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [VISION-SLS: Safe Perception-Based Control from Learned Visual Representations via System Level Synthesis](https://arxiv.org/abs/2604.24894) | 2026 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
 | [VISOR: A Vision-Language Model-based Test Oracle for Testing Robots](https://arxiv.org/abs/2605.10408) | 2026 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
-| [VISTA-DZ: Visual Semantic Trajectory Adaptation for Personalized Dilemma Zone Prediction](https://arxiv.org/abs/2606.29548) | 2026 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
-| [VISTA: Scale-Aware Visual Navigation via Action History Conditioning](https://arxiv.org/abs/2606.17294) | 2026 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
-| [VISTA: Visually Inferred Spatial ConTact Attention for Contact-Rich Manipulation](https://arxiv.org/abs/2608.25872) | 2026 · arxiv | Arm & General Object Manipulation → Contact-rich Manipulation → Pending specialty review | title:object manipulation; title:contact rich |
-| [VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis](https://arxiv.org/abs/2604.21914) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |

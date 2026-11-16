@@ -1,7 +1,7 @@
 # Walking & Gaits · 行走与步态
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Bipedal%20%26%20Humanoid%20Locomotion&specialty=Walking%20%26%20Gaits#research-workbench)
@@ -197,6 +197,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-12 | X-Nav Technical Report: Real-World Long-Horizon Indoor-to-Outdoor Navigation on a Humanoid Robot | Jiaxin Huang, Chengxing Lin, Xiaoyu Luo, Sirui Chen et al. | [Abstract](https://arxiv.org/abs/2611.17598) · [PDF](https://arxiv.org/pdf/2611.17598) | rule-assigned |
 | 2026-11-12 | MotionSkill: From Bipedal Motion Video to Control across Embodiments | Philip Niu, Xiaofeng Han, Sylvie Pan, Yang Wang | [Abstract](https://arxiv.org/abs/2611.16346) · [PDF](https://arxiv.org/pdf/2611.16346) | rule-assigned |
 | 2026-11-11 | Runtime Safety and Emergency Stops on a Full-Size Humanoid: Deployment Lessons and a Case for Graduated Force Authority | Max Conway, Yutong Zhang, Allen Devaraj, William Xie et al. | [Abstract](https://arxiv.org/abs/2611.15928) · [PDF](https://arxiv.org/pdf/2611.15928) | rule-assigned |
 | 2026-11-10 | Softness is something you also need! Why compliance helps control: information metrics of a passive walker with compliant ankle | Fabio Bonsignorio, Elisabetta Barletta, Sorin Dragomir, Francesco Esposito et al. | [Abstract](https://arxiv.org/abs/2611.13779) · [PDF](https://arxiv.org/pdf/2611.13779) | rule-assigned |
@@ -558,7 +559,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-07 | Modeling and Numerical Analysis of Kangaroo Lower Body based on Constrained Dynamics of Hybrid Serial-Parallel Floating-Base Systems | Enrico Mingo Hoffman, Andrea Curti, Narcis Miguel, Sai Kishor Kothakota et al. | [Abstract](https://arxiv.org/abs/2312.04161) · [PDF](https://arxiv.org/pdf/2312.04161) | rule-assigned |
 | 2023-12-07 | A Cost-Effective Test Bench for Evaluating Safe Human-Robot Interaction in Mobile Robotics | Atefeh Fereydooni, Armin Azarakhsh, Ayda Shafiei, Hesam Zandi et al. | [Abstract](https://arxiv.org/abs/2312.04056) · [PDF](https://arxiv.org/pdf/2312.04056) | rule-assigned |
 | 2023-11-29 | Adaptive Hierarchical Origami Metastructures | Yanbin Li, Antonio Di Lallo, Junxi Zhu, Yinding Chi et al. | [Abstract](https://arxiv.org/abs/2311.18055) · [PDF](https://arxiv.org/pdf/2311.18055) | rule-assigned |
-| 2023-11-13 | Predicting Continuous Locomotion Modes via Multidimensional Feature Learning from sEMG | Peiwen Fu, Wenjuan Zhong, Yuyang Zhang, Wenxuan Xiong et al. | [Abstract](https://arxiv.org/abs/2311.07395) · [PDF](https://arxiv.org/pdf/2311.07395) | rule-assigned |
 
 ---
 

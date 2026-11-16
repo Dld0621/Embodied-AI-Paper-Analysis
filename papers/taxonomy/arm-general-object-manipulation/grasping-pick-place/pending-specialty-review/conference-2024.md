@@ -1,7 +1,7 @@
 # Pending specialty review · 待审专题 · Conference 2024
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
@@ -115,7 +115,7 @@
 | 2024 | KOSMOS-E : Learning to Follow Instruction for Robotic Grasping | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS58592.2024.10802219) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802219) | needs-review |
 | 2024 | LAC-Net: Linear-Fusion Attention-Guided Convolutional Network for Accurate Robotic Grasping Under the Occlusion | IROS · Grasp | [Paper](https://arxiv.org/pdf/2408.03238) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802054) | needs-review |
 | 2024 | Learning a Pre-Grasp Manipulation Policy to Effectively Retrieve a Target in Dense Clutter | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801734) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801734) | needs-review |
-| 2024 | Learning Generalizable Manipulation Policy with Adapter-Based Parameter Fine-Tuning | IROS · Manipulation | [Paper](https://doi.org/10.1109/IROS58592.2024.10801544) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801544) | needs-review |
+| 2024 | Learning Generalizable Manipulation Policy with Adapter-Based Parameter Fine-Tuning | IROS · Manipulation | [Paper](https://ora.ox.ac.uk/objects/uuid:f08f03ed-6d9b-4440-8580-3c9662c61991/files/sqv33rz87f) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801544) | needs-review |
 | 2024 | Learning to Recover from Plan Execution Errors during Robot Manipulation: A Neuro-symbolic Approach | IROS · Manipulation | [Paper](https://arxiv.org/pdf/2405.18948) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801831) | needs-review |
 | 2024 | Loco-Manipulation with Nonimpulsive Contact-Implicit Planning in a Slithering Robot | IROS · Loco Manipulation | [Paper](https://arxiv.org/pdf/2404.08174) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802450) | needs-review |
 | 2024 | Modeling of Hydraulic Soft Hand with Rubber Sheet Reservoir and Evaluation of its Grasping Flexibility and Control | IROS · Grasp | [Paper](https://doi.org/10.1109/IROS58592.2024.10802355) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802355) | needs-review |

@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=3D%20Environment%20Perception&specialty=Pending%20specialty%20review#research-workbench)
 
-> 26 conference papers · 464 recent arXiv papers
+> 26 conference papers · 465 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -51,10 +51,12 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | End-to-End Learning of Hybrid Inverse Dynamics Models for Precise and Compliant Impedance Control | RSS · Dynamics Model | [Paper](https://arxiv.org/pdf/2205.13804) · [Index](https://dblp.org/rec/conf/rss/ReussD0BSN22) | needs-review |
 | 2022 | iSDF: Real-Time Neural Signed Distance Fields for Robot Perception | RSS · Robot Perception | [Paper](https://arxiv.org/abs/2204.02296) · [Index](https://dblp.org/rec/journals/corr/abs-2204-02296) | needs-review |
 
-## Recent arXiv papers (464)
+## Recent arXiv papers (465)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-13 | In Situ Monitoring and Predictive Modeling of Harmful Algal Blooms with Autonomous Surface Vehicles | Nenyi Kweku Nkensen Dadson, Jean Paul Gonzalez, Daniel P. Arabie, Ryan J. Cedel et al. | [Abstract](https://arxiv.org/abs/2611.18501) · [PDF](https://arxiv.org/pdf/2611.18501) | needs-review |
+| 2026-11-13 | Imitation Policies Learn a Proprioceptive Anchor: A Predictive Law for Perception Noise and Its Closed Loop Cost | Christopher Malili | [Abstract](https://arxiv.org/abs/2611.17658) · [PDF](https://arxiv.org/pdf/2611.17658) | needs-review |
 | 2026-11-11 | Where to Generate Touch: Do Image Latents Preserve Material Recognition? | Wanghao Ye, Aarosh Das, Sihan Chen, Yiting Wang et al. | [Abstract](https://arxiv.org/abs/2611.15834) · [PDF](https://arxiv.org/pdf/2611.15834) | needs-review |
 | 2026-11-11 | Interactive Perception of Granular Materials via Robotic Scooping and Force-Torque Sensing | Samuli Hynninen, Mohammad Amman, Meri Mäkelä, Anirvan Dutta et al. | [Abstract](https://arxiv.org/abs/2611.15339) · [PDF](https://arxiv.org/pdf/2611.15339) | needs-review |
 | 2026-11-10 | Personalized Affective Perception via Continual Learning in Human-Agent Negotiation | Mehmet Onur Keskin, Berk Buzcu, Nikhil Churamani, Reyhan Aydogan et al. | [Abstract](https://arxiv.org/abs/2611.14247) · [PDF](https://arxiv.org/pdf/2611.14247) | needs-review |
@@ -518,7 +520,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-27 | Towards Designing Spatial Robots that are Architecturally Motivated | Binh Vinh Duc Nguyen, Andrew Vande Moere | [Abstract](https://arxiv.org/abs/2311.16314) · [PDF](https://arxiv.org/pdf/2311.16314) | needs-review |
 | 2023-11-23 | Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception | Lei Fan, Mingfu Liang, Yunxuan Li, Gang Hua et al. | [Abstract](https://arxiv.org/abs/2311.13793) · [PDF](https://arxiv.org/pdf/2311.13793) | needs-review |
 | 2023-11-21 | Attacking Motion Planners Using Adversarial Perception Errors | Jonathan Sadeghi, Nicholas A. Lord, John Redford, Romain Mueller | [Abstract](https://arxiv.org/abs/2311.12722) · [PDF](https://arxiv.org/pdf/2311.12722) | needs-review |
-| 2023-11-13 | Collaborative Goal Tracking of Multiple Mobile Robots Based on Geometric Graph Neural Network | Weining Lu, Qingquan Lin, Litong Meng, Chenxi Li et al. | [Abstract](https://arxiv.org/abs/2311.07105) · [PDF](https://arxiv.org/pdf/2311.07105) | needs-review |
 
 ---
 

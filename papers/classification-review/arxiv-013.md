@@ -1,13 +1,18 @@
 # arxiv classification review · 2401–2600
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
+| [Adaptive Relative Pose Estimation Framework with Dual Noise Tuning for Safe Approaching Maneuvers](https://arxiv.org/abs/2507.16214) | 2025 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
+| [Adaptive Visuo-Tactile Fusion with Predictive Force Attention for Dexterous Manipulation](https://arxiv.org/abs/2505.13982) | 2025 · arxiv | 暂定二级 / provisional: Dexterous Hands, Retargeting & Teleoperation → Multifinger Grasping & Control → Pending specialty review | title:dexterous hands or teleoperation; fallback |
+| [Adaptive Wiping: Adaptive contact-rich manipulation through few-shot imitation learning with Force-Torque feedback and pre-trained object representations](https://arxiv.org/abs/2505.06451) | 2025 · arxiv | Arm & General Object Manipulation → Contact-rich Manipulation → Pending specialty review | title:object manipulation; title:contact rich |
+| [ADMM-MCBF-LCA: A Layered Control Architecture for Safe Real-Time Navigation](https://arxiv.org/abs/2503.02208) | 2025 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
+| [Advances in Compliance Detection: Novel Models Using Vision-Based Tactile Sensors](https://arxiv.org/abs/2506.14980) | 2025 · arxiv | 暂定二级 / provisional: Robot Hardware & Systems → Mechanisms & Actuation → Pending specialty review | title:hardware or deployment contribution; fallback |
 | [Advances in Hybrid Modular Climbing Robots: Design Principles and Refinement Strategies](https://arxiv.org/abs/2503.07423) | 2025 · arxiv | 暂定二级 / provisional: Robot Hardware & Systems → Mechanisms & Actuation → Pending specialty review | title:hardware or deployment contribution; fallback |
 | [Advancing Audio-Visual Navigation Through Multi-Agent Collaboration in 3D Environments](https://arxiv.org/abs/2509.22698) | 2025 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
 | [Advancing Frontiers of Path Integral Theory for Stochastic Optimal Control](https://arxiv.org/abs/2504.17154) | 2025 · arxiv | 暂定二级 / provisional: Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | fallback; fallback |
@@ -203,8 +208,3 @@
 | [Communication-aware planning for robot teams deployment](https://arxiv.org/abs/2503.18545) | 2025 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
 | [Comparing Self-Disclosure Themes and Semantics to a Human, a Robot, and a Disembodied Agent](https://arxiv.org/abs/2504.06374) | 2025 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
 | [Comparison between External and Internal Single Stage Planetary gearbox actuators for legged robots](https://arxiv.org/abs/2506.16356) | 2025 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
-| [Comparison of Forced and Unforced Rendezvous, Proximity Operations, and Docking Under Model Mismatch](https://arxiv.org/abs/2510.13004) | 2025 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
-| [Comparison of Waymo Rider-Only Crash Rates by Crash Type to Human Benchmarks at 56.7 Million Miles](https://arxiv.org/abs/2505.01515) | 2025 · arxiv | Data, Simulation & Evaluation → Benchmarks & Experimental Methods → Pending specialty review | title:data or evaluation contribution; title:benchmarks |
-| [COMPASS: Confined-space Manipulation Planning with Active Sensing Strategy](https://arxiv.org/abs/2509.14787) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
-| [Compose by Focus: Scene Graph-based Atomic Skills](https://arxiv.org/abs/2509.16053) | 2025 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | fallback; fallback |
-| [Computational Onboard Data Management for Heterogeneous Autonomous Vehicle Streams](https://arxiv.org/abs/2511.19453) | 2025 · arxiv | 暂定二级 / provisional: Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | fallback; fallback |

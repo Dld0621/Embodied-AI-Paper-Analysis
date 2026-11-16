@@ -1,12 +1,12 @@
 # Domain Adaptation & Transfer · 域适配与迁移
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Sim-to-real%20Transfer&specialty=Domain%20Adaptation%20%26%20Transfer#research-workbench)
 
-> 42 conference papers · 266 recent arXiv papers
+> 42 conference papers · 267 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -50,7 +50,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | The Power of Input: Benchmarking Zero-Shot Sim-to-Real Transfer of Reinforcement Learning Control Policies for Quadrotor Control | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2410.07686) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802831) | rule-assigned |
 | 2024 | EASI: Evolutionary Adversarial Simulator Identification for Sim-to-Real Transfer | NeurIPS · Simulator | [Paper](https://doi.org/10.52202/079017-0212) · [Publisher](https://doi.org/10.52202/079017-0212) | rule-assigned |
 | 2024 | DrEureka: Language Model Guided Sim-To-Real Transfer | RSS · Language Model | [Paper](https://arxiv.org/abs/2406.01967) · [Index](https://dblp.org/rec/conf/rss/MaLWZFBJ24) | rule-assigned |
-| 2024 | Natural Language Can Help Bridge the Sim2Real Gap | RSS · Sim2Real | [Paper](https://arxiv.org/abs/2405.10020) · [Index](https://dblp.org/rec/journals/corr/abs-2405-10020) | rule-assigned |
+| 2024 | Natural Language Can Help Bridge the Sim2Real Gap | RSS · Sim2Real | [Paper](https://arxiv.org/abs/2405.10020) · [Index](https://dblp.org/rec/conf/rss/0002FMM24) | rule-assigned |
 | 2023 | AdaptSim: Task-Driven Simulation Adaptation for Sim-to-Real Transfer | CoRL · Simulation | [Paper](https://arxiv.org/pdf/2302.04903) · [Index](https://dblp.org/rec/journals/corr/abs-2302-04903) | rule-assigned |
 | 2023 | What Went Wrong? Closing the Sim-to-Real Gap via Differentiable Causal Discovery | CoRL · Sim To Real | [Paper](https://arxiv.org/abs/2306.15864) · [Index](https://dblp.org/rec/journals/corr/abs-2306-15864) | rule-assigned |
 | 2023 | GenSim: Generating Robotic Simulation Tasks via Large Language Models | ICLR · Large Language Model | [Paper](https://arxiv.org/pdf/2310.01361) · [Index](https://dblp.org/rec/journals/corr/abs-2310-01361) | rule-assigned |
@@ -67,10 +67,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Towards Inclusive HRI: Using Sim2Real to Address Underrepresentation in Emotion Expression Recognition | IROS · Sim2Real | [Paper](https://arxiv.org/pdf/2208.07472) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982252) | rule-assigned |
 | 2022 | Transferring Multi-Agent Reinforcement Learning Policies for Autonomous Driving using Sim-to-Real | IROS · Sim To Real | [Paper](https://arxiv.org/pdf/2203.11653) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981319) | rule-assigned |
 
-## Recent arXiv papers (266)
+## Recent arXiv papers (267)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-13 | Heavy Metal Acrobatics: Learning Dynamic Control for Skid-Steer Loaders | Pierre-Jean Lorentz, Pascal Egli, Edo Jelavic, Cliff Li et al. | [Abstract](https://arxiv.org/abs/2611.18365) · [PDF](https://arxiv.org/pdf/2611.18365) | rule-assigned |
 | 2026-11-11 | Reading the Table: Sim-to-Real Game State Detection for the Chef's Hat Card Game | Connor Gäde, Matthias Kerzel, Hauke Bünning, Jan-Gerrit Habekost et al. | [Abstract](https://arxiv.org/abs/2611.15524) · [PDF](https://arxiv.org/pdf/2611.15524) | rule-assigned |
 | 2026-11-11 | Embedded Sim-to-Real Visual Servoing: Learned Reaching and Force-Guided Placement | Dezhi Sun, Duy Khang Banh, Kenan Niu | [Abstract](https://arxiv.org/abs/2611.15658) · [PDF](https://arxiv.org/pdf/2611.15658) | rule-assigned |
 | 2026-11-06 | Autonomous Particle Image Velocimetry Using Zero-Shot Sim-to-Real Reinforcement Learning | Chang Rajani, Luke Sebastien Marsden, Stephan Kunz, Claudio Mucignat et al. | [Abstract](https://arxiv.org/abs/2611.09679) · [PDF](https://arxiv.org/pdf/2611.09679) | rule-assigned |
@@ -235,7 +236,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025-07-31 | Quantifying and Visualizing Sim-to-Real Gaps: Physics-Guided Regularization for Reproducibility | Yuta Kawachi | [Abstract](https://arxiv.org/abs/2507.23445) · [PDF](https://arxiv.org/pdf/2507.23445) | rule-assigned |
 | 2025-07-28 | Uncertainty-aware Planning with Inaccurate Models for Robotized Liquid Handling | Marco Faroni, Carlo Odesco, Andrea Zanchettin, Paolo Rocco | [Abstract](https://arxiv.org/abs/2507.20861) · [PDF](https://arxiv.org/pdf/2507.20861) | rule-assigned |
 | 2025-07-19 | Sensor-Space Based Robust Kinematic Control of Redundant Soft Manipulator by Learning | Yinan Meng, Kun Qian, Jiong Yang, Renbo Su et al. | [Abstract](https://arxiv.org/abs/2507.16842) · [PDF](https://arxiv.org/pdf/2507.16842) | rule-assigned |
-| 2025-07-14 | Foundation Model Driven Robotics: A Comprehensive Review | Muhammad Tayyab Khan, Ammar Waheed | [Abstract](https://arxiv.org/abs/2507.10087) · [PDF](https://arxiv.org/pdf/2507.10087) | rule-assigned |
+| 2025-07-14 | Foundation Model Driven Robotics: A Comprehensive Review | Muhammad Tayyab Khan, Ammar Waheed, Seung Ki Moon | [Abstract](https://arxiv.org/abs/2507.10087) · [PDF](https://arxiv.org/pdf/2507.10087) | rule-assigned |
 | 2025-07-11 | Robotic Calibration Based on Haptic Feedback Improves Sim-to-Real Transfer | Juraj Gavura, Michal Vavrecka, Igor Farkas, Connor Gade | [Abstract](https://arxiv.org/abs/2507.08572) · [PDF](https://arxiv.org/pdf/2507.08572) | rule-assigned |
 | 2025-07-03 | The Sound of Simulation: Learning Multimodal Sim-to-Real Robot Policies with Generative Audio | Renhao Wang, Haoran Geng, Tingle Li, Feishi Wang et al. | [Abstract](https://arxiv.org/abs/2507.02864) · [PDF](https://arxiv.org/pdf/2507.02864) | rule-assigned |
 | 2025-07-01 | Box Pose and Shape Estimation and Domain Adaptation for Large-Scale Warehouse Automation | Xihang Yu, Rajat Talak, Jingnan Shi, Ulrich Viereck et al. | [Abstract](https://arxiv.org/abs/2507.00984) · [PDF](https://arxiv.org/pdf/2507.00984) | rule-assigned |

@@ -1,12 +1,12 @@
 # Pending specialty review · 待审专题
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Tactile%20%26%20Multimodal%20Perception&specialty=Pending%20specialty%20review#research-workbench)
 
-> 42 conference papers · 106 recent arXiv papers
+> 42 conference papers · 104 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -67,7 +67,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Soft Tactile Contour Following for Robot-Assisted Wiping and Bathing | IROS · Tactile | [Paper](https://doi.org/10.1109/IROS47612.2022.9982071) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9982071) | needs-review |
 | 2022 | Action Conditioned Tactile Prediction: a case study on slip prediction | RSS · Tactile | [Paper](https://arxiv.org/pdf/2205.09430) · [Index](https://dblp.org/rec/journals/corr/abs-2205-09430) | needs-review |
 
-## Recent arXiv papers (106)
+## Recent arXiv papers (104)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -175,8 +175,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-01-18 | TEXterity: Tactile Extrinsic deXterity | Antonia Bronars, Sangwoon Kim, Parag Patre, Alberto Rodriguez | [Abstract](https://arxiv.org/abs/2401.10230) · [PDF](https://arxiv.org/pdf/2401.10230) | needs-review |
 | 2023-12-13 | Pose and shear-based tactile servoing | John Lloyd, Nathan F. Lepora | [Abstract](https://arxiv.org/abs/2312.08411) · [PDF](https://arxiv.org/pdf/2312.08411) | needs-review |
 | 2023-11-30 | Learning active tactile perception through belief-space control | Jean-François Tremblay, David Meger, Francois Hogan, Gregory Dudek | [Abstract](https://arxiv.org/abs/2312.00215) · [PDF](https://arxiv.org/pdf/2312.00215) | needs-review |
-| 2023-11-13 | Towards Transferring Tactile-based Continuous Force Control Policies from Simulation to Robot | Luca Lach, Robert Haschke, Davide Tateo, Jan Peters et al. | [Abstract](https://arxiv.org/abs/2311.07245) · [PDF](https://arxiv.org/pdf/2311.07245) | needs-review |
-| 2023-11-13 | TIAGo RL: Simulated Reinforcement Learning Environments with Tactile Data for Mobile Robots | Luca Lach, Francesco Ferro, Robert Haschke | [Abstract](https://arxiv.org/abs/2311.07260) · [PDF](https://arxiv.org/pdf/2311.07260) | needs-review |
 
 ---
 

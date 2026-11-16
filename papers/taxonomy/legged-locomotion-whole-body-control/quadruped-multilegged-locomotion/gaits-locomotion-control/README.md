@@ -1,12 +1,12 @@
 # Gaits & Locomotion Control · 步态与运动控制
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Quadruped%20%26%20Multilegged%20Locomotion&specialty=Gaits%20%26%20Locomotion%20Control#research-workbench)
 
-> 234 conference papers · 491 recent arXiv papers
+> 234 conference papers · 492 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -259,10 +259,11 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Zero-Shot Retargeting of Learned Quadruped Locomotion Policies Using Hybrid Kinodynamic Model Predictive Control | IROS · Locomotion | [Paper](https://arxiv.org/pdf/2209.14123) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981967) | rule-assigned |
 | 2022 | Learning Forward Dynamics Model and Informed Trajectory Sampler for Safe Quadruped Navigation | RSS · Quadruped | [Paper](https://arxiv.org/abs/2204.08647) · [Index](https://dblp.org/rec/journals/corr/abs-2204-08647) | rule-assigned |
 
-## Recent arXiv papers (491)
+## Recent arXiv papers (492)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-13 | PROOF: Perceptive Robustness via Out-of-Distribution Fallback for Legged Locomotion | Siyuan Wang, Dongjie Zhu, Jinxuan Lu, Wenjun Xu et al. | [Abstract](https://arxiv.org/abs/2611.18305) · [PDF](https://arxiv.org/pdf/2611.18305) | rule-assigned |
 | 2026-11-05 | Kinematic analysis of a double-closed-loop four-bar chain-based leg for a multimodal quadruped-pentarotor robot | Prashant Raturi, Santhakumar Mohan | [Abstract](https://arxiv.org/abs/2611.07470) · [PDF](https://arxiv.org/pdf/2611.07470) | rule-assigned |
 | 2026-11-04 | SCRUB: Contact-Based Surface-Frame Estimation for Force-Motion Control with an Armless Quadruped | Sourav Selvaraj, Juan Pablo Espinosa Chessal, Mahdi Agheli | [Abstract](https://arxiv.org/abs/2611.06649) · [PDF](https://arxiv.org/pdf/2611.06649) | rule-assigned |
 | 2026-11-03 | Caging Vision-Language Navigation for Legged Robots via Barrier-Certified Safety Architecture | Abhijeet M. Kulkarni, Saimouli Katragadda, Yuze Du, Zijun Sha et al. | [Abstract](https://arxiv.org/abs/2611.04972) · [PDF](https://arxiv.org/pdf/2611.04972) | rule-assigned |

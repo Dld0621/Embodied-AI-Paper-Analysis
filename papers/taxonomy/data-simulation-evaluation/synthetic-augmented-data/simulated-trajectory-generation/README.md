@@ -1,12 +1,12 @@
 # Simulated Trajectory Generation · 仿真轨迹生成
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Synthetic%20%26%20Augmented%20Data&specialty=Simulated%20Trajectory%20Generation#research-workbench)
 
-> 2 conference papers · 64 recent arXiv papers
+> 2 conference papers · 67 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -27,10 +27,13 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | MetaFold: Language-Guided Multi-Category Garment Folding Framework via Trajectory Generation and Foundation Model | IROS · Foundation Model | [Paper](https://arxiv.org/pdf/2503.08372) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246072) | rule-assigned |
 | 2024 | A Fast Online Omnidirectional Quadrupedal Jumping Framework Via Virtual-Model Control and Minimum Jerk Trajectory Generation | IROS · Quadruped | [Paper](https://arxiv.org/pdf/2407.00658) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802277) | rule-assigned |
 
-## Recent arXiv papers (64)
+## Recent arXiv papers (67)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-13 | TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real | Huiwen Han, Nuo Chen, Ziyao Zeng, Dayou Li et al. | [Abstract](https://arxiv.org/abs/2611.17619) · [PDF](https://arxiv.org/pdf/2611.17619) | reviewed |
+| 2026-11-13 | AI-guided robotic in situ fabrication of curvature- and tissue-adaptive wireless bioelectronics | Hiroyuki Tetsuka, Jiaju Ma, Naomi Kumano, Minoru Hirano | [Abstract](https://arxiv.org/abs/2611.17638) · [PDF](https://arxiv.org/pdf/2611.17638) | rule-assigned |
+| 2026-11-12 | Agentic-Teacher: An Agentic Data Engine for Failure-Driven VLA Post-Training | Gongyue Teng, Yuqing Xie, Yixian Zhang, Feng Gao et al. | [Abstract](https://arxiv.org/abs/2611.17394) · [PDF](https://arxiv.org/pdf/2611.17394) | reviewed |
 | 2026-10-25 | Trajectory Generation and Control for Quadrotors | Sandesh Thapa | [Abstract](https://arxiv.org/abs/2610.34456) · [PDF](https://arxiv.org/pdf/2610.34456) | rule-assigned |
 | 2026-10-18 | Learning Waypoints and Passage Events for Decentralized Multi-Quadrotor Trajectory Planning | Yunhan Shi, Jia Deng, Zehao Jia, Lin Cheng et al. | [Abstract](https://arxiv.org/abs/2610.25024) · [PDF](https://arxiv.org/pdf/2610.25024) | rule-assigned |
 | 2026-09-20 | FlockDiffusion: Assignment-Conditioned Diffusion for Multi-Drone Task Allocation and Completion | Iana Zhura, Satenik Akopyan, Roohan Ahmed Khan, Miguel Altamirano Cabrera et al. | [Abstract](https://arxiv.org/abs/2609.23745) · [PDF](https://arxiv.org/pdf/2609.23745) | rule-assigned |

@@ -1,7 +1,7 @@
 # Task & Capability Benchmarks · 任务与能力基准
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Benchmarks%20%26%20Experimental%20Methods&specialty=Task%20%26%20Capability%20Benchmarks#research-workbench)
@@ -113,7 +113,9 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-13 | Ego2Flow: Benchmarking the Traffic-System Impact of Autonomous Driving on Maps Distilled from Real-World Roads | Yu Dong, Weiying Shen, Hangyu Li, Shu Han et al. | [Abstract](https://arxiv.org/abs/2611.17720) · [PDF](https://arxiv.org/pdf/2611.17720) | rule-assigned |
 | 2026-11-12 | UAV-Flow++: A Unified Suite for Benchmarking and Learning Language-Guided UAV Flight | Donglin Yang, Xiangyu Wang, Yantong Zhong, Wenhao Zheng et al. | [Abstract](https://arxiv.org/abs/2611.17163) · [PDF](https://arxiv.org/pdf/2611.17163) | rule-assigned |
+| 2026-11-12 | Talk to Act: A Synthetic Multi-Turn Dialogue Benchmark for Human Intent Extraction and Action Planning in Robotics | Deepu Krishnareddy, Mohammad Haziq Khan, Michael Danner, Matthias Rätsch | [Abstract](https://arxiv.org/abs/2611.17549) · [PDF](https://arxiv.org/pdf/2611.17549) | rule-assigned |
 | 2026-11-12 | Informative Path Planning with Gaussian Processes: Error Bounds, Algorithms, and Benchmarks | Kalvik Jakkala, Jennifer Wakulicz, Donald G. Dansereau, Srinivas Akella et al. | [Abstract](https://arxiv.org/abs/2611.16877) · [PDF](https://arxiv.org/pdf/2611.16877) | rule-assigned |
 | 2026-11-12 | AstroMemBench: A Benchmark for Memory Systems in Embodied Spacecraft Agents | You Wu, Guhong Zhang, Hongwei Li, Xinyue Hong et al. | [Abstract](https://arxiv.org/abs/2611.16590) · [PDF](https://arxiv.org/pdf/2611.16590) | rule-assigned |
 | 2026-11-11 | JustRUA: A Controlled Study of GPT-6 Robot-Use Agents | Zefan Wang, Yufan Dang, Xuanwei Shi, Mingqi Gao et al. | [Abstract](https://arxiv.org/abs/2611.16009) · [PDF](https://arxiv.org/pdf/2611.16009) | rule-assigned |
@@ -823,8 +825,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-12-04 | RiskBench: A Scenario-based Benchmark for Risk Identification | Chi-Hsi Kung, Chieh-Chi Yang, Pang-Yuan Pao, Shu-Wei Lu et al. | [Abstract](https://arxiv.org/abs/2312.01659) · [PDF](https://arxiv.org/pdf/2312.01659) | rule-assigned |
 | 2023-11-24 | IDD-AW: A Benchmark for Safe and Robust Segmentation of Drive Scenes in Unstructured Traffic and Adverse Weather | Furqan Ahmed Shaik, Abhishek Malreddy, Nikhil Reddy Billa, Kunal Chaudhary et al. | [Abstract](https://arxiv.org/abs/2311.14459) · [PDF](https://arxiv.org/pdf/2311.14459) | rule-assigned |
 | 2023-11-22 | A Propagation Perspective on Recursive Forward Dynamics for Systems with Kinematic Loops | Matthew Chignoli, Nicholas Adrian, Sangbae Kim, Patrick M. Wensing | [Abstract](https://arxiv.org/abs/2311.13732) · [PDF](https://arxiv.org/pdf/2311.13732) | rule-assigned |
-| 2023-11-15 | Nothing Stands Still: A Spatiotemporal Benchmark on 3D Point Cloud Registration Under Large Geometric and Temporal Change | Tao Sun, Yan Hao, Shengyu Huang, Silvio Savarese et al. | [Abstract](https://arxiv.org/abs/2311.09346) · [PDF](https://arxiv.org/pdf/2311.09346) | rule-assigned |
-| 2023-11-13 | Interaction is all You Need? A Study of Robots Ability to Understand and Execute | Kushal Koshti, Nidhir Bhavsar | [Abstract](https://arxiv.org/abs/2311.07150) · [PDF](https://arxiv.org/pdf/2311.07150) | rule-assigned |
 
 ---
 

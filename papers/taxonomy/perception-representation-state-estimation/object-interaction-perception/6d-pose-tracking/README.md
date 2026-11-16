@@ -1,12 +1,12 @@
 # 6D Pose & Tracking · 六维姿态与跟踪
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Object%20%26%20Interaction%20Perception&specialty=6D%20Pose%20%26%20Tracking#research-workbench)
 
-> 38 conference papers · 201 recent arXiv papers
+> 38 conference papers · 200 recent arXiv papers
 
 | Level | Classification |
 |---|---|
@@ -29,7 +29,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026 | M-VTOP: Modular Visuo-Tactile Object Pose Estimation for High-Precision Robotic Manipulation | ICRA · Tactile | [Paper](https://doi.org/10.1109/icra57385.2026.11697428) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11697428) | rule-assigned |
 | 2026 | Sym-Servo: Disambiguate Symmetric Object Pose by End-to-End Optimal Visual Servo | ICRA · Object Pose | [Paper](https://doi.org/10.1109/icra57385.2026.11696707) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11696707) | rule-assigned |
 | 2026 | You Only Pose Once: A Minimalist’s Detection Transformer for Monocular RGB Category-level 9D Multi-Object Pose Estimation | ICRA · Object Pose | [Paper](https://arxiv.org/pdf/2508.14965) · [Publisher](https://doi.org/10.1109/ICRA57385.2026.11695892) | rule-assigned |
-| 2025 | 6D Object Pose Tracking in Internet Videos for Robotic Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2503.10307) · [Index](https://dblp.org/rec/journals/corr/abs-2503-10307) | rule-assigned |
+| 2025 | 6D Object Pose Tracking in Internet Videos for Robotic Manipulation | ICLR · Manipulation | [Paper](https://arxiv.org/abs/2503.10307) · [Index](https://dblp.org/rec/conf/iclr/PonimatkinCSFLP25) | rule-assigned |
 | 2025 | A Unified End-to-End Network for Category-Level and Instance-Level Object Pose Estimation from RGB Images | ICRA · Object Pose | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128247) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128247) | rule-assigned |
 | 2025 | Generalizable Zero-Shot Object Pose Estimation for Bin-Picking | ICRA · Object Pose | [Paper](https://doi.org/10.1109/ICRA55743.2025.11128200) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128200) | rule-assigned |
 | 2025 | KALM: Keypoint Abstraction Using Large Models for Object-Relative Imitation Learning | ICRA · Imitation Learning | [Paper](https://arxiv.org/pdf/2410.23254) · [Publisher](https://doi.org/10.1109/ICRA55743.2025.11128681) | rule-assigned |
@@ -63,7 +63,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2022 | Simultaneous Contact Location and Object Pose Estimation Using Proprioception and Tactile Feedback | IROS · Tactile | [Paper](https://arxiv.org/pdf/2206.01245) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981762) | rule-assigned |
 | 2022 | SLAM-Supported Self-Training for 6D Object Pose Estimation | IROS · Object Pose | [Paper](https://arxiv.org/pdf/2203.04424) · [Publisher](https://doi.org/10.1109/IROS47612.2022.9981145) | rule-assigned |
 
-## Recent arXiv papers (201)
+## Recent arXiv papers (200)
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -267,7 +267,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2023-11-27 | MOT-DETR: 3D Single Shot Detection and Tracking with Transformers to build 3D representations for Agro-Food Robots | David Rapado-Rincon, Henk Nap, Katarina Smolenova, Eldert J. van Henten et al. | [Abstract](https://arxiv.org/abs/2311.15674) · [PDF](https://arxiv.org/pdf/2311.15674) | rule-assigned |
 | 2023-11-20 | CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement | Boni Hu, Lin Chen, Runjian Chen, Shuhui Bu et al. | [Abstract](https://arxiv.org/abs/2311.11604) · [PDF](https://arxiv.org/pdf/2311.11604) | rule-assigned |
 | 2023-11-17 | Collaborative Grid Mapping for Moving Object Tracking Evaluation | Rémy Huet, Antoine Lima, Philippe Xu, Véronique Cherfaoui et al. | [Abstract](https://arxiv.org/abs/2311.10415) · [PDF](https://arxiv.org/pdf/2311.10415) | rule-assigned |
-| 2023-11-13 | ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers | Edison P. Velasco Sánchez, Miguel Ángel Muñoz-Bañón, Francisco A. Candelas, Santiago T. Puente et al. | [Abstract](https://arxiv.org/abs/2311.07268) · [PDF](https://arxiv.org/pdf/2311.07268) | rule-assigned |
 
 ---
 

@@ -1,13 +1,17 @@
 # arxiv classification review · 2201–2400
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
+| [VISTA-DZ: Visual Semantic Trajectory Adaptation for Personalized Dilemma Zone Prediction](https://arxiv.org/abs/2606.29548) | 2026 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
+| [VISTA: Scale-Aware Visual Navigation via Action History Conditioning](https://arxiv.org/abs/2606.17294) | 2026 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
+| [VISTA: Visually Inferred Spatial ConTact Attention for Contact-Rich Manipulation](https://arxiv.org/abs/2608.25872) | 2026 · arxiv | Arm & General Object Manipulation → Contact-rich Manipulation → Pending specialty review | title:object manipulation; title:contact rich |
+| [VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis](https://arxiv.org/abs/2604.21914) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Visual Cue Guided Video Planning for Generalizable Robot Navigation](https://arxiv.org/abs/2609.16737) | 2026 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
 | [Visual Representation and History Modeling for Navigation World Models](https://arxiv.org/abs/2609.29555) | 2026 · arxiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Pending specialty review | title:prediction or reasoning; title:world models |
 | [Visual Task Modeling and Automated Planning for Humanoid Robots in Education of Individuals with Autism Spectrum Disorder](https://arxiv.org/abs/2610.27162) | 2026 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
@@ -60,6 +64,7 @@
 | [When May I Help You? On The Effect of Proactivity on Group Human-Robot Collaboration](https://arxiv.org/abs/2606.28469) | 2026 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | fallback; fallback |
 | [When Obstacles Bend: Modeling Vegetation Deformation in the context of Field Robotics](https://arxiv.org/abs/2608.26050) | 2026 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
 | [When Video Misreads: Closed-Loop Distillation of Reading Heuristics for Exploratory Manipulation Trace QA](https://arxiv.org/abs/2606.08542) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
+| [When Will You Hand It Over? A Hidden Start Delay Makes Self-Play Handover Robust to Unfamiliar Partners](https://arxiv.org/abs/2611.18491) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [When Words and Bodies Disagree: Realizing Verbal and Nonverbal Mismatch](https://arxiv.org/abs/2608.22731) | 2026 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
 | [Where to Generate Touch: Do Image Latents Preserve Material Recognition?](https://arxiv.org/abs/2611.15834) | 2026 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | fallback; fallback |
 | [Where to Perch in a Tree: Vision-Guidance for Tree-Grasping Drones](https://arxiv.org/abs/2605.15430) | 2026 · arxiv | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasping |
@@ -203,8 +208,3 @@
 | [Adaptive Locomotion on Mud through Proprioceptive Sensing of Substrate Properties](https://arxiv.org/abs/2504.19607) | 2025 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
 | [Adaptive Negative Damping Control for User-Dependent Multi-Terrain Walking Assistance with a Hip Exoskeleton](https://arxiv.org/abs/2503.03662) | 2025 · arxiv | Robot Hardware & Systems → Sensors & Human Interfaces → Pending specialty review | title:hardware or deployment contribution; title:exoskeleton |
 | [Adaptive Neural Unscented Kalman Filter](https://arxiv.org/abs/2503.05490) | 2025 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
-| [Adaptive Relative Pose Estimation Framework with Dual Noise Tuning for Safe Approaching Maneuvers](https://arxiv.org/abs/2507.16214) | 2025 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
-| [Adaptive Visuo-Tactile Fusion with Predictive Force Attention for Dexterous Manipulation](https://arxiv.org/abs/2505.13982) | 2025 · arxiv | 暂定二级 / provisional: Dexterous Hands, Retargeting & Teleoperation → Multifinger Grasping & Control → Pending specialty review | title:dexterous hands or teleoperation; fallback |
-| [Adaptive Wiping: Adaptive contact-rich manipulation through few-shot imitation learning with Force-Torque feedback and pre-trained object representations](https://arxiv.org/abs/2505.06451) | 2025 · arxiv | Arm & General Object Manipulation → Contact-rich Manipulation → Pending specialty review | title:object manipulation; title:contact rich |
-| [ADMM-MCBF-LCA: A Layered Control Architecture for Safe Real-Time Navigation](https://arxiv.org/abs/2503.02208) | 2025 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
-| [Advances in Compliance Detection: Novel Models Using Vision-Based Tactile Sensors](https://arxiv.org/abs/2506.14980) | 2025 · arxiv | 暂定二级 / provisional: Robot Hardware & Systems → Mechanisms & Actuation → Pending specialty review | title:hardware or deployment contribution; fallback |

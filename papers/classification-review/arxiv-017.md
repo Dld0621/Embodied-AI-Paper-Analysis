@@ -1,13 +1,18 @@
 # arxiv classification review · 3201–3400
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
+| [Learning Parameterized Skills from Demonstrations](https://arxiv.org/abs/2510.24095) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | fallback; fallback |
+| [Learning Physics-Based Full-Body Human Reaching and Grasping from Brief Walking References](https://arxiv.org/abs/2503.07481) | 2025 · arxiv | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasping |
+| [Learning Predictive Visuomotor Coordination](https://arxiv.org/abs/2503.23300) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | fallback; fallback |
+| [Learning Primitive Embodied World Models: Towards Scalable Robotic Learning](https://arxiv.org/abs/2508.20840) | 2025 · arxiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Pending specialty review | title:prediction or reasoning; title:world models |
+| [Learning Robot Manipulation from Audio World Models](https://arxiv.org/abs/2512.08405) | 2025 · arxiv | World Models, Planning & Embodied Reasoning → World & Dynamics Modeling → Pending specialty review | title:prediction or reasoning; title:world models |
 | [Learning Robot Safety from Sparse Human Feedback using Conformal Prediction](https://arxiv.org/abs/2501.04823) | 2025 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | fallback; fallback |
 | [Learning Semantic Atomic Skills for Multi-Task Robotic Manipulation](https://arxiv.org/abs/2512.18368) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [Learning Skills from Action-Free Videos](https://arxiv.org/abs/2512.20052) | 2025 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
@@ -203,8 +208,3 @@
 | [Omni-Scan: Creating Visually-Accurate Digital Twin Object Models Using a Bimanual Robot with Handover and Gaussian Splat Merging](https://arxiv.org/abs/2508.00354) | 2025 · arxiv | Arm & General Object Manipulation → Coordinated & Complex Manipulation → Pending specialty review | title:object manipulation; title:bimanual |
 | [OmniD: Generalizable Robot Manipulation Policy via Image-Based BEV Representation](https://arxiv.org/abs/2508.11898) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
 | [OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints](https://arxiv.org/abs/2501.03841) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
-| [OmniShape: Zero-Shot Multi-Hypothesis Shape and Pose Estimation in the Real World](https://arxiv.org/abs/2508.03669) | 2025 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |
-| [OmniVIC: A Self-Improving Variable Impedance Controller with Vision-Language In-Context Learning for Safe Robotic Manipulation](https://arxiv.org/abs/2510.17150) | 2025 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
-| [On Disturbance-Aware Minimum-Time Trajectory Planning: Evidence from Tests on a Dynamic Driving Simulator](https://arxiv.org/abs/2512.04917) | 2025 · arxiv | Data, Simulation & Evaluation → Simulation & Digital Twins → Pending specialty review | title:data or evaluation contribution; title:simulator |
-| [On Learning Closed-Loop Probabilistic Multi-Agent Simulator](https://arxiv.org/abs/2508.00384) | 2025 · arxiv | Data, Simulation & Evaluation → Simulation & Digital Twins → Pending specialty review | title:data or evaluation contribution; title:simulator |
-| [On the causality between affective impact and coordinated human-robot reactions](https://arxiv.org/abs/2508.04834) | 2025 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | fallback; fallback |

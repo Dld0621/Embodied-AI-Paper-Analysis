@@ -1,7 +1,7 @@
 # Detection & Segmentation · 物体检测与分割
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Perception%2C%20Representation%20%26%20State%20Estimation&subcategory=Object%20%26%20Interaction%20Perception&specialty=Detection%20%26%20Segmentation#research-workbench)
@@ -36,7 +36,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024 | Action-By-Detection: Efficient Forklift Action Detection for Autonomous Mobile Robots in Warehouses | ICRA · Mobile Robot | [Paper](https://doi.org/10.1109/ICRA57147.2024.10611659) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611659) | rule-assigned |
 | 2024 | Few-Shot Panoptic Segmentation With Foundation Models | ICRA · Foundation Model | [Paper](https://arxiv.org/pdf/2309.10726) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611624) | rule-assigned |
 | 2024 | RoboLLM: Robotic Vision Tasks Grounded on Multimodal Large Language Models | ICRA · Large Language Model | [Paper](https://arxiv.org/pdf/2310.10221) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10610797) | rule-assigned |
-| 2024 | Tree Instance Segmentation and Traits Estimation for Forestry Environments Exploiting LiDAR Data Collected by Mobile Robots | ICRA · Mobile Robot | [Paper](https://ora.ox.ac.uk/objects/uuid:d29224bc-f133-484f-b8eb-f99fb34b6eb3) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611169) | rule-assigned |
+| 2024 | Tree Instance Segmentation and Traits Estimation for Forestry Environments Exploiting LiDAR Data Collected by Mobile Robots | ICRA · Mobile Robot | [Paper](https://ora.ox.ac.uk/objects/uuid:d29224bc-f133-484f-b8eb-f99fb34b6eb3/files/sx920fz468) · [Publisher](https://doi.org/10.1109/ICRA57147.2024.10611169) | rule-assigned |
 | 2024 | Extrinsic Calibration of Multiple LiDARs for a Mobile Robot based on Floor Plane And Object Segmentation | IROS · Mobile Robot | [Paper](https://arxiv.org/pdf/2403.14161) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802291) | rule-assigned |
 | 2024 | Making the Flow Glow – Robot Perception under Severe Lighting Conditions using Normalizing Flow Gradients | IROS · Robot Perception | [Paper](https://arxiv.org/pdf/2412.07565) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10801601) | rule-assigned |
 | 2024 | Multi-target Tracking with Occlusion Resistance for Mobile Robots in Dynamic Environments* | IROS · Mobile Robot | [Paper](https://doi.org/10.1109/IROS58592.2024.10802834) · [Publisher](https://doi.org/10.1109/IROS58592.2024.10802834) | rule-assigned |

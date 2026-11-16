@@ -1,7 +1,7 @@
 # Real-to-sim & Digital Twins · 现实场景重建与数字孪生
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Simulation%20%26%20Digital%20Twins&specialty=Real-to-sim%20%26%20Digital%20Twins#research-workbench)
@@ -39,7 +39,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-10-27 | AuRaSim: A Ray-Tracing Based Automotive FMCW Radar Simulator for Dynamic Scenarios | Zhaoze Wang, Changxu Zhang, Tai Fei, Christopher Grimm et al. | [Abstract](https://arxiv.org/abs/2610.37403) · [PDF](https://arxiv.org/pdf/2610.37403) | rule-assigned |
 | 2026-10-23 | Semantic Representation for Agentic Self-Play in Automated Laboratories | Yves Delley, John Coller, Zachary Cutts, Alexander Daryin et al. | [Abstract](https://arxiv.org/abs/2610.32755) · [PDF](https://arxiv.org/pdf/2610.32755) | rule-assigned |
 | 2026-10-22 | WorldMirror: Agentic Real-to-Sim Generation of Interactive Worlds from In-the-Wild Robot Demonstrations | Tianling Xu, Weijie Wan, Honghao Su, Kailun Su et al. | [Abstract](https://arxiv.org/abs/2610.31834) · [PDF](https://arxiv.org/pdf/2610.31834) | rule-assigned |
-| 2026-10-16 | Self-Building Labs | Jiaru Bai, Yuchi Zhao, Han Hao, Elia Savino et al. | [Abstract](https://arxiv.org/abs/2610.23826) · [PDF](https://arxiv.org/pdf/2610.23826) | rule-assigned |
+| 2026-10-16 | Self-Building Labs | Jiaru Bai, Yuchi Zhao, Yang Cao, Han Hao et al. | [Abstract](https://arxiv.org/abs/2610.23826) · [PDF](https://arxiv.org/pdf/2610.23826) | rule-assigned |
 | 2026-10-15 | De-Risking Robotic Welding for In-Space Metal Joining Through Physics-Grounded Digital Twins | Zhou Daniel Hao, Umer Masood Chaudry, Robert Shaw, Andrew Cheney et al. | [Abstract](https://arxiv.org/abs/2610.21939) · [PDF](https://arxiv.org/pdf/2610.21939) | rule-assigned |
 | 2026-10-14 | Probabilistic Physics Digital Twin for Human-Robot Interaction | Yushen Hu, Harshvardhan Chandirasekar, Apurv Kushwaha, Jonathan King et al. | [Abstract](https://arxiv.org/abs/2610.19336) · [PDF](https://arxiv.org/pdf/2610.19336) | rule-assigned |
 | 2026-10-14 | Atomic-WAM: Execution-Grounded Atomic-Motion Reasoning for World Action Models | Shijun Shi, Zhe Liu, Zhi Hou, Yinan Chen et al. | [Abstract](https://arxiv.org/abs/2610.20157) · [PDF](https://arxiv.org/pdf/2610.20157) | rule-assigned |

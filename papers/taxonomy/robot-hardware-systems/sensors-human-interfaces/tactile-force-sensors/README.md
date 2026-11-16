@@ -1,7 +1,7 @@
 # Tactile & Force Sensors · 触觉与力传感器
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Sensors%20%26%20Human%20Interfaces&specialty=Tactile%20%26%20Force%20Sensors#research-workbench)

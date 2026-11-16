@@ -1,7 +1,7 @@
 # Actuators & Transmission · 执行器与传动
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Robot%20Hardware%20%26%20Systems&subcategory=Mechanisms%20%26%20Actuation&specialty=Actuators%20%26%20Transmission#research-workbench)
@@ -76,6 +76,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-13 | Per-Agent-Safe Navigation of Globally Driven Robot Collectives via Affine Field Design | Seunghwan Jang, Steven Ceron, Wei Xiao | [Abstract](https://arxiv.org/abs/2611.17859) · [PDF](https://arxiv.org/pdf/2611.17859) | rule-assigned |
 | 2026-11-09 | HolidayFactory 1.0: Simulating, Generating, and Evaluating Industrial Robot Tasks | Holiday Robotics, :, Jeongmin Lee, Taehyeon Kim et al. | [Abstract](https://arxiv.org/abs/2611.11789) · [PDF](https://arxiv.org/pdf/2611.11789) | rule-assigned |
 | 2026-11-09 | Design of a hybrid tendon-linkage finger with coupled and adaptive motion | Hyojae Kang, Giup Seo, Jae-Young Lee, Yeong Jae Park et al. | [Abstract](https://arxiv.org/abs/2611.11885) · [PDF](https://arxiv.org/pdf/2611.11885) | rule-assigned |
 | 2026-11-05 | SCALE: Real-Time Latent Communication for Cyber-Physical Agents | Shanghao Shi, Jian Xiao, Ching-Hsiang Chan, Sanjoy Baruah et al. | [Abstract](https://arxiv.org/abs/2611.08390) · [PDF](https://arxiv.org/pdf/2611.08390) | rule-assigned |
@@ -85,7 +86,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-10-30 | Joint-Health-Aware Reinforcement Learning for Robust Robot Control Under Actuator Degradation | Haifa Zhang, Yijing Wang, Zhiqiang Zuo | [Abstract](https://arxiv.org/abs/2610.41348) · [PDF](https://arxiv.org/pdf/2610.41348) | rule-assigned |
 | 2026-10-29 | CuBot-STT: Simultaneously Transport and Tighten for Lattice-type Modular Reconfiguration Robot | Chongxi Meng, Da Zhao, Yanmin Zhou, Runjie Shen et al. | [Abstract](https://arxiv.org/abs/2610.39279) · [PDF](https://arxiv.org/pdf/2610.39279) | rule-assigned |
 | 2026-10-26 | How Tuning, Reference Preview, Actuator Modeling, and Fallback Policies Change Quadrotor Controller Comparisons: A Reproducible Simulation Study | Xuan-Quy Dao, Le-Minh Nguyen, Ngoc-Bich Le | [Abstract](https://arxiv.org/abs/2610.35165) · [PDF](https://arxiv.org/pdf/2610.35165) | rule-assigned |
-| 2026-10-22 | IORA: Irregular Object Immobilization under Restricted Actuation | Sang-Hun Han, Changyeon Won, JunGyu Lee, Min-Gyu Park et al. | [Abstract](https://arxiv.org/abs/2610.30969) · [PDF](https://arxiv.org/pdf/2610.30969) | rule-assigned |
 | 2026-10-21 | Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use | Yanzhe Chen, Ziyi Yang, Jifeng Zhu, Qiming Huang et al. | [Abstract](https://arxiv.org/abs/2610.30108) · [PDF](https://arxiv.org/pdf/2610.30108) | rule-assigned |
 | 2026-10-21 | Make it Walk: Computational Design of LEGO Walkers | Siqi Li, Fancheng Gao, Chi-Wing Fu, Peng Song | [Abstract](https://arxiv.org/abs/2610.29505) · [PDF](https://arxiv.org/pdf/2610.29505) | rule-assigned |
 | 2026-10-19 | Validation of Human Motor Development Scales with Humanoid Robots | Fanxing Meng, Jing Xiao | [Abstract](https://arxiv.org/abs/2610.25701) · [PDF](https://arxiv.org/pdf/2610.25701) | rule-assigned |

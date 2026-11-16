@@ -1,7 +1,7 @@
 # Motion Imitation & Generation · 动作模仿与生成
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Legged%20Locomotion%20%26%20Whole-body%20Control&subcategory=Whole-body%20Motion%20Transfer&specialty=Motion%20Imitation%20%26%20Generation#research-workbench)
@@ -35,7 +35,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2025 | Physics-Informed Learning for Human Whole-Body Kinematics Prediction via Sparse IMUs | IROS · Whole Body | [Paper](https://arxiv.org/abs/2509.25704) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246792) | rule-assigned |
 | 2025 | Reinforcement Learning-based Optimization of Humanoid Joint Motion Control via Text-driven Human Motion Mapping | IROS · Humanoid | [Paper](https://arxiv.org/pdf/2506.05117) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11247451) | rule-assigned |
 | 2025 | Whole-Body Impedance Control of a Humanoid Robot Based on Human-Human Demonstration for Human-Robot Collaboration | IROS · Humanoid | [Paper](https://doi.org/10.1109/IROS60139.2025.11246994) · [Publisher](https://doi.org/10.1109/IROS60139.2025.11246994) | rule-assigned |
-| 2025 | Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning | NeurIPS · Humanoid | [Paper](https://arxiv.org/abs/2504.14305) · [Index](https://dblp.org/rec/journals/corr/abs-2504-14305) | rule-assigned |
+| 2025 | Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning | NeurIPS · Humanoid | [Paper](https://arxiv.org/abs/2504.14305) · [Index](https://dblp.org/rec/conf/nips/ShiLWLSZSBL25) | rule-assigned |
 | 2024 | Forecasting of 3D Whole-Body Human Poses with Grasping Objects | CVPR · Whole Body | [Paper](https://doi.org/10.1109/CVPR52733.2024.00170) · [Publisher](https://doi.org/10.1109/CVPR52733.2024.00170) | rule-assigned |
 | 2024 | Bi-Level Motion Imitation for Humanoid Robots | CoRL · Humanoid | [Paper](https://arxiv.org/abs/2410.01968) · [Index](https://dblp.org/rec/conf/corl/ZhaoZPM24) | rule-assigned |
 | 2024 | Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions | CoRL · Humanoid | [Paper](https://arxiv.org/abs/2410.12773) · [Index](https://dblp.org/rec/journals/corr/abs-2410-12773) | rule-assigned |

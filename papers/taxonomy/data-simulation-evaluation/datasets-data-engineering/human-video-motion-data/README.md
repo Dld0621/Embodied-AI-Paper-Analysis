@@ -1,7 +1,7 @@
 # Human Video & Motion Data · 人类视频与动作数据
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Data%2C%20Simulation%20%26%20Evaluation&subcategory=Datasets%20%26%20Data%20Engineering&specialty=Human%20Video%20%26%20Motion%20Data#research-workbench)
@@ -25,7 +25,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | Year | Paper | Venue / topic | Online links | Review status |
 |---:|---|---|---|---|
 | 2025 | Hoi! - A Multimodal Dataset for Force-Grounded, Cross-View Articulated Manipulation | CVPR · Dataset | [Paper](https://arxiv.org/abs/2512.04884) · [Index](https://dblp.org/rec/journals/corr/abs-2512-04884) | rule-assigned |
-| 2024 | RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2408.11048) · [Index](https://dblp.org/rec/journals/corr/abs-2408-11048) | rule-assigned |
+| 2024 | RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands | CoRL · Dexterous | [Paper](https://arxiv.org/abs/2408.11048) · [Index](https://dblp.org/rec/conf/corl/ZhaoCSGKSPB24) | rule-assigned |
 
 ## Recent arXiv papers (32)
 

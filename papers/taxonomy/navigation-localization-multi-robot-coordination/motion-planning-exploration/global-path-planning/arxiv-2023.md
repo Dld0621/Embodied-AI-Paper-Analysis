@@ -1,12 +1,12 @@
 # Global Path Planning · 全局路径规划 · arXiv 2023
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
 
-> 36 papers · complete list for this taxonomy leaf
+> 29 papers · complete list for this taxonomy leaf
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
@@ -39,10 +39,3 @@
 | 2023-11-17 | Path Planning in 3D with Motion Primitives for Wind Energy-Harvesting Fixed-Wing Aircraft | Seung-Keol Ryu, Michael Moncton, Han-Lim Choi, Eric Frew | [Abstract](https://arxiv.org/abs/2311.10915) · [PDF](https://arxiv.org/pdf/2311.10915) | rule-assigned |
 | 2023-11-17 | Optimal Path Planning for Aerial Load Transportation in Complex Environments using PSO-Improved Artificial Potential Fields | Ali Akbar Rezaei Lori | [Abstract](https://arxiv.org/abs/2311.10675) · [PDF](https://arxiv.org/pdf/2311.10675) | rule-assigned |
 | 2023-11-16 | Scalable Multi-Robot Motion Planning Using Workspace Guidance-Informed Hypergraphs | Courtney McBeth, James Motes, Isaac Ngui, Marco Morales et al. | [Abstract](https://arxiv.org/abs/2311.10176) · [PDF](https://arxiv.org/pdf/2311.10176) | rule-assigned |
-| 2023-11-15 | Polygonal Cone Control Barrier Functions (PolyC2BF) for safe navigation in cluttered environments | Manan Tayal, Shishir Kolathaya | [Abstract](https://arxiv.org/abs/2311.08787) · [PDF](https://arxiv.org/pdf/2311.08787) | rule-assigned |
-| 2023-11-15 | Edge Accelerated Robot Navigation With Collaborative Motion Planning | Guoliang Li, Ruihua Han, Shuai Wang, Fei Gao et al. | [Abstract](https://arxiv.org/abs/2311.08983) · [PDF](https://arxiv.org/pdf/2311.08983) | rule-assigned |
-| 2023-11-14 | Speeding Up Optimization-based Motion Planning through Deep Learning | Johannes Tenhumberg, Darius Burschka, Berthold Bäuml | [Abstract](https://arxiv.org/abs/2311.08345) · [PDF](https://arxiv.org/pdf/2311.08345) | rule-assigned |
-| 2023-11-14 | PPAD: Iterative Interactions of Prediction and Planning for End-to-end Autonomous Driving | Zhili Chen, Maosheng Ye, Shuangjie Xu, Tongyi Cao et al. | [Abstract](https://arxiv.org/abs/2311.08100) · [PDF](https://arxiv.org/pdf/2311.08100) | rule-assigned |
-| 2023-11-14 | Hierarchical Experience-informed Navigation for Multi-modal Quadrupedal Rebar Grid Traversal | Max Asselmeier, Jane Ivanova, Ziyi Zhou, Patricio A. Vela et al. | [Abstract](https://arxiv.org/abs/2311.08354) · [PDF](https://arxiv.org/pdf/2311.08354) | rule-assigned |
-| 2023-11-13 | Understanding Path Planning Explanations | Amar Halilovic, Senka Krivic | [Abstract](https://arxiv.org/abs/2311.07132) · [PDF](https://arxiv.org/pdf/2311.07132) | rule-assigned |
-| 2023-11-13 | RESenv: A Realistic Earthquake Simulation Environment based on Unreal Engine | Yitong Sun, Hanchun Wang, Zhejun Zhang, Cyriel Diels et al. | [Abstract](https://arxiv.org/abs/2311.07239) · [PDF](https://arxiv.org/pdf/2311.07239) | rule-assigned |

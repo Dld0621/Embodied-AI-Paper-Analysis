@@ -1,7 +1,7 @@
 # Vision, Gloves & XR Input · 视觉／手套／XR 输入
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Dexterous%20Hands%2C%20Retargeting%20%26%20Teleoperation&subcategory=Teleoperation%20%26%20Shared%20Control&specialty=Vision%2C%20Gloves%20%26%20XR%20Input#research-workbench)
@@ -147,7 +147,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2026-08-27 | Remote Human-Robot Interaction In Greenhouses via Virtual Reality: How Plant Canopy Structure Affects Leaf Disease and Soil Moisture Inspection | Daniel Udekwe, Hasan Seyyedhasani | [Abstract](https://arxiv.org/abs/2608.27545) · [PDF](https://arxiv.org/pdf/2608.27545) | rule-assigned |
 | 2026-08-25 | Fiber Optic Sensing Glove for High Performance Dexterous Manipulation Capture | J. D. Peiffer, Taylor Niehues, Li Guan, Ziyi Kou et al. | [Abstract](https://arxiv.org/abs/2608.24572) · [PDF](https://arxiv.org/pdf/2608.24572) | rule-assigned |
 | 2026-08-22 | Remote Surfaces at Your Fingertips: Electrovibration-Based Tactile Feedback for Robot Teleoperation via Touchscreen Interfaces | Alperen Kenan, Juan José García Cárdenas, Adriana Tapus, Paul Bremner et al. | [Abstract](https://arxiv.org/abs/2609.27938) · [PDF](https://arxiv.org/pdf/2609.27938) | rule-assigned |
-| 2026-08-19 | The Missing Touch: Spatially Distributed Tactile Feedback Brings Teleoperation Closer to Human Dexterity | Rohan Kota, Gregory Reardon, J. Edward Colgate | [Abstract](https://arxiv.org/abs/2608.19372) · [PDF](https://arxiv.org/pdf/2608.19372) | rule-assigned |
+| 2026-08-19 | The Missing Touch: Sensing and Displaying Localized Contact Geometry Brings Teleoperation Closer to Human Dexterity | Rohan Kota, Gregory Reardon, J. Edward Colgate | [Abstract](https://arxiv.org/abs/2608.19372) · [PDF](https://arxiv.org/pdf/2608.19372) | rule-assigned |
 | 2026-08-18 | VERAGMIL: Virtual Environment for Scooping Granular Foods with Imitation Learning Models | Amanuel Ergogo, Diego Dall'Alba, Przemyslaw Korzeniowski | [Abstract](https://arxiv.org/abs/2608.18258) · [PDF](https://arxiv.org/pdf/2608.18258) | rule-assigned |
 | 2026-08-17 | ViHaTeleop: A Low-Cost, Lightweight Visual-Haptic Teleoperation System for Dexterous Manipulation Learning | Fucai Zhu, Yanhou Lai, Paul Maestre, Koichi Hashimoto | [Abstract](https://arxiv.org/abs/2608.16572) · [PDF](https://arxiv.org/pdf/2608.16572) | rule-assigned |
 | 2026-08-14 | Demonstration of Space Robot Teleoperation over a Lossy and Delayed Network using ATMOS | Inkyu Jang, Gregorio Marchesini, Nicola De Carli, Byeongjun Kim et al. | [Abstract](https://arxiv.org/abs/2608.14031) · [PDF](https://arxiv.org/pdf/2608.14031) | rule-assigned |

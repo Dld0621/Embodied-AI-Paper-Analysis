@@ -1,13 +1,16 @@
 # arxiv classification review · 1401–1600
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Review queue](README.md)
 
 | Paper | Year / layer | Provisional primary path | Evidence |
 |---|---|---|---|
+| [Online Estimation and Manipulation of Articulated Objects](https://arxiv.org/abs/2601.01438) | 2026 · arxiv | Arm & General Object Manipulation → Contact-rich Manipulation → Pending specialty review | title:object manipulation; title:articulated |
+| [Ontological grounding for sound and natural robot explanations via large language models](https://arxiv.org/abs/2602.13800) | 2026 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
+| [Ontology-Guided Reasoning for Affordance-Based Explanations of Robot Navigation](https://arxiv.org/abs/2606.00117) | 2026 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
 | [Open-World Law-to-Action: Vision-Language Priors and Touch for Parts with Hidden Physics](https://arxiv.org/abs/2610.33705) | 2026 · arxiv | 暂定二级 / provisional: Policy Learning & Embodied Foundation Models → Imitation Learning → Pending specialty review | fallback; fallback |
 | [OpenBelief-Nav: Evidence-Preserving Object Memory for Open-Vocabulary Language-Guided Navigation](https://arxiv.org/abs/2608.13923) | 2026 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
 | [OpenHEART: Opening Heterogeneous Articulated Objects with a Legged Manipulator](https://arxiv.org/abs/2603.05830) | 2026 · arxiv | 暂定二级 / provisional: Legged Locomotion & Whole-body Control → Bipedal & Humanoid Locomotion → Pending specialty review | title:locomotion or whole body; fallback |
@@ -205,6 +208,3 @@
 | [REAP: Reinforcement-Learning End-to-End Autonomous Parking with Gaussian Splatting Simulator for Real2Sim2Real Transfer](https://arxiv.org/abs/2605.08713) | 2026 · arxiv | Data, Simulation & Evaluation → Simulation & Digital Twins → Pending specialty review | title:data or evaluation contribution; title:simulator |
 | [Reasoning models do not yet follow their reasoning in autonomous driving: The KITScenes LongTail Dataset](https://arxiv.org/abs/2603.23607) | 2026 · arxiv | Data, Simulation & Evaluation → Datasets & Data Engineering → Pending specialty review | title:data or evaluation contribution; title:dataset |
 | [RECAST: Recasting Vision-Language Semantics into an Actionable Cost Map for Robot Navigation](https://arxiv.org/abs/2609.32595) | 2026 · arxiv | 暂定二级 / provisional: Navigation, Localization & Multi-robot Coordination → Localization & Mapping → Pending specialty review | title:navigation or localization; fallback |
-| [ReCAT: Remember, Count, and Time: Structured Recurrent Memory for Robot Manipulation](https://arxiv.org/abs/2609.35200) | 2026 · arxiv | 暂定二级 / provisional: Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; fallback |
-| [Receiver-Centered Robot-to-Human Handover with Grasp-Aware Object Orientation](https://arxiv.org/abs/2607.17839) | 2026 · arxiv | Arm & General Object Manipulation → Grasping & Pick-place → Pending specialty review | title:object manipulation; title:grasp |
-| [Reconstruction and Discrete-Event Simulation Assessment of an Analytical](https://arxiv.org/abs/2610.25967) | 2026 · arxiv | 暂定二级 / provisional: Perception, Representation & State Estimation → 3D Environment Perception → Pending specialty review | title:perception or state; fallback |

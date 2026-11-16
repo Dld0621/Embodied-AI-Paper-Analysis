@@ -1,7 +1,7 @@
 # Point-goal & Image-goal Navigation · 点目标与图像目标导航
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Three-level taxonomy](../../../README.md) · [Interactive workbench](../../../../../?track=Navigation%2C%20Localization%20%26%20Multi-robot%20Coordination&subcategory=Goal%20%26%20Language%20Navigation&specialty=Point-goal%20%26%20Image-goal%20Navigation#research-workbench)
@@ -56,6 +56,7 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 
 | Date | Paper | Authors | Online links | Review status |
 |---|---|---|---|---|
+| 2026-11-13 | Evaluating Language Models as Spatial Priors for Object-Goal Navigation | Jun Miura | [Abstract](https://arxiv.org/abs/2611.18123) · [PDF](https://arxiv.org/pdf/2611.18123) | rule-assigned |
 | 2026-11-11 | DroneDiffusion: Uncertainty-Guided Diffusion Path Planner for UAV Navigation | Ivan Valuev, Iana Zhura, Valerii Serpiva, Miguel Altamirano Cabrera et al. | [Abstract](https://arxiv.org/abs/2611.15277) · [PDF](https://arxiv.org/pdf/2611.15277) | rule-assigned |
 | 2026-11-09 | CSG-Nav: Confidence-Aware Semantic-Geometric Fusion for Robust Exploration and Accurate Zero-Shot Object-Goal Navigation | Shoubin Chen, Rui Xu, Zehao Wu, Kai Zhang et al. | [Abstract](https://arxiv.org/abs/2611.11978) · [PDF](https://arxiv.org/pdf/2611.11978) | rule-assigned |
 | 2026-10-27 | Omni-IGN: Onboard Image-Goal Navigation for Drones with Omnidirectional Vision | Zichen Yan, Rui Huang, Shenao Wang, Yucong Wang et al. | [Abstract](https://arxiv.org/abs/2610.36968) · [PDF](https://arxiv.org/pdf/2610.36968) | rule-assigned |
@@ -177,7 +178,6 @@ A pending entry with subcategory_status=provisional is only a storage location, 
 | 2024-02-29 | Aligning Knowledge Graph with Visual Perception for Object-goal Navigation | Nuo Xu, Wen Wang, Rong Yang, Mengjie Qin et al. | [Abstract](https://arxiv.org/abs/2402.18892) · [PDF](https://arxiv.org/pdf/2402.18892) | rule-assigned |
 | 2024-02-19 | Feudal Networks for Visual Navigation | Faith Johnson, Bryan Bo Cao, Ashwin Ashok, Shubham Jain et al. | [Abstract](https://arxiv.org/abs/2402.12498) · [PDF](https://arxiv.org/pdf/2402.12498) | rule-assigned |
 | 2024-02-07 | Language-Based Augmentation to Address Shortcut Learning in Object Goal Navigation | Dennis Hoftijzer, Gertjan Burghouts, Luuk Spreeuwers | [Abstract](https://arxiv.org/abs/2402.05090) · [PDF](https://arxiv.org/pdf/2402.05090) | rule-assigned |
-| 2023-11-14 | Probable Object Location (POLo) Score Estimation for Efficient Object Goal Navigation | Jiaming Wang, Harold Soh | [Abstract](https://arxiv.org/abs/2311.07992) · [PDF](https://arxiv.org/pdf/2311.07992) | rule-assigned |
 
 ---
 

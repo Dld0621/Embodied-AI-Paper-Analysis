@@ -1,7 +1,7 @@
 # Vision-Language-Action Modeling · 视觉语言动作建模 · arXiv 2025
 
 <!-- catalog-freshness:start -->
-> 文档同步 / Docs synced: **2026-11-13** · 顶会快照 / Conference: **2026-11-13** · arXiv 快照: **2026-11-13** · Asia/Hong_Kong
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
 <!-- catalog-freshness:end -->
 
 [← Specialty index](README.md) · [Three-level taxonomy](../../../README.md)
@@ -75,7 +75,7 @@
 | 2025-11-27 | DualVLA: Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action | Zhen Fang, Zhuoyang Liu, Jiaming Liu, Hao Chen et al. | [Abstract](https://arxiv.org/abs/2511.22134) · [PDF](https://arxiv.org/pdf/2511.22134) | rule-assigned |
 | 2025-11-26 | VacuumVLA: Boosting VLA Capabilities via a Unified Suction and Gripping Tool for Complex Robotic Manipulation | Hui Zhou, Siyuan Huang, Minxing Li, Hao Zhang et al. | [Abstract](https://arxiv.org/abs/2511.21557) · [PDF](https://arxiv.org/pdf/2511.21557) | rule-assigned |
 | 2025-11-26 | From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings | Jiajie Zhang, Sören Schwertfeger, Alexander Kleiner | [Abstract](https://arxiv.org/abs/2511.21428) · [PDF](https://arxiv.org/pdf/2511.21428) | rule-assigned |
-| 2025-11-26 | E0: Enhancing Generalization and Fine-Grained Control in VLA Models via Tweedie Discrete Diffusion | Zhihao Zhan, Jiaying Zhou, Likui Zhang, Qinhan Lv et al. | [Abstract](https://arxiv.org/abs/2511.21542) · [PDF](https://arxiv.org/pdf/2511.21542) | rule-assigned |
+| 2025-11-26 | E0: Expressive Fine-Grained Discrete Action Prediction for Vision-Language-Action Models via Tweedie Discrete Diffusion | Zhihao Zhan, Jiaying Zhou, Likui Zhang, Qinhan Lyu et al. | [Abstract](https://arxiv.org/abs/2511.21542) · [PDF](https://arxiv.org/pdf/2511.21542) | rule-assigned |
 | 2025-11-25 | Reinforcing Action Policies by Prophesying | Jiahui Zhang, Ze Huang, Chun Gu, Zipei Ma et al. | [Abstract](https://arxiv.org/abs/2511.20633) · [PDF](https://arxiv.org/pdf/2511.20633) | rule-assigned |
 | 2025-11-25 | Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving | Dapeng Zhang, Zhenlong Yuan, Zhangquan Chen, Chih-Ting Liao et al. | [Abstract](https://arxiv.org/abs/2511.19912) · [PDF](https://arxiv.org/pdf/2511.19912) | rule-assigned |
 | 2025-11-25 | MAPS: Preserving Vision-Language Representations via Module-Wise Proximity Scheduling for Better Vision-Language-Action Generalization | Chengyue Huang, Mellon M. Zhang, Robert Azarcon, Glen Chou et al. | [Abstract](https://arxiv.org/abs/2511.19878) · [PDF](https://arxiv.org/pdf/2511.19878) | rule-assigned |
