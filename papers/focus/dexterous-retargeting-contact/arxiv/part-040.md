@@ -1,0 +1,1013 @@
+# arXiv 来源 · 40
+
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
+[← 来源目录](README.md) · [专题总览](../README.md)
+
+| 论文 | 年份／优先来源 | 层级 | 关联专题 |
+|---|---|---|---|
+| [Tune to Learn: How Controller Gains Shape Robot Policy Learning](https://arxiv.org/abs/2604.02523) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制 |
+| [Turning Video Models into Generalist Robot Policies](https://arxiv.org/abs/2605.27817) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移、灵巧操作与手内任务 |
+| [Two Bridges, One Pathway: From VLMs to Generalizable VLAs with Embodied Trajectory-Coupled Data](https://arxiv.org/abs/2606.08520) | 2026 · arXiv | 宽范围待审候选 | 数据集、仿真与数据生成 |
+| [Two Degree-of-Freedom Vibratory Transport in a Grasp](https://arxiv.org/abs/2605.30780) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、机械臂接触操作与装配、灵巧操作与手内任务 |
+| [Two-Stage Personalized Gait Phase Estimation in Stroke Survivors During Exoskeleton-Assisted Walking: An Offline Feasibility Study](https://arxiv.org/abs/2609.14984) | 2026 · arXiv | 宽范围待审候选 | 相关对照与范围待定 |
+| [U-Joint CAAMS: Experimental Evaluation of a Universal-Joint Continuum Manipulator for Aerial Manipulation](https://arxiv.org/abs/2607.03321) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、机械臂接触操作与装配 |
+| [ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation](https://arxiv.org/abs/2603.03279) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移、接触、力与阻抗控制、足式与全身多接触 |
+| [UMR: Universal Manipulation Representation](https://arxiv.org/abs/2609.34256) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移、接触、力与阻抗控制、机械臂接触操作与装配 |
+| [Uncertainty-Aware Action Segmentation for Human-to-Robot Assembly Teleoperation](https://arxiv.org/abs/2606.08341) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移 |
+| [UNCLE-Grasp: A Task-Adapted Framework for Uncertainty-Aware Grasping of Leaf-Occluded Strawberries](https://arxiv.org/abs/2601.14492) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配 |
+| [Uncovering Vulnerability of Vision-Language-Action Models under Joint-Level Physical Faults](https://arxiv.org/abs/2606.10501) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制 |
+| [Underwater C3-JEPA: An Object-Centric Cross-View World Model for ROV Salvage](https://arxiv.org/abs/2609.30214) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、机械臂接触操作与装配、接触规划、优化与 MPC |
+| [Uni-PNP: Unified Prehensile and Non-prehensile Policy Learning for Generalizable Object Pose Reaching](https://arxiv.org/abs/2610.21735) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配 |
+| [UniBYD: A Unified Framework for Learning Robotic Manipulation Across Embodiments Beyond Imitation of Human Demonstrations](https://arxiv.org/abs/2512.11609) | 2025 · arXiv | 宽范围待审候选 | 重定向与示教迁移、灵巧操作与手内任务 |
+| [UniExo: Unified Multi-Skill Policies for Musculoskeletal Locomotion and Co-Adaptive Exoskeleton Control](https://arxiv.org/abs/2609.19690) | 2026 · arXiv | 宽范围待审候选 | 相关对照与范围待定 |
+| [Unified Humanoid Fall-Safety Policy from A Few Demonstrations](https://arxiv.org/abs/2511.07407) | 2025 · arXiv | 宽范围待审候选 | 相关对照与范围待定 |
+| [Unified Perceptive Fall Safety for Humanoids](https://arxiv.org/abs/2602.16511) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、足式与全身多接触 |
+| [Unified Structural-Hydrodynamic Modeling of Underwater Underactuated Mechanisms and Soft Robots](https://arxiv.org/abs/2603.07939) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、足式与全身多接触 |
+| [Unifying Physics-Based Humanoid Interaction with a Context-Conditioned Interaction Prior](https://arxiv.org/abs/2609.06591) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、足式与全身多接触 |
+| [Unifying Sidewinding and Rolling: A Wave-Based Framework for Self-Righting in Elongated Limbless and Multi-Legged Robots](https://arxiv.org/abs/2603.07417) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、足式与全身多接触 |
+| [UniLACT: Depth-Aware RGB Latent Action Learning for Vision-Language-Action Models](https://arxiv.org/abs/2602.20231) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制 |
+| [UniLAP: A Unified Latent Action Policy for Cross-Embodiment Manipulation](https://arxiv.org/abs/2610.16969) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移 |
+| [UniLatent: Cross-Embodiment Transfer via Latent Observation Alignment](https://arxiv.org/abs/2611.10061) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移 |
+| [UniManip: Open-World Robotic Manipulation via Agentic Operational Graphs](https://arxiv.org/abs/2602.13086) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、机械臂接触操作与装配、接触规划、优化与 MPC、灵巧操作与手内任务 |
+| [UniOMA: Unified Optimal-Transport Multi-Modal Structural Alignment for Robot Perception](https://arxiv.org/abs/2611.12351) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建 |
+| [UniReLo: Learning a Unified Humanoid Policy from Fall Recovery to Locomotion across Diverse Terrains](https://arxiv.org/abs/2606.08922) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、足式与全身多接触 |
+| [UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling](https://arxiv.org/abs/2604.19734) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移 |
+| [Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors](https://arxiv.org/abs/2606.28237) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移 |
+| [UR-VC: Unsupervised Robotic Value Correction for Time-Derived Progress Proxies](https://arxiv.org/abs/2607.12892) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、机械臂接触操作与装配 |
+| [Value as Memory: Online Value-Guided Post-training for General Robot Policies](https://arxiv.org/abs/2610.22368) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制 |
+| [VAMPO: Policy Optimization for Improving Visual Dynamics in Video Action Models](https://arxiv.org/abs/2603.19370) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制 |
+| [VAMPS: Visual and Motor Policies from Sampling-Based Planning](https://arxiv.org/abs/2610.05331) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、接触规划、优化与 MPC、足式与全身多接触 |
+| [Variance-Reduced Model Predictive Path Integral via Quadratic Model Approximation](https://arxiv.org/abs/2602.03639) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、机械臂接触操作与装配 |
+| [VASO: Formally Verifiable Self-Evolving Skills for Physical AI Agents](https://arxiv.org/abs/2606.05395) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、接触规划、优化与 MPC |
+| [VCTP: Vehicle-Conditioned Terrain Planning for Off-Road Navigation](https://arxiv.org/abs/2609.17834) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、接触规划、优化与 MPC |
+| [VehDyn: A Driving World Model Benchmark for Vehicle Dynamics](https://arxiv.org/abs/2609.33264) | 2026 · arXiv | 宽范围待审候选 | 数据集、仿真与数据生成、接触规划、优化与 MPC |
+| [Vehicle Drift Emergence: Continuous Evolution from Grip Driving to the Handling Limit via Boundary Exploration Learning Model Predictive Control](https://arxiv.org/abs/2608.28723) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、接触规划、优化与 MPC |
+| [Vela: Scaling Vision-Language-Action Models with Adaptive Action Curve Parametrization](https://arxiv.org/abs/2610.05230) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制 |
+| [VENOM: Versatile Embodied Network for Omni-bodied Motion tracking](https://arxiv.org/abs/2606.16696) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移 |
+| [Veo-Act: Enhancing VLA Policies with Frontier Video Models](https://arxiv.org/abs/2604.04502) | 2026 · arXiv | 宽范围待审候选 | 灵巧操作与手内任务 |
+| [VerifLM: Physically Verified Image-Edit-Guided Goal Pose Generation for Robotic Manipulation](https://arxiv.org/abs/2611.03268) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、机械臂接触操作与装配、接触规划、优化与 MPC |
+| [Versatile Exoskeleton Control Supports Elderly Joint Energetics During Hip-Intensive Tasks](https://arxiv.org/abs/2603.22580) | 2026 · arXiv | 宽范围待审候选 | 相关对照与范围待定 |
+| [Vessel Trajectory Prediction using COLREGs-aware Optimal Planning](https://arxiv.org/abs/2607.15969) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、接触规划、优化与 MPC |
+| [VFILC: Accurate Frequency Extrapolations in Imitation Learning via Sampling Frequency ILC](https://arxiv.org/abs/2606.20056) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、机械臂接触操作与装配 |
+| [Vi-TacMan: Articulated Object Manipulation via Vision and Touch](https://arxiv.org/abs/2510.06339) | 2025 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配 |
+| [VICX: Generalizable Robot Manipulation via Video Generation and In-Context Operator Network](https://arxiv.org/abs/2606.12028) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移 |
+| [Vid2Sid: Videos Can Help Close the Sim2Real Gap](https://arxiv.org/abs/2602.19359) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、数据集、仿真与数据生成 |
+| [VidAct: Learning Manipulation from In-the-Wild Videos with Object-Centric 3D Awareness](https://arxiv.org/abs/2609.36870) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移 |
+| [Video-Action Models for Data-Efficient Industrial Manipulation](https://arxiv.org/abs/2611.15974) | 2026 · arXiv | 宽范围待审候选 | 灵巧操作与手内任务 |
+| [Video2Sim2Real: Full-Stack Autonomous Dexterous Skill Acquisition from a Single Human Video](https://arxiv.org/abs/2606.08828) | 2026 · arXiv | 宽范围待审候选 | 灵巧操作与手内任务 |
+| [Video2STL: Grounding VLM-Generated Temporal Specifications for Robot Learning](https://arxiv.org/abs/2609.37519) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移 |
+| [VILAS: A VLA-Integrated Low-cost Architecture with Soft Grasping for Robotic Manipulation](https://arxiv.org/abs/2605.02037) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、机械臂接触操作与装配 |
+| [ViPSim: Collaborating Visual and Parameter Spaces for Consistent Long-Horizon Embodied World Models](https://arxiv.org/abs/2606.28804) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移 |
+| [Vision as Proprioception: Estimating Humanoid Robot Pose from Video](https://arxiv.org/abs/2610.25288) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移 |
+| [Vision Guided Target Conditioned Control for Autonomous Excavation](https://arxiv.org/abs/2608.21778) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制 |
+| [Vision-Based Early Fault Diagnosis and Self-Recovery for Strawberry Harvesting Robots](https://arxiv.org/abs/2601.02085) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、机械臂接触操作与装配 |
+| [Vision-based Goal-Reaching Control for Mobile Robots Using a Hierarchical Learning Framework](https://arxiv.org/abs/2601.00610) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、接触规划、优化与 MPC |
+| [Vision-Based Hand Shadowing for Robotic Manipulation via Inverse Kinematics](https://arxiv.org/abs/2603.11383) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移 |
+| [Vision-Based Reasoning with Topology-Encoded Graphs for Anatomical Path Disambiguation in Robot-Assisted Endovascular Navigation](https://arxiv.org/abs/2602.20215) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、接触规划、优化与 MPC |
+| [Vision-Conditioned Variational Bayesian Last Layer Dynamics Models](https://arxiv.org/abs/2601.09178) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制 |
+| [Vision-Guided Morphing Quadcopter for Multi-Geometry Payload Transport through Narrow Passages](https://arxiv.org/abs/2608.21879) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、机械臂接触操作与装配、接触规划、优化与 MPC |
+| [Vision-Language Models for Deployable Social Robot Navigation: Bridging Semantic Reasoning and Low-Level Control](https://arxiv.org/abs/2606.28760) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、接触规划、优化与 MPC |
+| [Visual Proactivity: Enhancing Human-Robot Collaboration Through Intent Communication](https://arxiv.org/abs/2609.21729) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移 |
+| [Visual Prompt Based Reasoning for Offroad Mapping using Multimodal LLMs](https://arxiv.org/abs/2604.04564) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、接触规划、优化与 MPC |
+| [Visual Sculpting: Visually-Aligned Planning Representations for Long-Horizon Robot Clay Sculpting](https://arxiv.org/abs/2605.17556) | 2026 · arXiv | 宽范围待审候选 | 灵巧操作与手内任务 |
+| [Visual Sim-to-Real Learning for Robotic Insertion under Geometric Variations: Application to Rebar Installation](https://arxiv.org/abs/2609.20477) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、机械臂接触操作与装配 |
+| [VisualPatchWorld: Code World Models as Latent Structured Representations for Planning](https://arxiv.org/abs/2607.25236) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、接触规划、优化与 MPC |
+| [ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback](https://arxiv.org/abs/2610.32966) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移 |
+| [VividFace: Real-Time and Realistic Facial Expression Shadowing for Humanoid Robots](https://arxiv.org/abs/2602.07506) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移 |
+| [VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon](https://arxiv.org/abs/2607.01804) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制 |
+| [VLaRL: Augmenting Vision-Language-Action Models with Simulation-Trained Latent-Conditioned Residual RL](https://arxiv.org/abs/2609.30868) | 2026 · arXiv | 宽范围待审候选 | 数据集、仿真与数据生成、残差方法与执行修正 |
+| [VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](https://arxiv.org/abs/2602.12063) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制 |
+| [VLM-CASE: Vision-Language Model Enabled Context-Adaptive Safety Envelopes for Anticipatory Safe Autonomous Driving](https://arxiv.org/abs/2607.05180) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、接触规划、优化与 MPC |
+| [VOFA: Visual Object Goal Pushing with Force-Adaptive Control for Humanoids](https://arxiv.org/abs/2605.01518) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、足式与全身多接触 |
+| [Vortex-Induced Torque in Grasping Soft Objects: Influence of Geometry and Pneumatic Parameters](https://arxiv.org/abs/2611.06359) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、机械臂接触操作与装配、灵巧操作与手内任务 |
+| [VPTwin: Real-Sim-Real Video Prediction for Robotic Manipulation Planning](https://arxiv.org/abs/2609.33104) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、接触规划、优化与 MPC |
+| [VQActFlow: Vector-Quantized Action Mode Steering for Multi-Task Robot Manipulation](https://arxiv.org/abs/2606.21600) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、机械臂接触操作与装配、足式与全身多接触 |
+| [VR-DAgger: Immersive VR for Dexterous Data Collection and Uncertainty-Guided On-Policy Correction](https://arxiv.org/abs/2605.27114) | 2026 · arXiv | 宽范围待审候选 | 数据集、仿真与数据生成、灵巧操作与手内任务 |
+| [VT-Bridge: Bridging Pretrained Foundation VLAs to VTLAs via Lightweight Residual Adaptation](https://arxiv.org/abs/2609.22606) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、残差方法与执行修正 |
+| [VT-MUSE: Multimodal Unified Sequential Visuotactile Representation Learning for Manipulation](https://arxiv.org/abs/2608.21290) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、触觉、接触感知与交互重建、接触力学与物理可行性、机械臂接触操作与装配 |
+| [WA-SpecDec: World-Aware Speculative Decoding for Vision-Language-Action Models](https://arxiv.org/abs/2608.08725) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制 |
+| [Walk the PLANC: Physics-Guided RL for Agile Humanoid Locomotion on Constrained Footholds](https://arxiv.org/abs/2601.06286) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、接触规划、优化与 MPC、足式与全身多接触 |
+| [Walk With Me: Long-Horizon Social Navigation for Human-Centric Outdoor Assistance](https://arxiv.org/abs/2604.26839) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、接触规划、优化与 MPC |
+| [Walking on Roofs: Exploring the Potential of Walking Robots for Construction Work on Roofs](https://arxiv.org/abs/2610.12272) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、接触力学与物理可行性、足式与全身多接触 |
+| [Walking on Rough Terrain with Any Number of Legs](https://arxiv.org/abs/2603.09147) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、足式与全身多接触 |
+| [Walking on the Slope: Stable Bipedal Gaits with Genetic-Algorithm-Optimized Trajectories](https://arxiv.org/abs/2609.20570) | 2026 · arXiv | 宽范围待审候选 | 相关对照与范围待定 |
+| [WAM4D: Fast 4D World Action Model via Spatial Register Tokens](https://arxiv.org/abs/2606.14048) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制 |
+| [Warp: Structured Output-Space Adaptation for Frozen Robot Policies](https://arxiv.org/abs/2606.31043) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、机械臂接触操作与装配 |
+| [WARPED: Wrist-Aligned Rendering for Robot Policy Learning from Egocentric Human Demonstrations](https://arxiv.org/abs/2604.10809) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移 |
+| [WasserMan: Benchmark for Underwater Manipulation Policy Learning](https://arxiv.org/abs/2610.04536) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、数据集、仿真与数据生成 |
+| [Water Surface Swimming in a Centipede and its Robophysical Model](https://arxiv.org/abs/2609.27088) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、足式与全身多接触 |
+| [WaveForward: An Omnidirectional Passive Wheeled Quadruped Robot with Casters](https://arxiv.org/abs/2606.25299) | 2026 · arXiv | 宽范围待审候选 | 相关对照与范围待定 |
+| [WB-WAM: Heterogeneous Body-Hand Pre-training for Humanoid Loco-Manipulation](https://arxiv.org/abs/2609.34199) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移 |
+| [Weakly Supervised Discovery of Motion Styles for Compositional Robot Control](https://arxiv.org/abs/2610.24008) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移 |
+| [Wear-Clearance-Impact Coupling in the Jansen Linkage: A Gait-Durability-Optimized Design Slows Joint Loosening](https://arxiv.org/abs/2606.25208) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、接触力学与物理可行性、足式与全身多接触 |
+| [Wearing A Coat: Dual-Arm Robot-Assisted Dressing with Differentiable Clothing Simulation](https://arxiv.org/abs/2607.10999) | 2026 · arXiv | 宽范围待审候选 | 数据集、仿真与数据生成、机械臂接触操作与装配 |
+| [Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills](https://arxiv.org/abs/2608.01851) | 2026 · arXiv | 宽范围待审候选 | 重定向与示教迁移 |
+| [Wh0: Generative World Models as Scalable Sources of Egocentric Human Hand Manipulation Data](https://arxiv.org/abs/2606.22136) | 2026 · arXiv | 宽范围待审候选 | 灵巧操作与手内任务 |
+| [What Can Latent World Models Know? Physical Information in Multimodal Predictive Representations](https://arxiv.org/abs/2607.27017) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制 |
+| [What Demonstration Curation Metrics Do to Your Policy](https://arxiv.org/abs/2606.10229) | 2026 · arXiv | 宽范围待审候选 | 接触、力与阻抗控制、机械臂接触操作与装配 |
+
+## 逐条纳入证据
+
+### Tune to Learn: How Controller Gains Shape Robot Policy Learning
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2604.02523)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: compliance, compliant。
+
+### Turning Video Models into Generalist Robot Policies
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2605.27817)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: dexterous, allegro hand, benchmarks, planning, planner。
+
+### Two Bridges, One Pathway: From VLMs to Generalizable VLAs with Embodied Trajectory-Coupled Data
+
+- 阅读层级：**宽范围待审候选**；分组：数据集、仿真与数据生成。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.08520)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 仅有力／力矩线索时也可能是驱动或其他物理力，并未确认接触机制或接触力学贡献。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: simulation, forces。
+
+### Two Degree-of-Freedom Vibratory Transport in a Grasp
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2605.30780)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: in hand manipulation, slip, slipping, force, gripper, parallel jaw。
+
+### Two-Stage Personalized Gait Phase Estimation in Stroke Survivors During Exoskeleton-Assisted Walking: An Offline Feasibility Study
+
+- 阅读层级：**宽范围待审候选**；分组：相关对照与范围待定。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.14984)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 仅有力／力矩线索时也可能是驱动或其他物理力，并未确认接触机制或接触力学贡献。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: walking, exoskeleton；abstract: force, walking, exoskeleton。
+
+### U-Joint CAAMS: Experimental Evaluation of a Universal-Joint Continuum Manipulator for Aerial Manipulation
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2607.03321)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: manipulator；abstract: compliant, benchmark, manipulator, manipulators。
+
+### ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移、接触、力与阻抗控制、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2603.03279)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: whole body；abstract: retargeting, retargeted, contact, motion capture, simulation, whole body。
+
+### UMR: Universal Manipulation Representation
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移、接触、力与阻抗控制、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.34256)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: human demonstrations, contact, benchmark, simulation。
+
+### Uncertainty-Aware Action Segmentation for Human-to-Robot Assembly Teleoperation
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.08341)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: assembly；abstract: assembly。
+
+### UNCLE-Grasp: A Task-Adapted Framework for Uncertainty-Aware Grasping of Leaf-Occluded Strawberries
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2601.14492)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: force closure, wrench, wrench space, simulation, force。
+
+### Uncovering Vulnerability of Vision-Language-Action Models under Joint-Level Physical Faults
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.10501)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: friction。
+
+### Underwater C3-JEPA: An Object-Centric Cross-View World Model for ROV Salvage
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配、接触规划、优化与 MPC。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.30214)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact, simulation, gripper, model predictive control, mpc。
+
+### Uni-PNP: Unified Prehensile and Non-prehensile Policy Learning for Generalizable Object Pose Reaching
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、接触力学与物理可行性、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.21735)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact, contact dynamics, dataset, gripper, grippers。
+
+### UniBYD: A Unified Framework for Learning Robotic Manipulation Across Embodiments Beyond Imitation of Human Demonstrations
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移、灵巧操作与手内任务。
+- 来源记录：[ECCV / conference](https://dblp.org/rec/conf/eccv/YuanGYTYZLHWZW26) · [arXiv / arxiv](https://arxiv.org/abs/2512.11609)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: human demonstrations；abstract: robotic hand, human hands, human demonstrations, benchmark。
+
+### UniExo: Unified Multi-Skill Policies for Musculoskeletal Locomotion and Co-Adaptive Exoskeleton Control
+
+- 阅读层级：**宽范围待审候选**；分组：相关对照与范围待定。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.19690)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。 仅有力／力矩线索时也可能是驱动或其他物理力，并未确认接触机制或接触力学贡献。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: locomotion, exoskeleton；abstract: simulation, torque, locomotion, walking, exoskeleton。
+
+### Unified Humanoid Fall-Safety Policy from A Few Demonstrations
+
+- 阅读层级：**宽范围待审候选**；分组：相关对照与范围待定。
+- 来源记录：[ICRA / conference](https://doi.org/10.1109/ICRA57385.2026.11696999) · [arXiv / arxiv](https://arxiv.org/abs/2511.07407)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。 仅有力／力矩线索时也可能是驱动或其他物理力，并未确认接触机制或接触力学贡献。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: human demonstrations, simulation, forces, whole body。
+
+### Unified Perceptive Fall Safety for Humanoids
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2602.16511)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: human demonstrations, contact, simulation, whole body。
+
+### Unified Structural-Hydrodynamic Modeling of Underwater Underactuated Mechanisms and Soft Robots
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2603.07939)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: compliance, compliant, whole body。
+
+### Unifying Physics-Based Humanoid Interaction with a Context-Conditioned Interaction Prior
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.06591)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact, locomotion。
+
+### Unifying Sidewinding and Rolling: A Wave-Based Framework for Self-Righting in Elongated Limbless and Multi-Legged Robots
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2603.07417)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: legged；abstract: contact, torque, torques, legged, locomotion。
+
+### UniLACT: Depth-Aware RGB Latent Action Learning for Vision-Language-Action Models
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2602.20231)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact, simulation。
+
+### UniLAP: A Unified Latent Action Policy for Cross-Embodiment Manipulation
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.16969)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: planning。
+
+### UniLatent: Cross-Embodiment Transfer via Latent Observation Alignment
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2611.10061)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: cross embodiment transfer；abstract: cross embodiment transfer, datasets, simulation。
+
+### UniManip: Open-World Robotic Manipulation via Agentic Operational Graphs
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配、接触规划、优化与 MPC、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2602.13086)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: dexterous, contact, planning, planner, planners。
+
+### UniOMA: Unified Optimal-Transport Multi-Modal Structural Alignment for Robot Perception
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2611.12351)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: tactile, benchmarks, force。
+
+### UniReLo: Learning a Unified Humanoid Policy from Fall Recovery to Locomotion across Diverse Terrains
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.08922)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: locomotion；abstract: contact, simulation, whole body, locomotion。
+
+### UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2604.19734)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: benchmark, simulation。
+
+### Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.28237)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: retargeting, dataset, data collection, simulation, quadruped, locomotion。
+
+### UR-VC: Unsupervised Robotic Value Correction for Time-Derived Progress Proxies
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2607.12892)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact。
+
+### Value as Memory: Online Value-Guided Post-training for General Robot Policies
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.22368)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact, data collection。
+
+### VAMPO: Policy Optimization for Improving Visual Dynamics in Video Action Models
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2603.19370)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact。
+
+### VAMPS: Visual and Motor Policies from Sampling-Based Planning
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、接触规划、优化与 MPC、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.05331)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: planning；abstract: human demonstrations, wrench, dataset, data collection, simulation, force, planning, locomotion。
+
+### Variance-Reduced Model Predictive Path Integral via Quadratic Model Approximation
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2602.03639)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact, benchmarks。
+
+### VASO: Formally Verifiable Self-Evolving Skills for Physical AI Agents
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、接触规划、优化与 MPC。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.05395)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: compliance, planner。
+
+### VCTP: Vehicle-Conditioned Terrain Planning for Off-Road Navigation
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、接触规划、优化与 MPC。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.17834)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: planning；abstract: contact, contacts, planning。
+
+### VehDyn: A Driving World Model Benchmark for Vehicle Dynamics
+
+- 阅读层级：**宽范围待审候选**；分组：数据集、仿真与数据生成、接触规划、优化与 MPC。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.33264)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 数据、仿真或评测支撑不等于已完成机器人重定向或控制。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: benchmark；abstract: friction, dataset, datasets, benchmark, benchmarks, simulation, simulation platform, planners。
+
+### Vehicle Drift Emergence: Continuous Evolution from Grip Driving to the Handling Limit via Boundary Exploration Learning Model Predictive Control
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、接触规划、优化与 MPC。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2608.28723)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: model predictive control；abstract: friction, slip, force。
+
+### Vela: Scaling Vision-Language-Action Models with Adaptive Action Curve Parametrization
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.05230)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact, simulation, forces。
+
+### VENOM: Versatile Embodied Network for Omni-bodied Motion tracking
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.16696)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: dataset, simulation。
+
+### Veo-Act: Enhancing VLA Policies with Frontier Video Models
+
+- 阅读层级：**宽范围待审候选**；分组：灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2604.04502)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。 灵巧任务未明确多指机器人手本体；不能将一般灵巧操作等同于手内或多指手实验。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: dexterous, simulation, planning, planner, planners。
+
+### VerifLM: Physically Verified Image-Edit-Guided Goal Pose Generation for Robotic Manipulation
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配、接触规划、优化与 MPC。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2611.03268)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact, simulator, planning。
+
+### Versatile Exoskeleton Control Supports Elderly Joint Energetics During Hip-Intensive Tasks
+
+- 阅读层级：**宽范围待审候选**；分组：相关对照与范围待定。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2603.22580)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 仅有力／力矩线索时也可能是驱动或其他物理力，并未确认接触机制或接触力学贡献。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: exoskeleton；abstract: torque, walking, exoskeleton。
+
+### Vessel Trajectory Prediction using COLREGs-aware Optimal Planning
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、接触规划、优化与 MPC。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2607.15969)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: planning；abstract: compliance, planning。
+
+### VFILC: Accurate Frequency Extrapolations in Imitation Learning via Sampling Frequency ILC
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.20056)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact, friction, wiping。
+
+### Vi-TacMan: Articulated Object Manipulation via Vision and Touch
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、机械臂接触操作与装配。
+- 来源记录：[ICRA / conference](https://doi.org/10.1109/ICRA57385.2026.11697058) · [arXiv / arxiv](https://arxiv.org/abs/2510.06339)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact, tactile。
+
+### VICX: Generalizable Robot Manipulation via Video Generation and In-Context Operator Network
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.12028)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: cross embodiment transfer。
+
+### Vid2Sid: Videos Can Help Close the Sim2Real Gap
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、数据集、仿真与数据生成。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2602.19359)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: friction, simulator, force。
+
+### VidAct: Learning Manipulation from In-the-Wild Videos with Object-Centric 3D Awareness
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.36870)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: retargeting, video to robot, simulation。
+
+### Video-Action Models for Data-Efficient Industrial Manipulation
+
+- 阅读层级：**宽范围待审候选**；分组：灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2611.15974)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。 灵巧任务未明确多指机器人手本体；不能将一般灵巧操作等同于手内或多指手实验。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: dexterous, benchmark, gripper。
+
+### Video2Sim2Real: Full-Stack Autonomous Dexterous Skill Acquisition from a Single Human Video
+
+- 阅读层级：**宽范围待审候选**；分组：灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.08828)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。 灵巧任务未明确多指机器人手本体；不能将一般灵巧操作等同于手内或多指手实验。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: dexterous；abstract: dexterous, hand object, simulator, planning。
+
+### Video2STL: Grounding VLM-Generated Temporal Specifications for Robot Learning
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.37519)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: cross embodiment transfer, quadruped, locomotion。
+
+### VILAS: A VLA-Integrated Low-cost Architecture with Soft Grasping for Robotic Manipulation
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2605.02037)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact, compliant, force sensing, dataset, data collection, force, gripper。
+
+### ViPSim: Collaborating Visual and Parameter Spaces for Consistent Long-Horizon Embodied World Models
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.28804)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: benchmarks。
+
+### Vision as Proprioception: Estimating Humanoid Robot Pose from Video
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.25288)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: retarget, synthetic data。
+
+### Vision Guided Target Conditioned Control for Autonomous Excavation
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2608.21778)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact, benchmark, simulation。
+
+### Vision-Based Early Fault Diagnosis and Self-Recovery for Strawberry Harvesting Robots
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2601.02085)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: slip, slipping, gripper。
+
+### Vision-based Goal-Reaching Control for Mobile Robots Using a Hierarchical Learning Framework
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、接触规划、优化与 MPC。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2601.00610)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: slip, planning, planner。
+
+### Vision-Based Hand Shadowing for Robotic Manipulation via Inverse Kinematics
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2603.11383)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: human hand, retargeting, benchmark, simulation, manipulators, gripper。
+
+### Vision-Based Reasoning with Topology-Encoded Graphs for Anatomical Path Disambiguation in Robot-Assisted Endovascular Navigation
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、接触规划、优化与 MPC。
+- 来源记录：[ICRA / conference](https://doi.org/10.1109/ICRA57385.2026.11697225) · [arXiv / arxiv](https://arxiv.org/abs/2602.20215)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: tactile, dataset, planning。
+
+### Vision-Conditioned Variational Bayesian Last Layer Dynamics Models
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2601.09178)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: friction。
+
+### Vision-Guided Morphing Quadcopter for Multi-Geometry Payload Transport through Narrow Passages
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配、接触规划、优化与 MPC。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2608.21879)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact, force feedback, simulation, force, grippers, planner。
+
+### Vision-Language Models for Deployable Social Robot Navigation: Bridging Semantic Reasoning and Low-Level Control
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、接触规划、优化与 MPC。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.28760)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: compliant, datasets, planning。
+
+### Visual Proactivity: Enhancing Human-Robot Collaboration Through Intent Communication
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.21729)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: human robot collaboration；abstract: human robot collaboration, handover。
+
+### Visual Prompt Based Reasoning for Offroad Mapping using Multimodal LLMs
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、接触规划、优化与 MPC。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2604.04564)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: slip, datasets, planning。
+
+### Visual Sculpting: Visually-Aligned Planning Representations for Long-Horizon Robot Clay Sculpting
+
+- 阅读层级：**宽范围待审候选**；分组：灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2605.17556)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。 灵巧任务未明确多指机器人手本体；不能将一般灵巧操作等同于手内或多指手实验。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: planning；abstract: dexterous, planning。
+
+### Visual Sim-to-Real Learning for Robotic Insertion under Geometric Variations: Application to Rebar Installation
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.20477)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: insertion；abstract: contact, simulation, insertion。
+
+### VisualPatchWorld: Code World Models as Latent Structured Representations for Planning
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、接触规划、优化与 MPC。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2607.25236)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: planning；abstract: contact, simulator, simulation, planning, planner, model predictive control。
+
+### ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.32966)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: retargeting, whole body。
+
+### VividFace: Real-Time and Realistic Facial Expression Shadowing for Humanoid Robots
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移。
+- 来源记录：[ICRA / conference](https://doi.org/10.1109/ICRA57385.2026.11696970) · [arXiv / arxiv](https://arxiv.org/abs/2602.07506)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: motion transfer, human robot interaction。
+
+### VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2607.01804)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact。
+
+### VLaRL: Augmenting Vision-Language-Action Models with Simulation-Trained Latent-Conditioned Residual RL
+
+- 阅读层级：**宽范围待审候选**；分组：数据集、仿真与数据生成、残差方法与执行修正。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.30868)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 数据、仿真或评测支撑不等于已完成机器人重定向或控制。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 残差作用位置：action/control phrase; locus needs source review。
+- 元数据命中：title: simulation；abstract: contact, residual policy, residual control, residual reinforcement learning, simulation。
+
+### VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2602.12063)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact, datasets, simulator, synthetic data。
+
+### VLM-CASE: Vision-Language Model Enabled Context-Adaptive Safety Envelopes for Anticipatory Safe Autonomous Driving
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、接触规划、优化与 MPC。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2607.05180)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: friction, dataset, simulation, mpc。
+
+### VOFA: Visual Object Goal Pushing with Force-Adaptive Control for Humanoids
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2605.01518)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: force；abstract: friction, simulation, force, whole body。
+
+### Vortex-Induced Torque in Grasping Soft Objects: Influence of Geometry and Pneumatic Parameters
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2611.06359)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。 灵巧任务未明确多指机器人手本体；不能将一般灵巧操作等同于手内或多指手实验。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: torque；abstract: dexterous, compliant, torque, gripper, grippers。
+
+### VPTwin: Real-Sim-Real Video Prediction for Robotic Manipulation Planning
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、接触规划、优化与 MPC。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.33104)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: planning；abstract: contact, simulation, planning。
+
+### VQActFlow: Vector-Quantized Action Mode Steering for Multi-Task Robot Manipulation
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.21600)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact, benchmarks, simulation, whole body。
+
+### VR-DAgger: Immersive VR for Dexterous Data Collection and Uncertainty-Guided On-Policy Correction
+
+- 阅读层级：**宽范围待审候选**；分组：数据集、仿真与数据生成、灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2605.27114)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。 灵巧任务未明确多指机器人手本体；不能将一般灵巧操作等同于手内或多指手实验。 数据、仿真或评测支撑不等于已完成机器人重定向或控制。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: dexterous, data collection；abstract: dexterous, simulation。
+
+### VT-Bridge: Bridging Pretrained Foundation VLAs to VTLAs via Lightweight Residual Adaptation
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、残差方法与执行修正。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.22606)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 残差位于表征或模型，不能称为动作残差控制。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 残差作用位置：representation-or-model; not action residual。
+- 元数据命中：abstract: contact, tactile, residual adapter。
+
+### VT-MUSE: Multimodal Unified Sequential Visuotactile Representation Learning for Manipulation
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、触觉、接触感知与交互重建、接触力学与物理可行性、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2608.21290)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact, tactile, contact dynamics, benchmark, simulation。
+
+### WA-SpecDec: World-Aware Speculative Decoding for Vision-Language-Action Models
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2608.08725)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact。
+
+### Walk the PLANC: Physics-Guided RL for Agile Humanoid Locomotion on Constrained Footholds
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、接触规划、优化与 MPC、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2601.06286)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: locomotion；abstract: contact, planning, planner, bipedal, locomotion, footstep, foothold。
+
+### Walk With Me: Long-Horizon Social Navigation for Human-Centric Outdoor Assistance
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、接触规划、优化与 MPC。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2604.26839)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: compliant, planning。
+
+### Walking on Roofs: Exploring the Potential of Walking Robots for Construction Work on Roofs
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、接触力学与物理可行性、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.12272)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: walking；abstract: contact, contact mechanics, quadruped, locomotion, walking。
+
+### Walking on Rough Terrain with Any Number of Legs
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2603.09147)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: walking；abstract: contact, simulation, legged, locomotion。
+
+### Walking on the Slope: Stable Bipedal Gaits with Genetic-Algorithm-Optimized Trajectories
+
+- 阅读层级：**宽范围待审候选**；分组：相关对照与范围待定。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.20570)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 仅有力／力矩线索时也可能是驱动或其他物理力，并未确认接触机制或接触力学贡献。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: bipedal, walking；abstract: simulation, torques, biped, walking。
+
+### WAM4D: Fast 4D World Action Model via Spatial Register Tokens
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.14048)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact。
+
+### Warp: Structured Output-Space Adaptation for Frozen Robot Policies
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.31043)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact, insertion。
+
+### WARPED: Wrist-Aligned Rendering for Robot Policy Learning from Egocentric Human Demonstrations
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2604.10809)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: human demonstrations；abstract: hand object, retarget, human demonstration, data collection。
+
+### WasserMan: Benchmark for Underwater Manipulation Policy Learning
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、数据集、仿真与数据生成。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.04536)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 数据、仿真或评测支撑不等于已完成机器人重定向或控制。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: benchmark；abstract: contact, benchmark, simulation。
+
+### Water Surface Swimming in a Centipede and its Robophysical Model
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.27088)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: compliant, legged, locomotion。
+
+### WaveForward: An Omnidirectional Passive Wheeled Quadruped Robot with Casters
+
+- 阅读层级：**宽范围待审候选**；分组：相关对照与范围待定。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.25299)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。 仅有力／力矩线索时也可能是驱动或其他物理力，并未确认接触机制或接触力学贡献。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: quadruped；abstract: force, quadruped, legged。
+
+### WB-WAM: Heterogeneous Body-Hand Pre-training for Humanoid Loco-Manipulation
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2609.34199)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 本体含全身／夹爪／其他机器人线索，是接触领域相关方法；不能自动作为多指手成果。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: dexterous, retargeted, human demonstrations, motion transfer, datasets, simulation, whole body。
+
+### Weakly Supervised Discovery of Motion Styles for Compositional Robot Control
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2610.24008)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: retargeting, simulator, quadruped。
+
+### Wear-Clearance-Impact Coupling in the Jansen Linkage: A Gait-Durability-Optimized Design Slows Joint Loosening
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、接触力学与物理可行性、足式与全身多接触。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.25208)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact, friction, contact force, force, walking。
+
+### Wearing A Coat: Dual-Arm Robot-Assisted Dressing with Differentiable Clothing Simulation
+
+- 阅读层级：**宽范围待审候选**；分组：数据集、仿真与数据生成、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2607.10999)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 数据、仿真或评测支撑不等于已完成机器人重定向或控制。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: simulation；abstract: contact, simulation, assembly。
+
+### Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills
+
+- 阅读层级：**宽范围待审候选**；分组：重定向与示教迁移。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2608.01851)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+
+### Wh0: Generative World Models as Scalable Sources of Egocentric Human Hand Manipulation Data
+
+- 阅读层级：**宽范围待审候选**；分组：灵巧操作与手内任务。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.22136)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。 灵巧手线索来自摘要语境，不能直接认定已完成多指手任务或实机验证。 灵巧任务未明确多指机器人手本体；不能将一般灵巧操作等同于手内或多指手实验。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：title: human hand；abstract: dexterous, human hand, dataset, simulation。
+
+### What Can Latent World Models Know? Physical Information in Multimodal Predictive Representations
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2607.27017)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact。
+
+### What Demonstration Curation Metrics Do to Your Policy
+
+- 阅读层级：**宽范围待审候选**；分组：接触、力与阻抗控制、机械臂接触操作与装配。
+- 来源记录：[arXiv / arxiv](https://arxiv.org/abs/2606.10229)。
+- 纳入理由：接触／力触觉、灵巧操作或重定向／示教迁移词组命中；具体依据见标题／摘要证据。
+- 证据边界：机器筛选基于标题、摘要和已有分类，不证明该主题就是论文主要贡献，也不代表全文审阅或实机验证。
+- 审核基础：automated metadata phrase matching; not full-paper review。
+- 元数据命中：abstract: contact, benchmark, gripper。

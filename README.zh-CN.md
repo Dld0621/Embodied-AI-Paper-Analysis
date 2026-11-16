@@ -20,7 +20,7 @@
 | 搜索、筛选、保存与导出论文 | [在线科研工作台](https://dld0621.github.io/Embodied-AI-Paper-Analysis/?lang=zh#research-workbench) |
 | 从 9 个方向逐级浏览到最细专题 | [三级研究分类图](papers/taxonomy/README.md) |
 | 浏览近五年顶会层 | [顶会论文总览](papers/README.md) |
-| 灵巧操作的重定向、接触与残差文献 | [专题完整目录](papers/focus/dexterous-retargeting-contact/README.md) · [在线筛选](https://dld0621.github.io/Embodied-AI-Paper-Analysis/dexterous-retargeting-contact.html) · [CSV](data/dexterous-retargeting-contact.csv) |
+| 接触方法、灵巧操作与重定向文献 | [专题完整目录](papers/focus/dexterous-retargeting-contact/README.md) · [会议来源](papers/focus/dexterous-retargeting-contact/conference/README.md) · [arXiv 来源](papers/focus/dexterous-retargeting-contact/arxiv/README.md) · [在线筛选](https://dld0621.github.io/Embodied-AI-Paper-Analysis/dexterous-retargeting-contact.html) · [CSV](data/dexterous-retargeting-contact.csv) |
 | 跨分类重定向检索、分类依据与待审 | [关联主题](papers/topics/README.md) · [分类说明](docs/taxonomy-guide.md) · [待审清单](papers/classification-review/README.md) |
 | 查看实际更新时间与完整性边界 | [更新日期与覆盖报告](docs/coverage-report.md) |
 | 使用机器可读数据 | [`papers.json`](data/papers.json) · [`arxiv_recent.json`](data/arxiv_recent.json) |

@@ -6,11 +6,11 @@
   const tierNames = {
     reviewed:'重点核查',
     'strong-candidate':'自动强匹配',
-    'broad-candidate':'延伸待复核',
+    'broad-candidate':'宽泛匹配待复核',
   };
   const tierOrder = {reviewed:0,'strong-candidate':1,'broad-candidate':2};
   const sourceNames = {official:'官方来源',publisher:'出版方来源',bibliographic:'文献索引',arxiv:'arXiv 预印本'};
-  const state = {data:null, group:'all', tier:'direct', source:'all', query:'', visible:PAGE_SIZE};
+  const state = {data:null, group:'all', tier:'all', source:'all', query:'', visible:PAGE_SIZE};
   const escape = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
   const safeUrl = value => {
     try { const url = new URL(String(value)); return url.protocol === 'https:' ? url.href : ''; }
@@ -53,7 +53,7 @@
     if (state.source !== 'all' && !variants(paper).some(source => source.source_layer === state.source)) return false;
     if (state.query) {
       const fields = [paper.title, paper.why_zh, paper.track, paper.subcategory, paper.specialty,
-        paper.residual_role, ...paper.groups.map(groupName), ...variants(paper).map(source => source.title),
+        paper.residual_role, ...paper.groups.map(groupName), ...variants(paper).flatMap(source => [source.title,source.arxiv_id,source.venue,source.year]),
         ...(paper.evidence || []).map(evidence => evidence.term)];
       const haystack = normal(fields.join(' '));
       if (!normal(state.query).split(/\s+/).filter(Boolean).every(term => haystack.includes(term))) return false;
@@ -71,7 +71,7 @@
     const layers = [...new Set(sources.map(source => source.source_layer))];
     const layerLabel = layers.includes('conference') && layers.includes('arxiv') ? '含会议与预印本来源' : layers.includes('conference') ? '会议来源' : '预印本来源';
     const evidence = (paper.evidence || []).slice(0, 8).map(item => `<li><strong>${escape(({title:'标题',abstract:'摘要',taxonomy:'已有分类'})[item.field] || '依据')}</strong>${item.term ? ` · ${escape(item.term)}` : ''}${item.snippet ? `：${escape(item.snippet)}` : ''}</li>`).join('');
-    const sourcesHtml = sources.map(source => `<p>${escape(source.venue || (source.source_layer === 'arxiv' ? 'arXiv' : 'Conference'))} ${escape(source.year || '')} · ${escape(sourceNames[source.source_type] || source.source_type || '来源层级未标注')}${source.published ? ` · 原始提交 ${escape(source.published)}` : ''}<br>${sourceLinks(source)}</p>`).join('');
+    const sourcesHtml = sources.map(source => `<p>${escape(source.venue || (source.source_layer === 'arxiv' ? 'arXiv' : 'Conference'))} ${escape(source.year || '')} · ${escape(sourceNames[source.source_type] || source.source_type || '来源层级未标注')}${source.published ? ` · ${source.source_layer === 'arxiv' ? '原始提交' : '来源日期'} ${escape(source.published)}` : ''}<br>${sourceLinks(source)}</p>`).join('');
     const reviewLinks = [...new Set((paper.review_urls || []).map(safeUrl).filter(Boolean))].slice(0,6).map((url,index) => `<a href="${escape(url)}" target="_blank" rel="noopener">核查材料 ${index+1} ↗</a>`).join('');
     return `<article class="df-paper" data-paper-id="${escape(paper.id)}" data-tier="${escape(paper.tier)}">
       <div class="df-paper-head"><h3>${title}</h3><span class="df-tier df-tier-${escape(paper.tier)}">${escape(tierNames[paper.tier] || paper.tier)}</span></div>
@@ -102,7 +102,7 @@
   function updateUrl() {
     const url = new URL(location.href);
     for (const [key,value] of Object.entries({group:state.group,tier:state.tier,source:state.source,q:state.query})) {
-      if (((key === 'group' || key === 'source') && value === 'all') || (key === 'tier' && value === 'direct') || !value) url.searchParams.delete(key);
+      if (((key === 'group' || key === 'source') && value === 'all') || (key === 'tier' && value === 'all') || !value) url.searchParams.delete(key);
       else url.searchParams.set(key,value);
     }
     history.replaceState(null, '', url);
@@ -118,11 +118,11 @@
   }
   function renderFoundations() {
     const papers = state.data.external_foundations || [];
-    $('#focus-foundations-summary').textContent = `展开 ${format(papers.length)} 条窗口外基础参考（不计入专题候选）`;
+    $('#focus-foundations-summary').textContent = `展开 ${format(papers.length)} 条库外补充参考（不计入专题候选）`;
     $('#focus-foundations').innerHTML = papers.length ? papers.map(paper => {
       const url = (paper.urls || []).map(safeUrl).find(Boolean), title = url ? `<a href="${escape(url)}" target="_blank" rel="noopener">${escape(paper.title)} ↗</a>` : escape(paper.title);
       return `<article class="df-foundation"><h3>${escape(paper.year || '')} · ${title}</h3><p>${escape(paper.why_zh || '')}</p>${paper.boundary_zh ? `<p>${escape(paper.boundary_zh)}</p>` : ''}${paper.review_basis ? `<p>核查范围：${escape(reviewLabel(paper.review_basis))}</p>` : ''}</article>`;
-    }).join('') : '<p class="df-paper-boundary">当前没有独立补充的窗口外参考。</p>';
+    }).join('') : '<p class="df-paper-boundary">当前没有库外补充参考。</p>';
   }
   async function initialize() {
     try {
@@ -132,10 +132,13 @@
       if (!Array.isArray(data.papers) || !Array.isArray(data.groups) || data.papers.some(p => !p.title || !Array.isArray(p.groups) || !tierNames[p.tier])) throw new Error('专题数据结构不完整');
       state.data = data;
       const counts = data.counts || {}, tiers = counts.tier_counts || {};
+      const conferenceSources = data.papers.reduce((sum,paper) => sum + variants(paper).filter(v => v.source_layer === 'conference').length,0);
+      const arxivSources = data.papers.reduce((sum,paper) => sum + variants(paper).filter(v => v.source_layer === 'arxiv').length,0);
+      const overlapTitles = data.papers.filter(paper => ['conference','arxiv'].every(layer => variants(paper).some(v => v.source_layer === layer))).length;
       const groupOptions = data.groups.map(group => `<option value="${escape(group.slug)}">${escape(group.name_zh)} · ${format(counts.group_counts?.[group.slug])}</option>`).join('');
       $('#focus-group').insertAdjacentHTML('beforeend', groupOptions);
       $('#focus-summary').innerHTML = [
-        [data.papers.length,'当前库候选 · 标题去重'],[counts.source_records,'对应来源记录'],[tiers.reviewed,'重点核查'],[tiers['strong-candidate'],'自动强匹配'],[tiers['broad-candidate'],'延伸待复核'],
+        [data.papers.length,'当前库候选 · 标题去重'],[conferenceSources,'会议来源记录'],[arxivSources,'arXiv 来源记录'],[overlapTitles,'同时含两层来源的标题'],[tiers.reviewed,'重点核查'],[tiers['strong-candidate'],'自动强匹配'],[tiers['broad-candidate'],'宽泛匹配待复核'],
       ].map(([value,label]) => `<span><strong>${format(value)}</strong>${escape(label)}</span>`).join('');
       $('#focus-snapshots').textContent = `专题生成：${data.generated_on || '未提供'} · 会议快照：${data.source_snapshots?.conference || '未提供'} · arXiv 快照：${data.source_snapshots?.arxiv || '未提供'} · 标题去重保留全部来源变体`;
       renderFoundations(); initialFilters(); render();
@@ -150,8 +153,8 @@
   $('#focus-search').addEventListener('input', event => { state.query = event.target.value; changed(); });
   for (const [key,selector] of [['group','#focus-group'],['tier','#focus-tier'],['source','#focus-source']]) $(selector).addEventListener('change', event => { state[key] = event.target.value; changed(); });
   $('#focus-reset').addEventListener('click', () => {
-    Object.assign(state,{group:'all',tier:'direct',source:'all',query:'',visible:PAGE_SIZE});
-    $('#focus-search').value = ''; $('#focus-group').value = 'all'; $('#focus-tier').value = 'direct'; $('#focus-source').value = 'all'; changed();
+    Object.assign(state,{group:'all',tier:'all',source:'all',query:'',visible:PAGE_SIZE});
+    $('#focus-search').value = ''; $('#focus-group').value = 'all'; $('#focus-tier').value = 'all'; $('#focus-source').value = 'all'; changed();
   });
   $('#focus-more').addEventListener('click', () => { state.visible += PAGE_SIZE; render(); });
   initialize();

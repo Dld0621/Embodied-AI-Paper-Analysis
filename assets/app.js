@@ -1,6 +1,6 @@
 const I18N = {
   en: {
-    dexterityFocus: "Dexterous retargeting & contact",
+    dexterityFocus: "Contact, dexterity & retargeting",
     skip: "Skip to research workbench", navWorkbench: "Workbench", navDirections: "Research map", navPolicy: "Method", readingList: "Reading list",
     eyebrow: "Conference + arXiv census", heroLineOne: "Research the field.", heroLineTwo: "Not the feed.",
     heroLead: "A bilingual, source-aware workbench connecting a five-year top-conference census with a systematic three-year arXiv layer and an auditable three-level research taxonomy.",
@@ -24,7 +24,7 @@ const I18N = {
     markdownExported: "Markdown exported", csvExported: "CSV exported", columnPaper: "Paper", columnYear: "Year", columnVenue: "Venue", columnSource: "Provenance", columnActions: "Links"
   },
   zh: {
-    dexterityFocus: "灵巧操作：重定向与接触",
+    dexterityFocus: "接触方法、灵巧操作与重定向",
     skip: "跳转到科研工作台", navWorkbench: "科研工作台", navDirections: "研究地图", navPolicy: "方法", readingList: "阅读清单",
     eyebrow: "顶会 + arXiv 系统普查", heroLineOne: "研究整个领域。", heroLineTwo: "不被信息流裹挟。",
     heroLead: "面向科研工作者的双语、来源透明工作台，连接近五年顶会普查、近三年 arXiv 论文层与可审计的三级研究分类。",
