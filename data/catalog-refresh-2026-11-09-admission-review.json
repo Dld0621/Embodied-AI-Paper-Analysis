@@ -1,0 +1,66 @@
+{
+  "snapshot_date": "2026-11-09",
+  "checked_on": "2026-11-09",
+  "source": "Official arXiv Atom response by ID, evaluated against the same admission function as the harvest.",
+  "api": "https://export.arxiv.org/api/query?id_list=2512.14189%2C2604.20744%2C2607.24852&max_results=3",
+  "records": [
+    {
+      "id": "2512.14189",
+      "paper_url": "https://arxiv.org/abs/2512.14189",
+      "baseline_title": "SUPER -- A Framework for Sensitivity-based Uncertainty-aware Performance and Risk Assessment in Visual Inertial Odometry",
+      "current_title": "SUPER - Sensitivity-based Uncertainty-aware Performance and Risk Assessment in Visual Inertial Odometry",
+      "version": 2,
+      "published_on": "2025-12-16",
+      "updated_on": "2026-11-04",
+      "primary_category": "cs.RO",
+      "cs_ro_present": true,
+      "changed_fields": [
+        "title",
+        "abstract"
+      ],
+      "matched_exclusion_terms": [],
+      "remaining_admission_matches": [],
+      "current_admission_result": null,
+      "reason": "新版标题与摘要未命中现有准入词表。旧版曾命中 localization、mapping、slam 和 visual odometry。"
+    },
+    {
+      "id": "2604.20744",
+      "paper_url": "https://arxiv.org/abs/2604.20744",
+      "baseline_title": "AAC: Admissible-by-Architecture Differentiable Landmark Compression for ALT",
+      "current_title": "AAC: Admissible-by-Architecture Differentiable Landmark Compression for ALT",
+      "version": 2,
+      "published_on": "2026-04-22",
+      "updated_on": "2026-11-04",
+      "primary_category": "cs.AI",
+      "cs_ro_present": true,
+      "changed_fields": [
+        "abstract"
+      ],
+      "matched_exclusion_terms": [],
+      "remaining_admission_matches": [],
+      "current_admission_result": null,
+      "reason": "标题相同，新摘要未保留旧摘要中的 benchmark 和 benchmarking 匹配。"
+    },
+    {
+      "id": "2607.24852",
+      "paper_url": "https://arxiv.org/abs/2607.24852",
+      "baseline_title": "Hold-Out Self-Validation Cannot Certify Photogrammetric Accuracy: Saturation and Blindness to Coherent Distortion",
+      "current_title": "Hold-Out Self-Validation Cannot Certify the Accuracy of Photogrammetric Reconstructions",
+      "version": 5,
+      "published_on": "2026-07-25",
+      "updated_on": "2026-11-06",
+      "primary_category": "cs.CV",
+      "cs_ro_present": true,
+      "changed_fields": [
+        "title",
+        "abstract"
+      ],
+      "matched_exclusion_terms": [],
+      "remaining_admission_matches": [
+        "abstract:mapping"
+      ],
+      "current_admission_result": null,
+      "reason": "新标题和摘要只剩摘要中的弱匹配 mapping。一个弱匹配未达到现有准入阈值。"
+    }
+  ]
+}

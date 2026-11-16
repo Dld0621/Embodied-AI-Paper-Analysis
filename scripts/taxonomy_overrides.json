@@ -1,0 +1,1158 @@
+{
+  "dexmachina functional retargeting for bimanual dexterous manipulation": {
+    "title": "DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Abstract defines functional transfer of human hand-object demonstrations to object-state tracking policies.",
+    "related_topics": [
+      "Hand Retargeting",
+      "Bimanual",
+      "Contact-rich"
+    ]
+  },
+  "spider scalable physics informed dexterous retargeting": {
+    "title": "SPIDER: Scalable Physics-Informed Dexterous Retargeting",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Physics & Dynamics Retargeting"
+    ],
+    "reason": "Abstract defines physics-based conversion to dynamically feasible robot trajectories for hands and humanoids.",
+    "related_topics": [
+      "Hand Retargeting",
+      "Whole-body Retargeting"
+    ]
+  },
+  "geometric retargeting a principled ultrafast neural hand retargeting algorithm": {
+    "title": "Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Kinematic & Pose Retargeting"
+    ],
+    "reason": "Abstract describes human finger-keypoint to robot hand-keypoint mapping.",
+    "related_topics": []
+  },
+  "anydexrt calibration free dexterous hand retargeting with few shot human guidance": {
+    "title": "AnyDexRT: Calibration-Free Dexterous Hand Retargeting with Few-Shot Human Guidance",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Kinematic & Pose Retargeting"
+    ],
+    "reason": "Abstract describes kinematic human-to-hand mapping and fingertip correspondence.",
+    "related_topics": []
+  },
+  "anydexrt calibration efficient dexterous hand retargeting with few shot human guidance": {
+    "title": "AnyDexRT: Calibration-Efficient Dexterous Hand Retargeting with Few-Shot Human Guidance",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Kinematic & Pose Retargeting"
+    ],
+    "reason": "Title/abstract review of v2. Self-supervised fingertip correspondence and few-shot guidance map human motions to dexterous hands. A contact classifier refines pinch poses. https://arxiv.org/abs/2607.08341v2",
+    "related_topics": ["Teleoperation"]
+  },
+  "analyzing key objectives in human to robot retargeting for dexterous manipulation": {
+    "title": "Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Kinematic & Pose Retargeting"
+    ],
+    "reason": "Abstract compares kinematic posture retargeting objectives on robot hands.",
+    "related_topics": []
+  },
+  "dexflow a unified approach for dexterous hand pose retargeting and interaction": {
+    "title": "DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and Interaction",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Abstract describes pose transfer with contact maps and hand-object interaction refinement.",
+    "related_topics": []
+  },
+  "kinematic motion retargeting for contact rich anthropomorphic manipulations": {
+    "title": "Kinematic Motion Retargeting for Contact-Rich Anthropomorphic Manipulations",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Abstract describes non-isometric hand shape matching preserving surface contacts.",
+    "related_topics": []
+  },
+  "dextwist dexterous hand retargeting for twist motion via mixed reality based teleoperation": {
+    "title": "DexTwist: Dexterous Hand Retargeting for Twist Motion via Mixed Reality-based Teleoperation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Abstract optimizes turning progress, screw-axis consistency and tripod contact.",
+    "related_topics": []
+  },
+  "toporetarget interaction preserving retargeting for dexterous manipulation": {
+    "title": "TopoRetarget: Interaction-Preserving Retargeting for Dexterous Manipulation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Abstract preserves hand-object interaction graph and contact geometry.",
+    "related_topics": []
+  },
+  "morphometric imitation from morphology and contact aware hand retargeting to sim to real visuomotor policy": {
+    "title": "Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Abstract uses morphometric optimization to preserve demonstrated contacts before residual RL.",
+    "related_topics": []
+  },
+  "reforce learning force aware retargeting for dexterous manipulation": {
+    "title": "ReForce: Learning Force-aware Retargeting for Dexterous Manipulation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Physics & Dynamics Retargeting"
+    ],
+    "reason": "Abstract transfers forces and contact through a learned force tracker.",
+    "related_topics": []
+  },
+  "flashdexretarget accelerating dexterous manipulation data generation through multi motion retargeting": {
+    "title": "FlashDexRetarget: Accelerating Dexterous Manipulation Data Generation through Multi-Motion Retargeting",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Physics & Dynamics Retargeting"
+    ],
+    "reason": "Abstract uses RL to generate physically feasible dexterous trajectories at scale.",
+    "related_topics": []
+  },
+  "a minimalist retargeting guided reinforcement learning recipe for dexterous manipulation": {
+    "title": "A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Physics & Dynamics Retargeting"
+    ],
+    "reason": "Abstract uses a retargeted hand-object reference and residual RL for feasible contact-rich skills.",
+    "related_topics": []
+  },
+  "c2dex contact consistent reconstruction and retargeting for dexterous manipulation from monocular video": {
+    "title": "C2Dex: Contact-Consistent Reconstruction and Retargeting for Dexterous Manipulation from Monocular Video",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Abstract uses stable object-side contacts as explicit cross-hand transfer targets.",
+    "related_topics": []
+  },
+  "dexterous robot manipulation from human demonstrations via contact anchored retargeting and residual policy learning": {
+    "title": "Dexterous Robot Manipulation from Human Demonstrations via Contact-Anchored Retargeting and Residual Policy Learning",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Abstract identifies preserved contact structure as the embodiment-independent transfer objective.",
+    "related_topics": []
+  },
+  "objretarget an object aware motion retargeting framework with anthropomorphic arm constraints and polyhedral hand modeling": {
+    "title": "ObjRetarget: An Object-Aware Motion Retargeting Framework with Anthropomorphic Arm Constraints and Polyhedral Hand Modeling",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Abstract preserves multifinger contact geometry through polytope representations.",
+    "related_topics": []
+  },
+  "smooth operator a real time sampling based algorithm for kinematic hand retargeting": {
+    "title": "Smooth Operator: A Real-Time Sampling-Based Algorithm for Kinematic Hand Retargeting",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Kinematic & Pose Retargeting"
+    ],
+    "reason": "Abstract develops a low-jitter sampling-based kinematic hand retargeter.",
+    "related_topics": []
+  },
+  "kilohertz safe a scalable framework for constrained dexterous retargeting": {
+    "title": "Kilohertz-Safe: A Scalable Framework for Constrained Dexterous Retargeting",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Kinematic & Pose Retargeting"
+    ],
+    "reason": "Abstract describes joint-differential-space kinematic mapping with linearized constraints.",
+    "related_topics": []
+  },
+  "dexterous teleoperation of 20 dof bytedexter hand via human motion retargeting": {
+    "title": "Dexterous Teleoperation of 20-DoF ByteDexter Hand via Human Motion Retargeting",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Kinematic & Pose Retargeting"
+    ],
+    "reason": "Abstract describes optimization-based hand motion retargeting for a hand-arm interface.",
+    "related_topics": []
+  },
+  "dextele a dual arm dexterous teleoperation system based on motion retargeting and adaptive force control": {
+    "title": "DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Kinematic & Pose Retargeting"
+    ],
+    "reason": "Abstract separates motion retargeting from a downstream adaptive grasp-force module.",
+    "related_topics": []
+  },
+  "pose retargeting from a single rgb camera optimization based hand pose retargeting and wrist pose estimation": {
+    "title": "Pose Retargeting from a Single RGB Camera: Optimization-Based Hand Pose Retargeting and Wrist Pose Estimation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Kinematic & Pose Retargeting"
+    ],
+    "reason": "Title explicitly identifies optimization-based hand-pose retargeting.",
+    "related_topics": []
+  },
+  "egoinfinity a web scale 4d hand object interaction data engine for any view robot retargeting and video to action robot learning": {
+    "title": "EgoInfinity: A Web-Scale 4D Hand-Object Interaction Data Engine for Any-View Robot Retargeting and Video-to-Action Robot Learning",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Synthetic & Augmented Data",
+      "Cross-robot Data Conversion"
+    ],
+    "reason": "Abstract presents a modular data engine; hand retargeting is a related module.",
+    "related_topics": [
+      "Hand Retargeting"
+    ]
+  },
+  "hograspflow taxonomy aware hand object retargeting for multi modal se 3 grasp generation": {
+    "title": "HOGraspFlow: Taxonomy-Aware Hand-Object Retargeting for Multi-Modal SE(3) Grasp Generation",
+    "path": [
+      "Arm & General Object Manipulation",
+      "Grasping & Pick-place",
+      "Gripper & Suction Grasp Planning"
+    ],
+    "reason": "Abstract explicitly generates parallel-jaw grasps rather than multifinger hand motion.",
+    "excluded_topics": ["Hand Retargeting"],
+    "related_topics": []
+  },
+  "dexforge high fidelity physics informed dexterous retargeting": {
+    "title": "DexForge: High-Fidelity Physics-Informed Dexterous Retargeting",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Physics & Dynamics Retargeting"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: the core framework combines a differentiable simulator, contact-aware kinematic references and force-aware dynamics refinement for physically feasible hand-object transfer; the kinematic reference is a component, not the whole contribution. Official abstract: https://arxiv.org/abs/2610.06331",
+    "related_topics": ["Hand Retargeting", "Dexterous Manipulation", "Contact-rich"]
+  },
+  "eigendexplore structured exploration for dexterous manipulation with human priors": {
+    "title": "EigenDEXplore: Structured Exploration for Dexterous Manipulation with Human Priors",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "Reinforcement Learning",
+      "Online Reinforcement Learning"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: human-derived eigenvectors structure correlated action-space exploration for dexterous reinforcement learning, also evaluated with trajectory optimization; exploration here is policy search, not spatial navigation or information-gain mapping, and human priors are not demonstration imitation. Official abstract: https://arxiv.org/abs/2610.07681",
+    "related_topics": ["Dexterous Manipulation"]
+  },
+  "mim vla learning physical interaction representations from gripper motor feedback": {
+    "title": "MIM-VLA: Learning Physical Interaction Representations from Gripper Motor Feedback",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "VLA & Generalist Robot Policies",
+      "Vision-Language-Action Modeling"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: a learned motor-feedback interaction token conditions SmolVLA's gripper-action pathway using existing current and state feedback; it is a policy representation architecture, not a new actuator or transmission design. Official abstract: https://arxiv.org/abs/2610.08425",
+    "related_topics": []
+  },
+  "sota soft tactile skins for dexterous manipulation": {
+    "title": "SoTa: Soft Tactile Skins for Dexterous Manipulation",
+    "path": [
+      "Robot Hardware & Systems",
+      "Sensors & Human Interfaces",
+      "Tactile & Force Sensors"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: the contribution is a low-cost capacitive tactile skin with full-hand coverage, fabrication and durability evidence, and a corresponding human/robot taxel layout; demonstration co-training evaluates this sensing hardware and does not make the paper a video-to-robot method. Official abstract: https://arxiv.org/abs/2610.02338",
+    "related_topics": ["Dexterous Manipulation"]
+  },
+  "long wam scaling the context of world action models": {
+    "title": "Long-WAM: Scaling the Context of World-Action Models",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "World & Dynamics Modeling",
+      "Action-conditioned Video Prediction"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: the model-system contribution scales causal world-action context through autoregressive video pretraining, future-video prediction and streaming real-time execution; long-horizon manipulation is an evaluation setting, not a new task-decomposition or task-motion planner. Official abstract: https://arxiv.org/abs/2610.10528",
+    "related_topics": ["World Models"]
+  },
+  "generative neural retargeting for human to robot dexterous manipulation": {
+    "title": "Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Physics & Dynamics Retargeting"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: GNR uses human-motion-conditioned flow matching to sample dynamically feasible dexterous trajectories and amortize retargeting across demonstrations; IK and MPC are comparison approaches, while the resulting dataset is an application of the retargeting method. Official abstract: https://arxiv.org/abs/2610.12440",
+    "related_topics": ["Hand Retargeting", "Dexterous Manipulation"]
+  },
+  "pact posture aligned co design technique for hand configuration and retargeting in multi finger imitation learning": {
+    "title": "PACT: Posture-Aligned Co-Design Technique for Hand Configuration and Retargeting in Multi-Finger Imitation Learning",
+    "path": [
+      "Robot Hardware & Systems",
+      "Mechanisms & Actuation",
+      "Hands, Grippers & Arms"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: PACT jointly optimizes a 17-servo hand's mechanical parameters and nonlinear posture retargeter under assembly constraints, then fabricates the hand; teleoperation and imitation learning evaluate the co-designed hardware, and hand retargeting remains a substantial associated contribution. Official abstract: https://arxiv.org/abs/2610.18443",
+    "related_topics": ["Hand Retargeting"]
+  },
+  "hwam humanoid world action model with joint state action generation": {
+    "title": "HWAM: Humanoid World Action Model With Joint State--Action Generation",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "World & Dynamics Modeling",
+      "Action-conditioned Video Prediction"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: HWAM jointly generates policy references and realized proprioceptive states, with forward dynamics predicting visual outcomes and inverse dynamics reconstructing trajectories; whole-body control is the downstream execution context, not a new balance or locomotion controller. Official abstract: https://arxiv.org/abs/2610.12026",
+    "related_topics": ["World Models"]
+  },
+  "what visual representations do world action models need": {
+    "title": "What Visual Representations Do World Action Models Need?",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "World & Dynamics Modeling",
+      "Action-conditioned Video Prediction"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: the paper compares visual representations, integration mechanisms and feature composition inside world-action models, including joint future-feature prediction, and instantiates the resulting recipe as R2-WAM; it is not an unspecified imitation-learning method. Official abstract: https://arxiv.org/abs/2610.13024",
+    "related_topics": ["World Models"]
+  },
+  "egocpt learning dexterous manipulation from a single ego centric video with contact aware optimization": {
+    "title": "EgoCPT: Learning Dexterous Manipulation from a Single Ego-Centric Video with Contact-Aware Optimization",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: EgoCPT reconstructs deployable retargeted dexterous hand trajectories from egocentric RGB video and reference hand poses through iterative hand-object contact optimization; the core contribution is contact-aware demonstration transfer rather than generic multifinger grasp control. Official abstract: https://arxiv.org/abs/2610.17572",
+    "related_topics": ["Hand Retargeting", "Dexterous Manipulation", "Contact-rich"]
+  },
+  "human2dex dexterous robot learning from wrist centric human demonstrations": {
+    "title": "Human2Dex: Dexterous Robot Learning from Wrist-Centric Human Demonstrations",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Human Demonstrations to Dexterous Skills",
+      "Video-to-robot Demonstrations"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: Human2Dex builds a reusable wrist-centric human-demonstration interface through observation alignment, a shared hand representation and hand-specific policy learning; retargeting fused human hand motion to each target hand constructs executable supervision, so Hand Retargeting is an association without replacing the broader demonstration-to-policy primary path. Official abstract: https://arxiv.org/abs/2610.13119",
+    "related_topics": ["Hand Retargeting", "Dexterous Manipulation"]
+  },
+  "dexstitch learning and composing dexterous skills from human videos via contact aware robotic inpainting": {
+    "title": "DexStitch: Learning and Composing Dexterous Skills from Human Videos via Contact-Aware Robotic Inpainting",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Human Demonstrations to Dexterous Skills",
+      "Video-to-robot Demonstrations"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: DexStitch segments human videos into skills and transitions, converts aligned robot observation-action-skill data and composes skill-conditioned policies; per-finger contacts guide dexterous hand retargeting and robotic inpainting during conversion, supporting a Hand Retargeting association while preserving the demonstration-to-skill primary path. Official abstract: https://arxiv.org/abs/2610.17789",
+    "related_topics": ["Hand Retargeting", "Dexterous Manipulation"]
+  },
+  "share sharing human actions across robot embodiments through unified retargeting and tracking": {
+    "title": "SHARE: Sharing Human Actions across Robot Embodiments through Unified Retargeting and Tracking",
+    "path": [
+      "Legged Locomotion & Whole-body Control",
+      "Whole-body Motion Transfer",
+      "Motion Imitation & Generation"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: SHARE generates embodiment-compatible human-motion references with AdaMorph and executes them through AdaTrack's closed-loop action policy on G1, HI, AD and T1; proprioception is an input to motion tracking, not the contribution of a tactile or sensor-fusion estimator. This is whole-body motion transfer, not human-to-hand retargeting. Official abstract: https://arxiv.org/abs/2601.07284",
+    "excluded_topics": ["Hand Retargeting"],
+    "related_topics": ["Whole-body Retargeting"]
+  },
+  "diffmorphgrasp a diffusion framework conditioned on hand morphology for cross embodiment grasp generation": {
+    "title": "DiffMorphGrasp: A Diffusion Framework Conditioned on Hand Morphology for Cross-Embodiment Grasp Generation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Multifinger Grasping & Control",
+      "Multifinger Coordination & Grasp Generation"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: DiffMorphGrasp conditions diffusion-based dexterous grasp generation on graph representations of multiple robotic hands' kinematic structures and object geometry; its shared reference-hand pose enables cross-morphology grasp learning, not human hand-motion retargeting or parallel-jaw and suction planning. Official abstract: https://arxiv.org/abs/2602.00915",
+    "excluded_topics": ["Hand Retargeting", "Whole-body Retargeting"],
+    "related_topics": ["Dexterous Manipulation"]
+  },
+  "dexoak object aware kinematic retargeting": {
+    "title": "DexOAK: Object-Aware Kinematic Retargeting",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Contact & Functional Retargeting"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: DexOAK transfers object-relative hand interactions using a joint hand-object graph Laplacian and object-aware contact, non-penetration and collision refinement; kinematic reference generation is the mechanism, while preserving demonstrated interaction geometry and contacts is the core transfer objective. Official abstract: https://arxiv.org/abs/2610.26762",
+    "related_topics": ["Hand Retargeting", "Contact-rich"]
+  },
+  "donic generalist dexterous bimanual tracking control from human demonstrations": {
+    "title": "DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Human Demonstrations to Dexterous Skills",
+      "Demonstration Refinement & Skill Transfer"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: DONIC trains a generalist bimanual reference tracker using PPO, behavioral cloning and recycling verified successful executions, with per-hand contact roles and clip-centered advantages; retargeted reconstructed human interactions supply references, so Hand Retargeting remains an association rather than replacing the tracking-and-skill-transfer primary contribution. Official abstract: https://arxiv.org/abs/2610.29997",
+    "related_topics": ["Hand Retargeting", "Dexterous Manipulation", "Bimanual"]
+  },
+  "learning adaptable dexterous skills via hybrid dexterous mimicking": {
+    "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "Reinforcement Learning",
+      "Combining Imitation & Reinforcement"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: AdaDex jointly trains one goal-conditioned policy in motion-tracking environments providing a human-motion imitation prior and perturbed goal-reaching environments providing sparse task rewards; its contribution is this combined imitation-and-RL learning recipe across multiple dexterous skills, not a grasp generator or a human-to-hand kinematic mapping. Official abstract: https://arxiv.org/abs/2610.28628",
+    "excluded_topics": ["Hand Retargeting", "Whole-body Retargeting"],
+    "related_topics": ["Dexterous Manipulation"]
+  },
+  "locopilot single operator bilateral teleoperation for loco manipulation policy learning": {
+    "title": "LocoPilot: Single-Operator Bilateral Teleoperation for Loco-Manipulation Policy Learning",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Teleoperation & Shared Control",
+      "Bilateral Feedback & Delay"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: LocoPilot provides single-operator bilateral loco-manipulation teleoperation with passivity-constrained force feedback and a shared recording/deployment action interface; the abstract explicitly deploys without action retargeting, so the correctly assigned teleoperation path must not acquire a Retargeting association from that negated mention. Official abstract: https://arxiv.org/abs/2610.27998",
+    "excluded_topics": ["Retargeting", "Hand Retargeting", "Whole-body Retargeting"],
+    "related_topics": ["Teleoperation"]
+  },
+  "opentac an open ecosystem for customizable scalable and transferable 3d tactile sensing": {
+    "title": "OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing",
+    "path": [
+      "Robot Hardware & Systems",
+      "Sensors & Human Interfaces",
+      "Tactile & Force Sensors"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: OpenTac develops a scalable resistive tactile skin with a structured deformable overlay and a customizable CAD tool generating fabrication files, supported by sensor characterization and adaptive acquisition; downstream control and learning demonstrate the new sensor ecosystem rather than define a tactile-representation estimator. Official abstract: https://arxiv.org/abs/2610.31661",
+    "related_topics": []
+  },
+  "gelslim 5 0 unifying vision and touch with a single fingertip camera": {
+    "title": "GelSlim 5.0: Unifying Vision and Touch with a Single Fingertip Camera",
+    "path": [
+      "Perception, Representation & State Estimation",
+      "Tactile & Multimodal Perception",
+      "Visuotactile & Proprioceptive Fusion"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: GelSlim 5.0 combines single-camera visual and tactile observations with VisTacFusion's asymmetric multimodal transformer to estimate planar object pose and local contact depth and normals; this perceptual contribution is visuotactile fusion, not generic full-6D pose tracking. Its new fingertip sensor is a substantial hardware contribution, but the chosen primary perception path reflects the joint multimodal estimation method. Official abstract: https://arxiv.org/abs/2610.31334",
+    "related_topics": []
+  },
+  "diffdreamer coupling world models with differentiable simulation for agile quadrotor control": {
+    "title": "DiffDreamer: Coupling World Models with Differentiable Simulation for Agile Quadrotor Control",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "Model-based Decision Making",
+      "Imagination & Model-based RL"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: DiffDreamer couples learned external latent dynamics with a differentiable physical simulator inside actor optimization and decomposes critic-driven and simulator-driven reward pathways; its contribution is world-model-based policy optimization, not merely learning a latent dynamics predictor. Official abstract: https://arxiv.org/abs/2610.31617",
+    "related_topics": ["World Models"]
+  },
+  "skeleton grounded latent action model for robot world models": {
+    "title": "Skeleton-Grounded Latent Action Model for Robot World Models",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "World & Dynamics Modeling",
+      "Action-conditioned Video Prediction"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: SkeLAM separates skeleton-supervised kinematic and residual latent actions, learns an action adapter and generates future observations conditioned on current observations and robot actions; skeleton supervision structures controllable video prediction rather than establishing a pose-estimation or generic latent-state-only modeling contribution. Official abstract: https://arxiv.org/abs/2610.31474",
+    "related_topics": ["World Models"]
+  },
+  "progress probes p 2 lightweight runtime monitoring for vision language action models": {
+    "title": "Progress Probes $P^2$: Lightweight Runtime Monitoring for Vision-Language-Action Models",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "Memory & Autonomous Execution",
+      "Failure Detection & Replanning"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: Progress Probes trains linear probes of an existing VLA's internal activations to estimate task progress and detect deviations and failures at runtime; the VLA is the monitored policy, not a newly proposed generalist action-model architecture, and the current specialty includes failure detection without claiming a new replanner. Official abstract: https://arxiv.org/abs/2610.31613",
+    "related_topics": []
+  },
+  "egojepa beyond retargeting for dexterous manipulation from egocentric videos": {
+    "title": "EgoJEPA: Beyond Retargeting for Dexterous Manipulation from Egocentric Videos",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "World & Dynamics Modeling",
+      "Latent Dynamics"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: EgoJEPA learns effect-aware latent actions with JEPA-style visual prediction, jointly models future visual dynamics and latent actions, and adapts them to robot control through lightweight embodiment-specific action adapters; the abstract explicitly operates without rule-based human-to-robot retargeting, which is a comparison baseline rather than its contribution. This paper was first submitted on 2026-10-14 and is newly admitted in this refresh, not newly published after the previous snapshot. Official abstract: https://arxiv.org/abs/2610.20904",
+    "excluded_topics": ["Retargeting", "Hand Retargeting", "Whole-body Retargeting"],
+    "related_topics": ["World Models", "Dexterous Manipulation"]
+  },
+  "kinematic tactile aligned dexterous retargeting with contact wrench space alignment": {
+    "title": "Kinematic-Tactile Aligned Dexterous Retargeting with Contact Wrench Space Alignment",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Physics & Dynamics Retargeting"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: the framework aligns kinematics and contacts, constructs human contact-wrench support from tactile forces, and optimizes robot fingertip force targets before converting them into joint-position corrections; explicit physical wrench and force transfer, rather than pose matching alone, defines the contribution. Official abstract: https://arxiv.org/abs/2610.39582",
+    "related_topics": ["Hand Retargeting", "Dexterous Manipulation", "Contact-rich"]
+  },
+  "touchbridge tactile conditioned human to robot transfer for dexterous manipulation": {
+    "title": "TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Human Demonstrations to Dexterous Skills",
+      "Video-to-robot Demonstrations"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: TouchBridge converts human visual and tactile demonstrations into robot-domain policy-training data through a co-designed interface, visual synthesis and action conversion; its Tac-Retarget module transfers fingertip contact patches and their spatial relations, supporting a Hand Retargeting association while retaining the broader demonstration-to-skill primary path. Official abstract: https://arxiv.org/abs/2610.40349",
+    "related_topics": ["Hand Retargeting", "Dexterous Manipulation", "Contact-rich"]
+  },
+  "acrossdex 1 0 from human motion pretraining to bimanual dexterous manipulation across hand embodiments": {
+    "title": "AcrossDEX 1.0: From Human Motion Pretraining to Bimanual Dexterous Manipulation across Hand Embodiments",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Human Demonstrations to Dexterous Skills",
+      "Demonstration Refinement & Skill Transfer"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: AcrossDEX connects human-motion pretraining, simulation-based expert learning, robot demonstrations and closed-loop execution across Inspire and Allegro hands using shared wrist representations and embodiment-specific finger fields; object reorientation is an evaluation task, not the primary contribution, and the abstract does not establish a distinct human-to-hand retargeting algorithm. Official abstract: https://arxiv.org/abs/2610.40210",
+    "excluded_topics": ["Hand Retargeting", "Whole-body Retargeting"],
+    "related_topics": ["Dexterous Manipulation", "Bimanual"]
+  },
+  "swapbot tool centric robot manipulation via interchangeable end effectors and tactile sensing": {
+    "title": "SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing",
+    "path": [
+      "Robot Hardware & Systems",
+      "Mechanisms & Actuation",
+      "Hands, Grippers & Arms"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: SwapBot introduces a modular end-effector system with a fixed robot-side coupling and low-cost tactile-equipped tool-side adapters for autonomous swapping; teleoperation and learned tool-use tasks evaluate this hardware architecture rather than define a new articulated-object manipulation algorithm or tactile representation estimator. Official abstract: https://arxiv.org/abs/2610.40646",
+    "related_topics": ["Contact-rich", "Teleoperation"]
+  },
+  "utility wam correcting future induced action changes": {
+    "title": "Utility-WAM: Correcting Future-Induced Action Changes",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "VLA & Generalist Robot Policies",
+      "Pending specialty review"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: Utility-WAM trains a residual velocity adapter on a frozen world-action policy and uses a counterfactual pre-generation gate to bypass unhelpful future-video computation; bimanual manipulation is an evaluation setting, not its primary skill contribution. The schema lacks an exact specialty for generalist world-action-policy correction and gating, so the appropriate policy parent retains Pending specialty review rather than implying a new VLA architecture, language-conditioning contribution, or test-time adaptation. Official abstract: https://arxiv.org/abs/2610.39367",
+    "related_topics": ["World Models"]
+  },
+  "logiv graph verified execution with causal local repair for long horizon robot tasks": {
+    "title": "LOGIV: Graph-Verified Execution with Causal Local Repair for Long-Horizon Robot Tasks",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "Memory & Autonomous Execution",
+      "Failure Detection & Replanning"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: LOGIV verifies physical condition-support and resource-ordering dependencies during execution and traces causal dependencies for validated local repair; it operates above existing VLA and WAM backbones without additional trainable components, making failure detection and continuation repair the contribution rather than a new action-model architecture. Official abstract: https://arxiv.org/abs/2610.40016",
+    "related_topics": ["World Models"]
+  },
+  "roboseed multidimensional evaluation of vision language action and world action models capability resource affordability and research evidence": {
+    "title": "RoboSeed: Multidimensional Evaluation of Vision-Language-Action and World-Action Models: Capability, Resource Affordability, and Research Evidence",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Benchmarks & Experimental Methods",
+      "Reproducibility & Statistical Comparison"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: RoboSeed compares action-model capability, training and deployment affordability, local research value and reproduction evidence using explicit protocol checks and normalization anchors; incomplete measurements remain unranked. Its contribution is auditable comparative evaluation, not a new VLA or world-action architecture. Official abstract: https://arxiv.org/abs/2610.40026",
+    "related_topics": ["World Models"]
+  },
+  "jedi joint embedding demonstration compression for in context imitation learning": {
+    "title": "JEDI: Joint-Embedding Demonstration Compression for In-Context Imitation Learning",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "Imitation Learning",
+      "Behavior Cloning & Sequence Modeling"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: JEDI compresses multimodal demonstration sequences into execution-relevant latent slots for in-context imitation learning; frozen video-JEPA future-keyframe prediction supplies the compression objective rather than a standalone robot video world model. The chosen specialty denotes demonstration-sequence modeling and does not assert that the method trains a behavior-cloning action loss. Official abstract: https://arxiv.org/abs/2610.40356",
+    "related_topics": []
+  },
+  "prime w0 physical priors from world models for embodied manipulation": {
+    "title": "PRIME W0: Physical Priors from World Models for Embodied Manipulation",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "VLA & Generalist Robot Policies",
+      "Hierarchical & Mixture Policies"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: PRIME W0 proposes a hierarchical conditional flow-matching policy with per-layer VLM KV injection, an adaptive mixture-of-experts action head and kinematically structured action noise; world-model subgoal images and historical visual features condition that policy, rather than making a latent dynamics predictor the primary contribution. Official abstract: https://arxiv.org/abs/2610.39528",
+    "related_topics": ["World Models"]
+  },
+  "umi live for in the wild bimanual robotics data collection": {
+    "title": "UMI-Live for In-The-Wild Bimanual Robotics Data Collection",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Datasets & Data Engineering",
+      "Robot Demonstration Datasets"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: UMI-Live supplies an integrated portable bimanual recording and SLAM-processing pipeline, training-ready robot demonstrations and a released 40-hour dataset across three tasks; downstream policy trials evaluate data utility, not a new data-quality filtering algorithm. The dataset-and-collection path retains this data-engineering contribution without claiming independently reproduced hardware or policy results. Official abstract: https://arxiv.org/abs/2610.39385",
+    "related_topics": ["Bimanual", "Teleoperation"]
+  },
+  "hilo wam decoupling long horizon task evolution and local dynamics in world action models": {
+    "title": "HiLo-WAM: Decoupling Long-Horizon Task Evolution and Local Dynamics in World Action Models",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "World & Dynamics Modeling",
+      "Action-conditioned Video Prediction"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: HiLo-WAM jointly models robot actions with a sparse long-horizon visual stream and a dense local visual-dynamics stream in a dual-DiT architecture; long-horizon manipulation evaluates that predictive world-action model rather than defining a task-and-motion planner. Official abstract: https://arxiv.org/abs/2611.05023",
+    "related_topics": ["World Models"]
+  },
+  "primesim a generalist world model simulator from large scale cross embodiment demonstrations": {
+    "title": "PrimeSim: A Generalist World Model Simulator from Large-Scale Cross-Embodiment Demonstrations",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "World & Dynamics Modeling",
+      "Action-conditioned Video Prediction"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: PrimeSim learns an action-conditioned multiview video world model with cross-embodiment action conditioning, view-aware attention, causal rollout training and temporal memory; simulator describes its learned predictive use, not a new physical dynamics engine or conventional simulation integration platform. Official abstract: https://arxiv.org/abs/2611.04870",
+    "related_topics": ["World Models"]
+  },
+  "cronos benchmarking non episodic reinforcement learning for robotic manipulation": {
+    "title": "CRONOS: Benchmarking Non-Episodic Reinforcement Learning for Robotic Manipulation",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Benchmarks & Experimental Methods",
+      "Task & Capability Benchmarks"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: CRONOS introduces a shared-scene simulation benchmark for non-episodic reinforcement-learning fine-tuning of pretrained action policies and studies scene-reset allocation and configuration shifts; long-horizon manipulation is a measured capability, not a new task-and-motion planning method. Official abstract: https://arxiv.org/abs/2611.05080",
+    "related_topics": []
+  },
+  "loopq fair closed loop evaluation of quantized vision language action models": {
+    "title": "LoopQ: Fair, Closed-Loop Evaluation of Quantized Vision-Language-Action Models",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Benchmarks & Experimental Methods",
+      "Reproducibility & Statistical Comparison"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: LoopQ compares post-training quantization methods under matched checkpoints, layers and engines, uses paired closed-loop evaluation and checks public-release reproducibility across hardware; quantized VLAs are the comparison subjects rather than a newly proposed action-model architecture. Official abstract: https://arxiv.org/abs/2611.05093",
+    "related_topics": []
+  },
+  "dimure diagnosis guided multilevel recovery for robotic task execution": {
+    "title": "DiMuRe: Diagnosis-Guided Multilevel Recovery for Robotic Task Execution",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "Memory & Autonomous Execution",
+      "Failure Detection & Replanning"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: DiMuRe uses phase-specific diagnosis, method preconditions, program reuse, bounded recovery skills, corrective code and local verification after disturbances; a VLA grasping skill is one recovery option, not the primary contribution or evidence of a new VLA architecture. Official abstract: https://arxiv.org/abs/2611.04226",
+    "related_topics": []
+  },
+  "mabel an open anthropomorphic mobile bimanual platform for teleoperation and learning": {
+    "title": "MABEL: An Open Anthropomorphic Mobile Bimanual Platform for Teleoperation and Learning",
+    "path": [
+      "Robot Hardware & Systems",
+      "Mechanisms & Actuation",
+      "Hands, Grippers & Arms"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: MABEL introduces an open mobile bimanual hardware platform combining articulated arms and hands, a torso, lift, neck and holonomic wheeled base; XR teleoperation and imitation learning demonstrate the integrated platform rather than establish a new XR-input algorithm. The selected hardware specialty covers its arm-and-hand mechanisms without claiming that the entire wheeled system is a legged robot. Official abstract: https://arxiv.org/abs/2611.04083",
+    "related_topics": ["Bimanual", "Teleoperation"]
+  },
+  "recontact reconstruct and retarget human contacts from video for contact rich humanoid manipulation": {
+    "title": "ReContact: Reconstruct and Retarget Human Contacts from Video for Contact-Rich Humanoid Manipulation",
+    "path": [
+      "Legged Locomotion & Whole-body Control",
+      "Whole-body Motion Transfer",
+      "Contact & Dynamic Retargeting"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: ReContact reconstructs and transfers human-object interactions through object-centric contact phases, pairs, anchors, pressing directions and sticking or sliding modes, then trains residual control over a frozen whole-body tracker; support transitions across the body, including thigh-supported regrasping, make this contact-aware whole-body retargeting rather than a hand-only retargeter or merely a generic loco-manipulation task. Official abstract: https://arxiv.org/abs/2611.02968",
+    "excluded_topics": ["Hand Retargeting"],
+    "related_topics": ["Retargeting", "Whole-body Retargeting", "Contact-rich"]
+  },
+  "robotryon synthesizing dexterous robot demonstrations from human videos via virtual try on": {
+    "title": "RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Human Demonstrations to Dexterous Skills",
+      "Video-to-robot Demonstrations"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: RoboTryOn synthesizes target-robot videos from human videos using reference-image virtual try-on and hand-skeleton conditioning, then infers action labels with a depth-aware inverse-dynamics model; human-pose retargeting appears as a prior approach whose visual or action gaps motivate the method, not a demonstrated human-joint-to-robot retargeting contribution. The human-video-to-robot-demonstration primary path is retained without misleading Retargeting associations. Official abstract: https://arxiv.org/abs/2611.05163",
+    "excluded_topics": ["Retargeting", "Hand Retargeting", "Whole-body Retargeting"],
+    "related_topics": ["Bimanual"]
+  },
+  "synthesizing dexterous robot demonstrations from human videos via virtual try on": {
+    "title": "Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Human Demonstrations to Dexterous Skills",
+      "Video-to-robot Demonstrations"
+    ],
+    "reason": "Title/abstract-only classification review of v3, not full-paper reading or experiment reproduction. RoboTryOn synthesizes target-robot video from human video and infers action labels with depth-aware inverse dynamics. Human-pose retargeting appears in the discussion of earlier methods. https://arxiv.org/abs/2611.05163v3",
+    "excluded_topics": ["Retargeting", "Hand Retargeting", "Whole-body Retargeting"],
+    "related_topics": ["Bimanual"]
+  },
+  "future representation distillation for imagination free world action models": {
+    "title": "Future Representation Distillation for Imagination-Free World Action Models",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "VLA & Generalist Robot Policies",
+      "Pending specialty review"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: DreamFree distills a frozen video-diffusion model's representation into a student visual encoder that uses only the current observation, then trains an action module over that predictive representation. The abstract establishes neither reinforcement learning nor a runtime future-video rollout or a latent state-transition dynamics model. The schema lacks an exact specialty for predictive-encoder-distillation control policies, so the generalist-policy parent retains Pending specialty review rather than implying a new language-conditioning contribution or a resolved VLA leaf. Official abstract: https://arxiv.org/abs/2611.04527",
+    "related_topics": ["World Models"]
+  },
+  "guild guided iterative data collection for imitation learning": {
+    "title": "GUILD: Guided Iterative Data Collection for Imitation Learning",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Datasets & Data Engineering",
+      "Data Curation & Quality"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: GUILD actively proposes data-collection conditions and uses predictive data attribution to estimate downstream policy benefit, feeding that signal into subsequent acquisition; the data-quality contribution guides which new trajectories to collect, rather than only filtering an existing dataset or introducing an interactive behavior-cloning correction loss. Official abstract: https://arxiv.org/abs/2611.05368",
+    "related_topics": ["Teleoperation"]
+  },
+  "contributing factors in human robot handshake compliance hand grip and synchrony": {
+    "title": "Contributing Factors in Human-Robot Handshake: Compliance, Hand Grip, and Synchrony",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Multifinger Grasping & Control",
+      "Pending specialty review"
+    ],
+    "reason": "Title/abstract-only classification review, not full-paper reading or experiment reproduction: the paper studies compliance, grip strength and synchrony in a 16-participant 2x2x2 human-robot handshake experiment; synchrony is an experimental factor, not sensor calibration. The current schema lacks a precise physical-HRI specialty, so this conservative hand-control parent retains Pending specialty review rather than asserting a new grasp-control algorithm or a fully resolved leaf. Publisher source: https://doi.org/10.1109/ICRA57385.2026.11696443",
+    "excluded_topics": ["Hand Retargeting", "Whole-body Retargeting"],
+    "related_topics": []
+  },
+  "grasp gradient guided sampling for contact rich physics based motion retargeting": {
+    "title": "GRASP: Gradient-Guided Sampling for Contact-Rich Physics-Based Motion Retargeting",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Dexterous Hand Retargeting",
+      "Physics & Dynamics Retargeting"
+    ],
+    "reason": "Title/abstract review. The optimizer refines robot controls under contact dynamics using simulated rollouts. Experiments cover bimanual OakInk2 hand demonstrations and whole-body humanoid motion. https://arxiv.org/abs/2611.05754",
+    "related_topics": ["Hand Retargeting", "Whole-body Retargeting", "Bimanual", "Contact-rich"]
+  },
+  "learning object centric motion priors from human for robotic dexterous manipulation": {
+    "title": "Learning Object-Centric Motion Priors from Human for Robotic Dexterous Manipulation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Human Demonstrations to Dexterous Skills",
+      "Demonstration Refinement & Skill Transfer"
+    ],
+    "reason": "Title/abstract review. A predictor trained on human hand-object interactions supplies object-centric future-state rewards for robot skill learning across hands. https://arxiv.org/abs/2611.05979",
+    "related_topics": ["Contact-rich", "Dexterous Manipulation"]
+  },
+  "hoc2r hand object contact trajectories for human to robot motion transfer": {
+    "title": "HOC2R: Hand-Object Contact Trajectories for Human-to-Robot Motion Transfer",
+    "path": [
+      "Perception, Representation & State Estimation",
+      "Human & Hand-object Perception",
+      "Contact & Motion Recovery"
+    ],
+    "reason": "Title/abstract review. The method counts and localizes contacts in human videos. Its fixed-two mode supplies contact trajectories for a two-finger gripper. https://arxiv.org/abs/2611.08920",
+    "related_topics": ["Contact-rich"]
+  },
+  "tactilelab sim to real dexterous robot manipulation with efficient shear sensitive tactile simulation": {
+    "title": "TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Simulation & Digital Twins",
+      "Physics Engines & Parallel Simulation"
+    ],
+    "reason": "Title/abstract review. The IsaacLab simulator estimates dense tangential motion and contact depth from rigid-body contact. It translates real tactile images into this representation for policy deployment. https://arxiv.org/abs/2611.07881",
+    "related_topics": ["Bimanual", "Contact-rich", "Dexterous Manipulation"]
+  },
+  "revosim scalable multimodal tactile simulation for dexterous manipulation": {
+    "title": "RevoSim: Scalable Multimodal Tactile Simulation for Dexterous Manipulation",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Simulation & Digital Twins",
+      "Physics Engines & Parallel Simulation"
+    ],
+    "reason": "Title/abstract review. A parallel tactile simulator for the Revo3 hand generates pressure, depth, RGB and marker displacement. The authors train grasping and in-hand policies in simulation. https://arxiv.org/abs/2611.08939",
+    "related_topics": ["Contact-rich", "Dexterous Manipulation"]
+  },
+  "rfs reinforcement learning with residual flow steering for dexterous manipulation": {
+    "title": "RFS: Reinforcement Learning with Residual Flow Steering for Dexterous Manipulation",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "Reinforcement Learning",
+      "Online Reinforcement Learning"
+    ],
+    "reason": "Title/abstract review. Reinforcement learning jointly steers a pretrained flow policy through a residual action and the distribution of its latent noise. The study evaluates dexterous manipulation policies. https://arxiv.org/abs/2602.01789",
+    "related_topics": ["Dexterous Manipulation"]
+  },
+  "adadextrack dynamic modulation for adaptive and generalizable dexterous manipulation tracking": {
+    "title": "AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Human Demonstrations to Dexterous Skills",
+      "Demonstration Refinement & Skill Transfer"
+    ],
+    "reason": "Title/abstract review. A learned feedback modulator adapts the hand-object reference, object latent and positional target of a distilled generalist tracker for language-conditioned manipulation. https://openaccess.thecvf.com/content/CVPR2026/html/Adalibieke_AdaDexTrack_Dynamic_Modulation_for_Adaptive_and_Generalizable_Dexterous_Manipulation_Tracking_CVPR_2026_paper.html",
+    "related_topics": ["Contact-rich", "Dexterous Manipulation"]
+  },
+  "cotograsp contact topology conditioned dexterous grasp synthesis via canonical workspace learning": {
+    "title": "CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical Workspace Learning",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Multifinger Grasping & Control",
+      "Multifinger Coordination & Grasp Generation"
+    ],
+    "reason": "Title/abstract review. A gripper-centric canonical workspace conditions grasp synthesis on a requested contact topology and supports evaluation on unseen objects. https://cea-list.github.io/cotograspweb/",
+    "related_topics": ["Contact-rich"]
+  },
+  "from language to locomotion retargeting free humanoid control via motion latent guidance": {
+    "title": "From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance",
+    "path": [
+      "Legged Locomotion & Whole-body Control",
+      "Whole-body Motion Transfer",
+      "Motion Imitation & Generation"
+    ],
+    "reason": "Title/abstract review. RoboGhost generates executable humanoid actions conditioned on language-grounded motion latents. The authors explicitly bypass retargeting. https://proceedings.iclr.cc/paper_files/paper/2026/hash/d1ef0be5d288aba023664aa96a510486-Abstract-Conference.html",
+    "excluded_topics": ["Retargeting", "Whole-body Retargeting"],
+    "related_topics": []
+  },
+  "d rex differentiable real to sim to real engine for learning dexterous grasping": {
+    "title": "D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Sim-to-real Transfer",
+      "System Identification & Sim Calibration"
+    ],
+    "reason": "Title/abstract review. The differentiable engine identifies object mass from visual observations and control signals. Calibrated digital twins support learning force-aware grasping policies from demonstrations. https://proceedings.iclr.cc/paper_files/paper/2026/hash/ca09b375e8e2b2c789698c079a9fc51c-Abstract-Conference.html",
+    "related_topics": ["Contact-rich"]
+  },
+  "which physical tactile cues matter for contact rich imitation learning a controlled real robot study": {
+    "title": "Which Physical Tactile Cues Matter for Contact-Rich Imitation Learning? A Controlled Real-Robot Study",
+    "path": [
+      "Perception, Representation & State Estimation",
+      "Tactile & Multimodal Perception",
+      "Tactile Representation"
+    ],
+    "reason": "Title/abstract review. With the same demonstrations and policy backbone, the experiments compare tactile RGB, normal/depth maps and marker flow to isolate their contributions during real-robot contact. https://arxiv.org/abs/2611.06673",
+    "related_topics": ["Contact-rich"]
+  },
+  "lumitac compact high rate six axis optical tactile sensing for human robot interaction": {
+    "title": "LumiTac: Compact, High-Rate Six-Axis Optical Tactile Sensing for Human-Robot Interaction",
+    "path": [
+      "Robot Hardware & Systems",
+      "Sensors & Human Interfaces",
+      "Tactile & Force Sensors"
+    ],
+    "reason": "Title/abstract review. The hardware uses light emitters and photoreceivers in a compact silicone-coupled sensor. Optical channels support estimation of three force and three moment components. https://arxiv.org/abs/2611.05936",
+    "related_topics": []
+  },
+  "graspbench execution aware cross robot evaluation of 6 dof grasp generation in mujoco": {
+    "title": "GraspBench: Execution-Aware Cross-Robot Evaluation of 6-DoF Grasp Generation in MuJoCo",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Benchmarks & Experimental Methods",
+      "Task & Capability Benchmarks"
+    ],
+    "reason": "Title/abstract review. A controlled benchmark compares configured grasp-generation pipelines across four embodiments, including robot-specific planning and grasp execution in MuJoCo. https://arxiv.org/abs/2611.07651",
+    "related_topics": []
+  },
+  "mechanical interaction sensing for robotic kiwifruit handling with an optoelectronic soft suction cup": {
+    "title": "Mechanical Interaction Sensing for Robotic Kiwifruit Handling with an Optoelectronic Soft Suction Cup",
+    "path": [
+      "Perception, Representation & State Estimation",
+      "Tactile & Multimodal Perception",
+      "Force, Contact & Slip Estimation"
+    ],
+    "reason": "Title/abstract review. An optoelectronic suction cup estimates interaction force during known contact intervals with fruit. Held-out fruit and collection-day splits evaluate the estimate. https://arxiv.org/abs/2611.09468",
+    "related_topics": []
+  },
+  "latent rl priors for data efficient dexterous manipulation": {
+    "title": "Latent RL Priors for Data-Efficient Dexterous Manipulation",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "Reinforcement Learning",
+      "Combining Imitation & Reinforcement"
+    ],
+    "reason": "Title/abstract review. A flow decoder distills privileged reinforcement-learning rollouts. A visual interface learns from action demonstrations while the decoder stays fixed for simulated manipulation. https://arxiv.org/abs/2611.08458",
+    "related_topics": ["Dexterous Manipulation", "Bimanual"]
+  },
+  "auditing grasp feasibility predictors with planner verified counterfactuals": {
+    "title": "Auditing Grasp Feasibility Predictors with Planner-Verified Counterfactuals",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Benchmarks & Experimental Methods",
+      "Generalization & Robustness Evaluation"
+    ],
+    "reason": "Title/abstract review. A controlled obstacle insertion tests whether grasp-feasibility predictors respond to collision geometry. The planner supplies the new label for each paired example. https://arxiv.org/abs/2611.09130",
+    "related_topics": []
+  },
+  "dexseed expanding human hand object interactions into robot demonstrations for dexterous policy learning": {
+    "title": "DexSeed: Expanding Human Hand-Object Interactions into Robot Demonstrations for Dexterous Policy Learning",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Human Demonstrations to Dexterous Skills",
+      "Demonstration Refinement & Skill Transfer"
+    ],
+    "reason": "Title/abstract review. DexSeed expands human hand-object sequences into executable arm and finger demonstrations for VLA training. InteractionMesh-based retargeting preserves local hand-object relationships across objects and locations, while an RL finger controller generates successful simulated rollouts. https://arxiv.org/abs/2611.14092",
+    "related_topics": ["Hand Retargeting", "Contact-rich", "Dexterous Manipulation"],
+    "excluded_topics": ["Whole-body Retargeting"]
+  },
+  "from a single rgb image to robot execution metric scene alignment and contact guided retargeting": {
+    "title": "From a Single RGB Image to Robot Execution: Metric Scene Alignment and Contact-Guided Retargeting",
+    "path": [
+      "Legged Locomotion & Whole-body Control",
+      "Whole-body Motion Transfer",
+      "Contact & Dynamic Retargeting"
+    ],
+    "reason": "Title/abstract review. A single-image scene reconstruction supplies a human interaction reference. Metric alignment precedes humanoid retargeting, and Contact Guided Residual Retargeting then corrects robot support errors before pretrained humanoid trackers execute the reference. https://arxiv.org/abs/2611.14981",
+    "related_topics": ["Whole-body Retargeting", "Contact-rich"],
+    "excluded_topics": ["Hand Retargeting"]
+  },
+  "gap generalized adaptation prior for dexterous piano playing": {
+    "title": "GAP: Generalized Adaptation Prior for Dexterous Piano Playing",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "Generalization & Adaptation",
+      "Few-shot & Test-time Adaptation"
+    ],
+    "reason": "Title/abstract review. Simulation pretraining learns gradient guidance from paired executions. On hardware, feedback between executions adjusts the next action sequence, providing data-efficient adaptation for dexterous piano playing. https://arxiv.org/abs/2611.12111",
+    "related_topics": ["Dexterous Manipulation"],
+    "excluded_topics": ["Retargeting", "Hand Retargeting", "Whole-body Retargeting"]
+  },
+  "dexremo a force sensing hand platform and task suite for contact rich removal manipulation": {
+    "title": "DexRemo: A Force-Sensing Hand Platform and Task Suite for Contact-Rich Removal Manipulation",
+    "path": [
+      "Robot Hardware & Systems",
+      "Mechanisms & Actuation",
+      "Hands, Grippers & Arms"
+    ],
+    "reason": "Title/abstract review. DexRemo introduces a three-finger hand with modular fingertips, high-force actuation and three-axis fingertip force sensing, paired with a removal-manipulation task suite. Demonstration-trained policies fuse forces in a shared wrist frame with vision and proprioception. https://arxiv.org/abs/2611.15981",
+    "related_topics": ["Dexterous Manipulation", "Contact-rich"],
+    "excluded_topics": ["Retargeting", "Hand Retargeting", "Whole-body Retargeting"]
+  },
+  "embodied first exam": {
+    "title": "Embodied First Exam",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Benchmarks & Experimental Methods",
+      "Task & Capability Benchmarks"
+    ],
+    "reason": "Title/abstract review. The contribution is an evaluation framework for coding agents controlling diverse robots through direct actions, generated control code or learned policies. Sensor-only, realtime and privileged settings expose different control and observation constraints. https://arxiv.org/abs/2611.12177",
+    "related_topics": []
+  },
+  "guard anomaly informed q steering for generative robot policies in dexterous manipulation": {
+    "title": "GUARD: Anomaly-Informed Q-Steering for Generative Robot Policies in Dexterous Manipulation",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "Generative Action Policies",
+      "Pending specialty review"
+    ],
+    "reason": "Title/abstract review. A learned Q-function combines sparse task reward and dense anomaly scores to steer the denoising of pretrained diffusion and flow policies. This is a policy-guidance contribution. The current schema has separate diffusion and flow specialties, leaving the shared guidance contribution pending at their common parent. https://arxiv.org/abs/2611.10343",
+    "related_topics": ["Dexterous Manipulation"]
+  },
+  "dexforesight grounding dexterous policies with implicit spatial foresight": {
+    "title": "DexForesight: Grounding Dexterous Policies with Implicit Spatial Foresight",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "VLA & Generalist Robot Policies",
+      "Vision-Language-Action Modeling"
+    ],
+    "reason": "Title/abstract review. An offline action-conditioned spatial world model predicts hand-point motion and visual changes. Frozen predictive queries supervise a dexterous policy that takes RGB, language and robot state at deployment, transferring predictive representations into the action policy. https://arxiv.org/abs/2611.11166",
+    "related_topics": ["World Models", "Dexterous Manipulation"]
+  },
+  "bat wam bridging action and touch in world action models for dexterous hands": {
+    "title": "BAT-WAM: Bridging Action and Touch in World-Action Models for Dexterous Hands",
+    "path": [
+      "Perception, Representation & State Estimation",
+      "Tactile & Multimodal Perception",
+      "Visuotactile & Proprioceptive Fusion"
+    ],
+    "reason": "Title/abstract review. Separate tactile and action codebooks are connected through an RGB-conditioned latent bridge. The contribution learns joint representations for missing-modality recovery and future tactile prediction conditioned on target-time RGB and historical actions, with downstream WAM manipulation experiments. https://arxiv.org/abs/2611.10967",
+    "related_topics": ["World Models", "Contact-rich", "Dexterous Manipulation"]
+  },
+  "voke visual object kinematics estimator for dexterous in hand manipulation": {
+    "title": "VOKE: Visual Object Kinematics Estimator for Dexterous In-Hand Manipulation",
+    "path": [
+      "Perception, Representation & State Estimation",
+      "Object & Interaction Perception",
+      "6D Pose & Tracking"
+    ],
+    "reason": "Title/abstract review. A temporal perception module estimates object velocity and acceleration, then refines pose through a second-order motion prior. DexYCB and OakInk evaluate the perception contribution, and a downstream manipulation policy consumes the estimated kinematic state. https://arxiv.org/abs/2611.16423",
+    "related_topics": ["Dexterous Manipulation", "Contact-rich"]
+  },
+  "library of hands fix the hands not the world model": {
+    "title": "Library of Hands: Fix the Hands, Not the World Model",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "Generalization & Adaptation",
+      "Few-shot & Test-time Adaptation"
+    ],
+    "reason": "Title/abstract review. The method identifies and stores command-to-applied-action mappings from image transitions under a frozen world model. Recognition of returning configurations enables adaptation to camera or controller changes. The title uses hand as a name for this action mapping. https://arxiv.org/abs/2611.12678",
+    "related_topics": ["World Models"],
+    "excluded_topics": ["Hand Retargeting", "Whole-body Retargeting", "Dexterous Manipulation"]
+  },
+  "tactile sensors are an effective substitute for wrist cameras in contact rich or occluded manipulation": {
+    "title": "Tactile Sensors Are an Effective Substitute for Wrist Cameras in Contact-Rich or Occluded Manipulation",
+    "path": [
+      "Perception, Representation & State Estimation",
+      "Tactile & Multimodal Perception",
+      "Visuotactile & Proprioceptive Fusion"
+    ],
+    "reason": "Title/abstract review. Two tactile arrays supply contact feedback to a visuotactile ACT policy. Controlled wrist-camera and tactile-availability ablations compare modality contributions while holding demonstrations, architecture and optimization settings fixed. https://arxiv.org/abs/2611.10490",
+    "related_topics": ["Contact-rich"]
+  },
+  "touchtwin scaling human touch data via real to sim to real": {
+    "title": "TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Synthetic & Augmented Data",
+      "Simulated Trajectory Generation"
+    ],
+    "reason": "Title/abstract and selected full-text review. Measured TouchScale glove signals ground per-subject human-hand replays in MuJoCo. Perturbed demonstrations carry simulated contact and force labels and condition generated video. The contribution is a touch-grounded data-generation pipeline, not demonstrated cross-robot hand retargeting. https://arxiv.org/abs/2611.17619",
+    "related_topics": [
+      "Dexterous Manipulation",
+      "Contact-rich"
+    ],
+    "excluded_topics": [
+      "Retargeting",
+      "Hand Retargeting",
+      "Whole-body Retargeting"
+    ]
+  },
+  "iora irregular object immobilization under restricted actuation": {
+    "title": "IORA: Irregular Object Immobilization under Restricted Actuation",
+    "path": [
+      "Dexterous Hands, Retargeting & Teleoperation",
+      "Multifinger Grasping & Control",
+      "Multifinger Coordination & Grasp Generation"
+    ],
+    "reason": "Title/abstract review of v2. Support-aware grasp synthesis matches local hand and object surface graphs, refines wrist pose and motor state, and validates physically executable grasps for low-DoF coupled hands. Restricted actuation is a problem constraint, not an actuator-design contribution. https://arxiv.org/abs/2610.30969",
+    "related_topics": [
+      "Dexterous Manipulation",
+      "Contact-rich"
+    ],
+    "excluded_topics": [
+      "Retargeting",
+      "Hand Retargeting",
+      "Whole-body Retargeting"
+    ]
+  },
+  "objectives as policies vision language model cost programs for contact rich manipulation": {
+    "title": "Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "Model-based Decision Making",
+      "Model Predictive Control"
+    ],
+    "reason": "Title/abstract review. A pretrained VLM writes editable stage-wise objective programs for a shared sampling-based MPC. Programs are revised using simulated rollouts in a real-to-sim digital twin before real-world execution. The central contribution connects language reasoning to contact-aware control through objectives. https://arxiv.org/abs/2611.18298",
+    "related_topics": [
+      "Contact-rich"
+    ]
+  },
+  "learning latent goal costs for visual world model planning with an expanding curriculum": {
+    "title": "Learning Latent Goal Costs for Visual World-Model Planning with an Expanding Curriculum",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "Model-based Decision Making",
+      "World-model Planning"
+    ],
+    "reason": "Title/abstract review. A residual adapter on frozen I-JEPA embeddings learns a goal cost from ordered planner trajectories and progressively expanded initial states. DotWall and PointMaze evaluate latent-cost improvements under frozen encoders and world models. https://arxiv.org/abs/2611.17529",
+    "related_topics": [
+      "World Models"
+    ],
+    "excluded_topics": [
+      "Retargeting",
+      "Hand Retargeting",
+      "Whole-body Retargeting",
+      "Dexterous Manipulation"
+    ]
+  },
+  "beyond prediction gain lasr as a metric for action grounded latents in world models": {
+    "title": "Beyond Prediction Gain: LASR as a Metric for Action-Grounded Latents in World Models",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Benchmarks & Experimental Methods",
+      "Reproducibility & Statistical Comparison"
+    ],
+    "reason": "Title/abstract review. LASR evaluates whether a latent supports action-related targets beyond state and other predictive shortcuts, with held-out episodes, matched predictors, positive and negative controls, and paired uncertainty comparisons. A lightweight residual adapter is a downstream demonstration of the evaluation protocol. https://arxiv.org/abs/2611.17775",
+    "related_topics": [
+      "World Models"
+    ],
+    "excluded_topics": [
+      "Retargeting",
+      "Hand Retargeting",
+      "Whole-body Retargeting",
+      "Dexterous Manipulation"
+    ]
+  },
+  "agentic teacher an agentic data engine for failure driven vla post training": {
+    "title": "Agentic-Teacher: An Agentic Data Engine for Failure-Driven VLA Post-Training",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Synthetic & Augmented Data",
+      "Simulated Trajectory Generation"
+    ],
+    "reason": "Title/abstract review. Failure rollouts guide coding-agent construction of closed-loop policies that generate successful demonstration continuations. Correlated action noise, idle-frame handling and frozen-model loss filtering curate demonstrations for VLA post-training. The primary contribution is a demonstration-generation and curation engine. https://arxiv.org/abs/2611.17394",
+    "related_topics": []
+  },
+  "esi an embodied self improvement flywheel for llm vla agents": {
+    "title": "ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "VLA & Generalist Robot Policies",
+      "Hierarchical & Mixture Policies"
+    ],
+    "reason": "Title/abstract review. ESI jointly refines LLM prompts, a shared skill interface and VLA parameters through environmental interaction. Semantic subtask supervision, effective corrections and policy continuations train coordination and handoff in a modular LLM-VLA agent. https://arxiv.org/abs/2611.18176",
+    "related_topics": []
+  },
+  "training reasoning models in simulation to natively use real robots": {
+    "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "Reinforcement Learning",
+      "Online Reinforcement Learning"
+    ],
+    "reason": "Title/abstract review. PEAR trains an open-weight reasoning model with robot-use reinforcement learning in simulation, without demonstrations. The policy reasons from observations and produces the next end-effector pose; held-out instructions, another robot and real-world trials study transfer. https://arxiv.org/abs/2611.18562",
+    "related_topics": []
+  },
+  "vision language action models a life cycle survey of design training and deployment": {
+    "title": "Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment",
+    "path": [
+      "Policy Learning & Embodied Foundation Models",
+      "VLA & Generalist Robot Policies",
+      "Vision-Language-Action Modeling"
+    ],
+    "reason": "Title/abstract review. This survey organizes VLA model design, data, post-training and real-time deployment along seven axes, contrasting action-only and world-action designs. Its contribution is synthesis of existing systems, not a newly validated policy. https://arxiv.org/abs/2611.18372",
+    "related_topics": []
+  },
+  "on the utility of pre trained visual representations for policy learning of contact rich insertion tasks": {
+    "title": "On the Utility of Pre-Trained Visual Representations for Policy Learning of Contact-Rich Insertion Tasks",
+    "path": [
+      "Data, Simulation & Evaluation",
+      "Benchmarks & Experimental Methods",
+      "Generalization & Robustness Evaluation"
+    ],
+    "reason": "Title/abstract review. Controlled comparisons of pretrained visual and explicit contact-centric representations vary occlusion and physical tolerance on two closely related insertion tasks, then examine real-world transfer. The contribution is evidence about representation and task-dependent robustness. https://arxiv.org/abs/2611.17631",
+    "related_topics": [
+      "Contact-rich"
+    ],
+    "excluded_topics": [
+      "Retargeting",
+      "Hand Retargeting",
+      "Whole-body Retargeting",
+      "Dexterous Manipulation"
+    ]
+  },
+  "modeling the frictional contact of continuum robots with environments through linear complementarity problem": {
+    "title": "Modeling the Frictional Contact of Continuum Robots with Environments through Linear Complementarity Problem",
+    "path": [
+      "World Models, Planning & Embodied Reasoning",
+      "World & Dynamics Modeling",
+      "Object & Contact Dynamics"
+    ],
+    "reason": "Title/abstract review. A complementarity-constrained friction model predicts environmental static/sliding friction, hysteresis and resulting continuum-robot deformation, with physical validation on a tendon-driven continuum robot. The contribution is a contact-dynamics model. https://arxiv.org/abs/2611.18546",
+    "related_topics": [
+      "Contact-rich"
+    ],
+    "excluded_topics": [
+      "Retargeting",
+      "Hand Retargeting",
+      "Whole-body Retargeting",
+      "Dexterous Manipulation"
+    ]
+  }
+}

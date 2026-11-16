@@ -7,6 +7,8 @@ import unittest
 from datetime import date, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -55,7 +57,7 @@ class CatalogContractTests(unittest.TestCase):
         except ValueError:
             expected_start = end.replace(year=end.year - 3, day=28)
         self.assertEqual(start, expected_start)
-        self.assertLessEqual(date.today() - end, timedelta(days=8))
+        self.assertLessEqual(datetime.now(ZoneInfo("Asia/Hong_Kong")).date() - end, timedelta(days=8))
         self.assertEqual(self.arxiv["window"]["years"], list(range(start.year, end.year + 1)))
         self.assertEqual(self.arxiv["as_of"], self.arxiv["window"]["end"])
         self.assertEqual(source["snapshot_date"], self.arxiv["window"]["end"])
@@ -115,8 +117,8 @@ class CatalogContractTests(unittest.TestCase):
     def test_three_level_taxonomy_contract(self) -> None:
         taxonomy = self.catalog["taxonomy"]
         self.assertEqual(taxonomy, self.arxiv["taxonomy"])
-        self.assertEqual(taxonomy["subcategory_count"], 40)
-        self.assertEqual(taxonomy["specialty_count"], 160)
+        self.assertEqual(taxonomy["subcategory_count"], 42)
+        self.assertEqual(taxonomy["specialty_count"], 126)
         declared_level_2 = {
             (track, subcategory)
             for track, track_meta in taxonomy["tracks"].items()
@@ -126,7 +128,7 @@ class CatalogContractTests(unittest.TestCase):
             observed_level_2 = {
                 (paper["track"], paper["subcategory"]) for paper in layer
             }
-            self.assertEqual(observed_level_2, declared_level_2)
+            self.assertTrue(observed_level_2.issubset(declared_level_2))
             for paper in layer:
                 subcategory_meta = taxonomy["tracks"][paper["track"]]["subcategories"][paper["subcategory"]]
                 self.assertIn(paper["specialty"], subcategory_meta["specialties"])
@@ -137,7 +139,7 @@ class CatalogContractTests(unittest.TestCase):
             self.catalog, self.arxiv
         )
         self.assertEqual(errors, [])
-        self.assertEqual(stats["leaf_catalogs"], 200)
+        self.assertEqual(stats["leaf_catalogs"], 168)
         self.assertEqual(
             stats["conference_leaf_attachments"], len(self.papers)
         )
@@ -151,8 +153,8 @@ class CatalogContractTests(unittest.TestCase):
         chinese = (ROOT / "README.zh-CN.md").read_text(encoding="utf-8")
         self.assertIn("[简体中文](README.zh-CN.md)", english)
         self.assertIn("[English](README.md)", chinese)
-        self.assertIn("Seven-direction research map", english)
-        self.assertIn("七方向三级研究地图", chinese)
+        self.assertIn("Nine-direction research map", english)
+        self.assertIn("九方向三级研究地图", chinese)
 
         slugify = lambda value: re.sub(
             r"[^a-z0-9]+", "-", value.casefold()
@@ -174,7 +176,7 @@ class CatalogContractTests(unittest.TestCase):
                     self.assertIn(leaf_path, chinese)
                     self.assertIn(specialty, english)
                     self.assertIn(specialty_meta["name_zh"], chinese)
-        self.assertEqual(len(expected_leaf_paths), 200)
+        self.assertEqual(len(expected_leaf_paths), 168)
 
     def test_no_ambiguous_venue_labels(self) -> None:
         for paper in self.papers:

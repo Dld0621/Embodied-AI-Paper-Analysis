@@ -1,6 +1,10 @@
 # Embodied AI Conference Census · 具身智能顶会论文普查
 
-> 4,535 conference papers · 26,785 recent arXiv papers · 7 directions · 40 subfields · 160 specialties · conference snapshot 2026-11-09 · arXiv snapshot 2026-11-09
+<!-- catalog-freshness:start -->
+> 文档同步 / Docs synced: **2026-11-16** · 顶会快照 / Conference: **2026-11-16** · arXiv 快照: **2026-11-16** · Asia/Hong_Kong
+<!-- catalog-freshness:end -->
+
+> 4,535 conference papers · 27,016 recent arXiv papers · 9 directions · 42 subfields · 126 specialties · conference snapshot 2026-11-16 · arXiv snapshot 2026-11-16
 
 这是一份按明确规则生成的系统性会议普查：固定顶会、年份、检索词、标题分类规则和排除项均可审计。它覆盖规则边界内的全部命中记录，但不把主观的“具身智能”包装成不存在争议的数学全集。
 
@@ -8,9 +12,9 @@ This is a systematic conference census under explicit venue, year, query, title-
 
 ## Three-level taxonomy · 三级研究分类
 
-Every record is organized as **research direction → subfield → specialty**. Open the [complete bilingual taxonomy and 200 leaf paper catalogs](taxonomy/README.md), or use any subfield link to open the exact interactive view.
+Every record is organized as **research direction → subfield → specialty**. Open the [complete bilingual taxonomy and 168 leaf paper catalogs](taxonomy/README.md), or use any subfield link to open the exact interactive view.
 
-每条记录均按**一级研究方向 → 二级子领域 → 三级专题**组织。可查看[完整双语分类图谱与 200 个最细论文目录](taxonomy/README.md)，并从任一子领域直接进入对应交互视图。
+每条记录均按**一级研究方向 → 二级子领域 → 三级专题**组织。可查看[完整双语分类图谱与 168 个最细论文目录](taxonomy/README.md)，并从任一子领域直接进入对应交互视图。
 
 ## Coverage
 
@@ -24,24 +28,26 @@ Every record is organized as **research direction → subfield → specialty**. 
 
 ## Direction coverage · 方向覆盖
 
-| Research direction | Conference | arXiv 2023-11-09–2026-11-09 | Years | Direction catalogs |
+| Research direction | Conference | arXiv 2023-11-16–2026-11-16 | Years | Direction catalogs |
 |---|---:|---:|---|---|
-| Foundation Models & VLA · 基础模型与 VLA | 434 | 4,445 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2023-11-09–2026-11-09 | [Conference](tracks/foundation-models-vla.md) · [arXiv](arxiv/foundation-models-vla/README.md) |
-| Manipulation & Imitation · 操作与模仿学习 | 1,153 | 4,814 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2023-11-09–2026-11-09 | [Conference](tracks/manipulation-imitation.md) · [arXiv](arxiv/manipulation-imitation/README.md) |
-| Dexterity & Teleoperation · 灵巧操作与遥操作 | 416 | 1,232 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2023-11-09–2026-11-09 | [Conference](tracks/dexterity-teleoperation.md) · [arXiv](arxiv/dexterity-teleoperation/README.md) |
-| Navigation & Embodied Agents · 导航与具身智能体 | 948 | 7,088 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2023-11-09–2026-11-09 | [Conference](tracks/navigation-embodied-agents.md) · [arXiv](arxiv/navigation-embodied-agents/README.md) |
-| Humanoids & Locomotion · 人形机器人与运动控制 | 793 | 2,989 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2023-11-09–2026-11-09 | [Conference](tracks/humanoids-locomotion.md) · [arXiv](arxiv/humanoids-locomotion/README.md) |
-| Perception & World Models · 感知与世界模型 | 390 | 2,622 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2023-11-09–2026-11-09 | [Conference](tracks/perception-world-models.md) · [arXiv](arxiv/perception-world-models/README.md) |
-| Simulation, Data & Evaluation · 仿真、数据与评测 | 401 | 3,595 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2023-11-09–2026-11-09 | [Conference](tracks/simulation-data-evaluation.md) · [arXiv](arxiv/simulation-data-evaluation/README.md) |
+| Policy Learning & Embodied Foundation Models · 策略学习与具身基础模型 | 291 | 4,341 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2023-11-16–2026-11-16 | [Conference](tracks/policy-learning-embodied-foundation-models.md) · [arXiv](arxiv/policy-learning-embodied-foundation-models/README.md) |
+| Arm & General Object Manipulation · 机械臂与通用物体操作 | 1,207 | 3,331 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2023-11-16–2026-11-16 | [Conference](tracks/arm-general-object-manipulation.md) · [arXiv](arxiv/arm-general-object-manipulation/README.md) |
+| Dexterous Hands, Retargeting & Teleoperation · 灵巧手、重定向与遥操作 | 276 | 1,097 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2023-11-16–2026-11-16 | [Conference](tracks/dexterous-hands-retargeting-teleoperation.md) · [arXiv](arxiv/dexterous-hands-retargeting-teleoperation/README.md) |
+| Navigation, Localization & Multi-robot Coordination · 导航、定位与多机器人协作 | 910 | 6,561 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2023-11-16–2026-11-16 | [Conference](tracks/navigation-localization-multi-robot-coordination.md) · [arXiv](arxiv/navigation-localization-multi-robot-coordination/README.md) |
+| Legged Locomotion & Whole-body Control · 足式运动与全身控制 | 715 | 2,441 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2023-11-16–2026-11-16 | [Conference](tracks/legged-locomotion-whole-body-control.md) · [arXiv](arxiv/legged-locomotion-whole-body-control/README.md) |
+| Perception, Representation & State Estimation · 感知、表征与状态估计 | 369 | 3,299 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2023-11-16–2026-11-16 | [Conference](tracks/perception-representation-state-estimation.md) · [arXiv](arxiv/perception-representation-state-estimation/README.md) |
+| World Models, Planning & Embodied Reasoning · 世界模型、规划与具身推理 | 170 | 1,849 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2023-11-16–2026-11-16 | [Conference](tracks/world-models-planning-embodied-reasoning.md) · [arXiv](arxiv/world-models-planning-embodied-reasoning/README.md) |
+| Data, Simulation & Evaluation · 数据、仿真与评测 | 379 | 2,953 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2023-11-16–2026-11-16 | [Conference](tracks/data-simulation-evaluation.md) · [arXiv](arxiv/data-simulation-evaluation/README.md) |
+| Robot Hardware & Systems · 机器人硬件与系统 | 218 | 1,144 | 2022 · 2023 · 2024 · 2025 · 2026 · arXiv 2023-11-16–2026-11-16 | [Conference](tracks/robot-hardware-systems.md) · [arXiv](arxiv/robot-hardware-systems/README.md) |
 
 ## Provenance · 来源层级
 
 | Source tier | Records | Meaning |
 |---|---:|---|
-| Official | 74 | Manually verified proceedings or conference page |
-| Publisher | 4,373 | DOI or publisher record |
-| Bibliographic | 88 | DBLP or Semantic Scholar index when no publisher URL is exposed |
-| arXiv | 26,785 | Official arXiv abstract and PDF pages; preprints are not presented as conference acceptances |
+| Official | 75 | Manually verified proceedings or conference page |
+| Publisher | 3,720 | DOI or publisher record |
+| Bibliographic | 740 | DBLP or Semantic Scholar index when no publisher URL is exposed |
+| arXiv | 27,016 | Official arXiv abstract and PDF pages; preprints are not presented as conference acceptances |
 
 ## Discovery ledger · 检索账本
 
@@ -56,17 +62,17 @@ Every record is organized as **research direction → subfield → specialty**. 
 | NeurIPS | 455 | 97 | 99 |
 | CVPR | 492 | 150 | 152 |
 | ICCV | 174 | 52 | 52 |
-| ECCV | 200 | 67 | 67 |
+| ECCV | 201 | 67 | 67 |
 
 ## Census boundary · 普查边界
 
-- Window: 2022–2026, inclusive; the final year is an in-progress snapshot frozen at 2026-11-09.
+- Window: 2022–2026, inclusive; the final year is an in-progress snapshot frozen at 2026-11-16.
 - Venues: RSS, CoRL, ICRA, IROS, ICLR, ICML, NeurIPS, CVPR, ICCV, and ECCV.
 - Discovery: Semantic Scholar bulk venue search with the query `robot`.
 - Admission: deterministic title taxonomy in `scripts/sync_conference_census.py`; medical and rehabilitation terms are excluded.
-- Deduplication: normalized title; the 74 manually verified seed records override discovered duplicates.
+- Deduplication: normalized title; the 78 manually verified seed records override discovered duplicates.
 - Every entry has an online paper link and a provenance link. Provenance tiers are shown explicitly instead of calling every bibliographic index an official acceptance page.
-- Recent arXiv layer: all 34,267 cs.RO candidates submitted from 2023-11-09 through 2026-11-09 were evaluated; 26,785 were admitted by the same seven-direction taxonomy.
+- Recent arXiv layer: all 34,518 cs.RO candidates submitted from 2023-11-16 through 2026-11-16 were evaluated; 27,016 were admitted by the same nine-direction taxonomy.
 - arXiv papers remain a separate preprint layer. A title appearing in both layers is not evidence of conference acceptance unless the conference record supplies that provenance.
 
 ---

@@ -1,0 +1,1757 @@
+{
+  "version": 3,
+  "tracks": [
+    {
+      "name": "Policy Learning & Embodied Foundation Models",
+      "name_zh": "策略学习与具身基础模型",
+      "question": "What is the primary contribution to policy learning & embodied foundation models?",
+      "question_zh": "论文主要如何推进策略学习与具身基础模型？",
+      "pipeline": [
+        "Observations",
+        "Learning",
+        "Policy",
+        "Actions"
+      ],
+      "pipeline_zh": [
+        "观测",
+        "策略学习",
+        "动作策略",
+        "机器人执行"
+      ],
+      "subcategories": [
+        {
+          "name": "Imitation Learning",
+          "name_zh": "模仿学习",
+          "specialties": [
+            {
+              "name": "Behavior Cloning & Sequence Modeling",
+              "name_zh": "行为克隆与序列建模",
+              "terms": [
+                "behavior cloning",
+                "behaviour cloning",
+                "sequence modeling",
+                "sequence modelling",
+                "action chunk"
+              ]
+            },
+            {
+              "name": "Interactive Imitation & Correction",
+              "name_zh": "交互式模仿与纠错",
+              "terms": [
+                "dagger",
+                "interactive imitation",
+                "dataset aggregation",
+                "corrective demonstration",
+                "intervention learning"
+              ]
+            },
+            {
+              "name": "Demonstration Segmentation & Skill Discovery",
+              "name_zh": "示教分段与技能发现",
+              "terms": [
+                "skill discovery",
+                "demonstration segmentation",
+                "skill segmentation",
+                "unsupervised skill"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Reinforcement Learning",
+          "name_zh": "强化学习",
+          "specialties": [
+            {
+              "name": "Online Reinforcement Learning",
+              "name_zh": "在线强化学习",
+              "terms": [
+                "reinforcement learning",
+                "policy gradient",
+                "actor critic",
+                "online rl"
+              ]
+            },
+            {
+              "name": "Offline Reinforcement Learning",
+              "name_zh": "离线强化学习",
+              "terms": [
+                "offline reinforcement",
+                "offline rl",
+                "batch reinforcement"
+              ]
+            },
+            {
+              "name": "Combining Imitation & Reinforcement",
+              "name_zh": "模仿与强化学习结合",
+              "terms": [
+                "imitation and reinforcement",
+                "reinforcement and imitation",
+                "reinforcement learning from demonstrations",
+                "rl fine tuning"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Generative Action Policies",
+          "name_zh": "生成式动作策略",
+          "specialties": [
+            {
+              "name": "Diffusion Policies",
+              "name_zh": "扩散策略",
+              "terms": [
+                "diffusion policy",
+                "diffusion policies",
+                "action diffusion",
+                "denoising policy"
+              ]
+            },
+            {
+              "name": "Flow-matching Policies",
+              "name_zh": "Flow Matching 策略",
+              "terms": [
+                "flow matching",
+                "flow policy",
+                "flow policies"
+              ]
+            },
+            {
+              "name": "Autoregressive & Tokenized Actions",
+              "name_zh": "自回归与动作标记化",
+              "terms": [
+                "action token",
+                "action tokenization",
+                "autoregressive action",
+                "action tokenizer"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "VLA & Generalist Robot Policies",
+          "name_zh": "VLA 与通用机器人策略",
+          "specialties": [
+            {
+              "name": "Vision-Language-Action Modeling",
+              "name_zh": "视觉语言动作建模",
+              "terms": [
+                "vision language action",
+                "vla",
+                "robot foundation model",
+                "generalist robot",
+                "foundation policy"
+              ]
+            },
+            {
+              "name": "Multimodal Action Grounding",
+              "name_zh": "多模态动作对齐",
+              "terms": [
+                "language conditioned control",
+                "language guided control",
+                "multimodal policy",
+                "instruction following",
+                "vision language policy"
+              ]
+            },
+            {
+              "name": "Hierarchical & Mixture Policies",
+              "name_zh": "分层策略与专家混合",
+              "terms": [
+                "hierarchical policy",
+                "mixture of experts",
+                "expert routing",
+                "mixture policy"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Generalization & Adaptation",
+          "name_zh": "泛化与适配",
+          "specialties": [
+            {
+              "name": "Cross-robot Transfer",
+              "name_zh": "跨机器人迁移",
+              "terms": [
+                "cross embodiment",
+                "cross robot",
+                "cross morphology",
+                "multi embodiment",
+                "morphology transfer"
+              ]
+            },
+            {
+              "name": "Few-shot & Test-time Adaptation",
+              "name_zh": "少样本与测试时适配",
+              "terms": [
+                "few shot",
+                "test time adaptation",
+                "policy adaptation",
+                "fine tuning",
+                "lora"
+              ]
+            },
+            {
+              "name": "Pretraining & Scaling Laws",
+              "name_zh": "预训练与规模化规律",
+              "terms": [
+                "robot pretraining",
+                "policy pretraining",
+                "scaling law",
+                "data scaling",
+                "robot foundation"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arm & General Object Manipulation",
+      "name_zh": "机械臂与通用物体操作",
+      "question": "What is the primary contribution to arm & general object manipulation?",
+      "question_zh": "论文主要如何推进机械臂与通用物体操作？",
+      "pipeline": [
+        "Objects",
+        "Task constraints",
+        "Planning",
+        "Manipulation"
+      ],
+      "pipeline_zh": [
+        "物体",
+        "任务约束",
+        "规划",
+        "操作"
+      ],
+      "subcategories": [
+        {
+          "name": "Grasping & Pick-place",
+          "name_zh": "抓取与拾放",
+          "specialties": [
+            {
+              "name": "Gripper & Suction Grasp Planning",
+              "name_zh": "夹爪与吸盘抓取规划",
+              "terms": [
+                "grasp detection",
+                "grasp synthesis",
+                "grasp generation",
+                "grasp pose",
+                "suction grasp",
+                "parallel jaw"
+              ]
+            },
+            {
+              "name": "Grasp Stability",
+              "name_zh": "抓取稳定性",
+              "terms": [
+                "grasp stability",
+                "force closure",
+                "grasp quality",
+                "stable grasp"
+              ]
+            },
+            {
+              "name": "Pick-place & Rearrangement",
+              "name_zh": "拾放与物体重排",
+              "terms": [
+                "pick and place",
+                "pick place",
+                "rearrangement",
+                "bin picking",
+                "object relocation"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Contact-rich Manipulation",
+          "name_zh": "接触丰富操作",
+          "specialties": [
+            {
+              "name": "Insertion & Assembly",
+              "name_zh": "插入与装配",
+              "terms": [
+                "insertion",
+                "assembly",
+                "peg in hole",
+                "connector insertion"
+              ]
+            },
+            {
+              "name": "Pushing & Non-prehensile Manipulation",
+              "name_zh": "推滑与非抓取操作",
+              "terms": [
+                "pushing",
+                "sliding",
+                "non prehensile",
+                "pivoting",
+                "tossing"
+              ]
+            },
+            {
+              "name": "Tools & Articulated Objects",
+              "name_zh": "工具与关节物体操作",
+              "terms": [
+                "tool use",
+                "articulated object",
+                "door opening",
+                "screwdriver",
+                "cutting"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Deformable Object Manipulation",
+          "name_zh": "可变形物体操作",
+          "specialties": [
+            {
+              "name": "Cloth & Garments",
+              "name_zh": "布料与衣物",
+              "terms": [
+                "cloth",
+                "garment",
+                "laundry",
+                "fabric"
+              ]
+            },
+            {
+              "name": "Ropes & Cables",
+              "name_zh": "绳索与线缆",
+              "terms": [
+                "rope",
+                "cable manipulation",
+                "wire manipulation",
+                "knot"
+              ]
+            },
+            {
+              "name": "Flexible & Soft Objects",
+              "name_zh": "柔性与软体物体",
+              "terms": [
+                "deformable manipulation",
+                "deformable object",
+                "soft object",
+                "flexible object"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Coordinated & Complex Manipulation",
+          "name_zh": "协同与复杂操作",
+          "specialties": [
+            {
+              "name": "Dual-arm Collaboration",
+              "name_zh": "双臂协作",
+              "terms": [
+                "dual arm",
+                "bimanual manipulation",
+                "bimanual coordination",
+                "robot handover"
+              ]
+            },
+            {
+              "name": "Mobile Manipulation",
+              "name_zh": "移动操作",
+              "terms": [
+                "mobile manipulation",
+                "mobile manipulator"
+              ]
+            },
+            {
+              "name": "Long-horizon & Task-motion Planning",
+              "name_zh": "长时程操作与任务运动规划",
+              "terms": [
+                "long horizon manipulation",
+                "task and motion planning",
+                "tamp",
+                "long horizon task"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dexterous Hands, Retargeting & Teleoperation",
+      "name_zh": "灵巧手、重定向与遥操作",
+      "question": "What is the primary contribution to dexterous hands, retargeting & teleoperation?",
+      "question_zh": "论文主要如何推进灵巧手、重定向与遥操作？",
+      "pipeline": [
+        "Human or robot observations",
+        "Interaction representation",
+        "Hand mapping and control",
+        "Dexterous execution"
+      ],
+      "pipeline_zh": [
+        "人类或机器人观测",
+        "交互表征",
+        "手部映射与控制",
+        "灵巧执行"
+      ],
+      "subcategories": [
+        {
+          "name": "Dexterous Hand Retargeting",
+          "name_zh": "灵巧手重定向",
+          "specialties": [
+            {
+              "name": "Kinematic & Pose Retargeting",
+              "name_zh": "运动学与姿态重定向",
+              "terms": [
+                "hand retargeting",
+                "hand pose retargeting",
+                "finger retargeting",
+                "kinematic retargeting",
+                "geometric retargeting",
+                "kinematic hand"
+              ]
+            },
+            {
+              "name": "Contact & Functional Retargeting",
+              "name_zh": "接触与功能重定向",
+              "terms": [
+                "functional retargeting",
+                "contact retargeting",
+                "contact aware retargeting",
+                "contact anchored retargeting",
+                "interaction preserving retargeting",
+                "hand object retargeting"
+              ]
+            },
+            {
+              "name": "Physics & Dynamics Retargeting",
+              "name_zh": "物理与动力学重定向",
+              "terms": [
+                "physics informed retargeting",
+                "physics based retargeting",
+                "dynamic retargeting",
+                "dynamically feasible retargeting",
+                "retargeting guided",
+                "force aware retargeting"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Multifinger Grasping & Control",
+          "name_zh": "多指抓取与控制",
+          "specialties": [
+            {
+              "name": "Multifinger Coordination & Grasp Generation",
+              "name_zh": "多指协调与抓取生成",
+              "terms": [
+                "multifinger",
+                "multi finger",
+                "dexterous grasp",
+                "dexterous hand control",
+                "finger coordination"
+              ]
+            },
+            {
+              "name": "Grasp Force & Impedance Control",
+              "name_zh": "抓取力与阻抗控制",
+              "terms": [
+                "grasp force",
+                "grip force",
+                "hand impedance",
+                "finger force",
+                "compliant grasp"
+              ]
+            },
+            {
+              "name": "Cross-hand Generalization",
+              "name_zh": "跨手形态泛化",
+              "terms": [
+                "cross hand",
+                "diverse hands",
+                "hand morphology",
+                "multi hand",
+                "heterogeneous hands"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "In-hand Manipulation",
+          "name_zh": "手内操作",
+          "specialties": [
+            {
+              "name": "Object Rotation & Repositioning",
+              "name_zh": "物体旋转与重定位",
+              "terms": [
+                "in hand rotation",
+                "object reorientation",
+                "pen spinning",
+                "cube reorientation",
+                "in hand manipulation"
+              ]
+            },
+            {
+              "name": "Rolling, Sliding & Finger Gaiting",
+              "name_zh": "滚动、滑动与换指",
+              "terms": [
+                "finger gaiting",
+                "finger rolling",
+                "in hand sliding",
+                "in hand rolling",
+                "finger reposition"
+              ]
+            },
+            {
+              "name": "Contact Stability & Slip Recovery",
+              "name_zh": "稳定接触与滑移恢复",
+              "terms": [
+                "slip recovery",
+                "stable contact",
+                "contact maintenance",
+                "finger slip",
+                "slip detection"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Teleoperation & Shared Control",
+          "name_zh": "遥操作与共享控制",
+          "specialties": [
+            {
+              "name": "Vision, Gloves & XR Input",
+              "name_zh": "视觉／手套／XR 输入",
+              "terms": [
+                "teleoperation",
+                "virtual reality",
+                "mixed reality",
+                "xr",
+                "vr controller",
+                "teleoperated",
+                "data glove"
+              ]
+            },
+            {
+              "name": "Shared Autonomy & Assistance",
+              "name_zh": "共享自主与辅助控制",
+              "terms": [
+                "shared autonomy",
+                "shared control",
+                "assistive teleoperation",
+                "operator assistance"
+              ]
+            },
+            {
+              "name": "Bilateral Feedback & Delay",
+              "name_zh": "双向力反馈与延迟处理",
+              "terms": [
+                "bilateral control",
+                "bilateral teleoperation",
+                "haptic feedback",
+                "communication delay",
+                "time delay teleoperation"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Human Demonstrations to Dexterous Skills",
+          "name_zh": "人类示教到灵巧技能",
+          "specialties": [
+            {
+              "name": "Hand-object Reconstruction for Transfer",
+              "name_zh": "手—物交互重建",
+              "terms": [
+                "hand object reconstruction",
+                "hand object interaction reconstruction",
+                "hoi reconstruction"
+              ]
+            },
+            {
+              "name": "Video-to-robot Demonstrations",
+              "name_zh": "视频到机器人示教",
+              "terms": [
+                "human video",
+                "video demonstration",
+                "video to action",
+                "human demonstrations",
+                "human to robot"
+              ]
+            },
+            {
+              "name": "Demonstration Refinement & Skill Transfer",
+              "name_zh": "示教精炼与技能迁移",
+              "terms": [
+                "demonstration refinement",
+                "demonstration transfer",
+                "dexterous imitation",
+                "human dexterity",
+                "skill transfer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Navigation, Localization & Multi-robot Coordination",
+      "name_zh": "导航、定位与多机器人协作",
+      "question": "What is the primary contribution to navigation, localization & multi-robot coordination?",
+      "question_zh": "论文主要如何推进导航、定位与多机器人协作？",
+      "pipeline": [
+        "Sensor data",
+        "Maps and goals",
+        "Planning",
+        "Navigation"
+      ],
+      "pipeline_zh": [
+        "传感数据",
+        "地图与目标",
+        "规划",
+        "导航"
+      ],
+      "subcategories": [
+        {
+          "name": "Localization & Mapping",
+          "name_zh": "定位与建图",
+          "specialties": [
+            {
+              "name": "Visual, LiDAR & Multisensor SLAM",
+              "name_zh": "视觉／激光／多传感器 SLAM",
+              "terms": [
+                "slam",
+                "simultaneous localization",
+                "lidar mapping",
+                "visual mapping"
+              ]
+            },
+            {
+              "name": "Odometry & Relocalization",
+              "name_zh": "里程计与重定位",
+              "terms": [
+                "odometry",
+                "relocalization",
+                "place recognition",
+                "loop closure",
+                "localization"
+              ]
+            },
+            {
+              "name": "Semantic & Neural Maps",
+              "name_zh": "语义与神经地图",
+              "terms": [
+                "semantic map",
+                "neural map",
+                "metric map",
+                "mapping"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Goal & Language Navigation",
+          "name_zh": "目标与语言导航",
+          "specialties": [
+            {
+              "name": "Point-goal & Image-goal Navigation",
+              "name_zh": "点目标与图像目标导航",
+              "terms": [
+                "point goal",
+                "image goal",
+                "image navigation",
+                "goal navigation"
+              ]
+            },
+            {
+              "name": "Object-goal & Semantic Navigation",
+              "name_zh": "物体目标与语义导航",
+              "terms": [
+                "object goal",
+                "object navigation",
+                "semantic navigation",
+                "objectnav"
+              ]
+            },
+            {
+              "name": "Vision-Language Navigation",
+              "name_zh": "视觉语言导航",
+              "terms": [
+                "vision language navigation",
+                "visual language navigation",
+                "vln",
+                "instruction navigation",
+                "language navigation"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Motion Planning & Exploration",
+          "name_zh": "运动规划与探索",
+          "specialties": [
+            {
+              "name": "Global Path Planning",
+              "name_zh": "全局路径规划",
+              "terms": [
+                "path planning",
+                "global planning",
+                "motion planning",
+                "sampling based planning"
+              ]
+            },
+            {
+              "name": "Local Avoidance & Trajectory Optimization",
+              "name_zh": "局部避障与轨迹优化",
+              "terms": [
+                "obstacle avoidance",
+                "local planning",
+                "trajectory optimization",
+                "collision avoidance"
+              ]
+            },
+            {
+              "name": "Active Exploration & Information Gain",
+              "name_zh": "主动探索与信息增益",
+              "terms": [
+                "exploration",
+                "information gain",
+                "frontier",
+                "coverage planning",
+                "next best view"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Multi-robot & Social Navigation",
+          "name_zh": "多机器人与社会导航",
+          "specialties": [
+            {
+              "name": "Multi-robot Coordination",
+              "name_zh": "多机器人协调",
+              "terms": [
+                "multi robot",
+                "multi agent path",
+                "cooperative navigation",
+                "robot coordination"
+              ]
+            },
+            {
+              "name": "Swarms & Formation",
+              "name_zh": "群体与编队",
+              "terms": [
+                "swarm",
+                "formation control",
+                "formation planning"
+              ]
+            },
+            {
+              "name": "Human-aware & Social Navigation",
+              "name_zh": "人群交互与社会规范导航",
+              "terms": [
+                "social navigation",
+                "human aware navigation",
+                "pedestrian",
+                "crowd navigation"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Legged Locomotion & Whole-body Control",
+      "name_zh": "足式运动与全身控制",
+      "question": "What is the primary contribution to legged locomotion & whole-body control?",
+      "question_zh": "论文主要如何推进足式运动与全身控制？",
+      "pipeline": [
+        "Motion references",
+        "Contact and terrain",
+        "Whole-body control",
+        "Locomotion"
+      ],
+      "pipeline_zh": [
+        "参考动作",
+        "接触与地形",
+        "全身控制",
+        "运动"
+      ],
+      "subcategories": [
+        {
+          "name": "Bipedal & Humanoid Locomotion",
+          "name_zh": "双足与人形运动",
+          "specialties": [
+            {
+              "name": "Walking & Gaits",
+              "name_zh": "行走与步态",
+              "terms": [
+                "bipedal",
+                "biped",
+                "humanoid walking",
+                "gait",
+                "walking"
+              ]
+            },
+            {
+              "name": "Running, Jumping & Agile Motion",
+              "name_zh": "跑跳与敏捷运动",
+              "terms": [
+                "running",
+                "jumping",
+                "parkour",
+                "agile locomotion"
+              ]
+            },
+            {
+              "name": "Terrain & Footstep Planning",
+              "name_zh": "复杂地形与落脚规划",
+              "terms": [
+                "footstep",
+                "stairs",
+                "rough terrain",
+                "terrain locomotion"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quadruped & Multilegged Locomotion",
+          "name_zh": "四足与多足运动",
+          "specialties": [
+            {
+              "name": "Gaits & Locomotion Control",
+              "name_zh": "步态与运动控制",
+              "terms": [
+                "quadruped",
+                "quadrupedal",
+                "legged locomotion",
+                "hexapod",
+                "multi legged"
+              ]
+            },
+            {
+              "name": "Terrain Adaptation",
+              "name_zh": "地形适应",
+              "terms": [
+                "terrain adaptation",
+                "terrain traversal",
+                "terrain aware",
+                "rough ground"
+              ]
+            },
+            {
+              "name": "Dynamic Recovery & Agility",
+              "name_zh": "动态恢复与敏捷技能",
+              "terms": [
+                "agile quadruped",
+                "legged recovery",
+                "dynamic recovery",
+                "legged agility"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Whole-body Coordination & Balance",
+          "name_zh": "全身协调与平衡",
+          "specialties": [
+            {
+              "name": "Whole-body Optimization & Control",
+              "name_zh": "全身优化控制",
+              "terms": [
+                "whole body control",
+                "whole body optimization",
+                "whole body tracking",
+                "humanoid control"
+              ]
+            },
+            {
+              "name": "Balance & Contact Regulation",
+              "name_zh": "平衡与接触调节",
+              "terms": [
+                "balance",
+                "stability control",
+                "contact planning",
+                "multi contact control"
+              ]
+            },
+            {
+              "name": "Fall Prevention & Recovery",
+              "name_zh": "跌倒预防与恢复",
+              "terms": [
+                "fall prevention",
+                "fall recovery",
+                "push recovery",
+                "getting up",
+                "fall detection"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Whole-body Motion Transfer",
+          "name_zh": "全身动作迁移",
+          "specialties": [
+            {
+              "name": "Human-to-robot Kinematic Retargeting",
+              "name_zh": "人体到机器人运动学重定向",
+              "terms": [
+                "whole body retargeting",
+                "humanoid retargeting",
+                "motion retargeting",
+                "human motion transfer",
+                "upper body retargeting"
+              ]
+            },
+            {
+              "name": "Contact & Dynamic Retargeting",
+              "name_zh": "接触与动力学重定向",
+              "terms": [
+                "kinodynamic retargeting",
+                "contact preserving retargeting",
+                "contact aware motion retargeting"
+              ]
+            },
+            {
+              "name": "Motion Imitation & Generation",
+              "name_zh": "动作模仿与生成",
+              "terms": [
+                "motion imitation",
+                "motion generation",
+                "reference motion",
+                "motion prior",
+                "human motion",
+                "motion tracking"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Locomotion-Manipulation Coordination",
+          "name_zh": "移动与操作协同",
+          "specialties": [
+            {
+              "name": "Humanoid Loco-manipulation",
+              "name_zh": "人形移动操作",
+              "terms": [
+                "loco manipulation",
+                "humanoid manipulation",
+                "humanoid loco"
+              ]
+            },
+            {
+              "name": "Multicontact Interaction",
+              "name_zh": "多接触交互",
+              "terms": [
+                "multi contact interaction",
+                "humanoid contact",
+                "whole body interaction"
+              ]
+            },
+            {
+              "name": "Leg-arm & Upper-body Coordination",
+              "name_zh": "腿臂协同与上肢任务",
+              "terms": [
+                "leg arm",
+                "upper body control",
+                "upper body skill",
+                "humanoid reaching"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Perception, Representation & State Estimation",
+      "name_zh": "感知、表征与状态估计",
+      "question": "What is the primary contribution to perception, representation & state estimation?",
+      "question_zh": "论文主要如何推进感知、表征与状态估计？",
+      "pipeline": [
+        "Sensor observations",
+        "Representations",
+        "State estimation",
+        "Task information"
+      ],
+      "pipeline_zh": [
+        "传感观测",
+        "表征",
+        "状态估计",
+        "任务信息"
+      ],
+      "subcategories": [
+        {
+          "name": "3D Environment Perception",
+          "name_zh": "三维环境感知",
+          "specialties": [
+            {
+              "name": "Depth & Point Clouds",
+              "name_zh": "深度与点云",
+              "terms": [
+                "depth estimation",
+                "stereo",
+                "rgb d",
+                "point cloud",
+                "lidar perception"
+              ]
+            },
+            {
+              "name": "3D Reconstruction",
+              "name_zh": "三维重建",
+              "terms": [
+                "3d reconstruction",
+                "nerf",
+                "gaussian splatting",
+                "neural rendering"
+              ]
+            },
+            {
+              "name": "Occupancy & Scene Representation",
+              "name_zh": "占据与场景表达",
+              "terms": [
+                "occupancy",
+                "scene representation",
+                "scene understanding",
+                "3d scene"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Object & Interaction Perception",
+          "name_zh": "物体与交互感知",
+          "specialties": [
+            {
+              "name": "Detection & Segmentation",
+              "name_zh": "物体检测与分割",
+              "terms": [
+                "object detection",
+                "segmentation",
+                "open vocabulary detection"
+              ]
+            },
+            {
+              "name": "6D Pose & Tracking",
+              "name_zh": "六维姿态与跟踪",
+              "terms": [
+                "6d pose",
+                "6 dof pose",
+                "object pose",
+                "object tracking",
+                "keypoint"
+              ]
+            },
+            {
+              "name": "Affordances & Interaction Relations",
+              "name_zh": "可供性与交互关系",
+              "terms": [
+                "affordance",
+                "interaction perception",
+                "interaction relation",
+                "articulated perception"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Human & Hand-object Perception",
+          "name_zh": "人体与手—物感知",
+          "specialties": [
+            {
+              "name": "Body & Hand Pose",
+              "name_zh": "人体与手部姿态",
+              "terms": [
+                "hand pose estimation",
+                "human pose",
+                "body pose",
+                "hand tracking"
+              ]
+            },
+            {
+              "name": "Hand-object Interaction Reconstruction",
+              "name_zh": "手—物交互重建",
+              "terms": [
+                "hand object reconstruction",
+                "hoi reconstruction",
+                "hand object interaction"
+              ]
+            },
+            {
+              "name": "Contact & Motion Recovery",
+              "name_zh": "接触与运动恢复",
+              "terms": [
+                "contact reconstruction",
+                "contact estimation",
+                "motion reconstruction",
+                "motion capture"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tactile & Multimodal Perception",
+          "name_zh": "触觉与多模态感知",
+          "specialties": [
+            {
+              "name": "Tactile Representation",
+              "name_zh": "触觉表征",
+              "terms": [
+                "tactile representation",
+                "tactile learning",
+                "tactile recognition",
+                "tactile sensing",
+                "touch sensing"
+              ]
+            },
+            {
+              "name": "Force, Contact & Slip Estimation",
+              "name_zh": "力、接触与滑移估计",
+              "terms": [
+                "force estimation",
+                "contact detection",
+                "slip estimation",
+                "slip detection"
+              ]
+            },
+            {
+              "name": "Visuotactile & Proprioceptive Fusion",
+              "name_zh": "视觉触觉与本体感知融合",
+              "terms": [
+                "visuotactile",
+                "visual tactile",
+                "multisensory",
+                "proprioception",
+                "sensor fusion"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "State Estimation & Active Perception",
+          "name_zh": "状态估计与主动感知",
+          "specialties": [
+            {
+              "name": "Multisensor State Estimation",
+              "name_zh": "多传感器状态估计",
+              "terms": [
+                "state estimation",
+                "multisensor estimation",
+                "visual inertial",
+                "state tracking"
+              ]
+            },
+            {
+              "name": "Calibration & Time Alignment",
+              "name_zh": "标定与时间对齐",
+              "terms": [
+                "sensor calibration",
+                "camera calibration",
+                "time alignment",
+                "synchronization",
+                "calibration"
+              ]
+            },
+            {
+              "name": "View Selection & Active Observation",
+              "name_zh": "视角选择与主动观测",
+              "terms": [
+                "active perception",
+                "view selection",
+                "view planning",
+                "multiview",
+                "next best view"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "World Models, Planning & Embodied Reasoning",
+      "name_zh": "世界模型、规划与具身推理",
+      "question": "What is the primary contribution to world models, planning & embodied reasoning?",
+      "question_zh": "论文主要如何推进世界模型、规划与具身推理？",
+      "pipeline": [
+        "Experience",
+        "Predictive models and knowledge",
+        "Reasoning and planning",
+        "Closed-loop decisions"
+      ],
+      "pipeline_zh": [
+        "经验",
+        "预测模型与知识",
+        "推理与规划",
+        "闭环决策"
+      ],
+      "subcategories": [
+        {
+          "name": "World & Dynamics Modeling",
+          "name_zh": "世界与动力学建模",
+          "specialties": [
+            {
+              "name": "Latent Dynamics",
+              "name_zh": "潜空间动力学",
+              "terms": [
+                "world model",
+                "latent dynamics",
+                "latent world",
+                "predictive model"
+              ]
+            },
+            {
+              "name": "Object & Contact Dynamics",
+              "name_zh": "物体与接触动力学",
+              "terms": [
+                "object dynamics",
+                "contact dynamics",
+                "structured dynamics",
+                "physics informed dynamics"
+              ]
+            },
+            {
+              "name": "Action-conditioned Video Prediction",
+              "name_zh": "动作条件视频预测",
+              "terms": [
+                "video prediction",
+                "future prediction",
+                "action conditioned video",
+                "world action model",
+                "video world model"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Model-based Decision Making",
+          "name_zh": "模型驱动决策",
+          "specialties": [
+            {
+              "name": "Model Predictive Control",
+              "name_zh": "模型预测控制",
+              "terms": [
+                "model predictive control",
+                "mpc",
+                "predictive control"
+              ]
+            },
+            {
+              "name": "Imagination & Model-based RL",
+              "name_zh": "想象训练与模型式 RL",
+              "terms": [
+                "model based reinforcement",
+                "model based rl",
+                "imagination",
+                "dreamer"
+              ]
+            },
+            {
+              "name": "World-model Planning",
+              "name_zh": "世界模型辅助规划",
+              "terms": [
+                "world model planning",
+                "planning with world",
+                "predictive planning",
+                "model based planning"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Task Reasoning & Planning",
+          "name_zh": "任务推理与规划",
+          "specialties": [
+            {
+              "name": "Task Decomposition & Symbolic Planning",
+              "name_zh": "任务分解与符号规划",
+              "terms": [
+                "task planning",
+                "task decomposition",
+                "symbolic planning",
+                "subgoal",
+                "hierarchical planning"
+              ]
+            },
+            {
+              "name": "Language-model Planning",
+              "name_zh": "语言模型辅助规划",
+              "terms": [
+                "language model planning",
+                "llm planning",
+                "language planning",
+                "code generation",
+                "robot agent"
+              ]
+            },
+            {
+              "name": "Embodied QA & Spatial Reasoning",
+              "name_zh": "具身问答与空间推理",
+              "terms": [
+                "embodied question answering",
+                "embodied reasoning",
+                "spatial reasoning",
+                "question answering"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Memory & Autonomous Execution",
+          "name_zh": "记忆与自主执行",
+          "specialties": [
+            {
+              "name": "Episodic Memory & Retrieval",
+              "name_zh": "情景记忆与经验检索",
+              "terms": [
+                "episodic memory",
+                "semantic memory",
+                "retrieval augmented",
+                "experience retrieval",
+                "memory augmented"
+              ]
+            },
+            {
+              "name": "Persistent Task Execution",
+              "name_zh": "持续任务执行",
+              "terms": [
+                "persistent task",
+                "lifelong agent",
+                "autonomous execution",
+                "agentic robot",
+                "long term memory"
+              ]
+            },
+            {
+              "name": "Failure Detection & Replanning",
+              "name_zh": "失败检测、纠错与重规划",
+              "terms": [
+                "failure detection",
+                "failure recovery",
+                "self correction",
+                "replanning",
+                "reflection",
+                "verification"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Data, Simulation & Evaluation",
+      "name_zh": "数据、仿真与评测",
+      "question": "What is the primary contribution to data, simulation & evaluation?",
+      "question_zh": "论文主要如何推进数据、仿真与评测？",
+      "pipeline": [
+        "Data or environments",
+        "Generation and validation",
+        "Experiments",
+        "Evidence"
+      ],
+      "pipeline_zh": [
+        "数据或环境",
+        "生成与验证",
+        "实验",
+        "证据"
+      ],
+      "subcategories": [
+        {
+          "name": "Datasets & Data Engineering",
+          "name_zh": "数据集与数据工程",
+          "specialties": [
+            {
+              "name": "Robot Demonstration Datasets",
+              "name_zh": "机器人示教数据集",
+              "terms": [
+                "robot dataset",
+                "robotics dataset",
+                "demonstration dataset",
+                "trajectory dataset",
+                "robot data"
+              ]
+            },
+            {
+              "name": "Human Video & Motion Data",
+              "name_zh": "人类视频与动作数据",
+              "terms": [
+                "human dataset",
+                "human video dataset",
+                "motion dataset",
+                "hand object dataset",
+                "hoi dataset"
+              ]
+            },
+            {
+              "name": "Data Curation & Quality",
+              "name_zh": "数据清洗、标注与质量评估",
+              "terms": [
+                "data curation",
+                "data quality",
+                "annotation",
+                "data cleaning",
+                "data selection"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Synthetic & Augmented Data",
+          "name_zh": "合成与增强数据",
+          "specialties": [
+            {
+              "name": "Simulated Trajectory Generation",
+              "name_zh": "仿真轨迹生成",
+              "terms": [
+                "trajectory generation",
+                "simulated demonstrations",
+                "simulation data generation"
+              ]
+            },
+            {
+              "name": "Generative Data Augmentation",
+              "name_zh": "生成模型辅助数据",
+              "terms": [
+                "synthetic data",
+                "data augmentation",
+                "generative augmentation",
+                "data synthesis"
+              ]
+            },
+            {
+              "name": "Cross-robot Data Conversion",
+              "name_zh": "跨机器人数据转换",
+              "terms": [
+                "data engine",
+                "data conversion",
+                "data translation",
+                "demonstration conversion"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Simulation & Digital Twins",
+          "name_zh": "仿真与数字孪生",
+          "specialties": [
+            {
+              "name": "Physics Engines & Parallel Simulation",
+              "name_zh": "物理引擎与并行仿真",
+              "terms": [
+                "physics engine",
+                "robot simulator",
+                "simulation platform",
+                "parallel simulation",
+                "mujoco",
+                "isaac",
+                "gazebo"
+              ]
+            },
+            {
+              "name": "Differentiable Simulation",
+              "name_zh": "可微仿真",
+              "terms": [
+                "differentiable simulation",
+                "differentiable physics",
+                "neural simulation",
+                "learned simulator"
+              ]
+            },
+            {
+              "name": "Real-to-sim & Digital Twins",
+              "name_zh": "现实场景重建与数字孪生",
+              "terms": [
+                "digital twin",
+                "real to sim",
+                "scene replica",
+                "environment reconstruction"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sim-to-real Transfer",
+          "name_zh": "仿真到现实",
+          "specialties": [
+            {
+              "name": "Domain Randomization",
+              "name_zh": "域随机化",
+              "terms": [
+                "domain randomization",
+                "visual randomization",
+                "dynamics randomization"
+              ]
+            },
+            {
+              "name": "System Identification & Sim Calibration",
+              "name_zh": "系统辨识与仿真校准",
+              "terms": [
+                "system identification",
+                "sim calibration",
+                "simulation calibration",
+                "system identification"
+              ]
+            },
+            {
+              "name": "Domain Adaptation & Transfer",
+              "name_zh": "域适配与迁移",
+              "terms": [
+                "sim to real",
+                "sim2real",
+                "domain adaptation",
+                "reality gap",
+                "domain transfer"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Benchmarks & Experimental Methods",
+          "name_zh": "基准与实验方法",
+          "specialties": [
+            {
+              "name": "Task & Capability Benchmarks",
+              "name_zh": "任务与能力基准",
+              "terms": [
+                "benchmark",
+                "benchmarking",
+                "evaluation suite",
+                "capability evaluation"
+              ]
+            },
+            {
+              "name": "Generalization & Robustness Evaluation",
+              "name_zh": "泛化与鲁棒性评测",
+              "terms": [
+                "robustness evaluation",
+                "generalization evaluation",
+                "stress test",
+                "cross platform evaluation"
+              ]
+            },
+            {
+              "name": "Reproducibility & Statistical Comparison",
+              "name_zh": "复现协议与统计比较",
+              "terms": [
+                "reproducibility",
+                "reproducible",
+                "evaluation protocol",
+                "statistical comparison",
+                "evaluation metric"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Safety & Reliability Evaluation",
+          "name_zh": "安全与可靠性评估",
+          "specialties": [
+            {
+              "name": "Safety Tests & Constraint Verification",
+              "name_zh": "安全测试与约束验证",
+              "terms": [
+                "safety verification",
+                "safety evaluation",
+                "safety constraint",
+                "control barrier",
+                "formal verification"
+              ]
+            },
+            {
+              "name": "OOD & Uncertainty Evaluation",
+              "name_zh": "分布外与不确定性评估",
+              "terms": [
+                "out of distribution",
+                "uncertainty evaluation",
+                "uncertainty estimation",
+                "distribution shift"
+              ]
+            },
+            {
+              "name": "Fault & Failure Analysis",
+              "name_zh": "故障与失效分析",
+              "terms": [
+                "failure analysis",
+                "fault detection",
+                "fault diagnosis",
+                "reliability",
+                "failure mode"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Robot Hardware & Systems",
+      "name_zh": "机器人硬件与系统",
+      "question": "What is the primary contribution to robot hardware & systems?",
+      "question_zh": "论文主要如何推进机器人硬件与系统？",
+      "pipeline": [
+        "Hardware and software requirements",
+        "Design",
+        "Integration",
+        "Deployment"
+      ],
+      "pipeline_zh": [
+        "软硬件需求",
+        "设计",
+        "集成",
+        "部署"
+      ],
+      "subcategories": [
+        {
+          "name": "Mechanisms & Actuation",
+          "name_zh": "机器人机构与驱动",
+          "specialties": [
+            {
+              "name": "Hands, Grippers & Arms",
+              "name_zh": "手、夹爪与机械臂设计",
+              "terms": [
+                "hand design",
+                "gripper design",
+                "robot hand design",
+                "robotic hand design",
+                "dexterous hand design",
+                "manipulator design"
+              ]
+            },
+            {
+              "name": "Legged & Whole-body Mechanisms",
+              "name_zh": "腿式与全身机构",
+              "terms": [
+                "robot design",
+                "humanoid design",
+                "leg design",
+                "feet design",
+                "morphology design"
+              ]
+            },
+            {
+              "name": "Actuators & Transmission",
+              "name_zh": "执行器与传动",
+              "terms": [
+                "actuator",
+                "actuation",
+                "transmission",
+                "joint design",
+                "motor",
+                "gear"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sensors & Human Interfaces",
+          "name_zh": "传感器与人机接口",
+          "specialties": [
+            {
+              "name": "Tactile & Force Sensors",
+              "name_zh": "触觉与力传感器",
+              "terms": [
+                "tactile sensor",
+                "force sensor",
+                "sensor design",
+                "tactile glove"
+              ]
+            },
+            {
+              "name": "Motion Capture & Wearables",
+              "name_zh": "动作捕捉与可穿戴设备",
+              "terms": [
+                "wearable",
+                "motion capture system",
+                "data glove",
+                "human machine interface"
+              ]
+            },
+            {
+              "name": "Haptic Feedback Devices",
+              "name_zh": "触觉反馈设备",
+              "terms": [
+                "haptic device",
+                "haptic interface",
+                "haptic rendering",
+                "force feedback device"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Soft & Specialized Robots",
+          "name_zh": "软体与特殊机器人",
+          "specialties": [
+            {
+              "name": "Soft Mechanisms & Actuation",
+              "name_zh": "软体机构与驱动",
+              "terms": [
+                "soft robot",
+                "soft actuator",
+                "soft gripper",
+                "continuum robot"
+              ]
+            },
+            {
+              "name": "Bio-inspired Robots",
+              "name_zh": "仿生机器人",
+              "terms": [
+                "bio inspired",
+                "biomimetic",
+                "musculoskeletal",
+                "biological robot"
+              ]
+            },
+            {
+              "name": "Special-environment Robots",
+              "name_zh": "特殊环境机器人",
+              "terms": [
+                "underwater robot",
+                "marine robot",
+                "space robot",
+                "aerial robot",
+                "uav design",
+                "agricultural robot"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Computing & Deployment Systems",
+          "name_zh": "计算与部署系统",
+          "specialties": [
+            {
+              "name": "Real-time & On-device Inference",
+              "name_zh": "实时与端侧推理",
+              "terms": [
+                "on device",
+                "edge deploy",
+                "real time inference",
+                "policy compression",
+                "efficient vla",
+                "inference latency"
+              ]
+            },
+            {
+              "name": "Control & Communication Architecture",
+              "name_zh": "控制与通信架构",
+              "terms": [
+                "communication architecture",
+                "control architecture",
+                "middleware",
+                "ros",
+                "networked control"
+              ]
+            },
+            {
+              "name": "Software Frameworks & Integration",
+              "name_zh": "软件框架与系统集成",
+              "terms": [
+                "software framework",
+                "robot framework",
+                "toolkit",
+                "robot system",
+                "open source library",
+                "distributed training"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

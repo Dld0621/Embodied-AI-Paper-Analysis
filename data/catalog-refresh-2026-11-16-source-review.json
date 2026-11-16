@@ -1,0 +1,262 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-11-16",
+  "timezone": "Asia/Hong_Kong",
+  "baseline_commit": "6be80486d4736c2cc354d85ff9ced926ba5d5906",
+  "scope": "Targeted primary-source title/abstract classification and submission/version checks, with selected TouchTwin full text; not full-paper review, independent reproduction, a completed source harvest or conference-acceptance verification.",
+  "refresh_scope": "targeted-source-review-only",
+  "harvest_completion_claimed": false,
+  "conference_promotions": [],
+  "classification_reviews": [
+    {
+      "arxiv_id": "2611.17619",
+      "title": "TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real",
+      "arxiv_url": "https://arxiv.org/abs/2611.17619",
+      "arxiv_first_submission_on": "2026-11-13",
+      "observed_version": 1,
+      "version_submitted_on": "2026-11-13",
+      "checked_on": "2026-11-16",
+      "review_basis": "title_and_abstract_with_selected_full_text",
+      "classification_path": [
+        "Data, Simulation & Evaluation",
+        "Synthetic & Augmented Data",
+        "Simulated Trajectory Generation"
+      ],
+      "evidence_summary": "Title/abstract and selected full-text review. Measured TouchScale glove signals ground per-subject human-hand replays in MuJoCo. Perturbed demonstrations carry simulated contact and force labels and condition generated video. The contribution is a touch-grounded data-generation pipeline, not demonstrated cross-robot hand retargeting.",
+      "evidence_boundary": "Human tactile measurements ground simulation; reported policy trials are in simulation. Human-hand replays and real-contact prediction are not evidence of robot-hand retargeting or real-robot policy transfer.",
+      "action": "add_reviewed_primary_contribution_override",
+      "full_text_url": "https://arxiv.org/html/2611.17619v1"
+    },
+    {
+      "arxiv_id": "2610.30969",
+      "title": "IORA: Irregular Object Immobilization under Restricted Actuation",
+      "arxiv_url": "https://arxiv.org/abs/2610.30969",
+      "arxiv_first_submission_on": "2026-10-22",
+      "observed_version": 2,
+      "version_submitted_on": "2026-11-13",
+      "checked_on": "2026-11-16",
+      "review_basis": "title_and_abstract",
+      "classification_path": [
+        "Dexterous Hands, Retargeting & Teleoperation",
+        "Multifinger Grasping & Control",
+        "Multifinger Coordination & Grasp Generation"
+      ],
+      "evidence_summary": "Title/abstract review of v2. Support-aware grasp synthesis matches local hand and object surface graphs, refines wrist pose and motor state, and validates physically executable grasps for low-DoF coupled hands. Restricted actuation is a problem constraint, not an actuator-design contribution.",
+      "evidence_boundary": "The November 13 v2 revision is not a new November paper. Grasp synthesis and support contact do not establish demonstration retargeting.",
+      "action": "correct_primary_contribution_classification",
+      "previous_classification_path": [
+        "Robot Hardware & Systems",
+        "Mechanisms & Actuation",
+        "Actuators & Transmission"
+      ]
+    },
+    {
+      "arxiv_id": "2611.18298",
+      "title": "Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation",
+      "arxiv_url": "https://arxiv.org/abs/2611.18298",
+      "arxiv_first_submission_on": "2026-11-13",
+      "observed_version": 1,
+      "version_submitted_on": "2026-11-13",
+      "checked_on": "2026-11-16",
+      "review_basis": "title_and_abstract",
+      "classification_path": [
+        "World Models, Planning & Embodied Reasoning",
+        "Model-based Decision Making",
+        "Model Predictive Control"
+      ],
+      "evidence_summary": "Title/abstract review. A pretrained VLM writes editable stage-wise objective programs for a shared sampling-based MPC. Programs are revised using simulated rollouts in a real-to-sim digital twin before real-world execution. The central contribution connects language reasoning to contact-aware control through objectives.",
+      "evidence_boundary": "This is VLM-generated objective programming with MPC, not an end-to-end VLA action model or a dexterous-hand retargeting method.",
+      "action": "add_reviewed_primary_contribution_override"
+    },
+    {
+      "arxiv_id": "2611.17529",
+      "title": "Learning Latent Goal Costs for Visual World-Model Planning with an Expanding Curriculum",
+      "arxiv_url": "https://arxiv.org/abs/2611.17529",
+      "arxiv_first_submission_on": "2026-11-12",
+      "observed_version": 1,
+      "version_submitted_on": "2026-11-12",
+      "checked_on": "2026-11-16",
+      "review_basis": "title_and_abstract",
+      "classification_path": [
+        "World Models, Planning & Embodied Reasoning",
+        "Model-based Decision Making",
+        "World-model Planning"
+      ],
+      "evidence_summary": "Title/abstract review. A residual adapter on frozen I-JEPA embeddings learns a goal cost from ordered planner trajectories and progressively expanded initial states. DotWall and PointMaze evaluate latent-cost improvements under frozen encoders and world models.",
+      "evidence_boundary": "The residual adapts a representation used for planning cost; it is not an additive robot-action residual. No hand-retargeting or dexterous-manipulation experiment is established by these task results.",
+      "action": "add_reviewed_primary_contribution_override"
+    },
+    {
+      "arxiv_id": "2611.17775",
+      "title": "Beyond Prediction Gain: LASR as a Metric for Action-Grounded Latents in World Models",
+      "arxiv_url": "https://arxiv.org/abs/2611.17775",
+      "arxiv_first_submission_on": "2026-11-13",
+      "observed_version": 1,
+      "version_submitted_on": "2026-11-13",
+      "checked_on": "2026-11-16",
+      "review_basis": "title_and_abstract",
+      "classification_path": [
+        "Data, Simulation & Evaluation",
+        "Benchmarks & Experimental Methods",
+        "Reproducibility & Statistical Comparison"
+      ],
+      "evidence_summary": "Title/abstract review. LASR evaluates whether a latent supports action-related targets beyond state and other predictive shortcuts, with held-out episodes, matched predictors, positive and negative controls, and paired uncertainty comparisons. A lightweight residual adapter is a downstream demonstration of the evaluation protocol.",
+      "evidence_boundary": "The main contribution is an offline evaluation protocol. A latent residual adapter is distinct from a dexterous controller residual, and improved point estimates require the reported uncertainty context.",
+      "action": "add_reviewed_primary_contribution_override"
+    },
+    {
+      "arxiv_id": "2611.17394",
+      "title": "Agentic-Teacher: An Agentic Data Engine for Failure-Driven VLA Post-Training",
+      "arxiv_url": "https://arxiv.org/abs/2611.17394",
+      "arxiv_first_submission_on": "2026-11-12",
+      "observed_version": 1,
+      "version_submitted_on": "2026-11-12",
+      "checked_on": "2026-11-16",
+      "review_basis": "title_and_abstract",
+      "classification_path": [
+        "Data, Simulation & Evaluation",
+        "Synthetic & Augmented Data",
+        "Simulated Trajectory Generation"
+      ],
+      "evidence_summary": "Title/abstract review. Failure rollouts guide coding-agent construction of closed-loop policies that generate successful demonstration continuations. Correlated action noise, idle-frame handling and frozen-model loss filtering curate demonstrations for VLA post-training. The primary contribution is a demonstration-generation and curation engine.",
+      "evidence_boundary": "Reported LIBERO, MetaWorld and RoboCasa improvements are simulation evaluations. Coding-agent assistance creates training data; the post-trained policy executes without that assistance.",
+      "action": "add_reviewed_primary_contribution_override"
+    },
+    {
+      "arxiv_id": "2611.18176",
+      "title": "ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents",
+      "arxiv_url": "https://arxiv.org/abs/2611.18176",
+      "arxiv_first_submission_on": "2026-11-13",
+      "observed_version": 1,
+      "version_submitted_on": "2026-11-13",
+      "checked_on": "2026-11-16",
+      "review_basis": "title_and_abstract",
+      "classification_path": [
+        "Policy Learning & Embodied Foundation Models",
+        "VLA & Generalist Robot Policies",
+        "Hierarchical & Mixture Policies"
+      ],
+      "evidence_summary": "Title/abstract review. ESI jointly refines LLM prompts, a shared skill interface and VLA parameters through environmental interaction. Semantic subtask supervision, effective corrections and policy continuations train coordination and handoff in a modular LLM-VLA agent.",
+      "evidence_boundary": "The primary path describes hierarchical agent coordination, not a claim that the model uses a mixture-of-experts network. Reported results cover ten selected RoboDojo tasks rather than universal robot capability.",
+      "action": "add_reviewed_primary_contribution_override"
+    },
+    {
+      "arxiv_id": "2611.18562",
+      "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+      "arxiv_url": "https://arxiv.org/abs/2611.18562",
+      "arxiv_first_submission_on": "2026-11-13",
+      "observed_version": 1,
+      "version_submitted_on": "2026-11-13",
+      "checked_on": "2026-11-16",
+      "review_basis": "title_and_abstract",
+      "classification_path": [
+        "Policy Learning & Embodied Foundation Models",
+        "Reinforcement Learning",
+        "Online Reinforcement Learning"
+      ],
+      "evidence_summary": "Title/abstract review. PEAR trains an open-weight reasoning model with robot-use reinforcement learning in simulation, without demonstrations. The policy reasons from observations and produces the next end-effector pose; held-out instructions, another robot and real-world trials study transfer.",
+      "evidence_boundary": "A robot-use reasoning agent need not share a conventional VLA action-head architecture. Simulation training and the reported real-robot trial outcomes are separate evidence; neither establishes dexterous-hand retargeting.",
+      "action": "add_reviewed_primary_contribution_override"
+    },
+    {
+      "arxiv_id": "2611.18372",
+      "title": "Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment",
+      "arxiv_url": "https://arxiv.org/abs/2611.18372",
+      "arxiv_first_submission_on": "2026-11-13",
+      "observed_version": 1,
+      "version_submitted_on": "2026-11-13",
+      "checked_on": "2026-11-16",
+      "review_basis": "title_and_abstract",
+      "classification_path": [
+        "Policy Learning & Embodied Foundation Models",
+        "VLA & Generalist Robot Policies",
+        "Vision-Language-Action Modeling"
+      ],
+      "evidence_summary": "Title/abstract review. This survey organizes VLA model design, data, post-training and real-time deployment along seven axes, contrasting action-only and world-action designs. Its contribution is synthesis of existing systems, not a newly validated policy.",
+      "evidence_boundary": "A survey catalog and its quoted model comparisons are not independent replication of the surveyed systems.",
+      "action": "add_reviewed_primary_contribution_override"
+    },
+    {
+      "arxiv_id": "2611.17631",
+      "title": "On the Utility of Pre-Trained Visual Representations for Policy Learning of Contact-Rich Insertion Tasks",
+      "arxiv_url": "https://arxiv.org/abs/2611.17631",
+      "arxiv_first_submission_on": "2026-11-13",
+      "observed_version": 1,
+      "version_submitted_on": "2026-11-13",
+      "checked_on": "2026-11-16",
+      "review_basis": "title_and_abstract",
+      "classification_path": [
+        "Data, Simulation & Evaluation",
+        "Benchmarks & Experimental Methods",
+        "Generalization & Robustness Evaluation"
+      ],
+      "evidence_summary": "Title/abstract review. Controlled comparisons of pretrained visual and explicit contact-centric representations vary occlusion and physical tolerance on two closely related insertion tasks, then examine real-world transfer. The contribution is evidence about representation and task-dependent robustness.",
+      "evidence_boundary": "Insertion results do not establish multifinger or human-to-robot retargeting performance. The paper emphasizes task dependence rather than one representation being universally best.",
+      "action": "add_reviewed_primary_contribution_override"
+    },
+    {
+      "arxiv_id": "2611.18546",
+      "title": "Modeling the Frictional Contact of Continuum Robots with Environments through Linear Complementarity Problem",
+      "arxiv_url": "https://arxiv.org/abs/2611.18546",
+      "arxiv_first_submission_on": "2026-11-13",
+      "observed_version": 1,
+      "version_submitted_on": "2026-11-13",
+      "checked_on": "2026-11-16",
+      "review_basis": "title_and_abstract",
+      "classification_path": [
+        "World Models, Planning & Embodied Reasoning",
+        "World & Dynamics Modeling",
+        "Object & Contact Dynamics"
+      ],
+      "evidence_summary": "Title/abstract review. A complementarity-constrained friction model predicts environmental static/sliding friction, hysteresis and resulting continuum-robot deformation, with physical validation on a tendon-driven continuum robot. The contribution is a contact-dynamics model.",
+      "evidence_boundary": "The experimental embodiment is a continuum robot, not a multifinger hand. The arXiv comment states IJRR acceptance; that author-provided statement does not make this a paper from the catalog's ten conference venues.",
+      "action": "add_reviewed_primary_contribution_override"
+    }
+  ],
+  "version_checks": [
+    {
+      "arxiv_id": "2611.16423",
+      "title": "VOKE: Visual Object Kinematics Estimator for Dexterous In-Hand Manipulation",
+      "arxiv_url": "https://arxiv.org/abs/2611.16423",
+      "arxiv_first_submission_on": "2026-11-12",
+      "observed_version": 2,
+      "version_submitted_on": "2026-11-13",
+      "classification_path": [
+        "Perception, Representation & State Estimation",
+        "Object & Interaction Perception",
+        "6D Pose & Tracking"
+      ],
+      "action": "retain_existing_reviewed_perception_classification",
+      "reason": "The updated source still contributes object pose, velocity and acceleration perception. A downstream manipulation policy is not the primary retargeting contribution."
+    }
+  ],
+  "publication_claim_reviews": [
+    {
+      "arxiv_id": "2611.18546",
+      "arxiv_url": "https://arxiv.org/abs/2611.18546",
+      "author_stated_acceptance": "Accepted for publication in International Journal of Robotics Research (IJRR).",
+      "related_doi_as_observed": "10.1177/02783649261504037",
+      "action": "record_author_stated_journal_status_without_conference_promotion",
+      "boundary": "The linked DOI was observed on arXiv; independent publisher-deposited acceptance or publication-date verification was not performed in this targeted review."
+    },
+    {
+      "arxiv_id": "2611.15981",
+      "title": "DexRemo: A Force-Sensing Hand Platform and Task Suite for Contact-Rich Removal Manipulation",
+      "arxiv_url": "https://arxiv.org/abs/2611.15981",
+      "arxiv_first_submission_on": "2026-11-11",
+      "observed_version": 1,
+      "author_stated_acceptance": "Accepted for publication in IEEE Transactions on Robotics (T-RO), 2026.",
+      "action": "retain_existing_hand_platform_classification_and_record_author_stated_journal_status",
+      "boundary": "T-RO is a journal outside the ten-conference census. The arXiv comment is not independent official-publisher verification and does not create a new conference-layer record."
+    }
+  ],
+  "date_policy": "The catalog published field retains original arXiv v1 submission. A replacement date, new-listing date, review date or journal-acceptance comment must not overwrite it.",
+  "limitations": [
+    "These are targeted contribution assignments, not semantic certification of all records in the full catalog.",
+    "The inspected cs.RO recent and new pages did not establish a new pure dexterous-hand retargeting paper in the November 13-16 window; this is not proof that no such paper exists in all arXiv categories.",
+    "November 16 new listings can contain papers first submitted on November 12 or 13. Original submission dates and later revisions remain separate.",
+    "Residual representation or planning-cost adaptation is not automatically residual action control or hand retargeting.",
+    "Human-hand touch-grounded replays, simulated policy trials, real-contact prediction and real-robot policy transfer are different evidence levels.",
+    "A source date is only advanced by a successful source harvest recorded elsewhere; this targeted review does not claim source-harvest completion."
+  ]
+}

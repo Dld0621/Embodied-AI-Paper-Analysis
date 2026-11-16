@@ -1,0 +1,63 @@
+{
+  "checked_on": "2026-11-04",
+  "snapshot_date": "2026-11-04",
+  "source": "Official arXiv API batch ID checks after the complete cs.RO source harvest",
+  "api": "https://export.arxiv.org/api/query?id_list=2603.17022%2C2605.15999%2C2605.24044&max_results=3",
+  "scope": "Title, abstract, category and unchanged admission-function checks only; not full-paper review, experiment reproduction or a change to admission rules.",
+  "records": [
+    {
+      "id": "2603.17022",
+      "paper_url": "https://arxiv.org/abs/2603.17022",
+      "baseline_title": "Contingency-Aware Planning via Certified Neural Hamilton-Jacobi Reachability",
+      "current_title": "Contingency-Aware Planning via Certified Neural Hamilton-Jacobi Reachability",
+      "version": 2,
+      "arxiv_first_submission_on": "2026-03-17",
+      "updated_on": "2026-11-02",
+      "primary_category": "cs.RO",
+      "cs_ro_present": true,
+      "changed_fields": ["abstract"],
+      "matched_exclusion_terms": [],
+      "remaining_admission_matches": ["abstract:simulation"],
+      "current_admission_result": null,
+      "reason": "标题不变而摘要修订；旧版 navigation 强纳入词被移除，当前词表仅匹配单个弱词 simulation，不变准入函数返回 null。官方 API 仍返回含 cs.RO 的 v2 记录，因此这里记录的是措辞敏感的规则边界，不是已确认撤稿、来源分页遗漏或研究无关。"
+    },
+    {
+      "id": "2605.15999",
+      "paper_url": "https://arxiv.org/abs/2605.15999",
+      "baseline_title": "Constrained MPC-Based Motion Planning for Morphing Quadrotors in Ultra-Narrow Passages under Limited Perception",
+      "current_title": "Trajectory and Morphology Planning for Morphing Quadrotors in Ultra-Narrow Passages using Limited Perception",
+      "version": 2,
+      "arxiv_first_submission_on": "2026-05-15",
+      "updated_on": "2026-11-02",
+      "primary_category": "cs.RO",
+      "cs_ro_present": true,
+      "changed_fields": ["title", "abstract"],
+      "matched_exclusion_terms": [],
+      "remaining_admission_matches": ["abstract:simulation"],
+      "current_admission_result": null,
+      "reason": "标题与摘要均已修订，旧版 motion planning、navigation、mobile robot 等字面匹配不再出现；当前仅剩一个弱词 simulation，未达到不变准入阈值。新的 trajectory and morphology planning 表述及 quadrotor/MPC 内容仍可能与机器人研究相关，不能因现有词表未收录而称其无关或撤稿。官方 API 仍返回 cs.RO 记录。"
+    },
+    {
+      "id": "2605.24044",
+      "paper_url": "https://arxiv.org/abs/2605.24044",
+      "baseline_title": "RED: Adaptive Real-Time DAG Scheduling for Robotic Inference under Environmental Dynamics",
+      "current_title": "MERIS: Adaptive Real-Time Scheduling of Refined Inference DAGs in Dynamic Robotic Environments",
+      "version": 2,
+      "arxiv_first_submission_on": "2026-05-21",
+      "updated_on": "2026-11-02",
+      "primary_category": "cs.RO",
+      "cs_ro_present": true,
+      "changed_fields": ["title", "abstract"],
+      "matched_exclusion_terms": [],
+      "remaining_admission_matches": ["abstract:benchmark"],
+      "current_admission_result": null,
+      "reason": "本次官方 v2 将 RED 改名为 MERIS 并修订摘要，原有 navigation 强纳入词不再出现；新的 minibenchmark 仅字面包含弱词 benchmark，未满足不变准入函数的阈值。记录仍含 cs.RO，且题名与摘要明确讨论机器人实时推理调度，因此不能把字面词表移出解释为研究无关、撤稿或分页遗漏。"
+    }
+  ],
+  "limitations": [
+    "All three IDs were returned by the official API, still include cs.RO and yield null under the unchanged admission function. This is not evidence of withdrawal or a universal relevance judgement.",
+    "Admission vocabulary is sensitive to wording changes and lacks many valid robotics terms. The examples expose that boundary without silently widening the rules or rewriting the source records.",
+    "The arXiv published date is the original arXiv submission date, not necessarily the research's first publication or public disclosure.",
+    "Candidate-count reconciliation and these targeted checks do not independently prove perfect candidate identities or semantic coverage. Earlier dated receipts remain immutable."
+  ]
+}

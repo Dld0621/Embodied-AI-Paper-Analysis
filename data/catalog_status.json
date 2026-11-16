@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "documents_updated_on": "2026-11-16",
+  "timezone": "Asia/Hong_Kong",
+  "conference_snapshot_on": "2026-11-16",
+  "arxiv_snapshot_on": "2026-11-16",
+  "arxiv_window": {
+    "start": "2023-11-16",
+    "end": "2026-11-16",
+    "years": [
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  "latest_arxiv_published": "2026-11-13",
+  "conference_records": 4535,
+  "arxiv_records": 27016,
+  "combined_unique_records": 29535,
+  "arxiv_candidates": 34518,
+  "arxiv_outside_admission_rules": 7502,
+  "api_candidate_count_verified": true,
+  "api_declared_candidate_records": 34518,
+  "conference_source_age_days": 0,
+  "arxiv_source_age_days": 0,
+  "classification_status_counts": {
+    "rule-assigned": 24342,
+    "needs-review": 7100,
+    "reviewed": 109
+  },
+  "coverage_claim": "Exhaustive only within the declared retrieval/admission boundary, not all embodied-AI literature.",
+  "limitations": [
+    "Conference discovery uses ten venue indexes and a robot keyword query; bibliographic indexes may lag and miss papers.",
+    "The arXiv layer is limited to cs.RO including cross-listings and the declared rolling three-year window.",
+    "Admission/exclusion rules and automatic classification are imperfect; rejected candidates are not proof of irrelevance.",
+    "A recent document date is not evidence of a fresh source harvest, full-paper review or experiment reproduction."
+  ]
+}

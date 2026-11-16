@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-11-04",
+  "timezone": "Asia/Hong_Kong",
+  "baseline_commit": "31288a762c355e7d371febaa9cfe4485205a9206",
+  "scope": "Source-harvest completion, immutable conference preservation and targeted submission-versus-publication metadata checks only; not full-paper review, experiment reproduction or expanded admission rules.",
+  "refresh_scope": "arxiv-only",
+  "arxiv_refresh": {
+    "snapshot_on": "2026-11-04",
+    "completed": true,
+    "candidate_records": 34174,
+    "api_declared_candidate_records": 34174,
+    "candidate_count_verified": true,
+    "admitted_records": 26707,
+    "outside_admission_rules": 7467
+  },
+  "conference_refresh": {
+    "attempted_on": "2026-11-04",
+    "completed": false,
+    "api": "https://api.semanticscholar.org/graph/v1/paper/search/bulk",
+    "attempts": [
+      {
+        "attempt": 1,
+        "result": "aborted_after_internal_retries",
+        "http_status": 429,
+        "failed_stage": "RSS first-venue request",
+        "complete_source_snapshot_written": false
+      },
+      {
+        "attempt": 2,
+        "result": "aborted_after_internal_retries",
+        "http_status": 429,
+        "partial_progress": [{"venue": "RSS", "venue_matched_records": 256}],
+        "failed_stage": "next venue after RSS",
+        "complete_source_snapshot_written": false
+      }
+    ],
+    "action": "preserve_previous_complete_conference_snapshot_without_redating",
+    "snapshot_before": "2026-10-30",
+    "snapshot_after": "2026-10-30",
+    "records_before": 4364,
+    "records_after": 4364,
+    "hand_verified_seed_records": 78,
+    "baseline_file_sha256": "8ac030484082c0318900b90db6fc2e446c8783e5d5bd9c7f867d27fbdbededa1",
+    "current_file_sha256": "8ac030484082c0318900b90db6fc2e446c8783e5d5bd9c7f867d27fbdbededa1",
+    "hash_basis": "SHA-256 of exact data/papers.json file bytes, not canonicalized JSON",
+    "source_bytes_unchanged": true,
+    "historical_seed_verification_dates_unchanged": true,
+    "reason": "Both complete-harvest attempts terminated with Semantic Scholar HTTP 429 before all ten venue indexes were collected. The second attempt's RSS-only progress is not a complete conference refresh. No new conference snapshot, current conference coverage or November 4 verification of the old seeds is claimed."
+  },
+  "submission_publication_distinctions": [
+    {
+      "arxiv_id": "2611.04176",
+      "title": "Grasping and Stabilizing Tumbling Objects with Rotating-Base Multi-Arm Space Manipulators",
+      "arxiv_url": "https://arxiv.org/abs/2611.04176",
+      "arxiv_first_submission_on": "2026-11-03",
+      "catalog_published_field": "2026-11-03",
+      "catalog_year_field": 2026,
+      "arxiv_journal_reference_as_observed": "IEEE Transactions on Robotics, 2006",
+      "arxiv_related_doi": "10.1109/TRO.2026.3723957",
+      "crossref_api": "https://api.crossref.org/works/10.1109%2FTRO.2026.3723957",
+      "publisher_deposited_metadata": {
+        "title": "Grasping and Stabilizing Tumbling Objects With Rotating-Base Multiarm Space Manipulators",
+        "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "doi": "10.1109/tro.2026.3723957",
+        "published_year": 2026,
+        "published_print_year": 2026,
+        "issued_year": 2026,
+        "crossref_record_created_on": "2026-08-13"
+      },
+      "status": "journal_reference_year_conflicts_with_publisher_deposited_doi_metadata",
+      "action": "retain_observed_arxiv_source_fields_and_record_conflict",
+      "reason": "The arXiv first-submission date is verified as November 3. Its journal-reference year says 2006, whereas the same-title IEEE DOI metadata deposited with Crossref gives 2026 and a record-created date before the arXiv submission. The journal-reference year is therefore not treated as a confirmed 2006 publication, and the deposit date is not relabeled as an exact publication date. A new arXiv submission does not establish the first public appearance or novelty of the research. No source date or year field is silently corrected."
+    }
+  ],
+  "limitations": [
+    "Only the arXiv source layer was successfully refreshed. A November 4 document date must not imply that the conference source was refreshed beyond October 30.",
+    "HTTP 429 is a source-access limitation, not evidence that the conference corpus has no new papers. Partial venue progress does not support a complete-source freshness claim.",
+    "The catalog's arXiv published field records original arXiv submission, not necessarily journal publication, conference acceptance, research novelty or first public disclosure.",
+    "The observed 2006 journal-reference year conflicts with publisher-deposited 2026 DOI metadata. No exact journal publication day or cause of the inconsistency is established here.",
+    "Candidate-count reconciliation is not independent proof of perfect candidate identities, admission rules or semantic classification. Earlier dated receipts and source verification dates remain immutable."
+  ]
+}

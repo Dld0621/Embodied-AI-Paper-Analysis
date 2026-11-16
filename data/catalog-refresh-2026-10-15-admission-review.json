@@ -1,0 +1,60 @@
+{
+  "checked_on": "2026-10-15",
+  "snapshot_date": "2026-10-15",
+  "source": "Official arXiv API ID checks and Semantic Scholar DOI checks after complete source harvests",
+  "api": "https://export.arxiv.org/api/query?id_list=2512.09447,2510.07749&max_results=2",
+  "scope": "Title, abstract, category, provenance and admission-function checks only; not full-paper review, reproduction or a change to admission rules.",
+  "records": [
+    {
+      "id": "2510.07749",
+      "paper_url": "https://arxiv.org/abs/2510.07749",
+      "current_title": "Injecting Hallucinations in Autonomous Vehicles: A Component-Agnostic Safety Evaluation Framework",
+      "updated_on": "2026-10-09",
+      "primary_category": "cs.RO",
+      "cs_ro_present": true,
+      "changed_fields": ["abstract"],
+      "current_admission_result": null,
+      "reason": "摘要修订后不再匹配原有 simulator 纳入词，仅剩弱词 simulation，未达到现有纳入阈值；仍属 cs.RO，并非已确认撤稿。"
+    },
+    {
+      "id": "2512.09447",
+      "paper_url": "https://arxiv.org/abs/2512.09447",
+      "current_title": "Calibrated Keyframe-Segment Selection for Descriptor-Agnostic LiDAR Loop Closure in Repetitive Environments",
+      "updated_on": "2026-10-12",
+      "primary_category": "cs.RO",
+      "cs_ro_present": true,
+      "changed_fields": ["title", "abstract"],
+      "current_admission_result": null,
+      "reason": "标题和摘要均修订，新摘要删除了原有 simultaneous localization and mapping / SLAM 强纳入词；剩余匹配未达到现有词表阈值，不能因此认定论文不相关或已撤稿。"
+    }
+  ],
+  "conference_records": [
+    {
+      "title": "Decoding Multi-Finger Motions and Grasp Types with Grasp-Specific Models and Lightmyography Based Muscle-Machine Interfaces",
+      "year": 2026,
+      "venue": "ICRA",
+      "official_url": "https://doi.org/10.1109/ICRA57385.2026.11696457",
+      "metadata_api": "https://api.semanticscholar.org/graph/v1/paper/DOI:10.1109/ICRA57385.2026.11696457?fields=title,abstract,year,venue,url,externalIds",
+      "baseline_abstract_empty": true,
+      "matched_exclusion_terms": ["prosthetic"],
+      "current_admission_result": null,
+      "reason": "来源新补全的摘要提到 prosthetic，触发现有全局排除词；基准摘要为空。这是按现有规则移出，不是源论文消失或撤稿，也不证明研究与机器人无关。"
+    },
+    {
+      "title": "Direct in-Petri Dish Liquid Droplet Manipulation Based on Microscope and Ultrasonic Phased Transducer Array",
+      "year": 2026,
+      "venue": "ICRA",
+      "official_url": "https://doi.org/10.1109/ICRA57385.2026.11696437",
+      "metadata_api": "https://api.semanticscholar.org/graph/v1/paper/DOI:10.1109/ICRA57385.2026.11696437?fields=title,abstract,year,venue,url,externalIds",
+      "baseline_abstract_empty": true,
+      "matched_exclusion_terms": ["ultrasound"],
+      "current_admission_result": null,
+      "reason": "来源新补全的摘要包含 ultrasound，触发现有全局排除词；基准摘要为空。该术语在这里描述声场操纵，显示词表可能误排相关工作，本次未擅自扩展纳入边界。"
+    }
+  ],
+  "limitations": [
+    "关键词准入会因摘要措辞变化或补全而排除仍相关的机器人工作；本次记录这些已知边界，但不声称纳入规则完美。",
+    "窗口内未收录及规则排除不等于论文撤稿、分页遗漏或研究不相关。",
+    "来源快照、文档同步和论文原始发表日期是不同时间概念。"
+  ]
+}

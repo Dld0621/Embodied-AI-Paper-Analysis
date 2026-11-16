@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-04",
+  "timezone": "Asia/Hong_Kong",
+  "baseline_commit": "36d3091f7e9852bd8b54f7fbe98d06a45b09ceca",
+  "source_refresh": true,
+  "layers": {
+    "papers.json": {
+      "snapshot_before": "2026-10-03",
+      "snapshot_after": "2026-10-04",
+      "records_before": 4365,
+      "records_after": 4365,
+      "added": [],
+      "removed": [],
+      "retained_metadata_changes": 2
+    },
+    "arxiv_recent.json": {
+      "snapshot_before": "2026-10-03",
+      "snapshot_after": "2026-10-04",
+      "records_before": 25257,
+      "records_after": 25226,
+      "added": [],
+      "removed": [
+        {
+          "id": "2310.01723",
+          "title": "Predicting Future Spatiotemporal Occupancy Grids with Semantics for Autonomous Driving",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.01723"
+        },
+        {
+          "id": "2310.01738",
+          "title": "RETRO: Reactive Trajectory Optimization for Real-Time Robot Motion Planning in Dynamic Environments",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.01738"
+        },
+        {
+          "id": "2310.01740",
+          "title": "Control of Soft Pneumatic Actuators with Approximated Dynamical Modeling",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.01740"
+        },
+        {
+          "id": "2310.01767",
+          "title": "Differentially Encoded Observation Spaces for Perceptive Reinforcement Learning",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.01767"
+        },
+        {
+          "id": "2310.01775",
+          "title": "STAMP: Differentiable Task and Motion Planning via Stein Variational Gradient Descent",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.01775"
+        },
+        {
+          "id": "2310.01824",
+          "title": "Mini-BEHAVIOR: A Procedurally Generated Benchmark for Long-horizon Decision-Making in Embodied AI",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.01824"
+        },
+        {
+          "id": "2310.01827",
+          "title": "Learning and reusing primitive behaviours to improve Hindsight Experience Replay sample efficiency",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.01827"
+        },
+        {
+          "id": "2310.01844",
+          "title": "Semi-Aerodynamic Model Aided Invariant Kalman Filtering for UAV Full-State Estimation",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.01844"
+        },
+        {
+          "id": "2310.01930",
+          "title": "A Distributed Multi-Robot Framework for Exploration, Information Acquisition and Consensus",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.01930"
+        },
+        {
+          "id": "2310.01932",
+          "title": "Automatic Data Processing for Space Robotics Machine Learning",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.01932"
+        },
+        {
+          "id": "2310.01957",
+          "title": "Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.01957"
+        },
+        {
+          "id": "2310.01967",
+          "title": "Efficient Frontier Management for Collaborative Active SLAM",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.01967"
+        },
+        {
+          "id": "2310.01986",
+          "title": "A Vision-Based Tactile Sensing System for Multimodal Contact Information Perception via Neural Network",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.01986"
+        },
+        {
+          "id": "2310.02031",
+          "title": "OceanGPT: A Large Language Model for Ocean Science Tasks",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.02031"
+        },
+        {
+          "id": "2310.02044",
+          "title": "How Physics and Background Attributes Impact Video Transformers in Robotic Manipulation: A Case Study on Planar Pushing",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.02044"
+        },
+        {
+          "id": "2310.02071",
+          "title": "Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.02071"
+        },
+        {
+          "id": "2310.02121",
+          "title": "Fast algorithm for centralized multi-agent maze exploration",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.02121"
+        },
+        {
+          "id": "2310.02141",
+          "title": "Adaptive Gait Modeling and Optimization for Principally Kinematic Systems",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.02141"
+        },
+        {
+          "id": "2310.02162",
+          "title": "TreeScope: An Agricultural Robotics Dataset for LiDAR-Based Mapping of Trees in Forests and Orchards",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.02162"
+        },
+        {
+          "id": "2310.02211",
+          "title": "Fast Localization and Tracking in City-Scale UWB Networks",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.02211"
+        },
+        {
+          "id": "2310.02219",
+          "title": "What do we learn from a large-scale study of pre-trained visual representations in sim and real environments?",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.02219"
+        },
+        {
+          "id": "2310.02240",
+          "title": "Spherical Rolling Robots Design, Modeling, and Control: A Systematic Literature Review",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.02240"
+        },
+        {
+          "id": "2310.02251",
+          "title": "Talk2BEV: Language-enhanced Bird's-eye View Maps for Autonomous Driving",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.02251"
+        },
+        {
+          "id": "2310.02262",
+          "title": "RSRD: A Road Surface Reconstruction Dataset and Benchmark for Safe and Comfortable Autonomous Driving",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.02262"
+        },
+        {
+          "id": "2310.02264",
+          "title": "Generalizable Long-Horizon Manipulations with Large Language Models",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.02264"
+        },
+        {
+          "id": "2310.02324",
+          "title": "ALT-Pilot: Autonomous navigation with Language augmented Topometric maps",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.02324"
+        },
+        {
+          "id": "2310.02361",
+          "title": "Event-Enhanced Multi-Modal Spiking Neural Network for Dynamic Obstacle Avoidance",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.02361"
+        },
+        {
+          "id": "2310.02392",
+          "title": "A 3D Mixed Reality Interface for Human-Robot Teaming",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.02392"
+        },
+        {
+          "id": "2310.02440",
+          "title": "Learning Diverse Skills for Local Navigation under Multi-constraint Optimality",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.02440"
+        },
+        {
+          "id": "2310.02477",
+          "title": "Human-Like Autonomous Driving on Dense Traffic",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.02477"
+        },
+        {
+          "id": "2310.07731",
+          "title": "Multi-Robot Task Planning to Secure Human Group Progress",
+          "published": "2023-10-03",
+          "paper_url": "https://arxiv.org/abs/2310.07731"
+        }
+      ],
+      "retained_metadata_changes": 0,
+      "api_declared_candidates": 32509,
+      "observed_candidates": 32509,
+      "candidate_count_verified": true,
+      "removed_outside_new_window": 31
+    }
+  }
+}

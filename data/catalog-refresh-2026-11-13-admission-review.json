@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-13",
+  "snapshot_date": "2026-11-13",
+  "source": "Official arXiv API by-ID check, evaluated with the unchanged harvest admission function.",
+  "api": "https://export.arxiv.org/api/query?id_list=2404.03689&max_results=1",
+  "records": [
+    {
+      "id": "2404.03689",
+      "paper_url": "https://arxiv.org/abs/2404.03689",
+      "baseline_title": "A Tutorial on Gaussian Process Learning-based Model Predictive Control",
+      "current_title": "A Tutorial on Gaussian Process Learning-based Model Predictive Control",
+      "version": 2,
+      "published_on": "2024-04-02",
+      "updated_on": "2026-11-12",
+      "primary_category": "cs.RO",
+      "cs_ro_present": true,
+      "changed_fields": [
+        "abstract"
+      ],
+      "matched_exclusion_terms": [],
+      "remaining_admission_matches": [],
+      "current_admission_result": null,
+      "reason": "新版摘要使用 Mobile-robot，旧摘要曾匹配 mobile robot。当前准入函数采用字面词表，新摘要未命中其中任一纳入词，返回 null。官方记录仍含 cs.RO 分类，可通过编号取得。这里记录词表对连字符写法的覆盖缺口。"
+    }
+  ]
+}

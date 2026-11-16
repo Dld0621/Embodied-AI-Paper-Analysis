@@ -1,0 +1,35 @@
+{
+  "checked_on": "2026-10-24",
+  "snapshot_date": "2026-10-24",
+  "source": "Official arXiv API ID check after the complete cs.RO source harvest",
+  "api": "https://export.arxiv.org/api/query?id_list=2604.02827&max_results=1",
+  "scope": "Title, abstract, category and unchanged admission-function checks only; not full-paper review, experiment reproduction or a change to admission rules.",
+  "records": [
+    {
+      "id": "2604.02827",
+      "paper_url": "https://arxiv.org/abs/2604.02827",
+      "baseline_title": "Orientation Matters: Learning Radiation Patterns of Multi-Rotor UAVs In-Flight to Enhance Communication Availability Modeling",
+      "current_title": "Full 3D Radiation Pattern Approximation in Multi-Rotor UAVs",
+      "version": 3,
+      "published_on": "2026-04-03",
+      "updated_on": "2026-10-22",
+      "primary_category": "cs.RO",
+      "cs_ro_present": true,
+      "changed_fields": [
+        "title",
+        "abstract"
+      ],
+      "matched_exclusion_terms": [],
+      "remaining_admission_matches": [
+        "abstract:simulation"
+      ],
+      "current_admission_result": null,
+      "reason": "官方 arXiv v3 的标题与摘要均已修订；新摘要删除了原有 path planning 强纳入词，现有词表仅匹配一个弱词 simulation，未达到不变准入函数的阈值。论文仍属 cs.RO，官方 API 成功返回，并非来源分页遗漏或已确认撤稿，也不能据此断言研究与机器人无关。"
+    }
+  ],
+  "limitations": [
+    "The unchanged keyword-admission boundary may exclude relevant robotics research after metadata wording changes; this check does not establish a universal relevance judgement.",
+    "Window exclusion, keyword non-admission, source-index absence and withdrawal are different outcomes and must not be conflated.",
+    "Earlier dated refresh receipts remain immutable historical evidence and are not modified by this review."
+  ]
+}
